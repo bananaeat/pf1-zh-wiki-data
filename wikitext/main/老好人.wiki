@@ -1,0 +1,11 @@
+{{Trait
+|name=老好人
+|english_name=Good Folk
+|type=地区
+|prerequisites=任意城市
+|description=
+人们对你的信任往往比他们对别人的信任更深厚。当你与态度为友善或者乐于帮助的生物进行互动时，你会在魅力检定以及基于魅力的技能检定中获得+2加值。
+|source_name=市井英雄
+|source=HotS
+|source_url=https://pf1chm.pages.dev/topics/zh4c7ba39919.htm
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 195），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=阿兹兰特工艺
+|english_name=Azlanti Engineering
+|type=种族
+|prerequisites=[[人类]]（阿兹兰特人）
+|description=你接受过阿兹兰特风格建筑与工艺的训练。你的[[知识]]（工程）检定获得+1背景加值。此外，你所制造的任何精制物品，其硬度和破坏DC都提高1。这项提高是增强加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Azlanti%20Engineering
+}}

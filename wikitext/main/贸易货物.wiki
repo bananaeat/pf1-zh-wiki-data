@@ -1,0 +1,163 @@
+{{#addbodyclass:pf-rules}}
+商人们通常会交换贸易货物而不使用货币。以物易物不必遵从以半价销售物品的规则；这些货物的交换价值就如同购买这些货物本身所需要的金钱相同。贸易货物通常会以比下表列出的数量多得多的批量进行运输和销售。农夫也比较希望以10磅或20磅一袋的数量，整袋销售给餐厅或大户人家，不太乐意几个几个地零散卖出。
+
+贸易货物分为以下几类：
+
+== 动物 ==
+列出的价格为一只活着的动物的价格。对于较大的动物，比如猪和奶牛来说，列出的价格还包含廉价的绳索，使你能够牵着动物离开。而对于较小的动物，比如鸡和鹅，购买时可能还会包含携带它们所需要的笼子。
+
+== 食物 ==
+食物类的货物包含小麦、坚果和奶酪之类的主食，外加红辣椒、咖啡豆或者蜂蜜这样的异国食物或原料。请注意此处列出的食品价格与食物章节给出的价格不同，这是因为要想购买这些物品然后食用，还要包含加工与烹饪食物所带来的开销（直接花费金钱或付出劳动）。举例说明的话，萝卜作为贸易货物的价格是每磅2cp，但是简陋的饭食（主要食用萝卜做原料）每天需要支付1sp。你能够以2sp购买1袋10磅重的萝卜，但是你需要把它切碎煮熟才能变为一顿饭食。
+
+== 原料 ==
+原料的用途较为狭窄，但是它可以做成其他有用或者有价值的物品。铁矿、石材、黑木、皮革、布匹以及动物毛皮都是原料。金属通常会以锭或者粗糙矿块的形式进行销售，不过也可以以矿石的形式运输或贩卖。
+
+=== 矿石纯度 ===
+金属矿石的价值取决于它的纯度——单位总量的普通岩石中到底有多少贵金属。对于标准的奇幻战役来说，矿石的纯度可能高达60%（对于特别高产的富铁矿床）或者低到5%（矿石如果低于这个纯度便不值得开矿进行挖掘）。为了方便起见，所有普通的矿石都按照25%的纯度计算。使用纯度的比率乘以每磅纯金属的价格以确定此种纯度的矿石的最高价值。例如，黄金每磅50gp，因此25%纯度的金矿石的价值为50gp x 25% = 每磅12.5gp。再算上冶炼的成本，所以矿石的价格通常为上述结果的一半到四分之三（因此25%纯度的金矿石实际上会以每磅6gp到9gp的价格进行购买或销售）。
+
+== 香料 ==
+大蒜、孜然、茴香、食盐以及生姜之类的香料通常用于改善其他食物的味道。它们通常放在罐子、瓶子里或者以蜡纸包裹的形式销售。
+
+== 贸易货物价格 ==
+{| class="wikitable sortable"
+|-
+! 名称 !! 英文名 !! 价格 !! 重量 !! 类别
+|-
+| 豚鼠 || Guinea pig || data-sort-value="1" | 1 cp || — || 动物
+|-
+| 老鼠 || Rat || data-sort-value="1" | 1 cp || — || 动物
+|-
+| 小麦（1磅） || Wheat (1 lb.) || data-sort-value="1" | 1 cp || 1磅 || 食物
+|-
+| 豆类（1磅） || Beans (1 lb.) || data-sort-value="2" | 2 cp || 1磅 || 食物
+|-
+| 奶酪（1磅） || Cheese (1 lb.) || data-sort-value="2" | 2 cp || 1磅 || 食物
+|-
+| [[鸡]] || Chicken || data-sort-value="2" | 2 cp || — || 动物
+|-
+| 面粉（1磅） || Flour (1 lb.) || data-sort-value="2" | 2 cp || 1磅 || 食物
+|-
+| 土豆（1磅） || Potatoes (1 lb.) || data-sort-value="2" | 2 cp || 1磅 || 食物
+|-
+| 萝卜（1磅） || Turnips (1 lb.) || data-sort-value="2" | 2 cp || 1磅 || 食物
+|-
+| 木炭（20磅） || Charcoal (20 lbs.) || data-sort-value="3" | 3 cp || 20磅 || 原料
+|-
+| 柑橘（1磅） || Citrus (1 lb.) || data-sort-value="3" | 3 cp || 1磅 || 食物
+|-
+| 坚果（1磅） || Nuts (1 lb.) || data-sort-value="3" | 3 cp || 1磅 || 食物
+|-
+| 泥炭（20磅） || Peat (20 lbs.) || data-sort-value="3" | 3 cp || 20磅 || 原料
+|-
+| 咖啡豆（1磅） || Coffee beans (1 lb.) || data-sort-value="5" | 5 cp || 1磅 || 食物
+|-
+| 煤炭（20磅） || Coal (20 lbs.) || data-sort-value="5" | 5 cp || 20磅 || 原料
+|-
+| 石料（1磅） || Masonry stone (1 lb.) || data-sort-value="5" | 5 cp || 1磅 || 原料
+|-
+| 食糖（1磅） || Sugar (1 lb.) || data-sort-value="5" | 5 cp || 1磅 || 食物
+|-
+| 铁（1磅） || Iron (1 lb.) || data-sort-value="10" | 1 sp || 1磅 || 原料
+|-
+| 铜（1磅） || Copper (1 lb.) || data-sort-value="50" | 5 sp || 1磅 || 原料
+|-
+| 大蒜（1磅） || Garlic (1 lb.) || data-sort-value="50" | 5 sp || 1磅 || 香料
+|-
+| 薄荷（1磅） || Mint (1 lb.) || data-sort-value="50" | 5 sp || 1磅 || 香料
+|-
+| 芥末（1磅） || Mustard (1 lb.) || data-sort-value="50" | 5 sp || 1磅 || 香料
+|-
+| 牛至（1磅） || Oregano (1 lb.) || data-sort-value="50" | 5 sp || 1磅 || 香料
+|-
+| 薄皮革（1平方码） || Thin leather (1 sq. yard) || data-sort-value="50" | 5 sp || — || 原料
+|-
+| 烟叶（1磅） || Tobacco (1 lb.) || data-sort-value="50" | 5 sp || 1磅 || 原料
+|-
+| 甜胡椒（1磅） || Allspice (1 lb.) || data-sort-value="100" | 1 gp || 1磅 || 香料
+|-
+| 罗勒（1磅） || Basil (1 lb.) || data-sort-value="100" | 1 gp || 1磅 || 香料
+|-
+| 肉桂（1磅） || Cinnamon (1 lb.) || data-sort-value="100" | 1 gp || 1磅 || 香料
+|-
+| [[玻璃]]（1磅） || Glass (1 lb.) || data-sort-value="100" | 1 gp || 1磅 || 原料
+|-
+| [[山羊]] || Goat || data-sort-value="100" | 1 gp || — || 动物
+|-
+| 蜂蜜（1磅） || Honey (1 lb.) || data-sort-value="100" | 1 gp || 1磅 || 食物
+|-
+| 枫蜜（1磅） || Maple syrup (1 lb.) || data-sort-value="100" | 1 gp || 1磅 || 食物
+|-
+| 肉豆蔻（1磅） || Nutmeg (1 lb.) || data-sort-value="100" | 1 gp || 1磅 || 香料
+|-
+| 迷迭香（1磅） || Rosemary (1 lb.) || data-sort-value="100" | 1 gp || 1磅 || 香料
+|-
+| 莳萝（1磅） || Dill (1 lb.) || data-sort-value="100" | 1 gp || 1磅 || 香料
+|-
+| 海狸毛皮 || Beaver pelt || data-sort-value="200" | 2 gp || — || 原料
+|-
+| 红辣椒（1磅） || Chilies (1 lb.) || data-sort-value="200" | 2 gp || 1磅 || 香料
+|-
+| 小豆蔻（1磅） || Cardamom (1 lb.) || data-sort-value="200" | 2 gp || 1磅 || 香料
+|-
+| 孜然（1磅） || Cumin (1 lb.) || data-sort-value="200" | 2 gp || 1磅 || 香料
+|-
+| 茴香（1磅） || Fennel (1 lb.) || data-sort-value="200" | 2 gp || 1磅 || 香料
+|-
+| 生姜（1磅） || Ginger (1 lb.) || data-sort-value="200" | 2 gp || 1磅 || 香料
+|-
+| 胡椒（1磅） || Pepper (1 lb.) || data-sort-value="200" | 2 gp || 1磅 || 香料
+|-
+| [[绵羊]] || Sheep || data-sort-value="200" | 2 gp || — || 动物
+|-
+| 香草（1磅） || Vanilla (1 lb.) || data-sort-value="200" | 2 gp || 1磅 || 香料
+|-
+| 狐狸毛皮 || Fox pelt || data-sort-value="300" | 3 gp || — || 原料
+|-
+| 水貂毛皮 || Mink pelt || data-sort-value="300" | 3 gp || — || 原料
+|-
+| [[猪]] || Pig || data-sort-value="300" | 3 gp || — || 动物
+|-
+| 厚皮革（1平方码） || Thick leather (1 sq. yard) || data-sort-value="300" | 3 gp || — || 原料
+|-
+| 白鼬毛皮 || Ermine pelt || data-sort-value="400" | 4 gp || — || 原料
+|-
+| 亚麻布（1平方码） || Linen (1 sq. yard) || data-sort-value="400" | 4 gp || — || 原料
+|-
+| 大理石（1磅） || Marble (1 lb.) || data-sort-value="500" | 5 gp || 1磅 || 原料
+|-
+| 食盐（1磅） || Salt (1 lb.) || data-sort-value="500" | 5 gp || 1磅 || 香料
+|-
+| 海豹毛皮 || Seal pelt || data-sort-value="500" | 5 gp || — || 原料
+|-
+| 银（1磅） || Silver (1 lb.) || data-sort-value="500" | 5 gp || 1磅 || 原料
+|-
+| 羊毛（1磅或1平方码） || Wool (1 lb. or 1 sq. yard) || data-sort-value="600" | 6 gp || 1磅 || 原料
+|-
+| 棉花（1磅或1平方码） || Cotton (1 lb. or 1 sq. yard) || data-sort-value="800" | 8 gp || 1磅 || 原料
+|-
+| 巧克力（1磅） || Chocolate (1 lb.) || data-sort-value="1000" | 10 gp || 1磅 || 食物
+|-
+| 奶牛 || Cow || data-sort-value="1000" | 10 gp || — || 动物
+|-
+| [[黑木]]（1磅） || Darkwood (1 lb.) || data-sort-value="1000" | 10 gp || 1磅 || 原料
+|-
+| 丝绸（1平方码） || Silk (1 sq. yard) || data-sort-value="1000" | 10 gp || 1磅 || 原料
+|-
+| 丁香（1磅） || Cloves (1 lb.) || data-sort-value="1500" | 15 gp || 1磅 || 香料
+|-
+| 公牛 || Ox || data-sort-value="1500" | 15 gp || — || 动物
+|-
+| 蕃红花（1磅） || Saffron (1 lb.) || data-sort-value="1500" | 15 gp || 1磅 || 香料
+|-
+| [[寒铁]]（1磅） || Cold iron (1 lb.) || data-sort-value="5000" | 50 gp || 1磅 || 原料
+|-
+| 金（1磅） || Gold (1 lb.) || data-sort-value="5000" | 50 gp || 1磅 || 原料
+|-
+| [[精金]]（1磅） || Adamantine (1 lb.) || data-sort-value="30000" | 300 gp || 1磅 || 原料
+|-
+| [[秘银]]（1磅） || Mithral (1 lb.) || data-sort-value="50000" | 500 gp || 1磅 || 原料
+|-
+| 铂（1磅） || Platinum (1 lb.) || data-sort-value="50000" | 500 gp || 1磅 || 原料
+|}
+
+[[分类:规则]]

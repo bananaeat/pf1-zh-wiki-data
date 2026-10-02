@@ -1,0 +1,9 @@
+{{Trait
+|name=空身咒
+|english_name=Shrouded Casting
+|type=魔法
+|description=你学到了如何不使用低级材料施法的秘方。选择此[[背景特性]]时指定一个魔法学派。你在施展该学派法术时视为拥有[[施法免材]]专长。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

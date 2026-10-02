@@ -1,0 +1,12 @@
+{{消歧义|大话王}}
+{{Feat
+|name=大话王
+|english_name=Fabulist
+|categories=勇毅
+|description=你喜欢讲述那些扯淡的故事，当别人信以为真时你会因此信心大增。
+|prerequisites=“业余枪手”UC专长或勇毅职业特性。
+|benefit=你在表演（戏剧，喜剧，朗诵和演唱）技能检定上获得+1加值，且表演对你来说是[[本职技能]]。此外，每次你成功用[[唬骗]]检定说服他人相信一个牵强或不可能的故事时，你重获1点[[枪手#勇毅|勇毅]]。成功骗过一个友善或乐于帮助的生物，或者生命骰少于你角色等级一半的生物，并不会恢复勇毅。
+|source=CoB
+|source_name=平衡勇士
+|source_url=https://pf1chm.pages.dev/topics/zh27d9c2abc3.htm
+}}

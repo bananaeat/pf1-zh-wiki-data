@@ -1,0 +1,10 @@
+{{武器
+|name=钝箭
+|english_name=Blunt arrows (20)
+|category=弹药
+|wcat=弹药
+|price=2 gp
+|weight=3磅
+|description=这种箭矢的箭头是圆形的木头，造成钝击伤害而非穿刺伤害。射手可以用钝箭造成非致命伤害（仍因以致命武器造成非致命伤害而承受-4攻击检定减值）。
+|source=进阶玩家指南、极限宝具
+}}

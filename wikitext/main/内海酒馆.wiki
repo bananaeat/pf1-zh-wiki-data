@@ -1,0 +1,42 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Inner Sea Taverns
+|authors=Kate Baker、Eleanor Ferron、Michelle Jones、Jason Keeley、Luis Loza、Jacob W. Michaels、Joe Pasini、David N. Ross
+|pages=64
+}}
+
+{{书页/简介|head=你的冒险从这里开始！|1=
+无论是城市最混乱街区里的肮脏酒吧，上流精英们品尝手工佳酿、交际应酬的高档场所，还是途经村庄里昏昏欲睡的饮酒所，酒馆都是每位冒险者生涯中的固定一站。在这里可以结识线人、打听最劲爆的八卦，或者只是在猎杀怪物的间隙痛饮一杯醇厚的麦酒。
+
+《开拓者战役设定：内海酒馆》提供了六家可直接使用、内容充实完整的酒馆，适用于发生在格拉利昂各地的游戏。每个条目都包括该酒馆的整页地图；一位常见的酒馆老板或酒保、以及一位可能充当敌人或盟友的当地强人的数据块；酒馆顾客群的完整历史与描述；以及酒馆场地的详细地志。一组酒馆斗殴与酒馆游戏规则为这部不可多得的大书画上圆满的句号。
+
+本书包含以下酒馆等的详情：
+
+* 艾林斯葡萄园（Aeylinth Vineyard），位于精灵之国奇奥尼重要停靠港、繁华城市绿金城（Greengold）树冠上的高雅葡萄酒吧。
+* 威严女仆（Formidably Maid），位于私掠船横行的镣铐群岛首府佩里尔港（Port Peril）码头郊区的粗野海盗酒吧。
+* 溢流（Runoff），星坠城的地下私酒馆，那里的酒被掺入了神秘的液体，对抗科技联盟的抵抗力量十分强大。
+* 低语石（Whispering Stone），位于奥西里昂瓦提（Wati）的半露天赌场兼休闲厅，以作为其核心的、大部分已被掩埋的古老雕像闻名。
+}}
+
+'''内海酒馆'''（''Inner Sea Taverns''，全名 ''Pathfinder Campaign Setting: Inner Sea Taverns''）是开拓者战役设定系列的一本资料书，由 Kate Baker、Eleanor Ferron 等 8 位作者撰写，于 2018 年 2 月 28 日发行。
+
+== 目录 ==
+{{书页/目录|1=
+导言 @ 2
+艾林斯葡萄园（Aeylinth Vineyard） @ 6
+威严女仆（Formidably Maid） @ 14
+波斯莫斯俱乐部（The Porthmos Club） @ 22
+溢流（Runoff） @ 30
+低语石（Whispering Stone） @ 38
+邪恶餐叉（The Wicked Fork） @ 46
+饮酒与斗殴 @ 54
+酒馆游戏 @ 60
+}}
+
+{{书页尾
+|pfw=Inner Sea Taverns
+|releases=Softcover¦PZO92107¦2018-02¦978-1-64078-016-3；PDF¦PZO92107E¦¦
+}}
+
+[[分类:书目]]

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=心灵岗哨勋章
+|english_name=Mind Sentinel Medallion
+|aon=MagicWondrousDisplay.aspx?FinalName=Mind Sentinel Medallion
+|cat=奇物
+|aura=微弱防护系
+|cl=1
+|slot=颈部
+|price=3,500 gp
+|description=这枚银质勋章的表面布满棱角分明的几何图形，会随机折射光线。勋章持续给予佩戴者对抗影响心灵的法术、类法术能力和超自然能力的豁免检定+2抗力加值。如果佩戴者在避免被支配或迷惑的豁免检定中失败，勋章会立刻给予佩戴者第二次豁免检定来抵抗该效果。如果第二次豁免成功，勋章的力量会完全消退，变成一件普通的银饰。
+|req=[[制造奇物]]、[[防护邪恶]]
+|cost=1,750 gp
+|source=极限宝具
+}}

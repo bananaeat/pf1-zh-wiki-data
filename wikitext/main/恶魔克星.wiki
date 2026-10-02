@@ -1,0 +1,12 @@
+{{Feat
+|name=恶魔克星
+|english_name=Demonic Nemesis
+|categories=战斗
+|description=你对某位特定恶魔领主的阴谋诡计了如指掌。你能抵御他的伎俩，且毫不畏惧他的爪牙。
+|prerequisites=[[恶魔猎手]]（内海世界指南），[[知识]]（位面）6 级。
+|benefit=当你选择此专长时，选定一位恶魔领主。在与该恶魔领主的追随者战斗时，包括邪教徒或恶魔，你对这些生物进行伤害检定以及重击确认检定时，可获得+2加值。
+|special=你可以多次选取此专长。每次选取时，你必须选择一位新的恶魔领主。
+|source=DHH
+|source_name=恶魔猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh90d9fee6da.htm
+}}

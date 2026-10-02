@@ -1,0 +1,10 @@
+{{Feat
+|name=高等召唤
+|english_name=Superior Summoning
+|description=你可以召唤更多的生物。
+|prerequisites=[[增强召唤]]，施法者等级3级。
+|benefit=每当你施法一个召唤法术并且召唤出超过一个生物时，所召唤生物的总数增加一个。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

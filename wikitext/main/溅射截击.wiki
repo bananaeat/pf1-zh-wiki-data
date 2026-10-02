@@ -1,0 +1,12 @@
+{{Feat
+|name=溅射截击
+|english_name=Splash Volley
+|categories=背叛;团队
+|pfs=否
+|description=你的盟友早就对被你投出的武器溅到习以为常，至少他们能确保敌人也被命中。
+|prerequisites=BAB＋1
+|benefit=当你的溅射武器失手且落点为拥有此专长盟友的触及范围内的方格时即可使用该专长。牺牲者可以[[直觉动作]]对邻接敌人进行近战[[接触攻击]]来改变溅射武器的方向以取代你骰出的失手落点。若牺牲者命中敌人，溅射武器会落在目标敌人占据的方格最近的方格里。
+|source=CoC
+|source_name=秽邪勇士
+|source_url=https://pf1chm.pages.dev/topics/zh45cf79b2ca.htm
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=史学徒
+|english_name=Student of History
+|type=信念
+|description=通过了解前代犯下的错误，你相信自己能一步步迈向开悟。你在知识(历史)检定中获得+1背景加值，且该技能为你的[[本职技能]]。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh484c89782e.htm
+}}

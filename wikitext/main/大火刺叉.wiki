@@ -1,0 +1,17 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=大火刺叉
+|english_name=Conflagration Pike
+|cat=特殊魔法武器
+|base=[[刺叉]]
+|enh=+1
+|aura=微弱塑能系
+|cl=3
+|slot=无
+|price=3,110 gp
+|weight=12磅
+|description=这把+1[[刺叉]]摸上去是温热的。每天1次，在用刺叉成功攻击一个目标之后，持用者可以以一个[[直觉动作]]命令它爆燃起火焰，对目标额外造成2d6点火焰伤害，并对持用者造成1d6点火焰伤害。火焰随后立刻熄灭。
+|req=[[制造魔法武器和防具]]、[[燃烧之手]]
+|cost=1,710 gp
+|source=Pathfinder: Hollow Mountain #1
+}}

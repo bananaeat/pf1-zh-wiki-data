@@ -1,0 +1,10 @@
+<noinclude>{{侠客导航}}
+'''超越极限'''（Past Your Limits, Ex）是[[侠客]]的[[典范编年史|替代巅峰]]。
+
+</noinclude>{{Source|传奇编年史|Chronicle of Legends|inline}}
+
+20级时，侠客习得延伸自我来完成他从未想过之事。侠客获得1个额外的社交天赋和1个额外的侠客天赋，这些额外天赋不受侠客之道的限制——诡秘猎手可以选择仅限复仇骑士选择的天赋，反之亦然。在GM的允许下，侠客甚至可以选择仅限变体侠客选择的天赋，例如邪术师（Cabalist）的活体阴影（Living Shadow）天赋。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1501.html 原文]）。全部替代巅峰见 [[典范编年史]]。
+
+[[分类:巅峰能力]]</noinclude>

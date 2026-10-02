@@ -1,0 +1,15 @@
+{{魔法物品
+|name=环境亲和之靴
+|english_name=Boots of Friendly Terrain
+|aon=MagicWondrousDisplay.aspx?FinalName=Boots of Friendly Terrain
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=脚部
+|price=2,400 gp
+|weight=1磅
+|description=环境亲和之靴能把荒凉不宜居的地域变成穿戴它的游侠的绝佳狩猎场，甚至让他每走一步，脚印就在身后消失。每双这种柔软的皮靴对应一种由游侠的偏好地形职业能力所定义的特定环境（丛林、平原等等）。穿着这双靴子的游侠可以把靴子所对应的环境视为自己的偏好地形之一，获得+2加值。如果他已经把该环境选作偏好地形之一，则该地形的加值提高2。
+|req=[[制造奇物]]、[[行踪无迹]]、制造者必须是游侠
+|cost=1,200 gp
+|source=进阶玩家指南、极限宝具
+}}

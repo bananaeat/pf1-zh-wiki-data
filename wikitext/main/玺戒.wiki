@@ -1,0 +1,9 @@
+{{装备
+|name=玺戒
+|english_name=Signet ring
+|cat=冒险装备
+|price=5 gp
+|weight=—
+|description=这枚戒指上有浮雕的图案，通常是家徽或官方图徽。你可以将玺戒按入软蜡，并留下徽记的印痕。
+|source=核心规则书、极限宝具
+}}

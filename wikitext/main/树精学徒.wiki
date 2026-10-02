@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Wilderness Origins pg. 10），民间汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=树精学徒
+|english_name=Dryad's Apprentice
+|pfs=否
+|description=你从[[树精]]那里学到了木工的秘诀。
+|prerequisites=魅力13，伽瑟兰。
+|benefit=你可以随意施展[[塑木术]]作为类法术能力，但只能作用于重量不超过1磅的木材。你在与木材有关的工艺检定上获得+4加值，并且进行这类检定时，总是视为拥有精制的木工工具。
+|source=WO
+|source_name=荒野源始
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Dryad%27s%20Apprentice
+}}

@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=精准战姿
+|english_name=Accurate Stance
+|type=Ex
+|class=掉链野蛮人
+|benefit=野蛮人专注于她的打击，她在近战攻击骰和投掷攻击骰获得+1的表现加值。这个加值每4个等级便会提升1点。该狂暴之力是一种战姿。
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

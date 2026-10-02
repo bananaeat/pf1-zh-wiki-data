@@ -1,0 +1,10 @@
+{{Feat
+|name=美味虚招
+|english_name=Delectable Feint
+|description=你可以用美味的外皮来使敌人分心。
+|prerequisites=体质15，美味可口种族特性，蒿兰人
+|benefit=其它生物发现你是如此的美味，以致于从战斗中分神，而你得以利用他们在专注力上的短暂疏忽。你在对抗活的植食性或杂食性生物使用虚招的唬骗检定上获得+2加值。另外，如果你成功对上述目标施展了虚招，在战斗中虚招的通常效果外，那名敌人在你下一轮开始前，在察觉检定和专注检定上承受-2减值。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/page_815.html
+}}

@@ -1,0 +1,8 @@
+{{Feat
+|name=溅射武器大师
+|english_name=Splash Weapon Mastery
+|description=你擅长于提高溅射武器的射程、范围和精确度。
+|benefit=当投掷溅射武器时，你可以如同拥有[[远距射击]]专长。当你使用溅射武器命中目标时，选择一个与溅射范围相邻的额外方格；此方格内的生物同样受到溅射伤害。当你投掷溅射武器失手时，你可以用+1或者-1来调整误落地点的方向。此专长在决定其他专长的先决条件时视为远距射击，但是仍旧只对溅射武器有效。
+|source_name=冒险者的军械库
+|source_url=https://pf1chm.pages.dev/topics/zh6f3423e85b.htm
+}}

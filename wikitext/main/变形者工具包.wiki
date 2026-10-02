@@ -1,0 +1,10 @@
+{{物品
+|name=变形者工具包
+|english_name=Shifter's Kit
+|category=冒险装备
+|price=9 gp
+|weight=37磅
+|description=此工具包内有[[背包]]、[[毛毯]]、燧石与铁片、一个[[铁壶]]、[[麻绳]]、火把（10）、口粮（5天）与一个[[水袋]]。
+|source=UW
+|source_name=极限荒野
+}}

@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=撼地一击
+|english_name=Ground Breaker
+|type=Ex
+|class=掉链野蛮人
+|benefit=野蛮人以一个全回合动作对地面发起一次攻击，该攻击自动命中且如常造成伤害。如果该伤害大于地面硬度，则野蛮人所占据和周围邻接的方格变为[[困难地形]]。除了野蛮人以外，所有在该区域的生物都要做一次DC15的反射检定以避免被击倒。野蛮人至少要达到6级后才能选择此狂暴之力。
+|classic=大地之击
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

@@ -1,0 +1,11 @@
+{{Feat
+|name=强击 · 绝
+|english_name=Upsetting Vengeance
+|categories=战斗
+|description=对于那些凶猛进攻却又失败的敌人，你能给予他们回敬。
+|prerequisites=敏捷13，[[战斗反射]]，[[精通盾击]]，[[强击流]]，[[强击 · 返|强击·返]]，擅长小圆盾
+|benefit=开启[[强击流]]后，因你的盾击而在攻击骰上承受减值的敌人，在攻击任何目标时都承受减值。如果你邻接的敌人承受减值攻击任何一个目标，且失手至少少于该目标AC5点或以上，将会引起你的[[借机攻击]]。每轮你只能以本专长或[[强击 · 返|强击·返]]专长对一个敌人进行一次借机攻击。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_361.html
+}}

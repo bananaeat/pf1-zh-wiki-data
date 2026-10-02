@@ -1,0 +1,12 @@
+{{Feat
+|name=奥秘之爪
+|english_name=Eldritch Claws
+|categories=战斗
+|description=谁需要魔法武器？鬼魅的把戏无法阻挡你的兽性之力。
+|prerequisites=[[力量]] 15，拥有天生武器，基本攻击加值+6。
+|benefit=你的天生武器在克服伤害减免时同时被视为魔法和银。
+|stamina=只要耐力池里还有至少1点耐力，你的天生武器在克服伤害减免时视为{{材料|寒铁}}武器。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

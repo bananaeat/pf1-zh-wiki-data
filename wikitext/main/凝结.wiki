@@ -1,0 +1,10 @@
+<noinclude>{{女巫导航}}
+'''凝结'''（Congeal, Su）是[[女巫]]的[[巫术]]。
+
+</noinclude>{{Source|废土子民|People of the Wastes|inline}}
+
+女巫可以让周遭10尺内的水域变成粘稠泥浆，持续1分钟。该区域对于除女巫外所有正在游泳的生物来说如同[[困难地形]]。同时其亦会为所有针对穿过被该能力影响区域的物理效果提供部分掩蔽。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1270.html 原文]），见 [[洪灾废土]] 一章。全部巫术见 [[:分类:巫术|分类:巫术]]。
+
+[[分类:巫术]]</noinclude>

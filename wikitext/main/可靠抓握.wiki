@@ -1,0 +1,10 @@
+{{Feat
+|name=可靠抓握
+|english_name=Sure Grasp
+|description=你的快速反应和攀爬技巧保证你不致坠亡。
+|prerequisites=攀爬1级。
+|benefit=攀爬检定和避免坠落的反射检定可以双骰取高。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

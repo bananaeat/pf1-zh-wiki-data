@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Reign of Winter Player's Guide pg. 6, People of the North pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=北地血统
+|english_name=Northern Ancestry
+|type=战役
+|pfs=否
+|description=你的父母之一来自北地，你从小听着世界之巅那片冰封之地的故事长大，这些故事激发了你的想象。或者，也许你的某位祖先将某种霜覆生物的血脉传给了你。你在严冬时节最感生机勃勃，小时候常常在雪地里一玩就是好几个小时。你很少觉得冷，并一直怀着前往北方的强烈渴望。你的强韧豁免获得+1背景加值，并获得寒冷抗力2；此抗力与来自任何其他来源的寒冷抗力不叠加。
+|source_name=Reign of Winter Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Northern%20Ancestry
+}}

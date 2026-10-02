@@ -1,0 +1,10 @@
+{{Feat
+|name=重击导魔
+|english_name=Critical Conduit
+|description=在传递主人的魔法时，你十分致命。
+|prerequisites=[[传递接触法术]]，[[魔宠]]
+|benefit=当你为了主人[[传递接触法术]]时，你的[[接触攻击]]的重击威胁范围加倍。该专长不会与[[精通重击]]或者其他提高重击威胁范围的效果叠加。
+|source=AArch
+|source_name=动物档案
+|source_url=https://pf1chm.pages.dev/topics/page_437.html
+}}

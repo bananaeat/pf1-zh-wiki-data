@@ -1,0 +1,15 @@
+{{魔法物品
+|name=月光球
+|english_name=Globe of Moonlight
+|aon=MagicWondrousDisplay.aspx?FinalName=Globe of Moonlight
+|cat=奇物
+|aura=中等惑控系、塑能系
+|cl=7
+|slot=无
+|price=700 gp
+|weight=1磅
+|description=银白色、如珍珠般的光芒从这个头骨大小的玻璃球中渗出。当球被打碎（[[标准动作]]）时，月光会充满30尺半径的爆发范围。受满月之光影响的生物（例如受感染的兽化人）会如同暴露在满月光下一样受到影响，依赖月光的效果也会在此效果的范围内生效。这片月光持续1分钟，视为昏暗光照（取代该区域内现有的任何照明），并且在与其他光亮或黑暗效果相互作用时，相当于一个4环的光亮术。
+|req=[[制造奇物]]、[[光亮术]]、[[月狂病]]
+|cost=350 gp
+|source=月之血脉
+}}

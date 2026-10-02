@@ -1,0 +1,11 @@
+{{Feat
+|name=踏冰者
+|english_name=Sure on Ice
+|pfs=否
+|description=你在湿滑的冰面或雪地上如履平地
+|prerequisites=霜巨人
+|benefit=你在结冰或积雪的地面上移动时不会承受任何减值，也不必因为在冰面上奔跑或冲锋而进行特技检定，除此之外，你在攀爬冰面的攀爬技能检定获得+4加值。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1403.html
+}}

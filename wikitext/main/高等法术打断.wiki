@@ -1,0 +1,12 @@
+<noinclude>{{奥能师导航}}
+'''高等法术打断'''（Greater Spell Disruption, Su）是[[奥能师]]的[[奥能技艺|奥能技艺]]。
+
+</noinclude>{{Source|进阶职业指南|Advanced Class Guide|inline}}
+
+奥能师可以通过从奥能源泉中消费1点，来打断一个法术或魔法物品的效果。此行动类似于距离为〔接触〕的目标型解除魔法。奥能师可以将其魅力调整值加至解法检定。奥能师必须拥有[[奥能技艺#法术打断|法术打断]]技艺才能选择此技艺。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_96.html 原文]），按 AoN 核对过。全部奥能技艺见 [[奥能技艺]]。
+
+[[分类:奥能技艺]]
+
+{{职业}}</noinclude>

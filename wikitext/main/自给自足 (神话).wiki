@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[自给自足]] 的神话版本。</small></div>
+{{Feat
+|name=自给自足
+|english_name=Self-Sufficient
+|categories=神话
+|description=独立生存对你来说如同呼吸一样简单。
+|prerequisites=[[自给自足]]
+|benefit=[[自给自足]]专长对医疗与生存技能检定带来的加值增加2点。此外，你能够花费1次神话之力，使得1次医疗或者生存检定就好像自然掷出20一般。你必须在进行检定之前决定使用该能力。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

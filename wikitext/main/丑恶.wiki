@@ -1,0 +1,9 @@
+{{Trait
+|name=丑恶
+|english_name=Repulsive
+|type=种族
+|prerequisites=[[魔裔]]（污秽族裔）
+|description=丑恶的你几乎能使所有人本能地避免与你发生肢体接触。在对敌人使用[[闯越]]以及复位[[战技]]检定时获得+1背景加值。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_832.html
+}}

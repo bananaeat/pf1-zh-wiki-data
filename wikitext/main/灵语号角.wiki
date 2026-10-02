@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=灵语号角
+|english_name=Trumpet of Spirit Speaking
+|aon=MagicWondrousDisplay.aspx?FinalName=Trumpet of Spirit Speaking
+|cat=奇物
+|aura=中等死灵系
+|cl=6
+|slot=无
+|price=6,500 gp
+|weight=1磅
+|description=这个细长的分节锥形喇叭由轻质金属制成，可以折叠成三节。非魔法的通灵喇叭多被欺诈性的灵媒所用，靠手法和腹语来操弄，而灵语号角则能让使用者与亡者之灵进行真正的交流。每天一次，将其吹口贴到一具大体完整的尸体的嘴唇上时，使用者可以向这具死去的生物提出至多三个问题，如同该尸体受到[[死者交谈]]法术的影响。尸体对问题的回答会以轻柔、幽灵般的低语从喇叭中传出。
+|req=[[制造奇物]]、[[死者交谈]]
+|cost=3,250 gp
+|source=冒险之路71：拉斯普京必须死！、异能奥秘
+}}

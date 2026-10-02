@@ -1,0 +1,12 @@
+<noinclude>{{奥能师导航}}
+'''能量护盾'''（Energy Shield, Su）是[[奥能师]]的[[奥能技艺|奥能技艺]]。
+
+</noinclude>{{Source|进阶职业指南|Advanced Class Guide|inline}}
+
+以一个标准动作从奥能源泉中消费1点，奥能师可以保护他自己免受能量伤害。他选择一种能量类型，在每奥能师等级1分钟的时间内获得对此种能量10点抗力。每有5个奥能师等级，此抗力就增加5点（最高在20级时达到30）。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_96.html 原文]），按 AoN 核对过。全部奥能技艺见 [[奥能技艺]]。
+
+[[分类:奥能技艺]]
+
+{{职业}}</noinclude>

@@ -1,0 +1,17 @@
+{{武器
+|name=判官笔
+|english_name=Iron brush
+|category=武器
+|prof=军用
+|wcat=轻型
+|price=2 gp
+|weight=—
+|dmg_s=1d2
+|dmg_m=1d3
+|crit=×2
+|range=10尺
+|type=穿刺
+|groups=贴身
+|description=这是学者所用毛笔的铁柄版本，笔杆被磨尖。虽然它造成的伤害不大，但极易隐藏（使用者把判官笔藏在身上时的[[巧手]]检定+2），还可以抛掷出一小段距离，或者用来戳刺要害的神经丛和穴位，造成出人意料的毁灭性效果。
+|source=极限战斗、极限宝具
+}}

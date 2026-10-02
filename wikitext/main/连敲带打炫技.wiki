@@ -1,0 +1,11 @@
+{{Feat
+|name=连敲带打炫技
+|english_name=Whip-Shot Deed
+|categories=勇毅
+|pfs=否
+|description=你可以在用武器进行打击的同时开火。
+|prerequisites=“业馀枪手”UC专长或勇毅职业特性，枪柄打击炫技。
+|benefit=当你使用枪柄打击炫技时，你可以在用火器底部打击敌人的同时，用火器本身发射一枚子弹。如果你以这种方式使用枪柄打击，那么总共要消耗2点[[枪手#勇毅|勇毅]]，而且仍然必须在对抗枪柄打击炫技目标的远程[[接触攻击]]中成功才能命中。使用此专长时，你不能使用火器的散弹武器特性。
+|source_name=魔法市集指南
+|source_url=https://pf1chm.pages.dev/topics/zhdaea558109.htm
+}}

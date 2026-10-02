@@ -1,0 +1,16 @@
+{{Spell
+|name=群体奥罗登的捍卫之剑
+|english_name=Last azlanti's defending sword, mass
+|school=塑能系
+|tags=力场
+|levels=奥能师 9;术士 9;法师 9
+|action=标准动作
+|components=语言;姿势;法器（一把价值250 gp的铂金迷你剑）
+|range=近距
+|effect=最多每3等级一把剑
+|duration=1轮/等级 (可解消)
+|save=无
+|sr=是
+|description=这种法术如同[[奥罗登的捍卫之剑]]，除了你可以创造出每5个施法者等级一把剑，每一把都必须防护距离内一个不同的生物。
+|source=秘术选集
+}}

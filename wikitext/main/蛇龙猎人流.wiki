@@ -1,0 +1,16 @@
+{{Feat
+|name=蛇龙猎人流
+|english_name=Linnorm Hunter Style
+|categories=战斗;流派;团队
+|description=你和你的[[动物伙伴]]齐心协力攻击敌人
+|prerequisites=[[魅力]] 13，必须有或者是动物伙伴
+|benefit=使用这一[[流派]]时每轮一次，当一个拥有这一专长的盟友使用近战攻击命中了你们两者同时威胁的目标，你对该目标的[[借机攻击]]在一轮中获得+2加值。只要你威胁敌人，该敌人引起你盟友的借机攻击时也会引起你的借机攻击（就算这一情况通常不让你进行借机攻击也一样）。
+|special=智力为1或2的动物伙伴也可以选择这一专长
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/zh366bfc623c.htm
+|source=MAH
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[蛇龙猎人协作]]、[[蛇龙猎人撤退]]（2 个条目）

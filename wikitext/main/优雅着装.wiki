@@ -1,0 +1,8 @@
+{{物品
+|name=优雅着装
+|english_name=Mannerly Dress
+|category=冒险装备
+|description=下列物品有助于那些想示出自己最优秀的一面之人。
+|source=HotHC
+|source_name=皇庭英豪
+}}

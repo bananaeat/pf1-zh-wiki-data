@@ -1,0 +1,14 @@
+{{魔法物品
+|name=演员领结
+|english_name=Mummer's Ruff
+|aon=MagicWondrousDisplay.aspx?FinalName=Mummer's Ruff
+|cat=奇物
+|aura=微弱幻术系
+|cl=5
+|slot=颈部
+|price=3,500 gp
+|description=演员领结通常用颜色鲜艳的丝绸制成，深受表演者和骗子的喜爱。穿戴者在试图模仿他人的声音时，唬骗检定获得+10加值。此外，穿戴者每日1次可以投射自己的声音，如同使用[[腹语术]]，最长持续5分钟。
+|req=[[制造奇物]]、[[塑声术]]、[[腹语术]]
+|cost=1,750 gp
+|source=极限宝具
+}}

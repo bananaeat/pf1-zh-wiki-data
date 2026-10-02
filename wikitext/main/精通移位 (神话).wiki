@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[精通移位]] 的神话版本。</small></div>
+{{Feat
+|name=精通移位
+|english_name=Improved Reposition
+|categories=神话
+|description=你能够将敌人挪到任何你想到的位置。
+|prerequisites=[[精通移位]]
+|benefit=你的移位[[战技]]检定获得加值，数值等同于你的阶层的一半，当敌人对你进行移位战技时，你的[[CMD]]也获得此加值。这些加值与非神话版的[[精通移位]]专长所赋予的加值叠加。除此之外，你还能对任何尝试对你进行移位战技的敌人进行[[借机攻击]]，除非对方也拥有该专长。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

@@ -1,0 +1,15 @@
+{{Spell
+|name=惩戒装甲
+|english_name=Punishing armor
+|school=防护系
+|levels=召唤师 1;唤魂师 1;奥能师 1;术士 1;法师 1;炼金术师 1;萨满 1;血脉狂怒者 1;调查员 1;魔战士 1
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|target=自己
+|duration=10分钟/等级（可解消）
+|save=强韧，通过则无效；见下
+|sr=否
+|description=你将你自己包裹在薄薄的一层微光能量中，任何对你造成[[非致命伤害]]的生物将承受这些非致命伤害的一半，攻击生物若成功通过强韧豁免，则这些伤害无效。
+|source=邪恶特务
+}}

@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|极限荒野|Ultimate Wilderness}}
+'''木身'''（Flesh of Wood, Su）是[[操念使]]的[[原力]]。
+
+元素：木；类别：[[护身原力]]（Su）；等级：－；超载：0
+
+你的皮肤像是木头般紧实，足以卸除掉一些打击力。你在你已有的天生防御上获得+1增强加值。通过承受1点超载，你可以将增强加值再提升1点。在2级后的每3级，你可以额外承受1点超载从而进一步将增强加值提升1点（在17级达到最高+7）。每当你使用木原力并承受超载时，第一世界的力量能够使得你的所有天生防御数值应用到接触AC上，持续1轮。你能够以[[直觉动作]]解消或恢复该效果。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_662.html 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Flesh of Wood|2=Flesh of Wood}}
+
+[[分类:原力]]

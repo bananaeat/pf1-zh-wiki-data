@@ -1,0 +1,9 @@
+{{Trait
+|name=恶魔私语
+|english_name=Demonic Persuasion
+|type=宗教
+|prerequisites=信仰任一恶魔领主
+|description=你的君主乐意帮助你跟恶魔生物打交道。你与恶魔子类的生物进行的交涉和威吓获得+2背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

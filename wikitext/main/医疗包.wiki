@@ -1,0 +1,9 @@
+{{装备
+|name=医疗包
+|english_name=Healer's kit
+|cat=工具
+|price=50 gp
+|weight=1磅
+|description=这套绷带和草药的组合在你的医疗检定上提供+2环境加值。医疗包使用10次后耗尽。
+|source=核心规则书、极限宝具
+}}

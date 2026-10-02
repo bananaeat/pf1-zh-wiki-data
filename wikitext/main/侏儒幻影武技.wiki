@@ -1,0 +1,10 @@
+{{Feat
+|name=侏儒幻影武技
+|english_name=Illusive Gnome Style
+|categories=战斗;流派
+|description=造型奔放、设计怪异的侏儒兵器很容易和幻术形成组合技。
+|prerequisites=智力13，寓守于攻，侏儒武器专攻ARG，精通虚招，基本攻击加值+1，侏儒魔法与武器熟悉种族特性
+|benefit=当你以冠有“侏儒”之名的近战武器进行虚招时，能够牺牲一个法术位、一个幻术学派的法术、或者一个来自侏儒魔法种族特性的法术，并以此来在尝试虚招的技能检定中获得加值。这个加值为1 + 被牺牲的法术环级。如果你牺牲的是0级法术，则在24小时内无法施放或者牺牲该法术。
+|source_name=武器大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_420.html
+}}

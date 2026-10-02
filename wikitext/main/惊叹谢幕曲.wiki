@@ -1,0 +1,16 @@
+{{Spell
+|name=惊叹谢幕曲
+|english_name=Stunning finale
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=吟游诗人 5;歌者 5
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=最高3名生物，任意两名之间的距离不得超过30尺
+|duration=1轮
+|save=强韧，通过则部分生效；见下文
+|sr=是
+|description=施放这个法术之前，你必须激活一种吟游表演。通过挥舞手臂进行谢幕，你会立即结束你的吟游表演，并用你的谢幕曲袭击目标的感官。每个目标均会被[[震慑]]1轮。通过成功的豁免目标会[[恍惚]]1轮。
+|source=进阶玩家指南
+}}

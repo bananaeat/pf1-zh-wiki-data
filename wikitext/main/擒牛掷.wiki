@@ -1,0 +1,11 @@
+{{Feat
+|name=擒牛掷
+|english_name=Bull-Catcher Toss
+|categories=战斗
+|description=你可以利用敌人的移动将其甩到一边。
+|prerequisites=敏捷13，[[擒牛式]]，[[精通擒抱]]，[[精通徒手打击]]；BAB+8、拳师4级或武僧4级
+|benefit=当你用擒牛式成功擒抱一名生物时，你可以立即将其移动至你威胁范围内的任意一格。将其移动后，你可以一个直觉动作立即松开擒抱使该生物沿任意方向移动额外5尺。你不能使用此战技将一名敌人移动至本质上具有危险性或不稳固的地方，诸如陷坑、火墙术或者半空中。
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

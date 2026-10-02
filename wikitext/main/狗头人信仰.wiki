@@ -1,0 +1,9 @@
+{{Trait
+|name=狗头人信仰
+|english_name=Kobold Faith
+|type=种族
+|prerequisites=狗头人
+|description=你是一个虔诚的狗头人拥护者，在你的狗头人群落中受到尊敬。当你对待其他的狗头人时，交涉检定获得+2背景加值。另外，如果你的神授予了手艺、土或诡术领域，那么你的狗头人信仰就会开启相应的子域：[[陷阱子域{{!}}陷阱]]、[[辐射子域{{!}}辐射]]或[[伏击子域{{!}}伏击]]。
+|source_name=格拉利昂的狗头人
+|source_url=https://pf1chm.pages.dev/topics/zh3c4cd37921.htm
+}}

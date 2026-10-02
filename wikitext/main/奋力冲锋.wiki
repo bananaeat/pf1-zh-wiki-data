@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[奋力冲锋 (神话)]]。</small></div>
+{{Feat
+|name=奋力冲锋
+|english_name=Spirited Charge
+|categories=战斗
+|description=你的骑乘冲锋攻击能造成大量的伤害。
+|prerequisites=骑乘1级，[[骑乘战斗]]，[[骑乘掠击]]。
+|benefit=当在骑乘时使用冲锋动作，你使用近战武器造成双倍伤害（持用[[长枪]]则是三倍）。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

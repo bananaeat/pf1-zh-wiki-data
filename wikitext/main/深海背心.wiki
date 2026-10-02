@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=深海背心
+|english_name=Vest of the Deep
+|aon=MagicWondrousDisplay.aspx?FinalName=Vest of the Deep
+|cat=奇物
+|aura=中等防护系
+|cl=7
+|slot=胸部
+|price=2,000 gp
+|weight=1磅
+|description=深海背心会形成一层持续存在的魔法能量外壳，保护穿戴者免受极端环境压力的伤害，例如100尺以上深水所造成的压力。它不能抵御紧勒或其他形式的直接挤压伤害，也不赋予[[水下呼吸]]的能力。
+|req=[[制造奇物]]、[[维生气泡]]
+|cost=1,000 gp
+|source=冒险之路99：永罪者之舞
+}}

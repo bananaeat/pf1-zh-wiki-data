@@ -1,0 +1,15 @@
+{{魔法物品
+|name=火遁披风
+|english_name=Cloak of Fiery Vanishing
+|aon=MagicWondrousDisplay.aspx?FinalName=Cloak of Fiery Vanishing
+|cat=奇物
+|aura=微弱防护系、幻术系
+|cl=5
+|slot=肩部
+|price=2,600 gp
+|weight=1磅
+|description=这件厚实的皮披风边缘焦黑，微微散发着烟灰味。每天一次，当穿戴者受到会造成火焰伤害的效果影响时，他可以在被火焰遮蔽身形的情况下花费一个[[直觉动作]]，变为隐形，并留下一堆幻觉的灰烬和骨头，仿佛他已被这火焰效果杀死。穿戴者的隐形和幻觉残骸持续5轮，或直到穿戴者攻击任何生物为止。仔细观察或触碰灰烬的生物可以进行一次DC 11的意志豁免来识破幻觉，但这不会结束隐形效果。
+|req=[[制造奇物]]、[[隐形术]]、[[无声幻影]]
+|cost=1,300 gp
+|source=进阶种族手册、极限宝具
+}}

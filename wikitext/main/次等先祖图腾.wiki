@@ -1,0 +1,8 @@
+{{狂暴之力
+|name=次等先祖图腾
+|english_name=Ancestor Totem, Lesser
+|type=Su
+|categories=图腾
+|benefit=当野蛮人进入狂暴时，他选择一个他可在狂暴时使用的技能(例如[[技能/攀爬|攀爬]]或[[技能/威吓|威吓]])。狂暴时，他在此技能上获得+2洞察加值。
+|source_name=荒野源始
+}}

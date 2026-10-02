@@ -1,0 +1,15 @@
+{{Feat
+|name=顺势突袭
+|english_name=Surprise Follow-Through
+|categories=战斗
+|description=当击中一个敌人时，你能抓住其盟友在防守上的空当。
+|prerequisites=力量13，[[顺势斩]]，[[猛力攻击]]，基本攻击加值+1。
+|benefit=当使用[[顺势斩]]或[[大顺势斩]]时，你在你的行动轮攻击的第二个敌人失去对你的敏捷加值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[精通顺势突袭]]（1 个条目）

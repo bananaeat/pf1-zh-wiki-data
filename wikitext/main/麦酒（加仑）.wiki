@@ -1,0 +1,9 @@
+{{装备
+|name=麦酒（加仑）
+|english_name=Ale (gallon)
+|cat=饮食
+|price=2 sp
+|weight=8磅
+|description=麦酒是一种用大麦芽酿制的啤酒，味道甘甜而醇厚，有时还飘逸着果香。
+|source=核心规则书、极限宝具
+}}

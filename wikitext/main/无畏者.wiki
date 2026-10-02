@@ -1,0 +1,9 @@
+{{Trait
+|name=无畏者
+|english_name=Courageous
+|type=战斗
+|description=你的童年充斥着暴力，但你通过不屈不挠的意志与信念之力在苦境中成长，只要保持神志清醒便能勇敢面对任何威胁。你在对抗恐惧效果的豁免检定中获得+2背景加值。
+|source_name=战斗背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

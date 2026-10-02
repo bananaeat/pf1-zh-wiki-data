@@ -1,0 +1,10 @@
+{{Trait
+|name=足下轻快
+|english_name=Fleet of Foot
+|type=坐骑
+|prerequisites=[[马]]（奇亚德马，又译奇亚德玛尔斯）（译注：在奈多阿特伦牧区野生的极品良驹）
+|description=当骑乘一匹奇亚德马(Chiardmar)时，在用于执行奔跑(run)或撤退(withdraw)动作时，你视你坐骑的基础速度+10尺。
+|source_name=坐骑背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zh4fc8a2e018.htm
+}}

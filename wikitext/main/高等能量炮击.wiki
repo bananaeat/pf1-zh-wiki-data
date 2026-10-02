@@ -1,0 +1,16 @@
+{{Spell
+|name=高等能量炮击
+|english_name=Energy siege shot, greater
+|school=变化系
+|tags=可变
+|levels=召唤师 6;奥能师 6;术士 6;法师 6;秘学士 6
+|action=10分钟
+|components=语言;姿势;材料（一团沥青）
+|range=近距
+|target=一台任何大小的攻城器械
+|duration=10分钟/等级
+|save=强韧，通过则无效（无害，物体）
+|sr=是（无害，物体）
+|description=这个法术工作方式如同[[能量炮击]]，不过它可以作用于任何体积的攻城器械，而不只是大型的。
+|source=极限战斗
+}}

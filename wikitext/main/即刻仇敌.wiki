@@ -1,0 +1,15 @@
+{{Spell
+|name=即刻仇敌
+|english_name=Instant enemy
+|school=惑控系
+|levels=游侠 3;猎人 3
+|action=迅捷动作
+|components=语言;姿势
+|range=近距
+|target=一名不属于你的宿敌的生物
+|duration=1分钟/等级
+|save=无
+|sr=否
+|description=使用该法术指定的目标会在持续时间内视同为你的宿敌。从你的宿敌类型中选择一种。在该法术持续时间内，你会在任何方面均将目标视同为该类宿敌。
+|source=进阶玩家指南
+}}

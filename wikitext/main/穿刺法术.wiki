@@ -1,0 +1,9 @@
+{{Trait
+|name=穿刺法术
+|english_name=Stabbing Spells
+|type=魔法
+|description=奥罗登写了很多关于如何使用武器来增强魔法效果的文章，而你已将从他的话中收集到的见解置于心上。每当你用武器命中敌人时，直到你下个回合结束前你在穿透这个敌人[[特殊能力#法术抗力|法术抗力]]的施法者等级检定上获得+2背景加值。
+|source_name=秘术选集Arcane Anthology
+|source=Arcane Anthology
+|source_url=https://pf1chm.pages.dev/topics/zhe6bf0e12f5.htm
+}}

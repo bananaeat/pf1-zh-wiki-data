@@ -1,0 +1,18 @@
+{{科技物品
+|name=生化透析装置
+|english_name=Biofilter
+|kind=电子殖装物
+|sub=身体
+|price=16,000 gp
+|weight=2磅
+|slot=身体
+|install=25
+|implant=3
+|capacity=—
+|usage=—
+|description=一套纳米机体矩阵被安装在肾脏和肝脏中，帮助机体排出毒素。生化透析装置使使用者在对抗[[疾病]]和[[毒素]]的豁免检定上获得+4表现加值。此外，使用者进行此类豁免检定时，掷两次骰并取较高的结果。
+|construction=[[制造电子殖装]]、殖装物工作间
+|craft_dc=25
+|cost=8,000 gp
+|source=科技指南
+}}

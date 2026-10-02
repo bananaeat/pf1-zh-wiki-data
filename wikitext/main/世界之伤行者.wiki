@@ -1,0 +1,10 @@
+{{Feat
+|name=世界之伤行者
+|english_name=Worldwound Walker
+|description=你的纯洁一向是种祝福，即便被鄙弃它的生物包围时仍是如此。
+|prerequisites=5个HD或以上，善良阵营
+|benefit=你可以改变自身存在的本质，借此降低那些意图伤害善良生物的法术或效果对你造成的影响。当你受到会根据阵营而有不同效果的法术或效果时（如[[渎神之语]]或[[防护善良]]），你可以选择自己要被视作善良或中立阵营。此能力并未真正改变你的阵营，也无法愚弄预言系法术，更无法让你得以使用那些具有阵营限制的魔法物品、职业能力等等。
+|source=CoP
+|source_name=纯洁勇士
+|source_url=https://pf1chm.pages.dev/topics/page_515.html
+}}

@@ -1,0 +1,9 @@
+{{装备
+|name=入场信物
+|english_name=Performer's token
+|cat=冒险装备
+|price=2 sp
+|weight=—
+|description=入场信物最常见的形状是硬币，是舞台演员在开场前分发的小纪念品，也可以用作非公开表演的入场凭证。通灵师也会在进行降灵会之前发出类似的信物，当作名片。
+|source=异能冒险
+}}

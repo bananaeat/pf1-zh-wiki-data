@@ -1,0 +1,13 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[火焰刀]] 的神话版本。</small></div>
+{{Spell
+|name=火焰刀
+|english_name=Flame Blade
+|school=塑能系
+|tags=火
+|levels=德鲁伊 2;猎人 2;萨满 2
+|description=火焰刀的伤害增加至2d6点火焰伤害 + 每施法者等级1点（最高+20）。火焰刀的重击范围为18-20，就如同它是一把真正的弯刀一般。
+
+强化（3阶）：若你花费2次神话之力，火焰刀的重击范围会变成15-20，而且会穿透硬度、火焰抗力与火焰免疫。
+|source=神话冒险
+}}
+[[分类:神话法术]]

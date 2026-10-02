@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 197），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=屡遭捉弄
+|english_name=Vexed
+|type=种族
+|prerequisites=狗头人
+|description=你曾多次从小魔怪破坏者手中死里逃生，学会了躲避它们的魔法。你对抗诅咒和恐惧效果的豁免检定获得+1背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Vexed
+}}

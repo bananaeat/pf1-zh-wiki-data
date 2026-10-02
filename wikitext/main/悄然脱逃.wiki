@@ -1,0 +1,8 @@
+{{Trait
+|name=悄然脱逃
+|english_name=Stealthy Escape
+|type=装备
+|description=你擅长在别人的眼皮底下从囚禁中溜走。当你试图逃脱手铐/绳索或其他类似的束缚时(不包括[[擒抱]]或类似的攻击效果),你可以进行[[巧手]]检定而不是逃脱检定。如果你成功解开束缚，你可以通过一个有+2背景加值的[[唬骗]]技能检定让别人相信你仍然在被束缚着。
+|source_name=装备背景
+|source_url=https://pf1chm.pages.dev/topics/page_1579.html
+}}

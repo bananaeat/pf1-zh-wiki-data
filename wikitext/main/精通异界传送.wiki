@@ -1,0 +1,12 @@
+{{Feat
+|name=精通异界传送
+|english_name=Improved Plane Shift
+|description=你是一个通过异界传送在伟大彼岸的各种国度间漫游的专家。
+|prerequisites=法师9级
+|benefit=将异界传送作为5环法师法术增加至你的法术列表和你的法术书中。你识别一个门户的目的地所需要的时间被减少至1轮。此外，你可以自动识别你到达的任何位面。
+|normal=异界传送是一个7环法师法术。
+|special=法师可以以奖励专长选择该专长。
+|source=PA
+|source_name=位面冒险
+|source_url=https://pf1chm.pages.dev/topics/zh1e27af7163.htm
+}}

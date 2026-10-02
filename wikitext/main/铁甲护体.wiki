@@ -1,0 +1,10 @@
+{{Feat
+|name=铁甲护体
+|english_name=Resilient Armor
+|description=神力强化的装甲与盾牌在混战中为你吸收伤害。
+|prerequisites=圣武士神契（护甲或盾牌）或战斗祭司神圣护甲职业能力
+|benefit=当你激活神契或[[神圣护甲]]能力时，你获得相当于你的护甲或盾牌增强加值（包括神契与神圣护甲能力赋予的增强加值）的伤害减免，但只对你每轮受到的第一次攻击生效。这个伤害减免可以被{{材料|精金}}武器击破，但是击破你的伤害减免并不影响你使用神契或神圣护甲的时间。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

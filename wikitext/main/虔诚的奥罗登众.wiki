@@ -1,0 +1,10 @@
+{{Trait
+|name=虔诚的奥罗登众
+|english_name=Faithful Arodenite
+|type=宗教
+|prerequisites=信仰奥罗登
+|description=你信仰一个已故之神，并且善于使其言之有理。你在交涉检定上获得+1背景加值；当你面对奥罗登或[[艾奥梅黛]]追随者时这个加值提高至+3.
+|source_name=萨迦瓦，失落的殖民地
+|source=Sargava, the Lost Colony
+|source_url=https://pf1chm.pages.dev/topics/zha47c8ffc75.htm
+}}

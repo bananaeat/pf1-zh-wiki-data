@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[骑乘掠击 (神话)]]。</small></div>
+{{Feat
+|name=骑乘掠击
+|english_name=Ride-By Attack
+|aliases=快速骑乘攻击
+|categories=战斗
+|description=骑乘冲锋时，你能够移动，攻击，然后继续移动。
+|prerequisites=[[骑术]]1级，[[骑乘战斗]]。
+|benefit=骑乘冲锋时，你可以如同标准冲锋一样移动并攻击，然后再次移动（沿着冲锋的直线路径）。你该轮总的移动距离不能超过骑乘速度的两倍。你和你的坐骑不会触发你所攻击目标的[[借机攻击]]。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[回转冲锋]]（1 个条目）

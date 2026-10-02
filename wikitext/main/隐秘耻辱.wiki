@@ -1,0 +1,10 @@
+{{Trait
+|name=隐秘耻辱
+|english_name=Secret Shame
+|type=缺陷
+|pfs=否
+|description=你非常害怕公众、群体或重要人物(如你的骑士团、你的领主、你的家人或你的爱人)知道你的耻辱真相。
+|benefit=你在对抗恐惧效果的豁免检定中承受-1减值，任何对你进行挫败士气的威吓检定DC减少1。如果你有对恐惧通常免疫的能力，那么你不用受到这些惩罚，而是失去对恐惧的免疫力(无论其来源如何)。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

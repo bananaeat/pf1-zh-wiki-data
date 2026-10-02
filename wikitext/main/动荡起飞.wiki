@@ -1,0 +1,15 @@
+{{Feat
+|name=动荡起飞
+|english_name=Turbulent Takeoff
+|categories=战斗
+|description=当你起飞时，你激起的强风会阻止敌人对你发动攻击。
+|prerequisites=[[飞行]]5级。
+|benefit=当你使用飞行速度离开地面时，可以激起一阵强风。所有威胁到你位置的生物，除非通过一次反射豁免（DC = 10 + 你的飞行技能等级 + 你的敏捷调整值），否则无法对你移动所引发的[[借机攻击]]进行攻击。若该反射豁免失败10点或以上，该生物将会倒地。你必须站在地面上开始你的移动动作才能使用此能力。
+|source=BotA
+|source_name=古国血脉
+|source_url=https://pf1chm.pages.dev/topics/zh3e60e7b09a.htm
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[疾风掠空]]（1 个条目）

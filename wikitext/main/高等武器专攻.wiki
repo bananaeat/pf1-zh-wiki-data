@@ -1,0 +1,16 @@
+{{Feat
+|name=高等武器专攻
+|english_name=Greater Weapon Focus
+|categories=战斗
+|description=从已有[[武器专攻]]的武器类型中选择一个，也可以选徒手打击或[[擒抱]]，对此种武器你是个中高手。
+|prerequisites=对应武器的擅长武器、[[武器专攻]]，基本攻击加值+1，战士等级8。
+|benefit=使用特定武器时攻击检定+1。此加值可与其他攻击加值累加，包括“武器专攻”的加值。
+|special=你可以多次选择本专长，但并非累加效果；每次选择本专长时需选择一个新的武器类型。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[致命绝杀]]（1 个条目）

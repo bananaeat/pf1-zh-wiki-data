@@ -1,0 +1,11 @@
+{{Feat
+|name=联合虚招
+|english_name=Feint Partner
+|categories=战斗;团队
+|description=一个小小的[[分神]]就可以让你穿透敌人的防御。
+|prerequisites=唬骗1级。
+|benefit=当拥有此专长的盟友成功对敌人使用[[虚招]]时，在盟友的下一回合结束前，你对该目标的下一次攻击，该目标失去其敏捷加值对AC的加值。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=精通梅花步
+|english_name=Improved Punishing Step
+|categories=战斗
+|description=你知道如何利用毁灭性的冲锋。
+|prerequisites=敏捷13，[[闪避]]，梅花步，BAB+8。
+|benefit=在对抗冲锋攻击时，你从闪避专长获得的AC加值增加到+2。当一个生物对你冲锋且攻击失手时，在你下回合结束前，你对其进行的下一次近战攻击中，该生物失去AC上的敏捷加值。如果一个生物在多次攻击中失手(如使用[[通用怪物规则#猛扑|猛扑]]能力)，在你的下回合结束前，该生物每这样失手一次，你就有一次对其发起的攻击可以对抗其[[措手不及]]AC。
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh03ef2e8763.htm
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=危险擒抱人
+|english_name=Deadly Grappler
+|categories=战斗
+|description=你在[[擒抱]]时，会变得更加凶险。
+|prerequisites=敏捷13，[[精通擒抱]]，[[精通徒手打击]]
+|benefit=你可以运用擒抱者的重量来对付他。当你被擒抱时，你对擒抱者使用甲刺、轻型或单手武器、天武或[[徒手打击]]进行的攻击，其伤害骰视为增大1级。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}

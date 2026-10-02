@@ -1,0 +1,10 @@
+{{Feat
+|name=灵魂共生
+|english_name=Spirit Symbiosis
+|description=你的魅影更容易受到新接触到的灵魂影响。
+|prerequisites=可以施放死者交谈，魅影职业能力
+|benefit=当你施放死者交谈，你可以选择不获得法术的任何正常效果，而是暂时将召来的灵魂融入你的魅影，把魅影当前的[[情感羁绊]]及所有相关能力换成你所选择的一种新情感羁绊。这个新的情感羁绊持续时间为你每个职业等级10分钟，之后魅影原有的情感羁绊复归。
+|source=OO
+|source_name=异能源始
+|source_url=https://pf1chm.pages.dev/topics/zhca50b6790c.htm
+}}

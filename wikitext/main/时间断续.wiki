@@ -1,0 +1,12 @@
+<noinclude>{{法师导航}}
+'''时间断续'''（Time Stutter, Sp）是[[法师]]的[[奥术发现]]。
+
+</noinclude>{{Source|河域子民|People of the River|inline}}
+
+'''前提'''：法师等级10。
+
+'''效果'''：你能短暂地踏出时间之外，让周围的世界停顿下来。这个能力的作用如同[[时间静止]]法术，但你只获得1轮的表观时间。你每天能使用该能力1次，在10级后每有5个法师等级次数加一次。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_319.html 原文]）。全部奥术发现见 [[奥术发现]]。
+
+[[分类:奥术发现]]</noinclude>

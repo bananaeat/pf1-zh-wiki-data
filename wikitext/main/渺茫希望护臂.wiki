@@ -1,0 +1,15 @@
+{{魔法物品
+|name=渺茫希望护臂
+|english_name=Armguards of Waning Hope
+|aon=MagicWondrousDisplay.aspx?FinalName=Armguards of Waning Hope
+|cat=奇物
+|aura=中等惑控系
+|cl=9
+|slot=手部
+|price=25,000 gp
+|weight=1磅
+|description=符文在这些饰有细小尖钉的皮质护腕上盘旋跳动。每日2次，在成功攻击一个生物后，穿戴者可以一个迅捷动作说出命令字，盗取该生物所具有的所有士气加值（包括攻击检定、其他检定、AC或任何其他数据上的士气加值）。这些加值在9轮内会转而影响穿戴者，而不是原来的生物。在持续时间结束后，如果士气加值的持续时间还未结束，这些加值不再影响穿戴者，而是如常继续影响原来的生物。如果穿戴者尝试对没有任何士气加值的生物激活此效果，一次每日使用次数会被浪费掉。
+|req=[[制造奇物]]、[[虹吸咒]]
+|cost=12,500 gp
+|source=商人货单
+}}

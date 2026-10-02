@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 63），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=清醒梦者
+|english_name=Lucid Dreamer
+|type=魔法
+|pfs=否
+|prerequisites=瓦瑞西亚浪客、寻奇会
+|description=你的梦境是一处只有你能享用的特殊力量之地；驱逐潜意识中的威胁对你而言就像摔上一扇门那样容易。你在[[知识]]（位面）检定上获得+1背景加值，并且在对抗作用于你的做梦心智或潜意识的效果时（例如夜鬼婆的侵入梦境能力、[[梦魇]]法术，以及魅影幻觉子学派的幻术），意志豁免获得+2背景加值。
+|source_name=组织指南
+|source=FM
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Lucid%20Dreamer
+}}

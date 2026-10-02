@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Elements pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=雪肤宫姬
+|english_name=Alabaster Odalisque
+|type=地区
+|prerequisites=扎摩诔（[[土元素裔]]）
+|description=扎摩诔的拉惹们青睐你庄严的体态与无瑕的肌肤，因此举荐你前往大萨雷岛上的乐府接受教导。你受训成为完美的吟游诗人、交际花或秘密特工，从基于魅力的技能中任选两项，这两项技能获得+1背景加值。此外，每天一次，你可以用一个迅捷动作，以手指轻拂一扇关闭的门或一面厚度不超过1尺的石墙。这样做之后的1分钟内，你隔着该指定物体聆听时，可以无视[[察觉]]检定的减值。
+|source_name=元素血脉
+|source=BotE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Alabaster%20Odalisque
+}}

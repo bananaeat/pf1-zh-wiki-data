@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Reign of Winter Player's Guide pg. 6, People of the North pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=私刑猎巫人
+|english_name=Vigilante Witch Hunter
+|type=战役
+|pfs=否
+|description=你不信任女巫。她们与异界存在打交道，与野兽为伍，还在大锅里熬制恶毒的毒药。小时候，也许你险些在一个邪恶女巫手中遭遇可怕的命运，也许你所爱的人被女巫的魅惑夺走了。也许你自己曾想成为女巫，但当地的女巫拒绝收你为学徒。无论原因为何，你如今痛恨女巫，并将一生奉献于将她们揪出来，把她们的邪恶公之于众。你知道北地到处都是冬女巫，如果你有朝一日去到那里，你也会乐于对她们施以你的正义。你的[[察言观色]]检定获得+1背景加值，且察言观色是你的本职技能。此外，你在战役开始时拥有1d4枚咒钉（见侧栏）。
+|source_name=Reign of Winter Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Vigilante%20Witch%20Hunter
+}}

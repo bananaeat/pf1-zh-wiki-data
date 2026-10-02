@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''X 光视域'''（X-Ray Vision）是一条神话[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Su</span><span class="sk-a">神话</span><span class="sk-f">位置：感官</span></div>
+</noinclude><includeonly><div class="lang"><span id="X 光视域"></span><div class="lang-h"><b>[[X 光视域]]</b><i>X-Ray Vision</i><span class="lang-w">Su · 神话 · 感官</span></div><div class="lang-d"></includeonly>
+怪物可以看透固体物质，如同佩戴了[[X射线视觉戒指]]一般。使用该能力同样十分耗费体力，如同怪物实际使用该戒指一样。
+
+'''格式'''：X 光视域
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=X-Ray Vision|2=X-Ray Vision}}
+
+[[分类:通用怪物规则]]</noinclude>

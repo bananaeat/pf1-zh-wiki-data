@@ -1,0 +1,13 @@
+{{Feat
+|name=泰坦纠缠
+|english_name=Titan's Tangle
+|categories=战斗
+|description=即使远大于你的生物也可能因合理的支点失去平衡。
+|prerequisites=智力13，[[寓守于攻]]，[[精通摔绊]]，[[绊腿]]，对所选武器的武器专攻
+|benefit=选择一种拥有触及[[特殊能力]]的武器。当你使用所选武器进行摔绊战技检定时，你可以尝试摔绊最多比你大2级体型的生物。如果你拥有所选武器的[[高等武器专攻]]专长，你可以尝试摔绊最多比你大3级体型的生物。
+|normal=你只能摔绊体型不超过比你大一级的对手。
+|special=除了所选武器，拥有[[战士#武器训练|武器训练]]职业能力的角色，可以对任何他通过武器训练选择的战士武器组中拥有触及特性的近战武器使用泰坦纠缠专长。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/zh0ff052e72d.htm
+|source=MAH
+}}

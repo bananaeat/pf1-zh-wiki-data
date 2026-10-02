@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=古董走私客
+|english_name=Antiquities Smuggler
+|type=地区
+|prerequisites=奥西里昂
+|description=你多年来一直在走私奥西里昂远古时代的违禁文物，也学到了一些门道。从下列技能中选择一项：[[估价]]、[[唬骗]]或[[巧手]]。你的该技能获得+1背景加值，且它对你而言总是本职技能。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Antiquities%20Smuggler
+}}

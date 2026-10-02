@@ -1,0 +1,10 @@
+{{Trait
+|name=畸形
+|english_name=Misbegotten
+|type=缺陷
+|pfs=否
+|description=无论是由于邪恶的魔法、疾病或神明的惩罚，你生来就有一处麻烦的畸形，妨碍你的行动。
+|benefit=你所有基于敏捷的技能检定有-2罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

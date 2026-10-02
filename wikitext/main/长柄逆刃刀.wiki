@@ -1,0 +1,16 @@
+{{武器
+|name=长柄逆刃刀
+|english_name=Rhomphaia
+|category=武器
+|prof=军用
+|wcat=双手
+|price=15 gp
+|weight=10磅
+|dmg_s=1d6
+|dmg_m=2d4
+|crit=×3
+|type=穿刺或挥砍
+|special=迎击，易碎，长武
+|description=这件青铜时代的早期长兵器是将一把长长的单面刃加装在坚固木杖上制成的，有时刀身会微微弯曲。这件兵器能斩能搠。
+|source=极限宝具
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=奈多影术师
+|english_name=Nidalese Shadowcaster
+|type=地区
+|prerequisites=奈多
+|description=你曾随令人畏惧的奈多暗影施法者学习。选择一个具有暗影描述符的法术——从此以后，每当你施放该法术时，其效果的施法者等级+1。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Nidalese%20Shadowcaster
+}}

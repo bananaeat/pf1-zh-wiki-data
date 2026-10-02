@@ -1,0 +1,9 @@
+{{装备
+|name=水袋
+|english_name=Waterskin
+|cat=冒险装备
+|price=1 gp
+|weight=4磅
+|description=这个袋子是由动物的膀胱或处理过的皮革制作。它防水，并可容纳约1/2加仑的液体。列表中的重量是一个装满水时的重量；它的空重约2磅。
+|source=核心规则书、极限宝具
+}}

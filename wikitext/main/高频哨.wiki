@@ -1,0 +1,9 @@
+{{装备
+|name=高频哨
+|english_name=Cave whistle
+|cat=冒险装备
+|price=20 gp
+|weight=—
+|description=这种哨子由一种罕见蘑菇的海绵状菌柄制成，它发出的声音只有龙与狗头人能够听到。狗头人经常用它吹出由音符组成的复杂暗号，以协调伏击和突袭。
+|source=进阶种族手册
+}}

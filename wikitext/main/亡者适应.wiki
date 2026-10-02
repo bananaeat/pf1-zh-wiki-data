@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=亡者适应
+|english_name=Inured to the Dead
+|categories=防御
+|pfs=否
+|prerequisites=[[野蛮人]]4级
+|benefit=每次狂暴可发动一次，当野蛮人在对抗不死生物的效果时豁免失败，他可以重投豁免。他必须接受第二次投骰的结果，哪怕结果更糟。此能力不需要动作发动。
+|source_name=冒险之路139：死者之路
+}}

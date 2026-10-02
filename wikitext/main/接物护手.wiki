@@ -1,0 +1,15 @@
+{{魔法物品
+|name=接物护手
+|english_name=Gauntlets of Catching
+|aon=MagicWondrousDisplay.aspx?FinalName=Gauntlets of Catching
+|cat=奇物
+|aura=微弱防护系
+|cl=4
+|slot=手部
+|price=6,000 gp
+|weight=20磅
+|description=只有大型或更大的生物才能戴上这副结实的皮革护手。如果佩戴者具有[[通用怪物规则#接石|接石]]能力，那么佩戴护手时，接石的反射豁免DC降低5。此外，佩戴者可以尝试接住一块自己未察觉的投掷岩石，但此时不能享受护手主要功能带来的DC降低。如果佩戴者没有接石能力，这副护手会代替其正常效果，赋予佩戴者该能力。
+|req=[[制造奇物]]、[[护盾术]]
+|cost=3,000 gp
+|source=冒险之路91：血征山之战
+}}

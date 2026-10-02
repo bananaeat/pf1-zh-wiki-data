@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Tyrant's Grasp Player's Guide pg. 6），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=匠人
+|english_name=The Artisan
+|type=战役
+|pfs=否
+|description=要准确得到你想要的东西，精确至关重要。从房屋、花瓶到道路、帝国，你在建造任何东西时都会深思熟虑。无论你是会计、建筑师、工程师还是草药师，你对细节的专注都在十年前兽人占领之后重建罗斯拉尔之匣的过程中发挥了关键作用。你对细节的专注让你的[[估价]]和[[医疗]]检定获得+1背景加值，并且其中一项技能成为你的本职技能。每天一次，当你施展一个你能施展、正常施法时间为1个标准动作的法术时，你可以花费一整轮来施展它，使你该法术的有效施法者等级+1。此能力对施法时间不是1个标准动作的法术无效。
+|source_name=Tyrant's Grasp Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=The%20Artisan
+}}

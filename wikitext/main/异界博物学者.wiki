@@ -1,0 +1,10 @@
+{{Feat
+|name=异界博物学者
+|english_name=Planar Preservationist
+|description=你知道如何像是保存并且复原动物一般对付那些跨位面生物。
+|prerequisites=博物学者（Preservationist, UM炼金术师变体）变体职业。
+|benefit=你每知道一个[[召唤自然盟友]]配方，你学会同级的[[召唤怪物]]配方。如果你以后学会了其他的‘召唤自然盟友’配方，你自动学会同级的‘召唤怪物’配方。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

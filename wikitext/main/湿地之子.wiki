@@ -1,0 +1,12 @@
+{{Trait
+|name=湿地之子
+|english_name=Sodden Child
+|aon=Sodden Chld
+|type=地区
+|prerequisites=雨浸湿地
+|description=你一生大部分时间都在混浊的沼泽中穿行，并逐渐适应了这种地形。你能正常地穿过浅泥沼（只要地形没被魔法改变），但你如常会受到深泥沼的影响。
+|regions=雨浸湿地
+|source=PotW
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1192.html
+}}

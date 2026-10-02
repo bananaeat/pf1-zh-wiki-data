@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragonslayer's Handbook pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=精心培育
+|english_name=Well Bred
+|type=地区
+|prerequisites=赫迷亚
+|description=你是由金龙门卡雷主持、历经数代选育的产物。你受过一流的教育，拥有广博的知识基础。遗憾的是，赫迷亚的与世隔绝也让你有些天真。你的[[知识]]（历史）和知识（宗教）检定获得+1背景加值，但你的所有[[察言观色]]检定承受-1罚值。
+|source_name=屠龙者手册
+|source=DH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Well%20Bred
+}}

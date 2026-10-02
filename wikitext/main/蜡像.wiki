@@ -1,0 +1,7 @@
+{{消歧义|蜡像(巫术)}}
+{{物品
+|name=蜡像
+|english_name=The Waxworks
+|category=神器
+|description=抽牌后20英里内出现1d6个抽牌人的复制品，有着相反的阵营和目标。
+}}

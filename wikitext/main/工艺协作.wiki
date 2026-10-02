@@ -1,0 +1,11 @@
+{{Feat
+|name=工艺协作
+|english_name=Cooperative Crafting
+|pfs=否
+|description=你的协助使得制作物品更为高效。
+|prerequisites=任意工艺技能1级，任意造物专长。
+|benefit=你能够协助其他角色制作普通或者魔法物品。你们必须具备相应的工艺技能或者[[造物专长]]，不过你们中的一个满足任何制作物品的其他先决条件即可。你能够在与制作物品相关的任何工艺检定或者[[法术辨识]]检定中提供+2环境加值，并且你的协助能够使每日能够制作的物品价值加倍。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=持盾法师
+|english_name=Shielded Mage
+|categories=盾牌掌握;战斗
+|description=你学习了如何在盾牌后面安全地施法。
+|prerequisites=[[盾牌专攻]]，BAB+3或者战士1级。
+|benefit=减少你使用的任何盾牌15%的奥术失败率（最低至0%）。你可以使用持盾手施放有姿势成分的法术。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_361.html
+}}

@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[近距射击]] 的神话版本。</small></div>
+{{Feat
+|name=近距射击
+|english_name=Point-Blank Shot
+|categories=神话
+|description=只要距离够近，你的远程攻击就会无比精确。
+|prerequisites=[[近距射击]]
+|benefit=[[近距射击]]专长对攻击与伤害检定的加值提升至2点。以[[迅捷动作]]，你能够花费1次神话之力，使这些检定获得等同于你的阶层的一半的额外加值。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

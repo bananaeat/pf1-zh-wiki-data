@@ -1,0 +1,10 @@
+{{Feat
+|name=神话典范
+|english_name=Mythic Paragon
+|categories=神话
+|description=你比其他多数神话存在所具有的神话力量更强。
+|benefit=在判断神话能力、专长和法术的效用时，你的阶层视为比正常高2阶。这并不会让你在阶层低于正常获取任何神话能力或更强版本的神话法术所需要的阶层时，提前获得它们使用权。这也不能赋予你额外的神话之力使用次数或者使你的神力涌动加骰得到变化。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

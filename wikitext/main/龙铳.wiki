@@ -1,0 +1,20 @@
+{{武器
+|name=龙铳
+|english_name=Dragon pistol
+|category=火器
+|prof=异种
+|wcat=单手
+|price=1,000 gp
+|weight=3磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×4
+|range=特殊
+|type=钝击和穿刺
+|special=霰弹
+|misfire=1-2（5尺）
+|capacity=1
+|groups=火器
+|description=就像缩小版的[[雷筒]]，龙铳从喇叭口状的枪管中射出霰弹或弹头。发射霰弹时，龙铳的射程是15尺锥形；发射弹头时，射程增量为10尺。龙铳的弹药为1颗弹头或一包霰弹、外加1份黑火药，或1发炼金定装弹（弹头或霰弹）。这是一件早期火器。
+|source=极限战斗、极限宝具
+}}

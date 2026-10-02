@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[壮硕形体]] 的神话版本。</small></div>
+{{Feat
+|name=壮硕形体
+|english_name=Powerful Shape
+|categories=神话
+|description=你在自然变身中化身的形态远超自然界中的同类。
+|prerequisites=[[壮硕形体]]
+|benefit=你能够将巨化生物模板（快速套用规则版，请见[[怪物图鉴]]的295页）套用到任何自然变身变化的形态上。这会取代[[壮硕形体]]专长的好处。以[[自由动作]]，你能够花费1次神话之力，以此将该专长与非神话版的壮硕形体专长的好处结合起来，持续轮数等同于你的阶层。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

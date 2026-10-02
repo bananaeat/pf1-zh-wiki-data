@@ -1,0 +1,15 @@
+{{魔法物品
+|name=北极熊之爪
+|english_name=Claws of the Ice Bear
+|aon=MagicWondrousDisplay.aspx?FinalName=Claws of the Ice Bear
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=手部
+|price=1,300 gp
+|weight=1磅
+|description=这对带尖刺的攀爬爪绑在手上，使穿戴者在双手并用辅助移动时进行的[[攀爬]]检定和[[特技]]检定获得+2表现加值，并使穿戴者在光滑或结冰的表面上忽略这些技能的一般减值。此外，每天最多3次，穿戴者可以以[[迅捷动作]]启动这对爪子，获得[[蛛行术]]效果，持续1轮。穿戴者在使用北极熊之爪时，手中不能拿持任何其他东西。若用作武器，北极熊之爪视为[[带刺铁手套]]。
+|req=[[制造奇物]]、[[蛛行术]]
+|cost=750 gp
+|source=冒险之路51：饥饿风暴、极限宝具
+}}

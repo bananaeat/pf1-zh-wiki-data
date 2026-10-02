@@ -1,0 +1,11 @@
+{{Feat
+|name=急速披挂
+|english_name=Shrug On
+|categories=战斗
+|description=你可以瞬间披挂好最大程度的护甲。
+|prerequisites=BAB+1，[[擅长中甲]]
+|benefit=以一个全回合动作，你可以穿好一件你所擅长护甲最大程度的保护措施。此法穿戴的护甲不会提供魔法效果，并且护甲检定减值和最大敏捷加值都会比正常减少2点。此法穿戴的中甲提供+3护甲AC，重甲提供+5护甲AC。轻甲此法穿戴不提供护甲AC。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=虚假法器
+|english_name=False Focus
+|description=你能够使用法器施放奥术。
+|prerequisites=[[知识]]（宗教）1级，施放奥术的能力
+|benefit=通过在施法时使用法器，你能够施放任何材料成分价值不超过该法器价值（最高100gp）的法术，而无需提供该材料成分。举例说明：如果你使用价值25gp的[[银质圣徽]]，你就不需为了奥术提供任何价值25gp或更低的材料作为材料成分。施放法术仍旧会如常引起[[借机攻击]]。如果法术需求的材料成分的价值比你的法器价值要高，你手头就必须拥有等值的材料成分才能如通常一般施放法术。
+|normal=使用法器作为奥术的成分没有任何效果。
+|source=ISM
+|source_name=内海魔法
+|source_url=https://pf1chm.pages.dev/topics/page_277.html
+}}

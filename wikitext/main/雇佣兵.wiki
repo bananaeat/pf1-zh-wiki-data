@@ -1,0 +1,9 @@
+{{Trait
+|name=雇佣兵
+|english_name=Mercenary
+|type=社会
+|description=任何事情都能开出价码，而你恰是个中老手。你在为一项冒险任务的报酬、或是所提供服务而[[议价]]时，交涉、威吓和察言观色技能获得+2背景加值。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

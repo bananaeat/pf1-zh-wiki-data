@@ -1,0 +1,9 @@
+{{Trait
+|name=天资聪颖
+|english_name=Naturally Gifted
+|type=魔法
+|prerequisites=[[侏儒]]
+|description=由于不明的原因，你比你周围的人有着更深的魔法能量储备。也许你是一个强大的奥术施法者家族的后代，又也许你相信这特质是天命所归。不管真相如何，你每天可以额外使用一次你的某个[[侏儒]]类法术能力。这不须要总是同一个类法术能力——某一天你也许施展[[舞光术]]两次，另一天则用这额外施法能力施展[[动物交谈]]。
+|source_name=格拉里昂的侏儒
+|source_url=https://pf1chm.pages.dev/topics/zh5166336575.htm
+}}

@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=威力战姿
+|english_name=Powerful Stance
+|type=Ex
+|class=掉链野蛮人
+|benefit=野蛮人暴虐成性。她在近战伤害骰和投掷伤害骰上获得+1的加值。该加值每4个等级便会提升1点。该狂暴之力是一种战姿。
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

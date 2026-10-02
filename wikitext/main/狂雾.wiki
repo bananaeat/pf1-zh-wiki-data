@@ -1,0 +1,12 @@
+{{危害
+|name=狂雾
+|english_name=Insanity Mist
+|kind=毒药
+|type=吸入
+|save=强韧 DC 15
+|frequency=1次/轮，持续6轮
+|effect=1d3点感知伤害
+|cure=1次豁免成功
+|price=1,500 gp
+|source=核心规则书
+}}

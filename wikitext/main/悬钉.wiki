@@ -1,0 +1,20 @@
+{{魔法物品
+|name=悬钉
+|english_name=Suspension Piercings
+|aon=ShadowPiercingsDisplay.aspx?FinalName=Suspension PiercingsMinor
+|cat=暗影穿环
+|aura=微弱变化系（次等、普通）；中等变化系（高等）
+|cl=7
+|slot=腰部或肩部
+|price=6,000 gp（次等）；7,200 gp（普通）；11,200 gp（高等）
+|description=这些穿环在悬吊爱好者中很受欢迎，他们把自己挂在钩入皮肤的钩子上。
+
+'''次等：''' 穿戴者持续获得[[羽落术]]效果。
+
+'''普通：''' 穿戴者每天可以使用[[浮空术]]两次。
+
+'''高等：''' 穿戴者每天可以使用[[凌空而行]]一次。
+|req=[[制造影钉]]、[[羽落术]]（次等）、[[浮空术]]（普通）、[[凌空而行]]（高等）
+|cost=3,000 gp（次等）；3,600 gp（普通）；5,600 gp（高等）
+|source=秽邪勇士
+}}

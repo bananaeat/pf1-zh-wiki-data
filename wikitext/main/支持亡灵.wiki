@@ -1,0 +1,10 @@
+{{Feat
+|name=支持亡灵
+|english_name=Bolster Undead
+|description=你可以增强不死者，让它们无惧正能量的效力
+|prerequisites=引导能量6d6，信仰厄加图娅
+|benefit=每当你通过[[引导能量]]引导负能量治疗不死生物时，你可以让所有被治疗的不死生物获得+1引导抗力（或是在现有的引导抗力上额外+1），效果持续等同于你的魅力调整值轮（最小1轮）。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

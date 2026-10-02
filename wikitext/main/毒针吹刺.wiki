@@ -1,0 +1,16 @@
+{{Spell
+|name=毒针吹刺
+|english_name=Nauseating dart
+|school=咒法系 (创造)
+|tags=毒素
+|levels=女巫 1;德鲁伊 1;猎人 1
+|action=标准动作
+|components=姿势;圣徽
+|range=近距
+|effect=一根毒刺
+|duration=立即
+|save=强韧，通过则部分生效（见后文）
+|sr=否
+|description=你吐出一根羽毛大小的毒刺，并将其射向范围内的一个生物，就如同你使用[[吹箭]]发射吹箭一般。你必须成功进行一次远程攻击检定才能命中目标。毒刺会造成1d2点穿刺伤害，并且会使目标中毒。如果目标没有成功通过强韧豁免，便会[[反胃]]1轮。
+|source=进阶职业指南
+}}

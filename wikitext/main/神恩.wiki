@@ -1,0 +1,15 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[神恩 (神话)]]。</small></div>
+{{Spell
+|name=神恩
+|english_name=Divine Favor
+|school=塑能系
+|levels=先知 1;圣武士 1;审判者 1;战斗祭司 1;牧师 1
+|domains=圣使子域 1;高贵领域 1
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=个人
+|target=自己
+|duration=1分钟
+|description=通过呼唤神祇的力量与智慧，你的攻击和武器伤害检定上获得每三个CL +1点幸运加值 (至少+1, 最高+3)。该加值无法应用至法术伤害。
+|source=核心规则书
+}}

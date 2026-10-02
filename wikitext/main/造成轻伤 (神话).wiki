@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[造成轻伤]] 的神话版本。</small></div>
+{{Spell
+|name=造成轻伤
+|english_name=Inflict Light Wounds
+|school=死灵系
+|levels=先知 1;反圣武士 1;唤魂师 1;女巫 1;审判者 1;战斗祭司 1;牧师 1;秘学士 1;萨满 1
+|description=法术造成的伤害增加至2d8 + 每施法者等级2点（最高+10）。若目标为活物且豁免失败的话，则会恶心，持续每施法者等级1轮（最高5轮）。
+|source=神话冒险
+}}
+[[分类:神话法术]]

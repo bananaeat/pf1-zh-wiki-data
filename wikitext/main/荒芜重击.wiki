@@ -1,0 +1,19 @@
+{{Feat
+|name=荒芜重击
+|english_name=Blighted Critical
+|categories=重击
+|pfs=否
+|description=当你使用法术或者类法术能力重击时，你使目标遭受一种次级[[法术荒疫]]。
+|prerequisites=施法者等级5级。
+|benefit=当你使用接触法术、远程接触法术或类法术能力确认重击以后，受害者遭受随机一种次级法术荒疫。
+|special=除非拥有[[重击大师]]专长，否则你在一次重击中仅能应用一种[[重击专长]]。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[荒芜重击熟稔]]、[[高等荒芜重击]]（2 个条目）
+
+{{FAQ|v5748eaic9o88}}

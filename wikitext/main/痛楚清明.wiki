@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 83），民间汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=痛楚清明
+|english_name=Clarity of Pain
+|description=你能以加诸自身的痛楚磨砺专注。
+|prerequisites=体质13，[[精通钢铁意志]]，[[钢铁意志]]。
+|benefit=每天三次，当你在对抗魅惑或胁迫效果的豁免检定上失败时，你可以以一个[[直觉动作]]对自己造成1d6点挥砍、穿刺或钝击伤害，以重骰这次豁免检定。如果你抵消了这些伤害（例如你的伤害减免大于或等于你对自己造成的伤害），就不能重骰豁免检定；这种情况下，你仍然耗费了这个直觉动作和本专长当天的一次使用次数，却得不到任何好处。你必须采用第二次掷骰的结果，即使它更差。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Clarity%20of%20Pain
+}}

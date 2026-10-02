@@ -1,0 +1,12 @@
+{{Feat
+|name=盾牌支撑
+|english_name=Shield Brace
+|categories=盾牌掌握;战斗
+|pfs=否
+|description=你擅长平衡长柄武器的重量和盾牌的稳定性。
+|prerequisites=[[盾牌专攻]]，BAB+3或者战士1级，擅长轻盾，重盾或者塔盾。
+|benefit=在使用你擅长的轻盾，重盾或者[[塔盾]]时，你能够使用符合体型的，选自长柄或矛武器组中的双手武器。盾牌的护甲检定减值(若有)会应用到你使用该武器的攻击检定上。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_361.html
+}}

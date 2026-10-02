@@ -1,0 +1,70 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #115: Trail of the Hunted
+|authors=Amber E. Scott
+|pages=96
+}}
+
+{{书页/简介|head=战争不请自来|1=
+「铁牙入侵」冒险之路以《猎物小径》拉开帷幕，这是一个在无情的[[大地精(怪物)|大地精]]大军——铁牙军团——入侵背景下的绝望求生故事！随着铁牙军团开始开创一个怪物帝国，英雄们必须在故乡费恩达燃烧时逃离，尽可能救下性命。英雄们要在荒野中护卫他们那队幸存者，向一个战蜥人部落挑战以夺取安全的庇护所，并迎战被派来终结他们自由之路的残酷赏金猎人！
+
+本册《冒险之路》开启「铁牙入侵」冒险之路，内容包括：
+
+* 《猎物小径》，一部面向 1 级角色的开拓者冒险，作者 Amber E. Scott。
+* 对铁牙军团的详尽概览，包括其历史、成员与工具，作者 Ron Lundeen。
+* 内斯米亚平原的地志，这是一片崎岖的荒野，既有令人屏息的壮丽景色，也有纠缠不清的历史，作者 Crystal Frasier。
+* 一部怪物图鉴，收录新的地区威胁与盟友，作者 Crystal Frasier、Amber E. Scott、Tonya Woldridge 和 Linda Zayas-Palmer。
+}}
+
+'''冒险之路115：猎物小径'''（''Pathfinder #115: Trail of the Hunted''）是[[冒险之路]]「铁牙入侵」系列的第一部冒险，由 Amber E. Scott 撰写，配套文章出自 Ron Lundeen、Crystal Frasier、Tonya Woldridge 和 Linda Zayas-Palmer，于 2017 年 3 月发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+猎物小径 @ 4
+NPC 图集 @ 58
+内斯米亚平原 @ 64
+- 内斯米亚平原
+- 深切河（Deepcut River）
+- 墨水河（Inkwater River）
+- 玛里德斯河（Marideth River）
+- 福拉斯（Folarth）
+- 费恩达
+- 泥罐（The Mudpot）
+- 切割者峡谷（Cutter Canyon）
+- 月之眼（The Moon's Eye）
+- 皮德拉克竖井（Pidderack Shaft）
+- 玄参洼地（Figwort Hollow）
+- 卡夫利诺（Cavlinor）
+- 暮色林（The Gloaming Wood）
+- 盘湖（Lake Platter）
+- 白幽灵峡谷（Whitespectre Canyon）
+- 永憩（Everrest）
+- 枯逆（Withershin）
+- 七牙堡垒（The Seven-Fangs Bastion）
+- 无尽骸库（The Infinite Ossuary）
+- 喜悦谷（Felicity Vale）
+- 玛吉洛克牧场（Magilloch Ranch）
+- 蓝石镇（Bluestone）
+- 懒步牧场（Dawdlefoot Ranch）
+- 高林镇（Highforest）
+- 调色瀑布（Palette Falls）
+铁牙军团工具箱 @ 72
+- 炼金物品
+• [[燃烧催化剂]]
+- [[大步药膏]]
+- [[刺痛手雷]]
+- 法术
+• [[邪倭鬼形态]]
+- [[投机忠诚]]
+怪物图鉴 @ 80
+战役概要 @ 90
+}}
+
+{{书页尾
+|pfw=Trail of the Hunted
+|releases=Softcover¦PZO90115¦2017-03¦978-1-60125-926-4；PDF¦PZO90115E¦¦
+}}
+
+[[分类:书目]]

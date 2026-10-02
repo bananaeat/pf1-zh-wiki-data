@@ -1,0 +1,9 @@
+{{Trait
+|name=凌空奔行者
+|english_name=Soaring Sprinter
+|type=战斗
+|description=年少时你常在高危地带奔跑跳跃，或许因为那是唯一能自由玩耍之所，或许因为在低处活动绝非明智之选。你在为保持平衡或跳跃而进行的特技检定中获得+2背景加值，且特技始终视为你的[[本职技能]]。
+建议角色：切利亚斯人，[[侏儒]]，科瓦萨人
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

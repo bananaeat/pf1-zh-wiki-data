@@ -1,0 +1,14 @@
+{{Feat
+|name=鲨裂
+|english_name=Shark Tear
+|categories=战斗
+|description=你撕裂那些[[流血]]的敌人，并能在水中嗅到他们的血腥味。
+|prerequisites=[[精通徒手打击]]，[[猛鲨流]]，[[游泳]]6级，基本攻击加值+6或者武僧6级
+|benefit=在处于[[猛鲨流]]的架势时，你在水下获得灵敏嗅觉，但仅限对流血的敌人。你还会在对抗流血敌人的伤害骰和攻击骰上获得+1加值。
+|source_name=水下冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1030.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[鲨跃]]（1 个条目）

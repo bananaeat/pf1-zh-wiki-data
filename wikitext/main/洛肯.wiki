@@ -1,0 +1,43 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=洛肯
+|english_name=Lorcan
+|title=赤红回应
+|alignment=守序邪恶（LE）
+|weapon=[[短剑]]
+|portfolio=血，重生，不死
+|domains=[[邪恶领域(领域)|邪恶]]，[[秩序领域|秩序]]，[[医疗领域|医疗]]，[[安眠领域|安眠]]
+|subdomains=[[秩序领域#魔鬼子域 (Devil)|魔鬼子域（秩序）]]，[[邪恶领域(领域)#魔鬼子域 (Devil)|魔鬼子域（邪恶）]]，[[医疗领域#回生子域 (Resurrection)|回生子域]]，[[安眠领域#灵魂子域 (Souls)|灵魂子域]]，[[死亡领域#亡灵子域 (Undead)|亡灵子域]]
+|symbol=血腥的摇篮
+|animal=鹈鹕
+|color=红色，白色
+|pantheon=炼狱大公
+|source=内海诸神、永罪之书
+}}
+
+'''洛肯'''（Lorcan）是[[炼狱大公与地狱公爵|炼狱大公]]之一。
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+咀嚼亡灵的血肉。你在对抗负能量效果的豁免检定上获得+4亵渎加值。
+
+=== 神恩 ===
+
+通过[[魔族仪典]]获得，表现为每项每日可用1次的类法术能力：
+
+{{神恩|n=1|name=|en=|type=Sp|text=每日1次，以类法术能力施放[[死灵定身术]]。}}
+
+{{神恩|n=2|name=|en=|type=Sp|text=每日1次，以类法术能力施放操控死灵。}}
+
+{{神恩|n=3|name=|en=|type=Sp|text=每日1次，以类法术能力施放[[完全复生术]]。}}
+
+== 信徒可用 ==
+
+* '''专长'''：[[炼狱镣铐]]（Hellish Shackles）
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1554.html 原文]），原在总页 [[炼狱大公与地狱公爵]]。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Lorcan|2=Lorcan}}
+[[分类:魔神]]

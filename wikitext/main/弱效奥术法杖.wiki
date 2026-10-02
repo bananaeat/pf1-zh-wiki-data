@@ -1,0 +1,20 @@
+{{魔法物品
+|name=弱效奥术法杖
+|english_name=Staff of Minor Arcana
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Minor Arcana
+|cat=法杖
+|aura=中等防护系、塑能系
+|cl=8
+|slot=无
+|price=8,000 gp
+|weight=5磅
+|description=这根闪亮的法杖由抛光的银制成，杖顶镶着一颗朴素的宝石。它常被作为礼物，赠予完成学业的见习施法者。
+
+该法杖可以使用以下法术：
+
+* [[护盾术]]（1 发）
+* [[魔法飞弹]]（2 发）
+|req=[[制造法杖]]、[[魔法飞弹]]、[[护盾术]]
+|cost=4,000 gp
+|source=极限宝具
+}}

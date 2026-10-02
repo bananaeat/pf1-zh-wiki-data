@@ -1,0 +1,34 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=大将军进
+|english_name=General Susumu
+|title=黑色大名（The Black Daimyo）
+|alignment=守序邪恶（LE）
+|weapon=长弓
+|portfolio=射技，马术，个人荣誉，战争
+|domains=[[邪恶领域(领域)|邪恶]]，[[荣耀领域|荣耀]]，[[秩序领域|秩序]]，[[高贵领域|高贵]]，[[战争领域|战争]]
+|subdomains=[[战争领域#鲜血子域 (Blood)|鲜血子域]]，[[邪恶领域(领域)#腐化子域 (Corruption)|腐化子域]]，[[邪恶领域(领域)#魔鬼子域 (Devil)|魔鬼子域（邪恶）]]，[[秩序领域#魔鬼子域 (Devil)|魔鬼子域（秩序）]]，[[荣耀领域#英勇子域 (Heroism)|英勇子域]]，[[荣耀领域#诚实子域 (Honor)|诚实子域]]，[[荣耀领域#傲慢子域 (Hubris)|傲慢子域（荣耀）]]*，[[高贵领域#傲慢子域 (Hubris)|傲慢子域（高贵）]]*，[[高贵领域#领导子域 (Leadership)|领导子域]]，[[荣耀领域#传奇子域 (Legend)|传奇子域]]*，[[战争领域#战术子域 (Tactics)|战术子域]]（带 * 者需要背景特性[[次经侍祭]]）
+|symbol=黑色有翼马
+|animal=马
+|centers=楚业，弘古，高领，明海，诸黑，舍诲
+|nationality=明族人（Tian-Min），龙
+|pantheon=天夏神祇
+|source=龙国舆图
+}}
+
+== 特殊法术规则 ==
+
+来源：《巨龙遗产》（Legacy of Dragons）第31页。
+
+'''牧师／战斗祭司'''
+* [[尾击术]]可以当作4环法术准备
+
+'''审判者'''
+* [[尾击术]]可以当作4环法术准备
+
+'''先知'''
+* [[尾击术]]可以当作4环法术准备
+
+{{AI翻译|nocat=1|本节由 AI 照 AoN 英文译出，未经人工校对。}}
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=General%20Susumu|2=General Susumu}}

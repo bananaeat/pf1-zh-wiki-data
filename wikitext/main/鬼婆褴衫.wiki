@@ -1,0 +1,17 @@
+{{魔法物品
+|name=鬼婆褴衫
+|english_name=Hag's Shabble
+|aon=MagicWondrousDisplay.aspx?FinalName=Hag's Shabble
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=躯体
+|price=3,400 gp
+|weight=3磅
+|description=这件凌乱的黑色罩衫宽松肥大，沾满了旅途的污渍。在河域诸国，由于这件衣服与[[吉罗娜]]的信仰有关，穿戴者会被认为是她的追随者。穿戴者在交涉和威吓检定上获得+2表现加值。
+
+如果吉罗娜是穿戴者的守护神，穿戴者每天可以使用1次[[侦测思想]]。
+|req=[[制造奇物]]、[[侦测思想]]，制造者必须拥有交涉和威吓各5级
+|cost=1,700 gp
+|source=神与魔法、内海诸神
+}}

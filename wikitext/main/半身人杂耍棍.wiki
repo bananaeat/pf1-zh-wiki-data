@@ -1,0 +1,9 @@
+{{装备
+|name=半身人杂耍棍
+|english_name=Halfling jugglesticks
+|cat=娱乐
+|price=25 gp
+|weight=1磅
+|description=这是四根一组的短棍，颜色鲜艳，棍子上装饰有彩带，可以用来杂耍并摆弄出各种表演和图案。半身人能用它们收到更好的效果，因此在表演（喜剧）检定上得到+2环境加值。
+|source=进阶种族手册
+}}

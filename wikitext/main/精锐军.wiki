@@ -1,0 +1,10 @@
+{{Trait
+|name=精锐军
+|english_name=Veteran of Battle
+|type=宗教
+|prerequisites=信仰[[古拉姆]]
+|description=你跨越了无数战阵，每一次都感受到[[古拉姆]]在指引着你挥剑的臂膀，使你在瞬息之间一闪逆转。你的[[先攻]]检定获得+1背景加值，此外只要你能在[[突袭]]轮行动，你能在该轮以[[自由动作]]拔出一件武器(但不能是药水或魔法物品)。
+|source_name=宗教背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

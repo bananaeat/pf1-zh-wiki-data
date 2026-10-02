@@ -1,0 +1,8 @@
+{{Trait
+|name=荣誉联结
+|english_name=Honor-Bound
+|type=家庭
+|description=家族的荣誉将你们聚在一起，为了共同的目标前进。在GM的帮助下，选择一个你们家族必须要完成的使命。每天一次，当你60尺内有另一名拥有此特质的角色，且目标的进展直接取决于此时（由GM裁决），你可以在一次豁免或技能检定上获得+1背景加值。
+|source_name=部属与伙伴
+|source_url=https://pf1chm.pages.dev/topics/page_1347.html
+}}

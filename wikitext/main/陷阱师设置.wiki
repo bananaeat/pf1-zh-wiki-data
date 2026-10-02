@@ -1,0 +1,10 @@
+{{Feat
+|name=陷阱师设置
+|english_name=Trapper's Setup
+|description=你在等待时机、在恰当时分触发陷阱这一点上颇有天分。
+|prerequisites=[[工艺]]（陷阱）5级。
+|benefit=当你手动触发一个针对敌人的陷阱时，该陷阱的近战攻击检定获得+2环境加值，或者其豁免DC获得+2环境加值（二选一）。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

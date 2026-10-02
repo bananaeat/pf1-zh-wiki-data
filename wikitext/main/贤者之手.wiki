@@ -1,0 +1,15 @@
+{{魔法物品
+|name=贤者之手
+|english_name=Hand of the Mage
+|aon=MagicWondrousDisplay.aspx?FinalName=Hand of the Mage
+|cat=奇物
+|aura=微弱变化系
+|cl=2
+|slot=颈部
+|price=900 gp
+|weight=2磅
+|description=这只[[木乃伊化]]的[[精灵]]手掌用金链挂在角色的脖子上（占用魔法项链的栏位）。它让穿戴者可以随意使用[[法师之手]]法术。
+|req=[[制造奇物]]、[[法师之手]]
+|cost=450 gp
+|source=核心规则书、极限宝具
+}}

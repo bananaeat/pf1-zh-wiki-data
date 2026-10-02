@@ -1,0 +1,29 @@
+{{秘学士导航}}
+{{Source|异能源始|Occult Origins}}
+'''食秘者之假面'''（Mask of the Secret-Eater）是[[秘学士]]的圣灵器，属于[[灵器学派/幻术灵器|幻术灵器]]学派。
+
+=== 关联神祇 ===
+
+[[诺格巴]]
+
+=== 关联学派 ===
+
+[[灵器学派/幻术灵器|幻术]]
+
+=== 灵器 ===
+
+面具
+
+=== 对立学派 ===
+
+咒法
+
+=== 灵视 (Psychic Mirage, Sp) ===
+
+你可以花费1点[[秘学士#心智点|心智点]]，如同[[隐形术]]般对30尺内的单一目标隐形，持续每秘学士等级1分钟。该隐形效果不会影响其他生物。当你与目标相距30尺以内时，你可以花费1点心智点阅读目标的表层思想，如同法术[[侦测思想]]。
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_1214.html 原文]）。
+{{AoN原文|1=OccultistImplementsDisplay.aspx?ItemName=Illusion|2=Mask of the Secret-Eater}}
+
+[[分类:灵器]]
+{{职业}}

@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=李代桃僵|en=Sacrificial Bond|type=Su|domain=高贵领域|sub=殉难子域 (Martyr)|sub_name=殉难子域|source=进阶玩家指南|text=到了8级你能用[[直觉动作]]替代30尺内一个盟友受到一次伤害。此能力还会传递随之而来的效果，且伤害无法用任何方式减免。此能力在8级能每天用1次，14级2次，20级3次。此能力替换[[高贵领域#领导力 (Leadership, Ex)|领导力]]能力（在PFS游戏中，则替换[[高贵领域#说服者 (Persuasive, Ex)|说服者]]能力）。}}<noinclude>
+
+[[分类:领域]]</noinclude>

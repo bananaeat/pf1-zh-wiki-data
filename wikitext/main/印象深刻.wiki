@@ -1,0 +1,10 @@
+{{Trait
+|name=印象深刻
+|english_name=Memorable
+|type=社会
+|benefit=因为在一大群孩子中长大，你学会了如何快速的引起他人的注意并保持下去。当你使用交涉或威吓技能改变态度时，持续的时间会是平常的1.5倍。每当你制造一个提供加值/减值的恐惧或影响心灵的效果，如果持续时间至少有2轮，那么该效果会在原本结束后再持续1轮。举例而言，如果你用威吓检定挫败敌人士气且结果超出DC 5点，目标会[[战栗]]3轮，而不是通常的2轮。
+https://www.goddessfantasy.net/bbs/index.php?topic=83830.msg809621#msg809621 译者：tahngerth
+|source_name=任务与战役
+|source=任务与战役Quests and Campaigns
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

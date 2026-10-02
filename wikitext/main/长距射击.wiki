@@ -1,0 +1,15 @@
+{{Spell
+|name=长距射击
+|english_name=Longshot
+|school=变化系
+|levels=反圣武士 1;圣武士 1;奥能师 1;审判者 1;异能者 1;术士 1;法师 1;游侠 1;炼金术师 1;猎人 1;秘学士 1;红螳螂杀手 1;调查员 1;魔战士 1
+|action=标准动作
+|components=语言;姿势;材料/圣徽（一小片箭羽）
+|range=个人
+|area=个人
+|target=自己
+|duration=1分钟/等级
+|sr=否
+|description=这个法术减少距离的影响，使你所用的任何武器的射程增量获得+10尺加值。
+|source=极限战斗
+}}

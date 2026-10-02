@@ -1,0 +1,8 @@
+{{Trait
+|name=绝对忠诚
+|english_name=Absolute Loyalty
+|type=战斗
+|description=你获得一次性能力，当你因自己的某种行为或受到某种效果影响时，若能被[[赎罪术]]作用，你可以立刻对自己以类法术能力对自己释放一次赎罪术。此能力只能在你为自己的君主（或是你获得该背景时所选择的社会地位较高的人）效力时使用。
+|source_name=内海骑士
+|source_url=https://pf1chm.pages.dev/topics/zhdc70ece933.htm
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=至虔护符
+|english_name=Periapt of Utter Devotion
+|aon=MagicWondrousDisplay.aspx?FinalName=Periapt of Utter Devotion
+|cat=奇物
+|aura=中等惑控系
+|cl=7
+|slot=颈部
+|price=33,000 gp
+|description=此护身符的功能如同[[虔信护符]]，但其意志豁免DC为16，并且可以影响非类人生物（如同[[魅惑怪物]]）。另外，每日一次，当给予者与佩戴者交谈时，给予者可以如同该法术一般，在佩戴者心中植入一个[[触发型暗示术]]。佩戴者可进行一次DC 16的意志豁免以使其无效；若其豁免结果超过DC 5点或以上，则同时也会打破护符的魅惑效果。
+|req=[[制造奇物]]、[[诱人赠礼]]、[[魅惑怪物]]、[[触发型暗示术]]
+|cost=16,500 gp
+|source=恶棍志
+}}

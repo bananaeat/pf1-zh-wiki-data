@@ -1,0 +1,9 @@
+{{Trait
+|name=不倦
+|english_name=Tireless
+|type=派系
+|description=不论是需要坚持长时间工作，还是在自然环境恶劣的条件下，你都能顺利完成任务。当你为了抵抗因游泳造成[[非致命伤害]]、急行军、饥饿、口渴和炎热或寒冷环境时进行的体质检定获得+2背景加值。此外，你获得1点额外的生命值。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

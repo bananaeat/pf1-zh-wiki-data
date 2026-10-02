@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（People of the Stars pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=长季传统
+|english_name=Triaxian Tradition
+|type=地区
+|pfs=否
+|prerequisites=崔亚修斯
+|description=你经历过崔亚修斯漫长季节中的一季，这让你深知漫长夏季或冬季的危险。选择疾病或寒冷。你对抗具有所选描述符的法术和类法术能力的豁免获得+2背景加值。如果你选择疾病，你对抗非魔法疾病的强韧豁免同样获得这项加值。
+|source_name=繁星子民
+|source=PotS
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Triaxian%20Tradition
+}}

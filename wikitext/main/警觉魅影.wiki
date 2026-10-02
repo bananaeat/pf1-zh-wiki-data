@@ -1,0 +1,10 @@
+{{Feat
+|name=警觉魅影
+|english_name=Vigilant Phantom
+|description=你的魅影十分[[警觉]]，与它的联系能够增加你自身的警惕性。
+|prerequisites=[[魅影]]职业能力
+|benefit=当你的魅影位于你的触及范围内时，你会在察觉检定上获得+4加值。若你在察觉技能上投入了10点或更多技能点的话，该加值会增加至+8点。如果你的魅影陷入[[无助]]或[[昏迷]]的话，该效果就无法生效。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=探知之釜
+|english_name=Cauldron of Seeing
+|aon=MagicWondrousDisplay.aspx?FinalName=Cauldron of Seeing
+|cat=奇物
+|aura=中等预言系
+|cl=10
+|slot=无
+|price=42,000 gp
+|weight=5磅
+|description=装满液体后，这口小釜能让使用者看到几乎任意远处，如同施放探知法术。它还可以具备类似[[水晶球]]的额外能力，价格与水晶球的相应能力相同。
+|req=[[制造奇物]]、[[探知]]
+|cost=21,000 gp
+|source=进阶玩家指南、极限宝具
+}}

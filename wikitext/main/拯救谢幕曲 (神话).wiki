@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[拯救谢幕曲]] 的神话版本。</small></div>
+{{Spell
+|name=拯救谢幕曲
+|english_name=Saving Finale
+|school=塑能系
+|tags=影响心灵
+|levels=吟游诗人 1;歌者 1
+|description=将你的阶层作为加值加到重掷的豁免检定上。
+|source=神话冒险
+}}
+[[分类:神话法术]]

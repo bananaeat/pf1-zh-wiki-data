@@ -1,0 +1,11 @@
+{{Feat
+|name=符文冲锋
+|english_name=Runic Charge
+|categories=战斗
+|description=你[[传递接触法术]]的方式凶残可怖。
+|prerequisites=施法者等级5级
+|benefit=只要你有两只手空着，作为冲锋动作的一部分，你可以施放一个范围为接触的法术，并将其传递给某一目标。当你这样做的时候，你在克服目标[[特殊能力#法术抗力|法术抗力]]的施法者等级检定上获得+2加值，同时该次[[接触攻击]]的重击威胁范围是19-20。增加的重击威胁范围不会与任何诸如[[精通重击]]的类似能力叠加。
+|source=PotW
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1193.html
+}}

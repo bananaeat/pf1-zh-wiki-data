@@ -1,0 +1,12 @@
+{{Feat
+|name=精通滑步
+|english_name=Improved Sidestep
+|categories=战斗
+|description=你善于避开敌人的近战攻击，而这也不会影响你那灵活的动作。
+|prerequisites=敏捷15，[[闪避]]，[[灵活移动]]，滑步。
+|benefit=在通过回避敌人的失手攻击而使用[[滑步]]专长后，你仍旧能够在你的下一轮内使用五尺快步，若你在你的下一轮内进行移动的话也可以全速移动。
+|normal=如果你使用“滑步”专长，你无法在你的下一轮使用五尺快步。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

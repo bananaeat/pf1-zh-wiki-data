@@ -1,0 +1,19 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[顺势斩 (神话)]]。</small></div>
+{{Feat
+|name=顺势斩
+|english_name=Cleave
+|categories=战斗
+|description=你挥动一次武器，命中两个相邻的敌人。
+|prerequisites=力量13，[[猛力攻击]]，基本攻击加值+1。
+|benefit=每轮1次，以一个[[标准动作]]，你可以对攻击范围内的一个敌人以最高BAB进行一次攻击。若命中，在正常伤害的同时，你还能对攻击范围内、与其相邻的另一敌人再进行一次最高BAB攻击。若你这么做，在你下轮动作之前，会遭受AC-2的惩罚。
+|stamina=在使用顺劈或大顺劈时花费4点耐力可消除AC惩罚。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[兽人屠戮者]]、[[地精切裂者]]、[[大顺势斩]]、[[巨人杀手(专长)]]、[[快步顺势斩]]、[[精通终势斩]]、[[精通顺势突袭]]、[[终势斩]]、[[顺势突袭]]（9 个条目）
+
+{{FAQ|v5748eaic9oze|v5748eaic9qd6}}

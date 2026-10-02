@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=雷云|en=Thundercloud|type=Su|domain=气领域|sub=云子域 (Cloud)|sub_name=云子域|source=进阶玩家指南|text=8级你可用标准动作唤来风暴云，此能力类似[[云雾术]]，除了被笼罩生物变聋且因雷鸣闪电受到2d6点闪电伤害。创建后，你能通过专注来每轮移动它30尺。每天能使用的轮数等于牧师等级，不必连续。此能力取代气领域的[[气领域#电抗性 (Electricity Resistance, Ex)|电抗性]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

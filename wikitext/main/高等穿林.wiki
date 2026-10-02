@@ -1,0 +1,11 @@
+{{Feat
+|name=高等穿林
+|english_name=Mystic Stride
+|description=魔化的植物无法阻止你的脚步。
+|prerequisites=敏捷15，[[灵狐步]]，【穿林】职业特性。
+|benefit=你能以正常速度通过任何魔化或魔力形成的荆棘丛、石南丛、茂密的灌木丛，即使在其中会受到[[纠缠]]效果也是如此。
+|normal=【穿林】无法作用于魔化或魔力形成的荆棘丛、石南丛、茂密的灌木丛。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

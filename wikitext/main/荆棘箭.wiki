@@ -1,0 +1,10 @@
+{{武器
+|name=荆棘箭
+|english_name=Thorns (20)
+|category=弹药
+|wcat=弹药
+|price=1 gp
+|weight=2磅
+|description=这些小箭的箭头是一根凶险的玫瑰刺，箭羽则以上漆的玫瑰花瓣制成。
+|source=征服血誓谷
+}}

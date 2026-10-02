@@ -1,0 +1,15 @@
+{{魔法物品
+|name=守墓者挂饰
+|english_name=Gravewatch Pendant
+|aon=MagicWondrousDisplay.aspx?FinalName=Gravewatch Pendant
+|cat=奇物
+|aura=微弱防护系
+|cl=3
+|slot=颈部
+|price=8,000 gp
+|weight=1磅
+|description=这种挂饰受到看守亡灵出没之地的守墓人所喜爱，是一枚铁环，挂在一条用打磨过、褪了色的骨头、钉子和牙齿串成的项链上。一层微弱的蓝光勾勒出穿戴者的轮廓，保护他免受攻击。不死生物被这光芒驱退，对守墓者挂饰穿戴者的所有攻击检定承受-2减值。[[虚体]]不死生物被进一步驱退，改为对穿戴者的所有攻击检定承受-4减值。不过，不死生物很容易感知到这光芒，在察觉检定中侦测佩戴此挂饰的生物时获得+4环境加值。
+|req=[[制造奇物]]、[[防护邪恶]]
+|cost=4,000 gp
+|source=极限宝具
+}}

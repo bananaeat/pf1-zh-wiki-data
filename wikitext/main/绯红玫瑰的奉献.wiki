@@ -1,0 +1,10 @@
+{{Feat
+|name=绯红玫瑰的奉献
+|english_name=Scarlet Rose Devotion
+|description=通过姊妹间的联系，你可以鼓舞你的盟友克服恐怖的威胁。
+|prerequisites=保镖APG；战斗反射；表演(演讲)3级；任意善良阵营
+|benefit=每当你30尺内的盟友进行1次豁免检定时,你可以用一个直觉动作进行一次DC10的表演(演讲)检定。如果你成功了,盟友在豁免检定上获得+2的士气加值。这个能力在你队友无法听见或者理解你的话时不会生效。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/page_1230.html
+}}

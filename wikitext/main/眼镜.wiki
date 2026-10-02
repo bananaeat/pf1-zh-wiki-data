@@ -1,0 +1,9 @@
+{{装备
+|name=眼镜
+|english_name=Eyeglasses
+|cat=工具
+|price=5 gp
+|weight=—
+|description=眼镜（又称 spectacles）用来矫正不佳的视力，或放大细小的细节。
+|source=冒险者的军械库
+}}

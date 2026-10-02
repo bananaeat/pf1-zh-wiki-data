@@ -1,0 +1,23 @@
+{{科技物品
+|name=零点步枪
+|english_name=Zero rifle
+|kind=科技武器
+|sub=火器
+|price=20,000 gp
+|weight=6磅
+|wtype=双手远程
+|prof=异种（火器）
+|dmg_s=1d10
+|dmg_m=2d6
+|dmg_type=寒冷
+|crit=×2
+|range=150尺
+|capacity=20
+|usage=1
+|special=全自动、接触
+|description=零点步枪是[[零点手枪]]的更大型、更强力的版本，除这里列出的差异外，其功能与零点手枪相同。
+|construction=[[制造科技武器和护甲]]、军事工作间
+|craft_dc=27
+|cost=10,000 gp
+|source=科技指南
+}}

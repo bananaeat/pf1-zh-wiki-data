@@ -1,0 +1,17 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=嫉妒粉
+|english_name=Dust of Envy
+|aon=MagicWondrousDisplay.aspx?FinalName=Dust of Envy
+|cat=奇物
+|aura=中等防护系
+|cl=6
+|slot=颈部
+|price=900 gp
+|description=一条纤细的银链上悬着一个装满淡蓝色粉末的小水晶瓶。打碎瓶子时，它会释放出一阵强大的防护系魔法闪光，以一次指定目标的[[解除魔法]]作用于半径30尺内所有的塑能系和死灵系魔法。每个瓶子只装有一次份量的粉末，使用之后这件物品即被毁坏。这个瓶子可以当作投掷武器使用（PH第158页）。
+
+传说认为是符文领主贝利玛留斯（Runelord Belimarius）创造了嫉妒粉，但更多的历史记载暗示，其余的符文领主也发现了制作各自与美德相关的粉末的秘密——这些粉末都在类似的情形下启动、产生类似的效果，各自与一种特定的罪相呼应，并以与相对立的两种罪相关的学派的法术为目标。
+|req=[[制造奇物]]、[[解除魔法]]
+|cost=450 gp、36 XP
+|source=Magic of Thassilon (Web Enhancement)
+}}

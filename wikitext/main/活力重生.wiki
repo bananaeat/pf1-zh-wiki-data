@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=活力重生
+|english_name=Regenerative Vigor
+|type=Ex
+|categories=防御
+|prerequisites=[[野蛮人]]6级，[[重生之力]]
+|benefit=当使用“[[重生之力]]”[[狂暴之力]]后，直到狂暴结束前，野蛮人将会得到每6野蛮人等级1点的快速治疗，最多3点。此快速治疗的生命值会在每次野蛮人行动轮开始时恢复。
+|source_name=极限战斗
+}}

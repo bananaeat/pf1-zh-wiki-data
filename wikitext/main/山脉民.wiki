@@ -1,0 +1,10 @@
+{{Trait
+|name=山脉民
+|english_name=Highlander
+|type=地区
+|prerequisites=丘陵或山脉
+|description=你在荒地或山丘地带出生长大，并成为了躲避猛兽和怪物的专家。你的隐匿检定获得+1背景加值，并且总能将隐匿视为你的[[本职技能]]。在丘陵或多岩地区，该背景加值增至+2。
+|source_name=地区背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

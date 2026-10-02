@@ -1,0 +1,15 @@
+{{Trait
+|name=游击改进者
+|english_name=Guerrilla Mender
+|type=地区
+|prerequisites=出身涅玛萨斯或在当地生活过至少1年
+|description=当你逃离摩尔苏恩军队时，在德鲁伊治疗者的帮助下，你勉强地避免了无论是意外感染或者其他邪恶力量受害者传染给你的疾病和毒素。
+
+每当你对一个盟友成功进行了治疗中毒或治疗疾病的医疗技能检定，那个盟友在对抗该疾病或毒素的豁免检定上额外获得+1背景加值。
+
+医疗成为你的本职技能。
+|regions=涅玛萨斯
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_703.html
+}}

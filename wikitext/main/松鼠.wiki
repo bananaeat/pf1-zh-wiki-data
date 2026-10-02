@@ -1,0 +1,11 @@
+<noinclude>{{消歧义|松鼠(怪物)}}</noinclude>
+{{装备
+|name=松鼠
+|english_name=Squirrel (common)
+|cat=坐骑与宠物
+|price=1 gp
+|weight=2磅
+|creature=松鼠(怪物)
+|description=在野外，这些超小型啮齿动物就像城市中的老鼠一样常见。它们通常以坚果、种子和植物为食。松鼠使用与鼠相同的数据（见《怪物图鉴》）。
+|source=极限宝具
+}}

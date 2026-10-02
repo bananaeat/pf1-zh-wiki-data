@@ -1,0 +1,13 @@
+{{Feat
+|name=自由勇士
+|english_name=Champion of Freedom
+|categories=阵营
+|pfs=否
+|description=你相信唯有自由才能使众生繁荣。
+|prerequisites=10生命骰，混乱善良阵营。
+|benefit=你可以储存数量等同于魅力加值（最少1）的阵营确认以备随时使用，而不局限于接下来的24小时内。你可以使用一个阵营确认，获得1轮的[[行动自如]]效果。你在对抗邪恶与守序生物时的武器与法术伤害检定获得+2加值（若目标同时为邪恶且守序，则为+4）。这是一个基于阵营的效果。
+|residual=即使你不再是混乱善良阵营，你仍保留对邪恶与守序生物+2（或+4）的伤害加值。
+|source=PU
+|source_name=解放者
+|source_url=https://pf1chm.pages.dev/topics/zh771c8090a9.htm
+}}

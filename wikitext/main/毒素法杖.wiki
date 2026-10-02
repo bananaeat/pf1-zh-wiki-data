@@ -1,0 +1,18 @@
+{{魔法物品
+|name=毒素法杖
+|english_name=Staff of Toxins
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Toxins
+|cat=法杖
+|aura=中等（学派不定）
+|cl=9
+|slot=无
+|price=34,200 gp
+|weight=5磅
+|description=这根被毒芹缠绕的橡木杖散发着一丝若有若无的腐朽败坏气息。它可以使用以下法术：
+
+* [[臭云术]]（1 发）
+* [[死云术]]（2 发）
+|req=[[制造法杖]]、[[死云术]]、[[臭云术]]
+|cost=17,100 gp
+|source=进阶玩家指南、极限宝具
+}}

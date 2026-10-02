@@ -1,0 +1,10 @@
+{{Feat
+|name=铁甲神官
+|english_name=Ironbound Master
+|description=沉重的钢甲在你的身上如同第二层皮肤一样灵便
+|prerequisites=7级牧师，信仰古拉姆
+|benefit=你获得战士的护甲训练职业能力，以你的牧师等级-4计算有效战士等级。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

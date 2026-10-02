@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=狂暴飞翔
+|english_name=Raging Flier
+|type=Ex
+|categories=杂项
+|prerequisites=[[野蛮人]]，[[狂暴跳跃]]
+|benefit=每次狂暴一次，角色可以以一个[[移动动作]]以自己基础移动速度的速度飞行。
+|source_name=进阶职业指南
+}}

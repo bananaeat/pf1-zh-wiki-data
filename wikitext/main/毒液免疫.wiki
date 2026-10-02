@@ -1,0 +1,4 @@
+<noinclude>{{德鲁伊导航}}
+</noinclude>{{德鲁伊领域能力|name=毒液免疫|en=Venom Immunity|type=Ex|domain=毒蛇领域|source=极限魔法|text=6级时你对蛇、爬虫类以及具有爬虫亚种的生物的毒素免疫。12级时你对所有毒素免疫。此能力取代[[德鲁伊#毒素免疫 (Venom Immunity, Ex)|毒素免疫]]。}}<noinclude>
+
+[[分类:德鲁伊领域]]</noinclude>

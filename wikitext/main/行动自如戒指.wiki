@@ -1,0 +1,14 @@
+{{魔法物品
+|name=行动自如戒指
+|english_name=Ring of Freedom of Movement
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Freedom of Movement
+|cat=戒指
+|aura=中等防护系
+|cl=7
+|slot=戒指
+|price=40,000 gp
+|description=这枚金[[魔法物品#戒指|戒指]]能让穿戴者如同持续处于[[行动自如]]法术的效果之下。
+|req=[[锻造戒指]]、[[行动自如]]
+|cost=20,000 gp
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=自残旋风
+|english_name=All-Consuming Swing
+|categories=战斗
+|description=当你面对多名敌人时，你会释放毫无节制的破坏力，有时甚至会伤及自身。
+|prerequisites=力量13，[[猛力攻击]]，[[顺势斩]]，[[要害打击]]，BAB+8
+|benefit=每当你使用顺势斩或[[大顺势斩]]，你可以将你本会从要害打击，[[精通要害打击]]或[[高等要害打击]]专长中获得的额外伤害，施加于你攻击的初始目标。如此做时，对身体的拉伤会使你受到等同于要害打击专长所造成额外伤害的伤害。这种自残伤害不会被伤害减免抵消。
+|source=THH
+|source_name=哈罗牌手册
+|source_url=https://pf1chm.pages.dev/topics/zh6af278c423.htm
+}}

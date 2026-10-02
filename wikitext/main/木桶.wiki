@@ -1,0 +1,9 @@
+{{装备
+|name=木桶
+|english_name=Barrel
+|cat=冒险装备
+|price=2 gp
+|weight=30磅
+|description=这是一个用金属条捆扎的坚固木桶，配有一个紧密的盖子。
+|source=核心规则书、极限宝具
+}}

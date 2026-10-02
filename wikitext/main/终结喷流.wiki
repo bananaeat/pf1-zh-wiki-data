@@ -1,0 +1,11 @@
+{{Feat
+|name=终结喷流
+|english_name=Finishing Cascade
+|categories=战斗
+|description=（[[战斗专长]]、融会专长）你的打击将你的对手置于毁灭性的结局
+|prerequisites=BAB+11或武僧11级；拥有至少一个融会专长
+|benefit=当你在一轮中第一次使用融会专长对你自己或敌人施加减免或减值时，你可以将专长的数值修正翻倍。例如，你可以将战斗韵律给予的减少量翻倍至–2。这不会翻倍融会专长的任何其他效果，例如伤害。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/page_1602.html
+|source=MAH
+}}

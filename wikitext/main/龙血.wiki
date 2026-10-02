@@ -1,0 +1,29 @@
+<noinclude>{{速查导航|here=规则}}
+'''龙血'''（Dragon Blood）是一条神话[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Su</span><span class="sk-a">神话</span><span class="sk-f">位置：防御能力</span></div>
+</noinclude><includeonly><div class="lang"><span id="龙血"></span><div class="lang-h"><b>[[龙血]]</b><i>Dragon Blood</i><span class="lang-w">Su · 神话 · 防御能力</span></div><div class="lang-d"></includeonly>
+神话龙类的血液和其他体液都蕴含着酸蚀、寒冷、闪电或者火焰，这些都与它们喷吐武器的能量类型相符。每当这些龙类被穿刺或挥砍武器伤害时，进行攻击的生物会按照下表受到能量伤害（重击则伤害翻倍）。使用长触及武器的攻击者不会因此能力而遭受危险。如果这些龙类具有[[活吞]]能力，那么它还会将龙血伤害加到活吞的伤害上。
+
+'''表 6-6：龙血伤害'''
+
+{| class="wikitable"
+|-
+! 龙类体型 !! 能量伤害
+|-
+| 中型或更小 || 1d4
+|-
+| 大型 || 1d6
+|-
+| 超大型 || 1d8
+|-
+| 巨型 || 2d6
+|-
+| 超巨型 || 2d8
+|}
+
+'''格式'''：龙血（2d6 火焰）
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Dragon Blood|2=Dragon Blood}}
+
+[[分类:通用怪物规则]]</noinclude>

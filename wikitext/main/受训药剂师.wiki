@@ -1,0 +1,12 @@
+{{Trait
+|name=受训药剂师
+|english_name=Educated Druggist
+|type=地区
+|pfs=否
+|prerequisites=出身奥斯布、苏比亚、天夏或乌斯塔拉夫（或在当地生活过至少1年）的[[炼金术师]]治疗者
+|description=任何你使用的提供炼金加值的炼金药都会提高1点加值。这些炼金药在正常生效的同时也会恢复目标1点生命值。
+|regions=奥斯布、苏比亚、天夏、乌斯塔拉夫
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_703.html
+}}

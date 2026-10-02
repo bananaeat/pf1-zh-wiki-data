@@ -1,0 +1,12 @@
+{{Feat
+|name=血怒流
+|english_name=Blood Frenzy Style
+|categories=战斗;流派
+|description=你已经学会了将你的痛苦转化为力量，每当你受到伤害时，你将激发血性的狂怒。
+|prerequisites=力量 13，精通徒手打击，基础攻击加值+1，水生亚种
+|benefit=当你使用血怒流时，你的力量和体质得到+2加值，在AC上受到-2减值。
+|special=只有当你受到伤害时，你才能以直觉动作开启血怒流。你无法与其他流派专长一样，以一个迅捷动作启动血怒流。
+|source=HftF
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

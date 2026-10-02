@@ -1,0 +1,49 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #106: For Queen and Empire
+|authors=Stephen Radney-MacFarland
+|pages=96
+}}
+
+{{书页/简介|head=地狱自有其报偿！|1=
+切利亚斯的阿波罗盖二世女王——「地狱女陛下」——召集她的特工前往艾格利安城，处理荣耀光复军造成的当前危机。冒险者们抵达熙熙攘攘的首都，发现自己被卷入了宫廷中你死我活的政治斗争。为了给女王留下深刻印象并争取觐见，这些邪恶的角色必须搜遍荆棘之城，铲除一个致力于解放半身人奴隶的秘密组织。而要真正赢得阿波罗盖女王的信任，冒险者们还必须为女王献上一场祭祀，以更新特鲁恩家族与地狱的契约——宫廷内外都有许多人想看到这位君主被推下王座。
+
+本册《冒险之路》延续「地狱复仇」冒险之路，内容包括：
+
+* 《为了女王与帝国》，一部面向 10 级角色的开拓者冒险，作者 Stephen Radney-MacFarland。
+* 切利亚斯首都、荆棘之城艾格利安的地志，作者 Dave Gross。
+* 一窥秘密废奴组织[[铃花会]]（Bellflower Network），作者 Crystal Frasier。
+* 「探索者日志」中一场代价高昂的祭祀，作者 Josh Vogt。
+* 四种令人兴奋的新怪物，作者 Garrett Guillotte、Steven T. Helt、Luis Loza、Stephen Radney-MacFarland。
+}}
+
+'''冒险之路106：为了女王与帝国'''（''Pathfinder #106: For Queen and Empire''）是[[冒险之路]]「地狱复仇」系列的一部冒险，由 Stephen Radney-MacFarland 撰写，配套文章出自 Dave Gross、Adam Daigle 等 7 位作者，小说出自 Josh Vogt，于 2016 年 5 月 25 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+为了女王与帝国 @ 4
+NPC 图集 @ 54
+- Levisvia Vasvion
+- Thalgano Sethic
+- 阿波罗盖·特鲁恩二世（Abrogail Thrune II）
+认识反派：Zelhara @ 62
+艾格利安，荆棘之城 @ 62
+[[铃花会]] @ 70
+探索者日志：懦夫与乌鸦（4／6） @ 76
+怪物图鉴 @ 82
+- [[阿弗纳斯刀背猪]]
+- [[希乌羽蛇]]
+- [[坠亡邪魔]]
+- [[伊克西翁蠕虫]]
+}}
+
+{{书页尾
+|pfw=For Queen & Empire
+|releases=Softcover¦PZO90106¦2016-05¦978-1-60125-836-6；PDF¦PZO90106E¦¦
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

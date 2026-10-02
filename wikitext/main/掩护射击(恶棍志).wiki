@@ -1,0 +1,13 @@
+{{消歧义|掩护射击}}
+{{Feat
+|name=掩护射击
+|english_name=Covering Fire
+|aon=Covering Fire (VC)
+|categories=战斗;团队
+|description=你的射击能让敌人失去戒备，从而给你的队友创造行动机会。
+|prerequisites=[[擅长异种武器]]（火器）UC，[[武器专攻]]（至少一种火器）。
+|benefit=当你以一把你具有[[武器专攻]]的火器命中一个敌人时，该生物在对任何其他同样具有此专长的盟友进行的攻击检定上于1轮内承受–2减值；对于[[借机攻击]]，该减值改为–4。由此专长施加的减值不会与其自身叠加。然而，如果你与一名具有此专长的盟友同时攻击同一名敌人，你们可以互相[[掩护]]（因为你借由此专长施加的减值不适用于针对你的攻击）。
+|source=VC
+|source_name=恶棍志
+|source_url=https://pf1chm.pages.dev/topics/zhfa2a4585c1.htm
+}}

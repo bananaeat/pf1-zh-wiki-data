@@ -1,0 +1,9 @@
+{{Trait
+|name=深藏心能
+|english_name=Latent Psion
+|type=种族
+|prerequisites=[[人类]]（乌笃剌人）
+|description=精神影响世界的权能在你那遥远的故乡很大程度上是一个现实。尽管你甚至都不是诞生于乌笃剌，此力量在你的精神仍然存在并保护你免受精神攻击。你在对抗［心灵影响］效果的豁免检定上获得+2背景加值。
+|source_name=烈焰传承玩家手册
+|source_url=https://pf1chm.pages.dev/topics/zh5dfd5074ca.htm
+}}

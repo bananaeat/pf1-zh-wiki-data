@@ -1,0 +1,14 @@
+{{魔法物品
+|name=法官假发
+|english_name=Judge's Wig
+|aon=MagicWondrousDisplay.aspx?FinalName=Judge's Wig
+|cat=奇物
+|aura=中等预言系
+|cl=7
+|slot=头部
+|price=59,200 gp
+|description=这顶白色卷发垂落的假发使佩戴者显得毫无疑义地庄严威仪、沉稳持重，使其交涉和威吓检定获得+4表现加值。佩戴者可以随意专注于30尺内的一个生物，以[[辨识谎言]]对其加以审视。
+|req=[[制造奇物]]、[[辨识谎言]]
+|cost=29,600 gp
+|source=极限宝具
+}}

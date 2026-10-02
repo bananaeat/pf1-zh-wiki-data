@@ -1,0 +1,9 @@
+{{Trait
+|name=举报人
+|english_name=Whistleblower
+|type=派系
+|description=你能轻易识破骗局、小偷或作弊者，你在察言观色技能上获得+1加值，并且此技能成为你的[[本职技能]]。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

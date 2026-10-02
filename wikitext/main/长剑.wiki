@@ -1,0 +1,18 @@
+{{武器
+|name=长剑
+|english_name=Longsword
+|category=武器
+|prof=军用
+|wcat=单手
+|price=15 gp
+|weight=4磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=19–20/×2
+|type=挥砍
+|groups=重刃
+|description={{AI翻译|nocat=1|本段由 AI 照 AoN 英文原文译出，CHM 汉化里没有这段译文，未经人工校对。}}
+
+这种剑长约3尺半。
+|source=核心规则书、极限宝具
+}}

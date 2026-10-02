@@ -1,0 +1,10 @@
+<noinclude>{{侠客导航}}
+'''荒野独行'''（One with the Wild, Ex）是[[侠客]]的[[侠客天赋]]。
+
+</noinclude>{{Source|格拉利昂的英雄|Heroes of Golarion|inline}}
+
+效果：侠客必须要拥有[[因地制宜]]天赋才能选择此天赋。在他选择因地制宜天赋时所选的相同地形中，侠客在隐匿、生存和察觉检定上获得+4表现加值。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh62263cd083.htm 原文]）。全部侠客天赋见 [[:分类:侠客天赋|分类:侠客天赋]]。
+
+[[分类:侠客天赋]]</noinclude>

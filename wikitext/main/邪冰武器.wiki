@@ -1,0 +1,15 @@
+{{Spell
+|name=邪冰武器
+|english_name=Unholy ice weapon
+|school=变化系
+|tags=寒冷;邪恶;水
+|levels=先知 2;审判者 2;战斗祭司 2;牧师 2
+|action=标准动作
+|components=语言;姿势;材料（一瓶邪水，或者价值25gp的5磅重的银粉）
+|range=0尺
+|effect=一件冰质武器
+|duration=1分钟/等级 (可解消)
+|sr=否
+|description=该法术的功能如同[[圣冰武器]]一般，不过武器是由冻结的邪水所构成，而且会对那些会由于邪水而受伤的生物造成额外伤害。
+|source=进阶职业指南
+}}

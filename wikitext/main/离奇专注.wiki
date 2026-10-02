@@ -1,0 +1,10 @@
+{{Feat
+|name=离奇专注
+|english_name=Uncanny Concentration
+|description=你学会了如何在施法时进入明镜止水的状态，让你摆脱烦躁、伤害、恶劣的天气甚至是其他法术的影响。
+|prerequisites=[[战斗施法]]。
+|benefit=你在受到有力振动或剧烈振动的影响，或处于恶劣天气之中时，不必进行专注检定。你在其他所有的专注检定上获得+2加值。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

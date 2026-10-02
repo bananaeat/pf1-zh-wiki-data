@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=威吓凝视
+|english_name=Intimidating Glare
+|type=Ex
+|categories=进攻
+|benefit=野蛮人能以[[移动动作]]对一名邻接敌人进行一次威吓技能检定。如果他成功挫败对方士气，则敌人将[[战栗]]“1d4+1/野蛮人的检定结果每超过威吓DC5点”轮。
+|unchained=威吓怒视
+|source_name=核心规则书
+}}

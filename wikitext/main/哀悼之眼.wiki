@@ -1,0 +1,29 @@
+{{秘学士导航}}
+{{Source|异能源始|Occult Origins}}
+'''哀悼之眼'''（Mournful Eye）是[[秘学士]]的圣灵器，属于[[灵器学派/附魔灵器|附魔灵器]]学派。
+
+=== 关联神祇 ===
+
+奥罗登
+
+=== 关联学派 ===
+
+[[灵器学派/附魔灵器|惑控]]
+
+=== 灵器 ===
+
+项链
+
+=== 对立学派 ===
+
+幻术
+
+=== 往事如烟 (Forgotten, Sp) ===
+
+以一个[[标准动作]]，你可以花费3点[[秘学士#心智点|心智点]]对30尺内的一个目标使用法术[[篡改记忆]]。该能力仅能使目标生物遗忘5分钟内和你有关的记忆。
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_1214.html 原文]）。
+{{AoN原文|1=OccultistImplementsDisplay.aspx?ItemName=Enchantment|2=Mournful Eye}}
+
+[[分类:灵器]]
+{{职业}}

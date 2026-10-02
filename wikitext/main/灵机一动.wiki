@@ -1,0 +1,14 @@
+{{Feat
+|name=灵机一动
+|english_name=Improvisation
+|description=几乎任何事情你都能搞清楚怎么做。
+|prerequisites=智力13，[[速学者]]，人类。
+|benefit=你在任何没有投入技能点的技能检定中均获得+2加值。此外，你可以在未经受训的情况下使用那些需要受训才能使用的技能。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[灵机又动]]（1 个条目）

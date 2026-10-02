@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Elements pg. 27），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=蒙冤前贵族
+|english_name=Betrayed Ex-Noble
+|type=地区
+|prerequisites=黄铜城
+|description=你生于黄铜城的贵族之家，却被不公正地剥夺了头衔，或遭到流放。如今，你的怒火让你再也容不得有人对你本已蒙羞的名字施加任何侮辱。每当敌人在战斗中试图对你使用虚招时，其DC等于10＋你的基本攻击加值＋你的感知调整值，或10＋你的[[威吓]]加值，取较高者。
+|source_name=元素血脉
+|source=BotE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Betrayed%20Ex-Noble
+}}

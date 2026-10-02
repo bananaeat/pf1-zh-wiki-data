@@ -1,0 +1,12 @@
+{{危害
+|name=噩梦蒸汽
+|english_name=Nightmare Vapor
+|kind=毒药
+|type=吸入
+|save=强韧 DC 20
+|frequency=1次/轮，持续6轮
+|effect=1点感知伤害，并且[[困惑]]1轮
+|cure=连续2次豁免成功
+|price=1,800 gp
+|source=核心规则书
+}}

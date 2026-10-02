@@ -1,0 +1,12 @@
+{{危害
+|name=腐精油
+|english_name=Oil of taggit
+|kind=毒药
+|type=摄入
+|save=强韧 DC 15
+|onset=1分钟
+|effect=昏迷1d3小时
+|cure=1次豁免成功
+|price=90 gp
+|source=核心规则书、极限宝具
+}}

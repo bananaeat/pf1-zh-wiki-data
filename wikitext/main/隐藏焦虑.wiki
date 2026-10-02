@@ -1,0 +1,9 @@
+{{Trait
+|name=隐藏焦虑
+|english_name=Buried Anxiety
+|type=种族
+|prerequisites=[[魔裔]]（怨恨族裔）
+|description=只要不受某种特定的平凡物品干扰，你就能够嘲笑那些能把别人吓得发抖的事物。选择一类物体、颜色、声响或者类似的较为常见的现象。你能够在对抗恐惧效果的豁免检定中获得+2背景加值，除非你能够看到、听到、闻到或尝到那种会使你失去勇气的东西。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_832.html
+}}

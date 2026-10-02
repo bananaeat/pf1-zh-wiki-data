@@ -1,0 +1,15 @@
+{{魔法物品
+|name=致命打击短衫
+|english_name=Tunic of Deadly Might
+|aon=MagicWondrousDisplay.aspx?FinalName=Tunic of Deadly Might
+|cat=奇物
+|aura=微弱塑能系
+|cl=3
+|slot=胸部
+|price=6,000 gp
+|weight=2磅
+|description=这件短衫以金线织成，袖口镶有银边。穿戴者对抗[[卸武]]和[[击破]]战技的[[CMD]]获得+2加值。如果穿戴者是[[武士]]，则每天两次，他可以用[[迅捷动作]]，将[[雷鸣]]武器特殊能力的效果施加在对其挑战目标的成功重击上。
+|req=[[制造奇物]]、[[目盲/耳聋术]]、[[法师护甲]]
+|cost=3,000 gp
+|source=极限宝具
+}}

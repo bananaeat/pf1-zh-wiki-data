@@ -1,0 +1,9 @@
+{{装备
+|name=水壶
+|english_name=Canteen
+|cat=冒险装备
+|price=2 gp
+|weight=1磅
+|description=这种中空的容器由木头、葫芦或者金属制成，就像水袋一样可以盛装液体，但更耐穿刺和切割。（译注：CHM 汉化译作「餐盒」；Canteen 是像水袋一样盛水的水壶，本站改名。）
+|source=极限宝具
+}}

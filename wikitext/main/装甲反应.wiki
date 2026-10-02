@@ -1,0 +1,15 @@
+{{Feat
+|name=装甲反应
+|english_name=Ironclad Reactions
+|categories=盔甲掌握;战斗
+|description=你可以快速地对攻击做出反应。
+|prerequisites=基本攻击加值+6或者战士4级，盔甲训练职业特性，[[擅长中甲]]
+|benefit=每轮一次，当一个敌人成功使用[[借机攻击]]击中你时，你可以消耗一次借机攻击次数来做出[[5尺快步]]。在你已经做出5尺快步后你也可以做出这个动作。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_1089.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[高等装甲反应]]（1 个条目）

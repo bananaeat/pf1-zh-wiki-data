@@ -1,0 +1,9 @@
+{{装备
+|name=手术工具包
+|english_name=Surgeon's tools
+|cat=工具
+|price=20 gp
+|weight=5磅
+|description=与医疗包组合使用时，手术工具包可将医疗包的加值提升为+3环境加值，适用于处理伤口或治疗严重伤害的医疗检定。
+|source=冒险之路8：死前七日、冒险者的军械库、极限宝具
+}}

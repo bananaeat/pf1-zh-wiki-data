@@ -1,0 +1,9 @@
+{{装备
+|name=钓鱼工具箱
+|english_name=Fishing kit
+|cat=套装
+|price=5 sp
+|weight=3磅
+|description=该工具箱包括了一个简单的钓竿和装有钓鱼用具的小盒子（鱼钩、鱼线、坠子、浮标和诱饵）。
+|source=极限宝具
+}}

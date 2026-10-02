@@ -1,0 +1,15 @@
+{{Spell
+|name=快速修复
+|english_name=Rapid repair
+|school=变化系
+|levels=秘学士 4;先知 5;奥能师 5;战斗祭司 5;术士 5;法师 5;牧师 5
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=接触
+|target=接触到的构装生物
+|duration=1轮/等级
+|save=强韧，通过则无效（无害）
+|sr=是（无害）
+|description=目标构装生物获得5点快速治疗。这个效果不会与任何已有的快速治疗效果叠加。快速治疗对一个生命值已经为0或已被摧毁的构装生物无效。
+|source=极限魔法
+}}

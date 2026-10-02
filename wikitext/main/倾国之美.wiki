@@ -1,0 +1,9 @@
+{{Trait
+|name=倾国之美
+|english_name=Overwhelming Beauty
+|type=魔法
+|description=你的美貌足以被推崇为完美的典范，也正因如此，你的花言巧语对你的同族们总能奏效。那些由你所施展，并且是用于对抗那些与你至少有一个相同亚种的生物的影响心灵的效果的豁免DC增加1。
+|source_name=格拉里昂的混种
+|source=格拉利昂的混种(Bastards of Golarion
+|source_url=https://pf1chm.pages.dev/topics/zh8a60bedf4e.htm
+}}

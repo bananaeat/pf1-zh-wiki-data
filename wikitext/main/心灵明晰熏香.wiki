@@ -1,0 +1,15 @@
+{{魔法物品
+|name=心灵明晰熏香
+|english_name=Incense of Eidos
+|aon=MagicWondrousDisplay.aspx?FinalName=Incense of Eidos
+|cat=奇物
+|aura=中等变化系
+|cl=8
+|slot=无
+|price=2,000 gp
+|weight=1磅
+|description=这种熏香燃烧时会散发出一股霉味，让人联想到图书馆里的古旧典籍。当角色点燃心灵明晰熏香，然后在附近冥想10分钟后，她就能以完美的清晰度回忆起任何她想知道的信息。在接下来的10分钟内，受影响的角色在任何知识技能检定上都可以取20，即使身处迫在眉睫的危险或心神被分散也一样。1磅心灵明晰熏香足够进行3次10分钟的冥想。
+|req=[[制造奇物]]、[[狐之狡黠]]
+|cost=1,000 gp
+|source=进阶职业指南
+}}

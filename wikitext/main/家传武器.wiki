@@ -1,0 +1,8 @@
+{{Trait
+|name=家传武器
+|english_name=Heirloom Weapon
+|type=装备
+|description=你拥有一件家族代代传下来的非精制品简易或军用武器(仍然要如常付出相应金币)。当选择这项背景时，选择以下一项奖励：擅长这一件武器；使用这一件武器时[[借机攻击]]获得+1背景加值；使用这一件武器时一项[[战技]]获得+2背景加值。
+|source_name=装备背景
+|source_url=https://pf1chm.pages.dev/topics/page_1579.html
+}}

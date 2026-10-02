@@ -1,0 +1,20 @@
+{{武器
+|name=休盎提套牛绳
+|english_name=Shoanti bolas
+|category=武器
+|prof=异种
+|wcat=远程
+|price=15 gp
+|weight=2磅
+|dmg_s=1d3
+|dmg_m=1d4
+|crit=×2
+|range=10尺
+|type=钝击和穿刺
+|special=摔绊
+|groups=投掷
+|description={{AI翻译|nocat=1|本段由 AI 照 AoN 英文原文译出，CHM 汉化里没有这段译文，未经人工校对。}}
+
+这种带刺的套牛绳功能与标准的[[套牛绳]]相同，但造成致命伤害，而非非致命伤害。
+|source=腥红王座的诅咒玩家手册、探索者编年史：战役设定、冒险者的军械库、内海世界指南、瓦瑞西亚，传说诞生之地
+}}

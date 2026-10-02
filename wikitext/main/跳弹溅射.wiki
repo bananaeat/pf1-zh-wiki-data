@@ -1,0 +1,11 @@
+{{Feat
+|name=跳弹溅射
+|english_name=Ricochet Splash Weapon
+|description=在你手里，即使是扔偏了的溅射武器以及异常危险。
+|prerequisites=[[敏捷]] 13，随手投掷。
+|benefit=当你使用溅射武器失手，并且偏差结果显示它落在了有生物占据的方格里时，你可以做一次攻击骰（有-5的罚值）就好像你对那个生物投掷溅射武器。如果攻击成功，则溅射武器对这个生物造成全额伤害。与这个生物相邻的格子里依旧受到正常的溅射伤害。
+|normal=失手的溅射投掷武器在落点和相邻的格子中造成溅射伤害。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=护盾胸针
+|english_name=Brooch of Shielding
+|aon=MagicWondrousDisplay.aspx?FinalName=Brooch of Shielding
+|cat=奇物
+|aura=微弱防护系
+|cl=1
+|slot=颈部
+|price=1,500 gp
+|description=这看起来是一件银制或金制的首饰，用来固定斗篷或披风。除了这一寻常用途，它还能吸收由法术或类法术能力产生的[[魔法飞弹]]。一枚胸针最多可吸收101点魔法飞弹造成的伤害，之后就会熔毁、变得无用。
+|req=[[制造奇物]]、[[护盾术]]
+|cost=750 gp
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=魔力工艺戒指
+|english_name=Ring of Craft Magic
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Craft Magic
+|cat=戒指
+|aura=微弱变化系
+|cl=3
+|slot=戒指
+|price=12,000 gp
+|description=魔力工艺戒指的工艺中总会带有某种工具式样的纹饰。穿戴者把法术视同工艺，反之亦然。在鉴定一件可用某种工艺技能制作的物品时，穿戴者可以用该〈工艺〉检定代替[[法术辨识]]检定。穿戴者还可以消耗一个法术位或一个已准备的法术，在一次〈工艺〉或〈专业〉检定上获得增强加值，数值等于所消耗法术的环位（无论该检定需要多少时间）。
+|req=[[锻造戒指]]、制造者必须拥有[[侏儒#工作狂|工作狂]]种族特性
+|cost=6,000 gp
+|source=进阶种族手册、极限宝具
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=增强侏儒魔法
+|english_name=Enhanced Gnome Magic
+|description=你与第一世界的联系，表现为了一种能撬动自然中的元素的魔法能力。
+|prerequisites=魅力13，[[知识]]（自然）3级，[[侏儒]]，侏儒魔法种族特性。
+|benefit=将以后述任一法术加入你的[[侏儒]]魔法[[种族特性]]的类法术能力中：[[燃烧之手]]，[[酸蚀之触]]，[[和风吹拂]]，[[寒冰匕首]]，[[电爪]]。你每天可以使用此类法术能力一次。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

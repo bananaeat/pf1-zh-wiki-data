@@ -1,0 +1,10 @@
+{{Feat
+|name=怪物雷达
+|english_name=Monster Spotter
+|description=你对奇异生命形式的了解使你能熟练地洞穿它们的伪装，发现它们的[[藏身之处]]。
+|prerequisites=技能专攻(知识[任意])，[[知识]](任意)3级。
+|benefit=你可以用知识检定代替对抗生物的[[易容]]和隐匿的察觉检定，以及追踪生物的生存检定。你必须在与对应生物类型(探路者RPG CRB 99-100)相关的知识上有3个等级。
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh03ef2e8763.htm
+}}

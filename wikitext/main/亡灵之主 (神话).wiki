@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[亡灵之主]] 的神话版本。</small></div>
+{{Feat
+|name=亡灵之主
+|english_name=Undead Master
+|categories=神话
+|description=利用自身那让人[[战栗]]的神话本质，在用于制御亡灵时，你有着无与伦比的力量。
+|prerequisites=[[亡灵之主]]
+|benefit=当你施放[[操纵死尸]]法术或者使用命令死灵专长时，将你的阶层加到你的施法者等级上，用于确定你能够操控的不死生物的生命骰数量。这与[[亡灵之主]]专长增加的施法者等级叠加。当你施放命令死灵时，持续时间为原本的3倍，用于取代非神话版的亡灵之主专长的2倍。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

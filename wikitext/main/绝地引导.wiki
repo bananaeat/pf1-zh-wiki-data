@@ -1,0 +1,11 @@
+{{Trait
+|name=绝地引导
+|english_name=Channel the Earth
+|type=地区
+|prerequisites=土元素位面
+|description=
+也许因为你信奉着土元素领主，也许因为你通过种种手段从无垠绝地收集了命运许给的力量。你的神性力量中充满着来自土元素位面的元素之力。每当你引导正能量治疗活物时，受到影响的目标将在对抗[[冲撞]]、复位和[[摔绊]][[战技]]的[[CMD]]上获得+2的亵渎加值。相对地，如果你引导负能量伤害活物，受到影响的目标将在对抗上述战技的CMD上承受-2减值。上述效果持续1轮。
+|source_name=元素血脉
+|source=BotE
+|source_url=https://pf1chm.pages.dev/topics/zh7517ece198.htm
+}}

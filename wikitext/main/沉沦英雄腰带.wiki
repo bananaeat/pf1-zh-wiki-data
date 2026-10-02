@@ -1,0 +1,15 @@
+{{魔法物品
+|name=沉沦英雄腰带
+|english_name=Belt of Fallen Heroes
+|aon=MagicWondrousDisplay.aspx?FinalName=Belt of Fallen Heroes
+|cat=奇物
+|aura=中等咒法系
+|cl=7
+|slot=腰部
+|price=21,000 gp
+|weight=1磅
+|description=这条宽大的黄铜腰带上有三块嵌板，每块都刻画着一幕战斗场景。每天一次，以命令，穿戴者可以召唤出所刻某场战斗中一位英雄的[[英灵]]。这个英灵的作用如同[[灵能盟友]]，但与该法术造出的力量不同，被召唤的英雄并不是完全无心智的。无论被召唤的英雄是否活跃，它都会通过[[心灵感应]]的警告与建议，试图引导穿戴者走向胜利，使其获得对所有豁免检定的+1洞察加值。
+|req=[[制造奇物]]、[[神恩]]、[[灵能盟友]]
+|cost=10,500 gp
+|source=极限宝具
+}}

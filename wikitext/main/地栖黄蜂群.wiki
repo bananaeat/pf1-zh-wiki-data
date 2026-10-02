@@ -1,0 +1,49 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=地栖黄蜂群
+|english_name=Ground Wasp Swarm
+|cr=2
+|xp=600
+|alignment=绝对中立
+|size=超微型
+|type=虫类
+|subtypes=集群
+|init=+1
+|senses=黑暗视觉 60 尺，颤动感知 15 尺；察觉 +8
+|description=成千上万只黄黑相间的黄蜂聚成一团浓云，盘旋翻涌，凶狠地啃咬、毒刺乱蜇。
+|ac=19，接触 19，措手不及 18（+1 敏捷，+8 体型）
+|hp=13（3d8）
+|fort=+3
+|ref=+2
+|will=+1
+|defensive=集群特性
+|immune=影响心灵效果;武器伤害
+|speed=5 尺，潜地 10 尺，飞行 30 尺（良好）
+|melee=集群（1d6 外加 扰乱心神 和 毒素）
+|space=10 尺
+|reach=0 尺
+|special_attacks=扰乱心神（DC 11）
+|str=1
+|dex=12
+|con=10
+|int=–
+|wis=11
+|cha=3
+|bab=+2
+|cmb=–
+|cmd=–
+|skills=[[飞行]] +13;[[察觉]] +8
+|racial_mods=+8 察觉
+|environment=温暖的沙漠或平原
+|organization=单独，成对，或一窝（3–6）
+|treasure=无
+|special_abilities={{怪物能力|毒素|Ex|集群—伤口感染；豁免 强韧 DC 11；频率 每轮 1 次，持续 6 轮；效果 1 点敏捷伤害；痊愈 通过 1 次豁免。}}
+|source=Pathfinder #79: The Half-Dead City
+|lore=
+地栖黄蜂在挖入地下的蜂巢里群居，甚至栖身于坟墓和废墟的裂缝与空腔之中。这些社会性昆虫只有在捕猎（或保卫蜂巢）时才会离巢，常常潜伏在入口内侧，依靠颤动感知探测附近的生物。当有生物靠蜂巢太近时，黄蜂就会从藏身处蜂拥而出发动攻击。
+
+许多种类的地栖黄蜂是寄生性的，会攻击大型生物，既是为了繁殖，也是为了自卫。地栖黄蜂带有麻痹性的毒素，一旦受害者遭到几十次蜇刺，身体就会瘫软下来。猎物丧失行动能力后，地栖黄蜂群便扑向这只仍然活着的生物，在它的皮肤下面产下数百枚卵。有些地栖黄蜂也以类似的方式成群觅食。成年地栖黄蜂自己并不怎么吃肉，但它们常常放倒猎物，好为成长中的幼虫带回食物。
+}}
+
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Ground Wasp Swarm|2=Ground Wasp Swarm}}

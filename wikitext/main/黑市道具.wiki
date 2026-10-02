@@ -1,0 +1,70 @@
+{{速查导航}}
+'''黑市道具'''是《[[冒险者的军械库]]》的一章。
+
+{| class="wikitable sortable"
+|-
+! 物品（Item） !! 价格（Price） !! 重量（Weight）
+|-
+| 兴奋剂（Allnight） || 75 gp || —
+|-
+| 单身鼻烟（Bachelor snuff） || 1 gp || —
+|-
+| 颠茄草粉（Belladonna） || 2 gp || —
+|-
+| 空耳（Clear ear） || 15 gp || —
+|-
+| 剥皮叶（Flayleaf） || 20 gp || 2磅
+|-
+| 大蒜（Garlic） || 1 sp || 1磅
+|-
+| 冬青（Holly） || — || —
+|-
+| 槲寄生（Mistletoe） || — || —
+|-
+| 一夜茶（Night tea） || 1 sp || —
+|-
+| 佩什（Pesh） || 20 gp || —
+|-
+| 休盎提蛮斗士嚼烟（Shoanti barbarian chew） || 1 gp || —
+|-
+| 奴隶（Slave） || 75 gp || 175磅
+|-
+| 苦役奴隶（Slave, hard labor） || 100 gp || 200磅
+|-
+| 家用奴隶（Slave, household） || 50 gp || 130磅
+|-
+| 被束缚的半身人奴隶（Slave, slip (halfling)） || 100 gp || 39磅
+|-
+| 有专业技能的奴隶（Slave, specialized） || 500 gp || 160磅
+|-
+| 烟叶（Tobacco） || 1 gp || 2磅
+|-
+| 乌头（Wolfsbane） || 5 sp || —
+|-
+| 创伤浮肿（Woundweal） || 100 gp || —
+|}
+
+== 黑市道具（Black Market Items） ==
+
+不是每个冒险家都认同这些东西，但有些人认为它们是无价的。
+
+== 本章条目 ==
+
+* [[一夜茶]]
+* [[乌头]]
+* [[佩什]]
+* [[兴奋剂]]
+* [[冬青]]
+* [[创伤浮肿]]
+* [[剥皮叶]]
+* [[单身鼻烟]]
+* [[大蒜]]
+* [[奴隶]]
+* [[槲寄生]]
+* [[烟叶]]
+* [[空耳]]
+* [[颠茄草粉]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc2dc6d6c5e.htm 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

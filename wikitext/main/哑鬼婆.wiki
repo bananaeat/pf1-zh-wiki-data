@@ -1,0 +1,8 @@
+<noinclude>{{消歧义|哑鬼婆(怪物)}}</noinclude>
+{{物品
+|name=哑鬼婆
+|english_name=The Mute Hag
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。抽牌者永久失去一种感官：视觉，听觉或语言——变为[[目盲]]，[[耳聋]]或缄默（玩家选择）。只有[[许愿术]]和奇迹术才能治愈。
+}}

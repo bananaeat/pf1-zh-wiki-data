@@ -1,0 +1,9 @@
+{{Trait
+|name=勇抗者
+|english_name=Fearless Defiance
+|type=信念
+|description=超越恐惧，你化身为敌人的灾厄。你对抗恐惧效果的全豁免获得+1背景加值。此外，每当你成功通过此类豁免，你在1轮内对宿敌的攻击检定获得+1背景加值。
+|source_name=信念背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

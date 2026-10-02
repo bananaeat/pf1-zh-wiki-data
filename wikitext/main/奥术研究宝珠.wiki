@@ -1,0 +1,17 @@
+{{魔法物品
+|name=奥术研究宝珠
+|english_name=Orb of Arcane Research
+|aon=MagicWondrousDisplay.aspx?FinalName=Orb of Arcane Research
+|cat=奇物
+|aura=中等预言系
+|cl=5
+|slot=无
+|price=7,000 gp
+|weight=6磅
+|description=这枚球体由玻璃般的半透明物质制成，内部翻涌着早已逝去的施法者们的诡秘能量。当持有者研究法术以创造新法术，或从其他来源学习现有法术时（见《Pathfinder RPG [[核心规则书]]》第9章），这枚球体为[[法术辨识]]检定提供+2表现加值。
+
+此外，说出命令字时，奥术研究宝珠可使持有者在为研究法术或提取配方（见《终极战役》第86页）而进行的工艺（炼金）、知识（奥秘）、知识（自然）或法术辨识检定中获得+5洞察加值。该球体如此使用五次后便会破裂，失去所有魔法特性，变回一块普通玻璃。
+|req=[[制造奇物]]、[[抄写卷轴]]、[[阅读魔法]]
+|cost=3,500 gp
+|source=任务与战役
+}}

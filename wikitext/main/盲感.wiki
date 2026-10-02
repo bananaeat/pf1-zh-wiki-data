@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''盲感'''（Blindsense）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：感官</span></div>
+</noinclude><includeonly><div class="lang"><span id="盲感"></span><div class="lang-h"><b>[[盲感]]</b><i>Blindsense</i><span class="lang-w">Ex · 感官</span></div><div class="lang-d"></includeonly>
+利用非可视化感知，就像敏锐的嗅觉和听觉，带有盲感的生物不用看就可以注意到事物。这类生物通常不需要在盲感范围内通过察觉检定就能确定某个生物的位置，前提是要和那个生物有效果线。盲感生物看不见的任何对手，对其而言依然视为拥有[[全隐蔽]]，并且盲感生物攻击拥有隐蔽的敌人时依然会有正常的失手率。能见度依然会影响拥有盲感的生物的移动。拥有盲感的生物依然会在对抗它看不见的生物的攻击时，AC 失去敏捷加值。
+
+'''格式'''：盲感 60 尺
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Blindsense|2=Blindsense}}
+
+[[分类:通用怪物规则]]</noinclude>

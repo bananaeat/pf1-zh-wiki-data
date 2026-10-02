@@ -1,0 +1,10 @@
+{{Trait
+|name=饱学
+|english_name=Lettered
+|type=种族
+|prerequisites=[[半身人]]
+|description=你对大多数语言都有所了解，剩下的也能猜个八九不离十。[[语言学]]现在是你的[[本职技能]]了，对于不熟悉的语言，你解读它时的语言学检定获得+1背景加值，并且即使检定败了，也不会得到错误的结论，你只会知道你看不懂。
+|source_name=种族背景
+|source=HoG
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

@@ -1,0 +1,18 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[祈祷术 (神话)]]。</small></div>
+{{Spell
+|name=祈祷术
+|english_name=Prayer
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=先知 3;圣武士 3;审判者 3;战斗祭司 3;牧师 3
+|domains=团队领域 3;圣使子域 3;领导子域 3
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=40尺
+|area=以你为中心，40尺半径爆发范围内的所有盟友与敌人
+|duration=1轮/等级
+|save=无
+|sr=是
+|description=你将神之恩宠带给你自己和你的盟友，同时将厌恶带给你的敌人。你和你的每个盟友在攻击检定、武器伤害检定、豁免检定和技能检定上都获得+1幸运加值，同时你的每个敌人都会在这些检定上获得-1减值。
+|source=核心规则书
+}}

@@ -1,0 +1,10 @@
+{{武器
+|name=竹矢
+|english_name=Bamboo shaft arrows
+|category=弹药
+|wcat=弹药
+|price=1 gp
+|weight=1/2磅
+|description=这种长度约一尺的箭矢是袖箭的弹药。竹矢可以作为临时近战武器使用，伤害相当于一副带刺铁手套。竹矢装在竹筒里出售，每筒10支。
+|source=极限战斗、极限宝具
+}}

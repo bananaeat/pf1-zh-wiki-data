@@ -1,0 +1,11 @@
+{{Feat
+|name=额外特征
+|english_name=Extra Feature
+|description=你是个非凡的[[变形者]]。
+|prerequisites=体质13，[[兽态人]]
+|benefit=当你变化成兽形时，你可以从你的变形能力所列的特征中多选一项，并在兽形态下获得该好处。
+|special=你可以多次选择本专长，其效果叠加。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_809.html
+}}

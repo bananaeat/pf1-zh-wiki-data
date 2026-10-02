@@ -1,0 +1,17 @@
+{{Spell
+|name=高等异界誓缚
+|english_name=Planar Binding, Greater
+|school=咒法系 (呼唤)
+|tags=见次等异界誓缚的描述
+|domains=虚空领域 8
+|levels=召唤师 6;奥能师 8;异能者 8;术士 8;法师 8
+|action=10分钟
+|components=语言;姿势
+|range=近距
+|target=至多三个元素或异界生物, 总HD不超过18, 出现时任意两者之间的距离不超过30尺
+|duration=立即
+|save=意志，通过则无效
+|sr=否 或 可; 见后文
+|description=该法术功能如同[[次等异界誓缚]]一般，不过你可以呼唤1个HD不超过18的生物；或至多3个同一种类的生物，总HD不超过18。每个呼唤来的生物各自有一次豁免来尝试逃脱，你必须分别说服每个呼唤来的生物，这才能让它同意帮助你。
+|source=核心规则书
+}}

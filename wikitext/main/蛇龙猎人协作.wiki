@@ -1,0 +1,12 @@
+{{Feat
+|name=蛇龙猎人协作
+|english_name=Linnorm Hunter Coordination
+|categories=战斗;团队
+|description=你擅长跟[[动物伙伴]]一起打击同一区域，造成更高的伤害
+|prerequisites=魅力13，敏捷13，[[闪避]]，[[蛇龙猎人撤退]]，[[蛇龙猎人流]]，基本攻击加值+6，必须有或者是动物伙伴
+|benefit=当你和拥有这一专长且使用[[蛇龙猎人流]]的盟友威胁同一目标时，你可以用整轮动作，以最高的基本攻击加值对该目标发动一次近战攻击。如果你的攻击成功，你额外通过本专长造成等同于你盟友之一天生武器攻击的伤害。这一额外伤害不会由于重击翻倍。
+|special=智力为1或2的动物伙伴也可以选择这一专长
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/zh366bfc623c.htm
+|source=MAH
+}}

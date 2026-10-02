@@ -1,0 +1,13 @@
+{{Feat
+|name=见招拆招
+|english_name=Barroom Brawler
+|categories=战斗
+|description=你擅于模仿其他格斗者的战术风格。
+|prerequisites=基础攻击加值+4
+|benefit=每天一次以一个[[移动动作]]，你可以在一分钟内获得一个你不拥有的[[战斗专长]]的效果。你必须满足获得此专长的前提条件。
+|special=如果你拥有千招百式职业能力，那么选择此专长后，你的每日千招百式能力使用次数增加一次。
+|stamina=通过消耗5点耐力，启动该能力由移动动作加速为迅捷动作。如果你有千招百式职业能力，你可以花费5点耐力将启动时间由移动动作加速为迅捷动作，或由迅捷动作加速为自由动作。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

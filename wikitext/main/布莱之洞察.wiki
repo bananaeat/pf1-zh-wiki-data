@@ -1,0 +1,10 @@
+{{Trait
+|name=布莱之洞察
+|english_name=Brigh's Insight
+|type=宗教
+|prerequisites=信仰[[布莱]]
+|description=你在进行科技作业时听到了布莱的低语，并因此对构装体有了更深入的理解和洞察力。你在克服构装体的[[特殊能力#法术抗力|法术抗力]]的施法者等级检定上获得+2背景加值。
+|source=PotW
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1192.html
+}}

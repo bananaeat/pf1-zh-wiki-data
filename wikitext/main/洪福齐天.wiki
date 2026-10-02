@@ -1,0 +1,12 @@
+{{Feat
+|name=洪福齐天
+|english_name=Hero's Fortune
+|pfs=否
+|description=从开始到现在，你的传说一直延续着。
+|benefit=你获得一个[[英雄点]]，且最大值为5。
+|normal=你同时只能最多拥有3英雄点。
+|special=NPC藉此专长可获得1英雄点，且最大值为3。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

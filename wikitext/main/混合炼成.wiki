@@ -1,0 +1,10 @@
+<noinclude>{{炼金术师导航}}
+'''混合炼成'''（Combine extracts）是[[炼金术师]]的[[科研发现]]。
+
+</noinclude>{{Source|进阶玩家指南|Advanced Player's Guide|inline}}
+
+当炼金术师炼成一份化合炼成时，他可以把两个配方放进同一份化合炼成里，饮用时两个配方都生效。这份化合炼成的环级比其中较高环的配方高2环。选择这一科研发现需要至少8级炼金术师等级。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_71.html 原文]）。全部科研发现见 [[:分类:科研发现|分类:科研发现]]。
+
+[[分类:科研发现]]</noinclude>

@@ -1,0 +1,11 @@
+{{Feat
+|name=顺手牵羊
+|english_name=Walking Sleight
+|description=你能凭藉着精湛的技术在行走时顺走物品。
+|prerequisites=[[妙手]]，[[巧手]]5级
+|benefit=当你以[[移动动作]]尝试[[巧手]]检定时，不会再承受-20减值。你能够在移动行动之中以[[标准动作]]尝试1次巧手检定。
+|normal=你只能在检定承受-20减值的前提下以移动动作尝试1次巧手检定。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

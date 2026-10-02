@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=战斗凉鞋
+|english_name=Combat Sandals
+|aon=MagicWondrousDisplay.aspx?FinalName=Combat Sandals
+|cat=奇物
+|aura=中等变化系
+|cl=9
+|slot=脚部
+|price=18,000 gp
+|weight=3磅
+|description=编织的棕色皮带从这双结实鞋子的后跟向上延伸，并绕过鞋底。战斗凉鞋的穿戴者可以毫无困难地[[冲锋]]穿过盟友所在的方格，并且与穿戴者相邻的盟友，不会为穿戴者以长武或远程武器攻击的目标提供掩护。
+|req=[[制造奇物]]、[[脚底抹油]]、[[行动自如]]、[[克敌机先]]
+|cost=9,000 gp
+|source=市井英雄
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=百毒不侵
+|english_name=Reject Poison
+|description=你是用毒的个中高手，被你经手过的毒剂将难以再对你构成威胁。
+|prerequisites=[[体质]] 13，用毒职业特性，信仰诺格巴
+|benefit=每当你在对抗毒素的初始豁免中失败时，你有20%的几率自然排斥毒素，使其效果无效，并浪费掉这次使用。
+|source=FoP/FoB/FoC、ISG
+|source_name=纯善／平衡／堕落信念、内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}

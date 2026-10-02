@@ -1,0 +1,12 @@
+{{Feat
+|name=陷阱熊咬
+|english_name=Beartrap Bite
+|categories=战斗
+|description=即便你没刻意[[擒抱]]敌人，你也能让他们行动不得。
+|prerequisites=[[武器专攻]]（啮咬），＋6 BAB
+|benefit=当你在啮咬攻击确认重击时，如果重击确认骰达到目标的[[CMD]]，你能以[[自由动作]]限制目标的行动。他无法离开你啮咬攻击的威胁范围，除非做一个[[战技]]检定或逃脱检定，就像你正在擒抱他一样。但是你们都不会得到被擒抱状态。在你维持这种状态时，你无法使用啮咬攻击，但你可以以一个[[迅捷动作]]解除这个效果。
+|notes=译注：虽然名字是熊咬，但是并不限于熊人后裔才能选择本专长，只要求与此类生物有关联。之后的几个专长情况相同。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_809.html
+}}

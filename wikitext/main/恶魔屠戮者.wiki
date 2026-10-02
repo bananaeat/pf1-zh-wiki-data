@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 62），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=恶魔屠戮者
+|english_name=Demon Slayer
+|type=战斗
+|pfs=否
+|prerequisites=蒙蒂维十字军
+|description=通过观察恶魔对手，你能察觉并瞄准它的弱点。你可以进行一次[[知识]]（位面）检定来找出恶魔的弱点（DC＝10＋该恶魔的CR）。如果成功，直到战斗结束，你用于确认对该恶魔重击的检定获得+3背景加值。此效果只对恶魔有效。
+|source_name=组织指南
+|source=FM
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Demon%20Slayer
+}}

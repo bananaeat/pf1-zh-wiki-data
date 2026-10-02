@@ -1,0 +1,10 @@
+{{Trait
+|name=强大心灵
+|english_name=Sound of Mind
+|type=地区
+|prerequisites=兹哈
+|description=你曾在兹哈山区与[[轮回者]]生活，内心感受到极致的安宁。你在对抗影响心灵效果时豁免获得+2背景加值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://pf1chm.pages.dev/topics/page_1557.html
+}}

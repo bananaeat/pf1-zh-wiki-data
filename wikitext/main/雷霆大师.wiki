@@ -1,0 +1,11 @@
+{{Feat
+|name=雷霆大师
+|english_name=Twin Thunders Master
+|categories=战斗
+|description=你能以雷霆之击压倒最强大的巨人。
+|prerequisites=矮人或侏儒，【防御训练】种族特性，进阶双武器格斗、双武器格斗或【疾风连击】职业特性，[[雷霆双击]]，[[雷霆连击]]，[[武器专攻]]（当前持用的两种武器），基本攻击加值+9。
+|benefit=每当你通过[[雷霆双击]]专长造成额外伤害，对手颤栗1轮，且须通过DC为“10+1/2你的等级+力量修正”的强韧豁免，否则[[恍惚]]1轮。若你对已经处于恍惚的对手成功使用本专长，他将[[晕眩]]1轮。你还能类似地让已经晕眩的对手[[震慑]]。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

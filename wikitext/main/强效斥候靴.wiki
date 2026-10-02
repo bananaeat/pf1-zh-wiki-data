@@ -1,0 +1,15 @@
+{{魔法物品
+|name=强效斥候靴
+|english_name=Burglar Boots (Major)
+|aon=MagicWondrousDisplay.aspx?FinalName=Burglar Boots (Major)
+|cat=奇物
+|aura=中等预言系
+|cl=10
+|slot=脚部
+|price=46,000 gp
+|weight=1/2磅
+|description=这双靴子外观和作用都与弱效斥候靴相同，但在察觉检定、AC和反射豁免上提供的是+10表现加值。此外，每日1次，穿戴者可以以命令使用[[寻找陷阱(法术)|寻找陷阱]]法术的效果。
+|req=[[制造奇物]]、[[寻找陷阱(法术)|寻找陷阱]]，制造者必须拥有12级[[察觉]]技能
+|cost=23,000 gp
+|source=极限宝具
+}}

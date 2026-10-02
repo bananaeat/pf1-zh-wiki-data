@@ -1,0 +1,10 @@
+{{Trait
+|name=族谱管理人
+|english_name=Keeper of the Ancestral Scrolls
+|type=种族
+|prerequisites=[[人类]]（天夏人）
+|description=你以记录你的家族族谱、可以在大型卷轴上追溯到数百年甚至数千年以来的传承而感到自豪。你在知识[历史]和知识[贵族]检定获得+1背景加值，而且其中一个技能(由你选择)总是你的[[本职技能]]。
+|source_name=格拉里昂的人类
+|source=Humans of Golarion
+|source_url=https://pf1chm.pages.dev/topics/page_1581.html
+}}

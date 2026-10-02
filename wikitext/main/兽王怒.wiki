@@ -1,0 +1,11 @@
+{{Feat
+|name=兽王怒
+|english_name=Beastmaster Ire
+|categories=战斗
+|description=见到你的动物同伴被攻击或者受伤，你会以你的兽性狂怒进行报复。
+|prerequisites=魅力13，[[警觉]]，[[兽王援]]，[[兽王流]]，[[驯养动物]]9级，察言观色5级。
+|benefit=当你激活[[兽王流]]的效果时，你在对攻击者的近战武器攻击检定上获得+2士气加值并在武器伤害上获得+4的士气加值。如果敌人的攻击对你的动物同伴造成伤害，那么这些加值分别增加至+4和+8。这些加值持续至你的下一回合结束。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

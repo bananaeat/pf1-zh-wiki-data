@@ -1,0 +1,16 @@
+{{科技物品
+|name=打火机
+|english_name=Lighter
+|kind=科技装置
+|sub=其他工具与配件
+|price=10 gp
+|weight=—
+|slot=无
+|capacity=10
+|usage=每次1充能
+|description=这件小型手持工具启动后会产生一小簇明火。触发后，只要扳机一直按着，打火机的火焰（亮度如同[[蜡烛]]）就会持续燃烧，每小时消耗1点充能。这团火焰可以点燃较大的物品，但本身不足以造成明显的伤害。
+|construction=[[制造科技装置]]、生产车间
+|craft_dc=11
+|cost=5 gp
+|source=科技指南
+}}

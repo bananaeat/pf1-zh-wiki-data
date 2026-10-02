@@ -1,0 +1,14 @@
+{{魔法物品
+|name=神秘戒指
+|english_name=Ring of Mysticism
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of MysticismType I
+|cat=戒指
+|aura=中等（无学派）
+|cl=11
+|slot=戒指
+|price=20,000 gp（I型）；40,000 gp（II型）；70,000 gp（III型）；100,000 gp（IV型）
+|description=这种骨质与水晶熔合而成的[[魔法物品#戒指|戒指]]有四种型号，全都只对异能施法者有用。穿戴者在某一特定法术环位上的每日异能法术数量加倍：神秘戒指I型使1环法术加倍，神秘戒指II型使2环法术加倍，神秘戒指III型使3环法术加倍，神秘戒指IV型使4环法术加倍。由高属性值获得的[[属性#确认加值|奖励法术]]不会加倍。
+|req=[[锻造戒指]]、[[有限祈愿术]]
+|cost=10,000 gp（I型）；20,000 gp（II型）；35,000 gp（III型）；50,000 gp（IV型）
+|source=异能选集
+}}

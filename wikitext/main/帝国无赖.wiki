@@ -1,0 +1,9 @@
+{{Feat
+|name=帝国无赖
+|english_name=Imperial Prankster
+|description=你以传奇诡术师，大亲王贝尔丹一世的行为为榜样，来忽悠法律和秩序的支持者。
+|prerequisites=唬骗5级，混乱阵营
+|benefit=你在对守序阵营生物的唬骗和战技检定上获得+2加值，如果对方有守序亚种，那么加值提升为+4。
+|source_name=冒险之路132：六传奇之魂
+|source_url=https://pf1chm.pages.dev/topics/132_The_Six-Legend_Soul.htm
+}}

@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=高等元素之怒
+|english_name=Elemental Rage, Greater
+|type=Su
+|categories=进攻
+|prerequisites=[[野蛮人]]12级，[[元素之怒]]
+|benefit=狂暴时野蛮人的所有近战武器重击额外造成1d10点能量伤害(如果武器重击倍率×3则增为2d10，×4则增为3d10)。这种伤害的类型与[[元素之怒]]选择的类型相同。
+|source_name=进阶玩家指南
+}}

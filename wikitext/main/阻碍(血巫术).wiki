@@ -1,0 +1,13 @@
+{{消歧义|阻碍}}
+{{Feat
+|name=阻碍
+|english_name=Hinder
+|categories=血巫术
+|pfs=否
+|description=你用不确定性诅咒一个流血的敌人。
+|prerequisites=智力13，使用魔法装置5级
+|benefit=以一个标准动作，你能诅咒一个在上一分钟内被你用近战攻击造成过伤害的敌人，让它变得犹豫不决。目标必须通过一个成功的反射豁免检定，否则会在接下来的1分钟内在其作出的任何[[先攻]]检定上承受-10罚值。
+|special=如果一个萨满或女巫使用了这个血巫术，目标在1轮内不能进行全回合攻击。该效果能被尖笑巫术延长。
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_343.html
+}}

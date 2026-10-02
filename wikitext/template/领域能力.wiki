@@ -1,0 +1,13 @@
+<includeonly>{{#ifeq:{{PAGENAME}}|{{{domain|}}}|{{{text|}}}|<div class="feat domain-power">
+<div class="feat-head"><div class="feat-name">{{{name|{{PAGENAME}}}}}<span class="feat-cats">{{#if:{{{type|}}}|<span class="tag">{{{type}}}</span>}}<span class="tag">[[{{{domain}}}#{{{sub|}}}|{{#if:{{{sub|}}}|{{{sub_name|{{{sub}}}}}}|{{{domain}}}}}]]</span></span></div><div class="feat-en">{{{en|}}}</div></div><!--
+--><div class="feat-block feat-benefit"><span class="k">效果</span>{{{text|}}}</div><!--
+--><div class="feat-block feat-extra"><span class="k">所属</span>{{#if:{{{sub|}}}|[[{{{domain}}}]]下 [[{{{domain}}}#{{{sub}}}|{{{sub_name|{{{sub}}}}}}]] 的|[[{{{domain}}}]]的}}授予能力，拥有这个领域的[[牧师]]等角色获得（见[[领域]]）。领域页上这一节嵌入的就是本页，改这里两边一起变。</div><!--
+-->{{#if:{{{source|}}}|<div class="feat-source"><span class="key">来源</span> <span class="value">[[{{{source}}}]]</span></div>}}</div>}}</includeonly><noinclude>
+领域授予能力的卡片（牧师领域和子域；德鲁伊领域用 {{德鲁伊领域能力}}）。用在每个能力的单独页上；领域页在对应小节下用
+<code><nowiki>{{:能力页}}</nowiki></code> 嵌入它——嵌在领域页里时（当前页名＝domain 参数）只输出效果正文，所以领域页原来的小节标题、锚点都不变，正文只有一份。
+
+ {{领域能力|name=电弧|en=Lightning Arc|type=Sp|domain=气领域|source=核心规则书|text=……}}
+ {{领域能力|name=暴乱灵光|en=Aura of Bedlam|type=Su|domain=混乱领域|sub=暴动子域 (Riot)|sub_name=暴动子域|source=市井英雄|text=……}}
+
+[[分类:模板]]
+</noinclude>

@@ -1,0 +1,13 @@
+{{物品
+|name=解法弹头
+|english_name=Bullet，Dispelling
+|category=魔法武器
+|aura=微弱防护系
+|cl=5
+|price=250gp
+|weight=—
+|slot=无位置
+|requirements=[[制造魔法武器与防具]]，解除魔法（Dispel Magic）
+|description=这枚+1火器弹头不会造成伤害，但会驱散目标身上的一个魔法效果，如同5级法师施放的[[解除魔法]]。如果目标身上有多个激活的魔法效果，则该弹头驱散等级最低的效果。
+|source_name=格拉利昂的英雄
+}}

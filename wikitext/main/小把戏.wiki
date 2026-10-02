@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 63），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=小把戏
+|english_name=Trifler
+|type=种族
+|pfs=否
+|prerequisites=瓦瑞西安流浪者，瓦瑞西安人类
+|description=童年时陪伴在你那具有神秘天赋的祖母身边，让你学到了真正魔法的基础。你每天可以施放3次[[魔法伎俩]]，作为类法术能力。此类法术能力以你最高的施法者等级施放；如果你没有施法者等级，则以施法者等级1级生效。
+|source_name=组织指南
+|source=FM
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Trifler
+}}

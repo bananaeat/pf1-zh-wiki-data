@@ -1,0 +1,9 @@
+{{Trait
+|name=微不足道
+|english_name=Worthless Pawn
+|type=宗教
+|prerequisites=信仰任一旧日支配者
+|description=你的存在对你侍奉的那位而言毫无意义，所以他也并不关心你如何使用它的力量。你可以准备并释放与你的神明阵营相反的法术，但是这会使你受到每法术等级1点的感知伤害。这并不允许你使用相反阵营的法术触发型或法术完成型物品。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

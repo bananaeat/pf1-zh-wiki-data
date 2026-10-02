@@ -1,0 +1,9 @@
+{{Trait
+|name=灵旋山之羊
+|english_name=Mindspin Mountain Goat
+|type=坐骑
+|prerequisites=[[公羊]]
+|description=旋心山之羊在攀爬检定上获得+2背景加值，且攀爬对它们来说是[[本职技能]]。
+|source_name=坐骑背景
+|source_url=https://pf1chm.pages.dev/topics/zh4fc8a2e018.htm
+}}

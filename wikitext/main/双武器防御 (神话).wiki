@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[双武器防御]] 的神话版本。</small></div>
+{{Feat
+|name=双武器防御
+|english_name=Two-Weapon Defense
+|categories=神话
+|description=攻击与防守间行云流水般的切换使得你难以被命中。
+|prerequisites=[[双武器防御]]
+|benefit=当你使用[[双武器防御]]专长时，你能够将两把武器中最高的增强加值加到该专长赋予的盾牌加值上。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

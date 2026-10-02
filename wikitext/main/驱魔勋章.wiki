@@ -1,0 +1,15 @@
+{{魔法物品
+|name=驱魔勋章
+|english_name=Medallion of Demonic Disruption
+|aon=MagicWondrousDisplay.aspx?FinalName=Medallion of Demonic Disruption
+|cat=奇物
+|aura=中等防护系
+|cl=7
+|slot=颈部
+|price=32,000 gp
+|weight=1磅
+|description=这枚勋章佩戴于颈间，由编织成股、带淡蓝色泽的白金制成，悬挂在一条银链上。当一个具有恶魔子类型的生物在勋章佩戴者100尺内使用其召唤能力时，它必须进行一次专注检定，DC等于15+其召唤能力环位的2倍。如果召唤者未通过这次专注检定，则没有任何被召唤的生物出现，该恶魔这次使用召唤能力的机会也被浪费。如果专注检定成功，则恶魔所召唤的生物数量（如果有）减少为1。
+|req=[[制造奇物]]、[[次元锚]]
+|cost=16,000 gp
+|source=废土子民
+}}

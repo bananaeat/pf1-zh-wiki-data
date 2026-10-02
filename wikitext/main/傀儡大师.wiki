@@ -1,0 +1,14 @@
+<noinclude>{{消歧义|傀儡大师(NPC)}}</noinclude>
+{{Feat
+|name=傀儡大师
+|english_name=Puppet Master
+|categories=故事
+|pfs=否
+|description=你渴望权力，但更渴望在不暴露自身的情况下掌控一切。
+|prerequisites=你必须在与一名强大敌手的交锋中幸存，并通过达成协议（不论是否与该敌手达成）而未遭受重大伤害；或拥有"顶头上司"、"无上君主"或"人际达人"角色背景（出自极限战役）。
+|benefit=当你通过一次交涉检定提出要求且成功超出DC5点或以上时，后续你向该生物提出的每个额外的要求其DC仅增加1，而非增加5。
+|goal=你必须通过曾达成的协议直接妨害或完胜 适当数量的强大敌手；或在未被公开揭露的情况下，控制至少三名人口不少于2,000的[[定居点]]的首脑，或类似级别的重要管理者，持续至少6个月。
+|completion_benefit=当你成功以交涉提出要求时，后续你向该生物提出的每个额外的要求其DC仅增加1，而非增加5。
+|source_name=间谍大师手册
+|source_url=https://pf1chm.pages.dev/topics/zh704e55dbf1.htm
+}}

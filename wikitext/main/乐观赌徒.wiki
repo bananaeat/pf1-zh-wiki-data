@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Second Darkness Player's Guide pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=乐观赌徒
+|english_name=Optimistic Gambler
+|type=战役
+|pfs=否
+|description=你似乎总是存不住钱。更糟的是，你头上似乎总压着债务。当你听说“骗过魔鬼，赢走他的金子”赌博锦标赛时，你打心底觉得自己要转运了。事实上，你向来乐观，即使眼下正是那种难得的不欠任何人钱的时候（你刚还清了从本地放贷人莱马斯·斯米德那儿借的一笔钱），你也知道这种情况很快就会改变。何不趁着这种难得的手头宽裕的时候开始攒钱呢！你已经留出一枚金币作为报名费，期待着大赚一笔——你打骨子里感觉得到！这回准能赢大的！你无尽的乐观，即使面对再糟的处境，也总能鼓舞你的斗志。因此，给予你士气加值的效果比正常情况多持续1d4轮。
+|source_name=二度黑暗玩家手册
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Optimistic%20Gambler
+}}

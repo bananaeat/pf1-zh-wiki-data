@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=元素之血
+|english_name=Elemental Blood
+|type=Su
+|categories=血脉
+|prerequisites=[[野蛮人]]6级，[[次等元素之血]]
+|benefit=每当野蛮人进入狂暴状态，他就对自己在[[次等元素之血]][[狂暴之力]]上选择的能量类型获得10点抗力。
+|source_name=进阶职业指南
+}}

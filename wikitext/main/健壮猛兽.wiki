@@ -1,0 +1,10 @@
+{{Feat
+|name=健壮猛兽
+|english_name=Hefty Brute
+|description=你可能属于一个不同寻常的亚种或者仅仅是一只食物充分并生长良好的野兽，不论如何你的体型相比你的同类更加巨大。
+|prerequisites=动物伙伴或者魔宠
+|benefit=在判断[[CMB]]、[[CMD]]、负重能力，以及任意你使用的或用来对付你的基于体型的[[特殊攻击]]（例如[[通用怪物规则#攫抓|攫抓]]、活吞和[[通用怪物规则|践踏]]）时，你将自身的体型视作更大的一个级别。
+|source=WO
+|source_name=荒野源始
+|source_url=https://pf1chm.pages.dev/topics/zhf9b9c00800.htm
+}}

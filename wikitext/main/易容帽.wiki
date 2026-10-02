@@ -1,0 +1,14 @@
+{{魔法物品
+|name=易容帽
+|english_name=Hat of Disguise
+|aon=MagicWondrousDisplay.aspx?FinalName=Hat of Disguise
+|cat=奇物
+|aura=微弱幻术系
+|cl=1
+|slot=头部
+|price=1,800 gp
+|description=这顶看似普通的帽子使穿戴者能像施展[[易容术]]那样改变自己的外貌。作为易容的一部分，帽子本身可以变成梳子、丝带、头带、便帽、头巾、兜帽、头盔或其他头饰的样子。
+|req=[[制造奇物]]、[[易容术]]
+|cost=900 gp
+|source=核心规则书、极限宝具
+}}

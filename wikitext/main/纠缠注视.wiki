@@ -1,0 +1,11 @@
+{{Feat
+|name=纠缠注视
+|english_name=Entwining Stare
+|categories=凝视
+|description=你的痛苦注视令你的敌人更容易被攫取和紧勒。
+|prerequisites=催眠师7级，痛苦注视职业特性
+|benefit=当你触发痛苦注视来增加一次攫取的伤害时，目标在对抗攫取的擒抱战技尝试时CMD承受-4罚值。
+|source=BotB
+|source_name=野兽血脉
+|source_url=https://pf1chm.pages.dev/topics/page_699.html
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=海行戒指
+|english_name=Ring of the Sea Strider
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of the Sea Strider
+|cat=戒指
+|aura=中等咒法系
+|cl=7
+|slot=戒指
+|price=14,000 gp
+|description=这枚[[魔法物品#戒指|戒指]]用一整块深蓝色水晶制成。戒指赋予穿戴者30尺的游泳速度，以及因拥有游泳速度而获得的游泳检定+8种族加值。此外，每天1次，只要穿戴者接触着液体，就能以[[迅捷动作]]使用[[任意门]]法术的效果，不过起点和终点必须由一整片连续的液体相连。
+|req=[[锻造戒指]]、[[任意门]]、[[海洋之触]]
+|cost=7,000 gp
+|source=极限宝具
+}}

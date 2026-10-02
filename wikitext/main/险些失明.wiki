@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 196），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=险些失明
+|english_name=Nearly Blinded
+|type=种族
+|prerequisites=[[人类]]（天夏人）
+|description=在世界之冠上险些患上雪盲，或是在弘古的狂风中死里逃生之后，你磨炼出了保护双眼的本能。你为避免陷入[[目盲]]或[[目眩]]状态而进行的豁免检定获得+2背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Nearly%20Blinded
+}}

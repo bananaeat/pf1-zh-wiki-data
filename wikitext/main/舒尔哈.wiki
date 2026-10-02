@@ -1,0 +1,24 @@
+{{速查导航|here=神祇}}
+<div class="well" style="margin:.2em 0"><small>'''这一页只有数据栏，没有正文。'''民间汉化的合集里没有这一位的条目；中文名照站上已有的狂暴之力 [[舒尔哈的面纱]]。正文见 [https://aonprd.com/DeityDisplay.aspx?ItemName=Hshurha AoN 原文]。认领整理见 [[待办事项]]。</small></div>
+{{神祇
+|name=舒尔哈
+|english_name=Hshurha
+|title=万风女公爵（Duchess of All Winds）
+|alignment=中立邪恶（NE）
+|weapon=长弓
+|portfolio=气，临终之息，风暴
+|domains=[[气领域|气]]，[[毁灭领域|毁灭]]，[[邪恶领域(领域)|邪恶]]，[[天气领域|天气]]
+|subdomains=[[邪恶领域(领域)#恐惧子域 (Fear)|恐惧子域]]，[[天气领域#风暴子域 (Storms)|风暴子域]]，[[气领域#风子域 (Wind)|风子域]]
+|symbol=环绕眼睛的闪电漩涡
+|animal=大鹏
+|color=白色，黄色
+|pantheon=元素领主
+|source=内海诸神
+}}
+{{AI翻译|nocat=1|卡片中的称号、关注领域、圣徽、圣兽、圣色由 AI 照 AoN 英文译出，未经人工校对。}}
+
+== 信徒可用 ==
+* '''专长'''：[[元素威力]]
+* '''背景特性'''：[[元素亲和]]
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Hshurha|2=Hshurha}}

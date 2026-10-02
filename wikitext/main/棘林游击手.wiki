@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（People of the Wastes pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=棘林游击手
+|english_name=Tanglebriar Guerrilla
+|type=地区
+|prerequisites=奇奥尼
+|description=你对抗毁木者的战斗赢得了奇奥尼游侠们的青睐，他们向你传授了自己的技艺。当你获得这项背景特性时，选择一种不造成属性伤害或生命值伤害的游侠陷阱。你每天可以在森林中使用一次该陷阱。你的陷阱DC等于10＋你角色等级的一半＋你的感知调整值（最低为+0），陷阱持续1天。如果你不是游侠，你只能用这项专长（译注：AoN 原文作「feat」，疑为笔误，应为背景特性。）布置特异陷阱；与所有特异游侠陷阱一样，这会使陷阱DC降低2。
+|source_name=废土子民
+|source=PotW
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Tanglebriar%20Guerrilla
+}}

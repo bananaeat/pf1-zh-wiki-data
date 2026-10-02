@@ -1,0 +1,9 @@
+{{装备
+|name=遮阳眉黑
+|english_name=Sunblock kohl
+|cat=衣物
+|price=10 gp
+|weight=—
+|description=这种烟灰色的化妆品由磨碎的锑制成，用于描眼线。它为使用者提供+2环境加值，对抗会使其目眩或目盲8小时的光线类效果的豁免检定。一盒眉黑有10次的用量。
+|source=冒险者指南
+}}

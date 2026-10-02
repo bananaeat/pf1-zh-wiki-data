@@ -1,0 +1,10 @@
+{{Feat
+|name=迎身上前
+|english_name=Intercept Charge
+|categories=战斗;团队
+|description=你可以在敌人冲向盟友时挺身将他挡下。
+|benefit=每当有敌人向同样拥有此专长的盟友发动冲锋时，以一个[[直觉动作]]，你可以立刻以你的速度移动到对方冲锋的路径上任一格将其挡住，当你到达冲锋路径上后，该敌人必须在邻接你格子停下并且对你发动攻击。以此专长进行的移动计入你下一轮的移动之中。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

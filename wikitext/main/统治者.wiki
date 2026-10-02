@@ -1,0 +1,9 @@
+{{Trait
+|name=统治者
+|english_name=Dominator
+|type=地区
+|prerequisites=贝尔克泽恩
+|description=统治者的血液在[[兽人]]野蛮的家乡中流淌。你在战斗中使用威吓技能进行挫败士气的所有尝试获得+2背景加值。
+|source_name=初探内海
+|source_url=https://pf1chm.pages.dev/topics/zh90f44086c1.htm
+}}

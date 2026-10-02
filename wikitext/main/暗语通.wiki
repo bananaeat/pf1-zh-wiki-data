@@ -1,0 +1,9 @@
+{{Trait
+|name=暗语通
+|english_name=Canter
+|type=社会
+|description=你混迹在窃贼和歹徒之中长大，如今他们之间的暗号和黑话已难以让你不知所措。任何人想通过[[唬骗]]技能向你秘密传达信息时，其唬骗检定+5。而当你试图通过察言观色技能识破秘密情报时，你的检定获得+5背景加值。
+|source_name=社会背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=模拟粉
+|english_name=Dust of Emulation
+|aon=MagicWondrousDisplay.aspx?FinalName=Dust of Emulation
+|cat=奇物
+|aura=微弱幻术系
+|cl=1
+|slot=无
+|price=800 gp
+|description=被这种闪亮金色粉末覆盖的生物，可以与任意一件物品或物体互动，如同她已成功使用[[使用魔法装置]]技能模拟了一项职业特性或种族（如果检定的确切结果有影响，则将该角色的结果视为25）。如果使用者在给自己涂上粉末时没有在心中选定想要的物品或物体，粉末的魔力就会作用于她遇到的第一个符合条件的物体。接触粉末后的1小时内，她与该物品或物体打交道时都可以采用这次自动检定的结果。
+|req=[[制造奇物]]、[[易容术]]
+|cost=400 gp
+|source=进阶玩家指南、极限宝具
+}}

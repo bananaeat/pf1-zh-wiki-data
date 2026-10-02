@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 197），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=部族向导
+|english_name=Tribal Guide
+|type=种族
+|prerequisites=狗头人
+|description=你受过训练，能够引导体型更大的生物行进，或许是来自伊兹玛格罗提的旅人，或是艾巴萨罗姆地底的运输队伍。每当你成功进行相应的[[生存]]检定时，你可以为额外两个生物提供食物和饮水，或提供对抗恶劣天气的加值，并且生存是你的本职技能。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Tribal%20Guide
+}}

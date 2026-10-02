@@ -1,0 +1,14 @@
+{{Spell
+|name=即兴演奏
+|english_name=Play instrument
+|school=预言系
+|levels=吟游诗人 1;歌者 1
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|target=自己
+|duration=10分钟/等级
+|sr=否
+|description=你可以使用一种你所选择的乐器演奏，就好像你在与其对应的表演技能上有1级一样。作为对普通乐器的替代品，你可以使用其他物体作为简易乐器使用，比如将[[木桶]]作为鼓，或者将弓作为竖琴演奏，就如同它们本身被制作成用于演奏的器具一般。
+|source=极限魔法
+}}

@@ -1,0 +1,33 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=希加雷布
+|english_name=Shiggarreb
+|title=劫掠之口（The Marauding Maw）
+|alignment=混乱邪恶（CE）
+|weapon=[[刺叉]]
+|portfolio=禁忌魔法，战争暴行
+|domains=[[混乱领域|混乱]]，[[邪恶领域(领域)|邪恶]]，[[魔法领域|魔法]]，[[战争领域|战争]]
+|subdomains=[[魔法领域#奥秘子域 (Arcane)|奥秘子域]]，[[战争领域#鲜血子域 (Blood)|鲜血子域]]，[[邪恶领域(领域)#恐惧子域 (Fear)|恐惧子域]]，[[战争领域#战术子域 (Tactics)|战术子域]]
+|symbol=蜘蛛形符文
+|color=黄色
+|pantheon=古魔领主
+|source=内海诸神、永罪之书
+}}
+
+'''希加雷布'''（Shiggarreb）是一位[[古魔领主]]。
+
+== 服从仪典与神恩 ==
+=== 服从仪典 ===
+研究战争战术书籍，尤其是设计强大魔法的应用。你的AC获得+1亵渎加值。
+
+=== 神恩 ===
+古魔领主的神恩为类法术能力，每项每日可用2次。
+
+{{神恩|n=1|name=|en=|type=Sp|text=每日2次，以类法术能力施展[[援助术]]。}}
+{{神恩|n=2|name=|en=|type=Sp|text=每日2次，以类法术能力施展[[诅咒地形]]。}}
+{{神恩|n=3|name=|en=|type=Sp|text=每日2次，以类法术能力施展[[高等英雄气概]]。}}
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhcf03e207e5.htm 原文]），原在总页 [[古魔领主]]。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Shiggarreb|2=Shiggarreb}}
+[[分类:魔神]]

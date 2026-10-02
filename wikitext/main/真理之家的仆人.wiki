@@ -1,0 +1,10 @@
+{{Feat
+|name=真理之家的仆人
+|english_name=Servant in the House of Truth
+|pfs=否
+|description=你的创造者是一位学者，你的记忆充满了莎草纸和墨水的气息。
+|prerequisites=舍卜提
+|benefit=每当你尝试检定某项你投入了技能点的知识技能时，你可以双骰取高。
+|source_name=冒险之路139：死者之路
+|source_url=https://pf1chm.pages.dev/topics/139_The_Dead_Road_.htm
+}}

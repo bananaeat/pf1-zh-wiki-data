@@ -1,0 +1,11 @@
+{{Feat
+|name=仿巨鬼法术
+|english_name=Yai-Mimic Spell
+|categories=超魔
+|description=你已经研究过巨型妖鬼的魔法本质，并且能够运用你的法术来模仿它们深奥的特性。
+|prerequisites=[[智力]]15、法术定发。
+|benefit=你可以改变一道射线法术，使其从你额头中央发出，就如同妖鬼的第三只眼所在的位置。施展此法术不需要姿势成分。当该法术被施展时，你获得再生1，持续轮数等于该法术的原始环位。这种再生能力无法再生失去的身体部位或重新接上断肢。火焰或酸液伤害会使这种再生能力被抑制 1 轮，此抑制轮数会计入再生效果的总持续时间内。仿巨鬼法术使用高于原本法术环级3级的法术位。
+|source=GHH
+|source_name=巨人猎手手册
+|source_url=https://pf1chm.pages.dev/topics/zh804f69f232.htm
+}}

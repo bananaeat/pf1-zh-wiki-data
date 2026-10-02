@@ -1,0 +1,17 @@
+{{Spell
+|name=创造万物
+|english_name=True Creation
+|school=咒法系 (创造)
+|domains=创造领域 8
+|action=10分钟
+|components=语言;姿势;XP
+|range=0尺
+|effect=无主、非魔法物体，最多1立方尺/等级
+|duration=立即
+|save=无
+|sr=否
+|description=你能创造一件由任何物质构成的、完全真实、非魔法、无主的物体。这件被创造的物体的体积，不得超过1立方尺/等级。复杂的物体需要进行工艺检定。被创造的物体可以用来当作材料成分。
+
+XP花费：该件物品的金币价值换算成XP (最小1XP)。
+|source=探索者编年史：战役设定
+}}

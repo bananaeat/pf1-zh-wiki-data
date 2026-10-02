@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 63），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=铃花护送人
+|english_name=Bellflower Tiller
+|type=地区
+|pfs=否
+|prerequisites=铃花会、切利亚斯
+|description=你是切利亚斯秘密组织铃花会中的一名耕作人，小心翼翼地将奴隶从一处藏身点转移到下一处。你在所有为野外求生、在恶劣天气中旅行、避免迷路或预测天气而进行的[[生存]]检定上获得+5背景加值。
+|source_name=组织指南
+|source=FM
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Bellflower%20Tiller
+}}

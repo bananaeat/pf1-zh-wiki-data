@@ -1,0 +1,15 @@
+{{魔法物品
+|name=巨化召唤权杖
+|english_name=Rod of Giant Summoning
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Giant Summoninglesser
+|cat=权杖
+|aura=强烈咒法系
+|cl=17
+|slot=无
+|price=3,000 gp（次等）；11,000 gp（普通）；24,500 gp（高等）
+|weight=5磅
+|description=这根铁质[[魔法物品#权杖|权杖]]带有如同狼牙棒般的长金属棱片，棱片从握柄处向外延伸并逐渐变宽。使用者每天最多可以使用这根权杖3次，来强化她施放的咒法（召唤）系法术，使她召唤出的所有生物都获得[[巨化生物]]简易模板。次等权杖可用于3环或以下的法术，普通权杖可用于6环或以下的法术，高等权杖可用于9环或以下的法术。
+|req=[[制造权杖]]、[[增强召唤]]，以及[[召唤怪物 III]]或[[召唤自然盟友 III]]
+|cost=1,500 gp（次等）；5,500 gp（普通）；12,250 gp（高等）
+|source=怪物召唤者手册
+}}

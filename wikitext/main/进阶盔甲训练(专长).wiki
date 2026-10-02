@@ -1,0 +1,13 @@
+{{消歧义|进阶盔甲训练}}
+{{Feat
+|name=进阶盔甲训练
+|english_name=Advanced Armor Training
+|categories=战斗
+|description=你受过特殊的训练来以新的方法使用你的盔甲。
+|prerequisites=盔甲训练职业特性，[[战士]]等级3。
+|benefit=选择一个[[进阶盔甲训练]]选项。
+|special=这个专长可以被选择多次，但最多每3个战士等级选取一次。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_1095.html
+}}

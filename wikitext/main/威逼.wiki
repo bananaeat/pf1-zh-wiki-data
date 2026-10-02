@@ -1,0 +1,15 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[威逼 (神话)]]。</small></div>
+{{Feat
+|name=威逼
+|english_name=Intimidating Prowess
+|categories=战斗
+|description=你的力量令他人恐惧。
+|benefit=你的威吓技能检定在魅力调整之外再计入力量修正。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[处刑秀]]、[[恐怖处决]]、[[惧怖宰杀]]、[[汹涌狂怒]]（4 个条目）

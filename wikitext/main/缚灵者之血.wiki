@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Monster Summoner's Handbook pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=缚灵者之血
+|english_name=Binder's Blood
+|type=社会
+|description=你的家族中出过大量巨灵呼唤者，让你对束缚巨灵的种种门道颇有见解。直接与巨灵打交道时，你在任何基于魅力的检定上获得+2背景加值。
+|source_name=怪物召唤者手册
+|source=MSH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Binder%27s%20Blood
+}}

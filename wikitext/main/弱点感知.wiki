@@ -1,0 +1,16 @@
+{{Spell
+|name=弱点感知
+|english_name=Locate weakness
+|school=预言系
+|levels=游侠 2;猎人 2;奥能师 3;女巫 3;审判者 3;异能者 3;术士 3;法师 3;秘学士 3;血脉狂怒者 3;魔战士 3
+|action=标准动作
+|components=语言;姿势;材料/圣徽（一颗腌制的肉食动物眼球）
+|range=个人
+|target=自己
+|duration=1分钟/等级
+|sr=否
+|description=你可以探知敌人的弱点所在，从而让你造成更大的重击伤害。
+
+当你造成重击时，投两次伤害骰 （但是不包括额外伤害骰和精准伤害骰），并取其中较高的结果。
+|source=极限战斗
+}}

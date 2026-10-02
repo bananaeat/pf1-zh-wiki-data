@@ -1,0 +1,11 @@
+{{Trait
+|name=废土流民
+|english_name=Wasteland Vagrant
+|aon=Wasteland Vargrant
+|type=社会
+|prerequisites=
+|description=你花费了大半生研究如何在废土上求生的方法，因此表面上缺乏常规生存资源的环境也无法对你造成困扰。当你获得该背景特性时，从下列废土类型中选择其一：荒疫、深渊、荒漠、洪灾。当身处该类废土地形中时，你在生存检定上获得+2背景加值。（由GM来决定该地形是否属于所选废土的类别）。在你选择了某一废土类别以获得其中好处后，你就无法再次更改。
+|source=PoW
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1271.html
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=阴影法术防御
+|english_name=Shadow Magic Defense
+|description=你对阴影的掌握允许你防御那些试图用来对抗你的阴影法术。
+|prerequisites=易容术种族类法术能力或阴影幻像影舞者职业特性
+|benefit=你在对抗具有阴影UM描述符的法术与类法术能力，以及幻术（幽影幻觉）子学派法术和类法术能力时在豁免检定上获得+2加值。如果你成功地豁免了一个造成对于豁免检定通过的生物只能造成一定百分比的伤害或效果的幻术（幽影子学派）法术，在计算它对于你造成的伤害时减少20%（最低0%）。
+|source=BoS
+|source_name=阴影血脉
+|source_url=https://pf1chm.pages.dev/topics/page_378.html
+}}

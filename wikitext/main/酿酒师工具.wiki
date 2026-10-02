@@ -1,0 +1,9 @@
+{{装备
+|name=酿酒师工具
+|english_name=Brewer's kit
+|cat=炼金工具
+|price=25 gp
+|weight=50磅
+|description=酿酒师工具包括一个糖化桶，以及用于煮沸和冷却的铜壶和管道，之后装桶并使其发酵。它还包括各种干啤酒花和调味香料。
+|source=炼金术手册
+}}

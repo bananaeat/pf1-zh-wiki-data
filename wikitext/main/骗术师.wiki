@@ -1,0 +1,10 @@
+{{Trait
+|name=骗术师
+|english_name=Trickster (Vanara)
+|type=种族
+|prerequisites=[[灵猴族]]
+|description=你早就学会为了得到你想要的东西，有时你必须隐秘行动。你在[[唬骗]]和隐匿检定获得+1背景加值，而且其中一个技能(由你选择)总是你的[[本职技能]]。
+|source_name=内海种族
+|source=Inner Sea Races
+|source_url=https://pf1chm.pages.dev/topics/zh3a98986c0e.htm
+}}

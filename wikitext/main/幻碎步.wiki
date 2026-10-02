@@ -1,0 +1,9 @@
+{{Feat
+|name=幻碎步
+|english_name=Brash Stride
+|description=你学习了大亲王西里卡那大胆的战斗风格，并且模仿他穿越丛林等不毛之地的脚步。
+|prerequisites=敏捷15，神行步，灵狐步
+|benefit=当你冲锋或奔跑时，无视困难地形。
+|source_name=冒险之路132：六传奇之魂
+|source_url=https://pf1chm.pages.dev/topics/132_The_Six-Legend_Soul.htm
+}}

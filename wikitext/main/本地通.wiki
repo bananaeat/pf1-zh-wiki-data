@@ -1,0 +1,9 @@
+{{Trait
+|name=本地通
+|english_name=Civilized
+|type=社会
+|description=你对当地法律、习俗和政策了如指掌。你的知识(贵族)和知识(本地)检定获得+1背景加值，并且总能将知识(本地)视为你的[[本职技能]]。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

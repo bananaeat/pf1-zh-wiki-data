@@ -1,0 +1,12 @@
+{{Feat
+|name=越位虚招
+|english_name=Passing Trick
+|categories=战斗
+|description=穿越一个敌人所在位置能给予你晃点他的机会。
+|prerequisites=智力13，[[寓守于攻]]，[[闪避]]，[[精通虚招]]，[[灵活移动]]，小体型或更小。
+|benefit=每当你成功的进行了一次特技检定以穿过对手所在空间，你可以用[[迅捷动作]]对其进行一次[[唬骗]]检定以施放[[虚招]]。
+|special=如果你拥有“[[钻胯而过]]”专长而对手正好比你体型大，你在本专长的唬骗检定上获得+2加值。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

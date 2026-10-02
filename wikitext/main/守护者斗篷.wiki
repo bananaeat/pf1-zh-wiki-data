@@ -1,0 +1,15 @@
+{{魔法物品
+|name=守护者斗篷
+|english_name=Mantle of the Protector
+|aon=MagicWondrousDisplay.aspx?FinalName=Mantle of the Protector
+|cat=奇物
+|aura=中等防护系、咒法系
+|cl=7
+|slot=肩部
+|price=12,200 gp
+|weight=10磅
+|description=这件银色的斗篷内嵌有钢制肩甲，无论谁穿，似乎总是显得有些过于宽松。每天开始时，守护者斗篷的持有者可以花10分钟让斗篷与自己的护甲和盾牌调谐。此后他可以把调谐好的斗篷借给一名盟友，这名盟友可以在任何时候以一个[[直觉动作]]启动它，在10分钟内获得持有者的护甲加值和盾牌加值，以及该护甲可能具有的任何其他特殊性质。以这种方式启动斗篷时，持有者的护甲和盾牌会进入休眠状态，在1分钟内失去它们所能提供的一切益处。
+|req=[[制造奇物]]、[[护卫他人]]
+|cost=6,100 gp
+|source=纯洁勇士
+}}

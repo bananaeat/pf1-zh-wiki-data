@@ -1,0 +1,20 @@
+{{魔法物品
+|name=橙黄色艾恩石
+|english_name=Gamboge Nodule Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun Stone Gamboge Nodule
+|cat=艾恩石
+|aura=中等变化系
+|cl=12
+|slot=无
+|price=54,000 gp
+|description='''形状'''：结核
+
+'''效果'''：这块艾恩石使你免疫毒素，如同佩戴了[[辟毒护符]]。
+
+'''共振'''（放入[[寻路仪]]时）：对抗疾病的豁免检定获得+2抗力加值。
+
+艾恩石的通用规则（启动、环绕飞行、抓取，以及AC、硬度）见[[艾恩石]]。
+|req=[[制造奇物]]、[[中和毒性]]，制造者必须已经12级
+|cost=27,000 gp
+|source=秘密探寻者
+}}

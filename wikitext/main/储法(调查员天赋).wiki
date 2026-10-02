@@ -1,0 +1,11 @@
+<noinclude>{{调查员导航}}
+{{消歧义|储法}}
+'''储法'''（Spell Storing, Su）是[[调查员]]的[[调查员天赋|调查员天赋]]。
+
+</noinclude>{{Source|魔法战术工具箱|Magic Tactics Toolbox|inline}}
+
+同名[[盗贼天赋]]，调查员也可以选取，规则见[[储法]]。<noinclude>
+
+[[分类:调查员天赋]]
+
+{{职业}}</noinclude>

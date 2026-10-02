@@ -1,0 +1,16 @@
+{{Spell
+|name=魅惑精类
+|english_name=Charm fey
+|school=惑控系 (魅惑)
+|tags=影响心灵
+|levels=吟游诗人 1;奥能师 1;术士 1;歌者 1;法师 1
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一名精类生物
+|duration=1小时/等级
+|save=意志，通过则无效
+|sr=是
+|description=此法术效果类似[[魅惑人类]]，除了影响的是精类而非类人生物。
+|source=第一世界，妖精之国
+}}

@@ -1,0 +1,11 @@
+{{Trait
+|name=安多莱塔的安慰
+|english_name=Andoletta's Consolation
+|type=宗教
+|pfs=否
+|prerequisites=信仰安多莱塔
+|description=你曾遭遇安多莱塔的仆从或信徒，并在一场失落之后从对方处获得了一种令人难忘、虽不寻常但充满慰藉的开导。因此，你对情绪（emotion）和恐惧（fear）效果的豁免检定获得+2背景加值。若你已免疫恐惧效果，则该加值对情绪效果提升为+4。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh9e38168036.htm
+}}

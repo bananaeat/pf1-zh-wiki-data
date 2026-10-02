@@ -1,0 +1,9 @@
+{{Trait
+|name=坚韧皮肤
+|english_name=Tough Skin
+|type=种族
+|prerequisites=[[魔裔]]（野兽之子）
+|description=你的体表还保有少量祖先的刚硬皮肤。当你的敌人使用钝击或挥砍武器并尝试对你确认重击时，你的AC获得+1背景加值。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_832.html
+}}

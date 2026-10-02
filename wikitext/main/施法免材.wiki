@@ -1,0 +1,14 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[施法免材 (神话)]]。</small></div>
+{{Feat
+|name=施法免材
+|english_name=Eschew Materials
+|description=你施展法术不需低级的法术材料成分。
+|benefit=若欲施展的法术其材料价格不高于1gp，你不需耗用材料亦可施法。但施法依旧会引发[[借机攻击]]。若欲施展的法术其材料价格高于1金币，则你需要按照一般规则持有材料成分才能施法。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[慧眼识材料]]（1 个条目）

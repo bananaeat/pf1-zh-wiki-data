@@ -1,0 +1,12 @@
+{{Feat
+|name=狂野夹击
+|english_name=Wild Flanking
+|categories=背叛;团队
+|pfs=否
+|description=你在[[夹击]]时擅长利用位置向敌人展开狂风骤雨式的猛袭，丝毫不顾夹击者的安危。
+|prerequisites=[[猛力攻击]]，BAB＋4
+|benefit=当你和拥有该专长的盟友夹击敌人时，你可倾力投入攻击对敌人造成额外伤害，但同时也会对盟友造成伤害。当你使用该专长时，用攻击检定的结果同时对抗敌人和盟友的AC。若你命中敌人，如同你使用[[猛力攻击]]一般造成额外伤害。若你命中盟友，则仅造成该额外伤害。一次攻击可能同时命中敌人和盟友。该专长造成的额外伤害与猛力攻击叠加。
+|source=CoC
+|source_name=秽邪勇士
+|source_url=https://pf1chm.pages.dev/topics/zh45cf79b2ca.htm
+}}

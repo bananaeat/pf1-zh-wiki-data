@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 195），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=天地不仁
+|english_name=Witness to Nature's Cruelty
+|type=种族
+|prerequisites=[[人类]]（凯利德人）
+|description=你亲眼目睹过饥荒与恶劣天候造成的可怕伤亡，因此不忍让即便是最可恨的敌人遭受那样的苦难。你为他人进行的[[医疗]]和[[生存]]检定获得+1背景加值。这两项技能之一（由你选择）总是你的本职技能。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Witness%20to%20Nature%27s%20Cruelty
+}}

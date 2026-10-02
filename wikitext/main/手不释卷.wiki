@@ -1,0 +1,11 @@
+{{Feat
+|name=手不释卷
+|english_name=Hand's Knowledge
+|pfs=否
+|description=你深化了跟[[附身]]精魄的记忆连系。
+|prerequisites=[[鬼上手]]。
+|benefit=选择一种知识技能；此技能成为你的[[本职技能]]。此外，选择下列一种技能：[[解除装置]]、脱逃、医疗、[[巧手]]、或[[使用魔法装置]]。此技能成为你的本职技能并且你能未受训尝试检定。每天1次以[[迅捷动作]]，你能在任何上述技能检定获得等同1/2角色等级的加值。
+|source=HHH
+|source_name=闹鬼英雄手册
+|source_url=https://pf1chm.pages.dev/topics/zh546b3e4ae1.htm
+}}

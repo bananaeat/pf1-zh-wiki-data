@@ -1,0 +1,18 @@
+{{魔法物品
+|name=粉碎竖琴
+|english_name=Harp of Shattering
+|aon=MagicWondrousDisplay.aspx?FinalName=Harp of Shattering
+|cat=奇物
+|aura=微弱塑能系
+|cl=3
+|slot=无
+|price=8,000 gp
+|weight=5磅
+|description=这把做工精良的精制竖琴可以轻松地单手持握，但演奏时需要双手。竖琴有10发充能，每天黎明时恢复。持琴者通过DC 10的表演（弦乐）检定，可以产生下列效果：
+
+* [[破坏术]]（1发充能）
+* [[粉碎音波]]（2发充能）
+|req=[[制造奇物]]、[[破坏术]]（进阶玩家指南）、[[粉碎音波]]
+|cost=4,000 gp
+|source=极限宝具
+}}

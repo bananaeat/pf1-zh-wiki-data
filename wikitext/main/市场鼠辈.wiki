@@ -1,0 +1,9 @@
+{{Trait
+|name=市场鼠辈
+|english_name=Market Rat
+|type=种族
+|prerequisites=[[人类]]（柯莱士人）
+|description=你在格拉利昂各式摊贩与商业联盟间度过少年时代。你可能出身商贾世家，或栖身市井摊位乞活求生。你在[[估价]]和知识(本地)检定上获得+1背景加值。
+|source_name=格拉里昂的人类
+|source_url=https://pf1chm.pages.dev/topics/page_1581.html
+}}

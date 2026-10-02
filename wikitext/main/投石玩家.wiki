@@ -1,0 +1,10 @@
+{{Trait
+|name=投石玩家
+|english_name=Prismati Player
+|type=地区
+|prerequisites=安多安
+|description=你长大期间一直玩着令人困惑的拍斯玛蒂游戏而且能准确又轻松地投掷石头。你在使用拳头大小的石头或形状类似的物品时的攻击骰获得+1背景加值，而且你在专注检定获得+1背景加值。
+|source_name=安多安，自由之魂
+|source=ASoL
+|source_url=https://pf1chm.pages.dev/topics/zh527590c930.htm
+}}

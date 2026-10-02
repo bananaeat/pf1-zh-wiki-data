@@ -1,0 +1,10 @@
+{{Trait
+|name=狼人嗜血
+|english_name=Lycanthropic Bloodlust
+|type=种族
+|prerequisites=[[兽态人]]（狼人裔）
+|description=当你的兽化人血脉刚刚觉醒时，你对暴力充满渴求。尽管你现在学会了集中或压制这种冲动，它仍然让你在战斗中充满能量。每天一次，当你用天生攻击对一个敌人造成伤害时，你能以一个[[直觉动作]]获得1d6临时生命，持续1分钟。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_808.html
+}}

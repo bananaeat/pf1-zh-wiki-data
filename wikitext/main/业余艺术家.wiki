@@ -1,0 +1,11 @@
+{{Trait
+|name=业余艺术家
+|english_name=Dilettante Artist
+|type=种族
+|prerequisites=[[精灵]]
+|description=艺术对你来说就是一种社交方式，你通过艺术来影响进而进入到上流社会中。你在一种表演检定中获得+1背景加值，以及在交涉检定中获得+1背景加值。
+
+其中一个技能（由你选择）将会被视为你的本职技能。
+|source_name=塔尔多，荣光荡漾之地
+|source_url=https://pf1chm.pages.dev/topics/page_938.html
+}}

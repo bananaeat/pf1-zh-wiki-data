@@ -1,0 +1,11 @@
+{{Feat
+|name=扩展超念
+|english_name=Expanded Metakinesis
+|description=你可以用新的方式提高你[[念袭]]的毁灭之力。
+|prerequisites=念袭职业能力OA，超念职业能力OA
+|benefit=选择以下[[超魔专长]]中之一：[[扰咒法术]]APG，[[跨界法术]]APG，[[暴怒法术]]OA，[[慈悯法术]]APG或[[法术穿刺]]UM。通过承受1点超载，你能改变你的念袭，如同使用了选择的超魔专长。
+|special=该专长可以选择多次，每一次你需要选择不同的超魔专长。
+|source=MTT、MagicTT
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_325.html
+}}

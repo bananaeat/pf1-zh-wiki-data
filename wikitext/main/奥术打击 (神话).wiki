@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[奥术打击]] 的神话版本。</small></div>
+{{Feat
+|name=奥术打击
+|english_name=Arcane Strike
+|categories=神话
+|description=利用你那强大的[[奥术天赋]]，你能够挥出蕴含着魔法能量的毁灭性打击。
+|prerequisites=[[奥术打击]]
+|benefit=每当你使用[[奥术打击]]专长增强你的武器时，效果会持续1分钟而非原本的1轮。若你在使用奥术打击专长时花费1次神话之力，你还能够将任何1个基本价格调整为+1的魔法武器特殊能力赋予到你的武器上。这个基本价格调整在4阶提升至+2。这个基本价格调整在7阶提升至+3。这个基本价格调整在10阶提升至+4。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|荒野源始|Wilderness Origins}}
+'''元素放逐'''（Elemental Exile, Sp）是[[操念使]]的[[原力]]。
+
+元素：通用；类别：通用（Sp）；等级：8；超载：1
+
+豁免：意志，通过则无效；[[特殊能力#法术抗力|法术抗力]]：可
+
+你将接触到的一名生物运送到和你的元素关联的位面。要精准地抵达位面的特定地点几乎不可能。这名生物出现的地点距离你预想的目的地会有5英里到500英里 (5d%) 的误差。元素放逐会立刻运送生物然后就结束。这名生物必须找到其他方式返回（比如施放[[异界传送]]或再次使用元素放逐）。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Elemental Exile|2=Elemental Exile}}
+
+[[分类:原力]]

@@ -1,0 +1,9 @@
+{{Trait
+|name=狂信者
+|english_name=Zealous Striker
+|type=信念
+|description=你的狂信对那些异教徒而言极度危险。每当你的惩戒审判能力被激活，你对能够施展神术、且与你信仰不同神祇的敌人的伤害骰获得+1背景加值。（译注：惩戒审判使审判者在所有武器伤害上获得+1神圣加值，每3个审判者等级再+1。）
+|source_name=信念背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

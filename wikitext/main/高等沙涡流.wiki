@@ -1,0 +1,15 @@
+{{Spell
+|name=高等沙涡流
+|english_name=Sand Whirlwind, Greater
+|school=咒法系 (创造)
+|levels=先知 5;战斗祭司 5;牧师 5
+|action=标准动作
+|components=语言;姿势;材料（一把沙、尘土或细粉末）
+|range=中距
+|area=半径10尺扩散
+|duration=1轮/等级
+|save=意志，通过则无效（仅限目盲）
+|sr=否
+|description=此法术如同沙涡流般作用，除了上述所记载的。
+|source=塔尔多，荣光余荡之地
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=黄昏之眼
+|english_name=Eyes of the Twilight
+|description=你的眼已经习惯了半明半暗的黄昏和破晓。
+|prerequisites=[[精确感官]]APG，[[察觉]]7级，[[敏锐感官]]种族特性，昏暗视觉。
+|benefit=对你来说，处于昏暗中的生物不会获得[[隐蔽]]。你仍然会在黑暗中[[目盲]]。
+|normal=对那些没有黑暗视觉或[[看破黑暗]]能力的生物来说，一名处于昏暗的生物具有隐蔽（战斗中的20%失手率）。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

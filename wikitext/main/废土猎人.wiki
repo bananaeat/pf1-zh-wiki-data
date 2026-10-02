@@ -1,0 +1,10 @@
+{{Trait
+|name=废土猎人
+|english_name=Wasteland Hunter
+|type=种族
+|prerequisites=[[人类]]（凯利德人）
+|description=你是部落里的猎人专家。当你投掷一把木棒、[[短矛]]、[[长矛]]或[[标枪]]时，超过第一个射程增量的投掷攻击罚值降低2点（最低降至0）。例如，你向距离25尺的目标投掷木棒(射程增量10尺),你只会受到 -2的罚值。
+|source_name=河域子民
+|source=PotR
+|source_url=https://pf1chm.pages.dev/topics/zh576fd36972.htm
+}}

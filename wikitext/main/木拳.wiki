@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=木拳|en=Wooden Fist|type=Su|domain=力量领域|sub=拳头子域 (Fist)|sub_name=拳头子域|source=平衡勇士|text=该能力如同[[植物领域]]同名领域力量一般作用。此能力替换[[力量领域#力量满溢 (Strength Surge, Sp)|力量满溢]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

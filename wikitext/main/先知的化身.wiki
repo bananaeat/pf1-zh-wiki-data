@@ -1,0 +1,17 @@
+{{Spell
+|name=先知的化身
+|english_name=Oracle's vessel
+|school=变化系
+|levels=先知 4
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一名生物
+|duration=1分钟/等级
+|save=意志，通过则无效（无害）
+|sr=是
+|description=目标受到你的[[先知诅咒]]的所有好处，并且同时不会有任何负面效果。
+
+某些情况下，这个法术不会产生效果 （比如，一个战士受到你的[[鬼上身]]的效果，由于他不会施放法术，所以不会得到任何额外法术）
+|source=极限魔法
+}}

@@ -1,0 +1,17 @@
+{{武器
+|name=匕首
+|english_name=Dagger
+|category=武器
+|prof=简易
+|wcat=轻型
+|price=2 gp
+|weight=1磅
+|dmg_s=1d3
+|dmg_m=1d4
+|crit=19–20/×2
+|range=10尺
+|type=穿刺或挥砍
+|groups=轻刃，投掷，部落
+|description=匕首是一把战斗用小刀。它的锋刃长不及1尺，可曲可直，可单刃可双刃。匕首的设计种类极广，并可能有多种名称（譬如用来戳刺的“刺刃”）。隐藏一把匕首在身上的[[巧手]]检定+2。
+|source=核心规则书、极限宝具
+}}

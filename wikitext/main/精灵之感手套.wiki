@@ -1,0 +1,14 @@
+{{魔法物品
+|name=精灵之感手套
+|english_name=Gloves of Elvenkind
+|aon=MagicWondrousDisplay.aspx?FinalName=Gloves of Elvenkind
+|cat=奇物
+|aura=中等变化系
+|cl=8
+|slot=手部
+|price=7,500 gp
+|description=这些朴实的灰色皮手套让穿戴者在[[法术辨识]]检定，以及为防御式施法而进行的专注检定上获得+5表现加值。必须同时戴上两只手套，魔力才会生效。
+|req=[[战斗施法]]、[[制造奇物]]、制造者必须是精灵
+|cost=3,500 gp
+|source=进阶种族手册
+}}

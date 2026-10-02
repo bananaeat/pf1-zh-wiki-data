@@ -1,0 +1,10 @@
+<includeonly><div class="boon"><span class="boon-n">{{#switch:{{{n|}}}|1=第一神恩|2=第二神恩|3=第三神恩|#default={{{n|}}}}}</span>{{#if:{{{name|}}}|<span class="boon-name">{{{name|}}}</span>}}{{#if:{{{en|}}}{{{type|}}}|<span class="boon-en">（{{{en|}}}{{#if:{{{en|}}}|{{#if:{{{type|}}}|，}}}}{{{type|}}}）</span>}}：{{{text|}}}</div></includeonly><noinclude>
+服从仪典的一条神恩（2026-09-29 神祇排版统一时建）。
+
+<pre>{{神恩|n=1|name=渊博学识|en=Expansive Knowledge|type=Sp|text=[[鉴定术]] 3次/日，[[狐之狡黠]] 2次/日，或[[秘密文页]] 1次/日。}}</pre>
+{{神恩|n=1|name=渊博学识|en=Expansive Knowledge|type=Sp|text=[[鉴定术]] 3次/日，[[狐之狡黠]] 2次/日，或[[秘密文页]] 1次/日。}}
+
+参数都用具名的（text 里常有等号）：n（1／2／3，其他值原样显示）、name（中文名；AoN 只给法术和次数、没有神恩名的留空）、en（英文名）、type（Sp／Su／Ex，可写「Sp 和 Su」）、text（正文，可多段）。
+正文里的竖线要写成 <code>&amp;#124;</code>。样式在 [[MediaWiki:Common.css]]（.boon）。
+[[分类:模板]][[分类:规则模板]]
+</noinclude>

@@ -1,0 +1,19 @@
+{{武器
+|name=长矛
+|english_name=Longspear
+|category=武器
+|prof=简易
+|wcat=双手
+|price=5 gp
+|weight=9磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×3
+|type=穿刺
+|special=迎击，长武
+|groups=矛
+|description=长矛长约8尺。
+|source=核心规则书、极限宝具
+}}
+
+{{FAQ|v5748eaic9sk0}}

@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''招架攻击'''（Block Attacks）是一条神话[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-a">神话</span><span class="sk-f">位置：防御能力</span></div>
+</noinclude><includeonly><div class="lang"><span id="招架攻击"></span><div class="lang-h"><b>[[招架攻击]]</b><i>Block Attacks</i><span class="lang-w">Ex · 神话 · 防御能力</span></div><div class="lang-d"></includeonly>
+每轮 1 次，当该名生物被近战或远程攻击命中时，它能够尝试使用其最高的攻击加值进行 1 次近战攻击。如果结果超过对抗它的攻击结果，该名生物就会免受这次攻击 (如同攻击失手)。
+
+'''格式'''：招架攻击
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Block Attacks|2=Block Attacks}}
+
+[[分类:通用怪物规则]]</noinclude>

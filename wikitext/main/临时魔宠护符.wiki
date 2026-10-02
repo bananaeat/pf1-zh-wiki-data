@@ -1,0 +1,15 @@
+{{魔法物品
+|name=临时魔宠护符
+|english_name=Periapt of Temporary Familiar
+|aon=MagicWondrousDisplay.aspx?FinalName=Periapt of Temporary Familiar
+|cat=奇物
+|aura=中等咒法系
+|cl=9
+|slot=颈部
+|price=8,000 gp
+|weight=1磅
+|description=这枚清澈的蓝色水晶护身符中含有一尊珍珠雕成的微缩动物像，所刻画的是[[魔宠]]列表上的动物，例如蝙蝠、猴子或渡鸦。每日三次，佩戴者可以召唤护身符中所刻的动物来充当自己的魔宠。这个临时魔宠拥有魔宠的所有能力，视佩戴者为5级法师，并会停留5分钟，或直到它的生命值降至0。如果临时魔宠的生命值降至0，则24小时内无法再次召唤它。魔宠会保留以往被召唤时的记忆。只有没有自己魔宠的人才能激活临时魔宠护符。
+|req=[[制造奇物]]、[[召唤怪物 V]]，制造者必须拥有魔宠
+|cost=4,000 gp
+|source=怪物召唤者手册
+}}

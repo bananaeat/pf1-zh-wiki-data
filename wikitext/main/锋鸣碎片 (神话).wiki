@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[锋鸣碎片]] 的神话版本。</small></div>
+{{Spell
+|name=锋鸣碎片
+|english_name=Chord of Shards
+|school=塑能系
+|levels=吟游诗人 1;歌者 1
+|description=法术造成的伤害增加至2d8点穿刺伤害，并且穿透所有伤害减免。任何被碎片伤到的生物还会受到1d8点音波伤害。
+|source=神话冒险
+}}
+[[分类:神话法术]]

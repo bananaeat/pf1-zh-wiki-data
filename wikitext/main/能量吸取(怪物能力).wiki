@@ -1,0 +1,17 @@
+<noinclude>{{速查导航|here=规则}}
+{{消歧义|能量吸取}}
+'''能量吸取'''（Energy Drain）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Su</span><span class="sk-f">位置：特殊攻击和个体攻击</span></div>
+</noinclude><includeonly><div class="lang"><span id="能量吸取"></span><span id="能量吸取(怪物能力)"></span><div class="lang-h"><b>[[能量吸取(怪物能力)|能量吸取]]</b><i>Energy Drain</i><span class="lang-w">Su · 特殊攻击和个体攻击</span></div><div class="lang-d"></includeonly>
+具有此能力的生物，当它近战或远程攻击命中时，会自动从对手的身上吸取生命能量。每次成功的能量吸取会造成一个或多个负向等级（在生物的描述中将给出具体数目）。如果包含能量吸取的攻击确认了重击，它将造成两倍于所列数量的负向等级。除非生物的描述中另有说明，每造成一个负向等级，该吸取生物都将获得 5 点临时 HP。这种临时 HP 持续时间最多为 1 小时。负向等级将持续 24 个小时或者通过法术来移除，比如[[复原术]]。如果 24 小时之后一个负向等级没有被移除，则被影响的生物必须通过强韧豁免（DC = 10 + 1/2 吸取生物种族 HD + 吸取生物魅力修正；具体的 DC 会在生物描述中给出）。如果成功，这个负向等级将消失而不对该生物造成伤害。如果失败，此负向等级变成永久负向等级。对于每个负向等级要分别投豁免检定。
+
+'''格式'''：能量吸取（2 负向等级，DC 18）
+<includeonly></div></div></includeonly>
+
+{{FAQ|v5748eaic9r9f|v5748eaic9vu4}}
+
+<noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Energy Drain|2=Energy Drain}}
+
+[[分类:通用怪物规则]]</noinclude>

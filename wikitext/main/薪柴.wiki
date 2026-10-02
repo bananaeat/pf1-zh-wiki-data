@@ -1,0 +1,9 @@
+{{装备
+|name=薪柴
+|english_name=Firewood (per day)
+|cat=冒险装备
+|price=1 cp
+|weight=20磅
+|description=这种干木柴捆包括了树干与树枝。
+|source=核心规则书、极限宝具
+}}

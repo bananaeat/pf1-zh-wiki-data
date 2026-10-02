@@ -1,0 +1,10 @@
+<noinclude>{{调查员导航}}
+'''数理炼金'''（Numerical Alchemy, Su）是[[调查员]]的[[调查员天赋|调查员天赋]]。
+
+</noinclude>{{Source|门徒教义|Disciple's Doctrine|inline}}
+
+该调查员精于心算，能准确地调用肌肉运动最快最有效地混合出一剂炼成。获得该天赋的调查员能花费一次灵感来在1轮内制作一剂炼成（而非通常的1分钟）。<noinclude>
+
+[[分类:调查员天赋]]
+
+{{职业}}</noinclude>

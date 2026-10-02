@@ -1,0 +1,14 @@
+{{Spell
+|name=大预兆术
+|english_name=True prognostication
+|school=预言系
+|levels=先知 8;女巫 8;异能者 8;牧师 8;萨满 8
+|action=1周
+|components=语言;姿势;材料（价值1000gp的罕见焚香与药草）
+|range=个人
+|target=你
+|duration=立即
+|sr=否
+|description=该法术的功能如同[[预言术]]一般，不过该法术涵盖到最远100年的未来。由于遥远未来的极端不可预测性，大预兆术在用于预测如此大规模的事件时会异常地晦涩难懂。
+|source=极限诡道
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=蛇魔
+|english_name=Fiendish Serpent
+|pfs=否
+|description=虽然变形成蛇是在诸如[[阿巴拉克萨斯]]或是[[格殷永]]等蛇形半神的[[魔族]]仆从中最为常见，但是任何魔族的信徒都可能呈现这种型态。
+|prerequisites=两足身体型态，邪恶亚种的非本地异界生物。
+|benefit=你已用一条蛇尾取代你的双腿爬行。这使你获得了等同于你基础速度的攀爬速度和游泳速度，并且你不能被[[摔绊]]。
+|source_name=永罪之书
+|source_url=https://pf1chm.pages.dev/topics/zh952dc99db5.htm
+}}

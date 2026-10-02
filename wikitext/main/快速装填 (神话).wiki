@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[快速装填]] 的神话版本。</small></div>
+{{Feat
+|name=快速装填
+|english_name=Rapid Reload
+|categories=神话
+|description=你能够使用惊人的速度装填任意一类武器。
+|prerequisites=[[快速装填]]
+|benefit=你获得关于所有弩和火器的[[快速装填]]专长的好处，而不仅仅是在你选取该专长时原本选择的那1类。以[[迅捷动作]]，你能够花费1次神话之力，以此使你在1分钟内装填弩和火器时不会引起[[借机攻击]]。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

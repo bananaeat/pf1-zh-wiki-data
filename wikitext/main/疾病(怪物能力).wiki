@@ -1,0 +1,13 @@
+<noinclude>{{消歧义|疾病}}</noinclude>
+<noinclude>{{速查导航|here=规则}}
+'''疾病'''（Disease）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex 或 Su</span><span class="sk-f">位置：特殊攻击和个体攻击</span></div>
+</noinclude><includeonly><div class="lang"><span id="疾病"></span><span id="疾病(怪物能力)"></span><div class="lang-h"><b>[[疾病(怪物能力)|疾病]]</b><i>Disease</i><span class="lang-w">Ex 或 Su · 特殊攻击和个体攻击</span></div><div class="lang-d"></includeonly>
+拥有该能力的生物会在接触的同时传播疾病。疾病的效果，包括豁免，频率以及如何治愈，都包括在了生物的描述当中。疾病的豁免通常是强韧豁免 (DC 为 {10+1/2 病原生物种族 HD + 该生物的体质修正}；具体的 DC 会在生物描述中给出)。疾病可以通过[[移除疾病]]或者类似效果解除。
+
+'''格式'''：'''疾病名称 (Ex 或 Su)''' 啮咬—伤口；豁免 强韧 DC 15，潜伏期 1d3 天，频率 1 次/天，效果 1 点体质伤害，痊愈 连续 2 次豁免
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Disease|2=Disease}}
+
+[[分类:通用怪物规则]]</noinclude>

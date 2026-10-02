@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 25），民间汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=部族同心
+|english_name=Tribe Mentality
+|categories=团队
+|pfs=否
+|description=你和部族同伴彼此给予精神上的力量。
+|benefit=当你和另一位拥有本专长的盟友同时受到同一个惑控（胁迫）效果或具有情绪描述符的效果影响时，你们两人都进行豁免检定，但都可以任选其中一个结果使用。
+|source=KoG
+|source_name=格拉利昂的狗头人
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Tribe%20Mentality
+}}

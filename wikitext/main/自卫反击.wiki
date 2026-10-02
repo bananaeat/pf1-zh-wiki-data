@@ -1,0 +1,12 @@
+<noinclude>{{法师导航}}
+'''自卫反击'''（Defensive Feedback, Su）是[[法师]]的[[奥术发现]]。
+
+</noinclude>{{Source|平衡勇士|Champions of Balance|inline}}
+
+'''前提'''：法师等级1。
+
+'''效果'''：你不让伤害性的能量白白消散，而是把其中一部分导回它的源头。当你施放的一个防护系法术（借由伤害减免或能量抗力）防止伤害时，如果进行攻击的生物在被保护的生物30尺内，每有10点伤害被防止，攻击者就承受1d6伤害。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_319.html 原文]）。全部奥术发现见 [[奥术发现]]。
+
+[[分类:奥术发现]]</noinclude>

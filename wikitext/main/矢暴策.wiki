@@ -1,0 +1,17 @@
+{{Feat
+|name=矢暴策
+|english_name=Overwatch Tactician
+|categories=战斗
+|pfs=否
+|description=（[[战斗专长]]）
+你可以在短时间内预判敌人的行动并准备箭矢喂给他们。
+|prerequisites=[[快速射击]]，[[精准射击]]，[[矢暴式]]，对所选武器拥有武器专攻专长
+|benefit=当你开启矢暴流的架势时，你可以以一个[[标准动作]]而非[[整轮动作]]准备两次远程攻击。
+|source=WMH
+|source_name=武器大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_370.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[矢暴啸]]（1 个条目）

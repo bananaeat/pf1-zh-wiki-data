@@ -1,0 +1,10 @@
+{{Feat
+|name=聚焦无信
+|english_name=Focused Disbelief
+|description=你是如此不信任神的权威因此你可以毫不费力地无视她们的法术。
+|prerequisites=[[神力抵抗]]
+|benefit=你获得[[特殊能力#法术抗力|法术抗力]]等于11+你的角色等级。这个法术抗力只会在对抗[[神力抵抗]]中所提及的法术和类法术能力时生效。你可以用一个[[标准动作]]来压制这个抗力1轮。
+|source=F&P
+|source_name=信仰与哲学
+|source_url=https://pf1chm.pages.dev/topics/page_673.html
+}}

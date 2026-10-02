@@ -1,0 +1,12 @@
+{{Feat
+|name=元素打击
+|english_name=Elemental Strike
+|categories=战斗
+|description=你利用你的跨位面血统，为你的武器注入元素能量。
+|prerequisites=[[火元素裔]]、[[土元素裔]]、[[风元素裔]]、或水元素裔。
+|benefit=以一个[[迅捷动作]]，你可以为你的武器注入元素能量。在1轮中，你的武器都将会额外造成1点能量伤害。而能量伤害的类型则取决于你的种族：[[土元素裔]]造成酸蚀伤害、[[风元素裔]]造成闪电伤害、[[火元素裔]]造成火焰伤害、[[水元素裔]]造成寒冷伤害。你每拥有5个等级，该加值都会增加1，至多于20级时+5。
+|special=你可使用该专长而非[[奥术打击]]，获得选用[[致命发牌]]专长（详见Pathfinder Player Companion: The Harrow Handbook第15页）的资格，或使用致命发牌来攻击。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

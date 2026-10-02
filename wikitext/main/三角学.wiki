@@ -1,0 +1,11 @@
+{{Feat
+|name=三角学
+|english_name=Triangulate
+|categories=团队
+|description=你对魔法的不信任迫使你制定策略来对抗女巫、精类和其他超自然的敌手。无论他们自认为自己多么精明，他们都无从隐藏。
+|prerequisites=[[盲斗]]，[[精通盲斗]]，[[高等盲斗]]，[[察觉]]15级，[[人类]]（凯利德人）。
+|benefit=每当你与一名同样拥有该专长的盟友，都距一名你们已意识到其存在的[[隐形]]敌手30尺内时，你们可自动确定该敌手的位置。每当你与一名同样拥有该专长的盟友，都距一名敌手30尺内时，在你由于该生物的[[隐蔽]]而失手时，你可以重骰你失手率的百面骰。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

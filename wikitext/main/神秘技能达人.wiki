@@ -1,0 +1,10 @@
+{{Feat
+|name=神秘技能达人
+|english_name=Psychic Virtuoso
+|description=你可以更频繁地使用所有[[神秘技能解放]]，并且更擅长使用它们。
+|prerequisites=[[异能敏感]]或者施放异能法术的能力
+|benefit=你在使用神秘技能解放的检定中获得+2加值。如果你在基础技能上投入10点以上的技能点，那么该加值会增加至+4点。这些加值无法应用至其他使用基础技能的检定中——它只会对神秘技能解放的检定生效。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

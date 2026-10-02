@@ -1,0 +1,71 @@
+<includeonly>{{Feat
+|name=
+|english_name=
+|categories=
+|description=
+|prerequisites=
+|benefit=
+|normal=
+|special=
+|source_name=
+|source_url=
+}}
+</includeonly><noinclude>
+这一页是'''新建专长条目用的骨架''' —— 不是给条目套用的模板，条目要套的是 [[模板:Feat]]。
+
+[[待办事项#四、长期的翻译工|待办事项]] 上有个输入框：填中文名、点按钮，编辑框里就会自动预填下面这段骨架。也可以自己拼地址：
+
+ https://pf1.huijiwiki.com/index.php?title=页名&action=edit&preload=模板:专长样板
+
+== 骨架 ==
+
+<pre>
+{{Feat
+|name=
+|english_name=
+|categories=
+|description=
+|prerequisites=
+|benefit=
+|normal=
+|special=
+|source_name=
+|source_url=
+}}
+</pre>
+
+== 各参数怎么填 ==
+;name / english_name: 中英文名。<code>name</code> 留空时取页名。
+;categories: 专长类别，'''分号分隔'''。常见的有 '''战斗、团队、超魔、造物、神话、故事、
+ 流派、重击、瞄准、技巧'''。会自动挂上「XX专长」分类。
+;description: 卷首的风味文字，斜体显示。没有就留空。
+;prerequisites: 先决条件。
+;benefit: 效果——这是正文主体。
+;normal / special: 「常规」和「特殊」两段，没有就留空。
+;source_name: '''中文书名'''。它同时决定这条专长进哪一张「XX专长表」。
+;source_url: 原文链接，可选。
+;notes / extra: 译注、编注，用弱化样式显示在最后。
+
+完整的参数说明和例子在 [[模板:Feat]] 那一页。
+
+== 注意 ==
+
+'''正文里的竖线要写成 <code>&amp;#124;</code>'''，否则会被当成模板参数的分隔符、把后面截断。
+要在效果里放表格的话得用 HTML 的 <code>&lt;table&gt;</code> 写进 <code>tables</code> 参数，
+不能用 <code><nowiki>{|</nowiki></code> 开头的维基表格语法，同样是因为裸竖线。
+
+== 三条通则 ==
+
+# '''页名用中文名'''，英文名填进 <code>english_name</code> 参数。撞名怎么加后缀见 [[帮助:格式约定]]。
+# '''不要自己排版、不要手写分类''' —— 卡片模板会自动排版、自动挂分类、自动生成页脚导航。
+# '''用不上的参数留空或整行删掉都行'''，模板会自动隐藏对应的行。
+
+== 填完之后 ==
+
+在保存框下面写一行摘要（「新建：XXX」就够），保存。改错了不要紧，
+每次修改都有记录、任何人都能一键还原。
+
+哪些还没建见 [[未汉化专长]]。
+
+[[分类:帮助]]
+</noinclude>

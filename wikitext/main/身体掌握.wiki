@@ -1,0 +1,11 @@
+{{Feat
+|name=身体掌握
+|english_name=Body Mastery
+|categories=冥想
+|description=冥想会加固你的身体来对抗物理攻击。
+|prerequisites=感知19，[[身体制御]]，[[冥想大师]]，角色等级15
+|benefit=在你冥想后的24小时内，你获得伤害减免2/-
+|source=F&P
+|source_name=信仰与哲学
+|source_url=https://pf1chm.pages.dev/topics/page_673.html
+}}

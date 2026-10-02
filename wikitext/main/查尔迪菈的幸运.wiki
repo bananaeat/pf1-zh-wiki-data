@@ -1,0 +1,10 @@
+{{Trait
+|name=查尔迪菈的幸运
+|english_name=Chaldira's Luck
+|type=宗教
+|prerequisites=信仰[[查尔迪菈·祖拉斯瑞]]
+|description=你年少时曾深陷困境，却在向查尔迪菈·祖拉斯瑞祈求幸运之后，意外地找到了脱身之法。每天一次，你在进行一次技能检定时可以投掷两次取其较高结果。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh9e38168036.htm
+}}

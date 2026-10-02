@@ -1,0 +1,13 @@
+<noinclude>{{速查导航|here=规则}}
+{{消歧义|颤动感知}}
+'''颤动感知'''（Tremorsense）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：感官</span></div>
+</noinclude><includeonly><div class="lang"><span id="颤动感知"></span><span id="颤动感知(怪物能力)"></span><div class="lang-h"><b>[[颤动感知(怪物能力)|颤动感知]]</b><i>Tremorsense</i><span class="lang-w">Ex · 感官</span></div><div class="lang-d"></includeonly>
+该生物对地面的震颤十分敏感，可以自动辨别出任何接触地面之物的位置。具有颤动感知能力的水栖生物亦可感觉出在水中移动的生物的位置。此能力的有效范围在生物的描述中给出。
+
+'''格式'''：颤动感知 60 尺
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Tremorsense|2=Tremorsense}}
+
+[[分类:通用怪物规则]]</noinclude>

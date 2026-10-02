@@ -1,0 +1,16 @@
+{{科技物品
+|name=信号干扰器
+|english_name=Signal jammer
+|kind=科技装置
+|sub=其他工具与配件
+|price=10,000 gp
+|weight=8磅
+|slot=无
+|capacity=24
+|usage=每小时1充能
+|description=这个小装置启动时会发出低低的嘶嘶声。启动期间，它里面的白噪声发生器会制造一个半径60尺的散布范围，范围内的所有信号都被完全阻断。关于信号的更多内容，见[[科技装置#信号|信号]]一节。
+|construction=[[制造科技装置]]、生产车间
+|craft_dc=26
+|cost=5,000 gp
+|source=科技指南
+}}

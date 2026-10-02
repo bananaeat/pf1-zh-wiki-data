@@ -1,0 +1,9 @@
+{{Trait
+|name=深藏不露
+|english_name=Deep Cover
+|type=社会
+|description=你从少年时代起就过着双重生活，或许是为了躲避因真实身份而招致的迫害，或许是在为你伪装身份所属民族或团体的敌人效力。你总能在伪装和维持一个假身份的[[唬骗]]和[[易容]]检定上取10。唬骗或易容(由你选择)成为你的[[本职技能]]。
+|source_name=社会背景
+|source=SH
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

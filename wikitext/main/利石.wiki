@@ -1,0 +1,13 @@
+{{武器
+|name=利石
+|english_name=Halfling sharpstones (10)
+|category=弹药
+|wcat=弹药
+|price=1 gp
+|weight=5磅
+|dmg_s=1d3
+|dmg_m=1d4
+|type=穿刺或挥砍
+|description=这种特别设计的弹丸表面布满尖刺和锯齿状的棱脊，外面裹着一层薄薄的烧制黏土。熟练的使用者知道如何敲裂黏土层（[[自由动作]]），使其在发射时从尖刺或棱脊上剥落，从而造成穿刺或挥砍伤害。
+|source=格拉利昂的半身人
+}}

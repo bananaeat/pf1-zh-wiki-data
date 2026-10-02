@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Tyrant's Grasp Player's Guide pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=悲观者
+|english_name=The Pessimist
+|type=战役
+|pfs=否
+|description=你总是预料最坏的结果，而且很少失望。你的阴郁心态也许源自当年扭钉部落对罗斯拉尔之匣的毁灭，也许源自信徒被逐出附近的[[塞恩蕾]]神殿，又或者源自某些更私人的不幸，但它让你在大多向前看的终焉之墙民众中显得与众不同。你坚信最坏的结果终会发生，这让你的意志豁免获得+1背景加值。你那令人恼火的悲观能激得朋友们为了跟你赌气而取得成功：每天一次，你可以用一个自由动作，迫使30尺内一名盟友重骰她刚刚失败的一次豁免检定，并取两次结果中较好的一个。
+|source_name=Tyrant's Grasp Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=The%20Pessimist
+}}

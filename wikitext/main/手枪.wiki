@@ -1,0 +1,21 @@
+{{武器
+|name=手枪
+|english_name=Pistol
+|category=火器
+|prof=异种
+|wcat=单手
+|price=1,000 gp
+|weight=4磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×4
+|range=20尺
+|type=钝击和穿刺
+|misfire=1（5尺）
+|capacity=1
+|groups=火器
+|description=手枪是最常见的火器之一，但是在大多数战役里，它仍然稀有到足以引起众人的羡慕或好奇。因此手枪的设计多姿多彩，从装点奢华的喷火龙型杰作，到更常见的木柄手枪，甚至单纯只是一根带击发装置的金属管。
+
+手枪的弹药为1颗弹头加1份黑火药，或1发炼金定装弹。这是一件早期火器。
+|source=极限战斗、极限宝具
+}}

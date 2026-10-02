@@ -1,0 +1,11 @@
+{{Feat
+|name=时髦法术熟稔
+|english_name=Stylized Spell Mastery
+|description=你对若干法术的理解已因你的风格化施法而被改变。
+|prerequisites=[[法术熟稔]]、[[时髦法术]]、唬骗5级、法术辨识5级
+|benefit=当你将时髦法术超魔专长套用于你通过[[法术熟稔]]掌握的法术时，无需提高其所占用的法术位。
+|normal=时髦法术所套用的法术会占用比原法术高1级的法术位。
+|source=ISI
+|source_name=内海诡道
+|source_url=https://pf1chm.pages.dev/topics/zhf893b0dd41.htm
+}}

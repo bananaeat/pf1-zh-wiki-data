@@ -1,0 +1,11 @@
+{{Feat
+|name=部落冲锋
+|english_name=Horde Charge
+|categories=团队
+|description=与盟友一同冲锋使你更加致命。
+|prerequisites=基本攻击加值+1，半兽人或兽人。
+|benefit=当你与同样拥有该专长的盟友在同一轮冲锋时，在冲锋获得的正常加值之外，你的攻击检定以及伤害检定均会获得额外+2加值。如果你能够在冲锋时进行多次攻击，那么该加值只应用于初次攻击。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

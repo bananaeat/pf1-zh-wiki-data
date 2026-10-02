@@ -1,0 +1,12 @@
+{{Feat
+|name=纯种
+|english_name=True Breed
+|pfs=否
+|description=你的双重血统使你成为不仅仅是你父母种族的混合体。
+|prerequisites=两个亚种，精灵血脉或兽人血脉种族特性。
+|benefit=在判断所有基于亚种的效果时（例如游侠的宿敌和破敌武器），你不被视作任何你的亚种，在判断与种族相关的效果时你也不被视作你父母的种族。
+|extra=本条翻译致谢 犭良人。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

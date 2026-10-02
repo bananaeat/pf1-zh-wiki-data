@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=信号兵
+|english_name=Signaler
+|type=地区
+|prerequisites=摩尔苏恩
+|description=通过观察帝国军队，你学会了如何使用旗帜、烟雾信号及其他方法传递秘密讯息。你为接收秘密讯息而进行的[[唬骗]]检定获得+5背景加值，为截获讯息而进行的[[察言观色]]检定获得+5背景加值。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Signaler
+}}

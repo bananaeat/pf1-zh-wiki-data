@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|极限荒野|Ultimate Wilderness}}
+'''曦破'''（Positive Blast, Sp）是[[操念使]]的[[原力]]。
+
+元素：木；类别：简易念袭（Sp）；等级：－；超载：0
+
+念袭性质：能量；伤害类型：正能量
+
+你使用正能量攻击你的敌人。曦破及其复合念袭所造成的正能量伤害只会伤害不死生物以及其他会被正能量伤害的生物。它不会治疗生物，即使该生物会被正能量所治疗；但是它会对作祟造成伤害，并对虚体不死生物造成全额伤害。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Positive Blast|2=Positive Blast}}
+
+[[分类:原力]]

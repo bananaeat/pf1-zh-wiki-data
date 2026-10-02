@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Bastards of Golarion pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=市井之交
+|english_name=Friends in Low Places
+|type=社会
+|description=边缘人认得自己人，这份认同能为你打开门路，也能让人松口。在下层街区（例如罪恶窝点和贫民区）收集信息只需花费你1d2小时（而非1d4小时）。此外，与你打交道的任何穷困潦倒的非玩家角色，其初始态度都向乐于帮助靠近一级。
+|source_name=格拉利昂的混种
+|source=BoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Friends%20in%20Low%20Places
+}}

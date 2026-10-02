@@ -1,0 +1,11 @@
+{{Feat
+|name=铁之身
+|english_name=Tough as Iron
+|pfs=否
+|description=你拥有的天然防护力极为强悍
+|prerequisites=灰矮人，健壮
+|benefit=当你在防御等级的天生护甲上获得增强加值时，这些加值额外+2。如果你的天生护甲为+0或是没有任何增强加值的话，本专长无效。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1401.html
+}}

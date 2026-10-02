@@ -1,0 +1,9 @@
+{{装备
+|name=枫糖（一罐）
+|english_name=Maple syrup (jar)
+|cat=饮食
+|price=1 gp
+|weight=1/2磅
+|description=这种甜浆取自早春时节对枫树的采汁，只放出一部分树液。树液经熬煮浓缩成糖浆，有时还会进一步熬稠，再浇在雪上，做成一种类似太妃糖的糖果，称为雪糖。
+|source=极限宝具
+}}

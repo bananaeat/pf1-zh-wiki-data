@@ -1,0 +1,12 @@
+{{Feat
+|name=能力掌握
+|english_name=Ability Mastery
+|categories=物品掌握
+|pfs=否
+|description=你能用变化系魔法物品增强你天生的能力。
+|prerequisites=使用魔法装置技能3级，基础强韧豁免加值+4
+|benefit=每天一次，你可以花费10分钟将你的思维集中在一套[[魔法护甲]]或者一件制造条件中列有2环或更高环数变化系法术的占用你身体装备栏位的[[奇物]]中。当你结束冥想时，你在你选择的属性值上获得+2增强加值。这个效果持续24小时。你必须穿着这件物品才能获得这个好处；如果这个物品在该专长效果结束前被移除，则这个效果会马上消失，而且无法被重新获得，直到该专长最后一次启动的24小时后。你一次只能从该专长获得一次好处。
+|source=MTT、MagicTT
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_325.html
+}}

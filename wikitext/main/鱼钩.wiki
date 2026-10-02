@@ -1,0 +1,9 @@
+{{装备
+|name=鱼钩
+|english_name=Fishhook
+|cat=冒险装备
+|price=1 sp
+|weight=—
+|description=这只金属钩不过是一根硬挺的弯针。
+|source=核心规则书、极限宝具
+}}

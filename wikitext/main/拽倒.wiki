@@ -1,0 +1,12 @@
+{{Feat
+|name=拽倒
+|english_name=Drag Down
+|categories=战斗
+|description=当你摔倒时，你反射性地拖着你的对手一起倒下。
+|prerequisites=智力13，[[寓守于攻]]，精通摔绊。
+|benefit=每当一个敌人成功的[[摔绊]]了你，你可以立刻用[[直觉动作]]对其进行一次摔绊尝试。
+|stamina=即使能力不满足前提（13智力），只要耐力池依然有1点耐力就可以使用该专长。如果你以此专长摔绊的CMB检定超过对方CMD 10点，只要花费5点耐力就可以立刻从倒地状态站起并不受借机攻击。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

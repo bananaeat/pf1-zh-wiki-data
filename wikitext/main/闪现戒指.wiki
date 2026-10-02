@@ -1,0 +1,14 @@
+{{魔法物品
+|name=闪现戒指
+|english_name=Ring of Blinking
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Blinking
+|cat=戒指
+|aura=中等变化系
+|cl=7
+|slot=戒指
+|price=27,000 gp
+|description=以命令激活时，这枚[[魔法物品#戒指|戒指]]会使穿戴者闪现，如同法术[[闪现术]]。
+|req=[[锻造戒指]]、[[闪现术]]
+|cost=13,500 gp
+|source=核心规则书、极限宝具
+}}

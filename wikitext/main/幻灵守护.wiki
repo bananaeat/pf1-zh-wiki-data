@@ -1,0 +1,10 @@
+{{Feat
+|name=幻灵守护
+|english_name=Defending Eidolon
+|description=你训练你的[[幻灵]]保护你。
+|prerequisites=【幻灵护体】职业特性。
+|benefit=当你临近你的幻灵时，你可以选择幻灵在近战攻击和[[战技]]上获得-1的罚值，使你在AC上获得+1闪避加值。当你的幻灵的BAB达到+5并且之后每+5时，罚值再-1，并且闪避加值再+1。你必须在你的幻灵使用近战武器或天生武器，发动近战攻击或者[[全力攻击]]时选择使用这个专长，其效果持续到你幻灵的下个回合或者你和幻灵不再相邻，以先发生的为准。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

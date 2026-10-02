@@ -1,0 +1,15 @@
+{{魔法物品
+|name=华丽制服
+|english_name=Resplendent Uniform Coat
+|aon=MagicWondrousDisplay.aspx?FinalName=Resplendent Uniform Coat
+|cat=奇物
+|aura=微弱惑控系
+|cl=5
+|slot=胸部
+|price=7,000 gp
+|weight=5磅
+|description=这件羊毛长外套通常由军事指挥官穿在轻甲外面。拥有[[骑士#战术|战术]]能力的[[骑士]]，每天可以多使用该能力1次，并且其战术能力影响的是60尺内而非30尺内的盟友。
+|req=[[制造奇物]]、[[英雄气概]]
+|cost=3,500 gp
+|source=极限宝具
+}}

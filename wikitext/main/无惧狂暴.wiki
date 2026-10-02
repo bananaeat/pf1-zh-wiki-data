@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=无惧狂暴
+|english_name=Fearless Rage
+|type=Ex
+|categories=防御
+|prerequisites=野蛮人12级
+|benefit=当狂暴时，野蛮人免疫[[战栗]]与惊惧效果。
+|unchained=无畏狂暴
+|source_name=核心规则书
+}}

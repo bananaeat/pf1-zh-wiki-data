@@ -1,0 +1,10 @@
+{{Trait
+|name=至高天神使信徒
+|english_name=Empyreal Cultist
+|type=地区
+|prerequisites=瓦瑞西亚-玛格尼玛城
+|description=
+你对[[至高天神使]]——一群善良的半神——的信仰，以及对传说中的阿文索亚天使的迷恋，让你时刻期待着天界使者的降临。选择一位至高天神使作为你的守护神。你获得天界语作为奖励语言，并在与善良阵营的类人生物交往时，在交涉检定上获得+1背景加值。
+|source_name=瓦瑞西亚，传说诞生之地
+|source_url=https://pf1chm.pages.dev/topics/zh1d5e5ac9bb.htm
+}}

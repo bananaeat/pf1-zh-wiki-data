@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''天候之主'''（Weather Master, Sp）是[[操念使]]的[[原力]]。
+
+元素：气；类别：通用（Sp）；等级：8；超载：0
+
+通过花费10分钟集中精力专注于空气并向着你的周围输送气流，你能够创造出强大的天气效果，就如同[[操控天气]]一般。你能够视当前的季节而创造出龙卷风或飓风。若你有权使用火元素，便可以创造出热天气、热浪、回暖或早春。若你有权使用水元素，便能够创造出操控天气中列出的所有其他类型的天气。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Weather Master|2=Weather Master}}
+
+[[分类:原力]]

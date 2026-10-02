@@ -1,0 +1,46 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=巨蜻蜓若虫
+|english_name=Giant Dragonfly Nymph
+|cr=3
+|xp=800
+|alignment=绝对中立
+|size=小型
+|type=虫类
+|subtypes=水栖
+|init=+1
+|senses=黑暗视觉 60 尺；察觉 +1
+|ac=15，接触 12，措手不及 14（+1 敏捷，+3 天生，+1 体型）
+|hp=32（5d8+10）
+|fort=+6
+|ref=+2
+|will=+2
+|immune=影响心灵效果
+|speed=10 尺，游泳 30 尺
+|melee=啮咬 +6（2d6+3）
+|space=5 尺
+|reach=5 尺（啮咬 10 尺）
+|special_attacks=伸缩颚
+|str=15
+|dex=13
+|con=14
+|int=–
+|wis=12
+|cha=5
+|bab=+3
+|cmb=+4
+|cmd=15（对抗摔绊 23）
+|skills=[[隐匿]] +5（浅水中 +13）;[[游泳]] +10
+|racial_mods=+8 隐匿（浅水中）
+|environment=温带或温暖水域
+|organization=单独，成对，或一窝（3–8）
+|treasure=偶有
+|special_abilities={{怪物能力|伸缩颚|Ex|巨蜻蜓若虫能以惊人的速度伸出下颚。这不仅延长了若虫啮咬攻击的触及，而且在突袭轮中，若虫的啮咬攻击检定获得 +4 加值。}}
+|source=怪物图鉴2
+|family=巨蜻蜓
+|lore=
+[[巨蜻蜓]]在沼泽地带或死水区域产下成窝的卵。它们的幼体称为若虫，会贪婪地吞食腐肉和小型猎物，迅速生长成熟，直到长出功能完备的翅膀，变成成年的蜻蜓。
+}}
+
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Giant Dragonfly Nymph|2=Giant Dragonfly Nymph}}

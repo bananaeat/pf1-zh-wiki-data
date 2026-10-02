@@ -1,0 +1,9 @@
+{{Trait
+|name=威吓野兽
+|english_name=Beast Bully
+|type=种族
+|prerequisites=[[魔裔]]
+|description=当自然界的生物察觉到你灵魂中的黑暗时，你明白如何利用它们所感受到的恐惧。当你试图驾驭或逼迫动物时，能够使用威吓检定代替[[驯养动物]]检定。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_834.html
+}}

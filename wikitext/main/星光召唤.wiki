@@ -1,0 +1,10 @@
+{{Feat
+|name=星光召唤
+|english_name=Starlight Summons
+|description=你所召唤的生物潜伏于星光的阴影之下。
+|prerequisites=[[法术专攻]]（咒法），能够施展‘召唤自然盟友’。
+|benefit=你召唤的生物获得[[盲斗]]专长，在昏暗或者黑暗情况下的察觉检定和隐匿检定获得+5加值，并且他们的天生武器在克服伤害减免时视为{{材料|寒铁}}武器。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

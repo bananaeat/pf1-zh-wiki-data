@@ -1,0 +1,10 @@
+<noinclude>{{炼金术师导航}}
+'''水银脂'''（Mercurial Oil）是[[炼金术师]]的[[科研发现]]，属于[[圣油]]。
+
+</noinclude>{{Source|秘术选集|Arcane Anthology|inline}}
+
+这种闪闪发光的银色液体渗入金属的魔法武器或盔甲并暂时液化其内部。受影响的武器因重心在摇晃中外移而获得动量，造成伤害如同比实际大一级的武器。受影响的盔甲抵抗冲击并提供穿戴者DR 2/—。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zha3711e95a1.htm 原文]）。全部科研发现见 [[:分类:科研发现|分类:科研发现]]。
+
+[[分类:科研发现]]</noinclude>

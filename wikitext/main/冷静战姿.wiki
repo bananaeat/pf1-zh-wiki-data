@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=冷静战姿
+|english_name=Calm Stance
+|type=Ex
+|class=掉链野蛮人
+|benefit=野蛮人可以进入一种平静状态，当处于这种战姿时，野蛮人不会获得临时生命值以外的狂暴增益，但是她也不会受到任何狂暴减益（包括AC减值和可采用的动作限制）。保持在冷静战姿中的轮数计入每日的狂暴轮数。该狂暴之力是一种战姿。
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

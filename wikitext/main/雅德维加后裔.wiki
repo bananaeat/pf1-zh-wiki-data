@@ -1,0 +1,10 @@
+{{Trait
+|name=雅德维加后裔
+|english_name=Jadwiga Scion
+|type=种族
+|prerequisites=[[人类]]（雅德维加人）
+|description=你来自一个受人敬重的家族。
+|benefit=你的威吓检定+1背景加值，且威吓始终是你的[[本职技能]]。此外，你在与伊利森贵族相关的知识(贵族)检定上+1背景加值。
+|source_name=北地居民
+|source_url=https://pf1chm.pages.dev/topics/zh63296b3929.htm
+}}

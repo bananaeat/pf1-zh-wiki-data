@@ -1,0 +1,13 @@
+{{Feat
+|name=多重攻击
+|english_name=Multiattack
+|categories=战斗
+|pfs=否
+|description=这个生物精于利用自己的天生武器进行攻击。
+|prerequisites=三次或更多天生武器攻击。
+|benefit=生物的次要天生武器攻击仅在攻击上承受-2减值。
+|normal=若无此专长支持，生物的次要天生武器攻击在攻击投骰上将承受-5减值。
+|source=B1
+|source_name=怪物图鉴
+|source_url=https://pf1chm.pages.dev/topics/page_201.html
+}}

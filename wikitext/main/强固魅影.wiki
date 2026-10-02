@@ -1,0 +1,10 @@
+{{Feat
+|name=强固魅影
+|english_name=Phantom Fortification
+|description=即便你的魅影完全显化为灵质态，它仍旧能在某种程度上具有无形的特质。
+|prerequisites=[[魅影]]职业能力，魅影具有幽魂飞行能力
+|benefit=当你的魅影完全以灵质态显形时，它有50%的概率忽略重击以及基于精准的伤害，就如同佩戴了具有中度护命[[特殊能力]]的护甲一般。该能力不会与其他类似的效果叠加，而且在对抗幽冥武器或力场构成的武器（比如[[金刚拳]]、[[法师之剑]]、或[[灵能武器]]法术）做出的攻击时不会生效。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

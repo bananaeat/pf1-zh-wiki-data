@@ -1,0 +1,9 @@
+{{Trait
+|name=隐刃手
+|english_name=Hidden Hand
+|type=战斗
+|description=你的暗藏武器出击迅速而准确。你在隐藏轻型武器的[[巧手]]检定、以及在[[突袭]]轮使用轻型武器的攻击检定获得+1背景加值。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

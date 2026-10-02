@@ -1,0 +1,20 @@
+{{魔法物品
+|name=多彩艾恩石
+|english_name=Iridescent Spindle Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun Stone Iridescent Spindle
+|cat=艾恩石
+|aura=强烈（学派不定）
+|cl=12
+|slot=无
+|price=18,000 gp
+|description='''形状'''：纺锤
+
+'''效果'''：可以让使用者无需空气也可以维持生命。
+
+'''共振'''（放入[[寻路仪]]时）：穿戴者获得持续的[[忍受环境]]效果，并且因暴露于真空和水压受到的伤害减半。
+
+艾恩石的通用规则（启动、环绕飞行、抓取，以及AC、硬度）见[[艾恩石]]。
+|req=[[制造奇物]]，制造者必须已经12级
+|cost=9,000 gp
+|source=核心规则书、极限宝具、冒险者指南
+}}

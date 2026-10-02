@@ -1,0 +1,10 @@
+{{Feat
+|name=通才
+|english_name=Dilettante
+|description=别人称之为浅尝辄止，你称之为涉猎广泛。你在知识上的广度在很多情况下提供了意想不到的洞察力。
+|prerequisites=在5个不同的知识技能上各有2级
+|benefit=如果你在某个知识技能上有1-5级，则你在那个知识检定上获得+2加值。这个加值不与[[技能专攻]]叠加。你可以在DC最高为15的未受训知识上做检定。
+|normal=你只能在DC最高为10的未受训知识上做检定。
+|source_name=秘密探寻者
+|source_url=https://pf1chm.pages.dev/topics/zhacae0aeb2c.htm
+}}

@@ -1,0 +1,16 @@
+{{Spell
+|name=盘蛇紧缠
+|english_name=Constricting coils
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=先知 5;奥能师 5;战斗祭司 5;术士 5;法师 5;牧师 5
+|action=标准动作
+|components=语言;姿势;材料/圣徽（一块蛇皮）
+|range=中距
+|target=一个活着的生物
+|duration=1 轮/等级（可解消）；见下文
+|save=意志，通过则无效；见下文
+|sr=是
+|description=该法术如同[[怪物定身术]]一般运作，但目标会像被巨蛇缠绕一样受到束缚，每一轮豁免失败则受到 1d6+6 点钝击伤害。豁免成功后，[[麻痹]]和紧勒效果都将结束。
+|source=冒险之路42：蛇神圣所
+}}

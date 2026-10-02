@@ -1,0 +1,10 @@
+{{Trait
+|name=自负
+|english_name=Vain
+|type=缺陷
+|pfs=否
+|description=你对他人态度非常敏感。
+|benefit=每当你在基于魅力的对抗检定上失败，你在接下来的24小时内所有基于魅力的检定都获得-2罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

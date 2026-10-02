@@ -1,0 +1,9 @@
+{{Trait
+|name=秘密卷册
+|english_name=Secret Scrolls
+|type=魔法
+|description=你曾被引入某个秘密的魔法传统，例如巴拉丁之眼秘会。你可以施展[[阅读魔法]]，每日一次作为类法术能力，并且在使用你不能正常使用的卷轴的[[使用魔法装置]]检定上得到+1背景加值。
+|source_name=魔法背景
+|source=SH
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

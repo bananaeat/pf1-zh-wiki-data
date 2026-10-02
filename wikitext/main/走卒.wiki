@@ -1,0 +1,9 @@
+{{Trait
+|name=走卒
+|english_name=Underling
+|type=种族
+|prerequisites=[[魔裔]]
+|description=人们总是假设你已经、或者将要成为邪恶阴谋或密谋反叛的小齿轮。当你使用唬骗或交涉检定参加或暗示你已经属于某个邪恶组织时，获得+2背景加值。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_834.html
+}}

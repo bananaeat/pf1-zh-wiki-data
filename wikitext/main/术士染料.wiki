@@ -1,0 +1,14 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=术士染料
+|english_name=Sorcerous Pigments
+|aon=MagicWondrousDisplay.aspx?FinalName=Sorcerous Pigments
+|cat=奇物
+|aura=强烈塑能系
+|cl=12
+|price=9,900 gp
+|description=这套魔法颜料装在三个小陶罐里，分别盛着蓝、黄、红三种不同的颜色。你可以用术士染料把法术储存在一幅画中，并设定触发这些法术的特定条件。要成功储存每个法术，你必须通过一次DC 10+法术环位的[[工艺]]（绘画）检定。检定失败时，该法术以及本应用掉的术士染料都会浪费。一套术士染料最多可以“绘制”12环的法术。
+|req=[[制造奇物]]、[[触发术]]
+|cost=36,000 gp、1,440 XP
+|source=邪恶画廊
+}}

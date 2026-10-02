@@ -1,0 +1,11 @@
+{{Feat
+|name=激流冲压
+|english_name=Riptide Attack
+|categories=战斗
+|description=你的成功摔绊攻击会立刻附加一次拖拽对手的运动。
+|prerequisites=信仰格兹雷，[[精通拖拽]]，精通摔绊
+|benefit=当你成功的发动一次摔绊[[战技]]攻击时，你可以以一个[[迅捷动作]]，自动再对目标进行一次拖拽战技攻击尝试。
+|source=FoP/FoB/FoC、ISG
+|source_name=纯善／平衡／堕落信念、内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}

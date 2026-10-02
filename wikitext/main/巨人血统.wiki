@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Giantslayer Player's Guide pg. 6, Giant Hunter's Handbook pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=巨人血统
+|english_name=Giant-Blooded
+|type=战役
+|pfs=否
+|description=你的家族一直被传言困扰，说在某个时候家族血脉中混进了一点巨人的血。无论这是源于炼金或魔法实验，还是因为你的曾曾祖父娶了一个巨人，这都让你在你的种族中显得人高马大，还可能让你拥有巨人的一些其他细微外貌特征，例如火红的头发、略带蓝色的皮肤或是过大的手。当你挥舞比你的体型更大的武器时，使用尺寸不合适的武器而受到的攻击检定减值减半。此外，对抗可怖殴击战技时，你的战技防御获得+2背景加值。如果你是矮人，你的稳定种族特性也适用于可怖殴击战技。
+|source_name=Giantslayer Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Giant-Blooded
+}}

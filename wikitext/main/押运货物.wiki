@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Serpent's Skull Player's Guide pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=押运货物
+|english_name=Get the Cargo Through
+|type=战役
+|pfs=否
+|description=海上贸易从来都不安全，即便在内海交通繁忙的水域也是如此，而前往埃勒德的航路更是凶险。被称为阿班德果之眼的永不止息的飓风每年都会把数以百计的船只吹离航线、吹上嶙峋的礁石，或直接送入海底。在风暴另一侧，以镣铐群岛为据点的海盗正等着从那些幸运地穿过或绕过风暴的船只上夺取货物。你的任务是确保珍妮维尔号上的一批珍贵货物安全抵达埃勒德——这批货物是什么，以及你与它是什么关系，由你和你的GM决定。你的角色作为商人或佣兵的经历为她挣得了可观的收入，你开始战役时的起始财富额外增加300 gp。
+
+拥有这个背景特性的角色很可能是在玛格尼玛、寇兰庭、伊兹玛格罗提、亡命港或血湾港登船的。
+|source_name=Serpent's Skull Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Get%20the%20Cargo%20Through
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=太阳力量
+|english_name=Strength of the Sun
+|type=宗教
+|prerequisites=[[塞恩蕾]]
+|description=你在使人净化的阳光中寻求慰藉。白天期间你在所有基于魅力的检定获得+1背景加值。
+|source_name=内海诸神
+|source=Inner Sea Gods
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

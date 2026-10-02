@@ -1,0 +1,11 @@
+{{武器
+|name=银弹头
+|english_name=Firearm bullet, silver
+|category=火器
+|prof=异种
+|wcat=弹药
+|price=25 gp
+|weight=—
+|description=这种弹药专门用银制成。它虽然没有魔法，但对兽化人尤其有害，对这类生物的重击威胁自动确认。发射银弹头的火器，伤害检定受到-1减值（最低为1点伤害）。
+|source=极限战斗
+}}

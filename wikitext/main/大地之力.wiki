@@ -1,0 +1,9 @@
+{{Trait
+|name=大地之力
+|english_name=Strength of the Land
+|type=魔法
+|prerequisites=[[矮人]]
+|description=你可以汲取地脉的力量以粉碎较弱的魔法。当你触碰大地或者未被加工的石头时，你在施法者等级检定上获得+1背景加值，包括解除检定和克服[[特殊能力#法术抗力|法术抗力]]的检定。
+|source_name=格拉里昂的矮人
+|source_url=https://pf1chm.pages.dev/topics/page_1586.html
+}}

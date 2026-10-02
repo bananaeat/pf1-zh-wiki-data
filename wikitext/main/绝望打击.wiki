@@ -1,0 +1,16 @@
+{{Feat
+|name=绝望打击
+|english_name=Desperate Swing
+|categories=战斗
+|description=你在绝望下进行了最有效的攻击。
+|prerequisites=[[谨慎战斗]]，基本攻击加值+1，半身人。
+|benefit=每天1次，你能在一次单独的近战攻击时进行完[[全防御]]动作。你在做这次攻击时攻击检定受到额外-4惩罚。此外，你在使用此专长、且是在防御式战斗中或进行[[借机攻击]]时，重击确认骰获得+4加值。
+|stamina=每花费5点耐力你可以每日多使用一次该专长。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[意外伤害]]（1 个条目）

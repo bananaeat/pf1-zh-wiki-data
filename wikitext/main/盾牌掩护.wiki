@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[盾牌掩护 (神话)]]。</small></div>
+{{Feat
+|name=盾牌掩护
+|english_name=Saving Shield
+|categories=战斗
+|description=你能够偏转可能意味着盟友死亡的攻击。
+|prerequisites=擅长盾牌。
+|benefit=当你邻近的一名盟友成为一次攻击的目标，你能够以[[直觉动作]]使这位相邻盟友的AC获得+2盾牌加值。你必须持用[[轻型盾牌]]、[[重型盾牌]]或者[[塔盾]]才能使用该专长。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

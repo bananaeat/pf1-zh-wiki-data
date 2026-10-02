@@ -1,0 +1,15 @@
+{{魔法物品
+|name=原初荒野便鞋
+|english_name=Slippers of the Primordial Wilds
+|aon=MagicWondrousDisplay.aspx?FinalName=Slippers of the Primordial Wilds
+|cat=奇物
+|aura=中等咒法系
+|cl=9
+|slot=脚部
+|price=24,000 gp
+|weight=1/2磅
+|description=这种精致柔软的便鞋由巨伞钟报春的花瓣制成。穿戴者无法被人凭气味追踪，也无法以气味探测到。每天两次，当穿戴者一只脚踏在一种地形、另一只脚踏在另一种地形上（例如洞穴口、海岸或森林边缘）时，若穿戴者是伽瑟兰，可以说出命令字，如同[[异界传送]]一般移动到主物质位面或第一世界。
+|req=[[制造奇物]]、[[异界传送]]
+|cost=12,000 gp
+|source=极限荒野
+}}

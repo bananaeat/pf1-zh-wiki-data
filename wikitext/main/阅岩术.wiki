@@ -1,0 +1,10 @@
+{{Feat
+|name=阅岩术
+|english_name=Stone Read
+|description=岩石的轻响和位移对你来说如贯耳警钟。
+|prerequisites=在知识（地城）上拥有4个等级
+|benefit=在地下与山地地形中，你在察觉检定上拥有+3加值。如果你在知识（地城）上拥有10个或更多等级，此加值上升到+6。
+|source=FoP/FoB/FoC、ISG
+|source_name=纯善／平衡／堕落信念、内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}

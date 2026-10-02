@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=动物训练权杖
+|english_name=Rod of Animal Training
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Animal Training
+|cat=权杖
+|aura=中等惑控系
+|cl=9
+|slot=无
+|price=12,300 gp
+|weight=5磅
+|description=这根青铜节杖的杖首形如一头咆哮着向前扑跃的狮子。当没有[[驯养动物]]技能等级的生物持握它时，权杖使持用者能够教授任何智力为1或2的动物把戏，就如同持用者受过该技能的训练一样。无论动物训练权杖的持用者是否拥有驯养动物的等级，她在为教授动物把戏或为一般用途训练动物而进行的驯养动物检定中都获得+5表现加值，并且每天3次可以以类法术能力使用[[魅惑动物]]（DC 11）。
+|req=[[制造权杖]]、[[魅惑动物]]
+|cost=6,150 gp
+|source=动物档案
+}}

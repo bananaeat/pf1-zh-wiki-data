@@ -1,0 +1,13 @@
+{{危害
+|name=标枪陷阱
+|english_name=Javelin Trap
+|kind=陷阱
+|trap_type=机械
+|cr=2
+|perception=DC 20
+|disable=DC 20
+|trigger=位置型
+|reset=无
+|effect=远程攻击 +15（1d6+6）
+|source=核心规则书
+}}

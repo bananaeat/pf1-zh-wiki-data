@@ -1,0 +1,10 @@
+{{Feat
+|name=讨喜吉祥物
+|english_name=Mascot's Affection
+|description=你的魔宠能够与许多生物产生联系。
+|prerequisites=必须具有使用了吉祥物变体的魔宠
+|benefit=你的魔宠的最高队伍成员数量增加2名。
+|source=FF
+|source_name=魔宠手记
+|source_url=https://pf1chm.pages.dev/topics/page_491.html
+}}

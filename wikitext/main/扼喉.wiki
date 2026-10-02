@@ -1,0 +1,16 @@
+<noinclude>{{速查导航|here=规则}}
+'''扼喉'''（Smother）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：特殊攻击</span></div>
+</noinclude><includeonly><div class="lang"><span id="扼喉"></span><div class="lang-h"><b>[[扼喉]]</b><i>Smother</i><span class="lang-w">Ex · 特殊攻击</span></div><div class="lang-d"></includeonly>
+若生物擒抱住的敌人正在屏住呼吸，怪物能够强迫敌人排出或消耗它呼吸的气体，或者以其他方式缩短目标在必须进行检定以避免窒息之前所剩的时间。
+
+如果怪物对该敌人的擒抱检定成功，那么敌人能够屏息的剩余时间会减少 1d6 轮。如果这使得该生物能够屏息的剩余时间减少至 0 轮或者更少，那么它的窒息检定 DC 会增加 5 点。例如：如果怪物擒抱住的生物在需要进行窒息检定之前还有 10 轮时间，那么成功的擒抱检定会使这段时间减少 1d6 轮。
+
+若怪物有其他能力（比如[[紧勒]]）可以在擒抱检定成功时伤害敌人，那么当它为使用那项能力而擒抱检定成功时，可以自动使用扼喉能力。
+
+'''格式'''：扼喉
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Smother|2=Smother}}
+
+[[分类:通用怪物规则]]</noinclude>

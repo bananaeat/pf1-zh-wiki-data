@@ -1,0 +1,11 @@
+{{Feat
+|name=龙之心
+|english_name=Dragonheart
+|categories=战斗
+|description=你对龙类的熟悉使你更易抵抗他们的能力。
+|prerequisites=知识（奥秘）1级
+|benefit=你在对抗龙类生物的灵光效果，喷吐武器，类法术能力，法术，超自然能力和其他特殊能力时，在所有豁免上获得+1加值。
+|source=DH
+|source_name=屠龙者手册
+|source_url=https://pf1chm.pages.dev/topics/page_820.html
+}}

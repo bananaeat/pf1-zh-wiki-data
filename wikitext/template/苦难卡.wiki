@@ -1,0 +1,9 @@
+<includeonly><div class="aff"><div class="aff-h"><b>{{{名称}}}</b>{{#if:{{{类型|}}}|<span class="aff-t">{{{类型}}}</span>}}{{#if:{{{价格|}}}|<span class="aff-p">{{{价格}}}</span>}}</div><div class="aff-b">{{#if:{{{DC|}}}|<span><i>强韧DC</i>{{{DC}}}</span>}}{{#if:{{{豁免|}}}|<span><i>豁免</i>{{{豁免}}}</span>}}{{#if:{{{潜伏|}}}|<span><i>潜伏</i>{{{潜伏}}}</span>}}{{#if:{{{频率|}}}|<span><i>频率</i>{{{频率}}}</span>}}{{#if:{{{效果|}}}|<span><i>效果</i>{{{效果}}}</span>}}{{#if:{{{痊愈|}}}|<span><i>痊愈</i>{{{痊愈}}}</span>}}</div></div></includeonly><noinclude>
+[[特殊能力]] 里范例苦难（目前是毒药）的小卡，字段和毒药条目页上的 <code><nowiki>{{物品}}</nowiki></code> 卡一一对应。
+
+ {{苦难卡|名称=[[砒霜]]|类型=摄入|DC=13|潜伏=10分钟|频率=1次/每分钟，共4分钟|效果=1d2体质|痊愈=1豁免|价格=120 gp}}
+
+诅咒的豁免不是一个 DC 能装下的（「强韧DC 17免除，意志DC 17减免部分」），那种用 <code>豁免=</code>；毒药那种只有一个数的用 <code>DC=</code>。空着的格子自动不显示。放在 <code><nowiki><div class="aff-grid"></nowiki></code> 里会排成两列。
+样式在 [[MediaWiki:Common.css]] 的「规则正文页」一节。
+[[分类:模板]]
+</noinclude>

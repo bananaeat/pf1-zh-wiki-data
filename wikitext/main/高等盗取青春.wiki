@@ -1,0 +1,15 @@
+{{Spell
+|name=高等盗取青春
+|english_name=Steal years, greater
+|school=变化系
+|levels=先知 5;奥能师 5;女巫 5;德鲁伊 5;战斗祭司 5;术士 5;法师 5;牧师 5;猎人 5
+|action=标准动作
+|components=语言;姿势;材料（一把灰烬）
+|range=接触
+|target=被接触到的生物
+|duration=1天/等级
+|save=强韧，通过则无效
+|sr=是
+|description=此法术如同[[窃取流年]]般作用，除了你每两个施法者等级吸取1d6年（最大10d6）。
+|source=夜之血脉
+}}

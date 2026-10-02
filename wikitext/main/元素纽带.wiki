@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Monster Summoner's Handbook pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=元素纽带
+|english_name=Elemental Ties
+|type=地区
+|prerequisites=奥西里昂
+|description=与元素生物打交道对你来说是家常便饭。与元素类型的生物打交道时，你的[[交涉]]检定获得+1背景加值；此外，你在游戏开始时额外掌握以下语言之一作为奖励语言：水族语、风族语、火族语或土族语。
+|source_name=怪物召唤者手册
+|source=MSH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Elemental%20Ties
+}}

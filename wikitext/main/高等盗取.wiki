@@ -1,0 +1,12 @@
+{{Feat
+|name=高等盗取
+|english_name=Greater Steal
+|categories=战斗
+|description=你懂得在战斗中从敌人那里扒窃道具的窍门。
+|prerequisites=智力13，[[寓守于攻]]，[[精通盗取]]，基本攻击加值+6。
+|benefit=你所实行的[[盗取]][[战技]]检定获得+2加值。这个加值与[[精通盗取]]提供的加值叠加。如果你成功在战斗中从敌人身上盗取一件物品，那么他直至战斗结束或者尝试使用这件丢失的物品前不会察觉这件事情。
+|normal=被盗取战技检定取走物品的生物会自动察觉这点。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

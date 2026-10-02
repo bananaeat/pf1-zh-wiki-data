@@ -1,0 +1,10 @@
+<noinclude>{{侠客导航}}
+'''漩涡飞溅'''（Vortex Splash, Ex）是[[侠客]]的[[侠客天赋]]。
+
+</noinclude>{{Source|废土子民|People of the Wastes|inline}}
+
+效果：当下雨时或者处于及腰深的水中，侠客可以用[[整轮动作]]做出一次旋转打击，这允许他进行1次[[阴招]]APG[[战技]]检定或者[[虚招]]来对抗每个邻接的敌人。侠客可以为每个敌人做出不同的选择。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh62263cd083.htm 原文]）。全部侠客天赋见 [[:分类:侠客天赋|分类:侠客天赋]]。
+
+[[分类:侠客天赋]]</noinclude>

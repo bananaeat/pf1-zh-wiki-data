@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|格拉利昂的英雄|Heroes of Golarion}}
+'''创新火花'''（Spark of Innovation, Sp）是[[操念使]]的[[原力]]。
+
+元素：土；类别：通用（Sp）；等级：5；超载：0
+
+前置：[[轰钢]]
+
+你将金属塑成发条生物，如同[[生命闪烁]]，除了你召唤一个发条土元素。该元素属于构装体（发条亚种），且获得构装体特性和发条亚种特性取代元素特性。该生物不具备它通常拥有的任何类法术能力和超自然能力。若你掌握[[高等元素低语]][[通用原力]]，则你可以获得一只发条魔宠作为[[进阶魔宠]]，取代土元素。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Spark of Innovation|2=Spark of Innovation}}
+
+[[分类:原力]]

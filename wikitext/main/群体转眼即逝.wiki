@@ -1,0 +1,16 @@
+{{Spell
+|name=群体转眼即逝
+|english_name=Fleeting memory, mass
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=吟游诗人 6;歌者 6;奥能师 8;术士 8;法师 8
+|action=标准动作
+|components=语言
+|range=近距
+|target=一个生物/等级，任两者之间不得超过30尺
+|duration=1轮/等级 (可解消)
+|save=意志，通过则部分生效
+|sr=是
+|description=此法术如同[[转眼即逝]]一般作用，不过它能影响复数生物。
+|source=黑市指南
+}}

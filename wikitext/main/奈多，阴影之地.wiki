@@ -1,0 +1,52 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Nidal, Land of Shadows
+|authors=Liane Merciel
+|pages=64
+}}
+
+{{书页/简介|head=锁在阴影里的国度|1=
+一万年前，面临灭绝的惊恐的奈多领袖们在脑海中听到了低语——承诺只要他们把子民的身体与灵魂献出，永世为奴，就能拯救他们的国家。领袖们的应允把他们变成了嫉妒与痛苦之神[[宗-库松]]的导管，并把奈多的命运封印至今。
+
+《开拓者战役设定：奈多，阴影之地》为格拉利昂最邪恶、最神秘的神权国家之一揭开了帷幕。在这些页面中，你会找到：
+
+* 对奈多历史的详细描述，包括它陷入宗-库松掌控的悲剧性沦陷。
+* 对整个国家的深入地志，从聚居地到更阴森的地貌。
+* 从被囚太阳之堡（Castle of the Captive Sun）到斜影之塔（Tower of Slant Shadows）的邪恶冒险地点。
+* 一部阴影生物的怪物图鉴，包括潜伏于奈多内外的[[邪辅魔]]（suffragan kyton）。
+}}
+
+'''奈多，阴影之地'''（''Nidal, Land of Shadows''，全名 ''Pathfinder Campaign Setting: Nidal, Land of Shadows''）是开拓者战役设定系列的一本资料书，由 Liane Merciel 撰写，Lyz Liddell、Ron Lundeen 和 Mark Moreland 参与，于 2018 年 4 月 25 日发行。
+
+== 目录 ==
+{{书页/目录|1=
+生活于阴影 @ 2
+地志 @ 12
+阴暗中的威胁 @ 42
+- 阿埃沃拉渡口（Aevolar's Crossing）
+- 古冢荒原（Barrowmoor）
+- 被囚太阳之堡（Castle of the Captive Sun）
+- 埃达梅拉的愚行（Edammera's Folly）
+- 通往破碎之梦的大厅（Hall to the Broken Dream）
+- 谎言之屋（House of Lies）
+- 长夜平原与梦境看护者（Plains of Night & Dreamtenders）
+- 影窟与劳洛斯（Shadow Caverns & Rauhlos）
+- 影域（Shadowreach）
+- 斜影之塔（Tower of Slant Shadows）
+- 下谷（Undervale）
+怪物图鉴 @ 54
+- [[蜂巢蛮兽]]
+- [[欢愉之物]]
+- [[邪辅魔]]
+- [[阴影动物]]
+- [[暗影蕨]]
+- [[烟影]]
+}}
+
+{{书页尾
+|pfw=Nidal, Land of Shadows
+|releases=Softcover¦PZO92108¦2018-04¦978-1-64078-033-0；PDF¦PZO92108E¦¦
+}}
+
+[[分类:书目]]

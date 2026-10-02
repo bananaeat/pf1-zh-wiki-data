@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=唐马血脉
+|english_name=Dtang Ma Bloodline
+|type=地区
+|prerequisites=唐马
+|description=你生于唐马，并拥有某一受青睐的血统，因此你的术士之力格外强大。从下列术士血统中选择一种：精类血统、谐律血统、星魄血统或暴风血统。每天一次，你可以在使用一项血统力量时，视你的术士等级比平常高1级。此背景特性不会让你获得你尚未满足等级要求的血统力量。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Dtang%20Ma%20Bloodline
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Adventurer's Armory 2 pg. 22），民间汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=抓勾斗士
+|english_name=Hook Fighter
+|categories=战斗
+|description=在你灵巧的手中，攀爬工具会化为致命的武器。
+|prerequisites=基本攻击加值+1。
+|benefit=你将[[抓勾]]视为单手武器，它造成的穿刺伤害等同于同尺寸的[[重型镐]]，并具有缴械和摔绊两种武器特性。你把抓勾当作临时武器使用时，不会承受通常的减值。如果你擅长鞭，且你的抓勾上系着至少10尺长的绳索或锁链，你可以将它当作具有15尺触及的双手近战武器，用它攻击你触及范围内任何位置的敌人（包括相邻的敌人），但你不会用它威胁任何方格。在把抓勾当作普通武器和长武器使用之间切换需要一个[[移动动作]]。用抓勾进行移位战技时，你只能把目标从原来的位置朝你的方向移动。
+|source_name=冒险者的军械库2
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Hook%20Fighter
+}}

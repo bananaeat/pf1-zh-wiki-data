@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''无人可挡'''（Unstoppable）是一条神话[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-a">神话</span><span class="sk-f">位置：防御能力</span></div>
+</noinclude><includeonly><div class="lang"><span id="无人可挡"></span><div class="lang-h"><b>[[无人可挡]]</b><i>Unstoppable</i><span class="lang-w">Ex · 神话 · 防御能力</span></div><div class="lang-d"></includeonly>
+该生物可以用自由动作花费 1 次神话之力，立即结束当前正影响它的下列状态中的任意一种：[[流血]]、[[目盲]]、[[困惑]]、[[畏缩]]、[[晕眩]]、[[目眩]]、[[耳聋]]、[[纠缠]]、[[力竭]]、[[迷魂]]、[[疲乏]]、[[惊惧]]、[[反胃]]、[[恐慌]]、[[麻痹]]、[[战栗]]、[[恶心]]、[[恍惚]]或[[震慑]]。所有其他状态或效果都会保持，即便它们与所选状态来自同一个法术或效果。即使某个状态会妨碍它行动，它也可以在自己的回合开始时使用该能力。
+
+'''格式'''：无人可挡
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Unstoppable|2=Unstoppable}}
+
+[[分类:通用怪物规则]]</noinclude>

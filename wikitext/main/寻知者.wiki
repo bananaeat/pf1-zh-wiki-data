@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faiths of Corruption pg. 21），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=寻知者
+|english_name=Loreseeker
+|type=宗教
+|prerequisites=璃殇
+|description=你为辨识魔法物品而进行的[[法术辨识]]检定获得+2背景加值。
+|source_name=堕落信念
+|source=FoC
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Loreseeker
+}}

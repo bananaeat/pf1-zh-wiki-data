@@ -1,0 +1,19 @@
+{{物品
+|name=镣铐宝座
+|english_name=Throne of Fetters
+|category=冒险装备
+|aura=中等咒法系和惑控系
+|cl=10级
+|slot=无位置
+|price=16,000GP
+|weight=500磅
+|requirements=[[制造奇物]]，[[熊之坚韧]]，行动自如（freedom of movement），英雄气概（heroism）
+|cost=8,000GP
+|description=出自：Heroes of the High Court pg. 31
+
+描述：
+
+这座雄伟的石质宝座上装饰着从中央座席向外辐射的重链。一个镣铐宝座（throne of fetters）为曾坐于其上的统治者或任何与统治者有血缘关系或[[婚姻]]关系者提供持续性的[[英雄气概]]效果。致敬一位坐在宝座上的统治者（或统治者的家族成员）可在接下来的24小时内在体质检定（Constitution checks）上获得+2环境加值（circumstance bonus）并且在强韧豁免骰（Fortitude saving throws）上获得+1士气加值（morale bonus）。一名生物可以选择在持续时间到失效前通过哭喊“我的自由属于你”以一个[[直觉动作]]（immediate action）消耗此祝福。这样做会导致生物脚踝周围出现幽灵般的[[镣铐]]，使其基础陆地速度降低至20尺（至少5尺）并且授予曾经坐在宝座上的生物[[行动自如]]的效果。这两种效果都持续1分钟。
+|source=HotHC
+|source_name=皇庭英豪
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=规避意外
+|english_name=Accident Resistant
+|type=宗教
+|prerequisites=信仰[[泽弗斯]]
+|description=你对于各种无法预料的意外的了解让你有了惊人的洞察力。你在失去敏捷加值或是在[[突袭]]轮时反射豁免获得+2背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

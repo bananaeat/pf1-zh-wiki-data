@@ -1,0 +1,17 @@
+{{速查导航|here=怪物}}
+
+{{AI翻译|本条 CHM 汉化没有译文，由 AI 照 AoN 英文原文译出，未经人工校对。}}
+{{怪物模板
+|name=退化生物
+|english_name=Degenerate
+|kind=获得；简易
+|cr=-1
+|intro=退化生物比同类的普通个体更弱。
+|abilities=所有属性 -4（最低 1）。
+}}
+
+'''快速规则'''：所有掷骰（包括伤害掷骰）和特殊能力 DC -2；AC 和 CMD -2；每 HD -2 hp。
+
+{{AoN原文|1=MonsterTemplates.aspx?ItemName=Degenerate|2=Degenerate}}
+
+[[分类:怪物模板]]

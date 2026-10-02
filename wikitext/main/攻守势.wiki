@@ -1,0 +1,10 @@
+{{Trait
+|name=攻守势
+|english_name=Threatening Defender
+|type=战斗
+|description=你知道如何在守势中保持你的进攻性。
+|benefit=当你使用[[寓守于攻]]专长时，你减少1点近战攻击加值的损耗。
+|source_name=战斗背景
+|source=CEoD
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

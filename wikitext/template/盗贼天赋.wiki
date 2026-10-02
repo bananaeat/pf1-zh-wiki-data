@@ -1,0 +1,26 @@
+<noinclude>
+<templatedata>
+{
+	"params": {
+		"中文名": {
+			"type": "unknown"
+		},
+		"英文名": {
+			"required": true
+		},
+		"出处": {
+			"required": true
+		},
+		"描述": {}
+	},
+	"paramOrder": [
+		"中文名",
+		"英文名",
+		"出处",
+		"描述"
+	]
+}
+</templatedata>
+</noinclude>
+{{{中文名}}} ''{{{英文名}}}'' （''{{{出处}}}'')：{{{描述}}}
+----

@@ -1,0 +1,13 @@
+{{危害
+|name=原质苔
+|english_name=Id moss
+|kind=毒药
+|type=摄入
+|save=强韧 DC 14
+|onset=10分钟
+|frequency=1次/分钟，持续6分钟
+|effect=1d3点智力伤害
+|cure=1次豁免成功
+|price=125 gp
+|source=核心规则书、极限宝具
+}}

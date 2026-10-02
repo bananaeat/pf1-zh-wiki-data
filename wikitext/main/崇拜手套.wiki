@@ -1,0 +1,15 @@
+{{魔法物品
+|name=崇拜手套
+|english_name=Whispering Gloves (LotFW)
+|aon=MagicWondrousDisplay.aspx?FinalName=Whispering Gloves (LotFW)
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=手部
+|price=1,000 gp
+|weight=1磅
+|description=这双柔软的丝绸手套非常紧致。穿戴者可以用一个[[标准动作]]向一个能看见她的单一目标传递一条复杂的秘密信息，如同她在DC 20的[[唬骗]]检定中成功了一样。这条信息由一连串快速而复杂的手势传达，目标会自动理解这些手势。看到穿戴者传递信息的生物可以进行一次DC 20的[[察言观色]]检定，以察觉穿戴者正在传递秘密信息并破译它。
+|req=[[制造奇物]]、[[传讯术]]
+|cost=500 gp
+|source=第一世界的遗产
+}}

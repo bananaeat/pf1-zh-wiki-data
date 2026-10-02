@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Ironfang Invasion Player's Guide pg. 8），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=铁牙幸存者
+|english_name=Ironfang Survivor
+|type=战役
+|pfs=否
+|description=无论你当时是在军中服役，还是只是遭到了突袭，你都是在与铁牙军团的遭遇中勉强生还的——那是摩尔苏恩臭名昭著的怪物军团之一。也许你甚至在公羊门大屠杀的恐怖中活了下来。无论醒着还是睡着，你都无法从脑海中抹去他们的残暴，并清楚地记得他们独特的战斗方式。对抗地精亚种生物时，你的AC获得+2闪避加值；并且每天一次，当你对一个地精亚种生物进行[[威吓]]、[[察言观色]]或[[隐匿]]检定时，你可以掷两个骰子并使用较好的结果。
+|source_name=Ironfang Invasion Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Ironfang%20Survivor
+}}

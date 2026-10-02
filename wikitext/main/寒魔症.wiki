@@ -1,0 +1,12 @@
+{{危害
+|name=寒魔症
+|english_name=Devil Chills
+|kind=疾病
+|type=伤口
+|save=强韧 DC 14
+|onset=1d4天
+|frequency=1次/天
+|effect=1d4点力量伤害
+|cure=连续3次豁免成功
+|source=核心规则书
+}}

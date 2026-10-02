@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=齿轮破除者
+|english_name=Gearbreaker
+|type=Ex
+|categories=进攻
+|prerequisites=[[破坏者(野蛮人狂暴之力)|破坏者]]
+|benefit=当狂暴时，每轮1次，当野蛮人攻击一个构装体时，她可以忽略目标的部分硬度，其数值等于她的野蛮人职业等级。使用此能力应在攻击骰掷出之前声明。此能力可与破碎击叠加。
+|source_name=河域子民
+}}

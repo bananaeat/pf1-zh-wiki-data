@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 198），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=硫磺先知
+|english_name=Brimstone Seer
+|type=种族
+|prerequisites=兽人
+|description=你曾被硫磺脏卜团的先知们置于能带来幻象的腐蚀性蒸汽之中，这或许是因为你有一个迫切的问题需要解答，或许是因为你的父母或酋长认为你是一个可以牺牲的替身。这些蒸汽在你身上留下了伤疤，使你在基于魅力的检定上承受-1减值；但每天一次，你会获得瞬间洞察，得以在一次[[知识]]技能检定或智力检定上掷骰两次并取较好的结果。你必须在掷骰前决定使用此背景特性。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Brimstone%20Seer
+}}

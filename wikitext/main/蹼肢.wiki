@@ -1,0 +1,15 @@
+{{魔法物品
+|name=蹼肢
+|english_name=Webbed Appendages
+|aon=MagicFleshcrafting.aspx#Webbed Appendages
+|cat=肉体改制
+|price=—
+|description='''灵药价格''' 300 gp；'''豁免''' DC 12；'''持续时间''' 1小时
+
+膜状的皮肤在受试者的手指和脚趾之间生长，并在其四肢与身体之间伸展，使该生物获得20尺的游泳速度。
+
+'''副作用'''：受试者难以握持物品，用持握的武器进行攻击掷骰时承受–2减值。
+|req=[[塑肉者]]、[[工艺]]（炼金术）8级、[[医疗]] DC 16；灵药造价 150 gp
+|cost=—
+|source=药剂与毒药
+}}

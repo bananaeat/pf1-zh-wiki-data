@@ -1,0 +1,9 @@
+{{Feat
+|name=深隧专家
+|english_name=Master Delver
+|description=你曾在卡索米尔的深柜中生活，掌握了在此险境生存的诀窍。
+|prerequisites=探索过部分卡索米尔深柜。
+|benefit=所有知识（地城）检定及用于察觉陷阱的察觉检定获得+2加值。知识（地城）始终视为你的[[本职技能]]。
+|source_name=格拉利昂的城市
+|source_url=https://pf1chm.pages.dev/topics/zh06c701dc72.htm
+}}

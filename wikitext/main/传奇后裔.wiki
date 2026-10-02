@@ -1,0 +1,14 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Return of the Runelords Players Guide pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=传奇后裔
+|english_name=Scion of Legend
+|type=战役
+|pfs=否
+|description=你的角色与瓦瑞西亚某位成名英雄有着个人联系或渊源。这位英雄应当是你在以前的战役中扮演过的一名玩家角色（可以是、但不一定是七芒印英雄之一）。你的角色可以是这位英雄的弟妹、年幼的表亲，甚至是学徒。如果已经过去了足够长的时间，你可能是这位英雄的孩子，或者你的角色可能是由一位在你出生前就已死去的英雄的灵魂转世而来。
+
+选择两项你所关联的英雄拥有技能等级的技能。你的这两项技能检定都获得+1背景加值，且这两项技能是你的本职技能。
+
+每次冒险一次，你可以用一个自由动作回想起英雄传授给你的某条早已遗忘的建议或知识，使一次技能检定获得等于你职业等级的洞察加值（最少+10）。你可以在进行技能检定之后再选择应用此加值，但必须在该掷骰结果揭晓之前。
+|source_name=Return of the Runelords Players Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Scion%20of%20Legend
+}}

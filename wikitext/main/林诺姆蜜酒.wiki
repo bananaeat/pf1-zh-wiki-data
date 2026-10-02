@@ -1,0 +1,9 @@
+{{装备
+|name=林诺姆蜜酒
+|english_name=Linnorm mead
+|cat=饮食
+|price=5 cp／啤酒杯
+|weight=1/2磅
+|description=作为乌尔芬人最喜爱的饮品，这种蜂蜜酒已随他们传入南方各地。它又甜又烈，据乌尔芬吟游诗人说，是唱歌时无可争议的助力。
+|source=冒险者的军械库
+}}

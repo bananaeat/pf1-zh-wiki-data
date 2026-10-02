@@ -1,0 +1,10 @@
+{{装备
+|name=炼金师的恩惠
+|english_name=Alchemist's kindness
+|cat=炼金药剂
+|price=1 gp
+|weight=—
+|craft_dc=20
+|description=这种水晶般的粉末看起来像盐一样，深受年轻浪子和富裕的酒鬼们的喜爱。溶入水中将变成一杯滋滋作响的鸡尾酒，并能够在喝下去10分钟之内解除宿醉效果。
+|source=进阶玩家指南、极限宝具
+}}

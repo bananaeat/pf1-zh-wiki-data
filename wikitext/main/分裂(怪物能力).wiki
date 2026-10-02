@@ -1,0 +1,13 @@
+<noinclude>{{速查导航|here=规则}}
+{{消歧义|分裂}}
+'''分裂'''（Split）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：防御能力</span></div>
+</noinclude><includeonly><div class="lang"><span id="分裂"></span><span id="分裂(怪物能力)"></span><div class="lang-h"><b>[[分裂(怪物能力)|分裂]]</b><i>Split</i><span class="lang-w">Ex · 防御能力</span></div><div class="lang-d"></includeonly>
+生物在受到某些攻击或者效果时，会分裂成 2 个完全相同的复制体。每个复制体拥有原生物当前 HP 的一半（向下取整）。该生物的 HP 低于列出的数值后将不再分裂，并能被如常杀死。
+
+'''格式'''：分裂（穿刺和挥砍，10 HP）
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Split|2=Split}}
+
+[[分类:通用怪物规则]]</noinclude>

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=烟火牙签
+|english_name=Toothpick of Pyrotechnics
+|aon=MagicWondrousDisplay.aspx?FinalName=Toothpick of Pyrotechnics
+|cat=奇物
+|aura=微弱塑能系
+|cl=3
+|slot=无
+|price=400 gp
+|description=这根朴素的木制牙签十分适合在舞台上或打斗中制造用于分散注意力的耀眼闪光。折断牙签会产生一道刺目的闪光，并冒出一团浓浓的黑烟。使用者以外、20尺内的生物必须通过DC 13的强韧豁免，否则会[[目盲]]1d4+1轮。烟云向各个方向扩散20尺，遮蔽所有视线（包括黑暗视觉），持续3轮。
+|req=[[制造奇物]]、[[烟火术]]
+|cost=200 gp
+|source=进阶职业指南
+}}

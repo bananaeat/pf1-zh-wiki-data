@@ -1,0 +1,10 @@
+{{Trait
+|name=完美仆人
+|english_name=Perfect Servant
+|type=种族
+|prerequisites=[[半身人]]
+|description=你被训练成为女仆或侍者，这种训练令你的下意识做出令上位者更满意的行动。在面对至少有1级[[望族]]职业等级的人时，你的交涉检定+3背景加值。
+|source_name=种族背景
+|source=HoG
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

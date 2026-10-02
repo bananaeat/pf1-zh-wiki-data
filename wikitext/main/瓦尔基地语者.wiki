@@ -1,0 +1,10 @@
+{{Trait
+|name=瓦尔基地语者
+|english_name=Varki Landspeaker
+|type=种族
+|prerequisites=[[人类]]（瓦尔基人）
+|description=你与族人视为家园的这片土地以及栖息于此的精魂们深度契合。
+|benefit=你在极地或寒冷冻土中进行生存检定时+1背景加值。此外，身处此类地形时，每天一次你可询问地中精魂，从而在追踪、觅食或寻找庇护所的单次生存技能检定上+5背景加值。
+|source_name=北地居民
+|source_url=https://pf1chm.pages.dev/topics/zh63296b3929.htm
+}}

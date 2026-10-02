@@ -1,0 +1,11 @@
+{{Trait
+|name=精类巫术
+|english_name=Fey Hex
+|type=地区
+|description=你学会了将精类的惑控之力融入到自己的[[巫术]]之中，诱杀那些挣脱了你诅咒的受害者。
+|benefit=每天一次以一个[[自由动作]]，当一个生物在对抗你的巫术豁免中取得成功，并且该巫术对同一生物每天只能生效一次时，你可以宣告那个生物成为你的精类巫术的目标。你可以在1分钟内再次对那个生物尝试之前失败的巫术。
+|regions=伊利森
+|source=LotFW
+|source_name=第一世界的遗产
+|source_url=https://pf1chm.pages.dev/topics/page_1070.html
+}}

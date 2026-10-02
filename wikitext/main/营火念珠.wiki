@@ -1,0 +1,14 @@
+{{魔法物品
+|name=营火念珠
+|english_name=Campfire Bead
+|aon=MagicWondrousDisplay.aspx?FinalName=Campfire Bead
+|cat=奇物
+|aura=微弱塑能系
+|cl=1
+|slot=无
+|price=720 gp
+|description=这颗小玻璃珠一旦被说出命令字，就会变成一小堆（2尺高）正在燃烧的木柴。火焰燃烧8小时，或直到被扑灭，此时它会变回珠子。物品的主人必须等待火焰燃烧时长的两倍时间，才能再次命令念珠变成营火。
+|req=[[制造奇物]]、[[燃火术]]
+|cost=360 gp
+|source=进阶玩家指南、极限宝具
+}}

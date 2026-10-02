@@ -1,0 +1,17 @@
+{{武器
+|name=轻型链枷
+|english_name=Light flail
+|category=武器
+|prof=军用
+|wcat=单手
+|price=8 gp
+|weight=5磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×2
+|type=钝击
+|special=卸武，摔绊
+|groups=链索
+|description=轻型链枷包括沉重的打击先端，以及通过锁链与之连接的握柄。虽然常被想像为球状，有时还带有如同[[钉头锤]]头部那样的尖刺，链枷的先端其实可能为多种形状，譬如短杠状。军用链枷是农用链枷的强化版本，后者则是用来敲打谷物以分离谷实和谷壳的工具。
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,16 @@
+{{Spell
+|name=骑士的召唤
+|english_name=Knight's calling
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=圣武士 1
+|action=标准动作
+|components=语言;圣徽
+|range=近距
+|target=一名生物
+|duration=1轮
+|save=意志，通过则无效
+|sr=是
+|description=你迫使敌人靠近你并与你战斗。在目标的回合，他会以其自身的速度接近你，并避开行进路径上的其他危险 （包括任何会引发藉机攻击的移动）。目标在其回合只会进行移动。若目标在移动结束后与你接邻，你可以对其进行藉机攻击。
+|source=进阶玩家指南
+}}

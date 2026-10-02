@@ -1,0 +1,13 @@
+<includeonly><div class="rule-cols-cap" style="margin:{{{top|31px}}} 0 0;padding:8px 0;font-size:.9em;font-weight:bold;line-height:1.4286;color:#777;text-align:left">{{{1}}}</div></includeonly><noinclude>
+并排拆分表（`<div class="rule-cols">` 里一张长表劈成的几栏）的共用表题：放在整块上面、横跨各栏，
+各栏的表头就能齐平（表题挂在第一栏的表里的话，第一栏的表头会比其余各栏低一行）。
+
+ <nowiki>{{并排表题|表 7-32：酒馆特色}}</nowiki>
+ <nowiki><div class="rule-cols" style="margin-top:0"></nowiki>
+ …各栏的表 <nowiki>{| class="wikitable" style="margin-top:0"</nowiki> …
+ <nowiki></div></nowiki>
+
+样子照表格原来的表题（0.9em、粗体、灰色），写在行内。`top=` 调上边距：默认 31px（放在整块上面时）；
+放在某一栏里面时用 `top=15px`（见 [[常用数据]]）。`tools/align_split_captions.py` 批量改的。
+[[分类:模板]]
+</noinclude>

@@ -1,0 +1,10 @@
+{{Trait
+|name=馋痨
+|english_name=Insatiable
+|type=缺陷
+|pfs=否
+|description=你习惯尽情享用生活中的美好事物，你发现没了这些别致的事物生活过得特别费劲。
+|benefit=你使用货品和服务时多花费10%(而且不能由盟友支付),在防止饥饿和口渴(Pathfinder RPG Core Rulebook 444)时你须要正常2倍的食物和饮料。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

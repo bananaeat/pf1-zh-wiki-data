@@ -1,0 +1,12 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{装备
+|name=臭气囊
+|english_name=Stench-gas bladder
+|cat=炼金武器
+|price=30 gp
+|weight=1/2磅
+|range=10尺
+|special=见正文
+|description=这个薄薄的囊袋击中目标时会裂开。你可以将臭气囊作为射程增量10尺的远程武器投掷。被臭气囊击中的生物必须通过DC 14的强韧豁免，否则[[恶心]]1d6轮。
+|source=冒险之路115：猎物小径
+}}

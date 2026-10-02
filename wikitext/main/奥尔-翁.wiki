@@ -1,0 +1,36 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=奥尔-翁
+|english_name=Oaur-Ooung
+|title=起泡之胎（The Blistering Womb）
+|alignment=混乱邪恶（CE）
+|weapon=[[三叉戟]]
+|portfolio=污秽海洋，邪恶繁殖
+|domains=[[混乱领域|混乱]]，[[邪恶领域(领域)|邪恶]]，[[植物领域|植物]]，[[水领域|水]]
+|subdomains=[[植物领域#腐朽子域 (Decay)|腐朽子域]]，[[邪恶领域(领域)#恐惧子域 (Fear)|恐惧子域]]，[[植物领域#滋长子域 (Growth)|滋长子域]]，[[水领域#海子域 (Oceans)|海子域]]
+|symbol=水母形符文
+|color=蓝色
+|pantheon=古魔领主
+|source=内海诸神、永罪之书
+}}
+
+奥尔-翁（Oaur-Ooung）是一位[[古魔领主]]。
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+喝下污秽的水体，强忍住呕吐感1小时。你在对抗毒素效果时豁免获得+4亵渎加值。
+
+=== 神恩 ===
+
+古魔领主的神恩，每项均为每日2次的类法术能力：
+
+{{神恩|n=1|name=第一神恩|type=Sp|text=[[毁容之触]]2次/日}}
+{{神恩|n=2|name=第二神恩|type=Sp|text=[[毒击术]]2次/日}}
+{{神恩|n=3|name=第三神恩|type=Sp|text=[[高等疫病术]]2次/日}}
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhcf03e207e5.htm 原文]），原在总页 [[古魔领主]]。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Oaur-Ooung|2=Oaur-Ooung}}
+[[分类:魔神]]

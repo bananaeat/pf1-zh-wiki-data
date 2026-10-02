@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=秘密诠释
+|english_name=Interpretation of Secrets
+|aon=MagicGenieSeals.aspx#Interpretation of Secrets
+|cat=巨灵印记
+|aura=中等预言系
+|cl=7
+|slot=巨灵印记
+|price=10,000 gp
+|description=这枚印记是一块秘银圆片，上面刻着数十个盘旋缠绕的奥术与魔法符印。只要把印记显眼地带在身上，携带者就能说出并听懂所有元素语言。此外，只要他使用巨灵的母语说话，就在对巨灵进行的[[威吓]]检定上获得+5表现加值。携带者施展的依赖语言的法术会得到强化：受到这类法术指定的巨灵，在对抗该法术效果的豁免检定上承受-2减值。
+|req=[[制造奇物]]、[[巧言术]]
+|cost=5,000 gp，400 XP
+|source=冒险之路22：永恒的终结
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=揭示预言
+|english_name=Diviner's Delving
+|description=你那敏锐的魔法直觉使你在阅读迹象、线索和征兆时更加容易并且更加快捷。
+|prerequisites=[[法术专攻]]（预言）。
+|benefit=当你施放预言系法术突破[[特殊能力#法术抗力|法术抗力]]，或者阻碍预言系法术的效果（比如[[回避侦测]]）时，施法者等级检定获得+2加值。当你使用需要专注的预言系法术时，你获得信息的速度比正常快1轮（因此你在专注的第一轮就能得到原本前两轮的信息，在专注的第二轮得到原本第三轮的信息）。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

@@ -1,0 +1,17 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{危害
+|name=奇妙恐惧毒气
+|english_name=Marvelous fear gas
+|kind=毒药
+|type=吸入
+|save=强韧 DC 17
+|onset=受到伤害，或受到任何恐惧状态或效果影响
+|frequency=1次/分钟，持续4分钟
+|initial=[[战栗]]10分钟（此效果不会造成更严重的恐惧效果）
+|secondary=1d2点感知伤害
+|cure=1次豁免成功
+|price=150 gp
+|weight=1/2磅
+|description=这种毒药由阿巴拉克萨斯的奇观公会制造，其成员猎捕并恐吓他们的敌人。
+|source=内海诡道
+}}

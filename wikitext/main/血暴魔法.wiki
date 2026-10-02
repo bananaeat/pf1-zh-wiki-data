@@ -1,0 +1,10 @@
+{{Feat
+|name=血暴魔法
+|english_name=Rage Casting
+|description=你的血液蕴含着极为丰富的能量，甚至可以催化你的法术的效力。
+|prerequisites=血狂咒术职业能力
+|benefit=以一个[[迅捷动作]]，你可以在施放一个血脉狂怒者法术时，通过燃烧一些自己的血液来增强其效果。你可以承受至多施放法术每环1d6点的伤害（在投骰前决定骰数），并且你无法以任何方式减免此伤害，也不能由临时生命值承担。你每因此而承受一个d6骰的伤害，你的法术DC就会增加1点。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

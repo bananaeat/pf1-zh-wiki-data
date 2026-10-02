@@ -1,0 +1,19 @@
+{{武器
+|name=宽短剑
+|english_name=Gladius
+|category=武器
+|prof=军用
+|wcat=轻型
+|price=15 gp
+|weight=3磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=19–20/×2
+|type=穿刺或挥砍
+|special=演武
+|groups=轻刃
+|description={{AI翻译|nocat=1|本段由 AI 照 AoN 英文原文译出，CHM 汉化里没有这段译文，未经人工校对。}}
+
+宽短剑是角斗士最喜爱的剑，剑身比标准的短剑更厚重。影响短剑的专长和能力同样适用于宽短剑。
+|source=极限战斗、极限宝具
+}}

@@ -1,0 +1,11 @@
+{{武器
+|name=灰尘霰弹
+|english_name=Alchemical cartridge (gray dust shot)
+|category=火器
+|prof=异种
+|wcat=弹药
+|price=50 gp
+|weight=—
+|description=这个版本的灰尘弹只能装载至具有霰弹特性的武器中。它的功能类似于灰尘弹，但会在受到冲击时炸成半径20尺的烟云。烟云中的生物在施放法术时的专注检定承受-5减值。这团烟云在无风时于1d6轮后消散，微风可在1轮内将其吹散。
+|source=格拉利昂的英雄
+}}

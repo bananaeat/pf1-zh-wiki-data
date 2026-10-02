@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=帝国士兵
+|english_name=Imperial Soldier
+|type=地区
+|prerequisites=摩尔苏恩
+|description=你曾在摩尔苏恩帝国军中服役。从以下技能中选择一项：[[医疗]]、[[威吓]]或[[骑术]]。你在该技能上获得+1背景加值，并且它总是你的本职技能。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Imperial%20Soldier
+}}

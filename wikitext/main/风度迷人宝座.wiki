@@ -1,0 +1,19 @@
+{{物品
+|name=风度迷人宝座
+|english_name=Throne of Pleasing Mien
+|category=冒险装备
+|aura=中等防护系和惑控系
+|cl=10级
+|slot=无位置
+|price=8,000GP
+|weight=350磅
+|requirements=[[制造奇物]]，[[鹰之威仪]]，英雄气概（heroism），[[提升抗力]]
+|cost=4,000GP
+|description=出自：Heroes of the High Court pg. 31
+
+描述：
+
+这座美丽的宝座由雕刻着跳舞的[[宁芙]]和嬉戏的[[萨特羊人]]形象的白石精心打造而成。一个风度迷人宝座（throne of pleasing mien）为曾坐于其上任何人提供持续性的[[英雄气概]]效果。向一位坐在宝座上的任何人（无论此人是否为正确的统治者）鞠躬或以其他任何方式表示效忠，可在基于魅力（Charisma-based）的技能检定中获得+2环境加值（circumstance bonus）并且在意志豁免骰（Will saving throws）上获得+1士气加值（morale bonus），持续24小时。
+|source=HotHC
+|source_name=皇庭英豪
+}}

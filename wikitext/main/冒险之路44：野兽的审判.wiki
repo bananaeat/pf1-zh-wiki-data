@@ -1,0 +1,41 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #44: Trial of the Beast
+|authors=Richard Pett
+|pages=96
+}}
+
+{{书页/简介|head=邪恶缝合邪恶|1=
+肆虐横行的憎恶造物“勒彼斯塔德之兽”被擒获了！然而，市议会并没有因这头怪物无数的谋杀与难以尽数的罪行而将其销毁，反而要求它接受一场公正的审判。抵达勒彼斯塔德后，冒险者们发现自己卷入了围绕这头野兽之判决的愤怒与调查之中。很快，就得由他们来查明，这头传说中的怪物究竟真是杀手，还是只是某个更大邪恶的工具——而无论是哪种情况，它是否都危险得不能留它活下去。
+
+本期《开拓者》冒险之路延续「腐肉王冠」冒险之路，内容包括：
+
+* 《野兽的审判》，一部面向 4 级角色的开拓者冒险，作者 Richard Pett。
+* 对名为廷臣之眼秘会（Esoteric Order of the Palatine Eye）的秘密结社的调查，作者 Brandon Hodge。
+* 关于生、死与命运女神[[法莱斯玛]]之信仰的揭秘，作者 Sean K Reynolds。
+* Laurel Cylphra 在「探索者日志」中遭遇接二连三的恐怖，作者 F. Wesley Schneider。
+* 四种刺激而致命的新怪物，作者 Rob McCreary、Patrick Renie 和 Sean K Reynolds。
+}}
+
+'''冒险之路44：野兽的审判'''（''Pathfinder #44: Trial of the Beast''）是[[冒险之路]]「腐肉王冠」系列的第二章冒险，由 Richard Pett 撰写，配套文章出自 Brandon Hodge、Rob McCreary、Patrick Renie 和 Sean K Reynolds，小说出自 F. Wesley Schneider，于 2011 年 4 月 20 日发行。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+野兽的审判 @ 6
+[[法莱斯玛]] @ 64
+廷臣之眼秘会 @ 70
+探索者日志：罪血（2／6） @ 76
+怪物图鉴 @ 82
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Trial of the Beast
+|releases=PDF¦PZO9044E¦2011-04¦；Softcover¦PZO9044¦2011-04¦978-1-60125-309-5
+}}
+
+<small>CHM 汉化里没有这本书的译名，书名是本站定的。</small>
+
+[[分类:书目]]

@@ -1,0 +1,9 @@
+{{Trait
+|name=奥罗登众的剑技训练
+|english_name=Arodenite Sword Training
+|type=战斗
+|description=尽管旧神不再回应信徒的祈求，但奥罗登所偏好武器的训练在你的家族代代相传。你擅长[[长剑]]。如果你的职业也提供对长剑的擅长，你在使用长剑发动[[借机攻击]]的攻击检定上获得+1背景加值。
+|source_name=秘术选集Arcane Anthology
+|source=Arcane Anthology
+|source_url=https://pf1chm.pages.dev/topics/zhe6bf0e12f5.htm
+}}

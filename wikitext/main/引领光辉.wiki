@@ -1,0 +1,9 @@
+{{Trait
+|name=引领光辉
+|english_name=Light-Bringer
+|type=宗教
+|prerequisites=信仰[[塞恩蕾]]
+|description=你在晨花的祝福下降生。每天一次，你可以像使用类法术能力那样施展[[光亮术]]。你的施法者等级等同你的角色等级。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

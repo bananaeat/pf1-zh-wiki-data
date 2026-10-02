@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=独角兽角权杖
+|english_name=Rod of the Alicorn
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of the Alicorn
+|cat=权杖
+|aura=中等咒法系
+|cl=9
+|slot=无
+|price=25,000 gp
+|weight=5磅
+|description=这根扭曲的木质权杖形似独角兽的角。每天3次，使用者可以用一个[[标准动作]]以权杖触碰目标，以[[治疗轻伤]]为其治疗。每天1次，使用者可以用这种方式以[[治疗中伤]]治疗一个生物。每天1次，使用者还可以用这种方式对目标施放[[中和毒性]]。
+|req=[[制造权杖]]、[[治疗轻伤]]、[[治疗中伤]]、[[中和毒性]]、制造者必须是善良阵营
+|cost=12,500 gp
+|source=内海诡道
+}}

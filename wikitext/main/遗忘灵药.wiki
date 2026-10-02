@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=遗忘灵药
+|english_name=Elixir of Amnesia
+|aon=MagicWondrousDisplay.aspx?FinalName=Elixir of Amnesia
+|cat=奇物
+|aura=微弱惑控系
+|cl=5
+|slot=无
+|price=500 gp
+|description=这种灵药由龙涎香和 cytillesh 真菌提炼而成，间谍、密探和隐秘的邪教徒用它来抹去自己的记忆，以防这些记忆可能成为自己或同伴的隐患。饮下灵药时，饮用者可以选择一件事件或一条特定的信息（例如进入盗贼公会的口令、本地义警的真实身份，或藏起来的赃物的位置）将其遗忘（DC 14意志豁免可无效）。被遗忘的记忆只能用[[篡改记忆]]法术或类似效果恢复。这是一个影响心智的强迫类惑控系效果。
+|req=[[制造奇物]]、[[篡改记忆]]
+|cost=250 gp
+|source=内海诡道
+}}

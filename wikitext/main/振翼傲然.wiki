@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 199），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=振翼傲然
+|english_name=Winged Aloofness
+|type=种族
+|prerequisites=鸮形人
+|description=你从[[鸮形人]]长辈那里得知，你的种族比没有翅膀的种族更优越，你也注意在身体上始终高出他们一头。你的[[飞行]]检定获得+2背景加值。在受到伤害时为避免失去高度而进行的检定，此加值提高至+4。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Winged%20Aloofness
+}}

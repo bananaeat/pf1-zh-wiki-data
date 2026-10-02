@@ -1,0 +1,9 @@
+{{Trait
+|name=马王
+|english_name=Horse Lord (Keleshite)
+|type=种族
+|prerequisites=[[人类]]（柯莱士人）
+|description=你在巴勒斯平原上驰骋长大，渴望有朝一日参加希斯塔肯赛马大会。你的驯养动物检定上获得+2背景加值，并在骑术检定上获得+1背景加值。此特性仅对马匹生效。
+|source_name=格拉里昂的人类
+|source_url=https://pf1chm.pages.dev/topics/page_1581.html
+}}

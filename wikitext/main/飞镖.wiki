@@ -1,0 +1,17 @@
+{{武器
+|name=飞镖
+|english_name=Dart
+|category=武器
+|prof=简易
+|wcat=远程
+|price=5 sp
+|weight=1/2磅
+|dmg_s=1d3
+|dmg_m=1d4
+|crit=×2
+|range=20尺
+|type=穿刺
+|groups=投掷
+|description=这件投掷武器比箭矢大、比[[标枪]]短，尖端有配重，射程也比标枪近。多数飞镖为木柄配粗金属尖头。
+|source=核心规则书、极限宝具、远程战术工具箱
+}}

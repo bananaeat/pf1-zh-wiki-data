@@ -1,0 +1,19 @@
+{{Feat
+|name=豭突势
+|english_name=Boar Style
+|aliases=豭突
+|categories=战斗;流派
+|description=你的尖牙和利爪撕裂你的敌人。
+|prerequisites=[[精通徒手打击]]，威吓3级。
+|benefit=你可以让[[徒手打击]]造成钝击伤害或挥砍伤害——变更伤害类型是一个[[自由动作]]。当你采用[[豭突]][[流派]]架势时，每轮一次，如果你的[[徒手攻击]]命中同一敌人两次或以上，你可以撕裂敌人的血肉，该次攻击额外造成2d6点伤害。
+|stamina=花费3点耐力，即使你一轮内只命中敌人一次，你依然可以撕裂敌人并造成流血伤害。你一轮依然只能造成一次额外伤害。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[豭突刺]]、[[豭突千裂]]（2 个条目）
+
+{{FAQ|v5748eaic9sm0}}

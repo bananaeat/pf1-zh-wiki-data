@@ -1,0 +1,10 @@
+{{Feat
+|name=季节之眼
+|english_name=Weather Eye
+|description=你持续注意着自然规律并且身处于其中的你对于季节交替有着敏锐的感知。
+|prerequisites=[[生存]]3级，必须信仰自然
+|benefit=你在预知天气的生存检定中获得+4加值。你在回避极端天气的影响的豁免检定中获得+1加值。
+|source=F&P
+|source_name=信仰与哲学
+|source_url=https://pf1chm.pages.dev/topics/page_673.html
+}}

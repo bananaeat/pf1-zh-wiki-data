@@ -1,0 +1,25 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[真言术：震 (神话)]]。</small></div>
+{{Spell
+|name=真言术：震
+|english_name=Power Word Stun
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=奥能师 8;女巫 8;异能者 8;术士 8;法师 8
+|domains=战争领域 8
+|action=标准动作
+|components=语言
+|range=近距
+|target=一个HP为150或更低的生物
+|duration=见后文
+|save=无
+|sr=是
+|description=你仅说出一个威力无比的词就能让你选定的一个生物[[震慑]]，不管它是否能听见那个词。该法术的持续时间和目标的当前总HP相关。任何当前具有151或者更多HP的生物都不受真言术：震影响。
+
+<table class="wikitable">
+<tr><th>HP</th><th>持续时间</th></tr>
+<tr><td>50以下</td><td>4d4轮</td></tr>
+<tr><td>51 – 100</td><td>2d4轮</td></tr>
+<tr><td>101 – 150</td><td>1d4轮</td></tr>
+</table>
+|source=核心规则书
+}}

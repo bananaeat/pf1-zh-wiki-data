@@ -1,0 +1,17 @@
+{{魔法物品
+|name=海盗女王的三角帽
+|english_name=Besmara's Tricorne
+|aon=MagicWondrousDisplay.aspx?FinalName=Besmara's Tricorne
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=头部
+|price=2,600 gp
+|weight=1磅
+|description=这顶黑皮三角帽饱经风吹日晒，沾满盐渍。它使穿戴者在专业（水手）和游泳检定上获得+2表现加值。
+
+如果[[贝丝玛拉]]是穿戴者的守护神，穿戴者每天一次可以说出命令字，把这顶帽子变成一条小型舰载艇，例如划艇、杰利艇或长艇（见Skull & Shackles Player's Guide第25页）。这条艇长20尺，配有两对桨和一根挂方帆的桅杆，最多可载12名乘客和船员。一经命令，或8小时之后，艇会变回帽子的样子，把艇上所有乘员倒出来。
+|req=[[制造奇物]]、[[神导术]]、[[缩物术]]，制造者必须在专业（水手）上有5级
+|cost=1,300 gp
+|source=冒险之路55：苦艾号叛变、内海诸神
+}}

@@ -1,0 +1,12 @@
+{{Feat
+|name=团队进击
+|english_name=Team Up
+|categories=战斗
+|description=当你们联合起来对抗一名敌人时，你能够以快速的假动作帮助盟友。
+|prerequisites=智力13，[[寓守于攻]]，[[一拥而上]]，基本攻击加值+6。
+|benefit=当你与至少两名盟友同时接临同一名敌人时，你能以[[移动动作]]尝试使用协助他人动作。
+|normal=协助他人是一个[[标准动作]]。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

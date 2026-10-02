@@ -1,0 +1,9 @@
+{{装备
+|name=便携式浴缸
+|english_name=Collapsible bathtub
+|cat=冒险装备
+|price=15 gp
+|weight=20磅
+|description=经过10分钟组装后，这一组木条可以撑起一块圆柱形的防水帆布。它能盛下足够1名中型生物舒适沐浴的水，而无需承担在湖泊、河流或其他水体中入水可能带来的任何风险。
+|source=极限宝具
+}}

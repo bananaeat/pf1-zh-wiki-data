@@ -1,0 +1,12 @@
+{{Feat
+|name=毒雾喷吐
+|english_name=Venomous Spray
+|categories=战斗
+|pfs=否
+|description=你恶毒地喷了别人一脸
+|prerequisites=蛇人
+|benefit=你可以用喷吐毒液作为一次射程为5尺的次要远程攻击，这是一次天生武器攻击且不引发借机攻击。被你的毒液喷到敌人需要通过一个（DC=你的毒素DC）的强韧豁免检定否则目盲1d4轮并同时受到你的毒素影响。你不能在使用过你的啮咬攻击的同一轮内使用喷吐毒液（反之亦然），并且在喷吐毒液之后，你在1d4轮内无法使用啮咬攻击的毒素效果或是进行另一次喷吐毒液。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1414.html
+}}

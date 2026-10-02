@@ -1,0 +1,9 @@
+{{Trait
+|name=船长之刃
+|english_name=Captain's Blade
+|type=派系
+|description=你生于甲板之上，懂得如何与安多安舰队上的水手一同作战。当你在任何漂浮于水中的船只上作战时，你的特技和攀爬技能获得+1背景加值。其中之一(由你选择)成为你的[[本职技能]]。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

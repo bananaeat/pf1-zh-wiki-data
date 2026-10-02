@@ -1,0 +1,18 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[极冰射线 (神话)]]。</small></div>
+{{Spell
+|name=极冰射线
+|english_name=Polar Ray
+|school=塑能系
+|tags=寒冷
+|levels=奥能师 8;术士 8;法师 8
+|domains=冰子域 9
+|action=标准动作
+|components=语言;姿势;法器（一块锥形或棱柱形的白瓷）
+|range=中距
+|effect=射线
+|duration=立即
+|save=无
+|sr=是
+|description=从你手中喷射出一道由冻气和寒冰组成的蓝白色射线。你必须做一次成功的远程[[接触攻击]]才能用此射线对目标造成伤害。射线造成每CL 1d6点寒冷伤害 (最高25d6) 以及1d4点敏捷吸取。
+|source=核心规则书
+}}

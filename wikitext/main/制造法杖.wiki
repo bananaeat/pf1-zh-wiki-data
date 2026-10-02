@@ -1,0 +1,16 @@
+{{Feat
+|name=制造法杖
+|english_name=Craft Staff
+|categories=造物
+|pfs=否
+|description=你能制造法杖。
+|prerequisites=施法者等级11级。
+|benefit=你能制造任何你满足其先决条件的法杖。法杖的每1000gp基本价格将使制造时间延长1天。加工所需耗材的价值为成品价格的一半。新制造的法杖拥有10发充能。更多信息请参见魔法物品规则。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''制造需求'''：[[余烬王之杖]]、[[多眼法杖]]、[[头足类法杖]]、[[异化法杖]]、[[掘墓人铁锹]]、[[灰烬手杖]]、[[电花法杖]]、[[通途之杖]]、[[饥渴法杖]]（9 件物品）

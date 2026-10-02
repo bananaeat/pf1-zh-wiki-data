@@ -1,0 +1,9 @@
+{{装备
+|name=精制脚蹼
+|english_name=Masterwork flippers
+|cat=工具
+|price=50 gp
+|weight=1磅
+|description=这对流线型、符合流体力学的[[脚蹼]]，使穿戴者在水下进行复杂动作、或在湍急水域中游泳的游泳检定上获得+2环境加值。这个加值不与因拥有游泳速度而获得的游泳检定种族加值叠加。
+|source=水下冒险
+}}

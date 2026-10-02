@@ -1,0 +1,12 @@
+{{Trait
+|name=早成法师
+|english_name=Precocious Spellcaster
+|type=地区
+|prerequisites=塔尔多
+|description=早在你受训成为一名施法者之前，你就花费了很多时间来自学戏法和一些简单的魔法。因此，在没有任何来自外界的指导下你获得了一些内在的魔法能力。
+
+选择一个戏法以及一个一环法术，在决定它们的效果时你的施法者等级视为比实际的高一级。
+|regions=塔尔多
+|source_name=塔尔多，荣光荡漾之地
+|source_url=https://pf1chm.pages.dev/topics/page_938.html
+}}

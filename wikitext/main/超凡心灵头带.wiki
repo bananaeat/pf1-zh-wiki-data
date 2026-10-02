@@ -1,0 +1,15 @@
+{{魔法物品
+|name=超凡心灵头带
+|english_name=Headband of Mental Superiority
+|aon=MagicWondrousDisplay.aspx?FinalName=Headband of Mental Superiority2
+|cat=奇物
+|aura=强烈变化系
+|cl=16
+|slot=头饰
+|price=16,000 gp（+2）；64,000 gp（+4）；144,000 gp（+6）
+|weight=1磅
+|description=这条华丽的头带上装饰着许多簇小宝石。头带使穿戴者的所有心智属性值（智力、感知和魅力）获得+2、+4或+6增强加值。在头带穿戴的最初24小时内，该加值视为临时属性加值。头带还会如同[[无匹智力头带]]那样提供技能等级。
+|req=[[制造奇物]]、[[鹰之威仪]]、[[狐之狡黠]]、[[枭之睿智]]
+|cost=8,000 gp（+2）；32,000 gp（+4）；77,000 gp（+6）
+|source=核心规则书、极限宝具
+}}

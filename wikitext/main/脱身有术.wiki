@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Antihero's Handbook pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=脱身有术
+|english_name=Solitary
+|type=战斗
+|description=你擅长从人群中悄然溜走。每天一次，你可以尝试一次[[唬骗]]检定来制造牵制以便躲藏，该检定获得+2背景加值；如果成功，你在观察者注意力被分散期间为抵达无人注视之处而进行的[[隐匿]]检定只承受-5减值（而非通常的-10减值）。
+|source_name=反英雄手册
+|source=A'sH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Solitary
+}}

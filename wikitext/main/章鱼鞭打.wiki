@@ -1,0 +1,12 @@
+{{Feat
+|name=章鱼鞭打
+|english_name=Octopus Thrash
+|categories=战斗
+|pfs=否
+|description=你的手臂以令人[[困惑]]的方式摔绊和鞭笞敌人
+|prerequisites=敏捷13，[[闪避]]，[[精通摔绊]]，[[章鱼专注]]，[[章鱼流]]，[[特技]]7级，[[察觉]]7级
+|benefit=当使用[[章鱼流]]时，当你威胁两个互相相邻的敌人，你可以尝试一次摔绊[[战技]]检定取代你的近战攻击，同时对抗两个目标。你进行一次受到-5减值的战技检定并且将结果应用于这两个目标。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/zh366bfc623c.htm
+|source=MAH
+}}

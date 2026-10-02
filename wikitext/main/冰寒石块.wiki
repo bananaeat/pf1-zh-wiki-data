@@ -1,0 +1,11 @@
+{{Feat
+|name=冰寒石块
+|english_name=Chilled Rock
+|pfs=否
+|description=你可以将自己天生的低温传递给你投掷的岩石
+|prerequisites=霜生种，霜巨人
+|benefit=你通过投石能力投掷的物体将在命中目标时造成1d6点额外的寒冷伤害。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1403.html
+}}

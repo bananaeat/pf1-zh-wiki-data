@@ -1,0 +1,15 @@
+{{魔法物品
+|name=共感护目镜
+|english_name=Kinsight Goggles
+|aon=MagicWondrousDisplay.aspx?FinalName=Kinsight Goggles
+|cat=奇物
+|aura=微弱预言系
+|cl=2
+|slot=眼部
+|price=7,500 gp
+|weight=1磅
+|description=共感护目镜其实是两片分开的水晶单片眼镜，用一个简单的银扣连在一起，使两片镜片能像夹鼻眼镜一样同时佩戴。左右两半可以分开，各自单独佩戴，让两个人透过彼此的眼睛观看。分开后，任意一半的佩戴者可以说出命令字，透过另一半镜片观看，只要两半护目镜相距不超过500尺。当两片镜片连在一起作为一件物品佩戴时，它们不提供任何魔法效益——只有轻微的放大效果。
+|req=[[制造奇物]]、[[感官共享(法术)]]
+|cost=3,750 gp
+|source=极限宝具
+}}

@@ -1,0 +1,13 @@
+<noinclude>
+==说明==
+本模板用于表示规则元素中的名称-内容关系。参数1填入名称，参数2用于填入内容。
+[[分类:模板]][[分类:规则模板]]
+==示例==
+===用法===
+<pre>
+{{PropertyLine|来源|核心规则书}}{{PropertyLine|持续时间|1分钟}}
+</pre>
+===效果===
+{{PropertyLine|来源|核心规则书}}{{PropertyLine|持续时间|1分钟}}
+</noinclude>
+<includeonly><div class="property-line"><span class="key k-{{{1}}}">{{{1}}}</span> <span class="value">{{{2}}}</span></div></includeonly>

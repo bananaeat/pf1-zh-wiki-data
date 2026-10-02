@@ -1,0 +1,10 @@
+{{消歧义|树跃者 (消歧义)}}
+{{Trait
+|name=树跃者
+|english_name=Canopy Prowler
+|type=种族
+|prerequisites=[[猫人]]
+|description=你出生在雨林遍地，重峦叠嶂的莽吉丛林，从目标经常忽略的高高树尖一跃而下将其击倒已经成为了你的猎杀生涯的一部分。你在攀爬检定上获得+1背景加值，并且你将攀爬技能视为[[本职技能]]。如果你同时拥有攀爬者种族特性的话，你还会在攀爬中的隐匿检定上获得+1背景加值。
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_451.html
+}}

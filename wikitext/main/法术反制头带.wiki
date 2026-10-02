@@ -1,0 +1,15 @@
+{{魔法物品
+|name=法术反制头带
+|english_name=Headband of Counterspelling
+|aon=MagicWondrousDisplay.aspx?FinalName=Headband of Counterspelling
+|cat=奇物
+|aura=强烈防护系
+|cl=13
+|slot=头饰
+|price=20,000 gp
+|weight=1磅
+|description=这条金属头带使穿戴者在辨识正在施放的法术时，所进行的[[法术辨识]]检定获得+5洞察加值。此外，穿戴者每天一次可以尝试以一个[[直觉动作]]施放相应的法术来反制一个法术，而不必使用准备动作。穿戴者必须先辨识出正在施放的法术，才能用这条头带反制它。
+|req=[[制造奇物]]、[[法术反转]]
+|cost=10,000 gp
+|source=极限宝具
+}}

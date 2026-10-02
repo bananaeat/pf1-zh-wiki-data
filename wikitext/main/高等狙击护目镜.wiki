@@ -1,0 +1,14 @@
+{{魔法物品
+|name=高等狙击护目镜
+|english_name=Sniper Goggles (Greater)
+|aon=MagicWondrousDisplay.aspx?FinalName=Sniper Goggles (Greater)
+|cat=奇物
+|aura=中等预言系
+|cl=8
+|slot=眼部
+|price=50,000 gp
+|description=这副护目镜的镜片短粗，形似[[潜望镜]]，会根据佩戴者的需要伸缩。这副护目镜的作用如同狙击护目镜，只是佩戴者在任何距离进行偷袭时，都能在每个偷袭伤害骰上获得+2环境加值。
+|req=[[制造奇物]]、[[克敌机先]]
+|cost=25,000 gp
+|source=极限宝具
+}}

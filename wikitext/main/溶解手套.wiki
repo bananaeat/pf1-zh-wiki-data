@@ -1,0 +1,17 @@
+{{魔法物品
+|name=溶解手套
+|english_name=Deliquescent Gloves
+|aon=MagicWondrousDisplay.aspx?FinalName=Deliquescent Gloves
+|cat=奇物
+|aura=中等咒法系
+|cl=7
+|slot=手部
+|price=8,000 gp
+|weight=1磅
+|description=这双厚重的皮手套会在佩戴者的命令下泛起波纹、流动，重塑自身以适合任何手、爪、触手或异类肢体。佩戴者用该手进行的近战接触攻击造成1d6点酸蚀伤害。如果佩戴者用该手持用武器，或用该手进行徒手打击或天然武器攻击，该攻击获得酸蚀武器特殊能力。
+
+佩戴者戴着手套的那只手不受泥怪的强酸能力伤害，因此他可以用该手以徒手打击或天然攻击去攻击泥怪，而不会因接触泥怪而受伤。这些徒手打击和天然攻击绝不会使泥怪分裂。
+|req=[[制造奇物]]、[[强酸箭]]、[[召唤怪物 V]]
+|cost=4,000 gp
+|source=极限宝具
+}}

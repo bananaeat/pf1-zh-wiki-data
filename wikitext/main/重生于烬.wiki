@@ -1,0 +1,10 @@
+{{Feat
+|name=重生于烬
+|english_name=Growth in Ash
+|pfs=否
+|description=你知道，火焰代表着新生。
+|benefit=当你成功通过一个避免着火的反射豁免，或者当你不再受到造成持续性火焰伤害的法术或效果时，你可以用一个[[直觉动作]]在你自己身上涂抹着灰烬来获得快速治疗1，持续3轮。你的生命骰每超过3个，这一快速治疗的持续时间就额外延长一轮。
+|source=EMH
+|source_name=元素大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_1111.html
+}}

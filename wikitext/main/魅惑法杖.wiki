@@ -1,0 +1,18 @@
+{{魔法物品
+|name=魅惑法杖
+|english_name=Staff of Charming
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Charming
+|cat=法杖
+|aura=中等惑控系
+|cl=8
+|slot=无
+|price=17,600 gp
+|weight=5磅
+|description=这根法杖由扭曲的木头制成，形状华丽，雕刻精美。它可以使用以下法术：
+
+* [[魅惑人类]]（1 发）
+* [[魅惑怪物]]（2 发）
+|req=[[制造法杖]]、[[魅惑怪物]]、[[魅惑人类]]
+|cost=8,800 gp
+|source=核心规则书、极限宝具
+}}

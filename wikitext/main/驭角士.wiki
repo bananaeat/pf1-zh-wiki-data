@@ -1,0 +1,13 @@
+{{Feat
+|name=驭角士
+|english_name=Horn Rider
+|categories=战斗
+|pfs=否
+|description=你可以利用坐骑的巨角或獠牙防护自己。
+|prerequisites=基础攻击加值+1
+|benefit=被绑缚在兽角束具中时，你在防御等级上获得+1盾牌加值。
+|special=如果你拥有此专长，你可以在不具备骑术技能1级、也不具备[[骑乘战斗]]专长的情况下选择[[骑乘射击]]专长。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1411.html
+}}

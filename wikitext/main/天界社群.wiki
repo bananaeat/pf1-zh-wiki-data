@@ -1,0 +1,9 @@
+{{Trait
+|name=天界社群
+|english_name=Celestial Community
+|type=种族
+|prerequisites=[[神裔]]
+|description=你跟其他的[[神裔]]一起成长，因此比起其他同类，你与自己位面血脉的连结更加强大，并更彻底地开发了自己的魔法天赋。你可以消耗你每天一次的类法术能力，自发施展[[治疗轻伤]](CL等于你的角色等级),但此举劳心费神，你因此受到[[非致命伤害]]，数值等同你治疗量的一半。
+|source_name=遥远世界
+|source_url=https://pf1chm.pages.dev/topics/zh626a683d0a.htm
+}}

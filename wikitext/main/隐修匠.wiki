@@ -1,0 +1,11 @@
+{{Trait
+|name=隐修匠
+|english_name=Hedge Magician
+|type=魔法
+|pfs=否
+|aliases=隐居匠
+|description=你在一段时期内做过某位魔法物品工匠的学徒，他教会了你许多节约工序和成本的窍门。当你[[制造魔法物品]]时，降低5%的GP成本消耗。
+|source_name=魔法背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

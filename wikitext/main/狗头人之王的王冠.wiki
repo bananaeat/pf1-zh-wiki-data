@@ -1,0 +1,16 @@
+{{消歧义|狗头人之王的王冠(模组)}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=狗头人之王的王冠
+|english_name=Crown of the Kobold King
+|aon=MagicWondrousDisplay.aspx?FinalName=Crown of the Kobold King
+|cat=奇物
+|aura=强烈变化系
+|cl=12
+|slot=头部
+|price=15,000 gp
+|description=梅洛克雷普（Merlokrep）的王冠和他的部落一样古老，这件擦得锃亮的青铜传家宝已经在历代国王之间传承了数百年。杰卡贾克（Jekkajak）喃喃念诵的血之仪式是否真的存在尚不可知，但即使没有这个仪式，王冠也会赋予戴着它的人力量。戴上王冠，魅力获得+2增强加值，并获得+2天生护甲加值。你免疫所有龙的[[气势凶猛]]能力。如果你是[[术士]]，你的施法者等级+1。
+|req=[[制造奇物]]、[[树肤术]]、[[鹰之威仪]]
+|cost=7,500 gp，600 XP
+|source=狗头人之王的王冠(模组)
+}}

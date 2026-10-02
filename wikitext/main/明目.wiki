@@ -1,0 +1,9 @@
+{{装备
+|name=明目
+|english_name=Darting-eye concoction
+|cat=调剂
+|price=50 gp
+|weight=—
+|description=这种起泡的合剂能缩短服用者感官的反应时间，使其在察觉检定上获得+2炼金加值。然而它所引发的精神亢奋也会让服用者在意志豁免上受到-1减值。
+|source=冒险者的军械库2
+}}

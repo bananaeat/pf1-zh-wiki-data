@@ -1,0 +1,10 @@
+{{Feat
+|name=伪装陷阱
+|english_name=Camouflaged Trap
+|description=你擅长将你的陷阱隐匿于荒野中，使之更难以被你的敌手们发觉并躲避。
+|prerequisites=[[工艺]]（陷阱制作）4级，生存4级。
+|benefit=当你在荒野环境中制作并设置陷阱时，发现该陷阱所需的察觉检定DC增加5。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

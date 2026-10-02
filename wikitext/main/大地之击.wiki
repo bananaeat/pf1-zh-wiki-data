@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=大地之击
+|english_name=Ground Breaker
+|type=Ex
+|categories=进攻
+|prerequisites=[[野蛮人]]6级
+|benefit=野蛮人可以用手中武器对地面发动一次攻击，这次攻击自动命中并正常造成伤害。如果造成的伤害大于地面硬度，则野蛮人占据与邻接的空间变为[[困难地形]]。除野蛮人以外，所有在该区域的生物需进行DC为15的反射检定，失败则摔倒。
+|special=这项能力每次狂暴只能使用1次。
+|unchained=撼地一击
+|source_name=进阶玩家指南
+}}

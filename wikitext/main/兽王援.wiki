@@ -1,0 +1,15 @@
+{{Feat
+|name=兽王援
+|english_name=Beastmaster Salvation
+|categories=战斗
+|description=你的存在给予同伴坚韧与意志以抵挡各式各样的威胁。
+|prerequisites=魅力13，[[警觉]]，[[兽王流]]，[[驯养动物]]5级，察言观色5级。
+|benefit=当你与你的动物同伴相邻并且它尝试进行豁免检定时，你可以消耗一个[[直觉动作]]尝试使用[[驯养动物]]检定。你的[[动物伙伴]]无须进行豁免检定，而是以你的驯养动物检定结果作为其豁免检定结果。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[兽王怒]]（1 个条目）

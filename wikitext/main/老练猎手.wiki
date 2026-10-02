@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Ruins of Azlant Player's Guide pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=老练猎手
+|english_name=Seasoned Hunter
+|type=战役
+|pfs=否
+|description=你从小一年四季都在打猎。也许你在乡下长大，靠打猎养家糊口；也许你出身优渥，把狩猎当作一项运动，正好借机到荒野露营、磨练技艺。你向丰饶冒险公司讲述了自己最惊险的狩猎经历，又向他们证明你能在100尺外正中靶心，于是公司选中你加入远征队，确信你能为这个年轻的殖民地提供食物和安全保障。
+
+从下列生物类型中选择一种：异怪、动物、魔法兽或蠕虫。你对该类型的生物进行的攻击检定或伤害检定（二选一，一经选定不可更改）获得+1背景加值。
+|source_name=Ruins of Azlant Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Seasoned%20Hunter
+}}

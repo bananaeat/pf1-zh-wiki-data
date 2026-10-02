@@ -1,0 +1,26 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Hollow's Last Hope
+|authors=Jason Bulmahn、F. Wesley Schneider
+|pages=16
+}}
+
+{{书页/简介|head=隼谷镇（Falcon's Hollow）需要一个奇迹|1=
+瘟疫降临隼谷镇，就连镇上的牧师也无法遏止它那悲惨的蔓延。病人的咳嗽与垂死者的哀号在镇上回荡之际，当地的草药师发现了一种解药，却需要一些勇敢的英雄去取回原料。寻找解药意味着要冒险踏入危险的暗月谷，潜入女巫闹鬼的小屋，并深入一座被遗弃的矮人修道院的废墟。
+
+《隼谷镇最后的希望》是一部荒野探索兼地城冒险，适用于 1 级角色，与全球最受欢迎的奇幻角色扮演游戏兼容。本冒险详述了藏有拯救小镇关键原料的闹鬼森林与致命废墟。你的英雄是否有足够的技艺与勇气，及时找到解药？
+}}
+
+'''隼谷镇最后的希望'''（''Hollow's Last Hope''）是 Jason Bulmahn 与 F. Wesley Schneider 撰写的一部冒险，于 2007 年 6 月发行。作为 Paizo 全新 GameMastery 模组系列的开篇介绍，这部冒险在其官方网站上以免费 PDF 的形式提供下载；印刷版则于 2007 年 6 月 23 日的免费 RPG 日（Free RPG Day）由各地游戏商店免费发放。
+
+本模组既可以作为《狗头人之王的王冠》的前传来运行，也可以作为独立冒险使用。
+
+{{书页尾
+|pfw=Hollow's Last Hope
+|releases=Softcover (Free RPG Day)¦¦2007-06¦；Softcover (Paizo Store)¦PZO9500¦2007-06¦；PDF¦PZO9500E¦2007-07¦；Print-on-demand¦¦¦
+}}
+
+<small>CHM 汉化里没有这本书的译名，书名是本站定的。</small>
+
+[[分类:书目]]

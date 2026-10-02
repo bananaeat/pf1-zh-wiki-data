@@ -1,0 +1,14 @@
+{{Feat
+|name=豭突千裂
+|english_name=Boar Shred
+|categories=战斗
+|description=你徒手撕开的伤口血流不止，让敌人闻风丧胆。
+|prerequisites=[[精通徒手打击]]，[[豭突刺]]，[[豭突势]]，威吓9级。
+|benefit=你可以用一个[[移动动作]]进行一次威吓检定打击对手的士气。你采用[[豭突]][[流派]]架势时，如果你成功撕裂对手，对手会在之后每轮行动开始时受到1d6[[出血]]伤害。即使你之后切换成其他架势，造成的持续出血伤害仍会继续。
+|stamina=花费2点耐力，你可以用迅捷动作威吓对手。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+{{FAQ|v5748eaic9sm0}}

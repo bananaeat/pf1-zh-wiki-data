@@ -1,0 +1,1 @@
+<includeonly><span style="white-space:nowrap">{{{1}}}</span></includeonly><noinclude>{{优质模板|功能}}{{documentation}}[[Category:huiji template]]</noinclude><noinclude>{{DEFAULTSORT:Nowrap}}</noinclude>

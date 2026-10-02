@@ -1,0 +1,15 @@
+{{魔法物品
+|name=审判号角
+|english_name=Horn of Judgment
+|aon=MagicWondrousDisplay.aspx?FinalName=Horn of Judgment
+|cat=奇物
+|aura=中等变化系
+|cl=9
+|slot=无
+|price=15,000 gp
+|weight=1磅
+|description=这支金色的喇叭镶嵌着银和象牙。每日1次，持有者可以吹出一声独特的清越号音，如同[[镇魂曲]]一般影响30尺内至多9个[[虚体]]生物，持续9轮（意志DC 17无效，该法术见《[[进阶玩家指南]]》）。
+|req=[[制造奇物]]、[[镇魂曲]]
+|cost=7,500 gp
+|source=极限宝具
+}}

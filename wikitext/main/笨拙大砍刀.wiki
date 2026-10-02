@@ -1,0 +1,15 @@
+{{魔法物品
+|name=笨拙大砍刀
+|english_name=Unwieldy Glaive
+|aon=MagicCursedDisplay.aspx?ItemName=Unwieldy Glaive
+|cat=诅咒物品
+|base=[[大砍刀]]
+|enh=+2
+|aura=微弱变化系
+|cl=5
+|slot=无
+|weight=10磅
+|description=这把武器外观和功用都像一把+2[[大砍刀]]，但无法用来进行[[借机攻击]]，而且每当持用者试图进行这样的攻击时还会拖累他。持用者试图进行借机攻击时，大砍刀会疯狂乱舞，使持用者失去平衡。持用者在AC和攻击检定上承受-2减值，直到其下一回合结束。
+|req=+2[[大砍刀]]
+|source=极限宝具
+}}

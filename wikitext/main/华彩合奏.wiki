@@ -1,0 +1,11 @@
+{{Feat
+|name=华彩合奏
+|english_name=Counterpoint to Inspiration
+|categories=团队
+|description=你使盟友士气高昂，而敌人畏惧。
+|prerequisites=[[合奏]]，[[大合奏]]，[[表演]]（键盘、打击、演唱、弦乐、吹奏）10级，吟游表演或战怒之歌职业能力
+|benefit=当60尺内有一名拥有该专长的盟友在使用吟游表演或战怒之歌赋予队友士气加值或表现加值时，你可以进行相同的表演来使该加值再+1。这个加值仅在你们两个同时进行相同表演时才能有效，并且不会受到[[余音绕梁]]的延长。超过两人以上的协奏不会使加值继续增加。
+|source=CaC
+|source_name=部属与伙伴
+|source_url=https://pf1chm.pages.dev/topics/page_1347.html
+}}

@@ -1,0 +1,13 @@
+{{Spell
+|name=石言术
+|english_name=Stone Tell
+|school=预言系
+|levels=异能者 6;德鲁伊 6;猎人 6;萨满 7
+|action=10分钟
+|components=语言;姿势;圣徽
+|range=个人
+|target=自己
+|duration=1分钟/等级
+|description=你获得了与石头交谈的能力，由此了解谁或什么接触过它们，或者它后面或下面藏有什么东西等。被讯问的石头会给以完整的描述。受石头本身的视野，理解力，知识的限制，你未必能得到你想要的细节。你可以与天然或人工石头交谈。
+|source=核心规则书
+}}

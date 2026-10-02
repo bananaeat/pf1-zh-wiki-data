@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[防护善良]] 的神话版本。</small></div>
+{{Spell
+|name=防护善良
+|english_name=Protection from Good
+|school=防护系
+|tags=邪恶
+|levels=先知 1;反圣武士 1;召唤师 1;召唤师（掉链） 1;唤魂师 1;奥能师 1;审判者 1;导师 1;战斗祭司 1;术士 1;法师 1;牧师 1;萨满 1;血脉狂怒者 1;通灵者 1
+|description=除了对抗善良生物之外，皆与神话防护邪恶相同。
+|source=神话冒险
+}}
+[[分类:神话法术]]

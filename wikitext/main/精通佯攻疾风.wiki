@@ -1,0 +1,12 @@
+{{Feat
+|name=精通佯攻疾风
+|english_name=Improved Feinting Flurry
+|categories=战斗
+|description=你的第一次近战攻击就让对手彻底措手不及。
+|prerequisites=敏捷17，疾风连击职业特性，[[寓守于攻]]，[[佯攻疾风]]，基本攻击加值+6。
+|benefit=当你使用[[佯攻疾风]]成功，对手将在你的回合结束之前持续失去其AC的敏捷加值。
+|normal=成功的佯攻只会让对手对你的下一击失去敏捷加值。
+|source=DEP
+|source_name=初探龙国
+|source_url=https://pf1chm.pages.dev/topics/page_530.html
+}}

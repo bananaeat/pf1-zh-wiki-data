@@ -1,0 +1,9 @@
+{{Trait
+|name=吉兆刺青
+|english_name=Auspicious Tattoo
+|type=种族
+|prerequisites=[[人类]]（休盎提人）
+|description=你纹有代表所属部落(quah)图腾的刺青，它为你带来好运。你在意志豁免检定上获得+1背景加值。
+|source_name=格拉里昂的人类
+|source_url=https://pf1chm.pages.dev/topics/page_1581.html
+}}

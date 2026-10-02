@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=强力召唤维奥尔琴
+|english_name=Viol of Potent Summoning
+|aon=MagicWondrousDisplay.aspx?FinalName=Viol of Potent Summoning
+|cat=奇物
+|aura=强烈咒法系
+|cl=13
+|slot=无
+|price=24,400 gp
+|weight=1磅
+|description=每当持有者施放咒法（召唤）法术时，他可以消耗数量等同于该法术环级的吟游表演轮数。以该法术召唤出的生物，视为施法者拥有[[增强召唤]]专长。
+|req=[[增强召唤]]、[[制造奇物]]、[[召唤怪物 III]]，制造者必须拥有5级[[表演]]（弦乐器）
+|cost=12,200 gp
+|source=冒险之路114：暗星信标
+}}

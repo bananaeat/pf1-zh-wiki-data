@@ -1,0 +1,17 @@
+{{武器
+|name=短矛
+|english_name=Shortspear
+|category=武器
+|prof=简易
+|wcat=单手
+|price=1 gp
+|weight=3磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×2
+|range=20尺
+|type=穿刺
+|groups=矛，投掷，部落
+|description=短矛长约3尺，这使得它作为投掷武器颇为顺手。
+|source=核心规则书、极限宝具
+}}

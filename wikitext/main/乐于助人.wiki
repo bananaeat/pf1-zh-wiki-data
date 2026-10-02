@@ -1,0 +1,9 @@
+{{Trait
+|name=乐于助人
+|english_name=Helpful
+|type=战斗
+|description=你最清楚如何帮助你的同伴，无论是一起做事，保护他们，还是一起发起精准的一击。当你使用协助他人动作(aid another)时你提供+3加值而非+2。
+|source_name=战斗背景
+|source=CoP
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

@@ -1,0 +1,18 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{武器
+|name=尖啸标枪
+|english_name=Shrillshaft javelin
+|category=武器
+|prof=异种
+|wcat=远程
+|price=35 gp
+|weight=3磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×2
+|range=30尺
+|type=穿刺
+|special=见正文
+|description=这种一次性标枪的枪杆里，紧贴着枪头后方嵌有一颗[[爆雷石]]。如果你用这种标枪命中目标，目标如常受到标枪伤害，并成为爆雷石效果的中心。如果未命中，则像判定溅射武器未命中那样掷骰，看标枪落在何处；那一格成为爆雷石效果的中心。
+|source=格拉利昂的侏儒
+}}

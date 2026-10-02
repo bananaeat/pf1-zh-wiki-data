@@ -1,0 +1,17 @@
+<noinclude>{{战斗祭司导航}}
+'''地动祝福'''（Earthquake Blessing）是[[战斗祭司]]的[[祝福|祝福]]。
+
+</noinclude>{{Source|极限荒野|Ultimate Wilderness}}
+神祇：提供土祝福的邪恶神祇，或神职中包含灾难的非邪恶神祇
+
+【PFS】仅信仰邪恶神祇的战斗祭司可以选择。
+
+岿然不动（次级祝福）：你可以接触一名盟友，令其稳如泰山。在1分钟内，该生物在对抗会令其移位或倒地的战技时，CMD获得+4加值。
+
+岩之锤（高等祝福）：在10级时，你可以通过接触一件武器向其灌注强大的地震之力，持续1分钟。当这件武器命中一个生物时，目标须通过一次成功的反射豁免，否则倒地；无论豁免成功与否，目标都将在接下来的24小时内免疫此能力。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_126.html 原文]；后补的祝福和集中祝福见 [https://pf1chm.pages.dev/topics/zh372eb00726.htm 战斗祭司祝福汇总]、[https://pf1chm.pages.dev/topics/page_708.html 战场医师]），按 AoN 核对过。全部祝福见 [[祝福]]。
+
+[[分类:战斗祭司祝福]]
+
+{{职业}}</noinclude>

@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Serpent's Skull Player's Guide pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=珍妮维尔号船员
+|english_name=Jenivere Crew
+|type=战役
+|pfs=否
+|description=这趟前往埃勒德的航行，只是你在珍妮维尔号和其他货船上漫长水手生涯中的一次。无论你加入船员是希望有朝一日能指挥自己的船，还是为了以血汗换取前往异国港口的船资，抑或你是奴隶或契约仆役，你如今都把这艘船当作家。从下列技能中选择一项：[[特技]]、[[攀爬]]、[[知识]]（自然）、知识（地理）、[[游泳]]或[[生存]]。你该技能的检定获得+1背景加值，并且该技能总是视为你的本职技能。
+
+拥有这个背景特性的角色很可能自珍妮维尔号驶离玛格尼玛起就一直在船上。
+|source_name=Serpent's Skull Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Jenivere%20Crew
+}}

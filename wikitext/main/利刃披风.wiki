@@ -1,0 +1,15 @@
+{{魔法物品
+|name=利刃披风
+|english_name=Slashing Cloak
+|aon=MagicWondrousDisplay.aspx?FinalName=Slashing Cloak
+|cat=奇物
+|aura=微弱幻术系、变化系
+|cl=5
+|slot=肩部
+|price=20,000 gp
+|weight=1磅
+|description=这件厚实的酒红色披风镶着秘银板，剪裁得能漂亮地罩在重甲外面。穿戴者可以用一个[[整轮动作]]在原地旋转，对5尺内的每个生物造成伤害。这次攻击对每个生物都使用穿戴者最高的基础攻击加值，命中时造成2d6点伤害。穿戴者视为熟练使用这次攻击。此外，披风可以像近战武器一样被施以魔法强化，把对应近战武器特殊能力的造价加进披风的造价。
+|req=[[制造奇物]]、[[剑刃护壁]]
+|cost=10,000 gp
+|source=极限宝具
+}}

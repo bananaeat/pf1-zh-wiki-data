@@ -1,0 +1,10 @@
+{{Feat
+|name=扩展壁垒
+|english_name=Extend the Bulwark
+|categories=战斗;团队
+|description=［战斗，团队］你能通过介入你披甲的身躯以加强受训盟友的防御力。
+|benefit=若你穿戴中甲或重甲而且邻接也拥有此专长的一位盟友，以自由动作，你能给予你的盟友的AC等同1/2你的护甲提供的护甲加值的环境加值。此加值持续1回合。在此回合，你的AC不会从护甲中获得加值。
+|source=MM
+|source_name=魔法市集指南
+|source_url=https://pf1chm.pages.dev/topics/zhdaea558109.htm
+}}

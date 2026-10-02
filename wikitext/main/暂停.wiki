@@ -1,0 +1,12 @@
+{{Feat
+|name=暂停
+|english_name=Abeyance
+|categories=血巫术
+|pfs=否
+|description=你能干扰对手与他自己的魔力间的联系。
+|prerequisites=智力13，[[法术辨识]]5级，[[使用魔法装置]]1级
+|benefit=以一个[[标准动作]]，你选取一个自你上一轮开始以来被你用金属武器造成过伤害的敌人，你能吸取他内在的魔法能力。这个生物必须通过一个成功的意志豁免检定，否则会无法使用任何它原本可以每天使用超过一次的类法术能力，直到它身上所有的伤害都被治疗，或者直到1分钟的最大持续时间结束。
+|special=如果萨满或女巫使用该血巫术，目标在巫术持续时间内无法使用任何类法术能力。
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_343.html
+}}

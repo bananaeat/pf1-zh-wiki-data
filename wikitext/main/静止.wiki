@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''静止'''（Freeze）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：特性</span></div>
+</noinclude><includeonly><div class="lang"><span id="静止"></span><div class="lang-h"><b>[[静止]]</b><i>Freeze</i><span class="lang-w">Ex · 特性</span></div><div class="lang-d"></includeonly>
+该生物可以保持完全静止，使自己看起来像是相应形状的无生命物体（一座雕像、一片菌类之类的）。该生物可以在伪装成这类无生命物体、于众目睽睽之下隐藏的[[隐匿]]检定中取 20。
+
+'''格式'''：静止
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Freeze|2=Freeze}}
+
+[[分类:通用怪物规则]]</noinclude>

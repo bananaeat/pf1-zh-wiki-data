@@ -1,0 +1,18 @@
+''不要和 [[和平联系]]（Peace Bond）混淆。''
+{{Spell
+|name=和平条令
+|english_name=Peacebond
+|school=防护系
+|levels=奥能师 1;女巫 1;审判者 1;异能者 1;术士 1;法师 1;秘学士 1
+|action=标准动作
+|components=姿势
+|range=近距
+|target=一件入鞘或挂带的武器
+|duration=1分钟/等级
+|save=意志，通过则无效（物体）
+|sr=是
+|description=你将一把武器锁定在其主人身上，或锁在它的鞘或皮套里。任何随后想要尝试拔取该武器的人，都必须花[[标准动作]]进行一个力量检定 （DC等于法术豁免DC）。
+
+不管尝试成功与否，这都会触发藉机攻击。
+|source=极限战斗
+}}

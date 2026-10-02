@@ -1,0 +1,12 @@
+{{Feat
+|name=可怖冲撞
+|english_name=Awesome Charge
+|categories=战斗
+|pfs=否
+|description=你可以借冲锋之势打飞你的敌人
+|prerequisites=力量25，[[可怖殴击]]，[[精通冲撞]]，[[猛力攻击]]
+|benefit=当你在一次冲锋攻击中命中目标时，你可以以一个自由动作对其发动可怖殴击战技攻击。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1403.html
+}}

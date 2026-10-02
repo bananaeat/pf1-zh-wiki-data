@@ -1,0 +1,11 @@
+{{物品
+|name=虚空碎晶
+|english_name=Void Shard
+|category=冒险装备
+|price=250 GP
+|weight=-
+|description=这块碎晶似乎能吸收周围的光线，显现出负能量位面的湮灭之力。
+
+当你使用虚空碎晶作为死灵学派法术的材料成分或法器时，目标在对该法术的豁免上受到-2的惩罚。
+|source_name=位面旅者手册
+}}

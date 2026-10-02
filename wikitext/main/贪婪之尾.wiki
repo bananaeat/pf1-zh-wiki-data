@@ -1,0 +1,11 @@
+{{Feat
+|name=贪婪之尾
+|english_name=Grasping Tail
+|description=你的尾巴变得更加有用，可以用来抓取或握持小物品。
+|prerequisites=你必须拥有尾巴。
+|benefit=你可以用尾巴抓取收纳好的物品。虽然你无法使用尾巴持握武器，但是你能以一个[[迅捷动作]]用其取出你随身携带的收纳好的小物件。
+|special=如果你拥有魔裔的【卷尾】[[种族特性]]，则能以一个[[迅捷动作]]用尾巴抓住5尺范围内的无主物品或取出自己携带的物品；尽管你无法用尾巴使用物品，但你可以用尾巴握住这些物品，只是无法用尾巴操作它们（除了将其放入手中）。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

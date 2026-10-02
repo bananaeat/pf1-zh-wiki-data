@@ -1,0 +1,16 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[回击 (神话)]]。</small></div>
+{{Feat
+|name=回击
+|english_name=Strike Back
+|categories=战斗
+|description=当他们攻向你时，通过瞄准他们的肢体或武器，你能够击打使用长触及攻击你的敌人。
+|prerequisites=基本攻击加值+11。
+|benefit=你可以做一个[[准备动作]]来对以近战攻击你的任何敌人做一次近战攻击，即使该敌人在你的触及外。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[巨人杀手(专长)]]（1 个条目）

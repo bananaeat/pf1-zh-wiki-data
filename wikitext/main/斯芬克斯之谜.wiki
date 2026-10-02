@@ -1,0 +1,9 @@
+{{Trait
+|name=斯芬克斯之谜
+|english_name=Secrets of the Sphinx
+|type=派系
+|description=因为你的祖先对耐希斯献上了恰当的敬意，使得他的后代获得一些特殊预见天赋。每天一次，你可以在单项知识检定上获得+2背景加值。此外你可以任选一项知识技能视作你的[[本职技能]]。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

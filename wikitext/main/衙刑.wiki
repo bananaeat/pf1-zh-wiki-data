@@ -1,0 +1,22 @@
+{{速查导航|here=神祇}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出，CHM 汉化里没有这一位的译文，未经人工校对。}}
+{{神祇
+|name=衙刑
+|english_name=Yaezhing
+|title=鲜血大臣（Minister of Blood）
+|alignment=守序邪恶（LE）
+|weapon=手里剑
+|portfolio=断罪，杀戮，惩罚
+|domains=[[手艺领域|手艺]]，[[死亡领域|死亡]]，[[邪恶领域(领域)|邪恶]]，[[秩序领域|秩序]]，[[诡术领域|诡术]]
+|subdomains=[[手艺领域#构装子域 (Construct)|构装子域]]，[[诡术领域#欺骗子域 (Deception)|欺骗子域]]，[[邪恶领域(领域)#魔孽子域 (Demodand)|魔孽子域（邪恶）]]，[[邪恶领域(领域)#魔鬼子域 (Devil)|魔鬼子域（邪恶）]]，[[秩序领域#魔鬼子域 (Devil)|魔鬼子域（秩序）]]，[[死亡领域#杀戮子域 (Murder)|杀戮子域]]，[[手艺领域#疲累子域 (Toil)|疲累子域]]，[[死亡领域#亡灵子域 (Undead)|亡灵子域]]
+|symbol=染血的手里剑
+|animal=虎
+|centers=Goka，Kaoling，Lingshen，纳迦乔尔（Nagajor）
+|nationality=Tian-Shu
+|pantheon=天夏神祇
+|source=龙国舆图
+}}
+
+'''衙刑'''（Yaezhing）是天夏神祇之一，主管断罪、杀戮与惩罚。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Yaezhing|2=Yaezhing}}

@@ -1,0 +1,13 @@
+{{魔法物品
+|name=高等暗影
+|english_name=Shadow, Greater
+|cat=防具附魔
+|apply=护甲
+|bonus=+33,750 gp
+|aura=强烈幻术系
+|cl=15
+|description=与暗影相同，但提供的是+15的表现加值。
+|req=[[制造魔法武器和防具]]、[[隐形术]]、[[沉默术]]
+|cost=+16,875 gp
+|source=核心规则书、极限宝具
+}}

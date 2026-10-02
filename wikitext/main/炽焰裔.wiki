@@ -1,0 +1,9 @@
+{{Trait
+|name=炽焰裔
+|english_name=Flame-Touched
+|type=魔法
+|description=你与火元素亲和度非凡。你对火亚种/子类的生物或攻击获得伤害减免“1/-”。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

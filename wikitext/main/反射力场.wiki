@@ -1,0 +1,12 @@
+<noinclude>{{异能者导航}}
+'''反射力场'''（Deflection Field, Su）是[[异能者]]的[[精神增幅|精神增幅]]。
+
+</noinclude>''高等精神增幅''
+
+当异能者施放一个让她的AC获得偏斜加值的联结法术时，她可以从精神力池中花费2点精神力，在联结法术持续期间，自动将第一次未命中她的远程攻击反射回攻击者。这次反射攻击使用原来的攻击检定结果，再加上等同于异能者施法者等级的环境加值。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_310.html 精神增幅]、[https://pf1chm.pages.dev/topics/zhb4162fc9dd.htm 乌笃剌精神增幅]、[https://pf1chm.pages.dev/topics/page_855.html PSI技术]），按 AoN 核对过。全部精神增幅见 [[精神增幅]]。
+
+[[分类:精神增幅]]
+
+{{职业}}</noinclude>

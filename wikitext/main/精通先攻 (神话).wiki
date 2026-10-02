@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[精通先攻]] 的神话版本。</small></div>
+{{Feat
+|name=精通先攻
+|english_name=Improved Initiative
+|categories=神话
+|description=你充满自信地迅速加入战斗。
+|prerequisites=[[精通先攻]]
+|benefit=[[精通先攻]]专长对[[先攻]]检定所赋予的加值增加，增加数值等同于你的阶层。该加值与精通先攻专长的加值叠加。此外，取代进行先攻检定，你能够花费1次神话之力来将你视为投出自然20。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

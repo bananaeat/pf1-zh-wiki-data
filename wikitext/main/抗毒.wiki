@@ -1,0 +1,13 @@
+{{魔法物品
+|name=抗毒
+|english_name=Poison-Resistant
+|cat=防具附魔
+|apply=护甲、盾牌
+|bonus=+2,250 gp
+|aura=中等咒法系
+|cl=7
+|description=具有这项特殊能力的护甲或盾牌，会给予穿戴者对抗毒素的豁免检定+3抗力加值。
+|req=[[制造魔法武器和防具]]、[[中和毒性]]
+|cost=+1,125 gp
+|source=极限宝具
+}}

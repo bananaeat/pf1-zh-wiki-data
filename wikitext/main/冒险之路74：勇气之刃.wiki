@@ -1,0 +1,47 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #74: Sword of Valor
+|authors=Neil Spicer
+|pages=96
+}}
+
+{{书页/简介|head=夺回昔日荣光！|1=
+「正义之怒」冒险之路在「RPG Superstar」得主 Neil Spicer 的《勇气之刃》中继续。如今被赋予正义神话之力的 PC 们，即将成为这场似乎永无止境的对抗世界之伤恶魔的战争中最伟大的英雄……前提是他们能完成第一项任务。要塞之城德雷森（Drezen）曾是第一次十字军战胜世界之伤的象征，然而当一支规模更大的恶魔大军来袭，他们攻破了德雷森的防御，夺走了要塞和十字军的权力象征。PC 们能否带领一支大军北上，夺回德雷森并找回这件强大的圣物？还是说，他们是在把同伴和追随者带向一场惨烈的覆灭？
+
+本册《冒险之路》延续「正义之怒」冒险之路，内容包括：
+
+* 《勇气之刃》，一部面向 6 级、1 个神话阶角色的开拓者 RPG 冒险，作者 Neil Spicer。
+* 探究邪教徒将自身与恶魔族类缝合的种种手段，作者 Jason Nelson。
+* 一批在世界之伤的恐怖中失落的传奇遗物，作者 Ron Lundeen。
+* 「探索者日志」中对一名叛逃恶魔猎手的搜寻，作者 Robin D. Laws。
+* 四种新怪物，作者 James Jacobs、Jason Klimchok、Jason Nelson 与 David Schwartz。
+}}
+
+'''冒险之路74：勇气之刃'''（''Pathfinder #74: Sword of Valor''）是[[冒险之路]]「正义之怒」系列的一部冒险，由 Neil Spicer 撰写，附加内容出自 James Jacobs、Jason Klimchok、Ron Lundeen、Jason Nelson 和 David Schwartz，小说出自 Robin D. Laws，于 2013 年 9 月 25 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+勇气之刃 @ 6
+NPC 图集 @ 54
+正义之怒宝藏 @ 62
+- [[虔信者之甲]]
+- 必胜号角
+- 正义勋章
+- 影血
+- 割魂
+- 勇气之刃
+十字军的失落遗物 @ 64
+罪恶的代价 @ 70
+探索者日志：甘美灵血（2／6） @ 76
+怪物图鉴 @ 82
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Sword of Valor (adventure)
+|releases=PDF¦PZO9074E¦2013-09¦；Softcover¦PZO9074¦2013-09¦
+}}
+
+[[分类:书目]]

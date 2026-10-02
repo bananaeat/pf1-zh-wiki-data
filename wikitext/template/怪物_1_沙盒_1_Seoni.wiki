@@ -1,0 +1,234 @@
+{{速查导航}}
+<div class="well" style="margin:.2em 0"><small>'''这一条民间汉化的合集里没有中文名。'''属性块已经搬上来了，页名暂用英文原名。认领翻译见 [[待办事项]]。</small></div>
+{{怪物/沙盒
+|name=Seoni（1级）
+|cr=1
+|xp=400
+|classline=女性人类术士1
+|alignment=守序中立
+|size=中型
+|type=类人生物
+|subtypes=人类
+|init=+2
+|senses=感知：洞察+3
+|ac=17，接触13，措手不及14（+4盔甲，+2敏捷，+1闪避）
+|hp=8（1D6+2）
+|fort=+1
+|ref=+2
+|will=+3
+|speed=30尺
+|melee=法杖+0（1D6）
+|ranged=匕首+2（1D4/19-20）
+|spells=已知术士法术（CL1，专注+5）；1级法术（4次/日）法师护甲，魔法飞弹；0级法术（随意使用）酸液飞溅，侦测魔法，闪光术（DC15），阅读魔法；血统：奥法
+|tactics=<div class="ml wide"><span class="k">Before Combat</span>Seoni casts mage armor on herself.</div><div class="ml wide"><span class="k">During Combat</span>In combat, Seoni serves as artillery from range, blasting foes with acid splash and magic missile. （英语盲表示请看原文…… 反正 GOOGLE 说这妹子开战前会给自己套上法师护甲，开战之后就当炮台，拿酸液飞溅和魔法飞弹轰你……）</div><div class="ml wide"><span class="k">基础防御</span>没有法师护甲的时候，AC 13，措手不及10</div>
+|str=10
+|dex=14
+|con=12
+|int=10
+|wis=13
+|cha=18
+|bab=（基本攻击加值+0），CMB（战技攻击加值）+0，CMD（战技防御）13
+|feats=[[警觉]];[[闪避]];[[施法免材]];[[法术专攻]]（塑能）
+|skills=[[唬骗]]+8;[[攀爬]]+3;[[知识]]（位面）+4;洞察+3;[[察言观色]]+3;[[法术辨识]]+4
+|languages=通用语;Varisian 语
+|sq=奥术连结（魔宠，蓝尾巴的的蜥蜴，名叫“巨龙”）;奥法血脉（增加法术等级的超魔使法术 DC+1）;物品
+|combat_gear=七彩喷射卷轴
+|gear=匕首;法杖;背包;烟雾棒;照明杖（5）;口粮（4）;外加九个大子儿～
+|source=NPC志
+|npc=1
+|nofooter=1
+}}
+{{怪物/沙盒
+|name=魔宠：巨龙
+|classline=有效法师等级1
+|alignment=绝对中立
+|size=超小型
+|type=魔法兽
+|init=+2
+|senses=感知：低光视觉，洞察+1
+|ac=15，接触14，措手不及13（+2敏捷，+2体型，+1天生）
+|hp=4
+|fort=-1
+|ref=+2
+|will=+3
+|defensive=精通反射闪避
+|speed=20尺，攀爬 20尺
+|melee=撕咬+2（1D4-4）
+|space=1/2尺
+|reach=0
+|str=3
+|dex=15
+|con=8
+|int=6
+|wis=12
+|cha=2
+|bab=+0
+|cmb=+0
+|cmd=6（对抗绊摔10）
+|feats=[[武器娴熟]]（ 牙齿娴熟……）
+|skills=[[特技|杂技]]+10;[[攀爬]]+10;[[隐匿|潜行]]+14
+|racial_mods=+8杂技
+|sq=警觉;精通反射闪避;法术共享;情感链接
+|source=NPC志
+|npc=1
+|nofooter=1
+}}
+{{怪物/沙盒
+|name=Seoni（7级）
+|cr=7
+|xp=3,200
+|classline=女性人类术士7
+|alignment=守序中立
+|size=中型
+|type=类人生物
+|subtypes=人类
+|init=+6
+|senses=感知：洞察+3
+|ac=25，接触15，措手不及22（+4盔甲，+2偏斜，+2敏捷，+1闪避，+2天生，+4盾牌）
+|hp=41（7D6+14）
+|fort=+3
+|ref=+4
+|will=+6
+|speed=30尺
+|melee=法杖+3（1D6）
+|ranged=匕首+5（1D4/19-20）
+|spells=已知术士法术（CL7，专注+12）；3级法术（5次/日）解除魔法，加速术，闪电束（DC20）；2级法术（7次/日）闪光尘（DC17），隐形术，灼热射线，蛛网术（DC17）；1级法术（8次/日）燃烧之手（DC18），变巨术（DC18），鉴定术，法师护甲，魔法飞弹，护盾术；0级法术（随意使用）酸液飞溅，侦测魔法，打击死灵，闪光术（DC17），光亮术，魔法伎俩，阅读魔法；血统：奥法
+|tactics=<div class="ml wide"><span class="k">Before Combat</span>Seoni casts mage armor and extended shield (using her metamagic adept ability) before the start of the encounter.</div><div class="ml wide"><span class="k">During Combat</span>In combat, Seoni serves as artillery from range, blasting foes with magic missile, lightning bolt, and scorching ray. （ 好吧，妹子开战前会给自己套上法师护甲和延时护盾术，然后战斗中当炮台，用魔法飞弹、灼热射线、闪电束把你～轰～杀～至～渣～）</div><div class="ml wide"><span class="k">基础防御</span>没有法师护甲和护盾术，AC 17，接触15，措手不及14</div>
+|str=10
+|dex=14
+|con=12
+|int=10
+|wis=13
+|cha=21
+|bab=+3
+|cmb=+3
+|cmd=18
+|feats=[[警觉]];[[战斗施法]];[[闪避]];[[施法免材]];[[法术延时]];[[高等法术专攻]]（塑能）;[[精通先攻]];[[法术专攻]]（塑能）
+|skills=[[唬骗]]+15;[[攀爬]]+3;[[知识]]（位面）+10;洞察+3;[[察言观色]]+3;[[法术辨识]]+10
+|languages=通用语;Varisian 语
+|sq=奥术连结（魔宠，蓝尾巴的的蜥蜴，名叫“巨龙”）;奥法血脉（增加法术等级的超魔使法术 DC+1）;超魔擅长（每天2次）;物品
+|combat_gear=药水（猫之优雅）;治疗轻伤药水（3）;火球术卷轴;飞行术卷轴;魔法飞弹魔杖（CL 3，50发）
+|gear=匕首;法杖;天然护甲项链+2;魅力头带+2;防护戒指+2;背包;干粮（4）;44金币
+|source=NPC志
+|npc=1
+|nofooter=1
+}}
+{{怪物/沙盒
+|name=魔宠：巨龙
+|classline=有效法师等级7
+|alignment=绝对中立
+|size=超小型
+|type=魔法兽
+|init=+2
+|senses=感知：低光视觉，洞察+1
+|ac=18，接触14，措手不及16（+2敏捷，+2体型，+4天生）
+|hp=20
+|fort=+1
+|ref=+4
+|will=+6
+|defensive=精通反射闪避
+|speed=20尺，攀爬 20尺
+|melee=撕咬+5（1D4-4）
+|space=1/2尺
+|reach=0
+|str=3
+|dex=15
+|con=8
+|int=9
+|wis=12
+|cha=2
+|bab=+3
+|cmb=+3
+|cmd=9（对抗绊摔13）
+|feats=[[武器娴熟]]
+|skills=[[特技|杂技]]+10;[[攀爬]]+10;[[隐匿|潜行]]+14
+|racial_mods=+8杂技
+|sq=警觉;精通反射闪避;法术共享;情感链接;传导接触法术;与主人交谈;与蜥蜴交谈
+|source=NPC志
+|npc=1
+|nofooter=1
+}}
+{{怪物/沙盒
+|name=Seoni（12级）
+|cr=12
+|xp=19,200
+|classline=女性人类术士12
+|alignment=守序中立
+|size=中型
+|type=类人生物
+|subtypes=人类
+|init=+7
+|senses=洞察 +4（还是近视眼 ）
+|ac=31，接触19，措手不及27（ +4 铠甲，+4偏斜，+3敏捷，+1躲避，+1洞察，+4天生+4盾牌）Valeros 你情何以堪
+|hp=80（12d6+36）
+|fort=+8
+|ref=+10
+|will=+13
+|speed=30尺
+|melee=法杖 +6/+1（1d6）
+|ranged=匕首 +9（1d4/19-20）；术士法术知晓（CL 12，专注+19）；6级（每天4次）连环闪电（DC25）；5级（每天6次）寒冰锥（DC24），翱翔天际，力墙术；4级（每天7次）魅惑怪物（DC21），任意门，弹力球 (DC 23)，石皮，火墙；3级（每天8次）解除魔法，移位术，火球（DC22），加速，闪电束(DC 22)；2级（每天8次）黑暗术，黑暗视觉，光尘（DC 19），隐形，灼热射线，蛛网术（DC 19）；1级（每天8次）燃烧之手（DC 20），变巨术（DC 18），鉴定术，法师护甲，魔法飞弹，护盾术；0级（随意）酸液飞溅，侦测魔法，打击死灵，火花术（DC 19），光亮术，法师之手，修复术，魔法伎俩，阅读魔法；血脉：奥法
+|str=10
+|dex=16
+|con=12
+|int=10
+|wis=14
+|cha=24
+|bab=+6
+|cmb=+6
+|cmd=25
+|feats=[[警觉]];[[战斗施法]];[[闪避]];[[施法免材]];[[法术专攻]]（塑能）;高阶法术专攻（塑能）;[[精通先攻]];延时超魔;瞬发超魔;强壮
+|skills=[[知识]]（唬骗 +22 攀爬+3 洞察+4 ）（位面）+15 察觉动机+4;洞察+4;[[法术辨识]] +15
+|languages=通用语;Varisian 语
+|sq=奥术连结（魔宠，蓝尾巴的的蜥蜴，名叫“巨龙” ）;奥法血脉（增加法术等级的超魔使法术 DC+1）;超魔擅长（一天三次）;新奥法;物品;消耗品 治疗中伤药水 x3;飞行卷轴;能量防护卷轴;魔法飞弹魔杖（CL 7，32发）
+|gear=匕首;法杖 天然护甲项链+4;超凡敏捷腰带+2;抗力斗篷+3;魅力头带+4;玫瑰艾恩石（+1洞察 AC ）;法术反制之戒（魔法飞弹）防御戒指+4;背包;干粮 x4;价值250gp 的大理石和钻石粉;734gp;铺盖都不带;打定主意蹭某人的铺盖睡了吗？;---------------------------------------
+|source=NPC志
+|npc=1
+|nofooter=1
+}}
+{{怪物/沙盒
+|name=魔宠：巨龙
+|classline=有效法师等级12
+|alignment=绝对中立
+|size=超小型
+|type=魔法兽
+|init=+2
+|senses=低光视觉；洞察+1
+|ac=20，接触14，措手不及 18（+2敏捷，+2体型，+6天生）
+|hp=40
+|fort=+3
+|ref=+6
+|will=+9
+|defensive=精通反射闪避
+|sr=17
+|speed=20尺，攀爬20尺
+|melee=撕咬 +8（1d4-4）
+|space=1/2尺
+|reach=0
+|str=3
+|dex=15
+|con=8
+|int=11
+|wis=12
+|cha=2
+|bab=+6
+|cmb=+6
+|cmd=12（对抗摔绊+16）
+|feats=[[武器娴熟]]
+|skills=[[特技|杂技]] +10;[[攀爬]] +10;[[隐匿|潜行]] +14
+|racial_mods=+8 杂技
+|sq=警觉;精通反射闪避;分享法术;共感链接;传导接触法术;与主人交谈;与蜥蜴交谈;魔抗
+|source=NPC志
+|family=范例角色（NPC志）
+|npc=1
+|lore=
+特质 主人在攀爬检定上获得+3加值
+
+Born into a nomadic tribe, Seoni is gifted with magic and driven by dreams to explore the mysteries of her supernatural heritage. She is adorned with dozens of runic tattoos that indicate her high status in her tribe and aid her spellcasting.
+
+* 特质 主人在攀爬检定上获得+3加值
+* 特质 蜥蜴魔宠的主人攀爬技能获得+3加值
+
+穿着 cos 不知火舞的胸凶悍炮台术啊炮台术，不过卡跟她情人一样刚健朴实……
+}}
+
+本页译自《[[NPC志]]》的怪物图鉴 CHM。

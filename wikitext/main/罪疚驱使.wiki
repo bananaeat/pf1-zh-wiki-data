@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Strange Aeons Player's Guide pg. 8），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=罪疚驱使
+|english_name=Driven By Guilt
+|type=战役
+|pfs=否
+|description=历经磨难醒来后，你始终有种挥之不去的感觉：你曾参与过某件超出你正常道德界限的事。无论你曾在某个时刻堕落过，还是曾被迫做过一些已被遗忘的行为，这份愧疚都驱使着你去对抗世上那些残害善良之人的力量。你把眼下的处境视为救赎自己、驱散这种令人不安的情绪的机会。
+
+你对抗邪恶生物施放的任何法术或类法术能力的豁免检定获得+1背景加值。此外，每天一次，你可以用一个迅捷动作，在1轮内将你的魅力加值加到你对邪恶生物的攻击检定上，并且你每有一个职业等级，就对邪恶生物额外造成1点伤害。你必须是善良阵营才能选择这个背景特性。
+|source_name=Strange Aeons Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Driven%20By%20Guilt
+}}

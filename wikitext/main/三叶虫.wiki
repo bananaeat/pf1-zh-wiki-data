@@ -1,0 +1,45 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=三叶虫
+|english_name=Trilobite
+|cr=1/4
+|xp=100
+|alignment=绝对中立
+|size=超小型
+|type=虫类
+|subtypes=水栖
+|init=+2
+|senses=黑暗视觉 30 尺；察觉 +4
+|ac=15，接触 14，措手不及 13（+2 敏捷，+1 天生，+2 体型）
+|hp=5（1d8+1）
+|fort=+3
+|ref=+2
+|will=+0
+|immune=影响心灵效果
+|speed=20 尺，游泳 30 尺
+|melee=啮咬 +4（1d3–2）
+|space=2–1/2 尺
+|reach=0 尺
+|str=7
+|dex=15
+|con=12
+|int=—
+|wis=11
+|cha=2
+|bab=+0
+|cmb=+0
+|cmd=8
+|feats=[[武器娴熟]] B
+|skills=[[察觉]] +4;[[游泳]] +10
+|racial_mods=+4 察觉
+|sq=蜷缩;依赖水源
+|environment=任意海洋
+|organization=单独，一对，或一群（2–12）
+|treasure=无
+|special_abilities={{怪物能力|蜷缩|Ex|三叶虫可以用一个标准动作蜷成一个球，使其天生护甲加值提高 2，但无法采取任何移动动作。展开是一个标准动作。}}
+|source=怪物图鉴5
+|lore=
+三叶虫是适应了在海底拾荒的古老节肢动物，既有坚韧的外壳，也有在无光的深海中磨练出的敏锐感官，并以蜷成球来保护自己而闻名。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Trilobite|2=Trilobite}}

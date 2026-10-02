@@ -1,0 +1,14 @@
+{{Feat
+|name=污秽之怒
+|english_name=Fury of the Tainted
+|categories=战斗
+|description=你对那些不顾实际的社会改良家以及自称[[圣者]]的家伙们的愤怒已经无法遏制，这使得你成为了不可忽视的力量。
+|prerequisites=魅力13，狂暴职业能力，[[魔裔]]
+|benefit=当处于狂暴状态时，若你对抗的法术或效果带有善良描述符，那么豁免检定获得+4表现加值。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_833.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[精通污秽之怒]]（1 个条目）

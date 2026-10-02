@@ -1,0 +1,9 @@
+{{Trait
+|name=借机击杀
+|english_name=Opportune Slayer
+|type=宗教
+|prerequisites=信仰[[拉玛什图]]
+|description=那些让你有机可乘的人终会感受到你的愤怒。你在[[借机攻击]]时伤害骰子获得+2背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

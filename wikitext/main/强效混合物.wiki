@@ -1,0 +1,11 @@
+{{Trait
+|name=强效混合物
+|english_name=Potent Concoctions
+|type=宗教
+|aliases=剧烈毒素
+|prerequisites=伽兰德尔(Ghlaunder)
+|description=你将一生都奉献给饥荒与疾病，为之增光。从《核心规则书》第559页的表格中选择任何2种毒药，当你尝试向敌人施加其中一种毒药时，毒药的豁免DC+1。
+|source_name=堕落信念
+|source=FoC
+|source_url=https://pf1chm.pages.dev/topics/zhd0c4b91542.htm
+}}

@@ -1,0 +1,19 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=孙悟空
+|english_name=Sun Wukong
+|title=猴王（The Monkey King）
+|alignment=混乱中立（CN）
+|weapon=木棍
+|portfolio=醉酒，自然，诡术
+|domains=[[动物领域|动物]]，[[混乱领域|混乱]]，[[解放领域|解放]]，[[旅行领域|旅行]]，[[诡术领域|诡术]]
+|subdomains=[[诡术领域#欺骗子域 (Deception)|欺骗子域]]，[[旅行领域#探索子域 (Exploration)|探索子域]]，[[解放领域#自由子域 (Freedom)|自由子域]]，[[诡术领域#影射子域 (Innuendo)|影射子域]]，[[混乱领域#幻蛇子域 (Protean)|幻蛇子域]]，[[解放领域#革命子域 (Revolution)|革命子域]]，[[诡术领域#盗窃子域 (Thievery)|盗窃子域]]
+|symbol=石猴
+|animal=猴子
+|centers=神灵之森（Forest of Spirits），Goka，嬛郭（Hwanggot），昆莱（Kwanlai），民那塔（Minata），夸英（Quain）
+|nationality=猴
+|pantheon=天夏神祇
+|source=龙国舆图
+}}
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Sun%20Wukong|2=Sun Wukong}}

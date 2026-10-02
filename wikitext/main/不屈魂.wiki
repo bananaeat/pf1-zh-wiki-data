@@ -1,0 +1,9 @@
+{{Trait
+|name=不屈魂
+|english_name=Never Stop Shooting
+|type=战斗
+|description=即便肉身将溃，你的枪火仍在闪耀。如果你的生命值被降至0点以下但并未死亡，你能像[[瘫痪]]一般受限行动而非[[濒死]](如同拥有[[顽强]]专长)。但是，你仅能做取用火器、装填火器或用火器攻击等动作。如果你拥有“顽强”专长，该[[背景特性]]允许你在决定死亡阈限的生命负值时用感知属性取代体质属性。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

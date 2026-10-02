@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 194），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=叛逆之子
+|english_name=Experimental Rebel
+|type=种族
+|prerequisites=半精灵
+|description=你的[[精灵]]亲族对你十分冷淡，而你为了引起关注，干脆走上了叛逆之路。你在对抗由精灵所创造的法术和能力的豁免检定上获得+2背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Experimental%20Rebel
+}}

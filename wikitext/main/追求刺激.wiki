@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Varisia, Birthplace of Legends pg. 28），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=追求刺激
+|english_name=Thrill Seeker
+|type=战役
+|pfs=否
+|description=你在砂点镇或其周边长大，是自家不大的农场、店铺或渔船的继承人，但你一直梦想着更多。为了寻找一点刺激，你来到镇上参加今年的蝴蝶放飞节。危险带来的兴奋使你在任何战斗的第一轮中额外获得+5尺的移动距离。此外，你开局时拥有三枚星烛焰火（见《极限宝具》）。
+|source_name=瓦瑞西亚，传说诞生之地
+|source=VBoL
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Thrill%20Seeker
+}}

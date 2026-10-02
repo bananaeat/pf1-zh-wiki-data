@@ -1,0 +1,15 @@
+{{魔法物品
+|name=魔宠之抚手套
+|english_name=Glove of Familiar's Touch
+|aon=MagicWondrousDisplay.aspx?FinalName=Glove of Familiar's Touch
+|cat=奇物
+|aura=中等塑能系
+|cl=7
+|slot=手部
+|price=23,000 gp
+|weight=2磅
+|description=魔宠之抚手套的手掌处固定着一颗色泽鲜亮的大宝石，并附带另一颗与手套调谐的宝石。只要穿戴者的魔宠碰触着这颗调谐的宝石，手套的穿戴者就能把自己的魔宠指定为他所施展的任何接触法术的源头，即使施法时他与魔宠并没有彼此接触也可以。魔宠之抚手套会占用穿戴者整个手部物品栏位；穿戴者无法从其他同样使用手部栏位的魔法物品（即使是另一副魔宠之抚手套）中获益。
+|req=[[制造奇物]]、[[法术灌输]]
+|cost=11,500 gp
+|source=魔宠手记
+}}

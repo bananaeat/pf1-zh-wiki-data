@@ -1,0 +1,16 @@
+{{Spell
+|name=法力诅咒·否决
+|english_name=Curse of magic negation
+|school=防护系
+|tags=诅咒
+|levels=催眠师 3;奥能师 4;女巫 4;审判者 4;异能者 4;术士 4;法师 4;秘学士 4;先知 5;战斗祭司 5;牧师 5
+|action=1轮
+|components=语言;姿势;材料（价值250gp的铂金和铅粉）
+|range=中距
+|target=一名生物
+|duration=10分钟/等级
+|save=意志，通过则无效
+|sr=否
+|description=你破坏了目标吸收魔法能量的能力。在法术持续期间，目标会获得否决[[法术荒疫]]。试图解除这个法术荒疫的检定会因为本法术对魔法能量的干扰而受到-5罚值。
+|source=极限魔法
+}}

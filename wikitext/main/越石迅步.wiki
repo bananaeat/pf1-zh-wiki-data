@@ -1,0 +1,10 @@
+{{Feat
+|name=越石迅步
+|english_name=Stone Strider
+|description=你总能找出穿越碎岩的安全路径
+|prerequisites=熟悉岩石种族特性，信仰托拉格
+|benefit=你可以穿越任何种类的非魔法岩石地形，而不会受到伤害、不会因[[困难地形]]而减速，也不会承受该地形本会造成的任何其他不利影响。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

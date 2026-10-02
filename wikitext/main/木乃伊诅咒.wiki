@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Mummy's Mask Player's Guide pg. 10, People of the Sands pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=木乃伊诅咒
+|english_name=Mummy-Cursed
+|type=战役
+|pfs=否
+|description=你的一位祖先在探索一座古墓时触犯了木乃伊的诅咒。这个诅咒传给了你家族的后代，但随着时间推移，你的家族血脉对诅咒的抵抗力越来越强。你来到瓦提探索那片未经侵扰的大墓地，虽然你希望自己不必面对真正的不死木乃伊，但万一碰上了，至少你还有些防备。你对抗诅咒和诅咒效果（包括腐尸症和具有诅咒描述符的法术）的豁免获得+2背景加值，并且你对抗木乃伊绝望灵光的豁免获得+2背景加值。
+|source_name=Mummy's Mask Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Mummy-Cursed
+}}

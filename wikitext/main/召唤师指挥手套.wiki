@@ -1,0 +1,16 @@
+{{魔法物品
+|name=召唤师指挥手套
+|english_name=Gloves of the Commanding Conjurer
+|aon=MagicWondrousDisplay.aspx?FinalName=Gloves of the Commanding Conjurer
+|cat=奇物
+|aura=中等惑控系
+|cl=7
+|slot=手部
+|price=30,000 gp
+|description=这双手套让穿戴者对自己召唤的生物拥有更大的控制权。只要戴着手套，穿戴者所召唤的生物就能理解他的话，如同彼此共用一种语言。这种交流是单向的，不会让穿戴者获得理解这些生物的能力。
+
+每天三次，穿戴者可以尝试控制50尺内的一个被召唤生物，如同使用[[控制召唤生物]]（意志豁免DC 16）。
+|req=[[制造奇物]]、[[通晓语言]]、[[控制召唤生物]]
+|cost=15,000 gp
+|source=极限宝具
+}}

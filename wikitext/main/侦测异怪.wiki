@@ -1,0 +1,15 @@
+{{Spell
+|name=侦测异怪
+|english_name=Detect aberration
+|school=预言系
+|levels=异能者 1;德鲁伊 1;游侠 1;猎人 1
+|action=标准动作
+|components=语言;姿势
+|range=远距
+|area=锥形弥漫范围
+|duration=专注，最高10分钟/等级 （可解消）
+|save=无
+|sr=否
+|description=该法术的功能如同[[侦测动植物]]，不过它侦测的是异怪类的生物。
+|source=进阶玩家指南
+}}

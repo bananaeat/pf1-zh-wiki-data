@@ -1,0 +1,9 @@
+{{Trait
+|name=猫舌头
+|english_name=Inquisitive Banterer
+|type=种族
+|prerequisites=[[猫人]]
+|description=你擅长在平常的对话中突然抛出大量问题，通过信息轰炸让对方不自觉地漏出一些关键信息。你在交涉检定上获得+1背景加值，并且如果你使用交涉技能获取信息的话，你只需要花费1d2小时而非正常的1d4小时。
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_451.html
+}}

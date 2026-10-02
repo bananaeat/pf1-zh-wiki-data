@@ -1,0 +1,18 @@
+{{武器
+|name=倒钩矛
+|english_name=Sibat
+|category=武器
+|prof=军用
+|wcat=单手
+|price=2 gp
+|weight=2磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×3
+|range=10尺
+|type=穿刺或挥砍
+|special=擒抱
+|groups=矛，投掷
+|description=这件武器类似于[[短矛]]，杆身是柔韧的藤条或竹子，矛头装有精心制作的倒钩。倒钩能够钩住血肉、衣物或护甲，将敌人缠住。
+|source=极限战斗、极限宝具、远程战术工具箱
+}}

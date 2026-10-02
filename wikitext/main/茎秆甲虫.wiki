@@ -1,0 +1,42 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=茎秆甲虫
+|english_name=Stalk Beetle
+|cr=2
+|xp=600
+|alignment=绝对中立
+|size=中型
+|type=虫类
+|init=+1
+|senses=黑暗视觉 60 尺；察觉 +0
+|description=这只贪婪的甲虫有一匹小马那么大，长着一对致命的锯齿状大颚。
+|ac=16，接触 11，措手不及 15（+1 敏捷，+5 天生）
+|hp=22（4d8+4）
+|fort=+5
+|ref=+2
+|will=+1
+|immune=心智效果
+|speed=30 尺，掘地 10 尺，攀爬 20 尺
+|melee=啮咬 +6（1d6+4）
+|special_attacks=锯齿
+|str=17
+|dex=13
+|con=12
+|int=–
+|wis=10
+|cha=1
+|bab=+3
+|cmb=+6
+|cmd=17（对抗摔绊 25）
+|skills=[[攀爬]] +11
+|environment=温暖沙漠（拉哈多姆）
+|organization=单独，群（2–8），或虫灾（9–20）
+|treasure=无
+|special_abilities={{怪物能力|锯齿|Ex|茎秆甲虫锯齿状的大颚使它在攻击物件时能无视硬度 5 或更低的硬度。此外，茎秆甲虫以啮咬重击成功时会造成 1 点流血伤害。}}
+|source=Inner Sea Bestiary
+|lore=
+茎秆甲虫是拉哈多姆的祸害，像巨型蝗虫一样扫荡大地，吞食它们遇到的一切植被。
+}}
+
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Stalk Beetle|2=Stalk Beetle}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=鞭子专家
+|english_name=Whip Specialist
+|type=地区
+|prerequisites=欧克诺
+|description=你用鞭子抽打奴隶的时间教会了你如何充分利用鞭子。你用鞭子进行的所有攻击的伤害+1。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

@@ -1,0 +1,13 @@
+{{危害
+|name=极效火球陷阱
+|english_name=Maximized Fireball Trap
+|kind=陷阱
+|trap_type=魔法
+|cr=13
+|perception=DC 31
+|disable=DC 31
+|trigger=接近型（[[魔法警报]]）
+|reset=无
+|effect=法术效果（极效[[火球术]]，60点火焰伤害，反射 DC 14 豁免减半）；复数目标（20尺半径爆发内的所有目标）
+|source=核心规则书
+}}

@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[盾牌辟矢]] 的神话版本。</small></div>
+{{Feat
+|name=盾牌辟矢
+|english_name=Missile Shield
+|categories=神话
+|description=非凡的意识让你能够偏转复数远程攻击，甚至还能偏转射线法术。
+|prerequisites=[[盾牌辟矢]]
+|benefit=当你使用[[盾牌辟矢]]专长时，每轮你能够偏转额外数量的远程攻击，这个数量等同于你的阶层的一半。你能够以[[直觉动作]]花费1点神话之力，以此来偏转以你为目标、来自射线法术或效果的1个射线。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

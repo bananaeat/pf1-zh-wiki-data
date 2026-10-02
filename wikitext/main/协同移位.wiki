@@ -1,0 +1,12 @@
+{{Feat
+|name=协同移位
+|english_name=Coordinated Reposition
+|categories=团队
+|pfs=否
+|description=你惯于协调队友的站位，使敌人无处插脚
+|prerequisites=快步跟进
+|benefit=每当一个拥有此专长的盟友在威胁着某个你同样威胁的生物时进行5尺快步，你就可以以一个直觉动作移动5尺。这次移动不会引发借机攻击。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1405.html
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=菁英野兽语者
+|english_name=Beast Speaker Mastery
+|description=你的魔法兽获得了只有野生同族才拥有的能力。
+|prerequisites=野兽语者，角色等级等于或高于你伙伴的菁英要求
+|benefit=你的野兽伙伴获得其属性中菁英条目中列出的能力和价值。你必须达到指定的等级才能让伙伴使用这些能力，若你遣散了一位伙伴并获得了一位不同类型的新野兽伙伴，你会保留该专长，但或许不足以让新伙伴获取菁英能力。
+|normal=无论野兽伙伴等级如何都无法获取菁英能力。
+|source_name=格拉利昂的英雄
+|source_url=https://pf1chm.pages.dev/topics/zhdd5001e184.htm
+}}

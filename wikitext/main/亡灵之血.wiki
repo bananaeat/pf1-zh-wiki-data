@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=亡灵之血
+|english_name=Undead Blood
+|type=Su
+|categories=血脉
+|prerequisites=[[野蛮人]]6级，[[次等亡灵之血]]
+|benefit=每当野蛮人进入狂暴状态，他的近战攻击就视为他的武器拥有幽冥武器附魔效果。
+|source_name=进阶职业指南
+}}

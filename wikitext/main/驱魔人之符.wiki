@@ -1,0 +1,14 @@
+{{魔法物品
+|name=驱魔人之符
+|english_name=Exorcist Ofuda
+|aon=MagicWondrousDisplay.aspx?FinalName=Exorcist Ofuda
+|cat=奇物
+|aura=微弱防护系
+|cl=3
+|slot=无
+|price=650 gp
+|description=这张写满圣文的纸符可用来抵御挥之不去的邪恶。持有驱魔人之符的生物，在[[作祟]]的效果显现时，进行察觉检定以注意到该作祟获得+3加值。此外，驱魔人之符可以用一个[[标准动作]]触发，使30尺内所有盟友在1轮内对抗作祟效果的豁免检定上获得+2神圣加值，并在AC上获得+2偏斜加值。以这种方式触发后，符纸会在一团火焰中被烧毁。
+|req=[[制造奇物]]、[[防护邪恶]]
+|cost=325 gp
+|source=商人货单
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=冷漠面具
+|english_name=Mask of Stony Demeanor
+|aon=MagicWondrousDisplay.aspx?FinalName=Mask of Stony Demeanor
+|cat=奇物
+|aura=中等变化系
+|cl=6
+|slot=头部
+|price=8,000 gp
+|weight=4磅
+|description=佩戴时，这副面具会把穿戴者的脸变成一尊石像，声音变成毫无感情的单调语调。虽然穿戴者仍能说话，但面部表情和声音几乎不流露任何情绪，使其在为说谎而做的唬骗检定上获得+10表现加值，在为[[虚招]]而做的唬骗检定上获得+5表现加值，但在为传递隐秘信息而做的唬骗检定上承受-5减值。
+|req=[[制造奇物]]、[[无罪术]]、[[塑石术]]
+|cost=4,000 gp
+|source=进阶种族手册、极限宝具
+}}

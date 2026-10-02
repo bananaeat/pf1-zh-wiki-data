@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Ruins of Azlant Player's Guide pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=多才多艺
+|english_name=Skillful
+|type=战役
+|pfs=否
+|description=你一直对各种各样的事物感兴趣，成长过程中你花时间磨练了其中一些才能，这些才能在生活中帮了你不少。有些人把你的成功归于运气，但也有人看出了你真正拥有的东西——本事。对多种技能与能力的兴趣和练习让你在许多不同的工作中都得心应手，而正是顺着自己广泛的兴趣，你得知了前往阿兹兰特遗迹的远征。你提交申请后，丰饶冒险公司选中了你，因为你处理事情的娴熟手法将对一个正在成长的殖民地大有帮助。
+
+每天一次，当你的[[特技]]、[[攀爬]]、[[法术辨识]]、[[隐匿]]或[[使用魔法装置]]检定失败时，你可以立即以一个自由动作重骰该检定。你必须采用第二次的结果，即使它更差。
+|source_name=Ruins of Azlant Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Skillful
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=战狂之心
+|english_name=Fighting Frenzy
+|categories=战斗;团队
+|description=你与盟友一起陷入狂怒，投身不顾一切的恶斗
+|prerequisites=[[魅力]] 13，狂暴职业能力
+|benefit=每当你和一个距离你60尺内且拥有本专长的盟友同时进入狂暴状态，你不会因为狂暴而承受防御等级上的-2减值。如果你因为狂暴而承受高于2点防御等级减值，这个减值减少2点。
+|source=ACO
+|source_name=进化职业起源
+|source_url=https://pf1chm.pages.dev/topics/page_500.html
+}}

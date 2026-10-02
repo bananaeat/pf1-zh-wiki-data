@@ -1,0 +1,15 @@
+{{魔法物品
+|name=众命焚香
+|english_name=Incense of Many Fates
+|aon=MagicWondrousDisplay.aspx?FinalName=Incense of Many Fates
+|cat=奇物
+|aura=中等预言系
+|cl=11
+|slot=无
+|price=3,300 gp
+|weight=1磅
+|description=在冥想时使用这种熏香，可以让轮回者的意识穿越前世或来世，进一步了解某个重要的人物、地点或事物。其作用如同通晓传奇，但只有在目标就在手边时才有效。这种超然状态持续1小时，其间她不能采取其他行动。如果她在冥想中被打断，熏香的效果就会丧失。轮回者以外的生物也可以使用这种熏香，但与其他生命的联系较弱，需要更深入的、长达24小时的冥想。每块熏香只能使用1次。
+|req=[[制造奇物]]、[[通晓传奇]]
+|cost=1,650 gp
+|source=进阶种族手册
+}}

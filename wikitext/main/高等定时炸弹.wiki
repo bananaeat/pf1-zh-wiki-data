@@ -1,0 +1,15 @@
+{{魔法物品
+|name=高等定时炸弹
+|english_name=Time Bomb, Greater
+|aon=MagicWondrousDisplay.aspx?FinalName=Time Bomb, Greater
+|cat=奇物
+|aura=强烈塑能系
+|cl=13
+|slot=无
+|price=6,000 gp
+|weight=1磅
+|description=高等定时炸弹的运作如同[[定时炸弹]]，但会造成13d6点火焰伤害（反射DC 20减半）。
+|req=[[制造奇物]]、[[魔法警报]]、[[延迟爆裂火球]]
+|cost=3,000 gp
+|source=极限诡道
+}}

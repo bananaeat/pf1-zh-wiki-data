@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[双武器防御 (神话)]]。</small></div>
+{{Feat
+|name=双武器防御
+|english_name=Two-Weapon Defense
+|categories=战斗
+|description=你的[[双武器战斗]]风格可攻可守。
+|prerequisites=[[敏捷]] 15，[[双武器格斗]]。
+|benefit=使用双头武器或双武器时（不包含天生武器或徒手打击），AC获得+1盾牌加值。当你使用防御式战斗或[[全防御]]时，此盾牌加值增为+2。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

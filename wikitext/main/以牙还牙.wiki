@@ -1,0 +1,11 @@
+{{Feat
+|name=以牙还牙
+|english_name=Porcupine Defense
+|categories=战斗
+|description=当对手试图压制你时你能威胁到他。
+|prerequisites=寓守于攻，战斗反射，基础攻击加值+6
+|benefit=每当一个至少比你体型大一级的对手尝试对你进行一次战技攻击时，你在任何被允许的借机攻击上获得+2加值。如果你的对手使用的这种攻击不会引发借机攻击，你在对抗这样的战技时在CMD上获得+2加值。
+|source=DH
+|source_name=屠龙者手册
+|source_url=https://pf1chm.pages.dev/topics/page_820.html
+}}

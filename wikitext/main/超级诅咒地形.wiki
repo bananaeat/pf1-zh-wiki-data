@@ -1,0 +1,15 @@
+{{Spell
+|name=超级诅咒地形
+|english_name=Curse terrain, supreme
+|school=死灵系
+|tags=诅咒;邪恶
+|levels=先知 8;奥能师 8;女巫 8;德鲁伊 8;术士 8;法师 8;牧师 8;萨满 8
+|action=10分钟
+|components=语言;姿势;材料（一只曾栖息于该区域的生物的心脏，以及价值4,000gp的缟玛瑙粉）
+|range=接触
+|area=从接触的点向外弥漫半径5哩
+|duration=1天 (可解消)
+|sr=否
+|description=透过触摸大地，你令七个超自然危机诅咒这片土地。此法术如同[[次等诅咒地形]]般作用，但效果是超等危险地域诅咒（见Page.144）。
+|source=惧怖冒险
+}}

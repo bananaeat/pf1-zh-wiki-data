@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=泥沼行者靴
+|english_name=Bogstrider Boots
+|aon=MagicWondrousDisplay.aspx?FinalName=Bogstrider Boots
+|cat=奇物
+|aura=中等防护系
+|cl=7
+|slot=脚部
+|price=10,000 gp
+|weight=1磅
+|description=这双柔软的皮靴散发着浓烈的沼气味，即使是干的，也会留下淡淡的湿脚印。尽管有这些不尽人意之处，泥沼行者靴在沼泽地带依然大有用处。它们让穿戴者在浅泥沼或深泥沼方格中（核心规则书第427页）移动不受罚值，并且穿戴者在浅泥沼方格中进行[[特技]]检定的DC不变。此外，每天3次，当穿戴者进行冲锋或撤退动作时，她可以使速度提高60尺，持续1轮。
+|req=[[制造奇物]]、[[行动自如]]、[[加速术]]
+|cost=5,000 gp
+|source=荒野英雄
+}}

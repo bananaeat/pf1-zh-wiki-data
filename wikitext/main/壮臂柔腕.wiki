@@ -1,0 +1,8 @@
+{{Trait
+|name=壮臂柔腕
+|english_name=Strong Arm, Supple Wrist
+|type=战斗
+|description=你接受过使用矛和标枪的专门训练，所以你很清楚地知道该如何最大化利用你的动能。如果你在使用投掷武器做出攻击之前至少移动了10尺，投掷武器的射程增量增加10尺。在一轮中你只能受益于这个好处一次。
+|source_name=卡蒂亚，通向东方的大门
+|source_url=https://pf1chm.pages.dev/topics/page_1005.html
+}}

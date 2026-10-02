@@ -1,0 +1,11 @@
+{{Feat
+|name=凶恶交涉人
+|english_name=Threatening Negotiator
+|description=那些被你恐吓的人心里明白，你是个说到做到的人。
+|prerequisites=[[冷面交涉人]]，[[谈判专家(专长)|谈判专家]]，[[技能专攻]]（威吓）
+|benefit=当你成功使用威吓技能迫使1名对手对你表示友善，目标态度的改变会持续2d6小时。
+|normal=使用威吓改变对手的态度后，它对你的友好态度只会持续1d6 x 10分钟。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

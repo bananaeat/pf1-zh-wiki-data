@@ -1,0 +1,23 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[召唤黑布丁怪 (神话)]]。</small></div>
+{{Spell
+|name=召唤黑布丁怪
+|english_name=Conjure black pudding
+|school=咒法系 (召唤)
+|tags=酸
+|levels=召唤师 5;召唤师（掉链） 5;奥能师 6;异能者 6;术士 6;法师 6
+|action=1轮
+|components=语言;姿势;材料（一瓶酸液，价值10gp）
+|range=近距
+|duration=1轮/等级 （可解消）
+|save=无
+|sr=否
+|effect=召唤一只黑布丁怪
+|description=你召唤出一只黑布丁怪，它会立刻开始攻击附近的生物。
+
+你对它没有任何控制力，所以如果附近没有其他明显的对手，它有可能会攻击你。
+
+这只黑布丁怪被视为一个召唤生物，同时拥有跨位面亚种。
+
+黑布丁怪的分裂能力将会正常工作，但是在法术持续时间结束时所有衍生体都会一同消失。
+|source=极限魔法
+}}

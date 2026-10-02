@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 62），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=滑不留手
+|english_name=Slippery
+|type=战斗
+|pfs=否
+|prerequisites=铃花会
+|description=你一生中逃离过太多危险处境，已经非常擅长不被抓住。你在[[隐匿]]检定上获得+1背景加值，并且隐匿是你的本职技能。
+|source_name=组织指南
+|source=FM
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Slippery
+}}

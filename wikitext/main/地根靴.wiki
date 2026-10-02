@@ -1,0 +1,15 @@
+{{魔法物品
+|name=地根靴
+|english_name=Earth Root Boots
+|aon=MagicWondrousDisplay.aspx?FinalName=Earth Root Boots
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=脚部
+|price=8,000 gp
+|weight=2磅
+|description=穿戴这双靴子的人在一个地方（该处必须是坚实的地面）停留得越久，就越难被从该处移开。穿戴者每有一轮没有离开自己所占的空间，其[[CMD]]就获得累积的+1环境加值（最多+10）。
+|req=[[制造奇物]]、[[元素形态 I]]
+|cost=4,000 gp
+|source=极限宝具
+}}

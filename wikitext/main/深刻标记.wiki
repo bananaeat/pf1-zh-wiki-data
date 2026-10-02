@@ -1,0 +1,9 @@
+{{Trait
+|name=深刻标记
+|english_name=Deep Marker
+|type=种族
+|prerequisites=[[矮人]]
+|description=为了进行gladdringgar（在地下深处凿刻名字符文），你曾闯入未经探明的隧道。你在生存检定上得到+1背景加值，在对抗恐惧效果的豁免检定同样获得+1背景加值。
+|source_name=格拉里昂的矮人
+|source_url=https://pf1chm.pages.dev/topics/page_1586.html
+}}

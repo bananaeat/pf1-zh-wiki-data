@@ -1,0 +1,48 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #86: Lords of Rust
+|authors=Nicolas Logue
+|pages=96
+}}
+
+{{书页/简介|head=机器中的神|1=
+火炬镇的英雄们循着一连串线索，来到名为废料墙（Scrapwall）的广袤废料场——一群群绝望而凶暴的匪帮，在这里争夺其中遗留的科技残骸与废墟的控制权。铁锈之主统治着废料墙，其迅速膨胀的势力威胁的不只是火炬镇。因为他们得到了纽梅利亚一位钢铁之神的支持，而在废料墙残骸之下断断续续沉睡着的东西，若不加以阻止，足以把铁锈之主推上全新的权力高度！
+
+本册《冒险之路》延续「钢铁诸神」冒险之路，内容包括：
+
+* 《铁锈之主》，一部面向 4 级角色的开拓者冒险，作者 Nicolas Logue。
+* 对科技联盟的隐秘与科学的一瞥，作者 Jim Groves。
+* 深入了解发条、发明与时间的女神[[布莱]]的信仰，作者 Sean K Reynolds。
+* 「探索者日志」中纽梅利亚荒原里一项出人意料的发现，作者 Amber E. Scott。
+* 四种新怪物，作者 Adam Daigle、Nicolas Logue 和 Sean K Reynolds。
+}}
+
+'''冒险之路86：铁锈之主'''（''Pathfinder #86: Lords of Rust''）是[[冒险之路]]「钢铁诸神」系列的一部冒险，由 Nicolas Logue 撰写，于 2014 年 10 月 1 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+铁锈之主 @ 6
+NPC 图集 @ 54
+钢铁诸神宝藏 @ 62
+- 使者传声器（envoy's mouthpiece）
+- 毒气手雷（gas grenade）
+- 记忆晶面（memory facet）
+- 灼脑器（mind burner）
+- 舒缓剂（soothe）
+科技联盟 @ 64
+[[布莱]] @ 70
+探索者日志：荒原低语（2／6） @ 76
+怪物图鉴 @ 80
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Lords of Rust (adventure)
+|releases=PDF¦PZO9086E¦2014-10¦；Softcover¦PZO9086¦2014-10¦
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

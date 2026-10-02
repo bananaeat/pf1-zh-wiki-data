@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kingmaker Player's Guide pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=山贼
+|english_name=Brigand
+|type=战役
+|pfs=否
+|description=你来自河域诸国或布雷斡较为无法无天的地区。生活对你来说一直很艰难。也许你的父母和兄弟姐妹都是骗子和老千，或者你粗粝孤独的生活让你与盗贼乃至更坏的人混在了一起。你懂得如何伏击旅人、欺压商贩、躲避法律，以及在没人找得到的地方扎营。最近你惹上了一些麻烦，要么是跟官府，要么是跟其他盗匪，你正想躲到一个谁也想不到去找你的地方。深入荒蛮野地的远征似乎是等风头过去之前销声匿迹的绝佳方式。你开始战役时额外拥有100 gp的不义之财。在与强盗、盗贼、土匪之流打交道时，你的[[唬骗]]、[[交涉]]、[[威吓]]和[[察言观色]]检定获得+1背景加值。
+|source_name=Kingmaker Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Brigand
+}}

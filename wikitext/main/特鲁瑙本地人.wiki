@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Giantslayer Player's Guide pg. 7, Giant Hunter's Handbook pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=特鲁瑙本地人
+|english_name=Trunau Native
+|type=战役
+|pfs=否
+|description=你在特鲁瑙镇出生长大，这是[[兽人]]统治的贝尔克泽恩境内为数不多的人类定居点之一。兽人的袭击是始终存在的威胁，你和所有特鲁瑙人一样立下了“坚守誓言”：誓守特鲁瑙，抵御一切来犯者，无论是兽人还是其他敌人，寸土不让，要么自由地活着，要么为之战死。成年时，你得到了一把希望之刃——一把带鞘的小匕首，通常用链子挂在衣服底下——并被教导如何用它自尽以免被兽人俘虏，或是给伤者一个痛快的死亡以示仁慈。作为本地人，你曾在特鲁瑙的民兵中服役，与巡逻队长库斯特和罗德里克·格拉斯并肩作战。你开始游戏时拥有一把希望之刃（一把精制匕首），并且你在逆境中的坚韧让你的意志豁免检定获得+1背景加值。
+|source_name=Giantslayer Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Trunau%20Native
+}}

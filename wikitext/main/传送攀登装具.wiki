@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=传送攀登装具
+|english_name=Teleporting Climbing Rig
+|aon=MagicWondrousDisplay.aspx?FinalName=Teleporting Climbing Rig
+|cat=奇物
+|aura=中等咒法系
+|cl=7
+|slot=无
+|price=7,600 gp
+|weight=7磅
+|description=这个秘银抓钩饰有符文雕刻，系在50尺长的丝绳上，绳子的另一端系在一个粗大的铁环上。每天3次，持用者握着铁环时可以说出该物品的命令字。抓钩随即传送到持用者视线和效应线都能到达的、50尺内的任一指定地点。若丝绳是被握在铁环以外的任何位置，抓钩就不会传送。如果指定位置上没有可供钩子挂住的东西，抓钩传送后会落到地上。
+|req=[[制造奇物]]、[[任意门]]
+|cost=3,800 gp
+|source=地城探险者手册
+}}

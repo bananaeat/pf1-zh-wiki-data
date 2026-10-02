@@ -1,0 +1,11 @@
+{{Feat
+|name=融身入翼
+|english_name=Joined Wings
+|categories=团队
+|description=你与你的同志建立起了深厚的联系，使得你可以更快地传递神圣的恩惠
+|prerequisites=热诚或者是圣疗职业能力
+|benefit=对同样拥有本专长的盟友，你可以用一个迅捷动作使用圣疗或热诚所提供的治疗。
+|source=DRe
+|source_name=遥远国度
+|source_url=https://pf1chm.pages.dev/topics/zh060a98151e.htm
+}}

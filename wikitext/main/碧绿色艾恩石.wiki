@@ -1,0 +1,20 @@
+{{魔法物品
+|name=碧绿色艾恩石
+|english_name=Tourmaline Sphere (Normal) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun Stone Tourmaline Sphere
+|cat=艾恩石
+|aura=强烈变化系
+|cl=12
+|slot=无
+|price=1,000 gp
+|description='''形状'''：圆球
+
+'''效果'''：这枚艾恩石在你濒死时给予你好处。在判定你要累积多少负生命值才会死亡时，将你的体质值视为高2点。这并不提供体质加值，因此不会为稳定伤势的检定提供加值，但它确实让你多出2轮可以进行这类检定。同一时间你只能受益于一枚碧绿色艾恩石。
+
+'''共振'''（放入[[寻路仪]]时）：濒死时，稳定伤势的体质检定获得+1加值。
+
+艾恩石的通用规则（启动、环绕飞行、抓取，以及AC、硬度）见[[艾恩石]]。
+|req=[[制造奇物]]、[[熊之坚韧]]，制造者必须已经12级
+|cost=500 gp
+|source=初探探索者协会、冒险之路122：深入破碎大陆
+}}

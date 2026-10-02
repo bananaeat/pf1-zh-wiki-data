@@ -1,0 +1,14 @@
+{{魔法物品
+|name=暗土护目镜
+|english_name=Darklands Goggles
+|aon=MagicWondrousDisplay.aspx?FinalName=Darklands Goggles
+|cat=奇物
+|aura=中等变化系
+|cl=6
+|slot=眼部
+|price=20,000 gp
+|description=这副护目镜的深色镜片由圆形黑曜石薄片制成，薄得足以透视。它们给予穿戴者120尺黑暗视觉，并在地下进行察觉检定、以及为追踪而进行的生存检定时获得+4表现加值。
+|req=[[制造奇物]]、[[黑暗视觉(法术)|黑暗视觉]]、[[地形联结]]（UM）
+|cost=10,000 gp
+|source=极限宝具
+}}

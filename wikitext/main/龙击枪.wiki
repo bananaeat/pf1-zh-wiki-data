@@ -1,0 +1,10 @@
+{{Feat
+|name=龙击枪
+|english_name=Dragon Shot
+|categories=战斗;勇毅
+|description=你本能地通过火器引导内在的魔法潜能。
+|prerequisites=勇毅职业能力或[[业余枪手]]，[[法术辨识]]5级。
+|benefit=以一个[[迅捷动作]]，你可以花费1点勇毅点将你的枪械伤害转化为酸蚀、火焰、闪电或寒冷，持续1轮。每当你使用该能力时你都可以选择不同的伤害类型。如此使用依然如同远程武器攻击般应用重击倍率和其他能力，例如[[致命瞄准]]。
+|source_name=格拉利昂的英雄
+|source_url=https://pf1chm.pages.dev/topics/zh6a9ca5047a.htm
+}}

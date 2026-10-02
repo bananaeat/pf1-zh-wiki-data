@@ -1,0 +1,10 @@
+{{Trait
+|name=深渊秘听者
+|english_name=Abyssal Eavesdropper
+|type=地区
+|prerequisites=萨科里斯或世界之伤
+|description=由于在世界之伤附近长大，你对恶魔的粗哑语言有粗略的了解。你将深渊语添加到已知语言列表中，但在使用深渊语进行交涉、威吓和[[唬骗]]检定时会承受-2的减值，同时在解读深渊语文本的[[语言学]]检定上也会承受-2的减值。如果你在之后再次获得深渊语(例如通过学习语言学技能并选择深渊语作为学习语言),这些技能检定减值将改为+2的背景加值。
+|source_name=恶魔猎人手册
+|source=DHH
+|source_url=https://pf1chm.pages.dev/topics/zh143e5b3a4e.htm
+}}

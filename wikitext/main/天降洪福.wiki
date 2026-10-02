@@ -1,0 +1,17 @@
+{{Spell
+|name=天降洪福
+|english_name=Heroic Fortune, Mass
+|school=塑能系
+|levels=吟游诗人 4;歌者 4;先知 5;战斗祭司 5;牧师 5
+|action=标准动作
+|components=语言;姿势;圣徽;材料（价值1,000gp的钻石尘）
+|range=近距
+|target=一个或多个生物，任意两者之间的距离不超过30尺
+|duration=1轮/等级
+|save=意志，通过则无效（无害）
+|sr=否
+|description=此法术如同[[鸿运当头]]，给予每个目标1点临时[[英雄点]]，在其它英雄点前使用，到期发散。
+|source=进阶玩家指南
+}}
+
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_415.html 原文]）。</small>

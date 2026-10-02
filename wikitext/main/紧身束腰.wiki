@@ -1,0 +1,15 @@
+{{魔法物品
+|name=紧身束腰
+|english_name=Tightfit Belt
+|aon=MagicWondrousDisplay.aspx?FinalName=Tightfit Belt
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=腰部
+|price=4,000 gp
+|weight=1磅
+|description=以一个[[自由动作]]，这条棕色皮带的穿戴者可以压缩自己的身体以穿过狭窄的空间，如同受到[[柔体术]]法术的影响，每天最多10轮。当使用束腰的挤压能力时，穿戴者在脱逃检定上获得+5环境加值。此外，每天一次，以一个[[移动动作]]，穿戴者可以将自己的体型缩小一级，如同[[缩小术]]法术的效果，持续1轮。这两种效果可以同时使用。
+|req=[[制造奇物]]、[[油腻术]]、[[缩小术]]、[[柔体术]]
+|cost=2,000 gp
+|source=初探探索者协会
+}}

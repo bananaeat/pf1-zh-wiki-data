@@ -1,0 +1,9 @@
+{{Feat
+|name=精通炼狱黑暗
+|english_name=Improved Fiendish Darkness
+|description=你将他人置于黑暗中的天赋得到进一步的提升。
+|prerequisites=[[炼狱黑暗]]，黑暗术类法术能力，施法者等级3，[[魔裔]]
+|benefit=当你使用[[黑暗术]]类法术能力时，有效施法者等级获得+2加值。此外，当你对其他生物施放带有邪恶描述符的法术时，你可以以一个[[迅捷动作]]在该法术中应用黑暗术类法术能力的效果，法术的目标为黑暗术效果的中心。以此方式施放黑暗术类法术能力会消耗其每天3次的全部使用次数，并且该效果在当使用次数不足3次的时候无法使用。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_833.html
+}}

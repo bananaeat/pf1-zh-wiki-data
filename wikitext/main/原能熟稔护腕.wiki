@@ -1,0 +1,15 @@
+{{魔法物品
+|name=原能熟稔护腕
+|english_name=Bracers of Primal Mastery
+|aon=MagicWondrousDisplay.aspx?FinalName=Bracers of Primal Mastery
+|cat=奇物
+|aura=微弱防护系
+|cl=5
+|slot=腕部
+|price=30,000 gp
+|weight=1磅
+|description=七条[[秘银]]带环缠绕在这对钢铁护腕之上，护腕上隐隐萦绕着稳定魔法的力量。当穿戴者启用魔法物品、施放法术或使用类法术能力而引发[[原能魔法]]事件（《探索者战役设定：[[内海魔法]]》第13页）时，所得的事件要骰（或以其他方式决定）两次，并由施法者选择发生其中哪一个事件。使用[[惊奇权杖]]时，这对护腕也让穿戴者骰两次并任选其一。
+|req=[[制造奇物]]、[[解除魔法]]
+|cost=15,000 gp
+|source=废土子民
+}}

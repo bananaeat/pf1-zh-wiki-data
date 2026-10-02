@@ -1,0 +1,9 @@
+{{Trait
+|name=虚张声势之刃
+|english_name=Blade Bravado
+|type=种族
+|prerequisites=[[人类]]（塔尔多人）
+|description=你在众多塔尔多决斗学院中一边对决一边成长，并用单手武器磨练了你的技能。当你手持单手武器而另一只手空着时，你的特技和[[唬骗]]检定获得+1背景加值。
+|source_name=格拉里昂的人类
+|source_url=https://pf1chm.pages.dev/topics/page_1581.html
+}}

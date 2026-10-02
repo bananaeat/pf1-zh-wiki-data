@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Elements pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=阿班德果领航员
+|english_name=Abendego Pilot
+|type=地区
+|prerequisites=阿班德果之眼（风元素裔）
+|description=阿班德果之眼呼啸的狂风是你童年的摇篮曲，你很快就学会了预判风的危险，并能解读风之歌。你的[[专业]]（水手）检定获得+2背景加值，并且在判定远程攻击和[[飞行]]检定所受的减值，以及你是否会受阻或被吹走时，你将环境风力效果的风力视为弱一级（见《核心规则书》第438页的表13–10：风力效果）。
+|source_name=元素血脉
+|source=BotE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Abendego%20Pilot
+}}

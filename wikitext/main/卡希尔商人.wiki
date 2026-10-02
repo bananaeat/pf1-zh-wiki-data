@@ -1,0 +1,9 @@
+{{Trait
+|name=卡希尔商人
+|english_name=Merchant of Katheer
+|type=地区
+|prerequisites=卡蒂亚
+|description=你在全世界最伟大的商业都市的市场摊位上长大，所以你能在摸到一件物品之前嗅到它的价值。你在估价检定上获得+1背景加值，并且估价将会成为你的本职技能。
+|source_name=卡蒂亚，通向东方的大门
+|source_url=https://pf1chm.pages.dev/topics/page_1005.html
+}}

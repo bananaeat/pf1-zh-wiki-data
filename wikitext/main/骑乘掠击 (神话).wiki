@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[骑乘掠击]] 的神话版本。</small></div>
+{{Feat
+|name=快速骑乘攻击
+|english_name=Ride-By Attack
+|categories=神话
+|description=当你冲击敌阵时，能做出多次攻击。
+|prerequisites=[[骑乘掠击]]
+|benefit=当你成功以[[快速骑乘攻击]]的一部分打击1个敌人时，你能够继续攻击并对抗连续的目标。每拥有3个阶层，你就能进行1次额外攻击，但是攻击次数不能超过你进行[[全力攻击]]时的攻击次数。后续攻击使用多次攻击时的较低加值，就如同进行全力攻击一般。每两次攻击之间必须至少移动10尺。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

@@ -1,0 +1,13 @@
+{{消歧义|掩护射击}}
+{{Feat
+|name=掩护射击
+|english_name=Covering Fire
+|aon=Covering Fire (RTT)
+|categories=战斗;团队
+|description=你用远程攻击使敌人分心，从而保护队友。
+|prerequisites=[[近距射击]]
+|benefit=你可以对一个敌人以远程攻击发动[[协助他人]]动作，无论该敌人是否正威胁着盟友。该攻击检定要计入射程减值。攻击时选择一个盟友；若攻击命中，只要该敌人的下一次攻击发生在你的下一回合开始之前，该盟友在对抗该敌人的这次攻击时，AC获得+2加值。所有拥有此专长的盟友在对抗该敌人时，也都能获得这个加值。
+|source=RTT
+|source_name=远程战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_552.html
+}}

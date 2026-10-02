@@ -1,0 +1,15 @@
+{{魔法物品
+|name=不跌靴
+|english_name=Stagger-Proof Boots
+|aon=MagicWondrousDisplay.aspx?FinalName=Stagger-Proof Boots
+|cat=奇物
+|aura=微弱防护系、变化系
+|cl=5
+|slot=脚部
+|price=2,000 gp
+|weight=1磅
+|description=这双高至小腿的皮靴上刻有凯登·凯连的圣徽。穿戴者从[[俯卧]]状态起身时不会引发[[借机攻击]]，并且在对抗[[冲撞]]和[[摔绊]][[战技]]的[[CMD]]上获得+4加值。每日一次，穿戴者可以以一个[[直觉动作]]移动最多30尺；这次移动照常引发借机攻击。
+|req=[[制造奇物]]、[[猫之优雅]]、[[加速术]]
+|cost=1,000 gp
+|source=内海诸神
+}}

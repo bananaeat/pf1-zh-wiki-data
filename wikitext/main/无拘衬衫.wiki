@@ -1,0 +1,14 @@
+{{魔法物品
+|name=无拘衬衫
+|english_name=Unfettered Shirt
+|aon=MagicWondrousDisplay.aspx?FinalName=Unfettered Shirt
+|cat=奇物
+|aura=中等防护系、变化系
+|cl=7
+|slot=胸部
+|price=10,000 gp
+|description=这件宽松、常带荷叶边的衬衫，剪裁样式旨在不妨碍穿戴者的行动。每天一次，以命令字激活，穿戴者可以获得[[行动自如]]的效果，持续10分钟。
+|req=[[制造奇物]]、[[猫之优雅]]、[[行动自如]]
+|cost=5,000 gp
+|source=极限宝具
+}}

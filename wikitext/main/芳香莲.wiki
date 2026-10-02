@@ -1,0 +1,17 @@
+{{魔法物品
+|name=芳香莲
+|english_name=Ambrosial Lotus
+|aon=MagicPlantsDisplay.aspx?FinalName=Ambrosial Lotus
+|cat=魔法植物
+|aura=强烈惑控系
+|cl=12
+|slot=无
+|price=25,000 gp
+|weight=50磅
+|description=食用芳香莲的生物必须通过DC 17的意志豁免，否则会陷入彻底的极乐状态，几乎对周围的世界浑然不觉。该生物的智力和魅力值降至1，且再也不能施放法术、理解语言或交流。这些效果是永久的，除非用[[医疗术]]、[[有限祈愿术]]、[[神迹术]]或[[祈愿术]]法术来移除。
+
+一根芳香莲花茎在春季为期13周的生长期内每天长出1朵花。
+|req=[[奇植培育]]、[[弱智术]]，培育者必须拥有知识（自然）10级
+|cost=12,500 gp
+|source=荒野源始
+}}

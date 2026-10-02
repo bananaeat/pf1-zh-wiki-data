@@ -1,0 +1,9 @@
+{{Trait
+|name=命理馈赠
+|english_name=Numerological Gift
+|type=种族
+|prerequisites=[[吸血裔]]（僵尸裔）
+|description=从出生起你就和某个数字有不解之缘。当你选择此背景，骰3d6，结果就是你的幸运数字，终生不变。每日1次，当你在d20上（例如攻击检定、豁免检定或技能检定）骰出你的幸运数字，你可以将它视为你骰出了天然20。
+|source_name=夜之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_822.html
+}}

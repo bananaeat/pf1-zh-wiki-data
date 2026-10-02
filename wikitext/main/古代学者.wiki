@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Rise of the Runelords Anniversary Edition Player's Guide pg. 4），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=古代学者
+|english_name=Scholar of the Ancients
+|type=战役
+|pfs=否
+|description=你从小埋头书堆，对过去的文化和古代历史抱有浓厚的兴趣。此外，由于在瓦瑞西亚长大，你知道点缀这片土地的那些遗迹属于一个名为瑟西隆的古代文明。通过毕生的研究和孜孜不倦的探究，你已拼凑出这个昔日伟大帝国的语言和部分历史。你的[[知识]]（奥秘）和知识（历史）检定获得+1背景加值，并且在游戏开始时就能说、读瑟西隆语。
+|source_name=Rise of the Runelords Anniversary Edition Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Scholar%20of%20the%20Ancients
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=浑浊超魔权杖
+|english_name=Rod of Metamagic, Murky
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Metamagic, Murkylesser
+|cat=权杖
+|aura=（无学派）
+|cl=5
+|slot=无
+|price=1,500 gp（次等）；5,500 gp（普通）；12,250 gp（高等）
+|weight=—
+|description=每天至多3次，持用者可以在水下将云雾法术转变成浑浊的沉积物，如同使用[[浑浊法术]]专长一样。
+|req=[[制造魔法武器和防具]]、[[行动自如]]
+|cost=750 gp（次等）；2,750 gp（普通）；6,125 gp（高等）
+|source=水下冒险
+}}

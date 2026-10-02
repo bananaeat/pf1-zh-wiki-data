@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Hell's Rebels Player's Guide pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=天生管理者
+|english_name=Natural Born Leader
+|type=战役
+|pfs=否
+|description=过去每当你参与集体行动——无论是与兄弟姐妹联手应对家庭危机，与朋友合谋策划一场恶作剧，还是与同事一起处理工作中突如其来的麻烦——你总会不知不觉坐上领导的位置。你也许不明白为什么会这样，也许是有意去争取这类位置，因为你知道自己能把任何团体组织得超出其各部分之和；但无论如何，你管理团体的天赋总是把你推到你所参与的任何行动的最前线。
+
+你擅长管理者的角色。在决定你在叛乱中能管理多少支团队，以及决定你为所管理团队的行动所添加的加值时，你将自己的魅力值视为14（若你的实际魅力值已为14或更高，则视为比实际值高2点）。此外，若你拥有[[领导力]]专长，你的领导力值获得+1背景加值。
+|source_name=Hell's Rebels Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Natural%20Born%20Leader
+}}

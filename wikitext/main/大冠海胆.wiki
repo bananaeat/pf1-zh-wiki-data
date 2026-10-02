@@ -1,0 +1,48 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=大冠海胆
+|english_name=Great Diadem Urchin
+|cr=5
+|xp=1,600
+|alignment=绝对中立
+|size=中型
+|type=虫类
+|subtypes=水栖
+|init=–4
+|senses=全局视野，昏暗视觉，灵敏嗅觉，颤动感知 30 尺；察觉 +1（译注：AoN 原文如此，技能栏为察觉 +5，疑为笔误）
+|description=粗大的棘刺如同王冠的凸缘一般，遍布这只大得出奇的金色海胆的体表。
+|ac=20，接触 6，措手不及 20（–4 敏捷，+14 天生）
+|hp=57（6d8+30）；再生 3（火焰，酸蚀）
+|fort=+10
+|ref=–2
+|will=+3
+|defensive=稳固
+|immune=心智效果
+|speed=10 尺
+|melee=3 棘刺 +9（1d8+5 外加毒素）
+|special_attacks=棘刺
+|str=21
+|dex=3
+|con=20
+|int=–
+|wis=13
+|cha=2
+|bab=+4
+|cmb=+9
+|cmd=15（对抗冲撞或摔绊 23）
+|skills=[[察觉]] +5
+|racial_mods=+4 察觉
+|sq=两栖
+|environment=温带或温暖的海洋或海岸
+|organization=单独，一对，或一簇（2–5）
+|treasure=无
+|special_abilities={{怪物能力|毒素|Ex|大冠海胆的毒液带来令人震惊的剧痛，接触的瞬间感觉像被强酸灼烧——不过最剧烈的疼痛片刻后就会消退。豁免 DC 基于体质。
+棘刺—伤口；豁免 强韧 DC 18；频率 每轮 1 次，持续 6 轮；效果 1d2 体质，并震慑 1 轮；痊愈 1 次豁免。}}
+{{怪物能力|棘刺|Ex|大冠海胆的棘刺可以旋转并转向任何接近的生物。任何用徒手打击或天生武器攻击大冠海胆的生物，或任何用单手武器或轻型武器攻击的大型或更小的生物，都会被猎手海胆的棘刺（译注：AoN 原文作 hunter urchin's spines，疑为笔误）以一个直觉动作自动攻击。如果棘刺命中，还可以使目标中毒。}}
+|source=冒险之路56：热病海劫掠者
+|lore=
+体型巨大、色彩绚丽的冠海胆常受到陆地上的收藏家，或既想装饰又想守卫自己王座厅的水栖生物追捧，然而这种野兽永远无法真正驯服，会攻击任何靠近它的对象。
+}}
+
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Great Diadem Urchin|2=Great Diadem Urchin}}

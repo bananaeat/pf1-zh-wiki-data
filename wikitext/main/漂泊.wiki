@@ -1,0 +1,9 @@
+{{Trait
+|name=漂泊
+|english_name=Adrift
+|type=种族
+|prerequisites=[[神裔]]
+|description=你从来没有把自己当做家族中的一员。你与他人不同，是一名局外人，并且你在成长的过程中也无法与周遭的人打成一片。而现在，作为一名成年人，你仍旧有些古怪，其他人都难以理解是什么驱使着你一路前行。你在对抗魅惑与胁迫效果时的豁免检定获得+1背景加值。
+|source_name=天界血脉
+|source_url=https://pf1chm.pages.dev/topics/page_830.html
+}}

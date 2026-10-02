@@ -1,0 +1,24 @@
+<noinclude>{{审判者导航}}</noinclude>
+{{Source|极限诡道|Ultimate Intrigue|inline}}
+
+== 守秘裁决域 (Secrets Inquisition) ==
+
+神祇：[[卡莉斯翠]]、[[诺格巴]]。
+
+领域力量：你学会了守紧自己的秘密，更要看紧敌人的秘密。
+
+=== 侦测秘密 (Detect Secrets, Su) ===
+
+{{AI翻译|nocat=1|本段 CHM 译文与 AoN 不符，由 AI 照 AoN 英文原文重译，未经人工校对。}}
+
+你学会了探测一个生物的任何秘密，而不只是它的思想。每当你施放[[侦测忧虑]]、[[侦测欲望]]或[[侦测思想]]，或以类法术能力使用这些法术时，你可以选择改为获得另外两个法术其中之一的效果。你永远不会因为这些法术的目标拥有较高的属性值而被压倒。
+
+=== 心之壁 (Closed Book, Sp) ===
+
+在8级时，你的敌人将难以揭开你的秘密。你持续处于法术[[回避侦测]]的效果之下，如同你对自己施展了本法术一般。
+
+<noinclude>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_374.html 原文]），按 AoN 核对过。
+{{AoN原文|1=Inquisitions.aspx|2=Inquisitions}}
+
+[[分类:审判者]]
+{{职业}}</noinclude>

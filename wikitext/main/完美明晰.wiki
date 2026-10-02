@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=完美明晰
+|english_name=Perfect Clarity
+|type=Ex
+|categories=杂项
+|prerequisites=[[心境澄明]]
+|benefit=当使用[[心境澄明]][[狂暴之力]]时，野蛮人可以在幻术的识破机会和意志豁免上双骰取高。
+|source_name=极限战斗
+}}

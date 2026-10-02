@@ -1,0 +1,11 @@
+{{Feat
+|name=延长血族之力
+|english_name=Extended Vampiric Focus
+|aon=无
+|categories=技巧
+|description=你可以在更长的时间内使用血族之力。
+|prerequisites=血族之力职业能力。
+|benefit=将你的感知修正值（至少1）加到每天可以使用血族之力能力的分钟数上。
+|source_name=其他职业
+|source_url=https://pf1chm.pages.dev/topics/page_1210.html
+}}

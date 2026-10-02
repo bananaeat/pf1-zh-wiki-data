@@ -1,0 +1,9 @@
+{{Trait
+|name=斥罪
+|english_name=Repel Sin
+|type=种族
+|prerequisites=[[魔裔]]（弑母者）
+|description=你本能地厌恶能够使恶魔崛起、反使古魔衰落的罪孽。当你对抗带有邪恶描述符的法术与效果时，豁免检定获得+2背景加值。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_832.html
+}}

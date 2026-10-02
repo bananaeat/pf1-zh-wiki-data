@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=风暴猎手
+|english_name=Storm Hunter
+|type=地区
+|prerequisites=弘古
+|description=你在弘古无休无止的狂风中学会了狩猎，至今仍能让你的箭矢飞得精准。在有风的天气中战斗时，为决定使用普通武器进行远程攻击所受的罚值，你将风力等级视为低一级。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Storm%20Hunter
+}}

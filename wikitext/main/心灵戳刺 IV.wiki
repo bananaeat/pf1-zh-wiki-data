@@ -1,0 +1,15 @@
+{{Spell
+|name=心灵戳刺 IV
+|english_name=Mind Thrust IV
+|school=预言系
+|levels=异能者 4
+|action=标准动作
+|components=姿势
+|range=近距
+|target=一个生物
+|duration=立即
+|save=意志，通过则减半
+|sr=是
+|description=该法术的功能如同[[心灵戳刺 I]]一般，不过目标会受到每施法者等级1d8点伤害（最高15d8点），而且如果豁免失败，还会[[疲乏]]1轮。该法术可以被降阶施法。
+|source=异能冒险
+}}

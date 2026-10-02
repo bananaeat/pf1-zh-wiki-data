@@ -1,0 +1,15 @@
+{{魔法物品
+|name=真气头带
+|english_name=Headband of Ki Focus
+|aon=MagicWondrousDisplay.aspx?FinalName=Headband of Ki Focus
+|cat=奇物
+|aura=微弱防护系
+|cl=1
+|slot=头饰
+|price=5,400 gp
+|weight=1磅
+|description=这条系结式头带帮助穿戴者更有效地聚焦她的气。每当穿戴者消耗气点进行一次额外攻击时，该次攻击检定获得+1洞察加值（如果穿戴者在该次攻击中使用的是真气武器，则为+2）。此外，头带的穿戴者免疫忍者的截断气脉忍术，或类似的阻止穿戴者使用气点的效果。
+|req=[[制造奇物]]、制造者必须拥有[[武僧#气运丹田|气池]]
+|cost=2,700 gp
+|source=极限宝具
+}}

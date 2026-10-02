@@ -1,0 +1,12 @@
+{{Feat
+|name=高等摄神虚招
+|english_name=Greater Mesmerizing Feint
+|categories=战斗
+|description=你可以对几乎任何生物进行[[虚招]]。
+|prerequisites=[[摄神虚招]]，[[唬骗]]10级，催眠注视（Hypnotic Stare）职业能力，开启心智（Psychic Inception）深邃注视（Bold Stare）职业能力
+|benefit=你能够承受-4的减值对无心智生物使用虚招。该生物必须是你的催眠注视的受术者，而且该生物有50%的概率免受你的虚招的效果。
+|normal=你无法对无心智的生物使用虚招。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

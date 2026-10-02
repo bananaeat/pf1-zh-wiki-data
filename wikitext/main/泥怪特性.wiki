@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''泥怪特性'''（Ooze Traits）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：免疫</span></div>
+</noinclude><includeonly><div class="lang"><span id="泥怪特性"></span><div class="lang-h"><b>[[泥怪特性]]</b><i>Ooze Traits</i><span class="lang-w">Ex · 免疫</span></div><div class="lang-d"></includeonly>
+[[泥形生物]]免疫重击、夹击、精准伤害、影响心灵的效果（魅惑、胁迫、士气效果、心灵幻觉和魅影幻觉）、麻痹、毒素、变形、睡眠、震慑和视觉效果。
+
+'''格式'''：泥怪特性
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Ooze Traits|2=Ooze Traits}}
+
+[[分类:通用怪物规则]]</noinclude>

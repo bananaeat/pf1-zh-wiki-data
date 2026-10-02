@@ -1,0 +1,12 @@
+{{Feat
+|name=激励技巧
+|english_name=Motivating Display
+|categories=战斗
+|pfs=否
+|description=你让盟友敬畏，鞭策他们努力。
+|prerequisites=[[魅力]] 13，[[炫目技巧]]，[[武器专攻]]
+|benefit=当你用炫目技巧威吓敌人时，你可以同时激励盟友更好地帮助你。在正常的威吓敌人效果之外，你使用炫目技巧的威吓检定同时适用于30尺内能看到你的队友。该效果的DC与正常威吓队友所需的相同。如此受影响的队友不会被颤栗，而是在其原本会颤栗的持续时间内，在攻击和技能检定上获得＋1士气加值。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_809.html
+}}

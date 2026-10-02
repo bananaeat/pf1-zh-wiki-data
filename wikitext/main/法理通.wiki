@@ -1,0 +1,9 @@
+{{Trait
+|name=法理通
+|english_name=Magical Knack
+|type=魔法
+|description=你的全部或部分童年，是由某位魔法生物陪伴度过的——也许是它发现了被遗弃在林中的你，又或许是父母常把你丢给[[魔宠]]照顾。这种成长环境使你更易于理解魔法的神秘所在，哪怕你早已投身其他行业。在你选择此[[背景特性]]时，指定一个职业。你在该职业的施法者等级获得+2背景加值，最高不超过你当前的生命骰数。
+|source_name=魔法背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

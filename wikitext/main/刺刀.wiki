@@ -1,0 +1,16 @@
+{{武器
+|name=刺刀
+|english_name=Bayonet
+|category=武器
+|prof=简易
+|wcat=双手
+|price=5 gp
+|weight=1磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×2
+|type=穿刺
+|groups=轻刃，贴身
+|description=刺刀是被设计用来装在弩槽和枪口上的近战武器。它允许你用这些武器进行近战攻击，但暂时无法将其作为远程武器。安装和拆卸刺刀是一个[[移动动作]]。
+|source=冒险者的军械库、进阶玩家指南、Skull & Shackles Player's Guide、内海海盗、极限宝具
+}}

@@ -1,0 +1,18 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=银色制裁手镯
+|english_name=Silver Smite Bracelet
+|aon=MagicWondrousDisplay.aspx?FinalName=Silver Smite Bracelet
+|cat=奇物
+|aura=中等变化系
+|cl=9
+|slot=腕部
+|price=16,000 gp
+|weight=1磅
+|description=这只沉重的银手镯上蚀刻着纯洁、忠贞、贞洁与荣誉的图标，每当持有者祈祷时，便会散发出柔和的白光。穿戴者在使用制裁邪恶职业能力时，视自己的圣武士等级比实际高4级。
+|req=[[制造奇物]]、[[阵营武器]]，制造者必须是圣武士
+|cost=8,000 gp
+|source=进阶玩家指南
+}}
+
+{{FAQ|v5748eaic9ni3}}

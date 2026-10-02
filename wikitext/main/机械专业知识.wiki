@@ -1,0 +1,10 @@
+{{Trait
+|name=机械专业知识
+|english_name=Mechanical Expertise
+|type=地区
+|prerequisites=阿肯斯塔本地出身
+|description=在法力废土边长大并生活在阿肯斯塔大公国，你已经熟悉了工具和实用物品。 你依靠力学来解决问题并熟悉基本的工程概念。 在工艺(任意)、[[解除装置]]或知识(工程)技能中选择一个。你在所选技能检定上获得+1背景加值，且该技能视为你的[[本职技能]]。
+|source_name=废土子民
+|source=PotW
+|source_url=https://pf1chm.pages.dev/topics/zha1cb183769.htm
+}}

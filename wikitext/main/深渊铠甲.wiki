@@ -1,0 +1,11 @@
+{{Feat
+|name=深渊铠甲
+|english_name=Armor of the Pit
+|description=你的魔族特征体现在如同铠甲的鳞片皮肤上。
+|prerequisites=魔裔。
+|benefit=你获得+2天生防御加值。
+|special=如果你拥有【鳞片皮肤】[[种族特性]]，则在寒冷、闪电以及火焰这三种能量类型中选择两种并获得5点能量抗力取代该专长的奖励天防。你只能选择你还未获得抗力的能量类型。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

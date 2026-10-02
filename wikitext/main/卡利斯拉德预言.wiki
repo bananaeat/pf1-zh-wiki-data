@@ -1,0 +1,9 @@
+{{装备
+|name=卡利斯拉德预言
+|english_name=The Prophecies of Kalistrade
+|cat=工具
+|price=75 gp
+|weight=10磅
+|description=这是杜鲁玛出版次数最多的书，详细列出了信徒作为其宗教的一部分必须遵守的极其严格的饮食、性生活和着装限制。
+|source=冒险者的军械库
+}}

@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''力场屏障'''（Force Barrier, Sp）是[[操念使]]的[[原力]]。
+
+元素：[[以太]]；类别：通用（Sp）；等级：5；超载：0
+
+前置：[[力场结界]]
+
+你能够创造出一个固定的力场球体或半球，包围在你所在的方格外（若占据多格，则包围多格）。力场屏障在所有其他方面都如同[[力墙术]]一般。启动该能力是[[标准动作]]，屏障会持续至你的下个回合开始为止。每一轮，就在屏障恰好要消失之前，你能够通过承受1点超载来延长它的持续时间。若有攻击设法摧毁了力场屏障，那么你会立即承受1点超载。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Force Barrier|2=Force Barrier}}
+
+[[分类:原力]]

@@ -1,0 +1,10 @@
+{{Feat
+|name=安多安训鹰术
+|english_name=Andoren Falconry
+|description=你了解由暗月谷的诺沃特尼安家族所发明的安多安训鹰技艺。
+|prerequisites=[[魅力]] 13，动物亲善，动物伙伴职业能力
+|benefit=你改善了自身与鹰、隼、猎鹰以及[[猫头鹰]]之类的猛禽的亲和力。你在训练或者驾驭这些猛禽时的[[驯养动物]]检定中获得+2加值。此外，如果你拥有一只猛禽作为[[动物伙伴]]，那么你的动物伙伴同时获得后述奖励之一（在获得该动物伙伴时选择）：AC获得+1闪避加值，所有攻击检定获得+1士气加值，或者所有意志豁免获得+2士气加值。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

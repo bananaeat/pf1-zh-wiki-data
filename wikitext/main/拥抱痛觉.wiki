@@ -1,0 +1,10 @@
+{{Feat
+|name=拥抱痛觉
+|english_name=Welcome Pain
+|description=愈是承受剧烈的伤痛，你就愈发坚韧
+|prerequisites=[[钢铁意志]]，信仰宗-库松
+|benefit=每当你因为承受持续性的伤害效果（如[[流血伤害]]）而使自己的生命值被降到0或更低时，你可以拼尽全力试图摆脱这一状态：进行一次DC25的意志豁免，成功则忽略该回合会使你降到0或更低生命值的那部分伤害。以这种方式进行的每次后续豁免，DC增加1。除此之外，任何具有疼痛描述符的法术或能力只能对你造成一半伤害。
+|source=FoP/FoB/FoC
+|source_name=纯善／平衡／堕落信念
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}

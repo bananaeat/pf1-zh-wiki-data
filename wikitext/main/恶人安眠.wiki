@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Bastards of Golarion pg. 27），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=恶人安眠
+|english_name=Rest for the Wicked
+|type=社会
+|description=由于常常被迫一连数天没有食物、也没有任何刺激，你学会了用长时间的睡眠作为逃避的手段和治愈伤口的方式。完全卧床休息时，你每天恢复3点暂时属性伤害。一夜的正常休息（8小时）仍只会让你每晚恢复1点暂时属性伤害。
+|source_name=格拉利昂的混种
+|source=BoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Rest%20for%20the%20Wicked
+}}

@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|格拉利昂的英雄|Heroes of Golarion}}
+'''发条傀儡'''（Clockwork Puppet, Su）是[[操念使]]的[[原力]]。
+
+元素：土；类别：通用（Su）；等级：5；超载：0
+
+前置：[[轰钢]]
+
+你可以编织金属与发条创造发条构装体攻击你的敌人。能力如[[以太傀儡]]般运作，除了被活化的物体获得发条亚种，且不能获得岩石结构构装体能力。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Clockwork Puppet|2=Clockwork Puppet}}
+
+[[分类:原力]]

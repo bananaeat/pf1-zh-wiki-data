@@ -1,0 +1,10 @@
+{{Trait
+|name=贝里斯采蜜员
+|english_name=Bellis Honey Harvester
+|type=地区
+|prerequisites=安多安的贝里斯
+|description=你经常接触蜜蜂——以及它们的蜇刺——令所有这类生物看起来更像是讨厌的小家伙而不是真正的威胁。你面对集群造成的伤害时获得DR 3/-,以及对抗源于集群的毒素和扰乱心神时豁免获得+1背景加值。
+|source_name=安多安，自由之魂
+|source=ASoL
+|source_url=https://pf1chm.pages.dev/topics/zh527590c930.htm
+}}

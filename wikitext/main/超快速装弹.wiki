@@ -1,0 +1,13 @@
+{{Feat
+|name=超快速装弹
+|english_name=Juggle Load
+|categories=战斗
+|description=你的手指异常灵活，填装[[投石索]]对你来说毫不费力。
+|prerequisites=[[巧手]]1级，擅长投石索，[[快速装弹]]。
+|benefit=你可以以[[自由动作]]为投石索或双头投石索装弹。这不会引发[[借机攻击]]。本专长允许你在[[全力攻击]]时，使用投石索进行多次攻击。
+|source=HoG
+|source_name=格拉利昂的半身人
+|source_url=https://pf1chm.pages.dev/topics/page_509.html
+}}
+
+{{FAQ|v5748eaic9rdo}}

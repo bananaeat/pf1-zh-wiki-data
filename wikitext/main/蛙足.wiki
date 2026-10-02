@@ -1,0 +1,4 @@
+<noinclude>{{德鲁伊导航}}
+</noinclude>{{德鲁伊领域能力|name=蛙足|en=Webfoot|type=Ex|domain=青蛙领域|source=极限魔法|text=6级时，你得到[[两栖]]特性，并得到相当于你陆地移动速度的游泳速度。12级时得到相当于陆地移动速度的攀爬速度。}}<noinclude>
+
+[[分类:德鲁伊领域]]</noinclude>

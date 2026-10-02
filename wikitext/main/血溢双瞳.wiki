@@ -1,0 +1,11 @@
+{{Feat
+|name=血溢双瞳
+|english_name=Bleeding Stare
+|categories=战斗;凝视
+|description=你的注视让敌人的眼睛流出鲜血。
+|prerequisites=催眠师5级，痛苦注视职业能力
+|benefit=当你触发你的痛苦注视时，目标会受到一定量的[[出血]]伤害，数值相当于你的催眠师等级的1/3。多次使用血溢双瞳造成的出血伤害不会叠加。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

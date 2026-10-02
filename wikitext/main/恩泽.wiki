@@ -1,0 +1,12 @@
+{{物品
+|name=恩泽
+|english_name=Favors
+|category=冒险装备
+|description=出自：Heroes of the High Court
+
+恩泽（Favors）是单次使用的一类的魔法物品并且当当一个生物（称为赠送者）给予另一个生物（接受者）时激活（activated）。赠送者必须有意地给予接受者恩泽（favors），而接受者必须有意的接受它并在1分钟内穿戴该恩泽（favors）才能激活（activate）。给予接受者一个恩泽（favor）是一种不会引发[[借机攻击]]的[[标准动作]]（standard action）；接受并穿戴一个恩泽（favor）的时间与取出并穿戴一种和该恩泽（favor）同类型的道具相一致（通常是一个标准动作）。一旦穿戴完毕，该恩泽（favors）在其所列期限时间内提供指定效果（indicated effect）。此外，当该恩泽（favors）激活时，赠送者可以以一个标准动作（standard action）感受到接受者是否存活（alive，拥有4点及以上生命值）、重伤（badly wounded ，3点及以下生命值）、死亡（dead）、不死化（undead）、或非生非死（作为一个构装）。只要赠送者和接受者存在于同一个位面，这种效果的作用就与距离无关。
+
+如果该恩泽（favors）被移除或以其他方式离开接受者者的掌控、或者接受者在对抗一个恐惧效果的豁免骰中失败，则该恩泽（favors）的效果立即结束。出于后一个原因，对恐惧免疫或抗性的生物比如圣武士（paladins）或[[半身人]]（halflings）更喜欢恩泽（favors）。一个生物同一时间只能接受一个恩泽（favor）；如果接受者自愿接受一个新的恩泽（favor），则任何现有恩泽（favor）的效果立即结束。一旦恩泽（favor）的持续时间结束或它的效果结束，则赠送者会立即意识到该恩泽（favor）已经失去了它的魔力。
+|source=HotHC
+|source_name=皇庭英豪
+}}

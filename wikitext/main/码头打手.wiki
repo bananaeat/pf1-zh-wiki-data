@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Skull & Shackles Player's Guide pg. 6），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=码头打手
+|english_name=Dockside Brawler
+|type=战役
+|pfs=否
+|description=你在镣铐群岛众多港口或锚地之一的危险码头上长大，很快就明白了拳头往往比花言巧语更能说明问题，尤其是用对了方法的时候。反正你一向更喜欢动手而不是动口。你使用黄铜指虎（《进阶玩家手册》176页）和临时武器进行的伤害检定获得+1背景加值。
+
+昨晚在亡命港一家名叫“悍女”的酒馆喝酒时，你和其他几位客人打了起来。你表现不错，但一伙面相凶恶的家伙联手围攻，把你制服并打得[[昏迷]]。幸运的是，你在被强征时设法藏住了你的黄铜指虎，无论你的开局处境如何，你开始战役时都持有它们。
+|source_name=Skull & Shackles Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Dockside%20Brawler
+}}

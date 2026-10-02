@@ -1,0 +1,9 @@
+{{Trait
+|name=急性子
+|english_name=Reckless
+|type=战斗
+|description=你喜欢在战场上快速进击，经常忽视自身安全。你的特技检定获得+1加值，并且总能将特技视为你的[[本职技能]]。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

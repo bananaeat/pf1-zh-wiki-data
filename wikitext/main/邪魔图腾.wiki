@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=邪魔图腾
+|english_name=Daemon Totem
+|type=Su
+|categories=图腾
+|prerequisites=[[野蛮人]]6级，[[次等邪魔图腾]]
+|benefit=当野蛮人狂暴时，他的近战攻击会使敌人获得一个临时负向等级。一小时后，这些临时负向等级会自动消失(无需豁免)。
+|source_name=惧怖冒险
+}}

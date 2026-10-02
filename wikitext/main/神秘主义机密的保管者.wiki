@@ -1,0 +1,9 @@
+{{Trait
+|name=神秘主义机密的保管者
+|english_name=Curator of Mystic Secrets
+|type=典范
+|description=你广泛的收集口口相传的学问给予对魔法根本法则无与伦比的理解。每天两次当你自发施放一个被超魔改变的法术时，你可以不增加该法术的施放时间。你拥有每一个其他的魔法背景，你可以每天额外1次使用这项背景的好处。
+|source_name=典范背景
+|source=Chronicle of Legends
+|source_url=https://pf1chm.pages.dev/topics/zh8c5ec22f89.htm
+}}

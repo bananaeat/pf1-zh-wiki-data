@@ -1,0 +1,9 @@
+{{Feat
+|name=怪物假面
+|english_name=Monstrous Masquerade
+|prerequisites=[[怪物伪装]]，[[易容]]9级，[[知识]](自然)9级。
+|benefit=当你使用[[怪物伪装]]专长扮作人形怪物时,你可以从以下列表里获得该生物一个能力的低等版本：攀爬速度10尺，飞行速度20尺(笨拙)，游泳速度20尺，DR3/魔法，或对一种能量类型的5点抗力。以这种方式伪装需要额外1小时和500gp。在你完成伪装后，由此专长获取的能力每小时有25%的几率失效。8小时后，这个伪装就会自动瓦解。
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh03ef2e8763.htm
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=稳猎师
+|english_name=Hunter's Knack
+|type=战斗
+|description=当你在攻击前耐心等待时，你的攻击更加精确。你在通过[[准备动作]]攻击宿敌时，攻击检定获得+1背景加值。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

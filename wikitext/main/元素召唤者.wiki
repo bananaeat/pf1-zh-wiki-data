@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 197），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=元素召唤者
+|english_name=Elemental Caller
+|type=种族
+|prerequisites=巨灵裔
+|description=你是在与友善的元素生物密切接触中学会咒法系魔法的。在决定你施放的、用于呼唤或召唤巨灵或具有元素亚种之异界生物的法术的持续时间时，你的施法者等级视为高1级。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Elemental%20Caller
+}}

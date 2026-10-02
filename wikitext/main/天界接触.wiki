@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 197），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=天界接触
+|english_name=Celestial Contact
+|type=种族
+|prerequisites=神裔
+|description=你曾目睹你的祖先或类似的存在进行天界干预，善良的力量因此激励了你。当你施放带有善良描述符的法术时，你的施法者等级视为高1级。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Celestial%20Contact
+}}

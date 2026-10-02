@@ -1,0 +1,10 @@
+{{Trait
+|name=斗法奇才
+|english_name=Spell Duel Prodigy
+|type=地区
+|pfs=否
+|prerequisites=艾拉格斯(Erages)
+|description=在艾拉格斯学院学习期间你参加过许多[[法术决斗]]，通过这种方式你锻炼出了辨别法术技艺的敏锐才能。你在辨识正在施放的法术的[[法术辨识]]检定，以及反制法术的解除检定中获得+2背景加值。
+|source_name=格拉里昂的混种
+|source_url=https://pf1chm.pages.dev/topics/zh8a60bedf4e.htm
+}}

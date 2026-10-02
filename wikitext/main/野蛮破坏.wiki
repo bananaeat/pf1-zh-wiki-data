@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=野蛮破坏
+|english_name=Smasher
+|type=Ex
+|class=掉链野蛮人
+|benefit=当野蛮人使用[[击破]][[战技]]或攻击无主物品时，她每个野蛮人等级可以忽视1点硬度。
+|classic=破坏者(野蛮人狂暴之力)
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

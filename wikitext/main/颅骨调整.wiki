@@ -1,0 +1,10 @@
+{{Feat
+|name=颅骨调整
+|english_name=Cranial Adjustment
+|description=你学会了人工调整颅骨构成的板块，从而改变目标的状态。
+|prerequisites=[[妙手]]或[[颅骨穿孔术]]
+|benefit=即使你不能施放异能法术，你仍然可以使用[[催眠术]][[神秘技能解放]]OA。如果你能施放异能法术或具有[[异能敏感]]OA专长，你每天可以额外使用1次催眠术。你可以用[[巧手]]代替交涉催眠目标，但是要这样做需要与目标的头骨保持接触10分钟。你可以花费1小时执行一项对目标深层思维的调整，这会使目标在对抗影响心灵的情绪UM效果时获得+2加值或者-2罚值，持续24小时。
+|source=OO
+|source_name=异能源始
+|source_url=https://pf1chm.pages.dev/topics/zhca50b6790c.htm
+}}

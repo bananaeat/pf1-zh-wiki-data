@@ -1,0 +1,15 @@
+{{魔法物品
+|name=极寒法袍
+|english_name=Voidfrost Robe
+|aon=MagicWondrousDisplay.aspx?FinalName=Voidfrost Robe
+|cat=奇物
+|aura=中等防护系、塑能系
+|cl=10
+|slot=躯体
+|price=11,000 gp
+|weight=1磅
+|description=这件蓝白相间的丝绸长袍，表面仿佛有冰和冻雾在不断凝结。长袍赋予穿戴者5点寒冷抗力，并使穿戴者所有带有[寒冷]描述符的法术的施法者等级+1。每天一次，穿戴者可以凭命令放出一股半径20尺的寒冷爆发，范围内除穿戴者之外的生物承受2d6点寒冷伤害（反射豁免DC 16减半）。
+|req=[[制造奇物]]、[[法术升阶]]、[[抵抗能量伤害]]、[[寒冰锥]]
+|cost=5,500 gp
+|source=极限宝具
+}}

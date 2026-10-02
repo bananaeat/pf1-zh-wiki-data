@@ -1,0 +1,9 @@
+{{Trait
+|name=正直
+|english_name=Upstanding
+|type=派系
+|description=你喜欢通过给予你的客户公平的交易来赢取他们的好感与再次合作。在交涉和察言观色技能上获得+1背景加值，其中之一(由你选择)视为你的[[本职技能]]。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

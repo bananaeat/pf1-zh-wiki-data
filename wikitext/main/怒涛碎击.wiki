@@ -1,0 +1,12 @@
+{{Feat
+|name=怒涛碎击
+|english_name=Crushing Blow
+|categories=战斗
+|description=你专注于如何粉碎敌人的防御。
+|prerequisites=[[精通徒手打击]]，震慑拳。
+|benefit=你可以用一个[[整轮动作]]来尝试一次[[震慑拳]]。如果成功，你将不会[[震慑]]目标，而是降低其AC，数值为你的感知修正，持续1分钟。该罚值不会与另一次本专长造成的罚值叠加。
+|stamina=使用怒涛碎击时可选择花费2或4点耐力，令导致的AC惩罚提升1或2点。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=治疗者之手
+|english_name=Healer's Hands
+|pfs=否
+|description=正能量支持着你对治疗的努力。
+|prerequisites=医疗1级，知识（位面）1级
+|benefit=你可以用一个整轮动作使用医疗技能治疗严重伤害。以这种方式治疗严重伤害时，你不会因为不使用医疗包而受到惩罚，而且你可以每天对一个生物多次这样做。以这种方式治疗严重伤害时，如果结果超出DC10点以上，则将你的知识（位面）等级添加到所治疗的伤害中。这个效果对不受正能量治疗的生物无效。你每天可以使用这个专长的次数等于你在知识（位面）中的等级。
+|source=PA
+|source_name=位面冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1492.html
+}}

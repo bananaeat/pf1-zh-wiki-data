@@ -1,0 +1,9 @@
+{{装备
+|name=算盘
+|english_name=Abacus
+|cat=工具
+|price=2 gp
+|weight=2磅
+|description=这件装置可以帮助你进行一些较为复杂的数学运算。
+|source=冒险者的军械库、进阶玩家指南、极限宝具
+}}

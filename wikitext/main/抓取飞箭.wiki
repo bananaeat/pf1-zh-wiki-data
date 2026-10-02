@@ -1,0 +1,18 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[抓取飞箭 (神话)]]。</small></div>
+{{Feat
+|name=抓取飞箭
+|english_name=Snatch Arrows
+|categories=战斗
+|description=你能够接住半空中的箭支或远程武器，而不是把它震到一旁。
+|prerequisites=敏捷15，[[拨挡飞箭]]，精通徒手打击。
+|benefit=当使用[[拨挡飞箭]]专长时你可以选择抓住那武器而不仅仅只是偏转它。投掷武器可以立刻被扔回去，视为对原攻击者的一次攻击（即使不是你的行动轮）或留下来在以后使用。你必须至少空出一只手（不拿任何东西）来使用此专长。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[飞箭流转]]（1 个条目）
+
+{{FAQ|old-04}}

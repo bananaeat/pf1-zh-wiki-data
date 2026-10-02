@@ -1,0 +1,10 @@
+{{Feat
+|name=罪恶尖兵
+|english_name=Damned Soldier
+|pfs=否
+|description=您的[[神恩]]选择反映出你偏爱武艺。
+|prerequisites=[[魔族仪典]]
+|benefit=当你通过[[魔族仪典]]专长获得神恩时，你能选择[[卫道者]]或[[颂教者]]神恩，但在选择后不能改变。此外，你在神祇偏好武器的伤害上获得+1亵渎加值。
+|source_name=永罪之书
+|source_url=https://pf1chm.pages.dev/topics/page_1555.html
+}}

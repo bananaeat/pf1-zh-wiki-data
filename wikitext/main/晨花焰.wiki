@@ -1,0 +1,10 @@
+{{Trait
+|name=晨花焰
+|english_name=Flame of the Dawnflower
+|type=宗教
+|prerequisites=信仰[[塞恩蕾]]
+|description=你在“将自己视为侍奉[[塞恩蕾]]的利刃”的教条中长大，或者你已经身为践行女神教义的使者。当持用[[弯刀]]造成重击时，你对目标造成2点额外火焰伤害。
+|source_name=宗教背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

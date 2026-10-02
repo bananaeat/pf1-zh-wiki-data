@@ -1,0 +1,10 @@
+{{Trait
+|name=临危不惧
+|english_name=Unflappable Arrogance
+|type=种族
+|prerequisites=[[火元素裔]]
+|description=你对侵略者的行径嘲弄以对。以威吓技能挫败你士气的DC提高5点。若对手的威吓检定结果足以使你士气低落超过1轮，你改为只士气低落1轮。
+|source_name=种族背景
+|source=BoE
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

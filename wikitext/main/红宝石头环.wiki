@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=红宝石头环
+|english_name=Ruby Circlet
+|aon=MagicWondrousDisplay.aspx?FinalName=Ruby Circlet
+|cat=奇物
+|aura=中等咒法系、变化系
+|cl=11
+|slot=手部
+|price=94,000 gp
+|weight=5磅
+|description=这顶金头环镶嵌着红宝石，小得足以戴在在位法老的标准头饰之下。它的功能同时是+6感知护符和[[劝诱头饰]]。如果你是奥西里昂的合法统治者，你可以用红宝石头环与詹赫莉娅（Janhelia）进行心灵感应交流，她是沙漠元素领主们的使者；只要你和她处于同一位面，这项能力就能起效。
+|req=[[制造奇物]]、[[鹰之威仪]]、[[枭之睿智]]、[[异界盟友]]、[[心灵连线]]
+|cost=47,000 gp，3,760 XP
+|source=奥西里昂：法老之地
+}}

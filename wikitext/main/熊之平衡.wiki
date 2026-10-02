@@ -1,0 +1,10 @@
+{{Feat
+|name=熊之平衡
+|english_name=Bear's Balance
+|categories=战斗
+|prerequisites=[[钢铁意志]]，狂暴职业特性。
+|benefit=未狂暴时，你在威吓检定上获得+2加值。当你对抗恐惧效果的豁免失败，你可以选择进入狂暴从而避免陷入恐惧。在恐惧效果持续时间结束或因其它某些原因终止（比如引起恐惧的生物被干掉了），或者你耗尽当日的狂暴轮数之前，你不能自主结束狂暴。但若你在狂暴中遭受恐惧效果，本专长不起作用。
+|source=THH
+|source_name=哈罗牌手册
+|source_url=https://pf1chm.pages.dev/topics/zh6af278c423.htm
+}}

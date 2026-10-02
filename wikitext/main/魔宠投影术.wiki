@@ -1,0 +1,15 @@
+{{Spell
+|name=魔宠投影术
+|english_name=Familiar double
+|school=幻术系 (幽影幻觉)
+|levels=女巫 7
+|action=标准动作
+|components=语言;姿势;材料（一个价值5 gp的你的小复制品）
+|range=中距
+|effect=一个幽影复制体
+|duration=1轮/等级 (可解消)
+|save=意志，通过则不相信（如有互动）
+|sr=否
+|description=该法术的功能如同[[投影术]]一般，不过幻象仅会出现在你的[[魔宠]]所在的空间，而且会在你的魔宠移动时跟着移动。
+|source=进阶职业指南
+}}

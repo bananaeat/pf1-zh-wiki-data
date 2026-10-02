@@ -1,0 +1,15 @@
+{{魔法物品
+|name=超重战锤
+|english_name=Heavy Hammer
+|aon=MagicCursedDisplay.aspx?ItemName=Heavy Hammer
+|cat=诅咒物品
+|base=[[战锤]]
+|enh=+2
+|aura=中等变化系
+|cl=8
+|slot=无
+|weight=20磅
+|description=这把巨大的战锤比它的体型本应有的重量还要沉重。持用这把战锤的生物攻击检定承受-2减值，伤害检定获得+4加值，并且速度承受-10尺的减值。战锤一旦被拿起，就必须一直作为该生物的主要武器使用，直到成功对其施展[[移除诅咒]]为止。
+|req=+2[[战锤]]
+|source=极限宝具
+}}

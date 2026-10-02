@@ -1,0 +1,9 @@
+{{Trait
+|name=从商者
+|english_name=Merchant
+|type=社会
+|description=你曾是位商人，以收购和出售货物为业。你在为货物价格[[议价]]时[[估价]]和察言观色检定获得+1背景加值。估价总是你的[[本职技能]]。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

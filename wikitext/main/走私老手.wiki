@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Bastards of Golarion pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=走私老手
+|english_name=Expert Smuggler
+|type=地区
+|pfs=否
+|prerequisites=艾拉格斯
+|description=多年的走私和其他见不得光的勾当，让你学会即使在被主动搜查时也能藏好自己的财物。其他生物在搜你的身时，其[[察觉]]检定（与你的[[巧手]]检定对抗）永远无法获得+4加值。
+|source_name=格拉利昂的混种
+|source=BoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Expert%20Smuggler
+}}

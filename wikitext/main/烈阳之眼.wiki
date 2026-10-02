@@ -1,0 +1,10 @@
+{{Trait
+|name=烈阳之眼
+|english_name=Eyes of the Sun
+|type=种族
+|prerequisites=[[人类]]（迦伦德人）
+|benefit=你习惯于沙漠烈阳的灼光，它那令人炫目的光辉对你构成不了威胁。在对抗可能使你[[目眩]]或[[目盲]]的效果时，你在豁免检定中获得+1背景加值。每日一次，当你可能被一个效果目眩或目盲时，你可以将该效果的持续时间减半(至少1轮)。若你已经目眩或目盲，或你具有光线敏感或强光目盲特性，你不能使用本能力。
+|source_name=沙之子民
+|source=沙之子民 People of the Sands
+|source_url=https://pf1chm.pages.dev/topics/zh730f330f66.htm
+}}

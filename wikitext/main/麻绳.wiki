@@ -1,0 +1,9 @@
+{{装备
+|name=麻绳
+|english_name=Rope (50 ft.)
+|cat=冒险装备
+|price=1 gp
+|weight=10磅
+|description=这条50尺长的麻绳有2点生命值，通过DC 23的力量检定就可以扯断它。
+|source=核心规则书、极限宝具
+}}

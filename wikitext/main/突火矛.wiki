@@ -1,0 +1,19 @@
+{{武器
+|name=突火矛
+|english_name=Fire lance
+|category=火器
+|prof=异种
+|wcat=双手
+|price=25 gp
+|weight=4磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×4
+|range=10尺
+|type=穿刺
+|misfire=1-4（5尺）
+|capacity=1
+|groups=火器
+|description=这种原始的火器只是一根长管，点燃后会喷出一股短促的火焰，并射出一支[[标枪]]。与其他火器不同，突火矛极不精准，攻击的是目标的AC而非接触AC。在判定哑火效果时，突火矛总是视为处于[[破损]]状态。突火矛的弹药为1支标枪和2份黑火药。这是一件早期火器。
+|source=极限战斗、极限宝具
+}}

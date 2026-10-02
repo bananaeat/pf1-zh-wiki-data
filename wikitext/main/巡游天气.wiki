@@ -1,0 +1,14 @@
+{{Spell
+|name=巡游天气
+|english_name=Wandering weather
+|school=变化系
+|levels=先知 8;奥能师 8;女巫 8;德鲁伊 8;术士 8;法师 8;牧师 8;萨满 8
+|action=10分钟；见后文
+|components=语言;姿势
+|range=2英里
+|area=以你为中心、半径2英里的圆形区域；见后文
+|duration=4d12小时；见后文
+|sr=否
+|description=这种法术如同[[操控天气]]，除了你可以选择让天气在你移动时随你移动，始终以你为中心。
+|source=极限荒野
+}}

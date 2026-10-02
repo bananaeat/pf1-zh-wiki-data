@@ -1,0 +1,11 @@
+{{Feat
+|name=瞬刻审判
+|english_name=Instant Judgment
+|description=你最快速的宣言也蕴含着力量。
+|prerequisites=【第二审判】职业特性。
+|benefit=你可以用[[直觉动作]]来发动审判，或是改变一个激活的审判类型。
+|normal=开启或改变审判是一个[[迅捷动作]]。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=天京守殿者
+|english_name=Tianjing Temple Guard
+|type=地区
+|prerequisites=天京
+|description=你曾经在天京的一处显赫的圣殿都市做过守卫，在这段时间你学会了对付流氓匪类的一些窍门。在使用长柄武器时，你进行[[借机攻击]]的攻击骰获得+1背景加值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://pf1chm.pages.dev/topics/page_1557.html
+}}

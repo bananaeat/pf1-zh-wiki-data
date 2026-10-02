@@ -1,0 +1,9 @@
+{{Trait
+|name=永恒睿智
+|english_name=Eternal Understanding
+|type=宗教
+|prerequisites=信仰[[义洛理]]
+|description=尽管你没有受过传统教育，但你被赐予了强大的洞察力与观察力。你可以在未受训的情况下进行DC小于或等于15的任何知识检定。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

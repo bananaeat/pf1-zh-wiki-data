@@ -1,0 +1,13 @@
+{{危害
+|name=魔地尘
+|english_name=Ungol Dust
+|kind=毒药
+|type=吸入
+|save=强韧 DC 15
+|frequency=1次/轮，持续4轮
+|initial=1点魅力吸取
+|secondary=1d2点魅力伤害
+|cure=1次豁免成功
+|price=1,000 gp
+|source=核心规则书
+}}

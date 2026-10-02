@@ -1,0 +1,14 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[特技专家 (神话)]]。</small></div>
+{{Feat
+|name=特技专家
+|english_name=Acrobatic
+|description=你擅长纵跃、跳跃和飞行。
+|benefit=对于所有的特技和飞行检定获得+2奖励。如果某技能受训等级10以上，对于该技能检定的奖励为+4。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[挂金勾]]、[[谨慎飞行者]]（2 个条目）

@@ -1,0 +1,15 @@
+<noinclude>{{消歧义|坑道鼠(NPC)}}</noinclude>
+{{Feat
+|name=坑道鼠
+|english_name=Tunnel Rat
+|description=你是在狭窄空间战斗的大师。
+|prerequisites=[[鼠族]]，【群居】种族特性。
+|benefit=当你挤入狭小空间时体型视为比正常小一级。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[掘地利齿]]（1 个条目）

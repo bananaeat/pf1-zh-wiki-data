@@ -1,0 +1,15 @@
+{{Feat
+|name=恐怖最终拥抱
+|english_name=Final Embrace Horror
+|categories=战斗
+|description=很少有生物能活着离开你粉碎性的[[最终拥抱]]。
+|prerequisites=力量15，智力3，纳迦、蛇人或拥有＜紧勒＞特殊攻击的生物，[[最终拥抱]]，基本攻击加值+6。
+|benefit=当你的＜紧勒＞攻击对一个生物造成伤害，它同时也会陷入战栗状态，持续到你下次行动开始为止。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[最终拥抱极意]]（1 个条目）

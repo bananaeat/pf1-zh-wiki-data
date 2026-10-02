@@ -1,0 +1,17 @@
+{{魔法物品
+|name=颓废盛宴的棕榈
+|english_name=Palm of Decadent Feasts
+|aon=MagicPlantsDisplay.aspx?FinalName=Palm of Decadent Feasts
+|cat=魔法植物
+|aura=强烈咒法系
+|cl=11
+|slot=无
+|price=9,600 gp
+|weight=500磅
+|description=这棵高大的树没有枝条，只在顶端长出宽大的叶片。它硕大而多刺的果实可以掰开，提供足够四个人吃的一餐，效果模拟[[英雄宴]]。如果由单一生物吃下整颗果实，该生物将获得足足24小时的英雄宴的益处，并且治疗的生命值伤害加倍。
+
+颓废盛宴的棕榈每年只结一颗果实，在夏至时成熟。
+|req=[[奇植培育]]、[[英雄宴]]，培育者的知识（自然）至少6级
+|cost=4,800 gp
+|source=极限荒野
+}}

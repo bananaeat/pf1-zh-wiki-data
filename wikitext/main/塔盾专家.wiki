@@ -1,0 +1,12 @@
+{{消歧义|塔盾专家(战士变体职业)}}
+{{Feat
+|name=塔盾专家
+|english_name=Tower Shield Specialist
+|categories=盾牌掌握;战斗
+|description=你毫不费力地使用[[塔盾]]。
+|prerequisites=[[盾牌专攻]]，[[擅长塔盾]]，BAB+11或者战士8级。
+|benefit=你对塔盾的护甲检定减值少3，并且若你有护甲训练职业特性，你可以将塔盾当成护甲来调整它的护甲检定减值和最大敏捷调整。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_361.html
+}}

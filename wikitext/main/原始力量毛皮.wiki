@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=原始力量毛皮
+|english_name=Pelt of Primal Power
+|aon=MagicWondrousDisplay.aspx?FinalName=Pelt of Primal Power
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=肩部
+|price=26,000 gp
+|weight=10磅
+|description=原始力量毛皮是乌尔芬狂战士和维京人珍视的物品：一整张硕大的熊皮，当作披风披在身上，熊头则戴在穿戴者的头顶。穿戴之后，原始力量毛皮为穿戴者提供+4护甲加值的AC。此外，穿戴者每天一次可以变身为灰熊（如同[[野兽形态 II]]），最长持续10分钟。
+|req=[[制造奇物]]、[[野兽形态 II]]、[[法师护甲]]
+|cost=13,000 gp
+|source=北地居民
+}}

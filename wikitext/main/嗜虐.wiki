@@ -1,0 +1,10 @@
+{{Trait
+|name=嗜虐
+|english_name=Cruelty
+|type=缺陷
+|pfs=否
+|description=你从小就热爱将对手身心都彻底打垮并以之为荣，你发现你特别喜欢将敌人的脸整个踩进泥巴里去。
+|benefit=当你参加战斗时，如果30英尺以内有一个陷入[[濒死]]或[[无助]]的敌人，你对其他并未陷入濒死或无助的敌人的攻击检定有-2罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

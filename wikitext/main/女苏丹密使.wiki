@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Elements pg. 21），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=女苏丹密使
+|english_name=Agent of the Sultana
+|type=地区
+|prerequisites=土元素位面
+|description=你曾在土元素位面蛋白石穹窟的统治者——女苏丹阿莎迪耶·宾特·哈立德麾下服役多年，其间学会了许多冒险技能，也学会了憎恨火巨灵。对于你知道会造成火焰伤害的陷阱，你为解除它而进行的[[解除装置]]检定获得+2背景加值；你对具有火亚种的生物确认重击的攻击检定获得+2背景加值。
+|source_name=元素血脉
+|source=BotE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Agent%20of%20the%20Sultana
+}}

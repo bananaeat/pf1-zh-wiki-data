@@ -1,0 +1,15 @@
+{{魔法物品
+|name=黄昏行者披风
+|english_name=Cloak of the Duskwalker
+|aon=MagicWondrousDisplay.aspx?FinalName=Cloak of the Duskwalker
+|cat=奇物
+|aura=微弱幻术系
+|cl=3
+|slot=肩部
+|price=10,000 gp
+|weight=1磅
+|description=这件深色的天鹅绒披风在穿戴者身后戏剧性地飘扬翻卷。披风赋予穿戴者低光视力。每天一次，以命令发动，穿戴者可以让黑暗笼罩自身，如同法术[[黑暗术]]。当这团黑暗生效时，披风还会在低光视力之外赋予穿戴者60尺的黑暗视觉。
+|req=[[制造奇物]]、[[黑暗术]]、[[黑暗视觉]]
+|cost=5,000 gp
+|source=极限宝具
+}}

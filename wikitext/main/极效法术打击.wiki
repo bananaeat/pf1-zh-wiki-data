@@ -1,0 +1,10 @@
+{{Feat
+|name=极效法术打击
+|english_name=Maximized Spellstrike
+|description=你可以针对一个[[措手不及]]的对手进行残暴的痛击。
+|prerequisites=＜法术极效化＞魔战士奥能，【武器智识】职业特性或即时备战。
+|benefit=当你对一个失去了AC上的敏捷加值的敌人进行了一次近战攻击、并且成功的对敌人使用了【法术打击】能力，你可以从你的奥能力池中花费3点奥能来让你传递的接触[[法术极效]]，如同你使用了“法术极效”[[超魔专长]]。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

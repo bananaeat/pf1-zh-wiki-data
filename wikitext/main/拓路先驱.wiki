@@ -1,0 +1,9 @@
+{{Trait
+|name=拓路先驱
+|english_name=Trailblazer
+|type=种族
+|prerequisites=[[人类]]（芒吉人）
+|description=你在最黑暗的丛林中磨炼出的生存能力，为你赢得了"新手向导"的名声。在穿越任何荒野时，你在生存检定上获得+1背景加值，并在对抗疾病的强韧豁免检定上获得+1背景加值。
+|source_name=格拉里昂的人类
+|source_url=https://pf1chm.pages.dev/topics/page_1581.html
+}}

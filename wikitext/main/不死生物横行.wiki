@@ -1,0 +1,51 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Undead Unleashed
+|authors=Adam Daigle、Dave Gross、Mark Moreland、David N. Ross、Amber Stewart、Jerome Virnich
+|pages=64
+}}
+
+{{书页/简介|head=死后的邪恶！|1=
+从无数墓穴与被遗忘的要塞里，不死生物的幕后黑手谋划着各种悖逆自然的堕落勾当。无论是猎食城市最贫穷市民的凶残[[食尸鬼(怪物)|食尸鬼]]、困于幽魂之形的迷途灵魂，还是在死后继续作恶的邪恶[[巫妖(怪物)|巫妖]]，开拓者战役设定的世界里从不缺可怖的不死生物。而现在，它们就等着被放进你的战役！
+
+书中收录了 15 名不死的敌人，每一个都有完整数据、反派的历史与阴谋详情，以及一座足以折磨、惊吓毫无准备的英雄的完整巢穴。用《不死生物横行》放出一大群格拉利昂最可怖的敌人吧！
+
+本书包含：
+
+* 背信弃义的[[掠劫亡龙]]阿兰塔罗斯（Arantaros），他与炼金术恶魔领主做了交易，把生命延续进不死之中。
+* 心怀善意的[[幽魂]]奥德莉娅·惠尔伦（Ordellia Whilwren），即便死后也试图延续梦之女神[[黛丝娜]]的事业。
+* 阴森的依斯嘉[[尸妖]]之母（Wight Mother of Isger），受不死女神[[厄加图娅]]本尊祝福，肩负着在世间散播疾病的使命！
+* 神话级的[[魔魂尸]]之主埃鲁姆·赫尔（Erum-Hel），图谋终结十字军女神[[艾奥梅黛]]。
+* 奥西里昂的[[吸血鬼(怪物)|吸血鬼]]卡西娅（Kasiya），瓦利安·杰哥拉尔伯爵的宿敌，也是「探索者传说」（Pathfinder Tales）小说《King of Chaos》中的主要反派。
+* 另有十名邪恶的不死典范，从饥渴的食尸鬼和[[囚魂魔]]，到压倒性的夜影和巫妖。
+}}
+
+'''不死生物横行'''（''Undead Unleashed''）是开拓者角色扮演游戏「战役设定」系列的一本辅助书，由 Adam Daigle、Dave Gross、Mark Moreland、David N. Ross 等 6 位作者撰写，于 2014 年 9 月发售。
+
+== 目录 ==
+{{书页/目录|1=
+导言 @ 2
+阿兰塔罗斯（Arantaros）：[[掠劫亡龙]] @ 4
+无畏的阿恩劳格尔（Arnlaugr the Fearless）：[[朽战尸]] @ 8
+埃鲁姆·赫尔（Erum-Hel）：[[魔魂尸]] @ 12
+伊姆卡洛卡·加尔蒙特-尼弗霍姆（Imkaloka Ghalmont-Neverhome）：[[女妖]] @ 16
+乔拉内拉（Jolanera）：暗夜之翼 @ 20
+梅伊·帕哈诺（Meyi Pahano）：[[巫妖(怪物)|巫妖]] @ 24
+溺亡者米里克（Mirik the Drowned）：妖鬼 @ 28
+慰藉之母与可怜的埃莱迪亚（Mother Comfort and Poor Eledia）：[[怨魂]]／[[阁楼低语者]] @ 32
+奥德莉娅·惠尔伦（Ordellia Whirlwren）：[[幽魂]] @ 36
+卡西娅王子（Prince Kasiya）：[[吸血鬼(怪物)|吸血鬼]] @ 40
+拉兹尼娅（Razinia）：[[鬼巨灵]] @ 44
+鲁德拉卡瓦拉（Rudrakavala）：[[囚魂魔]] @ 48
+塞尔德格·贝德利斯（Seldeg Bhedlis）：[[死墓骑士]] @ 52
+瓦尔凯纳（Walkena）：[[木乃伊]] @ 56
+依斯嘉的尸妖之母（Wight Mother of Isger）：[[厄加图娅之女]] @ 60
+}}
+
+{{书页尾
+|pfw=Undead Unleashed
+|releases=PDF¦PZO9273E¦2014-09¦；Softcover¦PZO9273¦2014-09¦978-1-60125-677-5
+}}
+
+[[分类:书目]]

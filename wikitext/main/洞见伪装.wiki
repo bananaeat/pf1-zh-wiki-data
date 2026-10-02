@@ -1,0 +1,14 @@
+{{Spell
+|name=洞见伪装
+|english_name=Pierce disguise
+|school=预言系
+|levels=吟游诗人 3;奥能师 3;女巫 3;异能者 3;术士 3;歌者 3;法师 3;秘学士 3;萨满 3;通灵者 3
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|target=自己
+|duration=1分钟/等级
+|sr=否
+|description=你能够看破与本法术同环或更低环的魔法伪装，无论伪装是由幻术还是变形效果达成的。若生物使用上述方式进行魔法伪装，那么你能够看到它们的真实形态。生物的真实形态会像幽灵一样覆盖在生物伪装的外表上。
+|source=进阶职业指南
+}}

@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[战斗祭司 (专长)|战斗祭司]] 的神话版本。</small></div>
+{{Feat
+|name=战斗祭司
+|english_name=Warrior Priest
+|categories=神话
+|description=信仰促使你去战斗，而力量坚定你的意志与信心。
+|prerequisites=[[战斗祭司 (专长)|战斗祭司]]
+|benefit=你的[[先攻]]检定获得加值，数值等同于你的阶层的一半。当你被[[擒抱]]或者进行防御性施法时，施放法术或者使用类法术能力的专注检定也获得上述加值。这些加值与战斗祭司的加值叠加。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

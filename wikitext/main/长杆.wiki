@@ -1,0 +1,9 @@
+{{装备
+|name=长杆
+|english_name=Pole
+|cat=冒险装备
+|price=5 cp
+|weight=8磅
+|description=这种10尺长的木杆常用于从安全的距离探测陷坑、石板和浑浊的液体。
+|source=核心规则书、极限宝具
+}}

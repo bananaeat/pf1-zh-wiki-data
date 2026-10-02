@@ -1,0 +1,16 @@
+{{Spell
+|name=次等天使之颜
+|english_name=Angelic aspect, lesser
+|school=变化系
+|tags=善良
+|levels=先知 2;圣武士 2;奥能师 2;战斗祭司 2;术士 2;法师 2;牧师 2;红螳螂杀手 2
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|target=自己
+|duration=1分钟/等级（可解消）
+|save=无
+|sr=否
+|description=你拥有一部分天使的形态和其物理特性。你获得昏暗视觉，抗酸5，抗冷5和[[防护邪恶]]的效果。
+|source=纯洁勇士
+}}

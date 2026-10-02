@@ -1,0 +1,9 @@
+{{Trait
+|name=天佑者
+|english_name=Fate's Favored
+|type=信念
+|description=天命注视着你。当你受到任何类型的幸运加值影响时，该加值提高1。
+|source_name=信念背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

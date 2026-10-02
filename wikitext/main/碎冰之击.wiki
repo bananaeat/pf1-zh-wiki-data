@@ -1,0 +1,20 @@
+{{Spell
+|name=碎冰之击
+|english_name=Cold ice strike
+|school=塑能系
+|tags=寒冷
+|levels=先知 6;奥能师 6;战斗祭司 6;术士 6;法师 6;牧师 6;秘学士 6
+|action=迅捷动作
+|components=语言;姿势
+|range=30尺
+|area=30尺线形范围
+|duration=立即
+|save=反射，通过则减半
+|sr=是
+|description=你创造了一群飞舞着的锋利冰刃，它们从你手中飞出并且席卷一整条直线。
+
+线上生物受到每施法者等级1d6点寒冷伤害 （最高15d6）。
+|source=极限魔法
+}}
+
+{{FAQ|v5748eaic9o7q}}

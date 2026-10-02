@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[守卫刻文]] 的神话版本。</small></div>
+{{Spell
+|name=守卫刻文
+|english_name=Glyph of Warding
+|school=防护系
+|levels=先知 3;女巫 3;审判者 3;战斗祭司 3;牧师 3
+|description=将你的阶层加到侦测或解除刻文的DC上。爆裂刻文的伤害增加至每施法者等级1d6点（最高20d6）。将你的阶层的一半加到法术刻文中能够储存的最高法术等级上。
+|source=神话冒险
+}}
+[[分类:神话法术]]

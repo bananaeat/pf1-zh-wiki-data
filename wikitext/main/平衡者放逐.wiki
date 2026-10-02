@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Champions of Balance pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=平衡者放逐
+|english_name=Balancer's Banishing
+|type=魔法
+|description=外层位面对凡人事务的干涉令你愤怒不已，也激发了你魔法的威力。只要你保持中立阵营，每当你施放一个会将具有混乱、邪恶、善良或守序亚种的异界生物送回其原生位面的法术时，该法术的豁免DC提高1。
+|source_name=平衡勇士
+|source=CoB
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Balancer%27s%20Banishing
+}}

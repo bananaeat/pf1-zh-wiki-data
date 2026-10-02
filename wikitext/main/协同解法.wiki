@@ -1,0 +1,10 @@
+{{Feat
+|name=协同解法
+|english_name=Dispel Synergy
+|description=你撕裂了对手的魔法防御，同时让他陷入虚弱，更加难以抵抗你的法术。
+|prerequisites=法术辨识5级。
+|benefit=如果你成功的解除了一个敌人身上的魔法效果，该敌人在你下一轮行动结束前，对你的法术的豁免检定都会有-2罚值。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

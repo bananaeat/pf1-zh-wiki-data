@@ -1,0 +1,10 @@
+{{Feat
+|name=盾徽赞助人
+|english_name=Aspis Partner
+|pfs=否
+|description=你引起了盾徽财团的注意，而且能够在必要时向其寻求帮助。
+|benefit=当你身处规模为小城镇或更大的定居点内时，能够通过盾徽赞助人来购买（而非贩卖）物品。在判断基础购买价值与可购买的魔法物品时，将你当前所在的定居点视为都会。你在购买这些物品时会涨价5%，而且订单要经过3d6日才能通过财团的渠道交付给你。你能够通过额外支付1000gp来让订购的物品通过魔法加快运输，经过1d3日交付给你作为替代。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/page_1229.html
+}}

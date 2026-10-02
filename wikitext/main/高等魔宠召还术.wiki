@@ -1,0 +1,15 @@
+{{Spell
+|name=高等魔宠召还术
+|english_name=Callback, greater
+|school=咒法系 (传送)
+|levels=奥能师 5;女巫 5;术士 5;法师 5;萨满 5
+|action=标准动作
+|components=语言;姿势;材料（一只压碎的蚱蜢）
+|range=1英里/等级
+|target=你的魔宠或魂兽
+|duration=1小时/等级或直至耗散
+|save=强韧，通过则无效（无害）
+|sr=是
+|description=除了上述差异之外，该法术的功能如同[[魔宠召还术]]一般。
+|source=极限荒野
+}}

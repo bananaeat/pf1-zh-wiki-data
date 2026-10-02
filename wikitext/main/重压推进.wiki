@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能源始|Occult Origins}}
+'''重压推进'''（Gravitic Boost, Sp）是[[操念使]]的[[原力]]。
+
+元素：虚空；类别：[[复合念袭]]（Sp）；等级：－；超载：2
+
+前置：[[重压]]，任意其他物理简易念袭
+
+念袭性质：特殊；伤害类型：见后文
+
+你将重压加入到一个物理简易念袭中，将伤害骰从d6增加到d8；在其他方面则如同简易念袭一般造成伤害。15级起，你还能够将重压灌注到复合念袭中。要想以此方式对复合念袭灌注重压，你必须多承受1点超载。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_661.html 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Gravitic Boost|2=Gravitic Boost}}
+
+[[分类:原力]]

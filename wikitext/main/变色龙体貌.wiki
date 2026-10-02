@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=变色龙体貌|en=Chameleon Aspect|type=Su|domain=诡术领域|sub=伏击子域 (Ambush)|sub_name=伏击子域|source=格拉利昂的狗头人|text=以一个[[迅捷动作]]，你可以巧妙地改变你鳞片的颜色，将它们与周围的环境混合。在此力量的作用下，你对距离10尺以上的生物获得[[隐蔽]]，对距离40尺以上生物获得[[全隐蔽]]。你每天可以使用此能力的轮数为“3+[[感知]]调整值”。此能力替换[[诡术领域#复制幻象 (Copycat, Sp)|复制幻象]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

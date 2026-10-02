@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=万灵药壶
+|english_name=Panacea Flask
+|aon=MagicWondrousDisplay.aspx?FinalName=Panacea Flask
+|cat=奇物
+|aura=微弱塑能系
+|cl=5
+|slot=无
+|price=6,000 gp
+|weight=1/2磅
+|description=这只不起眼的白镴酒壶，满是凹痕，锈暗无光。壶中灌入任何种类的酒后，每天一次，万灵药壶能为从中饮酒的人施加[[移除疾病]]的效果。无论移除疾病的效果是否成功，饮用者都会在1小时内获得+1士气加值于豁免检定，此后他会[[恶心]]，直到睡满8小时为止。
+|req=[[制造奇物]]、[[移除疾病]]、[[提升抗力]]，制造者必须崇拜[[凯登·凯连]]
+|cost=3,000 gp
+|source=Pathfinder: Runescars #1
+}}

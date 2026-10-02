@@ -1,0 +1,53 @@
+<includeonly>{{#invoke:版权抬头|main}}{{#addbodyclass:pf-class}}<div class="rpgclass">
+<div class="rpgclass-head">
+<div class="rpgclass-name">{{{name|{{PAGENAME}}}}}{{#if:{{{tags|}}}|<span class="rpgclass-tags">{{#arraymap:{{{tags|}}}|;|@@|<span class="tag">@@</span>| }}</span>}}</div>
+<div class="rpgclass-en">{{#invoke:AoN链接|named|职业|{{{english_name|}}}|aon={{{aon|}}}}}</div>
+</div>{{#if:{{{role|}}}|<div class="rpgclass-role">{{{role|}}}</div>}}
+<div class="rpgclass-stats">{{#if:{{{alignment|}}}|{{PropertyLine|阵营|{{{alignment|}}}}}}}<!--
+-->{{#if:{{{hd|}}}|{{PropertyLine|生命骰|{{{hd|}}}}}}}<!--
+-->{{#if:{{{bab|}}}|{{PropertyLine|基本攻击加值|{{{bab|}}}}}}}<!--
+-->{{#if:{{{saves|}}}|{{PropertyLine|优势豁免|{{{saves|}}}}}}}<!--
+-->{{#if:{{{ranks|}}}|{{PropertyLine|技能点数|{{{ranks|}}}}}}}<!--
+-->{{#if:{{{wealth|}}}|{{PropertyLine|起始财富|{{{wealth|}}}}}}}<!--
+-->{{#if:{{{casting|}}}|{{PropertyLine|施法|{{{casting|}}}}}}}<!--
+-->{{#if:{{{proficiencies|}}}|<span id="武器与防具擅长"></span><span id="武器和防具擅长"></span><span id="武器与护甲擅长"></span>{{PropertyLine|擅长|{{{proficiencies|}}}}}}}<!--
+-->{{#if:{{{skills|}}}|<span id="本职技能"></span>{{PropertyLine|本职技能|{{{skills|}}}}}}}</div>{{#if:{{{source|}}}|<div class="rpgclass-source"><span class="key">来源</span> <span class="value">[[{{{source}}}|{{{source}}}{{#if:{{{source_en|}}}|（{{{source_en}}}）}}]]</span></div>}}
+</div>[[分类:职业]]{{#if:{{{group|}}}|[[分类:{{{group}}}]]}}</includeonly><noinclude>
+==说明==
+职业条目顶部的摘要卡片。不填的参数会自动隐藏对应行。
+
+===参数===
+;name / english_name: 中英文名。name 留空时取页名。
+;group: 职业分组，会挂成分类，如 <code>核心职业</code>、<code>基础职业</code>、<code>混合职业</code>。
+;tags: 标签，分号分隔，如 <code>施法者</code>。
+;role: 角色定位，单独一段显示在名字下面。
+;alignment / hd / wealth: 阵营限制 / 生命骰 / 起始财富。
+;bab / saves: 基本攻击加值进程（<code>完全</code>／<code>中等</code>／<code>较差</code>）、优势豁免。
+;ranks: 每级技能点数。
+;casting: 施法方式，如 <code>自发施法，魅力</code>；非施法职业留空。
+;proficiencies: 武器与防具擅长。
+;skills: 本职技能。
+;source / source_en: 来源书名与英文名。
+;aon: 英文名就是 AoN 原文链接（[[模块:AoN链接]] 的 named：按英文名查 [[模块:AoN链接/职业]]，表是 <code>tools/build_aon_named_modules.py</code> 照 AoN 列表页生成的）。对不上的显示纯文字；可以写 <code>aon=</code> 一条已编码的 AoN 原始链接（<code>PrestigeClassesDisplay.aspx?ItemName=Aldori%20Swordlord</code>）顶掉，写 <code>aon=无</code> 就不挂。
+
+===示例===
+<pre>
+{{Class
+|name=野蛮人
+|english_name=Barbarian
+|group=核心职业
+|role=野蛮人在战斗中独当一面……
+|alignment=任意非守序
+|hd=d12
+|bab=完全
+|saves=强韧
+|ranks=4 + 智力调整值
+|wealth=3d6 × 10 gp（平均 105 gp）
+|proficiencies=所有简易武器与军用武器，轻甲、中甲与盾牌（不含塔盾）
+|skills=[[特技]]、[[攀爬]]……
+|source=核心规则书
+|source_en=Core Rulebook
+}}
+</pre>
+[[分类:模板]][[分类:规则模板]]
+</noinclude>

@@ -1,0 +1,9 @@
+{{Trait
+|name=鬼把戏
+|english_name=Magical Talent
+|type=魔法
+|description=也许是与生俱来的天赋、也许是诸神一时兴起的赠礼、也许是出于研究诡异卷轴的痴迷，你掌握了一种戏法的窍门。选择一个0环法术。你能够每日以类法术能力的形式施展该法术1次。该类法术能力采用你所拥有的最高施法者等级；如果你并无施法者等级，则视为1级。该类法术能力的豁免DC基于魅力。
+|source_name=魔法背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

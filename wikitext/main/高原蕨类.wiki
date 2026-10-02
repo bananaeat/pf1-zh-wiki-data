@@ -1,0 +1,17 @@
+{{魔法物品
+|name=高原蕨类
+|english_name=Altitude Fern
+|aon=MagicPlantsDisplay.aspx?FinalName=Altitude Fern
+|cat=魔法植物
+|aura=中等防护系
+|cl=6
+|slot=无
+|price=12,000 gp
+|weight=50磅
+|description=这种常绿植物长着柔软的绿叶，蕨叶上结满了不同寻常的天蓝色浆果。服下这些蜡质浆果的人，对高海拔造成的所有效果免疫。浆果不能使人免疫极端温度造成的伤害，也不能使人无需空气而生存。一枚浆果的效果持续1天。
+
+高原蕨类每天最多产出6枚浆果，同一时间最多结有50枚浆果。这种灌木每年有一个为期13周的生长期，在秋季结出浆果。
+|req=[[奇植培育]]、[[忍受环境]]，培育者必须拥有知识（自然）3级
+|cost=6,000 gp
+|source=极限荒野
+}}

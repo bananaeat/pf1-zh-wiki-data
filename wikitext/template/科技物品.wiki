@@ -1,0 +1,32 @@
+<includeonly>{{#invoke:版权抬头|main}}{{#invoke:科技物品|card}}{{条目页脚|速查=物品速查/科技|分类=物品|附加={{#if:{{{kind|}}}|[[:分类:{{{kind}}}|{{{kind}}}]]}}}}</includeonly><noinclude>
+科技物品卡片（AoN「Technology」一章：科技武器、科技护甲、科技神器、电子殖装物、合成药物、科技装置，规则见[[科技装备]]）。一栏一项，页上的参数就是数据（[[物品速查/科技]]从这里导）。渲染在 [[模块:科技物品]]，样式沿用 [[MediaWiki:Common.css]] 的「物品卡片」一节。
+
+ {{科技物品
+ |name=激光手枪
+ |english_name=Laser pistol
+ |kind=科技武器
+ |sub=火器
+ |price=10,000 gp
+ |weight=3磅
+ |wtype=单手远程
+ |prof=异种（火器）
+ |dmg_s=1d6
+ |dmg_m=1d8
+ |dmg_type=火焰
+ |crit=×2
+ |range=150尺
+ |capacity=10
+ |usage=1
+ |special=接触
+ |description=……
+ |construction=[[制造高科技武器]]、军工实验室
+ |craft_dc=26
+ |cost=5,000 gp
+ |source=科技指南
+ }}
+
+* <code>kind</code>：科技武器／科技护甲／科技神器／电子殖装物／合成药物／科技装置（进同名分类，另进 分类:科技物品）；<code>sub</code> 细类。<code>english_name</code> 照抄 AoN 条目名，自动链到 AoN；地址不同写 <code>aon=</code>，<code>aon=无</code> 不挂。
+* 通用：<code>price</code>、<code>weight</code>、<code>slot</code> 部位、<code>capacity</code> 容量、<code>usage</code> 消耗、<code>description</code>、<code>construction</code> 制造需求、<code>craft_dc</code> 制造 DC、<code>cost</code> 造价、<code>source</code>。
+* 武器：<code>wtype</code>、<code>prof</code>、<code>dmg_s</code>／<code>dmg_m</code>、<code>dmg_type</code>、<code>crit</code>、<code>range</code>、<code>special</code>。防具：<code>atype</code>、<code>ac</code>、<code>maxdex</code>、<code>acp</code>、<code>asf</code>、<code>speed</code>。殖装件：<code>install</code> 安装 DC、<code>implant</code> 植入值。
+[[分类:模板]]
+</noinclude>

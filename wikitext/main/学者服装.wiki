@@ -1,0 +1,9 @@
+{{装备
+|name=学者服装
+|english_name=Scholar's outfit
+|cat=衣物
+|price=5 gp
+|weight=6磅
+|description=这套服装为学者量身定制，它包含一件长袍、一条腰带、一顶软帽、一双软底鞋，此外还可能附带一件斗篷。
+|source=核心规则书、极限宝具
+}}

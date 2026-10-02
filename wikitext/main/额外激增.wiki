@@ -1,0 +1,11 @@
+{{Feat
+|name=额外激增
+|english_name=Extra Surge
+|pfs=否
+|description=你可以比一般机型更常使用你的奈米机械激增能力。
+|prerequisites=体质13，奈米机械激增能力
+|benefit=你使用奈米机械激增能力的次数每日多一次。
+|special=你可以多次选择本专长，其效果叠加。
+|source_name=冒险之路85：创造之火
+|source_url=https://pf1chm.pages.dev/topics/page_939.html
+}}

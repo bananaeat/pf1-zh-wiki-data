@@ -1,0 +1,11 @@
+{{Trait
+|name=血药调剂师
+|english_name=Blood Potion Brewer
+|type=地区
+|pfs=否
+|prerequisites=出身贝尔克泽恩
+|description=贝尔克泽恩的[[兽人]]们习惯于将敌人的血液混合进他们制造的药水之中来获取仇敌之力。每天两次，当你制造药水时，你可以加一些敌人血液进去混合。当你这么做时，在你喝下这份药水在决定药水效果的持续时间时视其施法者等级高1级。如果是另一个生物喝下了这份药水则该能力无效。这种背景不给予制造药剂的能力。
+|source_name=药剂与毒药
+|source=P&P
+|source_url=https://pf1chm.pages.dev/topics/page_1257.html
+}}

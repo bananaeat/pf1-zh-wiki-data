@@ -1,0 +1,17 @@
+{{魔法物品
+|name=紫貂精英鞍座
+|english_name=Sable Company Elite Saddle
+|aon=MagicWondrousDisplay.aspx?FinalName=Sable Company Elite Saddle
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=无
+|price=14,000 gp
+|weight=5磅
+|description=这副保养良好的皮鞍边缘有多处改造，以便坐骑活动翅膀。紫貂精英鞍座使配备它的坐骑在飞行检定中获得+5表现加值，并使骑手在骑术检定中获得+5表现加值。如果骑手在飞行中被甩下鞍座，会立即受到[[羽落术]]的效果影响。
+
+坐骑还会额外获得骑手所具有的任何[[团队专长]]的好处。
+|req=[[制造奇物]]、[[飞行术]]、[[坐骑术]]，制造者的[[骑术]]技能等级至少为5
+|cost=7,000 gp
+|source=内海战斗
+}}

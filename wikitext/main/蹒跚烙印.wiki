@@ -1,0 +1,16 @@
+{{Spell
+|name=蹒跚烙印
+|english_name=brand of hobbling
+|school=变化系
+|tags=诅咒
+|levels=审判者 2
+|action=1轮
+|components=语言;姿势;圣徽
+|range=接触
+|target=接触到的生物
+|duration=1天/级
+|save=强韧，通过则无效
+|sr=是
+|description=这个法术会在目标身上铭刻下锁链，某特殊监狱或是某守序机构的徽记并造成1d6点伤害。这个印记可以刻在目标生物任何裸露的位置，比如头部或是手臂。被铭下标记的受术者移动速度会减半（向下调整到5尺的整数倍）。蹒跚烙印可以被衣物遮盖或是被刮掉（造成1d6伤害并且会在被治疗后回归），但烙印效果会持续。
+|source=冒险者指南
+}}

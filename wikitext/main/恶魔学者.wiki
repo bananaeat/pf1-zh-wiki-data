@@ -1,0 +1,11 @@
+<noinclude>{{消歧义|恶魔学者(NPC)}}</noinclude>
+{{Feat
+|name=恶魔学者
+|english_name=Demonologist
+|pfs=否
+|description=你已经深深地沉浸在对深渊的本质及其居民的研究中。
+|prerequisites=知识（位面）3级。
+|benefit=你在所有涉及深渊和恶魔的知识检定中获得+2加值，而且你在识别恶魔的知识检定中可以取10。
+|source_name=冒险之路74：勇气之刃
+|source_url=https://pf1chm.pages.dev/topics/zh76c2d19fa4.htm
+}}

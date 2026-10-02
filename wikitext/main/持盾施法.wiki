@@ -1,0 +1,10 @@
+{{Feat
+|name=持盾施法
+|english_name=Shielded Caster
+|categories=团队
+|description=你的盟友能够掩护你完成法术。
+|benefit=每当你邻近一名拥有该专长的盟友，你的专注检定就会获得+4表现加值。如果该盟友持用[[小圆盾]]或者[[轻型盾牌]]，这个加值增加1点；如果你的盟友持用重盾或者[[塔盾]]，这个加值增加2点。最后，如果你和你的盟友处在一名敌人的威胁范围内，并且这名敌人拥有“扰法者”专长或者其他增加专注检定的DC的能力，那么这个DC增加量减半。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

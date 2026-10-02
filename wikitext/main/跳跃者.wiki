@@ -1,0 +1,10 @@
+{{Feat
+|name=跳跃者
+|english_name=Jumper
+|description=你是个天生的跳跃者。
+|prerequisites=特技1级，类人生物或异界生物之外的生物类型
+|benefit=在你使用特技进行跳跃检定时，总是视为已经进行了助跑。特技对你来说是[[本职技能]]。
+|source=AArch
+|source_name=动物档案
+|source_url=https://pf1chm.pages.dev/topics/page_437.html
+}}

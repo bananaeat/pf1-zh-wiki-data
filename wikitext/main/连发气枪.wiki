@@ -1,0 +1,19 @@
+{{武器
+|name=连发气枪
+|english_name=Air repeater
+|category=火器
+|prof=异种
+|wcat=双手
+|price=600 gp
+|weight=6磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×4
+|range=50尺
+|type=钝击和穿刺
+|misfire=1（see text）
+|capacity=6
+|groups=火器
+|description=这种长筒火器由一个可拆卸的压缩储气罐提供动力。当连发气枪处于[[破损]]状态时哑火，不会导致火器爆炸，但会毁坏储气罐。连发气枪在储气罐耗尽前可发射6发子弹。连发气枪附带3个储气罐。更换储气罐需要1分钟，[[快速装填]]专长可将其缩短为[[整轮动作]]。
+|source=格拉利昂的英雄
+}}

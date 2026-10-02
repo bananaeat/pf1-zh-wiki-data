@@ -1,0 +1,11 @@
+{{Feat
+|name=姐妹流
+|english_name=Sisterhood Style
+|categories=战斗;流派
+|description=灰少女不仅是士兵——她们训练过如何作为一个小队作战并且保护她们的身心。一个使用姐妹流的灰少女可以轻松与其他女性进行协同作战。
+|prerequisites=魅力13，[[盾牌专攻]]，[[武器专攻]]（长剑），BAB+2
+|benefit=当你使用此流派并且持用一把长剑和一个轻盾或重盾时，你在反射和意志豁免上获得+1加值。此外，当你使用姐妹流时，你可以选择一个你拥有的团队专长。以一个迅捷动作，你可以把这个专长授予一个你10尺内的盟友，持续到你下一个回合开始之前。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

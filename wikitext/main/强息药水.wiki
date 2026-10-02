@@ -1,0 +1,15 @@
+{{魔法物品
+|name=强息药水
+|english_name=Elixir of Forceful Exhalation
+|aon=MagicWondrousDisplay.aspx?FinalName=Elixir of Forceful Exhalation
+|cat=奇物
+|aura=微弱塑能系
+|cl=3
+|slot=无
+|price=900 gp
+|weight=1磅
+|description=这种冒着气泡的天蓝色液体让饮用者感觉身轻如燕，却又有些胀气。饮用药水后的至多1小时内，饮用者在为进行高跳或远跳而做的[[特技]]检定和游泳检定上获得+4表现加值。饮用者可以以一个[[标准动作]]呼出一阵15尺长的疾风。饮用者最多可以呼出三阵疾风，之后药水的效果耗尽，技能加值随之结束。未使用的疾风在1小时后消散。
+|req=[[制造奇物]]、[[造风术]]
+|cost=450 gp
+|source=进阶种族手册
+}}

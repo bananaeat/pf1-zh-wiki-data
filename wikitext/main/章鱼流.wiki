@@ -1,0 +1,16 @@
+{{Feat
+|name=章鱼流
+|english_name=Octopus Style
+|categories=战斗;流派
+|pfs=否
+|description=你擅长与同时攻击一个以上的敌人
+|prerequisites=敏捷13，[[闪避]]，[[精通徒手打击]]，[[特技]]1级，[[察觉]]1级
+|benefit=使用这一[[流派]]时，你可以以一个[[移动动作]]选择数量等同于你敏捷调整值、且你察觉到的生物。在你的下一回合开始前，你不会被所选择的生物[[夹击]]。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/zh366bfc623c.htm
+|source=MAH
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[章鱼专注]]、[[章鱼鞭打]]（2 个条目）

@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=冰抗|en=Cold Resistance|type=Ex|domain=水领域|source=核心规则书|text=在6级时，你获得寒冷抗力10，12级时增加为20。你在20级时彻底免疫寒冷。}}<noinclude>
+
+[[分类:领域]]</noinclude>

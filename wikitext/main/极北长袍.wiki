@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=极北长袍
+|english_name=Hyperboreal Robe
+|aon=MagicWondrousDisplay.aspx?FinalName=Hyperboreal Robe
+|cat=奇物
+|aura=中等防护系、死灵系
+|cl=6
+|slot=躯体
+|price=7,000 gp
+|weight=1磅
+|description=这件漂亮的长袍用精致的蓝色丝绸缝制，绣有银线，边缘饰有猫头鹰的羽毛和细小的水晶碎片。长袍使穿戴者在所有豁免检定上获得+2抗力加值。此外，穿戴者的皮肉会变得冰冷刺骨。任何以徒手攻击、接触攻击或天生武器击打穿戴者的人，都会受到1d6点寒冷伤害。穿戴者可以用一个[[自由动作]]启动或关闭此能力。
+|req=[[制造奇物]]、[[寒冷之触]]、[[提升抗力]]
+|cost=3,500 gp
+|source=冒险之路68：被禁锢的小屋
+}}

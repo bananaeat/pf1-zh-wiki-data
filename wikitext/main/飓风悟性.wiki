@@ -1,0 +1,10 @@
+{{Trait
+|name=飓风悟性
+|english_name=Hurricane Savvy
+|type=地区
+|prerequisites=镣铐群岛
+|description=
+你习惯于在阿本迪戈暴风眼吹出的可怕风中航行，并且可以将你学到的技能应用于任何风暴。你对风力效果的处理视为比实际情况低一个风力等级，无论是你个人进行的检定还是你作为船长或掌舵进行的检定。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

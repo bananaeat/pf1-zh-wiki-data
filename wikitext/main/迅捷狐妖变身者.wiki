@@ -1,0 +1,17 @@
+{{Feat
+|name=迅捷狐妖变身者
+|english_name=Swift Kitsune Shapechanger
+|aliases=迅捷狐变
+|description=你可以比其他的[[狐妖]]更快变身。
+|prerequisites=敏捷13，基础攻击加值+6，[[狐妖]]
+|benefit=你呈现出[[人类]]或者狐妖外形只需要一个[[迅捷动作]]。如果你有[[狐之型]]，你也可以使用一个迅捷动作来呈现[[狐狸]]形态。
+|normal=狐妖的变身能力需要一个[[标准动作]]
+|source=BotB、DEP
+|source_name=野兽血脉、初探龙国
+|source_url=https://pf1chm.pages.dev/topics/page_699.html
+}}
+
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[狡黠猛扑]]（1 个条目）

@@ -1,0 +1,45 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #56: Raiders of the Fever Sea
+|authors=Greg A. Vaughan
+|pages=96
+}}
+
+{{书页/简介|head=准备迎接登船！|1=
+英雄们驾着自己夺来的海盗船奔赴冒险，在迈向真正成为镣铐群岛自由船长的航程上，要面对满海的危险。然而，如今他们掌了舵，海盗的日子也没有变得轻松：致命的海怪、溺亡海盗的尸体和来自深海的劫掠者纷纷浮现，与他们为敌。当一张极不寻常的地图落入冒险者手中，他们就有机会靠一次大胆的劫掠改写命运。英雄的宿命，是成为下一批无情海浪的牺牲品，还是让好运垂青、助推他们成为镣铐群岛最新也最臭名昭著的海盗？
+
+本册《冒险之路》内容包括：
+
+* Greg A. Vaughan 的《热病海劫掠者》（"Raiders of the Fever Sea"），一部适用于 4 级角色的开拓者角色扮演游戏冒险。
+* Adam Daigle（与 Patrick Renie、F. Wesley Schneider 和 James L. Sutter 合作）撰写的格拉利昂诸大洋与海的地志，以及对栖居其中的各种水栖种族的探究。
+* Robin D. Laws 在「探索者日志」中带来的屠夫岩（Butcher's Rock）之旅与致命的独眼巨人预言。
+* Jesse Benner、Mark Moreland、Steven D. Russell 和 Greg A. Vaughan 设计的六种新怪物。
+}}
+
+'''冒险之路56：热病海劫掠者'''（''Pathfinder #56: Raiders of the Fever Sea''）是海盗主题的[[冒险之路]]「颅骨与镣铐」系列六章中的第二章，由 Greg A. Vaughan 撰写，配套材料出自 Jesse Benner、Adam Daigle、Mark Moreland 等 8 位作者，小说出自 Robin D. Laws，于 2012 年 5 月 23 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+热病海劫掠者 @ 6
+NPC 图集 @ 50
+颅骨与镣铐宝藏 @ 60
+- 贝丝玛拉之骨（Besmara's bones）
+- [[盐卤之刺]]
+- 船长储物柜（captain's locker）
+- 远眺镜（farglass）
+- 斯温格利之眼（Svingli's eye）
+- [[祖尔]]
+格拉利昂的海洋 @ 58
+探索者日志：远塔莱的宝藏（2／6） @ 72
+怪物图鉴 @ 78
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Raiders of the Fever Sea
+|releases=PDF¦PZO9056E¦2012-05¦；Softcover¦PZO9056¦2012-05¦
+}}
+
+[[分类:书目]]

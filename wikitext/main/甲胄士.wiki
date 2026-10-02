@@ -1,0 +1,9 @@
+{{Trait
+|name=甲胄士
+|english_name=Armor Expert
+|type=战斗
+|description=无论是作为见习骑士的训练、或单纯地出于对英雄的模仿，从记事起你便身披甲胄。儿时所穿的铠甲未必真具备防护力，但这种仿真的负重练习毕竟是一种磨练，使长大的你如今披甲行动时姿态更加优雅。你身穿任何种类的盔甲时，该盔甲的防具检定减值下降1点，最低为0。
+|source_name=战斗背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

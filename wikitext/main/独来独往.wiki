@@ -1,0 +1,10 @@
+{{Trait
+|name=独来独往
+|english_name=Loner
+|type=缺陷
+|pfs=否
+|description=你由海盗、土匪或其他不愿为你出头冒险的麻烦人物抚养长大，已经习惯了独自行事。盟友的存在很容易让你分心，你会尽力不让他们进入你的空间。
+|benefit=如果你邻接一个盟友或进行协助他人行动时，你的AC和攻击检定获得-1罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

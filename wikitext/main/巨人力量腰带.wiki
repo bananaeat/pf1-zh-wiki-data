@@ -1,0 +1,15 @@
+{{魔法物品
+|name=巨人力量腰带
+|english_name=Belt of Giant Strength
+|aon=MagicWondrousDisplay.aspx?FinalName=Belt of Giant Strength2
+|cat=奇物
+|aura=中等变化系
+|cl=8
+|slot=腰部
+|price=4,000 gp（+2）；16,000 gp（+4）；36,000 gp（+6）
+|weight=1磅
+|description=这条腰带以厚重的皮革制成，常饰有巨大的金属带扣。腰带使穿戴者的力量获得+2、+4或+6增强加值。在腰带穿戴的最初24小时内，该加值视为临时属性加值。
+|req=[[制造奇物]]、[[牛之力量]]
+|cost=2,000 gp（+2）；8,000 gp（+4）；18,000 gp（+6）
+|source=核心规则书、极限宝具
+}}

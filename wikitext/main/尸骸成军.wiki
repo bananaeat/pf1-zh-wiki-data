@@ -1,0 +1,11 @@
+{{Feat
+|name=尸骸成军
+|english_name=Charnel Soldiers
+|pfs=否
+|description=无智的不死生物在你的指挥下，如同老练的战士一样战斗。
+|prerequisites=任何团队专长，可以创造或操纵不死生物
+|benefit=当你创造不死生物时，如同获得[[奖励专长]]一般，它们可以获得一个你拥有的[[团队专长]]。它们只能在和你或者和你创造的其他不死生物配合时才能享受专长的效果。如果你使用命令死灵专长或者类似的法术，只要它们处于你的控制下，它们同样获得一个你所拥有的团队专长，如同奖励专长。有智慧的不死生物不能从此专长中获益。
+|source=CaC
+|source_name=部属与伙伴
+|source_url=https://pf1chm.pages.dev/topics/page_1347.html
+}}

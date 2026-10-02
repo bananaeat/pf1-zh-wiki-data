@@ -1,0 +1,12 @@
+<noinclude>{{奥能师导航}}
+'''原能制成'''（Create Primal Event, Su）是[[奥能师]]的[[奥能技艺|奥能技艺]]。
+
+</noinclude>{{Source|格拉利昂的英雄|Heroes of Golarion|inline}}
+
+奥能师可用标准动作从奥能源泉中花费2点奥能点在30尺范围内制造一个10尺见方的原能魔法事件，奥能师可额外从奥能源泉中花费2点奥能点将范围提升到20尺见方。该原能魔法事件持续1分钟。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_96.html 原文]），按 AoN 核对过。全部奥能技艺见 [[奥能技艺]]。
+
+[[分类:奥能技艺]]
+
+{{职业}}</noinclude>

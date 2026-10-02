@@ -1,0 +1,9 @@
+{{Trait
+|name=霜血
+|english_name=Frostborn
+|type=地区
+|prerequisites=林诺姆诸王国
+|description=北地寒冬的漫漫长夜让你习惯了寒冷。你在抵抗寒冷环境影响的豁免检定上获得+4背景加值，并在对抗寒冷效果的所有豁免检定上获得+1背景加值。
+|source_name=格拉里昂的矮人
+|source_url=https://pf1chm.pages.dev/topics/page_1586.html
+}}

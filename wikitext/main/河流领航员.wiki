@@ -1,0 +1,9 @@
+{{Trait
+|name=河流领航员
+|english_name=River Navigator
+|type=地区
+|prerequisites=河域诸国
+|description=你在河域诸国长大，熟悉那里许多蜿蜒的溪流。你在处理湖泊、河流及其周围环境的生存检定或专业(水手)检定中获得+1背景加值，其中一项技能成为你的[[本职技能]]。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

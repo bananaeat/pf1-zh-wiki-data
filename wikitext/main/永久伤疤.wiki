@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Armor Master's Handbook pg. 2），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=永久伤疤
+|english_name=Permanent Scars
+|type=战斗
+|description=你将灰少女入团仪式在肉体与情感上留下的伤疤化作了心灵的铠甲。你在对抗情绪和痛苦类法术及效果的豁免检定上获得+2背景加值。
+|source_name=护甲大师手册
+|source=AMH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Permanent%20Scars
+}}

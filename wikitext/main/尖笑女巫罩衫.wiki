@@ -1,0 +1,15 @@
+{{魔法物品
+|name=尖笑女巫罩衫
+|english_name=Cackling Hag's Blouse
+|aon=MagicWondrousDisplay.aspx?FinalName=Cackling Hag's Blouse
+|cat=奇物
+|aura=微弱惑控系
+|cl=3
+|slot=胸部
+|price=6,000 gp
+|weight=2磅
+|description=这件宽松的罩衫上装饰着狰狞的护符和战利品，使穿戴者的威吓检定获得+2表现加值。如果穿戴者是女巫，她获得尖笑巫术。如果穿戴者已经拥有尖笑巫术，则每日2次，她可以用[[迅捷动作]]而不是[[移动动作]]使用尖笑能力。
+|req=[[制造奇物]]、[[狂笑术]]或尖笑巫术，制造者必须拥有5级[[威吓]]技能
+|cost=3,000 gp
+|source=极限宝具
+}}

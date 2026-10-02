@@ -1,0 +1,11 @@
+{{Feat
+|name=一扑即倒
+|english_name=Bushwhack
+|categories=战斗
+|description=你可以将一个措手不及的对手猛地压倒在地
+|prerequisites=敏捷13，精通擒抱，精通徒手打击
+|benefit=当你成功的擒抱了一个措手不及且未意识到你存在的生物时，你可以以一个自由动作，立刻尝试第二次擒抱检定以将这个目标定身。如果你拥有锁喉UC专长，那么你可以放弃第二次擒抱检定的压制尝试，而是进行一次锁喉。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1399.html
+}}

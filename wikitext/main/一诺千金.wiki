@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 196），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=一诺千金
+|english_name=My Word Is My Bond
+|type=种族
+|prerequisites=[[人类]]（塔尔多人）
+|description=可靠是你自我形象的核心部分。每天一次，如果某次攻击检定、豁免检定或技能检定的成功与履行你所订立的某项口头或书面协议直接相关，你可以在该检定上获得+1背景加值。你必须在掷骰之前选择使用这项背景特性；如果你是为了启动这项能力而发起该协议，这项能力就不起作用。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=My%20Word%20Is%20My%20Bond
+}}

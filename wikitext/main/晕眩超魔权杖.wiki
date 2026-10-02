@@ -1,0 +1,15 @@
+{{魔法物品
+|name=晕眩超魔权杖
+|english_name=Rod of Metamagic, Dazing
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Metamagic, Dazinglesser
+|cat=权杖
+|aura=强烈（无学派）
+|cl=17
+|slot=无
+|price=14,000 gp（次等）；54,000 gp（普通）；121,500 gp（高等）
+|weight=5磅
+|description=使用者每天最多可以施放3个法术，使其如同使用[[晕眩法术]]专长一样使受影响的生物陷入[[晕眩]]状态。
+|req=[[制造权杖]]、[[晕眩法术]]
+|cost=7,000 gp（次等）；27,000 gp（普通）；60,750 gp（高等）
+|source=进阶玩家指南、极限宝具
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=飞身扑
+|english_name=Flying Tackle
+|description=你能迅速放倒失去平衡的对手。
+|prerequisites=[[精通闯越]]
+|benefit=当你对一个处于[[措手不及]]状态的对手发动一次[[闯越]][[战技]]检定时，如果这次闯越撞倒了该生物，你可以选择自己也倒地，以一个[[自由动作]]对该生物发动一次[[擒抱]]战技检定。这样做不会引发被你擒抱的目标的[[借机攻击]]。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

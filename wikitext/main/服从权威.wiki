@@ -1,0 +1,9 @@
+{{Trait
+|name=服从权威
+|english_name=Authoritarian
+|type=信念
+|description=你年少时常协助所选信仰的神职人员履行职责，并从中学到对权威的敬畏。只要你效忠于自己认可的合法君主或领袖，便在对抗恐惧与胁迫效果的豁免检定中获得+2背景加值。
+建议角色：[[阿巴达尔]]信徒，[[地狱骑士]]，赫迷亚人
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

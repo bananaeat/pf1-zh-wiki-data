@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[炫目技巧]] 的神话版本。</small></div>
+{{Feat
+|name=炫目技巧
+|english_name=Dazzling Display
+|categories=神话
+|description=你能够利用自己娴熟的武艺快速喝阻他人。
+|prerequisites=[[炫目技巧]]
+|benefit=当你持用武器，并且具有与该武器相关的[[武器专攻]]专长时，你能够以[[标准动作]]使用[[炫目技巧]]专长，不过威吓检定受到-5减值。以[[移动动作]]并受到-10减值使用炫目技巧专长，或者以[[迅捷动作]]使用并受到-20点减值。当你使用炫目技巧专长时，你能够花费1次神话之力，来使得那些被挫败士气影响的人惊惧而非原本的[[战栗]]。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

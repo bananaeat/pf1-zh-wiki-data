@@ -1,0 +1,14 @@
+{{魔法物品
+|name=慈悯手镯
+|english_name=Bracelet of Mercy
+|aon=MagicWondrousDisplay.aspx?FinalName=Bracelet of Mercy
+|cat=奇物
+|aura=微弱咒法系
+|cl=5
+|slot=腕部
+|price=15,000 gp
+|description=这个金属手镯上镶嵌着数枚经牧师祝福的宝石。如果穿戴者拥有圣疗职业特性，她每天可以多使用一次圣疗，并且总是被视为拥有[[圣武士#恩惠|移除疾病恩惠]]。如果穿戴者本来就拥有该恩惠，则她在移除疾病时的有效施法者等级提高4级。
+|req=[[制造奇物]]、[[移除疾病]]
+|cost=7,500 gp
+|source=进阶玩家指南、极限宝具
+}}

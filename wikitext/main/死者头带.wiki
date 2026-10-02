@@ -1,0 +1,15 @@
+{{魔法物品
+|name=死者头带
+|english_name=Dead Man's Headband
+|aon=MagicWondrousDisplay.aspx?FinalName=Dead Man's Headband
+|cat=奇物
+|aura=微弱防护系、惑控系
+|cl=1
+|slot=头饰
+|price=3,600 gp
+|weight=1磅
+|description=这条紧绷的黑色头带上别着一枚黑色金属骷髅，可以别在帽子或其他头部栏位物品的外侧，也可以当作普通头带直接戴着。穿戴者在威吓检定上获得+2表现加值，并使自己制造的任何恐惧效果的DC增加1。此外，如果头带别在帽子的外侧，穿戴者的帽子或头饰就不会被风、水或环境效果吹走或移除，并且在对抗针对其头饰的[[盗取]]与击破企图时，穿戴者的[[CMD]]获得+5环境加值。
+|req=[[制造奇物]]、[[丧志术]]、[[缩物术]]
+|cost=1,800 gp
+|source=极限宝具
+}}

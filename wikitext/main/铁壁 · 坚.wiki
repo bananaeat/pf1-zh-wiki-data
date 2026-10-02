@@ -1,0 +1,11 @@
+{{Feat
+|name=铁壁 · 坚
+|english_name=Mobile Fortress
+|categories=战斗
+|description=你可以随时使用[[塔盾]]保护自己或盟友。
+|prerequisites=力量15，[[铁壁流]]，[[盾牌专攻]]，[[擅长塔盾]]，BAB+4
+|benefit=当你持用一面塔盾时，将一半的盾牌AC加值(包括增强加值)加到你的接触AC上，并且由塔盾造成的对攻击检定的减值仅为-1。开启[[铁壁流]]后，每当你使用塔盾制造全[[掩蔽]]效果时，对于越过你选取的那条边到来的攻击，你所有邻接盟友均视为有全掩蔽。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_361.html
+}}

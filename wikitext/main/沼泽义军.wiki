@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 20），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=沼泽义军
+|english_name=Swamp Rebel
+|type=地区
+|prerequisites=万寿
+|description=你自幼躲藏在沼泽中，躲避那些奴役你和你族人的怪物霸主。你在沼泽地形中进行的[[隐匿]]检定获得+2背景加值，并且隐匿成为你的本职技能。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Swamp%20Rebel
+}}

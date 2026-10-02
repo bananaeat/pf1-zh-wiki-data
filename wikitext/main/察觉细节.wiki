@@ -1,0 +1,16 @@
+{{Spell
+|name=察觉细节
+|english_name=Perceive cues
+|school=变化系
+|levels=催眠师 2;女巫 2;审判者 2;异能者 2;游侠 2;炼金术师 2;猎人 2;秘学士 2;调查员 2
+|action=标准动作
+|components=语言;姿势;材料（一滴水）
+|range=个人
+|target=自己
+|duration=10分钟/等级
+|sr=否
+|description=你的感官变得无比敏锐，让你可以察觉那些平时没有注意的细节。
+
+在法术持续时间内，你在察觉和察言观色检定中获得+5表现加值。
+|source=进阶玩家指南
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=动物之友
+|english_name=Friend to Animals
+|type=种族
+|prerequisites=[[人类]]
+|description=你在与动物邻近的地方长大，而且与它们直觉地联系在一起。你在[[驯养动物]]和骑术检定获得+1加值，而且其中一个技能(由你选择)总是你的[[本职技能]]。
+|source_name=内海种族
+|source=Inner Sea Races
+|source_url=https://pf1chm.pages.dev/topics/zh3a98986c0e.htm
+}}

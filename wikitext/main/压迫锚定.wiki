@@ -1,0 +1,11 @@
+{{Feat
+|name=压迫锚定
+|english_name=Pin Down
+|categories=战斗
+|description=你可以轻松的阻止敌人逃跑。
+|prerequisites=[[战斗反射]]，战士等级11。
+|benefit=每当你威胁之下的对手进行五尺快步或使用撤退动作，他都将触发你的[[借机攻击]]。如果攻击命中，你不造成伤害，不过目标这次[[5尺快步]]或撤退动作将不能移动任何距离。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

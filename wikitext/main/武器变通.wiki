@@ -1,0 +1,16 @@
+{{Feat
+|name=武器变通
+|english_name=Martial Versatility
+|categories=战斗
+|description=你将你的武器技巧拓展到其他相似的武器上。
+|prerequisites=战士4级，人类。
+|benefit=选择一个你已知的适用于特定武器的[[战斗专长]]（如[[武器专攻]]）。在与其相同的武器组中的武器均可应用该专长。
+|special=你可以多次选择这个专长。每次必须选择不同的战斗专长。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[武器熟稔]]（1 个条目）

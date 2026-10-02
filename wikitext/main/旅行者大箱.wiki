@@ -1,0 +1,15 @@
+{{魔法物品
+|name=旅行者大箱
+|english_name=Traveler's Grandiose Carrying Case
+|aon=MagicWondrousDisplay.aspx?FinalName=Traveler's Grandiose Carrying Case
+|cat=奇物
+|aura=中等幻术系、变化系
+|cl=5
+|slot=无
+|price=1,200 gp
+|weight=2磅
+|description=这个精制[[哈罗牌匣]]保护其中的哈罗牌组不受损害。当该牌匣用于哈罗占卜时，匣子周围15尺内的光照等级降为微光，所解读牌张的微缩幻象会出现在占卜师及其受术者面前。哈罗牌组存放在旅行者大箱中时，在对抗专门以该牌组为目标的效果的豁免检定上获得+2加值。
+|req=[[制造奇物]]、[[黑暗术]]、[[忍受环境]]、[[强效幻影]]
+|cost=600 gp
+|source=哈罗牌手册
+}}

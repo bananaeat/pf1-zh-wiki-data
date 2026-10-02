@@ -1,0 +1,14 @@
+{{Feat
+|name=传世佳作
+|english_name=Magnum Opus
+|categories=故事
+|pfs=否
+|description=你寻求着如何创作出真正的世界名作。
+|prerequisites=你必须曾卖出过5部以上总值达5000GP的自创艺术作品、或曾通过优秀的表演检定（DC20）进行过观众人数达50名以上的5场演出，或你拥有“演艺天才”角色背景。
+|benefit=选择一项工艺或表演技能。当你为技能检定取10时，将投骰视为15计算。
+|goal=卖出1部价值25000GP的自创艺术作品、或曾通过无与伦比的表演检定（DC30）进行过观众人数达100名以上的10场演出、或赢得人口达10万以上的国家或都市统治者的支持与赞助。无论哪种情况，你都必须使用上面所选的技能来完成。
+|completion_benefit=你所选择的技能检定+5，你的所有受训1级以上的其他工艺和表演技能检定+2。
+|source=UCa
+|source_name=极限战役
+|source_url=https://pf1chm.pages.dev/topics/page_200.html
+}}

@@ -1,0 +1,17 @@
+{{武器
+|name=斩马刀
+|english_name=Horsechopper
+|category=武器
+|prof=军用
+|wcat=双手
+|price=10 gp
+|weight=12磅
+|dmg_s=1d8
+|dmg_m=1d10
+|crit=×3
+|type=穿刺或挥砍
+|special=长武，摔绊
+|groups=长柄
+|description=这种武器由[[地精]]打造，专门用来对付马匹，本质上是一柄在刃上带有加大钩子的长柄戟。大多数斩马刀是按小型生物的体型制作的。
+|source=探索者编年史：战役设定、冒险者的军械库、内海世界指南、进阶种族手册、极限宝具
+}}

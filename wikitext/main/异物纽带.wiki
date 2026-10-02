@@ -1,0 +1,9 @@
+{{Trait
+|name=异物纽带
+|english_name=Outsider Ties
+|type=魔法
+|description=一个异界生物在你年轻时探望过你，而你从那刻起就对此类型的异界生物有着显著的亲和力。选择一个异界生物亚种，例如天使或元素。当你通过[[召唤怪物]]、[[异界盟友]]、[[异界誓缚]]或类似的法术和能力召唤拥有此亚种的异界生物时，被召唤的生物获得等同用来召唤的法术环级的临时hp。
+|source_name=怪物召唤者手册
+|source=MSH
+|source_url=https://pf1chm.pages.dev/topics/zh4a81a7cb1a.htm
+}}

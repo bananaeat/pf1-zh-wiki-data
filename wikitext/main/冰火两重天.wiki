@@ -1,0 +1,13 @@
+{{危害
+|name=冰火两重天
+|english_name=Gelidburn oil
+|kind=毒药
+|type=伤口
+|save=强韧 DC 12
+|frequency=1次/轮，持续4轮
+|effect=1d3点火焰伤害、1d3点寒冷伤害，并且[[恍惚]]1轮
+|cure=1次豁免成功
+|price=75 gp
+|description=这种油腻的淡蓝色液体会带来一种既冰冷刺骨又灼热难耐的震惊感觉。冰火两重天在想要捅一刀、抢了东西就跑的扒手中很受欢迎。
+|source=药剂与毒药
+}}

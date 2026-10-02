@@ -1,0 +1,15 @@
+{{魔法物品
+|name=复仇追踪者背心
+|english_name=Vest of the Vengeful Tracker
+|aon=MagicWondrousDisplay.aspx?FinalName=Vest of the Vengeful Tracker
+|cat=奇物
+|aura=微弱预言系
+|cl=5
+|slot=胸部
+|price=6,000 gp
+|weight=3磅
+|description=这件绿棕相间的[[背心]]沿着衣身缝着一排口袋，每个口袋上都有一枚小小的磁石纽扣。穿戴者在追踪到猎物时会感到一阵英勇的激荡。对于她在过去24小时内成功追踪过的生物，她用武器进行的第一次攻击检定和伤害骰获得+1士气加值。如果目标处于[[措手不及]]状态，该加值提高到+2。如果该目标同时还是她的宿敌，她对该目标的重击确认检定获得+4加值。
+|req=[[制造奇物]]、[[问道自然]]
+|cost=3,000 gp
+|source=极限宝具
+}}

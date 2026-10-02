@@ -1,0 +1,16 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[双武器格斗]] 的神话版本。</small></div>
+{{Feat
+|name=双武器战斗
+|english_name=Two-Weapon Fighting
+|categories=神话
+|description=通过灵巧的打击，你能够在与敌人战斗时获得优势。
+|prerequisites=[[双武器格斗]]
+|benefit=以[[直觉动作]]，你能够花费1次神话之力，以此在等同于你的阶层的轮数中忽略[[双武器战斗]]给攻击检定带来的减值。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[血腥双刀]]、[[贰牙击]]、[[贰牙流]]、[[贰牙突]]、[[雷霆飓风]]（5 个条目）

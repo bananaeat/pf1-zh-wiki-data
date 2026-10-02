@@ -1,0 +1,11 @@
+{{Feat
+|name=左脚绊右脚
+|english_name=Tangle Feet
+|categories=战斗
+|description=经过你身边的生物会被他们自己的脚绊倒。
+|prerequisites=[[闪避]]，[[灵活移动]]，钻跨而过（Underfoot , APG），[[地精]]，体型小型或更小。
+|benefit=当你通过比你体型大的敌人的威胁范围或空间并且以特技检定成功避免他的[[借机攻击]]时，你能以一个[[自由动作]]使其在下个回合结束之前失去平衡。若该生物试图在失去平衡时移动，他必须成功进行一次DC为15的特技检定，否则将会摔倒并且失去这次[[移动动作]]。你每回合只能以此效果影响一个生物。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

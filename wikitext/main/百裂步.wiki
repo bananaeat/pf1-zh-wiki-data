@@ -1,0 +1,15 @@
+{{Feat
+|name=百裂步
+|english_name=Jabbing Dancer
+|categories=战斗
+|description=你可以在发动连续拳击的间隙摆出各种姿势，从不同角度殴打对手。
+|prerequisites=[[闪避]]，[[精通徒手打击]]，[[百裂拳]]，[[灵活移动]]，基础攻击加值+9或拳师等级5或武僧等级5
+|benefit=在使用[[百裂拳]][[流派]]时，你的[[徒手攻击]]每命中目标一次，你就可以移动5尺一次且不引发[[借机攻击]]，但你的移动落点必须邻接你徒手打击命中的目标。但是，你的下一轮无法进行五尺快步。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[千手百裂]]（1 个条目）

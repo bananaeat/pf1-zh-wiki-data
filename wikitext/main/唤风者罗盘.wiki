@@ -1,0 +1,14 @@
+{{魔法物品
+|name=唤风者罗盘
+|english_name=Wind-Caller Compass
+|aon=MagicWondrousDisplay.aspx?FinalName=Wind-Caller Compass
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=无
+|price=4,400 gp
+|description=这个浅灰色罗盘由上好的金属制成，上面刻有太阳、月亮和云朵的各式图案。使用者每天可以四次增强或减弱风的强度，如同施放[[风力变化]]。
+|req=[[制造奇物]]、[[风力变化]]
+|cost=2,200 gp
+|source=极限宝具
+}}

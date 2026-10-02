@@ -1,0 +1,17 @@
+{{武器
+|name=旅行壶
+|english_name=Traveling kettle
+|category=武器
+|prof=简易
+|wcat=轻型
+|price=5 gp
+|weight=2磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×2
+|type=钝击
+|special=武僧，见正文
+|groups=武僧
+|description=这种小[[茶壶]]有着加固过的坚固把手和紧实的盖子，允许它像木棒一样被挥舞。一个装有沸水的旅行壶在命中时造成1点额外的火焰伤害。煮沸的水会在5分钟后冷却到无害的温度。
+|source=武术手册
+}}

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Antihero's Handbook pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=铁石心肠
+|english_name=Callous
+|type=社会
+|description=你一生中经历了许多磨难，这让你对他人的苦难变得冷漠，以至于不会轻易被悲惨的故事打动。当生物试图博取你的同情来欺骗你时，你用于对抗其唬骗检定的[[察言观色]]检定获得+4背景加值。
+|source_name=反英雄手册
+|source=A'sH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Callous
+}}

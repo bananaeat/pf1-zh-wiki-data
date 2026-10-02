@@ -1,0 +1,11 @@
+{{Feat
+|name=凶猛行动
+|english_name=Ferocious Action
+|pfs=否
+|description=凶猛的你迅捷而薄命。
+|prerequisites=【凶猛】种族特性，兽人。
+|benefit=当你HP降为0或更低时，你每轮失去2点HP，但是你不会陷入[[恍惚]]。若你处在狂暴中（比如来自野蛮人职业能力的），你每轮只失去1点HP。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

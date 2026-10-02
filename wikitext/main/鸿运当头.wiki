@@ -1,0 +1,15 @@
+{{Spell
+|name=鸿运当头
+|english_name=Heroic fortune
+|school=塑能系
+|levels=先知 2;吟游诗人 2;战斗祭司 2;歌者 2;炼金术师 2;牧师 2;调查员 2;圣武士 3
+|action=标准动作
+|components=语言;姿势;圣徽;材料（价值100gp的钻石尘）
+|range=接触
+|target=接触到的生物
+|duration=1轮/等级
+|save=意志，通过则无效（无害）
+|sr=否
+|description=此法术给予目标1点[[英雄点]]，该英雄点必须在持续时间结束前使用，否则消失；这点额外的英雄点会先于目标的其他英雄点被消耗。
+|source=进阶玩家指南
+}}

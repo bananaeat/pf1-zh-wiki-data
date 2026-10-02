@@ -1,0 +1,15 @@
+{{魔法物品
+|name=窃贼手套
+|english_name=Gloves of Larceny
+|aon=MagicWondrousDisplay.aspx?FinalName=Gloves of Larceny
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=手部
+|price=2,500 gp
+|weight=1磅
+|description=这双柔软的米色小牛皮手套能大大增强窃贼的才能。穿戴者的[[巧手]]检定获得+5表现加值。
+|req=[[制造奇物]]、制造者的[[巧手]]技能必须至少有5级
+|cost=1,250 gp
+|source=极限宝具
+}}

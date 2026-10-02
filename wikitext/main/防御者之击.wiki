@@ -1,0 +1,11 @@
+{{Feat
+|name=防御者之击
+|english_name=Protector's Strike
+|description=当你与邪恶争斗时，你的神圣力量可以用来保卫另一个视线中的盟友
+|prerequisites=制裁邪恶职业能力，基础攻击加值+5
+|benefit=在激活你的制裁邪恶能力选择目标时，你还可以选择一个处于你视线内的盟友，在你进行制裁邪恶时，你所选择的盟友在对抗制裁目标的攻击时会在AC上获得相当于你魅力调整值的偏斜加值，而你无法从自己的制裁邪恶能力中获得AC加值。
+|normal=当激活制裁邪恶能力后，圣武士可以在对抗制裁的目标攻击时在自己的AC上获得相当于魅力调整值的偏斜加值。
+|source=FoP/FoB/FoC、ISG
+|source_name=纯善／平衡／堕落信念、内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}

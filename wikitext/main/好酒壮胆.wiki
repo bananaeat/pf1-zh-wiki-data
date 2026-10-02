@@ -1,0 +1,10 @@
+{{Feat
+|name=好酒壮胆
+|english_name=Courage in a Bottle
+|description=只要三杯酒下肚，就没有什么好怕的了！
+|prerequisites=英勇职业能力，信仰凯登．凯利恩
+|benefit=每当你醉酒，你从英勇职业能力获得的加值提高2点；如果提高后你对抗恐惧的加值总计为+6或更高，你改为免疫恐惧。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

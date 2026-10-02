@@ -1,0 +1,11 @@
+{{消歧义|鹰眼}}
+{{Feat
+|name=鹰眼
+|english_name=Eagle Eyes
+|description=你的视觉格外敏锐。
+|prerequisites=[[感知]] 13，【敏锐感官】种族特性。
+|benefit=在通过视觉进行察觉检定时，你忽略至多5点距离造成的减值，这使得你比大多数人看得更远更准确。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

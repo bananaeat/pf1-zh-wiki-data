@@ -1,0 +1,17 @@
+{{Feat
+|name=制造魔法武器和防具
+|english_name=Craft Magic Arms and Armor
+|aliases=制造魔法武器与防具
+|categories=造物
+|pfs=否
+|description=你能制造魔法盔甲，盾牌和武器。
+|prerequisites=施法者等级5级。
+|benefit=你能制造魔法盔甲，盾牌和武器。为一件武器、一套盔甲或盾牌附魔需要的时间为：附加的魔法特性的价格每增加1000gp，工期增加1天。加工所需耗材的价格为成品价格的一半。更多信息请参见魔法物品规则。将被附魔的武器、盔甲或盾牌必须为精制品，其成本不在上述之列。你还可以修理损坏的武器、盔甲或盾牌，只要你能制造它。修理耗费一半制造该物品所需的原料和时间。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''制造需求'''：被 154 件物品点名，名单见 [[特殊:链入页面/{{PAGENAME}}|链入页面]]。

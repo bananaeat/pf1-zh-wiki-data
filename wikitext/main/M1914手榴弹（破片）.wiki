@@ -1,0 +1,16 @@
+{{武器
+|name=M1914手榴弹（破片）
+|english_name=M1914 grenade (fragmentation)
+|category=火器
+|prof=异种
+|wcat=爆炸物
+|price=75 gp
+|weight=1磅
+|dmg_m=4d6
+|crit=×2
+|range=20尺
+|type=钝击、穿刺和挥砍
+|special=见正文
+|description=标准的M1914手榴弹可以装上一个可选的破片套。这个套筒把普通的冲击爆炸转变为一团致命的弹片，代价是杀伤半径缩小。它的布置和引爆方式与普通M1914手榴弹相同，不过爆炸半径缩小为15尺，并改为造成4d6点钝击、穿刺和挥砍伤害（DC 15反射豁免减半）。
+|source=冒险之路71：拉斯普京必须死！
+}}

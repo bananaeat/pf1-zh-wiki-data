@@ -1,0 +1,11 @@
+{{Feat
+|name=危机战斗
+|english_name=Risky Striker
+|categories=战斗
+|description=你为了对大型敌人造成巨创而把自己放在了危险的境地。
+|prerequisites=基本攻击加值+1，半身人。
+|benefit=在与比你大至少2个体型的敌人战斗时，你在近战攻击时可以选择承受-1AC减值而得到+2伤害加值。当你的基本攻击加值达到+4以及此后每4级时，AC再额外-1而这个伤害加值额外增加2。该额外伤害在重击时会倍增。只有在宣布进行使用近战武器的攻击动作或全回合攻击动作时，你才能选择使用这个专长。专长效果持续到你的下一回合开始。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

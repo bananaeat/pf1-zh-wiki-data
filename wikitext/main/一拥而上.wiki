@@ -1,0 +1,18 @@
+{{Feat
+|name=一拥而上
+|english_name=Gang Up
+|categories=战斗
+|description=你擅长使用人海战术。
+|prerequisites=[[智力]] 13，寓守于攻。
+|benefit=只要敌人处于至少两名盟友的威胁范围内，就视为你在[[夹击]]目标，无论你的具体位置如何。
+|normal=你必须处于对角位才能进行[[夹击]]。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[团队进击]]（1 个条目）
+
+{{FAQ|v5748eaic9n87}}

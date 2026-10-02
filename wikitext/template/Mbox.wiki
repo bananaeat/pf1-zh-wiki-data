@@ -1,0 +1,50 @@
+<includeonly><div style="display: flex; align-items: center; overflow: hidden; margin: 0.5em auto; border-left-width: 10px; gap: 10px; {{{style|}}}" class="mbox well quote-{{#switch:{{{border|}}}
+| default    = primary
+| primary    = primary
+| success    = success
+| info       = info
+| warning    = warning
+| danger     = danger
+| #default   = primary}}">
+<div style="display: flex;">{{#if:{{{image|}}}
+| {{{image}}}
+| {{#switch:{{{type|}}}
+| delete     =<i class="fa fa-times" style="font-size:20px;"></i>
+| content    =<i class="fa fa-exclamation-triangle" style="font-size:20px;"></i>
+| style      =<i class="fa fa-css3" style="font-size:20px;"></i>
+| move       =<i class="fa fa-share" style="font-size:20px;"></i>
+| protected  =<i class="fa fa-lock" style="font-size:20px;"></i>
+| help       =<i class="fa fa-hand-paper-o" style="font-size:20px;"></i>
+| expand     =<i class="fa fa-expand" style="font-size:20px;"></i>
+| #default   =<i class="fa fa-pencil" style="font-size:20px;"></i>}}}}</div>
+<div style="flex-grow: 1; font-size: 14px; {{{text-style|}}}">{{{text|}}}</div>
+</div></includeonly><noinclude>[[Category:huiji template]]{{优质模板|功能}}{{documentation}}
+<templatedata>
+{
+	"description": "本模板用来生成各种页面顶部通知",
+	"params": {
+		"style": {},
+		"border": {
+			"description": "可选值：default、primary、success、info、warning、danger",
+			"example": "primary",
+			"type": "string"
+		},
+		"image": {
+			"description": "图片，若存在则取代图标",
+			"example": "[[file:中国.png|80px|link=]]"
+		},
+		"type": {
+			"description": "图标类型，可选值：delete、content、style、move、protected、help、expand"
+		},
+		"text-style": {
+			"description": "显示的文本的样式",
+			"type": "string"
+		},
+		"text": {
+			"description": "显示的文本",
+			"type": "string"
+		}
+	}
+}
+</templatedata>
+</noinclude>

@@ -1,0 +1,10 @@
+{{Feat
+|name=寻路引导
+|english_name=Trailblazing Channel
+|description=你的正能量可以为盟友们在崎岖中指引道路
+|prerequisites=引导能量3d6，信仰戴斯娜
+|benefit=每天一次，当你引导正能量治疗活物时，你可以使他们无视[[困难地形]]的影响，效果持续相当于你的魅力调整值（最少1）分钟。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

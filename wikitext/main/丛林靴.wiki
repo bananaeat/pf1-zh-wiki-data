@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=丛林靴
+|english_name=Jungle Boots
+|aon=MagicWondrousDisplay.aspx?FinalName=Jungle Boots
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=脚部
+|price=6,000 gp
+|weight=1磅
+|description=这双柔软的皮靴使穿戴者能不受阻碍地穿过普通灌木丛，如同拥有[[德鲁伊#穿林步|穿林步]]能力。
+|req=[[制造奇物]]、[[大步奔行]]，以及[[德鲁伊#穿林步|穿林步]]能力
+|cost=3,000 gp
+|source=萨迦瓦，失落的殖民地
+}}

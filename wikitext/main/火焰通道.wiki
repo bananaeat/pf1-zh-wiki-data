@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|荒野源始|Wilderness Origins}}
+'''火焰通道'''（Fire Corridor, Sp）是[[操念使]]的[[原力]]。
+
+元素：火；类别：通用（Sp）；等级：5；超载：1
+
+你创造了一条穿过一团火焰或一池熔岩的通道。这条通道有5尺宽8尺高。还有10尺加上你所拥有的每3个[[操念使]]等级5尺的长度。任何被通道穿过的火焰或熔岩产生的热量都会发散到外面，以使通道舒适而安全。通道持续1小时，但你可以在任何时候以一个[[自由动作]]结束效果。如果一个生物位于通道中时效果结束，那名生物将如常受到火焰或熔岩的影响。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Fire Corridor|2=Fire Corridor}}
+
+[[分类:原力]]

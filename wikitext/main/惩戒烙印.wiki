@@ -1,0 +1,10 @@
+{{Feat
+|name=惩戒烙印
+|english_name=Branded for Retribution
+|description=你用你的破敌武器为目标铸下烙印，使其更容易被你的盟友所伤害。
+|prerequisites=【破敌】职业特性。
+|benefit=以一个[[标准动作]]，通过消耗3轮的【破敌】职业能力，使用你附加了〔破敌〕能力的武器进行一次近战接触攻击。如果你命中，你的目标不会受到伤害，但会被打下一个持续到你下次行动的烙印。只要烙印存在，你的盟友在攻击被烙印的生物时，武器都被视为附加了与你的武器相同的〔破敌〕效果。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

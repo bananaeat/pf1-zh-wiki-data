@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[和平誓言]] 的神话版本。</small></div>
+{{Spell
+|name=和平誓言
+|english_name=Oath of Peace
+|school=防护系
+|levels=圣武士 4
+|description=当你尝试进行医疗检定、施放具有无害描述符的目标型法术、或者使用正能量效果治疗活物时不会引起借机攻击。
+|source=神话冒险
+}}
+[[分类:神话法术]]

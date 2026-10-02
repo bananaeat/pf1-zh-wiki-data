@@ -1,0 +1,9 @@
+{{装备
+|name=爪钩
+|english_name=Grappling hook (common)
+|cat=冒险装备
+|price=1 gp（普通）；2,001 gp（秘银）
+|weight=4磅（普通）；2磅（秘银）
+|description=投掷爪钩需要进行一个远程攻击检定，爪钩视为射程增量为10尺的投掷武器。有足够位置以让爪钩固定住的物体的AC为5。
+|source=核心规则书、极限宝具
+}}

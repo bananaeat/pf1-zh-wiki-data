@@ -1,0 +1,11 @@
+{{Feat
+|name=奥能收割
+|english_name=Riving Strike
+|categories=战斗
+|description=奥术力量顺着你的武器撕开对手的魔法防护，使他更易受到魔法影响。
+|prerequisites=[[奥术打击]]，可以施放奥术魔法
+|benefit=如果你以[[奥术打击]]这次增强的武器对一个敌人造成了伤害，那么这个敌人在一轮内对抗法术和类法术能力时，在所有的豁免检定上承受-2减值。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

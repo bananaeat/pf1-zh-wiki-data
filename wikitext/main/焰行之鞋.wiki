@@ -1,0 +1,15 @@
+{{魔法物品
+|name=焰行之鞋
+|english_name=Shoes of the Firewalker
+|aon=MagicWondrousDisplay.aspx?FinalName=Shoes of the Firewalker
+|cat=奇物
+|aura=中等塑能系
+|cl=6
+|slot=脚部
+|price=21,000 gp
+|weight=1磅
+|description=这双低帮鞋由抛光的红色皮革制成，鞋眼为金色，缝线绣成火焰纹样。它们赐予穿戴者火焰抗力10，并使穿戴者能够在熔岩和岩浆之上行走，如同受到水面行走法术影响一样。
+|req=[[制造奇物]]、[[抵抗能量伤害]]、[[水面行走]]
+|cost=10,500 gp
+|source=极限宝具
+}}

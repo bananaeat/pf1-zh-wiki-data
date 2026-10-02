@@ -1,0 +1,12 @@
+{{Feat
+|name=自信粉碎
+|english_name=Pile On
+|categories=战斗
+|pfs=否
+|description=你可以通过打脸让对手惧栗不能自已
+|prerequisites=力量13，痛殴，猛力攻击
+|benefit=每轮一次，当你对一个已经处于颤栗，恐慌或惊惧的生物造成伤害时，你可以选择使这次伤害减半，以将其恐惧状态的持续时间延长1轮。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1399.html
+}}

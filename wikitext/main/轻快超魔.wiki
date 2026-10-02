@@ -1,0 +1,11 @@
+{{Feat
+|name=轻快超魔
+|english_name=Brisk Spell
+|categories=超魔
+|description=你的移动类魔法让盟友比平时更迅捷。
+|prerequisites=[[敏捷]] 13
+|benefit=你能调整一个提供给生物其本来不具备的移动类型的法术，该法术提供的移动速度增加10尺。轻快超魔法术占用与原法术相同环级的法术位。
+|source=MagicTT、MTT
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_566.html
+}}

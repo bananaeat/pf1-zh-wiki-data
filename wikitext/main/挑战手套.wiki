@@ -1,0 +1,14 @@
+{{魔法物品
+|name=挑战手套
+|english_name=Challenger's Gloves
+|aon=MagicWondrousDisplay.aspx?FinalName=Challenger's Gloves
+|cat=奇物
+|aura=微弱惑控系
+|cl=1
+|slot=手部
+|price=2,200 gp
+|description=这双柔软的天鹅绒手套，正是那种可以扔下来作为决斗或其他单挑挑战的手套。摘下一只手套，用它对对手进行近战或远程[[接触攻击]]后，戴着另一只手套的穿戴者对该目标的攻击检定获得+1士气加值，而目标对该穿戴者的攻击检定受到-1减值。这两个效果持续1分钟，但只要有穿戴者以外的人攻击被挑战的对手，效果就立即结束。两只手套必须由同一个生物穿戴。
+|req=[[制造奇物]]、[[绝望术]]、[[祝福术]]
+|cost=1,100 gp
+|source=极限宝具
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=精通庇护
+|english_name=Improved Duck and Cover
+|categories=团队
+|description=你和伙伴之间可以互相为对方挡下范围伤害
+|prerequisites=[[庇护]]
+|benefit=每当你使用庇护专长时，如果你的盟友拥有[[盗贼#反射闪避|反射闪避]]或[[精通反射闪避]]，且它成功通过了反射豁免检定，那么你本应受到的伤害中的一半转而由你的盟友承担（这部分伤害不会被盟友的反射闪避或精通反射闪避再次减免）。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

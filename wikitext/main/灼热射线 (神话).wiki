@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[灼热射线]] 的神话版本。</small></div>
+{{Spell
+|name=灼热射线
+|english_name=Scorching Ray
+|school=塑能系
+|tags=火
+|levels=奥能师 2;导师 2;术士 2;法师 2;血脉狂怒者 2;魔战士 2
+|description=每道射线造成的伤害增加至6d6点火焰伤害。第一道射线会穿透火焰抗力与免疫。
+|source=神话冒险
+}}
+[[分类:神话法术]]

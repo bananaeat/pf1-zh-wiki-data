@@ -1,0 +1,10 @@
+{{Feat
+|name=精通毒性时间
+|english_name=Improved Toxicological Timing
+|description=你知道如何调整毒药生效所需的时间。
+|prerequisites=[[工艺]]（炼金术）11级，[[毒性时间]]。
+|benefit=每当你使用工艺（炼金术）技能制造毒药时，你可以增加或减少发作时间最多1天（最小发作时间为1轮）。
+|source=AM
+|source_name=炼金术手册
+|source_url=https://pf1chm.pages.dev/topics/zhad42fec513.htm
+}}

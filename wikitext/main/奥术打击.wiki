@@ -1,0 +1,19 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[奥术打击 (神话)]]。</small></div>
+{{Feat
+|name=奥术打击
+|english_name=Arcane Strike
+|categories=战斗
+|description=你用你的法力增强武器的魔法力量。
+|prerequisites=奥术施法能力。
+|benefit=通过一个[[迅捷动作]]，你能将你的部分魔法能量加持到你的武器上。你的武器伤害+1，且在面对伤害减免的时候被视为魔法武器，持续一轮。每拥有5个施法者等级，该加值提高+1，最高在20级时达到+5。
+|stamina=你可以通过消耗任意数量的耐力点来延长该专长的持续轮数，每点耐力一轮。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''制造需求'''：[[奥术打击手套]]（1 件物品）
+
+'''先决条件'''：[[奥能收割]]、[[致命发牌]]、[[血术之击]]、[[阳光打击]]、[[驱魔重击]]（5 个条目）

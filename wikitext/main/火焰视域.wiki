@@ -1,0 +1,10 @@
+{{Feat
+|name=火焰视域
+|english_name=Firesight
+|description=火焰与烟云再也无法从你的眼前掩盖任何事物。
+|prerequisites=火元素裔。
+|benefit=你可以看透火焰与烟雾而不会因此受到任何惩罚，你忽视任何火焰与烟雾产生的[[掩蔽]]或[[隐蔽]]加值。但是这不会让你能够看到通常无法看到的东西（例如[[隐形]]生物依旧不可见）。你免疫[[目眩]]状态。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=神奇把戏
+|english_name=Arcane Dabbler
+|type=种族
+|prerequisites=[[精灵]]
+|description=尽管你学习魔法已经过去了数十年之久，你依旧无法忘记你最喜欢的小戏法。选择一个0环的奥术法术，你每天可以将它作为类法术能力施放一次。你的施法者等级等于你在施法职业中最高的职业等级；若你没有施法者等级，则视为施法者等级1。这个类法术能力的豁免DC基于智力或魅力（在选择这一背景时决定）。
+|source_name=格拉里昂的精灵
+|source_url=https://pf1chm.pages.dev/topics/zhd63cf5e76e.htm
+}}

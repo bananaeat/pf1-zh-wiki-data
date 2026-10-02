@@ -1,0 +1,16 @@
+{{Feat
+|name=巧技寻机
+|english_name=Canny Tumble
+|categories=战斗
+|description=你利用自己灵活的移动，探寻敌手防御中间的空隙
+|prerequisites=[[闪避]]，[[灵活移动]]，特技5级
+|benefit=每当你通过特技检定移出敌人的威胁范围或占据空间而不引发[[借机攻击]]时，你对这个目标的下一次近战攻击检定获得+2环境加值，且目标对此次攻击失去AC上的敏捷加值，你必须在你的下一回合开始前进行此次攻击。
+|stamina=在以+2表现加值攻击目标前，你可以选择花费不超过5点耐力，如果成功命中，每点消耗的耐力提升2点造成的伤害。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[旋舞花招]]（1 个条目）

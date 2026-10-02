@@ -1,0 +1,9 @@
+{{Trait
+|name=稳定之力
+|english_name=Steady Strength
+|type=宗教
+|prerequisites=信仰[[杜鲁德]]
+|description=你的力量训练让你能穿上沉重的盔甲。当你穿上中甲或重甲时，你在基于力量的技能上的防具检定减值降低2。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

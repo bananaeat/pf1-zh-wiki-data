@@ -1,0 +1,10 @@
+{{Trait
+|name=疑虑
+|english_name=Doubt
+|type=缺陷
+|pfs=否
+|description=你缺乏自信，总觉得自己能力不足。
+|benefit=每当你技能或属性检定失败，你在该类技能或属性检定上获得-4罚值，持续一小时。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

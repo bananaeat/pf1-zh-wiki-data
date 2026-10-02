@@ -1,0 +1,11 @@
+{{Feat
+|name=远距法术链接
+|english_name=Distant Spell Link
+|description=你可以远距离给盟友使用法术共享或[[传递接触法术]]。
+|prerequisites=[[法术增远]]或[[及远法术]]；拥有法术共享能力的动物伙伴、[[幻灵]]、魔宠或其它盟友生物。
+|benefit=你法术共享的范围由接触变为近距（25尺+每2级5尺），你与目标必须有效果线才可共享法术。若你的盟友生物拥有传递接触法术[[特殊能力]]，你可以指定近距范围内的该盟友生物作为你接触法术的源头。该盟友生物则只能通过接触来传递你释放的该接触法术。
+|normal=你必须与[[魔宠]]邻接才能与它共享法术或指定它传递接触法术。
+|source=RTT
+|source_name=远程战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_552.html
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=捕网诡计
+|english_name=Net Trickery
+|categories=战斗
+|description=你能够非常熟练的用网来阻碍你的敌人。
+|prerequisites=[[擅长异种武器]]（网），[[捕网熟练]]，[[捕网战技]]，基本攻击加值+6。
+|benefit=当你用网进行近战攻击时，你可以用一次致盲[[阴招]][[战技]]来取代近战攻击。如果有一个对手正被你的网[[纠缠]]，只要他还处于你的网的触及范围或纤绳控制范围，你可以尝试对其进行[[摔绊]]。此外，在你用网进行拖拽或移位战技时，你还会有+2战技加值奖励。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

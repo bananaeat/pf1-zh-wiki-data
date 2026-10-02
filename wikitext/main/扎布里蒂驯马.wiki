@@ -1,0 +1,11 @@
+{{Feat
+|name=扎布里蒂驯马
+|english_name=Al-Zabriti-Trained Horse
+|description=这匹马受训于扎布里蒂的部落民。它比绝大多数坐骑知晓更多的技巧，也更忠于骑手。
+|prerequisites=马
+|benefit=这匹马自动习得作战训练所需的技巧（攻击、过来、护卫、退下、看守和跟随），并且这些技巧不计入这匹马通常可习得技巧的数量上限。驱策此马表演一个技巧的驯养动物DC降低5点，教授它习得新技巧的DC也降低5点。
+|notes=译注：AoN 原文作「combat riding trick」，指驯养动物里的作战训练（攻击、过来、护卫、退下、看守、跟随），不含骑乘训练（riding）的技巧。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/zh1a4f7690ca.htm
+}}

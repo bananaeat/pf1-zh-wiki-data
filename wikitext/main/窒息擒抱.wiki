@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''窒息擒抱'''（Strangle）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：特殊攻击</span></div>
+</noinclude><includeonly><div class="lang"><span id="窒息擒抱"></span><div class="lang-h"><b>[[窒息擒抱]]</b><i>Strangle</i><span class="lang-w">Ex · 特殊攻击</span></div><div class="lang-d"></includeonly>
+被该生物擒抱的对手无法说话，也无法施展带有语言成分的法术。
+
+'''格式'''：窒息擒抱
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Strangle|2=Strangle}}
+
+[[分类:通用怪物规则]]</noinclude>

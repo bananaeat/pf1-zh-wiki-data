@@ -1,0 +1,9 @@
+{{装备
+|name=交易天平
+|english_name=Merchant's scale
+|cat=工具
+|price=2 gp
+|weight=1磅
+|description=这是一根架在支点上的简易杠杆，两侧各悬挂一个托盘。它在涉及按重量计价的物品（包括任何由贵金属制成的东西）的估价检定上提供+2环境加值。
+|source=核心规则书、极限宝具
+}}

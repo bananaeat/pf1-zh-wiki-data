@@ -1,0 +1,11 @@
+{{Feat
+|name=梦魇之链
+|english_name=Nightmare Chains
+|pfs=否
+|description=锁链是链魔的特征以及支配力。
+|prerequisites=链魔亚种，5个及以上的生命骰。
+|benefit=你获得了链魔的锁链之舞能力（Pathfinder RPG Bestiary 185），只是你通过这种方式最多只能控制2条锁链。这赋予你2次锁链攻击，造成的伤害相当于为你体型的生物制作的[[刺链]]的伤害。如果你已拥有锁链之舞能力，你可以控制额外2条锁链。
+|special=由GM决定，如果非链魔异界生物在主题上与锁链有关，则可以选择这项专长（比如角魔或希瓦斯卡的恶魔仆从）。
+|source_name=永罪之书
+|source_url=https://pf1chm.pages.dev/topics/zh952dc99db5.htm
+}}

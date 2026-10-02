@@ -1,0 +1,17 @@
+{{Feat
+|name=挫志鞭笞
+|english_name=Demoralizing Lash
+|categories=战斗
+|pfs=否
+|description=你用鞭子的抽击震慑你的敌人。
+|prerequisites=基本攻击加值+1，[[威吓]]1级，大地精。
+|benefit=若想使用该专长，你必须使用鞭子（或者其他链枷类战士武器组中的武器）攻击已经由于威吓检定而被挫败士气的敌人。如果攻击命中，你可以将目标获得的[[战栗]]效果延长1轮。此专长的效果对威吓检定以外的方式造成的战栗效果无效。
+|stamina=用连枷武器组命中被挫志的目标后，花费2点耐力可令战栗效果从1轮提升至1d4轮。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[监工]]、[[骇人技巧]]（2 个条目）

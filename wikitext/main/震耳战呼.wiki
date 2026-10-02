@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=震耳战呼
+|english_name=Battle Roar
+|type=Su
+|categories=进攻
+|prerequisites=[[野蛮人]]6级，[[威吓凝视]]
+|benefit=每当角色成功的使用[[威吓凝视]](Intimidating Glare)[[狂暴之力]]挫败了一个对手的士气，他就会同时对目标造成1d6点音波伤害。
+|source_name=进阶职业指南
+}}

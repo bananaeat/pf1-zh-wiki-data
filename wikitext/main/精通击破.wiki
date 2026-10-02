@@ -1,0 +1,18 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[精通击破 (神话)]]。</small></div>
+{{Feat
+|name=精通击破
+|english_name=Improved Sunder
+|aliases=精通击破武器
+|categories=战斗
+|description=你善于攻击对手的武器和盔甲。
+|prerequisites=力量13，[[猛力攻击]]，基本攻击加值+1。
+|benefit=当你使用[[击破]][[战技]]时不会引发对手的[[借机攻击]]。此外，你在击破检定上获得+2加值，在对抗击破的战技防御上也获得+2加值。
+|normal=你使用击破战技时会引发借机攻击。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[偶像破坏者]]、[[圣物破坏者]]、[[击破重击]]、[[碎片打击]]、[[精通诡技击破]]、[[诡技击破]]、[[铁碎式]]、[[铁碎爆]]、[[铁碎牙]]、[[门扉破坏者]]、[[高等击破]]（11 个条目）

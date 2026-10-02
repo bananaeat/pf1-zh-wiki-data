@@ -1,0 +1,9 @@
+{{危害
+|name=降咒陷阱
+|english_name=Bestow Curse Trap
+|kind=诅咒
+|type=诅咒，法术，陷阱
+|save=意志 DC 14
+|effect=力量属性-6减值
+|source=核心规则书
+}}

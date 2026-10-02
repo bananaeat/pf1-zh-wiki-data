@@ -1,0 +1,11 @@
+{{Feat
+|name=制造人偶
+|english_name=Craft Poppet
+|categories=造物
+|pfs=否
+|description=一些构装体建造者通过制造人偶来学习他们的艺术。
+|prerequisites=施法者等级1级。
+|benefit=你可以制造[[人偶]]并可以向你控制之下的现存人偶添加强化。出于满足[[制造构装体]]先决条件的目的，你被视为同时拥有[[制造魔法武器和防具]]以及[[制造奇物]]。
+|source_name=冒险者的军械库2
+|source_url=https://pf1chm.pages.dev/topics/zhe4c0bcffb2.htm
+}}

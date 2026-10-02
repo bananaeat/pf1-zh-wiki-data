@@ -1,0 +1,11 @@
+{{Feat
+|name=急爬
+|english_name=Scuttle
+|description=你知道怎么样低头做人，好在大个子没注意的时候爬走。
+|prerequisites=无
+|benefit=你可以用半速匍匐爬行，并且匍匐爬行时可以进行五尺快步。匍匐爬行时，不会引发比你体型大的敌人的[[借机攻击]]。
+|normal=你能以一个[[移动动作]]匍匐爬行5尺。匍匐前进会引发任何威胁你的目标发动借机攻击。
+|source=GHH
+|source_name=巨人猎手手册
+|source_url=https://pf1chm.pages.dev/topics/zh804f69f232.htm
+}}

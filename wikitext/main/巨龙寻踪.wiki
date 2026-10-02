@@ -1,0 +1,9 @@
+{{Trait
+|name=巨龙寻踪
+|english_name=Dragon Tracker
+|type=宗教
+|prerequisites=信仰[[达哈克]]
+|description=你被传授了如何通过一些细微又或者不是那么“细微”的踪迹来寻觅巨龙。你在追踪巨龙的生存检定上获得+2背景加值，而且你可以在没有受训的情况下使用生存技能来追踪巨龙(如果DC小于或等于15)。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

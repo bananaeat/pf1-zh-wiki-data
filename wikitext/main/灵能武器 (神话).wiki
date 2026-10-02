@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[灵能武器]] 的神话版本。</small></div>
+{{Spell
+|name=灵能武器
+|english_name=Spiritual Weapon
+|school=塑能系
+|tags=力场
+|levels=先知 2;唤魂师 2;审判者 2;战斗祭司 2;牧师 2;萨满 2;通灵者 2
+|description=武器会按照你的选择获得后述魔法武器特殊能力中的一个：炽焰、冻寒、锐锋、慈悯、电击或雷鸣。在武器尝试进行该轮内的所有攻击之前或之后，你能够将它重定向到不同的目标，使用迅捷动作以取代原本的移动动作。
+|source=神话冒险
+}}
+[[分类:神话法术]]

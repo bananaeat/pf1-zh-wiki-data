@@ -1,0 +1,18 @@
+{{武器
+|name=登舰矛
+|english_name=Boarding pike
+|category=武器
+|prof=简易
+|wcat=双手
+|price=8 gp
+|weight=9磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×3
+|type=穿刺
+|special=迎击，长武
+|description={{AI翻译|nocat=1|本段由 AI 照 AoN 英文原文译出，CHM 汉化里没有这段译文，未经人工校对。}}
+
+登舰矛是一根8尺长的杆子，顶端是1尺长的渐细金属尖头。登舰矛看起来很像长矛，但金属矛头与木柄浑然一体，没有可能积存海水而导致生锈的凹槽、套环或尖刺。登舰矛主要用于防御，以击退登船行动。这些矛被放置在桅杆周围的支架上，这样水手就能迅速抓起长矛，将其抵在船舷上迎击登船者。
+|source=Skull & Shackles Player's Guide、内海海盗
+}}

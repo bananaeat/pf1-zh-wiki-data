@@ -1,0 +1,11 @@
+{{Feat
+|name=矮人气到炸
+|english_name=Dwarven Fury
+|categories=战斗
+|pfs=否
+|description=你能够引导自身的恨意，并利用它来对抗大量的敌人。
+|prerequisites=[[矮人恨意流]]，[[矮人怒如火]]，基本攻击加值+7，防御训练与仇恨种族特性，中等体型
+|benefit=当你使用矮人怒如火时，你能够同时维持防御训练与仇恨种族特性带来的奖励，并且可以用于对抗任意数量的敌人。
+|source_name=武器大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_420.html
+}}

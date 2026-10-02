@@ -1,0 +1,11 @@
+{{Feat
+|name=狂饮者
+|english_name=Two-Fisted Drinker
+|categories=神话
+|description=你能够以惊人的气势猛灌饮料。
+|prerequisites=[[即时备战]]
+|benefit=你能够以[[移动动作]]从小口袋（pouch），子弹袋（bandolier）或类似的容器（但是不能从[[背包]]中）中取出两瓶药剂（potions）或其他饮品——无论是平凡的还是魔法性质的。以[[标准动作]]，你能够喝下两瓶药剂或其他饮品。你必须两手均未被占用才能使用该专长。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

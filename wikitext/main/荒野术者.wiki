@@ -1,0 +1,10 @@
+{{Feat
+|name=荒野术者
+|english_name=Mage of the Wild
+|description=你与荒野的神秘联系增强了你的施法能力。
+|prerequisites=[[荒野适应力]]，精灵。
+|benefit=当你处于[[荒野适应力]]专长中选择的地形时，你的施法者等级检定，专注检定，知识（奥秘）以及[[法术辨识]]检定获得+2加值。如果你所在的区域可以视作多种地形，这些加值不会叠加；你只能从一种地形中获得该加值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

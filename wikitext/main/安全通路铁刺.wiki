@@ -1,0 +1,17 @@
+{{魔法物品
+|name=安全通路铁刺
+|english_name=Iron Spike of Safe Passage
+|aon=MagicWondrousDisplay.aspx?FinalName=Iron Spike of Safe Passage
+|cat=奇物
+|aura=微弱幻术系
+|cl=3
+|slot=无
+|price=2,000 gp
+|weight=2磅
+|description=将这根9寸长的铁刺钉入固定位置后，会制造出一个以铁刺为中心、最高15尺、直径15尺的幻象。幻象可以是下列之一：与地形相符的小土丘、一堆普通的板条箱或木桶、一堆瓦砾，或一座小型建筑（例如小木屋或帆布围棚）。精确的尺寸和具体细节（例如木料的种类）在钉入铁刺时选定。与幻象互动的生物获得一次意志豁免（DC 12）来识破它。
+
+钉入或拔除铁刺都是[[整轮动作]]。铁刺可以使用任意多次，其效果持续到铁刺被拔除为止。
+|req=[[制造奇物]]、[[无声幻影]]
+|cost=1,000 gp
+|source=极限宝具
+}}

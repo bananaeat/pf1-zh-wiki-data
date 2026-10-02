@@ -1,0 +1,10 @@
+{{Feat
+|name=精魂视野
+|english_name=Spirit Sight
+|description=你对精魂世界完全敞开心扉，学会察觉隐藏的东西。
+|prerequisites=感知 15，[[钢铁意志]]，[[精魂信烽]]
+|benefit=[[隐形]]的精类、异界生物和亡灵生物仅对你获得[[隐蔽]]效果，而不是[[全隐蔽]]（尽管它们仍可以从掩体或使用隐匿技能来获得全隐蔽）。上述生物不能从隐形效果中获得在针对你的攻击骰上的加值或忽略你在AC上的敏捷加值的好处。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/zh8a31961fdd.htm
+}}

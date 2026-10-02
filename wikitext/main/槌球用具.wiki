@@ -1,0 +1,9 @@
+{{装备
+|name=槌球用具
+|english_name=Croquet set
+|cat=娱乐
+|price=5 sp
+|weight=10磅
+|description=这套用具包括四把木槌、九个木质球门（目标）和四个木球。
+|source=极限宝具
+}}

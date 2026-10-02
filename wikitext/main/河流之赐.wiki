@@ -1,0 +1,9 @@
+{{Trait
+|name=河流之赐
+|english_name=River Freedom
+|type=宗教
+|prerequisites=信仰[[汉苏普]]
+|description=不受拘束的流水给予你灵感。当你触碰水流时，你在对抗限制行动的效果影响时豁免+2背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

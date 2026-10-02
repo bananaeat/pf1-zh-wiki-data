@@ -1,0 +1,10 @@
+{{Feat
+|name=玄秘直觉
+|english_name=Oracular Intuition
+|description=你对于魔法和他人的行为的变化异常敏感。
+|prerequisites=【秘示域】职业特性。
+|benefit=你在察言观色和[[法术辨识]]检定上获得+2加值。如果你在其中某项技能上拥有10或更高的受训等级，则该技能上的加值提高到+4。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

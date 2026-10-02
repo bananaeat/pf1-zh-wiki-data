@@ -1,0 +1,11 @@
+{{Feat
+|name=血怒击
+|english_name=Blood Frenzy Strike
+|categories=战斗
+|description=你的攻击撕裂对手的血肉，给其造成严重的创伤，你可以释放你压抑的狂怒于一击之中。
+|prerequisites=力量 15，血怒流，精通徒手打击，猛力攻击，基础攻击加值+4，水生亚种
+|benefit=当你使用血怒流，并以徒手攻击或天生武器对敌人造成伤害时，你额外造成1d6点流血伤害；此专长造成的流血伤害不会相互叠加。每1d4回合，你可以进行一次受到-5减值的徒手攻击;如果这次命中，你会造成额外2d6点钝击伤害。
+|source=HftF
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

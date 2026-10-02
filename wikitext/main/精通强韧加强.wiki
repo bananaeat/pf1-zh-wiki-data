@@ -1,0 +1,10 @@
+{{Feat
+|name=精通强韧加强
+|english_name=Improved Great Fortitude
+|description=你能够利用内在之物抵御疾病、毒素、和其他强烈的伤害。
+|prerequisites=强韧加强。
+|benefit=每日1次，你可以重掷一次强韧检定。你必须在宣布结果前选择使用本能力。你必须接受重掷的结果，即使比原来的结果还要差。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

@@ -1,0 +1,20 @@
+{{魔法物品
+|name=淡红色艾恩石
+|english_name=Pale Ruby Trillian Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun Stone Pale Ruby Trillian
+|cat=艾恩石
+|aura=中等变化系
+|cl=12
+|slot=无
+|price=5,000 gp
+|description='''形状'''：三角
+
+'''效果'''：这块石头使你的[[隐匿]]检定获得+5表现加值。
+
+'''共振'''（放入[[寻路仪]]时）：穿戴者可安全坠落的距离增加10尺（与其他增加该距离的效果叠加，例如通过[[特技]]检定或落入水中）。
+
+艾恩石的通用规则（启动、环绕飞行、抓取，以及AC、硬度）见[[艾恩石]]。
+|req=[[制造奇物]]、[[猫之优雅]]，制造者必须已经12级
+|cost=2,500 gp
+|source=秘密探寻者
+}}

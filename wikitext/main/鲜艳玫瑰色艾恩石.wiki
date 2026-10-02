@@ -1,0 +1,14 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=鲜艳玫瑰色艾恩石
+|english_name=Vivacious Rose Prism Ioun Stone
+|aon=MagicArtifactsDisplay.aspx?ItemName=Vivacious Rose Prism Ioun Stone
+|cat=神器
+|tier=次级神器
+|aura=强烈（学派不定）
+|cl=12
+|slot=无
+|description=鲜艳玫瑰色棱柱形[[艾恩石]]在启用时，给予+2洞察加值的AC。
+|destruction=这块艾恩石可以像其他任何艾恩石一样被摧毁，只是它的AC为26，生命值50，硬度10。
+|source=冒险之路126：帷幕后的往昔
+}}

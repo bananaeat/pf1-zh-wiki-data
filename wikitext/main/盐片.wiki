@@ -1,0 +1,10 @@
+{{装备
+|name=盐片
+|english_name=Salt tablets (10)
+|cat=炼金药剂
+|price=1 gp
+|weight=—
+|craft_dc=10
+|description=这些压制盐片能帮助预防脱水。每24小时服用1片盐片，你在避免中暑的豁免检定和避免口渴的体质检定上获得+2环境加值。
+|source=沙之子民
+}}

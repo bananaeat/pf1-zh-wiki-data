@@ -1,0 +1,9 @@
+{{装备
+|name=火把插槽
+|english_name=Shield sconce
+|cat=冒险装备
+|price=1 gp
+|weight=1/2磅
+|description=这个金属框架可插入一根火把，被设计成绑在轻盾、重盾或[[塔盾]]的正面，让你无需放弃盾牌或占用持武器的手就能带着火把。
+|source=冒险者的军械库、极限宝具
+}}

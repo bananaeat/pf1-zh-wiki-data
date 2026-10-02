@@ -1,0 +1,9 @@
+{{Trait
+|name=狂热复仇
+|english_name=Furious Vengeance
+|type=宗教
+|prerequisites=信仰德朗维特
+|description=一旦被伤害，你就会急不可耐且残忍地进行报复。每天一次，你可以以一个[[直觉动作]]在一次攻击检定上获得+1背景加值。另外，如果目标在最近一轮内伤害过你，你对他额外多造成1点伤害。你需要在投攻击之前宣言使用。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

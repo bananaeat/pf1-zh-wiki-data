@@ -1,0 +1,15 @@
+{{魔法物品
+|name=警报石
+|english_name=Stone of Alarm
+|aon=MagicWondrousDisplay.aspx?FinalName=Stone of Alarm
+|cat=奇物
+|aura=微弱防护系
+|cl=3
+|slot=无
+|price=2,700 gp
+|weight=2磅
+|description=对这块立方体石块说出命令字后，它会附着在任意一件物体上。此后，若有人没有先说出同一个命令字就触碰那件物体，石块就会发出刺耳的尖啸，持续1小时，在没有障碍阻隔的情况下，四分之一英里内都能听到。
+|req=[[制造奇物]]、[[魔法警报]]
+|cost=1,350 gp
+|source=核心规则书、极限宝具
+}}

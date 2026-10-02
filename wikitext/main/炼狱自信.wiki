@@ -1,0 +1,10 @@
+{{Trait
+|name=炼狱自信
+|english_name=Fiendish Confidence
+|type=宗教
+|prerequisites=信仰[[阿斯莫迪斯]]
+|description=你认为每人都必须服从于你的意愿，而并非如此的反例极为少见。你在威吓检定上获得+1背景加值，并且威吓成为你的本职技能。【摘自 Evana 的翻译】
+|source_name=内海诸神
+|source=摘自 Evana 的翻译
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

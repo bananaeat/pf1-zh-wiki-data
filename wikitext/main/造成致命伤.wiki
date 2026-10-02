@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[造成致命伤 (神话)]]。</small></div>
+{{Spell
+|name=造成致命伤
+|english_name=Inflict Critical Wounds
+|school=死灵系
+|levels=先知 4;唤魂师 4;审判者 4;战斗祭司 4;牧师 4;秘学士 4;萨满 4;女巫 5
+|domains=毁灭领域 4
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的生物
+|duration=立即
+|save=意志，通过则减半
+|sr=是
+|description=该法术的功能如同[[造成轻伤]]一般，不过你能造成 {4d8+CL (最高+20)} 点伤害。
+|source=核心规则书
+}}

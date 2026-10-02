@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=致死保护
+|english_name=Protect Vitals
+|type=Ex
+|class=掉链野蛮人
+|benefit=当处在[[防卫战姿]]时，野蛮人获得+4的闪避AC以对抗重击确认。野蛮人至少要达到8级后且拥有【防卫战姿】才能选择此狂暴之力。
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

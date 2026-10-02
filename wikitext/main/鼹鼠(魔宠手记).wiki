@@ -1,0 +1,43 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{消歧义|鼹鼠}}
+{{怪物
+|name=鼹鼠
+|english_name=Mole (FF)
+|cr=1/6
+|xp=65
+|alignment=绝对中立
+|size=超小型
+|type=动物
+|init=+0
+|senses=昏暗视觉；察觉 +7
+|description=这只棕色的、似乎没有眼睛的啮齿动物有着毛茸茸的圆柱形身体、尖尖的口鼻，以及末端长着挖掘爪的大而厚实的爪掌。
+|ac=12，接触 12，措手不及 12（+2 体型）
+|hp=6（1d8+2）
+|fort=+4
+|ref=+2
+|will=+0
+|speed=20 尺，掘地 10 尺
+|melee=爪抓 –1（1d2–3）
+|space=2–1/2 尺
+|reach=0 尺
+|str=5
+|dex=11
+|con=14
+|int=2
+|wis=10
+|cha=7
+|bab=+0
+|cmb=–2
+|cmd=5
+|feats=[[技能专攻]]（察觉）
+|skills=[[察觉]] +7
+|sq=闭气
+|environment=任意陆地
+|organization=单独，一对，或一群（3–5）
+|treasure=无
+|source=魔宠手记
+|lore=
+鼹鼠是主要生活在地下洞穴中的小型啮齿类哺乳动物。鼹鼠有许多品种，但多数都有共同的特征：栖居于地下、视力很差，以及能用强有力的前肢挖掘很长的距离。典型的鼹鼠长 6 英寸，重不到 1 磅。这些魔宠深受[[鼠族]]喜爱。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Mole (FF)|2=Mole (FF)}}

@@ -1,0 +1,17 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=诱骗手镯
+|english_name=Beguiling Bangles
+|aon=MagicWondrousDisplay.aspx?FinalName=Beguiling Bangles
+|cat=奇物
+|aura=中等惑控系
+|cl=7
+|slot=颈部
+|price=11,000 gp
+|description=这条精美的银质玻璃项链最初由瓦里西亚人（Varisian）制造，使穿戴者免疫一切侦测谎言的魔法效果，并在意志豁免上获得+2加值，以抵抗任何强迫他说真话的魔法。
+
+这条项链使穿戴者在为欺骗他人而进行的[[唬骗]]检定上获得+5表现加值（让敌人分神或[[虚招]]的检定除外）。
+|req=[[制造奇物]]、[[花言巧语]]
+|cost=5,500 gp
+|source=组织指南
+}}

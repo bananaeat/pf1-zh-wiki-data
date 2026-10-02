@@ -1,0 +1,9 @@
+{{Feat
+|name=战斗建议
+|english_name=Combat Advice
+|description=你简明的话语可以在火热的战斗中给队友指点迷津。
+|benefit=以一个[[移动动作]]，你可以给一个处于战斗中的盟友有效的建议。指定一个敌人；该盟友对该敌人下一次攻击检定获得+2表现加值。你必须可以清晰地看到该盟友和该敌人且该盟友可以听到你的话时，你才可以使用该专长。
+|source=RTT
+|source_name=远程战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_552.html
+}}

@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[魔法天赋]] 的神话版本。</small></div>
+{{Feat
+|name=魔法天赋
+|english_name=Magical Aptitude
+|categories=神话
+|description=你对变幻莫测的魔法所具有的理解已经远远超越了曾经受过的相关训练。
+|prerequisites=[[魔法天赋]]
+|benefit=[[魔法天赋]]专长对[[法术辨识]]与[[使用魔法装置]]技能检定带来的加值增加2点。此外，你能够花费1次神话之力，使得1次法术辨识或者使用魔法装置检定就好像自然掷出20一般。你必须在进行检定之前决定使用该能力。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[飞跑]] 的神话版本。</small></div>
+{{Feat
+|name=飞跑
+|english_name=Run
+|categories=神话
+|description=你能够以让人难以置信的速度和持久力进行奔跑。
+|prerequisites=[[飞跑]]
+|benefit=当你奔跑时，若你穿戴中甲、轻甲、不着甲，并且携带不超过中载的物品时，你能够以正常速度的7倍进行移动；若穿戴重甲或携带重载，则为正常速度的6倍。当你在助跑后进行跳跃时，你的特技检定会获得额外加值，数值等同于你的阶层 + 4。你能够正常奔跑的轮数等同于你的体质属性加你的阶层，不过在此之后你就必须成功进行体质检定才能继续奔跑。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

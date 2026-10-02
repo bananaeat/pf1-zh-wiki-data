@@ -1,0 +1,12 @@
+{{Feat
+|name=注意背后
+|english_name=Got Your Back
+|categories=战斗;团队
+|description=你保护了一个未曾发现危险的同伴。
+|prerequisites=智力13，[[寓守于攻]]
+|benefit=当你成功通过协助他人动作给一个拥有该专长的盟友+2AC以对抗下一次攻击时，该盟友在直到你的下一回合开始前，对抗该对手时不视为被[[夹击]]或陷入[[措手不及]]。
+|normal=你协助他人动作只会给盟友+2AC以对抗一个邻接敌人的攻击。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}

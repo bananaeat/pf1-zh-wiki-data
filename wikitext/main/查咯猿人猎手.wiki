@@ -1,0 +1,10 @@
+{{Trait
+|name=查咯猿人猎手
+|english_name=Charau-Ka Slayer
+|type=地区
+|prerequisites=芒吉莽原
+|description=出身于芒吉莽原，你经常与查咯猿人接触，并学会了如何对抗这些冷酷狡诈的恶魔崇拜者。你在对抗投掷武器的攻击时,AC获得+1的背景加值。
+|source_name=恶魔猎人手册
+|source=DHH
+|source_url=https://pf1chm.pages.dev/topics/zh143e5b3a4e.htm
+}}

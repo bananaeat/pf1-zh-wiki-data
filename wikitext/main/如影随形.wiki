@@ -1,0 +1,11 @@
+{{Feat
+|name=如影随形
+|english_name=Mirror Move
+|categories=战斗
+|description=通过模仿目标的移动方式，你可以尝试复制他的技巧。
+|prerequisites=智力13，[[寓守于攻]]，BAB+4
+|benefit=若目标在使用[[战斗专长]]时（包括使用动作从战斗专长受益、从战斗专长获得AC攻击伤害骰豁免骰加值），你是唯一一个威胁目标的单位，你可立刻用一个[[直觉动作]]获得那个战斗专长的效果，直到你的下一轮结束。你必须满足该专长的所有先决条件。若该专长有每日使用次数限制，比如[[震慑拳]]，你在如影随形生效期间使用该专长的次数，都计入你对该专长的每日使用次数限制。你每天可以使用如影随形的次数为每4个等级1次。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}

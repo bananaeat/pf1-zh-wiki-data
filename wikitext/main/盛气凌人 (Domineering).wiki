@@ -1,0 +1,10 @@
+{{Trait
+|name=盛气凌人
+|english_name=Domineering
+|type=魔法
+|description=在你年轻的时候，你吸引了一群钦慕着你那傲人天赋的伙伴，而这段经历激起了你无比强烈的自信心和优越感。你的自信是如此的强烈，以至于其他人总是在无意中被迫遵循着你的命令行动。选择一个你能够施展的一环附魔系法术。这个法术的DC增加1。
+建议角色：切利亚斯人、依莉森人、芒吉人
+|source_name=任务与战役
+|source=任务与战役(Quests and Campaigns
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

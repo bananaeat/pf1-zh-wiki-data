@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faiths and Philosophies pg. 0），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=生而自由
+|english_name=Born Free
+|type=信念
+|description=你年少时便接触到一种个人主义信仰。在掌控自身命运的承诺下，你茁壮成长，很快便开始证明这一理想的真实。尽管他人或许会嘲笑你不愿随波逐流，也不愿接受那些更具教会色彩的信仰所许诺的轻松安稳与慰藉，但你知道，你所追寻的启示与命运，唯有通过你自己的行动与对意义的独自探寻才能实现。每天一次，当你为对抗胁迫效果而掷出豁免检定后，你可以在豁免结果宣布之前，以一个直觉动作选择重骰一次。你必须采用新的掷骰结果，即使它更差。
+|source_name=信仰与哲学
+|source=F&P
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Born%20Free
+}}

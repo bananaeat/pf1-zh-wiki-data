@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Streets pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=警觉捉谍人
+|english_name=Vigilant Spycatcher
+|type=社会
+|description=偏执的父母或军队教官教会你时刻提防间谍。为识破伪装而进行的[[察觉]]检定中，如果你掷出的结果小于10，视为你掷出了10。
+|source_name=市井英雄
+|source=HotS
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Vigilant%20Spycatcher
+}}

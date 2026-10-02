@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[木棍摔绊 (神话)]]。</small></div>
+{{Feat
+|name=木棍摔绊
+|english_name=Tripping Staff
+|categories=战斗
+|description=你能用你的木棍发起[[摔绊]]攻击。
+|prerequisites=智力13，[[寓守于攻]]，[[精通摔绊]]，[[武器专攻]]（木棍），基本攻击加值+6。
+|benefit=你能将木棍当作有摔绊特性的武器使用。
+|special=如果你是魔战士变体法杖士，你可以在使用木棍进行摔绊的时候发动【法术战斗】。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[摔绊旋风]]（1 个条目）

@@ -1,0 +1,7 @@
+{{物品
+|name=苍穹
+|english_name=The Big Sky
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。每天一次抽牌者在一轮内获得+10[[CMB]]或[[CMD]]，当他这么做时附近的一片金属粉碎。
+}}

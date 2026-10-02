@@ -1,0 +1,10 @@
+{{Feat
+|name=动物之魂
+|english_name=Animal Soul
+|description=你与自然的紧密联系让无法影响你自然面的有害魔法被你忽略掉。
+|prerequisites=动物伙伴或坐骑职业能力
+|benefit=如果一个法术或效果无法同时影响你原本的生物类型和动物类型，你就可以让那个法术或效果对你无效。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

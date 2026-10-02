@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=旅行大师头巾
+|english_name=Traveling Master's Turban
+|aon=MagicWondrousDisplay.aspx?FinalName=Traveling Master's Turban
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=头部
+|price=4,000 gp
+|weight=1磅
+|description=这条头巾由30尺长的布料构成，用一枚胸针固定。持有者可以用[[移动动作]]命令头巾自行缠起或解开。头巾缠在穿戴者头上时，穿戴者获得[[忍受环境]]的益处。头巾解开时，持有者每天一次可以用这块布料施展一次绳技（如同[[魔绳术]]法术）。此外，持有者可以消耗1点气点，以[[迅捷动作]]施展[[活化绳]]。
+|req=[[制造奇物]]、[[活化绳]]、[[忍受环境]]、[[魔绳术]]
+|cost=2,000 gp
+|source=冒险者指南
+}}

@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[空间跨步]] 的神话版本。</small></div>
+{{Spell
+|name=空间跨步
+|english_name=Walk through Space
+|school=咒法系 (传送)
+|levels=召唤师 6;炼金术师 6;调查员 6;魔战士 6;奥能师 7;女巫 7;异能者 7;术士 7;法师 7
+|description=你可以以移动动作或者以迅捷动作进行传送，但是每轮至多只能传送1次。若你花费移动动作和迅捷动作，那么你可以传送至多60尺的距离。
+|source=神话冒险
+}}
+[[分类:神话法术]]

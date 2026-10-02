@@ -1,0 +1,12 @@
+<noinclude>{{炼金术师导航}}
+'''致命分泌物'''（Deadly Excretions, Ex）是[[炼金术师]]的[[科研发现]]。
+
+</noinclude>{{Source|进阶种族手册|Advanced Race Guide|inline}}
+
+'''前提'''：炼金术师等级8；毒性皮肤种族特性。
+
+'''效果'''：当炼金术师使用毒性皮肤时，他能选择分泌出体质毒药来替代敏捷毒药。这种毒素与普通[[树蛙人]]毒性皮肤分泌的毒素作用方式相同，不过豁免失败的人受到的是1点体质伤害。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_312.html 原文]），按 AoN 核对过。全部科研发现见 [[:分类:科研发现|分类:科研发现]]。
+
+[[分类:科研发现]]</noinclude>

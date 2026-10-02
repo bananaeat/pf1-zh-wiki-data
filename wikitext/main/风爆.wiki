@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=风爆|en=Wind Blast|type=Su|domain=气领域|sub=风子域 (Wind)|sub_name=风子域|source=进阶玩家指南|text=你可以用[[标准动作]]放出30尺直线的冲击波，以施法者等级代替基本攻击加值、[[感知]]修正代替[[力量]]修正，对线上每个生物进行一次[[战技]]检定，结果按[[冲撞]]处理。每天“3+[[感知]]修正”次。此能力替换气领域的[[气领域#电弧 (Lightning Arc, Sp)|电弧]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

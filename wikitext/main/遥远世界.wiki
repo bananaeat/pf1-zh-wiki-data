@@ -1,0 +1,41 @@
+{{消歧义|遥远世界(战役设定)}}
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Distant Shores
+|authors=John Compton、Adam Daigle、Crystal Frasier、Amanda Hamon、Robert G. McCreary、Mark Moreland、James L. Sutter、Owen K.C. Stephens
+|pages=64
+}}
+
+{{书页/简介|head=内海之外|1=
+是时候离开熟悉的地界，周游更广阔的世界了！虽然大多数开拓者角色都来自内海地区，但还有许多大陆和社会正等着人们去探索。在本书中，你会找到对格拉利昂遥远角落里六座主要贸易城市的详尽介绍，每座城市都配有整页地图，并介绍当地的文化与传统、冒险地点、新神祇、魔法与战斗风格等等，外加一套规则，帮你为角色添上本地风味与能力。去直面独眼巨人神话言说中的命运，研习虹彩褶界（Iridian Fold）的奥秘，或是在绿母之家（House of Green Mothers）磨砺你的魔法——整个世界就在你的指尖！
+
+本书详述的城市包括：
+
+* 艾利索斯（Aelyosos），潮汐之城，艾布利多斯（Iblydos）群岛最西端的港口，半淹没的街道由独眼巨人先知和威名赫赫的英雄神祇守卫。
+* 阿努利（Anuli），新生之城，内海与迦伦德南部之间的古老门户，神圣的女家长们奉天命统治。
+* 杜查格（Dhucharg），征服之城，好战的大地精将军们不让大军席卷整个天夏绝不罢休。
+* 拉德里帕尔（Radripal），拱门之城，位于乌笃剌的「不可能王国」之中，祭司们沿着圣河马特拉河（Matra River）旅行，罗刹则以恐惧与白银统治。
+* 塞戈达（Segada），传说中的钥匙之城，位于与世隔绝的阿卡迪亚，其山顶城墙阻止碾磨海岸（Grinding Coast）上的外来殖民者向这片大陆神秘的内陆扩张。
+* 阿耳克尔（Ular Kel），商队之城、草原明珠，水之领主（Water Lords）与游牧马族统治着穿越卡斯马隆中部草海（Grass Sea）的庞大贸易路线。
+}}
+
+'''遥远世界'''（''Distant Shores''，全名 ''Pathfinder Campaign Setting: Distant Shores''）是开拓者战役设定系列的一本资料书，由 John Compton、Adam Daigle 等 8 位作者撰写，于 2015 年 10 月 21 日发行。
+
+== 目录 ==
+{{书页/目录|1=
+导言 @ 2
+艾利索斯（Aelyosos） @ 4
+阿努利（Anuli） @ 14
+杜查格（Dhucharg） @ 24
+拉德里帕尔（Radripal） @ 34
+塞戈达（Segada） @ 44
+阿耳克尔（Ular Kel） @ 54
+}}
+
+{{书页尾
+|pfw=Distant Shores
+|releases=PDF¦PZO9285E¦2015-10¦；Softcover¦PZO9285¦2015-10¦978-1-60125-787-1
+}}
+
+[[分类:书目]]

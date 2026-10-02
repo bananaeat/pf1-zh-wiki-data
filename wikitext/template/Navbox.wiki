@@ -1,0 +1,1 @@
+<includeonly>{{#invoke:Navbox|navbox}}</includeonly><noinclude>{{优质模板|信息}}{{Documentation}}[[category:huiji template]]</noinclude>

@@ -1,0 +1,11 @@
+{{Feat
+|name=蛇龙流
+|english_name=Linnorm Style
+|categories=战斗;流派
+|description=你放开姿态邀请敌人攻击你，就像蛇龙的死亡诅咒一样，你的报复打击将会惩罚那些愚蠢到接受要求的人。
+|prerequisites=感知13，精通徒手打击，BAB+3或3级武僧等级
+|benefit=当你使用此流派时，你在对抗近战攻击的AC上受到-2减值。当一个生物对你进行近战攻击后，你可以将你的感知加值加到你对该生物的徒手攻击伤害上，而不是力量加值。如果你平常能在攻击伤害上增加敏捷加值，那么你能够用感知加值代替。持续到目标生物的下一个回合开始。
+|source=LoD
+|source_name=巨龙遗产
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

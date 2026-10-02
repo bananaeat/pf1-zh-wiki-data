@@ -1,0 +1,15 @@
+{{Spell
+|name=群体造成中度伤
+|english_name=Inflict Moderate Wounds, Mass
+|school=死灵系
+|levels=先知 6;审判者 6;战斗祭司 6;牧师 6;秘学士 6;萨满 6;女巫 7
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=每等级一个生物, 任意两者之间的距离不超过30尺
+|duration=立即
+|save=意志，通过则减半
+|sr=是
+|description=该法术的功能如同[[群体造成轻伤]]一般，不过它造成2d8+每施法者等级1点（最高+30）的伤害。
+|source=核心规则书
+}}

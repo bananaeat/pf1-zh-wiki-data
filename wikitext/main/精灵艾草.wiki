@@ -1,0 +1,11 @@
+{{危害
+|name=精灵艾草
+|english_name=Elven Absinthe
+|kind=毒品
+|type=摄入
+|addiction=中度，强韧 DC 16
+|effect=1小时；魅力+1d4
+|damage=1d4点体质伤害
+|price=500 gp
+|source=游戏主持人指南
+}}

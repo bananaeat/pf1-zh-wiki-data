@@ -1,0 +1,43 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=锤头鲨
+|english_name=Shark, Hammerhead Shark
+|cr=3
+|xp=800
+|alignment=绝对中立
+|size=大型
+|type=动物
+|subtypes=水栖
+|init=+7
+|senses=盲感 30 尺，超灵敏嗅觉；察觉 +10
+|description=这条光滑灰鲨的头部形状异乎寻常，头下有一张小得不成比例的嘴，闪烁着剃刀般锋利的牙齿。
+|ac=18，接触 12，措手不及 15（+3 敏捷，+6 天生，–1 体型）
+|hp=30（4d8+12）
+|fort=+9
+|ref=+7
+|will=+4
+|speed=游泳 60 尺
+|melee=啮咬 +7（1d8+7）
+|space=10 尺
+|reach=5 尺
+|str=21
+|dex=16
+|con=17
+|int=1
+|wis=16
+|cha=6
+|bab=+3
+|cmb=+9
+|cmd=22
+|feats=[[强韧加强]];[[精通先攻]]
+|skills=[[察觉]] +10;[[游泳]] +13
+|environment=任意海洋
+|organization=单独，成对，一群（3–6），或大群（7–13）
+|treasure=无
+|source=冒险之路57：风暴渐起
+|lore=
+锤头鲨的脑袋让它们拥有更宽阔的视野，并使它们能在吞食猎物之前把猎物按在海床上。
+}}
+
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Hammerhead Shark|2=Hammerhead Shark}}

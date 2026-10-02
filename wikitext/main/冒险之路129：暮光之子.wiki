@@ -1,0 +1,41 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #129: The Twilight Child
+|authors=Ron Lundeen
+|pages=96
+}}
+
+{{书页/简介|head=他人身上最恶劣的一面|1=
+黑暗的阴影笼罩着商业城市延马斯（Yanmass），在城市领导者们还在为不断升级的内战中该支持哪位王室继承人争论不休之际，混乱已在蔓延。他们的士兵接连失踪，强盗肆无忌惮地发动袭击，一场神秘的噩梦瘟疫搅得民众惶惶不安——这些麻烦只是巧合，还是某个更大阴谋的一部分？而神秘的暮光之子（Twilight Child）及其吸引来的邪教般追随者，在这场混乱中又扮演着什么角色？
+
+本册《冒险之路》延续「皇冠战争」冒险之路，内容包括：
+
+* 《暮光之子》，一部面向 7 级角色的开拓者冒险，作者 Ron Lundeen。
+* 延马斯城地志——塔尔多北部的商队枢纽，接待着来自两块大陆的旅人，作者 Ron Lundeen。
+* 探究神秘而官僚作风浓厚的死亡仆从——[[渡魂使绪论|渡魂使]]（psychopomp）——的生态，作者 F. Wesley Schneider。
+* 对复活的深思——它在格拉利昂世界中扮演的奇特角色，以及诸神对这种违背自然秩序之举的反应，作者 Patchen Mortimer。
+* 一批游荡在呼啸平原（Whistling Plains）的奇异野兽，从行窃的[[草灵]]（grassling）到会爆炸的[[血甲爆裂者]]（bloodplate burster），作者 Ron Lundeen、Andrew Mullen、Richard Pett 和 David Schwartz。
+}}
+
+'''冒险之路129：暮光之子'''（''Pathfinder #129: The Twilight Child''）是[[冒险之路]]「[[皇冠战争]]」系列的第三部冒险，由 Ron Lundeen 撰写，配套文章出自 Ron Lundeen、Patchen Mortimer 等 6 位作者，于 2018 年 4 月 25 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+暮光之子 @ 4
+NPC 图集 @ 56
+延马斯（Yanmass） @ 62
+渡魂使生态 @ 68
+欺骗死亡 @ 74
+怪物图鉴 @ 80
+}}
+
+{{书页尾
+|pfw=The Twilight Child
+|releases=Softcover¦PZO90129¦2018-04¦978-1-64078-032-3；PDF¦PZO90129E¦¦
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

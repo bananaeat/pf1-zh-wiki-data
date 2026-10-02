@@ -1,0 +1,16 @@
+{{Spell
+|name=正义谴责
+|english_name=Righteous condemnation
+|school=防护系
+|tags=善良;秩序
+|levels=圣武士 2;先知 3;审判者 3;战斗祭司 3;牧师 3
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=个人
+|target=自身
+|duration=1轮/等级（可解消）
+|save=意志无效
+|sr=是
+|description=任何以法术指定你为目标的混乱、中立或邪恶阵营的生物都必须通过意志豁免，否则在法术持续时间内基于智力、感知和魅力的检定受到 –4 减值。 仅中立的生物在对抗此法术的意志豁免上获得 +4 加值。 阵营带来的减值会叠加（因此，混乱邪恶的目标会受到 –8减值）。
+|source=位面旅者手册
+}}

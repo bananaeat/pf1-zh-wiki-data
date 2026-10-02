@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=高等野性之怒
+|english_name=Greater Animal Fury
+|type=Ex
+|categories=进攻
+|pfs=否
+|prerequisites=[[野性之怒]]
+|benefit=此能力如同[[野性之怒]]般运作，但野蛮人的啮咬攻击造成大一级体型的伤害。
+|source_name=秽邪勇士
+}}

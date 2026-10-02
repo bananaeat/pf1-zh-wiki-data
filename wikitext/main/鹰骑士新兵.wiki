@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Ruins of Azlant Player's Guide pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=鹰骑士新兵
+|english_name=Eagle Knight Recruit
+|type=战役
+|pfs=否
+|description=由于塔玛多之赐是安多安的殖民地，不太可能面临奴隶制的威胁，因此并不十分需要鹰骑士驻守，而丰饶冒险公司也不希望该组织立即与这块殖民地扯上关系（尽管殖民地的名字就源自鹰骑士的守护神塔玛多）。然而，安全需求不容忽视。你曾是安多安军队的一名士兵，或是一名在军事方面展现出巨大潜力的平民。鹰骑士招募了你，并许诺只要你设法混入殖民者的行列，就授予你非正式的鹰骑士身份。到了那里，你要负责殖民地的安全，并随每一艘补给船送回报告，汇报殖民地的总体状况以及你注意到的任何威胁。丰饶冒险公司欣赏你的军事才干，选中你随第二批殖民者前往塔玛多之赐。
+
+你在游戏开始时拥有一副胸甲、一把长剑（或其他某件军用或简易武器），以及价值100金币的额外装备。此外，你对抗影响心灵效果的豁免获得+1背景加值。
+|source_name=Ruins of Azlant Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Eagle%20Knight%20Recruit
+}}

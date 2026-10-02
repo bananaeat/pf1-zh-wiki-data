@@ -1,0 +1,15 @@
+{{Spell
+|name=共用强固武装
+|english_name=Reinforce armaments, communal
+|school=变化系
+|levels=先知 2;奥能师 2;女巫 2;战斗祭司 2;术士 2;法师 2;牧师 2;秘学士 2;红螳螂杀手 2;魔战士 2
+|action=标准动作
+|components=语言;姿势;材料/圣徽（一枚金属针）
+|range=接触
+|target=接触到的复数武器或盔甲
+|duration=10分钟/等级
+|save=意志，通过则无效（无害，物体）
+|sr=是（无害，物体）
+|description=这个法术工作方式如同[[强固武装]]，不过你可以将持续时间以10分钟为单位分配给复数物体。
+|source=极限战斗
+}}

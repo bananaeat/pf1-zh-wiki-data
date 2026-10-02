@@ -1,0 +1,15 @@
+{{魔法物品
+|name=带刺手铐
+|english_name=Thorned Manacles
+|aon=MagicWondrousDisplay.aspx?FinalName=Thorned Manacles
+|cat=奇物
+|aura=中等防护系、变化系
+|cl=7
+|slot=腕部
+|price=35,600 gp
+|weight=2磅
+|description=将这副带倒刺的[[镣铐]]戴在处于[[无助]]状态的、体型为超小型到超大型的双臂生物身上时，镣铐会自动变换大小以适配该生物，并如同[[次元锚]]法术（无豁免）般，阻止被束缚者使用任何次元魔法。无论是被束缚者试图逃脱，还是镣铐的主人要取下镣铐，都需要通过DC 30的力量检定或DC 37的脱逃检定；无论尝试成功与否，镣铐都会对受害者造成2d6+7点穿刺伤害。镣铐的硬度为12，生命值为20。
+|req=[[制造奇物]]、[[次元锚]]、[[荆刺之躯]]（APG）
+|cost=17,800 gp
+|source=恶魔猎人手册
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=善用学识
+|english_name=Exploit Lore
+|description=你利用对目标弱点的相关知识将其猛揍一番。
+|prerequisites=【怪物学识】职业特性，基本攻击加值+11。
+|benefit=每日1次，当你成功的用对应的知识辨别出了一个生物的所有能力和弱点之后，你对那个生物的攻击骰和伤害骰获得+2加值，持续1分钟。如果你识别出了超过一个生物的能力和弱点时，你必须选择其中一个生物作为此效果的目标。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

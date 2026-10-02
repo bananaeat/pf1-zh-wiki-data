@@ -1,0 +1,12 @@
+<noinclude>{{法师导航}}
+'''约拉尔的赐福'''（Yuelral's Blessing）是[[法师]]的[[奥术发现]]。
+
+</noinclude>{{Source|纯洁勇士|Champions of Purity|inline}}
+
+'''前提'''：法师等级5。
+
+'''效果'''：你施展任何同时出现在法师和德鲁伊法术列表上的法术时获得+1施法者等级和豁免DC+1。此外，你能用同等价值的宝石替代任何奥术法术的材料成分。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_319.html 原文]）。全部奥术发现见 [[奥术发现]]。
+
+[[分类:奥术发现]]</noinclude>

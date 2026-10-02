@@ -1,0 +1,10 @@
+{{Feat
+|name=强劲冲锋
+|english_name=Forceful Charge
+|description=这只动物的冲锋可以撞飞它的敌人。
+|prerequisites=精通冲撞，猛力攻击，动物伙伴
+|benefit=每轮1次，当此动物伙伴冲锋命中一名敌人时，它可以以一个自由动作对目标进行一次冲撞。如果它在冲锋时移动了等同其一倍速度的距离，那么可以在上述冲撞的战技检定中获得+4加值。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/zh1a4f7690ca.htm
+}}

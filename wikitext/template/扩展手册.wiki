@@ -1,0 +1,6 @@
+<includeonly>[[扩展手册|name]]</includeonly><noinclude>
+<pre>
+*{{扩展手册|APG}}
+</pre>
+*{{扩展手册|APG}}
+</noinclude>

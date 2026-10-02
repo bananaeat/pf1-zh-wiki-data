@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|极限荒野|Ultimate Wilderness}}
+'''战争之林'''（Forest Siege, Sp）是[[操念使]]的[[原力]]。
+
+元素：木；类别：通用（Sp）；等级：9；超载：0
+
+你可以将周围的植物变成一支围城大军。这一能力和[[高等争战林木]]类似，除了你需要用专注维持效果，并且你能够以[[自由动作]]改变目标。如果你承受1点超载，你可以将效果延长到你移除超载为止，并且无需维持专注，但是你需要花费[[标准动作]]来改变目标。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_662.html 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Forest Siege|2=Forest Siege}}
+
+[[分类:原力]]

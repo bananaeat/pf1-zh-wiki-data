@@ -1,0 +1,10 @@
+{{Trait
+|name=过度期望
+|english_name=Oppressive Expectations
+|type=缺陷
+|pfs=否
+|description=你总觉得你出身的家庭是特殊的，他们无论做什么都总能成功。在此环境中成长的你总是担心自己是否能配得上家族名号，一想到不能满足他们期望的后果(可能是对你的暴力或非难),你就很容易陷入沮丧。
+|benefit=每当你技能检定失败，你的该技能检定就会获得-2罚值，持续到你该技能检定成功或另一项技能检定失败，以先发生的为准。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

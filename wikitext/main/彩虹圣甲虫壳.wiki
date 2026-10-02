@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{危害
+|name=彩虹圣甲虫壳
+|english_name=Rainbow scarab shell
+|kind=毒药
+|type=伤口
+|save=强韧 DC 14
+|onset=1轮
+|frequency=1次/轮，持续4轮
+|effect=1d4点力量伤害，并造成窒息（见描述）
+|cure=1次豁免成功
+|price=150 gp
+|description=这种闪着虹彩的毒素由一种罕见的奥西里昂甲虫的碎壳制成。被该毒药将力量降至0的生物会呼吸停滞，立即开始窒息。不需要呼吸的生物免疫这种窒息，但不免疫力量伤害。
+|source=冒险者的军械库2
+}}

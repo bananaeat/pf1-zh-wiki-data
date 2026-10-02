@@ -1,0 +1,57 @@
+<templatedata>
+{
+    "description": "实现灰机wiki的<tab>效果，并使其支持更多样的代码。",
+    "params": {
+        "1": {
+            "label": "第一个分页的标题",
+            "required": true,
+            "description": "第一个分页的标题，后续的分页标题参数为3、5、7……",
+            "type": "content"
+        },
+        "2": {
+            "label": "第一个分页的内容",
+            "required": true,
+            "description": "第一个分页的内容，后续的分页内容参数为4、6、8……",
+            "type": "content"
+        },
+        "class": {
+            "label": "样式类",
+            "description": "tab所使用的样式类，可以使用灰机提供的nav-tabs nav-pills nav-stacked nav-justified或自行定义，若不设定该参数则默认使用nav-tabs",
+            "type": "string"
+        },
+        "prefix": {
+            "label": "唯一标识",
+            "description": "若在同一页面调用多个Richtab，则增加prefix参数以区分全局唯一性",
+            "type": "string"
+        }
+    }
+}
+</templatedata>
+
+==相关说明==
+* 与原生<code><nowiki><tab></nowiki></code>相比，RichTab的优点在于可以使用wikitext或模板等较为复杂的内容作为分页标题和内容。
+* 分页标题和内容必须依照顺序成对出现，如果其中一项为空则这一组标题和内容都会被略去。
+* 由于零件使用了灰机的html功能，在可视化编辑器中可能会出现渲染异常，这个问题有待修正
+
+==示例==
+<pre>
+{{RichTab
+|[[File:中国.png|150px|link=]]
+|中国
+|[[File:美国.png|150px|link=]]
+|美国
+|[[File:日本.png|150px|link=]]
+|日本
+|class=nav-pills
+}}
+</pre>
+上面的代码会产生下面的效果
+{{RichTab
+|[[File:中国.png|150px|link=]]
+|中国
+|[[File:美国.png|150px|link=]]
+|美国
+|[[File:日本.png|150px|link=]]
+|日本
+|class=nav-pills
+}}

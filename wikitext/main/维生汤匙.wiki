@@ -1,0 +1,14 @@
+{{魔法物品
+|name=维生汤匙
+|english_name=Sustaining Spoon
+|aon=MagicWondrousDisplay.aspx?FinalName=Sustaining Spoon
+|cat=奇物
+|aura=微弱咒法系
+|cl=5
+|slot=无
+|price=5,400 gp
+|description=如果把这件看似平平无奇的餐具放进一个空容器里，容器就会盛满稠厚的糊状粥。这种粥尝起来像温热潮湿的硬纸板，但营养极为丰富，含有维持任何草食、杂食或肉食生物所需的一切。这把汤匙每天产出的粥足够供养至多四个[[人类]]。
+|req=[[制造奇物]]、[[造粮术]]
+|cost=2,700 gp
+|source=核心规则书、极限宝具
+}}

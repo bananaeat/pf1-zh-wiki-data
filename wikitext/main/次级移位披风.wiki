@@ -1,0 +1,15 @@
+{{魔法物品
+|name=次级移位披风
+|english_name=Cloak of Displacement (Minor)
+|aon=MagicWondrousDisplay.aspx?FinalName=Cloak of Displacement (Minor)
+|cat=奇物
+|aura=微弱幻术系
+|cl=3
+|slot=肩部
+|price=24,000 gp
+|weight=1磅
+|description=这件物品看起来是一件普通披风，图案与[[高等移位披风]]的夜景图案十分相似，但穿戴时，它的魔力会扭曲光波。这种位移的效果类似[[朦胧术]]，使针对穿戴者的攻击有20%的失手几率。它持续生效。
+|req=[[制造奇物]]、[[朦胧术]]
+|cost=12,000 gp
+|source=核心规则书、极限宝具
+}}

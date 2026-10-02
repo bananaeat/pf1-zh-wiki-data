@@ -1,0 +1,12 @@
+{{Feat
+|name=惊骇闯入
+|english_name=Stunning Irruption
+|categories=战斗
+|pfs=否
+|description=当你闯入房间时，你带来的并不仅仅是惊异。
+|prerequisites=力量15，[[猛力攻击]]，BAB＋5
+|benefit=你可在战斗前尝试打碎门窗或墙壁闯入房间。若你成功，展现得淋漓尽致的暴力迫使闯入点20尺内的所有角色必须通过强韧豁免（DC＝10＋你的BAB）否则会在[[突袭]]轮（若有）和第一轮中[[震慑]]。豁免成功的角色[[战栗]]1D4轮。
+|source=CoC
+|source_name=秽邪勇士
+|source_url=https://pf1chm.pages.dev/topics/zh45cf79b2ca.htm
+}}

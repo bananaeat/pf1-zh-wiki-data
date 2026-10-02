@@ -1,0 +1,15 @@
+{{魔法物品
+|name=土元素魔术之石
+|english_name=Stone of Conjuring Earth Elementals
+|aon=MagicWondrousDisplay.aspx?FinalName=Stone of Conjuring Earth Elementals
+|cat=奇物
+|aura=中等咒法系
+|cl=11
+|slot=无
+|price=90,000 gp
+|weight=5磅
+|description=这种石头通常是一块形状古怪、经粗略打磨的岩石。持有者可以用一个整轮动作说出命令字，召唤一个[[土元素]]。如果附近有一块至少为超大型、完整且未经加工的石头，这块石头就会召唤出一个超大型土元素，如同使用[[召唤怪物 VI]]。如果附近没有这样的石头（例如只有沙子、泥土、经过加工的石头或较小的石块），这块石头就会召唤出一个大型土元素，如同使用[[召唤怪物 V]]。在前一个元素被遣返、被杀或其召唤的持续时间结束之前，这块石头不能再召唤另一个元素。
+|req=[[制造奇物]]、[[召唤怪物 V]]、[[召唤怪物 VI]]
+|cost=45,000 gp
+|source=极限宝具
+}}

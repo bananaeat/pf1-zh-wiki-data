@@ -1,0 +1,10 @@
+{{Trait
+|name=勇气蔓延
+|english_name=Contagious Mettle
+|type=社会
+|prerequisites=[[骑士准则、骑士团、骑士家族#勇气（Valor）|勇气准则]]
+|description=如果你遵循该准则，你在抵抗恐惧的意志豁免上获得+1背景加值。此外，与你相邻的盟友在抵抗恐惧的意志豁免上也会获得+1士气加值。
+|notes=赎罪：违反该准则的骑士必须以志愿兵的方式为当地民兵、军队或战斗单位服役至少一周来执行特殊任务、率军作战或协助士兵训练来进行赎罪。
+|source_name=内海骑士
+|source_url=https://pf1chm.pages.dev/topics/zhdc70ece933.htm
+}}

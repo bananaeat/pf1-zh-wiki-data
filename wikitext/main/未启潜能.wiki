@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Dragons pg. 6），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=未启潜能
+|english_name=Untapped Potential
+|type=社会
+|description=你曾是蒙卡尔某项小型实验的一部分。每天一次，你可以以类法术能力施放侦测（译注：AoN 原文作「detect」，疑为漏字，应为某个侦测类法术，可能是侦测魔法。）或[[念动射弹]]，施法者等级等于你的角色等级。
+|source_name=巨龙遗产
+|source=LoD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Untapped%20Potential
+}}

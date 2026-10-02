@@ -1,0 +1,12 @@
+{{消歧义|丢卒保帅}}
+{{Feat
+|name=丢卒保帅
+|english_name=Fortified Armor Training
+|categories=战斗
+|description=你学会了如何让你的防具替你承受最重的攻击。
+|prerequisites=擅长盔甲或盾牌。
+|benefit=如果一个敌人对你造成了重击，你可以选择将其变为普通攻击，不过你的盔甲或盾牌（由你选择）会陷入[[破损]]状态。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

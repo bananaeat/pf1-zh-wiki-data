@@ -1,0 +1,14 @@
+{{魔法物品
+|name=放血扳指
+|english_name=Bloodletting Thimble
+|aon=MagicRingsDisplay.aspx?FinalName=Bloodletting Thimble
+|cat=戒指
+|aura=微弱惑控系
+|cl=3
+|slot=戒指
+|price=2,000 gp
+|description=这枚白金扳指雕琢精细，形如一只兽爪，戴在一根手指上。吸血鬼佩戴者可以在使用吸血、能量吸取或吸取气（drain chi）能力的同时，用这枚扳指造成一个微小的伤口；以此方式使用扳指不算动作。这个伤口不造成额外伤害，却会把目标的痛苦转为快感。目标必须通过DC 14的意志豁免，否则会被佩戴者[[迷魂]]，并且在当轮和接下来的2轮内不会试图抵抗吸取。这段时间结束后，该生物的感官恢复，可以做出相应的反应。
+|req=[[锻造戒指]]、[[注目术]]
+|cost=1,000 gp
+|source=夜之血脉、怪物志
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=共享诅咒
+|english_name=Shared Curse
+|type=种族
+|prerequisites=[[兽态人]]（狼人裔）
+|description=在你血液里仍流淌着先祖的诅咒。每天一次，你可以以一个标准动作，对一个自愿的盟友用天生武器造成1点伤害，来分享你的诅咒。他获得一个天生啮咬攻击，如同你的兽态人能力，持续2轮。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_808.html
+}}

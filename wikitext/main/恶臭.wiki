@@ -1,0 +1,13 @@
+{{消歧义|恶臭(防具附魔)}}
+<noinclude>{{速查导航|here=规则}}
+'''恶臭'''（Stench）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：灵光</span></div>
+</noinclude><includeonly><div class="lang"><span id="恶臭"></span><div class="lang-h"><b>[[恶臭]]</b><i>Stench</i><span class="lang-w">Ex · 灵光</span></div><div class="lang-d"></includeonly>
+拥有恶臭特殊能力的生物会分泌一种油质的化学物，使其他生物感到难以忍受。30 尺内所有的活物（除了同样拥有恶臭能力的生物）必须通过强韧豁免，否则陷入[[恶心]]状态（DC = 10 + 1/2 恶臭生物的种族 HD + 该生物的体质修正；具体 DC 会在生物描述中给出）。恶心状态的持续时间也在生物描述中给出。成功通过豁免的生物，24 小时内不会再受同一生物的恶臭影响。[[减缓毒发]]或[[中和毒性]]法术可以移除受恶心生物身上的该效果。免疫毒素的生物不受影响，对毒素有抗力的生物可以在豁免检定上获得其正常加值。
+
+'''格式'''：恶臭（DC 15，10 轮）
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Stench|2=Stench}}
+
+[[分类:通用怪物规则]]</noinclude>

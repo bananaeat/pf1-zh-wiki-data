@@ -1,0 +1,14 @@
+{{魔法物品
+|name=烈火大嘴灵药
+|english_name=Fiery Maw Elixir
+|aon=MagicWondrousDisplay.aspx?FinalName=Fiery Maw Elixir
+|cat=奇物
+|aura=微弱塑能系
+|cl=5
+|slot=无
+|price=800 gp
+|description=这个水晶瓶内盘旋着烟雾般的橙色液体，打开时会发出嘶嘶声。喝下这种灵药的生物，可以用一个[[标准动作]]喷吐出15尺锥形的火焰利齿。这道喷吐造成2d4点火焰伤害、2d4点钝击、穿刺和挥砍伤害，以及1d4点[[流血伤害]]。区域内的生物各自可以进行一次DC 13的反射豁免，成功则伤害减半。灵药的魔力会在1小时后或用掉一次后消失，以先发生者为准。
+|req=[[制造奇物]]、[[出血术]]、[[燃烧之手]]
+|cost=400 gp
+|source=药剂与毒药
+}}

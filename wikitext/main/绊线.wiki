@@ -1,0 +1,11 @@
+<noinclude>{{游侠导航}}
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion），CHM 汉化里没有这个陷阱的译文，未经人工校对。}}
+{{Source|格拉利昂的狗头人|Kobolds of Golarion}}
+
+'''绊线'''（Tripwire，Ex 或 Su）是一种[[游侠陷阱]]。
+
+</noinclude>'''绊线'''（Ex 或 Su）：一根绷紧的线拉在两个竖直表面之间，目标除非通过反射豁免，否则被绊成[[俯卧]]状态。奔跑或冲锋中的生物这次豁免承受-6减值。<noinclude>
+
+全部游侠陷阱见 [[游侠陷阱]]。
+
+[[分类:游侠陷阱]]</noinclude>

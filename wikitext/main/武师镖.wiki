@@ -1,0 +1,18 @@
+{{武器
+|name=武师镖
+|english_name=Wushu dart
+|category=武器
+|prof=军用
+|wcat=轻型
+|price=2 sp
+|weight=—
+|dmg_s=1d2
+|dmg_m=1d3
+|crit=×2
+|range=10尺
+|type=穿刺
+|special=武僧
+|groups=贴身，武僧，投掷
+|description=这支削尖的木钉可以当作拳握武器使用，同时也是平衡完美的投掷武器。
+|source=极限战斗、极限宝具
+}}

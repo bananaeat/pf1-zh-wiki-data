@@ -1,0 +1,10 @@
+{{Feat
+|name=奇才
+|english_name=Prodigy
+|description=你天生就擅长艺术、专业技能和知识的获取。
+|benefit=从工艺、表演或者专业技能中任选两种（例如两种工艺，或者一种工艺一种表演）。你在这些技能的检定上获得+2加值。如果你在其中任一技能上拥有10点或更多受训等级，该技能的加值提升到+4。
+|special=你可以多次选择本专长，其效果不累计。每次你选择本专长，它适用于两个新技能。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

@@ -1,0 +1,34 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=巴拉沃克莱尔
+|english_name=Barravoclair
+|title=终息女士（The Lady of the Final Gasp）
+|alignment=守序邪恶（LE）
+|weapon=战斗剃刀
+|portfolio=老人，宿命论，复活
+|domains=[[死亡领域|死亡]]，[[邪恶领域(领域)|邪恶]]，[[医疗领域|医疗]]，[[秩序领域|秩序]]
+|subdomains=[[死亡领域#杀戮子域 (Murder)|杀戮子域]]，[[医疗领域#复原子域 (Restoration)|复原子域]]，[[医疗领域#回生子域 (Resurrection)|回生子域]]，[[死亡领域#亡灵子域 (Undead)|亡灵子域]]
+|pantheon=链魔喧主
+|source=永罪之书
+}}
+
+'''巴拉沃克莱尔'''（Barravoclair）是一位[[链魔喧主]]。
+
+== 简介 ==
+终息女士将祂死前最后一刻化为了永恒。巴拉沃克莱尔在死亡的瞬间获得了成功，在灵肉分离之时获得了升华。
+
+== 服从仪典与神恩 ==
+=== 服从仪典 ===
+屏住呼吸直到自己几乎晕倒。你在抵抗溺水的检定和对抗吸入型毒素的豁免检定上获得+4亵渎加值。
+
+=== 神恩 ===
+链魔喧主的神恩为类法术能力，每项每日可用1次。
+
+{{神恩|n=1|name=|en=|type=Sp|text=每日1次，以类法术能力施展[[死者交谈]]。}}
+{{神恩|n=2|name=|en=|type=Sp|text=每日1次，以类法术能力施展[[复生术]]。}}
+{{神恩|n=3|name=|en=|type=Sp|text=每日1次，以类法术能力施展[[缚魂术]]。}}
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zha77d68ab47.htm 原文]），原在总页 [[链魔喧主]]。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Barravoclair|2=Barravoclair}}
+[[分类:魔神]]

@@ -1,0 +1,10 @@
+{{Feat
+|name=和平缔造者
+|english_name=Peacemaker
+|description=你的和平之语使人难以抗拒
+|prerequisites=[[魅力]] 13，善良阵营
+|benefit=造成和平效果和使攻击性生物变得平和的法术DC+2。这包括不造成长期或永久控制，或使其无力反抗，但依然使其停止攻击行为的法术。包括并不限于：[[圣域术]]，[[安抚动物(法术)|安抚动物]]，[[安定心神]]，[[命令术]]，[[战友情深]]，[[注目术]]，[[爱与和平]]，[[和谐]]
+|source=CoP
+|source_name=纯洁勇士
+|source_url=https://pf1chm.pages.dev/topics/page_515.html
+}}

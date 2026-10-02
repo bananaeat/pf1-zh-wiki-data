@@ -1,0 +1,9 @@
+{{Trait
+|name=休盎提纹身
+|english_name=Shoanti Tattoo
+|type=种族
+|prerequisites=[[人类]]（休盎提人）
+|description=在你到达成年时，你获得一个部落[[纹身]]，标记着你的部族和精魂图腾(查看内页以参考休盎提纹身的建议和设计)。你对抗恐惧效果的豁免检定获得+1背景加值。此外，你擅长使用[[裂地锤]]、[[喀拉尔(武器)|喀拉尔]]和[[休盎提套牛绳]]。
+|source_name=瓦瑞西亚，传说诞生之地
+|source_url=https://pf1chm.pages.dev/topics/zh1d5e5ac9bb.htm
+}}

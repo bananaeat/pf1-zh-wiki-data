@@ -1,0 +1,10 @@
+{{Feat
+|name=血洒帝国
+|english_name=Blood for the Empire
+|categories=团队
+|description=与盟友并肩作战时，见到负伤流血的敌人会激励你奋勇杀敌，而战友的牺牲则会驱使你为其复仇。
+|prerequisites=BAB+4
+|benefit=当你攻击上一轮内其他有这个专长的盟友造成了伤害的目标时，你在攻击和伤害上获得+2士气加值。当一个拥有这个专长的盟友在你30尺内死亡时，你会获得[[加速术]]的效果，持续1轮。
+|source_name=冒险之路132：六传奇之魂
+|source_url=https://pf1chm.pages.dev/topics/132_The_Six-Legend_Soul.htm
+}}

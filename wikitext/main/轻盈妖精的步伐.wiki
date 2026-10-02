@@ -1,0 +1,10 @@
+{{Feat
+|name=轻盈妖精的步伐
+|english_name=Step of the Flighty Fey
+|description=你的类法术能力开发出了来自第一世界的魔力和适应力。
+|prerequisites=伽瑟兰，轻羽步APG类法术能力
+|benefit=处于你轻羽步类法术能力效果的生物，在这个效果的持续时间内获得DR1/{{材料|寒铁}}。如果你拥有至少8个生命骰，这个生物会获得DR2/寒铁，如果你拥有至少16个生命骰，这个生物会获得DR3/寒铁。
+|source=LotFW
+|source_name=第一世界的遗产
+|source_url=https://pf1chm.pages.dev/topics/page_1073.html
+}}

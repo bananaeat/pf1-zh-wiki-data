@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能选集|Psychic Anthology}}
+'''加重注能'''（Weighing Infusion）是[[操念使]]的[[原力]]。
+
+元素：虚空；类别：性质注能；等级：2；超载：2
+
+关联[[念袭]]类别：[[重压]]，[[虚无力]]
+
+豁免：反射，通过则无效
+
+该注能如同[[纠缠注能]]，除了该注能通过增加目标的重量来令其纠缠与无法移动，而不是通过元素物质缠绕敌人。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_726.html 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Weighing Infusion|2=Weighing Infusion}}
+
+[[分类:原力]]

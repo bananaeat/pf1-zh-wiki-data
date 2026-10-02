@@ -1,0 +1,12 @@
+{{魔法物品
+|name=伤损戒指
+|english_name=Ring of Lifebleed
+|aon=MagicCursedDisplay.aspx?ItemName=Ring of Lifebleed
+|cat=诅咒物品
+|aura=中等死灵系
+|cl=10
+|slot=戒指
+|description=这枚戒指在被戴上之前看起来像一枚再生戒指，但一旦在战斗中戴上，它的真面目就会显露出来：穿戴者每次被近战或远程武器攻击命中，都会额外受到1d4点伤害。除非穿戴者死亡，或使用[[移除诅咒]]、[[祈愿术]]或神迹术，否则无法取下这枚戒指。
+|req=[[再生戒指]]
+|source=极限宝具
+}}

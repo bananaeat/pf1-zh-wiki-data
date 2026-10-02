@@ -1,0 +1,10 @@
+{{Feat
+|name=位面自然变身
+|english_name=Planar Wild Shape
+|description=你可以向你的变身形态中注入异位面的力量。
+|prerequisites=【自然变身】职业特性，[[知识]]（位面）5级。
+|benefit=当你使用【自然变身】变成一种[[动物形态]]时，你可以额外花费1次自然变身的每日使用次数来给你的变身形态添加天界或炼狱模板（善良德鲁伊必须使用天界模板，而邪恶德鲁伊则只能使用炼狱模板）。如果你的形态使用了天界模板、而你用天生武器对一个邪恶生物构成重击威胁，你在重击确认骰上获得+2加值。反之亦然。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

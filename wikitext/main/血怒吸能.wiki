@@ -1,0 +1,10 @@
+{{Feat
+|name=血怒吸能
+|english_name=Raging Absorption
+|description=有害法术的能量被你吞食殆尽，反而使你的[[血怒]]燃烧的更为旺盛。
+|prerequisites=可以施放2环血脉狂怒者法术，血怒职业能力
+|benefit=当处于血怒状态下时，如果你成功豁免了一个以你为目标或范围包括你的伤害性奥术法术，并且不受该法术的伤害，你可以吸收其部分奥术能量来恢复你的血怒。你所豁免的法术每有2环，你就恢复1轮血怒。你通过此专长每日恢复的血怒轮数不能超过你的每日血怒轮数上限，你的血怒轮数也永远不会超过这个上限。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

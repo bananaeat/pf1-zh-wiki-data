@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=猪突猛进
+|english_name=Boar’s Charge
+|type=Ex
+|categories=进攻
+|pfs=否
+|prerequisites=[[野蛮人]]12级
+|benefit=在狂暴中，当你在冲锋中用抵撞攻击命中时，你自动达成重击威胁。你仍需正常进行重击确认。
+|special=这个[[狂暴之力]]仅对野猪人，野猪人后裔和与这些生物有关联的生物可用。
+|source_name=月之血脉
+}}

@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=激发怒意
+|english_name=Roused Anger
+|type=Ex
+|class=掉链野蛮人
+|benefit=野蛮人可以在[[疲乏]]时进入狂暴，一旦她进入狂暴，她将摆脱疲乏状态。她将不会获得狂暴带来的临时生命。在此狂暴结束后，她将[[力竭]]10分钟。
+|classic=无边怒火
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=运气仙丹
+|english_name=Elixir of Luck
+|aon=MagicWondrousDisplay.aspx?FinalName=Elixir of Luck
+|cat=奇物
+|aura=中等塑能系
+|cl=7
+|slot=无
+|price=3,600 gp
+|description=将此带来好运的金色灵药一饮而尽后，角色获得须在1小时内用掉的3英雄点，不受到原有的数目上限限制。这些英雄点必须用于自助，不能协助他人的掷骰。角色1个月内不能服用多剂运气仙丹。
+|req=[[制造奇物]]、[[鸿运当头]]
+|cost=1,800 gp
+|source=进阶玩家指南
+}}

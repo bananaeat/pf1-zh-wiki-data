@@ -1,0 +1,11 @@
+{{Feat
+|name=战技突击
+|english_name=Surprise Maneuver
+|description=你放弃了对一个失去防卫的敌人狠下一手的机会，转而尝试将他困住或放倒。
+|prerequisites=[[寓守于攻]]，偷袭+3d6或调查员策士之击+3d6
+|benefit=如果你拥有偷袭攻击，当你对一个你[[夹击]]或是对你失去防御等级上的敏捷加值的敌人发动[[战技]]攻击时，你的战技检定就会获得等同于偷袭伤害骰个数的加值。
+|extra=如果你拥有策士之击职业能力，那么你可以以策士之击来发动战技攻击。如果你这么做，你在战技攻击检定上获得相当于你策士之击伤害骰的加值。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

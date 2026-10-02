@@ -1,0 +1,9 @@
+{{Trait
+|name=道金探索
+|english_name=Dowsing
+|type=种族
+|prerequisites=[[巨灵裔]]
+|description=你可以感知所有元素的存在，让你可以寻找水源、地标或营地和聚落的残迹。你在生存检定上获得+1背景加值。每当你成功在沙漠地形进行追踪用的生存检定，你总是可以判断痕迹是多久以前留下的(但超自然能力与法术依然会适当地阻碍此能力的效果)
+|source_name=沙之子民
+|source_url=https://pf1chm.pages.dev/topics/zh730f330f66.htm
+}}

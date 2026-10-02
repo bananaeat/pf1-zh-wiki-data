@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=恍惚接触|en=Dazing Touch|type=Sp|domain=魅惑领域|source=核心规则书|text=通过一次近战[[接触攻击]]，你能够使活物[[晕眩]]1轮。HD超过你牧师等级的生物不受影响。你每天可以使用此能力次数“3+[[感知]]修正”。}}<noinclude>
+
+[[分类:领域]]</noinclude>

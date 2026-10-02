@@ -1,0 +1,14 @@
+{{魔法物品
+|name=寻迹手帕
+|english_name=Handkerchief of Finding
+|aon=MagicWondrousDisplay.aspx?FinalName=Handkerchief of Finding
+|cat=奇物
+|aura=微弱预言系
+|cl=3
+|slot=无
+|price=15,000 gp
+|description=这条散发着淡淡芳香的漂亮手帕看起来总是洁白到让人感到刺目。持有者能通过将手帕随身携带一周来与其进行协调并建立一种联系。当手帕与持有者的协调完成后，只要手帕与持有者身处相同的位面，持有者便总是可以察觉到手帕所在的方位。没有意识到手帕能力的持用者无法与手帕进行协调。
+|req=[[制造奇物]]、[[物品定位术]]
+|cost=7,500 gp
+|source=进阶职业指南
+}}

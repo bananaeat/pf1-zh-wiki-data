@@ -1,0 +1,15 @@
+{{魔法物品
+|name=磁怒之眼
+|english_name=Oculus of Magnetic Fury
+|aon=MagicWondrousDisplay.aspx?FinalName=Oculus of Magnetic Fury
+|cat=奇物
+|aura=中等变化系
+|cl=10
+|slot=无
+|price=90,000 gp
+|weight=1磅
+|description=这件科技造物是用一颗机体的眼睛制成的。每小时一次，手持磁怒之眼的生物可以以一个[[标准动作]]，对60尺内的一个机体发出毁灭性的电磁脉冲。该机体受到10d6点电击伤害，并陷入[[无助]]状态1分钟。如果目标通过DC 18的意志豁免，则只受到一半伤害，且不会陷入无助。被脉冲弄得无助的机体，每轮在自己回合结束时可以进行一次新的意志豁免来摆脱该效果。
+|req=[[制造奇物]]、[[构装体残废术]]、[[闪电束]]
+|cost=45,000 gp
+|source=构装体手册
+}}

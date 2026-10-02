@@ -1,0 +1,9 @@
+{{Trait
+|name=论语学者
+|english_name=Scholar of the Analects
+|type=魔法
+|description=你从很小的时候就开始研读奥罗登的各种文选并且变得精于使用他人写下的魔法。每天你能够以类法术能力的形式施展3次[[阅读魔法]]，使用你的人物等级作为施法者等级。
+|source_name=秘术选集Arcane Anthology
+|source=Arcane Anthology
+|source_url=https://pf1chm.pages.dev/topics/zhe6bf0e12f5.htm
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Night pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=饱经风雨
+|english_name=Weatherworn
+|type=种族
+|pfs=否
+|prerequisites=[[吸血鬼]]（茉莉血族）
+|description=栖居于荒凉山岭或海岸悬崖顶上的经历，让你学会了应对强风的影响。你对抗产生风或移动空气的法术效果（例如[[造风术]]）时获得+2背景加值。你将自然天气状况视为弱一级。当你处于气化形体时，这些能力同样适用。
+|source_name=夜之血脉
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Weatherworn
+}}

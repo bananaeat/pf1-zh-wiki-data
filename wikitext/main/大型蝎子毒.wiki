@@ -1,0 +1,12 @@
+{{危害
+|name=大型蝎子毒
+|english_name=Large scorpion venom
+|kind=毒药
+|type=伤口
+|save=强韧 DC 17
+|frequency=1次/轮，持续6轮
+|effect=1d2点力量伤害
+|cure=1次豁免成功
+|price=200 gp
+|source=核心规则书、极限宝具
+}}

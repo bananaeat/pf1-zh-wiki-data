@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=天界图腾
+|english_name=Celestial Totem
+|type=Su
+|categories=图腾
+|pfs=否
+|prerequisites=[[野蛮人]] 8级，[[次等天界图腾]]
+|benefit=本能力使野蛮人获得一个发光的光环，使周围亮如白昼，并在野蛮人的方格和每个相邻方格中触发等同[[消除隐形]]的效果。[[消除隐形]]只会影响非善良生物。
+|source_name=纯洁勇士
+}}

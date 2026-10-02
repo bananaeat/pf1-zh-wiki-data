@@ -1,0 +1,12 @@
+{{消歧义|割喉者(杀手变体职业)}}
+{{Feat
+|name=割喉者
+|english_name=Throat Slicer
+|categories=战斗
+|pfs=否
+|description=有时候，对付那些目睹你非法行径之人的最好方式就是让他们永远闭嘴。
+|prerequisites=BAB+1
+|benefit=当你使用单手武器、轻型武器或天生武器时，你可以对[[失去意识]]、被束缚或被压制的目标（但不能是其他[[无助]]状态的目标）施展[[致命一击]]，该动作为一个[[标准动作]]。
+|source_name=市井英雄
+|source_url=https://pf1chm.pages.dev/topics/zh9058779a2c.htm
+}}

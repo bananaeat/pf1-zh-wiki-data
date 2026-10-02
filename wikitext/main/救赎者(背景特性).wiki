@@ -1,0 +1,9 @@
+{{Trait
+|name=救赎者
+|english_name=Redeemer
+|type=信念
+|description=你坚信道德是每个人的选择，而坏人只是不清楚他们的行为如何影响到了其他人。如果向他们展示他们的问题，那他们就会走上更光明的道路——而恰巧你就有这耐心。当帮助邪恶生物寻找救赎时(本书特殊规则)你的耐心和仁慈为赎罪生物的豁免提供+3加值而非+1。
+|source_name=信念背景
+|source=CoP
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

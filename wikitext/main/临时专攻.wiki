@@ -1,0 +1,11 @@
+{{Feat
+|name=临时专攻
+|english_name=Improvisational Focus
+|categories=战斗
+|description=你手中的随手武器与其他暴力工具一样致命。
+|prerequisites=随手武器或随手投掷，BAB+1
+|benefit=你在使用临时武器的攻击骰上获得+1加值。你视为擅长临时武器，并且在满足需要选择特定武器的专长（如[[武器专精]]）的先决条件时，视为拥有对临时武器的[[武器专攻]]专长。
+|special=在决定这一专长效果时，投掷的溅射武器并不算是临时武器。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/page_1343.html
+}}

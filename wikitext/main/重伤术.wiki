@@ -1,0 +1,19 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[重伤术 (神话)]]。</small></div>
+{{Spell
+|name=重伤术
+|english_name=Harm
+|school=死灵系
+|levels=先知 6;唤魂师 6;审判者 6;战斗祭司 6;牧师 6;秘学士 6;女巫 7;萨满 7
+|domains=毁灭领域 6;腐朽子域 6
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的生物
+|duration=立即
+|save=意志，通过则减半; 见后文
+|sr=是
+|description=重伤术会将负能量充入一个受术者，这会造成每施法者等级10点伤害（最高可达到15级时的150点）。如果该生物成功通过豁免，则重伤术只会造成一半伤害。重伤术无法将目标的生命值降至1点以下。
+
+当作用于不死生物时，其作用如同[[医疗术]]一般。
+|source=核心规则书
+}}

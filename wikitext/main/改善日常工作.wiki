@@ -1,0 +1,10 @@
+{{Feat
+|name=改善日常工作
+|english_name=Improved Day Job
+|description=在加入[[探索者协会]]最初的培训中，你就学到好好工作的重要性。
+|prerequisites=能够进行日常工作检定（见《探索者协会组织游戏指南》）
+|benefit=当你在习得这个专长时选定一项技能，在使用这个技能进行日常工作检定时获得+3加值。这个加值可以和其他专长提供的加值叠加，如[[技能专攻]]。
+|notes=''【PFS】日常工作检定是探索者协会组织游戏（PFS）的规则，需要参与PFS才能进行。''
+|source_name=初探探索者协会
+|source_url=https://pf1chm.pages.dev/topics/page_547.html
+}}

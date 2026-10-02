@@ -1,0 +1,11 @@
+{{Feat
+|name=天然毒素抗毒剂
+|english_name=Natural Poison Antitoxin
+|pfs=否
+|description=你已经学会了如何制造能够抵抗天然毒素的[[抗毒剂]]。
+|prerequisites=[[天然毒素采集员]]，[[工艺]]（炼金）8级，生存8级。
+|benefit=当你成功以一次工艺（炼金）检定，并加入一剂你所采集的天然毒素，从而制造出一剂抗毒剂时，你可增加该剂抗毒剂的持续时间，该时间等同于「4 小时+ 你检定结果超过DC每有5点1小时」。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[鹰眼 (Eagle Eyes)|鹰眼]] 的神话版本。</small></div>
+{{Feat
+|name=鹰眼
+|english_name=Eagle Eyes
+|categories=神话
+|description=你的视力堪比目光最为锐利的猛禽。
+|prerequisites=[[鹰眼 (Eagle Eyes)|鹰眼]]
+|benefit=通过视力进行察觉检定时，你能够忽略至多10点距离造成的减值，取代原本的5点。以[[迅捷动作]]，你能够花费1次神话之力，在1轮内，你以视力进行察觉检定时能够忽略所有距离造成的惩罚。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

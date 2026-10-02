@@ -1,0 +1,16 @@
+{{Feat
+|name=弃兵断翼
+|english_name=Broken Wing Gambit
+|categories=战斗;团队
+|description=你假装虚弱，让自己成为诱人且让人分心的目标。
+|prerequisites=唬骗5级。
+|benefit=当你以近战攻击命中敌人时，你可以通过一个[[自由动作]]使该敌人对你的命中和伤害得到+2的加值，此加值持续到你的下一回合结束、或是该敌人对你进行攻击，以先发生者为准。一旦敌人以此加值发起攻击，拥有此专长的盟友就可以对该敌人发起[[借机攻击]]。
+|stamina=如果花费5点耐力，在敌人对你以此加值发起攻击时，你自己也可以发起借机攻击。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[折箭伤爪]]（1 个条目）

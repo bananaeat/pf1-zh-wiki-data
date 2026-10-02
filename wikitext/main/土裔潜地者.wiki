@@ -1,0 +1,10 @@
+{{Feat
+|name=土裔潜地者
+|english_name=Oread Earth Glider
+|description=大地欢迎你，向你展示泥沙与土壤中的隐藏通路。
+|prerequisites=[[土裔掘地者]]，[[穿石步]]，角色等级13，土元素裔。
+|benefit=你获得[[通用怪物规则#潜地|潜地]]通用怪物能力，你能够在沙子、泥土、[[粘土]]、沙砾或者其他类似的材质中以基本速度行动。如果能够不受火焰伤害影响，你甚至可以通过熔岩。你能够以基本速度的一半在固体岩石中穿行。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

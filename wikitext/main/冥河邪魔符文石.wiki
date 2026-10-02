@@ -1,0 +1,14 @@
+{{魔法物品
+|name=冥河邪魔符文石
+|english_name=Hydrodaemon Runestone
+|aon=MagicWondrousDisplay.aspx?FinalName=Hydrodaemon Runestone
+|cat=奇物
+|aura=中等咒法系［恶］
+|cl=11
+|slot=无
+|price=3,300 gp
+|description=这块经水磨的石头被雕成蛙头的形状，饰有邪恶的符文。它摸起来比应有的轻，仿佛是中空的，里面还有一部分液体。当冥河邪魔符文石被压碎、砸碎或打碎时（一个[[标准动作]]），会出现一只冥河邪魔，如同由法术[[召唤怪物 VI]]召唤而来。通常，邪魔受打碎符文石的生物控制，但有25%的几率邪魔不受控制，并攻击它的召唤者。
+|req=[[制造奇物]]、[[召唤怪物 VI]]
+|cost=1,650 gp
+|source=Book of the Damned - Volume 3: Horsemen of the Apocalypse、永罪之书
+}}

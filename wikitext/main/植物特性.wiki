@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''植物特性'''（Plant Traits）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：免疫</span></div>
+</noinclude><includeonly><div class="lang"><span id="植物特性"></span><div class="lang-h"><b>[[植物特性]]</b><i>Plant Traits</i><span class="lang-w">Ex · 免疫</span></div><div class="lang-d"></includeonly>
+[[植物]]免疫所有影响心灵的效果（魅惑、胁迫、士气效果、心灵幻觉和魅影幻觉）、麻痹、毒素、变形、睡眠和震慑。
+
+'''格式'''：植物特性
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Plant Traits|2=Plant Traits}}
+
+[[分类:通用怪物规则]]</noinclude>

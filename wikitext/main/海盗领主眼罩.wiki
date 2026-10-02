@@ -1,0 +1,16 @@
+{{魔法物品
+|name=海盗领主眼罩
+|english_name=Pirate Lord's Patch
+|aon=MagicWondrousDisplay.aspx?FinalName=Pirate Lord's Patch
+|cat=奇物
+|aura=微弱预言系
+|cl=3
+|slot=眼部
+|price=8,500 gp
+|description=此眼罩完全以金色织物编成，上面以黑线绣有骷髅与交叉骨标志。两颗小蓝宝石缝在骷髅眼窝处，使其看起来像两点幽蓝光芒。佩戴者的视线如同未被眼罩遮挡一般。
+
+佩戴者在[[估价]]与威吓检定上获得+2表现加值。每日一次，佩戴者可启动眼罩，获得识破隐形的效果，持续5分钟。此外，每日一次，他可启动眼罩，以如同[[X射线视觉戒指]]一般，在1分钟内看穿固态物体。
+|req=[[制造奇物]]、[[物品定位术]]、[[识破隐形]]
+|cost=4,250 gp
+|source=恶棍志
+}}

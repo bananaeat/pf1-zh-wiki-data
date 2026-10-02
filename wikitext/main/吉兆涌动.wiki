@@ -1,0 +1,11 @@
+{{Feat
+|name=吉兆涌动
+|english_name=Lucky Surge
+|categories=神话
+|description=你的神力涌动能够对抗概率。
+|prerequisites=[[强化神力涌动]]，神话阶层3阶
+|benefit=每当你使用神力涌动（surge）能力时，你能够投掷两次神力涌动加骰，并取较高的结果。若你已经能够投掷两次神力涌动加骰，并取较高的结果，那你便可以投掷三次神力涌动加骰，并取最高的结果。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Streets pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=居高临下
+|english_name=Cutting Condescension
+|type=社会
+|description=黑貂军团教会了你如何迅速让挡路的人乖乖听话。你在迫使生物对你表现友善的[[威吓]]检定上获得+2背景加值，并且进行此类检定所需的时间减半。
+|source_name=市井英雄
+|source=HotS
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Cutting%20Condescension
+}}

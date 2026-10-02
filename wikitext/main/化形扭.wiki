@@ -1,0 +1,16 @@
+{{Feat
+|name=化形扭
+|english_name=Shapeshifter Twist
+|categories=战斗
+|description=你的形态以诡异的方式扭曲，这让你的敌人很难故意将你挪动。
+|prerequisites=[[化形势]]、基础攻击加值+5、变形能力、变形者子类
+|benefit=当你处于[[化形势]]，你在对抗[[冲撞]]、拖拽、[[擒抱]]、[[闯越]]、移位APG与[[摔绊]][[战技]]时，[[CMD]]获得+2加值。如果你在回合开始时处于擒抱状态，你可以以一个[[移动动作]]尝试一次战技检定或者一次脱逃检定来解除擒抱。
+|special=在满足先决条件时，一个拥有自然变身职业能力的角色视作拥有变形能力和[[变形者]]子类。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/page_1338.html
+|source=MAH
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[化形猛击]]（1 个条目）

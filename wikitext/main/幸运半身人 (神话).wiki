@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[幸运半身人]] 的神话版本。</small></div>
+{{Feat
+|name=幸运半身人
+|english_name=Lucky Halfling
+|categories=神话
+|description=你能够将自身那神奇的好运分给周遭的人。
+|prerequisites=[[幸运半身人]]
+|benefit=当你使用[[幸运半身人]]专长时，将你的阶层作为加值加到豁免检定上。当1名盟友使用你的豁免，但是却仍旧遭受成功豁免带来的效果时，你能够花费1次神话之力。若你这么做，该名盟友不会由于成功的豁免检定而受到任何效果。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

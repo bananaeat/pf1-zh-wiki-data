@@ -1,0 +1,48 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #128: Songbird, Scion, Saboteur
+|authors=Crystal Frasier、Richard Pett
+|pages=96
+}}
+
+{{书页/简介|head=愁苦磨损了我|1=
+梅拉特（Meratt）伯爵领是塔尔多的缩影：一片曾经荣光的土地，被玩忽职守的贵族任其衰败。但为了帮助 Eutropia 公主稳固她的王位之争，勇敢的冒险者们如今必须潜入她祖先的故土，从内部推翻腐败的 Lotheed 伯爵，结交盟友，并解决那些早已被搁置得太久的问题。他们能否白天扮好游手好闲的贵族、夜里化身英雄，把这片伯爵领的命运扭转过来？还是说，历史罪孽的重量终将压垮他们？
+
+本册《冒险之路》延续「皇冠战争」冒险之路，内容包括：
+
+* 《鸣鸟、贵胄、破坏者》，一部面向 4 级角色的开拓者冒险，作者 Crystal Frasier 和 Richard Pett。
+* 梅拉特伯爵领地志——一片曾经荣光、如今从内部腐烂的乡野，作者 Amanda Hamon。
+* 一套个人崇拜子系统，让 PC 们能经营自己的公众形象，并让名望为己所用，作者 Linda Zayas-Palmer。
+* 关于遗物（relics）的新规则：由重大历史事件赋予力量、并通过满足其宗旨而不断提升的魔法物品，作者 Logan Bonner。
+* 一份怪物图鉴，从会取回法术的[[鸡狐兽]]（galluvix）到专挖眼珠的[[毁灯精]]（lamp blighter），作者 Tim Akers、Brian Duckwitz、Troy Lavallee 和 Patchen Mortimer。
+}}
+
+'''冒险之路128：鸣鸟、贵胄、破坏者'''（''Pathfinder #128: Songbird, Scion, Saboteur''）是[[冒险之路]]「[[皇冠战争]]」系列的第二部冒险，由 Crystal Frasier 和 Richard Pett 撰写，配套文章出自 Tim Akers、Logan Bonner 等 7 位作者，于 2018 年 3 月 28 日发售。
+
+== 目录 ==
+本册《冒险之路》延续「皇冠战争」冒险之路，提供了一个塔尔多伯爵领的地志、战役中使用的两套新规则子系统，以及四种新怪物。与「皇冠战争」的所有分册一样，《鸣鸟、贵胄、破坏者》在封二印有一幅标示继承权归属的塔尔多地图，封三则是一位历史上大公的传记。
+{{书页/目录|1=
+前言 @ 2
+鸣鸟、贵胄、破坏者 @ 4
+NPC 图集 @ 58
+梅拉特伯爵领 @ 64
+变革的推手 @ 70
+古塔尔多的遗物 @ 76
+- 尊严之刺
+- 使节之戒
+- Koriana 之刃
+- 微妙面具
+- 贵胄匕首
+- 征服之旗
+- 十字军同盟之环
+- Ovetrian 的板甲
+怪物图鉴 @ 82
+}}
+
+{{书页尾
+|pfw=Songbird, Scion, Saboteur
+|releases=Softcover¦PZO90128¦2018-03¦；PDF¦PZO90128E¦¦
+}}
+
+[[分类:书目]]

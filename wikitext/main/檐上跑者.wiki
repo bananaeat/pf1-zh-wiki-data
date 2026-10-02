@@ -1,0 +1,9 @@
+{{Trait
+|name=檐上跑者
+|english_name=Roof Racer
+|type=地区
+|prerequisites=瓦瑞西亚-科瓦萨
+|description=你曾在旧科瓦萨的那些被奇怪斜坡覆盖的屋顶上度过了不少时光。当你使用特技技能进行跳远时，跳跃距离的DC检定视为比实际距离短5英尺。
+|source_name=瓦瑞西亚，传说诞生之地
+|source_url=https://pf1chm.pages.dev/topics/zh1d5e5ac9bb.htm
+}}

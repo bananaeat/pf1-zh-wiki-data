@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=生生不息
+|english_name=Renewed Life
+|type=Ex
+|categories=防御
+|prerequisites=[[野蛮人]]6级，[[生机盎然]]
+|benefit=在狂暴时，野蛮人可以忽略相当于他等级四分之一的临时负向等级。此外，每日一次，当野蛮人带着负向等级结束狂暴时，他可以尝试透过一个强韧检定来消除相当于他可以忽略等级数的负向等级。
+|source_name=极限战斗
+}}

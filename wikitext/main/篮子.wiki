@@ -1,0 +1,9 @@
+{{装备
+|name=篮子
+|english_name=Basket
+|cat=冒险装备
+|price=4 sp
+|weight=1磅
+|description=这种大篮子配有一个盖子，容积约2立方尺。
+|source=核心规则书、极限宝具
+}}

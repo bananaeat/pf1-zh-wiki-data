@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=阿肯斯塔民兵
+|english_name=Alkenstar Defender
+|type=地区
+|prerequisites=法力废土
+|description=你曾在阿肯斯塔生活，并在当地的民兵中服役。你清楚该往哪里瞄准才能造成最大的伤害。你用远程武器确认重击的所有检定获得+1背景加值。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Alkenstar%20Defender
+}}

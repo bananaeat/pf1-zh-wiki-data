@@ -1,0 +1,43 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=卢泽尔
+|english_name=Ruzel
+|title=Sabletongue
+|alignment=守序邪恶（LE）
+|weapon=[[反曲刀]]
+|portfolio=亵渎，幽默，不死
+|domains=[[邪恶领域(领域)|邪恶]]，[[秩序领域|秩序]]，[[死亡领域|死亡]]，[[诡术领域|诡术]]
+|subdomains=[[邪恶领域(领域)#魔鬼子域 (Devil)|魔鬼子域（邪恶）]]，[[秩序领域#魔鬼子域 (Devil)|魔鬼子域（秩序）]]，[[死亡领域#杀戮子域 (Murder)|杀戮子域]]，[[诡术领域#盗窃子域 (Thievery)|盗窃子域]]，[[死亡领域#亡灵子域 (Undead)|亡灵子域]]
+|symbol=大笑的骷髅
+|animal=土狼
+|color=棕色，象牙色
+|pantheon=炼狱大公
+|source=内海诸神、永罪之书
+}}
+
+'''卢泽尔'''（Ruzel）是[[炼狱大公与地狱公爵|炼狱大公]]之一。
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+嘲笑你的同伴或是嘲笑你最近遇到的任意生物的信仰。对语言相关效果的豁免获得+4亵渎加值。
+
+=== 神恩 ===
+
+通过[[魔族仪典]]获得（炼狱大公的神恩表现为每日可用1次的类法术能力）：
+
+{{神恩|n=1|name=|en=|type=Sp|text=每日1次，以类法术能力施放花言巧语（glibness）。}}
+
+{{神恩|n=2|name=|en=|type=Sp|text=每日1次，以类法术能力施放渎神之语（blasphemy）。}}
+
+{{神恩|n=3|name=|en=|type=Sp|text=每日1次，以类法术能力施放律令死亡（power word kill）。}}
+
+== 信徒可用 ==
+
+* '''专长'''：[[炼狱镣铐]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1554.html 原文]），原在总页 [[炼狱大公与地狱公爵]]。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Ruzel|2=Ruzel}}
+[[分类:魔神]]

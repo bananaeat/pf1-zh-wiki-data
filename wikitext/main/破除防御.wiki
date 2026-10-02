@@ -1,0 +1,12 @@
+{{Feat
+|name=破除防御
+|english_name=Break Guard
+|categories=战斗
+|description=你用你两把武器的其中之一打乱了对方的防御，随之用另一把武器进行攻击。
+|prerequisites=敏捷15，智力13，[[寓守于攻]]，[[精通卸武]]，[[双武器格斗]]。
+|benefit=当你装备两把武器，只要你成功的用其中一把卸除了敌人的武器，你可以消耗一次[[迅捷动作]]来用另一把武器立刻对其进行一次攻击。
+|stamina=如果花费5点耐力，你可以用自由动作而非迅捷动作来发动攻击。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

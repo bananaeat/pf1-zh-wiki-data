@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''强光敏感'''（Light Sensitivity）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：弱点</span></div>
+</noinclude><includeonly><div class="lang"><span id="强光敏感"></span><div class="lang-h"><b>[[强光敏感]]</b><i>Light Sensitivity</i><span class="lang-w">Ex · 弱点</span></div><div class="lang-d"></includeonly>
+该生物在强烈阳光的区域内，或在[[昼明术]]的范围内会[[目眩]]。
+
+'''格式'''：强光敏感
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Light Sensitivity|2=Light Sensitivity}}
+
+[[分类:通用怪物规则]]</noinclude>

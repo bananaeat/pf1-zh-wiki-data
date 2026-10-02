@@ -1,0 +1,11 @@
+{{Trait
+|name=谄媚幸存者
+|english_name=Obsequious Morsel
+|type=地区
+|pfs=否
+|prerequisites=盖布
+|description=在盖布生存需要说服你的上级如果让你多活一天会比把你变成亡灵奴隶对他们更有好处，你已经掌握了在亡灵攻击面前争取时间的技巧。每日1次以[[迅捷动作]]以类法术能力施放[[圣域术]](施法者等级=你的最高施法者等级，若没有则是1级),其DC为10+1/2你的施法者等级(最低为0)+你的魅力调整值。亡灵生物必须通过豁免才能攻击你，而其他生物类型不受此影响。当你攻击生物时，这个效果就会结束。
+|source_name=秽邪勇士
+|source=地区
+|source_url=https://pf1chm.pages.dev/topics/zh2cdfe76676.htm
+}}

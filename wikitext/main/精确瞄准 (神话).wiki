@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[精确瞄准]] 的神话版本。</small></div>
+{{Feat
+|name=精确瞄准
+|english_name=Pinpoint Targeting
+|categories=神话
+|description=你的攻击能够直击敌人的弱点并且忽略多种防护。
+|prerequisites=[[精确瞄准]]
+|benefit=即便你在该轮移动过也可以使用本专长，不过这只限于你移动的距离不超过每阶层5尺的时候。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

@@ -1,0 +1,14 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=裂隙诞生之球
+|english_name=Rift-Born Sphere
+|aon=MagicArtifactsDisplay.aspx?ItemName=Rift-Born Sphere
+|cat=神器
+|tier=次级神器
+|aura=强烈变化系
+|cl=20
+|slot=无
+|description=这个球体在所有方面都如同一个普通的[[毁灭之球]]，只是如果用[[异界之门]]法术来摧毁它，会自动造成一道通往GM所选位面的位面裂隙，而这个球体仍然留在原处，完好无损，不受影响。
+|destruction=裂隙诞生之球只能用[[抹消权杖]]摧毁，或与另一个普通的毁灭之球融合而摧毁（这会摧毁两个球体，并引发一场半径180尺的爆炸，造成5d6×10点伤害）。
+|source=再探经典宝藏
+}}

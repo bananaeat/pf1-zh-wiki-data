@@ -1,0 +1,14 @@
+{{物品
+|name=催眠闷棍
+|english_name=Sleeping Sap
+|category=魔法物品
+|aura=微弱惑控系
+|cl=3级
+|price=10,301GP
+|weight=2磅
+|slot=无位置
+|requirements=[[制造奇物]]、[[睡眠术]]
+|cost=5,301GP
+|description=描述：在确认重击命中时，这根+1[[闷棍]]会让目标陷入沉睡3分钟，其效果如同睡眠术，且没有生命骰上限（强韧DC 13通过则无效）。
+|source_name=恶棍志
+}}

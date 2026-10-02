@@ -1,0 +1,11 @@
+{{Feat
+|name=鲨蜥 · 扑
+|english_name=Bulette Leap
+|categories=战斗
+|description=跃入空中的你能够强行挤过多个敌人。
+|prerequisites=力量15，[[鲨蜥流]]，[[精通闯越]]，[[猛力攻击]]，[[擅长重甲]]
+|benefit=开启[[鲨蜥流]]后，在跳跃的特技检定上获得等同于你力量调整值的加值。额外的，在你进行[[闯越]][[战技]]时，你可以闯越多个目标，但在同一轮内，每次后续的闯越尝试都会累积-2减值。如果一次闯越失败，直到你的下一轮你都不能进行进一步尝试。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_361.html
+}}

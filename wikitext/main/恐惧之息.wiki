@@ -1,0 +1,14 @@
+{{危害
+|name=恐惧之息
+|english_name=Smell of fear
+|kind=毒药
+|type=吸入
+|save=强韧 DC 17
+|frequency=1次/分钟，持续6分钟
+|effect=1d2点感知伤害；并且如果受害者在之后的1分钟内将要陷入[[战栗]]，则改为陷入[[惊惧]]
+|cure=2次豁免成功
+|price=600 gp
+|weight=1/2磅
+|description='''炼金配方''' 配方：（170水银＋170雄黄）/发酵；工艺 DC 17；时间：1天；工具：热源；类型：毒药
+|source=炼金术手册
+}}

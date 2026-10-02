@@ -1,0 +1,9 @@
+{{Trait
+|name=创生火花
+|english_name=Spark of Creation
+|type=魔法
+|description=你对于创造有用的东西颇有心得，年纪轻轻作为艺术家的天赋就显露出来。你在工艺检定上获得+1背景加值，[[制造魔法物品]]的成本降低5%。
+|source_name=魔法背景
+|source=CoP
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

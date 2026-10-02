@@ -1,0 +1,11 @@
+{{消歧义|术法宿仇}}
+{{Trait
+|name=奥法憎恶
+|english_name=Spellcaster's Anathema
+|type=种族
+|prerequisites=[[矮人]]
+|description=你把奥术魔法视作是定时炸弹，因此难以对其报以信任。你在对抗所有奥术施法者的攻击检定上获得+1背景加值。
+|source=PoW
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1271.html
+}}

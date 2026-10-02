@@ -1,0 +1,15 @@
+{{Feat
+|name=业火袭
+|english_name=Unblinking Flame Feint
+|categories=战斗;流派
+|description=你的行动如同闪烁的火焰一般迅捷而又不可预测，从而把敌人打得[[措手不及]]。
+|prerequisites=智力13，感知13，[[寓守于攻]]，[[无瑕式]]，基本攻击加值+9或武僧等级9级
+|benefit=若你正在使用[[无瑕式]]，则能够在尝试使用[[唬骗]]检定进行[[虚招]]时，使用感知调整值替代魅力调整值。你能够以[[迅捷动作]]花费1点气，来在1轮内获得[[精通虚招]]的好处。
+|source=ISC
+|source_name=内海战斗
+|source_url=https://pf1chm.pages.dev/topics/page_276.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[业火灼身]]（1 个条目）

@@ -1,0 +1,9 @@
+<includeonly><div style="float:left;padding:8px;">[[Special:Listusers|'''{{NUMBEROFFOLLOWERS}}''']]位关注者 | [[Special:Recentchanges|'''{{NUMBEROFEDITS}}''']]次编辑 | [[Special:Allpages|'''{{NUMBEROFARTICLES}}''']]篇文章 | [[Special:Imagelist|'''{{NUMBEROFFILES}}''']]张图片</div>
+</includeonly><noinclude>[[Category:huiji template]]{{优质模板|功能}}{{documentation}}</noinclude><noinclude>
+<templatedata>
+{
+	"params": {},
+	"description": "本模版用于显示站点数据。\n详细信息与案列请前往https://templatemanager.huiji.wiki/wiki/%E6%A8%A1%E6%9D%BF:%E7%AB%99%E7%82%B9%E6%95%B0%E6%8D%AE"
+}
+</templatedata>
+</noinclude>

@@ -1,0 +1,12 @@
+{{魔法物品
+|name=强欲熏香
+|english_name=Incense of Obsession
+|aon=MagicCursedDisplay.aspx?ItemName=Incense of Obsession
+|cat=诅咒物品
+|aura=中等惑控系
+|cl=6
+|slot=无
+|description=这些香块看起来像是[[冥想熏香]]。如果在强欲熏香燃烧时进行冥想，使用者会变得完全相信，由于这魔法熏香，自己的施法能力无比优越。她会抓住一切机会施展法术，即使并无必要或毫无用处。使用者会一直沉迷于自己的能力和法术，直到全部用尽或施展完毕，或者过了24小时为止。
+|req=[[冥想熏香]]
+|source=核心规则书、极限宝具
+}}

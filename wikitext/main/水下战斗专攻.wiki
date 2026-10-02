@@ -1,0 +1,11 @@
+{{Feat
+|name=水下战斗专攻
+|english_name=Aquadynamic Focus
+|categories=战斗
+|description=你在你所选择武器的技艺上太过娴熟，以至于你在水下使用它们时不会受到任何阻碍。
+|prerequisites=[[武器专攻]]，基本攻击加值+1
+|benefit=你在[[水下战斗]]使用拥有[[武器专攻]]专长的挥砍和钝击近战武器时，不会承受额外的命中和伤害减值。
+|normal=当你在水下使用钝击和挥砍的近战武器时，你会在攻击骰上有-2减值，并且伤害减半。
+|source_name=水下冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1030.html
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=丛林披风
+|english_name=Cloak of the Jungle
+|aon=MagicWondrousDisplay.aspx?FinalName=Cloak of the Jungle
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=肩部
+|price=2,400 gp
+|weight=1磅
+|description=当这件朴素的绿色披风连同兜帽一起拉起罩住头部穿戴时，穿戴者可以变成一棵大型树木或灌木，如同法术[[树化术]]。此披风每天可用一次，穿戴者最多可维持树木形态1小时。穿戴者可以以一个自由动作变回其正常形态。
+|req=[[制造奇物]]、[[树化术]]
+|cost=1,200 gp
+|source=萨迦瓦，失落的殖民地
+}}

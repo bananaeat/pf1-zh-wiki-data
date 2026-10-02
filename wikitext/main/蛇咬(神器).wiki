@@ -1,0 +1,8 @@
+{{消歧义|蛇咬}}
+{{物品
+|name=蛇咬
+|english_name=The Snakebite
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。任何接触抽牌者的人都必须通过强韧检定，否则身中[[绿血油]]毒（greenblood oil）。豁免DC 为10+人物HD+体质加值。该效果对出于协助或治疗的触碰依然有效。
+}}

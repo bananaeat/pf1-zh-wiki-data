@@ -1,0 +1,14 @@
+{{装备
+|name=翼油
+|english_name=Wing oil
+|cat=炼金药剂
+|price=1 gp
+|weight=—
+|craft_dc=20
+|description=天狗专门调制这种油膏用以从风雨中保护他们的羽毛。
+
+一盎司翼油可以使带羽毛的生物在对抗由寒冷天气带来的任何豁免检定中获得+1加值。
+
+该效果持续24小时。
+|source=进阶种族手册
+}}

@@ -1,0 +1,16 @@
+{{Spell
+|name=英勇谢幕曲
+|english_name=Heroic finale
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=吟游诗人 4;歌者 4
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一名生物
+|duration=立即
+|save=意志，通过则无效（无害）
+|sr=是
+|description=施放这个法术之前，你必须激活一种吟游表演。通过挥舞手臂进行谢幕，你会立即结束你的吟游表演，一名在法术范围内并且被吟游表演影响的生物可以自行决定进行一个[[移动动作]]或一个[[标准动作]]。
+|source=进阶玩家指南
+}}

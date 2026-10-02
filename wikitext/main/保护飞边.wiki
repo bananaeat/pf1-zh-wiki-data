@@ -1,0 +1,15 @@
+{{魔法物品
+|name=保护飞边
+|english_name=Protective Ruff
+|aon=MagicWondrousDisplay.aspx?FinalName=Protective Ruff
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=颈部
+|price=1,000 gp
+|weight=1/2磅
+|description=这条蕾丝衣领紧贴着其穿着者的脖子。当某一个效果会伤害其穿着者任何物品栏位中的物品时，则至多有10点的伤害会被重定向到该飞边。（不涉及生命值的伤害，比如[[锈蚀爪]]，则不受其影响。）一条保护飞边有10点生命值和5点硬度。当该飞边被减至0点生命值时，它会停止运作；如果减少到0点以下时，它将被如常摧毁。当穿着时，一条具备1点及以上生命值的保护飞边，会以每小时1点生命值的速率再生。
+|req=[[制造奇物]]、[[修复术]]
+|cost=500 gp
+|source=商人货单
+}}

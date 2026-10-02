@@ -1,0 +1,10 @@
+{{Trait
+|name=瓦卡那毕业生
+|english_name=Valknar Alumnus
+|type=地区
+|prerequisites=泰莫恩
+|description=你曾在瓦卡那角斗士学院接受训练。选择这个背景特性时，选择一项[[战技]]。你的演武检定获得+1背景加值，并且你在进行所选战技的战技检定上获得+1背景加值。
+|source_name=河域子民
+|source=PotR
+|source_url=https://pf1chm.pages.dev/topics/zh576fd36972.htm
+}}

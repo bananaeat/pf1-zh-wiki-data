@@ -1,0 +1,11 @@
+{{Feat
+|name=艾恩谐振
+|english_name=Ioun Resonance
+|categories=种族
+|pfs=否
+|description=你可以在自己的艾恩心脏和一个为你所有的艾恩石间创建一道魔法链接。
+|prerequisites=汲魂木
+|benefit=以一个[[标准动作]]，你可以在你的艾恩核心和你拥有或携带的激活艾恩石间创建一道链接。只要你获得了链接艾恩石的好处，任何由其授予的数字加值或惩罚都会增加1。你一次只能和一块艾恩石保持链接，创建一个指向新艾恩石的链接将结束此前的链接。
+|source_name=格拉利昂的英雄
+|source_url=https://pf1chm.pages.dev/topics/zhe4b6469482.htm
+}}

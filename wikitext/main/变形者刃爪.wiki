@@ -1,0 +1,12 @@
+{{Feat
+|name=变形者刃爪
+|english_name=Shifter's Edge
+|description=你运用自己的变形力量，让天生攻击变得特别致命。
+|prerequisites=敏捷13，[[武器娴熟]]，变形者利爪职业能力。
+|benefit=当你用[[武器娴熟]]以利爪或者受到利爪强化的天生攻击进行近战攻击，并在攻击检定上使用敏捷加值、在伤害检定上使用力量调整值时，还可以将你的[[变形者]]等级的一半加到伤害上。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}
+
+{{FAQ|v5748eaic9w53}}

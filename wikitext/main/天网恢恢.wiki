@@ -1,0 +1,8 @@
+{{Trait
+|name=天网恢恢
+|english_name=No Escape
+|type=战斗
+|description=纵然这些饭桶和无赖顽固抵抗，他们也难以逃出你的五指山。当对单一你目击其犯下罪行的生物进行合法且目的是非致命控制的战技时，你在本次战技上获得+1背景加值。
+|source_name=平衡勇士
+|source_url=https://pf1chm.pages.dev/topics/zh50fb06c319.htm
+}}

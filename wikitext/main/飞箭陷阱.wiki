@@ -1,0 +1,13 @@
+{{危害
+|name=飞箭陷阱
+|english_name=Arrow Trap
+|kind=陷阱
+|trap_type=机械
+|cr=1
+|perception=DC 20
+|disable=DC 20
+|trigger=接触型
+|reset=无
+|effect=远程攻击 +15（1d8+1/×3）
+|source=核心规则书
+}}

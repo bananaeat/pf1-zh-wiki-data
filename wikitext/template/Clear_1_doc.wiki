@@ -1,0 +1,8 @@
+这是一个简单的辅助模板，通过添加一个带有clear:both属性的div块来修正页面的各种float错误
+
+<templatedata>
+{
+	"params": {},
+	"description": "关于本说明： 这是一个简单的辅助模板，通过添加一个带有clear:both属性的div块来修正页面的各种float错误"
+}
+</templatedata>

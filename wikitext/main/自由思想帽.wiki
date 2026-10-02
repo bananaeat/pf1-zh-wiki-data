@@ -1,0 +1,14 @@
+{{魔法物品
+|name=自由思想帽
+|english_name=Cap of the Free Thinker
+|aon=MagicWondrousDisplay.aspx?FinalName=Cap of the Free Thinker
+|cat=奇物
+|aura=中等防护系
+|cl=10
+|slot=头部
+|price=12,000 gp
+|description=这顶柔软的帽子帮助穿戴者摆脱外界影响。每日一次，当穿戴者在对抗影响心灵效果的豁免检定中失败时，她可以重骰该豁免并采用第二次的结果。
+|req=[[制造奇物]]、[[心灵屏障]]
+|cost=6,000 gp
+|source=极限宝具
+}}

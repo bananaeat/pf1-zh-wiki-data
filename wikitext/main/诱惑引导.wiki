@@ -1,0 +1,10 @@
+{{Feat
+|name=诱惑引导
+|english_name=Seductive Channel
+|description=即使是你的治疗也充满勾人心弦的魅力
+|prerequisites=引导正能量职业能力，信仰卡莉斯翠
+|benefit=当你引导正能量时，受到你的正能量治疗的生物可以选择额外受到相当于你的魅力调整值的治疗量（最少1点），但作为代价，他们在对抗你的魅惑、胁迫和情绪效果的意志豁免检定上，以及在对抗你[[唬骗]]检定的察言观色检定上，都承受-2减值。这个减值持续24小时，在承受减值时，生物无法获得本专长的好处。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

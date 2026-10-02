@@ -1,0 +1,11 @@
+{{Trait
+|name=画眉鸟座
+|english_name=The Thrush
+|type=宇宙
+|aliases=1-7 画眉鸟座
+|prerequisites=库松纳(Kuthona)18日-阿贝迪乌斯(Abadius)20日(译注：12月18日-1月20日)
+|description=就像那欢迎疲惫旅者的好奇的鸣禽，你的声音甜美悦耳。你在表演(演唱)检定上获得+1加值，而表演(演唱)也成为了你的[[本职技能]]。
+|source_name=宇宙背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zhc3ea784a66.htm
+}}

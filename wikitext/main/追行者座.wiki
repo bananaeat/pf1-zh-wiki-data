@@ -1,0 +1,11 @@
+{{Trait
+|name=追行者座
+|english_name=The Follower
+|type=宇宙
+|aliases=85-91 追行者座
+|prerequisites=奈斯(Neth)30日-库松纳(Kuthona)17日(译注：11月30日-12月17日)
+|description=你出生于篷车星系尾端那轮廓黑暗的星座之下——那死亡凶兆的本体。你在对抗死亡效果的豁免骰上获得+2加值。所有离你10尺内的盟友在对抗死亡效果的豁免骰上受到-1罚值。
+|source_name=宇宙背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zhc3ea784a66.htm
+}}

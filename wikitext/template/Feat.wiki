@@ -1,0 +1,63 @@
+<includeonly>{{#invoke:版权抬头|main}}<div class="feat">
+<div class="feat-head">
+<div class="feat-name">{{{name|{{PAGENAME}}}}}{{#if:{{{categories|}}}|<span class="feat-cats">{{#arraymap:{{{categories|}}}|;|@@|<span class="tag">@@</span>| }}</span>}}{{#ifeq:{{{pfs|}}}|否|<span class="tag tag-warn">非 PFS 合法</span>}}</div>
+<div class="feat-en">{{AoN链接|Feat|{{{aon|{{{english_name|}}}}}}|{{{english_name|}}}}}</div>{{#if:{{{aliases|}}}|<div class="feat-alias">又名：{{#arraymap:{{{aliases|}}}|;|@@|@@|、}}</div>}}
+</div><!--
+-->{{#if:{{{description|}}}|<div class="feat-flavor">{{{description|}}}</div>}}<!--
+-->{{#invoke:专长链|pre|fallback={{{prerequisites|}}}}}<!--
+-->{{#invoke:专长链|show}}<!--
+-->{{#if:{{{benefit|}}}|<div class="feat-block feat-benefit"><span class="k">效果</span>{{{benefit|}}}</div>}}<!--
+-->{{#if:{{{tables|}}}|<div class="feat-tables">{{{tables|}}}</div>}}<!--
+-->{{#if:{{{normal|}}}|<div class="feat-block"><span class="k">常规</span>{{{normal|}}}</div>}}<!--
+-->{{#if:{{{special|}}}|<div class="feat-block"><span class="k">特殊</span>{{{special|}}}</div>}}<!--
+-->{{#if:{{{residual|}}}|<div class="feat-block"><span class="k">残留效果</span>{{{residual|}}}</div>}}<!--
+-->{{#if:{{{stamina|}}}|<div class="feat-block"><span class="k">战策</span>{{{stamina|}}} <small>（[[耐力和战策]]）</small></div>}}<!--
+-->{{#if:{{{goal|}}}{{{completion_benefit|}}}|<div class="feat-story">{{#if:{{{goal|}}}|<div class="feat-block"><span class="k">目标</span>{{{goal|}}}</div>}}{{#if:{{{completion_benefit|}}}|<div class="feat-block"><span class="k">达成收益</span>{{{completion_benefit|}}}</div>}}</div>}}<!--
+-->{{#if:{{{notes|}}}|<div class="feat-block feat-extra"><span class="k">备注</span>{{{notes|}}}</div>}}<!--
+-->{{#if:{{{extra|}}}|<div class="feat-extra">
+{{{extra|}}}
+</div>}}<!--
+-->{{#if:{{{source_name|}}}|<div class="feat-source"><span class="key">来源</span> <span class="value">{{#if:{{{source_url|}}}|[{{{source_url}}} {{{source_name}}}]|{{{source_name}}}}}{{#if:{{{source|}}}|（{{{source}}}）}}</span></div>}}
+</div>{{条目页脚|速查=专长速查|分类=专长}}[[分类:专长]]{{#if:{{{categories|}}}|{{#arraymap:{{{categories|}}}|;|@@|[[分类:@@专长]]|}}}}</includeonly><noinclude>
+==说明==
+本模板用于 pf1 的专长条目。不适用的参数留空即可，模板会自动隐藏对应行。
+
+===参数===
+;name / english_name: 中英文名。name 留空时取页名。英文名链到 AoN 原文（[[模板:AoN链接]]）。
+;aon: AoN 上这一条的写法和英文名不同时填（AoN 带书名后缀的同名专长、AoN 自己拼错的）；AoN 没有这一条填「无」，英文名就不挂链接。
+;aliases: 别名，分号分隔。
+;categories: 专长类别，分号分隔（战斗、团队、超魔、神话、故事……）。会自动挂上「XX专长」分类。
+;pfs: 填 <code>否</code> 表示非 PFS 合法，会显示一个警示标签；留空表示合法。
+;description: 卷首风味文字，斜体显示。
+;prerequisites / benefit / normal / special: 先决条件 / 效果 / 常规 / 特殊。
+;stamina: 战策——《解放者》耐力和战策规则里，这个战斗专长花耐力点的用法（AoN 的 Combat Trick），卡片里链回 [[耐力和战策]]。
+;residual: 残留效果——阵营专长（《解放者》）不再满足阵营先决条件时仍保留的部分（AoN 的 Residual）。
+;goal / completion_benefit: 故事专长专用的目标与达成收益，会渲染成带竖线的区块。
+;tables: 效果里的表格。必须写成 HTML <code>&lt;table&gt;</code>，'''不能用 <code>{{!}}</code> 开头的维基表格语法'''——裸的竖线会被当成模板参数分隔符吃掉。
+;notes / extra: 备注、译注与编注，用弱化样式显示在最后。
+;source / source_name / source_url: 缩写、书名、原文链接。
+
+===先决条件一行===
+「先决条件」一行按结构化数据出标准写法、挂准确的链（[[模块:专长链]] 的 pre；拼句在 tools/build_feat_chain.py）。数据里还没有这条专长时，照旧显示 prerequisites 参数的原文——参数照常填，它也是结构化数据的来源之一。
+
+===先决条件树、后续专长===
+先决条件下面自动出一块可按需展开的「先决条件树」（默认收起）和一行「后续专长」，不用填参数：[[模块:专长链]] 按页名查 [[模块:专长链/数据/0|模块:专长链/数据/*]]（tools/build_feat_chain.py 从先决条件的结构化数据生成，随 <code>pf sync feats</code> 更新）。只在主名字空间的专长页上出；页面嵌入别的专长时不出。
+
+正文里的竖线要写成 <code>&amp;#124;</code>，否则会截断参数。
+
+===示例===
+<pre>
+{{Feat
+|name=强力攻击
+|english_name=Power Attack
+|categories=战斗
+|description=你可以牺牲命中率换取更大的伤害。
+|prerequisites=力量13，基本攻击加值+1。
+|benefit=你可以选择承受-1命中减值，换取+2伤害加值。
+|normal=角色没有该专长时不能做此交换。
+|source=CRB
+|source_name=核心规则手册
+}}
+</pre>
+[[分类:模板]][[分类:规则模板]]
+</noinclude>

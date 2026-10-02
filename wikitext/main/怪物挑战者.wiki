@@ -1,0 +1,10 @@
+{{Trait
+|name=怪物挑战者
+|english_name=Monster Challenger
+|type=战斗
+|pfs=否
+|description=你将击倒可怕的野兽作为自己的使命。从以下类别中选择两种：异怪、动物、龙、精类、魔法兽、泥怪和虫类。当你使用生存技能追踪你所选生物类型留下的踪迹时，你可以不受惩罚全速移动。
+|source_name=怪物猎人手册
+|source=MHH
+|source_url=https://pf1chm.pages.dev/topics/zh8c410b2724.htm
+}}

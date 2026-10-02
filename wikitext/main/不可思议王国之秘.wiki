@@ -1,0 +1,9 @@
+{{Trait
+|name=不可思议王国之秘
+|english_name=Secret of the Impossible Kingdom
+|type=地区
+|prerequisites=扎摩诔
+|description=你曾在扎摩诔的修道院中学习乌笃剌的古代知识，并学会了一个奥秘来增强你的施法。在你选择此[[背景特性]]时，指定一个法术。从此刻起，你施放该法术时的施法者等级+1。
+|source_name=初探内海
+|source_url=https://pf1chm.pages.dev/topics/zh90f44086c1.htm
+}}

@@ -1,0 +1,12 @@
+{{Feat
+|name=演武战士
+|english_name=Performing Combatant
+|categories=战斗
+|pfs=否
+|description=通过展现炫目而华丽的技巧，你能将任何战斗都打成一场表演。
+|prerequisites=[[炫目技巧]]，任一项演武专长。
+|benefit=你可以在任何战斗中进行演武检定。如果在一场非演武战斗中进行演武检定，你可以选择一项演武专长以供使用。你自动获得该专长赋予演武检定的所有加值；然后你需要进行一次DC20的演武检定，如果你成功，你可以获得该专长的所有效果。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

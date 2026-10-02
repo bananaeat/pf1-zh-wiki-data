@@ -1,0 +1,11 @@
+{{Feat
+|name=失落帝国的后裔
+|english_name=Scion of the Lost Empire
+|categories=团队
+|description=虽然你可能无法将你的血统追溯到阿兹兰特，但每当你靠近像你自己这样的人时，你都能感受到你血液中那古老的力量。
+|prerequisites=[[人类]]（切利亚斯人或塔尔多人）。
+|benefit=当你与一名同样拥有该专长的、民族意义上的切利亚斯人或塔尔多人盟友相邻时，你能以一个[[直觉动作]]，在单一的攻击骰、豁免骰、属性检定、或技能检定上，获得+2表现加值。你必须在进行投骰前，选择使用此能力。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

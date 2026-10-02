@@ -1,0 +1,15 @@
+{{速查导航}}
+
+'''魔战士奥能'''是《[[远程战术工具箱]]》的一章，五条[[魔战士]][[奥能]]。
+
+== 本章条目 ==
+
+* [[奥能#黑暗挪移 (Dark Shifter, Su)|黑暗挪移]]（Dark Shifter；这一章译作「移行之暗」）
+* [[奥能#力池射线 (Pool Ray, Su)|力池射线]]（Pool Ray）
+* [[奥能#游侠陷阱 (Ranger Trap)|游侠陷阱]]（Ranger Trap）
+* [[奥能#及远法术 (Reach Magic, Su)|及远法术]]（Reach Magic；这一章译作「法术及远化」）
+* [[奥能#魔战投手 (Throwing Magus)|魔战投手]]（Throwing Magus）
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_466.html 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

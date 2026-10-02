@@ -1,0 +1,17 @@
+{{武器
+|name=燃灯杖
+|english_name=Lantern staff
+|category=武器
+|prof=简易
+|wcat=双手
+|price=15 gp
+|weight=9磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×3
+|type=钝击
+|special=见正文
+|groups=锤
+|description=这根细长的金属杖设有盛放灯油的储油器，顶端是类似灯笼的结构。燃灯杖的燃料与照明效果均与附盖提灯相同。点燃时，用燃灯杖发动的攻击在正常伤害之外再造成1点火焰伤害。任何适用于木棍的效果（要求将其作为双头武器使用的除外）同样适用于燃灯杖。
+|source=冒险者的军械库2
+}}

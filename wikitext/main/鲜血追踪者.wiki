@@ -1,0 +1,9 @@
+{{Trait
+|name=鲜血追踪者
+|english_name=Blood Stalker
+|type=种族
+|prerequisites=[[魔裔]]（地狱族裔）
+|description=你具有的某些来自地狱的本能，这使你更容易找到那些被你弄伤流血的生物的位置。只要你在过去1星期内曾对所追猎的生物造成伤害，你在追踪该生物或跟随其踪迹的生存检定上就获得+4背景加值。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_832.html
+}}

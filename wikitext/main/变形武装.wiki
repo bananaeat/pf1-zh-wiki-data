@@ -1,0 +1,14 @@
+<noinclude>{{侠客导航}}
+'''变形武装'''（Morphic Weaponry, Ex）是[[侠客]]的[[侠客天赋]]。
+
+</noinclude>{{Source|传奇编年史|Chronicle of Legends|inline}}
+
+效果：侠客可以将他的身体塑造为武器。这等同于泥怪行者的变形武装能力，并且将侠客等级视为[[变形者]]等级。
+
+侠客必须拥有变形生物子类才能选择此天赋。
+
+''【PFS】《传奇编年史》不可用于 PFS。''<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh62263cd083.htm 原文]）。全部侠客天赋见 [[:分类:侠客天赋|分类:侠客天赋]]。
+
+[[分类:侠客天赋]]</noinclude>

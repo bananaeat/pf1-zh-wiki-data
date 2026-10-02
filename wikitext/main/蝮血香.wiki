@@ -1,0 +1,12 @@
+{{Feat
+|name=蝮血香
+|english_name=Vishkanya Perfume
+|description=你可以将你的有毒唾液变为带毒的吐息。
+|prerequisites=[[致命之吻]]，毒液种族特性ARG，[[蝮血裔]]。
+|benefit=以一个[[迅捷动作]]，你可以消耗你有毒[[种族特性]]的一次使用次数，将你的毒液改变为吸入型毒素，持续1d4轮。在该持续时间内，你可以选择一名相邻的敌人使其暴露于此毒素。在其吸入型形态下，你的毒液是一种无形且带香气的气体，DC降低2点。
+
+此外，你每天可以额外使用一次你的毒液种族特性。
+|normal=[[蝮血裔]]的毒液为伤口型毒素。
+|source_name=反派法典
+|source_url=https://pf1chm.pages.dev/topics/zhfa2a4585c1.htm
+}}

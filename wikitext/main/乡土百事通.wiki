@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Varisia, Birthplace of Legends pg. 27），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=乡土百事通
+|english_name=Local Know-It-All
+|type=地区
+|prerequisites=瓦瑞西亚
+|description=选择一个你居住了至少5年的社区。与该社区相关的[[知识]]（本地）检定获得+2背景加值。
+|source_name=瓦瑞西亚，传说诞生之地
+|source=VBoL
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Local%20Know-It-All
+}}

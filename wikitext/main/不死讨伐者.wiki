@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Mummy's Mask Player's Guide pg. 10, People of the Sands pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=不死讨伐者
+|english_name=Undead Crusader
+|type=战役
+|pfs=否
+|description=你已将一生奉献于从格拉利昂铲除不死生物之祸。你花了无数时间研究各类不死生物，并不懈地训练，以掌握击败它们的最佳方法。如果有任何不死生物从瓦提大墓地的陵墓中出来，你已经做好了准备！你对不死生物的伤害检定获得+1背景加值。此外，你的[[知识]]（宗教）检定获得+1背景加值，且该技能总是你的本职技能。
+|source_name=Mummy's Mask Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Undead%20Crusader
+}}

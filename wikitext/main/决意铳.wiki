@@ -1,0 +1,9 @@
+{{Trait
+|name=决意铳
+|english_name=Resolve of the Rejected
+|type=战斗
+|description=有些家伙从不支持你选择火枪，他们的奚落却恰好坚定了你在枪林弹雨中的决心。你在对抗魅惑和胁迫效果的全豁免中获得+1背景加值。此外，每日1次，当你成功对上述效果通过豁免时，你恢复1点[[枪手#勇毅|勇毅]]点数。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

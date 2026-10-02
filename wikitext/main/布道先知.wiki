@@ -1,0 +1,14 @@
+{{Feat
+|name=布道先知
+|english_name=Prophet
+|categories=故事
+|pfs=否
+|description=真相已然显露，而你则被选定令其实现。
+|prerequisites=你必须能够施放神术，并且从你所信奉的神祇（或其他合适的超自然存在）处获得一项神谕，或者拥有“神赋刻印”角色背景。
+|benefit=若你非邪恶且侍奉非邪恶神祇，当你为同伴施放有益法术时，你获得神圣AC+1，持续每法术等级1轮。若你邪恶或侍奉邪恶神祇，当你向敌人施放有害法术时，你获得亵渎AC+1，持续每法术等级1轮。对自己施法则无此效果，除非该法术同时也影响同伴。
+|goal=使适当数量的生物皈依到你所信奉的神祇座下。
+|completion_benefit=你对他人施放有益或有害法术后获得的AC加值增至+2，并且这些加值在效果时间内还能应用于豁免。
+|source=UCa
+|source_name=极限战役
+|source_url=https://pf1chm.pages.dev/topics/page_200.html
+}}

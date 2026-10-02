@@ -1,0 +1,15 @@
+{{魔法物品
+|name=盔甲幻形油
+|english_name=Polish of Inconspicuous Armor
+|aon=MagicWondrousDisplay.aspx?FinalName=Polish of Inconspicuous Armor
+|cat=奇物
+|aura=微弱咒法系
+|cl=5
+|slot=无
+|price=750 gp
+|weight=1/2磅
+|description=这种刺鼻的焦油黑盔甲抛光剂装在一个圆形的小罐里。罐中的1剂足够涂抹一件中型盔甲或两件小型盔甲。涂抹抛光剂需要10分钟，在此期间，使用者必须想象出盔甲要变成的另一种外观，例如一套寻常衣物或另一套盔甲。抛光剂涂抹完毕后，其刺鼻的气味就会消散，盔甲会呈现为使用者所想象的样子，如同幻化魔法盔甲特殊能力。除了外观之外，盔甲的所有属性都会保持不变，包括重量、盔甲检定减值和最大敏捷加值。此效果持续24小时后消失。
+|req=[[制造奇物]]、[[易容术]]
+|cost=375 gp
+|source=初探探索者协会、极限诡道
+}}

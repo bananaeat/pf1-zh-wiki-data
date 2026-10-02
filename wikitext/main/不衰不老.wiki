@@ -1,0 +1,10 @@
+{{Feat
+|name=不衰不老
+|english_name=Unaging
+|description=你比其他[[半精灵]]更像你那长寿的精灵亲辈。虽然你的寿命不比常人更长，但岁月的重负没有给你留下多少痕迹。
+|prerequisites=半精灵。
+|benefit=你获得+4种族加值以抵抗任何魔法性衰老或其他扰乱你时间的效果。此外，所有因魔法性衰老而产生的减值对你来说都会减少1点。
+|source=HftF
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/zh72cd9d7a9f.htm
+}}

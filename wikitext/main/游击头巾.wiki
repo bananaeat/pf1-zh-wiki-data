@@ -1,0 +1,17 @@
+{{魔法物品
+|name=游击头巾
+|english_name=Guerrilla Bandanna
+|aon=MagicWondrousDisplay.aspx?FinalName=Guerrilla Bandanna
+|cat=奇物
+|aura=中等惑控系、幻术系
+|cl=10
+|slot=头饰
+|price=18,000 gp
+|weight=1磅
+|description=这种头巾为涅玛萨斯的战团领袖所用，是一条朴素的棕绿相间的头巾，可以系在额头上。穿戴者在森林地形中行进时，隐匿检定获得+5表现加值，并且可以把这个加值扩展给至多10名盟友，只要他们留在穿戴者100尺范围内。
+
+如果穿戴者是游侠，游击头巾会使他对每一种宿敌的攻击检定宿敌加值增加1点。如果该游侠拥有猎手羁绊（同伴）职业特性，这一增加也适用于他的盟友通过该能力获得的攻击检定加值。
+|req=[[制造奇物]]、[[即刻仇敌]]、[[隐形术]]
+|cost=9,000 gp
+|source=内海战斗
+}}

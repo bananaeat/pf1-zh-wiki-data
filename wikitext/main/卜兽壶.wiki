@@ -1,0 +1,15 @@
+{{魔法物品
+|name=卜兽壶
+|english_name=Animal Divining Pot
+|aon=MagicWondrousDisplay.aspx?FinalName=Animal Divining Pot
+|cat=奇物
+|aura=微弱预言系
+|cl=3
+|slot=无
+|price=1,400 gp
+|weight=5磅
+|description=这些小型黏土器皿会被烤制成各类小动物的形象——最常见的是鱼，蜥蜴，老鼠和麻雀。若在一个卜兽壶中放入一只与壶形状对应的活着的动物，使用者就能与该动物细语交谈，如同动物交谈法术。该能力每天可使用3次。
+|req=[[制造奇物]]、[[动物交谈]]
+|cost=700 gp
+|source=异能冒险
+}}

@@ -1,0 +1,9 @@
+{{装备
+|name=冬青
+|english_name=Holly
+|cat=黑市
+|price=0 gp
+|weight=—
+|description=冬青树的鲜红色浆果有很多用途，可以作为装饰品和仪式用品。德鲁伊们会用特制的工具，在每年的神圣时节收割冬青浆果。
+|source=冒险者的军械库
+}}

@@ -1,0 +1,13 @@
+{{危害
+|name=刺坑陷阱
+|english_name=Spiked Pit Trap
+|kind=陷阱
+|trap_type=机械
+|cr=2
+|perception=DC 20
+|disable=DC 20
+|trigger=位置型
+|reset=手动
+|effect=10尺深坑（1d6坠落伤害）；钉刺（近战攻击 +10，1d4根，每根伤害1d4+2）；反射 DC 20 回避；复数目标（10尺见方区域全体）
+|source=核心规则书
+}}

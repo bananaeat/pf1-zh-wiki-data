@@ -1,0 +1,15 @@
+{{魔法物品
+|name=剪影人权杖
+|english_name=Rod of the Wayang
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of the Wayang
+|cat=权杖
+|aura=中等塑能系
+|cl=8
+|slot=无
+|price=12,000 gp
+|weight=5磅
+|description=这根[[魔法物品#权杖|权杖]]漆成乌黑色，布满亮白色的符文，顶端是一顶由不规则烟晶构成的王冠。当权杖的持用者施放幽影子学派的法术时，该法术的豁免DC增加1点。此外，每天1次，持用者可以用命令字在面对正能量和负能量效果时视为不死生物，即受到正能量伤害、受到负能量治疗。这个能力持续1分钟，除非持用者以[[自由动作]]解除。
+|req=[[制造权杖]]、[[高等幽影咒法术]]、[[高等幽影塑能术]]
+|cost=6,000 gp
+|source=极限宝具
+}}

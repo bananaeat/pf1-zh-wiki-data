@@ -1,0 +1,10 @@
+{{Feat
+|name=传动掌握
+|english_name=Teleportation Mastery
+|categories=物品掌握
+|pfs=否
+|description=你引导咒法系物品的魔法力量，唤来传送之力。
+|prerequisites=使用魔法装置技能4级，基础强韧豁免加值+6
+|benefit=你可以引导一件制造时需求使用咒法系法术，且该法术至少为三环的魔法物品中的能量，施放一次法术[[任意门]]。你每天可以使用本类法术能力一次，在基础强韧豁免加值达到+9和+12时可以获得额外一次每日使用次数。
+|source_name=武器大师手册
+}}

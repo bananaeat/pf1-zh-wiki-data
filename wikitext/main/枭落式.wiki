@@ -1,0 +1,11 @@
+{{Feat
+|name=枭落式
+|english_name=Owl Swoop
+|categories=战斗
+|description=武技训练让你能够以华丽的技巧移动。
+|prerequisites=[[敏捷]] 15，[[枭冲式]]，技能专攻：隐匿，特技1级，隐匿1级
+|benefit=当你使用[[枭冲式]]时，能够使用你的基本攻击加值取代你在特技中投入的技能点数，并以此来判断你的特技技能加值。你能尝试特技检定来在光滑或狭窄的表面上移动，也可以用于避免冲锋时引起的[[借机攻击]]，不过依旧如常承受全速进行移动所带来的检定DC提升和减值。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

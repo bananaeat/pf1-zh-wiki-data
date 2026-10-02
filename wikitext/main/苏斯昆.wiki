@@ -1,0 +1,40 @@
+{{速查导航|here=神祇}}
+{{消歧义|Thuskchoon}}
+{{神祇
+|name=苏斯昆
+|english_name=Thuskchoon
+|title=永饕者（Everglutton）
+|alignment=混乱邪恶（CE）
+|weapon=[[巨木棒]]
+|portfolio=盲目饥饿，揭示秘密
+|domains=[[混乱领域|混乱]]，[[毁灭领域|毁灭]]，[[邪恶领域(领域)|邪恶]]，[[知识领域|知识]]
+|subdomains=[[毁灭领域#天灾子域 (Catastrophe)|天灾子域]]，[[混乱领域#熵子域 (Entropy)|熵子域]]，[[毁灭领域#狂暴子域 (Rage)|狂暴子域]]，[[知识领域#思想子域 (Thought)|思想子域]]
+|symbol=带牙的三角形符文
+|symbol_label=邪徽
+|color=绿色
+|pantheon=古魔领主
+|source=内海诸神、永罪之书
+}}
+
+'''苏斯昆'''（Thuskchoon）是一位[[古魔领主]]。
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+花一小时全力摧毁别人制造的东西，尽可能彻底地毁坏该物件。你在对抗造成生命值伤害的范围效果时豁免获得+4亵渎加值。
+
+=== 神恩 ===
+
+古魔领主的神恩为类法术能力，每项每日可用2次。
+
+{{神恩|n=1|name=|en=|type=Sp|text=每日2次，以类法术能力施展[[粉碎音波]]。}}
+
+{{神恩|n=2|name=|en=|type=Sp|text=每日2次，以类法术能力施展[[渴饮血肉]]。}}
+
+{{神恩|n=3|name=|en=|type=Sp|text=每日2次，以类法术能力施展[[通晓传奇]]。}}
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhcf03e207e5.htm 原文]），原在总页 [[古魔领主]]。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Thuskchoon|2=Thuskchoon}}
+[[分类:魔神]]

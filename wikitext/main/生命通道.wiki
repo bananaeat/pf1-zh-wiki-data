@@ -1,0 +1,14 @@
+{{Spell
+|name=生命通道
+|english_name=Life conduit
+|school=咒法系 (医疗)
+|levels=召唤师 1;召唤师（掉链） 1
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|target=自己
+|duration=1轮/等级
+|sr=否
+|description=你利用生命通道与你的幻灵分享生命值。当该法术激活之后，你能够以[[迅捷动作]]在你与你的幻灵间传递1d6点生命值，无论是伤害自身治愈幻灵，亦或治愈自身伤害幻灵均可。如果你的幻灵与你之间的距离超过50尺，该法术结束。
+|source=极限战斗
+}}

@@ -1,0 +1,16 @@
+{{Spell
+|name=诅咒：季节错乱
+|english_name=Curse of Fell Seasons
+|school=变化系
+|tags=诅咒;黑暗
+|levels=奥能师 9;德鲁伊 9;萨满 9;术士 9;法师 9;女巫 9
+|action=10分钟
+|components=语言;姿势;法器（价值15,000gp的暗木树木雕像）
+|range=接触
+|area=从接触点起，弥漫半径2哩
+|duration=永久（可解消）
+|save=无
+|sr=否
+|description=透过触摸大地，你大大地改变此区域的天气，如同天气异变诅咒（见第145页）。法器作为法术的一部分，与被诅咒区域相融合，只有当诅咒被解除时才能重新取回。
+|source=惧怖冒险
+}}

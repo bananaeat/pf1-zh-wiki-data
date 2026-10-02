@@ -1,0 +1,11 @@
+{{Feat
+|name=持盾姿态
+|english_name=Shielded Stand
+|categories=盾牌掌握;战斗
+|description=你能够重新站起。
+|prerequisites=[[盾牌专攻]]，BAB+3或者战士1级。
+|benefit=你可以以一个[[迅捷动作]]，使你自己或一名与你邻接的盟友在从俯卧状态起身，或者捡拾地上的物品时不引发[[借机攻击]]。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_361.html
+}}

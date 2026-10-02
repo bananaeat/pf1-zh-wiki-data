@@ -1,0 +1,15 @@
+{{魔法物品
+|name=佣金之眼
+|english_name=Eye of Brokerage
+|aon=MagicWondrousDisplay.aspx?FinalName=Eye of Brokerage
+|cat=奇物
+|aura=中等预言系
+|cl=9
+|slot=颈部
+|price=16,550 gp
+|weight=1/2磅
+|description=这枚金色的眼形护符除了中央那颗夺目的钻石外，相当朴素。佣金之眼赋予穿戴者在与商人讨价还价和达成其他交易时额外的本领。穿戴者在[[估价]]检定，以及用于避免被[[唬骗]]的察言观色检定上获得+5能力加值。此外，穿戴者每天一次可以把佣金之眼举到一只眼睛前，至多持续7轮，以辨别40尺内至多7个生物是否在说谎（意志DC 16无效），效果如同辨识谎言。
+|req=[[制造奇物]]、[[混乱之锤]]、[[秩序之怒]]、制造者必须是中立阵营
+|cost=8,275 gp
+|source=平衡勇士
+}}

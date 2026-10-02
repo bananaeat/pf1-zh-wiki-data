@@ -1,0 +1,13 @@
+{{Feat
+|name=额外勇毅
+|english_name=Extra Grit
+|categories=勇毅
+|description=你比一般的枪手更为勇毅。
+|prerequisites=【勇毅】职业特性或业余枪手专长。
+|benefit=你每天获得2点额外勇毅点，你的勇毅点上限增加2点。
+|normal=如果你是一个枪手，你每天获得等同你感知调整值的勇毅点，同时这也是你的勇毅点上限值。如果你拥有[[业余枪手]]专长，你每天获得1点勇毅点，而你的勇毅点上限等于你的感知调整值。
+|special=如果你拥有枪手职业等级，你可以选择这个专长多次。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

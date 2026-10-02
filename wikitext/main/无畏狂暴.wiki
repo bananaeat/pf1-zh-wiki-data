@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=无畏狂暴
+|english_name=Fearless Rage
+|type=Ex
+|class=掉链野蛮人
+|benefit=野蛮人免疫[[战栗]]和惊惧（但不包括恐慌）。野蛮人至少要达到12级才能选择此狂暴之力。
+|classic=无惧狂暴
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

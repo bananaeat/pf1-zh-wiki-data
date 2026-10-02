@@ -1,0 +1,11 @@
+{{Feat
+|name=额外援助
+|english_name=Exceptional Aid
+|categories=团队
+|pfs=否
+|description=你总是准备好给予你伙伴帮助。
+|prerequisites=[[心灵羁绊]]。
+|benefit=当你成功使用协助他人动作来为一名盟友的技能检定提供帮助时，且该盟友也同样拥有该专长的话，该加值可为+4而非+2。
+|source_name=遥远世界
+|source_url=https://pf1chm.pages.dev/topics/zh2d61c49a80.htm
+}}

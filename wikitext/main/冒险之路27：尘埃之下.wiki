@@ -1,0 +1,41 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #27: What Lies in Dust
+|authors=Michael Kortes
+|pages=96
+}}
+
+{{书页/简介|head=秘密永不死|1=
+在西冠城（Westcrown），黑暗带来恐惧与死亡，夜晚被一道可怕诅咒的产物所萦绕。为了让这座城市摆脱数十年来的祸害，PC 们必须揭开一桩被埋藏已久的秘密和一件封存多年的宝藏。他们的旅程会让他们与西冠城地下世界的渣滓、闹鬼之夜的居民，乃至地狱本身的力量为敌——一切只为唤醒早已死去的灵魂的记忆，它们仍有故事要讲。然而这些灵魂所揭示的，或许比这座城市的午夜诅咒更加致命。
+
+本册《冒险之路》内容包括：
+
+* 《尘埃之下》，一部面向 5 级角色的开拓者冒险，作者 Michael Kortes。
+* 关于格拉利昂最令人畏惧的执法者——臭名昭著的[[地狱骑士团]]——的内情与加入规则，作者 F. Wesley Schneider。
+* [[探索者协会]]从格拉利昂各地搜罗来的各式奇珍异宝，作者 Craig Shackleton。
+* Radovan 的黑帮往事不幸重现，「探索者日志」的最新一章，作者 Dave Gross。
+* 七种新怪物，作者 David Eitelbach、F. Wesley Schneider、Hank Woon。
+}}
+
+'''冒险之路27：尘埃之下'''（''Pathfinder #27: What Lies in Dust''）是[[冒险之路]]「盗贼议会」系列的第三部冒险，由 Michael Kortes 撰写，配套文章出自 David Eitelbach、F. Wesley Schneider、Craig Shackleton 和 Hank Woon，小说出自 Dave Gross，于 2009 年 12 月 9 日发售。
+
+== 目录 ==
+本册《冒险之路》概述了[[探索者协会]]失落的宝藏与流传的秘闻，还收录了「盗贼议会」冒险之路所在地切利亚斯的[[地狱骑士团]]的历史与指南。再加上畅销作家 Dave Gross《地狱之卒》（Hell's Pawns）的第三部分，使这一期成为任何奇幻 RPG 藏书中不可或缺的一册。
+{{书页/目录|1=
+前言 @ 4
+尘埃之下 @ 6
+探索者的宝藏 @ 52
+[[地狱骑士团]] @ 60
+探索者日志：地狱之卒（3／6） @ 70
+怪物图鉴 @ 88
+预设角色 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=What Lies in Dust
+|releases=PDF¦PZO9027E¦2009-12¦；Softcover¦PZO9027¦2009-12¦978-1-60125-197-8
+}}
+
+[[分类:书目]]

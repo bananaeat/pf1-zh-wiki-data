@@ -1,0 +1,9 @@
+{{Trait
+|name=围攻防御者
+|english_name=Siege Defender
+|type=战斗
+|description=奥罗登教会艾巴萨罗姆的人们用恰当的准备和协作在任何围攻中生存下来，而这些教义已传授于你。当你处于居高临下攻击一个目标时你在近战伤害掷骰上获得+1背景加值。
+|source_name=秘术选集Arcane Anthology
+|source=Arcane Anthology
+|source_url=https://pf1chm.pages.dev/topics/zhe6bf0e12f5.htm
+}}

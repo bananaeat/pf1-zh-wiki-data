@@ -1,0 +1,16 @@
+{{Spell
+|name=怪物晕眩术
+|english_name=Daze Monster
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=召唤师 1;召唤师（掉链） 1;催眠师 2;吟游诗人 2;奥能师 2;女巫 2;异能者 2;术士 2;歌者 2;法师 2;秘学士 2;血脉狂怒者 2;通灵者 2
+|action=标准动作
+|components=语言;姿势;材料（一撮羊毛或类似物质）
+|range=中距
+|target=一个HD为6或更少的活物
+|duration=1轮
+|save=意志，通过则无效
+|sr=是
+|description=该法术的功能如同[[晕眩术]]一般，不过它能够影响一个任何种类的活物。具有7个或更多HD的生物不受影响。
+|source=核心规则书
+}}

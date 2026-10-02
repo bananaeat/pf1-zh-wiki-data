@@ -1,0 +1,16 @@
+{{Feat
+|name=大合奏
+|english_name=Compelling Harmonies
+|categories=团队
+|description=你的协奏技艺甚至可以加强盟友的魔法。
+|prerequisites=[[合奏]]，[[表演]]（键盘、打击、演唱、弦乐、吹奏）10级，吟游表演或战怒之歌职业能力
+|benefit=以一个[[标准动作]]，你可以花费你一轮表演来增强60尺内队友的表演效果（同样拥有该专长）。直到你的下回合开始，如果该盟友的表演需要进行豁免，则该豁免的DC+2。
+|source=CaC
+|source_name=部属与伙伴
+|source_url=https://pf1chm.pages.dev/topics/page_1347.html
+}}
+
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[华彩合奏]]（1 个条目）

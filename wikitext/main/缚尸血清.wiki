@@ -1,0 +1,17 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=缚尸血清
+|english_name=Necrobinding Serum
+|aon=MagicWondrousDisplay.aspx?FinalName=Necrobinding Serum
+|cat=奇物
+|aura=微弱死灵系
+|cl=7
+|slot=无
+|price=700 gp
+|description=这种效力强大的炼金血清提炼自一具有智慧的有实体不死生物的躯体，他渴望对自己的不死生物仆从建立绝对的控制。在一场邪恶的仪式中，制造者把自己的血肉蜕入预先备好、盛满神秘草药的容器，血肉在其中溶解，并与从他体内抽出的体液一同发酵。
+
+制成之后，制造者可以把这些液体注射进一个不死生物体内；如果该不死生物正处于[[命令死灵(法术)|命令死灵]]法术的影响之下，他就能控制它7天。
+|req=[[制造奇物]]、[[命令死灵(法术)|命令死灵]]，制造者必须是不死生物
+|cost=350 gp，28 XP
+|source=探索者模组：Hungry are the Dead
+}}

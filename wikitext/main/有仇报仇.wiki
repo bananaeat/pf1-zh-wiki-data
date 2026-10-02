@@ -1,0 +1,13 @@
+{{Feat
+|name=有仇报仇
+|english_name=Ancestral Enmity
+|categories=战斗
+|pfs=否
+|description=你能够克制矮壮种族针对你们这类生物所受的特殊防御训练。
+|prerequisites=巨人生物亚种
+|benefit=你在对矮人或侏儒发动的近战攻击检定上获得+2加值。
+|special=你可以选择本专长两次，其效果叠加。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1403.html
+}}

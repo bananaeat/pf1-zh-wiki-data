@@ -1,0 +1,10 @@
+{{Trait
+|name=穴居者
+|english_name=Surface Stranger
+|type=地区
+|prerequisites=地下
+|description=你在缺少甚至没有阳光的地下出生长大。自然或魔法黑暗带来的[[隐蔽]]或[[全隐蔽]]效果给你造成的失手率降低10%。当你突然置身于强光下将会[[目眩]]1轮。
+|source_name=地区背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

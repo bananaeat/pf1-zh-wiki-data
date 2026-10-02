@@ -1,0 +1,16 @@
+<noinclude>{{速查导航|here=规则}}
+'''改变外形'''（Change Shape）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Su</span><span class="sk-f">位置：特性，如果有特殊能力会单独列出</span></div>
+</noinclude><includeonly><div class="lang"><span id="改变外形"></span><div class="lang-h"><b>[[改变外形]]</b><i>Change Shape</i><span class="lang-w">Su · 特性，如果有特殊能力会单独列出</span></div><div class="lang-d"></includeonly>
+拥有此特质的生物获得将外貌改变成一个特定生物或者某种类型生物 (通常是类人生物) 的能力，但保留其大部分自身的物理特性。除非特殊说明，该生物不能使用改变外形能力变成体型比原有体型大或者小超过 1 级的样子。这个能力的作用如同变形法术，具体是哪一种会在生物描述中列出，但是该生物不会调整自己的属性值 (尽管他获得了所模仿生物的其他能力)。某些生物，例如兽化人，可以通过变成独一无二的形态获得特殊调整值和能力。这些生物确实会调整自己的属性值，如其描述所列。
+
+'''格式'''：改变外形 (狼，[[野兽形态 I]])
+<includeonly></div></div></includeonly>
+
+{{FAQ|v5748eaic9nc1}}
+
+<noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Change Shape|2=Change Shape}}
+
+[[分类:通用怪物规则]]</noinclude>

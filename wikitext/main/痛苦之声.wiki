@@ -1,0 +1,16 @@
+{{Spell
+|name=痛苦之声
+|english_name=Distressing tone
+|school=塑能系
+|tags=音波
+|levels=吟游诗人 2;审判者 2;歌者 2
+|action=1轮
+|components=语言;姿势
+|range=近距
+|target=1d4名活物
+|duration=1轮/等级
+|save=强韧，通过则无效
+|sr=是
+|description=你制造了一次强有力的声波以震荡活物的内脏。目标必须进行一次强韧检定否则陷入[[恶心]]状态。免疫重击的生物也免疫该法术。
+|source=极限魔法
+}}

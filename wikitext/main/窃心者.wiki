@@ -1,0 +1,11 @@
+<noinclude>{{消歧义|窃心者(怪物)}}</noinclude>
+{{Feat
+|name=窃心者
+|english_name=Intrusive Presence
+|description=你能够窃取宿主的思维和记忆。
+|prerequisites=智力或魅力21，[[隐藏者]]，[[操控者]]，施放占据术或高等占据术的能力
+|benefit=你能够以类法术能力随意使用[[侦测思想]]对抗你所占据的宿主生物。宿主无法进行豁免，而且法术效果就如同你已经维持了3轮的专注一般。在占据宿主期间，你还可以以类法术能力对它使用一次[[探寻思想]]（APG）。宿主能够尝试一次意志豁免，豁免DC为原占据效果的DC。若宿主豁免成功，该效果便会失败，而且如果宿主原先没有注意到自身被占据的话，此时也会意识到这一点。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=原始人
+|english_name=Savage
+|type=社会
+|description=你出生长大在远离文明的蛮荒之地。你学会如何在野人和野兽遍布的环境中生存。你的知识(自然)检定和在荒野的生存检定获得+1背景加值。知识(自然)总是你的[[本职技能]]。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=撼地部落战旗
+|english_name=Banner of the Rushing Horde
+|aon=MagicWondrousDisplay.aspx?FinalName=Banner of the Rushing Horde
+|cat=奇物
+|aura=中等变化系
+|cl=10
+|slot=无
+|price=60,000 gp
+|weight=5磅
+|description=撼地部落战旗是一面破旧的布旗，通常宽3尺、长6尺，绘有某个兽人部落或部队的徽记或标志。它可以挂在旗杆上由人举持，可以固定在插入地面的旗杆上，也可以挂在巨兽的挽具上。旗帜60尺内的盟友获得精通冲撞和精通闯越专长的好处。如果旗帜被插在地上，则不需要旗手；但如果它被敌人推倒或碰触，就会失去效力，直到其主人一方的盟友重新夺回并重新插好为止。
+|req=[[制造奇物]]、[[牛之力量]]
+|cost=30,000 gp
+|source=怪物志
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=铸魔师
+|english_name=Magic Crafter
+|type=魔法
+|description=你的早年魔法训练包括对物质本质的探索、和对魔法物品的创造。你的[[估价]]检定获得+1背景加值，制作魔法物品时进行的工艺检定获得+1加值。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=饱经风霜的耐心
+|english_name=Weathered Patience
+|type=种族
+|prerequisites=[[人类]]（凯利德人）
+|description=你已懂得控制住你的注意力以在荒野中生存。每天1次，当你以[[准备动作]]进行远程或近战武器攻击时，此攻击能获得+4背景加值。
+|source_name=内海种族
+|source=Inner Sea Races
+|source_url=https://pf1chm.pages.dev/topics/zh3a98986c0e.htm
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=天生丽质
+|english_name=Natural Charmer
+|description=你掌握了一些吸血鬼先祖的控制之力。
+|prerequisites=[[魅力]] 17，吸血裔。
+|benefit=当你使用任何基于魅力的技能吸引、劝说、说服或引诱人形生物时可以取20，这些生物对你的态度至少需要友善。取20依旧需要20倍于正常的时间执行技能。
+|normal=你不能在任何失败后会遭受惩罚的技能检定上取20。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

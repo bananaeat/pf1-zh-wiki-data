@@ -1,0 +1,9 @@
+{{Trait
+|name=瞬击大师
+|english_name=Master of the Sudden Strike
+|type=种族
+|prerequisites=[[人类]]（天夏人）
+|description=你精通族人致命的战斗技艺，当持用任何精制品剑类武器时，能达到人剑合一之境。若在[[突袭]]轮中先于对手行动，你在该轮的武器伤害骰上获得+2背景加值。此额外伤害属于精准伤害。
+|source_name=格拉里昂的人类
+|source_url=https://pf1chm.pages.dev/topics/page_1581.html
+}}

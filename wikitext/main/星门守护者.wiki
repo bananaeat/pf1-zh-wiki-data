@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 199），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=星门守护者
+|english_name=Castrovel Gatekeeper
+|type=种族
+|prerequisites=拉申塔人
+|description=你曾协助维护那些用于与其他世界进行贸易的星际传送门。你为辨识传送魔法而进行的[[法术辨识]]检定获得+2背景加值，并且你在施放传送法术时进行的施法者等级检定获得+1背景加值。你知道操作某一座特定星际传送门的正确指令（这座传送门位于何处、如何运作，由GM决定）。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Castrovel%20Gatekeeper
+}}

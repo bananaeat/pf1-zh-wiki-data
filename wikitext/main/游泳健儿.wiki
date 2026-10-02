@@ -1,0 +1,9 @@
+{{Trait
+|name=游泳健儿
+|english_name=Strong Swimmer
+|type=宗教
+|prerequisites=信仰[[哥兹莱]]
+|description=你对[[哥兹莱]]的信仰让你游泳时毫无畏惧。你的游泳获得+2背景加值，而且你可以在水下多闭气2轮。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

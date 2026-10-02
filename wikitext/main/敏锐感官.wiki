@@ -1,0 +1,15 @@
+{{Spell
+|name=敏锐感官
+|english_name=Acute senses
+|school=变化系
+|levels=吟游诗人 2;审判者 2;异能者 2;歌者 2;游侠 2;炼金术师 2;猎人 2;调查员 2
+|action=标准动作
+|components=语言;姿势;材料（一块玻璃透镜）
+|range=接触
+|target=接触到的目标
+|duration=1分钟/等级
+|save=意志，通过则无效（无害）
+|sr=是
+|description=目标的察觉检定获得+10增强加值。加值在施法者等级到达8时变为+20，在16级时+30 （最大）。
+|source=极限魔法
+}}

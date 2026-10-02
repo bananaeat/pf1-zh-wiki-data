@@ -1,0 +1,15 @@
+{{Spell
+|name=幻灵复原术
+|english_name=Restore eidolon
+|school=咒法系 (医疗)
+|levels=召唤师 3;召唤师（掉链） 3
+|action=1分钟
+|components=语言;姿势;材料（价值100gp或1000gp的钻石尘，详见描述）
+|range=接触
+|target=接触到的幻灵
+|duration=立即
+|save=意志，通过则无效（无害）
+|sr=是
+|description=该法术如同[[复原术]] 一般作用，不过只影响一个[[幻灵]]。
+|source=极限魔法
+}}

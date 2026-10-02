@@ -1,0 +1,11 @@
+{{Feat
+|name=野蛮飞跃
+|english_name=Savage Leap
+|categories=战斗
+|description=你抱着敌人跳到天上然后把他砸在地下。
+|prerequisites=[[精通擒抱]]，[[精通徒手打击]]，[[野蛮摔投]]，基本攻击加值+12或武僧10级
+|benefit=当你使用[[野蛮摔投]]，你可以让你自身和目标在松开[[擒抱]]前移动至多你移动速度一半的距离。你会因这次移动引起[[借机攻击]]，但是你的目标不会。如果你的目标受到了野蛮摔投的伤害，目标[[战栗]]1轮。如果你用此专长在使用野蛮摔投前进行了移动，你会陷入[[措手不及]]，直到你的下个回合开始。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/zh0ff052e72d.htm
+|source=MAH
+}}

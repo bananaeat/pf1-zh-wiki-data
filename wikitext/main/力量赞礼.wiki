@@ -1,0 +1,9 @@
+{{Trait
+|name=力量赞礼
+|english_name=Strength's Fanfare
+|type=宗教
+|prerequisites=信仰[[库尔吉斯]]
+|description=歌颂你的光辉事迹和高超技艺的歌曲鼓舞你的力量。当你成为任何在攻击检定或伤害骰上给予士气加值的音波效果的目标时，你在基于力量的技能检定、用于[[冲撞]]、[[擒抱]]和[[移位]]的[[战技]]检定，以及对抗这些战技的CMD上也获得+1背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

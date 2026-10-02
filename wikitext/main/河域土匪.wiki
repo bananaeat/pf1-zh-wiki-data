@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 18），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=河域土匪
+|english_name=Bandit
+|type=地区
+|prerequisites=河域诸国
+|description=你从小就是河域诸国某个土匪团伙的成员。从下列技能中选择一项：[[脱逃]]、[[威吓]]或[[隐匿]]。你的该技能获得+1背景加值，且它对你而言总是本职技能。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Bandit
+}}

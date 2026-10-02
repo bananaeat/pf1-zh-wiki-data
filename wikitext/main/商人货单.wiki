@@ -1,0 +1,50 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Merchant's Manifest
+|authors=John Compton、Eleanor Ferron、Thurston Hillman、Nathan King、Isabelle Thorne、Jacob W. Michaels、Adrian Ng、David N. Ross、Mike Welham
+|pages=32
+}}
+
+{{书页/简介|head=每座城镇都有纪念品！|1=
+有人说金钱让世界运转，而格拉利昂的商人让这成为现实。《开拓者玩家伴侣：商人货单》以重要的贸易中心——艾巴萨罗姆（Absalom）、过峡（Goka）、卡塔佩什（Katapesh）等——为视角审视商业，精明的买家能在这些地方购得无数精良货品。无论你想买一件稀有物品、受雇于某个贸易组织，还是想靠自己闯出一番财富，这本面向玩家的书册都是你成功的钥匙。
+
+本书内容包括：
+
+* 纵览格拉利昂 17 个主要商业中心，包括阿维斯坦（Avistan）的卡索米尔（Cassomir）与冰港（Port Ice）、加伦德（Garund）的阿努利（Anuli）与基布韦（Kibwe）、卡斯马隆（Casmaron）的阿耳克尔（Ular Kel），以及天夏（Tian Xia）的过峡与奥尔杜-阿甘海（Ordu-Aganhei）等重要定居点。
+* 数十件源自这些重要地点的魔法武器与护甲、凡俗物品和奇物，以及它们通常在哪些市场出售的信息。
+* 面向商人、受雇于商人，或个人经历与商业相关的角色的变体职业与其他职业选项。
+}}
+
+'''商人货单'''（''Merchant's Manifest''，全名 ''Pathfinder Player Companion: Merchant's Manifest''）是开拓者玩家伴侣系列的一本资料书，由 John Compton、Eleanor Ferron 等 9 位作者撰写，于 2018 年 3 月 28 日发行。
+
+== 目录 ==
+{{书页/目录|1=
+导言 @ 2
+规则索引 @ 3
+艾巴萨罗姆 @ 4
+艾利索斯 @ 6
+阿努利 @ 7
+卡利法斯 @ 8
+卡索米尔（Cassomir） @ 9
+过峡 @ 10
+依艾达拉 @ 12
+喀斯嘉德 @ 13
+卡塔佩什 @ 14
+卡希尔 @ 16
+克尔瑟（Kerse） @ 18
+基布韦（Kibwe） @ 20
+玛格尼玛 @ 21
+奥尔杜-阿甘海（Ordu-Aganhei） @ 23
+冰港（Port Ice） @ 25
+森格霍尔 @ 26
+阿耳克尔 @ 27
+商人公司 @ 28
+}}
+
+{{书页尾
+|pfw=Merchant's Manifest
+|releases=Softcover¦PZO9489¦2018-03¦978-1-64078-026-2；PDF¦PZO9489E¦¦
+}}
+
+[[分类:书目]]

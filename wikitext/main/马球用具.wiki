@@ -1,0 +1,9 @@
+{{装备
+|name=马球用具
+|english_name=Polo gear
+|cat=娱乐
+|price=5 sp
+|weight=5磅
+|description=这套用具包括皮制头盔、长柄槌以及1个木球。
+|source=极限宝具
+}}

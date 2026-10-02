@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=霜野辔
+|english_name=Frostwild Bridle
+|aon=MagicWondrousDisplay.aspx?FinalName=Frostwild Bridle
+|cat=奇物
+|aura=中等塑能系
+|cl=9
+|slot=头部
+|price=48,000 gp
+|weight=2磅
+|description=当这条镶嵌水晶的白色皮革辔头戴在马或类似的坐骑身上时，那头动物的双眼会放出明亮的天蓝色光芒，毛发也会闪烁着魔法的霜华。霜野辔为其穿戴者提供寒冷抗力20。此外，每日三次，在骑手的命令下，戴着霜野辔的动物可以喷出一道60尺锥形的寒霜，对区域内所有生物造成9d6点寒冷伤害；通过DC 17的反射豁免则伤害减半。
+|req=[[制造奇物]]、[[寒冰锥]]、[[抵抗能量伤害]]
+|cost=24,000 gp
+|source=荒野英雄
+}}

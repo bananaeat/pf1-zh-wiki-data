@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=好运|en=Good Fortune|type=Ex|domain=机运领域|source=核心规则书|text=在6级时，你可以用一个[[直觉动作]]重掷刚投的一次d20投骰，但必须在宣告投骰带来的结果前使用。你必须接受重掷的结果，即便比原本的结果更差。在6级时你每日可使用此能力1次，之后每6级牧师等级再增加1次。　}}<noinclude>
+
+[[分类:领域]]</noinclude>

@@ -1,0 +1,10 @@
+{{Feat
+|name=跨界法术
+|english_name=Ectoplasmic Spell
+|categories=超魔
+|description=你的法术能够冲破维度的障壁，将鬼魅般的力量投射入虚空。
+|benefit=跨界法术能够对[[虚体]]或者灵界生物造成完整的效果。跨界法术占用比法术的实际环级高1环的法术位。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

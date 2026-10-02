@@ -1,0 +1,11 @@
+{{Feat
+|name=坚定坐骑
+|english_name=Resolute Steed
+|aon=无
+|categories=技巧
+|description=你的勇敢甚至可以激发出你的坐骑的英勇。
+|prerequisites=驯养动物 5级。
+|benefit=选择一种你可以作为坐骑骑乘的动物，并且你在此之前总共骑了超过一小时。当你骑着它时，此生物在对抗恐惧和情绪效果的豁免检定上获得+4士气加值，并且不受生物的反自然灵光效果的影响。另外，当你骑着它时，如果它受到伤害或受到[[非致命伤害]]或[[属性伤害]]时，使用[[驯养动物]]技能强迫该动物的DC不会增加。你可以更换接受此专长的动物，但每周只能进行一次。
+|source_name=其他职业
+|source_url=https://pf1chm.pages.dev/topics/page_1210.html
+}}

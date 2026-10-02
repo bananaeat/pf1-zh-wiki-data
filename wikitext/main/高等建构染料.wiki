@@ -1,0 +1,10 @@
+<noinclude>{{炼金术师导航}}
+'''高等建构染料'''（Greater Constructive Dyes）是[[炼金术师]]的[[科研发现]]。
+
+</noinclude>{{Source|格拉利昂的英雄|Heroes of Golarion|inline}}
+
+炼金术师扩展了他能够使用建构染料创造的物品范围。炼金术师在使用[[建构染料]]科研发现时可以额外消耗一次炼金炸弹使用次数，制造物品如同[[强效造物术]]。炼金术师必须达到10级且已选取建构染料和[[神墨]]科研发现才能选取该科研发现。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh100d7e2e9c.htm 原文]）。全部科研发现见 [[:分类:科研发现|分类:科研发现]]。
+
+[[分类:科研发现]]</noinclude>

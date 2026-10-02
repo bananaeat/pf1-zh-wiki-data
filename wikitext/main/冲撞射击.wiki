@@ -1,0 +1,12 @@
+{{Feat
+|name=冲撞射击
+|english_name=Impact Critical Shot
+|categories=战斗;重击
+|description=随着一系列远程攻击，你命中敌人的膝盖，或者将他们击退。
+|prerequisites=敏捷13，[[近距射击]]，基本攻击加值+9。
+|benefit=每当你用远程武器造成了一次重击，除了造成正常伤害，如果你的重击确认骰超过目标的[[CMD]]，你可以像使用[[冲撞]]战技一样将他击退，或是像使用[[摔绊]]一样将他们击倒。如果你选择冲撞，你不会和目标一起移动。你这次战技动作不会触发[[借机攻击]]。
+|normal=如果要冲撞对手，你必须单独进行一次冲撞检定，摔绊亦然。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

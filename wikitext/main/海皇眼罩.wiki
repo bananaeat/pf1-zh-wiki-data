@@ -1,0 +1,14 @@
+{{魔法物品
+|name=海皇眼罩
+|english_name=Sea Tyrant's Patch
+|aon=MagicWondrousDisplay.aspx?FinalName=Sea Tyrant's Patch
+|cat=奇物
+|aura=强烈惑控系
+|cl=15
+|slot=眼部
+|price=70,000 gp
+|description=这只华丽的丝质眼罩用金线绣成，并镶嵌着珍珠，图案象征漩涡。它是冷酷无情或格外有野心的海盗船长最爱的眼罩。佩戴者持续受到[[海洋之触]]（《进阶玩家手册》）和水下呼吸法术的影响。此外，每天一次，通过命令，佩戴者可以如同法术一样使用[[群体魅惑怪物]]。
+|req=[[制造奇物]]、[[群体魅惑怪物]]、[[海洋之触]]、[[水下呼吸]]
+|cost=35,000 gp
+|source=极限宝具
+}}

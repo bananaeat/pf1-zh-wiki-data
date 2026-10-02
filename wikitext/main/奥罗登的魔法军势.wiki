@@ -1,0 +1,15 @@
+{{Spell
+|name=奥罗登的魔法军势
+|english_name=Aroden's magic army
+|school=变化系
+|levels=奥能师 7;术士 7;法师 7;萨满 8
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=远距（400尺+40尺/等级）
+|target=由盟友携带的武器
+|duration=1小时/等级
+|save=意志，通过则无效（无害，物品）
+|sr=是（无害，物品）
+|description=你向距离内盟友携带的所有人造武器都灌注入魔法，让每一把武器在攻击骰和伤害骰上获得每5施法者等级+1的增强加值（最多+4）。
+|source=秘术选集
+}}

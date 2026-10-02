@@ -1,0 +1,16 @@
+<noinclude>{{速查导航|here=规则}}
+'''弗米蚁族特性'''（Formian Traits）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex 或 Su</span></div>
+</noinclude><includeonly><div class="lang"><span id="弗米蚁族特性"></span><div class="lang-h"><b>[[弗米蚁族特性]]</b><i>Formian Traits</i><span class="lang-w">Ex 或 Su</span></div><div class="lang-d"></includeonly>
+弗米蚁族是一个类似昆虫的太空种族，来自一个森林世界，热衷于对其他世界进行侵略性的殖民。弗米蚁族具有以下特性（除非在生物条目中另有说明）：
+
+* [[黑暗视觉]] 60 尺，[[盲感]] 30 尺。
+* '''群体思维（Hive Mind，Ex）'''：弗米蚁族与他们蜂巢的其他成员共享心灵，从而增强了他们群体的感知能力。只要一个弗米蚁族在心灵感应范围内至少有一个蜂巢成员，它在先攻检定和[[察觉]]检定上获得 +4 种族加值。如果至少一个弗米蚁族不相信一个幻觉，那么其感应范围内所有弗米蚁族也不相信幻觉。如果一个弗米蚁族意识到了战斗人员的存在，那么感应范围内的所有其他成员也意识到了这些战斗人员。
+* [[抗性]] 音波 10。
+* '''心灵施法者（Telepathic Caster，Ex）'''：由于弗米蚁族的心灵感应天赋，如果它施放法术，那么它将以类法术能力的形式施放。
+* [[心灵感应(怪物能力)|心灵感应]] 60 尺。
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Formian Traits|2=Formian Traits}}
+
+[[分类:通用怪物规则]]</noinclude>

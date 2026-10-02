@@ -1,0 +1,17 @@
+{{武器
+|name=铁骨扇
+|english_name=Fighting fan
+|category=武器
+|prof=异种
+|wcat=轻型
+|price=5 gp
+|weight=—
+|dmg_s=1d3
+|dmg_m=1d4
+|crit=×3
+|type=穿刺
+|special=虚实，武僧
+|groups=贴身，武僧
+|description=铁骨扇仿照朝臣所持的折扇制成，在精钢铸成的折叠扇骨上蒙有绸纸。铁骨扇通常成对使用，以扰乱对手。它的扇骨通常会修出尖头，并可能喂毒。
+|source=极限战斗、极限宝具
+}}

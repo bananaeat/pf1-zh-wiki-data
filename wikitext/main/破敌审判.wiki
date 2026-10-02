@@ -1,0 +1,11 @@
+{{Feat
+|name=破敌审判
+|english_name=Baneful Judgment
+|categories=战斗
+|description=你对一名特定的敌人做出审判。
+|prerequisites=破敌职业能力，审判职业能力，怪物学识职业能力
+|benefit=你可以以一个迅捷动作对一个敌人宣告一项特殊的审判。宣告此审判时，你尝试一次知识检定以辨识目标，如果你此前已经辨识过该生物，依照之前的检定结果。当你成功辨识目标，你可以消耗1轮破敌并选择除治疗审判外的另一个审判。你在1轮内对目标获得此审判的好处，知识检定每超过DC 5点延长1轮。后续使用的审判无法与本能力叠加。一名敌人在24小时内不能重复成为本能力的目标。
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh03ef2e8763.htm
+}}

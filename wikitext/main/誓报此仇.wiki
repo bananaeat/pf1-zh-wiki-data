@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Antihero's Handbook pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=誓报此仇
+|english_name=Vengeful (Social)
+|type=社会
+|description=你曾遭受残忍的背叛，并已立誓一心复仇。从下列名单中选择一个不属于你自己的类人生物亚种：矮人、精灵、侏儒、半身人或人类。你对具有该亚种的生物进行的[[威吓]]检定获得+2背景加值。
+|source_name=反英雄手册
+|source=A'sH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Vengeful%20%28Social%29
+}}

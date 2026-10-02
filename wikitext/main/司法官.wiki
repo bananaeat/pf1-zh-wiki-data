@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Champions of Balance pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=司法官
+|english_name=Justiciar
+|type=地区
+|prerequisites=拉哈多姆
+|description=你在诠释和运用法律学说——尤其是人治律——方面经验丰富，且不依赖任何神授之命。为解决纠纷或裁决法律而进行的[[交涉]]和[[知识]]（本地）检定获得+1背景加值。每天一次，如果你成功以[[威吓]]检定对一名拒绝接受或无视你所宣布判决的敌人挫败士气，你可以选择让该生物陷入[[恶心]]而非[[战栗]]状态。效果的持续时间不变。
+|source_name=平衡勇士
+|source=CoB
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Justiciar
+}}

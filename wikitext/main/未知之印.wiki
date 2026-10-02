@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Bastards of Golarion pg. 19），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=未知之印
+|english_name=Marked by Unknown Forces
+|type=社会
+|pfs=否
+|description=那股为你打上力量印记的存在，也给了你可以向他人展示的证据。你每天可以使用3次类法术能力[[光亮术]]，但此能力只能以你的手掌为目标，并显现为一个代表你不祥出身的发光印记——一个圣徽或邪徽、一个恶魔符号，或是由你和GM共同确定的某种其他独特标记。认得这个符号的人对你的初始态度会向友善靠近一级（如果他们是该符号的追随者或研究它的学者），或向敌对靠近一级（如果他们反对该符号或其追随者）。
+|source_name=格拉利昂的混种
+|source=BoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Marked%20by%20Unknown%20Forces
+}}

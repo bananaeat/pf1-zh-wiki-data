@@ -1,0 +1,9 @@
+{{装备
+|name=马厩
+|english_name=Stabling (per day)
+|cat=动物装备
+|price=5 sp／日
+|weight=—
+|description=此处列出的价格是让大型或更小的单个生物，寄放在最普通的马厩中并有马夫照料1日的价格。对于比较高档的马厩来说价格更高，对于更大或者奇特的生物来说价格也会翻倍。
+|source=核心规则书、极限宝具
+}}

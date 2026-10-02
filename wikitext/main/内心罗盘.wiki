@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Plane-Hopper's Handbook pg. 3），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=内心罗盘
+|english_name=Internal Compass
+|type=魔法
+|description=即使身处方向只是相对概念的位面，你也能保持方向感。如果你所处的位面没有能对应北方的方向，你会自动知道通往该位面主要标志性地物的方向（例如骨园中的[[法莱斯玛]]尖塔，或是涅槃境中的太阳）。如果该位面没有这样的标志性地物，你则会知道距你最近、对该位面某位神祇或半神具有重要意义的地物的方向。
+|source_name=位面旅者手册
+|source=PH'sH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Internal%20Compass
+}}

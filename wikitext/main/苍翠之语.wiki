@@ -1,0 +1,10 @@
+{{Feat
+|name=苍翠之语
+|english_name=Green Tongue
+|description=你了解植物们的语言。
+|prerequisites=魅力 13，角色等级5，伽瑟兰
+|benefit=每日一次，你可以以类法术能力施展植物交谈。在10级及之后每5级，每日你可以额外施展一次植物交谈。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/page_814.html
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=白蛇吐信
+|english_name=Snake Fang
+|categories=战斗
+|description=你能在敌人防御松懈时发动迅击。
+|prerequisites=[[精通徒手打击]]，[[腾蛇]]，[[蛇行]]，[[战斗反射]]，[[特技]]6级，察言观色9级。
+|benefit=你使用[[蛇拳]][[流派]]架势时，如果一个敌人对你的一次攻击失手了，你可以对他做一次[[借机攻击]]。如果该次借机攻击命中，你可以用[[直觉动作]]对此对手再进行一次[[徒手打击]]。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

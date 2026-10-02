@@ -1,0 +1,12 @@
+{{消歧义|巨人杀手 (消歧义)}}
+{{Feat
+|name=巨人杀手
+|english_name=Giant Killer
+|categories=战斗
+|description=你如风般的劈砍威胁着巨人以及其他体型巨大的敌人。
+|prerequisites=力量13，[[顺势斩]]，[[地精切裂者]]，[[兽人屠戮者]]，[[猛力攻击]]，[[回击]]，基本攻击加值+11，矮人。
+|benefit=该专长如同[[地精切裂者]]一般作用，但是你的额外攻击能够用于攻击比你体型大一级或更小的生物。此外，当你用这些攻击对抗类人生物（巨人）时，攻击检定获得+2环境加值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

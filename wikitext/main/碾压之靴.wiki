@@ -1,0 +1,15 @@
+{{魔法物品
+|name=碾压之靴
+|english_name=Crashing Boots
+|aon=MagicWondrousDisplay.aspx?FinalName=Crashing Boots
+|cat=奇物
+|aura=中等变化系
+|cl=8
+|slot=脚部
+|price=8,800 gp
+|weight=2磅
+|description=这双厚重结实的靴子用[[戈斯兽]]的皮制成，穿戴者[[冲锋]]时的攻击检定获得+2增强加值。此外，每天一次，当穿戴者的一次攻击击中一个大型或更小的生物时，他可以将敌人击飞10尺。敌人必须沿着远离穿戴者的直线被抛出，并在移动结束时[[俯卧]]落地。若有障碍物阻止了对手完成这段移动，则对手与障碍物各受到1d6点伤害，对手在与障碍物相邻的空间被击倒俯卧。
+|req=[[制造奇物]]、[[牛之力量]]、[[变巨术]]
+|cost=4,400 gp
+|source=怪物志
+}}

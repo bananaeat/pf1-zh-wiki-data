@@ -1,0 +1,8 @@
+<includeonly>{{Mbox|border=info|type=protected|text =本模板已经被保护。}}</includeonly><noinclude>{{优质模板|功能}}{{documentation}}[[Category:huiji template]]</noinclude><noinclude>
+<templatedata>
+{
+	"params": {},
+	"description": "本模版用于在页面起始部位或者任意章节开始处插入{{保护}} 来标记当前页面已经被保护。\n详细信息与案例请前往https://templatemanager.huijiwiki.com/wiki/%E6%A8%A1%E6%9D%BF:%E4%BF%9D%E6%8A%A4"
+}
+</templatedata>
+</noinclude>

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Sargava, the Lost Colony pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=亲殖民者
+|english_name=Colonial Sympathizer
+|type=种族
+|prerequisites=[[人类]]（芒吉人）
+|description=你的行为深受萨迦瓦殖民者的影响。在涉及萨迦瓦殖民者以及其他拥有此背景特性之人时，你的[[唬骗]]和[[交涉]]检定获得+1背景加值。
+|source_name=萨迦瓦，失落的殖民地
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Colonial%20Sympathizer
+}}

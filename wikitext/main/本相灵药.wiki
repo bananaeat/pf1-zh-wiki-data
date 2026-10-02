@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=本相灵药
+|english_name=Elixir of True Form
+|aon=MagicWondrousDisplay.aspx?FinalName=Elixir of True Form
+|cat=奇物
+|aura=中等防护系
+|cl=8
+|slot=无
+|price=1,600 gp
+|description=这种灵药能移除饮用者身上的所有诅咒和变化效果，包括纳尔-卡舍尔岛的奥术扭曲所造成、或因祖先与乌拉特-基尼不可名状的杂交而获得的非自然突变。这种灵药能阻止[[半鱼人]]变成[[鱼化人]]，但如果半鱼人已经变成了鱼化人，则无法逆转这一转变。只有在纳尔-卡舍尔岛上制造的灵药，才能消除该岛影响所造成的扭曲效果。
+|req=[[制造奇物]]、[[移除诅咒]]
+|cost=800 gp
+|source=从海岸到大海
+}}

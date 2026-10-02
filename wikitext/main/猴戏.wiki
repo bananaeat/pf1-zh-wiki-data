@@ -1,0 +1,4 @@
+<noinclude>{{德鲁伊导航}}
+</noinclude>{{德鲁伊领域能力|name=猴戏|en=Monkey Athletics|type=Su|domain=猿猴领域|source=极限魔法|text=以一个[[自由动作]]，你可以在单次[[特技]]、[[攀爬]]、[[解除装置]]或[[巧手]]检定中得到相当于德鲁伊等级一半（至少为1）的表现加值。你每日可以使用此能力的次数等于“3+[[感知]]调整值”。}}<noinclude>
+
+[[分类:德鲁伊领域]]</noinclude>

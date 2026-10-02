@@ -1,0 +1,15 @@
+{{Spell
+|name=次等仙人掌粹成瘾
+|english_name=Pesh Addiction, Lesser
+|school=死灵系
+|levels=萨希尔·菲恩 3
+|action=1轮
+|components=语言;材料（一剂仙人掌粹乳清）
+|range=近距（25尺+5尺/2等级）
+|target=一个7HD或更少的活物
+|duration=1天/等级或直到完成（可解消）
+|save=意志，通过则无效
+|sr=是
+|description=此法术之运作与次等指使术相似，除了唯一能指使的命令是“吸食仙人掌粹或是精炼仙人掌粹”。
+|source=黑暗市集：卡塔佩什指南
+}}

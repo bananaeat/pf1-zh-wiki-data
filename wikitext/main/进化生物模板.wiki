@@ -1,0 +1,17 @@
+{{速查导航|here=怪物}}
+
+{{怪物模板
+|name=进化生物模板
+|english_name=Advanced Creature
+|kind=获得；简易
+|cr=+1
+|intro=进化生物比它们较为普通的同族更为健硕凶猛。
+|ac=天生护甲加值 +2
+|abilities=所有属性 +4（智力为 2 或更低者除外）
+}}
+
+'''快速规则'''：所有检定（包括伤害检定）和特殊能力 DC +2；AC 和 [[CMD]] +4；每个 HD +2 hp。
+
+{{AoN原文|1=MonsterTemplates.aspx?ItemName=Advanced|2=Advanced}}
+
+[[分类:怪物模板]]

@@ -1,0 +1,9 @@
+<noinclude>'''标志物品'''（With This Sword, Ex）是任意满足先决条件的职业都能选取的[[:分类:巅峰能力|替代巅峰]]。
+
+</noinclude>{{Source|传奇编年史|Chronicle of Legends|inline}}
+
+20级时，角色的兵刃与他本人一同闻名于世。角色选择一件最具标志性且意义重大的物品，例如武器或奥术联结。该物品成为[[次级神器]]且获得价值100000gp的新能力。PL应与GM商议，共同确定新能力，力求令人难忘又契合战役。任何职业均可选取该巅峰。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1501.html 原文]）。全部替代巅峰见 [[典范编年史]]。
+
+[[分类:巅峰能力]]</noinclude>

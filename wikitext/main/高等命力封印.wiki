@@ -1,0 +1,15 @@
+{{Spell
+|name=高等命力封印
+|english_name=Sealed Life, Greater
+|school=防护系
+|levels=唤魂师 6
+|action=标准动作
+|components=姿势
+|range=近距
+|target=一个生物
+|duration=1分钟/等级
+|save=无
+|sr=是
+|description=该法术的功能如同[[命力封印]]一般，不过它还能够额外提供[[防死结界]]的效果，而且还能够使目标获得免疫抽取或转移自身灵魂的效果，比如[[占据术]]和[[锢魂术]]。若目标的灵魂已经离开身体，那么直至法术的持续时间结束为止，该法术还能够防止灵魂返回到它的体内。
+|source=异能冒险
+}}

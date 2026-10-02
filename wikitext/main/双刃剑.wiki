@@ -1,0 +1,17 @@
+{{武器
+|name=双刃剑
+|english_name=Two-bladed sword
+|category=武器
+|prof=异种
+|wcat=双手
+|price=100 gp
+|weight=10磅
+|dmg_s=1d6/1d6
+|dmg_m=1d8/1d8
+|crit=19–20/×2
+|type=挥砍
+|special=双头
+|groups=重刃，双头
+|description=双刃剑是一件双头武器——从短柄中央向两端各伸出一片剑刃，使持用者得以发动优雅而致命的挥舞攻击。
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,11 @@
+{{消歧义|位面旅者}}
+{{Trait
+|name=位面旅者
+|english_name=Planar Wayfarer
+|type=宗教
+|prerequisites=奥诺斯
+|description=无数位面的自然危害无法阻止你目睹其壮丽景观。每天一次，你可以花1小时冥想位面的本质，获得能量抵抗2，针对酸、寒冷、电、火焰或音波伤害（选择其一）。此抵抗持续24小时，或直到你再次冥想并选择新的抵抗类型。
+|source_name=古国血脉
+|source=BotA
+|source_url=https://pf1chm.pages.dev/topics/zhb7c0053e99.htm
+}}

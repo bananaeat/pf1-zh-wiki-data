@@ -1,0 +1,10 @@
+{{Feat
+|name=天堂舞步
+|english_name=Heaven's Step
+|categories=战斗
+|description=就像是塔尔多大亲王詹纳里斯三世所倡导的天堂舞步战术一样，你自信的追击敌人，并且发动意想不到的突袭。
+|prerequisites=敏捷15，咄咄逼人，快步跟进，飞步进击，双武器战斗，BAB+10
+|benefit=当你使用飞步进击时，你可以使用你最高的BAB来用副手武器发动一次额外攻击。两次攻击都会受到双武器减值。
+|source_name=冒险之路132：六传奇之魂
+|source_url=https://pf1chm.pages.dev/topics/132_The_Six-Legend_Soul.htm
+}}

@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能选集|Psychic Anthology}}
+'''震撼'''（Tremor）是[[操念使]]的[[原力]]。
+
+元素：土；类别：塑形注能；等级：5；超载：3
+
+关联[[念袭]]类别：[[岩击]]
+
+豁免：无
+
+你通过你所接触的大地或者其他的固体表面传导一次震动，这使得你可以用一次通常的念袭影响同一表面内掘地或者[[虚体]]的生物。该注能不会令你能够在掘地时攻击地面上的生物或者忽视除了掘地所带来的其他类型全[[掩蔽]]。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Tremor|2=Tremor}}
+
+[[分类:原力]]

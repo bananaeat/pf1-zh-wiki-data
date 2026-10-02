@@ -1,0 +1,12 @@
+{{魔宠变体
+|name=渗透魔宠
+|english_name=Infiltrator
+|description=[[魔宠]]能够作为杰出的间谍服务它们的主人，而渗透魔宠则是擅长这种狡诈技艺的物种中的佼佼者。
+
+'''[[本职技能]]（Class Skills）'''：渗透魔宠将[[唬骗]]与[[易容]]视为本职技能。
+
+'''[[警觉]]（Alertness）'''：渗透魔宠获得警觉（Alertness）作为[[奖励专长]]，而非将之提供给它的主人。
+
+'''法术共享（Share Spells）'''：渗透魔宠只可能分享目标为“自己（You）”，且属于预言系（divination spells）的法术。直觉潜入（Uncanny Stealth）(Ex)：渗透魔宠获得直觉闪避（uncanny dodge）以及精通直觉闪避（improved uncanny dodge），将它的主人等级作为有效盗贼等级。该能力取代[[精通反射闪避]]（improved evasion）。探知魔宠（Scry on Familiar）(Sp)：渗透魔宠在7级获得该能力，并且它的主人能够以1分钟为增量分配探知（scrying）的持续时间，最高为每日每等级1分钟。该能力取代与同类[[动物交谈]]（speak with animals of its kind）。[[心灵连线]]（Telepathic Bond）(Sp)：9级起，渗透魔宠获得永久性的与其主人的心灵连线（Telepathic Bond）。[[魔宠和模板|法术抗力]]（Spell Resistance）(Su)：渗透魔宠的法术抗力只适用于对抗预言系（divinations）以及影响心灵效果（mind-affecting effects）。
+|source=动物档案
+}}

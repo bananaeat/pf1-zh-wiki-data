@@ -1,0 +1,10 @@
+{{Feat
+|name=幸运治疗
+|english_name=Lucky Healer
+|description=你的运气使你比其他人得到的治疗更有效。
+|prerequisites=【万用幸运】种族特性，半身人。
+|benefit=当你接受一次魔法治疗(名字带有“治疗”的法术或[[引导能量]])时，使用一次万用运气特性，重骰你受到的治疗量；你回复的生命值等于新骰结果与原结果中较高者。同一效果治疗的其他生物不获得此益处。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

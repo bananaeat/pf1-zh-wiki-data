@@ -1,0 +1,9 @@
+{{Trait
+|name=同祀诸神
+|english_name=Propitiation
+|type=宗教
+|prerequisites=信仰任一矮人神祇
+|description=你对[[矮人]]神系的了解让你精确知道哪一位神明司掌你生活中的哪一方面，而且你可以向合适的神明祈求帮助，即使那不是你信仰的神明。每天开始，在[[估价]]、[[唬骗]]、工艺(必须选择一项)、交涉、威吓和知识（本地）里选择一项技能。你在当天那一项技能获得+2背景加值，直到第二天开始。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

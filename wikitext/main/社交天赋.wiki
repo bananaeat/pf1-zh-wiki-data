@@ -1,0 +1,147 @@
+{{侠客导航}}
+{{Source|极限诡道|Ultimate Intrigue}}
+
+'''社交天赋'''（Social Talent）是[[侠客]]的职业特性。
+
+从1级开始，以及之后每2个等级，侠客都可以获得一个社交天赋。除非特别提及，否则侠客的所有社交天赋只能被选择一次。有一些社交天赋需要侠客在满足其他先决条件（比如拥有另一个社交天赋或是达到一定的侠客等级）的情况下才能选择。社交天赋一旦选定便无法改变。
+
+== 时刻准备 (Always Prepared) ==
+{{:时刻准备}}
+
+== 先祖启示 (Ancestral Enlightenment) ==
+{{:先祖启示}}
+
+== 一人千面 (Any Guise) ==
+{{:一人千面}}
+
+== 野兽之友 (Beast Friend) ==
+{{:野兽之友}}
+
+== 野兽会话 (Beast Speech) ==
+{{:野兽会话}}
+
+== 新手奇运 (Beginner’s Luck) ==
+{{:新手奇运}}
+
+== 铃花暗语 (Bellflower Innuendo) ==
+{{:铃花暗语}}
+
+== 未雨绸缪 (Case the Joint) ==
+{{:未雨绸缪(社交天赋)}}
+
+== 名人折扣 (Celebrity Discount) ==
+{{:名人折扣}}
+
+== 名人效应 (Celebrity Perks) ==
+{{:名人效应}}
+
+== 寂寞伴侣 (Companion to the Lonely) ==
+{{:寂寞伴侣}}
+
+== 矛盾身份 (Conflicted Identity) ==
+{{:矛盾身份}}
+
+== 谨慎调查 (Discreet Inquiries) ==
+{{:谨慎调查}}
+
+== 双倍时间 (Double Time) ==
+{{:双倍时间}}
+
+== 企业大亨 (Entrepreneur) ==
+{{:企业大亨}}
+
+== 千幻伪装 (Everyman) ==
+{{:千幻伪装}}
+
+== 扮无辜 (Feign Innocence) ==
+{{:扮无辜}}
+
+== 飞短流长 (Gossip Collector) ==
+{{:飞短流长}}
+
+== 声名显赫 (Great Renown) ==
+{{:声名显赫}}
+
+== 活物伪装 (Guise of Life) ==
+{{:活物伪装}}
+
+== 不死伪装 (Guise of Unlife) ==
+{{:不死伪装}}
+
+== 隐藏魔法 (Hidden Magic) ==
+{{:隐藏魔法}}
+
+== 飞速变装 (Immediate Change) ==
+{{:飞速变装}}
+
+== 流行先驱 (In Vogue) ==
+{{:流行先驱}}
+
+== 超卓声誉 (Incredible Renown) ==
+{{:超卓声誉}}
+
+== 相逢恨晚 (Instant Recognition) ==
+{{:相逢恨晚}}
+
+== 诡道专长 (Intrigue Feats) ==
+{{:诡道专长}}
+
+== 先知敏锐 (Kalistocrat's Acumen) ==
+{{:先知敏锐}}
+
+== 忠诚助手 (Loyal Aid) ==
+{{:忠诚助手}}
+
+== 百变 (Many Guises) ==
+{{:百变}}
+
+== 百舌嘲鸟 (Mockingbird) ==
+{{:百舌嘲鸟}}
+
+== 变形面具 (Morphic Mask) ==
+{{:变形面具}}
+
+== 恶名愚弄 (Notorious Fool) ==
+{{:恶名愚弄}}
+
+== 大隐于市 (Obscurity) ==
+{{:大隐于市}}
+
+== 猫头鹰视 (Owl's Sight) ==
+{{:猫头鹰视}}
+
+== 快速变装 (Quick Change) ==
+{{:快速变装}}
+
+== 小有名气 (Renown) ==
+{{:小有名气}}
+
+== 藏身处 (Safe House) ==
+{{:藏身处}}
+
+== 无痕变身 (Seemless Shapechanger) ==
+{{:无痕变身}}
+
+== 技能精熟 (Skill Familiarity) ==
+{{:技能精熟}}
+
+== 社交优雅 (Social Grace) ==
+{{:社交优雅}}
+
+== 鸣禽鸟语 (Songbird) ==
+{{:鸣禽鸟语}}
+
+== 主观事实 (Subjective Truth) ==
+{{:主观事实}}
+
+== 变形序列 (Transformation Sequence) ==
+{{:变形序列}}
+
+== 英雄归来 (Triumphant Return) ==
+{{:英雄归来}}
+
+== 知名专家 (Well-Known Expert) ==
+{{:知名专家}}
+
+[[分类:侠客]]
+{{职业}}

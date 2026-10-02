@@ -1,0 +1,15 @@
+{{魔法物品
+|name=铁骨框架
+|english_name=Steelbone Frame
+|aon=MagicWondrousDisplay.aspx?FinalName=Steelbone Frame
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=护甲
+|price=6,000 gp
+|weight=35磅
+|description=这副齿轮关节的金属外骨骼，是用从银山涌出的第一批齿轮人遗留下来的机械“骨骼”打造的，可以用10分钟固定到一套中型或重型护甲上，或从上面拆下。装上之后，这副附魔框架会分担护甲的一部分负担，使护甲的防具检定减值降低2点。此外，每天3次，穿着装有铁骨框架的中型或重型护甲的穿戴者可以在1轮内忽略护甲对其速度的降低。
+|req=[[制造奇物]]、[[牛之力量]]、[[大步奔行]]
+|cost=3,000 gp
+|source=河域子民
+}}

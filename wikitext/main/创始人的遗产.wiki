@@ -1,0 +1,9 @@
+{{Trait
+|name=创始人的遗产
+|english_name=Founders' Heritage
+|type=社会
+|description=你的家族可以追溯到因为远见和潜力而被奥罗登呼唤来协助他建立城市的创始家族之一。你在影响艾巴萨罗姆市民的基于魅力的技能检定获得+1背景加值。
+|source_name=秘术选集Arcane Anthology
+|source=Arcane Anthology
+|source_url=https://pf1chm.pages.dev/topics/zhe6bf0e12f5.htm
+}}

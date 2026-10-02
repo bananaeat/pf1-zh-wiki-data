@@ -1,0 +1,15 @@
+{{魔法物品
+|name=缓冲软帽
+|english_name=Buffering Cap
+|aon=MagicWondrousDisplay.aspx?FinalName=Buffering Cap
+|cat=奇物
+|aura=微弱咒法系
+|cl=1
+|slot=头部
+|price=2,000 gp
+|weight=1磅
+|description=这顶布帽松松垮垮，没有定形。它能为穿戴者抵挡特别致命的打击，提供不同寻常的保护。每日1次，当穿戴者被重击击中时，可以花费一个[[直觉动作]]，把这次重击的额外伤害转化为非致命伤害。如果穿戴者免疫非致命伤害，这顶帽子就没有效果。
+|req=[[制造奇物]]、[[护盾术]]
+|cost=1,000 gp
+|source=极限宝具
+}}

@@ -1,0 +1,16 @@
+{{Spell
+|name=闪光爆
+|english_name=Flare burst
+|school=塑能系
+|tags=光亮
+|levels=吟游诗人 1;奥能师 1;异能者 1;德鲁伊 1;术士 1;歌者 1;法师 1;猎人 1;血脉狂怒者 1;魔战士 1
+|action=标准动作
+|components=语言
+|range=近距
+|duration=立即
+|save=强韧，通过则无效
+|sr=是
+|effect=10尺半径的闪光爆发
+|description=这个法术类似[[闪光术]]，不过它可以影响目标地点10尺爆发半径内的所有生物。
+|source=进阶玩家指南
+}}

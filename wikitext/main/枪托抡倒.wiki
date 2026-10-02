@@ -1,0 +1,11 @@
+{{Feat
+|name=枪托抡倒
+|english_name=Stock-Striker Takedown
+|categories=战斗
+|description=你的近战猛攻让对方无力反抗接下来残忍的终结一枪。
+|prerequisites=[[近距射击]]、[[枪托势]]、[[枪托横扫]]、bab+9、枪手炫技：枪柄打击
+|benefit=当你处于[[枪托势]]并成功以枪柄打击炫技将目标击至[[俯卧]]时，你可以通过一个[[移动动作]]，用手中上膛的火器向目标射击；若你的火器具有霰弹特性，则你能改而进行一次霰弹射击，但该目标必须处于效果范围内。你不会因对俯卧目标进行远程攻击而在该次攻击上受到减值，同时你武器的重击倍率增加1（重击倍率最高为x5）。
+|source=PotW
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1196.html
+}}

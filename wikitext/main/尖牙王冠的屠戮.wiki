@@ -1,0 +1,11 @@
+{{Feat
+|name=尖牙王冠的屠戮
+|english_name=Fanged Crown Massacre
+|pfs=否
+|description=为你对陨落女皇的忠诚所驱使，你激励自己的盟友残暴的行动。
+|prerequisites=保镖APG；战斗反射；表演(演讲)3级；任意邪恶阵营
+|benefit=每当你30尺内的盟友进行1次攻击时,你可以用一个直觉动作进行一次DC10的表演(演讲)检定.如果你成功了,盟友会在攻击骰上获得+2的士气加值.如果一个被本专长影响的攻击原本会造成非致命伤害,作为代替，它会造成致命伤害。这个能力在你的盟友无法听见或者理解你的话时不会生效。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/page_1230.html
+}}

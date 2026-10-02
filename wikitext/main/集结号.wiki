@@ -1,0 +1,18 @@
+{{Spell
+|name=集结号
+|english_name=Horn of pursuit
+|school=塑能系
+|tags=音波
+|levels=吟游诗人 1;圣武士 1;审判者 1;歌者 1;游侠 1;猎人 1
+|action=标准动作
+|components=姿势
+|range=个人
+|duration=1轮
+|save=无
+|sr=否
+|effect=三次号角声
+|description=你创造出巨型狩猎号角的声音，最多吹出三个音符，音量如同咆哮的巨龙。声音可以在典型的户外条件下传出2英里之远。
+
+你可以让这三次声音在法术持续的时间内以[[自由动作]]控制按任意节奏发出，可长可短，用以让你传递简短的讯息。
+|source=极限魔法
+}}

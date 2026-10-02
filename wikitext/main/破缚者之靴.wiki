@@ -1,0 +1,15 @@
+{{魔法物品
+|name=破缚者之靴
+|english_name=Bondbreaker's Boots
+|aon=MagicWondrousDisplay.aspx?FinalName=Bondbreaker's Boots
+|cat=奇物
+|aura=微弱变化系
+|cl=1
+|slot=脚部
+|price=1,600 gp
+|weight=1磅
+|description=这双皮靴用耐用的蓝色皮革制成，上面缝着一个小刀图案。每天3次，穿戴者可以以一个[[迅捷动作]]说出命令字，使一把锯齿小刀从靴中飞出，瞬间割断此刻束缚穿戴者的任何非魔法束缚。靴子召唤出的小刀可以割断荆棘、绳索、[[绊足包]]、藤蔓、蛛网或其他任何类似的、束缚穿戴者的非魔法物品，但当持有者正被某个生物主动束缚时帮不上忙。如果穿戴者被[[镣铐]]或锁链束缚，破缚者之靴同样无法使她脱身。
+|req=[[制造奇物]]、[[隐形仆役]]
+|cost=800 gp
+|source=纯洁勇士
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=鼠式挤过
+|english_name=Rat Squeeze
+|type=种族
+|prerequisites=[[兽态人]]（鼠人裔）
+|description=你第一次变身是为了逃脱当局或对手的抓捕，此后你磨练了自己挤过狭小空间的能力。当你变为兽态的时候，你可以不减速挤过至少你正常占地一半宽度的狭窄空间。每次移入或穿过狭窄空间都只算作1格，但你仍然正常承受挤过带来的所有罚值。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_808.html
+}}

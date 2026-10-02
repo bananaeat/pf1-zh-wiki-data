@@ -1,0 +1,22 @@
+{{魔法物品
+|name=防护法杖
+|english_name=Staff of Abjuration
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Abjuration
+|cat=法杖
+|aura=强烈防护系
+|cl=13
+|slot=无
+|price=82,000 gp
+|weight=5磅
+|description=这根法杖通常用古老的栎树、灰木、红杉或其他巨树的树心雕成，可以使用以下法术：
+
+* [[解除魔法]]（1 发）
+* [[抵抗能量伤害]]（1 发）
+* [[护盾术]]（1 发）
+* [[驱逐术]]（2 发）
+* [[次等法术无效结界]]（2 发）
+* [[排斥术]]（3 发）
+|req=[[制造法杖]]、[[驱逐术]]、[[解除魔法]]、[[次等法术无效结界]]、[[排斥术]]、[[抵抗能量伤害]]、[[护盾术]]
+|cost=41,000 gp
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,17 @@
+{{武器
+|name=注射器矛
+|english_name=Syringe spear
+|category=武器
+|prof=军用
+|wcat=双手
+|price=100 gp
+|weight=6磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×3
+|range=20尺
+|type=穿刺
+|special=迎击，见正文
+|description=这把武器（也称注射矛）的锋刃中有一根细管或孔道，连接到横杆正下方的一个空心容器。用这把矛成功击中时，会将容器内的液体（通常是毒药或药水）注射进目标体内。重新填充一把注射器矛需要1分钟。
+|source=冒险者的军械库
+}}

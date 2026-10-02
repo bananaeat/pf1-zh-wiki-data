@@ -1,0 +1,15 @@
+{{Feat
+|name=雪灵
+|english_name=Marid Style
+|categories=战斗;流派
+|description=你掌中寒冰蔓延，隔空击向敌人。
+|prerequisites=体质13，感知15，[[元素之拳]]，[[精通徒手打击]]，基本攻击加值+9或武僧5级。
+|benefit=你获得1次额外[[元素之拳]]每日使用次数。当你处于此[[流派]]架势中时使用元素之拳，你在造成冰系伤害时获得等于你感知加值的额外伤害，且该次[[徒手打击]]的攻击范围增加5尺。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[冰魂]]、[[雪暴]]（2 个条目）

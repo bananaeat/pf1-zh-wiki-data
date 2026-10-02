@@ -1,0 +1,10 @@
+{{Trait
+|name=动物使
+|english_name=Animal Friend
+|type=种族
+|prerequisites=[[侏儒]]
+|description=长期以来你都是动物之友，并在动物身边才感到安心。当30尺内有动物(体型为超小型以上，对你的态度至少为冷漠)存在时，你的意志豁免获得+1背景加值。同时[[驯养动物]]总是你的[[本职技能]]。
+|source_name=种族背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

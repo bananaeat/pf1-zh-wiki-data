@@ -1,0 +1,10 @@
+<noinclude>{{掉链武僧导航}}
+'''行意前'''（Action Before Thought, EX）是[[掉链武僧]]的[[绝学|绝学]]。
+
+</noinclude>{{Source|武术手册|Martial Arts Handbook|inline}}
+
+习得该能力的武僧可以消耗2点气以一个自由动作作为[[先攻]]掷骰的一部分，在先攻检定中掷两次骰，并以更高的点数作结果。一个武僧必须至少达到6级才能学习该绝学。<noinclude>
+
+[[分类:绝学]]
+
+{{职业}}</noinclude>

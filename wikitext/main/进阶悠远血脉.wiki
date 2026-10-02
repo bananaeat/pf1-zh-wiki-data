@@ -1,0 +1,15 @@
+{{Feat
+|name=进阶悠远血脉
+|english_name=Improved Eldritch Heritage
+|description=你从血统中所发现的力量在不断增长。
+|prerequisites=魅力15，[[悠远血脉]]，角色等级11级。
+|benefit=你从[[悠远血脉]]专长的血统中选择一个3级或者9级的[[血统力量]]。在使用这些能力时，将你的“角色等级-2”作为[[术士]]等级（即使你拥有术士等级也是如此）。你不能获得其他任何的血统能力。
+|special=你可以多次选择本专长，其效果不累计。每次你选择这一专长，你获得该血统中术士等级3级或者9级的一项不同的血统力量。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[高等悠远血脉]]（1 个条目）

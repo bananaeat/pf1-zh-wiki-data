@@ -1,0 +1,10 @@
+{{Trait
+|name=神圣向导
+|english_name=Sacred Orienteer
+|type=宗教
+|prerequisites=信仰埃利昂
+|description=你曾在旅途中远行，仅靠[[指南针]]与信仰作为引导。你在游戏开始时获得一个指南针。你所持有的任何指南针或寻路仪也作为埃利昂的圣徽使用。你将知识(地理)或生存视为[[本职技能]]。每天一次，你可以在[[整轮动作]]中参考你的指南针或寻路仪，使你在一次知识(地理)或生存检定中获得+2背景加值。
+|source_name=古国血脉
+|source=BotA
+|source_url=https://pf1chm.pages.dev/topics/zhb7c0053e99.htm
+}}

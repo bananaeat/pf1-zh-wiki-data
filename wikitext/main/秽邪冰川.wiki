@@ -1,0 +1,16 @@
+{{Spell
+|name=秽邪冰川
+|english_name=Unholy ice
+|school=变化系
+|tags=寒冷;邪恶;水
+|levels=先知 5;战斗祭司 5;牧师 5
+|action=标准动作
+|components=语言;姿势;材料（一份邪水或5磅银粉，价值25gp）
+|range=中距
+|effect=冰墙或飞行冰投枪（见后文）
+|duration=1分钟/等级、立即或直到耗尽 (见后文)
+|save=反射，通过则无效或无（见后文）
+|sr=是
+|description=这个法术工作方式如同[[神圣冰川]]，不过本法术创造出的是由邪水所构成的冰块而非[[圣水]]。
+|source=极限魔法
+}}

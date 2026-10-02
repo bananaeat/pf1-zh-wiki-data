@@ -1,0 +1,17 @@
+{{魔法物品
+|name=门户橡树
+|english_name=Portal Oak
+|aon=MagicPlantsDisplay.aspx?FinalName=Portal Oak
+|cat=魔法植物
+|aura=中等咒法系
+|cl=9
+|slot=无
+|price=45,000 gp
+|weight=500磅
+|description=这些高大的橡树总是成对培育。通过一个命令词，生物可以进入其中一棵门户橡树，再从另一棵中走出来。角色可以通过成功的DC 20知识（自然）检定判断出命令词。这两棵树必须培育在彼此1英里以内。
+
+门户橡树不产出与其效应相关的果实或其他产物，且始终处于激活状态。
+|req=[[奇植培育]]、[[融身入林]]，培育者的知识（自然）至少3级
+|cost=22,500 gp
+|source=极限荒野
+}}

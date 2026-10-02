@@ -1,0 +1,20 @@
+{{速查导航|here=怪物}}
+
+{{怪物模板
+|name=头大如斗食人魔
+|english_name=Thicken Ogre
+|kind=遗传；简易
+|cr=+0
+|apply=[[食人魔]]
+|intro=这些食人魔个体的头颅大得出奇，并且生长着剃刀般锋利的牙齿。
+|abilities=敏捷 –2
+|melee=获得一次啮咬攻击（1d8）
+}}
+
+'''快速规则'''：AC、远程攻击检定、先攻检定和基于敏捷的技能检定 –1；获得一次啮咬攻击（1d8）。
+
+（译注：AoN 把这一条和[[皮包骨食人魔]]的说明文字对调了——AoN 的 Thicken Ogre 页写的是骨瘦如柴、长爪的那一种。这里照民间汉化和原书的对应关系：头大牙利的是 Thicken，瘦长带爪的是 Pickin。）
+
+{{AoN原文|1=MonsterTemplates.aspx?ItemName=Thicken Ogre|2=Thicken Ogre}}
+
+[[分类:怪物模板]]

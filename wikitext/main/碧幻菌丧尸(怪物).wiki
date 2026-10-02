@@ -1,0 +1,41 @@
+{{速查导航}}
+{{消歧义|碧幻菌丧尸}}
+<div class="well" style="margin:.2em 0"><small>本页是《No Response from Deepmar》里的碧幻菌丧尸示例属性块；同名的生物模板见 [[碧幻菌丧尸]]。</small></div>
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=碧幻菌丧尸
+|english_name=Cytillesh Zombie
+|cr=1
+|xp=400
+|alignment=中立邪恶
+|size=中型
+|type=不死生物
+|init=+4
+|senses=黑暗视觉 60 尺；察觉 +0
+|ac=18，接触 12，措手不及 14（+2 护甲，+4 敏捷，+2 天生）
+|hp=每只 12（2d8+3）
+|fort=+0
+|ref=+4
+|will=+3
+|defensive=导能抗力 +4
+|immune=不死特性
+|speed=40 尺
+|melee=猛击 +6（1d6+5 附加毒素）
+|tactics=<div class="ml wide"><span class="k">战斗中</span>碧幻菌丧尸会攻击任何试图与它交谈或接触的生物。一旦锁定对手，它就会持续攻击该目标，直到目标或丧尸自己死亡或被摧毁。</div><div class="ml wide"><span class="k">士气</span>碧幻菌丧尸战斗至死。</div>
+|str=21
+|dex=18
+|con=—
+|int=—
+|wis=10
+|cha=10
+|bab=+1
+|cmb=+6
+|cmd=20
+|feats=[[健壮]]
+|gear=皮甲
+|special_abilities={{怪物能力|碧幻菌共生|Su|寄生在宿主生物体内的碧幻菌真菌成了这具死肉的驱动力量。它使该生物获得 +4 增强加值（力量和敏捷），并使其触碰带毒：碧幻菌丧尸的猛击会释放孢子，让目标承受一小剂碧幻菌毒素。目标必须通过 DC 18 的强韧豁免，否则陷入晕眩 1d3 轮，并失去刚才片刻的记忆。多次中毒的效果不叠加，只延长持续时间。}}
+{{怪物能力|迅击|Ex|每当碧幻菌丧尸使用整轮攻击动作时，可以以最高基础攻击加值额外发动一次猛击。}}
+|source=No Response from Deepmar
+}}
+
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Cytillesh Zombie|2=Cytillesh Zombie}}

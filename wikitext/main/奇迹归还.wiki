@@ -1,0 +1,9 @@
+<noinclude>'''奇迹归还'''（Won’t Stay Dead, Ex）是任意满足先决条件的职业都能选取的[[:分类:巅峰能力|替代巅峰]]。
+
+</noinclude>{{Source|传奇编年史|Chronicle of Legends|inline}}
+
+20级时，角色挣扎求生的能力登峰造极。每周一次，当角色被杀死、[[石化]]或以其他方式离开游戏，该角色总能依靠某些能力或运气在战斗后或场景结束时返回（具体由GM决定）。PL应与GM商议确保该角色生还的方法至少还算有可行性。任何职业均可选取该巅峰。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1501.html 原文]）。全部替代巅峰见 [[典范编年史]]。
+
+[[分类:巅峰能力]]</noinclude>

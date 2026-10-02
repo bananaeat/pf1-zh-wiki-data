@@ -1,0 +1,14 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[闪电反射 (神话)]]。</small></div>
+{{Feat
+|name=闪电反射
+|english_name=Lightning Reflexes
+|description=你的反应力比一般人快。
+|benefit=所有反射豁免获得+2加值。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[时刻备战]]、[[诡诈直感]]、[[跳跃躲避]]（3 个条目）

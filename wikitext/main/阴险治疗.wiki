@@ -1,0 +1,9 @@
+{{Feat
+|name=阴险治疗
+|english_name=Insidious Healing
+|description=你在对接受过你治疗法术的生物施展其他法术时获得优势。
+|benefit=任何在接受过你任何治疗法术并且不选择豁免对抗的生物，会在接下来的24小时内在对你的其他目标型法术进行豁免时承受-4的惩罚。
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_704.html
+}}

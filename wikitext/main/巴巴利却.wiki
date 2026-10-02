@@ -1,0 +1,40 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=巴巴利却
+|english_name=Barbariccia
+|title=恐怖之父（The Fearsome Father）
+|alignment=守序邪恶（LE）
+|weapon=[[带刺铁手套]]
+|portfolio=繁衍，掠食者，屠戮
+|domains=[[动物领域|动物]]，[[邪恶领域(领域)|邪恶]]，[[秩序领域|秩序]]，[[植物领域|植物]]
+|subdomains=[[邪恶领域(领域)#魔鬼子域 (Devil)|魔鬼子域（邪恶）]]，[[秩序领域#魔鬼子域 (Devil)|魔鬼子域（秩序）]]，[[邪恶领域(领域)#恐惧子域 (Fear)|恐惧子域]]，[[动物领域#毛兽子域 (Fur)|毛兽子域]]，[[植物领域#滋长子域 (Growth)|滋长子域]]
+|symbol=猎食者的下颚
+|animal=豹
+|color=黑色，橙色
+|pantheon=雄霸魔
+|source=内海诸神、永罪之书
+}}
+
+'''巴巴利却'''（Barbariccia）是一位[[雄霸魔]]。名字出自《神曲》：于地狱第8圈第5沟惩罚生前贪污与诈欺的亡灵的十二名魔鬼集团。
+
+== 简介 ==
+恐怖之父是一位古老且难以捉摸的魔鬼，据说祂诞下了一个军团的邪恶生物，并让他们致力于征服所有自然之地。
+
+== 服从仪典与神恩 ==
+=== 服从仪典 ===
+使用从可怕猎食者收割的牙齿或利爪，撕碎你最近杀死的生物之血肉。你在对抗力场效果时豁免获得+4亵渎加值。
+
+=== 神恩 ===
+雄霸魔的神恩为类法术能力，每项每日可用2次。
+
+{{神恩|n=1|name=召唤自然盟友II|en=summon nature’s ally II|type=Sp|text=每日2次，以类法术能力施展[[召唤自然盟友]]II。}}
+{{神恩|n=2|name=召唤自然盟友IV|en=summon nature’s ally IV|type=Sp|text=每日2次，以类法术能力施展[[召唤自然盟友]]IV。}}
+{{神恩|n=3|name=召唤自然盟友VI|en=summon nature’s ally VI|type=Sp|text=每日2次，以类法术能力施展[[召唤自然盟友]]VI。}}
+
+== 信徒可用 ==
+* '''专长'''：[[炼狱镣铐]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zha5aaca0024.htm 原文]），原在总页 [[雄霸魔]]。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Barbariccia|2=Barbariccia}}
+[[分类:魔神]]

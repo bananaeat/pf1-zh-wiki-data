@@ -1,0 +1,14 @@
+{{Spell
+|name=熊之型
+|english_name=Aspect of the bear
+|school=变化系 (变形)
+|levels=德鲁伊 2;游侠 2;猎人 2
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=个人
+|target=自己
+|duration=1分钟/等级
+|sr=否
+|description=你呈现出熊的一些特征。你的天生护甲与[[CMB]]检定各获得+2增强加值。此外你在进行[[冲撞]]、[[擒抱]]以及[[闯越]][[战技]]时不会引起借机攻击。
+|source=进阶玩家指南
+}}

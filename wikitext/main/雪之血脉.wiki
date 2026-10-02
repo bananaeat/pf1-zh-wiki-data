@@ -1,0 +1,10 @@
+{{Trait
+|name=雪之血脉
+|english_name=Snowblooded
+|type=种族
+|prerequisites=[[精灵]]（雪咒精灵）
+|description=一直以来，你的家族都有盛产优秀的哨兵和暮光使者的传统。
+|benefit=你为避免寒冷环境的[[非致命伤害]]而进行强韧豁免检定时+4背景加值；你在对抗 “寒冷” 描述符的法术进行豁免检定时+1背景加值。
+|source_name=北地居民
+|source_url=https://pf1chm.pages.dev/topics/zh63296b3929.htm
+}}

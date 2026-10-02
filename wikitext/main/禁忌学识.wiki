@@ -1,0 +1,10 @@
+{{Feat
+|name=禁忌学识
+|english_name=Unsanctioned Knowledge
+|description=你研读那些禁书，习得那些强大而又禁忌的魔法。
+|prerequisites=[[智力]] 13，能够施展1级圣武士法术。
+|benefit=从吟游诗人、牧师、审判者或者[[先知]]的法术列表中选择一个1环法术、一个2环法术、一个3环法术和一个4环法术，将他们添加进你的圣武士法术列表中对应的环级。这些法术一旦被选定就无法更改。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

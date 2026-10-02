@@ -1,0 +1,11 @@
+{{Feat
+|name=摄魂凝视
+|english_name=Soulless Gaze
+|categories=诅咒
+|pfs=否
+|description=将来自异界的恐惧注入你的目光。
+|benefit=你可以使用威吓技能来摆布或恐吓他人。 一项[[诅咒专长]]：你的威吓检定获得＋2加值。 两项诅咒专长：当你多次使用威吓挫败同一生物的士气时，你可以选择制造更强的恐惧状态而非增加[[战栗]]状态持续时间。 三项诅咒专长：你的威吓检定获得+2加值。这一效果与该专长先前的效果叠加。 四项诅咒专长：你可以以一个[[迅捷动作]]使用威吓挫败对手的士气。
+|source=CoC
+|source_name=秽邪勇士
+|source_url=https://pf1chm.pages.dev/topics/zh45cf79b2ca.htm
+}}

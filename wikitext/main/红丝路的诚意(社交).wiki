@@ -1,0 +1,9 @@
+{{Trait
+|name=红丝路的诚意(社交)
+|english_name=Red Silk Frankness
+|type=社会
+|description=你从那些爽快人——硬币区保持秩序的盗贼工会中——学会了如何用“真诚”避免麻烦。你在说服他人忽视冒犯性或非法行为的交涉检定上获得+5背景加值。交涉总是视为你的[[本职技能]]。
+|source_name=黑市指南
+|source=BM
+|source_url=https://pf1chm.pages.dev/topics/zh2f0cc841f9.htm
+}}

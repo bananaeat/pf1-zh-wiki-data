@@ -1,0 +1,14 @@
+{{Feat
+|name=健硕之歌
+|english_name=Skald's Vigor
+|description=唱起雄健的战歌，你在战斗中更加耐打。
+|prerequisites=战怒之歌职业能力
+|benefit=当维持表演战怒之歌时，你获得[[通用怪物规则#快速治疗|快速医疗]]，数值等同于你的战怒之歌所提供的力量加值，从你开始这首歌之后的下一轮开始。如果你停止表演，这个快速医疗效果将立刻结束，即使你的歌曲效果在你停止后依然能够持续。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[高等健硕之歌]]（1 个条目）

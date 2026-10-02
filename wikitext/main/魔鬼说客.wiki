@@ -1,0 +1,10 @@
+{{Feat
+|name=魔鬼说客
+|english_name=Diabolical Negotiator
+|description=在你的舌头上，魔鬼般的交涉是一种艺术
+|prerequisites=[[技能专攻]]（交涉），信仰阿斯莫迪斯
+|benefit=你可以选择将智力调整值或感知调整值（取其高者）取代你的魅力调整值加到你的交涉技能检定上。除此之外，你的交涉技能可以将生物的态度改变两级以上，如果你在交涉检定上自然骰出1并且检定失败至少5点，目标的态度只会下降一级。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

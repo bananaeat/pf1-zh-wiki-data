@@ -1,0 +1,15 @@
+{{魔法物品
+|name=全视之眼
+|english_name=All-Seeing Eye
+|aon=MagicWondrousDisplay.aspx?FinalName=All-Seeing Eye
+|cat=奇物
+|aura=中等预言系
+|cl=9
+|slot=无
+|price=5,500 gp
+|weight=5磅
+|description=这颗坚硬的巨型眼球直径近1尺。持有者所施展的任何预言系法术，其豁免DC获得+1洞察加值；针对预言系效果进行的解除检定也获得+1洞察加值。此外，每周一次，全视之眼的持有者可以无需材料成分，把[[通神术]]当作类法术能力施展。以这种方式使用全视之眼，会实际耗尽它一周的魔力，在施展通神术后的一周内，持有者不再享受它所给予的洞察加值。
+|req=[[制造奇物]]、[[通神术]]、[[神导术]]
+|cost=2,250 gp
+|source=巨人再临
+}}

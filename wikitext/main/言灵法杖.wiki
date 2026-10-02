@@ -1,0 +1,23 @@
+{{魔法物品
+|name=言灵法杖
+|english_name=Staff of Speaking
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Speaking
+|cat=法杖
+|aura=强烈惑控系
+|cl=13
+|slot=无
+|price=57,200 gp
+|weight=5磅
+|description=当握着这根中空木杖的人说话或呼喊时，法杖会随她的声音共鸣，让她的话语带上洪亮而不容置疑的力度。
+
+该法杖可以使用以下法术：
+
+* [[暗示术]]（1 发）
+* [[巧言术]]（1 发）
+* [[谴责]]（2 发；APG）
+* [[花言巧语]]（2 发）
+* [[群体暗示术]]（4 发）
+|req=[[制造法杖]]、[[谴责]]、[[花言巧语]]、[[群体暗示术]]、[[暗示术]]、[[巧言术]]
+|cost=28,600 gp
+|source=极限宝具
+}}

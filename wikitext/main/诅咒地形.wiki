@@ -1,0 +1,15 @@
+{{Spell
+|name=诅咒地形
+|english_name=Curse terrain
+|school=死灵系
+|tags=诅咒;邪恶
+|levels=先知 4;奥能师 4;女巫 4;德鲁伊 4;战斗祭司 4;术士 4;法师 4;牧师 4;猎人 4;萨满 4
+|action=10分钟
+|components=语言;姿势;材料（一只曾栖息于该区域的生物的心脏，以及价值700gp的缟玛瑙粉）
+|range=接触
+|area=从接触的点向外弥漫半径1哩
+|duration=1天（可解消）
+|sr=否
+|description=透过触摸大地，你令四个超自然危机诅咒这片土地。此法术如同[[次等诅咒地形]]般作用，但效果是中等危险地域诅咒（见Page.145）。
+|source=惧怖冒险
+}}

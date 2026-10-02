@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[盾牌猛冲 (神话)]]。</small></div>
+{{Feat
+|name=盾牌猛冲
+|english_name=Shield Slam
+|categories=战斗
+|description=只要地形合适，你能用盾牌让对手飞起来。
+|prerequisites=[[精通盾击]]，[[擅长盾牌]]，[[双武器格斗]]，基本攻击加值+6。
+|benefit=任何被你盾击命中的对手也受到一次附带的[[冲撞]]攻击，用这次攻击检定的结果来替代[[战技]]检定。这次冲撞不会触发[[借机攻击]]。因墙或其他表面不能后退的对手在移动最大的可行距离后被击倒在地。如果你本轮能够做一次五尺快步或花费一个动作来移动，你可以选择跟随你的目标移动。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

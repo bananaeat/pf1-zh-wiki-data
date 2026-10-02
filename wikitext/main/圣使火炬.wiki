@@ -1,0 +1,15 @@
+{{魔法物品
+|name=圣使火炬
+|english_name=Archon's Torch
+|aon=MagicWondrousDisplay.aspx?FinalName=Archon's Torch
+|cat=奇物
+|aura=微弱塑能系
+|cl=5
+|slot=无
+|price=750 gp
+|weight=1磅
+|description=这支火炬由淡黄色的木头制成，刻有神圣的符文。点燃后，它像普通火炬一样燃烧，但只能持续5分钟。当守序善良的生物握持它时，它的作用如同[[圣使灵气]]法术。如果没有守序善良的生物握持它，魔法灵光就会终止；当守序善良的生物再次握持它时，魔法灵光会自动恢复。
+|req=[[制造奇物]]、[[圣使灵气]]
+|cost=375 gp
+|source=极限宝具
+}}

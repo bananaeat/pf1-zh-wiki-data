@@ -1,0 +1,17 @@
+{{武器
+|name=猎猪矛
+|english_name=Boar spear
+|category=武器
+|prof=简易
+|wcat=双手
+|price=5 gp
+|weight=8磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×2
+|type=穿刺
+|special=迎击，见正文
+|groups=矛
+|description=这只矛装有十字横枝，防护敌人的突击。若你以[[准备动作]]迎击对方冲锋并且命中，你在下轮前针对该目标的AC获得+2盾牌加值。
+|source=进阶玩家指南、极限宝具
+}}

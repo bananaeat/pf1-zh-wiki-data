@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Tyrant's Grasp Player's Guide pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=包打听
+|english_name=The Snoop
+|type=战役
+|pfs=否
+|description=罗斯拉尔之匣里的大小事和几乎每个人，你都略知一二。这也许是你的职业所需——你可能是档案员、传令员或图书管理员——又或者你只是把说闲话当成了爱好。无论如何，你天生善于记事和看透他人。你的[[知识]]（历史）和知识（本地）检定获得+1背景加值，并且这两项都成为你的本职技能。每天一次，当你对一个你已认识至少24小时的生物进行[[唬骗]]或[[察言观色]]检定时，你可以重骰一次，取较好的结果。
+|source_name=Tyrant's Grasp Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=The%20Snoop
+}}

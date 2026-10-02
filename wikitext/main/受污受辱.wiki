@@ -1,0 +1,10 @@
+{{Trait
+|name=受污受辱
+|english_name=Stigmatized
+|type=缺陷
+|pfs=否
+|description=你长期被挤压在社会的边缘，即使当你到了新地方跟陌生人一起，你感受到你欠缺社交所带来的影响性。
+|benefit=你在改善一个生物的态度和搜集资讯的交涉检定承受-3罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

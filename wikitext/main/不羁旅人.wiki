@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Reign of Winter Player's Guide pg. 6, People of the North pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=不羁旅人
+|english_name=Restless Wayfarer
+|type=战役
+|pfs=否
+|description=你长期过着漂泊的生活——也许是因为你的父母是旅行者（无论是四处漂泊的瓦瑞西安大篷车人，还是远途经商的行商），也许你属于某个游牧部落，又或者你年纪轻轻就离家出走去见识世界。有人称之为漫游癖，但对你而言，想到新的地方和新的经历才是真正让人生值得过下去的东西，而没有哪个地方像风雪肆虐的北地荒野那样激起你的想象。你已习惯在陌生的土地上过活，与有趣的新面孔打交道。你的[[知识]]（地理）和知识（本地）检定获得+1背景加值，且其中一项技能（由你选择）是你的本职技能。你还会说一门额外的语言（这不计入你的语言数量）。
+|source_name=Reign of Winter Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Restless%20Wayfarer
+}}

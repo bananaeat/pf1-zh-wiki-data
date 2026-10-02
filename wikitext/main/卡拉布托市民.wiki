@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Sargava, the Lost Colony pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=卡拉布托市民
+|english_name=Citizen of Kalabuto
+|type=地区
+|prerequisites=卡拉布托
+|description=你在卡拉布托生活和工作。你关于卡拉布托的所有[[知识]]（本地）和知识（历史）检定获得+1背景加值。
+|source_name=萨迦瓦，失落的殖民地
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Citizen%20of%20Kalabuto
+}}

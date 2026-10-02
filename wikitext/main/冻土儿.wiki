@@ -1,0 +1,10 @@
+{{Trait
+|name=冻土儿
+|english_name=Tundra Child
+|type=地区
+|prerequisites=苔原或寒带地区
+|description=你在极地的酷寒中出生长大，并且适应了低温。你对抗低温环境的豁免获得+4背景加值，同时对抗寒冷效果的豁免获得+1背景加值。
+|source_name=地区背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

@@ -1,0 +1,10 @@
+{{危害
+|name=岁月诅咒
+|english_name=Curse of the Ages
+|kind=诅咒
+|type=诅咒
+|save=意志 DC 17
+|frequency=1次/天
+|effect=年龄增长1岁
+|source=核心规则书
+}}

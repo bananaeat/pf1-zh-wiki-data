@@ -1,0 +1,21 @@
+{{魔法物品
+|name=伴奏法杖
+|english_name=Staff of Accompaniment
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Accompaniment
+|cat=法杖
+|aura=中等塑能系、变化系
+|cl=8
+|slot=无
+|price=14,800 gp
+|weight=5磅
+|description=这根法杖上装饰着音符。持握它进行吟游表演时，它会以管乐之声为歌声伴奏，使表演检定获得+2表现加值。
+
+该法杖可以使用以下法术：
+
+* [[锋鸣碎片]]UM（1 发）
+* [[拯救谢幕曲]]APG（1 发）
+* [[快板演奏]]UM（2 发）
+|req=[[制造法杖]]、[[快板演奏]]、[[锋鸣碎片]]、[[拯救谢幕曲]]
+|cost=7,400 gp
+|source=极限宝具
+}}

@@ -1,0 +1,21 @@
+{{武器
+|name=双管滑膛枪
+|english_name=Double-barreled musket
+|category=火器
+|prof=异种
+|wcat=双手
+|price=2,500 gp
+|weight=11磅
+|dmg_s=1d10
+|dmg_m=1d12
+|crit=×4
+|range=40尺
+|type=钝击和穿刺
+|misfire=1-3（5尺）
+|capacity=2
+|groups=火器
+|description=这把[[滑膛枪]]有两个平行的枪管，每个枪管可以单独射击（各算一次攻击），也可以用一个[[标准动作]]（攻击动作）同时射击。如果同时射击，两个枪管必须瞄准同一生物或物体，而且枪会变得非常不准，每发射击都受到-4减值。双管滑膛枪的每个枪管的弹药为1颗弹头加1份黑火药，或1发炼金定装弹。这是一件早期火器。
+|source=极限战斗、极限宝具
+}}
+
+{{FAQ|v5748eaic9quu|v5748eaic9tqm}}

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Cheliax, Empire of Devils pg. 19），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=垃圾场拾荒者
+|english_name=Dump Salvager
+|type=地区
+|prerequisites=西冠城
+|description=你在西冠城满是垃圾的岸边或其附近长大，空闲时间都在垃圾堆里翻找值得变卖的东西。你为搜寻隐藏物品而进行的[[察觉]]检定获得+3背景加值。
+|source_name=切里亚斯，魔鬼王朝
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Dump%20Salvager
+}}

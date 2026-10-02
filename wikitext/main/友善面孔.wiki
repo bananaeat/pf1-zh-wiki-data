@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Wilderness Origins pg. 22），民间汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=友善面孔
+|english_name=Friendly Face
+|description=与你同种的其他动物都很喜欢你。无论它们多么护领地、脾气多坏、伤得多重或饿得多厉害，都把你当作朋友而不是敌人。它们对你那位两条腿的朋友也会多几分宽容。
+|prerequisites=[[动物伙伴]]。
+|benefit=与你大致同类的其他动物（猫对猫科动物、鹰对猛禽、蛙对两栖动物，以此类推）对你的初始态度提高两级，对你主人的态度也同样提高一级。
+|special=如果你的主人拥有动物之力职业能力，本专长也适用于与其当前所用动物之力大致同类的任何动物。
+|source=WO
+|source_name=荒野源始
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Friendly%20Face
+}}

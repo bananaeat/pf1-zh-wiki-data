@@ -1,0 +1,10 @@
+{{Feat
+|name=精通决斗智慧
+|english_name=Improved Studied Combatant
+|description=你深入分析对手的战术，以此在和他的对决上占得先手。
+|prerequisites=智力13，[[业余调查员]]，[[决斗智慧]]，基础攻击加值+8，在至少一项知识技能上拥有1个等级，在拥有灵感职业能力的职业上没有任何等级
+|benefit=你通过[[决斗智慧]]专长获得的近战攻击检定洞察加值和伤害加值提升到+4。除此之外，本能力的效果和决斗智慧专长相同。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

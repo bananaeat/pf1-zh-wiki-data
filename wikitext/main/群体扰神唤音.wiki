@@ -1,0 +1,16 @@
+{{Spell
+|name=群体扰神唤音
+|english_name=Cacophonous call, mass
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=吟游诗人 5;歌者 5
+|action=标准动作
+|components=语言;姿势;材料（一小片乐谱）
+|range=近距
+|target=每等级1名生物 （所有目标之间的距离不超过30尺）
+|duration=1轮/等级
+|save=意志，通过则无效
+|sr=是
+|description=该法术的功能如同[[扰神唤音]] 一般，不过该法术可以影响复数生物。
+|source=进阶玩家指南
+}}

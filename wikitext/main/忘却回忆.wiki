@@ -1,0 +1,15 @@
+{{Feat
+|name=忘却回忆
+|english_name=Forgotten Past
+|categories=故事
+|pfs=否
+|description=某个重大事件从你的记忆中隐去了。
+|prerequisites=你必须遭受永久的失忆之苦；或拥有“转世轮回（Reincarnated background）”角色背景。
+|benefit=影响心智法术（即便是有利效果）对你的持续时间减半，至少1轮。你的求知本能使你的察觉检定+2。如果你在察觉技能受训10级以上，该加值升至+4。
+|special=以不及奇迹术或[[祈愿术]]的手段恢复记忆，不符合先决条件。
+|goal=拾回你重要的记忆残片。具体实现的手段多变，可以通过[[祈愿术]]、神祇协助、往事重现或直面导致你失忆的情境。该过程必须伴随着一位强大敌手的登场，尽管并不一定需要你们直接对峙。
+|completion_benefit=你在对抗影响心智效果的豁免中可以双骰取高。
+|source=UCa
+|source_name=极限战役
+|source_url=https://pf1chm.pages.dev/topics/page_200.html
+}}

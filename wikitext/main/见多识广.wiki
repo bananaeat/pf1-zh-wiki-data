@@ -1,0 +1,10 @@
+{{Trait
+|name=见多识广
+|english_name=Cosmopolitan
+|type=地区
+|prerequisites=过峡
+|description=你接触了许许多多来往过峡的人们，这里的南腔北调给了你特别的语言才能。你在[[语言学]]检定上得到+1背景加值，并将语言学加入你的[[本职技能]]。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://pf1chm.pages.dev/topics/page_1557.html
+}}

@@ -1,0 +1,12 @@
+{{Feat
+|name=化形猛击
+|english_name=Shapeshifter Savage
+|categories=战斗
+|description=你能够掌控你的变形过程，这让你能在变形时也能[[痛殴]]你的敌人。
+|prerequisites=[[化形势]]、[[化形扭]]、基础攻击加值+8、变形能力、变形者子类
+|benefit=当你处于[[化形势]]，如果你以一个标动使用变形或者自然变身能力，你也能以最高的基础攻击加值，用一件天生武器对触及内的一个敌人进行一次近战攻击。
+|special=在满足先决条件时，一个拥有自然变身职业能力的角色视作拥有变形能力和[[变形者]]子类。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/page_1338.html
+|source=MAH
+}}

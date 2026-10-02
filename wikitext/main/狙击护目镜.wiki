@@ -1,0 +1,15 @@
+{{魔法物品
+|name=狙击护目镜
+|english_name=Sniper Goggles
+|aon=MagicWondrousDisplay.aspx?FinalName=Sniper Goggles
+|cat=奇物
+|aura=微弱预言系
+|cl=5
+|slot=眼部
+|price=20,000 gp
+|weight=1磅
+|description=这对球状凸起镜片上附有一条皮带，佩戴者可以用它把镜片固定在头上。佩戴者可以在任何距离进行远程偷袭，而不受通常30尺的限制。在30尺内进行远程偷袭时，佩戴者在每个偷袭伤害骰上获得+2环境加值。（译注：即6d6的偷袭伤害变为6d6+12。）
+|req=[[制造奇物]]、[[克敌机先]]
+|cost=10,000 gp
+|source=进阶玩家指南、极限宝具
+}}

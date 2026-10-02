@@ -1,0 +1,11 @@
+{{Feat
+|name=额外道途能力
+|english_name=Extra Path Ability
+|categories=神话
+|description=除了已经拥有的神话能力，你还有许多方式展现自身的神话力量。
+|prerequisites=神话阶层3阶
+|benefit=从你的道途或者[[通用道途能力]]中选择1项神话能力，你必须满足该能力的所要求的先决条件。你会获得该道途能力。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=暗市走私客
+|english_name=Undermarket Smuggler
+|type=地区
+|prerequisites=过峡
+|description=你曾在过峡的地下市场工作过一段时间，学会了如何躲避该城的税吏和港口检查员。你的[[唬骗]]和[[巧手]]检定获得+1背景加值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Undermarket%20Smuggler
+}}

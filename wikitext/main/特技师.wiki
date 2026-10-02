@@ -1,0 +1,9 @@
+{{Trait
+|name=特技师
+|english_name=Acrobat
+|type=社会
+|description=自小接受训练，你的身手矫健、动作大胆。你的特技检定获得+1加值，并且你在加速攀爬时攀爬检定仅受-2减值而非-5。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

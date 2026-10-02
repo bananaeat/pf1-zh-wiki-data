@@ -1,0 +1,9 @@
+{{Trait
+|name=满嘴谎言
+|english_name=Liar's Tongue
+|type=宗教
+|prerequisites=信仰[[阿斯莫迪斯]]
+|description=多亏你友善的外表和能说会道的舌头，你的谎言经常被信以为真。你在[[唬骗]]上获得+1背景加值，且唬骗视作你的[[本职技能]]。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

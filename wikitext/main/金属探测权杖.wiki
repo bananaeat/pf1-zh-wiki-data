@@ -1,0 +1,15 @@
+{{魔法物品
+|name=金属探测权杖
+|english_name=Rod of Metal and Mineral Detection
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Metal and Mineral Detection
+|cat=权杖
+|aura=中等预言系
+|cl=9
+|slot=无
+|price=10,500 gp
+|weight=5磅
+|description=这根[[魔法物品#权杖|权杖]]既受宝藏猎人也受矿工的看重，因为靠近金属时，它会在使用者手中搏动并发出嗡嗡声。使用者用权杖指向某处时，搏动会随着权杖指向30尺内最大的一块金属而变得更加明显。不过，使用者也可以专注于某种特定的金属或矿物。如果这种特定矿物在30尺内，权杖会指向它所在的各处，使用者也能知道它的大致数量。如果范围内有不止一处所指定的金属或矿物的矿藏，权杖会先指向最大的一处。每次使用需要一个[[整轮动作]]。
+|req=[[制造权杖]]、[[物品定位术]]
+|cost=5,250 gp
+|source=核心规则书、极限宝具
+}}

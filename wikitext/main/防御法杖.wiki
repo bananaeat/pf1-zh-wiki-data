@@ -1,0 +1,20 @@
+{{魔法物品
+|name=防御法杖
+|english_name=Staff of Defense
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Defense
+|cat=法杖
+|aura=强烈防护系
+|cl=15
+|slot=无
+|price=62,000 gp
+|weight=5磅
+|description=防御法杖是一根看上去朴素的、打磨过的木杖，防御性地握持时，其中的力量会随之搏动。它可以使用以下法术：
+
+* [[护盾术]]（1 发）
+* [[虔诚护盾]]（1 发）
+* [[护卫他人]]（1 发）
+* [[秩序护盾]]（3 发）
+|req=[[制造法杖]]、[[护盾术]]、[[虔诚护盾]]、[[秩序护盾]]、[[护卫他人]]，制造者必须是守序阵营
+|cost=31,000 gp
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=铁绳
+|english_name=Iron Rope
+|aon=MagicWondrousDisplay.aspx?FinalName=Iron Rope
+|cat=奇物
+|aura=微弱变化系
+|cl=4
+|slot=无
+|price=750 gp
+|weight=1磅
+|description=握住这根灰色[[麻绳]]的一端并说出命令字，它就会不可逆转地变成实心的铁。变成铁的绳子失去全部魔力，其硬度和生命值与普通的一寸粗铁条相同。绳子制造出来时长25尺，但可以最多切断三次，每一段绳子都可以单独下令硬化。
+|req=[[制造奇物]]、[[活化绳]]
+|cost=375 gp
+|source=极限宝具
+}}

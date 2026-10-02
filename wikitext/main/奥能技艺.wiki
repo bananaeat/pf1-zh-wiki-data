@@ -1,0 +1,348 @@
+{{奥能师导航}}
+{{Source|进阶职业指南|Advanced Class Guide}}
+
+'''奥能技艺'''（Arcanist Exploit）是[[奥能师]]可以选取的一类能力。
+
+通过扭曲、甚至打破魔法的规则，奥能师习得了怎样开发魔法规律中的漏洞和特例。有的技艺还能让他粉碎各种形态的魔法，将其精华加入他的[[奥能师#奥能源泉|奥能源泉]]。1级和之后每2级，奥能师习得一项新的奥能技艺。一项奥能技艺只能选择一次。一旦奥能技艺选定后则无法再更改。多数奥能技艺需要奥能师从奥能源泉中消费点数来施展。若无特别说明，奥能技艺的豁免DC为“10+1/2奥能师等级+奥能师的魅力调整值”。
+
+11级和之后每2级，奥能师可以选择一项[[#高等技艺|高等技艺]]来取代一项奥能技艺。
+
+== 酸液喷射 (Acid Jet, Su) ==
+<span id="酸液喷射"></span>
+{{:酸液喷射}}
+
+== 奥能壁障 (Arcane Barrier, Su) ==
+<span id="奥能壁障"></span>
+{{:奥能壁障}}
+
+== 奥能武器 (Arcane Weapon, Su) ==
+<span id="奥能武器"></span>
+{{:奥能武器}}
+
+== 血统升华 (Bloodline Development) ==
+<span id="血统升华"></span>
+{{:血统升华}}
+
+== 转耗魔具 (Consume Magic Items, Su) ==
+<span id="转耗魔具"></span>
+{{:转耗魔具}}
+
+== 法术反制 (Counterspell, Su) ==
+<span id="法术反制"></span>
+{{:法术反制}}
+
+== 次元滑步 (Dimensional Slide, Su) ==
+<span id="次元滑步"></span>
+{{:次元滑步}}
+
+== 能量护盾 (Energy Shield, Su) ==
+<span id="能量护盾"></span>
+{{:能量护盾}}
+
+== 魔宠 (Familiar, Ex) ==
+<span id="魔宠"></span>
+{{:魔宠(奥能技艺)}}
+
+== 烈焰之弧 (Flame Arc, Su) ==
+<span id="烈焰之弧"></span>
+{{:烈焰之弧}}
+
+== 力场痛击 (Force Strike, Su) ==
+<span id="力场痛击"></span>
+{{:力场痛击}}
+
+== 寒冰飞弹 (Ice Missile, Su) ==
+<span id="寒冰飞弹"></span>
+{{:寒冰飞弹}}
+
+== 物品制造 (Item Crafting) ==
+<span id="物品制造"></span>
+{{:物品制造}}
+
+== 雷电投枪 (Lightning Lance, Su) ==
+<span id="雷电投枪"></span>
+{{:雷电投枪}}
+
+== 超魔学识 (Metamagic Knowledge) ==
+<span id="超魔学识"></span>
+{{:超魔学识}}
+
+== 混合超魔 (Metamixing, Su) ==
+<span id="混合超魔"></span>
+{{:混合超魔}}
+
+== 强化魔法 (Potent Magic, Su) ==
+<span id="强化魔法"></span>
+{{:强化魔法}}
+
+== 快速研读 (Quick Study, Ex) ==
+<span id="快速研读"></span>
+{{:快速研读}}
+
+== 学派理解 (School Understanding) ==
+<span id="学派理解"></span>
+{{:学派理解}}
+
+== 魔法视觉 (See Magic, Su) ==
+<span id="魔法视觉"></span>
+{{:魔法视觉}}
+
+== 法术打断 (Spell Disruption, Su) ==
+<span id="法术打断"></span>
+{{:法术打断}}
+
+== 法术抗力 (Spell Resistance, Su) ==
+<span id="法术抗力"></span>
+{{:法术抗力(奥能技艺)}}
+
+== 法术调整 (Spell Tinkerer, Su) ==
+<span id="法术调整"></span>
+{{:法术调整}}
+
+== 迅捷转耗 (Swift Consume, Ex) ==
+<span id="迅捷转耗"></span>
+{{:迅捷转耗}}
+
+== 勒彼斯塔德变形者 (Lepidstadt Shifter, Su) ==
+<span id="勒彼斯塔德变形者"></span>
+{{:勒彼斯塔德变形者}}
+
+== 变形转换 (Altered Shifting, Su) ==
+<span id="变形转换"></span>
+{{:变形转换}}
+
+== 第一世界面容窃贼 (First-World Face Thief, Su) ==
+<span id="第一世界面容窃贼"></span>
+{{:第一世界面容窃贼}}
+
+== 第一世界幻术捕手 (First-World Illusion Catcher, Su) ==
+<span id="第一世界幻术捕手"></span>
+{{:第一世界幻术捕手}}
+
+== 奈多阴影面纱 (Nidalese Shadow Veil, Su) ==
+<span id="奈多阴影面纱"></span>
+{{:奈多阴影面纱}}
+
+== 音鸣冲击 (Sonic Blast, Su) ==
+<span id="音鸣冲击"></span>
+{{:音鸣冲击}}
+
+== 第三只眼 (Third Eye, Su) ==
+<span id="第三只眼"></span>
+{{:第三只眼}}
+
+== 奥术发现 (Arcane Discovery) ==
+<span id="奥术发现"></span>
+{{:奥术发现(奥能技艺)}}
+
+== 慈善魔法 (Philanthropic Magic, Su) ==
+<span id="慈善魔法"></span>
+{{:慈善魔法}}
+
+== 原能魔法 (Primal Magic, Sp) ==
+<span id="原能魔法"></span>
+{{:原能魔法(奥能技艺)}}
+
+== 混淆施法 (Obfuscated Spellcasting, Su) ==
+<span id="混淆施法"></span>
+{{:混淆施法}}
+
+== 外层裂隙技艺 (Exploits of the Outer Rifts) ==
+<span id="外层裂隙技艺"></span>
+{{Source|惧怖国度|Horror Realms|inline}}
+
+{{AI翻译|nocat=1|本段由 AI 照 AoN 英文原文译出，CHM 汉化里没有这段译文，未经人工校对。}}
+奥能师钻研古老的知识与神秘的学问，操控自身的天赋能力来解开强大的奥术秘密。然而尽管付出了大量努力，并非所有奥能师都能获得他们所追求的力量。有些人发现自己的血脉缺乏术士那样的天生力量，或是发现解读古籍中的奥秘需要一种他们并不具备的治学功夫。这些人并不气馁，转而求助于外层裂隙的强大奥秘来继续他们的探求——无论是在失落遗迹中找到的亵渎秘密、刻在邪魔符文石上的魔法诀窍，还是源自那些恐怖国度的其他任何危险而邪恶的利用手段。选择这条路的奥能师未必都是邪恶的——他们为这些技艺辩护，声称自己能掌控自己的行为，是在用敌人的工具对付敌人。尽管如此，借助外层裂隙技艺扭曲魔法的人仍应当警惕，以免招来不该招惹的注意，或是助长比他们想要击败的邪恶更大的邪恶。
+
+以下七项技艺（从猩红泪水到畸变触须）是外层裂隙技艺，可以被任何阵营的奥能师学习，但它们都伴随着风险。如果你使用一个外层裂隙技艺，并因此将你的奥能源泉减少到0，你会立即从[[受诅]]、[[恶魔化]]、[[狱契]]或[[附身]]这几种[[腐化]]之一中获得一种变异的污染。GM决定你获得的是哪种腐化、变异和污染；该污染会持续24小时。在24小时内多次以此种方式将你的奥能源泉减少到0，每次都会获得一种新的污染，并且将所有如此获得的污染的计时重置为24小时。GM可以决定多次以此种方式滥用技艺会导致永久性的腐化，但在其他情况下，这些腐化都是临时性的且不会恶化。你永远无法用这种方式获得腐化的恩典。
+
+若无特别说明，奥能师技艺的豁免DC等于“10+1/2奥能师职业等级+奥能师的魅力调整值”。
+
+== 猩红泪水 (Blood Tears, Su) ==
+<span id="猩红泪水"></span>
+{{:猩红泪水}}
+
+== 诅咒呢喃 (Damnation Susurrus, Su) ==
+<span id="诅咒呢喃"></span>
+{{:诅咒呢喃}}
+
+== 炼狱象鼻 (Fiendish Proboscis, Su) ==
+<span id="炼狱象鼻"></span>
+{{:炼狱象鼻}}
+
+== 裂隙迷雾 (Rift Fog, Su) ==
+<span id="裂隙迷雾"></span>
+{{:裂隙迷雾}}
+
+== 无边暗影 (Shadows Out of Light, Su) ==
+<span id="无边暗影"></span>
+{{:无边暗影}}
+
+== 灵魂骑师 (Soulrider, Su) ==
+<span id="灵魂骑师"></span>
+{{:灵魂骑师}}
+
+== 畸变触须 (Tentacles, Su) ==
+<span id="畸变触须"></span>
+{{:畸变触须}}
+
+== 盔甲面具 (Armored Mask, Su) ==
+<span id="盔甲面具"></span>
+{{:盔甲面具}}
+
+== 天真无邪 (Aspect of Innocence, Su) ==
+<span id="天真无邪"></span>
+{{:天真无邪}}
+
+== 魅力四射 (Charmer, Su) ==
+<span id="魅力四射"></span>
+{{:魅力四射(奥能技艺)}}
+
+== 修补肉体 (Mending Flesh, Su) ==
+<span id="修补肉体"></span>
+{{:修补肉体}}
+
+== 明确召唤 (Focused Summoning, Su) ==
+<span id="明确召唤"></span>
+{{:明确召唤}}
+
+== 圣水喷流 (Holy Water Jet, Su) ==
+<span id="圣水喷流"></span>
+{{:圣水喷流}}
+
+== 秩序施法 (Orderly Casting, Su) ==
+<span id="秩序施法"></span>
+{{:秩序施法}}
+
+== 野性变形 (Feral Shifting, Su) ==
+<span id="野性变形"></span>
+{{:野性变形}}
+
+== 操控火焰 (Flame Control, Su) ==
+<span id="操控火焰"></span>
+{{:操控火焰}}
+
+== 天气预报 (Weather Sage, Su) ==
+<span id="天气预报"></span>
+{{:天气预报}}
+
+== 荒野奔行 (Wild Stride, Su) ==
+<span id="荒野奔行"></span>
+{{:荒野奔行}}
+
+== 木质血肉 (Wooden Flesh, Su) ==
+<span id="木质血肉"></span>
+{{:木质血肉}}
+
+== 原能转移 (Redirect Primal Magic, Su) ==
+<span id="原能转移"></span>
+{{:原能转移}}
+
+== 原能促发 (Invoke Primal Magic, Su) ==
+<span id="原能促发"></span>
+{{:原能促发}}
+
+== 抵抗原能魔法 (Resist Primal Magic, Su) ==
+<span id="抵抗原能魔法"></span>
+{{:抵抗原能魔法}}
+
+== 高等技艺 (Greater Exploits) ==
+<span id="高等技艺"></span>
+{{Source|进阶职业指南|Advanced Class Guide|inline}}
+
+11级和之后每2级，奥能师可以选择下列高等技艺之一来取代一项奥能技艺。
+
+== 调整附魔 (Alter Enhancements, Su) ==
+<span id="调整附魔"></span>
+{{:调整附魔}}
+
+== 灼烧烈焰 (Burning Flame, Su) ==
+<span id="灼烧烈焰"></span>
+{{:灼烧烈焰}}
+
+== 反制吸取 (Counter Drain, Su) ==
+<span id="反制吸取"></span>
+{{:反制吸取}}
+
+== 跃动雷电 (Dancing Electricity, Su) ==
+<span id="跃动雷电"></span>
+{{:跃动雷电}}
+
+== 能量吸收 (Energy Absorption, Su) ==
+<span id="能量吸收"></span>
+{{:能量吸收(奥能技艺)}}
+
+== 高等法术反制 (Greater Counterspell, Su) ==
+<span id="高等法术反制"></span>
+{{:高等法术反制}}
+
+== 高等超魔学识 (Greater Metamagic Knowledge) ==
+<span id="高等超魔学识"></span>
+{{:高等超魔学识}}
+
+== 高等法术抗力 (Greater Spell Resistance, Su) ==
+<span id="高等法术抗力"></span>
+{{:高等法术抗力}}
+
+== 高等法术打断 (Greater Spell Disruption, Su) ==
+<span id="高等法术打断"></span>
+{{:高等法术打断}}
+
+== 冰霜墓穴 (Icy Tomb, Su) ==
+<span id="冰霜墓穴"></span>
+{{:冰霜墓穴}}
+
+== 缠身酸液 (Lingering Acid, Su) ==
+<span id="缠身酸液"></span>
+{{:缠身酸液}}
+
+== 法术变向 (Redirect Spell, Su) ==
+<span id="法术变向"></span>
+{{:法术变向}}
+
+== 抗力吸取 (Resistance Drain, Su) ==
+<span id="抗力吸取"></span>
+{{:抗力吸取}}
+
+== 法术虹吸 (Siphon Spell, Su) ==
+<span id="法术虹吸"></span>
+{{:法术虹吸}}
+
+== 法术偷取 (Spell Thief, Su) ==
+<span id="法术偷取"></span>
+{{:法术偷取}}
+
+== 受难学识 (Suffering Knowledge, Su) ==
+<span id="受难学识"></span>
+{{:受难学识}}
+
+== 转换魔杖 (Convert Wand, Su) ==
+<span id="转换魔杖"></span>
+{{:转换魔杖}}
+
+== 狱焰射线 (Hellfire Ray, Su) ==
+<span id="狱焰射线"></span>
+{{:狱焰射线}}
+
+== 大漩涡跃迁 (Maelstrom Jump, Su) ==
+<span id="大漩涡跃迁"></span>
+{{:大漩涡跃迁}}
+
+== 原能转耗 (Consume Primal Magic, Su) ==
+<span id="原能转耗"></span>
+{{:原能转耗}}
+
+== 原能反制 (Counterspell Primal Magic, Su) ==
+<span id="原能反制"></span>
+{{:原能反制}}
+
+== 原能制成 (Create Primal Event, Su) ==
+<span id="原能制成"></span>
+{{:原能制成}}
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_96.html 原文]），按 AoN 核对过。
+
+{{AoN原文|1=ArcanistExploits.aspx|2=Arcanist Exploits}}
+
+[[分类:奥能师]]
+{{职业}}

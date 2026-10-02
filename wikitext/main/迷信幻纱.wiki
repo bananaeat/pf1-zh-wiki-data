@@ -1,0 +1,10 @@
+{{Feat
+|name=迷信幻纱
+|english_name=Believable Veils
+|description=你所信奉的神祇教谕使你可以安全的保护自己的秘密
+|prerequisites=施法者等级3，可以施放至少一个具有五官幻象或虚假幻象子系的法术，信仰西芙娜
+|benefit=每天一次，你在创造一个具有五官幻象或虚假幻象的效果时，你可以使识破此效果的DC+2.
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

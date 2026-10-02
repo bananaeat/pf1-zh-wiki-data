@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Darklands pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=脑中之声
+|english_name=Voices in your Head
+|type=社会
+|description=通过与异界存在订立的契约，或仅仅是机缘巧合，你的声音与陷入疯狂的人之间有着一种不可思议的默契。每天一次，你可以用一个直觉动作向30尺内一个陷入[[困惑]]状态的生物下达一个命令。这让该生物立即在《核心手册》第566页的困惑状态表上重掷一次，并由你选择该生物执行两次结果中的哪一个行动——初次掷骰的行动或重掷的行动。困惑的生物不需要听懂你的话，此背景特性也能生效。
+|source_name=幽暗地域英雄
+|source=HotD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Voices%20in%20your%20Head
+}}

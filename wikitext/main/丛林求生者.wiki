@@ -1,0 +1,10 @@
+{{Feat
+|name=丛林求生者
+|english_name=Jungle Survivalist
+|description=对你来说，那些往往瘟疫肆虐的雨林是安全的避风港和家园。
+|prerequisites=偏好地形（丛林）职业能力。
+|benefit=在对抗疾病、毒素、以及那些集群亚种生物的扰乱心神能力时，你的豁免骰获得+2加值。当你攀爬树木时，你的特技和攀爬检定获得+2加值。在对抗那些处于植被中可在隐匿检定上获得种族加值的生物时，你的察觉检定获得+2加值。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

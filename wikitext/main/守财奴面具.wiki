@@ -1,0 +1,15 @@
+{{魔法物品
+|name=守财奴面具
+|english_name=Miser's Mask
+|aon=MagicWondrousDisplay.aspx?FinalName=Miser's Mask
+|cat=奇物
+|aura=微弱预言系
+|cl=1
+|slot=头部
+|price=3,000 gp
+|weight=1磅
+|description=这副木面具刻画的是一个脸颊凹陷、长着朝天鼻的守财奴面容。面具赋予佩戴者[[灵敏嗅觉]]能力（见《怪物图鉴》第304页），不过她只能用它感知硬币和宝石。对佩戴者来说，每种宝石的每种品质都有自己独特的气息，使她在判定宝石价值的[[估价]]检定上获得+5表现加值。
+|req=[[制造奇物]]、[[猎犬追踪]]，制造者必须有4级[[估价]]
+|cost=1,500 gp
+|source=极限宝具
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=业火灼身
+|english_name=Unblinking Flame Fist
+|categories=战斗;流派
+|description=你能够如同肆虐的火焰一般充分利用敌人防守上的破绽。
+|prerequisites=智力13，感知13，[[寓守于攻]]，[[无瑕式]]，[[震慑拳]]，[[业火袭]]，基本攻击加值+13或武僧等级13级
+|benefit=若你正在使用[[无瑕式]]，[[措手不及]]的目标在对抗你的[[震慑拳]]时，震慑拳DC提高2点。当你花费1点气来在1轮内获得[[精通虚招]]的好处时，可以在冲锋时将[[虚招]]的尝试作为移动的一部分。
+|source=ISC
+|source_name=内海战斗
+|source_url=https://pf1chm.pages.dev/topics/page_276.html
+}}

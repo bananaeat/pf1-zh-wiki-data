@@ -1,0 +1,17 @@
+{{Spell
+|name=共用防护箭矢
+|english_name=Protection from Arrows, Communal
+|school=防护系
+|levels=召唤师 3;召唤师（掉链） 3;奥能师 3;异能者 3;术士 3;法师 3;炼金术师 3;调查员 3
+|action=标准动作
+|components=语言;姿势;法器（一片陆龟壳或海龟壳）
+|range=接触
+|target=接触到的复数生物
+|duration=1小时/等级或直到释放
+|save=意志，通过则无效（无害）
+|sr=是
+|description=这个法术工作方式如同[[防护箭矢]]，不过你可以以一个小时为单位将持续时间分配给接触到的复数生物。
+
+一旦这个法术为一个目标吸收了每施法者等级10点伤害 (最高100点)，该目标身上的法术效果结束。
+|source=极限战斗
+}}

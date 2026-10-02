@@ -1,0 +1,9 @@
+{{Trait
+|name=调停人
+|english_name=Mediator
+|type=社会
+|description=你脾气平和，擅长用冷静的逻辑平缓激烈的争执，而你总是在你的朋友间，家族中和社区里扮演居中调停的角色。你的交涉检定获得+1背景加值。此外，任何不提供持续控制、并使对象做出和平举动的魅惑或胁迫效果（例如[[安定心神]]、[[睡眠术]]或要求放下武器的[[暗示术]]），其DC获得+1背景加值。
+|source_name=社会背景
+|source=CoP
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

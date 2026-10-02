@@ -1,0 +1,9 @@
+{{Trait
+|name=紧贴大地
+|english_name=Earthbound
+|type=魔法
+|prerequisites=[[矮人]]
+|description=你的德鲁伊法术除常规成分外，还要用一把泥土或沙子作为法器。当你接触地面时，你对具有气亚种的生物施放的所有法术，其豁免DC和克服[[特殊能力#法术抗力|法术抗力]]的施法者等级检定获得+2背景加值。
+|source_name=格拉里昂的矮人
+|source_url=https://pf1chm.pages.dev/topics/page_1586.html
+}}

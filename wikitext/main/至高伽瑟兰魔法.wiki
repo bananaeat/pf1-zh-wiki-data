@@ -1,0 +1,10 @@
+{{Feat
+|name=至高伽瑟兰魔法
+|english_name=Superior Gathlain Magic
+|description=你的经历使你可以显著地开发你天生的魔法能力。
+|prerequisites=魅力17，进阶伽瑟兰魔法，高等伽瑟兰魔法，角色等级15，伽瑟兰
+|benefit=你获得下述法术作为类法术能力，每项每日可以施展一次：橡树守卫，融身入林。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/page_814.html
+}}

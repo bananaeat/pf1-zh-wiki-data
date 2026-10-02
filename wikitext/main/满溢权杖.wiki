@@ -1,0 +1,15 @@
+{{魔法物品
+|name=满溢权杖
+|english_name=Overflowing Rod
+|aon=MagicRodsDisplay.aspx?FinalName=Overflowing Rod
+|cat=权杖
+|aura=中等塑能系
+|cl=10
+|slot=无
+|price=25,000 gp
+|weight=1磅
+|description=满溢权杖能放大并聚焦[[操念使]]超载的副作用。当操念使持有该[[魔法物品#权杖|权杖]]时，她在决定自身元素满溢能力的效果时视为高3级。若被没有元素满溢能力的角色所使用，权杖会给予持用者3级操念使元素满溢能力的好处（这通常只对那些低级的操念使，或是选用了将元素满溢能力取代为其他职业能力的操念使变体的角色有所帮助）。
+|req=[[制造权杖]]，制造者必须是10级操念使
+|cost=12,500 gp
+|source=异能冒险
+}}

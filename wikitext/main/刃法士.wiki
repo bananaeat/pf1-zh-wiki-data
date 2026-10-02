@@ -1,0 +1,9 @@
+{{Trait
+|name=刃法士
+|english_name=Bladed Magic
+|type=魔法
+|description=你在为武器附魔与用魔法武器战斗方面拥有超常天赋。你用于制造魔法或精制武器的工艺检定获得+1背景加值。此外，每当你利用奥能力池职业能力为武器附魔时，该附魔效果持续2分钟而非1分钟。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

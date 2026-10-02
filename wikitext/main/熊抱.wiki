@@ -1,0 +1,11 @@
+{{Feat
+|name=熊抱
+|english_name=Bear Hug
+|categories=战斗
+|description=你能用有力的上肢粉碎敌人。
+|prerequisites=力量17，[[陷阱熊咬]]，[[武器专攻]]（啮咬），基础攻击加值+8
+|benefit=你能对一个被你的[[陷阱熊咬]]专长困住的敌人尝试[[擒抱]]而不引发[[借机攻击]]。你对你擒抱的目标的伤害骰得到＋2加值。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_809.html
+}}

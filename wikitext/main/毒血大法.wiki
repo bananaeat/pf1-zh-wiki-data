@@ -1,0 +1,11 @@
+{{Trait
+|name=毒血大法
+|english_name=Venom-Drenched
+|type=宗教
+|prerequisites=[[半身人]]；信仰[[诺格巴]]
+|description=你对于一种毒素产生免疫。实际上，你喝了一剂该毒素，你的血液也有毒了。你免疫一种特定的非魔法毒素(CRB 559),若你服用一剂该毒素(即使它本来是接触、伤口或吸入类毒素),它会留在你的循环系统内24小时；任何这段时间内咬了你的生物都遭受该毒素的效果。
+
+|source_name=宗教背景
+|source=HoG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

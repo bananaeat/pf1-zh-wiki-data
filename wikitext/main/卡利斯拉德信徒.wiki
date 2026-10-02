@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 6），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=卡利斯拉德信徒
+|english_name=Devotee of Kalistrade
+|type=地区
+|prerequisites=杜鲁玛
+|description=作为卡利斯拉德预言的追随者，你深知一笔好买卖的重要性。你的[[估价]]检定获得+1背景加值，并且你在试图与非信徒达成交易时进行的[[唬骗]]检定获得+1背景加值。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Devotee%20of%20Kalistrade
+}}

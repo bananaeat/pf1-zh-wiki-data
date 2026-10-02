@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=高等恶魔图腾
+|english_name=Fiend Totem, Greater
+|type=Su
+|categories=图腾
+|prerequisites=[[野蛮人]]10级，[[恶魔图腾]]
+|benefit=狂暴时，野蛮人四周围绕着威胁光环。邻接野蛮人的善良生物进入[[战栗]]状态，并在野蛮人的回合开始时受到2d6点挥砍伤害，如同被数十把利刃割裂血肉。邻接野蛮人的中立生物会战栗，但不会受伤。邪恶生物不会受到影响。
+|source_name=进阶玩家指南
+}}

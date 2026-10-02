@@ -1,0 +1,14 @@
+{{魔法物品
+|name=狂霸浪子衫衣
+|english_name=Blouse of the Boastful Bastard
+|aon=MagicWondrousDisplay.aspx?FinalName=Blouse of the Boastful Bastard
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=胸部
+|price=8,000 gp
+|description=这件时尚的紫色丝绸衬衫饰有金线刺绣的图案，即便是最保守的游荡剑客，穿上它也会变得鲁莽放肆。如果穿戴者具有派头职业特性，那么当她因被成功重击而受到伤害时，恢复1点时髦值。这件衬衫对不具有派头的人没有效果。
+|req=[[制造奇物]]、[[神导术]]、[[魔法伎俩]]、[[提升抗力]]
+|cost=4,000 gp
+|source=进阶职业指南
+}}

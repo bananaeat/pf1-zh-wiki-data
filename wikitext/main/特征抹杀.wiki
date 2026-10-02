@@ -1,0 +1,11 @@
+{{Feat
+|name=特征抹杀
+|english_name=Destroy Identity
+|categories=战斗;重击
+|description=你可以使用你的武器削除你对手最引以为傲的与众不同之处。
+|prerequisites=[[重击专攻]]，基础攻击加值+11，信仰拉玛什图
+|benefit=每当你成功的对一个对手造成一次重击，他就必须承受2点魅力伤害并[[恍惚]]一轮。
+|source=FoP/FoB/FoC、ISG
+|source_name=纯善／平衡／堕落信念、内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}

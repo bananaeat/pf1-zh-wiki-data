@@ -1,0 +1,18 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=谢普西阿克葬仪面具
+|english_name=Shepsi-ak's Funerary Mask
+|aon=MagicWondrousDisplay.aspx?FinalName=Shepsi-ak's Funerary Mask
+|cat=奇物
+|aura=中等（学派不定）
+|cl=9
+|slot=头部
+|price=9,000 gp
+|weight=1磅
+|description=不死生物戴上这副金色面具后，在判定其能否成为幻术和变化系法术（例如[[变身术]]或[[易容术]]）的目标时，会同时被视为不死生物，以及它成为不死生物之前所属类型的生物（包括该类型相关的所有子类型）。
+
+戴着面具的尸体会获得[[遗体防腐]]和[[尸体圣化]]的效果。戴着面具的活物不会获得任何效果。
+|req=[[制造奇物]]、[[变形术]]、[[尸体圣化]]
+|cost=4,500 gp
+|source=不死生物横行
+}}

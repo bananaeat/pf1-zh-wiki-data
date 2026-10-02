@@ -1,0 +1,12 @@
+{{Feat
+|name=狗头人流
+|english_name=Kobold Style
+|categories=战斗;流派
+|pfs=否
+|description=你可以控制措手不及的敌人。
+|prerequisites=寓守于攻，小体型或更小
+|benefit=你对AC上失去敏捷加值的敌人的战技检定获得+4加值。
+|source=KoG
+|source_name=格拉利昂的狗头人
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

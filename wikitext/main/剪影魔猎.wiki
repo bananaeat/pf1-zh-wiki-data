@@ -1,0 +1,10 @@
+{{Trait
+|name=剪影魔猎
+|english_name=Wayang Spellhunter
+|type=地区
+|prerequisites=来自民那塔
+|benefit=你生长在民那塔[[剪影人]]聚集的群岛之一。天生善于使用魔法进行狩猎。选择一个3环或更低的法术，你以[[超魔专长]]施放这个法术时，其最终占用的法术环位视为比正常状况降低1级。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://pf1chm.pages.dev/topics/page_1557.html
+}}

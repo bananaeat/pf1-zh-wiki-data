@@ -1,0 +1,16 @@
+{{魔法物品
+|name=预言家的茶
+|english_name=Seer's Tea
+|aon=MagicWondrousDisplay.aspx?FinalName=Seer's Tea
+|cat=奇物
+|aura=微弱预言系
+|cl=3
+|slot=无
+|price=550 gp
+|description=这种浓茶可以用许多种药草制成。不使用滤网冲泡并饮用后，饮用者可以读取杯底剩下的茶叶形状，获得[[占卜术]]法术的效果。
+
+此外，未冲泡的茶叶可以用作施展占卜术时的额外材料成分，这样就不再需要法器。这种情况下，施法者获得的信息如同她施展的是[[预言术]]。
+|req=[[制造奇物]]、[[占卜术]]或[[预言术]]
+|cost=275 gp
+|source=极限宝具
+}}

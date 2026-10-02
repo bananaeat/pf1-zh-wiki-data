@@ -1,0 +1,11 @@
+{{Feat
+|name=精通元素法术反制
+|english_name=Improved Elemental Counterspell
+|description=你可以向[[念袭]]中注入足以来撕碎[[元素法术]]的毁灭性元素能量
+|prerequisites=来自两种不同元素的基础念袭原力，元素扩展职业能力，念袭职业能力
+|benefit=如果目标法术有以下描述符:气、寒冷、黑暗、土、电击、火、力场、光亮或水，你就可以通过[[准备动作]]使用念袭来反制环位相同或较低的任何法术。
+|normal=准备的念袭只能反制相同描述符的法术。
+|source=EMH
+|source_name=元素大师手册
+|source_url=https://pf1chm.pages.dev/topics/zh46147d25af.htm
+}}

@@ -1,0 +1,8 @@
+{{Trait
+|name=鞭如钩
+|english_name=Prehensile Whip
+|type=装备
+|description=鞭子在你的手中好像活了过来，可以轻松地缠绕柱子和横梁。你可以把鞭子当作一根末端系有抓钩的绳子来使用。使用你的鞭子钩住一个地方是一个[[标准动作]]，但解开它需要一个[[整轮动作]]。
+|source_name=装备背景
+|source_url=https://pf1chm.pages.dev/topics/page_1579.html
+}}

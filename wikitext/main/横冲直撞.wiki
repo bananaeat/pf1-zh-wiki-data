@@ -1,0 +1,15 @@
+{{Feat
+|name=横冲直撞
+|english_name=Merciless Rush
+|categories=战斗
+|description=纵使成群的敌人拦在你面前，他们也很少能久立不倒。
+|prerequisites=[[精通冲撞]]，信仰拉瓦古格
+|benefit=当你对一个生物发动[[冲撞]][[战技]]且你的检定结果超过对方的[[CMD]]5点或更多，你对该目标造成等同于你力量调整值的伤害。
+|source=FoP/FoB/FoC、ISG
+|source_name=纯善／平衡／堕落信念、内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[碾压冲撞]]（1 个条目）

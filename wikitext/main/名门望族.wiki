@@ -1,0 +1,10 @@
+{{Trait
+|name=名门望族
+|english_name=Pristine Reputation
+|type=宗教
+|prerequisites=信仰[[静琉]]
+|description=你来自一个受人尊敬的家族，教派，学社或其他团体，你们信仰静琉，并依靠这一传统来维持你们高贵的身份。当你每天第一次对抗魅惑或胁迫效果的豁免失败时，你可以重掷这个豁免，并在这次重掷中获得+2的背景加值，以重掷结果作为该豁免的实际结果。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh484c89782e.htm
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=口袋猎物
+|english_name=Pocket Prey
+|aon=MagicWondrousDisplay.aspx?FinalName=Pocket Prey
+|cat=奇物
+|aura=中等幻术系
+|cl=10
+|slot=无
+|price=6,000 gp
+|weight=3磅
+|description=这个小容器有石制底座和玻璃罩。容器可以容纳半磅血肉或类似的有机物，并将其保存最多24小时。听从命令时，容器会向半径100尺的范围散发所盛物质的气味。此外，容器每分钟会发出一声叫喊，模仿与容器内血肉属于同一种类的受伤个体的叫声。在距容器150尺以内都能清楚听见这声叫喊。
+|req=[[制造奇物]]、[[遗体防腐]]、[[强效幻影]]
+|cost=3,000 gp
+|source=怪物猎人手册
+}}

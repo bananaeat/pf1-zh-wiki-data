@@ -1,0 +1,11 @@
+{{消歧义|守旧派}}
+{{Trait
+|name=守旧者
+|english_name=Traditionalist
+|aon=Traditionalist (Prime Ascended)
+|type=信念
+|description=尽管社会风气不断变迁，你仍努力维持传统，并重视贵族阶层的礼仪与规范。你在知识(贵族)检定中获得+1背景加值，且该技能为你的[[本职技能]]。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh484c89782e.htm
+}}

@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=阴影井
+|english_name=Shadow Well
+|aon=MagicWondrousDisplay.aspx?FinalName=Shadow Well
+|cat=奇物
+|aura=强烈咒法系
+|cl=17
+|slot=无
+|price=82,000 gp
+|description=阴影井不会通往各位面上的随机地点，而是只通往阴影位面上的随机地点（身处阴影位面时，则通往物质位面上的随机地点）。无论使用者从哪个位面开启这口井，它都有15%的几率把使用者随机转送到灵界——因为灵界天然就是这两个现实之间的缓冲区。
+|req=[[制造奇物]]、[[异界之门]]、[[行影术]]
+|cost=41,000 gp
+|source=再探经典宝藏
+}}

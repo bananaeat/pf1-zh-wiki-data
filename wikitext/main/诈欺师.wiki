@@ -1,0 +1,15 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[诈欺师 (神话)]]。</small></div>
+{{Feat
+|name=诈欺师
+|english_name=Deceitful
+|aliases=欺诈
+|description=你善于欺骗他人，无论谎言还是乔装[[易容]]。
+|benefit=你在所有[[唬骗]]和易容技能检定上获得+2加值。如果某技能受训等级10以上，则对应加值改为+4。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[反击误导]]、[[愚弄魔道具]]、[[戴高帽]]、[[掩饰施法]]、[[杯弓蛇咒]]、[[煽动猜忌]]、[[狡诈施法者]]、[[精通掩饰施法]]、[[误导战法]]、[[转向误导]]、[[飘渺附魔术]]（11 个条目）

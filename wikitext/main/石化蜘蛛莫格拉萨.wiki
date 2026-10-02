@@ -1,0 +1,18 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=石化蜘蛛莫格拉萨
+|english_name=Mog-Lathar, the Petrified Spider
+|aon=MagicArtifactsDisplay.aspx?ItemName=Mog-Lathar, the Petrified Spider
+|cat=神器
+|tier=高等神器
+|aura=强烈（所有学派）
+|cl=20
+|weight=6,000磅
+|description=莫格拉萨（Mog-Lathar）是一具保存完好的巨型[[冷蛛]]化石，已经产生了智慧。自从它在灵旋山脉（Mindspin Mountains）被发现并随后运抵桥畔（Bridgefront）以来，这尊石化偶像的信徒已增长到300多人。偶像的圣日是春分、秋分，以及北至日。祭品通常是精美的货物，以及深度醉酒、正在做清醒梦的类人生物。
+
+尽管这具石化躯体庞大骇人，但对于同等大小的石质物体而言，这具化石相对易碎：硬度8，生命值78，破坏DC 35。
+
+这尊超大型偶像可以随意活化，如同[[活化物体]]法术；由于两次选择了“神力之源”（divine source）偶像能力，它可以向信徒授予至多5环的神术，这些信徒可使用混乱、邪恶和诡术三个领域。它的“不朽承诺”（immortal promise）能力为至多20名受宠的信徒提供有限的不朽：他们不会衰老，不需要进食、饮水或呼吸，也不受极端高温或严寒的不良影响。
+|destruction=必须把莫格拉萨实际运送到梦境维度（Dimension of Dreams），并将它裹进它的冷蛛同类织出的蛛网中。一旦被结成茧，用银锤一击就会让这尊偶像化为尘土。
+|source=钩街之屋
+}}

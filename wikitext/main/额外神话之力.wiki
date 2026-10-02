@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>本页是专长。神话角色的同名[[通用道途能力]]见 [[额外神话之力（道途能力）]]。</small></div>
+{{Feat
+|name=额外神话之力
+|english_name=Extra Mythic Power
+|categories=神话
+|description=和通常情况相比，你在对应阶层所能储存的神话之力更多。
+|benefit=每日你获得额外2次神话之力使用次数。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

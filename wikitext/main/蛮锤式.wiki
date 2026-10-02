@@ -1,0 +1,16 @@
+{{Feat
+|name=蛮锤式
+|english_name=Cudgeler Style
+|categories=战斗;流派
+|pfs=否
+|description=你知道如何冲向敌人并给予使其丧失行动力的一击。
+|prerequisites=[[钝击士]]
+|benefit=当你处于该[[流派]]下冲锋命中敌人并选择造成非致命伤害时，你的武器伤害骰视为增大1级来造成伤害。若你在冲锋后可以进行不止1次攻击，该专长只对第一次攻击起效。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[蛮锤扫]]、[[蛮锤撞]]（2 个条目）

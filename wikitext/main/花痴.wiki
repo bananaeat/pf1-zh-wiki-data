@@ -1,0 +1,10 @@
+{{Trait
+|name=花痴
+|english_name=Lovesick
+|type=缺陷
+|pfs=否
+|description=你的每个念头都被对另一个人的爱所占据，当你远离那个人时你会陷入沮丧。
+|benefit=由GM为你选择一个对象(如果你使用了背景生成器，参考你在表1–56：浪漫关系上的结果)。在每天开始时，如果你远离这个人，你的[[先攻]]和察觉检定获得-2罚值。如果你失去了此人或不再爱此人，该缺陷被替换为[[疑虑]]。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

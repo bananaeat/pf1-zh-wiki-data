@@ -1,0 +1,14 @@
+{{Spell
+|name=精神屏障 II
+|english_name=Mental Barrier II
+|school=防护系
+|levels=异能者 3
+|action=直觉动作
+|components=语言
+|range=个人
+|target=你
+|duration=1轮
+|sr=否
+|description=该法术的功能如同[[精神屏障 I]]一般，不过AC获得的盾牌加值提升至+6点。此外，[[心灵戳刺 I]]、II和III对你造成的伤害减半（即成功通过意志豁免时降低至四分之一）。该法术可以被降阶施法。
+|source=异能冒险
+}}

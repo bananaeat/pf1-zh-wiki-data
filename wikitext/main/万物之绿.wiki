@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''万物之绿'''（Plantbringer）是一条神话[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Su</span><span class="sk-a">神话</span><span class="sk-f">位置：特性</span></div>
+</noinclude><includeonly><div class="lang"><span id="万物之绿"></span><div class="lang-h"><b>[[万物之绿]]</b><i>Plantbringer</i><span class="lang-w">Su · 神话 · 特性</span></div><div class="lang-d"></includeonly>
+所有距该生物半径 1 英里范围内的植物都会以两倍于正常的速率成长，而且不会遭受任何疾病或病害。此外，距该生物 30 尺内的植物类生物盟友会获得等同于该生物神话等级的[[快速治疗]]。若它使用植物形态或自然变身来化身为植物的形态，它也会在植物形态中获得这些快速治疗。
+
+'''格式'''：万物之绿
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Plantbringer|2=Plantbringer}}
+
+[[分类:通用怪物规则]]</noinclude>

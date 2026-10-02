@@ -1,0 +1,11 @@
+{{消歧义|寻天者}}
+{{Trait
+|name=寻天者
+|english_name=Sky Quester
+|type=种族
+|prerequisites=[[矮人]]
+|description=你从小听着失落的天空堡垒的故事长大，并发誓要找到并夺回其中一座。你在[[知识]]（地理）和知识（历史）检定上获得+1背景加值。这两项技能中的一项（由你选择）总是你的[[本职技能]]。
+|source_name=内海种族
+|source=ISR
+|source_url=https://pf1chm.pages.dev/topics/zh3a98986c0e.htm
+}}

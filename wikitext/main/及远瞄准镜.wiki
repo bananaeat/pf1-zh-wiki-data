@@ -1,0 +1,15 @@
+{{魔法物品
+|name=及远瞄准镜
+|english_name=Far-Reaching Sight
+|aon=MagicWondrousDisplay.aspx?FinalName=Far-Reaching Sight
+|cat=奇物
+|aura=微弱预言系
+|cl=3
+|slot=无
+|price=4,000 gp
+|weight=1磅
+|description=这个瞄准镜可以装在一把双手火器上。装上之后，它就成为该武器的一部分，但可以用一个整轮动作把它从武器上拆下。火器持用者可以选择花费一个整轮动作，用装有此瞄准镜的火器进行单独一次射击。这样做时，无论射程增量如何，她都可以对目标的接触AC结算这次攻击。
+|req=[[制造奇物]]、[[克敌机先]]
+|cost=2,000 gp
+|source=极限战斗、极限宝具
+}}

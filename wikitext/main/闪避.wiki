@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[闪避 (神话)]]。</small></div>
+{{Feat
+|name=闪避
+|english_name=Dodge
+|categories=战斗
+|description=你的训练和反应令你能够迅速闪避攻击。
+|prerequisites=敏捷13。
+|benefit=你可以在AC上获得+1闪避加值。若你失去AC的敏捷加值时，也会同时失去此专长的加值。
+|stamina=如果你移动了自己的移动速度或更远的距离，你可花费最多等同2倍你敏捷加值的耐力点数，这样的话直到你下次回合开始，你获得等同所消耗耐力值一半的AC闪避加值。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：被 56 个条目点名，名单见 [[特殊:链入页面/{{PAGENAME}}|链入页面]]。

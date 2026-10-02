@@ -1,0 +1,19 @@
+{{武器
+|name=鬼头火炮
+|english_name=Cannon, fiend's mouth
+|category=攻城兵器
+|wcat=直射型（超大型）
+|price=9,000 gp
+|weight=—
+|dmg_m=8d6
+|crit=×4
+|range=150尺
+|type=钝击和穿刺
+|groups=攻城兵器，火器
+|crew=3
+|aim=1
+|load=3
+|speed=0尺
+|description=此类重型火炮通常由多块金属分别铸成部件后组装，有时会将炮口塑成恶魔、魔鬼或其他妖怪的大嘴形状。与[[加农火炮]]类似，它们以巨大推进力直接喷射弹药。鬼头火炮的哑火范围为1（炸膛半径30尺）；硬度为10，生命值为140。鬼头火炮的每颗弹丸重30磅，价格为45gp。
+|source=极限战斗
+}}

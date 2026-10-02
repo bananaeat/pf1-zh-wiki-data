@@ -1,0 +1,10 @@
+{{Feat
+|name=血印滑翔
+|english_name=Bloodmarked Flight
+|description=你与你蝙蝠人祖先的相似使你可以笨拙地飞行。
+|prerequisites=＋5 BAB，蝙蝠人后裔
+|benefit=作为一项额外的兽形特征，你变身时可以在轻载且着轻甲或不穿甲时得到30尺飞行速度，机动性不良，或者在中载或重载下或着中甲或重甲时得到20尺飞行速度，机动性笨拙。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_809.html
+}}

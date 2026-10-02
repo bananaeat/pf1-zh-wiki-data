@@ -1,0 +1,14 @@
+{{魔法物品
+|name=翻滚灵药
+|english_name=Elixir of Tumbling
+|aon=MagicWondrousDisplay.aspx?FinalName=Elixir of Tumbling
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=无
+|price=250 gp
+|description=这剂液体能赋予饮用者翻滚腾挪的能力，让其避开攻击，并能小心地在几乎任何表面上移动，使其特技检定在1小时内获得+10表现加值。
+|req=[[制造奇物]]、[[猫之优雅]]
+|cost=125 gp
+|source=核心规则书、极限宝具
+}}

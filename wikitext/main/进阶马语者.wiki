@@ -1,0 +1,10 @@
+{{Feat
+|name=进阶马语者
+|english_name=Improved Horse Whisperer
+|description=你对马匹的理解如此深刻，以至于你可以与其交流，就好像你们拥有一门共同的语言。
+|prerequisites=马语者，驯养动物5级，骑术5级
+|benefit=通过一次成功的DC20的驯养动物检定，你可以与马交流如同你正在使用动物交谈，持续1轮。此时马在沟通交流和采取行动上的能力仍受到其智力的限制。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/zh1a4f7690ca.htm
+}}

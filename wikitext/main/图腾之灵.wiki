@@ -1,0 +1,14 @@
+{{Feat
+|name=图腾之灵
+|english_name=Totem Spirit
+|description=你与你所在部族的神圣图腾有着神秘的联系。
+|prerequisites=休盎提（Shoanti）部族的成员
+|benefit=该专长赋予的好处取决于你属于哪只休盎提部族。莱卢恩-郭[月之部族]（Lyrune-Quah [Moon clan]）：你的意志豁免获得+1加值，察觉检定获得+2加值。夏德-郭[斧之部族]（Shadde-Quah [Axe Clan]）：如果你有狂暴（rage）能力，每日狂暴轮数额外提高3轮。威吓检定获得+2加值。希瑞依奇利-郭[鹰之部族]（Shriikirri-Quah [Hawk Clan]）：你的[[先攻]]检定获得+2加值，骑术检定获得+2加值。香达-郭[塔之部族]（Shundar-Quah [Spire Clan]）：你的强韧豁免获得+1加值，察觉检定获得+2加值。斯克拉-郭[日之部族]（Sklar-Quah [Sun Clan]）：你的反射豁免获得+1加值，特技检定获得+2加值。斯寇昂-郭[颅之部族]（Skoan-Quah [Skull Clan]）：你在对抗不死生物时，武器伤害检定获得+2加值。医疗检定获得+2加值。塔米尔-郭[风之部族]（Tamiir-Quah [Wind Clan]）：你的基本陆地速度提高5尺，特技检定获得+2加值。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[郭之羁绊]]（1 个条目）

@@ -1,0 +1,13 @@
+{{Feat
+|name=重生导能
+|english_name=Channeled Revival
+|aliases=重生引导
+|description=你消耗大量[[引导能量]]从而拒绝死神的降临。
+|prerequisites=【引导能量】6d6（正能量）。
+|benefit=以一个会触发[[借机攻击]]的[[整轮动作]]，你可以消耗3次【引导能量】来复活一个死亡的生物，如同你使用了[[生命之息]]法术。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+{{FAQ|v5748eaic9qt7}}

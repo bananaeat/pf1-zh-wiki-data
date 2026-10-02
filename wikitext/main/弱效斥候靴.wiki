@@ -1,0 +1,15 @@
+{{魔法物品
+|name=弱效斥候靴
+|english_name=Burglar Boots (Minor)
+|aon=MagicWondrousDisplay.aspx?FinalName=Burglar Boots (Minor)
+|cat=奇物
+|aura=微弱预言系
+|cl=1
+|slot=脚部
+|price=4,000 gp
+|weight=1/2磅
+|description=这双合脚的小牛皮靴染成黑色，并以乌鸦羽毛稍作装饰。穿戴者在察觉检定中发现或定位10尺内地面上的陷阱和装置时，获得+5表现加值。这包括陷坑、压力板，以及位于地面上或附着于地面的其他机械和魔法装置。这一加值同样适用于对抗这类陷阱时的AC和任何反射豁免检定。
+|req=[[制造奇物]]，制造者必须拥有4级[[察觉]]技能
+|cost=2,000 gp
+|source=极限宝具
+}}

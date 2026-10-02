@@ -1,0 +1,10 @@
+{{Trait
+|name=过保护
+|english_name=Overprotective
+|type=缺陷
+|pfs=否
+|description=在你年轻时，你的朋友或爱人受到重伤或死亡。你总是因为自己没能到场而自责，即使就算你在场也无能为力。
+|benefit=如果你的一个盟友因生命值伤害而陷入[[昏迷]]，当你距离他倒下的地点10尺以上时，你的攻击检定和技能检定都会有-2罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

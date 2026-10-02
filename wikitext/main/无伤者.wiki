@@ -1,0 +1,9 @@
+{{Trait
+|name=无伤者
+|english_name=Unscathed
+|type=魔法
+|description=由于特殊的成长环境或魔法实验，你对能量攻击的抵抗效果拔群。你的任何能量抗力(如果有)提高2点。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

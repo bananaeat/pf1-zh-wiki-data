@@ -1,0 +1,14 @@
+{{魔法物品
+|name=融合之瓶
+|english_name=Admixture Vial
+|aon=MagicWondrousDisplay.aspx?FinalName=Admixture Vial
+|cat=奇物
+|aura=中等通用系
+|cl=8
+|slot=无
+|price=5,000 gp
+|description=每天一次，炼金术师可以使用这只看似普通的[[玻璃瓶]]，把两份化合炼成合并为一份可用的化合炼成，如同拥有[[混合炼成]]科研发现。融合之瓶可以合并3环或更低环的化合炼成。用融合之瓶合并过的化合炼成，不能再用本物品或混合炼成科研发现再次合并。
+|req=[[制造奇物]]，制造者必须是拥有[[混合炼成]]科研发现的[[炼金术师]]
+|cost=2,500 gp
+|source=极限宝具
+}}

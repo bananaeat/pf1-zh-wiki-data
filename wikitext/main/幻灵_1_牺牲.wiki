@@ -1,0 +1,8 @@
+<noinclude>{{召唤师导航}}
+'''牺牲'''（Sacrifice, Su）是[[召唤师]]的[[幻灵#进化型态|进化|进化]]。
+
+</noinclude>{{Source|纯洁勇士|Champions of Purity|inline}} 幻灵可以牺牲自己的HP来治疗他人。以一个[[标准动作]]，幻灵能最多牺牲每HD 2点HP，通过接触目标使其治愈所牺牲HP的一半。这进化消耗3点进化点。<noinclude>
+
+[[分类:幻灵进化]]
+
+{{职业}}</noinclude>

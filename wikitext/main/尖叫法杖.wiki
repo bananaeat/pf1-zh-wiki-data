@@ -1,0 +1,21 @@
+{{魔法物品
+|name=尖叫法杖
+|english_name=Staff of Shrieking
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Shrieking
+|cat=法杖
+|aura=中等塑能系
+|cl=10
+|slot=无
+|price=36,000 gp
+|weight=5磅
+|description=这根金属杖身上开有孔洞，挥动时会发出诡异的呜咽声。
+
+该法杖可以使用以下法术：
+
+* [[粉碎音波]]（1 发）
+* [[音鸣爆]]（1 发）
+* [[咆哮术]]（2 发）
+|req=[[制造法杖]]、[[粉碎音波]]、[[咆哮术]]、[[音鸣爆]]
+|cost=18,000 gp
+|source=进阶玩家指南、极限宝具
+}}

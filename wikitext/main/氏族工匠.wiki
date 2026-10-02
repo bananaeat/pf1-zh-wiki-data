@@ -1,0 +1,10 @@
+{{Trait
+|name=氏族工匠
+|english_name=Clan Artisan
+|type=地区
+|prerequisites=舍诲(Xa Hoi)
+|description=你在舍诲的众多氏族之一中长大，早年间学会了一门宝贵手艺。选择一种工艺技能。你在该工艺检定获得+2背景加值，而且它成为你的[[本职技能]]。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://pf1chm.pages.dev/topics/page_1557.html
+}}

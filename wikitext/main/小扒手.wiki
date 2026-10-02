@@ -1,0 +1,9 @@
+{{Trait
+|name=小扒手
+|english_name=Child of the Streets
+|type=社会
+|description=你在大城市的街头长大，逐渐精于扒窃和在身上藏匿小物件。你的[[巧手]]检定获得+1背景加值，并且总能将巧手视为你的[[本职技能]]。
+|source_name=社会背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

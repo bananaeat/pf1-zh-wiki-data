@@ -1,0 +1,11 @@
+{{Feat
+|name=霜生种
+|english_name=Born of Frost
+|pfs=否
+|description=你身体萦绕的寒气足以冻伤其他生物
+|prerequisites=霜巨人
+|benefit=你的天生武器攻击和徒手打击可以造成1d6点额外的寒冷伤害，以天生武器或是徒手打击命中你的生物会承受1点寒冷伤害。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1403.html
+}}

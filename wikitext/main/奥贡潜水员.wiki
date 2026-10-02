@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 20），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=奥贡潜水员
+|english_name=Oagan Diver
+|type=地区
+|prerequisites=浸润之地
+|description=你懂得操作黑流河河口奥贡城的潜水钟。你曾亲自潜入沉没的利尔刚的街道，知道会遇上什么。你的[[游泳]]检定获得+1背景加值，并且游泳永远是你的本职技能。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Oagan%20Diver
+}}

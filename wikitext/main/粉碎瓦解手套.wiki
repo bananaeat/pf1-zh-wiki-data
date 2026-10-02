@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=粉碎瓦解手套
+|english_name=Gloves of Pulverizing Disruption
+|aon=MagicWondrousDisplay.aspx?FinalName=Gloves of Pulverizing Disruption
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=手部
+|price=9,400 gp
+|description=每天3次，穿戴者可以用这双厚皮手套对一个不死生物、一个构装生物或一件非魔法物体进行近战接触攻击，并对其造成3d4点伤害。穿戴者以此方式造成伤害时，手套会吸收目标构成物质的一部分，产生的粉尘会在手套中保存24小时。穿戴者下一次尝试[[阴招]]战技时，粉尘会从手套中飞出，使该次尝试获得+2加值。如果24小时内穿戴者没有尝试阴招战技，粉尘就会消失。
+|req=[[制造奇物]]、[[酸蚀之触]]
+|cost=4,700 gp
+|source=阴招战术工具箱
+}}

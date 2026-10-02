@@ -1,0 +1,15 @@
+{{魔法物品
+|name=高等岩石披风
+|english_name=Stone Cloak (Major)
+|aon=MagicWondrousDisplay.aspx?FinalName=Stone Cloak (Major)
+|cat=奇物
+|aura=中等防护系
+|cl=8
+|slot=肩部
+|price=20,000 gp
+|weight=1磅
+|description=这件披风与[[次级岩石披风]]完全相同，只是激活时提供DR 10/精金。
+|req=[[制造奇物]]、[[石肤术]]
+|cost=10,000 gp
+|source=极限宝具
+}}

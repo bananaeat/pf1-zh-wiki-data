@@ -1,0 +1,11 @@
+{{Feat
+|name=最终拥抱极意
+|english_name=Final Embrace Master
+|categories=战斗
+|description=很少有生物能活着离开你粉碎性的[[最终拥抱]]。
+|prerequisites=力量17，智力3，纳迦、蛇人或拥有＜紧勒＞特殊攻击的生物，[[最终拥抱]]，[[恐怖最终拥抱]]，基本攻击加值+9。
+|benefit=你的＜紧勒＞[[特殊攻击]]的伤害骰翻倍。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

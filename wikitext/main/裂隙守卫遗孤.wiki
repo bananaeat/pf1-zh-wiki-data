@@ -1,0 +1,14 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Wrath of the Righteous Player's Guide pg. 6, Demon Hunter's Handbook pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=裂隙守卫遗孤
+|english_name=Riftwarden Orphan
+|type=战役
+|pfs=否
+|description=你身上有一块奇怪的胎记——你了解到那是探求者螺旋之印，一个与名为裂隙守卫的秘密组织有关的符文。你研究过这个符文，得知这种印记有时会出现在曾暴露于特别奇异的位面能量之下的裂隙守卫的子女身上。不幸的是，你从未见过你的父母，因为你是由凯纳布雷斯的一个寄养家庭抚养长大的。你的养父母证实你的亲生父母都是裂隙守卫，并进一步证实他们在你出生不到一个月后，在一次深入世界之伤的秘密任务中失踪了。你不确定他们究竟遭遇了什么，但你确信他们已经死了——而你的直觉告诉你，杀害他们的凶手仍然活着！无论如何，你一直感觉到自己血液中流淌着魔法，施展法术对你来说轻而易举。你所有的专注检定获得+2背景加值。
+
+关联神话道途：大法师。
+
+多名角色：你应当与其他选择这项背景特性的角色是兄弟姐妹，这样你们就有同一对失踪的父母。你们的父母甚至可以是养父母。
+|source_name=Wrath of the Righteous Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Riftwarden%20Orphan
+}}

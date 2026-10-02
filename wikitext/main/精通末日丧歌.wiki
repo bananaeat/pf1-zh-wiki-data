@@ -1,0 +1,15 @@
+{{Feat
+|name=精通末日丧歌
+|english_name=Improved Dirge of Doom
+|description=你演奏诸王逝去时的哀歌，让在场的敌人畏惧不能自已。
+|prerequisites=可以演奏末日丧歌
+|benefit=你的末日丧歌表演影响范围增加到60尺；已经处于[[战栗]]状态的生物在受到你的末日丧歌影响时将惊惧。但是，这个效果无法将生物的恐惧等级提升到恐慌，即使这个生物在受到影响时已经惊惧。一旦被该专长影响，该生物24小时内就不再会被该专长影响。
+|normal=末日丧歌影响的范围为30尺，且已经处于战栗状态的生物不会因为末日丧歌的影响而陷入惊惧。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[高等末日丧歌]]（1 个条目）

@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Strange Aeons Player's Guide pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=有条不紊
+|english_name=Methodical Mind
+|type=战役
+|pfs=否
+|description=当你醒来，脑中只剩模糊的记忆时，你开始仔细地梳理自己的思绪，以弄清自己陷入这般处境的原因以及自己可能身在何处。这让你感到安心，你打心底里知道，自己一向依靠有条理的头脑和务实的方法来面对挑战。在调查眼下这严峻的处境时，你利用这份专注与理智为自己谋取优势。
+
+选择三项[[知识]]技能。你这几种知识检定和专注检定获得+1背景加值。此外，选择一项知识技能。进行研究时，在决定你掷哪种骰子来减少图书馆的知识点（kp）时，你视为拥有该知识技能的[[技能专攻]]。
+|source_name=Strange Aeons Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Methodical%20Mind
+}}

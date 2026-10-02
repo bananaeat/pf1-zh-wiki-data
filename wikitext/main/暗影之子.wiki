@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Council of Thieves Player's Guide pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=暗影之子
+|english_name=Shadow Child
+|type=战役
+|pfs=否
+|description=西冠城长久以来一直饱受一种奇特诅咒之苦，这种祸患每晚都会升起，带来在阴影中猎食的凶恶野兽。没有人说得清这些夜之恐怖从何而来——有人归咎于奈多那些神秘的法师，有人声称这是陨落的奥罗登所施加的某种诅咒，还有人认为是某个隐藏在暗处的幕后主使在西冠城北部废墟的深处操纵着一群黑暗的怪物。无论如何，西冠城的人们长久以来一直惧怕黑夜，但你不怕。你的目标是从藏身其中的野兽手中夺回黑暗。你已经让自己适应了黑暗，因此在阴影中行动比大多数人更加精准。攻击位于昏暗光照区域中的目标时，你的攻击检定不会因目标处于光线不佳的区域而承受标准的20%失手几率。
+|source_name=Council of Thieves Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Shadow%20Child
+}}

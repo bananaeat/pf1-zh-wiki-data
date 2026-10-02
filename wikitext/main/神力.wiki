@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=神力|en=Might of the Gods|type=Su|domain=力量领域|source=核心规则书|text=在8级时，你可以将你的牧师等级作为增强加值计入你的[[力量]]属性中，每日可用轮数等于你的牧师等级。此加值仅适用于[[力量]]属性检定及基于[[力量]]的技能检定。这些轮数可以分做多次使用。}}<noinclude>
+
+[[分类:领域]]</noinclude>

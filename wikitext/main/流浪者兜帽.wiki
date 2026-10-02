@@ -1,0 +1,14 @@
+{{魔法物品
+|name=流浪者兜帽
+|english_name=Vagrant's Hood
+|aon=MagicWondrousDisplay.aspx?FinalName=Vagrant's Hood
+|cat=奇物
+|aura=微弱幻术系
+|cl=3
+|slot=头部
+|price=4,400 gp
+|weight=1磅
+|description=这顶亚麻兜帽以森林的色彩作了简单装饰，其设计会在穿戴者脸上投下浓重的阴影，遮蔽可辨识的面部特征。流浪者兜帽使穿戴者在[[易容]]检定上获得+4表现加值，并使穿戴者的嗓音变得低沉沙哑，如同[[扭曲嗓音]]。
+|req=[[制造奇物]]、[[易容术]]、[[扭曲嗓音]]
+|source=恶棍志
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=喷毒
+|english_name=Spit Venom
+|categories=战斗
+|description=你已经掌握了[[娜迦裔]]战士的技巧——将毒素喷入敌人的眼睛。
+|prerequisites=娜迦裔。
+|benefit=以一个[[整轮动作]]，你能够用远程[[接触攻击]]将毒液喷出10尺远。如果你命中目标，他必须进行一次成功的强韧豁免，否则将会[[目盲]]1d6轮。豁免DC等同于“10+1/2总生命骰+体质修正”。每天你能够使用该能力1次，每拥有3个HD时额外再增加1次。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

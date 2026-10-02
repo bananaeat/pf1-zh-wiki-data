@@ -1,0 +1,17 @@
+{{危害
+|name=炼金隔断剂
+|english_name=Alchemical isolation
+|kind=毒药
+|type=吸入
+|save=强韧 DC 13
+|frequency=1次/分钟，持续2分钟
+|initial=[[耳聋]]10分钟
+|secondary=[[目盲]]10分钟
+|cure=1次豁免成功
+|price=175 gp
+|weight=1磅
+|description='''炼金配方'''
+
+配方（150硫磺＋20月露酒＋80酒精）/发酵；工艺 DC 13；时间 1天；工具 热源；类型 毒药
+|source=炼金术手册
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=制造圣遗物
+|english_name=Create Reliquary Arms and Shields
+|pfs=否
+|description=你在制造的魔法物品被灌入了神圣的力量。
+|prerequisites=[[制造魔法武器和防具]]，能够施放[[祝圣术]]或[[亵渎术]]。
+|benefit=当你制造魔法武器、[[魔法护甲]]或[[魔法盾牌]]时，你可以在制造过程中加入一次[[祝圣术]]或[[亵渎术]]的施放。这会增加制品的价格250gp。制品会成为一件圣遗物，可以作为你所信奉的神祇的圣徽（或邪徽）法器。如果你施放祝圣术或者亵渎术，只要你的圣遗物仍在法术区域内，它就被视为该法术的永久性固定物。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

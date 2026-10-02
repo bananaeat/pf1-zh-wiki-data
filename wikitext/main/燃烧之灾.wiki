@@ -1,0 +1,13 @@
+{{危害
+|name=燃烧之灾
+|english_name=Flaming doom
+|kind=毒药
+|type=伤口
+|save=强韧 DC 18
+|frequency=1次/轮，持续6轮
+|effect=1d6点火焰伤害，并且受害者可能着火（见《核心规则书》第444页）
+|cure=2次豁免成功
+|price=900 gp
+|description='''炼金配方''' 配方：（200镁＋200磷＋250硝石）/蒸馏；工艺 DC 18；时间：1天；工具：蒸馏器；类型：毒药
+|source=炼金术手册
+}}

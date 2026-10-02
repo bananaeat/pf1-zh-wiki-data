@@ -1,0 +1,14 @@
+{{魔法物品
+|name=解除奥印手套
+|english_name=Glyphbane Gloves
+|aon=MagicWondrousDisplay.aspx?FinalName=Glyphbane Gloves
+|cat=奇物
+|aura=中等防护系
+|cl=7
+|slot=手部
+|price=9,000 gp
+|description=这双深褐色的皮手套，整个表面都蚀刻着奥术徽记。穿戴者在为解除魔法陷阱而进行的[[解除装置]]检定中获得+5表现加值。每天一次，如果穿戴者为解除雕文、符文或类似的基于文字的魔法陷阱而进行的检定结果超过DC 10点或更多，她可以选择改变该陷阱的触发条件，而不是解除它。新的触发条件必须是该魔法陷阱所允许的；例如，即使由手套操控，[[守卫刻文]]也不能被设置成按职业、HD或等级来触发。
+|req=[[制造奇物]]、侦测陷阱、[[解除魔法]]
+|cost=4,500 gp
+|source=极限宝具
+}}

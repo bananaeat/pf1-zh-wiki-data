@@ -1,0 +1,9 @@
+{{Trait
+|name=恭敬的使用者
+|english_name=Reverent Wielder
+|type=派系
+|description=一些强大的武器大都是无价古董，使得你十分留心爱护你的装备就像爱惜你自己一般。在你对抗[[卸武]]、[[盗取]]和[[击破]][[战技]]时，你的[[CMD]]获得+1背景加值，你的所有装备在进行豁免检定时获得+1背景加值。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

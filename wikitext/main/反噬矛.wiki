@@ -1,0 +1,15 @@
+{{魔法物品
+|name=反噬矛
+|english_name=Cursed Backbiter Spear
+|aon=MagicCursedDisplay.aspx?ItemName=Cursed Backbiter Spear
+|cat=诅咒物品
+|base=[[短矛]]
+|enh=+2
+|aura=中等塑能系
+|cl=10
+|slot=无
+|weight=3磅
+|description=这是一把+2[[短矛]]，但每当它在近战中用于对付敌人、且攻击骰掷出自然1时，它会伤害持用者，而不是她原本要攻击的目标。诅咒生效时，这支矛会弯转过来刺中持用者的后背，自动对持用者造成伤害。投掷这支矛时诅咒同样起效，此时投掷者受到的伤害翻倍。
+|req=+2[[短矛]]，或任意魔法武器
+|source=核心规则书、极限宝具
+}}

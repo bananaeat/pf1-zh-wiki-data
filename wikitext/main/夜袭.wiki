@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=夜袭|en=Night Hunter|type=Su|domain=黑暗领域|sub=暗夜子域 (Night)|sub_name=暗夜子域|source=进阶玩家指南|text=你以标准动作融入黑夜阴影，变得几乎完全不可见。在微光或者黑暗区域内，你对没有黑暗视觉的生物视为[[隐形]]（如同[[隐形术]]），轮数为牧师等级一半（最小1）。每天“3+[[感知]]调整值”次。此能力替换[[黑暗领域#黑暗接触 (Touch of Darkness, Sp)|黑暗接触]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

@@ -1,0 +1,11 @@
+{{Feat
+|name=反应式复原
+|english_name=Reactive Reversion
+|description=你能够反应式地变回你的自然形态。
+|prerequisites=敏捷13，变身能力，莱西亚种
+|benefit=你可以以一个直觉动作使用自己的变身特性，从替代形态变回自然形态。
+|normal=莱西可以以一个迅捷动作使用变身在形态之间切换。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/page_1456.html
+}}

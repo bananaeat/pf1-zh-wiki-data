@@ -1,0 +1,15 @@
+{{魔法物品
+|name=原能探棒
+|english_name=Primal Dowser
+|aon=MagicWondrousDisplay.aspx?FinalName=Primal Dowser
+|cat=奇物
+|aura=微弱预言系
+|cl=3
+|slot=无
+|price=1,800 gp
+|weight=1磅
+|description=这根三角形的探棒由金属管制成，小得可以放进口袋或小袋。其中一根管子上镶着一列小绿宝石，另一根管子上镶着一列小蓝宝石。原能探棒可以用一个[[标准动作]]启动，以侦测并辨识60尺内是否存在变体魔法，每天最多持续10分钟。在[[原能魔法]]或野魔法区域之中或附近时，绿宝石会发光；在魔法死区之中或附近时，蓝宝石会发光。该物品的持续时间不必一次用完，但必须以1分钟为单位使用。
+|req=[[制造奇物]]、[[侦测魔法]]
+|cost=900 gp
+|source=废土子民
+}}

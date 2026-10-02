@@ -1,0 +1,37 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #123: The Flooded Cathedral
+|authors=Mikko Kallio
+|pages=96
+}}
+
+{{书页/简介|head=洪水之下|1=
+当冒险者们设法追查失踪的殖民者时，线索把他们引向附近的一座岛屿。在那里，他们发现了一座献给某位已死之神的大教堂的水下废墟；这处遗址已成为一头鱼形怪物及其狡猾仆从的巢穴。冒险者们必须杀出一条路穿过水淹的厅室与凶残的怪物，营救被绑架的殖民者，并得知一个威胁这片区域——乃至整个人类——的更大危机。
+
+本册《冒险之路》延续「阿兹兰特废墟」冒险之路，内容包括：
+
+* 《浸没大圣堂》，一部面向 7 级角色的开拓者冒险，作者 Mikko Kallio。
+* 一篇双倍篇幅的文章，探索古阿兹兰特所崇拜的神圣存在，作者 Adam Daigle。
+* 揭开古代世界神奇发条造物的内幕，作者 Mikko Kallio。
+* 一部怪物图鉴，收录可怖的怪物与奇异的造物，作者 John Compton、Kalervo Oikarinen 和 David Schwartz。
+}}
+
+'''冒险之路123：浸没大圣堂'''（''Pathfinder #123: The Flooded Cathedral''）是[[冒险之路]]「阿兹兰特废墟」系列的第三部冒险，由 Mikko Kallio 撰写，配套文章出自 Adam Daigle、John Compton、Kalervo Oikarinen 和 David Schwartz，于 2017 年 10 月 18 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+浸没大圣堂 @ 4
+NPC 图集 @ 58
+古阿兹兰特诸神 @ 64
+发条造物生态 @ 76
+怪物图鉴 @ 82
+}}
+
+{{书页尾
+|pfw=The Flooded Cathedral
+|releases=Softcover¦PZO90123¦2017-10¦；PDF¦PZO90123E¦¦
+}}
+
+[[分类:书目]]

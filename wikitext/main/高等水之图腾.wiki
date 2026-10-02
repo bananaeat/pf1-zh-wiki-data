@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=高等水之图腾
+|english_name=Water Totem, Greater
+|type=Su
+|categories=图腾
+|prerequisites=[[野蛮人]]10级，[[水之图腾]]
+|benefit=狂暴时，野蛮人在水下获得30尺[[颤动感知]]。他可以如同受到[[行动自如]]影响一般在水下自由攻击和移动。
+|source_name=元素血脉
+}}

@@ -1,0 +1,15 @@
+{{Feat
+|name=捕网战技
+|english_name=Net Maneuvering
+|categories=战斗
+|description=靠着技巧和蛮力，你可以将敌人玩弄在你的网中。
+|prerequisites=[[擅长异种武器]]（网），[[捕网熟练]]，基本攻击加值+3。
+|benefit=在近战中，你可以使用网进行[[摔绊]]或[[卸武]]、而非[[纠缠]]你的敌人。当你这么使用网进行卸武时，你的[[战技]]检定有+2加值。此外，如果敌人正被你的网纠缠，你可以尝试对其进行拖拽或移位战技检定，距离最多为你的网的触及范围或你用纤绳能控制网的距离。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[捕网诡计]]（1 个条目）

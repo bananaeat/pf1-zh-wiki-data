@@ -1,0 +1,46 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #144: Midwives to Death
+|authors=John Compton
+|pages=96
+}}
+
+{{书页/简介|head=对抗恐怖的崛起|1=
+英雄们终于拥有了阻止默语暴君所需的手段，可这位巫妖王并没有闲着。就在神性似乎唾手可得之际，他为何要把如此多的注意力投向一座孤悬的边境要塞？一场探明暴君秘密的探索，把英雄们抛入一场致命的竞速：穿过一片繁茂的森林，闯入早在闪耀远征之前就已修建的恐怖地下城，周旋于怀着千年旧怨的恶毒反派之间。旧日的宿敌再度拦在英雄们面前，但意想不到的盟友能帮助他们扭转死亡与绝望不断上涨的浪潮。如果英雄们能够取胜，他们就能抓住唯一的机会，夺走默语暴君最强大的武器，并在他获得神的力量之前将其击倒。
+
+本册《冒险之路》为「暴君魔爪」冒险之路画上戏剧性的句号，内容包括：
+
+* 《死亡助产士》，一部面向 16 级角色的开拓者 RPG 冒险，作者 John Compton。
+* 一篇篇幅宏大的文章，庆祝开拓者 RPG 第一版的最后一册《冒险之路》。它由 Paizo 的开发者与设计师撰写，为第一版画上一个响亮的句号，收录了新怪物、GM 建议、新旧神祇、Paizo 员工的 PC、一个新的进阶职业、新的变体职业等等！这些新规则适用于「暴君魔爪」冒险之路或任何战役，作者 John Compton、Adam Daigle 等 14 位作者。
+}}
+
+'''冒险之路144：死亡助产士'''（''Pathfinder #144: Midwives to Death''）是[[冒险之路]]「暴君魔爪」系列的第六部，也是最后一部冒险，同时是最后一期使用开拓者角色扮演游戏第一版规则的《冒险之路》，由 John Compton 撰写，另有 Adam Daigle、Eleanor Ferron 等 13 位作者供稿，于 2019 年 8 月 1 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+死亡助产士 @ 2
+NPC 图集 @ 58
+开发者特辑 @ 64
+- 植物作祟——Linda Zayas-Palmer
+- [[安哥拉德]]——Owen K.C. Stephens
+- 终局之战——Mark Seifter
+- [[阿莱布里赫]]——Luis Loza
+- 末日幻影——Jason Keeley
+- [[艾布利多斯]]英雄神——John Compton
+- [[凡世渡魂人]]（进阶职业）——Michael Sayre
+- [[诺提库拉]]——James Jacobs
+- [[切拉拉克]]——Adam Daigle
+- 凤凰之魂——Eleanor Ferron
+- [[煞克斯]]的痛苦之屋！——Thurston Hillman
+- 塔莱斯特里斯·米蒂利诺斯（Thalestris Mytilinos）——Rob McCreary
+- 不亡者奥斯托格（Ostog the Unslain）——Erik Mona
+- 哈莱因镇之死——Ron Lundeen
+}}
+
+{{书页尾
+|pfw=Midwives to Death
+|releases=Softcover¦PZO90144¦2019-08¦；PDF¦PZO90144E¦¦
+}}
+
+[[分类:书目]]

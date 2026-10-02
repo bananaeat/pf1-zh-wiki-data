@@ -1,0 +1,9 @@
+{{物品
+|name=无声哨
+|english_name=Whistle (silent)
+|category=冒险装备
+|price=9 银币
+|weight=—
+|description=只有动物和具有敏锐听觉的其他生物可以听到的[[无声哨]]也同样存在。
+|source_name=冒险者的军械库
+}}

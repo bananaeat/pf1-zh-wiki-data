@@ -1,0 +1,12 @@
+{{魔法物品
+|name=瞎人眼
+|english_name=Eyes of Blindness
+|aon=MagicCursedDisplay.aspx?ItemName=Eyes of Blindness
+|cat=诅咒物品
+|aura=微弱死灵系
+|cl=5
+|slot=眼部
+|description=这副看起来普通的眼镜毫不起眼，似乎无害。一旦有人戴上它，佩戴者就会变得[[目盲]]，如同受到[[目盲/耳聋术]]的影响（无豁免）。
+|req=任意眼镜或透镜
+|source=极限宝具
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=乱真外表
+|english_name=Realistic Likeness
+|description=当你在[[人类]]形态时，你能够模仿特定个体的外貌。
+|prerequisites=狐妖。
+|benefit=你能够精确模拟任何你遇到的个体的体貌特征。当你使用你的变身[[种族特性]]时，你能够尝试变为某个个体的形态，这使你在以[[易容]]检定通过你的模仿愚弄他人时获得+10环境加值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

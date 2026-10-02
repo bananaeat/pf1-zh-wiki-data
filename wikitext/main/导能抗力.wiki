@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''导能抗力'''（Channel Resistance）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：防御能力</span></div>
+</noinclude><includeonly><div class="lang"><span id="导能抗力"></span><div class="lang-h"><b>[[导能抗力]]</b><i>Channel Resistance</i><span class="lang-w">Ex · 防御能力</span></div><div class="lang-d"></includeonly>
+拥有此特质的生物 (通常是不死生物) 不太容易受[[引导能量]]影响。拥有导能抗力的生物可以将列出的加值加在对抗引导能量效果的豁免检定上，依赖使用引导能量造成的效果也包含在其中 (例如[[命令死灵(专长)|命令死灵]]专长)。
+
+'''格式'''：导能抗力 +4
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Channel Resistance|2=Channel Resistance}}
+
+[[分类:通用怪物规则]]</noinclude>

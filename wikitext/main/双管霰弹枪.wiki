@@ -1,0 +1,22 @@
+{{武器
+|name=双管霰弹枪
+|english_name=Double-barreled shotgun
+|category=火器
+|prof=异种
+|wcat=双手
+|price=7,000 gp
+|weight=15磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×2
+|range=20尺
+|type=钝击和穿刺
+|special=霰弹
+|misfire=1-2
+|capacity=2
+|groups=火器
+|description=这把[[霰弹枪]]的两个枪管可以单独射击（各算一次攻击），也可以用一个[[标准动作]]（攻击动作）同时射击。发射弹头的双重射击很难精确，两次攻击检定都受到-4减值。发射弹头的双重射击只以单一生物为目标，并把每个枪管的伤害提升至2d6（小型）或2d8（中型），总伤害为4d6或4d8。双管霰弹枪的弹药为金属定装弹（内装弹头或霰弹）。这是一件近代火器。
+|source=极限战斗、极限宝具
+}}
+
+{{FAQ|v5748eaic9tqm}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=忧心忡忡
+|english_name=Haunted
+|type=缺陷
+|pfs=否
+|description=在你的过去中有一件事——或你眼下持有的一个黑暗秘密——使你永远难以安宁，而你对于堕入邪恶影响的长期忧虑已成为一个自我实现的预言。
+|benefit=你在对抗拥有邪恶描述符的法术时豁免承受-2罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

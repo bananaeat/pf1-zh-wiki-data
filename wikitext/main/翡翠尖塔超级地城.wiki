@@ -1,0 +1,38 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=The Emerald Spire Superdungeon
+|authors=Keith Baker、Richard Baker、Wolfgang Baur、Jason Bulmahn、Ed Greenwood、Tim Hitchcock、James Jacobs、Nicolas Logue、Frank Mentzer、Erik Mona、Chris Pramas、Sean K Reynolds、F. Wesley Schneider、Michael A. Stackpole、Lisa Stevens、James L. Sutter
+|pages=160
+}}
+
+{{书页/简介|head=无人能够幸存的秘密|1=
+自远古以来，一座宝石巨碑便刺穿了回声森林（Echo Wood）的心脏。如今，随着文明逼近这根神秘的尖刺，一种奇异的生命再度在深处苏动——它与不灭的邪恶相连，拥有超越时间本身的力量。财富与权力的许诺召唤着内海地区各地渴求荣耀的人们，引诱他们闯入由怪物出没的地窖、遭亵渎的陵墓、奥术实验室乃至更糟之处构成的迷宫，一心要揭开锁在传说中的翡翠尖塔之下的秘密。
+
+《探索者模组：翡翠尖塔超级地城》（Pathfinder Module: The Emerald Spire Superdungeon）是开拓者角色扮演游戏世界中有史以来规模最大的冒险。本书面向等级跨度很大的角色设计，这座巨型地城从适合 1 级角色的挑战起步，可以带领队伍升到 13 级乃至更高。在这部致命的超级冒险中，你将找到：
+
+* 由开拓者角色扮演游戏的创作者以及一大批奇幻游戏界最伟大的作者与设计师打造的致命地城层。
+* 必然堡（Fort Inevitable）的地志——这座冷酷秩序的堡垒紧邻翡翠尖塔，既可作为探索的基地，也可作为更多冒险的跳板。
+* 对即将推出的大型多人在线 RPG《探索者在线》（Pathfinder Online）中占据中心舞台的地区与阴谋的洞见。
+* 一份收录翡翠尖塔众多怪物威胁与深不可测居民的怪物图鉴。
+* 数十件新宝物、地图、支线剧情等等！
+}}
+
+'''翡翠尖塔超级地城'''（''The Emerald Spire Superdungeon''）是一部巨型地城冒险，由 Keith Baker、Rich Baker 等 16 位作者撰写，于 2014 年 6 月发行。这部共 16 层的冒险是 2013 年「探索者在线」（Pathfinder Online）Kickstarter 众筹活动的成果。
+
+== 目录 ==
+逐层概述请参见 PathfinderWiki 上的 Emerald Spire 条目。
+{{书页/目录|1=
+导言 @ p2–3
+翡翠尖塔 @ p4–149
+怪物图鉴 @ p150–159
+}}
+
+{{书页尾
+|pfw=The Emerald Spire Superdungeon
+|releases=Hardcover¦PZO9545¦2014-06¦978-1-60125-655-3；PDF¦PZO9545E¦¦
+}}
+
+<small>CHM 汉化里没有这本书的译名，书名是本站定的。</small>
+
+[[分类:书目]]

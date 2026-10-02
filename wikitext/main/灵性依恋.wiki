@@ -1,0 +1,9 @@
+{{Trait
+|name=灵性依恋
+|english_name=Spiritual Attachment
+|type=魔法
+|description=[[唤魂师]]和灵界精魂的连结，是凡人与灵界之间最牢固(也是最奇怪)的纽带之一。唤魂师可以利用他们连结魅影的学识，更好地与其他灵界精魂进行谈判。无论你是不是一个唤魂师，在与灵界打交道时，你总明白类似的诀窍。你在察觉[[作祟]]的检定上获得+4背景加值；在与被[[虚体]]不死生物[[附身]]的某人互动时，你对该目标的[[唬骗]]、交涉、威吓和察言观色检定获得+2背景加值。
+|source_name=闹鬼英雄手册
+|source=HHH
+|source_url=https://pf1chm.pages.dev/topics/zh9c5b380ad3.htm
+}}

@@ -1,0 +1,9 @@
+{{Feat
+|name=岩石斗篷
+|english_name=Cloak of Stone
+|prerequisites=感知 17、[[岩石藏身]]、[[岩石潜身]]、隐匿11级、[[矮人]]、岩石敏锐种族特性。
+|benefit=当你处于碎石地形或地下时，即便处于敌人的观察之下，你也可以使用隐匿技能进行躲藏。只要你位于碎石地形10尺范围内，你就能在开阔地带、没有任何实际障碍物的情况下使自身进入躲藏状态。并且你在地下总是能这样尝试躲藏。
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/zh72cd9d7a9f.htm
+|source=HftF
+}}

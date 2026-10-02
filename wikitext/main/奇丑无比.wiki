@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Orcs of Golarion pg. 22），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=奇丑无比
+|english_name=Amazingly Ugly
+|type=种族
+|prerequisites=半兽人、兽人
+|description=你的头骨畸形得怪诞可怖。你的[[威吓]]技能检定获得+1背景加值，并且威吓成为你的本职技能。
+|source_name=格拉利昂的兽人
+|source=OoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Amazingly%20Ugly
+}}

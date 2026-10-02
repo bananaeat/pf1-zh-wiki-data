@@ -1,0 +1,14 @@
+{{Spell
+|name=易容他人
+|english_name=Disguise other
+|school=幻术系 (五官幻觉)
+|levels=吟游诗人 2;奥能师 2;审判者 2;异能者 2;术士 2;歌者 2;法师 2;秘学士 2;红螳螂杀手 2;通灵者 2
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的生物
+|duration=10分钟/等级 （可解消）
+|sr=否
+|description=这个法术如同[[易容术]]，但你除了对自己，还可以对另一个生物施放。
+|source=极限魔法
+}}

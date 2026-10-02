@@ -1,0 +1,9 @@
+{{Trait
+|name=甜言蜜语
+|english_name=Honeyed Words
+|type=宗教
+|prerequisites=信仰奎因迪勒
+|description=你的圆滑机智能够让那些热血沸腾的暴脾气家伙冷静下来。你在交涉检定上获得+1的背景加值。此外，任何你所施展的不造成持续性支配并且引导和平行动的魅惑或胁迫效果(比如[[安定心神]]，[[睡眠术]]，要求放下武器的[[暗示术]]等)的dc获得+1背景加值。
+|source_name=格拉里昂的矮人
+|source_url=https://pf1chm.pages.dev/topics/page_1586.html
+}}

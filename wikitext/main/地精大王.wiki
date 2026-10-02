@@ -1,0 +1,11 @@
+{{Feat
+|name=地精大王
+|english_name=Commander of Goblinkind
+|pfs=否
+|description=你兼具残暴和严酷的领导使得其他地精种族自愿接受你的节制。
+|prerequisites=魅力13，大地精
+|benefit=你在对其他地精种生物进行的知识（本地）检定和所有基于魅力的技能检定上获得+5表现加值。如果你拥有领导力专长，那么你在获得拥有地精亚种的追随者或部属时，视为你的领导力点数增加2点。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1407.html
+}}

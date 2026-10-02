@@ -1,0 +1,11 @@
+{{Feat
+|name=慧眼识材料
+|english_name=Eye for Ingredients
+|pfs=否
+|description=一双慧眼能够帮你买到价格更实惠的魔法材料。
+|prerequisites=[[施法免材]]，[[估价]]6级，[[法术辨识]]6级
+|benefit=当你身处大城市或更大的[[定居点]]时，能够花费4小时仔细寻找店铺，从而让你施放法术所需要购买的材料成分获得10%的折扣。每日你能够买到至多价值1000gp的材料成分（你的实际开销为900gp）。这些低价材料能够正常地帮你施放法术，但是转售它们的价格也会减少10%。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

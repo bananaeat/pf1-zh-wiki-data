@@ -1,0 +1,15 @@
+{{魔法物品
+|name=援助手套
+|english_name=Assisting Gloves
+|aon=MagicWondrousDisplay.aspx?FinalName=Assisting Gloves
+|cat=奇物
+|aura=微弱变化系
+|cl=1
+|slot=手部
+|price=180 gp
+|weight=1磅
+|description=这双朴素手套的穿戴者可以说出一个命令字，创造出一只发光的无实体之手。穿戴者可以一个[[迅捷动作]]，让这只手协助他完成某项任务，如同使用[[协助他人]]动作一样。这只手在检定援助是否成功时，使用穿戴者的基础攻击加值或技能等级（它不会获得穿戴者属性值或其他加值的好处）。这只手会一直存在，直到它尝试了一次动作或过了1分钟，以先到者为准，到那时这双手套就变成非魔法的了。
+|req=[[制造奇物]]、[[法师之手]]、[[隐形仆役]]
+|cost=90 gp
+|source=进阶玩家指南、极限宝具
+}}

@@ -1,0 +1,14 @@
+{{物品
+|name=奇妙珊瑚水马雕像
+|english_name=Coral Hippocampus Figurine of Wondrous Power
+|category=奇物
+|aura=强烈塑能系和变化系
+|cl=19
+|price=6000GP
+|weight=400磅
+|slot=无位置
+|requirements=[[制造奇物]]，[[活化物体]]
+|cost=3000GP
+|description=这个[[奇妙雕像]]（[[核心规则书]]513页）被激活时，它会表现得像一只普通的经过战斗训练的水马（[[怪物图鉴2]]，155）一样。这个物品每周可以使用三次，每次使用不能超过12小时。当12小时过去后，或者发出命令字，这尊珊瑚水马又会重新变成小雕像。
+|source_name=水下冒险
+}}

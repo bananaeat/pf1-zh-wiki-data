@@ -1,0 +1,52 @@
+{{速查导航}}
+
+'''虚空元素'''是《[[异能冒险]]》的一章。
+
+注：因为个人的美学，“Utility Wild Talents”在本文中译为“辅助[[原力]]”，而非[[通用原力]]
+
+== 虚空（Void） ==
+
+和[[以太]]类似，虚空是元素能量的另一种形态，它是负能量位面的基质。混沌使（Chaokineticists）通过类似于操纵以太的方式操控着这种力量。
+
+== 基础操控（Basic Manipulation） ==
+
+混沌使可以选择重压gravity blast 或者负能negative blast 作为她的[[简易念袭]]。她在第一次选择虚空的时候获得其中之一，并且只有通过扩展元素再次选择虚空时才能获得剩下的那个。她能在重压gravity blast 或者负能negative blast中添加[[推行注能]]（Pushing Infusion）。
+
+== 护身（Defense） ==
+
+1级——基础混沌念力（Basic Chaokinesis），拉行注能（Pulling Infusion）*，推行注能（Pushing Infusion, OA）*，虚空医者（Void Healer）
+
+3级——黑暗注能（Darkness Infusion）*, 重力控制（Gravity Control）
+
+5级——高等虚空之眼（Eyes of The Void, Greater），高等重力控制（Gravity Control, Greater）
+
+6级——高等黑暗注能（Darkness Infusion, Greater）*, [[窒息]]（Suffocate, OA）
+
+* 星号为注能原力
+
+你的念袭如同创造出超自然的黑暗。类似于黑暗注能，除了其效果替换为幽深黑暗术，并且视其为一个6级的黑暗法术。
+
+你对重力的操作更进一步。这项原力在其他方面的功能就如同[[高等火焰喷进]]（flame jet，greater）。
+
+== 本章条目 ==
+
+* [[基础混沌念力]]
+* [[黑暗注能]]
+* [[空寂]]
+* [[衰弱注能]]
+* [[虚空之眼(原力)]]
+* [[重压推进]]
+* [[重压]]
+* [[重力控制]]
+* [[重力大师]]
+* [[负能混爆]]
+* [[负能]]
+* [[绝息]]
+* [[拉行注能]]
+* [[奇点]]
+* [[虚无力]]
+* [[虚空医者]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_661.html 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

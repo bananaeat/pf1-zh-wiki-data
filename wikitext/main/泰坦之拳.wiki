@@ -1,0 +1,11 @@
+{{Feat
+|name=泰坦之拳
+|english_name=Titan Strike
+|categories=神话
+|description=你的拳头能够击倒庞大的敌人。
+|prerequisites=[[精通徒手打击]]（神话）
+|benefit=你的[[徒手打击]]所造成的伤害就如同你的体型增大了1阶一般。当你的目标体型比你大时，它的体型每比你大1阶，你就能在后述内容中获得+1加值：[[冲撞]]、拖拽、[[擒抱]]、[[闯越]]、击[[击破]]器、以及摔绊[[战技]]检定，以及你的[[震慑拳]]的DC。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

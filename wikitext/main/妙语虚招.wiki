@@ -1,0 +1,10 @@
+{{Feat
+|name=妙语虚招
+|english_name=Witty Feint
+|categories=战斗
+|description=你将笑谈和武术融合，使敌人难以抓住你的破绽。
+|prerequisites=[[唬骗]]1级，武器训练职业特性，侏儒。
+|benefit=[[虚招]]成功时，你可以使你的防御在对抗对方攻击时获得相当于[[战士#武器训练|武器训练]]加值的闪避加值，而不是让对方失去AC的敏捷加值。加值会持续到战斗结束、切换目标或更换武器，以先发生者为准。
+|source_name=格拉利昂的侏儒
+|source_url=https://pf1chm.pages.dev/topics/zh33d1c60e62.htm
+}}

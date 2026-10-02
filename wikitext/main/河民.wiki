@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 18），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=河民
+|english_name=Riverfolk
+|type=地区
+|prerequisites=河域诸国
+|description=你在塞伦河水系的支流上长大，在船上和在陆地上一样自在。你的[[专业]]（水手）检定以及任何涉及使用绳索的技能检定获得+2背景加值。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Riverfolk
+}}

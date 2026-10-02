@@ -1,0 +1,11 @@
+{{Feat
+|name=木匠
+|english_name=Wood Crafter
+|pfs=否
+|description=你的工艺可避免使用金属，并你擅长用木料制作护甲。
+|prerequisites=[[工艺]]（打造护甲）3级，[[知识]]（自然）3级。
+|benefit=你在用木料或被归为木料的特殊材料（比如，{{材料|暗木}}）制作盔甲或盾牌时，可在工艺（打造护甲）检定上获得+4加值。倘若你在该检定中，成功了5点或更多的话，你还可以将制作该物品的成本降低10%。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

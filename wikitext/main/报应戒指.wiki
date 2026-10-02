@@ -1,0 +1,14 @@
+{{魔法物品
+|name=报应戒指
+|english_name=Ring of Retribution
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Retribution
+|cat=戒指
+|aura=强烈塑能系
+|cl=13
+|slot=戒指
+|price=15,000 gp
+|description=每日1次，这枚焦黑骨戒的穿戴者可以用一个[[直觉动作]]令它引爆，形成半径30尺的爆发，造成10d6点火焰伤害（反射豁免DC 14减半）。如果穿戴者被这次爆炸杀死，他携带的所有魔法装备也必须进行豁免，否则受到火焰伤害；所有非魔法装备则无豁免地受到这些伤害。这次爆炸绝不会摧毁该[[魔法物品#戒指|戒指]]。
+|req=[[锻造戒指]]、[[法术瞬发]]、[[火球术]]
+|cost=7,500 gp
+|source=进阶玩家指南、极限宝具
+}}

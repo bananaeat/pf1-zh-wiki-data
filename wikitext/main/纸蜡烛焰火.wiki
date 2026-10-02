@@ -1,0 +1,12 @@
+{{装备
+|name=纸蜡烛焰火
+|english_name=Firework (paper candle)
+|cat=炼金武器
+|price=1 gp
+|weight=—
+|craft_dc=20
+|range=10尺
+|special=见正文
+|description=这种手指大小的爆炸物点燃1轮后会伴着巨响爆炸。爆炸时与纸蜡烛焰火处于同一方格的生物，必须通过DC 15的强韧豁免，否则[[目眩]]1d4轮。
+|source=冒险者的军械库、极限宝具
+}}

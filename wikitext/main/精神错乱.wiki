@@ -1,0 +1,19 @@
+{{Spell
+|name=精神错乱
+|english_name=Insanity
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=催眠师 6;奥能师 7;女巫 7;异能者 7;术士 7;法师 7
+|domains=魅惑领域 7;狂乱领域 7;异幕子域 7
+|action=标准动作
+|components=语言;姿势
+|range=中距
+|target=一个活物
+|duration=立即
+|save=意志，通过则无效
+|sr=是
+|description=受影响的生物遭受持续性的[[困惑术]]效果，效果等同于原法术。
+
+[[移除诅咒]]不能移除精神错乱，而[[高等复原术]]、[[医疗术]]、[[有限祈愿术]]、[[神迹术]]或[[祈愿术]]可以。
+|source=核心规则书
+}}

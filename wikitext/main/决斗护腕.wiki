@@ -1,0 +1,17 @@
+{{魔法物品
+|name=决斗护腕
+|english_name=Dueling Cuffs
+|aon=MagicWondrousDisplay.aspx?FinalName=Dueling Cuffs
+|cat=奇物
+|aura=微弱防护系
+|cl=3
+|slot=腕部
+|price=10,000 gp
+|weight=1磅
+|description=这种紧贴手腕的秘银护腕盛行于内海地区决斗之风兴盛的国度。决斗护腕的穿戴者获得+1偏斜加值（AC）。如果穿戴者持用一件或多件能受益于[[武器娴熟]]专长的武器，该加值提升为+2。
+
+在决斗中（见[[极限战斗]]），穿戴者使用决斗格挡动作时不承受通常的-5减值。此外，穿戴者可以用决斗格挡来尝试偏转火器的远程攻击，但这类尝试承受-5减值。
+|req=[[制造奇物]]、[[防弹护盾]]、[[猫之优雅]]
+|cost=5,000 gp
+|source=内海战斗
+}}

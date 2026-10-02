@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=致残猛击
+|english_name=Crippling Blow
+|type=Ex
+|categories=进攻
+|prerequisites=[[野蛮人]]8级，[[猛力一击]]
+|benefit=当使用【[[猛力一击]]】[[狂暴之力]]时，野蛮人可以选择不造成额外的伤害加值(这同时也会取消[[流血猛击]]的[[出血]]伤害)，而是对目标造成每4级1点的力量或敏捷伤害，此伤害的强韧豁免DC为“10+1/2野蛮人等级+力量修正”。
+|unchained=致残打击
+|source_name=极限战斗
+}}

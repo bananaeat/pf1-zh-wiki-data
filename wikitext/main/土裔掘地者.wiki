@@ -1,0 +1,14 @@
+{{Feat
+|name=土裔掘地者
+|english_name=Oread Burrower
+|description=你的轻触就可以分开地面，这使你能够快速地挖掘。
+|prerequisites=[[穿石步]]，角色等级9，土元素裔。
+|benefit=你获得等同于你基本速度一半的掘地速度。你可以钻到沙子、泥土、[[粘土]]、沙砾或者其他类似的材质中，但是不能通过坚固的石头。你身后不会留下隧道，地表之上也不会出现痕迹。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[土裔潜地者]]（1 个条目）

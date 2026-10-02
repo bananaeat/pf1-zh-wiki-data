@@ -1,0 +1,9 @@
+{{Trait
+|name=视若鬼神
+|english_name=Demoralizing Presence
+|type=宗教
+|prerequisites=信仰[[宗-库松]]
+|description=你的存在让你的敌人坐立不安。你在挫败士气的威吓检定上获得+2背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

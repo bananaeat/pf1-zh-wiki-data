@@ -1,0 +1,9 @@
+{{Trait
+|name=往日荣光/先人的荣耀
+|english_name=Glory of Old
+|type=地区
+|prerequisites=五王山脉
+|description=你的血管里流淌着塔尔·塔尔伽夫的[[矮人]]英雄之血。你在对抗法术、类法术能力和毒素的豁免上获得+1背景加值。
+|source_name=格拉里昂的矮人
+|source_url=https://pf1chm.pages.dev/topics/page_1586.html
+}}

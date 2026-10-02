@@ -1,0 +1,14 @@
+{{魔法物品
+|name=卓越之戒
+|english_name=Ring of the Sublime
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of the Sublime
+|cat=戒指
+|aura=微弱防护系
+|cl=1
+|slot=戒指
+|price=2,000 gp
+|description=这枚华丽的黄金[[魔法物品#戒指|戒指]]上镶有一颗圆形蓝宝石和数根白金枝茎。佩戴卓越之戒时，它会保护佩戴者免受恐惧效果影响，如同持续处于[[移除恐惧]]的效果之下。在塔尔多，佩戴卓越之戒的人常常相信，这枚戒指对抗恐惧的能力也能消除社交焦虑，使佩戴者成为上流社会中更加自信、更有底气的一员。
+|req=[[锻造戒指]]、[[移除恐惧]]
+|cost=1,000 gp，80 XP
+|source=塔尔多，荣光荡漾之地
+}}

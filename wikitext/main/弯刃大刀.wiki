@@ -1,0 +1,16 @@
+{{武器
+|name=弯刃大刀
+|english_name=Falchion
+|category=武器
+|prof=军用
+|wcat=双手
+|price=75 gp
+|weight=8磅
+|dmg_s=1d6
+|dmg_m=2d4
+|crit=18–20/×2
+|type=挥砍
+|groups=重刃
+|description=这把兵器有着[[弯刀]]一般弯曲和锐利的锋刃，未开锋的刀背则有直有曲。它的重量集中在前端，因此用来切斩要比戳刺来得顺手。
+|source=核心规则书、极限宝具
+}}

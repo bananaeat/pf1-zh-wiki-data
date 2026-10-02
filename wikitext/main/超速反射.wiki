@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=超速反射
+|english_name=Quick Reflexes
+|type=Ex
+|categories=进攻
+|benefit=当狂暴时，野蛮人可以每轮做出一次额外的藉机攻击。
+|unchained=快速反射
+|source_name=核心规则书
+}}

@@ -1,0 +1,16 @@
+{{武器
+|name=轻型镐
+|english_name=Light pick
+|category=武器
+|prof=军用
+|wcat=轻型
+|price=4 gp
+|weight=3磅
+|dmg_s=1d3
+|dmg_m=1d4
+|crit=×4
+|type=穿刺
+|groups=斧
+|description=这件武器从作为工具的鹤嘴镐演化而来，有着微曲的头部、用来穿甲的尖端和锤状的配重。
+|source=核心规则书、极限宝具
+}}

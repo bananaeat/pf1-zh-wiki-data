@@ -1,0 +1,11 @@
+{{消歧义|往来之舟(毒药)}}
+{{Trait
+|name=往来之舟
+|english_name=The Vessel Between
+|type=地区
+|prerequisites=匕痕
+|description=刺客将她的受害者从生者的王国引入死者的国度。当你可以在这一击中造成偷袭伤害时，你的攻击骰获得+1的背景加值。
+|source_name=河域子民
+|source=PotR
+|source_url=https://pf1chm.pages.dev/topics/zh576fd36972.htm
+}}

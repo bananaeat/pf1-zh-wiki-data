@@ -1,0 +1,14 @@
+{{Feat
+|name=流放之路
+|english_name=Exile's Path
+|description=一直以来被躲避他人，并努力逃避自身血脉的经历，使你对窥视你内心的效果产生了抗力。
+|prerequisites=半精灵。
+|benefit=每天1次，如果你在一次对抗惑控系法术或效果的意志豁免中失败，那么你能够重骰豁免检定，但是你必须接受第二次结果，即使结果更差。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[既非精灵也非人类]]、[[飘忽不定]]（2 个条目）

@@ -1,0 +1,9 @@
+{{Trait
+|name=睿智导师
+|english_name=Wise Teacher
+|type=宗教
+|prerequisites=信仰[[埃拉斯蒂尔]]
+|description=你知晓如何解决乡村里的问题。如果你在知识（自然）或生存上有4级或以上的技能等级，当你用这项技能协助他人时，你为受协助的检定提供+4加值，而不是一般的+2。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

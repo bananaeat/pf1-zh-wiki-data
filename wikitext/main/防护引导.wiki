@@ -1,0 +1,10 @@
+{{Feat
+|name=防护引导
+|english_name=Protective Channel
+|description=当你[[引导能量]]时，[[艾奥梅黛]]保护你远离黑暗势力的刀剑
+|prerequisites=引导能量7d6，信仰艾奥梅黛
+|benefit=当你引导正能量治疗活物时，你可以选择使受到你的引导能量治疗的生物获得法术[[防护邪恶]]的效果（施法者等级等同于你的有效牧师等级）。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

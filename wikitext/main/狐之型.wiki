@@ -1,0 +1,11 @@
+{{Feat
+|name=狐之型
+|english_name=Fox Shape
+|aliases=狐身
+|description=你能变成一只[[狐狸]]作为你的其他形态。
+|prerequisites=魅力13，基础攻击加值+3，[[狐妖]]
+|benefit=你可以呈现出一只狐狸的形态（Pathfinder RPG Bestiary 3），你的外表是固定的并且不能在你每次进入这个形态时改变你的外表。你的啮咬攻击造成的伤害削减到1D3，但是你在表现为一只狐狸的[[易容]]检定上获得+10种族加值。从[[狐妖]]形态变为狐狸形态是一个[[标准动作]]。另外此能力如同野兽形态II一般运作，并且你的属性会根据法术效果进行调整。
+|source=BotB、DEP
+|source_name=野兽血脉、初探龙国
+|source_url=https://pf1chm.pages.dev/topics/page_699.html
+}}

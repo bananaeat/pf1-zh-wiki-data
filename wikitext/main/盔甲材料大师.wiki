@@ -1,0 +1,11 @@
+{{Feat
+|name=盔甲材料大师
+|english_name=Armor Material Mastery
+|categories=盔甲掌握;战斗
+|description=你引出你盔甲特殊材料几乎全部的潜力。
+|prerequisites=[[盔甲材料专家]]，基本攻击加值+11或者战士8级，盔甲训练职业特性
+|benefit=你每天可以使用[[盔甲材料专家]]赋予的能力额外两次。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_1089.html
+}}

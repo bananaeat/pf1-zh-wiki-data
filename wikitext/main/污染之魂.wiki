@@ -1,0 +1,10 @@
+{{Trait
+|name=污染之魂
+|english_name=Tainted Spirit
+|type=缺陷
+|pfs=否
+|description=当你还是一个孩子时，你的父母或其他对你有管辖权的人以你的名义与魔族签订了一个小契约，出卖了你的一部分生命力以换取些许好处。
+|benefit=当任何战斗结束时，你必须进行一次强韧豁免。DC为10+你在战斗中行动的轮数。如果你这次豁免失败了，你陷入疲劳状态，持续时间为之前那次战斗中你的行动轮数乘以10分钟。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

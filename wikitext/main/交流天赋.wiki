@@ -1,0 +1,9 @@
+{{Trait
+|name=交流天赋
+|english_name=Gifted Medium
+|type=宗教
+|prerequisites=信仰马格林
+|description=你对马格林的教义的理解使你成为神秘力量的完美媒介。你在使用预言法术与其他存在接触时施法者等级+1背景加值(比如[[通神术]]，[[死者交谈]])。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

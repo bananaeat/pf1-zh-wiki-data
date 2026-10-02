@@ -1,0 +1,7 @@
+{{物品
+|name=迷失
+|english_name=The Lost
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。抽卡者不能在当前等级最高的职业中继续升级。此效果可以通过死后复活绕开，但在复活时无论原来施展的是什么法术，效果都变为[[转生术]]。
+}}

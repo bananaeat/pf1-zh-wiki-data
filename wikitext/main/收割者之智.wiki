@@ -1,0 +1,15 @@
+{{魔法物品
+|name=收割者之智
+|english_name=Reaper's Wisdom
+|aon=MagicWondrousDisplay.aspx?FinalName=Reaper's Wisdom
+|cat=奇物
+|aura=中等死灵系
+|cl=11
+|slot=肩部
+|price=21,600 gp
+|weight=1磅
+|description=这块单只的肩甲由[[金刚木]]制成，镶嵌着翡翠，即使在完全的黑暗中也会微微闪烁，仿佛静水池塘的反光表面。这块肩甲能增强佩戴者所用一切毒药的毒性。每天一次，当佩戴者试图对目标下毒时，可以说出命令字，用魔法强化一剂毒药，使其免疫[[减缓毒发]]的效果。毒药的DC不受影响，并且该毒药仍然会受到[[中和毒性]]法术及类似魔法效果的影响。
+|req=[[制造奇物]]、[[猛烈之毒]]
+|cost=10,800 gp
+|source=药剂与毒药
+}}

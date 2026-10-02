@@ -1,0 +1,9 @@
+{{Feat
+|name=科技毁灭者
+|english_name=Technophobe
+|description=你从击毁复杂机械的过程中获得愉悦。
+|prerequisites=[[精通击破]]
+|benefit=每当你将一个机体生物的生命值降到0或以下，或是摧毁一件敌人使用的科技物品，你就会在相当于你的感知调整值（最小为1）轮的时间内，在属性检定，豁免检定，攻击检定和技能检定上获得＋2士气加值。如果一件科技物品离开敌人的控制一轮内被你摧毁，你也可以获得此加值。
+|source_name=科技指南
+|source_url=https://pf1chm.pages.dev/topics/page_762.html
+}}

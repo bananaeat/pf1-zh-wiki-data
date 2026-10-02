@@ -1,0 +1,10 @@
+{{Trait
+|name=深入不毛
+|english_name=Valashmai Veteran
+|type=地区
+|prerequisites=瓦拉苏迈
+|description=你已经在瓦拉苏迈中穿行了相当的年月，在荒野中挣扎打拼的经验让你成为了优秀的向导和探子，你在察觉技能和在丛林地形中进行的生存技能检定获得+1背景加值，并且你可以选择其中之一作为你的[[本职技能]]。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://pf1chm.pages.dev/topics/page_1557.html
+}}

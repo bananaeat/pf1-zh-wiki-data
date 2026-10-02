@@ -1,0 +1,11 @@
+<noinclude>{{调查员导航}}
+'''暮光之爪即兴'''（Twilight Talon Improvisation, Ex）是[[调查员]]的[[调查员天赋|调查员天赋]]。
+
+</noinclude>{{Source|内海诡道|Inner Sea Intrigue|inline}}
+
+{{AI翻译|nocat=1|本段由 AI 照 AoN 英文原文译出，CHM 汉化里没有这段译文，未经人工校对。}}
+每当调查员以临时武器造成策士之击伤害时，她可以以一个[[自由动作]]对该敌人进行一次[[阴招]]APG战技。这次战技照常引发[[借机攻击]]，除非调查员拥有能避免引发借机攻击的专长或其他能力。<noinclude>
+
+[[分类:调查员天赋]]
+
+{{职业}}</noinclude>

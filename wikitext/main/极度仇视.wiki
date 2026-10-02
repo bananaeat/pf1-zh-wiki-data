@@ -1,0 +1,12 @@
+{{Feat
+|name=极度仇视
+|english_name=Extreme Prejudice
+|categories=战斗
+|description=有一种生物你至为痛恨，他们的出现就足以挑动你的杀戮神经。
+|prerequisites=[[憎恶集中]]，偷袭+3d6，杀手杀戮目标职业能力
+|benefit=每当你对一个你以憎恶集中专长选择为目标的生物发动偷袭攻击时，你的偷袭伤害骰上升到d8而非普通的d6。
+|stamina=如果目标并非憎恶集中专长指定的敌人，你可以花费5点耐力来将其视为憎恶集中专长所指定的敌人。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

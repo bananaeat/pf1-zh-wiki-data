@@ -1,0 +1,9 @@
+{{Trait
+|name=笑面虎
+|english_name=Partial Protege
+|type=魔法
+|description=你精于掩饰自己的真才实学。你的[[唬骗]]检定、用于模拟某职业特性的[[使用魔法装置]]检定获得+1背景加值。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

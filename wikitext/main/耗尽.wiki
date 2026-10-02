@@ -1,0 +1,11 @@
+{{Feat
+|name=耗尽
+|english_name=Consumption
+|categories=血巫术
+|description=你让你的对手在受伤时消耗更多战斗资源。
+|prerequisites=智力13，使用魔法装置5级
+|benefit=以一个整轮动作，你诅咒一个自你上一轮开始以来被你造成过伤害的敌人，使他更快的消耗特定的力量。该生物必须通过一个成功的强韧豁免检定，否则如果它在接下来1min内使用了下列的职业能力，他必须消耗至少2发每日使用次数或2轮能力：奥能池UM，奥能源泉ACG，诗人表演，[[血怒]]ACG，炼金炸弹APG，灵感ACG，[[武僧#气运丹田|气池]]，[[秘学士#心智点|心智点]]OA，[[催眠师诡计]]OA，精神力池OA，狂暴，或者战怒之歌ACG。
+|special=萨满或女巫能以一个标准动作使用该血巫术。
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_343.html
+}}

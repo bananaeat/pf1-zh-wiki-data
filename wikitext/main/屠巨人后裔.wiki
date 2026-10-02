@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Giantslayer Player's Guide pg. 6, Giant Hunter's Handbook pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=屠巨人后裔
+|english_name=Giantslayer Scion
+|type=战役
+|pfs=否
+|description=你从小听着一位著名祖先与巨人敌手大战的故事长大。只要提起你祖先的名字，就足以让最坚毅的巨人战士心生恐惧，而你已决心追随先祖的脚步。你对比你体型更大的巨人亚种生物进行的[[威吓]]检定不受减值，并且你对巨人亚种生物使用的任何基于恐惧的效果，其DC获得+1背景加值。
+|source_name=Giantslayer Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Giantslayer%20Scion
+}}

@@ -1,0 +1,14 @@
+{{Feat
+|name=奇美拉行家
+|english_name=Chimeric Adept
+|description=你能透过其他动物的能力改进你的野性型态。
+|prerequisites=奇美拉拟态职业特性，自然变身职业特性
+|benefit=当你使用自然变身能力变形时，你还能获得你所选另一个拟态的其中一种次级型态的能力。
+|source=WO
+|source_name=荒野源始
+|source_url=https://pf1chm.pages.dev/topics/zh88d60e6387.htm
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[奇美拉大师]]（1 个条目）

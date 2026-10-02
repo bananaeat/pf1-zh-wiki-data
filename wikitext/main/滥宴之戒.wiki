@@ -1,0 +1,14 @@
+{{魔法物品
+|name=滥宴之戒
+|english_name=Gluttonous Feasting Ring
+|aon=MagicRingsDisplay.aspx?FinalName=Gluttonous Feasting Ring
+|cat=戒指
+|aura=微弱死灵系、变化系
+|cl=5
+|slot=戒指
+|price=5,000 gp
+|description=这枚戒指由人类颅骨的平坦部分雕成，边缘刻着骷髅们宴饮的图案。佩戴者吃下或喝下的任何食物和饮品，都会被自动净化，如同施放了[[净化食粮]]。每天一次，在吃下一顿奢华的餐点（通常价值至少10 gp）之后，佩戴者会获得[[虚假生命]]的效果。
+|req=[[锻造戒指]]、[[虚假生命]]、[[净化食粮]]
+|cost=2,500 gp
+|source=内海诸神
+}}

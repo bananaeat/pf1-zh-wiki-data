@@ -1,0 +1,9 @@
+{{Trait
+|name=异端客
+|english_name=History of Heresy
+|type=信念
+|description=你在抱有异端思想的环境中长大，这使你难以接受大多宗教理念，并时常致使你或你所爱之人沦为被流放者。作为结果，你背弃一切宗教的宣教，只要你没有获得神术施法职业的等级，你就能在抵抗神术的全豁免中获得+1背景加值。
+|source_name=信念背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

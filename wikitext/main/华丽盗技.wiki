@@ -1,0 +1,11 @@
+{{Feat
+|name=华丽盗技
+|english_name=Graceful Steal
+|categories=战斗
+|description=你能十分巧妙地偷窃物品。
+|prerequisites=敏捷 13，[[灵巧武艺]]，[[精通盗取]]（APG），[[巧手]]3级
+|benefit=当你尝试用[[巧手]]检定藏匿或盗窃物品时，能够使用[[盗取]][[战技]]（APG）的[[CMB]]来替代巧手的调整值，不过如果你要这么做的话，则必须使用敏捷调整值而非力量调整值。即便物品被藏在包或袋子里，你也能够使用盗取战技偷窃物品（前提是你能够触及到放在内部的物品），但是在此情况下，敌人的[[CMD]]至少会获得+5加值（由于物体是被固定住的）。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

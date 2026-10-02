@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[死亡一指]] 的神话版本。</small></div>
+{{Spell
+|name=死亡一指
+|english_name=Finger of Death
+|school=死灵系
+|tags=死亡
+|levels=奥能师 7;异能者 7;术士 7;法师 7;德鲁伊 8
+|description=法术造成的伤害增加至每施法者等级15点伤害，外加1d8点体质伤害。成功豁免的生物会受到3d8 + 每施法者等级1点伤害，受到1d4点体质伤害，并且恍惚1轮。
+|source=神话冒险
+}}
+[[分类:神话法术]]

@@ -1,0 +1,11 @@
+{{Feat
+|name=知晓弱点
+|english_name=Know Weakness
+|categories=战斗
+|description=你学习过无数怪物寓言和传说，对怪物的弱点知之甚多
+|prerequisites=轶闻知识职业能力
+|benefit=每当你成功的通过一个知识检定分析了某种生物，你会对该生物在攻击和伤害检定上获得+1加值，持续1轮。
+|source=ACO
+|source_name=进化职业起源
+|source_url=https://pf1chm.pages.dev/topics/page_500.html
+}}

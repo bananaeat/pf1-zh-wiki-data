@@ -1,0 +1,15 @@
+{{Spell
+|name=束布成钢
+|english_name=Silk to steel
+|school=变化系
+|levels=吟游诗人 2;奥能师 2;女巫 2;术士 2;歌者 2;法师 2;秘学士 2;红螳螂杀手 2
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=一条围巾
+|duration=1轮/等级
+|save=无
+|sr=否
+|description=你给一条普通的围巾 （或类似服装部件） 灌输能量，使其在保持轻盈和灵活的同时获得钢铁的硬度。每一轮当你行动时，你可以选择用围巾保护你自己 （AC获得+2护盾加值），或者用其进行攻击，视同一条[[长鞭]]。
+|source=极限魔法
+}}

@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[长距投掷]] 的神话版本。</small></div>
+{{Feat
+|name=长距投掷
+|english_name=Distance Thrower
+|categories=神话
+|description=对于你那强有力的手臂来说，投掷是没有极限的。
+|prerequisites=[[力量]] 17，[[长距投掷]]
+|benefit=对于被你持用的投掷武器来说，它们的射程为正常的两倍。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

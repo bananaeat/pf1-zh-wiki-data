@@ -1,0 +1,10 @@
+{{Feat
+|name=蔓生引导
+|english_name=Thicket Channel
+|description=你的神祇以丰饶充盈了你的[[引导能量]]。
+|prerequisites=引导能量7d6，信仰埃拉斯蒂尔
+|benefit=每当你引导正能量，你都能使得被你的引导能量影响的区域植被快速生长，如同法术[[植物滋长]]的过度生长版本（施法者等级等同于你的有效牧师等级）。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

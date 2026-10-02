@@ -1,0 +1,9 @@
+{{Trait
+|name=爱八卦
+|english_name=Truth's Agent
+|type=社会
+|description=你精于挖掘信息。你用于收集信息的交涉检定和知识(本地)检定获得+1背景加值。知识(本地)总是你的[[本职技能]]。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

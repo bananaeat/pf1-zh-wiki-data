@@ -1,0 +1,39 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=披甲食人魔骷髅
+|english_name=Armored Ogre Skeleton
+|cr=2
+|xp=600
+|alignment=中立邪恶
+|size=大型
+|type=不死生物
+|init=+4
+|senses=黑暗视觉 60 尺；察觉 +0
+|ac=19，接触 9，措手不及 19（+8 护甲，+2 天生，–1 体型）
+|hp=18（4d8）
+|fort=+1
+|ref=+1
+|will=+4
+|dr=5/钝击
+|immune=寒冷;[[通用怪物规则#不死特性|不死生物特性]]
+|speed=30 尺（基础 40 尺）
+|melee=巨木棒 +7（2d8+7）或 2 爪抓 +7（1d6+5）
+|space=10 尺
+|reach=10 尺
+|str=21
+|dex=10
+|con=–
+|int=–
+|wis=10
+|cha=10
+|bab=+3
+|cmb=+9
+|cmd=19
+|feats=[[精通先攻]]
+|gear=半身甲;巨木棒
+|source=Pathfinder #44: Trial of the Beast
+|lore=
+披甲骷髅是配备了更重型护甲和武器的普通[[骷髅]]，在不死大军中充当精锐部队。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Armored Ogre Skeleton|2=Armored Ogre Skeleton}}

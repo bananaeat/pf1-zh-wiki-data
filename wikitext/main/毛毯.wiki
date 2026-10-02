@@ -1,0 +1,9 @@
+{{装备
+|name=毛毯
+|english_name=Blanket
+|cat=冒险装备
+|price=5 sp
+|weight=3磅
+|description=这张温暖的编织毛毯带有系带，因此可以卷起并系好。毛毯常与铺盖卷搭配使用，用以增加保暖，或作为地垫。
+|source=核心规则书、冒险者的军械库、进阶玩家指南、极限宝具
+}}

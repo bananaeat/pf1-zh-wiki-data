@@ -1,0 +1,13 @@
+{{Trait
+|name=无信决意
+|english_name=Godless Resolve
+|type=地区
+|prerequisites=[[吟游诗人]]，出身巴川、拉哈多姆或托维特，或在当地生活过至少1年
+|description=一些精彩而真挚的演讲或其他表演激励了你来掌控自己的健康，而不是乞求漠不关心或遭到取缔的神祇来施舍健康。
+
+医疗成为你的[[本职技能]]，同时你在稳定伤势和止血的医疗检定中获得+2背景加值。
+|regions=巴川、拉哈多姆、托维特
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_703.html
+}}

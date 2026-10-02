@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''基础地脉念力'''（Basic Geokinesis, Sp）是[[操念使]]的[[原力]]。
+
+元素：土；类别：通用（Sp）；等级：1；超载：0
+
+你能够以[[移动动作]]将石头、松散的土壤、沙子、泥土和其他类似的物质挪动至多15尺远，这些物质的重量至多为每个[[操念使]]等级5磅重。你可以在一定距离内搜寻土质和石质区域，就如同使用[[搜寻术]]<sup>APG</sup>一般。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Basic Geokinesis|2=Basic Geokinesis}}
+
+[[分类:原力]]

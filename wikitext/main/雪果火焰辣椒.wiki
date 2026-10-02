@@ -1,0 +1,15 @@
+{{魔法物品
+|name=雪果火焰辣椒
+|english_name=Snowberry Fire Peppers
+|aon=MagicPotionsDisplay.aspx?ItemName=Snowberry Fire Peppers
+|cat=药水
+|aura=微弱防护系
+|cl=6
+|slot=无
+|price=600 gp
+|weight=1磅
+|description=爽脆、奶油般的白色浆果从这枚鲜红的泪滴形辣椒内部涌出。这种令人泪流满面的美味，能让你安全地吸收热量与火焰，不过这样也会重新激起辛辣的味道。你获得火焰抗力10，持续1小时。每当这一效果抵消了10点或更多火焰伤害时，你必须进行一次强韧豁免（DC 15 + 所受火焰伤害），否则香料会压垮你的感官，使你[[晕眩]]1轮。
+|req=[[调制药剂]]、专业（烹饪）5级、[[抵抗能量伤害]]
+|cost=300 gp，24 XP
+|source=格拉利昂的精灵
+}}

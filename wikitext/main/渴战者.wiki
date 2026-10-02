@@ -1,0 +1,9 @@
+{{Trait
+|name=渴战者
+|english_name=Eager Combatant
+|type=地区
+|prerequisites=谜港城(Riddleport)
+|description=你急于登上敌船，无论危险如何，你总是第一个跃过船舷的人。你在敌船上进行的攻击检定时获得+1背景加值。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

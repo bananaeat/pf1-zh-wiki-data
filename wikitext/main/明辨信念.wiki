@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 21），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=明辨信念
+|english_name=Discerning Beliefs
+|type=地区
+|prerequisites=兹哈
+|description=你曾协助[[轮回者]]维护启蒙诸峰中各山谷周围的魔法屏障，自己也学到了避开这类幻术的诀窍。你为识破幻术而进行的豁免检定获得+2背景加值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Discerning%20Beliefs
+}}

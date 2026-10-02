@@ -1,0 +1,10 @@
+{{Trait
+|name=阔步荒野
+|english_name=Wild Stride
+|type=种族
+|prerequisites=[[精灵]]
+|description=选择一个在游侠偏好地形职业能力中的偏好地形。你能无任何惩罚下穿越该偏好地形中自然形成的[[困难地形]]。被魔法或陷阱效果创造或改变的地形如常影响你。
+|source_name=荒野英雄
+|source=HotW
+|source_url=https://pf1chm.pages.dev/topics/zhc5a8c0a892.htm
+}}

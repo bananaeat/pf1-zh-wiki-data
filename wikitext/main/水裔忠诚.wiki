@@ -1,0 +1,11 @@
+{{Trait
+|name=水裔忠诚
+|english_name=Undine Loyalty
+|type=种族
+|prerequisites=[[水元素裔]]
+|description=你从小就明白团队合作可以让你远离惹事精。选择一个需要盟友与你相邻的[[团队专长]]。你可以在盟友与你相距10ft内时也能从此团队专长中受益(但你的盟友不会从此团队专长中受益，除非他也有此背景或类似能力)。
+【PFS】在 PFS 中，你的角色必须是需求种族才能合法选择此背景。
+|source_name=格拉里昂的混种
+|source=格拉利昂的混种
+|source_url=https://pf1chm.pages.dev/topics/zh8a60bedf4e.htm
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=兽化苦难
+|english_name=Animalistic Affliction
+|type=种族
+|prerequisites=[[人类]]（乌尔芬人）
+|description=你在与掠食性动物的亲近中长大，氏族中的流言暗示你的祖先曾受兽化症折磨。无论你是否继承了这种诅咒，都时常会感受到野兽般的冲动。你在[[驯养动物]]和野性认同检定上获得+1背景加值。
+|source_name=格拉里昂的人类
+|source_url=https://pf1chm.pages.dev/topics/page_1581.html
+}}

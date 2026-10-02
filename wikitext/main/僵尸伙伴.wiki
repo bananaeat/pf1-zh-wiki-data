@@ -1,0 +1,11 @@
+{{Feat
+|name=僵尸伙伴
+|english_name=Corpse Companion
+|pfs=否
+|description=你的动物伙伴也变成了不死怪物
+|prerequisites=食尸鬼，动物伙伴职业能力
+|benefit=你的动物伙伴的生物类型转变为不死生物，但它原有的HD，基础攻击加值，豁免加值、技能与技巧不会改变，它失去体质值，但魅力值上升到12。如果你的僵尸伙伴被摧毁，那么你获得新的动物伙伴时它也会自动变为不死生物，拥有同样的调整。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1404.html
+}}

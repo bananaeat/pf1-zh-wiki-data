@@ -1,0 +1,9 @@
+{{Feat
+|name=底栖魔鱼欺诈者
+|english_name=Aboleth Deceiver
+|description=你掌握了一些精神诡术，以抵抗[[底栖魔鱼]]的惑控魔法。
+|prerequisites=[[钢铁意志]]，[[半鱼人]]，惑控抗力种族特性
+|benefit=每天一次，当你在对抗胁迫法术或效果的意志豁免中失败时，你可以重骰一次，你必须接受新的结果。如果该效果源于底栖魔鱼，你不会在这次豁免中遭受惑控抗力带来的-2减值，并且此次重骰不计入每日使用次数。
+|source_name=海洋之血
+|source_url=https://pf1chm.pages.dev/topics/zh7e409f67e0.htm
+}}

@@ -1,0 +1,21 @@
+{{魔法物品
+|name=内蚀之杖
+|english_name=Staff of Internal Assault
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Internal Assault
+|cat=法杖
+|aura=中等（学派不定）
+|cl=8
+|slot=无
+|price=20,800 gp
+|weight=5磅
+|description=这根坚实的陈年橡木法杖上不断有碎裂的树皮剥落，法杖的大小却不会因此缩减。
+
+该法杖可以使用以下法术：
+
+* [[石化之触]]（2 发；APG）
+* [[酸蚀之触]]（1 发；UM）
+* [[接触注射]]（2 发；UC）
+|req=[[制造法杖]]、[[石化之触]]、[[酸蚀之触]]、[[接触注射]]
+|cost=10,400 gp
+|source=屠龙者手册
+}}

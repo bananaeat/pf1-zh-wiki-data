@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 194），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=傲视短寿
+|english_name=Insular (Elf)
+|type=种族
+|prerequisites=[[精灵]]
+|description=在非精灵之中生活了一段时间后，你对鲁莽而短命的种族产生了不屑一顾的态度。你在对抗精灵以外的类人生物所造成的魅惑、强迫和恐惧效应的意志豁免检定上获得+2背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Insular%20%28Elf%29
+}}

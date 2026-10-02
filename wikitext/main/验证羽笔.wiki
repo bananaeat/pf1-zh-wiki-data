@@ -1,0 +1,14 @@
+{{魔法物品
+|name=验证羽笔
+|english_name=Quill of Verification
+|aon=MagicWondrousDisplay.aspx?FinalName=Quill of Verification
+|cat=奇物
+|aura=微弱预言系
+|cl=1
+|slot=无
+|price=1,000 gp
+|description=这支天鹅羽毛制成的羽笔可以帮助持用者验证签名。持用者可以将羽笔按在某个签名上并说出命令字，把该签名存入羽笔之中。随后她可以用笔尖轻点另一份签名，检查它是否出自同一个人之手。羽笔验证签名真伪的效果，如同在[[语言学]]检定中取得总结果20。如果签名被检测为真迹（包括识破DC高于20的高明伪造品），羽笔会发出蓝光。验证羽笔每天可以验证签名3次。持用者可以在各次使用验证能力之间任意多次更换所存储的签名。
+|req=[[制造奇物]]、[[鉴定术]]
+|cost=500 gp
+|source=恶棍志
+}}

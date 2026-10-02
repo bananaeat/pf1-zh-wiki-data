@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=迅捷脚步
+|english_name=Swift Foot
+|type=Ex
+|class=掉链野蛮人
+|benefit=野蛮人获得10尺的基本移动速度的增强加值。野蛮人最多可以选择此狂暴之力3次，其效果相叠加。
+|classic=迅足
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

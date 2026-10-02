@@ -1,0 +1,12 @@
+{{Feat
+|name=演武武器精通
+|english_name=Performance Weapon Mastery
+|aliases=演武武器熟稔
+|categories=战斗
+|pfs=否
+|description=你能手持任何武器进行华丽的表演。
+|benefit=你擅长的所有武器均视为带有演武武器特性。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

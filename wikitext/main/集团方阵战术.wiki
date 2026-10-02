@@ -1,0 +1,12 @@
+{{Feat
+|name=集团方阵战术
+|english_name=Phalanx Formation
+|categories=战斗
+|description=你接受过使用长武器在集团方阵内战斗的训练。
+|prerequisites=BAB+1
+|benefit=当你持用你熟练使用的长触及武器时，盟友不会在你进行长触及攻击时为敌人提供软[[掩蔽]]。
+|normal=攻击处于另一个生物后方的单位，包括盟友后方的单位时，目标会受到软掩蔽影响。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}

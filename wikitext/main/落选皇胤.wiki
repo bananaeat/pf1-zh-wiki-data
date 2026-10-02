@@ -1,0 +1,9 @@
+{{Trait
+|name=落选皇胤
+|english_name=Rejected Emperor
+|type=宗教
+|description=你年幼时，父母将你带去渤理的先知面前，声称神迹显示你是龙华"永恒皇帝"的转世。先知未予认可，但你仍受天界影响的触及。你可以用知识(贵族)或知识(宗教)代替知识(位面)来辨识异界生物。此外，你遭遇的非邪恶异界生物对你的初始态度提高一级。
+|source_name=古国血脉
+|source=BotA
+|source_url=https://pf1chm.pages.dev/topics/zhb7c0053e99.htm
+}}

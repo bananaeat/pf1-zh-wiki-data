@@ -1,0 +1,9 @@
+{{Trait
+|name=桥下居民
+|english_name=Underbridge Dweller
+|type=地区
+|prerequisites=瓦瑞西亚-玛格尼玛城
+|description=你在玛格尼玛城中伊雷斯班桥下的阴影区，一个长期被阴影覆盖，每天太阳只照射三个小时的地方长大。你充分的怀疑心让你在昏暗光照下的察觉检定获得+2背景加值，并且察觉成为你的[[本职技能]]。
+|source_name=瓦瑞西亚，传说诞生之地
+|source_url=https://pf1chm.pages.dev/topics/zh1d5e5ac9bb.htm
+}}

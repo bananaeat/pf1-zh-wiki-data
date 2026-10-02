@@ -1,0 +1,16 @@
+{{Spell
+|name=衰竭剧痛
+|english_name=Debilitating pain
+|school=惑控系 (胁迫)
+|tags=影响心灵;痛苦
+|levels=女巫 3;异能者 3
+|action=标准动作
+|components=语言;姿势;材料
+|range=近距（25尺+5尺/2等级）
+|target=一个生物
+|duration=1轮/3等级
+|save=意志，通过则部分生效（见描述）
+|sr=是
+|description=你的目标被无比剧烈的痛苦所压垮，这使得它在对本法术的豁免失败时会被[[震慑]]。若成功通过豁免则改为眩晕1轮。
+|source=异能选集
+}}

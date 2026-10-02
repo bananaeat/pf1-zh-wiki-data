@@ -1,0 +1,15 @@
+{{Spell
+|name=群体缩小术
+|english_name=Reduce Person, Mass
+|school=变化系
+|levels=召唤师 3;召唤师（掉链） 4;奥能师 4;异能者 4;术士 4;法师 4;红螳螂杀手 4;血脉狂怒者 4;魔战士 4
+|action=1轮
+|components=语言;姿势;材料（一撮铁粉）
+|range=近距
+|target=每等级1个类人生物, 任意两者之间的距离不超过30尺
+|duration=1分钟/等级 (可解消)
+|save=强韧，通过则无效
+|sr=是
+|description=该法术的功能如同[[缩小术]]一般，不过它能影响复数生物。
+|source=核心规则书
+}}

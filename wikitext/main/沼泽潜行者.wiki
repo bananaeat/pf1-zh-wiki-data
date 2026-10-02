@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Coven pg. 3），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=沼泽潜行者
+|english_name=Swamp Skulker
+|type=地区
+|prerequisites=河域诸国
+|description=可怕的东西在你故乡的荒沼上游荡，而你对躲藏或逃离它们再熟悉不过了。当你身处泥沼、湿地或沼泽地形中时，你的[[隐匿]]检定获得+1背景加值，并且在移动方面，你将浅泥沼和沼泽灌木丛视为普通地形。
+|source_name=巫团血脉
+|source=BotC
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Swamp%20Skulker
+}}

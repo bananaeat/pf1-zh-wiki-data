@@ -1,0 +1,10 @@
+{{Trait
+|name=探险地狱骑士
+|english_name=Questing Hellknight
+|type=社会
+|prerequisites=守序阵营
+|description=你在涉及当地法律时总能触类旁通。每日一次，你可以在未受训的情况下尝试知识(本地)检定以回忆有关本地的法律、统治者和热门地点的信息。此外，你在知识(本地)检定中获得+1背景加值，且知识(本地)视为你的[[本职技能]]。你必须属于守序阵营才能选择该背景。
+|source_name=地狱骑士之道
+|source=PotH
+|source_url=https://pf1chm.pages.dev/topics/zh31da2cdf93.htm
+}}

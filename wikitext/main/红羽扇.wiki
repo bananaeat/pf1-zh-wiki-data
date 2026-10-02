@@ -1,0 +1,15 @@
+{{魔法物品
+|name=红羽扇
+|english_name=Red Feather Fan
+|aon=MagicWondrousDisplay.aspx?FinalName=Red Feather Fan
+|cat=奇物
+|aura=中等塑能系
+|cl=6
+|slot=无
+|price=5,000 gp
+|weight=1磅
+|description=这把扇子由铜制成，铜被打造成十二片小羽毛，装在一个环形的骨柄上。每天一次，持有者可以握住它并说出命令字，来反制一个黑暗效果（如同使用[[昼明术]]），或反制一个光亮效果（如同使用[[深幽黑暗术]]）。如果在光亮与黑暗效果重叠的区域激活，扇子会随机反制其中一个，另一个保持不变。
+|req=[[制造奇物]]、[[昼明术]]、[[深幽黑暗术]]
+|cost=2,500 gp
+|source=进阶种族手册
+}}

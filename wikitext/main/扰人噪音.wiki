@@ -1,0 +1,22 @@
+{{Spell
+|name=扰人噪音
+|english_name=Distracting cacophony
+|school=塑能系
+|tags=音波
+|levels=吟游诗人 2;歌者 2;奥能师 3;异能者 3;术士 3;法师 3
+|action=标准动作
+|components=语言;姿势
+|range=中距
+|area=20尺弥散范围
+|duration=1轮/等级 （可解消）
+|save=无
+|sr=是
+|description=你让目标区域的空气中充满吵闹而烦人的噪音，使人难以专心。
+
+在受影响的区域内施放法术需要进行一次专注检定 （DC为15加所施放法术的环级）。
+
+另外，在法术影响范围内，任何其他用途的专注检定的DC都会增加5。
+
+除此之外，区域范围内涉及听觉的察觉检定的DC也同样会增加5。
+|source=极限魔法
+}}

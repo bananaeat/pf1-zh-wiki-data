@@ -1,0 +1,10 @@
+{{Trait
+|name=为战而生
+|english_name=Bred for War
+|type=种族
+|prerequisites=[[人类]]（休盎提人）
+|description=你高出大多数其他[[人类]]，并拥有结实、虬结的肌肉。你在威吓检定上获得 +1 背景加值，且因体格高大，你的 [[CMB]] 获得+1背景加值。你必须至少有6英尺高。
+|source_name=格拉里昂的人类
+|source=格拉利昂的人类
+|source_url=https://pf1chm.pages.dev/topics/page_1581.html
+}}

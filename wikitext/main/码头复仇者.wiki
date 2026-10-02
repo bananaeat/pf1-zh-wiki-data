@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Varisia, Birthplace of Legends pg. 28），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=码头复仇者
+|english_name=Dockside Avenger
+|type=战役
+|pfs=否
+|description=对盖德伦·拉姆和他的打手来说，没有什么罪行是卑劣到做不出来的——这是一伙在科瓦萨中陆区活动的下三滥杀人犯、绑匪和毒贩。你因拉姆失去了某个人，现在你要复仇。只要拉姆还活着且逍遥法外，你要到生命值降至负值、且其绝对值等于你的体质值＋3时才会死亡。一旦拉姆被关押或被杀，你就会失去前一项好处，但永久获得3点生命值。
+|source_name=瓦瑞西亚，传说诞生之地
+|source=VBoL
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Dockside%20Avenger
+}}

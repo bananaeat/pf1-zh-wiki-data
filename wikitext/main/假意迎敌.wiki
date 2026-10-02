@@ -1,0 +1,11 @@
+{{Feat
+|name=假意迎敌
+|english_name=False Opening
+|categories=战斗
+|description=当你在敌人威胁范围内进行远程攻击，你可以诱使他攻击你从而让他[[空门大开]]。
+|prerequisites=敏捷13，[[闪避]]，[[近身投掷]]或[[贴身射击]]，[[武器专攻]]（所选远程武器）。
+|benefit=选择一种远程武器或投掷武器。当你使用这种武器进行一次远程攻击时，你可以选择触发一个或多个正威胁你的敌人的[[借机攻击]]。针对这些攻击，你获得+4闪避加值。如果敌人的这次借机攻击未能命中你，他对你失去敏捷加值，持续到你这次行动轮结束。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=巨人强韧
+|english_name=Fortitude of Giants
+|pfs=否
+|description=强大的体质和旺盛的精力让你可以摆脱毒药和疲劳的影响。
+|prerequisites=体质14，巨人，[[强韧加强]]
+|benefit=当你尝试对抗毒药效果或造成疲乏状态的效果的豁免时，你可以双骰取高。
+|source_name=冒险之路91：血征山之战
+|source_url=https://pf1chm.pages.dev/topics/91_Battle_of_Bloodmarch_Hills.htm
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=心御体
+|english_name=Wisdom in the Flesh
+|type=宗教
+|prerequisites=信仰[[义洛理]]
+|description=你对内在完美、力量与速度本质的长时冥思，使你能将精神与思考高度集中，完成那些仅凭肉体无法办到的事情。选择一项基于力量、敏捷或体质的技能。你在使用该技能时，用感知修正取代原本的属性。该技能将视为你的[[本职技能]]。
+|source_name=宗教背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

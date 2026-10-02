@@ -1,0 +1,15 @@
+{{魔法物品
+|name=锈蚀手套
+|english_name=Gauntlet of Rust
+|aon=MagicWondrousDisplay.aspx?FinalName=Gauntlet of Rust
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=手部
+|price=11,500 gp
+|weight=2磅
+|description=这只单独的金属护手看起来锈迹斑斑、坑坑洼洼，其实相当强大。每日一次，它可以对一件物体产生如同[[锈蚀爪]]法术的效果。它还能完全保护穿戴者及其装备不受锈蚀（无论是否由魔法造成）影响，包括[[锈蚀怪]]的攻击。
+|req=[[制造奇物]]、[[锈蚀爪]]
+|cost=5,750 gp
+|source=核心规则书、极限宝具
+}}

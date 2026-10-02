@@ -1,0 +1,44 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Cities of Golarion
+|authors=Joshua J. Frost、Tim Hitchcock、Jonathan H. Keith、Robert G. McCreary、Jason Nelson、Jeff Quick
+|pages=64
+}}
+
+{{书页/简介|head=六座城市，无尽冒险|1=
+大多数冒险者认为，城市是冒险结束之后才去的地方。是时候让你的玩家们见识一下：城市可以和最幽暗的地城一样刺激——也一样危险！
+
+这本 64 页的书中介绍的每座城市都配有整页彩色地图、跨越远古与近代的历史、与邻国及怪物的关系、值得一提的地点，以及数页冒险钩子，使它成为进行一场开拓者战役的绝佳场所！
+
+本书中的城市有：
+
+* 卡索米尔（Cassomir），塔尔多好战海军的母港，街道之下潜伏着奇异的生物
+* 科伦庭（Corentyn），这座崩坏而闹鬼的城市，让崇拜魔鬼的切利亚斯得以扼住内海贸易的咽喉
+* 伊兹玛格罗提（Ilizmagorti），海盗的天堂，也是神秘的红螳螂刺客的秘密基地
+* 尼斯罗克（Nisroch），阴森的暗影与白骨之港，由施虐之神[[宗-库松]]的祭司统治
+* 守夜城（Vigil），文明边境上秩序与善良的堡垒，为看守一位远古巫妖的陵墓而建
+* 白王座（Whitethrone），女巫女王芭芭雅嘎的女儿们的首都，也是贵族们的游乐场
+
+本书描述的每座城市，也都以巨幅海报地图的形式收录在《Pathfinder Chronicles: City Map Folio》中。
+}}
+
+'''格拉利昂的城市'''（''Cities of Golarion''）是由 Joshua J. Frost、Tim Hitchcock 等 6 位作者撰写的一本《探索者编年史》（Pathfinder Chronicles）资料书，于 2009 年 11 月发售。
+
+== 目录 ==
+{{书页/目录|1=
+导言 @ 2
+卡索米尔（Cassomir） @ 4
+科伦庭（Corentyn） @ 14
+伊兹玛格罗提（Ilizmagorti） @ 24
+尼斯罗克（Nisroch） @ 34
+守夜城（Vigil） @ 44
+白王座（Whitethrone） @ 54
+}}
+
+{{书页尾
+|pfw=Cities of Golarion
+|releases=PDF¦PZO9214E¦2009-11¦；Softcover¦PZO9214¦2009-11¦
+}}
+
+[[分类:书目]]

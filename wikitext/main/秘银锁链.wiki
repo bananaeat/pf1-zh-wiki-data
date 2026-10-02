@@ -1,0 +1,9 @@
+{{装备
+|name=秘银锁链
+|english_name=Mithral chain (10 ft.)
+|cat=冒险装备
+|price=530 gp
+|weight=1磅
+|description=这条10尺长的锁链有硬度15，5点生命值。需要一次成功的DC28力量检定才能挣断它，因此它坚固得足以束缚大部分较弱种类的巨人。
+|source=巨人猎手手册
+}}

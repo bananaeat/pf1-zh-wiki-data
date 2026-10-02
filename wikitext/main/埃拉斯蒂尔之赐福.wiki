@@ -1,0 +1,13 @@
+{{Feat
+|name=埃拉斯蒂尔之赐福
+|english_name=Erastil's Blessing
+|categories=战斗
+|pfs=否
+|description=远古神射手的青睐让你能够以超出自己身体能力的技巧驾驭弓矢。
+|prerequisites=武器专攻：长弓，必须信仰埃拉斯蒂尔
+|benefit=当你使用弓的时候，能够使用感知调整值取代敏捷调整值进行远程攻击检定。
+|notes=擅用弓矢的埃拉斯蒂尔牧师通常会选取该专长。
+|source=PotR
+|source_name=正义之路
+|source_url=https://pf1chm.pages.dev/topics/page_678.html
+}}

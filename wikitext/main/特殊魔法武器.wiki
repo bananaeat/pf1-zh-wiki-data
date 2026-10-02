@@ -1,0 +1,30 @@
+{{速查导航}}
+
+'''特殊魔法武器'''是《[[位面冒险]]》的一章。
+
+以下武器可尤为适合那些位面旅行者。魔法武器即可拥有那些需要激活起效的能力，也可具有被动持续性起效的能力。
+
+'''表格1-6：'''特殊武器（Specific Weapons）
+
+{| class="wikitable"
+|-
+! 次级高等特殊武器（Lesser Minor Specific Weapons） !! 价格（Price）
+|-
+| 魔蝠首级之箭（Mephit-head arrow） || 200 GP
+|-
+| 高级中等特殊武器（Greater Medium Specific Weapons） || 价格（Price）
+|-
+| 库凯图斯的碎片（Shard of Cocytus） || 16,302 GP
+|-
+| 不确定之刃（Erratic blade） || 22,315 GP
+|}
+
+== 本章条目 ==
+
+* [[不确定之刃]]
+* [[库凯图斯的碎片]]
+* [[魔蝠首级之箭]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1568.html 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

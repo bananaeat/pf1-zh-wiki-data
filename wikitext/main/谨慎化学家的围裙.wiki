@@ -1,0 +1,15 @@
+{{魔法物品
+|name=谨慎化学家的围裙
+|english_name=Apron of the Careful Chemist
+|aon=MagicWondrousDisplay.aspx?FinalName=Apron of the Careful Chemist
+|cat=奇物
+|aura=中等变化系
+|cl=8
+|slot=胸部
+|price=5,200 gp
+|weight=3磅
+|description=这件皮围裙由好几层取自普通驮兽的厚皮革制成，并用钢铆钉加固。围裙会赋予穿戴者+2敏捷增强加值，在穿戴的头24小时内，此加值视为临时属性加值。此外，穿戴者在工艺（炼金术）检定上获得+2表现加值。当穿戴者对自己或另一名角色使用能在豁免检定上提供炼金加值的物品时，该加值增加1点。
+|req=[[制造奇物]]、[[猫之优雅]]，制造者必须拥有2级[[工艺]]（炼金术）
+|cost=2,250 gp
+|source=药剂与毒药
+}}

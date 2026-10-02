@@ -1,0 +1,3 @@
+<includeonly><div class="bk-blurb">{{#if:{{{head|}}}|<div class="bk-bh">{{{head}}}</div>}}
+{{{1|}}}
+</div></includeonly><noinclude>书页的封底简介：head 标题，1 正文。</noinclude>

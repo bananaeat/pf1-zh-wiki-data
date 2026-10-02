@@ -1,0 +1,12 @@
+{{Feat
+|name=专注一击
+|english_name=Strike True
+|categories=战斗
+|description=你尝试进行一次完美的进攻，而非一系列连招的猛击。
+|prerequisites=寓守于攻，BAB +6
+|benefit=你以移动动作集中精神。当你集中精神之后，回合结束之前的下一次近战攻击检定会获得+4加值。
+|notes=许多人认为，在战斗中集中精神就和自身的武艺一般重要。
+|source=PotR
+|source_name=正义之路
+|source_url=https://pf1chm.pages.dev/topics/page_678.html
+}}

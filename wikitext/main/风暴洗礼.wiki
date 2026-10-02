@@ -1,0 +1,9 @@
+{{Feat
+|name=风暴洗礼
+|english_name=Storm-Lashed
+|description=在暴雨与狂风之中度过的日子使你的身体在对抗这些元素时更加硬朗。
+|benefit=你可以免受许多恶劣天气带来的影响。在雨天，你的可视距离只降低四分之一（而非一半）并且察觉检定只受到-2减值。在受到风力影响时，你的体型视为比正常大一级，并且将任何由强风引起的察觉检定的减值减半。最后，你在对抗带有〔电〕描述词或造成电击伤害的效果时，豁免检定获得+2加值。
+|source=ISWG、AG
+|source_name=内海世界指南、冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

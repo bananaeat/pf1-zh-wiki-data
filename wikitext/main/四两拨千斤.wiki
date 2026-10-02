@@ -1,0 +1,17 @@
+{{Feat
+|name=四两拨千斤
+|english_name=Earth Child Topple
+|categories=战斗
+|description=你对平衡与动量的掌握允许你空手摞倒巨人。
+|prerequisites=感知13，矮人或侏儒，“防御训练”种族特性，[[以小搏大]]，[[精通摔绊]]，[[精通徒手打击]]，特技6级。
+|benefit=你可以对巨人亚种生物进行[[摔绊]]（体型不超过超大型）。当你使用地堂流派架势时，你在对抗巨人亚种生物的重击确认骰与摔绊[[CMB]]上加上你的感知修正。
+|normal=你不能摔绊比自己体型大一级以上的生物。
+|stamina=成功摔绊巨人时你可以选择消耗3点耐力，令目标承受2d6跌落伤害。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[狡兔搏鹰]]（1 个条目）

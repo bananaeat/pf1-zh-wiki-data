@@ -1,0 +1,15 @@
+{{魔法物品
+|name=海螺拖鞋
+|english_name=Slippers of the Triton
+|aon=MagicWondrousDisplay.aspx?FinalName=Slippers of the Triton
+|cat=奇物
+|aura=中等防护系
+|cl=7
+|slot=脚部
+|price=56,000 gp
+|weight=1磅
+|description=这双拖鞋使穿戴者能在水下呼吸。此外，如果穿戴者没有游泳速度，则获得30尺的游泳速度；如果穿戴者有游泳速度，则其游泳速度获得+10尺的增强加值。
+|req=[[制造奇物]]、[[驭波术]]
+|cost=28,000 gp
+|source=进阶种族手册、极限宝具
+}}

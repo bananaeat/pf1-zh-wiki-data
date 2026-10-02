@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[拯救谢幕曲 (神话)]]。</small></div>
+{{Spell
+|name=拯救谢幕曲
+|english_name=Saving finale
+|school=塑能系
+|tags=影响心灵
+|levels=吟游诗人 1;歌者 1
+|action=直觉动作
+|components=语言;姿势
+|range=近距
+|target=一名活物
+|duration=立即
+|save=意志，通过则无效（无害）
+|sr=是
+|description=施放这个法术之前，你必须激活一种吟游表演。当一名正在法术范围之内并且受到你的吟游表演影响的生物在一次豁免中失败时，你可以通过挥舞手臂进行谢幕，立即结束你的吟游表演，并使受术者立刻重骰失败的豁免。
+|source=进阶玩家指南
+}}

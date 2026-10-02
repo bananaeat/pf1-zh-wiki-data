@@ -1,0 +1,17 @@
+{{魔法物品
+|name=诸因之盾
+|english_name=Shield of Countless Causes
+|aon=MagicWondrousDisplay.aspx?FinalName=Shield of Countless Causes
+|cat=奇物
+|aura=微弱惑控系
+|cl=5
+|slot=盾牌
+|price=11,157 gp
+|weight=10磅
+|description=数十页经文覆盖着这面+2重木盾的盾面，每一页都以文字或插图详述某个骑士团的信条。持有或佩戴时，这面盾牌如同[[虔信经匣]]，不同之处在于，它只对违反佩戴者所属[[骑士团]]法令的行动起作用。
+
+一面全新的诸因之盾有5发充能。消耗1发充能并研读盾上的经文10分钟，持用者可以重新获得自己骑士团能力的使用次数，如同已过去24小时一般。消耗3发充能并研读盾上的经文8小时，持用者可以更换自己所属的骑士团。当最后一发充能用尽时，这面盾牌仍是一面+2重木盾。
+|req=[[制造奇物]]、[[赎罪术]]
+|cost=5,657 gp
+|source=信仰与哲学
+}}

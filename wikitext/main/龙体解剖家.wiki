@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Dragons pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=龙体解剖家
+|english_name=Drake Anatomist
+|type=社会
+|description=你在对具有龙类生物类型的生物的伤害骰上获得+1背景加值，并在辨识龙及其特殊能力和弱点的[[知识]]（奥秘）检定上获得+2背景加值。
+|source_name=巨龙遗产
+|source=LoD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Drake%20Anatomist
+}}

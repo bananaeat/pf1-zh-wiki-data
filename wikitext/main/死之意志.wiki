@@ -1,0 +1,10 @@
+<noinclude>{{异能者导航}}
+'''死之意志'''（Will of the Dead, Su）是[[异能者]]的[[精神增幅|精神增幅]]。
+
+</noinclude>即便是不死生物，也会受到异能者的影响心灵法术影响。异能者能够从精神力池中花费2点精神力，使得联结法术能够克服不死生物对影响心灵效果的免疫能力。该能力甚至可以对无心智的不死生物生效，但是它对不属于不死生物的生物没有效果。此项精神增幅仅能联结到具有影响心灵描述符的法术上。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_310.html 精神增幅]、[https://pf1chm.pages.dev/topics/zhb4162fc9dd.htm 乌笃剌精神增幅]、[https://pf1chm.pages.dev/topics/page_855.html PSI技术]），按 AoN 核对过。全部精神增幅见 [[精神增幅]]。
+
+[[分类:精神增幅]]
+
+{{职业}}</noinclude>

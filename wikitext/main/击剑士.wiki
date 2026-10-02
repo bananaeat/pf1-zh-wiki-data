@@ -1,0 +1,9 @@
+{{Trait
+|name=击剑士
+|english_name=Fencer
+|type=战斗
+|description=也许是父母出钱让你修习击剑礼仪的入门课程，亦或是师从一位因犯罪而隐姓埋名的老剑士，你从儿时起便长期接受剑术训练。你在通过[[匕首]]、刀剑或类似武器进行[[借机攻击]]时，攻击检定获得+1背景加值。
+|source_name=战斗背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=索恩站姿
+|english_name=Stance of the Xorn
+|categories=战斗
+|description=你已对各个方向的敌人都提高了警惕。
+|prerequisites=[[感知]] 15，BAB+3
+|benefit=[[夹击]]的敌人在对你的攻击检定上无法获得+2加值（这并不会保护你不受偷袭或者失敏。）。让你失去敏捷加值的情况也会让你失去此专长带来的好处。
+|normal=夹击的敌人在攻击检定上获得+2加值。
+|source_name=格拉利昂的矮人
+|source_url=https://pf1chm.pages.dev/topics/zh598c744e26.htm
+}}

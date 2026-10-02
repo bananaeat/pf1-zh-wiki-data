@@ -1,0 +1,11 @@
+{{Feat
+|name=无名枪手
+|english_name=No Name
+|categories=勇毅
+|description=你无需花费心思来隐藏自己的身份。
+|prerequisites=【勇毅】职业特性或业余枪手专长，唬骗4级。
+|benefit=你在人际交往上经常依靠出人意料和误导。你在[[唬骗]]检定上获得+2加值，而且可以消耗1点[[枪手#勇毅|勇毅]]点，在每个枪手等级10分钟（最少10分钟）里在[[易容]]检定上获得+10加值。这个铳技并不能真的改变你的外貌，但却能让你以其他方式隐藏你的身份。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

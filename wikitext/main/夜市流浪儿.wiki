@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Fire Player's Guide pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=夜市流浪儿
+|english_name=Nightstall Urchin
+|type=地区
+|prerequisites=卡塔佩什
+|description=你是在卡塔佩什街头长大的孤儿，童年有许多年都在卡塔佩什最臭名昭著的市场——夜色集市里度过。你在那里见到的种种怪异乃至恐怖的景象逼着你早早长大——几乎没有什么能让你震惊或不安。你对抗恐惧效果的豁免检定获得+2背景加值；并且当你成功通过对抗恐惧效果的豁免时，随之涌起的豪勇之气让你在接下来1分钟内的攻击检定和所有技能检定获得+1背景加值。
+|source_name=烈焰传承玩家手册
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Nightstall%20Urchin
+}}

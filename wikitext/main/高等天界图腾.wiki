@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=高等天界图腾
+|english_name=Celestial Totem, Greater
+|type=Su
+|categories=图腾
+|pfs=否
+|prerequisites=[[野蛮人]]12级，[[天界图腾]]
+|benefit=狂暴时，野蛮人对抗具有【邪恶】描述符的法术时，获得等于【11+野蛮人职业等级】的[[特殊能力#法术抗力|法术抗力]]。他同时获得对抗来自邪恶生物的法术和效果时的豁免检定的+2抗力加值。
+|source_name=纯洁勇士
+}}

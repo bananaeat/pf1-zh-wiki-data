@@ -1,0 +1,12 @@
+{{消歧义|考古师}}
+{{Trait
+|name=遗迹学者
+|english_name=Scholar of Ruins
+|type=种族
+|prerequisites=[[人类]]（塔尔多人）
+|description=从你可以走路和说话开始，塔尔多的废墟就让你着迷。你参加了每一次你能够找到的考察行动，志愿成为[[探索者协会]]的搬运工人，有时你也会自己去探索你所能探索的全部塔尔多遗迹。因此，你对塔尔多地理和探索遗迹的专业知识有了独特的理解。
+
+你在知识（地理）和知识（地城）检定中获得+1背景加值。其中一个技能（由你选择）将会被视为你的本职技能。
+|source_name=塔尔多，荣光荡漾之地
+|source_url=https://pf1chm.pages.dev/topics/page_938.html
+}}

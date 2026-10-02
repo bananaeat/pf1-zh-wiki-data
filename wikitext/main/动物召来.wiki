@@ -1,0 +1,15 @@
+{{Spell
+|name=动物召来
+|english_name=Apport animal
+|school=咒法系 (传送)
+|levels=催眠师 3;召唤师 3;奥能师 3;女巫 3;异能者 3;德鲁伊 3;术士 3;法师 3;游侠 3;猎人 3;通灵者 3
+|action=标准动作
+|components=语言
+|range=接触
+|target=一个接触到的动物，其体形为超小型或更小
+|duration=立即或1小时/等级
+|save=意志，通过则无效（物体）
+|sr=是（物体）
+|description=该法术的功能如同[[物体召来]]一般，不过目标是一个动物。只有属于动物类的正常非魔法生物能够被该法术传送。
+|source=异能冒险
+}}

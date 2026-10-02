@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|格拉利昂的英雄|Heroes of Golarion}}
+'''念力溶影'''（Kinetic Dissolution, Su）是[[操念使]]的[[原力]]。
+
+元素：通用；类别：通用（Su）；等级：1；超载：0
+
+前置：[[剪影人]]，所选[[种族特性]]
+
+从溶影儿替换种族特性或光与暗种族特性中选择其一。即使你本日已经用尽了所选种族特性的使用次数，你也可以承受1点超载来再次使用该特性。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Kinetic Dissolution|2=Kinetic Dissolution}}
+
+[[分类:原力]]

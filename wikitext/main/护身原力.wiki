@@ -1,0 +1,8 @@
+<noinclude>{{操念使导航}}</noinclude>
+'''护身原力'''（Defense Wild Talents）是[[操念使]]可选的[[原力]]。
+
+[[操念使]]会在2级时获得与其首要元素相应的护身原力。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。
+
+[[分类:原力]]

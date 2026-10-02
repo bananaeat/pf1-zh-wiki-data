@@ -1,0 +1,10 @@
+{{Trait
+|name=谨慎
+|english_name=Wary
+|type=种族
+|aon=Wary (Aasimar)
+|prerequisites=[[神裔]]
+|description=你成长在周围的人都会嫉妒或敌视你的环境中。也许是因为你的父母不希望拥有牵涉到神的孩子——他们可能[[叱责]]或殴打你，或者甚至将你以高价卖作奴隶。你心怀对他人的猜忌而成长，并且相信你那独特的外貌是一种诅咒。你的[[易容]]与察言观色检定或的+1加值。
+|source_name=天界血脉
+|source_url=https://pf1chm.pages.dev/topics/page_830.html
+}}

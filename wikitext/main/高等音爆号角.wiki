@@ -1,0 +1,15 @@
+{{魔法物品
+|name=高等音爆号角
+|english_name=Horn of Blasting (Greater)
+|aon=MagicWondrousDisplay.aspx?FinalName=Horn of Blasting (Greater)
+|cat=奇物
+|aura=强烈塑能系
+|cl=16
+|slot=无
+|price=70,000 gp
+|weight=1磅
+|description=这支号角的功能如同[[音爆号角]]，只是它造成10d6点音波伤害，使生物[[震慑]]1轮，并使其[[耳聋]]4d6轮（DC 19强韧豁免使伤害减半，并使震慑和耳聋无效）。晶体物体受到16d6点音波伤害，规则同音爆号角。高等音爆号角同样在每天第一次使用之后，每多使用1次就有累计20%的几率爆炸。
+|req=[[制造奇物]]、[[高等咆哮术]]
+|cost=35,000 gp
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=信仰之御
+|english_name=Protective Faith
+|type=宗教
+|prerequisites=信仰[[托拉格]]
+|description=你对锻造之父的信仰增强了你保护他人的能力。当你协助他人使他人获得AC加值时，给予的AC加值为+3而不是正常的+2。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

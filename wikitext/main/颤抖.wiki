@@ -1,0 +1,11 @@
+{{Feat
+|name=颤抖
+|english_name=Falter
+|categories=血巫术
+|description=你诅咒敌人的鲜血，强迫它们在接下来的行动中颤抖。
+|prerequisites=智力13，法术辨识5级，使用魔法装置5级
+|benefit=以一个标准动作，你能诅咒一个自你上一轮开始以来被你造成过伤害的敌人。目标必须通过一个成功的意志坚定，否则会无法进行五尺快步，延迟行动或[[准备动作]]，持续1轮。
+|special=拥有该血巫术的萨满或女巫能对在过去一分钟内被她造成过伤害的任何生物使用该血巫术。被萨满或女巫施放的该血巫术影响的生物，在其持续时间内，移动速度也会减半。
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_343.html
+}}

@@ -1,0 +1,151 @@
+{{杀手导航}}
+{{Source|进阶职业指南|Advanced Class Guide}}
+
+== 杀手天赋 (Slayer Talents) ==
+
+[[杀手]]的经验积累过程中，他可以学会一些帮助自己、挫败敌人的天赋。2级时，杀手获得一个杀手天赋；之后每2级都会再获得一个杀手天赋。若无特别说明，杀手不能重复选择同一个天赋。
+
+标记星号的天赋是附加于[[杀手#偷袭|偷袭]]的效果，每次攻击只能施加这些天赋中的一种，必须在进行攻击检定之前决定施加哪一种。
+
+== 致命距离 (Deadly Range, Ex) ==
+{{:致命距离}}
+
+== 挫败探查 (Foil Scrutiny) ==
+{{:挫败探查}}
+
+== 用毒 (Poison Use, Ex) ==
+{{:用毒(杀手天赋)}}
+
+== 延缓打击* (Slowing Strike*, Ex) ==
+{{:延缓打击}}
+
+== 寻找陷阱 (Trapfinding) ==
+{{:寻找陷阱(杀手天赋)}}
+
+== 游侠战斗流派 (Ranger Combat Style, Ex) ==
+{{:游侠战斗流派(杀手天赋)}}
+
+== 盗贼天赋 (Rogue Talent) ==
+{{:盗贼天赋(杀手天赋)}}
+
+== 尝血者 (Blood Reader, Ex) ==
+{{:尝血者}}
+
+== 支持队友 (Studied Ally, Ex) ==
+{{:支持队友}}
+
+== 壁垒 (Castling, Ex) ==
+{{:壁垒(杀手天赋)}}
+
+== 额外残岩 (Extra Earthcraft) ==
+{{:额外残岩(杀手天赋)}}
+
+== 坚固阵地 (Fortified Position, Ex) ==
+{{:坚固阵地(杀手天赋)}}
+
+== 失衡技巧 (Unbalancing Trick, Ex) ==
+{{:失衡技巧(杀手天赋)}}
+
+== 猫族盗贼天赋 (Catfolk Rogue Talent) ==
+{{:猫族盗贼天赋}}
+
+== 阵营偷袭 (Aligned Sneak Attack, Su) ==
+{{:阵营偷袭(杀手天赋)}}
+
+== 切裂阵营* (Sever Alignment*, Su) ==
+{{:切裂阵营(杀手天赋)}}
+
+== 一人千面 (One of Those Faces, Sp) ==
+{{:一人千面(杀手天赋)}}
+
+== 通晓探知 (Scrying Familiarity, Ex) ==
+{{:通晓探知(杀手天赋)}}
+
+== 永世仇敌 (Eternal Opposition, Ex) ==
+{{:永世仇敌}}
+
+== 人生经验 (Experience Across Ages, Ex) ==
+{{:人生经验}}
+
+== 直面恐怖 (Inured to Terror, Ex) ==
+{{:直面恐怖}}
+
+== 山坡伏击 (Mountainside Ambush, Ex) ==
+{{:山坡伏击}}
+
+== 神秘之纱 (Mystic Veil, Sp) ==
+{{:神秘之纱}}
+
+== 重唤技艺 (Recall Training, Ex) ==
+{{:重唤技艺}}
+
+== 集中毒药 (Focused Poison, Ex) ==
+{{:集中毒药}}
+
+== 偏转毒药 (Redirect Poison, Ex) ==
+{{:偏转毒药}}
+
+== 棍棒石块 (Sticks and Stones, Ex) ==
+{{:棍棒石块}}
+
+== 阳光一击 (Sunlight Strike, Ex) ==
+{{:阳光一击}}
+
+== 稳健步伐 (Sure Footing, Ex) ==
+{{:稳健步伐}}
+
+== 耐毒训练 (Toxin Training, Ex) ==
+{{:耐毒训练}}
+
+== 猎豹杀手天赋（《[[格拉利昂的英雄]]》） ==
+
+卡祖塔尔曾是战争与征服的女神，但当一场巨大灾祸威胁她的子民时她做出了改变。如今她被称作猎豹母亲，被尊为团队、爱慕与保护之女神。卡祖塔尔的信徒更乐于俘虏他们的敌人而非杀死他们，给予他们归于和平的机会。下列杀手天赋适用于向猎豹母亲奉身的战士。
+
+=== 猎豹之仁 (Jaguar's Grace, Ex) ===
+{{:猎豹之仁}}
+
+=== 猎豹突袭 (Jaguar's Pounce, Ex) ===
+{{:猎豹突袭(杀手天赋)}}
+
+=== 猎豹卫护 (Jaguar's Protection, Ex) ===
+{{:猎豹卫护}}
+
+== 高等天赋 (Advanced Talents) ==
+<span id="高等天赋"></span>
+
+10级时，以及之后每2级，杀手可以从下列高等天赋中选择一项，替代杀手天赋。
+
+== 一击瞬杀 (Assassinate, Ex) ==
+{{:一击瞬杀}}
+
+== 杀手伪装 (Slayer Camouflage, Ex) ==
+{{:杀手伪装}}
+
+== 穿林步 (Woodland Stride, Ex) ==
+{{:穿林步(杀手天赋)}}
+
+== 盗贼高等天赋和忍者高等忍术 (Rogue and Ninja Advanced Talents) ==
+
+杀手可以选择以下盗贼[[高等天赋]]或[[忍术#高等忍术|高等忍术]]之一来取代一项高等杀手天赋：[[致死突袭]]*APG、[[忍术#反射闪避(忍术) (Evasion, Ex)|反射闪避(忍术)]]UC、[[忍术#专长(忍术) (Feat)|专长(忍术)]]UC、[[猎手突袭]]APG、[[一击倒地]]APG、[[易容大师]]APG、[[乘势攻击]]、[[魅影狙击]]APG，以及《[[阴影血脉]]》中的任何盗贼高等天赋。杀手可以多次选择本天赋，每次获得一项不同的盗贼高等天赋或高等忍术，但同一个不能重复选择。
+
+== 装甲掠夺者 (Armored Marauder, Ex) ==
+{{:装甲掠夺者}}
+
+== 装甲迅捷 (Armored Swiftness, Ex) ==
+{{:装甲迅捷}}
+
+== 神射手 (Marksman's Shot, Ex) ==
+{{:神射手(杀手天赋)}}
+
+== 潜行收割者 (Reaping Stalker, Ex) ==
+{{:潜行收割者}}
+
+== 燕返 (Swallow Reversal, Ex) ==
+{{:燕返}}
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_118.html 原文]）。尝血者、支持队友译自[https://pf1chm.pages.dev/topics/page_581.html 斯科扎尼黑手一章]，永世仇敌、人生经验、直面恐怖、山坡伏击、神秘之纱、重唤技艺译自[https://pf1chm.pages.dev/topics/page_1338.html 传承武学一章]，集中毒药、偏转毒药译自[https://pf1chm.pages.dev/topics/page_1261.html 静谧毒杀者一章]，猫族盗贼天赋译自[https://pf1chm.pages.dev/topics/page_451.html 种族特性一章]；壁垒、额外残岩、坚固阵地、失衡技巧、阵营偷袭、切裂阵营、一人千面、通晓探知照站上同名盗贼天赋单页。均按 AoN 核对过。
+
+{{AoN原文|1=SlayerTalents.aspx|2=Slayer Talents}}
+
+[[分类:杀手]]
+{{职业}}

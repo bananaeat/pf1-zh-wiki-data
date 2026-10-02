@@ -1,0 +1,12 @@
+{{危害
+|name=红肿症
+|english_name=Red Ache
+|kind=疾病
+|type=伤口
+|save=强韧 DC 15
+|onset=1d3天
+|frequency=1次/天
+|effect=1d6点力量伤害
+|cure=连续2次豁免成功
+|source=核心规则书
+}}

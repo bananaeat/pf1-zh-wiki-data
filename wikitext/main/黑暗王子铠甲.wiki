@@ -1,0 +1,16 @@
+{{魔法物品
+|name=黑暗王子铠甲
+|english_name=Half-Plate of the Dark Prince
+|cat=特殊魔法护甲
+|base=[[半身甲]]
+|enh=+1
+|aura=微弱咒法系、惑控系
+|cl=3
+|slot=护甲
+|price=3,910 gp
+|weight=50磅
+|description=这件威严华贵的+1[[半身甲]]是[[阿斯莫迪斯]]教会中的身份象征，装饰着红色的地狱符号和一个倒五芒星。穿戴者每天可以使用魅惑人类和地狱治疗各一次。
+|req=[[制造魔法武器和防具]]、[[魅惑人类]]、[[地狱治疗]]
+|cost=2,330 gp
+|source=内海诸神
+}}

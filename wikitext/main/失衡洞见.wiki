@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Agents of Evil pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=失衡洞见
+|english_name=Unbalanced Insight
+|type=社会
+|description=你获得邪灵语作为奖励语言，并且对抗源自异怪、会造成[[困惑]]或恐惧的任何效果或法术时，所有豁免检定获得+2背景加值。
+|source_name=邪恶特务
+|source=AoE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Unbalanced%20Insight
+}}

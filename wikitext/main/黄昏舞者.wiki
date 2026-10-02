@@ -1,0 +1,10 @@
+{{Trait
+|name=黄昏舞者
+|english_name=Dusk Dancer
+|type=地区
+|prerequisites=[[半身人]]；奈多
+|description=在阴暗的奈多成长给予你在几乎无法视物的状况下躲避危险的信心，你在微光或黑暗中反射豁免获得+2背景加值。
+|source_name=地区背景
+|source=HoG
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

@@ -1,0 +1,16 @@
+{{魔法物品
+|name=雪崩投石杖
+|english_name=Avalanche Sling Staff
+|cat=特殊魔法武器
+|base=半身人投石杖
+|enh=+3
+|aura=中等咒法系
+|cl=9
+|slot=无
+|price=36,320 gp
+|weight=3磅
+|description=每天3次，这把+3[[半身人投石杖]]的持用者可以射出一块石头（而非[[投石索]]弹丸），该石头会在半空中爆裂，产生一个以目标所在方格为中心的[[召岩术]]效果。
+|req=[[制造魔法武器和防具]]、[[召岩术]]
+|cost=18,320 gp
+|source=远程战术工具箱
+}}

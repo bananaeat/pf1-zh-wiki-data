@@ -1,0 +1,9 @@
+{{装备
+|name=法术材料包
+|english_name=Spell component pouch
+|cat=工具
+|price=5 gp
+|weight=2磅
+|description=携带法术材料包的施法者，视为拥有施法所需的全部材料成分和法器，但标有具体价格的成分、神圣法器以及体积装不进皮包的法器除外。大多数法术材料包都是防水的，可以挂在腰带或胸带上。
+|source=核心规则书、极限宝具
+}}

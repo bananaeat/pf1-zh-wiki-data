@@ -1,0 +1,9 @@
+{{装备
+|name=高效帐篷
+|english_name=Efficient tent
+|cat=冒险装备
+|price=150 gp
+|weight=15磅
+|description=这种要价不菲的[[帐篷]]是以特殊处理过的动物皮革以及轻质金属支架制成，比其普通版本的表亲要轻上许多。高效帐篷可以容纳两名中型生物，组装需要花费20分钟。
+|source=极限荒野
+}}

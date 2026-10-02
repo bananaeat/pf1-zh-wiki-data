@@ -1,0 +1,10 @@
+{{Feat
+|name=高等时髦法术
+|english_name=Greater Stylized Spell
+|description=你能以更多样的方式改变法术的表面特征。
+|prerequisites=[[时髦法术]]、唬骗10级、法术辨识10级
+|benefit=当你以时髦法术调整法术时，你可以在不降低识别该法术的检定DC的情况下，套用一项[[风格化魔法]]选项。此外，你还可以额外套用至多两项风格化魔法选项，每套用一项会如常使识别检定DC降低5点。
+|source=ISI
+|source_name=内海诡道
+|source_url=https://pf1chm.pages.dev/topics/zhf893b0dd41.htm
+}}

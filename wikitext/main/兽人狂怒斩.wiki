@@ -1,0 +1,11 @@
+{{Feat
+|name=兽人狂怒斩
+|english_name=Orc Rampage
+|categories=战斗
+|pfs=否
+|description=你能轻松地斩杀心生惧意的敌人。
+|prerequisites=威吓猛击ARG，威逼，兽人暴怒斩，威吓5级，武器熟悉种族特性
+|benefit=当你使用兽人暴怒斩时，对抗[[战栗]]敌人的攻击检定和伤害检定会获得+1加值，而且你的攻击不再会因为使用威吓猛击ARG专长而承受减值。
+|source_name=武器大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_420.html
+}}

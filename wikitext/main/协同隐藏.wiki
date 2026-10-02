@@ -1,0 +1,10 @@
+{{Feat
+|name=协同隐藏
+|english_name=Stealth Synergy
+|categories=团队
+|description=贴近一个盟友，你们可以像[[孪生]]的阴影一般行动。
+|benefit=当你可以看到一个或多个拥有此专长的盟友时，当你们进行隐匿检定，你们都可以取众人中最高的投骰并加上各自的加值作为检定结果。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

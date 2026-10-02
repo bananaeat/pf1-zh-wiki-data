@@ -1,0 +1,13 @@
+{{消歧义|看家狗}}
+{{消歧义|残酷 (消歧义)}}
+{{Trait
+|name=残酷
+|english_name=Brute
+|type=种族
+|prerequisites=[[半兽人]]
+|description=你在一名黑帮头子手下工作了数年，虽然你的工作不过是下等执行人或者是保安又或者是守卫。
+
+你擅长吓唬人。你的威吓检定获得+1背景加值，并且威吓总是你的[[本职技能]]。
+|source_name=塔尔多，荣光荡漾之地
+|source_url=https://pf1chm.pages.dev/topics/page_938.html
+}}

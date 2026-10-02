@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[命令术]] 的神话版本。</small></div>
+{{Spell
+|name=命令术
+|english_name=Command
+|school=惑控系 (胁迫)
+|tags=依赖语言;影响心灵
+|levels=催眠师 1;先知 1;反圣武士 1;女巫 1;审判者 1;导师 1;异能者 1;战斗祭司 1;牧师 1;秘学士 1;通灵者 1
+|description=你能够以至多每施法者等级1个生物为目标，每个生物都必须收到相同的指令。成功豁免的生物会恍惚1轮（这是影响心灵效果）。
+|source=神话冒险
+}}
+[[分类:神话法术]]

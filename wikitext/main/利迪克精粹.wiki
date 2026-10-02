@@ -1,0 +1,16 @@
+{{装备
+|name=利迪克精粹
+|english_name=Lyddric essence
+|cat=炼金武器
+|price=20 gp
+|weight=1磅
+|craft_dc=20
+|dmg=1d6/2d6
+|range=10尺
+|special=强酸, 见正文
+|description=这种酶提取自一种寄生真菌，能分解大多数有机组织，对植物和其他真菌的破坏力尤其强。一瓶利迪克精粹可以像一瓶强酸一样使用，对非植物类型的生物造成正常的酸蚀伤害。然而，被利迪克精粹瞄准的植物类生物、植物和真菌，在直接命中时受到2d6点酸蚀伤害，若处于命中处5尺范围内则受到2点酸蚀溅射伤害。
+|recipe=（15 硫磺＋3 碧幻菌孢子）／蒸馏；制作 DC 20
+|recipe_time=1 天
+|recipe_tools=蒸馏器
+|source=炼金术手册
+}}

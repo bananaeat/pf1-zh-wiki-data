@@ -1,0 +1,9 @@
+{{Trait
+|name=协会之兽
+|english_name=Beast of the Society
+|type=魔法
+|prerequisites=[[德鲁伊]]，[[探索者协会]]
+|description=协会的德鲁伊前辈为你揭示了将你的形态改变为野兽的秘密。每当你使用你的自然变身能力将自己变形为一个小型或中型的动物，你的变形效果持续每德鲁伊等级2小时，而非原来的1小时。
+|source_name=碎星玩家手册
+|source_url=https://pf1chm.pages.dev/topics/zhb4c4366d0e.htm
+}}

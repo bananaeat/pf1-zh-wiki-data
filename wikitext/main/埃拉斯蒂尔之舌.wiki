@@ -1,0 +1,9 @@
+{{Trait
+|name=埃拉斯蒂尔之舌
+|english_name=Erastil's Speaker
+|type=宗教
+|prerequisites=信仰[[埃拉斯蒂尔]]
+|description=你知晓保持社群间的和平的重要性，也知晓如何才能切入与信徒们交谈的重点。你在交涉上获得+1背景加值，且交涉视作你的[[本职技能]]。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

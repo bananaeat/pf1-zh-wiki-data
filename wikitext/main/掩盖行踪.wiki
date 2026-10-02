@@ -1,0 +1,11 @@
+{{Feat
+|name=掩盖行踪
+|english_name=Cover Tracks
+|description=你在野外很难被追踪，几乎不会留下足迹。
+|prerequisites=生存3级。
+|benefit=当你以全速移动时，追踪你的生存检定DC增加5，当你以半速移动时，追踪你的生存检定DC增加10。你可掩饰距你30尺内盟友的踪迹，其数量等同于「你感知修正外加你角色等级一半」，并且当他们全速移动时，这能使追踪他们的生存检定DC增加2，若当他们半速移动时，这能使追踪他们的生存检定DC增加5。
+|special=如果你有偏好地形职业能力，并且你处于偏好地形时，那么在追踪你和你的盟友的DC上，你也可以增加你的偏好地形加值。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

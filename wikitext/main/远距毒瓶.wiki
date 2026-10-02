@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=远距毒瓶
+|english_name=Poison Vial of Distance
+|aon=MagicWondrousDisplay.aspx?FinalName=Poison Vial of Distance
+|cat=奇物
+|aura=微弱死灵系
+|cl=3
+|slot=无
+|price=3,000 gp
+|weight=1磅
+|description=这种魔法小瓶受刺客青睐，使用者可以用它在至多30尺的距离外施用毒药。毒药须自备，并且必须是接触毒或食入毒。使用者把毒药倒进小瓶，然后朝着她想要影响的物体或生物所在的方向摇动它，进行一次远程接触攻击（远距毒瓶会为该掷骰提供+4环境加值）。如果攻击成功，毒药就成功送到了预定的物体或生物身上。
+|req=[[制造奇物]]、[[法师之手]]
+|cost=1,500 gp
+|source=魔法市集指南
+}}

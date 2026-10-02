@@ -1,0 +1,16 @@
+{{Spell
+|name=傲立风中
+|english_name=With the wind
+|school=防护系
+|tags=气
+|levels=唤魂师 2;奥能师 2;德鲁伊 2;术士 2;法师 2;游侠 2;猎人 2;秘学士 2;血脉狂怒者 2;魔战士 2
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一个生物
+|duration=1分钟/等级
+|save=意志，通过则无效（无害）
+|sr=是
+|description=你在目标周围的空气中创造涡流，保护他不被阻挡或吹走。目标不能被小于暴风级的风力所移动，除非他希望如此。
+|source=极限荒野
+}}

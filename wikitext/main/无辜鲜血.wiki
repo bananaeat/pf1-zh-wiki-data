@@ -1,0 +1,14 @@
+{{Feat
+|name=无辜鲜血
+|english_name=Innocent Blood
+|categories=故事
+|pfs=否
+|description=世间可悲者的灵魂，通过死亡为你开启了通往伟大之途。
+|prerequisites=你必须出于个人原因或毫无理由地击杀50个以上无战斗力的智慧生物；或拥有“嗜血如狂（Bloodthirsty）”、“杀人体验（First Kill）”、“天生杀手（The Kill）”等角色背景之一。
+|benefit=你的威吓检定+2。如果你在威吓技能受训10级以上，该加值升至+4。每当你击杀一个智慧生物，你的攻击检定和施法者等级检定+1，持续1分钟（该加值不与自身叠加）。
+|goal=再击杀200个以上无战斗力的智慧生物，然后击杀一个想要将你绳之以法或取而代之的强大敌手。
+|completion_benefit=任何处于战栗状态下的生物攻击你、豁免你所施放的能力或以你为目标使用技能时受到的减值加倍。
+|source=UCa
+|source_name=极限战役
+|source_url=https://pf1chm.pages.dev/topics/page_200.html
+}}

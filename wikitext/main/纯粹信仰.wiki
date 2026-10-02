@@ -1,0 +1,10 @@
+{{Feat
+|name=纯粹信仰
+|english_name=Pure Faith
+|description=你不仅如同其他圣武士般能够免疫疾病，还对毒药拥有惊人的抗性。
+|prerequisites=【神佑】职业特性。
+|benefit=你在对抗毒药的豁免上获得+4神圣加值。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

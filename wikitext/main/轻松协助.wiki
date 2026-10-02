@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 195），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=轻松协助
+|english_name=Effortless Aid
+|type=种族
+|prerequisites=[[人类]]（迦伦德人）
+|description=你天生善于观察他人，并采取行动与之配合。每天一次，你可以以一个移动动作选择一名相邻的盟友。在接下来的1分钟内，你为使用协助他人动作协助该盟友而进行的攻击检定和技能检定可以取10，即使你处于分心状态也可以。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Effortless%20Aid
+}}

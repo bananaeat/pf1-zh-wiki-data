@@ -1,0 +1,12 @@
+{{Feat
+|name=进阶盔甲专攻
+|english_name=Improved Armor Focus
+|categories=战斗
+|description=你的技艺让盔甲的潜力得以发挥。
+|prerequisites=[[盔甲专攻]]，基本攻击加值+6，擅长选定盔甲
+|benefit=选定盔甲的检定减值降低1点（最小值为0）。你可以使用你的角色等级来代替你的基本攻击加值来满足盔甲掌握专长的先决条件。
+|special=你可以选取这个专长多次。它的效果并不叠加。每次你选取这个专长时，它都会应用到一个新的盔甲类型上。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_1089.html
+}}

@@ -1,0 +1,15 @@
+{{Feat
+|name=金刚劲
+|english_name=Untwisting Iron Strength
+|categories=战斗;流派
+|description=你精通了断金折铁的武艺，你的拳头就如同{{材料|精金}}铁锤一般，能够打破坚硬的物体。
+|prerequisites=力量15，感知13，[[无瑕式]]，基本攻击加值+9或武僧等级9级
+|benefit=若你正在使用[[无瑕式]]，则能够忽略一定量的硬度，数值与你的角色等级相等。此外，你在破坏物体的力量检定中获得+4加值。若你以[[迅捷动作]]花费1点气，则能够在1轮内获得[[精通击破]]的好处。
+|source=ISC
+|source_name=内海战斗
+|source_url=https://pf1chm.pages.dev/topics/page_276.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[金刚霸体]]（1 个条目）

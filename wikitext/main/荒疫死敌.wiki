@@ -1,0 +1,9 @@
+{{Trait
+|name=荒疫死敌
+|english_name=Blight's Bane
+|type=战斗
+|description=你接受过摧毁荒疫的训练，并在对抗一些具备传染条件模板的生物的重击确认骰上会获得+2背景加值，比如说疫精（blighted fey，Pathfinder RPG Bestiary 6 46–47页）或者真菌生物（Pathfinder RPG Bestiary 4 116–117页）等。
+|source=PotW
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1192.html
+}}

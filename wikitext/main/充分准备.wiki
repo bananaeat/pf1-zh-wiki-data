@@ -1,0 +1,9 @@
+{{Trait
+|name=充分准备
+|english_name=Well-Prepared
+|type=宗教
+|prerequisites=信仰[[安哥拉德]]
+|description=安哥拉德教导你最好的防御就是进攻。当你用[[准备动作]]攻击时攻击检定+1背景加值；如果你用准备动作施法，这个法术进行施法者等级检定时施法者等级+1背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

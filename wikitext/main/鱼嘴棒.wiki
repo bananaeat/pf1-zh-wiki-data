@@ -1,0 +1,18 @@
+{{武器
+|name=鱼嘴棒
+|english_name=Wahaika
+|category=武器
+|prof=异种
+|wcat=单手
+|price=3 gp
+|weight=3磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×2
+|range=10尺
+|type=钝击
+|special=卸武
+|groups=锤
+|description=这只石器时代的粗短[[木棒]]由硬木或骨制成。它的一侧凿出豁口，用来捕捉对方的武器。若你擅长此武器，你能用鱼嘴棒的豁槽对敌人发动卸武[[战技]]；否则你只能将它视为木棒。影响木棒的专长和能力同样作用于鱼嘴棒。
+|source=极限宝具
+}}

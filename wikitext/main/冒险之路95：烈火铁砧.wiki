@@ -1,0 +1,48 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #95: Anvil of Fire
+|authors=Sean K Reynolds
+|pages=96
+}}
+
+{{书页/简介|head=|1=
+英雄们深入旋心山脉中一座休眠火山口之下的地底地下城建筑群，必须渗透那所为风暴暴君的巨人大军培养军官的精英军事学院。倘若能在聚集于风暴暴君旗下的巨人、龙和外层位面威胁中活下来，英雄们面前还有一场更大的挑战——在风暴暴君出发征服整个阿维斯坦之前，与火巨人将军兼国王泰塔里安（Tytarian）对决！
+
+本册《冒险之路》延续「巨人杀手」冒险之路，内容包括：
+
+* 《烈火铁砧》，一部面向 13 级角色的开拓者冒险，作者 Sean K Reynolds。
+* 一窥火巨人之神祖尔斯瓦特的信仰与崇拜，作者 Sean K Reynolds。
+* 让你在游戏中驾驭火山毁灭之力的建议与新选项，作者 Russ Taylor。
+* 「探索者日志」中，一次判断失误酿成了危险，作者 Wendy N. Wagner。
+* 五种新怪物，作者 Benjamin Bruck、Mikko Kallio、David Schwartz、Jerome Virnich。
+}}
+
+'''冒险之路95：烈火铁砧'''（''Pathfinder #95: Anvil of Fire''）是 Sean K Reynolds 撰写的一部冒险，附加内容出自 Benjamin Bruck、Mikko Kallio 等 6 位作者，小说出自 Wendy N. Wagner，于 2015 年 7 月 29 日发售。它是[[冒险之路]]「巨人杀手」系列的第五章。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+烈火铁砧 @ 6
+NPC 图集 @ 56
+- Tytarian 国王
+- Quivixia 王后
+- Tesharat
+祖尔斯瓦特 @ 62
+格拉利昂的火山 @ 70
+探索者日志：离奇传说（5／6） @ 74
+怪物图鉴 @ 80
+- [[卡宾娜]]
+- [[伊克洛斯]]
+- [[铁犀牛]]
+- [[磁铁矿魔像]]
+- [[熔岩鱼]]
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Anvil of Fire
+|releases=PDF¦PZO9095E¦2015-07¦；Softcover¦PZO9095¦2015-07¦
+}}
+
+[[分类:书目]]

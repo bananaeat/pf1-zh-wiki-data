@@ -1,0 +1,15 @@
+{{魔法物品
+|name=猎人头环
+|english_name=Hunter's Band
+|aon=MagicWondrousDisplay.aspx?FinalName=Hunter's Band
+|cat=奇物
+|aura=微弱变化系
+|cl=4
+|slot=头饰
+|price=11,000 gp
+|weight=1磅
+|description=这条用编织兽皮制成的简朴头带，使穿戴者的生存检定获得+5表现加值，并使穿戴者不受长途跋涉的劳顿所累，如同法术[[追人不倦]]。如果穿戴者是游侠，猎人头环使他对所有宿敌的攻击检定加值提高+1。如果该游侠拥有猎手羁绊（同伴）职业能力，这项提高同样适用于他的盟友通过该能力获得的攻击检定加值。
+|req=[[制造奇物]]、[[即刻仇敌]]、[[追人不倦]]、制造者必须在生存技能上有5个等级
+|cost=5,500 gp
+|source=极限宝具
+}}

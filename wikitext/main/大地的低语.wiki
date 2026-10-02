@@ -1,0 +1,10 @@
+{{Feat
+|name=大地的低语
+|english_name=Murmurs of Earth
+|description=在你的感知之下，大地将她的所知倾囊相授。
+|prerequisites=[[石之共鸣]]，角色等级9，土元素裔。
+|benefit=你获得了有限的[[颤动感知]]。以一个[[移动动作]]，你可以感知到15尺范围内所有接触地面的生物。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

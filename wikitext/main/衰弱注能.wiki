@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能源始|Occult Origins}}
+'''衰弱注能'''（Enervating Infusion）是[[操念使]]的[[原力]]。
+
+元素：虚空；类别：性质注能；等级：7；超载：4
+
+关联[[念袭]]类别：[[负能]]，[[虚无力]]
+
+豁免：强韧，通过则无效
+
+你的念袭能够吸取生命的力量。每当注能念袭对敌人造成伤害时，同时使其获得1个临时负向等级。由此注能造成的负向等级会在24小时后被移除，并且永远不会成为永久负向等级。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_661.html 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Enervating Infusion|2=Enervating Infusion}}
+
+[[分类:原力]]

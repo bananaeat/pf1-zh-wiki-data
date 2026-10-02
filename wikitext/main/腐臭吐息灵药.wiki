@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=腐臭吐息灵药
+|english_name=Elixir of Rancid Breath
+|aon=MagicWondrousDisplay.aspx?FinalName=Elixir of Rancid Breath
+|cat=奇物
+|aura=微弱咒法系
+|cl=5
+|slot=无
+|price=1,400 gp
+|description=这种气味刺鼻的混合药剂能让饮用者最多三次以[[标准动作]]呼出一团15尺锥形的令人作呕的蒸气。处于锥形范围内的活物必须通过DC14的强韧豁免，否则会陷入[[反胃]]状态1d4+1轮。未使用的腐臭吐息会在饮下药剂1小时后消散。
+|req=[[制造奇物]]、[[臭云术]]
+|cost=700 gp
+|source=Pathfinder: Hollow Mountain #4
+}}

@@ -1,0 +1,12 @@
+{{Feat
+|name=喉囊
+|english_name=Throat Pouch
+|pfs=否
+|description=你鼓起自己的喉部，将刺耳的音量广播到更远的地方。
+|prerequisites=沼蜍人，恐怖蛙鸣
+|benefit=你的恐怖蛙鸣能力的影响范围每拥有2个HD增加5尺（最多增加30尺）。当说沼蜍人语或无词发声时，你可以以一个自由动作鼓起喉囊，将听到你声音所需的察觉检定DC降低，降低量等于你的HD数。
+|special=本专长以及其他以本专长作为先决条件的专长只有在你穿戴轻甲，中甲或不着甲时才能生效。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1398.html
+}}

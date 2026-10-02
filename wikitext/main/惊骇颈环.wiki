@@ -1,0 +1,15 @@
+{{魔法物品
+|name=惊骇颈环
+|english_name=Dire Collar
+|aon=MagicWondrousDisplay.aspx?FinalName=Dire Collar
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=颈部
+|price=1,000 gp
+|weight=2磅
+|description=这条皮制颈环会自动调整大小，以适应几乎任何体型的生物。每天1次，扣上惊骇颈环的生物可以下达命令，使那只动物变得更大、更凶猛。扣系者必须在动物30尺以内才能这么做。该动物获得[[变巨术]]的效果（无视该法术通常的目标限制），持续1分钟。
+|req=[[制造奇物]]、[[动物异变]]
+|cost=500 gp
+|source=进阶职业指南
+}}

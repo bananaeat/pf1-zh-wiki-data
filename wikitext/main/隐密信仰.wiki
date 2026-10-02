@@ -1,0 +1,9 @@
+{{Trait
+|name=隐密信仰
+|english_name=Hidden Faith
+|type=信念
+|description=你在一个被政府禁止的宗教中长大，并从隐秘的信仰中汲取力量。你对抗信仰其他神祇的生物所施展神术的豁免检定获得+1背景加值。
+|source_name=信念背景
+|source=SH
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

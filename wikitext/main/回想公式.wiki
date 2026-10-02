@@ -1,0 +1,10 @@
+{{Feat
+|name=回想公式
+|english_name=Formula Recollection
+|description=你可以回忆起整个法术在你眼前施放的过程，将它抄录在你的笔记中。
+|prerequisites=辨识法术技能5级，敏锐回想职业能力
+|benefit=每天一次，你可以将一条你在过去24小时内亲眼见到被施放、并通过[[辨识法术]]辨别出的法术的公式记录到你的公式簿上。该法术必须在炼金术士公式列表上。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

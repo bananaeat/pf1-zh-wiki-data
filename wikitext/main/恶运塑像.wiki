@@ -1,0 +1,13 @@
+{{魔法物品
+|name=恶运塑像
+|english_name=Unlucky Figurine
+|aon=MagicCursedDisplay.aspx?ItemName=Unlucky Figurine
+|cat=诅咒物品
+|aura=中等惑控系
+|cl=11
+|slot=无
+|weight=1磅
+|description=这座雕像看起来像是一件[[奇妙雕像]]，但它非但不能活化并为主人效力，反而会用厄运诅咒它的主人。持有这座雕像期间，主人的AC和[[CMD]]受到-2减值，攻击掷骰、技能检定、属性检定和豁免检定也受到-2减值。
+|req=任意[[奇妙雕像]]
+|source=极限宝具
+}}

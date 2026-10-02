@@ -1,0 +1,15 @@
+{{魔法物品
+|name=燃烧长袍
+|english_name=Blazing Robe
+|aon=MagicWondrousDisplay.aspx?FinalName=Blazing Robe
+|cat=奇物
+|aura=中等塑能系
+|cl=8
+|slot=躯体
+|price=11,000 gp
+|weight=1磅
+|description=这件红橙相间的丝质长袍，给人的印象是有一团火焰在光滑的织物表面下翻涌。穿戴者获得火焰抗力5，并且所有带有[火焰]描述符的法术，其施法者等级提高1级。每天一次，穿戴者可以凭命令放出半径20尺的火焰爆发，范围内穿戴者以外的生物受到2d6点火焰伤害（反射DC 16减半）。
+|req=[[制造奇物]]、[[法术升阶]]、[[抵抗能量伤害]]、[[火球术]]
+|cost=5,500 gp
+|source=极限宝具
+}}

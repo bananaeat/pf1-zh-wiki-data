@@ -1,0 +1,15 @@
+{{Spell
+|name=饥渴纠缠
+|english_name=Thirsting entanglement
+|school=变化系
+|levels=德鲁伊 4;游侠 4;猎人 4;萨满 4
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=远距
+|area=半径40尺扩散范围内的植物
+|duration=1分钟/等级 (可解消)
+|save=反射，通过则部分生效；见后文
+|sr=否
+|description=这个法术的功能如同[[纠缠术]]，只是植物会抓住目标并榨干他们的生命力。任何在避免被[[纠缠]]的豁免或者在挣脱检定中失败的生物会受到1d2点体质伤害。
+|source=第一世界的遗产
+}}

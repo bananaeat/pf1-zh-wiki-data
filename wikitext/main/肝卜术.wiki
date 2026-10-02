@@ -1,0 +1,11 @@
+{{Feat
+|name=肝卜术
+|english_name=Haruspicy
+|pfs=否
+|description=你通过研究血液如何溢出和内脏如何掉落来观察宇宙信号，深入学习这种预兆让你知道如何更好地安抚不可视的神秘力量。
+|prerequisites=[[知识]]（宗教）3级
+|benefit=如果你成功地执行[[致命一击]]，你在1分钟内单次神秘仪式或[[神秘技能解放]]的所有技能检定获得+2环境加值。或者你可以选择单次施放预言学派或死灵学派法术时，施法者等级+1。仪式或者法术必须要在执行致命一击之后一分钟内开始。
+|source=OO
+|source_name=异能源始
+|source_url=https://pf1chm.pages.dev/topics/zhca50b6790c.htm
+}}

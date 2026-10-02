@@ -1,0 +1,10 @@
+{{Feat
+|name=忠贞不异
+|english_name=Devotion against the Unnatural
+|description=动物伙伴对主人如此忠诚，甚至能够让它抵抗非自然的力量。
+|prerequisites=动物伙伴，忠诚特殊能力
+|benefit=动物伙伴在对抗异怪、异界生物与不死生物的法术、类法术能力与超自然能力时，于豁免上获得+2士气加值。动物伙伴免疫某些不死生物（例如缚灵）拥有的反自然灵氲。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zhd8cf60a796.htm
+}}

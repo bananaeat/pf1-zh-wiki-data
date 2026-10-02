@@ -1,0 +1,9 @@
+{{Feat
+|name=延时探知
+|english_name=Extended Scrying
+|description=你的探知法术持续时间更长。
+|prerequisites=能够施放探知子学派的法术。
+|benefit=你施放的任何探知子学派法术的持续时间是通常的两倍，如同它是通过[[法术延时]][[超魔专长]]施放的延时法术一般。此外，当你施放施法时间为10分钟或更长的探知法术时，施放时间减半。
+|source_name=地狱骑士之道
+|source_url=https://pf1chm.pages.dev/topics/zh79983be4c7.htm
+}}

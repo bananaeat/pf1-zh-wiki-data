@@ -1,0 +1,9 @@
+{{装备
+|name=便携式攻城锤
+|english_name=Portable ram
+|cat=冒险装备
+|price=10 gp
+|weight=20磅
+|description=这根包铁的木梁使你在为破门而进行的力量检定上获得+2环境加值，并允许另一个人协助，自动使你的加值再增加+2。
+|source=核心规则书、极限宝具
+}}

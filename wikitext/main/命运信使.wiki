@@ -1,0 +1,10 @@
+{{Feat
+|name=命运信使
+|english_name=Messenger of Fate
+|description=墓土女士的祝福让你得以一窥命运的安排
+|prerequisites=能够施放[[占卜术]]，信仰法莱斯玛
+|benefit=当你施放预言系法术时，施法者等级+1。如果你的预言法术有提供正确或有用信息的基础成功率，则你获得正确或有用信息的最大几率为100%，而非标准的90%。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

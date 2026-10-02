@@ -1,0 +1,10 @@
+{{Feat
+|name=精通坚毅
+|english_name=Improved Stalwart
+|description=你圆转地接下攻击，并立刻反击。
+|prerequisites=[[顽强]]，[[坚忍]]，[[坚毅]]，基本攻击加值+11。
+|benefit=你从[[坚毅]]专长获得的伤害减免加倍，最大达到“10/-”。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

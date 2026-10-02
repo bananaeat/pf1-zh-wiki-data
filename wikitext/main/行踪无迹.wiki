@@ -1,0 +1,15 @@
+{{Spell
+|name=行踪无迹
+|english_name=Pass without Trace
+|school=变化系
+|levels=德鲁伊 1;游侠 1;猎人 1;秘学士 1;萨满 1
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=接触
+|target=每等级一个接触到的生物
+|duration=1小时/等级 (可解消)
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=该法术的受术者 (一个或多个) 既不会留下足迹也不留下气味。使用非魔法手段追踪受术者是不可能的。
+|source=核心规则书
+}}

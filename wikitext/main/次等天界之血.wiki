@@ -1,0 +1,8 @@
+{{狂暴之力
+|name=次等天界之血
+|english_name=Celestial Blood, Lesser
+|type=Su
+|categories=血脉
+|benefit=每当野蛮人进入狂暴状态，他的近战武器将在克服伤害减免时视为善良阵营。除此之外，在野蛮人的近战武器命中一个邪恶异界生物时，他的可以造成额外1d6点伤害。
+|source_name=进阶职业指南
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=暗号
+|english_name=Secret Signs
+|description=你十分擅长使用暗号，手势和秘密的手语与他人沟通。
+|prerequisites=[[智力]] 13
+|benefit=你在使用[[唬骗]]检定传递密语时获得+4加值。此外，你善于隐藏施法时的姿势成分。如果你施放的法术只有姿势成分，观察你施法的人必须进行一次察觉检定对抗你的[[巧手]]检定以察觉你在施法。当你施放带有姿势成分的法术时，对于鉴别你所施放何种法术的[[法术辨识]]检定受到-2减值。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

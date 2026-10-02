@@ -1,0 +1,11 @@
+<noinclude>
+用于提示资源为PFS不可用。
+<pre>
+{{PFS禁用}}
+</pre>
+{{PFS禁用}}
+<pre>
+{{PFS禁用|inline}}
+</pre>
+{{PFS禁用|inline}}
+</noinclude><includeonly>{{#ifeq: {{{1}}} | inline | <i class="fa fa-times" style="font-size:20px;"></i> '''此资源禁止在[[开拓者协会|PFS]]中使用。''' | {{Mbox|border=danger|type=delete|text=此资源禁止在[[开拓者协会|PFS]]中使用。}}}}</includeonly>

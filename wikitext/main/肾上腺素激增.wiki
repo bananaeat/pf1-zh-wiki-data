@@ -1,0 +1,15 @@
+{{Spell
+|name=肾上腺素激增
+|english_name=Burst of adrenaline
+|school=变化系
+|levels=催眠师 1;唤魂师 1;异能者 1
+|action=直觉动作
+|components=语言;姿势
+|range=个人
+|target=自己
+|duration=立即
+|save=无
+|sr=否
+|description=你榨取着身体的内在之力，并因此而气喘吁吁。当你即将做出一次基于力量、敏捷或体质的d20检定时，你能够施放该法术，并在该次检定中让力量、敏捷或体质获得+8增强加值，但是在此之后你会[[疲乏]]1轮。
+|source=异能冒险
+}}

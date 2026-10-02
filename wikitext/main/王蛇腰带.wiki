@@ -1,0 +1,17 @@
+{{魔法物品
+|name=王蛇腰带
+|english_name=Belt of the Snake King
+|aon=MagicWondrousDisplay.aspx?FinalName=Belt of the Snake King
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=腰部
+|price=2,600 gp
+|weight=1磅
+|description=这条腰带像一条活蛇一样扭动，甚至还会发出嘶嘶声、眨动红色的眼睛。它扣合的方式是让蛇咬住自己的尾巴。穿戴者的天生护甲获得+1增强加值。
+
+如果[[蛇人]]之神耶德希斯是穿戴者的守护神，穿戴者每天一次可以对自己的一件天生武器施放[[魔牙术]]。
+|req=[[制造奇物]]、[[树肤术]]、[[魔牙术]]、[[召唤怪物 I]]
+|cost=1,300 gp
+|source=神与魔法、冒险之路42：蛇神圣所、内海诸神
+}}

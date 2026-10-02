@@ -1,0 +1,15 @@
+{{魔法物品
+|name=诱人魅力头带
+|english_name=Headband of Alluring Charisma
+|aon=MagicWondrousDisplay.aspx?FinalName=Headband of Alluring Charisma2
+|cat=奇物
+|aura=中等变化系
+|cl=8
+|slot=头饰
+|price=4,000 gp（+2）；16,000 gp（+4）；36,000 gp（+6）
+|weight=1磅
+|description=这条漂亮的银质头带上装饰着许多红色和橙色的小宝石。头带赋予穿戴者魅力的增强加值，为+2、+4或+6。在头带被戴上的最初24小时内，这视为临时属性加值。
+|req=[[制造奇物]]、[[鹰之威仪]]
+|cost=2,000 gp（+2）；8,000 gp（+4）；18,000 gp（+6）
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=高原适应力
+|english_name=Altitude Affinity
+|description=你拥有一副坚韧的身体，能够在高原的严酷环境中生存下来。
+|prerequisites=[[坚忍]]
+|benefit=你自动适应高海拔地区的环境（[[核心规则书]] 430页）。此外，你在海拔5000尺或更高环境所进行的生存检定获得+2表现加值。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 63），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=塔-巴冯低语
+|english_name=Tar-Baphon's Whisper
+|type=魔法
+|pfs=否
+|prerequisites=默语魔道
+|description=你学会了[[柔声倾诉]]的奥秘——那是一种诡异而干涩的低语之声，用来传递教派的秘密。你每天可以将柔声倾诉（第61页）作为类法术能力施放三次。此类法术能力以你最高的施法者等级施放；如果你没有施法者等级，则以施法者等级1级生效。
+|source_name=组织指南
+|source=FM
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Tar-Baphon%27s%20Whisper
+}}

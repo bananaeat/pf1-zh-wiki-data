@@ -1,0 +1,9 @@
+{{装备
+|name=野蛮人工具包
+|english_name=Barbarian’s kit
+|cat=套装
+|price=9 gp
+|weight=26磅
+|description=该工具包包括一个背包，一个腰包，一张毛毯，燧石和铁片，铁壶，麻绳，肥皂，火把（10），干粮（5天）和一个水袋。
+|source=极限宝具
+}}

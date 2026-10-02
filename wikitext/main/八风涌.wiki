@@ -1,0 +1,15 @@
+{{Feat
+|name=八风涌
+|english_name=Unfolding Wind Strike
+|categories=战斗;流派
+|description=你所掷出的武器在经过风的指引后，或直取敌人，或重回手中。
+|prerequisites=敏捷13，感知13，[[无瑕式]]，[[即时备战]]，基本攻击加值+9或武僧等级9级
+|benefit=若你正在使用[[无瑕式]]，则能够让你所持用的任何投掷武器的射程增量翻倍。你能够以[[迅捷动作]]花费1点气，来向数把武器灌入你的真气，受影响的武器数量等同于你的感知调整值，这些武器会在1轮内获得回力或寻踪武器[[特殊能力]]。
+|source=ISC
+|source_name=内海战斗
+|source_url=https://pf1chm.pages.dev/topics/page_276.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[八风流转]]（1 个条目）

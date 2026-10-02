@@ -1,0 +1,17 @@
+{{武器
+|name=长棒
+|english_name=Bo staff
+|category=武器
+|prof=异种
+|wcat=双手
+|price=1 gp
+|weight=3磅
+|dmg_s=1d4/1d4
+|dmg_m=1d6/1d6
+|crit=×2
+|type=钝击
+|special=格挡，双头，武僧
+|groups=双头，武僧
+|description=这支棍棒与木棍造型类似，不过整体要更为细长，且其中一头略收窄成锥形。长棒是一种攻守兼备的武器。
+|source=极限战斗、极限宝具
+}}

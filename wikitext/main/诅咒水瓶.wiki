@@ -1,0 +1,13 @@
+{{魔法物品
+|name=诅咒水瓶
+|english_name=Flask of Curses
+|aon=MagicCursedDisplay.aspx?ItemName=Flask of Curses
+|cat=诅咒物品
+|aura=中等咒法系
+|cl=7
+|slot=无
+|weight=2磅
+|description=这件物品看起来像是一个普通的烧杯、瓶子、容器、长颈瓶、烧瓶或水罐。它里面可能装着液体，也可能冒着烟。当瓶塞第一次被拔开时，30尺内的所有生物都必须通过DC 17的意志豁免，否则就会受到诅咒，攻击检定、豁免检定和技能检定承受-2减值，直到有人对他们施放[[移除诅咒]]为止。
+|req=[[无尽水源]]、[[火巨灵囚瓶]]、[[无尽烟壶]]、[[收妖瓶]]
+|source=核心规则书、极限宝具
+}}

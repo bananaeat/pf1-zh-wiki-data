@@ -1,0 +1,9 @@
+{{装备
+|name=封蜡
+|english_name=Sealing wax
+|cat=冒险装备
+|price=1 gp
+|weight=1磅
+|description=这根红色的蜡条用来封缄信封，通常会用玺戒压出印记，作为这封信确实由你寄出的证明。
+|source=核心规则书、极限宝具
+}}

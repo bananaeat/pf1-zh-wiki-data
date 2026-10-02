@@ -1,0 +1,16 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[警觉 (神话)]]。</small></div>
+{{Feat
+|name=警觉
+|english_name=Alertness
+|description=你通常能注意到一些别人忽视的事情。
+|benefit=在察觉和察言观色技能检定上获得+2奖励。如果某技能受训等级10以上，对于该技能检定的奖励为+4。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''制造需求'''：[[警惕耳杯]]（1 件物品）
+
+'''先决条件'''：[[一心一体]]、[[光谱视界]]、[[兽王怒]]、[[兽王援]]、[[时刻备战]]、[[狡诈谋士]]、[[诡诈直感]]（7 个条目）

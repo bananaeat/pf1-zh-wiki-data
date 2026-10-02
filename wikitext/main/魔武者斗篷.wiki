@@ -1,0 +1,16 @@
+{{Spell
+|name=魔武者斗篷
+|english_name=Mantle of the magic warriors
+|school=变化系
+|tags=善良
+|levels=奥能师 5;德鲁伊 5;术士 5;法师 5;猎人 5;萨满 5
+|action=标准动作
+|components=语言;姿势
+|range=中距
+|target=每3等级一个善良生物
+|duration=1分钟/等级
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=你在目标的脸上编织出形状像动物的金色面具，为每个目标注入与她的性格强度相匹配的动物精魂。每个目标获得一种你选择的野兽形态I赋予的动物[[特殊能力]]。你可以为每个目标选择不同的特殊能力。
+|source=内海种族
+}}

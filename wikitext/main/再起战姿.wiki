@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=再起战姿
+|english_name=Regenerative Stance
+|type=Ex
+|class=掉链野蛮人
+|benefit=野蛮人能够持续地补充她的生命力。在她的回合开始时，她恢复1点临时生命。此临时生命每4个等级便会提升1点（最多5点）。她恢复的临时生命不能超过她狂暴之力带来的临时生命的最大值。该狂暴之力是一种战姿。野蛮人至少要达到4级后才能选择此狂暴之力。
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

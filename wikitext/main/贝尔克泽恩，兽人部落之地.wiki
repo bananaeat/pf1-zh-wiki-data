@@ -1,0 +1,36 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Belkzen, Hold of the Orc Hordes
+|authors=Tyler Beck、Jason Garrett、Alex Greenshields、David Schwartz
+|pages=64
+}}
+
+{{书页/简介|head=鲜血与残暴|1=
+[[兽人]]是文明的祸害，是趁夜袭来的掠夺者，为了财宝与单纯的杀戮之乐屠戮无辜。他们的残暴甚至施于同族：部落为争霸而厮杀，只有最强的个体才能活到成年。然而，尽管形象可怖，兽人仍维持着自己的社会，开辟出了传说中的贝尔克泽恩之地。在这片混乱的地域内，军阀争夺霸权，冒险者洗劫早已湮没于兽人野蛮之中的遗迹，而那些憧憬更好生活的大胆兽人则为变革而挣扎。
+
+无论你的玩家是窃取往昔财富的寻宝者、一心要彻底终结兽人威胁的士兵，还是想逃离或统治同胞的兽人，本书都为你在饱受战火的贝尔克泽恩之地展开战役准备好了一切，包括：
+
+* 贝尔克泽恩各聚居地的详尽地志，从出人意料地国际化的首都乌尔吉尔（Urgir），到动荡的血平原（Blood Plains），以及自由镇（Freedom Town）、悬空修道院塞奇·内瓦利（Sech Nevali）等罕见的非兽人聚居地。
+* 关于可怖兽人神祇的信息，如黑暗之母德雷莎（Dretha the Dark Mother）和血神努尔格雷思（Nulgreth）。
+* 最显赫兽人部落的概览，从空手部（Empty Hand）与断脊部（Broken Spine）到冰齿部（Ice Tooth）与食颅部（Skull Eater）。
+* 关于兽人战争的信息，包括它们以野兽驱动的战争机器。
+* 大量等待探索的新冒险地点，包括龙形的沉眠者（Sleeper）和洪水之路（Flood Road），外加一张详尽的区域地图，随时准备把你的玩家角色引向财富——或是血腥的死亡。
+* 九种新怪物、随机遭遇表，等等！
+}}
+
+'''贝尔克泽恩，兽人部落之地'''（''Belkzen, Hold of the Orc Hordes''）是开拓者角色扮演游戏「战役设定」系列的一本资料书，由 Tyler Beck、Jason Garrett、Alex Greenshields 和 David Schwartz 撰写，于 2015 年 2 月发售。
+
+== 目录 ==
+{{书页/目录|1=
+贝尔克泽恩地志 @ 2
+在贝尔克泽恩冒险 @ 26
+怪物图鉴 @ 54
+}}
+
+{{书页尾
+|pfw=Belkzen, Hold of the Orc Hordes
+|releases=PDF¦PZO9276E¦2015-02¦；Softcover¦PZO9276¦2015-02¦978-1-60125-710-9
+}}
+
+[[分类:书目]]

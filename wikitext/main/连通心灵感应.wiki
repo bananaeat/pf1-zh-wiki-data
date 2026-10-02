@@ -1,0 +1,10 @@
+{{Feat
+|name=连通心灵感应
+|english_name=Telepathic Link
+|description=你可以通过心灵感应来和自己的魔宠进行交流。
+|prerequisites=必须具有拥有与主人交谈能力的魔宠
+|benefit=你和自己的魔宠均能通过心灵感应向彼此进行交流，以此进行心灵感应的范围至多为1英里远。
+|source=FF
+|source_name=魔宠手记
+|source_url=https://pf1chm.pages.dev/topics/page_491.html
+}}

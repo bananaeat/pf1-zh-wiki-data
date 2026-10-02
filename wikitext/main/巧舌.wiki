@@ -1,0 +1,10 @@
+{{Feat
+|name=巧舌
+|english_name=Agile Tongue
+|description=你能够用粉红色的长舌操控小物品，甚至可以用来偷窃。
+|prerequisites=树蛙人。
+|benefit=你有一条能够伸长10尺并且适于抓取的舌头。你能够用其抓取不高于5磅的物品，进行[[妙手]]检定、[[盗取]]或[[卸武]][[战技]]，也可以使用舌头进行近战[[接触攻击]]。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

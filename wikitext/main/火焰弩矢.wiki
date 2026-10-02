@@ -1,0 +1,10 @@
+{{武器
+|name=火焰弩矢
+|english_name=Bolt, fire
+|category=弹药
+|wcat=弹药
+|price=50 gp
+|weight=—
+|description=这种精心制作的木质弩矢有一个中空的核心，里面填满了炽火胶。成功命中时，它们造成正常伤害，并额外造成1d4点火焰伤害。火焰弩矢不会造成溅射伤害，而且这点火焰不足以点燃目标（除非目标特别易燃）。
+|source=Pathfinder #15: The Armageddon Echo
+}}

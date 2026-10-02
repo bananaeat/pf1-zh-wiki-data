@@ -1,0 +1,11 @@
+{{Feat
+|name=灵感猛袭
+|english_name=Inspired Sneak Attack
+|categories=战斗
+|description=你闪耀的灵感会成为毙敌的致命武器。
+|prerequisites=拥有灵感池职业能力；偷袭或调查员策士之击职业能力
+|benefit=每当你造成一次偷袭或策士之击伤害时，你都可以消耗1点灵感点数，重投所有结果为1的偷袭骰。如果你拥有猛力偷袭APG盗贼天赋，你可以不再把偷袭伤害骰中的1视为2，而是重投所有结果为1的偷袭骰；如果你拥有致命偷袭APG高等盗贼天赋，你可以不再把偷袭伤害骰中的1和2视为3，而是重投所有结果为1或2的偷袭骰。但是，无论如何你都必须接受重投的结果，即使它比原结果更糟。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

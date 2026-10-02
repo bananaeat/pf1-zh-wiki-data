@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=无误罗盘
+|english_name=Unerring Compass
+|aon=MagicWondrousDisplay.aspx?FinalName=Unerring Compass
+|cat=奇物
+|aura=微弱预言系
+|cl=5
+|slot=颈部
+|price=10,000 gp
+|description=这个金银相间的罗盘有一根秘银指针，始终指向最近的浮空城。浮空城的居民到“下方”拜访地面居民时，通常会带上这种物品，否则他们可能很难回到自己的家。
+|req=[[制造奇物]]、[[物品定位术]]
+|cost=5,000 gp，400 XP
+|source=混沌熔炉
+}}

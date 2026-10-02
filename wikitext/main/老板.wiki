@@ -1,0 +1,6 @@
+{{物品
+|name=老板
+|english_name=The Publican
+|category=神器
+|description=GM选择你的一个敌人，该敌人想法彻底改变成为你的好基友。
+}}

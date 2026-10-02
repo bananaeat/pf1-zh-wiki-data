@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Varisia, Birthplace of Legends pg. 28），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=砂点信众
+|english_name=Sandpoint Faithful
+|type=战役
+|pfs=否
+|description=作为[[阿巴达尔]]、[[黛丝娜]]、[[埃拉斯蒂尔]]、[[哥兹莱]]、[[塞恩蕾]]或[[纱琳]]的虔诚信徒，你来参加蝴蝶放飞节，庆祝砂点大教堂的祝圣典礼。你获得一个你所选神祇的银质圣徽，只要你崇拜该神祇并公开佩戴其圣徽，每当你接受魔法治疗时，你都会额外恢复1点生命值。
+|source_name=瓦瑞西亚，传说诞生之地
+|source=VBoL
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Sandpoint%20Faithful
+}}

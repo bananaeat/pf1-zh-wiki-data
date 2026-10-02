@@ -1,0 +1,10 @@
+{{Trait
+|name=血腥残忍
+|english_name=Bloody-Minded
+|type=战斗
+|pfs=否
+|description=你随时做好血溅三尺的准备。你在[[先攻]]和威吓检定上获得+1背景加值。
+|source_name=秽邪勇士
+|source=战斗
+|source_url=https://pf1chm.pages.dev/topics/zh2cdfe76676.htm
+}}

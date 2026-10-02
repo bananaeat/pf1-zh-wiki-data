@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 17），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=异怪猎人
+|english_name=Aberration Hunter
+|type=地区
+|prerequisites=深汶
+|description=你拒绝向以你的同胞为食的怪物屈服，反而去猎杀它们。你对异怪进行的借机攻击获得+1背景加值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Aberration%20Hunter
+}}

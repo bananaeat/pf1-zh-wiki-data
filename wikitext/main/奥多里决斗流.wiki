@@ -1,0 +1,11 @@
+{{Feat
+|name=奥多里决斗流
+|english_name=Aldori Style
+|categories=战斗;流派
+|description=你已经学会了基础的奥多里决斗架势。
+|prerequisites=[[警觉]]，[[擅长异种武器]]（奥多里决斗剑），[[武器娴熟]]，[[武器专攻]]（奥多里决斗剑）
+|benefit=使用奥多里决斗流并持有且仅用一只手持有一把奥多里决斗剑（不使用盾牌，副手武器，甲刺，徒手打击或天生武器）时，你进行防御式战斗或使用 寓守于攻 时，你的武器伤害检定获得+2加值。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

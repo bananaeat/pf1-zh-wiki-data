@@ -1,0 +1,11 @@
+{{Feat
+|name=好运连连
+|english_name=Luck of Heroes
+|pfs=否
+|description=与常人不同，你总是好运陪伴。
+|prerequisites=[[洪福齐天]]。
+|benefit=当你用[[英雄点]]【重整旗鼓】或是在检定前使用【化险为夷】，投一次d20，大于15就能不消耗英雄点。你不能在大难不死时候用这个专长。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

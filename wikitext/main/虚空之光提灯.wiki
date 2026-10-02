@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=虚空之光提灯
+|english_name=Voidlight Lantern
+|aon=MagicWondrousDisplay.aspx?FinalName=Voidlight Lantern
+|cat=奇物
+|aura=微弱塑能系
+|cl=5
+|slot=无
+|price=30,000 gp
+|weight=2磅
+|description=这盏设计华丽的提灯由火山玻璃制成。点亮时，提灯的魔法会在半径20尺内制造一片黑暗区域，并在该区域之外再延伸20尺的范围内把照明等级降低一级（明亮光照变为正常光照，正常光照变为昏暗光照，昏暗光照变为黑暗）。若在黑暗区域中使用，虚空之光提灯则改为在半径20尺内制造一片超自然黑暗（如同[[深幽黑暗术]]）。
+|req=[[制造奇物]]、[[深幽黑暗术]]
+|cost=15,000 gp
+|source=阴影血脉
+}}

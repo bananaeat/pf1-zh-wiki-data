@@ -1,0 +1,11 @@
+{{Feat
+|name=召云
+|english_name=Cloud Invocation
+|description=你可以借助自己与云龙的联系，遮掩你的行踪。
+|prerequisites=姆贝克矮人。
+|benefit=每天一次，你可以凭借与云龙的精神联系，以类法术能力创造出一团浓雾。该浓雾的效果如同[[隐雾术]]法术，不过其持续时间为每等级1轮，并且范围仅为半径 10尺、高10尺的区域。
+|notes=''【PFS】高等召云（[[高等召云]]）在 PFS 中不合法。''
+|source=HftF
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/zh72cd9d7a9f.htm
+}}

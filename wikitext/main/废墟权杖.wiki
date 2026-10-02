@@ -1,0 +1,15 @@
+{{魔法物品
+|name=废墟权杖
+|english_name=Rod of Ruin
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Ruin
+|cat=权杖
+|aura=中等变化系
+|cl=7
+|slot=无
+|price=16,000 gp
+|weight=5磅
+|description=这件魔法物品看起来就像一根老旧腐烂的节杖，上面还有空着的宝石插槽和锈蚀的铁镶边将它和它腐坏的木杆连在一起。每天3次以命令启动，当使用者用[[魔法物品#权杖|权杖]]触碰一个非魔法、无生命的物体时，那个物体会腐烂，破碎且枯萎。那个物体 (不能大于门的大小或者占据超过5×5尺面积) 被视为[[破损]]。
+|req=[[制造权杖]]、[[解离术]]
+|cost=8,000 gp
+|source=极限宝具
+}}

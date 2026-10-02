@@ -1,0 +1,10 @@
+{{Feat
+|name=血魔专注
+|english_name=Raging Concentration
+|description=即使处于失控的边缘，你仍然能维持自己法术的集中，忽视创伤与混乱的影响。
+|prerequisites=血狂咒术职业能力
+|benefit=在处于[[血怒]]状态下，你在专注检定上获得相当于你的血怒提供的体质加值数的加值。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

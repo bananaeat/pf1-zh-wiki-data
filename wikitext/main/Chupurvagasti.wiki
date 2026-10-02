@@ -1,0 +1,32 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=Chupurvagasti
+|english_name=Chupurvagasti
+|title=毒雾女士
+|alignment=守序邪恶（LE）
+|weapon=[[手斧]]
+|portfolio=雾气，毒药，面纱
+|domains=[[气领域|气]]，[[邪恶领域(领域)|邪恶]]，[[秩序领域|秩序]]，[[诡术领域|诡术]]
+|subdomains=[[气领域#云子域 (Cloud)|云子域]]，[[诡术领域#欺骗子域 (Deception)|欺骗子域]]，[[邪恶领域(领域)#恐惧子域 (Fear)|恐惧子域]]，[[气领域#风子域 (Wind)|风子域]]
+|pantheon=阿修罗魔尊
+|source=永罪之书
+}}
+
+'''Chupurvagasti'''（称号「毒雾女士」）是一位[[阿修罗魔尊]]。
+
+毒雾女士所到之处都会蔓延着呛人肺腑的瘴气。据说祂因一个被唾弃的神明的愤怒而诞生，亦正是因为这位神明的怒火让那个世界笼罩在了毒雾之中。
+
+== 服从仪典与神恩 ==
+=== 服从仪典 ===
+带着浸泡过刺鼻毒素的面巾进行冥想，直到引起轻微皮疹。对抗毒素的豁免获得+4亵渎加值。
+
+=== 神恩 ===
+阿修罗魔尊授予的神恩比魔鬼大公的简单，都是每日各1次的类法术能力。
+{{神恩|n=1|name=|en=|type=Sp|text=每日1次，你能施展[[移位术]]。}}
+{{神恩|n=2|name=瞬发臭云术|en=quickened stinking cloud|type=Sp|text=每日1次，你能施展瞬发[[臭云术]]。}}
+{{神恩|n=3|name=瞬发死云术|en=quickened cloudkill|type=Sp|text=每日1次，你能施展瞬发[[死云术]]。}}
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh6724728ff8.htm 原文]），原在总页 [[阿修罗魔尊]]。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Chupurvagasti|2=Chupurvagasti}}
+[[分类:魔神]]

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=航标护腕
+|english_name=Seafaring Stanchions
+|aon=MagicWondrousDisplay.aspx?FinalName=Seafaring Stanchions
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=腕部
+|price=2,400 gp
+|weight=2磅
+|description=这些没有任何标记的氧化钢护腕可以轻易套上手腕。身处水下时，穿戴者可以用一个[[迅捷动作]]把护腕互相敲击，使护腕和他所穿的任何护甲立即脱落。脱落的护甲会被拆解开来，变得极具浮力，浮向水面。4小时后，如果这些物品仍在水中，它们就会失去浮力并沉下去。
+|req=[[制造奇物]]、[[水面行走]]
+|cost=2,400 gp
+|source=内海战斗
+}}

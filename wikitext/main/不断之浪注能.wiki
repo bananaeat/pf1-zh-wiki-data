@@ -1,0 +1,17 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|武术手册|Martial Arts Handbook}}
+'''不断之浪注能'''（Unbreaking Waves Infusion）是[[操念使]]的[[原力]]。
+
+元素：水；类别：性质注能；等级：5；超载：3
+
+前置：[[念拳]]，不断之浪修道院成员
+
+关联[[念袭]]类别：[[冰枪]]，[[水突]]
+
+豁免：无
+
+你带有注能的[[念袭]]以浪涛冲击敌人、把它们推得晕头转向。尝试一次移位或摔绊[[战技]]检定对抗每个受到你念袭伤害的目标，使用你的体质调整值代替力量调整值来决定[[战技]]加值。你只有使用[[念拳]]塑形注能的情况下才能使用这一注能。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部[[原力]]见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Unbreaking Waves Infusion|2=Unbreaking Waves Infusion}}
+
+[[分类:原力]]

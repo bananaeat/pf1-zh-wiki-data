@@ -1,0 +1,10 @@
+{{Trait
+|name=真名唤者
+|english_name=True Name Caller
+|type=地区
+|prerequisites=深渊
+|description=你擅长探寻异界生物的真名。选择一个除物质位面外的位面。当试图探寻来自所选位面的异界生物的真名(见UM[[极限魔法]])时，你所需的研究时间减半，并且在进行用于得知该异界生物名字的知识(位面)检定时获得+4背景加值。
+|source_name=恶魔猎人手册
+|source=DHH
+|source_url=https://pf1chm.pages.dev/topics/zh143e5b3a4e.htm
+}}

@@ -1,0 +1,12 @@
+{{Feat
+|name=得心应手
+|english_name=Masterful Flourish
+|categories=战斗;演武
+|pfs=否
+|description=你对使用演武武器所作出的艰苦训练，让你在使用它们演武时能够获得更大的优势。
+|prerequisites=[[战士#武器训练|武器训练]]职业能力
+|benefit=当你持用具有演武武器特性的武器，而且该武器还属于你已经具有的[[战士#武器训练|武器训练]]的武器类别，那么你可以将武器训练的加值加到使用该武器做出的任何演武检定的结果上。
+|source=ISC
+|source_name=内海战斗
+|source_url=https://pf1chm.pages.dev/topics/page_276.html
+}}

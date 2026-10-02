@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[骑乘射击 (神话)]]。</small></div>
+{{Feat
+|name=骑乘射击
+|english_name=Mounted Archery
+|categories=战斗
+|description=你善于在骑乘时使用远程武器。
+|prerequisites=[[骑术]]1级，[[骑乘战斗]]。
+|benefit=在骑乘时使用远程武器的减值减为一半。例如，当坐骑以倍速移动时，减值为-2而非-4。坐骑奔跑时，减值为-4而非-8。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

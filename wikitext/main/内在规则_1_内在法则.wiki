@@ -1,0 +1,9 @@
+{{Trait
+|name=内在规则/内在法则
+|english_name=Underlying Principles
+|type=宗教
+|prerequisites=信仰[[内希斯]]
+|description=你花了大量时间来研究魔法事物，因此懂得了大部分魔法装置之间的共通点。你在[[使用魔法装置]]上获得+1背景加值，且使用魔法装置视作你的[[本职技能]]。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

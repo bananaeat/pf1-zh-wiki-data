@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Bastards of Golarion pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=话中有话
+|english_name=Doublespeak
+|type=社会
+|description=重要的不是你说了什么——而是你怎么说。你在传递秘密讯息的[[唬骗]]检定上获得+2背景加值。
+|source_name=格拉利昂的混种
+|source=BoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Doublespeak
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=黑鹰征募
+|english_name=Black Eagle Recruit
+|type=地区
+|prerequisites=兰博利斯
+|description=你曾被领主阿纳菲克斯征募为令人敬畏的黑鹰骑士，但你如今已经离开了那个圈子。你在对抗恐惧效果的豁免检定上获得+1的背景加值；如果该恐惧效果来自于一个邪恶异界生物，此加值增加到+3。
+|source_name=河域子民
+|source=PotR
+|source_url=https://pf1chm.pages.dev/topics/zh576fd36972.htm
+}}

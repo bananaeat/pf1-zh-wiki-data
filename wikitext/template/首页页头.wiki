@@ -1,0 +1,5 @@
+<includeonly><div class="lighten row" style="padding:2em; margin-bottom:2em; margin-top:2em;">
+<div class="col-md-4 col-sm-12 col-xs-12" style="display:inline-block;"><span style="font-size:60px; text-shadow: 2px 3px 0 rgba(255, 255, 255, 0.2), 5px 7px 0 rgba(0, 0, 0, 0.2); ">{{{站点标题|{{SITENAME}}}}}</span><br/>
+{{{站点副标题|{{站点数据}}}}}</div>
+<div class="col-md-8 col-sm-12 col-xs-12 darken" style="padding:1em;">{{{站点描述|{{SITEDESCRIPTION}}}}}</div>
+</div>__NOTITLE__ __NOCOMMENT__ __NOREC__ __NOTOC__{{#default_form:首页}}</includeonly><noinclude>{{优质模板|美化}}{{documentation}}[[Category:huiji template]][[分类:表单编辑首页模板]]</noinclude>

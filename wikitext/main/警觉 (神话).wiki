@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[警觉]] 的神话版本。</small></div>
+{{Feat
+|name=警觉
+|english_name=Alertness
+|categories=神话
+|description=你的觉察力超越众人，无论是用来感知周遭环境还是用来判断他人的意图。
+|prerequisites=[[警觉]]
+|benefit=[[警觉]]专长对察觉与察言观色技能检定带来的加值增加2点。此外，你能够花费1次神话之力，使得1次察觉或者察言观色检定就好像自然掷出20一般。你必须在进行检定之前决定使用该能力。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

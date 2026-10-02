@@ -1,0 +1,9 @@
+{{Trait
+|name=语言天才
+|english_name=Linguistic Genius
+|type=种族
+|prerequisites=[[吸血裔]]（僵尸裔）
+|description=你可以从字里行间读出比作者想要表达的还多的信息。你[[语言学]]检定获得+1背景加值，并且从你的种族语言列表中额外学会说和读一种语言。语言学总是你的[[本职技能]]。
+|source_name=夜之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_822.html
+}}

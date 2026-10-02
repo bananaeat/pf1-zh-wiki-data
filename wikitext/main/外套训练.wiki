@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Armor Master's Handbook pg. 2），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=外套训练
+|english_name=Jacket Training
+|type=战斗
+|description=你可以将装甲外套视为轻甲。这项选择必须在你穿上该护甲时做出，并且在你脱下并重新穿上它之前无法更改。你仍须擅长中甲，才能避免在所有攻击检定和涉及移动的技能检定上加上该护甲的防具检定减值。
+|source_name=护甲大师手册
+|source=AMH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Jacket%20Training
+}}

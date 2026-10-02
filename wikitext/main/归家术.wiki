@@ -1,0 +1,15 @@
+{{Spell
+|name=归家术
+|english_name=Homeward Bound
+|school=防护系
+|levels=先知 3;战斗祭司 3;牧师 3;奥能师 4;术士 4;法师 4
+|action=1分钟
+|components=语言;姿势
+|range=接触
+|target=一个活着的跨位面生物
+|duration=立即
+|save=意志，通过则无效（无害）
+|sr=是
+|description=该法术的功能如同[[驱逐术]]，除上述各栏所注明的内容外。
+|source=位面冒险
+}}

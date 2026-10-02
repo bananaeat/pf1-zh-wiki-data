@@ -1,0 +1,9 @@
+{{Trait
+|name=卫戍者
+|english_name=Dedicated Defender
+|type=战斗
+|description=你在同伴倒下时愈战愈勇。当你与[[濒死]]或[[瘫痪]]的盟友、[[动物伙伴]]、[[幻灵]]、[[魔宠]]或坐骑邻接时，你的攻击检定或穿透魔抗的施法者等级检定获得+1背景加值。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Strange Aeons Player's Guide pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=真挚虔诚
+|english_name=True Devotion
+|type=战役
+|pfs=否
+|description=你从最近的磨难中醒来，满怀羞愧，仿佛自己严重违背了自身的道德与信仰。但你也感到些许释然，仿佛你的神明给了你第二次机会。你不仅迫切想弄清自己身上发生了什么，还渴望奋起反抗那些不可名状的邪恶力量。如果你在调查过程中发现自己曾参与过通常与你的信仰或阵营相悖的不光彩行为，由于你重燃的正义信念，这些事件不再影响你在神明眼中的地位。
+
+每天一次，当你施展一个神术时，你可以尝试施展该法术而不从法术位中失去它，也不消耗你的一个每日法术。这次尝试有20%的几率成功。此外，从你拥有的领域或审判中选择一个。你每天可以额外使用一次该领域或审判的第一项赋予能力。你必须是善良阵营，并且职业能够施展神术，才能选择这项背景特性。
+|source_name=Strange Aeons Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=True%20Devotion
+}}

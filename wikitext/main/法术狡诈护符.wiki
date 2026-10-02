@@ -1,0 +1,15 @@
+{{魔法物品
+|name=法术狡诈护符
+|english_name=Amulet of Spell Cunning
+|aon=MagicWondrousDisplay.aspx?FinalName=Amulet of Spell Cunning
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=颈部
+|price=10,000 gp
+|weight=1磅
+|description=这枚银质挂坠盒只有被用作法师的联结物品时才有效力。它让法师每日额外准备总计3个环级的法术。
+|req=[[制造奇物]]、[[强记术]]
+|cost=5,000 gp
+|source=进阶玩家指南、极限宝具
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=半卓尔典范
+|english_name=Half-Drow Paragon
+|pfs=否
+|description=你的[[卓尔]]血脉十分强烈。
+|prerequisites=【卓尔血脉】以及【卓尔魔法】种族特性，半精灵。
+|benefit=在判断与种族相关的效果时，你被视为[[卓尔精灵]]。此外，由【卓尔魔法】[[种族特性]]获得的类法术能力，能够作为需要卓尔类法术能力才能选取的专长的先决条件。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

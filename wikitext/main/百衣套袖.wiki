@@ -1,0 +1,17 @@
+{{魔法物品
+|name=百衣套袖
+|english_name=Sleeves of Many Garments
+|aon=MagicWondrousDisplay.aspx?FinalName=Sleeves of Many Garments
+|cat=奇物
+|aura=微弱幻术系
+|cl=1
+|slot=腕部
+|price=200 gp
+|weight=1磅
+|description=这种半透明的布筒能轻易套在穿戴者的手臂上。穿戴者套上套袖时，可以选择把自己当前所穿[[服饰]]的外观变成任何其他非魔法的服装。新衣服完全合身，并且始终整洁完好，除非她特别指定不要这样。她脱下套袖时，衣服就恢复原状。
+|req=[[制造奇物]]、[[易容术]]
+|cost=100 gp
+|source=极限宝具
+}}
+
+{{FAQ|v5748eaic9sl0}}

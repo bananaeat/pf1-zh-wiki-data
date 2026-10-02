@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=敏锐精准
+|english_name=Sharpened Accuracy
+|type=Ex
+|class=掉链野蛮人
+|benefit=在[[精准战姿]]内，野蛮人忽视[[隐蔽]]下的[[隐蔽失手率]]，并且将[[全隐蔽]]视为隐蔽。她同样忽视遮蔽惩罚，除非是全遮蔽。野蛮人至少要达到8级后且拥有【精准战姿】能力才能选择此狂暴之力。
+|classic=敏锐精确
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

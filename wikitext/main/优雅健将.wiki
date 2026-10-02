@@ -1,0 +1,11 @@
+{{Feat
+|name=优雅健将
+|english_name=Graceful Athlete
+|description=你可以使用你纤瘦灵巧的身体来攀登高处。
+|prerequisites=[[特技]]1级，[[攀爬]]1级，[[游泳]]1级，敏捷种族加值
+|benefit=将你的敏捷修正取代力量加值加到攀爬和游泳检定。如果你有力量减值，那么你必须同时应用力量减值和敏捷修正。如果生物已经将他们的敏捷修正加至攀爬和游泳检定，那么他将不会获得这个专长的好处。（例如微型或更小的生物）。
+|special=调查员，盗贼（包括unchained盗贼）以及[[杀手]]满足先决条件，他们可以选择这个专长来分别取代他们的一个[[调查员天赋]]，盗贼天赋或[[杀手天赋]]。
+|source=BotB
+|source_name=野兽血脉
+|source_url=https://pf1chm.pages.dev/topics/page_699.html
+}}

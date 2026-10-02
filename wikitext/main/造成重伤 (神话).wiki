@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[造成重伤]] 的神话版本。</small></div>
+{{Spell
+|name=造成重伤
+|english_name=Inflict Serious Wounds
+|school=死灵系
+|levels=先知 3;唤魂师 3;审判者 3;战斗祭司 3;牧师 3;秘学士 3;萨满 3;反圣武士 4;女巫 4
+|description=法术造成的伤害增加至6d8 + 每施法者等级2点（最高+30）。若目标为活物且豁免失败的话，则会恶心，持续每施法者等级1轮（最高15轮）。
+|source=神话冒险
+}}
+[[分类:神话法术]]

@@ -1,0 +1,9 @@
+{{Trait
+|name=不倦者
+|english_name=Tireless Avenger
+|type=信念
+|description=你勇往直前地追逐敌人。当你追逐一种宿敌生物时，避免因强行军而受到致命伤害（译注：AoN 原文作「lethal damage」，疑为笔误，应为 nonlethal damage，即[[非致命伤害]]。）的体质检定DC为「10+每多行军1小时+1」，而非「10+每多行军1小时+2」。
+|source_name=信念背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

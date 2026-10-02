@@ -1,0 +1,15 @@
+{{魔法物品
+|name=陷阱克星手套
+|english_name=Trapspringer's Gloves
+|aon=MagicWondrousDisplay.aspx?FinalName=Trapspringer's Gloves
+|cat=奇物
+|aura=微弱预言系
+|cl=5
+|slot=手部
+|price=4,000 gp
+|weight=1磅
+|description=这双镶钉皮手套看起来像工人手套，不过上面加固了许多金属条，使用者可以随意伸出或收回，把每根手指的指尖变成可定制的工具，用来检查并解除陷阱。穿戴这双手套时，在为解除陷阱而进行的[[解除装置]]检定上获得+5表现加值。此外，手套使使用者在对抗陷阱的所有豁免检定上获得+1幸运加值。
+|req=[[制造奇物]]、[[寻找陷阱(法术)|寻找陷阱]]
+|cost=2,000 gp
+|source=探索者协会战地指南、极限宝具
+}}

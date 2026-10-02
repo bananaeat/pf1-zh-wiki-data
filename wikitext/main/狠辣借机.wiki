@@ -1,0 +1,12 @@
+{{Feat
+|name=狠辣借机
+|english_name=Ruthless Opportunist
+|categories=战斗;团队
+|description=你对于出手时机的把控与凶狠的程度令敌人[[措手不及]]。
+|prerequisites=[[人类]]（切利亚斯人）。
+|benefit=当拥有此专长的切利亚斯人盟友用[[借机攻击]]命中你与该盟友都正在威胁的敌人时，你在对抗该敌人的近战攻击检定上获得+2环境加值，持续1轮。
+|extra=本条翻译致谢 沉沦。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

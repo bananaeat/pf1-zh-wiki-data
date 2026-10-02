@@ -1,0 +1,9 @@
+{{装备
+|name=槲寄生
+|english_name=Mistletoe
+|cat=黑市
+|price=—
+|weight=—
+|description=这种金色的寄生植物生长在许多不同种类的树上。德鲁伊会在一年中的神圣时节，用特制的工具采收槲寄生。
+|source=冒险者的军械库
+}}

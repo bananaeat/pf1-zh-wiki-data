@@ -1,0 +1,11 @@
+{{Feat
+|name=强烈仇恨
+|english_name=Great Hatred
+|categories=战斗
+|description=你的怒火剧烈燃烧着。
+|prerequisites=[[侏儒]]，仇恨种族特性。
+|benefit=在对抗你的仇恨[[种族特性]]中的种族时，你的近战与投掷攻击检定获得额外+1加值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

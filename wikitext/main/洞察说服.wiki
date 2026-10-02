@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Spymaster's Handbook pg. 6），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=洞察说服
+|english_name=Persuasive Insight
+|type=信念
+|description=你是受一位富有启发性洞见的人物引导而皈依信仰、或学会与灵体讨价还价以换取魔法的，他教导你在一切交往中都要运用敏锐的观察。在为请求协助或获取影响力（《极限诡道》第102页）而进行的[[交涉]]检定上，你可以用感知调整值代替魅力调整值。在舌战（《极限诡道》第176页）中，当你使用分配给交涉或基于感知之技能的战术时，你可以用感知调整值代替魅力调整值。
+|source_name=间谍大师手册
+|source=SMH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Persuasive%20Insight
+}}

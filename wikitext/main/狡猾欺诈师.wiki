@@ -1,0 +1,10 @@
+{{Trait
+|name=狡猾欺诈师
+|english_name=Cunning Liar
+|type=地区
+|prerequisites=任何城市
+|description=年轻时你被迫或自愿过着四处躲藏，疲于逃亡的生活，并学到了读懂他人利益并以此编织谎言的技巧。你能使用智力修正或感知修正以取代魅力修正进行[[唬骗]]检定。
+|source_name=市井英雄
+|source=HotS
+|source_url=https://pf1chm.pages.dev/topics/zh4c7ba39919.htm
+}}

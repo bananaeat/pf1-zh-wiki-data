@@ -1,0 +1,14 @@
+{{魔法物品
+|name=银纺
+|english_name=Silversheen
+|aon=MagicWondrousDisplay.aspx?FinalName=Silversheen
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=无
+|price=250 gp
+|description=这种闪闪发光的糊状物质可以用一个[[标准动作]]涂抹在武器上，使武器在1小时内具有[[炼银]]的性质，并取代它可能具有的任何其他特殊材质的性质。一瓶银纺可涂抹一件近战武器或20份弹药。
+|req=[[制造奇物]]
+|cost=125 gp
+|source=核心规则书、极限宝具
+}}

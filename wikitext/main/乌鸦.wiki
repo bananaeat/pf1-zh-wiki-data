@@ -1,0 +1,7 @@
+{{物品
+|name=乌鸦
+|english_name=The Crows
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。抽牌者必须在他最值钱的物品和GM选定的主要同盟者之间做一个选择。未获选的会被毁灭/被杀，并无法以普通方法恢复。在此之前抽牌者就被告知那后果。
+}}

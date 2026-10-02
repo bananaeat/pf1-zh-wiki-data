@@ -1,0 +1,43 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Dungeons of Golarion
+|authors=Jason Bulmahn、Brandon Hodge、Anthony Pryor
+|pages=64
+}}
+
+{{书页/简介|head=深邃、黑暗、致命|1=
+没有哪项角色扮演传统比广阔而险象环生的地城更古老。由陷阱遍布的墓穴、怪物出没的洞窟与财富满溢的宝库组成的多层迷宫，引诱了无数想成为英雄者走向灭亡；然而矛盾的是，地城越是宏大、秘密越是致命，对冒险者的吸引力似乎就越大。
+
+《格拉利昂的地城》考察了遍布探索者战役设定内海地区的六个不同地点。对每座巨型地城逐层的分析，概述了等待发现的危险与回报。每个地城条目都配有独特怪物的数据、以各地点为主题的示例陷阱，以及其中一些更为奇异有趣、等待被发现的宝物的详情。提供示例地城层布局的地图与整座巨型地城建筑群的剖面图，使这本资料对任何想回归游戏本源的 GM 都弥足珍贵。
+
+这本 64 页的书详述了以下巨型地城：
+
+* 烛石洞窟（Candlestone Caverns）：安多安乡间一片广阔的洞窟网络，通向下方致命的幽暗地域。
+* 绞架尖塔（Gallowspire）：世界上最致命的地城之一——巫妖默语暴君的囚牢。
+* 空心山（Hollow Mountain）：古瑟西隆愤怒符文领主神秘的山中要塞。
+* 卡玛里亚金字塔（Pyramid of Kamaria）：奥西里昂最臭名昭著、最令人畏惧的法老之一的致命陵墓。
+* 卡拉莫斯红色堡垒（Red Redoubt of Karamoss）：一座独特的围城堡垒，里面满是来自纽梅利亚蛮荒之地的怪异科技奇迹。
+* 佐鲁尔凯特矿坑（Zolurket Mines）：被创造它的矮人抛弃，如今成为邪恶亡灵大军的巢穴。
+}}
+
+'''格拉利昂的地城'''（''Dungeons of Golarion''）是由 Jason Bulmahn、Matthew Goodall、Brandon Hodge、Anthony Pryor 和 Mike Shel 撰写的一本《探索者战役设定》（Pathfinder Campaign Setting）资料书，于 2011 年 7 月发售。
+
+== 目录 ==
+{{书页/目录|1=
+导言 @ 2
+烛石洞窟（Candlestone Caverns） @ 4
+绞架尖塔（Gallowspire） @ 14
+空心山（Hollow Mountain） @ 24
+卡玛里亚金字塔（Pyramid of Kamaria） @ 34
+卡拉莫斯红色堡垒（Red Redoubt of Karamoss） @ 44
+佐鲁尔凯特矿坑（Zolurket Mines） @ 54
+开放游戏许可（Open Game License） @ 64
+}}
+
+{{书页尾
+|pfw=Dungeons of Golarion
+|releases=PDF¦PZO9234E¦2011-07¦；Softcover¦PZO9234¦2011-07¦
+}}
+
+[[分类:书目]]

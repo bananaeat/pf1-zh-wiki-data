@@ -1,0 +1,11 @@
+{{Feat
+|name=第一世界的回声
+|english_name=Echoes of the First World
+|categories=团队
+|description=你的精类遗传很强，且当你靠近你的同类时，它会变的更加强大。
+|prerequisites=[[知识]]（自然）2级，侏儒亚种。
+|benefit=当你与一名拥有该专长的[[侏儒]]亚种盟友相邻时，你获得DR 2/{{材料|寒铁}}，且你在面对针对生物类型的效果时，会被视为精类而不是类人生物。然而，你仍然会被视为拥有侏儒亚种。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

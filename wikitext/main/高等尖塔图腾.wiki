@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=高等尖塔图腾
+|english_name=Spire Totem, Greater
+|type=Su
+|categories=图腾
+|prerequisites=[[野蛮人]]10级，[[尖塔图腾]]
+|benefit=野蛮人在狂暴时，30尺内的盟友在意志检定上获得+2士气加值。尝试用意志豁免对抗一个恐惧效果时，所有此范围内的盟友可以双骰取高。
+|source_name=荒野源始
+}}

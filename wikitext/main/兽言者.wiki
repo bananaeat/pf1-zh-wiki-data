@@ -1,0 +1,10 @@
+{{Trait
+|name=兽言者
+|english_name=Feral Speech
+|type=社会
+|description=你生长于一个大多数人都掌握了野兽语言的社区。你可以在以下语言中选其一作为你的奖励语言：邪灵语、水族语、风族语、巨人语、火族语或木族语。经GM许可，你也可以改选德鲁伊语，但德鲁伊对自己的语言守护甚严——你很可能会发现自己遭到德鲁伊追杀，他们要除掉你这个威胁到他们独占秘密的人。
+【PFS】不允许学德鲁伊语。
+|source_name=荒野英雄
+|source=HotW
+|source_url=https://pf1chm.pages.dev/topics/zhc5a8c0a892.htm
+}}

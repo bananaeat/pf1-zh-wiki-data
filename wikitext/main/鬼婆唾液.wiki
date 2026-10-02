@@ -1,0 +1,13 @@
+{{危害
+|name=鬼婆唾液
+|english_name=Hag spit
+|kind=毒药
+|type=伤口、摄入
+|save=强韧 DC 16
+|frequency=1次/轮，持续6轮
+|initial=[[目盲]]1d10轮
+|secondary=1d4点感知伤害
+|cure=2次豁免
+|price=1,500 gp
+|source=敌手指南
+}}

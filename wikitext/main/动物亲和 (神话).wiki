@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[动物亲和]] 的神话版本。</small></div>
+{{Feat
+|name=动物亲和
+|english_name=Animal Affinity
+|categories=神话
+|description=你与野生动物具有更强的亲和力，而且能够与它们进行沟通。
+|prerequisites=[[动物亲和]]
+|benefit=[[动物亲和]]专长对[[驯养动物]]与骑术技能检定带来的加值增加2点。此外，你能够花费1次神话之力，使你能够如同[[动物交谈]]法术一般交谈。该效果的施法者等级等同于你的阶层的两倍。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

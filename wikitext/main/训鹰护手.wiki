@@ -1,0 +1,9 @@
+{{装备
+|name=训鹰护手
+|english_name=Falconry gauntlet
+|cat=动物装备
+|price=10 gp
+|weight=1磅
+|description=这种护手由多层厚皮革制作而成，训鹰人会把它戴在非惯用手上，在狩猎前后供猎鹰站立。护手上还有一根流苏和一个套环，用于连接猎鹰的束绳。
+|source=冒险者的军械库、极限宝具
+}}

@@ -1,0 +1,8 @@
+{{物品
+|name=洪水装备
+|english_name=Flood Gear
+|category=冒险装备
+|description=以下装备在阿尔约索斯（Aelyosos）及边远地区很常见。
+|source=MM
+|source_name=商人货单
+}}

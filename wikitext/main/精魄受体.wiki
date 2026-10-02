@@ -1,0 +1,9 @@
+{{Feat
+|name=精魄受体
+|english_name=Spirit Ridden
+|description=你能邀请弱等精魄与你部分共用你的身体来换取他们的历练和经验。
+|benefit=每天1次，你能进行降灵仪式，花费1小时并专注，呼唤任何附近的合乎你须求的精魄。在此小时结束后，你邀请的精魄栖息于你的身体。此精魄给予你在你选择的技能上等同你角色等级的技能等级，并视为[[本职技能]]。此效果持续每角色等级1小时。你的技能等级不能超越你的总HD。当你被[[附身]]时，此精魄影响你的人格。
+|source=HHH
+|source_name=闹鬼英雄手册
+|source_url=https://pf1chm.pages.dev/topics/zh546b3e4ae1.htm
+}}

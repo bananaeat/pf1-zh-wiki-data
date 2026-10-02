@@ -1,0 +1,10 @@
+{{Feat
+|name=钢皮引导
+|english_name=Steelskin Channel
+|description=[[托拉格]]的祝福之力使肉体恢复，坚硬似钢
+|prerequisites=引导能量7d6，信仰托拉格
+|benefit=每天一次，当你引导正能量治疗活物时，你可以使被你所治疗的生物获得伤害减免，这些生物获得DR2/-(或增加DR2/-，如果他们已经拥有DR/-)，持续相当于你的魅力调整值分钟（至少一分钟）。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

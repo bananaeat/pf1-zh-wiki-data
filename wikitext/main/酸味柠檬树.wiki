@@ -1,0 +1,17 @@
+{{魔法物品
+|name=酸味柠檬树
+|english_name=Acidic Lemon Tree
+|aon=MagicPlantsDisplay.aspx?FinalName=Acidic Lemon Tree
+|cat=魔法植物
+|aura=微弱咒法系
+|cl=3
+|slot=无
+|price=12,000 gp
+|weight=500磅
+|description=这棵树结出长圆形的黄色果实，摸上去有种熟过头的感觉。每颗果实约有哈密瓜大小，可以投掷，射程增量为20尺。被果实以[[接触攻击]]命中的目标受到2d6点酸蚀伤害，并在接下来的一轮再受到2d6点酸蚀伤害。
+
+酸味柠檬树在生长期内每天产出1颗果实，生长期为每年春季的13周。该树同一时间最多有7颗果实可用。
+|req=[[奇植培育]]、[[强酸箭]]，培育者必须拥有知识（自然）1级
+|cost=6,000 gp
+|source=极限荒野
+}}

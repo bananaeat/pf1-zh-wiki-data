@@ -1,0 +1,9 @@
+{{Trait
+|name=绿信众
+|english_name=Devotee of the Green
+|type=信念
+|description=你对自然世界或一位掌管自然的神祇的信仰，使你易于接受相关的知识与理解。你的知识(地理)和知识(自然)检定获得+1背景加值，并且总能将二者之一(自行选择)视为你的[[本职技能]]。
+|source_name=信念背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

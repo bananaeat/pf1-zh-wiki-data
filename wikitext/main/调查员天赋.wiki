@@ -1,0 +1,267 @@
+{{调查员导航}}
+{{Source|进阶职业指南|Advanced Class Guide}}
+
+'''调查员天赋'''（Investigator Talent, Ex/Su）是[[调查员]]的职业特性。
+
+在第3级以及之后的每两个等级时，调查员可以获得一项调查员天赋。除非另外提及，否则每一项调查员天赋只能选择一次。
+
+以下调查员天赋中带有*号的天赋会给调查员的[[调查员#战斗策略|战斗策略]]或[[调查员#策士之击|策士之击]]附加效果。每次调查员发动攻击时，他只能选择一个此类天赋伴随发动，但具体的选择可以在造成伤害时决定。
+
+== 战斗策略／策士之击天赋 ==
+
+=== 致盲一击* (Blinding Strike, Ex) ===
+<span id="致盲一击"></span>
+{{:致盲一击}}
+
+=== 迷乱一击* (Confusing Strike, Ex) ===
+<span id="迷乱一击"></span>
+{{:迷乱一击}}
+
+=== 震撼一击* (Deafening Strike, Ex) ===
+<span id="震撼一击"></span>
+{{:震撼一击}}
+
+=== 多米诺效应* (Domino Effect, Ex) ===
+<span id="多米诺效应"></span>
+{{:多米诺效应}}
+
+=== 破像一击* (Iconoclastic Strike, Ex) ===
+<span id="破像一击"></span>
+{{:破像一击}}
+
+=== 数理打击* (Numerical Strike, Ex) ===
+<span id="数理打击"></span>
+{{:数理打击}}
+
+=== 高等数理打击* (Numerical Strike, Greater, Ex) ===
+<span id="高等数理打击"></span>
+{{:高等数理打击}}
+
+=== 大师数理打击* (Numerical Strike, Masterful, Ex) ===
+<span id="大师数理打击"></span>
+{{:大师数理打击}}
+
+=== 持久研究* (Prolonged Study, Ex) ===
+<span id="持久研究"></span>
+{{:持久研究}}
+
+=== 位移一击* (Repositioning Strike, Ex) ===
+<span id="位移一击"></span>
+{{:位移一击}}
+
+=== 迟滞打击* (Sapping Offensive, Ex) ===
+<span id="迟滞打击"></span>
+{{:迟滞打击}}
+
+=== 险恶打击* (Sickening Offensive, Ex) ===
+<span id="险恶打击"></span>
+{{:险恶打击}}
+
+=== 沉默一击* (Silencing Strike, Ex) ===
+<span id="沉默一击"></span>
+{{:沉默一击}}
+
+=== 迟缓一击* (Slowing Strike, Ex) ===
+<span id="迟缓一击"></span>
+{{:迟缓一击}}
+
+=== 盗窃一击* (Stealing Strike, Ex) ===
+<span id="盗窃一击"></span>
+{{:盗窃一击}}
+
+=== 细致研究* (Timed Strike, Ex) ===
+<span id="细致研究"></span>
+{{:细致研究}}
+
+=== 颠仆一击* (Toppling Strike, Ex) ===
+<span id="颠仆一击"></span>
+{{:颠仆一击}}
+
+=== 暮光之爪即兴* (Twilight Talon Improvisation, Ex) ===
+<span id="暮光之爪即兴"></span>
+{{:暮光之爪即兴}}
+
+== 其他天赋 ==
+
+=== 炼金术师科研发现 (Alchemist Discovery, Ex) ===
+<span id="炼金术师科研发现"></span>
+{{:炼金术师科研发现}}
+
+=== 奇妙灵感 (Amazing Inspiration, Ex) ===
+<span id="奇妙灵感"></span>
+{{:奇妙灵感}}
+
+=== 叛道毒物 (Anathema, Ex) ===
+<span id="叛道毒物"></span>
+{{:叛道毒物}}
+
+=== 应用工程学 (Applied Engineering, Ex) ===
+<span id="应用工程学"></span>
+{{:应用工程学}}
+
+=== 无神灵感 (Atheist Inspiration, Ex) ===
+<span id="无神灵感"></span>
+{{:无神灵感}}
+
+=== 壁垒 (Castling, Ex) ===
+<span id="壁垒"></span>
+{{:壁垒(调查员天赋)}}
+
+=== 读杂志 (Chronicler's Insight) ===
+<span id="读杂志"></span>
+{{:读杂志}}
+
+=== 战斗灵感 (Combat Inspiration, Ex) ===
+<span id="战斗灵感"></span>
+{{:战斗灵感}}
+
+=== 礼装天分 (Device Talent, Ex) ===
+<span id="礼装天分"></span>
+{{:礼装天分}}
+
+=== 指引一击 (Didactic Strike) ===
+<span id="指引一击"></span>
+{{:指引一击}}
+
+=== 黄金精神 (Effortless Aid, Ex) ===
+<span id="黄金精神"></span>
+{{:黄金精神}}
+
+=== 离奇回忆 (Eidetic Recollection, Su) ===
+<span id="离奇回忆"></span>
+{{:离奇回忆}}
+
+=== 奥法导管 (Eldritch Conduit, Su) ===
+<span id="奥法导管"></span>
+{{:奥法导管(调查员天赋)}}
+
+=== 代入思考 (Empathy, Ex/Su) ===
+<span id="代入思考"></span>
+{{:代入思考}}
+
+=== 发散灵感 (Expanded Inspiration, Ex) ===
+<span id="发散灵感"></span>
+{{:发散灵感}}
+
+=== 额外残岩 (Extra Earthcraft) ===
+<span id="额外残岩"></span>
+{{:额外残岩(调查员天赋)}}
+
+=== 伪装施法者 (False Spellcaster, Ex) ===
+<span id="伪装施法者"></span>
+{{:伪装施法者}}
+
+=== 熟悉辖区 (Favored Beat, Ex) ===
+<span id="熟悉辖区"></span>
+{{:熟悉辖区}}
+
+=== 坚固阵地 (Fortified Position, Ex) ===
+<span id="坚固阵地"></span>
+{{:坚固阵地(调查员天赋)}}
+
+=== 高等叛道毒物 (Greater Anathema, Ex) ===
+<span id="高等叛道毒物"></span>
+{{:高等叛道毒物}}
+
+=== 高等战斗灵感 (Greater Combat Inspiration, Ex) ===
+<span id="高等战斗灵感"></span>
+{{:高等战斗灵感}}
+
+=== 秘密行动 (Hidden Agendas, Ex) ===
+<span id="秘密行动"></span>
+{{:秘密行动}}
+
+=== 解说灵感 (Inspirational Expertise, Ex) ===
+<span id="解说灵感"></span>
+{{:解说灵感}}
+
+=== 警觉灵感 (Inspired Alertness, Ex) ===
+<span id="警觉灵感"></span>
+{{:警觉灵感}}
+
+=== 聪慧灵感 (Inspired Intelligence, Ex) ===
+<span id="聪慧灵感"></span>
+{{:聪慧灵感}}
+
+=== 恐吓灵感 (Inspired Intimidator, Ex) ===
+<span id="恐吓灵感"></span>
+{{:恐吓灵感}}
+
+=== 奇物学识 (Item Lore, Ex) ===
+<span id="奇物学识"></span>
+{{:奇物学识}}
+
+=== 芸芸众生 (Just a Face in the Crowd, Su) ===
+<span id="芸芸众生"></span>
+{{:芸芸众生(调查员天赋)}}
+
+=== 残存毒液 (Lingering Venom, Ex) ===
+<span id="残存毒液"></span>
+{{:残存毒液}}
+
+=== 数理炼金 (Numerical Alchemy, Su) ===
+<span id="数理炼金"></span>
+{{:数理炼金}}
+
+=== 高等数理炼金 (Numerical Alchemy, Greater, Su) ===
+<span id="高等数理炼金"></span>
+{{:高等数理炼金}}
+
+=== 异能冒险家 (Occult Dungeoneer, Su) ===
+<span id="异能冒险家"></span>
+{{:异能冒险家(调查员天赋)}}
+
+=== 一人千面 (One of Those Faces, Sp) ===
+<span id="一人千面"></span>
+{{:一人千面(调查员天赋)}}
+
+=== 侦搜 (Perceptive Tracking, Ex) ===
+<span id="侦搜"></span>
+{{:侦搜}}
+
+=== 急速定策 (Quick Study, Ex) ===
+<span id="急速定策"></span>
+{{:急速定策}}
+
+=== 盗贼天赋 (Rogue Talent, Ex) ===
+<span id="盗贼天赋"></span>
+{{:盗贼天赋(调查员天赋)}}
+
+=== 通晓探知 (Scrying Familiarity, Ex) ===
+<span id="通晓探知"></span>
+{{:通晓探知(调查员天赋)}}
+
+=== 储法 (Spell Storing, Su) ===
+<span id="储法"></span>
+{{:储法(调查员天赋)}}
+
+=== 策士防御 (Studied Defense, Ex) ===
+<span id="策士防御"></span>
+{{:策士防御}}
+
+=== 持续解说灵感 (Sustained Inspirational Expertise, Ex) ===
+<span id="持续解说灵感"></span>
+{{:持续解说灵感}}
+
+=== 执着灵感 (Tenacious Inspiration, Ex) ===
+<span id="执着灵感"></span>
+{{:执着灵感}}
+
+=== 我刚一直在这儿！ (The Whole Time, Su) ===
+<span id="我刚一直在这儿！"></span>
+{{:我刚一直在这儿！(调查员天赋)}}
+
+=== 失衡技巧 (Unbalancing Trick, Ex) ===
+<span id="失衡技巧"></span>
+{{:失衡技巧(调查员天赋)}}
+
+=== 随心灵感 (Unconventional Inspiration, Ex) ===
+<span id="随心灵感"></span>
+{{:随心灵感}}
+
+=== 黑街灵感 (Underworld Inspiration, Ex) ===
+<span id="黑街灵感"></span>
+{{:黑街灵感}}
+
+[[分类:调查员]]
+{{职业}}

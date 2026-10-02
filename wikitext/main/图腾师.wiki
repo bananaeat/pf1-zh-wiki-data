@@ -1,0 +1,9 @@
+{{Trait
+|name=图腾师
+|english_name=Totemist
+|type=信念
+|description=你成长于一种图腾灵的触动在日常生活中随处可感的文化中，它们细微的敦促时刻引导着你、保护着你。因此，你很快学会了在遇到麻烦时向它们寻求帮助。每天一次，你可以用一个标准动作呼唤图腾的智慧。你获得如同[[神导术]]的效果，但给予的表现加值等于你角色等级的一半（最少+1）。这是一个超自然能力。
+|source_name=信仰与哲学F&P
+|source=信仰与哲学(Faiths and Philosophies
+|source_url=https://pf1chm.pages.dev/topics/zh01c6dd6ef6.htm
+}}

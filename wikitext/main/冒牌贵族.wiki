@@ -1,0 +1,14 @@
+{{Feat
+|name=冒牌贵族
+|english_name=Noble Impostor
+|categories=故事
+|pfs=否
+|description=你摆出贵族架子，让他人相信了你的谎言。
+|prerequisites=不是已被认可的家族或贵族成员。
+|benefit=你在[[唬骗]]和知识（贵族）检定上获得+2加值，且这些技能视为你的[[本职技能]]。
+|goal=让至少三个贵族家族、一位实权君主或一个规模至少为小城市的定居点的人相信你是一个现存或从前未被人所知的贵族家庭成员。
+|completion_benefit=你获得追随者，如同你拥有领导力专长。若你已有领导力专长，则在决定你的追随者数量时，你的领导力值+3。
+|source=HotHC
+|source_name=皇庭英豪
+|source_url=https://pf1chm.pages.dev/topics/page_670.html
+}}

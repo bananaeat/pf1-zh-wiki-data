@@ -1,0 +1,11 @@
+{{Feat
+|name=致命毒刺
+|english_name=Pernicious Stab
+|categories=战斗
+|description=当对手无暇防守时，你凭借深入打击来施加毒药。
+|prerequisites=偷袭2d6。
+|benefit=当你用淬毒武器击中敌人并且可以造成偷袭伤害时，你能选择放弃一部分或全部的偷袭伤害来增加毒药生效的可能性。每放弃2d6点偷袭伤害，你攻击所附带的毒素DC会+1。此毒素豁免DC的加值不适用于免疫精准伤害的生物。
+|source=GHH
+|source_name=巨人猎手手册
+|source_url=https://pf1chm.pages.dev/topics/zh804f69f232.htm
+}}

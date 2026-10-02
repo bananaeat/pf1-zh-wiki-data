@@ -1,0 +1,14 @@
+{{Spell
+|name=向导治愈术
+|english_name=Rejuvenate eidolon
+|school=咒法系 (医疗)
+|levels=召唤师 3;召唤师（掉链） 3
+|action=标准动作
+|components=语言;姿势;材料（一滴你的血）
+|range=接触
+|target=接触到的幻灵
+|duration=立即
+|sr=否
+|description=该法术如同[[次等向导治愈术]]一般作用，不过它能够治愈3d10 +每施法者等级1点伤害 （最高+10）。
+|source=进阶玩家指南
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=巨魔王斗篷
+|english_name=Cloak of the Troll King
+|aon=MagicWondrousDisplay.aspx?FinalName=Cloak of the Troll King
+|cat=奇物
+|aura=微弱塑能系
+|cl=5
+|slot=肩部
+|price=9,000 gp
+|weight=2磅
+|description=这件长斗篷是用野兽和类人生物的皮毛粗糙地缝合拼成的。背后缝着一块用黄色染布剪成的、粗糙的王冠形补丁，一段打结的麻绳把斗篷系在穿戴者的脖子上。穿戴者在威吓检定上获得+5表现加值，并且每天可以三次以类法术能力使用燃烧之手。
+|req=[[制造奇物]]、[[燃烧之手]]、[[惊恐术]]
+|cost=4,500 gp
+|source=怪物志
+}}

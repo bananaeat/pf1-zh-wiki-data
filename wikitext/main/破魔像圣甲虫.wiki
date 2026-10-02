@@ -1,0 +1,14 @@
+{{魔法物品
+|name=破魔像圣甲虫
+|english_name=Golembane Scarab
+|aon=MagicWondrousDisplay.aspx?FinalName=Golembane Scarab
+|cat=奇物
+|aura=中等预言系
+|cl=8
+|slot=颈部
+|price=2,500 gp
+|description=这枚甲虫形的别针让佩戴者能侦测60尺内的任何魔像，但他必须集中精神（[[标准动作]]）才能进行侦测。圣甲虫还让持用者在用武器、[[徒手攻击]]或天生武器与魔像战斗时，视同这些魔像没有伤害减免。
+|req=[[制造奇物]]、[[侦测魔法]]，制造者必须至少为10级
+|cost=1,250 gp
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,16 @@
+{{魔法物品
+|name=圣洁槲寄生戒指
+|english_name=Ring of Sacred Mistletoe
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Sacred Mistletoe
+|cat=戒指
+|aura=微弱变化系
+|cl=1
+|slot=戒指
+|price=6,000 gp
+|description=这枚微小的戒指由活的[[槲寄生]]制成，会自行盘绕在穿戴者的手指上。穿戴者在[[驯养动物]]、知识（自然）和野性认同检定上获得+2表现加值；拥有穿林步能力的穿戴者，即使穿过以魔法创造或操纵的植物，也能毫无阻碍、毫发无伤地轻松行进。这并不能让穿戴者穿过固体物体或生物。
+
+此外，穿戴者每天可以使用1次[[橡棍术]]。
+|req=[[锻造戒指]]、[[行踪无迹]]、[[橡棍术]]
+|cost=3,000 gp
+|source=极限宝具
+}}

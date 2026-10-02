@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 197），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=敏锐才思
+|english_name=Sharp Wits
+|type=种族
+|prerequisites=[[人类]]（乌笃剌人）
+|description=你从小遵循每日的锻炼，以保持思维敏锐、言辞流畅。你的专注检定和[[唬骗]]检定获得+1背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Sharp%20Wits
+}}

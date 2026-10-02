@@ -1,0 +1,11 @@
+{{Feat
+|name=狂躁魔法
+|english_name=Mad Magic
+|categories=战斗
+|description=魔法在你的血管中奔涌，无论你多么狂怒，都能施展法术。
+|prerequisites=血怒职业能力或[[完美明晰]]狂暴之力
+|benefit=你可以在[[血怒]]状态下施放其他职业的法术，或是在启动[[心境澄明]][[狂暴之力]]时仍然保有狂暴能力的好处。如果你拥有大血怒职业能力，那么你在血怒状态下施放的法术DC将提高1点。
+|source=ACO
+|source_name=进化职业起源
+|source_url=https://pf1chm.pages.dev/topics/page_500.html
+}}

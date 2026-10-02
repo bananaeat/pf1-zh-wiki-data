@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=消眩护目镜
+|english_name=Glarecutter Goggles
+|aon=MagicWondrousDisplay.aspx?FinalName=Glarecutter Goggles
+|cat=奇物
+|aura=微弱咒法系
+|cl=5
+|slot=面具
+|price=2,000 gp
+|weight=1磅
+|description=这副由烟熏玻璃制成的深色镜片镶嵌在一条细皮头带上，能过滤进入你眼睛的光线。你在对抗基于视觉和光线的危害或攻击（例如沙漠强光、目盲、凝视攻击等）的强韧豁免上获得+5抗力加值。
+|req=[[制造奇物]]、[[移除目盲/耳聋]]、[[提升抗力]]
+|cost=1,000 gp，80 XP
+|source=烈焰传承玩家手册
+}}

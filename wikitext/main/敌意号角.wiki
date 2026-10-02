@@ -1,0 +1,15 @@
+{{魔法物品
+|name=敌意号角
+|english_name=Horn of Antagonism
+|aon=MagicWondrousDisplay.aspx?FinalName=Horn of Antagonism
+|cat=奇物
+|aura=微弱惑控系
+|cl=3
+|slot=无
+|price=20,000 gp
+|weight=4磅
+|description=这支号角用某种巨兽的骨头雕成，吹响时会发出一声诡异、令人心悸的哀鸣。拥有宿敌职业能力的生物可以以[[标准动作]]吹响号角，使90尺内一种宿敌[[晕眩]]1d4轮（DC 13意志豁免无效）。生物进行该豁免时承受减值，其数值等于该游侠对该种生物的宿敌加值。这是一种音波、影响心灵的效果；听不到号角声的生物免疫其魔力。号角的魔力每天可使用1次。
+|req=[[制造奇物]]、[[怪物晕眩术]]
+|cost=10,000 gp
+|source=进阶玩家指南、极限宝具
+}}

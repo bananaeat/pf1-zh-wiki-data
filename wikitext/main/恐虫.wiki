@@ -1,0 +1,10 @@
+{{Trait
+|name=恐虫
+|english_name=Entomophobe
+|type=缺陷
+|pfs=否
+|description=你年幼时跟虫类有过惨痛的经历使你深深地对各种害虫感到恐惧，特别是当它们汇聚成集群时。
+|benefit=你对抗虫类时攻击承受-2罚值，而你在对抗产生[[反胃]]状态的集群的扰乱心神能力时豁免检定承受-2罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

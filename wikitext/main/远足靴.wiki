@@ -1,0 +1,15 @@
+{{魔法物品
+|name=远足靴
+|english_name=Jaunt Boots
+|aon=MagicWondrousDisplay.aspx?FinalName=Jaunt Boots
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=脚部
+|price=7,200 gp
+|weight=2磅
+|description=这双时髦的黑皮靴上缝着蜿蜒穿过宁静果园的道路与小径的图案。靴子可以穿到大腿中部，也可以把靴口翻下来，当作及膝靴穿。每天三次，穿戴者可以以一个[[移动动作]]移动至多15尺（若她的移动速度低于15尺，则按她的移动速度移动）。这次移动不会引发[[借机攻击]]。
+|req=[[制造奇物]]、[[丑角之旅]]
+|cost=3,600 gp
+|source=极限宝具
+}}

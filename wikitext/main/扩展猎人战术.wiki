@@ -1,0 +1,11 @@
+{{Feat
+|name=扩展猎人战术
+|english_name=Expanded Hunter Tactics
+|categories=战斗
+|description=你可以像训练动物伙伴一样训练你的盟友。
+|prerequisites=猎人战术ACG职业特性。
+|benefit=以一个移动动作，你可以将你知道的一个团队专长分享给一个在30英尺内能看到且听到你的队友。被选中的队友获得此专长的效果，持续1+你每2级额外1轮，但仅限于当此队友与你或你的动物伙伴相邻时。一名特定的盟友每天只能从该专长中受益一次。
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh03ef2e8763.htm
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=构装体厌恶项链
+|english_name=Necklace of Construct Aversion
+|aon=MagicWondrousDisplay.aspx?FinalName=Necklace of Construct Aversion
+|cat=奇物
+|aura=中等预言系、惑控系
+|cl=11
+|slot=颈部
+|price=132,000 gp
+|weight=1磅
+|description=佩戴这条粗项链的生物，会自动察觉60尺内的所有构装体，如同[[生命感知(怪物能力)|生命感知]]能力，但只能感知到构装体。构装体无法看见、听见或以其他方式察觉佩戴者的存在，即使它们使用盲感、盲视、灵敏嗅觉或颤动感知这类特异或超自然的感官能力也一样。如果佩戴者接触一个构装体或攻击任何生物，这种隐匿能力在1分钟内失效。智力值3或更高的构装体可以进行一次DC 18的意志豁免来察觉佩戴者。
+|req=[[制造奇物]]、[[隐形术]]、[[物品定位术]]
+|cost=66,000 gp
+|source=构装体手册
+}}

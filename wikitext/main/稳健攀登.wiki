@@ -1,0 +1,10 @@
+{{Trait
+|name=稳健攀登
+|english_name=Surefooted Ascent
+|type=地区
+|prerequisites=丘陵或山地
+|description=你的特技和攀爬检定+1背景加值。
+|source_name=荒野源始
+|source=WO
+|source_url=https://pf1chm.pages.dev/topics/zh4c71a0e505.htm
+}}

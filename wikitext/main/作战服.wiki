@@ -1,0 +1,21 @@
+{{科技物品
+|name=作战服
+|english_name=Inssuit
+|kind=科技护甲
+|sub=轻型
+|price=19,250 gp
+|weight=10磅
+|atype=轻型
+|ac=+3
+|maxdex=+6
+|acp=0
+|asf=15%
+|speed=30尺／20尺
+|capacity=—
+|usage=—
+|description=这件带衬垫的连体服由坚韧的聚合物与超导线交织而成，对常规武器和能量武器都有适度的防护。穿戴者对造成能量伤害的接触攻击和远程接触攻击，适用护甲的 AC 加值（包括增强加值，如果有）。此外，作战服还提供对寒冷、酸蚀和电击的 5 点能量抗力。
+|construction=[[制造科技武器和护甲]]、军事工作间
+|craft_dc=24
+|cost=9,625 gp
+|source=科技指南
+}}

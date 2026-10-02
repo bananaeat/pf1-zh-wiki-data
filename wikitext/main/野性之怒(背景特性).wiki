@@ -1,0 +1,9 @@
+{{Trait
+|name=野性之怒
+|english_name=Bestial Wrath
+|type=宗教
+|prerequisites=信仰[[拉瓦古格]]
+|description=打蛇打七寸，打人打要害。你在确认重击骰上获得+2背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

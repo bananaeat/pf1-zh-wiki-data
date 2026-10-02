@@ -1,0 +1,9 @@
+{{Trait
+|name=自我毁灭
+|english_name=Suicidal
+|type=种族
+|prerequisites=[[魔裔]]
+|description=羞耻与恐惧充满了你的潜意识，你永远不会停止寻找将自己带入平静的坟墓的方法。每天一次，以一个[[直觉动作]]，你能够使任何本来针对处于自己相邻方格的生物的攻击转向你自己。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_834.html
+}}

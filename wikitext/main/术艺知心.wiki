@@ -1,0 +1,10 @@
+{{Feat
+|name=术艺知心
+|english_name=Persuasive Performer
+|description=对你来说，表演的艺术才是交涉的核心
+|prerequisites=多才多艺职业能力，信仰莎琳
+|benefit=你可以使用任何表演技能检定，而非仅限（表演[键盘，演讲，弦乐，吹奏]）来作为你的交涉检定结果。如果你使用表演（键盘，演讲，弦乐，吹奏）检定来取代交涉检定，那么你在检定上获得+2加值。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

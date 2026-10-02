@@ -1,0 +1,15 @@
+{{魔法物品
+|name=泰坦鹤嘴锄
+|english_name=Mattock of the Titans
+|aon=MagicWondrousDisplay.aspx?FinalName=Mattock of the Titans
+|cat=奇物
+|aura=强烈变化系
+|cl=16
+|slot=无
+|price=23,348 gp
+|weight=120磅
+|description=这件挖掘工具长10尺。任何体型至少为超大型的生物都可以用它松动或推倒泥土或土制壁垒（每10分钟一个10尺立方），也可以用它砸碎岩石（每小时一个10尺立方）。若用作武器，它相当于一把巨型+3[[精金]][[战锤]]，造成4d6点基础伤害。
+|req=[[制造奇物]]、[[制造魔法武器和防具]]、[[地动术]]
+|cost=13,348 gp
+|source=核心规则书、极限宝具
+}}

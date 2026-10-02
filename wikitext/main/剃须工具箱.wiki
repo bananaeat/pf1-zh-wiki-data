@@ -1,0 +1,9 @@
+{{装备
+|name=剃须工具箱
+|english_name=Shaving kit
+|cat=套装
+|price=15 sp
+|weight=1/2磅
+|description=剃须工具箱包含1把直剃刀、1块[[磨刀石]]、1面小镜子、1把刷子、1个杯子，以及足够1名中型类人生物使用50次的剃须粉。
+|source=冒险者的军械库、极限宝具
+}}

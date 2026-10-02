@@ -1,0 +1,10 @@
+{{Feat
+|name=箭雨风暴
+|english_name=Storm of Arrows
+|categories=战斗
+|description=你能让箭雨笼罩数量庞大的敌人。
+|prerequisites=箭雨职业能力。
+|benefit=当你使用箭雨时，你每有一个[[魔射手]]等级，最多可以选择两个目标（即最多选择魔射手等级两倍数量的目标）。
+|source_name=传奇编年史
+|source_url=https://pf1chm.pages.dev/topics/page_1502.html
+}}

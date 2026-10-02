@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''土行'''（Earth Walk, Su）是[[操念使]]的[[原力]]。
+
+元素：土；类别：通用（Su）；等级：1；超载：－
+
+由于你自身和土元素进行了较低程度的融合，所以当你站在土制表面上时，能够忽略由于岩石、土或泥产生的[[困难地形]]，而且当你身处此类表面上时，用于对抗让你发生移动或摔绊的[[CMD]]、以及用于保持平衡的特技检定可以获得元素满溢提供的加值。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Earth Walk|2=Earth Walk}}
+
+[[分类:原力]]

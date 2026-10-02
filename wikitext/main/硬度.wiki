@@ -1,0 +1,16 @@
+<noinclude>{{速查导航|here=规则}}
+'''硬度'''（Hardness）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：防御能力</span></div>
+</noinclude><includeonly><div class="lang"><span id="硬度"></span><div class="lang-h"><b>[[硬度]]</b><i>Hardness</i><span class="lang-w">Ex · 防御能力</span></div><div class="lang-d"></includeonly>
+当具有硬度的生物受到伤害时，要从伤害中扣除相当于硬度的数值。只有在伤害超过硬度时，才会扣除该生物的生命值。具有硬度的生物不会像物体那样进一步降低来自能量攻击、远程攻击或者其他类型的攻击。{{材料|精金}}武器会忽略 20 点或更低的硬度。
+
+'''格式'''：硬度 10
+<includeonly></div></div></includeonly>
+
+{{FAQ|v5748eaic9v1n}}
+
+<noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Hardness|2=Hardness}}
+
+[[分类:通用怪物规则]]</noinclude>

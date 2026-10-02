@@ -1,0 +1,17 @@
+{{魔法物品
+|name=惊异行动腰带〔乌笃剌人〕
+|english_name=Belt of Impossible Action (Vudrani)
+|aon=MagicWondrousDisplay.aspx?FinalName=Belt of Impossible Action (Vudrani)
+|cat=奇物
+|aura=中等防护系
+|cl=7
+|slot=腰部
+|price=16,000 gp
+|weight=1磅
+|description=这件奇物通常只有所标明的种族或族裔的成员才能获得。
+
+这条镶着宝石的腰带用几种不同颜色的丝绸织成。穿戴者可以对那些通常因体型过大、无法被穿戴者影响而对[[战技]]免疫的敌人使用战技。此外，乌笃剌人穿戴者可以在进入时需要花费2格移动力的[[困难地形]]中正常移动和冲锋，就如同那是普通地形。
+|req=[[制造奇物]]、[[行动自如]]，制造者必须是乌笃剌人
+|cost=8,000 gp
+|source=内海种族
+}}

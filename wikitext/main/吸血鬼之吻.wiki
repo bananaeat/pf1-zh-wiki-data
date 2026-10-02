@@ -1,0 +1,14 @@
+{{危害
+|name=吸血鬼之吻
+|english_name=Vampire's kiss
+|kind=毒药
+|type=伤口
+|save=强韧 DC 15
+|frequency=1次/轮，持续2轮
+|initial=1d2点体质伤害
+|secondary=1分钟内来自非毒药来源的[[流血]]伤害增加1点
+|cure=1次豁免成功
+|price=75 gp
+|description='''炼金配方：'''配方（6黄金＋50没药＋30水银）/蒸馏；工艺 DC 15；时间 1天；工具：蒸馏器；类型：毒药
+|source=炼金术手册
+}}

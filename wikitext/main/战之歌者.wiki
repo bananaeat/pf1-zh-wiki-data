@@ -1,0 +1,10 @@
+{{Feat
+|name=战之歌者
+|english_name=War Singer
+|description=你的歌声使用野蛮和残暴的方式呼唤你的人民，激励着周围的人，使他们的暴力程度达到新的高度。
+|prerequisites=[[魅力]] 13，【吟游表演】职业特性，半兽人或兽人。
+|benefit=当你在战场（任何有12名或更多战斗者参与战斗的区域）中使用带有听觉成分的【吟游表演】时，那么你所选择的吟游表演的范围或区域加倍。此外，无论你的吟游表演在哪里进行，[[兽人]]亚种的生物在对抗你的吟游表演时，豁免DC提高2点。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

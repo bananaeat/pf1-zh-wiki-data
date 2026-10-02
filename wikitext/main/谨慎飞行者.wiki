@@ -1,0 +1,11 @@
+{{Feat
+|name=谨慎飞行者
+|english_name=Careful Flyer
+|description=你能够轻松地以缓慢速度进行飞行。
+|prerequisites=[[特技专家]]，[[飞行]]5级
+|benefit=只要你以[[移动动作]]进行飞行，即便移动距离不足你速度的一半，也不需要通过成功的飞行检定来维持飞行。当你在1轮内移动的距离不足速度的一半时，你还会在避免[[借机攻击]]的特技检定中获得+2加值，而且AC还会在对抗由于移动而引起的借机攻击时获得+2加值。
+|normal=除非你至少以半速飞行，否则必须成功通过飞行检定才能够继续飞行。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=恐龙伙伴|en=Dinosaur Companion|type=Ex|domain=鳞裔领域|sub=蜥类子域 (Saurian)|sub_name=蜥类子域|source=内海诸神|text=在4级时，你获得一个动物伙伴，以你的牧师等级-2作为你的有效[[德鲁伊]]等级。你必须选择恐龙类生物作为你的动物伙伴。此能力替换[[#蛇类伙伴 (Serpent Companion, Ex)|蛇类伙伴]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

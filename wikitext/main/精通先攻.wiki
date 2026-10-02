@@ -1,0 +1,15 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[精通先攻 (神话)]]。</small></div>
+{{Feat
+|name=精通先攻
+|english_name=Improved Initiative
+|categories=战斗
+|description=你对战斗的反应很快，使你能够迅速对危险做出反应。
+|benefit=[[先攻]]检定获得+4加值。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[奥法强袭 (Eldritch Assault Pfs X)]]、[[奥法强袭 (eldritch assault)]]、[[时刻备战]]、[[英勇介入]]、[[诡异先攻]]、[[诡诈直感]]（6 个条目）

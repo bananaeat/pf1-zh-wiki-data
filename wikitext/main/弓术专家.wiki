@@ -1,0 +1,9 @@
+{{Trait
+|name=弓术专家
+|english_name=Toxophilite
+|type=种族
+|prerequisites=[[神裔]]（羽人）
+|description=你继承了你的天界祖先的射箭天赋。你用弓进行的重击确认检定获得+2背景加值。
+|source_name=天界血脉
+|source_url=https://pf1chm.pages.dev/topics/page_828.html
+}}

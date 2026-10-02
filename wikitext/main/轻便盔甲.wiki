@@ -1,0 +1,14 @@
+{{Spell
+|name=轻便盔甲
+|english_name=Effortless armor
+|school=变化系
+|levels=先知 2;圣武士 2;审判者 2;异能者 2;战斗祭司 2;游侠 2;牧师 2;猎人 2;秘学士 2;魔战士 2
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|target=自己
+|duration=1分钟/等级
+|sr=否
+|description=你所穿着的盔甲不再减缓你的速度。同时降低盔甲罚值1，加上每5施法者等级再加1 （最高5）。
+|source=极限战斗
+}}

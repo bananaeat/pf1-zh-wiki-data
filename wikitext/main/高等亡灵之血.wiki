@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=高等亡灵之血
+|english_name=Undead Blood, Greater
+|type=Su
+|categories=血脉
+|prerequisites=[[野蛮人]]10级，[[亡灵之血]]
+|benefit=每当野蛮人进入狂暴状态，他将获得寒冷抗力10，以及在对抗[[非致命伤害]]时获得DR10/-。
+|source_name=进阶职业指南
+}}

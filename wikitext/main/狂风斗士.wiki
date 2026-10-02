@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 195），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=狂风斗士
+|english_name=Tempestuous Combatant
+|type=种族
+|prerequisites=[[人类]]（柯莱士人）
+|description=你在危险面前行动自信。每天一次，你可以用一个迅捷动作选择一名对手。你和你的坐骑（如果有）在该对手的威胁区域内移动或离开其威胁区域时，不会引发该对手的借机攻击。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Tempestuous%20Combatant
+}}

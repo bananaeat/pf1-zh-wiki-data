@@ -1,0 +1,16 @@
+{{武器
+|name=矮人长战锤
+|english_name=Longhammer, dwarven
+|category=武器
+|prof=异种
+|wcat=双手
+|price=70 gp
+|weight=20磅
+|dmg_s=1d10
+|dmg_m=2d6
+|crit=×3
+|type=钝击
+|special=长武
+|description=这些笨重的大锤上经常雕刻或铸造着让人感到恐怖的脸孔，或者钻有很多在挥动时能够发出尖啸声的小孔以威慑敌人。
+|source=进阶种族手册
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=精神力池扩容
+|english_name=Expanded Phrenic Pool
+|description=你的精神力量强于以往。
+|prerequisites=精神力池职业能力
+|benefit=你的精神力池总量增加2点。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

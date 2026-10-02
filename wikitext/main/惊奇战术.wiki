@@ -1,0 +1,10 @@
+{{Feat
+|name=惊奇战术
+|english_name=Surprising Strategy
+|categories=战斗
+|description=你的剑术是如此灵动，让敌人难以预测你的后续行动。
+|prerequisites=还击职业能力。
+|benefit=你在成功格档攻击后，除了进行[[借机攻击]]外，也可以尝试施展[[阴招]]APG、缴械或击破[[战技]]，且当你对被你格档攻击的敌人施展这些战技时，只要他还在你的触及范围内，你便会获得+2士气加值，且不会引起对方的借机攻击。
+|source_name=传奇编年史
+|source_url=https://pf1chm.pages.dev/topics/page_1502.html
+}}

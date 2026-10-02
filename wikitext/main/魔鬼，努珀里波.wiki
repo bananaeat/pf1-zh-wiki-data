@@ -1,0 +1,42 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=努珀里波
+|english_name=Devil, Nupperibo
+|aon=Nupperibo
+|cr=1
+|xp=400
+|alignment=守序邪恶
+|size=中型
+|type=异界生物
+|subtypes=魔鬼;邪恶;跨位面;守序
+|init=+0
+|senses=盲视 60 尺，黑暗视觉 60 尺；察觉 +0
+|ac=12，接触 10，措手不及 12（+2 天生）
+|hp=每只 5（1d10）
+|fort=+2
+|ref=+2
+|will=+0
+|dr=5/善良或银
+|immune=火焰;影响心灵的效果;毒素
+|resist=酸蚀 10;寒冷 10
+|speed=20 尺
+|melee=矛 +1（1d8/×3），2 爪抓 +1（1d4）
+|tactics=<div class="ml wide"><span class="k">战斗中</span>努珀里波攻击最近的目标。只有被缴械后，它才会改为只用爪抓攻击。</div><div class="ml wide"><span class="k">士气</span>努珀里波战斗至死。</div>
+|str=10
+|dex=10
+|con=10
+|int=—
+|wis=11
+|cha=4
+|bab=+1
+|cmb=+1
+|cmd=11
+|sq=炼狱奴隶
+|special_abilities={{怪物能力|炼狱奴隶|Ex|努珀里波虽是魔鬼，本质上却是凝固痛苦所化的无脑空壳。它们和魔像一样没有真正属于自己的心智，只会遵循更强大的魔鬼灌输给它们的命令和设定。如果收到多道命令，只服从最强大的那个魔鬼的命令。如果被命令使用简易武器，它们可以熟练地用之攻击，也能操作门之类的简单物体。护甲、较复杂的武器和复杂的工具则超出它们的理解能力。}}
+|source=冒险之路61：罪恶碎片
+|lore=
+这些无脑的傀儡魔鬼，地位比[[魔鬼，劣魔|劣魔]]还要低，只不过是供上级魔鬼驱使的无脑刀下炮灰。它们的无脑几乎近似构装体，无法与之沟通——一见到任何非魔鬼的生物，它们就会举起长矛发起攻击。
+}}
+
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Nupperibo|2=Nupperibo}}

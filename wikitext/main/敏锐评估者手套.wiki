@@ -1,0 +1,14 @@
+{{魔法物品
+|name=敏锐评估者手套
+|english_name=Gloves of the Keen Evaluator
+|aon=MagicWondrousDisplay.aspx?FinalName=Gloves of the Keen Evaluator
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=手部
+|price=1,200 gp
+|description=穿戴时，这双白色乳胶手套能在研究精巧的物品时提供极佳的抓握力。穿戴者在判断物品价值的估价检定上获得+4表现加值。在就所研究的物品进行谈判时，穿戴者可以用自己的[[估价]]检定结果代替交涉检定结果，来为该物品的价格讨价还价。
+|req=[[制造奇物]]、[[鹰之威仪]]、[[探究精神]]
+|cost=600 gp
+|source=商人货单
+}}

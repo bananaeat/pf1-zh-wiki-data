@@ -1,0 +1,15 @@
+{{Spell
+|name=缓解成瘾
+|english_name=Alleviate addiction
+|school=咒法系 (医疗)
+|levels=先知 1;圣武士 1;女巫 1;德鲁伊 1;战斗祭司 1;游侠 1;炼金术师 1;牧师 1;猎人 1;萨希尔·菲恩 1;萨满 1;调查员 1
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=接触
+|target=接触到的生物
+|duration=1小时/等级
+|save=强韧，通过则无效（无害）
+|sr=是（无害）
+|description=受术者忽略成瘾的影响。如果受术者在整个休息期间都处于此法术效果的影响之下，她可以借由休息自然地恢复因药物所造成的伤害。
+|source=黑市指南
+}}

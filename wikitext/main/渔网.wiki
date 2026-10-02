@@ -1,0 +1,9 @@
+{{装备
+|name=渔网
+|english_name=Fishing net
+|cat=冒险装备
+|price=4 gp
+|weight=5磅
+|description=这张网长5尺宽5尺，可用来覆盖一个洞口，或用来阻止超小型及更大的生物进入某个区域。
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragonslayer's Handbook pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=龙患警戒
+|english_name=Draconic Vigil
+|type=地区
+|prerequisites=终焉之墙
+|description=作为终焉之墙的守卫者，你亲眼见过巨龙泽多兰给这片土地带来的破坏。当你进入战斗对抗龙类生物或兽人亚种的类人生物时，你的先攻检定获得+1加值。
+|source_name=屠龙者手册
+|source=DH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Draconic%20Vigil
+}}

@@ -1,0 +1,12 @@
+{{Feat
+|name=学习游侠陷阱
+|english_name=Learn Ranger Trap
+|pfs=否
+|description=你学会了如何制作一种[[游侠陷阱]]。
+|prerequisites=生存5级。
+|benefit=选择一种游侠陷阱。你可以使用这种陷阱，其每日使用次数等同于你的感知修正（最少为1）。你的陷阱DC为“10+1/2角色等级+感知修正”，并且持续每两个角色等级1天。如果你不是一个游侠，那么你只能使用这个专长来制作临时陷阱。和所有临时游侠陷阱一样，陷阱DC拥有-2减值。
+|special=一个游侠可以使用游侠陷阱的每日次数等于“1/2游侠等级+感知修正”。持续时间参见游侠陷阱的描述。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

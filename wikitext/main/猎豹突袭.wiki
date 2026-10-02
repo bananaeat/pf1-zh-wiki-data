@@ -1,0 +1,12 @@
+{{消歧义|猎豹突袭(杀手天赋)}}
+{{Feat
+|name=猎豹突袭
+|english_name=Jaguar Pounce
+|categories=战斗
+|description=你的[[突袭]]尤其致命。
+|prerequisites=基础攻击加值+4。
+|benefit=当你对一个[[措手不及]]或[[无助]]的敌人进行冲锋或使用[[跳跃攻击]]专长时，你对目标的首次近战攻击视为拥有[[精通重击]]专长。
+|source=UW、StLC
+|source_name=极限荒野、萨加瓦，失落的殖民地
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

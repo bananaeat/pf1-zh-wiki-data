@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=次等灵魂图腾
+|english_name=Spirit Totem, Lesser
+|type=Su
+|categories=图腾
+|benefit=狂暴时，野蛮人用围绕着他的灵魂骚扰敌人。这些灵魂每轮对一个邻接野蛮人的活物敌人挥击一次，攻击加值为野蛮人的最高BAB加上魅力修正。每次挥击造成“1d4+野蛮人魅力修正”点负能量伤害。
+|source_name=进阶玩家指南
+}}
+
+{{FAQ|v5748eaic9qpq}}

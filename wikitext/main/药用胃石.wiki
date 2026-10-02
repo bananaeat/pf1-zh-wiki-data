@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=药用胃石
+|english_name=Medicinal Bezoar
+|aon=MagicWondrousDisplay.aspx?FinalName=Medicinal Bezoar
+|cat=奇物
+|aura=中等咒法系
+|cl=8
+|slot=无
+|price=1,600 gp
+|weight=1/2磅
+|description=吞下这块手指大小的石质团块的人，会受到[[中和毒性]]的影响，并在24小时内对抗成瘾的豁免检定上获得+4加值。一旦被吞下，这块胃石便会溶解，其魔力也随之耗尽。
+|req=[[制造奇物]]、[[中和毒性]]
+|cost=800 gp
+|source=内海诡道
+}}

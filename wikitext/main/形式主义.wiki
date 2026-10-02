@@ -1,0 +1,10 @@
+{{Trait
+|name=形式主义
+|english_name=Pomp and Pageantry
+|type=地区
+|prerequisites=[[半身人]]，塔尔多
+|description=在他人看来像是在浪费时间，但你自己知道，这些看似华而不实的仪式性的举动实际上可以令你做得更好。如果你花费通常两倍的时间进行检定，你在属于你本职技能的特技、交涉、[[驯养动物]]、威吓、表演和骑术检定上获得+1背景加值。
+|source_name=地区背景
+|source=HoG
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

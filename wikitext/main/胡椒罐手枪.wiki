@@ -1,0 +1,19 @@
+{{武器
+|name=胡椒罐手枪
+|english_name=Pepperbox
+|category=火器
+|prof=异种
+|wcat=单手
+|price=3,000 gp
+|weight=5磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×4
+|range=20尺
+|type=钝击和穿刺
+|misfire=1-2（5尺）
+|capacity=6
+|groups=火器
+|description=这把手枪有六个枪管，而不是一个。整个枪管组可以在两次射击之间迅速用手旋转（[[自由动作]]，需要一只空闲的手），使全部六发子弹都能射出后才需要重新装填。胡椒罐手枪的每个枪管的弹药为1颗弹头加1份黑火药，或1发炼金定装弹。这是一件早期火器。
+|source=极限战斗、极限宝具
+}}

@@ -1,0 +1,9 @@
+{{装备
+|name=锁，优质
+|english_name=Lock (superior)
+|cat=冒险装备
+|price=150 gp
+|weight=1磅
+|description=这种锁可以是挂锁，嵌于门上或箱子内的锁，或任何其他类型的钥匙锁。使用解除装置打开一把锁的DC取决于锁的质量：简单（DC 20），普通（DC 25），精良（DC 30），优质（DC 40）。
+|source=核心规则书、极限宝具
+}}

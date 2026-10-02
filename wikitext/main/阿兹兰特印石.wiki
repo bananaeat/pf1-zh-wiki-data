@@ -1,0 +1,14 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=阿兹兰特印石
+|english_name=Azlanti Sealstone
+|aon=MagicArtifactsDisplay.aspx?ItemName=Azlanti Sealstone
+|cat=神器
+|tier=次级神器
+|aura=强烈防护系、变化系
+|cl=17
+|slot=无
+|description=这些被海水的拥抱打磨过的黄玉石上，刻着古阿兹兰特人的强大符文。这些符文赋予两种有益效果：第一，你可以不受打扰地通过许多阿兹兰特的结界和守卫；第二，印石赋予你奇异的、近乎异界的各类学识洞见，使你在所有知识检定上获得+4表现加值。
+|destruction=阿兹兰特魔法的奥秘早已为格拉利昂的现代学者所失传。如果存在摧毁阿兹兰特神器的简便方法，也早已被遗忘。
+|source=狗头人之王的复仇
+}}

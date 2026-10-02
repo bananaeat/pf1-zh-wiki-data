@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[精灵之眼]] 的神话版本。</small></div>
+{{Feat
+|name=精灵之眼
+|english_name=Elven Accuracy
+|categories=神话
+|description=[[精灵]]天生的视觉能力会让你找到敌人掩体的缺口。
+|prerequisites=[[精灵之眼]]
+|benefit=当你使用[[长弓]]或[[短弓]]（包括复合弓）进行攻击时，你能够忽略[[隐蔽]]，但是无法忽略[[全隐蔽]]。你仍旧会受到全隐蔽带来的失手率，但是如果你由于全隐蔽而失手，那么你就可以如同[[精灵之眼]]专长一般重掷失手率。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

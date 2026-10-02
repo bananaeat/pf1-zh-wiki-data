@@ -1,0 +1,10 @@
+<noinclude>{{异能者导航}}
+'''双重增幅'''（Dual Amplification, Ex）是[[异能者]]的[[精神增幅|精神增幅]]。
+
+</noinclude>当异能者使用此项高等精神增幅时，她要选择另外两个自己已知的精神增幅或者高等精神增幅，并将它们应用至相同的联结法术上。她必须从精神力池中花费1点精神力才能够这么做，在此之上还要花费另外两个精神增幅所需要的完整消耗。她无法将相同的精神增幅重复应用至联结法术上，即便该项精神增幅本身具有多个不同的效果也不行。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_310.html 精神增幅]、[https://pf1chm.pages.dev/topics/zhb4162fc9dd.htm 乌笃剌精神增幅]、[https://pf1chm.pages.dev/topics/page_855.html PSI技术]），按 AoN 核对过。全部精神增幅见 [[精神增幅]]。
+
+[[分类:精神增幅]]
+
+{{职业}}</noinclude>

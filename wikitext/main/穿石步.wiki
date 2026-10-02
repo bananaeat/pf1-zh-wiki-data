@@ -1,0 +1,14 @@
+{{Feat
+|name=穿石步
+|english_name=Stony Step
+|description=大地承认你的亲缘关系并且不再妨碍你的行动。
+|prerequisites=土元素裔。
+|benefit=每当你移动时，每轮你可以忽略5尺土地以及岩石造成的[[困难地形]]（碎石，石阶等等）。该专长的效果同类专长叠加，比如[[神行步]]或者[[灵狐步]]专长。该专长允许你在此类困难地形中使用五尺快步。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[土裔掘地者]]、[[土裔潜地者]]（2 个条目）

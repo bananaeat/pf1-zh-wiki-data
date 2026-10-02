@@ -1,0 +1,11 @@
+{{Feat
+|name=白虹流
+|english_name=Lantern Style
+|categories=战斗;流派
+|description=你的投掷武器闪烁神圣光芒，使人炫目。
+|prerequisites=近距射击，善良或守序阵营，1级施法者等级或1级武僧等级
+|benefit=你的投掷武器闪烁神圣光芒，照亮它们落点半径20尺的区域，持续1轮。被这些武器伤害的目标会目眩1轮。
+|source=DRe
+|source_name=遥远国度
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

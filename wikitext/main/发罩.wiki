@@ -1,0 +1,9 @@
+{{装备
+|name=发罩
+|english_name=Caul
+|cat=衣物
+|price=10–100 gp
+|weight=—
+|description=这种华贵的发网一般使用丝绸、金丝织物或者珠宝制作而成，皇室或贵族中的女性最常佩戴此类饰品。
+|source=极限宝具
+}}

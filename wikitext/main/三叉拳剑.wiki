@@ -1,0 +1,17 @@
+{{武器
+|name=三叉拳剑
+|english_name=Manople
+|category=武器
+|prof=军用
+|wcat=单手
+|price=17 gp
+|weight=4磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×2
+|type=穿刺或挥砍
+|special=格挡，卸武
+|groups=轻刃
+|description=这种刚硬无指[[铁手套]]前端有三根剑刃伸长而出。中间的刃笔直而双刃，两旁的剑刃为弧形，像[[笔架叉]]的短刺。你无法在装备有这东西的手上再持握任何东西。穿上它需要一个[[整轮动作]]，它在面对卸除武器战技时[[CMD]]得到+10加值。
+|source=近战战术工具箱
+}}

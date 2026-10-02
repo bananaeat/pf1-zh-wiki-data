@@ -1,0 +1,10 @@
+{{Feat
+|name=弄假成真
+|english_name=True Deception
+|description=长时间钻研伪装技巧的你能够在平日假扮成任何人。
+|prerequisites=魅力 17，[[易容]]17级，易容宗师UC高等忍者忍术或易容大师高等盗贼天赋，忍者等级10级或盗贼等级10级
+|benefit=当你使用易容宗师UC高等[[忍者]][[忍术]]或[[易容大师]]高等盗贼天赋来呈现出特定个人的外貌时，能够愚弄意在定位你所[[易容]]的对象的预言系魔法和效果，就如同侠客的[[一人千面]][[社交天赋]]一般。此外，你的[[唬骗]]检定还会在模仿特定个体的举止时获得+10加值。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

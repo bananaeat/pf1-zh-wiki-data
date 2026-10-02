@@ -1,0 +1,9 @@
+{{Trait
+|name=精纯卫队新兵
+|english_name=Pure Legion Recruit
+|type=地区
+|prerequisites=拉哈多姆
+|description=你曾经跻身著名的精纯卫队之中，了解他们揭发秘教和查办教徒的技巧。你在看破伪装及以发现非魔法手段隐藏起的宗教用品或服饰的察觉检定上获得+2背景加值。你也在识破目标撒的与信仰有关的谎及解读与神有关的密语的察言观色检定上获得+2背景加值。
+|source_name=沙之子民
+|source_url=https://pf1chm.pages.dev/topics/zh730f330f66.htm
+}}

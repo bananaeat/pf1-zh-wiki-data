@@ -1,0 +1,16 @@
+{{Spell
+|name=暗影步
+|english_name=Shadow step
+|school=幻术系 (幽影幻觉)
+|tags=阴影
+|levels=吟游诗人 4;唤魂师 4;奥能师 4;女巫 4;异能者 4;术士 4;歌者 4;法师 4;红螳螂杀手 4
+|action=标准动作
+|components=语言;姿势
+|range=中距
+|target=自己
+|duration=立即
+|save=无
+|sr=否
+|description=当你施放该法术，你必须位于昏暗或黑暗区域里。你融入一片阴影或黑暗中，并沿着阴影路径传送到法术距离内的另一片昏暗或黑暗区域。
+|source=极限魔法
+}}

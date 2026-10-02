@@ -1,0 +1,15 @@
+{{魔法物品
+|name=牧羊人经匣
+|english_name=Phylactery of the Shepherd
+|aon=MagicWondrousDisplay.aspx?FinalName=Phylactery of the Shepherd
+|cat=奇物
+|aura=微弱预言系
+|cl=3
+|slot=头饰
+|price=7,000 gp
+|weight=1磅
+|description=每天三次，以一个命令，佩戴者可以确定30尺内任意一名盟友当前的健康状态和整体状况。这个效果如同法术[[关照术]]。如果佩戴者拥有[[引导能量]]或圣疗能力，他可以用[[迅捷动作]]，选择把该职业特性的效果施加到他正在关照的盟友身上，只要该盟友在他30尺内；不过这样做会终止经匣的关照术效果。
+|req=[[制造奇物]]、[[关照术]]
+|cost=3,500 gp
+|source=极限宝具
+}}

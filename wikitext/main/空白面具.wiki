@@ -1,0 +1,11 @@
+{{Trait
+|name=空白面具
+|english_name=Empty Mask
+|type=缺陷
+|pfs=否
+|aliases=空洞面具
+|description=你花费很长的时间隐藏自己的真实身份以逃避你的政治敌人，以至你失去了太多的自我。
+|benefit=你在对抗胁迫效果的意志豁免检定承受-1罚值。若对抗知道你的真实身份的敌人时此罚值提升至-2。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

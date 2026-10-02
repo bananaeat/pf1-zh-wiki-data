@@ -1,0 +1,10 @@
+{{Feat
+|name=孤胆侩子手
+|english_name=Steadfast Slayer
+|categories=战斗
+|description=像传说中的屠龙者或屠巨人者一样，你孤身一人对付那些远大于你的生物。
+|benefit=若你是唯一一个威胁目标的单位且你成功用[[双手近战武器]]击中目标，目标每比你大一个体型，你的近战伤害掷骰就+2。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}

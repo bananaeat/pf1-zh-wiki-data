@@ -1,0 +1,17 @@
+{{魔法物品
+|name=毁灭头带
+|english_name=Headband of Havoc
+|aon=MagicWondrousDisplay.aspx?FinalName=Headband of Havoc
+|cat=奇物
+|aura=微弱惑控系
+|cl=5
+|slot=头饰
+|price=8,000 gp
+|weight=1磅
+|description=这条用兽皮和利齿粗糙缝成的头带能聚焦野蛮人穿戴者的嗜血渴望。穿戴者进入狂暴时，选择她的一项[[狂暴之力]]。在这次狂暴持续期间，该能力视为穿戴者的野蛮人等级高4级。
+
+每天1次，当穿戴者受到攻击或必须对敌对效果进行豁免检定时，她可以花费2轮狂暴时间，以[[直觉动作]]开始狂暴。这次狂暴在结算触发它的攻击之前生效，持续到她的下一个回合开始（此时她可以如同以正常方式开始狂暴那样继续狂暴）。
+|req=[[制造奇物]]、[[狂暴术]]
+|cost=4,000 gp
+|source=极限宝具
+}}

@@ -1,0 +1,14 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{消歧义|潜地 (消歧义)}}
+{{Source|异能冒险|Occult Adventures}}
+'''遁地'''（Earth Glide, Su）是[[操念使]]的[[原力]]。
+
+元素：土；类别：通用（Su）；等级：5；超载：0
+
+前置：[[攀岩]]
+
+你能够潜入地面，就如同[[土元素]]的遁地能力一般，掘地速度等同于你的基础陆上速度。
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]），按 AoN 核对过。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Earth Glide|2=Earth Glide}}
+
+[[分类:原力]]

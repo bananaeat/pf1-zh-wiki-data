@@ -1,0 +1,15 @@
+{{魔法物品
+|name=高等神射护腕
+|english_name=Bracers of Archery (Greater)
+|aon=MagicWondrousDisplay.aspx?FinalName=Bracers of Archery (Greater)
+|cat=奇物
+|aura=中等变化系
+|cl=8
+|slot=腕部
+|price=25,000 gp
+|weight=1磅
+|description=这对护腕看上去像普通的防护服饰。它们让穿戴者能够使用任何弓（不包括弩），如同她擅长使用该弓一样。如果她本来就擅长某种弓，那么每当使用这种弓时，她的攻击检定获得+2表现加值，伤害检定获得+1表现加值。必须两只护腕都穿戴好，魔法才能生效。
+|req=[[制造魔法武器和防具]]、[[制造奇物]]、制造者必须擅长长弓或短弓
+|cost=12,500 gp
+|source=核心规则书、极限宝具
+}}

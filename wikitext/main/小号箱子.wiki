@@ -1,0 +1,9 @@
+{{物品
+|name=小号箱子
+|english_name=Chest (small)
+|category=冒险装备
+|price=2 金币
+|weight=25 磅
+|description=普通的木箱有好几种尺寸：小型（2立方英尺，1hp，击破DC17），中型（4立方英尺，15hp，击破DC23），大型（6立方英尺，30hp，击破DC29），超大型（8立方英尺，50hp，击破DC35）。大多数箱子都包含了一个简单的内置锁。
+|source_name=核心规则书
+}}

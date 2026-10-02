@@ -1,0 +1,16 @@
+{{Feat
+|name=咄咄逼人
+|english_name=Following Step
+|categories=战斗
+|description=当敌人试图从你身边逃开时，你能够反覆尝试跟上他而不会妨碍自身的正常移动。
+|prerequisites=[[敏捷]] 13，[[快步跟进]]。
+|benefit=当你使用[[快步跟进]]专长跟上邻近的敌人时，你能够移动至多10尺。你可以在下一轮内使用五尺快步，并且任何使用此专长进行的移动，均不会扣除你下一轮的移动距离。
+|normal=你只能使用“快步跟进”专长进行五尺快步跟上敌人。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[飞步进击]]（1 个条目）

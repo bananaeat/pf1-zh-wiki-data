@@ -1,0 +1,15 @@
+{{Feat
+|name=印黥以辱
+|english_name=Signature Strike Taunt
+|categories=战斗
+|description=你嘲弄般的攻击敌人羞恨交加。
+|prerequisites=[[精准射击]]、[[印黥流]]、[[武器专攻]]、bab+9、[[威吓]]9级
+|benefit=因为[[印黥流]]而陷入颤栗状态的生物在颤栗持续期间在AC上承受-2罚值。在颤栗状态持续期间，你不会因对该目标使用[[战技]]而招致[[借机攻击]]。
+|source=PotW
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1196.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[印黥扬威]]（1 个条目）

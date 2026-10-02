@@ -1,0 +1,14 @@
+{{Spell
+|name=高等召唤狂躁邪魔
+|english_name=Summon cacodaemon, greater
+|school=咒法系 (召唤)
+|tags=邪恶
+|levels=召唤师 3;召唤师（掉链） 3;先知 4;奥能师 4;女巫 4;战斗祭司 4;术士 4;法师 4;牧师 4
+|action=1轮
+|components=语言;姿势;法器（一个银钩）
+|range=近距
+|duration=1轮/等级 (可解消)
+|sr=否
+|description=本法术的效果和召唤狂躁邪魔一样，除了本法术召唤的是1d4+1只狂躁邪魔。
+|source=永罪之书末辑，天启诸骑
+}}

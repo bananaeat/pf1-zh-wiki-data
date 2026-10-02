@@ -1,0 +1,15 @@
+{{魔法物品
+|name=深土靴
+|english_name=Boots of the Earth
+|aon=MagicWondrousDisplay.aspx?FinalName=Boots of the Earth
+|cat=奇物
+|aura=微弱咒法系、变化系
+|cl=3
+|slot=脚部
+|price=5,000 gp
+|weight=5磅
+|description=这双结实的皮制矮人靴，鞋底由厚厚的灰色大理石制成。以一个[[移动动作]]，穿戴者可以站稳双脚，从大地中汲取力量，从而获得[[快速治疗]]1，并在对抗[[冲撞]]、[[移位]]和[[摔绊]][[战技]]的[[CMD]]上获得+4加值。如果穿戴者移动或被迫移动、被击倒[[俯卧]]或陷入[[失去意识]]，这些效果即告结束。
+|req=[[制造奇物]]、[[牛之力量]]、[[治疗轻伤]]
+|cost=2,500 gp
+|source=内海诸神
+}}

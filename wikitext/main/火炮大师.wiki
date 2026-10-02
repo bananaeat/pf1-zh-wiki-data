@@ -1,0 +1,12 @@
+{{Feat
+|name=火炮大师
+|english_name=Cannon Master
+|categories=战斗
+|pfs=否
+|description=你明白如何在火炮本身状态不良的情况下准备战斗。
+|prerequisites=[[攻城技师]]，[[知识]]（工程）或专业（攻城技师）7级，至少擅长一种火器型攻城兵器
+|benefit=你在用于修理火器型攻城兵器的工艺（攻城兵器）检定中获得+2表现加值。此外，若你是攻城兵器的机师长，而且你所负责的火器型攻城兵器具有[[破损]]状态，那么这架攻城兵器的哑火范围仅会增加2点，以取代正常的4点，而且破损的攻城兵器在炸膛之前必须先哑火两次。
+|source=ISC
+|source_name=内海战斗
+|source_url=https://pf1chm.pages.dev/topics/page_276.html
+}}

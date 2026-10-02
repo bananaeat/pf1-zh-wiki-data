@@ -1,0 +1,11 @@
+{{Trait
+|name=影视
+|english_name=Shadowsight
+|type=地区
+|pfs=否
+|prerequisites=奈多
+|description=你的宗族与宗-库松的古老契约在你身上表现的格外强烈。虽然黑暗依旧可怕，但你至少能看见潜伏其中的东西。每日1次以迅捷行动，你的眼睛可以看穿周围的黑暗——你获得1轮/等级的昏暗视觉。
+|source_name=秽邪勇士
+|source=地区
+|source_url=https://pf1chm.pages.dev/topics/zh2cdfe76676.htm
+}}

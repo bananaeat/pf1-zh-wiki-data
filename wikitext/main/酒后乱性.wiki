@@ -1,0 +1,9 @@
+{{Feat
+|name=酒后乱性
+|english_name=Muddled Morals
+|pfs=否
+|description=你信念坚定…………除非你喝了点。
+|benefit=你在对抗基于你的阵营来影响你的效果上获得+2加值。选择一个与你真正的阵营距离一级的阵营，当你醉酒（或更糟）时，面对法术或其他效果将此阵营视为你的阵营。
+|source_name=内海酒馆
+|source_url=https://pf1chm.pages.dev/topics/zh5b451adebe.htm
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=敏锐射击
+|english_name=Acute Shot
+|description=当魔法援助你的远程攻击时，你几乎从不失手。
+|prerequisites=[[远距射击]]，[[精准射击]]
+|benefit=每当你使用远程武器并在攻击骰上获得魔法加值时，你可以将任何远程攻击距离减值转为伤害减值。另外，每当你在远程攻击骰上获得魔法加值时，你可以对有[[隐蔽]]的目标造成偷袭伤害（但不能是[[全隐蔽]]），只要该攻击满足造成偷袭伤害的其他要求。你能用该方式造成的最高偷袭伤害骰数等于你此次攻击骰上的魔法加值数。
+|notes=译注：原文作 magic bonus，但规则中并无这种加值类型；译者个人理解为由法术或类法术效果提供的加值（包括增强、士气、神圣等）。
+|source=MagicTT、MTT
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_566.html
+}}

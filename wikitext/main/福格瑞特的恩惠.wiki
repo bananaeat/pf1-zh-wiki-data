@@ -1,0 +1,10 @@
+{{Trait
+|name=福格瑞特的恩惠
+|english_name=Folgrit's Bounty
+|type=宗教
+|prerequisites=信仰[[福格瑞特]]
+|description=你在孩童时被传授照料神圣炉火和烹煮营养餐的方法。你在专业（厨师）检定上获得+1背景加值并且能以20gp和1小时来准备至多8人份的营养餐。任何人在1天内吃下1人份(此消耗10分钟)能在未来8小时里任何1个技能检定或攻击骰获得+1士气加值。此加值必须在投骰前应用而且不能在1天内吃下另一餐来刷新。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh484c89782e.htm
+}}

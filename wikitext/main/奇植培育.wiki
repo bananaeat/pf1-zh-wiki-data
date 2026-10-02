@@ -1,0 +1,12 @@
+{{Feat
+|name=奇植培育
+|english_name=Cultivate Magic Plants
+|categories=造物
+|pfs=否
+|description=为了种植[[魔法植物]]，你将园艺技能和魔法知识结合起来。
+|prerequisites=[[调制药剂]]，[[制造奇物]]，[[知识]]（自然）1级。
+|benefit=你可以培养魔法植物——详见第7章所介绍的数例魔法植物。魔法植物的每1000gp基本价格，就需要将使其培育时间增加1周。当你培育一株魔法植物时，你将如常受到[[制造魔法物品]]相同的限制——你需要选择并准备与其制造条件中相同的法术。不论是谁消耗了该魔法植物的果实的话，就会成为其果实中法术的目标。栽培魔法植物的完整规则，详见本书第247页。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

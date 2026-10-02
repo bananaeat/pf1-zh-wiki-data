@@ -1,0 +1,12 @@
+{{Feat
+|name=精通卸武搭档
+|english_name=Improved Disarm Partner
+|categories=战斗;团队
+|pfs=否
+|description=你要比一般的战斗者更能抓住机会
+|prerequisites=卸武搭档，基础攻击加值+5
+|benefit=当一个拥有本专长的盟友在自己的回合对一个处于你近战触及范围内的目标进行卸武战技检定并失败时，你可以对这个目标进行一次借机攻击；如果这次借机攻击命中，你还可以在这次借机攻击中对该对手进行一次卸武战技检定。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1405.html
+}}

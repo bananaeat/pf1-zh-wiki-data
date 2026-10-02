@@ -1,0 +1,11 @@
+{{Feat
+|name=诚挚恭维
+|english_name=Sincere Flattery
+|pfs=否
+|description=翼龙人在创新上并不是很擅长，但他们证明了他们是模仿和改良的专家。
+|prerequisites=翼龙人
+|benefit=你在重造你以前看到过的物品的工艺检定上获得+4环境加值。你可花费一周的时间研究这个物品来将这个环境加值增加到+8。这不包括制造这件物品的时间。
+|source=LoD
+|source_name=巨龙遗产
+|source_url=https://pf1chm.pages.dev/topics/page_716.html
+}}

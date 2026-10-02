@@ -1,0 +1,9 @@
+{{装备
+|name=洞穴探险工具箱
+|english_name=Spelunking kit
+|cat=套装
+|price=174 gp
+|weight=32磅
+|description=此工具箱配有探索地底世界所需的装备，包括：一盏提灯和四瓶灯油，一把锤子和八枚岩钉，100尺的丝绳，一个爪钩和一套攀爬工具。
+|source=探索者协会战地指南、极限宝具
+}}

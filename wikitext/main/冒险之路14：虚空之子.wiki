@@ -1,0 +1,47 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #14: Children of the Void
+|authors=Mike McArtor
+|pages=96
+}}
+
+{{书页/简介|head=天塌了！|1=
+一颗星星坠落，淘金热开始了！当谜港城（Riddleport）的犯罪领主们竞相抢夺这块神秘的陨石时，魔鬼肘（Devil's Elbow）的坠落现场正暗流涌动。不属于这个世界的东西从天金属（skymetal）的牢笼中爬出，饥渴地寻找新的猎物，准备把它们的异种散播到毫无防备的世界各地。PC 们能否终结这场来自夜空之外的恐怖，以及召唤它的邪恶魔法？
+
+本期《开拓者》包括：
+
+* 《虚空之子》，一部面向 4 级角色的冒险，作者 Mike McArtor。
+* 对格拉利昂所在太阳系中各个世界与奇异生物的星际探索，作者 James L. Sutter。
+* 关于[[凯登·凯连]]的详情——这位曾为凡人的勇气、自由与美酒之神，作者 Sean K Reynolds。
+* 「探索者日志」的新一篇，作者 Amber Scott：Eando Kline 在幽暗地域的荒野中学到关于生存的致命一课。
+* 五种新怪物，作者 Ashavan Doyon、Mike McArtor、Rob McCreary 和 Erik Mona。
+}}
+
+'''冒险之路14：虚空之子'''（''Pathfinder #14: Children of the Void''）是[[冒险之路]]「二度黑暗」系列的第二章冒险，由 Mike McArtor 撰写，配套文章出自 Ashavan Doyon、Rob McCreary、Erik Mona、Sean K Reynolds 和 James L. Sutter，场景冒险（Set Piece adventure）出自 Ryan Z. Nock，小说出自 Amber Scott，于 2008 年 10 月 29 日发行。
+
+== 目录 ==
+除了「二度黑暗」冒险之路的第二部之外，本期《开拓者》冒险之路还收录了对[[凯登·凯连]]（风险、冒险者与酒精之神）信仰的探究、环绕格拉利昂的宇宙地志、一部以海盗船为舞台的场景冒险，以及五种全新怪物。
+{{书页/目录|1=
+前言 @ 4
+虚空之子 @ 6
+深入漆黑 @ 48
+[[凯登·凯连]] @ 56
+阿拉斯卡之牙（Teeth of Araska） @ 64
+探索者日志 @ 72
+怪物图鉴 @ 78
+- [[阿卡塔]]
+- [[月光花]]
+- [[塞壬]]
+- [[泰依斯]]
+- [[巫怪]]
+预设角色 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Children of the Void
+|releases=PDF¦PZO9014E¦2008-10¦；Softcover¦PZO9014¦2008-10¦978-1-60125-127-5
+}}
+
+[[分类:书目]]

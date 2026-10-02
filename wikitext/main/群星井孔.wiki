@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=群星井孔
+|english_name=Well of Stars
+|aon=MagicWondrousDisplay.aspx?FinalName=Well of Stars
+|cat=奇物
+|aura=强烈咒法系
+|cl=17
+|slot=无
+|price=60,000 gp
+|description=这口井孔不通向其他位面的地点，而是通向物质位面上的各个世界。不过，它不一定通向与使用者所处环境相似的世界；因此，它带来的危险与传统的[[穿界井孔]]大致相同，既有目的地环境难以预料的危险，也有可能从另一端走出的异界生物。
+|req=[[制造奇物]]、[[异界之门]]
+|cost=30,000 gp
+|source=再探经典宝藏
+}}

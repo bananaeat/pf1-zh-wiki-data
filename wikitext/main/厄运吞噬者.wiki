@@ -1,0 +1,10 @@
+{{Trait
+|name=厄运吞噬者
+|english_name=Jinx Eater
+|type=魔法
+|prerequisites=镣铐群岛本地的[[天狗]]
+|description=你的存在本身将会抑制诅咒和其他不幸的效果。你在对抗诅咒，包括女巫和萨满的巫术能力时，豁免检定+1背景加值。每天1次，你可以用一个[[直觉动作]]将这个加值赋予距你30尺内所有盟友，持续一轮。
+|source=BotB
+|source_name=野兽血脉
+|source_url=https://pf1chm.pages.dev/topics/page_698.html
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=妙笔生花
+|english_name=Excellent Penmanship
+|type=社会
+|description=你精通书法，这在龙华时代曾被视为高雅艺术，在凌乘仍备受推崇。你察觉以识破你伪造文件的DC提高2点。如果你试图通过书面交流劝说他人，在这次沟通中进行的[[唬骗]]、交涉或威吓检定获得+2加值(译注：原文未写明加值类型)。此外，[[语言学]]始终是你的[[本职技能]]。
+|source_name=古国血脉
+|source=BotA
+|source_url=https://pf1chm.pages.dev/topics/zhb7c0053e99.htm
+}}

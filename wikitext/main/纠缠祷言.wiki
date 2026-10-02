@@ -1,0 +1,20 @@
+{{Spell
+|name=纠缠祷言
+|english_name=Litany of entanglement
+|school=咒法系 (呼唤)
+|tags=依赖语言
+|levels=反圣武士 2;圣武士 2;审判者 3
+|action=迅捷动作
+|components=语言;姿势;圣徽
+|range=近距
+|target=一名生物
+|duration=1轮
+|save=意志，通过则无效
+|sr=是
+|description=你的祷言让能量锁链从地面向上伸出，阻碍目标的移动。目标陷入[[纠缠]]状态。
+
+这个法术对飞行中的生物，或没有站在固体地面上的生物无效。
+
+当受到该法术影响时，目标不能再成为另一个名称中含有「祷言」一词的法术的目标。
+|source=极限战斗
+}}

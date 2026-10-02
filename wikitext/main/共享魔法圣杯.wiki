@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=共享魔法圣杯
+|english_name=Chalice of Communal Dweomer
+|aon=MagicWondrousDisplay.aspx?FinalName=Chalice of Communal Dweomer
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=无
+|price=3,750 gp
+|weight=1磅
+|description=每天一次，一名生物可以把一瓶持续时间长于即时的药剂倒入圣杯，然后以会引发[[借机攻击]]的[[标准动作]]饮下。持有者以及30尺内最多两名自愿的盟友会获得如同自己饮用了该药剂的效果；不过，持续时间由所有受益者（包括持有者）平分，向下取整到轮。
+|req=[[制造奇物]]、[[炼金反刍]]、[[增效灵药]]
+|cost=1,875 gp
+|source=尖啸山庄之泪
+}}

@@ -1,0 +1,43 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=拼图鲨
+|english_name=Shark, Jigsaw Shark
+|cr=1
+|xp=400
+|alignment=绝对中立
+|size=中型
+|type=动物
+|subtypes=水栖
+|init=+6
+|senses=盲感 30 尺，超灵敏嗅觉；察觉 +6
+|description=这条与人同大的鲨鱼，身上装点着锯齿状的斑纹。它那口大牙上的许多污渍，诉说着它啮咬的频繁与凶猛。
+|ac=14，接触 12，措手不及 12（+2 敏捷，+2 天生）
+|hp=11（2d8+2）
+|fort=+4
+|ref=+5
+|will=+1
+|speed=游泳 60 尺
+|melee=啮咬 +3（1d6+3）
+|space=5 尺
+|reach=5 尺
+|str=15
+|dex=14
+|con=13
+|int=1
+|wis=12
+|cha=2
+|bab=+1
+|cmb=+3
+|cmd=15
+|feats=[[精通先攻]]
+|skills=[[察觉]] +6;[[游泳]] +10
+|environment=任意海洋
+|organization=单独，成对，鲨群（3–6）
+|treasure=无
+|source=冒险之路57：风暴渐起
+|lore=
+这些鲨鱼栖息在近海浅水，因此与靠海为生的人们有着直接的接触。常能听到拼图鲨跃出水面、袭击码头工人或小船上渔民的故事。它们那由褐色和蓝灰色拼凑而成的斑块体色，也是其得名的部分缘由。
+}}
+
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Jigsaw Shark|2=Jigsaw Shark}}

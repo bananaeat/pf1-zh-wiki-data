@@ -1,0 +1,24 @@
+<div class="" style="padding:0px 1px;clear: both;"><div class="darken" style="padding:0.5em 0.5em 0.5em 1em;">'''模板文档''' <span style="font-size: 85%;">(本页面所展示的模板范例，有时会无法出现。) &nbsp;&nbsp; [[h:Help:模板|<span class="btn btn-primary">什么是模板？</span>]]</span>&nbsp;[{{fullurl:{{FULLPAGENAME}}/doc|action=edit}} <span class="btn btn-primary">编辑]</span>&nbsp;[{{fullurl:{{FULLPAGENAME}}|action=purge}} <span class="btn btn-primary"><span title="Refresh this page">刷新</span></span>]</div> <div class="" style="background:rgba(224, 223, 223, 0.16);padding: 1em; margin: 0.5em 0;">{{
+    #if: {{{content|}}}
+    | <nowiki/>
+{{{content}}}
+    | 关于本模板：
+        
+{{
+      #ifexist: {{ #if: {{{1|}}} | {{{1}}} | {{FULLPAGENAME}}/doc }}
+      |{{{{
+        #ifeq: {{NAMESPACE}} | {{ns:Template}}
+        || :{{NAMESPACE:{{ #if: {{{1|}}} | {{{1}}} | {{FULLPAGENAME}} }}}}:
+      }}{{ #if: {{{1|}}} | {{PAGENAME:{{{1}}}}} | {{PAGENAME}}/doc}} }}
+      | :<strong class="error">这个模板暂时没有说明文档。</strong>你可以[{{fullurl:{{ #if: {{{1|}}} | {{ urlencode: {{{1}}} }} | {{FULLPAGENAMEE}}/doc }}|action=edit&preload=Template:Documentation/preload}} 创建模板文档]。{{
+        #ifeq: {{NAMESPACE}} | {{ns:10}}
+        | 在 [[h:templatemanager:{{ #if: {{{1|}}} | {{{1}}} | {{FULLPAGENAME}}/doc }}|灰机模板仓库]] 上面有大量可以复制的现成模板。      }}[[Category:Templates without documentation|{{PAGENAME}}]]
+    }}
+  }}  </div> <div class="darken" style="clear: both; padding: 0.5em; margin: 0.5em 0; font-size: 85%; text-align: right;">{{
+    #if: {{{content|}}}
+    | [{{fullurl:{{FULLPAGENAMEE}}|action=edit}} Edit this page]
+    | 进入 {{
+      #ifexist: {{ #if: {{{1|}}} | {{{1}}} | {{FULLPAGENAME}}/doc }}
+      | [[{{ #if: {{{1|}}} | {{{1}}} | {{FULLPAGENAME}}/doc }}]]
+      | [{{fullurl:{{ #if: {{{1|}}} | {{ urlencode: {{{1}}} }} | {{FULLPAGENAMEE}}/doc }}|action=edit&preload=Template:Documentation/preload}} {{ #if: {{{1|}}} | {{{1}}} | {{FULLPAGENAME}}/doc }}]
+    }}}} 页面来编辑这个模板的说明文档。（[[Template:Documentation|这个说明框是怎么回事]]？）<br />修改完毕后，请[{{fullurl:{{FULLPAGENAME}}|action=purge}} 刷新]上面的文本。（[[h:帮助:Huiji缓存|为什么？]]）</div></div><noinclude>{{优质模板|功能}}[[Category:已经本地化的模板]][[Category:huiji template]]</noinclude>

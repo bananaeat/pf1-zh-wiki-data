@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''熟练操念使'''（Skilled Kineticist, Su）是[[操念使]]的[[原力]]。
+
+元素：通用；类别：通用（Su）；等级：1；超载：－
+
+对于你的首要元素向[[本职技能]]列表中添加的技能来说，这些技能检定均会获得一个加值，加值的数值等同于你的[[操念使]]等级的一半，而且你能够使用与首要元素相关的知识技能鉴别生物，不过仅限亚种类型和你的首要元素一致的元素。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Skilled Kineticist|2=Skilled Kineticist}}
+
+[[分类:原力]]

@@ -1,0 +1,16 @@
+{{魔法物品
+|name=高等凶手弯刀
+|english_name=Murderer's Machete, Greater
+|cat=特殊魔法武器
+|base=[[短剑]]
+|enh=+2 锐锋 血光
+|aura=强烈咒法系［恶］
+|cl=13
+|slot=无
+|price=78,310 gp
+|weight=3磅
+|description=此物品功能与凶手弯刀相同，但为一把+2锐锋血光[[短剑]]。
+|req=[[制造魔法武器和防具]]、[[出血术]]、[[残酷旅跃]]、[[锐锋术]]，制造者必须献祭一名有感知的活体生物
+|cost=39,310 gp
+|source=惧怖冒险
+}}

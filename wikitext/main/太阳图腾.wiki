@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=太阳图腾
+|english_name=Sun Totem
+|type=Su
+|categories=图腾
+|prerequisites=[[野蛮人]]6级，[[次等太阳图腾]]
+|benefit=[[火焰之触]]助力加强了野蛮人的狂暴。他在狂暴时获得10点火焰抗力。此外，在直接接触明火后的1d6轮内，他的速度提高10尺。
+|source_name=卡蒂亚，东方明珠
+}}

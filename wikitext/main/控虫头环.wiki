@@ -1,0 +1,17 @@
+{{魔法物品
+|name=控虫头环
+|english_name=Headband of Vermin Control
+|aon=MagicWondrousDisplay.aspx?FinalName=Headband of Vermin Control
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=头饰
+|price=1,000 gp
+|weight=1磅
+|description=这条黑色皮革头环的穿戴者可以花10分钟，将头环与一只被她触碰的中型或更大的虫类同调。同调完成后，任何戴着它的生物都可以对该虫类进行[[驯养动物]]和骑术检定，以影响或控制它，如同它是动物且拥有动物水平的智力。同调持续到该虫类死亡、头环被毁，或头环与另一只虫类同调为止。
+
+灰矮人制造的此类物品通常受到灰葬结界法术的保护。
+|req=[[制造奇物]]、[[控制虫类]]
+|cost=500 gp
+|source=怪物志
+}}

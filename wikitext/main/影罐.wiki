@@ -1,0 +1,14 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=影罐
+|english_name=Shadow Urn
+|aon=MagicArtifactsDisplay.aspx?ItemName=Shadow Urn
+|cat=神器
+|tier=次级神器
+|aura=强烈死灵系
+|cl=17
+|slot=无
+|description=影罐是一只简单的陶罐，里面灌注了经过[[暗影沙漏]]的骨灰。影罐被打破时，其中封存的[[高等幽影]]就会被释放出来。这只幽影拥有自由意志，但通常只会攻击离它最近的生物，设法满足它对生命能量的渴求。
+|destruction=影罐在使用时就会被消耗。每只影罐只含有一只高等幽影。如果影罐在充满自然阳光的区域被打破，其中的幽影会被毁灭，而不是被释放出来。
+|source=心中之魔
+}}

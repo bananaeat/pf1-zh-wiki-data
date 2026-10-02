@@ -1,0 +1,12 @@
+{{Feat
+|name=高等拖拽
+|english_name=Greater Drag
+|categories=战斗
+|description=被你拖拽的敌人会失去平衡。
+|prerequisites=力量13，[[精通拖拽]]，[[猛力攻击]]，基本攻击加值+6。
+|benefit=你所实行的拖拽[[战技]]检定获得+2加值。这个加值与[[精通拖拽]]提供的加值叠加。每当你拖拽敌人，他的移动会引起你的盟友的[[借机攻击]]（但是不包括你）。
+|normal=被拖拽的生物不会引起借机攻击。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

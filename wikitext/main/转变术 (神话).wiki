@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[转变术]] 的神话版本。</small></div>
+{{Spell
+|name=转变术
+|english_name=Transformation
+|school=变化系
+|levels=唤魂师 6;奥能师 6;女巫 6;异能者 6;术士 6;法师 6;炼金术师 6;秘学士 6;调查员 6;魔战士 6
+|description=你仍旧能够施放法术，并且使用法术完成型与法术触发型物品，但是你所施放或使用的法术等级必须小于等于你的阶层。你获得等同于你的施法者等级点临时生命值。
+|source=神话冒险
+}}
+[[分类:神话法术]]

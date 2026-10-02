@@ -1,0 +1,11 @@
+{{Feat
+|name=杀戮诀窍
+|english_name=Slayer's Knack
+|description=你完全了解如何与宿敌战斗，手中的每一件武器都对它们更为致命。
+|prerequisites=【宿敌】职业特性，基本攻击加值+6。
+|benefit=选择这个专长时，选定一种类型的宿敌。你的任意武器在面对该类型宿敌时，重击威胁范围加倍。此效果不与其它任何拓展武器重击范围的效果叠加。
+|special=你可以多次选择本专长，每次指定一种不同类型的宿敌。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

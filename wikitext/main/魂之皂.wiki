@@ -1,0 +1,15 @@
+{{魔法物品
+|name=魂之皂
+|english_name=Soul Soap
+|aon=MagicWondrousDisplay.aspx?FinalName=Soul Soap
+|cat=奇物
+|aura=微弱防护系
+|cl=1
+|slot=无
+|price=200 gp
+|weight=2磅
+|description=这块粗糙的灰色小肥皂里嵌着细小的灰烬、煤屑或硬土块，用它洗过的人仍然和洗之前一样脏。用肥皂清洗一个生物需要水，并花费1分钟，之后该生物可以对正影响它的任何敌对的持续性影响心灵效果重新进行一次意志豁免。不情愿的生物必须先被压制或以其他方式变得无助，才能被清洗。一块肥皂足够清洗一个生物。
+|req=[[制造奇物]]、[[提升抗力]]
+|cost=100 gp
+|source=进阶玩家指南、极限宝具
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=束剑腰带
+|english_name=Bladed Belt
+|aon=MagicWondrousDisplay.aspx?FinalName=Bladed Belt
+|cat=奇物
+|aura=微弱变化系
+|cl=1
+|slot=腰部
+|price=2,000 gp
+|weight=3磅
+|description=这条腰带不是由一整条材料制成，而是由许多块鞣制皮革用粗大的金属钉接合而成。穿戴者可以凭命令把腰带变成她所选的一件精制挥砍和／或穿刺近战武器。只要她还握着这件武器，也可以凭命令把它变回腰带的形态。此外，这条腰带可以像挥砍和穿刺近战武器一样被附魔，附魔时以腰带的价格充当精制品的价格。
+|req=[[制造奇物]]、[[魔化武器]]
+|cost=1,000 gp
+|source=极限宝具
+}}

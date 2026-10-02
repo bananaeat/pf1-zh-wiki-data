@@ -1,0 +1,12 @@
+{{魔法物品
+|name=思想放射徽章
+|english_name=Medallion of Thought Projection
+|aon=MagicCursedDisplay.aspx?ItemName=Medallion of Thought Projection
+|cat=诅咒物品
+|aura=中等预言系
+|cl=7
+|slot=颈部
+|description=这件装置看似一枚[[读心勋章]]，连起效的范围都一样，只是偷听到的思想含糊而失真，需要通过一次DC 15的意志豁免才能理清。然而，使用者以为自己在探听他人的思想，实际上听到的全是勋章自己制造的幻象。这些虚幻的思想总是显得可信，因此会严重误导任何依赖它们的人。更糟的是，使用者并不知道，这枚被诅咒的勋章其实会把她的思想广播给探测路径上的生物，从而使它们察觉她的存在。
+|req=[[读心勋章]]
+|source=核心规则书、极限宝具
+}}

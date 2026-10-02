@@ -1,0 +1,19 @@
+{{武器
+|name=长枪
+|english_name=Lance
+|category=武器
+|prof=军用
+|wcat=双手
+|price=10 gp
+|weight=10磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×3
+|type=穿刺
+|special=长武
+|groups=矛
+|description=在冲锋的坐骑背上使用长枪将造成双倍伤害。你能在骑乘中以单手持用长枪。
+|source=核心规则书、极限宝具
+}}
+
+{{FAQ|v5748eaic9p1k}}

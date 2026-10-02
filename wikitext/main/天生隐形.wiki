@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''天生隐形'''（Natural Invisibility）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex 或 Su</span><span class="sk-f">位置：防御能力</span></div>
+</noinclude><includeonly><div class="lang"><span id="天生隐形"></span><div class="lang-h"><b>[[天生隐形]]</b><i>Natural Invisibility</i><span class="lang-w">Ex 或 Su · 防御能力</span></div><div class="lang-d"></includeonly>
+该能力是持续性的——生物始终保持[[隐形]]，即使在攻击时也是如此。由于这一能力是天生的，[[消除隐形]]对它不起作用。
+
+'''格式'''：天生隐形
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Natural Invisibility|2=Natural Invisibility}}
+
+[[分类:通用怪物规则]]</noinclude>

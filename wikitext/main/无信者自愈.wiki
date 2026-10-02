@@ -1,0 +1,11 @@
+{{Feat
+|name=无信者自愈
+|english_name=Godless Healing
+|description=你擅长通过凝聚信念的力量进行某种复杂的技艺来压制疼痛，而非依赖信仰之力。
+|prerequisites=不能信仰神祇
+|benefit=每日1次，当你的生命值降低至总生命值的一半或更低时，你可以以[[移动动作]]治疗自身的伤害，数值为1d8 + 你的总生命骰数。这是一个超自然能力。
+|special=你能够多次选取该专长。每次你选取该专长，每日治疗自身的次数额外增加1次。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

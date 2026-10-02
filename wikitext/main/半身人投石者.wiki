@@ -1,0 +1,11 @@
+{{Feat
+|name=半身人投石者
+|english_name=Halfling Slinger
+|categories=战斗
+|description=你受过磨练，将你的种族天赋添加到[[投石索]]上。
+|prerequisites=半身人。
+|benefit=你使用投石索时攻击命中获得+1种族加值。
+|source=HoG
+|source_name=格拉利昂的半身人
+|source_url=https://pf1chm.pages.dev/topics/page_509.html
+}}

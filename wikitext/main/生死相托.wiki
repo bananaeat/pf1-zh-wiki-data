@@ -1,0 +1,8 @@
+{{Trait
+|name=生死相托
+|english_name=Tight Bonds
+|type=家庭
+|description=无论是兄弟姐妹、配偶还是同宗忠诚成员，选择这个特质的角色对彼此承诺不可分离。你的伙伴或伴侣也必须拥有这个特质。当你的伴侣或伙伴在你60尺范围内时，你在对抗魅惑和胁迫效果的意志豁免上获得+1背景加值；若该效果命令你损害你们的关系或伤害伙伴，这个加值提高为+3。
+|source_name=部属与伙伴
+|source_url=https://pf1chm.pages.dev/topics/page_1347.html
+}}

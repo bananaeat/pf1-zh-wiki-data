@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=精类之友
+|english_name=Friend of the Fey
+|type=地区
+|prerequisites=林诺姆诸王国
+|description=你从小就生活在精类生物附近，与它们有着特殊的关系。你对精类生物进行的[[交涉]]检定获得+2背景加值。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Friend%20of%20the%20Fey
+}}

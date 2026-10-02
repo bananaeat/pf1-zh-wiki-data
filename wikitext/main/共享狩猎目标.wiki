@@ -1,0 +1,11 @@
+{{Feat
+|name=共享狩猎目标
+|english_name=Shared Quarry
+|categories=战斗
+|description=当你与同伴共同作战时，你们可以熟练地干掉特定的目标。
+|prerequisites=猎手羁绊职业特性，狩猎目标职业特性。
+|benefit=在对抗你的狩猎目标时，受益于你猎手羁绊提供的宿敌加值的盟友可以获得额外的好处。受益的盟友对你狩猎目标的攻击骰获得+1洞察加值，确认重击时此加值增加到+4。 如果你的猎手羁绊是一个[[动物伙伴]]，当你指定一个狩猎目标后，你的动物伙伴将获得你的狩猎目标的全部益处。
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh03ef2e8763.htm
+}}

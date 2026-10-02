@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=蚀日超魔权杖
+|english_name=Rod of Metamagic, Eclipsed
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Metamagic, Eclipsedlesser
+|cat=权杖
+|aura=强烈（无学派）
+|cl=17
+|slot=无
+|price=1,500 gp（次等）；5,500 gp（普通）；12,250 gp（高等）
+|weight=5磅
+|description=持用者每天至多可以施放3个法术，改变该法术提高或降低受影响区域照明等级的方式，如同使用[[蚀日法术]]专长一样。
+|req=[[制造权杖]]、[[蚀日法术]]
+|cost=750 gp（次等）；2,750 gp（普通）；6,125 gp（高等）
+|source=阴影血脉
+}}

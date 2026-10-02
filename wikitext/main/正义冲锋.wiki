@@ -1,0 +1,12 @@
+{{Feat
+|name=正义冲锋
+|english_name=Charge of the Righteous
+|categories=战斗
+|description=你坚定行使正义的信念，勇猛地冲击污秽的亡灵和魔物。
+|prerequisites=基础攻击加值+1，任意善良阵营
+|benefit=如果你对一个不死生物或是邪恶异界生物发动冲锋，你不会在冲锋后承受AC上的-2减值。
+|normal=你在发动冲锋攻击后在AC上承受-2减值直到你的下一轮开始。
+|source=FoP/FoB/FoC、ISG
+|source_name=纯善／平衡／堕落信念、内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}

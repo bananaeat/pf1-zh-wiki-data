@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=无缝人皮
+|english_name=Seamless Skin
+|aon=MagicWondrousDisplay.aspx?FinalName=Seamless Skin
+|cat=奇物
+|aura=强烈死灵系
+|cl=14
+|slot=躯体
+|price=70,000 gp
+|weight=8磅
+|description=这张皮取自某个特定的类人生物，并经魔法保存。任何体型与被剥皮生物相差不超过一个体型类别的生物，都可以花1分钟披上这张皮，随后穿戴者获得被剥皮生物生前的外貌和体型，以及法术[[变身术]]所规定的该生物的能力，但不包括其免疫、武器熟练、弱点或法术抗力。除此之外，该效果的作用如同[[腐肉假身]]。
+|req=[[制造奇物]]、[[腐肉假身]]
+|cost=35,000 gp
+|source=内海诡道
+}}

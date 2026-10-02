@@ -1,0 +1,9 @@
+{{Feat
+|name=毒性分泌物
+|english_name=Toxic Secretions
+|description=你不同寻常的饮食让你能制造出比同族更多的毒药
+|prerequisites=[[树蛙人]]，毒性皮肤种族替换特性
+|benefit=你获得额外两次的毒性皮肤能力的每日使用次数。这个专长可以多次选择。
+|normal=树蛙人的毒性皮肤种族替换特性每天只能使用一次。
+|source_name=药剂与毒药
+}}

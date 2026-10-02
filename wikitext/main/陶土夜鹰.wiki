@@ -1,0 +1,9 @@
+{{装备
+|name=陶土夜鹰
+|english_name=Clay whippoorwill
+|cat=冒险装备
+|price=5 gp
+|weight=1/2磅
+|description=除了作为一种适用于[[表演]]（吹奏）检定的乐器以外，这种被精心制作的夜鹰形陶土球笛也可以使秘密哨语“夜歌”（见第37页）的有效距离翻倍，达到1,000尺。
+|source=内海神殿
+}}

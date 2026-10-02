@@ -1,0 +1,10 @@
+{{危害
+|name=厄运
+|english_name=Unluck
+|kind=诅咒
+|type=诅咒
+|save=意志 DC 20
+|frequency=1次/小时
+|effect=目标必须重骰任何由GM决定的投骰，并取较差的结果。
+|source=核心规则书
+}}

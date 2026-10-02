@@ -1,0 +1,15 @@
+{{Spell
+|name=撕扯肢体 IV
+|english_name=Rend body iv
+|school=塑能系
+|levels=异能者 8
+|action=整轮动作
+|components=姿势
+|range=近距
+|target=一个生物
+|duration=立即
+|save=强韧，通过则部分生效（见描述）
+|sr=是
+|description=该法术的功能如同撕扯肢体III一般，除了目标承受每个你的施法者等级1d8点伤害（最大20d8点伤害），另外当造成了超过目标1/4最大生命值的伤害时，目标的一个肢体就会被扯断。该法术可以被降阶施法。
+|source=异能选集
+}}

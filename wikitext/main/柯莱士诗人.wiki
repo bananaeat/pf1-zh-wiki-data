@@ -1,0 +1,9 @@
+{{Trait
+|name=柯莱士诗人
+|english_name=Shaer
+|type=地区
+|prerequisites=卡蒂亚本地出身，母语为柯莱士语
+|benefit=卡蒂亚是一片充满诗歌的土地，而你从小就沉浸在那种文化的语言文字之中。当你开口说话时，你运用这种语言的娴熟程度对所有人来说都显而易见。当你与任何精通柯莱士语的人交谈时，你在[[唬骗]]和交涉检定上+2背景加值。
+|source_name=缘界英雄Heroes from the Fringe
+|source_url=https://pf1chm.pages.dev/topics/zh75ffd12667.htm
+}}

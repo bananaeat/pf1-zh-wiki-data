@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=破浪者雕像
+|english_name=Wavecutter's Figurine
+|aon=MagicWondrousDisplay.aspx?FinalName=Wavecutter's Figurine
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=无
+|price=6,000 gp
+|weight=2磅
+|description=这座刻有符文的木制鱼形小雕像摸起来非常光滑。把它放在任何大型水上载具（如划艇或船载小艇）的船舵处时，船与水之间的摩擦会大幅降低，使船只在水中滑行得更顺畅、更迅捷。船只的各项最大速度获得+20尺的增强加值。
+|req=[[制造奇物]]、[[海洋之触]]
+|cost=3,000 gp
+|source=冒险之路124：深海之城
+}}

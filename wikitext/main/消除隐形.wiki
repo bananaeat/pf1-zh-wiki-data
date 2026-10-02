@@ -1,0 +1,17 @@
+{{Spell
+|name=消除隐形
+|english_name=Invisibility Purge
+|school=塑能系
+|levels=先知 3;唤魂师 3;审判者 3;战斗祭司 3;牧师 3;秘学士 3
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|target=自己
+|duration=1分钟/等级 (可解消)
+|description=你被一种可以中和任何形式[[隐形]]的球形力量所包围，该球形的半径是每CL5尺。
+
+任何隐形事物在此区域内都会显形。
+|source=核心规则书
+}}
+
+{{FAQ|v5748eaic9o62}}

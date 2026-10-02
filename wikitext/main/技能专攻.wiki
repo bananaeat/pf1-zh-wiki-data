@@ -1,0 +1,15 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[技能专攻 (神话)]]。</small></div>
+{{Feat
+|name=技能专攻
+|english_name=Skill Focus
+|description=选择一项技能。你特别擅长该技能。
+|benefit=你在所有涉及该技能的检定上获得+3加值。如果你该技能的等级为10或更高，此加值提升为+6。
+|special=你可以多次选取此专长。其效果不叠加。每次你获得此专长时，它作用于一种新技能。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[优雅翱翔]]、[[地狱猫之潜藏]]、[[大海捞针]]、[[展翅]]、[[游泳大师]]、[[知识大师]]、[[解码神秘]]、[[迷宫专家]]、[[雄辩家]]、[[魔鬼说客]]（10 个条目）

@@ -1,0 +1,48 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #70: The Frozen Stars
+|authors=Matthew Goodall
+|pages=96
+}}
+
+{{书页/简介|head=异域寒冬|1=
+继续追寻芭芭雅嘎的下落，英雄们驾着舞动小屋前往特里亚克萨斯（Triaxus）——格拉利昂所在恒星系的第七个世界，眼下正处在持续数十年的漫长寒冬之中。为了寻找更多关于芭芭雅嘎行踪的线索，英雄们很快被卷入天火盟约（Skyfire Mandate）的异星龙骑士与一位白龙军阀麾下的蛮族大军之间的冲突，后者意图征服类人生物的土地。PC 们会为获取所需情报而与交战的一方结盟，还是说，他们的探寻将终结在遥远的异星？
+
+本册《冒险之路》延续「冬临天下」冒险之路，内容包括：
+
+* 《冰冻之星》，一部面向 10 级角色的开拓者角色扮演游戏冒险，作者 Matthew Goodall。
+* 特里亚克萨斯——一颗有龙骑战士、季节长达数代人的奇异行星——的特别双倍篇幅地志，作者 James L. Sutter。
+* 越过白骨之桥，窥见伊利森魔法人偶的骇人秘密，作者 Kevin Andrew Murphy。
+* 四种令人兴奋的新怪物，作者 Adam Daigle、Amanda Hamon 和 James L. Sutter。
+}}
+
+'''冒险之路70：冰冻之星'''（''Pathfinder #70: The Frozen Stars''）是[[冒险之路]]「冬临天下」系列的第四部冒险，由 Matthew Goodall 撰写，配套内容出自 Adam Daigle、Amanda Hamon 和 James L. Sutter，小说出自 Kevin Andrew Murphy，于 2013 年 5 月 29 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+冰冻之星 @ 6
+NPC 图集 @ 56
+冬临天下宝藏 @ 62
+- 高山冰镐（alpine ice axe）
+- 龙息护符（amulet of dragon's breath）
+- 冬季探险者僧袍（habit of the winter explorer）
+- [[驭龙者之革甲]]
+- 黑曜石渡鸦（obsidian raven）
+- [[白霜刃]]
+- 真霜灵药（truefrost elixir）
+巨龙行星 @ 64
+探索者日志：骨粉玩偶（4／6） @ 76
+怪物图鉴 @ 82
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=The Frozen Stars
+|releases=PDF¦PZO9070E¦2013-05¦；Softcover¦PZO9070¦2013-05¦978-1-60125-495-5
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=骏马精神
+|english_name=Spirit Steed
+|type=Su
+|categories=杂项
+|prerequisites=[[野蛮人]]6级，[[狂暴坐骑]]
+|benefit=野蛮人骑乘且狂暴的时候，野蛮人的坐骑获得“1/2野蛮人等级/魔法”的DR。坐骑的天生武器在穿透DR时视作魔法武器。
+|source_name=进阶玩家指南
+}}

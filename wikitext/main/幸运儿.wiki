@@ -1,0 +1,14 @@
+{{Feat
+|name=幸运儿
+|english_name=Fortunate One
+|description=你比大多数[[半身人]]更会操控运气。
+|prerequisites=【万用幸运】种族特性，半身人。
+|benefit=你的【万用幸运】[[种族特性]]的每日使用次数增加1次。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[万用强运]]（1 个条目）

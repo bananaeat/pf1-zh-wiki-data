@@ -1,0 +1,16 @@
+<noinclude>{{速查导航|here=规则}}
+'''紧勒'''（Constrict）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：特殊攻击</span></div>
+</noinclude><includeonly><div class="lang"><span id="紧勒"></span><div class="lang-h"><b>[[紧勒]]</b><i>Constrict</i><span class="lang-w">Ex · 特殊攻击</span></div><div class="lang-d"></includeonly>
+当生物做了一个成功的擒抱检定时，他可以使用这种特殊攻击挤压敌人，造成钝击伤害 (可与成功检定引起的其他效果共存，包括额外伤害)。伤害数值已经在该生物的介绍中给出，并且通常等于该生物近战攻击造成的伤害。
+
+'''格式'''：紧勒 (1d8+6)
+<includeonly></div></div></includeonly>
+
+{{FAQ|v5748eaic9nid}}
+
+<noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Constrict|2=Constrict}}
+
+[[分类:通用怪物规则]]</noinclude>

@@ -1,0 +1,43 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=虎鱼
+|english_name=Tiger Fish
+|cr=1
+|xp=400
+|alignment=绝对中立
+|size=中型
+|type=动物
+|subtypes=水栖
+|init=+2
+|senses=昏暗视觉；察觉 +8
+|description=这条身躯强壮的鱼嘴里满是致命的、狼牙般的利齿。
+|ac=13，接触 12，措手不及 11（+2 敏捷，+1 天生）
+|hp=16（3d8+3）
+|fort=+4
+|ref=+5
+|will=+2
+|speed=游泳 50 尺
+|melee=啮咬 +4（1d6+3）
+|special_attacks=交锁啮咬
+|str=15
+|dex=14
+|con=13
+|int=1
+|wis=12
+|cha=2
+|bab=+2
+|cmb=+4（擒抱时 +8）
+|cmd=16
+|feats=[[技能专攻]]（察觉）;[[技能专攻]]（游泳）
+|skills=[[察觉]] +8;[[隐匿]] +6;[[游泳]] +17
+|environment=温暖的河流或沼泽
+|organization=单独，成对，小群（3–5），或大群（5–20）
+|treasure=无
+|special_abilities={{怪物能力|交锁啮咬|Ex|虎鱼在所有拖拽战技上获得 +2 加值，并且每当啮咬攻击命中目标时，都可以发起一次拖拽战技。虎鱼发起拖拽战技时不会引发借机攻击。}}
+|source=冒险之路56：热病海劫掠者
+|lore=
+虎鱼游弋于热带水道，修长的流线型身躯为速度而生。它们体长可达 6 尺，体重可达 150 磅。
+}}
+
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Tiger Fish|2=Tiger Fish}}

@@ -1,0 +1,15 @@
+{{Spell
+|name=螺旋下降
+|english_name=Spiral descent
+|school=咒法系 (传送)
+|levels=先知 2;审判者 2;战斗祭司 2;牧师 2
+|action=标准动作
+|components=语言;姿势
+|range=远距（400尺+40尺/等级）
+|target=你和接触到的物体
+|duration=立即
+|save=意志，通过则无效（物体）
+|sr=是（物体）
+|description=该法术如同[[螺旋上升]]一般起效，除了目的地和旅行方向是从你当前位置向下。
+|source=内海神殿
+}}

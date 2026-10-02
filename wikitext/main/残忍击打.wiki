@@ -1,0 +1,10 @@
+{{Feat
+|name=残忍击打
+|english_name=Merciless Beating
+|categories=战斗
+|prerequisites=智力13，[[寓守于攻]]，[[一拥而上]]（APG）。
+|benefit=当你和两个或更多盟友同时威胁同一个敌人，你可以选择放弃自己对该敌人的[[夹击]]奖励，代之以给每个盟友对该敌人的+1夹击奖励，此加值与盟友原本获得的夹击奖励叠加。
+|source=THH
+|source_name=哈罗牌手册
+|source_url=https://pf1chm.pages.dev/topics/zh6af278c423.htm
+}}

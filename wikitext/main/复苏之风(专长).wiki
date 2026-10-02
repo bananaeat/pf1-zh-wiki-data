@@ -1,0 +1,12 @@
+{{消歧义|再战之力}}
+{{Feat
+|name=复苏之风
+|english_name=Second Wind
+|categories=战斗;演武
+|pfs=否
+|description=观众的吼声使你的决心更加坚定。
+|prerequisites=坚忍
+|benefit=当你用一个迅捷动作做演武检定时，该次演武检定获得+2加值；如果此时你处于战栗、恶心或疲乏状态，直到你的下一个回合结束之前，这些状态都将被抑制。
+|source_name=正义之路
+|source_url=https://pf1chm.pages.dev/topics/zh0cfe867645.htm
+}}

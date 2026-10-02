@@ -1,0 +1,10 @@
+{{Feat
+|name=仇灾魔法
+|english_name=Foebane Magic
+|description=你使用的法术对你的宿敌特别有效。
+|prerequisites=能够施展1环法术，宿敌职业能力。
+|benefit=你的宿敌在对抗由你施放的法术时在豁免上承受-1的罚值。此外，你在以[[法术辨识]]检定来辨识由你的宿敌所施放的法术时，该检定也获得你的宿敌加值。
+|source=UW、HotW
+|source_name=极限荒野、荒野英雄
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

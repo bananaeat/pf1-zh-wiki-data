@@ -1,0 +1,16 @@
+{{Spell
+|name=群体苦痛刑罚
+|english_name=Inflict Pain, Mass
+|school=惑控系
+|tags=影响心灵;痛苦
+|levels=反圣武士 4;通灵者 4;催眠师 5;唤魂师 5;审判者 5;秘学士 5;异能者 6;奥能师 7;女巫 7;术士 7;法师 7
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=每等级一个生物，任意两者之间的距离不超过30尺
+|duration=1轮/等级
+|save=意志，通过则部分生效；见后文
+|sr=是
+|description=除了上文所述内容之外，该法术的功能如同[[苦痛刑罚]]一般。
+|source=异能冒险
+}}

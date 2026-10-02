@@ -1,0 +1,15 @@
+{{魔法物品
+|name=奥术能量头带
+|english_name=Headband of Arcane Energy
+|aon=MagicWondrousDisplay.aspx?FinalName=Headband of Arcane Energy
+|cat=奇物
+|aura=强烈塑能系
+|cl=13
+|slot=头饰
+|price=20,000 gp
+|weight=1磅
+|description=这条头带上有红、绿、蓝三色水晶排成的三道盘旋纹样，沿头带弧形延伸。每天三次，穿戴者可以牺牲一个奥术法术，制造一次攻击性的冲击或防御性的护盾。冲击是射程30尺的远程[[接触攻击]]，每牺牲一环法术等级造成1d6点能量伤害（寒冷、电击或火焰）。护盾造成一圈盘旋的能量环带，持续1轮，使穿戴者获得等于2+所牺牲法术等级的偏斜AC加值。
+|req=[[制造奇物]]、[[奥能爆发]]、[[奥能之盾]]、[[虹光喷射]]
+|cost=10,000 gp
+|source=极限宝具
+}}

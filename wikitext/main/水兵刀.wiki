@@ -1,0 +1,16 @@
+{{武器
+|name=水兵刀
+|english_name=Cutlass
+|category=武器
+|prof=军用
+|wcat=单手
+|price=15 gp
+|weight=4磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=18–20/×2
+|type=挥砍
+|groups=重刃
+|description=水手船员们很喜欢用这种有着弯弧刀身的短刀进行白刃战，水兵刀在判断任何适用于弯刀的效果时都视作是弯刀。
+|source=Skull & Shackles Player's Guide、内海海盗、恶棍志、冒险者的军械库2
+}}

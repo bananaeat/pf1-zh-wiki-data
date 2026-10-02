@@ -1,0 +1,12 @@
+{{Feat
+|name=夹击啮咬
+|english_name=Snapping Flank
+|categories=战斗;团队
+|pfs=否
+|description=你可以撕咬被夹击而无暇他顾的敌人
+|prerequisites=基础攻击加值+9，啮咬攻击能力
+|benefit=当你与一个拥有本专长的盟友夹击一个目标时，你可以以一个迅捷动作对被你夹击的目标发动一次啮咬攻击。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1405.html
+}}

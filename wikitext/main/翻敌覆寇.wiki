@@ -1,0 +1,10 @@
+{{Feat
+|name=翻敌覆寇
+|english_name=Topple Foe
+|categories=战斗;团队
+|description=你和你的盟友能齐心协力[[摔绊]]巨大的敌人
+|prerequisites=[[寓守于攻]]，[[精通摔绊]]
+|benefit=只要一个拥有翻敌覆寇专长的盟友与你夹击敌人，则你在摔绊一个体型比你大的敌人时，摔绊的CMB检定获得+1加值。如果多个拥有翻敌覆寇的盟友与你夹击敌人，则每多一个与你夹击的盟友，你便额外获得+2加值到你的CMD检定上（译注：AoN 原文作「+2 bonus on your CMD check」，疑为笔误，应为 CMB 检定。）。这个专长获得的加值与[[精通摔绊]]和[[高等摔绊]]专长叠加。<br>每当你在连续的回合中试图摔绊同一个敌人时，你摔绊检定获得的加值增加+1/每个盟友，最多在连续摔绊的第4轮达到+4/每个夹击的盟友。
+|source_name=敌手指南
+|source_url=https://pf1chm.pages.dev/topics/zh338f7792a5.htm
+}}

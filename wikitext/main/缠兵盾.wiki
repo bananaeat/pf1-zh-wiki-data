@@ -1,0 +1,13 @@
+{{防具
+|name=缠兵盾
+|english_name=Snarlshield, steel
+|acat=盾牌
+|price=钢制 50 gp；木制 37 gp
+|weight=钢制 20磅；木制 15磅
+|ac=+2
+|maxdex=—
+|acp=–3
+|asf=15%
+|description=缠兵盾是一面表面竖立着十二根棒杆的重盾。当用这面盾牌向对手发动盾击时，缠兵盾具有卸武特性（核心规则书144页）。
+|source=格拉利昂的侏儒、冒险者的军械库2
+}}

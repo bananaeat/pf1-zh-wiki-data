@@ -1,0 +1,10 @@
+{{Trait
+|name=骑手羁绊
+|english_name=Rider's Bond
+|type=战斗
+|prerequisites=与终焉之墙守望城堡的宫廷有关联
+|description=你的坐骑会极为敏锐明白你的命令。如果你从职业能力中获得了一匹马作为[[动物伙伴]]或坐骑，它会获得额外两个技巧并且不计入通常的动物可知技巧限制。
+|source_name=皇庭英豪
+|source=HotHC
+|source_url=https://pf1chm.pages.dev/topics/zh4539efed66.htm
+}}

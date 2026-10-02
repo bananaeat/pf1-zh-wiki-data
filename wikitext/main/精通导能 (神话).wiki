@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[精通导能]] 的神话版本。</small></div>
+{{Feat
+|name=精通导能
+|english_name=Improved Channel
+|categories=神话
+|description=凡人无法抵御你所引导的神圣之力。
+|prerequisites=[[精通导能]]
+|benefit=非神话生物在受到你的[[引导能量]]造成的伤害时，必须投掷两次豁免并取较低的结果。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

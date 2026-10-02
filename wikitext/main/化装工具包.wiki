@@ -1,0 +1,9 @@
+{{装备
+|name=化装工具包
+|english_name=Disguise kit
+|cat=工具
+|price=50 gp
+|weight=8磅
+|description=这套工具包里有化妆品、假胡须之类的用具，能为易容检定提供+2环境加值。化装工具包使用10次后即告耗尽。
+|source=核心规则书、极限宝具
+}}

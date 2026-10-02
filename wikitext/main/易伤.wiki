@@ -1,0 +1,16 @@
+<noinclude>{{速查导航|here=规则}}
+'''易伤'''（Vulnerabilities）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex 或 Su</span><span class="sk-f">位置：弱点</span></div>
+</noinclude><includeonly><div class="lang"><span id="易伤"></span><div class="lang-h"><b>[[易伤]]</b><i>Vulnerabilities</i><span class="lang-w">Ex 或 Su · 弱点</span></div><div class="lang-d"></includeonly>
+拥有易伤的生物，不管是否允许豁免、豁免成功与否，都会额外承受一半（+50%）特定能量类型的伤害。具有非能量类型易伤的生物，在对抗造成或使用所列易伤的法术或效果（例如带有〔光〕描述符的法术）时，豁免检定承受 –4 减值。有的生物可能还会遭受其他效果，详情在其描述中列出。
+
+'''格式'''：火焰易伤
+<includeonly></div></div></includeonly>
+
+{{FAQ|v5748eaic9o83}}
+
+<noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Vulnerabilities|2=Vulnerabilities}}
+
+[[分类:通用怪物规则]]</noinclude>

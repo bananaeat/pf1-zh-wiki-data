@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Carrion Crown Player's Guide pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=偶然救星
+|english_name=Chance Savior
+|type=战役
+|pfs=否
+|description=不久之前的某一天，命运同时眷顾了你和罗里莫尔教授。纯属偶然，你恰好有机会救下这位已故学者的性命，而你也这么做了。他对你感激不尽，并承诺永远不会忘记你。你不确定他在遗嘱中召唤你是何用意，但相信他或许把你列为可能的继承人之一，以感谢你让他免于横死。
+
+你随机应变的能力一直伴随着你，你也常常觉得自己总能在对的时间出现在对的地点。你的先攻检定获得+2背景加值。
+|source_name=Carrion Crown Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Chance%20Savior
+}}

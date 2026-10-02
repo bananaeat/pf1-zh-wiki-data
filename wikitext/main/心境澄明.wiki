@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=心境澄明
+|english_name=Moment of Clarity
+|type=Ex
+|categories=杂项
+|benefit=野蛮人可以忽视狂暴所带来的负面效果，为时1轮。使用此[[狂暴之力]]是一个[[迅捷动作]]。这包括了AC减值和可行动作的限制。此轮依旧算在野蛮人每日狂暴轮数中。
+|special=野蛮人每次狂暴只能使用1次此能力。
+|source_name=核心规则书
+}}

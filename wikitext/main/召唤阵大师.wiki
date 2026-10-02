@@ -1,0 +1,9 @@
+{{Trait
+|name=召唤阵大师
+|english_name=Master of Pentacles
+|type=派系
+|description=多年沉浸于召唤艺术的研究使你在这项精妙又复杂的技艺上拥有独一无二的知识。每日一次，当你释放一个咒法学派法术时，将你的施法者等级提高两级来决定法术的持续时间。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

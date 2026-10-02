@@ -1,0 +1,28 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[巨虫术 (神话)]]。</small></div>
+{{Spell
+|name=巨虫术
+|english_name=Giant Vermin
+|school=变化系
+|domains=昆虫子域 4
+|levels=先知 4;德鲁伊 4;战斗祭司 4;牧师 4;猎人 4;萨满 4
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=近距
+|target=一只或更多虫子，任意两者之间的距离不超过30尺
+|duration=1分钟/等级
+|save=无
+|sr=是
+|description=你能够将一些正常体型的蜈蚣、蝎子或蜘蛛变为巨大化的对应版本（译注：即怪物图鉴中名称带「巨型」的对应虫子。）。你只能转变一类虫子 (因此单次施法不能同时影响一只蜈蚣和一只蜘蛛)。你能够使用该法术影响的虫子数量取决于你的CL，详见下表。
+
+通过该法术创造的任何巨虫都不会尝试伤害你，但是你只能用有限的简单命令来控制这些生物 (“攻击”、“防御”、“停止”等等)。在特定生物出现时对其攻击或者防止特定事件发生之类的命令，对于虫子都太过复杂而无法理解。除非另有命令，否则巨虫会攻击任何靠近它们的东西。
+
+<table class="wikitable">
+<tr><th>CL</th><th>蜈蚣</th><th>蝎子</th><th>蜘蛛</th></tr>
+<tr><td>9以下</td><td>3</td><td>1</td><td>2</td></tr>
+<tr><td>10 – 13</td><td>4</td><td>2</td><td>3</td></tr>
+<tr><td>14 – 17</td><td>6</td><td>3</td><td>4</td></tr>
+<tr><td>18 – 19</td><td>8</td><td>4</td><td>5</td></tr>
+<tr><td>20以上</td><td>12</td><td>6</td><td>8</td></tr>
+</table>
+|source=核心规则书
+}}

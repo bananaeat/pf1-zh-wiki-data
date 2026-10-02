@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[随手投掷]] 的神话版本。</small></div>
+{{Feat
+|name=随手投掷
+|english_name=Throw Anything
+|categories=神话
+|description=你很擅长投掷武器，不过你丢出去的是什么并不重要。
+|prerequisites=[[随手投掷]]
+|benefit=当你使用临时投掷武器或溅射武器攻击时，攻击检定与伤害检定均会获得+2加值。这些加值与非神话版的[[随手投掷]]专长的加值叠加。如果你在投掷溅射武器时失手，它总是会落在与目标相邻的位置，无论投掷了多少个射程增量。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

@@ -1,0 +1,16 @@
+{{武器
+|name=带刺重盾
+|english_name=Spiked heavy shield
+|category=武器
+|prof=军用
+|wcat=单手
+|price=17 gp/30 gp
+|weight=特殊
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×2
+|type=穿刺
+|groups=贴身
+|description=带刺盾牌是威慑武器，可能拥有一根盾面正中的尖刺、剃刀状的盾缘、或是一整片致命的突刺。除了防御，你还能用带刺重盾猛砸敌人。带刺重盾无法被[[卸武]]。详述请查看盔甲部分的甲刺条目。
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=察言观色
+|english_name=Sensing Imperfection
+|type=宗教
+|prerequisites=[[半身人]]，信仰[[义洛理]]
+|description=你对于义洛理的信仰令你能察觉谎言和掩饰。察言观色是你的[[本职技能]]，你在察言观色检定上获得+1背景加值。
+|source_name=宗教背景
+|source=HoG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

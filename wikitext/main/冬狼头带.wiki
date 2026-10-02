@@ -1,0 +1,15 @@
+{{魔法物品
+|name=冬狼头带
+|english_name=Winter Wolf Headband
+|aon=MagicWondrousDisplay.aspx?FinalName=Winter Wolf Headband
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=头饰
+|price=32,000 gp
+|weight=1磅
+|description=这条头带由苍白的骨头或银制成，正中央位于穿戴者前额处有一个龇牙咆哮的狼头。穿戴者获得寒冷抗力10。每天一次，穿戴者可以变身为一头大型白毛狼，持续11分钟。此外，每天一次，穿戴者可以喷吐一道30尺锥形的寒冷吐息，造成7d6点寒冷伤害（DC 16反射豁免减半）。即使在变身状态下，穿戴者也可以使用这一喷吐武器。
+|req=[[制造奇物]]、[[野兽形态 II]]、[[龙息术]]、[[抵抗能量伤害]]
+|cost=16,000 gp
+|source=极限宝具
+}}

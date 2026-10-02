@@ -1,0 +1,14 @@
+{{魔法物品
+|name=幽魂视觉灵药
+|english_name=Elixir of Spirit Sight
+|aon=MagicWondrousDisplay.aspx?FinalName=Elixir of Spirit Sight
+|cat=奇物
+|aura=微弱预言系、变化系
+|cl=5
+|slot=无
+|price=1,000 gp
+|description=这种灵药看上去像是由浓稠的蒸气而非液体制成，开塞时会不断发出轻柔的低语。在1分钟内，饮用者获得[[识破隐形]]的能力（如同该法术），并且他的武器和护甲被视为拥有[[幽冥(武器附魔)|幽冥]]特殊能力。
+|req=[[制造奇物]]、[[异界传送]]、[[识破隐形]]
+|cost=500 gp
+|source=冒险之路39：七矛之城
+}}

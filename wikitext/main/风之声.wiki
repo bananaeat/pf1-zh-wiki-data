@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''风之声'''（Voice of The Wind, Sp）是[[操念使]]的[[原力]]。
+
+元素：气；类别：通用（Sp）；等级：1；超载：0
+
+豁免：无；[[特殊能力#法术抗力|法术抗力]]：可
+
+当你低语时，你能够让风携带着你的声音传入120尺内任何你能够看到的人的耳中，就如同它们是你所施放的[[传讯术]]的目标之一一般。此外，你能够把你的声音送到某个特定地点，就如同[[风讯术]]一般。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Voice of the Wind|2=Voice of the Wind}}
+
+[[分类:原力]]

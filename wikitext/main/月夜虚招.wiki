@@ -1,0 +1,16 @@
+{{Feat
+|name=月夜虚招
+|english_name=Moonlight Stalker Feint
+|categories=战斗
+|description=你的攻击自阴影中而来，对手全然无法反应。
+|prerequisites=智力13，[[盲斗]]，[[寓守于攻]]，[[精通虚招]]，[[月夜伏击者]]，[[唬骗]]6级，【黑暗视觉】或【昏暗视觉】种族特性。
+|benefit=每轮一次，当你对一个对手获得[[隐蔽]]，你可以用[[迅捷动作]]对其进行一次[[唬骗]]检定来发动[[虚招]]。
+|normal=使用虚招是一个[[标准动作]]。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[月夜伏击大师]]（1 个条目）

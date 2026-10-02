@@ -1,0 +1,15 @@
+{{魔法物品
+|name=水元素魔术之杯
+|english_name=Bowl of Conjuring Water Elementals
+|aon=MagicWondrousDisplay.aspx?FinalName=Bowl of Conjuring Water Elementals
+|cat=奇物
+|aura=中等咒法系
+|cl=11
+|slot=无
+|price=90,000 gp
+|weight=3磅
+|description=这个大容器通常以银制成，带有波纹状的图案，直径约1尺，深度约为其一半。杯中必须灌满淡水或盐水才能起效。以一个整轮动作发出命令，持有者可以召唤一只水元素。如果杯中盛的是盐水，则会召唤一只超大型水元素，如同使用[[召唤怪物 VI]]；如果盛的是淡水，则会召唤一只大型水元素，如同使用[[召唤怪物 V]]。召唤出元素会让杯子变空。在前一只元素被遣散、被杀死或其召唤持续时间结束之前，杯子无法召唤另一只元素。
+|req=[[制造奇物]]、[[召唤怪物 V]]、[[召唤怪物 VI]]
+|cost=45,000 gp
+|source=极限宝具
+}}

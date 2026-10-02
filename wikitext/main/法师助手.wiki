@@ -1,0 +1,10 @@
+{{装备
+|name=法师助手
+|english_name=Mage's assistant
+|cat=酊剂
+|price=150 gp
+|weight=—
+|craft_dc=20
+|description=这种深蓝色的液体中布满了色彩斑斓的矿物斑点。在饮下酊剂的1小时内，你在专注检定上获得+5炼金加值。增强的专注力使你在相同的持续期间内察觉和察言观色检定上承受-2罚值。
+|source=药剂与毒药
+}}

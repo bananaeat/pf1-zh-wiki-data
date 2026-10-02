@@ -1,0 +1,19 @@
+{{物品
+|name=勇敢的象征
+|english_name=Token of Gallantry
+|category=冒险装备
+|aura=昏暗变化系
+|cl=3级
+|slot=无（none）
+|price=2,400GP
+|weight=-磅
+|requirements=[[制造奇物]]，阵营武器（align weapon），[[关照术]]
+|cost=1,200GP
+|description=出自：Heroes of the High Court pg. 13
+
+描述：
+
+该[[恩泽]]是一种蕾丝手帕或丝绸[[服饰]]的碎片并系在一柄近战武器的配重球或握柄上。在24小时内，该武器在击破伤害减免的目的上成为善良[[阵营武器]]。只要恩泽（favor）处于激活状态，该象征不会变脏或血污。
+|source=HotHC
+|source_name=皇庭英豪
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=心无尘
+|english_name=Focused Mind
+|type=魔法
+|description=你的童年可能被某种科班课程(音乐、学术等等)所占据；又或是糟糕的家庭氛围迫使你专注于手头的工作、锻炼了你不被干扰的本领。你的专注检定获得+2背景加值。
+|source_name=魔法背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

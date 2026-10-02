@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=船长眼罩
+|english_name=Captain's Eye Patch
+|aon=MagicWondrousDisplay.aspx?FinalName=Captain's Eye Patch
+|cat=奇物
+|aura=中等预言系
+|cl=11
+|slot=眼部
+|price=46,000 gp
+|description=这块黑色天鹅绒眼罩系在一条缟玛瑙链子上，链子绕头佩戴。眼罩赋予穿戴者60尺的黑暗视觉。此外，穿戴者可以用一个[[标准动作]]说出眼罩的命令字，从而看穿强力的魔法黑暗（例如[[深幽黑暗术]]的作用区域），每日至多11分钟。这段时间不必一次用完，但必须以1分钟为单位使用。结束该效果是一个[[自由动作]]。
+|req=[[制造奇物]]、[[黑暗视觉(法术)]]、[[真知术]]
+|cost=23,000 gp
+|source=商人货单
+}}

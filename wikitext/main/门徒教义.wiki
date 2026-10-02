@@ -1,0 +1,46 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Disciple's Doctrine
+|authors=Saif Ansari、Mara Lynn Butler、Jeffrey Hersh、Vanessa Hoskins、Lyz Liddell、Luis Loza、Linda Zayas-Palmer
+|pages=32
+}}
+
+{{书页/简介|head=信之，则信仰自会供给|1=
+有信仰并不总意味着崇拜某位神明。从格拉利昂最偏远的角落到各大城市的中心，许多信徒在奉行晦涩信条与复杂哲学的小型会众中找到信仰。《开拓者玩家伴侣：门徒教义》探讨了其中十几个教派与传统，包括廷臣之眼秘会（Esoteric Order of the Palatine Eye）、玛格尼玛（Magnimar）的秘仪教派、天夏渤骊（Po Li）的[[天机庭]]（Oracular Council）、[[卡利斯拉德先知]]等团体。去了解这些鲜为人知的团体吧，并发掘真正的信仰与深厚的传统所能开启的职业与角色选项。
+
+本书内容包括：
+
+* 大量面向有虔信或教条背景者的角色特性，包括为崇敬户外的人准备的[[自然仪式师]]信念特性，以及为从小接触多位神祇的人准备的[[博通众信]]社会特性。
+* 为这些教义信奉者准备的变体职业，从面向地狱骑士团成员的[[神爪之拳]]战斗祭司，到致力于了解「生命之河」善解（Sangpotshi）的[[领悟探求者]]唤魂师。
+* 大量面向信徒及向他们学习之人的法术，包括与杜鲁玛（Druma）的卡利斯拉德信徒（Kalistocrats）相关的防护法术，以及与命运先驱会（Harbingers of Fate）相关的预言法术。
+}}
+
+'''门徒教义'''（''Disciple's Doctrine''，全名 ''Pathfinder Player Companion: Disciple's Doctrine''）是开拓者玩家伴侣系列的一本资料书，由 Saif Ansari、Mara Lynn Butler 等 7 位作者撰写，于 2018 年 1 月 31 日发行。
+
+== 目录 ==
+{{书页/目录|1=
+导言 @ 2
+规则索引 @ 3
+元素和谐 @ 4
+败者教派 @ 6
+廷臣之眼秘会 @ 8
+命运先驱会 @ 10
+神爪地狱骑士团 @ 12
+玛格尼玛的秘仪教派 @ 14
+[[天机庭]] @ 16
+卡利斯拉德预言 @ 18
+活神拉兹米尔（Razmir） @ 20
+善解（Sangpotshi） @ 22
+休盎提萨满传统 @ 24
+灵四御（Tamashigo） @ 26
+信仰之具 @ 28
+信仰图像 @ 封二
+}}
+
+{{书页尾
+|pfw=Disciple's Doctrine
+|releases=Softcover¦PZO9488¦2018-01¦978-1-64078-011-8；PDF¦PZO9488E¦¦
+}}
+
+[[分类:书目]]

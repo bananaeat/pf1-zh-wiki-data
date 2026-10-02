@@ -1,0 +1,51 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #91: Battle of Bloodmarch Hills
+|authors=Patrick Renie
+|pages=96
+}}
+
+{{书页/简介|head=敌人兵临城下！|1=
+「巨人杀手」冒险之路拉开序幕！在人类小镇特鲁瑙（Trunau）——一座被贝尔克泽恩（Hold of Belkzen）的凶残兽人团团围住、深陷困境的聚居地——英雄们必须调查一桩离奇的死亡。然而，在他们查明真相之前，特鲁瑙就遭到一支[[兽人]]大军的进攻，英雄们必须协助守城，结果却发现，局势比任何人所意识到的都更糟。因为就连这场可怕的兽人袭击，也不过是个幌子，好让一位巨人酋长从小镇之下一座早已被遗忘的墓穴里，夺回一位远古巨人英雄的遗物。
+
+本册《冒险之路》开启「巨人杀手」冒险之路，内容包括：
+
+* 《血征山之战》，一部面向 1 级角色的开拓者冒险，作者 Patrick Renie。
+* 一批关于巨人习性的资料——巨人是格拉利昂体型最大的类人生物——作者 David Schwartz。
+* 一大袋专为巨人量身定制的专长、法术、装备和其他规则，作者 Stephen Radney-MacFarland。
+* 「探索者日志」中，一位倒霉的侏儒与一家[[食人魔]]的遭遇，作者 Richard Pett。
+* 一批危险的怪物，作者 Tyler Beck、Adam Daigle 和 Patrick Renie。
+}}
+
+'''冒险之路91：血征山之战'''（''Pathfinder #91: Battle of Bloodmarch Hills''）是 Patrick Renie 撰写的一部冒险，配套文章出自 David Schwartz、Stephen Radney-MacFarland、Tyler Beck 和 Adam Daigle，小说出自 Richard Pett，于 2015 年 2 月 25 日发售。它是[[冒险之路]]「巨人杀手」系列的第一章。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+血征山之战 @ 6
+NPC 图集 @ 58
+- Kurst Grath
+- Skreed Gorewillow
+巨人入门 @ 62
+巨人工具箱 @ 68
+探索者日志：离奇传说（1／6） @ 74
+怪物图鉴 @ 80
+- [[旋心山公羊]]
+- [[蹿跳山羊]]
+- [[黑嘴白鹭(怪物)|黑嘴白鹭]]
+- [[虫骸]]（模板）
+- [[爪兽]]
+- [[恐象]]
+- [[大角雷兽]]
+- [[洪水巨魔]]
+战役大纲 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Battle of Bloodmarch Hill
+|releases=PDF¦PZO9091E¦2015-02¦；Softcover¦PZO9091¦2015-02¦978-1-60125-725-3
+}}
+
+[[分类:书目]]

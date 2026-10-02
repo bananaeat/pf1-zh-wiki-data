@@ -1,0 +1,18 @@
+{{Feat
+|name=快枪
+|english_name=Snap Shot
+|categories=战斗
+|description=持用远程武器时，你不会放过对手防御中的任何破绽。
+|prerequisites=敏捷13，[[近距射击]]，[[快速射击]]，[[武器专攻]]，基本攻击加值+6。
+|benefit=当持用你所拥有[[武器专攻]]专长的远程武器时，你可以威胁5尺邻近范围。你能以远程武器发动[[借机攻击]]，并且不会因此而引发借机攻击。
+|normal=当持用远程武器时，你没有威胁范围，也无法以远程武器发动借机攻击。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[枪剑击鸣]]、[[精通快枪]]、[[高等快枪]]（3 个条目）
+
+{{FAQ|v5748eaic9oku}}

@@ -1,0 +1,11 @@
+{{消歧义|狂热(武器附魔)}}
+{{Trait
+|name=狂热
+|english_name=Zealous
+|type=缺陷
+|pfs=否
+|description=你的信仰非常狂热，情感总是压倒你的理智。
+|benefit=如果你知道目标是一个崇拜与你不同的神的异教徒，你对它的第一次攻击的攻击检定获得-5罚值而伤害骰获得+2背景加值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

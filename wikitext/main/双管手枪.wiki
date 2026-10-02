@@ -1,0 +1,21 @@
+{{武器
+|name=双管手枪
+|english_name=Double-barreled pistol
+|category=火器
+|prof=异种
+|wcat=单手
+|price=1,750 gp
+|weight=5磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×4
+|range=20尺
+|type=钝击和穿刺
+|misfire=1-2（5尺）
+|capacity=2
+|groups=火器
+|description=这把[[手枪]]有两个平行的枪管，每个枪管可以单独射击（各算一次攻击），也可以用一个[[标准动作]]（攻击动作）同时射击。如果同时射击，两个枪管必须瞄准同一生物或物体，而且手枪会变得非常不准，每发射击都受到-4减值。这是一件早期火器。
+|source=极限战斗、极限宝具
+}}
+
+{{FAQ|v5748eaic9tqm}}

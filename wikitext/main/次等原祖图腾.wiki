@@ -1,0 +1,8 @@
+{{狂暴之力
+|name=次等原祖图腾
+|english_name=Atavism Totem, Lesser
+|type=Su
+|categories=图腾
+|benefit=野蛮人获得一次啮咬攻击。如果野蛮人已经拥有了一次啮咬攻击，那么这啮咬攻击造成的伤害视为野蛮人的体型增大一级。
+|source_name=恶棍志
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=扰法铳
+|english_name=Black Powder Interjection
+|type=战斗
+|description=你在挫败对方施法时信心爆棚。每日1次，当你成功使用火器打断法术施放时，你获得1点[[枪手#勇毅|勇毅]]点数。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=异界交涉人
+|english_name=Planar Negotiator
+|aon=Planar Negotiator (Race)
+|type=种族
+|prerequisites=[[神裔]]
+|description=你十分擅长说服异界生物，使他们明白你需要帮助。每当你施放[[次等异界盟友]]、[[异界盟友]]或[[高等异界盟友]]时，召唤异界生物所需要的开销会降低10%。这个奖励对为了达成协议，异界生物依照服务内容开出的价码没有影响。
+|source_name=天界血脉
+|source_url=https://pf1chm.pages.dev/topics/page_830.html
+}}

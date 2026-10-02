@@ -1,0 +1,13 @@
+{{魔法物品
+|name=锚定斗篷
+|english_name=Cape of Anchoring
+|aon=MagicCursedDisplay.aspx?ItemName=Cape of Anchoring
+|cat=诅咒物品
+|aura=中等防护系
+|cl=9
+|slot=肩部
+|weight=1磅
+|description=这件鲜艳的红金色斗篷看起来像是骗子披肩。然而，一旦穿上，它对穿戴者的作用就如同穿戴者受到了[[次元锚]]法术影响。只有在穿戴者受到[[移除诅咒]]法术或类似效果之后，才能把斗篷摘下。
+|req=[[骗子披肩]]
+|source=极限宝具
+}}

@@ -1,0 +1,13 @@
+{{魔法物品
+|name=丑陋面具
+|english_name=Mask of Ugliness
+|aon=MagicCursedDisplay.aspx?ItemName=Mask of Ugliness
+|cat=诅咒物品
+|aura=中等变化系
+|cl=8
+|slot=头部
+|weight=1磅
+|description=这副奇怪而毫无特征的面具似乎具有+4[[诱人魅力头带]]的力量，但它不是提供魅力加值，而是融入佩戴者的面部，使他显得更丑陋，说出的话也粗鲁而带侮辱性。佩戴者在[[唬骗]]和[[交涉]]检定上承受-4减值，但在[[威吓]]检定上获得+2加值。
+|req=任意魔法面具或[[诱人魅力头带]]
+|source=极限宝具
+}}

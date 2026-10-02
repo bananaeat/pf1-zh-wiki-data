@@ -1,0 +1,10 @@
+{{装备
+|name=护甲润滑油
+|english_name=Armor ointment
+|cat=炼金工具
+|price=30 gp
+|weight=1磅
+|craft_dc=15
+|description=这种厚实的油脂可以抹在护甲的活动关节处，让它们使用起来更加灵活。花费1分钟为护甲涂油可以降低它的护甲减值1点（最小降到-1），持续8小时。
+|source=极限宝具
+}}

@@ -1,0 +1,9 @@
+{{装备
+|name=风筝
+|english_name=Kite
+|cat=娱乐
+|price=1 sp–2,000 gp
+|weight=1磅–5磅
+|description=风筝有从帆布制成的玩具，到华丽的丝制艺术品等各种类型。
+|source=冒险者的军械库、极限宝具
+}}

@@ -1,0 +1,13 @@
+{{魔法物品
+|name=重力石
+|english_name=Stone of Weight (Loadstone)
+|aon=MagicCursedDisplay.aspx?ItemName=Stone of Weight (Loadstone)
+|cat=诅咒物品
+|aura=微弱变化系
+|cl=5
+|slot=无
+|weight=1磅
+|description=这块黑色的磨光石头会使持有者的基础陆地速度减半。一旦被拾起，就无法用任何非魔法的手段处置掉——无论把它扔掉还是砸碎，它都会重新出现在持有者身上的某处。如果对这块重力石施放[[移除诅咒]]，这件物品就可以正常丢弃，不再纠缠此人。
+|req=[[艾恩石]]、[[警报石]]、操控地元素之石、[[幸运石]]
+|source=核心规则书、极限宝具
+}}

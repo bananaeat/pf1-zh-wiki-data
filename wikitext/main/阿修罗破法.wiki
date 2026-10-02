@@ -1,0 +1,10 @@
+{{Feat
+|name=阿修罗破法
+|english_name=Asura Spellrend
+|categories=战斗
+|description=你的亵渎足以祛散神术。
+|prerequisites=阿修罗天眼，阿修罗之型，基础攻击加值+13或13级武僧
+|benefit=每轮一次，你可以将使用最高基础攻击加值的一次攻击替换成破法击。如果你的破法击命中，不会造成伤害，但你可以尝试解除一个影响目标的无害神术，如同解除魔法，施法者等级等同于你的角色等级。如果你的解除检定成功，目标陷入恶心状态，如同被阿修罗之型打断法术，并且无法通过豁免骰降低恶心状态持续时间。
+|source_name=位面旅者手册
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

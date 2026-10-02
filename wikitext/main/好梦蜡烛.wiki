@@ -1,0 +1,15 @@
+{{魔法物品
+|name=好梦蜡烛
+|english_name=Dream Candle
+|aon=MagicWondrousDisplay.aspx?FinalName=Dream Candle
+|cat=奇物
+|aura=中等幻术系
+|cl=9
+|slot=无
+|price=2,300 gp
+|weight=1磅
+|description=这支沉甸甸的粉彩蜡烛经过雕刻和彩绘，外表看上去仿佛爬满了蝴蝶。生物可以用这支蜡烛制造一个[[托梦术]]效果，传达一条不超过10分钟的讯息；也可以改为发送至多10条较短的讯息，只要总时长不超过10分钟。使用者必须点燃蜡烛、指明预定的收信者、说出讯息，然后熄灭蜡烛；收信者下一次入睡时，就会收到这条讯息。
+|req=[[制造奇物]]、[[托梦术]]
+|cost=1,150 gp
+|source=内海诸神
+}}

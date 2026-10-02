@@ -1,0 +1,16 @@
+{{装备
+|name=密格鞋跟
+|english_name=Puzzle heel
+|cat=冒险装备
+|price=不定
+|weight=—
+|description=作为鞋跟和鞋底的替代品，密格鞋跟可以用来暗藏物品，以便在需要时取回。要打开密格鞋跟内的小隔间，必须按特定的顺序按压、转动并扭转鞋跟和鞋底。密格鞋跟的开启过程越复杂，在用于藏匿物品的巧手检定中获得的环境加值就越高。在不知道顺序的情况下打开鞋跟需要通过成功的解除装置检定。密格鞋跟的隔间大约有5立方英寸。
+
+<table class="wikitable">
+<tr><th>复杂度</th><th>价格</th><th>巧手加值</th><th>解除装置DC</th></tr>
+<tr><td>3步</td><td>20gp</td><td>+4</td><td>20</td></tr>
+<tr><td>4步</td><td>40gp</td><td>+6</td><td>25</td></tr>
+<tr><td>5步</td><td>80gp</td><td>+8</td><td>30</td></tr>
+</table>
+|source=极限诡道
+}}

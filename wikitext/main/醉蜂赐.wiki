@@ -1,0 +1,10 @@
+{{装备
+|name=醉蜂赐
+|english_name=Calistria's kindness
+|cat=炼金药剂
+|price=3 gp
+|weight=—
+|craft_dc=20
+|description=如果能坚持1个月内每天服用，这种补药能在缓解痛经的同时大幅降低性行为时的怀孕几率。只要于此之后坚持每天服用，上述的效果就能一直持续下去。每瓶醉蜂赐可供使用者服用30次。制作该补药需要成功通过一个DC 20的工艺（炼金术）检定。
+|source=内海诡道
+}}

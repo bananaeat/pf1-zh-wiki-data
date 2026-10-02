@@ -1,0 +1,19 @@
+{{魔法物品
+|name=侦查法杖
+|english_name=Staff of the Scout
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of the Scout
+|cat=法杖
+|aura=中等咒法系
+|cl=8
+|slot=无
+|price=9,600 gp
+|weight=4磅
+|description=这根法杖由树枝精心制成，枝条仍保持着生长时相互缠绕的样子，顶端还覆着鲜活的树叶。该法杖可以使用以下法术：
+
+* [[指北术]]（1 发）
+* [[行踪无迹]]（1 发）
+* [[召唤自然盟友 I]]（2 发）
+|req=[[制造法杖]]、[[指北术]]、[[行踪无迹]]、[[召唤自然盟友 I]]
+|cost=4,800 gp
+|source=极限宝具
+}}

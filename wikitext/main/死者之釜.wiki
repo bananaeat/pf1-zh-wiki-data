@@ -1,0 +1,15 @@
+{{魔法物品
+|name=死者之釜
+|english_name=Cauldron of the Dead
+|aon=MagicWondrousDisplay.aspx?FinalName=Cauldron of the Dead
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=无
+|price=30,000 gp
+|weight=35磅
+|description=这口暗色铁釜大到足以容纳一名中型生物。釜中注入水和稀有草药的混合液后，放入其中的任何尸体都会被转化为丧尸，如同被[[操纵死尸]]法术操纵一般。每具被操纵的尸体每HD消耗25 gp的材料，大釜每轮可以操纵一具尸体。大釜的使用者可以指挥由此创造的不死生物，总量最多12HD；除非使用者自己能施放操纵死尸法术，那就采用该法术的上限。超出上限继续操纵，会使先前被操纵的个体失去控制。
+|req=[[制造奇物]]、[[操纵死尸]]
+|cost=15,000 gp
+|source=进阶玩家指南、极限宝具
+}}

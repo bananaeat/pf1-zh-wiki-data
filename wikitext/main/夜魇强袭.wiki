@@ -1,0 +1,11 @@
+{{Feat
+|name=夜魇强袭
+|english_name=Nightmare Striker
+|categories=战斗
+|description=你的[[妖火]]不但能够照出你的敌人，还能显示他们的弱点。
+|prerequisites=[[精通徒手打击]]，[[夜魇之拳]]，[[夜魇织者]]，[[震慑拳]]，[[医疗]]5级，有能力施放‘妖火’。
+|benefit=当你施放的‘妖火’（不能由法术完成型或触发型魔法物品施放）正勾勒着一个敌人时，该敌人抵抗你的[[震慑拳]]的豁免DC将会提高2。如果你的震慑拳命中这个敌人，而该敌人豁免失败，你可以让该敌人颤栗1d2轮，加上豁免失败每5点1轮。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

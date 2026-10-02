@@ -1,0 +1,17 @@
+{{武器
+|name=野太刀
+|english_name=Nodachi
+|category=武器
+|prof=军用
+|wcat=双手
+|price=60 gp
+|weight=8磅
+|dmg_s=1d8
+|dmg_m=1d10
+|crit=18–20/×2
+|type=挥砍或穿刺
+|special=迎击
+|groups=重刃，长柄
+|description=这件非常长的双手武器，一端装有长达4尺、细长却极其锋利的刀身。步兵主要用它来对付骑马的战士，既可以把骑手从坐骑上砍落，也可以架起它来迎击冲锋。
+|source=极限战斗、极限宝具
+}}

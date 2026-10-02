@@ -1,0 +1,10 @@
+{{Trait
+|name=出风头/虚荣
+|english_name=Vainglory
+|type=缺陷
+|pfs=否
+|description=你强迫性地寻求对你的行为的认可，使你难以行动精妙。
+|benefit=你在[[唬骗]]、[[易容]]和隐匿检定承受-1罚值，而且你创造的任何幻术的豁免DC-1。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

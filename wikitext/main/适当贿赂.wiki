@@ -1,0 +1,10 @@
+{{Trait
+|name=适当贿赂
+|english_name=Calculated Bribe
+|type=社会
+|prerequisites=遵循坚毅准则
+|description=若你遵循此守则，你敏锐地意识到行动和商品的价值。每天1次，当你跟商人讨价还价或与另一个智能生物协商时，你能消耗「10×你的等级」gp来在结果揭示前重骰你刚作出的[[交涉]]检定。你必须接受重骰结果，即使它比原来的更糟。此外，你开始游戏时拥有一套价值100gp的奢华贵族衣服。
+|notes=赎罪：违反该准则的骑士必须将钱存进一个基金中来防止他们的骑士团在未来受到贫困。需要存入的金额为骑士当前等级×100gp。
+|source_name=内海骑士
+|source_url=https://pf1chm.pages.dev/topics/zhdc70ece933.htm
+}}

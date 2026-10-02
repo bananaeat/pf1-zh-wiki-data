@@ -1,0 +1,11 @@
+{{Feat
+|name=裂胆突击
+|english_name=Terrifying Assault
+|categories=战斗
+|description=你突然冒出来的时候，敌人被吓得到处乱跑。
+|prerequisites=震慑伏击，威吓技能5级
+|benefit=当你在[[突袭]]轮中使用威吓技能使一个敌人被挫败士气时，如果你的威吓检定结果超过DC至少10点，你可以使你的目标惊惧1轮，而非[[战栗]]。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 199），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=凶猛夹击者
+|english_name=Fierce Flanker
+|type=种族
+|prerequisites=翼龙人
+|description=你年少时曾受人欺凌，但有一个或多个好友支持着你，这让你深刻体会到团队合作的重要性。你对你所夹击的敌人进行的伤害检定获得+1背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Fierce%20Flanker
+}}

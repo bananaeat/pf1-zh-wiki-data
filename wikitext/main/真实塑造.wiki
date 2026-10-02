@@ -1,0 +1,9 @@
+{{Trait
+|name=真实塑造
+|english_name=Shaper of Reality
+|type=宗教
+|prerequisites=信仰任一[[古老者]]
+|description=你可以模仿长者的能力来重塑世界。每天一次，你可以使一个你施展的咒法系或者变化系法术的施法者等级+1。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

@@ -1,0 +1,17 @@
+{{魔法物品
+|name=捆绑铁带
+|english_name=Iron Bands of Binding
+|aon=MagicWondrousDisplay.aspx?FinalName=Iron Bands of Binding
+|cat=奇物
+|aura=强烈塑能系
+|cl=13
+|slot=无
+|price=26,000 gp
+|weight=1磅
+|description=这件威力强大的物品是一个直径3寸的生锈铁球，外面缠着铁带。
+
+说出正确的命令字并把这个球形铁器掷向对手后，铁带会展开再收紧，在远程[[接触攻击]]命中时捆住目标生物。它可以这样捕获一个大型或更小的生物，使其无法动弹（如同被[[压制]]），直到说出命令字让铁带恢复球形为止。该生物可以用DC 30的力量检定挣断（并毁掉）铁带，或用DC 30的战技检定或脱逃检定挣脱。捆绑铁带每天可使用1次。
+|req=[[制造奇物]]、[[擒拿掌]]
+|cost=13,000 gp
+|source=核心规则书、极限宝具
+}}

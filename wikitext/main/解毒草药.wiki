@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|极限荒野|Ultimate Wilderness}}
+'''解毒草药'''（Herbal Antivenom, Sp）是[[操念使]]的[[原力]]。
+
+元素：木；类别：通用（Sp）；等级：4；超载：0
+
+你的身体可以产生对抗几乎任何毒素所需的植物成分。在对抗毒素时，你在豁免检定上获得+5炼金加值，如同一直受到[[抗毒剂]]的影响。你可以通过一个标准动作，仅仅通过接触来使用医疗技能中的治疗中毒，不需要医者工具包，并且目标可以是自己；如果成功，你可以令接触的生物在对抗这一次毒素的豁免检定中获得+5炼金加值，以及通常的来自治疗中毒的+4加值。你可以在如此使用治疗中毒动作时承受1点超载，来产生[[中和毒性]]的效果。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_726.html 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Herbal Antivenom|2=Herbal Antivenom}}
+
+[[分类:原力]]

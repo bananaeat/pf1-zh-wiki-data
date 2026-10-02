@@ -1,0 +1,17 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|武术手册|Martial Arts Handbook}}
+'''不屈之铁注能'''（Untwisting Iron Infusion）是[[操念使]]的[[原力]]。
+
+元素：土；类别：性质注能；等级：5；超载：3
+
+前置：[[顽石之肤]]，[[念拳]]，不屈之铁修道院成员
+
+关联[[念袭]]类别：[[岩击]]，[[轰钢]]
+
+豁免：无
+
+每次你用带有注能[[念袭]]的[[徒手攻击]]命中一个敌人，你由于[[顽石之肤]]获得的DR/{{材料|精金}}直到你的下一回合开始时提高1点。你只有使用[[念拳]]塑形注能的情况下才能使用这一注能。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部[[原力]]见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Untwisting Iron Infusion|2=Untwisting Iron Infusion}}
+
+[[分类:原力]]

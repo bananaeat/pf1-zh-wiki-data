@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=戴索的旅行华盖
+|english_name=Dyso's Travel Canopy
+|aon=MagicWondrousDisplay.aspx?FinalName=Dyso's Travel Canopy
+|cat=奇物
+|aura=微弱塑能系
+|cl=7
+|slot=无
+|price=750 gp
+|weight=3磅
+|description=这块5尺见方的布质华盖色彩鲜艳，边缘缀有金色流苏，像是一位略显浮夸的苏丹在海边休憩时可能会用的东西。当你说出命令字，华盖就会展开并漂浮在你头顶上方3尺处，自行调整位置为你遮阳。旅行华盖不能承载任何重量。它会在你下令时恢复成1尺见方的折叠形态，若离开阳光超过1分钟，也会自动收起。
+|req=[[制造奇物]]、[[浮碟术]]
+|cost=375 gp，30 XP
+|source=烈焰传承玩家手册
+}}

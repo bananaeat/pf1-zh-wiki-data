@@ -1,0 +1,8 @@
+{{物品
+|name=宣纸
+|english_name=Rice paper
+|category=冒险装备
+|price=5 铜币
+|weight=—
+|description=这种纸由水稻、秸秆或树皮制成。它的硬度为0，具有1点生命值，击破DC2。
+}}

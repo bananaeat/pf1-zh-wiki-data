@@ -1,0 +1,11 @@
+{{Feat
+|name=卓越法术
+|english_name=Ascendant Spell
+|categories=超魔
+|pfs=否
+|description=你学会了如何使用非神话力量来模拟出神话法术。
+|benefit=你能够调整法术，使其模仿自身的神话版法术。卓越法术会使用该法术的神话版本，但是除非你是神话生物，否则在判断法术效果的相互作用时，它不会被视作神话法术。你无法使用神话法术的增强版，或者使用需要你花费神话之力的法术效果（即便你具有可用的神话之力）。卓越法术占用比法术的实际等级高5级的法术位。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

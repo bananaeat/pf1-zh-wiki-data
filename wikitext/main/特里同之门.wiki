@@ -1,0 +1,10 @@
+{{Feat
+|name=特里同之门
+|english_name=Triton Portal
+|description=你能够引导体内的魔力以召唤盟友。
+|prerequisites=角色等级5，‘水流冲击’类法术能力，水元素裔。
+|benefit=每天一次，你可以消费你的[[水流冲击]]种族能力，以此来以类法术能力施放[[召唤自然盟友 III]]，施法者等级等同于你的人物等级。以此能力只能召唤出1d3小型水元素、1d4+1只[[海豚]]、一条鲨鱼或一只电鳗。使用该能力是一个[[整轮动作]]。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

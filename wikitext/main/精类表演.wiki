@@ -1,0 +1,10 @@
+{{Feat
+|name=精类表演
+|english_name=Fey Performance
+|description=浮风、树木、大地、以及本土的野生生灵，都加入到了你的吟游表演中。
+|prerequisites=吟游表演职业能力。
+|benefit=在开始吟游表演时，你可以花费一轮额外的吟游表演轮数，用大自然的景色与天籁提高你的表演能力。这会使本次表演的有效范围增加30尺。此外，在以[[目盲]]和[[耳聋]]的生物为目标时，这种表演被视为同时具备〔声音〕和〔视觉〕成分。本专长在缺乏动物和植物生活的环境中不起作用。
+|source=UW、HotW
+|source_name=极限荒野、荒野英雄
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

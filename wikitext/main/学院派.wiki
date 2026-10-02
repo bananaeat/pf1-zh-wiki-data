@@ -1,0 +1,9 @@
+{{Trait
+|name=学院派
+|english_name=Classically Schooled
+|type=魔法
+|description=你的学徒生活或是早年教育特别专注于魔法的直接运用。你的[[法术辨识]]检定获得+1背景加值，并且总能将法术辨识视为你的[[本职技能]]。
+|source_name=魔法背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

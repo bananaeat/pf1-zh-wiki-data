@@ -1,0 +1,12 @@
+{{魔法物品
+|name=秘银重盾
+|english_name=Mithral Heavy Shield
+|cat=特殊魔法盾牌
+|base=[[秘银]][[重钢盾]]
+|aura=无灵光（非魔法）
+|slot=盾牌
+|price=1,020 gp
+|weight=5磅
+|description=这面重盾由[[秘银]]制成，因此比普通的[[重钢盾]]轻得多。它有5%的奥术失败率，且没有防具检定减值。
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=生龙活虎
+|english_name=Vim and Vigor
+|categories=战斗
+|description=当你动用你的内在精力来恢复你的伤口，你将恢复得比正常更加快速。
+|prerequisites=体质13，[[战斗活力]]，[[坚忍]]，人物等级3
+|benefit=你的活力池获得1点活力。你因花费活力点而导致的[[疲乏]]状态只会持续3轮而不是1分钟。另外，当你获得这个专长，你在导致疲乏或[[力竭]]的效果豁免上获得+2加值。
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_704.html
+}}

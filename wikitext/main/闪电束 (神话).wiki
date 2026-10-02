@@ -1,0 +1,13 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[闪电束]] 的神话版本。</small></div>
+{{Spell
+|name=闪电束
+|english_name=Lightning Bolt
+|school=塑能系
+|tags=电
+|levels=奥能师 3;女巫 3;导师 3;术士 3;法师 3;秘学士 3;血脉狂怒者 3;魔战士 3
+|description=法术造成的伤害增加至每施法者等级1d8点闪电伤害（最高10d8）。任何豁免失败的生物会恍惚1轮。
+
+强化（3阶）：若你花费2次神话之力，你就能够让法术弯曲一次，弯曲的角度至多为90度。任何豁免失败的生物会震慑1轮。
+|source=神话冒险
+}}
+[[分类:神话法术]]

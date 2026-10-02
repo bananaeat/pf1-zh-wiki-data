@@ -1,0 +1,10 @@
+{{Trait
+|name=勤勤勉勉
+|english_name=Industrious
+|type=种族
+|prerequisites=[[侏儒]]
+|description=你工作努力，且乐于助人。当你成功地使用协助他人动作来帮助一个盟友进行工艺或专业检定时，该角色将在该检定上获得额外 +1的背景加值(除了本来成功的协助他人所获得的 +2加值之外)。如果你在该技能上拥有种族加值，你的盟友改为获得+2背景加值。
+|source_name=河域子民
+|source=PotR
+|source_url=https://pf1chm.pages.dev/topics/zh576fd36972.htm
+}}

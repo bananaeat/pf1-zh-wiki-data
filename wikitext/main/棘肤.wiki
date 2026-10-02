@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|极限荒野|Ultimate Wilderness}}
+'''棘肤'''（Thorn Flesh, Sp）是[[操念使]]的[[原力]]。
+
+元素：木；类别：通用（Sp）；等级：3；超载：1
+
+前置：[[木身]]
+
+你将荆棘覆于皮肤之上，以此伤害那些敢于攻击你的敌人。此能力如同[[锯齿皮肤]]。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_662.html 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Thorn Flesh|2=Thorn Flesh}}
+
+[[分类:原力]]

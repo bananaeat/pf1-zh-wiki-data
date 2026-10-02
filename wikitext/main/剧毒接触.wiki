@@ -1,0 +1,8 @@
+{{Feat
+|name=剧毒接触
+|english_name=Noxious Touch
+|description=你会本能的分泌毒素以应对伤害。
+|prerequisites=[[树蛙人]]，毒性皮肤种族替换特性
+|benefit=当你被一次[[徒手打击]]或者天生武器击中时，你可以用一个[[直觉动作]]消耗一次毒性皮肤，用你的树蛙人毒素影响那个击中你的生物，如同你将毒素涂抹到了自己身上一样。
+|source_name=药剂与毒药
+}}

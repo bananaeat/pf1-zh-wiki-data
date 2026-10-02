@@ -1,0 +1,15 @@
+{{Spell
+|name=共用共享语言
+|english_name=Share language, communal
+|school=预言系
+|levels=催眠师 2;吟游诗人 2;异能者 2;歌者 2;先知 3;奥能师 3;德鲁伊 3;战斗祭司 3;术士 3;法师 3;牧师 3;猎人 3;秘学士 3
+|action=标准动作
+|components=语言;姿势;材料（从字典上撕下的一页）
+|range=接触
+|target=接触到的复数生物
+|duration=24小时
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=这个法术工作方式如同[[共享语言]]，但你可以将持续时间以一小时为单位分配给接触到的复数生物。
+|source=极限战斗
+}}

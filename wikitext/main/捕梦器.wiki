@@ -1,0 +1,17 @@
+{{魔法物品
+|name=捕梦器
+|english_name=Dreamcatcher
+|aon=MagicWondrousDisplay.aspx?FinalName=Dreamcatcher
+|cat=奇物
+|aura=微弱防护系
+|cl=1
+|slot=无
+|price=2,800 gp
+|weight=2磅
+|description=这件防护符咒是把一条细长柔韧的木条弯成圆圈，再用筋腱编织出蛛网般的图案制成的。捕梦器上常常装饰着珠子和羽毛。更精致的捕梦器也可能用金或银制成，并饰以垂坠的宝石和金属小雕像。
+
+捕梦器保护熟睡的拥有者不受恶意影响。拥有者在睡眠期间的豁免检定获得+2神圣加值。此外，他在此期间受到的任何属性伤害或属性吸取都减少1点（最低为0点）。
+|req=[[制造奇物]]、[[提升抗力]]
+|cost=1,400 gp
+|source=异能冒险
+}}

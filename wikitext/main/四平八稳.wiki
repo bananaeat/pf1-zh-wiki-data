@@ -1,0 +1,9 @@
+{{Trait
+|name=四平八稳
+|english_name=Grounded
+|type=种族
+|prerequisites=[[矮人]]
+|description=无论是身体还是头脑，你都平衡得很好。在平衡有关的特技检定上你获得+2背景加值，并且你的反射豁免获得+1背景加值。
+|source_name=格拉里昂的矮人
+|source_url=https://pf1chm.pages.dev/topics/page_1586.html
+}}

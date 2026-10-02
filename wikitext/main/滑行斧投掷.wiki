@@ -1,0 +1,12 @@
+{{Feat
+|name=滑行斧投掷
+|english_name=Sliding Axe Throw
+|categories=战斗
+|description=你可以用[[飞斧]]瞄准来规避敌人的盾牌，甚至[[摔绊]]对手。
+|prerequisites=[[敏捷]] 13，BAB+1
+|benefit=你可以选择在使用斧的一次远程攻击中承受-2罚值，使之在地上弹跳或滑行。若目标措手不及、正在奔跑或正在冲锋，则这次攻击忽视目标在AC上的盾牌加值。如果此次攻击命中，你可以立即以自由动作对目标进行一次[[摔绊]]战技。若此次摔绊失败，目标无法对你进行反摔绊。
+
+这一专长依照GM的判断在一些环境下可能无法使用，例如地面太软，你和目标之间存在障碍或困难地形等等。
+|source_name=格拉利昂的矮人
+|source_url=https://pf1chm.pages.dev/topics/zh598c744e26.htm
+}}

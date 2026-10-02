@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[自给自足 (神话)]]。</small></div>
+{{Feat
+|name=自给自足
+|english_name=Self-Sufficient
+|description=你知道如何在野外生存和如何有效的治疗伤口。
+|benefit=你在医疗和生存技能检定上获得+2加值。如果某技能受训等级10以上，该技能获得的加值提升为+4。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

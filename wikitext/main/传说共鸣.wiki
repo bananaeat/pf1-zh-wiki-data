@@ -1,0 +1,10 @@
+{{Feat
+|name=传说共鸣
+|english_name=Legendary Influence
+|description=你能够通过与[[英灵]]达成更强的共鸣，来将英灵的传说事迹化为你的力量。
+|prerequisites=次级英灵之力OA职业能力
+|benefit=立即为你能呼唤的每个英灵选择1个专长（[[造物专长]]除外）。每当你执行降灵呼唤英灵时，能够让英灵对你造成1点共鸣，以使得你在呼唤该英灵期间，获得该英灵对应的传说共鸣专长。你能够使用该[[奖励专长]]作为英灵之力所赋予的任何专长的先决条件，比如勇士的至高英灵之力传奇勇士；但是不能作为其他专长的先决条件。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

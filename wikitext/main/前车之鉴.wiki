@@ -1,0 +1,9 @@
+{{Trait
+|name=前车之鉴
+|english_name=Teaching Mistake
+|type=派系
+|description=你很明白失败的后果，并努力不会再有第二次。每次冒险一次，当你在任何豁免检定中骰出自然1时，你的下一次豁免检定获得+1背景加值。此效果必须在本次冒险结束之前使用。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

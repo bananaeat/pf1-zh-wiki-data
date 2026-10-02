@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=神秘迷信
+|english_name=Superstition
+|type=Ex
+|class=掉链野蛮人
+|benefit=野蛮人在对抗法术和类法术能力的豁免检定上获得+2的表现加值。该加值每4个等级便会提升1点。野蛮人无法自愿成为法术目标，她必须都进行豁免检定，即使该法术是其友军施展的。
+|classic=迷信(狂暴之力)
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

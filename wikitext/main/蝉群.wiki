@@ -1,0 +1,47 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=蝉群
+|english_name=Cicada Swarm
+|cr=2
+|xp=600
+|alignment=绝对中立
+|size=超微型
+|type=虫类
+|subtypes=集群
+|init=+3
+|senses=黑暗视觉 60 尺；察觉 +9
+|description=一团响亮的嗡嗡声伴随着这群飞虫。
+|ac=17，接触 17，措手不及 14（+3 敏捷，+4 体型）
+|hp=18（4d8）
+|fort=+4
+|ref=+4
+|will=+2
+|defensive=集群特性
+|immune=影响心灵效果;武器伤害
+|speed=5 尺，攀爬 20 尺，飞行 40 尺（普通）
+|melee=集群（1d6 外加扰乱心神和鸣叫）
+|space=10 尺
+|reach=0 尺
+|special_attacks=鸣叫（DC 12）
+|str=1
+|dex=16
+|con=11
+|int=–
+|wis=13
+|cha=2
+|bab=+3
+|cmb=—
+|cmd=—
+|skills=[[攀爬]] +3;[[飞行]] +13;[[察觉]] +9
+|racial_mods=+8 察觉
+|environment=温带森林
+|organization=单独或侵扰（2–8）
+|treasure=无
+|special_abilities={{怪物能力|鸣叫|Ex|蝉群空间内的任何生物必须通过一次 DC 12 强韧豁免，否则会耳聋 1d6 轮。豁免 DC 基于体质。}}
+|source=冒险之路116：战争之牙
+|lore=
+有时，尤其是在温暖的月份，寻常的蝉会聚集成翻滚嗡鸣的云团。它们成群结队时，能在几秒钟之内把树上的植被啃食殆尽。
+}}
+
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Cicada Swarm|2=Cicada Swarm}}

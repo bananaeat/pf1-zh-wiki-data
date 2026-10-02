@@ -1,0 +1,10 @@
+{{Feat
+|name=冠位抗力
+|english_name=Ennobled Resistances
+|description=上天赐予你的庇护和抗性异常惊人
+|prerequisites=神授权能职业特性，角色等级4
+|benefit=当以[[迅捷动作]]使用神授权能职业特性为豁免检定提供加值时，选择另一个豁免并在此之上得到同样的加值。
+|source=HotHC
+|source_name=皇庭英豪
+|source_url=https://pf1chm.pages.dev/topics/page_670.html
+}}

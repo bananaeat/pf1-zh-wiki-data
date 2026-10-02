@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Elements pg. 27），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=同舟共济
+|english_name=Solidarity
+|type=地区
+|prerequisites=黄铜之城
+|description=你在黄铜之城为奴时，眼看着太多朋友成了火巨灵暴躁脾气的牺牲品。如今，只要力所能及，你都会帮助他人避开棘手的处境。每当你成功使用协助他人动作，帮助一名盟友在[[唬骗]]或[[脱逃]]检定中取得成功时，你为该检定提供+3加值（而非+2加值）。
+|source_name=元素血脉
+|source=BotE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Solidarity
+}}

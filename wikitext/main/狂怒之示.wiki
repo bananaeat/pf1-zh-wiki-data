@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=狂怒之示
+|english_name=Inspire Ferocity
+|type=Ex
+|class=掉链野蛮人
+|benefit=当野蛮人处于[[鲁莽战姿]]时，她可以把鲁莽战姿的加值和罚值传给30尺内所有愿意接受的友军。野蛮人必须拥有【鲁莽战姿】后才能选择此狂暴之力。
+|classic=狂怒激发
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

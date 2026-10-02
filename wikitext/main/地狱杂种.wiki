@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Council of Thieves Player's Guide pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=地狱杂种
+|english_name=Infernal Bastard
+|type=战役
+|pfs=否
+|description=你是一名[[魔裔]]。你也许是一名逃跑的奴隶、一个被藏起来的家丑，或是一个无家可归的流浪者，但无论你的成长经历如何，生活对你都格外严酷。你吃尽了苦头：有一年冬天差点饿死，有一年夏天差点被种族主义的水手活活打死，诸如此类。这些经历把你变成了一个尖刻而愤世嫉俗的无赖，还是一个虔诚而满怀希望的乐观主义者，由你决定，但有一件事是确定的——你甚至比你的魔裔同胞还不如。也许是因为你艰苦的生活，也许是因为你的魔族血统中有某种缺陷，你没有魔裔标准的寒冷、电击和火焰抗力——你只是在对抗这些效果的所有豁免检定上获得+2加值。同样，你不具备每天一次以类法术能力使用[[黑暗术]]的能力——作为替代，你可以选择任意一个0环法术，改为以类法术能力随意使用。
+|source_name=Council of Thieves Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Infernal%20Bastard
+}}

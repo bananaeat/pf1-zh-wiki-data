@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''水下呼吸'''（Water Breathing）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：特性</span></div>
+</noinclude><includeonly><div class="lang"><span id="水下呼吸"></span><div class="lang-h"><b>[[水下呼吸]]</b><i>Water Breathing</i><span class="lang-w">Ex · 特性</span></div><div class="lang-d"></includeonly>
+拥有此特殊能力的生物可以在水下无限期地呼吸。它在水下也可以自由使用喷吐武器、法术或者其他能力。
+
+'''格式'''：水下呼吸
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Water Breathing|2=Water Breathing}}
+
+[[分类:通用怪物规则]]</noinclude>

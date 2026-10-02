@@ -1,0 +1,17 @@
+{{消歧义|践踏(怪物能力)}}
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[践踏 (神话)]]。</small></div>
+{{Feat
+|name=践踏
+|english_name=Trample
+|categories=战斗
+|description=你善于使用坐骑压过对手。
+|prerequisites=[[骑术]]1级、骑乘战斗。
+|benefit=若你骑乘坐骑时[[闯越]]对手，他将无法躲避。如果对手因而倒地，你的坐骑可以对他做一次蹄踢攻击。一般而言攻击倒地的目标，攻击检定有+4加值。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[骑乘猛攻]]（1 个条目）

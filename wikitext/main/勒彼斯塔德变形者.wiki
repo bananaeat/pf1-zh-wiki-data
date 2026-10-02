@@ -1,0 +1,12 @@
+<noinclude>{{奥能师导航}}
+'''勒彼斯塔德变形者'''（Lepidstadt Shifter, Su）是[[奥能师]]的[[奥能技艺|奥能技艺]]。
+
+</noinclude>{{Source|进化职业起源|Advanced Class Origins|inline}}
+
+当奥能师受到一个变形子学派法术影响时，他可从奥能源泉中花费1点奥能点来施展一个法术。除了奥能师是在变形法术效果下、而不是在[[德鲁伊#自然变身|自然变身]]状态下施法以外，这个能力的其他作用方式如同[[自然施法]]专长一样。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_96.html 原文]），按 AoN 核对过。全部奥能技艺见 [[奥能技艺]]。
+
+[[分类:奥能技艺]]
+
+{{职业}}</noinclude>

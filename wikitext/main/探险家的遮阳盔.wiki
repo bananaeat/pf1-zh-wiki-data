@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=探险家的遮阳盔
+|english_name=Explorer's Pith Helmet
+|aon=MagicWondrousDisplay.aspx?FinalName=Explorer's Pith Helmet
+|cat=奇物
+|aura=微弱防护系
+|cl=1
+|slot=头部
+|price=3,200 gp
+|weight=1磅
+|description=这顶殖民地风格的头盔能保护穿戴者免受丛林中的种种烦扰。穿戴者持续受到[[忍受环境]]效果的影响（如同该法术，仅限炎热天气），并在对抗集群的扰乱心神能力的豁免检定上获得+4能力加值。此外，穿戴者每天一次可以召来一名隐形的搬运工，其作用相当于[[浮碟术]]或[[隐形仆役]]（由穿戴者选择）。
+|req=[[制造奇物]]、[[忍受环境]]、[[浮碟术]]、[[动物无视术]]、[[隐形仆役]]
+|cost=1,600 gp
+|source=魔法市集指南
+}}

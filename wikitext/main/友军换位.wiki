@@ -1,0 +1,9 @@
+{{Feat
+|name=友军换位
+|english_name=Friendly Switch
+|description=你推开你的盟友，占据他在战场上的位置。
+|prerequisites=基本攻击加值+1。
+|benefit=通过「你的移动的一部分」或者「五尺快步」，你可以移动进入一名体型与你相同或比你更小的盟友所占据的空间，这会使得你的盟友换位进入你刚刚留下的空间。你的盟友必须愿意且能够移动，并且可以占据你先前所在的空间。该移动不会引发[[借机攻击]]。该移动不会计入你的盟友下一轮的移动。
+|source_name=秘密探寻者
+|source_url=https://pf1chm.pages.dev/topics/zhacae0aeb2c.htm
+}}

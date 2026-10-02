@@ -1,0 +1,14 @@
+{{魔法物品
+|name=虔信护符
+|english_name=Periapt of Devotion
+|aon=MagicWondrousDisplay.aspx?FinalName=Periapt of Devotion
+|cat=奇物
+|aura=微弱惑控系
+|cl=1
+|slot=颈部
+|price=3,300 gp
+|description=这枚外观朴素的护符带有某个团体或邪教的标志，外形近似其成员平时佩戴的首饰。当持有者把这条项链出示给团体的现任成员或潜在成员（仅限类人生物）时，对方会被迫接受并戴上这枚护符，除非他通过DC 11的意志豁免。此后，戴上护符的人会对把护符交给他的人深怀忠诚，如同受到魅惑人类法术影响（对此效果不再进行额外的豁免）。他总是对给予者的言行抱持善意，一有机会就大加赞扬她。
+|req=[[制造奇物]]、[[诱人赠礼]]、[[魅惑人类]]
+|cost=1,650 gp
+|source=恶棍志
+}}

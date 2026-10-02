@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=收割护目镜
+|english_name=Culling Goggles
+|aon=MagicWondrousDisplay.aspx?FinalName=Culling Goggles
+|cat=奇物
+|aura=微弱死灵系
+|cl=3
+|slot=眼部
+|price=9,000 gp
+|description=这副护目镜的镜片颜色很深，近乎漆黑，镜框包着用有智慧类人生物的皮肤鞣制而成的棕色皮革。戴上这副护目镜，你观察周围环境时，如同持续受到一个延伸30尺的[[观命术]]法术效果影响。此外，每天三次，你可以触碰一个生物，触发一次[[死亡丧钟]]效果，如同该法术。
+|req=[[制造奇物]]、[[死亡丧钟]]、[[观命术]]
+|cost=4,500 gp，360 XP
+|source=七罪之剑
+}}

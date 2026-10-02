@@ -1,0 +1,10 @@
+{{Trait
+|name=灵居梦者
+|english_name=Spirit Lodge Dreamer
+|type=种族
+|prerequisites=[[人类]]（艾鲁塔基人）
+|description=你曾经历过灵界的幻象，并在你的肉身上留下了灵界的印记。
+|benefit=你在对抗幻术的豁免检定上获得+1背景加值，并且你因[[隐蔽]]所产生的失手几率降低10%。
+|source_name=北地居民
+|source_url=https://pf1chm.pages.dev/topics/zh63296b3929.htm
+}}

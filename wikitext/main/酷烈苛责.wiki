@@ -1,0 +1,23 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[酷烈苛责 (神话)]]。</small></div>
+{{Spell
+|name=酷烈苛责
+|english_name=Blistering invective
+|school=塑能系
+|tags=火;依赖语言
+|levels=催眠师 2;吟游诗人 2;审判者 2;歌者 2;炼金术师 2;调查员 2
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|area=30尺半径范围
+|duration=立即
+|save=反射，通过则部分生效（见下文）
+|sr=见后文
+|description=你狠毒的发出一长串侮辱性的咒骂，而敌方的身体甚至会被你的怒火所烧焦。
+
+当你施放该法术，对半径30尺内的敌方做一个威吓检定。
+
+被这样威吓而[[战栗]]的敌方会受到1d10点火焰伤害，并且必须通过一次反射豁免，否则会着火。
+
+法术抗力可以抵消本法术造成的火焰伤害，但不能保护生物免受威吓造成的战栗效果。
+|source=极限战斗
+}}

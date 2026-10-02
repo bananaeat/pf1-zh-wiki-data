@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Goblins of Golarion pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=适时走神
+|english_name=Advantageous Distraction
+|type=种族
+|pfs=否
+|prerequisites=地精
+|description=和大多数[[地精]]一样，你很容易分心。但与大多数地精不同的是，你有一种在恰当时机分心的诀窍，尤其是在躲避疼痛的时候。每天一次，你可以用一个迅捷动作在战斗中短暂分神——为了查看一朵毒菌而躲过一记斧劈，或是弯腰钻到树后舔树皮时意外避开一支箭，诸如此类。当你启动这项能力时，你的AC获得+2闪避加值，持续1轮。
+|source_name=格拉利昂的地精
+|source=GoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Advantageous%20Distraction
+}}

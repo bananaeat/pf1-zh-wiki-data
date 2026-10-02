@@ -1,0 +1,13 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{危害
+|name=霜孢
+|english_name=Frostspore
+|kind=毒药
+|type=摄入、伤口
+|save=强韧 DC 13
+|frequency=1次/轮，持续6轮
+|effect=1d6点寒冷伤害，并且[[恍惚]]1轮
+|cure=连续2次豁免成功
+|price=100 gp
+|source=冒险之路61：罪恶碎片
+}}

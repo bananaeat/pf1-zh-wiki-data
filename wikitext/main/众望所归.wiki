@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 197），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=众望所归
+|english_name=Idealized Campaigner
+|type=种族
+|prerequisites=神裔
+|description=你的天界血脉使他人远远地就将你理想化。与从未见过你的善良阵营生物互动时，你所有基于魅力的技能检定获得+1背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Idealized%20Campaigner
+}}

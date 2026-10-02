@@ -1,0 +1,10 @@
+{{Feat
+|name=导能盾墙
+|english_name=Channeled Shield Wall
+|description=你将[[引导能量]]用于盾牌之上，以此保护你和与你相邻的队友。
+|prerequisites=引导能量3d6，擅长盾牌。
+|benefit=你可以用一个[[迅捷动作]]消耗一次引导能量，使你在使用盾牌时获得+2偏斜加值。这个效果持续每牧师等级或有效牧师等级1分钟。当你获得这个效果时，与你相邻格使用盾牌的队友也能获得+2偏斜加值。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

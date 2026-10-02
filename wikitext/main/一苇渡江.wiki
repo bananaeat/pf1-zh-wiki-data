@@ -1,0 +1,10 @@
+{{Feat
+|name=一苇渡江
+|english_name=Light Step
+|description=你有独创的办法，用于快速通过最危险最不平坦的地形。
+|prerequisites=[[神行步]]，[[灵狐步]]，精灵。
+|benefit=你能够忽略自然环境中，[[困难地形]]的效果，就如同它是普通地形一般。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

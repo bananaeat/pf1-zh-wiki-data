@@ -1,0 +1,14 @@
+{{危害
+|name=力之荒疫
+|english_name=Might blight
+|kind=毒药
+|type=伤口
+|save=强韧 DC 13
+|onset=1轮
+|frequency=1次/轮，持续4轮
+|effect=1点力量伤害
+|cure=连续2次豁免成功
+|price=60 gp
+|description=「老鼠帝国」地沟大树的鼠族们开发了这种毒素来帮助他们的士兵战胜敌人。这种毒素会产生乳酸，使目标的肌肉慢慢退化，但要达到完全的效果，则需要特别高的剂量、重复多次使用，或是对付特别虚弱的对手。
+|source=商人货单
+}}

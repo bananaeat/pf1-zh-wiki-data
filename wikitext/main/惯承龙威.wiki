@@ -1,0 +1,10 @@
+{{Feat
+|name=惯承龙威
+|english_name=Inured to Draconic Majesty
+|description=你花了很长时间来习惯龙族以咆哮表达亲近。
+|prerequisites=[[宿敌]]（龙类）或知识（神秘）1级
+|benefit=在对抗特异能力或超自然能力造成的恐惧效果(如龙类等可怕的存在)的豁免上，你获得+4加值。如果一个对抗特异能力或超自然能力造成的恐惧效果的豁免检定失败会让你惊惧，你只会颤栗而非惊惧，如果豁免失败会让你恐慌，你只会惊惧而非恐慌。
+|source=HotHC
+|source_name=皇庭英豪
+|source_url=https://pf1chm.pages.dev/topics/page_670.html
+}}

@@ -1,0 +1,45 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=极寒狼
+|english_name=Boreal Wolf
+|cr=2
+|xp=600
+|alignment=绝对中立
+|size=中型
+|type=魔法兽
+|subtypes=寒系
+|init=+2
+|senses=昏暗视觉，灵敏嗅觉；察觉 +8
+|description=这只强壮的白毛犬科动物用锐利的淡蓝色眼睛盯着猎物，舌头在锋利的象牙色牙齿间来回闪动。
+|ac=14，接触 12，措手不及 12（+2 敏捷，+2 天生）
+|hp=15（2d8+6）
+|fort=+6
+|ref=+5
+|will=+1
+|immune=寒冷
+|weaknesses=火焰易伤
+|speed=50 尺
+|melee=啮咬 +3（1d6+3 外加 1d6 寒冷和摔绊）
+|str=15
+|dex=15
+|con=17
+|int=2
+|wis=12
+|cha=6
+|bab=+1
+|cmb=+3
+|cmd=13（17 对抗摔绊）
+|feats=[[技能专攻]]（察觉）
+|skills=[[察觉]] +8;[[隐匿]] +6（雪地中 +10）;[[生存]] +1（雪地中或以嗅迹追踪时 +5）
+|racial_mods=雪地中 +4 隐匿，雪地中或以嗅迹追踪时 +4 生存
+|sq=无踪步
+|environment=寒冷的森林
+|organization=单独，成对，或狼群（3–12）
+|treasure=无
+|special_abilities={{怪物能力|无踪步|Ex|极寒狼在雪地上不会留下足迹，也无法被追踪。只要它愿意，可以选择留下足迹。}}
+|source=Irrisen - Land of Eternal Winter
+|lore=
+[[极寒生物]]大多与温带的同类相似，但术法造就的寒冬强化了它们，使它们更强壮、也危险得多。它们的基本形体与祖先相仿，但其他特征暴露了这些生物已然改变的本质：毛皮和皮肤要苍白得多，常是蓝色、灰色或干脆纯白，这些生物身上的某些部分裹着霜雪也不罕见，尤其是它们参差的利爪和蓬乱的毛发。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Boreal Wolf|2=Boreal Wolf}}

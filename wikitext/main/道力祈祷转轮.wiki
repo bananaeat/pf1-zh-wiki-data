@@ -1,0 +1,15 @@
+{{魔法物品
+|name=道力祈祷转轮
+|english_name=Prayer Wheel of Ethical Strength
+|aon=MagicWondrousDisplay.aspx?FinalName=Prayer Wheel of Ethical Strength
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=无
+|price=10,000 gp
+|weight=3磅
+|description=这个圆柱形木块的外侧刻满神圣或亵渎的真言，它围绕一根装饰性的黄铜转轴旋转。持有者一手握住转轴冥想，或休息以回复气点时，可以把自己的气点与转轮调和。调和之后，持有者的斗气击在克服伤害减免时视为善良（若转轮上是神圣真言）或邪恶（若转轮上是亵渎真言），而不是守序。这一效果持续到持有者下一次休息或冥想以回复气点时。一个生物同一时间只能与一个祈祷转轮调和，而一个祈祷转轮同一时间也只能与一个人调和。只有能够进行守序斗气击的生物才能使用祈祷转轮。
+|req=[[制造奇物]]、[[阵营武器]]
+|cost=5,000 gp
+|source=极限宝具
+}}

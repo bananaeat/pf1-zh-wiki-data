@@ -1,0 +1,10 @@
+{{装备
+|name=斧嘴鸟，战斗训练
+|english_name=Axe beak (combat trained)
+|cat=坐骑与宠物
+|price=1,500 gp
+|weight=500磅
+|creature=斧嘴鸟(怪物)
+|description=这种大型食肉禽类有时被用作狩猎动物，但更受珍视的用途是作为坐骑。关于这种生物的更多信息见《怪物图鉴3》。
+|source=极限宝具
+}}

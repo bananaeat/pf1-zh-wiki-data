@@ -1,0 +1,12 @@
+<nowiki>{{nowrap}}</nowiki> 用来防止内容被换行。这一模板对于'''中文文字内容的链接'''尤为有效
+
+<pre>Lots of text {{nowrap|10 kg (22 lb)}} more text. </pre>
+
+* 上述代码可能被渲染为<br/>
+Lots of text <br/> 10 kg (22 lb)more text.
+
+* 或者<br/>
+Lots of text10 kg (22 lb)<br/>more text.
+
+*但不会是<br/>
+Lots of text 10 kg<br/> (22lb) more text.

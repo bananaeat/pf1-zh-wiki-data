@@ -1,0 +1,23 @@
+{{魔法物品
+|name=射线法杖
+|english_name=Staff of Many Rays
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Many Rays
+|cat=法杖
+|aura=中等塑能系、死灵系
+|cl=11
+|slot=无
+|price=57,200 gp
+|weight=5磅
+|description=这根浅色木杖的杖头上装饰着繁复的漩涡纹和细小的闪亮金属斑点，使它看上去既像法杖，又几乎像一根长柄硬头锤。
+
+该法杖可以使用以下法术：
+
+* [[衰弱射线]]（1 发）
+* [[力竭射线]]（1 发）
+* [[灼热射线]]（1 发）
+* [[弱能术]]（2 发）
+* [[解离术]]（3 发）
+|req=[[制造法杖]]、[[解离术]]、[[弱能术]]、[[衰弱射线]]、[[力竭射线]]、[[灼热射线]]
+|cost=28,600 gp
+|source=进阶玩家指南、极限宝具
+}}

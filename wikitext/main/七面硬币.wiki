@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=七面硬币
+|english_name=Seven-Sided Coin
+|aon=MagicWondrousDisplay.aspx?FinalName=Seven-Sided Coin
+|cat=奇物
+|aura=中等死灵系
+|cl=9
+|slot=无
+|price=5,000 gp
+|description=这枚黄铜硬币两面都很光滑。每周一次，用它接触一个生物时，会对该生物施加一个[[审判烙印]]效果（施法者等级9）。使用者选择触发烙印的行为，但这一行为必须是七宗罪之一（贪婪、色欲、傲慢、暴食、嫉妒、愤怒或懒惰）。
+|req=[[制造奇物]]、[[审判烙印]]
+|cost=2,500 gp
+|source=Pathfinder: Runescars #4
+}}

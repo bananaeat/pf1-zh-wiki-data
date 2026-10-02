@@ -1,0 +1,15 @@
+{{Spell
+|name=高等荣耀之路
+|english_name=Path of glory, greater
+|school=咒法系 (医疗)
+|levels=先知 4;吟游诗人 4;战斗祭司 4;歌者 4;牧师 4
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|area=每等级四个边长5尺的方格 (见后文)
+|duration=1轮/等级
+|save=无
+|sr=否
+|description=该法术的功能如同[[荣耀之路]]一般，不过每个方格提供5点治疗，取代原本的1点。
+|source=进阶职业指南
+}}

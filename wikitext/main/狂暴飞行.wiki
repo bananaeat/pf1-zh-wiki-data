@@ -1,0 +1,8 @@
+{{狂暴之力
+|name=狂暴飞行
+|english_name=Raging Flyer
+|type=Ex
+|categories=杂项
+|benefit=狂暴时，野蛮人将他的等级作为增强加值加到飞行检定上。
+|source_name=极限荒野
+}}

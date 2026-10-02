@@ -1,0 +1,13 @@
+{{危害
+|name=流星爆陷阱
+|english_name=Meteor Swarm Trap
+|kind=陷阱
+|trap_type=魔法
+|cr=19
+|perception=DC 34
+|disable=DC 34
+|trigger=视觉型（[[真知术]]）
+|reset=无
+|effect=法术效果（[[流星爆]]，4颗流星分别攻击不同的目标，+9远程接触攻击，2d6外加6d6点火焰伤害［命中则目标豁免-4］，反射 DC 23 豁免减半火焰伤害；其他流星合计造成18d6点火焰伤害，反射 DC 23 豁免减半）；复数目标（4个目标，任意两者相距不超过40尺）
+|source=核心规则书
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=健壮战宠
+|english_name=Mauler's Endurance
+|description=你的魔宠很难被杀死。
+|prerequisites=必须具有使用了战宠变体的魔宠
+|benefit=你的每个等级会让魔宠获得2点生命值。
+|source=FF
+|source_name=魔宠手记
+|source_url=https://pf1chm.pages.dev/topics/page_491.html
+}}

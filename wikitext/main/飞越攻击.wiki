@@ -1,0 +1,12 @@
+{{Feat
+|name=飞越攻击
+|english_name=Flyby Attack
+|pfs=否
+|description=该生物可以在飞行移动的前后发起攻击。
+|prerequisites=拥有飞行速度。
+|benefit=当生物飞行时，该生物可以在移动途中进行一个[[移动动作]]和另一个[[标准动作]]。不过在飞行途中，生物不能进行多于一个移动动作。
+|normal=没有此专长的情况下，生物只能在移动前或移动后进行标准动作。
+|source=B1
+|source_name=怪物图鉴
+|source_url=https://pf1chm.pages.dev/topics/page_201.html
+}}

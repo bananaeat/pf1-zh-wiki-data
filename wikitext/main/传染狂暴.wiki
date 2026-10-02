@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=传染狂暴
+|english_name=Contagious Rage
+|type=Su
+|categories=杂项
+|prerequisites=[[野蛮人]]6级
+|benefit=野蛮人在战斗中咆哮，唤起了周遭动物的怒火。只要野蛮人还在狂暴，他周边30尺内愿意配合的动物和魔法兽就获得[[狂暴术]]法术的效果。野蛮人的狂暴结束后，被这个[[狂暴之力]]影响的生物和野蛮人[[疲乏]]相同的轮数。
+|source_name=极限荒野
+}}

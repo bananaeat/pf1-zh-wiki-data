@@ -1,0 +1,16 @@
+{{Feat
+|name=精通疯狂撕扯
+|english_name=Improved Rending Fury
+|aliases=精通狂怒撕扯
+|categories=战斗
+|description=双爪极其致命，你就是[[疯狂撕扯]]的活体飓风。
+|prerequisites=[[疯狂撕扯]]，基本攻击加值+9，＜撕扯＞特殊攻击。
+|benefit=当你成功发动撕扯，你能造成额外的1d6伤害。此伤害不会因重击而加倍。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[高等疯狂撕扯]]（1 个条目）

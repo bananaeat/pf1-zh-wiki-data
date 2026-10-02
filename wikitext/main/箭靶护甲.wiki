@@ -1,0 +1,15 @@
+{{魔法物品
+|name=箭靶护甲
+|english_name=Armor of Arrow Attraction
+|aon=MagicCursedDisplay.aspx?ItemName=Armor of Arrow Attraction
+|cat=诅咒物品
+|base=[[全身甲]]
+|enh=+3
+|aura=强烈防护系
+|cl=16
+|slot=护甲
+|weight=50磅
+|description=魔法分析显示，这套护甲是一套普通的+3全身甲。它在面对近战攻击时表现正常，但实际上会吸引远程武器：穿戴者在对抗远程武器时AC承受-15减值。直到穿戴者真正遭到射击，这套护甲的真面目才会显露。
+|req=+3[[全身甲]]
+|source=核心规则书、极限宝具
+}}

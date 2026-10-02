@@ -1,0 +1,14 @@
+{{Feat
+|name=有志贵族
+|english_name=Aspiring Noble
+|categories=故事
+|pfs=否
+|description=你努力让他人将自己视作正统贵族。
+|prerequisites=必须是已被认可但尚未获得贵族头衔的家族成员。
+|benefit=你已学会在民众之间名声远扬。选择一个[[定居点]]及交涉或威吓技能。在你选定的定居点内，与当地庶民互动时，你在所选技能检定上获得+2加值。若你在所选技能上拥有10级或更多等级，此加值提升至+4。
+|goal=令你的家族被三个既有贵族家族或一位实权君主承认为一个贵族家庭。
+|completion_benefit=与你选定定居点的其他公民互动时，你在所选技能检定上获得+2加值。与庶民互动的加值提升至+4，若你在所选技能上拥有10级或更多等级，则提升至+6。
+|source=HotHC
+|source_name=皇庭英豪
+|source_url=https://pf1chm.pages.dev/topics/page_670.html
+}}

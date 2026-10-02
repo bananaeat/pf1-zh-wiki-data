@@ -1,0 +1,10 @@
+{{Trait
+|name=强迫症
+|english_name=Headstrong
+|type=缺陷
+|pfs=否
+|description=你觉得必须按照你的世界观去纠正别人的每一个动作和言论。
+|benefit=每当看到一个动作或听到一种言论是有悖于你的阵营的，你必须试图制止或将其纠正。如果你不尝试阻止或阻止失败(由GM审定),你[[战栗]]一小时。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

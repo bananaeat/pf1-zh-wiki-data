@@ -1,0 +1,11 @@
+{{Feat
+|name=感知灵体
+|english_name=Spirit Sense
+|description=你能够察觉到无形的存在。
+|prerequisites=[[异能敏感]]或者施放异能法术的能力
+|benefit=你在发现[[作祟]]的检定中获得+5加值。此外，当你以[[虚体]]生物为目标使用不会造成伤害的物质类法术或效果时，有75%的概率能够影响到目标。
+|normal=不会造成伤害的物质类法术或效果仅有50%的概率影响虚体生物。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

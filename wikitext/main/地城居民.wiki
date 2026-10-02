@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dungeoneer's Handbook pg. 33），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=地城居民
+|english_name=Dungeon Dweller
+|type=地区
+|prerequisites=任意地下地城
+|description=你不仅能在地底深处应付自如，更能在这些险恶的环境中如鱼得水。无论你是出生在镣铐群岛之下纵横交错的迷宫隧道中，还是被身份神秘的养育者在某座被遗忘的奥西里昂金字塔那黄沙遍布的走廊里抚养长大，你在格拉利昂的现身都与这个世界上某座恶名昭彰的地下城有着某种联系。你额外获得一门语言，从下列语言中选择：邪灵语、幽暗语、龙语、地精语、亡灵语、兽人语或地底通用语。此外，每当你必须进行[[生存]]检定以避免在地城中迷路时，你可以掷骰两次并取较好的结果。建议：可以考虑扮演《进阶种族手册》中的非常见种族。
+|source_name=地城探险者手册
+|source=DH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Dungeon%20Dweller
+}}

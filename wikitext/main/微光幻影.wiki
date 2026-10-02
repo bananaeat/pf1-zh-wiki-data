@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''微光幻影'''（Shimmering Mirage, Sp）是[[操念使]]的[[原力]]。
+
+元素：水；类别：通用（Sp）；等级：5；超载：1
+
+前置：[[水之护罩]]
+
+你的护罩能够偏折光线，形成闪亮的幻影。当你的水之护罩处于启动状态时，对你进行的攻击会由于[[隐蔽]]而承受20%的失手率，直至你所承受的超载得以移除为止。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Shimmering Mirage|2=Shimmering Mirage}}
+
+[[分类:原力]]

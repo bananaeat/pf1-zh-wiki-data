@@ -1,0 +1,10 @@
+{{Trait
+|name=郊野客
+|english_name=Child of Nature
+|type=宗教
+|prerequisites=信仰[[哥兹莱]]
+|description=你所受到的[[哥兹莱]]的祝福令你置身荒野时如同在家中般舒适惬意。你的生存检定获得+2背景加值，并且生存视为你的[[本职技能]]。
+|source_name=宗教背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

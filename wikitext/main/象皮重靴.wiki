@@ -1,0 +1,15 @@
+{{魔法物品
+|name=象皮重靴
+|english_name=Boots of the Mastodon
+|aon=MagicWondrousDisplay.aspx?FinalName=Boots of the Mastodon
+|cat=奇物
+|aura=中等变化系
+|cl=8
+|slot=脚部
+|price=10,500 gp
+|weight=2磅
+|description=这双巨大的靴子由乳齿象皮制成，大而笨重，穿戴者的[[隐匿]]检定受到-2减值，但在尝试[[闯越]][[战技]]时获得+2增强加值，并且在尝试闯越战技期间AC获得+2闪避加值。此外，穿戴者每天可以进行一次[[践踏(怪物能力)|践踏]]攻击（见《怪物图鉴》305页）。无论穿戴者实际体型如何，穿着这双靴子的生物都可以践踏其路径上大型或更小体型的生物。这次践踏攻击造成2d8+18点伤害（反射豁免DC 29减半）。
+|req=[[制造奇物]]、[[野兽形态 III]]
+|cost=5,250 gp
+|source=极限宝具
+}}

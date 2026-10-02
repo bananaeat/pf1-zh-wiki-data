@@ -1,0 +1,9 @@
+{{Trait
+|name=为自由战
+|english_name=Fight for Liberty
+|type=地区
+|prerequisites=安多安
+|description=你用激昂的战斗口号激励奴隶为自由而战。以一个[[标准动作]]，你可以进行一个DC 15的表演(演讲)检定。如果检定成功，任何在30尺范围内能够听到你的徒手（未持武器的）盟友，在使用临时武器和[[徒手打击]]进行的攻击检定中获得+2背景加值。这个加值持续每等级1轮。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

@@ -1,0 +1,6062 @@
+[
+{
+"kind": "book",
+"name": "进阶职业指南",
+"en": "Advanced Class Guide",
+"abbr": "ACG",
+"line": "规则书",
+"date": "2014-08-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "进化职业起源",
+"en": "Advanced Class Origins",
+"abbr": "ACO",
+"line": "玩家伴侣",
+"date": "2014-10-22",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "进阶玩家指南",
+"en": "Advanced Player’s Guide",
+"abbr": "APG",
+"line": "规则书",
+"date": "2010-08-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险者的军械库",
+"en": "Adventurer's Armory",
+"abbr": "AA1",
+"line": "玩家伴侣",
+"date": "2010-04-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险者的军械库2",
+"en": "Adventurer's Armory 2",
+"abbr": "AA2",
+"line": "玩家伴侣",
+"date": "2017-06-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险者指南",
+"en": "Adventurer's Guide",
+"abbr": "AG",
+"line": "规则书",
+"date": "2017-05-31",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "邪恶特务",
+"en": "Agents of Evil",
+"abbr": "AoE",
+"line": "玩家伴侣",
+"date": "2015-12-16",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "炼金术手册",
+"en": "Alchemy Manual",
+"abbr": "AM",
+"line": "玩家伴侣",
+"date": "2014-04-30",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "安多安，自由之魂",
+"en": "Andoran, Spirit of Liberty",
+"abbr": "ASoL",
+"line": "玩家伴侣",
+"date": "2010-01-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "动物档案",
+"en": "Animal Archive",
+"abbr": "AArch",
+"line": "玩家伴侣",
+"date": "2013-02-13",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "反英雄手册",
+"en": "Antihero's Handbook",
+"abbr": "A'sH",
+"line": "玩家伴侣",
+"date": "2017-09-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "水下冒险",
+"en": "Aquatic Adventures",
+"abbr": "",
+"line": "战役设定",
+"date": "2017-06-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "秘术选集",
+"en": "Arcane Anthology",
+"abbr": "AA",
+"line": "玩家伴侣",
+"date": "2016-01-16",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "护甲大师手册",
+"en": "Armor Master's Handbook",
+"abbr": "AMH",
+"line": "玩家伴侣",
+"date": "2016-04-27",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "神器与传说",
+"en": "Artifacts and Legends",
+"abbr": "AaL",
+"line": "战役设定",
+"date": "2012-09-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "格拉利昂的混种",
+"en": "Bastards of Golarion",
+"abbr": "BoG",
+"line": "玩家伴侣",
+"date": "2014-02-06",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "贝尔克泽恩，兽人部落之地",
+"en": "Belkzen",
+"abbr": "",
+"line": "战役设定",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "怪物图鉴",
+"en": "Bestiary",
+"abbr": "B1",
+"line": "规则书",
+"date": "2009-08-02",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "怪物图鉴1",
+"en": "Bestiary 1",
+"abbr": "",
+"line": "",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "怪物图鉴2",
+"en": "Bestiary 2",
+"abbr": "",
+"line": "规则书",
+"date": "2010-12-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "怪物图鉴3",
+"en": "Bestiary 3",
+"abbr": "",
+"line": "规则书",
+"date": "2012-01-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "怪物图鉴4",
+"en": "Bestiary 4",
+"abbr": "",
+"line": "规则书",
+"date": "2013-10-20",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "怪物图鉴5",
+"en": "Bestiary 5",
+"abbr": "",
+"line": "规则书",
+"date": "2015-11-18",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "怪物图鉴6",
+"en": "Bestiary 6",
+"abbr": "",
+"line": "规则书",
+"date": "2017-04-26",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "黑市指南",
+"en": "Black Markets",
+"abbr": "BM",
+"line": "玩家伴侣",
+"date": "2015-11-18",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "天界血脉",
+"en": "Blood of Angels",
+"abbr": "BoA",
+"line": "玩家伴侣",
+"date": "2012-06-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "炼狱血脉",
+"en": "Blood of Fiends",
+"abbr": "BoF",
+"line": "玩家伴侣",
+"date": "2012-04-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "阴影血脉",
+"en": "Blood of Shadows",
+"abbr": "BoS",
+"line": "玩家伴侣",
+"date": "2016-02-24",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "古国血脉",
+"en": "Blood of the Ancients",
+"abbr": "BotA",
+"line": "玩家伴侣",
+"date": "2018-05-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "野兽血脉",
+"en": "Blood of the Beast",
+"abbr": "BotB",
+"line": "玩家伴侣",
+"date": "2016-11-21",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "巫团血脉",
+"en": "Blood of the Coven",
+"abbr": "BotC",
+"line": "玩家伴侣",
+"date": "2017-10-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "元素血脉",
+"en": "Blood of the Elements",
+"abbr": "BotE",
+"line": "玩家伴侣",
+"date": "2014-06-25",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "月之血脉",
+"en": "Blood of the Moon",
+"abbr": "BotM",
+"line": "玩家伴侣",
+"date": "2013-10-21",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "夜之血脉",
+"en": "Blood of the Night",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2012-12-06",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "海洋血脉",
+"en": "Blood of the Sea",
+"abbr": "BotS",
+"line": "玩家伴侣",
+"date": "2017-07-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "平衡勇士",
+"en": "Champions of Balance",
+"abbr": "CoB",
+"line": "玩家伴侣",
+"date": "2014-03-25",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "秽邪勇士",
+"en": "Champions of Corruption",
+"abbr": "CoC",
+"line": "玩家伴侣",
+"date": "2014-09-10",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "纯洁勇士",
+"en": "Champions of Purity",
+"abbr": "CoP",
+"line": "玩家伴侣",
+"date": "2013-04-16",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "切里亚斯，魔鬼王朝",
+"en": "Cheliax, Empire of Devils",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2009-08-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "传奇编年史",
+"en": "Chronicle of Legends",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2019-05-29",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "正义编年史",
+"en": "Chronicle of the Righteous",
+"abbr": "CotR",
+"line": "战役设定",
+"date": "2013-05-17",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "格拉利昂的城市",
+"en": "Cities of Golarion",
+"abbr": "",
+"line": "战役设定",
+"date": "2009-11-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "再探经典宝藏",
+"en": "Classic Treasures Revisited",
+"abbr": "",
+"line": "战役设定",
+"date": "2010-04-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "部属与伙伴",
+"en": "Cohorts and Companions",
+"abbr": "CaC",
+"line": "玩家伴侣",
+"date": "2015-05-29",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "对立协调",
+"en": "Concordance of Rivals",
+"abbr": "",
+"line": "战役设定",
+"date": "2019-04-24",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "构装体手册",
+"en": "Construct Handbook",
+"abbr": "CH",
+"line": "战役设定",
+"date": "2018-11-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "重探幽暗地域",
+"en": "Darklands Revisited",
+"abbr": "DR",
+"line": "战役设定",
+"date": "2016-02-24",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "恶魔猎人手册",
+"en": "Demon Hunter’s Handbook",
+"abbr": "DHH",
+"line": "玩家伴侣",
+"date": "2013-08-17",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "阴招战术工具箱",
+"en": "Dirty Tactics Toolbox",
+"abbr": "DTT",
+"line": "玩家伴侣",
+"date": "2015-08-29",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "阴招工具箱",
+"en": "Dirty Tricks Toolbox",
+"abbr": "DTT",
+"line": "",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "门徒教义",
+"en": "Disciple's Doctrine",
+"abbr": "DD",
+"line": "玩家伴侣",
+"date": "2018-01-31",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "遥远国度",
+"en": "Distant Realms",
+"abbr": "DRe",
+"line": "战役设定",
+"date": "2018-06-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "神术选集",
+"en": "Divine Anthology",
+"abbr": "DA",
+"line": "玩家伴侣",
+"date": "2016-09-28",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "初探龙国",
+"en": "Dragon Empires Primer",
+"abbr": "DEP",
+"line": "玩家伴侣",
+"date": "2011-12-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "巨龙再临",
+"en": "Dragons Revisited",
+"abbr": "",
+"line": "战役设定",
+"date": "2009-03-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "屠龙者手册",
+"en": "Dragonslayer's Handbook",
+"abbr": "DH",
+"line": "玩家伴侣",
+"date": "2013-07-11",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "杜鲁玛，利益与预言",
+"en": "Druma",
+"abbr": "",
+"line": "战役设定",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "地城探险者手册",
+"en": "Dungeoneer's Handbook",
+"abbr": "DH",
+"line": "玩家伴侣",
+"date": "2013-03-08",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "元素大师手册",
+"en": "Elemental Master's Handbook",
+"abbr": "EMH",
+"line": "玩家伴侣",
+"date": "2017-08-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "组织指南",
+"en": "Faction Guide",
+"abbr": "FM",
+"line": "战役设定",
+"date": "2010-05-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "信仰与哲学",
+"en": "Faiths and Philosophies",
+"abbr": "F&P",
+"line": "玩家伴侣",
+"date": "2013-08-19",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "魔宠手记",
+"en": "Familiar Folio",
+"abbr": "FF",
+"line": "玩家伴侣",
+"date": "2015-01-17",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "游戏主持人指南",
+"en": "GameMastery Guide",
+"abbr": "GMG",
+"line": "规则书",
+"date": "2010-06-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "巨人猎手手册",
+"en": "Giant Hunter's Handbook",
+"abbr": "GHH",
+"line": "玩家伴侣",
+"date": "2014-12-17",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "巨人再临",
+"en": "Giants Revisited",
+"abbr": "",
+"line": "战役设定",
+"date": "2012-05-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "格拉利昂的地精",
+"en": "Goblins of Golarion",
+"abbr": "GoG",
+"line": "玩家伴侣",
+"date": "2011-07-27",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "河域诸国指南",
+"en": "Guide to the River Kingdoms",
+"abbr": "GttRK",
+"line": "战役设定",
+"date": "2010-02-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "格拉利昂的半身人",
+"en": "Halflings of Golarion",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2011-01-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "闹鬼英雄手册",
+"en": "Haunted Heroes Handbook",
+"abbr": "HHH",
+"line": "玩家伴侣",
+"date": "2016-08-31",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "治疗者手册",
+"en": "Healer's Handbook",
+"abbr": "H'sH",
+"line": "玩家伴侣",
+"date": "2017-01-25",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "缘界英雄",
+"en": "Heroes from the Fringe",
+"abbr": "HftF",
+"line": "玩家伴侣",
+"date": "2018-08-30",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "格拉利昂的英雄",
+"en": "Heroes of Golarion",
+"abbr": "HoG",
+"line": "玩家伴侣",
+"date": "2019-03-27",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "幽暗地域英雄",
+"en": "Heroes of the Darklands",
+"abbr": "HotD",
+"line": "玩家伴侣",
+"date": "2017-04-26",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "皇庭英豪",
+"en": "Heroes of the High Court",
+"abbr": "HotHC",
+"line": "玩家伴侣",
+"date": "2017-02-08",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "市井英雄",
+"en": "Heroes of the Streets",
+"abbr": "HotS",
+"line": "玩家伴侣",
+"date": "2015-09-30",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "荒野英雄",
+"en": "Heroes of the Wild",
+"abbr": "HotW",
+"line": "玩家伴侣",
+"date": "2015-04-29",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "惧怖冒险",
+"en": "Horror Adventures",
+"abbr": "HA",
+"line": "规则书",
+"date": "2016-08-07",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "惧怖国度",
+"en": "Horror Realms",
+"abbr": "HR",
+"line": "战役设定",
+"date": "2016-11-21",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "内海战斗",
+"en": "Inner Sea Combat",
+"abbr": "ISC",
+"line": "战役设定",
+"date": "2014-04-30",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "内海诸神",
+"en": "Inner Sea Gods",
+"abbr": "ISG",
+"line": "战役设定",
+"date": "2014-04-30",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "内海诡道",
+"en": "Inner Sea Intrigue",
+"abbr": "ISI",
+"line": "战役设定",
+"date": "2016-05-27",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "内海魔法",
+"en": "Inner Sea Magic",
+"abbr": "ISM",
+"line": "战役设定",
+"date": "2011-07-27",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "内海怪物志",
+"en": "Inner Sea Monster Codex",
+"abbr": "",
+"line": "战役设定",
+"date": "2015-06-29",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "初探内海",
+"en": "Inner Sea Primer",
+"abbr": "ISP",
+"line": "玩家伴侣",
+"date": "2010-11-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "内海种族",
+"en": "Inner Sea Races",
+"abbr": "ISR",
+"line": "战役设定",
+"date": "2015-09-30",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "内海酒馆",
+"en": "Inner Sea Taverns",
+"abbr": "",
+"line": "战役设定",
+"date": "2018-02-28",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "内海世界指南",
+"en": "Inner Sea World Guide",
+"abbr": "ISWG",
+"line": "战役设定",
+"date": "2011-03-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "内海骑士",
+"en": "Knights of the Inner Sea",
+"abbr": "KotI",
+"line": "玩家伴侣",
+"date": "2012-09-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "格拉利昂的狗头人",
+"en": "Kobolds of Golarion",
+"abbr": "KoG",
+"line": "玩家伴侣",
+"date": "2013-06-13",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "巨龙遗产",
+"en": "Legacy of Dragons",
+"abbr": "LoD",
+"line": "玩家伴侣",
+"date": "2016-07-28",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "第一世界的遗产",
+"en": "Legacy of the First World",
+"abbr": "LotFW",
+"line": "玩家伴侣",
+"date": "2017-05-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "失落宝藏",
+"en": "Lost Treasures",
+"abbr": "LT",
+"line": "战役设定",
+"date": "2014-12-17",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "魔法战术工具箱",
+"en": "Magic Tactics Toolbox",
+"abbr": "MTT",
+"line": "玩家伴侣",
+"date": "2016-05-27",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "魔法市集指南",
+"en": "Magical Marketplace",
+"abbr": "MM",
+"line": "玩家伴侣",
+"date": "2013-12-11",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "武术手册",
+"en": "Martial Arts Handbook",
+"abbr": "MAH",
+"line": "玩家伴侣",
+"date": "2018-11-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "近战战术工具箱",
+"en": "Melee Tactics Toolbox",
+"abbr": "MTT",
+"line": "玩家伴侣",
+"date": "2015-03-25",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "商人货单",
+"en": "Merchant's Manifest",
+"abbr": "MM",
+"line": "玩家伴侣",
+"date": "2018-03-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "怪物志",
+"en": "Monster Codex",
+"abbr": "MC",
+"line": "规则书",
+"date": "2014-10-22",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "怪物猎人手册",
+"en": "Monster Hunter's Handbook",
+"abbr": "MHH",
+"line": "玩家伴侣",
+"date": "2017-03-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "怪物召唤者手册",
+"en": "Monster Summoner's Handbook",
+"abbr": "MSH",
+"line": "玩家伴侣",
+"date": "2015-06-29",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "神话冒险",
+"en": "Mythic Adventures",
+"abbr": "MA",
+"line": "规则书",
+"date": "2013-08-19",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "神话源始",
+"en": "Mythic Origins",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2013-09-25",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "神话领域",
+"en": "Mythic Realms",
+"abbr": "",
+"line": "战役设定",
+"date": "2013-09-25",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "异能冒险",
+"en": "Occult Adventure",
+"abbr": "OA",
+"line": "规则书",
+"date": "2015-07-29",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "异能选集",
+"en": "Psychic Anthology",
+"abbr": "OAn",
+"line": "玩家伴侣",
+"date": "2017-02-08",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "异能源始",
+"en": "Occult Origins",
+"abbr": "OO",
+"line": "玩家伴侣",
+"date": "2015-10-21",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "异能国度",
+"en": "Occult Realms",
+"abbr": "",
+"line": "战役设定",
+"date": "2015-11-18",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "格拉利昂的兽人",
+"en": "Orcs of Golarion",
+"abbr": "OoG",
+"line": "玩家伴侣",
+"date": "2010-07-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "地狱骑士之道",
+"en": "Path of the Hellknight",
+"abbr": "PotH",
+"line": "战役设定",
+"date": "2016-06-27",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路101：金塔格契约",
+"en": "Pathfinder #101: The Kintargo Contract",
+"abbr": "",
+"line": "冒险之路",
+"date": "2016-01-16",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路118：磐石围攻",
+"en": "Pathfinder #118: Siege of Stone",
+"abbr": "",
+"line": "冒险之路",
+"date": "2017-05-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路119：荒疫囚徒",
+"en": "Pathfinder #119: Prisoners of the Blight",
+"abbr": "",
+"line": "冒险之路",
+"date": "2017-06-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路121：前哨站失联",
+"en": "Pathfinder #121: The Lost Outpost",
+"abbr": "",
+"line": "冒险之路",
+"date": "2017-08-13",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路5：救世者的原罪",
+"en": "Pathfinder #5: Sins of the Saviors",
+"abbr": "",
+"line": "冒险之路",
+"date": "2008-01-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路91：血征山之战",
+"en": "Pathfinder #91: Battle of Bloodmarch Hills",
+"abbr": "",
+"line": "冒险之路",
+"date": "2015-02-25",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "探索者协会战地指南",
+"en": "Pathfinder Society Field Guide",
+"abbr": "PSFG",
+"line": "战役设定",
+"date": "2011-07-27",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "初探探索者协会",
+"en": "Pathfinder Society Primer",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2013-07-11",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "解放者",
+"en": "Pathfinder Unchained",
+"abbr": "PU",
+"line": "规则书",
+"date": "2015-04-29",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "进阶之路",
+"en": "Paths of Prestige",
+"abbr": "PoP",
+"line": "战役设定",
+"date": "2012-08-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "北地居民",
+"en": "People of the North",
+"abbr": "PotN",
+"line": "玩家伴侣",
+"date": "2013-01-22",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "河域子民",
+"en": "People of the River",
+"abbr": "PotR",
+"line": "玩家伴侣",
+"date": "2014-07-25",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "沙之子民",
+"en": "People of the Sands",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2014-01-09",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "繁星子民",
+"en": "People of the Stars",
+"abbr": "PotS",
+"line": "玩家伴侣",
+"date": "2014-08-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "废土子民",
+"en": "People of the Wastes",
+"abbr": "PotW",
+"line": "玩家伴侣",
+"date": "2017-11-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "内海海盗",
+"en": "Pirates of the Inner Sea",
+"abbr": "PotIS",
+"line": "玩家伴侣",
+"date": "2012-02-02",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "位面冒险",
+"en": "Planar Adventures",
+"abbr": "PA",
+"line": "规则书",
+"date": "2018-06-21",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "位面旅者手册",
+"en": "Plane-Hopper's Handbook",
+"abbr": "PH'sH",
+"line": "玩家伴侣",
+"date": "2018-09-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "位面之力",
+"en": "Planes of Power",
+"abbr": "PoP",
+"line": "战役设定",
+"date": "2016-09-28",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "药剂与毒药",
+"en": "Potions and Poisons",
+"abbr": "P&P",
+"line": "玩家伴侣",
+"date": "2017-12-13",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "卡蒂亚，东方明珠",
+"en": "Qadira",
+"abbr": "",
+"line": "战役设定",
+"date": "2017-01-25",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "远程战术工具箱",
+"en": "Ranged Tactics Toolbox",
+"abbr": "RTT",
+"line": "玩家伴侣",
+"date": "2014-11-22",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "符文领主的归来",
+"en": "Return of the Runelords",
+"abbr": "RotR",
+"line": "冒险之路",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "敌手指南",
+"en": "Rival Guide",
+"abbr": "",
+"line": "战役设定",
+"date": "2011-05-10",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "间谍大师手册",
+"en": "Spymaster's Handbook",
+"abbr": "SMH",
+"line": "玩家伴侣",
+"date": "2016-06-27",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "诡秘万古",
+"en": "Strange Aeons",
+"abbr": "SA",
+"line": "冒险之路",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "死者之路",
+"en": "The Dead Road",
+"abbr": "",
+"line": "",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "第一世界，妖精之国",
+"en": "The First World",
+"abbr": "",
+"line": "战役设定",
+"date": "2016-12-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "哈罗牌手册",
+"en": "The Harrow Handbook",
+"abbr": "THH",
+"line": "玩家伴侣",
+"date": "2014-05-28",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "极限战役",
+"en": "Ultimate Campaign",
+"abbr": "UCa",
+"line": "规则书",
+"date": "2013-05-17",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "极限战斗",
+"en": "Ultimate Combat",
+"abbr": "UC",
+"line": "规则书",
+"date": "2011-07-27",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "极限诡道",
+"en": "Ultimate Intrigue",
+"abbr": "UI",
+"line": "规则书",
+"date": "2016-03-23",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "极限魔法",
+"en": "Ultimate Magic",
+"abbr": "UM",
+"line": "规则书",
+"date": "2011-05-10",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "极限荒野",
+"en": "Ultimate Wilderness",
+"abbr": "UW",
+"line": "规则书",
+"date": "2017-11-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "亡灵杀手手册",
+"en": "Undead Slayer's Handbook",
+"abbr": "USH",
+"line": "玩家伴侣",
+"date": "2014-04-30",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "瓦瑞西亚，传说诞生之地",
+"en": "Varisia",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2012-08-02",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "恶棍志",
+"en": "Villain Codex",
+"abbr": "VC",
+"line": "规则书",
+"date": "2016-10-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "武器大师手册",
+"en": "Weapon Master's Handbook",
+"abbr": "WMH",
+"line": "玩家伴侣",
+"date": "2015-11-30",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "荒野源始",
+"en": "Wilderness Origins",
+"abbr": "WO",
+"line": "玩家伴侣",
+"date": "2019-01-30",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "任务与战役",
+"en": "Quests and Campaigns",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2013-06-13",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "内海神殿",
+"en": "Inner Sea Temples",
+"abbr": "",
+"line": "战役设定",
+"date": "2016-10-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "再探死灵",
+"en": "Undead Revisited",
+"abbr": "",
+"line": "战役设定",
+"date": "2011-06-10",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "卡蒂亚，通向东方的大门",
+"en": "Qadira, Gateway to the East",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2009-07-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "均衡信念",
+"en": "Faiths of Balance",
+"abbr": "FoB",
+"line": "玩家伴侣",
+"date": "2011-07-06",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "塔尔多，荣光荡漾之地",
+"en": "Taldor, Echoes of Glory",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2009-06-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "奈多，阴影之地",
+"en": "Nidal, Land of Shadows",
+"abbr": "",
+"line": "战役设定",
+"date": "2018-04-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "异能奥秘",
+"en": "Occult Mysteries",
+"abbr": "",
+"line": "战役设定",
+"date": "2014-05-28",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "极限宝具",
+"en": "Ultimate Equipment",
+"abbr": "UE",
+"line": "规则书",
+"date": "2012-09-03",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "林诺姆诸王之国",
+"en": "Lands of the Linnorm Kings",
+"abbr": "",
+"line": "战役设定",
+"date": "2011-10-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "核心规则书",
+"en": "Core Rulebook",
+"abbr": "CRB",
+"line": "规则书",
+"date": "2009-08-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "格拉利昂的侏儒",
+"en": "Gnomes of Golarion",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2010-05-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "格拉利昂的矮人",
+"en": "Dwarves of Golarion",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2009-12-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "格拉利昂的精灵",
+"en": "Elves of Golarion",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2008-10-02",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "秘密探寻者",
+"en": "Seekers of Secrets",
+"abbr": "",
+"line": "战役设定",
+"date": "2009-10-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "纽梅利亚，星落之地",
+"en": "Numeria, Land of Fallen Stars",
+"abbr": "",
+"line": "战役设定",
+"date": "2014-06-25",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "经典恐怖再临",
+"en": "Classic Horrors Revisited",
+"abbr": "",
+"line": "战役设定",
+"date": "2010-01-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "萨迦瓦，失落的殖民地",
+"en": "Sargava, the Lost Colony",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2010-06-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "进阶种族手册",
+"en": "Advanced Race Guide",
+"abbr": "ARG",
+"line": "规则书",
+"date": "2012-05-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "遥远世界(战役设定)",
+"en": "Distant Worlds",
+"abbr": "",
+"line": "战役设定",
+"date": "2012-03-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "堕落信念",
+"en": "Faiths of Corruption",
+"abbr": "FoC",
+"line": "玩家伴侣",
+"date": "2011-10-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "NPC志",
+"en": "NPC Codex",
+"abbr": "",
+"line": "规则书",
+"date": "2012-11-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "猛龙进击",
+"en": "Dragons Unleashed",
+"abbr": "",
+"line": "战役设定",
+"date": "2013-06-13",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "神话怪物再临",
+"en": "Mythical Monsters Revisited",
+"abbr": "",
+"line": "战役设定",
+"date": "2012-02-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路2：剥皮锯谋杀案",
+"en": "Pathfinder #2: The Skinsaw Murders",
+"abbr": "",
+"line": "冒险之路",
+"date": "2007-10-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路3：钩山大屠杀",
+"en": "Pathfinder #3: The Hook Mountain Massacre",
+"abbr": "",
+"line": "冒险之路",
+"date": "2007-11-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路4：石巨人要塞",
+"en": "Pathfinder #4: Fortress of the Stone Giants",
+"abbr": "",
+"line": "冒险之路",
+"date": "2007-12-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路6：辛沙拉斯特尖塔",
+"en": "Pathfinder #6: Spires of Xin-Shalast",
+"abbr": "",
+"line": "冒险之路",
+"date": "2008-02-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路7：无序边缘",
+"en": "Pathfinder #7: Edge of Anarchy",
+"abbr": "",
+"line": "冒险之路",
+"date": "2008-02-02",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路9：逃离旧科瓦萨",
+"en": "Pathfinder #9: Escape from Old Korvosa",
+"abbr": "",
+"line": "冒险之路",
+"date": "2008-05-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路10：灰烬之史",
+"en": "Pathfinder #10: A History of Ashes",
+"abbr": "",
+"line": "冒险之路",
+"date": "2008-06-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路16：无尽长夜",
+"en": "Pathfinder #16: Endless Night",
+"abbr": "",
+"line": "冒险之路",
+"date": "2008-11-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路17：黑暗的记忆",
+"en": "Pathfinder #17: A Memory of Darkness",
+"abbr": "",
+"line": "冒险之路",
+"date": "2008-12-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路18：坠入午夜",
+"en": "Pathfinder #18: Descent into Midnight",
+"abbr": "",
+"line": "冒险之路",
+"date": "2009-01-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路19：腐肉之王的嚎叫",
+"en": "Pathfinder #19: Howl of the Carrion King",
+"abbr": "",
+"line": "冒险之路",
+"date": "2009-03-02",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路21：胡狼的代价",
+"en": "Pathfinder #21: The Jackal's Price",
+"abbr": "",
+"line": "冒险之路",
+"date": "2009-04-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路22：永恒的终结",
+"en": "Pathfinder #22: The End of Eternity",
+"abbr": "",
+"line": "冒险之路",
+"date": "2009-05-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路24：最后的愿望",
+"en": "Pathfinder #24: The Final Wish",
+"abbr": "",
+"line": "冒险之路",
+"date": "2009-07-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路25：厄瑞波斯的私生子",
+"en": "Pathfinder #25: The Bastards of Erebus",
+"abbr": "",
+"line": "冒险之路",
+"date": "2009-08-02",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路26：六重审判",
+"en": "Pathfinder #26: The Sixfold Trial",
+"abbr": "",
+"line": "冒险之路",
+"date": "2009-10-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路28：炼狱综合征",
+"en": "Pathfinder #28: The Infernal Syndrome",
+"abbr": "",
+"line": "冒险之路",
+"date": "2009-12-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路30：两度受诅的王子",
+"en": "Pathfinder #30: The Twice-Damned Prince",
+"abbr": "",
+"line": "冒险之路",
+"date": "2010-02-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路34：以血还血",
+"en": "Pathfinder #34: Blood for Blood",
+"abbr": "",
+"line": "冒险之路",
+"date": "2010-06-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路39：七矛之城",
+"en": "Pathfinder #39: The City of Seven Spears",
+"abbr": "",
+"line": "冒险之路",
+"date": "2010-10-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路42：蛇神圣所",
+"en": "Pathfinder #42: Sanctum of the Serpent God",
+"abbr": "",
+"line": "冒险之路",
+"date": "2011-02-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路46：守望者苏醒",
+"en": "Pathfinder #46: Wake of the Watcher",
+"abbr": "",
+"line": "冒险之路",
+"date": "2011-06-10",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路51：饥饿风暴",
+"en": "Pathfinder #51: The Hungry Storm",
+"abbr": "",
+"line": "冒险之路",
+"date": "2011-10-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路52：精魂之森",
+"en": "Pathfinder #52: Forest of Spirits",
+"abbr": "",
+"line": "冒险之路",
+"date": "2011-11-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路54：空王座",
+"en": "Pathfinder #54: The Empty Throne",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-01-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路55：苦艾号叛变",
+"en": "Pathfinder #55: The Wormwood Mutiny",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-02-02",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路56：热病海劫掠者",
+"en": "Pathfinder #56: Raiders of the Fever Sea",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-03-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路58：空眼之岛",
+"en": "Pathfinder #58: Island of Empty Eyes",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-05-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路61：罪恶碎片",
+"en": "Pathfinder #61: Shards of Sin",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-08-02",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路69：少女、母亲、老妪",
+"en": "Pathfinder #69: Maiden, Mother, Crone",
+"abbr": "",
+"line": "冒险之路",
+"date": "2013-04-16",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路80：空墓",
+"en": "Pathfinder #80: Empty Graves",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-04-29",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路81：流沙",
+"en": "Pathfinder #81: Shifting Sands",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-05-28",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路85：创造之火",
+"en": "Pathfinder #85: Fires of Creation",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-09-10",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路89：坠星宫殿",
+"en": "Pathfinder #89: Palace of Fallen Stars",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-12-17",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路90：神性驱动器",
+"en": "Pathfinder #90: The Divinity Drive",
+"abbr": "",
+"line": "冒险之路",
+"date": "2015-01-17",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路102：碎裂地狱之骨",
+"en": "Pathfinder #102: Breaking the Bones of Hell",
+"abbr": "",
+"line": "冒险之路",
+"date": "2016-02-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路105：炼狱之门",
+"en": "Pathfinder #105: The Inferno Gate",
+"abbr": "",
+"line": "冒险之路",
+"date": "2016-04-27",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路107：神爪之祸",
+"en": "Pathfinder #107: Scourge of the Godclaw",
+"abbr": "",
+"line": "冒险之路",
+"date": "2016-06-27",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路113：滋生于内",
+"en": "Pathfinder #113: What Grows Within",
+"abbr": "",
+"line": "冒险之路",
+"date": "2017-01-25",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路117：强攻长影城",
+"en": "Pathfinder #117: Assault on Longshadow",
+"abbr": "",
+"line": "冒险之路",
+"date": "2017-04-26",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路124：深海之城",
+"en": "Pathfinder #124: City in the Deep",
+"abbr": "",
+"line": "冒险之路",
+"date": "2017-11-13",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路132：六传奇之魂",
+"en": "Pathfinder #132: The Six-Legend Soul",
+"abbr": "",
+"line": "冒险之路",
+"date": "2018-07-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路135：符文瘟疫",
+"en": "Pathfinder #135: Runeplague",
+"abbr": "",
+"line": "冒险之路",
+"date": "2018-10-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路139：死者之路",
+"en": "Pathfinder #139: The Dead Roads",
+"abbr": "",
+"line": "冒险之路",
+"date": "2019-02-27",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路95：烈火铁砧",
+"en": "Pathfinder #95: Anvil of Fire",
+"abbr": "",
+"line": "冒险之路",
+"date": "2015-07-29",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路144：死亡助产士",
+"en": "Pathfinder #144: Midwives to Death",
+"abbr": "",
+"line": "冒险之路",
+"date": "2019-07-26",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路71：拉斯普京必须死！",
+"en": "Pathfinder #71: Rasputin Must Die!",
+"abbr": "",
+"line": "冒险之路",
+"date": "2013-06-13",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "烈焰传承玩家手册",
+"en": "Legacy of Fire Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2009-03-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "符文领主崛起玩家手册",
+"en": "Rise of the Runelords Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2007-09-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "奥西里昂：法老之地",
+"en": "Osirion, Land of the Pharaohs",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2008-12-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "再探经典怪物",
+"en": "Classic Monsters Revisited",
+"abbr": "",
+"line": "战役设定",
+"date": "2008-07-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "探索者漫画10",
+"en": "Pathfinder Comics:10",
+"abbr": "",
+"line": "其他",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "安多安：自由诞生之地",
+"en": "Andoran, Birthplace of Freedom",
+"abbr": "",
+"line": "战役设定",
+"date": "2015-05-29",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "龙陨守卫",
+"en": "Guardians of Dragonfall",
+"abbr": "",
+"line": "模组",
+"date": "2008-06-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "探索者：螺旋之骨3",
+"en": "Pathfinder: Spiral of Bones #3",
+"abbr": "",
+"line": "其他",
+"date": "2018-05-30",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "格拉利昂的地城",
+"en": "Dungeons of Golarion",
+"abbr": "",
+"line": "战役设定",
+"date": "2011-07-06",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "格拉利昂的失落之城",
+"en": "Lost Cities of Golarion",
+"abbr": "",
+"line": "战役设定",
+"date": "2011-01-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "再探神秘怪物",
+"en": "Mystery Monsters Revisited",
+"abbr": "",
+"line": "战役设定",
+"date": "2012-12-06",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "探索者：世界之境1",
+"en": "Pathfinder: Worldscape #1",
+"abbr": "",
+"line": "其他",
+"date": "2016-10-19",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "永罪之书第二卷：混沌领主",
+"en": "Book of the Damned - Volume 2: Lords of Chaos",
+"abbr": "",
+"line": "战役设定",
+"date": "2010-12-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "异乡人之城",
+"en": "City of Strangers",
+"abbr": "",
+"line": "战役设定",
+"date": "2010-06-30",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "征服血誓谷",
+"en": "Conquest of Bloodsworn Vale",
+"abbr": "",
+"line": "模组",
+"date": "2007-11-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "腥红王座的诅咒玩家手册",
+"en": "Curse of the Crimson Throne Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2008-02-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "黑暗市集：卡塔佩什指南",
+"en": "Dark Markets - A Guide to Katapesh",
+"abbr": "",
+"line": "战役设定",
+"date": "2009-04-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "再探地城住民",
+"en": "Dungeon Denizens Revisited",
+"abbr": "",
+"line": "战役设定",
+"date": "2009-07-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "赤鸦飞翔",
+"en": "Flight of the Red Raven",
+"abbr": "",
+"line": "模组",
+"date": "2008-12-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "邪恶画廊",
+"en": "Gallery of Evil",
+"abbr": "",
+"line": "模组",
+"date": "2008-01-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "GM状态卡",
+"en": "GameMastery Condition Cards",
+"abbr": "",
+"line": "其他",
+"date": "2011-05-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "暗月谷指南",
+"en": "Guide to Darkmoon Vale",
+"abbr": "",
+"line": "战役设定",
+"date": "2008-08-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "科瓦萨指南",
+"en": "Guide to Korvosa",
+"abbr": "",
+"line": "战役设定",
+"date": "2008-06-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "深入幽暗地域",
+"en": "Into the Darklands",
+"abbr": "",
+"line": "战役设定",
+"date": "2008-11-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "钢铁诸神玩家手册",
+"en": "Iron Gods Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-08-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "凶夜女王的国度",
+"en": "Realm of the Fellnight Queen",
+"abbr": "",
+"line": "模组",
+"date": "2010-02-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "狗头人之王的复仇",
+"en": "Revenge of the Kobold King",
+"abbr": "",
+"line": "模组",
+"date": "2008-11-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "二度黑暗玩家手册",
+"en": "Second Darkness Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2008-08-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "心中之魔",
+"en": "The Demon Within",
+"abbr": "",
+"line": "模组",
+"date": "2008-10-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "巨龙的索求",
+"en": "The Dragon's Demand",
+"abbr": "",
+"line": "模组",
+"date": "2013-09-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "哈罗之劫",
+"en": "The Harrowing",
+"abbr": "",
+"line": "模组",
+"date": "2011-07-22",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "格拉利昂的陵墓",
+"en": "Tombs of Golarion",
+"abbr": "",
+"line": "战役设定",
+"date": "2015-03-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "不死生物横行",
+"en": "Undead Unleashed",
+"abbr": "",
+"line": "战役设定",
+"date": "2014-09-10",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "重生熔炉的守护者",
+"en": "Wardens of the Reborn Forge",
+"abbr": "",
+"line": "模组",
+"date": "2014-01-09",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "我们地精自由啦！",
+"en": "We Be Goblins Free!",
+"abbr": "",
+"line": "模组",
+"date": "2015-07-29",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路8：死前七日",
+"en": "Pathfinder #8: Seven Days to the Grave",
+"abbr": "",
+"line": "冒险之路",
+"date": "2008-04-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "Paizo 博客：极限戏法",
+"en": "Paizo Blog - Ultimate Cantrips",
+"abbr": "",
+"line": "其他",
+"date": "2011-05-24",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路140：罗斯拉宝匣悼词",
+"en": "Pathfinder #140: Eulogy for Roslar's Coffer",
+"abbr": "",
+"line": "冒险之路",
+"date": "2019-03-27",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路35：河域诸王之战",
+"en": "Pathfinder #35: War of the River Kings",
+"abbr": "",
+"line": "冒险之路",
+"date": "2010-06-30",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "纯洁信念",
+"en": "Faiths of Purity",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2011-04-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路11：疤墙骸骨",
+"en": "Pathfinder #11: Skeletons of Scarwall",
+"abbr": "",
+"line": "冒险之路",
+"date": "2008-07-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路14：虚空之子",
+"en": "Pathfinder #14: Children of the Void",
+"abbr": "",
+"line": "冒险之路",
+"date": "2008-09-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路27：尘埃之下",
+"en": "Pathfinder #27: What Lies in Dust",
+"abbr": "",
+"line": "冒险之路",
+"date": "2009-11-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路45：破碎之月",
+"en": "Pathfinder #45: Broken Moon",
+"abbr": "",
+"line": "冒险之路",
+"date": "2011-05-10",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路53：荣誉之潮",
+"en": "Pathfinder #53: Tide of Honor",
+"abbr": "",
+"line": "冒险之路",
+"date": "2011-12-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路57：风暴渐起",
+"en": "Pathfinder #57: Tempest Rising",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-04-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路73：世界之伤入侵",
+"en": "Pathfinder #73: The Worldwound Incursion",
+"abbr": "",
+"line": "冒险之路",
+"date": "2013-08-19",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路77：象牙迷宫的使者",
+"en": "Pathfinder #77: Herald of the Ivory Labyrinth",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-01-09",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路94：巨人女王的冰墓",
+"en": "Pathfinder #94: Ice Tomb of the Giant Queen",
+"abbr": "",
+"line": "冒险之路",
+"date": "2015-06-29",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路109：寻觅理智",
+"en": "Pathfinder #109: In Search of Sanity",
+"abbr": "",
+"line": "冒险之路",
+"date": "2016-08-31",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路112：时间之外的低语",
+"en": "Pathfinder #112: The Whisper Out of Time",
+"abbr": "",
+"line": "冒险之路",
+"date": "2016-12-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路115：猎物小径",
+"en": "Pathfinder #115: Trail of the Hunted",
+"abbr": "",
+"line": "冒险之路",
+"date": "2017-03-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路116：战争之牙",
+"en": "Pathfinder #116: Fangs of War",
+"abbr": "",
+"line": "冒险之路",
+"date": "2017-03-24",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路122：深入破碎大陆",
+"en": "Pathfinder #122: Into the Shattered Continent",
+"abbr": "",
+"line": "冒险之路",
+"date": "2017-09-13",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路123：浸没大圣堂",
+"en": "Pathfinder #123: The Flooded Cathedral",
+"abbr": "",
+"line": "冒险之路",
+"date": "2017-10-13",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路125：溺水者之塔",
+"en": "Pathfinder #125: Tower of the Drowned Dead",
+"abbr": "",
+"line": "冒险之路",
+"date": "2017-12-13",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路126：帷幕后的往昔",
+"en": "Pathfinder #126: Beyond the Veiled Past",
+"abbr": "",
+"line": "冒险之路",
+"date": "2018-01-31",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路128：鸣鸟、贵胄、破坏者",
+"en": "Pathfinder #128: Songbird, Scion, Saboteur",
+"abbr": "",
+"line": "冒险之路",
+"date": "2018-03-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路133：罗德里克湾的秘密",
+"en": "Pathfinder #133: Secrets of Roderic's Cove",
+"abbr": "",
+"line": "冒险之路",
+"date": "2018-08-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路136：孔雀灵神殿",
+"en": "Pathfinder #136: Temple of the Peacock Spirit",
+"abbr": "",
+"line": "冒险之路",
+"date": "2018-11-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路142：绞架尖塔花园",
+"en": "Pathfinder #142: Gardens of Gallowspire",
+"abbr": "",
+"line": "冒险之路",
+"date": "2019-05-29",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "碎星玩家手册",
+"en": "Shattered Star Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-08-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路74：勇气之刃",
+"en": "Pathfinder #74: Sword of Valor",
+"abbr": "",
+"line": "冒险之路",
+"date": "2013-09-25",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "探索者编年史：战役设定",
+"en": "Pathfinder Campaign Setting",
+"abbr": "",
+"line": "战役设定",
+"date": "2008-09-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "皇冠战争玩家手册",
+"en": "War for the Crown Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2018-03-22",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路138：新瑟西隆崛起",
+"en": "Pathfinder #138: Rise of New Thassilon",
+"abbr": "",
+"line": "冒险之路",
+"date": "2019-01-30",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "遥远世界",
+"en": "Distant Shores",
+"abbr": "",
+"line": "战役设定",
+"date": "2015-10-21",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "探索者协会组织游戏指南",
+"en": "PFS Guide to Organized Play",
+"abbr": "PFS Guide",
+"line": "其他",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "附赠怪物图鉴",
+"en": "Bonus Bestiary",
+"abbr": "",
+"line": "规则书",
+"date": "2009-07-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "探索者协会组织游戏指南6.0",
+"en": "PFS Guide to Organized Play 6.0",
+"abbr": "",
+"line": "规则书",
+"date": "2014-08-11",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "策略指南",
+"en": "Strategy Guide",
+"abbr": "",
+"line": "规则书",
+"date": "2015-03-25",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "永罪之书",
+"en": "Book of the Damned",
+"abbr": "",
+"line": "规则书",
+"date": "2017-09-20",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "神与魔法",
+"en": "Gods & Magic",
+"abbr": "",
+"line": "战役设定",
+"date": "2008-10-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "艾巴萨罗姆指南",
+"en": "Guide to Absalom",
+"abbr": "",
+"line": "战役设定",
+"date": "2008-12-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "伟大彼岸：多元宇宙指南",
+"en": "The Great Beyond - A Guide to the Multiverse",
+"abbr": "",
+"line": "战役设定",
+"date": "2009-06-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "永罪之书首辑，黑暗诸侯",
+"en": "Book of the Damned - Volume 1  Princes of Darkness",
+"abbr": "",
+"line": "战役设定",
+"date": "2009-10-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "NPC指南",
+"en": "NPC Guide",
+"abbr": "",
+"line": "战役设定",
+"date": "2010-03-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "丛林之心(战役设定)",
+"en": "Heart of the Jungle",
+"abbr": "",
+"line": "战役设定",
+"date": "2010-06-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "异类怪物的救赎",
+"en": "Misfit Monsters Redeemed",
+"abbr": "",
+"line": "战役设定",
+"date": "2010-10-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "恐惧统治",
+"en": "Rule of Fear",
+"abbr": "",
+"line": "战役设定",
+"date": "2011-04-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "永罪之书末辑，天启诸骑",
+"en": "Book of the Damned - Volume 3  Horsemen of the Apocalypse",
+"abbr": "",
+"line": "战役设定",
+"date": "2011-12-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "龙国舆图",
+"en": "Dragon Empires Gazetteer",
+"abbr": "",
+"line": "战役设定",
+"date": "2012-01-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "镣铐群岛",
+"en": "Isles of the Shackles",
+"abbr": "",
+"line": "战役设定",
+"date": "2012-04-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "消失的王国",
+"en": "Lost Kingdoms",
+"abbr": "",
+"line": "战役设定",
+"date": "2012-06-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "伟迹城，丰碑之城",
+"en": "Magnimar, City of Monuments",
+"abbr": "",
+"line": "战役设定",
+"date": "2012-07-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "内海怪物图鉴",
+"en": "Inner Sea Bestiary",
+"abbr": "",
+"line": "战役设定",
+"date": "2012-11-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "伊利森，永冬之地",
+"en": "Irrisen - Land of Eternal Winter",
+"abbr": "",
+"line": "战役设定",
+"date": "2013-01-22",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "再探精类",
+"en": "Fey Revisited",
+"abbr": "",
+"line": "战役设定",
+"date": "2013-05-17",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "内海城堡",
+"en": "Castles of the Inner Sea",
+"abbr": "",
+"line": "战役设定",
+"date": "2013-06-13",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "世界之伤",
+"en": "The Worldwound",
+"abbr": "",
+"line": "战役设定",
+"date": "2013-07-11",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "再探恶魔",
+"en": "Demons Revisited",
+"abbr": "",
+"line": "战役设定",
+"date": "2013-08-19",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "内海城镇",
+"en": "Towns of the Inner Sea",
+"abbr": "",
+"line": "战役设定",
+"date": "2013-10-21",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "内海NPC志",
+"en": "Inner Sea NPC Codex",
+"abbr": "",
+"line": "战役设定",
+"date": "2013-12-11",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "奥西里昂，法老的遗馈",
+"en": "Osirion, Legacy of the Pharaohs",
+"abbr": "",
+"line": "战役设定",
+"date": "2014-01-09",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "科技指南(战役设定)",
+"en": "Technology Guide",
+"abbr": "",
+"line": "战役设定",
+"date": "2014-08-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "内海舰船",
+"en": "Ships of the Inner Sea",
+"abbr": "",
+"line": "战役设定",
+"date": "2014-10-22",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "地狱横行",
+"en": "Hell Unleashed",
+"abbr": "",
+"line": "战役设定",
+"date": "2015-07-29",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "异能怪物图鉴",
+"en": "Occult Bestiary",
+"abbr": "",
+"line": "战役设定",
+"date": "2015-08-29",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "切利亚斯，地狱帝国",
+"en": "Cheliax, the Infernal Empire",
+"abbr": "",
+"line": "战役设定",
+"date": "2015-12-16",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "内海信仰",
+"en": "Inner Sea Faiths",
+"abbr": "",
+"line": "战役设定",
+"date": "2016-03-23",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "天堂降临",
+"en": "Heaven Unleashed",
+"abbr": "",
+"line": "战役设定",
+"date": "2016-04-27",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冲突之地",
+"en": "Lands of Conflict",
+"abbr": "",
+"line": "战役设定",
+"date": "2017-02-22",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "塔尔多，第一帝国",
+"en": "Taldor, the First Empire",
+"abbr": "",
+"line": "战役设定",
+"date": "2017-12-13",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "格拉利昂的信仰",
+"en": "Faiths of Golarion",
+"abbr": "",
+"line": "战役设定",
+"date": "2018-12-12",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "格拉里昂的人类",
+"en": "Humans of Golarion",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2011-06-10",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "正义之路",
+"en": "Paths of the Righteous",
+"abbr": "PotR",
+"line": "玩家伴侣",
+"date": "2016-12-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路13：天空之影",
+"en": "Pathfinder #13: Shadow in the Sky",
+"abbr": "",
+"line": "冒险之路",
+"date": "2008-08-02",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路15：末日回响",
+"en": "Pathfinder #15: The Armageddon Echo",
+"abbr": "",
+"line": "冒险之路",
+"date": "2008-10-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冬临天下玩家手册",
+"en": "Reign of Winter Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2013-02-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路67：夏日之雪",
+"en": "Pathfinder #67: The Snows of Summer",
+"abbr": "",
+"line": "冒险之路",
+"date": "2013-02-13",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路68：被禁锢的小屋",
+"en": "Pathfinder #68: The Shackled Hut",
+"abbr": "",
+"line": "冒险之路",
+"date": "2013-03-08",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路70：冰冻之星",
+"en": "Pathfinder #70: The Frozen Stars",
+"abbr": "",
+"line": "冒险之路",
+"date": "2013-05-17",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路72：女巫之王的复仇",
+"en": "Pathfinder #72: The Witch Queen's Revenge",
+"abbr": "",
+"line": "冒险之路",
+"date": "2013-07-11",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "地狱叛军玩家手册",
+"en": "Hell's Rebels Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2015-09-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路97：地狱的光明之影",
+"en": "Pathfinder #97: In Hell's Bright Shadow",
+"abbr": "",
+"line": "冒险之路",
+"date": "2015-09-10",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路98：激流逆转",
+"en": "Pathfinder #98: Turn of the Torrent",
+"abbr": "",
+"line": "冒险之路",
+"date": "2015-09-30",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路99：永罪者之舞",
+"en": "Pathfinder #99: Dance of the Damned",
+"abbr": "",
+"line": "冒险之路",
+"date": "2015-11-18",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路100：银之歌",
+"en": "Pathfinder #100: A Song of Silver",
+"abbr": "",
+"line": "冒险之路",
+"date": "2015-12-16",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "地狱复仇玩家手册",
+"en": "Hell's Vengeance Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2016-02-25",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路103：地狱火合约",
+"en": "Pathfinder #103: The Hellfire Compact",
+"abbr": "",
+"line": "冒险之路",
+"date": "2016-02-24",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路104：特鲁恩之怒",
+"en": "Pathfinder #104: Wrath of Thrune",
+"abbr": "",
+"line": "冒险之路",
+"date": "2016-03-23",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路106：为了女王与帝国",
+"en": "Pathfinder #106: For Queen and Empire",
+"abbr": "",
+"line": "冒险之路",
+"date": "2016-05-27",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路108：地狱降临西冠城",
+"en": "Pathfinder #108: Hell Comes to Westcrown",
+"abbr": "",
+"line": "冒险之路",
+"date": "2016-07-27",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "巨人杀手玩家手册",
+"en": "Giantslayer Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2015-01-25",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路92：山丘巨人的誓约",
+"en": "Pathfinder #92: The Hill Giant's Pledge",
+"abbr": "",
+"line": "冒险之路",
+"date": "2015-04-29",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路93：巨人神的熔炉",
+"en": "Pathfinder #93: Forge of the Giant God",
+"abbr": "",
+"line": "冒险之路",
+"date": "2015-05-29",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路96：风暴暴君之影",
+"en": "Pathfinder #96: Shadow of the Storm Tyrant",
+"abbr": "",
+"line": "冒险之路",
+"date": "2015-08-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "拥王者玩家手册",
+"en": "Kingmaker Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2010-03-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路31：被窃之地",
+"en": "Pathfinder #31: Stolen Land",
+"abbr": "",
+"line": "冒险之路",
+"date": "2010-03-02",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路32：血流成河",
+"en": "Pathfinder #32: Rivers Run Red",
+"abbr": "",
+"line": "冒险之路",
+"date": "2010-04-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路33：瓦恩霍德的消失",
+"en": "Pathfinder #33: The Varnhold Vanishing",
+"abbr": "",
+"line": "冒险之路",
+"date": "2010-05-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路36：千声尖叫",
+"en": "Pathfinder #36: Sound of a Thousand Screams",
+"abbr": "",
+"line": "冒险之路",
+"date": "2010-07-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "暴君魔爪玩家手册",
+"en": "Tyrant's Grasp Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2019-02-08",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路141：最终守望",
+"en": "Pathfinder #141: Last Watch",
+"abbr": "",
+"line": "冒险之路",
+"date": "2019-04-24",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路143：日之恩典",
+"en": "Pathfinder #143: Borne by the Sun's Grace",
+"abbr": "",
+"line": "冒险之路",
+"date": "2019-06-26",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "木乃伊的面具玩家手册",
+"en": "Mummy's Mask Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-03-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路79：半死之城",
+"en": "Pathfinder #79: The Half-Dead City",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-03-25",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路82：斯芬克斯的秘密",
+"en": "Pathfinder #82: Secrets of the Sphinx",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-06-25",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路83：哈科泰普奴隶壕沟",
+"en": "Pathfinder #83: The Slave Trenches of Hakotep",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-07-25",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路84：天穹法老金字塔",
+"en": "Pathfinder #84: Pyramid of the Sky Pharaoh",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-08-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "正义之怒玩家手册",
+"en": "Wrath of the Righteous Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2013-08-18",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路75：恶魔异端",
+"en": "Pathfinder #75: Demon's Heresy",
+"abbr": "",
+"line": "冒险之路",
+"date": "2013-10-21",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路76：午夜群岛",
+"en": "Pathfinder #76: The Midnight Isles",
+"abbr": "",
+"line": "冒险之路",
+"date": "2013-12-11",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路78：寄蝗魔都",
+"en": "Pathfinder #78: City of Locusts",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-02-06",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路20：野兽之屋",
+"en": "Pathfinder #20: House of the Beast",
+"abbr": "",
+"line": "冒险之路",
+"date": "2009-03-03",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路23：不可思议之眼",
+"en": "Pathfinder #23: The Impossible Eye",
+"abbr": "",
+"line": "冒险之路",
+"date": "2009-06-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "玉关白玩家手册",
+"en": "Jade Regent Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2011-07-27",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路49：苦水墙的遗赠",
+"en": "Pathfinder #49: The Brinewall Legacy",
+"abbr": "",
+"line": "冒险之路",
+"date": "2011-07-28",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路50：冰封暗影之夜",
+"en": "Pathfinder #50: Night of Frozen Shadows",
+"abbr": "",
+"line": "冒险之路",
+"date": "2011-09-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路127：王权殒落",
+"en": "Pathfinder #127: Crownfall",
+"abbr": "",
+"line": "冒险之路",
+"date": "2018-02-28",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路129：暮光之子",
+"en": "Pathfinder #129: The Twilight Child",
+"abbr": "",
+"line": "冒险之路",
+"date": "2018-04-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路130：狮眼之城",
+"en": "Pathfinder #130: City in the Lion's Eye",
+"abbr": "",
+"line": "冒险之路",
+"date": "2018-05-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路131：死神的右手",
+"en": "Pathfinder #131: The Reaper's Right Hand",
+"abbr": "",
+"line": "冒险之路",
+"date": "2018-06-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "盗贼议会玩家手册",
+"en": "Council of Thieves Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2009-08-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路29：飞蝇之母",
+"en": "Pathfinder #29: Mother of Flies",
+"abbr": "",
+"line": "冒险之路",
+"date": "2010-01-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路62：女士之光的诅咒",
+"en": "Pathfinder #62: Curse of the Lady's Light",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-09-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路63：庇护之石",
+"en": "Pathfinder #63: The Asylum Stone",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-10-11",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路64：末日之门彼端",
+"en": "Pathfinder #64: Beyond the Doomsday Door",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-11-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路65：深入噩梦裂谷",
+"en": "Pathfinder #65: Into the Nightmare Rift",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-12-06",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路66：辛的死寂之心",
+"en": "Pathfinder #66: The Dead Heart of Xin",
+"abbr": "",
+"line": "冒险之路",
+"date": "2013-01-22",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "符文领主崛起周年纪念版玩家手册",
+"en": "Rise of the Runelords Anniversary Edition Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-07-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "符文领主崛起周年纪念版",
+"en": "Rise of the Runelords Anniversary Edition",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-09-02",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路1：焚烧的祭品",
+"en": "Pathfinder #1: Burnt Offerings",
+"abbr": "",
+"line": "冒险之路",
+"date": "2007-09-02",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "符文领主的归来玩家手册",
+"en": "Return of the Runelords Players Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2018-09-05",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路134：它来自空心山",
+"en": "Pathfinder #134: It Came from Hollow Mountain",
+"abbr": "",
+"line": "冒险之路",
+"date": "2018-09-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路137：时外之城",
+"en": "Pathfinder #137: The City Outside of Time",
+"abbr": "",
+"line": "冒险之路",
+"date": "2018-12-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "腐肉王冠玩家手册",
+"en": "Carrion Crown Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2011-03-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路43：哈罗斯通闹鬼",
+"en": "Pathfinder #43: Haunting of Harrowstone",
+"abbr": "",
+"line": "冒险之路",
+"date": "2011-03-02",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路44：野兽的审判",
+"en": "Pathfinder #44: Trial of the Beast",
+"abbr": "",
+"line": "冒险之路",
+"date": "2011-04-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路47：破晓灰烬",
+"en": "Pathfinder #47: Ashes at Dawn",
+"abbr": "",
+"line": "冒险之路",
+"date": "2011-07-06",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路48：绞架尖塔的魔影",
+"en": "Pathfinder #48: Shadows of Gallowspire",
+"abbr": "",
+"line": "冒险之路",
+"date": "2011-07-26",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "腥红王座的诅咒(开拓者版)",
+"en": "Curse of the Crimson Throne (PFRPG)",
+"abbr": "",
+"line": "冒险之路",
+"date": "2016-11-09",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路12：龙牙王冠",
+"en": "Pathfinder #12: Crown of Fangs",
+"abbr": "",
+"line": "冒险之路",
+"date": "2008-08-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "蛇神颅骨玩家手册",
+"en": "Serpent's Skull Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2010-07-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路37：走私者之刃",
+"en": "Pathfinder #37: Souls for Smuggler's Shiv",
+"abbr": "",
+"line": "冒险之路",
+"date": "2010-07-02",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路38：竞逐废墟",
+"en": "Pathfinder #38: Racing to Ruin",
+"abbr": "",
+"line": "冒险之路",
+"date": "2010-09-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路40：疯狂穹窿",
+"en": "Pathfinder #40: Vaults of Madness",
+"abbr": "",
+"line": "冒险之路",
+"date": "2010-12-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路41：千牙之底",
+"en": "Pathfinder #41: The Thousand Fangs Below",
+"abbr": "",
+"line": "冒险之路",
+"date": "2011-01-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "诡秘万古玩家手册",
+"en": "Strange Aeons Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2016-08-17",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路110：鸫沼之怖",
+"en": "Pathfinder #110: The Thrushmoor Terror",
+"abbr": "",
+"line": "冒险之路",
+"date": "2016-09-28",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路111：黄衣之王的梦境",
+"en": "Pathfinder #111: Dreams of the Yellow King",
+"abbr": "",
+"line": "冒险之路",
+"date": "2016-11-09",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路114：暗星信标",
+"en": "Pathfinder #114: Black Stars Beckon",
+"abbr": "",
+"line": "冒险之路",
+"date": "2017-02-22",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路86：铁锈之主",
+"en": "Pathfinder #86: Lords of Rust",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-10-05",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路87：窒息塔",
+"en": "Pathfinder #87: The Choking Tower",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-10-22",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路88：集脑者之谷",
+"en": "Pathfinder #88: Valley of the Brain Collectors",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-11-22",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "铁牙入侵玩家手册",
+"en": "Ironfang Invasion Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2017-03-16",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路120：缟玛瑙城堡的穹窿",
+"en": "Pathfinder #120: Vault of the Onyx Citadel",
+"abbr": "",
+"line": "冒险之路",
+"date": "2017-07-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "阿兹兰特废墟玩家手册",
+"en": "Ruins of Azlant Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2017-08-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "颅骨与镣铐玩家手册",
+"en": "Skull & Shackles Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-02-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路59：恶名的代价",
+"en": "Pathfinder #59: The Price of Infamy",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-06-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路60：来自地狱之心",
+"en": "Pathfinder #60: From Hell's Heart",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-07-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "隼谷镇最后的希望",
+"en": "Hollow's Last Hope",
+"abbr": "",
+"line": "模组",
+"date": "2007-09-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "狗头人之王的王冠(模组)",
+"en": "Crown of the Kobold King",
+"abbr": "",
+"line": "模组",
+"date": "2007-10-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "七罪之剑",
+"en": "Seven Swords of Sin",
+"abbr": "",
+"line": "模组",
+"date": "2007-12-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "与法老同葬",
+"en": "Entombed with the Pharaohs",
+"abbr": "",
+"line": "模组",
+"date": "2008-02-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "闯入闹鬼森林",
+"en": "Into the Haunted Forest",
+"abbr": "",
+"line": "模组",
+"date": "2008-03-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "泪水狂欢节",
+"en": "Carnival of Tears",
+"abbr": "",
+"line": "模组",
+"date": "2008-05-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "绞刑吏的绞索",
+"en": "Hangman's Noose",
+"abbr": "",
+"line": "模组",
+"date": "2008-07-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "混沌熔炉",
+"en": "Crucible of Chaos",
+"abbr": "",
+"line": "模组",
+"date": "2008-08-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "通往黑暗之河",
+"en": "River into Darkness",
+"abbr": "",
+"line": "模组",
+"date": "2008-09-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "末代男爵之塔",
+"en": "Tower of the Last Baron",
+"abbr": "",
+"line": "模组",
+"date": "2009-01-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "奇美拉湾的宝藏",
+"en": "Treasure of Chimera Cove",
+"abbr": "",
+"line": "模组",
+"date": "2009-02-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "饥饿的亡者",
+"en": "Hungry are the Dead",
+"abbr": "",
+"line": "模组",
+"date": "2009-03-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "契约之石金字塔",
+"en": "The Pact Stone Pyramid",
+"abbr": "",
+"line": "模组",
+"date": "2009-04-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "弑君者之战",
+"en": "Clash of the Kingslayers",
+"abbr": "",
+"line": "模组",
+"date": "2009-05-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "龙疤之血",
+"en": "Blood of Dragonscar",
+"abbr": "",
+"line": "模组",
+"date": "2009-06-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "灵魂宝库彼端",
+"en": "Beyond the Vault of Souls",
+"abbr": "",
+"line": "模组",
+"date": "2009-07-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "永焰墓穴",
+"en": "Crypt of the Everflame",
+"abbr": "",
+"line": "模组",
+"date": "2009-08-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "腐肉岭",
+"en": "Carrion Hill",
+"abbr": "",
+"line": "模组",
+"date": "2009-10-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "活神面具",
+"en": "Masks of the Living God",
+"abbr": "",
+"line": "模组",
+"date": "2009-12-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "黄金死神之城",
+"en": "City of Golden Death",
+"abbr": "",
+"line": "模组",
+"date": "2010-04-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "从海岸到大海",
+"en": "From Shore to Sea",
+"abbr": "",
+"line": "模组",
+"date": "2010-06-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "塌陷堡垒之主",
+"en": "Masters of the Fallen Fortress",
+"abbr": "",
+"line": "模组",
+"date": "2010-08-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "裂天之咒",
+"en": "Curse of the Riven Sky",
+"abbr": "",
+"line": "模组",
+"date": "2010-10-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "巫战遗产",
+"en": "The Witchwar Legacy",
+"abbr": "",
+"line": "模组",
+"date": "2010-11-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "神口异端",
+"en": "The Godsmouth Heresy",
+"abbr": "",
+"line": "模组",
+"date": "2011-01-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "漆黑毁灭者教团",
+"en": "Cult of the Ebon Destroyers",
+"abbr": "",
+"line": "模组",
+"date": "2011-02-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "铁蛇发女妖之墓",
+"en": "Tomb of the Iron Medusa",
+"abbr": "",
+"line": "模组",
+"date": "2011-04-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "秘密学院",
+"en": "Academy of Secrets",
+"abbr": "",
+"line": "模组",
+"date": "2011-05-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "我们地精来啦！",
+"en": "We Be Goblins!",
+"abbr": "",
+"line": "模组",
+"date": "2011-06-10",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "拉文莫尔的盛宴",
+"en": "Feast of Ravenmoor",
+"abbr": "",
+"line": "模组",
+"date": "2011-10-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "玉凤武道会",
+"en": "The Ruby Phoenix Tournament",
+"abbr": "",
+"line": "模组",
+"date": "2011-12-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "午夜之镜",
+"en": "The Midnight Mirror",
+"abbr": "",
+"line": "模组",
+"date": "2012-02-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "音讯全无",
+"en": "No Response from Deepmar",
+"abbr": "",
+"line": "模组",
+"date": "2012-04-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "绯阳黎明",
+"en": "Dawn of the Scarlet Sun",
+"abbr": "",
+"line": "模组",
+"date": "2012-06-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "月之伤疤",
+"en": "The Moonscar",
+"abbr": "",
+"line": "模组",
+"date": "2012-08-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "谋杀者的烙印",
+"en": "Murder's Mark",
+"abbr": "",
+"line": "模组",
+"date": "2012-10-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "开拓者在线：荆棘堡",
+"en": "Thornkeep",
+"abbr": "",
+"line": "模组",
+"date": "2013-03-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "断裂的锁链",
+"en": "Broken Chains",
+"abbr": "",
+"line": "模组",
+"date": "2013-03-26",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "突袭牙林堡",
+"en": "Fangwood Keep",
+"abbr": "",
+"line": "模组",
+"date": "2013-05-04",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "末日降临尘爪镇",
+"en": "Doom Comes to Dustpawn",
+"abbr": "",
+"line": "模组",
+"date": "2013-06-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "我们地精也来啦！",
+"en": "We Be Goblins Too!",
+"abbr": "",
+"line": "模组",
+"date": "2013-06-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "尖啸山庄之泪",
+"en": "Tears at Bitter Manor",
+"abbr": "",
+"line": "模组",
+"date": "2014-03-25",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "翡翠尖塔超级地城",
+"en": "The Emerald Spire Superdungeon",
+"abbr": "",
+"line": "模组",
+"date": "2014-06-25",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "沙中崛起",
+"en": "Risen from the Sands",
+"abbr": "",
+"line": "模组",
+"date": "2014-09-10",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "劫掠与险境",
+"en": "Plunder & Peril",
+"abbr": "",
+"line": "模组",
+"date": "2014-11-22",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "狂怒之女",
+"en": "Daughters of Fury",
+"abbr": "",
+"line": "模组",
+"date": "2015-02-25",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "尘土盛宴",
+"en": "Feast of Dust",
+"abbr": "",
+"line": "模组",
+"date": "2015-10-21",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "钩街之屋",
+"en": "The House on Hook Street",
+"abbr": "",
+"line": "模组",
+"date": "2015-11-18",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "走下枯败之路",
+"en": "Down the Blighted Path",
+"abbr": "",
+"line": "模组",
+"date": "2016-02-24",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "风暴烈怒",
+"en": "Ire of the Storm",
+"abbr": "",
+"line": "模组",
+"date": "2016-03-25",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "我们地精从前啦！",
+"en": "We B4 Goblins!",
+"abbr": "",
+"line": "模组",
+"date": "2016-06-18",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "疯狂绞架",
+"en": "Gallows of Madness",
+"abbr": "",
+"line": "模组",
+"date": "2016-07-28",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "沉没之城的先知",
+"en": "Seers of the Drowned City",
+"abbr": "",
+"line": "模组",
+"date": "2016-11-21",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "严酷试炼",
+"en": "The Gauntlet",
+"abbr": "",
+"line": "模组",
+"date": "2017-10-13",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "高掘镇需要英雄",
+"en": "Heroes for Highdelve",
+"abbr": "",
+"line": "模组",
+"date": "2017-12-13",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "夜之摇篮(模组)",
+"en": "Cradle of Night",
+"abbr": "",
+"line": "模组",
+"date": "2018-09-15",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "Academy of Secrets",
+"en": "Academy of Secrets",
+"abbr": "",
+"line": "模组",
+"date": "2011-05-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Blood of Dragonscar",
+"en": "Blood of Dragonscar",
+"abbr": "",
+"line": "模组",
+"date": "2009-06-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Book of the Damned",
+"en": "Book of the Damned",
+"abbr": "",
+"line": "规则书",
+"date": "2017-09-20",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Book of the Damned - Volume 1: Princes of Darkness",
+"en": "Book of the Damned - Volume 1: Princes of Darkness",
+"abbr": "",
+"line": "战役设定",
+"date": "2009-10-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Carnival of Tears",
+"en": "Carnival of Tears",
+"abbr": "",
+"line": "模组",
+"date": "2008-05-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Castles of the Inner Sea",
+"en": "Castles of the Inner Sea",
+"abbr": "",
+"line": "战役设定",
+"date": "2013-06-13",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Cheliax, the Infernal Empire",
+"en": "Cheliax, the Infernal Empire",
+"abbr": "",
+"line": "战役设定",
+"date": "2015-12-16",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "City of Golden Death",
+"en": "City of Golden Death",
+"abbr": "",
+"line": "模组",
+"date": "2010-04-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Cradle of Night",
+"en": "Cradle of Night",
+"abbr": "",
+"line": "模组",
+"date": "2018-09-15",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Crown of the Kobold King",
+"en": "Crown of the Kobold King",
+"abbr": "",
+"line": "模组",
+"date": "2007-10-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Curse of the Crimson Throne (PFRPG)",
+"en": "Curse of the Crimson Throne (PFRPG)",
+"abbr": "",
+"line": "冒险之路",
+"date": "2016-11-09",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Daughters of Fury",
+"en": "Daughters of Fury",
+"abbr": "",
+"line": "模组",
+"date": "2015-02-25",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Demons Revisited",
+"en": "Demons Revisited",
+"abbr": "",
+"line": "战役设定",
+"date": "2013-08-19",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Distant Worlds",
+"en": "Distant Worlds",
+"abbr": "",
+"line": "战役设定",
+"date": "2012-03-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Down the Blighted Path",
+"en": "Down the Blighted Path",
+"abbr": "",
+"line": "模组",
+"date": "2016-02-24",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Entombed with the Pharaohs",
+"en": "Entombed with the Pharaohs",
+"abbr": "",
+"line": "模组",
+"date": "2008-02-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Fangwood Keep",
+"en": "Fangwood Keep",
+"abbr": "",
+"line": "模组",
+"date": "2013-05-04",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Feast of Dust",
+"en": "Feast of Dust",
+"abbr": "",
+"line": "模组",
+"date": "2015-10-21",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Feast of Ravenmoor",
+"en": "Feast of Ravenmoor",
+"abbr": "",
+"line": "模组",
+"date": "2011-10-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Fey Revisited",
+"en": "Fey Revisited",
+"abbr": "",
+"line": "战役设定",
+"date": "2013-05-17",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Gallows of Madness",
+"en": "Gallows of Madness",
+"abbr": "",
+"line": "模组",
+"date": "2016-07-28",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Hangman's Noose",
+"en": "Hangman's Noose",
+"abbr": "",
+"line": "模组",
+"date": "2008-07-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Heart of the Jungle",
+"en": "Heart of the Jungle",
+"abbr": "",
+"line": "战役设定",
+"date": "2010-06-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Heaven Unleashed",
+"en": "Heaven Unleashed",
+"abbr": "",
+"line": "战役设定",
+"date": "2016-04-27",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Inner Sea Bestiary",
+"en": "Inner Sea Bestiary",
+"abbr": "",
+"line": "战役设定",
+"date": "2012-11-15",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Inner Sea NPC Codex",
+"en": "Inner Sea NPC Codex",
+"abbr": "",
+"line": "战役设定",
+"date": "2013-12-11",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Into the Haunted Forest",
+"en": "Into the Haunted Forest",
+"abbr": "",
+"line": "模组",
+"date": "2008-03-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Ire of the Storm",
+"en": "Ire of the Storm",
+"abbr": "",
+"line": "模组",
+"date": "2016-03-25",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Irrisen - Land of Eternal Winter",
+"en": "Irrisen - Land of Eternal Winter",
+"abbr": "",
+"line": "战役设定",
+"date": "2013-01-22",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Isles of the Shackles",
+"en": "Isles of the Shackles",
+"abbr": "",
+"line": "战役设定",
+"date": "2012-04-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Lost Kingdoms",
+"en": "Lost Kingdoms",
+"abbr": "",
+"line": "战役设定",
+"date": "2012-06-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Magnimar, City of Monuments",
+"en": "Magnimar, City of Monuments",
+"abbr": "",
+"line": "战役设定",
+"date": "2012-07-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Masks of the Living God",
+"en": "Masks of the Living God",
+"abbr": "",
+"line": "模组",
+"date": "2009-12-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Misfit Monsters Redeemed",
+"en": "Misfit Monsters Redeemed",
+"abbr": "",
+"line": "战役设定",
+"date": "2010-10-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Murder's Mark",
+"en": "Murder's Mark",
+"abbr": "",
+"line": "模组",
+"date": "2012-10-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "No Response from Deepmar",
+"en": "No Response from Deepmar",
+"abbr": "",
+"line": "模组",
+"date": "2012-04-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Occult Bestiary",
+"en": "Occult Bestiary",
+"abbr": "",
+"line": "战役设定",
+"date": "2015-08-29",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Osirion, Legacy of the Pharaohs",
+"en": "Osirion, Legacy of the Pharaohs",
+"abbr": "",
+"line": "战役设定",
+"date": "2014-01-09",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #100: A Song of Silver",
+"en": "Pathfinder #100: A Song of Silver",
+"abbr": "",
+"line": "冒险之路",
+"date": "2015-12-16",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #103: The Hellfire Compact",
+"en": "Pathfinder #103: The Hellfire Compact",
+"abbr": "",
+"line": "冒险之路",
+"date": "2016-02-24",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #104: Wrath of Thrune",
+"en": "Pathfinder #104: Wrath of Thrune",
+"abbr": "",
+"line": "冒险之路",
+"date": "2016-03-23",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #106: For Queen and Empire",
+"en": "Pathfinder #106: For Queen and Empire",
+"abbr": "",
+"line": "冒险之路",
+"date": "2016-05-27",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #108: Hell Comes to Westcrown",
+"en": "Pathfinder #108: Hell Comes to Westcrown",
+"abbr": "",
+"line": "冒险之路",
+"date": "2016-07-27",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #110: The Thrushmoor Terror",
+"en": "Pathfinder #110: The Thrushmoor Terror",
+"abbr": "",
+"line": "冒险之路",
+"date": "2016-09-28",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #111: Dreams of the Yellow King",
+"en": "Pathfinder #111: Dreams of the Yellow King",
+"abbr": "",
+"line": "冒险之路",
+"date": "2016-11-09",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #114: Black Stars Beckon",
+"en": "Pathfinder #114: Black Stars Beckon",
+"abbr": "",
+"line": "冒险之路",
+"date": "2017-02-22",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #120: Vault of the Onyx Citadel",
+"en": "Pathfinder #120: Vault of the Onyx Citadel",
+"abbr": "",
+"line": "冒险之路",
+"date": "2017-07-14",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #127: Crownfall",
+"en": "Pathfinder #127: Crownfall",
+"abbr": "",
+"line": "冒险之路",
+"date": "2018-02-28",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #129: The Twilight Child",
+"en": "Pathfinder #129: The Twilight Child",
+"abbr": "",
+"line": "冒险之路",
+"date": "2018-04-15",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #130: City in the Lion's Eye",
+"en": "Pathfinder #130: City in the Lion's Eye",
+"abbr": "",
+"line": "冒险之路",
+"date": "2018-05-15",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #131: The Reaper's Right Hand",
+"en": "Pathfinder #131: The Reaper's Right Hand",
+"abbr": "",
+"line": "冒险之路",
+"date": "2018-06-15",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #134: It Came from Hollow Mountain",
+"en": "Pathfinder #134: It Came from Hollow Mountain",
+"abbr": "",
+"line": "冒险之路",
+"date": "2018-09-15",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #137: The City Outside of Time",
+"en": "Pathfinder #137: The City Outside of Time",
+"abbr": "",
+"line": "冒险之路",
+"date": "2018-12-15",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #13: Shadow in the Sky",
+"en": "Pathfinder #13: Shadow in the Sky",
+"abbr": "",
+"line": "冒险之路",
+"date": "2008-08-02",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #141: Last Watch",
+"en": "Pathfinder #141: Last Watch",
+"abbr": "",
+"line": "冒险之路",
+"date": "2019-04-24",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #143: Borne by the Sun's Grace",
+"en": "Pathfinder #143: Borne by the Sun's Grace",
+"abbr": "",
+"line": "冒险之路",
+"date": "2019-06-26",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #19: Howl of the Carrion King",
+"en": "Pathfinder #19: Howl of the Carrion King",
+"abbr": "",
+"line": "冒险之路",
+"date": "2009-03-02",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #1: Burnt Offerings",
+"en": "Pathfinder #1: Burnt Offerings",
+"abbr": "",
+"line": "冒险之路",
+"date": "2007-09-02",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #20: House of the Beast",
+"en": "Pathfinder #20: House of the Beast",
+"abbr": "",
+"line": "冒险之路",
+"date": "2009-03-03",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #23: The Impossible Eye",
+"en": "Pathfinder #23: The Impossible Eye",
+"abbr": "",
+"line": "冒险之路",
+"date": "2009-06-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #29: Mother of Flies",
+"en": "Pathfinder #29: Mother of Flies",
+"abbr": "",
+"line": "冒险之路",
+"date": "2010-01-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #31: Stolen Land",
+"en": "Pathfinder #31: Stolen Land",
+"abbr": "",
+"line": "冒险之路",
+"date": "2010-03-02",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #32: Rivers Run Red",
+"en": "Pathfinder #32: Rivers Run Red",
+"abbr": "",
+"line": "冒险之路",
+"date": "2010-04-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #33: The Varnhold Vanishing",
+"en": "Pathfinder #33: The Varnhold Vanishing",
+"abbr": "",
+"line": "冒险之路",
+"date": "2010-05-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #36: Sound of a Thousand Screams",
+"en": "Pathfinder #36: Sound of a Thousand Screams",
+"abbr": "",
+"line": "冒险之路",
+"date": "2010-07-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #37: Souls for Smuggler's Shiv",
+"en": "Pathfinder #37: Souls for Smuggler's Shiv",
+"abbr": "",
+"line": "冒险之路",
+"date": "2010-07-02",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #38: Racing to Ruin",
+"en": "Pathfinder #38: Racing to Ruin",
+"abbr": "",
+"line": "冒险之路",
+"date": "2010-09-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #40: Vaults of Madness",
+"en": "Pathfinder #40: Vaults of Madness",
+"abbr": "",
+"line": "冒险之路",
+"date": "2010-12-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #41: The Thousand Fangs Below",
+"en": "Pathfinder #41: The Thousand Fangs Below",
+"abbr": "",
+"line": "冒险之路",
+"date": "2011-01-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #43: Haunting of Harrowstone",
+"en": "Pathfinder #43: Haunting of Harrowstone",
+"abbr": "",
+"line": "冒险之路",
+"date": "2011-03-02",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #44: Trial of the Beast",
+"en": "Pathfinder #44: Trial of the Beast",
+"abbr": "",
+"line": "冒险之路",
+"date": "2011-04-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #47: Ashes at Dawn",
+"en": "Pathfinder #47: Ashes at Dawn",
+"abbr": "",
+"line": "冒险之路",
+"date": "2011-07-06",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #48: Shadows of Gallowspire",
+"en": "Pathfinder #48: Shadows of Gallowspire",
+"abbr": "",
+"line": "冒险之路",
+"date": "2011-07-26",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #49: The Brinewall Legacy",
+"en": "Pathfinder #49: The Brinewall Legacy",
+"abbr": "",
+"line": "冒险之路",
+"date": "2011-07-28",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #50: Night of Frozen Shadows",
+"en": "Pathfinder #50: Night of Frozen Shadows",
+"abbr": "",
+"line": "冒险之路",
+"date": "2011-09-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #59: The Price of Infamy",
+"en": "Pathfinder #59: The Price of Infamy",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-06-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #60: From Hell's Heart",
+"en": "Pathfinder #60: From Hell's Heart",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-07-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #62: Curse of the Lady's Light",
+"en": "Pathfinder #62: Curse of the Lady's Light",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-09-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #63: The Asylum Stone",
+"en": "Pathfinder #63: The Asylum Stone",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-10-11",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #64: Beyond the Doomsday Door",
+"en": "Pathfinder #64: Beyond the Doomsday Door",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-11-15",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #65: Into the Nightmare Rift",
+"en": "Pathfinder #65: Into the Nightmare Rift",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-12-06",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #66: The Dead Heart of Xin",
+"en": "Pathfinder #66: The Dead Heart of Xin",
+"abbr": "",
+"line": "冒险之路",
+"date": "2013-01-22",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #67: The Snows of Summer",
+"en": "Pathfinder #67: The Snows of Summer",
+"abbr": "",
+"line": "冒险之路",
+"date": "2013-02-13",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #68: The Shackled Hut",
+"en": "Pathfinder #68: The Shackled Hut",
+"abbr": "",
+"line": "冒险之路",
+"date": "2013-03-08",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #70: The Frozen Stars",
+"en": "Pathfinder #70: The Frozen Stars",
+"abbr": "",
+"line": "冒险之路",
+"date": "2013-05-17",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #72: The Witch Queen's Revenge",
+"en": "Pathfinder #72: The Witch Queen's Revenge",
+"abbr": "",
+"line": "冒险之路",
+"date": "2013-07-11",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #75: Demon's Heresy",
+"en": "Pathfinder #75: Demon's Heresy",
+"abbr": "",
+"line": "冒险之路",
+"date": "2013-10-21",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #76: The Midnight Isles",
+"en": "Pathfinder #76: The Midnight Isles",
+"abbr": "",
+"line": "冒险之路",
+"date": "2013-12-11",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #78: City of Locusts",
+"en": "Pathfinder #78: City of Locusts",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-02-06",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #79: The Half-Dead City",
+"en": "Pathfinder #79: The Half-Dead City",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-03-25",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #82: Secrets of the Sphinx",
+"en": "Pathfinder #82: Secrets of the Sphinx",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-06-25",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #83: The Slave Trenches of Hakotep",
+"en": "Pathfinder #83: The Slave Trenches of Hakotep",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-07-25",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #84: Pyramid of the Sky Pharaoh",
+"en": "Pathfinder #84: Pyramid of the Sky Pharaoh",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-08-14",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #86: Lords of Rust",
+"en": "Pathfinder #86: Lords of Rust",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-10-05",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #87: The Choking Tower",
+"en": "Pathfinder #87: The Choking Tower",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-10-22",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #88: Valley of the Brain Collectors",
+"en": "Pathfinder #88: Valley of the Brain Collectors",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-11-22",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #92: The Hill Giant's Pledge",
+"en": "Pathfinder #92: The Hill Giant's Pledge",
+"abbr": "",
+"line": "冒险之路",
+"date": "2015-04-29",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #93: Forge of the Giant God",
+"en": "Pathfinder #93: Forge of the Giant God",
+"abbr": "",
+"line": "冒险之路",
+"date": "2015-05-29",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #96: Shadow of the Storm Tyrant",
+"en": "Pathfinder #96: Shadow of the Storm Tyrant",
+"abbr": "",
+"line": "冒险之路",
+"date": "2015-08-15",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #97: In Hell's Bright Shadow",
+"en": "Pathfinder #97: In Hell's Bright Shadow",
+"abbr": "",
+"line": "冒险之路",
+"date": "2015-09-10",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #98: Turn of the Torrent",
+"en": "Pathfinder #98: Turn of the Torrent",
+"abbr": "",
+"line": "冒险之路",
+"date": "2015-09-30",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Pathfinder #99: Dance of the Damned",
+"en": "Pathfinder #99: Dance of the Damned",
+"abbr": "",
+"line": "冒险之路",
+"date": "2015-11-18",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Plunder & Peril",
+"en": "Plunder & Peril",
+"abbr": "",
+"line": "模组",
+"date": "2014-11-22",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Rise of the Runelords Anniversary Edition",
+"en": "Rise of the Runelords Anniversary Edition",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-09-02",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "River into Darkness",
+"en": "River into Darkness",
+"abbr": "",
+"line": "模组",
+"date": "2008-09-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Seers of the Drowned City",
+"en": "Seers of the Drowned City",
+"abbr": "",
+"line": "模组",
+"date": "2016-11-21",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Seven Swords of Sin",
+"en": "Seven Swords of Sin",
+"abbr": "",
+"line": "模组",
+"date": "2007-12-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Skull & Shackles Player's Guide",
+"en": "Skull & Shackles Player's Guide",
+"abbr": "",
+"line": "冒险之路",
+"date": "2012-02-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Taldor, the First Empire",
+"en": "Taldor, the First Empire",
+"abbr": "",
+"line": "战役设定",
+"date": "2017-12-13",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Tears at Bitter Manor",
+"en": "Tears at Bitter Manor",
+"abbr": "",
+"line": "模组",
+"date": "2014-03-25",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "The Emerald Spire Superdungeon",
+"en": "The Emerald Spire Superdungeon",
+"abbr": "",
+"line": "模组",
+"date": "2014-06-25",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "The Godsmouth Heresy",
+"en": "The Godsmouth Heresy",
+"abbr": "",
+"line": "模组",
+"date": "2011-01-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "The House on Hook Street",
+"en": "The House on Hook Street",
+"abbr": "",
+"line": "模组",
+"date": "2015-11-18",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "The Pact Stone Pyramid",
+"en": "The Pact Stone Pyramid",
+"abbr": "",
+"line": "模组",
+"date": "2009-04-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "The Ruby Phoenix Tournament",
+"en": "The Ruby Phoenix Tournament",
+"abbr": "",
+"line": "模组",
+"date": "2011-12-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "The Witchwar Legacy",
+"en": "The Witchwar Legacy",
+"abbr": "",
+"line": "模组",
+"date": "2010-11-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "The Worldwound",
+"en": "The Worldwound",
+"abbr": "",
+"line": "战役设定",
+"date": "2013-07-11",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "Tower of the Last Baron",
+"en": "Tower of the Last Baron",
+"abbr": "",
+"line": "模组",
+"date": "2009-01-01",
+"zh": false,
+"untr": 1
+},
+{
+"kind": "book",
+"name": "其他职业",
+"en": "",
+"abbr": "",
+"line": "其他",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险家手册",
+"en": "Dungeoneer's Handbook",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2013-03-08",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冬临天下",
+"en": "",
+"abbr": "",
+"line": "冒险之路",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "切利亚斯，魔鬼帝国",
+"en": "Cheliax, Empire of Devils",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2009-08-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "北方人民",
+"en": "People of the North",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2013-01-22",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "塔尔多，荣光余荡之地",
+"en": "Taldor, Echoes of Glory",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2009-06-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "奥西里昂，法老之地",
+"en": "Osirion, Land of the Pharaohs",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2008-12-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "巨人杀手",
+"en": "",
+"abbr": "",
+"line": "冒险之路",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "暴君魔爪",
+"en": "",
+"abbr": "",
+"line": "冒险之路",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "木乃伊面具",
+"en": "Pathfinder #81: Shifting Sands",
+"abbr": "",
+"line": "冒险之路",
+"date": "2014-05-28",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "格拉利昂的人类",
+"en": "Humans of Golarion",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2011-06-10",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "正义之怒",
+"en": "",
+"abbr": "",
+"line": "冒险之路",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "猩红王座的诅咒",
+"en": "",
+"abbr": "",
+"line": "冒险之路",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "皇冠战争",
+"en": "",
+"abbr": "",
+"line": "冒险之路",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "盗贼议会",
+"en": "",
+"abbr": "",
+"line": "冒险之路",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "破碎魔星",
+"en": "",
+"abbr": "",
+"line": "冒险之路",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "科技指南",
+"en": "Technology Guide",
+"abbr": "",
+"line": "战役设定",
+"date": "2014-08-14",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "符文领主的崛起",
+"en": "",
+"abbr": "",
+"line": "冒险之路",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "纯善／平衡／堕落信念",
+"en": "Champions of Purity",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2013-04-16",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "萨加瓦，失落的殖民地",
+"en": "Sargava, the Lost Colony",
+"abbr": "",
+"line": "玩家伴侣",
+"date": "2010-06-01",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "钢铁巨神",
+"en": "",
+"abbr": "",
+"line": "冒险之路",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "铁牙入侵",
+"en": "",
+"abbr": "",
+"line": "冒险之路",
+"date": "",
+"zh": true,
+"untr": 0
+}
+]

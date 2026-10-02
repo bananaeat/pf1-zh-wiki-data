@@ -1,0 +1,12 @@
+{{Feat
+|name=流星链索
+|english_name=Sling Flail
+|categories=战斗
+|description=你能够将上好石块的[[投石索]]当作近战武器来挥舞。
+|prerequisites=[[武器专攻]]（投石索），基本攻击加值+1。
+|benefit=你可以用装填好的投石索发动近战攻击，使用其基本数据、但攻击方式视同链枷。以这种方式使用投石索并不会消耗普通弹药，但魔法或精制品弹丸会在一次命中后失去原本的强化特性。
+|special=你所拥有的任何作用于链枷的专长，都能够在把装填好的投石索当作近战武器时生效。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

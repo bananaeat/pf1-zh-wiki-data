@@ -1,0 +1,10 @@
+{{Feat
+|name=荒野步伐
+|english_name=Wilding Stride
+|description=你的狂野冲动与健壮体格使你的行动更加迅捷。
+|prerequisites=[[体质]] 13，荒野之痕。
+|benefit=你的基础速度增加10尺。这不会与[[野蛮人#快速移动|快速移动]]职业能力或类似效果叠加，除非该能力或效果提供的是增强加值。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

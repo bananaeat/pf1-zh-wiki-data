@@ -1,0 +1,19 @@
+{{物品
+|name=纸花
+|english_name=Paper Flower
+|category=冒险装备
+|aura=昏暗防护系
+|cl=3级
+|slot=头饰（headband）
+|price=800GP
+|weight=-磅
+|requirements=[[制造奇物]]，圣域术（sanctuary），[[关照术]]
+|cost=400GP
+|description=出自：Heroes of the High Court pg. 13
+
+描述：
+
+这张精美的纸艺作品经常被送给情妇，伴随着赠送者将保护接受者的爱的承诺。一朵纸花（paper flower）会被佩戴在耳后。在24小时内，第一个直接攻击佩戴者（即便是一个目标型法术）的生物必须在一个DC 12的意志豁免骰中成功，否则无法完成攻击（如同[[圣域术]]sanctuary）。
+|source=HotHC
+|source_name=皇庭英豪
+}}

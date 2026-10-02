@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=挪移石
+|english_name=Displacing Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Displacing Stone
+|cat=奇物
+|aura=中等变化系
+|cl=11
+|slot=无
+|price=430 gp
+|description=激活时，这枚搏动着的白色小石子会瞬间爆发出一阵[[反重力]]，清除一个直径5尺的球形区域内所有松散的石头或泥土。随后，挪移石会把受影响的石头或泥土固定在原位，使坍塌的隧道保持畅通1分钟。持续时间结束后，如果这些松散的泥土没有支撑，就会塌落。挪移石用过即毁，且不会影响生物。激活挪移石是一个不引发[[借机攻击]]的[[标准动作]]。
+|req=[[制造奇物]]、[[地动术]]
+|cost=215 gp
+|source=格拉利昂的狗头人
+}}

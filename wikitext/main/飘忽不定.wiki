@@ -1,0 +1,14 @@
+{{Feat
+|name=飘忽不定
+|english_name=Seen and Unseen
+|description=隐匿自身的你难以被魔法或者常规方式所探寻，同时你学会了与自身先祖战斗的技巧。
+|prerequisites=[[流放之路]]，角色等级5，半精灵。
+|benefit=你在对抗所有〔探知〕以及〔预言〕效果时，豁免检定获得+2加值。此外你的所有隐匿检定获得+2加值，并且[[精灵]]、[[半精灵]]以及[[人类]]在使用生存检定追踪你时受到-4减值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[既非精灵也非人类]]（1 个条目）

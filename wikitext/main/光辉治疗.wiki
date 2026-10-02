@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Darklands pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=光辉治疗
+|english_name=Radiant Healing
+|type=魔法
+|description=你学会了如何为你的治疗魔法注入经久不散的光芒。每当你施放一个施法时间为标准动作的咒法系（治疗）子系法术时，你可以将其施法时间延长为整轮动作，令目标如同受[[光亮术]]影响一般发光，持续时间为每施法者等级1轮。
+|source_name=幽暗地域英雄
+|source=HotD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Radiant%20Healing
+}}

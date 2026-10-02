@@ -1,0 +1,13 @@
+{{Trait
+|name=医疗特使
+|english_name=Envoy of Healing
+|type=宗教
+|pfs=否
+|prerequisites=信仰[[塞恩蕾]]
+|description=无论道路多么艰险，你都行走在大陆上致力于传播[[塞恩蕾]]那仁慈，怜悯的晨花教旨。
+
+当你使用[[引导能量]]、热诚或圣疗来治疗一个活着的生物时，你可以重骰任何结果为自然1的治疗骰（但是你必须接受新的结果）。
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_703.html
+}}

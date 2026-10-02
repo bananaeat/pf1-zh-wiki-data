@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[亡灵之主 (神话)]]。</small></div>
+{{Feat
+|name=亡灵之主
+|english_name=Undead Master
+|description=你可以统帅亡灵大军为你所用。
+|prerequisites=[[法术专攻]]（死灵），能够施放‘操纵死尸’或者‘命令死灵’。
+|benefit=当你施放[[操纵死尸]]法术或者使用‘命令死灵’专长时，你可以在决定HD数量时将有效等级提高4级。当你施放‘命令死灵’法术时，你的持续时间翻倍。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

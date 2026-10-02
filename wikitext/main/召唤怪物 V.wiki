@@ -1,0 +1,18 @@
+{{Spell
+|name=召唤怪物 V
+|english_name=Summon Monster V
+|aon=Summon Monster 5
+|school=咒法系 (召唤)
+|tags=见后文
+|levels=吟游诗人 5;牧师 5;先知 5;术士 5;法师 5;召唤师 4;女巫 5;奥能师 5;通灵者 4;异能者 5;歌者 5;唤魂师 5;召唤师（掉链） 4;战斗祭司 5
+|domains=黑暗领域 5;异幕子域 5
+|action=1轮
+|components=语言;姿势;法器/圣徽（一个小包裹和一个小蜡烛）
+|range=近距
+|effect=一个被召唤的生物
+|duration=1轮/等级 (可解消)
+|save=无
+|sr=否
+|description=该法术的功能如同‘[[召唤怪物]]I’，不过你能够召唤一个来自5环列表的生物、1d3个来自4环列表的同类生物、或者1d4+1个来自更低等环列表且同一种类的生物。
+|source=核心规则书
+}}

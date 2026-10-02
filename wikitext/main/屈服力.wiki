@@ -1,0 +1,9 @@
+{{Trait
+|name=屈服力
+|english_name=Strength of Submission
+|type=信念
+|description=你对拉兹密尔教会的信仰和对拉兹密尔的顺从赋予你力量与明晰。当你受到胁迫效果影响时，你在攻击检定和伤害骰上获得+1背景加值。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh484c89782e.htm
+}}

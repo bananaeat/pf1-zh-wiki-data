@@ -1,0 +1,10 @@
+{{Feat
+|name=领猎人
+|english_name=Huntmaster
+|description=你是训练马匹，猎犬，猎鹰或者猎猫的专家。
+|prerequisites=[[驯养动物]]1级，【动物伙伴】、【神契（坐骑）】或【坐骑】职业特性，人类。
+|benefit=如果你有[[动物伙伴]]职业特性，选择下列一种动物伙伴获得该专长效果：鸟，犬，小猫或马匹。如果你有【神契】或者【坐骑】职业特性，则此专长影响马匹。你针对所选择类型的动物的[[驯养动物]]和知识（自然）检定+2。此外只要动物伙伴或坐骑为你所选择的动物类型，则在决定它们的能力时视为比实际高1级。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

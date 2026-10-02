@@ -1,0 +1,16 @@
+{{装备
+|name=渐燃箭
+|english_name=Arrow (slow burn)
+|cat=炼金武器
+|price=100 gp
+|weight=—
+|craft_dc=25
+|dmg=1d6
+|type=P/火焰
+|special=见正文
+|description=这支箭的箭头后方有一个小容器，里面的炼金材料一接触空气就会发热，最终燃烧起来；箭头上的倒刺会在命中目标时刺破这个小袋。如果你用渐燃箭命中目标，它照常造成伤害，但在你的下一个回合开始时，箭会爆出火焰，对目标造成1d6点火焰伤害。
+|recipe=（70 镁＋80 没药＋25 磷）／凝胶；制作 DC 25
+|recipe_time=10 分钟
+|recipe_tools=炼金师工作台
+|source=格拉利昂的精灵、炼金术手册
+}}

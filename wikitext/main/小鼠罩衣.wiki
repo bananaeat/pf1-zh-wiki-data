@@ -1,0 +1,15 @@
+{{魔法物品
+|name=小鼠罩衣
+|english_name=Manteau of the Mouse
+|aon=MagicWondrousDisplay.aspx?FinalName=Manteau of the Mouse
+|cat=奇物
+|aura=强烈变化系
+|cl=10
+|slot=胸部
+|price=12,500 gp
+|weight=5磅
+|description=这件柔软的毛皮背心有各种深浅的棕色、黑色和白色。体型比穿戴者大的生物，要察觉到穿戴者时，察觉检定会受到-1、-2、-4或-8的减值，具体取决于它比穿戴者大一级、两级、三级，还是四级或更多。此外，穿戴者每天一次可以使用野兽形态 III变成一只老鼠。
+|req=[[制造奇物]]、[[野兽形态 III]]
+|cost=6,250 gp
+|source=巨人猎手手册
+}}

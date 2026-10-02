@@ -1,0 +1,15 @@
+{{Spell
+|name=高等对敌意地雷
+|english_name=Animus mine, greater
+|school=防护系
+|tags=影响心灵
+|levels=催眠师 4;异能者 5
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|duration=1小时/等级或直到释放
+|save=意志，通过则无效（无害）
+|sr=否
+|description=如同[[对敌意地雷]]般作用，除了触发地雷的生物会[[震慑]]1d4轮而非蹒跚。如果目标通过了意志豁免检定，那他只会受到一半的伤害，并且震慑无效。如果目标意志豁免检定失败，你对触发此法术的影响心灵效果的任何豁免检定自动成功。
+|source=幽暗地域英雄
+}}

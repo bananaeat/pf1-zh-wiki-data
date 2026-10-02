@@ -1,0 +1,10 @@
+<noinclude>{{异能者导航}}
+'''动能增强'''（Kinetic Enhancement）是[[异能者]]的[[精神增幅|精神增幅]]。
+
+</noinclude>你可以生成一定的动能来让你在近身战中获得一些帮助。你可以将你的智力调整值加到战技检定和你的[[CMD]]上。你也可以将你的智力调整值加到用于打破物体或者是举起物体的力量检定上。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_310.html 精神增幅]、[https://pf1chm.pages.dev/topics/zhb4162fc9dd.htm 乌笃剌精神增幅]、[https://pf1chm.pages.dev/topics/page_855.html PSI技术]），按 AoN 核对过。全部精神增幅见 [[精神增幅]]。
+
+[[分类:精神增幅]]
+
+{{职业}}</noinclude>

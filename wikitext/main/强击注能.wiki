@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''强击注能'''（Bowling Infusion）是[[操念使]]的[[原力]]。
+
+元素：[[以太]]或土；类别：性质注能；等级：2；超载：2
+
+关联[[念袭]]类别：[[岩击]]，[[熔岩流]]，[[轰钢]]，[[硬泥团]]，[[念动]]
+
+豁免：无
+
+你使用带有绝对质量的念袭轰翻敌人。尝试一次[[摔绊]]战技检定对抗每个被你的注能念袭伤害的目标，在判断你的战技加值时，使用你的体质调整值替代力量调整值进行调整。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Bowling Infusion|2=Bowling Infusion}}
+
+[[分类:原力]]

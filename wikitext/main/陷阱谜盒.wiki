@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=陷阱谜盒
+|english_name=Trapped Puzzle Box
+|aon=MagicWondrousDisplay.aspx?FinalName=Trapped Puzzle Box
+|cat=奇物
+|aura=微弱塑能系
+|cl=5
+|slot=无
+|price=750 gp
+|weight=1/2磅
+|description=解开这个简单的动力学谜题，需要从一个手持的木制立方体上取下几根木钉。然而，取下最后一根木钉会触发魔法陷阱。盒子会在受害者手中爆炸，造成6d6点火焰伤害（DC 14反射豁免，成功则伤害减半）。发现这个盒子设有陷阱，需要由具有[[盗贼#寻找陷阱|寻找陷阱]]能力的角色通过DC 30的[[察觉]]检定；解除它需要通过DC 30的[[解除装置]]检定。
+|req=[[制造奇物]]、[[爆裂符文]]
+|cost=375 gp
+|source=格拉利昂的狗头人
+}}

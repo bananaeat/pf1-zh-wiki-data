@@ -1,0 +1,15 @@
+{{Spell
+|name=召唤巨灵，高等
+|english_name=Summon genie, greater
+|school=咒法系 (召唤)
+|levels=召唤师 5;召唤师（掉链） 5;先知 6;奥能师 6;女巫 6;战斗祭司 6;术士 6;法师 6;牧师 6
+|action=1轮
+|components=语言;姿势;法器/圣徽（一盏价值至少50gp的油灯）
+|range=近距
+|effect=一个被召唤的巨灵
+|duration=1轮/等级 (可解消)
+|save=无
+|sr=否
+|description=这个法术类似次级召唤巨灵，除了你可以召唤1个土巨灵、1d3个风巨灵或者1d4+1个小巨灵。
+|source=沙之子民
+}}

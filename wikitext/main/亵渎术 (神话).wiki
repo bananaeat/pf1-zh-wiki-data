@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[亵渎术]] 的神话版本。</small></div>
+{{Spell
+|name=亵渎术
+|english_name=Desecrate
+|school=塑能系
+|tags=邪恶
+|levels=先知 2;反圣武士 2;审判者 2;战斗祭司 2;牧师 2
+|description=选择你所具有的一种阵营要素（混乱、邪恶或者守序）。法术区域内你所选择的对立阵营亚种的异界生物会在攻击检定、伤害检定与豁免中受到-1减值。
+|source=神话冒险
+}}
+[[分类:神话法术]]

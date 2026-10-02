@@ -1,0 +1,15 @@
+{{魔法物品
+|name=保密马蹄铁
+|english_name=Clandestine Horseshoes
+|aon=MagicWondrousDisplay.aspx?FinalName=Clandestine Horseshoes
+|cat=奇物
+|aura=微弱幻术系
+|cl=3
+|slot=脚部
+|price=6,000 gp
+|weight=12磅
+|description=穿着这些暗灰色马蹄铁的生物如果保持不动1轮，则该生物及其骑手（如果有）在接下来1轮内的隐匿检定上获得+10加值。此外，每天一次，穿着保密马蹄铁的坐骑的骑手可以让自己和坐骑变为[[隐形]]，如同[[隐形术]]。四只马蹄铁必须由同一生物穿戴，魔法才会生效。
+|req=[[制造奇物]]、[[隐形术]]
+|cost=3,000 gp
+|source=第一世界的遗产
+}}

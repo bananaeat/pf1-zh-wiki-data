@@ -1,0 +1,14 @@
+{{魔法物品
+|name=止伤护符
+|english_name=Periapt of Wound Closure
+|aon=MagicWondrousDisplay.aspx?FinalName=Periapt of Wound Closure
+|cat=奇物
+|aura=中等咒法系
+|cl=10
+|slot=颈部
+|price=15,000 gp
+|description=亮蓝色的宝石挂在一条银链上，戴在脖子上。佩戴者的hp降到0以下（但伤害不足以将其杀死）时，会自动[[伤害和死亡#稳定和恢复|稳定伤势]]。护符使佩戴者的正常恢复速度加倍，或使原本无法自然恢复的伤势也能正常恢复。佩戴者免疫[[出血]]所造成的hp伤害，但由出血带来的[[属性伤害]]和[[属性吸取]]依然有效。
+|req=[[制造奇物]]、[[医疗术]]
+|cost=7,500 gp
+|source=核心规则书、极限宝具
+}}

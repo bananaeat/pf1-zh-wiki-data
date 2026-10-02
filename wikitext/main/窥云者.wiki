@@ -1,0 +1,10 @@
+{{Feat
+|name=窥云者
+|english_name=Cloud Gazer
+|description=通过洞悉自身体内的元素本质，你获得了只有少数人拥有的清晰洞察力。
+|prerequisites=风元素裔。
+|benefit=你可以看透雾、水汽以及云而不会因此受到任何惩罚，并且忽略这些效果造成的[[掩蔽]]或[[隐蔽]]加值。如果这些效果是由魔法创造的，该专长使你不受罚值而能够看到的距离提升至三倍。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

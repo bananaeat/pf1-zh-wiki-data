@@ -1,0 +1,9 @@
+{{Trait
+|name=灼热信标
+|english_name=Searing Beacon
+|type=宗教
+|prerequisites=信仰[[艾奥梅黛]]；奥泽姆骑士团成员
+|description=当你使用近战武器对不死生物造成重击时，你会额外造成等同于你感知调整值的精准伤害。
+|source_name=内海骑士
+|source_url=https://pf1chm.pages.dev/topics/zhdc70ece933.htm
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=腐烂神
+|english_name=Corrupted Flesh
+|pfs=否
+|description=你浑身不断脱落气味逼人的死皮和脓疖，或是你身上长着多余的退化肢体一直在腐烂，无法治愈
+|prerequisites=体质15，6HD，食人魔
+|benefit=你获得恶臭怪物特殊能力（DC=10+1/2你的HD+你的体质调整值）。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1410.html
+}}

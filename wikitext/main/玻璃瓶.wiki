@@ -1,0 +1,9 @@
+{{装备
+|name=玻璃瓶
+|english_name=Bottle
+|cat=冒险装备
+|price=2 gp
+|weight=1磅
+|description=这种玻璃瓶的容量大概有1品脱，配有一个软木塞。
+|source=核心规则书、极限宝具
+}}

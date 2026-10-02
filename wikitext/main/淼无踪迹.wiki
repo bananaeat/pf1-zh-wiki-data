@@ -1,0 +1,15 @@
+{{Spell
+|name=淼无踪迹
+|english_name=Lose the Trail
+|school=幻术系 (五官幻觉)
+|levels=奥能师 1;术士 1;法师 1;游侠 1;猎人 1;红螳螂杀手 1;反圣武士 2
+|action=标准动作
+|components=语言;姿势
+|range=近距（25+5尺/2个等级）
+|target=一个生物/等级
+|duration=1小时/等级（可解消）
+|save=意志通过则无效（无害）
+|sr=是（无害）
+|description=这个法术可以帮助受术者在逃避追击时抹去他可能留下的所有痕迹。任何追踪者试图追迹受术者的生存技能检定DC会增加（每施法者等级+2）。
+|source=内海诸神
+}}

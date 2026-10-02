@@ -1,0 +1,9 @@
+{{Trait
+|name=渴求知识
+|english_name=Thirst for Knowledge
+|type=宗教
+|prerequisites=信仰[[内希斯]]
+|description=你渴望让尘封已久的知识重现天日，无论原文是用什么语言书写的。你的[[语言学]]技能获得+1背景加值，且语言学视作你的[[本职技能]]。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

@@ -1,0 +1,47 @@
+{{速查导航}}
+{{怪物
+|name=豺狼人殴斗者
+|english_name=Gnoll Bruiser
+|cr=3
+|xp=800
+|classline=豺狼人战士1/盗贼1
+|alignment=混乱邪恶
+|size=中型
+|type=类人生物
+|subtypes=豺狼人亚种
+|init=+2
+|senses=黑暗视觉60尺；察觉+5
+|ac=14，接触13，措手不及11（+2敏捷，+1天生，+1闪避）
+|hp=27（4HD；3d8+1d10+9）
+|fort=+7
+|ref=+4
+|will=+1
+|speed=30尺
+|melee=巨木棒+6（1d10+6）
+|ranged=标枪+4（1d6+4）
+|special_attacks=偷袭+1d6
+|tactics=<div class="ml wide"><span class="k">战斗中</span>殴斗者和自己的同伴夹击敌人以获得偷袭优势，并且在被与战友分割时寻找重新集结的机会</div>
+|str=19
+|dex=14
+|con=15
+|int=6
+|wis=12
+|cha=8
+|bab=+2
+|cmb=+6
+|cmd=19
+|feats=[[闪避]];[[灵活移动]];[[猛力攻击]]
+|skills=[[特技]]+9;[[察觉]]+5;[[生存]]+8
+|languages=豺狼人语
+|sq=寻找陷阱+1
+|combat_gear=治疗轻伤药水 x2;炽火胶 x2;绊足包 x2
+|gear=标枪 x5;巨木棒;蛮勇之靴 UE
+|environment=温暖平原或沙漠
+|source=怪物志
+|family=豺狼人（怪物志）
+|npc=1
+|lore=
+这些庞大的[[豺狼人(怪物)|豺狼人]]擅于将对手打跪在地，然后再慢慢料理。
+}}
+
+本页译自《[[怪物志]]》的怪物图鉴 CHM。

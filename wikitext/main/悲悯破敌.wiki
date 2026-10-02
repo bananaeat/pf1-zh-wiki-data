@@ -1,0 +1,11 @@
+{{Feat
+|name=悲悯破敌
+|english_name=Merciful Bane
+|description=你可以用你的破敌能力造成[[非致命伤害]]。
+|prerequisites=【破敌】职业特性。
+|benefit=当你所持的武器处于你的【破敌】职业特性作用下时，你可以用[[迅捷动作]]让武器在造成致命伤害和非致命伤害之间切换。当你的【破敌】能力允许你通过这种方式造成非致命伤害时，你在进行非致命伤害攻击时不会受到任何罚值。
+|normal=当你使用一把致命武器造成非致命伤害时，你的攻击检定有-4罚值。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

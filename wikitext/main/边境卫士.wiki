@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=边境卫士
+|english_name=Border Guard
+|type=地区
+|prerequisites=昆莱
+|description=你是驻守在昆莱与万寿之间前线的战士之一，擅长与水栖的敌人作战。你对具有水生亚种的敌人确认重击的检定获得+2背景加值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Border%20Guard
+}}

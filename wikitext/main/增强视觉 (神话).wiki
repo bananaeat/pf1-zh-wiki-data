@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[增强视觉]] 的神话版本。</small></div>
+{{Feat
+|name=增强视觉
+|english_name=Deepsight
+|categories=神话
+|description=你那敏锐的双眸能够看透深幽的黑暗，传达给你更多信息。
+|prerequisites=[[增强视觉]]
+|benefit=你的黑暗视觉增加每阶层10尺。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

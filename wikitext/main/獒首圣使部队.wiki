@@ -1,0 +1,50 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=獒首圣使部队
+|english_name=Hound Archon Troop
+|cr=16
+|xp=76,800
+|alignment=守序善良
+|size=中型
+|type=异界生物
+|subtypes=圣使;跨位面;善良;守序;部队
+|init=+9
+|senses=黑暗视觉 60 尺，昏暗视觉，灵敏嗅觉，侦测邪恶；察觉 +39
+|aura=威胁灵光（DC 24）
+|ac=28，接触 15，措手不及 23（+4 护甲，+4 敏捷，+1 闪避，+9 天生；对邪恶 +2 偏斜）
+|hp=241（21d10+126）
+|fort=+20
+|ref=+19
+|will=+14；对邪恶 +2 抗力，对毒素 +4
+|dr=10/邪恶
+|immune=电击;石化
+|sr=27
+|speed=40 尺
+|melee=部队攻击（8d6+9）
+|space=20 尺
+|reach=5 尺
+|str=23
+|dex=20
+|con=23
+|int=18
+|wis=21
+|cha=18
+|bab=+21
+|cmb=+27
+|cmd=43
+|feats=[[警觉]];[[闪避]];[[强韧加强]];[[精通强韧加强]];[[精通先攻]];[[精通闪电反射]];[[钢铁意志]];[[闪电反射]];[[谈判专家(专长)|谈判专家]];[[技能专攻]]（[[威吓]]）;[[技能专攻]]（[[察觉]]）
+|skills=[[特技]] +28;[[攀爬]] +29;[[交涉]] +32;[[威吓]] +35;[[知识]]（位面）+28;[[察觉]] +39;[[察言观色]] +33;[[隐匿]] +32;[[生存]] +33;[[游泳]] +26
+|languages=天界语;通用语;龙语;炼狱语;巧言术
+|sq=协同传送
+|environment=任意（天堂）
+|organization=单独，成对，或军队（3–6）
+|treasure=标准
+|special_abilities={{怪物能力|协同传送|Su|以一个标准动作，獒首圣使部队可以如同[[高等传送术]]那样（仅限自身）将自己传送到很远的地方。}}
+|source=Pathfinder #108: Hell Comes to Westcrown
+|family=部队绪论
+|lore=
+除荣耀光复军（Glorious Reclamation）自己的部队外，天堂的力量也已集结起来协助这场革命。以下数据代表一支协同作战的獒首圣使部队。
+}}
+
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Hound Archon Troop|2=Hound Archon Troop}}

@@ -1,0 +1,13 @@
+{{魔法物品
+|name=昏然战鼓
+|english_name=Drums of Lethargy
+|aon=MagicCursedDisplay.aspx?ItemName=Drums of Lethargy
+|cat=诅咒物品
+|aura=微弱变化系
+|cl=5
+|slot=无
+|weight=5磅
+|description=这套定音鼓看起来像是[[加速鼓]]。当某个生物演奏这套鼓时，它会对所有生物（包括演奏者本人）产生如同受到[[缓慢术]]影响的效果。DC 14意志豁免可使该效果无效。制造缓慢效果不需要进行表演检定。
+|req=[[加速鼓]]
+|source=极限宝具
+}}

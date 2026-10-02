@@ -1,0 +1,17 @@
+<includeonly><alert>该模板已被评选为优质模板。<span class="btn btn-primary ca-fork">搬运</span></alert>[[Category:优质模板]][[Category:{{{1|其他}}}类模板]]</includeonly>
+<noinclude>
+<templatedata>
+{
+	"params": {
+		"1": {
+			"label": "美化,功能,信息,其他",
+			"description": "模板分类",
+			"example": "美化、功能、信息、其他",
+			"type": "string",
+			"suggested": true
+		}
+	},
+	"description": "为模板仓库的模板评选优秀模板。"
+}
+</templatedata>
+</noinclude>

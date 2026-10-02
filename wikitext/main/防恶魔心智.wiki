@@ -1,0 +1,10 @@
+{{Trait
+|name=防恶魔心智
+|english_name=Demon-Proof Mind
+|type=地区
+|prerequisites=萨柯里斯或世界之伤
+|description=你习惯了世界之伤散发出的疯狂能量波动，而且已经能够让自己的心智免受其影响。你在对抗邪恶异界生物的影响心智效果时，豁免检定+2背景加值。
+|source_name=恶魔猎人手册
+|source=DHH
+|source_url=https://pf1chm.pages.dev/topics/zh143e5b3a4e.htm
+}}

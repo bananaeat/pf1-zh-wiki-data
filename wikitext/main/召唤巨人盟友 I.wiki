@@ -1,0 +1,18 @@
+{{Spell
+|name=召唤巨人盟友 I
+|english_name=Summon giant ally i
+|school=咒法系 (召唤)
+|tags=见后文
+|levels=德鲁伊 6;猎人 6（凯利德人）
+|action=标准动作
+|components=语言;姿势;法器/圣徽（从巨人的袋子上剪下的一块布）
+|range=近距
+|duration=1轮/等级 (可解消)
+|sr=否
+|effect=一名或更多巨人
+|save=无
+|description=该法术如同[[召唤自然盟友 VI]]一样作用，但施法时间更短，并且你可以召唤一名[[穴巨人]]、[[山丘巨人]]、[[沼泽巨人]]、[[河巨人]]、[[炼巨人]]、[[石巨人]]或[[木巨人]]。
+|source=内海种族
+}}
+
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/zh32d6f76372.htm 原文]），按 AoN 核对过。</small>

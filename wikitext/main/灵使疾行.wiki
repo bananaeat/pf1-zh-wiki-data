@@ -1,0 +1,11 @@
+{{Feat
+|name=灵使疾行
+|english_name=Azata Sprint
+|categories=战斗
+|description=你穿越战场的身形只余残影。
+|prerequisites=灵巧武艺，灵使诡计，灵使之型，闪避，灵活移动，疾风步，基础攻击加值+10
+|benefit=使用灵使之型时，你的基础移动速度增加10尺，并且在回合内移动时无视前10尺困难地形带来的移动惩罚。
+|source=PA
+|source_name=位面冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

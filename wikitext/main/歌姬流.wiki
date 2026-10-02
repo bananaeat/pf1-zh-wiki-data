@@ -1,0 +1,11 @@
+{{Feat
+|name=歌姬流
+|english_name=Diva Style
+|categories=战斗;流派
+|description=你使用歌曲，舞蹈或者其他表演方式来分散敌人的注意力
+|prerequisites=魅力13，基本攻击加值+1或者诗人等级1
+|benefit=在使用这种流派时，你可以在战斗中使用任何表演检定取代唬骗来对敌人进行虚招。当你开启吟游诗人表演时，你可以尝试以一个移动动作用表演检定来进行虚招。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=急躁
+|english_name=Impatient
+|type=缺陷
+|pfs=否
+|description=你总是一有机会就投入战斗，等待别人行动会让你感到沮丧。
+|benefit=你不能选择延迟或使用[[准备动作]]，如果你是在一轮战斗中最后一个行动的盟友，你在属性检定、攻击掷骰、豁免检定和技能检定上承受-1减值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

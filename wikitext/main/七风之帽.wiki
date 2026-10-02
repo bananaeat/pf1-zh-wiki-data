@@ -1,0 +1,15 @@
+{{魔法物品
+|name=七风之帽
+|english_name=Hat of the Seven Winds
+|aon=MagicWondrousDisplay.aspx?FinalName=Hat of the Seven Winds
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=头部
+|price=4,500 gp
+|weight=1磅
+|description=这顶黑色三角帽上绣着一艘船的图案。穿戴者不会因降雨而承受任何减值；承受强风风速带来的减值时，视为比实际体型大一级；并在对抗风力效果的豁免检定上获得+4加值。
+|req=[[制造奇物]]、[[操纵风相]]
+|cost=2,250 gp
+|source=恶棍志
+}}

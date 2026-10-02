@@ -1,0 +1,12 @@
+<noinclude>{{炼金术师导航}}
+'''高等精类突变药剂'''（Greater Fey Mutagen, Su）是[[炼金术师]]的[[科研发现]]。
+
+</noinclude>{{Source|第一世界的遗产|Legacy of the First World|inline}}
+
+'''前提'''：炼金术师等级12；[[精类突变药剂]]。
+
+'''效果'''：炼金术师的精类突变药剂现在改为在敏捷和魅力上给予+4炼金加值，在力量上给予-2减值，并赋予DR5/{{材料|寒铁}}，以及德鲁伊的[[德鲁伊#穿林步|穿林步]]职业能力。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_1072.html 原文]），按 AoN 核对过。全部科研发现见 [[:分类:科研发现|分类:科研发现]]。
+
+[[分类:科研发现]]</noinclude>

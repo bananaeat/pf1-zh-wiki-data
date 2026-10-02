@@ -1,0 +1,14 @@
+{{魔法物品
+|name=德鲁伊祭袍
+|english_name=Druid's Vestment
+|aon=MagicWondrousDisplay.aspx?FinalName=Druid's Vestment
+|cat=奇物
+|aura=中等变化系
+|cl=10
+|slot=躯体
+|price=3,750 gp
+|description=这件轻便的长袍穿在普通衣物或盔甲外面。这类祭袍大多是绿色的，上面绣着精致的植物或动物图案。当拥有自然变身能力的角色穿戴它时，他每天可以多使用一次该能力。
+|req=[[制造奇物]]、[[变形术]]或自然变身能力
+|cost=1,375 gp
+|source=核心规则书、极限宝具
+}}

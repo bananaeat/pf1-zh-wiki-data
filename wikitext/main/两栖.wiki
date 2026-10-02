@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''两栖'''（Amphibious）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：特性</span></div>
+</noinclude><includeonly><div class="lang"><span id="两栖"></span><div class="lang-h"><b>[[两栖]]</b><i>Amphibious</i><span class="lang-w">Ex · 特性</span></div><div class="lang-d"></includeonly>
+拥有此特质的生物有[[水栖亚种]]，但是他们也可以无限期地在陆地上生存。
+
+'''格式'''：两栖
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Amphibious|2=Amphibious}}
+
+[[分类:通用怪物规则]]</noinclude>

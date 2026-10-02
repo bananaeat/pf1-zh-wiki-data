@@ -1,0 +1,20 @@
+{{魔法物品
+|name=神圣法杖
+|english_name=Holy Staff
+|aon=MagicStavesDisplay.aspx?ItemName=Holy Staff
+|cat=法杖
+|aura=中等塑能系
+|cl=8
+|slot=无
+|price=29,600 gp
+|weight=5磅
+|description=这根法杖用光滑的桦木制成，镶嵌着象牙，顶端装饰着一颗纯净无瑕的白色宝石。该法杖可以使用以下法术：
+
+* [[阵营武器]]（仅限善良；1 发）
+* [[侦测邪恶]]（1 发）
+* [[圣光击]]（2 发）
+* [[反邪恶法阵]]（2 发）
+|req=[[制造法杖]]、[[阵营武器]]、[[侦测邪恶]]、[[圣光击]]、[[反邪恶法阵]]
+|cost=14,800 gp
+|source=极限宝具
+}}

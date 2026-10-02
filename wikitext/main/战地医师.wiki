@@ -1,0 +1,14 @@
+{{Feat
+|name=战地医师
+|english_name=Battlefield Healer
+|categories=故事
+|pfs=否
+|description=即便在最激烈的战斗中，你依然不惜冒险拯救同伴。
+|prerequisites=你必须曾在遭受借机攻击后成功对同伴施展咒法系医疗子学派法术；或拥有“百战使”、“战地神官”、“祛病疗疾”等角色背景之一。
+|benefit=当你由于受到伤害（包括持续伤害）而被迫进行专注检定时，在决定专注DC时该伤害被视为降低50%。
+|goal=总计20次因向同伴施展咒法系医疗子学派法术而招致借机攻击。这些施法并不需要全部成功。
+|completion_benefit=你在施展咒法系医疗子学派法术时，由于受伤而被迫进行的专注检定自动成功。
+|source=UCa
+|source_name=极限战役
+|source_url=https://pf1chm.pages.dev/topics/page_200.html
+}}

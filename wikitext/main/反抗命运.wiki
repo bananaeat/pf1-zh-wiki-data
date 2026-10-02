@@ -1,0 +1,9 @@
+{{Trait
+|name=反抗命运
+|english_name=Denial of Fate
+|type=宗教
+|prerequisites=信仰[[厄加图娅]]
+|description=苍白的公主赐予你祝福 ,以让你避免命运终结之日的到来。每天一次，当你的生命值下降到0以下时，下一轮到你的时候你可以选择无须经过体质检定自动[[伤害和死亡#稳定和恢复|稳定伤势]]。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

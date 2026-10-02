@@ -1,0 +1,9 @@
+{{Trait
+|name=着甲之魂
+|english_name=Armored Soul
+|type=战斗
+|description=在整个拉哈多姆港口，精纯卫队确保没有任何宗教用具或传教者进入这个国家
+|benefit=当穿着盔甲或使用盾牌时，你在应对造成伤害的神术的豁免检定上获得+1背景加值
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/zh86d18c6ceb.htm
+}}

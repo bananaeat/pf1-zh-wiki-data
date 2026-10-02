@@ -1,0 +1,15 @@
+{{魔法物品
+|name=吉兆护符
+|english_name=Symbol of Luck
+|aon=MagicWondrousDisplay.aspx?FinalName=Symbol of Luck
+|cat=奇物
+|aura=微弱塑能系
+|cl=3
+|slot=无
+|price=6,000 gp
+|weight=1磅
+|description=这个半透明的球体由硬如铁石的玻璃制成，到了持有者手中1小时内，会变形为与持有者的圣徽相同的样子。变形完成后，当具有幸运或万用幸运种族特性的半身人用这枚圣徽引导能量来治疗时，它还会使被治疗者在豁免检定上获得+1幸运加值，持续轮数等于该次引导能量治疗的骰数。
+|req=[[制造奇物]]、[[神恩]]，制造者必须是半身人
+|cost=3,000 gp
+|source=进阶种族手册
+}}

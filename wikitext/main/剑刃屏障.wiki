@@ -1,0 +1,11 @@
+{{Feat
+|name=剑刃屏障
+|english_name=Shield of Swings
+|categories=战斗
+|description=疯狂而又狂野的攻击能够加强你的防御。
+|prerequisites=力量13，[[猛力攻击]]，基本攻击加值+1。
+|benefit=当你持用双手武器进行[[全力攻击]]动作时，能够选择减少1/2的伤害，来使AC和[[CMD]]获得+4盾牌加值，直至你的下一轮开始为止。伤害减少也会持续至你的下一轮开始。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

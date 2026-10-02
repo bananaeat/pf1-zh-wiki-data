@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 10, Legacy of Fire Player's Guide pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=商人之子
+|english_name=Merchant's Child
+|type=地区
+|prerequisites=卡塔佩什
+|description=你的一位近亲曾是卡塔佩什热闹集市中一位才华横溢的商人，在你年幼时就教会你如何看出任何物品的内在价值。你的[[估价]]检定获得+1背景加值，并且估价总是你的本职技能。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Merchant%27s%20Child
+}}

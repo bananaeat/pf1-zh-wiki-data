@@ -1,0 +1,9 @@
+{{Trait
+|name=旧如新
+|english_name=Just Like New
+|type=战斗
+|description=[[破损]]的火枪不算问题——最多仅是个小挑战罢了。对你初期自带火器的破损修复、同时将其转为精制品的维护过程仅消耗150gp而非300gp。此外，当你持用一把破损的、或视为处于破损状态下的火器时，你的攻击检定仅受到-1减值而非通常的-2。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

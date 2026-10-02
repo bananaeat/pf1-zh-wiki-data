@@ -1,0 +1,9 @@
+{{Trait
+|name=医护师
+|english_name=Caretaker
+|type=信念
+|description=作为药草师家庭的孩子、或神庙治疗室的助手，你经常不得不忙于照料伤病者。你的医疗检定获得+1背景加值，并且总能将医疗视为你的[[本职技能]]。
+|source_name=信念背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

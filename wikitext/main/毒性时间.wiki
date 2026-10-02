@@ -1,0 +1,10 @@
+{{Feat
+|name=毒性时间
+|english_name=Toxicological Timing
+|description=你知道如何调整毒药生效所需的时间。
+|prerequisites=[[工艺]]（炼金术）9级
+|benefit=当你使用工艺（炼金术）技能（无论是使用正常的工艺规则还是自发炼金术的规则）制造毒药时，你可以增加或减少用于测量你制造的毒药频率的时间单位至多一格，沿着以下比例调整：轮、分钟、小时、天。例如，如果你将此专长应用于砷（频率为1 /分钟，持续4分钟），则可以将频率增加到1/轮，持续4轮，或将频率降低到1/小时，持续4小时。
+|source=AM
+|source_name=炼金术手册
+|source_url=https://pf1chm.pages.dev/topics/zhad42fec513.htm
+}}

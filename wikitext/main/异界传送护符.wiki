@@ -1,0 +1,14 @@
+{{魔法物品
+|name=异界传送护符
+|english_name=Amulet of the Planes
+|aon=MagicWondrousDisplay.aspx?FinalName=Amulet of the Planes
+|cat=奇物
+|aura=强烈咒法系
+|cl=15
+|slot=颈部
+|price=120,000 gp
+|description=这件装置通常是一枚黑色的圆形护符，不过任何仔细端详它的角色都会看到一团黑暗的、流动的色彩漩涡。护符使佩戴者能够使用[[异界传送]]法术。不过，这是一件很难掌握的物品。使用者必须通过一次DC 15的智力检定，护符才会把她送往她想去的位面（以及该位面上她想去的具体地点）。如果失败，护符会把她和所有与她同行的人送到该位面上的随机地点（d%结果01–60），或送到随机的位面（61–100）。
+|req=[[制造奇物]]、[[异界传送]]
+|cost=60,000 gp
+|source=核心规则书、极限宝具
+}}

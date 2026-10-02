@@ -1,0 +1,10 @@
+{{Feat
+|name=船上专家
+|english_name=Expert Boarder
+|description=你在船上的帆索之中摇来晃去时如同站在地上一样轻松。
+|prerequisites=隶属于灰海盗
+|benefit=特技和攀爬成为你的本职技能，当你在绳索或船索上攀爬或摆荡时在特技和攀爬检定上获得+2加值。你不会在绳索或船索上攀爬或摆荡时触发借机攻击。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/page_1364.html
+}}

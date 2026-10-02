@@ -1,0 +1,7 @@
+{{物品
+|name=起义
+|english_name=The Uprising
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。一旦抽牌，3d6个任性而多事的1级平民为你服务。如果他们死了抽牌者如常在未来吸引追随者时遭到惩罚
+}}

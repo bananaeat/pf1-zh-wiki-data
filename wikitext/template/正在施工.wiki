@@ -1,0 +1,11 @@
+<includeonly>{{Mbox
+ |border = warning
+ |text = 这篇文章正在被'''编辑'''中，编辑完成前请不要同时编辑，以免撞车。此处查看[[:Category:需要帮助|需要帮助的词条列表]]。编辑者签名:{{#if:{{{1|}}}|{{{1}}} }}，本提示有效期15天，过期请协助解除。{{#IF: {{{2|}}} |<br><b>{{{2}}}</b>}}
+}}[[Category:正在施工]]</includeonly><noinclude>{{documentation}}[[Category:huiji template]]
+<templatedata>
+{
+	"params": {},
+	"description": "本模版用于在页面起始部位插入{{正在施工}} 来标记当前页面已有人进行编辑，以避免编辑冲突。\n详细信息与案例请前往https://templatemanager.huiji.wiki/wiki/%E6%A8%A1%E6%9D%BF:%E6%AD%A3%E5%9C%A8%E6%96%BD%E5%B7%A5"
+}
+</templatedata>
+</noinclude>

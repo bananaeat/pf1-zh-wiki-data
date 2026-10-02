@@ -1,0 +1,10 @@
+{{Feat
+|name=野性活力
+|english_name=Wild Vigor
+|description=当你使用自然变身时，自然之力会增强你的活力。
+|prerequisites=自然变身职业能力。
+|benefit=当你使用自然变身时，你可以获得额外的临时生命，其数值等于你的基本攻击加值，该能力每日可用次数等同于你的「感知调整值」（最少为1）。这些临时生命持续到自然变身结束或临时生命耗尽为止。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

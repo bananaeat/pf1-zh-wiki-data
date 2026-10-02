@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=喷火打嗝葫芦
+|english_name=Gourd of Fire Burping
+|aon=MagicWondrousDisplay.aspx?FinalName=Gourd of Fire Burping
+|cat=奇物
+|aura=微弱塑能系
+|cl=4
+|slot=无
+|price=250 gp
+|description=这是[[喷火灵药]]的低配版，喷火打嗝葫芦既可以像普通灵药那样饮用，也可以由嘴够大、品味够低的使用者咯吱一声整个吞下。使用者吞下葫芦后，可以立即打出一个火焰嗝，形成15尺锥形，对范围内的所有生物造成2d6点火焰伤害。一次成功的DC 12反射豁免可使伤害减半。如果使用者选择不立刻使用这次喷火，她可以把这口火息储存最多1小时，之后便会消散。
+|req=[[制造奇物]]、[[燃烧之手]]或[[燃火术]]
+|cost=125 gp
+|source=我们地精也来啦！
+}}

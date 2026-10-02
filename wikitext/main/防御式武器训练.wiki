@@ -1,0 +1,13 @@
+{{Feat
+|name=防御式武器训练
+|english_name=Defensive Weapon Training
+|categories=战斗
+|description=你知道在面对一种武器时如何保护自己。
+|prerequisites=[[智力]] 13，基本攻击加值+5。
+|benefit=从战士[[战士#武器训练|武器训练]]列表的武器组（除了天生武器）中选择一种。在面对使用你选择的列表中的武器攻击你的敌人时，你的AC获得+2闪避加值。如果你同时拥有相同种类的【武器训练】能力，你的闪避加值增加至+3。
+|special=你可以多次选择该专长。效果不会叠加，不过每次你都可以选择不同的武器组。
+|stamina=花费5点耐力，你可以将所选择的武器组临时切换为另一种（天生武器除外），持续3轮。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

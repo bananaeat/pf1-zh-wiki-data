@@ -1,0 +1,15 @@
+{{Feat
+|name=进阶卓尔贵族
+|english_name=Improved Drow Nobility
+|pfs=否
+|description=你的[[魔法天赋]]比同龄人更加强大，你较强的类法术能力证明了这点。
+|prerequisites=[[魅力]] 13，卓尔贵族，能够使用卓尔的类法术能力，卓尔。
+|benefit=你每日能以类法术能力使用[[舞光术]]，[[妖火]]，[[羽落术]]与[[浮空术]]各两次。你的[[黑暗术]]类法术能力替换为[[深幽黑暗术]]，你每天可以使用2次。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[进阶黑耀传人]]、[[高等卓尔贵族]]、[[黑耀传人]]（3 个条目）

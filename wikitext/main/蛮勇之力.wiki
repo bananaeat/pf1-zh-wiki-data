@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=蛮勇之力
+|english_name=Strength Surge
+|type=Ex
+|categories=进攻
+|benefit=野蛮人将他的野蛮人职业等级加到单次力量检定、[[战技]]检定或是[[CMD]]上(当敌人对他发动战技时)。使用此[[狂暴之力]]是一个[[直觉动作]]。
+|special=他每次狂暴只能使用1次此能力。
+|source_name=核心规则书
+}}

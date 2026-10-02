@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 18），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=农家义士
+|english_name=Freedom Fighter (Shokuro)
+|type=地区
+|prerequisites=诸黑
+|description=你出身农家，却决心为自己的权利而战。你在使用临时武器进行的攻击上获得+1背景加值。如果你不具备[[随手武器]]或[[随手投掷]]专长，这些攻击检定仍然照常承受罚值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Freedom%20Fighter%20%28Shokuro%29
+}}

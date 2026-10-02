@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=死亡精准
+|english_name=Deadly accuracy
+|type=Ex
+|class=掉链野蛮人
+|benefit=当野蛮人在[[精准战姿]]状态下造成重击威胁时，她可以将双倍的精准战姿的加值加到重击确认当中去。野蛮人至少要达到第4级后且拥有【精准战姿】狂暴之力才能选择此狂暴之力。
+|classic=致命精确
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

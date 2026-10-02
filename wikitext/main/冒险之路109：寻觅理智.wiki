@@ -1,0 +1,38 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #109: In Search of Sanity
+|authors=F. Wesley Schneider
+|pages=96
+}}
+
+{{书页/简介|head=清醒的噩梦|1=
+「诡秘万古」冒险之路以《寻觅理智》拉开序幕——这是一次令人心神俱裂的恐怖之旅：英雄们在阴森的 Briarstone 疯人院里醒来，心智受创，记忆缺失。他们必须携手找回丢失的时间，并很快发现，失忆不过是一个更大的宇宙威胁的症状。在竭力保持理智的同时，英雄们必须与疯人院的其他住客结盟，对抗那些占据了这栋建筑、使它陷入噩梦的怪物。冒险者们能否击败游荡在走廊里的恐怖，把自己从疯狂的牢笼中解放出来？
+
+本册《冒险之路》开启「诡秘万古」冒险之路，内容包括：
+
+* F. Wesley Schneider 的开拓者冒险《寻觅理智》（"In Search of Sanity"），适用于 1 级角色。
+* 一篇双倍篇幅的专文，窥探由旧日支配者与外神构成的危险领域——[[古老神话]]，作者 James Jacobs。
+* 「探索者日志」中人偶匠的诡异秘密，作者 Jason Keeley。
+* 一批怪异可怖的新怪物，作者 Eric Hindley、James Jacobs、Jenny Jarzabski 与 F. Wesley Schneider。
+}}
+
+'''冒险之路109：寻觅理智'''（''Pathfinder #109: In Search of Sanity''）是[[冒险之路]]「诡秘万古」系列的第一章冒险，由 F. Wesley Schneider 撰写，配套文章出自 Eric Hindley、James Jacobs 和 Jenny Jarzabski，小说出自 Jason Keeley，于 2016 年 8 月 31 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+寻觅理智 @ 4
+NPC 图集 @ 56
+[[古老神话]] @ 62
+探索者日志：人偶匠 @ 74
+怪物图鉴 @ 80
+战役概要 @ 90
+}}
+
+{{书页尾
+|pfw=In Search of Sanity
+|releases=Softcover¦PZO90109¦2016-08¦；PDF¦PZO90109E¦¦
+}}
+
+[[分类:书目]]

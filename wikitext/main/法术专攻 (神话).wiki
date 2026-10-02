@@ -1,0 +1,13 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[法术专攻]] 的神话版本。</small></div>
+{{Feat
+|name=法术专攻
+|english_name=Spell Focus
+|categories=神话
+|description=你所精研的法术极为有效。
+|prerequisites=[[法术专攻]]
+|benefit=从你已经具有[[法术专攻]]专长的学派中选取一个。法术专攻与[[高等法术专攻]]专长对该学派法术的豁免DC加值增加1点。你能够花费1次神话之力作为施放所选学派法术的一部分，以此迫使任何法术目标要投掷两次豁免并取较低的结果。
+|special=你能够多次选取该专长。其效果不会叠加。每当你选取该专长时，它都会应用到不同的非神话版法术专攻专长上。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

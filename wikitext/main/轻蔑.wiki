@@ -1,0 +1,9 @@
+{{Trait
+|name=轻蔑
+|english_name=Contemptuous
+|type=社会
+|description=不论你是一个鄙视傲慢的上流社会的平民，还是一个无法忍受在底层群众身边的精神洁癖贵族，你的蔑视驱使你仔细研究以确保你与他们进行社会交流时永远占据上风。你的知识(本地)和知识(贵族)检定获得+1背景加值，而且其中一个技能成为你的[[本职技能]]。
+|source_name=反英雄手册Antihero's Handbook
+|source=Antihero's Handbook
+|source_url=https://pf1chm.pages.dev/topics/zh4f64ea7987.htm
+}}

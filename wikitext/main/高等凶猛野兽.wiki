@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=高等凶猛野兽
+|english_name=Ferocious Beast, Greater
+|type=Ex
+|categories=杂项
+|prerequisites=[[野蛮人]]8级，[[凶猛野兽]]
+|benefit=当野蛮人狂暴时，[[动物伙伴]]会获得野蛮人[[狂暴之力]]中常态存在的好处。它不会获得需要动作启动的狂暴之力的好处，哪怕是[[自由动作]]也一样。
+|source_name=动物档案
+}}

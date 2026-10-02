@@ -1,0 +1,13 @@
+{{危害
+|name=吸能陷阱
+|english_name=Energy Drain Trap
+|kind=陷阱
+|trap_type=魔法
+|cr=10
+|perception=DC 34
+|disable=DC 34
+|trigger=视觉型（[[真知术]]）
+|reset=无
+|effect=法术效果（[[吸能术]]，+10远程接触攻击，2d4个临时负向等级，24小时后强韧 DC 23 豁免成功则消除）
+|source=核心规则书
+}}

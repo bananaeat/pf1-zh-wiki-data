@@ -1,0 +1,9 @@
+{{Trait
+|name=骄狂者
+|english_name=Reckless Contempt
+|type=战斗
+|description=你毫不惧怕那些三流武器的威胁。当你持用火器射击的动作招致[[借机攻击]]时，该次射击的攻击检定获得+1背景加值。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

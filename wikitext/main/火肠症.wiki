@@ -1,0 +1,13 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{危害
+|name=火肠症
+|english_name=Firegut
+|kind=疾病
+|type=伤口、吸入
+|save=强韧 DC 17
+|onset=1天
+|frequency=1次/天
+|effect=目标[[恍惚]]
+|cure=连续3次豁免成功
+|source=丛林之心(战役设定)
+}}

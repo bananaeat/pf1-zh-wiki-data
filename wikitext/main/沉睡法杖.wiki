@@ -1,0 +1,24 @@
+{{魔法物品
+|name=沉睡法杖
+|english_name=Staff of Slumber
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Slumber
+|cat=法杖
+|aura=中等（学派不定）
+|cl=9
+|slot=无
+|price=81,766 gp
+|weight=5磅
+|description=这根法杖通体装饰着烟雾般的螺旋纹，几乎有催眠的效果。
+
+该法杖可以使用以下法术：
+
+* [[深度睡眠]]（1 发）
+* [[力竭射线]]（1 发）
+* [[托梦术]]（2 发）
+* [[梦魇]]（2 发）
+* [[疲乏波]]（2 发）
+* [[睡眠徽记]]（3 发）
+|req=[[制造法杖]]、[[深度睡眠]]、[[托梦术]]、[[梦魇]]、[[睡眠徽记]]、[[力竭射线]]、[[疲乏波]]
+|cost=49,216 gp
+|source=进阶玩家指南、极限宝具
+}}

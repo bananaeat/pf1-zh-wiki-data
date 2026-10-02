@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=流血接触|en=Bleeding Touch|type=Sp|domain=死亡领域|source=核心规则书|text=你通过一次近战[[接触攻击]]令活物每轮受到1d6伤害，持续等于牧师等级一半（最少1轮）的轮数或直到接受了DC15的[[医疗]]或法术治疗。你每天可以使用此能力次数“3+[[感知]]调整值”次。}}<noinclude>
+
+[[分类:领域]]</noinclude>

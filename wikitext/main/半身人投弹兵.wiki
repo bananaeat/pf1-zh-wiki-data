@@ -1,0 +1,11 @@
+{{Feat
+|name=半身人投弹兵
+|english_name=Slipslinger Grenadier
+|categories=战斗
+|description=你能用投石索发射溅射武器。
+|prerequisites=半身人投石术，随手投掷，武器专攻（投石索）或武器训练（投掷类）职业能力，战争投石者ARG种族特性
+|benefit=当你使用半身人投石术时，能够以标准动作使用投石索抛掷一个炼金溅射武器，它在取出物品以及向投石索进行装填之时被视为投石索弹丸。你的投石索会造成正常的武器伤害，外加被装填上的溅射武器的效果或伤害。这些额外伤害不会在重击时翻倍。
+|special=炼金术士的炸弹不适用于该专长。
+|source_name=武器大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_420.html
+}}

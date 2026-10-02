@@ -1,0 +1,13 @@
+{{Feat
+|name=骑兵阵列
+|english_name=Cavalry Formation
+|aliases=骑兵列队
+|categories=战斗;团队
+|description=你擅长在战场上与骑乘的盟友并肩而行，且不会妨碍双方的作战效率。
+|prerequisites=骑乘战斗。
+|benefit=你和你坐骑的方格可以与拥有此专长骑手的坐骑重叠，但同一个方格不能被两个以上的生物共享。此外，你在冲锋时可以越过拥有此专长骑手和其坐骑的方格，但你发动冲锋攻击的方格必须符合此专长的另一项好处，或者是未被占用的。
+|stamina=回合开始时，如果你花费2点耐力，你可以与不拥有此专长的骑乘盟友共处一个方格，持续到你下轮开始。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

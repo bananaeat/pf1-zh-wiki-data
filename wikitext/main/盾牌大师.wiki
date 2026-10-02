@@ -1,0 +1,17 @@
+{{Feat
+|name=盾牌大师
+|english_name=Shield Master
+|categories=战斗
+|description=你对盾牌的掌握使得你可以不受妨碍的用盾战斗。
+|prerequisites=[[精通盾击]]，[[擅长盾牌]]，盾牌猛击，[[双武器格斗]]，基本攻击加值+11。
+|benefit=当持用另一把武器时，你使用盾牌的攻击检定不会承受任何减值。将盾牌的AC增强加值加到用盾牌做出的攻击和伤害检定上，如同它是武器增强加值一样。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[一击扑杀]]（1 个条目）
+
+{{FAQ|v5748eaic9vdp}}

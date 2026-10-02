@@ -1,0 +1,9 @@
+{{Trait
+|name=恶魔根除者
+|english_name=Demon Eradicator
+|type=地区
+|prerequisites=追随蒙蒂维圣教军的角色
+|description=每当恶魔子类的异界生物对你的法术进行意志豁免时，该法术DC+1。
+|source_name=内海骑士
+|source_url=https://pf1chm.pages.dev/topics/zhdc70ece933.htm
+}}

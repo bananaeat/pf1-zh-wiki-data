@@ -1,0 +1,10 @@
+{{Feat
+|name=爆裂武器
+|english_name=Explosive Weapon
+|categories=战斗
+|description=你可以透过武器引导魔法能量，产生出毁灭性的效果。
+|prerequisites=[[弧光武器]]，多样化训练职业能力。
+|benefit=以一个[[标准动作]]，你可以施展一个效果影响范围且持续时间为立即的法术（例如[[火球术]]），并作为近战攻击的一部分将其释放。此专长效果如同魔战士的法术打击能力，但法术伤害并不会因为重击而乘倍。该法术的效果以你为中心点，但你不受其效果影响。
+|source_name=传奇编年史
+|source_url=https://pf1chm.pages.dev/topics/page_1502.html
+}}

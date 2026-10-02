@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Elements pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=一见如故
+|english_name=Instant Friendship
+|type=种族
+|prerequisites=巨灵裔
+|description=你从你的小巨灵父母那里继承了扭转紧张局面的诀窍。每天一次，你可以将一次为改善某生物对你的态度而进行的[[威吓]]掷骰，视为你使用的是[[交涉]]。你必须在进行检定之后、GM公布结果之前使用这项能力。如果你在进行检定后继续威胁目标，该检定自动失败。
+|source_name=元素血脉
+|source=BotE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Instant%20Friendship
+}}

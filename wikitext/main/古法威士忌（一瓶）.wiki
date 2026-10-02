@@ -1,0 +1,9 @@
+{{装备
+|name=古法威士忌（一瓶）
+|english_name=Oldlaw whiskey (bottle)
+|cat=饮食
+|price=20 gp
+|weight=1磅
+|description=这种单一麦芽威士忌依照一份流传近200年的配方酿制，是各地老兵最爱的烈酒。
+|source=冒险者的军械库、极限宝具
+}}

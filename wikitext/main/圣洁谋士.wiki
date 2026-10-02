@@ -1,0 +1,9 @@
+{{Trait
+|name=圣洁谋士
+|english_name=Holy Schemer
+|type=宗教
+|prerequisites=信仰[[卡莉斯翠]]
+|description=你精通误导、阴谋与诡计的艺术，而且你也懂得分辨别人是否在和你玩弄计谋。你在察言观色上获得+1背景加值，且察言观色视作你的[[本职技能]]。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

@@ -1,0 +1,16 @@
+{{Spell
+|name=振奋军心
+|english_name=Bless army
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=先知 6;战斗祭司 6;牧师 6
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=1个地块
+|target=一支军队
+|duration=1场战斗
+|save=无
+|sr=是（无害）
+|description=振奋军心会让一支军队充满勇气。军队在进攻值和士气检定上得到+1加值。
+|source=任务与战役
+}}

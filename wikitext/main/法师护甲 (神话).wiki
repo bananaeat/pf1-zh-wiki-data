@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[法师护甲]] 的神话版本。</small></div>
+{{Spell
+|name=法师护甲
+|english_name=Mage Armor
+|school=咒法系 (创造)
+|tags=力场
+|levels=召唤师 1;召唤师（掉链） 1;唤魂师 1;奥能师 1;女巫 1;异能者 1;术士 1;法师 1;秘学士 1;血脉狂怒者 1
+|description=护甲加值增加至+6点。目标受到的任何重击与偷袭都会有50%的概率被视为普通命中，就如同目标佩戴了中度护命护甲一般。
+|source=神话冒险
+}}
+[[分类:神话法术]]

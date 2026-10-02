@@ -1,0 +1,14 @@
+{{魔法物品
+|name=精通攀爬戒指
+|english_name=Ring of Climbing (improved)
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Climbing (improved)
+|cat=戒指
+|aura=微弱变化系
+|cl=5
+|slot=戒指
+|price=10,000 gp
+|description=这枚戒指的功能如同攀爬戒指，只是它给予穿戴者攀爬检定的是+10表现加值。
+|req=[[锻造戒指]]、制造者必须有10级[[攀爬]]
+|cost=5,000 gp
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=修道贤
+|english_name=Style Sage
+|type=社会
+|description=你对某项修行戒律的历史和新闻充满热情。你在知识(本地)或知识(历史)中选择一项，其技能检定获得+1背景加值，并且所选技能总是你的[[本职技能]]。此外，你在收集有关任何具有武僧等级之人的信息时，交涉检定获得+1背景加值。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

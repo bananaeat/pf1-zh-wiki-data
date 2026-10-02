@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=暴君之友
+|english_name=Tyrant's Friend
+|aon=MagicRingsDisplay.aspx?FinalName=Tyrant's Friend
+|cat=戒指
+|aura=微弱预言系
+|cl=5
+|slot=戒指
+|price=3,000 gp
+|description=暴君之友是一条纤细的铜环，细到可以藏在另一枚戒指之下（不过它仍然计入角色所能佩戴的魔法戒指数量上限）。每当佩戴它的那只手接触到有毒或带毒的物体或生物（包括装有毒药的容器）时，戒指会明显变得更暖，向佩戴者警示潜在的危险。
+|req=[[锻造戒指]]、[[侦测毒性]]
+|cost=1,500 gp
+|source=探索者协会战地指南
+}}

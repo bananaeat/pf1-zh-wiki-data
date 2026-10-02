@@ -1,0 +1,12 @@
+{{Feat
+|name=炼金打击
+|english_name=Alchemical Strike
+|categories=战斗
+|description=你专注于一次攻击中，大幅度提升了你投掷的炼金物品的效果。
+|prerequisites=[[随手投掷]]，BAB+6
+|benefit=你可以以一个全回合攻击动作投掷一个炼金物品，提升该炼金物品的效果。当你用全回合攻击动作投掷单一个炼金物品时，该物品造成的所有效果DC+2。当你的BAB加值达到+11以及之后的每多5点，DC就再增加2。该专长不能应用在炼金术师的炼金炸弹上。
+|special=炼金术师可以选择该专长来取代一个炼金术士[[科研发现]]。他不需要达到该专长的先决条件。炼金术士使用他的职业等级而非BAB来计算该专长中涉及BAB的效果。
+|source=MagicTT、MTT
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_566.html
+}}

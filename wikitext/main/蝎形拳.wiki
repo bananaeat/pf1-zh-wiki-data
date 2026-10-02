@@ -1,0 +1,16 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[蝎形拳 (神话)]]。</small></div>
+{{Feat
+|name=蝎形拳
+|english_name=Scorpion Style
+|categories=战斗
+|description=你的徒手打击能够严重妨碍目标的移动。
+|prerequisites=精通徒手打击。
+|benefit=要使用此专长，你必须用[[标准动作]]做一次单一的[[徒手攻击]]。如果此徒手攻击命中，你正常造成伤害，且目标的基本陆地速度降为5尺，持续轮数等同于你的感知修正，除非其通过DC为“10+1/2你的角色等级+感知修正”的强韧豁免检定。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[万蛇出洞]]、[[蛇形拳]]（2 个条目）

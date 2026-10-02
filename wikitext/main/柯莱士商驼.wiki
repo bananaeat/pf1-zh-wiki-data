@@ -1,0 +1,10 @@
+{{Trait
+|name=柯莱士商驼
+|english_name=Keleshite Trade Camel
+|type=坐骑
+|prerequisites=骆驼(Camel)
+|description=每小时1次，一头柯莱士商驼(Keleshite trade camel)可以反刍胃中的所含之物，以一次远程接触攻击对10英尺内的单个目标吐出恶臭物质。该目标必须在一次强韧豁免(DC=10+该骆驼生命骰的一半+该骆驼的体质调整值)中成功，否则会反胃(nauseated,又译呕吐)1轮。
+|source_name=坐骑背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zh4fc8a2e018.htm
+}}

@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[祝圣术]] 的神话版本。</small></div>
+{{Spell
+|name=祝圣术
+|english_name=Consecrate
+|school=塑能系
+|tags=善良
+|levels=先知 2;审判者 2;战斗祭司 2;牧师 2
+|description=选择你所具有的一种阵营要素（混乱、善良或者守序）。法术对攻击检定、伤害检定与豁免的惩罚同样适用于对立阵营亚种的异界生物，就如同它们是不死生物一般。
+|source=神话冒险
+}}
+[[分类:神话法术]]

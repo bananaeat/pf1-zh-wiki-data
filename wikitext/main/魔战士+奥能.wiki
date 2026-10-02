@@ -1,0 +1,13 @@
+{{速查导航}}
+
+'''魔战士+奥能'''是《[[哈罗牌手册]]》的一章，一个[[魔战士]]变体加两条[[奥能]]。
+
+== 本章条目 ==
+
+* [[牌法师]]（Card Caster）
+* [[奥能#奥能发牌 (Arcane Dealer, Su)|奥能发牌]]（Arcane Dealer；这一章译作「奥术发牌者」）
+* [[奥能#罗刹时运 (Rakshasa's Fortune, Su)|罗刹时运]]（Rakshasa's Fortune；这一章译作「罗刹之幸」）
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh99bbb99e07.htm 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

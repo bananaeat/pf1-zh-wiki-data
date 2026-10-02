@@ -1,0 +1,49 @@
+{{速查导航}}
+{{消歧义|走私者}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=走私者
+|english_name=Smuggler
+|aon=Pirate (Smuggler)
+|cr=2
+|xp=600
+|classline=人类盗贼（走私者）3
+|alignment=混乱中立
+|size=中型
+|type=类人生物
+|subtypes=人类
+|description=这名水手看上去形迹可疑，眼中闪着心知肚明的光芒，目光左右游移，评估着周围的环境。
+|init=+6
+|senses=察觉+7
+|ac=15，接触12，措手不及13（+3盔甲，+2敏捷）
+|hp=20（3d8+3）
+|fort=+0
+|ref=+5
+|will=+2
+|speed=30尺
+|melee=精制品[[弯刀]]+3（1d6/18–20），[[闷棍]]+4（1d6 非致命）
+|ranged=短弓+4（1d6/×3）
+|special_attacks=偷袭+2d6
+|str=10
+|dex=14
+|con=8
+|int=12
+|wis=13
+|cha=17
+|bab=+2
+|cmb=+2
+|cmd=14
+|feats=[[精通先攻]];[[健壮]];[[武器娴熟]]
+|skills=[[估价]]+7;[[唬骗]]+9;[[交涉]]+9;[[易容|伪装]]+9;[[威吓]]+9;[[知识]]（本地）+7;[[察觉]]+7;[[察言观色]]+7;[[巧手]]+8;[[隐匿]]+8
+|sq=贿络*;掩盖物品*;分心*;盗贼天赋（[[快速潜行]]）
+|environment=任意海洋或海岸
+|organization=单独，成对，或小队（3–5）
+|treasure=NPC 装备（精制品镶嵌皮甲，闷棍，精制品弯刀，短弓附20支箭矢，鹰之威仪药水，隐形药水〔2〕，其他宝物）
+|source=Isles of the Shackles
+|npc=1
+|lore=
+走私者把赃物偷运过好管闲事的港口官员，也躲过海军的检查与封锁；他们通常是身手隐秘的无赖、能说会道的骗子和手指灵巧的扒手。
+
+<nowiki>*</nowiki> 见《[[内海海盗]]》（Pathfinder Player Companion: Pirates of the Inner Sea）。
+}}
+{{AoN原文|1=NPCDisplay.aspx?ItemName=Pirate (Smuggler)|2=Pirate (Smuggler)}}

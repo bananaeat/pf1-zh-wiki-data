@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Orcs of Golarion pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=神圣破坏者
+|english_name=Sacred Smasher
+|type=宗教
+|prerequisites=拉瓦古格
+|description=你对杀戮的热爱甚至延伸到了身边那些毫无防备的无生命物体上。每当你尝试破坏一个物体时，你的力量检定获得+2背景加值。
+|source_name=格拉利昂的兽人
+|source=OoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Sacred%20Smasher
+}}

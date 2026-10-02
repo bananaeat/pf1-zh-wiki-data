@@ -1,0 +1,15 @@
+{{魔法物品
+|name=劫匪披肩
+|english_name=Highwayman's Cape
+|aon=MagicWondrousDisplay.aspx?FinalName=Highwayman's Cape
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=肩部
+|price=32,500 gp
+|weight=1磅
+|description=这件可翻面穿的五彩披肩，在亮色的一面朝外时，彰显着佩戴者招摇张扬的大胆，使其在唬骗检定上获得+5表现加值。用一个移动动作翻面后，另一面斑驳的迷彩使佩戴者在隐匿检定上获得+5表现加值。无论披肩当前朝外的是哪一面，佩戴者都可以随意用一个直觉动作进行脱逃检定，来对抗被擒抱、束缚或制服的状态，如同披肩对她施放了脱困指令（见《极限战斗》）一般。
+|req=[[制造奇物]]、[[脱困指令]]
+|cost=16,250 gp
+|source=极限宝具
+}}

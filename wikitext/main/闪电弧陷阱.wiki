@@ -1,0 +1,13 @@
+{{危害
+|name=闪电弧陷阱
+|english_name=Electricity Arc Trap
+|kind=陷阱
+|trap_type=机械
+|cr=4
+|perception=DC 25
+|disable=DC 20
+|trigger=接触型
+|reset=无
+|effect=闪电弧（4d6点电击伤害，反射 DC 20 减半）；复数目标（30尺线形区域全体）
+|source=核心规则书
+}}

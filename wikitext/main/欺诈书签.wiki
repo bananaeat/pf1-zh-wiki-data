@@ -1,0 +1,14 @@
+{{魔法物品
+|name=欺诈书签
+|english_name=Bookmark of Deception
+|aon=MagicWondrousDisplay.aspx?FinalName=Bookmark of Deception
+|cat=奇物
+|aura=微弱幻术系
+|cl=5
+|slot=无
+|price=1,500 gp
+|description=这枚书签能改变夹着它的那本书，使其看起来完全像另一本书，即使仔细通读也看不出破绽。所显现的那本书在制造书签时确定，通常是一本特别无聊或平庸的书，例如法律或宗教典籍。书签还会以[[回避侦测]]保护自身和那本书。
+|req=[[制造奇物]]、[[回避侦测]]、[[秘密文页]]
+|cost=750 gp
+|source=极限宝具
+}}

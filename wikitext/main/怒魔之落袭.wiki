@@ -1,0 +1,15 @@
+{{Feat
+|name=怒魔之落袭
+|english_name=Fury's Fall
+|categories=战斗
+|description=你同时使用力量和机敏将你的对手放倒在地。
+|prerequisites=[[精通摔绊]]
+|benefit=当你使用[[摔绊]][[战技]]时，将你的敏捷调整值加到你的战技加值上。
+|source=CEoD
+|source_name=切里亚斯，魔鬼王朝
+|source_url=https://pf1chm.pages.dev/topics/page_561.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[怒魔之圈套]]（1 个条目）

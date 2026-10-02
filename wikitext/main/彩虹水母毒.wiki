@@ -1,0 +1,13 @@
+{{危害
+|name=彩虹水母毒
+|english_name=Rainbow jellyfish toxin
+|kind=毒药
+|type=接触、伤口
+|save=强韧 DC 14
+|frequency=1次/轮，持续2轮
+|initial=[[恍惚]]1d6轮
+|secondary=[[麻痹]]1d6分钟
+|cure=1次豁免成功
+|price=400 gp
+|source=敌手指南
+}}

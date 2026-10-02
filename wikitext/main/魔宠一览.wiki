@@ -1,0 +1,390 @@
+{{速查导航|here=规则}}
+'''魔宠一览'''按 [https://aonprd.com/WizardFamiliars.aspx AoN 的魔宠总表] 列出全部 103 种魔宠和 83 种进阶魔宠。魔宠规则（魔宠能力表、各项能力说明）见 [[魔宠和模板]]；进阶魔宠要先取得专长 [[进阶魔宠]]。
+
+中文名和能力取自民间汉化 CHM（《[[魔宠手记]]》的两张魔宠表、[[魔宠和模板]] 那几批）；还没有中文的保留英文、列在 [[待办事项/对照/魔宠未译]] 等人补。名字链到站上这种生物的属性块（魔宠用的是哪种生物的数据，照 AoN）。
+
+== 魔宠 ==
+
+{| class="wikitable sortable"
+! 魔宠 !! 英文 !! 主人获得 !! 出处
+|-
+| [[魔宠（怪物图鉴4）|始祖鸟]] || Archaeopteryx || 使反射豁免获得 +2 加值 || [[怪物图鉴4]] p96
+|-
+| [[魔宠（怪物图鉴3）|北极狐]] || Arctic fox || 使反射豁免获得 +2 加值 || [[极限荒野]] p190、Reign of Winter Player's Guide p10
+|-
+| 北极兔 || Arctic hare || 使先攻检定获得 +4 加值 || [[极限荒野]] p190、Reign of Winter Player's Guide p10
+|-
+| 北极燕鸥 || Arctic tern || 使飞行检定获得 +3 加值 || [[极限荒野]] p190、Reign of Winter Player's Guide p10
+|-
+| 犰狳 || Armadillo || 使 AC 获得 +1 天生防御加值 || [[极限荒野]] p190、[[动物档案]] p10
+|-
+| [[魔宠(怪物)|蝙蝠]] || Bat || 使飞行检定获得 +3 加值 || [[动物档案]] p10、[[核心规则书]] p82
+|-
+| — || Butterfly || <span class="untr" title="还没有中文">Master gains a +3 bonus on Perform checks</span> || [[极限荒野]] p190
+|-
+| [[魔宠(怪物)|猫]] || Cat || 使隐匿检定获得 +3 加值 || [[动物档案]] p10、[[核心规则书]] p82
+|-
+| — || Cat, margay || <span class="untr" title="还没有中文">Master gains a +3 bonus on Bluff checks</span> || [[极限荒野]] p190
+|-
+| 蚰蜒 || Centipede, house || 使隐匿检定获得 +3 加值 || [[动物档案]] p10、[[极限魔法]] p1
+|-
+| 鸡 || Chicken || 使主人获得 +3 生命值 || [[极限荒野]] p190、[[怪物图鉴5]] p112、[[魔宠手记]]
+|-
+| 蟑螂 || Cockroach || 主人在HP获得+3 || [[极限荒野]] p190
+|-
+| [[秀颌龙]] || Compsognathus dinosaur || 使先攻检定获得 +4 加值 || [[动物档案]] p10、[[怪物图鉴2]] p90
+|-
+| 帝王蟹 || Crab, king || 使开始和维持擒抱的 CMB 检定获得 +2 加值 || [[动物档案]] p10、[[极限魔法]] p1
+|-
+| — || Creeper ivy || <span class="untr" title="还没有中文">Master gains a +3 bonus on Climb checks</span> || [[极限荒野]] p190
+|-
+| [[魔宠（怪物图鉴4）|渡渡鸟]] || Dodo || 使先攻检定获得 +4 加值 || [[极限荒野]] p190、[[动物档案]] p10、[[怪物图鉴4]] p96
+|-
+| 毛依海豚 || Dolphin, popoto || 使游泳检定获得 +3 加值 || [[极限荒野]] p190、[[魔宠手记]]
+|-
+| 驴鼠 || Donkey rat || 使强韧豁免获得 +2 加值 || [[动物档案]] p10、[[极限魔法]] p1
+|-
+| 钝吻古鳄 || Dwarf caiman || 使隐匿检定获得 +3 加值 || [[极限荒野]] p190、[[动物档案]] p10
+|-
+| — || Dweomer cap || <span class="untr" title="还没有中文">Master gains a +3 bonus on Spellcraft checks to identify magic items</span> || [[极限荒野]] p190
+|-
+| [[魔宠(怪物)|白鼬]] || Ermine || 使反射豁免获得 +2 加值 || [[极限荒野]] p190、Reign of Winter Player's Guide p10
+|-
+| — || Fire salamander || <span class="untr" title="还没有中文">Master gains a +3 bonus on Escape Artist checks</span> || [[极限荒野]] p190
+|-
+| — || Flowering lattice || <span class="untr" title="还没有中文">Master gains a +3 bonus on Diplomacy checks</span> || [[极限荒野]] p190
+|-
+| — || Flying fox || <span class="untr" title="还没有中文">Master gains a +2 bonus on Fortitude saves</span> || [[怪物图鉴5]] p112
+|-
+| [[魔宠（怪物图鉴3）|鼯鼠]] || Flying squirrel || 使飞行检定获得 +3 加值 || [[动物档案]] p10、[[怪物图鉴3]] p112
+|-
+| [[魔宠（怪物图鉴3）|狐狸]] || Fox || 使反射豁免获得 +2 加值 || [[动物档案]] p10、[[怪物图鉴3]] p112、[[极限魔法]] p1
+|-
+| [[巨跳蚤]] || Giant flea || <span class="untr" title="还没有中文">Master gains a +3 bonus on Fortitude saves against disease (witch only)</span> || [[怪物图鉴4]] p99
+|-
+| 深海巨虱 || Giant isopod || 使 AC 获得 +1 天生防御加值 || [[动物档案]] p10
+|-
+| [[魔宠（怪物图鉴3）|山羊]] || Goat || 使生存检定获得 +3 加值 || [[动物档案]] p10、[[极限魔法]] p1、[[怪物图鉴3]] p112
+|-
+| [[魔宠(怪物)#猎鹰|鹰]] || Hawk || 使光亮环境中基于视觉和对抗性察觉检定获得 +3 加值 || [[动物档案]] p10、[[核心规则书]] p82
+|-
+| 刺猬 || Hedgehog || 使意志豁免获得 +2 加值 || [[动物档案]] p10、[[极限魔法]] p1
+|-
+| — || Horned lizard || <span class="untr" title="还没有中文">Master gains a +2 bonus on Fortitude saves</span> || [[极限荒野]] p190
+|-
+| 命途艾恩石 || Ioun wyrd || 使 AC 获得 +1 天生防御加值 || [[极限荒野]] p190、[[魔宠手记]]
+|-
+| 深海巨虱 || Isopod, giant || 使 AC 获得 +1 天生防御加值 || [[极限荒野]] p190
+|-
+| — || Jerboa || <span class="untr" title="还没有中文">Master gains a +4 bonus on initiative checks</span> || [[极限荒野]] p190
+|-
+| 鸮鹦鹉 || Kakapo || 使攀爬检定获得 +3 加值 || [[极限荒野]] p190、[[魔宠手记]]
+|-
+| — || Keulia || <span class="untr" title="还没有中文">Master gains a +3 bonus to Disguise checks</span> || Druma、Profit and Prophecy p62
+|-
+| 树袋熊 || Koala || 使攀爬检定获得 +3 加值 || [[极限荒野]] p190、[[魔宠手记]]
+|-
+| — || Lamprey || <span class="untr" title="还没有中文">Master gains a +3 hit points</span> || [[极限荒野]] p190
+|-
+| 旅鼠 || Lemming || 使强韧豁免获得 +2 加值 || [[极限荒野]] p190、Reign of Winter Player's Guide p10
+|-
+| 豹纹蛞蝓 || Leopard slug || 使攀爬检定获得 +3 加值 || [[极限荒野]] p190、[[魔宠手记]]
+|-
+| — || Lich newt || <span class="untr" title="还没有中文">Master gains a +2 bonus on Fortitude saves against disease and poison</span> || Pathfinder #115: Trail of the Hunted p82
+|-
+| [[魔宠(怪物)|蜥蜴]] || Lizard || 使攀爬检定获得 +3 加值 || [[动物档案]] p10、[[核心规则书]] p82
+|-
+| 海鬣蜥 || Marine iguana || 使游泳检定获得 +3 加值 || [[极限荒野]] p190、[[动物档案]] p10
+|-
+| — || Meerkat || <span class="untr" title="还没有中文">Master gains a +3 bonus on Escape Artist checks</span> || [[极限荒野]] p190
+|-
+| 鼹鼠 || Mole || 使基于嗅觉、味觉或触觉的察觉检定获得 +3 加值 || [[极限荒野]] p190、[[魔宠手记]]
+|-
+| [[魔宠(怪物)|猫鼬]] || Mongoose || 使强韧豁免获得 +2 加值 || [[极限荒野]] p190、[[动物档案]] p10
+|-
+| [[魔宠(怪物)|猴子]] || Monkey || 使特技检定获得 +3 加值 || [[动物档案]] p10、[[核心规则书]] p82
+|-
+| — || Moth || <span class="untr" title="还没有中文">Master gains a +3 bonus on Survival checks</span> || [[极限荒野]] p190
+|-
+| 蓝环章鱼 || Octopus, blue-ringed || 使游泳检定获得 +3 加值 || [[动物档案]] p10、[[极限魔法]] p1
+|-
+| [[魔宠(怪物)#猎鹰|鹗]] || Osprey || 使生存检定获得 +3 加值 || [[极限荒野]] p190、[[动物档案]] p10
+|-
+| [[魔宠（怪物图鉴3）|水獭]] || Otter || 使游泳检定获得 +3 加值 || [[动物档案]] p10、[[怪物图鉴3]] p112
+|-
+| [[魔宠(怪物)|枭]] || Owl || 使阴影或黑暗中基于视觉和对抗性察觉检定获得 +3 加值 || [[动物档案]] p10、[[核心规则书]] p82
+|-
+| [[魔宠(怪物)|鹦鹉]] || Parrot || 使语言学检定获得 +3 加值 || [[极限荒野]] p190、[[动物档案]] p10
+|-
+| 孔雀 || Peacock || 使威吓检定获得 +3 加值 || [[魔宠手记]]
+|-
+| — || Peafowl || <span class="untr" title="还没有中文">Master gains a +3 bonus on Intimidate checks</span> || [[极限荒野]] p190
+|-
+| 企鹅 || Penguin || 使游泳检定获得 +3 加值 || [[极限荒野]] p190、[[魔宠手记]]、[[怪物图鉴5]] p112
+|-
+| 化石蕨 || Petrifern || 使 AC 获得 +1 天生防御加值 || [[极限荒野]] p190、[[魔宠手记]]
+|-
+| 彼特灵 || Petromin || 使隐匿检定获得 +3 加值 || Pathfinder #85: Fires of Creation p82
+|-
+| [[魔宠（怪物图鉴3）|猪]] || Pig || 使交涉检定获得 +3 加值 || [[动物档案]] p10、[[极限魔法]] p1、[[怪物图鉴3]] p112
+|-
+| [[魔宠（怪物图鉴4）|鸭嘴兽]] || Platypus || 使游泳检定获得 +3 加值 || [[极限荒野]] p190、[[动物档案]] p10、[[怪物图鉴4]] p96
+|-
+| 高山松鸡 || Ptarmigan || 使隐匿检定获得 +3 加值 || [[极限荒野]] p190、Reign of Winter Player's Guide p10
+|-
+| 河豚鱼 || Pufferfish || 使强韧豁免获得 +2 加值 || [[极限荒野]] p190、[[魔宠手记]]
+|-
+| 海鹦 || Puffin || 使游泳检定获得 +3 加值 || [[极限荒野]] p190、Reign of Winter Player's Guide p10
+|-
+| 兔子 || Rabbit || 使先攻检定获得 +4 加值 || [[极限荒野]] p190、[[动物档案]] p30
+|-
+| [[魔宠（怪物图鉴3）|浣熊]] || Raccoon || 使巧手检定获得 +3 加值 || [[动物档案]] p10、[[怪物图鉴3]] p112
+|-
+| [[魔宠(怪物)|鼠]] || Rat || 使强韧豁免获得 +2 加值 || [[动物档案]] p10、[[核心规则书]] p82
+|-
+| [[魔宠(怪物)|渡鸦]] || Raven* || 使估价检定获得 +3 加值 || [[动物档案]] p10、[[核心规则书]] p82
+|-
+| — || Ravenous tumbleweed || <span class="untr" title="还没有中文">Master gains a 10-foot bonus to speed when using the charge, run, or withdraw actions</span> || [[极限荒野]] p190
+|-
+| — || Razor fern || <span class="untr" title="还没有中文">Master gains a +3 bonus on Stealth checks</span> || [[极限荒野]] p190
+|-
+| — || Red panda || <span class="untr" title="还没有中文">Master gains a +3 bonus on Acrobatics checks</span> || [[怪物图鉴5]] p112
+|-
+| 喙嘴翼龙 || Rhamphorhynchus || 使先攻检定获得 +4 加值 || [[极限荒野]] p190、Pathfinder #37: Souls for Smuggler's Shiv p83、[[动物档案]] p10
+|-
+| — || Rock Tuatara || <span class="untr" title="还没有中文">Master gains a +3 bonus on Stealth checks in rocky environments</span> || Pathfinder #118: Siege of Stone p83
+|-
+| — || Sawleg locust || <span class="untr" title="还没有中文">Master gains a +3 bonus on Acrobatics checks</span> || [[极限荒野]] p190
+|-
+| [[绿刺蝎|绿螫蝎]] || Scorpion, greensting || 使先攻检定获得 +4 加值 || [[怪物图鉴4]] p232、[[动物档案]] p10、[[极限魔法]] p1
+|-
+| [[魔宠(怪物)|海蛇]] || Sea krait || 使强韧豁免获得 +2 加值 || [[极限荒野]] p190、[[动物档案]] p10
+|-
+| 海豹 || Seal || 使游泳检定获得 +3 加值 || [[极限荒野]] p190、[[怪物图鉴5]] p112、[[动物档案]] p10
+|-
+| — || Shimmerwing dragonfly || <span class="untr" title="还没有中文">Master gains a +3 bonus on Fly checks</span> || [[极限荒野]] p190
+|-
+| [[臭鼬(怪物)#臭鼬|臭鼬]] || Skunk || 使强韧豁免获得 +2 加值 || [[极限荒野]] p190、[[动物档案]] p10
+|-
+| [[魔宠（怪物图鉴4）|树獭]] || Sloth || 使攀爬检定获得 +3 加值 || [[怪物图鉴4]] p96
+|-
+| [[魔宠(怪物)#猎鹰|食螺鸢]] || Snail kite || 使飞行检定获得 +3 加值 || [[极限荒野]] p190、[[动物档案]] p10
+|-
+| [[鹰嘴龟]] || Snapping turtle || 使强韧豁免获得 +2 加值 || [[动物档案]] p10、[[怪物图鉴2]] p273
+|-
+| — || Snark || <span class="untr" title="还没有中文">Master gains a +3 bonus on Stealth checks</span> || Pathfinder #119: Prisoners of the Blight p83
+|-
+| [[魔宠(怪物)|雪枭]] || Snowy owl || 使阴影或黑暗中基于视觉和对抗性察觉检定获得 +3 加值 || Reign of Winter Player's Guide p10
+|-
+| [[猩红蜘蛛]] || Spider, scarlet || 使攀爬检定获得 +3 加值 || [[怪物图鉴4]] p252、[[动物档案]] p10、[[极限魔法]] p1
+|-
+| — || Spiny starfish || <span class="untr" title="还没有中文">Master treats his effective character level as 4 higher to recover hit points by resting</span> || [[极限荒野]] p190
+|-
+| 松鼠 || Squirrel || 使巧手检定获得 +3 加值 || [[极限荒野]] p190、[[动物档案]] p10
+|-
+| — || Suture vine || <span class="untr" title="还没有中文">Master gains a +3 bonus on Heal checks</span> || [[极限荒野]] p190
+|-
+| — || Tardigrade, giant || <span class="untr" title="还没有中文">Master gains a +2 bonus on Fortitude saves</span> || [[极限荒野]] p190
+|-
+| 眼镜猴 || Tarsier || 主人在特技检定获得+3加值 || [[极限荒野]] p190
+|-
+| — || Tauhoti || <span class="untr" title="还没有中文">Master gains a +3 bonus on one Profession check of her choice, selected when gaining the familiar</span> || Druma、Profit and Prophecy p63
+|-
+| 画眉鸟 || Thrush* || 使交涉检定获得 +3 加值 || [[动物档案]] p10、[[极限魔法]] p1
+|-
+| [[魔宠(怪物)|蟾蜍]] || Toad || 使主人获得 +3 生命值 || [[动物档案]] p10、[[核心规则书]] p82
+|-
+| — || Torble || <span class="untr" title="还没有中文">Master gains a +2 bonus on Craft (alchemy) checks</span> || Pathfinder #25: The Bastards of Erebus p85
+|-
+| [[魔宠(怪物)|巨嘴鸟]] || Toucan || 使交涉检定获得 +3 加值 || [[极限荒野]] p190、[[动物档案]] p10
+|-
+| — || Trilobite || <span class="untr" title="还没有中文">Master gains a +1 natural armor bonus to AC</span> || [[怪物图鉴5]] p112
+|-
+| [[魔宠（怪物图鉴4）|喙头蜥]] || Tuatara || 使生存检定获得 +3 加值 || [[怪物图鉴4]] p96
+|-
+| — || Tullimonstrum || <span class="untr" title="还没有中文">Master gains a +3 bonus on Perception checks</span> || Pathfinder #124: City in the Deep p87
+|-
+| 龟 || Turtle || 使 AC 获得 +1 天生防御加值 || [[动物档案]] p10、[[极限魔法]] p1
+|-
+| — || Vampire squid || <span class="untr" title="还没有中文">Master gains a +2 bonus on Reflex saves</span> || [[极限荒野]] p190
+|-
+| [[魔宠(怪物)|蝮蛇]] || Viper || 使唬骗检定获得 +3 加值 || [[动物档案]] p10、[[核心规则书]] p82
+|-
+| 沙袋鼠 || Wallaby || 使特技检定获得 +3 加值 || [[极限荒野]] p190、[[魔宠手记]]
+|-
+| [[魔宠(怪物)|黄鼠狼]] || Weasel || 使反射豁免获得 +2 加值 || [[动物档案]] p10、[[核心规则书]] p82
+|}
+
+== 进阶魔宠 ==
+
+{| class="wikitable sortable"
+! 进阶魔宠 !! 英文 !! 阵营 !! 奥术施法者等级 !! 出处
+|-
+| 以太元素小精灵 || Aether wysp || — || 7级 || [[怪物图鉴5]] p282
+|-
+| 气系元素小精灵 || Air wysp || — || 7级 || [[怪物图鉴5]] p282
+|-
+| [[独角兔]] || Almiraj || 任意 || 5级 || [[怪物图鉴4]] p8
+|-
+| [[仲裁者]] || Arbiter inevitable || 守序中立 || 7级 || [[极限魔法]] p1、[[怪物图鉴2]] p162
+|-
+| [[链魔，邪窥魔#邪窥魔|邪窥魔]] || Augur kyton || 守序邪恶 || 7级 || [[怪物图鉴3]] p171
+|-
+| [[黯翼蝠|蝙蝠，黯翼蝠]] || Bat, sootwing || 任意邪恶 || 5级 || [[怪物志]] p88
+|-
+| [[伺服头颅]] || Beheaded || 中立邪恶 || 3级 || [[怪物图鉴4]] p17、Pathfinder #43: Haunting of Harrowstone p83
+|-
+| [[脑鼠]] || Brain Mole || One step of neutral || 5级 || [[怪物图鉴5]] p46
+|-
+| [[棕仙]] || Brownie || 绝对中立 || 5级 || [[极限魔法]] p1、[[怪物图鉴2]] p49
+|-
+| [[狂躁邪魔]] || Cacodaemon daemon || 中立邪恶 || 7级 || [[极限魔法]] p1、[[怪物图鉴2]] p64
+|-
+| [[书卷龙]] || Caligraphy Wyrm || 绝对中立 || 7级 || Legacy of Dragons p26
+|-
+| [[卡班克尔]] || Carbuncle || 绝对中立 || 5级 || [[怪物图鉴3]] p44、Pathfinder #31: Stolen Land p77
+|-
+| [[圣盔天使]] || Cassisian angel || 中立善良 || 7级 || [[极限魔法]] p1、[[怪物图鉴2]] p26
+|-
+| 猫妖精 || Cat sith || 混乱中立 || 7级 || [[魔宠手记]] p28
+|-
+| 凯登犬 || Caypup || 混乱善良 || 7级 || [[魔宠手记]] p29
+|-
+| [[魔宠(怪物)#猎鹰|天界模板魔宠]] || Celestial hawk 1 || 中立善良 || 3级 || [[核心规则书]] p127
+|-
+| 阇卢兽 || Ceru || 中立善良 || 7级 || Inner Sea Bestiary p9
+|-
+| [[Chuspiki|丘斯皮基]] || Chuspiki || Chaotic || 7级 || [[怪物图鉴5]] p56
+|-
+| [[发条魔宠]] || Clockwork familiar || 任意 || 7th; needs crafting; see monstery entry || [[怪物图鉴5]] p57、Pathfinder #63: The Asylum Stone p86
+|-
+| [[珊瑚卷尾猴]] || Coral Capuchin || One step of neutral || 3级 || [[怪物图鉴6]] p66、Pathfinder #58: Island of Empty Eyes p83
+|-
+| 密语海鸥 || Cyphergull || One step of neutral || 7级 || Pathfinder #133: Secrets of Roderic's Cove p82
+|-
+| [[古魔，寄尸魔#寄尸魔|寄尸魔]] || Cythnigot qlippoth || 混乱邪恶 || 7级 || [[极限魔法]] p1、[[怪物图鉴2]] p221
+|-
+| [[凶暴鼠(怪物)#凶暴鼠|凶暴鼠]] || Dire rat || 绝对中立 || 3级 || [[核心规则书]] p127
+|-
+| [[飞颅妖]] || Doru div || 中立邪恶 || 7级 || [[怪物图鉴3]] p86、Pathfinder #19: Howl of the Carrion King p81
+|-
+| [[仙灵龙]] || Dragon, faerie || Chaotic good (within 1 step) || 7级 || [[怪物图鉴3]] p91
+|-
+| 潮池龙 || Dragon, tidepool || Chaotic neutral (within one step) || 7级 || Pathfinder #55: The Wormwood Mutiny p83
+|-
+| 魔猫幼崽 || Dweomercat Cub || 混乱中立 || 7级 || Pathfinder #36: Sound of a Thousand Screams p83
+|-
+| 土系元素小精灵 || Earth wysp || — || 7级 || [[怪物图鉴5]] p282
+|-
+| 小型元素 || Elemental, Small (any type) || 绝对中立 || 5级 || [[核心规则书]] p127
+|-
+| [[猴地精(怪物)#猴地精|混乱模板魔宠/熵化模板魔宠]] || Entropic monkey 1 || 混乱中立 || 3级 || [[极限魔法]] p1
+|-
+| [[恐亡魔，假蜱魔#假蜱魔|假蜱魔]] || Esipil sahkil || 中立邪恶 || 7级 || [[怪物图鉴5]] p213
+|-
+| [[魔宠灵导械|魔宠灵导械]] || Familiar automaton || Lawful || 7级 || [[构装体手册]] p24
+|-
+| [[魔宠(怪物)#蟾蜍|精类印记生物]] || Fey-touched toad 1 || — || 3级 || [[缘界英雄]] p17
+|-
+| [[魔宠(怪物)#蝮蛇|炼狱模板魔宠]] || Fiendish viper 1 || 中立邪恶 || 3级 || [[核心规则书]] p127
+|-
+| 火系元素小精灵 || Fire wysp || — || 7级 || [[怪物图鉴5]] p283
+|-
+| 鸡狐兽 || Galluvix || — || 7级 || Pathfinder #128: Songbird、Scion、Saboteur p84
+|-
+| [[预兆圣使]] || Harbinger archon || 守序善良 || 7级 || [[怪物图鉴3]] p18
+|-
+| 狱火之燃 || Hellfire Ignis || 任意 || 7级 || Cheliax, the Infernal Empire p62
+|-
+| [[人造人]] || Homunculus 2 || 任意 || 7级 || [[核心规则书]] p127
+|-
+| — || House drake || 混乱善良 || 7级 || Curse of the Crimson Throne (PFRPG) p474
+|-
+| [[魔鬼，小魔鬼#小魔鬼|小魔鬼]] || Imp (Devil) || 守序邪恶 || 7级 || [[核心规则书]] p127
+|-
+| 因彭杜鲁 || Impundulu || 中立邪恶 || 7级 || Pathfinder #40: Vaults of Madness p81
+|-
+| [[飞翔眼]] || Isitoq || 任意邪恶 || 5级 || [[怪物图鉴4]] p159
+|-
+| — || Katroome || 任意 || 5级 || Gallows of Madness p62
+|-
+| [[缝隙妖精]] || Liminal sprite || Chaotic || 7级 || [[怪物图鉴5]] p158
+|-
+| [[莉拉妖精]] || Lyrakien azata || 混乱善良 || 7级 || [[极限魔法]] p1、Pathfinder #2: The Skinsaw Murders p87、[[怪物图鉴2]] p38
+|-
+| 风暴蝾螈 || Mamiwa || Neutral-aligned || 7级 || Ire of the Storm p63
+|-
+| [[曼陀罗草]] || Mandragora || 混乱邪恶 || 9级 || Pathfinder #17: A Memory of Darkness p85
+|-
+| [[魔蝠]] || Mephit (any type) || 绝对中立 || 7级 || [[核心规则书]] p127
+|-
+| [[拟容精]] || Mockingfey || 混乱中立 || 4级 || Pathfinder #87: The Choking Tower p189、Inner Sea Bestiary p31
+|-
+| 铜蛇 || Nehushtan || Good-aligned || 7级 || Pathfinder #107: Scourge of the Godclaw p87
+|-
+| [[渡魂使，疫鸟#疫鸟|疫鸟]] || Nosoi (Psychopomp) || 绝对中立 || 7级 || [[怪物图鉴4]] p220、Pathfinder #47: Ashes at Dawn p86
+|-
+| [[暴虐小魔怪]] || Nuglub gremlin || 混乱邪恶 || 7级 || [[极限魔法]] p1
+|-
+| [[倪卡龙]] || Nycar || 混乱中立 || 7级 || [[怪物图鉴4]] p207
+|-
+| [[知行御衡者]] || Paracletus aeon || 绝对中立 || 7级 || [[极限魔法]] p1、[[怪物图鉴2]] p11
+|-
+| [[管狐]] || Pipefox || 任意 || 7级 || [[怪物图鉴4]] p215
+|-
+| [[噗咔精|噗卡精]] || Pooka || Any non-lawful || 7级 || [[怪物图鉴4]] p216
+|-
+| [[伪龙(怪物)#伪龙|伪龙]] || Pseudodragon || 中立善良 || 7级 || [[进阶种族手册]] p229、[[核心规则书]] p127
+|-
+| 伪斯芬克斯 || Pseudosphinx || 绝对中立 || 7级 || [[魔宠手记]] p29
+|-
+| [[双足伪龙]] || Pseudowyvern || 绝对中立 || 7级 || Legacy of Dragons p27
+|-
+| 心灵蛇 || Psyche serpent || 任意中立 || 7级 || Occult Bestiary p44
+|-
+| [[微火龙|蛾龙]] || Pyrausta 3 || Chaotic neutral (within 1 step) || 3级 || Legacy of Dragons p27
+|-
+| [[恶魔，小恶魔#小恶魔|小恶魔]] || Quasit (Demon) || 混乱邪恶 || 7级 || [[核心规则书]] p127
+|-
+| [[罗刹，化物罗刹#化物罗刹|化物罗刹]] || Raktavarna rakshasa || 守序邪恶 || 7级 || [[怪物图鉴3]] p229
+|-
+| [[人面鼠]] || Ratling || 混乱邪恶 || 7级 || [[怪物图鉴4]] p226
+|-
+| [[魔宠(怪物)#枭|绝对模板魔宠/秩序模板魔宠]] || Resolute owl 1 || 守序中立 || 3级 || [[极限魔法]] p1
+|-
+| [[翼蛇(怪物)#翼蛇|翼蛇]] || Seru || 任意邪恶 || 7级 || [[怪物志]] p208
+|-
+| [[影龙兽]] || Shadow drake || 任意邪恶 || 7级 || [[怪物图鉴4]] p80
+|-
+| [[神灵，式神#式神|式神]] || Shikigami kami || 守序中立 || 7级 || [[怪物图鉴3]] p163
+|-
+| [[灵猫福使|灵猫神使]] || Silvanshee agathion || 中立善良 || 7级 || [[极限魔法]] p1、[[怪物图鉴2]] p21
+|-
+| 寻罪者 || Sin seeker || See text || 5级 || Pathfinder #73: The Worldwound Incursion p89
+|-
+| 斯克维德 || Skvader || 绝对中立 || 3级 || Pathfinder #61: Shards of Sin p86
+|-
+| 烟影 || Smokeshade || 中立邪恶 || 7级 || Nidal、Land of Shadows p63
+|-
+| [[恶鬼灵]] || Spirit oni || 守序邪恶 || 7级 || [[怪物图鉴3]] p209
+|-
+| [[小妖精]] || Sprite || 混乱中立 || 5级 || [[怪物图鉴3]] p256
+|-
+| [[蚊蝠(怪物)#蚊蝠|蚊蝠]] || Stirge || 绝对中立 || 5级 || [[核心规则书]] p127
+|-
+| [[阿修罗，奇叵修罗#奇叵修罗|奇叵修罗]] || Tripurasura asura || 守序邪恶 || 7级 || [[怪物图鉴3]] p26
+|-
+| 蝠虫 || Typhilipede || 守序邪恶 || 7级 || Pathfinder #103: The Hellfire Compact p88
+|-
+| [[幻蛇，虚空虫#幻蛇 虚空虫|虚空虫]] || Voidworm protean || 混乱中立 || 7级 || [[极限魔法]] p1、[[怪物图鉴2]] p217
+|-
+| 水系元素小精灵 || Water wysp || — || 7级 || [[怪物图鉴5]] p283
+|-
+| 沃尔珀丁格 || Wolpertinger || 绝对中立 || 5级 || Pathfinder #61: Shards of Sin p86
+|-
+| [[嚣猴]] || Xiao || — || 7级 || [[怪物图鉴5]] p284
+|-
+| [[祖各]] || Zoog || 混乱邪恶 || 5级 || [[怪物图鉴3]] p288
+|}
+
+[[分类:规则]]

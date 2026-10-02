@@ -1,0 +1,10 @@
+{{Feat
+|name=悄声慢行
+|english_name=Careful Sneak
+|description=通过投入更多的时间，你能够避免大多数护甲对潜行带来的妨害。
+|prerequisites=[[敏捷]] 13，隐匿3级
+|benefit=只要你的移动速度不超过自身速度的一半，便可以忽略轻甲和中甲对隐匿检定带来的护甲检定减值。在以此方式潜行时，你仍旧无法奔跑或冲锋。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

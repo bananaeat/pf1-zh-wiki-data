@@ -1,0 +1,9 @@
+{{装备
+|name=黑木木雕
+|english_name=Blackwood figurehead
+|cat=工具
+|price=650 gp
+|weight=25磅
+|description=这件木雕可以雕成海洋生物的样子，或委托者想要的其他形象。它让所在船只的船员在船上时，在专业（水手）检定中获得+2士气加值。
+|source=商人货单
+}}

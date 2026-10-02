@@ -1,0 +1,9 @@
+{{Trait
+|name=怒战狂
+|english_name=Indelible Ire
+|type=战斗
+|description=当你身披重创时，战意更加激荡。每当对你造成的重击确定，你在1轮内的攻击检定获得+1背景加值。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

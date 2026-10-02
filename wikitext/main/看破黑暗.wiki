@@ -1,0 +1,13 @@
+<noinclude>{{速查导航|here=规则}}
+{{消歧义|看破黑暗(盗贼天赋)}}
+'''看破黑暗'''（See in Darkness）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Su</span><span class="sk-f">位置：感官</span></div>
+</noinclude><includeonly><div class="lang"><span id="看破黑暗"></span><div class="lang-h"><b>[[看破黑暗]]</b><i>See in Darkness</i><span class="lang-w">Su · 感官</span></div><div class="lang-d"></includeonly>
+该生物可以在任何种类的黑暗环境下完美视物，包括由[[深幽黑暗术]]造成的黑暗。
+
+'''格式'''：看破黑暗
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=See in Darkness|2=See in Darkness}}
+
+[[分类:通用怪物规则]]</noinclude>

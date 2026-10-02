@@ -1,0 +1,10 @@
+{{Trait
+|name=双方后裔
+|english_name=Child of Two Peoples
+|type=种族
+|prerequisites=[[半精灵]]、[[半兽人]]或[[人类]]
+|description=你的父母来自两种截然不同的文化，即便地域相近，这两种文化也保留着各自独特的身份认同(比如天夏人和乌尔芬人)。相互冲突的期望所带来的拉扯，强化了你的个性意识，并赋予了你语言天赋。
+|benefit=你在对抗魅惑和胁迫效果的意志豁免检定上+2背景加值，并且你自动掌握双亲种族或民族的语言。
+|source_name=北地居民
+|source_url=https://pf1chm.pages.dev/topics/zh63296b3929.htm
+}}

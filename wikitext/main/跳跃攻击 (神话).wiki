@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[跳跃攻击]] 的神话版本。</small></div>
+{{Feat
+|name=跳跃攻击
+|english_name=Spring Attack
+|categories=神话
+|description=你能够像旋转的刀刃一样席卷战场。
+|prerequisites=[[跳跃攻击]]，基本攻击加值+6
+|benefit=当你使用[[跳跃攻击]]专长时，在进行首次攻击前，你不需要至少移动10尺。当你使用跳跃攻击时，如果花费1次神话之力，那么在你跳跃攻击期间的移动不会引起[[借机攻击]]。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

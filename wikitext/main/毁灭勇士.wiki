@@ -1,0 +1,13 @@
+{{Feat
+|name=毁灭勇士
+|english_name=Champion of Destruction
+|categories=阵营
+|pfs=否
+|description=如果可以，你愿意毁灭整个世界。
+|prerequisites=10生命骰，混乱邪恶阵营。
+|benefit=你可以储存数量等同于魅力加值（最少1）的阵营确认以备随时使用，而不仅限于此后24小时内。你也可以在受到法术、魔法物品或其他基于阵营的效果影响时，在攻击命中或豁免失败后使用一个阵营确认，使你被视为既非混乱也非邪恶阵营。你在对抗守序与善良生物时的武器与法术伤害检定获得+2加值（若目标同时为善良且守序，则为+4）。这是一个基于阵营的效果。
+|residual=即使你不再是混乱邪恶阵营，你仍保留对守序与善良生物+2（或+4）的伤害加值。
+|source=PU
+|source_name=解放者
+|source_url=https://pf1chm.pages.dev/topics/zh771c8090a9.htm
+}}

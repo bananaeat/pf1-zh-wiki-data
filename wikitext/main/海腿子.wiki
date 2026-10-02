@@ -1,0 +1,10 @@
+{{Feat
+|name=海腿子
+|english_name=Sea Legs
+|description=你在桅杆缆绳间跃动时充满了老水手的灵感。
+|prerequisites=[[专业]]（水手）5级。
+|benefit=你的特技、攀爬和游泳检定+2。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

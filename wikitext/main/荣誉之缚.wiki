@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faiths and Philosophies pg. 0），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=荣誉之缚
+|english_name=Bound by Honor
+|type=信念
+|pfs=否
+|description=你的荣誉准则、义务与禁忌，源于年少荒唐时蒙受的耻辱。如今，一套个人准则提醒着你该如何生活，而你拥有惊人的抵抗诱惑的能力。每天一次，如果一个影响心灵效果会迫使你采取令你失去荣誉点（见《信仰与哲学》第8页）的行动，你可以按原本的DC进行一次新的豁免检定来结束该效果。
+|source_name=信仰与哲学
+|source=F&P
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Bound%20by%20Honor
+}}

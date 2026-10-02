@@ -1,0 +1,10 @@
+<noinclude>{{侠客导航}}
+'''鸣禽鸟语'''（Songbird, Su）是[[侠客]]的[[社交天赋]]。
+
+</noinclude>{{Source|格拉利昂的英雄|Heroes of Golarion|inline}}
+
+效果：侠客可以每天使用1次[[动物信使]]作为类法术能力，施法者等级等同于角色等级。他还可以把[[驯养动物]]变为[[本职技能]]。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhd3b09cc415.htm 原文]）。全部社交天赋见 [[:分类:社交天赋|分类:社交天赋]]。
+
+[[分类:社交天赋]]</noinclude>

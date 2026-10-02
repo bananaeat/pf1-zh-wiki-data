@@ -1,0 +1,15 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Varisia, Birthplace of Legends pg. 29），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=异乡言语
+|english_name=Foreign-Tongued
+|type=战役
+|pfs=否
+|description=你被一位多年旧识的游历所吸引，说服她教你一门她在旅途中学会的异国语言。从下列角色中选择一位。你可以从该角色所掌握的语言中选择一门，作为奖励语言。此外，你在向所选角色传递秘密信息的[[唬骗]]检定上获得+2背景加值（参见唬骗技能的说明）。NPC选项：阿美子、柯雅、桑德鲁、沙莉露。
+
+阿美子：天洲语、瓦瑞西安语
+柯雅或桑德鲁：瓦瑞西安语
+沙莉露：精灵语、地精语
+|source_name=瓦瑞西亚，传说诞生之地
+|source=VBoL
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Foreign-Tongued
+}}

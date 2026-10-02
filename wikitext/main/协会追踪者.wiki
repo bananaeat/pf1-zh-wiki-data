@@ -1,0 +1,9 @@
+{{Trait
+|name=协会追踪者
+|english_name=Tracker of the Society
+|type=战斗
+|prerequisites=[[游侠]]，[[探索者协会]]
+|description=你的探索者生涯让你成为追踪艺术的大师。当你处于任何一种你的偏好地形时，你的先攻检定获得+1背景加值，生存检定获得+2背景加值。这些加值与任何你从你的偏好地形职业能力获得的加值叠加。
+|source_name=碎星玩家手册
+|source_url=https://pf1chm.pages.dev/topics/zhb4c4366d0e.htm
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=地狱骑士审判者
+|english_name=Hellknight Inquisitor
+|type=信念
+|description=如果你是一位审判者且你和你的神祇都属于守序阵营，则你可以选取偏好[[地狱骑士团]]相关的[[裁决域]](见下)。此外，你对抗具有混乱描述符的法术和效果的豁免检定获得+1背景加值。
+|source_name=地狱骑士之道
+|source=PotH
+|source_url=https://pf1chm.pages.dev/topics/zh31da2cdf93.htm
+}}

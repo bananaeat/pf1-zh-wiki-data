@@ -1,0 +1,16 @@
+{{武器
+|name=拳刃
+|english_name=Punching dagger
+|category=武器
+|prof=简易
+|wcat=轻型
+|price=2 gp
+|weight=1磅
+|dmg_s=1d3
+|dmg_m=1d4
+|crit=×3
+|type=穿刺
+|groups=贴身
+|description=拳刃被安装在和握把呈水平方向的柄上，锋刃指向出拳的方向。
+|source=核心规则书、极限宝具
+}}

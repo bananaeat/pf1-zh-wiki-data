@@ -1,0 +1,8 @@
+{{Trait
+|name=莫测反应
+|english_name=Unpredictable Reactions
+|type=战斗
+|description=你在战斗开始之初的反应出乎人们意料。你在[[突袭轮]]期间的攻击上获得+1背景加值。
+|source_name=平衡勇士
+|source_url=https://pf1chm.pages.dev/topics/zh50fb06c319.htm
+}}

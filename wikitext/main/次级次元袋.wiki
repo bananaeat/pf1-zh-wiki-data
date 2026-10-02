@@ -1,0 +1,15 @@
+{{魔法物品
+|name=次级次元袋
+|english_name=Bag of Holding, Minor
+|aon=MagicWondrousDisplay.aspx?FinalName=Bag of Holding, Minor
+|cat=奇物
+|aura=中等咒法系
+|cl=9
+|slot=无
+|price=1,000 gp
+|weight=3磅
+|description=这个更经济实惠的[[次元袋]]版本以同样的方式运作，但内部尺寸比普通次元袋小。它的大小为2尺×4尺，最多可容纳50磅或6立方尺的物品。
+|req=[[制造奇物]]、[[秘藏箱]]
+|cost=500 gp
+|source=再探经典宝藏
+}}

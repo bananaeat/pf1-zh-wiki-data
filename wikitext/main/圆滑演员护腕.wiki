@@ -1,0 +1,15 @@
+{{魔法物品
+|name=圆滑演员护腕
+|english_name=Bracers of the Glib Entertainer
+|aon=MagicWondrousDisplay.aspx?FinalName=Bracers of the Glib Entertainer
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=腕部
+|price=7,900 gp
+|weight=1磅
+|description=这对装饰华丽的护腕上点缀着鲜艳的色彩，表面缝着许许多多小[[铃铛]]。穿戴期间，穿戴者的[[表演]]检定获得+5表现加值。每天1次，穿戴者可以以命令字获得[[花言巧语]]法术的效果。
+|req=[[制造奇物]]、[[花言巧语]]
+|cost=3,950 gp
+|source=极限宝具
+}}

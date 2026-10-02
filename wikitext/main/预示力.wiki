@@ -1,0 +1,9 @@
+{{Trait
+|name=预示力
+|english_name=Strength Foretold
+|type=魔法
+|description=你能将额外的力量导入你的某个血统奖励法术中。每日1次，你能够通过[[自由动作]]使你的一个血统奖励法术的豁免DC获得+1背景加值。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

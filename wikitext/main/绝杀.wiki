@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=绝杀|en=Killing Blow|type=Su|domain=死亡领域|sub=杀戮子域 (Murder)|sub_name=杀戮子域|source=进阶玩家指南|text=到了8级，若确认了重击，你那充满死亡能量的武器会额外造成相当于牧师等级一半的[[流血]]伤害。你能在8级每天使用1次，然后每比8高4级多1次。此能力替换[[死亡领域#死亡拥抱 (Death's Embrace, Ex)|死亡拥抱]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=玉螳螂
+|english_name=Jade Mantis
+|aon=MagicWondrousDisplay.aspx?FinalName=Jade Mantis
+|cat=奇物
+|aura=中等变化系
+|cl=11
+|slot=无
+|price=9,450 gp
+|description=玉螳螂是一尊小巧的祖母绿雕像，属于更大范围的[[奇妙雕像]]一类（在格拉利昂各地常被称为宝石生命）。激活后，雕像会变成一只听从你指挥的巨螳螂（怪物图鉴第285页）。你每周可以召唤它三次，每次最多1小时。
+|req=[[制造奇物]]、[[活化物体]]
+|cost=4,725 gp，378 XP
+|source=与法老同葬
+}}

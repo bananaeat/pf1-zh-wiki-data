@@ -1,0 +1,16 @@
+{{武器
+|name=带刺轻盾
+|english_name=Spiked light shield
+|category=武器
+|prof=军用
+|wcat=轻型
+|price=13 gp/19 gp
+|weight=特殊
+|dmg_s=1d3
+|dmg_m=1d4
+|crit=×2
+|type=穿刺
+|groups=贴身
+|description=除了防御，你还能用带刺轻盾猛砸敌人。带刺轻盾无法被[[卸武]]。详述请查看盔甲部分的甲刺条目。
+|source=核心规则书、极限宝具
+}}

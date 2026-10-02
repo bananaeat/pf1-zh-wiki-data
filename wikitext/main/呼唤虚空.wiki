@@ -1,0 +1,15 @@
+{{Spell
+|name=呼唤虚空
+|english_name=Call the void
+|school=塑能系
+|levels=奥能师 3;女巫 3;术士 3;法师 3
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|target=自己
+|duration=1轮/等级（可解消）
+|save=反射，通过则减半；见下
+|sr=是
+|description=该法术将召来黑暗异面的虚无能量环绕在你的身周。任何毗邻你的生物将在法术施放以及之后你的每轮开始时受到2d6点伤害。除此之外，受到虚能影响的生物将陷入[[疲乏]]，无法呼吸也不能说话，不能施放任何带有姿势成分的法术（译注：AoN 原文作「somatic components」，疑为笔误，应为 verbal components，即语言成分。）。受到影响的生物可以通过一个反射豁免以减半伤害并避免疲乏，但是只要他依然邻接你就仍然无法语言和呼吸。
+|source=初探龙国
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=船舶资质
+|english_name=Ship Aptitude
+|type=地区
+|prerequisites=镣铐群岛
+|description=你已经习惯了在许多不同类型的船上工作。因此，你有一种快速确定任何船只的弱点和优势的诀窍，即使是你以前从未踏上过的船只。你在专业(水手)检定上获得+1背景加值，并且专业(水手)成为你的[[本职技能]]。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

@@ -1,0 +1,14 @@
+{{危害
+|name=脑污
+|english_name=Brain blot
+|kind=毒药
+|type=吸入
+|save=强韧 DC 13
+|onset=1分钟
+|frequency=1次/分钟，持续6分钟
+|initial=1小时内[[专注]]检定承受–5罚值
+|secondary=1点智力伤害
+|cure=1次豁免成功
+|price=800 gp
+|source=秽邪勇士
+}}

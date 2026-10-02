@@ -1,0 +1,172 @@
+{{速查导航|here=规则}}
+'''神秘仪式'''（occult ritual）不必是施法者也能主持，要花几十分钟到几小时、连过若干次技能检定；成功也要承受'''反冲'''，失败另有后果。规则见 [[神秘仪式]]。
+
+<div class="pf-filter" data-target="ritual-list" data-search="搜名字、英文名、学派">
+<div data-key="school" data-order="防护系|咒法系|预言系|惑控系|塑能系|幻术系|死灵系|变化系">学派</div>
+<div data-key="level" data-order="1|2|3|4|5|6|7|8|9">仪式等级</div>
+<div data-key="book">出处</div>
+</div>
+
+{| class="wikitable sortable" id="ritual-list" style="width:100%"
+! style='width:18%' | 名称 !! style='width:20%' | 英文名 !! style='width:16%' | 学派 !! style='width:8%' | 仪式等级 !! style='width:12%' | 施放时间 !! style='width:16%' | 出处
+|- data-f-school="咒法系" data-f-level="8" data-f-book="传奇编年史"
+| [[自我主义者之军势|自我主义者之军势]] || Egoist’s Militia || 咒法系 || 8 || 80分钟 || 传奇编年史
+|- data-f-school="咒法系" data-f-level="9" data-f-book="内海神殿"
+| [[呼唤黑暗|呼唤黑暗]] || Call the Darkness || 咒法系（创造或呼唤） || 9 || 90分钟 || 内海神殿
+|- data-f-school="变化系" data-f-level="8" data-f-book="内海神殿"
+| [[晨花狂舞者的舞蹈|晨花狂舞者的舞蹈]] || Dance of the Dawnflower Dervish || 变化系 || 8 || 80分钟 || 内海神殿
+|- data-f-school="咒法系|预言系" data-f-level="8" data-f-book="反派法典"
+| [[不移警惕|不移警惕]] || Unwavering Vigilance || 咒法系（传送）和预言系 || 8 || 80分钟 || 反派法典
+|- data-f-school="变化系" data-f-level="5" data-f-book="反派法典"
+| [[猫和老鼠|猫和老鼠]] || Cats and Mice || 变化系（变形） || 5 || 50分钟 || 反派法典
+|- data-f-school="死灵系" data-f-level="7" data-f-book="反派法典"
+| [[绯色青春|绯色青春]] || Blush of Youth || 死灵系[邪恶] || 7 || 7小时 || 反派法典
+|- data-f-school="咒法系" data-f-level="5" data-f-book="反派法典"
+| [[自然改造|自然改造]] || Natural Reclamation || 咒法系 || 5 || 50分钟 || 反派法典
+|- data-f-school="变化系" data-f-level="5" data-f-book="反派法典"
+| [[返祖归元|返祖归元]] || Atavistic Reversion || 变化系 || 5 || 5小时 || 反派法典
+|- data-f-school="预言系" data-f-level="4" data-f-book="反派法典"
+| [[进入内环|进入内环]] || Enter the Inner Circle || 预言系 || 4 || 40分钟 || 反派法典
+|- data-f-school="死灵系" data-f-level="8" data-f-book="奈多，阴影之地"
+| [[入影廷|入影廷]] || Enter the Umbral court || 死灵系 || 8 || 80分钟 || 奈多，阴影之地
+|- data-f-school="变化系" data-f-level="6" data-f-book="对立协调"
+| [[不变性|不变性]] || Invariability || 变化系 || 6 || 60分钟 || 对立协调
+|- data-f-school="预言系" data-f-level="4" data-f-book="对立协调"
+| [[多元知识|多元知识]] || Multiversal Knowledge || 预言系 || 4 || 40分钟 || 对立协调
+|- data-f-school="变化系" data-f-level="5" data-f-book="对立协调"
+| [[毁灭之触|毁灭之触]] || Unmaking Touch || 变化系 || 5 || 50分钟 || 对立协调
+|- data-f-school="死灵系" data-f-level="9" data-f-book="对立协调"
+| [[转移灵魂|转移灵魂]] || Divert Soul || 死灵系 || 9 || 9小时 || 对立协调
+|- data-f-school="死灵系" data-f-level="7" data-f-book="巫团血脉"
+| [[五代诅咒|五代诅咒]] || Five-Generation Curse || 死灵系[诅咒，邪恶] || 7 || 7小时 || 巫团血脉
+|- data-f-school="咒法系" data-f-level="7" data-f-book="巫团血脉"
+| [[唤起报应|唤起报应]] || Invoke the Nemesis || 咒法系（呼唤）[诅咒] || 7 || 7小时 || 巫团血脉
+|- data-f-school="惑控系" data-f-level="5" data-f-book="巫团血脉"
+| [[高等战团|高等战团]] || Grand Coven || 惑控系 || 5 || 50分钟 || 巫团血脉
+|- data-f-school="变化系" data-f-level="4" data-f-book="巫团血脉"
+| [[鬼婆眼球酿|鬼婆眼球酿]] || Hag's Eye Brew || 变化系（创造） || 4 || 2周+4小时；见下文 || 巫团血脉
+|- data-f-school="防护系" data-f-level="4" data-f-book="异能冒险"
+| [[仪式驱魔术|仪式驱魔术]] || RITUAL EXORCISM || 防护系 || 4 || 40分钟 || 异能冒险
+|- data-f-school="变化系" data-f-level="5" data-f-book="异能冒险"
+| [[开启第三之眼|开启第三之眼]] || OPENING THE THIRD EYE || 变化系 || 5 || 50分钟 || 异能冒险
+|- data-f-school="防护系" data-f-level="6" data-f-book="异能冒险"
+| [[异能护盾|异能护盾]] || PSYCHIC SHIELDING || 防护系 || 6 || 60分钟 || 异能冒险
+|- data-f-school="咒法系" data-f-level="6" data-f-book="异能冒险"
+| [[揭开梦之面纱|揭开梦之面纱]] || BREACH THE VEIL OF DREAMS || 咒法系（创造） || 6 || 60分钟 || 异能冒险
+|- data-f-school="塑能系" data-f-level="5" data-f-book="异能冒险"
+| [[灵界裂口|灵界裂口]] || ETHEREAL RIP || 塑能系 || 5 || 50分钟 || 异能冒险
+|- data-f-school="咒法系" data-f-level="6" data-f-book="异能冒险"
+| [[穿越帷幕之呼唤|穿越帷幕之呼唤]] || Call Beyond The Veil || 咒法系（呼唤） || 6 || 60min || 异能冒险
+|- data-f-school="防护系" data-f-level="4" data-f-book="异能冒险"
+| [[诱捕法阵|诱捕法阵]] || ENSNARING CIRCLE || 防护系【描述符可变；见下文】 || 4 || 40分钟 || 异能冒险
+|- data-f-school="预言系" data-f-level="6" data-f-book="异能冒险"
+| [[追寻星界之见|追寻星界之见]] || SEEK ASTRAL INSIGHTS || 预言系 || 6 || 60分钟 || 异能冒险
+|- data-f-school="惑控系" data-f-level="4" data-f-book="异能冒险"
+| [[逃避之护|逃避之护]] || Avoidance Ward || 惑控系（胁迫） || 4 || 40分钟 || 异能冒险
+|- data-f-school="幻术系" data-f-level="8" data-f-book="异能冒险"
+| [[遮掩建筑|遮掩建筑]] || VEIL STRUCTURE || 幻术系（五官幻觉） || 8 || 80分钟 || 异能冒险
+|- data-f-school="死灵系" data-f-level="7" data-f-book="异能冒险"
+| [[问道作祟|问道作祟]] || HAUNTED COMMUNION || 死灵系 || 7 || 70分钟 || 异能冒险
+|- data-f-school="死灵系" data-f-level="9" data-f-book="异能国度"
+| [[不朽转化|不朽转化]] || Eternal Apotheosis || 死灵系[邪恶] || 9 || 9小时 || 异能国度
+|- data-f-school="咒法系" data-f-level="9" data-f-book="异能国度"
+| [[唤醒溺亡者之神|唤醒溺亡者之神]] || Waking the Drowned God || 咒法系（呼唤） || 9 || 9小时 || 异能国度
+|- data-f-school="咒法系" data-f-level="6" data-f-book="异能国度"
+| [[巫多之言|巫多之言]] || Utterings of the Wendo || 咒法系（呼唤） || 6 || 60分钟 || 异能国度
+|- data-f-school="咒法系" data-f-level="6" data-f-book="异能国度"
+| [[激活艾悠达拉|激活艾悠达拉]] || Aiudara Activation || 咒法系[呼唤] || 6 || 60分钟 || 异能国度
+|- data-f-school="塑能系" data-f-level="5" data-f-book="异能国度"
+| [[神坛再祝圣|神坛再祝圣]] || Reconsecrate Altar || 塑能系[混乱，邪恶，善良，或秩序；见下文] || 5 || 50分钟 || 异能国度
+|- data-f-school="死灵系" data-f-level="6" data-f-book="异能国度"
+| [[第十六阶的试炼|第十六阶的试炼]] || Trial of the Sixteenth Step || 死灵系[邪恶] || 6 || 60分钟 || 异能国度
+|- data-f-school="死灵系" data-f-level="7" data-f-book="异能国度"
+| [[血腥祈夜|血腥祈夜]] || Scarlet Vigil || 死灵系 || 7 || 7小时 || 异能国度
+|- data-f-school="变化系" data-f-level="4" data-f-book="异能国度"
+| [[解析大会|解析大会]] || Analytical Congress || 变化系 || 4 || 40分钟 || 异能国度
+|- data-f-school="变化系" data-f-level="6" data-f-book="异能国度"
+| [[魔族转变术|魔族转变术]] || Fiendish Transformation || 变化系[邪恶] || 6 || 60分钟 || 异能国度
+|- data-f-school="变化系" data-f-level="7" data-f-book="异能源始"
+| [[借力英雄神|借力英雄神]] || Invoking the Hero God || 变化系 || 7 || 70分钟 || 异能源始
+|- data-f-school="防护系" data-f-level="8" data-f-book="异能源始"
+| [[孔雀灵的静谧咆哮|孔雀灵的静谧咆哮]] || Peacock Spirit's Tranquil Roar || 防护系 || 8 || 80分钟 || 异能源始
+|- data-f-school="防护系" data-f-level="4" data-f-book="异能源始"
+| [[瓦伦哈拉的炉火|瓦伦哈拉的炉火]] || Hearthfire of Valenhall || 防护系 || 4 || 4小时 || 异能源始
+|- data-f-school="预言系" data-f-level="4" data-f-book="异能源始"
+| [[祈求庇护主|祈求庇护主]] || Beseeching the Patron || 预言系 || 4 || 40分钟 || 异能源始
+|- data-f-school="咒法系" data-f-level="6" data-f-book="异能源始"
+| [[舞动玩偶之章|舞动玩偶之章]] || Seal of Dancing Dolls || 咒法系 || 6 || 6小时 || 异能源始
+|- data-f-school="死灵系" data-f-level="6" data-f-book="惧怖冒险"
+| [[成对苦痛|成对苦痛]] || Paired Suffering || 死灵系 || 6 || 6小时 || 惧怖冒险
+|- data-f-school="变化系" data-f-level="8" data-f-book="惧怖冒险"
+| [[播种毁灭|播种毁灭]] || Seeded Doom || 变化系[邪恶] || 8 || 8小时 || 惧怖冒险
+|- data-f-school="预言系" data-f-level="4" data-f-book="惧怖冒险"
+| [[第二视觉|第二视觉]] || Second Sight || 预言系 || 4 || 40分钟 || 惧怖冒险
+|- data-f-school="惑控系" data-f-level="6" data-f-book="惧怖冒险"
+| [[遗忘赋格|遗忘赋格]] || Fugue of Oblivion || 惑控系（胁迫） || 6 || 6小时 || 惧怖冒险
+|- data-f-school="塑能系" data-f-level="9" data-f-book="惧怖冒险"
+| [[饥渴之影|饥渴之影]] || The Hungering of Shadows || 塑能系 || 9 || 1天 || 惧怖冒险
+|- data-f-school="变化系" data-f-level="9" data-f-book="暴君魔爪"
+| [[整理莱线|整理莱线]] || Untangle Ley Lines || 变化系 || 9 || 9小时 || 暴君魔爪
+|- data-f-school="防护系" data-f-level="4" data-f-book="暴君魔爪"
+| [[隐形庇护|隐形庇护]] || Invisible Aegis || 防护系 || 4 || 40分钟 || 暴君魔爪
+|- data-f-school="防护系" data-f-level="6" data-f-book="极限荒野"
+| [[切断精神联系|切断精神联系]] || Sever Spirit || 防护系[诅咒，邪恶] || 6 || 60分钟 || 极限荒野
+|- data-f-school="防护系" data-f-level="4" data-f-book="极限荒野"
+| [[加固营地|加固营地]] || Reinforce Campsite || 防护系 || 4 || 40分钟 || 极限荒野
+|- data-f-school="惑控系" data-f-level="8" data-f-book="极限荒野"
+| [[归于休憩|归于休憩]] || Return to Dormancy || 惑控系（胁迫）[影响心灵] || 8 || 80分钟 || 极限荒野
+|- data-f-school="死灵系" data-f-level="9" data-f-book="极限荒野"
+| [[形成荒疫怪|形成荒疫怪]] || Form Blight || 死灵系 || 9 || 9小时 || 极限荒野
+|- data-f-school="幻术系" data-f-level="5" data-f-book="极限荒野"
+| [[荒野迷阵|荒野迷阵]] || Labyrinthine Wilds || 幻术系（五官幻觉） || 5 || 50分钟 || 极限荒野
+|- data-f-school="变化系" data-f-level="9" data-f-book="永罪之书"
+| [[分离为四|分离为四]] || Quartern Disjunction || 变化系 || 9 || 90分钟 || 永罪之书
+|- data-f-school="预言系" data-f-level="9" data-f-book="永罪之书"
+| [[名单显现|名单显现]] || Manifest Manifestation || 预言系 || 9 || 90分钟 || 永罪之书
+|- data-f-school="死灵系" data-f-level="9" data-f-book="永罪之书"
+| [[灵魂捕捉|灵魂捕捉]] || Soul Trap || 死灵系[邪恶] || 9 || 90分钟 || 永罪之书
+|- data-f-school="变化系" data-f-level="4" data-f-book="永罪之书"
+| [[第一仪式|第一仪式]] || First Apotheosis || 变化系 [邪恶] || 4 || 4小时 || 永罪之书
+|- data-f-school="变化系" data-f-level="6" data-f-book="永罪之书"
+| [[第三仪式|第三仪式]] || Third Apotheosis || 变化系 [邪恶] || 6 || 6小时 || 永罪之书
+|- data-f-school="变化系" data-f-level="5" data-f-book="永罪之书"
+| [[第二仪式|第二仪式]] || Second Apotheosis || 变化系 [邪恶] || 5 || 5小时 || 永罪之书
+|- data-f-school="变化系" data-f-level="9" data-f-book="永罪之书"
+| [[第四仪式|第四仪式]] || Fourth Apotheosis || 变化系 [邪恶] || 9 || 9小时 || 永罪之书
+|- data-f-school="咒法系" data-f-level="9" data-f-book="永罪之书"
+| [[魔族召唤|魔族召唤]] || Fiendish Conjuration || 咒法系（呼唤）[邪恶] || 9 || 90分钟 || 永罪之书
+|- data-f-school="变化系" data-f-level="9" data-f-book="符文领主的归来"
+| [[创造罪生怪|创造罪生怪]] || Craft Sinspawn || 变化系 || 9 || 90分钟 || 符文领主的归来
+|- data-f-school="咒法系" data-f-level="8" data-f-book="符文领主的归来"
+| [[引诱猎魔蛛|引诱猎魔蛛]] || Beacon Retriever || 咒法系（呼唤）[混乱，邪恶] || 8 || 8小时 || 符文领主的归来
+|- data-f-school="咒法系" data-f-level="7" data-f-book="符文领主的归来"
+| [[攫取资源|攫取资源]] || Wrest Resources || 咒法系（传送） || 7 || 60分钟 || 符文领主的归来
+|- data-f-school="死灵系" data-f-level="6" data-f-book="符文领主的归来"
+| [[栖身符文巨人|栖身符文巨人]] || Inhabit Rune Giant || 死灵系 || 6 || 60分钟 || 符文领主的归来
+|- data-f-school="预言系" data-f-level="8" data-f-book="符文领主的归来"
+| [[符文领主幻形|符文领主幻形]] || Runelord Manifestation || 预言系（探知） || 8 || 80分钟 || 符文领主的归来
+|- data-f-school="变化系" data-f-level="5" data-f-book="符文领主的归来"
+| [[逆翻巨人|逆翻巨人]] || Invert Giant || 变化系 || 5 || 50分钟 || 符文领主的归来
+|- data-f-school="咒法系" data-f-level="8" data-f-book="符文领主的归来"
+| [[铬绿超卓|铬绿超卓]] || The Viridian Transcendence || 咒法系（传送） || 8 || 80分钟 || 符文领主的归来
+|- data-f-school="变化系" data-f-level="8" data-f-book="遥远世界"
+| [[丰收节|丰收节]] || Harvest Bounty Festival || 变化系 || 8 || 24小时 || 遥远世界
+|- data-f-school="预言系" data-f-level="9" data-f-book="遥远世界"
+| [[光衰节|光衰节]] || Waning Light Festival || 预言系 || 9 || 9小时 || 遥远世界
+|- data-f-school="预言系" data-f-level="4" data-f-book="遥远世界"
+| [[花卉节|花卉节]] || Festival of Flowers || 预言系 || 4 || 12小时 || 遥远世界
+|- data-f-school="预言系" data-f-level="6" data-f-book="门徒教义"
+| [[忘昔残像|忘昔残像]] || Breath of Forgotten Life || 预言系[影响心灵] || 6 || 60分钟 || 门徒教义
+|- data-f-school="咒法系" data-f-level="5" data-f-book="门徒教义"
+| [[神灵赋歌|神灵赋歌]] || Song of the Kami's Gift || 咒法系[召唤] || 5 || 50分钟 || 门徒教义
+|- data-f-school="防护系" data-f-level="5" data-f-book="闹鬼英雄手册"
+| [[地缚结界|地缚结界]] || Earthbound Ward || 防护系 || 5 || 10分钟/该仪式影响的10尺立方（至少50分钟） || 闹鬼英雄手册
+|- data-f-school="死灵系" data-f-level="4" data-f-book="闹鬼英雄手册"
+| [[诅咒之音|诅咒之音]] || Voice of the Damned || 死灵系 || 4 || 30分钟 || 闹鬼英雄手册
+|- data-f-school="死灵系" data-f-level="5" data-f-book="闹鬼英雄手册"
+| [[采集亵渎之魂|采集亵渎之魂]] || Harvest the Defiled Soul || 死灵系[邪恶] || 5 || 5小时；见下文 || 闹鬼英雄手册
+|- data-f-school="死灵系" data-f-level="4" data-f-book="闹鬼英雄手册"
+| [[驱除作祟|驱除作祟]] || Exorcise Haunt || 死灵系 || 4 || 40分钟 || 闹鬼英雄手册
+|}
+
+[[分类:仪式]]

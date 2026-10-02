@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=地震靴
+|english_name=Earthquake Boots
+|aon=MagicWondrousDisplay.aspx?FinalName=Earthquake Boots
+|cat=奇物
+|aura=强烈塑能系
+|cl=15
+|slot=脚部
+|price=67,500 gp
+|weight=1磅
+|description=这双厚实的兽皮靴能让穿戴者察觉看不见的敌人，并在面对压倒性的敌人时提供最后一道防线。只要穿戴者站在坚实的地面上，就获得距离60尺的[[颤动感知]]。此外，每天一次，穿戴者可以在泥土或石质表面上反复跺脚，这是一个会引发[[借机攻击]]的[[整轮动作]]，以此将[[地震术]]作为类法术能力施放。
+|req=[[制造奇物]]、[[地震术]]、[[识破隐形]]
+|cost=33,750 gp
+|source=幽暗地域英雄
+}}

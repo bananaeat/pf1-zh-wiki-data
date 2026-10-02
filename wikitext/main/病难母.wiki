@@ -1,0 +1,19 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=病难母
+|english_name=Lady Nanbyo
+|title=苦难寡妇（The Widow of Suffering）
+|alignment=混乱邪恶（CE）
+|weapon=战锤
+|portfolio=地震，火，瘟疫，苦难
+|domains=[[混乱领域|混乱]]，[[毁灭领域|毁灭]]，[[邪恶领域(领域)|邪恶]]，[[火领域|火]]，[[植物领域|植物]]
+|subdomains=[[火领域#灰烬子域 (Ash)|灰烬子域]]，[[毁灭领域#天灾子域 (Catastrophe)|天灾子域]]，[[植物领域#腐朽子域 (Decay)|腐朽子域]]，[[混乱领域#恶魔子域 (Demon)|恶魔子域（混乱）]]，[[邪恶领域(领域)#恶魔子域 (Demon)|恶魔子域（邪恶）]]，[[毁灭领域#仇恨子域 (Hatred)|仇恨子域]]，[[毁灭领域#狂暴子域 (Rage)|狂暴子域]]，[[火领域#烟幕子域 (Smoke)|烟幕子域]]
+|symbol=燃烧着火焰的大地裂缝
+|animal=乌鸦
+|centers=Goka，Minata，Shaguang，Shenmen，Wanshou
+|nationality=Tian-Sing，龙
+|pantheon=天夏神祇
+|source=龙国舆图
+}}
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Lady%20Nanbyo|2=Lady Nanbyo}}

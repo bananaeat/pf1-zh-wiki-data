@@ -1,0 +1,9 @@
+{{装备
+|name=永燃火把
+|english_name=Everburning torch
+|cat=冒险装备
+|price=110 gp
+|weight=1磅
+|description=这支除此之外与普通火把无异的火把被施放了不灭明焰法术，因此能像普通火把一样发光，但不会散发热量，当作武器使用时也不会造成火焰伤害。
+|source=核心规则书、极限宝具
+}}

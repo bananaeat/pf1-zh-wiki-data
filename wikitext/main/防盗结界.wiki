@@ -1,0 +1,16 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[防盗结界 (神话)]]。</small></div>
+{{Spell
+|name=防盗结界
+|english_name=Theft ward
+|school=防护系
+|levels=催眠师 1;先知 1;奥能师 1;女巫 1;审判者 1;战斗祭司 1;术士 1;法师 1;牧师 1
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的物品
+|duration=1天
+|save=意志，通过则无效（无害，物品）
+|sr=是（无害，物品）
+|description=你可以使你身上的单件物品难以被盗。你在发现有人尝试从你身上取走该物品的察觉检定上获得+10加值。
+|source=进阶种族手册
+}}

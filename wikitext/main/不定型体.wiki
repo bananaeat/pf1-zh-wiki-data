@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''不定型体'''（Amorphous）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：防御能力</span></div>
+</noinclude><includeonly><div class="lang"><span id="不定型体"></span><div class="lang-h"><b>[[不定型体]]</b><i>Amorphous</i><span class="lang-w">Ex · 防御能力</span></div><div class="lang-d"></includeonly>
+这个生物的身体变幻不定。他免疫精准伤害（例如偷袭）和重击。
+
+'''格式'''：不定型体
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Amorphous|2=Amorphous}}
+
+[[分类:通用怪物规则]]</noinclude>

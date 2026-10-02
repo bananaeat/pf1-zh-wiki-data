@@ -1,0 +1,15 @@
+{{魔法物品
+|name=高等移位披风
+|english_name=Cloak of Displacement (Major)
+|aon=MagicWondrousDisplay.aspx?FinalName=Cloak of Displacement (Major)
+|cat=奇物
+|aura=中等幻术系
+|cl=7
+|slot=肩部
+|price=50,000 gp
+|weight=1磅
+|description=披风上绣着坠星和苍白月亮的图案，看起来就是一件普通披风，但只要下达命令，它的魔力就会扭曲光波。这种位移的效果与[[移位术]]完全相同，每天总共持续15轮，穿戴者可以随意分配这些轮数。
+|req=[[制造奇物]]、[[法术延时]]、[[移位术]]
+|cost=25,000 gp
+|source=核心规则书、极限宝具
+}}

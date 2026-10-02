@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[特技专家]] 的神话版本。</small></div>
+{{Feat
+|name=特技专家
+|english_name=Acrobatic
+|categories=神话
+|description=你的灵动与优雅举世无双。
+|prerequisites=[[特技专家]]
+|benefit=[[特技专家]]专长对特技与飞行技能检定带来的加值增加2点。此外，你能够花费1次神话之力，使得1次特技或者飞行检定就好像自然掷出20一般。你必须在进行检定之前决定使用该能力。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

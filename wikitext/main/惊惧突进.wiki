@@ -1,0 +1,10 @@
+{{Trait
+|name=惊惧突进
+|english_name=Terrifying Lunge
+|type=种族
+|prerequisites=[[兽态人]]（鳄鱼人裔）
+|description=你曾经被一个更强的鳄鱼人裔咬过，并体会到了展示武力的重要性。每天一次，当你以近战攻击命中一个[[措手不及]]的敌人时，你可以以一个[[迅捷动作]]做威吓检定来使它挫败士气。威吓成为你的本职技能。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_808.html
+}}

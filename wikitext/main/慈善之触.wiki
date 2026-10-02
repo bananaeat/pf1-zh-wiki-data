@@ -1,0 +1,9 @@
+{{Trait
+|name=慈善之触
+|english_name=Beneficent Touch
+|type=派系
+|description=每天一次，当你使用法术或职业能力恢复生命值时，可以重投所有出现在骰面上的1,但必须接受重投之后的结果(即使仍旧是1)。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

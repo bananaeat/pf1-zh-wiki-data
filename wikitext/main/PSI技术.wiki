@@ -1,0 +1,21 @@
+{{速查导航}}
+
+'''PSI技术'''（psi-tech）是《[[异能冒险]]》里收的一章，九条[[异能者]]可以代替一项[[精神增幅]]或一个专长选取的发现。
+
+九条都按站上的体例收在 [[精神增幅]] 页里了。正文第一行写着「源于 Occult Realms.Pg12」，AoN 记的也是《[[异能国度]]》，条目的出处按那本记。
+
+== 本章条目 ==
+
+* [[精神增幅#晋升智械 (Artificial Ascension)|晋升智械]]（Artificial Ascension，收在 [[精神增幅]] 页里）
+* [[精神增幅#疾病转移 (Disease Transference, Su)|疾病转移]]（Disease Transference，收在 [[精神增幅]] 页里）
+* [[精神增幅#异能力场 (Force Field, Su)|异能力场]]（Force Field，收在 [[精神增幅]] 页里）
+* [[精神增幅#动能增强 (Kinetic Enhancement)|动能增强]]（Kinetic Enhancement，收在 [[精神增幅]] 页里）
+* [[精神增幅#镭射爆发 (Laser Blast, Su)|镭射爆发]]（Laser Blast，收在 [[精神增幅]] 页里）
+* [[精神增幅#心灵殖装过载 (Mind Over Augmentation)|心灵殖装过载]]（Mind Over Augmentation，收在 [[精神增幅]] 页里）
+* [[精神增幅#异能电池 (Psychic Battery, Su)|异能电池]]（Psychic Battery，收在 [[精神增幅]] 页里）
+* [[精神增幅#辐射抗力 (Radiation Resistance)|辐射抗力]]（Radiation Resistance，收在 [[精神增幅]] 页里）
+* [[精神增幅#科技匠人 (Techsmith)|科技匠人]]（Techsmith，收在 [[精神增幅]] 页里）
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_855.html 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

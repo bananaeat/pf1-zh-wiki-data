@@ -1,0 +1,11 @@
+{{Feat
+|name=干扰式感应
+|english_name=Telepathic Distraction
+|pfs=否
+|description=你对心灵感应的掌握让你可以投射灵能冲击来干扰脆弱的心灵
+|prerequisites=魅力15，蛇人
+|benefit=以一个标准动作，你聚焦你的心灵感应能量对一个处于其范围内的生物心灵发起冲击。这个目标必须通过一个DC=10+你的HD的一半+你的魅力调整值的意志检定，否则会承受1d6点非致命伤害并在对抗影响心灵的效果时承受-2减值，该减值持续1d6轮。这是一个影响心灵的效果。你每日可以使用本能力的次数等同于你的HD的一半。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1414.html
+}}

@@ -1,0 +1,13 @@
+{{危害
+|name=落石陷阱
+|english_name=Falling Block Trap
+|kind=陷阱
+|trap_type=机械
+|cr=5
+|perception=DC 20
+|disable=DC 20
+|trigger=位置型
+|reset=手动
+|effect=近战攻击 +15（6d6）；复数目标（10尺见方区域全体）
+|source=核心规则书
+}}

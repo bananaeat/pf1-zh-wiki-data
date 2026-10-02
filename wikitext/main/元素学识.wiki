@@ -1,0 +1,10 @@
+{{Feat
+|name=元素学识
+|english_name=Elemental Knowledge
+|description=你在探索自身与元素的链接的同时，扩展着自身知识的广度。
+|prerequisites=元素扩展职业特性
+|benefit=当你在7级通过元素扩展职业能力选择一个与你的首要元素不同的元素时，你将该元素相关的技能视为[[本职技能]]。除此之外，你在与你的元素相关技能上获得+1加值。如果你在15级通过元素扩展职业能力选择了第三种元素，对于该元素的相关技能你会获得同样的好处。
+|source=OAn
+|source_name=异能选集
+|source_url=https://pf1chm.pages.dev/topics/page_726.html
+}}

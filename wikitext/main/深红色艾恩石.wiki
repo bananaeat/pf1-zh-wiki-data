@@ -1,0 +1,20 @@
+{{魔法物品
+|name=深红色艾恩石
+|english_name=Deep Red Sphere Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun Stone Deep Red Sphere
+|cat=艾恩石
+|aura=强烈（学派不定）
+|cl=12
+|slot=无
+|price=8,000 gp
+|description='''形状'''：圆球
+
+'''效果'''：可以让使用者的敏捷获得+2增强加值。
+
+'''共振'''（放入[[寻路仪]]时）：获得奖励专长[[精通徒手打击]]。
+
+艾恩石的通用规则（启动、环绕飞行、抓取，以及AC、硬度）见[[艾恩石]]。
+|req=[[制造奇物]]，制造者必须已经12级
+|cost=4,000 gp
+|source=核心规则书、极限宝具、冒险者指南
+}}

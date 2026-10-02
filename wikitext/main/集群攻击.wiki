@@ -1,0 +1,10 @@
+{{Feat
+|name=集群攻击
+|english_name=Swarm Strike
+|categories=团队
+|description=你和盟友们学会了像鼠群那样淹没对手。
+|benefit=当敌人引起你的[[借机攻击]]时，你的攻击得到＋1加值，每多一个拥有此专长并威胁该敌人的盟友再＋1。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_809.html
+}}

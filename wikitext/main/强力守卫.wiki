@@ -1,0 +1,10 @@
+{{Trait
+|name=强力守卫
+|english_name=Mighty Protector
+|type=宗教
+|prerequisites=信仰杜鲁德
+|description=当你年幼无法作战时，曾亲眼目睹无辜者遭遇重大悲剧，并向杜鲁德发誓要变得强大，以阻止此类悲剧再度发生。每天一次，当你以近战攻击命中敌人时，你可以立即以一个[[自由动作]]尝试一次协助他人来提升相邻盟友对该敌人的AC。若检定成功，该盟友本轮所获AC加值为+4，而非+2。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh9e38168036.htm
+}}

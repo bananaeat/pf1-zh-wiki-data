@@ -1,0 +1,15 @@
+{{Spell
+|name=铁花发芽
+|english_name=Ironbloom sprouts
+|school=变化系
+|levels=先知 1;德鲁伊 1;战斗祭司 1;牧师 1;猎人 1
+|action=标准动作
+|components=语言;姿势;圣徽;材料（价值1gp的铁粉）
+|range=接触
+|target=接触到的2d4朵新鲜蘑菇
+|duration=1天/等级
+|save=无
+|sr=是
+|description=这个法术的功能如同[[神莓]]，除了上述不同之处，以及它将2d4朵蘑菇转化为魔法的铁花蘑菇，而不是将普通浆果转化为魔法的浆果。或者，你也可以创造两倍数量的蘑菇，但每个蘑菇只具有神莓的营养能力，而没有治疗功能。
+|source=破碎魔星
+}}

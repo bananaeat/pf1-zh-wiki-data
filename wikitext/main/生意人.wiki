@@ -1,0 +1,11 @@
+{{Trait
+|name=生意人
+|english_name=Brastlewark Businessman
+|type=社会
+|prerequisites=[[侏儒]]
+|description=在切利亚斯的布拉斯特瓦克与侏儒精英共事的经历，使你精通炼金术，并在生意场上拥有现成的人脉。
+|benefit=你在所有手艺（炼金）检定上获得+2背景加值。
+|source_name=种族背景
+|source=CEoD
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

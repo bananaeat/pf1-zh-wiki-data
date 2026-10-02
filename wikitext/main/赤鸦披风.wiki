@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=赤鸦披风
+|english_name=The Red Raven's Cape
+|aon=MagicWondrousDisplay.aspx?FinalName=The Red Raven's Cape
+|cat=奇物
+|aura=强烈咒法系
+|cl=5
+|slot=肩部
+|price=5,000 gp
+|description=这件曾经精美的红色披风如今破烂不堪，几乎被撕成两半。每天1次，你可以以[[标准动作]]施放[[任意门]]，距离为40尺，但不能带上额外的目标。你消失时会留下一团烟雾，并以类似的方式在目的地出现。
+|req=[[制造奇物]]、[[任意门]]
+|cost=6,500 gp，200 XP
+|source=赤鸦飞翔
+}}

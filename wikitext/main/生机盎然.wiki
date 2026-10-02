@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=生机盎然
+|english_name=Renewed Vitality
+|type=Ex
+|categories=防御
+|prerequisites=[[野蛮人]]4级，[[重生之力]]
+|benefit=狂暴时，每两野蛮人等级，野蛮人可以忽略一点[[属性伤害]]或减值，最高10点。每日一次，当野蛮人带着属性伤害或减值结束狂暴时，他可以重掷豁免检定，如果成功则克服相当于他可以忽略点数的属性伤害。
+|source_name=极限战斗
+}}

@@ -1,0 +1,12 @@
+{{Feat
+|name=惊愕诡步
+|english_name=Startling Getaway
+|categories=战斗
+|description=你在突然现身并发起攻击后，能够围绕着敌人快速行动。
+|prerequisites=惊愕现身*职业能力
+|benefit=在[[突袭]]轮期间，你对1名没有意识到你的存在的敌人做出攻击动作之后，能够执行1个[[移动动作]]来移动。若你已经有能力在突袭轮中做出1个标准和1个移动动作的话，该专长不会提供任何额外的动作。
+|normal=你在突袭轮中只能作出单个标准或移动动作。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

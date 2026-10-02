@@ -1,0 +1,9 @@
+{{装备
+|name=墨水笔
+|english_name=Inkpen
+|cat=冒险装备
+|price=1 sp
+|weight=—
+|description=这是一个有金属笔尖的木制笔头，浸入于小瓶中的墨水后可以保留少量的墨水。
+|source=核心规则书、极限宝具
+}}

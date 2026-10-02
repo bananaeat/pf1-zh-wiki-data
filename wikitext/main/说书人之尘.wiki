@@ -1,0 +1,14 @@
+{{魔法物品
+|name=说书人之尘
+|english_name=Storyteller's Dust
+|aon=MagicWondrousDisplay.aspx?FinalName=Storyteller's Dust
+|cat=奇物
+|aura=微弱幻术系
+|cl=2
+|slot=无
+|price=600 gp
+|description=这种粉末装在花哨的袋子里，本身只是普通的白色粉末。把它撒进火中时，会在火焰上方10尺见方的区域内变出一场可见的“心灵剧场”（如同[[弱效幻影]]）。使用者可以操纵这个幻象，它持续2小时，或直到使用者将这一场景驱散。使用者在借助这种粉末变出的影像讲述故事时，所有[[表演]]检定获得+2加值。
+|req=[[制造奇物]]、[[弱效幻影]]
+|cost=300 gp
+|source=进阶职业指南
+}}

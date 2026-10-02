@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|格拉利昂的英雄|Heroes of Golarion}}
+'''往世唤师'''（Past Life Evoker, Su）是[[操念使]]的[[原力]]。
+
+元素：通用；类别：通用（Su）；等级：2；超载：0
+
+前置：[[轮回者]]
+
+每日一次，你可以承受1点超载来选择一个来自任何元素的[[简易念袭]]原力。你获得该简易念袭1分钟且该[[念袭]]使用你[[操念使]]等级-2来决定伤害。你不能用以此法获得的简易念袭来满足任何先决条件。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Past Life Evoker|2=Past Life Evoker}}
+
+[[分类:原力]]

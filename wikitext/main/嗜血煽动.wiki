@@ -1,0 +1,11 @@
+{{Feat
+|name=嗜血煽动
+|english_name=Foment the Blood
+|pfs=否
+|description=你可以释放出一股能量，驱使[[兽人]]们陷入狂怒。
+|prerequisites=【引导能量】职业能力，兽人。
+|benefit=当你[[引导能量]]时，你可以不造成正常效果，而是在直到你的下一轮前给兽人提供武器伤害和重击确认检定的加值。这一加值等同于你引导能量治疗或伤害的骰数。你的引导能量对其他处于该区域内的生物正常生效。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

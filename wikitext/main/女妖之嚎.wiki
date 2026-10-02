@@ -1,0 +1,17 @@
+{{Spell
+|name=女妖之嚎
+|english_name=Wail of the Banshee
+|school=死灵系
+|tags=死亡;音波
+|levels=奥能师 9;女巫 9;异能者 9;术士 9;法师 9;萨满 9
+|domains=死亡领域 9;安眠领域 9
+|action=标准动作
+|components=语言
+|range=近距
+|target=半径40尺扩散区域内每等级1名活物
+|duration=立即
+|save=强韧，通过则无效
+|sr=是
+|description=当你施放该法术时，会发出恐怖的、让人灵魂颤抖的尖叫，这有可能杀死听到尖叫的生物 (除了你自己)。法术影响至多每CL 1名生物，造成每CL 10点伤害。最靠近源发点的生物最先受到影响。
+|source=核心规则书
+}}

@@ -1,0 +1,10 @@
+<noinclude>{{魔战士导航}}
+'''精确打击'''（Accurate Strike, Ex）是[[魔战士]]的[[奥能|魔战士奥能|魔战士奥能]]。
+
+</noinclude>前提：魔战士等级9 效果：魔战士可以迅捷动作从奥能力池中花费2点奥能来使他该轮所有的近战武器攻击变成近战接触攻击。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_83.html 原文]），按 AoN 核对过。全部魔战士奥能见 [[奥能]]。
+
+[[分类:魔战士奥能]]
+
+{{职业}}</noinclude>

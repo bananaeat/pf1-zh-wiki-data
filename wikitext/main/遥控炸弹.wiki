@@ -1,0 +1,11 @@
+{{消歧义|遥控炸弹(科研发现)}}
+{{Feat
+|name=遥控炸弹
+|english_name=Remote Bomb
+|description=你可以在远处引爆你的定时炸弹。
+|prerequisites=【定时炸弹】科研发现。
+|benefit=你的定时炸弹最大延时时间增加到等同于你等级的分钟数。如果你和你的定时炸弹间存在效果线，你可以通过一次DC20的智力检定来提前引爆它；你和炸弹间的距离每增加10尺，DC增加1。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

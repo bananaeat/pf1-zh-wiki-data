@@ -1,0 +1,15 @@
+{{魔法物品
+|name=稳定护腕
+|english_name=Bracers of Steadiness
+|aon=MagicWondrousDisplay.aspx?FinalName=Bracers of Steadiness
+|cat=奇物
+|aura=微弱防护系
+|cl=1
+|slot=腕部
+|price=2,000 gp
+|weight=2磅
+|description=这对龟甲护腕紧贴穿戴者的皮肤，几乎像是身体的一部分。只要穿戴者肯花时间完成特定的任务，就会变得异常沉着冷静。每当穿戴者对一项主要依赖双臂和双手的技能检定取20时，该次检定获得+5表现加值。
+|req=[[制造奇物]]、[[援助术]]
+|cost=1,000 gp
+|source=极限宝具
+}}

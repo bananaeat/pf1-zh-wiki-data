@@ -1,0 +1,10 @@
+{{Feat
+|name=神力斥责者
+|english_name=Divine Denouncer
+|description=你选择抵抗而不是服从神祇。
+|prerequisites=[[神力抵抗]]
+|benefit=你在对任何神术施法者或如同牧师一般施法的异界生物进行[[唬骗]]，交涉，威吓，知识，表演（演讲）以及察言观色的检定时获得+2洞察加值。
+|source=F&P
+|source_name=信仰与哲学
+|source_url=https://pf1chm.pages.dev/topics/page_673.html
+}}

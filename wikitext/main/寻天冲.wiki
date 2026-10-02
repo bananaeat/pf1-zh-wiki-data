@@ -1,0 +1,11 @@
+{{Feat
+|name=寻天冲
+|english_name=Skyseeker Impact
+|categories=战斗
+|description=你接受了训练，明白如何去应对更大的对手，并击破他们的武器来抵消他们的触及优势。
+|prerequisites=体质13，寻天流，寻天惩，快步跟进，BAB+9
+|benefit=当使用寻天流时，每次你用近战攻击命中体型比你大的敌人时，你的武器在造成伤害上被算作大一个体型。在对体型比你大的敌人的击破战技检定上获得+4加值。
+|source=BotA
+|source_name=古国血脉
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

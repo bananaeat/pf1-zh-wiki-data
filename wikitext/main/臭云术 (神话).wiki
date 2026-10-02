@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[臭云术]] 的神话版本。</small></div>
+{{Spell
+|name=臭云术
+|english_name=Stinking Cloud
+|school=咒法系 (创造)
+|tags=毒素
+|levels=召唤师（掉链） 3;奥能师 3;女巫 3;术士 3;法师 3;萨满 3;血脉狂怒者 3;魔战士 3
+|description=豁免成功的生物只要保持待在云团的范围内就会恶心，而且会在他们离开范围后恶心1d4+1轮。豁免失败的生物会在离开云团的范围后恶心1小时。
+|source=神话冒险
+}}
+[[分类:神话法术]]

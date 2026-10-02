@@ -1,0 +1,10 @@
+{{Trait
+|name=夸英武师
+|english_name=Quain Martial Artist
+|type=地区
+|prerequisites=夸英
+|description=你在夸英长大，并且在出门冒险之前曾经在好几个门派中拜师学艺，这让你在赤手空拳时异常能打。你在徒手打击的伤害上获得+1背景加值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://pf1chm.pages.dev/topics/page_1557.html
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=歌剧名伶
+|english_name=Operatic
+|type=种族
+|prerequisites=[[人类]]（切利亚斯人）
+|description=你在切利亚斯戏剧的熏陶下成长，在切利亚斯各地的歌剧院消磨了无数时光，更耗费大量时间精进歌艺。你在表演(歌唱)检定上获得+1背景加值。此外，你熟记众多以古代阿兹兰特语演唱的歌剧剧本，在尝试破译阿兹兰特语时[[语言学]]检定获得+2背景加值。
+|source_name=格拉里昂的人类
+|source_url=https://pf1chm.pages.dev/topics/page_1581.html
+}}

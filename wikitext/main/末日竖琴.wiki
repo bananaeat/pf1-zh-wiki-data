@@ -1,0 +1,15 @@
+{{魔法物品
+|name=末日竖琴
+|english_name=Doomharp
+|aon=MagicWondrousDisplay.aspx?FinalName=Doomharp
+|cat=奇物
+|aura=微弱死灵系
+|cl=4
+|slot=无
+|price=10,000 gp
+|weight=5磅
+|description=这把精制的竖琴用骨头和晒干的筋腱制成，会让靠近它的任何人产生一种隐约的不安。如果这件物品的持有者拥有吟游表演职业能力，那么即使他的等级还不足以正常使用该能力，也可以用它演奏末日丧歌。已经能够使用末日丧歌的吟游诗人，如果在表演中弹奏这把竖琴，则末日丧歌的有效半径增加到60尺。
+|req=[[制造奇物]]、[[惊恐术]]
+|cost=5,000 gp
+|source=进阶玩家指南、极限宝具
+}}

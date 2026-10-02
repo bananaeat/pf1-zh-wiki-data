@@ -1,0 +1,10 @@
+{{Feat
+|name=崩坏灵光
+|english_name=Aura of Succumbing
+|description=你的邪恶主宰赋予你为万物带来死亡的大能
+|prerequisites=引导能量职业能力，信仰四驭者之一
+|benefit=以一个[[迅捷动作]]，你可以消耗一发本日的[[引导能量]]次数，散发出范围30尺的崩坏灵光，灵光持续的轮数等同于你的有效牧师等级。在你的每轮开始时，所有处于灵光范围内的[[濒死]]生物受到你的引导能量骰数点伤害，该伤害可以通过一个成功的意志检定（DC等同于你的引导能量DC）减半。每当任何一个活物在你的崩坏灵光范围内死亡，你就会获得相当于该生物HD的临时生命值。这些临时生命值持续1小时。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

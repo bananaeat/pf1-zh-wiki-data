@@ -1,0 +1,8 @@
+{{装备
+|name=桨
+|english_name=Oar
+|cat=冒险装备
+|price=2 gp
+|weight=10磅
+|source=核心规则书
+}}

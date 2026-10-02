@@ -1,0 +1,13 @@
+<noinclude>{{杀手导航}}
+{{消歧义|一人千面}}
+'''一人千面'''（One of Those Faces, Sp）是[[杀手]]的[[杀手天赋|杀手天赋]]。
+
+</noinclude>{{Source|间谍大师手册|Spymaster's Handbook|inline}} 调查员和杀手如果拥有《进阶玩家指南》的残酷、后进学徒、退役民兵、无赖、河中鼠、流浪儿或声名显赫背景特性，或者《[[塔尔多，荣光荡漾之地]]》的九死一生或纨袴浪子背景特性，也可以选择这个天赋。
+
+你每日可以用类法术能力使用[[易容术]]，持续每个角色等级10分钟。这些时间不必连续，但必须以10分钟作为单位。此外，当你使用此能力后，你在接下来的24小时内只能用此能力显现出相同的外观。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_118.html 原文]）。尝血者、支持队友译自[https://pf1chm.pages.dev/topics/page_581.html 斯科扎尼黑手一章]，永世仇敌、人生经验、直面恐怖、山坡伏击、神秘之纱、重唤技艺译自[https://pf1chm.pages.dev/topics/page_1338.html 传承武学一章]，集中毒药、偏转毒药译自[https://pf1chm.pages.dev/topics/page_1261.html 静谧毒杀者一章]，猫族盗贼天赋译自[https://pf1chm.pages.dev/topics/page_451.html 种族特性一章]；壁垒、额外残岩、坚固阵地、失衡技巧、阵营偷袭、切裂阵营、一人千面、通晓探知照站上同名盗贼天赋单页。均按 AoN 核对过。全部杀手天赋见 [[杀手天赋]]。
+
+[[分类:杀手天赋]]
+
+{{职业}}</noinclude>

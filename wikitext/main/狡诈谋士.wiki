@@ -1,0 +1,11 @@
+{{Feat
+|name=狡诈谋士
+|english_name=Shrewd Tactician
+|categories=战斗
+|description=你与海盗、窃贼和[[刺客]]相处的经验告诉你，万事皆需小心。
+|prerequisites=[[警觉]]，[[战斗反射]]
+|benefit=尽管你仍旧会由于[[夹击]]而被偷袭，但是敌人对你夹击时攻击检定不再获得+2加值。同时你在对抗敌人进行[[虚招]]而使用的[[唬骗]]检定时，察言观色检定获得+3加值。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

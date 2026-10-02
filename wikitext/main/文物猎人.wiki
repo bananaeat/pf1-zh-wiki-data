@@ -1,0 +1,9 @@
+{{Trait
+|name=文物猎人
+|english_name=Relic Hunter
+|type=种族
+|prerequisites=[[人类]]（迦伦德人）
+|description=你研究过遍布迦伦德的遗址与废墟，熟悉前人留下的文物与遗宝。你在检视至少有1000年以上历史的建筑遗蹟和在其中发现的物品时的[[估价]]及知识(历史)检定上获得+1背景加值。若符合条件的物品是魔法物品，你在辨识其性质的[[法术辨识]]检定与启动它的[[使用魔法装置]]检定上获得+1背景加值。
+|source_name=沙之子民
+|source_url=https://pf1chm.pages.dev/topics/zh730f330f66.htm
+}}

@@ -1,0 +1,8 @@
+{{狂暴之力
+|name=手指舞
+|english_name=Furious Draw
+|type=Ex
+|categories=杂项
+|benefit=野蛮人视为拥有[[即时备战]]专长。
+|source_name=恶棍志
+}}

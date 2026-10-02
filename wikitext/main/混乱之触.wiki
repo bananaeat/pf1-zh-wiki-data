@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=混乱之触|en=Touch of Chaos|type=Sp|domain=混乱领域|source=核心规则书|text=通过一次近战[[接触攻击]]，你能够使混乱渗透目标。在下轮中，无论目标何时投d20，必须掷两次而且取小的结果。你每天可以使用此能力次数为“3+[[感知]]修正”。}}<noinclude>
+
+[[分类:领域]]</noinclude>

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Dragons pg. 6），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=粗犷猎龙人
+|english_name=Rugged Dragon Hunter
+|type=社会
+|description=为追踪龙而进行的[[生存]]检定获得+2背景加值。如果你拥有偏好地形职业能力，只要你是针对龙使用受该能力影响的技能，这些技能检定额外获得+1加值。
+|source_name=巨龙遗产
+|source=LoD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Rugged%20Dragon%20Hunter
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=触手紧缚
+|english_name=Kraken Wrack
+|categories=战斗;流派
+|description=你超强的紧缚能力压碎了敌人和你之间的护甲或物品。
+|prerequisites=感知13，[[精通擒抱]]，[[精通徒手打击]]，[[触手流]]，BAB+7或武僧等级7
+|benefit=你在[[擒抱]][[战技]]检定成功时[[触手流]]专长所提供的额外伤害增加为你的感知调整值+4。当你处于该[[流派]]下时，你在成功维持擒抱后可以选择压碎目标，而非[[锁喉]]、造成伤害、移动、压制或捆绑目标。若如此做，你对目标的护甲或手持物品造成伤害，其数值等同于你[[徒手攻击]]伤害或一种天武攻击伤害。这种压碎伤害忽视护甲或物品一半的硬度。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}

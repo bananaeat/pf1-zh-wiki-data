@@ -1,0 +1,16 @@
+{{武器
+|name=金碎棒
+|english_name=Tetsubo
+|category=武器
+|prof=异种
+|wcat=双手
+|price=20 gp
+|weight=10磅
+|dmg_s=1d8
+|dmg_m=1d10
+|crit=×4
+|type=钝击
+|groups=锤
+|description=金碎棒是对[[巨木棒]]的小幅改进，是一根细长的木制或金属长棍，上半截包裹着一层镶有铁钉的厚铁皮。铁皮为棒身增添了重量和强度，而铁钉的设计目的是击碎头盔和铠甲。
+|source=极限战斗、极限宝具
+}}

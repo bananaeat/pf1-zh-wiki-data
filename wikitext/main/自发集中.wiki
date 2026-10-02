@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[自发集中 (神话)]]。</small></div>
+{{Feat
+|name=自发集中
+|english_name=Spontaneous Metafocus
+|description=你将你的精力集中于如何把你所知的法术和[[超魔专长]]结合起来。
+|prerequisites=[[魅力]] 13，一项超魔专长，能够自发施法。
+|benefit=选择一个你能够自发施法的法术。当你在那个法术上附加超魔专长时，你可以用正常的施法时间施展那个法术而非使用较慢的施法时间。
+|special=你可以多次选择本专长。每次你选择本专长时，需要选择一个新的你能自发施法的法术，本专长对那个法术生效。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

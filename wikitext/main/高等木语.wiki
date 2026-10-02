@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|极限荒野|Ultimate Wilderness}}
+'''高等木语'''（Green Tongue, Greater, Su）是[[操念使]]的[[原力]]。
+
+元素：木；类别：通用（Su）；等级：7；超载：0
+
+前置：[[木语]]
+
+你可以在任何适合施展[[问道自然]]的户外场所花费10分钟，联络精类和莱西的灵魂并与之交谈，获得三条信息，如同问道自然。
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_726.html 原文]），按 AoN 核对过。全部原力见 [[:分类:原力|分类:原力]]。
+
+[[分类:原力]]

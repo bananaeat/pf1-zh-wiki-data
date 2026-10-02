@@ -1,0 +1,14 @@
+{{魔法物品
+|name=学徒欺诈手套
+|english_name=Apprentice's Cheating Gloves
+|aon=MagicWondrousDisplay.aspx?FinalName=Apprentice's Cheating Gloves
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=手部
+|price=2,200 gp
+|description=这双不起眼的白手套，对那些魔法能力或灵活性有限甚至欠缺的初阶施法者和骗子来说是一大福音。穿戴者可以随意使用法师之手和魔法伎俩。
+|req=[[制造奇物]]、[[法师之手]]、[[魔法伎俩]]
+|cost=1,100 gp
+|source=极限宝具
+}}

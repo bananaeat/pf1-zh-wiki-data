@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Demons Revisited pg. 26），民间汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=精通恶臭
+|english_name=Improved Stench
+|pfs=否
+|description=你的恶臭格外浓烈，散播得也格外远。
+|prerequisites=[[通用怪物规则#恶臭|恶臭]]通用怪物能力。
+|benefit=你的恶臭能力的灵光范围增加30尺。此外，你的恶臭能力的豁免DC增加2，持续时间增加50%。
+|source_name=再探恶魔
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Stench
+}}

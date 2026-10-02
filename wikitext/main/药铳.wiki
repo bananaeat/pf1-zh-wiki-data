@@ -1,0 +1,12 @@
+{{Feat
+|name=药铳
+|english_name=Poison Shot Deed
+|categories=勇毅
+|pfs=否
+|description=你可以专门制备子弹，用来投送那些平时用得更隐蔽的毒药。
+|prerequisites=[[业余枪手]]专长或勇毅职业能力
+|benefit=通过消耗1点[[枪手#勇毅|勇毅]]值，你可以以一个[[移动动作]]在枪管铳填入一剂吸入型或摄入型毒药，你不会因为这样做而失误使自己中毒（如同你拥有用毒职业能力一般）。然后，如果你以一个可引发[[借机攻击]]的[[标准动作]]把这发毒弹发射出去，它可以影响15尺锥形范围的所有敌人。这些敌人不承受伤害，但是会立刻暴露在毒素之中并必须进行一次豁免检定（如同毒素的潜伏期已经过去）否则中毒。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

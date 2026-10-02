@@ -1,0 +1,10 @@
+{{Feat
+|name=水栖世系
+|english_name=Aquatic Ancestry
+|description=你喜爱你的异界先祖，并且能够更好地适应水中生活。
+|prerequisites=水元素裔。
+|benefit=你获得“两栖”[[特殊能力]]。并且游泳速度提高10尺。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

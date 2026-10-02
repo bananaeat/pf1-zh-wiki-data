@@ -1,0 +1,9 @@
+{{Feat
+|name=战场指挥官
+|english_name=Battle Planner
+|description=你对英雄与战斗的研究，让你特别善于引导盟友到他们最有利的位置上呆着。
+|prerequisites=激发行动职业特性。
+|benefit=当你使用激发行动来给予额外的[[移动动作]]时，你可以改为影响30尺内的所有盟友。
+|source_name=传奇编年史
+|source_url=https://pf1chm.pages.dev/topics/page_1502.html
+}}

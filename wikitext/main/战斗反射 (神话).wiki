@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[战斗反射]] 的神话版本。</small></div>
+{{Feat
+|name=战斗反射
+|english_name=Combat Reflexes
+|categories=神话
+|description=每当敌人露出破绽时，你便能够抓住机会伤害他。
+|prerequisites=[[战斗反射]]
+|benefit=每轮你能够进行任意数量次额外的[[借机攻击]]。以[[迅捷动作]]，你能够花费1次神话之力，直至你的下一回合开始为止，若敌人因为移动而引起你的借机攻击，那么你可以对本轮内已经因此被你用借机攻击攻击过的敌人再次进行借机攻击。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

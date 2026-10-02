@@ -1,0 +1,20 @@
+{{魔法物品
+|name=不洁法杖
+|english_name=Unholy Staff
+|aon=MagicStavesDisplay.aspx?ItemName=Unholy Staff
+|cat=法杖
+|aura=中等塑能系
+|cl=8
+|slot=无
+|price=29,600 gp
+|weight=5磅
+|description=这根扭曲的铁杖通身带有不祥的污渍，顶端是一颗黑色骷髅头，红色宝石镶作眼珠。该法杖可以使用以下法术：
+
+* [[阵营武器]]（仅限邪恶，1 发）
+* [[侦测善良]]（1 发）
+* [[反善良法阵]]（2 发）
+* [[邪影击]]（2 发）
+|req=[[制造法杖]]、[[阵营武器]]、[[侦测善良]]、[[反善良法阵]]、[[邪影击]]
+|cost=14,800 gp
+|source=极限宝具
+}}

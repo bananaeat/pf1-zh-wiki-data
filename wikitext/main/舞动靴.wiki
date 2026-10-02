@@ -1,0 +1,13 @@
+{{魔法物品
+|name=舞动靴
+|english_name=Boots of Dancing
+|aon=MagicCursedDisplay.aspx?ItemName=Boots of Dancing
+|cat=诅咒物品
+|aura=强烈惑控系
+|cl=16
+|slot=脚部
+|weight=1磅
+|description=这双靴子起初的外观和功能与某一种别的魔法靴子无异。当穿戴者处于（或正在脱离）近战战斗时，舞动靴会阻碍他的移动，使他的行为如同被施放了迷舞一样。一旦这双靴子的真实面目暴露，只有[[移除诅咒]]法术才能让穿戴者摆脱它们。
+|req=[[精灵靴]]、[[浮空靴]]、[[加速靴]]、[[跑跳靴]]、[[传送靴]]、[[北地靴]]、[[飞翼靴]]
+|source=核心规则书、极限宝具
+}}

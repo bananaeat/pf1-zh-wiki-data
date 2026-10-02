@@ -1,0 +1,18 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[血沸 (神话)]]。</small></div>
+{{Spell
+|name=血沸
+|english_name=Boiling blood
+|school=变化系
+|levels=先知 2;吟游诗人 2;奥能师 2;女巫 2;异能者 2;战斗祭司 2;术士 2;歌者 2;法师 2;牧师 2;红螳螂杀手 2;血脉狂怒者 2
+|action=标准动作
+|components=语言;姿势
+|range=中距
+|target=每3等级一个生物，互相之间间隔不超过30尺
+|duration=专注 + 1轮/等级 （可解消）
+|save=强韧，通过则无效（见下文）
+|sr=是
+|description=目标生物的血液开始沸腾。如果目标豁免失败，它会每轮受到一点火焰伤害。这个法术对没有血液的生物无效。
+
+如果目标具有[[兽人]]亚种，它不会受到火焰伤害，并且在力量上获得+2士气加值。
+|source=极限魔法
+}}

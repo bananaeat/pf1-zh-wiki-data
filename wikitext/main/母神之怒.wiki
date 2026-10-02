@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Orcs of Golarion pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=母神之怒
+|english_name=Mother's Rage
+|type=宗教
+|prerequisites=拉玛什图
+|description=野兽之血在你的血管中浓烈流淌，你的外貌也带着兽相。你的[[生存]]检定获得+1背景加值，并且在召唤生物时，你的施法者等级视为高1级。
+|source_name=格拉利昂的兽人
+|source=OoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Mother%27s%20Rage
+}}

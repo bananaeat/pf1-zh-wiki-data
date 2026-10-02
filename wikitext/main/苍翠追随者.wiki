@@ -1,0 +1,10 @@
+{{Feat
+|name=苍翠追随者
+|english_name=Green Faith Acolyte
+|description=经过修行，你可以以不会伤害自然环境的方式引导你的法术能量。
+|prerequisites=苍翠誓约的成员
+|benefit=你所施展的造成伤害、引导负能量或以其他方式伤害生命的法术不会伤害到普通或魔法植物。此外，当你施展那些操纵、治疗、或强化那些植物的法术（比如[[纠缠术]]或[[植物滋长]]）时，你的施法者等级提高1级。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

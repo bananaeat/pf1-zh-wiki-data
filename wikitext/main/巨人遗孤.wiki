@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Giantslayer Player's Guide pg. 6, Giant Hunter's Handbook pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=巨人遗孤
+|english_name=Orphaned by Giants
+|type=战役
+|pfs=否
+|description=你在山脉附近一个宁静幸福的家中长大，但当巨人从山上下来袭击你的定居点时，这份宁静被打破了。巨人杀死了你的父母，让你年幼就成了孤儿，从那天起，你发誓要为亲人之死复仇。你对巨人亚种生物进行的攻击检定获得+1背景加值，对巨人亚种生物确认重击的检定获得+2背景加值。
+|source_name=Giantslayer Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Orphaned%20by%20Giants
+}}

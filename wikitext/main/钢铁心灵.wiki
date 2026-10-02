@@ -1,0 +1,9 @@
+{{Trait
+|name=钢铁心灵
+|english_name=Iron Mind
+|type=地区
+|prerequisites=追随地狱骑士团的角色
+|description=在对抗可能减少你的智力值或者导致你遗忘某事的法术和效果时豁免检定获得+2背景加值。
+|source_name=内海骑士
+|source_url=https://pf1chm.pages.dev/topics/zhdc70ece933.htm
+}}

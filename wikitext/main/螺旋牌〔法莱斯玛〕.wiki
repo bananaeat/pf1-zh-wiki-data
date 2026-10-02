@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=螺旋牌〔法莱斯玛〕
+|english_name=Spiral Tiles (Pharasma)
+|aon=MagicWondrousDisplay.aspx?FinalName=Spiral Tiles (Pharasma)
+|cat=奇物
+|aura=微弱预言系
+|cl=5
+|slot=无
+|price=6,000 gp
+|weight=1磅
+|description=这10块用乌木、珍珠和象牙制成的牌片，按螺旋形摆在地上时，每天一次为你提供[[神导术]]的效果。该法术的效果持续到被用掉为止。如果你的主神是[[法莱斯玛]]，你可以每天一次以一个[[标准动作]]把螺旋牌抛在地上，并像施放了[[预言术]]一样解读它们落成的图案。如果法莱斯玛不是你的主神，而你试图这样使用螺旋牌，得到的结果要么是随机的，要么是故意误导的。
+|req=[[制造奇物]]、[[预言术]]、[[神导术]]
+|cost=3,000 gp
+|source=均衡信念
+}}

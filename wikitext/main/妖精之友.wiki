@@ -1,0 +1,10 @@
+{{Feat
+|name=妖精之友
+|english_name=Fey Friend
+|description=你对古老者的崇敬使精类成为你的盟友。
+|prerequisites=信仰一位古老者
+|benefit=精类生物将你视为同类，精类的法术和其他能力将你视为精类生物或你的实际类型，取对你更有利者。除此之外，你在对精类生物的[[唬骗]]，交涉和察言观色检定上获得+2加值。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

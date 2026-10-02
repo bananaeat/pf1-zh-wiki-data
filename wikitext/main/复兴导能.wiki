@@ -1,0 +1,9 @@
+{{Feat
+|name=复兴导能
+|english_name=Reviving Channel
+|description=你可以通过聚焦来让[[失去意识]]的盟友从你引导的能量中获得额外的好处
+|prerequisites=引导能量3d6
+|benefit=当你[[引导能量]]时，你可以选择聚焦于范围内一个生命值在0以下的，能被你所引导的能量所治愈的生物。当你这么做时，其他范围内的生物都不会受到治疗，而被聚焦的生物在正常接受治疗效果影响之前生命值首先恢复到0。
+|source_name=遥远国度
+|source_url=https://pf1chm.pages.dev/topics/zh060a98151e.htm
+}}

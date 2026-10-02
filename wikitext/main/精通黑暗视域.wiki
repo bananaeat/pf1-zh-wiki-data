@@ -1,0 +1,10 @@
+{{Feat
+|name=精通黑暗视域
+|english_name=Improved Dark Sight
+|description=通过再一步的增强，你的双眼不但能够在自然黑暗中视物，就连魔法黑暗也难不倒你。
+|prerequisites=[[黑暗视域]]，[[阴暗视域]]，窃影鬼。
+|benefit=你获得“看透黑暗”通用怪物能力并且失去了“强光敏感”弱点，但是你获得了“强光致盲”弱点。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

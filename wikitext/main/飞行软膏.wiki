@@ -1,0 +1,14 @@
+{{魔法物品
+|name=飞行软膏
+|english_name=Flying Ointment
+|aon=MagicWondrousDisplay.aspx?FinalName=Flying Ointment
+|cat=奇物
+|aura=中等变化系
+|cl=9
+|slot=无
+|price=2,250 gp
+|description=这种草药制剂含有颠茄、曼德拉草和毛地黄（也叫“女巫手套”），所有成分都经过仔细称量，调入熬炼过的油脂基底中。涂抹在皮肤上后，这种软膏使受术者获得飞行能力（如同[[翱翔天际]]法术），最长持续9小时。
+|req=[[制造奇物]]、[[翱翔天际]]
+|cost=1,125 gp
+|source=进阶玩家指南、极限宝具
+}}

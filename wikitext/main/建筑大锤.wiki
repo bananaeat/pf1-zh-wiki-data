@@ -1,0 +1,15 @@
+{{魔法物品
+|name=建筑大锤
+|english_name=Mallet of Building
+|aon=MagicWondrousDisplay.aspx?FinalName=Mallet of Building
+|cat=奇物
+|aura=中等咒法系
+|cl=9
+|slot=无
+|price=5,000 gp
+|weight=2磅
+|description=这把沉重的建筑师大锤有木制的锤柄，锤头由闪亮的黑铁制成，靠近金属时会略微泛红。挥锤者可以以一个整轮动作挥动大锤，创造出一枚铜钉、长钉、铁制[[岩钉]]或一根4尺高的木制栅栏桩，并立即将其锤入面前的表面。创造出的栅栏桩可以钉入泥土，其他材料可以钉入泥土、木头或石头。把创造出的物品从表面上拔出会将其毁掉，否则它与同类的普通物品一样持久。大锤每天最多可以创造100件物品。
+|req=[[制造奇物]]、[[弱效造物术]]
+|cost=2,500 gp
+|source=极限宝具
+}}

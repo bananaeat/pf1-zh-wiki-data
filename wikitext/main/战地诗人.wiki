@@ -1,0 +1,9 @@
+{{Trait
+|name=战地诗人
+|english_name=Warrior Poet
+|type=地区
+|prerequisites=林诺姆诸王国
+|description=你曾受喀斯嘉德口述传统的守护者——吟游诗人们的训练。你在与[[矮人]]相关的知识检定（矮人历史、矮人建筑等）上获得+1背景加值，并且在你使用吟游表演能力的任何一轮中，你的强韧豁免获得+1背景加值。
+|source_name=格拉里昂的矮人
+|source_url=https://pf1chm.pages.dev/topics/page_1586.html
+}}

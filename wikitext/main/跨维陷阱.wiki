@@ -1,0 +1,13 @@
+<noinclude>{{游侠导航}}
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion），CHM 汉化里没有这个陷阱的译文，未经人工校对。}}
+{{Source|格拉利昂的狗头人|Kobolds of Golarion}}
+
+'''跨维陷阱'''（Transdimensional Trap*，Su）是一种[[游侠陷阱]]。
+
+</noinclude>'''跨维陷阱*'''（Su）：这种附加效果让陷阱能影响[[虚体]]生物或以太生物，就像它们是有形的、或是身处主物质位面一样。
+
+'''魔法材料'''：[[镇魂曲]]卷轴。<noinclude>
+
+全部游侠陷阱见 [[游侠陷阱]]。
+
+[[分类:游侠陷阱]]</noinclude>

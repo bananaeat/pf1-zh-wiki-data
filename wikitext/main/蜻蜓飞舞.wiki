@@ -1,0 +1,11 @@
+{{Feat
+|name=蜻蜓飞舞
+|english_name=Dragonfly Flight
+|categories=战斗
+|description=你可以在空中短程飞行
+|prerequisites=敏捷15，感知15，[[蜻蜓流]]，[[蜻蜓之翼]]，[[精通徒手打击]]，[[特技]]10级，[[攀爬]]10级
+|benefit=当使用[[蜻蜓流]]时，你可以用一个[[移动动作]]尝试一次特技检定来跳高，然后立刻如[[滑翔术]]apg一般滑翔一轮。如果你在使用蜻蜓飞舞起跳后没有使用[[标准动作]]，则你可以在滑翔过程中冲锋。这一冲锋遵照你只能使用一个标准动作情况下的冲锋规则。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/zh366bfc623c.htm
+|source=MAH
+}}

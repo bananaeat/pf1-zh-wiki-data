@@ -1,0 +1,39 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #101: The Kintargo Contract
+|authors=Jim Groves
+|pages=96
+}}
+
+{{书页/简介|head=魔鬼藏在细节里|1=
+银渡鸦击败了准伯爵（Paracount）巴基莱·特鲁恩，解放了金塔格，但若不采取措施保卫胜利果实，切利亚斯的统治者以公开战争作为回应，就只是时间问题——这场战争很可能摧毁银之城。保卫这座城市的最后防线的关键，或许就藏在从那位邪恶审判者手中缴获的一卷庞大卷轴里：金塔格契约。在这份契约的条款与规定之中，潜藏着一个狡猾的漏洞，让英雄们有机会以切利亚斯自己对法律的热爱来对付它——不仅保住城市，还能让周边地区摆脱特鲁恩家族与阿斯莫迪斯教会的地狱阴谋。然而，就在英雄们争分夺秒解析这份契约、金塔格尚未从近来的动荡中缓过气来之时，城市往昔的一个旧日威胁发动了袭击。在金塔格真正安全之前，银渡鸦必须从这座城市自己造出的怪物手中拯救它！
+
+本册《冒险之路》延续「地狱叛军」冒险之路，内容包括：
+
+* 《金塔格契约》，一部面向 13 级角色的开拓者冒险，作者 Jim Groves。
+* 对地狱契约的全面调查，作者 F. Wesley Schneider。
+* 一瞥神秘莫测的[[鸮形人]]，作者 Robert Brookes。
+* 在「探索者日志」中，邪魔猎犬与地狱诡计，作者 Stephanie Lorée。
+* 五种怪物威胁，作者 Kalervo Oikarinen、David N. Ross 和 Amber Stewart。
+}}
+
+'''冒险之路101：金塔格契约'''（''Pathfinder #101: The Kintargo Contract''）是[[冒险之路]]「地狱叛军」系列的第五部冒险，由 Jim Groves 撰写，配套文章出自 F. Wesley Schneider、Robert Brookes、Kalervo Oikarinen、David N. Ross 和 Amber Stewart，小说出自 Stephanie Lorée，于 2016 年 1 月 27 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+金塔格契约 @ 4
+NPC 图集 @ 56
+地狱契约 @ 62
+[[鸮形人]]生态 @ 68
+探索者日志：我们之中的怪物（5／6） @ 74
+怪物图鉴 @ 80
+}}
+
+{{书页尾
+|pfw=The Kintargo Contract
+|releases=PDF¦PZO90101E¦2016-01¦；Softcover¦PZO90101¦2016-01¦
+}}
+
+[[分类:书目]]

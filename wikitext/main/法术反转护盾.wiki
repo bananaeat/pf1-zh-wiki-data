@@ -1,0 +1,10 @@
+<noinclude>{{异能者导航}}
+'''法术反转护盾'''（Turning Shield, Su）是[[异能者]]的[[精神增幅|精神增幅]]。
+
+</noinclude>异能者能够将多余的法术能量转化为屏障，用以抵御较弱的法术。她能够从精神力池中花费等同于联结法术等级的精神力，以此来获得[[法术反转]]的好处，持续时间为每个异能者等级1轮。她能够反转的法术等级数量等同于联结法术的等级。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_310.html 精神增幅]、[https://pf1chm.pages.dev/topics/zhb4162fc9dd.htm 乌笃剌精神增幅]、[https://pf1chm.pages.dev/topics/page_855.html PSI技术]），按 AoN 核对过。全部精神增幅见 [[精神增幅]]。
+
+[[分类:精神增幅]]
+
+{{职业}}</noinclude>

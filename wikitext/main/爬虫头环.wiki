@@ -1,0 +1,15 @@
+{{魔法物品
+|name=爬虫头环
+|english_name=Serpent's Band
+|aon=MagicWondrousDisplay.aspx?FinalName=Serpent's Band
+|cat=奇物
+|aura=中等咒法系、惑控系
+|cl=10
+|slot=头饰
+|price=9,000 gp
+|weight=1磅
+|description=这条头环的穿戴者在对抗带有情绪关键词的效应（包括恐惧效应）的豁免上获得+2洞察加值。穿戴者能够流利使用龙语，并可以与无智慧（智力1或2）的爬虫类动物和魔法兽交谈，如同使用了[[动物交谈]]法术，并且在与这类生物互动时的驯养动物检定和野性认同检定上获得+4表现加值。
+|req=[[制造奇物]]、[[迷惑动物]]、[[催眠术]]、[[动物交谈]]、[[召唤自然盟友 V]]
+|cost=4,500 gp
+|source=极限宝具
+}}

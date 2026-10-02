@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Shattered Star Player's Guide pg. 5, Faction Guide pg. 63），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=协会大师
+|english_name=Greater Adept of the Society
+|type=魔法
+|prerequisites=[[法师]]，探索者协会
+|description=与协会中最杰出的施法者们一同冥想和修习数月之后，你能容纳更多的奥术知识。你获得一个额外的0环法术位。
+|source_name=碎星玩家手册
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Greater%20Adept%20of%20the%20Society
+}}

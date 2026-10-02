@@ -1,0 +1,17 @@
+{{魔法物品
+|name=地元素腰带
+|english_name=Elemental Earth Belt
+|aon=MagicWondrousDisplay.aspx?FinalName=Elemental Earth Belt
+|cat=奇物
+|aura=中等变化系
+|cl=11
+|slot=腰部
+|price=24,000 gp
+|weight=3磅
+|description=这条腰带由扁平的板岩片以结实的皮带连接而成。腰带使穿戴者获得+4体质增强加值，并且穿戴者免疫会推、拉或强行移动他的效果，但这对传送类效果没有保护作用。此外，穿戴者每天一次可以凭命令变成一只大型土元素，如同受到了[[元素形态 III]]法术的影响。
+
+体质增强加值在佩戴腰带的头24小时内视为临时属性加值。
+|req=[[制造奇物]]、[[熊之坚韧]]、[[元素形态 III]]
+|cost=12,000 gp
+|source=极限宝具
+}}

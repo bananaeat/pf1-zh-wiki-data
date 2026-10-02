@@ -1,0 +1,11 @@
+{{Trait
+|name=纨袴浪子
+|english_name=Wealthy Dabbler
+|type=地区
+|description=你在社交俱乐部学习魔法，你在俱乐部中炫耀着自己对于最基本魔法探索的专业知识，让你的朋友们叹服于你最新的发现。选择两个不造成伤害的奥术戏法。
+
+每天你可以分别施放这两个戏法一次（施法者等级1）.如果你在可以施放这些戏法的职业上有职业等级，那么你施放这两个戏法的施法者等级等于该职业等级。
+|regions=塔尔多
+|source_name=塔尔多，荣光荡漾之地
+|source_url=https://pf1chm.pages.dev/topics/page_938.html
+}}

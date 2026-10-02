@@ -1,0 +1,10 @@
+{{Feat
+|name=科技专家
+|english_name=Technology Adept
+|categories=战斗
+|description=你擅长操作超科技火器。
+|prerequisites=敏捷13，[[擅长异种武器]]（火器），[[近距射击]]
+|benefit=当你使用消耗充能的火器攻击时，这些火器可能造成的效果的豁免DC＋1；如果你受益于近距射击专长的效果，这些加值提升到＋2。
+|source_name=科技指南
+|source_url=https://pf1chm.pages.dev/topics/page_762.html
+}}

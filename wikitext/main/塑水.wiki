@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 197），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=塑水
+|english_name=Water Shaping
+|type=种族
+|prerequisites=水元素裔
+|description=你所在的紧密团结的[[水元素裔]]社群帮助你安全地练习水系魔法。每当你施放一个带有寒冷或水描述符并影响一个区域的法术，或使用这样的类法术能力时，你可以选择该区域内的一个方格。该法术或类法术能力不会影响该方格或其中的生物。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Water%20Shaping
+}}

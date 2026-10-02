@@ -1,0 +1,14 @@
+{{魔法物品
+|name=驯兽护符
+|english_name=Talisman of Beast Training
+|aon=MagicWondrousDisplay.aspx?FinalName=Talisman of Beast Training
+|cat=奇物
+|aura=微弱惑控系
+|cl=1
+|slot=颈部
+|price=4,000 gp
+|description=这件护符由柔韧的树皮编成迷人的图案，需缠绕佩戴在颈上。佩戴驯兽护符时，穿戴者会发现动物对她耐心得多，也更易接受训练。因此，在休整期进行的[[驯养动物]]检定——包括饲育动物和教它们新把戏的检定——若失败，可视同成功。护符最多可以这样把10次失败的检定变成成功。第十次失败的检定被转为成功后，护符就会散架，失去作用。
+|req=[[制造奇物]]、[[魅惑动物]]
+|cost=2,000 gp
+|source=任务与战役
+}}

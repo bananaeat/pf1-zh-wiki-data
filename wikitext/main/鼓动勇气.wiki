@@ -1,0 +1,10 @@
+{{Trait
+|name=鼓动勇气
+|english_name=Rousing Courage
+|type=宗教
+|prerequisites=信仰[[安哥拉德]]
+|description=一位[[矮人]]以安哥拉德之名作出的勇敢行为在你的首次战斗中激励了你。现在，到你奋力激励他人了。每天1次，当你产生给予士气加值的效果时，对所有受影响的生物提升该加值1点。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh484c89782e.htm
+}}

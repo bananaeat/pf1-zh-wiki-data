@@ -1,0 +1,16 @@
+{{Trait
+|name=战争伤痕
+|english_name=Scarred by War
+|type=宗教
+|prerequisites=信仰[[受福侍者]]
+|description=你亲眼见证了战争的残酷，并给你留下了身体和精神上的创伤。现在你投身于[[受福侍者]]的传教，寻找治愈战争中留下伤痛的办法，并且极力阻止你所遇到的战争发生。
+
+你在战斗以外的场合进行交涉时获得+1背景加值。
+
+另外，每当你使用职业能力，专长，法术，法术完成型或法术触发型道具治疗生物（除了你自己），你都能额外增加1点治疗量。
+
+（译注：受福侍者 Dalenydra 是司掌战地医疗的[[至高天神使]]，信徒多为护士和战地医生，都立过非暴力誓言，只自卫不反击。）
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_703.html
+}}

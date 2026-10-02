@@ -1,0 +1,14 @@
+{{Spell
+|name=行星适应
+|english_name=Planetary adaptation
+|school=变化系
+|levels=先知 4;战斗祭司 4;牧师 4;召唤师 5;召唤师（掉链） 5;奥能师 5;术士 5;法师 5;炼金术师 5;调查员 5
+|action=标准动作
+|components=语言
+|range=个人
+|target=自己
+|duration=1小时/等级
+|sr=否
+|description=此法术如同[[位面适应]]（进阶玩家指南236页）般作用，除了它只能用在主物质位面的世界上。就此法术而言，太空的寒冷虚空被视为单一的一个世界，令你可以在真空中生存。
+|source=繁星子民
+}}

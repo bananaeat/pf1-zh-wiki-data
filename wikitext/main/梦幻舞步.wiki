@@ -1,0 +1,12 @@
+<noinclude>{{侠客导航}}
+'''梦幻舞步'''（Fantastic Stride, Ex）是[[侠客]]的[[侠客天赋]]。
+
+</noinclude>{{Source|间谍大师手册|Spymaster's Handbook|inline}}
+
+效果：侠客获得[[跳跃攻击]]作为[[奖励专长]]，无视其先决条件。在10级和之后每4级，侠客可以在当他使用跳跃攻击时，额外选择一个敌人。侠客本轮的移动不会引发这些次要生物的借机。
+
+侠客必须达到6级才能选择此侠客天赋。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh62263cd083.htm 原文]）。全部侠客天赋见 [[:分类:侠客天赋|分类:侠客天赋]]。
+
+[[分类:侠客天赋]]</noinclude>

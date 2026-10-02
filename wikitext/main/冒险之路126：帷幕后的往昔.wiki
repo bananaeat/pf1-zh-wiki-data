@@ -1,0 +1,39 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #126: Beyond the Veiled Past
+|authors=Thurston Hillman、Robert Brookes、Eleanor Ferron、Crystal Malarsky、Scott Sharplin
+|pages=96
+}}
+
+{{书页/简介|head=阻止浩劫！|1=
+当年将阿兹兰特沉入险恶海洋的阴险的底栖魔鱼一族，在英雄们逼近宿敌、准备决一死战之际，也开始调动自己的力量。英雄们为盟友备战、迎击即将到来的攻势之后，必须杀出一条血路，穿过一座沉没水下的古代武器设施的废墟——那里挤满了危险的守卫与不稳定的魔法——赶在面纱大师发动毁灭性的诡异魔法攻击、重燃针对人类的战火之前，阻止这个怪物般的敌人。一旦得逞，世界将陷入混乱，一如当年底栖魔鱼令阿兹兰特毁灭时那样。
+
+本册《冒险之路》为「阿兹兰特废墟」系列收尾，内容包括：
+
+* Thurston Hillman 的《帷幕后的往昔》（"Beyond the Veiled Past"），一部适用于 15 级角色的惊险开拓者冒险。
+* Robert Brookes 撰写的延续战役的办法，以及英雄们失败时灾难性后果的介绍。
+* Robert Brookes 对狡诈的面纱大师们几桩邪恶阴谋的一瞥。
+* Eleanor Ferron 探讨一位远古阿兹兰特人突然在当今格拉利昂苏醒会是什么样子。
+* Thurston Hillman、Crystal Malarsky 和 Scott Sharplin 带来的怪物图鉴，既有危险的怪物，也有友善的怪物。
+}}
+
+'''冒险之路126：帷幕后的往昔'''（''Pathfinder #126: Beyond the Veiled Past''）是[[冒险之路]]「阿兹兰特废墟」系列的第六章，也是最后一章冒险，由 Thurston Hillman 撰写，配套文章出自 Robert Brookes、Eleanor Ferron、Thurston Hillman、Crystal Malarsky 和 Scott Sharplin，于 2018 年 1 月 31 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+帷幕后的往昔 @ 4
+NPC 图集 @ 58
+继续战役 @ 64
+面纱大师的阴谋 @ 70
+自时间中苏醒 @ 76
+怪物图鉴 @ 82
+}}
+
+{{书页尾
+|pfw=Beyond the Veiled Past
+|releases=Softcover¦PZO90126¦2018-01¦978-1-64078-009-5；PDF¦PZO90126E¦¦
+}}
+
+[[分类:书目]]

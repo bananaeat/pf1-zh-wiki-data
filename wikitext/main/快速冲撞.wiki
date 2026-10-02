@@ -1,0 +1,12 @@
+{{Feat
+|name=快速冲撞
+|english_name=Quick Bull Rush
+|categories=战斗
+|description=你可以在攻击中迅速地撞击对手。
+|prerequisites=力量13，[[精通冲撞]]，[[猛力攻击]]，基本攻击加值+6。
+|benefit=当你行动时，你可以用一次单独的[[冲撞]][[战技]]检定来代替你的一次近战攻击。你只能用使用最高攻击加值的那次攻击来冲撞。
+|normal=冲撞战技检定是一个[[标准动作]]。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

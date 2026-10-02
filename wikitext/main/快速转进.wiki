@@ -1,0 +1,9 @@
+{{Feat
+|name=快速转进
+|english_name=Cut Your Losses
+|description=你意识到有时候，抓上东西尽快逃离危险范围才是最安全的做法。
+|prerequisites=力量13，[[特技]]1级
+|benefit=当你以一个[[整轮动作]]撤退并且有至少一只手空着时，你可以在移动过程中的任意一点，捡起一件无主物品或抱起一名体型不大于你的昏迷盟友，且不会引发[[借机攻击]]。任何额外的移动仍然会如常引发借机。此外，在计算你的负重能力时，视你的力量值比正常情况高2。
+|source_name=初探探索者协会
+|source_url=https://pf1chm.pages.dev/topics/page_547.html
+}}

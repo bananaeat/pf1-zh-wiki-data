@@ -1,0 +1,9 @@
+{{装备
+|name=二轮马车
+|english_name=Cart
+|cat=陆上交通
+|price=15 gp
+|passage=1 cp
+|description=一匹马或者其他驮兽便可以拉动这种二轮交通工具，短程货运时经常会用到它。二轮马车附带一套挽具。
+|source=核心规则书、极限宝具
+}}

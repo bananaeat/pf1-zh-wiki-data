@@ -1,0 +1,42 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #25: The Bastards of Erebus
+|authors=Sean K Reynolds
+|pages=96
+}}
+
+{{书页/简介|head=叛乱揭幕|1=
+西冠城（Westcrown）正在走向死亡。自从被剥夺切利亚斯首都的地位，这座城市的财富与威望逐渐流失，绝望的居民只能在一座被罪犯、腐败贵族和阴暗诅咒困扰的城市里自谋生路。PC 们能否对抗法律与犯罪世界双方的拥护者？
+
+本册《冒险之路》开启「盗贼议会」冒险之路，内容包括：
+
+* 《厄瑞波斯的私生子》，一部面向 1 级角色的开拓者冒险，作者 Sean K Reynolds。
+* 西冠城——这座被阴影萦绕的「暮光之城」——的地志，作者 Steven Schend。
+* 对[[魔裔]]生活的探究，以及数以百计的邪魔变体，作者 Amber Scott。
+* 一桩涉及贵族与阴谋的致命谜案，主角是探索者 Varian Jeggare 和他的魔裔保镖 Radovan，这是「探索者日志」的全新系列，作者 Dave Gross。
+* 六种可怕的新怪物，作者 Mike Ferguson、Sean K Reynolds、F. Wesley Schneider。
+}}
+
+'''冒险之路25：厄瑞波斯的私生子'''（''Pathfinder #25: The Bastards of Erebus''）是[[冒险之路]]「盗贼议会」系列的第一章冒险，由 Sean K Reynolds 撰写，配套文章出自 Mike Ferguson、Steven Schend、Amber Scott 和 F. Wesley Schneider，小说出自 Dave Gross，于 2009 年 8 月 19 日发售。它是第一册使用开拓者角色扮演游戏规则的《冒险之路》。
+
+== 目录 ==
+本册《冒险之路》收录一篇西冠城地志——这座城市的荣光日渐褪去，背叛在每一条昏暗的小巷里滋生。邪魔血脉的[[魔裔]]的详细秘密，也首次在「探索者编年史」战役设定中揭晓。「探索者怪物图鉴」提供半打适用于本战役的新怪物，而「探索者日志」小说的新故事线，随着 Dave Gross 的《地狱之卒》（Hell's Pawns）拉开序幕，为「盗贼议会」冒险之路的场景与人物注入了生命。
+{{书页/目录|1=
+前言 @ 4
+厄瑞波斯的私生子 @ 6
+西冠城 @ 48
+格拉利昂的魔裔 @ 60
+探索者日志：地狱之卒（1／6） @ 68
+怪物图鉴 @ 88
+盗贼议会战役概要 @ 88
+预设角色 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=The Bastards of Erebus
+|releases=PDF¦PZO9025E¦2009-08¦；Softcover¦PZO9025¦2009-08¦978-1-60125-190-9
+}}
+
+[[分类:书目]]

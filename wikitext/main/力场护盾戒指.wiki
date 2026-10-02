@@ -1,0 +1,14 @@
+{{魔法物品
+|name=力场护盾戒指
+|english_name=Ring of Force Shield
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Force Shield
+|cat=戒指
+|aura=中等塑能系
+|cl=9
+|slot=戒指
+|price=8,500 gp
+|description=这枚[[魔法物品#戒指|戒指]]能生成一面盾牌大小、盾牌形状的力场墙，它会一直跟随戒指，穿戴者可以像持用重盾一样持用它（+2 AC）。这件特殊的造物没有重量，也不妨碍行动，因此没有防具检定减值，也没有奥术施法失败率。穿戴者可以随意以[[自由动作]]激活和解除它。
+|req=[[锻造戒指]]、[[力墙术]]
+|cost=4,250 gp
+|source=核心规则书、极限宝具
+}}

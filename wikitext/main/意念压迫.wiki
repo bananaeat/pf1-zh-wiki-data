@@ -1,0 +1,10 @@
+<noinclude>{{异能者导航}}
+'''意念压迫'''（Overpowering Mind, Ex）是[[异能者]]的[[精神增幅|精神增幅]]。
+
+</noinclude>异能者能够从精神力池中花费2点精神力，来使得联结法术的意志豁免DC增加1点。8级起，她能够选择花费4点精神力来使得DC增加2点。15级起，她能够选择花费6点精神力来使得DC增加3点。此项精神增幅仅能联结到具有影响心灵描述符、而且需要进行意志豁免的法术上。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_310.html 精神增幅]、[https://pf1chm.pages.dev/topics/zhb4162fc9dd.htm 乌笃剌精神增幅]、[https://pf1chm.pages.dev/topics/page_855.html PSI技术]），按 AoN 核对过。全部精神增幅见 [[精神增幅]]。
+
+[[分类:精神增幅]]
+
+{{职业}}</noinclude>

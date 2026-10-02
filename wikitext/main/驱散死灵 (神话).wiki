@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[驱散死灵]] 的神话版本。</small></div>
+{{Feat
+|name=驱散死灵
+|english_name=Turn Undead
+|categories=神话
+|description=你的神圣能量不光能够让死灵落荒而逃，还能够彻底抹消它们的存在。
+|prerequisites=[[驱散死灵]]
+|benefit=当你使用[[驱散死灵]]专长时，范围增加每阶层10尺，而且非神话不死生物会在豁免中受到等同于你的阶层的减值。当你使用驱散死灵专长时，能够花费1次神话之力摧毁不死生物。取代原本的恐慌状态，豁免失败的不死生物会被摧毁。你能够摧毁每阶层2d4个生命骰的不死生物。HD最低的不死生物会先受到影响；对于HD相等的不死生物，最接近[[能量爆发]]起始点的会先受到影响。拥有9个或更高HD的不死生物不会被影响，不足以影响1名不死生物的HD会被浪费。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

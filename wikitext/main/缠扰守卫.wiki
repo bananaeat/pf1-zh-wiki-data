@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Giantslayer Player's Guide pg. 7, Giant Hunter's Handbook pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=缠扰守卫
+|english_name=Vexing Defender
+|type=战役
+|pfs=否
+|description=你受过与比你体型更大的对手战斗的训练，擅长让它们时刻紧张，从四面八方骚扰它们。你的[[特技]]检定获得+1背景加值，并且特技成为你的本职技能。此外，为穿过敌人的空间且不引发借机攻击而进行的特技检定获得+4背景加值，前提是该敌人比你体型更大。
+|source_name=Giantslayer Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Vexing%20Defender
+}}

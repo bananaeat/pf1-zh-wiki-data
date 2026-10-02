@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[贤者之音 (神话)]]。</small></div>
+{{Feat
+|name=贤者之音
+|english_name=Voice of the Sibyl
+|description=你的声音是如此的奇妙而又得引人入胜。
+|prerequisites=魅力15。
+|benefit=你在所有的[[唬骗]]、交涉、表演（演讲）检定上获得+1加值。如果你在这些技能上拥有10或更高的等级，则加值增加为+3。如果你在使用这些技能时并未出声，则加值不生效（例如战斗中使用唬骗进行[[虚招]]）。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

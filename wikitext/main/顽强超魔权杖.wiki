@@ -1,0 +1,15 @@
+{{魔法物品
+|name=顽强超魔权杖
+|english_name=Rod of Metamagic, Persistent
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Metamagic, Persistentlesser
+|cat=权杖
+|aura=强烈（无学派）
+|cl=17
+|slot=无
+|price=9,000 gp（次等）；32,500 gp（普通）；73,000 gp（高等）
+|weight=5磅
+|description=持用者能够如同使用[[顽强法术]]专长一样施放法术，每天至多3次。
+|req=[[制造权杖]]、[[顽强法术]]
+|cost=4,500 gp（次等）；16,250 gp（普通）；36,500 gp（高等）
+|source=进阶玩家指南、极限宝具
+}}

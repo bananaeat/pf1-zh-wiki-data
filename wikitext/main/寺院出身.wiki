@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Streets pg. 5），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=寺院出身
+|english_name=Cloistered Upbringing
+|type=地区
+|prerequisites=任意城市
+|description=你在侍僧或武僧之间长大，受到了他们超自然力量的熏陶。你对抗引导能量或以气驱动的能力所产生的超自然效果的豁免检定获得+1背景加值，并且当你被超自然效果治疗时，额外恢复1点生命值。
+|source_name=市井英雄
+|source=HotS
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Cloistered%20Upbringing
+}}

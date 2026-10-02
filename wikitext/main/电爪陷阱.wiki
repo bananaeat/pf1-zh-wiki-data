@@ -1,0 +1,14 @@
+{{危害
+|name=电爪陷阱
+|english_name=Shocking Floor Trap
+|kind=陷阱
+|trap_type=魔法
+|cr=9
+|perception=DC 26
+|disable=DC 26
+|trigger=接近型（[[魔法警报]]）
+|duration=1d6轮
+|reset=无
+|effect=法术效果（[[电爪]]，+9近战接触攻击［4d6点电击伤害］）；复数目标（40尺见方房间内的所有目标）
+|source=核心规则书
+}}

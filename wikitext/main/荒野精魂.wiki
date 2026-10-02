@@ -1,0 +1,10 @@
+{{Feat
+|name=荒野精魂
+|english_name=Spirit of the Wild
+|description=你与某种荒野地形的神秘联系变得更加强烈。
+|prerequisites=[[荒野适应力]]，[[荒野守卫]]，精灵。
+|benefit=当你处于[[荒野适应力]]专长中选择的地形时，你在为在[[突袭]]轮中行动而进行的察觉检定上获得+4加值。如果你能够在突袭轮行动，那么你在突袭轮中获得30尺盲感。如果你所在的区域可以视作多种地形，这些加值不会叠加；你只能从一种地形中获得该加值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

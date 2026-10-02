@@ -1,0 +1,11 @@
+{{Feat
+|name=专业探险家
+|english_name=Expert Explorer
+|pfs=否
+|description=你曾被受训去寻觅那些荒野中的未知土地，使得你比那些未曾受训的竞争者们拥有更高的探索效率。
+|prerequisites=[[知识]]（自然）或生存5级。
+|benefit=当使用本书在第124 ~125页上的探索规则来探测某块地域上的特征时，你在技能检定上获得+ 2加值。如果你这类技能检定结果比DC高5点或更多的话，你将获得额外的1d4点探索点数。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

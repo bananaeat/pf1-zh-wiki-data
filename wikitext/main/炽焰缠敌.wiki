@@ -1,0 +1,15 @@
+{{Spell
+|name=炽焰缠敌
+|english_name=Fire of entanglement
+|school=塑能系
+|levels=圣武士 2
+|action=迅捷动作
+|components=语言;姿势
+|range=特殊；见下文
+|target=一个生物
+|duration=1轮/等级
+|save=反射，通过则部分生效
+|sr=是
+|description=下一个被你用制裁邪恶职业能力攻击的生物会被笼罩在火焰之中，使其行动受限。直到该法术持续时间结束为止，目标会处于[[纠缠]]状态。如果目标在回合开始时所在的方格与你接邻，那么他会被视为纠缠在固定的物体上 （你） 而无法移动。豁免该法术的目标只会受到1轮影响。
+|source=进阶玩家指南
+}}

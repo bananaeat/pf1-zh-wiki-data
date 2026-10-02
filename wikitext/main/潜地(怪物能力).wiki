@@ -1,0 +1,13 @@
+<noinclude>{{速查导航|here=规则}}
+{{消歧义|潜地}}
+'''潜地'''（Earth Glide）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：速度</span></div>
+</noinclude><includeonly><div class="lang"><span id="潜地"></span><span id="潜地(怪物能力)"></span><div class="lang-h"><b>[[潜地(怪物能力)|潜地]]</b><i>Earth Glide</i><span class="lang-w">Ex · 速度</span></div><div class="lang-d"></includeonly>
+当生物掘洞时，可以通过石头，泥土以及几乎除了金属外的任何物体，就如同鱼类在水中游泳一般轻松。若生物受到防火保护，它甚至可以通过熔岩。生物的身后不会留下隧道或空洞，也不会产生类似波纹或其他形式的痕迹标示生物的存在。对包含正在掘洞的潜地生物的区域施放[[地动术]]，会将该生物甩退 30 尺，并使其[[震慑]] 1 轮，除非它通过 DC 15 的强韧豁免。
+
+'''格式'''：潜地
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Earth Glide|2=Earth Glide}}
+
+[[分类:通用怪物规则]]</noinclude>

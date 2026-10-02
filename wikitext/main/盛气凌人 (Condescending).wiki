@@ -1,0 +1,10 @@
+{{Trait
+|name=盛气凌人
+|english_name=Condescending
+|type=缺陷
+|pfs=否
+|description=你从小被教导只有与你相近的人才真正值得尊重。你以一种相当恶劣的态度对待那些与你不同种族、民族或国籍的人。
+|benefit=你在试图提高目标生物对你的态度等级时，交涉和威吓检定有-5罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

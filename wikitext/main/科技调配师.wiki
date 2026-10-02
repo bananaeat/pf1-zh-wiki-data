@@ -1,0 +1,11 @@
+{{Trait
+|name=科技调配师
+|english_name=Technological Brewmaster
+|type=地区
+|pfs=否
+|prerequisites=出身纽梅利亚
+|description=你已经习得了使用——那些太过古怪以至于有些人认为源于外星人的——先进科学技术制造药水的秘密。当制造药水时，你可以增加其基本造价10%来在正常所需的一半时间内制造出来。这种背景不给予制造药剂的能力。
+|source_name=药剂与毒药
+|source=P&P
+|source_url=https://pf1chm.pages.dev/topics/page_1257.html
+}}

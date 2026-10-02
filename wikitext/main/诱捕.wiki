@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''诱捕'''（Entrap）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex 或 Su</span><span class="sk-f">位置：特殊攻击和个体攻击</span></div>
+</noinclude><includeonly><div class="lang"><span id="诱捕"></span><div class="lang-h"><b>[[诱捕]]</b><i>Entrap</i><span class="lang-w">Ex 或 Su · 特殊攻击和个体攻击</span></div><div class="lang-d"></includeonly>
+拥有该能力的生物通常能用一次带有寒冰、泥、熔岩或者蛛网效果的物理攻击限制其他生物的移动力。受到诱捕攻击的生物必须通过强韧豁免否则进入被[[纠缠]]状态，持续时间在描述中列出。如果生物已经被诱捕攻击纠缠住了，第二次诱捕攻击会让该生物再做一次强韧豁免，否则进入[[无助]]状态，持续时间在描述中列出。此项豁免 DC 基于体质。被该能力影响进入无助状态的生物保持清醒，但是不能做身体动作（除了尝试打破束缚）直到该效果被移除。目标通过 DC 20 的专注检定后可以使用只带语言成分的法术或者类法术能力。被纠缠的生物可以用一个整轮动作做力量检定（与诱捕豁免 DC 相同）来打破束缚；无助生物的 DC 高 5 点。破坏造成诱捕的物质可以解放该生物。
+
+'''格式'''：诱捕（DC 13，1d10 分钟，硬度 5，HP 10）
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Entrap|2=Entrap}}
+
+[[分类:通用怪物规则]]</noinclude>

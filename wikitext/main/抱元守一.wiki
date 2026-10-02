@@ -1,0 +1,11 @@
+{{Feat
+|name=抱元守一
+|english_name=Spiritual Balance
+|description=你能够运用气来压制外界的魂魄对你的影响。
+|prerequisites=[[武僧#气运丹田|气池]]职业能力，心如止水职业能力
+|benefit=你的心如止水职业能力带来的豁免检定加值还能应用至对抗占据效果的时候，而且以[[直觉动作]]，你能够从[[武僧#气运丹田|气池]]中花费1点气来将心如止水提供的豁免检定加值翻倍。
+|normal=你的心如止水职业能力仅能对附魔系法术和效果生效。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

@@ -1,0 +1,13 @@
+{{Feat
+|name=恐怖面容
+|english_name=Monstrous Mask
+|description=你天生的炼狱特征赋予你的外貌，甚至扭曲可怖到能够使他人感到恐惧。
+|prerequisites=[[魔裔]]，必须在1级选择
+|benefit=你对所有类人生物进行的威吓检定均会获得+5种族加值。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_833.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[骇人面容]]（1 个条目）

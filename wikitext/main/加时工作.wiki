@@ -1,0 +1,9 @@
+{{Trait
+|name=加时工作
+|english_name=Extended Toil
+|type=宗教
+|prerequisites=信仰卓斯卡
+|description=你的信仰教导你要把魔法仆人使唤到死。当你施展法术去制造一个忠诚的仆人去完成特定的或者不需要心智的任务时(比如[[隐形仆役]]，[[坐骑术]]或[[灵能武器]]，但不能是[[召唤怪物]])你可以延长法术持续时间的50%。这并不会与[[法术延时]]专长叠加。然而这使得你的法术变弱，敌人在驱散该法术时获得+4的加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

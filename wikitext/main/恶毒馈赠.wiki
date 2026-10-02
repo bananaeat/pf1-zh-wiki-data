@@ -1,0 +1,20 @@
+{{Spell
+|name=恶毒馈赠
+|english_name=Toxic gift
+|school=死灵系
+|tags=毒素
+|levels=反圣武士 2;奥能师 3;术士 3;法师 3;秘学士 3
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的活物
+|duration=立即；见下文
+|save=强韧，通过则无效（见下文）
+|sr=是
+|description=你只能在你已经中毒的情况下施放该法术。
+
+你借鉴你自己身体里的毒药并将其复制给另一个目标，使其受到相同毒药的折磨。毒药产生原本的效果，但是其豁免DC使用本法术DC而非毒药的正常DC。
+
+如果你正受到一种以上毒药的折磨，选择其中一种复制给目标。
+|source=极限魔法
+}}

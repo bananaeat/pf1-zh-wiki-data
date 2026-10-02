@@ -1,0 +1,10 @@
+{{Feat
+|name=远游魔宠
+|english_name=Far-Roaming Familiar
+|description=距离无法切断你与魔宠间的联系。
+|prerequisites=智力13，必须具有魔宠
+|benefit=无论距离有多远，你和魔宠之间的情感连接都不会中断，但是当你与魔宠间的距离超过1英里以上时，可以用铅来隔断连接（这类似于用铅板阻挡侦测魔法效果）。
+|source=FF
+|source_name=魔宠手记
+|source_url=https://pf1chm.pages.dev/topics/page_491.html
+}}

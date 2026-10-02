@@ -1,0 +1,11 @@
+{{武器
+|name=盐弹
+|english_name=Alchemical cartridge (salt shot)
+|category=火器
+|prof=异种
+|wcat=弹药
+|price=12 gp
+|weight=—
+|description=这种黑火药和石盐的混合物只能被装填入雷筒、龙铳或其它霰弹武器中。它造成非致命伤害，并使哑火值提高1。它只能用来发动霰弹武器的锥形射击。
+|source=极限战斗、极限宝具
+}}

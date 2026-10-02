@@ -1,0 +1,9 @@
+{{装备
+|name=球（5英吋）
+|english_name=Ball (5 in.)
+|cat=娱乐
+|price=2 sp
+|weight=—
+|description=球可以是充气的动物膀胱，也可以用轻质木材雕成，或者用布料或植物纤维填塞并缝合封口的织物制成。
+|source=极限宝具
+}}

@@ -1,0 +1,16 @@
+{{Feat
+|name=精通双武器格斗
+|english_name=Improved Two-Weapon Fighting
+|categories=战斗
+|description=你是使用[[双武器战斗]]的专家。
+|prerequisites=敏捷17，[[双武器格斗]]，基本攻击加值+6。
+|benefit=除了原本额外的一次副手攻击外，你还可用副手再多攻击一次，但受-5减值。
+|normal=无此专长时副手武器仅能进行一次额外攻击。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[双武器撕裂]]、[[盾杖大师]]、[[精通双武器虚招]]、[[高等双武器格斗]]（4 个条目）

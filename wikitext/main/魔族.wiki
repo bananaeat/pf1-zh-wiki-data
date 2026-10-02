@@ -1,0 +1,7 @@
+{{物品
+|name=魔族
+|english_name=The Fiend
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。一个强大的邪恶异界生物注意到了抽牌者，并计划将其毁灭。
+}}

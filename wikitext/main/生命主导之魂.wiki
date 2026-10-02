@@ -1,0 +1,10 @@
+{{Feat
+|name=生命主导之魂
+|english_name=Life-Dominant Soul
+|description=你从你的凡人血统中获得了非凡的弹性。
+|prerequisites=[[吸血裔]]。
+|benefit=用来治疗活物的引导正能量和用来治疗不死生物的引导负能量都能治疗你，但对你的效力都只有正常值的一半。你仍然会受到用来伤害不死生物的正能量的伤害，比如引导能量和圣疗。
+|notes=民间汉化 CHM 这一条只有英文名，中文名是本站起的。
+|source_name=夜之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_823.html
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=轻柔攻击者
+|english_name=Lithe Attacker
+|description=你那无比柔软的身躯甚至允许你从紧凑的裂隙中发动攻击。
+|prerequisites=[[纤细身躯]]，逃脱5级，动物或魔法兽
+|benefit=你能够从墙壁的凹陷或者裂缝中发动攻击，就算在使用逃脱技能挤过或挤入狭窄空间时也能进行攻击，即便这个空间的宽度比自身通常所占据空间的宽度的一半还窄时也可以，而且你不会在使用逃脱技能挤过或挤入狭窄空间时失去AC上的敏捷加值。当你以此方式使用逃脱技能时，AC仍旧会受到-4减值。
+|source=AArch
+|source_name=动物档案
+|source_url=https://pf1chm.pages.dev/topics/page_437.html
+}}

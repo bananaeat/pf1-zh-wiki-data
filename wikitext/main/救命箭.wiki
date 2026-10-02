@@ -1,0 +1,10 @@
+{{Feat
+|name=救命箭
+|english_name=Savior's Arrow
+|description=[[埃拉斯蒂尔]]的力量充盈你的弓弦，使你可以射出一发生命的能量
+|prerequisites=可以施放治疗伤害法术，擅长长弓，信仰埃拉斯蒂尔
+|benefit=每天一次，当你施放一个治疗伤害法术时，你可以用拉开[[长弓]]来取代通常的姿势成分，将法术的效果凝聚为一支发出绿色萤光的能量矢。作为施法动作的一部分，你可以用这只箭矢射击你的目标，进行一次远程[[接触攻击]]检定。如果成功命中，则视为法术成功的接触了目标并造成治疗。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Fire Player's Guide pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=净化扭曲
+|english_name=Cleansing the Twisted
+|type=宗教
+|prerequisites=塞恩蕾
+|description=你深入研读过许多记载[[塞恩蕾]]与[[拉瓦古格]]及其怪物后裔之间无尽斗争的宗教典籍。当你用挥砍武器对付异怪时，你的战斗风格尤其奏效。你用挥砍武器对所有异怪造成的伤害获得+1背景加值。
+|source_name=烈焰传承玩家手册
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Cleansing%20the%20Twisted
+}}

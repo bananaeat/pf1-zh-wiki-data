@@ -1,0 +1,9 @@
+{{装备
+|name=签饼
+|english_name=Fortune cookie
+|cat=饮食
+|price=1 cp
+|weight=—
+|description=这块拧成卷的硬烤点心里裹着一张纸条，上面写着意味深长、令人费解的忠告。
+|source=极限宝具
+}}

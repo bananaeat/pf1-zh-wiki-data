@@ -1,0 +1,49 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #92: The Hill Giant's Pledge
+|authors=Larry Wilhelm
+|pages=96
+}}
+
+{{书页/简介|head=|1=
+进攻特鲁瑙（Trunau）的兽人已被击败，但危险仍未消除——山丘巨人酋长格伦塞尔德克（Grenseldek）依然觊觎特鲁瑙地下古墓中的宝藏。为了保护他们所选择的社群，英雄们必须离开这里，乘河船穿过兽人统治的贝尔克泽恩（Hold of Belkzen），前往那位巨人占作巢穴的废弃边境堡垒。然而，即便击倒格伦塞尔德克和她那群争吵不休的怪物爪牙，也未必足以拯救特鲁瑙。因为山丘巨人已送出一封命运攸关的信，地平线上正酝酿着一场风暴……
+
+本册《冒险之路》延续「巨人杀手」冒险之路，内容包括：
+
+* 《山丘巨人的誓约》，一部面向 4 级角色的开拓者冒险，作者 Larry Wilhelm。
+* 详述翱翔于内海各地的各种龙兽（drake），作者 Russ Taylor。
+* 一系列设定在旋心山脉的精彩附加遭遇，作者 David Schwartz。
+* 「探索者日志」中，一场完美的伏击出了岔子，作者 Michael Kortes。
+* 一批新怪物，作者 Benjamin Bruck、Thurston Hillman、Mikko Kallio、Larry Wilhelm。
+}}
+
+'''冒险之路92：山丘巨人的誓约'''（''Pathfinder #92: The Hill Giant's Pledge''）是 Larry Wilhelm 撰写的一部冒险，配套文章出自 Russ Taylor、David Schwartz、Benjamin Bruck、Thurston Hillman 和 Mikko Kallio，小说出自 Michael Kortes，于 2015 年 4 月 29 日发售。它是[[冒险之路]]「巨人杀手」系列的第二章。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+山丘巨人的誓约 @ 6
+NPC 图集 @ 58
+- Ewigga
+- Grenseldek
+旋心山脉任务集 @ 62
+龙兽生态 @ 70
+探索者日志：离奇传说（2／6） @ 76
+怪物图鉴 @ 80
+- [[荆棘枯萎兽]]
+• 活化荆棘
+- [[幻蛇，乌尔迪瓦尔|乌尔迪瓦尔]]（幻蛇）
+- [[斯卡普劳恩]]
+- [[斯凯尔特猫]]
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=The Hill Giant's Pledge
+|releases=PDF¦PZO9092E¦2015-04¦；Softcover¦PZO9092¦2015-04¦978-1-60125-726-0
+}}
+
+<small>CHM 汉化里没有这本书的译名，书名是本站定的。</small>
+
+[[分类:书目]]

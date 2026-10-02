@@ -1,0 +1,10 @@
+{{Feat
+|name=生命诱惑
+|english_name=Life Lure
+|description=你所引导的正能量对于那些亡灵而言一种无可抗拒的甜美。
+|prerequisites=【引导正能量】职业特性。
+|benefit=作为一个[[标准动作]]，你可以引导正能量[[迷魂]]30尺范围内所有的不死生物，持续等同于你魅力修正的轮数（至少1轮）。不死生物可以通过一次DC为“10+1/2牧师等级+魅力修正”的意志豁免来避免此影响。通过这种方式[[引导能量]]不会治疗或者伤害生物。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

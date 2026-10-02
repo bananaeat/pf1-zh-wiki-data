@@ -1,0 +1,4 @@
+<noinclude>{{德鲁伊导航}}
+</noinclude>{{德鲁伊领域能力|name=空中回避|en=Aerial evasion|type=Ex|domain=苍鹰领域|source=极限魔法|text=6级时，你在[[飞行]]时得到[[盗贼#反射闪避|反射闪避]]的效果。12级时此能力变成[[精通反射闪避]]。}}<noinclude>
+
+[[分类:德鲁伊领域]]</noinclude>

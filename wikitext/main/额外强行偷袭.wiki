@@ -1,0 +1,12 @@
+{{Feat
+|name=额外强行偷袭
+|english_name=Extra Impromptu Sneak Attack
+|categories=战斗
+|description=你精通先声夺人之法。
+|prerequisites=诡术士进阶强行偷袭职业能力
+|benefit=你每天可以多发动一次强行偷袭能力。
+|special=你可以多次选择本专长，获得的额外使用次数叠加。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

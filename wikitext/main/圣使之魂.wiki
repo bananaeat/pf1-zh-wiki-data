@@ -1,0 +1,9 @@
+{{Trait
+|name=圣使之魂
+|english_name=Lantern Spirit
+|type=种族
+|prerequisites=[[神裔]]（秩序使者）
+|description=你的圣使祖先在晋升至更高阶位之前，曾当了几百年的明灯圣使。你在使用你的[[不灭明焰]]类法术能力时有一种莫名的怀旧感，并且可以用一个[[移动动作]]而非[[标准动作]]来使用它。
+|source_name=天界血脉
+|source_url=https://pf1chm.pages.dev/topics/page_828.html
+}}

@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[破晓之箭]] 的神话版本。</small></div>
+{{Spell
+|name=破晓之箭
+|english_name=Daybreak Arrow
+|school=塑能系
+|tags=光亮
+|levels=先知 3;圣武士 3;审判者 3;战斗祭司 3;牧师 3;秘学士 3
+|description=对不死生物以及会被日光伤害的生物造成的额外伤害增加至1d8点。被影响的弹药完全由光能所组成，会穿透所有不死生物以及会被日光伤害的目标的伤害减免。照明杖光亮的持续时间增加至1分钟。
+|source=神话冒险
+}}
+[[分类:神话法术]]

@@ -1,0 +1,10 @@
+{{Feat
+|name=凶暴蝙蝠化形
+|english_name=Dire Bat Shape
+|description=你能转变成一只凶暴蝙蝠
+|prerequisites=魅力13，[[蝙蝠化形]]，＋3 BAB，蝙蝠人后裔
+|benefit=当你使用[[蝙蝠化形]]变成蝙蝠时，你可以选择变成蝙蝠或凶暴蝙蝠。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_809.html
+}}

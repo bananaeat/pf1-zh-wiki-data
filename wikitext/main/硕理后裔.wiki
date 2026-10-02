@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Advanced Class Origins pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=硕理后裔
+|english_name=Scion of the Shory
+|type=地区
+|prerequisites=芒吉莽原
+|description=你的血管中流淌着一位硕理御天使的血。你在施放飞行类法术（例如[[浮空术]]、[[飞行术]]或[[翱翔天际]]）时进行的专注检定获得+2加值。每天一次，你可以将[[传讯术]]作为类法术能力使用。
+|source_name=进化职业起源
+|source=ACO
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Scion%20of%20the%20Shory
+}}

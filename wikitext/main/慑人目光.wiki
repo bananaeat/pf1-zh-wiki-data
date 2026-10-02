@@ -1,0 +1,11 @@
+{{Feat
+|name=慑人目光
+|english_name=Demoralizing Stare
+|categories=战斗;凝视
+|description=你的痛苦注视会在敌人心中播种恐惧。
+|prerequisites=催眠师9级，痛苦注视职业能力
+|benefit=当你触发你的痛苦注视时，目标必须进行一次意志豁免（DC = 10 + 1/2你的催眠师等级 + 你的魅力调整值），失败则会[[战栗]]1轮。这不会致使目标陷入惊惧，即便目标已经处于战栗状态也不会如此。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

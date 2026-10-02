@@ -1,0 +1,11 @@
+{{Feat
+|name=震慑压制
+|english_name=Stunning Pin
+|categories=战斗
+|description=你能让被压制的对手暂时无力化。
+|prerequisites=[[精通擒抱]]，[[精通徒手打击]]，震慑拳。
+|benefit=当你在[[擒抱]]中压制住一个对手时，你可以花费一个[[迅捷动作]]对其进行一次[[震慑拳]]尝试。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

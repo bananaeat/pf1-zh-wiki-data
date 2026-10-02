@@ -1,0 +1,10 @@
+{{Feat
+|name=摆脱困境
+|english_name=Shake It Off
+|categories=团队
+|description=你知道如何协助你的盟友，帮助他们从负面状况中复原。
+|benefit=当你和拥有此专长的盟友邻接时，每个盟友将提供你+1的豁免加值（最多+4）。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

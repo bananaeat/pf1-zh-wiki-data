@@ -1,0 +1,10 @@
+{{Trait
+|name=依赖
+|english_name=Dependent
+|type=缺陷
+|pfs=否
+|description=你总是过度在意别人对你的看法。
+|benefit=每当你的交涉检定失败了，你[[战栗]]一小时。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

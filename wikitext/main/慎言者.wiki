@@ -1,0 +1,10 @@
+{{Feat
+|name=慎言者
+|english_name=Careful Speaker
+|description=你生活在危险的政府所带来的几乎偏执的恐惧之中，这使得你在说话的时候极为小心。
+|prerequisites=[[感知]] 13
+|benefit=你在所有用于愚弄某人或者传递密语的[[唬骗]]检定（不包括[[虚招]]）中获得+2加值，并且在对抗所有尝试探知你或者读取你思维的意志豁免中获得+2加值。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

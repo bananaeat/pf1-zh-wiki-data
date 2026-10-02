@@ -1,0 +1,8 @@
+{{Feat
+|name=觅食污秽者
+|english_name=Filth Forager
+|description=你经常接触下水道和城市地下环境中常见的污秽与残渣，逐渐对这些环境带来的不适产生了抗性。
+|benefit=你在对抗疾病以及任何会导致你[[恶心]]或[[反胃]]的效果时，所有豁免检定获得+4加值。
+|source_name=街巷英雄
+|source_url=https://pf1chm.pages.dev/topics/zh9058779a2c.htm
+}}

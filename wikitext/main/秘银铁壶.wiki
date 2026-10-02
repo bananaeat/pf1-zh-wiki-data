@@ -1,0 +1,9 @@
+{{装备
+|name=秘银铁壶
+|english_name=Pot (mithral)
+|cat=冒险装备
+|price=2,001 gp
+|weight=2磅
+|description=这种直径8英寸的铁壶结实耐用，带有脚、盖子和圆形把手，能盛下足够让一个饥饿的人类吃一顿饭的炖菜。秘银壶更轻，食物也很少粘在上面。
+|source=极限宝具
+}}

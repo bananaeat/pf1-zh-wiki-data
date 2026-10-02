@@ -1,0 +1,12 @@
+{{Feat
+|name=华丽转进
+|english_name=Spectacular Exit
+|categories=战斗;演武
+|pfs=否
+|description=你所掌握的特技甚至能把后退演绎成让人叹为观止技巧。
+|prerequisites=敏捷15，[[闪避]]，特技7级
+|benefit=当你由于使用撤退动作而被迫进行演武检定时，你能够在进行该次演武检定之前，尝试进行一次特技检定对抗敌人的[[CMD]]。成功则可以让你进行撤退而不会在检定中受到标准的-5减值。此外，你的特技结果每比敌人的CMD高5点，则能够在该轮剩余的时间内进行的所有表演检定获得+1加值。
+|source=ISC
+|source_name=内海战斗
+|source_url=https://pf1chm.pages.dev/topics/page_276.html
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=炽热导能
+|english_name=Blazing Channel
+|description=你的神圣力量令不死生物如陷火海。
+|prerequisites=[[驱散死灵]]，引导正能量职业特性
+|benefit=当你使用[[驱散死灵]]专长时，如果不死生物豁免失败，会令它们陷入神圣烈火中。这个效果如同着火（CRB444），但是这将造成神圣伤害（如火焰打击神圣伤害）而非火焰伤害。水无法扑灭这种神圣火焰，但是任何为该不死生物恢复至少5点伤害的负能量效果可以立即熄灭这火焰。
+|source=CaC
+|source_name=部属与伙伴
+|source_url=https://pf1chm.pages.dev/topics/page_1347.html
+}}

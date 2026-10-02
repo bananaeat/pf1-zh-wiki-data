@@ -1,0 +1,11 @@
+{{Feat
+|name=摧毁藩篱
+|english_name=Breaker of Barriers
+|categories=战斗
+|description=摧毁一切障碍是你的神圣使命
+|prerequisites=[[力量]] 17，信仰洛瓦古格
+|benefit=你在击破门，墙体，水坝和其他类似的障碍物的力量检定以及进行[[冲撞]]和穿越的[[战技]]检定上获得+2加值。当你击破门，墙体，水坝和其他类似的障碍物时，你忽略该物体的前5点硬度。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

@@ -1,0 +1,10 @@
+<noinclude>{{女巫导航}}
+'''浊视'''（Polluting Glance, Su）是[[女巫]]的[[巫术]]。
+
+</noinclude>{{Source|废土子民|People of the Wastes|inline}}
+
+女巫仅需一瞥就能腐化非魔法液体（比如炼金药剂）。女巫能选择30尺内可看到的某个液体，并如同[[污水]]巫术一般将其转换成污水。而女巫能同时激活该巫术的次数上限等同于其智力修正（至少为1）。女巫必须具备污水巫术才能选择该巫术。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1270.html 原文]），见 [[洪灾废土]] 一章。全部巫术见 [[:分类:巫术|分类:巫术]]。
+
+[[分类:巫术]]</noinclude>

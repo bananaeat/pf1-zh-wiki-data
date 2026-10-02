@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Serpent's Skull Player's Guide pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=瓦瑞西亚登船
+|english_name=Boarded in Varisia
+|type=战役
+|pfs=否
+|description=你从遥远的北方而来，对丛林、丛林中的居民或其中奇异的力量可能没什么经验。正如迦伦德的土地对你来说荒野而充满异域风情，你对它们来说也是如此。这种异乎寻常之处以下列两种方式之一体现。选择对丛林居民进行的所有[[唬骗]]检定获得+2背景加值，或是在对丛林的生物与原住民施放具有影响心灵描述符的法术时，将其视为施法者等级高1级。
+|source_name=Serpent's Skull Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Boarded%20in%20Varisia
+}}

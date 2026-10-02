@@ -1,0 +1,10 @@
+{{Feat
+|name=塔尔多动员兵
+|english_name=Taldan Conscript
+|pfs=否
+|description=在侍奉你的领主时，你所做出的长时间训练强化了你在某些武器上的武技。
+|prerequisites=侍奉着一位领主的塔尔多农奴
+|benefit=当你使用一把农具（比如[[手斧]]、镐、草叉或者[[镰刀]]）作为武器时，你将会在伤害骰上得到+1的加值。当你和其它动员兵并肩作战时，你将会在[[先攻]]检定上得到+1的加值。
+|source_name=塔尔多，荣光荡漾之地
+|source_url=https://pf1chm.pages.dev/topics/page_936.html
+}}

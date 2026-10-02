@@ -1,0 +1,10 @@
+{{Feat
+|name=死灵术亲和
+|english_name=Necromantic Affinity
+|description=长时间暴露在死灵能量之下，使得你在抵御它们时获得了小小的变化。
+|prerequisites=[[体质]] 15
+|benefit=你在对抗任何利用负能量、造成负向等级、造成[[属性伤害]]、[[属性吸取]]或者属性罚值的法术或效果时，豁免获得+2加值。此外，造成伤害类法术会治疗你，就如同你是不死生物一般，但是你会被治疗伤害类法术所伤害。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

@@ -1,0 +1,11 @@
+{{消歧义|幸存者(德鲁伊变体职业)}}
+{{Feat
+|name=幸存者
+|english_name=Survivor
+|description=只有强者才能在你的故乡长大成人，而你就是强者，甚至在同族中也是如此。
+|prerequisites=体质13，[[顽强]]，[[坚忍]]
+|benefit=你在[[濒死]]时稳定的体质检定中获得+5加值。每日1次，如果你被重击或者偷袭时，你能够消耗[[直觉动作]]使重击或者偷袭失效，使其变为普通命中的攻击。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

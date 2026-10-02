@@ -1,0 +1,45 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #2: The Skinsaw Murders
+|authors=Richard Pett
+|pages=96
+}}
+
+{{书页/简介|head=他们连狗都吃了！|1=
+「符文领主崛起」冒险之路继续！一连串突如其来的残暴杀戮令砂点镇（Sandpoint）陷入恐慌，凶手留下的标记形状令人熟悉。调查把 PC 们引向失落海岸（Lost Coast）最臭名昭著的鬼宅——一座破败的废墟，已成为一名怪物般凶手的巢穴。然而这名杀手只是众多杀手之一，是一群自称「剥皮锯人」（Skinsaw Men）的狂热杀手组织的成员。要击败这个邪教，PC 们必须前往繁华的玛格尼玛城，在自己成为剥皮锯人的下一批受害者之前，揭开这些谋杀背后的邪恶源头！
+
+本册《开拓者》包含：
+
+* 《剥皮锯谋杀案》，一部面向 4 级角色的冒险，作者 Richard Pett。
+* 「纪念碑之城」玛格尼玛的详情，作者 F. Wesley Schneider。
+* 梦境、星辰与旅行女神[[黛丝娜]]的教会信息，作者 Sean K Reynolds。
+* 「探索者日志」的第二章，作者 Jason Bulmahn。
+* 六种新怪物，作者 Jason Bulmahn、James Jacobs、Richard Pett、F. Wesley Schneider。
+}}
+
+'''冒险之路2：剥皮锯谋杀案'''（''Pathfinder #2: The Skinsaw Murders''）是[[冒险之路]]「符文领主崛起」系列的第二章冒险，由 Richard Pett 撰写，配套文章出自 Jason Bulmahn、James Jacobs、Sean K Reynolds 和 F. Wesley Schneider，小说出自 Jason Bulmahn，于 2007 年 10 月 17 日发售。截至 2009 年，它是唯一一册有第二次印刷的《冒险之路》。
+
+== 目录 ==
+本册《冒险之路》不仅首次涉足恐怖主题的冒险，还收录对玛格尼玛城的详细描述、数种新怪物，以及对梦境与旅行女神[[黛丝娜]]及其信徒的详细介绍。它还让我们首次一窥探索者 Eando Kline 的日志。
+{{书页/目录|1=
+前言 @ p4–5
+剥皮锯谋杀案 @ p6–55
+玛格尼玛 @ p56–65
+[[黛丝娜]] @ p66–75
+探索者日志：「旅程开始」 @ p76–81
+怪物图鉴 @ p82–93
+预设角色 @ 94
+- [[Valeros]]
+- [[Seoni]]
+- [[Kyra]]
+- [[Merisiel]]
+下期预告 @ 95
+}}
+
+{{书页尾
+|pfw=The Skinsaw Murders
+|releases=PDF¦PZO9002E¦2007-10¦；Softcover¦PZO9002¦2007-10¦
+}}
+
+[[分类:书目]]

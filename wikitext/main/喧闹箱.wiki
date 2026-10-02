@@ -1,0 +1,15 @@
+{{魔法物品
+|name=喧闹箱
+|english_name=Clamor Box
+|aon=MagicWondrousDisplay.aspx?FinalName=Clamor Box
+|cat=奇物
+|aura=中等幻术系
+|cl=10
+|slot=无
+|price=2,000 gp
+|weight=2磅
+|description=这个精巧的锡制音乐盒能在主人设定的特定时刻发出巨大的噪音。四个命令字决定它播放哪一类声音（战斗、火灾、屠杀或暴乱），第五个命令字决定音乐盒经过多久（从1轮到20分钟不等）才开始发出所选的声音。盒子发出的噪音相当于40个人那么响。声音持续2d6轮。
+|req=[[制造奇物]]、[[幻音术]]
+|cost=1,000 gp
+|source=进阶玩家指南、极限宝具
+}}

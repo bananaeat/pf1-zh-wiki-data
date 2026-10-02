@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Orcs of Golarion pg. 22），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=大嘴巴
+|english_name=Big Mouth
+|type=种族
+|prerequisites=半兽人、兽人
+|description=你天生善于编造颂扬自身力量与本领的故事。你针对[[兽人]]进行的所有[[唬骗]]、[[威吓]]和[[表演]]（演说）检定获得+1背景加值。
+|source_name=格拉利昂的兽人
+|source=OoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Big%20Mouth
+}}

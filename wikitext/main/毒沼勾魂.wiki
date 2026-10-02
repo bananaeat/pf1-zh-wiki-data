@@ -1,0 +1,14 @@
+{{危害
+|name=毒沼勾魂
+|english_name=Swampseer poison
+|kind=毒药
+|type=摄入
+|save=强韧 DC 18
+|onset=10分钟
+|frequency=1次/分钟，持续3分钟
+|initial=1d4点感知伤害
+|secondary=1d2点感知伤害，并且[[困惑]]1分钟
+|cure=2次豁免成功
+|price=400 gp
+|source=冒险之路34：以血还血、极限宝具
+}}

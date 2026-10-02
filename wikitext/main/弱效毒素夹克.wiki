@@ -1,0 +1,15 @@
+{{魔法物品
+|name=弱效毒素夹克
+|english_name=Poisoner's Jacket (Lesser)
+|aon=MagicWondrousDisplay.aspx?FinalName=Poisoner's Jacket (Lesser)
+|cat=奇物
+|aura=微弱咒法系、死灵系
+|cl=5
+|slot=胸部
+|price=12,000 gp
+|weight=3磅
+|description=每天三次，这件深色夹克的穿戴者可以创造一小瓶药液，内含《核心规则书》中任何价格不超过300 gp的毒药一剂。夹克产生的毒药看起来总是一种浑浊的琥珀色液体。这种毒药在1小时后失效。
+|req=[[制造奇物]]、[[弱效造物术]]、[[毒击术]]
+|cost=6,000 gp
+|source=极限宝具
+}}

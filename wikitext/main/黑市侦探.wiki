@@ -1,0 +1,10 @@
+{{Feat
+|name=黑市侦探
+|english_name=Black Market Sleuth
+|description=你在搜寻罪犯的交易上有着敏锐的眼光
+|prerequisites=[[交涉]]1级，[[知识]]（地方）1级
+|benefit=在进入黑市或寻找与黑市有联系的人的交涉检定上，你可以双骰取高。在关于黑市、罪犯或与他们有直接联系的人的知识（本地）检定上，你可以双骰取高。在都市环境下，你可以搜寻那些试图在社区中销声匿迹的人，利用交涉检定而不是生存检定来追踪目标。
+|source=BM
+|source_name=黑市指南
+|source_url=https://pf1chm.pages.dev/topics/zh892b08ddc8.htm
+}}

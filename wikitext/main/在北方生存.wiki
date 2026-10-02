@@ -1,0 +1,8 @@
+{{物品
+|name=在北方生存
+|english_name=Surviving The North
+|category=冒险装备
+|description=乌尔芬人（Ulfen）和瓦尔基人（Varki）依靠专门的装备在寒冷的家园中生存。以下是在喀斯嘉德中某些常用装备的范例。
+|source=MM
+|source_name=商人货单
+}}

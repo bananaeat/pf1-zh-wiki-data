@@ -1,0 +1,12 @@
+{{Feat
+|name=圣战之拳
+|english_name=Crusader's Fist
+|categories=战斗
+|description=你给被击中的敌人注入神圣的能量。
+|prerequisites=【圣疗】或【堕落之触】职业特性，[[精通徒手打击]]，基本攻击加值+6。
+|benefit=当你用[[徒手打击]]命中一个生物，并且该生物可以被你的【圣疗】或【堕落之触】所伤害，你可以选择以[[迅捷动作]]消耗1次每日次数来对其造成正常伤害，如同你以该职业特性的普通接触攻击命中了对方。该额外伤害不会被你的重击所加成。
+|stamina=如果使用[[圣战之拳]]时确认了重击，花费5点耐力可令额外伤害享受暴击翻倍加成。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

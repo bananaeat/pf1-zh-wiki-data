@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Antihero's Handbook pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=讨人嫌
+|english_name=Obnoxious
+|type=社会
+|description=你早已忘了在乎别人怎么看你——不过至少，你与人的交往总是令人难忘。选择[[表演]]（戏剧）、表演（喜剧）、表演（演讲）或表演（歌唱）；你以所选技能进行的检定获得+1背景加值，并且该技能成为你的本职技能。
+|source_name=反英雄手册
+|source=A'sH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Obnoxious
+}}

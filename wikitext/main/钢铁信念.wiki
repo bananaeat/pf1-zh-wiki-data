@@ -1,0 +1,10 @@
+<noinclude>{{侠客导航}}
+'''钢铁信念'''（Steely Resolve, Ex）是[[侠客]]的[[侠客天赋]]。
+
+</noinclude>{{Source|门徒教义|Disciple's Doctrine|inline}}
+
+效果：每天3次，侠客在对抗影响心灵效果的意志豁免失败时，可以用一个[[直觉动作]]将该效果的生效时间推迟若干轮，轮数等同于1/2侠客等级；此后侠客照常受到该效果的全部影响。用于推迟的轮数不计入效果的持续时间。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh62263cd083.htm 原文]）。全部侠客天赋见 [[:分类:侠客天赋|分类:侠客天赋]]。
+
+[[分类:侠客天赋]]</noinclude>

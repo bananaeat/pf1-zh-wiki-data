@@ -1,0 +1,11 @@
+{{Feat
+|name=迅豹闪
+|english_name=Panther Parry
+|categories=战斗
+|description=你的猛恶攻击削弱了敌人趁你移动时袭击的能力。
+|prerequisites=感知15，[[战斗反射]]，[[精通徒手打击]]，[[豹形拳]]，豹爪。
+|benefit=你处于豹拳[[流派]]架势时，你的反击可以在对方进行[[借机攻击]]前作出，如果你的这次反击对对手造成伤害，对手对你的借机攻击在攻击骰和伤害骰都有-2罚值。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

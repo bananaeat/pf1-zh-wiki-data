@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=地底屠戮者
+|english_name=Slayer of the Deep
+|type=地区
+|prerequisites=天夏幽暗地域
+|description=你曾在幽暗地域各处猎杀怪物，懂得如何利用它们的弱点。你对异怪类生物进行的伤害检定获得+1背景加值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Slayer%20of%20the%20Deep
+}}

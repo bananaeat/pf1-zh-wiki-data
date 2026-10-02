@@ -1,0 +1,13 @@
+{{Feat
+|name=流派大师
+|english_name=Combat Style Master
+|categories=战斗
+|description=你能自如切换使用的[[流派]]，将它们衔接起来增加其效果。
+|prerequisites=[[精通徒手打击]]，至少两项流派专长，基本攻击加值+6或武僧5级。
+|benefit=你可以以一个[[自由动作]]切换你使用的流派。在战斗开始时，选择一种你拥有的流派。即使是在[[突袭]]轮，你也从战斗开始便启用该流派效果。
+|normal=启用或切换你的流派是一个[[迅捷动作]]。
+|stamina=即使并非在你的回合，花费2点耐力你可以以自由动作切换流派。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

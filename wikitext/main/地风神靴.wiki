@@ -1,0 +1,16 @@
+{{魔法物品
+|name=地风神靴
+|english_name=Boots of Earth and Wind
+|aon=MagicWondrousDisplay.aspx?FinalName=Boots of Earth and Wind
+|cat=奇物
+|mythic=是
+|aura=中等变化系
+|cl=9
+|slot=脚部
+|price=20,000 gp
+|weight=3磅
+|description=这双皮铁混合的靴子沉重而怪异，每只靴子的两侧都有一对不断扑扇的翅膀。这些靴子的功能如同[[飞翼靴]]，不过只要穿戴者站在坚实的地面上，靴子还会使她在对抗[[冲撞]]、[[闯越]]和移位[[战技]]时的[[CMD]]获得+5加值。神话生物在命令靴子飞行时可以花费1次神话之力，这样只要她还在利用靴子飞行，就持续获得这个CMD加值。
+|req=[[制造魔法武器和防具]]、[[神话工匠]]、[[纠缠术]]、[[飞行术]]
+|cost=10,000 gp
+|source=神话冒险
+}}

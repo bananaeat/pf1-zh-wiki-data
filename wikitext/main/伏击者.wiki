@@ -1,0 +1,9 @@
+{{Trait
+|name=伏击者
+|english_name=Ambush Training
+|type=战斗
+|description=你学会了通过伏击让战斗结束在开始之前。你的[[先攻]]检定获得+1背景加值，并且在你能行动的[[突袭]]轮中，武器伤害骰获得+1背景加值。
+|source_name=战斗背景
+|source=PSP
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

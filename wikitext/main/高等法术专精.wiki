@@ -1,0 +1,10 @@
+{{Feat
+|name=高等法术专精
+|english_name=Greater Spell Specialization
+|description=你能够以牺牲其他已准备的法术位代价自发你的专精法术。
+|prerequisites=智力13，[[法术专攻]]，[[法术专精]]，能够准备5环法术。
+|benefit=通过牺牲一个相同或更高环级的已准备的法术，你可以自发施法你的专精法术。无论你使用哪个法术位，专精法术视为原本的环级。你可以通过增加施法时间和提升法术位的方式在法术上附加[[超魔专长]]，就好像牧师自发施放治疗或伤害法术并附加超魔专长一样。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

@@ -1,0 +1,9 @@
+{{装备
+|name=缝纫针
+|english_name=Sewing needle
+|cat=冒险装备
+|price=5 sp
+|weight=—
+|description=这种针允许你将布、帆布或薄皮革缝合在一起。
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=锐视之眼
+|english_name=Eyes of Keen Sight
+|aon=MagicWondrousDisplay.aspx?FinalName=Eyes of Keen Sight
+|cat=奇物
+|aura=微弱变化系
+|cl=1
+|slot=眼部
+|price=6,000 gp
+|description=这些清澈的水晶覆盖在穿戴者的眼睛上。它们使穿戴者在察觉检定上获得+2表现加值，并使穿戴者获得昏暗视觉。如果穿戴者本来就有昏暗视觉，这些镜片会使他用这种视觉能看到的距离加倍。
+|req=[[制造奇物]]、[[感官锐化]]
+|cost=3,000 gp
+|source=极限宝具
+}}

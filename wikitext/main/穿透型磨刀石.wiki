@@ -1,0 +1,15 @@
+{{魔法物品
+|name=穿透型磨刀石
+|english_name=Penetrating Whetstone
+|aon=MagicWondrousDisplay.aspx?FinalName=Penetrating Whetstone
+|cat=奇物
+|aura=中等塑能系
+|cl=8
+|slot=无
+|price=2,000 gp
+|weight=1磅
+|description=这种[[磨刀石]]由精加工的[[黑曜石]]制成。用它打磨一把刀刃需要15分钟，之后该武器在接下来的五次攻击中，可以无视至多3点的天生护甲加值。如果武器攻击的目标的天生护甲加值低于+3，则目标的天生护甲加值每比3低1点，该武器就额外造成1点伤害。打磨刀刃的过程会崩碎一部分附魔的黑曜石，驱散它的魔法，使它此后变成一块普通的磨刀石。
+|req=[[制造奇物]]、[[锐锋术]]
+|cost=1,000 gp
+|source=怪物猎人手册
+}}

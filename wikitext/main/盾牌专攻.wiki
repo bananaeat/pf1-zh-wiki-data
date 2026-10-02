@@ -1,0 +1,16 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[盾牌专攻 (神话)]]。</small></div>
+{{Feat
+|name=盾牌专攻
+|english_name=Shield Focus
+|categories=战斗
+|description=你善于用盾牌偏转攻击。
+|prerequisites=[[擅长盾牌]]，基本攻击加值+1。
+|benefit=你由盾牌获得的AC加值+1。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[倾覆盾击]]、[[塔盾专家]]、[[持盾姿态]]、[[持盾法师]]、[[掩护]]、[[盾牌专精]]、[[盾牌支撑]]、[[盾牌材料专家]]、[[盾牌材料大师]]、[[盾牌缓冲]]、[[精通盾牌专攻]]、[[自由之盾]]、[[衰弱盾击]]、[[警戒冲锋]]、[[谨慎移动]]、[[铁壁 · 固]]、[[铁壁 · 坚]]、[[铁壁流]]、[[防御虚招]]、[[高等盾牌专攻]]、[[高等盾牌专精]]（21 个条目）

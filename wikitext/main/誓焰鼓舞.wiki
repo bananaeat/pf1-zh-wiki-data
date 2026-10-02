@@ -1,0 +1,10 @@
+{{Trait
+|name=誓焰鼓舞
+|english_name=Avowed Inspiration
+|type=宗教
+|prerequisites=信仰[[拉贾瑟尔]]
+|description=你效仿至尊天界领主拉贾瑟尔那如烈焰般聚焦的怒意，成为战场上的鼓舞者。每天一次，当你攻击一位在本场战斗中曾使你受伤的敌人时，你可以用一个[[移动动作]]鼓舞目睹此景的盟友。30尺范围内能看见你的所有其他盟友都能在下一次攻击检定中获得+2士气加值。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh9e38168036.htm
+}}

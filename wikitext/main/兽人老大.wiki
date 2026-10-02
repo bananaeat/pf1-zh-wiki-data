@@ -1,0 +1,49 @@
+{{速查导航}}
+{{怪物
+|name=兽人老大
+|english_name=Orc Warlord
+|cr=6
+|xp=2,400
+|classline=兽人野蛮人7
+|alignment=混乱邪恶
+|size=中型
+|type=类人生物
+|subtypes=兽人亚种
+|init=+2
+|senses=黑暗视觉60尺；察觉+8
+|description=最强最劲的绿皮统治其他的绿皮。
+|ac=15，接触11，措手不及13（+4护甲，+1偏斜，+2敏捷，-2狂暴）
+|hp=86（7d12+35）
+|fort=+9
+|ref=+4
+|will=+2
+|defensive=精通直觉闪避，[[通用怪物规则#凶猛|凶猛]]，陷阱感知+2
+|dr=1/—
+|weaknesses=光线敏感
+|speed=30尺
+|melee=+1弯刃大刀+14/+9（2d4+10/18-20），啮咬+8（1d4+3）或精制品短矛+14/+9（1d6+9）
+|ranged=标枪+9/+4（1d6+6）
+|special_attacks=狂暴（18轮/天），狂暴之力（野性之怒，威吓凝视，蛮勇之力+7）
+|tactics=<div class="ml wide"><span class="k">战斗前</span>兽人老大在战斗前进入狂暴</div>
+|str=23
+|dex=14
+|con=18
+|int=8
+|wis=6
+|cha=10
+|bab=+7<!-- 原书作 +4，按 AoN 更正 -->
+|cmb=+13<!-- 原书作 +10，按 AoN 更正 -->
+|cmd=24<!-- 原书作 18，按 AoN 更正 -->
+|feats=[[凶猛行动]] ARG;[[威逼]];[[即时备战]];[[刚毅狂暴]] ARG
+|skills=[[威吓]]+16;[[察觉]]+8;[[察言观色]]+5
+|languages=通用语;兽人语
+|sq=快速移动;武器熟悉
+|environment=温带丘陵、山地或地下
+|combat_gear=牛之力量药水;治疗重伤药水
+|gear=精制品革甲;+1弯刃大刀;精制品短矛;标枪 x10;防护戒指+1;99GP
+|source=怪物志
+|family=兽人（怪物志）
+|npc=1
+}}
+
+本页译自《[[怪物志]]》的怪物图鉴 CHM。

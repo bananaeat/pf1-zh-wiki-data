@@ -1,0 +1,15 @@
+{{魔法物品
+|name=弱效猛力投掷腰带
+|english_name=Belt of Mighty Hurling (Lesser)
+|aon=MagicWondrousDisplay.aspx?FinalName=Belt of Mighty Hurling (Lesser)
+|cat=奇物
+|aura=中等变化系
+|cl=8
+|slot=腰部
+|price=14,000 gp
+|weight=1磅
+|description=这条厚皮革腰带用一枚拳头形的亮青铜搭扣扣紧。穿戴时，它使穿戴者的力量获得+2增强加值，并使他在以投掷武器进行远程攻击时，可以用力量调整值代替敏捷调整值作为攻击掷骰的加值。此外，穿戴者投掷的任何武器的射程增量获得+10尺加值。在腰带穿戴的最初24小时内，该力量加值视为临时属性加值。
+|req=[[制造奇物]]、[[牛之力量]]、[[长距射击]]
+|cost=7,000 gp
+|source=极限宝具
+}}

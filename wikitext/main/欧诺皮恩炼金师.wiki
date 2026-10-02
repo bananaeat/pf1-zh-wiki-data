@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 14），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=欧诺皮恩炼金师
+|english_name=Oenopion Alchemist
+|type=地区
+|prerequisites=奈克斯
+|description=你曾随欧诺皮恩的炼金术士学习，在那里的人造人工厂、魔像工坊和软泥殖地中精进技艺。你的[[工艺]]（炼金）检定获得+1背景加值。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Oenopion%20Alchemist
+}}

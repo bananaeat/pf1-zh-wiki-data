@@ -1,0 +1,11 @@
+{{Feat
+|name=回返投掷
+|english_name=Returning Throw
+|categories=战斗;团队
+|description=你已经把致命的童年游戏变成了一种战术优势。
+|prerequisites=[[近距射击]]，[[精准射击]]，[[巧手]]3级，地精亚种（goblinoid subtype）。
+|benefit=每当一名同样拥有该专长的盟友用投掷武器进行了一次未命中其目标的攻击、且其攻击检定低于目标的AC为4或更低时，你可以以一个[[直觉动作]]抓住该武器。你和你的盟友都必须距这名目标30尺内，且你必须可在你的方格到你的盟友的方格间，能描绘出一根穿过了该目标方格的线。作为接住该武器动作的一部分，你可以将武器掷向其原先的攻击目标。如果你的目标以前从未见过你执行过该动作，那么对你的攻击他会失去其在AC上的敏捷加值。你在使用该专长时，必须拥有至少一只自由的手。你必须能意识到该攻击，且不能[[措手不及]]（flat-footed）。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

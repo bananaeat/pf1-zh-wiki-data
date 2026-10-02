@@ -1,0 +1,10 @@
+{{Feat
+|name=投毒引导
+|english_name=Poisoner's Channel
+|description=你的引导负能量不但会伤害敌人，还能让他们在面对毒药的侵袭时更加虚弱
+|prerequisites=引导负能量3d6，信仰诺格巴
+|benefit=每天一次，当你引导负能量伤害活物时，你可以使任何在对抗[[引导能量]]的豁免检定失败的生物在对抗毒素的豁免检定上承受-4减值。这一减值持续一分钟。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

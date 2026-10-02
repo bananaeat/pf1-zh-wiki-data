@@ -1,0 +1,49 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #104: Wrath of Thrune
+|authors=Thurston Hillman
+|pages=96
+}}
+
+{{书页/简介|head=地狱之怒！|1=
+名为荣耀光复军（Glorious Reclamation）的骑士团继续对魔鬼当道的切利亚斯展开讨伐，攻占了坎塔里亚（Kantaria）镇——女神[[艾奥梅黛]]昔日曾以凡人之身统治于此。如今已是特鲁恩家族正式特工的邪恶冒险者们必须夺回这座城镇，让骑士们失去一处宝贵的圣地。在这场荣耀光复军迄今最大规模的领土扩张中，邪恶的角色们能否重创对手、赢得更大的恶名与声望？还是说，骑士们的叛乱将在切利亚斯全境不受遏制地蔓延？
+
+本册《冒险之路》延续「地狱复仇」冒险之路，内容包括：
+
+* 《特鲁恩之怒》，一部面向 4 级角色的开拓者冒险，作者 Thurston Hillman。
+* 坎塔里亚地志——这是荣耀光复军攻占的第一座切利亚斯城镇，也是[[艾奥梅黛]]信仰的圣地，作者 Thurston Hillman。
+* 探究切利亚斯最有权势的贵族家族——「三度诅咒」的特鲁恩家族——的历史与内部运作，作者 Linda Zayas-Palmer。
+* 「探索者日志」中的阴险低语与凶险威胁，作者 Josh Vogt。
+* 一份由危险而刺激的新怪物组成的怪物图鉴，作者 Thurston Hillman、Jason Keeley、Kalervo Oikarinen。
+}}
+
+'''冒险之路104：特鲁恩之怒'''（''Pathfinder #104: Wrath of Thrune''）是[[冒险之路]]「地狱复仇」系列的一部冒险，由 Thurston Hillman 撰写，配套文章出自 Robert G. McCreary、Linda Zayas-Palmer、Jason Keeley 和 Kalervo Oikarinen，小说出自 Josh Vogt，于 2016 年 3 月 30 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+特鲁恩之怒 @ 4
+NPC 图集 @ 56
+- Linton Demeer
+- Oppian Nevilindor
+- Zara Orcelani
+认识反派：Linxia Benzekri @ 62
+坎塔里亚（Kantaria） @ 64
+「三度诅咒」的特鲁恩家族 @ 68
+探索者日志：懦夫与乌鸦（2／6） @ 76
+怪物图鉴 @ 82
+- [[埃雷利姆]]（天使）
+- [[烈风怨灵]]
+- [[希拉卡帕斯]]
+- [[晶透水母人]]
+}}
+
+{{书页尾
+|pfw=Wrath of Thrune
+|releases=Softcover¦PZO90104¦2016-03¦978-1-60125-824-3；PDF¦PZO90104E¦¦
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

@@ -1,0 +1,10 @@
+{{Feat
+|name=卑鄙协作
+|english_name=Underhanded Teamwork
+|categories=战斗;团队
+|description=你和你的队友知道如何联手耍赖，使敌人陷入困境。
+|prerequisites=寓守于攻；精通阴招
+|benefit=当一名同样拥有这个专长的队友对一名你们都威胁的敌人使用阴招战技时，你可以以一个直觉动作使其造成的状态的持续时间延长1轮。
+|source_name=初探探索者协会
+|source_url=https://pf1chm.pages.dev/topics/page_547.html
+}}

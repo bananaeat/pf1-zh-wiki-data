@@ -1,0 +1,41 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=小熊猫
+|english_name=Red Panda
+|cr=1/2
+|xp=200
+|alignment=绝对中立
+|size=超小型
+|type=动物
+|init=+3
+|senses=昏暗视觉，灵敏嗅觉；察觉 +5
+|ac=16，接触 15，措手不及 13（+3 敏捷，+1 天生，+2 体型）
+|hp=4（1d8）
+|fort=+2
+|ref=+5
+|will=+1
+|speed=20 尺，攀爬 20 尺
+|melee=啮咬 +5（1d3–1）
+|space=2–1/2 尺
+|reach=0 尺
+|str=8
+|dex=16
+|con=11
+|int=2
+|wis=13
+|cha=5
+|bab=+0
+|cmb=+1
+|cmd=10
+|feats=[[武器娴熟]]
+|skills=[[特技]] +9;[[攀爬]] +15;[[察觉]] +5
+|racial_mods=+6 特技，+4 攀爬
+|environment=温带森林或山地
+|organization=单独或一对配偶
+|treasure=无
+|source=怪物图鉴5
+|lore=
+小熊猫是体型小、腿短的树栖哺乳动物，以红褐色的皮毛和攀爬能力著称。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Red Panda|2=Red Panda}}

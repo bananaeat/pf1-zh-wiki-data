@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[贤者之音]] 的神话版本。</small></div>
+{{Feat
+|name=贤者之音
+|english_name=Voice of the Sibyl
+|categories=神话
+|description=仅仅使用你的声音，就已经能够压制弱者和意志脆弱的人。
+|prerequisites=[[贤者之音]]
+|benefit=每拥有3个阶层，你就能够在[[唬骗]]、交涉以及表演（演讲）技能检定中获得+1加值。这些加值与[[贤者之音]]专长的叠加。若你在其中至少两项技能中拥有10或更高的等级，那么任何你所施放的依赖语言法术DC获得+2加值。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

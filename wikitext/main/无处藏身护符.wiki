@@ -1,0 +1,13 @@
+{{魔法物品
+|name=无处藏身护符
+|english_name=Amulet of Inescapable Location
+|aon=MagicCursedDisplay.aspx?ItemName=Amulet of Inescapable Location
+|cat=诅咒物品
+|aura=中等防护系
+|cl=10
+|slot=颈部
+|weight=1/2磅
+|description=这件器物看起来能够像回避侦测护符那样，防止佩戴者被定位、探知和侦测，或受到[[侦测思想]]、[[心灵感应]]的影响。实际上，这枚护符使佩戴者在对抗所有预言系法术的豁免上承受-10减值。
+|req=[[回避侦测护符]]
+|source=核心规则书、极限宝具
+}}

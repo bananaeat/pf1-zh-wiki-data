@@ -1,0 +1,10 @@
+{{Trait
+|name=谨小慎微
+|english_name=Meticulous
+|type=缺陷
+|pfs=否
+|description=你惯于事先规划好所有细节，而不擅长处理不按计划进行的事件。
+|benefit=你未经训练的技能检定有-2罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

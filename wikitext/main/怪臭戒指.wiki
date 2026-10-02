@@ -1,0 +1,16 @@
+{{魔法物品
+|name=怪臭戒指
+|english_name=Ring of the Troglodyte
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of the Troglodyte
+|cat=戒指
+|aura=微弱咒法系
+|cl=5
+|slot=戒指
+|price=12,000 gp
+|description=每天2次，穿戴者可以用命令字产生一股骇人的恶臭，影响穿戴者以外、半径10尺内的所有活物。恶臭一旦产生，就会以穿戴者为中心持续存在，直到她以[[自由动作]]解除它。这是一个毒素效果。
+
+任何受到戒指所产生的恶臭影响的生物，在其回合开始时处于戒指恶臭半径内，都必须通过DC 14的强韧豁免，否则会[[恶心]]1轮。如果它们已经处于恶心状态，则改为[[反胃]]1轮。
+|req=[[锻造戒指]]、[[臭云术]]
+|cost=6,000 gp
+|source=极限宝具
+}}

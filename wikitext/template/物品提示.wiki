@@ -1,0 +1,4 @@
+<includeonly>{{#invoke:条目提示|item|{{{1|}}}}}</includeonly><noinclude>
+悬停提示用的物品卡，'''直接读条目页'''（含完整正文），不走数据层——正文动辄上千字，数据层单格上限 400。
+<pre>&lt;span class="huiji-tt" data-template="物品提示" data-params="永恒迷雾斗篷"&gt;永恒迷雾斗篷&lt;/span&gt;</pre>
+只在 ≥768px 的 PC 上生效。渲染见 [[模块:条目提示]]。[[分类:模板]]</noinclude>

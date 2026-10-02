@@ -1,0 +1,10 @@
+{{Feat
+|name=精灵武技
+|english_name=Elven Battle Style
+|categories=战斗;流派
+|description=你使用传统精灵武器的姿势华丽而优雅。
+|prerequisites=精灵战斗训练ARG，武器娴熟，基本攻击加值+1，武器熟悉种族特性
+|benefit=当你持用[[长剑]]、[[细剑]]、或者任何冠以“精灵”之名的近战武器时，用这些武器在[[借机攻击]]中尝试的[[战技]]检定不会让你引起借机攻击。
+|source_name=武器大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_420.html
+}}

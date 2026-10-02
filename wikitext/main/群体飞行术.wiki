@@ -1,0 +1,16 @@
+{{Spell
+|name=群体飞行术
+|english_name=Fly, mass
+|school=变化系
+|domains=飞羽子域 6
+|levels=奥能师 7;异能者 7;术士 7;法师 7
+|action=标准动作
+|components=语言;姿势;法器（一根翼羽）
+|range=近距
+|target=每等级一个生物，互相之间不超过30尺
+|duration=10分钟/等级
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=这个法术工作方式如同[[飞行术]]，除了它可以作用于复数目标以及持续时间更长。
+|source=进阶玩家指南
+}}

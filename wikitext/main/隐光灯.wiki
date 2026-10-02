@@ -1,0 +1,15 @@
+{{魔法物品
+|name=隐光灯
+|english_name=Lantern of Hidden Light
+|aon=MagicWondrousDisplay.aspx?FinalName=Lantern of Hidden Light
+|cat=奇物
+|aura=微弱塑能系
+|cl=5
+|slot=无
+|price=1,000 gp
+|weight=2磅
+|description=隐光灯对于那些想在黑暗的区域里视物、又不愿被习惯黑暗的人发现的人来说，堪称无价之宝。这盏魔法提灯通过触碰其中一块水晶面板来激活，功能如同一盏附盖提灯，只是它发出的光线（和照亮的事物）只有单手持握着提灯的角色才能看见。在其他观察者看来，提灯始终像是没有点燃，也看不出有任何光亮透出。
+|req=[[制造奇物]]、[[光亮术]]
+|cost=500 gp
+|source=冒险者指南
+}}

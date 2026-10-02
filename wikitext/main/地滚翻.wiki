@@ -1,0 +1,11 @@
+{{Feat
+|name=地滚翻
+|english_name=Landing Roll
+|categories=战斗
+|description=你知道如何安全地离开一个对你进行[[摔绊]]的敌人。
+|prerequisites=敏捷13，[[闪避]]，[[灵活移动]]。
+|benefit=当你被摔绊，你可以花费[[直觉动作]]移动5尺，且不引发[[借机攻击]]。这个移动不计入[[5尺快步]]。你在移动完毕后才会倒地。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

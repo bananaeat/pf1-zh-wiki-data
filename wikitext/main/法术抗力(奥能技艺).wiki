@@ -1,0 +1,13 @@
+<noinclude>{{消歧义|法术抗力}}</noinclude>
+<noinclude>{{奥能师导航}}
+'''法术抗力'''（Spell Resistance, Su）是[[奥能师]]的[[奥能技艺|奥能技艺]]。
+
+</noinclude>{{Source|进阶职业指南|Advanced Class Guide|inline}}
+
+以一个标准动作从奥能源泉中消费1点，奥能师可以在等于他魅力调整值的轮数（至少为1）的时间内赋予他自身[[特殊能力#法术抗力|法术抗力]]。此法术抗力等于“6+奥能师等级”且不能被压制，但可以在他的回合以一个[[自由动作]]解除。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_96.html 原文]），按 AoN 核对过。全部奥能技艺见 [[奥能技艺]]。
+
+[[分类:奥能技艺]]
+
+{{职业}}</noinclude>

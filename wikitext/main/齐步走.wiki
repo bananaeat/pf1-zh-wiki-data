@@ -1,0 +1,10 @@
+{{Feat
+|name=齐步走
+|english_name=Stick Together
+|categories=战斗;团队
+|description=战斗中，你紧跟盟友的脚步。
+|benefit=当一个拥有该专长的邻接你的盟友移动时，你可以以一个[[直觉动作]]移动最多等于你速度的距离，最终停留点必须仍邻接那位盟友。若你如此做，在你下一回合你将会[[恍惚]]。该种移动正常引发[[借机攻击]]。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}

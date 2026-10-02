@@ -1,0 +1,11 @@
+{{Trait
+|name=石像
+|english_name=Statuesque
+|type=种族
+|prerequisites=[[土元素裔]]
+|description=你继承了你那土灵双亲如雕像般的身体特征。[[易容]]成为你的[[本职技能]]，并在易容成一种特定石材(如大理石、砂岩或雪花石膏)构筑的雕像时，易容检定获得+2背景加值。此外，你在易容成其他类型生物的雕像时没有任何罚值。当你选择这个背景元素时，你必须指定一种石材。一旦作出选择就不能再更改。
+
+|source_name=种族背景
+|source=BoE
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

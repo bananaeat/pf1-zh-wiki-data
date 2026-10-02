@@ -1,0 +1,9 @@
+{{Trait
+|name=战斗激情
+|english_name=Zest for Battle
+|type=种族
+|prerequisites=[[矮人]]
+|description=战斗是你最大的快乐，以正义或是卑劣的理由尽情鞭笞你的敌人吧！当你在武器攻击检定上拥有士气加值时，你在武器伤害检定上同样获得+1背景加值。
+|source_name=格拉里昂的矮人
+|source_url=https://pf1chm.pages.dev/topics/page_1586.html
+}}

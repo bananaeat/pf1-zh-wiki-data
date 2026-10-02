@@ -1,0 +1,15 @@
+{{魔法物品
+|name=舒适披风
+|english_name=Comfort's Cloak
+|aon=MagicWondrousDisplay.aspx?FinalName=Comfort's Cloak
+|cat=奇物
+|aura=微弱防护系、死灵系
+|cl=5
+|slot=肩部
+|price=15,600 gp
+|weight=1磅
+|description=被游侠所喜欢的披风，它由兽皮和毛皮拼缝而成。穿戴者受到永久的忍受环境效果影响，并且穿戴者在对抗疾病、能量吸取、可能造成疲乏和力竭的效果、毒素时的豁免检定得到+4表现加值。额外的，每当穿戴者休息8小时后，他的自然恢复速度为每HD2点，而非每HD1点。若穿戴者完整休息24小时的话，他的自然恢复速度为每HD5点，而非每HD2点。
+|req=[[制造奇物]]、[[忍受环境]]
+|cost=7,800 gp
+|source=极限宝具
+}}

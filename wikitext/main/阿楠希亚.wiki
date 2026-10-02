@@ -1,0 +1,42 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=阿楠希亚
+|english_name=Ananshea
+|title=踏齿而行之皮（The Skin That Walks on Teeth）
+|alignment=混乱邪恶（CE）
+|weapon=[[反曲刀]]
+|portfolio=残暴，酷刑，野生动物
+|domains=[[动物领域|动物]]，[[毁灭领域|毁灭]]，[[邪恶领域(领域)|邪恶]]，[[力量领域|力量]]
+|subdomains=[[邪恶领域(领域)#恐惧子域 (Fear)|恐惧子域]]，[[力量领域#凶猛子域 (Ferocity)|凶猛子域]]，[[毁灭领域#狂暴子域 (Rage)|狂暴子域]]，[[邪恶领域(领域)#恐亡魔子域 (Sahkil)|恐亡魔子域]]，[[毁灭领域#折磨子域 (Torture)|折磨子域]]
+|pantheon=恐亡魔摧残者
+|source=永罪之书
+}}
+
+'''阿楠希亚'''（Ananshea）是一位[[恐亡魔摧残者]]。
+
+== 简介 ==
+
+阿楠希亚在被挑衅时会变得鲁莽冲动，但在谋划消灭敌人时却工于心计。祂掌管着西巴尔巴（Xibalba）的一部分围墙，那里布满了淫猥的陷阱和暴虐的生物，它们都臣服于踏齿而行之皮。
+
+{{AI翻译|nocat=1|本段中原先残留的英文称号（The Skin That Walks on Teeth）由 AI 译出，未经人工校对。}}
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+用你的天生武器或利刃撕裂自己的肉身，对自己造成1d4点伤害。你在对抗动物或虫类的攻击时AC获得+3亵渎加值。
+
+=== 神恩 ===
+
+恐亡魔摧残者的神恩以类法术能力的形式体现，每个每日可使用2次。
+
+{{神恩|n=1|name=|en=|type=Sp|text=[[血浴]] 2次/日。}}
+
+{{神恩|n=2|name=|en=|type=Sp|text=[[恐惧术]] 2次/日。}}
+
+{{神恩|n=3|name=|en=|type=Sp|text=[[剑刃护壁]] 2次/日。}}
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh88d992af50.htm 原文]），原在总页 [[恐亡魔摧残者]]。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Ananshea|2=Ananshea}}
+[[分类:魔神]]

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=戏法披风
+|english_name=Prestidigitator's Cloak
+|aon=MagicWondrousDisplay.aspx?FinalName=Prestidigitator's Cloak
+|cat=奇物
+|aura=微弱幻术系、变化系
+|cl=5
+|slot=肩部
+|price=17,200 gp
+|weight=1磅
+|description=这件黑色短披风使穿戴者在妙手检定上获得+8表现加值。此外，穿戴者可以用一个整轮动作把披风脱下，披在一件占据不超过5尺见方、重量不超过100磅的单个物体上，该物体随即消失，被收进披风内的一个异次元空间。物体在披风里最多停留1小时，时间一到就会掉落在披风或其穿戴者相邻的一个格子里。穿戴者也可以命令披风把物体排出到相邻的格子里。
+|req=[[制造奇物]]、[[神导术]]、[[魔绳术]]
+|cost=8,600 gp
+|source=极限宝具
+}}

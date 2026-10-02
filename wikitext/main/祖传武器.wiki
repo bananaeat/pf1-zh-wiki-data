@@ -1,0 +1,11 @@
+{{Trait
+|name=祖传武器
+|english_name=Ancestral Weapon
+|type=地区
+|prerequisites=纽梅利亚
+|pfs=否
+|description=在群星雨之日来临之前，你的祖先就曾挥舞着这把神圣的部落武器，而你继承了它！你从小就接受了使用该武器的训练。选择{{材料|寒铁}}或银。你在游戏开始时就拥有一把以你所选的材料制作的精制近战武器。你必须擅长该武器，且其成本不能超过500gp。你在使用你所选的材料的武器进行攻击时获得+1的背景加值。
+|source_name=河域子民
+|source=PotR
+|source_url=https://pf1chm.pages.dev/topics/zh576fd36972.htm
+}}

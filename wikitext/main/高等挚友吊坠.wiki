@@ -1,0 +1,14 @@
+{{魔法物品
+|name=高等挚友吊坠
+|english_name=Best Friend Pendant, Greater
+|aon=MagicWondrousDisplay.aspx?FinalName=Best Friend Pendant, Greater
+|cat=奇物
+|aura=中等咒法系、变化系
+|cl=7
+|slot=颈部
+|price=9,000 gp
+|description=这件颈饰由精细锻造的铂金制成，是挚友吊坠的改良版。除了挚友吊坠的一般能力外，它还能吸收中型和大型动物，以及超小型或小型的元素生物、魔法兽和异界生物。元素生物、魔法兽和异界生物不需要通过驯养动物检定就能自愿进入项链，但GM可酌情要求采取其他形式的胁迫。
+|req=[[制造奇物]]、[[任意门]]、[[动物缩小术]]
+|cost=4,500 gp
+|source=极限诡道
+}}

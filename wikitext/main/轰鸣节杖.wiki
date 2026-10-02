@@ -1,0 +1,15 @@
+{{魔法物品
+|name=轰鸣节杖
+|english_name=Booming Scepter
+|aon=MagicRodsDisplay.aspx?FinalName=Booming Scepter
+|cat=权杖
+|aura=中等塑能系
+|cl=7
+|slot=无
+|price=34,000 gp
+|weight=4磅
+|description=这根镶有宝石的节杖不断发出低沉的嗡嗡声，放大持用者的声音。轰鸣节杖视为一把+1雷鸣[[轻型硬头锤]]，并赋予持用者威吓检定的+5表现加值，以及每天1次使用[[咆哮术]]（如同该法术）的能力。当双手持握轰鸣节杖时，无论环境噪音或有何阻隔，1英里内的所有生物都能听到持用者的声音，但该能力无法穿透[[沉默术]]的区域。
+|req=[[制造魔法武器和防具]]、[[制造权杖]]、[[咆哮术]]、[[腹语术]]
+|cost=17,000 gp
+|source=皇庭英豪
+}}

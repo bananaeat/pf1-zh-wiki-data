@@ -1,0 +1,19 @@
+{{魔法物品
+|name=权柄法杖
+|english_name=Staff of Authority
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Authority
+|cat=法杖
+|aura=中等（学派不定）
+|cl=8
+|slot=无
+|price=23,000 gp
+|weight=5磅
+|description=这根结实的包铁法杖视为+1/+1[[木棍]]。它可以使用以下法术：
+
+* [[强迫安静]]UM（1 发）
+* [[拷问]]UM（1 发）
+* [[闲极无聊]]UM（2 发）
+|req=[[制造法杖]]、[[强迫安静]]、[[拷问]]、[[闲极无聊]]
+|cost=11,800 gp
+|source=极限宝具
+}}

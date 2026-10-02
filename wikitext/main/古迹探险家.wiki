@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Skull & Shackles Player's Guide pg. 4），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=古迹探险家
+|english_name=Ancient Explorer
+|type=战役
+|pfs=否
+|description=你研究格拉利昂的上古历史，来到镣铐群岛探索独眼巨人帝国格尔甘那些摇摇欲坠、藤蔓缠绕的废墟，它们已在镣铐群岛的岛屿间荒废了数千年。你的[[知识]]（历史）和知识（本地）检定获得+1背景加值，并且这两项技能之一成为你的本职技能。此外，你获得独眼巨人语或通语作为一门额外语言。
+
+昨晚你去了亡命港一家名叫“悍女”的酒馆，与一名联络人见面，据说他有一张失落的独眼巨人遗迹的古老地图要卖，但酒比你预想的烈，你还没谈成交易就醉倒了。
+|source_name=Skull & Shackles Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Ancient%20Explorer
+}}

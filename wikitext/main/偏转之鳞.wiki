@@ -1,0 +1,15 @@
+{{Spell
+|name=偏转之鳞
+|english_name=Scales of deflection
+|school=防护系
+|tags=龙类
+|levels=血脉狂怒者 2;召唤师 3;召唤师（掉链） 3;唤魂师 3;圣武士 3;奥能师 3;异能者 3;术士 3;法师 3;秘学士 3;魔战士 3
+|action=标准动作
+|components=语言;材料（一枚龙鳞）
+|range=个人
+|target=自己
+|duration=1分钟/等级（见正文）
+|sr=否
+|description=明亮的龙形图像包围着你，样式与你的龙族血脉相匹配（或是与你阵营相符的一种龙）。任何[[接触攻击]]都需要对抗你通常的AC。当这样的一次攻击发生后，此法术将在你的下回合结束时消解。
+|source=巨龙遗产
+}}

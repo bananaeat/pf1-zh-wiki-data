@@ -1,0 +1,13 @@
+{{Feat
+|name=鹿角击
+|english_name=Stag Horns
+|categories=战斗
+|pfs=否
+|description=你已学会佯装放弃冲锋以获得对敌人的上风优势，在攻击之后对其进行有力控制。
+|prerequisites=敏捷13，鹿冲流，闪避，精通徒手打击，灵活移动
+|benefit=当你使用鹿冲流时，如果你在冲锋结束时进行了一次成功的徒手攻击，那么你可以免费对目标进行一次不会引发借机攻击的擒抱检定。
+|normal=尝试擒抱检定需要一个标准动作，且除非拥有精通擒抱专长，否则会引发目标的借机攻击。
+|source=HotW
+|source_name=荒野英雄
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

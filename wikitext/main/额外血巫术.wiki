@@ -1,0 +1,11 @@
+{{Feat
+|name=额外血巫术
+|english_name=Extra Blood Hex
+|categories=血巫术
+|description=跟大多数人相比，你与血巫术的联系更加紧密。
+|prerequisites=智力15，2个或以上血巫术专长，法术辨识5级，使用魔法装置5级
+|benefit=你每天能多使用2次血巫术。
+|special=你能多次选取该专长，每选取一次就能每天额外多使用2次血巫术。拥有该专长的角色在获得萨满或女巫等级时能立即用其他满足先决条件的血巫术专长取代该专长。
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_343.html
+}}

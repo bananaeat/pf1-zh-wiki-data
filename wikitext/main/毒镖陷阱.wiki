@@ -1,0 +1,13 @@
+{{危害
+|name=毒镖陷阱
+|english_name=Poisoned Dart Trap
+|kind=陷阱
+|trap_type=机械
+|cr=1
+|perception=DC 20
+|disable=DC 20
+|trigger=接触型
+|reset=无
+|effect=远程攻击 +10（1d3，外加[[绿血油]]）
+|source=核心规则书
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Streets pg. 5），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=多语通
+|english_name=Cultivated
+|type=地区
+|prerequisites=任意城市
+|description=你从小就说好几种语言。你额外学会一门语言。此外，当你使用这门语言进行[[交涉]]检定来收集信息时，你只需1d6×10分钟即可完成，而非通常的1d4小时。
+|source_name=市井英雄
+|source=HotS
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Cultivated
+}}

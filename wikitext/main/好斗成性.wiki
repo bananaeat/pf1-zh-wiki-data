@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Strange Aeons Player's Guide pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=好斗成性
+|english_name=Pugnacious
+|type=战役
+|pfs=否
+|description=你在疯人院中醒来时肌肉酸痛、指节带血，仿佛刚打过一架。你甚至隐约觉得自己打赢了。你说不清缘由，但你知道自己向来一点就着，被逼到墙角时的第一反应就是出手反击。被困在疯人院里让你焦躁不安，你不仅想弄清自己身上发生了什么，还想重获自由，找出对你下手的人——并让他们付出代价。
+
+当你被两个或更多敌人威胁时，你的攻击检定获得+1背景加值。此外，每天一次，你可以用一个直觉动作获得以下效果之一：你的近战攻击触及增加5尺，持续1轮；或者在决定伤害时，将你的武器视为比实际大一个体型等级，持续1轮。
+|source_name=Strange Aeons Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Pugnacious
+}}

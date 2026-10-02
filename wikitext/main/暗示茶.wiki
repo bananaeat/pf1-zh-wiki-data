@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=暗示茶
+|english_name=Suggestive Tea
+|aon=MagicWondrousDisplay.aspx?FinalName=Suggestive Tea
+|cat=奇物
+|aura=微弱惑控系
+|cl=5
+|slot=无
+|price=1,500 gp
+|description=一份这种干茶叶足以为一个生物冲泡一杯可口的茶，该生物喝下茶后的1小时内会任凭暗示摆布。在此期间，任何人都可以向饮用者提出一项行动，饮用者会尽其所能执行这个命令，如同[[暗示术]]（DC 14意志豁免可以抵消）。此外，喝下这种茶的角色不会记得执行强迫命令期间所发生的事。
+|req=[[制造奇物]]、[[篡改记忆]]、[[暗示术]]
+|cost=750 gp
+|source=冒险之路67：夏日之雪
+}}

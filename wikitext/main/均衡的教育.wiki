@@ -1,0 +1,9 @@
+{{Trait
+|name=均衡的教育
+|english_name=Balanced Education
+|type=地区
+|prerequisites=阿努利
+|description=你受到的教育重点在于身体与心灵的同步，每天一次，你可以用肉体属性代替精神属性进行技能检定，或者用精神属性代替肉体属性进行技能检定。你只能用下面的组合替代属性：力量与智力，敏捷与感知，体质与魅力。
+|source_name=遥远世界
+|source_url=https://pf1chm.pages.dev/topics/zh626a683d0a.htm
+}}

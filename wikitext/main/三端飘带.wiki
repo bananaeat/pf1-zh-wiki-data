@@ -1,0 +1,14 @@
+{{魔法物品
+|name=三端飘带
+|english_name=Ribbon of the Three
+|aon=MagicWondrousDisplay.aspx?FinalName=Ribbon of the Three
+|cat=奇物
+|aura=中等变化系
+|cl=9
+|slot=无
+|price=60,000 gp
+|description=这条绿色的飘带形如玛芙的三端之结。穿戴者得到三张脸，分别代表他性格的不同方面，就如同持续处于三重面相法术影响之下。
+|req=[[制造奇物]]、[[三重面相]]
+|cost=30,000 gp
+|source=第一世界的遗产
+}}

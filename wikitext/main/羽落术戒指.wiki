@@ -1,0 +1,14 @@
+{{魔法物品
+|name=羽落术戒指
+|english_name=Ring of Feather Falling
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Feather Falling
+|cat=戒指
+|aura=微弱变化系
+|cl=1
+|slot=戒指
+|price=2,200 gp
+|description=这枚[[魔法物品#戒指|戒指]]的边缘一圈制成羽毛图案。它的作用与[[羽落术]]法术完全相同，当穿戴者坠落超过5尺时立即启动。
+|req=[[锻造戒指]]、[[羽落术]]
+|cost=1,100 gp
+|source=核心规则书、极限宝具
+}}

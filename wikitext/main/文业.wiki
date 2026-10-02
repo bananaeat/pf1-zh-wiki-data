@@ -1,0 +1,22 @@
+{{速查导航|here=神祇}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出，CHM 汉化里没有这一位的译文，未经人工校对。}}
+{{神祇
+|name=文业
+|english_name=Fumeiyoshi
+|title=嫉妒之主（Lord of Envy）
+|alignment=中立邪恶（NE）
+|weapon=薙刀
+|portfolio=屈辱，嫉妒，坟墓，亡灵
+|domains=[[死亡领域|死亡]]，[[毁灭领域|毁灭]]，[[邪恶领域(领域)|邪恶]]，[[安眠领域|安眠]]，[[战争领域|战争]]
+|subdomains=[[战争领域#鲜血子域 (Blood)|鲜血子域]]，[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[毁灭领域#仇恨子域 (Hatred)|仇恨子域]]，[[毁灭领域#狂暴子域 (Rage)|狂暴子域]]，[[安眠领域#灵魂子域 (Souls)|灵魂子域]]，[[战争领域#战术子域 (Tactics)|战术子域]]，[[死亡领域#亡灵子域 (Undead)|亡灵子域]]
+|symbol=红色的恶魔面孔
+|animal=狼
+|centers=Chu Ye，众灵之森（Forest of Spirits），明海，深汶
+|nationality=明族人（Tian-Min）
+|pantheon=天夏神祇
+|source=龙国舆图
+}}
+
+'''文业'''（Fumeiyoshi），称号「嫉妒之主」，是天夏神祇之一，主管屈辱、嫉妒、坟墓与亡灵；其信徒多为天民（Tian-Min）。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Fumeiyoshi|2=Fumeiyoshi}}

@@ -1,0 +1,11 @@
+{{Trait
+|name=大地感应
+|english_name=Earthsense
+|type=种族
+|aliases=谛听
+|prerequisites=[[土元素裔]]
+|description=你仍在子宫时就莫明奇妙地被元素力量转化，使你跟大地的连系异常地强。以[[迅捷动作]]，你能获得[[颤动感知]]60尺持续至你下回合的开始前。在1级时你能使用此能力每天1次，在5级和以后每5级你能每天额外使用1次，至20级时的最多每天5次。
+|source_name=元素血脉
+|source=BotE
+|source_url=https://pf1chm.pages.dev/topics/zh7517ece198.htm
+}}

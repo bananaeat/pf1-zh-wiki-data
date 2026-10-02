@@ -1,0 +1,16 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[锋鸣碎片 (神话)]]。</small></div>
+{{Spell
+|name=锋鸣碎片
+|english_name=Chord of shards
+|school=塑能系
+|levels=吟游诗人 1;歌者 1
+|action=标准动作
+|components=语言;姿势
+|range=15尺
+|area=锥形爆发范围
+|duration=立即
+|save=反射，通过则无效
+|sr=否
+|description=在你进行吟游表演时，你能够通过激起共鸣将音符化作水晶碎片组成的利刃之雨。碎片对影响区域内的所有生物造成2d6点穿刺伤害。
+|source=极限魔法
+}}

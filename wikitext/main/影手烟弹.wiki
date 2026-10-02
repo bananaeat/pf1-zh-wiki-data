@@ -1,0 +1,14 @@
+{{魔法物品
+|name=影手烟弹
+|english_name=Shadow Hand Smoke Pellet
+|aon=MagicWondrousDisplay.aspx?FinalName=Shadow Hand Smoke Pellet
+|cat=奇物
+|aura=中等咒法系
+|cl=7
+|slot=无
+|price=800 gp
+|description=这个精致的金属外壳里装着两组易挥发的炼金物质，类似[[烟玉]]所用的那种。球体破裂时，这些物质会混合起来，在一个10尺立方的区域内充满一团深灰色的烟雾，持续1分钟。使用者可以把烟弹当作远程接触攻击投掷出去，射程增量为10尺。半实体化的烟之手会纠缠烟雾中的生物，试图擒抱任何在烟雾中移动的人（CMB +7）。成功擒抱对手后，烟之手会在每一轮尝试维持擒抱，直到烟雾消散。
+|req=[[制造奇物]]、[[黑触手]]、[[隐雾术]]
+|cost=400 gp
+|source=极限诡道
+}}<!-- CHM 作 1，按 AoN 更正 -->

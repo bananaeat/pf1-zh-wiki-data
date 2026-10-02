@@ -1,0 +1,14 @@
+{{魔法物品
+|name=勘探手套
+|english_name=Gloves of Reconnaissance
+|aon=MagicWondrousDisplay.aspx?FinalName=Gloves of Reconnaissance
+|cat=奇物
+|aura=微弱预言系
+|cl=3
+|slot=手部
+|price=2,000 gp
+|description=这种露指的鞣制皮手套每一双看起来都曾被大量使用，往往沾着青草或湿泥的污渍或气味。依命令，穿戴者可以把双手按在固体材料上，透过这块不超过5尺厚的材料看见并听见另一侧的情形。穿戴者每天可以使用该手套一次，最长持续1分钟。穿戴者必须连续佩戴手套24小时，才能激活这项能力。
+|req=[[制造奇物]]、[[锐耳术/鹰眼术]]
+|cost=1,000 gp
+|source=极限宝具
+}}

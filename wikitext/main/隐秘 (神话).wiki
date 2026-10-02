@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[隐秘]] 的神话版本。</small></div>
+{{Feat
+|name=隐秘
+|english_name=Stealthy
+|categories=神话
+|description=你的隐秘行动能力无人能够媲美。
+|prerequisites=[[隐秘]]
+|benefit=隐秘专长对脱逃与隐匿技能检定带来的加值增加2点。此外，你能够花费1次神话之力，使得1次脱逃或者隐匿检定就好像自然掷出20一般。你必须在进行检定之前决定使用该能力。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=无畏肉垫靴
+|english_name=Daredevil Softpaws
+|aon=MagicWondrousDisplay.aspx?FinalName=Daredevil Softpaws
+|cat=奇物
+|aura=微弱惑控系
+|cl=3
+|slot=脚部
+|price=1,400 gp
+|weight=1磅
+|description=这双魔法肉垫靴（参见肉垫靴的描述）能让穿着它的猫族在穿越险地时获得额外的机动性。以自由动作，穿戴者可以并拢脚跟轻叩一下，使自己每天至多10轮内，在为穿过受威胁的格子、或为穿过敌人的空间而不引发借机攻击所做的特技检定上获得+5表现加值。这些轮数不必连续。此外，每当穿戴者成功穿过敌人的空间而没有引发借机攻击时，她对该敌人的攻击检定获得+2加值，持续到她的回合结束。
+|req=[[制造奇物]]、[[猫之优雅]]
+|cost=700 gp
+|source=进阶种族手册
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=猫之靴
+|english_name=Boots of the Cat
+|aon=MagicWondrousDisplay.aspx?FinalName=Boots of the Cat
+|cat=奇物
+|aura=微弱变化系
+|cl=1
+|slot=脚部
+|price=1,000 gp
+|weight=1磅
+|description=这双蓝色高底靴十分舒适，足弓处也有良好的支撑，还会让穿戴者看起来比平常略高一些。穿戴者坠落时总是只受到最小伤害（视为GM对坠落造成的每个伤害骰都掷出了1），并且在坠落结束时总是双脚着地。
+|req=[[制造奇物]]、[[羽落术]]
+|cost=500 gp
+|source=极限宝具
+}}

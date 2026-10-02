@@ -1,0 +1,10 @@
+{{Trait
+|name=厌恶狗味
+|english_name=Dog-Sniff-Hate
+|type=种族
+|prerequisites=[[地精]]
+|description=你获得[[灵敏嗅觉]]特殊能力(Bestiary 304)，但只针对犬科生物有效，例如狗或狼，包括异种犬类如[[地狱犬]],[[夜嘶猎犬]],甚至狼人。你在对抗你能闻到的狗的攻击骰获得+2背景加值。
+|source_name=格拉里昂的地精
+|source=Goblins of Golarion
+|source_url=https://pf1chm.pages.dev/topics/zh0c27dc639b.htm
+}}

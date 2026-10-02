@@ -1,0 +1,11 @@
+{{Feat
+|name=擒鼻锁嘴
+|english_name=Snoutgrip
+|categories=战斗
+|description=你可以封住对手的嘴。
+|prerequisites=[[寓守于攻]]，[[战斗反射]]，[[精通擒抱]]，[[精通徒手打击]]，基础攻击加值+12或武僧10级
+|benefit=每当体型至多比你大一级的对手使用对你使用啮咬攻击并落空时，你可以以一个直觉动作尝试以-5的罚值进行擒抱检定。如果你成功，则你抱住了你的对手并封住了他的嘴，直到他脱离了你的擒抱位置他都不能使用啮咬攻击，喷吐武器，法术中的语言成分。即使目标位于你的触及范围之外你也能尝试此擒抱检定。
+|source=DH
+|source_name=屠龙者手册
+|source_url=https://pf1chm.pages.dev/topics/page_820.html
+}}

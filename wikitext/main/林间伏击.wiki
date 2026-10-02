@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Wild pg. 22），民间汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=林间伏击
+|english_name=Forest Ambush
+|categories=战斗
+|description=你对自然环境了如指掌，能出其不意地攻击敌人，给予沉重一击。
+|prerequisites=隐匿1级，生存1级。
+|benefit=在自然环境中，你可以花费5分钟用松散的杂物（例如树枝、草或泥土）掩盖自己，并在隐匿检定上取20。你处于[[俯卧]]状态，并在判定能否进行隐匿检定时视为具有[[隐蔽]]。你可以用一个不引发借机攻击的[[整轮动作]]从藏身处跃出、起身，并对30尺内的一个目标进行一次近战攻击或远程攻击。如果目标在你跃出藏身处之前没有察觉到你，而你的攻击命中，这次攻击额外造成1d6点精准伤害。能抵消[[偷袭]]伤害的效果同样能抵消这些伤害。
+|source=HotW
+|source_name=荒野英雄
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Forest%20Ambush
+}}

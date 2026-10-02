@@ -1,0 +1,11 @@
+{{Feat
+|name=心灵注视
+|english_name=Mental Stare
+|categories=凝视
+|type=注视
+|description=盲眼催眠师已经学会了非视觉的世界感知法，使用催眠注视时也不再依赖视力。
+|prerequisites=催眠注视职业能力。
+|benefit=你的催眠注视能力无需依赖视力，且[[目盲]]时也无需尝试专注检定来维持注视。
+|source_name=格拉利昂的英雄
+|source_url=https://pf1chm.pages.dev/topics/zh040b2e617a.htm
+}}

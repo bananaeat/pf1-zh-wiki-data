@@ -1,0 +1,9 @@
+{{Trait
+|name=第六感
+|english_name=Outcast's Intuition
+|type=魔法
+|description=你能够透过表情观察出别人的思考，并能用这种直感强化你的魔法以抵御解除。你的察言观色检定获得+1背景加值，并且总能将察言观色视为你的[[本职技能]]。此外，在尝试解除你所施放的法术时，你的施法者等级视为高于实际1级。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

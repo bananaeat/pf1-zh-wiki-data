@@ -1,0 +1,16 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[随手投掷 (神话)]]。</small></div>
+{{Feat
+|name=随手投掷
+|english_name=Throw Anything
+|categories=战斗
+|description=你擅长投掷手中的物品。
+|benefit=你使用临时远程武器时无减值。你在溅射武器的攻击检定上获得+1环境加值。
+|normal=你在使用临时武器时攻击检定受-4减值。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[炼金打击]]、[[羽翼斗篷]]（2 个条目）

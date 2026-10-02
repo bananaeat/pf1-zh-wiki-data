@@ -1,0 +1,9 @@
+{{Feat
+|name=阅读空气
+|english_name=Read the Room
+|description=你瞥一眼就能读出对人群的氛围。
+|prerequisites=[[祝酒歌]]，[[交涉]]1级，[[表演]]（演唱）1级，[[察言观色]]1级
+|benefit=在你使用[[祝酒歌]]专长之前，你可以以一个[[自由动作]]尝试一次DC20的察言观色检定来为这些人群选择一个合适的歌曲。如果你成功了，你在这个酒馆进行的下一次搜集情报的交涉检定获得+4环境加值。
+|source_name=内海酒馆
+|source_url=https://pf1chm.pages.dev/topics/zh5b451adebe.htm
+}}

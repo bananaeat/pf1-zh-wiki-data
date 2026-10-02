@@ -1,0 +1,12 @@
+{{Feat
+|name=困惑注视
+|english_name=Confusing Stare
+|categories=战斗;凝视
+|pfs=否
+|description=你的注视搅乱了你的敌人的精神。
+|prerequisites=催眠师7级，痛苦注视职业特性
+|benefit=当你使用痛苦注视时，目标必须通过一次意志豁免（DC等于10+你的催眠师等级的一半+你的魅力调整值），失败则[[困惑]]（Confused）1轮。目标必须在决定困惑结果时掷骰两次，由你选择一个结果生效。
+|source=OAn
+|source_name=异能选集
+|source_url=https://pf1chm.pages.dev/topics/page_725.html
+}}

@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[健壮]] 的神话版本。</small></div>
+{{Feat
+|name=健壮
+|english_name=Toughness
+|categories=神话
+|description=你具有传奇般的耐久力与[[韧性]]。
+|prerequisites=[[健壮]]
+|benefit=健壮专长提供的生命值翻倍。此外，当你的生命值低于0点时，你获得DR 10/传奇。这个DR与任何其他你所具有的DR/传奇叠加。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

@@ -1,0 +1,9 @@
+{{装备
+|name=鼓风机
+|english_name=Bellows
+|cat=工具
+|price=1 gp
+|weight=3磅
+|description=鼓风机可以用来生火，在用于生火或维持火堆的生存检定上提供+1环境加值。
+|source=冒险者的军械库、进阶玩家指南、极限宝具
+}}

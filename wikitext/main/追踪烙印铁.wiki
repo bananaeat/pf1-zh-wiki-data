@@ -1,0 +1,15 @@
+{{魔法物品
+|name=追踪烙印铁
+|english_name=Branding Iron of Tracking
+|aon=MagicWondrousDisplay.aspx?FinalName=Branding Iron of Tracking
+|cat=奇物
+|aura=微弱预言系
+|cl=3
+|slot=无
+|price=9,000 gp
+|weight=5磅
+|description=这根长2尺的金属杆末端带有一个独特的印记。当印记在火中加热后，可以用来在生物或物体上烙印。烙印之后的任何时候，生物只要握住这根追踪烙印铁，就能知道最近一枚烙印所在的方向——对被烙印的物体，效果如同物体定位术；对被烙印的生物，效果如同生物定位术。追踪烙印铁只追踪烙印本身，因此把烙印切掉或刮掉就能骗过此物品。
+|req=[[制造奇物]]、[[烙印术]]、[[生物定位术]]、[[物品定位术]]
+|cost=4,500 gp
+|source=恶棍志
+}}

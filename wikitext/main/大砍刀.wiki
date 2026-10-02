@@ -1,0 +1,17 @@
+{{武器
+|name=大砍刀
+|english_name=Glaive
+|category=武器
+|prof=军用
+|wcat=双手
+|price=8 gp
+|weight=10磅
+|dmg_s=1d8
+|dmg_m=1d10
+|crit=×3
+|type=挥砍
+|special=长武
+|groups=长柄
+|description=大砍刀是把单刀加装在长约7尺的握柄上的武器。
+|source=核心规则书、极限宝具
+}}

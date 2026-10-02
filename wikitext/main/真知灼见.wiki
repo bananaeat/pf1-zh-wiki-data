@@ -1,0 +1,9 @@
+{{Trait
+|name=真知灼见
+|english_name=Seer of Reality
+|type=宗教
+|prerequisites=信仰[[义洛理]]
+|description=你对所处的世界有着深入的了解，因而你更容易分辨出何为真实而何为虚幻。在对抗幻术魔法时你在豁免上获得+2背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

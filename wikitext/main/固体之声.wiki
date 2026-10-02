@@ -1,0 +1,13 @@
+{{Trait
+|name=固体之声
+|english_name=Voices of Solid Things
+|type=地区
+|pfs=否
+|prerequisites=女巫集市
+|description=你跟随女巫集市旅行了一段时间，要么是出于自愿，要么是因为有买家把你当成了交易的筹码。你在女巫集市度过的时间中，你学会了聆听物件们的耳语，就好像它们是活生生的生物一样，这让你了解到它们的功能。
+|benefit=在[[估价]]，工艺，[[解除装置]]或者[[法术辨识]]中选择一项技能。你可以在这个技能上以魅力调整值取代通常技能所需的属性调整值。这个技能会被视为你的本职技能。
+|regions=女巫集市
+|source=LotFW
+|source_name=第一世界的遗产
+|source_url=https://pf1chm.pages.dev/topics/page_1070.html
+}}

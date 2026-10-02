@@ -1,0 +1,351 @@
+{{速查导航}}
+
+'''盗贼天赋汇总'''是《[[解放者]]》的一章，民间按 [https://aonprd.com AoN] 的「掉链贼可选天赋」整理的跨书名录，共 157 条。
+
+掉链贼也用原来那批盗贼天赋，但《解放者》改写了其中一部分：AoN 上「盗贼」和「盗贼（掉链）」两张天赋表有 30 多条同名天赋正文不同，约 20 条是规则改动（如次级魔法、毒性持续），改写版都收在原版天赋页的「《解放者》版（掉链盗贼用）」一节里（原来单列的 持久毒药、技艺精湛、机敏攀岩者 已并进 [[毒性持续#《解放者》版（掉链盗贼用）|毒性持续]]、[[技能专精(盗贼天赋)#《解放者》版（掉链盗贼用）|技能专精]]、[[飞檐走壁#《解放者》版（掉链盗贼用）|飞檐走壁]]）；此外还新增了几条挂在[[盗贼绝艺]]、衰弱之创上的天赋。正文各见条目页，全部盗贼天赋见 [[:分类:盗贼天赋|分类:盗贼天赋]]。
+
+== 偷袭天赋 ==
+
+{| class="wikitable sortable"
+|-
+! 天赋 !! 英文 !! 出处
+|-
+| [[破甲穿刺]] || Armor Piercer || [[怪物猎人手册]]
+|-
+| [[流血攻击]] || Bleeding Attack || [[核心规则书]]
+|-
+| [[炫目打击]] || Distracting Attack || [[进阶玩家指南]]
+|-
+| [[激励打击]] || Emboldening Strike || [[阴影血脉]]
+|-
+| [[熄火打击]] || Extinguishing Strike || [[阴影血脉]]
+|-
+| [[聚焦攻击]] || Focusing Attack || [[阴影血脉]]
+|-
+| [[模糊打击]] || Obscuring Blow || [[阴影血脉]]
+|-
+| [[强袭猛击#《解放者》版（掉链盗贼用）|强袭猛击]] || Powerful Sneak || [[进阶玩家指南]]
+|-
+| [[切裂阵营]] || Sever Alignment || [[遥远国度]]
+|-
+| [[阴影之寒]] || Shadow's Chill || [[阴影血脉]]
+|-
+| [[沉默打击]] || Silencing Strike || [[冒险者指南]]
+|-
+| [[扰乱反应]] || Slow Reactions || [[核心规则书]]
+|-
+| [[狡诈花招]] || Underhanded || [[极限战斗]]
+|}
+
+== 其他天赋 ==
+
+{| class="wikitable sortable"
+|-
+! 天赋 !! 英文 !! 出处
+|-
+| [[精准毒杀]] || Accurate Poisoner || [[药剂与毒药]]
+|-
+| [[阵营偷袭]] || Aligned Sneak Attack || [[遥远国度]]
+|-
+| [[伏击擒抱]] || Ambuscading Grapple || [[怪物猎人手册]]
+|-
+| [[阿斯佩克夏的神秘主义]] || Aspexia's Mysticism || [[冒险者指南]]
+|-
+| [[强袭连携]] || Assault leader || [[进阶玩家指南]]
+|-
+| [[伪诗人]] || Bardic Pretender || Pathfinder #130: City in the Lion's Eye
+|-
+| [[黑市客户]] || Black Market Connections || [[极限战斗]]
+|-
+| [[伪装(盗贼天赋)#《解放者》版（掉链盗贼用）|伪装]] || Camouflage || [[进阶玩家指南]]
+|-
+| [[心细如丝]] || Canny Observer || [[进阶玩家指南]]
+|-
+| [[慎重一击]] || Careful Stab || [[冒险者指南]]
+|-
+| [[壁垒(盗贼天赋)|壁垒]] || Castling || [[元素大师手册]]
+|-
+| [[万无一失(盗贼天赋)|万无一失]] || Certainty || [[解放者]]
+|-
+| [[地盘宣称]] || Claimed Turf || [[内海诡道]]
+|-
+| [[油腻暗影]] || Cloying Shades || [[阴影血脉]]
+|-
+| [[虚假情报#《解放者》版（掉链盗贼用）|虚假情报]] || Coax Information || [[进阶玩家指南]]
+|-
+| [[战斗舞步#《解放者》版（掉链盗贼用）|战斗舞步]] || Combat Swipe || [[进阶玩家指南]]
+|-
+| [[战斗窍门]] || Combat Trick || [[核心规则书]]
+|-
+| [[灵活扳机]] || Cunning Trigger || [[进阶玩家指南]]
+|-
+| [[淡化身形(盗贼天赋)|淡化身形]] || Dampen Presence || [[魔法战术工具箱]]
+|-
+| [[灵巧之腕]] || Deft Palm || [[极限战斗]]
+|-
+| [[后天毒素免疫]] || Developed Poison Immunity || [[荒野英雄]]
+|-
+| [[怪异消失]] || Eerie Disappearance || [[市井英雄]]
+|-
+| [[奥法导管|奥法之渠]] || Eldritch Conduit || [[魔法战术工具箱]]
+|-
+| [[学者密传#《解放者》版（掉链盗贼用）|学者密传]] || Esoteric Scholar || [[极限战斗]]
+|-
+| [[解密专家]] || Expert Cypher || [[神术选集]]
+|-
+| [[平步登天#《解放者》版（掉链盗贼用）|平步登天]] || Expert Leaper || [[进阶玩家指南]]
+|-
+| [[额外残岩]] || Extra Earthcraft || [[元素大师手册]]
+|-
+| [[虚假攻击者]] || False Attacker || [[市井英雄]]
+|-
+| [[奔若狡兔]] || Fast Getaway || [[进阶玩家指南]]
+|-
+| [[快速潜行]] || Fast Stealth || [[核心规则书]]
+|-
+| [[偏好地形(盗贼天赋)|偏好地形]] || Favored Terrain || [[荒野英雄]]
+|-
+| [[阴影虚招]] || Feint from Shadows || [[阴影血脉]]
+|-
+| [[火器训练]] || Firearm Training || [[极限战斗]]
+|-
+| [[将计就计]] || Follow Along || [[极限诡道]]
+|-
+| [[线索追踪]] || Follow Clues || [[进阶玩家指南]]
+|-
+| [[坚固阵地]] || Fortified Position || [[元素大师手册]]
+|-
+| [[脱逃艺术]] || Getaway Artist || [[极限战斗]]
+|-
+| [[晦暗魔法]] || Gloom Magic || [[阴影血脉]]
+|-
+| [[高等晦暗魔法]] || Greater Gloom Magic || [[阴影血脉]]
+|-
+| [[绿野之语]] || Green Tongue || [[荒野英雄]]
+|-
+| [[勇毅(盗贼天赋)|勇毅]] || Grit || [[极限战斗]]
+|-
+| [[发夹戏法]] || Hairpin Trick || [[冒险者指南]]
+|-
+| [[屏息(盗贼天赋)#《解放者》版（掉链盗贼用）|屏息]] || Hold Breath || [[极限战斗]]
+|-
+| [[无辜假面]] || Innocent Facade || [[魔法战术工具箱]]
+|-
+| [[无害仆人]] || Innocuous Servant || [[内海诡道]]
+|-
+| [[钢铁内脏]] || Iron Guts || [[极限战斗]]
+|-
+| [[芸芸众生]] || Just a Face in the Crowd || [[魔法战术工具箱]]
+|-
+| [[迷人女王]] || Knockout Queen || [[冒险者指南]]
+|-
+| [[毒性持续#《解放者》版（掉链盗贼用）|毒性持续]] || Lasting Poison || [[进阶玩家指南]]
+|-
+| [[稳行者#《解放者》版（掉链盗贼用）|稳行者]] || Ledge Walker || [[核心规则书]]
+|-
+| [[滞留毒素]] || Lingering Poison || [[药剂与毒药]]
+|-
+| [[高等魔法#《解放者》版（掉链盗贼用）|高等魔法]] || Major Magic || [[核心规则书]]
+|-
+| [[战技闪避]] || Maneuvering Dodge || [[内海诡道]]
+|-
+| [[绝望神态]] || Mien of Despair || [[阴影血脉]]
+|-
+| [[次级魔法(盗贼天赋)#《解放者》版（掉链盗贼用）|次级魔法]] || Minor Magic || [[核心规则书]]
+|-
+| [[多面手(盗贼天赋)|多面手]] || Multitalented || [[解放者]]
+|-
+| [[飞檐走壁#《解放者》版（掉链盗贼用）|飞檐走壁]] || Nimble Climber || [[解放者]]
+|-
+| [[忍术(盗贼天赋)|忍术]] || Ninja Trick || [[极限战斗]]
+|-
+| [[异能冒险家]] || Occult Dungeoneer || [[魔法战术工具箱]]
+|-
+| [[一人千面(盗贼天赋)|一人千面]] || One of Those Faces || [[间谍大师手册]]
+|-
+| [[用毒(盗贼天赋)|用毒]] || Poison Use || [[阴影血脉]]
+|-
+| [[定位攻击]] || Positioning Attack || [[进阶玩家指南]]
+|-
+| [[快速解除#《解放者》版（掉链盗贼用）|快速解除]] || Quick Disable || [[核心规则书]]
+|-
+| [[迅速易容]] || Quick Disguise || [[进阶玩家指南]]
+|-
+| [[快速陷阱制作]] || Quick Trapsmith || [[进阶玩家指南]]
+|-
+| [[快速察觉]] || Rapid Perception || [[魔法战术工具箱]]
+|-
+| [[韧性#《解放者》版（掉链盗贼用）|韧性]] || Resiliency || [[核心规则书]]
+|-
+| [[盗贼匍匐术#《解放者》版（掉链盗贼用）|盗贼匍匐术]] || Rogue Crawl || [[核心规则书]]
+|-
+| [[绳技大师]] || Rope Master || [[极限战斗]]
+|-
+| [[探知失误]] || Scry Slip || [[魔法战术工具箱]]
+|-
+| [[通晓探知]] || Scrying Familiarity || [[间谍大师手册]]
+|-
+| [[斯科扎尼走私者]] || Sczarni Smuggler || [[内海诡道]]
+|-
+| [[灰色阴影]] || Shades of Gray || [[极限诡道]]
+|-
+| [[阴影复制]] || Shadow Duplicate || [[阴影血脉]]
+|-
+| [[标志性毒药]] || Signature Poison || [[药剂与毒药]]
+|-
+| [[偷袭训练]] || Sneak Training || Pathfinder #130: City in the Lion's Eye
+|-
+| [[储法]] || Spell Storing || [[魔法战术工具箱]]
+|-
+| [[鲤鱼打挺#《解放者》版（掉链盗贼用）|鲤鱼打挺]] || Stand Up || [[核心规则书]]
+|-
+| [[骇人面目]] || Strong Impression || [[进阶玩家指南]]
+|-
+| [[强力划水]] || Strong Stroke || [[极限战斗]]
+|-
+| [[卓越狙击手]] || Superior Sniper || [[魔法战术工具箱]]
+|-
+| [[压制毒药]] || Suppress Poison || [[药剂与毒药]]
+|-
+| [[突袭攻击#《解放者》版（掉链盗贼用）|突袭攻击]] || Surprise Attack || [[核心规则书]]
+|-
+| [[求生者(盗贼天赋)|求生者]] || Survivalist || [[进阶玩家指南]]
+|-
+| [[迅捷上毒]] || Swift Poison || [[进阶玩家指南]]
+|-
+| [[迅捷追踪者]] || Swift Tracker || [[荒野英雄]]
+|-
+| [[地形专家]] || Terrain Mastery || [[极限战斗]]
+|-
+| [[我刚一直在这儿！|全程无辜]] || The Whole Time || [[魔法战术工具箱]]
+|-
+| [[刺激追逐]] || Thrill of the Chase || [[内海诡道]]
+|-
+| [[剧毒反刍]] || Toxic Regurgitation || [[药剂与毒药]]
+|-
+| [[陷阱嗅觉]] || Trap Spotter || [[核心规则书]]
+|-
+| [[指使本影]] || Umbral Gear || [[阴影血脉]]
+|-
+| [[失衡技巧]] || Unbalancing Trick || [[元素大师手册]]
+|-
+| [[卑劣花招]] || Underhanded Trick || [[阴影血脉]]
+|-
+| [[翻墙者]] || Wall Scramble || [[极限战斗]]
+|-
+| [[荒野魔法]] || Wild Magic || [[荒野英雄]]
+|}
+
+== 高等偷袭天赋 ==
+
+{| class="wikitable sortable"
+|-
+! 天赋 !! 英文 !! 出处
+|-
+| [[困惑之刃]] || confounding blades || [[极限战斗]]
+|-
+| [[致残攻击]] || Crippling Strike || [[核心规则书]]
+|-
+| [[致死突袭#《解放者》版（掉链盗贼用）|致死突袭]] || Deadly Sneak || [[进阶玩家指南]]
+|-
+| [[驱散攻击]] || Dispelling Attack || [[核心规则书]]
+|-
+| [[双重弱化]] || Double Debilitation || [[解放者]]
+|-
+| [[精通阴影之寒]] || Improved Shadow's Chill || [[阴影血脉]]
+|-
+| [[石化打击]] || Petrifying Strike || [[元素大师手册]]
+|-
+| [[回音击]] || Resonating Rumbles || [[元素大师手册]]
+|}
+
+== 高等其他天赋 ==
+
+{| class="wikitable sortable"
+|-
+! 天赋 !! 英文 !! 出处
+|-
+| [[墙角杀法]] || Against the Wall || [[元素大师手册]]
+|-
+| [[阵营伪装]] || Aligned Disguise || [[阴影血脉]]
+|-
+| [[择日而亡]] || Another day || [[进阶玩家指南]]
+|-
+| [[致盲打击]] || Blinding Strike || [[阴影血脉]]
+|-
+| [[技高一筹]] || Cutting Edge || [[解放者]]
+|-
+| [[影之迷舞]] || Dance of Disorienting Shadows || [[阴影血脉]]
+|-
+| [[夺命鸡尾酒]] || Deadly Cocktail || [[进阶玩家指南]]
+|-
+| [[防御翻滚#《解放者》版（掉链盗贼用）|防御翻滚]] || Defensive Roll || [[核心规则书]]
+|-
+| [[魔宠(盗贼天赋)|魔宠]] || Familiar || [[极限战斗]]
+|-
+| [[快速翻滚]] || Fast Tumble || [[进阶玩家指南]]
+|-
+| [[专长(盗贼天赋)|专长]] || Feat || [[核心规则书]]
+|-
+| [[奠基者的祝福]] || Founder's Blessing || [[冒险者指南]]
+|-
+| [[廉价陷阱制作]] || Frugal Trapsmith || [[进阶玩家指南]]
+|-
+| [[脱逃大师]] || Getaway Master || [[极限战斗]]
+|-
+| [[巧言假面]] || Glib Facade || [[魔法战术工具箱]]
+|-
+| [[擦弹射击]] || Grazing Shot || [[邪恶特务]]
+|-
+| [[隐藏心智]] || Hidden Mind || [[极限诡道]]
+|-
+| [[视线躲藏(盗贼天赋)|视线躲藏]] || Hide in Plain Sight || [[极限战斗]]
+|-
+| [[猎手突袭]] || Hunter's Surprise || Advanced Player Guide
+|-
+| [[精通反射闪避]] || Improved Evasion || [[核心规则书]]
+|-
+| [[一击倒地]] || Knock-Out Blow || [[进阶玩家指南]]
+|-
+| [[身轻如燕]] || Light Walker || [[解放者]]
+|-
+| [[易容大师#《解放者》版（掉链盗贼用）|易容大师]] || Master of Disguise || [[进阶玩家指南]]
+|-
+| [[万金油]] || Greater Multitalented || [[解放者]]
+|-
+| [[乘势攻击]] || Opportunist || [[核心规则书]]
+|-
+| [[洞察黑暗]] || Pierce the Darkness || [[市井英雄]]
+|-
+| [[先制射击]] || Quick Shot || [[解放者]]
+|-
+| [[斗转星移(盗贼天赋)|斗转星移]] || Redirect Attack || [[进阶玩家指南]]
+|-
+| [[谣言散布者]] || Rumormonger || [[极限战斗]]
+|-
+| [[看破黑暗(盗贼天赋)|看破黑暗]] || See in Darkness || [[阴影血脉]]
+|-
+| [[神龛漫步]] || Shrinewalk || [[冒险者指南]]
+|-
+| [[技能专精(盗贼天赋)#《解放者》版（掉链盗贼用）|技能专精]] || Skill Mastery || [[核心规则书]]
+|-
+| [[心智灵活(盗贼天赋)|心智灵活]] || Slippery Mind || [[核心规则书]]
+|-
+| [[侠盗天赋]] || Stalker Talent || [[极限诡道]]
+|-
+| [[魅影狙击]] || Stealthy Sniper || [[进阶玩家指南]]
+|-
+| [[石化肌肤]] || Stony Skin || [[元素大师手册]]
+|-
+| [[高等地形专家]] || Greater Terrain Mastery || [[解放者]]
+|-
+| [[无拘气池]] || Unlock Ki || [[魔法战术工具箱]]
+|-
+| [[不存在的盟友|化敌为友]] || Unwitting Ally || [[极限战斗]]
+|-
+| [[抢夺武器]] || Weapon Snatcher || [[极限战斗]]
+|}
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh62263cd083.htm 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

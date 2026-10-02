@@ -1,0 +1,11 @@
+{{Feat
+|name=钻胯而过
+|english_name=Underfoot
+|categories=战斗
+|description=你可以在敌人的身体下方和周围腾挪翻转。
+|prerequisites=[[闪避]]，[[灵活移动]]，体型小型或更小。
+|benefit=只要敌人的体型比你大，那么当你进行尝试穿过这些敌人而不受[[借机攻击]]的特技检定时，检定获得+4闪避加值。此外，当你在比你体型更大的敌人的威胁范围内移动，你的AC在对抗由此动作引起的借机攻击时获得+2闪避加值（这个加值与[[灵活移动]]提供的+4加值叠加，总计为+6）。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

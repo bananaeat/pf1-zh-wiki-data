@@ -1,0 +1,9 @@
+{{Trait
+|name=学徒
+|english_name=Apprentice
+|type=信念
+|description=在研读《至高飞升者圣典》的过程中，你学会了一些小小的魔法戏法。从[[术士]]/法师的0环法术列表中选择一个法术。你每天可以将该法术作为类法术能力施放1次。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh484c89782e.htm
+}}

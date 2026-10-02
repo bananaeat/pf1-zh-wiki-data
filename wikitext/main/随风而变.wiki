@@ -1,0 +1,11 @@
+{{Feat
+|name=随风而变
+|english_name=Bend with the Wind
+|categories=冥想
+|description=冥想会允许你调节你的体温，心率和其他身体机能来抵抗元素
+|prerequisites=感知15，[[身体制御]]，[[坚忍]]，[[冥想大师]]
+|benefit=在你冥想后的24小时内，你获得寒冷抗力5和火焰抗力5
+|source=F&P
+|source_name=信仰与哲学
+|source_url=https://pf1chm.pages.dev/topics/page_673.html
+}}

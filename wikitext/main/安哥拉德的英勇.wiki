@@ -1,0 +1,9 @@
+{{Trait
+|name=安哥拉德的英勇
+|english_name=Angradd's Valor
+|type=宗教
+|description=你渴望在死后赢得安哥拉德的青睐，得以立于其侧，这份信念激励你全力冲锋于一切正义之战中。你在冲锋时进行的所有近战攻击检定获得+1背景加值。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh9e38168036.htm
+}}

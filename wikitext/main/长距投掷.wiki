@@ -1,0 +1,13 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[长距投掷 (神话)]]。</small></div>
+{{Feat
+|name=长距投掷
+|english_name=Distance Thrower
+|categories=战斗
+|description=你能将投掷武器扔得更远。
+|prerequisites=力量13。
+|benefit=当你使用投掷武器时，你超过射程的攻击检定罚值下降2点。
+|stamina=使用投掷武器时，如果花费2点耐力，可以将超过射程的攻击检定惩罚再减4点。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

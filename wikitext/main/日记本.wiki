@@ -1,0 +1,9 @@
+{{装备
+|name=日记本
+|english_name=Journal
+|cat=冒险装备
+|price=10 gp
+|weight=1磅
+|description=这是一本拥有油布封面，重量很轻的空白日记本。它有50页。
+|source=探索者协会战地指南、极限宝具
+}}

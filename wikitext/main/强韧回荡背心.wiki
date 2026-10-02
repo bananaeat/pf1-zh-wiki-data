@@ -1,0 +1,14 @@
+{{魔法物品
+|name=强韧回荡背心
+|english_name=Vest of Resonating Fortitude
+|aon=MagicWondrousDisplay.aspx?FinalName=Vest of Resonating Foritude
+|cat=奇物
+|aura=中等防护系
+|cl=7
+|slot=胸部
+|price=7,000 gp
+|description=这件魔法布背心由浓绿色布料制成，通常是丝绸和棉布的混纺；它有一个高领，领上用金线绣出繁复交叠的几何图案。这件背心能削弱影响穿戴者的毒素的效力。当穿戴者暴露于毒药时，她可以用一个[[迅捷动作]]轻敲背心，消耗1发充能，使她下一次对抗该毒药的强韧豁免获得+2加值。此外，如果穿戴者所中的毒药需要两次豁免才能治愈，她可以第二次轻敲背心，再消耗1发充能，把她下一次成功的豁免结果也当作第二次豁免的结果。这件背心有5发充能，每天恢复。
+|req=[[制造奇物]]、[[减缓毒发]]、[[中和毒性]]
+|cost=3,500 gp
+|source=药剂与毒药
+}}

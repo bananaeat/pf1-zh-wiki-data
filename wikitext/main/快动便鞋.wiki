@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=快动便鞋
+|english_name=Quick Action Slippers
+|aon=MagicWondrousDisplay.aspx?FinalName=Quick Action Slippers
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=脚部
+|price=10,000 gp
+|weight=1磅
+|description=穿着一双快动便鞋的人可以用一个[[自由动作]]从[[俯卧]]状态站起。这种移动仍如常引发借机攻击。如果穿戴者拥有[[鲤鱼打挺]]盗贼天赋，则从俯卧状态站起不再引发借机攻击。
+|req=[[制造奇物]]、[[加速术]]，制造者必须拥有[[鲤鱼打挺]]盗贼天赋
+|cost=5,000 gp
+|source=魔法市集指南
+}}

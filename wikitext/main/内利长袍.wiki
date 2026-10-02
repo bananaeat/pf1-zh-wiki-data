@@ -1,0 +1,15 @@
+{{魔法物品
+|name=内利长袍
+|english_name=Neili Robes
+|aon=MagicWondrousDisplay.aspx?FinalName=Neili Robes
+|cat=奇物
+|aura=中等防护系
+|cl=11
+|slot=躯体
+|price=10,000 gp
+|weight=1磅
+|description=这件黑白相间的长袍经过特别制作，能帮助穿着者调节体内气的流动，从而生成内在力量。穿着者每轮一次消耗1点气时，会获得+1天生护甲加值（对AC）和+1力量增强加值，持续1轮。如果穿着者在自己的下一回合结束前再消耗1点气，持续时间延长1轮，并且天生护甲加值和增强加值各提高1（最高+4）。AC和力量上的加值，仅在最后一次消耗气点之后再持续1轮。
+|req=[[制造奇物]]，制造者必须拥有气池
+|cost=5,000 gp
+|source=商人货单
+}}

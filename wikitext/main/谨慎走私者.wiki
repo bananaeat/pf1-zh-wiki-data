@@ -1,0 +1,10 @@
+{{Feat
+|name=谨慎走私者
+|english_name=Wary Smuggler
+|description=你非常善于在政府的监管之外交易
+|prerequisites=察觉5级，[[巧手]]5级，隐匿5级
+|benefit=你在将非武器的小物体隐藏在自己身上，或隐藏在与你同行的一只动物或一辆[[载具]]上时，[[巧手]]检定获得+5加值。你在都市环境下的察觉，巧手和隐匿检定总是可以取10。
+|source=BM
+|source_name=黑市指南
+|source_url=https://pf1chm.pages.dev/topics/zh892b08ddc8.htm
+}}

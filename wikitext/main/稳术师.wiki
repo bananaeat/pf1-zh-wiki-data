@@ -1,0 +1,9 @@
+{{Trait
+|name=稳术师
+|english_name=Resilient Caster
+|type=魔法
+|description=你的强大意志力使得魔法难以被解除。当他人试图解除你的法术时，你的施法者等级视为高于实际1级。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

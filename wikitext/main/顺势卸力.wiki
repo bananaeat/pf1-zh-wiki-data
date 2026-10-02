@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Giantslayer Player's Guide pg. 6, Giant Hunter's Handbook pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=顺势卸力
+|english_name=Roll With It
+|type=战役
+|pfs=否
+|description=你曾与一些最出色的巨人杀手一同受训，学会了如何避开巨人强力攻击的最坏后果。你在反射豁免上获得+1背景加值。此外，每天一次，当一个具有巨人亚种的生物以武器或挥击攻击（而非法术或特殊能力）成功对你确认重击时，你可以顺势卸去这次攻击的力道。你承受这一击的正常伤害，如同该重击未被确认。你必须察觉到这次攻击并能够对其做出反应——如果你失去AC中的敏捷加值，就无法使用此能力。如果你是[[矮人]]或[[侏儒]]，你每天可以使用此能力两次。
+|source_name=Giantslayer Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Roll%20With%20It
+}}

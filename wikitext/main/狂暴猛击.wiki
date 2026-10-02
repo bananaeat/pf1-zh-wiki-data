@@ -1,0 +1,10 @@
+{{Feat
+|name=狂暴猛击
+|english_name=Raging Brutality
+|description=你将怒气灌注于一击之中，使武器造成更大的伤害。
+|prerequisites=力量13，【狂暴】职业特性，[[猛力攻击]]，基本攻击加值+12。
+|benefit=当处于狂暴并使用[[猛力攻击]]时，你可以用[[迅捷动作]]额外消耗3轮狂暴时间，将你的体质修正添加在本轮你造成的近战或投掷伤害中。如果你使用的是双手武器，加值为1.5倍体质修正。这些额外伤害不会被重击所加成。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

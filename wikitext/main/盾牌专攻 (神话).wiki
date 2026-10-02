@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[盾牌专攻]] 的神话版本。</small></div>
+{{Feat
+|name=盾牌专攻
+|english_name=Shield Focus
+|categories=神话
+|description=你是利用盾牌保护自身的行家里手。
+|prerequisites=[[盾牌专攻]]
+|benefit=将你的盾牌加值以及你的盾牌的增强加值算入你的接触AC中。以[[直觉动作]]，你能够花费1次神话之力，以此将你的盾牌加值与你的盾牌的增强加值应用到1次你将要进行的强韧或反射豁免中。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

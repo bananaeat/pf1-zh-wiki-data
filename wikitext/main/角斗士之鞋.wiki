@@ -1,0 +1,15 @@
+{{魔法物品
+|name=角斗士之鞋
+|english_name=Gladiator's Sandals
+|aon=MagicWondrousDisplay.aspx?FinalName=Gladiator's Sandals
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=脚部
+|price=6,000 gp
+|weight=1/2磅
+|description=这双被沙子磨旧的皮凉鞋设计成系带缠绕小腿的样式，深受竞技场搏斗者以及靠擂台表演谋生的人喜爱。当穿戴者在[[突袭]]轮中行动并尝试任何[[战技]]检定时，她在该检定上获得+4环境加值。如果检定成功，穿戴者还可以进行一次演武检定（见《极限战斗》第153页），获得+10环境加值，以影响观众的态度。
+|req=[[制造奇物]]、[[鹰之威仪]]、[[加速术]]
+|cost=3,000 gp
+|source=近战战术工具箱
+}}

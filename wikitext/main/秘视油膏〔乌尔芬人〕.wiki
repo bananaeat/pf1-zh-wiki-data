@@ -1,0 +1,16 @@
+{{魔法物品
+|name=秘视油膏〔乌尔芬人〕
+|english_name=Ointment of Secret Seeing (Ulfen)
+|aon=MagicWondrousDisplay.aspx?FinalName=Ointment of Secret Seeing (Ulfen)
+|cat=奇物
+|aura=中等预言系
+|cl=9
+|slot=无
+|price=2,000 gp
+|description=这件奇物通常只有所标明的种族或族裔的成员才能获得。
+
+这种灵药通常装在手掌大小的水晶罐里。以[[标准动作]]涂在眼睛下方后，它会揭示幻术和某些生物的魔法本质。涂抹油膏后的1小时内，每当使用者初次感知到一个幻术时，即使没有与之互动，她也可以进行一次意志豁免来识破（不相信）它。乌尔芬人使用者能认出精类动物，以及变形成人类或动物形态的生物不止表面所见的样子，不过她不会得知它们的真实本质。
+|req=[[制造奇物]]、[[真知术]]，制造者必须是乌尔芬人
+|cost=1,000 gp
+|source=内海种族
+}}

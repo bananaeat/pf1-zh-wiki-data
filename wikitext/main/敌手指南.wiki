@@ -1,0 +1,82 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Rival Guide
+|authors=Brandon Hodge、Colin McComb、Jason Nelson
+|pages=64
+}}
+
+{{书页/简介|head=|1=
+《敌手指南》介绍了 10 个细节完备的敌对冒险团体，附有专属法术、装备、魔法物品和不寻常的部下。这些团体涵盖主题广泛，从闹鬼的海盗到卓尔死亡教徒，从怪物奴隶贩子到几乎无法阻挡的大反派，等等，应有尽有！
+
+在这本 64 页的书中，你将找到：
+
+* 40 名不同 NPC 的完整数据块，从 CR 2 的较弱敌人到 CR 19 的世界级威胁。可以把他们当作敌对冒险小队使用，也可以在需要特定 NPC 乃至临时 PC 时将他们拆开。
+* 每个团体的背景信息，讨论其历史与目标，以及如何将其成员作为 PC 的对手融入你的游戏。
+* 若干新的炼金物品、专长、魔法物品、毒药、种族特性与法术，以及一个适用于被远古邪恶灵体纠缠的角色的新模板，和一个适用于炼金隐形生物的简单模板。
+* 《敌手指南》意在配合《开拓者角色扮演游戏》与探索者战役设定使用，但也能轻松融入任何奇幻游戏设定。
+}}
+
+'''敌手指南'''（''Rival Guide''）是由 Brian Cortijo、Adam Daigle 等 9 位作者撰写的一本《探索者战役设定》（Pathfinder Campaign Setting）资料书，于 2011 年 5 月发售。
+
+== 目录 ==
+{{书页/目录|1=
+导言 @ 2
+银刃团（Argentate Blades） @ 4
+- Dulci Bardwith
+- Estella Cheriford
+- Exander Runthorn
+- Tatius Cheriford
+钢铁之子（Children of Steel） @ 10
+- Derrak Stoneskull
+- Echean Ansolandi
+- Inaris Jerveel
+- Wotywina Turncoin
+尘土女巫团（Dust Coven） @ 16
+- Mizzinastre Vexidyre
+- Vhalhisstre Vexidyre
+- Xeyog Vexidyre
+- Zelfane Vexidyre
+屠杀之手（Hands of Slaughter） @ 22
+- Aliciette Cardoso
+- Azygos Qurashi
+- Isai Odighuzua
+- Yrure'tugala
+地狱血裔海盗（Hellblood Corsairs） @ 28
+- Belia of Zadoth
+- Molatunde Navoon
+- Ozrin Casault
+- Shavaran
+科达尔断膝者（Kodar Kneecappers） @ 34
+- Marnay Zyrvana
+- Matrena Goldthorpe
+- Phethean Klexius
+- Thortona Fjortoft
+骨髓掠夺者（Marrow Reavers） @ 40
+- Azrikalis
+- Lamya Nilawi
+- Najak
+- Narim Al-Rhad
+夜哈罗团（Night Harrows） @ 46
+- Adgrif Yoderbie
+- Mierela Tsilda
+- Nuetetia Irsinoe
+- Vesnic Demicci
+毒之会所（Poisoned Lodge） @ 52
+- Areen Mardessen
+- Ish Torovan
+- Mattie Red
+- Sussessa Amakye
+女王之手（Queen's Hands） @ 58
+- Anya Jeggare
+- Lerwynn Skathos
+- Victus Carrazinion
+- Wil Telaxxis
+}}
+
+{{书页尾
+|pfw=Rival Guide
+|releases=PDF¦PZO9232E¦2011-05¦；Softcover¦PZO9232¦2011-05¦978-1-60125-302-6
+}}
+
+[[分类:书目]]

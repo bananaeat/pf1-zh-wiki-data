@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Serpent's Skull Player's Guide pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=殖民者后裔
+|english_name=Colonial
+|type=战役
+|pfs=否
+|description=你出身于一个源远流长的萨迦瓦殖民者家系，可追溯到永恒战争期间切利亚斯最初向这片土地扩张之时。尽管你的族人对萨迦瓦的控制日渐衰退，而且自特鲁恩家族把魔鬼崇拜推上政治前台之后，埃勒德就一直独立于切利亚斯运作，但你依然保有切利亚斯人坚韧的体魄和天生的求生意识。是什么让你离开了家乡由你决定，但你正搭乘珍妮维尔号返回出生之地，希望让萨迦瓦重新受到世人瞩目。你关于萨迦瓦定居点和政治的[[知识]]（本地）检定获得+1背景加值，并且你对抗疾病的豁免检定获得+1背景加值。
+
+拥有这个背景特性的角色是萨迦瓦本地人，可能经由任何城市返回，但尤其可能来自切利亚斯的港口金塔格、佩扎克或寇兰庭。
+|source_name=Serpent's Skull Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Colonial
+}}

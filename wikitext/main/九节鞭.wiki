@@ -1,0 +1,17 @@
+{{武器
+|name=九节鞭
+|english_name=Nine-section whip
+|category=武器
+|prof=异种
+|wcat=单手
+|price=8 gp
+|weight=3磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=19–20/×2
+|type=钝击
+|special=格挡，虚实，武僧，摔绊
+|groups=链索，武僧
+|description=九节鞭由钢条相连而成，最后一节是一根6寸长的配重尖刺。这件武器可以单手持用、双手持用，也可以成对双持。九节鞭的两端常系有彩色布旗，以便更好地控制它。
+|source=极限战斗、极限宝具
+}}

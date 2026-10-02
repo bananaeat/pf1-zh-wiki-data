@@ -1,0 +1,9 @@
+{{Trait
+|name=发条技师
+|english_name=Clockwork Engineer
+|type=战斗
+|description=你对于漫步在废土上的古老发条构装体颇有见识，并因此更了解这些守护者。你在对抗具有发条亚种的生物时，伤害骰上获得+2背景加值。
+|source=PotW
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1192.html
+}}

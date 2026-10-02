@@ -1,0 +1,9 @@
+{{Trait
+|name=兽之子
+|english_name=Beastkin
+|type=社会
+|description=选择一种特定的动物(比如狼或猿)。你从小便是被动物带大的。你学习了它们的生存之道，并且你与你的类人种族的同族相比你更像一只野兽。你的生存获得+1背景加值，并且你可以随意使用[[动物交谈]]作为类法术能力，与抚养你长大的那类动物交流。
+|source_name=荒野英雄
+|source=HotW
+|source_url=https://pf1chm.pages.dev/topics/zhc5a8c0a892.htm
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=精通掩饰施法
+|english_name=Improved Conceal Spell
+|description=你能以[[隐蔽]]的方式将强大的法术藏匿起来。
+|prerequisites=掩饰施法，[[诈欺师]]，[[唬骗]]5级，[[易容]]5级，[[巧手]]10级，施放3环法术或使用3环类法术能力的能力
+|benefit=当你使用[[掩饰施法]]专长时，其他生物不会在用于发觉被掩藏法术的检定中，获得等同于法术或类法术能力环级的加值。
+|normal=生物在尝试发现掩饰施法专长所掩藏的法术时，用于发觉的察觉、察言观色或[[法术辨识]]检定会获得加值，数值等同于被掩藏法术或类法术能力环级的加值。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

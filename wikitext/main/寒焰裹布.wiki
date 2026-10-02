@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=寒焰裹布
+|english_name=Coldfire Wrappings
+|aon=MagicWondrousDisplay.aspx?FinalName=Coldfire Wrappings
+|cat=奇物
+|aura=中等塑能系［寒］
+|cl=10
+|slot=躯体
+|price=2,000 gp
+|weight=1磅
+|description=这些魔法亚麻裹布被小心地缠绕在中型生物的身体上（这个过程需要10分钟）后，能保护穿戴者免受火焰伤害，并提供对物理攻击的防御。穿戴者可以用即时动作使自己燃起缥缈的蓝色火焰，这些火焰如同[[火焰护盾]]的寒冷护盾版本一样保护穿戴者，并对攻击者造成1d6+10点寒冷伤害。这种保护持续10轮，之后裹布会碎成细灰。
+|req=[[制造奇物]]、[[火焰护盾]]
+|cost=1,000 gp
+|source=冒险之路48：绞架尖塔的魔影
+}}

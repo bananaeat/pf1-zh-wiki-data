@@ -1,0 +1,9 @@
+{{Feat
+|name=天界破敌
+|english_name=Heavenly Bane
+|description=当你的武器被灌入你的破敌能力时，带上了一丝神圣的痕迹
+|prerequisites=破敌职业能力
+|benefit=当你持有一件施展了破敌职业能力的武器时，在判定克服伤害减免时该武器就可以被认定是善良与守序的。
+|source_name=遥远国度
+|source_url=https://pf1chm.pages.dev/topics/zh060a98151e.htm
+}}

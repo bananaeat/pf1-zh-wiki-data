@@ -1,0 +1,11 @@
+{{消歧义|英雄宴}}
+{{Feat
+|name=英雄宴
+|english_name=Repast of Heroes
+|description=你的天生法术能力显著增强，使你能够滋养和治疗他人。
+|prerequisites=体质15，角色8级，[[蒿兰人]]，[[自然魔法]]种族特性
+|benefit=每周一次，你可以以类法术能力施展[[英雄宴]]，施法者等级等同于你的角色等级。如果你这样做，在接下来的48小时内，你将无法使用自然魔法种族特性通常会给予的法术。
+|source=WO
+|source_name=荒野源始
+|source_url=https://pf1chm.pages.dev/topics/zhf9b9c00800.htm
+}}

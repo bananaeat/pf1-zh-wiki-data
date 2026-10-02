@@ -1,0 +1,11 @@
+{{Feat
+|name=擒牛式
+|english_name=Bull-Catcher Style
+|categories=战斗;流派
+|description=你提起架势，抓住来袭的敌人。
+|prerequisites=敏捷13，[[精通擒抱]]，[[精通徒手打击]]
+|benefit=以一个标准动作，你可以准备好对抗来袭的敌人。直到你的下回合开始前，如果有一名生物向你移动了至少10尺并且进入你所威胁的一个格子，那么你可以对其尝试一次擒抱战技。如果该生物正冲锋，你在该擒抱检定上+2。以此流派擒抱一名生物时，被擒抱的生物只能在移动或冲锋后进行单次天武攻击，即使他具有猛扑特性。你每回合只能以此姿态对一名生物尝试擒抱。
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

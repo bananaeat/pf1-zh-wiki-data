@@ -1,0 +1,17 @@
+{{武器
+|name=训象钩
+|english_name=Ankus
+|category=武器
+|prof=军用
+|wcat=单手
+|price=8 gp
+|weight=5磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×2
+|type=穿刺
+|special=卸武，摔绊
+|groups=重刃
+|description=训象钩也叫象刺，这件工具是一根2至3尺长的杆子，末端是一个矛尖和一个朝后的倒钩。它传统上用于训练和驱使大型动物，紧急时也可以当作武器使用。
+|source=近战战术工具箱
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=动物专精
+|english_name=Focused Animal Expertise
+|categories=战斗
+|description=你很擅长耐心地躲避你的宿敌，尤其是动物。
+|prerequisites=宿敌(动物)职业特性。
+|benefit=你获得等于你宿敌(动物)加值一半的隐匿检定加值。在对抗动物时，这个加值等于你完整的宿敌加值。
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh03ef2e8763.htm
+}}

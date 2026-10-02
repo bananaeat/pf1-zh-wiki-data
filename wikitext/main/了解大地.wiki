@@ -1,0 +1,11 @@
+{{Trait
+|name=了解大地
+|english_name=Know the Land
+|type=宗教
+|aliases=大地知惠
+|prerequisites=[[苍翠誓约]](Green Faith)
+|description=你熟知各种环境中的动植物，令你在知识（自然）和生存检定获得+1背景加值，而且其中一项视为你的[[本职技能]]。
+|source_name=均衡信念
+|source=FoB
+|source_url=https://pf1chm.pages.dev/topics/zha930a323ed.htm
+}}

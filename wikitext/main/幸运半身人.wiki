@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[幸运半身人 (神话)]]。</small></div>
+{{Feat
+|name=幸运半身人
+|english_name=Lucky Halfling
+|description=你能够将好运带给与你一同旅行的人。
+|prerequisites=半身人。
+|benefit=每日1次，当30尺内的一名盟友进行豁免检定时，你可以进行相同的豁免检定，就如同你也是一名效果的受术者一般。你可以在盟友进行检定之后使用该能力，但是需要在GM宣布检定结果成功或者失败之前使用。你的盟友可以选择使用你的豁免检定取代自身的。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

@@ -1,0 +1,16 @@
+{{Spell
+|name=夺命谢幕曲
+|english_name=Deadly finale
+|school=塑能系
+|tags=音波
+|levels=吟游诗人 6;歌者 6
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=每3个施法者等级1名生物，任意两名之间的距离不得超过30尺
+|duration=立即
+|save=强韧，通过则部分生效
+|sr=是
+|description=施放这个法术之前，你必须激活一种吟游表演。通过挥舞手臂进行谢幕，你会立即结束你的吟游表演，对每名目标造成2d8点音波伤害。此外，每个目标受到3d6点[[流血伤害]]并持续1d6轮。成功的豁免可以免受流血伤害但是无法减免音波伤害。
+|source=进阶玩家指南
+}}

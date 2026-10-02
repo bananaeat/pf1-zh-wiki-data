@@ -1,0 +1,14 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{危害
+|name=曼陀罗
+|english_name=Thornapple
+|kind=毒药
+|type=接触
+|save=强韧 DC 11
+|onset=10分钟
+|frequency=1次/分钟，持续6分钟
+|effect=1点智力伤害、1点感知伤害、1点体质伤害，并且[[目盲]]1分钟
+|cure=连续2次豁免成功
+|price=90 gp
+|source=河域诸国指南
+}}

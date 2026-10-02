@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[骑乘战斗]] 的神话版本。</small></div>
+{{Feat
+|name=骑乘战斗
+|english_name=Mounted Combat
+|categories=神话
+|description=经过严苛战斗的考验，你在驱策坐骑的能力上已经盖世无双。
+|prerequisites=[[骑乘战斗]]
+|benefit=每轮你能额外使数量等同于你的阶层次命中你的坐骑的攻击无效化。每轮1次以[[直觉动作]]，你能够花费1次神话之力，以此使用你的骑术检定替代1次你的坐骑必须进行的反射豁免检定。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=空心权杖
+|english_name=Hollow Rod
+|aon=MagicRodsDisplay.aspx?FinalName=Hollow Rod
+|cat=权杖
+|aura=强烈（无学派）
+|cl=15
+|slot=无
+|price=121,500 gp
+|weight=5磅
+|description=空心权杖是空心的银管，上面布满复杂的符文和笛子般的小按键，比元气法杖稍小稍短。每天3次，操念使可以把空心权杖与一次念袭原力或念力医者原力结合使用，以增强该原力的破坏力或治疗力，视为该原力被极效。空心权杖不能用于已被超念影响的原力。
+|req=[[制造权杖]]，制造者必须是10级操念使
+|cost=60,750 gp
+|source=异能冒险
+}}

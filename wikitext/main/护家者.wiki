@@ -1,0 +1,9 @@
+{{Trait
+|name=护家者
+|english_name=Kin Guardian
+|type=战斗
+|description=你献身于守护家族成员。当你使用协助他人动作来为你的一位家族成员提供额外AC时，该加值上升2点。此为背景加值，因此不会在多名家族成员协助同一人时相互叠加。该[[背景特性]]在使用协助他人动作来协助家族成员攻击时无效。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

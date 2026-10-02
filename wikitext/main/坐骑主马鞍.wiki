@@ -1,0 +1,15 @@
+{{魔法物品
+|name=坐骑主马鞍
+|english_name=Horsemaster's Saddle
+|aon=MagicWondrousDisplay.aspx?FinalName=Horsemaster's Saddle
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=无
+|price=12,000 gp
+|weight=5磅
+|description=这个华丽的军用马鞍上压印着精美的马纹图案，使坐骑的特技检定获得+5表现加值，使骑手的骑术检定获得+5表现加值。此外，坐骑获得骑手所拥有的任何[[团队专长]]的益处。
+|req=[[制造奇物]]、[[坐骑术]]，制造者必须有5点[[骑术]]技能等级
+|cost=6,000 gp
+|source=极限宝具
+}}

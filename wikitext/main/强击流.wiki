@@ -1,0 +1,15 @@
+{{Feat
+|name=强击流
+|english_name=Upsetting Shield Style
+|categories=战斗;流派
+|description=你能通过击打敌人的武器来扰乱敌人的进攻。
+|prerequisites=[[敏捷]] 13，擅长小圆盾
+|benefit=你能够使用[[小圆盾]]进行盾击，如同它是轻盾一样。你能用小圆盾满足任何正常情况下适用轻盾的专长或能力。开启此[[流派]]后，每当你用小圆盾盾击敌人造成伤害时，该敌人在对你的所有攻击骰上获得-2减值，直到你的下一轮开始。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_361.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[强击 · 绝]]、[[强击 · 返]]（2 个条目）

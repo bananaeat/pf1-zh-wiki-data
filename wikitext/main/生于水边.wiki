@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Sargava, the Lost Colony pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=生于水边
+|english_name=Born to the Water
+|type=种族
+|prerequisites=[[人类]]（伊乔人）
+|description=你出生在岸边，能轻松地在水上和水下生活。你的[[游泳]]检定获得+1加值，并且你只需每2小时进行一次游泳检定来避免疲劳，而非每小时一次。
+|source_name=萨迦瓦，失落的殖民地
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Born%20to%20the%20Water
+}}

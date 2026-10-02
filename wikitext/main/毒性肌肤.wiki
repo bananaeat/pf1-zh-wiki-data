@@ -1,0 +1,10 @@
+<noinclude>{{炼金术师导航}}
+'''毒性肌肤'''（Nauseating Flesh）是[[炼金术师]]的[[科研发现]]。
+
+</noinclude>{{Source|极限战斗|Ultimate Combat|inline}}
+
+炼金术师的身体里充满了毒素。任何啮咬、吞没或吞咽炼金术师的生物必须通过一次强韧豁免，否则将会[[反胃]]1d4轮。要选择此科研发现，炼金术师必须达到12级。选择此科研发现的炼金术师对自身的“毒性肌肤”免疫。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_71.html 原文]）。全部科研发现见 [[:分类:科研发现|分类:科研发现]]。
+
+[[分类:科研发现]]</noinclude>

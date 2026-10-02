@@ -1,0 +1,11 @@
+{{Feat
+|name=贪食之剑
+|english_name=Voracious Blade
+|categories=战斗
+|pfs=否
+|description=你将邪魔力量注入所持握的邪剑中
+|prerequisites=武器专攻（双叉剑），BAB+4，透肌魔人
+|benefit=当你持握双叉剑时，你可以用一个迅捷动作将邪魔力量注入其中，使其如同你的啮咬攻击一样造成力量伤害。你每天可以使用该能力的次数等同于你的体质调整值（最小为1）。
+|source_name=内海怪物志
+|source_url=https://pf1chm.pages.dev/topics/zhb83e0d90c4.htm
+}}

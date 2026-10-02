@@ -1,0 +1,16 @@
+{{Spell
+|name=精神蛀虫 II
+|english_name=Thought worm ii
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=异能者 3
+|action=标准动作
+|components=姿势
+|range=近距
+|target=一个生物
+|duration=1轮/等级
+|save=意志，通过则无效
+|sr=是
+|description=该法术的功能如同精神蛀虫I一般，除了目标的意志豁免减值改为-4。该法术可以被降阶施法。
+|source=异能选集
+}}

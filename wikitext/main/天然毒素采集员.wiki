@@ -1,0 +1,14 @@
+{{Feat
+|name=天然毒素采集员
+|english_name=Natural Poison Harvester
+|description=你非常擅长从那些有毒的怪物身上采集或提炼毒素。
+|prerequisites=[[工艺]]（炼金）6级，生存6级。
+|benefit=当你制造那些需要从有毒的怪物身上采集的毒素时，你在工艺（炼金）检定上获得+2加值。当你成功制造这类毒素时，则该毒素的DC增加2。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[天然毒素抗毒剂]]、[[精通天然毒素采集员]]（2 个条目）

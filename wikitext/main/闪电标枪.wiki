@@ -1,0 +1,15 @@
+{{魔法物品
+|name=闪电标枪
+|english_name=Javelin of Lightning
+|cat=特殊魔法武器
+|base=[[标枪]]
+|aura=微弱塑能系
+|cl=5
+|slot=无
+|price=1,500 gp
+|weight=2磅
+|description=这支[[标枪]]在投出后会变成一道5d6的[[闪电束]]（反射豁免DC 14减半）。标枪会在这次攻击中耗尽。
+|req=[[制造魔法武器和防具]]、[[闪电束]]
+|cost=750 gp
+|source=核心规则书、极限宝具
+}}

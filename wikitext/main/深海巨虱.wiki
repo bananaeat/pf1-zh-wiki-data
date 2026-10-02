@@ -1,0 +1,44 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=深海巨虱
+|english_name=Giant Isopod
+|cr=1/8
+|xp=50
+|alignment=绝对中立
+|size=超小型
+|type=虫类
+|subtypes=水栖
+|init=–1
+|senses=黑暗视觉 60 尺，昏暗视觉；察觉 +0
+|description=这只多足的甲壳动物有下水道老鼠那么大，身体由几片厚厚的壳状甲板保护着。
+|ac=14，接触 11，措手不及 14（–1 敏捷，+3 天生，+2 体型）
+|hp=6（1d8+2）
+|fort=+4
+|ref=–1
+|will=+0
+|defensive=蜷缩
+|immune=影响心灵效果
+|speed=20 尺，游泳 10 尺
+|melee=啮咬 –1（1d3–3）
+|space=2–1/2 尺
+|reach=0 尺
+|str=5
+|dex=9
+|con=14
+|int=—
+|wis=11
+|cha=2
+|bab=+0
+|cmb=–3
+|cmd=4（无法被摔绊）
+|skills=[[游泳]] +5
+|environment=任意海洋
+|organization=单独，一对，或一群（3–20）
+|treasure=无
+|special_abilities={{怪物能力|蜷缩|Ex|深海巨虱可以用一个标准动作蜷成一个球，使其天生护甲加值提高 +2，但无法采取任何移动动作。展开同样是一个标准动作。}}
+|source=极限荒野
+|lore=
+深海巨虱是肉食性的拾荒者，在海底搜寻食物。它们的外观略像常见的鼠妇，不过可长到 2–1/2 尺长、近 4 磅重。尽管它们相对无害，但其不寻常的体型和类昆虫的外观仍让许多类人生物对它们心存戒备。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Giant Isopod|2=Giant Isopod}}

@@ -1,0 +1,16 @@
+{{Feat
+|name=强化邪魔契约
+|english_name=Empowered Daemonic Pact
+|pfs=否
+|description=你的死亡将给你邪魔主人的敌人带来痛苦。
+|prerequisites=透肌魔人
+|benefit=当你成功使用邪魔契约能力吞噬自己的灵魂时，爆炸半径提升至10尺，减半伤害的反射豁免DC获得2点亵渎加值。
+|normal=成功使用邪魔契约只会对5尺半径内的敌人造成负能量伤害。
+|source_name=内海怪物志
+|source_url=https://pf1chm.pages.dev/topics/zhb83e0d90c4.htm
+}}
+
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[必然毁灭]]（1 个条目）

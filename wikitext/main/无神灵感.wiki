@@ -1,0 +1,11 @@
+<noinclude>{{调查员导航}}
+'''无神灵感'''（Atheist Inspiration, Ex）是[[调查员]]的[[调查员天赋|调查员天赋]]。
+
+</noinclude>{{Source|内海诡道|Inner Sea Intrigue|inline}}
+
+{{AI翻译|nocat=1|本段由 AI 照 AoN 英文原文译出，CHM 汉化里没有这段译文，未经人工校对。}}
+调查员在对抗神术法术的豁免上可以使用灵感能力而无需消耗灵感点数。在满足其他专长的先决条件时，本天赋视为神圣抗拒（Divine Defiance）专长（《[[信仰与哲学]]》第7页）。<noinclude>
+
+[[分类:调查员天赋]]
+
+{{职业}}</noinclude>

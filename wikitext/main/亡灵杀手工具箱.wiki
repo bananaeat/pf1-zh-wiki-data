@@ -1,0 +1,9 @@
+{{装备
+|name=亡灵杀手工具箱
+|english_name=Undead slayer's kit
+|cat=套装
+|price=402 gp
+|weight=7磅
+|description=该工具箱包括一个木质圣徽，一根蒜头项链，一把锤子，一个木桩，两瓶圣水，一根日光杖，一瓶次等复原术药水和一瓶防护邪恶药水。
+|source=极限宝具
+}}

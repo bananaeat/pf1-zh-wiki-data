@@ -1,0 +1,10 @@
+<noinclude>{{异能者导航}}
+'''异能防护'''（Psychic Defense, Su）是[[异能者]]的[[精神增幅|精神增幅]]。
+
+</noinclude>洞察微小而无形的线索，让异能者能够利用社交环境来对她的目标施加影响。异能者可以在社交活动中施放一个联结法术并从精神力池中消耗 1 点精神力，在下一次[[唬骗]]、[[交涉]]、[[威吓]]或[[察言观色]]检定中获得+4加值。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_310.html 精神增幅]、[https://pf1chm.pages.dev/topics/zhb4162fc9dd.htm 乌笃剌精神增幅]、[https://pf1chm.pages.dev/topics/page_855.html PSI技术]），按 AoN 核对过。全部精神增幅见 [[精神增幅]]。
+
+[[分类:精神增幅]]
+
+{{职业}}</noinclude>

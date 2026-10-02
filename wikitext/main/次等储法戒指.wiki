@@ -1,0 +1,14 @@
+{{魔法物品
+|name=次等储法戒指
+|english_name=Ring of Spell Storing (minor)
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Spell Storing (minor)
+|cat=戒指
+|aura=微弱塑能系
+|cl=5
+|slot=戒指
+|price=18,000 gp
+|description=如同[[储法戒指]]，次等储法戒指最多可以储存3个环位的法术。
+|req=[[锻造戒指]]、[[法术灌输]]
+|cost=9,000 gp
+|source=核心规则书、极限宝具
+}}

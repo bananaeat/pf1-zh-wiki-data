@@ -1,0 +1,9 @@
+<noinclude>'''大魔宠'''（Arch-Familiar, Su）是任意满足先决条件的职业都能选取的[[:分类:巅峰能力|替代巅峰]]。
+
+</noinclude>{{Source|传奇编年史|Chronicle of Legends|inline}}
+
+20级时，角色的魔宠甚至比许多冒险家都要更聪颖、更精明——也更危险！魔宠的智力增加5，获得12环级的类法术能力（例如每日3次[[高等隐形术]]），源自主人所能施放的法术且使用其主人的施法者等级、DC等数据。任何具有魔宠的职业均可选取该巅峰。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1501.html 原文]）。全部替代巅峰见 [[典范编年史]]。
+
+[[分类:巅峰能力]]</noinclude>

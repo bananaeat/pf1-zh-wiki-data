@@ -1,0 +1,15 @@
+{{魔法物品
+|name=侦测眼镜
+|english_name=Lenses of Detection
+|aon=MagicWondrousDisplay.aspx?FinalName=Lenses of Detection
+|cat=奇物
+|aura=中等预言系
+|cl=9
+|slot=眼部
+|price=3,500 gp
+|weight=1磅
+|description=这些圆形棱镜能让佩戴者看清细微之处，使其[[察觉]]检定获得+5表现加值。它同样有助于追踪，使追踪时的[[生存]]检定获得+5表现加值。
+|req=[[制造奇物]]、[[真知术]]
+|cost=1,750 gp
+|source=极限宝具
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=无助
+|english_name=Helpless
+|type=缺陷
+|pfs=否
+|description=你曾经目睹巨大的伤害降临到你爱人身上，但你却无能为力。当盟友处于可怕的境地时，这种行动能力的丧失有时会再次出现。
+|benefit=每场战斗遭遇中第一次有30英尺内的盟友因攻击而[[昏迷]]或死亡时，你会进入[[晕眩]]状态，直到你的下一回合结束。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

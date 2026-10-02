@@ -1,0 +1,11 @@
+{{消歧义|残酷 (消歧义)}}
+{{Feat
+|name=残酷
+|english_name=Cruelty
+|description=目睹他人的苦痛使你变得更为残暴
+|prerequisites=信仰宗-库松
+|benefit=当你对一个目标造成[[流血伤害]]，使一个目标受到恐惧或痛苦效果影响，或者使目标的生命值被降低到0或更低时，你在攻击检定和武器伤害上获得+2士气加值，持续1轮。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

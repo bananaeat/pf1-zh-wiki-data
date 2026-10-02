@@ -1,0 +1,10 @@
+{{Feat
+|name=额外游侠陷阱
+|english_name=Extra Ranger Trap
+|description=你能够更频繁地使用[[游侠陷阱]]。
+|prerequisites=【设置陷阱】职业特性。
+|benefit=你每日设置游侠陷阱的次数增加2次。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=使者
+|english_name=Emissary
+|type=地区
+|prerequisites=瓦瑞西亚-卡尔玛伽
+|description=习惯了卡尔玛伽的奇异居民，你几乎没有偏见。当与异怪、人形怪物、不死生物和巨人亚种的生物打交道时，你在交涉检定上获得+2的背景加值。
+|source_name=瓦瑞西亚，传说诞生之地
+|source_url=https://pf1chm.pages.dev/topics/zh1d5e5ac9bb.htm
+}}

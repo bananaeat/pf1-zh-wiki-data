@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Mummy's Mask Player's Guide pg. 9, People of the Sands pg. 30），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=古神信徒
+|english_name=Devotee of the Old Gods
+|type=战役
+|pfs=否
+|description=奥西里昂的历史可追溯到8,000多年前，如今在现代奥西里昂受到崇拜的神祇，与古奥西里昂鼎盛时期所尊奉的神祇并不相同——那时的神祇有[[阿努比斯]]、[[欧西里斯]]、[[拉]]和[[赛特]]等等。然而，你的家族从未丢弃祖先的信仰，你对古奥西里昂某位神祇的虔诚，也让奥西里昂过往的记忆得以延续——那段过往至今仍留存在瓦提那片未经侵扰的大墓地中。你的[[知识]]（历史）和知识（宗教）检定获得+1背景加值，且其中一项技能总是你的本职技能。此外，你对奥西里昂古神的信仰使你对抗神术魔法的豁免获得+1背景加值。关于古奥西里昂诸神的更多信息，请参阅《探索者冒险之路#80：空墓》。
+|source_name=Mummy's Mask Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Devotee%20of%20the%20Old%20Gods
+}}

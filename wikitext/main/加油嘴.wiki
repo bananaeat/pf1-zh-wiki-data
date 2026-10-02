@@ -1,0 +1,11 @@
+{{危害
+|name=加油嘴
+|english_name=Zerk
+|kind=毒品
+|type=伤口
+|addiction=轻度，强韧 DC 18
+|effect=1小时：[[先攻]]检定获得+1炼金加值。若使用者已对其成瘾，则在成瘾期间还会获得力量+1d4炼金加值
+|damage=1d2点体质伤害
+|price=50 gp
+|source=游戏主持人指南
+}}

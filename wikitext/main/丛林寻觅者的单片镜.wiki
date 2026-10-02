@@ -1,0 +1,14 @@
+{{魔法物品
+|name=丛林寻觅者的单片镜
+|english_name=Jungle Seeker's Monocle
+|aon=MagicWondrousDisplay.aspx?FinalName=Jungle Seeker's Monocle
+|cat=奇物
+|aura=微弱咒法系
+|cl=3
+|slot=无
+|price=12,400 gp
+|description=这副经典单片镜的镜片由首理玻璃精心打磨而成。透过镜片观察，丛林寻觅者的单片镜的佩戴者即使在最茂密的丛林中也能发现隐藏的生物。在任何森林中，佩戴者都可以用察觉侦测3d6×10尺内其他活物的存在，此时把该森林视作稀疏森林（核心规则书第426页）。无论佩戴者身处森林还是别处，单片镜还使其在察觉使用潜行的生物的察觉检定上获得+2表现加值。
+|req=[[制造奇物]]、[[敏锐感官]]
+|cost=6,200 gp
+|source=商人货单
+}}

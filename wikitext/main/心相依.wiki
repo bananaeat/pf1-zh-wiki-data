@@ -1,0 +1,9 @@
+{{Trait
+|name=心相依
+|english_name=Perpetual Companion
+|type=信念
+|description=当与[[幻灵]]相依时你勇敢无畏。当与你的幻灵相距30尺以内时，你对抗恐惧效果的全豁免获得+2背景加值。
+|source_name=信念背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

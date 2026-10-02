@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[火蛇术 (神话)]]。</small></div>
+{{Spell
+|name=火蛇术
+|english_name=Fire snake
+|school=塑能系
+|tags=火
+|levels=奥能师 5;德鲁伊 5;术士 5;法师 5;猎人 5;秘学士 5;魔战士 5
+|action=标准动作
+|components=语言;姿势;材料（一片蛇鳞）
+|range=60尺
+|area=见下文
+|duration=立即
+|save=反射，通过则减半
+|sr=是
+|description=你创造一条蜿蜒的线形火焰，你可以按你的要求塑造其形状。火蛇可以影响每施法者等级一个5英尺方格，每一格都必须与前一格相邻，从你所在处开始。火蛇不能超出最大法术射程。火蛇的路径中的生物会受到每施法者等级1d6点火焰伤害 （最高15d6）。
+|source=进阶玩家指南
+}}

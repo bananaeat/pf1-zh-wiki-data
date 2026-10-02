@@ -1,0 +1,16 @@
+{{速查导航}}
+
+'''职业选项'''是《[[平衡勇士]]》的一章，两条[[狂暴之力]]加四条[[忍术]]。
+
+== 本章条目 ==
+
+* [[华丽缴械]]（Impelling Disarm）
+* [[凶恶阴招]]（Savage Dirty Trick）
+* [[忍术#血债 (Blood Debt, Su)|血债]]（Blood Debt，收在 [[忍术]] 页里）
+* [[忍术#神风 (Kamikaze, Su)|神风]]（Kamikaze，收在 [[忍术]] 页里）
+* [[忍术#借力 (Redirect Force, Ex)|借力]]（Redirect Force，收在 [[忍术]] 页里）
+* [[忍术#替身术 (Kawarimi, Su)|替身术]]（Kawarimi，收在 [[忍术]] 页里）
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_565.html 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

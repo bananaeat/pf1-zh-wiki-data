@@ -1,0 +1,10 @@
+<noinclude>{{炼金术师导航}}
+'''日光适应'''（Sunlight Acclimation, Ex）是[[炼金术师]]的[[科研发现]]。
+
+</noinclude>{{Source|内海怪物志|Inner Sea Monster Codex|inline}}
+
+'''效果'''：长期暴露在白昼的明亮光线下，使炼金术师对其影响略有抗性。当炼金术师由于阳光弱点而将要受到体质伤害时，他可以进行一次DC11的强韧豁免来抵消该效果。过去24小时内，他在阳光下每多待1小时（第一个小时不算），这个豁免的DC就增加1。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/zhb83e0d90c4.htm 原文]），按 AoN 核对过。全部科研发现见 [[:分类:科研发现|分类:科研发现]]。
+
+[[分类:科研发现]]</noinclude>

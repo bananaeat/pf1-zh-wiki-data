@@ -1,0 +1,14 @@
+{{魔法物品
+|name=凶猛行动戒指
+|english_name=Ring of Ferocious Action
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Ferocious Action
+|cat=戒指
+|aura=微弱变化系
+|cl=5
+|slot=戒指
+|price=3,000 gp
+|description=这枚[[魔法物品#戒指|戒指]]能让穿戴者顶住那些妨碍行动的肉体或精神创伤。每天1次，当穿戴者因敌人的攻击而获得[[恍惚]]状态时，她可以忽略该状态，最长5轮。这并不会阻止她再次获得恍惚状态；如果她多次获得恍惚状态，戒指也不会对她提供保护。
+|req=[[锻造戒指]]、[[加速术]]、[[稳定伤势]]
+|cost=1,500 gp
+|source=进阶种族手册、极限宝具
+}}

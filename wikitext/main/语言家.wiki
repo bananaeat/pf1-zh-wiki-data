@@ -1,0 +1,9 @@
+{{Trait
+|name=语言家
+|english_name=Unintentional Linguist
+|type=社会
+|description=你能与异界生物交流。你的[[语言学]]检定获得+1背景加值，并且你在游戏起始时习得以下一种语言(此为你的种族奖励和通过智力修正习得的语言之外):深渊语，水族语，天界语，火族语，炼狱语，幻蛇语,土族语。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

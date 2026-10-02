@@ -1,0 +1,47 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #73: The Worldwound Incursion
+|authors=Amber E. Scott
+|pages=96
+}}
+
+{{书页/简介|head=末日的开端！|1=
+一百多年来，恶魔横行的世界之伤一直在与人类交战：它的深渊大军在失落的萨克利斯（Sarkoris）边境与十字军、蛮族、佣兵和英雄们厮杀。然而，当一块帮助把恶魔困在其野蛮领域内的魔法守护石遭到破坏时，十字军之城肯纳布雷斯（Kenabres）遭到恶魔大军的袭击与摧毁。一小队注定拥有神话伟力的英雄，能否撑到援军到来，挡住混乱与邪恶的力量？还是他们将成为蝗虫之主、恶魔领主[[德斯卡瑞]]所屠戮的漫长受害者名单上的又一员？
+
+本册《冒险之路》开启「正义之怒」冒险之路，内容包括：
+
+* 《世界之伤入侵》，一部面向 1 级角色的开拓者 RPG 冒险，作者 Amber E. Scott。
+* 世界之伤边境上的十字军之城肯纳布雷斯地志，作者 Amber E. Scott。
+* 「探索者日志」中对一名臭名昭著的恶魔猎手的追寻，作者 Robin D. Laws。
+* 一份完整的「正义之怒」战役概要。
+* 四种新怪物，作者 James Jacobs、Jason Nelson、David Schwartz 与 Jerome Virnich。
+}}
+
+'''冒险之路73：世界之伤入侵'''（''Pathfinder #73: The Worldwound Incursion''）是[[冒险之路]]「正义之怒」系列的一部冒险，由 Amber E. Scott 撰写，附加内容出自 James Jacobs、Jason Nelson、David Schwartz 和 Jerome Virnich，小说出自 Robin D. Laws，于 2013 年 8 月 15 日发售。它是「正义之怒」冒险之路的开篇章节，也是第一部使用核心规则增补《[[神话冒险]]》的已出版冒险。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+世界之伤入侵 @ 6
+NPC 图集 @ 56
+正义之怒宝藏 @ 64
+- 胆汁瓶
+- 黄铜头颅
+- 光辉
+- [[石像鬼刺叉]]
+- 特伦德勒夫的鳞片
+- 守护石碎片
+陷落前的肯纳布雷斯 @ 66
+探索者日志：甘美灵血（1／6） @ 74
+怪物图鉴 @ 80
+战役概要 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=The Worldwound Incursion
+|releases=PDF¦PZO9073E¦2013-08¦；Softcover¦PZO9073¦2013-08¦
+}}
+
+[[分类:书目]]

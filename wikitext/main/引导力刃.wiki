@@ -1,0 +1,12 @@
+{{Feat
+|name=引导力刃
+|english_name=Channeling Force
+|categories=战斗
+|description=你引导的能量化为锋锐的力场结附在武器之上
+|prerequisites=可以施放至少一个力场法术，引导能量职业能力
+|benefit=以一个[[迅捷动作]]，你可以消耗一次本日的[[引导能量]]，使你的武器攻击获得相当于你引导能量骰数的额外伤害。本伤害是力场伤害。这个效果持续3次攻击或是战斗结束，取其先者。
+|stamina=引导力刃命中敌人时，你可以选择花费5点耐力，令此次攻击不计入持续3次的限额中。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

@@ -1,0 +1,15 @@
+{{Feat
+|name=雷霆双击
+|english_name=Twin Thunders
+|categories=战斗
+|description=当你与巨人战斗时，你混合了先人智慧的有力重击效果拔群。
+|prerequisites=矮人或侏儒，【防御训练】种族特性，双武器格斗或【疾风连击】职业特性，[[武器专攻]]（当前持用的两种武器）。
+|benefit=每轮1次，当你两手各用一件钝击武器攻击具有巨人亚种的生物时，若你在主手武器命中后又以副手武器命中，副手武器的伤害可在应用加值前双骰累加。额外伤害不会因重击加倍。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[雷霆大师]]、[[雷霆连击]]（2 个条目）

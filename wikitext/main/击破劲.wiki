@@ -1,0 +1,10 @@
+<noinclude>{{掉链武僧导航}}
+'''击破劲'''（Ki Sunder, EX）是[[掉链武僧]]的[[绝学|绝学]]。
+
+</noinclude>{{Source|武术手册|Martial Arts Handbook|inline}}
+
+习得该能力的武僧在尝试击破战技检定时，可以以自由动作花费1点气，把武僧等级作为加值加在伤害骰上。<noinclude>
+
+[[分类:绝学]]
+
+{{职业}}</noinclude>

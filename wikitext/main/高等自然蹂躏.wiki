@@ -1,0 +1,14 @@
+{{Spell
+|name=高等自然蹂躏
+|english_name=Nature's ravages, greater
+|school=死灵系
+|levels=女巫 7;先知 8;牧师 8
+|action=10分钟/目标HD
+|components=语言;姿势;材料/圣徽（晒干的蛆）
+|range=近距
+|target=生物的尸体，其总生命骰数不超过你的施法者等级
+|duration=立即
+|sr=否
+|description=此法术如同[[自然蹂躏]]般作用，除了目标尸体老化的年数最多等同于每施法者等级1年（20级时最长20年）。
+|source=地城探险者手册
+}}

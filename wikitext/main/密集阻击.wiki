@@ -1,0 +1,12 @@
+{{Feat
+|name=密集阻击
+|english_name=Barrage of Styles
+|categories=战斗;团队
+|description=你和你盟友多样的军事背景构成了一种独特的组合。
+|prerequisites=基本攻击加值+1，人类。
+|benefit=每有一个拥有此专长的[[人类]]盟友，如果威胁同一个敌人，并且和你以及其他威胁该敌人的盟友不是同一个民族，你的[[战技]]检定获得累计+1士气加值（最大+4）。
+|extra=本条翻译致谢 愚 者。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

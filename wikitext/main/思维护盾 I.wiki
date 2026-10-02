@@ -1,0 +1,14 @@
+{{Spell
+|name=思维护盾 I
+|english_name=Thought shield i
+|school=防护系
+|levels=异能者 2
+|action=直觉动作
+|components=语言
+|range=个人
+|target=自己
+|duration=1轮
+|sr=否
+|description=在察觉到他人的入侵时，你能临时构筑起一道防壁保护自己的精神免遭攻击或分析。这使你在对抗影响心灵效果的意志豁免中获得+4环境加值。只要该法术仍在生效，那些允许生物阅读你的思维的法术和效果就不会从你的思维中得到信息。
+|source=异能冒险
+}}

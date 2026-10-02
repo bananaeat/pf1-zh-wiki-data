@@ -1,0 +1,11 @@
+{{Feat
+|name=强击 · 返
+|english_name=Upsetting Strike
+|categories=战斗
+|description=对于晕头转向的敌人你能逆转攻防。
+|prerequisites=敏捷15，[[战斗反射]]，[[精通盾击]]，[[强击流]]，擅长小圆盾
+|benefit=开启[[强击流]]后，如果敌人因强击流的效果而在对你的攻击骰上承受减值，并且他对你的近战攻击失手，且至少少于你的AC5点或以上时，该敌人会引起你的[[借机攻击]]。每轮你只能像这样对一个敌人进行一次借机攻击。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_361.html
+}}

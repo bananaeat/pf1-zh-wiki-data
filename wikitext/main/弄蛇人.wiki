@@ -1,0 +1,9 @@
+{{Trait
+|name=弄蛇人
+|english_name=Snake Handler
+|type=地区
+|prerequisites=出身奥西里昂，信仰[[阿佩普]]或[[瓦吉特]]
+|benefit=你曾作为奥西里昂的蛇神——阿佩普或瓦吉特的某个教派成员度过了一段时光。在教派仪式中涉及对危险蛇类的处置，而你已经学会了如何在它们周围保护自己及他人的安全。你在对抗中毒的强韧豁免检定上+2加值。[[驯养动物]]技能成为你的[[本职技能]]。
+|source_name=缘界英雄Heroes from the Fringe
+|source_url=https://pf1chm.pages.dev/topics/zh75ffd12667.htm
+}}

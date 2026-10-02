@@ -1,0 +1,10 @@
+{{Feat
+|name=警备
+|english_name=Lookout
+|categories=战斗;团队
+|description=你的盟友能够帮助你避免被[[突袭]]。
+|benefit=若你邻近一名拥有该专长的盟友，只要他能在突袭轮中行动，你就能在突袭轮中行动。如果你在正常情况下不能在突袭轮中行动，那么你的[[先攻]]等于你自己的先攻检定结果与该盟友的先攻检定结果-1二者中较低者。如果你与该盟友不需要本专长的帮助都能在突袭轮中行动，那么你们能各自进行一个[[标准动作]]与一个[[移动动作]]，或一个[[整轮动作]]。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

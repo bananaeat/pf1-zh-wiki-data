@@ -1,0 +1,9 @@
+{{装备
+|name=海王葡萄酒（一瓶）
+|english_name=Sealord wine (bottle)
+|cat=饮食
+|price=15 gp
+|weight=1/2磅
+|description=这些红、白葡萄酒产自某些沿海的葡萄园，带有酸甜交织的风味，在许多地方深受贵族推崇。
+|source=极限宝具
+}}

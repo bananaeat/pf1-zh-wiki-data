@@ -1,0 +1,22 @@
+{{魔法物品
+|name=治愈法杖
+|english_name=Staff of Healing
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Healing
+|cat=法杖
+|aura=中等咒法系
+|cl=8
+|slot=无
+|price=29,600 gp
+|weight=5磅
+|description=这根白蜡木法杖上镶嵌着银色的符文。
+
+该法杖可以使用以下法术：
+
+* [[治疗重伤]]（1 发）
+* [[次等复原术]]（1 发）
+* [[移除目盲/耳聋]]（2 发）
+* [[移除疾病]]（3 发）
+|req=[[制造法杖]]、[[治疗重伤]]、[[次等复原术]]、[[移除目盲/耳聋]]、[[移除疾病]]
+|cost=14,800 gp
+|source=核心规则书、极限宝具
+}}

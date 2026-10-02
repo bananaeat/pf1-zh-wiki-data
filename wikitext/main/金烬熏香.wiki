@@ -1,0 +1,14 @@
+{{魔法物品
+|name=金烬熏香
+|english_name=Incense of Golden Embers
+|aon=MagicWondrousDisplay.aspx?FinalName=Incense of Golden Embers
+|cat=奇物
+|aura=中等死灵系
+|cl=7
+|slot=无
+|price=2,800 gp
+|description=这种熏香点燃后会散发出刺鼻的气味，并使周围的空气中充满明亮的橙色和金色微粒。点燃这根熏香（一个不引发[[借机攻击]]的[[标准动作]]）并吸入烟雾1分钟的生物，会在1小时内获得火系亚种。这使该生物在效果持续期间获得火焰免疫和寒冷易伤。所列价格是单根熏香的价格，只够一个生物按上述方式使用并受益。
+|req=[[制造奇物]]、[[元素形态 I]]
+|cost=1,400 gp
+|source=商人货单
+}}

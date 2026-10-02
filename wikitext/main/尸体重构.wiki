@@ -1,0 +1,15 @@
+{{Spell
+|name=尸体重构
+|english_name=Restore corpse
+|school=死灵系
+|levels=先知 1;奥能师 1;女巫 1;异能者 1;德鲁伊 1;战斗祭司 1;术士 1;法师 1;牧师 1;猎人 1;秘学士 1;通灵者 1
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的尸体
+|duration=立即
+|save=无
+|sr=否
+|description=你让一具中型或更小的生物的已腐烂或只剩骨架的尸体上重新长出肉，使其能被活化成一具僵尸而非骷髅。尸体看起来就像生物刚死时的模样。新长出的肉有些腐坏，所以不适合食用。
+|source=极限魔法
+}}

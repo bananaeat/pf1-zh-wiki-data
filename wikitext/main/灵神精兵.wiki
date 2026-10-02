@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 14），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=灵神精兵
+|english_name=Lingshen's Finest
+|type=地区
+|prerequisites=灵神
+|description=你是灵神众多军队之一中的精锐士兵，你的纪律让你成为真正致命的敌人。你所有确认重击的掷骰获得+1背景加值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Lingshen%27s%20Finest
+}}

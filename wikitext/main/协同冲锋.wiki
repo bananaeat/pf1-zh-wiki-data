@@ -1,0 +1,12 @@
+{{Feat
+|name=协同冲锋
+|english_name=Coordinated Charge
+|categories=战斗;团队
+|description=你是指引盟友突入战局的专家。
+|prerequisites=至少另外两个团队专长，基本攻击加值+10。
+|benefit=拥有此专长的盟友对着你单次移动范围内的敌人发起冲锋时，你也可以通过[[直觉动作]]冲锋该敌人，但仍须遵守冲锋规则。
+|stamina=如果拥有此专长的盟友冲锋了目标，该目标不在你的移动范围内，但在两倍移动范围内的，花费5点耐力可对其直觉冲锋，但仍须遵守冲锋规则。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

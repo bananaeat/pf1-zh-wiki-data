@@ -1,0 +1,15 @@
+{{魔法物品
+|name=近射弓
+|english_name=Nearfiring Bow
+|aon=MagicCursedDisplay.aspx?ItemName=Nearfiring Bow
+|cat=诅咒物品
+|base=[[短弓]]
+|enh=+2 及远
+|aura=中等预言系
+|cl=6
+|slot=无
+|weight=2磅
+|description=这把弓看起来是一把+2[[及远]][[短弓]]，但它的诅咒在于：每超出第一个射程增量一个，它的攻击检定就承受累计-4减值。此外，在第一个射程增量之外射击时，重击确认检定还承受额外-4减值。这把弓必须作为持用者的主要远程武器使用，并且只有在其拥有者受到[[移除诅咒]]法术或类似效果的作用之后才能丢弃。
+|req=+2[[及远]][[短弓]]
+|source=极限宝具
+}}

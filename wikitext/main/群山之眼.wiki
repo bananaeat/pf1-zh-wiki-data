@@ -1,0 +1,10 @@
+{{Feat
+|name=群山之眼
+|english_name=Mountain Eyes
+|description=你的目光可以轻松穿过云雾。
+|prerequisites=[[盲斗]]，察觉5级。
+|benefit=你会无视由雾，雨，烟，风或者其他气体以及天气效果（包括魔法效果，比如[[隐雾术]]）带来的[[隐蔽]]（不包括[[全隐蔽]]），并且你可以无视此类环境对察觉检定造成的至多-4减值。你把10尺以内任何气体或天气效果造成的全隐蔽视为隐蔽（20%失手率）。
+|source=EMH
+|source_name=元素大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_1114.html
+}}

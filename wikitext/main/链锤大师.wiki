@@ -1,0 +1,11 @@
+{{Feat
+|name=链锤大师
+|english_name=Dorn-Dergar Master
+|categories=战斗
+|description=你可以用一只手轻松地操作链子锤。
+|prerequisites=[[双武器格斗]]，基础攻击加值+4，擅长矮人链子锤
+|benefit=你可以将[[矮人]]链子锤作为单手武器使用。在以单手持用矮人链子锤时，你需要一个[[整轮动作]]来调整链子锤的触及或非触及特性；如果你拥有铁蟒出洞专长，那么你可以以一个[[移动动作]]将矮人链子锤切换为触及或非触及武器。
+|normal=矮人链子锤是需要双手持用的武器。
+|source_name=冒险者的军械库
+|source_url=https://pf1chm.pages.dev/topics/zh76e8e262f5.htm
+}}

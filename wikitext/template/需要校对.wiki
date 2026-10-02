@@ -1,0 +1,22 @@
+<includeonly>{{Mbox
+ |type =help
+ |text =这篇文章刚刚完成，还需要进一步'''校对和完善'''。此处查看[[:Category:需要校对|需要校对的词条列表]]。{{#if:{{{1|}}}|编辑者签名：{{{1}}}。}}{{#if: {{{2|}}} |<br><b>{{{2}}}</b>}}
+}}[[Category:需要帮助]]</includeonly><noinclude>{{优质模板|功能}}{{documentation}}[[Category:huiji template]]
+<templatedata>
+{
+	"description": "此模版表示在页面起始部位或者任意章节开始处插入{{需要校对}} 来标记当前页需要校对。本模板来自 https://templatemanager.huijiwiki.com/wiki/%E6%A8%A1%E6%9D%BF:%E9%9C%80%E8%A6%81%E6%A0%A1%E5%AF%B9",
+	"params": {
+    	"1": {
+			"description": "编辑者签名",
+			"type": "string",
+			"required": false
+        },
+    	"2": {
+			"description": "自定义文字",
+			"type": "string",
+			"required": false
+        }
+    }
+}
+</templatedata>
+</noinclude>

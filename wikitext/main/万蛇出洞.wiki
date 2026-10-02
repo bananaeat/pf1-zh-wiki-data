@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[万蛇出洞 (神话)]]。</small></div>
+{{Feat
+|name=万蛇出洞
+|english_name=Medusa's Wrath
+|aliases=美杜莎之狂怒
+|categories=战斗
+|description=你的连续攻击令对手眼花缭乱。
+|prerequisites=[[精通徒手打击]]，[[蛇形拳]]，[[蝎形拳]]，基本攻击加值+11。
+|benefit=每当你进行[[全力攻击]]并做出至少一次徒手打击攻击时，你可以额外以最高BAB做出两次徒手打击攻击。这些额外攻击必须针对[[晕眩]]、[[措手不及]]、[[麻痹]]、[[恍惚]]、[[震慑]]或[[昏迷]]状态的敌人。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[金蛇封穴]]（1 个条目）

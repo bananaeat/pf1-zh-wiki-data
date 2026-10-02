@@ -1,0 +1,9 @@
+{{Trait
+|name=蔑神
+|english_name=God Scorn
+|type=种族
+|prerequisites=[[魔裔]]（污秽族裔）
+|description=你蔑视那些神祇以及它们可悲的小牧师，这使你更容易摆脱神术的影响。你在对抗神术时，豁免检定获得+1背景加值。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_832.html
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=异族儿
+|english_name=Adopted
+|type=社会
+|description=你是一名养子，并且在与你自身种族和社群不同的环境下长大。你可以从养父母所属的种族和社群中选择一项种族背景。
+|source_name=社会背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

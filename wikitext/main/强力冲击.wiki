@@ -1,0 +1,15 @@
+{{Feat
+|name=强力冲击
+|english_name=Intense Blows
+|categories=盔甲掌握;战斗
+|description=你强力的冲击和你盔甲的重量让你在战斗中更加难以阻挡。
+|prerequisites=力量13，[[猛力攻击]]，基本攻击加值+6或者战士4级，盔甲训练职业特性，[[擅长重甲]]
+|benefit=当你使用[[猛力攻击]]时，在你的下一轮开始之前你在[[CMD]]上获得+1加值。当你的基本攻击加值到达4以及之后的每4点时，这个加值都会提升额外1点。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_1089.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[震撼冲击]]（1 个条目）

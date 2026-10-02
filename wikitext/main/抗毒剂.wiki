@@ -1,0 +1,13 @@
+{{装备
+|name=抗毒剂
+|english_name=Antitoxin
+|cat=炼金药剂
+|price=50 gp
+|weight=—
+|craft_dc=25
+|description=这种物质能中和一种特定的毒素。如果你喝下一小瓶抗毒剂，在接下来的一小时内对抗毒素的强韧豁免检定获得+5炼金加值。
+|recipe=（7 黄金＋17 没药＋23 尿素）／蜡化；制作 DC 25
+|recipe_time=10 分钟
+|recipe_tools=坩埚
+|source=核心规则书、极限宝具、炼金术手册
+}}

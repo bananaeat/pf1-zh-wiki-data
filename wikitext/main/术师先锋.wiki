@@ -1,0 +1,10 @@
+{{Feat
+|name=术师先锋
+|english_name=Caster's Champion
+|categories=战斗
+|description=你可以利用盟友奥术施法者的力量来强化自己武器的魔法能量。
+|benefit=每日3次，当你位于奥术施法者盟友30尺内时，你可以[[迅捷动作]]将她的一部分奥术能量导入你的武器。在1轮中，你在所有武器伤害骰中获得＋1加值，且你的武器在克服伤害减免时视作魔法武器。你的BAB达到＋4时该加值增加1点，此后每＋4增加1点，16级时达到最高＋5。
+|special=该专长在满足其他能力的先决条件时视为[[奥术打击]]。
+|source_name=地狱骑士之道
+|source_url=https://pf1chm.pages.dev/topics/zh79983be4c7.htm
+}}

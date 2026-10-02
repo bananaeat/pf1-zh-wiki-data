@@ -1,0 +1,11 @@
+{{Feat
+|name=盾杖大师
+|english_name=Shielded Staff Master
+|categories=战斗
+|description=你的木棍与盾合为一体
+|prerequisites=敏捷17，[[精通双武器格斗]]，[[盾杖流]]，[[双武器格斗]]，基本攻击加值+8
+|benefit=当使用[[盾杖流]]时，你将安装的[[小圆盾]]或盾牌的增强加值（如果有）加在你从[[流派]]获得的盾牌加值上。另外，你不会受到使用盾杖攻击造成的-1攻击减值。如果你的盾牌和武器都拥有增强加值，使用更高的加值来决定你盾杖攻击和伤害骰的加值。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/zh366bfc623c.htm
+|source=MAH
+}}

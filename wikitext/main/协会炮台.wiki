@@ -1,0 +1,9 @@
+{{Trait
+|name=协会炮台
+|english_name=Havoc of the Society
+|type=魔法
+|prerequisites=[[术士]]，[[探索者协会]]
+|description=通过花费大量时间在协会浩瀚的藏书中学习奥术的知识，你学会了如何对你的敌人造成更多的伤害。当你施放一个造成伤害的法术时，你的法术总伤害+1背景加值。无论你施放的法术造成何种类型的伤害，该附加伤害总是力场伤害。
+|source_name=碎星玩家手册
+|source_url=https://pf1chm.pages.dev/topics/zhb4c4366d0e.htm
+}}

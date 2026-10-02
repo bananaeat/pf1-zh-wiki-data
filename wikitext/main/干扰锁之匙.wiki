@@ -1,0 +1,15 @@
+{{魔法物品
+|name=干扰锁之匙
+|english_name=Key of Lock Jamming
+|aon=MagicWondrousDisplay.aspx?FinalName=Key of Lock Jamming
+|cat=奇物
+|aura=微弱防护系
+|cl=1
+|slot=无
+|price=400 gp
+|weight=1/2磅
+|description=这把华丽的黄铜钥匙会自动重塑自身，以适配任何标准锁孔（通常指为小型或中型生物使用而制的门锁，不包括像矮人要塞大门那样刻意做得特别大的锁）。钥匙一旦插进锁里，就会与锁融为一体，填满锁内所有空隙，形成一整块金属，使这把锁无法被打开，即使用魔法也不行。在封住锁的同时，钥匙会强化锁的材质，使锁的[[硬度]]+2、生命值+8、破坏DC+5。触碰钥匙并说出命令字，钥匙就会崩解，锁完好无损，机关也恢复可用。
+|req=[[制造奇物]]、[[封门术]]
+|cost=200 gp
+|source=进阶玩家指南、极限宝具
+}}

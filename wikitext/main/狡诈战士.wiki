@@ -1,0 +1,13 @@
+{{Feat
+|name=狡诈战士
+|english_name=Wily Warrior
+|categories=故事
+|pfs=否
+|description=旁人常因你威严的外表而以为你只靠蛮力取胜，但你总能让他们认清事实。
+|prerequisites=[[唬骗]]1级，[[察言观色]]1级，基础攻击加值+1，或拥有「军事战略家」角色背景（见第5页）。
+|benefit=每天1次，你可以在进行一次意志豁免时，将你的察言观色等级代替你总的意志豁免修正。你必须在掷骰前决定是否使用此能力。
+|goal=在以下情况下妨害了适当数量的强大敌手：在他们试图欺骗你时你获得了负面的直觉，或你对其发动了[[伏击]]。
+|completion_benefit=对你进行的唬骗与威吓检定DC增加5点。
+|source_name=间谍大师手册
+|source_url=https://pf1chm.pages.dev/topics/zh704e55dbf1.htm
+}}

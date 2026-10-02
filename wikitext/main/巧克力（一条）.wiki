@@ -1,0 +1,9 @@
+{{装备
+|name=巧克力（一条）
+|english_name=Chocolate (bar)
+|cat=饮食
+|price=5 gp
+|weight=1/2磅
+|description=这种又黑又苦的零食既可以固体食用，也可以融化后加进牛奶之类的饮料里。在某些地区，会将它与糖或辣椒混合。
+|source=极限宝具
+}}

@@ -1,0 +1,16 @@
+{{魔法物品
+|name=雄心奖章
+|english_name=Medal of the Hero's Heart
+|aon=MagicWondrousDisplay.aspx?FinalName=Medal of the Hero's Heart
+|cat=奇物
+|aura=中等咒法系
+|cl=7
+|slot=颈部
+|price=3,400 gp
+|description=雄心奖章是一种荣誉吊坠，常被授予高贵的十字军战士和善良教会的勇士。[[艾奥梅黛]]的教会常把这种奖章授予世界之伤前线上的英雄。奖章的外观因制作者和获奖的勇士而异，但几乎总会有某种人类心脏的图案。雄心奖章的佩戴者在移除临时负向等级的豁免检定上获得+4神圣加值。
+
+此外，雄心奖章的佩戴者也可以以一个[[直觉动作]]耗用奖章的魔力，以避免获得1个永久负向等级。这样做会使奖章碎裂，被摧毁。
+|req=[[制造奇物]]、[[复原术]]
+|cost=1,700 gp
+|source=内海诸神
+}}

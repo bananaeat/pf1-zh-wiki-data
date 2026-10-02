@@ -1,0 +1,9 @@
+{{Trait
+|name=毒虫牧人
+|english_name=Vermin Wrangler
+|type=种族
+|prerequisites=[[侏儒]]
+|description=为了蒐集影响心灵的[[毒品]]及其他药剂的原料，你变得十分熟悉沙漠中的多脚害兽。你在识别虫类生物的知识(地城)检定以及抵抗虫类生物的特异能力的豁免骰上获得+2背景加值。
+|source_name=沙之子民
+|source_url=https://pf1chm.pages.dev/topics/zh730f330f66.htm
+}}

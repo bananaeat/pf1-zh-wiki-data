@@ -1,0 +1,14 @@
+{{Spell
+|name=精神屏障 V
+|english_name=Mental barrier v
+|school=防护系
+|levels=异能者 6
+|action=直觉动作
+|components=语言
+|range=个人
+|target=你
+|duration=1轮
+|sr=否
+|description=该法术的功能如同[[精神屏障 III]]一般，不过当你被重击或者偷袭时，有50%的概率免受额外伤害，就如同中度护命一般。这不会与其他免受重击或偷袭造成的额外伤害的类似效果叠加。此外，你免疫心灵戳刺 I、II和III，心灵戳刺 IV、V和VI对你造成的伤害减半（即成功通过意志豁免时降低至四分之一）。该法术可以被降阶施法。
+|source=异能冒险
+}}

@@ -1,0 +1,43 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #37: Souls for Smuggler's Shiv
+|authors=James Jacobs
+|pages=96
+}}
+
+{{书页/简介|head=唯强者生存|1=
+一场致命的风暴把珍妮维尔号（Jenivere）的乘客与船员抛上了走私者之刃（Smuggler's Shiv）——萨迦瓦丛林王国海岸外的一座岛屿。要想逃出这座臭名昭著的海盗坟场，幸存者们必须团结一心，智胜岛上的奇异野兽与传说中的威胁。可是，PC 们能团结起这群动辄争吵的漂流者吗，尤其当其中好几个人似乎各怀神秘目的？走私者之刃是否还藏着比它那些绝望的居民更致命的秘密？
+
+本册《冒险之路》开启「蛇神颅骨」冒险之路，内容包括：
+
+* James Jacobs 的开拓者角色扮演游戏冒险《走私者之刃》（"Souls for Smuggler's Shiv"），适用于 1 级角色。
+* James Jacobs 对流落走私者之刃的众多人物的详细介绍。
+* Clinton Boomer 揭示[[蛇人(怪物)|蛇人]]的历史、行事方式与遍及世界的阴谋。
+* 在「探索者日志」中介绍丛林的智慧与危险，作者 Robin D. Laws。
+* James Jacobs 与 F. Wesley Schneider 设计的五种新怪物。
+}}
+
+'''冒险之路37：走私者之刃'''（''Pathfinder #37: Souls for Smuggler's Shiv''）是[[冒险之路]]「蛇神颅骨」系列的第一章冒险，由 James Jacobs 撰写，配套文章出自 Clinton Boomer 和 F. Wesley Schneider，小说出自 Robin D. Laws，于 2010 年 8 月 5 日发售。「蛇神颅骨」冒险之路共六部冒险，本册是其中的第一部。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+走私者之刃 @ 6
+遇难！ @ 56
+蛇人生态 @ 62
+探索者日志：光之瘟疫（1／6） @ 70
+怪物图鉴 @ 76
+蛇神颅骨战役概要 @ 88
+预设角色 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Souls for Smuggler's Shiv
+|releases=PDF¦PZO9037E¦2010-08¦；Softcover¦PZO9037¦2010-08¦
+}}
+
+<small>CHM 汉化里没有这本书的译名，书名是本站定的。</small>
+
+[[分类:书目]]

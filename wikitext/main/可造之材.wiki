@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Armor Master's Handbook pg. 2），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=可造之材
+|english_name=Promising
+|type=战斗
+|description=你的上级认定你是[[雄鹰骑士]]的候选人，他们的赞许激励着你努力达到他们的期望。每天在睡足一整夜之后，你在穿着护甲或持用盾牌时获得+1 AC背景加值。此加值持续到接下来24小时内你第一次被攻击命中为止。
+|source_name=护甲大师手册
+|source=AMH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Promising
+}}

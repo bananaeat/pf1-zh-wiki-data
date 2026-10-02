@@ -1,0 +1,14 @@
+{{Spell
+|name=岁月抵抗
+|english_name=Age resistance
+|school=变化系
+|levels=炼金术师 4;秘学士 4;调查员 4;奥能师 6;女巫 6;异能者 6;德鲁伊 6;术士 6;法师 6;猎人 6
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|target=你
+|duration=24小时
+|sr=否
+|description=这个法术类似[[次等岁月抵抗]]，不过它可以抵消掉中年和老年的力量、敏捷和体质罚值。
+|source=极限魔法
+}}

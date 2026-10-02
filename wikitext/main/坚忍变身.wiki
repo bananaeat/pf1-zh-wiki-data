@@ -1,0 +1,10 @@
+{{Trait
+|name=坚忍变身
+|english_name=Durable Change
+|type=种族
+|prerequisites=[[兽态人]]（熊人裔）
+|description=当你使用变身能力时，你可以选择获得[[坚忍]]专长的效果，而非获得一项特殊能力。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_808.html
+}}

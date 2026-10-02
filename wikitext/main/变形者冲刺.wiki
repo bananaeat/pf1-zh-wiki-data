@@ -1,0 +1,10 @@
+{{Feat
+|name=变形者冲刺
+|english_name=Shifter's Rush
+|description=你可以在朝着敌人移动的途中使用自然变身的能力。
+|prerequisites=自然变身职业能力，[[变形者]]4级。
+|benefit=当你用[[移动动作]]移动10尺或更长的距离，亦或是当你进行冲锋时，你可以在该次移动中以[[自由动作]]使用自然变身。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

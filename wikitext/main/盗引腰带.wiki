@@ -1,0 +1,15 @@
+{{魔法物品
+|name=盗引腰带
+|english_name=Channel-Thieving Belt
+|aon=MagicWondrousDisplay.aspx?FinalName=Channel-Thieving Belt
+|cat=奇物
+|aura=微弱咒法系、死灵系
+|cl=3
+|slot=腰部
+|price=2,000 gp
+|weight=2磅
+|description=这条宽大的黑色皮腰带上镶嵌着盘旋的铜质符文。如果佩戴者是活物，则每当其处于为伤害不死生物而引导的正能量爆发范围内时会获得治疗；如果佩戴者是不死生物，则每当其处于为伤害活物而引导的负能量爆发范围内时会获得治疗。引导的能量每有1d6点，佩戴者就回复1点生命值。若佩戴者自己就是[[引导能量]]的来源，则腰带无效。
+|req=[[制造奇物]]、[[治疗轻伤]]、[[造成轻伤]]
+|cost=1,000 gp
+|source=惧怖冒险
+}}

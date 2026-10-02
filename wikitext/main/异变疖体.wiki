@@ -1,0 +1,10 @@
+{{Feat
+|name=异变疖体
+|english_name=Aberrant Tumor
+|description=令人畏惧的是，你躯体上的畸怪组织事实上是你用来引导魔法能量的节点。
+|prerequisites=[[异怪血统]]
+|benefit=你获得一个[[囊肿魔宠]]UM，如同同名的炼金术士发现，将你获得此血统的等级视为你的炼金术士等级以决定该[[魔宠]]的能力。如果有多个职业均给予你[[异怪血统]]能力，那么这些职业等级可以叠加起来视为你的炼金术士等级。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

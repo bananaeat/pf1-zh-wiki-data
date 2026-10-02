@@ -1,0 +1,12 @@
+{{Feat
+|name=摔绊旋风
+|english_name=Tripping Twirl
+|categories=战斗
+|description=你可以用[[木棍摔绊]]所有邻接你的敌人。
+|prerequisites=智力13，[[寓守于攻]]，[[精通摔绊]]，[[木棍摔绊]]，[[武器专攻]]（木棍），[[武器专精]]（木棍），基本攻击加值+12。
+|benefit=当你以双手武器的方式使用木棍时，以一个[[整轮动作]]，你可以用木棍摔绊所有邻接你的敌人，你必须对每一个敌人分别进行[[摔绊]]检定。
+|special=如果你是魔剑士变体的法杖士（UM），你可以在任一次摔绊中使用【法术战斗】。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

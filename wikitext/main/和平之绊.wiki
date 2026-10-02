@@ -1,0 +1,10 @@
+<noinclude>{{女巫导航}}
+'''和平之绊'''（Peacebond, Su）是[[女巫]]的[[巫术]]。
+
+</noinclude>{{Source|纯洁勇士|Champions of Purity|inline}}
+
+女巫可以用该巫术阻止一个生物抽出武器，持续轮数等同女巫等级。该巫术对天生武器和已经在手中的武器无效，但能阻止弓箭手抽取箭支。成功的意志豁免可以令其无效；无论豁免成功与否，该生物在1天内都不会再次成为此巫术的目标。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_516.html 原文]），按 AoN 核对过。全部巫术见 [[:分类:巫术|分类:巫术]]。
+
+[[分类:巫术]]</noinclude>

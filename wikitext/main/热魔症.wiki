@@ -1,0 +1,12 @@
+{{危害
+|name=热魔症
+|english_name=Demon Fever
+|kind=疾病
+|type=伤口
+|save=强韧 DC 18
+|onset=1天
+|frequency=1次/天
+|effect=1d6点体质伤害，目标须再通过一次强韧豁免，否则其中1点伤害转为吸取
+|cure=连续2次豁免成功
+|source=核心规则书
+}}

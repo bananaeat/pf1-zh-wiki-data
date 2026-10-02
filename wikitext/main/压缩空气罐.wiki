@@ -1,0 +1,9 @@
+{{装备
+|name=压缩空气罐
+|english_name=Compressed air
+|cat=工具
+|price=50 gp
+|weight=10磅
+|description=这种压缩空气罐比[[气囊]]（《极限宝具》第58页）更持久，配有一个可用皮绳绑在嘴上的呼吸装置，能为一名中型角色提供足够正常呼吸 10 分钟的空气（小型角色为 20 分钟）。（译注：CHM 汉化译作「氧气罐」；罐里装的是压缩空气（Compressed air），不是氧气。）
+|source=繁星子民
+}}

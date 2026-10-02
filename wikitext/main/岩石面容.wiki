@@ -1,0 +1,10 @@
+{{Feat
+|name=岩石面容
+|english_name=Stone-Faced
+|description=岩石的裂纹都比你的表情丰富。
+|prerequisites=矮人。
+|benefit=当你说谎或者隐藏你的情感或真正的动机时，[[唬骗]]检定获得+4加值，但是这个加值无法用于在战斗中进行[[虚招]]或者传递密语。此外，使用察言观色检定获取关于你的直觉的DC为25，而非20。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

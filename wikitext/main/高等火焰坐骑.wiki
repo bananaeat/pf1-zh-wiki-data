@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|荒野源始|Wilderness Origins}}
+'''高等火焰坐骑'''（Greater Fire Steed, Sp）是[[操念使]]的[[原力]]。
+
+元素：火；类别：通用（Sp）；等级：8；超载：0
+
+前置：[[火焰坐骑]]，[[精通火焰坐骑]]
+
+当使用火焰坐骑时，坐骑会获得火焰免疫，并且速度额外提高10尺。此外，当坐骑进行奔跑动作时，它能以正常速度奔上陡坡，奔下陡坡时骑手也无需进行[[骑术]]检定。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Greater Fire Steed|2=Greater Fire Steed}}
+
+[[分类:原力]]

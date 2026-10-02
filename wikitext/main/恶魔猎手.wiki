@@ -1,0 +1,11 @@
+{{Feat
+|name=恶魔猎手
+|english_name=Demon Hunter
+|categories=战斗
+|description=你通晓恶魔知识。
+|prerequisites=[[知识]]（位面）6级
+|benefit=在使用知识（位面）检定了解恶魔的能力和力量时，你获得+2加值。在对抗你已经识别出，并且带有恶魔亚种的生物时，克服其[[特殊能力#法术抗力|法术抗力]]的施法者等级检定获得+2士气加值，对其进行的所有攻击检定获得+2士气加值。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

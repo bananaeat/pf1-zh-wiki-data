@@ -1,0 +1,8 @@
+<noinclude>{{忍者导航}}
+'''高等气毒'''（Greater Ki Venom, Ex）是[[忍者]]的[[忍术|忍术]]。
+
+</noinclude>{{Source|武术手册|Martial Arts Handbook|inline}} 拥有此忍术的忍者可以进一步增强她的气毒。忍者可以消耗2点气将伤害骰提高到d8，或者消耗2点气改为造成体质伤害。忍者必须拥有【气毒】方可选择本忍术。<noinclude>
+
+[[分类:忍术]]
+
+{{职业}}</noinclude>

@@ -1,0 +1,10 @@
+{{Feat
+|name=解除石化专家
+|english_name=Stone to Flesh Savant
+|description=你可以用恩惠将被石化的受害者变回血肉。
+|prerequisites=圣武士12级，圣疗职业特性，恩惠职业特性。
+|benefit=你获得了一种独特的恩惠，可以帮助[[石化]]的受害者。当你使用圣疗治疗伤害时，你可以对目标模仿[[解除石化]]的效果，使用你的圣武士等级作为你的施法者等级。这个能力只对石化的生物起作用，对其他石头不起作用。
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh03ef2e8763.htm
+}}

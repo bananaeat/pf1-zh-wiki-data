@@ -1,0 +1,12 @@
+{{危害
+|name=麻风病
+|english_name=Leprosy
+|kind=疾病
+|type=接触、吸入、伤口
+|save=强韧 DC 12 免除，强韧 DC 20 避免效果
+|onset=2d4周
+|frequency=1次/周
+|effect=1d2点魅力伤害
+|cure=连续2次豁免成功
+|source=核心规则书
+}}

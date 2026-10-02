@@ -1,0 +1,16 @@
+{{Feat
+|name=精通猎手羁绊
+|english_name=Improved Hunter's Bond
+|categories=战斗
+|description=你加深了与盟友间的联系，并赋予他们更高的加值。
+|prerequisites=猎手羁绊（队友）职业能力，游侠9级。
+|benefit=当你激活猎手羁绊时，你可以赋予你的盟友在对抗你选定单一目标时，获得你全部的宿敌加值。
+|normal=你的盟友在对抗你选定单一目标时，仅能获得你一半的宿敌加值。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[高等猎手羁绊]]（1 个条目）

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=藏剑之鞘
+|english_name=Sheath of Bladestealth
+|aon=MagicWondrousDisplay.aspx?FinalName=Sheath of Bladestealth
+|cat=奇物
+|aura=微弱幻术系
+|cl=5
+|slot=无
+|price=5,000 gp
+|weight=2磅
+|description=这个看似平平无奇却十分实用的剑鞘，适用于任何带刃的挥砍武器，从[[匕首]]到[[巨剑]]皆可。把武器放进藏剑之鞘后，鞘和武器都会变得[[隐形]]（如同[[隐形术]]法术），直到武器被拔出，此时鞘与武器都会重新变得可见。隐形的带鞘武器仍然可以通过触摸察觉，但携带者在[[隐藏武器]]的[[巧手]]检定上获得+5加值，而且随意查看时根本无法发现它。其他侦测或揭示隐形事物的效果对这把带鞘武器正常生效。
+|req=[[制造奇物]]、[[隐形术]]
+|cost=2,500 gp
+|source=进阶玩家指南、极限宝具
+}}

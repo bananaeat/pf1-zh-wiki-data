@@ -1,0 +1,41 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #5: Sins of the Saviors
+|authors=Stephen S. Greer
+|pages=96
+}}
+
+{{书页/简介|head=七宗罪地城！|1=
+「符文领主崛起」[[冒险之路]]继续！砂点镇地下的邪恶不肯安然沉睡，一名来自远古的杀手苏醒了。在他巢穴中找到的线索，把人引向一头传奇巨龙的巢穴，并深入一座由远古法师统治的庞大奥术地城——在那里，七宗罪君临一切。PC 们能否把自己心中的罪孽磨砺成武器，去对付他们真正的敌人——复活的贪婪符文领主卡祖格（Karzoug）？
+
+本期《开拓者》包括：
+
+* 《救世者的原罪》，一部面向 12 级角色的冒险，作者 Stephen S. Greer。
+* 对瑟西隆魔法与符文领主奥术秘密的洞察，作者 Brian Cortijo、Nicolas Logue、Owen K.C. Stephens 等。
+* 一窥疯狂、怪物与梦魇女神[[拉玛什图]]的亵渎邪教，作者 Sean K Reynolds。
+* 「探索者日志」第五篇，作者 Mike McArtor 和 James L. Sutter。
+* 六种新怪物，作者 Joshua J. Frost、Stephen S. Greer、Mike McArtor 和 F. Wesley Schneider。
+}}
+
+'''冒险之路5：救世者的原罪'''（''Pathfinder #5: Sins of the Saviors''）是[[冒险之路]]「符文领主崛起」系列的第五章冒险，由 Stephen S. Greer 撰写，配套文章出自 Brian Cortijo、Joshua J. Frost 等多位作者，小说出自 Mike McArtor 和 James L. Sutter，于 2008 年 1 月 30 日发行。
+
+== 目录 ==
+本期《开拓者》冒险之路还收录了怪物女神[[拉玛什图]]及其可憎仆从的详细介绍，以及对陨落帝国瑟西隆古代魔法的考察，可供你的战役使用，其中包括失传的罪业魔法（sin magic）的规则；此外，怪物图鉴栏目里还有六种新怪物。另外，Eando Kline 潜入一个秘密组织、设法夺回被盗财物时，或许终于要陷入灭顶之灾了。
+{{书页/目录|1=
+前言 @ 4
+救世者的原罪 @ 6
+瑟西隆魔法 @ 56
+[[拉玛什图]] @ 64
+探索者日志 @ 74
+怪物图鉴 @ 80
+预设角色 @ 92
+下期预告 @ 94
+}}
+
+{{书页尾
+|pfw=Sins of the Saviors
+|releases=PDF¦PZO9005E¦2008-01¦；Softcover¦PZO9005¦2008-01¦
+}}
+
+[[分类:书目]]

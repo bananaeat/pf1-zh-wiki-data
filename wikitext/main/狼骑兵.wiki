@@ -1,0 +1,10 @@
+{{Feat
+|name=狼骑兵
+|english_name=Wolf Rider
+|description=其他人继续骑着他们的马。但你知道狼才是更好的坐骑。
+|prerequisites=[[小型坐骑]]，或在授予坐骑或神契（坐骑）职业能力的职业中拥有等效7级；[[知识]]（自然）1级；坐骑或神契（坐骑）职业能力。
+|benefit=取代你通过坐骑或神契（坐骑）职业能力获得的正常坐骑，你可以选择一匹[[狼]]。此外，知识（自然）对你来说总是[[本职技能]]。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

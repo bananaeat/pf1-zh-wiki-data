@@ -1,0 +1,15 @@
+{{魔法物品
+|name=勇者绝运符
+|english_name=Hero's Release Pendant
+|aon=MagicWondrousDisplay.aspx?FinalName=Hero's Release Pendant
+|cat=奇物
+|aura=微弱死灵系
+|cl=5
+|slot=颈部
+|price=2,800 gp
+|weight=1磅
+|description=这枚小小的珠宝垂饰形如一把镶着漂亮蓝色宝石的小[[匕首]]，但它太小了，无法在战斗中用作武器。佩戴这枚垂饰时，佩戴者在施行[[致命一击]]时不会引发[[借机攻击]]。此外，垂饰还使佩戴者在意志豁免检定上获得+2抗力加值。
+|req=[[制造奇物]]、[[死亡丧钟]]、[[提升抗力]]
+|cost=1,400 gp
+|source=内海诸神
+}}

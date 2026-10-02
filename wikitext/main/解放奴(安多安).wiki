@@ -1,0 +1,10 @@
+{{Trait
+|name=解放奴(安多安)
+|english_name=Freed Slave (Andoran)
+|type=地区
+|prerequisites=安多安
+|description=你生而为奴或被卖做奴隶，不过被安多安废奴主义者解救。你坚定的意志帮助你熬过了奴隶生涯，并让你有勇气在安多安开始新的生活。你的意志豁免获得+1背景加值。
+|source_name=初探内海
+|source=初探内海 Inner Sea Primer
+|source_url=https://pf1chm.pages.dev/topics/zh90f44086c1.htm
+}}

@@ -1,0 +1,19 @@
+{{魔法物品
+|name=酸液法杖
+|english_name=Staff of Acid
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Acid
+|cat=法杖
+|aura=中等咒法系
+|cl=11
+|slot=无
+|price=28,600 gp
+|weight=5磅
+|description=这根法杖由被酸液腐蚀过的锈色金属制成，顶端嵌着一颗病态的绿色宝石。该法杖可以使用以下法术：
+
+* [[酸蚀之触]]UM（1 发）
+* [[强酸箭]]（2 发）
+* [[酸雾术]]（3 发）
+|req=[[制造法杖]]、[[强酸箭]]、[[酸雾术]]、[[酸蚀之触]]
+|cost=14,300 gp
+|source=极限宝具
+}}

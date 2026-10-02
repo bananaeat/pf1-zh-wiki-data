@@ -1,0 +1,9 @@
+{{Trait
+|name=历史学者
+|english_name=Historian
+|type=种族
+|prerequisites=[[人类]]（迦伦德人）
+|description=你的父母都是历史学者，可能是自己家谱的系谱学家、熟识古代帝国的智者，或者只是深爱着过去的爱好者。你在知识(历史)和逸闻知识检定获得+1背景加值，而且知识(历史)总是你的本职技能。
+|source_name=烈焰传承玩家手册
+|source_url=https://pf1chm.pages.dev/topics/zh5dfd5074ca.htm
+}}

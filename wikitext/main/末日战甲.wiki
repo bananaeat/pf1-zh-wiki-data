@@ -1,0 +1,30 @@
+{{物品
+|name=末日战甲
+|english_name=Armageddon Plate
+|category=魔法防具
+|aura=微弱变化系
+|cl=5级
+|price=2650gp
+|weight=50磅
+|requirements=制造魔法武器和防具，生命之息，恐惧术，有限祈愿术或神迹术
+|cost=133650gp
+|description=末日战甲对于每名穿戴者来说视同为+1全身甲（+1 full plate）——当小体型至大体型的穿戴者穿好这幅铠甲时，它会自动调整大小以适应穿戴者的体型。这套铠甲通体为黑色，关节连接处以及头盔的样式会让人联想起传说中的泰拉斯奎兽。
+
+'''成长分档'''：珍宝（见 [[成长型物品]]）
+
+'''6级'''：末日战甲视同为+1轻度护命全身甲（+1 light fortification full plate）。
+
+'''8级'''：近战攻击如果触发末日战甲的护命效果，便会激发铠甲的反噬。当攻击者用一件近战武器命中穿戴者，而且护甲使得一次重击或偷袭无效的话，护甲的力量会让攻击者战栗1d4轮（意志豁免DC 16，通过则无效）。这是个影响心灵的恐惧效果，而且该效果可以与自身叠加，从而使得攻击者变得惊惧或恐慌。
+
+'''11级'''：末日战甲视同为+1中度护命全身甲（+1 moderate fortification full plate）。
+
+'''13级'''：末日战甲视同为+2中度护命全身甲（+2 moderate fortification full plate）。恐惧效果的豁免DC提升至20，而且它能够影响使用远程或近战武器的攻击者。
+
+'''16级'''：末日战甲视同为+2中度护命坚韧全身甲（+2 moderate fortification full plate of invulnerability）。不过末日战甲会提供DR 5/－以取代原本的DR 5/魔法。
+
+'''18级'''：末日战甲视同为+2中度护命决心UE坚韧精金全身甲（+2 moderate fortification adamantine full plate of determinationUE and invulnerability）。来自精金和经过调整的坚韧效果带来的伤害减免相互叠加，总和为DR 8/－。
+
+'''20级'''：末日战甲视同为+2重度护命决心UE坚韧精金全身甲（+2 heavy fortification adamantine full plate of determinationUE and invulnerability）。每日1次，穿戴者能够让护甲上的尖刺伸出，并以整轮动作将6根尖刺齐射出去，每根尖刺都使用穿戴者最高的基本攻击加值且射程增量为120尺。每根尖刺都能造成2d10 + 穿戴者的力量加值点伤害。若使用尖刺攻击多个目标，那么这些目标彼此之间的距离不得超过30尺。每日1次，穿戴者能够以自由动作将她的基础陆上速度变为150尺，持续1轮。若穿戴者选择这么做，那么她在该轮内无法受到任何其他增加移动速度效果的调整。
+|source=PU
+|source_name=解放者
+}}

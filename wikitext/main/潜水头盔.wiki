@@ -1,0 +1,15 @@
+{{魔法物品
+|name=潜水头盔
+|english_name=Helm of Underwater Action
+|aon=MagicWondrousDisplay.aspx?FinalName=Helm of Underwater Action
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=头部
+|price=24,000 gp
+|weight=3磅
+|description=这顶头盔的佩戴者可以在水下视物。将头盔两侧小格中的镜片拉到佩戴者眼前，就能激活头盔的视觉功能，使她能看到的距离是水体和光照条件下普通[[人类]]视觉所能及距离的5倍。（水草、障碍物等照常阻挡视线。）如果说出命令字，潜水头盔会使佩戴者获得30尺游泳速度，并在其头部周围形成一团空气，持续到再次说出命令字为止，使她能够自由呼吸。
+|req=[[制造奇物]]、[[水中呼吸]]
+|cost=12,000 gp
+|source=核心规则书、极限宝具
+}}

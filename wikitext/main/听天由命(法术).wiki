@@ -1,0 +1,18 @@
+{{消歧义|听天由命}}
+{{Spell
+|name=听天由命
+|english_name=Severed fate
+|school=惑控系
+|levels=牧师 3;先知 3;战斗祭司 3;女巫 2
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一个活物
+|duration=10分钟/等级
+|save=意志，通过则无效
+|sr=是
+|description=你诅咒目标，使其无法汲取命运之力。在法术持续时间内，目标陷入[[战栗]]状态，并且不能使用[[英雄点]]。此效果可以被[[解除魔法]]、[[移除诅咒]]或其他类似效果移除。
+|source=进阶玩家指南
+}}
+
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_415.html 原文]），按 AoN 核对过。</small>

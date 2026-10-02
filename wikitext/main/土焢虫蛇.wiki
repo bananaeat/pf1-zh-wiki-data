@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=土焢虫蛇
+|english_name=Thoqqua Snake
+|aon=MagicWondrousDisplay.aspx?FinalName=Thoqqua Snake
+|cat=奇物
+|aura=微弱咒法系
+|cl=5
+|slot=无
+|price=750 gp
+|description=点燃时，这种烟火会如同[[发烟棒]]一样产生烟雾。它还会膨胀成一条灰烬管，1轮后化为一只[[土焢虫]]（《Pathfinder 怪物图鉴2》第262页）。土焢虫会尽其所能攻击使用者的对手。如果使用者会说火族语，她可以指挥土焢虫不要攻击、攻击特定的敌人或执行其他行动。5轮后，或土焢虫生命值降为0时（以先发生者为准），土焢虫就会坍塌成一堆非魔法的灰烬。
+|req=[[制造奇物]]、[[召唤怪物 III]]
+|cost=375 gp
+|source=魔法市集指南
+}}

@@ -1,0 +1,17 @@
+{{武器
+|name=双头链枷
+|english_name=Dire flail
+|category=武器
+|prof=异种
+|wcat=双手
+|price=90 gp
+|weight=10磅
+|dmg_s=1d6/1d6
+|dmg_m=1d8/1d8
+|crit=×2
+|type=钝击
+|special=卸武，双头，摔绊
+|groups=双头，链索
+|description=双头链枷在长握柄的两端各有一只布满尖刺的铁球，以锁链与握柄相接。这件武器擅长短促而有力的打击，通常以持续不断的回旋动作挥舞。双头链枷的持用者必须力量过人，既为了有效使用，也为了避免体力耗尽。
+|source=核心规则书、极限宝具
+}}

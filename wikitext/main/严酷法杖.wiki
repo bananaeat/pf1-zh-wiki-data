@@ -1,0 +1,21 @@
+{{魔法物品
+|name=严酷法杖
+|english_name=Staff of Rigor
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Rigor
+|cat=法杖
+|aura=中等（学派不定）
+|cl=8
+|slot=无
+|price=20,800 gp
+|weight=5磅
+|description=这根包铁的木杖可以使用以下法术：
+
+* [[绝望术]]（1 发）
+* [[惊恐术]]（1 发）
+* [[命令术]]（1 发）
+* [[魔化武器]]（1 发）
+* [[阵营武器]]（2 发）
+|req=[[制造法杖]]、[[阵营武器]]、[[绝望术]]、[[惊恐术]]、[[命令术]]、[[魔化武器]]
+|cost=10,400 gp
+|source=进阶玩家指南、极限宝具
+}}

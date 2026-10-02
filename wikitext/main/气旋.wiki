@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''气旋'''（Cyclone）是[[操念使]]的[[原力]]。
+
+元素：气；类别：塑形注能；等级：4；超载：3
+
+关联[[念袭]]类别：[[突风]]，[[风卷雪]]，[[沙尘暴]]，[[风雷击]]
+
+豁免：反射，通过则减半
+
+你创造出一团循着环形冲卷的气流。所有位于以你为中心、半径20尺爆发范围内的生物和物体都会受到伤害，数值为你的念袭正常伤害的一半。该豁免DC基于敏捷。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Cyclone|2=Cyclone}}
+
+[[分类:原力]]

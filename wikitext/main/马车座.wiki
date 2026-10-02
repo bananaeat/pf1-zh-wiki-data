@@ -1,0 +1,11 @@
+{{Trait
+|name=马车座
+|english_name=The Wagon
+|type=宇宙
+|aliases=50-56 马车座
+|prerequisites=埃拉斯图斯(Erastus)21日-奥罗都斯(Arodus)10日(译注：7月21日-8月10日)
+|description=就如那运送旅者穿越天空的车辆一般，你受到了非凡运动才能的祝福。每日1次以一个[[迅捷动作]](swift action),你可以增加你10尺的移动速度1轮。
+|source_name=宇宙背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zhc3ea784a66.htm
+}}

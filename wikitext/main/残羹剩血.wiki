@@ -1,0 +1,12 @@
+{{Feat
+|name=残羹剩血
+|english_name=Blood Salvage
+|pfs=否
+|description=你不需要通过吸食活物以获得治疗的好处。
+|prerequisites=[[饮血者]]，吸血裔。
+|benefit=你可以对已死的生物使用[[饮血者]]专长，只要他的生物类型为你所选择的类人生物子类。你只可以对死亡未满6小时的生物[[吸血]]。
+|normal=你只能使用“饮血者”专长吸取活物的新鲜血液。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

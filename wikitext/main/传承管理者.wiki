@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=传承管理者|en=Lore Keeper|type=Sp|domain=知识领域|source=核心规则书|text=你可以触摸一个生物以了解它的能力和弱点。通过一个成功的近战[[接触攻击]]，你可以如同进行对应的[[知识]]检定且结果等于“15+牧师等级+[[感知]]调整值”般获得关于生物的信息。}}<noinclude>
+
+[[分类:领域]]</noinclude>

@@ -1,0 +1,13 @@
+{{Feat
+|name=惩责导能
+|english_name=Channeling Scourge
+|aliases=惩责引导
+|description=你在追猎你的信仰之敌时怀着如此之高的热情，以至于你的[[引导能量]]能力在造成伤害时变得更加强大。
+|prerequisites=【引导能量】职业特性，审判者1级。
+|benefit=当你使用【引导能量】职业特性造成伤害时，你的审判者等级视为牧师等级，用于决定伤害骰数和豁免DC。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+{{FAQ|v5748eaic9okt}}

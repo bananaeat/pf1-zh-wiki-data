@@ -1,0 +1,10 @@
+{{Trait
+|name=护枪匠
+|english_name=Unblemished Barrel
+|type=战斗
+|pfs=否
+|description=你对火器的精熟加快了你修复枪械的速度。你的工艺(炼金)和工艺(武器)检定获得+1背景加值，你为一件火器移除[[破损]]状态仅需30分钟。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

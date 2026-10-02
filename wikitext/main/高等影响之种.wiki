@@ -1,0 +1,18 @@
+{{Spell
+|name=高等影响之种
+|english_name=Seeds of influence, greater
+|school=惑控系 (胁迫)
+|tags=情绪;影响心灵
+|levels=奥能师 7;吟游诗人 5;通灵者 4;催眠师 5;异能者 7;歌者 5;术士 7;女巫 7;法师 7
+|action=标准动作
+|components=姿势;材料（一朵玫瑰）
+|range=近距
+|target=一个生物
+|duration=1天/等级 (可解消)
+|save=意志，通过则无效
+|sr=是
+|description=此法术如同[[影响之种]]，除了如果目标受到某个法术的保护，使其在对抗你对其施放的预言系或影响心灵法术时获得免疫、法术抗力或豁免检定加值，你可以在这些保护对你的法术生效之前，尝试进行施法者等级检定来逐一解除每个这样的效果。解除每个效果的施法者等级检定DC等于11＋该效果的施法者等级。在高等影响之种生效期间对目标施放的此类法术，不能提供对抗高等影响之种的保护。
+|source=内海诡道
+}}
+
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_1104.html 原文]），按 AoN 核对过。</small>

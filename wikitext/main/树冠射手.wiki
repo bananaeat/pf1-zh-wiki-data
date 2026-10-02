@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 199），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=树冠射手
+|english_name=Canopy Shooter
+|type=种族
+|prerequisites=树蛙人
+|description=你在危险的丛林中长大，学会了利用自己相对于大型掠食者和狡猾猎物的机动优势。当你所处的位置比目标更高，且与目标相距30尺以内时，你的远程武器伤害检定获得+1背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Canopy%20Shooter
+}}

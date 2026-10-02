@@ -1,0 +1,42 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #19: Howl of the Carrion King
+|authors=Erik Mona
+|pages=96
+}}
+
+{{书页/简介|head=听啊，战争的呼号！|1=
+在异域风情的国度卡塔佩什——这片遍布财富与奇迹的土地上，英雄就是那些有勇气主宰自己命运的人。正是这样的智慧，把一支勇敢的队伍引向了被遗弃的凯尔玛兰（Kelmarane）村，他们希望让这个曾经繁荣的社区重获生机。然而秃鹫仍在这座偏僻聚落的残骸上啄食：一支野蛮的[[豺狼人(怪物)|豺狼人]]部落及其野兽盟友，正以一位只知其名为腐肉之王（Carrion King）的无情主人之名占据着这座村庄。PC 们能从这些野蛮的征服者手中夺回村庄吗？还是说，凯尔玛兰不过是文明在这位神秘军阀的大军面前沦陷的第一座堡垒？
+
+本册《冒险之路》开启「烈焰传承」冒险之路，内容包括：
+
+* 《腐肉之王的嚎叫》，一部面向 1 级角色的冒险，作者 Erik Mona。
+* 探究黄铜峰（Brazen Peaks）的野蛮豺狼人部落、他们残酷的文化与无情的族人，作者 Eric Haddock。
+* 曾供奉魔法之神的圣地废墟，如今成了一道活生生的诅咒的巢穴——场景冒险《内希斯的避难所》，作者 James MacKenzie。
+* [[德鲁伊]] Channa Ti 的冒险在「探索者日志」的新篇章《黑暗异面》中展开，作者为《纽约时报》畅销书作家 Elaine Cunningham。
+* 五种新怪物，作者 Adam Daigle、James Jacobs 和 F. Wesley Schneider。
+}}
+
+'''冒险之路19：腐肉之王的嚎叫'''（''Pathfinder #19: Howl of the Carrion King''）是[[冒险之路]]「烈焰传承」系列的第一部冒险，由 Erik Mona 撰写，配套文章出自 Adam Daigle、Eric Haddock、James Jacobs 和 F. Wesley Schneider，「场景冒险」（Set Piece）出自 James MacKenzie，小说出自 Elaine Cunningham，于 2009 年 4 月 15 日发售。本册荣获 2009 年 ENnie 奖两项：最佳冒险金奖与最佳封面艺术银奖。
+
+== 目录 ==
+「烈焰传承」冒险之路开幕！本册《冒险之路》收录了 Paizo 出版人 Erik Mona 自 2005 年《低语石冢》（The Whispering Cairn）开启「蠕虫时代」（Age of Worms）冒险之路以来的第一部冒险，详述了黄铜峰最凶残的几支豺狼人部落，还附有一部围绕一位格外疯狂邪恶的隐士展开的场景冒险。此外，《纽约时报》畅销书作家 Elaine Cunningham 也在「探索者日志」中开始连载她的六部中篇小说《黑暗异面》！
+{{书页/目录|1=
+前言 @ p4–5
+腐肉之王的嚎叫 @ p6–55
+黄铜峰的豺狼人 @ p56–61
+场景冒险：内希斯的避难所 @ p62–69
+探索者日志：黑暗异面（1／6） @ p70–75
+怪物图鉴 @ p76–87
+烈焰传承纲要 @ p88–89
+预设角色 @ p90–91
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Howl of the Carrion King
+|releases=PDF¦PZO9019E¦2009-04¦；Softcover¦PZO9019¦2009-04¦
+}}
+
+[[分类:书目]]

@@ -1,0 +1,11 @@
+{{消歧义|精神集中(魔战士奥能)}}
+<noinclude>{{异能者导航}}
+'''精神集中'''（Intense Focus, Ex）是[[异能者]]的[[精神增幅|精神增幅]]。
+
+</noinclude>异能者能够从精神力池中花费1点精神力，来使得她在施放联结法术时，以施法的一部分来尝试的任何专注检定获得+2加值。她也可以选择花费2点精神力来使得该加值提升至+4点。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_310.html 精神增幅]、[https://pf1chm.pages.dev/topics/zhb4162fc9dd.htm 乌笃剌精神增幅]、[https://pf1chm.pages.dev/topics/page_855.html PSI技术]），按 AoN 核对过。全部精神增幅见 [[精神增幅]]。
+
+[[分类:精神增幅]]
+
+{{职业}}</noinclude>

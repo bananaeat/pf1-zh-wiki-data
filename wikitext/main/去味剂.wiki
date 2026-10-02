@@ -1,0 +1,10 @@
+{{装备
+|name=去味剂
+|english_name=Deodorizing agent (vial)
+|cat=炼金工具
+|price=30 gp
+|weight=—
+|craft_dc=25
+|description=用一小瓶这种乳白色、无气味的物质涂抹在一个生物身上需要1分钟时间，并且能让该生物在1d3小时内没有气味。那些依靠嗅觉来定位其他生物的生物，在面对受到一剂去味剂影响的生物时，无法从自身依靠嗅觉的能力中获益。
+|source=动物档案
+}}

@@ -1,0 +1,24 @@
+{{魔法物品
+|name=死灵法杖
+|english_name=Staff of Necromancy
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Necromancy
+|cat=法杖
+|aura=强烈死灵系
+|cl=13
+|slot=无
+|price=82,000 gp
+|weight=5磅
+|description=这根法杖由乌木或其他深色木材制成，雕刻着骸骨与头骨的图案，间杂着奇异的蛛丝状符文。
+
+该法杖可以使用以下法术：
+
+* [[惊恐术]]（1 发）
+* [[食尸鬼之触]]（1 发）
+* [[死灵定身术]]（1 发）
+* [[弱能术]]（2 发）
+* [[疲乏波]]（2 发）
+* [[死亡法阵]]（3 发）
+|req=[[制造法杖]]、[[惊恐术]]、[[死亡法阵]]、[[弱能术]]、[[食尸鬼之触]]、[[死灵定身术]]、[[疲乏波]]
+|cost=41,000 gp
+|source=核心规则书、极限宝具
+}}

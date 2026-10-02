@@ -1,0 +1,12 @@
+{{Feat
+|name=额外科研发现
+|english_name=Extra Discovery
+|aliases=额外发现
+|description=你完成了一种新的炼金[[科研发现]]。
+|prerequisites=【科研发现】职业特性。
+|benefit=你获得一个【科研发现】。你必须满足这个科研发现的全部先决条件才能选取。
+|special=你能够多次选择本专长。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

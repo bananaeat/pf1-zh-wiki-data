@@ -1,0 +1,9 @@
+{{Trait
+|name=古历史学家
+|english_name=Ancient Historian
+|type=派系
+|description=你非常了解有关失落帝国的历史传说。从知识(历史)和[[语言学]]中选择一个，此技能成为你的[[本职技能]]。此外你开始游戏时就能说和读下列语言中的一种：古奥斯力昂语、阿兹兰提语、独眼巨人语、伊斯特克语、泰克立坦语或瑟西隆语。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=专信徒
+|english_name=Focused Disciple
+|type=信念
+|description=他人迟疑动摇时，你依然意志清明。你对抗魅惑和胁迫效果的全豁免获得+2背景加值。
+|source_name=信念背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

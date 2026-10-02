@@ -1,0 +1,10 @@
+<noinclude>{{侠客导航}}
+'''复仇之鞭'''（Whip of Vengeance, Ex）是[[侠客]]的[[侠客天赋]]。
+
+</noinclude>{{Source|内海诡道|Inner Sea Intrigue|inline}}
+
+效果：侠客获得[[长鞭熟稔]]UC作为[[奖励专长]]。如果他已经拥有专长长鞭熟稔UC，他可以转而获得一个他在获得长鞭熟稔UC的那个等级上满足先决条件的任意专长。此外，当他6级时，他还可以获得专长[[精通长鞭熟稔]]UC。他可以用自己的侠客等级作为BAB，来满足以长鞭熟稔UC为先决条件的专长和能力的先决条件。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh62263cd083.htm 原文]）。全部侠客天赋见 [[:分类:侠客天赋|分类:侠客天赋]]。
+
+[[分类:侠客天赋]]</noinclude>

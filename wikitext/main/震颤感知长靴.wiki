@@ -1,0 +1,15 @@
+{{魔法物品
+|name=震颤感知长靴
+|english_name=Tremor Boots
+|aon=MagicWondrousDisplay.aspx?FinalName=Tremor Boots
+|cat=奇物
+|aura=微弱预言系
+|cl=5
+|slot=脚部
+|price=10,000 gp
+|weight=1磅
+|description=这双棕色皮靴的靴尖用钢加固，鞋底带有凹槽，专为帮助穿戴者感知周围环境传来的震动而制。只要穿戴者站在坚实的地面上，这双靴子就赋予他5尺的[[颤动感知]]。
+|req=[[制造奇物]]、[[识破隐形]]
+|cost=5,000 gp
+|source=极限宝具
+}}

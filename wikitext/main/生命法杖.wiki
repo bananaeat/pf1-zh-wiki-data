@@ -1,0 +1,20 @@
+{{魔法物品
+|name=生命法杖
+|english_name=Staff of Life
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Life
+|cat=法杖
+|aura=中等咒法系
+|cl=11
+|slot=无
+|price=109,400 gp
+|weight=5磅
+|description=生命法杖由粗大的磨光橡木制成，杖端包金，饰有蜿蜒的银制或象牙制符文，这些符文依据不同文化，描绘着生与死的各种循环。
+
+该法杖可以使用以下法术：
+
+* [[医疗术]]（1 发）
+* [[死者复活]]（5 发）
+|req=[[制造法杖]]、[[医疗术]]、[[死者复活]]
+|cost=79,700 gp
+|source=核心规则书、极限宝具
+}}

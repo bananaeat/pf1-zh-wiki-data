@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=唇读眼镜
+|english_name=Spectacles of Lip Reading
+|aon=MagicWondrousDisplay.aspx?FinalName=Spectacles of Lip Reading
+|cat=奇物
+|aura=微弱预言系
+|cl=1
+|slot=眼部
+|price=3,000 gp
+|weight=1磅
+|description=这副眼镜上刻着猫头鹰的羽毛。只要通过DC 0的[[察觉]]检定（照常受距离和环境条件修正），佩戴者就能听懂她看得见的、说着她懂得的语言的任何人所说的话。
+|req=[[制造奇物]]、[[通晓语言]]
+|cost=1,500 gp
+|source=内海诡道
+}}

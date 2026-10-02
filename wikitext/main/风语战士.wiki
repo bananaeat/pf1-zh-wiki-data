@@ -1,0 +1,12 @@
+{{Feat
+|name=风语战士
+|english_name=Weathered Warrior
+|categories=战斗
+|description=你的手在任何天气都很稳。
+|prerequisites=[[坚忍]]
+|benefit=当你处于强风或烈风中或被风系法术效果影响到远程攻击时，你只会受到一半的远程攻击罚值。你可以在暴风环境中以-4罚值发动远程攻击。
+|normal=强风使远程攻击承受-2罚值，烈风使远程攻击承受-4罚值。无法在暴风中进行远程攻击。
+|source=RTT
+|source_name=远程战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_552.html
+}}

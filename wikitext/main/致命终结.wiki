@@ -1,0 +1,12 @@
+{{Feat
+|name=致命终结
+|english_name=Deadly Finish
+|categories=战斗
+|description=你的攻击从不击倒对手——因为他们都直接死了。
+|prerequisites=基本攻击加值+11。
+|benefit=当你用近战攻击将你的敌人的生命值减少至-1或更低时，你可以强迫他通过一次DC为“15+你的攻击造成的伤害”的强韧豁免，否则死亡。
+|stamina=花费2点耐力，你可以令目标的强韧检定必然成功。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

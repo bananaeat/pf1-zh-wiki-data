@@ -1,0 +1,10 @@
+{{Feat
+|name=注命引导
+|english_name=Fateful Channel
+|description=你的[[引导能量]]不但能治疗伤口，甚至能重编命运之线
+|prerequisites=引导正能量3d6，信仰法莱斯玛
+|benefit=当你引导正能量治疗活物时，你可以给予每一个被你所治疗的生物一次机会，让他们在一次攻击投骰，技能检定或豁免投骰时可以骰两次取高。这个效果持续等同于你的魅力调整值轮（至少1轮），这个能力不能通过多次使用而叠加，但是可以因此而重置持续时间。每个生物每次只能获得一个此效果的影响。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=听音辨位
+|english_name=Precision Hearing
+|type=种族
+|prerequisites=[[兽态人]]（蝙蝠人裔）
+|description=你一直凭藉强化的听觉来戒备因你的本性而来的追捕者。当你用察觉听到一个看不到的生物，超出DC10点以上时，你可以确定声音发出的格子。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_808.html
+}}

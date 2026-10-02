@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''狂猛野性'''（Feral Savagery）是一条神话[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Su</span><span class="sk-a">神话</span><span class="sk-f">位置：特殊攻击</span></div>
+</noinclude><includeonly><div class="lang"><span id="狂猛野性"></span><div class="lang-h"><b>[[狂猛野性]]</b><i>Feral Savagery</i><span class="lang-w">Su · 神话 · 特殊攻击</span></div><div class="lang-d"></includeonly>
+在怪物属性数据中列出的情形下（比如进行[[全力攻击]]或者[[撕扯]]攻击时），它能够立刻对一名对手尝试进行一次额外攻击。这次攻击会使用生物完整的基本攻击加值，加上任何适合该情况的调整值。此次额外攻击并不能与任何类似方式获取的额外攻击叠加，比如[[加速术]]和追击武器。该能力不会赋予它额外动作，因此你无法利用该能力在 1 轮内施放另一个法术或者以别的方式获取额外的动作。
+
+'''格式'''：狂猛野性（全力攻击）
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Feral Savagery|2=Feral Savagery}}
+
+[[分类:通用怪物规则]]</noinclude>

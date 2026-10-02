@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Elements pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=乳白天空
+|english_name=Whiteout
+|type=种族
+|prerequisites=水元素裔
+|description=当空气中充满水分时，你的元素之血让你能与周围环境融为一体，与降水合而为一。在非魔法的雾、雨、雪或类似情况（例如瀑布溅起的水雾）的区域中，你获得隐蔽的效果，但失手几率为10%。如果降水本已为你提供隐蔽，则两者的失手几率叠加。
+|source_name=元素血脉
+|source=BotE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Whiteout
+}}

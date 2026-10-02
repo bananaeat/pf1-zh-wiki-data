@@ -1,0 +1,10 @@
+{{Feat
+|name=义警帮手
+|english_name=Willing Accomplice
+|description=你在恰当的时候施以援手能够帮助盟友保住最为重要的秘密。
+|prerequisites=魅力 13，[[唬骗]]3级，[[察言观色]]1级
+|benefit=以[[标准动作]]，你能尝试1次[[唬骗]]检定来协助他人的[[易容]]检定。此外，当你以上述检定协助1名侠客盟友维持他的社交身份（见第9页）时，成功的检定能赋予该盟友+5点加值，以取代正常的+2点。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

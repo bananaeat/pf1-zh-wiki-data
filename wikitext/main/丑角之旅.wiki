@@ -1,0 +1,15 @@
+{{Spell
+|name=丑角之旅
+|english_name=Jester's jaunt
+|school=咒法系 (传送)
+|levels=催眠师 3;吟游诗人 3;歌者 3
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=一名活物
+|duration=立即
+|save=意志，通过则无效
+|sr=是
+|description=你将目标传送至你能看到、并且处于距目标30尺内的区域。目的地必须在坚实的地面之上，并且该次传送的终点空间本身对你传送的生物来说不能有害。
+|source=进阶玩家指南
+}}

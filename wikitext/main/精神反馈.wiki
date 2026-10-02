@@ -1,0 +1,10 @@
+<noinclude>{{异能者导航}}
+'''精神反馈'''（Psychofeedback, Su）是[[异能者]]的[[精神增幅|精神增幅]]。
+
+</noinclude>异能者可以从精神力池中花费2点精神力来牺牲一个2环或以上的联结法术，使她的力量、敏捷或体质获得每牺牲法术环级+1的增强加值，持续每异能者等级1分钟。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_310.html 精神增幅]、[https://pf1chm.pages.dev/topics/zhb4162fc9dd.htm 乌笃剌精神增幅]、[https://pf1chm.pages.dev/topics/page_855.html PSI技术]），按 AoN 核对过。全部精神增幅见 [[精神增幅]]。
+
+[[分类:精神增幅]]
+
+{{职业}}</noinclude>

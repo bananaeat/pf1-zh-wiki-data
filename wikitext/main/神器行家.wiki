@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Giantslayer Player's Guide pg. 6, Giant Hunter's Handbook pg. 30），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=神器行家
+|english_name=Artifact Hunter (GS)
+|type=战役
+|pfs=否
+|description=你一直对魔法很感兴趣，但真正令你着迷的，是那些被称为神器的传奇魔法物品。你花了多年时间研究这些神话般的遗物，并把关于它们的故事与传说熟记于心，使你成为这方面的行家。你在为辨识魔法物品特性而进行的[[法术辨识]]检定上获得+1背景加值，在[[使用魔法装置]]检定上获得+1背景加值，并且这两项技能中由你选择的一项成为你的[[本职技能]]。此外，每当你初次遇到一件神器时，你有50%的几率（每级+1%）认出它，并知道它的名称、来历，以及它的部分力量、能力或危险。你究竟掌握多少知识，由GM酌情决定。
+|source_name=Giantslayer Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Artifact%20Hunter%20%28GS%29
+}}

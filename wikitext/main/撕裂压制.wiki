@@ -1,0 +1,12 @@
+{{Feat
+|name=撕裂压制
+|english_name=Pinning Rend
+|aliases=压制撕裂
+|categories=战斗
+|description=当你攻击你压制中的对手时你可以撕裂他的肌肉。
+|prerequisites=敏捷13，[[高等擒抱]]，[[精通擒抱]]，[[精通徒手打击]]，基本攻击加值+9或武僧9级。
+|benefit=当你压制一个对手，如果你成功的进行了一次[[擒抱]][[战技]]检定、并且对其用[[徒手打击]]或轻型/单手武器造成伤害，该对手还将承受[[流血伤害]]，数值等同于你的徒手打击或轻型/单手武器的伤害骰。任何免疫重击的生物也免疫该专长的影响。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

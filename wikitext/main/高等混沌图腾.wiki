@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=高等混沌图腾
+|english_name=Chaos Totem, Greater
+|type=Su
+|categories=图腾
+|prerequisites=[[野蛮人]]10级，[[混沌图腾]]
+|benefit=狂暴时野蛮人获得DR“1/2野蛮人等级/秩序”。他的武器和天生武器在克服DR时视为混乱阵营。
+|source_name=进阶玩家指南
+}}

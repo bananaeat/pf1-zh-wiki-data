@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faiths and Philosophies pg. 33），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=狂信者风范
+|english_name=Zealot's Bearing
+|type=信念
+|description=你对自己的信仰或哲学怀有的炽热激情，周围每个人都看得一清二楚。与你信念相同的人会不由自主地想要服从你狂热的权威，这使你天生就是信仰中的领袖。遗憾的是，你对那些尚未看清皈依之智慧的人的鄙夷也同样一目了然，这使你很难胜任「无知大众」（你心里就是这么称呼他们的，而且并不怎么掩饰）的使者或传教士。与你的信仰或哲学的信徒打交道时，你在[[交涉]]和[[威吓]]检定上获得+2加值；但与其他任何人打交道时，你在交涉和威吓检定上承受-1罚值。
+|source_name=信仰与哲学
+|source=F&P
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Zealot%27s%20Bearing
+}}

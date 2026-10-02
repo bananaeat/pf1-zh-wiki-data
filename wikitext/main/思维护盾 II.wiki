@@ -1,0 +1,14 @@
+{{Spell
+|name=思维护盾 II
+|english_name=Thought Shield II
+|school=防护系
+|levels=异能者 3
+|action=直觉动作
+|components=语言
+|range=个人
+|target=你
+|duration=1轮
+|sr=否
+|description=该法术的功能如同[[思维护盾 I]]一般，不过在抵御影响心灵效果时，意志豁免得到的环境加值增加至+6点。该法术可以被降阶施法。
+|source=异能冒险
+}}

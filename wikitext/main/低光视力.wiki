@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=低光视力
+|english_name=Low-Light Vision
+|type=Ex
+|class=掉链野蛮人
+|benefit=野蛮人的感官变得更敏锐，她获得昏暗视觉能力。
+|classic=昏暗视觉(狂暴之力)
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

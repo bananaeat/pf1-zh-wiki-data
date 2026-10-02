@@ -1,0 +1,12 @@
+{{Feat
+|name=恶魔之型
+|english_name=Demonic Style
+|categories=战斗;流派
+|description=当你狂怒时自保无关紧要。
+|prerequisites=猛力攻击, 基础攻击加值+1
+|benefit=当你处于这种流派使用冲锋动作时，冲锋动作赋予的攻击检定加值增加1，并且作为冲锋动作的一部分你的近战攻击额外造成2点伤害。
+|special=如果你有狂暴或血怒职业特性，你可以进入恶魔之型姿态作为自由动作开启怒气的一部分。如果你这么做，当你狂暴结束时，该姿态也会结束。
+|source=PA
+|source_name=位面冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

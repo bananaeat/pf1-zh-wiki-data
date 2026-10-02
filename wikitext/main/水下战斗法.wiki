@@ -1,0 +1,12 @@
+{{Feat
+|name=水下战斗法
+|english_name=Aquatic Combatant
+|categories=战斗
+|description=你受过水中战斗的训练。
+|prerequisites=游泳1级。
+|benefit=你在游泳检定上获得+2加值，并且在水下进行近战攻击投骰时不会如常承受减值。你的挥砍近战攻击与徒手钝击攻击，可在水下造成全额伤害。
+|normal=当你身在水下时，你多数的近战攻击都要承受-2减值，并且仅能造成一半伤害。
+|source=UW、MeleeTT
+|source_name=极限荒野、近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

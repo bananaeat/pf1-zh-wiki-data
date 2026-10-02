@@ -1,0 +1,14 @@
+{{魔法物品
+|name=巫术戒指
+|english_name=Ring of Wizardry
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Wizardrytype I
+|cat=戒指
+|aura=中等（无学派）
+|cl=11
+|slot=戒指
+|price=20,000 gp（一型）；40,000 gp（二型）；70,000 gp（三型）；100,000 gp（四型）
+|description=这种特殊的[[魔法物品#戒指|戒指]]有四种类型，都只对奥术施法者有用。穿戴者每日可施放的奥术法术在某一特定环位上翻倍：一型巫术戒指使1环法术翻倍，二型使2环法术翻倍，三型使3环法术翻倍，四型使4环法术翻倍。高属性值或学派专精带来的额外法术不会翻倍。
+|req=[[锻造戒指]]、[[有限祈愿术]]
+|cost=10,000 gp（一型）；20,000 gp（二型）；35,000 gp（三型）；50,000 gp（四型）
+|source=核心规则书、极限宝具
+}}

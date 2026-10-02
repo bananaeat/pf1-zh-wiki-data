@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Orcs of Golarion pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=毁灭之怒
+|english_name=Fury
+|type=宗教
+|prerequisites=拉瓦古格
+|description=战斗与毁灭的洪流在你内心深处涌动。持用巨斧时，你为确认重击而进行的攻击检定获得+2背景加值。
+|source_name=格拉利昂的兽人
+|source=OoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Fury
+}}

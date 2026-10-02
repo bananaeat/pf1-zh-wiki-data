@@ -1,0 +1,10 @@
+{{消歧义|大众脸(盗贼天赋)}}
+{{Trait
+|name=大众脸
+|english_name=Ordinary
+|type=社会
+|description=你身上唯一不正常的事情就是你长的太正常了。加上你总是以与常人无异的方法待人处事，以至于见过你的人都没对你留下什么印象。你混迹于人群中的隐匿检定获得+4背景加值。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[防御式战斗训练]] 的神话版本。</small></div>
+{{Feat
+|name=防御式战斗训练
+|english_name=Defensive Combat Training
+|categories=神话
+|description=你在战斗中的防御技巧十分强大。
+|prerequisites=[[防御式战斗训练]]，神话阶层4阶
+|benefit=将你的阶层的一半加到你的[[CMD]]上。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

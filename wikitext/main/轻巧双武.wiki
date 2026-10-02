@@ -1,0 +1,12 @@
+<noinclude>{{战士导航}}
+'''轻巧双武'''（Effortless Dual-Wielding）是[[战士]]的[[进阶武器训练|进阶武器训练]]。
+
+</noinclude>战士在决定双武器攻击减值时，可以将相关武器组中的所有单手武器视作轻型武器。
+
+{{Source|野兽血脉|Blood of the Beast|inline}}<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_1094.html 原文]）。全部进阶武器训练见 [[进阶武器训练]]。
+
+[[分类:进阶武器训练]]
+
+{{职业}}</noinclude>

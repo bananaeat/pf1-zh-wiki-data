@@ -1,0 +1,10 @@
+{{Feat
+|name=日光召唤
+|english_name=Sunlight Summons
+|description=你所召唤的生物闪耀着太阳的光辉。
+|prerequisites=[[法术专攻]]（咒法），能够施展‘召唤自然盟友’。
+|benefit=你所召唤的生物如同被施展了[[光亮术]]一般散发着光芒。他们免疫[[目盲]]和[[目眩]]效果，并且他们的天生武器在克服伤害减免时视为魔法武器。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

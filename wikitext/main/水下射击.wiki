@@ -1,0 +1,11 @@
+{{Feat
+|name=水下射击
+|english_name=Aquadynamic Shot
+|categories=战斗
+|description=你使用特别的投射技巧来让你在水下损失较少的精准度。
+|prerequisites=[[远距射击]]，[[近距射击]]，基本攻击加值+4
+|benefit=在你与你的目标之间每有5尺水，你的投射武器就会在攻击骰上有-1的减值。除非在特殊的环境下（参见44页），你仍然不能在水下使用投掷武器。
+|normal=在你与你的目标之间每有5尺水，你的投射武器就会在攻击骰上有-2的减值。
+|source_name=水下冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1030.html
+}}

@@ -1,0 +1,17 @@
+{{Spell
+|name=反虚体护罩
+|english_name=Anti-incorporeal shell
+|school=防护系
+|levels=先知 4;唤魂师 4;女巫 4;异能者 4;战斗祭司 4;牧师 4;萨满 4
+|action=1轮
+|components=语言;姿势;圣徽
+|range=10尺
+|area=以你为中心，10尺半径发散区域
+|duration=1分钟/等级（可解消）
+|save=无
+|sr=是
+|description=你制造出一个可移动的半球形能量场，[[虚体]]生物无法进入到这个能量场内。
+
+该法术只能用于防守，且不具有攻击性。强行将护罩逼向无法进入能量场的生物会导致护罩的崩塌。
+|source=进阶职业指南
+}}

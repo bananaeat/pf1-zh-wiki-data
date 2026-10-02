@@ -1,0 +1,9 @@
+{{Trait
+|name=陵寝守望
+|english_name=Deathkeeper
+|type=种族
+|prerequisites=[[矮人]]（帕梅矮人）
+|description=你曾在法老的大墓地深处长期生活。你与不死生物与它们的不死能量的长期接触，强化了你对亡者之力的抗性。你在抵抗不死生物的超自然能力的豁免骰上获得+1背景加值。
+|source_name=沙之子民
+|source_url=https://pf1chm.pages.dev/topics/zh730f330f66.htm
+}}

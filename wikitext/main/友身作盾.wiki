@@ -1,0 +1,11 @@
+{{Feat
+|name=友身作盾
+|english_name=Ally Shield
+|categories=背叛;团队
+|pfs=否
+|description=你乐于把队友用作盾牌，以抵挡针对你的攻击。
+|benefit=当你成为近战攻击或远程攻击的目标，且邻接拥有该专长的盟友时，你可以使用该专长以[[直觉动作]]将牺牲者扯入攻击路线或躲至牺牲者身后。你获得仅针对该攻击的掩蔽。若攻击没有命中且若没有掩蔽就会命中，则牺牲者成为这次攻击的目标。攻击者必须重骰攻击骰（使用相同调整值）对抗牺牲者的AC。
+|source=CoC
+|source_name=秽邪勇士
+|source_url=https://pf1chm.pages.dev/topics/zh45cf79b2ca.htm
+}}

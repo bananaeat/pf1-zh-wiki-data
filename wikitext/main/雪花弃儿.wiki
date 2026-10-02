@@ -1,0 +1,10 @@
+{{Trait
+|name=雪花弃儿
+|english_name=Alabaster Outcast
+|type=战役
+|pfs=否
+|prerequisites=碎星（冒险之路）
+|description=你是伟迹城最富有的家庭中的一员……或者更确切地说，你曾经是。一场阴谋让你失去了所有权利，还被剥夺了继承权。现在，你希望远离城市去创造财富，为了去羞辱你以前的仇人，你加入了探索者协会。尽管你流亡在外，你的名字仍然在伟迹城里有相当大的分量，你在城里进行的交涉和威吓检定获得+1背景加值。此外，你开始游戏时获得一套贵族服装、一枚[[玺戒]]和一件价值不超过200gp的额外非魔法物品。你的姓氏可能是狄瑞克斯、凯筠、曼都里安、尼若登、斯盖勒丁、沃尔德马、温德奥迪或沃什特（也可以是你自己选的别的姓氏；见《Magnimar, City of Monuments》）。
+|source_name=碎星玩家手册
+|source_url=https://pf1chm.pages.dev/topics/zhb4c4366d0e.htm
+}}

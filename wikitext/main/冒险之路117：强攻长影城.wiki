@@ -1,0 +1,68 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #117: Assault on Longshadow
+|authors=Benjamin Bruck、Thurston Hillman
+|pages=96
+}}
+
+{{书页/简介|head=不留情面|1=
+长影城是一座富裕的精炼之镇，如今正面临战争的危险。若铁牙军团攻占这座有城墙的聚居地，其对整个涅玛萨斯的钳制将更为牢固，而当地的矿场与精炼厂将为它提供足以无限期支撑战争机器的原料。但军团对长影城的重兵投入，也让其侧翼暴露在破坏与骚扰战役面前！PC 们能否终结[[大地精(怪物)|大地精]]的围城，并在此过程中揭开铁牙军团神速突袭与无形调兵背后的秘密？
+
+本册《冒险之路》延续「铁牙入侵」冒险之路，内容包括：
+
+* 《强攻长影城》，一部面向 8 级角色的开拓者冒险，作者 Benjamin Bruck 和 Thurston Hillman。
+* 一部地志，详述长影城的历史，以及其形形色色的居民与地点，作者 Thurston Hillman。
+* 对地精类生物的统御与奴役英雄神哈特加殊信仰的一瞥，作者 Jason Keeley。
+* 一部怪物图鉴，收录来自涅玛萨斯及其他地方的新部队与威胁，作者 Benjamin Bruck、Liz Courts 和 Paris Crenshaw。
+}}
+
+'''冒险之路117：强攻长影城'''（''Pathfinder #117: Assault on Longshadow''）是[[冒险之路]]「铁牙入侵」系列的一部冒险，由 Benjamin Bruck 和 Thurston Hillman 撰写，配套文章出自 Benjamin Bruck、Thurston Hillman、Jason Keeley、Liz Courts 和 Paris Crenshaw，于 2017 年 4 月 26 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+强攻长影城 @ 4
+NPC 图集 @ 58
+长影城 @ 62
+- 市政厅（The Town Hall）
+- 金丝雀（The Canary）
+- 灰绞架铸造厂（Graygallow Foundry）
+- 熔炼工之库（The Smelter's Vault）
+- 觅食者炼金与杂货店（Forager's Alchemicals & Emporium）
+- 戈伦海姆渡口（The Gorenheim Ferry）
+- 末班墓园（Last Shift Graveyard）
+- 击火铁匠铺（Sparkstrike Smithy）
+- 北门（North Gate）
+- 流民欢迎码头（Migrant's Welcome Dock）
+- 仓库巷（Warehouse Lane）
+- 鲁特拉货栈（Rutra's Trading Post）
+- 猎人局（Hunter Bureau）
+- 多米尼克药剂与敷剂店（Dominick's Reagents and Poultices）
+- 长影城军械库（Longshadow Armory）
+- 红崖校舍（Redcliff Schoolhouse）
+- 塞里苏姆庄园（Cerisum Manor）
+- 库斯克农场（Kusker Farm）
+- 劳森（Lawson）
+- 老糙石（Old Rugged）
+- 红茎（Red Stem）
+- 腐肉新娘栖所（Carrion Brides' Roost）
+- 几丁女王的领地（Domain of the Chitinous Queen）
+- 失落矿坑（Lost Mines）
+- 月之守望者（Lunar Watchers）
+- 纳瓦之塔（Navah's Tower）
+- 食人魔洞（Ogre Holes）
+- 塔柱岩（Pylon Rock）
+哈特加殊，最伟大至高酋长头目（Greatest Supreme Chieftain Boss） @ 72
+- 法术
+• [[犬魔的宴请]]
+- [[蹒跚炸弹添加剂]]
+怪物图鉴 @ 78
+}}
+
+{{书页尾
+|pfw=Assault on Longshadow
+|releases=Softcover¦PZO90117¦2017-04¦978-1-60125-935-6；PDF¦PZO90117E¦¦
+}}
+
+[[分类:书目]]

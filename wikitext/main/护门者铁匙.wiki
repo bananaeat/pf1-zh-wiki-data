@@ -1,0 +1,14 @@
+{{魔法物品
+|name=护门者铁匙
+|english_name=Steward's Iron Key
+|aon=MagicWondrousDisplay.aspx?FinalName=Steward's Iron Key
+|cat=奇物
+|aura=微弱防护系、变化系
+|cl=3
+|slot=无
+|price=3,000 gp
+|description=这把朴素的铁钥匙看起来就像城堡守备官或总管钥匙串上会有的那种东西。握在手中时，持有者可以随意使用[[开关术]]。每日一次，持有者可以说出一个命令字，施放[[秘法锁]]或[[敲击术]]之一。虽然艾瑟塔的教会在重要仪式上可能使用更精致的钥匙，但由于女神谦逊的天性，其信徒制作的魔法钥匙大多是像这把一样不起眼的物品。
+|req=[[制造奇物]]、[[秘法锁]]、[[敲击术]]、[[开关术]]
+|cost=1,500 gp
+|source=内海诸神
+}}

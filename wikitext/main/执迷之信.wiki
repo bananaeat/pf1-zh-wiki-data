@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faiths and Philosophies pg. 0），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=执迷之信
+|english_name=Abject Belief
+|type=信念
+|description=你执着地坚守一种遭许多人怀疑的信仰，它或许围绕着一位已经消失、或者从来就不是神祇的神。无论证据如何，你都拒绝放弃你的信仰，这或许出于归属的需要、对传统的尊重，或是一次宗教体验。因此，几乎不可能让你相信你的神祇并不存在。你在对抗恐惧效果的意志豁免检定上获得+2背景加值。
+|source_name=信仰与哲学
+|source=F&P
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Abject%20Belief
+}}

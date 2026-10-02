@@ -1,0 +1,16 @@
+{{消歧义|往来之舟}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{危害
+|name=往来之舟
+|english_name=Vessel between
+|kind=毒药
+|type=摄入
+|save=强韧 DC 20
+|onset=陷入恶心
+|frequency=1次/分钟，持续4分钟
+|effect=1d2点体质伤害和1d2点感知伤害
+|cure=2次豁免成功
+|price=750 gp
+|description=匕痕的刺客们谈起这种毒药，就像在说一位陪伴他们把受害者送上从生到死之路的同伴。
+|source=内海诡道
+}}

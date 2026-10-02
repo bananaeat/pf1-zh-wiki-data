@@ -1,0 +1,201 @@
+{{掉链盗贼导航}}
+== 盗贼天赋 ==
+随着盗贼一点点积累经验，她会习得许多天赋以强化自身或挫败敌人。从2级开始，盗贼会获得一个盗贼天赋。在2级之后，她每获得2个盗贼等级便能够额外获取一个盗贼天赋。盗贼无法多次选取同一个特定的盗贼天赋。
+
+一些天赋会为盗贼的偷袭攻击添加效果。此类盗贼天赋中仅有一项能够应用至一次特定的攻击上，而且必须在做出攻击检定之前决定何种盗贼天赋。
+===偷袭天赋===
+* [[破甲穿刺]]（Armor Piercer）
+* [[流血攻击]]（Bleeding Attack）
+* [[炫目打击]]（Distracting Attack）
+* [[激励打击]]（Emboldening Strike）
+* [[熄火打击]]（Extinguishing Strike）
+* [[聚焦攻击]]（Focusing Attack）
+* [[模糊打击]]（Obscuring Blow）
+* [[强袭猛击#《解放者》版（掉链盗贼用）|强袭猛击]]（Powerful Sneak）——改写版
+* [[切裂阵营|隔离阵营]]（Sever Alignment）
+* [[阴影之寒]]（Shadow’s Chill）
+* [[沉默打击]]（Silencing Strike）
+* [[扰乱反应]]（Slow Reactions）
+* [[狡诈花招]]（Underhanded）
+
+===其它天赋===
+* [[精准毒杀]]（Accurate Poisoner）
+* [[阵营偷袭]]（Aligned Sneak Attack）
+* [[伏击擒抱]]（Ambuscading Grapple）
+* [[阿斯佩克夏的神秘主义|阿斯佩克夏的异能学说]]（Aspexia's Mysticism）
+* [[强袭连携]]（Assault Leader）
+* [[伪诗人|冒牌诗人]]（Bardic Pretender）
+* [[黑市客户]]（Black Market Connections）
+* [[伪装(盗贼天赋)#《解放者》版（掉链盗贼用）|伪装]]（Camouflage）——改写版
+* [[心细如丝]]（Canny Observer）
+* [[慎重一击]]（Careful Stab）
+* [[壁垒(盗贼天赋)|壁垒]]（Castling）
+* [[万无一失(盗贼天赋)|万无一失]]（Certainty）
+* [[地盘宣称|我的地盘]]（Claimed Turf）
+* [[油腻暗影]]（Cloying Shades）
+* [[虚假情报#《解放者》版（掉链盗贼用）|虚假情报]]（Coax Information）——改写版
+* [[战斗舞步#《解放者》版（掉链盗贼用）|战斗舞步]]（Combat Swipe）——改写版
+* [[战斗窍门]]（Combat Trick）
+* [[灵活扳机|狡诈陷阱]]（Cunning Trigger）
+* [[淡化身形(盗贼天赋)|淡化身形]]（Dampen Presence）
+* [[灵巧之腕]]（Deft Palm）
+* [[后天毒素免疫]]（Developed Poison Immunity）
+* [[怪异消失|无踪诡步]]（Eerie Disappearance）
+* [[奥法导管|奥法之渠]]（Eldritch Conduit）
+* [[学者密传#《解放者》版（掉链盗贼用）|学者密传]]（Esoteric Scholar）——改写版
+* [[解密专家|破译专家]]（Expert Cypher）
+* [[平步登天#《解放者》版（掉链盗贼用）|平步登天]]（Expert Leaper）——改写版
+* [[额外残岩]]（Extra Earthcraft）
+* [[虚假攻击者|另有其人]]（False Attacker）
+* [[奔若狡兔]]（Fast Getaway）
+* [[快速潜行]]（Fast Stealth）
+* [[偏好地形(盗贼天赋)|偏好地形]]（Favored Terrain）
+* [[阴影虚招]]（Feint from Shadows）
+* [[火器训练]]（Firearm Training）
+* [[将计就计]]（Follow Along）
+* [[线索追踪]]（Follow Clues）
+* [[坚固阵地]]（Fortified Position）
+* [[脱逃艺术]]（Getaway Artist）
+* [[晦暗魔法]]（Gloom Magic）
+* [[高等晦暗魔法]]（Greater Gloom Magic）
+* [[绿野之语|草木之语]]（Green Tongue）
+* [[勇毅(盗贼天赋)|勇毅]]（Grit）
+* [[发夹戏法|发夹技巧]]（Hairpin Trick）
+* [[屏息(盗贼天赋)#《解放者》版（掉链盗贼用）|屏息]]（Hold Breath）——改写版
+* [[无辜假面]]（Innocent Facade）
+* [[无害仆人|无害忠仆]]（Innocuous Servant）
+* [[钢铁内脏]]（Iron Guts）
+* [[芸芸众生]]（Just a Face in the Crowd）
+* [[迷人女王]]（Knockout Queen）
+* [[毒性持续#《解放者》版（掉链盗贼用）|持久毒药]]（Lasting Poison）——改写版
+* [[稳行者#《解放者》版（掉链盗贼用）|稳行者]]（Ledge Walker）——改写版
+* [[滞留毒素]]（Lingering Poison）
+* [[高等魔法#《解放者》版（掉链盗贼用）|高等魔法]]（Major Magic）——改写版
+* [[战技闪避|技巧闪避]]（Maneuvering Dodge）
+* [[绝望神态]]（Mien of Despair）
+* [[次级魔法(盗贼天赋)#《解放者》版（掉链盗贼用）|次级魔法]]（Minor Magic）——改写版
+* [[多面手(盗贼天赋)|多面手]]（Multitalented）
+* [[灵动攀爬#《解放者》版（掉链盗贼用）|机敏攀岩者]]（Nimble Climber）——改写版
+* [[忍术(盗贼天赋)|忍术]]（Ninja Trick）
+* [[异能冒险家]]（Occult Dungeoneer）
+* [[一人千面(盗贼天赋)|一人千面]]（One of Those Faces）
+* [[用毒(盗贼天赋)|用毒]]（Poison Use）
+* [[定位攻击]]（Positioning Attack）
+* [[快速解除#《解放者》版（掉链盗贼用）|快速解除]]（Quick Disable）——改写版
+* [[迅速易容]]（Quick Disguise）
+{| class="wikitable"
+! 易容内容 !! 时间
+|-
+| 只有次要细节 || 整轮动作
+|-
+| 改变性别 || 1分钟
+|-
+| 改变种族 || 1分钟
+|-
+| 改变年龄 || 1分钟
+|-
+| 改变体型 || 1分钟
+|}
+----
+* [[快速陷阱制作]]（Quick Trapsmith）
+* [[快速察觉]]（Rapid Perception）
+* [[韧性#《解放者》版（掉链盗贼用）|韧性]]（Resiliency）——改写版
+* [[盗贼匍匐术#《解放者》版（掉链盗贼用）|盗贼匍匐术]]（Rogue Crawl）——改写版
+* [[绳技大师]]（Rope Master）
+* [[探知失误|探知疏漏]]（Scry Slip）
+* [[通晓探知|探知熟悉]]（Scrying Familiarity）
+* [[斯科扎尼走私者|斯科扎尼走私犯]]（Sczarni Smuggler）
+* [[灰色阴影|黑白通吃]]（Shades of Gray）
+* [[阴影复制]]（Shadow Duplicate）
+* [[标志性毒药]]（Signature Poison）
+* [[偷袭训练]]（Sneak Training）
+* [[储法]]（Spell Storing）
+* [[鲤鱼打挺#《解放者》版（掉链盗贼用）|鲤鱼打挺]]（Stand Up）——改写版
+* [[骇人面目]]（Strong Impression）
+* [[强力划水]]（Strong Stroke）
+* [[卓越狙击手]]（Superior Sniper）
+* [[压制毒药]]（Suppress Poison）
+* [[突袭攻击#《解放者》版（掉链盗贼用）|突袭攻击]]（Surprise Attack）——改写版
+* [[求生者(盗贼天赋)|求生者]]（Survivalist）
+* [[迅捷上毒]]（Swift Poison）
+* [[迅捷追踪者]]（Swift Tracker）
+* [[地形专家]]（Terrain Mastery）
+* [[我刚一直在这儿！]]（The Whole Time）
+* [[刺激追逐|追逐快感]]（Thrill of the Chase）
+* [[剧毒反刍]]（Toxic Regurgitation）
+* [[陷阱嗅觉]]（Trap Spotter）
+* [[指使本影|影子装备]]（Umbral Gear）
+* [[失衡技巧]]（Unbalancing Trick）
+* [[卑劣花招]]（Underhanded Trick）
+* [[翻墙者]]（Wall Scramble）
+* [[武器训练(盗贼天赋)|武器训练]]（Weapon Training）
+* [[荒野魔法]]（Wild Magic）
+== 高等盗贼天赋 ==
+10级起，以及之后的每2个等级，盗贼都能够从后述高等天赋中选择一个，以取代盗贼天赋。
+=== 偷袭天赋 ===
+* [[困惑之刃]]（Confounding Blades）
+* [[致残攻击]]（Crippling Strike）
+* [[致死突袭#《解放者》版（掉链盗贼用）|致死突袭]]（Deadly Sneak）——改写版
+* [[驱散攻击]]（Dispelling Attack）
+* [[双重弱化]]（Double Debilitation）
+* [[精通阴影之寒|进阶阴影之寒]]（Improved Shadow’s Chill）
+* [[石化打击]]（Petrifying Strike）
+* [[回音击]]（Resonating Rumbles）
+===其它天赋===
+* [[墙角杀法]]（Against the Wall） 
+* [[阵营伪装]]（Aligned Disguise）
+* [[择日而亡]]（Another Day）
+* [[致盲打击]]（Blinding Strike）
+* [[技高一筹]]（Cutting Edge）
+* [[影之迷舞]]（Dance of Disorienting Shadows）
+* [[夺命鸡尾酒]]（Deadly Cocktail）
+* [[防御翻滚#《解放者》版（掉链盗贼用）|防御翻滚]]（Defensive Roll）——改写版
+* [[魔宠(盗贼天赋)|魔宠]]（Familiar）
+* [[快速翻滚]]（Fast Tumble）
+* [[专长(盗贼天赋)|专长]]（Feat）
+* [[奠基者的祝福]]（Founders' Blessing）
+* [[廉价陷阱制作]]（Frugal Trapsmith）
+* [[脱逃大师]]（Getaway Master）
+* [[巧言假面]]（Glib Facade）
+* [[擦弹射击]]（Grazing Shot）
+* [[隐藏心智|心隐]]（Hidden Mind）
+* [[视线躲藏(盗贼天赋)|视线躲藏]]（Hide in Plain Sight）
+* [[猎手突袭]]（Hunter’s Surprise）
+* [[精通反射闪避]]（Improved Evasion）
+* [[一击倒地]]（Knock-Out Blow）
+* [[身轻如燕]]（Light Walker）
+* [[易容大师#《解放者》版（掉链盗贼用）|易容大师]]（Master of Disguise）——改写版
+* [[万金油]]（Multitalented, Greater）
+* [[乘势攻击]]（Opportunist）
+* [[洞察黑暗]]（Pierce the Darkness）
+* [[先制射击]]（Quick Shot）
+* [[斗转星移(盗贼天赋)|斗转星移]]（Redirect Attack）
+* [[反射影盾]]（Reflexive Shadow Shield）
+* [[谣言散布者]]（Rumormonger）
+{| class="wikitable"
+! 定居点规模 !! DC
+|-
+| 小城镇 || 18
+|-
+| 大城镇 || 20
+|-
+| 小城市 || 25
+|-
+| 大城市 || 30
+|-
+| 都会 || 35
+|}
+----
+* [[看破黑暗(盗贼天赋)|看破黑暗]]（See in Darkness）
+* [[神龛漫步]]（Shrinewalk）
+* [[技能专精(盗贼天赋)#《解放者》版（掉链盗贼用）|技艺精湛]]（Skill Mastery）——改写版
+* [[心智灵活(盗贼天赋)|心智灵活]]（Slippery Mind）
+* [[侠盗天赋]]（Stalker Talent）
+* [[魅影狙击]]（Stealthy Sniper）
+* [[石化肌肤]]（Stony Skin）
+* [[高等地形专家]]（Terrain Mastery, Greater）
+* [[无拘气池]]（Unlock Ki）
+* [[不存在的盟友|化敌为友]]（Unwitting Ally）
+* [[抢夺武器]]（Weapon Snatcher）
+
+[[分类:职业规则]]

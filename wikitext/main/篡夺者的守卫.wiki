@@ -1,0 +1,10 @@
+{{Feat
+|name=篡夺者的守卫
+|english_name=Usurper's Guard
+|categories=团队
+|description=你和你的盟友一起创造了一个防护守卫来协助施法。
+|prerequisites=BAB+3或可以施展2环法术
+|benefit=当拥有该专长的相邻盟友试图防御式施展法术或类法术时，你可以使用直觉动作进行一个战技检定来保护该盟友，你的盟友可以使用她自己的专注检定结果或是你的战技检定结果其一来判断是否成功施展出法术或类法术。
+|source_name=冒险之路132：六传奇之魂
+|source_url=https://pf1chm.pages.dev/topics/132_The_Six-Legend_Soul.htm
+}}

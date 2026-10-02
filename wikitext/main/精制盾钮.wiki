@@ -1,0 +1,9 @@
+{{装备
+|name=精制盾钮
+|english_name=Shield boss (masterwork)
+|cat=冒险装备
+|price=+50 gp
+|weight=—
+|description=任何盾钮，包括最普通的[[加固盾钮]]，都可以制作精制品版本。精制品盾钮可以提高盾牌当前和最大生命值15点而非通常的10点，并且不会额外增加攻击减值。
+|source=近战战术工具箱
+}}

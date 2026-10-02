@@ -1,0 +1,11 @@
+{{消歧义|树跃者 (消歧义)}}
+{{Feat
+|name=树跃者
+|english_name=Tree Leaper
+|description=你利用柔韧的树枝，来帮助你在树上跳跃。
+|benefit=当你在一棵树上时，当你跳跃时可被视为已助跑。
+|normal=你必须至少拥有10尺空间以助跑。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

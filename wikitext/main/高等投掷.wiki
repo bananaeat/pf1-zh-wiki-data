@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=高等投掷
+|english_name=Hurling, Greater
+|type=Ex
+|categories=进攻
+|prerequisites=[[野蛮人]]12级，[[投掷]]
+|benefit=同[[投掷]]，但野蛮人可以使射程增量提高至30尺，或增加两级投掷物体的大小。
+|source_name=进阶玩家指南
+}}

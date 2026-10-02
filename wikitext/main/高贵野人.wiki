@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 63），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=高贵野人
+|english_name=Noble Savage
+|type=社会
+|pfs=否
+|prerequisites=乌尔芬卫士
+|description=你来自文明的边缘或社会的最底层，但你性格中的某些东西让这一点显得讨人喜爱。与社会地位高的人打交道时，你的[[交涉]]和[[表演]]检定获得+2背景加值。
+|source_name=组织指南
+|source=FM
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Noble%20Savage
+}}

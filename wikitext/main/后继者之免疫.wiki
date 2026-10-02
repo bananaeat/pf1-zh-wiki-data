@@ -1,0 +1,10 @@
+{{Trait
+|name=后继者之免疫
+|english_name=Inheritor's Immunity
+|type=宗教
+|prerequisites=信仰[[艾奥梅黛]]
+|description=艾奥梅黛的英勇使你全身充满了神圣的力量，让你能抵抗甚至最为糟糕的瘟疫。每天一次，你能在对抗疾病或者毒素时重骰一次豁免。你必须接受第二次的结果，即使其更糟糕也是如此。
+|source=PotW
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1192.html
+}}

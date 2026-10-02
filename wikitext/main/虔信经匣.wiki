@@ -1,0 +1,14 @@
+{{魔法物品
+|name=虔信经匣
+|english_name=Phylactery of Faithfulness
+|aon=MagicWondrousDisplay.aspx?FinalName=Phylactery of Faithfulness
+|cat=奇物
+|aura=微弱预言系
+|cl=1
+|slot=头饰
+|price=1,000 gp
+|description=这件物品是一个装着宗教经文的小盒子，固定在一根皮绳上并系在额头，使盒子正好位于佩戴者的眉前。在佩戴之前，没有任何世俗手段能判断这件宗教物品具有什么功能。虔信经匣的佩戴者能察觉任何可能对其阵营及其与神祇之间的关系产生不利影响的行动或物品，包括魔法效果。只要她稍作片刻思考，就能在实施此类行动或与此类物品产生关联之前获得这些信息。
+|req=[[制造奇物]]、[[侦测混乱]]、[[侦测邪恶]]、[[侦测善良]]、[[侦测秩序]]
+|cost=500 gp
+|source=核心规则书、极限宝具
+}}

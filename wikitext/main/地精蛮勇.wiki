@@ -1,0 +1,10 @@
+{{Trait
+|name=地精蛮勇
+|english_name=Goblin Foolhardiness
+|type=种族
+|prerequisites=[[地精]]
+|description=你在战斗中过于自负。当面对一个比你体型大的敌人时，若你在临近方格中没有同伴，你的姿态、虚张声势和叫骂声会给予你在使用非长触近战武器的攻击骰获得+1背景加值。
+|source_name=格拉里昂的地精
+|source=Goblins of Golarion
+|source_url=https://pf1chm.pages.dev/topics/zh0c27dc639b.htm
+}}

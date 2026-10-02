@@ -1,0 +1,8 @@
+<span class="insertusername"><insert name here></span><noinclude>
+</noinclude><noinclude>[[Category:huiji template]]{{DEFAULTSORT:Username}}<templatedata>
+{
+	"params": {},
+	"description": "限于缓存技术，MediaWiki本身是没有{{USERNAME}}这个魔术字的。如果要实现<nowiki>{{USERNAME}}</nowiki>的效果，必须通过Javascript来获取用户名。自2016年10月29日起，这一段Javascript已被灰机全站自动加载，不必再由用户手动添加了。"
+}
+</templatedata>
+</noinclude>

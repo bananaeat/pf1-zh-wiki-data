@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Bastards of Golarion pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=坦然自若
+|english_name=Whole-Hearted
+|type=地区
+|prerequisites=阿维拉卡
+|description=虽然大多数外人都以为你内心充满矛盾、满是自我怀疑、深陷怨恨与猜忌，但你其实真正安于自己的身份。你对抗魅惑和胁迫效果的豁免检定获得+2背景加值。
+|source_name=格拉利昂的混种
+|source=BoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Whole-Hearted
+}}

@@ -1,0 +1,9 @@
+{{Feat
+|name=塔尔多的私掠船员
+|english_name=Corsair of Taldor
+|description=许多追求冒险生涯并愿为帝国效力的塔尔多人来到卡索米尔，渴望加入让·科勒蒙特的私掠舰队。成功入选者将很快投身公海，与帝国之敌作战，为自己与船伴赢得声誉。
+|prerequisites=在为让·科勒蒙特的船只上工作至少1个月。
+|benefit=在船上时[[先攻]]检定获得+2加值，并且在船上使用轻型或单手武器时额外造成1点伤害。
+|source_name=格拉利昂的城市
+|source_url=https://pf1chm.pages.dev/topics/zh06c701dc72.htm
+}}

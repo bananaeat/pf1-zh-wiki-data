@@ -1,0 +1,1 @@
+<onlyinclude><includeonly>{{#invoke:RichTab|render}}</includeonly></onlyinclude>{{documentation}}

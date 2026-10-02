@@ -1,0 +1,15 @@
+{{Feat
+|name=法术专精
+|english_name=Spell Specialization
+|description=选择一个法术，你在施展这个法术时比平常更具威力。
+|prerequisites=[[智力]] 13，法术专攻。
+|benefit=选择一个符合你[[法术专攻]]专长学派的法术，在施展这个法术时将你的CL提升2级来确定所有的等级相关效果。每当你在选择该法术所属的施法职业上获得偶数等级时，你可以选择新的法术替代这个专长中所选定的法术，那个新法术成为了你的专精法术。
+|special=你可以多次选择本专长，其效果不累计。每次选择这个专长时，你需要选择一个其他的法术。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[高等法术专精]]（1 个条目）

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=再起手镯
+|english_name=Bracelet of Second Chances
+|aon=MagicWondrousDisplay.aspx?FinalName=Bracelet of Second Chances
+|cat=奇物
+|aura=中等咒法系
+|cl=9
+|slot=腕部
+|price=15,750 gp
+|description=这个手镯上装饰着七颗雕有精细图案的珊瑚珠。当对穿戴者确认了一次重击或偷袭攻击后，在掷伤害骰之前，他可以用一个[[直觉动作]]选择把这次重击转化为普通命中。每当穿戴者以这种方式抵消了一次重击或偷袭攻击，就有一颗珠子碎裂。当七颗珠子全部用完后，手镯本身会碎成粉末。
+|req=[[制造奇物]]、[[生命之息]]
+|cost=7,875 gp
+|source=探索者协会战地指南、极限宝具
+}}

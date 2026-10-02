@@ -1,0 +1,21 @@
+{{魔法物品
+|name=电击法杖
+|english_name=Staff of Electricity
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Electricity
+|cat=法杖
+|aura=中等塑能系
+|cl=11
+|slot=无
+|price=31,900 gp
+|weight=5磅
+|description=这根法杖由闪亮的银制成，杖端形如一道闪电。
+
+该法杖可以使用以下法术：
+
+* [[电爪]]（1 发）
+* [[闪电束]]（2 发）
+* [[连环闪电]]（3 发）
+|req=[[制造法杖]]、[[连环闪电]]、[[闪电束]]、[[电爪]]
+|cost=15,950 gp
+|source=极限宝具
+}}

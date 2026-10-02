@@ -1,0 +1,12 @@
+<noinclude>{{侠客导航}}
+'''技能精熟'''（Skill Familiarity, Ex）是[[侠客]]的[[社交天赋]]。
+
+</noinclude>{{Source|门徒教义|Disciple's Doctrine|inline}}
+
+效果：侠客可以在获得此天赋时选择四项技能。哪怕受到分心或是威胁影响时，他也可以在所选技能上取10。如果他在不受分心或是威胁影响时取10，他可以在这些检定上获得等同于1/4侠客等级（最低+2）的加值。
+
+侠客必须达到 9 级才能选择本天赋。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhd3b09cc415.htm 原文]）。全部社交天赋见 [[:分类:社交天赋|分类:社交天赋]]。
+
+[[分类:社交天赋]]</noinclude>

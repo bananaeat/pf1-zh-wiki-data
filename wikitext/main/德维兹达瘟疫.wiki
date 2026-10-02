@@ -1,0 +1,14 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{危害
+|name=德维兹达瘟疫
+|english_name=Dvezda Plague
+|kind=疾病
+|type=摄入、吸入
+|save=强韧 DC 16
+|onset=1d4天
+|frequency=1次/天
+|effect=1d4点体质伤害和1点敏捷伤害
+|cure=连续2次豁免成功
+|description=感染病毒数日后，患者会高烧不退，大量出汗。随后，患者开始剧烈颤抖，继而血液变稀，泪腺、鼻、耳及其他孔窍出血。
+|source=冒险之路69：少女、母亲、老妪
+}}

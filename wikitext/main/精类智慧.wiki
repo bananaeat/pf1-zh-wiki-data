@@ -1,0 +1,10 @@
+{{Trait
+|name=精类智慧
+|english_name=Fey-Wise
+|type=地区
+|prerequisites=七拱镇
+|description=你在妖精们的身边长大，已经习惯了他们的恶作剧。你在对抗精类生物的类法术能力和超自然能力的豁免检定中获得+1的背景加值，在对抗精类生物的察言观色检定中获得+1的背景加值。
+|source_name=河域子民
+|source=PotR
+|source_url=https://pf1chm.pages.dev/topics/zh576fd36972.htm
+}}

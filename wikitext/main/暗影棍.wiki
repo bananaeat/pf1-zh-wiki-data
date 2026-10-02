@@ -1,0 +1,20 @@
+{{物品
+|name=暗影棍
+|english_name=The Shadowstaff
+|category=神器
+|aura=强烈咒法系
+|cl=20
+|weight=1磅
+|slot=无位置
+|destruction=如果连续24小时放在真正的太阳光下，暗影棍会消失无踪。
+|description=这件[[神器]]精心制作与许多世纪之前，将影子编织成一根扭曲如麻花状的黑色棍子。暗影棍使得持有者变得阴影而无形，持有者得到+4AC加值和+4反射豁免加值(可以与任何加值叠加)。然而，若果身处亮光下(bright light)(比如阳光下，但火炬之类的光不算)或者绝对的黑暗下(没有月光等等)，持有者的所有攻击、豁免、和检定都受到-2惩罚。暗影棍同时有以下能力。
+
+*召唤阴影summon shadows：每天三次，每次可以召唤2d4只阴影(shadow)。immune to turning，这些阴影服从召唤者，如同一个五级怪物召唤术summon monster V(施法者等级20)。
+
+*召唤夜影summon nightshade：每月一次，可以召唤an advanced shadow demon，它服从召唤者，如同一个九级怪物召唤术summon monster IX(施法者等级20)。
+
+[[暗影形态]]shadow form：每天三次，持有者可以变成一个活着的阴影(shadow)，所有移动方式如同法术气化形态gaseous form。
+
+*暗影箭：每天三次，可以通过暗影棍来击出一发暗影箭来对单一目标造成10d6点寒冷伤害。射程为100尺。
+|source_name=核心规则书
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=威风客
+|english_name=Imposing Scion
+|type=社会
+|description=你的血统传奇为你平添了一份可怖色彩。你的威吓检定获得+1背景加值。如果你的血统与某种特定类型的生物相联系，你在面对该类型生物时上述加值增至+2。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Spymaster's Handbook pg. 6），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=预言商机
+|english_name=Kalistocratic Prophecy
+|type=信念
+|pfs=否
+|description=你在卡利斯拉德预言的教导下长大，并受其启发，想要抓住一个尚未被开发的商机。每周至多一次，当你投入至少1天的努力来推进这个商机时，你可以按照休整期规则（《极限战役》第76页）进行一次适当的[[专业]]检定来赚钱或获取资本，并在这次检定上获得+2背景加值。如果检定失败，你的商机就会被竞争对手发现，在你寻找新商机的1个月里，你无法使用这项背景特性。
+|source_name=间谍大师手册
+|source=SMH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Kalistocratic%20Prophecy
+}}

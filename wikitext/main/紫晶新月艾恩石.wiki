@@ -1,0 +1,14 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=紫晶新月艾恩石
+|english_name=Amethyst Crescent Ioun Stone
+|aon=MagicArtifactsDisplay.aspx?ItemName=Amethyst Crescent Ioun Stone
+|cat=神器
+|tier=次级神器
+|aura=强烈（学派不定）
+|cl=12
+|slot=无
+|description=紫晶新月使其穿戴者获得快速治疗2，并在对抗负能量和死亡效应的豁免检定上获得+4环境加值。
+|destruction=这颗独一无二的艾恩石灌注了强大的正能量。要摧毁它，必须把它投入负能量位面，在熵的虚空中漂浮至少1周之后，它才会碎裂。
+|source=冒险之路126：帷幕后的往昔
+}}

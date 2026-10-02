@@ -1,0 +1,9 @@
+{{装备
+|name=圣武士工具包
+|english_name=Paladin's kit
+|cat=套装
+|price=11 gp
+|weight=30磅
+|description=该工具包包括一个背包，一个铺盖卷，一个腰包，一本廉价的教典，燧石和铁片，铁壶，餐具，麻绳，肥皂，火把（10），干粮（5天份），一个水袋和一个木制的圣徽。
+|source=极限宝具
+}}

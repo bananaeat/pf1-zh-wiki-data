@@ -1,0 +1,12 @@
+{{Feat
+|name=合唱支援
+|english_name=Choral Support
+|categories=团队
+|pfs=否
+|description=通过与盟友一起高唱，你们将声音本身变成了武器
+|prerequisites=表演（歌唱）3级
+|benefit=通过一个标准动作，你可以尝试进行一次DC10的表演（歌唱）检定来协助一位同样拥有这一专长的盟友。如果检定成功，你的盟友在下一回合开始之前施放的造成酸蚀、寒冷、闪电或火焰伤害的法术伤害类型将会变成音波伤害。通常造成音波伤害的法术将会变成一半造成音波伤害，另一半伤害直接原自神力，因此抵抗音波攻击的方式无法对这一部分起作用。
+|source=DRe
+|source_name=遥远国度
+|source_url=https://pf1chm.pages.dev/topics/zh060a98151e.htm
+}}

@@ -1,0 +1,14 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[选择导能 (神话)]]。</small></div>
+{{Feat
+|name=选择导能
+|english_name=Selective Channeling
+|description=你[[引导能量]]时能够选择要影响谁。
+|prerequisites=[[魅力]] 13，【引导能量】职业特性。
+|benefit=当你引导能量时，你可以选择区域中数量至多等同于你魅力修正的目标。这些目标不受你引导能量的影响。
+|normal=当你引导能量时，所有30尺爆发范围内的目标都会受到影响。你只能选择自己是否要受到影响。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+{{FAQ|v5748eaic9o84}}

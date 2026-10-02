@@ -1,0 +1,14 @@
+{{魔法物品
+|name=魔豆
+|english_name=Magic Beans
+|aon=MagicWondrousDisplay.aspx?FinalName=Magic Beans
+|cat=奇物
+|aura=中等咒法系
+|cl=7
+|slot=无
+|price=1,400 gp
+|description=这件物品是半打棕色的豆子，通常装在一只简陋的麻布袋里。豆子种进土里10分钟后，会长成一株350尺高的豆茎，如同用[[豆茎术]]（见第70页）创造的一样。魔豆在此过程中被消耗。豆茎持续24小时，之后倒塌，化作一堆腐烂的植物残渣。
+|req=[[制造奇物]]、[[豆茎术]]
+|cost=700 gp
+|source=冒险之路91：血征山之战
+}}<!-- CHM 栏位作头饰，按 AoN 更正为无 -->

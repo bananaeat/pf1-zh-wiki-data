@@ -1,0 +1,13 @@
+{{Trait
+|name=庇护主之赐
+|english_name=Patron's Boon
+|type=地区
+|prerequisites=出身拉哈多姆，或在当地生活过至少1年
+|description=在你幼年时，一位拉哈多姆女巫给予你祝福，让你在今后更加健康，更加长寿。
+
+任何尝试解除你[[出血]]伤害的医疗检定的DC下降4。
+|regions=拉哈多姆
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_703.html
+}}

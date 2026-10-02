@@ -1,0 +1,10 @@
+{{Trait
+|name=隐秘传统
+|english_name=Obscure Traditions
+|type=种族
+|prerequisites=[[精灵]]（雪咒精灵）
+|description=你会让那些自认为了解[[精灵]]的人感到困惑。
+|benefit=任何生物若试图通过 “知识” 检定来辨析你的民族、通过察言观色检定判断你是否说谎、或通过生存检定追踪你，该检定都要承受-2减值。此外，对于任何通常对精灵的攻击或伤害检定有加值的角色或生物(例如游侠的 “宿敌” 职业能力),该加值会减少1(最小为0)。
+|source_name=北地居民
+|source_url=https://pf1chm.pages.dev/topics/zh63296b3929.htm
+}}

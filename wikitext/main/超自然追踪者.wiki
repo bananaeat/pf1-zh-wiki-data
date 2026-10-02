@@ -1,0 +1,10 @@
+{{Feat
+|name=超自然追踪者
+|english_name=Supernatural Tracker
+|description=结合魔法侦测和追迹技能，允许你感知和追踪一个生物的存在迹象。
+|prerequisites=[[生存]]1级，可以施展侦测法术的能力。
+|benefit=你可以施放一个指定生物类型的侦测法术，如[[侦测动植物]]或侦测亡灵，以强化你追踪此类生物的能力，而不获得该法术的通常效果；你能看到一层柔和的光芒，标示出该类型生物经过时留下的行迹。该法术每环级持续1小时，在此期间，你在追踪指定类型生物的生存检定上获得等于5+该法术环级的加值。在此期间，即使你没有受训生存技能，也可以像受训过一样追踪这类生物。
+|source=HotW
+|source_name=荒野英雄
+|source_url=https://pf1chm.pages.dev/topics/page_694.html
+}}

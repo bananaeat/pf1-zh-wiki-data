@@ -1,0 +1,9 @@
+{{装备
+|name=燧石和铁片
+|english_name=Flint and steel
+|cat=冒险装备
+|price=1 gp
+|weight=—
+|description=用燧石和铁片点燃一根火把是一个整轮动作。用它们点燃其他火焰至少也需要这么长的时间。
+|source=核心规则书、极限宝具
+}}

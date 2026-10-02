@@ -1,0 +1,11 @@
+{{Feat
+|name=鞭笞魔
+|english_name=Flagellant
+|description=在长年累月的承受鞭打以后，你全不畏惧这种痛楚
+|prerequisites=[[坚忍]]，人物等级7，信仰[[宗-库松]]
+|benefit=你在对抗痛苦效果时在豁免检定上获得+4加值，除此之外，如果你受到的[[非致命伤害]]等同于你的生命值，你不会受到任何影响；如果你受到的非致命伤害高于你的生命值，你会陷入[[恍惚]]状态，但你永远不会因为受到非致命伤害而[[失去意识]]。
+|normal=在你受到的非致命伤害等同于你的生命值时，你陷入恍惚状态；当你受到超过你生命值的非致命伤害时，你失去意识。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

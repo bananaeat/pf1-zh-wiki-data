@@ -1,0 +1,10 @@
+<includeonly>{{#switch:{{#replace:{{#replace:{{#explode:{{#explode:{{{1|}}}|(|0}}|（|0}}|&#32;|}}|；|}}|附魔系=惑控系|变形系=变化系|预言术=预言系|#default={{#replace:{{#replace:{{#explode:{{#explode:{{{1|}}}|(|0}}|（|0}}|&#32;|}}|；|}}}}</includeonly><noinclude>
+把 <code>school</code> 参数里五花八门的写法归到一个学派名上，`[[模板:Spell]]` 拿它来挂学派分类。
+
+ <nowiki>{{法术学派|附魔系（胁迫）；}}</nowiki> → 惑控系
+
+做四件事：按半角和全角括号各切一刀取前半（去掉子学派）、去掉空格、去掉尾巴上的分号、把 <code>附魔系</code>/<code>变形系</code>/<code>预言术</code> 换成站上的主流译名。
+
+站上的 <code>school</code> 参数原本有 87 种写法，分类树因此裂成了 <code>分类:变化系法术</code>、<code>变化系；法术</code>、<code>变化系 ；法术</code>、<code>变化系（变形）；法术</code> 四份。数据那边用 <code>tools/fix_spell_schools.py</code> 归一化过一遍，这个模板是第二道保险——以后有人手写别的写法也不会再裂。
+[[分类:模板]]
+</noinclude>

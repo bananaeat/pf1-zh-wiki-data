@@ -1,0 +1,10 @@
+{{Feat
+|name=引导怨仇
+|english_name=Channel Hate
+|description=你擅长与挑拨人心中互相敌视的负面情绪
+|prerequisites=引导能量6d6，信仰吉萝纳（Gyronna）
+|benefit=以一个[[标准动作]]，你可以消耗一发本日的[[引导能量]]次数，对一个距离你30尺内的生物施放法术[[复仇之怒]]UM效果的影响（施法者等级等同于你的有效牧师等级）。当你的引导能量提升到9d6时，你可以影响的生物数量将等同于你的魅力调整值（至少两个）。如果你额外消耗一发引导能量来使用此能力，如果你将目标的友人或爱人指定为其仇敌，目标不会获得针对该效果的第二次豁免。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

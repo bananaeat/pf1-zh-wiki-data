@@ -1,0 +1,9 @@
+{{Trait
+|name=先祖庇护
+|english_name=Attuned to the Ancestors
+|type=派系
+|description=你幼时认为亡灵并不可怕——他们不过是伟大祖先的英魂遗留在你的身边。每天一次，你会被一股无生命的灵气环绕周身。除非你做出对抗它们的举动，否则无智力的不死生物会如同[[亡灵无视术]]一般忽略你的存在。此保护持续你1/2人物等级的轮数(最少一轮)。如果你对不死生物进行任何敌对行为，此效果会立即结束。这是一个超自然能力。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

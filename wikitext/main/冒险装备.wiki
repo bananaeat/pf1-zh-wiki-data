@@ -1,0 +1,233 @@
+{{速查导航}}
+'''冒险装备'''是《[[冒险者的军械库]]》的一章。
+
+{| class="wikitable sortable"
+|-
+! 物品（Item） !! 价格（Price） !! 重量（Weight）
+|-
+| 区域地图（Area map） || 50 gp || 2磅
+|-
+| 星盘（Astrolabe） || 1000 gp || 6磅
+|-
+| 毛毯（Blanket） || 5 sp || 3磅1
+|-
+| 精制背包（Backpack, masterwork） || 50 gp || 4磅1
+|-
+| 滑轮组（Block and tackle） || 5 gp || 5磅
+|-
+| 易损铁链（Breakaway chains） || 65 gp || 2磅
+|-
+| 小号箱子（Chest, small） || 2 gp || 25磅
+|-
+| 中号箱子（Chest, medium） || 5 gp || 50磅
+|-
+| 大号箱子（Chest, large） || 10 gp || 100磅
+|-
+| 超大号箱子（Chest, huge） || 25 gp || 250磅
+|-
+| 便携式木板（Collapsible plank） || 4 sp || 10磅
+|-
+| 普通棺材（Coffin, common） || 10 gp || 30磅1
+|-
+| 华丽棺材（Coffin, ornate） || 100 gp || 50磅1
+|-
+| 拷贝钥匙（Copy of a key） || 1 gp || —
+|-
+| 耳塞（Earplugs） || 3 cp || —
+|-
+| 暗格箱（False-bottomed chest） || 52 gp || 25磅
+|-
+| 暗格杯（False-bottomed cup） || 1 gp || —
+|-
+| 藏物鞘（False-bottomed scabbard） || 45 gp || 1磅
+|-
+| 机关镣铐（False Manacles） || 65 gp || 2磅
+|-
+| 折叠椅（Folding chair） || 2 gp || 10磅1
+|-
+| 折叠梯（Folding ladder） || 2 gp || 16磅
+|-
+| 爪钩箭（Grappling Arrow） || 1 gp || 1/2磅
+|-
+| 吊床（Hammock） || 1 sp || 3磅1
+|-
+| 哈罗牌（Harrow deck） || 100 gp || —
+|-
+| 头盔蜡烛（Helmet candle） || 2 gp || 4磅
+|-
+| 藏物剑柄（Hollowed pommel） || 5 gp || —
+|-
+| 沙漏（1小时）（Hourglass (one hour)） || 25 gp || 1磅
+|-
+| 沙漏（1分钟）（Hourglass (one minute)） || 20 gp || 1/2磅
+|-
+| 沙漏（6秒）（Hourglass (six seconds)） || 10 gp || —
+|-
+| 长钉（Iron spike） || 5 cp || 1磅
+|-
+| 铁瓶（Iron vial） || 1 sp || 1磅
+|-
+| 防水提灯（Lantern, Waterproof） || +5 gp || —
+|-
+| 磁铁（Magnet） || 5 sp || 1/2磅
+|-
+| 弹珠（Marbles） || 1 sp || 2磅
+|-
+| {{材料|秘银}}镣铐（Mithral manacles） || 1000 gp || 2磅
+|-
+| 纸（一张）（Paper (sheet)） || 4 sp || —
+|-
+| 香水/古龙水（Perfume/cologne） || 5 gp || —
+|-
+| 腌菜拔出器（Pickle extractor） || 2 cp || 2磅
+|-
+| 怀表（Pocket watch） || 250 gp || 1磅
+|-
+| 藏毒戒指（Poison pill ring） || +20 gp || —
+|-
+| 粉末（Powder） || 1 cp || 1/2磅
+|-
+| 义肢臂（Prosthetic arm） || 10 gp || 3磅1
+|-
+| 义肢足（Prosthetic foot） || 1 gp || 2磅1
+|-
+| 义肢手（Prosthetic hand） || 1 gp || 1磅1
+|-
+| 义肢腿（Prosthetic leg） || 20 gp || 6磅1
+|-
+| 有泵水罐（Pump water canister） || 75 gp || 5磅
+|-
+| 宣纸（一张）（Rice Paper (sheet)） || 5 cp || —
+|-
+| 卷轴筒（Scroll case） || 1 gp || 1/2磅
+|-
+| 六分仪（Sextant） || 500 gp || 2磅
+|-
+| 剃须工具箱（Shaving kit） || 15 sp || 1/2磅
+|-
+| 火把插槽（Shield sconce） || 1 gp || 1/2磅
+|-
+| 铁锹（Shovel） || 2 cp || 3磅
+|-
+| 号角（Signal horn） || 1 gp || 2磅
+|-
+| 万能钥匙（Skeleton key） || 85 gp || —
+|-
+| 肥皂（Soap） || 1 cp || 1/2磅
+|-
+| 投矛器（Spear-thrower） || 1 gp || 1磅
+|-
+| 便携法术书（空白）（Spellbook, traveling (blank)） || 10 gp || 1磅
+|-
+| 信纸（Stationery） || 1 gp || —
+|-
+| 便携式火炉（Stove can） || 10 gp || 1磅
+|-
+| 细绳或麻绳（50尺）（String or twine (50 feet)） || 1 cp || 1/2磅
+|-
+| 纹身（Tattoo） || 1 cp-20 gp || —
+|-
+| 小号帐篷（Tent, small） || 10 gp || 15磅1
+|-
+| 中号帐篷（Tent, medium） || 15 gp || 20磅1
+|-
+| 大号帐篷（Tent, large） || 30 gp || 40磅1
+|-
+| 行馆帐篷（Tent, pavilion） || 100 gp || 50磅1
+|-
+| 香炉（Thurible） || 50 gp || 3磅
+|-
+| 旅行快餐（Wandermeal） || 1 cp/服务 || 
+|-
+| 防水袋（Waterproof bag） || 5 sp || 1/2磅
+|-
+| 蜡模（Wax key blank） || 15 gp || 1/2磅
+|-
+| 武器链（Weapon cord） || 1 sp || —
+|-
+| 磨刀石（Whetstone） || 2 cp || 1磅
+|-
+| 哨子（Whistle） || 5 cp || —
+|-
+| 无声哨（Whistle, silent） || 2 sp || —
+|-
+| 腕鞘（Wrist sheath） || 1 gp || 1磅1
+|-
+| 弹簧腕鞘（Wrist sheath, spring loaded） || 5 gp || 1磅1
+|}
+
+1 为小型角色制造的这些物品重量为该数值的1/4。小型角色使用的容器也只能携带通常数值的1/4（重量）。
+
+== 冒险装备（Adventuring Gear） ==
+
+许多的英雄都是依靠这样的道具生存和发迹的。
+
+== 本章条目 ==
+
+* [[万能钥匙]]
+* [[义肢]]
+* [[便携式木板]]
+* [[便携式火炉]]
+* [[信纸]]
+* [[六分仪]]
+* [[剃须工具箱]]
+* [[区域地图]]
+* [[卷轴筒]]
+* [[号角(冒险装备)|号角]]
+* [[吊床]]
+* [[哈罗牌(物品)|哈罗牌]]
+* [[哨子]]
+* [[头盔蜡烛]]
+* [[宣纸〔一张〕]]
+* [[帐篷]]
+* [[弹珠]]
+* [[弹簧腕鞘]]
+* [[怀表]]
+* [[战斗剑鞘]]
+* [[投矛器]]
+* [[折叠梯]]
+* [[折叠椅]]
+* [[拷贝钥匙]]
+* [[旅行快餐〔一天份〕]]
+* [[无声哨]]
+* [[易损铁链]]
+* [[星盘]]
+* [[暗格杯]]
+* [[暗格箱]]
+* [[有泵水罐]]
+* [[机关镣铐]]
+* [[棺材]]
+* [[武器链]]
+* [[毛毯]]
+* [[沙漏]]
+* [[滑轮组]]
+* [[火把插槽]]
+* [[爪钩箭]]
+* [[磁铁]]
+* [[磨刀石]]
+* [[秘银镣铐]]
+* [[箱子]]
+* [[粉末]]
+* [[精制背包]]
+* [[纸〔一张〕]]
+* [[纹身]]
+* [[细绳或麻绳〔50尺〕]]
+* [[耳塞]]
+* [[肥皂]]
+* [[腌菜拔出器]]
+* [[腕鞘]]
+* [[藏毒戒指]]
+* [[藏物剑柄]]
+* [[藏物鞘]]
+* [[蜡模]]
+* [[铁瓶]]
+* [[铁锹]]
+* [[长钉]]
+* [[防水提灯]]
+* [[防水袋]]
+* [[香水/古龙水]]
+* [[香炉]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1589.html 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

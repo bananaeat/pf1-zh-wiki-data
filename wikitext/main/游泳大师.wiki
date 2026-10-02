@@ -1,0 +1,9 @@
+{{Feat
+|name=游泳大师
+|english_name=Master Swimmer
+|description=你接受过游泳战斗以及长距离游泳的长时间训练，因此你可以像水生居民一样自如在水中行动。
+|prerequisites=[[技能专攻]]（游泳），[[游泳]]10级
+|benefit=你获得30尺游泳速度，或者等同于你未修正过的陆地速度的游泳速度，两者取低；你因拥有游泳速度而获得的游泳检定种族加值为+2，而不是+8。
+|source_name=水下冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1030.html
+}}

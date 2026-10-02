@@ -1,0 +1,16 @@
+{{武器
+|name=登舰斧
+|english_name=Boarding axe
+|category=武器
+|prof=军用
+|wcat=轻型
+|price=6 gp
+|weight=3磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×3
+|type=穿刺或挥砍
+|groups=斧
+|description=登舰斧与手斧类似，但带有一根尖刺，使这件武器可以造成挥砍或穿刺伤害。手持登舰斧时，你在攀爬木质表面或冰等其他可刺穿表面的攀爬检定中获得+2环境加值。
+|source=Skull & Shackles Player's Guide、内海海盗、冒险者的军械库2
+}}

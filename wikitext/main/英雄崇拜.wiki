@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Jade Regent Player's Guide pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=英雄崇拜
+|english_name=Hero Worship
+|type=战役
+|pfs=否
+|description=镇上每个人似乎都钦佩阿美子和沙莉露——毕竟她们是英雄，在最近困扰砂点镇的那些麻烦中扮演了关键角色。而你把这种钦佩提升到了一个新的高度——你简直就是在崇拜其中一位。这可能是因为你曾在过去某个时候亲眼看见其中一位做出了特别了不起的英勇之举，或者是几年前你年幼易受影响时，她们中的一位恰好对你说了一番恰到好处的鼓励，或送了你一份贴心的礼物。无论如何，你一直尽力效仿你的英雄在施法或战斗方面的才能。如果你的英雄是阿美子，你在专注检定上获得+2加值。如果你的英雄是沙莉露，对抗借机攻击时你的AC获得+1加值。此外，你对威胁你的英雄的敌人进行的所有攻击检定获得+1背景加值。NPC选项：阿美子、沙莉露。
+|source_name=Jade Regent Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Hero%20Worship
+}}

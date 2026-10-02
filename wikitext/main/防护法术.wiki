@@ -1,0 +1,16 @@
+{{Spell
+|name=防护法术
+|english_name=Protection from Spells
+|school=防护系
+|levels=召唤师 6;奥能师 8;异能者 8;术士 8;法师 8
+|domains=魔法领域 8
+|action=标准动作
+|components=语言;姿势;材料（价值500gp的钻石）;法器（每个目标需要价值1000gp的钻石；每名受术者必须在法术持续时间内携带这颗宝石，若受术者丢失宝石，法术就不再对他生效）
+|range=接触
+|target=至多每四级1个接触到的生物
+|duration=10分钟/等级
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=受术者在对抗法术和类法术能力 (但不包括超自然能力和特异能力) 时豁免获得+8抗力加值。
+|source=核心规则书
+}}

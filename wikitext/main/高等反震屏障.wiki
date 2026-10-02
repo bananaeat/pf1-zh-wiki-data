@@ -1,0 +1,15 @@
+{{Spell
+|name=高等反震屏障
+|english_name=Stunning barrier, greater
+|school=防护系
+|levels=先知 3;圣武士 3;奥能师 3;审判者 3;异能者 3;战斗祭司 3;术士 3;法师 3;牧师 3
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|target=你
+|duration=1轮/等级 或 直至耗散
+|save=无及意志，通过则无效（见后文）
+|sr=否 和 可（见后文）
+|description=该法术的功能如同[[反震屏障]]一般，不过它会为AC和豁免检定提供的加值提升至+2点。而且直至[[震慑]]生物的数量等同于你的施法者等级之时，它才会被耗散。
+|source=进阶职业指南
+}}

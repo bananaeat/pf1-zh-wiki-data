@@ -1,0 +1,11 @@
+{{Feat
+|name=链魔盾
+|english_name=Kyton Shield
+|categories=战斗
+|description=无论在你手中还是围绕自身，刺链既是武器，也是盾牌。
+|prerequisites=感知15，擅长异种武器：刺链，链魔流，BAB+5，知识（位面）3级，气池职业能力
+|benefit=当你使用链魔流时，只要你持用刺链，你的AC获得+1盾牌加值。如果刺链是魔法物品，那么把它增强加值的1/2加到盾牌加值上。如果刺链有反噬特性，那么把全部的增强加值加到盾牌加值上。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

@@ -1,0 +1,14 @@
+{{Spell
+|name=冲破阵线
+|english_name=Linebreaker
+|school=变化系
+|levels=反圣武士 1;圣武士 1;审判者 1;游侠 1;炼金术师 1;猎人 1;调查员 1;魔战士 1
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|target=自己
+|duration=1分钟/等级
+|sr=否
+|description=当你冲锋时的基本速度+20尺，另外[[冲撞]]以及[[闯越]][[战技]]检定+2。
+|source=进阶种族手册
+}}

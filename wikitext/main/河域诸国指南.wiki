@@ -1,0 +1,56 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Guide to the River Kingdoms
+|authors=China Miéville、Elaine Cunningham、Chris Pramas、Steve Kenson
+|pages=64
+}}
+
+{{书页/简介|head=置身强盗领主之间！|1=
+插旗占地吧！在河域诸国无法无天的丘陵与山谷中，你拥有的只是你能凭武力守住的东西。数十个国家在这片亡命徒与恶棍的土地上兴盛，从高墙环绕的城邦到小小的部落飞地，任何有实力与远见的英雄都能凭一把剑夺取王座。在这里，隐秘的德鲁伊守护着古老的森林，饱受压迫的难民与流亡者眷恋地望向失落的故土。被困在远离咸水深海之处的文明海怪，与获得合法地位的刺客比肩而立；奇异的魔法能让一座繁荣的城镇脱离时空，又重新回来。随着强盗领主的不断兴衰，勇敢的冒险者能够获得的权力与声望没有上限——至于能否保住，则是另一回事了。
+
+在这本 64 页的书中，你将找到：
+
+* 对河域诸国的完整概览，包括其数据与历史，以及维系盗亦有道的「六大河域自由」（Six River Freedoms）。
+* 22 个新国家的深入条目，出自奇幻与科幻界一些最富想象力的作者之手，其中包括获奖作家 China Miéville、《纽约时报》畅销书作家 Elaine Cunningham，以及游戏界传奇人物 Chris Pramas、Colin McComb、Lisa Stevens 和 Steve Kenson。
+* 为每个国家设计的冒险钩子，内容充实，可直接放进你现有的战役。
+* 河域诸国本土的新专长、法术、职业能力与毒药。
+* 一幅详尽的河域诸国地图，涵盖古代遗迹、闹鬼的城市、怪物巢穴等等。
+}}
+
+'''河域诸国指南'''（''Guide to the River Kingdoms''）是由 Elaine Cunningham、Steve Kenson、China Miéville、Chris Pramas 及另外近二十位作者与设计师撰写的一本《探索者编年史》（Pathfinder Chronicles）资料书，于 2010 年 2 月发售。
+
+== 目录 ==
+{{书页/目录|1=
+河域诸国 @ 2
+吉罗娜（Gyronna）与汉斯布（Hanspur） @ 9
+阿图梅（Artume） @ 10
+科德伦（Cordelon） @ 11
+匕痕（Daggermark） @ 12
+格拉尔顿（Gralton） @ 16
+海巴尔（Heibarr） @ 20
+亥巴利亚（Hymbria） @ 21
+兰布雷斯（Lambreth） @ 22
+利伯瑟恩（Liberthane） @ 26
+洛里克荒丘（Loric Fells） @ 27
+米翁（Mivon） @ 28
+苔水（Mosswater） @ 32
+尼斯特拉（Nystra） @ 34
+外海（Outsea） @ 34
+皮塔克斯（Pitax） @ 38
+黑侯爵保护国（Protectorate of the Black Marquis） @ 42
+河畔镇（Riverton） @ 44
+瘦弱渡口（Scrawny Crossing） @ 45
+七拱镇（Sevenarches） @ 46
+被盗之地（The Stolen Lands） @ 50
+托维特（Touvette） @ 54
+泰莫恩（Tymon） @ 56
+乌林根（Uringen） @ 60
+}}
+
+{{书页尾
+|pfw=Guide to the River Kingdoms
+|releases=PDF¦PZO9217E¦2010-02¦；Softcover¦PZO9217¦2010-02¦
+}}
+
+[[分类:书目]]

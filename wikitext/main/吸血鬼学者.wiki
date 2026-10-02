@@ -1,0 +1,10 @@
+{{Feat
+|name=吸血鬼学者
+|english_name=Vampire Scholar
+|aon=无
+|categories=技巧
+|description=你知晓吸血鬼的传说，无论是故事还是历史。
+|benefit=你获得知识〔历史〕和知识〔贵族〕作为本职。另外，你可以使用知识〔贵族〕回忆所有已知吸血鬼的知识，他们的领土，他们的奴仆以及类似关于他们的特定传说。一般来说，知晓特定吸血鬼的DC等于15 + 吸血鬼的生命骰。GM可能会判定某些吸血鬼特别隐秘，或者对他们的了解是众所周知的，并且可以根据她认为合适的方式调整此DC。
+|source_name=其他职业
+|source_url=https://pf1chm.pages.dev/topics/page_1210.html
+}}

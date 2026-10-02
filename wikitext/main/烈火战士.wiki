@@ -1,0 +1,11 @@
+{{Feat
+|name=烈火战士
+|english_name=Flame Warrior
+|categories=战斗
+|pfs=否
+|description=你体内的烈火流淌于你手中的剑斧之中。
+|prerequisites=火系，巨人
+|benefit=你将身体的热量传导至你持用的金属近战武器中，它会造成额外1d6点火焰伤害。
+|source_name=冒险之路91：血征山之战
+|source_url=https://pf1chm.pages.dev/topics/91_Battle_of_Bloodmarch_Hills.htm
+}}

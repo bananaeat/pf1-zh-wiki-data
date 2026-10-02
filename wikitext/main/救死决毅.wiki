@@ -1,0 +1,14 @@
+{{Feat
+|name=救死决毅
+|english_name=Deny the Reaper
+|categories=故事
+|pfs=否
+|description=你无力拯救的那些生命，到你的最后一刻都陪伴着你。
+|prerequisites=你曾在战斗中目睹一位亲密同伴的死亡——该死亡本可避免，譬如由于出血、稳定伤势检定失败、毒素作用等；或拥有“家人逝去”或“生于战乱”角色背景。
+|benefit=你的医疗检定+2。如果你在医疗技能受训10级以上，该加值升至+4。你能够通过[[移动动作]]施展急救，并且在没有医疗工具包的情况下治疗致命伤时不承受减值。
+|goal=拯救一位同伴起死回生，包括利用‘生命之息’或‘转生术’法术。
+|completion_benefit=你和位于你10尺以内的同伴对抗即死效果的豁免+2。此外，每日1次，你可以将任何5环或更高的咒法（医疗）法术自发转化为‘生命之息’法术。
+|source=UCa
+|source_name=极限战役
+|source_url=https://pf1chm.pages.dev/topics/page_200.html
+}}

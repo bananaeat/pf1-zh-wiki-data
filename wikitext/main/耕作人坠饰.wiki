@@ -1,0 +1,14 @@
+{{魔法物品
+|name=耕作人坠饰
+|english_name=Tiller's Pendant
+|aon=MagicWondrousDisplay.aspx?FinalName=Tiller's Pendant
+|cat=奇物
+|aura=微弱幻术系、变化系
+|cl=3
+|slot=无
+|price=6,400 gp
+|description=这簇绿宝石附着在精巧的金扣上，排列成五瓣花的样子。无论如何佩戴，该物品都不会占用物品栏位。只要坠饰在佩戴者身上可见，就能为佩戴者在易容和隐匿检定上提供+4表现加值。此外，每天一次当说出命令词时，绿宝石会呈现出活花的模样，并获得为2d4颗刚摘下的莓果注入魔力的能力，使每颗莓果被吃下时都能提供一餐，并治愈1点伤害，如同[[神莓]]。
+|req=[[制造奇物]]、[[易容术]]、[[神莓]]
+|cost=3,200 gp
+|source=冒险者指南
+}}

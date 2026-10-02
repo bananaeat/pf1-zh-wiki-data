@@ -1,0 +1,9 @@
+{{Feat
+|name=强力圣徽
+|english_name=Potent Holy Symbol
+|description=在虔信的你的手中，你的圣徽就是闪耀的信仰之光。
+|prerequisites=善良阵营，信仰善良神祇。
+|benefit=任何一轮只要你使用圣徽作为法器来施法或引导正能量，你都视为出示圣徽，进行祈祷或摇响手铃一般令吸血鬼却步。
+|source_name=夜之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_823.html
+}}

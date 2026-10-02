@@ -1,0 +1,15 @@
+{{Feat
+|name=神选武器
+|english_name=Weapon of the Chosen
+|categories=战斗
+|description=神祇偏爱的武器执于你手，它的力量超越了普通的钢铁和木材。
+|prerequisites=拥有神祇偏好武器的武器专攻专长，必须信仰一个神祇并从祂获得神术
+|benefit=以一个[[迅捷动作]]，你可以呼唤你的神祇引导你用神祇偏好武器进行的攻击。在本轮你以该武器进行的下一次攻击时，你的武器在攻击[[虚体]]生物和克服伤害减免时视为魔法武器。除此之外，如果你的攻击因为[[掩蔽]]的失手率而落空，你可以重掷一次失手率检定来判断是否确实命中。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[精通神选武器]]、[[高等神选武器]]（2 个条目）

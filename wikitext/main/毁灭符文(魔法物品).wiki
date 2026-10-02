@@ -1,0 +1,15 @@
+{{消歧义|毁灭符文}}
+{{魔法物品
+|name=毁灭符文
+|english_name=Rune of Razing
+|aon=MagicThassilonianRunes.aspx#Rune of Razing
+|cat=瑟西隆语符文
+|aura=强烈塑能系
+|cl=13
+|slot=符文
+|price=91,000 gp
+|description=该符文赋予持有者每日5轮忽略硬度和伤害减免的能力。激活它是一个[[自由动作]]，这些轮数不必连续使用。
+|req=[[铭刻符文]]、[[法师之剑]]
+|cost=43,500 gp，3,640 XP
+|source=冒险之路5：救世者的原罪
+}}

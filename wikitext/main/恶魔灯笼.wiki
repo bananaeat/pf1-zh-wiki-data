@@ -1,0 +1,7 @@
+{{物品
+|name=恶魔灯笼
+|english_name=The Demon's Lantern
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。抽牌者的身体被解离，只剩下装备和一颗包含其灵魂的闪耀宝石。宝石价值=2500gpX人物等级。复活术及以上法术可以恢复抽牌者，同时毁灭宝石。
+}}

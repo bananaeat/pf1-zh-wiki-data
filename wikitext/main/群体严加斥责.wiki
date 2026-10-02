@@ -1,0 +1,17 @@
+{{Spell
+|name=群体严加斥责
+|english_name=Castigate, mass
+|school=惑控系 (胁迫)
+|tags=恐惧;依赖语言;影响心灵;情绪
+|domains=主权子域 5
+|levels=催眠师 5;审判者 5
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=中距
+|target=每施法者等级1名生物，任意两名之间的距离不得超过30尺
+|duration=1轮/等级或1轮；见后文
+|save=意志，通过则部分生效
+|sr=是
+|description=该法术的功能如同[[严加斥责]] 一般，不过它可以影响多个生物。
+|source=进阶玩家指南
+}}

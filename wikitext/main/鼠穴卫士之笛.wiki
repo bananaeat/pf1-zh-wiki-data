@@ -1,0 +1,14 @@
+{{魔法物品
+|name=鼠穴卫士之笛
+|english_name=Pipes of the Warren Guardian
+|aon=MagicWondrousDisplay.aspx?FinalName=Pipes of the Warren Guardian
+|cat=奇物
+|aura=微弱咒法系
+|cl=5
+|slot=无
+|price=6,000 gp
+|description=这些做工精细的黄色象牙笛子用青铜箍住，并以琥珀碎片装饰。如果持有者学会了合适的曲调，每天一次，他可以用这些笛子召唤1d4+1只凶暴鼠，如同使用[[召唤怪物 III]]。被召唤的凶暴鼠同样拥有群居种族特性，并且在鼠族的群居种族特性生效时视为鼠族。
+|req=[[制造奇物]]、[[召唤怪物 III]]
+|cost=3,000 gp
+|source=进阶种族手册
+}}

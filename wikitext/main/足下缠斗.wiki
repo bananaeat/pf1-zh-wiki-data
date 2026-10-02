@@ -1,0 +1,13 @@
+{{Feat
+|name=足下缠斗
+|english_name=Underfoot
+|aon=Underfoot (BotB)
+|categories=战斗
+|description=你在你的敌人的空间爬进爬出来给他们制造麻烦
+|prerequisites=[[闪避]]，群居种族特性
+|benefit=你能够和一个至少比你大一个等级的敌对生物共同占据一片空间。你在占据敌人的空间时AC获得+2盾牌加值，并且在对抗它时所有攻击获得+2加值。和你共占一个方格的生物在所有专注检定中承受-2罚值。进入对手占据的空间会引发[[借机攻击]]。这个能力不会和其他类似的使一个生物进入另外一个生物空间的能力叠加，例如[[捕鼠者(游荡剑客变体职业)|捕鼠者]]游荡剑客的足下突袭炫技。
+|special=本专长视为[[扰法者(专长)]]专长，用于满足以扰法者为先决条件的其他专长的资格。
+|source=BotB
+|source_name=野兽血脉
+|source_url=https://pf1chm.pages.dev/topics/page_699.html
+}}

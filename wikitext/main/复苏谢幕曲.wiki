@@ -1,0 +1,15 @@
+{{Spell
+|name=复苏谢幕曲
+|english_name=Reviving finale
+|school=咒法系 (医疗)
+|levels=吟游诗人 3;歌者 3
+|action=迅捷动作
+|components=语言;姿势
+|range=20尺
+|area=以你为中心，半径20尺爆发范围
+|duration=立即
+|save=意志，通过则减半（无害）
+|sr=是
+|description=施放这个法术之前，你必须激活一种吟游表演。通过挥舞手臂进行谢幕，你会立即结束你的吟游表演，所有在法术影响区域内的盟友均会恢复2d6点生命。该法术对不死生物没有影响。
+|source=进阶玩家指南
+}}

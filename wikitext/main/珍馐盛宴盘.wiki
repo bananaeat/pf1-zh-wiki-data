@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=珍馐盛宴盘
+|english_name=Platter of Exquisite Feasting
+|aon=MagicWondrousDisplay.aspx?FinalName=Platter of Exquisite Feasting
+|cat=奇物
+|aura=微弱变化系
+|cl=1
+|slot=无
+|price=250 gp
+|weight=1磅
+|description=这只银质的椭圆形托盘能容纳至多1立方尺的食物。每日1次，托盘的使用者可以启动该物品，把盘中的食物转变为使用者所选的另一种类型或另一种品质的食物。转变后的食物外观和气味都与其新类型的真实食物毫无二致，但保留原有的质地、味道、营养价值和饱足程度。腐坏或有毒的食物依然腐坏或有毒，并且在魔法或超自然的审视下仍能被发现。
+|req=[[制造奇物]]、[[净化食粮]]
+|cost=125 gp
+|source=内海诡道
+}}

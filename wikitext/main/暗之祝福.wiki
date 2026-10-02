@@ -1,0 +1,9 @@
+{{Trait
+|name=暗之祝福
+|english_name=Blessing of Darkness
+|type=种族
+|prerequisites=[[魔裔]]
+|description=当邪恶的狂信徒为了你的利益而祈祷时，你体内与黑暗的内在联系使你受益。每当能够引导负能量的施法者对你施放增益法术，在确定她所施放法术的效果时，视为其比正常高1级。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_834.html
+}}

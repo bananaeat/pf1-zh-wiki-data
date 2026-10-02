@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 199），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=坚韧构造
+|english_name=Resilient Construction
+|type=种族
+|prerequisites=汲魂木
+|description=你在魔法工坊周围度过了大量时光，魔法之力维系着你的存在。每天一次，若你处于一个由你施放、范围为自身的持续性法术效果之下，却将被降至0或更低生命值时，你不会被该次攻击摧毁，而是以负生命值的状态陷入停滞并[[无助]]1轮。若你在此期间再次受到伤害，或者在该轮结束时生命值仍低于0，你就会被摧毁。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Resilient%20Construction
+}}

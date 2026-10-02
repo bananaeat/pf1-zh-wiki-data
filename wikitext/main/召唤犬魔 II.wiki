@@ -1,0 +1,17 @@
+{{Spell
+|name=召唤犬魔 II
+|english_name=Summon Barghest II
+|school=咒法系 (召唤)
+|tags=邪恶
+|levels=牧师 6;先知 6;战斗祭司 6
+|action=1轮
+|components=语言;姿势;圣徽
+|range=近距
+|effect=一只召唤的大犬魔或1d3只召唤的犬魔
+|duration=1轮/等级 (可解消)
+|save=无
+|sr=否
+|description=此法术如同[[召唤犬魔 I]]，但它可以召唤1只大[[犬魔]]，或1d3只各带2个成长点数的普通犬魔。
+|source=探索者漫画10
+}}
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/Pathfinder_Comics_10.htm 原文]），按 AoN 核对过。</small>

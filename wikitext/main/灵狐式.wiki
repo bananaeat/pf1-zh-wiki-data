@@ -1,0 +1,16 @@
+{{Feat
+|name=灵狐式
+|english_name=Kitsune Style
+|categories=战斗;流派
+|pfs=否
+|description=如一道流星划过对手，你的招数让他晕头转向。
+|prerequisites=智力13，[[寓守于攻]]，[[精通阴招]]
+|benefit=当处于本[[流派]]的架势时，你可以在冲锋结束时以一次[[阴招]][[战技]]取代攻击。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[灵狐倾城]]、[[灵狐计]]（2 个条目）

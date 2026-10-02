@@ -1,0 +1,24 @@
+{{消歧义|龙牙王冠}}
+{{魔法物品
+|name=龙牙王冠
+|english_name=Relic of Kazavon, Crown of Fangs
+|aon=MagicArtifactsDisplay.aspx?ItemName=Relic of Kazavon, Crown of Fangs
+|cat=神器
+|tier=高等神器
+|aura=强烈惑控系、幻术系、死灵系
+|cl=20
+|slot=头部
+|weight=4磅
+|intel='''阵营''' 守序邪恶；'''自我值''' 10
+
+'''感官''' 30尺
+
+'''智力''' 10，'''感知''' 10，'''魅力''' 12
+
+'''交流''' 感染情绪
+
+'''能力''' 每天3次——[[变身术]]、[[支配人类]]（DC 17）、[[强效幻影]]（DC 17）、[[镜影术]]、[[假象术]]（DC 19）
+|description=Kazavon的牙齿被镶嵌在一圈镶宝石的金环上，制成了龙牙王冠。王冠给予佩戴者+6增强加值的体质和魅力，并赋予再生20。只有Serithtial之刃、一柄[[神圣复仇者]]，或圣武士的[[圣武士#制裁邪恶 (Smite Evil, Su)|制裁邪恶]]能力，才能对佩戴者造成致命伤害。此外，佩戴者还能获得[[预警术]]法术对施术者自身的益处。
+|destruction=龙牙王冠如果被一把由曾为凡人的神明锻造的圣剑击中，就会被摧毁。
+|source=神器与传说
+}}

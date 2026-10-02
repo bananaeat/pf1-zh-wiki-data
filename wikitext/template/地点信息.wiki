@@ -1,0 +1,43 @@
+<includeonly>{{infobox
+| title            =  <big>'''{{{name|{{{地名|{{PAGENAME}}}}}}}}'''</big><br><small>{{{原名|{{#var_final:en}}}}}</small>
+| image        = {{#if:{{{image|}}}|[[File:{{{image|}}}|300px]]|[[File:Infobox-image-placeholder.jpg|300px]]}}
+| caption        ={{{图像信息|}}}
+| header1      = {{#if: {{{类型|}}}{{{王国|}}}{{{居民|}}}{{{描述|}}}{{{气候|}}}|概要}}
+| label2       = 类型
+| data2        = {{{类型|}}}
+| label4       = 王国
+| data4        = {{{王国|}}}
+| label5       = 居民
+| data5        = {{{居民|}}}
+| label6       = 描述
+| data6        = {{{描述|}}}
+| label7       = 气候
+| data7        = {{{气候|}}}
+| belowstyle   =
+| below	       = 
+}}</includeonly><noinclude>[[Category:huiji template]]{{优质模板|信息}}{{documentation}}</noinclude>
+
+<noinclude>
+<templatedata>
+{
+	"params": {
+		"地名": {
+			"suggested": true
+		},
+		"原名": {},
+		"图像": {
+			"suggested": true
+		},
+		"图像信息": {},
+		"类型": {},
+		"王国": {},
+		"居民": {},
+		"描述": {
+			"suggested": true
+		},
+		"气候": {}
+	},
+	"description": "本模版用于地理信息表，一般用于词条的开头，参数如下，更多参数请点击更多信息。\n详细信息与案例请前往https://templatemanager.huiji.wiki/wiki/%E6%A8%A1%E6%9D%BF:Infobox_battle"
+}
+</templatedata>
+</noinclude>

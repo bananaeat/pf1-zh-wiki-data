@@ -1,0 +1,10 @@
+{{魔宠变体
+|name=幻梦
+|english_name=Figment
+|description=幻梦诞生于其主人的想像，而非普通生物觉醒后的结果。
+
+'''轮回之梦（Recurring Dream，Su）'''：幻梦的总生命值为其主人总生命值的四分之一。幻梦死亡后便会消失，在其主人经过整宿的睡眠并醒来后重新出现，并具有1点生命值。若幻梦与其主人的距离超过100尺、幻梦进入[[反魔场]]（antimagic field）、幻梦的主人陷入[[昏迷]]（unconscious）或睡着（asleep）的话，它便会消失，直至下一次其主人准备每日法术或者恢复每日法术的时候为止。由于幻梦来自其主人的精神世界，因此它无法成为女巫的[[魔宠]]，也无法使用任何它可能具有的预言系法术（divination spells）或类法术能力（spell-like abilities）。该能力取代[[精通反射闪避]]（Improved Evasion）。
+
+'''梦境显化（Manifest Dreams，Su）'''：3级起，幻梦会被其主人的梦境所改变。每当主人在整夜的休息后醒来时，他就能够将价值1点进化点数（evolution point）、但是不需要[[基础形态]]的[[幻灵]]进化（eidolon evolutions）应用在幻梦上。7级起，他能够将价值2点进化点数的进化应用在幻梦上；13级时，他能将价值3点的进化应用在幻梦上。该能力取代[[传递接触法术]]（Deliver Touch Spells）、与动物同类交谈（Speak with Animals of Its Kind）以及探知魔宠（Scry on Familiar）。
+|source=魔宠手记
+}}

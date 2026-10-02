@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Darklands pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=洞窟求生者
+|english_name=Cavern Survivor
+|type=地区
+|prerequisites=纳-沃斯
+|description=你时常穿行于纳-沃斯，比大多数地表居民都更懂得如何在那片无光之境中存活。你为在地下荒野中求生而进行的[[生存]]检定获得+2背景加值，且生存对你而言是本职技能。
+|source_name=幽暗地域英雄
+|source=HotD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Cavern%20Survivor
+}}

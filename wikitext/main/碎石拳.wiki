@@ -1,0 +1,11 @@
+{{Feat
+|name=碎石拳
+|english_name=Stone-Handed
+|categories=战斗
+|description=你通过技巧来对付那些活化生物，你的攻击就如同是崩裂的碎石。
+|prerequisites=力量13，[[震慑拳]]
+|benefit=在你使用[[徒手攻击]]进行一次近战攻击之前，你可以花费一次[[震慑拳]]的使用次数来宣言进行一次碎石拳。这次攻击和普通攻击相同，除了你的这次攻击可以忽视目标最多等同于你武僧等级或1/4你的BAB（最小为1）的硬度，两者取高。这个效果会替代你震慑拳所引发的其他效果。
+|source=EMH
+|source_name=元素大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_1112.html
+}}

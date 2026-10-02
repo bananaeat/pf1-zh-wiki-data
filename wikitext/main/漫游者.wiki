@@ -1,0 +1,10 @@
+''同名的还有 [[漫游者(物品)]]。''
+{{Trait
+|name=漫游者
+|english_name=Wanderlust
+|type=社会
+|description=你在孩提时代因经常跟随你的商人父母一起到处旅行而充满快乐。而如今你也在兴奋地旅行着，你在旅途中获得强大的动力。在确定你的大陆移动速度时基本移动速度提高10尺。
+推荐：[[黛丝娜]]信徒、[[半身人]]、瓦瑞西安人
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

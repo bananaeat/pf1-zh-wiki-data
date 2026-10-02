@@ -1,0 +1,13 @@
+{{危害
+|name=寒冰锥陷阱
+|english_name=Cone of Cold Trap
+|kind=陷阱
+|trap_type=魔法
+|cr=11
+|perception=DC 30
+|disable=DC 30
+|trigger=接近型（[[魔法警报]]）
+|reset=无
+|effect=法术效果（[[寒冰锥]]，15d6点寒冷伤害，反射 DC 17 豁免减半）；复数目标（60尺锥形内的所有目标）
+|source=核心规则书
+}}

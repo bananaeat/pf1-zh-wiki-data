@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能选集|Psychic Anthology}}
+'''冷冻静滞'''（Cryokinetic Stasis, Sp）是[[操念使]]的[[原力]]。
+
+元素：水；类别：通用（Sp）；等级：8；超载：1
+
+你将自己或者一个自愿生物用一层冰霜包裹住，将目标置于一个静止的状态，如同[[永恒静滞]]，除了3环或者以上的火焰法术或者类法术能力在对抗该静滞状态时视为使用了[[解除魔法]]。除此之外，没有任何其他外力和效果可以伤害目标。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Cryokinetic Stasis|2=Cryokinetic Stasis}}
+
+[[分类:原力]]

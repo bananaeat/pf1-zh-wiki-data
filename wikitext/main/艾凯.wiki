@@ -1,0 +1,36 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=艾凯
+|english_name=Eaqueo
+|title=终局之结（The Finishing Knot）
+|alignment=守序邪恶（LE）
+|weapon=[[捕网]]
+|portfolio=沮丧，绞索，悲剧
+|domains=[[邪恶领域(领域)|邪恶]]，[[秩序领域|秩序]]，[[解放领域|解放]]，[[狂乱领域|狂乱]]
+|subdomains=[[邪恶领域(领域)#魔鬼子域 (Devil)|魔鬼子域（邪恶）]]，[[秩序领域#魔鬼子域 (Devil)|魔鬼子域（秩序）]]，[[解放领域#自由子域 (Freedom)|自由子域]]，[[狂乱领域#疯狂子域 (Insanity)|疯狂子域]]，[[狂乱领域#梦魇子域 (Nightmare)|梦魇子域]]
+|symbol=黑丝绞索
+|animal=蛇
+|color=黑色，蓝色
+|pantheon=炼狱大公
+|source=内海诸神、永罪之书
+}}
+
+'''艾凯'''（Eaqueo，称号「终局之结」）是[[炼狱大公与地狱公爵|炼狱大公]]之一。{{AI翻译|nocat=1|称号「终局之结」由 AI 照英文原名 The Finishing Knot 译出，未经人工校对。}}
+
+== 服从仪典与神恩 ==
+=== 服从仪典 ===
+系上绞索，并将其挂在任何死亡生物的脖子上。你在对抗影响心灵效果的豁免上获得+4亵渎加值。
+
+=== 神恩 ===
+通过[[魔族仪典]]获得，表现为每项每日可用1次的类法术能力：
+{{神恩|n=1|name=|en=|type=Sp|text=[[血之讯息]]1次/日。}}
+{{神恩|n=2|name=|en=|type=Sp|text=[[石言术]]1次/日。}}
+{{神恩|n=3|name=|en=|type=Sp|text=[[群体绞杀]]1次/日。}}
+
+== 信徒可用 ==
+* '''专长'''：[[炼狱镣铐]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1554.html 原文]），原在总页 [[炼狱大公与地狱公爵]]。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Eaqueo|2=Eaqueo}}
+[[分类:魔神]]

@@ -1,0 +1,11 @@
+{{Trait
+|name=食尸癖
+|english_name=Corpse Cannibal
+|type=宗教
+|pfs=否
+|prerequisites=信仰[[厄加图娅]]
+|description=你的信仰鼓励你纵情于暴食，为此可以无视任何黑暗禁忌。你对抗疾病的强韧豁免获得+2背景加值，并且可以无副作用地从腐肉中获取营养。
+|source_name=宗教背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

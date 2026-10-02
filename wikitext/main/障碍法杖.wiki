@@ -1,0 +1,24 @@
+{{魔法物品
+|name=障碍法杖
+|english_name=Staff of Obstacles
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Obstacles
+|cat=法杖
+|aura=中等（学派不定）
+|cl=9
+|slot=无
+|price=52,850 gp
+|weight=5磅
+|description=这根暗沉而坚实、带有磨损痕迹的法杖看起来像是用粗糙的石头雕成，拿在手里却像轻木一样轻。
+
+该法杖可以使用以下法术：
+
+* [[秘法锁]]（1 发）
+* [[油腻术]]（1 发）
+* [[风墙术]]（1 发）
+* [[火墙术]]（2 发）
+* [[冰墙术]]（2 发）
+* [[石墙术]]（3 发）
+|req=[[制造法杖]]、[[秘法锁]]、[[油腻术]]、[[火墙术]]、[[冰墙术]]、[[石墙术]]、[[风墙术]]
+|cost=27,050 gp
+|source=进阶玩家指南、极限宝具
+}}

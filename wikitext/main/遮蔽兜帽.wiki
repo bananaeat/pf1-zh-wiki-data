@@ -1,0 +1,9 @@
+{{装备
+|name=遮蔽兜帽
+|english_name=Hoodwink cowl
+|cat=冒险装备
+|price=75 gp
+|weight=3磅
+|description=这种令人不适的面罩由黑布兜帽、垫皮护耳和遮挡视线的带活门护目镜构成。穿戴遮蔽兜帽的生物目盲且耳聋，并且在所有其他察觉检定中承受-10减值。（译注：CHM 汉化译作「遮蔽斗篷」；原文 cowl 是兜帽，本站改名。）
+|source=异能冒险
+}}

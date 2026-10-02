@@ -1,0 +1,14 @@
+{{魔法物品
+|name=斯芬克斯之母符咒
+|english_name=Mother-Sphinx Token
+|aon=MagicWondrousDisplay.aspx?FinalName=Mother-Sphinx Token
+|cat=奇物
+|aura=中等塑能系
+|cl=7
+|slot=无
+|price=9,000 gp
+|description=这块木盘上刻着斯芬克斯之母的形象。这是艾巴萨罗姆的象征，体现了知识与奥术之力，由奥西里昂家族在城市早年带来。每日1次，使用者可以选定100尺内的一名敌人并说出命令字。这样做之后，她在接下来2轮中施放的、以指定敌人为目标的任何法术，都视为她处于[[秘法调和]]法术的效果之下。
+|req=[[制造奇物]]、[[秘法调和]]
+|cost=4,500 gp
+|source=商人货单
+}}

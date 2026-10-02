@@ -1,0 +1,11 @@
+{{Feat
+|name=人多胆壮
+|english_name=Courage in Numbers
+|categories=团队
+|description=当你面对敌人时，你身边的盟友给予你以勇气。
+|prerequisites=[[钢铁意志]]
+|benefit=在对抗恐惧时每个距你10英尺内且拥有此专长的盟友都使你获得+2士气加值（最大+8）。
+|source=DsH
+|source_name=屠龙者手册
+|source_url=https://pf1chm.pages.dev/topics/page_820.html
+}}

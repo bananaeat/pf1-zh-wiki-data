@@ -1,0 +1,9 @@
+{{Trait
+|name=协会的肌肉训练
+|english_name=Muscle of the Society
+|type=战斗
+|description=协会的力量训练使你能够进入平时无法接近的遗迹并拿出更多的战利品。你在用于破门和抬起闸门的力量检定上获得+2背景加值。除此之外，在计算负重时，你的力量视为提高了2点。
+|source_name=初探探索者协会
+|source=PSP
+|source_url=https://pf1chm.pages.dev/topics/page_1587.html
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=鬼眼狙
+|english_name=Fiendish Sniper
+|type=种族
+|prerequisites=[[魔裔]]
+|description=你本能地在射击对手后隐藏起来，等待再次出手的良机。你在狙击攻击之后进行的隐匿检定上获得+5背景加值。
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_451.html
+}}

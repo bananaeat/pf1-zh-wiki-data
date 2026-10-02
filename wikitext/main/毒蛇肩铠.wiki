@@ -1,0 +1,15 @@
+{{魔法物品
+|name=毒蛇肩铠
+|english_name=Pauldrons of the Serpent
+|aon=MagicWondrousDisplay.aspx?FinalName=Pauldrons of the Serpent
+|cat=奇物
+|aura=微弱防护系
+|cl=3
+|slot=肩部
+|price=3,000 gp
+|weight=3磅
+|description=这对肩铠由秘银制成，每只上都压印着一条呈防御姿态盘起的毒蛇图案。穿戴者对抗借机攻击时AC获得+2闪避加值，对抗冲撞、摔绊、复位和擒抱战技的CMD提高2点。
+|req=[[制造奇物]]、[[猫之优雅]]
+|cost=1,500 gp
+|source=极限宝具
+}}

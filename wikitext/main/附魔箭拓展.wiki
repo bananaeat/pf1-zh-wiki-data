@@ -1,0 +1,9 @@
+{{Feat
+|name=附魔箭拓展
+|english_name=Expanded Enhance Arrows
+|description=你的魔法箭矢现在能产生更多样的能力了。
+|prerequisites=附魔箭职业能力。
+|benefit=3级时，将酸蚀（corrosive）UE加入附魔箭可赋予非魔法箭矢的特性列表中。5级时，你可以在箭矢上附加幽冥、[[妖火]]（limning）UE或位面（planar）UE，取代原本的及远。7级时，你可以把酸爆（corrosive burst）UE[[特殊能力]]加入列表中。
+|source_name=传奇编年史
+|source_url=https://pf1chm.pages.dev/topics/page_1502.html
+}}

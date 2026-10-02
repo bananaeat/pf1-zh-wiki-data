@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=隐胁权杖
+|english_name=Rod of Subtle Menace
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Subtle Menace
+|cat=权杖
+|aura=微弱惑控系、变化系
+|cl=5
+|slot=无
+|price=12,305 gp
+|weight=5磅
+|description=这根粗糙的黑化钢杆是一根+1轻型硬头锤。能看到这根权杖持用者的人会隐约感到身处危险之中。这种不祥的灵光很微弱，却会促使他人避免激怒持用者，尽管他们可能并不明白为什么。手持这根权杖时，持用者在[[交涉]]中搜集信息时可以用[[威吓]]检定代替交涉检定，并且在进行威吓检定时，总是视为比目标体型更大。
+|req=[[制造魔法武器和防具]]、[[制造权杖]]、[[破敌]]
+|cost=6,152 gp
+|source=魔法战术工具箱
+}}

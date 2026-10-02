@@ -1,0 +1,12 @@
+{{Feat
+|name=魔鬼凌辱
+|english_name=Diabolic Humiliation
+|categories=战斗
+|description=你羞辱性的攻击会降低敌人的士气。
+|prerequisites=战斗反射；魔鬼之型；要害打击;精通徒手打击或武器专攻（徒手打击）; 基础攻击加值+8或7级武僧等级.
+|benefit=当你使用魔鬼之型以徒手打击成功使敌人恍惚时，目标会受到进一步的羞辱。目标在因这种方式恍惚后的1分钟内不能获得任何士气加值的好处，在这1分钟内，你的借机攻击所造成的任何额外恍惚效果将持续2轮而不是1轮。持续时间内多个因此产生的恍惚效果将相互叠加。
+|special=拥有此专长的10级以上武僧可以选择[[精通要害打击]]作为武僧奖励专长。
+|source=PA
+|source_name=位面冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

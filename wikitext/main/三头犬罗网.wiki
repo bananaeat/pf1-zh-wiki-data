@@ -1,0 +1,10 @@
+{{Feat
+|name=三头犬罗网
+|english_name=Cerberus Snare
+|categories=战斗
+|description=你的攻击像刻耳柏洛斯的啮咬一样抓住你的对手，使他们无法从本位面逃离。
+|prerequisites=三头犬流，BAB+9或9级武僧等级
+|benefit=当你用三头犬流对对手造成伤害时，直到你的下一回合开始，该对手都不能进行五尺快步。并且也禁止维度旅行。除了持续时间为一轮外，这个效果就像 次元锚。法术抗力生效。在克服法术抗力的检定中，你的施法者等级等同于你的角色等级。
+|source_name=位面旅者手册
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

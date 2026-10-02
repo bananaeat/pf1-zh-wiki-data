@@ -1,0 +1,18 @@
+{{Spell
+|name=观命术
+|english_name=Deathwatch
+|school=死灵系
+|levels=先知 1;唤魂师 1;战斗祭司 1;牧师 1;通灵者 1
+|domains=安眠领域 1
+|action=标准动作
+|components=语言;姿势
+|range=30尺
+|area=锥形发散区域
+|duration=10分钟/等级
+|save=无
+|sr=否
+|description=通过使用死灵法术的力量，你能够判断法术范围内[[濒死]]生物的状态。你会立即得知区域内的每个生物是已经死亡、奄奄一息 (活着但是重伤，HP不超过3)、死里逃生 (HP 4或更高)、健康、不死生物、或无所谓死活 (如构装生物)。观命术可看穿任何可使生物[[假死]]的法术和能力。
+|source=核心规则书
+}}
+
+{{FAQ|v5748eaic9vhu}}

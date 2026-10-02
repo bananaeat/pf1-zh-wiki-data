@@ -1,0 +1,22 @@
+{{速查导航|here=神祇}}
+<div class="well" style="margin:.2em 0"><small>'''这一页只有数据栏，没有正文。'''民间汉化的合集里没有这一位的条目；中文名照站上已有的狂暴之力 [[凯利赞德里的潮汐]]。正文见 [https://aonprd.com/DeityDisplay.aspx?ItemName=Kelizandri AoN 原文]。认领整理见 [[待办事项]]。</small></div>
+{{神祇
+|name=凯利赞德里
+|english_name=Kelizandri
+|title=盐海帝王
+|alignment=中立邪恶（NE）
+|weapon=三叉戟
+|portfolio=溺水，水，波浪
+|domains=[[毁灭领域|毁灭]]，[[邪恶领域(领域)|邪恶]]，[[旅行领域|旅行]]，[[水领域|水]]
+|subdomains=[[毁灭领域#天灾子域 (Catastrophe)|天灾子域]]，[[旅行领域#探索子域 (Exploration)|探索子域]]，[[邪恶领域(领域)#恐惧子域 (Fear)|恐惧子域]]，[[水领域#海子域 (Oceans)|海子域]]
+|symbol=带缺口的鲨鱼鳍
+|animal=大白鲨
+|color=蓝色，绿色
+|pantheon=元素领主
+|source=内海诸神
+}}
+{{AI翻译|nocat=1|卡片中的称号、关注领域、圣徽、圣兽、圣色由 AI 照 AoN 英文译出，未经人工校对。}}
+
+'''信徒相关'''：专长[[元素威力]]、[[盐海帝王之触]]；背景特性[[元素亲和]]。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Kelizandri|2=Kelizandri}}

@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[运动健将]] 的神话版本。</small></div>
+{{Feat
+|name=运动健将
+|english_name=Athletic
+|categories=神话
+|description=你的身体力量远远超越其他常人。
+|prerequisites=[[运动健将]]
+|benefit=[[运动健将]]专长对攀爬与游泳技能检定带来的加值增加2点。此外，你能够花费1次神话之力，使得1次攀爬或者游泳检定就好像自然掷出20一般。你必须在进行检定之前决定使用该能力。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

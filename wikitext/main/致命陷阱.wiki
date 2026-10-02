@@ -1,0 +1,11 @@
+{{消歧义|致命陷阱(背景特性)}}
+{{Feat
+|name=致命陷阱
+|english_name=Deadly Trap
+|description=不论是由于被提升的精度，亦或是刃片与钝器，总之你的陷阱特别致命。
+|prerequisites=[[工艺]]（陷阱制作）8级，生存8级。
+|benefit=若你制作了一个需要进行攻击投骰才能命中的陷阱，那么你可以选择使该陷阱的重击倍率增加1（×2变为×3，以此类推），或使该陷阱在确认重击的攻击上获得+4加值。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

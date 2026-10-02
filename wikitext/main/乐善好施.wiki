@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 196），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=乐善好施
+|english_name=Generous
+|type=种族
+|prerequisites=[[人类]]（塔尔多人）
+|description=你的邻居们以慷慨赢得了你的尊敬，而你也以他们为榜样。每当你赠予一个生物价值至少为25金币×该生物CR的礼物或服务时，你在接下来的24小时内对该生物进行的[[唬骗]]和[[交涉]]检定获得+2背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Generous
+}}

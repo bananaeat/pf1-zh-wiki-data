@@ -1,0 +1,30 @@
+{{速查导航}}
+
+'''战士进阶武器训练'''是《[[武器大师手册]]》的一章。
+
+== 本章条目 ==
+
+进阶武器训练在本站是收在 [[进阶武器训练]] 一整页里的小节（不单独建页）。本章的十七条各自的位置：
+
+* [[进阶武器训练(专长)|进阶武器训练]]（专长）
+* [[进阶武器训练#武艺无尽 (Abundant Tactics)|武艺无尽]]
+* [[进阶武器训练#钢铁勇气 (Armed Bravery)|钢铁勇气]]
+* [[进阶武器训练#擅长武具 (Combat Competence)|擅长武具]]
+* [[进阶武器训练#炫目威吓 (Dazzling Intimidation)|炫目威吓]]
+* [[进阶武器训练#以剑为盾 (Defensive Weapon Training)|以剑为盾]]
+* [[进阶武器训练#战士之反射 (Fighter's Reflexes)|战士之反射]]
+* [[进阶武器训练#一人成军 (Fighter's Tactics)|一人成军]]
+* [[进阶武器训练#重整旗鼓 (Inspiring Confidence)|重整旗鼓]]
+* [[进阶武器训练#枕戈待旦 (Trained Initiative)|枕戈待旦]]
+* [[进阶武器训练#流星飞掷 (Trained Throw)|流星飞掷]]
+* [[进阶武器训练#习武为艺 (Versatile Training)|习武为艺]]
+* [[进阶武器训练#挥洒自如 (Fighter's Finesse)|挥洒自如]]
+* [[进阶武器训练#武器掌握 (Weapon Mastery)|武器掌握]]
+* [[进阶武器训练#专注武器 (Focused Weapon)|专注武器]]
+* [[进阶武器训练#庖丁解牛 (Trained Grace)|庖丁解牛]]
+* [[进阶武器训练#百兵一心 (Weapon Specialist)|百兵一心]]
+* [[进阶武器训练#弃卒保帅 (Weapon Sacrifice)|弃卒保帅]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_372.html 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

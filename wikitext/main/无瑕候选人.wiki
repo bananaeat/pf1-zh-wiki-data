@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=无瑕候选人
+|english_name=Candidate for Perfection
+|type=地区
+|prerequisites=扎摩诔
+|description=你已开始为进入某个无瑕居流派而修行，将你的身体、心智与精神磨砺成一件训练有素的武器。你以徒手打击进行的借机攻击的攻击检定获得+1背景加值。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Candidate%20for%20Perfection
+}}

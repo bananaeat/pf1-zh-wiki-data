@@ -1,0 +1,10 @@
+{{Feat
+|name=行贿高手
+|english_name=Persuasive Bribery
+|description=你知道如何用金钱打动他人。
+|prerequisites=谈判专家
+|benefit=当你尝试以交涉检定贿赂某人、以及用交涉或魅力检定与被呼唤的生物（比如[[异界盟友]]或[[异界誓缚]]法术呼唤的生物）讨价还价时获得+2加值，上述加值是在贿赂本身带来的任何加值之外额外提供的。当某人初次拒绝你提出的贿赂时，这个人对你的态度不会恶化，即便在正常情况下这种提议会冒犯到对方也是如此。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=隼之眼
+|english_name=Eye of the Falcon
+|type=地区
+|prerequisites=追随雄鹰骑士团的角色
+|description=你拥有洞察事物本质的能力。你对幻术（魅影幻觉）法术的豁免检定获得+1背景加值，此外只要你与说话者面对面交谈，那么在识破谎言时察言观色技能检定也获得+1背景加值。
+|source_name=内海骑士
+|source_url=https://pf1chm.pages.dev/topics/zhdc70ece933.htm
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=炼狱魔宠灵药
+|english_name=Elixir of the Infernal Familiar
+|aon=MagicWondrousDisplay.aspx?FinalName=Elixir of the Infernal Familiar
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=无
+|price=1,400 gp
+|description=这根细长的管子里装着一种刺鼻的黑色污泥，摸上去是温热的。饮用者服下这种灵药后，会变成一只灰猫，持续1小时（如同[[野兽形态 II]]），所穿戴的物品都留在地上。处于灵药效果下时，饮用者获得30尺的黑暗视觉，并且她的爪印会留下一串带着淡淡硫磺味的焦痕。如果饮用者原来的形态已经拥有黑暗视觉，其范围增加30尺。效果结束时，饮用者变回原来的形态。
+|req=[[制造奇物]]、[[野兽形态 II]]、[[黑暗视觉(法术)]]
+|cost=700 gp
+|source=药剂与毒药
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=药性催化之瓶
+|english_name=Vial of Efficacious Medicine
+|aon=MagicWondrousDisplay.aspx?FinalName=Vial of Efficacious Medicine
+|cat=奇物
+|aura=微弱咒法系
+|cl=5
+|slot=无
+|price=700 gp
+|description=这个圆鼓鼓的瓶子由烟熏玻璃制成，会使其中盛放的任何液体显得深暗许多，并闪烁着美丽的白色光点。药性催化之瓶可以盛放一剂炼金药剂，比如[[抗毒剂]]或[[抗生素]]。把药剂装进瓶中是一个会引发借机攻击的[[标准动作]]。当从瓶中饮下或涂抹炼金药剂时，它在豁免检定、其他检定、AC或[[CMD]]上提供的任何炼金加值提高2点，这一提高视为增强加值。此外，使用者恢复1d8+5点伤害。药性催化之瓶每天最多可以使用3次。
+|req=[[制造奇物]]、[[治疗轻伤]]、[[万灵秘药]]
+|cost=4,500 gp
+|source=炼金术手册
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=尖牙披风
+|english_name=Cloak of Fangs
+|aon=MagicWondrousDisplay.aspx?FinalName=Cloak of Fangs
+|cat=奇物
+|aura=中等变化系
+|cl=9
+|slot=肩部
+|price=2,800 gp
+|weight=1磅
+|description=穿戴这件兽毛披风，使穿戴者的豁免检定获得+1抗力加值。此外，穿戴者可以让自己的牙齿迅速变长，以迅捷动作每天最多5次。这副变得过大的牙齿持续1轮，在此期间穿戴者可以进行一次啮咬攻击。该攻击视为一次主要天生攻击，造成1d6点伤害（穿戴者为小型时为1d4）。如果穿戴者本来就有啮咬攻击，则该攻击的伤害提高一个级别（《怪物图鉴》第302页）。
+|req=[[制造奇物]]、[[变身术]]、[[提升抗力]]
+|cost=1,250 gp
+|source=进阶种族手册、极限宝具
+}}

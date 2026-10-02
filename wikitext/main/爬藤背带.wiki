@@ -1,0 +1,15 @@
+{{魔法物品
+|name=爬藤背带
+|english_name=Harness of Grabbing Vines
+|aon=MagicWondrousDisplay.aspx?FinalName=Harness of Grabbing Vines
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=躯体
+|price=40,000 gp
+|weight=1/2磅
+|description=只要穿戴者不在飞行，这条常春藤背带就允许穿戴者的翅膀像额外的手臂一样操控物体或抓握把手。它们不会带来额外的攻击，但可以在不占用穿戴者双手的情况下用来握持物品或进行战技。依命令，背带会长出根须把穿戴者固定在原地，如同[[足底生根]]。这样被固定时，穿戴者可以只用双腿和翅膀攀爬，攀爬速度等于穿戴者降低后的基础速度。穿戴者用根须攀爬时，足底生根的益处同样适用。
+|req=[[制造奇物]]、[[足底生根]]、[[蛛行术]]
+|cost=20,000 gp
+|source=极限荒野
+}}

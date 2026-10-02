@@ -1,0 +1,14 @@
+{{魔法物品
+|name=耳语海螺
+|english_name=Whispering Shell
+|aon=MagicWondrousDisplay.aspx?FinalName=Whispering Shell
+|cat=奇物
+|aura=微弱幻术系
+|cl=3
+|slot=无
+|price=3,000 gp
+|description=这枚带条纹的海螺壳看上去不过是拾滩者随手捡起的一块漂流物。每天一次，当它被举到唇边时，海螺会吸收一条25个词或更少的低语信息，并无限期地保存所说的话。当它被按在耳边并说出命令字时，海螺会以耳语重复它的信息，除了握着海螺的生物之外，任何人都听不到。一枚耳语海螺一次只能保存一条这样的信息，但每当有生物发出命令，它就能重播这条信息。
+|req=[[制造奇物]]、[[风讯术]]
+|cost=1,500 gp
+|source=冒险者指南
+}}

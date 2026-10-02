@@ -1,0 +1,14 @@
+{{魔法物品
+|name=发光帽
+|english_name=Cap of Light
+|aon=MagicWondrousDisplay.aspx?FinalName=Cap of Light
+|cat=奇物
+|aura=微弱塑能系
+|cl=1
+|slot=头部
+|price=900 gp
+|description=这顶小小的布制无檐便帽，类似某些祭司所戴的那种，但顶上有一尊点燃蜡烛形状的小银像。穿戴者可以命令银像发光（如同[[光亮术]]）。这光也可以凭命令关闭。
+|req=[[制造奇物]]、[[光亮术]]
+|cost=450 gp
+|source=极限宝具
+}}

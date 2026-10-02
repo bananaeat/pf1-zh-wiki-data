@@ -1,0 +1,11 @@
+{{Feat
+|name=阴招擒抱
+|english_name=Dirty Grapple
+|categories=战斗
+|description=你可以在发动[[阴招]]的同时将敌人牢牢制住。
+|prerequisites=敏捷13，智力13，[[寓守于攻]]；[[精通阴招]]，[[精通擒抱]]，[[精通徒手打击]]，基础攻击加值+6
+|benefit=你可以在发起或维持擒抱时，以一个[[整轮动作]]对同一个目标同时发动[[阴招]]和[[擒抱]][[战技]]。你只进行一次战技攻击检定，但如果它超过敌人的[[CMD]]则两次战技攻击全部命中。如果你的两种战技[[CMB]]不同，则取低；如果敌人对两种战技的CMD不同，则取高。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

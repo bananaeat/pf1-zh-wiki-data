@@ -1,0 +1,9 @@
+{{Trait
+|name=炼金奇才
+|english_name=Alchemical Prodigy
+|type=地区
+|prerequisites=苏比亚
+|description=你在年轻时便崭露了科学与炼金方面的才华，并被希望充分发挥你的潜能者严加教导。若你持有炼金术职业特性，在计算你的化合炼成的持续时间时，视为你的炼金术师等级比原来高1级。
+|source_name=沙之子民
+|source_url=https://pf1chm.pages.dev/topics/zh730f330f66.htm
+}}

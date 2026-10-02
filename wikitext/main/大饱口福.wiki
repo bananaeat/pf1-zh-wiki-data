@@ -1,0 +1,10 @@
+{{Trait
+|name=大饱口福
+|english_name=Blessing of the Feast
+|type=宗教
+|prerequisites=[[祖拉]]
+|description=你来自一个食人部落，在你的敌人的血肉中寻求力量。每当你以一个会引发[[借机攻击]]的全回合动作食另一个[[兽人]]的肉或饮他的血，你获得[[祖拉]]的赐福并获得+1天生护甲加值，持续每等级1分钟。你只能每天1次获得此好处。
+|source_name=格拉里昂的兽人
+|source=Orcs of Golarion
+|source_url=https://pf1chm.pages.dev/topics/zh1db9f32aa4.htm
+}}

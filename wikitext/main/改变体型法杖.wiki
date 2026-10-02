@@ -1,0 +1,23 @@
+{{魔法物品
+|name=改变体型法杖
+|english_name=Staff of Size Alteration
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Size Alteration
+|cat=法杖
+|aura=中等变化系
+|cl=8
+|slot=无
+|price=26,150 gp
+|weight=5磅
+|description=这根深色木杖比大多数魔法法杖都更粗壮结实，顶端有一个扭曲多节的木瘤。
+
+该法杖可以使用以下法术：
+
+* [[变巨术]]（1 发）
+* [[缩小术]]（1 发）
+* [[缩物术]]（2 发）
+* [[群体变巨术]]（3 发）
+* [[群体缩小术]]（3 发）
+|req=[[制造法杖]]、[[变巨术]]、[[群体变巨术]]、[[群体缩小术]]、[[缩小术]]、[[缩物术]]
+|cost=13,075 gp
+|source=核心规则书、极限宝具
+}}

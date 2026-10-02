@@ -1,0 +1,16 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[盾牌辟矢 (神话)]]。</small></div>
+{{Feat
+|name=盾牌辟矢
+|english_name=Missile Shield
+|categories=战斗
+|description=你擅长使用盾牌偏斜远程攻击。
+|prerequisites=[[敏捷]] 13，盾牌专攻。
+|benefit=你必须使用[[轻型盾牌]]，[[重型盾牌]]或者[[塔盾]]才能使用该专长。每轮1次，当你将要被远程武器做出的一次攻击命中时（不包括法术效果，天生武器或者巨大的远程武器），可以使其偏斜，让自身避免该次伤害，就如同你拥有[[拨挡飞箭]]专长一般。你必须察觉到攻击，并且不处于[[措手不及]]状态。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[盾牌反射]]、[[高等盾牌反射]]（2 个条目）

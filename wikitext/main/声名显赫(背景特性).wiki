@@ -1,0 +1,12 @@
+{{消歧义|声名显赫 (消歧义)}}
+{{Trait
+|name=声名显赫
+|english_name=Well-Informed
+|type=种族
+|prerequisites=[[半身人]]
+|description=你决意去了解所有人，并愿意去和你周围的所有事物建立联系。你经常去最好的小酒馆，参加所有应该去的活动，并和善地帮助任何需要帮助的人。因此，在你的家乡你可能是最知名的人之一。
+
+你在用于收集信息的交涉检定和知识（本地）检定中获得+1的背景加值。其中一项技能（由你选择）将被视为你的本职技能。
+|source_name=塔尔多，荣光荡漾之地
+|source_url=https://pf1chm.pages.dev/topics/page_938.html
+}}

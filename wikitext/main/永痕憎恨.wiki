@@ -1,0 +1,11 @@
+{{Feat
+|name=永痕憎恨
+|english_name=Eternal Enmity
+|description=你对你种族那古老敌人的仇恨根深蒂固，使得你能给他们造成残暴的伤害。
+|prerequisites=[[知识]]3级（见特殊说明），仇恨种族特性。
+|benefit=对抗你仇恨[[种族特性]]的目标时，你的攻击会额外造出1d6点精确伤害。该额外伤害与其他精确伤害来源叠加，例如偷袭。如果你的仇恨种族特性适用两种生物类型或亚种的话，你必须选择其中一种，作为该专长应用的目标类型（如果适用的话，则是亚种）。一旦做出选择的话，就不能改变。
+|special=被用于选用该专长的知识技能的类型，必须是一种能辨识所选生物类型的知识。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

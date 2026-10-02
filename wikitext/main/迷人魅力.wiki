@@ -1,0 +1,9 @@
+{{Trait
+|name=迷人魅力
+|english_name=Alluring
+|type=宗教
+|prerequisites=信仰波尔卡
+|description=你身上有一种能让人一看到就迷上你的魅力。你在与能被你吸引的生物交涉时获得+2背景加值。你可以每天使用一次[[晕眩术]]，这视为类法术能力且施法者等级等同你的角色等级。
+|source_name=格拉里昂的矮人
+|source_url=https://pf1chm.pages.dev/topics/page_1586.html
+}}

@@ -1,0 +1,12 @@
+<noinclude>{{战士导航}}
+'''击晕训练'''（Knockout Training）是[[战士]]的[[进阶武器训练|进阶武器训练]]。
+
+</noinclude>战士在使用来自相关武器训练组的通常造成致命伤害的武器时，不会因为尝试造成[[非致命伤害]]而承受减值。另外，每当战士使用相关武器训练组的武器造成非致命伤害时，他可以在伤害中加入双倍的武器训练加值。这个能力不会与其他能够在伤害中加入双倍武器训练加值的能力叠加，例如[[进阶武器训练#庖丁解牛 (Trained Grace)|庖丁解牛]]（原书误作 trained finesse）或[[进阶武器训练#流星飞掷 (Trained Throw)|流星飞掷]]。
+
+{{Source|野兽血脉|Blood of the Beast|inline}}<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_1094.html 原文]）。全部进阶武器训练见 [[进阶武器训练]]。
+
+[[分类:进阶武器训练]]
+
+{{职业}}</noinclude>

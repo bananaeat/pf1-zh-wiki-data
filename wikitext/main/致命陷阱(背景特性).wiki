@@ -1,0 +1,11 @@
+{{消歧义|致命陷阱}}
+{{Trait
+|name=致命陷阱
+|english_name=Fatal Trapper
+|type=宗教
+|prerequisites=[[泽弗斯]]
+|description=你的神明传授你制造和拆除陷阱的专业知识。你在[[工艺]]（陷阱）检定上获得+1背景加值，同时在为拆除陷阱而进行的[[解除装置]]检定上也获得+1背景加值。
+|source_name=内海诸神
+|source=ISG
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

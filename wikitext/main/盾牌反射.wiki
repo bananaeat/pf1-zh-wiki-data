@@ -1,0 +1,11 @@
+{{Feat
+|name=盾牌反射
+|english_name=Ray Shield
+|categories=战斗
+|description=你甚至可以使用盾牌偏转射线。
+|prerequisites=敏捷15，[[盾牌辟矢]]，破法者。
+|benefit=你必须使用[[轻型盾牌]]，[[重型盾牌]]或者[[塔盾]]才能使用该专长。每轮1次，当你将要被远程[[接触攻击]]命中时（包括射线以及类似的魔法效果），你可以使其偏斜，并且不会因其而受到伤害。如果该效果适用的话，你的盾牌会遭受完整的法术或效果的影响。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

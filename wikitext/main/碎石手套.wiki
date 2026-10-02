@@ -1,0 +1,15 @@
+{{魔法物品
+|name=碎石手套
+|english_name=Rubble Gloves
+|aon=MagicWondrousDisplay.aspx?FinalName=Rubble Gloves
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=手部
+|price=8,000 gp
+|weight=1磅
+|description=这副手套由细密的金属网制成。如果穿戴碎石手套的生物触碰一个5尺见方的石质或土质地面，碎石会翻涌到表面，使该方格成为困难地形。使用手套是一个不会引发借机攻击的标准动作。穿戴者每天最多可以用手套制造20个方格的困难地形。
+|req=[[制造奇物]]、[[快速挖掘]]
+|cost=4,000 gp
+|source=进阶种族手册
+}}

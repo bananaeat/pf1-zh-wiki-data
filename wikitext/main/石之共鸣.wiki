@@ -1,0 +1,14 @@
+{{Feat
+|name=石之共鸣
+|english_name=Echoes of Stone
+|description=你的感官在山岩与石头之中变得很敏锐。
+|prerequisites=土元素裔。
+|benefit=你在地下进行的察觉检定，以及使用生存检定避免在洞穴和岩石地区迷路时获得+4种族加值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[大地的低语]]（1 个条目）

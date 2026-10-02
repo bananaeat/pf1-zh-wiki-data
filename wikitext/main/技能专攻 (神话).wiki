@@ -1,0 +1,13 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[技能专攻]] 的神话版本。</small></div>
+{{Feat
+|name=技能专攻
+|english_name=Skill Focus
+|categories=神话
+|description=即便在危机的情况下，你也能够熟练地使用技能。
+|prerequisites=[[技能专攻]]
+|benefit=你总是能在使用[[技能专攻]]专长中选择的技能时，在检定中进行取10或者取20，即便在仓促或受到威胁的情况下。
+|special=你能够多次选取该专长。其效果不会叠加。每当你选取该专长时，它都会应用到不同的非神话版技能专攻专长上。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

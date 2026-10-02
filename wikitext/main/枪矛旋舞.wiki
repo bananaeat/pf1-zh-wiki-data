@@ -1,0 +1,11 @@
+{{Feat
+|name=枪矛旋舞
+|english_name=Spear Dancer
+|categories=战斗
+|description=你可以将长柄武器的战法融入令人眼花缭乱的舞步中。
+|prerequisites=[[武器专攻]]（任何一件双手触及武器），表演（舞蹈）4级
+|benefit=每当你使用自己专攻的双手触及武器命中一个生物，该生物将[[目眩]]一轮。
+|source=FoP/FoB/FoC、ISG
+|source_name=纯善／平衡／堕落信念、内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}

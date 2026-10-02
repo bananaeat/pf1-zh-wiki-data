@@ -1,0 +1,14 @@
+{{魔法物品
+|name=英雄戒指
+|english_name=Ring of Heroes
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Heroes
+|cat=戒指
+|aura=中等（无学派）
+|cl=7
+|slot=戒指
+|price=8,000 gp
+|description=这枚[[魔法物品#戒指|戒指]]雕成两头看似高贵的青铜狮子冲向居中一颗石榴石的模样，能让穿戴者获得[[好运连连]]专长。戒指必须佩戴24小时后才会生效。穿戴者也可以调用戒指的力量获得1点英雄点，该英雄点必须立即使用，不过这会使戒指永久失去力量。
+|req=[[锻造戒指]]、[[好运连连]]
+|cost=4,000 gp
+|source=进阶玩家指南
+}}

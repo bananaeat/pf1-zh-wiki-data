@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=击倒战姿
+|english_name=Knockdown
+|type=Ex
+|class=掉链野蛮人
+|benefit=野蛮人能够专注于击倒敌人。每回合1次，她可以用[[摔绊]]来取代一次近战攻击。如果成功，该目标将会被击倒。该动作不会引发[[借机攻击]]。该狂暴之力是一种战姿。<br />致命精准（Lethal Accuracy。Ex）：当处于[[精准战姿]]时，野蛮人的重击倍数提升1（2倍重击变为3倍，3倍重击变为4倍。4倍重击变为5倍）。野蛮人至少要达到16级后且拥有【精准战姿】和【[[死亡精准]]】才能选择此狂暴之力。
+|classic=沉重打击
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

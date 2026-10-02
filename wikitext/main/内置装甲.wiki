@@ -1,0 +1,29 @@
+{{科技物品
+|name=内置装甲
+|english_name=Dermal Plating
+|aon=EquipmentTechCybertechDisplay.aspx?ItemName=Dermal Plating (Mark I)
+|kind=电子殖装物
+|sub=身体
+|price=4,000 gp（I型）；16,000 gp（II型）；36,000 gp（III型）；64,000 gp（IV型）；100,000 gp（V型）
+|weight=5磅
+|slot=身体
+|install=24（I型）；26（II型）；28（III型）；30（IV型）；32（V型）
+|implant=2（I型）；4（II型）；4（III型）；8（IV型）；10（V型）
+|capacity=—
+|usage=—
+|description=内置装甲由一层层高抗性的生物塑料板构成，直接固定在患者的皮肤上。这些装甲板赋予天生护甲的增强加值；该加值会影响内置装甲的其他数值，各型号见下。
+
+'''I型：'''+1 天生护甲增强加值；殖装点数 2；安装 DC 24。
+
+'''II型：'''+2 天生护甲增强加值；殖装点数 4；安装 DC 26。
+
+'''III型：'''+3 天生护甲增强加值；殖装点数 4；安装 DC 28。
+
+'''IV型：'''+4 天生护甲增强加值；殖装点数 8；安装 DC 30。
+
+'''V型：'''+5 天生护甲增强加值；殖装点数 10；安装 DC 32。
+|construction=[[制造电子殖装]]、殖装物工作间
+|craft_dc=24（I型）；25（II型）；26（III型）；27（IV型）；28（V型）
+|cost=2,000 gp（I型）；8,000 gp（II型）；18,000 gp（III型）；32,000 gp（IV型）；50,000 gp（V型）
+|source=科技指南
+}}

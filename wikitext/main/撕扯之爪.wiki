@@ -1,0 +1,11 @@
+{{Feat
+|name=撕扯之爪
+|english_name=Rending Claws
+|categories=战斗
+|description=你的利爪攻击能够对敌人造成更高的伤害。
+|prerequisites=[[力量]] 13，拥有2爪抓天生武器，基本攻击加值+6。
+|benefit=如果你在同一轮内成功使用2爪抓命中一名生物，第二次爪抓攻击会额外造成1d6点伤害。这个伤害是精准伤害，不会受到重击的影响。每轮你只能使用该专长1次。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

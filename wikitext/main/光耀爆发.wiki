@@ -1,0 +1,16 @@
+{{Spell
+|name=光耀爆发
+|english_name=Burst of radiance
+|school=塑能系
+|tags=善良;光亮
+|levels=先知 2;奥能师 2;德鲁伊 2;战斗祭司 2;术士 2;法师 2;牧师 2;猎人 2
+|action=标准动作
+|components=语言;姿势;材料/圣徽（一片燧石和一撮银粉）
+|range=长距（400尺+40尺/等级）
+|area=10尺半径爆发
+|duration=立即
+|save=反射，通过则部分生效
+|sr=是
+|description=该法术把目标区域笼罩在耀眼的闪光中。区域内生物[[目盲]]1d4轮，反射豁免成功[[目眩]]1d4轮。邪恶生物遭到每施法等级1d4点伤害（最高5d4），无论是否豁免成功。
+|source=纯洁勇士
+}}

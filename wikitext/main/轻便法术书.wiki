@@ -1,0 +1,9 @@
+{{装备
+|name=轻便法术书
+|english_name=Compact spellbook
+|cat=工具
+|price=50 gp
+|weight=1磅
+|description=精灵法师需要记录并随身携带数十乃至上百个法术，这常常迫使他们去寻找更轻便的法术书。轻便法术书只能记录 70 页法术，但重量比普通法术书轻得多。
+|source=进阶种族手册
+}}

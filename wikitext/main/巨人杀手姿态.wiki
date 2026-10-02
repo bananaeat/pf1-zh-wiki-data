@@ -1,0 +1,11 @@
+{{Feat
+|name=巨人杀手姿态
+|english_name=Giant-Killer Stance
+|categories=战斗
+|description=你可以准备一次重击，来对付冲进你威胁范围的大型敌人。
+|prerequisites=[[猛力攻击]]
+|benefit=你所持用的任意长触及武器在对抗大型或更大体型的生物时，可将其视为具有迎击属性。如果你的准备攻击命中，该生物1轮内的近战攻击检定受到-2减值。
+|source=GHH
+|source_name=巨人猎手手册
+|source_url=https://pf1chm.pages.dev/topics/zh804f69f232.htm
+}}

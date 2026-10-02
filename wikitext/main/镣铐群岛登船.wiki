@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Serpent's Skull Player's Guide pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=镣铐群岛登船
+|english_name=Boarded in the Shackles
+|type=战役
+|pfs=否
+|description=你上一个家在镣铐群岛，那是一片充斥着海盗与背叛的危险之地，却也充满了绝佳的机遇。在海上以及海盗控制的土地上历经祸福的生活，让你能够经受各种艰苦。从三种豁免中选择一种——你该种类的所有豁免检定获得+1背景加值。
+|source_name=Serpent's Skull Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Boarded%20in%20the%20Shackles
+}}

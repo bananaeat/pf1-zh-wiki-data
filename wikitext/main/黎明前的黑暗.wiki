@@ -1,0 +1,9 @@
+{{Trait
+|name=黎明前的黑暗
+|english_name=Darkest Before Dawn
+|type=信念
+|description=即使所有人都已陷入绝望，你的敬拜仍会支持你。你在对抗情绪、恐惧或痛苦描述符的法术的豁免检定中获得+2背景加值。每日一次，你可将某一次豁免的该加值提升至+4,但你必须在尝试豁免前做出该决定。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh484c89782e.htm
+}}

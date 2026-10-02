@@ -1,0 +1,8 @@
+{{Trait
+|name=巧裁衣
+|english_name=Thrown-Together Fashion
+|type=装备
+|description=你能够修补旧衣服，使它在新环境中派上用场。使用基本的缝纫工具或[[易容]]工具，你可以进行易容检定以将一套服装更改为另一套服装(参见Pathfinder RPG[[核心规则书]]第159页或本书第13页)。这次检定的DC等于10 +服装成本之间的gp差额。每1 gp的装备成本差额需要花费10分钟。
+|source_name=装备背景
+|source_url=https://pf1chm.pages.dev/topics/page_1579.html
+}}

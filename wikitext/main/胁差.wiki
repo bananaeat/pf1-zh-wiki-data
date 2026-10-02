@@ -1,0 +1,17 @@
+{{武器
+|name=胁差
+|english_name=Wakizashi
+|category=武器
+|prof=异种
+|wcat=轻型
+|price=35 gp
+|weight=2磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=18–20/×2
+|type=穿刺或挥砍
+|special=处决
+|groups=轻刃
+|description=这种短小纤细的刀刃长约1至2尺，主要用作备用武器、斩下被击败敌人的首级，或是在关乎荣誉时用来切腹（仪式性自杀）。这种刀专为武士佩带，意在与[[武士刀]]成对配用；这一对刀合称“大小双刀”。
+|source=极限战斗、极限宝具
+}}

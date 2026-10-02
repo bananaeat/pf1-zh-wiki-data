@@ -1,0 +1,14 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{消歧义|翡翠视域(怪物能力)}}
+{{Source|极限荒野|Ultimate Wilderness}}
+'''翡翠视域'''（Greensight, Su）是[[操念使]]的[[原力]]。
+
+元素：木；类别：通用（Su）；等级：4；超载：0
+
+你如同拥有范围60尺的同名怪物能力（B4）一般看穿植物。
+
+怪物能够看透茂密的植物就如同植物是透明的一般，翡翠视域的范围通常为60尺。对拥有此类视域的怪物来说，其他生物无法用叶片、藤条、草木和灌木形成[[隐蔽]]，不过实体的树木仍旧会遮挡其视线。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Greensight|2=Greensight}}
+
+[[分类:原力]]

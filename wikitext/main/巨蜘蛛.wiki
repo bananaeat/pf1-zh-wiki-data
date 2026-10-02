@@ -1,0 +1,46 @@
+{{速查导航}}
+{{怪物
+|name=巨蜘蛛
+|english_name=Spider, Giant
+|cr=1
+|xp=400
+|alignment=绝对中立
+|size=中型
+|type=虫类
+|init=+3
+|senses=黑暗视觉 60 尺，[[通用怪物规则#颤动感知|颤动感知]] 60 尺；察觉 +4
+|description=一只像人那么大的蜘蛛静悄悄地从它漏斗型的网深处爬出。
+|ac=14，接触 13，措手不及 11（+3 敏捷，+1 天生）
+|hp=16（3d8 +3）
+|fort=+4
+|ref=+4
+|will=+1
+|immune=影响心灵效果
+|speed=30 尺，攀爬 30 尺
+|melee=啮咬 +2（1d6 外加 毒素）
+|special_attacks=蛛网（+5 远程，DC 12，HP 2）
+|str=11
+|dex=17
+|con=12
+|int=–
+|wis=10
+|cha=2
+|bab=+2
+|cmb=+2
+|cmd=15（27 对抗摔绊）
+|skills=[[攀爬]] +16;[[察觉]] +4（网中 +8）;[[隐匿]] +7（网中 +11）
+|racial_mods=+4 察觉，+4 隐匿（网中 +8），+16 攀爬
+|environment=任意
+|organization=单独，成对，或群聚（3–8）
+|treasure=偶有
+|special_abilities={{怪物能力|毒素|Ex|啮咬—伤口感染；豁免 强韧 DC 14；频率 每轮 1 次，持续 4 轮；效果 1d2 力量伤害；痊愈 通过 1 次豁免。}}
+|source=怪物图鉴
+|lore=
+上面列出的数据是织网蛛的。狩猎蛛失去织网能力，但是在特技检定上获得 +8 种族加值。所有类型的巨蜘蛛在毒素的豁免 DC 上有 +2 种族加值。
+
+其它种类的巨蜘蛛也存在，见下表。
+
+<div class="monster-table-wrap"><table class="wikitable"><tr><th>种类</th><th>CR</th><th>体型</th><th>HD</th></tr><tr><td>[[猩红蜘蛛]]</td><td>1/4</td><td>超小型</td><td>1D8</td></tr><tr><td>[[巨蟹蛛]]</td><td>1/2</td><td>小型</td><td>2D8</td></tr><tr><td>巨黑寡妇</td><td>3</td><td>大型</td><td>5D8</td></tr><tr><td>[[食人魔蛛]]</td><td>5</td><td>超大型</td><td>7D8</td></tr><tr><td>[[巨狼蛛]]</td><td>8</td><td>巨型</td><td>10D8</td></tr><tr><td>巨人蛛</td><td>11</td><td>超巨型</td><td>14D8</td></tr></table></div>
+}}
+
+本页译自《[[怪物图鉴]]》的怪物图鉴 CHM。

@@ -1,0 +1,8 @@
+<noinclude>{{忍者导航}}
+'''满天星'''（All the Stars in the Sky, Ex）是[[忍者]]的[[忍术|忍术]]。
+
+</noinclude>{{Source|传奇编年史|Chronicle of Legends|inline}} 某些忍者大师拥有看似无限的可靠武器供应。每当拥有此忍术的忍者购买一组50个同样的魔法[[手里剑]]时，她在之后就可以免费的补充更换它们。这组魔法手里剑可以像正常的魔法武器一样被升级且永远不会耗尽。<noinclude>
+
+[[分类:忍术]]
+
+{{职业}}</noinclude>

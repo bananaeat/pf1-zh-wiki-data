@@ -1,0 +1,11 @@
+{{Feat
+|name=特殊快递
+|english_name=Special Delivery
+|categories=团队
+|pfs=否
+|description=你的伙伴可将你的法术带给他们的目标。
+|prerequisites=[[心灵羁绊]]，[[分享法术]]，通过动物伙伴、[[幻灵]]、魔宠或魅影传递法术的能力，施法者等级3级。
+|benefit=每当你与一名拥有[[心灵羁绊]]专长的盟友接触，且你施展了一道接触法术时，你可以指定该盟友为“接触者”，如同[[传递接触法术]][[魔宠]]能力一般。
+|source_name=遥远世界
+|source_url=https://pf1chm.pages.dev/topics/zh2d61c49a80.htm
+}}

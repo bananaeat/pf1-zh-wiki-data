@@ -1,0 +1,16 @@
+{{Feat
+|name=白鹤拳
+|english_name=Crane Style
+|categories=战斗;流派
+|description=你的[[徒手攻击]]技巧以柔克刚，攻守圆转。
+|prerequisites=[[闪避]]，[[精通徒手打击]]，基本攻击加值+2或武僧1级。
+|benefit=你在进行防御式战斗时攻击骰只受-2减值。你使用白鹤拳[[流派]]架势时，从防御式战斗与全回合防御获得的AC闪避加值+1。
+|stamina=在防御式战斗或全防时，面对敌人的一次近战攻击，你可以花费不超过3点耐力，以直觉动作强化你对该攻击的闪避AC，等同所消耗耐力点。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[白鹤亮翅]]、[[白鹤弹腿]]（2 个条目）

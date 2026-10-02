@@ -1,0 +1,14 @@
+{{魔法物品
+|name=羽光罗盘
+|english_name=Featherlight Compass
+|aon=MagicWondrousDisplay.aspx?FinalName=Featherlight Compass
+|cat=奇物
+|aura=微弱预言系
+|cl=3
+|slot=无
+|price=1,500 gp
+|description=这个[[指南针]]的部件精细到几乎没有重量。在主观指向重力的区域手持它时，持有者在改变方向的感知检定上自动成功，并且在改变其主观重力方向后的第1轮内，可以使自己的坠落速度增加或减少30尺。
+|req=[[制造奇物]]、[[指北术]]
+|cost=750 gp
+|source=位面冒险
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=以血还血
+|english_name=Bloody Vengeance
+|categories=战斗
+|description=你复仇的还击会对对手造成长久的痛苦。
+|prerequisites=信仰卡莉丝翠，基础攻击加值+1
+|benefit=如果视线内的一个对手在之前的一分钟内对你造成过伤害，你可以花费一个[[标准动作]]研究这个对手。此后，如果你以近战攻击命中该对手，除了攻击造成的正常伤害之外，还会对该生物造成1点[[流血伤害]]。
+|source=FoP/FoB/FoC、ISG
+|source_name=纯善／平衡／堕落信念、内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}

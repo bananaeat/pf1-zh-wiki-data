@@ -1,0 +1,17 @@
+{{武器
+|name=标枪
+|english_name=Javelin
+|category=武器
+|prof=简易
+|wcat=远程
+|price=1 gp
+|weight=2磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×2
+|range=30尺
+|type=穿刺
+|groups=矛，投掷
+|description=标枪是细长的投矛。由于并非为近战而设计，你若把标枪当作近战武器使用，会被视为不擅长该武器并承受攻击-4减值。
+|source=核心规则书、极限战斗、极限宝具、远程战术工具箱
+}}

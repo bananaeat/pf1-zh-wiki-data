@@ -1,0 +1,16 @@
+{{Spell
+|name=精怪之相
+|english_name=Haunted fey aspect
+|school=幻术系 (五官幻觉)
+|levels=催眠师 0;吟游诗人 0;奥能师 0;异能者 0;术士 0;歌者 0;法师 0;通灵者 0
+|action=标准动作
+|components=姿势
+|range=个人
+|target=自己
+|duration=1轮/等级 （可解消）
+|sr=否
+|description=你用一层令人不安的幻觉覆盖自己，使你看起来和听起来都像一个扭曲怪异、疯狂的精类生物。
+
+你获得针对单个对手的DR 1/{{材料|寒铁}}伤害减免，持续到法术持续时间结束，或直到你受到伤害为止。
+|source=极限战斗
+}}

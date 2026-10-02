@@ -1,0 +1,17 @@
+{{武器
+|name=木棍
+|english_name=Quarterstaff
+|category=武器
+|prof=简易
+|wcat=双手
+|price=—
+|weight=4磅
+|dmg_s=1d4/1d4
+|dmg_m=1d6/1d6
+|crit=×2
+|type=钝击
+|special=双头，武僧
+|groups=双头，武僧
+|description=木棍是一根简单的木头棍子，长约5尺。战斗时一手握住末端、另一手握在棍身1/4处，能够封挡来袭、迅捷反击。
+|source=核心规则书、极限宝具
+}}

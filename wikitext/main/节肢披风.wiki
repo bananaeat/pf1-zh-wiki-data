@@ -1,0 +1,15 @@
+{{魔法物品
+|name=节肢披风
+|english_name=Cloak of Arachnida
+|aon=MagicWondrousDisplay.aspx?FinalName=Cloak of Arachnida
+|cat=奇物
+|aura=中等咒法系、变化系
+|cl=6
+|slot=肩部
+|price=14,000 gp
+|weight=1磅
+|description=这件红紫相间的丝质衣物上，精致地绣着几乎难以察觉的蛛网状图案，使穿戴者能够攀爬，如同被施加了[[蛛行术]]。此外，披风还使穿戴者免疫[[蛛网术]]以及任何蛛网的束缚；她在蛛网中能以一半的移动速度行动。每天一次，披风的穿戴者可以施放[[蛛网术]]。她对抗蜘蛛毒素的所有强韧豁免还获得+2幸运加值。
+|req=[[制造奇物]]、[[蛛行术]]、[[蛛网术]]
+|cost=7,000 gp
+|source=核心规则书、极限宝具
+}}

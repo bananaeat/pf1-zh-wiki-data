@@ -1,0 +1,15 @@
+{{魔法物品
+|name=厄迦图娅之息
+|english_name=Urgathoa's Breath
+|aon=MagicWondrousDisplay.aspx?FinalName=Urgathoa's Breath
+|cat=奇物
+|aura=微弱死灵系
+|cl=4
+|slot=无
+|price=2,500 gp
+|weight=2磅
+|description=这只烟熏玻璃球内封存着翻涌的骨白色雾气。该球体视为一件射程增量为10尺的投掷武器。它在命中时破碎，释放出内含的蒸气，形成一团10尺的雾云，如同[[云雾术]]，持续1轮。任何在此期间进入雾中的生物必须通过一次DC 17强韧豁免，否则会感染一种发作极快的黑死病，并立即起效。
+|req=[[制造奇物]]、[[疫病术]]、[[云雾术]]
+|cost=1,250 gp
+|source=恶棍志
+}}

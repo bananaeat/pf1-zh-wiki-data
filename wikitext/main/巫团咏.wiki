@@ -1,0 +1,9 @@
+{{Trait
+|name=巫团咏
+|english_name=Coven Casting
+|type=魔法
+|description=你是一个巫团或者魔法结社的一员，你知道如何跟他人一起协调施法。当你周围30尺内有一位友方施法者时，你和他的专注检定都获得+2背景加值。
+|source_name=巫团血脉
+|source=BotC
+|source_url=https://pf1chm.pages.dev/topics/zh6915d58d43.htm
+}}

@@ -1,0 +1,13 @@
+<noinclude>{{速查导航|here=规则}}
+{{消歧义|喷吐武器}}
+'''喷吐武器'''（Breath Weapon）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Su</span><span class="sk-f">位置：特殊攻击。如果喷吐除造成伤害外还有别的效果，它还会在特殊能力中另有单独的条目</span></div>
+</noinclude><includeonly><div class="lang"><span id="喷吐武器"></span><span id="喷吐武器(怪物能力)"></span><div class="lang-h"><b>[[喷吐武器(怪物能力)|喷吐武器]]</b><i>Breath Weapon</i><span class="lang-w">Su · 特殊攻击。如果喷吐除造成伤害外还有别的效果，它还会在特殊能力中另有单独的条目</span></div><div class="lang-d"></includeonly>
+有的生物可以吐出一团云雾、一道锥形或直线的魔法效果。喷吐武器通常会造成伤害，且往往基于某种能量类型。喷吐武器可以通过成功的反射检定而只受到一半伤害 (DC 为 {10+1/2 喷吐生物种族 HD + 喷吐生物的体质修正}；具体的 DC 会在生物描述中给出)。生物会免疫自己的喷吐武器攻击，除非特别说明。有的喷吐武器攻击会用强韧或意志检定来代替反射检定。每个喷吐武器还会注明其使用频率。
+
+'''格式'''：喷吐武器 (60 尺锥形，8d6 火焰伤害，反射 DC 20 减半，每 1d4 轮可用一次)
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Breath Weapon|2=Breath Weapon}}
+
+[[分类:通用怪物规则]]</noinclude>

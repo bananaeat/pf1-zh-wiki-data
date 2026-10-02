@@ -1,0 +1,15 @@
+{{魔法物品
+|name=狂鼠披风
+|english_name=Cloak of the Scuttling Rat
+|aon=MagicWondrousDisplay.aspx?FinalName=Cloak of the Scuttling Rat
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=肩部
+|price=6,000 gp
+|weight=1磅
+|description=这件不起眼的披风乍看是用普通皮革制成的。然而，当穿戴者说出命令词时，披风会把她包裹起来，将她转变为一只凶暴鼠，如同使用了野兽形态I。穿戴者每天可以保持凶暴鼠形态至多5分钟。这段时间不必连续，但必须以1分钟为单位使用。
+|req=[[制造奇物]]、[[野兽形态 I]]
+|cost=3,000 gp
+|source=进阶种族手册、极限宝具
+}}

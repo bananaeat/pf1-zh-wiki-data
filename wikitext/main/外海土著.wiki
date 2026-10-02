@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Elements pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=外海土著
+|english_name=Outsea Native
+|type=地区
+|prerequisites=河域诸国［水元素裔］
+|description=你在名为外海的过渡性水域王国之中或附近长大，天生就偏爱水域环境，也了解以海洋为家的各类生物。你为辨识水生怪物而进行的[[知识]]检定获得+2背景加值。每当你透过水观察，并且因浑浊或其他自然情况而会在依靠视觉的[[察觉]]检定上承受减值时，该减值降低2。
+|source_name=元素血脉
+|source=BotE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Outsea%20Native
+}}

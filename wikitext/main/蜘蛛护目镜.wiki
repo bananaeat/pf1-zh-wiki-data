@@ -1,0 +1,15 @@
+{{魔法物品
+|name=蜘蛛护目镜
+|english_name=Arachnid Goggles
+|aon=MagicWondrousDisplay.aspx?FinalName=Arachnid Goggles
+|cat=奇物
+|aura=中等变化系
+|cl=9
+|slot=眼部
+|price=15,000 gp
+|weight=2磅
+|description=这条皮带上镶嵌着数十块大小不一的刻面水晶，其中两块正好覆盖在眼睛上。戴着这副护目镜时，穿戴者会把所有水晶都当作眼睛使用，从而获得全域视野（《怪物图鉴2》）。
+|req=[[制造奇物]]、[[无尽之眼]]（《极限魔法》）
+|cost=7,500 gp
+|source=极限宝具
+}}

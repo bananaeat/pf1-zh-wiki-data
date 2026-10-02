@@ -1,0 +1,11 @@
+{{Feat
+|name=残暴踏
+|english_name=Brute Stomp
+|categories=战斗
+|description=很少有人能避开你残酷而暴力的碎骨踢击和踩踏。
+|prerequisites=力量19，智力13，残暴流，战斗反射，精通闯越，精通摔绊，精通徒手打击，恶毒踩踏 UC，BAB+8
+|benefit=当你使用残暴流时，当你进行了一次含有至少一次徒手攻击的整轮攻击且有一名相邻的敌人正处于俯卧，你就可以以最高BAB对这名俯卧敌人发起一次额外的徒手打击。该额外攻击不与万蛇出洞叠加，你也不能对一名被你该轮整轮攻击所摔绊的敌人发起这次额外攻击。另外，你可以对在你天然触及内的任一敌人使用恶毒踩踏专长，不管其是否在与你相邻处倒地俯卧。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

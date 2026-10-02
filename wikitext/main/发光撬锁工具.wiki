@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=发光撬锁工具
+|english_name=Luminous Lockpicks
+|aon=MagicWondrousDisplay.aspx?FinalName=Luminous Lockpicks
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=无
+|price=6,000 gp
+|weight=2磅
+|description=这套精制[[盗贼工具]]在暴露于光线下时会闪烁微光。握在手中时，它们会发出只有持握者本人能看见的光。这光能让持握者在包括魔法黑暗在内的各种黑暗中不受阻碍地工作，又不会引起其他生物的注意。这光亮不足以让人看清工具所作用的那把锁或类似装置之外的任何东西。工具发光时会变换颜色，指示它在装置内的位置是有利还是不利。这些指引之光使[[解除装置]]检定获得+5环境加值。
+|req=[[制造奇物]]、[[敲击术]]
+|cost=3,000 gp
+|source=阴影血脉
+}}

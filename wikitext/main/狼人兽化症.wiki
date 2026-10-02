@@ -1,0 +1,11 @@
+{{危害
+|name=狼人兽化症
+|english_name=Werewolf Lycanthropy
+|kind=诅咒
+|type=诅咒，伤口
+|save=强韧 DC 15
+|onset=下一次满月
+|frequency=每个满月之夜，或目标受伤时
+|effect=目标变身为一匹狼，由GM控制，直到次日清晨。
+|source=核心规则书
+}}

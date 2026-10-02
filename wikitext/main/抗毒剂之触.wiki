@@ -1,0 +1,15 @@
+{{Spell
+|name=抗毒剂之触
+|english_name=Antitoxin Touch
+|school=防护系
+|levels=女巫 1;德鲁伊 1;游侠 1;炼金术师 1;猎人 1;萨满 1;调查员 1
+|action=标准动作
+|components=语言;姿势;材料（一小滴抗毒剂）
+|range=接触
+|target=接触的生物。
+|duration=1轮/等级
+|save=强韧豁免，通过则无效（无害）
+|sr=是（无害）
+|description=该目标的皮肤在法术生效期间会分泌少量抗毒的油脂。该目标不会在涂毒时意外中毒。此外，目标在尝试挤榨毒素（《[[极限荒野]]》142页）时不会有暴露于生物毒素下的风险。
+|source=药剂与毒药
+}}

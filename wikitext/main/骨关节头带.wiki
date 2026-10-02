@@ -1,0 +1,15 @@
+{{魔法物品
+|name=骨关节头带
+|english_name=Headband of Knucklebones
+|aon=MagicWondrousDisplay.aspx?FinalName=Headband of Knucklebones
+|cat=奇物
+|aura=中等死灵系
+|cl=9
+|slot=头饰
+|price=27,500 gp
+|weight=1磅
+|description=这条头带由相互咬合的指骨以皮革般的肌腱和软骨编织而成。穿戴者每天可以使用命令死灵至多3次，但只能影响丧尸。每天1次，穿戴者可以用头带活化一只中型丧尸，如同使用[[唤起死灵]]。
+|req=[[制造奇物]]、[[唤起死灵]]、[[命令死灵(法术)|命令死灵]]
+|cost=13,750 gp
+|source=极限宝具
+}}

@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''神话不朽'''（Mythic Immortality）是一条神话[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Su</span><span class="sk-a">神话</span><span class="sk-f">位置：特性</span></div>
+</noinclude><includeonly><div class="lang"><span id="神话不朽"></span><div class="lang-h"><b>[[神话不朽]]</b><i>Mythic Immortality</i><span class="lang-w">Su · 神话 · 特性</span></div><div class="lang-d"></includeonly>
+若该生物被杀死，它会在 24 小时后恢复生命，无论它的尸体状态如何，也不管它是如何被杀死的。在恢复生命之后，并不会被视为已经休息，而且直至下一次进行休息之前，它都不会恢复那些需要休息才能恢复的能力。若它是被神话生物（或者具有更强力量的生物）、或者持用能够穿透传奇伤害减免的武器的非神话生物所进行的[[致命一击]]或[[重击]]杀死，则该能力不适用。若该生物的神话等级为 10 级，就只能被神器进行的致命一击或重击杀死。（该能力在《神话冒险》中被称为“不朽”。）
+
+'''格式'''：神话不朽
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Mythic Immortality|2=Mythic Immortality}}
+
+[[分类:通用怪物规则]]</noinclude>

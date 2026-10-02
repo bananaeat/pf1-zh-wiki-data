@@ -1,0 +1,16 @@
+{{武器
+|name=铁手套
+|english_name=Gauntlet
+|category=武器
+|prof=简易
+|wcat=轻型
+|price=2 gp
+|weight=1磅
+|dmg_s=1d2
+|dmg_m=1d3
+|crit=×2
+|type=钝击
+|groups=贴身
+|description=这件金属手套让你在[[徒手打击]]时造成致命伤害而非非致命伤害。用铁手套打击在其他方面仍视为[[徒手攻击]]。这里的价格和重量是单件的铁手套，中甲和重甲（[[胸甲]]除外）自带铁手套。对手无法用[[卸武]]动作缴去你的铁手套。
+|source=核心规则书、极限宝具
+}}

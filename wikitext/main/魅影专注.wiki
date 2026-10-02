@@ -1,0 +1,10 @@
+{{Feat
+|name=魅影专注
+|english_name=Focused Phantom
+|description=你与魅影的紧密联结能帮助你集中精神。
+|prerequisites=魅影加护职业能力
+|benefit=当你与你的魅影相邻，或者你的魅影[[附身]]于你的意识之中时，你会在专注检定中获得+4加值。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

@@ -1,0 +1,8 @@
+{{Trait
+|name=披风决斗导师
+|english_name=Dueling Cloak Adept
+|type=战斗
+|description=你受过以披风为掩并欺骗敌人的训练。当你穿着披风并使用[[奥多里决斗剑]]时，你在[[唬骗]]技能作出的虚招检定获得+2背景加值。而且，每次你穿着披风的时候虚招成功，直至你的下一回合，你的AC获得+1闪避加值。
+|source_name=内海骑士
+|source_url=https://pf1chm.pages.dev/topics/zhdc70ece933.htm
+}}

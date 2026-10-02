@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=无尽易容帽
+|english_name=Hat of Infinite Disguises
+|aon=MagicWondrousDisplay.aspx?FinalName=Hat of Infinite Disguises
+|cat=奇物
+|aura=中等幻术系
+|cl=11
+|slot=头部
+|price=25,000 gp
+|weight=1磅
+|description=这顶硕大、精致而色彩斑斓的帽子上缀满了来自至少十几种不同文化的小饰物。穿戴者可以用命令字随意为自己（但不能为其他生物）易容，如同[[隐匿之纱]]。第二个命令字可以解除易容。作为易容的一部分时，帽子可以变成任何合适的饰品的样子。
+|req=[[制造奇物]]、[[隐匿之纱]]
+|cost=12,500 gp
+|source=内海诡道
+}}

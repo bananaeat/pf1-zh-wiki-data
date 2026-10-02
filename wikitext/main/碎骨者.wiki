@@ -1,0 +1,16 @@
+{{Feat
+|name=碎骨者
+|english_name=Bonebreaker
+|categories=战斗
+|description=当你的对手无法进行防御时，你的[[徒手打击]]将会摧筋断骨。
+|prerequisites=敏捷13，[[精通擒抱]]，[[精通徒手打击]]，[[碎颚者]]，[[震慑拳]]，医疗9级。
+|benefit=当你对一个被[[擒抱]]、[[无助]]或[[震慑]]中的敌人成功施展了一次[[震慑拳]]，你可以放弃震慑拳的正常效果，转而对敌人造成1d6点力量或敏捷伤害。
+|stamina=如果你对眩晕或蹒跚的敌人使用震慑拳，你可以花费5点耐力，选择放弃震慑拳的效果，转而造成1d6力量或敏捷伤害。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[碎颈者]]（1 个条目）

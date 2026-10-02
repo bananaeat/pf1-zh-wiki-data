@@ -1,0 +1,9 @@
+{{Trait
+|name=拒信者
+|english_name=Divine Denier
+|type=信念
+|description=你无法让自己接受诸神的权威，尽管朋友们可能会坚持不懈地劝你改变。也许你是一位出于意识形态而反对神权的拉哈多姆人，又或许你只是想清静一点。你的怀疑让你比别人更快地摆脱神术的影响。每天一次，当你受到一个神术影响时，你可以将该法术对你一人的持续时间减半（最短1轮）。
+|source_name=信仰与哲学F&P
+|source=信仰与哲学(Faiths and Philosophies
+|source_url=https://pf1chm.pages.dev/topics/zh01c6dd6ef6.htm
+}}

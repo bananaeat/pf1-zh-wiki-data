@@ -1,0 +1,16 @@
+{{Feat
+|name=制造构装体
+|english_name=Craft Construct
+|categories=造物
+|pfs=否
+|description=你可以制造构装体生物，比如魔像。
+|prerequisites=施法者等级5级，制造魔法武器和护甲，制造奇物。
+|benefit=你可以制造任何满足前提要求的构装体。唤醒构装体的过程需要花费“构装体价格/1000”天时间。你必须拥有相当于构装体价格一半的构装原材料来进行制造，再加上为该构装体制造基础躯体的全部费用。每具构装体都有独立的价格花费及制造要求说明。新制造的构装体拥有相当于其生命骰数平均数的HP。
+|source=B1
+|source_name=怪物图鉴
+|source_url=https://pf1chm.pages.dev/topics/page_201.html
+}}
+
+== 哪里用到它 ==
+
+'''制造需求'''：[[魔像手册(奇物)]]、[[魔像手册(魔法物品)]]（2 件物品）

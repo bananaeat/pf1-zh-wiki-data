@@ -1,0 +1,9 @@
+{{Trait
+|name=魔法权威
+|english_name=Magic's Might
+|type=宗教
+|prerequisites=信仰[[约拉尔]]
+|description=你天生与魔法的亲密联系甚至让你能影响那些抗拒它的人。你为克服[[特殊能力#法术抗力|法术抗力]]而进行的施法者等级检定获得+1背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

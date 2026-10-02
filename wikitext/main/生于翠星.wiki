@@ -1,0 +1,11 @@
+{{Trait
+|name=生于翠星
+|english_name=Born under the Green Star
+|type=地区
+|pfs=否
+|prerequisites=翠星(Castrovel)
+|description=你出生于翠星并被这颗行星巨大的异能力量所影响。当你施放具有[影响心灵]描述符的法术或类法术能力时，你的施法者等级视为高1级。
+|source_name=繁星子民
+|source=PotS
+|source_url=https://pf1chm.pages.dev/topics/zh39dd042145.htm
+}}

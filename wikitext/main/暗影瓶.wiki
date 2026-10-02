@@ -1,0 +1,14 @@
+{{魔法物品
+|name=暗影瓶
+|english_name=Bottle of Shadows
+|aon=MagicWondrousDisplay.aspx?FinalName=Bottle of Shadows
+|cat=奇物
+|aura=微弱咒法系
+|cl=5
+|slot=无
+|price=7,000 gp
+|description=这种瓶子是用最深黑的乌木制作的。将它打开并垂直拿着时，可以听到微弱的细语从瓶口传来。开始时它有4发充能。将打开的瓶子倒过来时，可以召唤出一只[[幽影]]来服从使用者的命令，幽影每服务一轮消耗1发充能。以一个[[标准动作]]，持有者可以解除召唤幽影。如果幽影击杀了一名至少4HD的类人生物，瓶子能获得1发充能。在日落时，瓶子会自动恢复到4发充能。
+|req=[[制造奇物]]、[[操纵死尸]]
+|cost=3,500 gp
+|source=极限宝具
+}}

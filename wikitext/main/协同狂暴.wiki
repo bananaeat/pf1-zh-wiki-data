@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=协同狂暴
+|english_name=Pack Rage
+|type=Ex
+|categories=杂项
+|prerequisites=[[野蛮人]]6级
+|benefit=当野蛮人进入狂暴时，任何在30尺范围内拥有这个[[狂暴之力]]的野蛮人也可以进入狂暴。在回合外进入狂暴的野蛮人立即消耗1轮狂暴轮数，并在下一轮开始时消耗另1轮狂暴轮数以保持狂暴。
+|source_name=极限荒野
+}}

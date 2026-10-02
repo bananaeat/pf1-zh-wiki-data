@@ -1,0 +1,9 @@
+{{Trait
+|name=破坏的天赋
+|english_name=Flair for Destruction
+|type=种族
+|prerequisites=[[魔裔]]（深渊族裔）
+|description=在找出弱点并毁坏物品这件事上你十分有天赋。当你对抗构造体以及物品时，武器伤害骰获得+1背景加值。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_832.html
+}}

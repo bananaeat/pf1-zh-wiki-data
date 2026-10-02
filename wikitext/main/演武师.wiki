@@ -1,0 +1,9 @@
+{{Trait
+|name=演武师
+|english_name=Martial Performer
+|type=战斗
+|description=你将自己训练为一名武术表演家。当你获得武僧额外专长时，你可以代之以选择一项满足前置要求的演武专长。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

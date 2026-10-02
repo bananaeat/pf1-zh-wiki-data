@@ -1,0 +1,16 @@
+{{Spell
+|name=疯狂之触
+|english_name=Touch of Madness
+|school=惑控系
+|tags=影响心灵
+|domains=疯狂子域 2
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=碰触到的生物
+|duration=1轮/等级
+|save=意志，通过则无效
+|sr=是
+|description=[[接触攻击]]成功，你能让一名豁免失败的生物[[晕眩]]。
+|source=探索者编年史：战役设定
+}}

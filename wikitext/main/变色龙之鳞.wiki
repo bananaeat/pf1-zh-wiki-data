@@ -1,0 +1,14 @@
+{{Spell
+|name=变色龙之鳞
+|english_name=Chameleon scales
+|school=变化系
+|levels=游侠 1;炼金术师 1;调查员 1;奥能师 0;德鲁伊 0;猎人 0;术士 0;法师 0
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=个人
+|target=自己
+|duration=10分钟/等级（可解消）
+|sr=否
+|description=你暂时改变你皮肤、毛皮或鳞片的颜色，变成另一种适用于你种族的选项。只要那个种族的皮肤、毛皮或鳞片的种类和颜色与你相同，你在用[[易容]]检定假扮成该种族成员时就不会受到减值。
+|source=格拉利昂的狗头人
+}}

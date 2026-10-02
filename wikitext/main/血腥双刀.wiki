@@ -1,0 +1,11 @@
+{{Feat
+|name=血腥双刀
+|english_name=Bloody Sabres
+|categories=战斗
+|description=模仿着螳螂神的威能，你的双刀削斩既深且狠，让对手鲜血喷涌
+|prerequisites=敏捷15，[[擅长异种武器]]（锯齿刀），[[双武器战斗]]，信仰阿卡艾克克
+|benefit=每当你在同一次攻击动作中以主手和副手武器都命中一个目标，并且这两把武器都是锯齿刀的话，你会在造成正常伤害以外多造成1点[[流血伤害]]。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

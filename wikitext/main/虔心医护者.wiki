@@ -1,0 +1,9 @@
+{{Trait
+|name=虔心医护者
+|english_name=Devoted Healer
+|type=信念
+|description=在熟练医护者的陪伴下长大，你始终被鼓励将时间与精力奉献于他人福祉。当你为治疗严重伤害而进行医疗检定取20时，可为受助者额外恢复1d4点生命值。
+建议角色：战斗牧师，[[艾奥梅黛]]信徒，凯利德人
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

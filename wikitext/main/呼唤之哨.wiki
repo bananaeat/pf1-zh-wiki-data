@@ -1,0 +1,14 @@
+{{魔法物品
+|name=呼唤之哨
+|english_name=Whistle of Calling
+|aon=MagicWondrousDisplay.aspx?FinalName=Whistle of Calling
+|cat=奇物
+|aura=中等咒法系
+|cl=7
+|slot=无
+|price=6,300 gp
+|description=这只[[哨子]]会发出响亮而尖锐的哨音。每天一次，当使用者吹响这只哨子时，他的坐骑或[[动物伙伴]]会被瞬间传送到使用者选定的、距他30尺以内的一处安全空间。该生物必须在1英里范围内，任何阻挡或妨碍传送的效果也会阻碍这一效果。除非与某一只特定的坐骑或动物伙伴调谐，否则这只哨子毫无用处；调谐哨子是一种需要10分钟的特殊仪式。哨子可以随意调谐到新的坐骑或动物伙伴上。
+|req=[[制造奇物]]、[[传送术]]
+|cost=3,150 gp
+|source=进阶职业指南
+}}

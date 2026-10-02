@@ -1,0 +1,20 @@
+{{魔法物品
+|name=深紫红艾恩石
+|english_name=Mulberry Pentacle Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun Stone Mulberry Pentacle
+|cat=艾恩石
+|aura=中等变化系
+|cl=12
+|slot=无
+|price=10,000 gp
+|description='''形状'''：星状
+
+'''效果'''：这枚艾恩石让使用者的[[交涉]]和[[唬骗]]检定获得+5表现加值。
+
+'''共振'''（放入[[寻路仪]]时）：[[察言观色]]检定获得+2表现加值。
+
+艾恩石的通用规则（启动、环绕飞行、抓取，以及AC、硬度）见[[艾恩石]]。
+|req=[[制造奇物]]、[[鹰之威仪]]，制造者必须已经12级
+|cost=5,000 gp
+|source=秘密探寻者
+}}

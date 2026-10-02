@@ -1,0 +1,14 @@
+{{Feat
+|name=确保退路
+|english_name=Escape Route
+|categories=团队
+|description=你受过专业的战术训练，在盟友撤退时可以保护他们的背后。
+|benefit=当同样拥有此专长的盟友移动经过与你邻接的方格或你所在的方格时，不会引发[[借机攻击]]。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[辗转腾挪]]（1 个条目）

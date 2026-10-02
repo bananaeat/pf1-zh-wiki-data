@@ -1,0 +1,12 @@
+{{Feat
+|name=残暴流
+|english_name=Brute Style
+|categories=战斗;流派
+|description=通过角力、研习和冥想，你已经成为殴打倒地对手的专家。
+|prerequisites=力量15，智力13，战斗反射，精通闯越，精通摔绊，精通徒手打击，恶毒踩踏 UC，BAB+6
+|benefit=使用此流派时，你可以对十尺以内、且处于你天然触及范围内的任意敌人使用你的恶毒踩踏专长。如果你不具有恶毒踩踏专长，那么你不会获得该专长的好处。
+|normal=恶毒踩踏专长只能对一名在你相邻处倒地俯卧的敌人使用。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

@@ -1,0 +1,9 @@
+{{装备
+|name=秘银镣铐
+|english_name=Mithral manacles
+|cat=冒险装备
+|price=1,000 gp
+|weight=2磅
+|description=这种[[镣铐]]比标准镣铐更难破坏，并且对兽化人特别有效。它们有硬度15，30点生命值，击破DC为30。
+|source=冒险者的军械库
+}}

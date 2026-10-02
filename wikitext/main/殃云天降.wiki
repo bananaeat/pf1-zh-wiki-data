@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[殃云天降 (神话)]]。</small></div>
+{{Feat
+|name=殃云天降
+|english_name=Death from Above
+|categories=战斗
+|description=你利用重力来额外增加你冲锋的力道。
+|benefit=每当你从更高的地形或飞行状态从更高处冲锋你的敌人时，你从居高临下和冲锋获得的攻击检定加值变为+5。编注:从+3变成+5。
+|stamina=花费4点耐力，你从高处冲锋还能享受5点伤害加成。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

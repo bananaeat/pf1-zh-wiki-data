@@ -1,0 +1,12 @@
+{{Feat
+|name=肉盾
+|english_name=In Harm's Way
+|categories=战斗
+|description=为了保护盟友，你将自身置于危险之中。
+|prerequisites=保镖。
+|benefit=当你使用协助他人动作提高相邻盟友的AC时，你能够以[[直觉动作]]拦截对抗该名盟友的成功攻击，受到该次攻击的全部伤害以及任何可能的效果（[[流血]]，毒素等等）。一名生物从该专长获得的好处不能超过每次攻击一次。
+|notes=译注：即不能由多人同时为同一人挡刀。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

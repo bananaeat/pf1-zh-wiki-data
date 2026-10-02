@@ -1,0 +1,9 @@
+{{Trait
+|name=法战徒
+|english_name=Dispelled Battler
+|type=战斗
+|description=当魔法被压制时你愈战愈勇。当处于如[[反魔场]]法术造成的反魔法区域中时，你的武器攻击和伤害检定获得+1背景加值。若你成为区域型或单体型[[解除魔法]]法术的对象，无论其是否成功解除了你的法术或魔法效果，你都能在1轮内获得如上的类似优势。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

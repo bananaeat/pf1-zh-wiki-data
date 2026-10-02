@@ -1,0 +1,10 @@
+{{Trait
+|name=移情外交家
+|english_name=Empathic Diplomat
+|type=地区
+|prerequisites=卡蒂亚或奥西里昂
+|description=长久以来，你在和别人打交道时都很注重将心比心与移情领悟。你使用感知调整值而非魅力调整值进行交涉检定。
+|source_name=卡蒂亚，东方明珠
+|source=QJotE
+|source_url=https://pf1chm.pages.dev/topics/zhfc3aecc1c0.htm
+}}

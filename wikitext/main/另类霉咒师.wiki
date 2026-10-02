@@ -1,0 +1,9 @@
+{{Feat
+|name=另类霉咒师
+|english_name=Versatile Jinx
+|description=你的霉咒之力来自与大多数半身人不同的源头。
+|prerequisites=[[钢铁意志]]，半身人霉咒
+|benefit=选择智力或感知，你霉咒特性的DC基于该属性而非魅力。
+|source_name=格拉利昂的半身人
+|source_url=https://pf1chm.pages.dev/topics/page_572.html
+}}

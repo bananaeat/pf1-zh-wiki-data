@@ -1,0 +1,9 @@
+{{危害
+|name=活力暴走
+|english_name=Blasted Vitality
+|kind=诅咒
+|type=诅咒
+|save=强韧 DC 19
+|effect=受害者的身心变得不稳定，所有属性值受到-4减值。每当受害者进入战斗，必须通过一次对抗该诅咒DC的强韧豁免，否则陷入[[疲乏]]。
+|source=惧怖冒险
+}}

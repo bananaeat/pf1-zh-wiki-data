@@ -1,0 +1,9 @@
+{{Feat
+|name=阳光打击
+|english_name=Sunlit Strike
+|description=你的近战攻击对那些畏光的生物造成额外伤害，这让你更善于狩猎那些夜间出没的怪物。
+|prerequisites=[[奥术打击]]，能准备或施放昼明术
+|benefit=当你成功的用附加了[[奥术打击]]专长能力的近战攻击命中了一个对光脆弱的生物（例如强光下[[目盲]]，对光敏感，或在光线下虚弱的怪物），你将对其造成1d6点额外伤害。被命中的目标必须进行一次强韧豁免检定（DC10+你的人物等级+你的力量调整值），失败则会[[恍惚]]一轮。
+|source_name=天界血脉
+|source_url=https://pf1chm.pages.dev/topics/page_829.html
+}}

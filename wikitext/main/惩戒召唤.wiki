@@ -1,0 +1,9 @@
+{{Feat
+|name=惩戒召唤
+|english_name=Retributive Summoning
+|description=你花了大量功夫用于训练对于召唤法术的反制，以至于你可以将敌人的一部分力量转为召唤己方盟友。
+|prerequisites=[[法术专攻]]（咒法）或反制召唤（见进阶职业裂隙守卫）职业能力
+|benefit=当你用[[解除魔法]]或你自己的[[召唤怪物]]法术成功反制一个召唤法术，你可以立刻召唤非邪恶阵营的生物，如同你刚刚施放了一个比被反制的召唤法术低两环的召唤怪物法术一般。
+|source_name=位面旅者手册
+|source_url=https://pf1chm.pages.dev/topics/zh8aca8e39a7.htm
+}}

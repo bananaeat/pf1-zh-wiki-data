@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[精通摔绊]] 的神话版本。</small></div>
+{{Feat
+|name=精通摔绊
+|english_name=Improved Trip
+|categories=神话
+|description=击倒敌人，你是专家。
+|prerequisites=[[精通摔绊]]
+|benefit=你的[[摔绊]]检定获得加值，数值等同于你的阶层的一半，当敌人摔绊你时，你的[[CMD]]也获得此加值。这些加值与非神话版的[[精通摔绊]]专长所赋予的加值叠加。除此之外，你还能对任何尝试摔绊你的敌人进行[[借机攻击]]，除非对方也拥有该专长。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

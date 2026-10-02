@@ -1,0 +1,9 @@
+{{Trait
+|name=密文抗性
+|english_name=Cypher Resistance
+|type=地区
+|prerequisites=瓦瑞西亚-谜港城
+|description=你在密文之门附近长大，一生中无数次穿过它的拱门。你可以凭记忆背诵符文，反复的接触使你对符文魔法有了一定的抵抗力。你在对抗名称中带有「刻文」（glyph）或「徽记」（symbol）一词的法术的豁免上获得+2背景加值。
+|source_name=瓦瑞西亚，传说诞生之地
+|source_url=https://pf1chm.pages.dev/topics/zh1d5e5ac9bb.htm
+}}

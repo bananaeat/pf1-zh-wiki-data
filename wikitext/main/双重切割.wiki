@@ -1,0 +1,17 @@
+{{Feat
+|name=双重切割
+|english_name=Double Slice
+|categories=战斗
+|description=你的副手武器在双持武器攻击时更加强力。
+|prerequisites=[[敏捷]] 15，[[双武器格斗]]。
+|benefit=你的副手武器在伤害投骰中获得你的力量修正。
+|normal=通常你在副手武器上只能将力量修正的一半计入伤害投骰。
+|stamina=如果在双武器战斗时你的主手和副手都命中了目标，你可以选择花费最多不超过你力量调整值一半的耐力点数，并在副手伤害上获得等同耐力点的伤害加值。该能力一轮只能使用一次。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[双武器撕裂]]（1 个条目）

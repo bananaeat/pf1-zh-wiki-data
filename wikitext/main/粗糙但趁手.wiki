@@ -1,0 +1,8 @@
+{{Trait
+|name=粗糙但趁手
+|english_name=Rough and Ready
+|type=装备
+|description=你对谋生工具的深刻了解允许你在战斗中使用它们，就像它们是真正的武器一样，并使其在以这种方法使用时比通常情况下更有效。当你使用你的谋生工具(要求在相应的工艺或专业技能至少1级)作为武器时，你不会承受临时武器的减值，且在你的攻击检定中获得+1背景加值。这个背景通常与铲、镐、铁匠锤及其他坚固的工具关联——鲁特琴和扫帚是非常脆弱的武器。
+|source_name=装备背景
+|source_url=https://pf1chm.pages.dev/topics/page_1579.html
+}}

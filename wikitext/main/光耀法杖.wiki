@@ -1,0 +1,22 @@
+{{魔法物品
+|name=光耀法杖
+|english_name=Staff of Illumination
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Illumination
+|cat=法杖
+|aura=强烈塑能系
+|cl=15
+|slot=无
+|price=51,500 gp
+|weight=5磅
+|description=这种法杖通常外覆一层银，并以黄金和琥珀装饰成日光迸射的图案。
+
+该法杖可以使用以下法术：
+
+* [[舞光术]]（1 发）
+* [[闪光术]]（1 发）
+* [[昼明术]]（2 发）
+* [[阳炎爆]]（3 发）
+|req=[[制造法杖]]、[[舞光术]]、[[昼明术]]、[[闪光术]]、[[阳炎爆]]
+|cost=25,750 gp
+|source=核心规则书、极限宝具
+}}

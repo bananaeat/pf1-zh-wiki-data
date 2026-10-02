@@ -1,0 +1,11 @@
+{{Feat
+|name=碎浪破
+|english_name=Crashing Wave Fist
+|categories=战斗
+|description=除了简单地移动敌人的位置，你还可以在推动敌人时攻击他。
+|prerequisites=感知15，[[碎浪搏]]，[[碎浪流]]，[[精通拖拽]]，[[精通移位]]，[[精通徒手打击]]，基础攻击加值+9。
+|benefit=当进行拖拽或者移位对手时，在移动过程的任何时机，你都可以用你的最高攻击加值对对手进行一次[[徒手攻击]]。在最初的5尺之后，每拖拽或者移位5尺你都可以进行一次额外的攻击。以这种方式造成的额外攻击，每一次额外的攻击都将叠加-5的罚值。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

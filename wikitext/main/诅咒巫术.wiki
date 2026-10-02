@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[诅咒巫术 (神话)]]。</small></div>
+{{Feat
+|name=诅咒巫术
+|english_name=Accursed Hex
+|description=在[[巫术]]失败的时候，你可以再试一次。
+|prerequisites=【巫术】职业特性。
+|benefit=当你对目标使用了一个每日只能对同一生物使用一次的巫术，并且该生物在对抗该巫术效果的豁免检定中成功时，你可以在你的下一回合结束前，再次对该生物使用相同的巫术。如果第二次尝试也失败了，你在1日内不能再对该生物使用相同的巫术。
+|normal=这些巫术你每天只能对目标使用一次。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

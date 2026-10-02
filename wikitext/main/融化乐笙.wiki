@@ -1,0 +1,15 @@
+{{魔法物品
+|name=融化乐笙
+|english_name=Pipes of Dissolution
+|aon=MagicWondrousDisplay.aspx?FinalName=Pipes of Dissolution
+|cat=奇物
+|aura=微弱防护系
+|cl=5
+|slot=无
+|price=12,000 gp
+|weight=3磅
+|description=这套乐笙上雕刻着冬日的景致。激活它需要通过DC 15的表演（吹奏乐器）检定。30尺内的所有生物，在为解除魔法效应和克服法术抗力而进行的施法者等级检定上获得+2表现加值。维持演奏颇具挑战，每轮需要一个移动动作和一次新的表演检定，该检定的DC每多演奏一轮就增加1。当演奏者自愿停止或表演检定失败时，魔法即告结束，此后这套乐笙在1小时内无法再次使用。
+|req=[[制造奇物]]、[[解除魔法]]
+|cost=6,000 gp
+|source=极限宝具
+}}

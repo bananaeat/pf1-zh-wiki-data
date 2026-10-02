@@ -1,0 +1,10 @@
+{{Feat
+|name=夜空巫术
+|english_name=Night Sky Hex
+|description=你运用在夜空中闪耀着的神秘力量网络来强化你的[[巫术]]之力。
+|prerequisites=巫术职业能力，暗月、繁星或寒冬庇护主。
+|benefit=你在获得此专长时，选择一个最多可影响一个目标的巫术。当你在看到夜空并使用此巫术时，该巫术的豁免DC增加2点。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

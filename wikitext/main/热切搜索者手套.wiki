@@ -1,0 +1,14 @@
+{{魔法物品
+|name=热切搜索者手套
+|english_name=Fervent Searcher's Gloves
+|aon=MagicWondrousDisplay.aspx?FinalName=Fervent Searcher's Gloves
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=手部
+|price=7,400 gp
+|description=这双深蓝色的丝质手套没有指套。穿戴者每天两次，可以用[[移动动作]]触摸地面或任何其他固体表面并说出命令字，使20尺内的所有脚印清晰显现。手套以这种方式显现脚印时，穿戴者在循着这些足迹追踪的生存检定上获得+5加值。
+|req=[[制造奇物]]、[[残痕显影术]]
+|cost=3,700 gp
+|source=商人货单
+}}

@@ -1,0 +1,12 @@
+{{Feat
+|name=嘲弄舞步
+|english_name=Mocking Dance
+|categories=战斗;演武
+|pfs=否
+|description=你跳了一小段滑稽舞来挑衅对手并娱乐大众。
+|prerequisites=特技4级或表演（舞蹈）4级。
+|benefit=当你以[[迅捷动作]]进行演武检定时，你可以在检定前不受[[借机攻击]]移动5尺，或以正常速度移动并引发借机攻击。你不能停在可以威胁到对手的地方。若你至少移动了5尺，你的演武检定+2。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

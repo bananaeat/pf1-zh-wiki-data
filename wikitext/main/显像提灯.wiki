@@ -1,0 +1,15 @@
+{{魔法物品
+|name=显像提灯
+|english_name=Lantern of Revealing
+|aon=MagicWondrousDisplay.aspx?FinalName=Lantern of Revealing
+|cat=奇物
+|aura=微弱塑能系
+|cl=5
+|slot=无
+|price=30,000 gp
+|weight=2磅
+|description=这盏提灯的功能与普通的[[附盖提灯]]相同。点燃时，它还会显现自身25尺内所有的[[隐形]]生物和物体，如同法术[[消除隐形]]。
+|req=[[制造奇物]]、[[消除隐形]]
+|cost=15,000 gp
+|source=核心规则书、极限宝具
+}}

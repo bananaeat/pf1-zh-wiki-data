@@ -1,0 +1,9 @@
+{{Trait
+|name=拥枪鬼
+|english_name=Larger Than Life
+|type=战斗
+|description=你在手持枪械时看上去凶神恶煞。当你持用火器并使用威吓技能时，可以将自身体型视为大于实际水平一级。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

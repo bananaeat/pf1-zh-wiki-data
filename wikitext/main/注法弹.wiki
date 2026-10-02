@@ -1,0 +1,11 @@
+{{Feat
+|name=注法弹
+|english_name=Infused Spell Cartridges
+|categories=战斗
+|pfs=否
+|description=你可以用更强大的魔法强化你的奥术弹药。
+|prerequisites=智力15，[[奥术打击]]，[[法术弹]]，能施放4环奥术法术，擅长火器。
+|benefit=当你使用奥术打击专长向枪械灌注能量时，你可以以一个[[标准动作]]施放3环或更低环级的法术并发射一枚[[力场弹]]来进行传递。该法术需距离为接触或创造射线；若该法术创造多道射线，子弹只会造成一道射线的效果。若力场弹命中目标，它造成力场伤害同时造成法术效果。若力场弹对目标造成重击，该法术造成的伤害加倍。
+|source_name=格拉利昂的英雄
+|source_url=https://pf1chm.pages.dev/topics/zh6a9ca5047a.htm
+}}

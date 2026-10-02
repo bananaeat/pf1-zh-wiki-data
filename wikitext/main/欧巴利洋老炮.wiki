@@ -1,0 +1,9 @@
+{{Trait
+|name=欧巴利洋老炮
+|english_name=Obari Veteran
+|type=战斗
+|description=在利润丰厚的欧巴利洋航线运送着伽伦德人和乌笃剌人的货物，你已经在船上度过了数年。你在专业(水手)上获得+1加值，而专业(水手)对你来说是[[本职技能]]。你也能在对抗水栖亚种生物时的武器伤害骰上，获得+1背景加值。
+|source_name=商人货单
+|source=MM
+|source_url=https://pf1chm.pages.dev/topics/zh22b22ddf01.htm
+}}

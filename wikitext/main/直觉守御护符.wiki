@@ -1,0 +1,14 @@
+{{魔法物品
+|name=直觉守御护符
+|english_name=Amulet of Uncanny Defense
+|aon=MagicWondrousDisplay.aspx?FinalName=Amulet of Uncanny Defense
+|cat=奇物
+|aura=中等防护系
+|cl=9
+|slot=颈部
+|price=5,000 gp
+|description=这枚沉重的[[寒铁]]护符上刻画着一只张口咆哮的熊头。它增强佩戴者的直觉闪避能力，使其如同精通直觉闪避。（护符对不具有直觉闪避的角色没有益处。）如果佩戴者本来就具有精通直觉闪避，那么在判断攻击者要通过[[夹击]]佩戴者来对其偷袭所需的盗贼等级时，视佩戴者的职业等级高了4级。
+|req=[[制造奇物]]、[[真知术]]
+|cost=2,500 gp
+|source=进阶职业指南
+}}

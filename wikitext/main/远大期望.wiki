@@ -1,0 +1,10 @@
+{{Feat
+|name=远大期望
+|english_name=Great Expectations
+|description=年少时便肩负沉重责任的你，必须比大多数人更快地成熟起来。
+|prerequisites=雨之后裔[[半兽人]]，奖励技能种族特性。
+|benefit=当你获得此专长时，选择智力、感知或魅力其中一项属性。此属性选择一经确定便不可更改。以一个[[直觉动作]]，你可以在任何使用所选属性的技能检定上获得+2环境加值，每天使用次数等同于你所选属性的调整值。你可以在掷骰之后使用这一能力，但必须在检定结果宣布之前使用。
+|source=HftF
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/zh72cd9d7a9f.htm
+}}

@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=领会眼镜
+|english_name=Spectacles of Comprehension
+|aon=MagicWondrousDisplay.aspx?FinalName=Spectacles of Comprehension
+|cat=奇物
+|aura=微弱惑控系
+|cl=3
+|slot=眼部
+|price=2,500 gp
+|description=这副眼镜没有任何标记或装饰，但显然结实且做工上乘。佩戴者能更好地理解书面材料，并解开合同的措辞。佩戴者在[[语言学]]检定上获得+5加值，用来破译文字、识破伪造品、在图书馆里研究（《极限诡道》第148页）、研究[[炼狱契约]]（《永罪之书》第203页）或进行类似的检查。此外，他会自动察觉自己检查的合同里是否有任何刻意的含糊措辞或漏洞，不过他未必知道它们具体是什么。
+|req=[[制造奇物]]、[[探究精神]]
+|cost=1,250 gp
+|source=门徒教义
+}}

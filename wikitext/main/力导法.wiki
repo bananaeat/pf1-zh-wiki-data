@@ -1,0 +1,9 @@
+{{Trait
+|name=力导法
+|english_name=Arcane Revitalization
+|type=魔法
+|description=你的超凡武技可用来补充奥能。每日1次，当你利用武器攻击重击确认成功时，你回复1点奥能力池点数。你不能使自己的点数超过奥能力池上限。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

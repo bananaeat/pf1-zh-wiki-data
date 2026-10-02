@@ -1,0 +1,9 @@
+{{装备
+|name=物品保养工具箱
+|english_name=Gear maintenance kit
+|cat=套装
+|price=5 gp
+|weight=2磅
+|description=该工具箱包括：金属抛光剂，一把小锉刀，一把削皮刀，皮革保护油，两块软布，备用的皮革带，一根缝纫针和几枚纽扣。
+|source=极限宝具
+}}

@@ -1,0 +1,50 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #68: The Shackled Hut
+|authors=Jim Groves
+|pages=96
+}}
+
+{{书页/简介|head=白女巫之城|1=
+冬季传送门已经关闭，英雄们发现自己被困在冰封的伊利森，肩负一项紧迫的使命——找到芭芭雅嘎！为了追查失踪的女巫之王，英雄们必须闯入怪物横行的首都白王座城——[[芭芭雅嘎的舞动小屋]]在那里被俘获并公开展示。掌握这件神奇的神器，能否把他们引向女巫之王？还是说，他们将在伊利森白女巫们的手下死于严寒？
+
+本册《冒险之路》延续「冬临天下」冒险之路，内容包括：
+
+* 《被禁锢的小屋》，一部面向 4 级角色的开拓者角色扮演游戏冒险，作者 Jim Groves。
+* 探究机敏而危险的[[冬狼]]的生态与起源，作者 Russ Taylor。
+* 一瞥崇拜永绽者[[密拉妮]]的叛军与革命者教团，作者 Sean K Reynolds。
+* 在「探索者日志」中，对白王座城贵族阶层的一次凶险初探，作者 Kevin Andrew Murphy。
+* 四种新怪物，作者 Jim Groves、Dale C. McCoy, Jr. 和 Sean K Reynolds。
+}}
+
+'''冒险之路68：被禁锢的小屋'''（''Pathfinder #68: The Shackled Hut''）是[[冒险之路]]「冬临天下」系列的第二部冒险，由 Jim Groves 撰写，配套文章出自 Dale C. McCoy, Jr.、Sean K Reynolds 和 Russ Taylor，小说出自 Kevin Andrew Murphy，于 2013 年 3 月 20 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+被禁锢的小屋 @ 6
+NPC 图集 @ 54
+冬临天下宝藏 @ 60
+- [[烬寒]]
+- [[永绽玫瑰]]
+- 极北长袍（hyperboreal robe）
+- 阴险捕熊夹（insidious bear trap）
+- 霜毛皮（rimepelt）
+- 北国乌沙卡帽（ushanka of the northlands）
+- [[芭芭雅嘎的舞动小屋]]
+[[密拉妮]] @ 64
+[[冬狼]]生态 @ 70
+探索者日志：骨粉玩偶（2／6） @ 76
+怪物图鉴 @ 82
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=The Shackled Hut
+|releases=PDF¦PZO9068E¦2013-03¦；Softcover¦PZO9068¦2013-03¦978-1-60125-493-1
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

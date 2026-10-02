@@ -1,0 +1,12 @@
+{{Feat
+|name=拔群剑术
+|english_name=Disciple of the Sword
+|description=你掌握[[艾奥梅黛]]的偏好武器
+——
+[[长剑]]的能力使同侪自叹不如。
+|prerequisites=[[武器专攻]]（长剑），4级审判者或牧师，信仰艾奥梅黛
+|benefit=你获得[[武器专精]]（长剑）的效果，并可以用审判者或牧师等级作为有效战士等级来学习以下专长：[[高等武器专攻]]（长剑），[[高等武器专精]]（长剑），你也可以以此专长取代武器专精（长剑）作为选择高等武器专精（长剑）的先决条件。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

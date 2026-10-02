@@ -1,0 +1,9 @@
+{{装备
+|name=奶粉
+|english_name=Powdered milk
+|cat=饮食
+|price=1 sp
+|weight=1磅
+|description=将这种干粉兑水可以冲成脱脂奶。制法是一边加热牛奶，一边慢慢加入小米粉，煮到浓稠，再晾干。奶粉以密封的壶或罐出售。一磅奶粉大约可以冲成1加仑奶。
+|source=极限宝具
+}}

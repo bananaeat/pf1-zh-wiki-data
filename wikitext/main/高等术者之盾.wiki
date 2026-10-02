@@ -1,0 +1,16 @@
+{{魔法物品
+|name=高等术者之盾
+|english_name=Caster's Shield, Greater
+|cat=特殊魔法盾牌
+|base=[[轻木盾]]
+|enh=+3
+|aura=中等防护系
+|cl=11
+|slot=盾牌
+|price=10,153 gp
+|weight=5磅
+|description=这面+3[[轻木盾]]在各方面都与术者之盾相同，不过皮带可以容纳最高为5环的法术。
+|req=[[制造魔法武器和防具]]、[[抄写卷轴]]
+|cost=5,153 gp
+|source=极限宝具
+}}

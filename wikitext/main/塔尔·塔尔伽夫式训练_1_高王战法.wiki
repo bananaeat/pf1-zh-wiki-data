@@ -1,0 +1,9 @@
+{{Trait
+|name=塔尔·塔尔伽夫式训练/高王战法
+|english_name=Tar Taargadth Trained
+|type=战斗
+|description=你熟习古代塔尔·塔尔伽夫帝国的战斗技巧。你使用任何包含「[[矮人]]」名称的武器进行攻击时，伤害骰获得+1背景加值。
+|source_name=古国血脉
+|source=BotA
+|source_url=https://pf1chm.pages.dev/topics/zhb7c0053e99.htm
+}}

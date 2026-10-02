@@ -1,0 +1,11 @@
+{{Feat
+|name=无畏救援
+|english_name=Intrepid Rescuer
+|categories=战斗
+|description=迅速的反应使你往往能救下受困的盟友和平民
+|prerequisites=[[战斗反射]]，信仰库尔吉斯
+|benefit=每当一个你威胁的敌人攻击处于[[无助]]、[[俯卧]]或[[震慑]]状态的盟友，或是攻击任何非战斗人员时，该敌人会引发你的[[借机攻击]]。如果你的借机攻击命中，他在引发这次借机攻击的那次攻击检定上承受-4减值。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=梦境暗示
+|english_name=Good Dreams
+|type=宗教
+|prerequisites=[[半身人]]；信仰[[黛丝娜]]
+|description=你的梦经常提示你白天可能将要遇到的危险——如坠落，火焰冲击或剧毒的蛇——这些提示往往会改变你的命运。每当你睡觉时，GM告诉你在梦中梦到了怎样的危险。每日一次，若你在梦境相似的情况下骰豁免骰时，可以双骰，选取你想要的结果。若你没有遇到类似的境况，本背景当天不生效。若你有[[半身人霉咒]]背景，则不能选择此背景，反之亦然。
+|source_name=宗教背景
+|source=HoG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

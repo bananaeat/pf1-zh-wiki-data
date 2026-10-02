@@ -1,0 +1,17 @@
+{{武器
+|name=半棒
+|english_name=Hanbo
+|category=武器
+|prof=简易
+|wcat=轻型
+|price=1 gp
+|weight=2磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×2
+|type=钝击
+|special=武僧，摔绊
+|groups=武僧
+|description=半棒是一根不到一码长的短杖，通常被雕琢成手杖的样式。
+|source=冒险者的军械库
+}}

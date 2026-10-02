@@ -1,0 +1,14 @@
+{{Spell
+|name=内在之美
+|english_name=Tap Inner Beauty
+|school=预言系
+|levels=先知 1;吟游诗人 1;女巫 1;战斗祭司 1;歌者 1;牧师 1
+|action=标准动作
+|components=语言;材料（一面小镜）
+|range=个人
+|target=你
+|duration=1分钟/等级
+|sr=否
+|description=这个法术能引导出你本质中与生俱来的魅力，使你的语言和神色熠熠生辉。在法术生效期间，你在所有魅力检定以及基于魅力的技能检定上获得+2洞察加值。
+|source=内海诸神
+}}

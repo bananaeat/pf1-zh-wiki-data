@@ -1,0 +1,11 @@
+{{Feat
+|name=鞭击用尾巴
+|english_name=Lashing Tail
+|categories=战斗
+|description=你的尾巴厚重到足以充当武器，或者长有倒钩或刺羽，使其挥击时化作武器。
+|prerequisites=[[贪婪之尾]]，你必须拥有尾巴
+|benefit=你获得尾扫天生攻击，造成适合你体型的伤害（中型生物1d6，小型生物1d4）。当你首次获得此专长时，选择钝击、穿刺或挥砍；此为你的尾扫的伤害类型而且不能在及后改变。由于与生俱来用尾巴进攻的尴尬，你不能进行尾扫攻击和其他天生武器攻击作为同一全回合攻击的一部分。若你以人造武器攻击作为全回合攻击行动的一部分，将你的尾扫攻击视为次要天生攻击。
+|source=PA
+|source_name=位面冒险
+|source_url=https://pf1chm.pages.dev/topics/zh1e27af7163.htm
+}}

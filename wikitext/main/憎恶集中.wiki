@@ -1,0 +1,15 @@
+{{Feat
+|name=憎恶集中
+|english_name=Seething Hatred
+|categories=战斗
+|description=你极度仇视某种生物，这恨意引导你的刀锋发起[[致命一击]]。
+|prerequisites=杀戮目标职业能力
+|benefit=选择一个游侠宿敌列表中的生物类型，你在以近战或远程攻击命中该种类的生物，且他是你的杀戮目标时，你对目标的宿敌伤害加值翻倍。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[极度仇视]]（1 个条目）

@@ -1,0 +1,12 @@
+{{Feat
+|name=蛮锤撞
+|english_name=Cudgeler Takedown
+|categories=战斗;流派
+|pfs=否
+|description=被你击倒的敌人很难再起。
+|prerequisites=[[钝击士]]，[[蛮锤式]]，[[蛮锤扫]]，BAB+9或武僧等级9
+|benefit=当你处于[[蛮锤式]][[流派]]下冲锋攻击时，你的武器伤害骰视为增大1级持续1轮或直到武器离开你的手。当你成功通过[[蛮锤扫]]专长摔绊敌人时，该敌人必须通过强韧豁免检定（DC=10+你的人物等级+你的力量调整值），否则被[[震慑]]1轮。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}

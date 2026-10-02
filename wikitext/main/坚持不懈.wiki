@@ -1,0 +1,10 @@
+{{Trait
+|name=坚持不懈
+|english_name=Obsessed with Success
+|type=种族
+|prerequisites=[[人类]]（切利亚斯人）
+|description=一个没有明显的成功功绩的切利亚斯人会被认为是很可悲，所以你成长期间小心翼翼地不让失败继续出现。每天1次，当你重试一个你在1分钟内失败过的技能检定时，你能在该检定获得+4背景加值。
+|source_name=内海种族
+|source=Inner Sea Races
+|source_url=https://pf1chm.pages.dev/topics/zh3a98986c0e.htm
+}}

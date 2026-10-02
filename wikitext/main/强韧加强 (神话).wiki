@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[强韧加强]] 的神话版本。</small></div>
+{{Feat
+|name=强韧加强
+|english_name=Great Fortitude
+|categories=神话
+|description=你那坚韧的躯体无人能比。
+|prerequisites=[[强韧加强]]
+|benefit=每当你在对抗由非神话来源产生的法术、类法术能力或者超自然能力的强韧豁免时，做两次检定并取较高结果。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

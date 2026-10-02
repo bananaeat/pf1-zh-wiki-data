@@ -1,0 +1,38 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #142: Gardens of Gallowspire
+|authors=Crystal Frasier
+|pages=96
+}}
+
+{{书页/简介|head=巨头对决|1=
+默语暴君已经脱困！现在正是对他出手的时候，趁他尚未恢复全部力量、趁他沉睡已久的大军尚未苏醒。堕落的半神、亡者之国盖布（Geb）的女王阿拉兹妮（Arazni）向英雄们提出一个大胆的计划：英雄们必须踏入危险的维利奇（Virlych）之地，穿过默语暴君昔日牢狱周围那片怪异而繁茂的异域植物与变异生物，解除他的奥术护佑，好让阿拉兹妮和英雄们能与这头[[巫妖]]正面交战。然而，阿拉兹妮那些不死的护卫兼狱卒想把她拖回盖布，终焉之墙（Lastwall）仅存的骑士又把两头巫妖都视为敌人。英雄们必须在生者与死者的威胁之间周旋，阻止默语暴君将魔爪伸得更远！
+
+本册《冒险之路》延续「暴君魔爪」冒险之路，内容包括：
+
+* 《绞架尖塔花园》，一部面向 11 级角色的开拓者 RPG 冒险，作者 Crystal Frasier。
+* 探究食肉植物惊人的繁殖力与多样性，作者 Andrew Mullen。
+* 一系列短任务，PC 们将直面默语魔道对终焉之墙一国无孔不入的阴险袭击，作者 Ron Lundeen。
+* 一篇关于默语暴君的巫门（witchgate）的文章——这些强大的魔法结界能改向传送，并守护着强大而罕见的守卫，作者 Christopher Wasko。
+* 一部令人胆寒的怪物图鉴，包括一座被魔法唤醒的军械库、一头以忧虑为食的邪魔、一种嗜血的耐寒植物、一头炫目魔幻却致命的野兽，以及一名被从漂白症中硬生生拽进不死状态的侏儒，作者 Crystal Frasier、Andrew Mullen、Emily Parks 与 Rhett Skubis。
+}}
+
+'''冒险之路142：绞架尖塔花园'''（''Pathfinder #142: Gardens of Gallowspire''）是[[冒险之路]]「暴君魔爪」系列的第四部冒险，由 Crystal Frasier 撰写，配套文章出自 Andrew Mullen、Ron Lundeen、Christopher Wasko、Emily Parks 和 Rhett Skubis，于 2019 年 5 月 29 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+绞架尖塔花园 @ 2
+NPC 图集 @ 56
+食肉植物生态 @ 62
+终焉之墙的任务 @ 68
+巫门 @ 74
+怪物图鉴 @ 80
+}}
+
+{{书页尾
+|pfw=Gardens of Gallowspire
+|releases=Softcover¦PZO90142¦2019-05¦；PDF¦PZO90142E¦¦
+}}
+
+[[分类:书目]]

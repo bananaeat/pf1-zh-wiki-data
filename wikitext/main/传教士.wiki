@@ -1,0 +1,12 @@
+{{消歧义|教会使者}}
+{{消歧义|外乡来客}}
+{{Trait
+|name=传教士
+|english_name=Missionary
+|aon=Outlander
+|type=战役
+|description=在受到神启、得知此地需要你的信仰——却不知具体需要何物之后，你决定来到这个小镇，看看能否传播自己的信仰。你的知识(宗教)检定获得+1背景加值，并且总能将知识(宗教)视为你的[[本职技能]]。如果你施展神术，从你的法术列表中选择3个法术。你对这些法术了熟于心，在施放它们时施法者等级+1,同时豁免DC+1(如果有豁免)。
+|source_name=进阶玩家指南
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_416.html
+}}

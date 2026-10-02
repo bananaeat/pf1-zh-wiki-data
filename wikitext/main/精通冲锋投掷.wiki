@@ -1,0 +1,12 @@
+{{Feat
+|name=精通冲锋投掷
+|english_name=Improved Charging Hurler
+|categories=战斗
+|description=你利用身上每一块肌肉来增强你的投掷威力。
+|prerequisites=冲锋投掷，近距射击。
+|benefit=当你使用“冲锋投掷”时，你可以在与目标距离为武器最大射程以内的任何地方停止移动。如果你的目标在30尺范围内，你的伤害骰获得+2加值。
+|normal=进行“冲锋投掷”时移动终点必须位于目标附近30尺内。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

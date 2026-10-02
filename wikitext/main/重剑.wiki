@@ -1,0 +1,20 @@
+{{武器
+|name=重剑
+|english_name=Bastard sword
+|category=武器
+|prof=异种
+|wcat=单手
+|price=35 gp
+|weight=6磅
+|dmg_s=1d8
+|dmg_m=1d10
+|crit=19–20/×2
+|type=挥砍
+|groups=重刃
+|description=重剑长约4尺，使得它难以在经受特殊训练之前单手使用；因此这是一件异种武器。你能在双手持用重剑的情况下将其视为军用武器。
+|source=核心规则书、极限宝具
+}}
+
+{{FAQ|v5748eaic9rb5|v5748eaic9qut}}
+
+{{FAQ|v5748eaic9o78}}

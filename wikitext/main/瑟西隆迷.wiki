@@ -1,0 +1,14 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Return of the Runelords Players Guide pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=瑟西隆迷
+|english_name=Intrigued by Thassilon
+|type=战役
+|pfs=否
+|description=几年前瑟西隆遗产的重新发现让许多人大开眼界，你也不例外。在这些巨大遗迹的阴影下生活了这么久之后，你惊奇地发现它们比任何人猜想的都要古老得多，而建造它们的符文领主可能仍然存在。你向自己许下承诺，要尽可能地揭开有关瑟西隆、它的符文领主以及那个古老文明神秘历史的一切。
+
+你获得瑟西隆语作为额外语言，并且在1级及此后每2级，你获得1个额外技能点，该技能点只能用于[[知识]]（奥秘）、知识（历史）、[[语言学]]或[[使用魔法装置]]。
+
+每次冒险一次，你可以在一次使用魔法装置检定上取20，或者激活一件充能式魔法物品而不消耗任何充能。
+|source_name=Return of the Runelords Players Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Intrigued%20by%20Thassilon
+}}

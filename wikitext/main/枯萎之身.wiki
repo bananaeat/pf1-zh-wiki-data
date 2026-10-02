@@ -1,0 +1,10 @@
+{{Trait
+|name=枯萎之身
+|english_name=Blighted Physiology
+|type=地区
+|prerequisites=纽梅利亚
+|description=渗透在纽梅利亚每一滴水、每一粒尘埃中的腐败能量改变了你的身体。你皮肤之下发生的可怕的异变为你的AC提供了+1天生防御加值；但你的身体已然不像正常生物那样运转，每当你受到魔法治疗时，你会[[恶心]]1回合。
+|source_name=河域子民
+|source=PotR
+|source_url=https://pf1chm.pages.dev/topics/zh576fd36972.htm
+}}

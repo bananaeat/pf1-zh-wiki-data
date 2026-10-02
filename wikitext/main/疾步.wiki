@@ -1,0 +1,9 @@
+{{装备
+|name=疾步
+|english_name=Quick-step concoction
+|cat=调剂
+|price=75 gp
+|weight=—
+|description=这种带着薄荷清香的液体能使服用者脚步轻盈，平衡过人，在特技检定以及对抗[[摔绊]]的[[CMD]]上获得+2炼金加值。然而，服用者也因此更易分心，在察觉检定上受到-2减值。
+|source=冒险者的军械库2
+}}

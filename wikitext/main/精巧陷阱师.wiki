@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 18），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=精巧陷阱师
+|english_name=Elaborate Trapper
+|type=种族
+|pfs=否
+|prerequisites=狗头人
+|description=你天生心思诡诈，你的陷阱越是精巧，效果就越好。制造陷阱时，如果你的[[工艺]]（陷阱）检定结果超出该检定的DC 5或更多，该陷阱的[[解除装置]]DC提高2。
+|source_name=格拉利昂的狗头人
+|source=KoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Elaborate%20Trapper
+}}

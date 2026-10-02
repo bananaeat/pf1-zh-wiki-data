@@ -1,0 +1,12 @@
+{{Feat
+|name=顺势扫荡
+|english_name=Cleaving Sweep
+|categories=战斗
+|pfs=否
+|description=你旋舞大斧，将周围的敌人纷纷扫倒在地
+|prerequisites=力量15，[[顺势斩]]，[[精通摔绊]]，[[武器专攻]]（巨斧），基本攻击加值+11
+|benefit=当你使用双手武器发动一次整轮攻击时，你可以放弃正常的攻击，而是对你触及范围内的每一个生物都发动一次摔绊战技攻击尝试，使用你的最高基础攻击加值。你必须分别对每一个目标发动一次战技攻击检定。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1403.html
+}}

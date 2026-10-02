@@ -1,0 +1,9 @@
+{{Trait
+|name=选择性体质
+|english_name=Selective Health
+|type=种族
+|prerequisites=[[神裔]]
+|description=你能够抵御大多数身边可能出现的疾病，但却难以抵抗邪恶的疫病。你在对抗疾病时，强韧豁免获得+2背景加值。然而，每当你在对抗不死生物或者邪恶异界生物引起的疾病时（比如腐尸症或者鹫魔的孢子），不会获得上述加值，强韧豁免反而会受到-2减值。
+|source_name=天界血脉
+|source_url=https://pf1chm.pages.dev/topics/page_830.html
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=远行者面具
+|english_name=Mask of the Far Traveler
+|aon=MagicWondrousDisplay.aspx?FinalName=Mask of the Far Traveler
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=头部
+|price=38,000 gp
+|weight=1/2磅
+|description=这副皮革半面具遮住穿戴者的口鼻，使她的唇部动作不易看清，但不会遮掩她的声音。处于其原生位面并且拥有语言的生物，能理解穿戴者所说的全部话语，如同穿戴者的话是用听者的母语说出的一样。此外，由于面具能熟练有效地复现当地的习语，穿戴者在交涉检定以及说谎的[[唬骗]]检定上获得+5表现加值。远行者面具在主物质位面上不起作用。
+|req=[[制造奇物]]、[[巧言术]]
+|cost=19,000 gp
+|source=位面冒险
+}}

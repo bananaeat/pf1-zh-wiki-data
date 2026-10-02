@@ -1,0 +1,11 @@
+{{Feat
+|name=式神流
+|english_name=Shikigami Style
+|categories=战斗;流派
+|description=你使用临时武器的技巧让它比平时更加危险。
+|prerequisites=随手武器或随手投掷
+|benefit=当处于这一流派中时，你使用临时武器造成的伤害视为其体型增大一级。你每拥有一个式神流作为先决条件的专长，都会将临时武器视为增大一级，最多视为体型比原本增大三级。
+|special=式神流对临时武器伤害骰的提升最大不能超过3D6.
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/page_1343.html
+}}

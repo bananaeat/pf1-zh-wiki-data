@@ -1,0 +1,11 @@
+{{Feat
+|name=恶魔冲击
+|english_name=Demonic Momentum
+|categories=战斗
+|description=你用毁灭般的力量猛击敌人，让他们更易受到你恶毒的攻击。
+|prerequisites=恶魔之型，精通冲撞，猛力攻击, 基础攻击加值+5
+|benefit=你使用恶魔之型时，当你在一次冲锋中成功的冲撞了一个对手时，被你冲撞的对手每移动5尺，你对该对手的近战武器伤害检定上获得+2加值。这个加值持续到你的下一个回合结束，并与恶魔之型的伤害加值叠加。
+|source=PA
+|source_name=位面冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

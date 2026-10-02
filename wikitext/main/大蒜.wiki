@@ -1,0 +1,9 @@
+{{装备
+|name=大蒜
+|english_name=Garlic
+|cat=黑市
+|price=1 sp
+|weight=—
+|description=这些气味刺鼻的白色蒜瓣可以作为食物和药物，并在许多传统的净化仪式中发挥作用。众所周知，吸血鬼无法忍受大蒜的存在。
+|source=冒险者的军械库
+}}

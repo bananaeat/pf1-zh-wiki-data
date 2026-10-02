@@ -1,0 +1,12 @@
+{{危害
+|name=警惕粉
+|english_name=Vigilance
+|kind=毒品
+|type=摄入
+|addiction=中度，强韧 DC 20
+|effect=1d3小时：[[察觉]]检定获得+10炼金加值；4小时：使用者无法将敏捷加值计入AC
+|damage=1d4点体质伤害
+|price=15 gp
+|description=学者和学生往往愿意以笨拙和迟缓的反应为代价，换取这种味苦的白色粉末在研究和学习中带来的益处。
+|source=药剂与毒药
+}}

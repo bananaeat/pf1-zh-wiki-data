@@ -1,0 +1,11 @@
+{{消歧义|奥法憎恶}}
+{{Trait
+|name=术法宿仇
+|english_name=Spellcaster's Anathema
+|type=种族
+|prerequisites=[[矮人]]
+|description=你极度不信任奥术魔法，并且认为使用奥术魔法迟早会带来灾祸。你在对奥术施法者的攻击骰获得+1背景加值。
+|source_name=废土子民
+|source=PotW
+|source_url=https://pf1chm.pages.dev/topics/zha1cb183769.htm
+}}

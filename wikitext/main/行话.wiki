@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Bastards of Golarion pg. 4），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=行话
+|english_name=Trade Talk
+|type=种族
+|pfs=否
+|prerequisites=[[半精灵]]（人类抚育）
+|description=你不仅学到了你[[人类]]双亲所从事行当的基础，还学会了这一行典型的行话。选择一项[[工艺]]或[[专业]]技能。你在所选技能的检定上获得+1背景加值，并且在该工艺或专业的相关情境中与人打交道时，你的[[唬骗]]和[[察言观色]]检定获得+1背景加值。
+|source_name=格拉利昂的混种
+|source=BoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Trade%20Talk
+}}

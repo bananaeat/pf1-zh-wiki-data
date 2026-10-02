@@ -1,0 +1,11 @@
+{{Feat
+|name=溢血之毒
+|english_name=Hemorrhaging Venom
+|aon=Hemorhaging Venom
+|categories=战斗
+|description=你的毒液足以摧毁血管融化骨骼。
+|prerequisites=喷毒，致命毒液，基本攻击加值+7，娜迦裔
+|benefit=你通过喷毒专长喷射毒素时，豁免失败的目标除受到其他所有效果外，还会受到2d6点[[流血伤害]]。这个[[流血]]可以正常被DC 15的医疗技能检定、或任何能够治疗生命值伤害的效果所终止。此外，你获得每天额外一次的喷毒专长的使用次数。
+|source_name=药剂与毒药
+|source_url=https://pf1chm.pages.dev/topics/page_1258.html
+}}

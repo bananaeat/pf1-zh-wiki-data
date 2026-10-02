@@ -1,0 +1,47 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=入教者
+|english_name=Initiate
+|cr=1
+|xp=400
+|classline=人类导师3
+|alignment=混乱邪恶
+|size=中型
+|type=类人生物
+|subtypes=人类
+|init=+0
+|senses=察觉+1
+|ac=12，接触 10，措手不及 12（+2盔甲）；对抗善良+2
+|hp=16（3d6+6）
+|fort=+4
+|ref=+1
+|will=+4；对抗善良+2
+|speed=30尺
+|melee=矛 +1（1d8/×3）或 精制冷铁匕首 +2（1d4/19–20）
+|ranged=飞镖 +1（1d4）
+|spells=已准备导师法术（施法者等级3，专注+4）；1级—[[燃烧之手]]（DC 12），[[侦测善良]]，[[防护善良]]；0级（随意）—[[侦测魔法]]，[[光亮术]]，[[阅读魔法]]
+|tactics=<div class="ml wide"><span class="k">战斗前</span>导师施展防护善良。</div><div class="ml wide"><span class="k">战斗中</span>只要能把两个以上的敌人罩进范围，导师就会施展燃烧之手。法术、卷轴和强酸用光之后，她改用矛战斗。</div><div class="ml wide"><span class="k">基础数据</span>没有防护善良时，导师的数据为：AC 对善良无加值；豁免对善良无加值。</div>
+|str=10
+|dex=11
+|con=12
+|int=8
+|wis=13
+|cha=11
+|bab=+1
+|cmb=+1
+|cmd=11
+|feats=[[战斗施法]];[[强韧加强]];[[抄写卷轴]]
+|skills=[[知识]]（奥秘、本地、位面）+3;[[知识]]（宗教）+5;[[法术辨识]]+5
+|languages=通用语
+|sq=召唤魔宠（蟾蜍）
+|combat_gear=燃烧之手卷轴（2，施法者等级3）;治疗轻伤卷轴（2）;隐雾术卷轴（施法者等级3）;睡眠术卷轴（施法者等级3）;强酸（2）
+|gear=皮甲;飞镖（6）;精制冷铁匕首;矛;腰包;精制镣铐;卷轴匣;银质圣徽（裂月）;法术材料包;9gp
+|source=NPC志
+|family=NPC职业（NPC志）
+|npc=1
+|lore=
+入教者从不知道自己真正的使命，直到奇异的幻象让她看见了现实之外的恐怖。如今她已被疯狂触碰，试图把其他人也拉入黑暗。
+}}
+
+{{AoN原文|1=NPCDisplay.aspx?ItemName=Initiate|2=Initiate}}

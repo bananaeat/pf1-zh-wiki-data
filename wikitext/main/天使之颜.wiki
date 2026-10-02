@@ -1,0 +1,16 @@
+{{Spell
+|name=天使之颜
+|english_name=Angelic aspect
+|school=变化系
+|tags=善良
+|levels=圣武士 3;先知 5;奥能师 5;战斗祭司 5;术士 5;法师 5;牧师 5
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|target=自己
+|duration=1分钟/等级（可解消）
+|save=无
+|sr=否
+|description=该法术同[[次等天使之颜]]，但你获得昏暗视觉，黑暗视觉60尺，抗酸抗冷10，DR5/邪恶。你长出白色羽翼并获得30尺飞行（普通机动性）。此外你的天生武器和手持武器在穿透伤害减免时视为善良武器。
+|source=纯洁勇士
+}}

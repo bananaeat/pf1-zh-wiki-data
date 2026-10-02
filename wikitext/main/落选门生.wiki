@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Advanced Class Origins pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=落选门生
+|english_name=Failed Aspirant
+|type=战斗
+|description=你没能通过加入无瑕居流派某一宗派的试炼。你虽然失望，却也从武僧那里学到了一招。选择一种战技。每天一次，你可以施展该战技而不引发借机攻击，并在这次尝试上获得+2加值。
+|source_name=进化职业起源
+|source=ACO
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Failed%20Aspirant
+}}

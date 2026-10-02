@@ -1,0 +1,12 @@
+{{Feat
+|name=解剖专家
+|english_name=Anatomical Savant
+|categories=战斗
+|description=你知道如何对最模糊的目标进行致命打击。
+|prerequisites=武器专攻，BAB+12。
+|benefit=选择一种你具有[[武器专攻]]的武器，当你用其攻击一个有几率免受重击或偷袭伤害的敌人时(如来自防具的护命附魔)，降低其25%的几率。对于通常免疫重击和偷袭的敌人，改为有75%的几率免受重击或偷袭，只受到普通伤害。
+|special=你可以多次选择这个专长。每次选择本专长，它将应用于不同的武器。
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh03ef2e8763.htm
+}}

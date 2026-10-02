@@ -1,0 +1,11 @@
+{{Feat
+|name=侏儒武器专攻
+|english_name=Gnome Weapon Focus
+|categories=战斗
+|description=你对传统[[侏儒]]武器进行的延伸训练给予你优势。
+|prerequisites=基本攻击加值+1，[[侏儒]]，擅长所有军用武器。
+|benefit=在使用侏儒武器（任何冠以“侏儒”之名的武器）时，你的攻击检定获得+1加值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

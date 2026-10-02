@@ -1,0 +1,7 @@
+{{物品
+|name=锻炉
+|english_name=The Forge
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。抽卡者可以选择其所有的一件武器或防具，然后重塑成价值不高于原有物品的另一件武器或防具。比如选择+3[[长剑]](18315 gp)可以重塑成+1守序[[弯刀]]（18315 gp）或+3[[全身甲]]（12300 gp）。重塑的差价被浪费。
+}}

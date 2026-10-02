@@ -1,0 +1,21 @@
+{{魔法物品
+|name=火炎法杖
+|english_name=Staff of Fire
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Fire
+|cat=法杖
+|aura=中等塑能系
+|cl=8
+|slot=无
+|price=18,950 gp
+|weight=5磅
+|description=这根法杖由青铜木制成，以黄铜箍饰。
+
+该法杖可以使用以下法术：
+
+* [[燃烧之手]]（1 发）
+* [[火球术]]（2 发）
+* [[火墙术]]（3 发）
+|req=[[制造法杖]]、[[燃烧之手]]、[[火球术]]、[[火墙术]]
+|cost=9,475 gp
+|source=核心规则书、极限宝具
+}}

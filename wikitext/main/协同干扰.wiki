@@ -1,0 +1,10 @@
+{{Feat
+|name=协同干扰
+|english_name=Coordinated Distraction
+|categories=战斗;团队
+|description=当协同作战时，你能让敌人难以使用他们的魔法能力。
+|benefit=当你和至少一名拥有此专长的盟友威胁到同一个敌人时，每有一个拥有此专长且正在威胁该敌人的角色，敌人在进行防御性施法时对抗的DC就+2。如果你或你的盟友因任何原因无法对目标进行[[借机攻击]]，便不能应用这个专长效果。
+|source=DHH
+|source_name=恶魔猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh90d9fee6da.htm
+}}

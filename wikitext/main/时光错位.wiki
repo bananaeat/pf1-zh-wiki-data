@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Return of the Runelords Players Guide pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=时光错位
+|english_name=Time Lost
+|type=战役
+|pfs=否
+|description=你一直觉得自己与出生的时代格格不入。也许你觉得自己生得太晚，你和你的兴趣更适合过去的某个时代。也许你坚信自己生得太早，你真正的命运在遥远的未来。你可能饱受时间缺失之苦——短则数小时，长则数周甚至数月——对那段时间你毫无记忆。或者，你可能会短暂地看到朋友或敌人比他们实际年龄老得多或年轻得多的幻象。你早已习惯了这种奇怪的状况，但还没弄明白自己为何会受其困扰。GM会在符文领主回归的第三部冒险中获得关于此背景奇特本质的更多信息。
+
+你总能提前片刻知道何时该行动，你的[[先攻]]检定获得+2背景加值。每次冒险一次，你可以用一个直觉动作，借助你与时间之流的奇特联系，迫使GM重骰一次d20掷骰。你必须在GM掷出d20之后立即宣布使用此能力，但你可以在得知掷骰结果之后再作决定。
+|source_name=Return of the Runelords Players Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Time%20Lost
+}}

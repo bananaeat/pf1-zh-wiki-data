@@ -1,0 +1,15 @@
+{{Feat
+|name=兽人屠戮者
+|english_name=Orc Hewer
+|categories=战斗
+|description=你凶猛地砍杀敌人，尤其爱砍[[兽人]]。
+|prerequisites=力量13，[[顺势斩]]，[[地精切裂者]]，[[猛力攻击]]，矮人。
+|benefit=该专长如同[[地精切裂者]]一般作用，但是你的额外攻击能够用于攻击与你体型相同或更小的生物。此外，当你用这些攻击对抗类人生物（兽人）时，攻击检定获得+2环境加值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[巨人杀手(专长)]]（1 个条目）

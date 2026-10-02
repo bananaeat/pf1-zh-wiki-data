@@ -1,0 +1,12 @@
+{{Feat
+|name=误射友军
+|english_name=Friendly Fire
+|categories=背叛;团队
+|pfs=否
+|description=你的远程攻击出敌不意，而部分原因是你根本没打算避免误伤。
+|prerequisites=[[精准射击]]
+|benefit=你可以[[标准动作]]使用该专长，对至少与一位牺牲者交战的敌人进行远程攻击。这次射击完全放弃了防止误伤的打算而将牺牲者身陷险境，但也正因此出敌不意。若攻击从牺牲者占据的空间穿过，你的攻击骰获得＋2加值。若你射失则必须对牺牲者骰攻击骰（使用相同的调整值），可能导致命中牺牲者而非敌人。在攻击结算完毕后（无论是否命中任何人），原定目标的惊吓允许牺牲者进行[[借机攻击]]。
+|source=CoC
+|source_name=秽邪勇士
+|source_url=https://pf1chm.pages.dev/topics/zh45cf79b2ca.htm
+}}

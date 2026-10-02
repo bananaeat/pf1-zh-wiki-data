@@ -1,0 +1,12 @@
+{{Feat
+|name=机动攻击
+|english_name=Pack Attack
+|categories=战斗;团队
+|description=你擅长绕着敌人转。
+|prerequisites=基本攻击加值+1。
+|benefit=当你和拥有此专长的盟友邻接、且首次对一名对手发动近战攻击时，你可以通过[[直觉动作]]进行五尺快步，即便你这轮已经移动过位置。
+|normal=你只能在没有移动过的状况下使用五尺快步。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

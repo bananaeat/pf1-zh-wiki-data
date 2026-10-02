@@ -1,0 +1,17 @@
+<noinclude>{{速查导航|here=规则}}
+'''渡魂使亚种'''（Psychopomp）是一种怪物[[生物类型与怪物亚种#生物亚种|亚种]]。
+</noinclude><includeonly><div class="lang"><span id="渡魂使"></span><span id="渡魂使亚种"></span><div class="lang-h"><b>[[渡魂使亚种|渡魂使亚种]]</b><i>Psychopomp</i></div><div class="lang-d"></includeonly>
+渡魂使是原生于骨园的中立异界生物。除非生物条目另有说明，渡魂使拥有以下特性。
+
+* 60 尺黑暗视觉和昏暗视觉。
+* DR 5/{{材料|精金}}。
+* 免疫死亡效果、疾病和毒素。
+* 寒冷抗力 10 和电击抗力 10。
+* 渡魂使说深渊语、天界语和炼狱语。
+* '''灵魂触碰（Spirit Touch，Ex）'''：渡魂使的天生武器以及它持用的任何武器，都视为拥有[[武器附魔#幽冥 (Ghost Touch)|幽冥]]武器特殊能力。
+* '''灵魂感知（Spiritsense，Su）'''：渡魂使能察觉、定位并区分 60 尺内的活物和不死生物，如同拥有[[盲视(怪物能力)|盲视]]能力。这种感知无法侦测物体，但能让它注意到并非生物的活物。
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=MonsterSubtypes.aspx?ItemName=Psychopomp|2=Psychopomp}}
+
+[[分类:怪物亚种]]</noinclude>

@@ -1,0 +1,9 @@
+{{Trait
+|name=战法新奇
+|english_name=Unorthodox Strategy
+|type=派系
+|description=你的步法奇特，善于躲避敌人的攻击，在试图穿过敌人威胁区域所进行的特技技能检定中获得+2背景加值。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

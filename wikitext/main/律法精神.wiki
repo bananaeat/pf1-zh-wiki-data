@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Antihero's Handbook pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=律法精神
+|english_name=Spirit of the Law
+|type=战斗
+|description=你见过社会的规则在执行中被无休止地扭曲，因此对那些利用法律强加自身意志的人格外警惕。你对守序阵营的类人生物的攻击检定获得+1背景加值，并在对抗带有秩序描述符之效果的豁免检定上获得+2背景加值。
+|source_name=反英雄手册
+|source=A'sH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Spirit%20of%20the%20Law
+}}

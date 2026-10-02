@@ -1,0 +1,14 @@
+{{消歧义|破法者 (消歧义)}}
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[破法者 (神话)]]。</small></div>
+{{Feat
+|name=破法者
+|english_name=Spellbreaker
+|categories=战斗
+|description=当你威胁到敌人的施法者时，如果他们防御施法失败，你能够对他们进行攻击。
+|prerequisites=扰法者，战士10级。
+|benefit=在你威胁范围内防御施法检定失败的敌人会触发你的[[借机攻击]]。
+|normal=防御施法失败的敌人不会触发借机攻击。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

@@ -1,0 +1,19 @@
+{{Spell
+|name=造弹术
+|english_name=Fabricate bullets
+|school=变化系
+|levels=奥能师 1;术士 1;法师 1;红螳螂杀手 1
+|action=1轮
+|components=语言;姿势;材料（价值2GP的一磅铅或其他软金属）
+|range=接触
+|target=一磅软金属
+|duration=立即
+|save=无
+|sr=否
+|description=你将一磅重的铅转化为弹药。
+
+当你施放该法术时，要决定创造的弹丸种类：普通的[[投石索]]弹丸、火器弹头或火器散弹。
+
+这个法术能制造出两颗投石索弹丸，30颗火器子弹或10份小钢珠弹药。
+|source=极限战斗
+}}

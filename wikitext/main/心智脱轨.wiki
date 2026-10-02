@@ -1,0 +1,9 @@
+{{Feat
+|name=心智脱轨
+|english_name=Mental Derail
+|description=你的逻辑太过荒谬以至于令人的大脑出于自我保护而暂时关机。
+|prerequisites=地精
+|benefit=你可以以一个[[迅捷动作]]向一个敌人狂呼乱喊。选择一个能够听到你声音的目标，它必须通过一个意志豁免检定（DC=10+你等级的一半+你的魅力调整值），否则目标将会猝不及防且在攻击检定和基于力量或敏捷的技能检定中承受-2减值直到它的回合结束。无论豁免是否成功，该生物在24小时内不能再次成为该能力的目标。这是一个影响心灵效果。
+|source_name=格拉利昂的英雄
+|source_url=https://pf1chm.pages.dev/topics/zh040b2e617a.htm
+}}

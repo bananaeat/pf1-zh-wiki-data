@@ -1,0 +1,15 @@
+{{魔法物品
+|name=不稳定滑膛枪
+|english_name=Unstable Musket
+|aon=MagicCursedDisplay.aspx?ItemName=Unstable Musket
+|cat=诅咒物品
+|base=[[滑膛枪]]
+|enh=+1
+|aura=中等变化系
+|cl=6
+|slot=无
+|weight=9磅
+|description=这件物品看起来是一把普通的+1[[滑膛枪]]，但哑火范围为1–5。任何效应或能力都无法降低这一哑火范围。这把滑膛枪必须用作其主人的主要远程武器，只有在主人受到[[移除诅咒]]法术或类似效应影响之后才能丢弃。
+|req=+1[[滑膛枪]]
+|source=极限宝具
+}}

@@ -1,0 +1,40 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #9: Escape from Old Korvosa
+|authors=Richard Pett
+|pages=96
+}}
+
+{{书页/简介|head=他们就在我们中间！|1=
+「腥红王座的诅咒」继续，恐惧在旧科瓦萨的街头游荡！无序、瘟疫，加上一位冷酷女王的敕令，把这座岛上的社区搅成一团混乱。被政府抛弃、与城市其余部分隔绝的数百名不幸者，无助地面对崛起的犯罪军阀，后者个个都想把科瓦萨的一块地盘据为己有。然而，在帮派混战与阴险权谋者造成的动荡之中，藏着一个也许能让这座饱受困扰的城市重归理智的人。可他为何如此长久地保持沉默？他对这位新女王的什么秘密有所隐瞒？又有何等邪恶的力量在暗处滋长，准备把利爪探向旧科瓦萨的心脏？
+
+本册《冒险之路》内容包括：
+
+* Richard Pett 的冒险《逃离旧科瓦萨》（"Escape from Old Korvosa"），适用于 8 级角色。
+* James Jacobs 与 Nicolas Logue 带你一窥刺客的世界，以及格拉利昂无与伦比的杀手——[[红螳螂]]——那条浸透鲜血的道路。
+* Owen K.C. Stephens 讲述[[罗刹绪论|罗刹]]冷酷无情的操弄，以及这些扎根尘世的邪恶。
+* 在「探索者日志」的新篇中，Eando Kline 在贝尔克泽恩腹地发现，比兽人更可怕的东西还有很多，作者 Amber Scott。
+* Brian Cortijo、Joshua J. Frost、James Jacobs 与 Richard Pett 设计的五种新怪物。
+}}
+
+'''冒险之路9：逃离旧科瓦萨'''（''Pathfinder #9: Escape from Old Korvosa''）是[[冒险之路]]「腥红王座的诅咒」系列的第三章冒险，由 Richard Pett 撰写，配套文章出自 Brian Cortijo、Joshua J. Frost、James Jacobs、Nicolas Logue 和 Owen K.C. Stephens，小说出自 Amber Scott，于 2008 年 5 月 14 日发售。
+
+== 目录 ==
+本册《冒险之路》收录「腥红王座的诅咒」的第三部冒险，深入探讨格拉利昂的[[罗刹绪论|罗刹]]，并揭示世上最阴险的刺客网络之一——[[红螳螂]]的详情。当然，书里还有探索者 Eando Kline 旅程的下一篇，以及一条足以令任何玩家心惊的怪物图鉴条目。
+{{书页/目录|1=
+前言 @ 4
+逃离旧科瓦萨 @ 6
+地缚邪魔之面 @ 60
+[[红螳螂]] @ 58
+探索者日志 @ 78
+怪物图鉴 @ 78
+预设角色 @ 90
+}}
+
+{{书页尾
+|pfw=Escape from Old Korvosa
+|releases=PDF¦PZO9009E¦2008-05¦；Softcover¦PZO9009¦2008-05¦
+}}
+
+[[分类:书目]]

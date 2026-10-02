@@ -1,0 +1,11 @@
+{{Feat
+|name=背靠背
+|english_name=Back to Back
+|categories=团队
+|description=你的盟友如同你的双眼，你的双眼也能替盟友提供警戒。
+|prerequisites=察觉3级。
+|benefit=当你和有此专长的队友邻接且被[[夹击]]，你面对来自夹击者的攻击时AC得到+2环境加值。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

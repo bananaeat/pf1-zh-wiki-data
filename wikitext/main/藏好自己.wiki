@@ -1,0 +1,11 @@
+{{Trait
+|name=藏好自己
+|english_name=Carefully Hidden
+|type=种族
+|prerequisites=[[人类]]（柯莱士人）
+|description=当代塔尔多人对柯莱士人并不友好。你生来就是一个不受欢迎民族的其中一员，这种生活让你在躲避侦察上获得了不寻常的本事。
+
+你在意志豁免上获得+1背景加值，在对抗预言效果的豁免检定上获得+2背景加值。
+|source_name=塔尔多，荣光荡漾之地
+|source_url=https://pf1chm.pages.dev/topics/page_938.html
+}}

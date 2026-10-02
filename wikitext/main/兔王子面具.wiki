@@ -1,0 +1,15 @@
+{{魔法物品
+|name=兔王子面具
+|english_name=Mask of the Rabbit Prince
+|aon=MagicWondrousDisplay.aspx?FinalName=Mask of the Rabbit Prince
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=头部
+|price=12,000 gp
+|weight=1/2磅
+|description=这副色彩斑斓的面具让人联想到哈罗国度的[[兔王子]]。它遮住穿戴者的上半张脸，刻画出一只神情坚决的兔子，还带着一对耷拉着的毡制大耳朵。虽然这副面具的构造看起来很脆弱，但它其实和铁一样坚硬（硬度10）。兔王子面具赋予穿戴者鲁莽的豪气，使穿戴者在先攻检定和对抗恐惧效果的豁免检定上获得+2士气加值。此外，穿戴者在尝试用特技检定进行跳跃时，总是视为已助跑。
+|req=[[制造奇物]]、[[跳跃术]]、[[移除恐惧]]
+|cost=6,000 gp
+|source=位面冒险
+}}

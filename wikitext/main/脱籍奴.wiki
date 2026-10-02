@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Fire Player's Guide pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=脱籍奴
+|english_name=Freed Slave (Katapesh)
+|type=地区
+|prerequisites=卡塔佩什
+|description=你童年的相当一部分时光是在奴隶身份中度过的，但几年前，一位仁慈的主人在你前任主人去世后从拍卖会上买下了你，并将你从奴役中解放。尽管艰难童年的记忆仍然萦绕着你，但艰苦的生活确实磨炼了你。你的强韧豁免检定获得+1背景加值。
+|source_name=烈焰传承玩家手册
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Freed%20Slave%20%28Katapesh%29
+}}

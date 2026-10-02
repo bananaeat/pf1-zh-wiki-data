@@ -1,0 +1,10 @@
+{{Trait
+|name=迷信
+|english_name=Superstitious (Drawback)
+|type=缺陷
+|pfs=否
+|description=你成长的环境中所有人都觉得那些超自然力量都是危险的，不论源头。你甚至不能使你自己相信那些对你有益的法术。
+|benefit=每当你被一种无害的法术影响，有50%的机率你必须掷出豁免检定来抵抗这种效果，即使这是一种有益效果。你自己对自己施放的增益法术不受此限制。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

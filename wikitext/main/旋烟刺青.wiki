@@ -1,0 +1,14 @@
+{{魔法物品
+|name=旋烟刺青
+|english_name=Swirling Smoke Tattoo
+|aon=MagicTattooDisplay.aspx?FinalName=Swirling Smoke Tattoo
+|cat=魔法纹身
+|aura=微弱惑控系
+|cl=5
+|slot=无
+|price=12,500 gp
+|description=这个简单的刺青会在持有者的四肢周围持续散发一团无味的阴影状烟雾，持有者可以随念头操控这些烟雾，把自己藏在烟幕之后。当持有者被近战或远程攻击击中，或在反射豁免中失败时，若刺青可见，穿戴者可以用一个[[直觉动作]]激活刺青，用雾气裹住自己。这会使针对持有者的攻击有20%的失手率。若是反射豁免失败，则可以重掷这次反射豁免并获得+4加值。持有者每天可以使用此能力3次。
+|req=[[绘制魔法刺青]]、[[朦胧术]]
+|cost=6,250 gp
+|source=阴影血脉
+}}

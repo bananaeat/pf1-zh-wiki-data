@@ -1,0 +1,9 @@
+<noinclude>{{速查导航|here=规则}}
+'''魅影亚种'''（Phantom）是一种怪物[[生物类型与怪物亚种#生物亚种|亚种]]。
+</noinclude><includeonly><div class="lang"><span id="魅影"></span><span id="魅影亚种"></span><div class="lang-h"><b>[[魅影亚种|魅影亚种]]</b><i>Phantom</i></div><div class="lang-d"></includeonly>
+该亚种适用于被称为魅影的失落灵魂，这些异界生物拼命想要避免沦为不死生物的命运。
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=MonsterSubtypes.aspx?ItemName=Phantom|2=Phantom}}
+
+[[分类:怪物亚种]]</noinclude>

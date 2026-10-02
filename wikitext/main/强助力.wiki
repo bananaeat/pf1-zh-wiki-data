@@ -1,0 +1,9 @@
+{{Trait
+|name=强助力
+|english_name=Insistent Benefactor
+|type=魔法
+|description=探索者们的来源五花八门，以至于有些人并不知道什么对他们来说是好的；而你，却擅长让盟友接受你的魔法援助。当你施放一个无害法术时，你在克服[[特殊能力#法术抗力|法术抗力]]的施法者等级检定上获得+2背景加值，且该法术的豁免DC（如果有）提高2。
+|source_name=魔法背景
+|source=PSP
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

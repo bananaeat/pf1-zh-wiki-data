@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 198），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=驭虫者
+|english_name=Vermin Driver
+|type=种族
+|prerequisites=灰矮人
+|description=你学过奴役虫类的精妙魔法，可以用[[驯养动物]]技能训练无心智的虫类，如同它们是智力值为1的动物。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Vermin%20Driver
+}}

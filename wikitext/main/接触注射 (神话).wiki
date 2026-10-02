@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[接触注射]] 的神话版本。</small></div>
+{{Spell
+|name=接触注射
+|english_name=Touch Injection
+|school=变化系
+|levels=炼金术师 2;调查员 2;奥能师 3;异能者 3;术士 3;法师 3;红螳螂杀手 3
+|description=当你使用该法术将毒素或药剂注射给其他生物时，将你的阶层的一半加到上述物品的DC上。如果你使用该法术所注射的物质能够赋予技能加值，那么将你的阶层加到这个技能加值上。
+|source=神话冒险
+}}
+[[分类:神话法术]]

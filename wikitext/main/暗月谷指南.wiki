@@ -1,0 +1,34 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Guide to Darkmoon Vale
+|authors=Mike McArtor
+|pages=64
+}}
+
+{{书页/简介|head=哀哭吧，光明已逝|1=
+险恶莫测的暗月谷是文明边缘一片有精类出没的荒野，这里最凶残的掠食者与最污秽的威胁，正是生活在此处的人类——以及在许多情况下伪装成人类的那些东西。
+
+在《暗月谷指南》中，你可以详尽探索这片骇人之地，发掘古老的矮人地城、一个邪恶德鲁伊密会，以及出没于暗月谷与阿瑟菲尔森林（Arthfell Forest）的可怖狼人的秘密。此外，这本补充资料还揭露了臭名昭著的猎鹰谷（Falcon's Hollow）与暴虐的恶霸 Thuldrin Kreed、不择手段的伐木联合会（Lumber Consortium）、共和制安多安的最后一位男爵、令人畏惧的狗头人之王（Kobold King），以及仍在隆隆作响的卓斯卡岩山（Droskar's Crag）的秘密。
+
+暗月谷是冒险的绝佳去处，它的秘密对玩家和 GM 一视同仁地敞开！
+}}
+
+'''暗月谷指南'''（''Guide to Darkmoon Vale''）是 Mike McArtor 撰写的《探索者编年史》（Pathfinder Chronicles）资料书，于 2008 年 7 月发售。
+
+== 目录 ==
+{{书页/目录|1=
+概览 @ 2
+第1章：荒野 @ 6
+第2章：文明 @ 28
+第3章：历史 @ 44
+第4章：秘密 @ 48
+附录 @ 60
+}}
+
+{{书页尾
+|pfw=Guide to Darkmoon Vale
+|releases=PDF¦PZO1108E¦2008-07¦；Softcover¦PZO1108¦2008-07¦
+}}
+
+[[分类:书目]]

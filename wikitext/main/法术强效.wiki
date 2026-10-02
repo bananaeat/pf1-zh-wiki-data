@@ -1,0 +1,16 @@
+{{Feat
+|name=法术强效
+|english_name=Empower Spell
+|categories=超魔
+|description=你可以增强法术的力量，使其造成更大的伤害。
+|benefit=搭配此专长时，法术效果中的所有可变量值皆增加一半，包括这些骰子上的加值。但本专长不影响豁免检定与对抗检定，对没有变量的法术也无影响。强效的法术须占用高于原本2个环位的法术位。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''制造需求'''：[[余烬王之杖]]（1 件物品）
+
+{{FAQ|v5748eaic9o71}}

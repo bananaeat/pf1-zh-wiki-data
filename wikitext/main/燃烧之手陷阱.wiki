@@ -1,0 +1,13 @@
+{{危害
+|name=燃烧之手陷阱
+|english_name=Burning Hands Trap
+|kind=陷阱
+|trap_type=魔法
+|cr=2
+|perception=DC 26
+|disable=DC 26
+|trigger=接近型（警报术）
+|reset=无
+|effect=法术效果（[[燃烧之手]]，2d4火焰伤害，反射 DC 11 减半）；复数目标（15尺锥形区域全体）
+|source=核心规则书
+}}

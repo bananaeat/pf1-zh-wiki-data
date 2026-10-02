@@ -1,0 +1,15 @@
+{{魔法物品
+|name=天变球
+|english_name=Orb of Storms
+|aon=MagicWondrousDisplay.aspx?FinalName=Orb of Storms
+|cat=奇物
+|aura=强烈（学派不定）
+|cl=18
+|slot=无
+|price=48,000 gp
+|weight=6磅
+|description=这个玻璃球直径8英寸。持有者可以召唤各种天气，甚至包括具有超自然破坏力的风暴。她可以每天一次借助此球使用[[操控天气]]法术，每月一次召唤[[复仇风暴]]。球的持有者持续受到[[忍受环境]]效果的保护。
+|req=[[制造奇物]]、[[操控天气]]、[[忍受环境]]、[[复仇风暴]]
+|cost=24,000 gp
+|source=核心规则书、极限宝具
+}}

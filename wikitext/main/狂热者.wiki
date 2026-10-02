@@ -1,0 +1,10 @@
+{{消歧义|狂热者(侠客变体职业)}}
+{{Trait
+|name=狂热者
+|english_name=Zealot
+|type=信念
+|prerequisites=[[侏儒]]
+|description=你对自己的信仰远超虔诚，更是几近痴迷地恪守教条。这份狂热就像船锚一样使你免遭[[脱色症]]吞噬。你在知识(宗教)检定上获得+1背景加值，并且将其视为你的[[本职技能]]。你的阵营必须和你的神完全一致。只要你严格遵守你信仰的原则(由GM决定),你就免疫脱色症的影响。
+|source_name=格拉里昂的侏儒
+|source_url=https://pf1chm.pages.dev/topics/zh5166336575.htm
+}}

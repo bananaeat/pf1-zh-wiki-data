@@ -1,0 +1,10 @@
+<noinclude>{{枪手导航}}
+'''疯狂机敏'''（Frantically Nimble, Ex）是[[枪手]]的[[勇气挑战|勇气挑战]]。
+
+</noinclude>当该勇气挑战生效时，你在AC上获得+2闪避加值。如果任何敌人连续3次对你做近战或远程攻击失手，你就能回复1点勇毅或时髦值。这些攻击并不需要来自于同一个敌人。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_123.html 原文]），按 AoN 核对过。全部勇气挑战见 [[勇气挑战]]。
+
+[[分类:勇气挑战]]
+
+{{职业}}</noinclude>

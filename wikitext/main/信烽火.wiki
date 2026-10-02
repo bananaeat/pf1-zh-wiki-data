@@ -1,0 +1,9 @@
+{{Trait
+|name=信烽火
+|english_name=Beacon of Faith
+|type=信念
+|description=你的信仰之力清楚而坚定。每日1次，在使用领域或[[裁决域]]的[[神授力量]]、或施展一个[[领域法术]]时，你能够以一个[[自由动作]]令自己的施法者等级视为高于实际2级。
+|source_name=信念背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

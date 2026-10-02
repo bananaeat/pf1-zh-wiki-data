@@ -1,0 +1,16 @@
+{{武器
+|name=开锋战斗剑鞘
+|english_name=Combat scabbard, sharpened
+|category=武器
+|prof=军用
+|wcat=单手
+|price=10 gp
+|weight=1磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×2
+|type=挥砍
+|special=见正文
+|description=这种战斗剑鞘的外缘有锋利的刃口，可以直接当作武器使用（另见第6页）。
+|source=冒险者的军械库
+}}

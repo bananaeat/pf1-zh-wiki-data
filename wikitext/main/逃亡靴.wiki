@@ -1,0 +1,15 @@
+{{魔法物品
+|name=逃亡靴
+|english_name=Getaway Boots
+|aon=MagicWondrousDisplay.aspx?FinalName=Getaway Boots
+|cat=奇物
+|aura=中等咒法系
+|cl=11
+|slot=脚部
+|price=30,000 gp
+|weight=1磅
+|description=这双不起眼的靴子可以每天一次与穿戴者所站立的地点调谐。靴子与某个地点调谐后，穿戴者每天一次可以以一个[[整轮动作]]，连同自己穿戴和携带的一切物品，传送回调谐的地点，效果如同[[回城术]]，只是即使盟友在靴子与该地点调谐时位于该区域内，激活靴子时也不会传送任何盟友。靴子一旦与某个地点调谐，就会一直保持与该地点的调谐，直到被调谐到新的地点为止。
+|req=[[制造奇物]]、[[回城术]]
+|cost=15,000 gp
+|source=极限宝具
+}}

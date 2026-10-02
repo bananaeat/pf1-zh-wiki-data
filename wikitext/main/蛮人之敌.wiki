@@ -1,0 +1,9 @@
+{{Trait
+|name=蛮人之敌
+|english_name=Savage Breaker
+|type=地区
+|prerequisites=瓦瑞西亚-科瓦萨
+|description=你公开蔑视粗野的休盎提人及其落后的习俗。你在对木棒、地震锤、克拉尔盾、[[皮甲]]、原始盔甲和武器(参见《[[极限战斗]]》)以及任何GM认为是“野蛮人制造”的装备进行[[击破]]战技检定时，获得+2背景加值。
+|source_name=瓦瑞西亚，传说诞生之地
+|source_url=https://pf1chm.pages.dev/topics/zh1d5e5ac9bb.htm
+}}

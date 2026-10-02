@@ -1,0 +1,17 @@
+{{武器
+|name=矮人巨人杀手
+|english_name=Giant-sticker, dwarven
+|category=武器
+|prof=异种
+|wcat=双手
+|price=25 gp
+|weight=12磅
+|dmg_s=1d8
+|dmg_m=2d6
+|crit=×3
+|type=穿刺或挥砍
+|special=迎击，长武
+|groups=长柄
+|description=这种重刃矛是专门为对付巨人而设计的，毕竟巨人攻击距离长，又能承受大量伤害。
+|source=缘界英雄
+}}

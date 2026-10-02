@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Rise of the Runelords Anniversary Edition Player's Guide pg. 4），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=猎怪人
+|english_name=Monster Hunter
+|type=战役
+|pfs=否
+|description=也许你是为了寻找砂点魔鬼而来到瓦瑞西亚湾，也许你是循着渔夫们关于老凶颚的传说而来——无论如何，你穿越瓦瑞西亚，一路追猎著名的怪物。虽然它们至今都从你手中逃脱，但你已来到砂点镇进行研究和补给，之后再返回荒野。由于你的训练，你对异怪和魔法兽的攻击检定和武器伤害检定获得+1背景加值。
+|source_name=Rise of the Runelords Anniversary Edition Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Monster%20Hunter
+}}

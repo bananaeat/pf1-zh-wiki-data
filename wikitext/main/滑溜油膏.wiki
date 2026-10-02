@@ -1,0 +1,14 @@
+{{魔法物品
+|name=滑溜油膏
+|english_name=Balm of Impish Grace
+|aon=MagicWondrousDisplay.aspx?FinalName=Balm of Impish Grace
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=无
+|price=7,500 gp
+|description=这种药效强劲的红色油膏用力揉进皮肤后，能增强超小型或更小生物充分利用其体型与灵活性的能力。涂抹一份油膏是一个引发[[借机攻击]]的[[标准动作]]（类似涂抹油剂）。处于该油膏效果下的生物，在穿过受威胁的格子，或进入体型比它大的生物所占据的格子时，不再引发借机攻击。油膏的效果持续5分钟后消退。一瓶新制成的油膏含有5份。
+|req=[[制造奇物]]、[[优雅步伐]]
+|cost=3,750 gp
+|source=极限宝具
+}}

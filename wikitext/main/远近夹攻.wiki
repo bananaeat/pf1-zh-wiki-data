@@ -1,0 +1,10 @@
+{{Feat
+|name=远近夹攻
+|english_name=Opening Volley
+|categories=战斗
+|description=你用远程武器封锁敌人的活动空间，使他无从闪避你的近战攻击。
+|benefit=每当你对一个敌人造成远程伤害，你对该敌人进行的下一次近战攻击检定将会有+4环境加值。这次近战攻击必须在你下一轮结束前进行。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

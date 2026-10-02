@@ -1,0 +1,15 @@
+{{魔法物品
+|name=娜迦亮鳞膏
+|english_name=Nagaji Scale Polish
+|aon=MagicWondrousDisplay.aspx?FinalName=Nagaji Scale Polish
+|cat=奇物
+|aura=中等塑能系
+|cl=7
+|slot=无
+|price=1,400 gp
+|weight=1/2磅
+|description=这个小泥罐中装着闪亮的软膏，它的功能如同[[法术灌输]]，不过法术效果并不仅限于牧师法术，任何施法者都可以对着罐内施法。生物能够将软膏涂抹在它的鳞片上（标准动作），以此获得施放被灌输的法术的能力（假设它拥有足够的生命骰以及必要的属性值）。只有爬虫类生物（比如龙或者属于爬虫子类的类人生物）能够使用亮鳞膏施放法术。
+|req=[[制造奇物]]、[[法术灌输]]或[[强记术]]
+|cost=700 gp
+|source=进阶种族手册
+}}

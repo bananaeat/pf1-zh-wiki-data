@@ -1,0 +1,11 @@
+{{Feat
+|name=精通精准打击
+|english_name=Improved Precise Strike
+|categories=战斗;团队
+|description=（团队）你对于时间的精淮把控和娴熟的团队合作让你能够痛击敌人的伤处。
+|prerequisites=敏捷13，[[精准打击]]APG，基本攻击加值+4
+|benefit=当你通过[[精准打击]]造成额外伤害时，你会同时造成1点流血伤害。这个流血伤害不会与自身叠加。
+|source=LotFW
+|source_name=第一世界的遗产
+|source_url=https://pf1chm.pages.dev/topics/page_1078.html
+}}

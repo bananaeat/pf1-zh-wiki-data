@@ -1,0 +1,9 @@
+{{装备
+|name=苦艾酒（瓶）
+|english_name=Absinthe (bottle)
+|cat=饮食
+|price=30 gp
+|weight=1-1/2磅
+|description=这种碧绿色的烈酒是用苦艾蒿酿制成的。传言说饮用它能提振人的灵感和创造力，所以很多艺术家和怪人都对它推崇备至。
+|source=极限宝具
+}}

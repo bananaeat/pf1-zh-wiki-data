@@ -1,0 +1,13 @@
+{{Feat
+|name=塑肉者
+|english_name=Fleshwarper
+|categories=造物
+|pfs=否
+|description=你可以通过一个可憎的炼金术工序创造生命。
+|prerequisites=[[工艺]]（炼金术）5级，[[医疗]]5级，邪恶阵营
+|benefit=你能制造塑肉生物（译注详见[[怪物图鉴4]]，其中《[[内海魔法]]》中将 Fleshwarped 翻译为[[塑肉仪式|塑肉]]模板）和血肉移植物——全部细节见 [[肉体改制]]。新创造的塑肉生物拥有其生命骰的平均生命值。
+|source=HA
+|source_name=惧怖冒险
+}}
+
+{{FAQ|v5748eaic9v0x}}

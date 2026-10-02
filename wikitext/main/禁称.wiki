@@ -1,0 +1,16 @@
+{{Spell
+|name=禁称
+|english_name=Unspoken name
+|school=预言系
+|levels=奥能师 3;牧师 3;审判者 3;先知 3;术士 3;战斗祭司 3;法师 3
+|action=1分钟
+|components=语言;姿势
+|range=个人
+|target=你
+|duration=24小时或直到发散
+|sr=否
+|description=这个法术深受那些想掌握有谁在关注自己的人所珍视。据说阿拉兹妮用这个法术来辨认出那些胆敢称她为「娼妇皇后」的信徒，好将他们立即逐出。施展此法术时，指定一个字、词组或名字。若你1英里内有生物用那个字、词组或名字来指称你，你会立即得知该生物的名字、外貌与所在位置。这会使此法术发散。
+|source=冒险之路140：罗斯拉宝匣悼词
+}}
+
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/zhab9cfb6850.htm 原文]），按 AoN 核对过。</small>

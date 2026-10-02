@@ -1,0 +1,11 @@
+{{Feat
+|name=蛛行攀爬
+|english_name=Spider Climber
+|pfs=否
+|description=你行走在只有蛛类敢于攀爬的地带。
+|prerequisites=角色等级3，卓尔。
+|benefit=你能以类法术能力每天使用1次[[蛛行术]]，使用你的角色等级作为CL。此外，你在抵抗蜘蛛的“蛛网”[[特殊攻击]]与[[蛛网术]]及类似法术（例如[[蛛网之云]]）时豁免+4。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

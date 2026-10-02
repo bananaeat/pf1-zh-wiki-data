@@ -1,0 +1,13 @@
+{{魔法物品
+|name=完美知识纺锤
+|english_name=Spindle of Perfect Knowledge
+|aon=MagicArtifactsDisplay.aspx?ItemName=Spindle of Perfect Knowledge
+|cat=神器
+|tier=次级神器
+|aura=强烈变化系
+|cl=20
+|slot=无
+|description=完美知识纺锤是一颗硕大、明亮而无瑕的马眼形切割钻石[[艾恩石]]，大小如同[[半身人]]的拳头。即使没有魔力，这块宝石本身就是一件珍宝，但它同时也是一颗强大的艾恩石。完美知识纺锤的功能如同+4[[超凡心灵头带]]，并使穿戴者在两项随机的知识技能上各获得5级技能等级。穿戴者能够沟通并理解各种语言，如同使用了[[通晓语言]]和[[巧言术]]，并拥有范围100尺的[[心灵感应]]。
+|destruction=如果完美知识纺锤被一个无心智生物佩戴整整一年，它就会被毁灭。
+|source=进阶玩家指南、极限宝具
+}}

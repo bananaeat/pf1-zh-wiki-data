@@ -1,0 +1,45 @@
+{{#addbodyclass:pf-rules}}{{速查导航|here=规则}}{{核心规则导航|here=状态}}
+如果一个角色受到多种状态影响，各状态的效果将全部产生作用。如果某些状态不能兼有，最严重的会生效。
+
+<div class="cond-grid">
+<div class="cond"><div class="cn">[[流血|流血]]</div><div class="cd">受到[[流血伤害]]的生物在其行动轮开始时受到列出的伤害值。</div></div>
+<div class="cond"><div class="cn">[[目眩|目眩]]</div><div class="cd">角色因为眼睛受到严重刺激而无法很好地视物。</div></div>
+<div class="cond"><div class="cn">[[目盲|目盲]]</div><div class="cd">生物无法视物。它的[[AC]]-2，且AC失去[[敏捷]]加值（若有加值），多数基于[[力量]]和[[敏捷]]的[[技能]]检定和[[察觉]]对抗检定受到-4减值。</div></div>
+<div class="cond"><div class="cn">[[耳聋|耳聋]]</div><div class="cd">耳聋的角色无法用耳听物。</div></div>
+<div class="cond"><div class="cn">[[破损|破损]]</div><div class="cd">受到超过其总HP一半的伤害的物品将陷入破损状态，意味着它们原先的效用将会降低。</div></div>
+<div class="cond"><div class="cn">[[困惑|困惑]]</div><div class="cd">困惑状态下的生物由于心智混乱而无法正常行动。</div></div>
+<div class="cond"><div class="cn">[[晕眩|晕眩]]</div><div class="cd">角色无法正常行动。</div></div>
+<div class="cond"><div class="cn">[[稳定|稳定]]</div><div class="cd">曾处于濒死状态但目前已经不再继续每轮损失HP，同时HP依然为负值的角色即为稳定状态。</div></div>
+<div class="cond"><div class="cn">[[瘫痪|瘫痪]]</div><div class="cd">角色的HP为0，或HP为负值但已稳定并神智清醒，这些情况为瘫痪状态。</div></div>
+<div class="cond"><div class="cn">[[恍惚|恍惚]]</div><div class="cd">恍惚的角色每轮只能进行一个[[移动动作]]或一个[[标准动作]]（不能两者都做，也不能进行[[整轮动作]]）。</div></div>
+<div class="cond"><div class="cn">[[昏迷|昏迷]]</div><div class="cd">昏迷的生物被击倒并陷入无助状态。</div></div>
+<div class="cond"><div class="cn">[[濒死|濒死]]</div><div class="cd">濒死的角色陷入昏迷并接近死亡。</div></div>
+<div class="cond"><div class="cn">[[死亡|死亡]]</div><div class="cd">角色的HP被降至其[[体质]]属性值的负值，或[[体质]]被降至0点，或被法术及效果彻底杀死。</div></div>
+<div class="cond"><div class="cn">[[能量吸取|能量吸取]]</div><div class="cd">角色得到一个或多个[[负向等级]]，这些[[负向等级]]可能是永久的。</div></div>
+<div class="cond"><div class="cn">[[纠缠|纠缠]]</div><div class="cd">角色被缠绕住。被纠缠会使移动受到限制，但除非被绑在固定的物体上、或被相反的力道拉住，否则移动不会被完全阻止。</div></div>
+<div class="cond"><div class="cn">[[疲乏|疲乏]]</div><div class="cd">疲乏的角色无法[[奔跑]]或[[冲锋]]，并且[[力量]]和[[敏捷]]-2。</div></div>
+<div class="cond"><div class="cn">[[力竭|力竭]]</div><div class="cd">[[力竭]]的角色以半速移动，无法[[奔跑]]或[[冲锋]]，并且[[力量]]和[[敏捷]]-6。</div></div>
+<div class="cond"><div class="cn">[[迷魂|迷魂]]</div><div class="cd">处在迷魂状态的角色被超自然能力或法术效果弄得神志模糊。</div></div>
+<div class="cond"><div class="cn">[[措手不及|措手不及]]</div><div class="cd">战斗中还未行动过的角色处于措手不及，他无法正常的对当前情况作出反应。</div></div>
+<div class="cond"><div class="cn">[[被擒抱|被擒抱]]</div><div class="cd">被擒抱的生物被其他生物、陷阱或某些效果所束缚住，无法移动且[[敏捷]]-4。</div></div>
+<div class="cond"><div class="cn">[[压制|压制]]</div><div class="cd">被压制的生物被紧紧束缚住，只能进行少量动作。</div></div>
+<div class="cond"><div class="cn">[[无助|无助]]</div><div class="cd">被麻痹、定身、<span style="color:red">束缚*</span>、睡眠、昏迷、或其它完全暴露于敌手掌控之中的角色即为无助的角色。</div></div>
+<div class="cond"><div class="cn">[[虚体|虚体]]</div><div class="cd">处于[[虚体]]状态的生物没有肉体。</div></div>
+<div class="cond"><div class="cn">[[隐形|隐形]]</div><div class="cd">[[隐形]]生物无法被视力探察。</div></div>
+<div class="cond"><div class="cn">[[战栗|战栗]]</div><div class="cd">战栗的角色的所有攻击检定、豁免检定、技能检定和属性检定-2。</div></div>
+<div class="cond"><div class="cn">[[惊惧|惊惧]]</div><div class="cd">惊惧的生物会尽力逃离令其产生恐惧的源头。</div></div>
+<div class="cond"><div class="cn">[[恐慌|恐慌]]</div><div class="cd">恐慌的生物会扔掉任何手持的东西，并以最高速度尽力逃离恐惧源头，同样也会避开任何其它遭遇的危险，但路线随机。</div></div>
+<div class="cond"><div class="cn">[[畏缩|畏缩]]</div><div class="cd">角色被吓住以至于无法进行动作。</div></div>
+<div class="cond"><div class="cn">[[麻痹|麻痹]]</div><div class="cd">被麻痹的角色被定在原地不能移动或做其他行动。</div></div>
+<div class="cond"><div class="cn">[[石化|石化]]</div><div class="cd">被石化的角色变为石头并视为昏迷。</div></div>
+<div class="cond"><div class="cn">[[俯卧|俯卧]]</div><div class="cd">角色卧倒在地上。俯卧的进攻者的近战攻击检定-4，并且不能使用远程武器（除了弩或火器）。</div></div>
+<div class="cond"><div class="cn">[[恶心|恶心]]</div><div class="cd">角色的所有攻击检定、武器伤害检定、豁免检定、技能检定和属性检定-2。</div></div>
+<div class="cond"><div class="cn">[[反胃|反胃]]</div><div class="cd">[[反胃]]状态下的生物遭受强烈的胃部痛苦。</div></div>
+<div class="cond"><div class="cn">[[震慑|震慑]]</div><div class="cd">被震慑的角色丢下手上的所有东西，无法行动，[[AC]]-2，且AC失去[[敏捷]]加值（若有加值）。</div></div>
+</div>
+
+每个状态的完整规则见各自的条目页。
+
+{{AoN原文|413|Conditions}}
+
+[[分类:状态]]

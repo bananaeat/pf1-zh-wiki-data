@@ -1,0 +1,11 @@
+{{Feat
+|name=以身作则
+|english_name=Lead by Example
+|categories=战斗
+|description=你自年少时起就身处重要地位，其他人自然而然会以你为榜样。
+|prerequisites=[[魅力]]15、半兽人。
+|benefit=每当你在战斗中确认一次重击时，30尺范围内的所有盟友在接下来的一轮中攻击检定+2士气加值。
+|source=HftF
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/zh72cd9d7a9f.htm
+}}

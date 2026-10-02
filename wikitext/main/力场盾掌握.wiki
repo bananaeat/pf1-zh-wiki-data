@@ -1,0 +1,12 @@
+{{Feat
+|name=力场盾掌握
+|english_name=Force Shield Mastery
+|categories=物品掌握
+|pfs=否
+|description=你可以用防护系魔法物品创造力场屏障
+|prerequisites=使用魔法装置技能3级，基础强韧豁免加值+3
+|benefit=你可以引导一件制造时需求使用防护系法术，且该法术至少为一环的魔法物品中的能量，创造一个魔法效果。该效果如同[[护盾术]]一样运作，除了AC上的盾牌加值等同于你的基础强韧豁免加值的1/3（最小+1）。你每天可以使用该专长1次，基础强韧豁免加值达到+6，+9和+12时可以获得一次每日额外使用次数。
+|source=MTT、MagicTT
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_325.html
+}}

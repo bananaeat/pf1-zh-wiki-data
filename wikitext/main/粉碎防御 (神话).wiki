@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[粉碎防御]] 的神话版本。</small></div>
+{{Feat
+|name=粉碎防御
+|english_name=Shatter Defenses
+|categories=神话
+|description=你那炫目的攻击会让敌人不知所措、头晕目眩，因此而无法有效保护自己。
+|prerequisites=[[粉碎防御]]
+|benefit=被你用[[粉碎防御]]专长影响的生物对于所有攻击来说都处于[[措手不及]]状态，而不仅仅是你的攻击。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

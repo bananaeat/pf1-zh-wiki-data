@@ -1,0 +1,8 @@
+{{消歧义|痛殴(专长)}}
+{{物品
+|name=痛殴
+|english_name=The Beating
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。战斗中抽牌者一直被视为被[[夹击]]。攻击者获得+2攻击，并永远可以造成偷袭。
+}}

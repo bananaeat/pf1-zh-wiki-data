@@ -1,0 +1,10 @@
+{{Trait
+|name=黄金探测器
+|english_name=Goldsniffer
+|type=种族
+|aliases=淘金者
+|prerequisites=[[矮人]]
+|description=对于隐藏起来的财富你拥有敏锐的察觉能力。在与金属、珠宝和宝石相关的察觉检定上你获得+2背景加值。
+|source_name=格拉里昂的矮人
+|source_url=https://pf1chm.pages.dev/topics/page_1586.html
+}}

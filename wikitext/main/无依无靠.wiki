@@ -1,0 +1,9 @@
+{{Trait
+|name=无依无靠
+|english_name=Friendless
+|type=种族
+|prerequisites=[[魔裔]]
+|description=你已经习惯在没有他人帮助的情况下照顾自己了。你能够对自己使用医疗检定治疗重创、治疗中毒或治疗疾病。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_834.html
+}}

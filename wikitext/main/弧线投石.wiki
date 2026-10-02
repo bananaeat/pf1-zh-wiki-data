@@ -1,0 +1,12 @@
+{{Feat
+|name=弧线投石
+|english_name=Arc Slinger
+|categories=战斗
+|description=你用最能发挥其性能的方式旋转你的[[投石索]]。
+|prerequisites=[[近距射击]]，擅长投石索或半身人投石杖。
+|benefit=当你使用投石索或投石杖，你能减少2点由距离造成的远程攻击投骰减值。在投石武器的第一个射程增量里（投石索50尺，投石杖80尺），可以适用你的[[近距射击]]伤害加值。
+|stamina=在使用投石索或半身人投石杖时，你可以花费一点耐力，在头两个射程增量中获得近距射击的效果
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

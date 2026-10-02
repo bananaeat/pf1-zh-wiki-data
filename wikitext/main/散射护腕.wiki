@@ -1,0 +1,13 @@
+{{魔法物品
+|name=散射护腕
+|english_name=Scattershot Bracers
+|aon=MagicCursedDisplay.aspx?ItemName=Scattershot Bracers
+|cat=诅咒物品
+|aura=微弱变化系
+|cl=5
+|slot=腕部
+|weight=1磅
+|description=这对腕带在被戴上之前看起来像是神射护腕。穿戴者在所有远程攻击掷骰上承受-2减值。必须成功施展[[移除诅咒]]法术，才能取下这对护腕。
+|req=[[次等神射护腕]]或[[高等神射护腕]]
+|source=极限宝具
+}}

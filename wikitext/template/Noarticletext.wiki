@@ -1,0 +1,45 @@
+{{#switch:{{NAMESPACE}}
+|分类 = <div class="pull-left">
+{{#tag:inputbox|
+width=15
+type=create
+inline=true
+break=no
+buttonlabel=在分类下创建条目
+preload=Template:CreateNew/Category
+preloadparams[]={{BASEPAGENAME}}
+}}
+</div><div style="clear:both"></div>
+这是一个关于{{PAGENAME}}的分类页面。{{#if: {{{相关条目|}}}|关于'''{{{相关条目|}}}'''，请参阅[[{{{相关条目|}}}]]。|{{#ifexist:{{PAGENAME}}|关于这个词条本身，请参阅[[{{PAGENAME}}]]。}}}}
+|#default = 
+<h4>等待创建中</h4>
+'''{{{描述文字|七层地狱啊！{{SITENAME}}竟然还没有这个词条。}}}'''
+[{{fullurl:{{FULLPAGENAMEE}}|action=edit}} <span class="mw-ui-button">创建这个词条！</span>]
+}}
+<noinclude>
+{{优质模板|功能}}{{Documentation}}
+<templatedata>
+{
+	"params": {
+		"描述文字": {
+			"type": "content",
+			"description": "一句有趣的话，告诉读者这个条目还不存在。",
+			"default": "七层地狱啊！{{SITENAME}}竟然还没有这个词条。",
+			"autovalue": "七层地狱啊！{{SITENAME}}竟然还没有这个词条。",
+			"suggested": true
+		},
+		"相关条目": {
+			"label": "相关条目",
+			"description": "如果指定的话，就会显示“关于XXX，请参阅XXX”",
+			"type": "wiki-page-name",
+			"autovalue": ""
+		}
+	},
+	"paramOrder": [
+		"相关条目",
+		"描述文字"
+	],
+	"description": "在不存在的页面上，显示能够被读者理解的指示信息。对于不存在分类页面，则提示读者可以在该分类下建立页面。"
+}
+</templatedata>
+</noinclude>

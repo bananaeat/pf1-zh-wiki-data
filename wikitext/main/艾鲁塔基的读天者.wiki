@@ -1,0 +1,9 @@
+{{Trait
+|name=艾鲁塔基的读天者
+|english_name=Erutaki Sky Reader
+|type=地区
+|prerequisites=世界之冠
+|description=生长于世界之冠的你，早已学会了如何解读那些隐藏在极光以及夜空中的征兆。每天一次，你可以在一次豁免检定上获得+2的幸运加值。你可以在丢出骰子但尚未宣告结果前使用。
+|source_name=进化职业起源
+|source_url=https://pf1chm.pages.dev/topics/zhc202b8be39.htm
+}}

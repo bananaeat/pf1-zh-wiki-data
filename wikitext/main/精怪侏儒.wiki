@@ -1,0 +1,15 @@
+{{Feat
+|name=精怪侏儒
+|english_name=Haunted Gnome
+|categories=战斗
+|description=你能用你的[[侏儒]]魔法让自己披上令人毛骨悚然的幻象外观。
+|prerequisites=魅力13，【侏儒魔法】种族特性，[[知识]]（奥秘）1级。
+|benefit=将[[精怪之相]]法术加入你的侏儒魔法类法术能力列表中，你能每天使用这项类法术能力2次。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[精怪侏儒突击]]、[[精怪侏儒防护]]（2 个条目）

@@ -1,0 +1,11 @@
+{{Feat
+|name=擒牛斗
+|english_name=Bull-Catcher Wrangler
+|categories=战斗
+|description=你可以将冲来的敌人摔倒在地。
+|prerequisites=敏捷13，[[擒牛式]]，[[擒牛掷]]，[[精通擒抱]]，[[精通徒手打击]]；BAB+12、拳师8级或武僧8级
+|benefit=当一名生物向你冲锋并且你成功以擒牛式擒抱他时，你可以像擒牛掷专长一样立即移动他。一旦该生物被移动了，你就可以以一个直觉动作松开擒抱。若如此，你可以选择一名正处于该生物新威胁范围内的另一名生物，使得该生物对这另一名生物发起先前的那次冲锋攻击。
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

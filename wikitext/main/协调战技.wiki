@@ -1,0 +1,11 @@
+{{Feat
+|name=协调战技
+|english_name=Coordinated Maneuvers
+|categories=战斗;团队
+|description=你擅长与盟友联手进行危险的[[战技]]。
+|benefit=当与你相邻的盟友也具有该专长时，所有战技检定获得+2表现加值。这个加值在摆脱[[擒抱]]时提升至+4。
+|stamina=在享受该专长益处时你还可以花费1点耐力，并在CMB上获得2点加值。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

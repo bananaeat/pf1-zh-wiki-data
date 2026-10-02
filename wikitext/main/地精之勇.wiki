@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（We Be Goblins! pg. 14），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=地精之勇
+|english_name=Goblin Bravery
+|type=种族
+|pfs=否
+|prerequisites=地精
+|description=你在战斗中有着令人担忧的过度自信倾向。面对体型比你大的敌人时，如果你相邻的方格中没有任何盟友，你的虚张声势、逞强和骂骂咧咧会让你使用不具触及特性的近战武器进行的攻击检定获得+1背景加值。
+|source_name=We Be Goblins!
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Goblin%20Bravery
+}}

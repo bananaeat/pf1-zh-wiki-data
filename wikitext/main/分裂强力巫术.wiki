@@ -1,0 +1,10 @@
+{{Feat
+|name=分裂强力巫术
+|english_name=Split Major Hex
+|description=你可以分裂一个目标形[[巫术]]的效果，使其影响另一个你能看见的生物。
+|prerequisites=[[分裂巫术]]，施法者等级18级。
+|benefit=当你使用目标是一个生物的[[强力巫术]]时（并非[[高等巫术]]），你可以选择第一目标30尺范围内的另一个生物同时作为那个强力巫术的目标。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

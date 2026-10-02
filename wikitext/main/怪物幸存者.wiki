@@ -1,0 +1,10 @@
+{{Trait
+|name=怪物幸存者
+|english_name=Monster Survivor
+|type=战斗
+|pfs=否
+|description=在经历一场可怕的怪物袭击后，你死里逃生。当你进行撤退动作时，对抗大型或更大体型对手对你进行的[[借机攻击]]，你的AC获得+4闪避加值。
+|source_name=怪物猎人手册
+|source=MHH
+|source_url=https://pf1chm.pages.dev/topics/zh8c410b2724.htm
+}}

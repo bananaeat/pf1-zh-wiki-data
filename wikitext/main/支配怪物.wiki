@@ -1,0 +1,17 @@
+{{Spell
+|name=支配怪物
+|english_name=dominate monster
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=召唤师 6;奥能师 9;女巫 9;异能者 9;术士 9;法师 9
+|domains=魅惑领域 9
+|action=1轮
+|components=语言;姿势
+|range=近距
+|target=一个生物
+|duration=1天/等级
+|save=意志，通过则无效
+|sr=是
+|description=该法术的功能如同[[支配人类]]一般，不过该法术没有生物类型的限制。
+|source=核心规则书
+}}

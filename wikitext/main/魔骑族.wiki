@@ -1,0 +1,8 @@
+{{Trait
+|name=魔骑族
+|english_name=Hellknight Ancestry
+|type=社会
+|description=你的父母之中至少有一位曾经是地狱骑士，而你将地狱骑士团视为公民美德的化身。你在[[交涉]]检定获得+2背景加值，用于影响地狱骑士；你在[[威吓]]检定上获得+2背景加值，用于影响地狱骑士的敌人。
+|source_name=切里亚斯，魔鬼王朝
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

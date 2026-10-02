@@ -1,0 +1,20 @@
+{{魔法物品
+|name=淡绿色艾恩石
+|english_name=Pale Green Prism Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun Stone Pale Green Prism
+|cat=艾恩石
+|aura=强烈（学派不定）
+|cl=12
+|slot=无
+|price=30,000 gp
+|description='''形状'''：棱柱
+
+'''效果'''：攻击检定、豁免检定、技能检定和属性检定获得+1表现加值。
+
+'''共振'''（放入[[寻路仪]]时）：每天两次，佩戴者可以用[[自由动作]]移除自身的[[疲乏]]状态（或将[[力竭]]状态降为疲乏）。
+
+艾恩石的通用规则（启动、环绕飞行、抓取，以及AC、硬度）见[[艾恩石]]。
+|req=[[制造奇物]]，制造者必须已经12级
+|cost=15,000 gp
+|source=核心规则书、极限宝具、冒险者指南
+}}

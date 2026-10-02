@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Elements pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=水界求生者
+|english_name=Aquatic Survivalist
+|type=地区
+|prerequisites=水元素位面
+|description=不论出于何种原因，你成长岁月中的大部分时间都在水元素位面无边无际的大洋中挣扎求生，与栖息其中的可怖生物周旋，也学会了如何躲过拥有特殊感官的掠食者。你在水下进行的[[隐匿]]检定获得+2背景加值。每天一次，你在水下时可以进行一次隐匿检定来视线躲藏（如同名的游侠职业能力）。这只对依靠盲感、盲视或颤动感知的生物有效。具有其他感官的生物能正常察觉你。
+|source_name=元素血脉
+|source=BotE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Aquatic%20Survivalist
+}}

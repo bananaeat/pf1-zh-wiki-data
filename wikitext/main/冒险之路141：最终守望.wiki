@@ -1,0 +1,40 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #141: Last Watch
+|authors=Larry Wilhelm
+|pages=96
+}}
+
+{{书页/简介|head=灾厄笼罩警醒城|1=
+英雄们火速赶往警醒城（Vigil）的十字军，警告他们默语暴君那件毁灭性的新武器。全城正沉浸在庆典之中，警醒城的领袖们不愿相信来自边境的离奇传闻，英雄们必须揪出那些企图谋划全城覆灭的阴谋者。这些阴谋的核心，是一伙盗贼——他们很久以前的一桩劫案，终于让旧日的宿敌浮出水面。英雄们能否及时拼出线索，向众人示警那笼罩在警醒城上空的末日？
+
+本册《冒险之路》延续「暴君魔爪」冒险之路，内容包括：
+
+* 《最终守望》，一部面向 8 级角色的开拓者 RPG 冒险，作者 Larry Wilhelm。
+* 考察栖身于负能量位面虚空之中、憎恨生命的种种威胁，作者 Patchen Mortimer。
+* [[破封者]]的秘密——这个教派一心要释放默语暴君，并打破维系现实的其他封印，作者 Greg A. Vaughan。
+* 一批来自闪耀远征（Shining Crusade）辉煌岁月的圣遗物——越是为某项事业而使用就越强大的魔法物品，作者 Alexander Augunas。
+* 一部令人胆寒的怪物图鉴，包括被不死侵蚀的野兽般类人生物、冒牌天使、成群的剧毒龙、来自负能量位面的飞行野兽、离群索居的植物牧者，以及成群结队的不死生物，作者 Mike Headley、Isabelle Lee、Meagan Maricle、Kendra Leigh Speedling 与 Larry Wilhelm。
+}}
+
+'''冒险之路141：最终守望'''（''Pathfinder #141: Last Watch''）是[[冒险之路]]「暴君魔爪」系列的第三部冒险，由 Larry Wilhelm 撰写，配套文章出自 Patchen Mortimer、Greg A. Vaughan 等 7 位作者，于 2019 年 4 月 24 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+最终守望 @ 2
+NPC 图集 @ 54
+步入虚空 @ 60
+闪耀远征的圣遗物 @ 66
+[[破封者]] @ 72
+怪物图鉴 @ 80
+}}
+
+{{书页尾
+|pfw=Last Watch
+|releases=Softcover¦PZO90141¦2019-04¦978-1-64078-126-9；PDF¦PZO90141E¦¦
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

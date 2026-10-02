@@ -1,0 +1,22 @@
+<noinclude>{{审判者导航}}</noinclude>
+{{Source|魔法市集指南|Magical Marketplace|inline}}
+
+== 骑士道裁决域 (Chivalry Inquisition) ==
+
+神祇：[[埃拉斯蒂尔]]、[[艾奥梅黛]]、[[塞恩蕾]]、[[托拉格]]。
+
+领域力量：你秉持骑士精神，守护自己的荣誉，并训练一匹高贵的坐骑。
+
+=== 坐骑 (Mount, Ex) ===
+
+本能力与[[骑士]]的[[骑士#坐骑|坐骑]]职业能力的效果相同。
+
+=== 忠贞战骑 (Faithful Steed, Su) ===
+
+在8级时，每当你启动自己的[[审判者#审判|审判]]职业能力，你的坐骑就能同时获得你所选审判的其中一种的好处。在16级时，你的坐骑可以获得你所选审判中两种的好处。
+
+<noinclude>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_374.html 原文]），按 AoN 核对过。
+{{AoN原文|1=Inquisitions.aspx|2=Inquisitions}}
+
+[[分类:审判者]]
+{{职业}}</noinclude>

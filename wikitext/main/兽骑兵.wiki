@@ -1,0 +1,10 @@
+{{Feat
+|name=兽骑兵
+|english_name=Beast Rider
+|description=你获得了巨型动物或坐骑的帮助。
+|prerequisites=【动物伙伴】或【坐骑】职业特性，角色等级7，半兽人或兽人。
+|benefit=从下列生物类型中选择一种：大象，翼龙，犀牛，剑龙或三角龙。将这种生物类型加入到你能够使用的[[动物伙伴]]或坐骑列表中。当你召唤所选中类型的生物作为坐骑或动物伙伴为你服务时，视你的有效德鲁伊等级提高2级（最高等同于你的角色等级）。如果该生物足够大到可供你骑乘，它会获得“战斗训练*（见[[驯养动物]]技能）”技巧而无需任何训练。【译注：旧CHM翻译为战斗骑乘（Combat Riding），此处以paizo官网为准。】
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

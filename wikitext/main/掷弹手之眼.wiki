@@ -1,0 +1,14 @@
+{{Spell
+|name=掷弹手之眼
+|english_name=Bomber's eye
+|school=变化系
+|levels=炼金术师 1;调查员 1
+|action=标准动作
+|components=姿势
+|range=个人
+|target=自己
+|duration=1轮/等级
+|sr=否
+|description=这种化合炼成使你的投掷武器丢得更远更准。在这种化合炼成生效的时间内，任何投掷武器的射程提高10尺。此外，你使用投掷武器进行的攻击检定获得+1洞察加值。
+|source=进阶玩家指南
+}}

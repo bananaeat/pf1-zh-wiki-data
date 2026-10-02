@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Giantslayer Player's Guide pg. 7, Giant Hunter's Handbook pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=巨人学者
+|english_name=Student of Giantkind
+|type=战役
+|pfs=否
+|description=你一直对巨人种族着迷，投入了大量时间研究它们的历史和社会，从而深入了解它们的思考方式和运用能力的方式。你对巨人亚种生物进行的[[交涉]]检定获得+1背景加值，关于巨人亚种生物的[[知识]]（本地）检定获得+1背景加值，并且这两项技能之一（由你选择）成为你的本职技能。此外，你会说巨人语（这不计入你的语言数量）。
+|source_name=Giantslayer Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Student%20of%20Giantkind
+}}

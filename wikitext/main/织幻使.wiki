@@ -1,0 +1,9 @@
+{{Trait
+|name=织幻使
+|english_name=Illusion Obsession
+|type=种族
+|prerequisites=[[侏儒]]
+|description=你从小就喜欢用幻术捉弄别人，在你成长的过程中，研究幻术——特别是虚假幻觉——的作用方式和有效的利用手段成为了对你来说习惯成自然的过程。你在施放虚假幻觉子学派的幻术法术时在施法者等级上获得+1背景加值。
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_451.html
+}}

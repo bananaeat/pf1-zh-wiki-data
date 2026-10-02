@@ -1,0 +1,16 @@
+{{Spell
+|name=凋死术
+|english_name=Horrid Wilting
+|school=死灵系
+|levels=奥能师 8;女巫 8;术士 8;法师 8;萨满 8
+|domains=水领域 8;干涸子域 9;辐射子域 8;瘟疫子域 8
+|action=标准动作
+|components=语言;姿势;材料/圣徽（一小块海绵）
+|range=远距
+|target=活物，任意两者之间的距离不超过60尺
+|duration=立即
+|save=强韧，通过则减半
+|sr=是
+|description=该法术会使受术活物体内的水分蒸发，使肉体枯萎、最终干枯破裂化为尘埃。该法术造成每CL 1d6点伤害 (最高20d6)。该法术对水元素和植物生物特别有效，从而改为造成每CL 1d8点伤害 (最高20d8)。
+|source=核心规则书
+}}

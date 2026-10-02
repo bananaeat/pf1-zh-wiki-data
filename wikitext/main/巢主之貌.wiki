@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=巢主之貌
+|english_name=Visage of the Broodlord
+|aon=MagicWondrousDisplay.aspx?FinalName=Visage of the Broodlord
+|cat=奇物
+|aura=强烈咒法系
+|cl=6
+|slot=头部
+|price=9,600 gp
+|weight=1磅
+|description=这种可怖的面具由交织的柳条和昆虫分泌的树脂制成，外形如同恶魔般的昆虫。佩戴者对虫群的分心特殊攻击免疫。此外，佩戴者每天一次可以变身为昆虫，如同法术[[虫类形态 I]]（见《探索者战役设定：内海世界指南》第297页）。
+|req=[[制造奇物]]、[[虫类形态 I]]
+|cost=4,800 gp
+|source=消失的王国
+}}

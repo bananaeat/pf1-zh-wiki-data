@@ -1,0 +1,16 @@
+{{Spell
+|name=自性鞭笞 I
+|english_name=Ego whip i
+|school=惑控系 (胁迫)
+|tags=情绪;影响心灵
+|levels=异能者 3
+|action=标准动作
+|components=姿势
+|range=近距
+|target=一个生物
+|duration=1轮/等级
+|save=意志，通过则部分生效
+|sr=是
+|description=你能使用自身的异能力量来淹没目标的自我，使其感到绝望和自我怀疑。选择智力、感知或魅力。目标在该项属性上受到-2减值，而且还会在受到法术影响的第一轮陷入[[恍惚]]。成功通过意志豁免能够免受恍惚效果，而且能够让减值的持续时间下降至1轮。
+|source=异能冒险
+}}

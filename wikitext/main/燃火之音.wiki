@@ -1,0 +1,14 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[燃火之音 (神话)]]。</small></div>
+{{Feat
+|name=燃火之音
+|english_name=Fire Music
+|description=你将控制火焰的能力和诗人的音乐相互混合，从而创造了一种奇怪的魔法。
+|prerequisites=[[法术辨识]]5级，能够施展诗人法术，能够施展另一施法职业的奥术火焰法术。
+|benefit=当你施展一个诗人法术造成伤害时，你可以用火焰伤害替换法术的正常伤害，或者造成一半火焰伤害一半正常伤害。
+|extra=如果你用诗人法术施展‘召唤怪物’，你可以选择给予召唤生物燃烧的外观，从而使之获得5点火抗力并且在天生武器攻击时造成额外1点火焰伤害。这一生物在5尺范围内提供昏暗照明。如果召唤的生物已经拥有火焰亚种，则此专长无效。
+
+当你使用这一专长时，使用的法术获得〔火〕描述符。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

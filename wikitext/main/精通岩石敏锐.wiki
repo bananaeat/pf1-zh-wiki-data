@@ -1,0 +1,15 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[精通岩石敏锐 (神话)]]。</small></div>
+{{Feat
+|name=精通岩石敏锐
+|english_name=Improved Stonecunning
+|description=你对石造物的感知异常敏锐。
+|prerequisites=感知13，[[矮人]]，【岩石敏锐】种族特性。
+|benefit=当你使用察觉检定注意到不寻常的石造物时获得+4加值。这个加值会取代【岩石敏锐】[[种族特性]]对察觉检定的正常加值。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[岩石感官]]（1 个条目）

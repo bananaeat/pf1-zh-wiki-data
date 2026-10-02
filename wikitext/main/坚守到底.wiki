@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Armor Master's Handbook pg. 2），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=坚守到底
+|english_name=To The Last
+|type=战斗
+|description=选择一种中甲或重甲（例如链甲或半身板甲）。当你穿着该种护甲时，如果你60尺内没有盟友，你获得DR 1/—。此伤害减免可以与你拥有的任意一项其他伤害减免来源叠加。
+|source_name=护甲大师手册
+|source=AMH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=To%20The%20Last
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=解放引导
+|english_name=Liberation Channel
+|description=你引导的能量将带来真正的自由
+|prerequisites=引导能量7d6，崇拜凯登．凯利恩
+|benefit=当你引导正能量治疗活物时，任何受到你的[[引导能量]]治疗的生物也同时获得法术行动自如的效果（施法者等级等同于你的有效牧师等级），效果持续等同于你的魅力调整值轮（至少1轮）。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

@@ -1,0 +1,16 @@
+{{Feat
+|name=精通要害打击
+|english_name=Improved Vital Strike
+|aliases=精通暴击
+|categories=战斗
+|description=你可以在一击中造成大量的伤害。
+|prerequisites=[[要害打击]]，基本攻击加值+11。
+|benefit=你可以用一个攻击动作以你的最高BAB做出一次攻击，并造成额外的伤害。丢伤害骰三次并将结果合计，但力量、武器属性（例如〈炽焰〉效果）及基于精准攻击（例如偷袭）带来的伤害加值和其他伤害加值不翻倍。本专长带来的额外伤害骰在重击时不翻倍，但会加入总伤害中。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[高等要害打击]]（1 个条目）

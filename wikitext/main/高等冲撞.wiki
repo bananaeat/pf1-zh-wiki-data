@@ -1,0 +1,12 @@
+{{Feat
+|name=高等冲撞
+|english_name=Greater Bull Rush
+|categories=战斗
+|description=你的[[冲撞]]令敌人失去平衡。
+|prerequisites=[[精通冲撞]]，[[猛力攻击]]，基本攻击加值+6，力量13。
+|benefit=你在冲撞检定中获得+2加值。此加值与[[精通冲撞]]专长带来的加值累计。当你冲撞敌人时，他的移动会引发所有你的同伴的[[借机攻击]]（但不包括你）。
+|normal=冲撞带来的生物移动不会引发借机攻击。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

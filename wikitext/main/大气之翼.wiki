@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''大气之翼'''（Wings of Air, Sp）是[[操念使]]的[[原力]]。
+
+元素：气；类别：通用（Sp）；等级：3；超载：0
+
+前置：[[气流缓冲]]或[[空气跃动]]
+
+气流屈从于你的意志，使你能够展翅高飞。你持续受到[[飞行术]]效果的影响。若该效果被解除，你能够以[[标准动作]]再次将它呼唤出来。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Wings of Air|2=Wings of Air}}
+
+[[分类:原力]]

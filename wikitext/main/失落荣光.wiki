@@ -1,0 +1,15 @@
+{{Feat
+|name=失落荣光
+|english_name=Lost Legacy
+|categories=故事
+|pfs=否
+|description=曾属于你家族的财产终将属于你。
+|prerequisites=你的家族必须有一项可继承的头衔或地位，但已不再为你所有；或你拥有“落魄门第”角色背景。你甚至可以在不知道失落的家族头衔究竟为何时选择本专长。
+|benefit=你的魅力属性检定、基于魅力的技能检定+1。
+|special=若你试图通过某种回避强大敌手的手段重拾家族名望，你日后仍然需要通过搞定某位试图篡夺你继承权的强大敌手来完成本专长。
+|goal=重拾家族的名望，无论是为你自己还是某位家族成员。为完成这一过程，你必须完胜一位否认你继承权的强大敌手。
+|completion_benefit=你的感知属性检定、基于感知的技能检定和意志豁免+1。
+|source=UCa
+|source_name=极限战役
+|source_url=https://pf1chm.pages.dev/topics/page_200.html
+}}

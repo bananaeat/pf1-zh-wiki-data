@@ -1,0 +1,9 @@
+{{Trait
+|name=瘟疫之心
+|english_name=Diseased Heart
+|type=宗教
+|prerequisites=信仰[[珈兰德尔]]
+|description=你与[[传染病]]相伴的生活使得疾病彻底沾染了你的肉体乃至精神。任何一个吸食你的血液或是活吞你的生物都需要通过一个强韧豁免(DC=10+你的角色等级+你的体质调整值),如果没有成功则患上腐热症。此为毒素效果。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

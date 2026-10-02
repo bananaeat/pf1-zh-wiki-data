@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[血鸦势]] 的神话版本。</small></div>
+{{Spell
+|name=血鸦势
+|english_name=Blood Crow Strike
+|school=塑能系
+|tags=火
+|levels=先知 4;战斗祭司 4;牧师 4
+|description=以此法术尝试的徒手打击都视为你具有精通重击（徒手打击）专长。将你的阶层加到武僧等级（如果有的话）上来判断该法术所使用的徒手打击伤害。来自该法术的火焰伤害会穿透火焰抗力。
+|source=神话冒险
+}}
+[[分类:神话法术]]

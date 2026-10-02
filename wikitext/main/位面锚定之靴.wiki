@@ -1,0 +1,14 @@
+{{魔法物品
+|name=位面锚定之靴
+|english_name=Boots of Planar Grounding
+|aon=MagicWondrousDisplay.aspx?FinalName=Boots of Planar Grounding
+|cat=奇物
+|aura=微弱防护系
+|cl=5
+|slot=脚部
+|price=25,000 gp
+|description=这双沉重的铁底靴子把穿戴者与她所在的位面联系在一起。无论身处哪个位面，穿戴者始终视为处于她的母位面，并且永远不会获得跨位面亚种。
+|req=[[制造奇物]]、[[次元锚]]
+|cost=12,500 gp
+|source=位面冒险
+}}

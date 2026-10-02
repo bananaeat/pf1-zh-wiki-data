@@ -1,0 +1,16 @@
+{{Spell
+|name=先知的负担
+|english_name=Oracle's burden
+|school=死灵系
+|tags=诅咒
+|levels=先知 2
+|action=标准动作
+|components=语言
+|range=中距
+|target=一名生物
+|duration=1分钟/等级
+|save=意志，通过则无效
+|sr=是
+|description=你祈求命运的力量，将你的[[先知诅咒]]施加给另一个生物。目标生物将会承受你所有的残疾效果，并且不会获得你的先知诅咒中的任何好处。你仍然保有你自己的先知诅咒。如果你没有先知诅咒职业能力，该法术无效。
+|source=进阶玩家指南
+}}

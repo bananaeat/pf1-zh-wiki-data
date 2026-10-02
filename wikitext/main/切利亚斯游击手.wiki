@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Monster Summoner's Handbook pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=切利亚斯游击手
+|english_name=Chelish Guerrilla
+|type=地区
+|prerequisites=切利亚斯
+|description=为了推翻特鲁恩家族，你多年来一直在训练如何对付那些崇拜魔鬼的贵族以及他们所束缚的魔鬼。你为辨识魔鬼（及其特殊能力与弱点）而进行的[[知识]]检定获得+2背景加值，并且你对魔鬼的武器伤害骰获得+1背景加值。
+|source_name=怪物召唤者手册
+|source=MSH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Chelish%20Guerrilla
+}}

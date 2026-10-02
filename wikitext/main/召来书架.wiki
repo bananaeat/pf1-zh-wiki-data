@@ -1,0 +1,14 @@
+{{魔法物品
+|name=召来书架
+|english_name=Bookplate of Recall
+|aon=MagicWondrousDisplay.aspx?FinalName=Bookplate of Recall
+|cat=奇物
+|aura=强烈咒法系
+|cl=13
+|slot=无
+|price=1,000 gp
+|description=这枚金属藏书票上刻着龙语的神秘文字，留有一处空位用来写下一个名字。当藏书票被粘在一本书的内封面上时，被写下名字的人可以说出这本书的书名，把它召唤到手中，如同使用[[即刻召唤]]。这个能力每天可用一次。
+|req=[[制造奇物]]、[[即刻召唤]]
+|cost=500 gp
+|source=极限宝具
+}}

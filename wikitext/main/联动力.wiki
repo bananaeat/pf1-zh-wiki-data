@@ -1,0 +1,9 @@
+{{Trait
+|name=联动力
+|english_name=Linked Surge
+|type=魔法
+|description=每日1次，当你进行基于力量或体质的属性检定或技能检定时，可以采用[[幻灵]]的属性取代自身。为使用该[[背景特性]]，你的幻灵必须已被召唤且位于你30尺范围以内。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

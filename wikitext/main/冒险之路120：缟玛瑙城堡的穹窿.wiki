@@ -1,0 +1,41 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #120: Vault of the Onyx Citadel
+|authors=Larry Wilhelm
+|pages=96
+}}
+
+{{书页/简介|head=突袭穹窿！|1=
+数月以来，无情的铁牙军团一直从其坚不可摧的异界缟玛瑙城堡向人类发动攻击！但如今，手握这座要塞钥匙的大胆冒险者，必须集结盟友、突破世界之间的壁障、驯服一片异界荒野，并最终向他们的[[大地精(怪物)|大地精]]征服者发起反击！英雄们能否击败军团最阴险的指挥官——包括无与伦比的战将阿扎埃西（Azaersi）——还是会像他们的家园一样，轻易倒在大地精的刀锋之下？
+
+本册《冒险之路》为「铁牙入侵」冒险之路收官，内容包括：
+
+* 《缟玛瑙城堡的穹窿》，一部面向 16 级角色的开拓者冒险，作者 Larry Wilhelm。
+* 关于在冒险结束之后继续战役的建议，包括缟玛瑙城堡穹窿的地志，作者 Crystal Frasier。
+* 对地灵殿守护者与神话般的地灵殿筑建者的生态研究，二者共同构成了希奥莫恩种族，作者 Greg A. Vaughan。
+* 冒险者在探索缟玛瑙城堡穹窿时可能找到的、由希奥莫恩打造的强力遗物详述，作者 Tim Hitchcock。
+* 一部塞满铁牙军团精锐部队与土元素位面居民的怪物图鉴，作者 Paris Crenshaw、Kalervo Oikarinen 和 Larry Wilhelm。
+}}
+
+'''冒险之路120：缟玛瑙城堡的穹窿'''（''Pathfinder #120: Vault of the Onyx Citadel''）是[[冒险之路]]「铁牙入侵」系列的一部冒险，由 Larry Wilhelm 撰写，配套文章出自 Crystal Frasier、Greg A. Vaughan、Tim Hitchcock、Paris Crenshaw 和 Kalervo Oikarinen，于 2017 年 7 月 26 日发售。它是「铁牙入侵」冒险之路的最终章。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+缟玛瑙城堡的穹窿 @ 4
+NPC 图集 @ 56
+继续战役 @ 64
+地灵殿筑建者生态 @ 70
+地灵殿筑建者遗物 @ 76
+怪物图鉴 @ 82
+}}
+
+{{书页尾
+|pfw=Vault of the Onyx Citadel (adventure)
+|releases=Softcover¦PZO90120¦2017-07¦978-1-60125-952-3；PDF¦PZO90120E¦¦
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

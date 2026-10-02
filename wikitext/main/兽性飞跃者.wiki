@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=兽性飞跃者
+|english_name=Bestial Leaper
+|type=Ex
+|categories=杂项
+|prerequisites=[[野蛮人]]6级, [[狂暴跳跃]]
+|benefit=狂暴时，当野蛮人移动时，他可以在该次移动的任何一点进行他的[[标准动作]]，并且继续移动。
+|source_name=极限战斗
+}}

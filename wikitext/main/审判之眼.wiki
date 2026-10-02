@@ -1,0 +1,10 @@
+{{Feat
+|name=审判之眼
+|english_name=Eyes of Judgment
+|description=任何生物的本性都难逃你的法眼。
+|prerequisites=【侦测阵营】职业特性，施法者等级6级。
+|benefit=当你使用【侦测阵营】职业特性时，你可以花费3轮研究一个60尺内的生物。期间你不能采取任何其他动作。在这之后，你可以得知这个生物的阵营。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

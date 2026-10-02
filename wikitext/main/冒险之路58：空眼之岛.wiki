@@ -1,0 +1,46 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #58: Island of Empty Eyes
+|authors=Neil Spicer
+|pages=96
+}}
+
+{{书页/简介|head=夺取你的岛屿|1=
+赢得自由船长竞舟赛之后，冒险者必须认领他们的奖品——无人居住的「空眼之岛」。然而，探索奇异的废墟、对抗岛上怪物般的居民还远远不够。待局面稳住之后，冒险者还得为镣铐群岛恶名昭著的海盗议会举办一场盛宴，可当一名神秘的破坏者威胁要搅黄宴会时，危险的局势更是雪上加霜。冒险者能否驯服他们的岛屿、保护好那些举足轻重的宾客？还是会失去海盗领主们的敬重，从此湮没无闻？
+
+本册《冒险之路》内容包括：
+
+* Neil Spicer 的《空眼之岛》（"Island of Empty Eyes"），一部适用于 9 级角色的开拓者角色扮演游戏冒险。
+* Jack Graham 讲述的镣铐群岛的海盗传说与谜团。
+* Gareth Hanrahan 介绍的曾统治镣铐群岛的独眼巨人。
+* Robin D. Laws 在「探索者日志」中带来的岛上鹰身女妖。
+* Alex Greenshields、Michael Kenway、Mark Moreland 和 Tork Shaw 设计的五种新怪物。
+}}
+
+'''冒险之路58：空眼之岛'''（''Pathfinder #58: Island of Empty Eyes''）是海盗主题的[[冒险之路]]「颅骨与镣铐」系列的第四章，由 Neil Spicer 撰写，补充材料出自 Jack Graham、Alex Greenshields、Gareth Hanrahan 等 6 位作者，小说出自 Robin D. Laws，于 2012 年 7 月 18 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+空眼之岛 @ 6
+NPC 图集 @ 52
+颅骨与镣铐宝藏 @ 60
+- [[鳗皮甲]]
+- [[梭螺号角]]
+- 不可能之瓶（impossible bottle）
+- [[恶棍杖剑]]
+- 骷髅锚（skeleton anchor）
+镣铐群岛的谜团 @ 62
+独眼巨人的生态 @ 68
+探索者日志：远塔莱的宝藏（4／6） @ 74
+怪物图鉴 @ 80
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Island of Empty Eyes (adventure)
+|releases=PDF¦PZO9058E¦2012-07¦；Softcover¦PZO9058¦2012-07¦
+}}
+
+[[分类:书目]]

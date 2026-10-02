@@ -1,0 +1,11 @@
+{{Feat
+|name=感知盟友
+|english_name=Sense Allies
+|pfs=否
+|description=一同成长起来的莽原后裔彼此间有联系紧密的感应，并且究其一生都能维持这一独特技能。
+|prerequisites=察觉3级、莽原后裔半精灵
+|benefit=你对60尺范围内所有盟友的位置了然于心，即便他们正在通过隐匿技能躲藏、处于隐形状态，又或者通常情况下无法被探测到。
+|source=HftF
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/zh72cd9d7a9f.htm
+}}

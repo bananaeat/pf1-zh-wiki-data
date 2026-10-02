@@ -1,0 +1,25 @@
+{{科技物品
+|name=电子合成肌肉
+|english_name=Cyberfiber Muscles
+|aon=EquipmentTechCybertechDisplay.aspx?ItemName=Cyberfiber Muscles (Mark I)
+|kind=电子殖装物
+|sub=身体
+|price=8,000 gp（I型）；32,000 gp（II型）；72,000 gp（III型）
+|weight=10磅
+|slot=身体
+|install=24（I型）；28（II型）；36（III型）
+|implant=2（I型）；4（II型）；8（III型）
+|capacity=—
+|usage=—
+|description=电子合成肌肉是一种强力的人造肌肉，用来增强而不是取代生物原有的肌肉。安装后，电子合成肌肉赋予力量属性一项增强加值。该增强加值会改变价格、殖装点数、安装 DC 和制造 DC，各型号见下。
+
+'''I型：'''+2 力量增强加值；殖装点数 2；安装 DC 24。
+
+'''II型：'''+4 力量增强加值；殖装点数 4；安装 DC 28。
+
+'''III型：'''+6 力量增强加值；殖装点数 8；安装 DC 36。
+|construction=[[制造电子殖装]]、殖装物工作间
+|craft_dc=24（I型）；28（II型）；32（III型）
+|cost=4,000 gp（I型）；16,000 gp（II型）；36,000 gp（III型）
+|source=科技指南
+}}

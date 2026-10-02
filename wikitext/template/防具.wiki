@@ -1,0 +1,25 @@
+<includeonly>{{#invoke:版权抬头|main}}{{#invoke:武器|armor}}{{条目页脚|速查=物品速查|分类=物品|附加=[[:分类:防具|防具]]}}</includeonly><noinclude>
+防具卡片（盔甲、盾牌、防具附件）。一栏一项，页上的参数就是数据。渲染在 [[模块:武器]] 的 armor 入口，样式沿用 [[MediaWiki:Common.css]] 的「物品卡片」一节。武器用 [[模板:武器]]，其他物品用 [[模板:物品]]。
+
+ {{防具
+ |name=链甲
+ |english_name=Chainmail
+ |acat=中型盔甲
+ |price=150 gp
+ |weight=40磅
+ |ac=+6
+ |maxdex=+2
+ |acp=–5
+ |asf=30%
+ |speed=20尺／15尺
+ |description=……
+ |source=核心规则书、极限宝具
+ }}
+
+* <code>english_name</code>：照抄 AoN 的条目名，自动链到 AoN 的防具页；地址不同时写 <code>aon=EquipmentArmorDisplay.aspx?ItemName=…</code>，<code>aon=无</code> 不挂。
+* <code>acat</code>：轻型盔甲／中型盔甲／重型盔甲／盾牌／防具附件（进同名分类，另进 分类:防具）。
+* <code>ac</code>：护甲加值（盾牌显示为盾牌加值）；<code>maxdex</code> 最大敏捷加值；<code>acp</code> 防具检定减值；<code>asf</code> 奥术失败几率。
+* <code>speed</code>：基础速度 30 尺、20 尺的生物穿上后的速度，写「20尺／15尺」；盾牌不写。
+* <code>source</code>：出处书名，几本用「、」隔开，首印在前。
+[[分类:模板]]
+</noinclude>

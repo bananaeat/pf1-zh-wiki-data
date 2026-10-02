@@ -1,0 +1,23 @@
+{{魔法物品
+|name=天地法杖
+|english_name=Staff of Heaven and Earth
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Heaven and Earth
+|cat=法杖
+|aura=中等变化系
+|cl=9
+|slot=无
+|price=54,000 gp
+|weight=5磅
+|description=杖顶是一块云雾般旋转的石头，杖身缠绕着黑铁丝线细工。
+
+该法杖可以使用以下法术：
+
+* [[造风术]]（1 发）
+* [[塑石术]]（1 发）
+* [[凌空而行]]（2 发）
+* [[操纵风相]]（2 发）
+* [[刺石术]]（2 发）
+|req=[[制造法杖]]、[[凌空而行]]、[[操纵风相]]、[[造风术]]、[[刺石术]]、[[塑石术]]
+|cost=27,000 gp
+|source=冒险之路4：石巨人要塞、符文领主崛起周年纪念版、极限宝具
+}}

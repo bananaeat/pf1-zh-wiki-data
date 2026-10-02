@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[流血重击]] 的神话版本。</small></div>
+{{Feat
+|name=流血重击
+|english_name=Bleeding Critical
+|categories=神话
+|description=你的致命打击会让人血流成河。
+|prerequisites=[[流血重击]]，[[重击专攻 (神话)|重击专攻]]（神话）
+|benefit=[[流血重击]]造成的[[出血]]伤害增加，增加值等同于你的阶层。制止这些[[流血伤害]]需要进行医疗检定，DC等同于15 + 1/2你的阶层。任何魔法医疗会如常终止这种伤害。你能够花费1次神话之力来造成1点体质出血，这是本专长所造成的生命值出血伤害之外的效果。每额外花费1点神话之力，这个效果就会增加1点。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

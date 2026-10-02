@@ -1,0 +1,10 @@
+{{Trait
+|name=狡诈品种
+|english_name=Cunning Breed
+|type=坐骑
+|prerequisites=[[马]]（塔尔多杰尼特）
+|description=使用[[驯养动物]]技能训练一匹塔尔多杰尼特(Taldor Jennet)可以习得整整8项技巧(tricks)。(而不是拥有2点智力值的标准6项技巧)
+|source_name=坐骑背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zh4fc8a2e018.htm
+}}

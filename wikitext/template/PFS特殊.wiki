@@ -1,0 +1,10 @@
+<noinclude>
+用于提示资源在PFS中有特殊规则。
+<pre>
+{{PFS特殊|XXX}}
+</pre>
+{{PFS特殊|XXX}}
+</noinclude>
+<includeonly>
+{{Mbox|border=warning|type=move|text=PFS特殊规则：{{{1}}}}}
+</includeonly>

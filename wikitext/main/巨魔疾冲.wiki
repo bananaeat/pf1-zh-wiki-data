@@ -1,0 +1,11 @@
+{{Feat
+|name=巨魔疾冲
+|english_name=Sprinting Troll
+|pfs=否
+|description=你调整自己的强大的新陈代谢机能，消耗自己的再生能力来获得极高的速度爆发。
+|prerequisites=飞跑，再生，巨魔
+|benefit=以一个自由动作，你可以使自己的陆地移动速度获得10尺强化加值，持续1分钟。在你享受该强化加值期间以及其后1分钟内，你会失去再生能力；你可以以一个自由动作提前结束本专长的效果。你只有在当自己的再生能力可以生效时才能启动本专长。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1416.html
+}}

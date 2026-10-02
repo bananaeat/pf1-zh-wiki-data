@@ -1,0 +1,9 @@
+{{装备
+|name=平衡杆
+|english_name=Balancing pole
+|cat=工具
+|price=8 sp
+|weight=12磅
+|description=这根柔韧的杆子长15到30尺不等。使用得当时，它能帮助你在穿过狭窄通道时保持平衡。使用平衡杆，你在穿越狭窄表面的特技检定上获得+1环境加值。
+|source=冒险者的军械库、进阶玩家指南、极限宝具
+}}

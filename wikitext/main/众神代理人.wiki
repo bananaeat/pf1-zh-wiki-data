@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faiths and Philosophies pg. 33），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=众神代理人
+|english_name=Proxy of Many
+|type=信念
+|description=作为泛神论者，你习惯向各种来源寻求援助，并且对如何最好地利用任何盟友有着务实的判断。向一个过去一周内未曾帮过你忙的生物请求帮忙时，你的[[交涉]]检定获得+2背景加值。如果自它上次帮你忙以来你帮过它的忙，这个加值提高至+4。
+|source_name=信仰与哲学
+|source=F&P
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Proxy%20of%20Many
+}}

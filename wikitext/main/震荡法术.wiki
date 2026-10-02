@@ -1,0 +1,10 @@
+{{Feat
+|name=震荡法术
+|english_name=Concussive Spell
+|categories=超魔
+|description=当你用带有〔音波〕描述符的法术影响到其他生物时，你使他们晕头转向。
+|benefit=法术中伴随着音波伤害的冲击波使目标震颤不止。一个带有〔音波〕描述符的震荡法术在对目标造成音波伤害时会使其在攻击、豁免、技能检定和属性检定上遭受-2减值，持续轮数等于法术原本环级。震荡法术只能影响带有〔音波〕描述符的法术。震荡法术须占用高于原本2个环级的法术位。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

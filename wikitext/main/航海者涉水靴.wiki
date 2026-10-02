@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=航海者涉水靴
+|english_name=Seafarer's Waders
+|aon=MagicWondrousDisplay.aspx?FinalName=Seafarer's Waders
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=脚部
+|price=3,350 gp
+|weight=1磅
+|description=这双略微褪色的皮靴高及穿戴者膝盖，上面覆着细小的藤壶。穿上它们时，这双靴子使穿戴者在特技、攀爬和游泳检定上获得+2表现加值。此外，每天一次，穿戴者可以说出一个命令字，获得蛛行术的效果，持续至多30分钟。该效果可以用一个[[自由动作]]解除。
+|req=[[制造奇物]]、[[跳跃术]]、[[蛛行术]]
+|cost=1,675 gp
+|source=商人货单
+}}

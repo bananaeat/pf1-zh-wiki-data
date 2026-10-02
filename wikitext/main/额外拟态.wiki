@@ -1,0 +1,10 @@
+{{Feat
+|name=额外拟态
+|english_name=Extended Aspects
+|description=相较于大多数人，你可以更长久地进入次级形态。
+|prerequisites=[[变形者#变形者拟态|变形者拟态]]职业能力。
+|benefit=你可以将等同于「你的感知调整值」（最少为1）分钟的额外使用时间，加到你每日可使用的[[变形者]]拟态进入一种次级形态的时间上。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

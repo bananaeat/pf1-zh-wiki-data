@@ -1,0 +1,10 @@
+{{Feat
+|name=角魔之猛击
+|english_name=Cornugon Smash
+|categories=战斗
+|prerequisites=[[猛力攻击]]，[[威吓]]6级
+|benefit=当你以[[猛力攻击]]的方式对你的对手造成伤害时，你可以立即以一个[[自由动作]]对你的对手做一次威吓检定用以挫败士气。
+|source=CEoD
+|source_name=切里亚斯，魔鬼王朝
+|source_url=https://pf1chm.pages.dev/topics/page_561.html
+}}

@@ -1,0 +1,18 @@
+{{科技物品
+|name=修复药
+|english_name=Hemochem
+|aon=EquipmentTechPharmaceuticalsDisplay.aspx?ItemName=Hemochem (Grade I)
+|kind=合成药物
+|price=250 gp（I型）；500 gp（II型）；750 gp（III型）；1,000 gp（IV型）；1,250 gp（V型）
+|description=修复药能止住出血并促进愈合。一剂修复药使目标在1分钟内获得[[快速治疗]]。多剂注射的效果不叠加，但会把快速治疗的持续时间重置为1分钟。修复药共有五个型号，一剂所提供的快速治疗取决于药剂的型号，具体如下：
+
+* I型：快速治疗1
+* II型：快速治疗2
+* III型：快速治疗3
+* IV型：快速治疗4
+* V型：快速治疗5
+|construction=[[制造合成药物]]、医疗工作间
+|craft_dc=23（I型）；24（II型）；25（III型）；26（IV型）；27（V型）
+|cost=125 gp（I型）；250 gp（II型）；375 gp（III型）；500 gp（IV型）；625 gp（V型）
+|source=科技指南
+}}

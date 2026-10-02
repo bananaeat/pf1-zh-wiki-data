@@ -1,0 +1,19 @@
+{{魔法物品
+|name=战争领主号角〔半兽人〕
+|english_name=Horn of the War-Leader (Half-Orc)
+|aon=MagicWondrousDisplay.aspx?FinalName=Horn of the War-Leader (Half-Orc)
+|cat=奇物
+|aura=微弱塑能系
+|cl=5
+|slot=无
+|price=12,000 gp
+|weight=4磅
+|description=这件奇物通常只有所标明的种族或族裔的成员才能获得。
+
+这枚大而中空的兽角系着一条皮绳，可以挂在颈部、腕部或腰带上。持用者每天最多3次可以以[[标准动作]]吹响号角，发出一声巨响，5里外都能听到。
+
+如果吹号者是[[半兽人]]，她可以把一段至多25个词的讯息（通常是给已部署部队的命令）编入声音之中，并指定范围内任意数量的盟友。被指定的盟友会自动感知到吹号者的意图并得知该讯息。
+|req=[[制造奇物]]、[[风讯术]]，制造者必须是半兽人
+|cost=6,000 gp
+|source=内海种族
+}}

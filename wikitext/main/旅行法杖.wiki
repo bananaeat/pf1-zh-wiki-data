@@ -1,0 +1,21 @@
+{{魔法物品
+|name=旅行法杖
+|english_name=Staff of Travel
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Travel
+|cat=法杖
+|aura=中等咒法系
+|cl=9
+|slot=无
+|price=54,400 gp
+|weight=3磅
+|description=这根法杖看上去只是一根做工精良的手杖，但仔细检查就会发现，杖身镶嵌着细密的铜线纹饰，构成了一幅错综复杂、难以解读的奥术地图。该法杖可以使用以下法术：
+
+* [[任意门]]（1 发）
+* [[飞行术]]（1 发）
+* [[传送术]]（2 发）
+
+除了这些法术之外，旅行法杖的持有者还获得+10 尺的基础速度增强加值。
+|req=[[制造法杖]]、[[任意门]]、[[脚底抹油]]、[[飞行术]]、[[传送术]]
+|cost=27,200 gp
+|source=极限宝具
+}}

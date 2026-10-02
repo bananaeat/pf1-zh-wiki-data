@@ -1,0 +1,9 @@
+{{Trait
+|name=傲人绝技
+|english_name=Impressive Presence
+|type=派系
+|description=你与众不同的技巧使得任何直面你的人，都难以集中精神。每天一次，使用一个[[整轮动作]]，展示你与众不同的非凡战斗技巧试图让相邻的敌人分心。所有邻近你的敌人必须成功通过一次意志豁免(DC为10+1/2人物等级+魅力调整值),否则会进入[[战栗]]状态。此状态持续时间为1轮。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

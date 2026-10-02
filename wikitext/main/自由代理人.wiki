@@ -1,0 +1,9 @@
+{{Trait
+|name=自由代理人
+|english_name=Free Agent
+|type=地区
+|prerequisites=河域诸国
+|description=你体现了河域诸国的独立精神。在任何意义上，在自己的旗帜下航行都是最好的。你在意志豁免上获得+2背景加值以对抗魅惑和胁迫。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=浮游明焰
+|english_name=Ioun Torch
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun Torch
+|cat=奇物
+|aura=强烈通用系
+|cl=12
+|slot=无
+|price=75 gp
+|description=这件物品其实只是一颗烧尽了的暗灰色[[艾恩石]]，被施放了[[不灭明焰]]法术。它保留了漂浮和环绕飞行的能力，使持有者既能携带光源，又能空出双手。它可以是艾恩石常见的任何晶体形状（椭圆、棱柱、球形等等）。
+|req=[[制造奇物]]、[[不灭明焰]]、制造者必须已经12级
+|cost=62 gp 5 sp
+|source=进阶玩家指南、极限宝具
+}}

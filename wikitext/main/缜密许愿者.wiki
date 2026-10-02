@@ -1,0 +1,11 @@
+{{Trait
+|name=缜密许愿者
+|english_name=Thoughtful Wish-Maker
+|type=地区
+|pfs=否
+|prerequisites=火元素位面
+|description=你非常熟悉词汇能用多种方式去扭曲。你在察言观色检定获得+2背景加值。再者，若你在许下任何由异界生物实现的愿望之前成功通过DC 25的察言观色检定，你就会意识到你的愿望潜在的陷阱。若你成功超过5点或以上，你能弄清楚如何表达你的愿望，以免你的话被扭曲。
+|source_name=元素血脉
+|source=BotE
+|source_url=https://pf1chm.pages.dev/topics/zh7517ece198.htm
+}}

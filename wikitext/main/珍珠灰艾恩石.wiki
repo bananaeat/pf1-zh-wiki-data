@@ -1,0 +1,20 @@
+{{魔法物品
+|name=珍珠灰艾恩石
+|english_name=Nacreous Gray Sphere Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun Stone Nacreous Gray Sphere
+|cat=艾恩石
+|aura=中等防护系
+|cl=12
+|slot=无
+|price=10,000 gp
+|description='''形状'''：圆球
+
+'''效果'''：这块石头保护你不受衰老带来的属性值减值，你也不会被魔法催老。你已经受到的减值依然保留；加值仍会照常累积，到了寿终之时你仍会死于老死。如果你失去这块石头，或它的能力以某种方式被无效化，所有年龄效应和减值会立即生效。
+
+'''共振'''（放入[[寻路仪]]时）：对[[虚体]]生物的失手几率降低至25%。
+
+艾恩石的通用规则（启动、环绕飞行、抓取，以及AC、硬度）见[[艾恩石]]。
+|req=[[制造奇物]]、[[熊之坚韧]]、制造者必须已经12级
+|cost=5,000 gp
+|source=秘密探寻者
+}}

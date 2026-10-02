@@ -1,0 +1,14 @@
+{{魔法物品
+|name=光痕手套
+|english_name=Glowing Glove
+|aon=MagicWondrousDisplay.aspx?FinalName=Glowing Glove
+|cat=奇物
+|aura=微弱通用系
+|cl=1
+|slot=手部
+|price=2,000 gp
+|description=这只纤细的白色皮手套的穿戴者可以用一个[[标准动作]]把它按在任何表面或物体上，使一个发光的手印浮现出来。手印可以发出穿戴者希望的任何颜色的光，亮度如同蜡烛，在最远60尺的距离外都能轻易看到。这样的手印会持续1天，然后消退。发光的手印在大小、手指位置等方面都与穿戴者的手一致。
+|req=[[制造奇物]]、[[秘法印记]]
+|cost=1,000 gp
+|source=进阶玩家指南、极限宝具
+}}

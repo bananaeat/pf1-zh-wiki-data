@@ -1,0 +1,13 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[奥能爆发 (神话)]]。</small></div>
+{{Feat
+|name=奥能爆发
+|english_name=Arcane Blast
+|description=你能够将任何法术转化成射线攻击。
+|prerequisites=奥术施法者，施法者等级10级。
+|benefit=以[[标准动作]]，你能够牺牲一个1环或更高环级的已准备法术或者未使用法术位，并将其转化为射线，以远程[[接触攻击]]将30尺内的任意敌人作为目标。这个攻击造成2d6点伤害，外加每个被牺牲的已准备法术或者未使用法术位环级1d6点伤害。0环法术无法以此方式牺牲。这是一种超自然能力。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}
+
+{{FAQ|v5748eaic9oao}}

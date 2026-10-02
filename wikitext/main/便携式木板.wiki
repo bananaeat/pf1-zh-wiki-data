@@ -1,0 +1,9 @@
+{{装备
+|name=便携式木板
+|english_name=Collapsible plank
+|cat=冒险装备
+|price=4 sp
+|weight=10磅
+|description=这种木板在两处设有铰链，承重250磅之内不会断裂。10尺长的木板可以折叠成3尺×1尺×6英寸的一捆。折叠或展开它是一个[[标准动作]]。
+|source=冒险者的军械库、极限宝具
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=慌乱鼓
+|english_name=Drums of Panic
+|aon=MagicWondrousDisplay.aspx?FinalName=Drums of Panic
+|cat=奇物
+|aura=中等死灵系
+|cl=7
+|slot=无
+|price=30,000 gp
+|weight=10磅
+|description=这些鼓是定音鼓（架在支架上、直径约1.5尺的半球形），成对出现，外观并不起眼。如果一对鼓同时敲响，120尺内的所有生物（鼓周围半径20尺的安全区内的除外）都会受到如同[[恐惧术]]的影响（DC 16意志豁免，部分有效）。慌乱鼓每天可使用1次。
+|req=[[制造奇物]]、[[恐惧术]]
+|cost=15,000 gp
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=快速反射
+|english_name=Quick Reflexes
+|type=Ex
+|class=掉链野蛮人
+|benefit=野蛮人可以每回合额外进行一次[[借机攻击]]。
+|classic=超速反射
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

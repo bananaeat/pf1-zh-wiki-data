@@ -1,0 +1,10 @@
+{{Feat
+|name=兼容并蓄
+|english_name=Eclectic
+|description=天资聪慧的你能够胜任不同的职业。
+|prerequisites=人类。
+|benefit=选择一个额外的[[天赋职业]]，只要你获得该职业的等级，就可以获得+1HP或者+1技能点的天赋职业奖励。如果你选择已经拥有等级的职业，那么这一好处可以向前追溯。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

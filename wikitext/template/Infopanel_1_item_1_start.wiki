@@ -1,0 +1,1 @@
+<includeonly><div class="infopanel-item col-xs-{{{xs|12}}} col-sm-{{{sm|6}}} col-md-{{{md|3}}} col-lg-{{{lg|3}}} {{{class|}}}" style="{{{style|}}}"></includeonly>

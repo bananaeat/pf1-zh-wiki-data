@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''高等念力御身'''（Self Telekinesis, Greater, Sp）是[[操念使]]的[[原力]]。
+
+元素：[[以太]]；类别：通用（Sp）；等级：5；超载：0
+
+前置：[[念力御身]]
+
+在使用念力操控自身这方面，你获得了更强的掌控力。这项原力在其他方面的功能就如同[[高等火焰喷进]]一般。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。
+
+[[分类:原力]]

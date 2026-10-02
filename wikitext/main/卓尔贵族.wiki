@@ -1,0 +1,11 @@
+{{Feat
+|name=卓尔贵族
+|english_name=Drow Nobility
+|pfs=否
+|description=你的血液中流淌着力量，而你从中获益的更多。
+|prerequisites=能够使用卓尔的类法术能力，卓尔。
+|benefit=你可以随意以类法术能力使用[[侦测魔法]]，并且每日能以类法术能力使用[[羽落术]]与[[浮空术]]各1次。你的CL等同于你的角色等级。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=渴求光明
+|english_name=Seeker of Brightness
+|type=种族
+|prerequisites=[[精灵]]
+|description=你打孩童时期开始便积极地寻找光明的迹象。选择一项知识技能，你在该类知识检定和搜索检定上获得+1背景加值。（译注：AoN 原文作「Search checks」，搜索是 3.5 版技能，PF 中已并入[[察觉]]。）
+|source_name=格拉里昂的精灵
+|source_url=https://pf1chm.pages.dev/topics/zhd63cf5e76e.htm
+}}

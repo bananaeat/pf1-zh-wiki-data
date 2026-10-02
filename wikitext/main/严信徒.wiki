@@ -1,0 +1,9 @@
+{{Trait
+|name=严信徒
+|english_name=Principled
+|type=信念
+|description=你以严格的信条和守则来规范自己的决策与行为。你的[[唬骗]]技能检定受到-2减值，同时你对抗魅惑、胁迫和情绪效果的豁免检定获得+2背景加值。
+|source_name=信念背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

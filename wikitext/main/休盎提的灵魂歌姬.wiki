@@ -1,0 +1,9 @@
+{{Trait
+|name=休盎提的灵魂歌姬
+|english_name=Shoanti Spirit-singer
+|type=种族
+|prerequisites=[[人类]]（巴克雅尔部落或休盎提氏族）
+|description=你祖先的灵魂向你歌唱着你周遭的世界。每天一次，你能够在[[突袭]]轮行动，即使你没察觉到袭击者；你只能够用这个行动来开始一个吟游表演或战怒之歌，但是你在正常轮可以行动前仍视为[[措手不及]]。
+|source_name=进化职业起源
+|source_url=https://pf1chm.pages.dev/topics/zhc202b8be39.htm
+}}

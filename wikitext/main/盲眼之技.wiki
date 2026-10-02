@@ -1,0 +1,11 @@
+{{Feat
+|name=盲眼之技
+|english_name=Blinded Competence
+|categories=战斗
+|description=视觉缺失让你能以离奇的精准度打击你的敌人。
+|prerequisites=盲刃流，盲斗，精通盲斗，察觉10级
+|benefit=当你使用盲刃流且目盲或不可视物时，你不需要通过成功的察觉检定就能定位处在你近战武器触及范围内的生物，或是天然触及范围——如果你未持有近战武器的话。除了看不见的生物在对抗你时不会获得全隐蔽之外，此能力如同 盲感。在选择 高等盲斗 或基于高等盲斗为先决条件的专长时，拥有本专长视为满足察觉15级的先决条件。
+|source=BoS
+|source_name=阴影血脉
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=催命
+|english_name=Accomplished Sneak Attacker
+|description=只要能偷袭的，就是神也杀给你看！
+|prerequisites=偷袭职业能力
+|benefit=你的偷袭伤害上升+1d6，但是你的偷袭伤害骰数最多不超过你的角色等级的一半（向上取整）。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

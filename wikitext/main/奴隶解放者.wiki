@@ -1,0 +1,9 @@
+{{Trait
+|name=奴隶解放者
+|english_name=Slave Runner
+|type=社会
+|description={{AI翻译|nocat=1|本段由 AI 照 AoN 英文原文译出，CHM 汉化里没有这段译文，未经人工校对。}}你目睹或参与过[[铃花会]]或[[雄鹰骑士]]从切利亚斯的奴役中解救一名半身人的行动。每日一次，当你试图直接解放一个奴隶时，你可以在以下一项检定中获得+2背景加值(由你选择)：特技检定、脱逃检定、隐匿检定，或是作为劫案(《极限诡道》第118页)或追捕(《极限诡道》第142页)一部分进行的技能检定。
+|source_name=社会背景
+|source=SH
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

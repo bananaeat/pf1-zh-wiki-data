@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 199），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=掩体狙击手
+|english_name=Covered Sniper
+|type=种族
+|prerequisites=卡萨达人
+|description=你曾遭到陌生人袭击，他们威胁要将你的存在暴露给危险的势力，而你借助掩护保全了自己。只要你相对于对手处于掩护之中，你的远程武器伤害检定就获得+1背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Covered%20Sniper
+}}

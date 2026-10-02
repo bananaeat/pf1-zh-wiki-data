@@ -1,0 +1,9 @@
+{{Trait
+|name=破碎之心
+|english_name=Broken Mind
+|type=宗教
+|prerequisites=信仰[[格罗图斯]]
+|description=你迷醉于你的自己的疯狂世界之中，并且你在对抗疯狂与[[困惑]]影响时豁免获得+2背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

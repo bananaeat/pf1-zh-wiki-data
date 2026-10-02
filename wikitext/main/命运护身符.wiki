@@ -1,0 +1,14 @@
+{{魔法物品
+|name=命运护身符
+|english_name=Charm of Fate
+|aon=MagicWondrousDisplay.aspx?FinalName=Charm of Fate
+|cat=奇物
+|aura=微弱防护系
+|cl=5
+|slot=颈部
+|price=5,000 gp
+|description=这串由骨头、爪子和珠子制成的护身符可以保护佩戴者免受厄运、恶灵与邪恶魔法的伤害。佩戴者每天第一次豁免失败时，如果豁免检定骰失败的差值是在5点或更少，命运护身符会使佩戴者在豁免中成功。如果豁免骰距离成功差了6点或更多，则该护身符的当日使用次数被消耗，没有任何效果。
+|req=[[制造奇物]]、[[移除诅咒]]
+|cost=2,500 gp
+|source=冒险之路39：七矛之城
+}}

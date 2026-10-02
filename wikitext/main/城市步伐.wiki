@@ -1,0 +1,9 @@
+{{Feat
+|name=城市步伐
+|english_name=Citystep
+|prerequisites=隐匿1级，半精灵。
+|benefit=人群对你而言不视为[[困难地形]]。而且你在将人群当[[掩蔽]]时，隐匿检定会+5环境加值。
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/zh72cd9d7a9f.htm
+|source=HftF
+}}

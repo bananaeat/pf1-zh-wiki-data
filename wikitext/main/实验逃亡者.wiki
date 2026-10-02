@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 198），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=实验逃亡者
+|english_name=Experimental Escapee
+|type=种族
+|prerequisites=仿生人
+|description=你曾从一个想要弄清你身体运作方式的组织中逃脱。你为挣脱束缚、擒抱等状况而进行的[[脱逃]]检定和力量检定获得+2背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Experimental%20Escapee
+}}

@@ -1,0 +1,14 @@
+{{防具
+|name=加固短衫
+|english_name=Reinforced tunic
+|acat=轻型盔甲
+|price=1 gp
+|weight=5磅
+|ac=+1
+|maxdex=+5
+|acp=0
+|asf=5%
+|speed=30尺／20尺
+|description=这件系腰带的短衫有时被称作莱恩衫，衫中织入了厚实的绳索，覆盖住要害部位。加固短衫的护甲加值在对穿戴者进行的重击确认攻击掷骰中额外提高2点。
+|source=冒险者的军械库2
+}}

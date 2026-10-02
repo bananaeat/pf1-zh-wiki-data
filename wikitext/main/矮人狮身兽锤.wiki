@@ -1,0 +1,17 @@
+{{武器
+|name=矮人狮身兽锤
+|english_name=Sphinx hammer, dwarven
+|category=武器
+|prof=异种
+|wcat=双手
+|price=45 gp
+|weight=8磅
+|dmg_s=1d8
+|dmg_m=1d10
+|crit=×3
+|range=20尺
+|type=钝击
+|groups=锤，投掷
+|description=矮人狮身兽锤是一把长柄的锤子，锤头经过精心设计，形似一只羊面狮身兽。矮人狮身兽锤常见于帕美特，它经过平衡，既可以作为近战武器，也可以作为投掷武器。
+|source=缘界英雄
+}}

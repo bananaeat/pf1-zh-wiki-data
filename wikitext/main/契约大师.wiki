@@ -1,0 +1,10 @@
+{{Trait
+|name=契约大师
+|english_name=Contract Master
+|type=宗教
+|prerequisites=信仰[[阿斯莫迪斯]]
+|description=你对契约和法条之精通，让你既擅长理解冗长繁琐的文本，也善于掩饰自己的意图。你在[[语言学]]检定上得到+1背景加值，并且此项技能成为你的[[本职技能]]。【摘自 Evana 的翻译】
+|source_name=内海诸神
+|source=摘自 Evana 的翻译
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

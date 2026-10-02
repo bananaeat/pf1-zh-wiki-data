@@ -1,0 +1,9 @@
+{{Trait
+|name=砂石伏击
+|english_name=Sandy Ambush
+|type=种族
+|prerequisites=[[土元素裔]]
+|description=你擅长在沙漠环境中隐匿身型，并攻击路过的生物。当你在沙漠地形中[[俯卧]]，你在隐匿检定上获得+2背景加值，且从俯卧发动攻击时攻击骰的罚值由-4变为-2。
+|source_name=沙之子民
+|source_url=https://pf1chm.pages.dev/topics/zh730f330f66.htm
+}}

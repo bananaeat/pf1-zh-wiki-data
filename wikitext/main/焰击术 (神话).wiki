@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[焰击术]] 的神话版本。</small></div>
+{{Spell
+|name=焰击术
+|english_name=Flame Strike
+|school=塑能系
+|tags=火
+|levels=德鲁伊 4;猎人 4;先知 5;审判者 5;战斗祭司 5;牧师 5;萨满 5
+|description=法术造成的伤害增加至每施法者等级1d8点（最高15d8）。区域增加至‘半径20尺，40尺高的圆柱形’。你可以让来自神力的那一半伤害只影响特定的生物类型（如同破敌武器特性）。
+|source=神话冒险
+}}
+[[分类:神话法术]]

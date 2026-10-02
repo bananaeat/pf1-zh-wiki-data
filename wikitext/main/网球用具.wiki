@@ -1,0 +1,9 @@
+{{装备
+|name=网球用具
+|english_name=Tennis gear
+|cat=娱乐
+|price=3 sp
+|weight=3磅
+|description=这套用具包括1个填充羊毛的皮球以及木质球拍，球拍上的球拍线是用动物肠子制成的。
+|source=极限宝具
+}}

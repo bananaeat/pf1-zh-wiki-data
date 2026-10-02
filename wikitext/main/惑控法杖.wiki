@@ -1,0 +1,24 @@
+{{魔法物品
+|name=惑控法杖
+|english_name=Staff of Enchantment
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Enchantment
+|cat=法杖
+|aura=强烈惑控系
+|cl=13
+|slot=无
+|price=82,000 gp
+|weight=5磅
+|description=这根法杖通常由苹果木制成，顶端镶有一块透明的水晶。
+
+该法杖可以使用以下法术：
+
+* [[狂笑术]]（1 发）
+* [[睡眠术]]（1 发）
+* [[暗示术]]（1 发）
+* [[极度绝望]]（2 发）
+* [[心灵迷雾]]（2 发）
+* [[群体暗示术]]（3 发）
+|req=[[制造法杖]]、[[极度绝望]]、[[狂笑术]]、[[群体暗示术]]、[[心灵迷雾]]、[[睡眠术]]、[[暗示术]]
+|cost=41,000 gp
+|source=核心规则书、极限宝具
+}}

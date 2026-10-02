@@ -1,0 +1,13 @@
+<noinclude>{{奥能师导航}}
+{{消歧义|魅力四射}}
+'''魅力四射'''（Charmer, Su）是[[奥能师]]的[[奥能技艺|奥能技艺]]。
+
+</noinclude>{{Source|门徒教义|Disciple's Doctrine|inline}}
+
+奥能师可用标准动作从奥能源泉中花费1点奥能点获得[[花言巧语]]效果，施法者等级等同于他的奥能师等级。奥能师必须拥有[[奥能技艺#天真无邪|天真无邪]]技艺才能选择此技艺。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_96.html 原文]），按 AoN 核对过。全部奥能技艺见 [[奥能技艺]]。
+
+[[分类:奥能技艺]]
+
+{{职业}}</noinclude>

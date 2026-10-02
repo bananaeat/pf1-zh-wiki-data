@@ -1,0 +1,9 @@
+{{Feat
+|name=声誉
+|english_name=Renown
+|description=在加入协会之前你就已经声名鹊起，而你知道如何充分利用过去的声誉。
+|benefit=当你在一个5000人以上的[[定居点]]，为符合声望奖励的条件或购买装备而计算名誉时，视你的名誉比正常高2点。该专长不会给你任何额外的声望点。
+|normal=你的名誉是由你的过去职业生涯中所获得的声望总数决定的。
+|source_name=初探探索者协会
+|source_url=https://pf1chm.pages.dev/topics/page_547.html
+}}

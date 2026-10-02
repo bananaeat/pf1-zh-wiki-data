@@ -1,0 +1,10 @@
+{{武器
+|name=掷箭
+|english_name=Throwing arrow
+|category=弹药
+|wcat=弹药
+|price=5 sp
+|weight=1/2磅
+|description=掷箭太长，无法用于弓，因此尾部没有弓弦槽。取而代之的是，在箭羽前方有一个凹口，可以系上掷箭索。若不使用掷箭索投掷，则将掷箭视为[[飞镖]]。
+|source=远程战术工具箱
+}}

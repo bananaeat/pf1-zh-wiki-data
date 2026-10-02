@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[衰弱射线 (神话)]]。</small></div>
+{{Spell
+|name=衰弱射线
+|english_name=Ray of Enfeeblement
+|school=死灵系
+|domains=阴影子域 1
+|levels=催眠师 1;奥能师 1;女巫 1;术士 1;法师 1;血脉狂怒者 1;魔战士 1
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|effect=射线
+|duration=1轮/等级
+|save=强韧，通过则减半
+|sr=是
+|description=一条闪烁的射线从你的手中射出。你必须成功进行一次远程[[接触攻击]]以击中目标。目标受到 {1d6+每2CL 1} (最多1d6+5) 点的力量减值。目标的力量属性不能降低到1点以下。成功的强韧豁免会使减值减半。这个减值自身不会叠加。产生多个减值时，将最高的减值应用至目标身上。
+|source=核心规则书
+}}

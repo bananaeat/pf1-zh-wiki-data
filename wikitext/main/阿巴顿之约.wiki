@@ -1,0 +1,9 @@
+{{Trait
+|name=阿巴顿之约
+|english_name=Covenant of Abaddon
+|type=宗教
+|prerequisites=信仰四驭者之一
+|description=因为你的灵魂已经与一位驭者做了交易，所以你在对抗负向等级影响时强韧豁免获得+2背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

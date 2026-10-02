@@ -1,0 +1,8 @@
+{{Trait
+|name=元素谈判家
+|english_name=Elemental Negotiator
+|type=社会
+|description=你曾经与一队有钱商人或是强大法师一同前往元素位面。当你创建人物时，你可以选择以下一种语言作为奖励语言：水族语，风族语，火族语或土族语。此外，你因高智力而获得奖励语言时，除了种族和职业允许的语言选项外，还可以选择其他三种元素语。当你用这些语言与来自对应元素位面生物交流时，你的交涉和唬骗检定获得+2背景加值。
+|source_name=元素大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_1110.html
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=黑颅骨
+|english_name=Darkskull
+|aon=MagicWondrousDisplay.aspx?FinalName=Darkskull
+|cat=奇物
+|aura=中等塑能系［恶］
+|cl=9
+|slot=无
+|price=60,000 gp
+|weight=5磅
+|description=这颗用黑檀木雕成的颅骨彻头彻尾地邪恶。无论颅骨被带到哪里，其周围的区域都视为已施放了[[邪居]]法术，并以该颅骨作为被触及的起点。每个黑颅骨都绑定了一种法术效果；这种法术取自邪居法术描述中给出的标准列表，且不能更改。（译注：理论上是制造时由制造者选定。）
+|req=[[制造奇物]]、[[邪居]]，制造者必须是邪恶阵营
+|cost=30,000 gp
+|source=核心规则书、极限宝具
+}}

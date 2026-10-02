@@ -1,0 +1,15 @@
+{{Spell
+|name=鼹鼠祝福
+|english_name=Blessing of the mole
+|school=变化系
+|levels=先知 3;圣武士 3;审判者 3;战斗祭司 3;游侠 3;牧师 3;猎人 3
+|action=1轮
+|components=语言;姿势
+|range=近距
+|area=每等级一个生物
+|duration=1分钟/等级
+|save=无（无害）
+|sr=是（无害）
+|description=目标获得30尺黑暗视觉，以及在隐匿检定上获得+2表现加值。
+|source=极限魔法
+}}

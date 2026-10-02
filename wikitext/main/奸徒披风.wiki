@@ -1,0 +1,17 @@
+{{魔法物品
+|name=奸徒披风
+|english_name=Cloak of the Sneaky Scoundrel
+|aon=MagicWondrousDisplay.aspx?FinalName=Cloak of the Sneaky Scoundrel
+|cat=奇物
+|aura=微弱幻术系
+|cl=5
+|slot=肩部
+|price=6,400 gp
+|weight=2磅
+|description=这件深酒红色的披风会改变自身的色调和图案以融入周围的环境，使穿戴者在隐匿检定上获得+5表现加值。披风里有一个隐藏的剑鞘，可以藏下一把轻刃（定义见战士武器组）。穿戴者可以像从普通剑鞘里拔剑一样拔出这把刀刃，但任何搜身寻找该物品的人，都必须通过一次DC 20的察觉检定，如同寻找密门一样。
+
+如果游荡剑客穿着这件披风，她可以花费1点时髦值来消失，如同法术[[渐隐术]]。
+|req=[[制造奇物]]、[[缩物术]]、[[渐隐术]]
+|cost=3,200 gp
+|source=进阶职业指南
+}}

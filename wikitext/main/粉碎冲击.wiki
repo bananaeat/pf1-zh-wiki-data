@@ -1,0 +1,12 @@
+{{Feat
+|name=粉碎冲击
+|english_name=Smashing Impact
+|categories=战斗
+|description=你的冲击猛烈异常，能把对手撞向坚实的屏障，甚至将其撞穿。
+|prerequisites=力量15，[[破碎冲击]]，[[精通冲撞]]，[[精通徒手打击]]，[[猛力攻击]]
+|benefit=当你成功[[冲撞]]一个敌人，而他的位移被坚实物体或障碍物阻挡时，你可以对敌人和该物体同时造成[[徒手打击]]伤害，只要敌人位于你的威胁范围内。如果你在冲锋的一部分进行这一冲撞，你在伤害骰上获得+2加值。如果该伤害足以破坏该物体或屏障，你可以继续把目标推完冲撞[[战技]]所允许的剩余距离。
+|normal=你不能把一个生物冲撞进坚实物体或屏障。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/zh0ff052e72d.htm
+|source=MAH
+}}

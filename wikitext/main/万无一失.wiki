@@ -1,0 +1,9 @@
+{{Trait
+|name=万无一失
+|english_name=A Sure Thing
+|type=派系
+|description=每天一次，你在对一个邪恶阵营生物发起的单一攻击检定可以获得+2加值。如果目标并非邪恶阵营生物，此能力会被浪费掉。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

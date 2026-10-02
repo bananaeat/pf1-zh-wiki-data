@@ -1,0 +1,14 @@
+{{Feat
+|name=图腾门徒
+|english_name=Totemic Disciple
+|description=你对于原始图腾的理解随着你战斗技艺的纯熟也与日俱增。
+|prerequisites=力量 15；敏捷 13；[[运动健将]]；[[图腾学徒]]；基础攻击加值+9；除本专长或图腾学徒专长外无野蛮人图腾狂暴之力；非守序阵营。
+|benefit=选择一个先决条件为你用[[图腾学徒]]专长选取的野蛮人次级图腾[[狂暴之力]]的野蛮人图腾狂暴之力。当你获得图腾学徒专长给与你的好处时，你也可以获得新的狂暴之力的好处。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[图腾大师]]（1 个条目）

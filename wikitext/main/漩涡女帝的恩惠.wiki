@@ -1,0 +1,9 @@
+{{Feat
+|name=漩涡女帝的恩惠
+|english_name=Favor of the Empress of Torrents
+|description=你可以释放强力的水流来在水下击退你的对手。
+|prerequisites=信仰莱希阿娜萨或者是一名珍珠寻者圣武士，角色5级
+|benefit=每天一次，你可以在水下以类法术能力使用[[水流爆发]]APG。在10级以及之后的每5级，你每天可以额外使用这个能力一次。
+|source_name=水下冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1030.html
+}}

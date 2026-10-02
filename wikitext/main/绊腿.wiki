@@ -1,0 +1,17 @@
+{{Feat
+|name=绊腿
+|english_name=Tangled Limbs
+|categories=战斗
+|description=你把自己的长武器别在目标腿间，将其击倒[[俯卧]]。
+|prerequisites=智力13，[[寓守于攻]]，[[精通摔绊]]，对所选武器的[[武器专攻]]
+|benefit=选择一种拥有触及[[特殊能力]]的武器。当你使用所选武器进行摔绊时，目标不会因为多于两条腿而获得对抗你的[[CMD]]加值。
+|normal=多于两条腿的生物在对抗摔绊时，每多一条腿就会获得+2的CMD加值。
+|special=除了所选武器，拥有[[战士#武器训练|武器训练]]职业能力的可以用任何他所选择的战士武器组中拥有触及特性的近战武器使用绊腿专长。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/zh0ff052e72d.htm
+|source=MAH
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[泰坦纠缠]]（1 个条目）

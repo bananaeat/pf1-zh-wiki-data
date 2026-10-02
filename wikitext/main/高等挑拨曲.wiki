@@ -1,0 +1,17 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（《传奇编年史》pg. 14），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Spell
+|name=高等挑拨曲
+|english_name=Song of Discord, Greater
+|school=惑控系 (胁迫)
+|tags=影响心灵;音波
+|levels=吟游诗人 6;催眠师 6;异能者 8;歌者 6
+|action=标准动作
+|components=语言;姿势
+|range=中距
+|area=半径20尺扩散范围内的生物
+|duration=1轮/等级
+|save=意志，部分生效
+|sr=是
+|description=该法术如同[[挑拨曲]]，不过受影响的生物每轮都会自动攻击最接近的目标。此外，所有受影响的生物在法术持续时间内获得+4力量士气加值。通过意志豁免的生物，效果的持续时间降为1轮。
+|source=传奇编年史
+}}

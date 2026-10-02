@@ -1,0 +1,14 @@
+{{Feat
+|name=内在之光
+|english_name=Inner Light
+|aon=Inner Light (BoA)
+|description=即使你与生俱来的光明力量被击败，你和你的盟友也会和黑暗势力战斗到底。
+|prerequisites=[[神裔]]，昼明术类法术能力
+|benefit=每当你施放[[昼明术]]类法术能力，你的施法者等级视为比正常高1。如果一个敌人成功的反制或驱散了你的昼明术类法术能力，你和附近20尺内的盟友都将获得60尺黑暗视觉，持续轮数等于你的角色等级。这是一个超自然效果。
+|source_name=天界血脉
+|source_url=https://pf1chm.pages.dev/topics/page_829.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[炫目光辉]]（1 个条目）

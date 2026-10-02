@@ -1,0 +1,10 @@
+<noinclude>{{调查员导航}}
+'''高等数理炼金'''（Numerical Alchemy, Greater, Su）是[[调查员]]的[[调查员天赋|调查员天赋]]。
+
+</noinclude>{{Source|门徒教义|Disciple's Doctrine|inline}}
+
+该调查员能将对危险或未知情形的反应纳入到行动计算中。他能花费一次灵感以[[标准动作]]制作一剂炼成。若要选择该天赋，调查员必须拥有数理炼金天赋且至少达到11级。<noinclude>
+
+[[分类:调查员天赋]]
+
+{{职业}}</noinclude>

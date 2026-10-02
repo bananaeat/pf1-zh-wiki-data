@@ -1,0 +1,16 @@
+{{Spell
+|name=即刻窒息
+|english_name=Suffocation, Instant
+|school=死灵系
+|tags=死亡
+|levels=萨希尔·菲恩 5
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的一个活物
+|duration=立即
+|save=强韧，通过则部分生效
+|sr=是
+|description=此法术的功能如同[[杀生术]]，只不过是通过立即[[环境规则#窒息|窒息]]来致死。不用呼吸的生物免疫此法术。受到影响的目标，在决定成瘾以及戒瘾效果时，会被认为吸食了一剂[[佩什]]。
+|source=黑暗市集：卡塔佩什指南
+}}

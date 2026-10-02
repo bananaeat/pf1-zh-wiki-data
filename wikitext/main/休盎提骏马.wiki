@@ -1,0 +1,9 @@
+{{Trait
+|name=休盎提骏马
+|english_name=Shoanti Steed
+|type=种族
+|prerequisites=[[人类]]（休盎提人）
+|description=你的游牧文化给予你深刻的了解和尊重漫游在你家园的马匹。你在开始游戏时获得一只已战斗训练的轻型马(Pathfinder RPG Bestiary 177)。当你无鞍骑乘这匹马时，视你为有骑乘鞍座下骑乘(为马装备任何鞍座都会失去此好处)。除了最恶劣的环境之外，这匹马可以在[[定居点]]外自力更生。如果在社区以外吹口哨，马通常在1d6分钟内到达。如果你的马被杀，你可以通过返回你的氏族并为它的灵魂守夜，从而获得一匹新的马(仪式中须要用上罕见的香草和焚香，价值100gp)。
+|source_name=瓦瑞西亚，传说诞生之地
+|source_url=https://pf1chm.pages.dev/topics/zh1d5e5ac9bb.htm
+}}

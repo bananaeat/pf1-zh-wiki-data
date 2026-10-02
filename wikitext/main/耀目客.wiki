@@ -1,0 +1,10 @@
+{{Trait
+|name=耀目客
+|english_name=Illuminator
+|type=宗教
+|prerequisites=信仰[[塞恩蕾]]
+|description=当你浑身充盈着塞恩蕾之光时，你的谈吐呈现出火热的口才。你的交涉检定获得+2背景加值，并且将交涉视为你的[[本职技能]]。【摘自mikun的翻译】
+|source_name=内海诸神
+|source=摘自mikun的翻译
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

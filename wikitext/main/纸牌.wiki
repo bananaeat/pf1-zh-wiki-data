@@ -1,0 +1,9 @@
+{{装备
+|name=纸牌
+|english_name=Cards
+|cat=娱乐
+|price=1 sp–100 gp
+|weight=1磅
+|description=纸牌种类繁多，从在厚纸板上用雕版印出符号的，到在上过蜡的犊皮纸、象牙、木材甚至金属上手绘而成的精美艺术品，不一而足。
+|source=极限宝具
+}}

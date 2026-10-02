@@ -1,0 +1,17 @@
+{{Spell
+|name=次等困惑术
+|english_name=Confusion, Lesser
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=催眠师 1;吟游诗人 1;异能者 1;歌者 1;萨希尔·菲恩 1;通灵者 1
+|domains=幻蛇子域 1;狂乱领域 1
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=近距
+|target=一个活物
+|duration=1轮
+|save=意志，通过则无效
+|sr=是
+|description=该法术会导致单个生物[[困惑]]1轮。
+|source=核心规则书
+}}

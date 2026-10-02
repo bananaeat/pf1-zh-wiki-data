@@ -1,0 +1,11 @@
+{{Feat
+|name=索命弹
+|english_name=Named Bullet
+|categories=勇毅
+|description=你能够制作专门用来杀死特定敌人的弹药。
+|prerequisites=“业余枪手”UC专长或勇毅职业特性，“枪匠”UC，基础攻击加值+5。
+|benefit=当你用“枪匠”专长制作弹药时，你可以刻上子弹或炼金定装弹其预定目标的名字。弹药仅对所选生物获得破敌武器[[特殊能力]]。若该弹药用于攻击任何其他目标，所进行的攻击投骰反而要承受-2减值。制作索命弹消耗1点[[枪手#勇毅|勇毅]]，并且使你的最大勇毅减少1，直到索命弹被击发或摧毁为止。
+|source=CoB
+|source_name=平衡勇士
+|source_url=https://pf1chm.pages.dev/topics/zh27d9c2abc3.htm
+}}

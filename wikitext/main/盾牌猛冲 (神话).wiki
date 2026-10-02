@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[盾牌猛冲]] 的神话版本。</small></div>
+{{Feat
+|name=盾牌猛冲
+|english_name=Shield Slam
+|categories=神话
+|description=你的盾牌会以极大的力量冲击敌人。
+|prerequisites=[[盾牌猛冲]]
+|benefit=当你使用[[盾牌猛冲]]专长[[冲撞]]时，若1名敌人由于墙壁或者其他表面而被击倒在地的话，他还会由于碰撞而受到伤害。你每拥有2个阶层就会造成1d6点伤害。当你由于盾牌猛冲专长而进行冲撞检定时，以[[直觉动作]]，你能够花费1次神话之力将你的阶层加到你的[[战技]]检定上。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

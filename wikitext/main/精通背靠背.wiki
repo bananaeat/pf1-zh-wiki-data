@@ -1,0 +1,11 @@
+{{Feat
+|name=精通背靠背
+|english_name=Improved Back to Back
+|categories=团队
+|description=经过长时间的战斗训练，你们知道如何掩护彼此。
+|prerequisites=[[察觉]]5级，背靠背。
+|benefit=当你和有此专长且被[[夹击]]的队友邻接时，你可以花费一个[[迅捷动作]]令自己对抗那些夹击者的AC+2，持续到你下一轮开始。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

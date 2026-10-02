@@ -1,0 +1,10 @@
+{{Trait
+|name=权欲
+|english_name=Power-Hungry
+|type=缺陷
+|pfs=否
+|description=你沉迷于权力。
+|benefit=如果一个生物创造的魅惑或胁迫效果对你承诺以权力和财富，你对其的意志豁免检定有-2罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

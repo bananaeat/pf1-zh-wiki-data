@@ -1,0 +1,14 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[致命绝杀 (神话)]]。</small></div>
+{{Feat
+|name=致命绝杀
+|english_name=Deadly Stroke
+|aliases=致死打击
+|categories=战斗
+|description=你能用一次精确的击打，快速而致命的终结你的敌人。
+|prerequisites=[[炫目技巧]]，[[高等武器专攻]]，[[粉碎防御]]，[[武器专攻]]，擅长对应的武器，基本攻击加值+11。
+|benefit=作为一个[[标准动作]]，以你所拥有[[高等武器专攻]]专长的武器，对一个处于[[震慑]]或[[措手不及]]状态的敌人做出攻击。如果击中，将造成双倍普通伤害以及1点体质[[出血]]。额外伤害和出血不会因重击而加倍。
+|stamina=花费5点耐力你可以对眩晕的目标进行[[致命绝杀]]，或花费10点对夹击的敌人致命绝杀。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

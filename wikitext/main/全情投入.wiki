@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 195），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=全情投入
+|english_name=Zealous (Garundi)
+|type=种族
+|prerequisites=[[人类]]——加伦德人
+|description=你年轻时迷茫而漫无目标，直到一位恩主动情的介入，让你看到了全身心投入自己所做之事的力量。每天一次，你可以在任意一次攻击检定、豁免检定或技能检定上加+2背景加值。你必须在掷骰之前决定使用该加值。使用这项能力时，你的AC和豁免检定承受-2罚值，持续到你下一回合结束。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Zealous%20%28Garundi%29
+}}

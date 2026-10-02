@@ -1,0 +1,10 @@
+{{Trait
+|name=精灵恨意
+|english_name=Elven Bitterness
+|type=地区
+|prerequisites=奇奥尼
+|description=只有奇奥尼最精明的侦察兵才会被选中，在[[精灵]]国度与恐怖扭曲棘林之间的边境担任守卫。大多数被派去巡逻那片废土的人，都会携带强力的魔法物品，并在奥术伪装的掩护下行动。你与那些守护过精灵家园的人交往甚深，或者了解过精灵用来对抗恶魔仇敌的防御魔法。当你对一个混乱邪恶异界生物施放惑控法术时，该法术的DC+2。
+|source_name=恶魔猎人手册
+|source=DHH
+|source_url=https://pf1chm.pages.dev/topics/zh143e5b3a4e.htm
+}}

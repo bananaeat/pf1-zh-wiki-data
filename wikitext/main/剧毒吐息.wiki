@@ -1,0 +1,16 @@
+{{Spell
+|name=剧毒吐息
+|english_name=Poison breath
+|school=塑能系
+|tags=毒素
+|levels=德鲁伊 6;猎人 6;先知 7;女巫 7;牧师 7
+|action=标准动作
+|components=语言;姿势;材料/圣徽（一只蜘蛛的下颌骨）
+|range=15尺
+|area=锥形爆发
+|duration=立即
+|save=强韧，通过则无效
+|sr=是
+|description=你从嘴里喷出一股锥形爆发的毒雾，让被困在区域中的每一个目标都受到致命毒药，就像[[毒击术]]一样。
+|source=阴招战术工具箱
+}}

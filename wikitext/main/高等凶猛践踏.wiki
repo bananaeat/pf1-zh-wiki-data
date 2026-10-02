@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=高等凶猛践踏
+|english_name=Ferocious Trample, Greater
+|type=Ex
+|categories=进攻
+|prerequisites=[[野蛮人]]12级，[[凶猛践踏]]
+|benefit=野蛮人坐骑的[[通用怪物规则|践踏]]造成比原本[[凶猛践踏]]大一级的伤害。并且当目标反射豁免失败(或是选择不反射，而是藉机攻击)时，它可以用[[自由动作]]尝试进行[[闯越]][[战技]]。
+|source_name=进阶玩家指南
+}}

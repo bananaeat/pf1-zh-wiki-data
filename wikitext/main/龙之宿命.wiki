@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Dragons pg. 3），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=龙之宿命
+|english_name=Draconic Destiny
+|type=社会
+|description=无论你是否知情，你的降生都只是某条巨龙宏大图谋中一个深远布局的一环，而这神秘计划的影响让你更难被杀死。当你[[濒死]]时，你在为变得[[稳定]]而进行的体质检定上获得+2背景加值。此外，只有当你的生命值等于或低于你的体质值+2的负值时，你才会因生命值损失而死亡。
+|source_name=巨龙遗产
+|source=LoD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Draconic%20Destiny
+}}

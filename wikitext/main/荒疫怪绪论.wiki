@@ -1,0 +1,47 @@
+{{速查导航}}
+{{怪物绪论
+|name=荒疫怪绪论
+|english_name=Blight
+|lore=
+Before human civilizations rose and modern history began，ancient races like aboleths，saurians，troglodytes，and lizardfolk bickered and fought for dominion over the primeval world. Among the most powerful of these prehuman races were the serpentfolk. Few other races could match their power in magic，be it arcane，divine，or psychic in nature. The serpentfolk were inventive and persistent in their application of magical research to bolster their war machines，and those among them who followed primordial druidic traditions were no exception.
+
+These ancient serpentfolk druids worshiped only the raw savagery of nature，and they sought ways to infuse the terrain itself with malevolence and sentience，recruiting the land as yet another minion in their endless wars against their enemies. But when these druids sought to invest the land with raw energies of life they'd siphoned violently from the realm of the fey，something went horribly wrong. The druids，their allies，and the land itself liquefied and then animated into a malevolent form of life that viewed all civilization as the enemy. The protoplasmic monstrosity split apart into countless blots of slimy hatred and infested regions throughout the serpentfolk realm，forcing the ancients to fight a new war within their own homeland. In time，the serpentfolk managed to defeat these intelligent oozes，creatures they came to refer to as blights—yet these life forms proved unnaturally tenacious. They continued to reappear，retreating farther and farther into the wilds each time they were defeated，but always surviving. And when the time of the serpentfolk passed，the blights endured.
+
+Today，blights remain rare，yet their hatred of civilization is stronger than ever，and when a wandering blight encounters the stain of society in the wilds，it takes the presence of such settlements as a personal affront. Patient as they are cruel，blights think nothing of slowly transforming the lands adjacent to a small town or even a city to slowly starve its inhabitants of resources until the monstrous ooze can finally begin the task of reclaiming the urbanized lands as its own.
+
+Although long ago the blights were of one primal nature，the passage of countless eons has seen these creatures evolve and adapt，and now seven notable variants of blight are known to exist in various reaches of the world. While it's certain that other terrains have spawned unique blights of their own，these seven represent the most commonly encountered of these uncommon monsters. Blights have a universal hatred of all things civilized，a fury that extends even to druidic cults and fey. To a blight，any sign of intelligence（barring what might arise in certain plant monsters or magical beasts）represents a potential for civilization—something that cannot be allowed to endure.
+
+A blight finds travel outside of its chosen domain to be physically painful，and when forced to leave its home，the monster avoids conflict and maintains a stealthy cover until it can find a new lair more appealing to its nature. Once a blight settles into an area with the type of terrain its particular variant prefers，it infuses that realm with its presence，creating a domain of evil that fills a large area with magical effects. Typically，a blight creates such a domain in a region adjacent to civilization，so that it can both reduce resources available to nearby settlements and have nearby terrain to prey upon. Capable of magically commanding creatures that dwell within its domain，the blight begins its war against neighboring settlements by sending magically controlled animals and plants to savage citizens and sow terror.
+
+When a blight claims a territory，it often catches more than just animals，magical beasts，and plants in its domain. While it detests creatures with intellects，it still understands that such denizens of its domains can be useful agents in its campaign against civilization. Typically，a blight has little interest in or patience for less powerful creatures（as a general rule，this includes any creature with a CR equal to half the blight's CR or less），and these unfortunate denizens are usually the first to die after a blight claims a domain. It approaches more powerful denizens，however，with offers of alliance. Blights are both canny and sly；they understand that their innate spell–like abilities won't work on things like dragons，giants，powerful aberrations，undead，and the like，yet they also know that most such creatures can be bought—be it with promises of material wealth，opportunities to plunder a defeated enemy，or chances to gain power. Some blights even specialize in usurping a primitive tribe's religious center by convincing creatures that they are agents sent from their gods（such tactics work best on primitive tribes with few or no religious leaders，or tribes whose religious leaders have recently been slain in secret by the blight）. Yet regardless of what a blight promises these creatures in return for their aid in attacking nearby pockets of civilization，in the end the blight always turns against its one–time allies. They are merely the last to fall to the hateful ooze's wrath，the final sacrifices to the creature's insatiable need to murder all thinking creatures it finds.
+
+Although the individual powers of the various categories of blight vary，all blights share certain features in common，including a thick layer of malleable protoplasm that provides significant natural armor，a host of glaring red eyes，and a shared suite of blight abilities（see the Blight Subtype section）. The blights presented on the following pages represent the most well–known of the species，but other，stranger variants may exist in remote regions.
+
+=== 荒疫怪子类 ===
+
+荒疫怪是一种邪恶而智慧的泥怪，会感染整个生态系统。除非在生物条目中另有说明，否则荒疫怪具有以下特征。
+
+在标准泥怪免疫基础上额外添加酸蚀免疫
+
+偏好地形 Favored Terrain (Ex)：荒疫怪偏好特殊类型的地形。在其偏好地形内，荒疫怪在先攻检定和知识（地理）、察觉、隐匿和生存检定+2。荒疫怪在其偏好地形上旅行时不会留下任何痕迹并且无法被追踪（如果他刻意想要留下痕迹也是可以的）。在其偏好地形之外，荒疫怪失去邪恶领域、重生、类法术能力和心灵感应的能力；它还进入恍惚状态。
+
+诅咒区域 Cursed Domain (Su)：荒疫怪是活的邪恶领域中心（HA159页）。每年一次，荒疫怪可以入侵其偏好地形，将其转变为半径5英里的邪恶领域（这种影响不会延伸到地形的自然边界之外）。该领域的中心可以通过侦测邪恶来识别，因为它在半径10尺范围内散发刺目的邪恶灵光。荒疫怪领域的中心可以成为移除诅咒效果的目标，以暂时解除这种苦难。移除荒疫怪诅咒区域的 DC=10+1/2荒疫怪 HD+魅力调整。如果成功，移除诅咒效果会在每个施法者等级里压制邪恶领域1小时，在此期间，相关的荒疫怪会陷入恶心。多个荒疫怪的诅咒区域可以重叠，但效果不会叠加——这只会使移除诅咒效果变得更加困难，因为有多个中心。由于所有的荒疫怪都至少有10个 HD，所以这些邪恶领域总是会变为强烈邪恶阵营。荒疫怪的诅咒区域有开放的边界，生物可以自由进出。与典型的邪恶领域不同，动物不会对荒疫怪的邪恶领域感到特别不安。虽然魔法和时间在这个诅咒区域中不受影响，但每个荒疫怪都会给这个领域注入特定的危险，详见荒疫怪的条目。
+
+重生 Rejuvenation (Su)：如果一个荒疫怪在其诅咒区域内被杀死，那么在1d10天内，一个相同类型的新荒疫怪会在荒疫怪的诅咒区域的中心自发形成，除非有以荒疫怪尸体为目标的移除诅咒法术（DC=10+荒疫怪 HD）
+
+类法术能力（Sp）：一旦荒疫怪建立了一个诅咒区域，它就可以使用一小组类法术能力向其领域内的植物和动物发出命令。有诅咒区域的荒疫怪每天可以使用以下类法术能力，每天一次，在其领域内使用：[[枯萎术]]，[[命令植物]]，支配怪物（仅限异怪，动物和魔法兽，DC 26），高等诅咒地形，幻景。此外，每种类型的荒疫怪都会获得其地形特有的额外类法术能力，如荒疫怪的数据表所示。荒疫怪的这些类法术能力施法者等级总是等于它的 CR。
+
+心灵感应 Telepathy (Su)：荒疫怪可以与他们领域内的任何智能生物进行心灵感应交流。
+
+视力 Vision (Ex)：与大多数泥怪不同，荒疫怪有眼睛，有正常视觉。此外，所有荒疫怪还有120尺盲视。
+|members=
+* [[洞穴荒疫怪]]（CR 19）
+* [[沙漠荒疫怪]]（CR 13）
+* [[丛林荒疫怪]]（CR 18）
+* [[山岳荒疫怪]]（CR 14）
+* [[阴沟荒疫怪]]（CR 15）
+* [[沼泽荒疫怪]]（CR 17）
+* [[冰原荒疫怪]]（CR 16）
+}}
+
+本页译自《[[怪物图鉴6]]》的怪物图鉴 CHM。

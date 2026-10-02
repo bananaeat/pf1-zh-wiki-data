@@ -1,0 +1,12 @@
+{{Feat
+|name=怀恨在心
+|english_name=Grudge Fighter
+|categories=战斗
+|pfs=否
+|description=你对任何胆敢攻击你的人都抱有极大的愤怒，这股怒火让你的攻击更加强大。
+|prerequisites=兽人。
+|benefit=在攻击任何在当前战斗中攻击过你的生物时，你在攻击和伤害检定上获得+1士气加值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

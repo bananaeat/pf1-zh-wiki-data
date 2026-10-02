@@ -1,0 +1,11 @@
+{{Feat
+|name=强力之翼
+|english_name=Powerful Wings
+|categories=战斗
+|pfs=否
+|description=你拥有较同族相当庞大的翅膀，你可以用其击打你的敌人。
+|prerequisites=力量13，技能专攻（飞行），BAB+8
+|benefit=你获得两个翼击天生武器。他们被视为次要天生武器，造成的伤害相当于比你大一个体型等级的翼击伤害。在判定那些与翅膀有关的专长（比如说盘旋）时，你可以被视为体型大一个等级。
+|source_name=内海怪物志
+|source_url=https://pf1chm.pages.dev/topics/zhb83e0d90c4.htm
+}}

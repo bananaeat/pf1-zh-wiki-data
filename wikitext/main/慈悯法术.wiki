@@ -1,0 +1,10 @@
+{{Feat
+|name=慈悯法术
+|english_name=Merciful Spell
+|categories=超魔
+|description=你的伤害性法术只会制服敌人，而不会将其杀死。
+|benefit=你能够调整法术，使其造成[[非致命伤害]]。造成特定类型伤害的法术（如火焰）所造成的非致命伤害也属于相同的类型。慈悯法术不会占用比法术的实际环级高的法术位。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

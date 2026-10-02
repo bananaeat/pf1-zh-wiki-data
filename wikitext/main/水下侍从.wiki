@@ -1,0 +1,10 @@
+{{Feat
+|name=水下侍从
+|english_name=Aquatic Squires
+|description=当你从海洋中[[寻求帮助]]时，你所召唤的生物持续时间更长。
+|prerequisites=[[梭螺鱼人]]，召唤自然盟友 II法术能力，角色等级5级
+|benefit=你的[[召唤自然盟友 II]] 法术能力的持续时间为1分钟/等级。
+|normal=召唤自然盟友 II 的默认持续时间为1轮/等级。
+|source_name=海洋之血
+|source_url=https://pf1chm.pages.dev/topics/zh7e409f67e0.htm
+}}

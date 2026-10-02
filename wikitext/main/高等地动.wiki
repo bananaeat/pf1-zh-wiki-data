@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''高等地动'''（Shift Earth, Greater, Sp）是[[操念使]]的[[原力]]。
+
+元素：土；类别：通用（Sp）；等级：7；超载：0
+
+前置：[[念力掩体]]，[[地动]]
+
+你能够大规模地挪动土地，就如同使用法术[[地动术]]一般。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。
+
+[[分类:原力]]

@@ -1,0 +1,10 @@
+{{Feat
+|name=拥抱恐惧
+|english_name=Inspired by Fear
+|description=你的丧歌让敌人[[战栗]]，但你的盟友反而更为坚强。
+|prerequisites=可以演奏末日丧歌
+|benefit=处于你的末日丧歌表演影响范围内的盟友将在对抗恐惧效果的豁免检定上获得+4士气加值，必须有至少一名敌人处于末日丧歌的影响范围内并因末日丧歌而陷入战栗，你和你的盟友才能获得这个加值。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

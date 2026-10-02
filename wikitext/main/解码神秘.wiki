@@ -1,0 +1,10 @@
+{{Feat
+|name=解码神秘
+|english_name=Esoteric Linguistics
+|description=你能解读最古怪的文字，包括那些蕴含魔法的文字。
+|prerequisites=[[技能专攻]]（语言学）
+|benefit=你可以使用一次[[语言学]]检定来代替[[使用魔法装置]]技能以使用卷轴，或是代替[[辨识法术]]技能以辨识一张卷轴，但是你必须拥有（或通过技能模仿）可以施放该环法术的属性值，并且你不能通过语言学技能来模仿此施法属性。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

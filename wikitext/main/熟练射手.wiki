@@ -1,0 +1,11 @@
+{{Feat
+|name=熟练射手
+|english_name=Deft Shootist
+|categories=勇毅
+|description=当你专注于你的武器时仍保持警惕，使得你在射击或装填火器时能避免受到攻击。
+|prerequisites=【勇毅】职业特性或业余枪手专长，[[闪避]]，灵活移动。
+|benefit=当你还有至少1点[[枪手#勇毅|勇毅]]点时，你不会在射击或装填火器时引发[[借机攻击]]。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

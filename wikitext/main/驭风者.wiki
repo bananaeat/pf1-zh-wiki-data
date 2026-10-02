@@ -1,0 +1,10 @@
+{{Feat
+|name=驭风者
+|english_name=Wind Rider
+|description=你经过训练，能够在强风中自如移动与战斗，并运用风之元素的力量来增强自身速度。
+|prerequisites=特技或飞行3级。
+|benefit=当你在强风中飞行时，你的飞行速度增加15尺。每高一个风力等级，你的飞行速度再增加15尺（即在烈风中增加30尺，在暴风中增加45尺，在龙卷风中增加60尺）（译注：AoN 原文未列出飓风，且龙卷风记为+60尺，与「每高一级再加15尺」的规则不符，疑有遗漏或笔误。）。此专长不会为用来判定你是否可能被风阻挡或吹飞的飞行检定或力量检定提供任何加值。
+|source=BotA
+|source_name=古国血脉
+|source_url=https://pf1chm.pages.dev/topics/zh3e60e7b09a.htm
+}}

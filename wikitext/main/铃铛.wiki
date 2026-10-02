@@ -1,0 +1,9 @@
+{{装备
+|name=铃铛
+|english_name=Bell
+|cat=冒险装备
+|price=1 gp
+|weight=—
+|description=这种铃铛只能产生单一的、响亮的声音。
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=风扇
+|english_name=Wind Fan
+|aon=MagicWondrousDisplay.aspx?FinalName=Wind Fan
+|cat=奇物
+|aura=微弱塑能系
+|cl=5
+|slot=无
+|price=5,500 gp
+|description=风扇看起来不过是一件用木头和纸草或布料制成、用来扇出凉风的器具。说出命令字后，持有者会使风扇重现一次[[造风术]]的效果。风扇每天使用一次没有风险；如果当天使用得更频繁，则当天每多使用一次，就有20%的累积几率使这件器具撕裂成无用的、没有魔法的碎片。
+|req=[[制造奇物]]、[[造风术]]
+|cost=2,750 gp
+|source=核心规则书、极限宝具
+}}

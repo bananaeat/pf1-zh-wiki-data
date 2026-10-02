@@ -1,0 +1,12 @@
+{{Feat
+|name=偷袭重击
+|english_name=Sneaking Critical
+|categories=战斗;重击
+|description=你的重击异常致命。
+|prerequisites=[[重击专攻]]，偷袭职业能力，基础攻击加值+9
+|benefit=每当你在一次偷袭攻击时确认重击，你都可以在投偷袭伤害时额外加上相当于你的武器重击倍数的偷袭伤害骰。
+|special=如果你不拥有[[重击熟稔]]专长的话，那么每次造成重击时你只能应用一个[[重击专长]]的效果。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

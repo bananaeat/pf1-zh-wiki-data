@@ -1,0 +1,9 @@
+<noinclude>{{速查导航|here=规则}}
+'''跨位面亚种'''（Extraplanar）是一种怪物[[生物类型与怪物亚种#生物亚种|亚种]]。
+</noinclude><includeonly><div class="lang"><span id="跨位面"></span><span id="跨位面亚种"></span><div class="lang-h"><b>[[跨位面亚种|跨位面亚种]]</b><i>Extraplanar</i></div><div class="lang-d"></includeonly>
+此亚种适用于不在其原本所属位面的任何生物。在位面间旅行的生物在从一个位面转移到另一个位面时可能获得或失去此亚种。怪物描述默认生物之间的遭遇发生在主物质位面，所以原本所属位面不是主物质位面的生物都具有跨位面亚种（但当它在其原始位面的时候便不具有）。本书中的每个跨位面生物，在描述中都注明了它原本所属的位面。没有标明跨位面的生物都是主物质位面的本地生物，当它们离开主物质位面的时候将获得跨位面亚种。处于过渡位面，即[[位面#星界|星界]]、灵界和影界的时候，任何生物都不具有跨位面亚种。
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=MonsterSubtypes.aspx?ItemName=Extraplanar|2=Extraplanar}}
+
+[[分类:怪物亚种]]</noinclude>

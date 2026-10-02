@@ -1,0 +1,11 @@
+<noinclude>{{杀手导航}}
+{{消歧义|失衡技巧}}
+'''失衡技巧'''（Unbalancing Trick, Ex）是[[杀手]]的[[杀手天赋|杀手天赋]]。
+
+</noinclude>{{Source|元素大师手册|Elemental Master's Handbook|inline}} 杀手获得[[精通摔绊]]作为奖励专长，即使他不满足先决条件。6级时，他视为满足[[高等摔绊]]专长的所有先决条件（但他必须正常选择这个专长才能获得其效果）。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_118.html 原文]）。尝血者、支持队友译自[https://pf1chm.pages.dev/topics/page_581.html 斯科扎尼黑手一章]，永世仇敌、人生经验、直面恐怖、山坡伏击、神秘之纱、重唤技艺译自[https://pf1chm.pages.dev/topics/page_1338.html 传承武学一章]，集中毒药、偏转毒药译自[https://pf1chm.pages.dev/topics/page_1261.html 静谧毒杀者一章]，猫族盗贼天赋译自[https://pf1chm.pages.dev/topics/page_451.html 种族特性一章]；壁垒、额外残岩、坚固阵地、失衡技巧、阵营偷袭、切裂阵营、一人千面、通晓探知照站上同名盗贼天赋单页。均按 AoN 核对过。全部杀手天赋见 [[杀手天赋]]。
+
+[[分类:杀手天赋]]
+
+{{职业}}</noinclude>

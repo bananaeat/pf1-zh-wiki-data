@@ -1,0 +1,12 @@
+{{消歧义|烟雾弹 (消歧义)}}
+{{武器
+|name=烟雾弹
+|english_name=Alchemical cartridge (smoke cartridge)
+|category=火器
+|prof=异种
+|wcat=弹药
+|price=35 gp
+|weight=—
+|description=这种定装弹只能装载至具有霰弹特性的武器中。烟雾弹不会造成伤害，而是在命中目标时炸成一团半径20尺的烟云。这种烟雾遮蔽超过5尺的视觉，5尺外的生物具有[[隐蔽]]（20%失手率）。烟云在1d4轮后消散，微风可在1轮内将其吹散。
+|source=格拉利昂的英雄
+}}

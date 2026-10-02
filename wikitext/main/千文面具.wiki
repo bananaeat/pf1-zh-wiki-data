@@ -1,0 +1,15 @@
+{{魔法物品
+|name=千文面具
+|english_name=Mask Of A Thousand Tomes
+|aon=MagicWondrousDisplay.aspx?FinalName=Mask Of A Thousand Tomes
+|cat=奇物
+|aura=微弱预言系
+|cl=5
+|slot=头部
+|price=10,000 gp
+|weight=1磅
+|description=这副羊皮纸色的无眼面具表面不时浮现出随机的文字片段，暗示着其中储存着众多典籍的知识。面具使穿戴者的所有知识技能检定获得+10表现加值，但穿戴面具期间，穿戴者会[[目盲]]。必须戴上面具10分钟之后，穿戴者才能获得其加值。
+|req=[[制造奇物]]、[[锐耳术/鹰眼术]]
+|cost=5,000 gp
+|source=极限宝具
+}}

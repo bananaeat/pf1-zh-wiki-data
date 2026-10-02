@@ -1,0 +1,45 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #34: Blood for Blood
+|authors=Neil Spicer
+|pages=96
+}}
+
+{{书页/简介|head=|1=
+即便 PC 们的王国正在被窃之地的腹地生长，这片土地也远未被驯服。一场无情的野蛮人入侵让 PC 们的领地血流成河，并展开了对一件传奇神器的搜寻——它藏在该地区最臭名昭著的荒野深处。在钩舌泥沼（Hooktongue Slough）永恒的阴影与无底的沼泽之中，沉埋已久的秘密与恐怖渴望吞噬任何闯入其腐臭领地的人。然而，沼泽之外潜伏着什么力量，想要终结 PC 们的统治？一柄嗜血之刃，又将如何决定他们的王国是覆灭还是存续？
+
+本册《冒险之路》内容包括：
+
+* 《以血还血》，一部面向 10 级角色的开拓者角色扮演游戏冒险，作者 Neil Spicer。
+* 关于沼蜍人——格拉利昂阴森的蛙人——残酷社会与令人胆寒的迷信的资料，作者 Amber Stewart。
+* 被窃之地最著名的若干隐藏宝藏与失落遗物的详情，作者 Brian Cortijo。
+* 在「探索者日志」中，Ollix 和 Phargas 领教了与[[拟声尖牙兽]]赌博的凶险，作者 Kevin Andrew Murphy。
+* 五种新怪物，作者 Julian Neale、F. Wesley Schneider、Neil Spicer。
+}}
+
+'''冒险之路34：以血还血'''（''Pathfinder #34: Blood for Blood''）是[[冒险之路]]「拥王者」系列的一部冒险，由 Neil Spicer 撰写，配套文章出自 Brian Cortijo、Julian Neale、F. Wesley Schneider 和 Amber Stewart，小说出自 Kevin Andrew Murphy，于 2010 年 6 月 30 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+以血还血 @ 6
+沼蜍人生态 @ 58
+国王的战利品 @ 66
+探索者日志：浪子（4／6） @ 70
+怪物图鉴 @ 78
+- [[水猴]]
+- [[沼泽阔步者]]
+- [[卡拉斯加]]
+- [[真菌莱西]]
+- [[海人马]]
+预设角色 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Blood for Blood
+|releases=PDF¦PZO9034E¦2010-06¦；Softcover¦PZO9034¦2010-06¦
+}}
+
+[[分类:书目]]

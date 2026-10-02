@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Serpent's Skull Player's Guide pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=偷渡客
+|english_name=Stowaway
+|type=战役
+|pfs=否
+|description=航海船只上的乘客并非全都合法，甚至并非全都为船长和船员所知，珍妮维尔号也不例外。无论是穷得订不起合法的船票，还是担心在母港被海关官员发现，你或你的一名同伴秘密偷渡上了这艘船。这可能意味着船员不知道你在船上，也可能他们现在知道了，但在船起航时并不知道。你的[[隐匿]]检定以及为寻找食物进行的[[生存]]检定获得+1背景加值。
+
+拥有这个背景特性的角色可能在任何港口登上珍妮维尔号，但尤其可能是在镣铐群岛的各座城市。
+|source_name=Serpent's Skull Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Stowaway
+}}

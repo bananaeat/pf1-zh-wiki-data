@@ -1,0 +1,18 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=次等飞行之翼
+|english_name=Wings of Flying (Lesser)
+|aon=MagicWondrousDisplay.aspx?FinalName=Wings of Flying (Lesser)
+|cat=奇物
+|aura=中等变化系
+|cl=10
+|slot=肩部
+|price=22,000 gp
+|weight=10磅
+|description=这个机械背包由一堆齿轮和嵌齿拼凑而成，两片巨大的帆布翅膀从背包两侧伸出，高过穿戴者的肩膀。当穿戴者按下背包胸带上的按钮，翅膀便嗡嗡作响地活动起来，飞快地拍动，笨拙地把穿戴者拖到空中。
+
+次等飞行之翼赋予穿戴者30尺的飞行速度（机动性：差）。
+|req=[[制造奇物]]、[[飞行术]]
+|cost=11,000 gp
+|source=冒险之路63：庇护之石
+}}

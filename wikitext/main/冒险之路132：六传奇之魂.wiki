@@ -1,0 +1,39 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #132: The Six-Legend Soul
+|authors=Amber E. Scott、Kate Baker、Jay Erickson、Crystal Frasier、Tom Hansen、Lyz Liddell、Aerick Lim、Ron Lundeen、Nathan Reinecke
+|pages=96
+}}
+
+{{书页/简介|head=诸神保佑女王|1=
+当英雄们回到塔尔多，发现此前埋下的奇异种子终于结出了果实——一场阴谋已让他们的赞助人一败涂地。他们必须面对狡诈的秘密结社「无瑕之环」（Immaculate Circle），终结其长生不死的阴谋，并在途中遭遇新的敌人。为了让世界重回正轨、终结皇冠战争，英雄们要对抗的不是一位，而是六位从往昔复活的塔尔多最伟大的皇帝！英雄们能否生还，还是塔尔多昔日的罪孽将永远决定它的未来？
+
+本册《冒险之路》为「[[皇冠战争]]」冒险之路收官，内容包括：
+
+* 《六传奇之魂》，一部令人头脑翻转的开拓者冒险，面向 16 级角色，作者 Amber E. Scott。
+* 延续战役的方法，包括一套依据英雄们的抉择来判定尤特洛皮娅（Eutropia）遗产的系统，作者 Crystal Frasier。
+* 纵览六位塔尔多最著名的皇帝，包括他们提供给[[通灵者]]的传奇灵体，以及对任何英雄都有用的专长，作者 Lyz Liddell。
+* 坚毅的乌尔芬卫士概览，作者 Ron Lundeen。
+* 一份由强大而危险的生物组成的怪物图鉴，包括可怕的看守链魔（phylacator kyton）和傲慢滋生的荆棘王座（bramble throne），作者 Kate Baker、Jay Erickson、Tom Hansen、Aerick Lim、Nathan Reinecke。
+}}
+
+'''冒险之路132：六传奇之魂'''（''Pathfinder #132: The Six-Legend Soul''）是[[冒险之路]]「[[皇冠战争]]」系列的第六部、也是最后一部冒险，由 Amber E. Scott 撰写，配套文章出自 Kate Baker、Jay Erickson 等 8 位作者，于 2018 年 8 月 2 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+六传奇之魂 @ 4
+NPC 图集 @ 56
+继续战役 @ 62
+六位皇帝之灵 @ 68
+乌尔芬卫士 @ 74
+怪物图鉴 @ 80
+}}
+
+{{书页尾
+|pfw=The Six-Legend Soul
+|releases=Softcover¦PZO90132¦2018-08¦978-1-64078-052-1；PDF¦PZO90132E¦¦
+}}
+
+[[分类:书目]]

@@ -1,0 +1,13 @@
+{{Feat
+|name=弩熟稔
+|english_name=Crossbow Mastery
+|categories=战斗
+|description=你能够以令人[[目眩]]的速度装填弩弓，甚至可以在近战中用他们射击而不必担心遭到报复。
+|prerequisites=敏捷15，[[近距射击]]，[[快速装填]]，快速射击。
+|benefit=不论你使用的弩的类型为何种，装填弩所需要的时间降低为[[自由动作]]。你能够在[[全力攻击]]中使用弩射击多次，就如同使用弓的时候一般。当你选取[[快速装填]]专长时所选择的那种类型的弩在进行装填时不会引起[[借机攻击]]。
+|special=从6级起，选择【箭术战斗[[流派]]】的游侠能够将“弩熟稔”作为战斗流派专长进行选取。
+|stamina=只要耐力池中还有至少一点耐力，装填任何类型的弩弓都不会引起借机攻击。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

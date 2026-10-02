@@ -1,0 +1,11 @@
+{{Feat
+|name=火热荣耀
+|english_name=Glorious Heat
+|pfs=否
+|description=当你施放一个火焰法术时，它的热情将感染周围的盟友。
+|prerequisites=可以施放神术，施法者等级5，信仰[[塞恩蕾]]
+|benefit=当你施放一个具有火焰描述符的神术时，选择一个你可以看见且距离你30尺内的盟友，该盟友恢复相当于你等级一半的生命值，并且在攻击检定上获得+1士气加值，直到他的下一轮结束。
+|source=FoP/FoB/FoC、ISG
+|source_name=纯善／平衡／堕落信念、内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}

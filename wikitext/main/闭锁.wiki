@@ -1,0 +1,12 @@
+{{魔法物品
+|name=闭锁
+|english_name=Phase Locking
+|cat=武器附魔
+|apply=近战、远程
+|bonus=+2 加值
+|aura=中等防护系
+|cl=7
+|description=闭锁武器会干扰次元旅行。被闭锁武器伤害的生物，会如同受到[[次元锚]]法术影响一般，持续1轮。
+|req=[[制造魔法武器和防具]]、[[次元锚]]
+|source=极限宝具
+}}

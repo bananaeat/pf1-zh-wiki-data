@@ -1,0 +1,14 @@
+{{魔宠变体
+|name=饵宠
+|english_name=Decoy
+|description=饵宠会吸引敌人的注意力，使得其主人能够对它们发起[[突袭]]。
+
+'''[[本职技能]]（Class Skills）'''：饵宠将[[唬骗]]视为本职技能。
+
+'''狡诈（Deceitful）'''：饵宠获得诈欺师（Deceitful）作为[[奖励专长]]。该能力取代[[警觉]]（Alertness）。
+
+'''模仿鸟之舌（Mockingbird，Ex）'''：5级起，饵宠能够说出任何主人具有的语言。7级起，它能够完美地模仿主人的声音和语调。该能力取代与主人交谈（Speak with Master）和与动物同类交谈（Speak with Animals of Its Kind）。
+
+'''假扮主人（Master’s Guise，Sp）'''：11级起，饵宠能够完美地化身为其主人的样子，就如同[[变身术]]（Alter Self）法术一般。饵宠在此形态下至多能保持的时间为每施法者等级1分钟；在变回原形后，饵宠必须在等量的时间内维持其原本的形态，才能再次变身。该能力取代[[魔宠和模板|法术抗力]]（Spell Resistance）。
+|source=魔宠手记
+}}

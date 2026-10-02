@@ -1,0 +1,10 @@
+{{Trait
+|name=砾石漫步者(幽暗地域,通常在温暖山脉地带)
+|english_name=Gravelwalker
+|type=地区
+|pfs=否
+|prerequisites=幽暗地域（通常在温暖山脉地下）
+|description=你在穿行崩落的岩石和摸索塌陷的隧道中长大，你能够在由碎石或其他残骸造成的[[困难地形]]中确认最稳定的路径。你可以正常通过这些不平坦的空间，并可以通过一个成功的特技检定来进行奔跑和冲锋。
+|source_name=格拉里昂的狗头人
+|source_url=https://pf1chm.pages.dev/topics/zh93978f31f4.htm
+}}

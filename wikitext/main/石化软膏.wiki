@@ -1,0 +1,16 @@
+{{魔法物品
+|name=石化软膏
+|english_name=Stone Salve
+|aon=MagicWondrousDisplay.aspx?FinalName=Stone Salve
+|cat=奇物
+|aura=强烈防护系、变化系
+|cl=13
+|slot=无
+|price=4,000 gp
+|description=这种软膏有两种用途。把1盎司涂在被[[石化]]的生物身上，会使该生物恢复成血肉，如同[[解除石化]]法术。把1盎司涂在未被石化的生物身上，则会保护该生物，如同[[石肤术]]法术。
+
+所列的价格和制造造价都是每盎司的。
+|req=[[制造奇物]]、[[解除石化]]、[[石肤术]]
+|cost=2,000 gp
+|source=核心规则书、极限宝具
+}}

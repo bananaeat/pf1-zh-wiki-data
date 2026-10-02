@@ -1,0 +1,15 @@
+{{Spell
+|name=召唤神灵
+|english_name=Summon kami
+|school=咒法系 (召唤)
+|levels=德鲁伊 5;猎人 5;萨满 5
+|action=1轮
+|components=语言;姿势;圣徽
+|range=近距
+|effect=一名或更多神灵
+|duration=1轮/等级（可解消）
+|save=无
+|sr=否
+|description=该法术如同[[召唤自然盟友 V]]一样作用，除了可以召唤一名木灵神，1d3名福神或1d4+1名式神。
+|source=内海种族
+}}

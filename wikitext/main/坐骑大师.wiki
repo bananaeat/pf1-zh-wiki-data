@@ -1,0 +1,13 @@
+{{Feat
+|name=坐骑大师
+|english_name=Horse Master
+|categories=战斗
+|pfs=否
+|description=你混合了不同[[流派]]的驯马技巧，整合成完美的骑乘作战艺术。
+|prerequisites=【驯兽专家】职业特性，骑术6级。
+|benefit=在决定你的坐骑的强度和属性时，你的有效德鲁伊等级视同你的角色等级。
+|normal=在决定你的坐骑的强度和属性时，你的有效德鲁伊等级视同你的骑士职业等级。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

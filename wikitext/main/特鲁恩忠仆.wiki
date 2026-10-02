@@ -1,0 +1,14 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #104: Wrath of Thrune pg. 6），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=特鲁恩忠仆
+|english_name=Thrune Loyal Agent
+|type=战役
+|pfs=否
+|description=内希斯注：这是一个特殊背景，只能通过推进《地狱复仇》冒险之路获得，不能在正常创建角色时选取。
+
+你在一场仪式中将自己的身体献给了阿波罗盖女王和特鲁恩家族，愿意为效忠特鲁恩献出生命。每周一次，当你的生命值降到0以下时，你自动获得快速治疗1，持续1分钟。此能力使用过之后，你改为在生命值降为负值时，为[[稳定]]伤势而进行的体质检定获得+4背景加值。
+
+此外，你获得一个隐形的[[秘法印记]]，图案是切利亚斯的环形十字纹章，作为你忠诚的象征。这个印记不会褪去，只有其他拥有此背景的生物，或者有能力看见隐形事物的生物（例如通过或[[真知术]]）才能看见（译注：AoN 原文作「via or true seeing」，疑为笔误，漏了一个法术名，应为「via see invisibility or true seeing」，即通过识破隐形或真知术。）。你可以用一个迅捷动作让其他生物看见这个印记，持续1轮。如果印记被驱散或移除（例如被[[抹消术]]），可以再施放一次秘法印记来替换，替换后的印记按本背景所述生效。
+|source_name=Pathfinder #104: Wrath of Thrune
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Thrune%20Loyal%20Agent
+}}

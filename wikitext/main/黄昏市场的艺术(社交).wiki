@@ -1,0 +1,9 @@
+{{Trait
+|name=黄昏市场的艺术(社交)
+|english_name=Dusk Market Bribery
+|type=社会
+|description=你通过观察黄昏市场中的商人与西冠城市守卫队之间的交易学会了贿赂的艺术。当你贿赂守卫或官员，或补偿召唤来的生物时，所需花费的金币减少5%。
+|source_name=黑市指南
+|source=BM
+|source_url=https://pf1chm.pages.dev/topics/zh2f0cc841f9.htm
+}}

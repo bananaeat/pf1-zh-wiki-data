@@ -1,0 +1,11 @@
+{{Feat
+|name=实体幽影
+|english_name=Solid Shadows
+|categories=超魔
+|description=你的阴影幻觉更加强而有力。
+|prerequisites=法术专攻（幻术）
+|benefit=当释放高等幽影召唤术，高等幽影塑能术，幽影召唤术，幽影塑能术（以及，根据GM的决定，任何带有“阴影”描述符并模仿其他学派的法术），那个咒语比通常更真实20%。一个实体幽影法术须占用高于原本1个环位的法术位。
+|source=MSH
+|source_name=怪物召唤者手册
+|source_url=https://pf1chm.pages.dev/topics/page_667.html
+}}

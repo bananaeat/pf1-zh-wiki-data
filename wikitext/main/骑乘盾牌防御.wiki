@@ -1,0 +1,11 @@
+{{Feat
+|name=骑乘盾牌防御
+|english_name=Mounted Shield
+|categories=战斗
+|description=你的防御技巧可以同时应用到自身和坐骑上。
+|prerequisites=[[骑乘战斗]]，[[盾牌专攻]]。
+|benefit=你可以将你的基本盾牌加值（包括由[[盾牌专攻]]获得的加值，但是不包括增强加值）加到你的坐骑的AC上。此外，当你使用[[骑乘战斗]]专长，能够将这个加值加到用于避免你的坐骑受到攻击的骑术检定上。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

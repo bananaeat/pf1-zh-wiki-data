@@ -1,0 +1,11 @@
+{{Feat
+|name=遗物精通
+|english_name=Relic Familiarity
+|pfs=否
+|description=你的部落有一个惊人的古代[[神器]]收藏品，你在旅途中常常看到一些东西让你回想起你部落宝库中的宝物。
+|prerequisites=翼龙人
+|benefit=你在确定一件物品价值的估价检定和一件物品魔法特性的[[法术辨识]]检定上获得+2加值。你的检定结果每超过DC 5点，你就可以在GM的判断下确定这件物品的额外细节，例如它的起源地，创造者的种族，创造它的技术，或者是否拥有重要的历史意义。
+|source=LoD
+|source_name=巨龙遗产
+|source_url=https://pf1chm.pages.dev/topics/page_716.html
+}}

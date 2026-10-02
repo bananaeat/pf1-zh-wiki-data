@@ -1,0 +1,16 @@
+{{Spell
+|name=诅咒：永夜
+|english_name=Curse of night
+|school=塑能系
+|tags=诅咒;黑暗
+|levels=先知 8;奥能师 8;女巫 8;德鲁伊 8;术士 8;法师 8;牧师 8
+|action=10分钟
+|components=语言;姿势;法器（总价值10,000gp的黑玉宝石）
+|range=接触
+|area=从接触点起，弥漫半径1哩
+|duration=永久（可解消）
+|save=无（见下诅咒）
+|sr=否
+|description=透过触摸大地，你诅咒此区域保持恐寂的黑暗，如同无尽之夜诅咒（见第143页）。法器作为法术的一部分，与被诅咒区域相融合，只有当诅咒被解除时才能重新取回。
+|source=惧怖冒险
+}}

@@ -1,0 +1,40 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=奎因德范托斯
+|english_name=Quindiovatos
+|title=恶毒之客（The Vicious Guest）
+|alignment=守序邪恶（LE）
+|weapon=[[细剑]]
+|portfolio=探险，宝石，传说
+|domains=[[邪恶领域(领域)|邪恶]]，[[秩序领域|秩序]]，[[荣耀领域|荣耀]]，[[土领域|土]]
+|subdomains=[[邪恶领域(领域)#魔鬼子域 (Devil)|魔鬼子域（邪恶）]]，[[秩序领域#魔鬼子域 (Devil)|魔鬼子域（秩序）]]，[[旅行领域#探索子域 (Exploration)|探索子域]]，[[荣耀领域#诚实子域 (Honor)|诚实子域]]，[[土领域#铁子域 (Metal)|铁子域]]
+|symbol=一把血色宝石
+|animal=布谷鸟
+|color=绿色，红色
+|pantheon=炼狱大公
+|source=内海诸神、永罪之书
+}}
+
+奎因德范托斯（Quindiovatos）是[[炼狱大公与地狱公爵|炼狱大公]]之一。
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+找一小片土地，声称在这一天你拥有这块土地，然后在这片土地上洒上带血的宝石。对抗胁迫效果的豁免获得+4亵渎加值。
+
+=== 神恩 ===
+
+通过[[魔族仪典]]获得，每项均为每日1次的类法术能力：
+
+{{神恩|n=1|name=第一神恩|type=Sp|text=[[巧言术]]1次/日}}
+{{神恩|n=2|name=第二神恩|type=Sp|text=[[御风而行]]1次/日}}
+{{神恩|n=3|name=第三神恩|type=Sp|text=[[解锢术]]1次/日}}
+
+== 信徒可用 ==
+* '''专长'''：[[炼狱镣铐]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1554.html 原文]），原在总页 [[炼狱大公与地狱公爵]]。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Quindiovatos|2=Quindiovatos}}
+[[分类:魔神]]

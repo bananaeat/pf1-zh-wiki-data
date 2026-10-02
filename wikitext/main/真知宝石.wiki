@@ -1,0 +1,14 @@
+{{魔法物品
+|name=真知宝石
+|english_name=Gem of Seeing
+|aon=MagicWondrousDisplay.aspx?FinalName=Gem of Seeing
+|cat=奇物
+|aura=中等预言系
+|cl=10
+|slot=无
+|price=75,000 gp
+|description=这枚经过精细切割和打磨的宝石，外观上与普通宝石无法区分。透过它观看时，真知宝石能使使用者像受到[[真知术]]法术影响一样视物。真知宝石每日最多可以使用30分钟，以5分钟为单位，这些时间不必连续。
+|req=[[制造奇物]]、[[真知术]]
+|cost=37,500 gp
+|source=核心规则书、极限宝具
+}}

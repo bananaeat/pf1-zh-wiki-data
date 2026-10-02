@@ -1,0 +1,43 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=旅鼠
+|english_name=Lemming
+|cr=1/8
+|xp=50
+|alignment=绝对中立
+|size=微型
+|type=动物
+|init=+1
+|senses=昏暗视觉；察觉 +1
+|description=这只小巧圆胖的啮齿动物毛色斑驳，尾巴很短。
+|ac=15，接触 15，措手不及 14（+1 敏捷，+4 体型）
+|hp=2（1d8–2）
+|fort=+2
+|ref=+3
+|will=+1
+|speed=15 尺
+|melee=啮咬 –1（1d2–5）
+|space=1 尺
+|reach=0 尺
+|str=1
+|dex=12
+|con=6
+|int=2
+|wis=13
+|cha=4
+|bab=+0
+|cmb=–3
+|cmd=2（6 对抗摔绊）
+|feats=[[强韧加强]]
+|skills=[[隐匿]] +17
+|environment=寒冷的平原
+|organization=单独，一对，或一群（3–30）
+|treasure=无
+|source=极限荒野
+|lore=
+这些食草动物在较寒冷的地区窜来窜去，啃食球茎、草、根和嫩芽。它们不冬眠，但会挖洞以取得庇护和温暖。
+
+旅鼠从鼻子到短尾巴最长可达 6 英寸。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Lemming|2=Lemming}}

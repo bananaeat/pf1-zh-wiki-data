@@ -1,0 +1,9 @@
+{{Trait
+|name=嗜血徒
+|english_name=Bloodthirsty
+|type=战斗
+|description=你有恶毒的嗜好，没有什么比手中剑刃上淌下的温暖鲜血更能取悦你。每当你的攻击将对方生命值降至0点或以下、或你的重击成功确认时，你的攻击造成1点额外伤害。该额外伤害是一项背景加值，并可以根据你的武器重击倍率而在重击确认时翻倍。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

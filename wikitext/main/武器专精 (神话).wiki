@@ -1,0 +1,13 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[武器专精]] 的神话版本。</small></div>
+{{Feat
+|name=武器专精
+|english_name=Weapon Specialization
+|categories=神话
+|description=拿着你所选择的武器造成的伤害让人触目惊心。
+|prerequisites=[[武器专精]]
+|benefit=当你使用你所选择的武器时，你的伤害检定会获得等同于你的阶层一半的加值。这与[[武器专精]]和[[高等武器专精]]专长带来的加值叠加。
+|special=若你多次选取了非神话版的武器专精专长，那么你就必须选择由哪个专长获得上述增强。你能够多次选取该专长，其效果不会叠加。每当你选取该专长，它都会应用于你所具有的不同的非神话版武器专精专长。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

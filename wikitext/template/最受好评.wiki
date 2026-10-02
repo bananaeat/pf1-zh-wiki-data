@@ -1,0 +1,1 @@
+{{H2|最受好评|{{#ifexist:Special:TopRatings|{{Special:TopRatings}}|<p class="empty-message">本站暂未开启页面评分功能，请在管理面板中开启。</p>}}}}

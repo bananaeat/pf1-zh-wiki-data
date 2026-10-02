@@ -1,0 +1,18 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=太古动物护符
+|english_name=Zoic of the Primeval
+|aon=MagicWondrousDisplay.aspx?FinalName=Zoic of the Primeval
+|cat=奇物
+|aura=强烈惑控系
+|cl=17
+|slot=颈部
+|price=50,000 gp
+|weight=1磅
+|description=这串由细枝和恐龙牙齿组成的饰物，可以用一段筋腱穿起来做成项链，对危险动物提供有限的保护。太古动物护符的佩戴者对所有非类人生物获得+1洞察加值的AC；对动物和异界生物，该AC加值提高为+2。
+
+此外，佩戴者每天一次可以使用太古动物护符，如同[[支配怪物]]一样支配任何动物或异界生物类型的生物（意志DC 23无效）。
+|req=[[制造奇物]]、[[支配怪物]]
+|cost=25,000 gp
+|source=失落宝藏
+}}

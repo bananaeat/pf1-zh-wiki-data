@@ -1,0 +1,17 @@
+{{Feat
+|name=监工
+|english_name=Taskmaster
+|categories=战斗
+|pfs=否
+|description=你的威吓将软弱的盟友变为暴徒。
+|prerequisites=[[挫志鞭笞]]，[[威吓]]5级，大地精。
+|benefit=你能以一个[[标准动作]]鞭策一名HD低于你自身的盟友，使他不顾一切地战斗。在1分钟内，该盟友攻击检定、伤害检定以及对抗影响心灵效果的意志豁免上获得+1士气加值。然而这名盟友也会在AC以及技能检定上受到-2减值。如果你要影响一名非自愿的盟友，你必须对其成功进行一次DC等同于挫败士气的威吓检定。
+|special=如果你有10或更高等级的威吓技能，士气加值提升至+2。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[骇人技巧]]（1 个条目）

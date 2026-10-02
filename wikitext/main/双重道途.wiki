@@ -1,0 +1,11 @@
+{{Feat
+|name=双重道途
+|english_name=Dual Path
+|categories=神话
+|description=你能够遵循两条神话之道。
+|prerequisites=神话阶层1阶
+|benefit=选择一条神话之道，它不能与你在升华之刻选取的道途相同。你会获得这条道途的1阶能力（大法师奥秘、斗士之击、神力澎湃、守护呼声、[[统帅]]之令或奇袭）。每当你得到道途能力时，你能够从这两个道途的列表与[[通用道途能力]]中选取道途能力。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

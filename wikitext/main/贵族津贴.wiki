@@ -1,0 +1,10 @@
+{{Feat
+|name=贵族津贴
+|english_name=Noble Stipend
+|description=你从你的家族或继承的遗产中获得了一些补贴
+|prerequisites=13魅力，[[贵族后裔]]ISWG专长
+|benefit=每周开始，你收到100GP，你只能将其花费在以下服务和非实物商品上：招聘演员，使者，坐骑，仆人，车马，工人等等；改善你的生活质量(见探路者RPG[[核心规则手册]]405页的生活成本)；获取专属活动的邀请或进入特权场所；支付住宿、马厩、税收和收费
+|source=HotHC
+|source_name=皇庭英豪
+|source_url=https://pf1chm.pages.dev/topics/page_670.html
+}}

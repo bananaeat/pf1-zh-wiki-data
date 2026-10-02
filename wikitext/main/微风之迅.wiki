@@ -1,0 +1,16 @@
+{{Spell
+|name=微风之迅
+|english_name=Zephyr's fleetness
+|school=变化系
+|tags=气
+|levels=游侠 3;猎人 3
+|action=1轮
+|components=语言;姿势
+|range=远距
+|target=每2等级一个生物
+|duration=1分钟/等级
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=你可以召唤天空的精魂为你的盟友提供敏捷之力。每个受术者的陆地速度和飞行速度（如果有的话）会获得+30英尺增强加值，同时可以不受惩罚地通过[[困难地形]]移动（和冲锋）。
+|source=内海种族
+}}

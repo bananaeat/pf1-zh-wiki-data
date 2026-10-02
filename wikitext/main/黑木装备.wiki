@@ -1,0 +1,8 @@
+{{物品
+|name=黑木装备
+|english_name=Blackwood Gear
+|category=冒险装备
+|description=以下的装备在卡索米尔的船长和住在维杜兰森林附近的人中很受欢迎。
+|source=MM
+|source_name=商人货单
+}}

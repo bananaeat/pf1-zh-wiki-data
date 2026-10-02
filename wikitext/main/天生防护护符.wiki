@@ -1,0 +1,14 @@
+{{魔法物品
+|name=天生防护护符
+|english_name=Amulet of Natural Armor
+|aon=MagicWondrousDisplay.aspx?FinalName=Amulet of Natural Armor1
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=颈部
+|price=2,000 gp（+1）；8,000 gp（+2）；18,000 gp（+3）；32,000 gp（+4）；50,000 gp（+5）
+|description=这件护符里通常封存着某种经魔法保存的怪物兽皮或其他天生护甲——比如骨、角、甲壳或兽鳞——能强化穿戴者的身体与血肉，给予他对天生护甲的+1到+5增强加值，视护符的种类而定。
+|req=[[制造奇物]]、[[树肤术]]，制造者的施法者等级必须至少是护符加值的三倍
+|cost=1,000 gp（+1）；4,000 gp（+2）；9,000 gp（+3）；16,000 gp（+4）；25,000 gp（+5）
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=伤刃|en=Wounding Blade|type=Su|domain=战争领域|sub=鲜血子域 (Blood)|sub_name=鲜血子域|source=进阶玩家指南|text=到了8级，你能通过触碰令武器变成血光武器，持续轮数为“牧师等级的一半”。你8级能每天使用1次，以后每比8级高4级多1次。此能力取代[[战争领域#武器大师 (Weapon Master, Su)|武器大师]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

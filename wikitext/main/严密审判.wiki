@@ -1,0 +1,9 @@
+{{Trait
+|name=严密审判
+|english_name=Strict Judgment
+|type=宗教
+|prerequisites=信仰[[科欧斯]]
+|description=你对法律文字的尊敬使你的施法能力获得祝福。任何你施放的限制某种明确行为且违背后会产生影响的法术(比如[[审判烙印]]、[[指使术]])的豁免DC都+1。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

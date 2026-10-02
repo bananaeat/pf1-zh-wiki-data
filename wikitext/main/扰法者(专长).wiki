@@ -1,0 +1,14 @@
+{{消歧义|扰法者 (消歧义)}}
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[扰法者 (神话)]]。</small></div>
+{{Feat
+|name=扰法者
+|english_name=Disruptive
+|categories=战斗
+|description=你受过专门的训练，令靠近你的敌人的施法者难以安全施展法术。
+|prerequisites=战士6级。
+|benefit=所有你威胁范围内的敌人进行[[防御式施法]]的专注DC+4。此针对防御式施法的加值仅当你能够确认敌人的位置、并能够做出[[借机攻击]]时才生效。若你每轮仅能够进行1次借机攻击并且已经借机攻击过，则加值不生效。
+|stamina=即使已经消耗了借机攻击次数，只要花费2点耐力依然可以令该专长生效，直至你下一轮开始
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

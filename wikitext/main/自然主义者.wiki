@@ -1,0 +1,10 @@
+{{Trait
+|name=自然主义者
+|english_name=Naturalist
+|type=地区
+|prerequisites=雅玛萨
+|description=你的祖先教导你善用大自然所提供的一切。你在尝试在荒野中生存时进行的生存检定上获得+3背景加值。
+|source_name=古国血脉
+|source=BotA
+|source_url=https://pf1chm.pages.dev/topics/zhb7c0053e99.htm
+}}

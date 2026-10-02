@@ -1,0 +1,14 @@
+{{魔法物品
+|name=三生护符
+|english_name=Charm of the Thriceborn
+|aon=MagicWondrousDisplay.aspx?FinalName=Charm of the Thriceborn
+|cat=奇物
+|aura=中等预言系
+|cl=9
+|slot=无
+|price=2,400 gp
+|description=携带这个绳结状护符满整整3天的生物会成为它的主人，直到她失去对护符的所有权。一个生物只能成为单个三生护符的主人。每天开始时，护符的主人骰3d20，并把这些结果保留为她的护符骰。在这一天中，护符的主人可以有一次机会，不骰d20，而是改用三个护符骰中的随机一个（骰1d3来选择）的结果。
+|req=[[制造奇物]]、[[三相之视]]
+|cost=1,200 gp
+|source=第一世界的遗产
+}}

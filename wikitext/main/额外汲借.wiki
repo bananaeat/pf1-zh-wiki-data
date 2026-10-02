@@ -1,0 +1,10 @@
+{{Feat
+|name=额外汲借
+|english_name=Expanded Spell Kenning
+|description=你学习过很多魔术传统，而非限于学院和教会
+|prerequisites=歌者汲借秘术职业能力
+|benefit=除了法师/[[术士]]和牧师法术列表外，你还可以使用汲借秘术能力施放德鲁伊和女巫法术列表中的法术。
+|source=ACO
+|source_name=进化职业起源
+|source_url=https://pf1chm.pages.dev/topics/page_500.html
+}}

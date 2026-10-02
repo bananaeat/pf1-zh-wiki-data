@@ -1,0 +1,15 @@
+{{魔法物品
+|name=肉体力量腰带
+|english_name=Belt of Physical Might
+|aon=MagicWondrousDisplay.aspx?FinalName=Belt of Physical Might2
+|cat=奇物
+|aura=强烈变化系
+|cl=12
+|slot=腰部
+|price=10,000 gp（+2）；40,000 gp（+4）；90,000 gp（+6）
+|weight=1磅
+|description=这条腰带有着硕大的铁带扣，描绘着巨人的形象。穿戴者的力量、敏捷、体质这三项体能属性中的两项获得+2、+4或+6的增强加值。在腰带被穿戴的头24小时内，该加值视为临时加值。要提升哪两项属性，在制作腰带时选定，此后不能更改。
+|req=[[制造奇物]]、[[熊之坚韧]]、[[牛之力量]]和／或[[猫之优雅]]
+|cost=5,000 gp（+2）；20,000 gp（+4）；45,000 gp（+6）
+|source=核心规则书、极限宝具
+}}

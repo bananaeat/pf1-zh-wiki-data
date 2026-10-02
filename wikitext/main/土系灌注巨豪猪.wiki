@@ -1,0 +1,43 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=土系灌注巨豪猪
+|english_name=Earth-Infused Giant Porcupine
+|cr=3
+|xp=800
+|alignment=绝对中立
+|size=中型
+|type=异界生物
+|subtypes=土系;本地
+|init=+0
+|senses=黑暗视觉 60 尺，昏暗视觉；察觉 +8
+|description=一排璀璨的水晶尖刺从这只宝石眼豪猪的背上长出。
+|ac=14，接触 10，措手不及 14（+4 天生）
+|hp=28（3d8+15）
+|fort=+8
+|ref=+5
+|will=+4
+|defensive=刚毛
+|dr=2/—
+|speed=40 尺，掘穴 20 尺
+|melee=尾拍 +7（2d6+6）
+|special_attacks=喷吐武器（15 尺锥形，2d6 酸蚀，反射 16 减半，每分钟可用一次）
+|str=19
+|dex=10
+|con=20
+|int=4
+|wis=17
+|cha=5
+|bab=+2
+|cmb=+2
+|cmd=16（对抗摔绊为 20）
+|feats=[[闪电反射]];[[武器专攻]]（尾拍）
+|skills=[[攀爬]] +10;[[察觉]] +8;[[隐匿]] +6
+|sq=元素灌注能力（喷吐武器，掘穴，伤害减免，强化天生护甲）
+|source=位面之力
+|lore=
+有时，不可预测的元素事件会使位面能量灌入平凡的生物，赋予它们异界之力，把它们变成元素灌注生物。
+
+创建元素灌注生物的规则，见[[元素灌注生物]]。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Earth-Infused Giant Porcupine|2=Earth-Infused Giant Porcupine}}

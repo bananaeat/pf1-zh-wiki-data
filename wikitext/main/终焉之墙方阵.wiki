@@ -1,0 +1,11 @@
+{{Feat
+|name=终焉之墙方阵
+|english_name=Lastwall Phalanx
+|categories=团队
+|description=当对抗贝尔克泽恩恐怖的大军时，你从并肩的兄弟姐妹身上获得力量
+|prerequisites=BAB +3，善良阵营
+|benefit=在对抗邪恶生物攻击的AC和对抗邪恶生物法术和效果的豁免上，获得等同拥有此专长的相邻战友数量的神圣加值。
+|source=CoP
+|source_name=纯洁勇士
+|source_url=https://pf1chm.pages.dev/topics/page_515.html
+}}

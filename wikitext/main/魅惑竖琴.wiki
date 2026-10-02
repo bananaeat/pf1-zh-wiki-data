@@ -1,0 +1,15 @@
+{{魔法物品
+|name=魅惑竖琴
+|english_name=Harp of Charming
+|aon=MagicWondrousDisplay.aspx?FinalName=Harp of Charming
+|cat=奇物
+|aura=微弱惑控系
+|cl=5
+|slot=无
+|price=7,500 gp
+|weight=5磅
+|description=这把美丽的竖琴雕刻精细繁复，可以轻松地用一只手握住，但要发挥其魔力则需要双手并用。演奏时，每演奏10分钟，只要演奏者能通过DC 14的表演（弦乐）检定，就能把一个[[暗示术]]（如同法术，意志豁免DC 14无效）融入乐声。如果检定失败，听众在24小时内不会再受该竖琴手任何后续演奏的影响。
+|req=[[制造奇物]]、[[暗示术]]
+|cost=3,750 gp
+|source=核心规则书、极限宝具
+}}

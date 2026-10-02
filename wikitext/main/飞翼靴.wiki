@@ -1,0 +1,15 @@
+{{魔法物品
+|name=飞翼靴
+|english_name=Winged Boots
+|aon=MagicWondrousDisplay.aspx?FinalName=Winged Boots
+|cat=奇物
+|aura=中等变化系
+|cl=8
+|slot=脚部
+|price=16,000 gp
+|weight=1磅
+|description=这双靴子看起来像是普通的鞋履。穿戴者说出命令后，靴跟处会长出翅膀，使穿戴者得以飞行，无需持续专注，如同受到[[飞行术]]影响（包括[[飞行]]检定上的+4加值）。穿戴者每天可以飞行三次，每次至多5分钟。
+|req=[[制造奇物]]、[[飞行术]]
+|cost=8,000 gp
+|source=核心规则书、极限宝具
+}}

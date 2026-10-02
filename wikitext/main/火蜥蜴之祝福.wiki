@@ -1,0 +1,15 @@
+{{Spell
+|name=火蜥蜴之祝福
+|english_name=Blessing of the salamander
+|school=变化系 (变形)
+|levels=游侠 4;猎人 4;德鲁伊 5
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=接触
+|target=接触到的生物
+|duration=1轮/等级
+|save=强韧，通过则无效（无害）
+|sr=是（无害）
+|description=当你对一名生物施放该法术时，他的皮肤会变得光滑湿润，每轮能够恢复他所受到的伤害。当生物受到该法术的影响时，他会获得5点快速医疗，火焰抗力20并且[[战技]]防御（[[CMD]]）获得+2表现加值。
+|source=进阶玩家指南
+}}

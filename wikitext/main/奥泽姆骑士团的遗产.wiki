@@ -1,0 +1,10 @@
+{{Feat
+|name=奥泽姆骑士团的遗产
+|english_name=Legacy of Ozem
+|description=你是如此的纯洁，那些久被遗忘英雄的刀剑与弓对你吟唱，如同他们就是为你的正义之手而生。
+|prerequisites=BAB +5，善良阵营
+|benefit=当使用善良阵营的武器时（包括被[[祝福武器]]术影响的武器）你的伤害获得+1神圣加值。
+|source=CoP
+|source_name=纯洁勇士
+|source_url=https://pf1chm.pages.dev/topics/page_515.html
+}}

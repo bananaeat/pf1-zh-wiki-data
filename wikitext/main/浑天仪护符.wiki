@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=浑天仪护符
+|english_name=Armillary Amulet
+|aon=MagicWondrousDisplay.aspx?FinalName=Armillary Amulet
+|cat=奇物
+|aura=微弱预言系
+|cl=5
+|slot=颈部
+|price=2,500 gp
+|description=这条纤细的银灰色金属链上挂着一组相互套叠的圆环，它们在内部缓缓转动，精确地再现了天球的运转。该护符为穿戴者提供+5的[[法术辨识]]检定表现加值，还能使穿戴者免疫纳尔卡舍尔天体仪的危险效果（见区域B7）。
+|req=[[制造奇物]]、制造者必须拥有5级[[法术辨识]]技能
+|cost=1,250 gp
+|source=从海岸到大海
+}}

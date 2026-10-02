@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 84），民间汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=慑人学识
+|english_name=Disconcerting Knowledge
+|description=你向敌人表明自己知道如何击败它们，以此扰乱其心神。
+|prerequisites=逸闻知识职业能力或[[知识领域]]，任意两项知识技能各3级。
+|benefit=你能用自己的学识挫败敌人的士气。当你以一个[[标准动作]]对一个基础CR 2或以上的生物使用[[威吓]]时，你可以用一项能辨识该生物类型的知识技能代替威吓，来挫败它的士气。目标生物必须具有智力，并且能听懂你传达这些慑人学识时所用的语言。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Disconcerting%20Knowledge
+}}

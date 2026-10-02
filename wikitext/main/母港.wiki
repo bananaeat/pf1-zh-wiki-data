@@ -1,0 +1,9 @@
+{{Trait
+|name=母港
+|english_name=Home Port
+|type=地区
+|prerequisites=镣铐群岛
+|description=你对一个特定的港口有好感，在那里生活和做生意的人也会对你有好感。你在母港用于收集情报的交涉检定中获得+2背景加值。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

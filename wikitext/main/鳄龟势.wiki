@@ -1,0 +1,16 @@
+{{Feat
+|name=鳄龟势
+|english_name=Snapping Turtle Style
+|aliases=鳄龟
+|categories=战斗;流派
+|description=你高超的徒手战斗技巧给予你保护。
+|prerequisites=[[精通徒手打击]]，基本攻击加值+1或武僧1级。
+|benefit=当你处于[[鳄龟]][[流派]]架势时，如果至少有一只手空闲，你在AC上得到+1盾牌加值。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[龟爪]]、[[龟甲]]（2 个条目）

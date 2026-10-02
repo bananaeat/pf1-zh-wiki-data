@@ -1,0 +1,9 @@
+{{Trait
+|name=受眷者
+|english_name=Blessed
+|type=信念
+|description=某些神力代行者守护着你的成长、回应你的呼唤。每日1次，你能够以一个[[迅捷动作]]令全豁免获得+1背景加值，持续1轮。
+|source_name=信念背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

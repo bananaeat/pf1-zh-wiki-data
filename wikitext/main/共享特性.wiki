@@ -1,0 +1,10 @@
+{{Feat
+|name=共享特性
+|english_name=Share Feature
+|description=动物伙伴的能力更进一步，学习了主人的一项职业特性。
+|prerequisites=动物伙伴，主人必须有所选的职业特性
+|benefit=选择以下其中一个职业特性：英勇、伪装、偏好地形、视线躲藏、抵抗自然诱惑、追踪、无踪步、毒素免疫和穿林步。动物伙伴获得所选的职业特性，在计算该能力的效果时，将其生命骰数视为主人的职业等级；即便主人透过变体或其他方法改变了职业特性，动物伙伴仍然获得基础职业特性的效果，但动物伙伴在满足先决条件时并不视为拥有该职业能力。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zhd8cf60a796.htm
+}}

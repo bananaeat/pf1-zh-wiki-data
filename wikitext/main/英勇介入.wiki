@@ -1,0 +1,11 @@
+{{Feat
+|name=英勇介入
+|english_name=Heroic Interposition
+|categories=战斗
+|description=你在最需要你铲除邪恶的时刻及时赶到。
+|prerequisites=敏捷13，[[闪避]]，[[精通先攻]]，[[灵活移动]]，信仰至高天神使之一
+|benefit=每天一次，你可以以一个[[直觉动作]]移动最远相当于你的速度的距离，但是你的移动必须停留在一个即将攻击你盟友的敌人的邻接位置。只要你可以被该敌人看到，这个敌人就在你为此而移动的那次攻击检定上承受-2减值。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

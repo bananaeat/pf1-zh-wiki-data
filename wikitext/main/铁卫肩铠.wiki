@@ -1,0 +1,19 @@
+{{魔法物品
+|name=铁卫肩铠
+|english_name=Iron Guard Pauldrons
+|aon=MagicWondrousDisplay.aspx?FinalName=Iron Guard Pauldrons
+|cat=奇物
+|aura=微弱防护系
+|cl=3
+|slot=肩部
+|price=5,750 gp
+|weight=6磅
+|description=这些简朴的皮带系扣铁肩铠上刻着冰风和嚎叫冬狼的繁复图案，由效力于芭芭雅嘎在伊利森各地利益的军事修会的资深成员穿戴。铁卫肩铠使穿戴者在对抗火焰效果的豁免检定上获得+4抗力加值。如果穿戴者在对抗敌人的火焰效果的豁免检定中成功，肩铠会闪耀蓝光5轮。
+
+穿戴者还在威吓检定上获得+2表现加值。肩铠散发蓝光期间，该加值提升为+5。
+
+铁卫肩铠的穿戴者获得[[忍受环境]]的益处，但仅限于寒冷气温。
+|req=[[制造奇物]]、[[忍受环境]]、[[提升抗力]]
+|cost=2,875 gp
+|source=内海战斗
+}}

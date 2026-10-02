@@ -1,0 +1,11 @@
+{{Feat
+|name=感知背叛
+|english_name=Betrayal Sense
+|categories=战斗
+|description=你能够像发现陷阱那样洞察背叛与阴谋。
+|prerequisites=感知 13，盗贼等级3级，[[盗贼#陷阱感知|陷阱感知]]职业能力
+|benefit=当你以察觉检定识破其他生物的[[易容]]，或以察言观色检定避免被[[突袭]]时，察觉检定和察言观色检定会获得加值。这些加值的数值与你的[[盗贼#陷阱感知|陷阱感知]]职业能力的加值相同。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

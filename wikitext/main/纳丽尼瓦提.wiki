@@ -1,0 +1,27 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=纳丽尼瓦提
+|english_name=Nalinivati
+|title=蛇之吻（The Serpent's Kiss）
+|alignment=绝对中立（N）
+|weapon=软剑
+|portfolio=生育，娜迦裔，蛇类，巫术
+|domains=[[魅惑领域|魅惑]]，[[魔法领域|魔法]]，[[高贵领域|高贵]]，[[符文领域|符文]]，[[鳞裔领域|鳞裔]]
+|subdomains=[[魔法领域#奥秘子域 (Arcane)|奥秘子域]]，[[高贵领域#贵族子域 (Aristocracy)|贵族子域]]，[[魅惑领域#迷惑子域 (Captivation)|迷惑子域]]*，[[魔法领域#神力子域 (Divine)|神力子域]]，[[高贵领域#领导子域 (Leadership)|领导子域]]，[[魅惑领域#爱慕子域 (Love)|爱慕子域]]，[[魅惑领域#情欲子域 (Lust)|情欲子域]]，[[魔法领域#仪式子域 (Rites)|仪式子域]]*，[[符文领域#守护子域 (Wards)|守护子域]]（*需要背景特性[[次经侍祭]]）
+|symbol=盘绕在莲花中的蛇
+|animal=蛇
+|centers=丁玛（Dtang Ma），纳迦乔尔（Nagajor），Xa Hoi，汐岛（Xidao）
+|nationality=娜迦
+|pantheon=天夏神祇
+|source=龙国舆图
+}}
+{{AI翻译|nocat=1|卡片中的称号、圣徽、圣兽、崇拜中心由 AI 照 AoN 英文译出，未经人工校对。}}
+
+== 特殊法术规则 ==
+（出自《巨龙遗产》（Legacy of Dragons）第31页）
+* '''牧师／战斗祭司'''：[[尾击术]]可当作4环法术准备。
+* '''审判者'''：[[尾击术]]可当作4环法术准备。
+* '''神谕者'''：[[尾击术]]可当作4环法术准备。
+{{AI翻译|nocat=1|本节由 AI 照 AoN 英文译出，未经人工校对。}}
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Nalinivati|2=Nalinivati}}

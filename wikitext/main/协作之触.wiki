@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=协作之触|en=Synergistic Touch|type=Sp|domain=团队领域|sub=协作子域 (Cooperation)|sub_name=协作子域|source=内海诸神|text=你以一个标准动作接触一个生物，使其获得你所拥有的任何一个[[团队专长]]的益处。该效果持续轮数等同你牧师等级的一半（最小1）。该能力每天使用次数为“3+[[感知]]调整值”。此能力替换[[团队领域#镇定接触 (Calming Touch, Sp)|镇定接触]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

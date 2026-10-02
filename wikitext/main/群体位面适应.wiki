@@ -1,0 +1,15 @@
+{{Spell
+|name=群体位面适应
+|english_name=Planar adaptation, mass
+|school=变化系
+|levels=先知 6;召唤师 6;召唤师（掉链） 6;异能者 6;战斗祭司 6;牧师 6;秘学士 6;奥能师 7;术士 7;法师 7
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=每等级一个生物，互相之间不超过30尺
+|duration=1小时/等级 (可解消)
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=这个法术如同[[位面适应]]，除了上述部分。
+|source=进阶玩家指南
+}}

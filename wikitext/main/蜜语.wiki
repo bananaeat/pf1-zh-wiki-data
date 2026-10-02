@@ -1,0 +1,9 @@
+{{装备
+|name=蜜语
+|english_name=Crystal-sweet concoction
+|cat=调剂
+|price=50 gp
+|weight=—
+|description=这种甜腻的蓝色饮料通常会掺入薄荷，以冲淡齁人的甜味。它能使服用者变得神采飞扬，嗓音甜美，在交涉检定上获得+2炼金加值。然而其同时也会让服用者变得天真无知，危险地轻信他人，在察言观色检定上受到-4减值。
+|source=冒险者的军械库2
+}}

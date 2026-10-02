@@ -1,0 +1,14 @@
+{{魔法物品
+|name=召唤共鸣戒指：链魔
+|english_name=Ring of Summoning Affinity (Kyton)
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Summoning Affinity (Kyton)
+|cat=戒指
+|aura=微弱咒法系［恶、守序］
+|cl=5
+|slot=戒指
+|price=7,300 gp
+|description=这枚铁[[魔法物品#戒指|戒指]]上有数根尖锐的倒刺。若穿戴者能够施放[[召唤怪物]]法术，则可将邪窥魔B3加入这些法术可召唤的3环怪物列表，将邪刻魔B4加入7环列表，并将邪验魔B3加入9环列表。此外，每日1次，穿戴者可以通过命令使用这枚戒指召唤一只邪窥魔，如同施放了[[召唤怪物 III]]。
+|req=[[锻造戒指]]、[[异界盟友]]或[[异界誓缚]]，制造者必须是守序邪恶阵营
+|cost=3,650 gp
+|source=进阶职业指南
+}}

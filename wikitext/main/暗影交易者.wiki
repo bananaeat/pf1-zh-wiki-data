@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Coven pg. 3），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=暗影交易者
+|english_name=Shadow Dealer
+|type=地区
+|prerequisites=乌斯塔拉夫
+|description=你懂得如何与可怕之物达成交易，因而在乌斯塔拉夫的黑暗森林中存活下来，并且如鱼得水。你对抗恐惧效果的豁免检定获得+1背景加值；你针对邪恶精类、人形怪物和不死生物进行的[[唬骗]]和[[交涉]]技能检定获得+1背景加值。
+|source_name=巫团血脉
+|source=BotC
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Shadow%20Dealer
+}}

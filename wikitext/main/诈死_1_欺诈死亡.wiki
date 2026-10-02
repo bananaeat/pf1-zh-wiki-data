@@ -1,0 +1,11 @@
+{{Trait
+|name=诈死/欺诈死亡
+|english_name=Cheat Death
+|type=宗教
+|prerequisites=信仰[[贝丝玛拉]]
+|description=
+即使是贝丝玛拉最忠实的信徒通常也只在危急时刻请求她的帮助。有时贝丝玛拉会为她的忠实信徒出手；而其他时候，她只会转过脸去让他们被海浪淹没。每天一次，当你由于一个失败的属性检定、技能检定或豁免检定，将生命值减少到0或更少时，你可以使用这个能力重骰失败的检定。你必须接受重骰的结果，即使它更糟。
+|source_name=内海海盗
+|source=内海海盗27页
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

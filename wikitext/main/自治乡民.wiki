@@ -1,0 +1,17 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Varisia, Birthplace of Legends pg. 27），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=自治乡民
+|english_name=Regional Recluse
+|type=地区
+|prerequisites=瓦瑞西亚
+|description=你的家乡社群以不依附于瓦瑞西亚诸城邦为荣。从下列瓦瑞西亚的无隶属聚落中选择一个。你的[[生存]]检定获得+1背景加值，并获得下列好处之一。
+
+艾斯梅尔或啸叶镇：你在夜间进行的[[察觉]]检定获得+1背景加值。
+伊舒瑞安：获得轻盾的熟练。
+萨诺斯森林或哨落镇：获得侏儒语作为额外语言。如果你已掌握此语言，则改为在林区进行的[[隐匿]]检定上获得+1背景加值。
+龟背渡口：你对巨人类生物的所有攻击的伤害获得+1加值。
+乌尔格林：获得兽人语作为额外语言。如果你已掌握此语言，则改为在[[威吓]]检定上获得+1背景加值。
+|source_name=瓦瑞西亚，传说诞生之地
+|source=VBoL
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Regional%20Recluse
+}}

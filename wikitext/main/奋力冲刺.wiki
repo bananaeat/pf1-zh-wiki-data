@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=奋力冲刺
+|english_name=Sprint
+|type=Ex
+|categories=杂项
+|prerequisites=[[野蛮人]]4级，[[迅足]]
+|benefit=每次狂暴时1次，野蛮人可以花费一个[[整轮动作]]以正常的6倍速度移动，或是以3倍速冲锋。
+|unchained=奋勇冲刺
+|source_name=极限战斗
+}}

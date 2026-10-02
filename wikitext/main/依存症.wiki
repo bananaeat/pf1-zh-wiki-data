@@ -1,0 +1,10 @@
+{{Trait
+|name=依存症
+|english_name=Attached
+|type=缺陷
+|pfs=否
+|description=你有强烈的情感依存，你非常害怕失去某人或某物。
+|benefit=由GM选择一项你的依存对象。每当你的依存对象受到威胁、陷入危险或被别人占有，你的意志豁免获得-1罚值，对抗恐惧效果的豁免获得-2罚值。如果你依存的人或物体丢失、死亡或被摧毁，此缺陷被替换为[[疑虑]]。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

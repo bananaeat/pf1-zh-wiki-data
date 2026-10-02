@@ -1,0 +1,9 @@
+{{装备
+|name=潜水游泳镜
+|english_name=Underwater goggles
+|cat=冒险装备
+|price=5 gp
+|weight=—
+|description=这种廉价的防水游泳镜是保护陆地居民眼睛的必需品，特别是在盐水或颗粒物很多的水中。任何佩戴游泳镜的陆地居民都可以像水下原生民那样使用视觉察觉（见第46页）。
+|source=水下冒险
+}}

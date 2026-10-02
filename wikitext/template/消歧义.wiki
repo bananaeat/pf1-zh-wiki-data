@@ -1,0 +1,13 @@
+<includeonly><div class="well" style="margin:0.2em 0;"><small>有一些其他的词条可能与此词条重名或近似，请参阅[[{{{1|}}}|消歧义页面]]。</small></div></includeonly><noinclude>{{优质模板|功能}}{{Documentation}}[[Category:huiji template]]</noinclude><noinclude>
+<templatedata>
+{
+	"params": {
+		"1": {
+			"required": true,
+			"suggested": true
+		}
+	},
+	"description": "本模版用于区分有歧义的词条，一般用于开头位置。参数1表示可能出现歧义的名称。\n详细信息与案例请前往https://templatemanager.huiji.wiki/wiki/%E6%A8%A1%E6%9D%BF:%E6%B6%88%E6%AD%A7%E4%B9%89"
+}
+</templatedata>
+</noinclude>

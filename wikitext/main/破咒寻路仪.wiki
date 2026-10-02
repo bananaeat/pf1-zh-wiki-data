@@ -1,0 +1,15 @@
+{{魔法物品
+|name=破咒寻路仪
+|english_name=Wayfinder of Spellbreaking
+|aon=MagicWondrousDisplay.aspx?FinalName=Wayfinder of Spellbreaking
+|cat=奇物
+|aura=微弱防护系
+|cl=7
+|slot=无
+|price=8,000 gp
+|weight=1磅
+|description=破咒寻路仪的外壳由发黑的铁制成，没有任何装饰。除了寻路仪的通常功能（包括发光的能力）之外，破咒寻路仪每天还可以使用一次，对一个生物或物体产生[[解除魔法]]效果。必须用破咒寻路仪碰触该物体——以不情愿的生物为目标则需要一次成功的近战[[接触攻击]]。如果使用者已启动[[侦测魔法]]，或者能以别的方式观察到[[魔法灵光]]，他就可以以某一特定的灵光为目标；否则，破咒寻路仪会以施法者等级最高的那个效果为目标。
+|req=[[制造奇物]]、[[解除魔法]]、[[光亮术]]
+|cost=4,000 gp
+|source=探索者协会战地指南
+}}

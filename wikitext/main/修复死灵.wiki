@@ -1,0 +1,15 @@
+{{Spell
+|name=修复死灵
+|english_name=Repair undead
+|school=死灵系
+|levels=奥能师 1;术士 1;法师 1
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=一个接触到的不死生物（见后文）
+|duration=立即
+|save=意志，通过则减半（无害）
+|sr=是
+|description=当你接触到一个不死生物时，能够对它引导负能量，这会治疗1d8 + 每施法者等级1点伤害（最高+5）。该法术对活物没有效果，不过对于能够被负能量所治疗活物来说，该法术也可以用来治愈他们。
+|source=进阶职业指南
+}}

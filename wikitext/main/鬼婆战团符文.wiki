@@ -1,0 +1,15 @@
+{{魔法物品
+|name=鬼婆战团符文
+|english_name=Runes of the Crone's Coven
+|aon=MagicWondrousDisplay.aspx?FinalName=Runes of the Crone's Coven
+|cat=奇物
+|aura=强烈通用系
+|cl=12
+|slot=无
+|price=16,000 gp
+|weight=1磅
+|description=这个皮革口袋里装着一套黑色石头，每块石头上都刻着一个不同的厄运符文。把它们当作[[歌者]]的汲借秘术的一部分使用时，使用者可以施放女巫法术列表中的法术。要施放女巫法术，持有者的施法时间必须是普通汲借秘术的两倍，并且必须使用比正常高1环的法术位。如果持有者拥有歌者大师职业能力，则改为按他不具有该职业能力来判定施法时间，而不是把施法时间加倍。这些石片每日可以使用1次。
+|req=[[制造奇物]]、[[法术灌输]]、制造者必须能够施放6环女巫法术
+|cost=8,000 gp
+|source=进阶职业指南
+}}

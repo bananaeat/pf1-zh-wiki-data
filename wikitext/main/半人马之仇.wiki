@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragonslayer's Handbook pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=半人马之仇
+|english_name=Centaur Vengeance
+|type=地区
+|prerequisites=艾欧巴瑞亚
+|description=你的游牧部落在艾欧巴瑞亚的冰原草原上漂泊。他们终日活在白色巨龙斯约沃诺的恐惧之中，对这头龙的侵扰感到无能为力。你的部落中不乏睿智的贤者与伟大的战士，他们痛恨被任何敌人吓倒。你立誓终有一天再也不必惧怕斯约沃诺或其他任何巨龙。你对抗任何龙的凶威的豁免检定获得+2加值。
+|source_name=屠龙者手册
+|source=DH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Centaur%20Vengeance
+}}

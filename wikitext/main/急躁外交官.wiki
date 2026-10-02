@@ -1,0 +1,10 @@
+{{Trait
+|name=急躁外交官
+|english_name=Irritable Diplomat
+|type=种族
+|prerequisites=[[半兽人]]
+|description=大多数人认为[[半兽人]]野蛮且暴力，你已习惯付出更多努力来改变他们的这种看法。不幸的是，当他们无视你的努力时，你还是很难去保持耐心。
+|benefit=每天一次，你可以选择在任意交涉检定上+5背景加值。但如果这次检定失败，在接下来的10分钟内，你所有基于魅力的检定都要承受-2减值。
+|source_name=北地居民
+|source_url=https://pf1chm.pages.dev/topics/zh63296b3929.htm
+}}

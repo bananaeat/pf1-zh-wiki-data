@@ -1,0 +1,10 @@
+{{Feat
+|name=炼金术灵感
+|english_name=Inspired Alchemy
+|description=只要投入一点灵感和功夫，你就可以再调出一份用过的化合炼成。
+|prerequisites=可以制造2环化合炼成，炼金术职业能力，灵感职业能力
+|benefit=你可以重新炼制一份在过去的一小时内使用过的化合炼成，这将花费你10分钟时间重新配合材料，并花费相当于这个化合炼成环数的灵感点数。当你以此专长重新调制一份化合炼成，这个化合炼成将不计入你每日可以准备的化合炼成数量。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

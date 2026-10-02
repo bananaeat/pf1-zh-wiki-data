@@ -1,0 +1,7 @@
+{{物品
+|name=号角
+|english_name=The Trumpet
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。此牌允许抽牌者每天一次召唤一个和自己阵营相同的异界生物，CR不高于自身等级，持续等同抽牌者等级的轮数。
+}}

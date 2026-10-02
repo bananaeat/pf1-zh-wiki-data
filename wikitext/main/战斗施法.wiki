@@ -1,0 +1,15 @@
+{{Feat
+|name=战斗施法
+|english_name=Combat Casting
+|description=你适应在受到威胁或分心的情况下施法。
+|benefit=[[防御式施法]]或被[[擒抱]]时，施展法术或类法术能力的专注检定获得+4加值。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''制造需求'''：[[谨慎施法短衫]]（1 件物品）
+
+'''先决条件'''：[[完美施法]]、[[擒抱施法]]、[[特技施法者]]、[[神之严密]]（4 个条目）

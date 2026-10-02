@@ -1,0 +1,11 @@
+{{Feat
+|name=共享治疗
+|english_name=Share Healing
+|categories=团队
+|description=任何对你施放的魔法治疗将同样通过你与伙伴的羁绊而治疗它的伤口。
+|prerequisites=能够获得动物伙伴、召唤师幻灵，魔宠或坐骑
+|benefit=当你与你的伙伴生物都拥有此专长，你的伙伴生物与你邻接或与你共享同一格，且你受到治疗法术的效果（无论施放者是否为你自己）时，你可以将所恢复的生命值在你与你的伙伴生物之间平均分配。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=拉贾瑟尔的救赎
+|english_name=Redeemed by Ragathiel
+|type=宗教
+|prerequisites=信仰拉贾瑟尔
+|description=你出生于一个试图将邪恶观念强加于你的家族、国家或团体，但你受到拉贾瑟尔的启发，在其影响下仍坚守正道。你在为识破邪恶生物的[[唬骗]]而进行的察言观色检定上获得+2背景加值。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh9e38168036.htm
+}}

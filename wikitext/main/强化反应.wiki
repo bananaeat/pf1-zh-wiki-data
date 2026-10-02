@@ -1,0 +1,15 @@
+{{Spell
+|name=强化反应
+|english_name=Heightened reflexes
+|school=变化系
+|levels=吟游诗人 2;歌者 2
+|action=标准动作
+|components=语言;姿势
+|range=30尺
+|area=以你为中心，30尺半径爆发区域内的盟友
+|duration=1分钟/等级 或 直至耗散
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=你对区域内的每个盟友赋予在单次反射豁免检定中获得+10表现加值的能力。每个盟友都需要在进行合适的检定之前，决定是否使用这个加值。当一名盟友使用该加值之后，法术对于这个盟友的效果结束。
+|source=进阶职业指南
+}}

@@ -1,0 +1,15 @@
+{{Feat
+|name=龟爪
+|english_name=Snapping Turtle Clutch
+|categories=战斗
+|description=你的徒手战斗技巧可以让你将敌人的攻击化作你反击的契机。
+|prerequisites=[[精通擒抱]]，[[精通徒手打击]]，[[鳄龟势]]，基本攻击加值+3或武僧3级。
+|benefit=当你处于[[鳄龟势|鳄龟流派]]架势时，该架势给予你的AC盾牌加值也适用于[[CMD]]和接触AC；当你处于该架势时，如果对手对你近战攻击失手，你能以[[直觉动作]]对该对手发起一次受-2减值的[[擒抱]]。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[龟甲]]（1 个条目）

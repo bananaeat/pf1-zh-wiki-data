@@ -1,0 +1,9 @@
+{{Trait
+|name=学徒匠
+|english_name=Egorian School Apprentice
+|type=地区
+|prerequisites=艾格利安
+|description=你从师于一位艾格利安学派建筑风格的大师。你在[[知识]]（工程）检定中获得+3背景加值，并且当你在艾格利安学派风格的建筑中进行针对密门和陷阱的[[察觉]]检定时获得+2背景加值。
+|source_name=切里亚斯，魔鬼王朝
+|source_url=https://pf1chm.pages.dev/topics/page_156
+}}

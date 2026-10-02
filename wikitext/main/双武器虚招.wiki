@@ -1,0 +1,15 @@
+{{Feat
+|name=双武器虚招
+|english_name=Two-Weapon Feint
+|categories=战斗
+|description=你用一件武器吸引敌人注意，而另一件武器则穿透防御进袭。
+|prerequisites=敏捷15，智力13，[[寓守于攻]]，[[双武器格斗]]。
+|benefit=当你通过近战武器使用[[双武器格斗]]专长时，你能通过放弃主手武器的第一次攻击来对敌人进行[[唬骗]]以使用[[虚招]]。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[精通双武器虚招]]（1 个条目）

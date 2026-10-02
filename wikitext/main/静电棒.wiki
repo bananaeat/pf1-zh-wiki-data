@@ -1,0 +1,16 @@
+{{科技物品
+|name=静电棒
+|english_name=Zipstick
+|kind=科技装置
+|sub=其他工具与配件
+|price=20 gp
+|weight=1磅
+|slot=无
+|capacity=10
+|usage=1充能
+|description=静电棒是一种类似笔的小型装置，用来释放一小股电击。这股电击足以在一次成功的接触攻击中造成1点[[非致命伤害]]。静电棒最常用于启动或关闭依靠离子粘合技术运作的物品，例如[[离子胶带]]。
+|construction=[[制造科技装置]]、生产车间
+|craft_dc=18
+|cost=10 gp
+|source=科技指南
+}}

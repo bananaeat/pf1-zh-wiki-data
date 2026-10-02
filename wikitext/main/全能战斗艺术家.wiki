@@ -1,0 +1,9 @@
+{{Trait
+|name=全能战斗艺术家
+|english_name=Artist of Battle in All Forms
+|type=典范
+|description=你可以轻松地运用复杂的作战战术。选择一种[[战技]]。执行该战技的战技检定你获得+1背景加值，而且你不会引发目标的[[借机攻击]]除非该生物有适当的精通专长，例如你尝试一个[[擒抱]]上的战技检定则[[精通擒抱]]。你每拥有两个其他的战斗背景，可以选择一种额外的战技来获得这项好处。
+|source_name=典范背景
+|source=Chronicle of Legends
+|source_url=https://pf1chm.pages.dev/topics/zh8c5ec22f89.htm
+}}

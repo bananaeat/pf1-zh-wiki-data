@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=嗅觉牵引环
+|english_name=Pull-Ring of Scent
+|aon=MagicWondrousDisplay.aspx?FinalName=Pull-Ring of Scent
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=头饰
+|price=11,000 gp
+|weight=1磅
+|description=这枚暗淡的黄铜环通常穿在动物的鼻子或口鼻部，或头部的其他位置，用来系牵引绳或缰绳。佩戴者（及其骑手，如果有的话）不散发任何气味，无法被气味追踪或定位。此外，佩戴者在30尺内获得[[灵敏嗅觉]]能力；如果佩戴者本来就有灵敏嗅觉，该感官的范围增加30尺（最多60尺）。
+|req=[[制造奇物]]、[[野兽形态 I]]
+|cost=5,500 gp
+|source=动物档案
+}}

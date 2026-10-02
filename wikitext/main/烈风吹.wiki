@@ -1,0 +1,10 @@
+<noinclude>{{掉链武僧导航}}
+'''烈风吹'''（Zephyr Blow, SU）是[[掉链武僧]]的[[绝学|绝学]]。
+
+</noinclude>{{Source|荒野源始|Wilderness Origins|inline}}
+
+以一个标准动作消耗1点气，习得该能力的武僧可以扰乱风并制造一股强烈的空气冲击，就像使用法术[[造风术]]一样。武僧的施法者等级与他的武僧等级相等。<noinclude>
+
+[[分类:绝学]]
+
+{{职业}}</noinclude>

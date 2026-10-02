@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 199），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=半真之墙
+|english_name=Walls of Half-Truths
+|type=种族
+|prerequisites=轮回者
+|description=你一接触到其他[[轮回者]]，他们便鼓励你发挥迷惑敌人的魔法天赋。在决定你的虚假幻觉和五官幻觉法术的持续时间时，你的施法者等级视为高1级。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Walls%20of%20Half-Truths
+}}

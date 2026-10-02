@@ -1,0 +1,14 @@
+{{魔法物品
+|name=猎手扳指
+|english_name=Deadeye's Spotter Ring
+|aon=MagicRingsDisplay.aspx?FinalName=Deadeye's Spotter Ring
+|cat=戒指
+|aura=微弱变化系
+|cl=5
+|slot=戒指
+|price=1,500 gp
+|description=这枚[[魔法物品#戒指|戒指]]由一整根粗壮的鹿角雕成，形如一个威严的麋鹿头。佩戴者在[[察觉]]和[[生存]]检定上获得+2表现加值。每天一次，佩戴者可以使用[[动物信使]]。
+|req=[[锻造戒指]]、[[动物信使]]、制造者必须在[[察觉]]和[[生存]]技能上拥有2级
+|cost=750 gp
+|source=内海诸神
+}}

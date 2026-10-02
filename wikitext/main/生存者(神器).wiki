@@ -1,0 +1,7 @@
+{{物品
+|name=生存者
+|english_name=The Survivor
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。下一次抽牌者HP降到-10或以下，他立刻HP回满。如果是死于非生命伤害效果（如[[解离术]]），致命效果无效的同时抽牌者生命恢复到满。如果死于恶劣环境（如岩浆池，危险的位面），他被传送到最近的安全地点并HP回满。该效果无法防护永久无力化的效果，如[[石化]]。
+}}

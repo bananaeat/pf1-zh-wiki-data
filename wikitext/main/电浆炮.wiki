@@ -1,0 +1,23 @@
+{{科技物品
+|name=电浆炮
+|english_name=Plasmathrower
+|kind=科技武器
+|sub=重型武器
+|price=30,000 gp
+|weight=15磅
+|wtype=双手远程
+|prof=异种（重型武器）
+|dmg_s=2d10
+|dmg_m=4d6
+|dmg_type=电击和火焰
+|crit=19-20/×2
+|range=60尺
+|capacity=20
+|usage=2
+|special=全自动或低射速，霰弹，接触
+|description=电浆炮是一件威力惊人的武器，发射过热且带电的气体团。这件武器有两种射击模式：低射速与全自动。设为低射速模式时，武器射出一发霰射的攻击，没有射程增量；设为全自动模式时，则射出单发的电浆束，最远可达3个射程增量。电浆炮造成的伤害一半是火焰伤害，另一半是电击伤害。
+|construction=[[制造科技武器和护甲]]、军事工作间
+|craft_dc=32
+|cost=15,000 gp
+|source=科技指南
+}}

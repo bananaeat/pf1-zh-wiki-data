@@ -1,0 +1,12 @@
+{{Feat
+|name=讲道理
+|english_name=Disarming Threat Deed
+|categories=派头
+|description=你是个讲道理的人，大家都知道这一点
+|prerequisites=业余剑客或派头职业能力，交涉技能2级，威吓技能2级
+|benefit=当你成功通过威吓检定迫使一名对手对你表现友善时，你可以消耗1点时髦值，使目标在效果持续时间结束时对你不关心。受此影响的目标不太可能向当局告发你。
+|normal=被威吓迫使对你表现友善的对手，在持续时间结束时会变得不友善，并且很可能向当局告发你。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Monster Summoner's Handbook pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=魔学院新生
+|english_name=Acadamae Neophyte
+|type=魔法
+|description=你展现出了非凡的魔法天赋，引起了科瓦萨著名的魔学院的注意。每当你在用于辨识生物及其特殊能力或弱点的[[知识]]（位面）检定上成功时，你额外获得一条有用的信息（如同你的技能检定结果高出5点）。
+|source_name=怪物召唤者手册
+|source=MSH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Acadamae%20Neophyte
+}}

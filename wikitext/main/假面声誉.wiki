@@ -1,0 +1,13 @@
+{{Feat
+|name=假面声誉
+|english_name=Masked Renown
+|description=你的假面伪装特别有名。
+|prerequisites=魅力13，易容2级。
+|benefit=你获得侠客的[[小有名气]][[社交天赋]]（UI 12），允许你收集和维持社区中的声望。
+|special=从9级开始，你可以再次选择这个专长来获得侠客的[[声名显赫]]社交天赋。
+|source=ISI
+|source_name=内海诡道
+|source_url=https://pf1chm.pages.dev/topics/zhe315843410.htm
+}}
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhe315843410.htm 原文]）的《[[内海诡道]]》[[假面伪装]] 一章。

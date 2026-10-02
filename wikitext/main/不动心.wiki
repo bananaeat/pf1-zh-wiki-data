@@ -1,0 +1,9 @@
+{{Trait
+|name=不动心
+|english_name=Centered
+|type=宗教
+|prerequisites=信仰[[义洛理]]
+|description=你的信仰与知识深深的扎根在你的心底，以致别人很难影响你的心灵。你受到魅惑和胁迫效果影响时豁免获得+1背景加值，而且别人对你使用威吓技能时DC+1。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

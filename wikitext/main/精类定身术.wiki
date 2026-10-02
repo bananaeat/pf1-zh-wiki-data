@@ -1,0 +1,16 @@
+{{Spell
+|name=精类定身术
+|english_name=Hold fey
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=先知 2;吟游诗人 2;女巫 2;审判者 2;战斗祭司 2;牧师 2;奥能师 3;术士 3;法师 3
+|action=标准动作
+|components=语言;姿势;法器/圣徽（一小条笔直的铁片）
+|range=中距
+|target=一名精类生物
+|duration=1轮/等级 (可解消)；见后文
+|save=意志，通过则无效；见后文
+|sr=是
+|description=此法术效果如同[[人类定身术]]，除了只影响精类而非类人外。
+|source=第一世界，妖精之国
+}}

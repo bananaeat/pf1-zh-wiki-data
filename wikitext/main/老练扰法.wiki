@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Streets pg. 17），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=老练扰法
+|english_name=Practiced Disruptor
+|type=社会
+|description=你在对抗施法者方面经验丰富。你可以在未受训的情况下进行[[知识]]（奥秘）检定；如果你在该技能上有技能等级，你改为在这些检定上获得+1背景加值。在你威胁区域内防御施法的专注检定DC增加1。
+|source_name=市井英雄
+|source=HotS
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Practiced%20Disruptor
+}}

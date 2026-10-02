@@ -1,0 +1,11 @@
+{{Feat
+|name=凶恶部族
+|english_name=Ferocious Horde
+|categories=团队
+|description=看到一名[[兽人]]同伴[[流血]]会使你更加努力的战斗。
+|prerequisites=[[兽人]]，凶猛种族特性。
+|benefit=每当你的生命值达到或低于你满生命值的一半，且你30尺内的一名同样拥有该专长的兽人盟友也达到或低于她满生命值的一半时，你在攻击骰上获得+2士气加值。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

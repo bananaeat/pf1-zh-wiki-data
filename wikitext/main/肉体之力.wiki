@@ -1,0 +1,10 @@
+{{Trait
+|name=肉体之力
+|english_name=Strength of Body
+|type=种族
+|prerequisites=[[兽态人]]（野猪人裔）
+|description=你比常人更慢学会控制自己的变形能力，但你学会了最大限度利用自己力量的方法。每天一次，你可以用力量调整值代替体质调整值进行一次强韧豁免。你必须要在投骰之前声明使用该能力。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_808.html
+}}

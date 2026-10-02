@@ -1,0 +1,15 @@
+{{魔法物品
+|name=疫生披肩
+|english_name=Plagueborn Mantle
+|aon=MagicWondrousDisplay.aspx?FinalName=Plagueborn Mantle
+|cat=奇物
+|aura=中等死灵系
+|cl=6
+|slot=肩部
+|price=7,200 gp
+|weight=1磅
+|description=这件披肩以保存下来的瘟疫受害者的皮肤制成，功能如同+1抗力披风。如果佩戴者感染了疾病，还可以命令披肩每天施放一次致命毒气。此外，染病的佩戴者可以用[[标准动作]]进行一次[[接触攻击]]；若命中，目标必须通过DC 15的强韧豁免，否则感染佩戴者当前患有的一种疾病（若有多种疾病，由佩戴者选择）。
+|req=[[制造奇物]]、[[疫病术]]、[[提升抗力]]、[[致命毒气]]
+|cost=3,600 gp
+|source=恶棍志
+}}

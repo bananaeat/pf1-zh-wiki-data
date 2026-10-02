@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=驱除邪祟|en=Exorcise Haunt|type=Sp|domain=医疗领域|source=闹鬼英雄手册|text=你可以用一个[[标准动作]]发出一股正[[能量爆发]]。距离你15尺内的任何[[作祟]]都会受到1d8加上你每2个牧师等级1点伤害。你每天可以使用此能力的次数等于“3+[[感知]]调整值”。此能力取代[[医疗领域#制止死亡 (Rebuke Death, Sp)|制止死亡]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

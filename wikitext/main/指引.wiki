@@ -1,0 +1,5 @@
+{{消歧义|指引(武器附魔)}}
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=指引|en=Inspiring Command|type=Su|domain=高贵领域|sub=领导子域 (Leadership)|sub_name=领导子域|source=进阶玩家指南|text=你以标准动作令30尺内的“1+1/3牧师等级”个盟友注意集中1轮。他们的攻击检定、技能检定、AC和[[CMD]]在1轮内获得+2洞察加值。这是个依赖于语言的心智效果。此能力替换[[高贵领域#豪言壮语 (Inspiring Word, Sp)|豪言壮语]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

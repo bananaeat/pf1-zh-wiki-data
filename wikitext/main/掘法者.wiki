@@ -1,0 +1,9 @@
+{{Trait
+|name=掘法者
+|english_name=Eldritch Delver
+|type=魔法
+|description=你难以遏制自己对与世界相关的知识的渴求。你的全部知识(地城)和知识(历史)检定获得+1背景加值，并且你可以在施展任何咒法系传送子学派的法术时，将施法者等级视为高于实际1级。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

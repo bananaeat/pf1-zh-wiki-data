@@ -1,0 +1,14 @@
+{{Feat
+|name=凝聚力量
+|english_name=Gather Might
+|description=你可以用念力凝聚强化你的躯体
+|prerequisites=念力凝聚职业能力，操念使等级8
+|benefit=当你使用念力凝聚时，代替减少[[念袭]][[原力]]的超载消耗，你可以让元素能量遍布你的躯体，在力量、敏捷、体质属性上直到你的回合结束前，每通过念力凝聚减少1点超载获得+2炼金加值（在使用超聚合能力，用一个[[整轮动作]]加一个[[移动动作]]凝聚的情况下获得最高10点加值）。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/page_1336.html
+|source=MAH
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[持久力量]]（1 个条目）

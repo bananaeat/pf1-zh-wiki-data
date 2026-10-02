@@ -1,0 +1,15 @@
+{{魔法物品
+|name=蒸汽超魔权杖
+|english_name=Rod of Metamagic, Steam
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Metamagic, Steamlesser
+|cat=权杖
+|aura=强烈（无学派）
+|cl=17
+|slot=无
+|price=1,500 gp（次等）；5,500 gp（普通）；12,250 gp（高等）
+|weight=1磅
+|description=此权杖的持用者每天至多3次可以轻松地在水下施放火焰法术，如同使用了[[蒸汽法术]]专长一样。
+|req=[[制造魔法武器和防具]]、[[行动自如]]
+|cost=750 gp（次等）；2,750 gp（普通）；6,125 gp（高等）
+|source=水下冒险
+}}

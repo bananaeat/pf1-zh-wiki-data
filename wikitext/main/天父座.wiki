@@ -1,0 +1,11 @@
+{{Trait
+|name=天父座
+|english_name=The Patriarch
+|type=宇宙
+|aliases=43-49 天父座
+|prerequisites=赛伦尼斯(Sarenith)21日-埃拉斯图斯(Erastus)20日(译注：6月21日-7月20日)
+|description=就如篷车星系中的父亲一般，你有一种天生的方向感。每日3次，你可以以类法术能力施展[[指北术]],将你的角色等级视为你的施法者等级。
+|source_name=宇宙背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zhc3ea784a66.htm
+}}

@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[随手武器]] 的神话版本。</small></div>
+{{Feat
+|name=随手武器
+|english_name=Catch Off-Guard
+|categories=神话
+|description=在你的手中，万物皆为兵刃。
+|prerequisites=[[随手武器]]
+|benefit=当你使用临时武器时造成的伤害增加，增加数值等同于你的阶层。在对抗敌人对你所持握的临时武器所进行的[[击破|击破武器]]或卸除武器尝试时，你的[[CMD]]获得等同于你的阶层的加值。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

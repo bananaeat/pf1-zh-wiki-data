@@ -1,0 +1,9 @@
+{{Trait
+|name=时尚达人
+|english_name=Fashionable
+|type=派系
+|description=你在成长阶段，作为欧帕拉的一名社交新锐，学习和使用种种时尚技巧增进和构建与他人的关系。只要你穿着的总价80gp以上的服装与首饰，你在[[唬骗]]、交涉和察言观色技能上获得+1背景加值。而且其中之一(由你选择)变成你的[[本职技能]]。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

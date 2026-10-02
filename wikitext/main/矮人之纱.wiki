@@ -1,0 +1,15 @@
+{{Spell
+|name=矮人之纱
+|english_name=Dwarven Veil
+|school=变化系
+|levels=先知 2;圣武士 2;战斗祭司 2;牧师 2
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一个生物
+|duration=10分钟/等级
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=此法术能增强目标的矮人特质或类矮人特质，使其看起来更具有吸引力和风度，并赢得矮人的尊重和钦佩。目标的外貌仍可识别为本人。目标在影响矮人的检定（例如交涉，威吓等）获得+2环境加值。
+|source=格拉利昂的矮人
+}}

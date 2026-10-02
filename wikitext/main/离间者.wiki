@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 199），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=离间者
+|english_name=Inciter (Hobgoblin)
+|type=种族
+|prerequisites=[[大地精]]
+|description=你亲眼目睹或亲身卷入过一场让挚友反目成仇的纷争。你在为使他人相信其盟友对不起他们而进行的[[唬骗]]检定上，以及为说服他人背弃盟友的信任而进行的[[交涉]]检定上，获得+2背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Inciter%20%28Hobgoblin%29
+}}

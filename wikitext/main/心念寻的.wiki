@@ -1,0 +1,12 @@
+<noinclude>{{异能者导航}}
+'''心念寻的'''（Telepathic Targeting, Su）是[[异能者]]的[[精神增幅|精神增幅]]。
+
+</noinclude>''高等精神增幅''
+
+从精神力池中花费2点精神力，异能者可以将联结法术的目标指定为正与她进行心灵感应沟通的任意生物（无论是通过她的[[异能者#心灵连线|心灵连线]]能力、生物的心灵感应能力还是其他效果），即使目标超出正常的施法距离。该联结法术必须具有影响心灵描述符，且施法距离为接触或更远。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_310.html 精神增幅]、[https://pf1chm.pages.dev/topics/zhb4162fc9dd.htm 乌笃剌精神增幅]、[https://pf1chm.pages.dev/topics/page_855.html PSI技术]），按 AoN 核对过。全部精神增幅见 [[精神增幅]]。
+
+[[分类:精神增幅]]
+
+{{职业}}</noinclude>

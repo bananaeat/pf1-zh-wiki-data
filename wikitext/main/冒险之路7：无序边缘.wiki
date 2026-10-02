@@ -1,0 +1,42 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #7: Edge of Anarchy
+|authors=Nicolas Logue
+|pages=96
+}}
+
+{{书页/简介|head=人头落地！|1=
+腥红王座的诅咒降临科瓦萨！在病重国王的阴影之下，一位新的统治者正在积聚权力，在本就动荡不安的民众中掀起轩然大波，把瓦瑞西亚最大的城市推向灾难的边缘。
+
+面对无序的乱局，一队英雄应一位神秘赞助人的召唤聚到一起。诡异的魔法与神秘的预言，把他们引上追查共同敌人的道路——这条路将他们卷入一场拯救城市于毁灭的斗争。在国王与将军、英雄与盗贼的重重阴谋之间，新君的统治究竟会迎来荣耀的新时代，还是混乱的暴政，就要看这些新晋英雄的抉择了。
+
+本册《冒险之路》内容包括：
+
+* Nicolas Logue 的冒险《无序边缘》（"Edge of Anarchy"），适用于 1 级角色。
+* 设计师 Mike Selinker 与 Teeuwynn Woodruff 带来的《哈罗牌的启示》（Revelations of the Harrow）——瓦瑞西亚人那种类似塔罗牌的占卜牌组。
+* Amber Scott 对瓦瑞西亚文化的探索，详述这些神秘游牧民族活生生的历史与莫测的习俗。
+* Michael Kortes 在「探索者日志」中记录的 Eando Kline 初入危险的灰烬之地的见闻。
+* Nicolas Logue 与 Mike McArtor 设计的六种新怪物。
+}}
+
+'''冒险之路7：无序边缘'''（''Pathfinder #7: Edge of Anarchy''）是[[冒险之路]]「腥红王座的诅咒」系列的第一章冒险，由 Nicolas Logue 撰写，配套文章出自 Mike McArtor、Amber Scott、Mike Selinker 和 Teeuwynn Woodruff，小说出自 Michael Kortes，于 2008 年 3 月 19 日发售。
+
+== 目录 ==
+本册《冒险之路》拉开第二条开拓者冒险之路「腥红王座的诅咒」的序幕，还收录一篇介绍当地占卜术哈罗牌的指南、一篇讲述本地原住民瓦瑞西亚人神秘文化的专文，以及数种为城市环境设计的新怪物。「探索者日志」则探究危险的灰烬之地上休盎提部落的习俗。
+{{书页/目录|1=
+前言 @ 4
+无序边缘 @ 6
+哈罗牌 @ 58
+大路之民 @ 62
+探索者日志 @ 70
+怪物图鉴 @ 76
+预设角色 @ 90
+}}
+
+{{书页尾
+|pfw=Edge of Anarchy
+|releases=PDF¦PZO9007E¦2008-03¦；Softcover¦PZO9007¦2008-03¦
+}}
+
+[[分类:书目]]

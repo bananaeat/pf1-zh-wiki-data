@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Ruins of Azlant Player's Guide pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=探索者新人
+|english_name=Pathfinder Recruit
+|type=战役
+|pfs=否
+|description=探索、报告、合作。这是你自加入探索者协会以来奉行的信条。听说有支远征队要去建立塔玛多丰饶镇后，你便提出了申请，渴望亲眼看看阿兹兰特的遗迹。然而你很快发现，丰饶冒险公司并不想让探索者协会参与殖民地的建立。这让你觉得很奇怪——论对古阿兹兰特某些方面的了解，还有谁比得上探索者协会呢？无论如何，你还是走完了申请流程，着重突出自己所有相关的技能和经验，同时对自己在协会中的身份守口如瓶。收到通知、得知自己入选第二批殖民者、将前往破碎的阿兹兰特大陆时，你欣喜若狂。你开始游戏时拥有一个标准寻路仪，并且你的先攻检定获得+1背景加值。
+|source_name=Ruins of Azlant Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Pathfinder%20Recruit
+}}

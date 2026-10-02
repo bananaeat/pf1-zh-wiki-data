@@ -1,0 +1,32 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=奥蒂卡亚
+|english_name=Otikaya
+|title=射魂者（The Spirit Archer）
+|alignment=守序邪恶（LE）
+|weapon=[[反曲刀]]
+|domains=[[动物领域|动物]]，[[邪恶领域(领域)|邪恶]]，[[秩序领域|秩序]]，[[诡术领域|诡术]]
+|subdomains=[[诡术领域#欺骗子域 (Deception)|欺骗子域]]，[[邪恶领域(领域)#恐惧子域 (Fear)|恐惧子域]]，[[动物领域#毛兽子域 (Fur)|毛兽子域]]，[[秩序领域#暴政子域 (Tyranny)|暴政子域]]
+|pantheon=罗刹邪仙
+|source=永罪之书
+}}
+
+奥蒂卡亚（Otikaya）是一位[[罗刹邪仙]]。
+
+== 简介 ==
+射魂者是一位威武的鹰头罗刹，据说祂能将自己的灵魂撕裂成一千份，同时让这些碎片向敌人同时发起射击。有人说其真身被困在了世界之伤的某处，现在看到的只是祂的投影。
+
+== 服从仪典与神恩 ==
+=== 服从仪典 ===
+爬上你能达到的最高处，瞄准所有你能看到的生物。你在对抗死亡效果时豁免获得+4亵渎加值。
+
+=== 神恩 ===
+每日各2次的类法术能力：
+{{神恩|n=1|name=|en=|type=Sp|text=每日2次，可以类法术能力使用[[鹰眼术]]。}}
+{{神恩|n=2|name=延时秘法视力|en=Extended Arcane Sight|type=Sp|text=每日2次，可以类法术能力使用延时[[秘法视力]]。}}
+{{神恩|n=3|name=|en=|type=Sp|text=每日2次，可以类法术能力使用[[精神庇护所]]。}}
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc8a8173c5c.htm 原文]），原在总页 [[罗刹邪仙]]。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Otikaya|2=Otikaya}}
+[[分类:魔神]]

@@ -1,0 +1,40 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #8: Seven Days to the Grave
+|authors=F. Wesley Schneider
+|pages=96
+}}
+
+{{书页/简介|head=把死人抬出来！|1=
+死神游荡在街头！「腥红王座的诅咒」冒险之路继续前行，把死亡那灼人的赤红之手带到了科瓦萨。起初只是一场孤立的疫情，转眼就演变成全面流行的瘟疫，很快没有人能够幸免。城市的资源迅速不堪重负，一位走投无路的女王采取了严酷的手段来遏制不断攀升的死亡人数。当尸体铺满街道，PC 们必须在城中那些绝望的守卫者里寻找盟友，平息恐慌的浪潮，能救多少救多少。可是，数千人的命运都握在他们手中，PC 们能否在科瓦萨沦为一座万人坑之前，揭开这场非自然瘟疫背后的主谋？
+
+本册《冒险之路》内容包括：
+
+* F. Wesley Schneider 的冒险《死前七日》（"Seven Days to the Grave"），适用于 4 级角色。
+* Rick Miller 与 Edward P. Healy 对疾病、瘟疫、流行病及其对奇幻世界影响的考察。
+* Sean K Reynolds 揭示城市、财富与律法之神[[阿巴达尔]]的诫命。
+* 在「探索者日志」中，Eando Kline 勇闯无序而怪物横行的乌尔格林（Urglin）废墟，作者 James Jacobs。
+* F. Wesley Schneider 设计的六种新怪物。
+}}
+
+'''冒险之路8：死前七日'''（''Pathfinder #8: Seven Days to the Grave''）是[[冒险之路]]「腥红王座的诅咒」系列的第二章冒险，由 F. Wesley Schneider 撰写，配套文章出自 Edward P. Healy、Rick Miller 和 Sean K Reynolds，小说出自 James Jacobs，于 2008 年 4 月 16 日发售。本册在 2008 年 ENnie 奖中获得两项提名，包括最佳冒险（该奖项由 Burnt Offerings 获得）和年度产品。
+
+== 目录 ==
+本册《冒险之路》以精彩的第二章延续「腥红王座的诅咒」，还收录处理瘟疫、饥荒等大规模城市灾难的补充规则，以及对城市与财富之神[[阿巴达尔]]的详尽介绍。Eando Kline 在《The Compass Stone》中闯入一座兽人城市，数种与疾病相关的新怪物则为怪物图鉴收尾。
+{{书页/目录|1=
+前言 @ 4
+死前七日 @ 6
+瘟疫与疫病 @ 58
+[[阿巴达尔]] @ 64
+探索者日志 @ 72
+怪物图鉴 @ 78
+预设角色 @ 90
+}}
+
+{{书页尾
+|pfw=Seven Days to the Grave
+|releases=PDF¦PZO9008E¦2008-04¦；Softcover¦PZO9008¦2008-04¦
+}}
+
+[[分类:书目]]

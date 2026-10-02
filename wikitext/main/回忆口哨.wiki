@@ -1,0 +1,14 @@
+{{魔法物品
+|name=回忆口哨
+|english_name=Werewhistle
+|aon=MagicWondrousDisplay.aspx?FinalName=Werewhistle
+|cat=奇物
+|aura=中等变化系
+|cl=9
+|slot=无
+|price=8,000 gp
+|description=这个银质口哨如狼头状。每天一次，使用者可以吹奏口哨来迫使30尺内一个兽化人进行DC17的意志豁免检定。检定失败则该兽化人变回人型24小时。
+|req=[[制造奇物]]、[[恶意变形术]]
+|cost=4,000 gp
+|source=极限宝具
+}}

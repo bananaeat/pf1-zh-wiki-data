@@ -1,0 +1,12 @@
+{{Feat
+|name=残酷施法
+|english_name=Callous Casting
+|categories=背叛;团队
+|pfs=否
+|description=你从不关心法术是否会伤害盟友。够聪明的人自己知道躲避。
+|prerequisites=[[法术辨识]]1级。
+|benefit=当你施放的法术将会造成牺牲者无法免疫的伤害时，将牺牲者纳入法术范围以使用该专长。 无情的攻击使范围内的敌人大为震惊，他们必须通过对抗法术DC的意志豁免，否则战栗（Shaken）“法术环位”轮。在法术效果结算完毕后，牺牲者可以[[直觉动作]]移动至多相当于移动速度的距离。该动作移动的距离会从她下回合的移动力中扣除。这次移动如常引发[[借机攻击]]。敌人一旦对该专长进行过意志豁免（无论成败），他在接下来24小时内免疫该发起者的该效果。
+|source=CoC
+|source_name=秽邪勇士
+|source_url=https://pf1chm.pages.dev/topics/zh45cf79b2ca.htm
+}}

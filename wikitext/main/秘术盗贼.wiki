@@ -1,0 +1,10 @@
+{{Feat
+|name=秘术盗贼
+|english_name=Bookish Rogue
+|description=多亏你的精心准备，你的奥术能力比大多数人更为多样。
+|prerequisites=[[次级魔法(盗贼天赋)|次级魔法]]盗贼天赋
+|benefit=花费10分钟研究一本[[法师#法术书|法术书]]，你可以将自己通过[[次级魔法(盗贼天赋)|次级魔法]]或[[高等魔法]][[盗贼天赋]]获得的一个[[术士]]/法师法术更换为一个法术书中记载的同环法术。这个改变持续到你下次以本专长更换法术为止。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

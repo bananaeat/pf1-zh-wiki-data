@@ -1,0 +1,10 @@
+{{Trait
+|name=艾欧巴瑞亚幸存者
+|english_name=Iobarian Survivor
+|type=地区
+|description=当你因为尝试治疗一个已经被疾病感染的生物而暴露于疾病时，你的强韧豁免获得+4背景加值，以此来抵抗疾病感染你。
+|regions=艾欧巴瑞亚
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_703.html
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=天鹅绒之声
+|english_name=Voice of Velvet
+|type=种族
+|prerequisites=[[人类]]（乌笃剌人）
+|description=你拥有以歌声和故事捕获听众心灵的才能。你在交涉和表演(演讲)检定上获得+1背景加值。
+|source_name=格拉里昂的人类
+|source_url=https://pf1chm.pages.dev/topics/page_1581.html
+}}

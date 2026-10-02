@@ -1,0 +1,9 @@
+{{Trait
+|name=自然之血
+|english_name=Green-Blooded
+|type=魔法
+|description=你出生时便与大自然的超凡力量产生了接触，并受到了标记以与其他凡人区别开来。你可以选择一项0环的德鲁伊法术，每天可以作为类法术能力释放一次，施法者等级相当于你的人物等级。
+|source_name=荒野英雄
+|source=HotW
+|source_url=https://pf1chm.pages.dev/topics/zhc5a8c0a892.htm
+}}

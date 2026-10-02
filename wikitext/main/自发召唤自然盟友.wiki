@@ -1,0 +1,10 @@
+{{Feat
+|name=自发召唤自然盟友
+|english_name=Spontaneous Nature's Ally
+|description=你的神术并不能自动转化为治疗能量，而是可以召来自然的生物。
+|prerequisites=[[知识]]（自然）技能5级，可以自发施放治疗或伤害法术，拥有动物或植物牧师领域
+|benefit=你可以“舍弃”一个已准备的法术，以施放任意同环或更低环的[[召唤自然盟友]]法术，而不是像通常那样施放治疗法术或伤害法术。仅就本专长而言，相应环级的召唤自然盟友法术视为在你的法术列表上，其环级与德鲁伊相同。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

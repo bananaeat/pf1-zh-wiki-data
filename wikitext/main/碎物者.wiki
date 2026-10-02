@@ -1,0 +1,12 @@
+{{Feat
+|name=碎物者
+|english_name=Chairbreaker
+|categories=战斗
+|pfs=否
+|description=你可以破坏随手之物对敌人造成更多伤害。
+|prerequisites=[[随手武器]]，BAB＋1
+|benefit=当你使用临时武器攻击时，你可以为武器附加[[破损]]状态来使本次攻击造成1D4点额外伤害。此外，本次攻击的确认重击检定获得＋4加值。若确认重击，该专长的额外伤害也会加倍，同时临时武器彻底损毁。
+|source=CoC
+|source_name=秽邪勇士
+|source_url=https://pf1chm.pages.dev/topics/zh45cf79b2ca.htm
+}}

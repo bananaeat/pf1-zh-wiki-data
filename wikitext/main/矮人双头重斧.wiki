@@ -1,0 +1,16 @@
+{{武器
+|name=矮人双头重斧
+|english_name=Dwarven double waraxe
+|category=武器
+|prof=异种
+|wcat=单手
+|price=60 gp
+|weight=12磅
+|dmg_s=1d8
+|dmg_m=1d10
+|crit=×3
+|type=挥砍
+|special=见正文
+|description=这种沉重的重斧与常见的矮人重斧类似，但是它在正反两向均有弯曲的利刃，这使得它看起来好像致命的蝴蝶一般。当通过矮人双头重斧使用“顺势斩”或“大顺势斩”专长时，初次攻击之后的所有攻击均会在攻击检定上获得+1加值。
+|source=进阶种族手册
+}}

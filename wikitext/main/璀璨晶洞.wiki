@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=璀璨晶洞
+|english_name=Effulgent Geode
+|aon=MagicWondrousDisplay.aspx?FinalName=Effulgent Geode
+|cat=奇物
+|aura=中等咒法系
+|cl=9
+|slot=无
+|price=2,250 gp
+|weight=1磅
+|description=这块拳头大小的粗糙石头，内腔里嵌满了灌注了正能量的水晶。将它朝60尺内的坚硬表面掷出，璀璨晶洞会爆炸，形成半径20尺的爆发。爆发范围内的生物恢复1d8+9点生命值，范围内的不死生物则受到1d8+9点伤害（强韧豁免DC 17减半）。若一个生物佩戴或携带着璀璨晶洞，而该生物对某个造成负能量伤害的效果豁免失败，则晶洞也必须对该负能量效果豁免成功，否则立即爆炸。
+|req=[[制造奇物]]、[[群体治疗轻伤]]
+|cost=1,125 gp
+|source=黑市指南
+}}

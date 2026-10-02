@@ -1,0 +1,15 @@
+{{Feat
+|name=先锋流
+|english_name=Vanguard Style
+|categories=战斗;流派
+|description=你使用你盾在前方护卫盟友。
+|prerequisites=[[保镖]]，[[战斗反射]]，擅长轻盾或重盾
+|benefit=开启此[[流派]]后，若你一个邻接盟友需要骰反射豁免，你可以消耗一次[[借机攻击]]来尝试进行协助他人动作，来增强你的盟友的反射豁免。在你的下一轮开始前，你的盟友在与你邻接时获得+2加值在所有反射豁免上。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_361.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[先锋 · 佑]]、[[先锋 · 盾]]（2 个条目）

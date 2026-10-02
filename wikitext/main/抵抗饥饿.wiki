@@ -1,0 +1,15 @@
+{{Spell
+|name=抵抗饥饿
+|english_name=Resist starvation
+|school=变化系
+|levels=先知 1;反圣武士 1;战斗祭司 1;牧师 1;萨满 1
+|action=标准动作
+|components=语言;姿势;材料（食物碎屑）
+|range=接触
+|target=一个被碰触的活物
+|duration=1天/等级
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=如果一个目标在被施放此法术时的那天并未进食，第二天在避免因为饥饿而受到[[非致命伤害]]的DC不会增加1。如果目标并没有尝试过至少1次的体质检定来避免饥饿的话，此法术失败。
+|source=恶棍志
+}}

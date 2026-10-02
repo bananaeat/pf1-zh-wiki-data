@@ -1,0 +1,10 @@
+{{Feat
+|name=高等悠远血脉
+|english_name=Greater Eldritch Heritage
+|description=你对[[血统力量]]的发掘达到了极致。
+|prerequisites=魅力17，[[悠远血脉]]，[[进阶悠远血脉]]，角色等级17级。
+|benefit=你从[[悠远血脉]]专长中选择的术士血统中获得一个额外血统力量。你获得一个你还没有的15级（或更低）的血统力量。当你使用从“悠远血脉”、“[[进阶悠远血脉]]”、“高等悠远血脉”专长中获得的血统力量时，将你的角色等级视为[[术士]]等级。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

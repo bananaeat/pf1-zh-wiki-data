@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''二次豁免'''（Second Save）是一条神话[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-a">神话</span><span class="sk-f">位置：位于豁免之后</span></div>
+</noinclude><includeonly><div class="lang"><span id="二次豁免"></span><div class="lang-h"><b>[[二次豁免]]</b><i>Second Save</i><span class="lang-w">Ex · 神话 · 位于豁免之后</span></div><div class="lang-d"></includeonly>
+在对抗持续时间高于 1 轮的效果时，每当该生物的豁免检定失败后，它能够继续尝试摆脱效果的影响。在它的回合开始时，如果仍旧受到影响，它能够以自由动作再一次尝试豁免。如果该次豁免成功，该效果对生物的影响就会如同它最初的豁免成功一般。如果这效果本身已经允许在之后的回合内进行另一次豁免来打破效果（比如[[怪物定身术]]），该能力是在效果自带的额外豁免检定之外另加的。
+
+'''格式'''：二次豁免
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Second Save|2=Second Save}}
+
+[[分类:通用怪物规则]]</noinclude>

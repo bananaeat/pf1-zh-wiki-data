@@ -1,0 +1,15 @@
+{{魔法物品
+|name=高等惊骇颈环
+|english_name=Dire Collar, Greater
+|aon=MagicWondrousDisplay.aspx?FinalName=Dire Collar, Greater
+|cat=奇物
+|aura=中等变化系
+|cl=9
+|slot=颈部
+|price=14,000 gp
+|weight=2磅
+|description=这条颈环的功能如同惊骇颈环，只是佩戴它的动物会获得动物异变法术的效果，持续1分钟。
+|req=[[制造奇物]]、[[动物异变]]
+|cost=7,000 gp
+|source=进阶职业指南
+}}

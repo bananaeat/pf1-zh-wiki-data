@@ -1,0 +1,10 @@
+{{Trait
+|name=诸神仇视
+|english_name=Hatred of the Gods
+|type=宗教
+|prerequisites=信仰[[拉瓦古格]]
+|description=诸世毁灭者对众神的滔天恨意帮助你抵抗其之信众对你的攻击。你对抗神术的豁免检定获得+1背景加值。【摘自 Evana 的翻译】
+|source_name=内海诸神
+|source=摘自 Evana 的翻译
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

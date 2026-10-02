@@ -1,0 +1,9 @@
+{{Feat
+|name=岩石藏身
+|english_name=Stone Cover
+|prerequisites=感知15、[[岩石潜身]]、隐匿6级、[[矮人]]、岩石敏锐种族特性。
+|benefit=当你处于碎石地形或地下时，你能以一个[[迅捷动作]]获得10%的失手率。或者，你可以花点时间更好地调整自身位置，通过一个[[移动动作]]获得[[隐蔽]]。你通过此专长获得的失手率或隐蔽效果不会与类似效果叠加，并且该效果会持续到你下一回合开始时。
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/zh72cd9d7a9f.htm
+|source=HftF
+}}

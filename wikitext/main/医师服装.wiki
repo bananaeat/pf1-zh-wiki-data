@@ -1,0 +1,9 @@
+{{装备
+|name=医师服装
+|english_name=Doctor's outfit
+|cat=工具
+|price=150 gp
+|weight=6磅
+|description=任何穿戴这套服装的生物，在抵抗接触性疾病的强韧豁免上获得+2环境加值。
+|source=冒险之路8：死前七日、冒险者的军械库
+}}

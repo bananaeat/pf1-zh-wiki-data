@@ -1,0 +1,16 @@
+{{Spell
+|name=匠人诅咒
+|english_name=Crafter's curse
+|school=变化系
+|tags=诅咒
+|levels=奥能师 1;术士 1;法师 1;秘学士 1;红螳螂杀手 1
+|action=标准动作
+|components=语言;姿势;材料（一把坏掉的工具）
+|range=近距
+|target=一个生物
+|duration=1天/等级 （可解消）
+|save=意志，通过则无效
+|sr=是
+|description=匠人诅咒的目标在法术持续期间，所有工艺检定受到-5减值。
+|source=进阶玩家指南
+}}

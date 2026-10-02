@@ -1,0 +1,44 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=高山松鸡
+|english_name=Ptarmigan
+|cr=1/6
+|xp=65
+|alignment=绝对中立
+|size=超小型
+|type=动物
+|init=+2
+|senses=昏暗视觉；察觉 +2
+|description=这只小鸟羽毛棕白相间，发出响亮的呱呱声。
+|ac=14，接触 14，措手不及 12（+2 敏捷，+2 体型）
+|hp=2（1d8–2）
+|fort=+0
+|ref=+4
+|will=+2
+|speed=20 尺，飞行 40 尺（不良）
+|melee=啮咬 +4（1d2–4）
+|space=2–1/2 尺
+|reach=0 尺
+|str=2
+|dex=14
+|con=7
+|int=2
+|wis=14
+|cha=5
+|bab=+0
+|cmb=+0
+|cmd=6
+|feats=[[武器娴熟]]
+|skills=[[隐匿]] +14（在雪地中 +18）
+|racial_mods=+4 隐匿（在雪地中）
+|environment=寒冷的森林与平原
+|organization=单独，一对，或一群（3–12）
+|treasure=无
+|source=极限荒野
+|lore=
+这些松鸡随季节换羽，春天全身洁白，冬季则变成棕白相间。
+
+高山松鸡从喙到尾约 1 尺长，翼展是这一长度的两倍。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Ptarmigan|2=Ptarmigan}}

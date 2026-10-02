@@ -1,0 +1,19 @@
+{{武器
+|name=吹箭
+|english_name=Blowgun
+|category=武器
+|prof=简易
+|wcat=远程
+|price=2 gp
+|weight=1磅
+|dmg_s=1
+|dmg_m=1d2
+|crit=×2
+|range=20尺
+|type=穿刺
+|groups=投掷
+|description={{AI翻译|nocat=1|本段由 AI 照 AoN 英文原文译出，CHM 汉化里没有这段译文，未经人工校对。}}
+
+吹箭通常用来从远处投送使人衰弱（但很少致命）的毒药。发射时几乎没有声响。适用毒药的列表见第110页的毒药一节。
+|source=探索者编年史：战役设定、核心规则书、极限宝具、远程战术工具箱
+}}

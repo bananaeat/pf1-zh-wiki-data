@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Elements pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=炎霸之傲
+|english_name=Fiery Dominance
+|type=地区
+|prerequisites=火元素位面
+|description=你在火元素位面的火巨灵之间长大，也养成了与它们相似的笃定优越感，看不起出身不同的人。对亚种与你不同的类人生物（如果你不是类人生物，则为所有非人类的类人生物），你的[[威吓]]检定获得+1背景加值；并且这些生物用威吓对你挫败士气的DC比通常高2。
+|source_name=元素血脉
+|source=BotE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Fiery%20Dominance
+}}

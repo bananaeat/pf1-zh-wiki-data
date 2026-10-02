@@ -1,0 +1,16 @@
+{{Spell
+|name=复仇圣炎
+|english_name=Fire of vengeance
+|school=塑能系
+|tags=火
+|levels=圣武士 4
+|action=迅捷动作
+|components=语言;姿势
+|range=特殊；见后文
+|target=一个生物
+|duration=见下文
+|save=无
+|sr=否
+|description=在施放该法术之后，下一个被你用制裁邪恶职业能力攻击的生物会被圣焰所吞没，并且目标会在攻击除你以外的生物时燃烧起来。在你的制裁邪恶效果持续时间内的任何一刻，他只要对除你以外的目标进行攻击，就会受到3d8点火焰伤害。一旦法术以此方式被触发，或者你的制裁邪恶能力持续时间结束，该法术也随之结束。
+|source=进阶玩家指南
+}}

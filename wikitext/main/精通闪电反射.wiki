@@ -1,0 +1,10 @@
+{{Feat
+|name=精通闪电反射
+|english_name=Improved Lightning Reflexes
+|description=你有避开所有周遭危险的本事。
+|prerequisites=闪电反射。
+|benefit=每日1次，你可以重掷一次反射检定。你必须在宣布结果前选择使用本能力。你必须接受重掷的结果，即使比原来的结果还要差。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

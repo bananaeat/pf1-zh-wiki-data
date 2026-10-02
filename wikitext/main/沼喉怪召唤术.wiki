@@ -1,0 +1,15 @@
+{{Spell
+|name=沼喉怪召唤术
+|english_name=Summon froghemoth
+|school=咒法系 (召唤)
+|levels=德鲁伊 9
+|action=1轮
+|components=语言;姿势
+|range=近距
+|duration=1轮/等级 （可解消）
+|save=无
+|sr=否
+|effect=一个被召唤的生物
+|description=该法术的功能如同[[召唤自然盟友 IX]]一般，不过你会召唤出一只沼喉怪。
+|source=极限魔法
+}}

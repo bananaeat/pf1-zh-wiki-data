@@ -1,0 +1,22 @@
+{{魔法物品
+|name=狩猎之杖
+|english_name=Staff of Hunting
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Hunting
+|cat=法杖
+|aura=强烈（学派不定）
+|cl=13
+|slot=无
+|price=51,000 gp
+|weight=5磅
+|description=这根陈年的象牙杖上雕刻着许多狩猎场景，转动法杖时，这些场景似乎活动起来，讲述着一个故事。
+
+该法杖可以使用以下法术：
+
+* [[敏锐感官]]（1 发；UM）
+* [[诗人逃脱术]]（4 发；APG）
+* [[生物定位术]]（2 发）
+* [[强迫护卫]]（3 发；APG）
+|req=[[制造法杖]]、[[敏锐感官]]、[[诗人逃脱术]]、[[生物定位术]]、[[强迫护卫]]
+|cost=25,500 gp
+|source=屠龙者手册
+}}

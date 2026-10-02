@@ -1,0 +1,12 @@
+{{Feat
+|name=武器适应
+|english_name=Weapon Adept
+|categories=战斗
+|description=你善于使用改造过的武器。
+|benefit=选择一种武器改造（比如锯钩）。你在使用此类改造武器时，总是将它视为原有的类型（简易，军用或异种）。
+|normal=改造后的武器使用难度往上提一阶（简易视为军用，军用视为异种）。
+|special=你可以多次选择本专长。每次选择本专长时，你可以选择一个新的改造类型。
+|source=AA2
+|source_name=冒险者的军械库2
+|source_url=https://pf1chm.pages.dev/topics/page_1014.html
+}}

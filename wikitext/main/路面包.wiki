@@ -1,0 +1,15 @@
+{{魔法物品
+|name=路面包
+|english_name=Waybread
+|aon=MagicPotionsDisplay.aspx?ItemName=Waybread
+|cat=药水
+|aura=微弱咒法系
+|cl=6
+|slot=无
+|price=50 gp
+|weight=1磅
+|description=这种美味的黄褐色椭圆形饼干也叫行走面包或步行面包，分量沉得出奇，与它的大小很不相称。吃一块就足以让人整天肚子饱足，并且在这段时间内也不会口渴。
+|req=[[调制药剂]]、[[专业]]（烹饪）5级、[[造粮术]]
+|cost=25 gp，2 XP
+|source=格拉利昂的精灵
+}}

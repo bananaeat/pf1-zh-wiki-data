@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[治疗中伤 (神话)]]。</small></div>
+{{Spell
+|name=治疗中伤
+|english_name=Cure Moderate Wounds
+|school=咒法系 (医疗)
+|levels=先知 2;吟游诗人 2;唤魂师 2;女巫 2;审判者 2;导师 2;战斗祭司 2;歌者 2;炼金术师 2;牧师 2;秘学士 2;萨满 2;调查员 2;圣武士 3;德鲁伊 3;游侠 3;猎人 3
+|domains=医疗领域 2
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的生物
+|duration=立即
+|save=意志，通过则减半（无害）
+|sr=是（无害）; 见后文
+|description=该法术的功能如同[[治疗轻伤]]一般，不过它能治疗 {2d8+CL (最高+10)} 点伤害。
+|source=核心规则书
+}}

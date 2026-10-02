@@ -1,0 +1,12 @@
+{{Feat
+|name=技指弱点
+|english_name=Ostentatious Weakness
+|categories=战斗;演武
+|pfs=否
+|description=你对死敌的了解能够让观众满意。
+|prerequisites=基本攻击加值+5，[[宿敌]]职业能力
+|benefit=当你花费[[迅捷动作]]来尝试演武检定时，若与你战斗的敌人是你的宿敌，则可以将宿敌加值加到此次检定上。
+|source=ISC
+|source_name=内海战斗
+|source_url=https://pf1chm.pages.dev/topics/page_276.html
+}}

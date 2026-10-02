@@ -1,0 +1,12 @@
+{{Feat
+|name=精通燕归来
+|english_name=Improved Second Chance
+|categories=战斗
+|description=你能够将失手的攻击变为第二次进攻的机会，而不用放弃剩余的后招。
+|prerequisites=智力13，[[寓守于攻]]，[[燕归来]]，基本攻击加值+11。
+|benefit=当你使用[[燕归来]]专长重掷失手攻击时，你仍旧能够在该回合进行剩下的攻击，不过每个攻击都会受到-5减值。
+|normal=当你使用“燕归来”专长时，通常情况下必须放弃该回合内剩下的攻击。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

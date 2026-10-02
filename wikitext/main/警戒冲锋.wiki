@@ -1,0 +1,12 @@
+{{Feat
+|name=警戒冲锋
+|english_name=Guarded Charge
+|categories=盾牌掌握;战斗
+|description=向前冲锋时你举起的盾牌保护着你。
+|prerequisites=[[盾牌专攻]]，BAB+6或者战士4级
+|benefit=在使用[[冲撞]]或者[[闯越]][[战技]]作为冲锋的一部分时，你不会导致[[借机攻击]]。如果你已经有[[精通冲撞]]或[[精通闯越]]专长，则在各自的战技检定上获得额外的+2加值。
+|special=这个专长在选择精通闯越、精通冲撞以及要求这两个专长作为前置的专长时，被视为拥有13力量和[[猛力攻击]]专长
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_361.html
+}}

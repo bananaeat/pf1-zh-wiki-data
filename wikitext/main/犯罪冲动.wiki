@@ -1,0 +1,16 @@
+{{Spell
+|name=犯罪冲动
+|english_name=Crime of opportunity
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=催眠师 1;反圣武士 1
+|action=标准动作
+|components=语言;姿势;材料（撕破的手提袋）
+|range=近距
+|target=1个生物
+|duration=1轮
+|save=意志，通过则无效
+|sr=是
+|description=你在目标心中唤起一股突如其来的犯罪冲动，迫使其执行1个犯罪行为，就如同受到了[[犯罪浪潮]]法术影响一般。
+|source=极限诡道
+}}

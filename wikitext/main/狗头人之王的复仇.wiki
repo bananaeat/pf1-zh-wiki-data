@@ -1,0 +1,22 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Revenge of the Kobold King
+|authors=Nicolas Logue
+|pages=16
+}}
+
+{{书页/简介|head=他回来了，满怀血仇|1=
+本该到此为止了。当嗜血的冒险者们闯进他的王座厅、毫不留情地把他砍倒时，不幸的真鳞部落（Truescale Tribe）最后一位国王梅洛克雷普（Merlokrep）的故事本该就此终结。但命运还没有与[[狗头人]]之王了结，如今一股黑暗的力量把他从彼岸召回，要向那些摧毁他部落的愚蠢冒险者们报仇雪恨。
+
+《狗头人之王的复仇》是一部以地城为主的冒险，面向 5 级角色，与世界上最受欢迎的角色扮演游戏兼容。它把你的英雄们带回黑月森林（Darkmoon Wood）闹鬼的树木之下，进入一座古老的阿兹兰特墓穴，去搜寻那些再熟悉不过、正在残杀猎鹰谷镇（Falcon's Hollow）居民的怪物。
+}}
+
+'''狗头人之王的复仇'''（''Revenge of the Kobold King''）是一部 16 页的全彩探索者模组，是 Paizo 在 2008 年 6 月 21 日免费 RPG 日（Free RPG Day）上的献礼。本书是 Paizo 有史以来第一部模组《Crown of the Kobold King》的续作，也是《饥饿的亡者》（''Hungry Are the Dead''）的引子。
+
+{{书页尾
+|pfw=Revenge of the Kobold King
+|releases=PDF¦¦2008-06¦；Softcover¦PZO9500-2¦2008-06¦
+}}
+
+[[分类:书目]]

@@ -1,0 +1,10 @@
+{{Feat
+|name=苔原疾行
+|english_name=Tundra Stride
+|description=无论是作为猎人还是猎物，你已经学会了在难以生存的时候像北风一样快速行动。
+|prerequisites=[[特技]]5级
+|benefit=每当你冲锋，奔跑或者撤退时，你可以在基础速度上获得10尺增强加值。这个加值也适用于你在任何平原地形进行大陆移动的速度上。你会在穿着重甲或者是重载的时候失去这个效果。
+|source=EMH
+|source_name=元素大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_1114.html
+}}

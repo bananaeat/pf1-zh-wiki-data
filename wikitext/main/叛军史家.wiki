@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Hell's Rebels Player's Guide pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=叛军史家
+|english_name=Historian of the Rebellion
+|type=战役
+|pfs=否
+|description=你一直对银渡鸦的传承很感兴趣——那是一群在切利亚斯内战期间于金塔格声名鹊起的自由斗士。如今关于这个组织的资料少得令人沮丧，你怀疑关于银渡鸦的记录大多早已被政府人员删改或销毁，但你还是设法零零碎碎地拾得了一些片段。你所知道的大多并非专门关于银渡鸦，而是关于历史上在切利亚斯内外反抗暴政的叛军组织和自由斗士的通史。
+
+你对叛军组织的熟悉，使你能在队伍于第一部冒险中重建银渡鸦后，为你选择的一项组织检定提供+2加值。你可以在叛乱的维持阶段开始时，更改一次此加值所分配的检定。你为加入银渡鸦所做的准备，也磨练了你隐藏行踪的本领。你在[[隐匿]]检定上获得+1背景加值，并且隐匿始终是你的本职技能。
+|source_name=Hell's Rebels Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Historian%20of%20the%20Rebellion
+}}

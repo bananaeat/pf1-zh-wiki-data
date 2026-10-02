@@ -1,0 +1,10 @@
+{{Trait
+|name=狂气发明家
+|english_name=Demented Inventor
+|type=种族
+|prerequisites=[[半兽人]]，[[兽人]]
+|description=你喜欢制作又新又有创意的武器，其中一些甚至真的能用。你在工艺[打造武器]检定获得+2背景加值，而且它成为你的[[本职技能]]。
+|source_name=格拉里昂的兽人
+|source=Orcs of Golarion
+|source_url=https://pf1chm.pages.dev/topics/zh1db9f32aa4.htm
+}}

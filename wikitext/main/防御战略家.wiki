@@ -1,0 +1,10 @@
+{{Trait
+|name=防御战略家
+|english_name=Defensive Strategist
+|type=宗教
+|prerequisites=信仰[[托拉格]]
+|description=你对[[矮人]]历史的研究使你擅长防御战术。你不会在无法行动的[[突袭]]轮或者战斗开始未轮到你行动之前陷入[[措手不及]]状态。【摘自空山的翻译】
+|source_name=内海诸神
+|source=摘自空山的翻译
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

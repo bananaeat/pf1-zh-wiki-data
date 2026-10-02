@@ -1,0 +1,14 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=符文井护符：嫉妒
+|english_name=Runewell Amulet (Envy)
+|aon=MagicArtifactsDisplay.aspx?ItemName=Runewell Amulet (Envy)
+|cat=神器
+|tier=次级神器
+|aura=强烈变化系
+|cl=20
+|slot=颈部
+|description=由于贝利玛留斯的符文井有缺陷，她的符文井护符不如某些其他符文领主所佩戴的那些强大。它使她的天生护甲获得+5增强加值。此外，她还能以60尺的速度飞行，机动性完美，并获得快速治疗10。
+|destruction=如果贝利玛留斯那口有缺陷的符文井被毁，这枚护符也会随之毁灭。
+|source=冒险之路137：时外之城
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=黑军战术
+|english_name=Blackjacket Weapon Flair
+|type=战斗
+|description=你在杜伦玛的黑衫军中受训如何利用魔法武器战斗。每当你使用魔法武器进行[[战技]]检定并骰出自然20时，你在该次检定上获得+5背景加值。
+佣兵集会 Mercenary League:为杜伦玛的[[卡利斯拉德先知]]所长期雇佣，佣兵集会现在作为该国的常备武装力量存在，享受杜伦玛的丰富财力所提供的最精良的武器装备。虽然严格意义上说他们并非[[卡利斯拉德预言]]的追随者，但这些“黑衫军”擅长使用现在为他们准备的魔法武器，防具和其他上级的军用物品。
+|source_name=战斗背景
+|source=WMH
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

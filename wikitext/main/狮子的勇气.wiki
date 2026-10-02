@@ -1,0 +1,10 @@
+{{Trait
+|name=狮子的勇气
+|english_name=Lion's Audacity
+|type=地区
+|prerequisites=塔尔多
+|description=你的进攻伴随雄狮般的凶猛，这种大胆的行为也激励着你的盟友。每日一次，当你进行冲锋攻击时，你可以激励30尺内的盟友。在你的下一轮开始前，他们在进行冲锋攻击与伤害的掷骰时额外获得+2的背景加值。
+|source_name=进化职业起源
+|source=进化职业起源 Advanced Class Origins
+|source_url=https://pf1chm.pages.dev/topics/zhc202b8be39.htm
+}}

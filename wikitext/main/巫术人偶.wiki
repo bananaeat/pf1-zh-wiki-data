@@ -1,0 +1,15 @@
+{{魔法物品
+|name=巫术人偶
+|english_name=Hexing Doll
+|aon=MagicWondrousDisplay.aspx?FinalName=Hexing Doll
+|cat=奇物
+|aura=微弱惑控系
+|cl=5
+|slot=无
+|price=2,500 gp
+|weight=1磅
+|description=这个看上去不怀好意的人偶用廉价的破布和刺绣线缝成，里面塞着稻草或锯末。持有或携带这个人偶的生物，在对抗女巫[[巫术]]的豁免检定上承受-4减值。此外，如果人偶里塞入了某个生物的头发，那么任何持有此人偶的女巫在对该生物使用巫术时，其巫术DC提高+2。以此法使用的人偶不会使女巫的豁免检定承受减值。
+|req=[[制造奇物]]、[[降咒]]
+|cost=1,250 gp
+|source=极限宝具
+}}

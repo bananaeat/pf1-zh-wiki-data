@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[殃云天降]] 的神话版本。</small></div>
+{{Feat
+|name=殃云天降
+|english_name=Death from Above
+|categories=神话
+|description=你从高处或空中进行的全力一击会造成致命的效果。
+|prerequisites=[[殃云天降]]
+|benefit=每当你从高处，或者在飞行时从上方冲锋一名敌人时，你的武器的重击倍率增加2点（最高为x6）。这不会与任何其他增加武器重击倍率的能力叠加。若你的冲锋攻击命中，你能够以[[自由动作]]对攻击目标进行摔绊[[战技]]而不会引起[[借机攻击]]。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

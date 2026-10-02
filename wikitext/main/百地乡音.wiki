@@ -1,0 +1,10 @@
+{{Trait
+|name=百地乡音
+|english_name=Tongue of Many Towns
+|type=种族
+|prerequisites=[[人类]]（迦伦德人）
+|benefit=你在迦伦德大陆游历多年，在旅程中结识了众多不同的人。你在下述三个技能之二中获得+1背景加值：交涉，知识(本地),[[语言学]]。
+|source_name=格拉里昂的人类
+|source=格拉里昂的人类 Human of Golarion
+|source_url=https://pf1chm.pages.dev/topics/page_1581.html
+}}

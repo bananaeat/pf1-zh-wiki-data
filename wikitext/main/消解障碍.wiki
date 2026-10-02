@@ -1,0 +1,11 @@
+{{Feat
+|name=消解障碍
+|english_name=Hindrance Dismissal
+|aon=Hinderance Dismissal
+|description=你掌握了消解那些成为你和你盟友麻烦的法术的艺术。
+|benefit=你可以消解你释放的所有坑类法术（如[[造坑术]]、[[刺坑]]、[[饥饿坑]]，以及其他名字中带有“坑”的法术）或者墙类法术（如[[火墙术]]、[[冰墙术]]，以及其他名字中带有“墙”的法术）。这些法术必须持续至少1轮。该能力遵循消解法术的正常规则，允许你用[[标准动作]]消解咒法系坑和墙。
+|normal=若无此专长，部分坑类与墙类法术无法被消解。
+|source=MTT、MagicTT
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_325.html
+}}

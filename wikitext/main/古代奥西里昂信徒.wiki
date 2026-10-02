@@ -1,0 +1,10 @@
+{{Trait
+|name=古代奥西里昂信徒
+|english_name=Adherent of Ancient Osirion
+|type=宗教
+|prerequisites=[[猫族]]，出身奥西里昂
+|description=尽管芭斯苔特几乎已被奥西里昂本地人遗忘，你却曾与供奉这位古奥西里昂猫首女神的教团同住，或是在其中长大。你将[[手甲钩]]视作军用武器而不是异种武器。在判断手甲钩与其他效果如何相互作用时，你也将它视作一副[[爪刃]]。
+|source=BotB
+|source_name=野兽血脉
+|source_url=https://pf1chm.pages.dev/topics/page_698.html
+}}

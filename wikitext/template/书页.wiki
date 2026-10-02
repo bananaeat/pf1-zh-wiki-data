@@ -1,0 +1,1 @@
+<includeonly>{{#invoke:书架|book}}</includeonly><noinclude>书页页头：封面块、书目信息、本站收录、同系列条（规则书另有站上的规则页）。参数：en（英文书名，按它认 Data:Shelf.tab）、authors、pages、date（可省，默认取书架表）。见 [[模块:书架]]。</noinclude>

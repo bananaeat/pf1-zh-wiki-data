@@ -1,0 +1,14 @@
+{{魔法物品
+|name=静修戒
+|english_name=Ring of Serene Contortions
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Serene Contortions
+|cat=戒指
+|aura=微弱防护系
+|cl=5
+|slot=戒指
+|price=1,200 gp
+|description=这枚朴素的铜[[魔法物品#戒指|戒指]]上刻有一只蓝色珐琅的手掌图案，那是[[义洛理]]的圣徽。它使穿戴者在脱逃检定上获得+2加值。穿戴者可以随意发出平和的钟鸣、小铜锣声或寺庙钟声。每天1次，穿戴者还可以使用[[克敌机先]]。
+|req=[[锻造戒指]]、[[幻音术]]、[[克敌机先]]、制造者的脱逃技能至少有5级
+|cost=600 gp
+|source=内海诸神
+}}

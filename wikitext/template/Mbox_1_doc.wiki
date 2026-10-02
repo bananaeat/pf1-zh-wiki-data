@@ -1,0 +1,17 @@
+本模板用来生成各种页面顶部的信息框
+*注意：本模板并不直接使用生效，而是通过下列模板调用
+===使用Mbox生成的模板===
+*[[template:需要帮助]]
+*[[template:需要翻译]]
+*[[template:需要扩展]]
+*[[template:需要校对]]
+*[[template:保护]]
+*[[template:消歧义页]]
+*[[template:正在施工]]
+===使用语法===
+{{Mbox| border=default|text = defult样式，表示中立情况}}
+{{Mbox| border=primary|type=protected|text = primary样式，采取当前站点的主色调}}
+{{Mbox| border=success|type=expand|text = success样式，用以表示进展、创造的语义}}
+{{Mbox| border=info|type=help|text = info样式，用以表现提示、帮助的语义}}
+{{Mbox| border=warning|type=move|text =warning样式，用以表现警告、提醒的语义}}
+{{Mbox| border=danger|type=delete|text =danger的样式，用以表现破坏、删除的语义}}

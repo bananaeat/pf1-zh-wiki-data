@@ -1,0 +1,12 @@
+{{Feat
+|name=狂傲技巧
+|english_name=Disheartening Display
+|categories=战斗
+|description=你骄狂地展示自己的武技，使本来就心虚的对手更加[[畏缩]]不前
+|prerequisites=[[炫目技巧]]，[[武器专攻]]，基础攻击加值+6，擅长所选武器
+|benefit=当你成功的使用[[炫目技巧]]专长挫败一个已经[[战栗]]，惊惧或恐慌的敌人的士气时，对方的恐惧效果会上升一档，而已经恐慌的对手将变得畏缩。一个受到本专长影响的生物在24小时内免疫本专长的再次影响（无论是你还是其他人施加）。
+|stamina=如果花费5点耐力，一个受到本专长影响的生物在24小时内可以再次被本专长影响。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=敏锐估价师
+|english_name=Keen Appraiser
+|type=魔法
+|description=你的频繁接触魔法物品、[[神器]]与其他附魔品的经历，使你成为鉴定物品是否蕴含魔法特性的专家。你在[[估价]]检定中获得+1背景加值。此外，你仅需使估价检定结果超过DC 2点即可判定物品是否具有魔法特性(但成功检定仍不会让你知晓该魔法物品的具体能力)。
+建议角色：杜鲁玛人，[[矮人]]，[[托拉格]]信徒
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

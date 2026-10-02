@@ -1,0 +1,10 @@
+{{Feat
+|name=异灵感
+|english_name=Eerie Sense
+|description=你擅长嗅出不死生物的存在
+|prerequisites=可以施放法术或类法术能力[[侦测死灵]]或侦测邪恶，信仰法莱斯玛
+|benefit=在每轮你的回合开始时，只要你的周围60尺内有不死生物或[[作祟]]活动，你就能感到脊背发凉，有脏东西在附近——但是这并不能帮助你定位对方的确切位置。任何可以阻挡[[侦测死灵]]的效果也能阻止本专长生效。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

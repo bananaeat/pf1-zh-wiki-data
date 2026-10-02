@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=暴雨怒掷
+|english_name=Furious Barrage
+|type=Ex
+|categories=进攻
+|prerequisites=[[野蛮人]]4级，[[手指舞]]
+|benefit=野蛮人视为拥有[[快速射击]]专长，但仅在他使用投掷武器攻击时才会生效，他不需要满足先决条件就能使用本专长。
+|source_name=恶棍志
+}}

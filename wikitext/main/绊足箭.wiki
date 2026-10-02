@@ -1,0 +1,15 @@
+{{装备
+|name=绊足箭
+|english_name=Arrow (trip)
+|cat=炼金武器
+|price=40 gp
+|weight=—
+|craft_dc=25
+|type=P
+|special=摔绊, 见正文
+|description=这支矮粗的箭有一个大而鼓胀的金属箭头，在飞行中会膨开、压扁。如果你用绊足箭命中一个生物，这支箭不造成伤害，而是对目标进行一次[[摔绊]]战技，战技加值为+5。在判定因体型而产生的战技加值或减值时，这支箭视为与它所适配的生物同一体型。
+|recipe=（20 寒铁＋15 镁＋20 没药）／培土；制作 DC 25
+|recipe_time=10 分钟
+|recipe_tools=—
+|source=格拉利昂的精灵、炼金术手册
+}}

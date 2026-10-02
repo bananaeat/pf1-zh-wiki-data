@@ -1,0 +1,48 @@
+{{速查导航}}
+{{怪物
+|name=可敬流放者
+|english_name=Honorable Outcast
+|cr=1
+|xp=400
+|classline=半兽人托拉格圣武士2
+|alignment=守序善良
+|size=中型
+|type=类人生物
+|subtypes=人类;兽人
+|init=-1
+|senses=黑暗视觉60尺，察觉+2
+|ac=16，接触9，措手不及16（+7护甲，-1敏捷）
+|hp=23（2D10+8）
+|fort=+7
+|ref=+0
+|will=+5
+|defensive=兽人凶猛
+|speed=20尺
+|melee=精制品巨斧 +5（1d12+3/x3）
+|ranged=短弓 +1（1d6/X3）
+|special_attacks=制裁邪恶 1次/每天（+1攻击与 AC ，+2伤害）
+|spell_like=（CL2；专注+3）；随意——[[侦测邪恶]]
+|tactics=<div class="ml wide"><span class="k">战斗中</span>圣武士更喜欢在以巨斧进入近战之前先用弓攻击。除非面对重甲敌人，她会使用猛力攻击。</div>
+|str=15
+|dex=8
+|con=16
+|int=10
+|wis=12
+|cha=13
+|bab=+2
+|cmb=+4
+|cmd=13
+|feats=[[猛力攻击]]
+|skills=[[医疗]]+5;[[威吓]]+3;察觉+2;[[察言观色]]+6
+|languages=通用语;兽人语
+|sq=灵光;行为准则;圣疗（1d6，每天2次）;兽人之血;武器熟悉
+|combat_gear=治疗轻伤药水;绊足包 X2
+|gear=板条甲;精制品巨斧;短弓+20支箭;木质圣徽;28gp
+|source=NPC志
+|family=核心职业（NPC志）
+|npc=1
+|lore=
+可敬流放者远离自己的家乡独自行动。有些因为在野地游历太久甚至丧失了优雅的礼节与处世的圆滑。
+}}
+
+本页译自《[[NPC志]]》的怪物图鉴 CHM。

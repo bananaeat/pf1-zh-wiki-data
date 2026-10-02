@@ -1,0 +1,7 @@
+{{物品
+|name=白痴
+|english_name=The Idiot
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。抽牌者的魅力智力和感知损失1d4点，分开投掷。
+}}

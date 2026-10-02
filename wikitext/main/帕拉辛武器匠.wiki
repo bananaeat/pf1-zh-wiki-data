@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Qadira, Jewel of the East pg. 29），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=帕拉辛武器匠
+|english_name=Paraheen Weaponsmith
+|type=地区
+|prerequisites=卡蒂亚
+|description=你出身于一个源远流长的矮人武器匠世家，或曾在这类工匠门下当学徒。无论是哪种，你都学到了他们代代相传的魔法武器与护甲制作秘诀。在制造魔法武器时，你的施法者等级视为高1级；并且你为制造魔法护甲、盾牌或武器而进行的[[工艺]]检定获得+1背景加值。
+|source_name=卡蒂亚，东方明珠
+|source=QJotE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Paraheen%20Weaponsmith
+}}

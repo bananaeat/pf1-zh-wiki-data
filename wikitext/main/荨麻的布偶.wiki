@@ -1,0 +1,13 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=荨麻的布偶
+|english_name=Nettle's Poppet
+|aon=MagicWondrousDisplay.aspx?FinalName=Nettle's Poppet
+|cat=奇物
+|aura=强烈邪恶
+|cl=—
+|slot=无
+|price=2,500 gp
+|description=这个用破布和柳条制成的[[作祟人偶]]外形酷似皮拉莉（Pilali）——它甚至还长着一对轻薄的蓝布翅膀。荨麻的布偶看上去像一个[[巫术人偶]]，但被携带超过24小时后，它的外观会调整为模仿其主人。
+|source=探索者战役设定：Heaven Unleashed
+}}

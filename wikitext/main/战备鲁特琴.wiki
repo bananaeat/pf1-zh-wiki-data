@@ -1,0 +1,15 @@
+{{魔法物品
+|name=战备鲁特琴
+|english_name=Lute of the Battle Ready
+|aon=MagicWondrousDisplay.aspx?FinalName=Lute of the Battle Ready
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=无
+|price=2,000 gp
+|weight=3磅
+|description=这种魔法物品通常被制成鲁特琴的样子，不过也可以制成其他乐器。每日3次，通过命令，琴可以变成一把+1矛、一把+1[[长剑]]或一把+1[[战斧]]。乐器变成的武器类型必须在制造时选定，且武器必须与乐器使用者的体型相适应。乐器会保持武器形态1分钟，或直到持用者用另一个命令字把它变回普通形态为止。
+|req=[[制造奇物]]、[[橡棍术]]
+|cost=1,000 gp
+|source=进阶职业指南
+}}

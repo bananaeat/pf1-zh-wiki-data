@@ -1,0 +1,11 @@
+{{Trait
+|name=魔法裔
+|english_name=Magical Lineage
+|type=魔法
+|description=你的双亲之一是为极具天赋的施法者，他/她不但擅长超魔强化，更能够自行创造若干新法术或[[奇物]]——而你恰好通过遗传从中获得了一些恩惠。在你选择此[[背景特性]]时，指定一个法术。当你对该法术应用至少提升1环的超魔专长时，在计算该法术最终调整后的环级时，其实际环级视为低1环。
+|source_name=魔法背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}
+
+{{FAQ|v5748eaic9qns}}

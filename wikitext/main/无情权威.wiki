@@ -1,0 +1,8 @@
+{{Trait
+|name=无情权威
+|english_name=Inexorable Authority
+|type=社会
+|description=在话语中带上了法律沉重份量的同时，你所下达的判决也使自己的仪态可怕异常。当你在被依法委托的前提下执行或者宣判某项法律判决时，你在威吓检定上获得+2背景加值。
+|source_name=平衡勇士
+|source_url=https://pf1chm.pages.dev/topics/zh50fb06c319.htm
+}}

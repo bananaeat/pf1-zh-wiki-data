@@ -1,0 +1,14 @@
+{{魔法物品
+|name=气派羽饰
+|english_name=Plume of Panache
+|aon=MagicWondrousDisplay.aspx?FinalName=Plume of Panache
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=头部
+|price=1,000 gp
+|description=这根羽饰尺寸硕大、时髦而奢华。要获得它的效果，使用者必须把它别在一顶价值至少10 gp的非魔法帽子上。每日1次，当穿戴者施展一项炫技时，这根羽饰会为她提供1点可用于该炫技的时髦值。一旦使用，羽饰就会显得枯萎而凌乱，直到它的魔法得到补充。
+|req=[[制造奇物]]、[[英雄气概]]
+|cost=500 gp
+|source=进阶职业指南
+}}

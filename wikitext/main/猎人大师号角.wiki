@@ -1,0 +1,15 @@
+{{魔法物品
+|name=猎人大师号角
+|english_name=Horn of the Huntmaster
+|aon=MagicWondrousDisplay.aspx?FinalName=Horn of the Huntmaster
+|cat=奇物
+|aura=中等惑控系
+|cl=11
+|slot=无
+|price=5,000 gp
+|weight=5磅
+|description=这支拉长的公牛角末端急剧弯曲，看起来几乎更像一只巨大的烟斗，而不是狩猎的工具。每天1次，拥有猎手羁绊（同伴）职业能力的人可以以[[标准动作]]吹响号角；这会使30尺内所有能看到并听到他的盟友，针对单一目标获得他完整的宿敌加值（而非一半）。该效果持续1分钟。
+|req=[[制造奇物]]、[[高等英雄气概]]
+|cost=2,500 gp
+|source=进阶玩家指南、极限宝具
+}}

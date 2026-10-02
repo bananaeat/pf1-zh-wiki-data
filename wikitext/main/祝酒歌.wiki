@@ -1,0 +1,10 @@
+{{Feat
+|name=祝酒歌
+|english_name=Drunken Sing-Along
+|description=通过大杯的啤酒和悦耳的歌谣，大群的人会聚拢到你身边。
+|prerequisites=[[交涉]]1级，[[表演]]（演唱）1级
+|benefit=在酒馆或者其他喝酒的地方，通过10分钟迷人的齐唱，你可以让顾客们的态度从不友善提升到冷漠或者从冷漠到友善。在接下来的24小时内，当你试图从冷漠顾客中打探情报时，你可以仅花费2d6分钟；从友善的顾客中打探情报则仅花费1d4分钟。你仅能在你能讲大部分顾客讲的语言时才能使用这个专长。
+|special=如果你为在场的一大群人买了至少价值5gp的酒，你可以在酒馆之外对他们使用这个专长。
+|source_name=内海酒馆
+|source_url=https://pf1chm.pages.dev/topics/zh5b451adebe.htm
+}}

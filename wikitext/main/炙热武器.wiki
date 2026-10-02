@@ -1,0 +1,15 @@
+{{Feat
+|name=炙热武器
+|english_name=Scorching Weapons
+|categories=战斗
+|description=元素火焰在你的体内躁动着，使你的血液沸腾，并让你能够抵抗火焰。
+|prerequisites=火元素裔。
+|benefit=你在对抗火焰攻击以及带有〔火〕或者〔光亮〕描述符的法术时豁免检定+2。以一个[[迅捷动作]]，你可以让最多两件手持的人造金属武器烧得火红，成功用这样的武器命中会造成1点额外火焰伤害，这个效果持续1轮。该效果不与其他给武器增加火焰伤害的同类效果叠加，比如〈炽焰〉武器附魔。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[炽烈光环]]、[[炽焰核心]]（2 个条目）

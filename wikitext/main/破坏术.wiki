@@ -1,0 +1,20 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[破坏术 (神话)]]。</small></div>
+{{Spell
+|name=破坏术
+|english_name=Break
+|school=变化系
+|levels=奥能师 1;异能者 1;术士 1;法师 1;秘学士 1;红螳螂杀手 1;血脉狂怒者 1
+|action=标准动作
+|components=语言;姿势;材料（一根树枝）
+|range=近距
+|target=一个中型或更小的物体
+|duration=立即
+|save=强韧，通过则无效（物体）
+|sr=是（物体）
+|description=你可以尝试破坏或至少损伤一件范围内的中型或更小的物体。
+
+如果目标强韧检定失败，它会进入[[破损]]状态。
+
+如果该法术被施放在一件破损物体上，检定失败后物体会被彻底销毁。
+|source=进阶玩家指南
+}}

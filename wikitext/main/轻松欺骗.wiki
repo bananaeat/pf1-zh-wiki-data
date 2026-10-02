@@ -1,0 +1,10 @@
+{{Feat
+|name=轻松欺骗
+|english_name=Effortless Trickery
+|description=你对幻术的天赋能让你毫不费力的维持一道幻象法术。
+|prerequisites=[[侏儒]]
+|benefit=你可以用[[迅捷动作]]维持一道幻术系法术的专注，这对其他学派或持续时间不包含专注的法术没有影响。你仍然可以通过[[移动动作]]或[[标准动作]]正常维持其他法术
+|normal=专注以维持法术是一个标准动作并且不会引发[[借机攻击]]。
+|source_name=格拉利昂的侏儒
+|source_url=https://pf1chm.pages.dev/topics/zh33d1c60e62.htm
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=纯种名驹
+|english_name=Thoroughbred
+|type=种族
+|prerequisites=[[人类]]（柯莱士人）
+|description=你体内流淌著古老骑马部族的血统。培育、骑乘、挑拣、训练马匹是你的家族传统，而你知道怎么从一整群马匹之中挑选优良坐骑。若你因为[[动物伙伴]]或坐骑等职业特性获得了一匹马，牠的基础速度+5尺，且获得1个不计入技巧上限的奖励技巧。
+|source_name=沙之子民
+|source_url=https://pf1chm.pages.dev/topics/zh730f330f66.htm
+}}

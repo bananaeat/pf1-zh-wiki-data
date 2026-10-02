@@ -1,0 +1,9 @@
+{{Trait
+|name=柔体锁敌
+|english_name=Serpentine Squeeze
+|type=宗教
+|prerequisites=信仰耶德希斯
+|description=你在[[擒抱]]敌人的[[战技]]上获得+1背景加值，同时敌方试图擒抱你时你的CMD获得+1背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

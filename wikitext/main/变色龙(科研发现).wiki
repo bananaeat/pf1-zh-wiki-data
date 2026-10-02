@@ -1,0 +1,11 @@
+<noinclude>{{炼金术师导航}}
+{{消歧义|变色龙}}
+'''变色龙'''（Chameleon, Su）是[[炼金术师]]的[[科研发现]]。
+
+</noinclude>{{Source|进阶种族手册|Advanced Race Guide|inline}}
+
+'''效果'''：拥有该科研发现的炼金术师能够改变自身皮肤与装备的颜色，使其与周围的环境融为一体。他的[[隐匿]]检定获得+4增强加值。10级起，隐匿检定的增强加值提升至+8。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_312.html 原文]），按 AoN 核对过。全部科研发现见 [[:分类:科研发现|分类:科研发现]]。
+
+[[分类:科研发现]]</noinclude>

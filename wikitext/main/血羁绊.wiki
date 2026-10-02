@@ -1,0 +1,9 @@
+{{Trait
+|name=血羁绊
+|english_name=Kin Bond
+|type=魔法
+|description=你与一位血脉相连的同辈有着近乎奇迹般的联结。选择一位兄弟姐妹。每日1次，若你豁免失败时他/她在你30尺范围内，你可以用他/她的豁免加值重骰豁免。若你们是孪生或多胞胎，你的重骰可获+2背景加值。你的亲人必须自愿协助你进行重骰。若豁免仍然失败，你们两人将[[晕眩]]1轮。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

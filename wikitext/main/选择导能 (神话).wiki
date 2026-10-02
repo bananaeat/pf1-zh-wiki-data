@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[选择导能]] 的神话版本。</small></div>
+{{Feat
+|name=选择导能
+|english_name=Selective Channeling
+|categories=神话
+|description=当你把其他生物排除在导能的效果之外时，溢出的能量不会白白流失。
+|prerequisites=[[选择导能]]
+|benefit=当你[[引导能量]]时，你所治疗或造成的伤害增加，增加数值等同于你所排除在引导能量之外的目标数量的两倍。你能够花费1次神话之力增加不受到引导能量影响的目标数量，增加数量等同于你的阶层的一半。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

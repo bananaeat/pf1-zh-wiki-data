@@ -1,0 +1,14 @@
+{{魔法物品
+|name=避咒护符
+|english_name=Periapt of Protection from Curses
+|aon=MagicWondrousDisplay.aspx?FinalName=Periapt of Protection from Curses
+|cat=奇物
+|aura=微弱防护系
+|cl=5
+|slot=颈部
+|price=12,000 gp
+|description=这块紫水晶穿在一条粗铁链上，保护佩戴者免受诅咒。每日三次，当佩戴者针对某个诅咒（例如女巫的[[巫术]]或[[降咒]]法术）进行豁免检定时，可以用一个[[直觉动作]]重骰该豁免。佩戴者必须在豁免结果公布之前决定是否使用这项能力，并且必须接受第二次骰掷的结果，即使它更糟。
+|req=[[制造奇物]]、[[移除诅咒]]
+|cost=6,000 gp
+|source=极限宝具
+}}

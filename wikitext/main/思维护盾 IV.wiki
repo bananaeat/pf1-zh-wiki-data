@@ -1,0 +1,14 @@
+{{Spell
+|name=思维护盾 IV
+|english_name=Thought Shield IV
+|school=防护系
+|levels=异能者 5
+|action=直觉动作
+|components=语言
+|range=个人
+|target=你
+|duration=1轮
+|sr=否
+|description=该法术的功能如同[[思维护盾 III]]一般，不过在法术持续期间，任何尝试阅读你的思维的生物都必须进行一次意志豁免，失败则会被[[震慑]]1d4轮。此外，当你成功通过豁免对抗心灵碾压时，你不会受到任何伤害。该法术可以被降阶施法。
+|source=异能冒险
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=压制火力
+|english_name=Suppressive Fire
+|categories=战斗;团队
+|description=当你的盟友在战场上前进时，你适时的远程攻击会保护他们。
+|prerequisites=[[远距射击]]，[[近距射击]]，[[精准射击]]，[[敏锐感官]]种族特性。
+|benefit=每当你使用一次远程攻击伤害一名目标时，那么该目标在1轮内，面对你的那些同样拥有该专长的盟友们，在移开该目标所威胁的方格之一的情况时，无法对其使用[[借机攻击]]。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

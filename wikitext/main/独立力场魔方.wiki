@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=独立力场魔方
+|english_name=Independent Cube of Force
+|aon=MagicWondrousDisplay.aspx?FinalName=Independent Cube of Force
+|cat=奇物
+|aura=中等塑能系
+|cl=10
+|slot=无
+|price=70,000 gp
+|weight=1/2磅
+|description=独立力场魔方的功能与[[力场魔方]]完全相同，只是在被丢下或放下之后仍保持启动状态。任何人都可以拿起它将其关闭，或更改当前启动的墙壁类型；否则它会在充能耗尽时自行关闭。
+|req=[[制造奇物]]、[[力墙术]]
+|cost=35,000 gp
+|source=再探经典宝藏
+}}

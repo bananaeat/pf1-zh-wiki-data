@@ -1,0 +1,34 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Construct Handbook
+|authors=Brian Duckwitz、Vanessa Hoskins、Nathan King、Kris Leonard、Luis Loza、Adrian Ng、Tom Phillips、Alex Riggs、Nicholas Wasko
+|pages=64
+}}
+
+{{书页/简介|head=我们有这门技术！|1=
+凡人一直痴迷于用金属与魔法复制生命，他们的辛勤劳作催生了各式各样的构装体。制造这些奇迹的秘密通常只留给强大而熟练者，但现在它们终于被揭示出来了！《开拓者战役设定：构装体手册》翻开了创造构装体这门强大知识的书页，并揭示前所未见的发条装置、魔像和机器人。在这些页面中，你会找到：
+
+* 如何建造构装体的信息，以及构装体的新改造。
+* 为组装或对抗构装体的角色准备的变体职业，例如用位面能量建造构装体的构装体召唤者（construct caller）。
+* 协助制造和摧毁构装体的新魔法物品。
+* 十几种各类新构装体，包括[[发条地精]]、[[角斗机]]、[[沙魔像]]，以及强大而神秘的[[灵导械]]。
+}}
+
+'''构装体手册'''（''Construct Handbook''，全名 ''Pathfinder Campaign Setting: Construct Handbook''）是开拓者战役设定系列的一本资料书，由 Brian Duckwitz、Vanessa Hoskins 等 9 位作者撰写，于 2018 年 11 月 14 日发行。
+
+== 目录 ==
+{{书页/目录|1=
+导言 @ 2
+构装体制作 @ 4
+[[变体职业]] @ 10
+[[魔法物品]] @ 16
+构装体 @ 20
+}}
+
+{{书页尾
+|pfw=Construct Handbook
+|releases=Softcover¦PZO92104¦2018-11¦978-1-60125-989-9；PDF¦PZO92104E¦¦
+}}
+
+[[分类:书目]]

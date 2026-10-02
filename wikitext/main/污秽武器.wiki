@@ -1,0 +1,10 @@
+{{Feat
+|name=污秽武器
+|english_name=Filthy Weapons
+|categories=战斗
+|description=你的武器可以传播疾病，因为你将武器的杀伤部位沾满了污泥与下水道的污物。
+|prerequisites=[[知识]]（地城）1级，[[知识]]（自然）1级。
+|benefit=你可以用一个[[标准动作]]将武器覆盖上腐烂物体、黏滑秽物或其他有毒的东西。你用该武器进行的下一次成功攻击会使目标感染腐热症。若该次攻击为重击，则腐热症的发作时间变为1轮，豁免DC为10 + 你一半的基础攻击加值 + 你的智力调整值。
+|source_name=街巷英雄
+|source_url=https://pf1chm.pages.dev/topics/zh9058779a2c.htm
+}}

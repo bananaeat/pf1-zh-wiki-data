@@ -1,0 +1,10 @@
+{{Feat
+|name=惊奇大师
+|english_name=Master of Wonders
+|pfs=否
+|description=体会过够多的世间惊奇后，你明白了如何从[[惊奇权杖]]中调动出更多的混乱。
+|prerequisites=[[钢铁意志]]，寻奇会（Wonderseeker）派系，侏儒种族
+|benefit=当你激活惊奇权杖并为决定结果投掷d100时，每轮一次，你可以重骰并使用第二次的结果。
+|source_name=格拉利昂的侏儒
+|source_url=https://pf1chm.pages.dev/topics/zh33d1c60e62.htm
+}}

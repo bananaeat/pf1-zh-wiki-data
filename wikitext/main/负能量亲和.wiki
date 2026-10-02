@@ -1,0 +1,16 @@
+<noinclude>{{速查导航|here=规则}}
+'''负能量亲和'''（Negative Energy Affinity）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：防御能力</span></div>
+</noinclude><includeonly><div class="lang"><span id="负能量亲和"></span><div class="lang-h"><b>[[负能量亲和]]</b><i>Negative Energy Affinity</i><span class="lang-w">Ex · 防御能力</span></div><div class="lang-d"></includeonly>
+该生物是活着的，但是它对正能量和负能量的反应如同[[不死生物]]一般——正能量会伤害它，负能量会治愈它。
+
+'''格式'''：负能量亲和
+<includeonly></div></div></includeonly>
+
+{{FAQ|v5748eaic9oyk}}
+
+<noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Negative Energy Affinity|2=Negative Energy Affinity}}
+
+[[分类:通用怪物规则]]</noinclude>

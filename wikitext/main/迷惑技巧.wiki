@@ -1,0 +1,10 @@
+{{Feat
+|name=迷惑技巧
+|english_name=Disorienting Maneuver
+|description=你用[[飘忽不定]]的动作迷惑你的敌人。
+|prerequisites=[[闪避]]，特技5级。
+|benefit=当你成功使用一次特技检定穿越了一个敌人所在的方格，你对其进行的攻击检定将获得+2环境加值，持续到你的下次行动开始为止。如果你选择对该敌人进行一次[[摔绊]]，你的该次[[战技]]检定获得+4环境加值。摔绊的加值同样也持续到你下次行动开始为止。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

@@ -1,0 +1,13 @@
+{{Feat
+|name=天将奔烈
+|english_name=Pummeling Charge
+|categories=战斗
+|description=挟裹着呼啸之势，你聚起至强至刚的斗气冲击敌人
+|prerequisites=[[精通徒手打击]]，[[刚烈掌]]，基础攻击加值+12或拳师等级8或武僧等级8
+|benefit=在使用[[刚烈掌]][[流派]]攻击时，你可以在冲锋后进行全力攻击或疾风[[武僧#疾风连击|连击]]，作为冲锋动作的一部分。只有当你的所有攻击都符合对同一目标使用刚烈掌的条件时，才能这样使用天将奔烈。
+|normal=你无法在冲锋时进行全回合攻击。
+|notes=译注：和龙拳一样，这个流派进阶只有一阶。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

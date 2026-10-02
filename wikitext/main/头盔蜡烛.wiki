@@ -1,0 +1,9 @@
+{{装备
+|name=头盔蜡烛
+|english_name=Helmet candle
+|cat=冒险装备
+|price=2 gp
+|weight=4磅
+|description=这个装置是个顶端有一根短而细的钉子的头盔，你可以将蜡烛插在上面，解放你的双手去完成其他任务。
+|source=冒险者的军械库、极限宝具
+}}

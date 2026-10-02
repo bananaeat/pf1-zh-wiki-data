@@ -1,0 +1,11 @@
+{{Feat
+|name=触手锁
+|english_name=Kraken Throttle
+|categories=战斗;流派
+|description=你的[[擒抱]]会锁死目标的咽喉。
+|prerequisites=感知13，[[精通擒抱]]，[[精通徒手打击]]，[[触手流]]，BAB+5或武僧等级5
+|benefit=你在擒抱[[战技]]检定成功时[[触手流]]专长所提供的额外伤害增加为你的感知调整值+2。当你处于该[[流派]]下时，你在成功维持擒抱后，可以选择锁住目标的咽喉，而非造成伤害、移动、压制或捆绑目标。这种[[锁喉]]会使目标[[环境规则#窒息|窒息]]（使用核心窒息规则）。被擒抱目标可以在你没有成功维持擒抱时进行呼吸。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}

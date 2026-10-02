@@ -1,0 +1,15 @@
+{{魔法物品
+|name=次等神射护腕
+|english_name=Bracers of Archery (Lesser)
+|aon=MagicWondrousDisplay.aspx?FinalName=Bracers of Archery (Lesser)
+|cat=奇物
+|aura=微弱变化系
+|cl=4
+|slot=腕部
+|price=5,000 gp
+|weight=1磅
+|description=这对腕带看上去与高等神射护腕相似，只是通常用更轻的材料制成。它们的功能与高等神射护腕相同，只是给予攻击检定+1表现加值，对伤害检定则没有加值。
+|req=[[制造魔法武器和防具]]、[[制造奇物]]、制造者必须擅长长弓或短弓
+|cost=2,500 gp
+|source=核心规则书、极限宝具
+}}

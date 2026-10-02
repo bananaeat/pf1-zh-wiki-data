@@ -1,0 +1,9 @@
+{{物品
+|name=秘银爪钩
+|english_name=Grappling hook (mithral)
+|category=冒险装备
+|price=2,001 金币
+|weight=2 磅
+|description=投掷爪钩需要进行一个远程攻击检定，爪钩视为射程增量为10尺的投掷武器。有足够位置以让爪钩固定住的物体的AC为5。
+|source_name=极限宝具
+}}

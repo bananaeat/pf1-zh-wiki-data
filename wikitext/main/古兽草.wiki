@@ -1,0 +1,17 @@
+{{魔法物品
+|name=古兽草
+|english_name=Herbs of the Primal Beast
+|aon=MagicWondrousDisplay.aspx?FinalName=Herbs of the Primal Beast
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=无
+|price=1,400 gp
+|weight=1/2磅
+|description=当类人生物吃下这种苦涩的药草时，无论食用者自认为多么开化文明，其体内的野兽都会被唤醒。药草使食用者在1小时内获得昏暗视觉和灵敏嗅觉能力。如果食用者具有狂暴职业能力，那么他可以在进入狂暴时花费1次神话之力，变成动物的形态（如同野兽形态 II），同时获得狂暴的通常好处。狂暴结束时，药草剩余的持续时间全部消失。
+
+不具有类人生物类型的生物，包括人形怪物，不会从药草中获得任何好处，反而会反胃1轮，之后恶心1d4轮。成功通过DC 13的强韧豁免，则只会恶心1轮，并免于反胃。
+|req=[[制造奇物]]、[[神话工匠]]、[[野兽形态 II]]
+|cost=700 gp
+|source=神话冒险
+}}

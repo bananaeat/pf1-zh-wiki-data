@@ -1,0 +1,9 @@
+{{装备
+|name=餐具
+|english_name=Mess kit
+|cat=套装
+|price=2 sp
+|weight=1磅
+|description=一套餐具包括了由木材、牛角或锡制作的盘子，碗，杯，叉，刀和勺子。每件物品都有一个手柄或小洞，可以使用已包含在餐具内的皮绳绑在一起。
+|source=极限宝具
+}}

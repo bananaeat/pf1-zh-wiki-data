@@ -1,0 +1,20 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[寓守于攻 (神话)]]。</small></div>
+{{消歧义|寓守于攻(侠客天赋)}}
+{{Feat
+|name=寓守于攻
+|english_name=Combat Expertise
+|categories=战斗
+|description=以精准度的代价获得防御的提升。
+|prerequisites=智力13。
+|benefit=你可以选择用近战攻击和[[战技]]检定的-1减值来换取AC的+1闪避加值。每当BAB+4，攻击减值会再-1，AC加值也会再+1。你只能在以近战武器进行攻击或[[全力攻击]]时，才能选择使用这个专长；专长效果持续到你下轮开始。
+|stamina=即使你不符合前提条件（13智力）你依然可以选择该专长，但只有在耐力池保有至少1点耐力时才生效。如果你花费耐力点通过战斗耐力专长提升命中，在使用[[寓守于攻]]时忽视等同所消耗耐力的命中惩罚。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''制造需求'''：[[钩链屠杀]]（1 件物品）
+
+'''先决条件'''：被 87 个条目点名，名单见 [[特殊:链入页面/{{PAGENAME}}|链入页面]]。

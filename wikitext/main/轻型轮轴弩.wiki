@@ -1,0 +1,16 @@
+{{武器
+|name=轻型轮轴弩
+|english_name=Light crank crossbow
+|category=武器
+|prof=异种
+|wcat=远程
+|price=250 gp
+|weight=6磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=19–20/×2
+|range=80尺
+|type=穿刺
+|description=该武器的功能与重型轮轴弩相同，只是其伤害、重击和射程与轻弩相当。由于结构更轻，它在攀爬检定和用于将目标拉向你的擒抱战技检定上只提供+1加值。
+|source=远程战术工具箱
+}}

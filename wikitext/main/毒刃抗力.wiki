@@ -1,0 +1,10 @@
+{{Trait
+|name=毒刃抗力
+|english_name=Poisoned Blade Resistance
+|type=地区
+|prerequisites=出身河域诸国
+|description=在河域诸国的匕痕，很有可能每一把刀刃上都涂有某种毒药，这里的人们习惯了用毒的同时也被下毒。你在对抗伤口型毒药的强韧豁免上获得+2背景加值。此外，你还会免疫一种特定的非魔法伤口型毒药。你必须在选择这个背景特性时就选择这种毒药，并且无法更改。
+|source_name=药剂与毒药
+|source=P&P
+|source_url=https://pf1chm.pages.dev/topics/page_1257.html
+}}

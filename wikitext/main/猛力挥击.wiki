@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=猛力挥击
+|english_name=Mighty Swing
+|type=Ex
+|categories=进攻
+|prerequisites=[[野蛮人]]12级
+|benefit=野蛮人可以自动通过重击确认。使用此[[狂暴之力]]是一个[[直觉动作]]，且必须在攻击检定进入重击范围时才能启用。野蛮人必须至少12级才能选取此狂暴之力。
+|special=他每次狂暴只能使用1次此能力。
+|source_name=核心规则书
+}}

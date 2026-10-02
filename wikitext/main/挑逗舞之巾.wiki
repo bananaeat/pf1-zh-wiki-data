@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=挑逗舞之巾
+|english_name=Scarf of the Suggestive Dance
+|aon=MagicWondrousDisplay.aspx?FinalName=Scarf of the Suggestive Dance
+|cat=奇物
+|aura=微弱惑控系
+|cl=1
+|slot=腰部
+|price=3,000 gp
+|weight=1/2磅
+|description=这条丝绸围巾绣满火焰般的色彩，缀着细小珠子串成的流苏。围在臀部时，它使佩戴者的表演（舞蹈）检定获得+5表现加值。围巾还使佩戴者的迷魂与暗示吟游表演的豁免DC +1。
+|req=[[制造奇物]]、[[催眠术]]
+|cost=950 gp
+|source=谋杀者的烙印
+}}

@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=元素之怒
+|english_name=Elemental Rage
+|type=Su
+|categories=进攻
+|prerequisites=[[野蛮人]]8级，[[次等元素之怒]]
+|benefit=狂暴时野蛮人近战攻击额外造成1d6点能量伤害(酸蚀、寒冷、电击或火焰)，能量类型在野蛮人进入狂暴时决定。请注意，野蛮人仍然可以使用他的[[次等元素之怒]]，但他必须选择不同的能量类型。
+|source_name=进阶玩家指南
+}}

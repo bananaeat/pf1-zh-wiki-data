@@ -1,0 +1,9 @@
+{{Trait
+|name=恐龙低语者
+|english_name=Dinosaur Whisperer
+|type=地区
+|prerequisites=莫迪欧凯提岛
+|benefit=在莫迪欧凯提的丛林里待了一个月后，你对与恐龙打交道有了独特的技巧。你在关于恐龙的知识(自然)和生存检定上获得+1背景加值。同时，你在用野性认同影响恐龙的检定上也获得+1背景加值。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

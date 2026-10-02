@@ -1,0 +1,11 @@
+{{Trait
+|name=崖上飞
+|english_name=Cliff Jumper
+|type=地区
+|prerequisites=狂怒悬崖（Cliffs of Fury）
+|description=你早年曾在海岸边的悬崖上求得生存。
+|benefit=你在特技和攀爬检定上获得+1背景加值，并且在为避免坠落而进行的反射豁免上获得+1背景加值。
+|source_name=地区背景
+|source=CEoD
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

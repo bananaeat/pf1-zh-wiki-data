@@ -1,0 +1,46 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #57: Tempest Rising
+|authors=Matthew Goodall
+|pages=96
+}}
+
+{{书页/简介|head=与风暴竞速|1=
+英雄们是时候坐上真正的海盗领主之位了。但要做到这一点，光有一艘船、一帮无赖船员和满舱赃物还不够——他们得赢得飓风王（Hurricane King）本人的敬重。如果成功，他们就能参加自由船长竞舟赛（Free Captains' Regatta），赢取更大的荣耀：这是一场沿着强大飓风「阿班德果之眼」（Eye of Abendego）边缘展开的艰苦竞速。胜者将获得一大笔奖金、一座属于自己的私人岛屿，以及镣铐群岛海盗议会的一个席位。冒险者能否战胜凶悍的对手、昔日的宿敌，以及风眼里险恶的风与洋流？还是说，他们的船会被风暴吞没——此前已有无数人落得这样的下场？
+
+本册《冒险之路》内容包括：
+
+* Matthew Goodall 的《风暴渐起》（"Tempest Rising"），一部适用于 7 级角色的开拓者角色扮演游戏冒险。
+* Tork Shaw 撰写的镣铐群岛恶名昭著的海盗领主详情，以及海上风暴的新规则。
+* Liz Courts 撰写的臭名昭著的海盗之城佩里尔港（Port Peril）地志。
+* Robin D. Laws 在「探索者日志」中带来的幽灵与独眼巨人。
+* Jesse Benner、Ryan Costello、Philip Minchin 和 Tork Shaw 设计的五种新怪物。
+}}
+
+'''冒险之路57：风暴渐起'''（''Pathfinder #57: Tempest Rising''）是海盗主题的[[冒险之路]]「颅骨与镣铐」系列六章中的第三章，由 Matthew Goodall 撰写，配套材料出自 Jesse Benner、Ryan Costello、Liz Courts、Philip Minchin 和 Tork Shaw，小说出自 Robin D. Laws，于 2012 年 6 月 20 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+风暴渐起 @ 6
+NPC 图集 @ 52
+颅骨与镣铐宝藏 @ 58
+- 顺风海图（charts of the fair winds）
+- 贾尔哈扎之轮（Jalhazar's wheel）
+- 铁骷髅之戒（ring of the iron skull）
+- 镣铐群岛旗（Shackles ensign）
+- [[神射手之刃]]
+佩里尔港 @ 60
+镣铐群岛的祸害 @ 66
+探索者日志：远塔莱的宝藏（3／6） @ 74
+怪物图鉴 @ 80
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Tempest Rising
+|releases=PDF¦PZO9057E¦2012-06¦；Softcover¦PZO9057¦2012-06¦
+}}
+
+[[分类:书目]]

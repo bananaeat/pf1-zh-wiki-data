@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''气流缓冲'''（Air Cushion, Sp）是[[操念使]]的[[原力]]。
+
+元素：气；类别：通用（Sp）；等级：1；超载：0
+
+无论从多高的地方落下，你都能够免受伤害。你被视为受到持续性的[[羽落术]]效果影响，而且在判断你自己会如何受到风力影响时，总是视为你的体型比正常大1级。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Air Cushion|2=Air Cushion}}
+
+[[分类:原力]]

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=呼唤风巨灵戒指
+|english_name=Ring of Djinni Calling
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Djinni Calling
+|cat=戒指
+|aura=强烈咒法系
+|cl=17
+|slot=戒指
+|price=125,000 gp
+|description=这枚“巨灵”戒指是一道特殊的[[异界之门]]，借助它可以从气元素位面呼唤一只特定的风巨灵（见《怪物图鉴》）。摩擦戒指（[[标准动作]]）时，呼唤就会发出，风巨灵在下一轮出现。风巨灵忠实地服从并侍奉戒指的穿戴者，但每天最多1小时。如果戒指的风巨灵被杀死，戒指就会失去魔力，变得一文不值。
+|req=[[锻造戒指]]、[[异界之门]]
+|cost=62,500 gp
+|source=核心规则书、极限宝具
+}}

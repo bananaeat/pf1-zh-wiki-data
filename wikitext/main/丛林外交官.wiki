@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 19），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=丛林外交官
+|english_name=Jungle Diplomat
+|type=地区
+|prerequisites=瓦拉苏迈蛮林
+|description=你了解瓦拉苏迈蛮林各部落的习俗与规矩，懂得如何与不同的人群进行微妙的沟通。你的[[交涉]]和[[察言观色]]检定获得+1背景加值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Jungle%20Diplomat
+}}

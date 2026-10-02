@@ -1,0 +1,11 @@
+{{Feat
+|name=专业制图师
+|english_name=Expert Cartographer
+|pfs=否
+|description=你擅长绘制高质量的地图，使你的制图作品兼具实用性和高售价。
+|prerequisites=[[工艺]]（制图）3级。
+|benefit=你在制作地图的工艺（制图）检定上获得+4加值，同时还会获得1点额外探索点数（有关探索点数的详细信息，请见本书的第124页）。若你在检定上成功5点或更多，地图的建议售价增加20%。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

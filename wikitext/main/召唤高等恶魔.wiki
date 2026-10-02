@@ -1,0 +1,16 @@
+{{Spell
+|name=召唤高等恶魔
+|english_name=Summon greater demon
+|school=咒法系 (召唤)
+|tags=混乱;邪恶
+|levels=先知 9;奥能师 9;女巫 9;术士 9;法师 9;牧师 9
+|action=1轮
+|components=语言;姿势;法器/圣徽（一个小袋子和一小根蜡烛）
+|range=近距
+|effect=一只召唤的生物
+|duration=1轮/等级（可解消）
+|save=无
+|sr=否
+|description=该法术如同[[召唤怪物]]一样作用，除了它允许你召唤单独一只蝇魔（《[[怪物图鉴3]]》72页），一只泥魔（《[[怪物图鉴2]]》79页），或1d3只缚魂魔（《怪物图鉴2》78页）。
+|source=正义之怒
+}}

@@ -1,0 +1,9 @@
+{{Feat
+|name=无光海域探索者
+|english_name=Aphotic Explorer
+|description=你经受黑暗深海的洗礼，获得抵御极寒的能力。
+|prerequisites=[[坚忍]]，[[半鱼人]]
+|benefit=当你处于黑暗或昏暗中时，你可以以一个[[迅捷动作]]，获得持续1轮的寒冷抗力5。如果你的HD达到11或更高，则寒冷抗力提高至10。
+|source_name=海洋之血
+|source_url=https://pf1chm.pages.dev/topics/zh7e409f67e0.htm
+}}

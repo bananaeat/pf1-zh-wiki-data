@@ -1,0 +1,10 @@
+{{Trait
+|name=伽蓝之心
+|english_name=Empty Heart, Full Heart
+|type=宗教
+|prerequisites=信仰奈德丽
+|description=因为你的禁忌之爱使你的内心满是伤痛，你在对抗魅惑影响时豁免获得+1背景加值，你魅惑法术的目标的豁免检定承受-1罚值。
+|notes=译注：「伽蓝之心」取自空境，意为内心空洞、无论什么都无法填补，并非佛家的解释。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

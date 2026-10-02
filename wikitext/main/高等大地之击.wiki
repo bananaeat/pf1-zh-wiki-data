@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=高等大地之击
+|english_name=Ground Breaker, Greater
+|type=Ex
+|categories=进攻
+|prerequisites=[[野蛮人]]8级，[[大地之击]]
+|benefit=当野蛮人使用【[[大地之击]]】[[狂暴之力]]时，此狂暴之力可以让范围增加5尺。
+|special=野蛮人可以重复选择此狂暴之力3次，效果叠加。
+|unchained=神牛撼地
+|source_name=极限战斗
+}}

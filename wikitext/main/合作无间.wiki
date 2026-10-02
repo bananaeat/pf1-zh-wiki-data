@@ -1,0 +1,11 @@
+{{Feat
+|name=合作无间
+|english_name=Legendary Teamwork
+|categories=神话
+|description=你与盟友能够以很强的协调性进行战斗。
+|prerequisites=任意两个团队专长
+|benefit=你从[[团队专长]]所获得的任何固定数值（fixed numeric）的加值均会增加1点。该效果无法应用到可变数值（variable numeric）的加值或者不具有数值加值（numeric bonuses）的效果上，比如额外的[[借机攻击]]、移动、或者其他额外动作。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

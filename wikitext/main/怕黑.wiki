@@ -1,0 +1,10 @@
+{{Trait
+|name=怕黑
+|english_name=Shadow-Scarred
+|type=缺陷
+|pfs=否
+|description=你曾被栖身于人类领域之外黑暗中的可怖存在所触碰，例如影兽或与[[黑暗帷幕]]相关的异怪，每当你回到阴影之中，都会感到生命力在一丝丝流失。
+|benefit=当你处于光照条件为昏暗或黑暗的环境，你所有的豁免检定获得-1罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

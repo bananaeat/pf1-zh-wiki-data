@@ -1,0 +1,12 @@
+{{Feat
+|name=实验型施法者
+|english_name=Experimental Spellcaster
+|pfs=否
+|description=尽管你能够正常施法，仍然对咒字艺术进行了尝试。
+|prerequisites=能够施放法术
+|benefit=选择一个让你能够施法的职业。你能够使用该职业的法术位来施放有限数量的咒字法术。将所有目标咒字、“增强”超魔咒字和任一个你在所选职业中能施放的环级的效果咒字加到你的法术列表以及法术书、魔宠或已知法术中。
+|special=你可以选择此专长多次。之后每次你选择此专长时，将两个效果或超魔咒字加到你的法术书、魔宠或已知法术列表中。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_607.html
+}}

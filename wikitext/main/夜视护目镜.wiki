@@ -1,0 +1,14 @@
+{{魔法物品
+|name=夜视护目镜
+|english_name=Goggles of Night
+|aon=MagicWondrousDisplay.aspx?FinalName=Goggles of Night
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=眼部
+|price=12,000 gp
+|description=这件物品的镜片是紫罗兰色的水晶。镜片虽然不透光，但戴在穿戴者的眼睛上时，它们让他能正常视物，并且使他获得60尺的黑暗视觉。必须两块镜片都戴上，魔法才会生效。
+|req=[[制造奇物]]、[[黑暗视觉(法术)|黑暗视觉]]
+|cost=6,000 gp
+|source=核心规则书、极限宝具
+}}

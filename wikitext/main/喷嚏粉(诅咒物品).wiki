@@ -1,0 +1,13 @@
+{{消歧义|喷嚏粉}}
+{{魔法物品
+|name=喷嚏粉
+|english_name=Dust of Sneezing and Choking
+|aon=MagicCursedDisplay.aspx?ItemName=Dust of Sneezing and Choking
+|cat=诅咒物品
+|aura=中等咒法系
+|cl=7
+|slot=无
+|description=这种细腻的粉尘看起来像是[[显像粉]]。如果将它抛入空中，会使20尺扩散范围内的生物陷入一阵阵喷嚏和咳嗽。未能通过DC 15强韧豁免的生物立刻受到3d6点体质伤害。通过这次豁免的生物也会因窒息而失能（视作[[震慑]]），持续5d4轮。
+|req=[[显像粉]]、[[无踪粉]]
+|source=核心规则书、极限宝具
+}}

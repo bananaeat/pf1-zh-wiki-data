@@ -1,0 +1,18 @@
+{{武器
+|name=雷鸣标枪
+|english_name=Stormshaft javelin
+|category=武器
+|prof=异种
+|wcat=远程
+|price=35 gp
+|weight=3磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×2
+|range=30尺
+|type=穿刺
+|special=见正文
+|groups=矛，投掷
+|description=这种一次性的标枪在其枪头后装载有一枚爆雷石。如果成功地以这种标枪命中目标，目标生物照常受到伤害，同时爆雷石的效果也会以其为中心产生。如果使用者失手了，则投骰以决定其落地位置（采用与溅射武器失手的相同规则）。爆雷石的效果将会以落地位置的方格为中心产生。
+|source=冒险者的军械库2
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=扰咒法术
+|english_name=Disruptive Spell
+|categories=超魔
+|description=你的魔法能量会附着在敌人身上，以此干扰他们施法。
+|benefit=被扰咒法术影响的目标在施法或者使用类法术能力时，必须进行专注检定（DC等同于“扰咒法术DC+将施放法术环级”），这个效果持续1轮。避免法术效果的目标也会避免该专长的效果。扰咒法术占用比法术的实际环级高1环的法术位。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

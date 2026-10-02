@@ -1,0 +1,143 @@
+==用法==
+<pre>
+{{HuijiCollapsed
+|title=<折叠内容的标题文字>【必须】
+|ID=<ID>【必须】
+|text=<折叠内容>【必须】
+|style=bar/tag（默认值）
+|type=open/collapsed（默认值）
+|title-class=标题追加class
+|title-style=标题追加style
+|text-class=文字追加class
+|text-style=文字追加style
+|body-class=整体追加class
+|body-style=整体追加style
+}}
+</pre>
+==说明==
+*ID必须为英文且连续，如果有空格应该用下划线代替，否则汉字会被html强制解析为%文字，空格被解析为下划线，导致ID与折叠的类不匹配。
+*当同一页面有多个本模板实例时，ID应唯一，不能重复。
+*如果ID重复，每次点击都会折叠/展开相同ID的折叠内容。
+*<code>style=bar</code>：点击顶部标题来实现折叠/展开
+*<code>style=tag</code>：点击html元素的任意位置都可以实现折叠/展开
+
+==实例==
+===简单实例===
+<pre>
+{{HuijiCollapsed
+|title=The Gettysburg Address
+|ID=1
+|text=Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
+
+Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.
+
+But, in a larger sense, we can not dedicate—we can not consecrate—we can not hallow—this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us—that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion—that we here highly resolve that these dead shall not have died in vain—that this nation, under God, shall have a new birth of freedom—and that government of the people, by the people, for the people, shall not perish from the earth.
+}}</pre>
+'''结果如下'''：
+
+{{HuijiCollapsed
+|title=The Gettysburg Address
+|ID=1
+|text=Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
+
+Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.
+
+But, in a larger sense, we can not dedicate—we can not consecrate—we can not hallow—this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us—that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion—that we here highly resolve that these dead shall not have died in vain—that this nation, under God, shall have a new birth of freedom—and that government of the people, by the people, for the people, shall not perish from the earth.
+}}
+===默认打开===
+添加参数<code>type=open</code>
+<pre>
+{{HuijiCollapsed
+|title=The Gettysburg Address
+|ID=1a
+|type=open
+|text=Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
+
+Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.
+
+But, in a larger sense, we can not dedicate—we can not consecrate—we can not hallow—this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us—that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion—that we here highly resolve that these dead shall not have died in vain—that this nation, under God, shall have a new birth of freedom—and that government of the people, by the people, for the people, shall not perish from the earth.
+}}</pre>
+'''结果如下'''：
+
+{{HuijiCollapsed
+|title=The Gettysburg Address
+|ID=1a
+|type=open
+|text=Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
+
+Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.
+
+But, in a larger sense, we can not dedicate—we can not consecrate—we can not hallow—this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us—that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion—that we here highly resolve that these dead shall not have died in vain—that this nation, under God, shall have a new birth of freedom—and that government of the people, by the people, for the people, shall not perish from the earth.
+}}
+
+===复杂实例===
+<pre>
+{{HuijiCollapsed
+|title=The Gettysburg Address
+|ID=2
+|type=open
+|text=Four score and seven years ago our forefathers brought forth on this continent
+|title-class=bg-warning
+|body-style=margin-bottom:0px;
+}}
+{{HuijiCollapsed
+|title=青玉案·元夕
+|ID=3
+|text=东风夜放花千树。更吹落，星如雨。
+|title-class=bg-info
+|body-style=margin-bottom:0px;
+}}
+{{HuijiCollapsed
+|title=卜算子
+|ID=4
+|text=缺月挂疏桐，漏断人初静
+|title-class=bg-danger
+|body-style=margin-bottom:0px;
+}}
+</pre>
+'''结果如下'''：
+
+{{HuijiCollapsed
+|title=The Gettysburg Address
+|ID=2
+|text=Four score and seven years ago our forefathers brought forth on this continent
+|title-class=bg-warning
+|body-style=margin-bottom:0px;
+}}
+{{HuijiCollapsed
+|title=青玉案·元夕
+|ID=3
+|text=东风夜放花千树。更吹落，星如雨。
+|title-class=bg-info
+|body-style=margin-bottom:0px;
+}}
+{{HuijiCollapsed
+|title=卜算子
+|ID=4
+|text=缺月挂疏桐，漏断人初静
+|title-class=bg-danger
+|body-style=margin-bottom:0px;
+}}
+==bar风格==
+通过参数<code>style=bar</code>来生效，区别是只将顶部的title作为按钮，点击正文不会折叠内容。
+<pre><nowiki>{{HuijiCollapsed
+|title=卜算子
+|style=bar
+|ID=41
+|text=缺月挂疏桐，漏断人初静
+|title-class=bg-danger
+|body-style=margin-bottom:0px;
+}}</nowiki>
+'''结果：'''
+</pre>
+{{HuijiCollapsed
+|title=卜算子
+|style=bar
+|ID=41
+|text=缺月挂疏桐，漏断人初静
+|title-class=bg-danger
+|body-style=margin-bottom:0px;
+}}
+
+==参考==
+*灰机帮助文档的折叠部分：'''[[h:帮助:折叠]]'''

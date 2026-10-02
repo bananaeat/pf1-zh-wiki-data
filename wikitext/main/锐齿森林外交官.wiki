@@ -1,0 +1,10 @@
+{{Trait
+|name=锐齿森林外交官
+|english_name=Fangwood Diplomat
+|type=地区
+|prerequisites=涅玛萨斯
+|description=
+你和锐齿森林各种各样的游击队一起生活工作。你在交涉检定上获得+1背景加值，且交涉成为你的[[本职技能]]。
+|source_name=初探内海
+|source_url=https://pf1chm.pages.dev/topics/zh90f44086c1.htm
+}}

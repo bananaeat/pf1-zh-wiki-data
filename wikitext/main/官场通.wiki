@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 196），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=官场通
+|english_name=Bureaucracy Navigator
+|type=种族
+|prerequisites=[[人类]]（天夏人）
+|description=你早已习惯在官府的繁文缛节中周旋。你对官吏进行的[[交涉]]检定，以及与法律和执法者相关的[[知识]]（本地）检定获得+2背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Bureaucracy%20Navigator
+}}

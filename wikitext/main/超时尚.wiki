@@ -1,0 +1,8 @@
+{{Trait
+|name=超时尚
+|english_name=Extremely Fashionable
+|type=装备
+|description=你非常了解如何打扮自己以给人良好印象。当你穿着价值至少价值150金币的衣物及珠宝时(不能被血迹、污渍或其他损害你外表形象的东西覆盖),你在[[唬骗]]、交涉、威吓检定上得到+1背景加值。上述技能中的一项(由你选择)成为你的[[本职技能]]。
+|source_name=装备背景
+|source_url=https://pf1chm.pages.dev/topics/page_1579.html
+}}

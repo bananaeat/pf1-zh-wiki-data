@@ -1,0 +1,15 @@
+{{Feat
+|name=燕归来
+|english_name=Second Chance
+|categories=战斗
+|description=快速的反应能力能够使失手的攻击获得第二次机会。
+|prerequisites=智力13，[[寓守于攻]]，基本攻击加值+6。
+|benefit=当你进行[[全力攻击]]时，如果你的第一次攻击失手，你能够放弃进行本轮剩下的其他攻击，来使用你最高的BAB重掷该次攻击。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[精通燕归来]]（1 个条目）

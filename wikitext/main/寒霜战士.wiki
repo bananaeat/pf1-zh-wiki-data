@@ -1,0 +1,11 @@
+{{Feat
+|name=寒霜战士
+|english_name=Frost Warrior
+|categories=战斗
+|pfs=否
+|description=你体内的凛冽寒气使你的近战攻击更为致命。
+|prerequisites=寒系，巨人
+|benefit=你将身体的寒冷传导至你持握的金属近战武器中，它会造成额外1d6点寒冷伤害。
+|source_name=冒险之路91：血征山之战
+|source_url=https://pf1chm.pages.dev/topics/91_Battle_of_Bloodmarch_Hills.htm
+}}

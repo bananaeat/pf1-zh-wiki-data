@@ -1,0 +1,17 @@
+{{武器
+|name=轻型捕俘弩
+|english_name=Light slaver's crossbow
+|category=武器
+|prof=异种
+|wcat=远程
+|price=250 gp
+|weight=6磅
+|dmg_s=1d3
+|dmg_m=1d4
+|crit=19–20/见正文
+|range=40尺
+|type=钝击
+|special=瘀伤，摔绊，见正文
+|description=这种弩发射名为捆绑矢的弹药，而非弩矢。它分为轻型和重型两种（没有双发弩、手弩或连发弩的型号），装填动作与同类型的普通弩相同。
+|source=怪物志
+}}

@@ -1,0 +1,14 @@
+<noinclude>{{女巫导航}}
+'''战地催眠'''（Combat Hypnosis, Su）是[[女巫]]的[[巫术]]。
+
+</noinclude>{{Source|格拉利昂的英雄|Heroes of Golarion|inline}}
+
+即使是在混乱的战斗中，女巫也可以迷惑她的敌人。
+
+这个巫术如同[[催眠术]]法术，但一次只能影响一个生物，且在战斗中使用时目标的豁免检定不会获得原本的+2加值。
+
+无论豁免成功与否，该生物在1天内都不会再次成为此巫术的目标。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc1372bb89b.htm 原文]）。全部巫术见 [[:分类:巫术|分类:巫术]]。
+
+[[分类:巫术]]</noinclude>

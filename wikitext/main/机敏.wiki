@@ -1,0 +1,9 @@
+{{Trait
+|name=机敏
+|english_name=Observant
+|type=派系
+|description=你会更加注意观察周遭环境和所遇到的人。在察觉或察言观色技能中选择一个。你在所选技能检定上获得+1背景加值，且该技能视为你的[[本职技能]]。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

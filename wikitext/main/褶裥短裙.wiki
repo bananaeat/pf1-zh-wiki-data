@@ -1,0 +1,9 @@
+{{装备
+|name=褶裥短裙
+|english_name=Kilt
+|cat=衣物
+|price=2 sp
+|weight=1磅
+|description=这种厚实的褶裥短裙的穿戴者通常是男性。此类服装上大多会有特殊的图案或花纹，用于代表穿戴者所效忠的特定部族或其他社会团体。
+|source=极限宝具
+}}

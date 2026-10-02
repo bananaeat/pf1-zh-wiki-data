@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[未来福音]] 的神话版本。</small></div>
+{{Feat
+|name=未来福音
+|english_name=Prophetic Visionary
+|categories=神话
+|description=你的预知能力能够进一步帮助你。
+|prerequisites=[[未来福音]]
+|benefit=你能够随意使用[[未来福音]]专长的[[占卜术]]能力，每次你都需要在深度的出神状态中花费10分钟。你的占卜术成功率增加每阶层1%。若本专长的占卜术使用成功的话，还会赋予你[[神导术]]的好处，不过它的加值会等同于你的阶层，而且提供的是洞察加值，以取代原本的表现加值。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

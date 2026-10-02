@@ -1,0 +1,10 @@
+{{Feat
+|name=巧妙器具
+|english_name=Subtle Devices
+|pfs=否
+|description=你擅长以机敏与巧技隐藏自己对魔法物品的使用。
+|prerequisites=[[隐秘]]。
+|benefit=当你启动魔杖、法杖或其他魔法物品时，可以进行一次隐匿检定（对抗旁观者的察觉检定），以隐藏你的启动动作。若该魔法物品产生明显效果（例如召唤生物或可见的法术效果），你在隐匿检定上承受–4减值，且即使检定成功，观察者仍然能看到法术效果，只是其未察觉你是施法者。
+|source_name=街巷英雄
+|source_url=https://pf1chm.pages.dev/topics/zh9058779a2c.htm
+}}

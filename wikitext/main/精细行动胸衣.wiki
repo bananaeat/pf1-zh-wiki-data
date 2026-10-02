@@ -1,0 +1,14 @@
+{{魔法物品
+|name=精细行动胸衣
+|english_name=Corset of Delicate Moves
+|aon=MagicWondrousDisplay.aspx?FinalName=Corset of Delicate Moves
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=胸部
+|price=2,000 gp
+|description=这件丝质的紧身衣物上缝制着细细的骨条。每天一次，以一个[[移动动作]]，穿戴者可以额外进行一个[[迅捷动作]]。此迅捷动作不能用于施法或者使用类法术能力。此衣物必须被穿戴至少24小时才能使用其能力。
+|req=[[制造奇物]]、[[猫之优雅]]、[[加速术]]
+|cost=1,000 gp
+|source=近战战术工具箱
+}}

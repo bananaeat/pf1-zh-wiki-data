@@ -1,0 +1,15 @@
+{{Spell
+|name=抵抗脱色
+|english_name=Bleaching resistance
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=炼金术师 4;调查员 4;奥能师 6;女巫 6;德鲁伊 6;术士 6;法师 6;猎人 6
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|target=自己
+|duration=24小时
+|sr=否
+|description=当你被这个法术影响时，[[脱色症]]造成的[[属性吸取]]不会影响你的属性调整值。这个法术不会移除脱色症对你外表的效果，也不会阻止你遭受进一步的属性减值、[[濒死]]或因脱色而变成脱色者。
+|source=内海种族
+}}

@@ -1,0 +1,15 @@
+{{Spell
+|name=反植物护罩
+|english_name=Antiplant Shell
+|school=防护系
+|levels=德鲁伊 4;猎人 4
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=10尺
+|area=以你为中心, 10尺半径发散区域
+|duration=1分钟/等级 (可解消)
+|save=无
+|sr=是
+|description=反植物护罩产生了一个[[隐形]]的活动屏障，能保护护罩内的所有生物不受植物生物或[[活化植物]]的攻击。和大多数防护系法术一样，强行将此屏障逼向无法靠近该法术的生物会导致此屏障崩溃。
+|source=核心规则书
+}}

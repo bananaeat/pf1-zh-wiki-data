@@ -1,0 +1,10 @@
+{{Trait
+|name=如夜漆黑
+|english_name=Black as Night
+|type=坐骑
+|prerequisites=[[矮种马]]（费尔矮种马）
+|description=当你骑在一匹费尔矮种马上时，你对你正在[[夹击]]的敌人的攻击检定获得+1背景加值。
+|source_name=坐骑背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zh4fc8a2e018.htm
+}}

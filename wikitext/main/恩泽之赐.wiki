@@ -1,0 +1,10 @@
+{{Feat
+|name=恩泽之赐
+|english_name=Reward of Grace
+|description=当你使用圣疗时，神圣的力量环绕于你，以此赞许你的善行。
+|prerequisites=【圣疗】职业特性。
+|benefit=每次你使用【圣疗】能力时，你在所有攻击骰上获得+1圣神加值，持续1轮。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

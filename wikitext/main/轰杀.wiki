@@ -1,0 +1,11 @@
+{{Feat
+|name=轰杀
+|english_name=Onslaught
+|categories=战斗
+|description=在被你的[[突袭]]命中之前，很少有敌人能对他们将承受的打击做好准备
+|prerequisites=力量13，[[猛力攻击]]，基础攻击加值+1，偷袭职业能力
+|benefit=如果你在突袭轮中以[[猛力攻击]]发动第一次近战攻击，你可以在该次攻击中造成偷袭伤害，即使你没有[[夹击]]目标，且目标也没有被剥夺AC的敏捷加值。
+|source=ACO
+|source_name=进化职业起源
+|source_url=https://pf1chm.pages.dev/topics/page_500.html
+}}

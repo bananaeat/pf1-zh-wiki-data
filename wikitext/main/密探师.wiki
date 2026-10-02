@@ -1,0 +1,9 @@
+{{Trait
+|name=密探师
+|english_name=Wanderer's Shroud
+|type=信念
+|description=你的探索往往难以被察觉。致力于收集关于你的信息的交涉检定将受到-1减值，同时你对抗探知和读心效果的全豁免获得+1背景加值(如果允许豁免)。
+|source_name=信念背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

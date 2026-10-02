@@ -1,0 +1,10 @@
+{{Trait
+|name=风语者
+|english_name=Windspeaker
+|type=地区
+|prerequisites=沙漠
+|description=你对天气变化有着敏锐的感知，并且总能提前8小时预知自然风速何时会达到大风级别。
+|source_name=荒野源始
+|source=WO
+|source_url=https://pf1chm.pages.dev/topics/zh4c71a0e505.htm
+}}

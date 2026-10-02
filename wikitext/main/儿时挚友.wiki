@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Jade Regent Player's Guide pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=儿时挚友
+|english_name=Best Friend
+|type=战役
+|pfs=否
+|description=你与某位NPC是最好的朋友；你们一同长大，尽管到目前为止你的朋友过着比你精彩得多的生活，但你希望有朝一日能追随朋友的脚步去看看这个世界——甚至自己也成为一名冒险者。你从朋友身上学到了很多，尤其是他或她与人打交道的本领。如果阿美子是你的挚友，你在[[交涉]]检定上获得+2背景加值。如果桑德鲁是你的挚友，你在[[唬骗]]检定上获得+2背景加值。无论你在哪项技能上获得背景加值，该技能总是你的本职技能。此外，在你的挚友身处危险的情况下，你对威胁你朋友的敌人进行的所有攻击检定获得+1背景加值。可选NPC：阿美子、桑德鲁。
+|source_name=Jade Regent Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Best%20Friend
+}}

@@ -1,0 +1,26 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Into the Haunted Forest
+|authors=Greg A. Vaughan
+|pages=16
+}}
+
+{{书页/简介|head=有些债永远还不清|1=
+森林之王早已死去，他那无价的王室珍宝多年来无人得见，早已遗失在他那闹鬼领地的深处。如今，这些物品必须被找回，正义才能得到伸张，但一位永恒的守卫正在严阵以待，随时处置所有闯入者。
+
+《闯入闹鬼森林》是一部荒野冒险，适用于 1 级角色，与全球最受欢迎的奇幻角色扮演游戏兼容。本冒险详述了闹鬼森林、森林之王失落的王室珍宝，以及一群一心要让英雄们失败的佣兵。
+
+本冒险的设计考虑了与 GameMastery RPG 配件的最佳搭配，包括《GameMastery 翻转地图：林地》（GameMastery Flip-Mat: Woodlands）、《GameMastery 地图包：旅店》（GameMastery Map Pack: Inns）和《GameMastery 物品卡：力量元素》（GameMastery Item Cards: Elements of Power），但也可以作为独立冒险使用。
+}}
+
+'''闯入闹鬼森林'''（''Into the Haunted Forest''）是为 2007 年深秋发行的 GameMastery 宝箱（GameMastery Treasure Chest）制作的核心冒险。这套盒装产品还包括一张双面地图、一套物品卡、一副重击牌组（Critical Hit Deck），以及其他帮助 GM 运行冒险的物品。
+
+{{书页尾
+|pfw=Into the Haunted Forest
+|releases=PDF¦PZO9500-TC1E¦2007-11¦；Softcover¦PZO9500-TC1¦2007-11¦
+}}
+
+<small>CHM 汉化里没有这本书的译名，书名是本站定的。</small>
+
+[[分类:书目]]

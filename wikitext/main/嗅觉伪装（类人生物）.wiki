@@ -1,0 +1,10 @@
+{{装备
+|name=嗅觉伪装（类人生物）
+|english_name=Masking scent (humanoid)
+|cat=炼金工具
+|price=50 gp
+|weight=—
+|craft_dc=25
+|description=这种物品有各种气味可选（对应某一种动物、类人生物或魔法兽）。1瓶嗅觉伪装涂在单个中型生物身上，能让其气味在8小时内变成嗅觉伪装所对应那种生物的气味。本条是对应类人生物气味的一档。
+|source=进阶职业指南
+}}

@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=神性许诺的回响
+|english_name=Echo of Divinity's Promise
+|aon=MagicWondrousDisplay.aspx?FinalName=Echo of Divinity's Promise
+|cat=奇物
+|aura=中等塑能系
+|cl=7
+|slot=无
+|price=1,400 gp
+|weight=8磅
+|description=这块石板上刻有铭文，详述了一位在星石试炼中未能成神的著名存在。持有者可以用一个[[移动动作]]将石板打碎，释放出一缕潜藏神性的残余。由此爆发的力量灌注使用者，使其在1分钟内的攻击掷骰、武器伤害掷骰、属性检定、技能检定和豁免检定获得+1士气加值。此外，使用者可以对一个持续中的效果（例如疾病）重新进行一次豁免检定。
+|req=[[制造奇物]]、[[通神术]]、[[神恩]]
+|cost=700 gp
+|source=门徒教义
+}}

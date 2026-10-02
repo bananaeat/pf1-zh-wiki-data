@@ -1,0 +1,8 @@
+{{Trait
+|name=千杯不醉
+|english_name=Iron Liver
+|type=装备
+|description=由于幸运的体质或频繁接触，你的身体对包括酒精和[[毒品]]在内的毒素有抵抗力。你在对抗毒素和毒品的强韧豁免上获得+2背景加值，在避免酒精影响的强韧豁免上获得+4背景加值。
+|source_name=装备背景
+|source_url=https://pf1chm.pages.dev/topics/page_1579.html
+}}

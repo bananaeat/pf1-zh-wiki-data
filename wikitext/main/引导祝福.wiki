@@ -1,0 +1,10 @@
+{{Feat
+|name=引导祝福
+|english_name=Channeled Blessing
+|description=你引导的能力将传递来自战斗祭司的祝福
+|prerequisites=[[祝福]]（Blessings）职业能力，引导能量职业能力
+|benefit=每当你引导能量以治疗活物时，你可以改为将一个你的战斗祭司祝福传递给范围内一个本应被你引导的能量治疗的自愿生物（包括你自己）。这个祝福必须需要[[标准动作]]启动、且能影响一个或多个生物；如果该祝福通常能影响多个目标，则你只影响这一个目标。目标获得该祝福，以取代治疗及引导能量的其他任何效果。本能力不会消耗你本日的祝福能力使用次数。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

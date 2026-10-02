@@ -1,0 +1,8 @@
+{{消歧义|旋风(怪物能力)}}
+{{物品
+|name=旋风
+|english_name=The Cyclone
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。出现一只气元素长老，抽牌者必须与其战斗。如果不能在1d6+1轮内结束战斗抽牌者被传送到气元素位面。
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=愈创膏
+|english_name=Wound Paste
+|aon=MagicWondrousDisplay.aspx?FinalName=Wound Paste
+|cat=奇物
+|aura=微弱咒法系
+|cl=1
+|slot=无
+|price=50 gp
+|weight=1/2磅
+|description=对奴隶贩子而言，愈创膏是防止俘虏失血而死的廉价办法，十分珍贵。将一剂愈创膏涂抹在濒死生物身上，其效果等同稳定伤势法术。涂抹愈创膏是一个会引发借机攻击的标准动作。一罐愈创膏含5剂。
+|req=[[制造奇物]]、[[稳定伤势]]
+|cost=25 gp
+|source=进阶种族手册
+}}

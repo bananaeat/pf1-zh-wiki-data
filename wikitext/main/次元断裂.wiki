@@ -1,0 +1,12 @@
+{{Feat
+|name=次元断裂
+|english_name=Dimensional Disruption
+|categories=战斗
+|description=你对于和召唤生物战斗是如此娴熟以至于你可以打断把他们召唤到你所处位面的魔法能量。
+|prerequisites=奥术打击或者扰法者；[[驱逐重击]]；战斗反射；维度察觉；法术辨识8级；奥能池职业特性
+|benefit=当你使用维度察觉来对被召唤或呼唤到你威胁区域的召唤生物进行借机攻击时，你可以额外地使用一个直觉动作尝试把这个生物遣返回他的来源位面。进行一次法术辨识检定（DC=15+该生物的CR（最少为1）+召唤该生物的法术等级）。如果你成功了，该生物不会进行行动并立刻被遣返回它的来源位面。
+|normal=一个召唤或者呼唤法术只会被失败的专注检定或者法术反制所打断。
+|source=MSH
+|source_name=怪物召唤者手册
+|source_url=https://pf1chm.pages.dev/topics/page_667.html
+}}

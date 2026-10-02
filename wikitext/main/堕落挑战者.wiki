@@ -1,0 +1,10 @@
+{{Trait
+|name=堕落挑战者
+|english_name=Debauchery Defier
+|type=社会
+|prerequisites=与塔尔多皇宫的宫廷有关联
+|description=你尤其擅长抵抗成瘾症。你必须连续两次豁免失败才会对一个药物成瘾。
+|source_name=皇庭英豪
+|source=HotHC
+|source_url=https://pf1chm.pages.dev/topics/zh4539efed66.htm
+}}

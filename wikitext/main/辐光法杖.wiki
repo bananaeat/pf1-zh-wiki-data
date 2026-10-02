@@ -1,0 +1,19 @@
+{{魔法物品
+|name=辐光法杖
+|english_name=Staff of Radiance
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Radiance
+|cat=法杖
+|aura=中等塑能系
+|cl=8
+|slot=无
+|price=23,200 gp
+|weight=5磅
+|description=这根银头柳木法杖会持续放出光芒，如同[[光亮术]]——光从法杖的金属端发出，像火焰一样闪烁摇曳。持有者可以用[[迅捷动作]]关闭或开启这道光亮。此外，辐光法杖还可以使用以下法术：
+
+* [[闪光尘]]（1 发）
+* [[昼明术]]（2 发）
+* [[灼热光辉]]（2 发）
+|req=[[制造法杖]]、[[昼明术]]、[[闪光尘]]、[[光亮术]]、[[灼热光辉]]
+|cost=11,600 gp
+|source=探索者协会战地指南、极限宝具
+}}

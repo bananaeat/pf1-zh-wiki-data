@@ -1,0 +1,54 @@
+{{速查导航}}
+{{怪物
+|name=鬼祟打手
+|english_name=Skulking Brute
+|cr=1
+|xp=400
+|classline=半兽人盗贼2
+|alignment=混乱邪恶
+|size=中型
+|type=类人生物
+|subtypes=人类;兽人
+|init=+2
+|senses=黑暗视觉60尺，察觉+6
+|description=鬼祟打手向旅者收取过路费，不给就发动攻击。
+|ac=16，接触12，措手不及14（+4护甲，+2敏捷）
+|hp=19（2D8+7）
+|fort=+1
+|ref=+5
+|will=+1
+|defensive=反射闪避，兽人凶猛
+|speed=30尺
+|melee=精制品巨斧 +5（1d12+4/X3）
+|ranged=短矛 +3（1d6+3）
+|special_attacks=偷袭+1d6
+|tactics=<div class="ml wide"><span class="k">战时</span>盗贼冲向最近的敌人</div>
+|str=17
+|dex=14
+|con=13
+|int=8
+|wis=12
+|cha=10
+|bab=+1
+|cmb=+4
+|cmd=16
+|feats=[[健壮]]
+|skills=[[特技|杂技]]+5;[[攀爬]]+6;[[威吓]]+7;察觉+6;[[骑术]]+2;[[察言观色]]+6;[[隐匿]]+5
+|languages=通用语;兽人语
+|sq=兽人之血;盗贼天赋（流血攻击+1）;寻找陷阱+1;武器熟悉
+|combat_gear=治疗轻伤药水 X2;易容术药水;神恩术药水;羽落术药水;亡灵无视药水
+|gear=链甲衫;精制品巨斧;短矛;59 gp
+|source=NPC志
+|family=核心职业（NPC志）
+|npc=1
+|lore=
+'''Blarta'''
+
+Blarta 是个暴徒，比起打架更爱吓人——因为比较省力。
+
+战斗遭遇：Blarta 可能在路上骚扰 PC，或作为强盗的侦察兵。
+
+扮演建议：Blarta 剪径时见过很多人，可能有些 PC 感兴趣的情报。如果价钱合适他甚至会加入，但实在很不可靠。
+}}
+
+本页译自《[[NPC志]]》的怪物图鉴 CHM。

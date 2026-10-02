@@ -1,0 +1,10 @@
+{{Trait
+|name=腹黑者
+|english_name=Cold and Calculating
+|type=战斗
+|aliases=腹黑客
+|description=你擅长用诡计对付本族或与本族有亲缘的宿敌。你对与你共有某一亚种的宿敌进行的所有[[唬骗]]检定获得+1背景加值。你在[[突袭]]轮对这类宿敌的攻击检定也获得+1背景加值。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

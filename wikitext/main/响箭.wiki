@@ -1,0 +1,11 @@
+{{武器
+|name=响箭
+|english_name=Whistling arrows (20)
+|category=弹药
+|wcat=弹药
+|price=2 gp
+|weight=3磅
+|type=穿刺
+|description=响箭具有特殊的箭身凹槽和羽翎，这使得它们在其飞行轨迹的500尺内可发出尖锐而响亮的呼啸声。响箭以20支为一组出售。
+|source=冒险者的军械库、极限战斗、极限宝具
+}}

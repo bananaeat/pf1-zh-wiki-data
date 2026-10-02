@@ -1,0 +1,10 @@
+{{Feat
+|name=雄辩家
+|english_name=Orator
+|description=你擅长于讲演和话术，利用精巧堆砌的辞藻和语调导向你的目标。
+|prerequisites=[[技能专攻]]（语言学）
+|benefit=你可以使用[[语言学]]检定以替代[[唬骗]]检定来说谎或掩饰信息；替代交涉检定来改变生物的态度，或是替代威吓检定以强迫生物合作。你必须使用可以和目标交流的语言。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

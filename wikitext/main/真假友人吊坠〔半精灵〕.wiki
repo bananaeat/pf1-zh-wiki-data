@@ -1,0 +1,18 @@
+{{魔法物品
+|name=真假友人吊坠〔半精灵〕
+|english_name=Locket of True and False Friends (Half-Elf)
+|aon=MagicWondrousDisplay.aspx?FinalName=Locket of True and False Friends (Half-Elf)
+|cat=奇物
+|aura=中等预言系
+|cl=9
+|slot=颈部
+|price=10,000 gp
+|description=这件奇物通常只有所标明的种族或族裔的成员才能获得。
+
+这个银吊坠里有两张羊皮纸，上面用精致的字体写着取自[[教典]]或哲学典籍的励志名言。每天一次，以命令字激活，这些文字会瞬间变成最后一个对佩戴者撒谎的生物和最后一个为她帮过忙的生物的名字。它只能回溯1天内的过去。每个名字将被揭示的人都要进行一次DC 17的意志豁免，成功则表示吊坠会跳过此人，转而找下一个最近的生物。
+
+如果佩戴者是[[半精灵]]，在对抗盟友、冒充其盟友的人，以及不超过1周前改变效忠对象的前盟友时，她在AC、豁免和[[察言观色]]检定上获得+2洞察加值。
+|req=[[制造奇物]]、[[异界探知]]，制造者必须是[[半精灵]]
+|cost=5,000 gp
+|source=内海种族
+}}

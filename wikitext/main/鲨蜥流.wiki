@@ -1,0 +1,16 @@
+{{Feat
+|name=鲨蜥流
+|english_name=Bulette Charge Style
+|categories=战斗;流派
+|description=使用你盔甲的重量使你的冲锋更加凶猛。
+|prerequisites=力量13，[[精通闯越]]，[[猛力攻击]]，[[擅长重甲]]
+|benefit=开启此[[流派]]后，在对对手进行[[闯越]][[战技]]时获得+4加值。任何减少你防具检定减值的魔法能力或者材料特性同样会减少你从此流派获得的加值。
+|special=具有盔甲训练职业能力的角色可以穿着任何他擅长的盔甲来使用本流派。中甲的加值为+3，轻甲+2。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_361.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[鲨蜥 · 扑]]、[[鲨蜥 · 狂]]（2 个条目）

@@ -1,0 +1,19 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=深绿色艾恩石
+|english_name=Dark Green Rhomboid Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun Stone Dark Green Rhomboid
+|cat=艾恩石
+|aura=强烈预言系
+|cl=12
+|slot=无
+|price=8,000 gp
+|description='''形状'''：长菱
+
+'''效果'''：这块艾恩石是森林绿色的，带有黄色斑点。它始终使你能立即察觉你周围5尺内的任何毒物。这一效果在其他方面与[[侦测毒性]]法术相同。
+
+艾恩石的通用规则（启动、环绕飞行、抓取，以及AC、硬度）见[[艾恩石]]。
+|req=[[制造奇物]]、[[侦测毒性]]，制造者必须已经12级
+|cost=4,000 gp
+|source=地城探险者手册
+}}

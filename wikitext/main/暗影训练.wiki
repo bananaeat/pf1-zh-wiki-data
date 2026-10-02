@@ -1,0 +1,10 @@
+{{Trait
+|name=暗影训练
+|english_name=Shadow Trained
+|type=战斗
+|prerequisites=与奈多的阴影宫廷有关联
+|description=你在黑暗中有着丰富的战斗经验。你因为在昏暗区域战斗而产生的失手率只有10%。
+|source_name=皇庭英豪
+|source=HotHC
+|source_url=https://pf1chm.pages.dev/topics/zh4539efed66.htm
+}}

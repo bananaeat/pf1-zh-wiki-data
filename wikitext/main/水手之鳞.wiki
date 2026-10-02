@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=水手之鳞
+|english_name=Scale of the Mariner
+|aon=MagicWondrousDisplay.aspx?FinalName=Scale of the Mariner
+|cat=奇物
+|aura=微弱防护系、变化系
+|cl=5
+|slot=颈部
+|price=8,000 gp
+|description=这些朴素的银色胸针常见于安多安商船队船长的斗篷上。佩戴这枚胸针的人获得+1天然护甲增强加值和火焰抗力5。此外，佩戴者在[[游泳]]检定上总是可以选择取10，即使处于分心或危险之中。
+|req=[[制造奇物]]、[[树肤术]]、[[抵抗能量伤害]]
+|cost=4,000 gp，320 XP
+|source=奇美拉湾的宝藏
+}}

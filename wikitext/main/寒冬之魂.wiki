@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 8），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=寒冬之魂
+|english_name=Winter's Soul
+|type=地区
+|prerequisites=依莉森
+|description=依莉森的永恒寒冬既是这片土地的一部分，也同样是你的一部分。你每天可以施展一次[[冰冻射线]]，作为类法术能力。其施法者等级等于你已获得的最高施法者等级；如果你没有施法者等级，则以施法者等级1级生效。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Winter%27s%20Soul
+}}

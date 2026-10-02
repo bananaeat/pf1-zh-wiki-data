@@ -1,0 +1,11 @@
+{{Feat
+|name=侧翻回避
+|english_name=Cartwheel Dodge
+|aliases=侧翻闪避
+|description=你利用回避伤害的技巧来调整战斗身位。
+|prerequisites=【反射闪避】职业特性，【精通反射闪避】职业特性，特技12级。
+|benefit=当你成功地运用[[精通反射闪避]]回避伤害后，你可以通过[[直觉动作]]移动相当于速度一半的距离。这次移动会如常引发[[借机攻击]]。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

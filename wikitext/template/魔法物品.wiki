@@ -1,0 +1,27 @@
+<includeonly>{{#invoke:版权抬头|main}}{{#invoke:武器|magic}}{{条目页脚|速查=物品速查|分类=物品|附加={{#if:{{{cat|}}}|[[:分类:{{{cat}}}|{{{cat}}}]]}}}}</includeonly><noinclude>
+魔法物品卡片（先用于 AoN「魔法武器」「魔法防具」：武器／防具附魔和特殊魔法武器、护甲、盾牌）。一栏一项，页上的参数就是数据。渲染在 [[模块:武器]] 的 magic 入口，样式沿用 [[MediaWiki:Common.css]] 的「物品卡片」一节。
+
+ {{魔法物品
+ |name=烈焰之舌
+ |english_name=Flame Tongue
+ |cat=特殊魔法武器
+ |base=长剑
+ |enh=+1 焰爆
+ |aura=强烈塑能系
+ |cl=12
+ |slot=无
+ |price=20,715 gp
+ |weight=4磅
+ |description=……
+ |req=[[制造魔法武器和防具]]、[[灼热射线]]，以及[[火球术]]、[[焰刃术]]或[[焰击术]]
+ |cost=10,515 gp
+ |source=极限宝具、核心规则书
+ }}
+
+* <code>english_name</code>：照抄 AoN 的条目名，自动链到 AoN（附魔和特殊武器链 MagicWeaponsDisplay，防具类链 MagicArmorDisplay）；地址不同写 <code>aon=…</code>，<code>aon=无</code> 不挂。
+* <code>cat</code>：武器附魔、防具附魔、特殊魔法武器、特殊魔法护甲、特殊魔法盾牌（进同名分类，另进 分类:魔法物品 和 分类:魔法武器／魔法防具）。
+* 附魔：<code>apply</code> 适用（近战、远程／护甲、盾牌），<code>bonus</code> 价格修正（「+1 加值」或「+2,000 gp」）。
+* 特定物品：<code>base</code> 基础物品（页名，自动挂链；几种写成 wikitext），<code>enh</code> 增强（「+1 焰爆」）。
+* <code>req</code> 制造需求、<code>cost</code> 造价；<code>source</code> 出处书名，几本用「、」隔开，首印在前。
+[[分类:模板]]
+</noinclude>

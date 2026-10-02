@@ -1,0 +1,10 @@
+{{Feat
+|name=精怪术法学识
+|english_name=Fey Spell Lore
+|description=你学会了精类爱用的危险法术。
+|prerequisites=魅力 13，[[法术辨识]]1级，施放德鲁伊法术的能力
+|benefit=将后述法术添加到你的德鲁伊法术列表中对应的环级上：0环——[[舞光术]]，1环——[[次等困惑术]]，2环——[[魅惑人类]]，3环——[[隐形术]]，4环——[[降咒]]，5环——[[魅惑怪物]]，6环——[[强效诅咒]]（UM），7环——[[梦之衣]]（APG），8环——[[精神错乱]]，9环——[[迷舞]]。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

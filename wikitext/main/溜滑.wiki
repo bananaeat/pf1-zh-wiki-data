@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''溜滑'''（Slick, Sp）是[[操念使]]的[[原力]]。
+
+元素：水；类别：通用（Sp）；等级：1；超载：0
+
+豁免：反射，通过则无效；[[特殊能力#法术抗力|法术抗力]]：否
+
+以[[标准动作]]，你能够呼唤滑溜的水或冰，创造出[[油腻术]]的任意效果，持续1轮。你能够在你的下个回合开始时承受1点超载，来使得效果持续时间延长至每[[操念使]]等级1分钟。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Slick|2=Slick}}
+
+[[分类:原力]]

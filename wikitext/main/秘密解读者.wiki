@@ -1,0 +1,10 @@
+{{Feat
+|name=秘密解读者
+|english_name=Unraveler of Secrets
+|description=你拥有一种本领，能探知他人所欲隐藏的秘密。
+|prerequisites=[[智力]]15、“知识（历史）” 1级、暗影后裔[[半兽人]]。
+|benefit=你的 “知识（历史）” 检定+2环境加值。此外，你每天可以以类法术能力施展一次 “[[读取物体]]”，并且可以用 “知识（历史）” 来替代 “[[估价]]” 进行[[神秘技能解放]]中的感灵尝试。
+|source=HftF
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/zh72cd9d7a9f.htm
+}}

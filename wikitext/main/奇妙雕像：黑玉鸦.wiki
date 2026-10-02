@@ -1,0 +1,18 @@
+{{物品
+|name=奇妙雕像：黑玉鸦
+|english_name=Figurine of Wondrous Power (Black Jade Raven)
+|category=奇物
+|aura=中等咒法系
+|cl=6
+|price=9100gp
+|weight=1磅
+|slot=无位置
+|requirements=制造奇物、活化物品
+|cost=4550gp
+|description=这块拳头大小的黑玉被雕刻成正在展翅的乌鸦形状。通过命令，它可以变成一只黑色乌鸦（使用鹰的数据）或一只黑色巨鸦（使用巨鹰的数据）。这两种乌鸦均获得“精通盗取”作为奖励专长。黑玉鸦可以理解命令但是无法说话。它可以通过叫声回答关于自身能力或所见所闻的问题，鸣叫一声为“是”，两声则为“否”。
+
+黑玉鸦每周能够在非雕像形态下维持24小时。这些时间不必连续，但是必须以1小时为单位。在转化为黑色巨鸦（而非较小版本）3次后，它会失去所有魔法特性，变为普通的雕像。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_19.html
+}}

@@ -1,0 +1,40 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #39: The City of Seven Spears
+|authors=Kevin Kulp
+|pages=96
+}}
+
+{{书页/简介|head=失落之城的秘密|1=
+传说中的失落之城 Saventh-Yhi，有人称之为七矛之城，终于被找到了！然而，这座古城的谜团虽长久隐匿，各种食人野兽与植物依旧栖居在藤蔓缠绕的废墟之中。PC 们能否在五支竞争势力中抢先取得发现权？还是会沦为 Saventh-Yhi 的又一批受害者？
+
+本册《冒险之路》内容包括：
+
+* James Jacobs、Kevin Kulp 与 Rob McCreary 的开拓者角色扮演游戏冒险《七矛之城》（"City of Seven Spears"），适用于 7 级角色，附有 Owen K.C. Stephens 设计的大型魔法物品附录。
+* James Jacobs 与 Rob McCreary 对探索此城的五支势力成员的详细介绍。
+* Mike Shel 讲述阴森神秘的巫毒传统带来的新能力与魔法物品。
+* 「探索者日志」里凶悍的狮骑手，作者 Robin D. Laws。
+* Jesse Benner、Patrick Renie 与 Neil Spicer 设计的九种新怪物。
+}}
+
+'''冒险之路39：七矛之城'''（''Pathfinder #39: The City of Seven Spears''）是[[冒险之路]]「蛇神颅骨」系列的第三章冒险，由 James Jacobs、Kevin Kulp 和 Rob McCreary 撰写，配套文章出自 Jesse Benner、Patrick Renie、Mike Shel、Neil Spicer 和 Owen K.C. Stephens，小说出自 Robin D. Laws，于 2010 年 11 月 10 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+七矛之城 @ 6
+远征 Saventh-Yhi @ 58
+巫毒之路 @ 66
+探索者日志：光之瘟疫（3／6） @ 72
+怪物图鉴 @ 78
+预设角色 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=City of Seven Spears
+|releases=PDF¦PZO9039E¦2010-11¦；Softcover¦PZO9039¦2010-11¦978-1-60125-274-6
+}}
+
+[[分类:书目]]

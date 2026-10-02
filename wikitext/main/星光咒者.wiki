@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（People of the Stars pg. 22），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=星光咒者
+|english_name=Starlit Hexer
+|type=宗教
+|pfs=否
+|prerequisites=任意外神
+|description=你的施法之力中灌注着神秘外神的力量。每当你施展具有诅咒描述符的法术或类法术能力（《极限魔法》第251页）时，该法术的豁免DC+1。如果你在夜间施展这类法术或类法术能力，只要天空晴朗、群星可见，在决定该法术的持续时间时，你的施法者等级视为高1级。
+|source_name=繁星子民
+|source=PotS
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Starlit%20Hexer
+}}

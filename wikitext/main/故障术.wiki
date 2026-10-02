@@ -1,0 +1,15 @@
+{{Spell
+|name=故障术
+|english_name=Malfunction
+|school=变化系
+|levels=奥能师 4;术士 4;法师 4;秘学士 4;红螳螂杀手 4
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|area=一个构装体
+|duration=1轮/等级 （可解消）
+|save=强韧，通过则无效
+|sr=是
+|description=这个法术工作方式如同[[困惑术]]，不过它只作用于构装生物，并且不会胡言乱语，而是在它的回合中不采取任何行动 （但仍可进行[[借机攻击]]）。
+|source=极限魔法
+}}

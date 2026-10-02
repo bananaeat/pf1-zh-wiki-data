@@ -1,0 +1,10 @@
+{{Trait
+|name=猛虎爪袭
+|english_name=Tiger's Claw
+|type=种族
+|prerequisites=[[兽态人]]（虎人裔）
+|description=你像猫一样灵敏，能在冲锋的末尾打出强力一击。每当你使用冲锋动作时，你的武器伤害骰获得+1背景加值。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_808.html
+}}

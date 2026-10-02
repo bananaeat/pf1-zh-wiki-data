@@ -1,0 +1,9 @@
+{{Trait
+|name=稳定之触
+|english_name=Stabilizing Touch
+|type=宗教
+|prerequisites=信仰[[法莱斯玛]]
+|description=你拥有一种与生俱来的天赋，让你能把人从死门关拉回来。每天一次，你可以将[[稳定伤势]]作为类法术能力施放，但其距离为接触。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

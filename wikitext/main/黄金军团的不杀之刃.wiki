@@ -1,0 +1,10 @@
+{{Feat
+|name=黄金军团的不杀之刃
+|english_name=Golden Legion's Stayed Blade
+|description=当你面对庞大而神秘的组织时，死掉的敌人不过是具尸体，而活捉的敌人则是可用的工具
+|prerequisites=BAB +3
+|benefit=如果你造成了能杀死目标的伤害，你能选择只造成刚好使其HP到达-1并且[[伤害和死亡#稳定和恢复|稳定伤势]]的伤害。
+|source=CoP
+|source_name=纯洁勇士
+|source_url=https://pf1chm.pages.dev/topics/page_515.html
+}}

@@ -1,0 +1,10 @@
+{{武器
+|name=毒气弹丸
+|english_name=Smoke bullet
+|category=弹药
+|wcat=弹药
+|price=100 gp
+|weight=—
+|description=这些投石索弹丸只需要一次接触攻击即可命中。命中目标时，弹丸会爆开，释放出一团有害气体的云雾，被击中的生物必须通过一次DC13的强韧豁免。豁免失败的话，目标会[[反胃]]2轮。
+|source=探索者编年史：战役设定
+}}

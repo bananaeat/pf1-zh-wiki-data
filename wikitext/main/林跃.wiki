@@ -1,0 +1,4 @@
+<noinclude>{{德鲁伊导航}}
+</noinclude>{{德鲁伊领域能力|name=林跃|en=Brachiation|type=Ex|domain=丛林领域|source=极限魔法|text=以一个[[自由动作]]，你得到相当于你陆地移动速度的攀爬速度，且在[[特技]]检定上得到相当于德鲁伊等级的加值。此效果每日可用轮数等于你的德鲁伊等级，这些轮数不须连续。}}<noinclude>
+
+[[分类:德鲁伊领域]]</noinclude>

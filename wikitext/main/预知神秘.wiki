@@ -1,0 +1,10 @@
+{{Trait
+|name=预知神秘
+|english_name=Divine the Mystery
+|type=种族
+|prerequisites=[[人类]]（凯利德人）
+|description=你在探索银山废墟上花费了很多时间，你对来自群星的金属生物的奇特之处有诸多了解。你在辨识机体亚种生物及纽梅利亚科技遗物的知识(工程)检定上获得+2背景加值。当你使用[[唬骗]]对有智能的构装体发动[[虚招]]时，你不会受到对非类人生物使用虚招的罚值。
+|source_name=河域子民
+|source=PotR
+|source_url=https://pf1chm.pages.dev/topics/zh576fd36972.htm
+}}

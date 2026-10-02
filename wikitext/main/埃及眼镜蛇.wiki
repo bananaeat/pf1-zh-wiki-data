@@ -1,0 +1,42 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=埃及眼镜蛇
+|english_name=Asp
+|cr=2
+|xp=600
+|alignment=绝对中立
+|size=中型
+|type=动物
+|init=+6
+|senses=昏暗视觉，灵敏嗅觉；察觉 +10
+|description=这条修长而肌肉发达的蛇，受到威胁时会立起身子，露出颈部的兜帽与毒牙。
+|ac=15，接触 12，措手不及 13（+2 敏捷，+3 天生）
+|hp=19（3d8+6）
+|fort=+5
+|ref=+5
+|will=+3
+|speed=20 尺，攀爬 20 尺，游泳 20 尺
+|melee=啮咬 +4（1d4 外加毒素）
+|special_attacks=毒素
+|str=10
+|dex=15
+|con=14
+|int=1
+|wis=15
+|cha=2
+|bab=+2
+|cmb=+2
+|cmd=14（无法被摔绊）
+|feats=[[精通先攻]];[[技能专攻]]（隐匿）;[[武器娴熟]] B
+|skills=[[特技]] +10;[[攀爬]] +10;[[察觉]] +10;[[隐匿]] +14;[[游泳]] +10
+|racial_mods=+8 特技，+4 察觉，+4 隐匿
+|environment=温暖沙漠
+|organization=单独，成对，或一窝（3–8）
+|treasure=无
+|special_abilities={{怪物能力|毒素|Ex|啮咬—伤口感染；豁免 强韧 DC 15；频率 每轮 1 次，持续 6 轮；效果 1d2 体质；痊愈 连续 2 次豁免成功。该豁免 DC 包含 +2 种族加值。}}
+|source=Osirion, Legacy of the Pharaohs
+|lore=
+埃及眼镜蛇是一种原产于奥西里昂与伽伦德北部的眼镜蛇，体长 4 至 6 尺，鳞片呈褐色，带有深色斑驳。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Asp|2=Asp}}

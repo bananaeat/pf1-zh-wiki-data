@@ -1,0 +1,10 @@
+{{Feat
+|name=英灵专攻
+|english_name=Spirit Focus
+|description=你与某种[[英灵]]有着更加强烈的联系，而这也增强了它的力量。
+|prerequisites=英灵同调职业能力
+|benefit=选择一种英灵职阶。你来自该职阶英灵的英灵同调加值增加1点。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

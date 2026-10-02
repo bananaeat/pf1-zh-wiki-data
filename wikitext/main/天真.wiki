@@ -1,0 +1,10 @@
+{{Trait
+|name=天真
+|english_name=Naive
+|type=缺陷
+|pfs=否
+|description=在激烈的战斗中，你那认为所有人都不是天生坏人的看法并不是一个好习惯。卑鄙的敌人将利用你这错误的乐观。
+|benefit=你在对[[随手武器]]的AC和对[[阴招]][[战技]]的[[CMD]]上有-2罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

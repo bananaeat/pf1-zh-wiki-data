@@ -1,0 +1,16 @@
+{{Feat
+|name=精通盲斗
+|english_name=Improved Blind-Fight
+|categories=战斗
+|description=敏锐的感官引导你的手臂指向藏匿的敌人。
+|prerequisites=[[察觉]]10级，盲斗。
+|benefit=你的近战攻击忽略低于[[全隐蔽]]的失手率。你仍旧可以如常重投全隐蔽带来的失手率百分骰。如果你成功定位30尺内的隐身或躲藏起来的攻击者，该名敌人会失去与使用远程攻击对你进行攻击相关的优势。即你的AC不会失去你的敏捷加值，并且攻击者不会由于隐身而获得通常的+2加值。
+|special=精通盲斗专长对于[[闪现术]]法术的受术者没有效果。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[三角学]]（1 个条目）

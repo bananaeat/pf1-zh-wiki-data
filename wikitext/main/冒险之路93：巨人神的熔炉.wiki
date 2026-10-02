@@ -1,0 +1,48 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #93: Forge of the Giant God
+|authors=Tim Hitchcock
+|pages=96
+}}
+
+{{书页/简介|head=|1=
+为了寻找能够对抗风暴暴君的强大武器，冒险者们循着在山丘巨人格伦塞尔德克（Grenseldek）巢穴里找到的一张地图，来到传奇屠巨人者纳格里姆·钢手（Nargrym Steelhand）的陵墓。手持这些传奇武器，冒险者们接着进入危机四伏的旋心山脉，寻找风暴暴君为其大军招募巨人的山谷。英雄们必须先潜过栖居于蜿蜒山谷中的重重巨人军团，才能抵达这支大军的总部——一座供奉巨人之神明德哈尔（Minderhal）的远古神殿。到了那里，他们必须唤醒一件强大的神器，并在巨人们被放出来祸害世界之前，解散正在集结的大军！
+
+本册《冒险之路》延续「巨人杀手」冒险之路，内容包括：
+
+* 《巨人神的熔炉》，一部面向 7 级角色的开拓者冒险，作者 Tim Hitchcock。
+* 阿维斯坦最大的山脉之一——旋心山脉的地志，作者 Mark Moreland。
+* 近观巨人之神明德哈尔的信仰，作者 Sean K Reynolds。
+* 「探索者日志」中一则关于逃脱与诡计的故事，作者 Greg A. Vaughan。
+* 四种新怪物，作者 Benjamin Bruck、Tim Hitchcock、Sean K Reynolds。
+}}
+
+'''冒险之路93：巨人神的熔炉'''（''Pathfinder #93: Forge of the Giant God''）是 Tim Hitchcock 撰写的一部冒险，配套文章出自 Mark Moreland、Sean K Reynolds 和 Benjamin Bruck，小说出自 Greg A. Vaughan，于 2015 年 5 月 27 日发售。它是[[冒险之路]]「巨人杀手」系列的第三章。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+巨人神的熔炉 @ 6
+NPC 图集 @ 60
+- Etena
+- Urathash
+旋心山脉 @ 64
+明德哈尔（Minderhal） @ 70
+探索者日志：离奇传说（3／6） @ 76
+怪物图鉴 @ 80
+- [[贝奈奥]]
+- [[伊乌大长老]]
+- [[活体洞穴壁画]]
+- [[混血巨人]]（模板）
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Forge of the Giant God
+|releases=PDF¦PZO9093E¦2015-05¦；Softcover¦PZO9093¦2015-05¦978-1-60125-727-7
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

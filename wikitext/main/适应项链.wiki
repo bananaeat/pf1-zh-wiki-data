@@ -1,0 +1,15 @@
+{{魔法物品
+|name=适应项链
+|english_name=Necklace of Adaptation
+|aon=MagicWondrousDisplay.aspx?FinalName=Necklace of Adaptation
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=颈部
+|price=9,000 gp
+|weight=1磅
+|description=这条粗链子上挂着一枚白金勋章。项链的魔力使佩戴者周身裹上一层新鲜空气，使他免疫所有有害的烟气和气体（例如[[死云术]]和[[臭云术]]的效果，以及吸入型毒素），并让他可以呼吸，即使在水下或真空中也一样。
+|req=[[制造奇物]]、[[变身术]]
+|cost=4,500 gp
+|source=核心规则书、极限宝具
+}}

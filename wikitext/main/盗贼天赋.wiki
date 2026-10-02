@@ -1,0 +1,68 @@
+{{消歧义|盗贼天赋(杀手天赋)}}
+{{消歧义|盗贼天赋(调查员天赋)}}
+{{消歧义|盗贼天赋(侠客天赋)}}
+{{盗贼导航}}
+盗贼天赋：盗贼的经验积累过程中，她可以学会一些帮助她挫败敌人的天赋。2级时，盗贼获得一个盗贼天赋。之后每2级都会再获得一个盗贼天赋。盗贼不能重复选择同一个天赋。
+
+[[高等天赋]]：10级时，以及之后每2级，盗贼可以从高等天赋中进行选择，替代盗贼天赋。
+
+标记星号的天赋是附加于偷袭的效果。每次攻击只能施加这些天赋中的一种，必须在进行攻击检定之前决定施加哪一种。
+
+== 全部天赋 ==
+
+下面的检索器可以按名字、类型、偷袭、高等、出处现查全部 221 条盗贼天赋；一张表列全的见 '''[[盗贼天赋/全部天赋]]'''。
+
+{{gsearch
+|class=pf-gsearch
+|pagesize=20
+|searchonload=true
+|template=盗贼天赋检索结果
+|selection = kind::roguetalent
+|sort=adv,name
+|order=asc,asc
+|type:text;
+//model:name;
+//title:天赋;
+//placeholder:中文名，支持模糊;
+//bindSubmit:true;
+//flag:i;
+|type:text;
+//model:en;
+//title:英文名;
+//placeholder:English name;
+//bindSubmit:true;
+//flag:i;
+|type:dropbox;
+//model:type;
+//title:类型;
+//options:-全部@default,Ex-Ex,Su-Su,Sp-Sp;
+|type:dropbox;
+//model:adv;
+//title:档次;
+//options:-全部@default,普通-普通,高等-高等;
+|type:dropbox;
+//model:sneak;
+//title:偷袭附加;
+//options:-全部@default,是-是;
+|type:dropbox;
+//model:unch;
+//title:《解放者》;
+//options:-全部@default,改写-改写,掉链专有-掉链专有;
+|type:text;
+//model:brief;
+//title:效果;
+//placeholder:正文关键词，如 偷袭、毒;
+//bindSubmit:true;
+//flag:i;
+|type:text;
+//model:source;
+//title:出处;
+//placeholder:如 进阶玩家指南;
+//bindSubmit:true;
+//flag:i;
+}}
+
+
+{{职业}}
+
+[[分类:职业规则]]

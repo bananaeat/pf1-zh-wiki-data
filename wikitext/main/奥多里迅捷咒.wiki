@@ -1,0 +1,14 @@
+{{Spell
+|name=奥多里迅捷咒
+|english_name=Aldori Alacrity
+|school=变化系
+|levels=吟游诗人 2;歌者 2;炼金术师 2;调查员 2;魔战士 2
+|action=标准动作
+|components=语言;姿势;材料（姜根片）
+|range=个人
+|target=自己
+|duration=1分钟/等级
+|sr=否
+|description=这个法术的能量加快了你的步伐，允许做出花哨的走位。你在速度上获得了10尺的增强加值，并且AC获得了+1闪避加值。这些加值不会与[[加速术]]等类似法术叠加。在奥多里迅捷咒的影响下，你可以在[[困难地形]]上使用[[5尺快步]]。
+|source=冒险者指南
+}}

@@ -1,0 +1,16 @@
+{{Spell
+|name=复合错觉
+|english_name=Complex hallucination
+|school=幻术系 (魅影幻觉)
+|tags=影响心灵
+|levels=通灵者 3;催眠师 4;吟游诗人 4;奥能师 4;女巫 4;异能者 4;术士 4;歌者 4;法师 4;秘学士 4;魔战士 4
+|action=标准动作
+|components=姿势
+|range=远距
+|target=每等级一个生物，任意两者之间的距离不超过30尺
+|duration=专注 + 3轮
+|save=意志，通过则不相信
+|sr=是
+|description=该法术的功能就如同[[视听错觉]]（见本书204页）一般，不过由你创造的魅影幻觉还能够包含嗅觉、触觉和温度效果。
+|source=极限诡道
+}}

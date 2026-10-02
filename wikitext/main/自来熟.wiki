@@ -1,0 +1,9 @@
+{{Trait
+|name=自来熟
+|english_name=Friend in Every Town
+|type=社会
+|description=无论你走到哪里，结识朋友和收集信息都不成问题。你的知识(本地)和交涉检定获得+1背景加值，并且总能将二者之一(自行选择)视为你的[[本职技能]]。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

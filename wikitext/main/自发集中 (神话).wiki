@@ -1,0 +1,13 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[自发集中]] 的神话版本。</small></div>
+{{Feat
+|name=自发集中
+|english_name=Spontaneous Metafocus
+|categories=神话
+|description=相比其他自发施法者，你对超魔的应用更为灵活自如。
+|prerequisites=[[自发集中]]
+|benefit=在每日清晨你的已消耗法术位恢复时，你能够变更[[自发集中]]专长所应用的法术。它可以应用至任何等级的法术，但是法术本身要满足自发集中专长的要求。
+|special=你能够多次选取该专长。其效果不会叠加。每当你选取该专长时，它都会应用到不同的非神话版自发集中专长上。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

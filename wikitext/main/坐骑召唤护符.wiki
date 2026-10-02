@@ -1,0 +1,16 @@
+{{魔法物品
+|name=坐骑召唤护符
+|english_name=Talisman of the Summoned Steed
+|aon=MagicWondrousDisplay.aspx?FinalName=Talisman of the Summoned Steed
+|cat=奇物
+|aura=微弱咒法系
+|cl=1
+|slot=无
+|price=3,600 gp
+|description=这枚缟玛瑙护身符形似一匹雄壮的黑色公马，通身刻着波浪线，戴着一副小小的麻绳笼头。说出命令字时，它会变成一匹配好马鞍、血统纯正的轻型马，自愿为你效力。命令字也能让它变回护身符的形态。如果这匹马被杀死，它会变回护身符的形态，且24小时内无法再次激活。
+
+每个护身符的马形态都有特定的颜色（黑、棕、灰、花斑等）和斑纹（额斑、星斑、白袜等），由制作者在制作该物品时选定。
+|req=[[制造奇物]]、[[坐骑术]]，制造者必须拥有至少5级[[骑术]]
+|cost=1,800 gp，144 XP
+|source=塔尔多，荣光荡漾之地
+}}

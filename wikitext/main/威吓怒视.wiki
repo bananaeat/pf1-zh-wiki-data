@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=威吓怒视
+|english_name=Intimidating Glare
+|type=Ex
+|class=掉链野蛮人
+|benefit=野蛮人将她的力量修正代替魅力修正用于所有的挫败敌人的威吓检定中。野蛮人可以以一个[[移动动作]]而不是[[标准动作]]对邻接的敌人发动挫败士气。如果野蛮人在检定中胜出，该敌人将会在其余下的狂暴时间内持续[[战栗]]。
+|classic=威吓凝视
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

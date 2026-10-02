@@ -1,0 +1,13 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[惧栗屠杀 (神话)]]。</small></div>
+{{Feat
+|name=惧栗屠杀
+|english_name=Dreadful Carnage
+|categories=战斗
+|description=杀死敌人能够挫败附近其他敌人的士气。
+|prerequisites=力量15，[[猛力攻击]]，[[沉着暴怒]]，基本攻击加值+11。
+|benefit=当你将一名敌人的HP降至0或更低时，你能够以[[自由动作]]对30尺内的所有敌人进行一次威吓检定以挫败士气。若敌人无法同时看到你和HP被你降至0或更低的敌人，则不受影响。
+|stamina=使用该专长时可选择花费最多6点耐力，每点耐力令挫败士气的范围扩展5尺。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

@@ -1,0 +1,13 @@
+{{危害
+|name=青嘶泣
+|english_name=Blue whinnis
+|kind=毒药
+|type=伤口
+|save=强韧 DC 14
+|frequency=1次/轮，持续2轮
+|initial=1点体质伤害
+|secondary=[[昏迷]]1d3小时
+|cure=1次豁免成功
+|price=120 gp
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=踏浪者
+|english_name=Wave Master
+|description=格兹雷的祝福使你的泳术超越凡人
+|prerequisites=信仰格兹雷
+|benefit=当你成功通过一个游泳检定时，你可以以一个[[整轮动作]]移动相当于你的全部移动速度的距离或是以一个[[移动动作]]移动相当于你全部移动速度一半的距离。这个能力不会给予你游泳速度
+|normal=当你成功通过一个游泳检定时，你可以以一个整轮动作移动相当于你的全部移动速度一半的距离或是以一个移动动作移动相当于你全部移动速度四分之一的距离。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

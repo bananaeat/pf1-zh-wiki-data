@@ -1,0 +1,9 @@
+{{Trait
+|name=商队监工
+|english_name=Caravan Drover
+|type=种族
+|prerequisites=[[半兽人]]
+|description=只要由你执掌皮鞭，你的商队总是能准时抵达。你将[[长鞭]]视为军用武器，且至多10个与你同行的动物和类人生物每天可以在受到[[非致命伤害]]且陷入[[疲乏]]以前比正常限时额外急行或强行军1小时。
+|source_name=沙之子民
+|source_url=https://pf1chm.pages.dev/topics/zh730f330f66.htm
+}}

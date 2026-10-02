@@ -1,0 +1,9 @@
+<includeonly><div class="pf-entry-tpl" style="margin:.35em 0 .9em;padding:.5em .85em;border:1.5px dashed #46618b;border-left:6px solid #46618b;border-radius:6px;background:#f4f6fa;line-height:1.65"><span style="font-size:1.12em;font-weight:bold">[[生物模板一览]] →</span>&nbsp; <span style="color:#3a4a5d">骷髅、丧尸、吸血鬼、半龙……能套在现成怪物身上的 164 个生物模板，站上已有 {{PAGESINCATEGORY:怪物模板|pages}} 页；模板的通用规则见 [[魔宠和模板]]。</span></div></includeonly><noinclude>
+醒目的入口框，指向 [[生物模板一览]]。用户 2026-09-23 要「生物模板一览也要做个显眼入口」：挂在 [[怪物速查]]顶上和 [[:分类:怪物模板]] 页头；[[首页]]「怪物」抽屉里另有一条链接，每张 <code><nowiki>{{怪物模板}}</nowiki></code> 卡片的页脚也链过去。
+
+配色跟模板卡片（[[MediaWiki:Common.css]] 里 <code>.monster-tpl</code> 的靛蓝虚线）一致，写成行内样式：站点 CSS 被 CDN 缓 4 小时，行内的立刻生效。「站上已有几页」现取 [[:分类:怪物模板]] 的页数。
+
+{{生物模板入口}}
+
+[[分类:模板]][[分类:功能类模板]]
+</noinclude>

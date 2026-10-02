@@ -1,0 +1,15 @@
+{{魔法物品
+|name=利刃之鞘
+|english_name=Scabbard of Keen Edges
+|aon=MagicWondrousDisplay.aspx?FinalName=Scabbard of Keen Edges
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=无
+|price=16,000 gp
+|weight=1磅
+|description=这个黑色剑鞘上刻着繁复的银色符文，描绘着各式各样的刃类武器。利刃之鞘可以缩小或扩大，以容纳任何小刀、[[匕首]]、剑或类似的武器，最大可到[[巨剑]]。每天至多3次，以命令字，剑鞘对放入其中的任何刀刃施放[[锐锋术]]。当刀刃处于这一锐锋术效果之下时，其上会出现与剑鞘外侧类似的符文。
+|req=[[制造奇物]]、[[锐锋术]]
+|cost=8,000 gp
+|source=核心规则书、极限宝具
+}}

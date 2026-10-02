@@ -1,0 +1,15 @@
+{{魔法物品
+|name=进退之鼓
+|english_name=Drum of Advance and Retreat
+|aon=MagicWondrousDisplay.aspx?FinalName=Drum of Advance and Retreat
+|cat=奇物
+|aura=微弱变化系
+|cl=1
+|slot=无
+|price=10,000 gp
+|weight=5磅
+|description=演奏这面结实的小军鼓时，120尺内盟友生物的奔跑速度会提高，如同他们拥有[[飞跑]]专长。启动这面鼓是一个[[标准动作]]，需要通过DC 20的表演（打击乐）检定；如果演奏者正在奔跑，维持演奏是一个[[自由动作]]。一旦持鼓者停止演奏，提高的奔跑速度即告结束。这面鼓每天最多可使用1小时，这段时间不必连续，但必须以10分钟为单位使用。
+|req=[[制造奇物]]、[[脚底抹油]]
+|cost=5,000 gp
+|source=极限宝具
+}}

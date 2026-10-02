@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|位面旅者手册|Plane-Hopper's Handbook}}
+'''冥河飞溅'''（Splash of the Styx, Sp）是[[操念使]]的[[原力]]。
+
+元素：水；类别：通用（Sp）；等级：5；超载：1
+
+前置：[[魔裔]]或位面谐律专长（末日荒原、深渊或地狱）
+
+豁免：意志，通过则无效；[[特殊能力#法术抗力|法术抗力]]：可
+
+你可以花一整轮的时间汲取冥河之水，抹消一个目标的记忆。此能力视为[[篡改记忆]]，除了只能用于抹除记忆。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Splash of the Styx|2=Splash of the Styx}}
+
+[[分类:原力]]

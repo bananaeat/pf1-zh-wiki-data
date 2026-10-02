@@ -1,0 +1,11 @@
+{{Feat
+|name=精通格挡
+|english_name=Improved Parry
+|categories=战斗
+|description=手腕轻轻一甩就能缠住对手的武器。
+|prerequisites=智力13，[[寓守于攻]]
+|benefit=当你成功的格挡敌方的近战攻击时（通过决斗格挡或格挡职业能力），你下一次对该目标的近战攻击将敌方视为失敏。这一攻击必须在你的下一回合结束前完成。
+|source=PotR
+|source_name=河域子民
+|source_url=https://pf1chm.pages.dev/topics/zh0cfe867645.htm
+}}

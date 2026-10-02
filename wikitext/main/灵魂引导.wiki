@@ -1,0 +1,8 @@
+{{Source|传奇编年史|Chronicle of Legends}}
+'''灵魂引导'''（Soul Channel, Su）是任意满足先决条件的职业都能选取的[[典范编年史|替代巅峰]]。
+
+20级时，角色的引导能量（Channel Energy）每日可用次数增加6次，且引导能量的骰子增大一级。任何具有引导能量能力的职业均可选取该巅峰。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1501.html 原文]）。全部替代巅峰见 [[典范编年史]]。
+
+[[分类:巅峰能力]]

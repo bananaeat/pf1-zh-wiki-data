@@ -1,0 +1,15 @@
+{{Feat
+|name=高等卓尔贵族
+|english_name=Greater Drow Nobility
+|pfs=否
+|description=你已经精通了低阶的[[卓尔]]类法术能力，以此彰显你真正的贵族身份。
+|prerequisites=魅力13，[[卓尔贵族]]，[[进阶卓尔贵族]]，能够使用卓尔的类法术能力，卓尔。
+|benefit=你的[[侦测魔法]]类法术能力现在恒定存在。你可以随意以类法术能力使用[[舞光术]]，[[深幽黑暗术]]，[[妖火]]，[[羽落术]]与[[浮空术]]。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[卓越法术抗力]]、[[进阶黑耀传人]]、[[黑耀传人]]（3 个条目）

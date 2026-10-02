@@ -1,0 +1,9 @@
+<noinclude>'''移动书库'''（Walking Library, Ex）是任意满足先决条件的职业都能选取的[[:分类:巅峰能力|替代巅峰]]。
+
+</noinclude>{{Source|传奇编年史|Chronicle of Legends|inline}}
+
+20级时，角色成为一个满载神秘学识的小型移动知识库。角色的法术书或魔宠增加总计100环级的法术，且所有知识技能获得+4洞察加值。任何从法术书或魔宠准备法术的职业均可选取该巅峰。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1501.html 原文]）。全部替代巅峰见 [[典范编年史]]。
+
+[[分类:巅峰能力]]</noinclude>

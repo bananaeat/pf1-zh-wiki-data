@@ -1,0 +1,15 @@
+{{Spell
+|name=智能壁垒 III
+|english_name=Intellect Fortress III
+|school=防护系
+|levels=异能者 6
+|action=直觉动作
+|components=语言
+|range=20尺
+|area=以你为中心、半径20尺的散发
+|duration=1轮
+|save=无
+|sr=是（无害）
+|description=该法术的功能如同[[智能壁垒 II]]一般，不过区域内的生物在成功通过用于对抗情绪或恐惧效果的豁免检定时不会承受任何效果，即便该效果在通常情况下会在豁免成功时造成部分效果也是如此。该法术可以被降阶施法。
+|source=异能冒险
+}}

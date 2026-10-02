@@ -1,0 +1,8 @@
+{{狂暴之力
+|name=世界之蛇图腾
+|english_name=World Serpent Totem
+|type=Su
+|categories=图腾
+|benefit=当狂暴时，野蛮人对异界生物和异怪的AC得到+1洞察加值，他每得到一个(除本[[狂暴之力]]以外的)世界之蛇图腾系列的狂暴之力，此加值会再上升1。
+|source_name=极限战斗
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=魔具启动环
+|english_name=Wand Key Ring
+|aon=MagicWondrousDisplay.aspx?FinalName=Wand Key Ring
+|cat=奇物
+|aura=微弱通用系
+|cl=5
+|slot=无
+|price=3,000 gp
+|weight=8磅
+|description=每个这种刻满符文的黄铜戒指在制造时都会对应一个特定法术。使用[[使用魔法装置]]技能启动以该法术为基础的卷轴或法术触发型物品时，持戒者在该技能检定上获得+10洞察加值。
+|req=[[制造奇物]]、[[神导术]]，制造者必须在[[使用魔法装置]]技能上有10级
+|cost=1,500 gp
+|source=进阶职业指南
+}}

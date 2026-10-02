@@ -1,0 +1,17 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=Helicyon
+|english_name=Helicyon
+|aon=MagicArtifactsDisplay.aspx?ItemName=Helicyon
+|cat=神器
+|tier=高等神器
+|base=[[木棍]]
+|enh=+5 定身 幽冥 神圣
+|aura=极强（学派不定）
+|cl=28
+|slot=无
+|weight=4
+|description=Helicyon是一把+5定身幽冥神圣[[木棍]]。Helicyon也可以呈现为一根手杖，并能以自由动作变回真身。每当Helicyon造成伤害，被击中的生物必须进行一次DC 25的意志豁免。若豁免失败，目标会为自己存在过程中发生的种种事情悔恨不已，哪怕它否认、从未拥有或已经丧失感受情感的能力，如同[[无尽悲痛]]。该效果只影响智力3或以上的生物，即使它们通常免疫影响心灵的效果。一旦受到影响，或在豁免成功之后，目标在24小时内对这项能力免疫。安多莱塔可以用一个标准动作把Helicyon从任意距离召到自己手中，甚至跨越位面界限。
+|destruction=必须由一名CR 20或更高的圣使徒手折断Helicyon，同时这名圣使要弃绝天堂，并宣誓效忠于某位邪恶的主人或事业。
+|source=天堂降临
+}}

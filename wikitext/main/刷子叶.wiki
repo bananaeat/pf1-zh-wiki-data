@@ -1,0 +1,11 @@
+{{危害
+|name=刷子叶
+|english_name=Scour
+|kind=毒品
+|type=摄入、吸入
+|addiction=重度，强韧 DC 24
+|effect=3小时：敏捷获得+1d4炼金加值，感知承受-1d4减值
+|damage=1d6点体质伤害
+|price=45 gp
+|source=游戏主持人指南
+}}

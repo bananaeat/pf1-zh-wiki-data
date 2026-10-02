@@ -1,0 +1,14 @@
+{{Feat
+|name=强化神力涌动
+|english_name=Potent Surge
+|categories=神话
+|description=你的神力涌动会变得更为强大。
+|benefit=每当你使用神力涌动（surge）能力时，将1加到你的神力涌动结果上。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[吉兆涌动]]（1 个条目）

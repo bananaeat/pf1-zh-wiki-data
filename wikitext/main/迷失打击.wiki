@@ -1,0 +1,11 @@
+{{Feat
+|name=迷失打击
+|english_name=Disorienting Blow
+|categories=战斗
+|description=当你成功用[[震慑拳]]击中敌人的时候，你可以让他陷入[[困惑]]。
+|prerequisites=[[震慑拳]]，基本攻击加值11
+|benefit=你必须在使用震慑拳之前宣布使用迷失打击，此专长将会取代其他由震慑拳造成的效果。一旦你成功击中敌人，而且他强韧豁免失败，那么他将会困惑一轮，额外生效的迷失打击将会延长困惑效果的持续时间，迷失打击在其他部分皆与震慑拳相同，且受到相同的限制。
+|source=DEP
+|source_name=初探龙国
+|source_url=https://pf1chm.pages.dev/topics/page_530.html
+}}

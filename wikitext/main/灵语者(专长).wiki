@@ -1,0 +1,11 @@
+{{消歧义|灵语者 (消歧义)}}
+{{Feat
+|name=灵语者
+|english_name=Spirit Talker
+|description=和精魂花些时间交涉，你可以从它们那里弄到新的[[巫术]]。
+|prerequisites=巫术职业能力，萨满职业等级6或女巫职业等级6
+|benefit=每天一次，你可以花费10分钟与你所选的一个[[萨满]][[魂域]]沟通。这样做时，你暂时获得该魂域巫术列表中的一个巫术：该巫术会在接下来的1小时内加入你的可用巫术列表，之后你立刻失去该巫术的所有好处。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

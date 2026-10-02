@@ -1,0 +1,10 @@
+{{Trait
+|name=奥莱根特之决意
+|english_name=Oregent Desperation
+|type=地区
+|prerequisites=奥莱根特（安多安境内）
+|description=你求生的本能轻松地压垮你的智力，然而你认为这仅仅是种公平交易。每天1次你能承受4点智力伤害以改善你的状态由[[濒死]]至[[瘫痪]]。
+|source_name=安多安，自由之魂
+|source=ASoL
+|source_url=https://pf1chm.pages.dev/topics/zh527590c930.htm
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=秘仪初识者
+|english_name=Mystery Initiate
+|type=信念
+|description=年少时你曾加入某个神秘教团，学到的秘密彻底颠覆了你对信仰与世界的认知。这段经历使你掌握了横向思维的诀窍。每日一次，你可重骰任意知识技能检定。此能力必须在首次掷骰后、结果揭晓前使用，且必须接受第二次结果，即使更差。
+建议角色：神秘教团教徒，[[内希斯]]信徒，[[诺格巴]]信徒
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

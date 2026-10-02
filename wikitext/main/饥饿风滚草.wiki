@@ -1,0 +1,44 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=饥饿风滚草
+|english_name=Ravenous Tumbleweed
+|cr=1/3
+|xp=135
+|alignment=绝对中立
+|size=超小型
+|type=植物
+|init=+1
+|senses=昏暗视觉；察觉 +0
+|description=这团看起来干枯的植被长成了一个带刺枝条与根须的球形团块。
+|ac=14，接触 13，措手不及 13（+1 敏捷，+1 天生，+2 体型）
+|hp=5（1d8+1）
+|fort=+3
+|ref=+1
+|will=+0
+|immune=植物特性
+|speed=30 尺
+|melee=挥击 +0（1d4–2）
+|space=2–1/2 尺
+|reach=0 尺
+|special_attacks=疾冲
+|str=6
+|dex=13
+|con=12
+|int=—
+|wis=11
+|cha=4
+|bab=+0
+|cmb=–1
+|cmd=7（无法被摔绊）
+|sq=乘风
+|environment=温暖的沙漠或平原
+|organization=单独，一对，或一漂群（3–12）
+|treasure=无
+|special_abilities={{怪物能力|疾冲|Ex|作为冲锋动作的一部分至少移动了 20 尺的饥饿风滚草，在进入对手所在的空间进行近战攻击时，不会引发借机攻击。}}
+{{怪物能力|乘风|Ex|处于中等风力（11–20 英里/时）的区域时，饥饿风滚草朝着风向移动时速度增加 10 尺。处于至少强风（21+ 英里/时）的区域时，它朝着风向移动时速度改为增加 20 尺，并且在它朝该方向移动的任意一轮中，它对抗借机攻击的 AC 获得 +2 闪避加值。}}
+|source=极限荒野
+|lore=
+与其无害的同类不同，饥饿风滚草会在养分匮乏时将自己连根拔起，去追捕活的猎物。这些季节性食肉的植物聚集成气势逼人的漂流团，等待大风时期到来，再压倒鸟类、兔子甚至是鹿。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Ravenous Tumbleweed|2=Ravenous Tumbleweed}}

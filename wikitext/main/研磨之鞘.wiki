@@ -1,0 +1,15 @@
+{{魔法物品
+|name=研磨之鞘
+|english_name=Scabbard of Honing
+|aon=MagicWondrousDisplay.aspx?FinalName=Scabbard of Honing
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=无
+|price=500 gp
+|weight=1磅
+|description=这个皮革剑鞘会自动调整大小，以适应任何斧头、剑、[[匕首]]或类似的通常存放在鞘中的物品。把一件非魔法武器放入鞘中1分钟，就会把它的刃口磨利，如同用[[磨刀石]]（第75页）打磨过一样。
+|req=[[制造奇物]]、[[修复术]]
+|cost=250 gp
+|source=极限宝具
+}}

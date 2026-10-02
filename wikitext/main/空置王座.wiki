@@ -1,0 +1,7 @@
+{{物品
+|name=空置王座
+|english_name=The Empty Throne
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。抽牌者在抽牌后不久继承贵族头衔并获得15000gp，细节由DM决定
+}}

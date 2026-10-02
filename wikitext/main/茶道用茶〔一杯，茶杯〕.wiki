@@ -1,0 +1,9 @@
+{{物品
+|name=茶道用茶〔一杯，茶杯〕
+|english_name=Tea (ceremonial, cup)
+|category=冒险装备
+|price=4 CP
+|weight=1/2磅。
+|description=这种深色的红茶来自东方，它的沏煮是古典茶道的一部分。了解茶道的正确准备步骤并参与一次茶道，需要需要一次成功的知识（贵族）技能检定。一套茶道具（ceremonial tea set）包括一个茶托、一个[[茶壶]]、和四枚茶盅和配套茶匙。
+|source_name=冒险者的军械库
+}}

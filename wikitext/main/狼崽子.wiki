@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Goblins of Golarion pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=狼崽子
+|english_name=Wolf Cub
+|type=宗教
+|pfs=否
+|prerequisites=地精、扎隆格尔
+|description=你身上长着一簇簇难看的毛，这可是狼血的铁证！你赢了！每天一次，你可以用一个标准动作用鼻子深吸一口气，获得灵敏嗅觉能力，持续1分钟。
+|source_name=格拉利昂的地精
+|source=GoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Wolf%20Cub
+}}

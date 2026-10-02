@@ -1,0 +1,10 @@
+<includeonly><div class="skill-head"><span class="sk-a">{{{属性}}}</span>{{#if:{{{减值|}}}|<span class="sk-f">防具检定减值</span>}}{{#if:{{{受训|}}}|<span class="sk-f">须受训</span>}}{{#if:{{{备注|}}}|<span class="sk-f">{{{备注}}}</span>}}{{#invoke:AoN链接|skill|{{PAGENAME}}}}</div></includeonly><noinclude>
+技能页顶的数据条，取代原先那行和页名重复的 <code><nowiki>==技能名 (English) (属性)==</nowiki></code> 标题。
+
+ {{技能头|属性=敏捷|减值=是|受训=是}}
+
+三个参数都是从原标题的括号里拆出来的：<code>属性=</code> 必填，<code>减值=</code>／<code>受训=</code>有就填任意值、没有就留空（留空的标签不显示）。括号里还写了别的（[[工艺]] 的「又译手艺」）用 <code>备注=</code>。
+最右边那一格是 AoN 上的技能名、本身就是 AoN 原文链接（[[模块:AoN链接]] 的 skill，按页名查 [[模块:AoN链接/技能]]；不在表里的页不出这一格）。
+样式在 [[MediaWiki:Common.css]] 的「规则正文页」一节。
+[[分类:模板]]
+</noinclude>

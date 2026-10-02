@@ -1,0 +1,15 @@
+{{Feat
+|name=衰弱盾击
+|english_name=Stumbling Bash
+|categories=盾牌掌握;战斗
+|description=你的盾击可以使你的敌人[[步履蹒跚]]。
+|prerequisites=[[精通盾击]]，[[盾牌专攻]]，BAB+6或者战士4级。
+|benefit=被你盾击击中的生物AC承受-2减值，直至你的下一回合结束。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_361.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[倾覆盾击]]（1 个条目）

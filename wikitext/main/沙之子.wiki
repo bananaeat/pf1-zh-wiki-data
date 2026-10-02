@@ -1,0 +1,10 @@
+{{Trait
+|name=沙之子
+|english_name=Desert Child
+|type=地区
+|prerequisites=沙漠
+|description=你在多岩的荒漠中出生长大。你习惯了沙漠的酷热，在抵抗炎热环境影响的豁免检定上获得+4背景加值，同时在对抗火焰效果的豁免检定上获得+1背景加值。
+|source_name=地区背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

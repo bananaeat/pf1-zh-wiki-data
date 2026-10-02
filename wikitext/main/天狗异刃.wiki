@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|格拉利昂的英雄|Heroes of Golarion}}
+'''天狗异刃'''（Tengu Blade Lore, Su）是[[操念使]]的[[原力]]。
+
+元素：通用；类别：通用（Su）；等级：1；超载：0
+
+前置：[[天狗]]
+
+当你使用念刃或将念刃作为先决条件的注能时，你可将你塑造的武器视为具有下列武器特性之一：格挡，迎击，处决，[[卸武]]，虚实，[[击破]]，[[摔绊]]。
+
+（译注：武器特性中没有击破，怀疑[[笔架叉]]具备的"持用笔架叉时，你对敌人武器的击破[[战技]]检定+2。"这一条特性原为武器特性之一，称作击破。）
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Tengu Blade Lore|2=Tengu Blade Lore}}
+
+[[分类:原力]]

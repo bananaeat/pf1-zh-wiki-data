@@ -1,0 +1,43 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=提提维鲁斯
+|english_name=Titivilus
+|title=缮写伯爵（The Scrivening Count）
+|alignment=守序邪恶（LE）
+|weapon=[[长剑]]
+|portfolio=谎言，宣传，修辞
+|domains=[[邪恶领域(领域)|邪恶]]，[[秩序领域|秩序]]，[[知识领域|知识]]，[[诡术领域|诡术]]
+|subdomains=[[诡术领域#欺骗子域 (Deception)|欺骗子域]]，[[邪恶领域(领域)#魔鬼子域 (Devil)|魔鬼子域（邪恶）]]，[[秩序领域#魔鬼子域 (Devil)|魔鬼子域（秩序）]]，[[符文领域#语言子域 (Language)|语言子域]]，[[知识领域#记忆子域 (Memory)|记忆子域]]
+|symbol=魔鬼的手写体
+|animal=毒蛇
+|color=黑色，白色
+|pantheon=炼狱大公
+|source=内海诸神、永罪之书
+}}
+
+'''提提维鲁斯'''（Titivilus），称号「缮写伯爵」，是[[炼狱大公与地狱公爵|炼狱大公]]之一。
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+撰写宣传文章，暗中宣扬提提维鲁斯及其事迹。你在对抗影响心灵效果的豁免上获得+4亵渎加值。
+
+=== 神恩 ===
+
+通过[[魔族仪典]]获得：类法术能力，每日各1次。
+
+{{神恩|n=1|name=|en=|type=Sp|text=类法术能力，可施放[[迷幻手稿]]，1次/日。}}
+
+{{神恩|n=2|name=|en=|type=Sp|text=类法术能力，可施放[[律言]]，1次/日。}}
+
+{{神恩|n=3|name=|en=|type=Sp|text=类法术能力，可施放[[禁锢术]]，1次/日。}}
+
+== 信徒可用 ==
+
+* '''专长'''：[[炼狱镣铐]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1554.html 原文]），原在总页 [[炼狱大公与地狱公爵]]。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Titivilus|2=Titivilus}}
+[[分类:魔神]]

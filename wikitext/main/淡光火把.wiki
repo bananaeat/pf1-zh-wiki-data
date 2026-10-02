@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=淡光火把
+|english_name=Palelight Torch
+|aon=MagicWondrousDisplay.aspx?FinalName=Palelight Torch
+|cat=奇物
+|aura=微弱塑能系
+|cl=2
+|slot=无
+|price=250 gp
+|weight=1磅
+|description=这支火把用暗淡的灰色木头制成，上面刻着繁复的雕纹。它像普通火把一样燃烧，但只在40尺半径内发出昏暗光照。在普通光照的区域，这支火把会把光照等级降为昏暗光照；在明亮光照的区域则没有效果。
+|req=[[制造奇物]]、[[光亮术]]
+|cost=125 gp
+|source=阴影血脉
+}}

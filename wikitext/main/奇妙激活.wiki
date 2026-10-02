@@ -1,0 +1,9 @@
+{{Feat
+|name=奇妙激活
+|english_name=Uncanny Activation
+|description=你可以从魔法道具中激发出更大的力量。
+|prerequisites=[[使用魔法装置]]12级
+|benefit=如果你在使用一件法术完成性或者法术触发性物品时，超过其DC 5点或以上，你在决定法术效果时可以将该物品的施法者等级增加1级。或者，当你在使用一件需要消耗使用次数的魔法物品时，如果你的[[使用魔法装置]]检定超过DC10点或以上，你可以额外消耗一次使用次数来使这件物品的施法者等级提高2级。无论如何，你无法将1件魔法物品的施法者等级提高到超过你的施法者等级。
+|source_name=初探探索者协会
+|source_url=https://pf1chm.pages.dev/topics/page_547.html
+}}

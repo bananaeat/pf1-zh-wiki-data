@@ -1,0 +1,15 @@
+{{Spell
+|name=群体半身人的复仇
+|english_name=Halfling vengeance, mass
+|school=预言系
+|levels=反圣武士 4;审判者 6;先知 7;牧师 7
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=每等级一个小体型或更小的生物，任意两者之间的距离不超过30尺
+|duration=1轮/等级
+|save=意志无效（无害）
+|sr=是（无害）
+|description=该法术如同半身人的复仇一样作用，除了它可以影响复数生物。
+|source=皇冠战争
+}}

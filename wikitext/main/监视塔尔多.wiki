@@ -1,0 +1,9 @@
+{{Trait
+|name=监视塔尔多
+|english_name=Watching Taldor
+|type=地区
+|prerequisites=来自卡蒂亚，且家人、邻居或朋友受过塔尔多侵略之害，或自己曾是这种仇恨的受害者的角色
+|description=在你成年之后，你生活的全部内容就是注视着北方，随时等待着虚弱的塔尔多人给你们一个藉口来进攻他们。你在先攻检定上获得+1背景加值，如果你有在突袭轮行动的能力，你可以在该轮以一个自由动作拔出武器（但不能是药水或者魔法物品）。
+|source_name=卡蒂亚，通向东方的大门
+|source_url=https://pf1chm.pages.dev/topics/page_1005.html
+}}

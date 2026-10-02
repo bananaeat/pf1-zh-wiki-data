@@ -1,0 +1,10 @@
+{{Trait
+|name=卷缩内脏(幽暗地域)
+|english_name=Suck in Your Gut
+|type=地区
+|pfs=否
+|prerequisites=幽暗地域
+|description=由于你经常需要在你部落巢穴周围的狭窄隧道和其他空间中移动，你可以在被挤压时正常移动，并且在攻击骰和AC上只受到-2减值。
+|source_name=格拉里昂的狗头人
+|source_url=https://pf1chm.pages.dev/topics/zh93978f31f4.htm
+}}

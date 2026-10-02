@@ -1,0 +1,39 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #119: Prisoners of the Blight
+|authors=Amanda Hamon
+|pages=96
+}}
+
+{{书页/简介|head=破除霉腐！|1=
+奇异而可怖的东西在锐齿森林深处绽放，把植物与精类居民扭曲成荒疫怪物。许多人曾勇闯这片森林，但阿兰提拉公主——统治这片被遗弃林地的残酷树精——不允许任何闯入者离开她的领域。然而，在这些被诅咒的深处某处，藏着通往铁牙军团隐秘要塞的钥匙。PC 们能否从邪恶的精类、腐烂的巨龙和噩梦般的野兽手中活下来？还是他们将沦为荒疫的囚徒？
+
+本册《冒险之路》延续「铁牙入侵」冒险之路，内容包括：
+
+* 《荒疫囚徒》，一部面向 14 级角色的开拓者冒险，作者 Amanda Hamon。
+* 在内海其他著名荒疫之地开展战役的详细说明，作者 Larry Wilhelm。
+* 对疾病、真菌与寄生虫之恶魔领主[[西斯·乌苏格]]的教团与信仰的探索，作者 Jason Keeley。
+* 为任何涉及第一世界善变居民的战役增添风味的新精类恩赐与祸患，作者 Isabelle Lee。
+* 一部塞满腐烂的童话怪兽的怪物图鉴，作者 Paris Crenshaw、Crystal Frasier 和 Amanda Hamon。
+}}
+
+'''冒险之路119：荒疫囚徒'''（''Pathfinder #119: Prisoners of the Blight''）是[[冒险之路]]「铁牙入侵」系列的一部冒险，由 Amanda Hamon 撰写，配套文章出自 Paris Crenshaw、Crystal Frasier、Jason Keeley、Isabelle Lee 和 Larry Wilhelm，于 2017 年 6 月 28 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+荒疫囚徒 @ 4
+NPC 图集 @ 52
+荒疫废土 @ 60
+[[西斯·乌苏格]]，枯焦荒原之王（Prince of the Blasted Heath） @ 66
+精类恩赐与祸患 @ 72
+怪物图鉴 @ 80
+}}
+
+{{书页尾
+|pfw=Prisoners of the Blight
+|releases=Softcover¦PZO90119¦2017-06¦；PDF¦PZO90119E¦¦
+}}
+
+[[分类:书目]]

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=战斗先驱长靴
+|english_name=Boots of the Battle Herald
+|aon=MagicWondrousDisplay.aspx?FinalName=Boots of the Battle Herald
+|cat=奇物
+|aura=中等惑控系
+|cl=11
+|slot=脚部
+|price=30,000 gp
+|weight=2磅
+|description=这双靴子由上好的白色皮革制成，上面的图案为史诗般的战斗画面。每天一次以[[移动动作]]，穿戴者可以让自己受到高等英雄气概效果影响11分钟。
+|req=[[制造奇物]]、[[高等英雄气概]]、[[移除恐惧]]
+|cost=15,000 gp
+|source=进阶职业指南
+}}

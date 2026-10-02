@@ -1,0 +1,15 @@
+{{Spell
+|name=共用黑暗视觉
+|english_name=Darkvision, communal
+|school=变化系
+|levels=反圣武士 3;奥能师 3;异能者 3;术士 3;法师 3;炼金术师 3;秘学士 3;红螳螂杀手 3;调查员 3;游侠 4;猎人 4
+|action=标准动作
+|components=语言;姿势;材料（少量胡萝卜干或玛瑙）
+|range=接触
+|target=接触到的复数生物
+|duration=1小时/等级
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=这个法术工作方式如同[[黑暗视觉(法术)|黑暗视觉]]，不过你可以将持续时间以1小时为单位分配给接触到的复数生物。
+|source=极限战斗
+}}

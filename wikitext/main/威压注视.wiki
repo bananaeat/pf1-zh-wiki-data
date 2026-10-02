@@ -1,0 +1,11 @@
+{{Feat
+|name=威压注视
+|english_name=Overpowering Stare
+|categories=凝视
+|type=注视
+|description=你的痛苦注视足以压垮敌人心灵。
+|prerequisites=催眠师11级，痛苦注视职业能力。
+|benefit=当你触发你的痛苦注视时，目标必须通过一次意志豁免（DC=10+1/2你的催眠师等级+你的魅力调整值）否则[[困惑]]一轮。无论豁免是否成功，生物在24小时内不会再次受此能力影响。
+|source_name=格拉利昂的英雄
+|source_url=https://pf1chm.pages.dev/topics/zh040b2e617a.htm
+}}

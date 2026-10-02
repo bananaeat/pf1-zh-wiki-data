@@ -1,0 +1,42 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #16: Endless Night
+|authors=F. Wesley Schneider
+|pages=96
+}}
+
+{{书页/简介|head=地底世界在等待！|1=
+在光明世界的极深之下，一处邪恶得难以言说的空洞，正把远古的仇恨播散进黑暗。暗精灵们从他们的城市兹那凯宁（Zirnakaynin）出发，统治着一个建立在谎言与黑暗魔法之上的帝国。他们的邪恶野心已经伸向地表世界，威胁着一场难以估量的浩劫，以及第二个黑暗时代的降临。PC 们只有乔装成暗精灵、潜入[[卓尔]]的都城，才能看清敌人的真面目，终结这场震撼世界的阴谋。然而，对于地表来客，在这个冷酷无情、永夜不尽的国度里，又能有多少生还的希望？
+
+本册《冒险之路》内容包括：
+
+* 《无尽长夜》，一部面向 9 级角色的冒险，作者 F. Wesley Schneider。
+* 探索无日之城兹那凯宁——揭示它残忍的居民与冷酷的统治者，作者 F. Wesley Schneider。
+* 卓尔邪门技艺“塑肉”的秘辛，以及这门疯狂科学催生的可怖畸形造物，作者 J.D. Wiker 和 Darrin Drader。
+* 在「探索者日志」中，Eando Kline 唤醒了一个可能危及整个格拉利昂的邪恶，作者 Jay Thompson。
+* 五种新怪物，作者 Jonathan Drain 和 F. Wesley Schneider。
+}}
+
+'''冒险之路16：无尽长夜'''（''Pathfinder #16: Endless Night''）是[[冒险之路]]「二度黑暗」系列的第四部冒险，由 F. Wesley Schneider 撰写，配套文章出自 Darrin Drader、Jonathan Drain 和 J.D. Wiker，另有 F. Wesley Schneider 的 Set Piece 冒险和 Jay Thompson 的小说，于 2008 年 12 月 10 日发售。
+
+== 目录 ==
+本册《冒险之路》收录无日的卓尔之城兹那凯宁的地志、对暗精灵所创造的畸形怪物的探究，以及一部发生在幽暗地域偏远角落的 Set Piece 冒险。当然，还有 Eando Kline 的更多冒险——他唤醒了一个可能危及整个格拉利昂的邪恶——以及五种新怪物！
+{{书页/目录|1=
+前言 @ 4
+无尽长夜 @ 6
+兹那凯宁 @ 48
+[[卓尔]]的畸形造物 @ 58
+地底之血 @ 64
+探索者日志 @ 72
+怪物图鉴 @ 78
+预设角色 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Endless Night
+|releases=PDF¦PZO9016E¦2008-12¦；Softcover¦PZO9016¦2008-12¦978-1-60125-129-9
+}}
+
+[[分类:书目]]

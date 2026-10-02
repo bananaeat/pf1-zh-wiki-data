@@ -1,0 +1,12 @@
+{{Feat
+|name=隐藏掌握
+|english_name=Concealment Mastery
+|categories=物品掌握
+|pfs=否
+|description=你可以使用幻术系魔法物品来隐藏你的存在，或者隐瞒你真实的本性。
+|prerequisites=隐匿技能3级，使用魔法装置技能3级，基础强韧豁免加值+3
+|benefit=你可以引导一件制造时需求使用幻术系法术，且该法术至少为一环的魔法物品中的能量，施放一次法术[[渐隐术]]apg。如果你在潜行和[[使用魔法装置]]技能都拥有7级或以上等级，你可以改为引导一件制造时需求使用幻术系法术，且该法术至少为二环的魔法物品中的能量，施放一次[[隐形术]]或[[隐匿阵营]]。你每天可以使用该专长1次，基础强韧豁免加值达到+9和+12时可以获得一次每日额外使用次数。
+|source=MTT、MagicTT
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_325.html
+}}

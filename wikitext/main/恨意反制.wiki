@@ -1,0 +1,11 @@
+{{Feat
+|name=恨意反制
+|english_name=Mutual Hatred
+|categories=战斗
+|pfs=否
+|description=你被外族所憎恨，而你对他们也一样。
+|benefit=在对抗拥有针对你的[[矮人#仇恨|仇恨]]种族特性或是[[宿敌]]职业能力的生物时，你在攻击和伤害检定上获得+1加值。对大多数兽人来说，这个专长的目标包括矮人和拥有宿敌（人型生物-兽人）的游侠。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1411.html
+}}

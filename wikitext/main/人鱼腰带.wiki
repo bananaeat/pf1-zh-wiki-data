@@ -1,0 +1,15 @@
+{{魔法物品
+|name=人鱼腰带
+|english_name=Merform Belt
+|aon=MagicWondrousDisplay.aspx?FinalName=Merform Belt
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=腰部
+|price=32,000 gp
+|weight=2磅
+|description=每天一次，这条腰带的穿戴者可以用命令让它把自己变成[[人鱼]]的形态。处于此形态时，穿戴者可以在水中呼吸，下半身会变成人鱼的鱼尾。这个新形态提供+2天生护甲加值和30尺游泳速度，不过穿戴者处于此形态时，陆地速度降为5尺。穿戴者最多可保持此形态12小时，并可随时用命令结束该效果。
+|req=[[制造奇物]]、[[变身术]]、[[水中呼吸]]
+|cost=16,000 gp
+|source=极限宝具
+}}

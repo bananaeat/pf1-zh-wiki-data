@@ -1,0 +1,46 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #89: Palace of Fallen Stars
+|authors=Tim Hitchcock
+|pages=96
+}}
+
+{{书页/简介|head=此地有机器人出没！|1=
+纽梅利亚的首都星陨城盘踞在该地区最臭名昭著的废墟——银山——的阴影之下。在这里，施虐成性的科技联盟与黑君统治着这片土地，并把持着通往种种令人惊叹而危险的科技奇观的门径，其中就包括神秘的银山本身。在那艘残破星舰的深处某处，钢铁诸神中最强大的一位正在崛起。但在纽梅利亚的英雄们能与之对抗之前，他们必须先应付科技联盟与黑君，因为这些压迫者掌控着通往那处传奇之地的通道。从纽梅利亚各处收集来的科技奇物，加上从一位远古仿生人神谕者那里得到的线索，足以让英雄们获胜吗，还是他们将被科技联盟的金属之靴碾碎？
+
+本册《冒险之路》延续「钢铁诸神」冒险之路，内容包括：
+
+* 《坠星宫殿》，一部面向 13 级角色的开拓者冒险，作者 Tim Hitchcock。
+* 揭开纽梅利亚危险首都星陨城城墙之后的景象，作者 Tim Hitchcock。
+* 对意外死亡之神[[泽弗斯]]那虚无主义信仰的研究，作者 Sean K Reynolds。
+* 「探索者日志」中的虔诚与危险，作者 Amber E. Scott。
+* 四种新怪物，作者 Benjamin Bruck、Tim Hitchcock、Sean K Reynolds 和 Larry Wilhelm。
+}}
+
+'''冒险之路89：坠星宫殿'''（''Pathfinder #89: Palace of Fallen Stars''）是[[冒险之路]]「钢铁诸神」系列的一部冒险，由 Tim Hitchcock 撰写，配套文章出自 Sean K Reynolds、Benjamin Bruck 和 Larry Wilhelm，小说出自 Amber E. Scott，于 2014 年 12 月 17 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+坠星宫殿 @ 6
+NPC 图集 @ 54
+钢铁诸神宝藏 @ 62
+- 阿佐尼特弹丸（azonite pellets）
+- 光束炮（beam cannons）
+- 植入网（implant mesh）
+- 记忆晶面（memory facets）
+- 星陨铲（Starfall spade）
+星陨城 @ 64
+[[泽弗斯]] @ 70
+探索者日志：荒原低语（5／6） @ 76
+怪物图鉴 @ 82
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Palace of Fallen Stars (adventure)
+|releases=PDF¦PZO9089E¦2014-12¦；Softcover¦PZO9089¦2014-12¦
+}}
+
+[[分类:书目]]

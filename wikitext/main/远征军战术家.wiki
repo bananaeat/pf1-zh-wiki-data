@@ -1,0 +1,10 @@
+{{Trait
+|name=远征军战术家
+|english_name=Crusader Tactician
+|type=地区
+|prerequisites=终焉之墙
+|description=你曾在警醒城的远征军战争大学学习，而且同时精通纹章和攻城战术。你在知识[工程]和知识[贵族]检定获得+1背景加值，而且其中一个技能总是你的[[本职技能]]。
+|source_name=初探内海
+|source=Inner Sea Primer
+|source_url=https://pf1chm.pages.dev/topics/zh90f44086c1.htm
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=精准打击
+|english_name=Precise Strike
+|categories=战斗;团队
+|description=你很擅长进行精确的攻击，不过前提是敌人的注意力被盟友所分散。
+|prerequisites=[[敏捷]] 13，基本攻击加值+1。
+|benefit=每当你和同样拥有该专长的一名盟友[[夹击]]相同的生物时，你们的每次成功近战攻击能够额外造成1d6点精准伤害。这个加值与其他来源的精准伤害叠加，比如偷袭。该伤害不会由于重击而增加。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

@@ -1,0 +1,20 @@
+{{魔法物品
+|name=土石法杖
+|english_name=Staff of Earth and Stone
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Earth and Stone
+|cat=法杖
+|aura=中等变化系
+|cl=11
+|slot=无
+|price=85,800 gp
+|weight=5磅
+|description=杖顶镶有一颗拳头大小的祖母绿，闪耀着如余烬般闷燃的力量。
+
+该法杖可以使用以下法术：
+
+* [[地动术]]（1 发）
+* [[穿墙术]]（1 发）
+|req=[[制造法杖]]、[[地动术]]、[[穿墙术]]
+|cost=42,900 gp
+|source=核心规则书、极限宝具
+}}

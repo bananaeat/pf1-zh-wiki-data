@@ -1,0 +1,10 @@
+<noinclude>{{炼金术师导航}}
+'''高等灵感神药'''（Greater Inspiring Cognatogen, Su）是[[炼金术师]]的[[科研发现]]。
+
+</noinclude>{{Source|进阶职业指南|Advanced Class Guide|inline}}
+
+炼金术师的[[灵感神药]]将给予他在防御等级上+2闪避加值，在反射豁免上+2加值，但在力量和体质上承受-4减值。除此之外，炼金术师获得以下[[调查员天赋]]：奇妙灵感，离奇回忆，发散灵感。炼金术师必须达到12级且拥有灵感神药科研发现或职业能力才能选择本科研发现。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_71.html 原文]）。全部科研发现见 [[:分类:科研发现|分类:科研发现]]。
+
+[[分类:科研发现]]</noinclude>

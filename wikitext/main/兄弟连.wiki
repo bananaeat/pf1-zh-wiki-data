@@ -1,0 +1,9 @@
+{{Trait
+|name=兄弟连
+|english_name=Battlefield Disciple
+|type=战斗
+|description=你已熟习在白热化的战斗中支援战友之道。你在稳定[[濒死]]生物伤势的医疗技能检定中获得+2背景加值。此外，当你在战斗中成功利用帮助他人动作来支援同伴的下次攻击，你提供的攻击加值追加1点。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

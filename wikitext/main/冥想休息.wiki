@@ -1,0 +1,9 @@
+{{Trait
+|name=冥想休息
+|english_name=Meditative Rest
+|type=信念
+|description=当你确定需要充分休息多长时间来准备法术时，你可以忽略休息期间第一次打断，但中断时间不能超过15分钟。若你在这段时间中施法，你不将这些法术计入你醒来后准备法术时的每日法术限制之中。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh484c89782e.htm
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=导能者
+|english_name=Volatile Conduit
+|type=魔法
+|description=你的神秘发现强化了某些法术的能量。每日1次，当你施放一个造成酸蚀、寒冷、电击或火焰伤害的法术时，能够通过[[自由动作]]强化该法术的不稳定能量。如此施为将使对应能量伤害追加1d4点。
+
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

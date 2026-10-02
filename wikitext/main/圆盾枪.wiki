@@ -1,0 +1,19 @@
+{{武器
+|name=圆盾枪
+|english_name=Buckler gun
+|category=火器
+|prof=异种
+|wcat=单手
+|price=750 gp
+|weight=6磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×4
+|range=10尺
+|type=钝击和穿刺
+|misfire=1（5尺）
+|capacity=2
+|groups=火器
+|description=这只[[小圆盾]]的前部装有一把小型双管枪，穿戴着小圆盾时也能用它射击。和[[双管手枪]]不同，你一次只能击发其中一根枪管。你必须卸下小圆盾才能为这把枪装填弹药。圆盾枪的每根枪管的弹药为1颗弹头加1份黑火药，或1发炼金定装弹。由于其笨拙的构造，圆盾枪始终被视为副手武器。这是一件早期火器。
+|source=极限战斗、极限宝具
+}}

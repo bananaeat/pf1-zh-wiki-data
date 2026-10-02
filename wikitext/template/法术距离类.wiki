@@ -1,0 +1,21 @@
+<includeonly>{{#switch: {{#explode:{{#explode:{{{1|}}}|(|0}}|（|0}}|接触|触碰 = 接触|自身|个人|自己 = 自身|近距 = 近距|中距 = 中距|远距|长距 = 远距|无限 = 无限|#default = {{#iferror:{{#expr:{{padleft:|1|{{{1|}}}}}}}||数值}}}}</includeonly><noinclude>
+==说明==
+法术的「距离」取值 -> CSS 类名后缀（<code>r-近距</code> 这样），供样式挂图标。
+
+站上 <code>range</code> 有 148 种写法，但 98% 落进七个桶。先用两层 <code>#explode</code>
+把括号里的公式剥掉（半角 <code>(</code> 和全角 <code>（</code> 都要剥），再 <code>#switch</code>：
+
+* <code>接触</code>、<code>触碰</code> -> 接触
+* <code>自身</code>、<code>个人</code>、<code>自己</code> -> 自身（这三个都是 Personal 的译法）
+* <code>近距</code>、<code>中距</code> -> 各自
+* <code>远距</code>、<code>长距</code> -> 远距
+* <code>无限</code> -> 无限
+* 数字开头的（<code>30尺</code>、<code>0尺</code>）-> 数值
+
+判断「数字开头」用的是 <code>{{#iferror:{{#expr:{{padleft:|1|取值}}}}}}</code>——
+<code>padleft</code> 取首字符，能进 <code>#expr</code> 算的就是数字。
+
+认不出的（<code>见后文</code>、<code>姿势</code>）返回空，类名成了 <code>r-</code>，
+匹配不到任何规则，就是不长图标——这是有意的，「见后文」不是一个距离。
+[[分类:模板]]
+</noinclude>

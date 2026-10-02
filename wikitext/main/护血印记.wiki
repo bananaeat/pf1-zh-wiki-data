@@ -1,0 +1,17 @@
+{{魔法物品
+|name=护血印记
+|english_name=Symbol of Sanguine Protection
+|aon=MagicWondrousDisplay.aspx?FinalName=Symbol of Sanguine Protection
+|cat=奇物
+|aura=微弱变化系
+|cl=6
+|slot=颈部
+|price=17,500 gp
+|weight=1磅
+|description=这枚银色圣印恰好贴在穿戴者的心口，向他的血液灌注神圣之力。穿戴该印记24小时后，穿戴者可以用[[标准动作]]放出自己的血液，对自己造成1d6点伤害，收集一份具有神圣力量的血液，其作用如同一瓶[[圣水]]。穿戴者每天可以这样收集一次血液，但每个小瓶在仅仅1周后就会失去效力。
+
+不死生物和邪恶异界生物若成功对穿戴者使用血液吸取攻击，就会受到4d6点正能量伤害，并且除非通过DC 16的意志豁免，否则会[[恶心]]1d4轮。生物可能从饮用穿戴者血液中获得的任何好处，也都因这枚印记的力量而无效。
+|req=[[制造奇物]]、[[祝福圣水]]
+|cost=8,750 gp
+|source=极限宝具
+}}

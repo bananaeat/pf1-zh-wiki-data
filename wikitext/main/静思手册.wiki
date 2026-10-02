@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=静思手册
+|english_name=Manual of Calm Reflection (Irori)
+|aon=MagicWondrousDisplay.aspx?FinalName=Manual of Calm Reflection (Irori)
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=无
+|price=4,000 gp
+|weight=2磅
+|description=归于[[义洛理]]名下的手册中，有些讲的是体能训练，教读者把身体磨练成战斗的武器；另一些则传授心智练习，用以磨砺头脑、敏锐感官。静思手册是一本共30章的厚书，帮助读者凝聚心神，让他安定于自己的内心。读这本书花费1小时，读完后，读者在当天剩余的时间里，对抗影响心灵法术的豁免检定获得+1加值。如果义洛理是你的守护神，这个加值提高到+2。
+|req=[[制造奇物]]、[[援助术]]
+|cost=2,000 gp
+|source=均衡信念
+}}

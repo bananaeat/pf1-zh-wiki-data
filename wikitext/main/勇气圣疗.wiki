@@ -1,0 +1,10 @@
+{{Feat
+|name=勇气圣疗
+|english_name=Hands of Valor
+|description=你的圣疗不但治愈创伤，还能赋予受疗者以卓越的武勇
+|prerequisites=圣疗职业能力，信仰艾奥梅黛
+|benefit=每天一次，当你使用圣疗能力时，你可以为盟友灌注强大的勇气。目标盟友在攻击检定和对抗恐惧的豁免检定上获得等同于你的魅力调整值（最少+1）的神圣加值，持续一分钟。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

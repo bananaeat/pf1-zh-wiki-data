@@ -1,0 +1,14 @@
+{{魔法物品
+|name=凶猛战纹颜料
+|english_name=War Paint of the Terrible Visage
+|aon=MagicWondrousDisplay.aspx?FinalName=War Paint of the Terrible Visage
+|cat=奇物
+|aura=微弱死灵系
+|cl=1
+|slot=无
+|price=100 gp
+|description=这个顶针大小的陶土容器里装着浓稠湿润的脸部颜料，足够在一个生物的脸上画出任意颜色的条纹和漩涡。涂上之后，佩戴者可以用一个[[迅捷动作]]让颜料自行重新排列成可怖的混杂色彩，使她的容貌在片刻间令人不安而丑恶。佩戴者选择30尺内一个能看到她所涂面容的生物，该生物受到[[惊恐术]]影响（DC 11）。颜料以这种方式使用一次后，就会失去所有魔力，变为普通的脸部颜料。涂上之后，佩戴者有24小时来使用颜料的魔力；否则它会褪去。
+|req=[[制造奇物]]、[[惊恐术]]
+|cost=50 gp
+|source=进阶玩家指南、极限宝具
+}}

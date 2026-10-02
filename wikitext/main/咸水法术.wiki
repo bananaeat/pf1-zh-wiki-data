@@ -1,0 +1,10 @@
+{{Feat
+|name=咸水法术
+|english_name=Brackish Spell
+|categories=超魔
+|description=你可以用海水法球来保护自己。
+|benefit=这个专长只适用于有水描述符的法术。你可以调整这个法术，使其在产生原本效果外还在你周围产生一层薄薄的咸水护膜。你在你完成施法后获得等同于法术环位的DR/穿刺，持续1轮。在这轮结束后，这些水崩塌为一个水坑，效果结束。咸水法术不会占用比法术实际环位更高的法术位。
+|source=EMH
+|source_name=元素大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_1113.html
+}}

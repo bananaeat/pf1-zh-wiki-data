@@ -1,0 +1,9 @@
+{{装备
+|name=岩钉
+|english_name=Piton
+|cat=冒险装备
+|price=1 sp
+|weight=1/2磅
+|description=岩钉是末端有个用于绑住绳子的圈或者环的铁钉。
+|source=核心规则书、极限宝具
+}}

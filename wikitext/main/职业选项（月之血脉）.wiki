@@ -1,0 +1,44 @@
+{{速查导航}}
+
+'''职业选项'''是《[[月之血脉]]》的一章，按「和哪种兽人后裔有关」编排，'''一章横跨七种条目''' ——三条法术、六条[[狂暴之力]]、四条[[盗贼天赋]]、一个先知[[秘示域]]（月亮，带十条启示）、四条[[巫术]]、一条[[奥术发现]]、一条[[科研发现]]、五条魔战士[[奥能]]。
+
+站上早就有的：三条法术、[[奥术发现]] 的[[狼人形态]]、[[奥能]] 上的[[奥能#天生法术战斗 (Natural Spell Combat, Ex)|天生法术战斗]]／[[奥能#法术诡计 (Spell Trickery, Ex)|法术诡计]]／[[奥能#法痕 (Spell-Scars, Ex)|法痕]]。
+
+== 本章条目 ==
+
+* [[破甲手]]（Armor Ripper；狂暴之力，页上早就有）
+* [[猪突猛进]]（Boar's Charge；狂暴之力，页上早就有）
+* [[不死狂暴]]（Deathless Frenzy；狂暴之力，页上早就有）
+* [[破膛长牙]]（Disemboweling Tusks；狂暴之力，页上早就有）
+* [[恨意驱动]]（Fueled by Vengeance；狂暴之力，页上早就有）
+* [[野性直觉]]（Savage Intuition；狂暴之力，页上早就有）
+* [[利用病菌]]（Disease Use；盗贼天赋）
+* [[大众脸(盗贼天赋)|大众脸]]（Face in the Crowd；盗贼天赋）
+* [[快速搜索]]（Quick Scrounge；盗贼天赋）
+* [[清道夫]]（Scavenger；盗贼天赋）
+* [[咒伤]]（Cursed Wound；巫术）
+* [[沼握]]（Swamp's Grasp；巫术）
+* [[兽皮]]（Animal Skin；强力巫术）
+* [[嗜惧]]（Delicious Fright；强力巫术）
+* [[精神炸弹]]（Psychoactive Bomb；科研发现）
+* [[野兽之型]]（Form of the Beast, SU；月亮秘示域的启示）
+* [[月色明眸]]（Eye of the Moon, SU；月亮秘示域的启示）
+* [[爪角之赐]]（Gift of Claw and Horn, SU；月亮秘示域的启示）
+* [[月光斗篷]]（Mantle of Moonlight, SU；月亮秘示域的启示）
+* [[月亮光束]]（Moonbeam, SU；月亮秘示域的启示）
+* [[月光桥梁]]（Moonlight Bridge, SU；月亮秘示域的启示，页上早就有）
+* [[月光手稿]]（Moonlit Script, SU；月亮秘示域的启示）
+* [[原始伙伴]]（Primal Companion, EX；月亮秘示域的启示）
+* [[预知铠甲]]（Prophetic Armor, EX；月亮秘示域的启示）
+* [[月亮之触]]（Touch of the Moon, SU；月亮秘示域的启示）
+* [[月亮秘示域]]（Lunar；[[先知]][[秘示域]]）
+* [[奥能#水之敏捷 (Aquatic Agility, Su)|水之敏捷]]（Aquatic Agility, Su；魔战士[[奥能]]，收在 [[奥能]] 页里）
+* [[奥能#奥术嗅觉 (Arcane Scent, Ex)|奥术嗅觉]]（Arcane Scent, Ex；魔战士[[奥能]]，收在 [[奥能]] 页里）
+* [[诅咒瞪视]]（Accused Glare；法术，页上早就有）
+* [[分享皮肤]]（Share Skin；法术，页上早就有）
+* [[高等分享皮肤]]（Share Skin, Greater；法术，页上早就有）
+* [[狼人形态]]（Werewolf Shape；[[奥术发现]]，页上早就有）
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_810.html 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

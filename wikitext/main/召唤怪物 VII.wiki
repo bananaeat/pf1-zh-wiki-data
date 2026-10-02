@@ -1,0 +1,17 @@
+{{Spell
+|name=召唤怪物 VII
+|english_name=Summon Monster VII
+|aon=Summon Monster 7
+|school=咒法系 (召唤)
+|tags=见后文
+|levels=牧师 7;先知 7;术士 7;法师 7;召唤师 5;女巫 7;奥能师 7;异能者 7;召唤师（掉链） 6
+|action=1轮
+|components=语言;姿势;法器/圣徽（一个小包裹和一个小蜡烛）
+|range=近距
+|effect=一个被召唤的生物
+|duration=1轮/等级 (可解消)
+|save=无
+|sr=否
+|description=该法术的功能如同‘[[召唤怪物]]I’，不过你能够召唤一个来自7环列表的生物、1d3个来自6环列表的同类生物、或者1d4+1个来自更低等环列表且同一种类的生物。
+|source=核心规则书
+}}

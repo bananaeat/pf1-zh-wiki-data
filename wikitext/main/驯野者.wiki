@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Wild pg. 6），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=驯野者
+|english_name=Wild Domesticator
+|type=种族
+|prerequisites=半精灵
+|description=[[驯养动物]]总是你的本职技能。你为训练动物而进行的驯养动物检定获得+2背景加值，并且你能教导一只受过训练的动物比其通常上限多一项技巧。
+|source_name=荒野英雄
+|source=HotW
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Wild%20Domesticator
+}}

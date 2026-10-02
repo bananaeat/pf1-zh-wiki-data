@@ -1,0 +1,14 @@
+{{魔法物品
+|name=先祖血咒戒指
+|english_name=Ring of Ancestral Blood Magic
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Ancestral Blood Magic
+|cat=戒指
+|aura=中等变化系
+|cl=10
+|slot=戒指
+|price=4,000 gp
+|description=当穿戴者处于[[血怒]]状态时，他可以施放一个来自其血脉狂怒者血脉的[[血脉狂怒者#奖励法术|奖励法术]]，而无需消耗法术位。他每天可以这样做3次，且必须消耗数量等于所施放法术环数的血怒轮数。穿戴者必须满足施法的其他所有要求。
+|req=[[坚忍]]、[[法术延时]]、[[锻造戒指]]、制造者必须具有血怒职业能力
+|cost=2,000 gp
+|source=进阶职业指南
+}}

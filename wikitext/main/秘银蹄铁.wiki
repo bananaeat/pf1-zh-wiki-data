@@ -1,0 +1,9 @@
+{{装备
+|name=秘银蹄铁
+|english_name=Mithral horseshoes
+|cat=动物装备
+|price=550 gp
+|weight=4磅
+|description=这四片薄蹄铁能像钢制蹄铁一样保护马的蹄子，让马能够放心地驰骋，但秘银蹄铁远比钢制的轻。穿着秘银蹄铁的马的蹄击攻击在克服伤害减免时视为银制。
+|source=冒险者指南
+}}

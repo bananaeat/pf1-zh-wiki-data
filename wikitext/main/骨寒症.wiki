@@ -1,0 +1,13 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{危害
+|name=骨寒症
+|english_name=Bonechill
+|kind=疾病
+|type=伤口
+|save=强韧 DC 16
+|onset=1天
+|frequency=1次/天
+|effect=1d4点敏捷伤害，并且因处于寒冷环境而受到的所有非致命伤害都变为致命伤害（但仍然可能引起失温）
+|cure=连续2次豁免成功
+|source=冒险之路51：饥饿风暴
+}}

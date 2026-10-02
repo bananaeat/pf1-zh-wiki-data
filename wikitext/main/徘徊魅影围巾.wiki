@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=徘徊魅影围巾
+|english_name=Shawl of the Lingering Phantom
+|aon=MagicWondrousDisplay.aspx?FinalName=Shawl of the Lingering Phantom
+|cat=奇物
+|aura=微弱预言系
+|cl=5
+|slot=头部
+|price=3,200 gp
+|description=这条幽灵白的围巾半透明，随着穿戴者的每个动作优雅地飘动。如果穿戴者拥有共享意识职业能力（《异能冒险》第73页），那么当她的[[魅影]]以灵质形态或虚体形态显现时，她会在由魅影的情感羁绊所决定的两项技能上都获得[[技能专攻]]专长。当魅影被限制在她的意识中时，她改为在这两项技能的技能检定上获得+4才能加值。
+|req=[[制造奇物]]、[[借技术]]，制造者必须是拥有共享意识职业能力的[[唤魂师]]
+|cost=1,600 gp
+|source=闹鬼英雄手册
+}}

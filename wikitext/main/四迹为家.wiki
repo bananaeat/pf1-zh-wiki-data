@@ -1,0 +1,9 @@
+{{Trait
+|name=四迹为家
+|english_name=Ever Home
+|type=种族
+|prerequisites=[[人类]]（迦伦德人）
+|description=你曾居住于伽伦德北海岸线的诸多城市，每离开一处都会携走一个小小的信物以志纪念。你在知识(地理)和[[巧手]]检定上获得+1背景加值。
+|source_name=格拉里昂的人类
+|source_url=https://pf1chm.pages.dev/topics/page_1581.html
+}}

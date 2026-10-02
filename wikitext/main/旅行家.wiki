@@ -1,0 +1,10 @@
+{{Trait
+|name=旅行家
+|english_name=World Traveler
+|type=种族
+|prerequisites=[[人类]]
+|description=你的家庭以漫游世界为乐。你目睹了种类难以计数的社群和文化，并学会对世界的万般多样性表示敬意。选择以下一项技能：交涉、知识(本地)或察言观色。你在该技能上获得+1背景加值，并且总能将其视为你的[[本职技能]]。
+|source_name=种族背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

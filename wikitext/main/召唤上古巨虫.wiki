@@ -1,0 +1,15 @@
+{{Spell
+|name=召唤上古巨虫
+|english_name=Summon elder worm
+|school=咒法系 (召唤)
+|levels=德鲁伊 9
+|action=1轮
+|components=语言;姿势
+|range=近距
+|duration=1轮/等级 （可解消）
+|save=无
+|sr=否
+|effect=一个被召唤的生物
+|description=该法术的功能如同八级自然盟友召唤术一般，不过你会召唤出一只带有简单模板中的巨大化模板的紫虫。
+|source=极限魔法
+}}

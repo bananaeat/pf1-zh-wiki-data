@@ -1,0 +1,10 @@
+{{Feat
+|name=持节士披甲训练
+|english_name=Signifer Armor Training
+|pfs=否
+|description=你已掌握穿戴持节士战甲施法的秘诀。
+|prerequisites=[[披甲奥术熟稔]]，[[披甲奥术训练]]，[[擅长重型盔甲]]，施法者等级7，必须宣誓效忠单一地狱骑士团
+|benefit=你可以一个[[迅捷动作]]使本轮施放的所有法术因穿戴盔甲导致的奥术失败几率降低30%。只有当你穿着名称中带有[[地狱骑士]]的盔甲时才能使用该能力。该效果取代[[披甲奥术熟稔]]、[[披甲奥术训练]]以及类似专长与效果而非叠加。
+|source_name=地狱骑士之道
+|source_url=https://pf1chm.pages.dev/topics/zh79983be4c7.htm
+}}

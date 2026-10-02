@@ -1,0 +1,7 @@
+{{物品
+|name=审判官
+|english_name=The Inquisitor
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。此卡令抽卡者获得一次性能力使另一个生物真诚的回答一个问题。此卡并不会令抽卡者或生物获得任何特殊内幕，所以如果被问话者也被蒙骗，其答案也是虚假的。如果被问话者真的不知道，此卡能力被浪费。抽牌者可以决定何时使用该能力，但仅限一次。
+}}

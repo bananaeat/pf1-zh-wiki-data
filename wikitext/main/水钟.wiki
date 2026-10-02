@@ -1,0 +1,9 @@
+{{装备
+|name=水钟
+|english_name=Water clock
+|cat=冒险装备
+|price=1,000 gp
+|weight=200磅
+|description=这个庞大而笨重的装置自上次设定以来，每天的计时误差不超过半小时。它需要一个水源，并且必须保持静止，因为它是靠水滴受控的流动来计时的。
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,24 @@
+{{魔法物品
+|name=幻术法杖
+|english_name=Staff of Illusion
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Illusion
+|cat=法杖
+|aura=强烈幻术系
+|cl=13
+|slot=无
+|price=82,000 gp
+|weight=5磅
+|description=这根法杖由乌木或其他深色木材制成，雕成精巧的扭曲、凹槽或螺旋形状。
+
+该法杖可以使用以下法术：
+
+* [[易容术]]（1 发）
+* [[强效幻影]]（1 发）
+* [[镜影术]]（1 发）
+* [[长驻幻影]]（2 发）
+* [[虹彩图纹]]（2 发）
+* [[假象术]]（3 发）
+|req=[[制造法杖]]、[[易容术]]、[[强效幻影]]、[[镜影术]]、[[假象术]]、[[长驻幻影]]、[[虹彩图纹]]
+|cost=41,000 gp
+|source=核心规则书、极限宝具
+}}

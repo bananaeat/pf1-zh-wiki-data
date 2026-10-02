@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=防护灵光|en=Protective Aura|type=Su|domain=善良领域|sub=福使子域 (Agathion)|sub_name=福使子域|source=进阶玩家指南|text=到了8级，你能用标准动作发动30尺的防护灵光，盟友的AC获得+2偏斜加值且豁免获得+2抗力加值，并且获得[[防护邪恶]]法术的效果（AC豁免不叠加）。你每天能使用的轮数等于牧师等级，不必连续。此能力取代[[善良领域#神圣之枪 (Holy Lance, Su)|神圣之枪]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

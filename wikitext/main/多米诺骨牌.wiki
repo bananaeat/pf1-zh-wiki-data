@@ -1,0 +1,9 @@
+{{装备
+|name=多米诺骨牌
+|english_name=Dominos
+|cat=娱乐
+|price=1 sp–25 gp
+|weight=1磅
+|description=这个木盒内装有28块骨牌，每块骨牌的两端各有数字或点数。一套普通的多米诺骨牌用木头或骨头制成，更昂贵的套装也可能用象牙、石材或金属制成。
+|source=极限宝具
+}}

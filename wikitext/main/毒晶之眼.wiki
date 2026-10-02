@@ -1,0 +1,14 @@
+{{魔法物品
+|name=毒晶之眼
+|english_name=Eye of Crystalized Venom
+|aon=MagicWondrousDisplay.aspx?FinalName=Eye of Crystalized Venom
+|cat=奇物
+|aura=微弱预言系
+|cl=3
+|slot=颈部
+|price=2,250 gp
+|description=这条厚实光滑的皮革项圈由轻薄却坚固的小牛皮片制成，正中悬着一颗精致的绿色宝石，嵌在华丽的金质底座里。当毒药或毒素出现在穿戴者10尺内时，宝石会发光。此外，穿戴者对抗毒药的豁免检定失败后，可以用一个[[迅捷动作]]把宝石从项圈上摘下并捏碎，这样她便能对该毒药重投一次豁免检定，并获得+2能力加值。穿戴者必须接受第二次掷骰的结果，即使更差。启动这项能力会毁掉项圈。
+|req=[[制造奇物]]、[[侦测毒性]]、[[减缓毒发]]
+|cost=1,125 gp
+|source=药剂与毒药
+}}

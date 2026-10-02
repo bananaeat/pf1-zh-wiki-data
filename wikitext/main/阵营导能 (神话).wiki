@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[阵营导能]] 的神话版本。</small></div>
+{{Feat
+|name=阵营导能
+|english_name=Alignment Channel
+|categories=神话
+|description=你的信仰之力会伤害所有遵循着敌对阵营的生物。
+|prerequisites=[[阵营导能]]
+|benefit=当你进行[[阵营导能]]时，你的[[引导能量]]能够影响任何具有你所选择的阵营的生物（不光是异界生物，也不仅仅是那些具有阵营亚种的生物），但是只对这些目标造成一半的治疗或伤害。或者，你也能够在使用阵营导能时花费2次神话之力，以此来影响所有你所选择的阵营的目标，就如同他们具有与之相符的阵营亚种一般。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

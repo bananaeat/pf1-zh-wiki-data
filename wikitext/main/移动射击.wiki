@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[移动射击 (神话)]]。</small></div>
+{{Feat
+|name=移动射击
+|english_name=Shot on the Run
+|categories=战斗
+|description=你能够移动，射击一件远程武器，然后在你的敌人能够反应之前再次移动。
+|prerequisites=敏捷13，[[闪避]]，[[灵活移动]]，[[近距射击]]，基本攻击加值+4。
+|benefit=以一个[[整轮动作]]，你能够移动至多等同于你速度的距离，并在移动的任意时点做一次单独的远程攻击。
+|normal=你不能在使用远程武器进行攻击之前和之后都移动。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[牵制射击]]（1 个条目）

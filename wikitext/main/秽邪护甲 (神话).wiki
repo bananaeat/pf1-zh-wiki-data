@@ -1,0 +1,13 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[秽邪护甲]] 的神话版本。</small></div>
+{{Spell
+|name=秽邪护甲
+|english_name=Defile Armor
+|school=防护系
+|tags=邪恶
+|levels=反圣武士 3;审判者 4
+|description=在佩戴目标护甲时，你获得DR 5/善良。当你使用自身的审判或制裁能力时，DR增加至DR 10/善良。
+
+强化（3阶）：若你花费2次神话之力，当你使用自身的审判或制裁能力时，你的AC会得到一定量的亵渎加值，数值等同于你的阶层的一半。
+|source=神话冒险
+}}
+[[分类:神话法术]]

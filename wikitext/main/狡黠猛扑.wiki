@@ -1,0 +1,12 @@
+{{Feat
+|name=狡黠猛扑
+|english_name=Vulpine Pounce
+|aliases=狐冲
+|categories=战斗
+|description=你可以在同一轮中冲锋变形并对你的对手发动[[通用怪物规则#猛扑|猛扑]]
+|prerequisites=[[迅捷狐妖变身者]]，基础攻击加值+10，[[狐妖]]
+|benefit=当你在同一轮中变形成[[狐妖]]形态并使用冲锋动作，你可以对你的对手进行全回合攻击。
+|source=BotB、DEP
+|source_name=野兽血脉、初探龙国
+|source_url=https://pf1chm.pages.dev/topics/page_699.html
+}}

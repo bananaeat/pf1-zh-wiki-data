@@ -1,0 +1,13 @@
+{{Feat
+|name=触力旁通
+|english_name=Redistributed Might
+|categories=战斗
+|pfs=否
+|description=你对自己身躯的控制炉火纯青，以至于可以将力量迸发为灵活度。
+|prerequisites=体质或感知13，Enhanced Morale，异种武器擅长（奥多里决斗剑），钢铁意志，BAB+4
+|benefit=当一个效果能给你的力量属性带来增强加值或士气加值时（如牛之力量或歌者的激发狂暴），你可以将该加值应用到敏捷上。你必须在得到这个加值的一开始做出决定，一旦决定不能更改。加值类型不变。
+|extra=（译注：AoN 原文的先决条件作「Enhanced Morale」，疑为笔误——这个专长从未存在过。请 DM 判断此专长是否可用；如果可用，请删除这个先决条件。）
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/zh8a31961fdd.htm
+}}

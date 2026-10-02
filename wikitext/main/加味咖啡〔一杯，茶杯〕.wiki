@@ -1,0 +1,9 @@
+{{物品
+|name=加味咖啡〔一杯，茶杯〕
+|english_name=Kahve (cup)
+|category=冒险装备
+|price=2 CP
+|weight=1/2磅。
+|description=这种咖啡在喝的时候会加很多牛奶、糖甚至是香料来冲淡咖啡本身的苦味。加味咖啡整天都可以喝，在自家和城镇中的咖啡馆都可以。壶底的咖啡渣通常会留下来占卜凶吉。
+|source_name=冒险者的军械库
+}}

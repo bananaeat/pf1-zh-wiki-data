@@ -1,0 +1,9 @@
+{{Trait
+|name=感灵使
+|english_name=Spirit Sense
+|type=信念
+|description=你与灵感世界和谐一统，想要[[突袭]]你难上加难。当避免受到突袭、以及侦测[[隐形]]或[[虚体]]生物时，你的察觉检定获得+2背景加值。
+|source_name=信念背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

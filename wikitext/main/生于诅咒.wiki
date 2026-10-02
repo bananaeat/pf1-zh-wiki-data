@@ -1,0 +1,9 @@
+{{Trait
+|name=生于诅咒
+|english_name=Born Damned
+|type=种族
+|prerequisites=[[魔裔]]
+|description=玷污你灵魂的那股内在的亵渎之力，有时也稍微对你有点用处。当你对抗诅咒以及产生诅咒的魔法效果时，豁免检定获得+2背景加值。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_834.html
+}}

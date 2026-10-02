@@ -1,0 +1,15 @@
+{{魔法物品
+|name=武勇肩章
+|english_name=Sash of the War Champion
+|aon=MagicWondrousDisplay.aspx?FinalName=Sash of the War Champion
+|cat=奇物
+|aura=中等防护系
+|cl=9
+|slot=胸部
+|price=4,000 gp
+|weight=1磅
+|description=这条亮红色的布条上绣着欢呼的人群向战车抛掷花环的图案，从穿戴者的肩头斜跨过胸前，垂至对侧臀部。穿戴者在决定盔甲训练和英勇职业能力时，将自己的[[战士]]等级视为比实际高4级。
+|req=[[制造奇物]]、[[猫之优雅]]、[[移除恐惧]]
+|cost=2,000 gp
+|source=进阶玩家指南、极限宝具
+}}

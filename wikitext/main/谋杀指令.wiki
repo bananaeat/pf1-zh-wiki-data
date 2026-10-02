@@ -1,0 +1,22 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[谋杀指令 (神话)]]。</small></div>
+{{Spell
+|name=谋杀指令
+|english_name=Murderous command
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|domains=仇恨子域 1
+|levels=催眠师 1;先知 1;反圣武士 1;异能者 1;战斗祭司 1;牧师 1;秘学士 1;通灵者 1
+|action=标准动作
+|components=语言
+|range=近距
+|target=一名活物
+|duration=1轮
+|save=意志，通过则无效
+|sr=是
+|description=你使目标产生了一种想要杀死身边最近的盟友的强烈冲动，目标必须在力所能及的范围内服从它。
+
+目标在下次行动时会使用近战武器或天生武器攻击最近的盟友。如果有必要，它将会移动或冲锋到盟友身边以完成这次攻击。
+
+如果目标在下次行动时够不到最近的盟友，那么它将会在这轮中尽可能的靠近这个盟友。
+|source=极限魔法
+}}

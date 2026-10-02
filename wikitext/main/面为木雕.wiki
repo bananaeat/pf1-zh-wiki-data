@@ -1,0 +1,10 @@
+{{Feat
+|name=面为木雕
+|english_name=Expressionless
+|categories=种族
+|description=其他种族很难理解你的木讷特征。
+|prerequisites=汲魂木
+|benefit=非汲魂木种族很难理解缺乏感情的你。当你对其他种族进行[[唬骗]]时，检定获得+2加值。此外，其他种族对你的交涉和察言观色检定受到-2减值。
+|source_name=格拉利昂的英雄
+|source_url=https://pf1chm.pages.dev/topics/zhe4b6469482.htm
+}}

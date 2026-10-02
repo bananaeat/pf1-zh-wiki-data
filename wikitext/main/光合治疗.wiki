@@ -1,0 +1,11 @@
+{{Feat
+|name=光合治疗
+|english_name=Photosynthetic Healing
+|description=你可以利用阳光治愈自己。
+|prerequisites=体质15，变身能力，莱西亚种
+|benefit=你能够暂时地吸收太阳光用于治疗你的伤口。当你变身为植物形态时，只要你位于明亮的自然阳光光照环境下，你就可每日一次地用一个自由动作激活此能力以在接下来等同于你的HD数的轮数里获得1快速治疗。当你以植物形态在明亮的自然阳光下休息时，你恢复的生命值和属性伤害是正常的两倍。
+|extra=译注：效果的最后一句民间汉化漏译，按 AoN 补上；先决条件按 AoN 改为莱西亚种（不限藤蔓莱西）。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/page_1456.html
+}}

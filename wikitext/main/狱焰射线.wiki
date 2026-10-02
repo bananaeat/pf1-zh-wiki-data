@@ -1,0 +1,12 @@
+<noinclude>{{奥能师导航}}
+'''狱焰射线'''（Hellfire Ray, Su）是[[奥能师]]的[[奥能技艺|奥能技艺]]。
+
+</noinclude>{{Source|位面旅者手册|Plane-Hopper's Handbook|inline}}
+
+当奥能师使用[[奥能技艺#烈焰之弧|烈焰之弧]]技艺时，奥能师可从奥能源泉中额外花费1点奥能点从地狱中汲取火焰，一半的伤害将转换为不受火焰抗性影响的秽邪力量。此外受到狱焰射线伤害的善良生物还会恶心1d4轮，意志豁免通过则不会恶心。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_96.html 原文]），按 AoN 核对过。全部奥能技艺见 [[奥能技艺]]。
+
+[[分类:奥能技艺]]
+
+{{职业}}</noinclude>

@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[变异退化]] 的神话版本。</small></div>
+{{Spell
+|name=变异退化
+|english_name=Devolution
+|school=变化系
+|levels=召唤师 3;召唤师（掉链） 3;奥能师 3;异能者 3;术士 3;法师 3;红螳螂杀手 3
+|description=法术的豁免变为‘意志，通过则部分生效’。若目标豁免成功，幻灵就会失去1项进化（随机选择）。
+|source=神话冒险
+}}
+[[分类:神话法术]]

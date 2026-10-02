@@ -1,0 +1,46 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=剑鱼
+|english_name=Swordfish
+|cr=2
+|xp=600
+|alignment=绝对中立
+|size=大型
+|type=动物
+|subtypes=水栖
+|init=+2
+|senses=昏暗视觉；察觉 +10
+|description=这条修长流线的大鱼背上竖着一片高傲的鳍，头部向前凸成矛一般的尖端。
+|ac=14，接触 11，措手不及 12（+3 护甲，+2 敏捷，–1 体型）
+|hp=22（4d8+4）
+|fort=+5
+|ref=+6
+|will=+2
+|speed=游泳 70 尺
+|melee=抵撞 +5（1d8+3）
+|space=10 尺
+|reach=10 尺
+|special_attacks=穿刺冲刺
+|str=15
+|dex=14
+|con=13
+|int=1
+|wis=12
+|cha=2
+|bab=+3
+|cmb=+6
+|cmd=18
+|feats=[[技能专攻]]（游泳）;[[武器专攻]]（抵撞）
+|skills=[[察觉]] +10;[[游泳]] +18
+|racial_mods=+4 察觉
+|environment=任意海洋
+|organization=单独或成对
+|treasure=无
+|special_abilities={{怪物能力|穿刺冲刺|Ex|剑鱼在至少游动 10 尺之后（包括冲锋时）使用抵撞攻击，其伤害掷骰上加上两倍的力量加值。}}
+|source=冒险之路56：热病海劫掠者
+|lore=
+剑鱼是海中速度最快、最高效的掠食者之一，体长可达近 15 尺，体重可达 1,500 磅。
+}}
+
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Swordfish|2=Swordfish}}

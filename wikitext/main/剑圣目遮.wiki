@@ -1,0 +1,14 @@
+{{魔法物品
+|name=剑圣目遮
+|english_name=Swordmaster's Blindfold
+|aon=MagicWondrousDisplay.aspx?FinalName=Swordmaster's Blindfold
+|cat=奇物
+|aura=中等变化系
+|cl=9
+|slot=眼部
+|price=80,000 gp
+|description=这条黑色丝带能让穿戴者在有限的范围内获得惊人的感知。有些人认为，这类物品是为了让平庸的剑圣拥有技艺高超的错觉而制作的。当穿戴者把目遮蒙在眼上时，她会变得[[目盲]]，但能在自己近战武器的触及范围内获得[[盲视]]（《怪物图鉴》第298页）；如果穿戴者没有持用近战武器，则范围为5尺。此外，穿戴者处于持续的[[弱点感知]]法术（《极限战斗》第236页）效果之下，但仅限于进行近战攻击时。
+|req=[[制造奇物]]、[[目盲/耳聋术]]、[[弱点感知]]
+|cost=40,000 gp
+|source=极限宝具
+}}

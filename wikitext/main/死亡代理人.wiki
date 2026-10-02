@@ -1,0 +1,9 @@
+{{Trait
+|name=死亡代理人
+|english_name=Death's Deputy
+|type=种族
+|prerequisites=[[魔裔]]（残忍族裔）
+|description=当你把敌人送入鬼门关时，你通常会一脚将其尸体踢过门槛。你对任何并非由于该背景元素的效果而使生命降至负值的生物进行攻击时，伤害获得+2背景加值。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_832.html
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=狂暴杀戮
+|english_name=Raging Deathblow
+|description=你每一次的击杀都会赋予你活力，进一步增强你的狂怒。
+|prerequisites=【大狂暴】职业特性。
+|benefit=狂暴时，每当你将一个CR不低于你的角色等级的敌人的生命值减少到-1或更低，你获得1轮额外每日狂暴时间。如果这次攻击是重击，你会再多获得1轮额外每日狂暴时间。当你进行休息以恢复每日狂暴使用时间时，本专长给予的额外狂暴轮数将会丢失。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

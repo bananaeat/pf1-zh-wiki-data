@@ -1,0 +1,1 @@
+<includeonly>*[[{{{页面名称}}}|{{{按钮文字}}}]]</includeonly>

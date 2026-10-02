@@ -1,0 +1,9 @@
+{{Feat
+|name=极端情绪波动
+|english_name=Extreme Mood Swings
+|pfs=否
+|description=你有时会被自己的情绪左右。
+|benefit=你获得的每项士气加值+1。但在对抗情绪和恐惧效果的豁免有-1罚值。当你醉酒（或更糟糕）时，此减值翻倍，但你获得的每项士气加值改为提升2点。
+|source_name=内海酒馆
+|source_url=https://pf1chm.pages.dev/topics/zh5b451adebe.htm
+}}

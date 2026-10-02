@@ -1,0 +1,13 @@
+<noinclude>{{速查导航|here=规则}}
+{{AI翻译|本条 CHM 汉化没有译文，由 AI 照 AoN 英文原文译出，未经人工校对。}}
+'''神使亚种'''（Herald）是一种怪物[[生物类型与怪物亚种#生物亚种|亚种]]。
+</noinclude><includeonly><div class="lang"><span id="神使"></span><span id="神使亚种"></span><div class="lang-h"><b>[[神使亚种|神使亚种]]</b><i>Herald</i></div><div class="lang-d">{{AI翻译|nocat=1|本条由 AI 照 AoN 英文原文译出，未经人工校对。}}</includeonly>
+神使是各自神祇的独特代表，有时还具有特定的异界生物亚种，例如[[魔鬼亚种|魔鬼]]或[[渡魂使亚种|渡魂使]]，从而获得额外能力。神使具有下列特性。
+
+* '''时刻武装（Always Armed，Su）'''：神使可以用一个标准动作召来它的招牌武器。如果神使没有招牌武器，它可以用一个标准动作召来任何一件非魔法武器（包括{{材料|精金}}武器等）；该武器一旦离开神使的手就会消失。
+* '''使节（Emissary，Ex）'''：信徒总是可以用[[高等异界盟友]]或[[异界之门]]召唤神使，无视这些法术的限制，即使神使并不是异界生物。
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=MonsterSubtypes.aspx?ItemName=Herald|2=Herald}}
+
+[[分类:怪物亚种]]</noinclude>

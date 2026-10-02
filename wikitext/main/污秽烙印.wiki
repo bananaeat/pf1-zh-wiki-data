@@ -1,0 +1,11 @@
+{{Trait
+|name=污秽烙印
+|english_name=Foul Brand
+|type=缺陷
+|pfs=否
+|aliases=邪恶烙印
+|description=你的血肉上烙有一个邪恶神祇的印记。
+|benefit=若此印记在你的手，你在[[解除装置]]、[[易容]]和[[巧手]]检定承受-1罚值。若此印记在你的脸，你在[[唬骗]]、交涉和易容检定承受-2罚值。此烙印不视为圣徽，不能充当施法所需的法器。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

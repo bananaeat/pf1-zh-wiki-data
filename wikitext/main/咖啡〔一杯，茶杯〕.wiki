@@ -1,0 +1,9 @@
+{{物品
+|name=咖啡〔一杯，茶杯〕
+|english_name=Coffee (cup)
+|category=冒险装备
+|price=1 CP
+|weight=1/2磅。
+|description=将烘烤碾碎的咖啡豆加水煮滚就成了。在伽伦德（Garund），咖啡是许多文化的共同组成部分。一种被称之为萨迦瓦红咖（Sargavan Red）的特浓咖啡，其强劲的效果足以令一名[[疲乏]]的生物，在1小时内将其所受到的减值从-2降为-1。
+|source_name=冒险者的军械库
+}}

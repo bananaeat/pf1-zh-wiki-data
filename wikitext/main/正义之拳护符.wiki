@@ -1,0 +1,15 @@
+{{魔法物品
+|name=正义之拳护符
+|english_name=Righteous Fist Amulet
+|aon=MagicWondrousDisplay.aspx?FinalName=Righteous Fist Amulet
+|cat=奇物
+|aura=微弱变化系
+|cl=4
+|slot=颈部
+|price=4,000 gp
+|weight=1/2磅
+|description=宗教教派用这种金色护符协助信徒抓捕逃犯，或在自卫时避免对潜在的皈依者造成不必要的伤害。穿戴者在使用其用于惩戒的神圣力量（例如牧师的[[毁灭领域|毁灭打击]]、审判者的[[审判者#制裁|制裁]]审判，或圣武士的[[圣武士#制裁邪恶 (Smite Evil, Su)|制裁邪恶]]）期间，护符使她在近战中能以[[徒手攻击]]进行打击，如同拥有[[精通徒手打击]]专长一般。
+|req=[[制造奇物]]、[[精通徒手打击]]、[[石拳术]]
+|cost=2,000 gp
+|source=极限宝具
+}}

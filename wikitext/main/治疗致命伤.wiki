@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[治疗致命伤 (神话)]]。</small></div>
+{{Spell
+|name=治疗致命伤
+|english_name=Cure Critical Wounds
+|school=咒法系 (医疗)
+|levels=先知 4;吟游诗人 4;唤魂师 4;审判者 4;导师 4;战斗祭司 4;歌者 4;炼金术师 4;牧师 4;秘学士 4;萨满 4;调查员 4;女巫 5;德鲁伊 5;猎人 5
+|domains=医疗领域 4
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的生物
+|duration=立即
+|save=意志，通过则减半（无害）
+|sr=是（无害）; 见后文
+|description=该法术的功能如同[[治疗轻伤]]一般，不过它能治疗 {4d8+CL (最高+20)} 点伤害。
+|source=核心规则书
+}}

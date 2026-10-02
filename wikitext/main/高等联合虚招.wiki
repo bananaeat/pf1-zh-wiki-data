@@ -1,0 +1,12 @@
+{{Feat
+|name=高等联合虚招
+|english_name=Improved Feint Partner
+|aliases=精通联合虚招
+|categories=战斗;团队
+|description=对于盟友诡计和[[战技]]的知识让你可以透过他的[[虚招]]得到更多的好处。
+|prerequisites=[[唬骗]]1级，[[战斗反射]]，[[联合虚招]]，基本攻击加值+6。
+|benefit=当拥有此专长的盟友成功使用虚招时，中招的敌人引发你的一次[[借机攻击]]。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

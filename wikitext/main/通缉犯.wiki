@@ -1,0 +1,10 @@
+{{Trait
+|name=通缉犯
+|english_name=Rapscallion
+|type=种族
+|prerequisites=[[侏儒]]
+|description=你一辈子都在挑战法律权威，并以此为傲。然而尽管作恶多端，你却从未落网。你的脱逃和[[先攻]]检定获得+1背景加值。
+|source_name=种族背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=灵魂打击
+|english_name=Soulwrecking Strike
+|categories=战斗
+|description=你的攻击如此强大，甚至可以伤害到你的目标和[[附身]]它身体的灵魂
+|prerequisites=[[要害打击]]，BAB+6
+|benefit=每当你对一个被附身的生物使用攻击动作时，该生物和任何附身于它的存在都会受到你这次攻击的伤害（伤害量包括你的武器伤害骰、力量调整值、武器特殊能力等等）。附身的生物可以进行一次意志豁免（DC=10+1/2你的基础攻击加值+你的魅力调整值）将伤害减半。伤害减免对这种攻击照常适用，但[[虚体]]生物会从这种攻击中受到全额伤害，就好像它们有实体一样。
+|source=HHH
+|source_name=闹鬼英雄手册
+|source_url=https://pf1chm.pages.dev/topics/zh546b3e4ae1.htm
+}}

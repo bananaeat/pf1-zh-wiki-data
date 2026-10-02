@@ -1,0 +1,9 @@
+{{Trait
+|name=振奋人心
+|english_name=Inspiring Leader
+|type=宗教
+|prerequisites=信仰[[阿普苏]]
+|description=你试图模仿你的神明来鞭策同伴一起成就大事。若你使用的法术给予同盟士气加值，在这个法术上你的施法者等级+1。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

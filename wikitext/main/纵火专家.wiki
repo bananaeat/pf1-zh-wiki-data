@@ -1,0 +1,9 @@
+{{Trait
+|name=纵火专家
+|english_name=Pyromancer
+|type=种族
+|prerequisites=[[神裔]]（琥珀之民）
+|description=你特别擅长那些基于火焰的法术。你在施放有火焰描述符的法术时的伤害获得+1背景加值。该背景元素对不造成伤害的法术没有影响。
+|source_name=天界血脉
+|source_url=https://pf1chm.pages.dev/topics/page_828.html
+}}

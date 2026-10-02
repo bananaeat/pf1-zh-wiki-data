@@ -1,0 +1,7 @@
+{{物品
+|name=笑话
+|english_name=The Joke
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。抽卡后抽卡者选择一个同伴。GM再抽三张卡并展示（GM可以选择不解释卡的效果）。同伴先选一张获得其效果，抽卡者再从剩下的两张中选一张获得其效果，最后的一张被丢弃。
+}}

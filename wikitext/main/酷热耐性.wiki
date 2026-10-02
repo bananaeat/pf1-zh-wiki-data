@@ -1,0 +1,10 @@
+{{Feat
+|name=酷热耐性
+|english_name=Torrid Tolerance
+|description=你喜欢炎热的气候，且赤道的高温不会削弱你的体力。
+|prerequisites=沙漠居民或丛林求生者。
+|benefit=你可将炎热（hot）天气（Core Rulebook第444页）视为降低一级；倘若你从另外的专长中获得了类似能力的话（比如，[[沙漠居民]]），其收益将会叠加且你可将高温状态视为降低两级。你穿戴盔甲时，在炎热气候中的体质检定无需承受罚值。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

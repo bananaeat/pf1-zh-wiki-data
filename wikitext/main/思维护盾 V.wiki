@@ -1,0 +1,14 @@
+{{Spell
+|name=思维护盾 V
+|english_name=Thought shield v
+|school=防护系
+|levels=异能者 6
+|action=直觉动作
+|components=语言
+|range=个人
+|target=你
+|duration=1轮/等级；见后文
+|sr=否
+|description=该法术的功能如同[[思维护盾 IV]]一般，差异如上所述。当你在对抗影响心灵效果的意志豁免中失败时，该法术会立即结束。该法术可以被降阶施法。
+|source=异能冒险
+}}

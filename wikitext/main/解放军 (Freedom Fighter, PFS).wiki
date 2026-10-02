@@ -1,0 +1,10 @@
+{{Trait
+|name=解放军
+|english_name=Freedom Fighter (PFS)
+|type=派系
+|aliases=自由战士
+|description=你的家族长期进行反抗暴政的活动，你很小的时候就学会如何进行游击战。你的隐匿检定和在突袭轮中的攻击掷骰获得+1背景加值。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_416.html
+}}

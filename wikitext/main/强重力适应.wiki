@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Planar Adventures pg. 29），民间汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=强重力适应
+|english_name=Heavy Gravity Acclimation
+|description=在重力强大的地方，你的肌肉加倍卖力地工作。
+|prerequisites=力量17或[[坚忍]]。
+|benefit=你身处强重力位面时，不会承受通常的减值。经GM裁量，这个效果也可以适用于物质位面上的某些环境，例如重力较强的行星。此外，在决定负载能力时，你的力量值视为高4点。
+|source=PA
+|source_name=位面冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Heavy%20Gravity%20Acclimation
+}}

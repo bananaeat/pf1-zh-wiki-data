@@ -1,0 +1,9 @@
+{{Feat
+|name=迷宫专家
+|english_name=Maze Expert
+|prerequisites=[[技能专攻]](生存)，生存5级。
+|benefit=在避免迷路以及判断是否已经迷路时，你在生存检定上获得+4加值。你在逃离迷宫时的智力检定获得+4加值，包括逃离[[迷宫术]]。每天一次，你可以靠直觉判断从岔路口(或其他交叉路口)走一个特定的方向是安全还是危险。它的作用类似于[[占卜术]]，不同的是它依据在某一特定方向上的旅行得到吉或凶。
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh03ef2e8763.htm
+}}

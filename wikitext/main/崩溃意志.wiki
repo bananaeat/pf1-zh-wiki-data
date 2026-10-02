@@ -1,0 +1,10 @@
+{{Feat
+|name=崩溃意志
+|english_name=Shatter Resolve
+|description=你制造的负能量冲击不但造成伤害，而且还带来绝望
+|prerequisites=引导负能量职业能力，信仰厄加图娅
+|benefit=当你使用引导负能量能力伤害一个生物时，你将同时在他心中植入恐惧。受到你的引导负能量能力影响的生物如果未能成功通过意志检定，那么他们同时会[[战栗]]，持续相当于你的引导骰数的轮数（引导负能量1d6战栗1轮，2d6战栗2轮，以此类推）。
+|source=FoP/FoB/FoC、ISG
+|source_name=纯善／平衡／堕落信念、内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}

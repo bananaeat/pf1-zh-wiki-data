@@ -1,0 +1,15 @@
+{{魔法物品
+|name=打手臂章
+|english_name=Armbands of the Brawler
+|aon=MagicWondrousDisplay.aspx?FinalName=Armbands of the Brawler
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=腕部
+|price=500 gp
+|weight=1磅
+|description=这些带着伤痕、磨损严重的臂章显然饱经粗暴的使用；它们由粗糙的皮革制成，以厚实的皮带扣紧。它们为穿戴者的[[擒抱]]检定和挣脱擒抱的检定提供+1表现加值。
+|req=[[制造奇物]]、[[牛之力量]]
+|cost=250 gp
+|source=极限宝具
+}}

@@ -1,0 +1,9 @@
+{{装备
+|name=手摇石磨
+|english_name=Hand rotary quern
+|cat=工具
+|price=10 gp
+|weight=20磅
+|description=这对小型磨石使得使用者可以将一些物质研磨成细致的粉末。根据研磨物质本身的性质，石磨所研磨出的粉末的量是会产生变化的，不过你可以用1个小时磨出8磅面粉。
+|source=进阶职业指南
+}}

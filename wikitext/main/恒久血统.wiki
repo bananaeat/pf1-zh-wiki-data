@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Agents of Evil pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=恒久血统
+|english_name=Enduring Heritage
+|type=种族
+|prerequisites=魔裔
+|description=你能引导你的邪恶血统，以利用任何与这种身份相关的效果（例如[[侦测邪恶]]）。你会被侦测为一个生命骰数与你相同的邪恶异界生物。你可以以一个迅捷动作开始或结束此效果。你每天可以维持此效果的轮数等于你的生命骰数。
+|source_name=邪恶特务
+|source=AoE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Enduring%20Heritage
+}}

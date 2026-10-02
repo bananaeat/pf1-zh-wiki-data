@@ -1,0 +1,10 @@
+{{Feat
+|name=护林人
+|english_name=Forester
+|description=你是木工和森林知识的大师，甚至可以轻松优雅地穿越最稠密的树木。
+|prerequisites=偏好地形（森林）职业能力。
+|benefit=你可以忽略由稀疏或浓密下层植物所致的[[困难地形]]，并且你也可以忽略由稀疏或浓密下层植物所增加的特技检定DC和隐匿检定DC。此外，你还可以利用树木从攻击中保护自己，当你与一棵树相邻时（包括正在攀爬这棵树时），你的AC会得到+1[[掩蔽]]加值。如果你同时与两棵或更多的树相邻，则你的AC获得+2掩蔽加值，且反射豁免骰获得+1加值。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

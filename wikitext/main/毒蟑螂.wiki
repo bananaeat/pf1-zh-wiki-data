@@ -1,0 +1,49 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=毒蟑螂
+|english_name=Venomroach
+|cr=3
+|xp=800
+|alignment=绝对中立
+|size=大型
+|type=虫类
+|init=+1
+|senses=黑暗视觉 60 尺；察觉 +5
+|description=这只蟑螂的棕黑色外骨骼在光线下闪闪发亮。
+|ac=15，接触 10，措手不及 14（+1 敏捷，+5 天生，–1 体型）
+|hp=31（3d8+18）
+|fort=+9
+|ref=+2
+|will=+2
+|immune=影响心灵效果
+|weaknesses=强光敏感
+|speed=40 尺，攀爬 40 尺，飞行 60 尺（不良）
+|melee=啮咬 +3（2d6+3 加 毒素）
+|space=10 尺
+|reach=5 尺
+|special_attacks=毒素
+|str=15
+|dex=13
+|con=22
+|int=–
+|wis=13
+|cha=2
+|bab=+2
+|cmb=+5
+|cmd=16（对抗摔绊 24）
+|feats=[[顽强]];[[坚忍]]
+|skills=[[攀爬]] +10;[[飞行]] –5;[[察觉]] +5;[[隐匿]] +1
+|racial_mods=+4 察觉，+4 隐匿
+|sq=闭气
+|environment=任意陆地
+|organization=单独，一对，或入侵群（3–12）
+|treasure=无
+|special_abilities={{怪物能力|毒素|Ex|啮咬—伤口；豁免 强韧 DC 17；频率 1 次/轮，共 4 轮；效果 1d3 点体质伤害；痊愈 2 次连续豁免。}}
+|source=冒险之路116：战争之牙
+|lore=
+与它们体型更小、更平凡的表亲一样，毒蟑螂徘徊在类人生物文明的边缘，在世界阴暗的角落里窸窣爬行。作为下水道和小巷里的危险居民，毒蟑螂有两点特征使它们有别于大多数同类。正如其名所示，这些虫类会分泌一种强效毒素，使组织枯萎并毒害血液。与体型较小的表亲不同，毒蟑螂还有粗大的口器，赋予它们强力的啮咬攻击。
+
+毒蟑螂长 8 尺，重 120 磅。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Venomroach|2=Venomroach}}

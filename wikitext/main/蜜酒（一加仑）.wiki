@@ -1,0 +1,9 @@
+{{装备
+|name=蜜酒（一加仑）
+|english_name=Mead (gallon)
+|cat=饮食
+|price=2 gp
+|weight=8磅
+|description=这种酒是用蜂蜜和水发酵酿成的，可以用香料、水果或啤酒花调味。
+|source=极限宝具
+}}

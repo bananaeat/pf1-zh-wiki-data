@@ -1,0 +1,10 @@
+{{Feat
+|name=召回弹药
+|english_name=Recall Ammunition
+|categories=战斗;勇毅
+|description=你运用与生俱来的魔法能力，瞬间召回一发射失的弹药。
+|prerequisites=勇毅职业能力或[[业余枪手]]，基础攻击加值+9，法术辨识5级。
+|benefit=当你使用火器进行远程武器攻击但未命中时，你可以以[[直觉动作]]消耗2勇毅点召回射击。若你如此做，射失的弹药神奇地装回枪械且可立即再次开火。
+|source_name=格拉利昂的英雄
+|source_url=https://pf1chm.pages.dev/topics/zh6a9ca5047a.htm
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=飞行之翼
+|english_name=Wings of Flying
+|aon=MagicWondrousDisplay.aspx?FinalName=Wings of Flying
+|cat=奇物
+|aura=中等变化系
+|cl=10
+|slot=肩部
+|price=54,000 gp
+|weight=2磅
+|description=这样的一对翅膀看起来可能只是一件朴素的旧黑布斗篷，也可能是一件高雅的蓝羽长披风。当穿戴者说出命令字时，披风会变成一对蝙蝠翼或鸟翼，使穿戴者能够以60尺的速度飞行（机动性：普通），并在[[飞行]]检定上获得+5表现加值。
+|req=[[制造奇物]]、[[飞行术]]
+|cost=27,000 gp
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=塔尔多骑士
+|english_name=Taldan Knight
+|pfs=否
+|description=一位塔尔多的贵族授予了你骑士的头衔，赋予了你这个王国的骑士所拥有的权利和特权。
+|prerequisites=BAB+6，[[擅长重甲]]，[[擅长军用武器]]
+|benefit=你将会获得一名随从，就如同你拥有了[[领导力]]专长一样；这名随从会是一个[[半身人]]或者[[人类]]，他还是一名拥有[[塔尔多随从]]专长的平民、专家、或者武者。当你和随从相距不超过10尺时，你在[[先攻]]检定上获得+2加值以及在AC上获得+1闪避加值。
+|source_name=塔尔多，荣光荡漾之地
+|source_url=https://pf1chm.pages.dev/topics/page_936.html
+}}

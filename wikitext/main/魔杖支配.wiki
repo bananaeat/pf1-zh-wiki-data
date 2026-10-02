@@ -1,0 +1,10 @@
+<noinclude>{{魔战士导航}}
+'''魔杖支配'''（Wand Wielder, Su）是[[魔战士]]的[[奥能|魔战士奥能|魔战士奥能]]。
+
+</noinclude>前提：魔战士等级3 效果：魔战士在使用法术战斗职业能力时，可使用魔杖或法杖替代自己施展法术。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_83.html 原文]），按 AoN 核对过。全部魔战士奥能见 [[奥能]]。
+
+[[分类:魔战士奥能]]
+
+{{职业}}</noinclude>

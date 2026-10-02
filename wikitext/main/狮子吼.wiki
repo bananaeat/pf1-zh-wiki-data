@@ -1,0 +1,20 @@
+{{Spell
+|name=狮子吼
+|english_name=Ki shout
+|school=塑能系
+|tags=音波
+|levels=吟游诗人 5;歌者 5;奥能师 7;异能者 7;术士 7;法师 7
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一名活物
+|duration=立即
+|save=强韧，通过则部分生效
+|sr=是
+|description=随着一声大吼，你释放强烈的声波能量冲击你的敌人。
+
+目标受到每等级1d6点音波伤害 （最多20d6） 并且[[震慑]]一轮。
+
+成功的强韧检定可以减半伤害并不会被震慑。
+|source=极限魔法
+}}

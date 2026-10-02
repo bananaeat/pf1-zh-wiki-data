@@ -1,0 +1,10 @@
+{{Feat
+|name=冰冻皮肤
+|english_name=Frozen Skin
+|description=有些传言说，冬民半兽人长时间待在雪地中，以至于一层薄薄的冰层覆盖了他们的皮肤。
+|prerequisites=体质15、冰霜后裔半兽人。
+|benefit=你获得3点寒冷抗力。如果你原本就拥有寒冷抗力，那么你的寒冷抗力额外+3点。
+|source=HftF
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/zh72cd9d7a9f.htm
+}}

@@ -1,0 +1,15 @@
+{{Spell
+|name=防护天生武器
+|english_name=Protection from natural attacks
+|school=防护系
+|levels=游侠 2;猎人 2;召唤师 3;召唤师（掉链） 3;唤魂师 3;炼金术师 3;调查员 3;异能者 4;德鲁伊 4;萨满 4
+|action=标准动作
+|components=语言;姿势;材料/圣徽（一片蜥蜴的鳞片）
+|range=接触
+|target=被碰触的生物
+|duration=1分钟/等级
+|save=强韧，通过则无效（无害）
+|sr=是（无害）
+|description=当你在施展此法术时，请从下列天生武器中选择一种：咬、爪抓、抵撞、蹄、螯夹、挥击、针刺、集群、尾扫、指爪、触手或翼击。在此法术持续时间内，受术者对所选择的天生武器，于所有攻击上获得DR5/─。
+|source=怪物猎人手册
+}}

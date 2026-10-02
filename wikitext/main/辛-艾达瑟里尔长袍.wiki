@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=辛-艾达瑟里尔长袍
+|english_name=Robes of Xin-Edasseril
+|aon=MagicWondrousDisplay.aspx?FinalName=Robes of Xin-Edasseril
+|cat=奇物
+|aura=强烈防护系、咒法系
+|cl=16
+|slot=躯体
+|price=164,000 gp
+|weight=1磅
+|description=辛-艾达瑟里尔长袍提供+5护甲加值（对AC）和法术抗力20，并使穿戴者施放所有防护系法术时施法者等级+1。长袍的两个口袋的功能如同[[方便背包]]。此外，长袍还为穿戴者提供能量抗力10，能量类型由穿戴者选择——这项能量抗力每日可以用[[标准动作]]更改1次。
+|req=[[制造奇物]]、[[法师护甲]]、[[防护法术]]、[[抵抗能量伤害]]、[[秘藏箱]]
+|cost=82,000 gp
+|source=冒险之路137：时外之城
+}}

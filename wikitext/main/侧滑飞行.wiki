@@ -1,0 +1,12 @@
+{{Feat
+|name=侧滑飞行
+|english_name=Wingover
+|pfs=否
+|description=这个生物可以在飞行的时候急转弯。
+|prerequisites=拥有飞行速度。
+|benefit=每轮1次，拥有此专长的生物能以一个[[自由动作]]，在飞行时做180度急转弯而无需进行飞行技能检定，这次转向不需要消耗该生物的任何移动。
+|normal=一个飞行生物如果要在飞行时进行90度转弯，它需要进行一个DC15的飞行检定且消耗5尺移动。如果要进行180度转弯，生物需要进行一个DC20的飞行检定且消耗10尺移动。
+|source=B1
+|source_name=怪物图鉴
+|source_url=https://pf1chm.pages.dev/topics/page_201.html
+}}

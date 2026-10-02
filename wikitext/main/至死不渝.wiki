@@ -1,0 +1,6 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=至死不渝|en=Romance Beyond Death|type=Su|domain=高贵领域|source=闹鬼英雄手册|text='''神祇'''：奈德丽
+
+根据你引导的能量类型，你获得[[命令死灵(专长)|命令死灵]]或[[驱散死灵]]作为[[奖励专长]]。如果涉及的灵魂是因溺水而死或自杀，则它们对抗这些专长效果的豁免DC提高2点。如果受影响的不死生物的产生环境与浪漫有关，则改为将豁免DC提高4点。此能力替换[[高贵领域#领导力 (Leadership, Ex)|领导力]]能力。<small>（这一段 CHM 汉化没有译文，由 AI 照 AoN 补译。）</small>}}<noinclude>
+
+[[分类:领域]]</noinclude>

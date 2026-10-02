@@ -1,0 +1,10 @@
+{{Feat
+|name=尾部技巧
+|english_name=Tail Maneuvers
+|description=你在战场上可以熟练地使用你的尾巴来帮助你进行[[战技]]。
+|prerequisites=龙类生物，尾部攻击。
+|benefit=如果你不使用你的尾巴来进行攻击，直到你下一轮开始之前，你的[[CMD]]和你尝试的任何战技检定获得+2加值。
+|source=LoD
+|source_name=巨龙遗产
+|source_url=https://pf1chm.pages.dev/topics/page_716.html
+}}

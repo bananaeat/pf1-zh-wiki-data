@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Orcs of Golarion pg. 22），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=野性骑手
+|english_name=Beast Rider
+|type=种族
+|prerequisites=半兽人、兽人
+|description=你有让动物屈服于你意志的诀窍，不过你对文明的驯养方法所知甚少。你在[[骑术]]检定上获得+2背景加值，但如果你在战斗中被强行击落坐骑，你的坐骑会竭尽所能攻击你。
+|source_name=格拉利昂的兽人
+|source=OoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Beast%20Rider
+}}

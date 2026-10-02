@@ -1,0 +1,48 @@
+{{速查导航}}
+{{怪物
+|name=食人魔跟踪狂
+|english_name=Ogre Stalker
+|cr=4
+|xp=1,200
+|classline=食人魔盗贼3
+|alignment=混乱邪恶
+|size=大型
+|type=类人生物
+|subtypes=巨人亚种
+|init=+5
+|senses=黑暗视觉60尺，昏暗视觉；察觉+10
+|description=食人魔看不起那些重脑力不重蛮力的同类，但聪明的食人魔总能找到自己通往权力的道路。
+|ac=19，接触10，措手不及18（+4护甲，+1敏捷，+5天生，-1体型）
+|hp=52（7d8+21）
+|fort=+8
+|ref=+5
+|will=+2
+|defensive=反射闪避，陷阱感知+1
+|speed=40尺
+|melee=精制品巨木棒+12（2d8+10）
+|ranged=标枪+5（1d8+7）
+|space=10尺
+|reach=10尺
+|special_attacks=偷袭+2d6
+|str=25
+|dex=12
+|con=17
+|int=8
+|wis=10
+|cha=5
+|bab=+5
+|cmb=+13
+|cmd=24
+|feats=[[精通先攻]];尾行夜魔*;[[猛力攻击]];[[技能专攻]]（隐匿）
+|skills=[[特技]]动作+11;[[攀爬]]+17;[[解除装置]]+2;[[察觉]]+10;[[隐匿]]+10（在昏暗或黑暗环境中+14）
+|languages=巨人语
+|sq=盗贼天赋（快速潜行）;寻找陷阱+1
+|combat_gear=治疗中伤药水;躲藏灵药;黄蜂集群巢穴 UE
+|gear=+1镶嵌革甲;标枪 x3;精制品巨木棒;羽符（树）;16GP
+|environment=温带或寒带丘陵
+|source=怪物志
+|family=食人魔（怪物志）
+|npc=1
+}}
+
+本页译自《[[怪物志]]》的怪物图鉴 CHM。

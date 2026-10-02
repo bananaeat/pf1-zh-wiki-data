@@ -1,0 +1,14 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{危害
+|name=黑霜
+|english_name=Blackfrost
+|kind=毒药
+|type=接触
+|save=强韧 DC 15
+|onset=1分钟
+|frequency=1次/分钟，持续6分钟
+|initial=2d6点生命值伤害（一半为酸蚀伤害，一半为寒冷伤害）
+|secondary=1d2点体质伤害
+|cure=连续2次豁免成功
+|source=冒险之路51：饥饿风暴
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=词源学者
+|english_name=Etymologist
+|type=社会
+|prerequisites=[[侏儒]]
+|description=学习驳杂的[[侏儒]]语时，你痴迷于每个词的原始含义与语源。接触新语言时，你会立即钻研其构词法并吸收词汇融入侏儒语。你在[[语言学]]检定上获得+1背景加值并额外掌握一门语言。语言学对你来说是[[本职技能]]。
+|source_name=格拉里昂的侏儒
+|source_url=https://pf1chm.pages.dev/topics/zh5166336575.htm
+}}

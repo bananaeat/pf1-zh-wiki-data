@@ -1,0 +1,9 @@
+{{Trait
+|name=不好骗
+|english_name=Hardly a Fool
+|type=社会
+|description=你总能识破谎言与伪装。也许你当过侦探，也许你来自于充斥谎言的家乡，或是你研究了很长时间的人性，能从表情看出心之所想。你在察言观色检定上获得+1背景加值，对抗幻术效果时的豁免检定获得+1背景加值。
+|source_name=社会背景
+|source=CoP
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

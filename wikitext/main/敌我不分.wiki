@@ -1,0 +1,16 @@
+{{Spell
+|name=敌我不分
+|english_name=Unwitting ally
+|school=惑控系 (魅惑)
+|tags=影响心灵
+|levels=吟游诗人 0;催眠师 0;异能者 1;歌者 0
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一名活物
+|duration=1轮
+|save=意志，通过则无效
+|sr=是
+|description=你迷惑了目标的心智。目标会在短时间内难以分辨敌友。在判断[[夹击]]时，受术者被视为你的盟友，而非敌人的盟友。受术者不会由于该法术的效果进行其他敌对行动对抗你的敌人。
+|source=进阶玩家指南
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=驱魔重击
+|english_name=Dispelling Critical
+|categories=重击
+|description=你同时对你的敌人造成沉重的物理和奥术的双重打击。
+|prerequisites=[[奥术打击]]，基本攻击加值+11，能够施放‘解除魔法’。
+|benefit=如果准备了[[解除魔法]]法术或能够自发施放它，当你对敌人造成一次重击时，你可以用[[迅捷动作]]施放一次以他为目标的‘解除魔法’。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

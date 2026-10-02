@@ -1,0 +1,9 @@
+{{Trait
+|name=权贵之友
+|english_name=Friends in High Places
+|type=社会
+|description=你屡见犯法者因显赫人脉而逍遥法外，故而特别着力结交权贵。在曾运用交涉技能搜集信息的区域，你的交涉与威吓检定获得+1背景加值。与政府官员交涉时，此加值提升至+2。
+建议角色：艾巴萨罗姆本地人，盾徽财团特工，塔尔多人
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

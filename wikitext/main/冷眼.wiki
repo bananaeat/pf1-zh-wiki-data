@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=冷眼|en=Malign Eye|type=Su|domain=机运领域|sub=诅咒子域 (Curse)|sub_name=诅咒子域|source=进阶玩家指南|text=以标准动作，你怨恨地瞪了30尺内单个目标一眼，令其对你的所有法术的豁免检定受到-2减值。效果持续1分钟或者到目标攻击命中你，每天能使用的次数为“3+[[感知]]调整值”。此能力取代[[机运领域#小幸运 (Bit of Luck, Sp)|小幸运]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

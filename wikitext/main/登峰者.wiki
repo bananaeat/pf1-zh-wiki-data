@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 19），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=登峰者
+|english_name=Master of Peaks
+|type=地区
+|prerequisites=天境之墙
+|description=你曾登上天境之墙的多座峰顶，你的身体已习惯了极寒与高海拔的影响。你对抗寒冷危害和高原病效果的强韧豁免检定获得+2背景加值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Master%20of%20Peaks
+}}

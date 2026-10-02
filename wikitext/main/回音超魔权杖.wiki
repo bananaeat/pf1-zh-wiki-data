@@ -1,0 +1,15 @@
+{{魔法物品
+|name=回音超魔权杖
+|english_name=Rod of Metamagic, Echoing
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Metamagic, Echoinglesser
+|cat=权杖
+|aura=强烈（无学派）
+|cl=17
+|slot=无
+|price=14,000 gp（次等）；54,000 gp（普通）；121,500 gp（高等）
+|weight=5磅
+|description=持用者每天至多可以施放3个法术，这些法术当天可以额外再施放一次，如同使用[[回音法术]]专长一样。
+|req=[[制造权杖]]、[[回音法术]]
+|cost=7,000 gp（次等）；27,000 gp（普通）；60,750 gp（高等）
+|source=极限宝具
+}}

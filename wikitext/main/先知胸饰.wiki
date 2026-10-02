@@ -1,0 +1,15 @@
+{{魔法物品
+|name=先知胸饰
+|english_name=Prophet's Pectoral
+|aon=MagicWondrousDisplay.aspx?FinalName=Prophet's Pectoral
+|cat=奇物
+|aura=微弱预言系
+|cl=3
+|slot=胸部
+|price=6,000 gp
+|weight=1磅
+|description=这件胸甲上的神圣石头、雕刻的星辰图案和古人的智慧文字，能提高穿戴者施放[[占卜术]]、[[预言术]]和[[异界探知]]的成功几率。穿戴者每次使用这类法术时，在d%骰的结果上加1d6。施放[[通神术]]或[[问道自然]]时，穿戴者可以多问一个问题，或多获得一条信息。
+|req=[[制造奇物]]、[[预言术]]、[[神导术]]
+|cost=3,000 gp
+|source=极限宝具
+}}

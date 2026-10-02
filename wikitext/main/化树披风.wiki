@@ -1,0 +1,15 @@
+{{魔法物品
+|name=化树披风
+|english_name=Treeform Cloak
+|aon=MagicWondrousDisplay.aspx?FinalName=Treeform Cloak
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=肩部
+|price=6,000 gp
+|weight=1磅
+|description=这件绿色长披风的背面绣着一株古老橡树的图案。每天一次，穿戴者可以通过命令变成一棵树，如同[[树化术]]法术，但只能变成一棵活树。此外，穿戴者在阳光直射下处于树形态时，每过1小时就恢复1d6点生命值。
+|req=[[制造奇物]]、[[神莓]]、[[树化术]]
+|cost=3,000 gp
+|source=极限宝具
+}}

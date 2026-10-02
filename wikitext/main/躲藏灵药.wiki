@@ -1,0 +1,14 @@
+{{魔法物品
+|name=躲藏灵药
+|english_name=Elixir of Hiding
+|aon=MagicWondrousDisplay.aspx?FinalName=Elixir of Hiding
+|cat=奇物
+|aura=微弱幻术系
+|cl=5
+|slot=无
+|price=250 gp
+|description=饮用这种液体的角色会获得一种潜行和躲藏的直觉本能（1小时内隐匿检定获得+10表现加值）。
+|req=[[制造奇物]]、[[隐形术]]
+|cost=125 gp
+|source=核心规则书、极限宝具
+}}

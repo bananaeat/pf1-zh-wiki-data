@@ -1,0 +1,9 @@
+{{Feat
+|name=迟缓霉咒
+|english_name=Sluggish Jinx
+|description=你的霉咒使生物变得迟缓而笨拙。
+|prerequisites=半身人霉咒
+|benefit=你对于目标豁免上的霉咒惩罚，同时还应用于目标的先攻骰和攻击骰。
+|source_name=格拉利昂的半身人
+|source_url=https://pf1chm.pages.dev/topics/page_572.html
+}}

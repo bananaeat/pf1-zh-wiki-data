@@ -1,0 +1,10 @@
+{{Trait
+|name=坚定信仰
+|english_name=Unflinching Faith
+|type=地区
+|prerequisites=奈多
+|description=多次深入奈多的寻者峡谷（Finder's Gulch）等受诅咒之地的探险，让你本就坚定的信仰更加坚固。每天一次，你可以重骰一次意志豁免，该次豁免必须缘起不死生物的攻击或能力。你必须在第一次豁免骰之后结果出来之前决定是否使用该能力。你必须接受第二次骰，哪怕结果更糟。
+|source_name=地区背景
+|source=USH
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

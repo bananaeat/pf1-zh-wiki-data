@@ -1,0 +1,12 @@
+{{Feat
+|name=部落猎手
+|english_name=Tribal Hunter
+|categories=战斗;团队
+|description=通过观察群居动物的狩猎，你学会了作为群体的一部分捕食大型猎物。
+|prerequisites=动物亲和。
+|benefit=当你或一名同样拥有该专长的盟友邻接并正在[[夹击]]一名体型比你们双方都大的敌人时，只要你们保持与该敌人相邻，你们双方都被视为正在夹击该敌人。
+|normal=你必须处于一名盟友的对角才能夹击一名敌手。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

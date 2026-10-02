@@ -1,0 +1,44 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=低语瀑秃鹫
+|english_name=Whisperfall Vulture
+|cr=1
+|xp=400
+|alignment=绝对中立
+|size=小型
+|type=动物
+|init=+2
+|senses=昏暗视觉；察觉 +13
+|description=这只黑翼秃鹫长着凶恶的钩状喙，喙上沾满了鲜红的血迹。
+|ac=14，接触 13，措手不及 12（+2 敏捷，+1 天生，+1 体型）
+|hp=13（2d8+4）
+|fort=+5
+|ref=+5
+|will=+1
+|speed=10 尺，飞行 60 尺（良好机动力）
+|melee=啮咬 +3（1d6+1）
+|str=12
+|dex=15
+|con=14
+|int=2
+|wis=13
+|cha=7
+|bab=+1
+|cmb=+1
+|cmd=13
+|feats=[[飞越攻击]]
+|skills=[[飞行]] +12;[[察觉]] +13
+|racial_mods=+8 察觉
+|environment=温带山地
+|organization=单独，一对，或一群（3–18）
+|treasure=无
+|source=贝尔克泽恩，兽人部落之地
+|lore=
+这种秃鹫是普通秃鹫的近亲，最常见于低语瀑（Whisperfall）隘口一带。与以腐肉为食的表亲不同，低语瀑秃鹫是猎手，凭借速度和出人意料的敏捷，可以轻易捕杀兔子和其他小型猎物。饥饿的成群猛禽，光靠数量优势就能放倒一名成年人类。
+
+低语瀑秃鹫的卵是一种美味，能找到并取得它们的人，可以把卵卖给乌尔吉尔（Urgir）的商人，赚上一大笔钱。
+
+一只成年低语瀑秃鹫的翼展有 8 尺长，体重 50 磅。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Whisperfall Vulture|2=Whisperfall Vulture}}

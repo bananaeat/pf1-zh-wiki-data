@@ -1,0 +1,9 @@
+{{装备
+|name=长钉
+|english_name=Iron spike
+|cat=冒险装备
+|price=5 cp
+|weight=1磅
+|description=这根一尺长的铁钉可以用来阻止门关上或打开，也可以用来固定攀爬用的[[麻绳]]。听到长铁钉被锤击的声音需要通过DC5的察觉检定。
+|source=冒险者的军械库、进阶玩家指南、极限宝具
+}}

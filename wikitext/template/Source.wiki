@@ -1,0 +1,19 @@
+<includeonly>{{#invoke:版权抬头|main}}{{#ifeq:{{{3|}}}|inline|<i class="fa fa-book" style="font-size:20px;></i> '''来源：[[{{{1}}}|{{{1}}} {{#if:{{{2|}}}|({{{2}}})}}]]'''|<div class="source">{{Mbox|type=book|text='''来源''' [[{{{1}}}|{{{1}}} {{#if:{{{2|}}}|({{{2}}})}}]]}}</div>}}</includeonly><noinclude>
+用于创建资源来源提示。
+
+用法：
+{{Source|核心规则书|Core Rulebook}}
+<pre>
+{{Source|核心规则书|Core Rulebook}}
+</pre>
+
+{{Source|核心规则书}}
+<pre>
+{{Source|核心规则书}}
+</pre>
+
+{{Source|核心规则书|Core Rulebook|inline}}
+<pre>
+{{Source|核心规则书|Core Rulebook|inline}}
+</pre>
+</noinclude>

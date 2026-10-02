@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[附体虫影 (神话)]]。</small></div>
+{{Spell
+|name=附体虫影
+|english_name=Jitterbugs
+|school=幻术系 (虚假幻觉)
+|tags=影响心灵
+|levels=催眠师 1;吟游诗人 1;歌者 1;奥能师 2;异能者 2;术士 2;法师 2;红螳螂杀手 2
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一个生物
+|duration=1轮/等级
+|save=意志，通过则无效
+|sr=是
+|description=你使得目标感觉自身身体上覆盖着正在爬行、蠕动、刺咬的虫群。这使得目标变得神经紧张、坐立不安，并且迫使其不断地抖动。目标在所有敏捷检定以及基于敏捷的技能检定上受到-4减值，并且无法进行延迟动作、[[准备动作]]或[[全防御]]动作。
+|source=进阶种族手册
+}}

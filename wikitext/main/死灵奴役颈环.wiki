@@ -1,0 +1,15 @@
+{{魔法物品
+|name=死灵奴役颈环
+|english_name=Collar of Unliving Servitude
+|aon=MagicWondrousDisplay.aspx?FinalName=Collar of Unliving Servitude
+|cat=奇物
+|aura=中等死灵系
+|cl=7
+|slot=颈部
+|price=14,000 gp
+|weight=1磅
+|description=这条黑铁颈链将穿戴者与他选择的任一不死生物建立联系。建立这种联系需要说出一个命令字。穿戴者可以用另一个命令字解除这一联结，并在稍后与相同或不同的不死生物重新建立。当两者处于联结状态且彼此相距100尺以内时，不死生物受到的任何正能量伤害，都改为作为治疗转移给穿戴者。同样，穿戴者受到的任何负能量伤害也会转移给不死生物，并治疗它。这条颈环每日最多可转移总计70点伤害。
+|req=[[制造奇物]]、[[护卫他人]]或[[强迫护卫]]
+|cost=7,000 gp
+|source=秽邪勇士
+}}

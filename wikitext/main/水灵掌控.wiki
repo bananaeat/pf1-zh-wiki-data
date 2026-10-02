@@ -1,0 +1,16 @@
+{{Spell
+|name=水灵掌控
+|english_name=Marid's mastery
+|school=变化系
+|tags=水
+|levels=先知 1;奥能师 1;女巫 1;德鲁伊 1;战斗祭司 1;术士 1;法师 1;游侠 1;牧师 1;猎人 1;红螳螂杀手 1;血脉狂怒者 1
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的自愿生物
+|duration=1分钟/等级
+|save=意志，通过则无效（无害）
+|sr=是
+|description=当目标与其敌人接触水的时候，目标在攻击检定与伤害检定上获得+1加值。如果目标或者目标的敌人其中一方接触地面，目标在攻击检定与伤害检定上都会受到-4罚值。
+|source=进阶种族手册
+}}

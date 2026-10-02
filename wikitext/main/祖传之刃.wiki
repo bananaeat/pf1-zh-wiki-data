@@ -1,0 +1,11 @@
+{{Trait
+|name=祖传之刃
+|english_name=Ancestor's Blade
+|type=宗教
+|pfs=否
+|prerequisites=[[静琉]]
+|description=你一直用家里那把从德高望重的祖先传下来的武器来训练。你在起始游戏时拥有一把家传精制品武器，最多价值400gp。你在使用此类型的武器(不只是你起始的那把家传武器)进行制裁邪恶时的攻击骰获得+1背景加值。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh484c89782e.htm
+}}

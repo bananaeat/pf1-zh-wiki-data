@@ -1,0 +1,14 @@
+{{防具
+|name=灰少女铠甲
+|english_name=Gray maiden plate
+|acat=重型盔甲
+|price=1,500 gp
+|weight=50磅
+|ac=+9
+|maxdex=+1
+|acp=–6
+|asf=35%
+|speed=20尺／15尺
+|description=灰少女的特殊铠甲是她们最为形象的标志之一。灰少女铠甲在形式上与[[全身甲]]完全相同，任何能够作用于全身甲的效果都可以作用于灰少女铠甲。某些灰少女的选项只有在她们穿着灰少女铠甲时才会生效。
+|source=冒险者指南
+}}

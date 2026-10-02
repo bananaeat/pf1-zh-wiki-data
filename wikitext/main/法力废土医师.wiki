@@ -1,0 +1,13 @@
+{{Trait
+|name=法力废土医师
+|english_name=Mana Wastes Medic
+|type=地区
+|prerequisites=出身法力废土或在当地生活过至少1年的[[炼金术师]]
+|description=在见证了因为在法力废土尝试使用魔法治疗而引发的恐怖灾难后，你在制作你的治疗酊剂时变得更加小心也更有技巧。
+
+你在使用医疗技能治疗严重伤害时恢复的生命值以及你所提炼的属于医疗学派的药剂效果上升1。
+|regions=法力废土
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_703.html
+}}

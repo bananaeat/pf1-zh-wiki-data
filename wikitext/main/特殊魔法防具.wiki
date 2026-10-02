@@ -1,0 +1,37 @@
+{{速查导航}}
+
+'''特殊魔法防具'''是《[[位面冒险]]》的一章。
+
+== 特殊防具（Specific Armors） ==
+
+以下数套护甲可以为那些位面旅行者提供独特而有力的益处。[[魔法护甲]]即可拥有那些需要激活起效的能力，也可具有被动持续性起效的能力。
+
+== 表格1-4：特殊防具（Specific Armors） ==
+
+{| class="wikitable sortable"
+|-
+! 高级中等防具（Greater Medium Armor） !! 价格（Price）
+|-
+| 位面胸甲（Breastplate of the planes） || 11,350 GP
+|-
+| 次级高等防具（Lesser Major Armor） || 价格（Price）
+|-
+| 古革巨人之皮（Gug hide） || 22,165 GP
+|-
+| 判魂炼地之斗篷（Purgatory’s cowl） || 24,175 GP
+|-
+| 高级高等防具（Greater Major Armor） || 价格（Price）
+|-
+| 焕彩外袍（Coruscating raiment） || 63,150 GP
+|}
+
+== 本章条目 ==
+
+* [[位面胸甲]]
+* [[判魂炼地之斗篷]]
+* [[古革巨人之皮]]
+* [[焕彩外袍]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1571.html 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

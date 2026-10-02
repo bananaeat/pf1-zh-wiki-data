@@ -1,0 +1,11 @@
+{{消歧义|学派魔宠}}
+{{Feat
+|name=学派魔宠
+|english_name=School Familiar
+|description=你的魔宠和你所专精的法术有着紧密的联系。
+|prerequisites=魔宠有效等级5级，专精奥术学派职业能力
+|benefit=你能够将学派魔宠变体应用到你的魔宠上。
+|source=FF
+|source_name=魔宠手记
+|source_url=https://pf1chm.pages.dev/topics/page_487.html
+}}

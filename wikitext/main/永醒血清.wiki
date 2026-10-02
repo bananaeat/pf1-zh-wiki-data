@@ -1,0 +1,12 @@
+{{危害
+|name=永醒血清
+|english_name=Everwake serum
+|kind=毒药
+|type=摄入
+|save=强韧 DC 16
+|frequency=1次/天，持续5天
+|effect=目标无法自愿休息或睡眠（[[睡眠术]]等法术仍照常生效），使需要休息来恢复或准备法术的施法者无法这样做
+|cure=2次豁免
+|price=2,500 gp
+|source=秽邪勇士
+}}

@@ -1,0 +1,13 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[死亡法阵]] 的神话版本。</small></div>
+{{Spell
+|name=死亡法阵
+|english_name=Circle of Death
+|school=死灵系
+|tags=死亡
+|levels=唤魂师 6;奥能师 6;审判者 6;术士 6;法师 6
+|description=能够被该法术所杀死的生物之生命骰总和增加至每施法者等级1d6个（最高20d6）。将你的阶层加到该法术所能影响的最高生物HD上。（例如：在第3阶，12HD的生物不能被该法术影响。）
+
+强化（6阶）：若你花费2次神话之力，成功豁免法术的生物会受到每阶层1d6点伤害。
+|source=神话冒险
+}}
+[[分类:神话法术]]

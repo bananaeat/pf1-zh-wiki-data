@@ -1,0 +1,10 @@
+{{Feat
+|name=至高恩赐
+|english_name=Ultimate Mercy
+|description=通过使用圣疗，你可以使死者复生。
+|prerequisites=魅力19，[[高等恩惠]]，【圣疗】和【恩惠】职业特性。
+|benefit=通过消耗10次【圣疗】使用次数，你可以将一个接触的死亡生物复活，如同你施展了一个CL等同于你圣武士等级的[[死者复活]]。你必须选择支付‘死者复活’法术所需要的材料成分，或者获得一个暂时的负向等级。这个负向等级会在24小时后失去，并且绝不会变为永久性的负向等级，也无法以任何方式克服，只能等待持续时间结束。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

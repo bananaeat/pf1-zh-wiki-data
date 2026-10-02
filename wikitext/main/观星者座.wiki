@@ -1,0 +1,11 @@
+{{Trait
+|name=观星者座
+|english_name=The Star Gazer
+|type=宇宙
+|aliases=71-77 观星者座
+|prerequisites=拉玛沙恩(Lamashan)31日-奈斯(Neth)20日(译注：10月31日-11月20日)
+|description=将目光投向星云中时，观星者座看到了遥远的未来，却忽略了他面前的陷阱。当为[[突袭]]轮投掷[[先攻]]时，你承受先攻检定-2的罚值，但你的AC在整个突袭轮中获得+2的幸运加值。
+|source_name=宇宙背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zhc3ea784a66.htm
+}}

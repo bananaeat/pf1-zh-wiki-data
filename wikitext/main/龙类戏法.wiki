@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''龙类戏法'''（Dragon Cantrips）是一条神话[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Su</span><span class="sk-a">神话</span><span class="sk-f">位置：特性</span></div>
+</noinclude><includeonly><div class="lang"><span id="龙类戏法"></span><div class="lang-h"><b>[[龙类戏法]]</b><i>Dragon Cantrips</i><span class="lang-w">Su · 神话 · 特性</span></div><div class="lang-d"></includeonly>
+如果神话龙类能够施放奥术法术，那么它们就会自动了解其等效施法职业所具有的所有戏法，而且能够随意施展。
+
+'''格式'''：龙类戏法
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Dragon Cantrips|2=Dragon Cantrips}}
+
+[[分类:通用怪物规则]]</noinclude>

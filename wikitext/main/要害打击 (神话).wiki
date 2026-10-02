@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[要害打击]] 的神话版本。</small></div>
+{{Feat
+|name=要害打击
+|english_name=Vital Strike
+|categories=神话
+|description=你能够用不可思议的力量打击敌人。
+|prerequisites=[[要害打击]]
+|benefit=每当你使用[[要害打击]]、[[精通要害打击]]或[[高等要害打击]]专长时，力量加值、魔法加值以及其他通常会在重击中依照重击倍率加倍的加值，均会按照上述专长中武器伤害骰的数量翻倍。通常无法在重击中翻倍的额外伤害也无法被该专长所翻倍。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

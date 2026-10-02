@@ -1,0 +1,9 @@
+{{Trait
+|name=延时法术
+|english_name=Prolong Magic
+|type=种族
+|prerequisites=[[魔裔]]
+|description=不断地练习和准备使得你的天生法术变得更有持续性。每当你使用你的魔裔血统带来的类法术能力时，它自动受到[[法术延时]][[超魔专长]]的影响。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_834.html
+}}

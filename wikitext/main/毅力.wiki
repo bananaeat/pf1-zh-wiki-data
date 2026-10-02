@@ -1,0 +1,9 @@
+{{Trait
+|name=毅力
+|english_name=Perseverance
+|type=地区
+|prerequisites=五王山脉
+|description=你在五王山脉的岁月教会了你：任何困难都可以忍耐和克服。当你有不止一次意志豁免来克服某个效果时（例如[[高等命令术]]或[[人类定身术]]，或使用幸运领域的好运能力），你在对抗该效果的额外意志豁免上获得+3背景加值。
+|source_name=格拉里昂的矮人
+|source_url=https://pf1chm.pages.dev/topics/page_1586.html
+}}

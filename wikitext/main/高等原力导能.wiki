@@ -1,0 +1,10 @@
+{{Feat
+|name=高等原力导能
+|english_name=Greater Channel Force
+|description=你用爆发出的神圣力量冲击你的敌人。
+|prerequisites=[[原力导能]]，[[精通原力导能]]，[[神裔]]，引导能量6d6。
+|benefit=当你使用[[精通原力导能]]，你可以影响30尺爆发半径内的所有生物。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

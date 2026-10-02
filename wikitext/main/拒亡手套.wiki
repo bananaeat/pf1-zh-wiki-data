@@ -1,0 +1,15 @@
+{{魔法物品
+|name=拒亡手套
+|english_name=Gloves of Restrained Death
+|aon=MagicWondrousDisplay.aspx?FinalName=Gloves of Restrained Death
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=手部
+|price=9,250 gp
+|weight=2磅
+|description=这双柔软的黑色皮手套沿着接缝有醒目的白色缝线。四颗小蓝宝石，每只手的拇指上缝着两颗，在手套被戴着时会轻轻脉动。穿戴者的[[隐匿]]检定获得+2表现加值。每当穿戴者戴着手套时中毒，她都可以轻敲任意数量的蓝宝石，每敲一颗蓝宝石，就把毒素的频率减少1个间隔。毒素的频率不会减少到低于1个间隔。例如，若某毒素的频率为每轮1次、持续6轮，敲击了三颗蓝宝石，则频率会降为每轮1次、持续3轮。敲击每颗蓝宝石是[[自由动作]]，会使被触碰的宝石在24小时内失效。
+|req=[[制造奇物]]、[[复原术]]、[[中和毒性]]
+|cost=4,625 gp
+|source=药剂与毒药
+}}

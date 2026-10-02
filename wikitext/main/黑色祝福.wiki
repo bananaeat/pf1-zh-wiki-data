@@ -1,0 +1,14 @@
+{{魔法物品
+|name=黑色祝福
+|english_name=Black Blessing
+|aon=MagicJujuFetishes.aspx#Black Blessing
+|cat=巫毒神物
+|aura=微弱防护系
+|cl=3
+|slot=颈部
+|price=500 gp
+|description=这个黑色小袋子上通常用血画着心形、鸟头或鱼形的符号。它给予佩戴者强韧和反射豁免+1的抗力加值。然而，佩戴者对抗护符制作者所施放法术的所有意志豁免也承受-2减值。
+|req=[[制造奇物]]、[[提升抗力]]、[[绝望术]]
+|cost=250 gp
+|source=冒险之路39：七矛之城
+}}

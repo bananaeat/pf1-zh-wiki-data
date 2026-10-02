@@ -1,0 +1,12 @@
+{{Feat
+|name=进无可进
+|english_name=Counter Reflexes
+|categories=战斗
+|description=通过判读敌人的步伐，你深知对方会如何在你的威胁范围内移动
+|prerequisites=[[闪避捕捉]]，[[闪避]]，[[灵活移动]]，基础攻击加值+9或拳师等级6或武僧等级6
+|benefit=拥有[[灵活移动]]专长的敌人在因移出你的威胁范围或在其内移动而触发你的[[借机攻击]]时，无法获得该专长提供的闪避加值。
+|stamina=在对拥有灵活移动专长的敌人因移出你的威胁范围而触发你的借机攻击时，花费2点耐力可在命中上获得+4加值。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

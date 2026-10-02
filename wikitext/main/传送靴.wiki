@@ -1,0 +1,15 @@
+{{魔法物品
+|name=传送靴
+|english_name=Boots of Teleportation
+|aon=MagicWondrousDisplay.aspx?FinalName=Boots of Teleportation
+|cat=奇物
+|aura=中等咒法系
+|cl=9
+|slot=脚部
+|price=49,000 gp
+|weight=3磅
+|description=仔细打量时，这双淡灰色靴子的某些部分似乎时隐时现。穿戴这双靴子的任何角色每天可以传送三次，就如同她施放了传送术。
+|req=[[制造奇物]]、[[传送术]]
+|cost=24,500 gp
+|source=核心规则书、极限宝具
+}}

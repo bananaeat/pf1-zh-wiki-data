@@ -1,0 +1,10 @@
+{{Feat
+|name=城市跑者
+|english_name=City Sprinter
+|description=你很擅长快速穿越城市内的禁区。
+|prerequisites=[[街头智慧]]
+|benefit=人群对你来说不会被视为[[困难地形]]。你还会在穿行于房顶、在城市街道或下水道中的光滑材质上行动的特技检定中获得额外+2加值。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

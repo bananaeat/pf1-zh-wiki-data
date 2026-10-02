@@ -1,0 +1,9 @@
+{{Trait
+|name=维尼坎医师
+|english_name=Venicaan Medic
+|type=地区
+|prerequisites=卡蒂亚
+|description=你在药学和外科学院学习过一段时间，因此你了解你可能遭遇的疾病以及毒素的迹象。你在关于疾病或者毒药的医疗检定上获得+2背景加值，并且医疗将会成为你的本职技能。
+|source_name=卡蒂亚，通向东方的大门
+|source_url=https://pf1chm.pages.dev/topics/page_1005.html
+}}

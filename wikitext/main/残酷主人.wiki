@@ -1,0 +1,9 @@
+{{Trait
+|name=残酷主人
+|english_name=Cruel Master
+|type=地区
+|prerequisites=欧克诺(Okeno)
+|description=你擅长通过肢体语言和语调控制奴隶，这种能力也能延续到其他工作中。你在威吓检定上获得+1背景加值，并且威吓成为你的[[本职技能]]。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

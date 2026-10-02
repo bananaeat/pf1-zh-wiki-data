@@ -1,0 +1,13 @@
+{{Feat
+|name=峭壁打击
+|english_name=Precipice Strike
+|categories=战斗
+|pfs=否
+|description=崎岖的山间道路对你来说就如同鹅卵石铺就的道路般平坦顺畅。敌人若在你的主场地盘向你发起挑战，那就是自寻死路。
+|prerequisites=敏捷15、BAB+6、峭壁后裔半兽人
+|benefit=当你与你攻击的目标都处于困难地形时，将该目标视作措手不及状态。此外，如果你从较高处（包括在下坠过程中）攻击一个措手不及的敌人，你的攻击检定+2环境加值。
+|extra=译注：原文就是写“处于困难地形上”，就算免疫了困难地形似乎也不影响专长生效。从较高处的攻击检定加成也没说跟通用规则的“居高临下+1环境AB”是叠加还是取代的关系。
+|source=HftF
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/zh72cd9d7a9f.htm
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Orcs of Golarion pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=风暴之怒
+|english_name=Rage of Storms
+|type=种族
+|prerequisites=半兽人、兽人
+|description=被召唤的生物可以继承你的凶猛。每天一次，你所召唤的一个生物可以拥有凶猛能力（见《怪物图鉴》第300页）。
+|source_name=格拉利昂的兽人
+|source=OoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Rage%20of%20Storms
+}}

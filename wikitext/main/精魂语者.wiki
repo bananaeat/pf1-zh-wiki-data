@@ -1,0 +1,11 @@
+{{Trait
+|name=精魂语者
+|english_name=Spirit Talker
+|type=宗教
+|pfs=否
+|prerequisites=莽吉萨满教
+|description=你是莽吉萨满教的信徒，不怎么理会殖民者的神祇。你在抵抗奥罗登、[[阿巴达尔]]、[[艾奥梅黛]]、[[哥兹莱]]和[[纱琳]]的牧师或圣武士使用的神术和类似法术效果的意志豁免上获得+1种族加值，但在抵抗莽吉信仰信徒使用的神术的意志豁免上受到-1减值。
+|source_name=萨迦瓦，失落的殖民地
+|source=Sargava, the Lost Colony
+|source_url=https://pf1chm.pages.dev/topics/zha47c8ffc75.htm
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=高等法术专攻
+|english_name=Greater Spell Focus
+|description=从已有[[法术专攻]]的法术学派中选择一个，你施展的该学派的法术很难被抵抗。
+|prerequisites=[[法术专攻]]。
+|benefit=所选学派的法术豁免检定DC+1。此加值可与“法术专攻”累加。
+|special=你可以多次选择本专长，但并非累加效果。每次你选择本专长时必须选择一个新的已有“法术专攻”专长的不同学派。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

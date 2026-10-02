@@ -1,0 +1,14 @@
+{{魔法物品
+|name=避水护符
+|english_name=Amulet of Water Parting
+|aon=MagicWondrousDisplay.aspx?FinalName=Amulet of Water Parting
+|cat=奇物
+|aura=中等变化系
+|cl=11
+|slot=颈部
+|price=10,000 gp
+|description=这枚+2[[天生防护护符]]由黑木雕成，通常呈现带有波浪或流水图案的抽象艺术造型。佩戴时，避水护符能额外抵御具有伤害性的水效果，使佩戴者在对抗带有水描述符的法术或效果的豁免检定上获得+2抗力加值，并且在对抗任何需要攻击检定的此类法术或效果时，AC获得+2偏斜加值。
+|req=[[制造奇物]]、[[树肤术]]、[[操纵水位]]
+|cost=5,000 gp
+|source=商人货单
+}}

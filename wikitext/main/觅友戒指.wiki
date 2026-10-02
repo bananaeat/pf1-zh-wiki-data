@@ -1,0 +1,14 @@
+{{魔法物品
+|name=觅友戒指
+|english_name=Rings of Friend-Finding
+|aon=MagicRingsDisplay.aspx?FinalName=Rings of Friend-Finding
+|cat=戒指
+|aura=中等惑控系
+|cl=7
+|slot=戒指
+|price=9,000 gp
+|description=这对特制的[[魔法物品#戒指|戒指]]成对出售，能帮助盟友彼此找到对方。每位佩戴者必须佩戴戒指24小时后它们才会生效；此后，每位佩戴者都可以用一个[[标准动作]]激活自己的觅友戒指，如同[[关照术]]一般，确定另一枚戒指佩戴者的方向、距离和大致状况。
+|req=[[锻造戒指]]、[[侦测思想]]、[[关照术]]
+|cost=4,500 gp
+|source=部属与伙伴
+}}

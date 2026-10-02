@@ -1,0 +1,10 @@
+{{Feat
+|name=鲁莽狂暴
+|english_name=Reckless Rage
+|description=在狂暴之中你的蛮力突破天际，但对于打击精度的控制力也随之降低。
+|prerequisites=[[猛力攻击]]，狂暴或歌者战怒之歌职业能力
+|benefit=当你启动战怒之歌或狂暴，并进行[[猛力攻击]]时，你在近战攻击检定和[[战技]]检定上再多承受-1减值，在近战伤害掷骰上再增加+2加值，你在持用不同武器时的伤害调整仍然适用，如同正常的猛力攻击。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

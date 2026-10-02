@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Skull & Shackles Player's Guide pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=受海眷顾
+|english_name=Touched by the Sea
+|type=战役
+|pfs=否
+|description=你一直感受到大海的召唤，你的血液随潮汐涨落而奔涌。也许你的父母之一是水手或海盗，又或许你的某位祖先带有一点水栖精灵或水元素裔的血统。无论原因为何，你在水中和在陆地上一样自在。你的[[游泳]]检定获得+1背景加值，并且游泳是你的本职技能。此外，你在水下进行的攻击检定所受的减值降低1。
+
+你来到亡命港寻找你的命运，在一家名叫“悍女”的酒馆喝了几杯后，你走到码头去看海。你记得的最后一件事，是后脑挨了一击，以及海浪朝你涌来。
+|source_name=Skull & Shackles Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Touched%20by%20the%20Sea
+}}

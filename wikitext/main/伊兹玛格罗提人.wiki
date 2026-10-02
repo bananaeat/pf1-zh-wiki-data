@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Skull & Shackles Player's Guide pg. 6），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=伊兹玛格罗提人
+|english_name=Ilizmagorti Native
+|type=战役
+|pfs=否
+|description=你在莫迪欧凯提岛上的伊兹玛格罗提城长大，那是一座海盗港口，既因来访的恶棍而臭名昭著，也因统治它的令人畏惧的红螳螂刺客而恶名远扬。你一辈子都在海盗堆里打转，但你学会了与人交往时保持警惕，因为谁也说不准谁会是乔装的红螳螂。你的[[察言观色]]检定获得+1背景加值，并且察言观色是你的本职技能。此外，你对海盗生活的熟悉使你可以进行关于海盗或镣铐群岛地区的未受训[[知识]]（本地）检定。
+
+为了发财，你在伊兹玛格罗提跳上了一艘海盗船，并决定在亡命港一家名叫“悍女”的酒馆喝上几杯，庆祝自己平安抵达。那里当然有些形迹可疑的家伙，你决定离他们远远的，但当你带着几分醉意离开时，却在一条黑暗的小巷里遭到暴徒袭击，被打得[[昏迷]]。
+|source_name=Skull & Shackles Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Ilizmagorti%20Native
+}}

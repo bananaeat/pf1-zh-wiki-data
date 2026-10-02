@@ -1,0 +1,11 @@
+{{Trait
+|name=寂寞
+|english_name=Lonely
+|type=缺陷
+|pfs=否
+|description=你过于轻易地相信别人的友好意图。
+|benefit=你在察言观色检定和用于识破伪装的察觉检定上承受-2减值，在对抗魅惑法术或类法术能力的豁免检定上承受-2减值。
+
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

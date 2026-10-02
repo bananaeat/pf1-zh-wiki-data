@@ -1,0 +1,51 @@
+{{速查导航}}
+{{怪物
+|name=边境守卫
+|english_name=Border Guard
+|cr=3
+|xp=800
+|classline=半兽人游侠4
+|alignment=中立邪恶
+|size=中型
+|type=类人生物
+|subtypes=人类;兽人
+|init=+4
+|senses=黑暗视觉60尺，察觉+8
+|ac=18，接触14，措手不及14（+4护甲，+4敏捷）
+|hp=30（4D10+4）
+|fort=+5
+|ref=+8
+|will=+2
+|defensive=兽人凶猛
+|resist=火焰 10
+|speed=30尺
+|melee=精工弯刃大刀 +7（2d4+3/18-20）
+|ranged=精工复合长弓 +9（1d8+2/X3）
+|special_attacks=宿敌（精灵+2）
+|spells=游侠已准备法术（CL 1，专注+2）；一级——抵抗能量
+|tactics=<div class="ml wide"><span class="k">战前</span>游侠施展抵抗能量（火焰）</div><div class="ml wide"><span class="k">战时</span>游侠尽量保持和敌人的距离</div><div class="ml wide"><span class="k">基础属性</span>没有抵抗能量，游侠的属性没有火抗</div>
+|str=14
+|dex=18
+|con=12
+|int=10
+|wis=13
+|cha=8
+|bab=+ 4
+|cmb=+6
+|cmd=20
+|feats=坚忍;近距射击;[[精准射击]];速射
+|skills=[[攀爬]]+8;[[威吓]]+8;[[知识]]（地理）+5;[[知识]]（本地）+2;[[知识]]（自然）+7;察觉+8;[[隐匿]]+10;[[生存]]+8
+|languages=通用语;兽人语
+|sq=追踪+2;野性认同+3;猎手羁绊（队友）;兽人血脉;偏好地形（平原+2）;武器熟悉
+|combat_gear=治疗中伤药水;+1火焰箭 X3;神恩术药水;虔诚护盾药水
+|gear=精工链甲衫;精工弯刃大刀;精工复合长弓（+2力量）及20支箭;躲藏灵药;26gp
+|source=NPC志
+|family=核心职业（NPC志）
+|npc=1
+|lore=
+边境守卫卫戍部族的领地。
+
+Vardeeka 认为被入侵者突破她的防御是对她祖先的侮辱。
+}}
+
+本页译自《[[NPC志]]》的怪物图鉴 CHM。

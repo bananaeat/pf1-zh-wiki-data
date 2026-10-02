@@ -1,0 +1,13 @@
+{{危害
+|name=民夫哀叹
+|english_name=Peasant's woe
+|kind=毒药
+|type=伤口
+|save=强韧 DC 15
+|frequency=1次/轮，持续4轮
+|initial=基础速度-10尺，持续1d6分钟
+|secondary=1点敏捷伤害
+|cure=1次豁免成功
+|price=400 gp
+|source=秽邪勇士
+}}

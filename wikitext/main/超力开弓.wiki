@@ -1,0 +1,11 @@
+{{Feat
+|name=超力开弓
+|english_name=Exceptional Pull
+|categories=战斗
+|description=你使用复合弓的技术更为精巧。
+|prerequisites=敏捷13，[[致命瞄准]]，BAB+3
+|benefit=当你使用一个你擅长且有力量等级的远程武器时，该武器的力量等级增加2。只要你擅长该武器，就不会因为力量调整值低于武器力量等级而承受攻击罚值。
+|source=RTT
+|source_name=远程战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_552.html
+}}

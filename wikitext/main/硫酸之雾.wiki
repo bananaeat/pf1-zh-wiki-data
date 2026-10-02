@@ -1,0 +1,17 @@
+{{Spell
+|name=硫酸之雾
+|english_name=Vitriolic mist
+|school=塑能系
+|tags=酸
+|levels=召唤师 4;召唤师（掉链） 4;奥能师 4;术士 4;法师 4;炼金术师 4;血脉狂怒者 4;调查员 4
+|action=标准动作
+|components=语言;姿势;材料（一片柠檬皮）
+|range=个人
+|target=自己
+|duration=1轮/等级 （可解消）
+|sr=否
+|description=这个法术工作方式类似[[火焰护盾]]，不过围绕你的会是一层黄色或绿色的硫酸云雾而不是冷或热的火焰。
+
+本法术会对攻击者造成酸液伤害，并保护你免受酸液伤害。本法术不会发出任何光亮。
+|source=极限魔法
+}}

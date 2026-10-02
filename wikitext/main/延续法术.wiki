@@ -1,0 +1,10 @@
+{{Feat
+|name=延续法术
+|english_name=Lingering Spell
+|categories=超魔
+|description=你的法术依附于现实，缓慢地在这个世界中腐朽。
+|benefit=你能够使一个影响一片区域的立即法术持续至你的下一回合开始为止。那些已经在范围内的生物不会受到额外伤害，但是其他生物或者物体进入区域后，会遭受法术的效果。带有视觉表现的延续法术会遮挡视野，在5尺外提供[[隐蔽]]（20%失手率），在20尺外提供[[全隐蔽]]（50%失手率）。延续法术占用比法术的实际环级高1环的法术位。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

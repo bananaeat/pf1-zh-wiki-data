@@ -1,0 +1,10 @@
+{{Feat
+|name=炼狱镣铐
+|english_name=Hellish Shackles
+|description=你可以召来地狱的枷锁困住敌人
+|prerequisites=引导能量5d6，信仰魔鬼大公、炼狱公爵、[[雄霸魔]]或娼妇女王之一
+|benefit=每天一次，当你引导负能量伤害活物时，你可以尝试使被伤害的生物受到法术[[次元锚]]的影响。受到[[引导能量]]伤害的生物，除了对抗引导能量伤害减半的一般意志豁免外，还必须再通过一次DC等同于你的引导能量DC的意志豁免；在对抗引导能量的豁免中失败的生物，这次对抗次元锚的豁免承受-4减值。第二次意志豁免失败的生物将受到法术次元锚的影响，持续等同于你的魅力调整值分钟（至少1分钟）。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

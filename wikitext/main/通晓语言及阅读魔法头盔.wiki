@@ -1,0 +1,15 @@
+{{魔法物品
+|name=通晓语言及阅读魔法头盔
+|english_name=Helm of Comprehend Languages and Read Magic
+|aon=MagicWondrousDisplay.aspx?FinalName=Helm of Comprehend Languages and Read Magic
+|cat=奇物
+|aura=微弱预言系
+|cl=4
+|slot=头部
+|price=5,200 gp
+|weight=3磅
+|description=外观如同一顶普通头盔，通晓语言及阅读魔法头盔让穿戴者能够听懂任何生物所说的话，并读懂以任何语言书写的文字和任何魔法文字。穿戴者在为理解以不完整、古老或异域形式写成的信息而进行的[[语言学]]检定上获得+5表现加值。注意，理解一段魔法文本并不意味着有能力使用其中的法术。
+|req=[[制造奇物]]、[[通晓语言]]、[[阅读魔法]]
+|cost=2,600 gp
+|source=核心规则书、极限宝具
+}}

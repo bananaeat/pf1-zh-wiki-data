@@ -1,0 +1,12 @@
+{{Feat
+|name=魔鬼之型
+|english_name=Diabolic Style
+|categories=战斗;流派
+|description=你以搏击借机羞辱那些引起你借机攻击的敌人。
+|prerequisites=战斗反射;精通徒手打击或武器专攻（徒手打击）; 基础攻击加值+2或1级武僧等级.
+|benefit=在使用该风格时，你可以利用借机攻击进行徒手打击，给目标一个羞辱痛击。如果你命中目标，你对目标造成1点非致命伤害，目标必须通过意志豁免(DC = 10 +1/2等级+魅力调整值)，否则会恍惚1轮。
+|special=拥有此专长的6级以上武僧可以选择[[要害打击]]作为武僧奖励专长。
+|source=PA
+|source_name=位面冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

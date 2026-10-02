@@ -1,0 +1,9 @@
+{{Trait
+|name=杀人鬼
+|english_name=Killer
+|type=战斗
+|description=无论是战场职责还是蓄意谋杀，你早在非常幼小时便初次体验了杀人的感觉。你傲于用准备周全的一击结果对手，或惯于从扭转刀刃造成更大痛苦之类的行为中获取下流的快感。当你用武器成功造成重击时，可以造成等同于该武器重击倍率数值的额外伤害；该额外伤害计入最终总伤害值，因此不会再因重击本身而翻倍。该额外伤害是一项背景加值。
+|source_name=战斗背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

@@ -1,0 +1,5017 @@
+{{速查导航}}
+'''术语对照表/M–R''' 是本站条目页上的中英名词对照，这一页收 2505 条（全部 12546 条见 [[术语对照表]]）。点列名可排序，「类别」那一列的漏斗图标可以筛选。译新条目时先来这里查一下前人怎么译的，站内叫法才统一。
+
+{| class="wikitable sortable filterable"
+|-
+! style='width:34%' | 英文 !! style='width:34%' | 中文 !! class="filterable-head" style='width:14%' | 类别
+|-
+| Maat || [[玛亚特]] || 其他
+|-
+| Mace of blood || [[染血硬头锤]] || 物品
+|-
+| Mace of Keys || [[匙之锤]] || 物品
+|-
+| Mace of Smiting || [[惩击之锤]] || 物品
+|-
+| Mace of Terror || [[惧怖重锤]] || 物品
+|-
+| Machete || [[开山刀]] || 物品
+|-
+| Machinebane Oil || [[械灾之油]] || 物品
+|-
+| Mad hallucination || [[疯狂幻象]] || 法术
+|-
+| Mad Magic || [[狂躁魔法]] || 专长
+|-
+| Mad monkeys || [[疯狂猴群]] || 法术
+|-
+| Mad sultan's melody || [[疯狂主宰的旋律]] || 法术
+|-
+| Maddening Oubliette || [[疯狂密牢]] || 法术
+|-
+| Madu || [[皮制马杜]] || 物品
+|-
+| Maelstrom Shield || [[大漩涡之盾]] || 物品
+|-
+| Maenad || [[狂女]] || 其他
+|-
+| Maftet || [[狮足鹰人]] || 其他
+|-
+| Magaambyan Arcana || [[玛伽姆比亚奥秘]] || 背景特性
+|-
+| Magaambyan Arcanist || [[玛伽姆比亚秘术师]] || 职业
+|-
+| Magdh || [[玛芙]] || 其他
+|-
+| Mage Armor || [[法师护甲 (神话)|法师护甲]] || 其他
+|-
+| Mage Hand || [[法师之手]] || 法术
+|-
+| Mage of the Wild || [[荒野术者]] || 专长
+|-
+| Mage's Assistant || [[法师助手]] || 物品
+|-
+| Mage's crawl space || [[法师的徐行空间]] || 法术
+|-
+| Mage's Crossbow || [[法师弩]] || 物品
+|-
+| Mage's decree || [[法师之令]] || 法术
+|-
+| Mage's Disjunction || [[法师裂解术 (神话)|法师裂解术]] || 其他
+|-
+| Mage's evasion || [[Mage's evasion]] || 其他
+|-
+| Mage's Faithful Hound || [[法师忠犬]] || 法术
+|-
+| Mage's Lucubration || [[法师回忆术]] || 法术
+|-
+| Mage's Magnificent Mansion || [[法师豪宅]] || 法术
+|-
+| Mage's Private Sanctum || [[法师密室]] || 法术
+|-
+| Mage's Sword || [[法师之剑]] || 法术
+|-
+| Magenta || [[品红色艾恩石]] || 物品
+|-
+| Magesight || [[奥视粉]] || 物品
+|-
+| Maggot, Giant || [[巨蛆]] || 其他
+|-
+| Maghara || [[马格哈拉]] || 其他
+|-
+| Magic Aura || [[魔法灵光]] || 法术
+|-
+| Magic Aura, Greater || [[高等魔法灵光]] || 法术
+|-
+| Magic Boulder || [[魔岩术]] || 法术
+|-
+| Magic Circle against Chaos || [[反混乱法阵]] || 法术
+|-
+| Magic Circle against Evil || [[反邪恶法阵]] || 法术
+|-
+| Magic Circle against Good || [[反善良法阵]] || 法术
+|-
+| Magic Circle against Law || [[反秩序法阵]] || 法术
+|-
+| Magic Circle Against Technology || [[反科技法阵]] || 法术
+|-
+| Magic Crafter || [[铸魔师]] || 背景特性
+|-
+| Magic Fang || [[魔牙术 (神话)|魔牙术]] || 其他
+|-
+| Magic Fang, Greater || [[高等魔牙术 (神话)|高等魔牙术]] || 其他
+|-
+| Magic Is Life || [[法化命]] || 背景特性
+|-
+| Magic Jar || [[魔魂壶]] || 法术
+|-
+| Magic Missile || [[魔法飞弹 (神话)|魔法飞弹]] || 其他
+|-
+| Magic Mouth || [[魔嘴]] || 法术
+|-
+| Magic siege engine || [[魔化攻城器械]] || 法术
+|-
+| Magic siege engine, greater || [[高等魔化攻城器械]] || 法术
+|-
+| Magic Stone || [[魔石术]] || 法术
+|-
+| Magic Trick || [[魔法技艺]] || 专长
+|-
+| Magic Vestment || [[魔化防具 (神话)|魔化防具]] || 其他
+|-
+| Magic Weapon || [[魔化武器]] || 法术
+|-
+| Magic Weapon, Greater || [[高等魔化武器 (神话)|高等魔化武器]] || 其他
+|-
+| Magic's Might || [[魔法权威]] || 背景特性
+|-
+| Magical Aptitude || [[魔法天赋 (神话)|魔法天赋]] || 其他
+|-
+| Magical beast shape || [[魔法兽形态]] || 法术
+|-
+| Magical Enigma || [[神秘魔源]] || 专长
+|-
+| Magical Epiphany || [[魔法显现]] || 专长
+|-
+| Magical Flair || [[魔法天资]] || 背景特性
+|-
+| Magical Heart || [[魔力心脏]] || 专长
+|-
+| Magical Klutz || [[魔法笨蛋]] || 背景特性
+|-
+| Magical Knack || [[法理通]] || 背景特性
+|-
+| Magical Lineage || [[魔法裔]] || 背景特性
+|-
+| Magical Tail || [[魔性之尾]] || 专长
+|-
+| Magical Talent || [[鬼把戏]] || 背景特性
+|-
+| Magician’s Hat || [[魔术师之帽]] || 物品
+|-
+| Magma Ooze || [[岩浆怪]] || 其他
+|-
+| Magmin || [[火童]] || 其他
+|-
+| Magnate's Miter || [[大亨的法冠]] || 物品
+|-
+| Magnet || [[磁铁]] || 物品
+|-
+| Magnetic field || [[磁力场域]] || 法术
+|-
+| Magnetist’s Gloves || [[磁力手套]] || 物品
+|-
+| Magnifying chime || [[渐强钟鸣]] || 法术
+|-
+| Magnifying glass || [[放大镜]] || 物品
+|-
+| Magnum Opus || [[传世佳作]] || 专长
+|-
+| Magus || [[魔战士]] || 其他
+|-
+| Magus's kit || [[魔战士工具包]] || 物品
+|-
+| Mail of Malevolence || [[怨毒链甲]] || 物品
+|-
+| Mail of Sly Steps，Halfling || [[狡步之甲〔半身人〕]] || 物品
+|-
+| Majestic image || [[威严肖像]] || 法术
+|-
+| Major Creation || [[强效造物术]] || 法术
+|-
+| Major Image || [[强效幻影]] || 法术
+|-
+| Major phantom object || [[强效虚假物品]] || 法术
+|-
+| Major Spell Expertise || [[高等法术专修]] || 专长
+|-
+| Make lost || [[迷失术]] || 法术
+|-
+| Make Whole || [[完全修复术 (神话)|完全修复术]] || 其他
+|-
+| Make whole, greater || [[高等完全修复术]] || 法术
+|-
+| Makeshift Maneuvers || [[临时战技]] || 专长
+|-
+| Malediction || [[咒魂]] || 法术
+|-
+| Maleficus Spike || [[破魔桩]] || 物品
+|-
+| Malevolent || [[邪恶意图]] || 物品
+|-
+| Malfunction || [[故障术]] || 法术
+|-
+| Malicious Eye || [[恶意眼神]] || 专长
+|-
+| Malicious spite || [[恶意迫害]] || 法术
+|-
+| Malleable Form || [[可塑形体]] || 专长
+|-
+| Malleable Magic || [[塑法士]] || 背景特性
+|-
+| Malleable Symbol || [[百变神徽]] || 物品
+|-
+| Mallet Of Building || [[建筑大锤]] || 物品
+|-
+| Malyass root paste || [[烈赤根糊]] || 物品
+|-
+| Mammon || [[马蒙]] || 其他
+|-
+| Mammoth Hide || [[猛犸皮甲]] || 物品
+|-
+| Mana Wastes Medic || [[法力废土医师]] || 背景特性
+|-
+| Manacles (quickcatch) || [[快抓镣铐]] || 物品
+|-
+| Manacles Of Cooperation || [[合作镣铐]] || 物品
+|-
+| Manacles, common || [[镣铐]] || 物品
+|-
+| Manacles, masterwork || [[精制镣铐]] || 物品
+|-
+| Manacles, mithral || [[秘银镣铐]] || 其他
+|-
+| Manananggal || [[芒楠安格尔]] || 其他
+|-
+| Manasaputra || [[圣仙绪论]] || 其他
+|-
+| Manasaputra, Maharishi Manu || [[始祖摩奴]] || 其他
+|-
+| Manasaputra, Manu || [[摩奴]] || 其他
+|-
+| Manasaputra, Rishi Manu || [[摩奴圣者]] || 其他
+|-
+| Manasaputra, Solar Pitri || [[烈日祖灵|烈日祖灵Solar]] || 其他
+|-
+| Manasaputra, Twilight Pitri || [[暮光祖灵|暮光祖灵Twilight]] || 其他
+|-
+| Mancatcher || [[捕人叉]] || 物品
+|-
+| Mandragora || [[曼陀罗草]] || 其他
+|-
+| Manifest Manifestation || [[名单显现]] || 其他
+|-
+| Manifested Blood || [[血脉显现]] || 专长
+|-
+| manifold stare || [[多样凝视]] || 专长
+|-
+| Manipulative Agility || [[灵巧手技]] || 专长
+|-
+| Manipulative Presence || [[操控者]] || 其他
+|-
+| Manitou || [[森灵]] || 其他
+|-
+| Mannerly Dress || [[优雅着装]] || 物品
+|-
+| Manople || [[三叉拳剑]] || 物品
+|-
+| Manteau Of The Mouse || [[小鼠罩衣]] || 物品
+|-
+| Manticore || [[蝎狮]] || 其他
+|-
+| Mantis Embrace || [[螳螂之拥]] || 物品
+|-
+| Mantis Style || [[螳螂拳]] || 专长
+|-
+| Mantis Torment || [[螳螂铁刺]] || 专长
+|-
+| Mantis Wisdom || [[六合拳劲]] || 专长
+|-
+| Mantis, Giant || [[巨螳螂]] || 其他
+|-
+| Mantle of calm || [[宁静斗篷]] || 法术
+|-
+| Mantle of doubt || [[疑虑斗篷]] || 法术
+|-
+| Mantle Of Faith || [[信仰披肩]] || 物品
+|-
+| Mantle Of Immortality || [[不朽披肩]] || 物品
+|-
+| Mantle of Life || [[生命披肩]] || 物品
+|-
+| Mantle Of Spell Resistance || [[法术抵抗披肩]] || 物品
+|-
+| Mantle of the Crusader Host || [[十字军圣骸布]] || 物品
+|-
+| Mantle of the Darkest Night || [[至暗之夜披肩]] || 物品
+|-
+| Mantle of the magic warriors || [[魔武者斗篷]] || 法术
+|-
+| mantle of the protector || [[守护者斗篷]] || 物品
+|-
+| Manual Of Bodily Health || [[强身手册]] || 物品
+|-
+| Manual Of Gainful Exercise || [[健骨手册]] || 物品
+|-
+| Manual Of Quickness Of Action || [[灵巧手册]] || 物品
+|-
+| Manual Of War || [[战争手册]] || 物品
+|-
+| Many-Eyed Staff || [[多眼法杖]] || 物品
+|-
+| Manyshot || [[多重射击 (神话)|多重射击]] || 其他
+|-
+| Mapinguari || [[Mapinguari]] || 其他
+|-
+| Marbles || [[弹珠]] || 物品
+|-
+| Marching chant || [[行军号子]] || 法术
+|-
+| Marid Coldsnap || [[雪暴]] || 专长
+|-
+| Marid Spirit || [[冰魂]] || 专长
+|-
+| Marid Style || [[雪灵]] || 专长
+|-
+| Marid's mastery || [[水灵掌控]] || 法术
+|-
+| Marionette Crux || [[傀儡提线架]] || 物品
+|-
+| Marionette possession || [[傀儡凭依]] || 法术
+|-
+| Mark of Blood || [[鲜血之印]] || 法术
+|-
+| Mark of Buoyancy || [[漂浮印记]] || 法术
+|-
+| Mark of Justice || [[审判烙印]] || 法术
+|-
+| Mark of obvious ethics || [[伦理印记]] || 法术
+|-
+| Mark of Slavery || [[奴隶印记]] || 背景特性
+|-
+| mark of spite || [[怨恨之印]] || 法术
+|-
+| Mark of The Grinning Skull || [[狞笑颅骨头环]] || 物品
+|-
+| Mark of the Reptile God || [[蜥神之印]] || 法术
+|-
+| Marked cards || [[作弊纸牌]] || 物品
+|-
+| Marked for Glory || [[注定荣耀]] || 专长
+|-
+| Marker dye || [[标记染料]] || 物品
+|-
+| Market Rat || [[市场鼠辈]] || 背景特性
+|-
+| Marks of forbiddance || [[禁令印记]] || 法术
+|-
+| Marlinspike || [[穿索针]] || 物品
+|-
+| Marshal || [[统帅]] || 其他
+|-
+| Marsupial, Kangaroo || [[袋鼠]] || 其他
+|-
+| Marsupial, Thylacine || [[袋狼]] || 其他
+|-
+| Martial Dominance || [[武装权威]] || 专长
+|-
+| Martial Focus || [[武器专家]] || 专长
+|-
+| Martial Manuscript || [[秘册使]] || 背景特性
+|-
+| Martial Marionette || [[战争人偶]] || 法术
+|-
+| Martial Mastery || [[武器熟稔]] || 专长
+|-
+| Martial Performer || [[演武师]] || 背景特性
+|-
+| Martial telekinesis || [[战斗念力]] || 法术
+|-
+| Martial Versatility || [[武器变通]] || 专长
+|-
+| Martial Weapon Proficiency || [[擅长军用武器]] || 专长
+|-
+| Martyr's Bargain || [[殉道者之约]] || 法术
+|-
+| Martyr's last blessing || [[殉道者的最终祝福]] || 法术
+|-
+| Martyr’s Tear || [[烈士之泪]] || 物品
+|-
+| Marvelous Pigments || [[惊奇染料]] || 物品
+|-
+| Mascot || [[吉祥物]] || 其他
+|-
+| Mask || [[面具]] || 物品
+|-
+| Mask dweomer || [[掩饰魔力]] || 法术
+|-
+| Mask dweomer, communal || [[共用掩饰魔力]] || 法术
+|-
+| Mask From Divination || [[遮蔽预言]] || 法术
+|-
+| Mask Of A Thousand Tomes || [[千文面具]] || 物品
+|-
+| Mask of Conflicting Energies || [[能量矛盾面具]] || 物品
+|-
+| Mask of Cutting Flesh || [[割肉假面]] || 物品
+|-
+| Mask Of Giants, Greater || [[高等巨人面具]] || 物品
+|-
+| Mask Of Giants, Lesser || [[低等巨人面具]] || 物品
+|-
+| Mask of Mad Memories || [[狂乱记忆面具]] || 物品
+|-
+| Mask of Stolen Identities，Gillman || [[身份盗取面具〔半鱼人〕]] || 物品
+|-
+| Mask Of Stony Demeanor || [[冷漠面具]] || 物品
+|-
+| Mask of the Far Traveler || [[远行者面具]] || 物品
+|-
+| Mask Of The Krenshar || [[骨面斑兽面具]] || 物品
+|-
+| Mask Of The Skull || [[头骨面具]] || 物品
+|-
+| Mask of ugliness || [[丑陋面具]] || 物品
+|-
+| Masked || [[掩面者]] || 背景特性
+|-
+| Masked Renown || [[假面声誉]] || 专长
+|-
+| Masked Symbol || [[假面符号]] || 专长
+|-
+| Masochistic shadow || [[受虐之影]] || 法术
+|-
+| Massacre || [[大屠杀]] || 法术
+|-
+| Master Alchemist || [[炼金大师]] || 专长
+|-
+| Master Combat Performer || [[演武大师]] || 专长
+|-
+| Master Craftsman || [[造物专家]] || 专长
+|-
+| Master Delver || [[深隧专家]] || 专长
+|-
+| Master Hammer Throw || [[大师级投掷战锤]] || 专长
+|-
+| Master of Knowledge || [[知识大师]] || 专长
+|-
+| Master of Pentacles || [[召唤阵大师]] || 背景特性
+|-
+| Master of the Ledger || [[账房先生]] || 专长
+|-
+| Master of Undeath || [[不死主宰]] || 其他
+|-
+| Master of Wonders || [[惊奇大师]] || 专长
+|-
+| Master of Your Kind || [[同族之主]] || 专长
+|-
+| Master Siege Engineer || [[攻城宗匠]] || 专长
+|-
+| Master Sniper || [[狙杀王牌]] || 专长
+|-
+| Master Spy || [[间谍大师]] || 职业
+|-
+| Master swimmer || [[游泳大师]] || 专长
+|-
+| Master's Brand，Hobgoblin || [[主人烙印〔大地精〕]] || 物品
+|-
+| Master's escape || [[主宰脱逃]] || 法术
+|-
+| Master's mutation || [[主宰异变]] || 法术
+|-
+| Masterful Demeanor || [[主宰范]] || 背景特性
+|-
+| Masterful Display || [[宗师极意]] || 专长
+|-
+| Masterful Flourish || [[得心应手]] || 专长
+|-
+| Masterwork Flippers || [[精制脚蹼]] || 物品
+|-
+| Masterwork Silver Dagger || [[精制品银匕首]] || 物品
+|-
+| Masterwork Transformation || [[精制品转化术]] || 法术
+|-
+| Mastery of Form || [[形态精通]] || 背景特性
+|-
+| Master’s Perfect Golden Bell || [[大师的完美黄金铃]] || 物品
+|-
+| Matchmaker || [[说媒术]] || 法术
+|-
+| Mathematical curse || [[数学诅咒|Mathematical curse]] || 其他
+|-
+| Mathematical Prodigy || [[数理通]] || 背景特性
+|-
+| Mattock || [[鹤嘴锄]] || 物品
+|-
+| Mattock Of The Titans || [[泰坦鹤嘴锄]] || 物品
+|-
+| Maul Of The Titans || [[泰坦木槌]] || 物品
+|-
+| Mauler || [[战宠]] || 其他
+|-
+| Maw of chaos || [[混沌之喉]] || 法术
+|-
+| Maw Of The Wyrm || [[飞龙之口]] || 物品
+|-
+| Maximize Metamagic Rod || [[极效超魔权杖]] || 物品
+|-
+| Maximize Spell || [[法术极效]] || 专长
+|-
+| Maximize Surge || [[神力喷涌]] || 专长
+|-
+| Maximized Spellstrike || [[极效法术打击]] || 专长
+|-
+| Maze || [[迷宫术 (神话)|迷宫术]] || 其他
+|-
+| Maze Expert || [[迷宫专家]] || 专长
+|-
+| Maze of madness and suffering || [[癫狂与苦难的迷宫]] || 法术
+|-
+| Mazludeh's Shield Token || [[玛兹卢德赫盾符]] || 物品
+|-
+| Measure Foe || [[武艺评估]] || 专长
+|-
+| Measured Response || [[黄金律]] || 专长
+|-
+| Mechanical Aptitude || [[机械天赋]] || 背景特性
+|-
+| Mechanical Expertise || [[机械专业知识]] || 背景特性
+|-
+| Medal of the Hero's Heart || [[雄心奖章]] || 物品
+|-
+| Medallion of Demonic Disruption || [[驱魔勋章]] || 物品
+|-
+| Medallion of thought projection || [[思想放射徽章]] || 物品
+|-
+| Medallion Of Thoughts || [[读心勋章]] || 物品
+|-
+| Mediator || [[调停人]] || 背景特性
+|-
+| Meditation Master || [[冥想大师]] || 专长
+|-
+| Meditative Concentration || [[冥想专注]] || 专长
+|-
+| Meditative Rest || [[冥想休息]] || 背景特性
+|-
+| Medium || [[通灵者]] || 其他
+|-
+| Medium spider venom || [[中型蜘蛛毒]] || 物品
+|-
+| Medusa || [[蛇发女妖]] || 其他
+|-
+| Medusa Mask || [[美杜莎面具]] || 物品
+|-
+| Medusa's bane || [[蛇发女妖之灾]] || 法术
+|-
+| Medusa's Wrath || [[万蛇出洞 (神话)|万蛇出洞]] || 其他
+|-
+| Medusa’s Wrath || [[万蛇出洞]] || 其他
+|-
+| Meduseion || [[美杜莎首]] || 物品
+|-
+| Meels || [[棒铃]] || 物品
+|-
+| Megafauna, Archelon || [[古巨龟]] || 其他
+|-
+| Megafauna, Arsinoitherium || [[重脚兽]] || 其他
+|-
+| Megafauna, Baluchitherium || [[俾路支兽]] || 其他
+|-
+| Megafauna, Basilosaurus || [[龙王鲸]] || 其他
+|-
+| Megafauna, Brontotherium || [[远古巨兽，雷兽|雷兽]] || 其他
+|-
+| Megafauna, Chalicotherium || [[Chalicotherium]] || 其他
+|-
+| Megafauna, Deinotherium || [[Deinotherium]] || 其他
+|-
+| Megafauna, Elasmotherium || [[Elasmotherium]] || 其他
+|-
+| Megafauna, Gylptodon || [[雕齿兽]] || 其他
+|-
+| Megafauna, Kaprosuchus || [[Kaprosuchus]] || 其他
+|-
+| Megafauna, Megalania || [[古巨蜥]] || 其他
+|-
+| Megafauna, Megaloceros || [[大角鹿]] || 其他
+|-
+| Megafauna, Megatherium || [[大地獭]] || 其他
+|-
+| Megafauna, Moa || [[Moa]] || 其他
+|-
+| Megafauna, Titanoboa || [[远古巨兽，泰坦巨蟒|泰坦巨蟒]] || 其他
+|-
+| Megafauna, Uintatherium || [[Uintatherium]] || 其他
+|-
+| Melancholic Talisman || [[忧虑护身符]] || 物品
+|-
+| Meld into Stone || [[融身入石]] || 法术
+|-
+| Melding Cloak || [[融合披风]] || 物品
+|-
+| Meltdown Safe || [[融炉保险箱]] || 物品
+|-
+| Memento Mori || [[死亡象征]] || 物品
+|-
+| Memorable || [[印象深刻]] || 背景特性
+|-
+| Memoriam Root || [[悼念之根]] || 物品
+|-
+| Memorize page || [[背书咒]] || 法术
+|-
+| Memory Incense || [[记忆熏香]] || 物品
+|-
+| Memory Lapse || [[记忆空白 (神话)|记忆空白]] || 其他
+|-
+| Memory lapse || [[记忆空白]] || 其他
+|-
+| Memory of Function || [[功能记录]] || 法术
+|-
+| Menacing Bane || [[威胁破敌]] || 专长
+|-
+| Mending || [[修复术]] || 法术
+|-
+| Mental Barrier II || [[精神屏障 II]] || 法术
+|-
+| Mental Barrier III || [[精神屏障 III]] || 法术
+|-
+| Mental Barrier IV || [[精神屏障 IV]] || 法术
+|-
+| Mental block || [[脑力屏蔽]] || 法术
+|-
+| Mental Derail || [[心智脱轨]] || 专长
+|-
+| Mental Stare || [[心灵注视]] || 专长
+|-
+| Mentored || [[指导师]] || 背景特性
+|-
+| Mephistopheles || [[墨菲斯托菲利斯]] || 其他
+|-
+| Mephit || [[魔蝠]] || 其他
+|-
+| Mephit-Head Arrow || [[魔蝠首级之箭]] || 物品
+|-
+| Mercane || [[位面商族]] || 其他
+|-
+| Mercenary || [[雇佣兵]] || 背景特性
+|-
+| Mercenary Healer || [[佣兵医师]] || 其他
+|-
+| Mercenary Magician || [[术法师佣兵]] || 其他
+|-
+| Merchant || [[从商者]] || 背景特性
+|-
+| Merciful Baldric || [[恩惠绶带]] || 物品
+|-
+| Merciful Bane || [[悲悯破敌]] || 专长
+|-
+| Merciful Metamagic Rod || [[慈悯超魔权杖]] || 物品
+|-
+| Merciful Scimitar || [[慈悲之刃]] || 背景特性
+|-
+| Merciful Spell || [[慈悯法术]] || 专长
+|-
+| Merciful Vambraces || [[慈悯臂铠]] || 物品
+|-
+| Merciless Beating || [[残忍击打]] || 专长
+|-
+| Merciless Butchery || [[无情杀戮]] || 专长
+|-
+| Merciless Rush || [[横冲直撞]] || 专长
+|-
+| Mercy || [[怜悯]] || 专长
+|-
+| Mere club || [[石磨棒]] || 物品
+|-
+| Merfolk || [[人鱼(怪物)|人鱼]] || 其他
+|-
+| Merfolk, Deep || [[Deep Merfolk]] || 其他
+|-
+| Merform Belt || [[人鱼腰带]] || 物品
+|-
+| Merge With Familiar || [[人宠合一]] || 法术
+|-
+| Meridian Belt || [[四环腰带]] || 物品
+|-
+| Merrow || [[食人水怪]] || 其他
+|-
+| Mesmerist || [[催眠师]] || 其他
+|-
+| Mesmerizing Feint || [[摄神虚招]] || 专长
+|-
+| Mesmerizing Tattoo || [[迷幻刺青]] || 物品
+|-
+| Mess kit || [[餐具]] || 物品
+|-
+| Message || [[传讯术]] || 法术
+|-
+| Messenger of Fate || [[命运信使]] || 专长
+|-
+| Metabolic molting || [[蜕皮代谢]] || 法术
+|-
+| Metallic Dragon, Brass || [[金属龙，黄铜龙|少年黄铜龙]] || 其他
+|-
+| Metallic Dragon, Bronze || [[金属龙，青铜龙|少年青铜龙]] || 其他
+|-
+| Metallic Dragon, Copper || [[金属龙，赤铜龙|少年赤铜龙]] || 其他
+|-
+| Metallic Dragon, Gold || [[金属龙，金龙|少年金龙]] || 其他
+|-
+| Metallic Dragon, Silver || [[金属龙，银龙|少年银龙]] || 其他
+|-
+| Metallic Wings || [[金属之翼]] || 专长
+|-
+| Metalseeker Swarm || [[金属探测器]] || 物品
+|-
+| Metamagic Gem || [[超魔宝石]] || 物品
+|-
+| Metamagical Synergy || [[协同超魔]] || 专长
+|-
+| Meteor hammer || [[流星锤]] || 物品
+|-
+| Meteor Swarm || [[流星爆 (神话)|流星爆]] || 其他
+|-
+| Meticulous || [[谨小慎微]] || 背景特性
+|-
+| Meticulous Concoction || [[精配师]] || 背景特性
+|-
+| Meticulous match || [[精确比对]] || 法术
+|-
+| Mezlan || [[㦟泽郎]] || 其他
+|-
+| Miasmal dread || [[恐惧喷发]] || 法术
+|-
+| Miasmatic form || [[瘴气形态]] || 法术
+|-
+| Miasmatic Mark || [[瘴气面具]] || 物品
+|-
+| Microcosm || [[心像囚笼]] || 法术
+|-
+| Mighty Fist of the Earth || [[御土击 (神话)|御土击]] || 其他
+|-
+| Mighty fist of the earth || [[御土击]] || 其他
+|-
+| Mighty Protector || [[强力守卫]] || 背景特性
+|-
+| Mighty Strength || [[强壮之力]] || 法术
+|-
+| Migrus Locker || [[猫妖箱]] || 物品
+|-
+| Mihstu || [[迷妖雾]] || 其他
+|-
+| Milani || [[密拉妮]] || 神祇
+|-
+| Milanite Armor || [[密拉妮护甲]] || 物品
+|-
+| Militant Merchant || [[战斗商人]] || 背景特性
+|-
+| Militia || [[民兵]] || 背景特性
+|-
+| Militia Veteran || [[护卫兵]] || 背景特性
+|-
+| Mimic || [[拟形怪]] || 其他
+|-
+| Mimic fibers || [[拟态纤维]] || 物品
+|-
+| Mind Blank || [[心灵屏障]] || 法术
+|-
+| Mind blank, communal || [[共用心灵屏障]] || 法术
+|-
+| Mind Buttressing || [[思维支撑]] || 物品
+|-
+| Mind Fog || [[心灵迷雾]] || 法术
+|-
+| Mind maze || [[心灵迷宫]] || 法术
+|-
+| Mind over matter || [[精神胜于物质]] || 法术
+|-
+| Mind probe || [[精神质询]] || 法术
+|-
+| Mind Sentinel Medallion || [[心灵岗哨勋章]] || 物品
+|-
+| Mind Strike || [[摧残心智]] || 专长
+|-
+| Mind swap || [[换身术]] || 法术
+|-
+| Mind Swap, Major || [[强效换身术]] || 法术
+|-
+| Mind Thrust II || [[心灵戳刺 II]] || 法术
+|-
+| Mind Thrust III || [[心灵戳刺 III]] || 法术
+|-
+| Mind Thrust IV || [[心灵戳刺 IV]] || 法术
+|-
+| Mind Thrust VI || [[心灵戳刺 VI]] || 法术
+|-
+| Mind Trapper || [[大忽悠]] || 背景特性
+|-
+| Mindlink || [[讯息传递]] || 法术
+|-
+| Mindlocked messenger || [[心锁信使]] || 法术
+|-
+| Mindmaster’s Eyes || [[控心之眼]] || 物品
+|-
+| Mindrust || [[蚀心锈]] || 物品
+|-
+| Mindscape door || [[心像门]] || 法术
+|-
+| Mindshock || [[心灵震荡]] || 法术
+|-
+| Mindslaver Mold || [[驭灵菌]] || 其他
+|-
+| Mindspin Mountain Goat || [[旋心山之羊]] || 其他
+|-
+| Mindwipe || [[心智擦除]] || 法术
+|-
+| Miner || [[矿工]] || 其他
+|-
+| Miner's Lantern || [[矿工灯]] || 物品
+|-
+| Miner's pick || [[矿工用十字镐]] || 物品
+|-
+| Mineral Acid || [[溶矿酸]] || 专长
+|-
+| Minor Creation || [[弱效造物术]] || 法术
+|-
+| Minor dream || [[弱效托梦术]] || 法术
+|-
+| Minor Image || [[弱效幻影]] || 法术
+|-
+| Minor Miracle || [[小型奇迹]] || 专长
+|-
+| Minor phantom object || [[弱效虚假物品]] || 法术
+|-
+| Minor reversion || [[弱效还元术]] || 法术
+|-
+| Minor reversion, mass || [[群体弱效还元术]] || 法术
+|-
+| Minor Spell Expertise || [[次等法术专修]] || 专长
+|-
+| Minotaur || [[牛头人]] || 其他
+|-
+| Minotaur Belt || [[牛头人腰带]] || 物品
+|-
+| Miracle || [[神迹术]] || 法术
+|-
+| Mirage || [[蜃景]] || 法术
+|-
+| Mirage Arcana || [[海市蜃楼]] || 法术
+|-
+| Mirage Mixture || [[幻景混合]] || 物品
+|-
+| Mire Nettle || [[Mire Nettle]] || 其他
+|-
+| Mirror || [[镜子]] || 物品
+|-
+| Mirror hideaway || [[镜中藏身处]] || 法术
+|-
+| Mirror Image || [[镜影术 (神话)|镜影术]] || 其他
+|-
+| Mirror Kin || [[镜像双子]] || 专长
+|-
+| Mirror Mantis || [[螳螂镜影]] || 法术
+|-
+| Mirror Move || [[如影随形]] || 专长
+|-
+| Mirror Of Guarding Reflections || [[镜像保护镜]] || 物品
+|-
+| Mirror Of Life Trapping || [[摄心镜]] || 物品
+|-
+| Mirror Of Mental Prowess || [[灵光镜]] || 物品
+|-
+| Mirror Of Opposition || [[死敌分身镜]] || 物品
+|-
+| Mirror polish || [[镜面抛光]] || 法术
+|-
+| Mirror strike || [[镜像打击]] || 法术
+|-
+| Mirror transport || [[镜面传送术]] || 法术
+|-
+| Misbegotten || [[畸形]] || 背景特性
+|-
+| Mischievous shadow || [[顽劣鬼影]] || 法术
+|-
+| Mischievous Smite || [[恶作剧制裁]] || 背景特性
+|-
+| Mischievous Tail || [[调皮用尾巴]] || 专长
+|-
+| Misdirection || [[误导术]] || 法术
+|-
+| Misdirection Attack || [[反击误导]] || 专长
+|-
+| Misdirection Redirection || [[转向误导]] || 专长
+|-
+| Misdirection Tactics || [[误导战法]] || 专长
+|-
+| Miserable || [[悲惨]] || 物品
+|-
+| Miserable pity || [[示敌以弱]] || 法术
+|-
+| Miser’s Mask || [[守财奴面具]] || 物品
+|-
+| Mislead || [[假象术 (神话)|假象术]] || 其他
+|-
+| Missile Shield || [[盾牌辟矢 (神话)|盾牌辟矢]] || 其他
+|-
+| Missionary || [[传教士]] || 背景特性
+|-
+| Missive Stone || [[指令石]] || 物品
+|-
+| Mistletoe || [[槲寄生]] || 物品
+|-
+| Mistmail || [[雾纺软甲]] || 物品
+|-
+| Mite || [[螨精]] || 其他
+|-
+| Mithral full plate of speed || [[迅捷秘银甲]] || 物品
+|-
+| Mithral Heavy Shield || [[秘银重盾]] || 物品
+|-
+| Mithral manacles || [[秘银镣铐(冒险装备)|秘银镣铐]] || 物品
+|-
+| Mithral Shirt || [[秘银衫]] || 物品
+|-
+| MithralChain || [[秘银锁链]] || 物品
+|-
+| Mitre Of The Hierophant || [[大祭司之冠]] || 物品
+|-
+| Mivoni Duelist || [[米翁决斗家]] || 背景特性
+|-
+| Mizu Ki Hikari Rebel || [[明光叛党]] || 其他
+|-
+| Mi–Go || [[米–戈]] || 其他
+|-
+| Mnemonic Enhancer || [[强记术]] || 法术
+|-
+| Mnemonic Siphon || [[记忆虹吸]] || 法术
+|-
+| Mnemonic Vestment || [[记忆法衣]] || 物品
+|-
+| Mngwa || [[夜狮]] || 其他
+|-
+| Mobile Acrobat || [[机动特技]] || 专长
+|-
+| Mobile Bulwark Style || [[铁壁流]] || 专长
+|-
+| Mobile Fortress || [[铁壁 · 坚]] || 专长
+|-
+| Mobile Gathering || [[移动凝聚]] || 专长
+|-
+| Mobile hospital || [[流动医院]] || 物品
+|-
+| Mobile Stronghold || [[铁壁 · 固]] || 专长
+|-
+| Mobility || [[灵活移动 (神话)|灵活移动]] || 其他
+|-
+| Mobogo || [[沼原魔蟾]] || 其他
+|-
+| Mock armor || [[伪装盔甲]] || 物品
+|-
+| Mock Gladiator || [[角斗表演家]] || 背景特性
+|-
+| Mocking Dance || [[嘲弄舞步]] || 专长
+|-
+| Mockingfey || [[拟容精]] || 其他
+|-
+| Mockingskull || [[嘲弄头骨]] || 物品
+|-
+| Modified Weapon Proficiency || [[擅长改造武器]] || 专长
+|-
+| Modify Memory || [[篡改记忆 (神话)|篡改记忆]] || 其他
+|-
+| Mohrg || [[魔魂尸]] || 其他
+|-
+| Mokele–Mbembe || [[河霸龙]] || 其他
+|-
+| Moldwretch || [[Moldwretch]] || 其他
+|-
+| Moloch || [[摩洛克]] || 其他
+|-
+| Molten orb || [[熔融铁球]] || 法术
+|-
+| Molten Shot Cartridge || [[热熔定装弹]] || 专长
+|-
+| Moment of greatness || [[光荣时刻]] || 法术
+|-
+| Moment of Prescience || [[片刻预知]] || 法术
+|-
+| Monad || [[一者，众律]] || 其他
+|-
+| Monastic Legacy || [[修道传承 (神话)|修道传承]] || 其他
+|-
+| Monastic Warden || [[护院刀]] || 物品
+|-
+| Mongrel Giant || [[混血巨人|混血穴巨人]] || 其他
+|-
+| Mongrelman || [[杂种人]] || 其他
+|-
+| Monk || [[掉链武僧]] || 其他
+|-
+| Monk Weapon Skill || [[僧院武术]] || 背景特性
+|-
+| Monk's kit || [[武僧工具包]] || 物品
+|-
+| Monk's spade || [[禅杖]] || 物品
+|-
+| Monkey || [[猴子]] || 物品
+|-
+| Monkey Belt || [[灵猴腰带]] || 物品
+|-
+| Monkey Belt, Greater || [[高等灵猴腰带]] || 物品
+|-
+| Monkey fish || [[猴爪鱼鳍]] || 法术
+|-
+| Monkey Lunge || [[灵猴突刺]] || 专长
+|-
+| Monkey Moves || [[猿步]] || 专长
+|-
+| Monkey Shine || [[猿搏]] || 专长
+|-
+| Monkey Statue || [[猴像]] || 物品
+|-
+| Monkey Style || [[猴拳]] || 专长
+|-
+| Monkey's Paw || [[猿猴之手]] || 物品
+|-
+| Monk’s Robe || [[武僧之袍]] || 物品
+|-
+| Monocle Of The Investigator || [[调查员的单片镜]] || 物品
+|-
+| Monster Almanac || [[怪物年鉴]] || 物品
+|-
+| Monster Almanac, Greater || [[高等怪物年鉴]] || 物品
+|-
+| Monster Bait || [[怪物诱饵]] || 物品
+|-
+| Monster Challenger || [[怪物挑战者]] || 背景特性
+|-
+| Monster Dummy || [[怪物假人]] || 物品
+|-
+| Monster Hunter || [[怪物猎人]] || 其他
+|-
+| Monster Hunter’s Kit || [[怪物猎人工具包]] || 物品
+|-
+| Monster Scholar || [[怪物学者]] || 背景特性
+|-
+| Monster Spotter || [[怪物雷达]] || 专长
+|-
+| Monster Stalker || [[怪物追踪者]] || 背景特性
+|-
+| Monster Survivor || [[怪物幸存者]] || 背景特性
+|-
+| Monstrification Staff || [[异化法杖]] || 物品
+|-
+| Monstrous Crafter || [[怪物工匠]] || 专长
+|-
+| Monstrous Disguise || [[怪物伪装]] || 专长
+|-
+| Monstrous Dye || [[怪物染料]] || 物品
+|-
+| Monstrous Extremities || [[肢体畸变]] || 法术
+|-
+| Monstrous Mask || [[恐怖面容]] || 专长
+|-
+| Monstrous Masquerade || [[怪物假面]] || 专长
+|-
+| Monstrous Mount || [[怪物坐骑]] || 专长
+|-
+| Monstrous Mount Mastery || [[精熟怪物坐骑]] || 专长
+|-
+| Monstrous Physique || [[类人形态 (神话)|类人形态]] || 其他
+|-
+| Monstrous Physique II || [[类人形态 II]] || 其他
+|-
+| Monstrous Physique III || [[类人形态 III]] || 其他
+|-
+| Monstrous Physique IV || [[类人形态 IV]] || 其他
+|-
+| Monument Builder || [[不朽巨匠]] || 专长
+|-
+| Moon Clock || [[月光怀表]] || 物品
+|-
+| Moon Dog || [[Moon Dog]] || 其他
+|-
+| Moonflower || [[月光花]] || 其他
+|-
+| Moonlight Lantern || [[月光灯笼]] || 物品
+|-
+| Moonlight Stalker || [[月夜伏击者]] || 专长
+|-
+| Moonlight Stalker Feint || [[月夜虚招]] || 专长
+|-
+| Moonlight Stalker Master || [[月夜伏击大师]] || 专长
+|-
+| Moonlight Summons || [[月光召唤]] || 专长
+|-
+| Moonrise arrow || [[月出之箭]] || 法术
+|-
+| Moonstruck || [[月狂病]] || 法术
+|-
+| Moontouched || [[月裔]] || 专长
+|-
+| Moon–Beast || [[月兽]] || 其他
+|-
+| Mordant Heritage || [[曼德特的传统]] || 背景特性
+|-
+| Morlock || [[摩洛克(怪物)|摩洛克]] || 其他
+|-
+| Morlock Hide || [[穴人皮]] || 物品
+|-
+| Morning sun || [[朝阳]] || 法术
+|-
+| Morningstar || [[钉头锤]] || 物品
+|-
+| Mortal terror || [[死亡恐怖]] || 法术
+|-
+| Moschabbatt || [[莫斯卡巴特]] || 其他
+|-
+| Mosquito Swarm || [[蚊群]] || 其他
+|-
+| Mosquito, Giant || [[巨蚊]] || 其他
+|-
+| Moss Cloak || [[苔藓披风]] || 物品
+|-
+| Mosslord || [[苔藓领主]] || 其他
+|-
+| Mosswater Stained Leather || [[苔水染色甲]] || 物品
+|-
+| Mossy || [[莫西绿艾恩石]] || 物品
+|-
+| Motes of dusk and dawn || [[晨昏之尘]] || 法术
+|-
+| Mother of Beasts || [[野兽之母]] || 其他
+|-
+| Mother Vulture || [[秃鹫母亲]] || 其他
+|-
+| Mother's Teeth || [[兽母牙]] || 背景特性
+|-
+| Mother-Sphinx Token || [[斯芬克斯之母符咒]] || 物品
+|-
+| Motherless || [[没有母亲]] || 背景特性
+|-
+| Mother’s Gift || [[母亲赠礼]] || 专长
+|-
+| Mothman || [[天蛾人]] || 其他
+|-
+| Motivating Display || [[激励技巧]] || 专长
+|-
+| Mount || [[坐骑术]] || 法术
+|-
+| Mount, communal || [[共用召唤坐骑]] || 法术
+|-
+| Mount-Splitting Pick，Dwarf || [[破山镐〔矮人〕]] || 物品
+|-
+| Mountain Eyes || [[群山之眼]] || 专长
+|-
+| Mountain pattern || [[山文铠]] || 物品
+|-
+| Mountain-Splitting Strike || [[开山掌]] || 专长
+|-
+| Mountaineer || [[登山者]] || 专长
+|-
+| Mountebank's Megaphone || [[江湖骗子之喇叭筒]] || 物品
+|-
+| Mounted Archery || [[骑乘射击 (神话)|骑乘射击]] || 其他
+|-
+| Mounted Combat || [[骑乘战斗 (神话)|骑乘战斗]] || 其他
+|-
+| Mounted Onslaught || [[骑乘猛攻]] || 专长
+|-
+| Mounted Shield || [[骑乘盾牌防御]] || 专长
+|-
+| Mounted Skirmisher || [[骑乘散兵]] || 专长
+|-
+| Move Earth || [[地动术 (神话)|地动术]] || 其他
+|-
+| Mrtyu || [[姆尔图]] || 其他
+|-
+| Mu Spore || [[穆之巨菌]] || 其他
+|-
+| Mu spore secretions || [[穆之巨菌分泌物]] || 物品
+|-
+| Muckdweller || [[淤泥蜥]] || 其他
+|-
+| Muckdweller, Giant || [[巨淤泥蜥]] || 其他
+|-
+| Mud Buddy || [[泥塑伙伴]] || 法术
+|-
+| Mud in Your Eye || [[以泥糊眼]] || 专长
+|-
+| Mudball || [[泥球糊脸]] || 法术
+|-
+| Muddled Morals || [[酒后乱性]] || 专长
+|-
+| Mudlord || [[泥霸]] || 其他
+|-
+| Muffle sound || [[消音术]] || 法术
+|-
+| Muhuru || [[Muhuru]] || 其他
+|-
+| Mulberry || [[深紫红艾恩石]] || 物品
+|-
+| Multiattack || [[多重攻击]] || 专长
+|-
+| Multimetal Mace || [[复合金属锤]] || 物品
+|-
+| Multitalented Mastery || [[文武全能]] || 专长
+|-
+| Multiversal Knowledge || [[多元知识]] || 其他
+|-
+| Multiweapon Fighting || [[多重武器战斗]] || 专长
+|-
+| Mummer’s Ruff || [[演员领结]] || 物品
+|-
+| Mummified Creature || [[木乃伊化生物|木乃伊化女面斯芬克斯]] || 其他
+|-
+| Mummy || [[木乃伊]] || 其他
+|-
+| Mummy Lord || [[木乃伊领主]] || 其他
+|-
+| Mummy, Swamp || [[泥沼木乃伊]] || 其他
+|-
+| Munavri || [[白化人(怪物)|白化人]] || 其他
+|-
+| Mundane Items || [[常见物品]] || 物品
+|-
+| Mundanity Grease || [[返俗油膏]] || 物品
+|-
+| Murderer's Blackcloth || [[杀手黑袍]] || 物品
+|-
+| Murderer's Circle || [[杀戮回旋]] || 专长
+|-
+| Murderer's Machete || [[凶手弯刀]] || 物品
+|-
+| Murderer's Machete, Greater || [[高等凶手弯刀]] || 物品
+|-
+| Murderous Command || [[谋杀指令 (神话)|谋杀指令]] || 其他
+|-
+| Murderous command || [[谋杀指令]] || 其他
+|-
+| Murderous crow || [[凶暴乌鸦]] || 法术
+|-
+| Murderous Halfling || [[嗜杀半身人]] || 其他
+|-
+| Murderous Sniper || [[夺命狙杀]] || 专长
+|-
+| Murky Metamagic Rod || [[浑浊超魔权杖]] || 物品
+|-
+| Murky spell || [[浑浊法术]] || 专长
+|-
+| Murmurs of Earth || [[大地的低语]] || 专长
+|-
+| Muscle of the Society || [[协会的肌肉训练]] || 背景特性
+|-
+| Muse || [[缪斯]] || 其他
+|-
+| Music of the Spheres || [[天体之音]] || 法术
+|-
+| Musical Staff || [[音声法杖]] || 物品
+|-
+| Musk kit || [[麝香套箱]] || 物品
+|-
+| Musket || [[滑膛枪]] || 物品
+|-
+| Musketeer's Daring || [[火枪手的胆气]] || 专长
+|-
+| Musketeer's Dodge || [[火枪手闪避]] || 专长
+|-
+| Musketeer's Reposition || [[火枪手换位]] || 专长
+|-
+| Musketeer's Sidestep || [[火枪手的滑步]] || 专长
+|-
+| Mutagenic touch || [[突变之触]] || 法术
+|-
+| Mutant || [[变种人|超级变种人]] || 其他
+|-
+| Mutant Eye || [[变异之眼]] || 背景特性
+|-
+| Mutant Goblin || [[变异地精]] || 其他
+|-
+| Mutated Shape || [[变异型态]] || 专长
+|-
+| Mute Dart || [[哑镖]] || 物品
+|-
+| Mwangi coffee || [[芒吉咖啡]] || 物品
+|-
+| Mwangi Herbal Tradition || [[芒吉草药传统]] || 背景特性
+|-
+| Mwangi Linguist || [[芒吉语言学家]] || 背景特性
+|-
+| My Blade Is Yours || [[武器协同]] || 专长
+|-
+| Myceloid || [[蘑菇人]] || 其他
+|-
+| Mydriatic spontaneity || [[自发性散瞳]] || 法术
+|-
+| Mydriatic spontaneity, mass || [[群体自发性散瞳]] || 法术
+|-
+| Myrmecoleon || [[蚁狮]] || 其他
+|-
+| Mystery Cultist || [[神秘教徒]] || 其他
+|-
+| Mystery Initiate || [[秘仪初识者]] || 背景特性
+|-
+| Mystic Stride || [[高等穿林]] || 专长
+|-
+| Mystic Theurge || [[秘术师]] || 职业
+|-
+| Mythic Aboleth || [[神话底栖魔鱼]] || 其他
+|-
+| Mythic Bone Devil || [[神话骨魔]] || 其他
+|-
+| Mythic Cockatrice || [[神话鸡蛇兽]] || 其他
+|-
+| Mythic Companion || [[参与神话]] || 专长
+|-
+| Mythic Crafter || [[神话工匠]] || 专长
+|-
+| Mythic Elder Air Elemental || [[神话气元素|神话气元素长老]] || 其他
+|-
+| Mythic Elder Earth Elemental || [[神话土元素|神话土元素长老]] || 其他
+|-
+| Mythic Elder Fire Elemental || [[神话火元素|神话火元素长老]] || 其他
+|-
+| Mythic Elder Water Elemental || [[神话水元素|神话水元素长老]] || 其他
+|-
+| Mythic Ettin || [[神话双头巨人]] || 其他
+|-
+| Mythic Fire Giant || [[神话火巨人]] || 其他
+|-
+| Mythic Flesh Golem || [[神话血肉魔像]] || 其他
+|-
+| Mythic Gargoyle || [[神话石像鬼]] || 其他
+|-
+| Mythic Great Cyclops || [[神话独眼巨兽]] || 其他
+|-
+| Mythic Greater Barghest || [[神话大犬魔]] || 其他
+|-
+| Mythic Griffon || [[神话狮鹫]] || 其他
+|-
+| Mythic Hell Hound || [[神话地狱犬]] || 其他
+|-
+| Mythic Hill Giant || [[神话山丘巨人]] || 其他
+|-
+| Mythic Human Skeleton || [[神话骷髅|神话人类骷髅]] || 其他
+|-
+| Mythic Hydra || [[神话多头蛇]] || 其他
+|-
+| Mythic Ice Devil || [[神话冰魔]] || 其他
+|-
+| Mythic Juvenile White Dragon || [[神话白龙|神话青少年白龙]] || 其他
+|-
+| Mythic Lamia || [[神话拉米亚]] || 其他
+|-
+| Mythic Lich || [[神话巫妖]] || 其他
+|-
+| Mythic Manticore || [[神话蝎狮]] || 其他
+|-
+| Mythic Marilith || [[神话六臂蛇魔]] || 其他
+|-
+| Mythic Mature Adult Black Dragon || [[神话黑龙|神话壮年黑龙]] || 其他
+|-
+| Mythic Mature Adult Blue Dragon || [[神话蓝龙|神话壮年蓝龙]] || 其他
+|-
+| Mythic Medusa || [[神话蛇发女妖]] || 其他
+|-
+| Mythic Minotaur || [[神话牛头人]] || 其他
+|-
+| Mythic Mummy || [[神话木乃伊]] || 其他
+|-
+| Mythic Nalfeshnee || [[神话判魂魔]] || 其他
+|-
+| Mythic Ogre || [[神话食人魔]] || 其他
+|-
+| Mythic Owlbear || [[神话枭熊]] || 其他
+|-
+| Mythic Paragon || [[神话典范]] || 专长
+|-
+| Mythic Phoenix || [[神话凤凰]] || 其他
+|-
+| Mythic Rakshasa || [[神话罗刹]] || 其他
+|-
+| Mythic severance || [[隔绝神力]] || 法术
+|-
+| Mythic Spell Lore || [[神话法术学识]] || 专长
+|-
+| Mythic Sphinx || [[神话女面斯芬克斯]] || 其他
+|-
+| Mythic Treant || [[神话树人]] || 其他
+|-
+| Mythic Troll || [[神话巨魔]] || 其他
+|-
+| Mythic Vampire || [[神话吸血鬼]] || 其他
+|-
+| Mythic Very Old Green Dragon || [[神话绿龙|神话极老绿龙]] || 其他
+|-
+| Mythic Vrock || [[神话鹫魔]] || 其他
+|-
+| Mythic Winter Wolf || [[神话冬狼]] || 其他
+|-
+| Mythic Worg || [[神话座狼]] || 其他
+|-
+| Mythic Wyvern || [[神话双足飞龙]] || 其他
+|-
+| Mythic Young Red Dragon || [[神话红龙|神话少年红龙]] || 其他
+|-
+| Nacreous Gray || [[珍珠灰艾恩石]] || 物品
+|-
+| Naga Emissary || [[娜迦间谍]] || 背景特性
+|-
+| Naga shape i || [[娜迦形态 I]] || 法术
+|-
+| Naga shape ii || [[娜迦形态 II]] || 法术
+|-
+| Naga shape iii || [[娜迦形态 III]] || 法术
+|-
+| Naga, Dark || [[黑暗娜迦]] || 其他
+|-
+| Naga, Dream || [[DReam Naga]] || 其他
+|-
+| Naga, Guardian || [[守护娜迦]] || 其他
+|-
+| Naga, Lunar || [[月娜迦]] || 其他
+|-
+| Naga, Royal || [[帝王娜迦]] || 其他
+|-
+| Naga, Slime || [[Slime Naga]] || 其他
+|-
+| Naga, Spirit || [[幽魂娜迦]] || 其他
+|-
+| Naga, Water || [[水娜迦]] || 其他
+|-
+| Naga-Scale Bindi || [[娜迦鳞片约束]] || 物品
+|-
+| Nagaji || [[娜迦裔(怪物)|纳迦裔]] || 其他
+|-
+| Naginata || [[薙刀]] || 物品
+|-
+| Naiad || [[水泽之灵(怪物)|水泽之灵]] || 其他
+|-
+| Nail of Blood || [[血魔钉]] || 物品
+|-
+| Nail of Princess || [[苍姬尖钉]] || 物品
+|-
+| Naive || [[天真]] || 背景特性
+|-
+| Nalinivati || [[纳丽尼瓦提]] || 神祇
+|-
+| Named Bullet || [[指名狙杀 (神话)|指名狙杀]] || 其他
+|-
+| Named bullet || [[指名狙杀]] || 其他
+|-
+| Named bullet, greater || [[高等指名狙杀]] || 法术
+|-
+| Nap stack || [[压缩睡眠]] || 法术
+|-
+| Narakaas || [[纳拉卡斯]] || 其他
+|-
+| Narrow Escape || [[死里逃生]] || 背景特性
+|-
+| Narrow Frame || [[纤细身躯]] || 专长
+|-
+| Narrows Survivor || [[九死一生]] || 背景特性
+|-
+| Nation Builder || [[开国元勋]] || 专长
+|-
+| Natural Arcanist || [[原生奥能师]] || 其他
+|-
+| Natural Charmer || [[天生丽质]] || 专长
+|-
+| Natural Flyer || [[此翼天成]] || 背景特性
+|-
+| Natural Magic || [[自然魔法(背景特性)|自然魔法]] || 其他
+|-
+| Natural Philosopher || [[自然哲理]] || 背景特性
+|-
+| Natural Poison Antitoxin || [[天然毒素抗毒剂]] || 专长
+|-
+| Natural Poison Harvester || [[天然毒素采集员]] || 专长
+|-
+| Natural Reclamation || [[自然改造]] || 其他
+|-
+| Natural rhythm || [[野性节拍]] || 法术
+|-
+| NATURAL RULER || [[天生统治者]] || 专长
+|-
+| Natural Spell || [[自然施法 (神话)|自然施法]] || 其他
+|-
+| Natural-Born Leader || [[领袖派]] || 背景特性
+|-
+| Naturalist || [[自然主义者]] || 背景特性
+|-
+| Naturally Gifted || [[天资聪颖]] || 背景特性
+|-
+| Nature Climbing Harness || [[野外攀爬背带]] || 物品
+|-
+| Nature Magic || [[自然魔法]] || 其他
+|-
+| Nature Soul || [[自然之魂]] || 专长
+|-
+| Nature Warden || [[自然守望者]] || 职业
+|-
+| Nature Worshiper || [[自然礼拜者]] || 其他
+|-
+| Nature's exile || [[自然的流放]] || 法术
+|-
+| Nature's Freedom || [[荒野自如]] || 专长
+|-
+| Nature's Mimic || [[五形拳]] || 背景特性
+|-
+| Nature's paths || [[自然之路]] || 法术
+|-
+| Nature's ravages || [[自然蹂躏]] || 法术
+|-
+| Nature's ravages, greater || [[高等自然蹂躏]] || 法术
+|-
+| Nature's Weapons || [[天然武器]] || 专长
+|-
+| Nature's Wrath || [[自然之怒]] || 专长
+|-
+| Nauseating dart || [[毒针吹刺]] || 法术
+|-
+| Nauseating trail || [[臭气四溢]] || 法术
+|-
+| Nautical Chart || [[海图]] || 物品
+|-
+| Near-Death Experience || [[濒死体验]] || 背景特性
+|-
+| Nearfiring bow || [[近射弓]] || 物品
+|-
+| Neckbreaker || [[碎颈者]] || 专长
+|-
+| Necklace Of Adaptation || [[适应项链]] || 物品
+|-
+| Necklace of Beast's Might || [[兽之力项链]] || 物品
+|-
+| Necklace of Bloody Incisors || [[血牙项链]] || 物品
+|-
+| Necklace of Construct Aversion || [[构装体厌恶项链]] || 物品
+|-
+| Necklace of Ensured Return || [[保证生还项链]] || 物品
+|-
+| Necklace of Fangs || [[吸血鬼牙项链]] || 物品
+|-
+| Necklace Of Fireballs || [[火球项链]] || 物品
+|-
+| Necklace of Infernos || [[炼狱项链]] || 物品
+|-
+| Necklace Of Ki Serenity || [[禅定项链]] || 物品
+|-
+| Necklace Of Netted Stars || [[星网项链]] || 物品
+|-
+| Necklace of strangulation || [[扼喉项链]] || 物品
+|-
+| Necrocraft || [[尸构生物]] || 其他
+|-
+| Necrograft Arm || [[亡者手臂]] || 物品
+|-
+| Necrograft Leg || [[亡者之腿]] || 物品
+|-
+| Necromancer's Beacon || [[死灵法师信标]] || 物品
+|-
+| Necromancer’s Athame || [[死灵师的祭器]] || 物品
+|-
+| Necromantic Affinity || [[死灵术亲和]] || 专长
+|-
+| Necromantic burden || [[死灵负担]] || 法术
+|-
+| Necrophidius || [[骸骨蛇]] || 其他
+|-
+| Necrostasis || [[坏死]] || 法术
+|-
+| Necrotoxin Resistance || [[坏死毒素抗性]] || 背景特性
+|-
+| Needle in a Haystack || [[大海捞针]] || 专长
+|-
+| Needles Of Fleshgraving || [[血肉画板纹身针]] || 物品
+|-
+| Negate aroma || [[消除气味]] || 法术
+|-
+| Negative reaction || [[忽视存在]] || 法术
+|-
+| Neh–Thalggu || [[那–萨尔古]] || 其他
+|-
+| Neili Robes || [[内利长袍]] || 物品
+|-
+| Neith || [[奈斯]] || 其他
+|-
+| Neither Elf nor Human || [[既非精灵也非人类]] || 专长
+|-
+| Nekomata || [[猫又]] || 其他
+|-
+| Nemesis || [[仇怨缠身]] || 专长
+|-
+| Nemhain || [[尼曼]] || 其他
+|-
+| Neothelid || [[夺心巨虫]] || 其他
+|-
+| Nependis || [[尼潘达斯]] || 其他
+|-
+| Nephilim || [[涅法雷姆]] || 其他
+|-
+| Nephthys || [[奈芙蒂斯]] || 其他
+|-
+| Nereid || [[海妖精]] || 其他
+|-
+| Nereid's grace || [[海灵优雅]] || 法术
+|-
+| Nerve-Racking Negotiator || [[冷面交涉人]] || 专长
+|-
+| NerveBlast || [[神经爆炸]] || 物品
+|-
+| Nervous || [[紧张]] || 背景特性
+|-
+| Nest Revealer || [[巢穴探测器]] || 物品
+|-
+| Net || [[捕网]] || 物品
+|-
+| Net Adept || [[捕网熟练]] || 专长
+|-
+| Net and Trident || [[网叉并用]] || 专长
+|-
+| Net Maneuvering || [[捕网战技]] || 专长
+|-
+| Net of snaring || [[自缚网]] || 物品
+|-
+| Net Trickery || [[捕网诡计]] || 专长
+|-
+| Nethys || [[内希斯]] || 神祇
+|-
+| Nethysian Ring of Minor Spell Storing || [[内希斯之次级储法戒指]] || 物品
+|-
+| Neutral buoyancy || [[浮力适中]] || 法术
+|-
+| Neutralize Poison || [[中和毒性]] || 法术
+|-
+| Neutralize poison, greater || [[高等中和毒素]] || 法术
+|-
+| Neutralizing Gut || [[辟毒脏器]] || 背景特性
+|-
+| Never Stop Shooting || [[不屈魂]] || 背景特性
+|-
+| Neverspill Goblet || [[不溢高脚杯]] || 物品
+|-
+| Nex's secret workshop || [[奈克斯的秘密作坊]] || 其他
+|-
+| Ng || [[无]] || 其他
+|-
+| Night blindness || [[夜盲术]] || 法术
+|-
+| Night Hag || [[夜鬼婆]] || 其他
+|-
+| Night of Blades || [[尖刀之夜]] || 法术
+|-
+| Night Sky Hex || [[夜空巫术]] || 专长
+|-
+| Night tea || [[一夜茶]] || 物品
+|-
+| Night terrors || [[惊骇之夜]] || 法术
+|-
+| Nightdrops || [[夜临]] || 物品
+|-
+| Nightgaunt || [[夜魇]] || 其他
+|-
+| Nightmare || [[梦魇 (神话)|梦魇]] || 其他
+|-
+| Nightmare Boots || [[梦魇靴]] || 物品
+|-
+| Nightmare Chains || [[梦魇之链]] || 专长
+|-
+| Nightmare Creature || [[梦魇生物|梦魇伊特怪]] || 其他
+|-
+| Nightmare Fist || [[夜魇之拳]] || 专长
+|-
+| Nightmare Horseshoes || [[梦魇马蹄铁]] || 物品
+|-
+| Nightmare Scars || [[梦魇伤疤]] || 专长
+|-
+| Nightmare Striker || [[夜魇强袭]] || 专长
+|-
+| Nightmare vapor || [[噩梦蒸汽]] || 物品
+|-
+| Nightmare Weaver || [[夜魇织者]] || 专长
+|-
+| Nightmare, Cauchemar || [[寇克马]] || 其他
+|-
+| Nightpiercer || [[暗夜钉匠]] || 物品
+|-
+| Nightshade || [[夜影绪论]] || 其他
+|-
+| Nightshade, Nightcrawler || [[暗夜蠕虫]] || 其他
+|-
+| Nightshade, Nightwalker || [[暗夜行者]] || 其他
+|-
+| Nightshade, Nightwave || [[暗夜波涛]] || 其他
+|-
+| Nightshade, Nightwing || [[暗夜之翼(怪物)|暗夜之翼]] || 其他
+|-
+| Nightstalls Navigator || [[夜色集市的精明(社交)]] || 背景特性
+|-
+| Nightstone of Sorrow || [[龙伤夜石]] || 物品
+|-
+| Nimble Fingers, Keen Mind || [[巧手匠心]] || 背景特性
+|-
+| Nimble Moves || [[灵狐步 (神话)|灵狐步]] || 其他
+|-
+| Nimble Natural Summons || [[灵巧自然盟友]] || 专长
+|-
+| Nimble Nectar || [[机敏琼浆]] || 物品
+|-
+| Nimble Shuriken Thrower || [[敏捷手里剑投掷者]] || 其他
+|-
+| Nimble Striker || [[机敏前锋]] || 专长
+|-
+| Nine Lives || [[九命天猫]] || 法术
+|-
+| Nine Lives Stealer || [[九命窃夺者]] || 物品
+|-
+| Nine-ring broadsword || [[九环大刀]] || 物品
+|-
+| Nine-section whip || [[九节鞭]] || 物品
+|-
+| Nine-Tailed Scion || [[九尾妖]] || 背景特性
+|-
+| Ningen || [[宁恩]] || 其他
+|-
+| Ningyo || [[化鱼]] || 其他
+|-
+| Ninja || [[忍者]] || 其他
+|-
+| Nitharit || [[耐萨瑞毒]] || 物品
+|-
+| Nixie || [[尼克精]] || 其他
+|-
+| Nixie's lure || [[水妖诱惑]] || 法术
+|-
+| No Name || [[无名枪手]] || 专长
+|-
+| Noble Crusader || [[贵胄征讨军]] || 其他
+|-
+| Noble Impostor || [[冒牌贵族]] || 专长
+|-
+| Noble Scion || [[贵族后裔]] || 专长
+|-
+| Noble Spell Resistance || [[卓越法术抗力]] || 专长
+|-
+| Noble Stipend || [[贵族津贴]] || 专长
+|-
+| Noble-in-Exile || [[流亡贵族]] || 背景特性
+|-
+| Noble’s Excursion Kit || [[贵族郊游工具组]] || 物品
+|-
+| Noble’s Vigilant Pillbox || [[贵族救星丸药套装]] || 物品
+|-
+| Nocticula || [[诺提库拉]] || 其他
+|-
+| Nodachi || [[野太刀]] || 物品
+|-
+| Node of blasting || [[结点冲击]] || 法术
+|-
+| Noisemaker Wayfinder || [[噪声寻路仪]] || 物品
+|-
+| Nomadic || [[游牧民 (Nomadic)|游牧民]] || 背景特性
+|-
+| Nonchalant Thuggery || [[冷刀子]] || 背景特性
+|-
+| Nondetection || [[回避侦测]] || 法术
+|-
+| Nondetection, communal || [[共用回避侦测]] || 法术
+|-
+| Nondetection, lesser || [[次等回避侦测]] || 法术
+|-
+| Norgorber || [[诺格巴]] || 神祇
+|-
+| Norn || [[织命女]] || 其他
+|-
+| Northern Star Ioun Stone || [[北方星形艾恩石|北方 星形 艾恩石]] || 物品
+|-
+| Nose Ring of Unearthly Scent || [[神奇嗅觉鼻环]] || 物品
+|-
+| Notorious Vigilante || [[煞面义警]] || 专长
+|-
+| Noxious Bite || [[剧毒咬撃]] || 专长
+|-
+| Noxious Touch || [[剧毒接触]] || 专长
+|-
+| Nuckelavee || [[海人马]] || 其他
+|-
+| Nue || [[鵺]] || 其他
+|-
+| Nulmind || [[噬心菌]] || 其他
+|-
+| Numbing Blow || [[麻木打击]] || 专长
+|-
+| Numerian Fluid Indulger || [[纽美利亚流质沉溺者]] || 背景特性
+|-
+| Numerian Resistance Plate || [[纽梅利亚折光护甲]] || 物品
+|-
+| Numerological evocation || [[命理塑能|Numerological evocation]] || 其他
+|-
+| Numerological Gift || [[命理馈赠]] || 背景特性
+|-
+| Numerological resistance || [[命理抗力|Numerological resistance]] || 其他
+|-
+| Numerologist || [[数秘术师]] || 背景特性
+|-
+| Numerology Cylinder || [[数理圆柱]] || 物品
+|-
+| Nunchaku || [[双节棍]] || 物品
+|-
+| Nursing Necklace || [[看护项链]] || 物品
+|-
+| Nycar || [[倪卡龙]] || 其他
+|-
+| Nymph || [[宁芙]] || 其他
+|-
+| O-yoroi || [[大铠]] || 物品
+|-
+| Oaken Staff || [[橡木法杖]] || 物品
+|-
+| Oaksteward’s Favor || [[橡木守卫的青睐]] || 物品
+|-
+| Oasis || [[绿洲涌泉]] || 法术
+|-
+| Oath Breaker’s Brand || [[破誓者徽章]] || 物品
+|-
+| Oath of anonymity || [[匿名誓言]] || 法术
+|-
+| Oath of justice || [[正义誓言]] || 法术
+|-
+| Oath of Peace || [[和平誓言 (神话)|和平誓言]] || 其他
+|-
+| Oath of peace || [[和平誓言]] || 其他
+|-
+| Oath of the Unbound || [[破缚之誓]] || 专长
+|-
+| Oathbound || [[誓约者]] || 背景特性
+|-
+| Oathbow || [[誓仇弓]] || 物品
+|-
+| Oathkeeper's Vow || [[守誓者之誓]] || 背景特性
+|-
+| Obals (12) || [[圣币（12枚）]] || 物品
+|-
+| Obari Veteran || [[欧巴利洋老炮]] || 背景特性
+|-
+| OBJECT OF LEGEND || [[传颂之物]] || 专长
+|-
+| Object possession || [[物体占据术]] || 法术
+|-
+| Object Possession, Greater || [[高等物体占据术]] || 法术
+|-
+| Object Possession, Lesser || [[次等物体占据术]] || 法术
+|-
+| Object reading || [[读取物体]] || 法术
+|-
+| Oblivating Stare || [[遗忘注视]] || 专长
+|-
+| Obliviating Flail || [[湮灭连枷]] || 物品
+|-
+| Oblivion || [[忘情水]] || 物品
+|-
+| Oblivious || [[不注意周围]] || 背景特性
+|-
+| Obscure Object || [[遮蔽物品]] || 法术
+|-
+| Obscure poison || [[无影之毒]] || 法术
+|-
+| Obscure Traditions || [[隐秘传统]] || 背景特性
+|-
+| Obscured Script || [[朦胧手稿]] || 法术
+|-
+| Obscuring Mist || [[隐雾术 (神话)|隐雾术]] || 其他
+|-
+| Obsequious Morsel || [[谄媚幸存者]] || 背景特性
+|-
+| Observant || [[机敏]] || 背景特性
+|-
+| Observant Archer || [[敏锐箭手]] || 背景特性
+|-
+| Obsessed with Success || [[坚持不懈]] || 背景特性
+|-
+| Obsidian flow || [[黑曜之流]] || 法术
+|-
+| Occult Bargain || [[神秘交易]] || 背景特性
+|-
+| Occult Conduit || [[神秘导能]] || 专长
+|-
+| Occult Messenger || [[异能信使]] || 其他
+|-
+| Occultist || [[秘学士]] || 其他
+|-
+| Oceanid || [[海仙女]] || 其他
+|-
+| Ochre Jelly || [[赭冻怪]] || 其他
+|-
+| Octopus || [[章鱼(怪物)|章鱼]] || 其他
+|-
+| Octopus Focus || [[章鱼专注]] || 专长
+|-
+| Octopus Style || [[章鱼流]] || 专长
+|-
+| Octopus Thrash || [[章鱼鞭打]] || 专长
+|-
+| Octopus, Giant || [[巨章鱼]] || 其他
+|-
+| Oculus of Magnetic Fury || [[磁怒之眼]] || 物品
+|-
+| Odor Stalk || [[臭气棒]] || 物品
+|-
+| Official Ties || [[上头有人]] || 背景特性
+|-
+| Ogre || [[食人魔(怪物)|食人魔]] || 其他
+|-
+| Ogre Avoidance || [[回避食人魔]] || 背景特性
+|-
+| Ogre hook || [[食人魔巨钩]] || 物品
+|-
+| Ogrekin || [[食人魔裔]] || 其他
+|-
+| Oil || [[灯油]] || 物品
+|-
+| Oil of Attraction || [[吸引油]] || 物品
+|-
+| Oil Of Silence || [[寂静油]] || 物品
+|-
+| Oil of taggit || [[腐精油]] || 物品
+|-
+| Ointment of Secret Seeing，Ulfen || [[秘视油膏〔乌尔芬人〕]] || 物品
+|-
+| ointment of void sealing || [[空隙密封软膏]] || 物品
+|-
+| Okeno Madu || [[欧肯诺马度]] || 物品
+|-
+| Old before your time || [[未老先衰]] || 背景特性
+|-
+| Old salt's curse || [[老水手的诅咒]] || 法术
+|-
+| Old-Mage || [[老法师]] || 物品
+|-
+| Oldlaw whiskey，bottle || [[古法威士忌〔一瓶〕]] || 物品
+|-
+| Oma || [[欧玛]] || 其他
+|-
+| Omdura || [[导魂者]] || 职业
+|-
+| Omen || [[预言师]] || 背景特性
+|-
+| Omnipath || [[全识者]] || 其他
+|-
+| Omnipresent Mentor || [[激励师之惠]] || 专长
+|-
+| One Eye Open || [[睁一只眼]] || 专长
+|-
+| One Mind || [[一心一体]] || 专长
+|-
+| One with the Land || [[身合大地]] || 专长
+|-
+| One-Inch Punch || [[寸拳]] || 专长
+|-
+| One-Way Window || [[单向挂窗]] || 物品
+|-
+| One-way window || [[单向窗]] || 物品
+|-
+| Oneiric horror || [[恐惧梦魇]] || 法术
+|-
+| Oneiric Horror, Greater || [[高等恐惧梦魇]] || 法术
+|-
+| Oni || [[恶鬼绪论]] || 其他
+|-
+| Oni, Fire Yai || [[火巨鬼]] || 其他
+|-
+| Oni, Ice Yai || [[冰巨鬼|恶鬼，冰巨鬼]] || 其他
+|-
+| Oni, Kuwa || [[骇鬼|恶鬼，骇鬼]] || 其他
+|-
+| Oni, Ogre Mage || [[恶鬼，食人魔法师]] || 其他
+|-
+| Oni, Spirit || [[恶鬼灵]] || 其他
+|-
+| Oni, Void Yai || [[虚巨鬼]] || 其他
+|-
+| Oni, Water Yai || [[水巨鬼]] || 其他
+|-
+| Onslaught || [[轰杀]] || 专长
+|-
+| Onyx || [[缟玛瑙艾恩石]] || 物品
+|-
+| Ooze Form II || [[泥怪形态 II]] || 法术
+|-
+| Ooze Form III || [[泥怪形态 III]] || 法术
+|-
+| Opalescent White || [[乳白色艾恩石]] || 物品
+|-
+| Open and shut || [[门户错觉]] || 法术
+|-
+| Open arms || [[热烈欢迎]] || 法术
+|-
+| Open book || [[私密全无]] || 法术
+|-
+| Open Palm of Irori || [[义洛理之开掌]] || 背景特性
+|-
+| Open the dead roads || [[开启死亡通路]] || 法术
+|-
+| Open Up || [[空门大开]] || 其他
+|-
+| Open/Close || [[开关术]] || 法术
+|-
+| Opener of Doors || [[开门能手]] || 背景特性
+|-
+| OPENING THE THIRD EYE || [[开启第三之眼]] || 其他
+|-
+| Opening Volley || [[远近夹攻]] || 专长
+|-
+| Operatic || [[歌剧名伶]] || 背景特性
+|-
+| Ophiotaurus || [[欧菲欧陶洛斯]] || 其他
+|-
+| Opportune Slayer || [[借机击杀]] || 背景特性
+|-
+| Opportunistic || [[绝不留情]] || 背景特性
+|-
+| Opportunistic loyalty || [[投机忠诚]] || 法术
+|-
+| Oppressive boredom || [[闲极无聊]] || 法术
+|-
+| Oppressive Expectations || [[过度期望]] || 背景特性
+|-
+| Oracle || [[先知]] || 其他
+|-
+| Oracle's burden || [[先知的负担]] || 法术
+|-
+| Oracle's kit || [[先知工具包]] || 物品
+|-
+| Oracle's vessel || [[先知的化身]] || 法术
+|-
+| Oracular Intuition || [[玄秘直觉]] || 专长
+|-
+| Oral Historian || [[述古者]] || 背景特性
+|-
+| Orange || [[桔黄色艾恩石]] || 物品
+|-
+| Orang–Pendak || [[小野人(怪物)|小野人战士]] || 其他
+|-
+| Orator || [[雄辩家]] || 专长
+|-
+| Orb Of Arcane Research || [[奥术研究宝珠]] || 物品
+|-
+| Orb Of Foul Abaddon || [[腐烂地狱之球]] || 物品
+|-
+| Orb Of Golden Heaven || [[金色天堂之球]] || 物品
+|-
+| Orb Of Pure Law || [[纯正秩序之球]] || 物品
+|-
+| Orb Of Storms || [[天变球]] || 物品
+|-
+| Orb of the Void || [[虚空法球 (神话)|虚空法球]] || 其他
+|-
+| Orb of the void || [[虚空法球]] || 其他
+|-
+| Orb of the Waybringer || [[指路者龙珠]] || 物品
+|-
+| Orb Of Utter Chaos || [[完全混乱之球]] || 物品
+|-
+| Orbs of DragonKind || [[龙珠]] || 物品
+|-
+| Orc || [[兽人(怪物)|兽人]] || 其他
+|-
+| Orc double axe || [[兽人双头斧]] || 物品
+|-
+| Orc Fury Style || [[兽人暴怒斩]] || 专长
+|-
+| Orc Hewer || [[兽人屠戮者]] || 专长
+|-
+| Orc Rampage || [[兽人狂怒斩]] || 专长
+|-
+| Orc Skull Ram || [[兽人开颅棒]] || 物品
+|-
+| Orc Snarl || [[兽人咆哮斩]] || 专长
+|-
+| Orc Weapon Expertise || [[兽人武器娴熟]] || 专长
+|-
+| Orchid's Drop || [[兰花之蜜]] || 法术
+|-
+| Orcus || [[奥喀斯]] || 其他
+|-
+| Order's Wrath || [[秩序之怒 (神话)|秩序之怒]] || 其他
+|-
+| Ordered Mind || [[秩序之心]] || 专长
+|-
+| Ordinary || [[大众脸]] || 其他
+|-
+| Oread Burrower || [[土裔掘地者]] || 专长
+|-
+| Oread Earth Glider || [[土裔潜地者]] || 专长
+|-
+| Oregent Desperation || [[奥莱根特之决意]] || 背景特性
+|-
+| Oregent Timing || [[奥莱根特之合拍]] || 背景特性
+|-
+| Origami Swarm || [[折纸集群]] || 物品
+|-
+| Ornament Of Healing Light || [[医疗光装饰]] || 物品
+|-
+| Ornery pistol || [[背德手枪]] || 物品
+|-
+| Orphaned || [[小孤儿]] || 背景特性
+|-
+| Orrery || [[星象仪]] || 物品
+|-
+| Osirionologist || [[奥西里昂学家]] || 背景特性
+|-
+| Osiris || [[欧西里斯]] || 其他
+|-
+| Ossivane || [[石化毒]] || 物品
+|-
+| OSTENTATIOUS DISPLAY || [[炫耀财富]] || 专长
+|-
+| Ostentatious Garment || [[锦罗玉衣]] || 物品
+|-
+| Ostentatious Rager || [[招摇狂暴者]] || 专长
+|-
+| Ostentatious Weakness || [[技指弱点]] || 专长
+|-
+| Ostovite || [[奥尼特]] || 其他
+|-
+| Osyluth Guile || [[骨魔之狡诈]] || 专长
+|-
+| Otherworldly Kimono || [[奇想和服]] || 物品
+|-
+| Otherworldy Influence || [[异界要人]] || 专长
+|-
+| Otolmens || [[奥托门斯]] || 其他
+|-
+| Otter || [[水獭]] || 物品
+|-
+| Otyugh || [[食腐怪]] || 其他
+|-
+| Otyugh Hide || [[食腐兽皮甲]] || 物品
+|-
+| Ouroboros || [[乌洛波洛斯]] || 其他
+|-
+| Out of sight || [[视线之外]] || 法术
+|-
+| Out of the Sun || [[烈阳眩目]] || 专长
+|-
+| Outbreak || [[疫病潮]] || 法术
+|-
+| Outcast || [[边缘人]] || 背景特性
+|-
+| Outcast's Intuition || [[第六感]] || 背景特性
+|-
+| Outer Dragon Blood || [[外空龙血脉]] || 背景特性
+|-
+| Outer Dragon, Lunar || [[月龙|少年月龙]] || 其他
+|-
+| Outer Dragon, Solar || [[日龙|少年日龙]] || 其他
+|-
+| Outer Dragon, Time || [[时间龙|少年时间龙]] || 其他
+|-
+| Outer Dragon, Void || [[空间龙|少年空间龙]] || 其他
+|-
+| Outer Dragon, Vortex || [[漩涡龙|少年漩涡龙]] || 其他
+|-
+| Outer Planes Traveler || [[外域旅行者]] || 专长
+|-
+| Outflank || [[包抄]] || 专长
+|-
+| Outlander || [[外乡来客]] || 背景特性
+|-
+| Outsider Enemy || [[异界仇敌]] || 背景特性
+|-
+| Outsider Ties || [[异物纽带]] || 背景特性
+|-
+| Outslug Style || [[牙突式]] || 专长
+|-
+| Outslug Weave || [[牙突进]] || 专长
+|-
+| Overachiever || [[成就大业]] || 专长
+|-
+| Overflowing rod || [[满溢权杖]] || 物品
+|-
+| Overhead Flip || [[过头摔]] || 专长
+|-
+| Overland Flight || [[翱翔天际]] || 法术
+|-
+| Overlook || [[无视]] || 法术
+|-
+| Overpowering Stare || [[威压注视]] || 专长
+|-
+| Overprotective || [[过保护]] || 背景特性
+|-
+| Overstimulate || [[激情四溢]] || 法术
+|-
+| Overwatch Style || [[矢暴式]] || 专长
+|-
+| Overwatch Tactician || [[矢暴策]] || 专长
+|-
+| Overwatch Vortex || [[矢暴啸]] || 专长
+|-
+| Overwhelming Beauty || [[倾国之美]] || 背景特性
+|-
+| Overwhelming grief || [[无尽悲痛]] || 法术
+|-
+| Overwhelming Phantom || [[灵魂共生]] || 专长
+|-
+| Overwhelming poison || [[猛烈之毒]] || 法术
+|-
+| Overwhelming presence || [[神威如狱]] || 法术
+|-
+| Ovinrbaane, Enemy of All Enemies || [[Ovinrbaane，万敌之敌]] || 物品
+|-
+| Owb || [[幽暗之魂]] || 其他
+|-
+| Owl || [[枭]] || 物品
+|-
+| Owl Dive || [[枭穿式]] || 专长
+|-
+| Owl Style || [[枭冲式]] || 专长
+|-
+| Owl Swoop || [[枭落式]] || 专长
+|-
+| Owl's Wisdom || [[枭之睿智]] || 法术
+|-
+| Owl's Wisdom, Mass || [[群体枭之睿智]] || 法术
+|-
+| Owl, Giant || [[巨枭]] || 其他
+|-
+| Owl, Great Horned || [[大角鸮]] || 其他
+|-
+| Owlbear || [[枭熊]] || 其他
+|-
+| Ozem-Inspired || [[骑士精神]] || 其他
+|-
+| Pacify Animal || [[安抚动物]] || 专长
+|-
+| Pack Animal || [[驮兽]] || 物品
+|-
+| Pack Attack || [[机动攻击]] || 专长
+|-
+| Pack empathy || [[集群共情]] || 法术
+|-
+| Pack Flanking || [[兽群围猎]] || 专长
+|-
+| Pack Intimidation || [[群体威吓]] || 专长
+|-
+| Pack Savvy || [[豺群熟络]] || 背景特性
+|-
+| Pack Tactics || [[群体战术]] || 专长
+|-
+| Pact Servant || [[契约追随者]] || 背景特性
+|-
+| Padded || [[护垫甲]] || 物品
+|-
+| Page Of Spell Knowledge || [[法术知识书页]] || 物品
+|-
+| Page-bound epiphany || [[无字天书]] || 法术
+|-
+| Pain Artist || [[苦痛艺术家]] || 背景特性
+|-
+| Pain Is Pleasure || [[受虐狂]] || 背景特性
+|-
+| Pain strike || [[痛苦打击]] || 法术
+|-
+| Pain strike, mass || [[群体痛苦打击]] || 法术
+|-
+| Pain Ward of the Ostiarius || [[司门的痛苦护符]] || 物品
+|-
+| Pain Wheel || [[痛苦之轮]] || 物品
+|-
+| Painful Anchor || [[痛苦之锚]] || 专长
+|-
+| Painful Blow || [[苦痛一击]] || 专长
+|-
+| Painful Collision || [[痛苦撞击]] || 专长
+|-
+| Painful Cures || [[痛苦治愈]] || 专长
+|-
+| Painful revelation || [[痛苦启示]] || 法术
+|-
+| Painspike Armor || [[苦痛钉皮甲]] || 物品
+|-
+| Paired Opportunists || [[双重借机]] || 专长
+|-
+| Paired Suffering || [[成对苦痛]] || 其他
+|-
+| Paladin || [[圣武士]] || 其他
+|-
+| Paladin's kit || [[圣武士工具包]] || 物品
+|-
+| Paladin's sacrifice || [[牺牲]] || 法术
+|-
+| Pale Blue || [[淡蓝色艾恩石]] || 物品
+|-
+| Pale flame || [[暗淡之焰]] || 法术
+|-
+| Pale Green || [[淡绿色艾恩石]] || 物品
+|-
+| Pale Lavender || [[淡紫色艾恩石]] || 物品
+|-
+| Pale Orange || [[淡橙色艾恩石]] || 物品
+|-
+| Pale Ruby || [[淡红色艾恩石]] || 物品
+|-
+| Pale Stranger || [[苍陌客]] || 其他
+|-
+| Pallid Chain || [[苍白骨链]] || 物品
+|-
+| Pallid Crystal || [[苍心晶]] || 物品
+|-
+| Palm of Decadent Feasts || [[颓废盛宴的棕榈]] || 物品
+|-
+| Palm Paws || [[人迹爪套]] || 物品
+|-
+| Palm Potion || [[掌中药水]] || 背景特性
+|-
+| Panoply of the Fierani Knight，Elf || [[菲拉尼骑士的盛装〔精灵〕]] || 物品
+|-
+| Pantheistic Blessing || [[万神祝福]] || 专长
+|-
+| Pantheistic Clasp || [[泛神护符]] || 物品
+|-
+| Panther Claw || [[豹爪]] || 专长
+|-
+| Panther Parry || [[迅豹闪]] || 专长
+|-
+| Panther Style || [[豹形拳]] || 专长
+|-
+| Pao-Lung Self-Improvement || [[包陇自我修行]] || 专长
+|-
+| Paper candle firework || [[纸蜡烛焰火(炼金武器)|纸蜡烛焰火]] || 物品
+|-
+| Paper Flower || [[纸花]] || 物品
+|-
+| Paper，sheet || [[纸〔一张〕]] || 物品
+|-
+| Papinijuwari || [[觅病巨人]] || 其他
+|-
+| Parade || [[典礼护甲]] || 物品
+|-
+| Paragon surge || [[完美半精灵]] || 法术
+|-
+| Paralyzing Strike || [[定身拳]] || 专长
+|-
+| Paranoia || [[狂乱偏执]] || 法术
+|-
+| Paranoid || [[偏执]] || 背景特性
+|-
+| Parasite || [[寄生体]] || 其他
+|-
+| Parasite, Giant Rot Grub || [[巨腐尸虫]] || 其他
+|-
+| Parasite, Rot Grub Swarm || [[腐尸虫群]] || 其他
+|-
+| Parasitic Soul || [[鸠占鹊巢]] || 法术
+|-
+| Parchment swarm || [[纸卷狂袭]] || 法术
+|-
+| Pard || [[幻影猫]] || 其他
+|-
+| Parrot || [[鹦鹉]] || 物品
+|-
+| Parry Spell || [[回击法术]] || 专长
+|-
+| Partial Protege || [[笑面虎]] || 背景特性
+|-
+| Particulate form || [[粒子形态]] || 法术
+|-
+| Parting Blast || [[临终念爆]] || 专长
+|-
+| Parting Glass || [[别离酒杯]] || 物品
+|-
+| Parting Shot || [[牵制射击]] || 专长
+|-
+| Pass for Human || [[人类之证]] || 专长
+|-
+| Pass without Trace || [[行踪无迹]] || 法术
+|-
+| Passing fancy || [[心血来潮]] || 法术
+|-
+| Passing fancy, mass || [[群体心血来潮]] || 法术
+|-
+| Passing Trick || [[越位虚招]] || 专长
+|-
+| Passionate Inertia || [[上头激情]] || 背景特性
+|-
+| Passwall || [[穿墙术]] || 法术
+|-
+| Pata || [[拳剑]] || 物品
+|-
+| Path of glory || [[荣耀之路]] || 法术
+|-
+| Path of glory, greater || [[高等荣耀之路]] || 法术
+|-
+| Path of the winds || [[风之通路]] || 法术
+|-
+| Pathfinder Chronicler || [[历史探索者]] || 职业
+|-
+| Pathfinder's Focus || [[寻路仪]] || 其他
+|-
+| Pathfinder's kit || [[探索者工具包]] || 物品
+|-
+| Patient Calm || [[耐心沉着]] || 背景特性
+|-
+| Patient Optimist || [[乐天派]] || 背景特性
+|-
+| PATIENT STRIKE (COMBAT) || [[蓄势待发]] || 专长
+|-
+| Patron's Boon || [[庇护主之赐]] || 背景特性
+|-
+| Pattern Message || [[图纹讯息]] || 专长
+|-
+| Pattern Recognition || [[模式识别]] || 法术
+|-
+| Pauldrons of Jackass || [[犟驴护肩]] || 物品
+|-
+| Pazuzu || [[帕祖祖]] || 其他
+|-
+| Peace of Mind || [[神清气正]] || 专长
+|-
+| Peacebond || [[和平条令]] || 法术
+|-
+| Peacebond, Greater || [[高等和平条令]] || 法术
+|-
+| Peacekeeping Pistol || [[停火协定]] || 物品
+|-
+| Peacemaker || [[和平缔造者]] || 专长
+|-
+| Peacemaker's Parley || [[和平谈判]] || 法术
+|-
+| Peacock Spirit's Tranquil Roar || [[孔雀灵的静谧咆哮]] || 其他
+|-
+| Pearl Diver || [[采珠人]] || 背景特性
+|-
+| Pearl Of Power || [[法力再生珍珠]] || 物品
+|-
+| Pearl of Puissance || [[法力权能珍珠]] || 物品
+|-
+| Pearl Of The Sirines || [[塞壬珍珠]] || 物品
+|-
+| Pearly White || [[珍珠白艾恩石]] || 物品
+|-
+| Peasant armaments || [[农民武装]] || 法术
+|-
+| Pech || [[岩精]] || 其他
+|-
+| Peerless Courtier || [[楷模臣子]] || 专长
+|-
+| Peerless integrity || [[诚信无双]] || 法术
+|-
+| Peg Leg || [[木质假腿]] || 物品
+|-
+| Pegasus || [[飞马]] || 其他
+|-
+| Pellet blast || [[散弹爆发]] || 法术
+|-
+| Pellet grenade, adamantine || [[弹丸手榴弹,精金]] || 物品
+|-
+| Pellet grenade, cold iron || [[弹丸手榴弹,寒铁]] || 物品
+|-
+| Pellet grenade, iron || [[弹丸手榴弹,铁]] || 物品
+|-
+| Pellet grenade, silver || [[弹丸手榴弹,银]] || 物品
+|-
+| Pelletbow, Dwarven Heavy || [[重型矮人弹射弩]] || 物品
+|-
+| Pelletbow, Dwarven Light || [[轻型矮人弹射弩]] || 物品
+|-
+| Pelt of the Beast || [[猛兽毛皮]] || 物品
+|-
+| Pelt of the Demon Mother || [[恶魔之母皮裘]] || 物品
+|-
+| Pelt of the Ulfen Wolf || [[乌尔芬狼衣]] || 物品
+|-
+| Peluda || [[佩鲁达]] || 其他
+|-
+| Penanggalen || [[飞颅鬼|飞颅鬼/庞南加兰]] || 其他
+|-
+| Pendant of the Blood Scarab || [[血甲虫坠饰]] || 物品
+|-
+| Penetrating Stare || [[穿透注视]] || 专长
+|-
+| Penetrating Strike || [[穿透打击 (Penetrating Strike)|穿透打击]] || 其他
+|-
+| Penetrating Whetstone || [[穿透型磨刀石]] || 物品
+|-
+| Penumbra || [[疏影|Penumbra]] || 其他
+|-
+| Penumbra Tattoo || [[影缘刺青]] || 物品
+|-
+| Penumbral disguise || [[半影伪装]] || 法术
+|-
+| Pepperbox || [[胡椒罐手枪]] || 物品
+|-
+| Pepperbox rifle || [[胡椒罐步枪]] || 物品
+|-
+| per day || [[薪柴 Firewood]] || 物品
+|-
+| Perceive betrayal || [[谋逆探知]] || 法术
+|-
+| Perceive cues || [[察觉细节]] || 法术
+|-
+| Perfect Awareness || [[完美警觉]] || 专长
+|-
+| Perfect Casting || [[完美施法]] || 专长
+|-
+| Perfect Center || [[完美集中]] || 专长
+|-
+| Perfect Golden Lute || [[完美金琵琶]] || 物品
+|-
+| Perfect ice || [[完美之冰]] || 物品
+|-
+| Perfect placement || [[完美部署]] || 法术
+|-
+| Perfect Servant || [[完美仆人]] || 背景特性
+|-
+| Perfect Strike || [[完美打击]] || 专长
+|-
+| Perfect Style || [[无瑕式]] || 专长
+|-
+| Perfect Tuning Fork || [[完美音叉]] || 物品
+|-
+| Perfection Leather || [[入道衫]] || 物品
+|-
+| Perfection's Key || [[完美钥匙]] || 物品
+|-
+| Perfectionist Shavtoosh || [[完美裹布]] || 物品
+|-
+| Perfectionist's Brew || [[配药师]] || 背景特性
+|-
+| Performance Weapon Mastery || [[演武武器精通]] || 专长
+|-
+| Performing Combatant || [[演武战士]] || 专长
+|-
+| Perfume/cologne || [[香水/古龙水]] || 物品
+|-
+| Peri || [[堕天女]] || 其他
+|-
+| Periapt of Devotion || [[虔信护符]] || 物品
+|-
+| Periapt Of Health || [[健康护符]] || 物品
+|-
+| Periapt of Proof Against Paralysis || [[反麻痹护身符]] || 物品
+|-
+| Periapt Of Proof Against Poison || [[辟毒护符]] || 物品
+|-
+| Periapt Of Protection From Curses || [[避咒护符]] || 物品
+|-
+| Periapt Of Temporary Familiar || [[临时魔宠护符]] || 物品
+|-
+| Periapt of Utter Devotion || [[至虔护符]] || 物品
+|-
+| Periapt Of Wound Closure || [[止伤护符]] || 物品
+|-
+| Perilous Gloves || [[危险手套]] || 物品
+|-
+| Perilous Puzzle Box || [[险恶智谜盒]] || 物品
+|-
+| Periscope || [[潜望镜]] || 物品
+|-
+| Permanency || [[魔法恒定术]] || 法术
+|-
+| Permanent hallucination || [[永恒错觉]] || 法术
+|-
+| Permanent Image || [[永恒幻影]] || 法术
+|-
+| Pernicious Poison || [[致命药引 (神话)|致命药引]] || 其他
+|-
+| Pernicious poison || [[致命药引]] || 其他
+|-
+| pernicious pranksters || [[恶作剧小鬼]] || 法术
+|-
+| Pernicious Stab || [[致命毒刺]] || 专长
+|-
+| Perpetual Companion || [[心相依]] || 背景特性
+|-
+| Perseverance || [[毅力]] || 背景特性
+|-
+| Persistent Image || [[长驻幻影]] || 法术
+|-
+| Persistent Metamagic Rod || [[顽强超魔权杖]] || 物品
+|-
+| Persistent Spell || [[顽强法术]] || 专长
+|-
+| Persistent vigor || [[恒久活力]] || 法术
+|-
+| Persuasive || [[谈判专家 (神话)|谈判专家]] || 其他
+|-
+| Persuasive Bribery || [[行贿高手]] || 专长
+|-
+| Persuasive goad || [[鞭策说服]] || 法术
+|-
+| Persuasive Performer || [[术艺知心]] || 专长
+|-
+| Perturbing Stare || [[烦扰注视]] || 专长
+|-
+| Peryton || [[佩利冬]] || 其他
+|-
+| Pesh || [[佩什]] || 物品
+|-
+| Pesh Addict || [[佩什成瘾]] || 背景特性
+|-
+| Pesh Addiction || [[仙人掌粹成瘾]] || 法术
+|-
+| Pesh Addiction, Lesser || [[次等仙人掌粹成瘾]] || 法术
+|-
+| Pesh vigor || [[仙人掌粹的活力]] || 法术
+|-
+| Pesh,Black || [[黑佩什]] || 物品
+|-
+| Pesh,Golden || [[金佩什]] || 物品
+|-
+| Pessimism || [[悲观主义]] || 法术
+|-
+| Petitioner || [[祈并者]] || 其他
+|-
+| Petrifying cloak || [[石化斗篷]] || 物品
+|-
+| Petulengro’s Validation || [[派图莱格萝的批准]] || 法术
+|-
+| Peuchen || [[皮乌琴/吸血蛇|皮乌琴]] || 其他
+|-
+| Phalanx Formation || [[集团方阵战术]] || 专长
+|-
+| Phalanx Shield || [[理想山阵]] || 物品
+|-
+| Phaleros || [[费勒罗斯]] || 物品
+|-
+| Phantasmal affliction || [[魅影苦难]] || 法术
+|-
+| Phantasmal asphyxiation || [[魅影窒息]] || 法术
+|-
+| Phantasmal Killer || [[魅影杀手 (神话)|魅影杀手]] || 其他
+|-
+| Phantasmal putrefaction || [[魅影腐败]] || 法术
+|-
+| Phantasmal reminder || [[魅影重温]] || 法术
+|-
+| Phantasmal revenge || [[复仇鬼影]] || 法术
+|-
+| Phantasmal web || [[魅影蛛网]] || 法术
+|-
+| Phantom Ally || [[魅影盟友]] || 专长
+|-
+| Phantom Armor || [[幽魂战甲|幽魂战甲守卫]] || 其他
+|-
+| Phantom blood || [[虚幻之血]] || 法术
+|-
+| Phantom chariot || [[魅影战车]] || 法术
+|-
+| Phantom driver || [[幻影车夫]] || 法术
+|-
+| Phantom Entourage || [[魅影随从]] || 物品
+|-
+| Phantom Fighter || [[魅影战士]] || 专长
+|-
+| Phantom Fortification || [[强固魅影]] || 专长
+|-
+| Phantom Fungus || [[幽灵菇]] || 其他
+|-
+| Phantom hunt || [[幽影狩猎]] || 法术
+|-
+| Phantom limb || [[幻肢]] || 法术
+|-
+| Phantom Steed || [[魅影驹 (神话)|魅影驹]] || 其他
+|-
+| Phantom steed, communal || [[共用魅影驹]] || 法术
+|-
+| Phantom Trap || [[魅影陷阱]] || 法术
+|-
+| Phantom, Unfettered || [[无羁魅影]] || 其他
+|-
+| Pharaonic Guardian || [[古墓守卫]] || 其他
+|-
+| Pharasma || [[法莱斯玛]] || 神祇
+|-
+| Phase Arrow || [[相位箭]] || 物品
+|-
+| Phase Door || [[相位门]] || 法术
+|-
+| Phase Spider || [[相位蜘蛛]] || 其他
+|-
+| Phase Step || [[相位步伐]] || 法术
+|-
+| Phasic challenge || [[相位挑战]] || 法术
+|-
+| Philanderous Compact || [[调情粉盒]] || 物品
+|-
+| Philosopher's Stone || [[贤者之石]] || 物品
+|-
+| Philter Of Love || [[迷情魅药]] || 物品
+|-
+| Phlegyas || [[芙勒吉亚斯]] || 其他
+|-
+| Phobia || [[恐惧症]] || 法术
+|-
+| Phoenix || [[凤凰]] || 其他
+|-
+| phoenix armor || [[凤凰护甲]] || 物品
+|-
+| Phoenix Feather || [[凤凰之羽]] || 物品
+|-
+| Phycomid || [[酸蚀蘑菇]] || 其他
+|-
+| Phylactery Of Faithfulness || [[虔信经匣]] || 物品
+|-
+| Phylactery Of Negative Channeling || [[负能量引导经匣]] || 物品
+|-
+| Phylactery Of Positive Channeling || [[正能量引导经匣]] || 物品
+|-
+| Phylactery of the Failed || [[庐舍护命匣]] || 物品
+|-
+| Phylactery Of The Shepherd || [[牧羊人经匣]] || 物品
+|-
+| Physician's Spectacles || [[医师眼镜]] || 物品
+|-
+| Pick of Stonecleaving || [[劈石镐]] || 物品
+|-
+| Pick your Poison || [[畅饮毒酒]] || 法术
+|-
+| Pickle extractor || [[腌菜拔出器]] || 物品
+|-
+| Pickled Punk || [[罐中畸胎]] || 其他
+|-
+| Pickpocket's outfit || [[窃贼服装]] || 物品
+|-
+| Pied piping || [[花衣魔幻曲]] || 法术
+|-
+| Pierce disguise || [[洞见伪装]] || 法术
+|-
+| Pierce facade || [[戳破假象]] || 法术
+|-
+| Piercing Chant || [[刺耳歌唱]] || 专长
+|-
+| Piercing Grapple || [[刺击擒抱]] || 专长
+|-
+| Piercing Metamagic Rod || [[穿刺超魔权杖]] || 物品
+|-
+| Piercing shriek || [[厉声尖啸]] || 法术
+|-
+| Piercing Spell || [[法术穿刺]] || 专长
+|-
+| Pig || [[猪]] || 物品
+|-
+| Pig Farmer || [[猪农]] || 其他
+|-
+| Pilferer || [[窃物魔宠]] || 其他
+|-
+| Pilfering hand || [[第三只手]] || 法术
+|-
+| Pillager || [[掠夺者]] || 背景特性
+|-
+| Pillar of Life || [[光明之泉 (神话)|光明之泉]] || 其他
+|-
+| Pillar of life || [[光明之泉]] || 其他
+|-
+| Pillow talk || [[枕边风]] || 法术
+|-
+| Pilum || [[重标枪]] || 物品
+|-
+| Pin Down || [[压迫锚定]] || 专长
+|-
+| pinecone bomb || [[松果炸弹]] || 法术
+|-
+| Pink || [[粉色艾恩石]] || 物品
+|-
+| Pink and Green || [[粉绿色艾恩石]] || 物品
+|-
+| Pinning Knockout || [[压制击昏]] || 专长
+|-
+| Pinning Rend || [[撕裂压制]] || 专长
+|-
+| Pinpoint Poisoner || [[毒针刺击]] || 专长
+|-
+| Pinpoint Targeting || [[精确瞄准 (神话)|精确瞄准]] || 其他
+|-
+| Pipe of Revealing Mists || [[显隐之雾烟斗]] || 物品
+|-
+| Pipefox || [[管狐]] || 其他
+|-
+| Pipes Of Haunting || [[颤栗乐笙]] || 物品
+|-
+| Pipes Of Pain || [[刺耳乐笙]] || 物品
+|-
+| Pipes Of Sounding || [[幻音乐笙]] || 物品
+|-
+| Pipes Of The Sewers || [[唤鼠乐笙]] || 物品
+|-
+| Piranha Strike || [[食人鱼打击]] || 专长
+|-
+| Pirate Clothes || [[海盗服装]] || 物品
+|-
+| Pirate Duelist || [[海盗斗剑师]] || 背景特性
+|-
+| Pirate Lord's Patch || [[海盗领主眼罩]] || 物品
+|-
+| Pirate's Arm || [[海盗之臂]] || 物品
+|-
+| Pirate’s Eye Patch || [[海盗的眼罩]] || 物品
+|-
+| Pistol || [[手枪]] || 物品
+|-
+| Pistol of the Infinite Sky || [[无尽苍穹手枪]] || 物品
+|-
+| Pit Fighter || [[死斗战士]] || 职业
+|-
+| Pitaxian Improvisation || [[皮塔克斯即兴演奏]] || 背景特性
+|-
+| Pitcher || [[陶罐]] || 物品
+|-
+| Piton || [[岩钉]] || 物品
+|-
+| Pixie || [[皮克精]] || 其他
+|-
+| Placebo effect || [[安慰效应]] || 法术
+|-
+| Plague Bearer || [[瘟疫携带者]] || 法术
+|-
+| Plague carrier || [[瘟疫打击]] || 法术
+|-
+| Plague Mask || [[瘟疫面具]] || 物品
+|-
+| Plague Rat Belt || [[瘟疫鼠腰带]] || 物品
+|-
+| Plague Rat Belt, Greater || [[高等瘟疫鼠腰带]] || 物品
+|-
+| Plague Resistance || [[疫抗]] || 专长
+|-
+| Plague storm || [[疫病风暴]] || 法术
+|-
+| Plague Swarm || [[天灾群|天灾鼠群]] || 其他
+|-
+| Plagueborn Mantle || [[疫生披肩]] || 物品
+|-
+| Plagued Beast || [[疫苦马]] || 其他
+|-
+| Plains Nomad || [[莽原牧者]] || 专长
+|-
+| Planar adaptation || [[位面适应]] || 法术
+|-
+| Planar adaptation, mass || [[群体位面适应]] || 法术
+|-
+| Planar aegis || [[位面防护]] || 法术
+|-
+| Planar Ally || [[异界盟友]] || 法术
+|-
+| Planar Ally, Greater || [[高等异界盟友]] || 法术
+|-
+| Planar Ally, Lesser || [[次等异界盟友]] || 法术
+|-
+| Planar Attunement || [[位面谐律（专长）|位面谐律]] || 专长
+|-
+| Planar Binding || [[异界誓缚]] || 法术
+|-
+| Planar Binding, Greater || [[高等异界誓缚]] || 法术
+|-
+| Planar Binding, Lesser || [[次等异界誓缚]] || 法术
+|-
+| Planar Dragon, Crypt || [[冥界龙|少年冥界龙]] || 其他
+|-
+| Planar Dragon, Havoc || [[狂欢龙|少年狂欢龙]] || 其他
+|-
+| Planar Dragon, Infernal || [[炼狱龙|少年炼狱龙]] || 其他
+|-
+| Planar Dragon, Paradise || [[天界龙|少年天界龙]] || 其他
+|-
+| Planar Dragon, Rift || [[深渊龙|少年深渊龙]] || 其他
+|-
+| Planar Heritage || [[位面血脉]] || 专长
+|-
+| Planar Hunter || [[位面猎手]] || 专长
+|-
+| Planar Inquiry || [[异界咨询]] || 法术
+|-
+| Planar Invasion shield || [[破界盾]] || 物品
+|-
+| Planar Keystone || [[位面钥石]] || 物品
+|-
+| Planar Negotiator || [[异界交涉人]] || 背景特性
+|-
+| Planar Negotiator (Region) || [[位面谈判者]] || 背景特性
+|-
+| Planar orientation || [[位面定位术]] || 法术
+|-
+| Planar Preservationist || [[异界博物学者]] || 专长
+|-
+| Planar refuge || [[位面庇护所]] || 法术
+|-
+| Planar Savant || [[域学者]] || 背景特性
+|-
+| Planar Strap || [[位面缠带]] || 物品
+|-
+| PLANAR TRAVELER || [[位面旅者]] || 专长
+|-
+| Planar Traveler’s Kit || [[位面旅行者工具包]] || 物品
+|-
+| Planar Wanderer || [[异界漫游者]] || 专长
+|-
+| Planar Wild Shape || [[位面自然变身]] || 专长
+|-
+| Plane Shift || [[异界传送 (神话)|异界传送]] || 其他
+|-
+| Plane-Hopper's Handbook pg. 6 || [[惩戒召唤]] || 专长
+|-
+| Planeslayer’s Call || [[异界杀手之念]] || 法术
+|-
+| Planestriking || [[位面打击]] || 物品
+|-
+| Planetar's Visions || [[位面视野]] || 背景特性
+|-
+| Planetarium || [[行星仪]] || 法术
+|-
+| Planetary adaptation || [[行星适应]] || 法术
+|-
+| Planetary adaptation, mass || [[群体行星适应]] || 法术
+|-
+| Plankta || [[浮游岛怪]] || 其他
+|-
+| Planned Assault || [[预谋突袭]] || 法术
+|-
+| PLANNED SPONTANEITY || [[有备无患]] || 专长
+|-
+| Planson || [[刺棍]] || 物品
+|-
+| Plant Growth || [[植物滋长]] || 法术
+|-
+| Plant Shape I || [[植物形态 I]] || 法术
+|-
+| Plant Shape II || [[植物形态 II]] || 法术
+|-
+| Plant Shape III || [[植物形态 III]] || 法术
+|-
+| Plant voice || [[植物之音]] || 法术
+|-
+| Plasma Ooze || [[电浆泥怪]] || 其他
+|-
+| Plate Armor of the Deep || [[海渊板甲]] || 物品
+|-
+| Play instrument || [[即兴演奏]] || 法术
+|-
+| Play to the Crowd || [[投其所好]] || 专长
+|-
+| Player's Prize || [[优胜者奖杯]] || 物品
+|-
+| Pliability Elixir || [[温驯灵药]] || 物品
+|-
+| Pliant Gloves || [[柔性手套]] || 物品
+|-
+| Plume of Panache || [[气派羽饰]] || 物品
+|-
+| Plundered power || [[窃取伟力]] || 法术
+|-
+| Pocket Prey || [[口袋猎物]] || 物品
+|-
+| Pocket watch || [[怀表]] || 物品
+|-
+| Pocketful of vipers || [[守袋蛇]] || 法术
+|-
+| Pod–spawned Creature || [[模板：荚生衍体|荚生衍体卫队长]] || 其他
+|-
+| Poet's Cloak || [[诗歌披风]] || 物品
+|-
+| Poh armor || [[波赫甲]] || 物品
+|-
+| Point-Blank Master || [[贴身射击]] || 专长
+|-
+| Point-Blank Shot || [[近距射击 (神话)|近距射击]] || 其他
+|-
+| Poised Bearing || [[蓄势姿态]] || 专长
+|-
+| Poison || [[毒击术]] || 法术
+|-
+| Poison Belcher || [[毒射枪]] || 物品
+|-
+| Poison breath || [[剧毒吐息]] || 法术
+|-
+| Poison Connoisseur || [[毒药行家]] || 背景特性
+|-
+| Poison Diffuser || [[毒药扩散剂]] || 物品
+|-
+| Poison Fangs || [[毒牙]] || 物品
+|-
+| Poison Focus || [[毒素专攻]] || 专长
+|-
+| Poison Gum || [[毒口胶]] || 物品
+|-
+| Poison pill ring || [[藏毒戒指]] || 物品
+|-
+| Poison Resin || [[毒性硬脂]] || 专长
+|-
+| Poison Sealant || [[毒药密封剂]] || 物品
+|-
+| Poison Shot Deed || [[药铳]] || 专长
+|-
+| Poison Siphon Tree || [[吮毒树]] || 物品
+|-
+| Poison Sponge || [[毒液海绵]] || 物品
+|-
+| Poison Ward Salve || [[御毒膏]] || 物品
+|-
+| Poisoned Blade Resistance || [[毒刃抗力]] || 背景特性
+|-
+| Poisoned Egg || [[剧毒之卵]] || 法术
+|-
+| Poisoned Locket || [[毒喷盒]] || 物品
+|-
+| Poisoned Quill || [[毒羽笔]] || 物品
+|-
+| Poisoned sand tube || [[毒砂管]] || 物品
+|-
+| Poisoner's Channel || [[投毒引导]] || 专长
+|-
+| Poisoner's Goblet || [[投毒高脚杯]] || 物品
+|-
+| Poisoner’s Gloves || [[藏毒手套]] || 物品
+|-
+| Poisoner’s Jacket, Greater || [[强效毒素夹克]] || 物品
+|-
+| Poisoner’s Jacket, Lesser || [[弱效毒素夹克]] || 物品
+|-
+| Poisoning sheath || [[上毒剑鞘]] || 物品
+|-
+| Poisonous balm || [[浸毒药膏]] || 法术
+|-
+| poisonous cloak || [[剧毒披风]] || 物品
+|-
+| Poisonous Cloud || [[毒云术]] || 法术
+|-
+| Poisonous Performer || [[毒艺家]] || 其他
+|-
+| Poisonous Slayer || [[浸毒谋杀]] || 背景特性
+|-
+| Poisonous Upbringing || [[用毒教养]] || 背景特性
+|-
+| Polar midnight || [[冷酷凛冬]] || 法术
+|-
+| Polar Ray || [[极冰射线 (神话)|极冰射线]] || 其他
+|-
+| Polarity Hammer || [[磁极飞锤]] || 物品
+|-
+| Pole || [[长杆]] || 物品
+|-
+| Polong || [[瓶中血人]] || 其他
+|-
+| Poltergeist || [[骚灵]] || 其他
+|-
+| Polymorph || [[变形术]] || 法术
+|-
+| Polymorph Any Object || [[变形万物]] || 法术
+|-
+| Polymorph familiar || [[魔宠变形术]] || 法术
+|-
+| Polymorph, Greater || [[高等变形术]] || 法术
+|-
+| Polymorphic Pouch || [[变形袋]] || 物品
+|-
+| Polypurpose panacea || [[万灵秘药]] || 法术
+|-
+| Pommel Strike Deed || [[刀柄打]] || 专长
+|-
+| Pomp and Pageantry || [[形式主义]] || 背景特性
+|-
+| Pooka || [[噗咔精]] || 其他
+|-
+| Popobala || [[独眼鹰怪]] || 其他
+|-
+| Poppet, Poppet, Small || [[小型人偶]] || 物品
+|-
+| Poppet, Poppet, Tiny || [[超小型人偶]] || 物品
+|-
+| Porcupine || [[豪猪]] || 其他
+|-
+| Porcupine, Giant || [[巨豪猪]] || 其他
+|-
+| Portable alchemist's lab || [[便携式炼金术工作台]] || 物品
+|-
+| Portable altar || [[便携式祭坛]] || 物品
+|-
+| Portable Altar, Masterwork || [[精制品便携式祭坛]] || 物品
+|-
+| Portable bridge || [[便携式桥梁]] || 物品
+|-
+| Portable Hole || [[携带式次元洞]] || 物品
+|-
+| Portable prison || [[活动监牢]] || 物品
+|-
+| Portable ram || [[便携式攻城锤]] || 物品
+|-
+| Portal Oak || [[门户橡树]] || 物品
+|-
+| Portal-Finding Gloves || [[传送门发现手套]] || 物品
+|-
+| Position of Strength || [[强势姿态]] || 专长
+|-
+| Positive Pulse || [[正能量脉冲]] || 法术
+|-
+| Positive Pulse, Greater || [[高等正能量脉冲]] || 法术
+|-
+| Possess object || [[控物术]] || 法术
+|-
+| Possessed || [[凭依者]] || 背景特性
+|-
+| POSSESSED HAND || [[鬼上手]] || 专长
+|-
+| Possession || [[占据术]] || 法术
+|-
+| Possession trap || [[附身陷阱]] || 法术
+|-
+| Possession, Greater || [[高等占据术]] || 法术
+|-
+| Pot, common || [[铁壶]] || 物品
+|-
+| Pot, mithral || [[秘银铁壶]] || 物品
+|-
+| Potent Concoctions || [[强效混合物]] || 背景特性
+|-
+| Potent Holy Symbol || [[强力圣徽]] || 专长
+|-
+| Potent Surge || [[强化神力涌动]] || 专长
+|-
+| Potion Glutton || [[狂喝滥饮]] || 专长
+|-
+| Potion of posion || [[毒性药水]] || 物品
+|-
+| Pouch of Pixie Dust || [[妖精尘袋]] || 物品
+|-
+| Pouncing fury || [[暴怒冲锋]] || 法术
+|-
+| Poverty-Stricken || [[寒门子]] || 背景特性
+|-
+| Powder || [[粉末]] || 物品
+|-
+| Powder horn || [[火药筒]] || 物品
+|-
+| Power Attack || [[猛力攻击 (神话)|猛力攻击]] || 其他
+|-
+| Power of Suggestion || [[偷天换日(背景特性)|偷天换日]] || 背景特性
+|-
+| Power Word Blind || [[真言术：盲 (神话)|真言术：盲]] || 其他
+|-
+| Power Word Kill || [[真言术：死 (神话)|真言术：死]] || 其他
+|-
+| Power Word Stun || [[真言术：震 (神话)|真言术：震]] || 其他
+|-
+| Power-Hungry || [[权欲]] || 背景特性
+|-
+| Powerful Poisoning || [[迅猛之毒]] || 专长
+|-
+| Powerful Shape || [[壮硕形体 (神话)|壮硕形体]] || 其他
+|-
+| Powerhouse Pelt || [[猛力披毛甲]] || 物品
+|-
+| Pox of rumors || [[谣言疫咒]] || 法术
+|-
+| Pox Pustules || [[疱疹咒 (神话)|疱疹咒]] || 其他
+|-
+| Pox pustules || [[疱疹咒]] || 其他
+|-
+| Practiced Deception || [[精于乔妆]] || 背景特性
+|-
+| Practiced Gambler || [[老赌鬼]] || 背景特性
+|-
+| Practiced Ritualist || [[熟练祭祀]] || 专长
+|-
+| Practiced Tactician || [[战术熟练]] || 专长
+|-
+| Pragmatic Activator || [[实用者]] || 背景特性
+|-
+| Pragmatic Polytheist || [[务实的多神教徒]] || 背景特性
+|-
+| Prankster || [[整人精]] || 背景特性
+|-
+| Prayer || [[祈祷术 (神话)|祈祷术]] || 其他
+|-
+| Prayer Breaker || [[祷告破坏者]] || 背景特性
+|-
+| Prayer Wheel Of Ethical Strength || [[道力祈祷转轮]] || 物品
+|-
+| Precise Shot || [[精准射击]] || 专长
+|-
+| Precise Strike || [[精准打击]] || 专长
+|-
+| Precise Treatment || [[智医师]] || 背景特性
+|-
+| Precision Hearing || [[听音辨位]] || 背景特性
+|-
+| Precocious Spellcaster || [[早成法师]] || 背景特性
+|-
+| PRECOCIOUS YOUTH || [[早熟少年]] || 专长
+|-
+| Prediction of failure || [[天降祥瑞]] || 法术
+|-
+| Preferred Spell || [[偏好法术]] || 专长
+|-
+| Prehensile pilfer || [[猴子偷桃]] || 法术
+|-
+| Prehensile Whip || [[鞭如钩]] || 背景特性
+|-
+| Preklikin's Book of Cults || [[派克利林教典]] || 物品
+|-
+| Premium Hookah || [[豪华水烟管]] || 物品
+|-
+| Preserve || [[保鲜]] || 法术
+|-
+| Preserve Grace || [[慈悲之护]] || 法术
+|-
+| Preserving Flask || [[保质瓶]] || 物品
+|-
+| Press to the Wall || [[墙角战法]] || 专长
+|-
+| Pressure Adaptation || [[Pressure adaptation|Pressure Adaptation]] || 其他
+|-
+| Pressure adaptation || [[压力适应(法术)|压力适应]] || 其他
+|-
+| Pressure adept || [[压力适应]] || 其他
+|-
+| Pressure Pill || [[压力药丸]] || 物品
+|-
+| Pressure Suit || [[压力服]] || 物品
+|-
+| Prestidigitation || [[魔法伎俩]] || 法术
+|-
+| Prestigious Healer || [[知名医师]] || 背景特性
+|-
+| Pretend Pirate || [[伪装海盗]] || 背景特性
+|-
+| Preyfinder || [[寻猎者]] || 物品
+|-
+| Pride || [[骄傲]] || 背景特性
+|-
+| Pride of the Diamond Empire || [[宝钻帝国的傲气]] || 背景特性
+|-
+| Prideful Temper || [[高傲的怒火]] || 背景特性
+|-
+| Priest of Oblivion || [[湮灭祭司]] || 其他
+|-
+| Priest-Blessed || [[神官福佑]] || 背景特性
+|-
+| Primal Bloom || [[原初绽放]] || 专长
+|-
+| Primal Dowser || [[原能探棒]] || 物品
+|-
+| Primal Dragon, Brine || [[原龙，洋龙|少年洋龙]] || 其他
+|-
+| Primal Dragon, Cloud || [[原龙，云龙|少年云龙]] || 其他
+|-
+| Primal Dragon, Crystal || [[原龙，晶龙|少年晶龙]] || 其他
+|-
+| Primal Dragon, Magma || [[原龙，熔龙|少年熔龙]] || 其他
+|-
+| Primal Dragon, Umbral || [[原龙，影龙|少年影龙]] || 其他
+|-
+| Primal Kineticist || [[原能操念使]] || 专长
+|-
+| Primal regression || [[原始退行]] || 法术
+|-
+| Primal scream || [[原初怒嚎]] || 法术
+|-
+| Primate, Baboon || [[狒狒(怪物)|狒狒]] || 其他
+|-
+| Primate, Monkey Swarm || [[猴群]] || 其他
+|-
+| Principled || [[严信徒]] || 背景特性
+|-
+| Printing press，1-page || [[印刷机〔单版面〕]] || 物品
+|-
+| Prismati Player || [[投石玩家]] || 背景特性
+|-
+| Prismatic Plate || [[虹彩板甲]] || 物品
+|-
+| Prismatic Sphere || [[虹光法球 (神话)|虹光法球]] || 其他
+|-
+| Prismatic Spray || [[虹光喷射 (神话)|虹光喷射]] || 其他
+|-
+| Prismatic Wall || [[虹光法墙]] || 法术
+|-
+| Pristine Reputation || [[名门望族]] || 背景特性
+|-
+| Privacy Shelter || [[个人庇护所]] || 物品
+|-
+| Privileged Slave || [[特权奴隶]] || 背景特性
+|-
+| Probe history || [[调查历史]] || 法术
+|-
+| Prodigy || [[奇才]] || 专长
+|-
+| Produce Flame || [[燃火术]] || 法术
+|-
+| Profane General || [[渎圣战将]] || 其他
+|-
+| Profane nimbus || [[亵渎光环]] || 法术
+|-
+| Profane Seal Signet || [[邪印玺戒]] || 物品
+|-
+| Prognostication || [[预兆术]] || 法术
+|-
+| Programmed Image || [[预置幻影]] || 法术
+|-
+| Project Image || [[投影术]] || 法术
+|-
+| Project weakness || [[弱点投射]] || 法术
+|-
+| Prolong Magic || [[延时法术]] || 背景特性
+|-
+| Promising Peacemaker || [[出息的和事佬]] || 背景特性
+|-
+| Prone Shooter || [[匍匐射手]] || 专长
+|-
+| Prone Slinger || [[匍匐投手]] || 专长
+|-
+| Pronged Arrow || [[分叉箭]] || 物品
+|-
+| Proper Training || [[训练得当]] || 背景特性
+|-
+| Prophesied || [[预兆使]] || 背景特性
+|-
+| Prophet || [[布道先知]] || 专长
+|-
+| Prophet of Burrows || [[洞穴先知]] || 背景特性
+|-
+| Prophet of Kalistrade || [[卡利斯拉德先知]] || 职业
+|-
+| prophetic lore || [[通晓预言]] || 法术
+|-
+| Prophetic Visionary || [[未来福音 (神话)|未来福音]] || 其他
+|-
+| Prophet’s Pectoral || [[先知胸饰]] || 物品
+|-
+| Propitiation || [[同祀诸神]] || 背景特性
+|-
+| Prosperous room || [[繁荣房间]] || 法术
+|-
+| Prosthesis || [[假肢]] || 物品
+|-
+| Prosthetic || [[义肢]] || 物品
+|-
+| Protean || [[幻蛇绪论]] || 其他
+|-
+| Protean, Azuretzi || [[幻蛇，阿苏雷茨|阿苏雷茨幻蛇]] || 其他
+|-
+| Protean, Hegessik || [[幻蛇，赫格西克|赫格西克幻蛇]] || 其他
+|-
+| Protean, Imentesh || [[幻蛇，埃门特西]] || 其他
+|-
+| Protean, Izfiitar || [[幻蛇，伊兹菲塔尔|伊兹菲塔尔]] || 其他
+|-
+| Protean, Keketar || [[幻蛇，科科塔尔]] || 其他
+|-
+| Protean, Naunet || [[幻蛇，纳乌奈特|纳乌奈特]] || 其他
+|-
+| Protean, Oshageros || [[幻蛇，奥沙格罗斯|奥沙格罗斯]] || 其他
+|-
+| Protean, Ourdivar || [[幻蛇，乌尔迪瓦尔|乌尔迪瓦尔]] || 其他
+|-
+| Protean, Pelagastr || [[幻蛇，裴拉盖斯特|裴拉盖斯特]] || 其他
+|-
+| Protean, Voidworm || [[幻蛇，虚空虫|幻蛇 虚空虫]] || 其他
+|-
+| Protection || [[守护]] || 专长
+|-
+| Protection from Arrows || [[防护箭矢 (神话)|防护箭矢]] || 其他
+|-
+| Protection from Arrows, Communal || [[共用防护箭矢]] || 法术
+|-
+| Protection from Chaos || [[防护混乱 (神话)|防护混乱]] || 其他
+|-
+| Protection from Chaos, Communal || [[共用防护混乱]] || 法术
+|-
+| Protection from Energy || [[防护能量伤害]] || 法术
+|-
+| Protection from Energy, Communal || [[共用防护能量伤害]] || 法术
+|-
+| Protection from Evil || [[防护邪恶 (神话)|防护邪恶]] || 其他
+|-
+| Protection from Evil, Communal || [[共用防护邪恶]] || 法术
+|-
+| Protection from Good || [[防护善良 (神话)|防护善良]] || 其他
+|-
+| Protection from Good, Communal || [[共用防护善良]] || 法术
+|-
+| Protection from Law || [[防护秩序 (神话)|防护秩序]] || 其他
+|-
+| Protection from Law, Communal || [[共用防护守序]] || 法术
+|-
+| Protection from natural attacks || [[防护天生武器]] || 法术
+|-
+| Protection from outsiders || [[防护异界生物]] || 其他
+|-
+| Protection from Spells || [[防护法术]] || 法术
+|-
+| Protection from spores || [[防护孢子]] || 法术
+|-
+| Protection From Technology || [[防护科技]] || 法术
+|-
+| Protective Channel || [[防护引导]] || 专长
+|-
+| Protective Faith || [[信仰之御]] || 背景特性
+|-
+| Protective Line || [[防护列阵]] || 专长
+|-
+| Protective penumbra || [[防护之影]] || 法术
+|-
+| Protective Ruff || [[保护飞边]] || 物品
+|-
+| Protective spirit || [[守护之灵]] || 法术
+|-
+| Protector || [[戍卫宠]] || 其他
+|-
+| Protector of the People || [[平民守护者]] || 专长
+|-
+| Protector`s Strike || [[防御者之击]] || 专长
+|-
+| Providential Passenger || [[幸运乘客]] || 背景特性
+|-
+| Provider || [[提供者]] || 背景特性
+|-
+| Provincial || [[小团体]] || 背景特性
+|-
+| Prowler's Palliative || [[小偷的应急剂]] || 物品
+|-
+| Proxy Summoning || [[代理召唤]] || 专长
+|-
+| Prying Eyes || [[窥视魔眼]] || 法术
+|-
+| Prying Eyes, Greater || [[高等窥视魔眼]] || 法术
+|-
+| Pseudodragon || [[伪龙(冒险装备)|伪龙]] || 物品
+|-
+| Psoglav || [[犬头吃人怪]] || 其他
+|-
+| Psychemental || [[窃忆灵体]] || 其他
+|-
+| Psychepore || [[精神孔]] || 其他
+|-
+| Psychic || [[异能者]] || 其他
+|-
+| Psychic Adept || [[念力技法]] || 专长
+|-
+| Psychic asylum || [[精神庇护所]] || 法术
+|-
+| Psychic Combatant || [[心灵争斗者]] || 专长
+|-
+| Psychic Crush II || [[心灵碾压 II]] || 法术
+|-
+| Psychic Crush III || [[心灵碾压 III]] || 法术
+|-
+| Psychic Crush IV || [[心灵碾压 IV]] || 法术
+|-
+| Psychic Defender || [[心灵护卫者]] || 专长
+|-
+| Psychic Disciple || [[异能修行者]] || 专长
+|-
+| Psychic Healing || [[精神疗法]] || 专长
+|-
+| Psychic image || [[精神投影]] || 法术
+|-
+| Psychic leech || [[异能寄生]] || 法术
+|-
+| Psychic Maestro || [[神秘技能大师]] || 专长
+|-
+| Psychic reading || [[读心阅人]] || 法术
+|-
+| Psychic Sensitivity || [[异能敏感]] || 专长
+|-
+| PSYCHIC SHIELDING || [[异能护盾]] || 其他
+|-
+| Psychic Stalker || [[心灵追猎者 Psychic Stalker]] || 其他
+|-
+| Psychic surgery || [[心智手术]] || 法术
+|-
+| Psychic Virtuoso || [[神秘技能达人]] || 专长
+|-
+| Psychonaut manifestation || [[太虚内视]] || 法术
+|-
+| Psychopomp || [[渡魂使绪论]] || 其他
+|-
+| Psychopomp, Algea || [[渡魂使，忧伤神]] || 其他
+|-
+| Psychopomp, Catrina || [[卡崔娜迎魂使]] || 其他
+|-
+| Psychopomp, Esobok || [[渡魂使，埃斯波克]] || 其他
+|-
+| Psychopomp, Memitim || [[渡魂使，终天使]] || 其他
+|-
+| Psychopomp, Morrigna || [[摩莉甘猎魂使]] || 其他
+|-
+| Psychopomp, Nosoi || [[渡魂使，疫鸟|疫鸟]] || 其他
+|-
+| Psychopomp, Olethros || [[渡魂使，劫运观魂使|劫运观魂使]] || 其他
+|-
+| Psychopomp, Shoki || [[渡魂使，舒奇囚魂使|舒奇囚魂使]] || 其他
+|-
+| Psychopomp, Vanth || [[万特护魂使]] || 其他
+|-
+| Psychopomp, Viduus || [[渡魂使，维杜斯书魂使|维杜斯书魂使]] || 其他
+|-
+| Psychopomp, Yamaraj || [[阎摩判魂使]] || 其他
+|-
+| Ptah || [[卜塔]] || 其他
+|-
+| Pugwampi's Grace || [[魔怪之善意]] || 法术
+|-
+| Pukwudgie || [[魒骻吉]] || 其他
+|-
+| Pummeling Bully || [[刚掌波]] || 专长
+|-
+| Pummeling Charge || [[天将奔烈]] || 专长
+|-
+| Pummeling Style || [[刚烈掌]] || 专长
+|-
+| Pump water canister || [[有泵水罐]] || 物品
+|-
+| Punch Through || [[穿透打击 (Punch Through)|穿透打击]] || 其他
+|-
+| Punching dagger || [[拳刃]] || 物品
+|-
+| Punish Insurrection || [[惩戒叛逆]] || 背景特性
+|-
+| Punishing armor || [[惩戒装甲]] || 法术
+|-
+| Punishing Kick || [[扫堂腿]] || 专长
+|-
+| Punishing Step || [[梅花步]] || 专长
+|-
+| Pup shape || [[动物萌化]] || 法术
+|-
+| Pupil's Friend || [[学童之友]] || 物品
+|-
+| Puppet Master || [[傀儡大师]] || 专长
+|-
+| Pure Faith || [[纯粹信仰]] || 专长
+|-
+| Pure Legion Assault || [[精纯卫队猛攻]] || 专长
+|-
+| Pure Legion Enforcer || [[精纯卫队执行者]] || 职业
+|-
+| Pure Legion Recruit || [[精纯卫队新兵]] || 背景特性
+|-
+| Purgatory's Cowl || [[判魂炼地之斗篷]] || 物品
+|-
+| Purge spirit || [[净除精魂]] || 法术
+|-
+| Purging Falcata || [[肃清之刃]] || 物品
+|-
+| Purging finale || [[净涤谢幕曲]] || 法术
+|-
+| Purification Talisman || [[不染护符]] || 物品
+|-
+| Purified calling || [[纯化唤回]] || 法术
+|-
+| Purify body || [[净化躯体]] || 法术
+|-
+| Purify Food and Drink || [[净化食粮]] || 法术
+|-
+| Purifying Channel || [[涤净引导]] || 专长
+|-
+| Purifying Ointment || [[净化药膏]] || 物品
+|-
+| Purity || [[纯洁]] || 专长
+|-
+| Purity of Faith || [[无暇信仰]] || 背景特性
+|-
+| Purple Worm || [[紫虫]] || 其他
+|-
+| Purple worm poison || [[紫虫毒]] || 物品
+|-
+| Pursuit of Glory || [[追随荣耀]] || 专长
+|-
+| Pushing Assault || [[推进强袭]] || 专长
+|-
+| Putrefy food and drink || [[腐化食粮]] || 法术
+|-
+| Putrid Ooze || [[腐泥怪]] || 其他
+|-
+| Puzzle box || [[智慧箱]] || 物品
+|-
+| Pyralisia || [[派拉利西亚，余烬之雨]] || 其他
+|-
+| Pyrausta || [[微火龙]] || 其他
+|-
+| Pyre Bead || [[火葬珠]] || 物品
+|-
+| Pyre Salt || [[火葬盐]] || 物品
+|-
+| Pyrography kit || [[烙画工具箱]] || 物品
+|-
+| Pyromancer || [[纵火专家]] || 背景特性
+|-
+| Pyrotechnic eruption || [[烟火喷发]] || 法术
+|-
+| Pyrotechnics || [[烟火术]] || 法术
+|-
+| Pyxes Of Redirected Focus || [[改之理赛钱箱]] || 物品
+|-
+| Qallupilluk || [[海溺巫婆]] || 其他
+|-
+| Qi Zhong || [[齐仲]] || 神祇
+|-
+| Qlippoth || [[古魔绪论]] || 其他
+|-
+| Qlippoth appearance || [[古魔之貌]] || 法术
+|-
+| Qlippoth Lord || [[古魔领主绪论]] || 其他
+|-
+| Qlippoth Lord, Chavazvug || [[古魔领主，查瓦茨菲戈|查瓦茨菲戈]] || 其他
+|-
+| Qlippoth Lord, Isph–Aun–Vuln || [[古魔领主，咿嘶-噢嗯-喔嗯|咿嘶-噢嗯-喔嗯]] || 其他
+|-
+| Qlippoth Lord, Oaur–Ooung || [[Qaur–Ooung]] || 其他
+|-
+| Qlippoth Lord, Thuskchoon || [[Thuskchoon]] || 其他
+|-
+| Qlippoth, Augnagar || [[古魔，蝠翼蛛魔|蝠翼蛛魔]] || 其他
+|-
+| Qlippoth, Behimiron || [[古魔，吮尸魔|吮尸魔]] || 其他
+|-
+| Qlippoth, Cataboligne || [[古魔，裂解魔|裂解魔]] || 其他
+|-
+| qlippoth, Chernobue || [[古魔，触手眼魔|触手眼魔]] || 其他
+|-
+| qlippoth, Cythnigot || [[古魔，寄尸魔|寄尸魔]] || 其他
+|-
+| Qlippoth, Gongorinan || [[古魔，肱戈蚋卵魔|肱戈蚋卵魔]] || 其他
+|-
+| Qlippoth, Gorgoros || [[古魔，塑石蛇魔|塑石蛇魔]] || 其他
+|-
+| Qlippoth, Hydraggon || [[古魔，岔舌鱼怪|岔舌鱼怪]] || 其他
+|-
+| Qlippoth, Iathavos || [[古魔，灭世魔君|灭世魔君]] || 其他
+|-
+| qlippoth, Nyogoth || [[古魔，饥肠魔|饥肠魔]] || 其他
+|-
+| qlippoth, Shoggti || [[古魔，鱿魔|鱿魔]] || 其他
+|-
+| qlippoth, Thulgant || [[古魔，蝎尾蛛魔|蝎尾蛛魔]] || 其他
+|-
+| Qlippoth, Utukku || [[古魔，净魂魔|净魂魔]] || 其他
+|-
+| Quadrens || [[多刃匕首]] || 物品
+|-
+| Quah Bond || [[郭之羁绊]] || 专长
+|-
+| Quain Martial Artist || [[夸英武师]] || 背景特性
+|-
+| Quaking || [[撼地]] || 物品
+|-
+| Qualm || [[顾虑重重]] || 法术
+|-
+| Quartern Disjunction || [[分离为四]] || 其他
+|-
+| Quarterstaff || [[木棍]] || 物品
+|-
+| Quarterstaff Master || [[木棍大师]] || 专长
+|-
+| Quarterstaff of Contemplation || [[冥思长棍]] || 物品
+|-
+| Quarterstaff of Entwined Serpents || [[双蛇杖]] || 物品
+|-
+| Quarterstaff of Vaulting || [[腾空杖]] || 物品
+|-
+| Quell energy || [[镇压能量]] || 法术
+|-
+| Quench || [[灭火术]] || 法术
+|-
+| Questing Hellknight || [[探险地狱骑士]] || 背景特性
+|-
+| Questing stone || [[寻路石]] || 法术
+|-
+| Quick Block Buckler || [[疾防圆盾]] || 物品
+|-
+| Quick Bull Rush || [[快速冲撞]] || 专长
+|-
+| Quick change || [[快速换装]] || 法术
+|-
+| Quick Channel || [[快速导能]] || 专长
+|-
+| Quick Dirty Trick || [[快速阴招]] || 专长
+|-
+| Quick Drag || [[快速拖拽]] || 专长
+|-
+| Quick Draw || [[即时备战 (神话)|即时备战]] || 其他
+|-
+| Quick Favor || [[略施小惠]] || 专长
+|-
+| Quick Learner || [[速习者]] || 背景特性
+|-
+| QUICK PREPARATION || [[快速准备]] || 专长
+|-
+| Quick Reposition || [[快速移位]] || 专长
+|-
+| Quick Runner’s Shirt || [[高速战士衬衫]] || 物品
+|-
+| Quick Steal || [[快速盗取]] || 专长
+|-
+| Quick Stow || [[快速收纳]] || 专长
+|-
+| Quick Study || [[快速研习]] || 专长
+|-
+| Quick throwing || [[快速投掷|Quick throwing]] || 其他
+|-
+| Quick Wild Shape || [[快速变身 (Quick Wild Shape)|快速变身]] || 其他
+|-
+| Quicken Blessing || [[快速祝福]] || 专长
+|-
+| Quicken Metamagic Rod || [[瞬发超魔权杖]] || 物品
+|-
+| Quicken Spell || [[法术瞬发]] || 专长
+|-
+| Quicken Spell-Like Ability || [[类法术能力瞬发]] || 专长
+|-
+| quickling || [[快可灵]] || 其他
+|-
+| Quicksilver Blood || [[快银之血]] || 物品
+|-
+| quickwood || [[快木]] || 其他
+|-
+| Quiet Death || [[无声击杀]] || 专长
+|-
+| Quieting weapons || [[消音武器]] || 法术
+|-
+| Quill of Passage || [[通行羽毛笔]] || 物品
+|-
+| Quill of Verification || [[验证羽笔]] || 物品
+|-
+| Quilted cloth || [[填充布甲]] || 物品
+|-
+| Quintain || [[回旋刺靶]] || 物品
+|-
+| Quintessence || [[完美假象]] || 法术
+|-
+| Quintessence Mastery || [[源质掌握]] || 法术
+|-
+| Quivering Palm Adept || [[精通浸透劲]] || 专长
+|-
+| Quivering Palm Versatility || [[百变浸透劲]] || 专长
+|-
+| Ra || [[拉]] || 其他
+|-
+| Rabbit || [[兔子]] || 物品
+|-
+| Rabble Rebel || [[乌合之众]] || 背景特性
+|-
+| Raccoon || [[浣熊]] || 物品
+|-
+| Racial Heritage || [[远古血脉 (神话)|远古血脉]] || 其他
+|-
+| racial item mastery || [[种族物品掌握]] || 专长
+|-
+| Racing Broom Of Flying || [[飞行比赛扫帚]] || 物品
+|-
+| Radiant Charge || [[光辉冲锋]] || 专长
+|-
+| Radiant Tattoo || [[光明刺青]] || 物品
+|-
+| Radiation ward || [[防卫辐射]] || 法术
+|-
+| Ragadahn || [[拉格达恩]] || 其他
+|-
+| Ragathiel || [[拉贾瑟尔]] || 其他
+|-
+| Rage || [[狂暴术]] || 法术
+|-
+| Rage Casting || [[血暴魔法]] || 专长
+|-
+| Rage Prophet || [[怒火先知]] || 职业
+|-
+| Rager's Aid || [[狂暴伴侣]] || 物品
+|-
+| Raging Absorption || [[血怒吸能]] || 专长
+|-
+| Raging Blood || [[狂怒血统]] || 专长
+|-
+| Raging Brutality || [[狂暴猛击]] || 专长
+|-
+| Raging Concentration || [[血魔专注]] || 专长
+|-
+| Raging Deathblow || [[狂暴杀戮]] || 专长
+|-
+| Raging Hurler || [[狂暴投掷]] || 专长
+|-
+| Raging rubble || [[肆虐锐石]] || 法术
+|-
+| Raging Swimmer || [[狂怒泳者]] || 其他
+|-
+| Raging Throw || [[狂暴撞飞]] || 专长
+|-
+| Raging Vitality || [[狂暴活性]] || 专长
+|-
+| Rags to riches || [[白手起家]] || 法术
+|-
+| Raiment of Chains || [[锁链外袍]] || 物品
+|-
+| Raiment of Command || [[威权华服]] || 法术
+|-
+| Rain of Arrows || [[箭雨术]] || 法术
+|-
+| Rain of frogs || [[天降之蛙]] || 法术
+|-
+| Rainbow Jellyfish Toxin || [[彩虹水母毒]] || 物品
+|-
+| Rainbow Lenses || [[彩虹眼镜]] || 物品
+|-
+| Rainbow Pattern || [[虹彩图纹]] || 法术
+|-
+| Raise animal companion || [[友伴复活]] || 法术
+|-
+| Raise Dead || [[死者复活]] || 法术
+|-
+| Raking Claws || [[撕裂之爪]] || 专长
+|-
+| Rakshasa || [[罗刹(怪物)|罗刹[RAKSHASA]]] || 其他
+|-
+| Rakshasa, Dandasuka || [[罗刹，毒噬罗刹|毒噬罗刹]] || 其他
+|-
+| Rakshasa, Maharaja || [[罗刹，罗刹鬼王|罗刹鬼王]] || 其他
+|-
+| Rakshasa, Marai || [[罗刹，妖蛇罗刹|妖蛇罗刹]] || 其他
+|-
+| Rakshasa, Raktavarna || [[罗刹，化物罗刹|化物罗刹]] || 其他
+|-
+| Rakshasa, Tataka || [[罗刹，暴掠罗刹|暴掠罗刹]] || 其他
+|-
+| Rally point || [[集结点]] || 法术
+|-
+| Ram Hammer, Dwarven || [[矮人羊角锤]] || 物品
+|-
+| Ramidreju || [[Ramidreju]] || 其他
+|-
+| Rampart || [[城墙术]] || 法术
+|-
+| Ranged Disable || [[远距解除装置]] || 专长
+|-
+| Ranged Disarm || [[远程卸武]] || 专长
+|-
+| Ranged Feint || [[远距虚招]] || 专长
+|-
+| Ranged Piton || [[远程岩钉]] || 物品
+|-
+| Ranged Study || [[远程策略]] || 专长
+|-
+| Ranged Trip || [[远程摔绊]] || 专长
+|-
+| Ranger || [[游侠]] || 其他
+|-
+| Ranger's kit || [[游侠工具包]] || 物品
+|-
+| Ranseur || [[刺叉]] || 物品
+|-
+| Rapid Focus Shift || [[快速心智转移]] || 专长
+|-
+| Rapid Grappler || [[快速擒抱]] || 专长
+|-
+| Rapid Reload || [[快速装填 (神话)|快速装填]] || 其他
+|-
+| Rapid repair || [[快速修复]] || 法术
+|-
+| Rapid Shot || [[快速射击 (神话)|快速射击]] || 其他
+|-
+| Rapier || [[细剑]] || 物品
+|-
+| Rapier of Battlefield Movement || [[战地穿行细剑]] || 物品
+|-
+| Rapier of Puncturing || [[穿刺细剑]] || 物品
+|-
+| Rapscallion || [[无赖]] || 背景特性
+|-
+| Rast || [[炭渣怪]] || 其他
+|-
+| Rat || [[鼠]] || 物品
+|-
+| Rat Catcher || [[捕鼠者]] || 专长
+|-
+| Rat King || [[鼠王]] || 其他
+|-
+| Rat Squeeze || [[鼠式挤过]] || 背景特性
+|-
+| Rat Stack || [[鼠群堆叠]] || 专长
+|-
+| Rat Swarm || [[鼠群]] || 其他
+|-
+| Rat, dire || [[凶暴鼠(冒险装备)|凶暴鼠]] || 物品
+|-
+| Rat, Dire || [[凶暴鼠(怪物)|凶暴鼠]] || 其他
+|-
+| Ratcheting Gauntlets || [[棘齿铁手套]] || 物品
+|-
+| Ratfolk Avenger || [[鼠人复仇者]] || 背景特性
+|-
+| Ratling || [[人面鼠]] || 其他
+|-
+| Raucous Canard || [[刺耳流言]] || 物品
+|-
+| Raven || [[渡鸦(冒险装备)|渡鸦]] || 物品
+|-
+| Raven Swarm || [[Raven Swarm]] || 其他
+|-
+| Raven's flight || [[黑鸦天翔]] || 法术
+|-
+| Raven's Head || [[鸦首]] || 物品
+|-
+| Raven, Giant || [[Giant Raven]] || 其他
+|-
+| Ravener || [[掠劫亡龙|上古红龙掠劫亡者]] || 其他
+|-
+| Rawhead || [[Rawhead]] || 其他
+|-
+| Ray of Enfeeblement || [[衰弱射线 (神话)|衰弱射线]] || 其他
+|-
+| Ray of Exhaustion || [[力竭射线]] || 法术
+|-
+| Ray of Frost || [[冰冻射线]] || 法术
+|-
+| Ray of sickening || [[恶心射线]] || 法术
+|-
+| Ray Shield || [[盾牌反射]] || 专长
+|-
+| Ray, Manta || [[蝠鲼]] || 其他
+|-
+| Ray, Stingray || [[魟鱼]] || 其他
+|-
+| Razmiran Priest || [[拉兹密安牧师]] || 职业
+|-
+| Razortusk || [[利牙突变]] || 专长
+|-
+| Reach Metamagic Rod || [[及远超魔权杖]] || 物品
+|-
+| Reach Spell || [[及远法术]] || 专长
+|-
+| Reaching Vines || [[延展藤蔓]] || 物品
+|-
+| Reactionary || [[反制者]] || 背景特性
+|-
+| Reactive Arcane Shield || [[反应式奥能之盾]] || 专长
+|-
+| Reactive Healing || [[救急医疗]] || 专长
+|-
+| Read Magic || [[阅读魔法]] || 法术
+|-
+| Read Spell Traces || [[解读魔力残留]] || 专长
+|-
+| Read the Room || [[阅读空气]] || 专长
+|-
+| Read Weather || [[判读天气]] || 法术
+|-
+| Ready for Anything || [[时刻备战]] || 专长
+|-
+| Ready for Battle || [[随时备战]] || 专长
+|-
+| Ready for Pain || [[痛感钝化]] || 专长
+|-
+| Reagent extractor || [[试剂提取器]] || 物品
+|-
+| Realistic Likeness || [[乱真外表]] || 专长
+|-
+| Realm Retribution || [[领域惩戒]] || 法术
+|-
+| Reap the Infirm || [[收割病弱]] || 专长
+|-
+| Reaper's Coterie || [[收割者之喜]] || 法术
+|-
+| Reaper's Lantern || [[死神灯笼]] || 物品
+|-
+| Reaper's Wisdom || [[收割者之智]] || 物品
+|-
+| Reassuring Advice || [[宽慰的建议]] || 背景特性
+|-
+| Reboot || [[重启]] || 法术
+|-
+| Rebounding Leap || [[返身上马]] || 专长
+|-
+| Rebuffing Reduction || [[爆肉刚体]] || 专长
+|-
+| Rebuilder's Boots || [[重建者之靴]] || 物品
+|-
+| Rebuke || [[叱责]] || 法术
+|-
+| Rebuke Technology || [[打击科技]] || 法术
+|-
+| Rebuke the Curse || [[压制咒]] || 背景特性
+|-
+| Recall Ammunition || [[召回弹药]] || 专长
+|-
+| Recentering drone || [[重定嗡鸣]] || 法术
+|-
+| Recharge || [[再充能]] || 法术
+|-
+| Recharge innate magic || [[自法充盈]] || 法术
+|-
+| Reckless || [[急性子 (Reckless)|急性子]] || 背景特性
+|-
+| Reckless Aim || [[鲁莽瞄准]] || 专长
+|-
+| Reckless Contempt || [[骄狂者]] || 背景特性
+|-
+| Reckless infatuation || [[疯狂迷恋]] || 法术
+|-
+| Reckless Luck || [[鲁莽的运气]] || 背景特性
+|-
+| Reckless Moves || [[粗暴移动]] || 专长
+|-
+| Reckless Rage || [[鲁莽狂暴]] || 专长
+|-
+| Recoil fire || [[擦枪走火]] || 法术
+|-
+| Recondite Rod || [[玄奥权杖]] || 物品
+|-
+| Reconsecrate Altar || [[神坛再祝圣]] || 其他
+|-
+| Recorporeal incarnation || [[腐肉假身]] || 法术
+|-
+| Recovered Rage || [[狂暴复苏]] || 专长
+|-
+| Recruit || [[新兵]] || 其他
+|-
+| Recruits || [[新手]] || 专长
+|-
+| Red hand of the killer || [[凶罪之红]] || 法术
+|-
+| Red Hound Ring || [[赤原猎犬指环]] || 物品
+|-
+| Red Mantis Assassin || [[红螳螂杀手]] || 职业
+|-
+| Red Mantis Bleeding || [[血染双刀]] || 背景特性
+|-
+| Red Silk Frankness || [[红丝路的诚意(社交)]] || 背景特性
+|-
+| Red Stalker Armor || [[赤红追踪者护甲]] || 物品
+|-
+| Redcap || [[红帽子]] || 其他
+|-
+| redcap’s touch || [[红帽之触]] || 法术
+|-
+| Redeemed by Ragathiel || [[拉贾瑟尔的救赎]] || 背景特性
+|-
+| Redeemer || [[救赎者(背景特性)|救赎者]] || 背景特性
+|-
+| Redemption || [[救赎之旅]] || 专长
+|-
+| Redemptor's Blessing || [[救赎者的祝福]] || 物品
+|-
+| Redirect Attack || [[乾坤挪移]] || 专长
+|-
+| Redirected Shot || [[撞球射艺]] || 专长
+|-
+| Redlust`s Daughter || [[红欲女]] || 物品
+|-
+| Reduce Animal || [[动物缩小术]] || 法术
+|-
+| Reduce Person || [[缩小术 (神话)|缩小术]] || 其他
+|-
+| Reduce Person, Mass || [[群体缩小术]] || 法术
+|-
+| Reefclaw || [[礁爪怪]] || 其他
+|-
+| Refine improvised weapon || [[强固临时武器]] || 法术
+|-
+| Refined Accessories || [[精致配饰]] || 物品
+|-
+| Reflexive barrier || [[直觉屏障]] || 法术
+|-
+| Reflexive Caster || [[反射护法]] || 专长
+|-
+| Reflexive Trick || [[直觉诡计]] || 专长
+|-
+| Refocusing rod || [[重聚心智权杖]] || 物品
+|-
+| Refuge || [[脱身术]] || 法术
+|-
+| Regal Presence || [[王者风范]] || 背景特性
+|-
+| Regenerate || [[再生术 (神话)|再生术]] || 其他
+|-
+| Reincarnate || [[转生术]] || 法术
+|-
+| Reincarnate spy || [[转生间谍]] || 法术
+|-
+| Reincarnated || [[转生者]] || 背景特性
+|-
+| Reinforce armaments || [[强固武装]] || 法术
+|-
+| Reinforce armaments, communal || [[共用强固武装]] || 法术
+|-
+| Reinforce Campsite || [[加固营地]] || 其他
+|-
+| Reinforced Crafting || [[强固作成]] || 专长
+|-
+| Reinvigorating wind || [[苏活之风]] || 法术
+|-
+| Reject Poison || [[百毒不侵]] || 专长
+|-
+| Rejected Emperor || [[落选皇胤]] || 背景特性
+|-
+| Rejuvenate eidolon || [[向导治愈术]] || 法术
+|-
+| Rejuvenate eidolon, greater || [[高等向导治愈术]] || 法术
+|-
+| Rejuvenate eidolon, lesser || [[次等向导治愈术]] || 法术
+|-
+| Release the hounds || [[关门放狗]] || 法术
+|-
+| Relentless Cheer || [[不屈喝彩]] || 专长
+|-
+| Relentless Duty || [[不懈职责]] || 背景特性
+|-
+| Relentless Fortitude || [[坚韧不拔]] || 背景特性
+|-
+| Relentless Shot || [[稳固射击]] || 专长
+|-
+| Relic Hunter || [[文物猎人]] || 背景特性
+|-
+| Relic-Proof || [[抗储法]] || 背景特性
+|-
+| Reloading hands || [[自动装填]] || 法术
+|-
+| Reluctant Apprentice || [[混饭生]] || 背景特性
+|-
+| Remarkable legerdemain || [[经典骗术]] || 法术
+|-
+| Remora pad || [[鲫鱼胶笺]] || 物品
+|-
+| Remorhaz || [[百足魔虫]] || 其他
+|-
+| Remote Bomb || [[遥控炸弹]] || 专长
+|-
+| Remote viewing || [[遥感术]] || 法术
+|-
+| Remove Blindness/Deafness || [[移除目盲/耳聋]] || 法术
+|-
+| Remove Curse || [[移除诅咒]] || 法术
+|-
+| Remove Disease || [[移除疾病]] || 法术
+|-
+| Remove Fear || [[移除恐惧]] || 法术
+|-
+| Remove Paralysis || [[移除麻痹]] || 法术
+|-
+| Remove Radioactivity || [[移除放射性]] || 法术
+|-
+| Remove radioactivity, greater || [[高等移除放射性]] || 法术
+|-
+| Remove sickness || [[移除恶心]] || 法术
+|-
+| Rend body i || [[撕扯肢体 I]] || 法术
+|-
+| Rend body ii || [[撕扯肢体 II]] || 法术
+|-
+| Rend body iii || [[撕扯肢体 III]] || 法术
+|-
+| Rend body iv || [[撕扯肢体 IV]] || 法术
+|-
+| Rending Claws || [[撕扯之爪]] || 专长
+|-
+| Rending Fury || [[疯狂撕扯]] || 专长
+|-
+| Rending Swarm || [[鼠群撕裂]] || 专长
+|-
+| Renovation || [[装修术]] || 法术
+|-
+| RENOWN || [[声誉]] || 专长
+|-
+| Repair undead || [[修复死灵]] || 法术
+|-
+| Repair undead, mass || [[群体修复死灵]] || 法术
+|-
+| Repeating hand crossbow || [[连发手弩]] || 物品
+|-
+| Repeating heavy crossbow || [[连发重弩]] || 物品
+|-
+| Repeating light crossbow || [[连发轻弩]] || 物品
+|-
+| Repel Metal or Stone || [[驱离金石]] || 法术
+|-
+| Repel Sin || [[斥罪]] || 背景特性
+|-
+| Repel Vermin || [[驱离害虫]] || 法术
+|-
+| Repel Wood || [[驱离木材 (神话)|驱离木材]] || 其他
+|-
+| Repellent Cartridge || [[驱虫定装弹]] || 专长
+|-
+| Replay tracks || [[足迹重演]] || 法术
+|-
+| Replenish Ki || [[回气术]] || 法术
+|-
+| Replenishing Aquarium Ball || [[自给水族球]] || 物品
+|-
+| Reporting Cartridge || [[探报定装弹]] || 物品
+|-
+| Repositioning Strike || [[移位重击]] || 专长
+|-
+| Repress memory || [[压制记忆]] || 法术
+|-
+| Reprobation || [[谴责术]] || 法术
+|-
+| Reptoid || [[Reptoid]] || 其他
+|-
+| Repugnant taste || [[作恶体味]] || 法术
+|-
+| Repulsion || [[排斥术]] || 法术
+|-
+| Repulsive || [[丑恶]] || 背景特性
+|-
+| Reservoir Tattoo || [[贮法刺青]] || 物品
+|-
+| Residual tracking || [[残痕显影术]] || 法术
+|-
+| Resigned || [[听天由命]] || 背景特性
+|-
+| Resilient || [[铁胃人]] || 背景特性
+|-
+| Resilient Armor || [[铁甲护体]] || 专长
+|-
+| Resilient Brute || [[兽性强韧]] || 专长
+|-
+| Resilient Caster || [[稳术师]] || 背景特性
+|-
+| Resilient Eidolon || [[坚韧幻灵]] || 专长
+|-
+| Resilient Martyr || [[坚毅殉道者]] || 背景特性
+|-
+| Resilient reservoir || [[惩戒之池]] || 法术
+|-
+| Resilient Sphere || [[弹力法球]] || 法术
+|-
+| Resinous skin || [[树脂皮肤]] || 法术
+|-
+| Resist Energy || [[抵抗能量伤害 (神话)|抵抗能量伤害]] || 其他
+|-
+| Resist energy, communal || [[共用抵抗能量伤害]] || 法术
+|-
+| Resist starvation || [[抵抗饥饿]] || 法术
+|-
+| Resistance || [[提升抗力]] || 法术
+|-
+| resistance mastery || [[抗力掌握]] || 专长
+|-
+| Resisting Grappler || [[不羁者]] || 专长
+|-
+| Resize Item || [[缩放物品]] || 法术
+|-
+| Resizing || [[放缩]] || 物品
+|-
+| Resolute Rager || [[刚毅狂暴]] || 专长
+|-
+| Resolute Steed || [[坚定坐骑]] || 专长
+|-
+| Resolve of the Rejected || [[决意铳]] || 背景特性
+|-
+| Resonating Word || [[共振之语 (神话)|共振之语]] || 其他
+|-
+| Resonating word || [[共振之语]] || 其他
+|-
+| Resounding blow || [[轰鸣击]] || 法术
+|-
+| Resounding clang || [[引导共鸣]] || 法术
+|-
+| Resourceful Alchemy || [[勤俭炼金术]] || 背景特性
+|-
+| Resourceful Scavenger || [[机智拾荒者]] || 背景特性
+|-
+| Respectful quiet || [[静音术]] || 法术
+|-
+| Resplendent mansion || [[辉煌豪宅]] || 法术
+|-
+| Resplendent Robe Of The Thespian || [[优伶的璀璨之袍]] || 物品
+|-
+| Resplendent Uniform Coat || [[华丽制服]] || 物品
+|-
+| Rest eternal || [[永恒安眠]] || 法术
+|-
+| Restful Birch || [[宁静桦树]] || 物品
+|-
+| Restful cloak || [[安逸斗篷]] || 法术
+|-
+| Restful sleep || [[舒适沉眠]] || 法术
+|-
+| Restless Lockpicks || [[自动撬锁工具]] || 物品
+|-
+| Restoration || [[复原术]] || 法术
+|-
+| Restoration Dust || [[还尸粉]] || 物品
+|-
+| Restoration Mastery || [[复原掌握]] || 专长
+|-
+| Restoration, Greater || [[高等复原术]] || 法术
+|-
+| Restoration, Lesser || [[次等复原术]] || 法术
+|-
+| Restorative Ointment || [[滋补软膏]] || 物品
+|-
+| Restorative Vigor || [[复原活力]] || 专长
+|-
+| Restore corpse || [[尸体重构]] || 法术
+|-
+| Restore eidolon || [[幻灵复原术]] || 法术
+|-
+| Restore eidolon, lesser || [[次等幻灵复原术]] || 法术
+|-
+| Restore mythic power || [[复原神力]] || 法术
+|-
+| Resurgent transformation || [[转灵强愈剂]] || 法术
+|-
+| Resurrection || [[复生术]] || 法术
+|-
+| Retort || [[蒸馏器]] || 物品
+|-
+| Retort of Control || [[精控蒸馏器]] || 物品
+|-
+| Retractable Spines || [[伸缩式尖刺]] || 物品
+|-
+| Retribution || [[惩戒]] || 法术
+|-
+| Retributive Kick || [[变剑为掌]] || 专长
+|-
+| Retributive reparations || [[报复性赔偿]] || 法术
+|-
+| Retrieve item || [[取物术]] || 法术
+|-
+| Retriever || [[猎魔蛛]] || 其他
+|-
+| Retrocognition || [[回溯过去]] || 法术
+|-
+| Return to Dormancy || [[归于休憩]] || 其他
+|-
+| Returning Throw || [[回返投掷]] || 专长
+|-
+| Returning weapon || [[回力武器]] || 法术
+|-
+| Returning weapon, communal || [[共用回力武器]] || 法术
+|-
+| Reveal emotions || [[揭露情绪]] || 法术
+|-
+| Reveal mirage || [[破蜃术]] || 法术
+|-
+| Reveal secrets || [[揭示秘密]] || 法术
+|-
+| Reveal True Shape || [[显露真形]] || 法术
+|-
+| Revealing Light || [[揭露光华]] || 法术
+|-
+| Revealing Waters || [[显形圣水]] || 专长
+|-
+| Revelation || [[启示]] || 法术
+|-
+| Revelation Strike || [[启示打击]] || 专长
+|-
+| Revenant || [[怨灵]] || 其他
+|-
+| Revenant armor || [[亡魂盔甲]] || 法术
+|-
+| Revered Guidance || [[尊贵向导]] || 专长
+|-
+| Reverent Wielder || [[恭敬的使用者]] || 背景特性
+|-
+| Reverse Gravity || [[反重力 (神话)|反重力]] || 其他
+|-
+| Reverse Somersault Throw || [[反身翻腾]] || 专长
+|-
+| Reverse-Feint || [[倒打一耙]] || 专长
+|-
+| Reviving Channel || [[复兴导能]] || 专长
+|-
+| Reviving finale || [[复苏谢幕曲]] || 法术
+|-
+| Reviving Rest || [[振奋回覆]] || 背景特性
+|-
+| Revolver || [[左轮手枪]] || 物品
+|-
+| Reward of Grace || [[恩泽之赐]] || 专长
+|-
+| Reward of Life || [[生命之赐]] || 专长
+|-
+| Reward of the Faithful || [[信仰回报]] || 专长
+|-
+| Rezlarabren || [[雷兹拉伯伦]] || 其他
+|-
+| Rhabdomancy || [[棍卜术]] || 专长
+|-
+| Rhetorical Flourish || [[舌绽莲花 (神话)|舌绽莲花]] || 其他
+|-
+| Rhino Charge || [[犀牛冲锋]] || 专长
+|-
+| Rhino Hide || [[犀牛皮甲]] || 物品
+|-
+| Rhinoceros || [[犀牛]] || 其他
+|-
+| Rhinoceros, Woolly || [[披毛犀]] || 其他
+|-
+| Rhoka sword || [[双叉剑]] || 物品
+|-
+| Rhombocrystal || [[偏方水晶]] || 物品
+|-
+| Rhomphaia || [[长柄逆刃刀]] || 物品
+|-
+| Rhu–Chalik || [[入–切里克]] || 其他
+|-
+| Rice Paper，sheet || [[宣纸〔一张〕]] || 物品
+|-
+| Rich Parents || [[富二代]] || 背景特性
+|-
+| Ricochet Hammer || [[弹跳飞锤]] || 物品
+|-
+| Ricochet Shot || [[一箭双雕 (神话)|一箭双雕]] || 其他
+|-
+| Ricochet shot || [[一箭双雕]] || 其他
+|-
+| Ricochet Shot Deed || [[反弹射击]] || 专长
+|-
+| Ricochet Splash Weapon || [[跳弹溅射]] || 专长
+|-
+| Ricochet Toss || [[回弹投射]] || 专长
+|-
+| Riddling Khopesh || [[解谜镰剑]] || 物品
+|-
+| Ride the lightning || [[驭雷而行]] || 法术
+|-
+| Ride The Waves || [[驭波术]] || 法术
+|-
+| Ride-By Attack || [[骑乘掠击 (神话)|快速骑乘攻击]] || 专长
+|-
+| Rider's Bond || [[骑手羁绊]] || 背景特性
+|-
+| Riding kit, common || [[乘骑工具箱]] || 物品
+|-
+| Riding kit, exotic mount || [[异种乘骑工具箱]] || 物品
+|-
+| Riding possession || [[驾行占据术]] || 法术
+|-
+| Rifle || [[步枪]] || 物品
+|-
+| Rift of Ruin || [[崩坏裂隙]] || 法术
+|-
+| Rift-Rending Bracers || [[划空裂隙护腕]] || 物品
+|-
+| Riftcreeper || [[裂隙匍匐者]] || 其他
+|-
+| Riftwarden || [[裂隙守卫]] || 职业
+|-
+| Righteous blood || [[正义之血]] || 法术
+|-
+| Righteous condemnation || [[正义谴责]] || 法术
+|-
+| Righteous Fist Amulet || [[正义之拳护符]] || 物品
+|-
+| Righteous Healing || [[公正医疗]] || 专长
+|-
+| Righteous Indignation || [[义愤填膺]] || 背景特性
+|-
+| Righteous Might || [[正气如虹]] || 法术
+|-
+| Righteous Orator || [[正义雄辩者]] || 专长
+|-
+| Righteous vigor || [[正义狂热]] || 法术
+|-
+| Rigor mortis || [[尸僵]] || 法术
+|-
+| Rime Metamagic Rod || [[霜冻超魔权杖]] || 物品
+|-
+| Rime Spell || [[霜冻法术]] || 专长
+|-
+| Rimeshaper Gloves || [[塑霜者手套]] || 物品
+|-
+| Ring Gates || [[空间跳跃环]] || 物品
+|-
+| Ring of Adept Maneuvers || [[武技专擅戒指]] || 物品
+|-
+| Ring of Ancestral Blood Magic || [[先祖血咒戒指]] || 物品
+|-
+| Ring of Animal Friendship || [[动物之友戒指]] || 物品
+|-
+| Ring of Arcane Mastery || [[奥术精通戒指]] || 物品
+|-
+| Ring of Arcane Signets || [[奥术之印]] || 物品
+|-
+| Ring of Austere Majesty || [[严峻威严之戒]] || 物品
+|-
+| Ring of Blinking || [[闪现戒指]] || 物品
+|-
+| Ring of Chameleon Power || [[变色龙戒指]] || 物品
+|-
+| Ring of Climbing || [[攀爬戒指]] || 物品
+|-
+| Ring of Climbing, Improved || [[精通攀爬戒指]] || 物品
+|-
+| Ring of clumsiness || [[笨重戒指]] || 物品
+|-
+| Ring of Continuation || [[延续戒指]] || 物品
+|-
+| Ring of Counterspells || [[法术反制戒指]] || 物品
+|-
+| Ring of Craft Magic || [[魔力工艺戒指]] || 物品
+|-
+| Ring of Curing || [[治愈戒指]] || 物品
+|-
+| Ring of Delayed Doom || [[延缓毁灭戒指]] || 物品
+|-
+| Ring of Djinni Calling || [[呼唤风巨灵戒指]] || 物品
+|-
+| Ring of Ectoplasmic Invigoration || [[外质滋补戒指]] || 物品
+|-
+| Ring of Elemental Command || [[元素命令戒指]] || 物品
+|-
+| Ring of Eloquence || [[口才戒指]] || 物品
+|-
+| Ring of Energy Resistance || [[抵抗能量伤害戒指]] || 物品
+|-
+| Ring of Energy Shroud || [[能量包裹戒指]] || 物品
+|-
+| Ring of Entropy and Order || [[熵与秩之戒]] || 物品
+|-
+| Ring of Evasion || [[反射闪避戒指]] || 物品
+|-
+| Ring of eyes || [[眼之环]] || 物品
+|-
+| Ring of Far Strike || [[远战戒指]] || 物品
+|-
+| Ring Of Fear Reflection || [[恐惧反射戒指]] || 物品
+|-
+| Ring of Feather Falling || [[羽落术戒指]] || 物品
+|-
+| Ring of Ferocious Action || [[凶猛行动戒指]] || 物品
+|-
+| Ring of Foe Focus || [[集中对敌戒指]] || 物品
+|-
+| Ring of Force Shield || [[力场护盾戒指]] || 物品
+|-
+| Ring of Forcefangs || [[力牙戒指]] || 物品
+|-
+| Ring of Freedom of Movement || [[行动自如戒指]] || 物品
+|-
+| Ring of Friend Shield || [[护卫同伴戒指]] || 物品
+|-
+| Ring of Grit Mastery || [[勇毅精通戒指]] || 物品
+|-
+| Ring of Inner Fortitude || [[内在强韧戒指]] || 物品
+|-
+| Ring of Invisibility || [[隐形戒指]] || 物品
+|-
+| Ring of Jumping || [[跳跃戒指]] || 物品
+|-
+| Ring of Jumping, Improved || [[精通跳跃戒指]] || 物品
+|-
+| Ring of Ki Mastery || [[真气精通戒指]] || 物品
+|-
+| Ring of lifebleed || [[伤损戒指]] || 物品
+|-
+| Ring of Lingering Blood Magic || [[迟滞血咒戒指]] || 物品
+|-
+| Ring of Maniacal Devices || [[机械狂戒指]] || 物品
+|-
+| Ring of Mind Shielding || [[心灵护盾戒指]] || 物品
+|-
+| Ring of Mysticism || [[神秘戒指]] || 物品
+|-
+| Ring of Natural Attunement: Drake || [[自然协律戒指：龙兽]] || 物品
+|-
+| Ring of Natural Attunement: Kami || [[自然协律戒指：神灵]] || 物品
+|-
+| Ring of Natural Attunement: Leshy || [[自然协律戒指：莱西]] || 物品
+|-
+| Ring of Nine Facets || [[九面之戒]] || 物品
+|-
+| Ring of Phrenic Prowess || [[精神力量戒指]] || 物品
+|-
+| Ring Of Plagues || [[瘟疫戒指]] || 物品
+|-
+| Ring of Planar Focus || [[位面聚焦之戒]] || 物品
+|-
+| Ring of Powerful Blood Magic || [[增效血咒戒指]] || 物品
+|-
+| Ring of Protection || [[防护戒指]] || 物品
+|-
+| Ring of psychic mastery || [[异能精通戒指]] || 物品
+|-
+| Ring of Rat Fangs || [[鼠牙戒指]] || 物品
+|-
+| Ring of Regeneration || [[再生戒指]] || 物品
+|-
+| Ring of Resilience || [[达观戒指]] || 物品
+|-
+| Ring Of Resumption || [[回生之戒]] || 物品
+|-
+| Ring of Retribution || [[报应戒指]] || 物品
+|-
+| Ring of Return || [[回归戒指]] || 物品
+|-
+| Ring of Revelation || [[启示戒指]] || 物品
+|-
+| Ring of Rulership || [[统治者之戒]] || 物品
+|-
+| Ring of Sacred Mistletoe || [[圣洁槲寄生戒指]] || 物品
+|-
+| Ring of Serene Contortions || [[静修戒]] || 物品
+|-
+| Ring of Seven Lovely Colors || [[七彩炫戒]] || 物品
+|-
+| Ring of Shooting Stars || [[流星戒指]] || 物品
+|-
+| Ring of spell devouring || [[噬法戒指]] || 物品
+|-
+| Ring of Spell Knowledge || [[法术知识戒指]] || 物品
+|-
+| Ring of Spell Storing || [[储法戒指]] || 物品
+|-
+| Ring of Spell Storing, Major || [[高等储法戒指]] || 物品
+|-
+| Ring of Spell Storing, minor || [[次等储法戒指]] || 物品
+|-
+| Ring of Spell Turning || [[法术反转戒指]] || 物品
+|-
+| Ring of Stairs and Stars || [[星阶之戒]] || 物品
+|-
+| Ring of Starlight || [[星光之戒]] || 物品
+|-
+| Ring of Strength Sapping || [[削力戒指]] || 物品
+|-
+| Ring of Summoning Affinity: Aeon || [[召唤共鸣戒指：御衡者]] || 物品
+|-
+| Ring of Summoning Affinity: Agathion || [[召唤共鸣戒指：福使]] || 物品
+|-
+| Ring of Summoning Affinity: Angel || [[召唤共鸣戒指：天使]] || 物品
+|-
+| Ring of Summoning Affinity: Archon || [[召唤共鸣戒指：圣使]] || 物品
+|-
+| Ring of Summoning Affinity: Asura || [[召唤共鸣戒指：阿修罗]] || 物品
+|-
+| Ring of Summoning Affinity: Daemon || [[召唤共鸣戒指：邪魔]] || 物品
+|-
+| Ring of Summoning Affinity: Div || [[召唤共鸣戒指：妖灵]] || 物品
+|-
+| Ring of Summoning Affinity: Inevitable || [[召唤共鸣戒指：制裁者]] || 物品
+|-
+| Ring of Summoning Affinity: Kyton || [[召唤共鸣戒指：链魔]] || 物品
+|-
+| Ring of Summoning Affinity: Protean || [[召唤共鸣戒指：幻蛇]] || 物品
+|-
+| Ring of Summoning Affinity: Psychopomp || [[召唤共鸣戒指：渡魂使]] || 物品
+|-
+| Ring of Summoning Affinity: Qlippoth || [[召唤共鸣戒指：古魔]] || 物品
+|-
+| Ring of Sundering Metals || [[斩铁戒指]] || 物品
+|-
+| Ring of Sustenance || [[维生戒指]] || 物品
+|-
+| Ring of Swarming Stabs || [[蜂刺戒指]] || 物品
+|-
+| Ring of Swimming || [[游泳戒指]] || 物品
+|-
+| Ring of Swimming, Improved || [[精通游泳戒指]] || 物品
+|-
+| Ring of Tactical Precision || [[精准战术戒指]] || 物品
+|-
+| Ring of Telekinesis || [[心灵遥控戒指]] || 物品
+|-
+| Ring of the Cacodaemon || [[狂躁邪魔之戒]] || 物品
+|-
+| Ring of The Earthlord || [[大地领主之戒]] || 物品
+|-
+| Ring of the Ecclesiarch || [[神官之印]] || 物品
+|-
+| Ring of the Faithful Dead || [[贞死之戒]] || 物品
+|-
+| Ring of The Flame Drake || [[焰龙兽之戒]] || 物品
+|-
+| Ring of The Forest Drake || [[森林龙兽之戒]] || 物品
+|-
+| Ring of The Frost Drake || [[霜龙兽之戒]] || 物品
+|-
+| Ring of the Godless || [[逆神者戒指]] || 物品
+|-
+| Ring of the Grasping Grave || [[断死戒指]] || 物品
+|-
+| Ring Of The Hidden Psyche || [[隐魂戒指]] || 物品
+|-
+| Ring of the Ram || [[攻城锤戒指]] || 物品
+|-
+| Ring of The Sea Drake || [[海龙兽之戒]] || 物品
+|-
+| Ring of the Sea Strider || [[海行戒指]] || 物品
+|-
+| Ring of the Sophisticate || [[世故戒指]] || 物品
+|-
+| Ring of the Sublime || [[卓越之戒]] || 物品
+|-
+| Ring of The Trickster || [[魔术师指环]] || 物品
+|-
+| Ring of the Troglodyte || [[怪臭戒指]] || 物品
+|-
+| Ring of Three Wishes || [[三愿戒指]] || 物品
+|-
+| Ring of Transposition || [[转移戒指]] || 物品
+|-
+| Ring of truth || [[实话戒指]] || 物品
+|-
+| Ring of Unquenchable Passions || [[不息热情戒指]] || 物品
+|-
+| Ring of Vengeful Blood Magic || [[仇念血咒戒指]] || 物品
+|-
+| Ring of Water Walking || [[水上行走戒指]] || 物品
+|-
+| Ring of Wizardry || [[巫术戒指]] || 物品
+|-
+| Ring of X-Ray Vision || [[X射线视觉戒指]] || 物品
+|-
+| Rings of Alien Geometries || [[异形几何之戒]] || 物品
+|-
+| Rings of Friend-Finding || [[觅友戒指]] || 物品
+|-
+| Riot Pipe || [[暴乱之笛]] || 物品
+|-
+| Riptide Attack || [[激流冲压]] || 专长
+|-
+| Risen Blade || [[重生之刃]] || 物品
+|-
+| Rising Water || [[提升水位]] || 法术
+|-
+| Risky Striker || [[危机战斗]] || 专长
+|-
+| Rite of bodily purity || [[净躯仪典]] || 法术
+|-
+| Rite of centered mind || [[专注仪典]] || 法术
+|-
+| RITUAL EXORCISM || [[仪式驱魔术]] || 其他
+|-
+| Ritual Hex || [[仪式巫术]] || 专长
+|-
+| Ritualist || [[仪式师]] || 职业
+|-
+| Ritualistic Preparation || [[秘仪准备]] || 专长
+|-
+| Rival || [[宿敌]] || 专长
+|-
+| Rival's Weald || [[宿敌之林]] || 法术
+|-
+| River Acumen || [[熟悉河流]] || 背景特性
+|-
+| River Freedom || [[河流之赐]] || 背景特性
+|-
+| River Navigator || [[河流领航员]] || 背景特性
+|-
+| River of wind || [[风之河]] || 法术
+|-
+| River Raider || [[河流袭击者 (River Raider)|河流袭击者]] || 其他
+|-
+| RIVER RAlDER || [[河流袭击者 (RIVER RAlDER)|河流袭击者]] || 其他
+|-
+| River Rat || [[夜泳者]] || 背景特性
+|-
+| River Sniper || [[河域狙击手]] || 背景特性
+|-
+| River Trader || [[河上商贩]] || 背景特性
+|-
+| River whip || [[流水长鞭]] || 法术
+|-
+| Riverclub Ring || [[水棒戒指]] || 物品
+|-
+| Riversight || [[河域视力]] || 法术
+|-
+| Rivethun Adherent || [[钉魂门信徒]] || 背景特性
+|-
+| Riving Strike || [[奥能收割]] || 专长
+|-
+| Roaming pit || [[漫游坑]] || 法术
+|-
+| Robe Of Arcane Heritage || [[奥术传承之袍]] || 物品
+|-
+| Robe Of Blending || [[融合法袍]] || 物品
+|-
+| Robe Of Bones || [[骸骨法袍]] || 物品
+|-
+| Robe Of Components || [[素材法袍]] || 物品
+|-
+| Robe Of Eyes || [[百眼法袍]] || 物品
+|-
+| Robe Of Gates || [[召唤法袍]] || 物品
+|-
+| Robe Of Infinite Twine || [[无尽麻绳法袍]] || 物品
+|-
+| Robe Of Needles || [[飞针法袍]] || 物品
+|-
+| Robe of Powerlessness || [[衰弱长袍]] || 物品
+|-
+| Robe Of Scintillating Colors || [[虹光法袍]] || 物品
+|-
+| Robe Of Stars || [[星光法袍]] || 物品
+|-
+| Robe of The Faerie Queen || [[仙灵女皇长衣]] || 物品
+|-
+| Robe of the Master of Masters || [[宗师武衣]] || 物品
+|-
+| Robe of the Overmind || [[精神主宰之袍]] || 物品
+|-
+| Robe Of Useful Items || [[杂货法袍]] || 物品
+|-
+| Robot || [[机体绪论]] || 其他
+|-
+| Robot, Annihilator || [[歼灭机]] || 其他
+|-
+| Robot, Gearsman || [[齿轮人]] || 其他
+|-
+| Robot, Myrmidon || [[护卫机]] || 其他
+|-
+| Robot, Terraformer || [[改造机]] || 其他
+|-
+| Robust Stench || [[强健恶臭]] || 专长
+|-
+| Roc || [[大鹏]] || 其他
+|-
+| Rock whip || [[岩之鞭]] || 法术
+|-
+| Rod of Abrupt Hexes || [[骤然巫术权杖]] || 物品
+|-
+| Rod of Absorption || [[吸收权杖]] || 物品
+|-
+| Rod of Alertness || [[警戒权杖]] || 物品
+|-
+| Rod of Arson || [[引火烧身权杖]] || 物品
+|-
+| Rod of Balance || [[平衡权杖]] || 物品
+|-
+| Rod of Beguiling || [[诱骗权杖]] || 物品
+|-
+| Rod of Burning Blood || [[燃血权杖]] || 物品
+|-
+| Rod of Cancellation || [[抹消权杖]] || 物品
+|-
+| Rod of Dwarven Might || [[矮人力量权杖]] || 物品
+|-
+| Rod of Enemy Detection || [[索敌权杖]] || 物品
+|-
+| Rod of Escape || [[逃脱权杖]] || 物品
+|-
+| Rod of Flailing || [[链枷权杖]] || 物品
+|-
+| Rod of Flame Extinguishing || [[灭火权杖]] || 物品
+|-
+| Rod of foiled magic || [[阻魔权杖]] || 物品
+|-
+| Rod of Grasping Hexes || [[纠缠巫术权杖]] || 物品
+|-
+| Rod of Ice || [[冰冻权杖]] || 物品
+|-
+| Rod of Interminable Hexes || [[冗长巫术权杖]] || 物品
+|-
+| Rod of Lordly Might || [[王者力量权杖]] || 物品
+|-
+| Rod of Metal and Mineral Detection || [[金属探测权杖]] || 物品
+|-
+| Rod of Mind Mastery || [[心灵掌控权杖]] || 物品
+|-
+| Rod of Negation || [[否定权杖]] || 物品
+|-
+| Rod of Nettles || [[荨麻权杖]] || 物品
+|-
+| Rod of Potent Hexes || [[烈性巫术权杖]] || 物品
+|-
+| Rod of Revolution || [[革命权杖]] || 物品
+|-
+| Rod of Ruin || [[废墟权杖]] || 物品
+|-
+| Rod of Rulership || [[统治者权杖]] || 物品
+|-
+| Rod of Security || [[庇护权杖]] || 物品
+|-
+| Rod of Shadows || [[阴影权杖]] || 物品
+|-
+| Rod of Splendor || [[光彩权杖]] || 物品
+|-
+| Rod of Steadfast Resolve || [[坚定权杖]] || 物品
+|-
+| Rod of the Aboleth || [[底栖魔鱼权杖]] || 物品
+|-
+| Rod of the Python || [[巨蟒权杖]] || 物品
+|-
+| Rod of the Viper || [[毒蛇权杖]] || 物品
+|-
+| Rod of the Wayang || [[剪影人权杖]] || 物品
+|-
+| Rod of Thunder and Lightning || [[雷电权杖]] || 物品
+|-
+| Rod of Thunderous Force || [[雷鸣力量权杖]] || 物品
+|-
+| Rod of Vicious Ghosts || [[厉鬼权杖]] || 物品
+|-
+| Rod of Voracious Hexes || [[贪欲巫术权杖]] || 物品
+|-
+| Rod of Withering || [[枯萎权杖]] || 物品
+|-
+| Rod of Wonder || [[惊奇权杖]] || 物品
+|-
+| Rogue || [[掉链盗贼]] || 其他
+|-
+| Rogue's kit || [[盗贼工具包]] || 物品
+|-
+| Roiling Oil || [[油泥]] || 其他
+|-
+| Rokurokubi || [[轱辘首|軲轆首]] || 其他
+|-
+| Roof Racer || [[檐上跑者]] || 背景特性
+|-
+| Root || [[扎根|Root]] || 其他
+|-
+| Rope (50 ft.) || [[麻绳]] || 物品
+|-
+| Rope dart || [[绳镖]] || 物品
+|-
+| Rope Dragon || [[绳龙]] || 其他
+|-
+| Rope Gauntlet || [[绑绳拳套]] || 物品
+|-
+| Rope Of Climbing || [[攀爬绳]] || 物品
+|-
+| Rope Of Entanglement || [[纠缠绳]] || 物品
+|-
+| Rope Of Knots || [[打结绳]] || 物品
+|-
+| rope tornado || [[细龙卷]] || 法术
+|-
+| Rope Trick || [[魔绳术]] || 法术
+|-
+| Roper || [[树绳怪|树绳妖]] || 其他
+|-
+| Roperunner || [[滑索]] || 物品
+|-
+| Ropeweave || [[绳索编织]] || 法术
+|-
+| Rose Warden || [[玫瑰戍卫]] || 职业
+|-
+| Roseskin Comb || [[玫瑰皮篦]] || 物品
+|-
+| Rostland Edge || [[罗斯特兰刀锋]] || 物品
+|-
+| Rosy Hauberk || [[鲜花盔甲]] || 物品
+|-
+| Rotgut || [[劣酒]] || 法术
+|-
+| Rotting alliance || [[致病陪伴]] || 法术
+|-
+| Rougarou || [[狩狼人(怪物)|狩狼人]] || 其他
+|-
+| Rough and Ready || [[粗糙但趁手]] || 背景特性
+|-
+| Rousing Courage || [[鼓动勇气]] || 背景特性
+|-
+| Rousing Oratory || [[演说家]] || 背景特性
+|-
+| Rovagug || [[拉瓦古格]] || 神祇
+|-
+| Rovagug's Fury || [[洛瓦古格之怒]] || 法术
+|-
+| Roving Range || [[游猎射程]] || 背景特性
+|-
+| Rubberskin || [[橡胶皮肤]] || 法术
+|-
+| Rubble Skirmisher || [[废墟散兵]] || 专长
+|-
+| Rude Songs || [[粗鲁歌曲]] || 背景特性
+|-
+| Ruffian || [[无赖(NPC)|无赖]] || 其他
+|-
+| Rugged Northerner || [[坚韧的北方人]] || 专长
+|-
+| Ruk Tar || [[弄死他]] || 物品
+|-
+| Rukh || [[双头鹫]] || 其他
+|-
+| Rumboozle，cup || [[甜蛋酒〔一杯，茶杯〕]] || 物品
+|-
+| Rumormonger || [[标记谣言]] || 法术
+|-
+| Run || [[飞跑 (神话)|飞跑]] || 其他
+|-
+| Runaway Slave || [[逃亡奴隶]] || 背景特性
+|-
+| Rune of durability || [[坚韧符文]] || 法术
+|-
+| Rune of jandelay || [[詹德雷符文]] || 法术
+|-
+| Rune of ruin || [[毁灭符文]] || 法术
+|-
+| Rune of Rule || [[准则符文]] || 法术
+|-
+| Rune of warding || [[守卫符文]] || 法术
+|-
+| Rune Trace || [[符文追溯]] || 法术
+|-
+| Runeguard || [[符文守卫]] || 职业
+|-
+| Runelord Manifestation || [[符文领主幻形]] || 其他
+|-
+| Runes of The Crone's Coven || [[鬼婆战团符文]] || 物品
+|-
+| Runes of The Old Faith || [[旧日信仰符文]] || 物品
+|-
+| Runescarred Dragonship || [[符文伤痕-龙之舟]] || 物品
+|-
+| Runeward Tattoo || [[符文守护纹身]] || 物品
+|-
+| Runic overload || [[符文超载]] || 法术
+|-
+| Rusalka || [[水泽妖女]] || 其他
+|-
+| Rushing Winds || [[疾风掠空]] || 专长
+|-
+| Rust Monster || [[锈蚀怪]] || 其他
+|-
+| Rusting Grasp || [[锈蚀爪]] || 法术
+|-
+| Rusting Teeth of the Rough Beast || [[毁天兽之朽齿]] || 物品
+|-
+| Ruthless || [[无情]] || 背景特性
+|-
+| Ruthless Opportunist || [[狠辣借机]] || 专长
+|-
+| Rythius，the kyron scourge || [[Rythius，链魔之灾]] || 物品
+|}
+
+[[分类:待办事项]]

@@ -1,0 +1,53 @@
+{{速查导航}}
+
+'''木元素'''是《[[异能冒险]]》的一章。
+
+注：因为个人的美学，“Utility Wild Talents”在本文中译为“辅助[[原力]]”，而非[[通用原力]]
+
+== 木（Wood） ==
+
+植木[[操念使]]与第一世界（the First World）紧密相连，引导最为原始的生命之力。世界上并没有“木元素位面”，因为这一元素位面早已一头撞碎在第一世界的边境上。
+
+== 本职技能（Class Skills） ==
+
+植木操念使将知识（自然）和[[驯养动物]]加到她的[[本职技能]]列表中。
+
+== 基础操控（Basic Manipulation） ==
+
+== 简易念袭（Simple Blast） ==
+
+植木操念使获得木袭（wood blast）作为[[简易念袭]]。她可以将下表中所有列出的注能添加到木袭以及和其相关的[[复合念袭]]中。
+
+== 护身（Defense） ==
+
+== 原力（Wild Talents） ==
+
+1级——基础植木念力（Basic Phytokinesis），kinetic coverOA, pushing infusionOA, *,[[扎根]]（[[Root]]s）
+
+2级——entangling infusionOA, *,仁慈之叶（Merciful Foliage）， woodland step
+
+3级——brachiation, impaleOA, *,棘肤（Thorn Flesh），曲木 (Warp Wood)
+
+4级——[[翡翠视域]]（Greensight），植物伪装（Plant Disguise），塑木者（Shape Wood），萃毒注能（Toxic Infusion）*
+
+5级——植物傀儡（Plant Puppet），野性生长 (Wild Growth)，woodland step (greater);
+
+6级——deadly earthOA, *,木语（Green Tongue）
+
+7级——高等萃毒注能（Toxic Infusion, Greater）*
+
+9级——战争之林（Forst Sigeg），竖木为兵(Wood Soldiers)
+
+* 星号为注能原力
+
+出处：[[极限荒野]]（pg.59）;[[异能源始]]（pg.8）
+
+== 本章条目 ==
+
+本章的原力都有各自的条目页：
+
+[[起秋尘]]、[[基础植木念力]]、[[摆荡]]、[[木身]]、[[战争之林]]、[[木语]]、[[翡翠视域]]、[[植物伪装]]、[[植物傀儡]]、[[扎根(原力)]]、[[塑木者]]、[[拂春风]]、[[通夏火]]、[[棘肤]]、[[萃毒注能]]、[[曲木]]、[[野性生长]]、[[漫冬雪]]、[[木袭]]、[[竖木为兵]]、[[木行术]]、[[仁慈之叶]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_662.html 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

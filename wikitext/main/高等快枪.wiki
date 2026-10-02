@@ -1,0 +1,11 @@
+{{Feat
+|name=高等快枪
+|english_name=Greater Snap Shot
+|categories=战斗
+|description=你不会放过对手最短暂的松懈时刻，哪怕距离遥远。
+|prerequisites=敏捷17，[[精通快枪]]，[[近距射击]]，[[快速射击]]，[[快枪]]，基本攻击加值+12。
+|benefit=当你使用远程武器发动[[借机攻击]]且命中时，你的伤害检定和重击确认检定+2。这些加值在你的基本攻击加值达到+16和+20时分别升至+4和+6。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

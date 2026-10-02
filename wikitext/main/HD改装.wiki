@@ -1,0 +1,10 @@
+{{魔法物品
+|name=HD改装
+|english_name=Hit Dice Modification
+|aon=ConstructMods.aspx?ItemName=Hit Dice Modification
+|cat=构装改造
+|description='''类型''' 基础改装；'''制作需求''' 无；'''CR提高''' 无；'''成本''' 见正文
+
+HD代表构装体的整体强度与威能，会影响一系列后续能力，包括生命值、豁免和基础攻击。HD改装的效果按《[[怪物图鉴]]》第290–291页给生物添加HD的规则确定。由于构装体的体型是受限的，HD改装无法增大体型。因此，HD改装永远不能使基础构装体的HD超过其总HD的50%。部分构装体对增加HD有明确规定的成本；要计算其他构装体每增加1HD的成本，用该构装体的制造成本除以其现有的HD数量。
+|source=极限魔法
+}}

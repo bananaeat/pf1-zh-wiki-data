@@ -1,0 +1,14 @@
+{{魔法物品
+|name=信仰披肩
+|english_name=Mantle of Faith
+|aon=MagicWondrousDisplay.aspx?FinalName=Mantle of Faith
+|cat=奇物
+|aura=强烈防护系
+|cl=20
+|slot=胸部
+|price=76,000 gp
+|description=这件神圣的服饰绣有某个特定信仰的各种宗教图案和偏爱的颜色。穿在普通衣物外面时，赋予穿戴者伤害减免5/邪恶。
+|req=[[制造奇物]]、[[石肤术]]
+|cost=38,000 gp
+|source=核心规则书、极限宝具
+}}

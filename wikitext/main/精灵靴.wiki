@@ -1,0 +1,15 @@
+{{魔法物品
+|name=精灵靴
+|english_name=Boots of Elvenkind
+|aon=MagicWondrousDisplay.aspx?FinalName=Boots of Elvenkind
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=脚部
+|price=2,500 gp
+|weight=1磅
+|description=这双柔软的靴子一部分由鲜活的树叶和其他天然材料制成。穿上它们，穿戴者几乎能在任何环境中身手轻盈地移动，在特技检定上获得+5表现加值。
+|req=[[制造奇物]]、制造者必须是精灵
+|cost=1,250 gp
+|source=核心规则书、极限宝具
+}}

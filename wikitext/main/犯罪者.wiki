@@ -1,0 +1,9 @@
+{{Trait
+|name=犯罪者
+|english_name=Criminal
+|type=社会
+|description=你的童年为了生存而耽于偷盗和抢劫。选择以下一项技能：[[解除装置]]、威吓或[[巧手]]。你在该技能上获得+1背景加值，并且总能将其视为你的[[本职技能]]。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

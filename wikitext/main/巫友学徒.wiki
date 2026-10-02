@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faiths and Philosophies pg. 33），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=巫友学徒
+|english_name=Wendifa Apprentice
+|type=信念
+|description=你童年时曾有一段时间被托付给一位巫毒先知（又称巫友）照料，对方看出了你的潜质，教了你一些简单的巫毒魔法，能在短时间内影响意志薄弱之人。你每天可以将[[晕眩术]]作为类法术能力使用一次，以你的角色等级作为施法者等级（至少为1）。该效果的豁免DC基于魅力。被[[晕眩]]的个体在效果持续期间面色灰白，形同死人。
+|source_name=信仰与哲学
+|source=F&P
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Wendifa%20Apprentice
+}}

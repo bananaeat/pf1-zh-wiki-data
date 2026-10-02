@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=鬣狗灵皮
+|english_name=Hyena Spirit Skin
+|aon=MagicWondrousDisplay.aspx?FinalName=Hyena Spirit Skin
+|cat=奇物
+|aura=中等变化系
+|cl=9
+|slot=肩部
+|price=16,000 gp
+|weight=2磅
+|description=这块破烂的毛皮蕴含着强大的魔力。每日一次，披在头和肩膀上时，这张皮会赋予穿戴者鬣狗的身体特征，持续10分钟，如同法术[[狼之型]]。穿戴者获得+4的力量和敏捷强化加值、灵敏嗅觉能力，以及摔绊攻击上+2的强化加值，并且可以用迅捷动作进行摔绊战技，且不引发借机攻击。
+|req=[[制造奇物]]、[[狼之型]]
+|cost=8,000 gp
+|source=冒险之路39：七矛之城
+}}

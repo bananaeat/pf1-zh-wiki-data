@@ -1,0 +1,15 @@
+{{魔法物品
+|name=骤然巫术权杖
+|english_name=Rod of Abrupt Hexes
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Abrupt Hexes
+|cat=权杖
+|aura=强烈（无学派）
+|cl=17
+|slot=无
+|price=75,500 gp
+|weight=5磅
+|description=每日3次，当这柄[[魔法物品#权杖|权杖]]的持用者使用[[巫术]]，但不能是[[强力巫术]]或[[高等巫术]]时，她能够通过权杖的力量用[[迅捷动作]]启动该巫术，而非原本的[[标准动作]]。
+|req=[[制造权杖]]、[[法术瞬发]]，制造者必须拥有巫术职业能力
+|cost=37,750 gp
+|source=进阶职业指南
+}}

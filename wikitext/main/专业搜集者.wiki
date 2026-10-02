@@ -1,0 +1,11 @@
+{{Feat
+|name=专业搜集者
+|english_name=Expert Salvager
+|pfs=否
+|description=即便是看似最贫瘠的环境，你也善于从中搜集和回收原材料。
+|prerequisites=[[工艺]]（任意）2级，法术辨识2级。
+|benefit=当你通过搜集规则获得炼金补给和材料成分、通过回收规则回收原始工艺材料、或回收原始魔法物品材料来制作物品时，你在你至少拥有2级的工艺技能的工艺检定，以及[[法术辨识]]检定上获得+4加值。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

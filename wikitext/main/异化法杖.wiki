@@ -1,0 +1,18 @@
+{{魔法物品
+|name=异化法杖
+|english_name=Monstrification Staff
+|aon=MagicStavesDisplay.aspx?ItemName=Monstrification Staff
+|cat=法杖
+|aura=微弱变化系（变形）
+|cl=8
+|slot=无
+|price=12,000 gp
+|weight=4磅
+|description=这根刻有雕纹的象牙法杖上，图案中的怪物形象缓慢地从一种变形为另一种，并且常常变大，占据法杖表面更多的空间。炼金术士或其他能够制造化合炼成的角色，可以把一瓶[[变巨术]]化合炼成倒在这根法杖上，为法杖恢复1点充能；或者把一瓶[[类人形态 I]]化合炼成倒在上面，恢复3点充能。
+
+* [[变巨术]]（1 发）
+* [[类人形态 I]]（3 发）
+|req=[[制造法杖]]、[[变巨术]]、[[类人形态 I]]UM、制造者必须是[[炼金术士]]
+|cost=6,150 gp
+|source=进阶职业指南
+}}

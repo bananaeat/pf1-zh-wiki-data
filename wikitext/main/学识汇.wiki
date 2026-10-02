@@ -1,0 +1,9 @@
+{{Trait
+|name=学识汇
+|english_name=Cross-Knowledge
+|type=魔法
+|description=每日1次，你能够将饮下的一剂炼金药剂视为高出你的实际施法者等级1级，只要对应法术同时位于法师法术列表和炼金术师公式列表中。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

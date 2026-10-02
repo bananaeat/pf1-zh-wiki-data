@@ -1,0 +1,10 @@
+{{Trait
+|name=骇人思维
+|english_name=Horrifying Mind
+|type=魔法
+|pfs=否
+|description=当一个非邪恶类人生物尝试通过魔法效果来阅读你的思想时，这个人必须进行一个对抗你感知或魅力检定(由你选择)的意志豁免。如果这个人没能通过该豁免，则他[[战栗]]1轮。如果该豁免失败了10点以上，则这个人会先惊惧1轮，然后才战栗1轮。
+|source_name=秽邪勇士
+|source=魔法
+|source_url=https://pf1chm.pages.dev/topics/zh2cdfe76676.htm
+}}

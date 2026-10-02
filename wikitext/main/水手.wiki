@@ -1,0 +1,47 @@
+{{速查导航}}
+<noinclude>{{消歧义|水手（游戏主持人指南）}}</noinclude>
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=水手
+|english_name=Sailor
+|aon=Pirate (Sailor)
+|cr=1/2
+|xp=200
+|classline=人类盗贼1
+|alignment=混乱中立
+|size=中型
+|type=类人生物
+|subtypes=人类
+|description=这个粗犷的人物穿着五颜六色、搭配杂乱的衣服，头发用一条头巾扎在脑后。
+|init=+3
+|senses=察觉+4
+|ac=16，接触14，措手不及12（+2盔甲，+3敏捷，+1闪避）
+|hp=9（1d8+1）
+|fort=+1
+|ref=+5
+|will=+0
+|speed=30尺
+|melee=[[弯刃大刀]]+2（2d4+3/18–20）或 精制品匕首+3（1d4+3/19–20）
+|special_attacks=偷袭+1d6
+|str=15
+|dex=16
+|con=13
+|int=12
+|wis=10
+|cha=8
+|bab=+0
+|cmb=+2
+|cmd=16
+|feats=[[战斗反射]];[[闪避]]
+|skills=[[特技]]+7;[[唬骗]]+3;[[攀爬]]+6;[[交涉]]+3;[[解除装置]]+7;[[脱逃]]+7;[[威吓]]+3;[[知识]]（本地）+5;[[察觉]]+4;[[察言观色]]+4;[[游泳]]+6
+|languages=通用语;混通语
+|sq=寻找陷阱+1
+|environment=任意海洋或海岸
+|organization=单独，成对，或帮伙（3–8）
+|treasure=NPC 装备（皮甲，弯刃大刀，精制品匕首，其他宝物）
+|source=Isles of the Shackles
+|npc=1
+|lore=
+普通海盗是自由不羁的叛逆者，若置身于文明礼貌社会的深处，他们会很难生存。盗贼和战士通常构成海盗船水手的大多数，因为他们既有日常劫掠与抢夺所需的技巧，也有所需的体力。这些多姿多彩、热爱冒险的人物对社会的法律与约束深感不耐，而劫掠者刺激的生活正好适合海盗们凶悍的独立性。
+}}
+{{AoN原文|1=NPCDisplay.aspx?ItemName=Pirate (Sailor)|2=Pirate (Sailor)}}

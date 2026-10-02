@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Carrion Crown Player's Guide pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=受伟人激励
+|english_name=Inspired by Greatness
+|type=战役
+|pfs=否
+|description=无论你与罗里莫尔教授熟识还是只有一面之缘，无论你是他的同事还是竞争对手，他的事业和一生的发现都激励你在自己的领域做得更好。在你钻研技艺期间，你与教授一直有书信往来，而得知自己直接或间接地激励了你发挥全部潜能，他感到非常欣喜。听闻他的死讯，你感到悲伤，觉得自己应该完成他的遗愿、参加他的葬礼，并始终努力攀登更高的巅峰，有朝一日能与你的偶像有同样的影响力，以此纪念他。
+
+选择一个你能施放的法术。从此以后，你施放这个法术时施法者等级总是+1。
+|source_name=Carrion Crown Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Inspired%20by%20Greatness
+}}

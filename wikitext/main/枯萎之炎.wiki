@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''枯萎之炎'''（Searing Flame, Su）是[[操念使]]的[[原力]]。
+
+元素：火；类别：通用（Su）；等级：2；超载：－
+
+前置：[[灼烧注能]]
+
+随着时间的经过，你的灼烧注能能够将敌人的火焰抗力烧毁。当你投掷来自灼烧注能的点燃伤害对抗敌人时，敌人的火焰抗力也会随之减少，减少量等同于未受调整的点燃伤害；在判断火焰抗力的减少量时，不能将火焰抗力应用至该检定上。火焰抗力的减少所持续的轮数等同于你的[[操念使]]等级的一半。这些减少量会叠加，最低降低至0点。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Searing Flame|2=Searing Flame}}
+
+[[分类:原力]]

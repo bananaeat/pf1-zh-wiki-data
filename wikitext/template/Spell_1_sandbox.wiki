@@ -1,0 +1,42 @@
+<includeonly><div class="spell">
+<div class="spell-head">
+<div class="spell-name">{{{name|{{PAGENAME}}}}}</div>
+<div class="spell-en">{{{english_name|}}}</div>
+</div>
+<div class="spell-stats">{{#if:{{{school|}}}|{{PropertyLine|1=学派|2=<span class="school sch-{{法术学派类|{{{school|}}}}}">{{法术学派|{{{school|}}}}}{{#if:{{#explode:{{{school|}}}|(|1}}|<span class="subschool"> ({{#replace:{{#explode:{{{school|}}}|(|1}}|)|}})</span>}}</span>{{#if:{{{tags|}}}| {{#arraymap:{{{tags|}}}|;|@@|<span class="tag tag-{{法术描述符类|@@}}">@@</span>| }}}}}}}}<!--
+-->{{#if:{{{domains|}}}|{{PropertyLine|领域|{{#arraymap:{{{domains|}}}|;|@@|@@|，}}}}}}<!--
+-->{{#if:{{{levels|}}}|{{PropertyLine|等级|{{#arraymap:{{{levels|}}}|;|@@|{{法术等级项|@@}}|，}}}}}}<!--
+-->{{#if:{{{action|}}}|{{PropertyLine|施法时间|{{{action|}}}}}}}<!--
+-->{{#if:{{{components|}}}|{{PropertyLine|成分|{{#arraymap:{{{components|}}}|;|@@|@@|，}}}}}}<!--
+-->{{#if:{{{range|}}}|{{PropertyLine|距离|{{{range|}}}}}}}<!--
+-->{{#if:{{{target|}}}|{{PropertyLine|目标|{{{target|}}}}}}}<!--
+-->{{#if:{{{effect|}}}|{{PropertyLine|效果|{{{effect|}}}}}}}<!--
+-->{{#if:{{{area|}}}|{{PropertyLine|区域|{{{area|}}}}}}}<!--
+-->{{#if:{{{duration|}}}|{{PropertyLine|持续时间|{{{duration|}}}}}}}<!--
+-->{{#if:{{{save|}}}|{{PropertyLine|豁免|{{{save|}}}}}}}<!--
+-->{{#if:{{{sr|}}}|{{PropertyLine|法术抗力|{{{sr|}}}}}}}</div>
+<div class="spell-desc">
+{{{description|}}}
+</div>{{#if:{{{source|}}}|<div class="spell-source">{{PropertyLine|来源|{{{source|}}}}}</div>}}
+</div>{{条目页脚|速查=法术速查|分类=法术|附加={{#if:{{{school|}}}|[[:分类:{{法术学派|{{{school}}}}}法术|{{法术学派|{{{school}}}}}]]}}}}[[分类:法术]]{{#if:{{{school|}}}|[[分类:{{法术学派|{{{school|}}}}}法术]]}}</includeonly><noinclude>
+==说明==
+本模板用于 pf1 的法术条目。不适用的参数留空即可，模板会自动隐藏对应行。
+
+参数：name / english_name / school / tags / levels / domains / action /
+components / range / target / effect / area / duration / save / sr /
+description / source
+
+tags、levels、domains、components 是分号分隔的列表。
+
+===自动分类===
+每个法术页自动进 <code>[[:分类:法术]]</code>，并按学派进
+<code>分类:咒法系法术</code> 这样的子分类。学派参数里的子学派（<code>咒法系 (创造)</code>
+括号那部分）会被剥掉——<code>#explode</code> 按 <code>(</code> 切，再用
+<code>#replace</code> 去掉残留的空格（模板参数里直接写空格会被 MediaWiki 修剪掉，
+所以要写 <code>&amp;#32;</code>）。
+
+描述符（tags）暂时不挂分类：站上 164 种取值里还有一批是英文原文
+（mind-affecting 64 条、emotion 34 条、evil 31 条），现在挂等于把中英混排固化进
+分类树，先归一再说。
+[[分类:模板]][[分类:规则模板]]
+</noinclude>

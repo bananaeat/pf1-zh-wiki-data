@@ -1,0 +1,9 @@
+{{Trait
+|name=光亮烽火
+|english_name=A Shining Beacon
+|type=宗教
+|prerequisites=信仰[[艾奥梅黛]]
+|description=你对恶魔的憎恨在你的内心熊熊燃烧，并且你认真专研了它们的弱点。当你对恶魔造成了一次成功的重击，可以造成等同于该武器重击倍率数值的额外伤害。该额外伤害计入最终总伤害值，因此不会再因重击本身而翻倍。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

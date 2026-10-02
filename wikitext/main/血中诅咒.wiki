@@ -1,0 +1,10 @@
+{{Trait
+|name=血中诅咒
+|english_name=Curse in the Blood
+|type=种族
+|prerequisites=[[兽态人]](Skinwalker)
+|description=你在对抗诅咒的豁免检定获得+1背景加值。你在施放拥有[诅咒]描述符(Pathfinder RPG Ultimate Magic 137, 251)的法术和类法术能力时视你的CL高1级。
+|source_name=格拉里昂的混种
+|source=Bastards of Golarion
+|source_url=https://pf1chm.pages.dev/topics/zh8a60bedf4e.htm
+}}

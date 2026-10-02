@@ -1,0 +1,48 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Seers of the Drowned City
+|authors=Nicholas Wasko
+|pages=64
+}}
+
+{{书页/简介|head=完美风暴！|1=
+随着预言破灭之年（Age of Lost Omens）的到来，一场名为阿班德果之眼（Eye of Abendego）的超自然飓风给利尔刚（Lirgen）这个国家带来了毁灭。如今，这个曾经强大的国家只剩下一片被淹没的沼泽，它倒塌的城市沉没在永不停歇的风暴所引发的无尽洪水之下。在利尔刚被毁的首都海兰塔姆（Hyrantam），少数顽强的幸存者设法勉强维生，但现在，地平线上始终若隐若现的风暴出现了奇怪的新态势，把当地的掠食者席卷进暴力的狂乱。更糟的是，一个名为风暴读者（Stormreaders）的奇异先知新教派来到了这一带，他们对海兰塔姆居民的要求愈发严苛。风暴读者与这些新的暴风有什么联系？他们在沉没之城废墟深处的新权力宝座上，又在策划什么邪恶阴谋？
+
+《沉没之城的先知》是一部面向 6 级角色的冒险，附有一张海兰塔姆废墟的海报地图。本冒险的作者 Nicholas Wasko 是 RPG Superstar 大赛第 9 季的冠军——这项赛事中有数百名未出版的作者争夺撰写一部探索者模组的机会。此外，本书还收录了由大赛才华横溢的亚军们设计的大量新怪物和魔法物品。
+}}
+
+'''沉没之城的先知'''（''Seers of the Drowned City''）是一部探索者模组（Pathfinder Module），由 RPG Superstar 第 9 季冠军 Nicholas Wasko 撰写，并收录了其他参赛者 William Collins、Kalyna Conrad 等 17 位作者的内容，于 2016 年 11 月 16 日发行。
+
+== 目录 ==
+{{书页/目录|1=
+导言 @ 2
+第1章：海兰塔姆的涨潮 @ 4
+第2章：风暴中的眼睛 @ 24
+第3章：追猎风暴 @ 38
+附录1：海兰塔姆，沉没之城 @ 46
+附录2：[[魔法物品]] @ 52
+- [[冰原猎手之刃]]（James Thomas）
+- 瓶装云（Kiel Howell）
+- 掷木嫩枝（Chris Shaeffer）
+- 蜂后项圈（Shane Fogerty）
+- 鸦兄斗篷（Kalyna Conrad）
+- 日光冠冕（Donald Robinson）
+- 诺恩命运织辫（William Collins）
+- 奇妙雕像：红宝石蝴蝶（Crystal Malarsky）
+- [[盲鳗之革甲]]（John Leclaire）
+- [[利维坦之惧]]（Stephen Stack）
+- [[星弹小圆盾]]（Jason Evans）
+- 骗徒手套（Mark Nordheim）
+- [[狼主之牙]]（Isaac Volynskiy）
+附录3：怪物图鉴 @ 56
+}}
+
+{{书页尾
+|pfw=Seers of the Drowned City
+|releases=Softcover¦PZO9553¦2016-11¦978-1-60125-902-8；PDF¦PZO9553E¦¦
+}}
+
+<small>CHM 汉化里没有这本书的译名，书名是本站定的。</small>
+
+[[分类:书目]]

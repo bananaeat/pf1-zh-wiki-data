@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|极限荒野|Ultimate Wilderness}}
+'''仁慈之叶'''（Merciful Foliage, Su）是[[操念使]]的[[原力]]。
+
+元素：木；类别：通用（Su）；等级：2；超载：0
+
+第一世界的生命万物竞发，这使得你可以利用其中的一些能量来减轻自己攻击的威胁。你可以在使用木袭或者其他元素包含木的复合念袭时造成[[非致命伤害]]而不承受减值。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_662.html 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Merciful Foliage|2=Merciful Foliage}}
+
+[[分类:原力]]

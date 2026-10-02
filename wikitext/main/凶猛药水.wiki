@@ -1,0 +1,10 @@
+{{装备
+|name=凶猛药水
+|english_name=Fervor juice
+|cat=炼金工具
+|price=50 gp
+|weight=—
+|craft_dc=20
+|description=这种难喝的炼金混合物能让喝下它的生物在短时间内变得凶猛。其作用和同名的[[通用怪物规则]]相同，并从喝下之后起持续1小时。制作这个物品需要成功通过DC 20的工艺（炼金）检定。
+|source=怪物志
+}}

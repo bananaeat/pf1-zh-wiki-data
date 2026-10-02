@@ -1,0 +1,9 @@
+{{Trait
+|name=自走结界
+|english_name=Walking Ward
+|type=地区
+|prerequisites=卡蒂亚
+|description=你所受的训练包括长时间暴露在元素力量下。选择下列能量类型之一：酸，寒冷，电或者火；你在对抗造成所选能量类型伤害或具有该子类型的法术的豁免上获得+1加值。
+|source_name=卡蒂亚，通向东方的大门
+|source_url=https://pf1chm.pages.dev/topics/page_1005.html
+}}

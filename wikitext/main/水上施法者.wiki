@@ -1,0 +1,9 @@
+{{Feat
+|name=水上施法者
+|english_name=Waterway Caster
+|description=你已经学会了在颠簸的船上、或是在游泳时施法。
+|benefit=不论是在游泳亦或是在船上，当你在施法时受到颠簸震动或剧烈震动的考验时，你的专注检定自动成功。当你在水下施法时，专注检定获得+4的加值。
+|source=UW、PotR
+|source_name=极限荒野、河域子民
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

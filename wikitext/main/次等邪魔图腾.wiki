@@ -1,0 +1,8 @@
+{{狂暴之力
+|name=次等邪魔图腾
+|english_name=Daemon Totem, Lesser
+|type=Su
+|categories=图腾
+|benefit=狂暴时，野蛮人在对抗酸蚀伤害，死亡效果，疾病以及毒素时豁免检定获得+2加值。对于除本能力以外，野蛮人具有的每一个[[邪魔图腾]][[狂暴之力]]，此加值再加1。
+|source_name=惧怖冒险
+}}

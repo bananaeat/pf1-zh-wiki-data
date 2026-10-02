@@ -1,0 +1,10 @@
+<noinclude>{{炼金术师导航}}
+'''精准用毒'''（Precise Poison, Ex）是[[炼金术师]]的[[科研发现]]。
+
+</noinclude>{{Source|内海怪物志|Inner Sea Monster Codex|inline}}
+
+'''效果'''：炼金术师精于将毒药注入目标最脆弱的部位。当炼金术师用上了毒的武器确认重击时，该毒药的豁免DC提升，提升值等同于武器的重击倍率。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/zhb83e0d90c4.htm 原文]），按 AoN 核对过。全部科研发现见 [[:分类:科研发现|分类:科研发现]]。
+
+[[分类:科研发现]]</noinclude>

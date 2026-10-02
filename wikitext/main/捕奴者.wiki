@@ -1,0 +1,9 @@
+{{Trait
+|name=捕奴者
+|english_name=Slave Taker
+|type=地区
+|prerequisites=欧克诺
+|description=你擅长在不伤害敌人的情况下使其丧失战斗能力，从而保留他们作为奴隶的价值。当你在战斗中造成非致命伤时，该伤害+1。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

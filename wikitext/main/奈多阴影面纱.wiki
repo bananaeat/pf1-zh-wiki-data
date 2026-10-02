@@ -1,0 +1,12 @@
+<noinclude>{{奥能师导航}}
+'''奈多阴影面纱'''（Nidalese Shadow Veil, Su）是[[奥能师]]的[[奥能技艺|奥能技艺]]。
+
+</noinclude>{{Source|进化职业起源|Advanced Class Origins|inline}}
+
+通过从奥能源泉中花费一点奥能点，奥能师可以用一张阴影面纱围住自己，使得他更难被发现和攻击。奥能师获得隐蔽（20%）和隐匿检定+5加值。这个效果持续“1+奥能师魅力调整值”轮。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_96.html 原文]），按 AoN 核对过。全部奥能技艺见 [[奥能技艺]]。
+
+[[分类:奥能技艺]]
+
+{{职业}}</noinclude>

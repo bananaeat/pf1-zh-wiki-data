@@ -1,0 +1,9 @@
+{{Trait
+|name=小霸王
+|english_name=Bully
+|type=社会
+|description=在你所成长的环境中，谦恭只会招致轻视，而你不得不用拳头来面对和解决问题。你的威吓检定获得+1背景加值，并且总能将威吓视为你的[[本职技能]]。
+|source_name=社会背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

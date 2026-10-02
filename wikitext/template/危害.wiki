@@ -1,0 +1,26 @@
+<includeonly>{{#invoke:版权抬头|main}}{{#invoke:危害|card}}{{条目页脚|速查=危害速查|分类=危害|附加={{#if:{{{kind|}}}|[[:分类:{{{kind}}}|{{{kind}}}]]}}}}</includeonly><noinclude>
+危害卡片（AoN「Afflictions/Hazards」一章：毒药、疾病、诅咒、毒品、疯狂、腐化、作祟、陷阱）。一栏一项，页上的参数就是数据（[[危害速查]]从这里导）。渲染在 [[模块:危害]]，样式沿用 [[MediaWiki:Common.css]] 的「物品卡片」一节。
+
+ {{危害
+ |name=黑莲汁
+ |english_name=Black lotus extract
+ |kind=毒药
+ |type=接触
+ |save=强韧 DC 20
+ |onset=1分钟
+ |frequency=1次/轮，持续6轮
+ |effect=1d6点体质伤害
+ |cure=连续2次豁免成功
+ |price=4,500 gp
+ |description=……
+ |source=核心规则书、极限宝具
+ }}
+
+* <code>kind</code>：毒药／疾病／诅咒／毒品／疯狂／腐化／作祟／陷阱（进同名分类，另进 分类:危害）。<code>english_name</code> 照抄 AoN 条目名，自动链到 AoN 该类的详情页；地址不同写 <code>aon=</code>，写 <code>aon=无</code> 不挂。
+* 苦难（毒药、疾病、诅咒、毒品、疯狂）：<code>type</code> 类型、<code>save</code> 豁免、<code>onset</code> 发作期、<code>frequency</code> 频率、<code>effect</code> 效果（毒药分 <code>initial</code> 初始效果、<code>secondary</code> 次要效果）、<code>cure</code> 治愈、<code>price</code> 价格、<code>weight</code> 重量；毒品另有 <code>addiction</code> 成瘾性、<code>damage</code> 伤害；疯狂另有 <code>dormancy</code> 休眠效果。
+* 作祟：<code>cr</code>、<code>xp</code>、<code>alignment</code> 阵营、<code>type</code>（作祟／顽固作祟……）、<code>area</code> 范围、<code>cl</code> 施法者等级、<code>notice</code> 察觉、<code>hp</code> 生命值、<code>weakness</code> 弱点、<code>trigger</code> 触发、<code>reset</code> 复位、<code>effect</code> 效果、<code>destruction</code> 摧毁。
+* 陷阱：<code>cr</code>、<code>trap_type</code> 类型（机械／魔法）、<code>perception</code> 察觉、<code>disable</code> 解除装置、<code>trigger</code> 触发、<code>duration</code> 持续时间、<code>reset</code> 复位、<code>bypass</code> 绕过、<code>effect</code> 效果。
+* 腐化：只用通用栏，催化剂、进程、显形写在 <code>description</code> 里（小节标题照写）。
+* <code>source</code>：出处书名，几本用「、」隔开，首印在前。
+[[分类:模板]]
+</noinclude>

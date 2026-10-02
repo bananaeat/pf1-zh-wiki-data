@@ -1,0 +1,14 @@
+{{魔法物品
+|name=腐化衔尾蛇头带
+|english_name=Headband of the Tainted Ouroboros
+|aon=MagicWondrousDisplay.aspx?FinalName=Headband of the Tainted Ouroboros
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=头饰
+|price=4,500 gp
+|description=这条纤细的绿色头带完全由细小的金属鳞片制成，在阳光下闪闪发光，随着观察穿戴者的角度不同，依次闪现翡翠绿、森林绿和海沫绿的光泽。当穿戴者正受到毒药的伤害或以其他方式受到毒药的负面影响时，她可以触碰另一个生物，在其身上复制该毒药的效果。这需要进行一次会引发[[借机攻击]]的近战[[接触攻击]]。穿戴者以这种方式成功完成接触攻击时，目标生物必须对复制毒药的DC进行一次强韧豁免，如同它是最初中毒的对象。强韧豁免失败的目标承受复制毒药效果的完整持续时间。初始毒药每次只能复制给一个额外目标。
+|req=[[制造奇物]]、[[接触注射]]
+|cost=2,250 gp
+|source=药剂与毒药
+}}

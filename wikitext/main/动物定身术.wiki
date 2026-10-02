@@ -1,0 +1,17 @@
+{{Spell
+|name=动物定身术
+|english_name=Hold Animal
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=催眠师 2;异能者 2;德鲁伊 2;游侠 2;猎人 2
+|domains=动物领域 2
+|action=标准动作
+|components=语言;姿势
+|range=中距
+|target=一个动物
+|duration=1轮/等级 (可解消); 见后文
+|save=意志，通过则无效; 见后文
+|sr=是
+|description=该法术的功能如同[[人类定身术]]一般，不过它影响的是一只动物而非类人生物。
+|source=核心规则书
+}}

@@ -1,0 +1,8 @@
+<noinclude>{{消歧义|孔雀(怪物)}}</noinclude>
+{{物品
+|name=孔雀
+|english_name=The Peacock
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。抽牌者皮肤硬化，变得僵硬又凹凸不平。他获得+2天生护甲，但-2敏捷。
+}}

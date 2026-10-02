@@ -1,0 +1,15 @@
+{{魔法物品
+|name=传讯瓶
+|english_name=Bottle of Messages
+|aon=MagicWondrousDisplay.aspx?FinalName=Bottle of Messages
+|cat=奇物
+|aura=微弱幻术系
+|cl=3
+|slot=无
+|price=300 gp
+|weight=1磅
+|description=这个绿色玻璃瓶细长的瓶颈上有一把小小的发条钥匙，转动它，一枚影子般的软木塞会在1轮内逐渐凝实。在这段时间内，瓶主对着瓶子说出的任何话（最多25个词）都会在软木塞完全成形时被封在瓶中。只要软木塞被拔出或瓶子被打碎，这段信息就会被释放出来，如同瓶主在那一刻亲口说出一样。瓶子释放信息后就会碎裂。
+|req=[[制造奇物]]、[[魔嘴]]
+|cost=150 gp
+|source=进阶玩家指南、极限宝具
+}}

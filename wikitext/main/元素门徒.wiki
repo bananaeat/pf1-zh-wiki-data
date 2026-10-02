@@ -1,0 +1,9 @@
+{{Trait
+|name=元素门徒
+|english_name=Elemental Pupil
+|type=地区
+|prerequisites=卡蒂亚
+|description=你在卡希尔魔法学院的大师门下学习过魔法，这段经历提升了你对于元素的掌控能力。从下列能量类型中选择一种：酸蚀、寒冷、电击或火焰。当你施放造成你所选能量类型伤害的1环或更高环法术时，该法术额外造成1点该类型的伤害。
+|source_name=卡蒂亚，通向东方的大门
+|source_url=https://pf1chm.pages.dev/topics/page_1005.html
+}}

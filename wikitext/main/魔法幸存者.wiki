@@ -1,0 +1,9 @@
+{{Trait
+|name=魔法幸存者
+|english_name=Magic Survivor
+|type=种族
+|prerequisites=[[卓克斯虫族]]
+|description=为了逃离灰矮人的奴役，你击退了狡猾的魔法。选择强韧、反射或意志豁免中的两个。你选择的豁免类型在对抗法术和类法术能力时会获得+1背景加值，剩余类型的所有豁免检定都会受到-1的减值。
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/page_1016.html
+}}

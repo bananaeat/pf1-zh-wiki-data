@@ -1,0 +1,10 @@
+{{Feat
+|name=高等魔宠契约
+|english_name=Improved Familiar Bond
+|description=你的魔宠能够获得更强的力量。
+|prerequisites=[[魔宠契约]]，[[钢铁意志]]
+|benefit=你的魔宠获得所有正常法师魔宠的可用能力，在判断能力的获取时将你的总生命骰视为法师等级。你还会获得正常来说依照魔宠类型为主人提供的特殊能力。
+|source=FF
+|source_name=魔宠手记
+|source_url=https://pf1chm.pages.dev/topics/page_491.html
+}}

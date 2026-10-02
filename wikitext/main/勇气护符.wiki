@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=勇气护符
+|english_name=Amulet of Courage
+|aon=MagicWondrousDisplay.aspx?FinalName=Amulet of Courage
+|cat=奇物
+|aura=微弱防护系
+|cl=3
+|slot=颈部
+|price=6,000 gp
+|description=这些护符用精工细作的白银制成，图案是一只满溢的大酒杯。每天一次，当勇气护符的佩戴者受到魔法或超自然的恐惧效果影响时，护符会对佩戴者施放[[移除恐惧]]。此外，如果护符的佩戴者拥有勇气职业能力，她对抗恐惧的意志豁免所获得的加值提高1点。
+|req=[[制造奇物]]、[[移除恐惧]]
+|cost=3,000 gp
+|source=神术选集
+}}

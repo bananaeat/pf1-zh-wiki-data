@@ -1,0 +1,9 @@
+{{Trait
+|name=机灵鬼
+|english_name=Deft Dodger
+|type=战斗
+|description=在危险环境或恶邻之侧长大的你不断地磨练自己的感官与直觉。你的反射豁免获得+1背景加值。
+|source_name=战斗背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

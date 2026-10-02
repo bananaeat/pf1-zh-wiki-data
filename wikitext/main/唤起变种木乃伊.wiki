@@ -1,0 +1,16 @@
+{{Spell
+|name=唤起变种木乃伊
+|english_name=Create variant mummy
+|school=死灵系
+|tags=邪恶
+|levels=先知 7;奥能师 7;术士 7;法师 7;牧师 7
+|action=1小时
+|components=语言;姿势;材料（要创造的不死生物所具有的每个HD价值50gp的黑玛瑙）
+|range=近距
+|target=一具浸泡在泥炭沼泽中至少24小时的尸体
+|duration=立即
+|save=无
+|sr=否
+|description=该法术如同[[唤起死灵]]（《[[核心规则书]]》262页）一样作用，除了它创造的是以下的变体木乃伊之一：沼泽木乃伊，冰封木乃伊，或奥西里昂墓穴守卫。
+|source=冒险之路81：流沙
+}}

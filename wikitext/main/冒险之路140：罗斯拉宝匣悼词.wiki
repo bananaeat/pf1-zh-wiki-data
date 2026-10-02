@@ -1,0 +1,38 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #140: Eulogy for Roslar's Coffer
+|authors=Jason Keeley
+|pages=96
+}}
+
+{{书页/简介|head=再也回不了家|1=
+重返生者之地的 PC 们探索罗斯拉宝匣（Roslar's Coffer）镇的废墟——这里正是那场把他们送往来世的毁灭性爆炸的中心。镇上到处是新近复生的不死生物、扭曲的怪物和默语魔道（Whispering Way）的信徒，每个拐角都潜伏着危险。PC 们能否逃出笼罩全镇的毒雾，向世人示警：一个威胁所有生命的恐怖正在崛起？
+
+本册《冒险之路》延续「暴君魔爪」冒险之路，内容包括：
+
+* 《罗斯拉宝匣悼词》，一部面向 5 级角色的开拓者 RPG 冒险，作者 Jason Keeley。
+* 介绍活跃于恩卡坦湖地区及更远处的几支行商团体，作者 Eleanor Ferron。
+* 近观红皇后阿拉兹妮（Arazni）的信仰——这位堕落的圣者，是一片不死之地不情愿的统治者，作者 Lyz Liddell。
+* 剖析热衷死亡的邪恶组织默语魔道的阴谋及其代表成员，作者 Crystal Malarsky。
+* 一部怪物图鉴，既有崇高者也有堕落者：两条游历世界、助人为乐的[[羽蛇]]，一个被不死之触诅咒的类人生物，一头由悲惨的生命消逝催生的怪物般的不死生物，以及一种侵略性的食肉植物，作者 Sarah E. Hood、Luis Loza、Jen McTeague 与 Mikhail Rekun。
+}}
+
+'''冒险之路140：罗斯拉宝匣悼词'''（''Pathfinder #140: Eulogy for Roslar's Coffer''）是[[冒险之路]]「暴君魔爪」系列的第二部冒险，由 Jason Keeley 撰写，配套文章出自 Eleanor Ferron、Lyz Liddell 等 7 位作者，于 2019 年 3 月 27 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+罗斯拉宝匣悼词 @ 2
+NPC 图集 @ 56
+行路商人 @ 62
+阿拉兹妮，红皇后 @ 68
+默语魔道的阴谋 @ 74
+怪物图鉴 @ 80
+}}
+
+{{书页尾
+|pfw=Eulogy for Roslar's Coffer
+|releases=Softcover¦PZO90140¦2019-03¦978-1-64078-119-1；PDF¦PZO90140E¦¦
+}}
+
+[[分类:书目]]

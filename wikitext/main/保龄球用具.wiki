@@ -1,0 +1,9 @@
+{{装备
+|name=保龄球用具
+|english_name=Bowling set
+|cat=娱乐
+|price=5 sp–10 gp
+|weight=15磅
+|description=这种单纯到仅仅是用球撞倒10个瓶的游戏，往往会由于球、球瓶以及场地不够规整而变得复杂起来。
+|source=冒险者的军械库、极限宝具
+}}

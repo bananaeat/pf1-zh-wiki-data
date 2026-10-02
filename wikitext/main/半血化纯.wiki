@@ -1,0 +1,15 @@
+{{Spell
+|name=半血化纯
+|english_name=Half-blood extraction
+|school=变化系
+|levels=先知 5;奥能师 5;女巫 5;异能者 5;德鲁伊 5;战斗祭司 5;术士 5;法师 5;炼金术师 5;牧师 5;猎人 5;调查员 5
+|action=1小时
+|components=语言;姿势;材料/圣徽（价值3000gp的油与毒）
+|range=接触
+|target=接触到的自愿的半兽人
+|duration=立即
+|save=无
+|sr=否
+|description=你将[[半兽人]]转化为纯血[[兽人]]。目标失去所有半兽人[[种族特性]]，同时获得所有兽人种族特性。
+|source=进阶种族手册
+}}

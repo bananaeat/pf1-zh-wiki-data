@@ -1,0 +1,9 @@
+{{Trait
+|name=巧手匠心
+|english_name=Nimble Fingers, Keen Mind
+|type=宗教
+|prerequisites=信仰[[布莱]]
+|description=你对发条机械与其他机械装置的研究让你在[[解除装置]]上获得+1背景加值，且解除装置视作你的[[本职技能]]。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

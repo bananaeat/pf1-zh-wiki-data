@@ -1,0 +1,11 @@
+{{Feat
+|name=怒魔之圈套
+|english_name=Fury's Snare
+|categories=战斗
+|description=你使用你的武器[[纠缠]]你的对手。
+|prerequisites=[[怒魔之落袭]]，[[精通摔绊]]
+|benefit=如果你成功使用鞭子[[摔绊]]了一名敌人，你可以放开你的鞭子。被你摔绊的目标将会陷入纠缠状态。该目标可以尝试做一个DC10的力量检定或者DC15的脱逃检定来获得自由（将你的鞭子的增强加值加入DC中去），该目标还可以用一个全回合动作来摆脱纠缠。如果该目标以力量检定的方式逃脱鞭子，则鞭子进入[[破损]]状态。如果鞭子上附有魔法效果，例如火焰，则每回合都造成该魔法效果的伤害（在你的回合造成）。
+|source=CEoD
+|source_name=切里亚斯，魔鬼王朝
+|source_url=https://pf1chm.pages.dev/topics/page_561.html
+}}

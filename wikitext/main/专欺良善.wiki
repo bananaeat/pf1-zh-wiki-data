@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Agents of Evil pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=专欺良善
+|english_name=Low Blow
+|type=魔法
+|description=当你以带有痛苦描述符或会施加士气减值的法术或类法术能力指定一个善良阵营生物为目标时，该效果的有效施法者等级+1。如果你是邪恶阵营，该效果的豁免DC也+1。
+|source_name=邪恶特务
+|source=AoE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Low%20Blow
+}}

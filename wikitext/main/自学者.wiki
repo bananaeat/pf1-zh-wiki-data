@@ -1,0 +1,9 @@
+{{Trait
+|name=自学者
+|english_name=Self-Taught Scholar
+|type=魔法
+|description=自学的境况迫使你不得不致力于收集手头所有可获得的文卷。你在解读未知语言时的[[语言学]]检定获得+1背景加值，并且总能将语言学视为你的[[本职技能]]。此外，你在解读卷轴时的[[法术辨识]]检定获得+1背景加值。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

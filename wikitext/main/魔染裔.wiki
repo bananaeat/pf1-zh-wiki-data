@@ -1,0 +1,11 @@
+{{Trait
+|name=魔染裔
+|english_name=Infernal Influence
+|type=种族
+|prerequisites=[[人类]]（切利亚斯人）
+|description=你的家族与魔鬼之间有着秘密的关系，其渊源可能远比特鲁恩政权更早、更深。
+|benefit=你获得火焰抗力1，并且在对抗毒药的强韧豁免上获得+1背景加值。
+|source_name=种族背景
+|source=CEoD
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

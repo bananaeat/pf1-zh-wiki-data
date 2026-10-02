@@ -1,0 +1,9 @@
+{{Trait
+|name=庙之子
+|english_name=Child of the Temple
+|type=信念
+|description=你长期侍奉于城市的神庙，除了学习到不少贵族礼仪，你用更多时间在神庙的藏书中追寻自己的信仰。你的知识(贵族)和知识(宗教)检定获得+1背景加值，并且总能将二者之一(自行选择)视为你的[[本职技能]]。
+|source_name=信念背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

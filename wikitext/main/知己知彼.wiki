@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[知己知彼 (神话)]]。</small></div>
+{{Spell
+|name=知己知彼
+|english_name=Know the enemy
+|school=预言系
+|domains=教育子域 1
+|levels=先知 1;圣武士 1;审判者 1;战斗祭司 1;游侠 1;牧师 1;猎人 1
+|action=1分钟
+|components=姿势;语言;圣徽
+|range=个人
+|target=自己
+|duration=立即
+|save=无
+|sr=否
+|description=你请示神谕，回想一个你过去一天内所遇到的生物类型。在施法完成后，你可以进行一次该生物所属类别的知识检定，并且在检定中获得+10洞察加值。
+|source=极限魔法
+}}

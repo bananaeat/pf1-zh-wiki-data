@@ -1,0 +1,9 @@
+{{Trait
+|name=魔鬼印记
+|english_name=Devil's Mark
+|type=派系
+|description=某个高阶魔鬼在你身上留下印记，任何邪恶的生物看到这个印记都会三思而后行。你在与属于异界生物(邪恶)亚种的生物打交道时，[[唬骗]]、交涉、威吓和察言观色技能获得+2背景加值。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

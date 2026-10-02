@@ -1,0 +1,8 @@
+{{狂暴之力
+|name=次等引魂者图腾
+|english_name=Psychopomp Totem, Lesser
+|categories=图腾
+|pfs=否
+|benefit=狂暴时，野蛮人对抗不死生物时在AC上获得+1偏斜加值，且对死亡效果、疾病以及毒素的豁免获得+1加值。野蛮人每有一个除此[[狂暴之力]]外的[[引魂者图腾]]狂暴之力，这些加值就+1。
+|source_name=冒险之路139：死者之路
+}}

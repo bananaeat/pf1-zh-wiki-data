@@ -1,0 +1,10 @@
+{{Trait
+|name=乐理通
+|english_name=Ear for Music
+|type=宗教
+|prerequisites=信仰[[纱琳]]
+|description=你的童年几乎完全在[[纱琳]]的神庙中度过，侧耳倾听乐师与歌手的精彩表演。你在一项表演检定中获得+1背景加值，并在与当地艺术和音乐相关的知识(本地)技能中获得+2背景加值。
+|source_name=宗教背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

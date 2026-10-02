@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[神圣干涉 (神话)]]。</small></div>
+{{Feat
+|name=神圣干涉
+|english_name=Divine Interference
+|description=你可以转换你的法术用以干涉敌人的攻击。
+|prerequisites=神术施法者，施法者等级10级。
+|benefit=以一个[[直觉动作]]，当一个30尺内的敌人攻击并伤害了你的一个盟友时，你可以牺牲一个准备好的神术或者一个未使用的法术位（如果你是自发施法者）使敌人重投攻击骰。重投的攻击骰受到等同于所牺牲法术环级的罚值。你必须牺牲一个1级或者更高环级的法术来使用此能力。无论重骰的攻击是否成功，你都无法在1天内对同一个目标再次使用这个能力。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

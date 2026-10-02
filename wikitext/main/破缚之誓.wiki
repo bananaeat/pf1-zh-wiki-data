@@ -1,0 +1,10 @@
+{{Feat
+|name=破缚之誓
+|english_name=Oath of the Unbound
+|description=你发誓自己绝不会忍受任何约束
+|prerequisites=信仰拉瓦古格
+|benefit=你在挣脱[[擒抱]]或压制的[[战技]]检定、挣断束缚或破开门和墙壁的力量检定，以及抵抗会使你被[[纠缠]]或缓慢的法术和效果的豁免检定上获得+2加值。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

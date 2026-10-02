@@ -1,0 +1,14 @@
+{{魔法物品
+|name=审判者的单片镜
+|english_name=Inquisitor's Monocle
+|aon=MagicWondrousDisplay.aspx?FinalName=Inquisitor's Monocle
+|cat=奇物
+|aura=微弱惑控系
+|cl=3
+|slot=眼部
+|price=6,800 gp
+|description=这副金框单片镜的厚玻璃镜片，通过一条沉甸甸的链子挂在佩戴者身上。它有助于揭示事物的真相，最初是为协助调查犯罪和询问证人而制造的。每天两次，依令可以如同法术一般产生一个[[诚实之域]]。此外，这副单片镜使佩戴者在察言观色检定上获得+5表现加值。尽管它只罩住佩戴者的一只眼睛，该物品仍占用整个眼部栏位。
+|req=[[制造奇物]]、[[诚实之域]]
+|cost=3,400 gp
+|source=极限宝具
+}}

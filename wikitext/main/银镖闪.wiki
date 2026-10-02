@@ -1,0 +1,15 @@
+{{Spell
+|name=银镖闪
+|english_name=Silver darts
+|school=咒法系 (创造)
+|levels=奥能师 3;女巫 3;术士 3;法师 3;血脉狂怒者 3;魔战士 3
+|action=标准动作
+|components=语言;姿势;材料（一根银针）
+|range=15尺
+|area=锥形爆发区域
+|duration=立即
+|save=反射，通过则减半
+|sr=是
+|description=成片的银镖从你手中发射出去。这些[[飞镖]]视同造成每施法者等级1d6点穿刺伤害（最高10d6）的银质武器。若生物的护甲加值或天生防御加值高于+4点，则受到的伤害会减少50%。
+|source=进阶职业指南
+}}

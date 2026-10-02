@@ -1,0 +1,15 @@
+{{魔法物品
+|name=矮人腰带
+|english_name=Belt of Dwarvenkind
+|aon=MagicWondrousDisplay.aspx?FinalName=Belt of Dwarvenkind
+|cat=奇物
+|aura=强烈预言系
+|cl=12
+|slot=腰部
+|price=14,900 gp
+|weight=1磅
+|description=这条腰带使穿戴者在与[[矮人]]打交道时，魅力检定和以魅力为关键属性的技能检定获得+4表现加值；与[[侏儒]]和[[半身人]]打交道时，类似检定获得+2表现加值；与其他任何人打交道时，类似检定承受-2表现减值。穿戴者能理解、说和读矮人语。如果穿戴者不是矮人，他还会获得60尺[[黑暗视觉]]、岩石敏锐、+2体质增强加值，以及对抗毒素、法术和类法术能力的豁免检定上的+2抗力加值。
+|req=[[制造奇物]]、[[巧言术]]，制造者必须是矮人
+|cost=7,450 gp
+|source=核心规则书、极限宝具
+}}

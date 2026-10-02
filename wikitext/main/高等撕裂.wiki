@@ -1,0 +1,12 @@
+{{Feat
+|name=高等撕裂
+|english_name=Great Rend
+|categories=战斗
+|pfs=否
+|description=你可以同时用獠牙和手爪撕扯敌人。
+|prerequisites=啮咬攻击，撕裂，巨魔
+|benefit=如果你在发动了撕裂特殊攻击的同一轮中同时啮咬攻击命中，那么你的撕裂特殊攻击额外造成相当于你的力量调整值一半的伤害。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1416.html
+}}

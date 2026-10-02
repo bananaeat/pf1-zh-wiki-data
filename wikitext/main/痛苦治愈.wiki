@@ -1,0 +1,11 @@
+{{Feat
+|name=痛苦治愈
+|english_name=Painful Cures
+|pfs=否
+|description=你的医疗法术会加重而不是减轻痛苦。
+|prerequisites=邪恶阵营
+|benefit=每当你使用一个法术来恢复一个活物的生命值，你可以使那个生物被阵阵灼烧般的苦痛蹂躏。如果你这样做，这个法术会获得[邪恶，痛苦]描述符（Pathfnder RPG Ultimate Magic 251）。目标会受到等同于恢复生命值的[[非致命伤害]]。如果目标在对抗你的治疗法术的豁免中失败或者放弃豁免，那么他会在10分钟每施法者等级的时间内，在豁免检定和技能检定上承受-2的罚值。如果这个法术不允许正常的豁免检定，那么它也会允许一次强韧检定来使这个罚值失效（但是非致命伤害不会受到影响）。
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_704.html
+}}

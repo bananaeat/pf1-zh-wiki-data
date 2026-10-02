@@ -1,0 +1,15 @@
+{{Spell
+|name=撕扯肢体 III
+|english_name=Rend body iii
+|school=塑能系
+|levels=异能者 7
+|action=整轮动作
+|components=姿势
+|range=近距
+|target=一个生物
+|duration=立即
+|save=强韧，通过则部分生效（见描述）
+|sr=是
+|description=该法术的功能如同撕扯肢体II一般，除了目标承受每个你的施法者等级1d8点伤害（最大15d8点伤害），另外，如果有肢体被从身体上扯断，只要流血伤害依然保持，目标就会恶心。该法术可以被降阶施法。
+|source=异能选集
+}}

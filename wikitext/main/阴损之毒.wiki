@@ -1,0 +1,10 @@
+{{Feat
+|name=阴损之毒
+|english_name=Treacherous Toxin
+|description=你在敌人的伤口中翻转涂毒的武器，让它快速流入血液系统。
+|prerequisites=基础攻击加值+5，偷袭职业能力
+|benefit=每当你使用一件施加了毒药的武器进行偷袭攻击时，你都可以放弃一部分偷袭伤害，来提高毒药的豁免DC：你每放弃1d6点偷袭伤害，毒药的豁免DC就增加1。但是，本专长的效果不会让毒药的DC增加到超过15+你的角色等级的一半。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

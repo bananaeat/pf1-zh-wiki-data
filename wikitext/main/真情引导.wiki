@@ -1,0 +1,10 @@
+{{Feat
+|name=真情引导
+|english_name=Clarifying Channel
+|description=你的[[引导能量]]能在盟友心底唤起真爱，同时疗愈他们的肉体和心灵
+|prerequisites=引导能量职业能力，信仰莎琳
+|benefit=每天一次，当你引导正能量治疗活物时，一个受到你的治疗且同时受到允许豁免的魅惑或胁迫效果影响的生物能够立刻获得一次豁免投骰的机会来结束一个此类效果，这些生物在此次豁免投骰上获得相当于你的魅力调整值的神圣加值（至少+1）。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

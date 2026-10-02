@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''阳光虚弱'''（Sunlight Powerlessness）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：弱点</span></div>
+</noinclude><includeonly><div class="lang"><span id="阳光虚弱"></span><div class="lang-h"><b>[[阳光虚弱]]</b><i>Sunlight Powerlessness</i><span class="lang-w">Ex · 弱点</span></div><div class="lang-d"></includeonly>
+如果该生物处于阳光下（[[昼明术]]或类似法术形成的日光区域不算），它无法攻击，并陷入[[恍惚]]状态。
+
+'''格式'''：阳光虚弱
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Sunlight Powerlessness|2=Sunlight Powerlessness}}
+
+[[分类:通用怪物规则]]</noinclude>

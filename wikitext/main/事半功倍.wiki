@@ -1,0 +1,9 @@
+{{Trait
+|name=事半功倍
+|english_name=Less Effort
+|type=魔法
+|benefit=选择一个在你法术列表上，属于防护系或变化系的法术。当你施放此法术，或成为此法术目标时，在计算该法术的持续时间时，其施法者等级视为高2级。
+|source_name=邪恶特务Agents of Evil
+|source=邪恶特务(Agents of Evil
+|source_url=https://pf1chm.pages.dev/topics/zh702815cd02.htm
+}}

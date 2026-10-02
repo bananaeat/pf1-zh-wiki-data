@@ -1,0 +1,9 @@
+{{物品
+|name=古法威士忌〔一瓶〕
+|english_name=Oldlaw whiskey (bottle)
+|category=冒险装备
+|price=20 GP
+|weight=1磅。
+|description=这种以麦芽为原料的威士忌酒是依照一份流传200年之久的秘方酿制的。很多老兵都对它的口味钟爱有加。
+|source_name=冒险者的军械库
+}}

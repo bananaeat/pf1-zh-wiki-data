@@ -1,0 +1,15 @@
+{{魔法物品
+|name=防溺水徽章
+|english_name=Drowning Medallion
+|aon=MagicWondrousDisplay.aspx?FinalName=Drowning Medallion
+|cat=奇物
+|aura=中等咒法系
+|cl=10
+|slot=颈部
+|price=1,000 gp
+|weight=1磅
+|description=这种小石碟通常由里弗顿（Riverton）人制作并卖给往来河上的旅人，碟面蚀刻着波浪的符号，穿在一条银链上。如果佩戴着防溺水徽章的人因溺水而[[昏迷]]，她可以一直昏迷至多10分钟，之后才必须开始进行体质检定以避免[[环境规则#窒息|窒息]]。当佩戴者从导致她溺水的物质（通常是水）中脱离出来后的1轮，佩戴者会以0点生命值恢复意识，徽章随即化为尘土。
+|req=[[制造奇物]]、[[气泡术]]
+|cost=500 gp
+|source=河域子民
+}}

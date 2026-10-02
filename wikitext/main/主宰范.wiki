@@ -1,0 +1,11 @@
+{{Trait
+|name=主宰范
+|english_name=Masterful Demeanor
+|type=种族
+|prerequisites=[[人类]]（切利亚斯人）
+|description=身为一个自豪的切利亚斯人，你深信其他劣等种族之人都会服从于你，而且会迅速服从。
+|benefit=你对于非[[人类]]的类人生物的威吓检定中获得+3背景加值。
+|source_name=种族背景
+|source=CEoD
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

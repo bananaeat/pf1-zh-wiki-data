@@ -1,0 +1,9 @@
+{{Trait
+|name=巴勒斯骑士
+|english_name=Rider of Paresh
+|type=地区
+|prerequisites=卡蒂亚
+|description=无论你是生在草原的部落，还是卡希尔闪耀的高塔中，巴勒斯草原都是被你称作家的地方。马匹犹如你的血亲。当你骑乘冲锋的时候，坐骑的速度提高10尺。你必须在拥有骑乘战斗这一专长之后才能选择该背景。
+|source_name=卡蒂亚，通向东方的大门
+|source_url=https://pf1chm.pages.dev/topics/page_1005.html
+}}

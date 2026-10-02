@@ -1,0 +1,10 @@
+{{Feat
+|name=协调捕获
+|english_name=Coordinated Capture
+|categories=战斗;团队
+|description=你与盟友协作以阻止敌人逃脱。
+|prerequisites=基础攻击加值+1。
+|benefit=只要你与一个或多个同样具有此专长的盟友同时威胁同一名敌人，该敌人在为避免引发[[借机攻击]]而进行的特技检定与专注检定上，受到等同于正在威胁其的具有此专长的生物数量的减值（最多+5）。
+|source_name=反派法典
+|source_url=https://pf1chm.pages.dev/topics/zhfa2a4585c1.htm
+}}

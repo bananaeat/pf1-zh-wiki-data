@@ -1,0 +1,16 @@
+{{Spell
+|name=燃烧符文
+|english_name=Incendiary runes
+|school=防护系
+|tags=火
+|levels=奥能师 1;术士 1;法师 1
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的一个重量不超过10磅的物体
+|duration=永久，直到释放 (可解消)
+|save=反射，通过则部分生效
+|sr=是
+|description=此法术如同[[爆裂符文]]般作用，除了它产生的是如小型波浪般的火焰，而不是一个爆炸性的力量。此符文自动对相邻方格的任何生物以及物体造成1d6点的火焰伤害，并且，这些生物与物体除非通过反射豁免，否则会着火。
+|source=黑市指南
+}}

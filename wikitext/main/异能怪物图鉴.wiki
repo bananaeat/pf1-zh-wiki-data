@@ -1,0 +1,29 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Occult Bestiary
+|authors=Josh Colon、John Compton、Paris Crenshaw、Adam Daigle、Eleanor Ferron、James Jacobs、Joe Homes、Mikko Kallio、Mike Kimmel、Ron Lundeen、Kate Marshall、Kalervo Oikarinen、Stephen Radney-MacFarland、F. Wesley Schneider
+|pages=64
+}}
+
+{{书页/简介|head=粉碎心智的怪物！|1=
+栖居于开拓者角色扮演游戏世界的一些最致命的恐怖存在，人们对它们所知甚少，而这些梦境与思想的居民正乐见如此。它们的秘密越少传到普通冒险者耳中，就越容易在梦境维度中狩猎、窃取毫无防备的受害者的心智，并在多元宇宙中散播恐惧与不和。但它们的秘密终于揭晓了！作为《[[异能冒险]]》的完美伴侣，这本新怪物魔典是任何主持异能战役的 GM 的必备之物，无论玩家角色本身是不是灵能施法者。在这些神秘的书页中你将找到：
+
+* 近 50 种拥有灵能能力或以异能为主题的新生物。
+* 新的可扮演种族，包括变体[[灰矮人]]与[[轮回者]]，以及[[白化人]]（munavri）——栖居于幽暗地域无光之海的白化类人。
+* 来自格拉利昂的行星邻居及更远之处的异星生物，包括[[伊斯人]]长者、开悟的冥思者，以及利亚瓦拉（Liavara）梦者。
+* 神秘的梦境维度的居民，包括争夺沉睡者心智控制权的敌对灵使与恶魔。
+* 七个生物模板，把你最爱的怪物变成扭曲心智的敌人，如另一自我（alter ego）、魂灵之影（animus shade）、无情的灵能巫妖，或吸取思想的灵能吸血鬼。
+* 强大的[[底栖魔鱼(怪物)|底栖魔鱼]]全知者（omnipath）、[[夺心巨虫]]霸主，以及名为[[第基拉里乌斯]]的独一无二的异界恐怖之物的数据——高等级异能冒险的完美收官。
+}}
+
+'''异能怪物图鉴'''（''Occult Bestiary''）是开拓者角色扮演游戏「战役设定」系列的一本资料书，由 Josh Colon、John Compton、Paris Crenshaw、Adam Daigle 等 14 位作者撰写，于 2015 年 9 月 2 日发售。
+
+{{书页尾
+|pfw=Occult Bestiary
+|releases=PDF¦PZO9284E¦2015-09¦；Softcover¦PZO9284¦2015-09¦
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

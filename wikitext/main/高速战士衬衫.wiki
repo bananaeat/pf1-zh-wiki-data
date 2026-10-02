@@ -1,0 +1,14 @@
+{{魔法物品
+|name=高速战士衬衫
+|english_name=Quick Runner's Shirt
+|aon=MagicWondrousDisplay.aspx?FinalName=Quick Runner's Shirt
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=胸部
+|price=1,000 gp
+|description=这件衬衫用轻薄如蛛丝的布料织成，上面绣着一排排带翼的双足。每天一次，穿戴者可以用一个[[迅捷动作]]获得一个额外的[[移动动作]]用来移动，然后立刻结束他的回合，失去所有未使用的动作。穿戴者必须连续穿着这件衬衫24小时之后，才能激活这项能力。
+|req=[[制造奇物]]、[[加速术]]
+|cost=500 gp
+|source=极限宝具
+}}

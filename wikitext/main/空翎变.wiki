@@ -1,0 +1,16 @@
+{{Feat
+|name=空翎变
+|english_name=Empty Quiver Flexibility
+|categories=战斗
+|description=（[[战斗专长]]）
+你在射击上的训练同样有助于紧急关头的贴身肉搏。
+|prerequisites=[[快速射击]]，[[空翎流]]，[[针刺射击]]，对所选武器拥有武器专攻专长
+|benefit=当你开启空翎流的架势时，你可以将所有增强远程攻击的攻击检定和伤害检定的职业能力与专长效果添加到通过[[空翎流]]发动的近战攻击的攻击检定和伤害检定上。除此之外，你可以威胁你周围区域内的敌人，如同你持用正常的近战武器一样。
+|source=WMH
+|source_name=武器大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_370.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[空翎连]]（1 个条目）

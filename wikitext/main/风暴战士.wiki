@@ -1,0 +1,10 @@
+{{Feat
+|name=风暴战士
+|english_name=Storm Warrior
+|pfs=否
+|description=你的武器能引导风暴的怒火。
+|prerequisites=云巨人或风暴巨人，[[风暴之魂]]
+|benefit=你将风暴之力输送至你佩戴的金属近战武器中，它会造成额外1d6点电击伤害。
+|source_name=冒险之路91：血征山之战
+|source_url=https://pf1chm.pages.dev/topics/91_Battle_of_Bloodmarch_Hills.htm
+}}

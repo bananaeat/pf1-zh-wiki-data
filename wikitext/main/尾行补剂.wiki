@@ -1,0 +1,10 @@
+{{装备
+|name=尾行补剂
+|english_name=Night stalker's tonic
+|cat=炼金工具
+|price=200 gp
+|weight=—
+|craft_dc=20
+|description=服用这种带金属味道的液体后，其效果持续1小时。在此期间，你可以接受一次炼金超载，使你的偷袭伤害增加1d6点，或使你的暗袭伤害增加1d4点或1d8点（视情况而定），持续1轮。如果你不具有偷袭或暗袭能力，服用这种补剂没有任何效果。
+|source=极限诡道
+}}

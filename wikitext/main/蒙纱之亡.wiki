@@ -1,0 +1,13 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=蒙纱之亡
+|english_name=Shrouded Demise
+|aon=MagicWondrousDisplay.aspx?FinalName=Shrouded Demise
+|cat=奇物
+|aura=强烈［邪恶］
+|cl=—
+|slot=无
+|price=4,410 gp
+|description=这根[[死亡丧钟]]魔杖（49次充能）由木头制成，但雕刻成了仿佛被几层面纱紧紧缠裹的样子。
+|source=天堂降临
+}}

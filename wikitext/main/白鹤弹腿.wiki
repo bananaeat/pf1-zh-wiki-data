@@ -1,0 +1,12 @@
+{{Feat
+|name=白鹤弹腿
+|english_name=Crane Riposte
+|categories=战斗
+|description=你以防守的力量来发动强有力的反击。
+|prerequisites=[[白鹤拳]]，[[白鹤亮翅]]，[[闪避]]，[[精通徒手打击]]，基本攻击加值+8或武僧7级。
+|benefit=你因防御式战斗而受到的攻击罚值只有-1。每当你成功的使用[[白鹤亮翅]]偏斜了一次敌人的攻击，或是因为一次对你发动的近战攻击失手并检定结果比你的AC低不超过4点而失去白鹤亮翅的闪避AC加值时，你可以对对你攻击失手的对手发动一次[[借机攻击]]。
+|stamina=在你的回合开始时如果你使用防御式战斗，花费2点耐力可抵消命中惩罚，直至你下一轮开始。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

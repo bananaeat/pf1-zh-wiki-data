@@ -1,0 +1,10 @@
+{{Trait
+|name=逃离尸体
+|english_name=Corpse Dodger
+|type=地区
+|prerequisites=乌斯塔拉夫
+|description=你在Ravengro住了很多年，那里紧邻一座著名的墓地和一座臭名昭著的监狱，让你对僵尸和骷髅十分熟悉。你开发了躲避它们的独特技巧。每天一次，你可以以类法术能力施放[[亡灵无视术]]，只需要1个[[迅捷动作]]，施法者等级为1。除此之外，该能力与该法术相同。
+|source_name=地区背景
+|source=USH
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

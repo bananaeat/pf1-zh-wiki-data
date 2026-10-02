@@ -1,0 +1,27 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Thornkeep
+|authors=Richard Baker、Jason Bulmahn、Ed Greenwood、James Jacobs、Erik Mona、Goblinworks Staff
+|pages=96
+}}
+
+{{书页/简介|head=邪恶的巢穴|1=
+在《开拓者在线：荆棘堡》（Pathfinder Online: Thornkeep）中发掘冒险的世界，赢取你的财富！这本详尽的资料书包含了 GM 在邪恶小镇荆棘堡及其周边运行冒险所需的一切，外加数层致命的地城，以及即将推出的大型多人在线游戏《开拓者在线》的抢先一瞥。本书中你将找到：
+
+* 荆棘堡的历史与地名志。这座罪犯的乐园建在古阿兹兰特遗迹之上，来自自然与异界的危险比比皆是。
+* 由业内一些最伟大的作者精心打造的完整地城层，作者包括 Richard Baker、Jason Bulmahn、Ed Greenwood、James Jacobs 和 Erik Mona。
+* 幕后一瞥：Goblinworks, Inc. 及其为《开拓者在线》所做的工作——这款即将推出的 MMORPG 基于屡获殊荣的开拓者角色扮演游戏。
+* 为《开拓者在线》技术演示绘制的、前所未见的概念艺术与插图。
+}}
+
+'''开拓者在线：荆棘堡'''（''Thornkeep''）是一本 96 页的平装书，是《开拓者在线》（Pathfinder Online）技术演示 Kickstarter 项目支持者的回报，该项目旨在为大型多人在线游戏（MMO）《开拓者在线》的最初研发筹资。本书由 Richard Baker、Jason Bulmahn、Ed Greenwood、James Jacobs、Erik Mona 以及 Goblinworks 员工撰写。书籍的 PDF 于 2012 年 10 月发给 Kickstarter 的支持者，印刷版和 PDF 版于 2013 年 1 月同时上市零售。
+
+{{书页尾
+|pfw=Thornkeep (book)
+|releases=Softcover (Kickstarter reward)¦¦2012-10¦；PDF¦PZOGWK0001E¦2013-01¦；Softcover (Paizo Store)¦PZOGWK0001¦2013-01¦978-1-60125-519-8
+}}
+
+<small>CHM 汉化的纪录单列表只有英文书名 Pathfinder Online: Thornkeep，没有中文译名，书名是本站定的。</small>
+
+[[分类:书目]]

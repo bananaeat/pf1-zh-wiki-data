@@ -1,0 +1,16 @@
+{{魔法物品
+|name=永燃提灯
+|english_name=Everburning Lantern
+|aon=MagicWondrousDisplay.aspx?FinalName=Everburning Lantern
+|cat=奇物
+|mythic=是
+|aura=中等塑能系
+|cl=6
+|slot=无
+|price=3,000 gp
+|weight=2磅
+|description=这个小型的黄铜[[附盖提灯]]会如同[[昼明术]]一般发出光芒。若持用者花费1次神话之力，提灯会在1小时内如同神话昼明术一般发光。当提灯发出神话昼明术的光芒时，它会自动解除所有进入其光芒内的非神话黑暗法术或效果。
+|req=[[制造奇物]]、[[神话工匠]]、[[昼明术 (神话)|神话昼明术]]
+|cost=1,500 gp
+|source=神话冒险
+}}

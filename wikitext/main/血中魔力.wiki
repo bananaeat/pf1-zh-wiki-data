@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Agents of Evil pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=血中魔力
+|english_name=Magic in the Blood
+|type=种族
+|prerequisites=替换儿
+|description=你拥有天生的魔法能力。从以下法术中选择一个：[[出血术]]、[[造水术]]、[[舞光术]]、[[侦测善良]]、[[幻音术]]、[[腐化食粮]]。你每天可以将该法术作为类法术能力施展三次。
+|source_name=邪恶特务
+|source=AoE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Magic%20in%20the%20Blood
+}}

@@ -1,0 +1,13 @@
+<noinclude>{{速查导航|here=规则}}
+{{消歧义|昏暗视觉}}
+'''昏暗视觉'''（Low-Light Vision）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：感官</span></div>
+</noinclude><includeonly><div class="lang"><span id="昏暗视觉"></span><span id="昏暗视觉(怪物能力)"></span><div class="lang-h"><b>[[昏暗视觉(怪物能力)|昏暗视觉]]</b><i>Low-Light Vision</i><span class="lang-w">Ex · 感官</span></div><div class="lang-d"></includeonly>
+拥有昏暗视觉的生物在星光、月光、火炬光和类似的昏暗光照条件下，可以看到[[人类]]两倍远的地方。在这些条件下，它仍能分辨色彩和细节。
+
+'''格式'''：昏暗视觉
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Low-Light Vision|2=Low-Light Vision}}
+
+[[分类:通用怪物规则]]</noinclude>

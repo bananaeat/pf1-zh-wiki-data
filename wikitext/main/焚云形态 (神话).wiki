@@ -1,0 +1,13 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[焚云形态]] 的神话版本。</small></div>
+{{Spell
+|name=焚云形态
+|english_name=Scorching Ash Form
+|school=变化系
+|tags=火
+|levels=奥能师 4;术士 4;法师 4;炼金术师 4;红螳螂杀手 4;调查员 4
+|description=造成的伤害增加至3d6点火焰伤害。其他方面改变与神话气化形体做出的变化相同。
+
+强化：若你花费2次神话之力，目标就能够以移动动作变为焚云形态，或者恢复为正常的形态。
+|source=神话冒险
+}}
+[[分类:神话法术]]

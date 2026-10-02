@@ -1,0 +1,17 @@
+{{武器
+|name=掷瓶器
+|english_name=Flask thrower
+|category=武器
+|prof=异种
+|wcat=远程
+|price=25 gp
+|weight=4磅
+|dmg_s=—
+|dmg_m=—
+|crit=—
+|range=20尺
+|special=见正文
+|groups=投掷
+|description=这根棍子的末端有一个托架，用来盛放强酸等炼金武器。掷瓶器能大幅增加造成溅射伤害的投掷物（比如强酸、炽火胶或圣水）的射程，对绊足包、爆雷石、铁蒺藜等工具同样有效。
+|source=格拉利昂的侏儒、冒险者的军械库2
+}}

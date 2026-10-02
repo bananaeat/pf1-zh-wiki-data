@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 199），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=心存戒备
+|english_name=Guarded
+|type=种族
+|prerequisites=人鱼
+|description=你从小就相信呼吸空气者不可信任。你对非水生类人生物进行的[[唬骗]]和[[察言观色]]检定获得+2背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Guarded
+}}

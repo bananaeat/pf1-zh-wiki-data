@@ -1,0 +1,10 @@
+{{Trait
+|name=阿尔曼凯利斯克学者
+|english_name=Armun Kelisk Scholar
+|type=地区
+|prerequisites=气元素位面
+|description=你在气元素位面的日子里经常前往阿尔曼凯利斯克的图书馆而且狼吞虎咽地翻阅当中的巨著。你在知识[位面]和由你选择的一个其它知识技能检定获得+1背景加值。当辨识一拥有气系亚种的生物时此加值提升至+3。知识[位面]成为你的[[本职技能]]而且你1级的额外语言选项将包括风族语。此可选择的额外语言为基于种族的额外语言之外。
+|source_name=元素血脉
+|source=BotE
+|source_url=https://pf1chm.pages.dev/topics/zh7517ece198.htm
+}}

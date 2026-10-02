@@ -1,0 +1,9 @@
+{{Trait
+|name=孔冉达的变形师
+|english_name=Transmuter of Korada
+|type=魔法
+|description=你师从[[至高天神使]]孔冉达的信徒学习变化系法术的奥秘。当你施展变化系法术时施法等级+1.此外从以下法术选择一个：公牛之力，[[猫之优雅]]，[[熊之坚韧]]，[[狐之狡黠]]，[[枭之睿智]]或[[鹰之威仪]]。每天一次当你施展该法术时持续时间加倍。被该背景元素影响的法术无法被[[法术延时]][[超魔专长]]和类似效果影响。
+|source_name=魔法背景
+|source=CoP
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

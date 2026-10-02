@@ -1,0 +1,9 @@
+{{Trait
+|name=魔鬼鱼潜水者
+|english_name=Devilfish Diver
+|type=地区
+|prerequisites=莫迪欧凯提岛
+|benefit=你曾经在莫迪欧凯提的海岸与魔鬼鱼一起游泳。你在对抗毒素的豁免检定上获得+2背景加值。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

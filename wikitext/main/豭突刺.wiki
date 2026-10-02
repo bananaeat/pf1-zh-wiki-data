@@ -1,0 +1,16 @@
+{{Feat
+|name=豭突刺
+|english_name=Boar Ferocity
+|categories=战斗
+|description=你撕裂肉体的[[徒手攻击]]让敌人胆寒。
+|prerequisites=[[精通徒手打击]]，[[豭突势]]，威吓6级。
+|benefit=你可以用你的徒手打击造成穿刺伤害。而且你在打击对手士气的威吓检定上获得+2加值。你采用[[豭突]][[流派]]架势时，如果你成功撕裂对手，以一个[[自由动作]]，你可以进行一次打击敌人士气的威吓检定。
+|stamina=如果你的对手在你用豭突流派撕裂对手之前已被威吓，花费5点耐力可令其恶心一轮。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[豭突千裂]]（1 个条目）

@@ -1,0 +1,11 @@
+{{Trait
+|name=坑斗士
+|english_name=Tunnel Fighter
+|type=种族
+|aliases=坑道战士
+|prerequisites=[[矮人]]
+|description=洞窟和坑道是你的第二家园。在地下环境中，你的[[先攻]]检定获得+2背景加值，武器造成重击时伤害获得+1背景加值(该伤害能够因重击加倍)。
+|source_name=种族背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

@@ -1,0 +1,15 @@
+{{Spell
+|name=高等占据术
+|english_name=Possession, Greater
+|school=死灵系
+|levels=唤魂师 6;秘学士 6;奥能师 8;女巫 8;异能者 8;术士 8;法师 8
+|action=标准动作
+|components=语言;姿势
+|range=中距（100尺 + 每等级10尺）
+|target=一个生物
+|duration=1小时/等级（可解消）
+|save=意志，通过则无效
+|sr=是
+|description=该法术的功能如同[[占据术]]一般，不过当你占据一个宿主时，你会进入到宿主的体内，而你的实体身躯会消失不见。当宿主死亡或者法术持续时间结束时，你会被驱离到最近的空置方格。
+|source=异能冒险
+}}

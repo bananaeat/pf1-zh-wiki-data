@@ -1,0 +1,12 @@
+{{消歧义|半瓶醋}}
+{{Trait
+|name=后进学徒
+|english_name=Failed Apprentice
+|type=种族
+|prerequisites=[[半精灵]]
+|description=在你还是一个孩子的时候，你的父母把你送到了一座遥远的法师塔中，让你作为一名学徒来学习奥法的艺术。不幸的是，你没有任何的奥术才能。但无论如何，你的确是学到了大量关于法术运作的原理以及该如何抵御它们。
+
+你在对抗奥术法术的豁免上获得+1背景加值。
+|source_name=塔尔多，荣光荡漾之地
+|source_url=https://pf1chm.pages.dev/topics/page_938.html
+}}

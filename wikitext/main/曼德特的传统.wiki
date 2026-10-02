@@ -1,0 +1,9 @@
+{{Trait
+|name=曼德特的传统
+|english_name=Mordant Heritage
+|type=地区
+|prerequisites=蒸汽海
+|description=你与曼德特尖塔的[[精灵]]一同居住，所以你也了解他们的奇特之处。你在游泳检定和对抗惑控效果影响的豁免检定获得+1背景加值。
+|source_name=格拉里昂的精灵
+|source_url=https://pf1chm.pages.dev/topics/zhd63cf5e76e.htm
+}}

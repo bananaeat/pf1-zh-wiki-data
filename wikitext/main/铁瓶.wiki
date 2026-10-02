@@ -1,0 +1,9 @@
+{{装备
+|name=铁瓶
+|english_name=Iron vial
+|cat=冒险装备
+|price=1 sp
+|weight=1磅
+|description=这种金属药水瓶具有硬度5，3点生命值，击破DC为14。
+|source=冒险者的军械库、极限宝具
+}}

@@ -1,0 +1,17 @@
+{{武器
+|name=指斧
+|english_name=Knuckle axe
+|category=武器
+|prof=异种
+|wcat=轻型
+|price=9 gp
+|weight=2磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×3
+|type=挥砍
+|special=武僧，演武
+|groups=斧
+|description=将形似斧头的锋刃加装在[[黄铜指虎]]上，指斧经常被成对使用。你能用装备着指斧的手抓握但非持用一件武器或其他物品。与黄铜指虎不同的是，你无法用装备着指斧的手完成施法的姿势成分。
+|source=极限战斗、极限宝具
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=槟榔屿海盗
+|english_name=Belem Pirate
+|type=地区
+|prerequisites=民那塔(Minata)
+|description=在你作为海盗的大部分职业生涯中，槟榔屿的隐秘海湾一直成了你的家，而且民那塔的蜿蜒水道训练出你的航海技艺。 你在知识[地理]和专业[水手]检定获得+1背景加值，其中一个技能成为你的[[本职技能]]。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://pf1chm.pages.dev/topics/page_1557.html
+}}

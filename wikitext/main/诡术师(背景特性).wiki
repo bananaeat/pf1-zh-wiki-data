@@ -1,0 +1,9 @@
+{{Trait
+|name=诡术师
+|english_name=Charlatan
+|type=魔法
+|prerequisites=[[侏儒]]
+|description=你的幻术天赋远超寻常。你能将法术能量转化为强化[[欺瞒]]的简易幻象。每天三次，你能以[[迅捷动作]]消耗一个已准备法术或法术位，使下轮开始前的下一次[[唬骗]]检定获得等于消耗法术环位的加值。只有非守序阵营的[[侏儒]]能选取这项[[背景特性]]。
+|source_name=格拉里昂的侏儒
+|source_url=https://pf1chm.pages.dev/topics/zh5166336575.htm
+}}

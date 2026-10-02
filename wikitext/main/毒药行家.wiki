@@ -1,0 +1,10 @@
+{{Trait
+|name=毒药行家
+|english_name=Poison Connoisseur
+|type=地区
+|prerequisites=出身塔尔多
+|description=当无休止的争吵和故作姿态的塔尔多政治被证明无效，前所未有的，塔尔多贵族们开始寻求用毒药来解决他们的问题，因此许多贵族学会识别常用毒素的痕迹。你在对抗摄入型毒药的豁免检定上获得+2背景加值。此外，每天一次你可以以类法术能力施展侦测毒素，使用你的角色等级作为施法者等级。
+|source_name=药剂与毒药
+|source=P&P
+|source_url=https://pf1chm.pages.dev/topics/page_1257.html
+}}

@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=恨意驱动
+|english_name=Fueled by Vengeance
+|categories=杂项
+|pfs=否
+|prerequisites=[[野蛮人]]6级
+|benefit=在狂暴中，每当你对在你上一轮结束后曾对你造成伤害的生物造成武器伤害，你获得1轮本日可用的狂暴时间。每轮最多以此法获得额外1轮狂暴。
+|special=这个[[狂暴之力]]仅对野猪人，野猪人后裔和与这些生物有关联的生物可用。
+|source_name=月之血脉
+}}

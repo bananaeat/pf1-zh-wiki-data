@@ -1,0 +1,22 @@
+{{魔法物品
+|name=启示法杖
+|english_name=Staff of Revelations
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Revelations
+|cat=法杖
+|aura=中等预言系
+|cl=9
+|slot=无
+|price=51,008 gp
+|weight=5磅
+|description=这根胡桃木杖的叉状顶端，既像探水杖，又像野兽弯曲盘绕的犄角，一颗精致的宝石悬浮在这两条环抱的枝杈之间。
+
+该法杖可以使用以下法术：
+
+* [[占卜术]]（1 发）
+* [[死者交谈]]（1 发）
+* [[预言术]]（2 发）
+* [[通神术]]（3 发）
+|req=[[制造法杖]]、[[占卜术]]、[[通神术]]、[[预言术]]、[[死者交谈]]
+|cost=30,608 gp
+|source=进阶玩家指南、极限宝具
+}}

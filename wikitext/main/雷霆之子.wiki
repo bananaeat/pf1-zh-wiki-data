@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Elements pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=雷霆之子
+|english_name=Thunderborn
+|type=种族
+|prerequisites=风元素裔
+|description=你声音中的隆隆回响与眼中的火花，暗示着你的血统与雷电有关——或许可以追溯到气元素位面的闪电元素生物，也可能是你在一场猛烈的雷暴中受魔法触动而降生。每天一次，当你施放一个造成电击伤害的法术时，你可以选择让一半伤害为电击伤害，另一半为音波伤害。
+|source_name=元素血脉
+|source=BotE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Thunderborn
+}}

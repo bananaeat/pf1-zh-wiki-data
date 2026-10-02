@@ -1,0 +1,12 @@
+{{Feat
+|name=精通包抄
+|english_name=Improved Outflank
+|categories=战斗;团队
+|description=你能轻而易举地找到敌人防御的薄弱之处。
+|prerequisites=包抄APG，BAB+6
+|benefit=当你和一名同样拥有这个专长的盟友威胁同一个敌人时，若你邻接一个没有被占据的方格，并且你身处该方格时可以与该名盟友形成夹击，那么你视作夹击这名敌人。
+|normal=你必须处于盟友的正对角来夹击一名对手。
+|source=LotFW
+|source_name=第一世界的遗产
+|source_url=https://pf1chm.pages.dev/topics/page_1078.html
+}}

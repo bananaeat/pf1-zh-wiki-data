@@ -1,0 +1,17 @@
+{{武器
+|name=钩镰枪
+|english_name=Hooked lance
+|category=武器
+|prof=军用
+|wcat=双手
+|price=3 gp
+|weight=10磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×4
+|type=穿刺
+|special=长武，摔绊
+|groups=长柄
+|description=这种纤细的10尺长长柄武器，头部带有一个突出的倒钩，用来钩住对手的衣物和甲胄。与[[长枪]]不同，钩镰枪在骑乘时不能单手持用，骑乘使用时也不造成额外伤害。
+|source=极限战斗、极限宝具
+}}

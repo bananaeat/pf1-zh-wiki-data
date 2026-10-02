@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[元素导能]] 的神话版本。</small></div>
+{{Feat
+|name=元素导能
+|english_name=Elemental Channel
+|categories=神话
+|description=你的力量对元素的影响力是绝对的。
+|prerequisites=[[元素导能]]
+|benefit=你的[[元素导能]]能够影响任意元素亚种，而不仅仅是你在选取元素导能专长时所选择的那种。每当你使用元素导能专长时，你必须在使用之前选择1种元素亚种。在你使用元素导能时，你能够花费1次神话之力来选择第二种可以影响的元素亚种。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

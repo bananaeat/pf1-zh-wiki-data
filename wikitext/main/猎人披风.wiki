@@ -1,0 +1,15 @@
+{{魔法物品
+|name=猎人披风
+|english_name=Hunter's Cloak
+|aon=MagicWondrousDisplay.aspx?FinalName=Hunter's Cloak
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=肩部
+|price=7,500 gp
+|weight=1磅
+|description=这种披风通常用巨蛇的皮制成，用来帮助游侠、猎人和追踪者融入并快速穿行于他们最熟悉的地区。如果穿戴者拥有偏好地形职业能力，并且正穿行于他的某一种偏好地形中，他可以把自己变成该环境中的一种本地动物。该效果与法术[[野兽形态 I]]相同，只是限于该环境的本地生物（以相应怪物图鉴条目的定义为准，或由GM裁定）。此效果每天持续10分钟，持续时间不必连续，但必须以1分钟为单位使用。
+|req=[[制造奇物]]、[[野兽形态 I]]
+|cost=3,750 gp
+|source=极限宝具
+}}

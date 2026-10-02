@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 197），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=洪亮嗓音
+|english_name=Carrying Voice
+|type=种族
+|prerequisites=风元素裔
+|description=你在狂暴的风暴中长大，常用嗓音模仿滚滚雷鸣。在决定音波法术和效果的距离时，你的施法者等级视为高2级。他人在[[察觉]]检定中聆听你的声音时，不会因风而承受减值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Carrying%20Voice
+}}

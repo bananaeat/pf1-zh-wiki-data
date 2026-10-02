@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 18），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=信仰之兵
+|english_name=Soldier of the Faith
+|type=地区
+|prerequisites=拉兹密安
+|description=你曾作为忠实的执法者为拉兹米尔效力，或是在恩卡坦湖上往来的某艘「信仰驳船」上服役，学会了拉兹密安的执法手段。你的[[威吓]]检定获得+1背景加值，并且威吓对你而言总是本职技能。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Soldier%20of%20the%20Faith
+}}

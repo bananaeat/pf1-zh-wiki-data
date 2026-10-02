@@ -1,0 +1,11 @@
+{{Feat
+|name=街角霸王拳
+|english_name=Street Sweep
+|categories=战斗
+|description=把敌人逼退之后，你能迅速将其击倒在地并拖慢它的行动。
+|prerequisites=力量 15，[[精通冲撞]]，[[精通徒手打击]]，[[猛力攻击]]，[[街霸流]]，BAB +6或武僧等级5级
+|benefit=当你使用[[街霸流]]期间，每轮第1次用[[徒手打击]]对1名敌人造成伤害时，如果该名敌人在你的上个回合开始后，被你用街霸流[[冲撞]]过的话，该名敌人必须进行1次强韧豁免（DC = 10 + 你的基本攻击加值），失败则会被击倒，而且[[恍惚]]1轮。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

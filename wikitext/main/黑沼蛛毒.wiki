@@ -1,0 +1,12 @@
+{{物品
+|name=黑沼蛛毒
+|english_name=Black Marsh Spider Venom
+|category=毒药
+|price=800gp
+|description=这种烈性蜘蛛毒液会使受害者失去判断力以及肌肉的控制力，直至他们倒下。黑沼蛛毒价格800gp。
+
+黑沼蛛毒： 类型 －毒素，伤口； 强韧豁免 DC － 14； 频率 －每轮1次，持续6轮； 效果 － 1d4敏捷伤害，并困惑1轮； 治愈 － 2次连续豁免。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_312.html
+}}

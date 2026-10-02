@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Mummy's Mask Player's Guide pg. 9, People of the Sands pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=好奇考古家
+|english_name=Inquisitive Archaeologist
+|type=战役
+|pfs=否
+|description=你研究过内海地区各国的建筑风格，但没有哪一种像古奥西里昂的建筑那样令你着迷。听说著名的瓦提大墓地终于开放探索，你便来到这座城市，想亲身接触古奥西里昂建筑大师们失落的秘密。你的[[知识]]（工程）检定获得+2背景加值，且该技能总是你的本职技能。此外，你为在古奥西里昂风格的建筑中寻找隐蔽门或暗门而进行的[[察觉]]检定获得+2背景加值。
+|source_name=Mummy's Mask Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Inquisitive%20Archaeologist
+}}

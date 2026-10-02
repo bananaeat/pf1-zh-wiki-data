@@ -1,0 +1,9 @@
+{{Trait
+|name=法距才资
+|english_name=Distance Aptitude
+|type=魔法
+|description=年少时你曾接触过[[精灵]]传送门、位面通道或其他形式的跨距魔法。这种与世界级远古魔法的接触，使你领悟了延展法术射程的奥秘。在判定法术与类法术能力的射程时，你的施法者等级视为比实际高1级。
+建议角色：精灵，纽梅利亚人，萨科利斯人
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

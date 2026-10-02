@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Wild pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=荒野凶性
+|english_name=Wild Ferocity
+|type=种族
+|prerequisites=半兽人
+|description=从游侠的偏好地形列表中选择一种地形类型。当你处于该类型的地形中时，你在[[瘫痪]]状态下执行标准动作不会让你受到通常的1点伤害。当你因兽人凶猛或[[顽强]]专长而在生命值总和为负的情况下仍如同瘫痪般行动时，也可以使用此背景。
+|source_name=荒野英雄
+|source=HotW
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Wild%20Ferocity
+}}

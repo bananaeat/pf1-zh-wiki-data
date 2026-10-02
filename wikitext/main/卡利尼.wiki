@@ -1,0 +1,33 @@
+<div class="well" style="margin:.2em 0"><small>'''本页尚未汉化。'''民间汉化的 CHM 合集里没有这个种族，正文取自 [https://aonprd.com Archives of Nethys] 的英文原文。认领翻译见 [[待办事项]]。</small></div>
+{{速查导航|here=种族}}
+{{种族卡
+|属性=+2敏捷，+2体质，-2智力
+|速度=30尺
+}}
+{{种族卡
+|属性=+2敏捷，+2体质，-2智力
+|速度=30尺
+}}
+'''卡利尼'''（Caligni）是 Pathfinder 1st Edition 的一个种族。
+
+'''Source''' ''Bestiary 5 pg. 66''
+
+The name “caligni” is an ancient term for the races now collectively known as dark folk, sometimes still used by dark folk communities to refer to themselves. Untold generations ago, these subterranean dwellers aspired to grand destinies, and might have achieved them if not for the planned degeneration meted out by their controllers, the owbs. Yet even today, dark folk are sometimes born bearing an uncanny likeness to the ancients that dark stalkers still imitate. Throwbacks to the time before owb tampering, these individuals—called simply “caligni”—might be born from any dark folk race, reminders of their people’s half-remembered dreams.
+
+The birth of a caligni is a momentous sign, celebrated by many dark folk. Yet it’s not uncommon for a maturing caligni to threaten the caste-clans of dark folk society or offend an owb overlord; as a result, most caligni don’t survive to adulthood in dark folk society, falling victim to suspicious accidents or mysterious murders. The canniest caligni foresee their people’s treachery and leave, seeking homes elsewhere in the Darklands, and putting the talents they have learned among other dark folk to use in their own service, or in that of less treacherous allies. Caligni measure close to 6 feet tall but weigh as little as 125 pounds. They’re often mistaken for dark stalkers, though their features are more defined and individually distinctive beneath their thick wrappings. Their skin is bleached gray, deepening to obsidian at the extremities. Caligni age at the same rate as half-elves, and don’t typically breed true, instead giving birth to more common dark folk types—typically dark creepers.
+
+Most caligni adventurers become rogues and slayers, adopting the training of their dark creeper and dark stalker brethren. Some become alchemists, and the most depraved commune with the owbs as conjurers and summoners.
+
+== Caligni Racial Traits ==
+
+Caligni are defined by their class levels—they don’t have racial Hit Dice. All caligni have the following racial traits.
+'''+2 Dexterity, +2 Constitution, –2 Intelligence:''' Caligni are quick and resilient, but generations of isolation and oppression have made them slow to accept new ideas.
+'''Normal Speed:''' Caligni have a base speed of 30 feet.
+'''See in Darkness:''' Caligni can see perfectly in darkness of any kind, including that created by ''deeper darkness''.
+'''Light Sensitivity:''' Caligni are dazzled in areas of bright light.
+'''Death Throes:''' When a caligni is slain, its body combusts in a flash of searing light. All creatures within a 5-foot burst must succeed at a Fortitude save (DC = 10 + 1/2 the caligni’s Hit Dice + the caligni’s Constitution bonus) or be dazzled for 1d4 rounds. The corpse left behind is a third of the caligni’s size, withered and unrecognizable as the individual. ''Raise dead'' and similar spells cast upon these remains restore a caligni as normal.
+
+本页正文取自 [https://aonprd.com/RacesDisplay.aspx?ItemName=Caligni Archives of Nethys]。全部种族见 [[种族]]。
+
+[[分类:种族]]
+[[分类:待汉化]]

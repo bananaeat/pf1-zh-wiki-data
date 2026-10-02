@@ -1,0 +1,14 @@
+{{魔法物品
+|name=指令石
+|english_name=Missive Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Missive Stone
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=颈部
+|price=10,000 gp
+|description=这是两块小小的、磨光的黑色石头，挂在朴素的银链上，上面蚀刻着几十个微小的奥术符号，符号以红漆描成。指令石总是成对制作。当你和另一个人各戴一块石头时，只要你们相距不超过3英里，就可以互相发送低语信息。
+|req=[[制造奇物]]、[[风讯术]]
+|cost=5,000 gp、400 XP
+|source=塔尔多，荣光荡漾之地
+}}

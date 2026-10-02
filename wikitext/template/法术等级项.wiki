@@ -1,0 +1,9 @@
+<includeonly>{{#arraymap:{{#explode:{{{1|}}}| |0}}|/|@@|{{法术职业名|@@}}|/}} {{#explode:{{{1|}}}| |1}}</includeonly><noinclude>
+==说明==
+把 <code>levels</code> 里的一项（<code>法师 3</code>）拆成职业名和环位，职业名过 [[模板:法术职业名]] 挂链。
+
+<nowiki>{{法术等级项|术士/法师 3}}</nowiki> → {{法术等级项|术士/法师 3}}
+
+斜杠是「这几个职业同环」的写法，逐个挂链。模板参数里的空格会被 MediaWiki 修剪掉，所以 <code>#explode</code> 的分隔符要写成 <code>&amp;#32;</code>。
+[[分类:模板]]
+</noinclude>

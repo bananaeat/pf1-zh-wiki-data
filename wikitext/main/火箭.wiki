@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=火箭|en=Fire Bolt|type=Sp|domain=火领域|source=核心规则书|text=你能用[[标准动作]]发出一根火箭。通过一个远程[[接触攻击]]任何30尺以内的敌人，火箭造成“1d6+1/2牧师等级”的火焰伤害。你每天可以使用此能力次数“3+[[感知]]调整值”。}}<noinclude>
+
+[[分类:领域]]</noinclude>

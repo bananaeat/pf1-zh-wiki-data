@@ -1,0 +1,17 @@
+{{魔法物品
+|name=葬花
+|english_name=Gravebane Petals
+|aon=MagicPlantsDisplay.aspx?FinalName=Gravebane Petals
+|cat=魔法植物
+|aura=微弱死灵系
+|cl=3
+|slot=无
+|price=16,000 gp
+|weight=50磅
+|description=当葬花深红色的花瓣被紧紧塞进尸体或不死生物的口中时，可以防止一切腐烂，如同该尸体处于[[遗体防腐]]的影响之下，并以一种病态的甜香完全掩盖任何恶臭。这些效果持续1个月。
+
+一丛灌木每天长出一朵新花，需要1个月才能积攒出足以保存一具尸体的葬花花瓣。这种植物的生长期为52周。
+|req=[[奇植培育]]、[[狂暴术]]，培育者必须拥有知识（自然）3级
+|cost=8,000 gp
+|source=荒野源始
+}}

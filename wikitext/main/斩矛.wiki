@@ -1,0 +1,17 @@
+{{武器
+|name=斩矛
+|english_name=Fauchard
+|category=武器
+|prof=异种
+|wcat=双手
+|price=14 gp
+|weight=10磅
+|dmg_s=1d8
+|dmg_m=1d10
+|crit=18–20/×2
+|type=挥砍
+|special=长武，摔绊
+|groups=长柄
+|description=就和大砍刀一样，斩矛也是一根末端有着弧形刀刃的长杆武器。然而，和镰刀或巨镰一样，其锋刃处于凹进去的一侧。
+|source=经典恐怖再临、冒险者的军械库2
+}}

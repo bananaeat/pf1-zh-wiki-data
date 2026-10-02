@@ -1,0 +1,772 @@
+{{#addbodyclass:pf-rules}}{{速查导航|here=规则}}{{位面冒险规则导航|here=神赐}}
+
+自由意志的概念处在所有生灵的根本核心，哪怕是选择要不要信仰诸神的自由。每当神祗直接插手凡人的事务，就会损害这种自主性，侵蚀自由意志的概念——毕竟，如果一个比你强大无数倍的存在能够无视你的选择、随心所欲地改写现实，那么你能自己做选择又有什么意义呢？
+
+祂们对这一难题本质的理解，远胜过我们任何凡人，而祂们对这些悖论的更深理解，正是祂们以所谓“神秘的方式”行事的很大一部分原因。尽管如此，凡人仍常常忍不住发问：“为什么诸神会容许坏事发生？”
+
+对这一悖论最简单的解释，是把神圣的干涉比作军备竞赛。如果神圣只有一位，就没有谁会质疑祂的行动或阻挠祂的需求，但伟大彼岸并非如此。无数神祗、半神和准神并存，各自的利益遍布多元宇宙和所有物质位面世界。这意味着每一位神祗——哪怕是最隐居、最不喜争斗的——最好的情况下也有竞争对手，最坏的情况下则有敌人。当一位神祗在某个世界采取直接行动时，祂的对手势力就会注意到并做出反应。由此形成的军备竞赛中，敌对的神祗为了相互抗衡而采取越来越压倒性的行动，很快就会失控，毁掉整个世界，到那时，创造世界的全部心血实际上便付诸东流。
+
+因此，诸神在很大程度上遵守着一条自我施加的禁令：不与物质位面直接互动。祂们把自己的关切和图谋托付给虔诚信徒的得力之手，让各自的教会代表神祗的利益，并自行决定自己的命运。需要指出的是，这种自我施加的不干涉并不同等地适用于半神一级。这些存在虽然强大，却可能被他们所操纵其生活的凡人击败，最好牢记这种可能的下场，即便它极不可能发生。
+
+{{AI翻译|nocat=1|本节由 AI 照 AoN 英文译出，未经人工校对。}}
+
+== 神的力量 ==
+
+神圣之中有三种等级的力量，尽管所有等级的神圣都拥有巨大的力量，尤其是与一个卑微的凡人相比。
+
+=== 神祗 ===
+
+神圣之中最强有力的一类是完全成熟的神祗。这些神的存在超出了规则的概念，没有数据块，并因此不能在简单的战斗中被杀死。一尊神祗可以改变现实，撤销任何凡人的魔法，复活或[[扼杀]]生命，或者做任何其他你想要讲述的故事所需要的事情。
+
+神祗允许祂们的神职人员选用五个领域。
+
+=== 半神 ===
+
+与神祗不同的是，一尊半神在游戏中用统计数字表示，挑战等级在CR 26到CR 30。[[大魔鬼绪论|大魔鬼]]、[[恶魔领主绪论|恶魔领主]]、[[至高天神使]]和[[旧日支配者绪论|旧日支配者]]都是半神范例。一尊控制着位面国度的半神可以通过思想影响该国度的物理变化，但这种变化并非是瞬间的。在其国度之外，半神必须依靠自己的能力和魔法来实现这些改变。
+
+半神允许祂们的神职人员选用四个领域。
+
+=== 准神 ===
+
+准神是神圣中力量最小的，也是最接近祂们自己的本性的。一尊准神拥有一张数据卡，而且可以具有任意的CR（尽管绝大多数位于CR 21–25范围内）。准恶魔领主、[[雄霸魔]]【译注：魔鬼中少数精英角魔会被赋予雄霸魔的称号】、和[[古魔领主]]都是准神范例，或是某些像远古[[深潜者]]、蠕虫征服者、和[[绿境公]]这些有能力向神职人员提供法术的生物。选择了[[神力之源]]道途能力的神话角色也是准神。
+
+准神并没有先天的能力单独通过思想来塑造和改变现实，即使祂们以某种方式获得了对半位面国度的控制，也必须依靠自己的能力和魔法来实现这种自然的改变效果。
+
+准神允许祂们的神职人员选用一到四个领域。
+
+== 神之干涉 ==
+
+在探索者角色扮演游戏中，当GM介入改变游戏流程时就会出现神之干涉的元素，无论是通过任意分配掷骰结果、逆转整个事件，甚至改变游戏中大自然的实际情况，哪怕仅仅是一刹那。神之干涉的效果不受规则的约束，你可以实现任何你希望的突然的命运逆转或对现实的调整将其归类为神之干涉。
+
+如果真是（强调语气）在你的游戏中，这是一个你应该很少使用的手段。允许神干涉你的游戏的最好理由是当你和你的玩家没有其他生存选择并且希望继续战斗。在这种情况下，神之干涉不仅可以让游戏继续下去，而且可以向角色和玩家灌输对突如其来的意外救赎的感激之情。
+
+注意不要从游戏中消除失败的威胁，当然——如果玩家希望你每次在他们失败时都拯救他们的角色，游戏的悬念就会消失。作为一般规则，每个玩家每次战役只能出现一次神之干涉，但是你当然可以根据自己的喜好更改此频率。
+
+== 神赐 ==
+
+众神不需要等待凡人向他们求助来给予恩惠。有时，当一个角色执行一个特别虔诚的行为或完成一个传奇的伟业，该角色的神可能会选择奖励她一个神赐。
+
+被授予神赐的次数和频率将严格由GM自由裁决。它们可以在需要时给予特别虔诚的崇拜者。它们可以会在一个重要的任务完成后被授予以促进信仰。或者它们可以作为奖励赠与那些以神祗的名义做出的重大牺牲者或是献身于神者的回报。神赐可以被授予给任何生物，甚至是不同神祗的追随者或根本不崇拜神祗的生物。仅有的限制是一个生物必须有智慧才能接受神赐，因为生物总是可以在愿意时选择拒绝这份赐予——接受或拒绝这种天赋的自由是这种恩赐的一部分。然而，根据GM的判断，拒绝你崇拜的神祗的神赐（或接受敌对神祗的神圣礼物）可能会招致恶果。
+
+神赐可以是任何力量环位，但是在下文中重点介绍的核心万神殿的部分中展示的范例天赋都与[[神迹术]]所能给予的效果相当——根据你喜欢的家庭战役请随意调整这个力量环位。根据你的判断，你可以允许神术施法者通过自己施展神迹术来复制（对他们的神来说是合适的）神赐效果。
+
+== 信仰与神圣 ==
+
+神圣们拥有巨大的力量并且可以干预凡人崇拜者的生活，给予奇迹般的恩惠。他们可以高举国度并随性创造生命。因此，凡人的生活对神圣有什么用呢？
+
+一个用途在于外层位面的基本构成块——源质的性质。正如《位面冒险》“灵魂长河”一节所详述的，当一个凡人死亡时，灵魂最终与另一个位面的物质相融合（通常在消耗时间后成为了[[祈并者]]或是异界生物），扩大了位面的规模并抵消了[[大涡流]]对它侵蚀的影响。因此，外层位面的存在取决于灵魂的不断涌入。当一位神祗的宗教在物质位面上广泛传播时，祂的国度以更多[[祈并者]]的形式直接获益，这将最终增加位面国度的整体规模。
+
+但是凡人还扮演着一个更重要的角色：他们提供信仰。当一名凡人对一位神圣有信仰时，这种力量越来越把凡人的命运和灵魂与神圣联系在一起。神圣不会直接从这种互动中获得力量——仅仅只有一名甚至没有崇拜者的神圣可以像一位拥有数万亿崇拜者的神圣一样强大。然而，由于神圣不能直接干涉凡人事务的事实，一个强大而广泛的宗教，可以以神圣所不能的方式扩大神圣的影响。一位拥有大批崇拜者的神祗会看到祂的宗教传播，并且这种信仰的传播将直接转变为进入祂的国度的灵魂增加。随着时间的推移，那些崇拜者很少或根本没有崇拜者的神祗会看到祂们的国度被大涡流吞噬，祂们的军队在减少，祂们在神圣世界中的地位在衰弱。信仰也能满足神圣的情感需求，无论是一位以自我为中心的神祗感到自尊心增强了，一位外向的神祗感到被接受和受到欢迎，一位饥渴权力的神祗感到被畏惧，或是一位仁慈的神祗沐浴在祂的孩子和家人的爱中。
+
+有些神祗们对信仰不感兴趣。这些神圣们可能会寻求大范围的毁灭（比如[[拉瓦古格]]，祂的国度也是祂的监狱，并且祂会在其国度毁灭后被释放到多元宇宙中）或是作为所有事情都必有终结这一事实的表现而存在（比如[[格罗图斯]]，祂的“国度”就是祂悬在骨园高空之上的自身躯体）。此外还有外神——祂们的存在本身，就早于凡人所理解的“存在”这一概念。阿撒托斯，莎布-尼古拉斯，和犹格-索托斯这样的神圣古老得无法估量，祂们存在于边界之外并且完全不受信仰、灵魂和源质概念的限制。凡人仍然崇拜祂们，然而外神对这种崇拜没有什么兴趣，并且在许多情况下这些外神甚至可能根本不理解信仰的概念。在外神中，只有奈亚拉托提普对信仰的追求为这一惯例提供了一个奇异的、不祥的、令人不安的例外。
+
+== 神国 ==
+
+一位神圣可通过以下两种方式之一获得对一个位面的部分的权力。第一种是通过简单的征服。这类征服可能涉及庞大的军队、巧妙的计谋、狡猾的谍战、政治的诡计或其中任何的组合。无论采取何种形式，由此产生的战斗和对抗都是传奇的故事。
+
+秩序或善良的神祗们很少进行基于军事冲突的征服。位面是巨大的，对于目前由神圣统治的每一个位面来说，有成千上万——如果不是数百万——或更多的地点分布在位面上等待采摘时机的成熟。因此，对一位神圣来说宣传在位面上拥有一个国度的最常见的方法是挑战位面本身。神圣选择祂希望成为自己的国度，然后将祂的意志施加在这个国度上并重塑它以适应祂的需要。一位神圣与祂所选择的位面和区域类型关系越紧密，领土就越快转变为适合统治的国度。
+
+虽然半神的力量在其国度内是巨大的，但神祗的力量近乎是绝对真理。然而，即使在神祗的国度内，自由意志和不干涉的概念仍然存在。正如一位神圣让崇拜者自由表达他们的信仰，并按照他们的意愿设定自己的命运一样，祂也没有监督和管理其国度中生活的各个方面。这意味着非崇拜者，甚至是信仰的敌人，也可以穿越神祗的位面国度而不必担心立即遭到报复。
+
+一群冒险家中的一名圣武士正在执行进入深渊中[[拉玛什图]]国度的任务会感到不受欢迎，并遭遇到该地区居民的强烈抵抗，但不必害怕拉玛什图本尊的直接惩罚。类似地，一名崇拜魔鬼的祭祀渗透到极乐原野中[[凯登·凯连]]国度内的灵使的一块飞地去追捕一名从地狱深坑中逃脱的祈并者并不会立即被那被冒犯的神祗碾成粉末。只有最明显的入侵或是当一位神祗被直接呼唤出来或是一位神祗或半神的意志受到正面挑战时才会引起注意——然而即便如此，最常见的反应还是派遣一名强大的仆役来处理这种情况。
+
+== 核心万神殿 ==
+
+'''出自：'''《[[位面冒险]]》第 73 页
+
+内海地区最具影响力的神祗是探索者RPG[[核心规则手册]]中的20位神祗。在你自己设计的背景中，最具影响力和最重要的神祗完全取决于你。无论哪位神祗在你的背景中占据主导地位，你都应该花时间设计和详述你所选择的神祗和女神们的万神殿，无论是作为个体还是作为群体。下文总结了核心万神殿中每一位神祗的信息，为崇拜其中一位神祗的角色扮演者（以及GM的NPC们）提供更多信息。
+
+== 阅读一位神祗统计卡 ==
+
+<div class="rule-def longterm"><div class="rd-t">出自</div><div class="rd-b"><p>《[[位面冒险]]》第 73 页</p><p>下面以统计卡格式展示了核心万神殿的每一位神祗，以便于参考。</p></div></div>
+<div class="rule-def longterm"><div class="rd-t">尊名与头衔</div><div class="rd-b">该神祗的尊名与其常见头衔。</div></div>
+<div class="rule-def longterm"><div class="rd-t">阵营、性别、和关注领域</div><div class="rd-b">在本条目中，神祗的性别通过使用“神”或“女神”来表示。一位神祗的关注领域代表了那些祂最关注和有支配力的现实的各个方面。</div></div>
+<div class="rule-def longterm"><div class="rd-t">国度</div><div class="rd-b">这个条目给出了神祗国度的名称，之后跟随的是该国度所在的位面。</div></div>
+<div class="rule-def longterm"><div class="rd-t">盟友</div><div class="rd-b">本条目列出核心万神殿中与所述神祗或女神结盟的神祗。</div></div>
+<div class="rule-def longterm"><div class="rd-t">关系</div><div class="rd-b">如果该神祗以某种方式与核心万神殿的另一位神祗相关联，则该信息在此呈现。尽管许多神祗与核心万神殿之外的神祗或半神有关系，但这些关系并未在本书中列出。一种值得进一步阐明的关系是“登神兄弟姐妹”。三位核心神祗（[[凯登·凯连]]，[[艾奥梅黛]]，[[诺格巴]]）通过一项被称为星石试炼的痛苦探寻后从死亡中升神，尽管这三位神祗经常有分歧，由于三者都以同样的方式成为神祗祂们有着不可动摇的联系。</div></div>
+<div class="rule-def longterm"><div class="rd-t">敌人</div><div class="rd-b">本条目列出核心万神殿中与所述神祗或女神积极敌对的神祗。</div></div>
+<div class="rule-def longterm"><div class="rd-t">圣徽</div><div class="rd-b">对神祗圣徽的描述。</div></div>
+<div class="rule-def longterm"><div class="rd-t">神庙</div><div class="rd-b">这描述了典型的礼拜场所。</div></div>
+<div class="rule-def longterm"><div class="rd-t">神选动物</div><div class="rd-b">除了[[哥兹莱]]外（祂的信仰认为所有动物都是神圣的），每位核心神祗的信仰都认为一种特定的动物是特别神圣的。一位神祗的神选动物通常与神祗一起出现在艺术描绘中，而且有些还被作为宠物或守卫被饲养在神庙之地。</div></div>
+<div class="rule-def longterm"><div class="rd-t">神圣色彩</div><div class="rd-b">除了[[纱琳]]外（祂的信仰视所有色彩都是美丽且神圣的），核心万神殿的崇拜者们通常将每一位神祗关联的两种色彩视为神圣的。这些颜色通常被融入到崇拜者穿的圣衣或衣服中。</div></div>
+<div class="rule-def longterm"><div class="rd-t">圣日</div><div class="rd-b">这里列出的日子被信仰认为是特别神圣的，括号中列出了每一个日子对信仰意义重大的原因以及一年中圣日发生的时间。大多数信仰也会维持几个不太重要的或地区性的圣日，但这里没有列出。为了避免混淆，这些日期是使用现实中的日期和月份列出的。就像它们在格拉利昂世界中那样，日期和月份在你的战役中的名称可能会有所不同。</div></div>
+<div class="rule-def longterm"><div class="rd-t">领域，子域</div><div class="rd-b">这里列出了神祗授予祂的神职人员的领域和子域。</div></div>
+<div class="rule-def longterm"><div class="rd-t">偏好武器</div><div class="rd-b">这列出了神祗最喜欢的武器。</div></div>
+<div class="rule-def longterm"><div class="rd-t">信徒</div><div class="rd-b">这里列出的崇拜者清单是所提及的神祗最常见的代理人，但这个清单并不详尽。因为所有20种信仰都将[[牧师]]、[[审判者]]、[[先知]]和[[战斗祭司]]列为其崇拜者，所以这四类职业没有被列入名单，以避免重复。</div></div>
+<div class="rule-def longterm"><div class="rd-t">仆役</div><div class="rd-b">与那些一般的崇拜神祗者不同，仆役是通常为神祗服务的异界生物种族。一位神祗的仆役经常会出现在神庙和其他对神祗来说神圣的地方，但更多的时候，当一位神祗的崇拜者使用类似[[召唤怪物]]或[[异界盟友]]的法术召唤一名仆从时，他们进入剧本。</div></div>
+<div class="rule-def longterm"><div class="rd-t">神使</div><div class="rd-b">这列出了神祗的神使的名字。一位神祗的神使是作为信使和密使的独特生物。神使是典型的CR 15以及18或更低的生命骰，使得它们可以被[[高等异界盟友]]召唤（[[拉瓦古格]]的神使[[泰拉斯奎兽]]是这一规则的一个显著例外）。</div></div>
+<div class="rule-def longterm"><div class="rd-t">神赐</div><div class="rd-b">这些天赋是神祗可能准许的主题下的合适赐福，但肯定不是神祗可能给予的唯一类型的天赋。除非另有说明，任何由神赐获取的能力每个天赋仅能用1次。</div></div>
+
+=== 阿巴达尔 ===
+<div class="rule-facts">
+<span>'''原初宝库之主'''</span>
+<span>秩序中立</span>
+<span>城市、秩序、商人和财富之神</span>
+</div>
+<div class="rule-cols half">
+<div>
+<h4>神性</h4>
+<div class="rule-def tight"><div class="rd-t">国度</div><div class="rd-b">阿克顿，轴心城<small>（轴心城又称乌托邦）</small></div></div>
+<div class="rule-def tight"><div class="rd-t">盟友</div><div class="rd-b">[[阿斯莫迪斯]]，[[埃拉斯蒂尔]]，[[艾奥梅黛]]，[[义洛理]]，[[纱琳]]，[[托拉格]]</div></div>
+<div class="rule-def tight"><div class="rd-t">敌人</div><div class="rd-b">[[拉玛什图]]，[[诺格巴]]，[[拉瓦古格]]</div></div>
+</div>
+<div>
+<h4>宗教</h4>
+<div class="rule-def tight"><div class="rd-t">圣徽</div><div class="rd-b">金钥匙</div></div>
+<div class="rule-def tight"><div class="rd-t">神庙</div><div class="rd-b">银行，教堂，法院</div></div>
+<div class="rule-def tight"><div class="rd-t">神选动物</div><div class="rd-b">猴子</div></div>
+<div class="rule-def tight"><div class="rd-t">神圣色彩</div><div class="rd-b">金色和银色</div></div>
+<div class="rule-def tight"><div class="rd-t">圣日</div><div class="rd-b">市场开门日（秋市的祝福和年度市贸，秋收后的第一个集市日），纳税节（每年一度征收城市税、和公众领袖开公众宴会，日期因城市而定）</div></div>
+</div>
+<div>
+<h4>信仰</h4>
+<div class="rule-def tight"><div class="rd-t">领域</div><div class="rd-b">[[土领域|土]]，[[秩序领域|秩序]]，[[高贵领域|高贵]]，[[保护领域|保护]]，[[旅行领域|旅行]]</div></div>
+<div class="rule-def tight"><div class="rd-t">子域</div><div class="rd-b">[[保护领域#防御子域 (Defense)|防御]]，[[秩序领域#制裁子域 (Inevitable)|制裁]]，[[高贵领域#领导子域 (Leadership)|领导]]，[[高贵领域#殉难子域 (Martyr)|殉难]]，[[土领域#铁子域 (Metal)|铁]]，[[旅行领域#交易子域 (Trade)|交易]]</div></div>
+<div class="rule-def tight"><div class="rd-t">偏好武器</div><div class="rd-b">[[轻弩]]</div></div>
+<div class="rule-def tight"><div class="rd-t">信徒</div><div class="rd-b">建筑师，银行家，[[骑士]]，城卫，[[矮人]]，[[半身人]]，法官，律师，商人，[[武僧]]，[[圣武士]]，[[武士]]，[[法师]]</div></div>
+<div class="rule-def tight"><div class="rd-t">仆役</div><div class="rd-b">[[圣使绪论|圣使]]，[[奇匠族]]，[[制裁者绪论|制裁者]]</div></div>
+<div class="rule-def tight"><div class="rd-t">神使</div><div class="rd-b">律法携来者（一个巨型的黄金类魔像生物）</div></div>
+</div>
+</div>
+<div class="well">'''神赐'''：角色获得施展[[回返真言]]的能力作为一个类法术能力（施法者等级20级）。这个版本的回返真言可以传送该施法者穿越位面边界，但它仍然不能在阻碍传送效果的区域发挥作用。当一个角色获得此天赋，GM指定一个位于一座至少1000名居民的城镇中的阿巴达尔神庙作为法术的避难所。</div>
+
+=== 阿斯莫迪斯 ===
+<div class="rule-facts">
+<span>'''黑暗王子'''</span>
+<span>秩序邪恶</span>
+<span>契约、骄傲、奴役与暴政之神</span>
+</div>
+<div class="rule-cols half">
+<div>
+<h4>神性</h4>
+<div class="rule-def tight"><div class="rd-t">国度</div><div class="rd-b">奈瑟斯<small>（九层地狱最下一层，地狱的九层从上到下依次是阿弗纳斯，迪斯，埃雷布斯，弗莱格颂，斯泰吉亚，玛尔博吉，库西塔斯，卡尼亚与奈瑟斯）</small>，地狱</div></div>
+<div class="rule-def tight"><div class="rd-t">盟友</div><div class="rd-b">[[阿巴达尔]]</div></div>
+<div class="rule-def tight"><div class="rd-t">敌人</div><div class="rd-b">[[凯登·凯连]]，[[艾奥梅黛]]，[[义洛理]]，[[拉玛什图]]，[[拉瓦古格]]，[[塞恩蕾]]，[[纱琳]]</div></div>
+</div>
+<div>
+<h4>宗教</h4>
+<div class="rule-def tight"><div class="rd-t">圣徽</div><div class="rd-b">红色五芒星<small>（原文如此，不是倒五芒星）</small></div></div>
+<div class="rule-def tight"><div class="rd-t">神庙</div><div class="rd-b">大教堂，图书馆</div></div>
+<div class="rule-def tight"><div class="rd-t">神选动物</div><div class="rd-b">蛇</div></div>
+<div class="rule-def tight"><div class="rd-t">神圣色彩</div><div class="rd-b">黑和红</div></div>
+<div class="rule-def tight"><div class="rd-t">圣日</div><div class="rd-b">无，但许多崇拜者在善神的圣日庆祝，目的是亵渎神明</div></div>
+</div>
+<div>
+<h4>信仰</h4>
+<div class="rule-def tight"><div class="rd-t">领域</div><div class="rd-b">[[邪恶领域(领域)|邪恶]]，[[火领域|火]]，[[秩序领域|秩序]]，[[魔法领域|魔法]]，[[诡术领域|诡术]]</div></div>
+<div class="rule-def tight"><div class="rd-t">子域</div><div class="rd-b">[[魔法领域#奥秘子域 (Arcane)|奥秘]]，[[火领域#灰烬子域 (Ash)|灰烬]]，[[诡术领域#欺骗子域 (Deception)|欺骗]]，[[秩序领域#魔鬼子域 (Devil)|魔鬼]]，[[魔法领域#神力子域 (Divine)|神力]]，[[火领域#烟幕子域 (Smoke)|烟幕]]</div></div>
+<div class="rule-def tight"><div class="rd-t">偏好武器</div><div class="rd-b">[[重型硬头锤]]</div></div>
+<div class="rule-def tight"><div class="rd-t">信徒</div><div class="rd-b">[[炼金术师]]，[[奥能师]]，偏执狂，仗势欺人者，[[骑士]]，腐败贵族，魔鬼主义者，[[魔战士]]，[[催眠师]]，[[秘学士]]，[[盗贼]]，奴隶主，[[杀手]]，士兵，[[术士]]，[[召唤师]]，[[女巫]]，[[法师]]</div></div>
+<div class="rule-def tight"><div class="rd-t">仆役</div><div class="rd-b">[[三头地狱犬]]，[[魔鬼绪论|魔鬼]]（包括[[大魔鬼绪论|大魔鬼]]），[[地狱犬]]</div></div>
+<div class="rule-def tight"><div class="rd-t">神使</div><div class="rd-b">巴斯利乌斯（一个堕落的类天使生物）</div></div>
+</div>
+</div>
+<div class="well">'''神赐'''：阿斯莫迪斯在一个特定的任务上提供一个魔鬼的服务来援助（该服务持续时间不超过9晚）。魔鬼的类型通常是一个CR等同于该角色等级的魔鬼（如果是NPC的情况下，则是该角色的CR）。</div>
+
+=== 卡莉斯翠 ===
+<div class="rule-facts">
+<span>'''醉人蜂'''</span>
+<span>混乱中立</span>
+<span>欲望、复仇与诡计之女神</span>
+</div>
+<div class="rule-cols half">
+<div>
+<h4>神性</h4>
+<div class="rule-def tight"><div class="rd-t">国度</div><div class="rd-b">欺瞒与愉悦之庭院，极乐园野</div></div>
+<div class="rule-def tight"><div class="rd-t">盟友</div><div class="rd-b">[[凯登·凯连]]，[[黛丝娜]]，[[诺格巴]]，[[纱琳]]</div></div>
+<div class="rule-def tight"><div class="rd-t">关系</div><div class="rd-b">[[凯登·凯连]]断断续续的情人</div></div>
+<div class="rule-def tight"><div class="rd-t">敌人</div><div class="rd-b">[[拉瓦古格]]</div></div>
+</div>
+<div>
+<h4>宗教</h4>
+<div class="rule-def tight"><div class="rd-t">圣徽</div><div class="rd-b">三把从圆圈向外伸出的[[匕首]]</div></div>
+<div class="rule-def tight"><div class="rd-t">神庙</div><div class="rd-b">妓院，教堂，隐蔽所，公馆，酒馆</div></div>
+<div class="rule-def tight"><div class="rd-t">神选动物</div><div class="rd-b">黄蜂</div></div>
+<div class="rule-def tight"><div class="rd-t">神圣色彩</div><div class="rd-b">黑色和黄色</div></div>
+<div class="rule-def tight"><div class="rd-t">圣日</div><div class="rd-b">无，个别神庙都有自己的节日来纪念重大的复仇或欺骗行为</div></div>
+</div>
+<div>
+<h4>信仰</h4>
+<div class="rule-def tight"><div class="rd-t">领域</div><div class="rd-b">[[混乱领域|混乱]]，[[魅惑领域|魅惑]]，[[知识领域|知识]]，[[机运领域|机运]]，[[诡术领域|诡术]]</div></div>
+<div class="rule-def tight"><div class="rd-t">子域</div><div class="rd-b">[[善良领域#灵使子域 (Azata)|灵使]]，[[机运领域#诅咒子域 (Curse)|诅咒]]，[[诡术领域#欺骗子域 (Deception)|欺骗]]，[[魅惑领域#情欲子域 (Lust)|情欲]]，[[知识领域#记忆子域 (Memory)|记忆]]，[[诡术领域#盗窃子域 (Thievery)|盗窃]]</div></div>
+<div class="rule-def tight"><div class="rd-t">偏好武器</div><div class="rd-b">[[长鞭]]</div></div>
+<div class="rule-def tight"><div class="rd-t">信徒</div><div class="rd-b">[[反圣武士]]，复仇者，[[吟游诗人]]，[[精灵]]，[[枪手]]，享乐主义者，[[调查员]]，[[游侠]]，[[盗贼]]，[[杀手]]，[[游荡剑客]]，[[侠客]]</div></div>
+<div class="rule-def tight"><div class="rd-t">仆役</div><div class="rd-b">[[灵使绪论|灵使]]，[[混沌兽]]，empusa，精类生物，巨人，黄蜂，[[女武神]]</div></div>
+<div class="rule-def tight"><div class="rd-t">神使</div><div class="rd-b">蒙诺瑟瑞安（一只熊一般体型的黄蜂）</div></div>
+</div>
+</div>
+<div class="well">'''神赐'''：该角色可以施展瞬发[[支配人类]]（施法者等级20级）。如果目标的角色是因过去遭受羞辱或伤害而寻求报复的人，她可以增加这个类法术等同于她魅力调整值数的豁免DC。</div>
+
+=== 凯登·凯连 ===
+<div class="rule-facts">
+<span>'''酩酊侠'''</span>
+<span>混乱善良</span>
+<span>勇气、麦酒、自由和果酒之神</span>
+</div>
+<div class="rule-cols half">
+<div>
+<h4>神性</h4>
+<div class="rule-def tight"><div class="rd-t">国度</div><div class="rd-b">英雄之心，极乐园野<small>（混乱善良阵营大本营）</small></div></div>
+<div class="rule-def tight"><div class="rd-t">盟友</div><div class="rd-b">[[卡莉斯翠]]，[[黛丝娜]]，[[塞恩蕾]]，[[纱琳]]，[[托拉格]]</div></div>
+<div class="rule-def tight"><div class="rd-t">关系</div><div class="rd-b">[[卡莉斯翠]]断断续续的情人，[[艾奥梅黛]]登神姐妹，[[诺格巴]]登神兄弟</div></div>
+<div class="rule-def tight"><div class="rd-t">敌人</div><div class="rd-b">[[阿斯莫迪斯]]，[[诺格巴]]</div></div>
+</div>
+<div>
+<h4>宗教</h4>
+<div class="rule-def tight"><div class="rd-t">圣徽</div><div class="rd-b">麦酒杯</div></div>
+<div class="rule-def tight"><div class="rd-t">神庙</div><div class="rd-b">酒厂，酿酒场，酒馆</div></div>
+<div class="rule-def tight"><div class="rd-t">神选动物</div><div class="rd-b">猎犬</div></div>
+<div class="rule-def tight"><div class="rd-t">神圣色彩</div><div class="rd-b">银色和黄褐色</div></div>
+<div class="rule-def tight"><div class="rd-t">圣日</div><div class="rd-b">登神节（12月11日饮酒庆祝凯登·凯连登天成神），新酒节（通常在收获后的一个月左右社区一起品尝今年的新酒），愉悦蜜酒节（2月2日在篝火旁或酒吧闲逛时分享故事和饮品）</div></div>
+</div>
+<div>
+<h4>信仰</h4>
+<div class="rule-def tight"><div class="rd-t">领域</div><div class="rd-b">[[混乱领域|混乱]]，[[魅惑领域|魅惑]]，[[善良领域|善良]]，[[力量领域|力量]]，[[旅行领域|旅行]]</div></div>
+<div class="rule-def tight"><div class="rd-t">子域</div><div class="rd-b">[[善良领域#灵使子域 (Azata)|灵使]]，[[旅行领域#探索子域 (Exploration)|探索]]，[[力量领域#凶猛子域 (Ferocity)|凶猛]]，[[魅惑领域#爱慕子域 (Love)|爱慕]]，[[魅惑领域#情欲子域 (Lust)|情欲]]，[[力量领域#决意子域 (Resolve)|决意]]</div></div>
+<div class="rule-def tight"><div class="rd-t">偏好武器</div><div class="rd-b">[[细剑]]</div></div>
+<div class="rule-def tight"><div class="rd-t">信徒</div><div class="rd-b">冒险者，[[炼金术师]]，[[野蛮人]]，[[吟游诗人]]，[[调酒师]]，[[血脉狂怒者]]，[[拳师]]，醉汉，[[战士]]，[[枪手]]，[[半精灵]]，叛乱者，[[盗贼]]，[[歌者]]，[[游荡剑客]]，[[侠客]]</div></div>
+<div class="rule-def tight"><div class="rd-t">仆役</div><div class="rd-b">[[灵使绪论|灵使]]，精类生物</div></div>
+<div class="rule-def tight"><div class="rd-t">神使</div><div class="rd-b">泰依斯（一位五翼女性）</div></div>
+</div>
+</div>
+<div class="well">'''神赐'''：当该角色受到一个可以被[[解锢术]]阻止的影响时，他可以立即避免这种影响。他必须选择在效果出现时立即使用此天赋；如果他选择不使用天赋来避免这样的命运，他可以保存它来对抗未来的禁锢效果，但他不能使用它来逃避他选择不避免的持续效果。</div>
+
+=== 黛丝娜 ===
+<div class="rule-facts">
+<span>'''天籁之歌'''</span>
+<span>混乱善良</span>
+<span>梦境、机运、星辰和旅行之女神</span>
+</div>
+<div class="rule-cols half">
+<div>
+<h4>神性</h4>
+<div class="rule-def tight"><div class="rd-t">国度</div><div class="rd-b">极星庭和七重极星庭，极乐园野</div></div>
+<div class="rule-def tight"><div class="rd-t">盟友</div><div class="rd-b">[[卡莉斯翠]]，[[凯登·凯连]]，[[哥兹莱]]，[[塞恩蕾]]，[[纱琳]]</div></div>
+<div class="rule-def tight"><div class="rd-t">关系</div><div class="rd-b">[[塞恩蕾]]情人，[[纱琳]]情人</div></div>
+<div class="rule-def tight"><div class="rd-t">敌人</div><div class="rd-b">[[拉玛什图]]，[[拉瓦古格]]，[[宗-库松]]</div></div>
+</div>
+<div>
+<h4>宗教</h4>
+<div class="rule-def tight"><div class="rd-t">圣徽</div><div class="rd-b">翅膀有双星日月的蝴蝶</div></div>
+<div class="rule-def tight"><div class="rd-t">神庙</div><div class="rd-b">山顶，天文台，孤赏石，塔楼</div></div>
+<div class="rule-def tight"><div class="rd-t">神选动物</div><div class="rd-b">蝴蝶</div></div>
+<div class="rule-def tight"><div class="rd-t">神圣色彩</div><div class="rd-b">蓝色和白色</div></div>
+<div class="rule-def tight"><div class="rd-t">圣日</div><div class="rd-b">星屑祭（夏至和冬至，歌声之夜、篝火之夜、分享爱与友谊），蝴蝶放飞节（秋分，宴会、讲故事和公开释放一车蝴蝶的日子）</div></div>
+</div>
+<div>
+<h4>信仰</h4>
+<div class="rule-def tight"><div class="rd-t">领域</div><div class="rd-b">[[混乱领域|混乱]]，[[善良领域|善良]]，[[解放领域|解放]]，[[机运领域|机运]]，[[旅行领域|旅行]]</div></div>
+<div class="rule-def tight"><div class="rd-t">子域</div><div class="rd-b">[[善良领域#灵使子域 (Azata)|灵使]]，[[机运领域#诅咒子域 (Curse)|诅咒]]，[[旅行领域#探索子域 (Exploration)|探索]]，[[机运领域#天命子域 (Fate)|天命]]，[[解放领域#自由子域 (Freedom)|自由]]，[[解放领域#革命子域 (Revolution)|革命]]</div></div>
+<div class="rule-def tight"><div class="rd-t">偏好武器</div><div class="rd-b">[[星刃]]</div></div>
+<div class="rule-def tight"><div class="rd-t">信徒</div><div class="rd-b">天文学家，[[野蛮人]]，[[吟游诗人]]，梦想家，[[精灵]]，探险家，[[赌徒]]，[[通灵者]]，[[异能者]]，[[游侠]]，[[盗贼]]，[[萨满]]，[[变形者]]，[[术士]]，旅行者，[[女巫]]</div></div>
+<div class="rule-def tight"><div class="rd-t">仆役</div><div class="rd-b">外星人，[[灵使绪论|灵使]]</div></div>
+<div class="rule-def tight"><div class="rd-t">神使</div><div class="rd-b">黑夜帝王（一只巨大的蛾状生物）</div></div>
+</div>
+</div>
+<div class="well">'''神赐'''：该角色获得20点幸运点数并可以在任何时候以一个[[自由动作]]以1对1的方式增加一个单独的d20骰的骰点结果。只要她还保留幸运点数那么该能力可以根据角色意愿使用如此多的次数来花费这些点数，但是仅仅是每骰1次。这些幸运点数可以在掷骰结果确定后使用，但必须立即使用，否则将失去调整该掷骰幸运的机会。</div>
+
+=== 埃拉斯蒂尔 ===
+<div class="rule-facts">
+<span>'''远古神射手'''</span>
+<span>秩序善良</span>
+<span>家庭、农业、狩猎和贸易之神</span>
+</div>
+<div class="rule-cols half">
+<div>
+<h4>神性</h4>
+<div class="rule-def tight"><div class="rd-t">国度</div><div class="rd-b">仲夏之地，七重天堂<small>（外层位面中秩序善良大本营）</small></div></div>
+<div class="rule-def tight"><div class="rd-t">盟友</div><div class="rd-b">[[阿巴达尔]]，[[哥兹莱]]，[[纱琳]]，[[托拉格]]</div></div>
+<div class="rule-def tight"><div class="rd-t">敌人</div><div class="rd-b">[[厄加图娅]]</div></div>
+</div>
+<div>
+<h4>宗教</h4>
+<div class="rule-def tight"><div class="rd-t">圣徽</div><div class="rd-b">弓和箭</div></div>
+<div class="rule-def tight"><div class="rd-t">神庙</div><div class="rd-b">谷仓，休耕地，狩猎小屋，长屋，市政厅，村庄广场</div></div>
+<div class="rule-def tight"><div class="rd-t">神选动物</div><div class="rd-b">牡鹿</div></div>
+<div class="rule-def tight"><div class="rd-t">神圣色彩</div><div class="rd-b">棕色和绿色</div></div>
+<div class="rule-def tight"><div class="rd-t">圣日</div><div class="rd-b">神箭祭（7月3日一天的盛宴和友好的竞赛）</div></div>
+</div>
+<div>
+<h4>信仰</h4>
+<div class="rule-def tight"><div class="rd-t">领域</div><div class="rd-b">[[动物领域|动物]]，[[团队领域|团队]]，[[善良领域|善良]]，[[秩序领域|秩序]]，[[植物领域|植物]]</div></div>
+<div class="rule-def tight"><div class="rd-t">子域</div><div class="rd-b">[[善良领域#圣使子域 (Archon)|圣使]]，[[团队领域#家族子域 (Family)|家族]]，[[动物领域#飞羽子域 (Feather)|飞羽]]，[[动物领域#毛兽子域 (Fur)|毛兽]]，[[植物领域#滋长子域 (Growth)|滋长]]，[[团队领域#家园子域 (Home)|家园]]</div></div>
+<div class="rule-def tight"><div class="rd-t">偏好武器</div><div class="rd-b">[[长弓]]</div></div>
+<div class="rule-def tight"><div class="rd-t">信徒</div><div class="rd-b">农民，[[战士]]，[[半身人]]，[[猎人]]，[[圣武士]]，[[游侠]]，移民，[[变形者]]，[[歌者]]，[[唤魂师]]，贸易商，[[陷阱师]]</div></div>
+<div class="rule-def tight"><div class="rd-t">仆役</div><div class="rd-b">[[圣使绪论|圣使]]，植物类生物，野生动物</div></div>
+<div class="rule-def tight"><div class="rd-t">神使</div><div class="rd-b">凄清白牡鹿（一只由血肉和植物组成的雄鹿）</div></div>
+</div>
+</div>
+<div class="well">'''神赐'''：该角色获得三支高等[[杀戮箭]]。这三支箭的指定生物由GM决定。如果这些高等杀戮箭被出售则它们的魔力会消失，但它们可以作为私人财产或礼物送给其他人。如果一个埃拉斯蒂尔的崇拜者发射了一支这种高等杀戮箭但是没有命中，那么这支箭就会消失，并且一支同样类型的杀戮箭会出现在获天赋者的箭袋中。如果这个普通的杀戮箭在随后被发射，只要失手它的目标，它有50%的几率丢失，就像正常情况一样。</div>
+
+=== 古拉姆 ===
+<div class="rule-facts">
+<span>'''钢铁雄主'''</span>
+<span>混乱中立</span>
+<span>战争、力量和武器之神</span>
+</div>
+<div class="rule-cols half">
+<div>
+<h4>神性</h4>
+<div class="rule-def tight"><div class="rd-t">国度</div><div class="rd-b">冲突海岸，极乐园野</div></div>
+<div class="rule-def tight"><div class="rd-t">盟友</div><div class="rd-b">无，</div></div>
+<div class="rule-def tight"><div class="rd-t">敌人</div><div class="rd-b">[[诺格巴]]，[[厄加图娅]]</div></div>
+</div>
+<div>
+<h4>宗教</h4>
+<div class="rule-def tight"><div class="rd-t">圣徽</div><div class="rd-b">穿山之剑</div></div>
+<div class="rule-def tight"><div class="rd-t">神庙</div><div class="rd-b">军械库，战场，要塞</div></div>
+<div class="rule-def tight"><div class="rd-t">神选动物</div><div class="rd-b">[[犀牛]]</div></div>
+<div class="rule-def tight"><div class="rd-t">神圣色彩</div><div class="rd-b">灰色和红色</div></div>
+<div class="rule-def tight"><div class="rd-t">圣日</div><div class="rd-b">无，一些崇拜者会临时定下圣日</div></div>
+</div>
+<div>
+<h4>信仰</h4>
+<div class="rule-def tight"><div class="rd-t">领域</div><div class="rd-b">[[混乱领域|混乱]]，[[毁灭领域|毁灭]]，[[荣耀领域|荣耀]]，[[力量领域|力量]]，[[战争领域|战争]]</div></div>
+<div class="rule-def tight"><div class="rd-t">子域</div><div class="rd-b">[[战争领域#鲜血子域 (Blood)|鲜血]]，[[力量领域#凶猛子域 (Ferocity)|凶猛]]，[[混乱领域#幻蛇子域 (Protean)|幻蛇]]，[[毁灭领域#狂暴子域 (Rage)|狂暴]]，[[力量领域#决意子域 (Resolve)|决意]]，[[战争领域#战术子域 (Tactics)|战术]]</div></div>
+<div class="rule-def tight"><div class="rd-t">偏好武器</div><div class="rd-b">[[巨剑]]</div></div>
+<div class="rule-def tight"><div class="rd-t">信徒</div><div class="rd-b">[[野蛮人]]，[[血脉狂怒者]]，[[拳师]]，[[骑士]]，[[战士]]，[[半兽人]]，雇佣兵，[[歌者]]，铁匠，士兵</div></div>
+<div class="rule-def tight"><div class="rd-t">仆役</div><div class="rd-b">巨人，[[幻蛇绪论|幻蛇]]，[[女武神]]</div></div>
+<div class="rule-def tight"><div class="rd-t">神使</div><div class="rd-b">最初之刃（一个穿着盔甲的巨人）</div></div>
+</div>
+</div>
+<div class="well">'''神赐'''：[[古拉姆]]授予一个永久的+1无名加值在力量上。</div>
+
+=== 哥兹莱 ===
+<div class="rule-facts">
+<span>'''风澜'''</span>
+<span>绝对中立</span>
+<span>自然、海洋和天气之神</span>
+</div>
+<div class="rule-cols half">
+<div>
+<h4>神性</h4>
+<div class="rule-def tight"><div class="rd-t">国度</div><div class="rd-b">游牧，物质位面</div></div>
+<div class="rule-def tight"><div class="rd-t">盟友</div><div class="rd-b">[[黛丝娜]]，[[埃拉斯蒂尔]]</div></div>
+<div class="rule-def tight"><div class="rd-t">敌人</div><div class="rd-b">[[拉瓦古格]]，[[厄加图娅]]</div></div>
+</div>
+<div>
+<h4>宗教</h4>
+<div class="rule-def tight"><div class="rd-t">圣徽</div><div class="rd-b">滴水的叶子</div></div>
+<div class="rule-def tight"><div class="rd-t">神庙</div><div class="rd-b">美丽的自然奇观区，灯塔，磨坊，孤赏石，风车</div></div>
+<div class="rule-def tight"><div class="rd-t">神选动物</div><div class="rd-b">全部</div></div>
+<div class="rule-def tight"><div class="rd-t">神圣色彩</div><div class="rd-b">蓝色和绿色</div></div>
+<div class="rule-def tight"><div class="rd-t">圣日</div><div class="rd-b">海潮礼（4月7日，为迎接新年禁食一天，并祈祷水上通行平安），初蕾节（春分，用舞蹈和生育仪式来庆祝即将到来的春天）</div></div>
+</div>
+<div>
+<h4>信仰</h4>
+<div class="rule-def tight"><div class="rd-t">领域</div><div class="rd-b">[[气领域|气]]，[[动物领域|动物]]，[[植物领域|植物]]，[[水领域|水]]，[[天气领域|天气]]</div></div>
+<div class="rule-def tight"><div class="rd-t">子域</div><div class="rd-b">[[气领域#云子域 (Cloud)|云]]，[[植物领域#腐朽子域 (Decay)|腐朽]]，[[植物领域#滋长子域 (Growth)|滋长]]，[[水领域#海子域 (Oceans)|海]]，[[天气领域#季节子域 (Seasons)|季节]]，[[气领域#风子域 (Wind)|风]]</div></div>
+<div class="rule-def tight"><div class="rd-t">偏好武器</div><div class="rd-b">[[三叉戟]]</div></div>
+<div class="rule-def tight"><div class="rd-t">信徒</div><div class="rd-b">[[德鲁伊]]，[[侏儒]]，隐士，[[猎人]]，探险家，[[操念使]]，[[游侠]]，[[萨满]]，[[变形者]]，[[术士]]，[[求生者]]，[[女巫]]</div></div>
+<div class="rule-def tight"><div class="rd-t">仆役</div><div class="rd-b">动物，元素，植物类生物</div></div>
+<div class="rule-def tight"><div class="rd-t">神使</div><div class="rd-b">愤怒具像（一个全部四种类型元素的混合体）</div></div>
+</div>
+</div>
+<div class="well">'''神赐'''：接受者获得通过后文类法术能力（施法者等级20级）之一来呼唤[[自然之怒]]：[[地震术]]，[[复仇风暴]]，[[津波]]或[[旋风术]]。</div>
+
+=== 艾奥梅黛 ===
+<div class="rule-facts">
+<span>'''后继者'''</span>
+<span>秩序善良</span>
+<span>荣誉、正义、统治和勇气之女神</span>
+</div>
+<div class="rule-cols half">
+<div>
+<h4>神性</h4>
+<div class="rule-def tight"><div class="rd-t">国度</div><div class="rd-b">剑居，七重天堂</div></div>
+<div class="rule-def tight"><div class="rd-t">盟友</div><div class="rd-b">[[阿巴达尔]]，[[塞恩蕾]]，[[托拉格]]</div></div>
+<div class="rule-def tight"><div class="rd-t">关系</div><div class="rd-b">[[凯登·凯连]]登神兄弟，[[诺格巴]]登神兄弟</div></div>
+<div class="rule-def tight"><div class="rd-t">敌人</div><div class="rd-b">[[阿斯莫迪斯]]，[[诺格巴]]，[[拉玛什图]]</div></div>
+</div>
+<div>
+<h4>宗教</h4>
+<div class="rule-def tight"><div class="rd-t">圣徽</div><div class="rd-b">剑与太阳</div></div>
+<div class="rule-def tight"><div class="rd-t">神庙</div><div class="rd-b">城堡，主教堂，教堂</div></div>
+<div class="rule-def tight"><div class="rd-t">神选动物</div><div class="rd-b">[[狮子]]</div></div>
+<div class="rule-def tight"><div class="rd-t">神圣色彩</div><div class="rd-b">红色和白色</div></div>
+<div class="rule-def tight"><div class="rd-t">圣日</div><div class="rd-b">阿玛瑟节（8月16日一个专门训练新兵和研究历史的日子），登神节（10月6日一个歌唱和宽恕旧怨的日子以纪念艾奥梅黛的升神），纪念月（5月的第一个满月对过去十字军东征中战斗过的人的忧郁庆祝）</div></div>
+</div>
+<div>
+<h4>信仰</h4>
+<div class="rule-def tight"><div class="rd-t">领域</div><div class="rd-b">[[荣耀领域|荣耀]]，[[善良领域|善良]]，[[秩序领域|秩序]]，[[太阳领域|太阳]]，[[战争领域|战争]]</div></div>
+<div class="rule-def tight"><div class="rd-t">子域</div><div class="rd-b">[[善良领域#圣使子域 (Archon)|圣使]]，[[太阳领域#白昼子域 (Day)|白昼]]，[[荣耀领域#英勇子域 (Heroism)|英勇]]，[[荣耀领域#诚实子域 (Honor)|诚实]]，[[太阳领域#光明子域 (Light)|光明]]，[[战争领域#战术子域 (Tactics)|战术]]</div></div>
+<div class="rule-def tight"><div class="rd-t">偏好武器</div><div class="rd-b">[[长剑]]</div></div>
+<div class="rule-def tight"><div class="rd-t">信徒</div><div class="rd-b">[[望族]]，[[骑士]]，十字军，[[战士]]，骑士，法官，[[通灵者]]，[[武僧]]，[[圣武士]]，统治者，士兵</div></div>
+<div class="rule-def tight"><div class="rd-t">仆役</div><div class="rd-b">[[天使绪论|天使]]，[[圣使绪论|圣使]]，[[拉玛苏]]</div></div>
+<div class="rule-def tight"><div class="rd-t">神使</div><div class="rd-b">后继者之手（一位金肤天使）</div></div>
+</div>
+</div>
+<div class="well">'''神赐'''：通过花费10分钟向艾奥梅黛祈祷（这可以发生在每日准备法术的过程中），一个角色可以对他自己激活一个[[圣洁灵光]]或[[秩序护盾]]效果（施法者等级20级）并持续12小时。</div>
+
+=== 义洛理 ===
+<div class="rule-facts">
+<span>'''宗师'''</span>
+<span>秩序中立</span>
+<span>历史、知识和自我完善之神</span>
+</div>
+<div class="rule-cols half">
+<div>
+<h4>神性</h4>
+<div class="rule-def tight"><div class="rd-t">国度</div><div class="rd-b">宁静之环，轴心城<small>（轴心城又称乌托邦）</small></div></div>
+<div class="rule-def tight"><div class="rd-t">盟友</div><div class="rd-b">[[阿巴达尔]]</div></div>
+<div class="rule-def tight"><div class="rd-t">敌人</div><div class="rd-b">[[阿斯莫迪斯]]，[[诺格巴]]</div></div>
+</div>
+<div>
+<h4>宗教</h4>
+<div class="rule-def tight"><div class="rd-t">圣徽</div><div class="rd-b">蓝手</div></div>
+<div class="rule-def tight"><div class="rd-t">神庙</div><div class="rd-b">道馆，战斗学院，图书馆，修道院</div></div>
+<div class="rule-def tight"><div class="rd-t">神选动物</div><div class="rd-b">蜗牛</div></div>
+<div class="rule-def tight"><div class="rd-t">神圣色彩</div><div class="rd-b">蓝色和白色</div></div>
+<div class="rule-def tight"><div class="rd-t">圣日</div><div class="rd-b">不同地区的节日</div></div>
+</div>
+<div>
+<h4>信仰</h4>
+<div class="rule-def tight"><div class="rd-t">领域</div><div class="rd-b">[[医疗领域|医疗]]，[[知识领域|知识]]，[[秩序领域|秩序]]，[[符文领域|符文]]，[[力量领域|力量]]</div></div>
+<div class="rule-def tight"><div class="rd-t">子域</div><div class="rd-b">[[秩序领域#制裁子域 (Inevitable)|制裁]]，[[符文领域#语言子域 (Language)|语言]]，[[知识领域#记忆子域 (Memory)|记忆]]，[[力量领域#决意子域 (Resolve)|决意]]，[[医疗领域#复原子域 (Restoration)|复原]]，[[知识领域#思想子域 (Thought)|思想]]</div></div>
+<div class="rule-def tight"><div class="rd-t">偏好武器</div><div class="rd-b">[[徒手打击]]</div></div>
+<div class="rule-def tight"><div class="rd-t">信徒</div><div class="rd-b">[[奥能师]]，[[吟游诗人]]，[[拳师]]，隐士，历史学家，[[调查员]]，[[操念使]]，[[武师]]，[[催眠师]]，[[武僧]]，[[圣武士]]，[[异能者]]，[[武士]]，学者，[[法师]]</div></div>
+<div class="rule-def tight"><div class="rd-t">仆役</div><div class="rd-b">[[御衡者绪论|御衡者]]，[[守护娜迦]]，[[制裁者绪论|制裁者]]</div></div>
+<div class="rule-def tight"><div class="rd-t">神使</div><div class="rd-b">老衲（一位年老而精力充沛的[[人类]]）</div></div>
+</div>
+</div>
+<div class="well">'''神赐'''：义洛理授予一个永久的+1无名加值在体质上。</div>
+
+=== 拉玛什图 ===
+<div class="rule-facts">
+<span>'''怪物之母'''</span>
+<span>混乱邪恶</span>
+<span>疯狂、怪兽与噩梦之女神</span>
+</div>
+<div class="rule-cols half">
+<div>
+<h4>神性</h4>
+<div class="rule-def tight"><div class="rd-t">国度</div><div class="rd-b">库尔努吉亚<small>（库尔努吉亚是苏美尔神话中冥界女王埃列什基伽勒的领土，意为“不归之地”）</small>，深渊</div></div>
+<div class="rule-def tight"><div class="rd-t">盟友</div><div class="rd-b">无，</div></div>
+<div class="rule-def tight"><div class="rd-t">敌人</div><div class="rd-b">[[阿巴达尔]]，[[阿斯莫迪斯]]，[[黛丝娜]]，[[艾奥梅黛]]，[[拉瓦古格]]，[[塞恩蕾]]</div></div>
+</div>
+<div>
+<h4>宗教</h4>
+<div class="rule-def tight"><div class="rd-t">圣徽</div><div class="rd-b">三眼胡狼脸</div></div>
+<div class="rule-def tight"><div class="rd-t">神庙</div><div class="rd-b">被遗弃的孤儿院，洞穴，毁坏的建筑物</div></div>
+<div class="rule-def tight"><div class="rd-t">神选动物</div><div class="rd-b">胡狼<small>（也可译作豺狼，但拉玛什图的形象是埃及风格的胡狼头，所以取胡狼）</small></div></div>
+<div class="rule-def tight"><div class="rd-t">神圣色彩</div><div class="rd-b">红色和黄色</div></div>
+<div class="rule-def tight"><div class="rd-t">圣日</div><div class="rd-b">苍白之夜（12月31日残酷狂欢之夜）</div></div>
+</div>
+<div>
+<h4>信仰</h4>
+<div class="rule-def tight"><div class="rd-t">领域</div><div class="rd-b">[[混乱领域|混乱]]，[[邪恶领域(领域)|邪恶]]，[[狂乱领域|狂乱]]，[[力量领域|力量]]，[[诡术领域|诡术]]</div></div>
+<div class="rule-def tight"><div class="rd-t">子域</div><div class="rd-b">[[诡术领域#欺骗子域 (Deception)|欺骗]]，[[混乱领域#恶魔子域 (Demon)|恶魔]]，[[力量领域#凶猛子域 (Ferocity)|凶猛]]，[[狂乱领域#疯狂子域 (Insanity)|疯狂]]，[[狂乱领域#梦魇子域 (Nightmare)|梦魇]]，[[诡术领域#盗窃子域 (Thievery)|盗窃]]</div></div>
+<div class="rule-def tight"><div class="rd-t">偏好武器</div><div class="rd-b">[[弯刃大刀]]</div></div>
+<div class="rule-def tight"><div class="rd-t">信徒</div><div class="rd-b">[[炼金术师]]，[[反圣武士]]，[[野蛮人]]，[[血脉狂怒者]]，被抛弃的畸形者，恶魔崇拜者，[[猎人]]，狂人，[[秘学士]]，[[变形者]]，[[术士]]，[[召唤师]]，[[女巫]]</div></div>
+<div class="rule-def tight"><div class="rd-t">仆役</div><div class="rd-b">[[犬魔]]，[[恶魔绪论|恶魔]]，[[夜嘶猎犬]]</div></div>
+<div class="rule-def tight"><div class="rd-t">神使</div><div class="rd-b">耶扎兹玛瑞（一个蛇尾豺狼样子的可憎者）<small>（原文泛指邪恶的异界生物；恶魔、魔鬼已是专名，所以这里译作可憎者）</small></div></div>
+</div>
+</div>
+<div class="well">'''神赐'''：接受者可以以一个[[整轮动作]]从她的身体中涌出一个仆从怪物。怪物将角色视为母亲并遵守她的一般的指令，虽然它不能被直接控制。怪物的准确类型由GM选择，但通常是CR等于角色等级的怪物（或者在NPC的情况下，是角色自己的CR）。怪物可存活9天，之后在一场壮观的血雨中死去。</div>
+
+=== 内希斯 ===
+<div class="rule-facts">
+<span>'''全知之眼'''</span>
+<span>绝对中立</span>
+<span>魔法之神</span>
+</div>
+<div class="rule-cols half">
+<div>
+<h4>神性</h4>
+<div class="rule-def tight"><div class="rd-t">国度</div><div class="rd-b">阿卡内夫蒂，大漩涡</div></div>
+<div class="rule-def tight"><div class="rd-t">盟友</div><div class="rd-b">无，</div></div>
+<div class="rule-def tight"><div class="rd-t">敌人</div><div class="rd-b">无，</div></div>
+</div>
+<div>
+<h4>宗教</h4>
+<div class="rule-def tight"><div class="rd-t">圣徽</div><div class="rd-b">双色面具</div></div>
+<div class="rule-def tight"><div class="rd-t">神庙</div><div class="rd-b">主教堂，图书馆，塔楼</div></div>
+<div class="rule-def tight"><div class="rd-t">神选动物</div><div class="rd-b">斑马</div></div>
+<div class="rule-def tight"><div class="rd-t">神圣色彩</div><div class="rd-b">黑色和白色</div></div>
+<div class="rule-def tight"><div class="rd-t">圣日</div><div class="rd-b">防护节（11月8日传统的学徒测试日），塑能节（11月18日烟花节和法术贸易节），变化节（11月28日反思之日）</div></div>
+</div>
+<div>
+<h4>信仰</h4>
+<div class="rule-def tight"><div class="rd-t">领域</div><div class="rd-b">[[毁灭领域|毁灭]]，[[知识领域|知识]]，[[魔法领域|魔法]]，[[保护领域|保护]]，[[符文领域|符文]]</div></div>
+<div class="rule-def tight"><div class="rd-t">子域</div><div class="rd-b">[[魔法领域#奥秘子域 (Arcane)|奥秘]]，[[毁灭领域#天灾子域 (Catastrophe)|天灾]]，[[魔法领域#神力子域 (Divine)|神力]]，[[保护领域#防御子域 (Defense)|防御]]，[[知识领域#思想子域 (Thought)|思想]]，[[符文领域#守护子域 (Wards)|守护]]</div></div>
+<div class="rule-def tight"><div class="rd-t">偏好武器</div><div class="rd-b">[[木棍]]</div></div>
+<div class="rule-def tight"><div class="rd-t">信徒</div><div class="rd-b">[[炼金术师]]，[[奥能师]]，[[吟游诗人]]，[[操念使]]，[[魔战士]]，[[通灵者]]，[[催眠师]]，[[秘学士]]，[[异能者]]，[[歌者]]，施法者，抄写员，[[术士]]，[[召唤师]]，教师，[[女巫]]，[[法师]]</div></div>
+<div class="rule-def tight"><div class="rd-t">仆役</div><div class="rd-b">[[御衡者绪论|御衡者]]，元素，斯芬克斯</div></div>
+<div class="rule-def tight"><div class="rd-t">神使</div><div class="rd-b">奥法主宰</div></div>
+</div>
+</div>
+<div class="well">'''神赐'''：[[内希斯]]授予一个永久的+1无名加值在智力上。</div>
+
+=== 诺格巴 ===
+<div class="rule-facts">
+<span>'''名誉抹除者'''</span>
+<span>中立邪恶</span>
+<span>贪婪、谋杀、毒药与秘密之神</span>
+</div>
+<div class="rule-cols half">
+<div>
+<h4>神性</h4>
+<div class="rule-def tight"><div class="rd-t">国度</div><div class="rd-b">黄昏之渊，轴心城<small>（轴心城又称乌托邦）</small></div></div>
+<div class="rule-def tight"><div class="rd-t">盟友</div><div class="rd-b">[[卡莉斯翠]]</div></div>
+<div class="rule-def tight"><div class="rd-t">关系</div><div class="rd-b">[[凯登·凯连]]登神兄弟，[[艾奥梅黛]]登神姐妹</div></div>
+<div class="rule-def tight"><div class="rd-t">敌人</div><div class="rd-b">[[阿巴达尔]]，[[凯登·凯连]]，[[艾奥梅黛]]，[[义洛理]]，[[古拉姆]]</div></div>
+</div>
+<div>
+<h4>宗教</h4>
+<div class="rule-def tight"><div class="rd-t">圣徽</div><div class="rd-b">独眼面罩</div></div>
+<div class="rule-def tight"><div class="rd-t">神庙</div><div class="rd-b">隐藏的建筑群，盗贼工会，仓库</div></div>
+<div class="rule-def tight"><div class="rd-t">神选动物</div><div class="rd-b">蜘蛛</div></div>
+<div class="rule-def tight"><div class="rd-t">神圣色彩</div><div class="rd-b">黑色和灰色</div></div>
+<div class="rule-def tight"><div class="rd-t">圣日</div><div class="rd-b">登神日（传统上在冬至礼拜庆祝诺格巴升神）</div></div>
+</div>
+<div>
+<h4>信仰</h4>
+<div class="rule-def tight"><div class="rd-t">领域</div><div class="rd-b">[[魅惑领域|魅惑]]，[[死亡领域|死亡]]，[[邪恶领域(领域)|邪恶]]，[[知识领域|知识]]，[[诡术领域|诡术]]</div></div>
+<div class="rule-def tight"><div class="rd-t">子域</div><div class="rd-b">邪魔，[[诡术领域#欺骗子域 (Deception)|欺骗]]，[[知识领域#记忆子域 (Memory)|记忆]]，[[死亡领域#杀戮子域 (Murder)|杀戮]]，[[诡术领域#盗窃子域 (Thievery)|盗窃]]，[[知识领域#思想子域 (Thought)|思想]]</div></div>
+<div class="rule-def tight"><div class="rd-t">偏好武器</div><div class="rd-b">[[短剑]]</div></div>
+<div class="rule-def tight"><div class="rd-t">信徒</div><div class="rd-b">[[炼金术师]]，[[反圣武士]]，[[吟游诗人]]，腐败商人和银行家，[[战士]]，[[调查员]]，[[魔战士]]，[[催眠师]]，谋杀者，[[忍者]]，[[秘学士]]，毒师，[[盗贼]]，[[杀手]]，[[游荡剑客]]，小偷，[[侠客]]，[[法师]]</div></div>
+<div class="rule-def tight"><div class="rd-t">仆役</div><div class="rd-b">[[女郎蜘蛛]]，[[噬魂者]]，[[锡尔族]]</div></div>
+<div class="rule-def tight"><div class="rd-t">神使</div><div class="rd-b">钉刺恶兽（一个类蝎的人型生物）</div></div>
+</div>
+</div>
+<div class="well">'''神赐'''：诺格巴授予一个永久的+1无名加值在敏捷上。</div>
+
+=== 法莱斯玛 ===
+<div class="rule-facts">
+<span>'''墓土女士'''</span>
+<span>绝对中立</span>
+<span>生育、死亡、命运和预言之女神</span>
+</div>
+<div class="rule-cols half">
+<div>
+<h4>神性</h4>
+<div class="rule-def tight"><div class="rd-t">国度</div><div class="rd-b">骨园<small>（即判魂炼地）</small></div></div>
+<div class="rule-def tight"><div class="rd-t">盟友</div><div class="rd-b">无，</div></div>
+<div class="rule-def tight"><div class="rd-t">敌人</div><div class="rd-b">[[厄加图娅]]</div></div>
+</div>
+<div>
+<h4>宗教</h4>
+<div class="rule-def tight"><div class="rd-t">圣徽</div><div class="rd-b">螺旋彗星</div></div>
+<div class="rule-def tight"><div class="rd-t">神庙</div><div class="rd-b">主教堂，墓地，河心岛屿</div></div>
+<div class="rule-def tight"><div class="rd-t">神选动物</div><div class="rd-b">三声夜鹰（见于北美）</div></div>
+<div class="rule-def tight"><div class="rd-t">神圣色彩</div><div class="rd-b">蓝色和白色</div></div>
+<div class="rule-def tight"><div class="rd-t">圣日</div><div class="rd-b">白骨节（3月5日展示死者和免费安葬死者日）</div></div>
+</div>
+<div>
+<h4>信仰</h4>
+<div class="rule-def tight"><div class="rd-t">领域</div><div class="rd-b">[[死亡领域|死亡]]，[[医疗领域|医疗]]，[[知识领域|知识]]，[[安眠领域|安眠]]，[[水领域|水]]</div></div>
+<div class="rule-def tight"><div class="rd-t">子域</div><div class="rd-b">[[安眠领域#先祖子域 (Ancestors)|先祖]]，[[水领域#冰子域 (Ice)|冰]]，[[知识领域#记忆子域 (Memory)|记忆]]，[[医疗领域#回生子域 (Resurrection)|回生]]，[[安眠领域#灵魂子域 (Souls)|灵魂]]，[[知识领域#思想子域 (Thought)|思想]]</div></div>
+<div class="rule-def tight"><div class="rd-t">偏好武器</div><div class="rd-b">[[匕首]]</div></div>
+<div class="rule-def tight"><div class="rd-t">信徒</div><div class="rd-b">掘墓人，[[通灵者]]，助产士，[[秘学士]]，哲学家，先知，[[异能者]]，[[萨满]]，[[术士]]，[[唤魂师]]，[[女巫]]</div></div>
+<div class="rule-def tight"><div class="rd-t">仆役</div><div class="rd-b">[[英灵]]，[[织命女]]，[[渡魂使绪论|渡魂使]]</div></div>
+<div class="rule-def tight"><div class="rd-t">神使</div><div class="rd-b">纺纱执事（一位着甲、有翼、无面的女性）</div></div>
+</div>
+</div>
+<div class="well">'''神赐'''：接受者不会受到下一次效果、伤害或其他可能导致死亡的事件影响。</div>
+
+=== 拉瓦古格 ===
+<div class="rule-facts">
+<span>'''毁天巨兽'''</span>
+<span>混乱邪恶</span>
+<span>毁灭、愤怒和灾难之神</span>
+</div>
+<div class="rule-cols half">
+<div>
+<h4>神性</h4>
+<div class="rule-def tight"><div class="rd-t">国度</div><div class="rd-b">死亡墓室</div></div>
+<div class="rule-def tight"><div class="rd-t">盟友</div><div class="rd-b">无，</div></div>
+<div class="rule-def tight"><div class="rd-t">敌人</div><div class="rd-b">[[阿巴达尔]]，[[阿斯莫迪斯]]，[[卡莉斯翠]]，[[黛丝娜]]，[[哥兹莱]]，[[拉玛什图]]，[[塞恩蕾]]，[[纱琳]]，[[托拉格]]，[[宗-库松]]</div></div>
+</div>
+<div>
+<h4>宗教</h4>
+<div class="rule-def tight"><div class="rd-t">圣徽</div><div class="rd-b">张开的大口被蜘蛛腿包围着</div></div>
+<div class="rule-def tight"><div class="rd-t">神庙</div><div class="rd-b">洞穴，裂谷，要塞，深坑</div></div>
+<div class="rule-def tight"><div class="rd-t">神选动物</div><div class="rd-b">蝎子</div></div>
+<div class="rule-def tight"><div class="rd-t">神圣色彩</div><div class="rd-b">棕色和红色</div></div>
+<div class="rule-def tight"><div class="rd-t">圣日</div><div class="rd-b">末日节（通常在初秋，行星连珠象征拉瓦古格的牢笼正在变弱），梦醒（通常在早春，庆祝星陨之灾造成的破坏）</div></div>
+</div>
+<div>
+<h4>信仰</h4>
+<div class="rule-def tight"><div class="rd-t">领域</div><div class="rd-b">[[混乱领域|混乱]]，[[毁灭领域|毁灭]]，[[邪恶领域(领域)|邪恶]]，[[战争领域|战争]]，[[天气领域|天气]]</div></div>
+<div class="rule-def tight"><div class="rd-t">子域</div><div class="rd-b">[[战争领域#鲜血子域 (Blood)|鲜血]]，[[毁灭领域#天灾子域 (Catastrophe)|天灾]]，[[混乱领域#恶魔子域 (Demon)|恶魔]]，[[混乱领域#幻蛇子域 (Protean)|幻蛇]]，[[毁灭领域#狂暴子域 (Rage)|狂暴]]，[[天气领域#风暴子域 (Storms)|风暴]]</div></div>
+<div class="rule-def tight"><div class="rd-t">偏好武器</div><div class="rd-b">[[巨斧]]</div></div>
+<div class="rule-def tight"><div class="rd-t">信徒</div><div class="rd-b">[[反圣武士]]，[[野蛮人]]，[[血脉狂怒者]]，末日预言者，[[战士]]，仇恨煽动者，[[猎人]]，[[操念使]]，狂人，[[萨满]]，[[变形者]]，[[杀手]]，[[女巫]]</div></div>
+<div class="rule-def tight"><div class="rd-t">仆役</div><div class="rd-b">[[恶魔绪论|恶魔]]，炼狱蠕虫，[[古魔绪论|古魔]]</div></div>
+<div class="rule-def tight"><div class="rd-t">神使</div><div class="rd-b">[[泰拉斯奎兽]]（屹立的毁灭性怪兽）</div></div>
+</div>
+</div>
+<div class="well">'''神赐'''：接受者获得通过后文类法术能力（施法者等级20级）之一带来毁灭：[[内爆术]]，[[流星爆]]，复仇风暴或津波。</div>
+
+=== 塞恩蕾 ===
+<div class="rule-facts">
+<span>'''晨花'''</span>
+<span>中立善良</span>
+<span>医疗、诚实、救赎和太阳之女神</span>
+</div>
+<div class="rule-cols half">
+<div>
+<h4>神性</h4>
+<div class="rule-def tight"><div class="rd-t">国度</div><div class="rd-b">永痕之光，涅槃桃源</div></div>
+<div class="rule-def tight"><div class="rd-t">盟友</div><div class="rd-b">[[凯登·凯连]]，[[黛丝娜]]，[[艾奥梅黛]]，[[纱琳]]</div></div>
+<div class="rule-def tight"><div class="rd-t">关系</div><div class="rd-b">[[黛丝娜]]情人，[[纱琳]]情人</div></div>
+<div class="rule-def tight"><div class="rd-t">敌人</div><div class="rd-b">[[阿斯莫迪斯]]，[[拉玛什图]]，[[拉瓦古格]]，[[厄加图娅]]</div></div>
+</div>
+<div>
+<h4>宗教</h4>
+<div class="rule-def tight"><div class="rd-t">圣徽</div><div class="rd-b">翅膀高扬的安可形态的天使<small>（安可即圣十字，古埃及用以象征生命）</small></div></div>
+<div class="rule-def tight"><div class="rd-t">神庙</div><div class="rd-b">主教堂，教堂，医务室，孤赏石</div></div>
+<div class="rule-def tight"><div class="rd-t">神选动物</div><div class="rd-b">鸽子</div></div>
+<div class="rule-def tight"><div class="rd-t">神圣色彩</div><div class="rd-b">蓝色和金色</div></div>
+<div class="rule-def tight"><div class="rd-t">圣日</div><div class="rd-b">焰刀节（6月10日舞蹈和火焰的节日），烛台节（冬至个人首次加入信仰的庆祝活动），太阳节（夏至慈善、舞蹈、赠礼和风筝活动）</div></div>
+</div>
+<div>
+<h4>信仰</h4>
+<div class="rule-def tight"><div class="rd-t">领域</div><div class="rd-b">[[火领域|火]]，[[荣耀领域|荣耀]]，[[善良领域|善良]]，[[医疗领域|医疗]]，[[太阳领域|太阳]]</div></div>
+<div class="rule-def tight"><div class="rd-t">子域</div><div class="rd-b">[[善良领域#福使子域 (Agathion)|福使]]，[[太阳领域#白昼子域 (Day)|白昼]]，[[荣耀领域#英勇子域 (Heroism)|英勇]]，[[太阳领域#光明子域 (Light)|光明]]，[[医疗领域#复原子域 (Restoration)|复原]]，[[医疗领域#回生子域 (Resurrection)|回生]]</div></div>
+<div class="rule-def tight"><div class="rd-t">偏好武器</div><div class="rd-b">[[弯刀]]</div></div>
+<div class="rule-def tight"><div class="rd-t">信徒</div><div class="rd-b">[[吟游诗人]]，[[骑士]]，外交官，[[德鲁伊]]，治疗者，[[圣武士]]，慈善家，[[异能者]]，[[萨满]]，[[术士]]，[[唤魂师]]，[[女巫]]</div></div>
+<div class="rule-def tight"><div class="rd-t">仆役</div><div class="rd-b">[[天使绪论|天使]]，[[堕天女]]，[[凤凰]]</div></div>
+<div class="rule-def tight"><div class="rd-t">神使</div><div class="rd-b">阳光领主塔拉柯斯（闪亮的天使）</div></div>
+</div>
+</div>
+<div class="well">'''神赐'''：当太阳从接受者的母世界升起时，他可以花费10分钟祈祷（这可以发生在每日准备法术的日常仪式中）并提及晨花之名。在接下来的24小时里，角色产生的所有治疗效果都会以可能的最大伤害量进行治疗。此外，在这段时间中他可以施展[[生命之息]]和[[医疗术]]作为类法术能力每一个3次（施法者等级20级）。<small>（从原文来看就是3次生命之息和3次医疗术）</small></div>
+
+=== 纱琳 ===
+<div class="rule-facts">
+<span>'''永绽玫瑰'''</span>
+<span>中立善良</span>
+<span>艺术、美、爱情和音乐之女神</span>
+</div>
+<div class="rule-cols half">
+<div>
+<h4>神性</h4>
+<div class="rule-def tight"><div class="rd-t">国度</div><div class="rd-b">花簇之心，涅槃桃源</div></div>
+<div class="rule-def tight"><div class="rd-t">盟友</div><div class="rd-b">[[阿巴达尔]]，[[卡莉斯翠]]，[[凯登·凯连]]，[[黛丝娜]]，[[埃拉斯蒂尔]]，[[塞恩蕾]]</div></div>
+<div class="rule-def tight"><div class="rd-t">关系</div><div class="rd-b">[[黛丝娜]]情人，[[塞恩蕾]]情人，[[宗-库松]]兄弟</div></div>
+<div class="rule-def tight"><div class="rd-t">敌人</div><div class="rd-b">[[阿斯莫迪斯]]，[[拉瓦古格]]，[[厄加图娅]]，[[宗-库松]]</div></div>
+</div>
+<div>
+<h4>宗教</h4>
+<div class="rule-def tight"><div class="rd-t">圣徽</div><div class="rd-b">五彩尾鸣鸟</div></div>
+<div class="rule-def tight"><div class="rd-t">神庙</div><div class="rd-b">美术馆，主教堂，花园，博物馆，歌剧院，剧场</div></div>
+<div class="rule-def tight"><div class="rd-t">神选动物</div><div class="rd-b">[[鸣禽]]</div></div>
+<div class="rule-def tight"><div class="rd-t">神圣色彩</div><div class="rd-b">所有</div></div>
+<div class="rule-def tight"><div class="rd-t">圣日</div><div class="rd-b">彩晶节（冬至艺术创作和浪漫求婚日）</div></div>
+</div>
+<div>
+<h4>信仰</h4>
+<div class="rule-def tight"><div class="rd-t">领域</div><div class="rd-b">[[气领域|气]]，[[魅惑领域|魅惑]]，[[善良领域|善良]]，[[机运领域|机运]]，[[保护领域|保护]]</div></div>
+<div class="rule-def tight"><div class="rd-t">子域</div><div class="rd-b">[[善良领域#福使子域 (Agathion)|福使]]，[[气领域#云子域 (Cloud)|云]]，[[保护领域#防御子域 (Defense)|防御]]，[[机运领域#天命子域 (Fate)|天命]]，[[魅惑领域#爱慕子域 (Love)|爱慕]]，[[保护领域#纯净子域 (Purity)|纯净]]</div></div>
+<div class="rule-def tight"><div class="rd-t">偏好武器</div><div class="rd-b">[[大砍刀]]</div></div>
+<div class="rule-def tight"><div class="rd-t">信徒</div><div class="rd-b">[[炼金术师]]，艺术家，[[吟游诗人]]，[[骑士]]，[[德鲁伊]]，[[侏儒]]，情人，[[通灵者]]，音乐家，[[圣武士]]，[[歌者]]，[[游荡剑客]]</div></div>
+<div class="rule-def tight"><div class="rd-t">仆役</div><div class="rd-b">[[福使绪论|福使]]，[[灵使绪论|灵使]]，精类生物</div></div>
+<div class="rule-def tight"><div class="rd-t">神使</div><div class="rd-b">倾慕之灵（着甲的有翼女性）</div></div>
+</div>
+</div>
+<div class="well">'''神赐'''：纱琳授予一个永久的+1无名加值在魅力上。</div>
+
+=== 托拉格 ===
+<div class="rule-facts">
+<span>'''创造之父'''</span>
+<span>秩序善良</span>
+<span>锻造、保护和战略之神</span>
+</div>
+<div class="rule-cols half">
+<div>
+<h4>神性</h4>
+<div class="rule-def tight"><div class="rd-t">国度</div><div class="rd-b">锻造之心，七重天堂</div></div>
+<div class="rule-def tight"><div class="rd-t">盟友</div><div class="rd-b">[[阿巴达尔]]，[[凯登·凯连]]，[[埃拉斯蒂尔]]，[[艾奥梅黛]]</div></div>
+<div class="rule-def tight"><div class="rd-t">敌人</div><div class="rd-b">[[拉瓦古格]]</div></div>
+</div>
+<div>
+<h4>宗教</h4>
+<div class="rule-def tight"><div class="rd-t">圣徽</div><div class="rd-b">铁锤</div></div>
+<div class="rule-def tight"><div class="rd-t">神庙</div><div class="rd-b">主教堂，洞穴，城堡，战场，铁匠铺，要塞，仓库</div></div>
+<div class="rule-def tight"><div class="rd-t">神选动物</div><div class="rd-b">[[獾]]</div></div>
+<div class="rule-def tight"><div class="rd-t">神圣色彩</div><div class="rd-b">金色和灰色</div></div>
+<div class="rule-def tight"><div class="rd-t">圣日</div><div class="rd-b">失天之日（哀悼失落的矮人天空堡垒，日期不定）</div></div>
+</div>
+<div>
+<h4>信仰</h4>
+<div class="rule-def tight"><div class="rd-t">领域</div><div class="rd-b">[[手艺领域|手艺]]，[[土领域|土]]，[[善良领域|善良]]，[[秩序领域|秩序]]，[[保护领域|保护]]</div></div>
+<div class="rule-def tight"><div class="rd-t">子域</div><div class="rd-b">[[善良领域#圣使子域 (Archon)|圣使]]，[[土领域#窟子域 (Caves)|窟]]，[[手艺领域#构装子域 (Construct)|构装]]，[[保护领域#防御子域 (Defense)|防御]]，[[土领域#铁子域 (Metal)|铁]]，[[手艺领域#疲累子域 (Toil)|疲累]]</div></div>
+<div class="rule-def tight"><div class="rd-t">偏好武器</div><div class="rd-b">[[战锤]]</div></div>
+<div class="rule-def tight"><div class="rd-t">信徒</div><div class="rd-b">[[骑士]]，[[矮人]]，[[战士]]，守卫，[[枪手]]，[[猎人]]，矿工，[[武僧]]，[[秘学士]]，[[圣武士]]，[[游侠]]，[[萨满]]，[[歌者]]，铁匠，士兵，[[唤魂师]]</div></div>
+<div class="rule-def tight"><div class="rd-t">仆役</div><div class="rd-b">[[圣使绪论|圣使]]，[[火矮人]]，构装体</div></div>
+<div class="rule-def tight"><div class="rd-t">神使</div><div class="rd-b">至高卫士（一台巨大的矮人外形魔像）</div></div>
+</div>
+</div>
+<div class="well">'''神赐'''：接受者通过实行10分钟祈祷（这可以作为她每日准备法术的日常仪式中的一部分）来获取接下来24小时内对防御战略情况的神圣洞察力。在此期间，该角色获得20防御点数池。她可以分配这些点数作为一种无类型加值于任意数量的接受者们的AC上或豁免骰上，每个目标最多5点（单个目标只能获得该加值于AC或豁免骰，不能同时获得）。在这24小时内她可以将这些点数以一个[[标准动作]]重新分配任意点数，但每次她这样做时，下一次分配的总点数池的可用防御点数将减少5点。</div>
+
+=== 厄加图娅 ===
+<div class="rule-facts">
+<span>'''苍姬'''</span>
+<span>中立邪恶</span>
+<span>疫病、暴食与不死之女神</span>
+</div>
+<div class="rule-cols half">
+<div>
+<h4>神性</h4>
+<div class="rule-def tight"><div class="rd-t">国度</div><div class="rd-b">腐血，末日荒原</div></div>
+<div class="rule-def tight"><div class="rd-t">盟友</div><div class="rd-b">[[宗-库松]]</div></div>
+<div class="rule-def tight"><div class="rd-t">敌人</div><div class="rd-b">[[埃拉斯蒂尔]]，[[古拉姆]]，[[哥兹莱]]，[[法莱斯玛]]，[[塞恩蕾]]，[[纱琳]]</div></div>
+</div>
+<div>
+<h4>宗教</h4>
+<div class="rule-def tight"><div class="rd-t">圣徽</div><div class="rd-b">颅骨装饰的苍蝇</div></div>
+<div class="rule-def tight"><div class="rd-t">神庙</div><div class="rd-b">主教堂，宴会厅，墓地</div></div>
+<div class="rule-def tight"><div class="rd-t">神选动物</div><div class="rd-b">苍蝇</div></div>
+<div class="rule-def tight"><div class="rd-t">神圣色彩</div><div class="rd-b">绿色和红色</div></div>
+<div class="rule-def tight"><div class="rd-t">圣日</div><div class="rd-b">苍白之夜（12月31日病态狂欢和闹鬼之夜），各种地区节日</div></div>
+</div>
+<div>
+<h4>信仰</h4>
+<div class="rule-def tight"><div class="rd-t">领域</div><div class="rd-b">[[死亡领域|死亡]]，[[邪恶领域(领域)|邪恶]]，[[魔法领域|魔法]]，[[力量领域|力量]]，[[战争领域|战争]]</div></div>
+<div class="rule-def tight"><div class="rd-t">子域</div><div class="rd-b">[[战争领域#鲜血子域 (Blood)|鲜血]]，邪魔，[[魔法领域#神力子域 (Divine)|神力]]，[[力量领域#凶猛子域 (Ferocity)|凶猛]]，[[死亡领域#杀戮子域 (Murder)|杀戮]]，[[死亡领域#亡灵子域 (Undead)|亡灵]]</div></div>
+<div class="rule-def tight"><div class="rd-t">偏好武器</div><div class="rd-b">[[巨镰]]</div></div>
+<div class="rule-def tight"><div class="rd-t">信徒</div><div class="rd-b">[[炼金术师]]，[[反圣武士]]，[[血脉狂怒者]]，暴食者，[[通灵者]]，死灵师，[[秘学士]]，[[盗贼]]，[[萨满]]，[[杀手]]，[[术士]]，[[唤魂师]]，不死生物，[[女巫]]，[[法师]]</div></div>
+<div class="rule-def tight"><div class="rd-t">仆役</div><div class="rd-b">[[邪魔绪论|邪魔]]，疾病携带者，不死生物</div></div>
+<div class="rule-def tight"><div class="rd-t">神使</div><div class="rd-b">主母巨喉（巨翼吸血鬼头骨）</div></div>
+</div>
+</div>
+<div class="well">'''神赐'''：接受者在下一次日落时死亡并复活（或在12小时后，以先到者为准，但绝不会在一天内收到天赋）成为一个[[吸血鬼(怪物)|吸血鬼]]。（由GM决定，可用其他的吸血鬼模板，比如僵尸或诺斯费拉图血族，而不是标准的吸血鬼模板）。如果该角色已经是吸血鬼，他在24小时内不会遭受任何传统吸血鬼弱点（如阳光或流水）。</div>
+
+=== 宗-库松 ===
+<div class="rule-facts">
+<span>'''午夜领主'''</span>
+<span>秩序邪恶</span>
+<span>黑暗、嫉妒、失去和痛苦之神</span>
+</div>
+<div class="rule-cols half">
+<div>
+<h4>神性</h4>
+<div class="rule-def tight"><div class="rd-t">国度</div><div class="rd-b">泽威肯，影界</div></div>
+<div class="rule-def tight"><div class="rd-t">盟友</div><div class="rd-b">[[厄加图娅]]</div></div>
+<div class="rule-def tight"><div class="rd-t">关系</div><div class="rd-b">[[纱琳]]妹妹</div></div>
+<div class="rule-def tight"><div class="rd-t">敌人</div><div class="rd-b">[[黛丝娜]]，[[拉瓦古格]]，[[纱琳]]</div></div>
+</div>
+<div>
+<h4>宗教</h4>
+<div class="rule-def tight"><div class="rd-t">圣徽</div><div class="rd-b">人类颅骨上挂着锁链，就像眼窝里流出的泪水</div></div>
+<div class="rule-def tight"><div class="rd-t">神庙</div><div class="rd-b">废弃的墓园，主教堂，洞穴，闹鬼的森林空地，实验室，化作废墟的城市广场，拷问室</div></div>
+<div class="rule-def tight"><div class="rd-t">神选动物</div><div class="rd-b">蝙蝠</div></div>
+<div class="rule-def tight"><div class="rd-t">神圣色彩</div><div class="rd-b">暗灰色和红色</div></div>
+<div class="rule-def tight"><div class="rd-t">圣日</div><div class="rd-b">愉悦节（将自愿的志愿者和俘虏都截肢和身体改造的日子，日期不定），永恒深吻（每年的第一个新月之夜，牺牲一位先被纵容数天的囚犯）</div></div>
+</div>
+<div>
+<h4>信仰</h4>
+<div class="rule-def tight"><div class="rd-t">领域</div><div class="rd-b">[[黑暗领域|黑暗]]，[[死亡领域|死亡]]，[[毁灭领域|毁灭]]，[[邪恶领域(领域)|邪恶]]，[[秩序领域|秩序]]</div></div>
+<div class="rule-def tight"><div class="rd-t">子域</div><div class="rd-b">[[毁灭领域#天灾子域 (Catastrophe)|天灾]]，[[秩序领域#魔鬼子域 (Devil)|魔鬼]]，[[黑暗领域#失却子域 (Loss)|失却]]，[[死亡领域#杀戮子域 (Murder)|杀戮]]，[[黑暗领域#暗夜子域 (Night)|暗夜]]，[[死亡领域#亡灵子域 (Undead)|亡灵]]</div></div>
+<div class="rule-def tight"><div class="rd-t">偏好武器</div><div class="rd-b">[[刺链]]</div></div>
+<div class="rule-def tight"><div class="rd-t">信徒</div><div class="rd-b">[[奥能师]]，[[骑士]]，绝望者，[[战士]]，[[催眠师]]，[[武僧]]，[[忍者]]，[[秘学士]]，[[盗贼]]，虐待狂，阴影教徒，[[杀手]]，[[术士]]，[[唤魂师]]，[[召唤师]]，拷问者，[[侠客]]，[[女巫]]，[[法师]]</div></div>
+<div class="rule-def tight"><div class="rd-t">仆役</div><div class="rd-b">[[链魔]]，[[阴影生物]]，不死生物</div></div>
+<div class="rule-def tight"><div class="rd-t">神使</div><div class="rd-b">锁缚公（链冠狼）</div></div>
+</div>
+</div>
+<div class="well">'''神赐'''：接受者通过实行10分钟祈祷（这可以作为她每日准备法术的日常仪式中的一部分）包括自我鞭笞或其他形式的自我造成的痛苦，来使用她真实形态的阴影复制品代替她的身体，持续24小时。在此期间，该角色的正常自我以一种奇怪的、阴影般的化身存在，并且对精确伤害、[[出血]]、恐惧、负能量和疼痛效果免疫，并且她将所有穿刺和挥砍伤害视为[[非致命伤害]]。该角色在以确定由负能量或正能量造成的伤害或治疗效果的目的时视为不死生物。</div>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh566e47d534.htm 原文]）。全部[[扩展规则]]见 [[扩展规则]]。
+
+{{AoN原文|2488|Role of the Divine}}
+
+[[分类:扩展规则]]

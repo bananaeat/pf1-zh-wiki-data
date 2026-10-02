@@ -1,0 +1,12 @@
+{{Feat
+|name=羊首狮身之角
+|english_name=Horn of the Criosphinx
+|categories=战斗
+|description=你以一记豪勇的双手攻击结束你的冲锋。
+|prerequisites=BAB+6或武僧等级6
+|benefit=每当你以双手装备1把双手武器发动的冲锋攻击命中时，将力量调整值的2倍加到伤害骰上。
+|normal=装备双手武器的角色将力量调整值的1.5倍加到伤害骰上。
+|special=武僧可以在装备双手武器或双手未持握任何物品时使用此专长的效果。<br>注：武僧可以在6级时用奖励专长选取本专长；但必须双手不持握任何物品且能够发动徒手打击，才能获得本专长的效果。
+|source_name=沙之子民
+|source_url=https://pf1chm.pages.dev/topics/zhfe80e96711.htm
+}}

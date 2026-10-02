@@ -1,0 +1,9 @@
+{{Trait
+|name=伤恸者
+|english_name=Grief-Filled
+|type=社会
+|description=失落和紧绷的情绪对你而言从不陌生。你对抗影响情绪的法术和效果的豁免获得+2背景加值。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

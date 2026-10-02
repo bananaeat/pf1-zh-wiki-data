@@ -1,0 +1,16 @@
+{{科技物品
+|name=激光瞄准器
+|english_name=Laser sight
+|kind=科技装置
+|sub=其他工具与配件
+|price=8,000 gp
+|weight=1磅
+|slot=无
+|capacity=10
+|usage=每小时1充能
+|description=这个小型圆柱形装置可以装在任何[[火器]]的枪管上。启动后，它会射出一束低功率激光，在目标身上打出一个红色小点。这使使用者用该武器进行的所有攻击检定获得+1环境加值。此外，激光瞄准器会使向近战中的目标射击的减值降低2点。
+|construction=[[制造科技装置]]、生产车间
+|craft_dc=24
+|cost=4,000 gp
+|source=科技指南
+}}

@@ -1,0 +1,10 @@
+<noinclude>{{异能者导航}}
+'''科技匠人'''（Techsmith）是[[异能者]]的[[精神增幅|精神增幅]]。
+
+</noinclude>选择一个种类的科技物品（盔甲，[[电子殖装物]]，[[合成药物]]，[[科技装置]]，或者武器）。在制造该类物品时，你会比一般情况快25%，并且会在制造该类物品的工艺（机械）检定(如果合理的话可以是其他检定)上获得+4的加值。你可以多次选择这个发现；它的好处并不叠加。但每次你选择这个发现的时候都可以把它应用到一个新的科技物品的类型上。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_310.html 精神增幅]、[https://pf1chm.pages.dev/topics/zhb4162fc9dd.htm 乌笃剌精神增幅]、[https://pf1chm.pages.dev/topics/page_855.html PSI技术]），按 AoN 核对过。全部精神增幅见 [[精神增幅]]。
+
+[[分类:精神增幅]]
+
+{{职业}}</noinclude>

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Monster Summoner's Handbook pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=妖灵猎手
+|english_name=Div Hunter
+|type=地区
+|prerequisites=苏比亚
+|description=从你记事起，妖灵就一直在折磨你和你所爱的人。你磨练了自己的技能，以便更好地对抗这些生物。你为辨识妖灵（及其特殊能力与弱点）而进行的[[知识]]检定获得+2背景加值，并且你对妖灵的武器伤害骰获得+1背景加值。
+|source_name=怪物召唤者手册
+|source=MSH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Div%20Hunter
+}}

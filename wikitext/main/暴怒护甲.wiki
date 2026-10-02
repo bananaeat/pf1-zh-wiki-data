@@ -1,0 +1,15 @@
+{{魔法物品
+|name=暴怒护甲
+|english_name=Armor of Rage
+|aon=MagicCursedDisplay.aspx?ItemName=Armor of Rage
+|cat=诅咒物品
+|base=[[胸甲]]
+|enh=+1
+|aura=强烈死灵系
+|cl=16
+|slot=护甲
+|weight=50磅
+|description=这套护甲的外观与命令胸甲相似，功能相当于+1胸甲。但穿上它之后，穿戴者的魅力值承受-4减值。300尺内所有不友善的生物，在对她发动的攻击检定上获得+1士气加值。穿戴者和受影响的生物都察觉不到这一效果；换言之，穿戴者不会立刻意识到麻烦是穿上护甲引起的，敌人也不明白自己为何对她怀有如此深的敌意。
+|req=[[命令胸甲]]、+1[[胸甲]]
+|source=核心规则书、极限宝具
+}}

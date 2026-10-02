@@ -1,0 +1,13 @@
+{{魔法物品
+|name=石化斗篷
+|english_name=Petrifying Cloak
+|aon=MagicCursedDisplay.aspx?ItemName=Petrifying Cloak
+|cat=诅咒物品
+|aura=中等变化系
+|cl=11
+|slot=肩部
+|weight=1磅
+|description=这件灰色的魔法斗篷看起来像是一件防护斗篷，但披上它时，穿戴者必须成功通过DC 20的强韧豁免，否则立刻被[[石化]]。若最初的豁免成功，穿着斗篷的生物还必须在自己每个回合开始时进行进一步的检定。任何一次豁免失败，该生物就会被石化。[[移除诅咒]]或[[解除石化]]可以把穿戴者变回来，至少能维持到有人把斗篷从穿戴者身上脱下为止。
+|req=任意披风
+|source=极限宝具
+}}

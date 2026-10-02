@@ -1,0 +1,207 @@
+{{速查导航}}
+{{怪物
+|name=始祖鸟
+|english_name=Archaeopteryx
+|cr=1/4
+|xp=100
+|alignment=绝对中立
+|size=超小型
+|type=动物
+|init=+2
+|senses=昏暗视觉；察觉 +1
+|description=这几页上面列出的是除了施法者们比较常用的魔宠之外，五种新魔宠的数据。当然，这里的数据也可以用在普通动物上。这些魔宠使用标准的魔宠规则，见核心书82–83页。超小型或更小的动物在攀爬和游泳检定时使用的是敏捷调整值。
+|ac=14，接触 14，措手不及 12（+2 敏捷，+2 体型）
+|hp=4（1d8）
+|fort=+2
+|ref=+4
+|will=+1
+|speed=40 尺，攀爬 10 尺，飞行 40 尺（不良）
+|melee=噬咬 +4（1d4–4）
+|space=2–1/2 尺
+|reach=0 尺
+|str=3
+|dex=15
+|con=10
+|int=2
+|wis=12
+|cha=7
+|bab=+0
+|cmb=+0
+|cmd=6
+|feats=[[武器娴熟]]
+|skills=[[攀爬]] +10;[[飞行]] +6
+|sq=不善飞行
+|environment=温带或温暖的森林
+|organization=单独，成对或一窝（4–10）
+|treasure=无
+|special_abilities={{怪物能力|不善飞行|Ex|始祖鸟飞行时不能以超过45度的角度盘旋或爬升。}}
+|source=怪物图鉴4
+|nofooter=1
+}}
+{{怪物
+|name=渡渡鸟
+|english_name=Dodo
+|cr=1/4
+|xp=100
+|alignment=绝对中立
+|size=小型
+|type=动物
+|init=+0
+|senses=昏暗视觉；察觉 +3
+|description=这只圆滚滚的灰色不会飞的鸟，迈着笨拙的双腿摇摇摆摆地走着，无畏地晃动着它那巨大的喙。
+|ac=11，接触 11，措手不及 11（+1 体型）
+|hp=6（1d8+2）
+|fort=+4
+|ref=+2
+|will=–1
+|speed=20 尺
+|melee=噬咬 +0（1d3–2）
+|str=7
+|dex=11
+|con=14
+|int=2
+|wis=9
+|cha=6
+|bab=+0
+|cmb=–3
+|cmd=7
+|feats=[[武器专攻]]（啮咬）
+|skills=[[察觉]]+3
+|environment=温暖的海岸和平原
+|organization=单独，成对，或一群（3–6）
+|treasure=无
+|source=怪物图鉴4
+|nofooter=1
+}}
+{{怪物
+|name=鸭嘴兽
+|english_name=Platypus
+|cr=1/6
+|xp=65
+|alignment=绝对中立
+|size=超小型
+|type=动物
+|init=+2
+|senses=电流定位 30 尺（在水下时），昏暗视觉；察觉 +1（+5 在水下时）
+|description=这种生物圆滚滚的，棕色，覆盖着光滑的皮毛，却长着鸭子一样的喙、扁平的尾巴和蹼足。
+|ac=14，接触 14，措手不及 12（+2 敏捷，+2 体型）
+|hp=3（1d8–1）
+|fort=+1
+|ref=+4
+|will=+1
+|speed=10 尺，游泳 40 尺
+|melee=骨刺+4（1d3–4 外加毒素）
+|space=2–1/2 尺
+|reach=0 尺
+|str=2
+|dex=14
+|con=8
+|int=2
+|wis=13
+|cha=11
+|bab=+0
+|cmb=+0
+|cmd=6（10 对抗摔绊）
+|feats=[[武器娴熟]]
+|skills=[[察觉]]+1（+5 水下时）;[[游泳]] +14
+|racial_mods=在水下时+4察觉
+|sq=闭气
+|environment=温带或热带河流
+|organization=单独
+|treasure=无
+|special_abilities={{怪物能力|电流定位|Ex|在水下时，鸭嘴兽能够感知到能够触发它肌肉运动的细微电流。这使得它能够定位有生命的猎物，并将其与无生命的物体区别开。电流定位视同 30 尺盲视，但鸭嘴兽只能感知活物，并且只能在水下生效。}}
+{{怪物能力|毒素|Ex|骨刺—伤口；豁免 强韧 DC 9；频率 每轮1次，持续4轮；效果 1 点非致命伤害；痊愈 1次豁免。}}
+{{怪物能力|骨刺|Ex|鸭嘴兽的骨刺攻击是主要天生攻击，造成穿刺伤害。}}
+|source=怪物图鉴4
+|nofooter=1
+}}
+{{怪物
+|name=树獭
+|english_name=Sloth
+|cr=1/6
+|xp=65
+|alignment=绝对中立
+|size=超小型
+|type=动物
+|init=–2
+|senses=昏暗视觉，[[通用怪物规则#灵敏嗅觉|灵敏嗅觉]]；察觉 +1
+|ac=11，接触 10，措手不及 11（–2 敏捷，+1 天生，+2 体型）
+|hp=5（1d8+1）
+|fort=+3
+|ref=+0
+|will=+1
+|speed=5 尺，攀爬 5 尺
+|melee=2 爪抓 –1（1d2–3）
+|space=2–1/2 尺
+|reach=0 尺
+|str=5
+|dex=7
+|con=12
+|int=2
+|wis=12
+|cha=7
+|bab=+0
+|cmb=–4
+|cmd=3（7 对抗摔绊）
+|feats=[[技能专攻]]（隐匿）
+|skills=[[攀爬]] +10;[[隐匿]] +17;[[游泳]] +2
+|racial_mods=+4 攀爬，+4 隐匿，+4 游泳
+|environment=温带森林
+|organization=单独或成对
+|treasure=无
+|source=怪物图鉴4
+|nofooter=1
+}}
+{{怪物
+|name=喙头蜥
+|english_name=Tuatara
+|cr=1/4
+|xp=100
+|alignment=绝对中立
+|size=超小型
+|type=动物
+|init=+1
+|senses=黑暗视觉 60 尺，昏暗视觉；察觉 +4
+|ac=13，接触 13，措手不及 12（+1 敏捷，+2 体型）
+|hp=5（1d8+1）
+|fort=+3
+|ref=+3
+|will=+0
+|speed=20 尺，攀爬 20 尺
+|melee=噬咬 +3（1d3–4 外加缠身）
+|space=2–1/2 尺
+|reach=0 尺
+|str=2
+|dex=13
+|con=12
+|int=1
+|wis=10
+|cha=5
+|bab=+0
+|cmb=–1
+|cmd=5（9 对抗摔绊）
+|feats=[[武器娴熟]]
+|skills=[[特技]] +5（+1 跳跃）;[[攀爬]] +9;[[察觉]] +4;[[生存]] +4
+|racial_mods=跳跃时–4 特技，+4 察觉，+4 生存
+|environment=温带岛屿
+|organization=单独或成对
+|source=怪物图鉴4
+|lore=
+小体型魔宠
+
+小体型魔宠的威胁范围和小型生物相同，并且它们能够夹击敌人，虽然这些魔宠和它们的主人都不愿意用这样的战术，因为通常会导致魔宠死亡。小体型魔宠比超小型和微型魔宠更难依附在主人身上。通常他们需要一些魔法物品的帮助，例如次元袋，来让别人无法看见它们。
+
+始祖鸟是原始的鸟类。它们没有鸟喙，而是有着长满了尖牙的蜥蜴一样的头部。
+
+渡渡鸟是不能飞的鸟类，通常生活在没有天敌且环境封闭的热带岛屿。它们的冒失天性导致它们很容易被捕杀。
+
+鸭嘴兽是下蛋的哺乳类动物，生活在河边的洞穴中并捕食幼虫和甲壳类动物。
+
+树獭是树居的食草动物。它们以高效的新陈代谢和缓慢的行动速度而闻名。
+
+喙头蜥是蜥蜴的表亲。它们大多生活在哺乳动物尚未立足的原始岛屿上。
+
+<div class="monster-table-wrap"><table class="wikitable"><tr><th>魔宠特殊能力</th></tr><tr><td>始祖鸟</td><td>主人反射豁免＋２</td></tr><tr><td>渡渡鸟</td><td>主人先攻检定＋４</td></tr><tr><td>鸭嘴兽</td><td>主人游泳检定＋３</td></tr><tr><td>树獭</td><td>主人攀爬检定＋３</td></tr><tr><td>喙头蜥</td><td>主人生存检定＋３</td></tr></table></div>
+}}
+
+本页译自《[[怪物图鉴4]]》的怪物图鉴 CHM。

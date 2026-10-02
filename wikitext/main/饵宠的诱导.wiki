@@ -1,0 +1,11 @@
+{{Feat
+|name=饵宠的诱导
+|english_name=Decoy's Misdirection
+|description=你可以通过自己的魔宠来愚弄那些想要窥探你的家伙。
+|prerequisites=必须具有使用了饵宠变体的魔宠
+|benefit=只要你的魔宠与你之间的距离不超过30尺，每当你成功通过意志豁免以抵御一次探知效果时（这包括探知和高等探知），你便会意识到这次探知的尝试，就如同你成功使用了法术辨识检定鉴别了它一般，而且你能够选择让法术如常生效，以取代让其失败。若你这么做，那么你能够选择将探知效果变更至你的魔宠身上，这会使得魔宠立即变形，就如同它的假扮主人类法术能力*一般，不过此时的持续时间与探知效果的持续时间相同。探知效果的制造者会一直观察魔宠，就如同目标是你一般，不过侦测魔法之类的法术仍旧会如常侦测到变身术的效果。
+|extra=译注：原文为secret sharer spell-like ability，不过Decoy并没有这个能力，因此按照能力意思选择了Master’s Guise能力。
+|source=FF
+|source_name=魔宠手记
+|source_url=https://pf1chm.pages.dev/topics/page_491.html
+}}

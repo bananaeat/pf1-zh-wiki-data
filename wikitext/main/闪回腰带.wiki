@@ -1,0 +1,15 @@
+{{魔法物品
+|name=闪回腰带
+|english_name=Blinkback Belt
+|aon=MagicWondrousDisplay.aspx?FinalName=Blinkback Belt
+|cat=奇物
+|aura=中等咒法系
+|cl=7
+|slot=腰部
+|price=5,000 gp
+|weight=2磅
+|description=这条由金属环节组成的分段式腰带上固定着一组夹子。腰带上可用皮带环或鞘挂至多2件单手近战武器，或至多4件轻型近战武器。当穿戴者拔出挂在这条腰带上的武器，并在下一回合结束前将其投掷出去时，该武器会在攻击结算之后立刻传送回它的皮带环或鞘中。
+|req=[[制造奇物]]、[[物品传送术]]
+|cost=2,500 gp
+|source=极限宝具
+}}

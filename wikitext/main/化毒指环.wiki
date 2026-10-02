@@ -1,0 +1,14 @@
+{{魔法物品
+|name=化毒指环
+|english_name=Band of Toxic Nullification
+|aon=MagicRingsDisplay.aspx?FinalName=Band of Toxic Nullification
+|cat=戒指
+|aura=中等死灵系
+|cl=9
+|slot=戒指
+|price=8,500 gp
+|description=这款铂金[[魔法物品#戒指|戒指]]整齐地镶嵌了一块烟熏石英。每天一次，穿戴者可以说出一个命令词，将石英放在她的皮肤上，以一个[[整轮动作]]从她的身体里汲取出一剂毒药到石英之中，使这剂毒药失效。这个效果只有在穿戴者中毒之后才能使用。
+|req=[[制造奇物]]、[[汲取苦难]]
+|cost=4,250 gp
+|source=药剂与毒药
+}}

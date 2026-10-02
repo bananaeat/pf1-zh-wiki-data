@@ -1,0 +1,15 @@
+{{魔法物品
+|name=防御臂铠
+|english_name=Vambraces of Defense
+|aon=MagicWondrousDisplay.aspx?FinalName=Vambraces of Defense
+|cat=奇物
+|aura=微弱防护系
+|cl=5
+|slot=腕部
+|price=6,000 gp
+|weight=3磅
+|description=这对抛光的钢制臂铠使穿戴者获得+1偏斜加值的AC。每天1次，当穿戴者至少有一只手空闲、即将被远程武器的攻击命中时，他可以以[[直觉动作]]用臂铠将其偏斜，不受该次攻击的任何伤害，如同拥有[[拨挡飞箭]]专长。
+|req=[[制造奇物]]、[[护盾术]]
+|cost=3,000 gp
+|source=极限宝具
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=碎法
+|english_name=Shatterspell
+|categories=战斗
+|description=你那强有力的打击能够粉碎敌人的魔法。
+|prerequisites=扰法者，破法者，[[矮人]]，战士10级。
+|benefit=以一个[[标准动作]]，你能够如同拥有【[[破甲祛法]]】[[狂暴之力]]一般尝试移除持续性法术效果。你每天能够使用该专长1次，在你达到BAB+10之后，BAB每提高5点就能获得1次额外的每日使用次数。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

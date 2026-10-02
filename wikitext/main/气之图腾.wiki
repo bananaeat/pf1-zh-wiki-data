@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=气之图腾
+|english_name=Air Totem
+|type=Su
+|categories=图腾
+|prerequisites=[[野蛮人]]6级，[[次等元素图腾]]
+|benefit=每次狂暴限一次，野蛮人可以如同[[凌空而行]]一样移动一轮。
+|source_name=元素血脉
+}}

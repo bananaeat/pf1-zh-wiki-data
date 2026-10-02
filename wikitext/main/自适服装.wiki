@@ -1,0 +1,15 @@
+{{魔法物品
+|name=自适服装
+|english_name=Living Garments
+|aon=MagicWondrousDisplay.aspx?FinalName=Living Garments
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=躯体
+|price=5,000 gp
+|weight=2磅
+|description=这件轻薄柔滑的长袍品质极佳，许多是用蜘蛛丝制成的。通过命令，自适服装能对自身做出一系列细微的调整，包括颜色、尺寸和基本样式，以适应并突显穿戴者想要表达的任何心情。它始终保持洁净，并以每轮1点生命值的速度自动修复自身受到的损伤（硬度0，4点hp）。它还使穿戴者的[[交涉]]检定获得+5表现加值。
+|req=[[制造奇物]]、[[鹰之威仪]]、[[修复术]]、[[魔法伎俩]]，制造者必须是[[卓尔]]
+|cost=2,500 gp
+|source=进阶种族手册
+}}

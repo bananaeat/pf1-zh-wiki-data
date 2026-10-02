@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[盲斗]] 的神话版本。</small></div>
+{{Feat
+|name=盲斗
+|english_name=Blind-Fight
+|categories=神话
+|description=没有人能够躲开你的超自然感官。
+|prerequisites=[[盲斗]]
+|benefit=以[[迅捷动作]]，你能够花费1次神话之力，来忽略由于[[隐蔽]]或[[全隐蔽]]带来的所有失手率，持续轮数等同于你的阶层。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

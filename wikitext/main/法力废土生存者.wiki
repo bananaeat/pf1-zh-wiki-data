@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=法力废土生存者
+|english_name=Mana Wastes Survivalist
+|type=地区
+|prerequisites=法力废土
+|description=你在法力废土那片荒芜的恶地中长大，或在那里度过了很长时间，严酷的土地磨砺了你的身体。你的强韧豁免获得+1背景加值。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Mana%20Wastes%20Survivalist
+}}

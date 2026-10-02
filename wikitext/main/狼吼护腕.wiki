@@ -1,0 +1,15 @@
+{{魔法物品
+|name=狼吼护腕
+|english_name=Howling Bracers
+|aon=MagicWondrousDisplay.aspx?FinalName=Howling Bracers
+|cat=奇物
+|aura=中等惑控系
+|cl=7
+|slot=腕部
+|price=7,000 gp
+|weight=1磅
+|description=这对护腕以沉重的铁制成，上面刻有嚎叫的狼的图案。每天1次，凭命令，穿戴者可以有节奏地将两只护腕互相撞击。这会使刻在护腕上的狼活过来，齐声嚎叫，产生[[极度绝望]]的效果（DC 16）。此外，使用此能力时，每有两个生物处于穿戴者的战怒之歌效果之下，DC就提高1点，最多提高5点。
+|req=[[制造奇物]]、[[极度绝望]]，制造者必须拥有战怒之歌职业能力
+|cost=3,500 gp
+|source=进阶职业指南
+}}

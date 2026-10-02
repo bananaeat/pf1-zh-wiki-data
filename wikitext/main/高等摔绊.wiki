@@ -1,0 +1,18 @@
+{{Feat
+|name=高等摔绊
+|english_name=Greater Trip
+|categories=战斗
+|description=你可以自由攻击被你击倒的对手。
+|prerequisites=[[寓守于攻]]，[[精通摔绊]]，基本攻击加值+6，智力13。
+|benefit=你的[[摔绊]]检定获得+2加值，此加值与[[精通摔绊]]专长带来的加值累计。每当你成功摔绊一个敌人时，该敌人会引发[[借机攻击]]。
+|normal=生物不会因被摔绊而引发借机攻击。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[狡兔搏鹰]]（1 个条目）
+
+{{FAQ|v5748eaic9qdd}}

@@ -1,0 +1,13 @@
+<noinclude>{{速查导航|here=规则}}
+{{消歧义|生命感知}}
+'''生命感知'''（Lifesense）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Su</span><span class="sk-f">位置：感官</span></div>
+</noinclude><includeonly><div class="lang"><span id="生命感知"></span><span id="生命感知(怪物能力)"></span><div class="lang-h"><b>[[生命感知(怪物能力)|生命感知]]</b><i>Lifesense</i><span class="lang-w">Su · 感官</span></div><div class="lang-d"></includeonly>
+该生物可以注意到并定位 60 尺内的活物，如同它拥有[[盲视(怪物能力)|盲视]]一样。
+
+'''格式'''：生命感知
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Lifesense|2=Lifesense}}
+
+[[分类:通用怪物规则]]</noinclude>

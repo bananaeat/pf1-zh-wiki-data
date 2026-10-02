@@ -1,0 +1,12 @@
+{{Feat
+|name=扼杀
+|english_name=Strangler
+|aon=Strangler (UC)
+|categories=战斗
+|description=扼杀敌人的生命是你的第二天性。
+|prerequisites=敏捷13，偷袭+1d6，[[精通擒抱]]，[[精通徒手打击]]。
+|benefit=每当你成功维持[[擒抱]]、并给对手造成伤害时，你能以[[迅捷动作]]将偷袭伤害加到伤害检定中。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

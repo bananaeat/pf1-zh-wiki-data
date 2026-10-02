@@ -1,0 +1,9 @@
+{{Trait
+|name=依艾达拉的幻术师
+|english_name=Iadaran Illusionist
+|type=地区
+|prerequisites=奇奥尼
+|description=你在依艾达拉居住了非常久的时间，久到让你十分熟悉各种幻术。你在施展幻术系魔法时你的施法者等级检定获得+1背景加值，你在否定一个幻术时也在意志豁免上获得+1背景加值。
+|source_name=格拉里昂的精灵
+|source_url=https://pf1chm.pages.dev/topics/zhd63cf5e76e.htm
+}}

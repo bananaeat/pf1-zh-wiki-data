@@ -1,0 +1,9 @@
+{{Trait
+|name=年轻的渗透者
+|english_name=Youthful Infiltrator
+|type=战斗
+|description=你自幼受训，专门伏击你所属教团或组织的敌人；因此外人一旦得知你的归属，大多难以信任你。你对[[措手不及]]的敌人进行的攻击检定获得+1背景加值，前提是对方之前没有见过你以此加值进行攻击。
+|source_name=战斗背景
+|source=SH
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

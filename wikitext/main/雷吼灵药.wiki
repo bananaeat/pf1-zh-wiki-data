@@ -1,0 +1,14 @@
+{{魔法物品
+|name=雷吼灵药
+|english_name=Elixir of the Thundering Voice
+|aon=MagicWondrousDisplay.aspx?FinalName=Elixir of the Thundering Voice
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=无
+|price=250 gp
+|description=这剂浅灰色的灵药能让使用者的声音更加凶猛、更加响亮，并带上一种非人的特质，令听他说话的人心神不宁，使使用者在威吓检定中获得+10表现加值，持续1小时。
+|req=[[制造奇物]]、[[音鸣爆]]
+|cost=125 gp
+|source=进阶职业指南
+}}

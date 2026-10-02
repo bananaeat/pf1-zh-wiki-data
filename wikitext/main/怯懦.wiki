@@ -1,0 +1,10 @@
+{{Trait
+|name=怯懦
+|english_name=Cowardly
+|type=缺陷
+|pfs=否
+|description=你可能会用虚张声势来面对危险的情况，但你总是很害怕。
+|benefit=当你惊惧并逃跑时，你的基础速度增加5英尺，但你从[[畏缩]]、惊惧、恐慌或[[战栗]]状态中承受的减值增加1。如果你有对恐惧通常免疫的能力，那么你不用受到这些惩罚，而是失去对恐惧的免疫力(无论其来源如何)。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=冬狼牙符
+|english_name=Winter Wolf Runetooth
+|aon=MagicWondrousDisplay.aspx?FinalName=Winter Wolf Runetooth
+|cat=奇物
+|aura=中等咒法系
+|cl=10
+|slot=无
+|price=2,500 gp
+|description=当使用者以一个整轮动作捏碎或折断这颗犬齿时，会召唤出一头[[冬狼]]。这头狼受折断牙齿的生物控制，持续1分钟，或直到被杀死。
+|req=[[制造奇物]]、[[召唤自然盟友 V]]
+|cost=1,250 gp
+|source=怪物志
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=棍斗战技
+|english_name=Stick-Fighting Maneuver
+|categories=战斗
+|description=你使用木棍的攻击快的让人目不暇接，可以在攻击之间打出战技。
+|prerequisites=棍斗截击，棍斗流，基本攻击加值+6
+|benefit=当你只使用木棒，木棍，短棒，闷棍或旋棍进行全回合攻击时，你可以使用你的完整基本攻击加值进行一次额外的战技。
+|source=MAH
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/page_1337.html
+}}

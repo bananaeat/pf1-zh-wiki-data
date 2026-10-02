@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 19），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=粉鳞
+|english_name=Carnation Scales
+|type=种族
+|pfs=否
+|prerequisites=狗头人
+|description=虽然你浅粉色的鳞片让你遭到部落的嘲笑，但你比他们更能适应各种环境。你的[[生存]]检定获得+1加值，并且生存对你而言总是本职技能。大多数拥有粉色鳞片的[[狗头人]]也拥有白昼侵略者替换种族特性（见《格拉利昂的狗头人》第7页）。
+|source_name=格拉利昂的狗头人
+|source=KoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Carnation%20Scales
+}}

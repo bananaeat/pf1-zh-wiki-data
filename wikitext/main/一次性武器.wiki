@@ -1,0 +1,10 @@
+{{Feat
+|name=一次性武器
+|english_name=Disposable Weapon
+|description=你无视你武器的极限，让它对敌人和它自己都造成强大的伤害。
+|prerequisites=基本攻击加值+1，擅长武器。
+|benefit=当你使用一把带有〔易碎〕性质的近战或投掷武器对敌人造成重击威胁时，你可以选择让武器陷入[[破损]]状态，以自动确认这次重击。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

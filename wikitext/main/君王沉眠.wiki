@@ -1,0 +1,13 @@
+{{危害
+|name=君王沉眠
+|english_name=King's sleep
+|kind=毒药
+|type=摄入
+|save=强韧 DC 19
+|onset=1天
+|frequency=1次/天
+|effect=1点体质吸取
+|cure=2次豁免
+|price=5,000 gp
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=构装体专精
+|english_name=Focused Construct Expertise
+|categories=战斗
+|description=你擅长打破构装体和其他生物的防御。
+|prerequisites=宿敌(构装体)职业特性。
+|benefit=你的武器攻击忽略等于你宿敌(构装体)一半加值的伤害减免或硬度。这个专长只允许你忽略通常可被{{材料|精金}}、钝击、穿刺和挥砍武器绕过的伤害减免。对抗构装体时，你忽略的伤害减免和硬度等于你的完整宿敌加值。
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh03ef2e8763.htm
+}}

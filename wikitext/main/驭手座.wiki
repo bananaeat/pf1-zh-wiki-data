@@ -1,0 +1,11 @@
+{{Trait
+|name=驭手座
+|english_name=The Rider
+|type=宇宙
+|aliases=36-42 驭手座
+|prerequisites=黛丝娜斯(Desnus)14日-赛伦尼斯(Sarenith)20日(译注：5月14日-6月20日)
+|description=你出生在护卫篷车星系的骑行者保护之下，其存在可以阻止危险。每日1次，当你在一次骑术检定中成功，你可以立即对离你最近的敌人尝试一次威吓检定。如果你在该检定中失败，你下一次对抗那个对手的威吓检定DC不会增加(尽管它通常会增加)。
+|source_name=宇宙背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zhc3ea784a66.htm
+}}

@@ -1,0 +1,20 @@
+{{魔法物品
+|name=微缩法杖
+|english_name=Staff of Belittling
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Belittling
+|cat=法杖
+|aura=中等变化系
+|cl=8
+|slot=无
+|price=20,000 gp
+|weight=5磅
+|description=持有这根蓝白相间的法杖的人再也无需感到渺小或软弱，因为这根法杖会把所有人和所有东西都缩小到恰当的尺寸。该法杖可以使用以下法术：
+
+* [[缩小术]]（1 发）
+* [[动物缩小术]]（2 发）
+* [[缩物术]]（2 发）
+* [[群体缩小术]]（4 发）
+|req=[[制造法杖]]、[[群体缩小术]]、[[动物缩小术]]、[[缩小术]]、[[缩物术]]
+|cost=10,000 gp
+|source=极限宝具
+}}

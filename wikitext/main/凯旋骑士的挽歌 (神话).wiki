@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[凯旋骑士的挽歌]] 的神话版本。</small></div>
+{{Spell
+|name=凯旋骑士的挽歌
+|english_name=Dirge of the Victorious Knights
+|school=幻术系 (幽影幻觉)
+|levels=吟游诗人 6;歌者 6
+|description=伤害增加至每施法者等级1d10点（最高20d10）。反射豁免失败的生物会被击倒在地（陷入俯卧状态），并且必须通过强韧豁免，否则会被[[震慑]]1轮。
+
+强化（7阶）：若你花费2次神话之力，区域增加至240尺长、20尺宽的线形。该法术造成的所有寒冷伤害都无视寒冷抗力和寒冷免疫。
+|source=神话源始
+}}
+[[分类:神话法术]]

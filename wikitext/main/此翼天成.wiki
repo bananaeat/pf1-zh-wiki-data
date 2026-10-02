@@ -1,0 +1,10 @@
+{{Trait
+|name=此翼天成
+|english_name=Natural Flyer
+|type=战斗
+|aliases=天生飞行者
+|description=在你的人生之中，天空始终对你具有巨大的诱惑力。你梦想着飞行会给你带来的自由和快感。你在飞行检定中获得+1背景加值，在飞行中所进行的特技检定也享有此加值。飞行始终是你的[[本职技能]]。
+|source_name=古国血脉
+|source=BotA
+|source_url=https://pf1chm.pages.dev/topics/zhb7c0053e99.htm
+}}

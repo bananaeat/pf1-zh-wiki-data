@@ -1,0 +1,11 @@
+{{Feat
+|name=高呼挑衅
+|english_name=Cry Challenge
+|description=通过凶猛的吼叫或有力的手势，你能激起对手的愤怒。通过诱使对手对你进行鲁莽的攻击，你为盟友创造了进攻机会。
+|prerequisites=[[嘲讽]]（UM）。
+|benefit=当你进行五尺快步时，你可以选择让这次移动引发所有在该次移动后仍威胁你的敌人对你的[[借机攻击]]。对抗此专长引发的借机攻击，你的AC+4闪避加值。
+|normal=五尺快步不会引发借机攻击。
+|source=GHH
+|source_name=巨人猎手手册
+|source_url=https://pf1chm.pages.dev/topics/zh804f69f232.htm
+}}

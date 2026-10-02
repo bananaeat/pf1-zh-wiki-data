@@ -1,0 +1,48 @@
+{{速查导航}}
+{{怪物
+|name=豺狼人主将
+|english_name=Gnoll Lieutenant
+|cr=6
+|xp=2,400
+|classline=豺狼人战士5
+|alignment=混乱邪恶
+|size=中型
+|type=类人生物
+|subtypes=豺狼人亚种
+|init=+1
+|senses=黑暗视觉60尺；察觉+0
+|ac=20，接触11，措手不及19（+7护甲，+1敏捷，+1天生，+1盾牌）
+|hp=55（7HD；2d8+5d10+19）
+|fort=+10
+|ref=+3
+|will=+2（对抗恐惧时额外+1）
+|defensive=英勇+1
+|speed=20尺
+|melee=+1蝎尾鞭+14/+9（1d4+9）
+|ranged=精制品标枪+8/+3（1d6+5）
+|special_attacks=武器训练（连枷+1）
+|tactics=<div class="ml wide"><span class="k">战斗中</span>主将尝试依靠威吓挫败敌人的士气，并在较远的距离外挥舞鞭子抽打敌人</div>
+|str=20
+|dex=12
+|con=15
+|int=6
+|wis=10
+|cha=12
+|bab=+6
+|cmb=+11
+|cmd=22
+|feats=[[炫目技巧]];擅长异种武器（鞭子）;[[精通长鞭熟稔]] UC;[[威逼]];[[猛力攻击]];[[武器专攻]]（鞭子）;[[长鞭熟稔]] UC
+|skills=[[威吓]]+16
+|languages=豺狼人语
+|sq=护甲训练1
+|combat_gear=治疗轻伤药水 x2;治疗中伤药水;炽火胶 x3;爆雷石 x2
+|gear=精制品板条甲;精制品轻钢盾;+1蝎尾鞭 UE;精制品标枪;抗力斗篷+1;15GP
+|environment=温暖平原或沙漠
+|source=怪物志
+|family=豺狼人（怪物志）
+|npc=1
+|lore=
+主将依靠自己咆哮的命令和噼啪作响的撕肉长鞭震慑敌人与属下，将其他[[豺狼人(怪物)|豺狼人]]赶向战场并让对手在它们的攻势下畏葸不前。
+}}
+
+本页译自《[[怪物志]]》的怪物图鉴 CHM。

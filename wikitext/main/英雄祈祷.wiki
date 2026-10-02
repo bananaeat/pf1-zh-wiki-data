@@ -1,0 +1,20 @@
+{{Spell
+|name=英雄祈祷
+|english_name=Heroic invocation
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=奥能师 9;女巫 9;异能者 9;术士 9;法师 9
+|action=10分钟
+|components=语言;姿势
+|range=近距
+|target=一个或更多生物，互相之间不超过30尺
+|duration=10分钟/等级
+|save=意志，通过则无效（无害）
+|sr=是
+|description=通过充满远古力量的世界，你赋予所有受术生物英雄般的力量。（译注：AoN 原文作「worlds of ancient power」，疑为笔误，应为「words of ancient power」，即“远古力量的言语”。）
+
+目标在法术持续过程中，攻击骰和伤害骰获得+4士气加值，获得2d8+4点临时生命，并且在持续时间内免疫恐惧和魅惑的影响。
+
+在法术持续时间结束时，目标将会陷入[[疲乏]]。
+|source=极限战斗
+}}

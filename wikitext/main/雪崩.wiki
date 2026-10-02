@@ -1,0 +1,11 @@
+{{物品
+|name=雪崩
+|english_name=The Avalanche
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。抽牌者成为地震的中心，如同[[地震术]]。除了需要豁免该效果，抽牌者必须再通过一个意志检定否则被禁锢。
+
+熊（The Bear）
+
+抽牌者获得兽化模板，成为熊人（werebear）。他被视为天生的兽化人，治疗疾病和治愈术对此无效。
+}}

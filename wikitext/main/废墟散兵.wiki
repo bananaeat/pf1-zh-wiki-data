@@ -1,0 +1,11 @@
+{{Feat
+|name=废墟散兵
+|english_name=Rubble Skirmisher
+|categories=战斗
+|description=当你使用[[战技]]时，你能将[[困难地形]]作为你的优势。
+|prerequisites=敏捷13，[[灵狐步]]，基础攻击加值+2。
+|benefit=当你处于一个天然存在困难地形（丛林植被、碎石瓦砾、下层灌木、凡此种种）的方格时，你可在战技检定和你的战技防御上，获得+2环境加值。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''防御扩充'''（Expanded Defense, Su）是[[操念使]]的[[原力]]。
+
+元素：通用；类别：通用（Su）；等级：4；超载：－
+
+从你在元素扩展中选择的元素里挑选一种。你会获得这个元素的[[护身原力]]。你可以多次选取这个原力，每次选取都要选择不同的元素类型。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Expanded Defense|2=Expanded Defense}}
+
+[[分类:原力]]

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=猎手鼻环
+|english_name=Hunter's Nose Ring
+|aon=MagicWondrousDisplay.aspx?FinalName=Hunter's Nose Ring
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=头部
+|price=10,000 gp
+|description=这枚鼻环看上去是用五股白金丝编成的。它赋予穿戴者灵敏嗅觉能力，并使穿戴者在涉及嗅觉的察觉检定，以及运用灵敏嗅觉追踪的生存检定上获得+4表现加值。
+|req=[[制造奇物]]、[[猎犬追踪]]、价值250 gp的白金戒指
+|cost=5,000 gp
+|source=怪物志
+}}

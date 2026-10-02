@@ -1,0 +1,11 @@
+{{Feat
+|name=脱力目光
+|english_name=Fatiguing Stare
+|categories=战斗;凝视
+|description=你的痛苦注视会让敌人感到[[疲乏]]。
+|prerequisites=催眠师7级，痛苦注视职业能力
+|benefit=当一个目标由于你的痛苦注视而受到伤害时，它必须进行一次强韧豁免检定（DC = 10 + 1/2你的催眠师等级 + 你的魅力调整值），失败则会陷入疲乏，持续1轮。该效果不会让目标陷入[[力竭]]，即使目标当前已经陷入疲乏也无法做到这点。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

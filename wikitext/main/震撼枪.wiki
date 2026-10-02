@@ -1,0 +1,23 @@
+{{科技物品
+|name=震撼枪
+|english_name=Stun gun
+|kind=科技武器
+|sub=火器
+|price=3,000 gp
+|weight=3磅
+|wtype=单手远程
+|prof=异种（火器）
+|dmg_s=1d6
+|dmg_m=1d8
+|dmg_type=—
+|crit=×2
+|range=20尺
+|capacity=10
+|usage=1
+|special=非致命、半自动、接触
+|description=这件武器用音波放大器产生强力的低频能量冲击来重击目标。它的射程相对较短，但能在远距离造成[[非致命伤害]]，还能把目标击倒在地，因此深受想要活捉敌人的人喜爱。震撼枪的命中造成非致命伤害；重击命中时，该枪可以对目标进行一次免费的[[摔绊]]战技检定（CMB＝使用者的基础攻击加值+10），此次尝试不会引发[[借机攻击]]。
+|construction=[[制造科技武器和护甲]]、军事工作间
+|craft_dc=22
+|cost=1,500 gp
+|source=科技指南
+}}

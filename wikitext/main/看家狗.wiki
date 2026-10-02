@@ -1,0 +1,11 @@
+{{消歧义|残酷(背景特性)}}
+{{Trait
+|name=看家狗
+|english_name=Brute
+|type=种族
+|prerequisites=[[半兽人]]
+|description=你作为打手或者门卫为一位罪恶领主卖命，并精于吓跑人群。你的威吓检定获得+1背景加值，并且总能将威吓视为你的[[本职技能]]。
+|source_name=种族背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

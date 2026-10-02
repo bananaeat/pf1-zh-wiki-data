@@ -1,0 +1,13 @@
+{{Feat
+|name=无误正义
+|english_name=Inerrant Justice
+|categories=故事
+|pfs=否
+|description=你誓要惩罚有罪之人，且绝不让无辜受到牵连。
+|prerequisites=你必须亲眼见证或亲身经历一桩未曾受到惩罚的重大不义之事，或拥有"以眼还眼（An Eye for an Eye）"或"惨遭劫掠（Raiders）"角色背景（出自极限战役）。若加害者不是一个强大敌手，则该角色会逐步成长为一名强大敌手，或与一个或多个强大敌手结盟。
+|benefit=每天1次，当你命中一个未察觉你存在或将你视为盟友的敌人时，你可以选择不掷骰，而是直接造成你武器伤害骰的最大值。额外的骰子（例如偷袭、突袭攻击、[[要害打击]]等带来的伤害骰）仍照常掷骰。
+|goal=完胜或击杀加害者，且过程不得误伤任何无辜。若你误杀了无辜，仍可通过接受一次[[赎罪术]]以完成该目标。
+|completion_benefit=你可以在每场战斗中使用该专长效果1次。
+|source_name=间谍大师手册
+|source_url=https://pf1chm.pages.dev/topics/zh704e55dbf1.htm
+}}

@@ -1,0 +1,12 @@
+<noinclude>{{法师导航}}
+'''理想化'''（Idealize, Su）是[[法师]]的[[奥术发现]]。
+
+</noinclude>{{Source|平衡勇士|Champions of Balance|inline}}
+
+'''前提'''：法师等级10。
+
+'''效果'''：在追求自我完善的过程中，你发现了进一步强化自己和他人的方法。当你施放的变化系法术给一个属性提供增强加值时，这个加值提升2。在20级，这个加值改为提升4。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_319.html 原文]）。全部奥术发现见 [[奥术发现]]。
+
+[[分类:奥术发现]]</noinclude>

@@ -1,0 +1,10 @@
+<noinclude>{{炼金术师导航}}
+'''黑暗炸弹'''（Darkness Bomb*）是[[炼金术师]]的[[科研发现]]。
+
+</noinclude>{{Source|进阶种族手册|Advanced Race Guide|inline}}
+
+'''效果'''：当炼金术师制造炸弹时，他可以选择让炸弹压制目标身上的光源。这会熄灭目标携带的非魔法光源，并且如同[[深幽黑暗术]]一般解除目标携带的魔法光源，持续每等级1轮。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_362.html 原文]），按 AoN 核对过。全部科研发现见 [[:分类:科研发现|分类:科研发现]]。
+
+[[分类:科研发现]]</noinclude>

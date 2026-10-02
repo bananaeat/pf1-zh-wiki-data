@@ -1,0 +1,10 @@
+{{Feat
+|name=精通传说共鸣
+|english_name=Improved Legendary Influence
+|description=随着共鸣的加深，[[英灵]]的传说能提供越来越强的力量。
+|prerequisites=[[传说共鸣]]，次级英灵之力（OA）和慰灵之术（OA）职业能力
+|benefit=为每个你能呼唤的英灵选取第2个专长（[[造物专长]]除外）。每当你通过让英灵对你造成1点共鸣来使得英灵获得[[传说共鸣]]赋予的对应专长时，可以让该英灵对你造成1点额外共鸣，使其获得本专长提供的第2个专长。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

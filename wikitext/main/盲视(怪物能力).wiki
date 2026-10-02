@@ -1,0 +1,13 @@
+<noinclude>{{速查导航|here=规则}}
+{{消歧义|盲视}}
+'''盲视'''（Blindsight）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：感官</span></div>
+</noinclude><includeonly><div class="lang"><span id="盲视"></span><span id="盲视(怪物能力)"></span><div class="lang-h"><b>[[盲视(怪物能力)|盲视]]</b><i>Blindsight</i><span class="lang-w">Ex · 感官</span></div><div class="lang-d"></includeonly>
+这个能力和盲感类似，但是它更加敏锐。利用非可视化感知，像是敏锐的震动感知，敏锐的嗅觉和听觉或者声波定位，拥有盲视的生物战斗或者行动起来就像是拥有视觉的生物。隐身、黑暗和大多数种类的[[隐蔽]]对其无效，前提是两者之间必须要有效果线。这个能力的范围会在不同生物的说明中列出。这类生物通常不需要通过察觉检定就能注意到盲视范围内的生物。除非特殊说明，盲视是常驻的，生物不需要做任何事来使用它。不过有些盲视必须以自由动作启动，这会在该生物的描述中注明。如果生物必须启动盲视，那么它只有在自己的回合才能获得盲视的益处。
+
+'''格式'''：盲视 60 尺
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Blindsight|2=Blindsight}}
+
+[[分类:通用怪物规则]]</noinclude>

@@ -1,0 +1,11 @@
+{{武器
+|name=精金弹头
+|english_name=Bullet, adamantine
+|category=火器
+|prof=异种
+|wcat=弹药
+|price=61 gp
+|weight=—
+|description=这种昂贵的弹头由精金加工而成。它在攻击物品时将忽略20或以下的硬度。
+|source=极限战斗
+}}

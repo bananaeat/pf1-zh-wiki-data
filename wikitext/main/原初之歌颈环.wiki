@@ -1,0 +1,15 @@
+{{魔法物品
+|name=原初之歌颈环
+|english_name=Torc of the Primal Song
+|aon=MagicWondrousDisplay.aspx?FinalName=Torc of the Primal Song
+|cat=奇物
+|aura=中等惑控系
+|cl=9
+|slot=颈部
+|price=6,000 gp
+|weight=4磅
+|description=这个沉重的金色颈环看起来像一根编织的绳索。当穿戴者表演战怒之歌，或从盟友的战怒之歌中受益时，她在歌曲持续期间获得顽强专长。此外，在表演结束后（或本该不再影响穿戴者时），她仍会再受益于任何有益的战怒之歌或吟游表演1轮。这不会与其他延长已结束表演之效果的手段叠加。
+|req=[[制造奇物]]、[[高等英雄气概]]
+|cost=3,000 gp
+|source=进阶职业指南
+}}

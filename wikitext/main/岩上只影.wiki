@@ -1,0 +1,9 @@
+{{Trait
+|name=岩上只影
+|english_name=Loner of the Rocks
+|type=种族
+|prerequisites=[[土元素裔]]
+|description=感受到非[[土元素裔]]种族的轻浮，你选择拥抱隐士的生活，除了你的岩石之家外不怎么与人连络。你在医疗和生存检定获得+1背景加值。你在山脉与地下环境的生存检定加值提升1点。
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh3a98986c0e.htm
+}}

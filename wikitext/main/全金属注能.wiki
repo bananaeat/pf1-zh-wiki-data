@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''全金属注能'''（Rare-Metal Infusion）是[[操念使]]的[[原力]]。
+
+元素：土；类别：性质注能；等级：3；超载：2
+
+关联[[念袭]]类别：[[轰钢]]
+
+豁免：无
+
+你能够控制金属的特性，让你的轰钢如同{{材料|精金}}、{{材料|寒铁}}或者{{材料|炼银}}（由你选择）一般克服伤害减免。若你的目标是需要正确的金属类型才能够克服的罕见伤害减免（比如DR/黄金），那么你还可以选择此类金属以满足要求。你使用这个注能创造的金属会在不久之后逐渐消失，而且不具有任何金币价值。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Rare-Metal Infusion|2=Rare-Metal Infusion}}
+
+[[分类:原力]]

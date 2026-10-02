@@ -1,0 +1,10 @@
+{{Feat
+|name=狮心
+|english_name=Lion's Heart
+|description=受到跃狮西里卡的传奇鼓舞，你拒绝属性伤害妨害到你。
+|prerequisites=感知15，强化强韧
+|benefit=选择一个属性，你在属性伤害等同于你该属性值之前忽略其减值。
+|special=你可以多次选择这个专长，每次需要选择不同属性。
+|source_name=冒险之路132：六传奇之魂
+|source_url=https://pf1chm.pages.dev/topics/132_The_Six-Legend_Soul.htm
+}}

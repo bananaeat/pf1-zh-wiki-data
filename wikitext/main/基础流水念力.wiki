@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''基础流水念力'''（Basic Hydrokinesis, Sp）是[[操念使]]的[[原力]]。
+
+元素：水；类别：通用（Sp）；等级：1；超载：0
+
+你能够如同使用[[造水术]]一般创造清水，也可以如同使用[[净化食粮]]一般把水净化，还可以如同使用[[魔法伎俩]]一般把潮湿的物体和生物弄干。虽然你不能使用该能力把水抬升到空中，但你可以通过专注来在水体中制造水流。由此产生的水流强大到足以驱动水磨，就好像力量属性和你的体质属性相同的生物手动旋转石磨一般。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Basic Hydrokinesis|2=Basic Hydrokinesis}}
+
+[[分类:原力]]

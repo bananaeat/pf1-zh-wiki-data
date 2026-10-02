@@ -1,0 +1,17 @@
+{{魔法物品
+|name=鱼草
+|english_name=Fishweed
+|aon=MagicPlantsDisplay.aspx?FinalName=Fishweed
+|cat=魔法植物
+|aura=微弱变化系
+|cl=5
+|slot=无
+|price=30,000 gp
+|weight=50磅
+|description=这种枝叶繁茂的绿色植物生长在浅水区域，如小湖或沿海水域。咀嚼它的叶片可以获得寒冷抗力5，并使使用者无需空气也能存活。一片叶子提供这些益处，最长持续1小时。
+
+鱼草每天最多产出4片叶子。一丛鱼草同一时间最多有28片叶子。它的生长期是夏季的13周。
+|req=[[奇植培育]]、[[水中呼吸]]，培育者必须拥有知识（自然）1级
+|cost=15,000 gp
+|source=极限荒野
+}}

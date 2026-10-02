@@ -1,0 +1,14 @@
+{{魔法物品
+|name=控心之眼
+|english_name=Mindmaster's Eyes
+|aon=MagicWondrousDisplay.aspx?FinalName=Mindmaster's Eyes
+|cat=奇物
+|aura=强烈惑控系
+|cl=11
+|slot=眼部
+|price=95,000 gp
+|description=一对薄薄的、有切面的红宝石晶片，覆在佩戴者的眼睛上。佩戴者可以凭命令使用[[魅惑怪物]]（DC 19意志豁免无效），或者改为每天一次使用[[支配人类]]（DC 20意志豁免无效）。
+|req=[[制造奇物]]、[[魅惑怪物]]、[[支配人类]]
+|cost=47,500 gp
+|source=极限宝具
+}}

@@ -1,0 +1,12 @@
+{{消歧义|骑士精神 (消歧义)}}
+{{Trait
+|name=骑士精神
+|english_name=Chivalrous
+|type=地区
+|description=你的成长伴随着塔尔多黄金时代英武骑士和慈爱法师的传奇故事，所以你想要去效仿他们，去完成他们所成就的事迹。
+
+你在交涉和知识（历史）检定上获得+1背景加值。
+|regions=塔尔多
+|source_name=塔尔多，荣光荡漾之地
+|source_url=https://pf1chm.pages.dev/topics/page_938.html
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=增效血咒戒指
+|english_name=Ring of Powerful Blood Magic
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Powerful Blood Magic
+|cat=戒指
+|aura=中等塑能系
+|cl=9
+|slot=戒指
+|price=3,000 gp
+|description=当这枚[[魔法物品#戒指|戒指]]的佩戴者在处于[[血怒]]状态下施法时，以[[迅捷动作]]，他能够将法术的豁免DC增加1点。佩戴者每日至多可以这么做3次。该能力对不需要进行豁免检定的法术没有效果。
+|req=[[锻造戒指]]、[[法术专攻]]、制造者必须具有血怒职业能力
+|cost=1,500 gp
+|source=进阶职业指南
+}}

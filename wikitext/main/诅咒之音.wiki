@@ -1,0 +1,18 @@
+{{仪式
+|name=诅咒之音
+|english_name=Voice of the Damned
+|school=死灵系
+|level=4
+|action=30分钟
+|components=语言（V），姿势（S），材料（M，一把价值150 GP的刃片和一张羊皮纸），次要施法者（SC，最多至主要施法者「智力修正」数）
+|skills=交涉DC 31，2次成功；威吓DC 31，2次成功；
+|range=近距
+|effect=一个被中和的[[作祟]]（one neutralized haunt）
+|duration=1分钟/等级
+|save=意志，通过则无效
+|sr=无
+|backlash=全部施法者受到1d6点体质伤害（Constitution damage）。
+|failure=全部施法者受到1d6点体质吸收（Constitution drain）。
+|description=该施法者可唤醒一个被中和作祟那徘徊中的意识。仪式完成后，赋予该作祟在施法者面前可以以一种类其实体的灵体显形而出，并且它可以使用该施法者的鲜血，在提供的羊皮纸上草草的写下25个词或更少的信息。就像一道[[预言术]]（divination）法术提供的信息一样，该信息可提供了一条关于如何永久摧毁该作祟的晦涩提示，只不过这些信息不可能是错误的，因为该作祟是希望终结其痛苦的。
+|source=闹鬼英雄手册
+}}

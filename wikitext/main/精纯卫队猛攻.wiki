@@ -1,0 +1,10 @@
+{{Feat
+|name=精纯卫队猛攻
+|english_name=Pure Legion Assault
+|categories=战斗
+|description=精纯卫队训练你运用宗教学识来预判并击败神祇的仆从。
+|prerequisites=[[唬骗]]1级，[[知识]]（宗教）1级，拥有精纯卫队新兵背景（见沙之子民第21页）。
+|benefit=你在对抗神术以及来自神圣的效果，以及异界生物的能力时，豁免检定获得+2加值。若你必须对一个神术进行豁免检定，则你在对施放该法术的生物进行攻击时，攻击检定获得+1加值。
+|source_name=间谍大师手册
+|source_url=https://pf1chm.pages.dev/topics/zh704e55dbf1.htm
+}}

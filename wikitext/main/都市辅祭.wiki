@@ -1,0 +1,10 @@
+{{Trait
+|name=都市辅祭
+|english_name=Urban Acolyte
+|type=信念
+|benefit=在城市中长大开阔了你的哲学理念，让你用崭新的方式来理解你神祇的神圣意志。将知识(本地)加入你的[[本职技能]]。另外，只要你的神祇能授予相对应的关联领域，你就能使用普通的选取子域规则(APG86页)选择以下子域之一：竞赛、决斗、间谍、碉堡、工厂、律法、瘟疫或暴动子域。
+（译注：一般情况下你只能选择你的神祇所关联的子域，这个背景特性让你突破了这条限制。）
+|source_name=市井英雄
+|source=HotS
+|source_url=https://pf1chm.pages.dev/topics/zh4c7ba39919.htm
+}}

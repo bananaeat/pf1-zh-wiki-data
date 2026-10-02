@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=帕德玛莲花
+|english_name=Padma Blossom
+|aon=MagicWondrousDisplay.aspx?FinalName=Padma Blossom
+|cat=奇物
+|aura=微弱防护系、惑控系
+|cl=3
+|slot=无
+|price=8,000 gp
+|description=这朵完美的莲花由粉色玉石雕成，带来心灵的纯净与精神的宁静。握持莲花时，它使持有者在专注检定上获得+3表现加值，并压制持有者身上的以下效果：士气加值、恐惧效果，以及困惑、晕眩或震慑状态。持有者每天可以施展[[安定心神]]两次。
+|req=[[制造奇物]]、[[安定心神]]、[[移除恐惧]]
+|cost=4,000 gp
+|source=漆黑毁灭者教团
+}}

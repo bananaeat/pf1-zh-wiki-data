@@ -1,0 +1,16 @@
+{{Spell
+|name=众怒
+|english_name=Shared wrath
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=审判者 4
+|action=标准动作
+|components=语言;姿势;材料（一根带刺的藤蔓）
+|range=近距
+|target=最高每等级1名生物，任意两名之间的距离不得超过30尺
+|duration=1分钟
+|save=意志，通过则无效（无害）
+|sr=是
+|description=该法术的功能如同[[狂怒]]一般，不过你可以使得复数生物对抗你指定的敌人时获得加值。所有众怒的受术者会在对抗同一个生物时获得加值。
+|source=进阶玩家指南
+}}

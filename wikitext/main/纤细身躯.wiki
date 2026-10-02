@@ -1,0 +1,15 @@
+{{Feat
+|name=纤细身躯
+|english_name=Narrow Frame
+|description=你那出色的协调性使你更适于在狭窄的空间行动。
+|prerequisites=逃脱1级，动物或魔法兽
+|benefit=当你挤入的狭小空间的宽度至少有你通常占据空间的一半时，你的攻击检定与AC不会由于挤压而遭受减值。不过进入或通过狭窄空间时，每次移动仍需消耗双倍的移动距离。
+|normal=当你被挤压时，攻击检定受到-4减值，AC受到-4减值。
+|source=AArch
+|source_name=动物档案
+|source_url=https://pf1chm.pages.dev/topics/page_437.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[轻柔攻击者]]（1 个条目）

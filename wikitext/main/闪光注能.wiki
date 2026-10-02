@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''闪光注能'''（Flash Infusion）是[[操念使]]的[[原力]]。
+
+元素：火；类别：性质注能；等级：4；超载：3
+
+关联[[念袭]]类别：[[蓝焰击]]，[[火冲]]，[[太阳风]]
+
+豁免：意志，通过则无效
+
+你的念袭散发的强光能够晃瞎敌人。每当注能念袭命中敌人而且克服它的[[特殊能力#法术抗力|法术抗力]]时，该名敌人必须成功进行意志豁免，否则便会[[目盲]]1轮，无论它本身是否因念袭而承受伤害均为如此。你可以通过将念袭的伤害减半来使得上述豁免的DC增加2点。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Flash Infusion|2=Flash Infusion}}
+
+[[分类:原力]]

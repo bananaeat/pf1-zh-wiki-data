@@ -1,0 +1,11 @@
+{{Feat
+|name=排队枪毙
+|english_name=Volley Fire
+|categories=战斗;团队
+|description=你受过站成一排进行齐射的相关训练。
+|prerequisites=近程射击
+|benefit=自你上个回合结束以来，每有一名拥有该专长的盟友对距你的目标15尺内的目标进行过远程攻击，你的远程攻击检定就获得+1加值（最高+4）。这些盟友不会为你的敌人提供[[掩蔽]]。
+|source=RTT
+|source_name=远程战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_552.html
+}}

@@ -1,0 +1,15 @@
+{{Feat
+|name=次等法术专修
+|english_name=Minor Spell Expertise
+|description=你能够以类法术能力施放1级法术。
+|prerequisites=能够施放4环法术。
+|benefit=选择一个你已知的1环法术。你能够每日以类法术能力施放该法术2次。而这个法术取自哪个职业的列表，它的CL就等同于你在该职业上的CL。类法术能力的豁免DC基于魅力。如果该法术需要昂贵的材料或法器成分，它就不能被该专长所选取。你不能将[[超魔专长]]应用到该法术上。
+|special=你可以多次选取该专长。它的效果不会叠加。每次选取该专长，它都会应用在一个新的法术上。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[高等法术专修]]（1 个条目）

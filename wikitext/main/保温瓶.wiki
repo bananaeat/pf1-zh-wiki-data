@@ -1,0 +1,9 @@
+{{装备
+|name=保温瓶
+|english_name=Insulated flask
+|cat=冒险装备
+|price=2 sp
+|weight=1磅
+|description=这个容器是一个金属保温杯，其开口可以重新密封，内部能存放任何类型的可饮用液体。与倒入杯子或其它未密封容器中的同类液体相比，保温瓶内的液体维持恒温的时间足有三倍之多。
+|source=极限荒野
+}}

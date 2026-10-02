@@ -1,0 +1,9 @@
+{{Trait
+|name=留神预备
+|english_name=Heedful Readiness
+|type=信念
+|description=多年的冥想和正念令你能够在瞬间的专注下正确行动。每日一次，你可以在[[先攻]]检定中加上感知修正。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh484c89782e.htm
+}}

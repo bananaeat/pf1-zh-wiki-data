@@ -1,0 +1,13 @@
+{{危害
+|name=毒芹汁
+|english_name=Hemlock
+|kind=毒药
+|type=摄入
+|save=强韧 DC 18
+|onset=10分钟
+|frequency=1次/分钟，持续6分钟
+|effect=1d6点敏捷伤害；敏捷被降至0的生物会[[窒息]]
+|cure=2次豁免
+|price=2,500 gp
+|source=核心规则书、极限宝具
+}}

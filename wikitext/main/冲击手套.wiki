@@ -1,0 +1,15 @@
+{{魔法物品
+|name=冲击手套
+|english_name=Impact Gauntlets
+|aon=MagicWondrousDisplay.aspx?FinalName=Impact Gauntlets
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=手部
+|price=4,500 gp
+|weight=1磅
+|description=这些手套用磨旧的皮革制成；手掌光滑，而手腕和手套背面覆盖着各种形状和颜色的粗糙卵石。只要至少有一只手空闲，穿戴者就能接住小型、中型或大型的岩石和类似的投射物，如同她拥有接石怪物能力一样。被穿戴者接住的石头会缩小，并被手套永久吸收。本身也拥有接石能力的穿戴者，每轮可以接住两次石头，而不是一次。
+|req=[[制造奇物]]、[[缩物术]]
+|cost=2,250 gp
+|source=巨人猎手手册
+}}

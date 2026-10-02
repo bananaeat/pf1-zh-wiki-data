@@ -1,0 +1,9 @@
+{{装备
+|name=巨人巢穴渗透者工具包
+|english_name=Giant lair infiltrator's kit
+|cat=套装
+|price=215 gp
+|weight=33磅
+|description=这种最常见于瓦瑞西亚的工具包包括了1个[[滑轮组]]、50尺长的[[铁链]]、1套攀爬工具、1根[[撬棍]]和1根[[长杆]]。
+|source=巨人猎手手册
+}}

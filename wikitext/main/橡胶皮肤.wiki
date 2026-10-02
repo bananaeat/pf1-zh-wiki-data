@@ -1,0 +1,13 @@
+{{Spell
+|name=橡胶皮肤
+|english_name=Rubberskin
+|school=变化系
+|levels=炼金术师 4;调查员 4;魔战士 4;奥能师 5;女巫 5;术士 5;法师 5
+|action=标准动作
+|components=语言;姿势;材料（一块橡胶或沥青）
+|range=个人
+|duration=10分钟/等级
+|sr=否
+|description=你的皮肤更有弹性，可以分散冲击力。法术持续时间内，你所受的所有钝击伤害和坠落伤害都会被转为非致命伤害。当你免疫非致命伤害时该法术无效。
+|source=近战战术工具箱
+}}

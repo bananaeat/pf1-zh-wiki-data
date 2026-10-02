@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Varisia, Birthplace of Legends pg. 29），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=头号熟客
+|english_name=Best Customer
+|type=战役
+|pfs=否
+|description=自你记事起，你每晚都坐在锈龙酒馆里你最爱的那张高脚凳上——有些晚上因为喝多了几杯，你连这些都记不起来。在一次又一次的醉意朦胧中，你和这家酒馆的老板阿美子、或者她的常客之一桑德鲁混得很熟。此外，你对烈酒的各种用途十分熟悉。每当你手头有酒精饮料时，你可以消耗一份，使你的一次[[医疗]]检定获得+2背景加值。如果你治疗的是你最爱的酒友（由你选择的NPC），这个加值提高到+4。NPC选项：阿美子、桑德鲁。
+|source_name=瓦瑞西亚，传说诞生之地
+|source=VBoL
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Best%20Customer
+}}

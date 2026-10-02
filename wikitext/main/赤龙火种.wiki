@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 19），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=赤龙火种
+|english_name=Firebug (Kobold)
+|type=种族
+|pfs=否
+|prerequisites=[[狗头人]]
+|description=就像启迪你们部族的红龙一样，你天生带有一小簇纵火魔法的火花。你可以每天三次以类法术能力施放[[火花术]]，施法者等级等同于你的角色等级。这项类法术能力的豁免DC基于智力。
+|source_name=格拉利昂的狗头人
+|source=KoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Firebug%20%28Kobold%29
+}}

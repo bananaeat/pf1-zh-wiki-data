@@ -1,0 +1,9 @@
+{{Trait
+|name=结构知识
+|english_name=Structural Knowledge
+|type=宗教
+|prerequisites=信仰芬德烈莱拉
+|description=你在建筑结构和技巧上受到祝福。你在知识（工程）上获得+1背景加值，且知识（工程）视作你的[[本职技能]]。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

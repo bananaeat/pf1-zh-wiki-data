@@ -1,0 +1,10 @@
+{{Trait
+|name=镇定
+|english_name=Unflappable
+|type=派系
+|description=不论是因为你献身事业的精神，还是单纯的赋有勇气，反正看起来没什么能够吓到你。你在对抗恐惧效果时的豁免检定获得+1背景加值。在使用威吓对你进行挫败士气时DC提高3点。
+
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

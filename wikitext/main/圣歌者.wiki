@@ -1,0 +1,9 @@
+{{Feat
+|name=圣歌者
+|english_name=Hymn Singer
+|description=你的音乐被你的信念所感染。
+|prerequisites=诗人表演，善良阵营，信仰善良神祇
+|benefit=当你使用诗人表演，你可以选择演奏，背诵或咏唱一段宗教歌曲或一段宗教圣典。你如此做的每一轮，都视同你出示了圣徽，进行祈祷或摇响手铃一般，令吸血鬼却步。
+|source_name=夜之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_823.html
+}}

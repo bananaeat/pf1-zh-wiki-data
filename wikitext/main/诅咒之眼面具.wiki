@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=诅咒之眼面具
+|english_name=Mask of the Cursed Eye
+|aon=MagicWondrousDisplay.aspx?FinalName=Mask of the Cursed Eye
+|cat=奇物
+|aura=微弱死灵系
+|cl=3
+|slot=面部
+|price=2,500 gp
+|weight=1磅
+|description=这副面具上装饰着一只瞪视的、布满血丝的眼睛。除盟友之外，任何通过探知法术观察穿戴者，或用预言系法术识破其任何魔法伪装（包括隐形和变形效果）的人，都会[[目盲]]1d4分钟（强韧豁免DC 16无效），穿戴者则会在脑海中短暂瞥见那名冒犯者。这足以让探知或传送术去查探那名冒犯者，但穿戴者被视为对该目标毫无熟悉度。面具每天只能触发一次，之后便陷入休眠，直到下一个午夜。
+|req=[[制造奇物]]、[[目盲/耳聋术]]
+|cost=1,250 gp
+|source=内海诡道
+}}

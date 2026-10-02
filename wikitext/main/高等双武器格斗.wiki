@@ -1,0 +1,11 @@
+{{Feat
+|name=高等双武器格斗
+|english_name=Greater Two-Weapon Fighting
+|categories=战斗
+|description=你是[[双武器战斗]]的高手。
+|prerequisites=敏捷19，[[精通双武器格斗]]，[[双武器格斗]]，基本攻击加值+11。
+|benefit=你可使用副手武器作第三次攻击，但受到-10减值。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

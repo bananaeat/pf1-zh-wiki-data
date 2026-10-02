@@ -1,0 +1,10 @@
+{{Feat
+|name=掘地利齿
+|english_name=Burrowing Teeth
+|description=你拥有的利齿与[[锐爪]]很适合用来挖坑。
+|prerequisites=[[锐爪]]，[[坑道鼠]]，鼠族。
+|benefit=你获得等同于你1/2基本速度的掘地速度。你可以钻到沙子、泥土、[[粘土]]、沙砾或者其他类似的材质中，但是不能通过坚固的石头。你身后不会留下隧道，地表之上也不会出现痕迹。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

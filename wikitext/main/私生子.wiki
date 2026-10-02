@@ -1,0 +1,9 @@
+{{Trait
+|name=私生子
+|english_name=Bastard
+|type=社会
+|description=你并非婚姻的结晶。无论在社群中还是家庭里，你都像是边缘人。对世态炎凉的透彻观察增进了你的洞察力。你的察言观色检定获得+1背景加值，并且总能将察言观色视为你的[[本职技能]]。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

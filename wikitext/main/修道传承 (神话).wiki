@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[修道传承]] 的神话版本。</small></div>
+{{Feat
+|name=修道传承
+|english_name=Monastic Legacy
+|categories=神话
+|description=每一份全新的体验都会让你曾经遵循的修业之道更上一层楼。
+|prerequisites=[[修道传承]]
+|benefit=在确定武僧AC加值能力的有效武僧等级时，将你所有其他职业等级总和的一半计入你的武僧等级。以[[自由动作]]，你能够花费1次神话之力，以此将你的阶层的一半加到有效武僧等级上，来确定你的基本[[徒手打击]]伤害与AC加值，该效果持续至你的下一回合开始为止。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

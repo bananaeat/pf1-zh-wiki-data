@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[飞跑 (神话)]]。</small></div>
+{{Feat
+|name=飞跑
+|english_name=Run
+|description=你是个飞毛腿。
+|benefit=奔跑时，你移动正常速度的五倍（如果穿着中甲、轻甲或无甲并且没有超过中载）或四倍（如果穿着重甲或重载）。如果你助跑后再跳跃（见特技技能说明），你在特技检定上获得+4加值。奔跑时，你保留敏捷加值到你的AC上。
+|normal=奔跑时，你移动正常速度的四倍（如果穿着中甲、轻甲或无甲并且没有超过中载）或三倍（如果穿着重甲或重载），并且你失去AC上的敏捷加值。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

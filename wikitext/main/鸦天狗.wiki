@@ -1,0 +1,10 @@
+{{Feat
+|name=鸦天狗
+|english_name=Tengu Raven Form
+|description=你可以变身为巨大的黑乌鸦。
+|prerequisites=[[天狗双翼]]，角色等级7，天狗。
+|benefit=每天1次，你可以变成类似乌鸦的大型黑色鸟类形态，这个形态赋予你60尺飞行速度（机动性良好），力量+4体型加值，敏捷-2，并且天生防御+4。该类法术能力其他功能如同‘野兽形态II’，CL等同于角色等级。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

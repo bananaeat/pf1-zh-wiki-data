@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Strange Aeons Player's Guide pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=诡异之敌
+|english_name=Foe of the Strange
+|type=战役
+|pfs=否
+|description=做了一场可怕的噩梦后，你醒来时反而觉得胆气更壮。你梦中那些怪诞的生物非但没有吓倒你，这些经历反倒让你在面对这些令人惊骇的异界存在时更加坚定。你知道自己沦为了离奇境遇和可憎力量的牺牲品，但你拒绝向那渐渐蔓延的无助感屈服。相反，你发誓要反击，不管是谁或是什么造成了你眼下的处境。你噩梦中的生物再也不能让你心怀恐惧。你将主动向它们开战。
+
+你对抗异怪的非凡、类法术和超自然能力（例如惧噬体的胡言乱语或噬智者的困惑）的豁免检定获得+1背景加值。此外，每当你处于[[困惑]]状态并掷骰决定某一轮的行为时，从结果中减去10。
+|source_name=Strange Aeons Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Foe%20of%20the%20Strange
+}}

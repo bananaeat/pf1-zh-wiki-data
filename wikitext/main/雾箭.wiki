@@ -1,0 +1,10 @@
+{{武器
+|name=雾箭
+|english_name=Smoke arrow
+|category=弹药
+|wcat=弹药
+|price=10 gp
+|weight=—
+|description=这支箭实际上是一根特殊造型的烟雾棒，可以用弓射出。它在飞行时拖曳着烟雾，并在命中之处产生一个5尺立方的烟雾。在伤害、射程等其他方面，雾箭的功能和普通箭矢别无二致。
+|source=进阶玩家指南、极限宝具
+}}

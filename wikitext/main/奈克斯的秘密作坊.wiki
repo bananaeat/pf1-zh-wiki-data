@@ -1,0 +1,17 @@
+{{Spell
+|name=奈克斯的秘密作坊
+|english_name=Nex's secret workshop
+|school=防护系
+|levels=奥能师 5;通灵者 4;催眠师 5;秘学士 5;异能者 5;术士 5;唤魂师 5;召唤师 5;召唤师（掉链） 5;法师 5
+|action=标准动作
+|components=语言;姿势;材料（价值150gp的钻石尘）
+|range=近距
+|target=距离内任意数量的生物或物体
+|duration=1小时/等级
+|save=意志，通过则无效（无害，物体）
+|sr=是（无害, 物体）
+|description=此法术是为了保护大量物品不被[[奈克斯弧光领主]]的对手发现而设计的，除了上述注明之处外，其效果如同[[回避侦测]]。施放此法术时，如果你愿意，可以把法术距离内的任何生物或物体排除在外。
+|source=内海诡道
+}}
+
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_1104.html 原文]），按 AoN 核对过。</small>

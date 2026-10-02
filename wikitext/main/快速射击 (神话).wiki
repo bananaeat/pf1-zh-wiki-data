@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[快速射击]] 的神话版本。</small></div>
+{{Feat
+|name=快速射击
+|english_name=Rapid Shot
+|categories=神话
+|description=你能够以惊人的准度连续进行数次射击。
+|prerequisites=[[快速射击]]
+|benefit=当你使用[[快速射击]]专长时，你能够选择忽略该专长对攻击检定带来的-2减值，或者选择进行2次额外攻击以取代原本的1次。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

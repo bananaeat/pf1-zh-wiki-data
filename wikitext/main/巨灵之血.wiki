@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Fire Player's Guide pg. 8），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=巨灵之血
+|english_name=Genie Blood
+|type=种族
+|prerequisites=[[人类]]（柯莱士人）
+|description=你的一位祖先是巨灵一族。选择一种元素（气、土、火或水）。你在对抗利用该元素之攻击的豁免检定上获得+1背景加值（气对应寒冷、土对应强酸、火对应火焰、水对应电击），并且对该亚种生物进行的[[唬骗]]、[[交涉]]、[[威吓]]和[[察言观色]]检定获得+1背景加值。
+|source_name=烈焰传承玩家手册
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Genie%20Blood
+}}

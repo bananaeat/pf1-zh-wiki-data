@@ -1,0 +1,16 @@
+{{魔法物品
+|name=迷幻刺青
+|english_name=Mesmerizing Tattoo
+|aon=MagicTattooDisplay.aspx?FinalName=Mesmerizing Tattoo
+|cat=魔法纹身
+|aura=微弱惑控系
+|cl=5
+|slot=无
+|price=10,800 gp
+|description=这个阴暗的刺青以螺旋图案画在携带者的一条手臂上。如果刺青可见，携带者在[[交涉]]检定上获得+2环境加值。
+
+每当携带者使用催眠术（[[神秘技能解放]]）、施展以单一生物为目标的惑控系法术，或使用[[催眠师#催眠注视|催眠注视]]职业能力时，其目标在该能力持续期间的意志豁免承受-1减值，并且以催眠术（神秘技能解放）影响该目标的DC降低1。这是影响心灵的效果。
+|req=[[绘制魔法刺青]]、[[暗示术]]
+|cost=5,400 gp
+|source=阴影血脉
+}}

@@ -1,0 +1,10 @@
+{{武器
+|name=掷镖
+|english_name=Atlatl dart
+|category=弹药
+|wcat=弹药
+|price=1 gp
+|weight=2磅
+|description=掷镖与标枪相当，只是带有箭羽。若不使用掷镖器而直接投掷，则视为标枪。
+|source=极限宝具
+}}

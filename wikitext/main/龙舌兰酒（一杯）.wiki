@@ -1,0 +1,9 @@
+{{装备
+|name=龙舌兰酒（一杯）
+|english_name=Pulque (cup)
+|cat=饮食
+|price=1 sp
+|weight=1/2磅
+|description=这种营养丰富、乳白色的酒精饮料由龙舌兰（世纪树）的芯发酵而成。
+|source=极限宝具
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=细胞调整
+|english_name=Cellular Match
+|type=种族
+|prerequisites=[[仿生人]]
+|description=当你受到变形法术或效果的影响时，你的奈米机械能在分子水平上进行调整。在变形效果的持续时间内时，当效果要求特定的目标生物类型时，你只被视为类人生物。例如，当你变形时，游侠的构装体宿敌加值不会作用在你身上，但是像完全修复术这类法术也无法作用。此背景修改了仿生人的被创造者种族特性的一部分，但是特性的其余部分没有改变(变形的仿生人仍然不能从士气加值中获益，依然免疫恐惧等等)。
+|source_name=繁星子民
+|source_url=https://pf1chm.pages.dev/topics/page_939.html
+}}

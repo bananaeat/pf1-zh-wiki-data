@@ -1,0 +1,10 @@
+<noinclude>{{杀手导航}}
+'''支持队友'''（Studied Ally, Ex）是[[杀手]]的[[杀手天赋|杀手天赋]]。
+
+</noinclude>{{Source|进化职业起源|Advanced Class Origins|inline}} 杀手可以以一个[[移动动作]]研究他能看到的一个盟友或友善生物。杀手为该盟友的技能检定、攻击或AC使用[[协助他人]]动作时，其检定和攻击检定获得+1加值。这个加值的增长速度和杀手的杀戮目标加值相同。7级时，杀手可以以移动动作或[[迅捷动作]]研究盟友。杀手的研究盟友计入他同时能维持的研究目标数量。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_118.html 原文]）。尝血者、支持队友译自[https://pf1chm.pages.dev/topics/page_581.html 斯科扎尼黑手一章]，永世仇敌、人生经验、直面恐怖、山坡伏击、神秘之纱、重唤技艺译自[https://pf1chm.pages.dev/topics/page_1338.html 传承武学一章]，集中毒药、偏转毒药译自[https://pf1chm.pages.dev/topics/page_1261.html 静谧毒杀者一章]，猫族盗贼天赋译自[https://pf1chm.pages.dev/topics/page_451.html 种族特性一章]；壁垒、额外残岩、坚固阵地、失衡技巧、阵营偷袭、切裂阵营、一人千面、通晓探知照站上同名盗贼天赋单页。均按 AoN 核对过。全部杀手天赋见 [[杀手天赋]]。
+
+[[分类:杀手天赋]]
+
+{{职业}}</noinclude>

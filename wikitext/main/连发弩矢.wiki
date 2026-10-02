@@ -1,0 +1,10 @@
+{{武器
+|name=连发弩矢
+|english_name=Repeating crossbow bolts (5)
+|category=弹药
+|wcat=弹药
+|price=1 gp
+|weight=1磅
+|description=连发弩矢的尺寸专门适配连发弩的弩矢匣。它们比普通弩矢略贵，并以5支而非10支为一组出售（与弩矢匣的容量相符）。
+|source=核心规则书、极限宝具
+}}

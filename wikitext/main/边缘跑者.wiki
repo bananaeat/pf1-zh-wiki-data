@@ -1,0 +1,9 @@
+{{Feat
+|name=边缘跑者
+|english_name=Edge Runner
+|description=你能迅捷而自信地穿行于他人稍不留神便会陷入危险的地方。
+|prerequisites=敏捷13。
+|benefit=你在使用特技技能于狭窄表面上保持平衡时可以全速移动，并且不会因此进入[[措手不及]]状态，也不会失去敏捷加值的AC。你为在坠落时抓住自己而进行的攀爬检定获得+4加值。此外，你在对抗会导致你掉入坑洞的效果（如[[造坑术]]或陷阱坑洞）时的所有豁免检定中也获得+4加值。此加值不适用于对抗[[冲撞]]或[[摔绊]]时的[[CMD]]。
+|source_name=街巷英雄
+|source_url=https://pf1chm.pages.dev/topics/zh9058779a2c.htm
+}}

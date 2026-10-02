@@ -1,0 +1,18 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[塑石术 (神话)]]。</small></div>
+{{Spell
+|name=塑石术
+|english_name=Stone Shape
+|school=变化系
+|tags=土
+|levels=先知 3;德鲁伊 3;战斗祭司 3;牧师 3;猎人 3;秘学士 3;萨满 3;奥能师 4;术士 4;法师 4;红螳螂杀手 4
+|domains=手艺领域 3;土领域 3
+|action=标准动作
+|components=语言;姿势;材料/圣徽（软粘土）
+|range=接触
+|target=接触到的石头或石质物体，至多10立方尺 + 每等级1立方尺的体积
+|duration=立即
+|save=无
+|sr=否
+|description=你可以将现成的石头变成你想要的任何样子。你可以使用塑石术造出简易的石箱、石门和石台，但无法精雕细琢。含可动零件的物体有30%的机率无法运作。
+|source=核心规则书
+}}

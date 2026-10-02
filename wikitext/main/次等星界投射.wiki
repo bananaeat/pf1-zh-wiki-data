@@ -1,0 +1,15 @@
+{{Spell
+|name=次等星界投射
+|english_name=Astral projection, lesser
+|school=死灵系
+|levels=先知 5;奥能师 5;异能者 5;战斗祭司 5;术士 5;法师 5;牧师 5
+|action=30分钟
+|components=语言;姿势;材料（价值1,000gp的红锆石）
+|range=接触
+|target=你，以及施法者等级每2级额外一个接触到的自愿生物
+|duration=见后文
+|save=无
+|sr=是
+|description=这个法术工作方式如同[[星界投射]]，不过你不能离开[[位面#星界|星界]]去探索其他位面 （你仍然可以返回你之前施放这个法术的位面）。
+|source=极限魔法
+}}

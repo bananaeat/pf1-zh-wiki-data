@@ -1,0 +1,14 @@
+{{魔法物品
+|name=隐身粉
+|english_name=Dust of Disappearance
+|aon=MagicWondrousDisplay.aspx?FinalName=Dust of Disappearance
+|cat=奇物
+|aura=中等幻术系
+|cl=7
+|slot=无
+|price=3,500 gp
+|description=这种粉末看上去与[[显像粉]]一样，通常也以同样的方式存放。被它碰到的生物或物体会变得[[隐形]]（如同[[高等隐形术]]）。普通视觉看不见沾了粉末的生物或物体，包括[[识破隐形]]和[[消除隐形]]在内的魔法手段也无法探测到它们。不过，显像粉确实能让被隐身粉隐形的人和物体现形。声音、气味等其他因素也有可能让它们被察觉。粉末赋予的高等隐形术持续2d6轮，隐形的生物并不知道持续时间何时结束。
+|req=[[制造奇物]]、[[高等隐形术]]
+|cost=1,750 gp
+|source=核心规则书、极限宝具
+}}

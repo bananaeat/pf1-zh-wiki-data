@@ -1,0 +1,9 @@
+{{Trait
+|name=烧伤皮肤
+|english_name=Burnished Skin
+|type=种族
+|prerequisites=[[神裔]]（琥珀之民）
+|description=在你年幼时，一场毁灭性的大火将你严重烧伤。不过随着留下的伤疤，你获得了能分清虚幻和现实的神奇力量。在进行豁免检定以识破幻术时，你的豁免检定获得+2背景加值。
+|source_name=天界血脉
+|source_url=https://pf1chm.pages.dev/topics/page_828.html
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=巧舌如簧
+|english_name=Glint-Tongued
+|type=种族
+|prerequisites=[[人类]]（乌尔芬人）
+|description=你拥有以诗意措辞和犀利言辞进行辱骂的天赋。
+|benefit=当你通过基于魅力的技能检定，试图给其他乌尔芬人留下深刻印象或说服他们时(或经GM许可，面对其他有诗意情怀的人时)+1背景加值；并且威吓检定+2背景加值。
+|source_name=北地居民
+|source_url=https://pf1chm.pages.dev/topics/zh63296b3929.htm
+}}

@@ -1,0 +1,9 @@
+<noinclude>{{速查导航|here=规则}}
+'''爬虫亚种'''（Reptilian）是一种怪物[[生物类型与怪物亚种#生物亚种|亚种]]。
+</noinclude><includeonly><div class="lang"><span id="爬虫"></span><span id="爬虫亚种"></span><div class="lang-h"><b>[[爬虫亚种|爬虫亚种]]</b><i>Reptilian</i></div><div class="lang-d"></includeonly>
+这类生物身披鳞片，通常是冷血动物。爬虫亚种仅用于描述一些类人生物种族，而不是所有真正的爬行动物和怪物。
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=MonsterSubtypes.aspx?ItemName=Reptilian|2=Reptilian}}
+
+[[分类:怪物亚种]]</noinclude>

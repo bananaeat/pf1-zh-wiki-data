@@ -1,0 +1,11 @@
+{{Feat
+|name=战斗活力
+|english_name=Combat Vigor
+|categories=战斗
+|description=你可以迅速从毁灭性的攻击中回覆而不借助神圣援助。
+|prerequisites=[[体质]] 13
+|benefit=你获得一个最大值等于你体质加值的活力池。以一个[[标准动作]]，你可以花费不超过每3个HD 1点的活力点（最少1）来恢复每点活力1D6点的生命值（最高7D6）。每次你花费活力点，你会变得[[疲乏]]，持续1分钟。你不能在疲乏或[[力竭]]状态下花费活力点。花费活力点不会引起[[借机攻击]]。在你休息8小时后，这个活力池会恢复到最大值。
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_704.html
+}}

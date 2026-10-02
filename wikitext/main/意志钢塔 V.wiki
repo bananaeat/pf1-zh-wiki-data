@@ -1,0 +1,15 @@
+{{Spell
+|name=意志钢塔 V
+|english_name=Tower of iron will v
+|school=防护系
+|levels=异能者 9
+|action=直觉动作
+|components=语言
+|range=10尺
+|area=以你为中心、半径10尺的散发
+|duration=5轮
+|save=无
+|sr=是（无害）
+|description=该法术的功能如同[[意志钢塔 I]]一般，差异如上所述。该法术可以被降阶施法。
+|source=异能冒险
+}}

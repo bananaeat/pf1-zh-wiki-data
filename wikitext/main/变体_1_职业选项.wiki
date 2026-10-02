@@ -1,0 +1,60 @@
+{{速查导航}}
+
+'''变体/职业选项'''是《[[惧怖冒险]]》的一章：这本书给各职业加的变体的'''总目''' ——整章只有名字，没有正文。
+
+有中文名的逐个查过站上，13 个[[变体职业]]和 5 个反英灵都有页；剩下 24 条'''民间汉化没译'''，只有英文名，列在下面。
+
+== 本章条目 ==
+
+* [[死亡德鲁伊]]（Death Druid；德鲁伊变体）
+* [[退化学家]]（Devolutionist；德鲁伊变体）
+* [[生命引导者]]（Life Channeler；德鲁伊变体）
+* [[破巫之锤]]（Hexenhammer；审判者变体）
+* [[怀言者]]（Living Grimoire；审判者变体）
+* [[作祟收集者]]（Haunt Collector；秘学士变体）
+* [[护符制造师]]（Talisman Crafter；秘学士变体）
+* [[殉道骑士]]（Martyr；圣武士变体）
+* [[心魂卫士]]（Soul Sentinel；圣武士变体）
+* [[受苦骑士]]（Tortured Crusader；圣武士变体）
+* [[古神学者]]（Elder Mythos Scholar；法师变体）
+* [[白死灵师]]（Hallowed Necromancer；法师变体）
+* [[不死者之主]]（Undead Master；法师变体）
+* [[屠夫]]（Butcher；勇士的反英灵）
+* [[欺诈者]]（Deceiver；诡术师的反英灵）
+* [[巫妖]]（Lich；大法师的反英灵）
+* [[终结者]]（Terminator；守护者的反英灵）
+* [[战帅]]（Warmonger；统帅的反英灵）
+* 异端（Heretic；大祭司的反英灵）——'''站上还没有页'''：[[异端]] 那个名字被《[[极限魔法]]》的[[牧师]]变体 Heretic 占着
+
+== 还没译的 ==
+
+这 24 条民间汉化只抄了英文名，站上没有页。
+
+* <code>Blood Alchemist (Archetype)</code>
+* <code>Mad Scientist (Archetype)</code>
+* <code>Dreadnought (Archetype)</code>
+* <code>Fearsome Defender (Archetype)</code>
+* <code>Mooncursed (Archetype)</code>
+* <code>Elder Mythos Cultist (Archetype)</code>
+* <code>Cult Hunter (Archetype)</code>
+* <code>Gravedigger (Archetype)</code>
+* <code>Profiler (Archetype)</code>
+* <code>Dark Elementalist (Archetype)</code>
+* <code>Psychokineticist (Archetype)</code>
+* <code>Dreamstalker (Archetype)</code>
+* <code>Gaslighter (Archetype)</code>
+* <code>Hate-Monger (Archetype)</code>
+* <code>Bloody Jake (Archetype)</code>
+* <code>Family Hunter (Archetype)</code>
+* <code>Witch Killer (Archetype)</code>
+* <code>Exciter (Archetype)</code>
+* <code>Necrologist (Archetype)</code>
+* <code>Experimenter (Archetype)</code>
+* <code>Hangman (Archetype)</code>
+* <code>Serial Killer (Archetype)</code>
+* <code>Gingerbread Witch (Archetype)</code>
+* <code>Tatterdemalion (Archetype)</code>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_548.html 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

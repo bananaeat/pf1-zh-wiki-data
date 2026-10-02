@@ -1,0 +1,11 @@
+{{Feat
+|name=刚毅狂暴
+|english_name=Resolute Rager
+|pfs=否
+|description=恐惧在你狂暴时快速消退。
+|prerequisites=[[兽人]]，【狂暴】职业能力。
+|benefit=当狂暴时，若处于一项允许豁免的恐惧效果下，你可以在你的每个回合开始前进行一个新的豁免检定来对抗恐惧。若你成功豁免，恐惧效果结束。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

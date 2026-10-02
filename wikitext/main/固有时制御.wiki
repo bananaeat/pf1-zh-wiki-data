@@ -1,0 +1,11 @@
+{{Feat
+|name=固有时制御
+|english_name=Slow Time
+|categories=战斗;冥想
+|description=冥想会让你在感知时间时，时间会流逝得极为缓慢。
+|prerequisites=感知15，[[战斗冥想]]，[[冥想大师]]，角色等级7
+|benefit=每天1次，当你使用[[整轮动作]]来使用[[战斗冥想]]时，你会获得每2角色等级1轮的加速效果。这个效果不会与[[加速术]]，武器的追击附魔或其他类似效果叠加。这是一个特异能力。
+|source=F&P
+|source_name=信仰与哲学
+|source_url=https://pf1chm.pages.dev/topics/page_673.html
+}}

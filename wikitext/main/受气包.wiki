@@ -1,0 +1,9 @@
+{{Trait
+|name=受气包
+|english_name=Bullied
+|type=战斗
+|description=你幼时常受人欺负，以致今日你也在敌人接近时惯于紧握双拳以自卫。你在通过徒手进行[[借机攻击]]时，攻击检定获得+1背景加值。注意此[[背景特性]]并不赋予你通过徒手进行借机攻击的能力——你必须拥有武僧等级或[[精通徒手打击]]专长，或者其他类似能力才能使用本背景。但这并不妨碍你预先选择本背景；只是在满足上述条件前暂时无法使用而已。
+|source_name=战斗背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

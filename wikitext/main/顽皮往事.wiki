@@ -1,0 +1,9 @@
+{{Trait
+|name=顽皮往事
+|english_name=Youthful Mischief
+|type=种族
+|prerequisites=[[精灵]]
+|description=虽然你已经不再是一名游浪者，侦查员或是吟游诗人很久了，但你依旧记得如何在事情变糟的时候避开对方的拳击。你的反射豁免+1背景加值。
+|source_name=格拉里昂的精灵
+|source_url=https://pf1chm.pages.dev/topics/zhd63cf5e76e.htm
+}}

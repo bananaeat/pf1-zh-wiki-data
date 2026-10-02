@@ -1,0 +1,10 @@
+{{Feat
+|name=传递恩惠
+|english_name=Passing Grace
+|categories=团队
+|description=你与你的盟友之间的联系使得在你们之间可以自由分享正能量
+|benefit=每当一个治疗法术或者能力将使你的生命值恢复到超过最大值时，你可以将多余的生命值重新分配给邻接的另一个拥有此专长的盟友。这一专长仅适用于那些需要动作来激活的能力——快速治疗、再生和其他类似的被动效果不会触发生命值的分享。
+|source=DRe
+|source_name=遥远国度
+|source_url=https://pf1chm.pages.dev/topics/zh060a98151e.htm
+}}

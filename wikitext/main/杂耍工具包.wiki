@@ -1,0 +1,9 @@
+{{装备
+|name=杂耍工具包
+|english_name=Juggler's kit
+|cat=工具
+|price=15 gp
+|weight=10磅
+|description=这套工具里装有好几组平衡良好的物件，比如球、棍棒、小刀、圆环和火把。在表演（戏剧或喜剧）检定以及涉及杂耍的检定上，它会为你提供+1加值。
+|source=冒险者的军械库、极限宝具
+}}

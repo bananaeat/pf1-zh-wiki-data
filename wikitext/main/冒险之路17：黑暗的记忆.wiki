@@ -1,0 +1,42 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #17: A Memory of Darkness
+|authors=JD Wiker
+|pages=96
+}}
+
+{{书页/简介|head=阴影的阴谋|1=
+随着万物终结的阴影在群星间逼近，地表世界的各个种族到了该果断行动的时候。但积习难改，奇奥尼（Kyonin）精灵国里并非人人都相信来自天际的末日凶兆。在精灵女王那庄重冷峻的宫廷里，谎言与阴谋肆意蔓延，有些人宁愿看到第二个黑暗时代降临，也不愿让自己的阴谋败露。PC 们能否根除精灵家园内部滋生的腐败，并闯进那片恶魔出没的森林——那里庇护着一个如今威胁着毁灭整个世界的秘密？
+
+本册《冒险之路》内容包括：
+
+* 《黑暗的记忆》，一部面向 12 级角色的冒险，作者 JD Wiker。
+* 奇奥尼——这片谜团笼罩的精灵家园——的地志，作者 James L. Sutter。
+* 窥探[[卡莉斯翠]]（欲望、复仇与诡计女神）教会的隐秘，作者 Sean K Reynolds。
+* 一场奔向[[探索者协会]]总部的竞赛，让 Eando Kline 与一位同行冒险者反目——「探索者日志」中的一篇，作者 Amber Scott。
+* 五种新怪物，作者 Mike Ferguson、James Jacobs、Hal Maclean 和 Sean K Reynolds。
+}}
+
+'''冒险之路17：黑暗的记忆'''（''Pathfinder #17: A Memory of Darkness''）是[[冒险之路]]「二度黑暗」系列的第五部冒险，由 JD Wiker 撰写，配套文章出自 Mike Ferguson、James Jacobs、Hal Maclean、Sean K Reynolds 和 James L. Sutter，另有 Joshua J. Frost 的 Set Piece 冒险和 Amber Scott 的小说，于 2009 年 1 月 21 日发售。
+
+== 目录 ==
+本册《冒险之路》收录对[[卡莉斯翠]]（欲望、复仇与诡计女神）信仰的探究、精灵国度奇奥尼及恶魔出没的扭曲棘林（Tanglebriar）的地志、一部详述某位强大恶魔巢穴的 Set Piece 冒险，以及数种潜伏在这片险境中的新怪物。
+{{书页/目录|1=
+前言 @ 4
+黑暗的记忆 @ 6
+奇奥尼 @ 48
+[[卡莉斯翠]] @ 56
+太阳匕首之冠 @ 64
+探索者日志 @ 72
+怪物图鉴 @ 78
+预设角色 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=A Memory of Darkness
+|releases=PDF¦PZO9017E¦2009-01¦；Softcover¦PZO9017¦2009-01¦
+}}
+
+[[分类:书目]]

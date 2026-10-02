@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Rise of the Runelords Anniversary Edition Player's Guide pg. 4），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=热切表演者
+|english_name=Eager Performer
+|type=战役
+|pfs=否
+|description=听说砂点镇有一座足以媲美玛格尼玛和科瓦萨等大城市剧院的剧场，你决定去那里碰碰运气，争取登台的机会。你给希尔达克·德罗库斯写信请求试演，却迟迟没有回音，于是你决定亲自前往砂点镇当面见他，相信凭着你的意志力和迷人的魅力，定能如愿以偿。你的任意一项[[表演]]技能检定获得+1背景加值。此外，选择任意一个惑控系法术，其豁免DC+1。
+|source_name=Rise of the Runelords Anniversary Edition Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Eager%20Performer
+}}

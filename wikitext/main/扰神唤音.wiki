@@ -1,0 +1,16 @@
+{{Spell
+|name=扰神唤音
+|english_name=Cacophonous call
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=吟游诗人 2;歌者 2
+|action=标准动作
+|components=语言;姿势;材料（一张乐谱）
+|range=近距
+|target=一名生物
+|duration=1轮/等级
+|save=意志，通过则无效
+|sr=是
+|description=你用嘈杂刺耳的不和谐音填满目标的精神，使目标难以集中精神进行行动。如果目标生物在意志豁免中失败，则会在法术的持续时间内一直处于[[反胃]]状态。
+|source=进阶玩家指南
+}}

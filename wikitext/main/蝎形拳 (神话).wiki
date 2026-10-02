@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[蝎形拳]] 的神话版本。</small></div>
+{{Feat
+|name=蝎形拳
+|english_name=Scorpion Style
+|categories=神话
+|description=你的[[徒手打击]]能够让敌人变得迟钝[[缓慢]]。
+|prerequisites=[[蝎形拳]]
+|benefit=每当你使用[[蝎形拳]]专长时，将你的阶层加到目标基本陆上速度被减少的轮数中。当你进行攻击减速目标时，能够花费1次神话之力，使专长效果变得如同[[缓慢术]]一般，除非目标能够成功通过强韧豁免（DC 10 + 1/2你的角色等级 + 你的感知调整值）。缓慢术效果会取代蝎形拳专长在正常情况下赋予的速度减慢，不过持续时间与其相同。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

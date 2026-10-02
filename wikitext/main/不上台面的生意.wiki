@@ -1,0 +1,9 @@
+{{Trait
+|name=不上台面的生意
+|english_name=Unwelcome Business
+|type=社会
+|description=你擅长向那些禁售某些商品的地区，以及你身份会引发负面偏见的地区，运送和采购违禁货物。你的[[易容]]检定或[[巧手]]检定可获得+1背景加值,并且该技能对你来说是[[本职技能]]。此外，选择一种类人生物类型；你在将自己[[易容]]成该类型的一员时，可忽略该易容检定上的-2罚值。
+|source_name=商人货单
+|source=MM
+|source_url=https://pf1chm.pages.dev/topics/zh22b22ddf01.htm
+}}

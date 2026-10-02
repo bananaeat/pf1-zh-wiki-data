@@ -1,0 +1,11 @@
+{{Feat
+|name=高热射击
+|english_name=Sizzling Shot
+|categories=勇毅
+|description=你射出的子弹火焰缭绕
+|prerequisites=业余枪手或勇毅职业特性，基本攻击加值+4
+|benefit=只要你拥有至少1点[[枪手#勇毅|勇毅]]值，在藉由火器射出弹头，散弹或类似的弹药时，你可以选择把攻击伤害的一半转化成火焰伤害，而另一半造成钝击和穿刺伤害。若你在用火器宣告此攻击时消耗1点勇毅，则你能且仅能为本次攻击发射出去的弹头或散弹赋予炽焰武器[[特殊能力]]。
+|source=PotW
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1193.html
+}}

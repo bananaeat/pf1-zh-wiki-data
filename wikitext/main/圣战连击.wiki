@@ -1,0 +1,10 @@
+{{Feat
+|name=圣战连击
+|english_name=Crusader's Flurry
+|description=你学会了如何将你信仰的神祇的偏好武器融入你所使用的武术架势。
+|prerequisites=【引导能量】职业特性，【疾风连击】职业特性，[[武器专攻]]（神祇的偏好近战武器）。
+|benefit=你可以将神祇的偏好武器用于[[武僧#疾风连击|疾风连击]]，就像它是一件武僧武器一样。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

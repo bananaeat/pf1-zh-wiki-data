@@ -1,0 +1,14 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{装备
+|name=冻结剂弩矢
+|english_name=Bolt, liquid ice
+|cat=炼金武器
+|price=40 gp
+|weight=—
+|craft_dc=25
+|dmg=见正文
+|type=寒冷
+|special=见正文
+|description=这种金属弩矢的中段有一截玻璃，里面盛着冻结剂。命中时，除正常伤害外，额外造成1d4点寒冷伤害。冻结剂弩矢不会造成溅射伤害。
+|source=冒险者的军械库2
+}}

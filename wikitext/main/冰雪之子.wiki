@@ -1,0 +1,9 @@
+{{Trait
+|name=冰雪之子
+|english_name=Snowbound
+|type=社会
+|description=你在严冬之地成年，当地文化鼓励你在酷寒中挑战极限。你在对抗寒冷效果的豁免检定上获得+1背景加值，对抗寒冷天气影响的强韧豁免获得+2背景加值。
+建议角色：伊利森人，凯利德人，乌尔芬人
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

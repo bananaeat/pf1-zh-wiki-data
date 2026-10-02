@@ -1,0 +1,12 @@
+{{Trait
+|name=镇咒者
+|english_name=Curse Queller
+|type=地区
+|description=每当你使用魔法治疗[[苦难]]中需要进行施法者检定（例如当对着一个被诅咒的生物或物品施展[[移除诅咒]]时），你会在施法者检定中获得+2背景加值。
+
+另外，你在对抗诅咒的豁免检定中获得+1背景加值
+|regions=奥西里昂
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_703.html
+}}

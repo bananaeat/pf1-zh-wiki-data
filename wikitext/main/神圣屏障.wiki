@@ -1,0 +1,10 @@
+{{Feat
+|name=神圣屏障
+|english_name=Divine Barrier
+|description=你受训过如何从龙息的威力下保护自己
+|prerequisites=引导能量职业能力，信仰阿普苏
+|benefit=每当你处于一个造成酸蚀，寒冷，电击或火焰伤害的范围效果的影响范围中时，你可以以[[直觉动作]]消耗一发本日的[[引导能量]]次数，来保护你自己和30尺内的所有盟友。你和你护盾内的盟友在对抗此效果的豁免检定上失败时只受到一半伤害，成功时则完全不受该效果的伤害。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

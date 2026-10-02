@@ -1,0 +1,10 @@
+{{Feat
+|name=贰牙流
+|english_name=Twin Fang Style
+|categories=战斗;流派
+|description=你手中成对的利刃能轻易地撕裂甲胄。
+|prerequisites=敏捷15，[[即时备战]]，[[双武器战斗]]，BAB+1，特技1级。
+|benefit=每当你用一对[[匕首]]或一对[[单镰]]进行[[全力攻击]]，并且同时用两把武器命中一名生物时，你可以使其护甲AC降低1点，此效果持续到你下回合开始。此减值可以叠加到将对方的护甲加值降至+0。举例来说，若你用两次主手攻击与两次副手攻击命中一名穿着炼甲衫的敌人，那么你会将其护甲AC从+4降至+2。
+|source_name=反派法典
+|source_url=https://pf1chm.pages.dev/topics/page_1036.html
+}}

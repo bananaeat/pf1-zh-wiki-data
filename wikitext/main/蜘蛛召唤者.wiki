@@ -1,0 +1,16 @@
+{{Feat
+|name=蜘蛛召唤者
+|english_name=Spider Summoner
+|pfs=否
+|description=你能够召唤强大的蜘蛛。
+|prerequisites=能够使用‘召唤怪物’或‘召唤自然盟友’法术，卓尔。
+|benefit=当你施放[[召唤怪物]]或[[召唤自然盟友]]法术，你的可选范围增加。根据你所使用的法术等级，你可以召唤下列蜘蛛。
+|extra=召唤怪物：1级－巨型蟹蛛*（giant crab spider, B2）；4级－巨型黑寡妇*（giant black widow, B2）；5级－食人蛛*（ogre spider, B3）；7级－巨型狼蛛*（giant tarantula, B2）。
+
+召唤自然盟友：1级－巨型蟹蛛（giant crab spider, B2）；4级－巨型黑寡妇（giant black widow, B2）；5级－食人蛛（ogre spider, B3）；7级－巨型狼蛛（giant tarantula, B2）。
+
+标有星号*的生物根据召唤者的阵营不同会获得不同模板，若你的阵营为善良则赋予它们天界模板，若你的阵营为邪恶则赋予它们炼狱模板，若你的阵营为中立则可以自行选择赋予哪一种模板。此外，当你使用‘召唤怪物’或‘召唤自然盟友’法术召唤蜘蛛，被召唤出的生物的毒素以及蛛网的豁免DC增加2。【译注：天界与炼狱模板见https://www.goddessfantasy.net/bbs/index.php?topic=63055.msg585513#msg585513】
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

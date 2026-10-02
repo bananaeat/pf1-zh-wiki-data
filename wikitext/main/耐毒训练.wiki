@@ -1,0 +1,11 @@
+<noinclude>{{杀手导航}}
+'''耐毒训练'''（Toxin Training, Ex）是[[杀手]]的[[杀手天赋|杀手天赋]]。
+
+</noinclude>{{AI翻译|nocat=1|本段由 AI 照 AoN 英文原文译出，CHM 汉化里没有这段译文，未经人工校对。}}
+{{Source|极限荒野|Ultimate Wilderness|inline}} 杀手随时间积累对某些毒药的抗性。每次选择这个天赋时，他选择一项属性值。他在对抗会对所选属性造成伤害的毒药的豁免检定上获得+4加值。杀手可以多次选择这个天赋，每次选择一项新的属性值，并在对抗以该属性为目标的毒药的豁免上获得这个加值。杀手必须至少4级并拥有用毒天赋才能选择这个天赋。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_118.html 原文]）。尝血者、支持队友译自[https://pf1chm.pages.dev/topics/page_581.html 斯科扎尼黑手一章]，永世仇敌、人生经验、直面恐怖、山坡伏击、神秘之纱、重唤技艺译自[https://pf1chm.pages.dev/topics/page_1338.html 传承武学一章]，集中毒药、偏转毒药译自[https://pf1chm.pages.dev/topics/page_1261.html 静谧毒杀者一章]，猫族盗贼天赋译自[https://pf1chm.pages.dev/topics/page_451.html 种族特性一章]；壁垒、额外残岩、坚固阵地、失衡技巧、阵营偷袭、切裂阵营、一人千面、通晓探知照站上同名盗贼天赋单页。均按 AoN 核对过。全部杀手天赋见 [[杀手天赋]]。
+
+[[分类:杀手天赋]]
+
+{{职业}}</noinclude>

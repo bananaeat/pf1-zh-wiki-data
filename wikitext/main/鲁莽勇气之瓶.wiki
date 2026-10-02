@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=鲁莽勇气之瓶
+|english_name=Vial of Reckless Courage
+|aon=MagicWondrousDisplay.aspx?FinalName=Vial of Reckless Courage
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=无
+|price=5,000 gp
+|weight=1磅
+|description=这个小玻璃瓶里装着冒着气泡的蓝色液体。饮下后，鲁莽勇气之瓶会在饮用者心中激起无畏的气概，使其对抗恐惧效应的豁免检定获得+4增强加值。如果饮用者正受恐惧效应影响，她可以带着+2加值重新进行一次豁免检定。饮用者会变得急于冲入险境，因此在5轮内，她所有的移动方式（包括掘地、攀爬、飞行和游泳速度）的速度提高30尺，在任何一种移动方式上最多提高到其正常速度的两倍。
+|req=[[制造奇物]]、[[加速术]]、[[移除恐惧]]
+|cost=2,500 gp
+|source=反英雄手册
+}}

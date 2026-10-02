@@ -1,0 +1,9 @@
+{{装备
+|name=锦罗玉衣
+|english_name=Ostentatious garment
+|cat=衣物
+|price=10 gp
+|weight=1磅
+|description=锦罗玉衣涵盖那些没在别处详细列出的物品，比如精美假发，丝绸斗篷，和褶饰宽衣等。然而这类服装佩饰除了显得时尚潮流外无法提供其他好处。而纨袴公子必须穿着数件品质对应的锦罗玉衣才能使用其魔法力量。
+|source=皇庭英豪
+}}

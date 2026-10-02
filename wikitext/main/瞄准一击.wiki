@@ -1,0 +1,11 @@
+{{Feat
+|name=瞄准一击
+|english_name=Targeted Blow
+|categories=武器掌握
+|description=你能够精确地伤害对手的某一身体部位。
+|prerequisites=力量13，[[猛力攻击]]，基础攻击加值+9，对所选近战武器拥有战士武器训练职业能力
+|benefit=以一个标准动作，你可以以所选的近战武器发动一次攻击，瞄准敌人身体的特定部位。如果攻击成功命中，你造成相当于枪手的精确瞄准勇毅动作的效果。你每天可以发动本专长的效果两次，在你的基础攻击加值达到+10，+15和+20时可以获得额外一次每日使用次数。
+|source=WMH
+|source_name=武器大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_369.html
+}}

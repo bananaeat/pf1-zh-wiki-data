@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Dragons pg. 3），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=龙之契约
+|english_name=Dragon Pact
+|type=社会
+|description=你的家族曾在某个时期侍奉一条龙，并担任它面向他者的使者。家族中的一些成员从这层关系中受益，沾染了几分那条龙的高贵气度。选择一类真龙（五色龙、金属龙、原龙等）。你在对该类龙的[[交涉]]检定上获得+1背景加值，并且在对所有不属于该类真龙的龙类生物的[[威吓]]检定上获得+1背景加值。
+|source_name=巨龙遗产
+|source=LoD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Dragon%20Pact
+}}

@@ -1,0 +1,46 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=谨慎法师
+|english_name=Cautious Mage
+|cr=1/2
+|xp=200
+|classline=人类法师1
+|alignment=绝对中立
+|size=中型
+|type=类人生物
+|subtypes=人类
+|init=+5
+|senses=察觉+4
+|ac=15，接触11，措手不及14（+4盔甲，+1敏捷）
+|hp=9（1d6+3）
+|fort=+2
+|ref=+1
+|will=+3
+|speed=30尺
+|melee=木棍+0（1d6）
+|special_attacks=学徒之手（6次/天）
+|spells=已准备法师法术（施法者等级1，专注+4）；1级—[[燃烧之手]]（DC 14），[[法师护甲]]；0级（随意）—[[出血术]]（DC 13），[[侦测魔法]]，[[提升抗力]]
+|tactics=<div class="ml wide"><span class="k">战斗前</span>法师施展法师护甲。</div><div class="ml wide"><span class="k">战斗中</span>法师用学徒之手投掷自己的木棍，或施展燃烧之手。她会主动提出把变巨术卷轴用在愿意保护她的盟友身上。</div><div class="ml wide"><span class="k">基础数据</span>没有法师护甲时，法师的数据为：AC 11，接触 11，措手不及 10。</div>
+|str=10
+|dex=13
+|con=14
+|int=17
+|wis=12
+|cha=8
+|bab=+0
+|cmb=+0
+|cmd=11
+|feats=[[警觉]];[[战斗施法]];[[精通先攻]];[[抄写卷轴]]
+|skills=[[知识]]（奥秘、历史、位面）+7;[[语言学]]+7;[[察觉]]+4;[[察言观色]]+3;[[法术辨识]]+7
+|languages=通用语;龙语;矮人语;精灵语;炼狱语
+|sq=奥术联结（渡鸦）
+|combat_gear=治疗轻伤药水（2）;虔诚护盾药水;通晓语言卷轴（2）;忍受环境卷轴;变巨术卷轴;油腻术卷轴;坐骑术卷轴;护盾术卷轴（2）;发烟棒（2）
+|gear=木棍;抗毒剂;法术书;日光杖（5）;40gp
+|source=NPC志
+|family=核心职业（NPC志）
+|npc=1
+|lore=
+这些法师是刚入行的冒险者，正在寻找能保护自己的人。
+}}
+{{AoN原文|1=NPCDisplay.aspx?ItemName=Cautious Mage|2=Cautious Mage}}

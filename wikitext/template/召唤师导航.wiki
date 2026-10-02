@@ -1,0 +1,1 @@
+<div class="class-nav"><span class="pill">[[召唤师]]</span><span class="pill">[[掉链召唤师]]</span><span class="pill">[[召唤师#变体职业 (Archetypes)|变体职业]]</span><span class="pill">[[掉链召唤师#变体职业 (Archetypes)|掉链变体职业]]</span><span class="pill">[[幻灵]]</span><span class="pill">[[掉链幻灵]]</span><span class="pill">[[法术列表（召唤师）|法术列表]]</span><span class="pill">[[法术列表（掉链召唤师）|掉链法术列表]]</span></div>

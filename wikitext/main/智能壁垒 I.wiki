@@ -1,0 +1,15 @@
+{{Spell
+|name=智能壁垒 I
+|english_name=Intellect fortress i
+|school=防护系
+|levels=异能者 4
+|action=直觉动作
+|components=语言
+|range=20尺
+|area=以你为中心，半径20尺发散区域
+|duration=1轮
+|save=无
+|sr=是（无害）
+|description=使用完全由逻辑构成的力量，你能够扰乱精神攻击。智能壁垒 I能够在法术持续时间内压制所有具有情绪和恐惧描述符的效果。
+|source=异能冒险
+}}

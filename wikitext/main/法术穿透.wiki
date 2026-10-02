@@ -1,0 +1,14 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[法术穿透 (神话)]]。</small></div>
+{{Feat
+|name=法术穿透
+|english_name=Spell Penetration
+|description=你的法术比大多数的法术更容易穿透[[特殊能力#法术抗力|法术抗力]]。
+|benefit=你在克服生物法术抗力的施法者等级检定（1d20+CL）上获得+2加值。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''制造需求'''：[[法师弩]]（1 件物品）

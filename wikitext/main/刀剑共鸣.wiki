@@ -1,0 +1,10 @@
+{{Feat
+|name=刀剑共鸣
+|english_name=Choir of Blades
+|categories=战斗;团队
+|description=你可以模仿你的盟友的异国武术风格，即使没有经过正式训练，你也可以从你们拥有的战斗能力中获益。
+|benefit=每当你与一名与你种族不同且同样拥有本专长的盟友相邻时，你就会获得以下好处。如果你的盟友在对抗某种特定生物类型或亚种的攻击骰上拥有种族加值的话，你也会获得该加值。如果你的盟友拥有[[祖传武器]]、武器熟悉、或任何其他能获得武器擅长的[[种族特性]]的话，你也会获得这些擅长。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

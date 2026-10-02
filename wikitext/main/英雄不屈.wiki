@@ -1,0 +1,14 @@
+{{Spell
+|name=英雄不屈
+|english_name=Hero's defiance
+|school=咒法系 (医疗)
+|levels=圣武士 1
+|action=直觉动作
+|components=语言
+|range=个人
+|target=自己
+|duration=立即
+|sr=否
+|description=在你的生命值降低至0或者更低的前一瞬间，你可以消耗一次圣疗能力的使用次数，如同使用圣疗一般治疗自己，并额外治疗1d6点生命值。如果该治疗使你的总生命值高于0点，你不会倒下并可以继续行动。如果你当日无法再使用圣疗能力的话，该法术无效。
+|source=进阶玩家指南
+}}

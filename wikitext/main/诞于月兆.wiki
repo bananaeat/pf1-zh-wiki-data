@@ -1,0 +1,9 @@
+{{Trait
+|name=诞于月兆
+|english_name=Lunar Birth
+|type=魔法
+|description=诞生于月食期间的你永远被月亮那神秘而远古的魔法所刻记。你在对抗由[[人类]]施放的法术和类法术能力时豁免检定获得+1背景加值。
+|source_name=繁星子民
+|source=PotS
+|source_url=https://pf1chm.pages.dev/topics/zh39dd042145.htm
+}}

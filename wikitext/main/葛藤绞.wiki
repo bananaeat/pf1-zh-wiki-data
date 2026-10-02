@@ -1,0 +1,10 @@
+{{Feat
+|name=葛藤绞
+|english_name=Kudzu Grappler
+|description=你像葛藤一般环绕着所有被你擒抱的生物，遮挡住他们的视线。
+|prerequisites=敏捷13，精通擒抱，精通徒手打击，高等擒抱，BAB +6，藤蔓莱西
+|benefit=当你成功通过一次用以维持擒抱的检定时，你在可以使用的动作列表中添加一个能使被擒抱的生物失明1轮的选项。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/page_1456.html
+}}

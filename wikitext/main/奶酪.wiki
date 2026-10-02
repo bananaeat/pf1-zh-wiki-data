@@ -1,0 +1,9 @@
+{{装备
+|name=奶酪
+|english_name=Cheese
+|cat=饮食
+|price=1 sp
+|weight=1/2磅
+|description=所列价格是从整轮奶酪上切下的一块的价格。5磅或10磅重的陈年奶酪整轮外面裹着一层坚韧的硬皮，可使内部保持新鲜。
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=传送头盔
+|english_name=Helm of Teleportation
+|aon=MagicWondrousDisplay.aspx?FinalName=Helm of Teleportation
+|cat=奇物
+|aura=中等咒法系
+|cl=9
+|slot=头部
+|price=73,500 gp
+|weight=3磅
+|description=穿戴者每天可以使用3次[[传送术]]，将自己和随身携带的物品瞬间传送到指定地点，如同他施展了同名法术一般。
+|req=[[制造奇物]]、[[传送术]]
+|cost=36,750 gp
+|source=核心规则书、极限宝具
+}}

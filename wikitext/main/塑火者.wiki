@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''塑火者'''（Fire Sculptor, Sp）是[[操念使]]的[[原力]]。
+
+元素：火；类别：通用（Sp）；等级：1；超载：0
+
+你能够改变火的形状或者调整火势的蔓延。以[[标准动作]]，你能够从正在蔓延的火焰中移动每[[操念使]]等级一个5尺方格的火焰，并将它放置在与这些火焰相邻的任意方格中。举例说明：4级的操念使能够从20尺×20尺的大火中间移走4个相邻方格的火焰，并放置到火焰的边缘，以便创造出供人逃生的安全路径。在你改变形状之后，火焰仍会继续蔓延下去。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Fire Sculptor|2=Fire Sculptor}}
+
+[[分类:原力]]

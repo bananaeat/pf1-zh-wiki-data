@@ -1,0 +1,10 @@
+{{Trait
+|name=忧虑
+|english_name=Anxious
+|type=缺陷
+|pfs=否
+|description=你在孩提时代由于没能守口如瓶而遭受了痛苦，比如你不小心将自己的家人暴露给了敌方的审讯者，你从此以后说话都变得小心翼翼。
+|benefit=你的交涉检定获得-2罚值，并由于斟酌言辞而必须缓慢说话。除非另有说明，你一般不能以超过悄悄话的音量说话。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

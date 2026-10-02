@@ -1,0 +1,9 @@
+{{装备
+|name=狂血
+|english_name=Wild-blood concoction
+|cat=调剂
+|price=100 gp
+|weight=—
+|description=这种带有铜味的液体会使服用者的肾上腺素分泌达到顶峰，并使其在天生武器以及人造武器的近战伤害骰上获得+2炼金加值。然而这种合剂也会削弱使用者的自我保护意识，因此使其在AC上受到-2减值。
+|source=冒险者的军械库2
+}}

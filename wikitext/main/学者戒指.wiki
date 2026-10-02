@@ -1,0 +1,16 @@
+{{魔法物品
+|name=学者戒指
+|english_name=Scholar's Ring
+|aon=MagicRingsDisplay.aspx?FinalName=Scholar's Ring
+|cat=戒指
+|aura=中等咒法系
+|cl=5
+|slot=戒指
+|price=8,700 gp
+|description=学者戒指能让穿戴者完整理解任何书面文字或口头语言，即使是她从未接触过的（如同[[通晓语言]]法术），还能让她在知识（历史）检定上获得+5表现加值。
+
+此外，每5天一次，穿戴者可以就自己前一周内一直在研究的某个主题施展[[通晓传奇]]法术，前提是她曾借助这枚戒指进行过知识（历史）检定。
+|req=[[锻造戒指]]、[[通晓语言]]、[[通晓传奇]]
+|cost=4,350 gp
+|source=极限宝具
+}}

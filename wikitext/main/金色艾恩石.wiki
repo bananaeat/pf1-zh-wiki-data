@@ -1,0 +1,20 @@
+{{魔法物品
+|name=金色艾恩石
+|english_name=Gold Nodule (Normal) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun Stone Gold Nodule
+|cat=艾恩石
+|aura=强烈预言系
+|cl=12
+|slot=无
+|price=5,000 gp
+|description='''形状'''：结核
+
+'''效果'''：这枚艾恩石让使用者能够理解、说、读、写一种语言（由艾恩石的创造者选定）。
+
+'''共振'''（放入[[寻路仪]]时）：对抗依赖语言的效果的豁免检定获得+1加值。
+
+艾恩石的通用规则（启动、环绕飞行、抓取，以及AC、硬度）见[[艾恩石]]。
+|req=[[制造奇物]]、[[巧言术]]，制造者必须已经12级
+|cost=2,500 gp
+|source=初探探索者协会
+}}

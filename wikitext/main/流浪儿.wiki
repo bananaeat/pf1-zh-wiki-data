@@ -1,0 +1,10 @@
+{{Trait
+|name=流浪儿
+|english_name=Vagabond Child
+|type=地区
+|prerequisites=城市
+|description=你的童年与社群的流浪汉和不法之徒为伍，学到了在城市环境中的掠食和生存之道。选择以下一项技能：[[解除装置]]、脱逃或[[巧手]]。你在该技能上获得+1背景加值，并且总能将其视为你的[[本职技能]]。
+|source_name=地区背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

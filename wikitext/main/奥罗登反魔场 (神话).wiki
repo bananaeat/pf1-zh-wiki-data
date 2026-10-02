@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[奥罗登反魔场]] 的神话版本。</small></div>
+{{Spell
+|name=奥罗登反魔场
+|english_name=Aroden's Spellbane
+|school=防护系
+|levels=奥能师 9;术士 9;法师 9
+|description=将你神话阶层的一半加到你可选择在该区域内失效的法术数量上。你可以花费1次神话之力，以一个整轮动作改变该效果所阻挡的法术中的一个。在法术的持续时间内，你可以根据需要随时这样做。
+|source=神话源始
+}}
+[[分类:神话法术]]

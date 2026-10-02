@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=引导之眼|en=Guided Eyes|type=Su|domain=太阳领域|sub=启示子域 (Revelation)|sub_name=启示子域|source=纯洁勇士|text=[[察觉]]是你的[[本职技能]]。此外当你用技能检定看透[[易容]]或寻找掩藏和遮蔽的物体时，你在检定上获得+4神圣加值。此能力替换[[太阳领域#太阳祝福 (Sun's Blessing, Su)|太阳祝福]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

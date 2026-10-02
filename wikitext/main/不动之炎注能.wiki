@@ -1,0 +1,17 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|武术手册|Martial Arts Handbook}}
+'''不动之炎注能'''（Unblinking Flame Infusion）是[[操念使]]的[[原力]]。
+
+元素：火；类别：性质注能；等级：5；超载：3
+
+前置：[[念拳]]，不动之炎修道院成员
+
+关联[[念袭]]类别：[[蓝焰击]]，[[火冲]]
+
+豁免：无
+
+你带有注能的火焰[[念袭]]会照出目标的真实样貌。如果你用带有注能念袭的[[徒手攻击]]命中目标，看到目标的生物会视为使用[[真知术]]1轮，但只有目标会受到这一效果。你只有使用[[念拳]]塑形注能的情况下才能使用这一注能。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部[[原力]]见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Unblinking Flame Infusion|2=Unblinking Flame Infusion}}
+
+[[分类:原力]]

@@ -1,0 +1,9 @@
+{{消歧义|破法者 (消歧义)}}
+{{狂暴之力
+|name=破法者
+|english_name=Spellbreaker
+|categories=杂项
+|prerequisites=[[野蛮人]]12级，[[扰法者(狂暴之力)|扰法者]][[狂暴之力]]
+|benefit=狂暴时，野蛮人获得[[破法者(专长)|破法者]]作为[[奖励专长]]。
+|source_name=进阶玩家指南
+}}

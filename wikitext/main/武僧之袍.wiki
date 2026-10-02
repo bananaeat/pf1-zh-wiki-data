@@ -1,0 +1,15 @@
+{{魔法物品
+|name=武僧之袍
+|english_name=Monk's Robe
+|aon=MagicWondrousDisplay.aspx?FinalName=Monk's Robe
+|cat=奇物
+|aura=中等变化系
+|cl=10
+|slot=躯体
+|price=13,000 gp
+|weight=1磅
+|description=穿上之后，这件朴素的棕色长袍赐予穿戴者强大的徒手战斗能力。如果穿戴者有[[武僧]]职业等级，她在计算武僧奖励AC和徒手伤害时，视为比实际高5级的武僧。如果穿戴者拥有[[震慑拳]]专长，她每日可以额外进行一次震慑拳攻击。如果穿戴者不是武僧，她获得5级武僧的奖励AC和徒手伤害（不过她不会把感知加值加到AC上）。这项AC加值的作用与武僧的AC加值完全相同。
+|req=[[制造奇物]]、[[正气如虹]]或[[转变术]]
+|cost=6,500 gp
+|source=核心规则书、极限宝具
+}}

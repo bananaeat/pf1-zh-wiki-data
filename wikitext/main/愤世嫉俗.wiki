@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Antihero's Handbook pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=愤世嫉俗
+|english_name=Cynical
+|type=社会
+|description=你这一生见过许多英雄，但你只看到他们失败的可能，以及他们在成为真正的善人上有何不足。这种看穿表象的习惯被证明是一项有用的本事。你在对抗幻术和魅惑效果的豁免检定上获得+1背景加值。
+|source_name=反英雄手册
+|source=A'sH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Cynical
+}}

@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=法视权杖
+|english_name=Rod of Spellsight
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Spellsight
+|cat=权杖
+|aura=强烈预言系
+|cl=13
+|slot=无
+|price=12,000 gp
+|weight=6磅
+|description=这根美丽的象牙权杖上嵌着无数蓝宝石，并覆盖着以白银镶嵌而成的精巧图案。法视权杖持用者的视线不受任何魔法云、雾、霾、烟或蒸汽效果的影响。这使持用者能够看穿[[云雾术]]、[[隐雾术]]乃至[[焚云术]]的效果。该权杖不能保护持用者免受致盲效果的影响，例如[[目盲/耳聋术]]或[[闪光尘]]的致盲效果。
+|req=[[制造权杖]]、[[造风术]]、[[真知术]]
+|cost=6,000 gp
+|source=魔法战术工具箱
+}}

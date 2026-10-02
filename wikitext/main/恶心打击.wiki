@@ -1,0 +1,16 @@
+{{Spell
+|name=恶心打击
+|english_name=Sickening strikes
+|school=变化系
+|tags=疾病
+|levels=反圣武士 2;女巫 2;德鲁伊 2;炼金术师 2;猎人 2;调查员 2;魔战士 3;游侠 4
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|target=自己
+|duration=1轮/等级
+|save=强韧，通过则无效; 见后文
+|sr=是
+|description=你的体内充满了病毒，任何被你用近战攻击命中的生物必须进行成功的强韧豁免，否则将会[[恶心]]1分钟。免疫疾病的生物也免疫该效果。
+|source=进阶种族手册
+}}

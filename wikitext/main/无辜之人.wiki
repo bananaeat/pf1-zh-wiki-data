@@ -1,0 +1,9 @@
+{{Trait
+|name=无辜之人
+|english_name=Innocent
+|type=种族
+|prerequisites=[[神裔]]
+|description=没有人相信纯真如你的人会以任何方式去欺骗他人。你身上散发着无辜的气息，人们难以相信你能伤害任何人。当你进行[[唬骗]]检定说谎，你的目标总是想相信你，这使你的唬骗检定获得标准的+5加值（译注：即唬骗技能中「目标想要相信你」的+5修正）。这个加值只有在你说的谎话可信或不太可能时才适用。
+|source_name=天界血脉
+|source_url=https://pf1chm.pages.dev/topics/page_830.html
+}}

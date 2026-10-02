@@ -1,0 +1,9 @@
+{{Trait
+|name=猎魔人
+|english_name=Whisper Woods Hunter
+|type=地区
+|prerequisites=耳语之林
+|description=你的家族让你对躲避或打击魔族的生活有所准备。你在用于追踪邪恶异界生物的[[生存]]检定中获得+2背景加值，并且当你知道你的对手是邪恶异界生物时，你的[[先攻]]检定获得+2背景加值。
+|source_name=切里亚斯，魔鬼王朝
+|source_url=https://pf1chm.pages.dev/topics/page_156
+}}

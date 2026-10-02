@@ -1,0 +1,12 @@
+{{Feat
+|name=乾坤挪移
+|english_name=Redirect Attack
+|categories=战斗
+|pfs=否
+|description=当你闪避掉一次攻击时，你可以将该次攻击偏斜对付另一个目标。
+|prerequisites=敏捷15，智力15，[[闪避]]
+|benefit=每轮1次，当只有你威胁的一个目标对你的攻击失败时，你可以反转该次攻击对付另一个敌人。新的目标必须邻接你并且处于攻击者的触及内。你进行一次[[战技]]检定；若检定结果同时大于攻击者的[[CMD]]和新目标的AC，则被反转的攻击命中，正常造成伤害。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}

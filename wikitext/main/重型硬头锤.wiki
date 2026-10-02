@@ -1,0 +1,16 @@
+{{武器
+|name=重型硬头锤
+|english_name=Heavy mace
+|category=武器
+|prof=简易
+|wcat=单手
+|price=12 gp
+|weight=8磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×2
+|type=钝击
+|groups=锤
+|description=比起[[轻型硬头锤]]，重型硬头锤的头部更加硕大，握柄也更长。
+|source=核心规则书、极限宝具
+}}

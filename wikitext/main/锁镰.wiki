@@ -1,0 +1,17 @@
+{{武器
+|name=锁镰
+|english_name=Kusarigama
+|category=武器
+|prof=异种
+|wcat=双手
+|price=12 gp
+|weight=3磅
+|dmg_s=1d2/1d4
+|dmg_m=1d3/1d6
+|crit=×2
+|type=挥砍或钝击
+|special=双头，擒抱，武僧，长武，摔绊
+|groups=双头，链索，武僧
+|description=这件武器有一把握在副手中的[[单镰]]，用一条10尺长的细密锁链与一枚加重的金属球相连。单镰可以用来发动摔绊攻击、刺击和格挡；金属球则可以高速甩动后猛砸向对手，或者用来缠住对手的剑或长矛，使持用者随后能用单镰发起攻击。
+|source=极限战斗、极限宝具
+}}

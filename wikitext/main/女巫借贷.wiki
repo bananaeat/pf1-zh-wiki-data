@@ -1,0 +1,11 @@
+{{Trait
+|name=女巫借贷
+|english_name=Debt to a Witch
+|type=地区
+|prerequisites=出身伊利森，或在当地生活过至少1年
+|description=你的性命在你幼年时因为白女巫的魔法而保全了下来，这样她就可以保证她的事业长久。她的魔法会带来痛苦，但也让你变得更加强壮。你在对抗寒冷描述符的法术以及寒冷天气的豁免上获得+2背景加值。
+|regions=伊利森
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_703.html
+}}

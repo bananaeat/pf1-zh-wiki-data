@@ -1,0 +1,15 @@
+{{魔法物品
+|name=元素超魔权杖
+|english_name=Rod of Metamagic, Elemental
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Metamagic, Elementallesser
+|cat=权杖
+|aura=强烈（无学派）
+|cl=17
+|slot=无
+|price=3,000 gp（次等）；11,000 gp（普通）；24,500 gp（高等）
+|weight=5磅
+|description=每根元素超魔权杖都被制造成能够控制并转化一种特定的能量类型（酸蚀、寒冷、电击或火焰）。持用者每天至多可以施放3个法术，使其造成权杖所对应能量类型的伤害，取代法术原本的伤害类型，如同使用[[元素法术]]专长一样。举例而言，一根元素超魔权杖（寒冷）总是让法术造成寒冷伤害。
+|req=[[制造权杖]]、[[元素法术]]
+|cost=1,500 gp（次等）；5,500 gp（普通）；12,250 gp（高等）
+|source=进阶玩家指南、极限宝具
+}}

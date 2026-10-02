@@ -1,0 +1,14 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[妙手 (神话)]]。</small></div>
+{{Feat
+|name=妙手
+|english_name=Deft Hands
+|description=你拥有非常灵敏的双手。
+|benefit=你的[[解除装置]]与[[巧手]]技能检定获得+2加值。如果某技能受训等级10以上，则对应加值改为+4。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[破坏专家]]、[[顺手牵羊]]（2 个条目）

@@ -1,0 +1,9 @@
+{{Trait
+|name=风暴裔
+|english_name=Storm-Touched
+|type=魔法
+|description=你与电元素亲和度非凡。你对具有电类型的生物和攻击获得伤害减免1/—。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

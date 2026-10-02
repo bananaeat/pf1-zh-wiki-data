@@ -1,0 +1,11 @@
+{{Feat
+|name=防御虚招
+|english_name=Feint Defender
+|categories=盾牌掌握;战斗
+|description=你使用你的盾牌来遮蔽你的肢体语言并使自己集中注意力。
+|prerequisites=[[盾牌专攻]]，BAB+6或者战士4级，[[察言观色]]1级
+|benefit=将盾牌的AC加值加到敌人对你[[虚招]]的DC上。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_361.html
+}}

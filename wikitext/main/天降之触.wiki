@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=天降之触
+|english_name=Touched by the Sky
+|type=地区
+|prerequisites=纽梅利亚
+|description=不知怎的，你设法从纽梅利亚平原上某块坠毁残骸中取得了一小瓶罕见的液体。在你因持有违禁品而被抓住之前，你把它喝了下去。如今你能以一个标准动作，通过触碰稳定一个[[濒死]]生物的伤势。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Touched%20by%20the%20Sky
+}}

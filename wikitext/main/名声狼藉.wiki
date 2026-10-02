@@ -1,0 +1,10 @@
+{{Trait
+|name=名声狼藉
+|english_name=Infamous
+|type=缺陷
+|pfs=否
+|description=无论是否属实，你都被公开指控犯下一起严重犯罪。无论你走到哪里，都会引起人们的注意，并有可能在犯罪发生的管辖区被监禁，甚至更糟。
+|benefit=你和你明面上的盟友在与守法公民互动时，交涉检定会承受-4减值(除了指控你的当权者的敌人)。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

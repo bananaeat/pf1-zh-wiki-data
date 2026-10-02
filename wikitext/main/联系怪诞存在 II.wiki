@@ -1,0 +1,30 @@
+{{Spell
+|name=联系怪诞存在 II
+|english_name=Contact Entity II
+|school=塑能系
+|levels=奥能师 3;牧师 3;通灵者 2;秘学士 3;先知 3;异能者 3;萨满 3;术士 3;召唤师 3;召唤师（掉链） 3;战斗祭司 3;女巫 3;法师 3
+|action=1分钟
+|components=语言;姿势;材料（见后文）
+|range=200哩
+|target=至多20个12HD或更低的存在
+|duration=立即
+|sr=否
+|description=此法术如同[[联系怪诞存在 I]]，除了你可以接触联系怪诞存在 II列表中的生物，以及上述注明之处。
+
+<table class="wikitable">
+<tr><th>联系怪诞存在 II</th><th>材料成分</th></tr>
+<tr><td>[[星之彩]] B4</td><td>一块陨石碎片</td></tr>
+<tr><td>[[冷原之民]] B2</td><td>一幅梦中记忆的绘画，价值1,000gp</td></tr>
+<tr><td>[[远古者]] B4</td><td>价值2,000gp的魔法物品或科技造物</td></tr>
+<tr><td>[[廷达洛斯之犬]] B2</td><td>一瓶价值500gp、能诱发恍惚状态的异域灵药</td></tr>
+<tr><td>[[冷之食尸鬼]] B5</td><td>死去学者的头骨</td></tr>
+<tr><td>米-戈 B4</td><td>一名智慧生物的新鲜大脑[邪恶]</td></tr>
+<tr><td>那-萨尔古 B2</td><td>一小瓶来自仍活着的生物的脑脊液[混乱、邪恶]</td></tr>
+<tr><td>Rhu-Chalik B5</td><td>一颗来自智力为16或更高的生物的大脑[邪恶]</td></tr>
+<tr><td>[[夏塔克鸟]] B2</td><td>从另一个世界获得的一块岩石碎片[混乱]</td></tr>
+<tr><td>[[杨吉斯]] B5</td><td>一张[情绪]描述符的四环或更高环法术的魔法卷轴</td></tr>
+</table>
+|source=惧怖冒险
+}}
+
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_854.html 原文]），按 AoN 核对过。</small>

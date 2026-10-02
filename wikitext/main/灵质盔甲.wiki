@@ -1,0 +1,10 @@
+<noinclude>{{先知导航}}
+'''灵质盔甲'''（Ectoplasmic Armor, Su）是[[先知]]的[[秘示域|启示]]，属于[[通灵秘示域]]。
+
+</noinclude>{{Source|异能奥秘|Occult Mysteries|inline}}
+
+你可以召唤由灵质构成的护甲，使你获得+4护甲加值。此外，此护甲视同拥有[[防具附魔#幽冥 (Ghost Touch)|幽冥]]特性。在7级及之后每4级，此盔甲加值增加2。你每天可以使用此护甲的时间为每[[先知]]等级1小时。使用时间不需连续，但必须以1小时为单位消耗。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_534.html 原文]）。全部秘示域见 [[:分类:秘示域|分类:秘示域]]。
+
+[[分类:秘示域]]</noinclude>

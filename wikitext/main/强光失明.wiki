@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''强光失明'''（Light Blindness）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：弱点</span></div>
+</noinclude><includeonly><div class="lang"><span id="强光失明"></span><div class="lang-h"><b>[[强光失明]]</b><i>Light Blindness</i><span class="lang-w">Ex · 弱点</span></div><div class="lang-d"></includeonly>
+拥有强光失明的生物暴露在强光（如阳光或[[昼明术]]）下时，会[[目盲]] 1 轮。只要继续留在强光区域内，这些生物还会[[目眩]]。
+
+'''格式'''：强光失明
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Light Blindness|2=Light Blindness}}
+
+[[分类:通用怪物规则]]</noinclude>

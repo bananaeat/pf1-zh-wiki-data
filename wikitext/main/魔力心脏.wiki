@@ -1,0 +1,10 @@
+{{Feat
+|name=魔力心脏
+|english_name=Magical Heart
+|categories=战斗
+|description=集中注意力，你的魔法攻击便能强化你的艾恩心脏。
+|prerequisites=[[奥术打击]]，[[精通徒手打击]]，汲魂木
+|benefit=当你以[[徒手打击]]发挥奥术打击时，成功命中的徒手打击也会赋予你临时生命，数值等同于奥术打击造成的额外伤害。
+|source_name=格拉利昂的英雄
+|source_url=https://pf1chm.pages.dev/topics/zhe4b6469482.htm
+}}

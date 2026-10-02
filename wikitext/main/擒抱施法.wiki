@@ -1,0 +1,10 @@
+{{Feat
+|name=擒抱施法
+|english_name=Grappled Caster
+|description=你受过训练如何在[[擒抱]]时施法。
+|prerequisites=[[战斗施法]]
+|benefit=擒抱时你的施法专注检定获得+4加值。该加值与[[战斗施法]]专长赋予的叠加。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}

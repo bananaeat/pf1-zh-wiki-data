@@ -1,0 +1,182 @@
+{{异能者导航}}
+{{Source|异能冒险|Occult Adventures}}
+
+== 精神增幅 (Phrenic Amplifications) ==
+
+[[异能者]]开发出一种被称为精神增幅的特殊技巧来强化施法。异能者可以在使用异能魔法施放一个法术的时候启动一个精神增幅，这会对法术的效果或施法过程进行调整。被施放的法术称为联结法术。每当异能者施放一个法术时，她仅能启动一个精神增幅，而且这么做是施放该法术的动作的一部分。除非精神增幅的说明中注明了仅能与某些特定种类的法术进行联结，否则异能者可以对任何异能者法术使用任何已知的精神增幅。异能者会在1级获得一个精神增幅，从后述列表中进行选择。在3级以及之后的每4个等级，异能者都能够再学会一个新的精神增幅。每个精神增幅仅能被选择一次。一旦选定了精神增幅，便无法更改。精神增幅需要异能者从精神力池花费1点或更多点的精神力才能够生效。
+
+=== 对策预设 (Complex Countermeasures, Ex) ===
+<span id="对策预设"></span>
+{{:对策预设}}
+
+=== 护甲构形 (Conjured Armor, Su) ===
+<span id="护甲构形"></span>
+{{:护甲构形}}
+
+=== 自卫预言 (Defensive Prognostication, Su) ===
+<span id="自卫预言"></span>
+{{:自卫预言}}
+
+=== 力场聚焦 (Focused Force, Su) ===
+<span id="力场聚焦"></span>
+{{:力场聚焦}}
+
+=== 精神集中 (Intense Focus, Ex) ===
+<span id="精神集中"></span>
+{{:精神集中}}
+
+=== 心智护盾 (Mindshield, Su) ===
+<span id="心智护盾"></span>
+{{:心智护盾}}
+
+=== 触探心智 (Mindtouch, Su) ===
+<span id="触探心智"></span>
+{{:触探心智}}
+
+=== 持续防护 (Ongoing Defense, Su) ===
+<span id="持续防护"></span>
+{{:持续防护}}
+
+=== 意念压迫 (Overpowering Mind, Ex) ===
+<span id="意念压迫"></span>
+{{:意念压迫}}
+
+=== 强韧施法 (Relentless Casting, Su) ===
+<span id="强韧施法"></span>
+{{:强韧施法}}
+
+=== 降阶升幅 (Undercast Surge, Su) ===
+<span id="降阶升幅"></span>
+{{:降阶升幅}}
+
+=== 死之意志 (Will of the Dead, Su) ===
+<span id="死之意志"></span>
+{{:死之意志}}
+
+== 高等精神增幅 (Major Amplifications) ==
+<span id="高等精神增幅"></span>
+在11级以及之后的每4个等级，[[异能者]]都可以从下列高等精神增幅中选择一个，来取代一个精神增幅。
+
+=== 驱散脉冲 (Dispelling Pulse, Su) ===
+<span id="驱散脉冲"></span>
+{{:驱散脉冲}}
+
+=== 双重增幅 (Dual Amplification, Ex) ===
+<span id="双重增幅"></span>
+{{:双重增幅}}
+
+=== 模拟超魔 (Mimic Metamagic, Ex) ===
+<span id="模拟超魔"></span>
+{{:模拟超魔}}
+
+=== 空间撕裂 (Space-rending Spell, Su) ===
+<span id="空间撕裂"></span>
+{{:空间撕裂}}
+
+=== 附属法术 (Subordinate Spell, Ex) ===
+<span id="附属法术"></span>
+{{:附属法术}}
+
+=== 思维震撼 (Synaptic Shock, Su) ===
+<span id="思维震撼"></span>
+{{:思维震撼}}
+
+=== 法术反转护盾 (Turning Shield, Su) ===
+<span id="法术反转护盾"></span>
+{{:法术反转护盾}}
+
+== 乌笃剌精神增幅 ==
+{{Source|格拉利昂的英雄|Heroes of Golarion}}
+众多乌笃剌寺庙与道场向学徒传授身体和心灵的规制，引领他们走上自我完善的道路。但一些学校仍为[[异能者]]保留着最为严苛的自我完善方法。
+
+=== 心眼 (Mind's Eye, Su) ===
+{{:心眼}}
+
+=== 完美体躯 (Perfect Body, Ex) ===
+{{:完美体躯}}
+
+=== 异能防护 (Psychic Defense, Su) ===
+{{:异能防护}}
+
+=== 先人低语 (Whisper of Ancients, Ex) ===
+{{:先人低语}}
+
+== 异能源始精神增幅 ==
+<span id="异能源始精神增幅"></span>
+{{Source|异能源始|Occult Origins}}
+
+=== 生化愈合 (Biokinetic Healing, Su) ===
+<span id="生化愈合"></span>
+{{:生化愈合}}
+
+=== 龙息焦点 (Dragon's Breath, Su) ===
+<span id="龙息焦点"></span>
+{{:龙息焦点}}
+
+=== 精神打击 (Phrenic Strike, Su) ===
+<span id="精神打击"></span>
+{{:精神打击}}
+
+=== 精神反馈 (Psychofeedback, Su) ===
+<span id="精神反馈"></span>
+{{:精神反馈}}
+
+=== 心念复原 (Telempathic Restoration, Su) ===
+<span id="心念复原"></span>
+{{:心念复原}}
+
+=== 转移恐惧 (Transfer Fear, Su) ===
+<span id="转移恐惧"></span>
+{{:转移恐惧}}
+
+=== 反射力场 (Deflection Field, Su) ===
+<span id="反射力场"></span>
+{{:反射力场}}
+
+=== 心念寻的 (Telepathic Targeting, Su) ===
+<span id="心念寻的"></span>
+{{:心念寻的}}
+
+== PSI技术 (Psi-Tech) ==
+{{Source|异能国度|Occult Realms}}
+
+[[异能者]]可以选择发现PSI技术来代替一个[[精神增幅]]或是专长。这些技术大多使用《探索者战役设定：[[科技指南]]》中的高级科技规则。
+
+=== 晋升智械 (Artificial Ascension) ===
+{{:晋升智械}}
+
+=== 疾病转移 (Disease Transference, Su) ===
+{{:疾病转移}}
+
+=== 异能力场 (Force Field, Su) ===
+{{:异能力场}}
+
+=== 动能增强 (Kinetic Enhancement) ===
+{{:动能增强}}
+
+=== 镭射爆发 (Laser Blast, Su) ===
+{{:镭射爆发}}
+
+=== 心灵殖装过载 (Mind Over Augmentation) ===
+{{:心灵殖装过载}}
+
+=== 异能电池 (Psychic Battery, Su) ===
+<span id="异能电池"></span>
+{{:异能电池}}
+
+=== 辐射抗力 (Radiation Resistance) ===
+{{:辐射抗力}}
+
+=== 科技匠人 (Techsmith) ===
+{{:科技匠人}}
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_310.html 精神增幅]、[https://pf1chm.pages.dev/topics/zhb4162fc9dd.htm 乌笃剌精神增幅]、[https://pf1chm.pages.dev/topics/page_855.html PSI技术]），按 AoN 核对过。
+
+{{AoN原文|1=PhrenicAmplifications.aspx|2=Phrenic Amplifications}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[额外精神增幅]]（1 个条目）
+
+[[分类:异能者]]
+{{职业}}

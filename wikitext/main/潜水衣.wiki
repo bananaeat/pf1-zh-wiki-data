@@ -1,0 +1,9 @@
+{{装备
+|name=潜水衣
+|english_name=Wet suit
+|cat=衣物
+|price=8 gp
+|weight=4磅
+|description=这件相对符合水动力学的潜水衣是为探索深海的地表居民设计的，带有防水口袋，有助于保持重要物品干燥。
+|source=水下冒险
+}}

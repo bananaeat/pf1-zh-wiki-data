@@ -1,0 +1,9 @@
+{{Trait
+|name=双重身
+|english_name=Twinned Presence
+|type=魔法
+|description=你的[[幻灵]]、以及你与幻灵之间的共鸣，令他人感到不自在。你的威吓检定获得+1背景加值，并且总能将威吓视为你的[[本职技能]]。此外，如果你的幻灵已被召唤且位于你30尺范围以内、同时其体型大于你本人，你可以在任何威吓检定中使用它的体型加值。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

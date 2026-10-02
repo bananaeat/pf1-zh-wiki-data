@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 62），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=妙语反击
+|english_name=Witty Repartee
+|type=战斗
+|pfs=否
+|prerequisites=基萨洛迪安学院
+|description=你口齿伶俐，向来擅长迅速斥责敌人。你的[[唬骗]]检定获得+1背景加值，并且唬骗对你而言是本职技能。
+|source_name=组织指南
+|source=FM
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Witty%20Repartee
+}}

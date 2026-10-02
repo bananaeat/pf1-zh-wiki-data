@@ -1,0 +1,9 @@
+{{装备
+|name=海图
+|english_name=Nautical chart
+|cat=冒险装备
+|price=25 gp
+|weight=—
+|description=海图绘制水道，标明水深和海岸线高度，以及洋流、港口、航行危险、暗礁和潮汐。在海图所详细描绘的区域内航行时，海图为专业（水手）检定提供+4环境加值。
+|source=内海海盗、冒险者的军械库2
+}}

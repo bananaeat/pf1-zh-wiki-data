@@ -1,0 +1,12 @@
+<includeonly>{{Mbox
+ | border  = info
+ | image =<i class="fa fa-code-fork" aria-hidden="true"></i>
+ |text = '''这是一个消歧义页'''，罗列了有相同或相近的标题，但内容不同的条目。如果您是通过某条目的[[Special:Whatlinkshere/{{NAMESPACE}}:{{PAGENAME}}{{!}}内部链接]]而转到本页，希望您能协助修正该处的内部链接，将它指向正确的条目。
+}}[[Category:消歧义页]]</includeonly><noinclude>{{优质模板|功能}}[[Category:huiji template]]{{Documentation}}</noinclude><noinclude>
+<templatedata>
+{
+	"params": {},
+	"description": "本模版用于在消歧义页面的起始部位插入{{消歧义页}} 来标记当前页面是一个“消歧义页”。\n详细信息与案例请前往https://templatemanager.huiji.wiki/wiki/%E6%A8%A1%E6%9D%BF:%E6%B6%88%E6%AD%A7%E4%B9%89%E9%A1%B5"
+}
+</templatedata>
+</noinclude>

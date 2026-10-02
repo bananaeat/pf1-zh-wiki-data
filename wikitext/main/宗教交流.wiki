@@ -1,0 +1,9 @@
+{{Trait
+|name=宗教交流
+|english_name=Comparative Religion
+|type=派系
+|description=你在银色十字军的朋友经常告诉你一些有关格拉里昂神祇和其追随者的故事。你在知识(宗教)上获得+1背景加值，知识(宗教)成为你的[[本职技能]]。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

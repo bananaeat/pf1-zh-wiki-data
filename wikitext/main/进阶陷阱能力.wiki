@@ -1,0 +1,10 @@
+{{Feat
+|name=进阶陷阱能力
+|english_name=Expansive Trap Ability
+|description=你的[[游侠陷阱]]和地雷可以影响更大区域。
+|prerequisites=可以使用[[游侠陷阱]]（《极限魔法》）或地雷（《地城探险者手册》中炼金术士变体[[陷阱爆破者]]的能力）
+|benefit=你可以指定你的游侠陷阱或地雷占据至多4个相邻的格子。当陷阱被触发时，陷阱效果会着重于最先进入指定格子触发陷阱的生物。若同时有多个格子有生物进入，则随机选择目标。
+|source=RTT
+|source_name=远程战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_552.html
+}}

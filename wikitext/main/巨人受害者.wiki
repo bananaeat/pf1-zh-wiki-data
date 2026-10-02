@@ -1,0 +1,9 @@
+{{Trait
+|name=巨人受害者
+|english_name=Giant-Harried
+|type=地区
+|benefit=你曾被巨人抢劫过，或者差点死于巨人的一个恶作剧，这段经历让你拥有了一种巧妙躲避体型更大生物的敏锐直觉。在针对体型比你大的生物进行[[CMB]]检定时，你可获得+1背景加值；并且在对抗此类生物的[[CMD]]+1背景加值。
+|regions=盖布、法力废土、奈克斯、奈多、纽梅利亚。
+|source_name=巨人猎手手册
+|source_url=https://pf1chm.pages.dev/topics/zh920b00384f.htm
+}}

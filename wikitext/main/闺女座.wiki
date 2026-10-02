@@ -1,0 +1,11 @@
+{{Trait
+|name=闺女座
+|english_name=The Daughter
+|type=宇宙
+|aliases=29-35 闺女座
+|prerequisites=格兹莱(Gozran)19日-黛丝娜斯(Desnus)13日(译注：4月19日-5月13日)
+|description=你充满闺女座那无忧无虑的快乐，以舞蹈的方式进入了春天。每名在你10尺内的生物在对他们的挫败士气(demoralize)的检定DC上会增加+2士气加值(moral bonuses)。
+|source_name=宇宙背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zhc3ea784a66.htm
+}}

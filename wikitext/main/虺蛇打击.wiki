@@ -1,0 +1,18 @@
+{{Feat
+|name=虺蛇打击
+|english_name=Adder Strike
+|aliases=蝰蛇打击
+|categories=战斗
+|description=你可以快速的将毒药涂抹在戴着手套的手、有防护的脚或其他有防护的身体部位上，让你的[[徒手打击]]可以传递这些毒药。
+|prerequisites=【用毒】职业特性，[[精通徒手打击]]，[[工艺]]（炼金）1级。
+|benefit=以一个[[迅捷动作]]，你可以将一剂接触型或伤口型毒药涂在身体的两个用于进行徒手打击的部位上。你仍须保护自己，避免直接暴露在以这种方式涂上的接触型毒药下。
+|normal=给武器或弹药涂毒是一个[[标准动作]]。
+|stamina=如果花费2个耐力点，你可以以迅捷动作将毒药涂抹在人造武器上。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[毒针刺击]]（1 个条目）

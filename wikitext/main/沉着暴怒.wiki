@@ -1,0 +1,16 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[沉着暴怒 (神话)]]。</small></div>
+{{Feat
+|name=沉着暴怒
+|english_name=Furious Focus
+|categories=战斗
+|description=即使是在激烈的狂怒攻击中，你仍旧可以专注于眼前的屠杀，使用你那野蛮的攻击切中要害。
+|prerequisites=力量13，[[猛力攻击]]，基本攻击加值+1。
+|benefit=当你持用双手武器、或者使用双手持握单手武器并且使用[[猛力攻击]]专长时，每轮的第一次攻击所进行近战攻击检定不会承受猛力攻击的减值。你仍旧会在其他的攻击中承受减值，包括[[借机攻击]]。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[惧栗屠杀]]（1 个条目）

@@ -1,0 +1,10 @@
+{{Feat
+|name=高等解法专攻
+|english_name=Greater Dispel Focus
+|description=你成为了解法技艺的大师。
+|prerequisites=[[解法专攻]]，能够施放解除魔法法术。
+|benefit=每当你尝试一次基于施法者等级的解除检定时，你在这次检定中获得+2加值。此加值与[[解法专攻]]专长带来的加值叠加。
+|source=MSH
+|source_name=怪物召唤者手册
+|source_url=https://pf1chm.pages.dev/topics/page_667.html
+}}

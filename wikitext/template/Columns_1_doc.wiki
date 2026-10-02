@@ -1,0 +1,44 @@
+
+将一系列内容分栏显示。默认分为三栏，也可以自己设定栏数，特别适用于较长的列表
+
+==范例==
+<pre>
+{{columns|
+content...
+}}
+
+{{columns|count=x|
+content...
+}}
+</pre>
+
+例如这样的代码:
+<pre>
+{{columns|
+* bla1
+* bla2 
+* bla3
+* bla4 
+* bla5
+* bla6 
+}}
+</pre>
+
+就会产生这样的效果:
+{{columns|
+* bla1
+* bla2 
+* bla3
+* bla4 
+* bla5
+* bla6 
+}}
+
+<templatedata>
+{
+	"params": {
+		"count": {}
+	},
+	"description": "将一系列内容分栏显示。默认分为三栏，也可以自己设定栏数，特别适用于较长的列表。count参数表示显示多少个列表内容。"
+}
+</templatedata>

@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=蛇龙的哀歌
+|english_name=Linnorm's Lament
+|aon=MagicArtifactsDisplay.aspx?ItemName=Linnorm's Lament
+|cat=神器
+|tier=高等神器
+|aura=强烈咒法系
+|cl=20
+|slot=无
+|weight=2磅
+|description=这支号角的运作方式与普通的[[英灵号角]]相同，只是每天可以吹响不止一次，此前几次吹响召来的战士会一直留存，直到他们的1小时期限届满。持有者第三次吹响号角时，他注定要在下一个黎明前死去，随机事件会以越来越不可思议的方式对他不利，直到他被杀死。这一诅咒的具体形式及任何可能的破解方法由GM决定。
+|destruction=如果有人第三次吹响蛇龙的哀歌并在此后存活了1年，它就会碎裂。
+|source=再探经典宝藏
+}}

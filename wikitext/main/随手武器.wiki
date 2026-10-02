@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[随手武器 (神话)]]。</small></div>
+{{Feat
+|name=随手武器
+|english_name=Catch Off-Guard
+|categories=战斗
+|description=你的敌人惊讶于你能熟练使用各种非常规武器和临时武器。
+|benefit=在你使用临时武器进行近战攻击时不会受到任何惩罚。未武装的敌人对于你的临时近战武器攻击视为[[措手不及]]。
+|normal=当你使用临时武器时在攻击检定时受到-4的减值。
+|stamina=在以临时武器攻击手持武器的敌人时，你可以花费5点耐力令目标对此次攻击呈措手不及状态。如果目标认出你并目睹你使用过[[随手武器]]能力，该战策无效。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[天然武器]]、[[擒武]]、[[碎物者]]（3 个条目）

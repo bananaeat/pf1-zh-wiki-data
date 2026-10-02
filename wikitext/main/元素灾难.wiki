@@ -1,0 +1,8 @@
+{{Trait
+|name=元素灾难
+|english_name=Elemental Accident
+|type=魔法
+|description=你童年时的悲惨经历，例如地震，沉船，火灾，雷劈，让你对着对应的元素产生无比的恐惧。你会在面对这些元素有关的危险时本能性的自我防御。当创建人物的时候选择酸液，寒冷，闪电或是火焰（一经选择，无法改变）。每天一次当你受到造成对应元素伤害的攻击或者是效果时，你可以用一个直觉动作获得该类型的能量抗力10，持续1轮。这个抗力不与你已有的该类型能量抗力叠加。
+|source_name=元素大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_1110.html
+}}

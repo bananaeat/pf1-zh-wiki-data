@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 8），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=峭岩矿工
+|english_name=Szaezan Crags Miner
+|type=地区
+|prerequisites=巴川
+|description=你曾在萨赞峭岩开采如今已十分稀少的矿石，并因此变得擅长鉴别矿物和宝石。你的[[估价]]检定获得+1背景加值，并且估价成为你的本职技能。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Szaezan%20Crags%20Miner
+}}

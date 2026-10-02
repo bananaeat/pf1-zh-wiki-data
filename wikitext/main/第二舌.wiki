@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 63），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=第二舌
+|english_name=Second Tongue
+|type=魔法
+|pfs=否
+|prerequisites=古神教
+|description=你用一种古老而痛苦的外科手术改造了自己的舌头。这些外科残割让你能说出大多数凡人无法发音的古老词语，增强了你运用与旧日支配者相关的魔法的能力。你为召唤或联系旧日支配者或其仆从而施放的任何召唤子系或预言系法术，施法者等级+1。
+|source_name=组织指南
+|source=FM
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Second%20Tongue
+}}

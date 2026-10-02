@@ -1,0 +1,16 @@
+{{消歧义|保镖(变体职业)}}
+{{Feat
+|name=保镖
+|english_name=Bodyguard
+|categories=战斗
+|description=你的快速攻击能够格挡开敌人对附近盟友的攻击。
+|prerequisites=战斗反射。
+|benefit=当邻近的盟友被攻击时，你能够使用[[借机攻击]]来尝试进行协助他人动作来增加盟友的AC。你无法以借机攻击来使用协助他人动作增加盟友的攻击检定。
+|normal=协助他人是[[标准动作]]。
+|stamina=你可选择花费1-2点耐力，并提升盟友的AC等同你花费的耐力点数。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}
+
+{{FAQ|v5748eaic9uws}}

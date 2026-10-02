@@ -1,0 +1,9 @@
+{{Trait
+|name=好奇猫
+|english_name=Dangerously Curious
+|type=魔法
+|description=你总是被魔法所吸引，这也许由于你是魔导士或神术师家庭的孩子。你经常偷偷摸进父母的实验室或神庙去捣蛋，把玩法术材料或是魔法装置，并且频繁地造成小破坏、令你爹娘头痛不已。你的[[使用魔法装置]]检定获得+1加值，并且总能将使用魔法装置视为你的[[本职技能]]。
+|source_name=魔法背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

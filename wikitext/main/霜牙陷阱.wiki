@@ -1,0 +1,14 @@
+{{危害
+|name=霜牙陷阱
+|english_name=Frost Fangs Trap
+|kind=陷阱
+|trap_type=机械
+|cr=7
+|perception=DC 25
+|disable=DC 20
+|trigger=位置型
+|duration=3轮
+|reset=无
+|effect=冰水喷射（3d6点寒冷伤害，反射 DC 20 豁免减半）；复数目标（40尺见方房间内的所有目标）
+|source=核心规则书
+}}

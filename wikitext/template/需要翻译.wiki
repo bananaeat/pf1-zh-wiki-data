@@ -1,0 +1,10 @@
+<includeonly>{{Mbox
+ |type = content
+ |text = 这{{#if: {{{section|}}} |段文字|篇文章}}需要翻译。你可以帮助{{SITENAME}}来 [{{fullurl:{{FULLPAGENAME}}|action=edit}} 翻译它]。{{#IF: {{{1|}}} |<br>{{{1}}} }}}}[[Category:需要翻译]]</includeonly><noinclude>{{优质模板|功能}}{{documentation}}[[Category:huiji template]]</noinclude><noinclude>
+<templatedata>
+{
+	"params": {},
+	"description": "本模版用于在页面起始部位或者任意章节开始处插入{{需要翻译}} 来标记当前页面亟需翻译。\n详细信息与案列请前往https://templatemanager.huiji.wiki/wiki/%E6%A8%A1%E6%9D%BF:%E9%9C%80%E8%A6%81%E7%BF%BB%E8%AF%91"
+}
+</templatedata>
+</noinclude>

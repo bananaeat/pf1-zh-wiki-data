@@ -1,0 +1,13 @@
+<noinclude>{{速查导航|here=规则}}
+{{消歧义|没有呼吸}}
+'''没有呼吸'''（No Breath）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：特性</span></div>
+</noinclude><includeonly><div class="lang"><span id="没有呼吸"></span><span id="没有呼吸(怪物能力)"></span><div class="lang-h"><b>[[没有呼吸(怪物能力)|没有呼吸]]</b><i>No Breath</i><span class="lang-w">Ex · 特性</span></div><div class="lang-d"></includeonly>
+该怪物不用呼吸，所以它免疫依靠呼吸产生的效果（比如吸入性毒素）。这个能力并不使它免疫那些不依靠呼吸就能生效的云状或气态攻击。
+
+'''格式'''：没有呼吸
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=No Breath|2=No Breath}}
+
+[[分类:通用怪物规则]]</noinclude>

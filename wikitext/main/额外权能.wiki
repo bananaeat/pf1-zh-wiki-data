@@ -1,0 +1,11 @@
+{{Feat
+|name=额外权能
+|english_name=Extra Investiture Points
+|description=无论是何种力量指引你走向天命，它都为你提供了额外的能量
+|prerequisites=神授权能职业特性
+|benefit=你的权能池增加2点。
+|special=你能多次选择该专长，其效果累计。
+|source=HotHC
+|source_name=皇庭英豪
+|source_url=https://pf1chm.pages.dev/topics/page_670.html
+}}

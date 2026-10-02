@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Champions of Balance pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=表面拥护者
+|english_name=Evident Supporter
+|type=地区
+|prerequisites=伽尔特
+|description=尽管政府更迭变幻莫测，你深知怎样才能最像现任政权的拥护者。在大城镇或更大的定居点中，城市卫兵、政客或其他政府官员为对你的可信度产生直觉而进行的[[察言观色]]检定，DC为25（而非20）。如果检定失败，无论情况如何，你都会被视为可信。
+|source_name=平衡勇士
+|source=CoB
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Evident%20Supporter
+}}

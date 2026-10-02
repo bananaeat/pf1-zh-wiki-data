@@ -1,0 +1,12 @@
+{{消歧义|活体堡垒(背景特性)}}
+{{Feat
+|name=活体堡垒
+|english_name=Living Fortress
+|categories=团队
+|description=固执、顽强、骄傲，当你有同类支持你时，你几乎是不可动摇的。
+|prerequisites=[[矮人]]，坚韧种族特性。
+|benefit=每当你防御式战斗，且你邻近一名同样拥有该专长的盟友时，你在对抗法术、类法术能力的豁免骰上的种族加值增加2。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

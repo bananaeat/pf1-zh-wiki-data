@@ -1,0 +1,11 @@
+{{Feat
+|name=精灵之魂
+|english_name=Elven Spirit
+|description=虽然你是混血儿，但是你更接近你的[[精灵]]亲属，他们那充满魔力的血液流淌在你的血管中。
+|prerequisites=半精灵。
+|benefit=你拥有精灵的【精灵魔法】[[种族特性]]，这使你在克服[[特殊能力#法术抗力|法术抗力]]时的施法者等级检定获得+2种族加值。此外在使用[[法术辨识]]技能检定辨认魔法物品的特性时，获得+2种族加值。或者，你也可以改为选取一项精灵能够用来替换【精灵魔法】的种族特性。
+|special=你只能在1级时选择该专长。如果你选择该专长就不能选择[[人类之魂]]专长。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

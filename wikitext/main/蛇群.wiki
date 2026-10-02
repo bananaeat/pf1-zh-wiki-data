@@ -1,0 +1,45 @@
+{{速查导航}}
+{{怪物
+|name=蛇群
+|english_name=Snake Swarm
+|cr=2
+|xp=600
+|alignment=绝对中立
+|size=超小型
+|type=动物
+|subtypes=集群
+|init=+6
+|senses=昏暗视觉，[[通用怪物规则#灵敏嗅觉|灵敏嗅觉]]；察觉 +9
+|description=这一大群蛇发出险恶的嘶嘶声，就好像一大堆蠕动的触手。
+|ac=15，接触 14，措手不及 13（+2 敏捷，+1 天生，+2 体型）
+|hp=16（3d8 +3）
+|fort=+4
+|ref=+7
+|will=+2
+|defensive=集群特性
+|speed=20 尺，攀爬 20 尺，游泳 20 尺
+|melee=集群（1d6 外加 扰乱）
+|space=10 尺
+|reach=0 尺
+|special_attacks=扰乱（DC 12）
+|str=9
+|dex=15
+|con=12
+|int=1
+|wis=12
+|cha=2
+|bab=+2
+|cmb=–
+|cmd=–
+|feats=[[精通先攻]];[[闪电反射]]
+|skills=[[攀爬]] +14;[[察觉]] +9;[[隐匿]] +18;[[游泳]] +10
+|racial_mods=+4 察觉，+4 隐匿，使用敏捷作为攀爬和游泳的关键属性
+|environment=任意
+|organization=单独或一窝（2–4 群）
+|treasure=无
+|source=怪物图鉴3
+|lore=
+虽然所有的蛇群都很危险，但是由毒蛇组成的蛇群则是最致命的。任何种类的蛇群都差不多会在相似的地域遭遇到，居住在废墟或茫茫荒地中。
+}}
+
+本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM。

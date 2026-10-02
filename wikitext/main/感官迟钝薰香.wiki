@@ -1,0 +1,16 @@
+{{魔法物品
+|name=感官迟钝薰香
+|english_name=Incense of Dulled Senses
+|aon=MagicWondrousDisplay.aspx?FinalName=Incense of Dulled Senses
+|cat=奇物
+|aura=中等防护系
+|cl=10
+|slot=无
+|price=1,500 gp
+|description=这种灰色熏香闻起来像冰冷的花岗岩。点燃后，熏香的烟雾会扩散，充满相当于十个10尺见方立方体的空间。这些烟雾保持静止，除非被风吹动。
+
+如果有盲感、灵敏嗅觉或[[颤动感知]]的生物吸入这种烟雾，必须进行一次DC 20的强韧豁免。如果豁免失败，它在10分钟内无法从其盲感、颤动感知或灵敏嗅觉能力中获益。10分钟后，熏香的烟雾消散，失去所有魔法特性。
+|req=[[制造奇物]]、[[目盲/耳聋术]]
+|cost=750 gp
+|source=屠龙者手册
+}}

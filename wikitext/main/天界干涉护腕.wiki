@@ -1,0 +1,15 @@
+{{魔法物品
+|name=天界干涉护腕
+|english_name=Bracers of Celestial Intervention
+|aon=MagicWondrousDisplay.aspx?FinalName=Bracers of Celestial Intervention
+|cat=奇物
+|aura=强烈咒法系
+|cl=13
+|slot=腕部
+|price=16,000 gp
+|weight=1磅
+|description=这对金色护腕上刻满了祷文和天界生物的雕像。圣武士可以用一个[[标准动作]]，把一次或多次制裁邪恶的使用次数注入护腕，来召唤[[福使绪论|福使]]、[[天使绪论|天使]]或[[圣使]]前来协助她。这相当于一个[[召唤怪物]]法术，其法术等级等于圣武士注入的制裁邪恶使用次数。用护腕召唤的异界生物必须来自召唤怪物法术所列的清单，或本书第28–29页的扩展召唤怪物清单。
+|req=[[制造奇物]]、[[召唤怪物 VII]]、制造者必须是守序善良
+|cost=8,000 gp
+|source=怪物召唤者手册
+}}

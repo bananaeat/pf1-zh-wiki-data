@@ -1,0 +1,15 @@
+{{魔法物品
+|name=浮空靴
+|english_name=Boots of Levitation
+|aon=MagicWondrousDisplay.aspx?FinalName=Boots of Levitation
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=脚部
+|price=7,500 gp
+|weight=1磅
+|description=这双柔软的皮靴轻得不可思议，穿着舒适，薄薄的鞋底用几条坚韧的兽皮加固，为双脚提供了出乎意料的支撑和保护。穿戴者可以用命令让靴子使她升空，如同对自己施放了浮空术。
+|req=[[制造奇物]]、[[浮空术]]
+|cost=3,750 gp
+|source=核心规则书、极限宝具
+}}

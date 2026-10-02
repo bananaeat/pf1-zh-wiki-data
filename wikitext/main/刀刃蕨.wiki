@@ -1,0 +1,44 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=刀刃蕨
+|english_name=Razor Fern
+|cr=1/4
+|xp=100
+|alignment=绝对中立
+|size=超小型
+|type=植物
+|init=+2
+|senses=昏暗视觉，颤动感知 15 尺；察觉 +0
+|description=这株隐约呈人形的植物用看起来很危险的带倒刺的蕨叶劈砍着。
+|ac=14，接触 14，措手不及 12（+2 敏捷，+2 体型）
+|hp=4（1d8）
+|fort=+2
+|ref=+2
+|will=+0
+|defensive=护盾蕨叶
+|immune=植物特性
+|speed=15 尺
+|melee=2 叶片 +4（1d4–3）
+|space=2–1/2 尺
+|reach=0 尺
+|str=5
+|dex=15
+|con=11
+|int=—
+|wis=10
+|cha=6
+|bab=+0
+|cmb=+0
+|cmd=7
+|feats=[[武器娴熟]] B
+|environment=温带森林
+|organization=单独，一对，或一丛（3–8）
+|treasure=无
+|special_abilities={{怪物能力|蕨叶|Ex|刀刃蕨的蕨叶是造成挥砍伤害的主要天生攻击。}}
+{{怪物能力|护盾蕨叶|Ex|刀刃蕨可以用一个移动动作格挡来袭的攻击，使其 AC 获得 +2 盾牌加值，持续到它的下一回合开始。}}
+|source=极限荒野
+|lore=
+刀刃蕨是会走动的伏击型掠食者，其坚硬的叶片结构能造成痛苦的伤口。虽然它们偏好捕食小型林地生物，但当较大的目标在睡觉或分心时，刀刃蕨也会毫不犹豫地向其劈砍。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Razor Fern|2=Razor Fern}}

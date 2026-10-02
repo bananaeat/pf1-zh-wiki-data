@@ -1,0 +1,10 @@
+{{Trait
+|name=振奋回覆
+|english_name=Reviving Rest
+|type=种族
+|prerequisites=[[兽态人]]（熊人裔）
+|description=当你首次展示你继承自熊人先祖的能力时，你昏睡了一周，醒来后精神抖擞。当你卧床休息完整24小时后，你可以回覆3倍角色等级的HP。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_808.html
+}}

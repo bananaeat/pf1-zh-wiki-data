@@ -1,0 +1,13 @@
+{{危害
+|name=焰击陷阱
+|english_name=Flame Strike Trap
+|kind=陷阱
+|trap_type=魔法
+|cr=6
+|perception=DC 30
+|disable=DC 30
+|trigger=接近型（[[魔法警报]]）
+|reset=无
+|effect=法术效果（[[焰击术]]，8d6点火焰伤害，反射 DC 17 豁免减半）；复数目标（10尺半径圆柱内的所有目标）
+|source=核心规则书
+}}

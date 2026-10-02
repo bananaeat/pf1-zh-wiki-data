@@ -1,0 +1,13 @@
+{{Feat
+|name=怪物伪装
+|english_name=Monstrous Disguise
+|prerequisites=[[易容]]5级，[[知识]](自然)5级。
+|benefit=你可以使用[[易容]]技能伪装成人形怪物，受到-5惩罚。伪装成人形怪物需要1d3小时。
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh03ef2e8763.htm
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[怪物假面]]（1 个条目）

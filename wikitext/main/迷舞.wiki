@@ -1,0 +1,18 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[迷舞 (神话)]]。</small></div>
+{{Spell
+|name=迷舞
+|english_name=Irresistible Dance
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|domains=狂欢子域 8
+|levels=催眠师 6;吟游诗人 6;歌者 6;奥能师 8;女巫 8;异能者 8;术士 8;法师 8;萨满 8
+|action=标准动作
+|components=语言
+|range=接触
+|target=接触到的活物
+|duration=1d4+1轮
+|save=意志，通过则部分生效
+|sr=是
+|description=受术者感受到无法抑制的强烈跳舞欲望并开始这么做，脚下拖着步子、打着拍子。法术的效果让受术者除了原地蹦跳外什么都不能做。该效果使目标的防御等级受到-4减值、反射豁免受到-10减值、并且无法获得任何来自目标所持握的盾牌带来的AC加值。跳舞的受术者每轮都会在他的回合中引起[[借机攻击]]。成功的意志豁免能够将效果的持续时间降至1轮。
+|source=核心规则书
+}}

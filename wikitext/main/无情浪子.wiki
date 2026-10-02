@@ -1,0 +1,49 @@
+{{速查导航}}
+{{怪物
+|name=无情浪子
+|english_name=Callous Rake
+|cr=1/2
+|xp=200
+|classline=人类艾奥梅黛圣武士1
+|alignment=守序善良
+|size=中型
+|type=类人生物
+|subtypes=人类
+|init=+1
+|senses=察觉+0
+|ac=20，接触11，措手不及19（+7护甲，+1敏捷，+2盾牌）
+|hp=12（1D10+2）
+|fort=+3
+|ref=+1
+|will=+2
+|speed=20尺
+|melee=长剑 +5（1d8+3/19-20）
+|ranged=匕首 +2（1d4+3/19-20）
+|special_attacks=破邪斩 1次/每天（+2攻击与 AC ，+1伤害）
+|spell_like=（施法者等级1；专注+3）；随意——[[侦测邪恶]]
+|tactics=<div class="ml wide"><span class="k">战斗中</span>圣武士以炫目技巧开场，然后对最强的邪恶目标使用破邪斩。如果有信心赢得胜利，他会持续破坏对手的士气</div>
+|str=17
+|dex=12
+|con=13
+|int=8
+|wis=10
+|cha=14
+|bab=+1
+|cmb=+4
+|cmd=15
+|feats=[[炫目技巧]];[[武器专攻]]（长剑）
+|skills=[[威吓]]+3;[[察言观色]]+4
+|languages=通用语
+|sq=灵光;行为准则
+|combat_gear=治疗轻伤药水
+|gear=板条甲;重木盾;长剑;匕首;带锁铁手套;银质圣徽;33gp
+|source=NPC志
+|family=核心职业（NPC志）
+|npc=1
+|lore=
+无情浪子是个有着不像圣武士表现的年轻圣武士。如果不加管教，他的习性将成为迈向耻辱的第一步。
+
+高，瘦，非常英俊，Tristram Reis 就是真正高尚圣武士的标准形象——直到他张嘴为止。作为一个低阶贵族之子，他对勇气女神有着信仰，但有点骄傲并为自己圣战士的身份沾沾自喜。
+}}
+
+本页译自《[[NPC志]]》的怪物图鉴 CHM。

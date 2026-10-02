@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 8），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=亡者之敌
+|english_name=Enemy of the Undead
+|type=地区
+|prerequisites=盖布
+|description=盖布的不死贵族对待生者的方式令你厌恶，这在你心中激起了仇恨。你对抗来自不死生物的任何法术或类法术能力的豁免检定获得+2背景加值。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Enemy%20of%20the%20Undead
+}}

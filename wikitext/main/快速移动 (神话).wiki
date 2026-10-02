@@ -1,0 +1,14 @@
+<noinclude>{{消歧义|快速移动}}</noinclude>
+<div class="well" style="margin:.2em 0"><small>这是专长 [[快速移动(专长)|快速移动]] 的神话版本。</small></div>
+{{Feat
+|name=快速移动
+|english_name=Fleet
+|categories=神话
+|description=你的脚步极为[[灵动]]。
+|prerequisites=[[快速移动(专长)|快速移动]]
+|benefit=你的基本陆上速度增加5尺，无论你穿着何种护甲，也不管你的负重情况为何。该加值与[[快速移动(专长)|快速移动]]专长赋予的加值叠加。
+|special=你能够多次选取该专长，不过次数不能超过你选取非神话版快速移动专长的数量。这些效果都会叠加。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

@@ -1,0 +1,48 @@
+{{速查导航}}
+<div class="well" style="margin:.2em 0"><small>'''枭熊的神话版本'''（[[神话规则|神话怪物]]，CR 之外另有 MR 神话位阶）。基础版本见 [[枭熊]]。</small></div>
+{{怪物
+|name=神话枭熊
+|english_name=Mythic Owlbear
+|cr=5
+|mr=2
+|xp=1,600
+|alignment=绝对中立
+|size=大型
+|type=魔法兽
+|subtypes=神话
+|init=+7M
+|senses=60尺黑暗视觉（darkvision），昏暗视觉（low-light vision），[[通用怪物规则#灵敏嗅觉|灵敏嗅觉]]（scent）；察觉 +12
+|description=这头野兽具有大熊一般的庞大体型和样貌，然而却生有枭首和羽毛。
+|ac=17，接触 10，措手不及 16（+1 敏捷，+7 天生，-1 体型）
+|hp=67（5d10 + 40）
+|fort=+10
+|ref=+5
+|will=+2
+|dr=5/传奇
+|sr=16
+|speed=30尺
+|melee=啮咬 +9（1d8 + 5）；2次爪抓 +9（1d6 + 5 外加 攫抓）
+|space=10尺
+|reach=5尺
+|special_attacks=迷乱猛扑；[[通用怪物规则#神话之力|神话之力]]（2次/日，[[通用怪物规则#神力涌动|神力涌动]] +1d6）；[[通用怪物规则#猛扑|猛扑]]；[[通用怪物规则#撕扯|撕扯]]（rend；2次爪抓，1d6+7）
+|str=21
+|dex=12
+|con=18
+|int=2
+|wis=12
+|cha=10
+|bab=+5
+|cmb=+11（擒抱+15）
+|cmd=22（对抗摔绊为26）
+|feats=[[强韧加强]];[[精通先攻]] M;[[技能专攻]]：察觉（Skill Focus：Perception）
+|skills=[[察觉]] +12
+|environment=温带森林
+|organization=单独，一对或一群（3 - 8）
+|treasure=偶有
+|special_abilities={{怪物能力|迷乱猛扑|Ex|神话枭熊使用猛扑能力命中的生物会自动恍惚（staggered）1轮。}}
+|source=神话冒险
+|lore=
+神话枭熊可以是被神话法师创造的生物，也可以是神话德鲁伊所钟爱的宠物。尽管神话枭熊与其他枭熊一样脾气暴躁、嗜血，但是它懂得避开或逃离比自己强大的敌人。
+}}
+
+本页译自《[[神话冒险]]》的怪物图鉴 CHM。

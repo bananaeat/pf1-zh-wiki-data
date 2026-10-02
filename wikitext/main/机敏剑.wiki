@@ -1,0 +1,16 @@
+{{魔法物品
+|name=机敏剑
+|english_name=Sword of Subtlety
+|cat=特殊魔法武器
+|base=[[短剑]]
+|enh=+1
+|aura=中等幻术系
+|cl=7
+|slot=无
+|price=22,310 gp
+|weight=2磅
+|description=这把+1[[短剑]]的剑刃又薄又暗淡，呈灰色。持用者用它进行偷袭攻击时，攻击检定和伤害掷骰获得+4加值。
+|req=[[制造魔法武器和防具]]、[[朦胧术]]
+|cost=11,310 gp
+|source=核心规则书、极限宝具
+}}

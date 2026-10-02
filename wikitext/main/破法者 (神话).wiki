@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[破法者(专长)]] 的神话版本。</small></div>
+{{Feat
+|name=破法者
+|english_name=Spellbreaker
+|categories=神话
+|description=你是施法者最可怕的噩梦。
+|prerequisites=[[破法者(专长)|破法者]]
+|benefit=每当被你威胁的非神话生物在使用法术或类法术能力时，都会引起你的[[借机攻击]]，即便是在[[防御式施法]]或者施放瞬发法术时也是如此。若距你30尺内的非神话生物使用法术或者类法术能力的话，你能够花费1次神话之力，以借机攻击来进行一次远程攻击对抗该名生物（即便该名生物在正常情况下并不会引起借机攻击）。你的手中必须有远程武器、或者一只手空着并且具有非神话版的[[即时备战]]专长才能使用该能力。你能够通过花费2次神话之力来使用该能力对抗神话生物。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

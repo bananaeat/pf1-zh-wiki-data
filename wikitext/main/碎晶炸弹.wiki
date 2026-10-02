@@ -1,0 +1,10 @@
+<noinclude>{{炼金术师导航}}
+'''碎晶炸弹'''（Glassfoot Bomb*）是[[炼金术师]]的[[科研发现]]。
+
+</noinclude>{{Source|进阶种族手册|Advanced Race Guide|inline}}
+
+'''效果'''：当炼金术师制造炸弹时，他可以选择让炸弹在造成正常效果之外，再用挥发性的锯齿晶体覆盖地面。这些晶体如同[[铁蒺藜]]一般运作，会在2d6轮内挥发成难闻但无害的气体。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_362.html 原文]），按 AoN 核对过。全部科研发现见 [[:分类:科研发现|分类:科研发现]]。
+
+[[分类:科研发现]]</noinclude>

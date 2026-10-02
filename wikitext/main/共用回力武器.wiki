@@ -1,0 +1,15 @@
+{{Spell
+|name=共用回力武器
+|english_name=Returning weapon, communal
+|school=咒法系 (传送)
+|levels=审判者 2;游侠 2;猎人 2;秘学士 2;魔战士 2;先知 3;吟游诗人 3;奥能师 3;女巫 3;异能者 3;战斗祭司 3;术士 3;歌者 3;法师 3;牧师 3
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=可投掷的武器
+|duration=1分钟/等级
+|save=意志，通过则无效（无害，物品）
+|sr=是（无害，物品）
+|description=这个法术工作方式如同[[回力武器]]，但你可以把持续时间以1分钟为单位划分给多把武器。
+|source=极限战斗
+}}

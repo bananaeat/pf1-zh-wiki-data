@@ -1,0 +1,9 @@
+{{Trait
+|name=决斗专家
+|english_name=Expert Duelist
+|type=派系
+|description=在你年幼的时候，你在研习决斗技艺上耗费了数不清的时间，你会精力非常集中的对战单个敌人。当你只与单个敌人邻接时，你的防御等级获得+1背景加值。此加值不会应用于接触AC且会在你防御等级失去敏捷加值的情况下失效。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

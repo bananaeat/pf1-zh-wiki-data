@@ -1,0 +1,16 @@
+<noinclude>{{速查导航|here=规则}}
+'''再生'''（Regeneration）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：生命值</span></div>
+</noinclude><includeonly><div class="lang"><span id="再生"></span><div class="lang-h"><b>[[再生]]</b><i>Regeneration</i><span class="lang-w">Ex · 生命值</span></div><div class="lang-d"></includeonly>
+具有这种能力的生物难以被杀死。具有再生的生物会以一定的速率回复自身受到的伤害，如同[[快速治疗]]一般，但只要再生能力仍然生效，它们就不会死亡（尽管具有再生的生物在生命值低于 0 时仍然会[[失去意识]]）。特定的伤害类型——通常是酸蚀和火焰——会使生物的再生在受到该攻击之后的那一轮停止生效。在这一轮里，生物不会治疗任何伤害，并会如常死亡。怪物的描述文本会说明会导致再生停止生效的伤害类型。
+
+不造成生命值伤害的攻击不会被再生治愈。再生也不能恢复因饥饿、窒息或口渴而损失的生命值。再生生物可以重新长出失去的部分身体，如果断肢或断开的身体部位在断开后 1 小时内被合拢，它们还可以将其重新接上。没有被重新接上的断肢会如常枯萎死亡。
+
+生物必须有体质属性值才能有再生能力。
+
+'''格式'''：再生 5（酸蚀，火焰）
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Regeneration|2=Regeneration}}
+
+[[分类:通用怪物规则]]</noinclude>

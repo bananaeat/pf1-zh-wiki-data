@@ -1,0 +1,10 @@
+{{消歧义|信猎使(审判者变体职业)}}
+{{Trait
+|name=信猎使
+|english_name=Faith's Hunter
+|type=战斗
+|description=神力在你每次重创宿敌时对你微笑。每当你对宿敌的重击确认检定成功，你可以将作用于自身的任何神术延长1轮。多次重击带来的收益将累加。瞬时生效的神术无法以此种方式延长。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=战斗工匠
+|english_name=Warsmith
+|type=种族
+|prerequisites=[[矮人]]
+|description=你对金属和岩石的弱点了如指掌。当攻击对象是主要由粘土、水晶、泥土、金属或石头构成时，你在伤害检定上获得+1背景加值。你获得知识(工程)作为你的[[本职技能]]。
+|source_name=格拉里昂的矮人
+|source_url=https://pf1chm.pages.dev/topics/page_1586.html
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=驱逐客
+|english_name=Exiled Scholar
+|type=地区
+|prerequisites=奈克斯
+|description=你年轻时对于[[巫妖]]之道十分着迷。奈克斯当局在你对死灵之道有所研究之后宣布你为叛徒并放逐了你。你的知识(神秘)和知识(宗教)检定得到+1背景加值。并且，选择一个知识技能，只要DC低于15，你就可以在未受训的情况下进行该技能的检定(而非通常的最高DC10)。
+|source_name=地区背景
+|source=USH
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

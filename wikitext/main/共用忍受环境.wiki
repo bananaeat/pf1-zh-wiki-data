@@ -1,0 +1,15 @@
+{{Spell
+|name=共用忍受环境
+|english_name=Endure elements, communal
+|school=防护系
+|levels=先知 2;圣武士 2;奥能师 2;异能者 2;德鲁伊 2;战斗祭司 2;术士 2;法师 2;游侠 2;牧师 2;猎人 2;炼金术师 3;调查员 3
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的复数生物
+|duration=24 小时
+|save=意志，通过则无效（无害）
+|sr=是
+|description=这个法术如同[[忍受环境]] 一样工作，不过你可以以1小时为单位将持续时间分配给接触到的复数生物。
+|source=极限战斗
+}}

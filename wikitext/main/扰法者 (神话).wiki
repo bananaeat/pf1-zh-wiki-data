@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[扰法者(专长)]] 的神话版本。</small></div>
+{{Feat
+|name=扰法者
+|english_name=Disruptive
+|categories=神话
+|description=你是干扰施法者的大师。
+|prerequisites=[[扰法者(专长)|扰法者]]
+|benefit=在你的威胁范围内进行[[防御式施法]]的DC增加，增加数值为你的阶层的一半。这与扰法者专长带来的加值叠加。此外，即便你无法进行[[借机攻击]]，非神话施法者仍旧会警戒你，并且持续受到来自扰法者专长的效果。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

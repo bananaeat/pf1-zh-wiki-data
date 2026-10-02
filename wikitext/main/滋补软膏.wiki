@@ -1,0 +1,15 @@
+{{魔法物品
+|name=滋补软膏
+|english_name=Restorative Ointment
+|aon=MagicWondrousDisplay.aspx?FinalName=Restorative Ointment
+|cat=奇物
+|aura=微弱咒法系
+|cl=5
+|slot=无
+|price=4,000 gp
+|weight=1/2磅
+|description=一罐这种药膏直径3英寸、深1英寸，含有5次用量。把药膏涂在中毒的伤口上或吞服，它能解除任何毒素（如同[[中和毒性]]，检定获得+5加值）。涂抹在患病的部位，它能治愈疾病（如同[[移除疾病]]，检定获得+5加值）。揉在伤口上，药膏能治疗1d8+5点伤害（如同[[治疗轻伤]]）。
+|req=[[制造奇物]]、[[治疗轻伤]]、[[中和毒性]]、[[移除疾病]]
+|cost=2,000 gp
+|source=核心规则书、极限宝具
+}}

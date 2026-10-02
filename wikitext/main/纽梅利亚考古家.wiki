@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Iron Gods Player's Guide pg. 9, People of the River pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=纽梅利亚考古家
+|english_name=Numerian Archaeologist
+|type=战役
+|pfs=否
+|description=纽梅利亚是一片适合考古探索的沃土，因为许多奇异的科技地城，要么被迷信的野蛮人部落避而远之，要么被科技联盟封锁，其中不少至今无人涉足，正等着人去探索。你研究过与这些诡异科技遗迹有关的奇特语言，并渴望开始探索它们——你怀疑火炬镇得名的那支火炬实际上是一座更大的地下遗迹的一部分，你希望通过探索镇下方的洞穴进入这些遗迹，弄清它们原本的用途。你额外获得机械语作为一门语言。此外，你对科技物品颇有一手；当你使用一件老旧的科技物品时，在确定该物品可能引发的故障时掷骰两次，并选择其中一个结果作为实际结果。和你的GM讨论，了解更多关于结算故障的信息。
+|source_name=钢铁诸神玩家手册
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Numerian%20Archaeologist
+}}

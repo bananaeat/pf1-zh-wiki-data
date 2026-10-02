@@ -1,0 +1,16 @@
+{{Spell
+|name=神射手传奇
+|english_name=Deadeye's lore
+|school=预言系
+|levels=先知 1;吟游诗人 1;审判者 1;德鲁伊 1;战斗祭司 1;歌者 1;游侠 1;牧师 1;猎人 1
+|action=1轮
+|components=语言;姿势
+|range=个人
+|target=自己
+|duration=1小时/等级
+|sr=否
+|description=随着你受到法术效果影响，你获得了猎人的专业知识，可以聆听荒野之灵的见解。
+
+你的生存技能在法术持续时间内获得+4神圣加值，同时你在穿越荒野和追踪时不用减半速度移动。
+|source=极限战斗
+}}

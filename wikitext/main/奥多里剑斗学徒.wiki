@@ -1,0 +1,15 @@
+{{Feat
+|name=奥多里剑斗学徒
+|english_name=Aldori Dueling Disciple
+|categories=战斗
+|description=你对自己的奥多里剑术手法充满自豪，这赋予了你一股豪气。
+|prerequisites=[[擅长异种武器]]（奥多里决斗剑），[[武器娴熟]]，[[武器专攻]]（奥多里决斗剑）
+|benefit=你在所有挫败士气的威吓检定中获得+2士气加值，而且尝试挫败你的士气的威吓DC会增加2点。当你参与决斗的时候，上述加值增加至+4点。
+|source=ISC
+|source_name=内海战斗
+|source_url=https://pf1chm.pages.dev/topics/page_276.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[怒流剑式]]、[[落花流水剑]]、[[雾池剑式]]（3 个条目）

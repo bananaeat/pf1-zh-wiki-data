@@ -1,0 +1,17 @@
+{{魔法物品
+|name=知识之树
+|english_name=Tree of Knowledge
+|aon=MagicPlantsDisplay.aspx?FinalName=Tree of Knowledge
+|cat=魔法植物
+|aura=微弱预言系
+|cl=3
+|slot=无
+|price=3,000 gp
+|weight=500磅
+|description=这棵大树同时结着鲜红的苹果和暗黄的苹果。吃下红苹果的人，在她的下一次知识检定上获得+5洞察加值。吃下一个黄苹果可以使用一次[[占卜术]]。无论苹果的能力是否已被使用，其效果都会在24小时后消退。
+
+知识之树在生长季内每天结出一个红苹果，每周结出一个黄苹果，生长季在春季，持续13周。这棵树上任何时候最多只有七个红苹果和一个黄苹果。
+|req=[[奇植培育]]、[[占卜术]]，培育者必须在知识（自然）上有至少1级
+|cost=1,500 gp
+|source=极限荒野
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=必然毁灭
+|english_name=Assured Destruction
+|pfs=否
+|description=你对死亡的热情——包括你自己——给所有你周围的人造成更严重的伤害。
+|prerequisites=[[强化邪魔契约]]，透肌魔人
+|benefit=当你使用邪魔契约能力吞噬自己的灵魂时，你自动成功。邪魔契约能力造成的负能量伤害提升至3d6，减半伤害的反射豁免DC的亵渎加值提升至+4。
+|normal=邪魔契约能力每次尝试有50%的成功几率，并造成2d6点负能量伤害。
+|source_name=内海怪物志
+|source_url=https://pf1chm.pages.dev/topics/zhb83e0d90c4.htm
+}}

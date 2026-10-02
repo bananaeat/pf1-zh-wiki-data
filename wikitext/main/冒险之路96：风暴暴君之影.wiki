@@ -1,0 +1,48 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #96: Shadow of the Storm Tyrant
+|authors=Tito Leati
+|pages=96
+}}
+
+{{书页/简介|head=|1=
+「巨人杀手」冒险之路惊心动魄的终章！英雄们从一座火巨人地下城中冲出，来到火山口，望见风暴暴君那座被盗来的云中城堡高高悬浮在天上。他们必须从那里强攻这座正在腾空升起的要塞，与这位冷酷风暴巨人的精锐卫士及盟友展开血战。最后，英雄们必须面对风暴暴君本人——连同被他支配的一头红龙——终结他狂妄的权力野心。英雄们能否击败风暴暴君沃尔斯图斯（Volstus），还是整个阿维斯坦都将向这位强大的军阀及其巨人大军屈膝？
+
+本册《冒险之路》为「巨人杀手」冒险之路画上句号，内容包括：
+
+* 《风暴暴君之影》，一部面向 15 级角色的开拓者冒险，作者 Tito Leati。
+* 为延续并拓展你的「巨人杀手」战役而设的高风险阴谋与危险对手，作者 Jim Groves。
+* 解读被称为吉迦斯的外层位面巨人，作者 Patrick Renie。
+* 「探索者日志」中，一则猎杀巨人的最后一篇离奇传说，作者 Patrick Renie。
+* 四种新的怪物威胁，作者 Benjamin Bruck、Steven T. Helt、Mikko Kallio、Patrick Renie。
+}}
+
+'''冒险之路96：风暴暴君之影'''（''Pathfinder #96: Shadow of the Storm Tyrant''）是 Tito Leati 撰写的一部冒险，辅助材料出自 Benjamin Bruck、Jim Groves、Steven T. Helt、Mikko Kallio 和 Patrick Renie，小说也出自 Patrick Renie，于 2015 年 7 月 29 日发售。它是[[冒险之路]]「巨人杀手」系列的第六章，也是最终章。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+风暴暴君之影 @ 6
+NPC 图集 @ 60
+- Renfal
+- Volstus
+继续战役 @ 64
+吉迦斯生态 @ 70
+探索者日志：离奇传说（6／6） @ 76
+怪物图鉴 @ 82
+- [[阿比索格]]
+- [[末日荒原吉迦斯]]
+- [[苦役邪魔]]
+- [[风暴原牛]]
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Shadow of the Storm Tyrant
+|releases=PDF¦PZO9096E¦2015-07¦；Softcover¦PZO9096¦2015-07¦
+}}
+
+<small>CHM 汉化里没有这本书的译名，书名是本站定的。</small>
+
+[[分类:书目]]

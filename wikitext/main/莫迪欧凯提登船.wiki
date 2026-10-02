@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Serpent's Skull Player's Guide pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=莫迪欧凯提登船
+|english_name=Boarded in Mediogalti
+|type=战役
+|pfs=否
+|description=你的旅途经由伊兹玛格罗提这座危险的港口把你带上了珍妮维尔号，那里既是海盗的家园，也是刺客的巢穴。也许你在躲避对你的悬赏，也许你是从另一艘船上跳船逃来的，又或许你只是想在一片危险更加显而易见的土地上重新开始。你对无声杀戮和毒药的熟悉使你对抗毒素的所有豁免获得+2背景加值。此外，你可以从下列毒素中选择一种并对其免疫，因为你经历了漫长而痛苦的过程，逐步建立起了对其效果的免疫力：青嘶泣、巨型黄蜂毒、中型蜘蛛毒、小蜈蚣毒，或蛛藤毒（一种提取自芒吉莽原原生有毒植物的毒素）。
+|source_name=Serpent's Skull Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Boarded%20in%20Mediogalti
+}}

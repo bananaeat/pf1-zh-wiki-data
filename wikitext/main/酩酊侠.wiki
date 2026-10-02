@@ -1,0 +1,11 @@
+{{Feat
+|name=酩酊侠
+|english_name=Drunken Brawler
+|categories=战斗
+|description=你了解如何在酣然大醉中发挥自己战斗极限的方法。
+|prerequisites=[[坚忍]]，信仰[[凯登·凯连]]
+|benefit=当你在饮用了一大杯麦酒或是其他的烈性酒后，你在反射豁免检定上承受-2减值，但与此同时你将获得相当于你人物等级的临时生命值以及在强韧和意志检定上+2炼金加值。该效果持续一小时或是你获得的临时生命值全部消耗完毕为止——取其先者。无论如何，该效果带来的减值将持续一整个小时。
+|source=FoP/FoB/FoC、ISG
+|source_name=纯善／平衡／堕落信念、内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}

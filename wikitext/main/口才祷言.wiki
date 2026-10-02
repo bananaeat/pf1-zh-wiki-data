@@ -1,0 +1,18 @@
+{{Spell
+|name=口才祷言
+|english_name=Litany of eloquence
+|school=惑控系 (魅惑)
+|tags=依赖语言;影响心灵
+|levels=反圣武士 2;圣武士 2;审判者 3
+|action=迅捷动作
+|components=语言;姿势;圣徽
+|range=近距
+|target=一名生物
+|duration=1轮
+|save=否
+|sr=是
+|description=你的祷言是如此的迷人而充满魅力，致使你的目标沉迷于聆听。目标陷入[[迷魂]]状态。平常而言，显著的危险会阻止迷魂状态，而潜在的危险会获得豁免机会。
+
+当受到该法术影响时，目标不能再成为另一个名称中带有“祷言”一词的法术的目标。
+|source=极限战斗
+}}

@@ -1,0 +1,15 @@
+{{Spell
+|name=卧重若轻
+|english_name=Bed of iron
+|school=死灵系
+|levels=圣武士 1;奥能师 1;审判者 1;术士 1;法师 1;魔战士 1
+|action=标准动作
+|components=语言;姿势;材料（一根羽毛或一块柔软的布料）
+|range=接触
+|target=1个接触到的生物/等级
+|duration=8小时
+|save=强韧，通过则无效（无害）
+|sr=是（无害）
+|description=这个法术使得最笨重的盔甲对穿着者来说感觉像丝绸般柔软。该法术的受术者能够舒适地睡在中甲或重甲中，并且不会在第二天[[疲乏]]。
+|source=内海骑士
+}}

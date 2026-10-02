@@ -1,0 +1,15 @@
+{{魔法物品
+|name=玫瑰皮篦
+|english_name=Roseskin Comb
+|aon=MagicWondrousDisplay.aspx?FinalName=Roseskin Comb
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=头部
+|price=37,000 gp
+|weight=1/2磅
+|description=一把绿铜梳篦把这件粉色雪花石膏头饰固定在佩戴者的头发上，悄然为她的皮肤注入力量。除了为佩戴者增添一份可爱的气质外，玫瑰皮篦还使佩戴者的天然护甲获得+2增强加值。此外，玫瑰皮篦的佩戴者每日3次可以用[[标准动作]]命令倒刺从皮肤上长出，效果如同[[荆刺之躯]]，持续7轮。
+|req=[[制造奇物]]、[[树肤术]]、[[荆刺之躯]]
+|cost=18,500 gp
+|source=商人货单
+}}

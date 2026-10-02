@@ -1,0 +1,10 @@
+{{装备
+|name=烛光杖
+|english_name=Candlerod
+|cat=炼金工具
+|price=1 gp
+|weight=1磅
+|craft_dc=20
+|description=这根棍棒与[[日光杖]]类似但较弱，敲击后会发出烛光般的亮光，持续12小时。
+|source=极限宝具
+}}

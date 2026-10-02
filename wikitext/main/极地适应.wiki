@@ -1,0 +1,10 @@
+{{Feat
+|name=极地适应
+|english_name=Arctic Adaptation
+|description=你已适应寒带那不断累积的降雪和耀目的寒冰，在这钟恶劣的环境中，你能比那些不习惯寒冷的人生存的更久。
+|prerequisites=偏好地形（寒冷）职业能力。
+|benefit=你将寒冷环境（Core Rulebook第442页）所产生的影响，视其为比之正常情况降低一级。此外，你在降雪时，对抗那些在隐匿检定上获得了种族加值的生物时，可在察觉检定上获得+2加值。并且你在避免由冰或雪的反光而导致的[[目盲]]或[[目眩]]的豁免骰和检定上，获得+4加值。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

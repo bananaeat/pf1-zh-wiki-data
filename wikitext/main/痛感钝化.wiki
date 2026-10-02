@@ -1,0 +1,10 @@
+{{Feat
+|name=痛感钝化
+|english_name=Ready for Pain
+|description=你植入的诡计会让受术者对伤害的感觉变得迟钝。
+|prerequisites=[[催眠师诡计]]职业能力
+|benefit=当你植入一个[[催眠师诡计]]时，能赋予受术者DR 1/－，但仅限于对抗[[非致命伤害]]，直至该项催眠师诡计被触发或者持续时间结束为止。你每具有5个催眠师等级，这个DR便会增加1点。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

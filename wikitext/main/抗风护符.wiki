@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=抗风护符
+|english_name=Amulet of Wind Defiance
+|aon=MagicWondrousDisplay.aspx?FinalName=Amulet of Wind Defiance
+|cat=奇物
+|aura=中等变化系［气］
+|cl=9
+|slot=颈部
+|price=10,000 gp
+|description=这枚圆形的石质护符上刻着一条细密的螺旋线，由外向中心盘旋收拢，给人以强大旋涡的印象。护符在佩戴者周围形成一个反应性的力场，抵消自然风或受魔法操控的风所带来的不利效果。佩戴者对待所有此类效果，就如同处于[[行动自如]]的影响之下。
+|req=[[制造奇物]]、[[操纵风相]]
+|cost=5,000 gp
+|source=冒险之路112：时间之外的低语
+}}

@@ -1,0 +1,14 @@
+{{物品
+|name=小型人偶
+|english_name=Poppet, Poppet, Small
+|cl=3级
+|price=900GP
+|requirements=[[制造构装体]]或制造人偶（Craft Poppet），[[完全修复术]]，[[修复术]]
+|cost=500GP
+|description=小型人偶和[[人类]]婴儿般大小，身高约2尺而体重约30磅。
+
+小型人偶比典型的人偶更耐用但也更昂贵。它们也可以获得强化，但所需的额外材料双倍于一种强化的成本。
+
+小型人偶需要价值100GP的优质木料或柳条的零件。
+|source_name=冒险者的军械库2
+}}

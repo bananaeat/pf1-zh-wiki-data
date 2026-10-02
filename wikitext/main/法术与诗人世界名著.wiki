@@ -1,0 +1,21 @@
+{{速查导航}}
+
+'''法术与诗人世界名著'''是《[[屠龙者手册]]》的一章，八条给屠龙者用的法术，外加三部[[:分类:传世名作|传世名作]]。
+
+== 本章条目 ==
+
+* [[龙龟之壳]]（Dragon turtle shell）
+* [[抑制龙类]]（Draconic suppression）
+* [[龙之声]]（Dragonvoice）
+* [[地城视野]]（Dungeonsight）
+* [[侵蚀防御]]（Erode defenses）
+* [[重力井]]（Gravity well）
+* [[猛犸之心]]（Heart of the mammoth）
+* [[虚假宝藏]]（Illusory hoard）
+* [[先祖之翱翔]]（Ancients' Flight；传世名作）
+* [[法夫尼尔和第一个国王]]（Fafnheir and the First King；传世名作）
+* [[孔雀盛会]]（Pageant of the Peacock；传世名作）
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_821.html 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

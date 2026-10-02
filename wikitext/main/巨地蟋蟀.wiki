@@ -1,0 +1,43 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=巨地蟋蟀
+|english_name=Giant Ground Cricket
+|cr=2
+|xp=600
+|alignment=绝对中立
+|size=中型
+|type=虫类
+|init=+2
+|senses=黑暗视觉 60 尺；察觉 +0
+|description=这只巨型蟋蟀的腿部和背部伸出长长的棘刺。
+|ac=16，接触 12，措手不及 14（+2 敏捷，+4 天生）
+|hp=26（4d8+8）
+|fort=+6
+|ref=+3
+|will=+1
+|defensive=棘刺
+|immune=影响心灵效果
+|speed=30 尺，掘进 10 尺，攀爬 20 尺
+|melee=啮咬 +5（1d8+3）
+|str=15
+|dex=14
+|con=15
+|int=–
+|wis=11
+|cha=2
+|bab=+3
+|cmb=+5
+|cmd=17（对抗摔绊 25）
+|skills=[[特技]] +2（跳跃 +10）;[[攀爬]] +10
+|racial_mods=+8 特技（跳跃）
+|environment=温带森林
+|organization=单独，成对，或群落（3–12）
+|treasure=无
+|special_abilities={{怪物能力|棘刺|Ex|任何用天生攻击或徒手打击攻击巨地蟋蟀的生物，必须通过 DC 14 的反射豁免，否则受到 1d4 点穿刺伤害。此豁免 DC 基于体质。}}
+|source=冒险之路116：战争之牙
+|lore=
+这种蟋蟀大如狼，体形笨重厚实，腿部、背部、腹部和头部都长有棘刺。巨地蟋蟀通常没有敌意，但会保护自己的洞穴不受侵犯。受到刺激时，巨地蟋蟀会从关节处分泌出黄绿色的血液，这种血液散发着恶臭，能驱赶捕食者。巨地蟋蟀高约 2.5 尺，长约 5 尺，重约 80 磅。
+}}
+
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Giant Ground Cricket|2=Giant Ground Cricket}}

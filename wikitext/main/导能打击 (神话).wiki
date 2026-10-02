@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[导能打击]] 的神话版本。</small></div>
+{{Feat
+|name=导能打击
+|english_name=Channel Smite
+|categories=神话
+|description=你的武器蕴含着神能。
+|prerequisites=[[导能打击]]
+|benefit=当你使用[[导能打击]]时，你的攻击检定所获得的加值等同于你的[[引导能量]]职业特性所具有的d6骰数。这个加值是神圣加值（如果引导正能量）或亵渎加值（如果引导负能量）。若你对目标的攻击失手，你能够以[[自由动作]]花费1次神话之力施放已经引导的能量，产生你的引导能量职业特性的正常效果，该效果以你尝试打击的目标为中心释放。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

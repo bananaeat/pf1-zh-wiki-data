@@ -1,0 +1,14 @@
+{{Feat
+|name=额外引导
+|english_name=Extra Channel
+|aliases=额外导能
+|description=你可以更频繁地引导神圣能量。
+|prerequisites=引导能量职业能力
+|benefit=你每日的[[引导能量]]次数增加两次。
+|special=如果你是能够引导正能量的圣武士，那么你获得每日四次额外的圣疗能力使用次数，但只能用来引导正能量；如果你是能够引导能量的战斗祭司，那么你获得每日四次额外的热诚能力使用次数，但只能用来引导能量
+|source=ACG、CRB
+|source_name=进阶职业指南、核心规则手册
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}
+
+{{FAQ|v5748eaic9o82}}

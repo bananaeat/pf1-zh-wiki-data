@@ -1,0 +1,10 @@
+{{Feat
+|name=万矢切
+|english_name=Smash from the Air
+|categories=武器掌握
+|pfs=否
+|description=你迅速而强力的一击可以将任何飞来的威胁无害地斩成两截。
+|prerequisites=[[力量]] 13，[[猛力攻击]]，[[矢切]]，基础攻击加值+9，对所选近战武器拥有战士武器训练职业能力
+|benefit=你的矢切专长现在可以对大型远程武器（例如巨石或弩炮巨矢）和法术效果造成的远程攻击生效。不需要进行攻击检定的法术效果无法被挡下。
+|source_name=武器大师手册
+}}

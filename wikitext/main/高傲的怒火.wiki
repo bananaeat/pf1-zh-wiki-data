@@ -1,0 +1,9 @@
+{{Trait
+|name=高傲的怒火
+|english_name=Prideful Temper
+|type=种族
+|prerequisites=[[魔裔]]
+|description=你拥有残酷的虐待和遭受辱骂的儿时记忆，这使得你在回击那些诽谤你的人时充满愤怒。在对抗那些敢于侮辱你的生物时，直到你成功对其造成伤害之前，你的攻击检定获得+1背景加值。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_834.html
+}}

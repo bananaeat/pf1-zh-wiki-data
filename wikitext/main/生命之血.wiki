@@ -1,0 +1,10 @@
+{{Feat
+|name=生命之血
+|english_name=Life's Blood
+|description=永恒的生命充盈在你的血液中，你的血液所包含的治疗之力能够用来医治他人。
+|prerequisites=轮回者。
+|benefit=按照自身的意愿，你能够以一个[[整轮动作]]进行特殊的放血仪式，牺牲自身的活力去治疗其他生物。使用该专长时，你受到1d4点伤害，并将你的血涂在活物的创口上，并治愈其等同于你在仪式中失去的HP。这是一个超自然能力。只有你能够如此放血。同一名生物每天不能被该能力治疗超过1次。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

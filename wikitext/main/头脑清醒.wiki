@@ -1,0 +1,9 @@
+{{Trait
+|name=头脑清醒
+|english_name=Clearheaded
+|type=种族
+|prerequisites=[[矮人]]
+|description=你能看穿欺骗和谎言。你在对抗[[唬骗]]和[[易容]]技能的对抗检定上获得+1背景加值，并且你在对错觉影响的豁免检定上获得+1背景加值。
+|source_name=格拉里昂的矮人
+|source_url=https://pf1chm.pages.dev/topics/page_1586.html
+}}

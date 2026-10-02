@@ -1,0 +1,9 @@
+{{Trait
+|name=颜如玉
+|english_name=Charming
+|type=社会
+|description=拜天生美貌所赐，你意识到自己对他人具有非凡的吸引力。当你对某个可能对你产生性趣的角色使用[[唬骗]]或交涉技能时，检定可获+1背景加值，同时，你对上述角色或生物施展的基于语言的法术DC也获得+1背景加值。
+|source_name=社会背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

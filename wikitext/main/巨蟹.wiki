@@ -1,0 +1,48 @@
+{{速查导航}}
+{{怪物
+|name=巨蟹
+|english_name=Crab, Giant
+|cr=2
+|xp=600
+|alignment=绝对中立
+|size=中型
+|type=虫类
+|subtypes=水栖
+|init=+1
+|senses=黑暗视觉 60 尺；察觉 +4
+|description=这笨拙的硬壳螃蟹站立起来有矮人一样高，巨大的钳子凶猛地挥舞动着。
+|ac=16，接触 11，措手不及 15（+1 敏捷，+5 天生）
+|hp=19（3d8 +6）
+|fort=+5
+|ref=+2
+|will=+1
+|immune=影响心灵效果
+|speed=30 尺，游泳 20 尺
+|melee=2 爪抓 +4（1d4 +2 外加攫抓）
+|special_attacks=[[通用怪物规则#紧勒|紧勒]]（1d4 +2）
+|str=15
+|dex=13
+|con=14
+|int=–
+|wis=10
+|cha=2
+|bab=+2
+|cmb=+4（+8 擒抱）
+|cmd=15（27 对抗摔绊）
+|skills=[[察觉]] +4;[[游泳]] +10
+|racial_mods=+4 察觉
+|sq=水域依赖
+|environment=任意水生环境
+|organization=单独或成群（2–12）
+|treasure=无
+|special_abilities={{怪物能力|水域依赖|Ex|巨蟹可以短暂脱离水域而生存，每一点体质能维持生存一个小时。一旦超过这个期限，螃蟹就会窒息，就好像溺水一样。}}
+|source=怪物图鉴
+|lore=
+巨蟹的行为很像它们较小的兄弟，它们以植物例如藻类和菌类以及动物例如鱼、海鸟、甚至粗心的人形生物为食。巨蟹外壳的颜色根据种类不同差距很大，甚至因为它们的食物不同而变化。
+
+巨蟹的其他变种同样存在，一些较小但是大多数都更为庞大。你可以调整这里给出的数据来改变 HD 和体型（修改力量敏捷和体质的话要酌情而定。）以适用于巨蟹繁多的变种。下表适用于大多数常见的巨蟹。
+
+<div class="monster-table-wrap"><table class="wikitable"><tr><th>种类</th><th>CR</th><th>体型</th><th>HD</th></tr><tr><td>帝王蟹</td><td>1/4</td><td>微型</td><td>1D8</td></tr><tr><td>椰子蟹</td><td>1/2</td><td>小型</td><td>1D8</td></tr><tr><td>岩蟹</td><td>4</td><td>大型</td><td>5D8</td></tr><tr><td>[[食鲨蟹]]</td><td>7</td><td>超大</td><td>8D8</td></tr><tr><td>巨暗礁蟹</td><td>10</td><td>巨型</td><td>11D8</td></tr><tr><td>[[斩舰蟹]]</td><td>13</td><td>超巨</td><td>14D8</td></tr></table></div>
+}}
+
+本页译自《[[怪物图鉴]]》的怪物图鉴 CHM。

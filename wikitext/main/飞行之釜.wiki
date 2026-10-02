@@ -1,0 +1,15 @@
+{{魔法物品
+|name=飞行之釜
+|english_name=Cauldron of Flying
+|aon=MagicWondrousDisplay.aspx?FinalName=Cauldron of Flying
+|cat=奇物
+|aura=中等变化系
+|cl=10
+|slot=无
+|price=40,000 gp
+|weight=100磅
+|description=这口铁锅大得足以让两名中型类人生物舒适地站在里面。凭命令，大釜连同至多500磅的额外重量可以飞行，如同使用[[翱翔天际]]一般。大釜按照说出启动命令字的人的指挥移动。它最多可以载运自身载重量的两倍，但这样会使速度降为30尺。它可以[[飞行|盘旋]]在原地而不需要飞行技能检定。大釜为站在其中的任何人提供部分[[掩蔽]]。它的硬度为10，生命值为60点。
+|req=[[制造奇物]]、[[翱翔天际]]
+|cost=20,000 gp
+|source=进阶玩家指南、极限宝具
+}}

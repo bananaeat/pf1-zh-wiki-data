@@ -1,0 +1,54 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Lost Cities of Golarion
+|authors=Tim Hitchcock、Michael Kortes、Jason Nelson
+|pages=64
+}}
+
+{{书页/简介|head=|1=
+《格拉利昂的失落之城》呈现了六座满载宝藏、可直接用于你战役的废弃聚落，从失落的阿兹兰特大陆上参差嶙峋、鬼魂萦绕的太阳神殿殖民地（Sun Temple Colony），到废墟遍布的瓦瑞西亚的辛沙拉斯特尖塔（Spires of Xin-Shalast），再到埋于沙漠之下的失落法老王座、地下的香格里拉、早已灭亡的帝国坠毁的天空之城，不一而足。
+
+每座城市的详细介绍都附有整页的失落之城地图、大量吸引玩家投入其中的冒险钩子、关键内部地点的地图、遭遇表、重要本地角色的数据，等等！此处揭示的六个地点，每一处都藏有一件著名的传说宝物，并以《开拓者角色扮演游戏》规则完整呈现。
+
+《格拉利昂的失落之城》为你提供通往以下险恶之地的钥匙：
+
+* 伊尔瓦兰丁（Ilvarandin）——一座隐于凶险的幽暗地域深处、熙熙攘攘的大都会，由邪恶生物统治，它们向地表供应一种怪异的毒品，计划借此奴役全世界的梦境
+* 寇（Kho）——远古首理人的坠毁飞行之城，其仍在噼啪作响的魔法引擎吸引探险者来到青翠的芒吉莽原——落入当地的水巨灵（marid）、携带瘟疫的邪魔（daemon）与有翼猿人的魔爪
+* 斯托拉斯塔（Storasta）——曾是萨柯里斯文明的青翠明珠，如今被世界之殇吞没，被腐化的自然之力在此与深渊大军争夺控制权
+* 太阳神殿殖民地（Sun Temple Colony）——人类在此与一个扭曲的小神和一枚喷火的轨道透镜抗争，试图在废墟般的阿兹兰特大陆上建立文明
+* 图门（Tumen）——奥西里昂的远古悬崖之城，邪教徒、魔像与沙漠元素生物在此守卫着早已被遗忘的法老们最伟大的作品
+* 辛沙拉斯特（Xin-Shalast），贪婪之城——黄金铺就的街道与崩塌的山壁巨石通往终极的财富，以及冷原（Plateau of Leng）的诡异异界
+}}
+
+'''格拉利昂的失落之城'''（''Lost Cities of Golarion''）是由 Tim Hitchcock、Brandon Hodge、Michael Kortes、Jason Nelson 和 Russ Taylor 撰写的一本《探索者战役设定》（Pathfinder Campaign Setting）资料书，于 2011 年 1 月发售。
+
+== 目录 ==
+{{书页/目录|1=
+导言 @ 2
+伊尔瓦兰丁（Ilvarandin） @ 4
+- 午夜之乳（Midnight milk）
+- Tiluachek
+寇（Kho） @ 14
+- 水晶生物（Crystal creature）
+- Derhii
+斯托拉斯塔（Storasta） @ 24
+- Carrock
+太阳神殿殖民地（Sun Temple Colony） @ 34
+- 天界透镜（Celestial Lens）
+- 引导之焰（Flame of Guidance）
+- 努鲁加尔之泪（Tear of Nuruu'gal）
+图门（Tumen） @ 44
+- The Aqualinth
+- Theorex Khai
+辛沙拉斯特（Xin-Shalast） @ 54
+- 梦魇之泪（Nightmare tears）
+- Graithzog Ebonrunes
+}}
+
+{{书页尾
+|pfw=Lost Cities of Golarion
+|releases=PDF¦PZO9229E¦2011-01¦；Softcover¦PZO9229¦2011-01¦
+}}
+
+[[分类:书目]]

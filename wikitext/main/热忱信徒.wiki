@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=热忱信徒
+|english_name=Passionate Believer
+|type=地区
+|prerequisites=渤骊
+|description=你生活在宗教压迫深重的长都贫民窟时，信仰受到压抑，而你所受的迫害反倒激发了你的信念，让你的信心更加坚定。你对抗神术法术的豁免检定获得+1背景加值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Passionate%20Believer
+}}

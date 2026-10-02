@@ -1,0 +1,11 @@
+{{武器
+|name=储气罐
+|english_name=Air reservoir
+|category=火器
+|prof=异种
+|wcat=弹药
+|price=6 gp
+|weight=—
+|description=备用的压缩空气储气罐附带6发弹药，配合连发气枪使用。
+|source=格拉利昂的英雄
+}}

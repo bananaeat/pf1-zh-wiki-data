@@ -1,0 +1,15 @@
+{{魔法物品
+|name=消失寻路仪
+|english_name=Wayfinder, Vanishing
+|aon=MagicWondrousDisplay.aspx?FinalName=Wayfinder, Vanishing
+|cat=奇物
+|aura=微弱幻术系
+|cl=5
+|slot=无
+|price=8,000 gp
+|weight=1磅
+|description=消失寻路仪由镂饰金银的象牙制成。除了寻路仪的一般功能（包括创造[[光亮术]]的能力）之外，消失寻路仪的持有者还可以用一个[[标准动作]]按下一个隐藏的暗扣，在她保持专注期间变得[[隐形]]（如同法术[[隐形术]]），每天至多持续5分钟。这些时间不必连续，但每次启动都耗费1分钟的持续时间，即使使用者在这1分钟结束前因为攻击或其他方式变得可见也是如此。
+|req=[[制造奇物]]、[[隐形术]]、[[光亮术]]
+|cost=4,000 gp
+|source=探索者协会战地指南、冒险者指南
+}}

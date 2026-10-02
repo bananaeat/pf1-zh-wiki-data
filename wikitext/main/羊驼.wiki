@@ -1,0 +1,42 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条；「羊驼」这个名字取自民间汉化的动物伙伴页），未经人工校对。}}
+{{怪物
+|name=羊驼
+|english_name=Llama
+|cr=1/2
+|xp=200
+|alignment=绝对中立
+|size=中型
+|type=动物
+|init=+1
+|senses=昏暗视觉；察觉 +1
+|description=这种毛发蓬松的有蹄四足兽长着修长的脖颈和又大又歪的牙齿。
+|ac=11，接触 11，措手不及 10（+1 敏捷）
+|hp=6（1d8+2）
+|fort=+4
+|ref=+3
+|will=+1
+|speed=40尺
+|melee=啮咬 +1（1d6+1）
+|special_attacks=喷吐（+1 远程接触）
+|str=12
+|dex=13
+|con=15
+|int=2
+|wis=12
+|cha=9
+|bab=+0
+|cmb=+1
+|cmd=12（对抗摔绊 16）
+|feats=[[坚忍]]
+|skills=[[特技]] +5（跳跃时 +9）
+|racial_mods=跳跃时 +4 特技
+|environment=寒冷或温和的丘陵或山地
+|organization=单独，一对，或一群（3–15）
+|treasure=无
+|special_abilities={{怪物能力|喷吐|Ex|每小时一次，羊驼可以反刍胃中的内容物，将这些污秽之物吐向10尺内的单个目标。目标必须通过 DC 12 的强韧豁免，否则恶心1d4轮。豁免 DC 基于体质。}}
+|source=动物档案
+|lore=羊驼最鲜明的特征也许就是它们的长脖子。在争夺群体支配地位的争斗中，互相竞争的雄性会用脖子猛烈地相互顶撞，不过总的来说，这种群居动物出奇地温顺。
+}}
+
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Llama|2=Llama}}

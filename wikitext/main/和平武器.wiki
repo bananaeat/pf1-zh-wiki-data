@@ -1,0 +1,9 @@
+{{Trait
+|name=和平武器
+|english_name=Weapon of Peace
+|type=战斗
+|description=虽然你是训练有素的战士，擅长各类武器，你并不从杀人中感到欢欣。倒不是你怕见血，但打倒一个可能投降的敌人好过直接杀死对方。当使用近战武器造成瘀伤而[[非致命伤害]]时，你只遭到-2命中减值而非-4。
+|source_name=战斗背景
+|source=CoP
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

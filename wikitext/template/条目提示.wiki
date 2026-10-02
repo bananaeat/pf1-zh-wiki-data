@@ -1,0 +1,3 @@
+<includeonly>{{#invoke:条目提示|auto|{{{1|}}}}}</includeonly><noinclude>
+悬停卡的'''统一入口''' ——自动看目标页挂的是 {{tl|Spell}}／{{tl|Feat}}／{{tl|物品}} 派卡，散文链接不用在调用处写死类型。
+<pre>&lt;span class="huiji-tt" data-template="条目提示" data-params="魔法飞弹"&gt;…&lt;/span&gt;</pre>[[分类:模板]]</noinclude>

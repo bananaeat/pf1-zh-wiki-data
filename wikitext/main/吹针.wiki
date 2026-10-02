@@ -1,0 +1,10 @@
+{{武器
+|name=吹针
+|english_name=Blowgun darts (10)
+|category=弹药
+|wcat=弹药
+|price=5 sp
+|weight=—
+|description=吹箭使用的飞镖又细又轻，通常由硬木制成，尾部带有用绒羽或毛皮做成的稳定尾羽。飞镖通常在发射前不久从后端装入吹箭。
+|source=探索者编年史：战役设定、核心规则书、极限宝具
+}}

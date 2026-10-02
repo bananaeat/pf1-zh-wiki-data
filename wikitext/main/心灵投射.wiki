@@ -1,0 +1,10 @@
+<noinclude>{{先知导航}}
+'''心灵投射'''（Project Psyche, Su）是[[先知]]的[[秘示域|启示]]，属于[[通灵秘示域]]。
+
+</noinclude>{{Source|异能奥秘|Occult Mysteries|inline}}
+
+你可以将你的心灵投射至另一个容器中。每天一次，你可以像施展[[魔魂壶]]一样掌控另一个生物，但不需要准备容器。你必须邻近目标生物，对方可以进行意志豁免对抗此效果。你必须等到11级才能选择此启示。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_534.html 原文]）。全部秘示域见 [[:分类:秘示域|分类:秘示域]]。
+
+[[分类:秘示域]]</noinclude>

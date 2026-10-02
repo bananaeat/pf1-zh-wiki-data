@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[即时备战]] 的神话版本。</small></div>
+{{Feat
+|name=即时备战
+|english_name=Quick Draw
+|categories=神话
+|description=你能够快速取出任何物品，而不仅仅是武器。
+|prerequisites=[[即时备战]]
+|benefit=你能够使用[[即时备战]]专长取出任意种类的物品，而不仅仅是武器，不过这需要在这些物品收纳或隐藏在你的身上。以[[移动动作]]，你能够花费1次神话之力，以此来取出至多两件隐藏的物品。你必须双手都空着才能这么做。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

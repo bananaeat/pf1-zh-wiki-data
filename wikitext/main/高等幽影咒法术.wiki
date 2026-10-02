@@ -1,0 +1,16 @@
+{{Spell
+|name=高等幽影咒法术
+|english_name=Shadow Conjuration, Greater
+|school=幻术系 (幽影幻觉)
+|tags=阴影
+|levels=奥能师 7;术士 7;法师 7
+|action=标准动作
+|components=语言;姿势
+|range=见后文
+|effect=见后文
+|duration=见后文
+|save=意志，通过则不相信（若有互动）; 可变; 见后文
+|sr=是; 见后文
+|description=该法术的功能与[[幽影咒法术]]一样，你可模拟[[术士]]或法师的咒法系 (创造) 或咒法系 (召唤) 法术，法术环位不超过6环。此法术模拟出的幻影咒法对不相信的生物仅造成3/5 (60%) 的伤害，非伤害性效果有60%的可能对他们起作用。
+|source=核心规则书
+}}

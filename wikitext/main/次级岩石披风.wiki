@@ -1,0 +1,15 @@
+{{魔法物品
+|name=次级岩石披风
+|english_name=Stone Cloak (Minor)
+|aon=MagicWondrousDisplay.aspx?FinalName=Stone Cloak (Minor)
+|cat=奇物
+|aura=微弱防护系
+|cl=5
+|slot=肩部
+|price=10,000 gp
+|weight=1磅
+|description=这件斑驳的灰色披风看起来像花岗岩或某种浅灰色的石头。佩戴者可以用一个[[移动动作]]把次级岩石披风裹紧自己并僵立不动，使披风像它所仿效的石头一样硬化。这样做时，佩戴者除[[自由动作]]外不能采取任何行动，并且失去敏捷加值对AC的加成，但获得DR 5/精金。在这种状态的保护下，她还在[[隐匿]]检定上获得+5环境加值。这个效果可以用一个自由动作解除。
+|req=[[制造奇物]]、[[塑石术]]
+|cost=5,000 gp
+|source=极限宝具
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=雷牙之主
+|english_name=Thunder and Fang Performer
+|type=战斗
+|description=你从休盎提人那里学过如何利用碎地锤这样的巨型武器，在重击敌人时造成戏剧性的效果。当你持用双手近战武器时，你在威吓检定上获得+2背景加值。
+休盎提战士 Shoanti Champions:居住在西阿维斯坦的休盎提部落(被称为“夸”)擅长同时使用沉重恐怖的碎地锤与轻便但同样致命的柯拉尔，这种双武[[战技]]被称为暴雷与钢牙。除此之外，每一个不同的夸也有他们个别所知名的战斗方式。
+|source_name=战斗背景
+|source=WMH
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=内在强韧
+|english_name=Internal Fortitude
+|type=Ex
+|categories=防御
+|prerequisites=[[野蛮人]]8级
+|benefit=当身处狂暴时，野蛮人免疫[[恶心]]与[[反胃]]效果。
+|source_name=核心规则书
+}}

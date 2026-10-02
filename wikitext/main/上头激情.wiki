@@ -1,0 +1,9 @@
+{{Trait
+|name=上头激情
+|english_name=Passionate Inertia
+|type=社会
+|description=你的思考完完全全，不加抵抗地交由激情操使，即使是魔法也难以让你改变主意。你在对抗改变你对某事物的认知的意志检定上获得+2背景加值。但你在对抗可能正常情况下有所向往的胁迫或者诱惑效果的意志检定上受到-1罚值。
+|source_name=秽邪勇士
+|source=社会
+|source_url=https://pf1chm.pages.dev/topics/zh2cdfe76676.htm
+}}

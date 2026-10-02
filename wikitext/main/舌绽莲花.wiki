@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[舌绽莲花 (神话)]]。</small></div>
+{{Feat
+|name=舌绽莲花
+|english_name=Rhetorical Flourish
+|description=你快速地转移话题，以华丽繁复的修辞掩盖自己的真意。
+|prerequisites=[[魅力]] 13，说服者。
+|benefit=当使用交涉技能提出要求或改变生物态度时，你可以使用言语误导。如此做需要对该生物进行一次[[唬骗]]，若你成功则可在1分钟内对他的下次交涉检定获得+4加值。若你失败5点以上，你的下次交涉检定反而将遭受-2减值。此外，你还能利用此专长对一次失败的交涉检定展开重试。以这种方式使用“舌绽莲花”专长将在唬骗检定中承受-4减值。若你唬骗成功，你并不会如常获得交涉加值，而是能够重试1分钟内最后一次对该生物的交涉检定。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Darklands pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=脱逃俘虏
+|english_name=Escaped Captive
+|type=社会
+|description=无论你当初是要沦为[[卓尔]]的奴隶，还是注定被送进食尸鬼的人畜圈，你都千钧一发地逃过了悲惨的囚徒生涯。你习惯避开束缚和狭窄的空间，在[[脱逃]]检定上获得+1背景加值，并在避免被[[压制]]时的战技防御（CMD）上获得+2背景加值。
+|source_name=幽暗地域英雄
+|source=HotD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Escaped%20Captive
+}}

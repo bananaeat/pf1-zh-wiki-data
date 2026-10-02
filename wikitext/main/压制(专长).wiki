@@ -1,0 +1,11 @@
+{{Feat
+|name=压制
+|english_name=Overwhelm
+|categories=战斗;团队
+|description=你可以用绝对的数量压倒体型大过你的敌人。
+|benefit=当你和你的盟友都拥有此专长并威胁着同一个敌人，且此生物的体型比你和该盟友中体型较大者还要大至少两个体型类别时，无论你的位置在哪，你都被视为对此敌人有[[夹击]]效果。
+|normal=你必须和你的盟友分处敌人的两边才能获得夹击效果。
+|source=DsH
+|source_name=屠龙者手册
+|source_url=https://pf1chm.pages.dev/topics/page_820.html
+}}

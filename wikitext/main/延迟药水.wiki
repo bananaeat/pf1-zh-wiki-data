@@ -1,0 +1,11 @@
+{{Feat
+|name=延迟药水
+|english_name=Delayed Potion
+|pfs=否
+|description=你可以制造出稍微延迟一些生效的药剂
+|prerequisites=制造药水，施法者等级5级
+|benefit=当你制造一份药水时，你可以让药水的效果在被一名生物服用后延迟最多10轮生效。一旦你决定了这个药水会延时多少轮生效，该决定就无法更改。当一份延迟药水被喝下，它会在选定的轮数内不生效，但是之后就会对喝下的人如常生效。药水延迟生效的轮数不计入药水效果的持续时间内。制造进药水的法术不会因此需要占用比法术本身更高环级的法术位。
+|source=P&P
+|source_name=药剂与毒药
+|source_url=https://pf1chm.pages.dev/topics/page_1263.html
+}}

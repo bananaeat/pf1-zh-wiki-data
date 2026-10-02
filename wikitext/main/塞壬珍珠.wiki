@@ -1,0 +1,16 @@
+{{魔法物品
+|name=塞壬珍珠
+|english_name=Pearl of the Sirines
+|aon=MagicWondrousDisplay.aspx?FinalName=Pearl of the Sirines
+|cat=奇物
+|aura=中等防护系、变化系
+|cl=8
+|slot=无
+|price=15,300 gp
+|description=这颗珍珠单凭美貌就至少值1,000 gp。不过，只要持有者在尝试与珍珠能力有关的行动时，将它紧握在手中或贴在胸前，她就能理解并运用这件物品。
+
+珍珠让持有者能在水中呼吸，如同身处洁净的新鲜空气中。她的游泳速度为60尺，并且在水下施法和行动都不受妨碍。
+|req=[[制造奇物]]、[[行动自如]]、[[水中呼吸]]
+|cost=8,150 gp
+|source=核心规则书、极限宝具
+}}

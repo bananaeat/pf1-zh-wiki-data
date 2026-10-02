@@ -1,0 +1,10 @@
+{{Feat
+|name=挫败夹击
+|english_name=Flanking Foil
+|categories=战斗
+|description=你能轻易的打破多个敌人合击你的意图。
+|benefit=每当你用近战攻击命中一个邻近的敌人，直到你下一次行动开始，即使该敌人[[夹击]]你，他也不会获得任何夹击加值，亦不能对你造成偷袭伤害。他仍然可以对他的其他盟友提供夹击机会。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

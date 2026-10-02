@@ -1,0 +1,13 @@
+{{Feat
+|name=精彩武技
+|english_name=Dramatic Display
+|categories=战斗;演武
+|pfs=否
+|description=你对武器的掌握技巧同时展现给对手和在场观众。
+|prerequisites=炫目技巧。
+|benefit=当你以[[迅捷动作]]进行演武检定时，技巧令人叹为观止。你的演武检定+2，并在下轮结束前的所有攻击和[[战技]]检定都获得+2加值。
+|stamina=使用该专长时花费5点耐力就还能获得2点躲避AC直至你下一轮。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

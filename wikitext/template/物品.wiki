@@ -1,0 +1,67 @@
+<includeonly>{{#invoke:版权抬头|main}}<div class="item">
+<div class="item-head">
+<div class="item-name">{{{name|{{PAGENAME}}}}}{{#if:{{{category|}}}|<span class="item-cats"><span class="tag">{{{category}}}</span>{{#if:{{{slot|}}}|<span class="tag">{{{slot}}}</span>}}</span>}}</div>
+{{#if:{{{english_name|}}}|<div class="item-en">{{#invoke:AoN链接|item|{{{english_name}}}|aon={{{aon|}}}}}</div>}}
+</div><!--
+--><div class="item-stats"><!--
+-->{{#if:{{{aura|}}}|<span class="item-stat"><span class="k">灵光</span>{{{aura}}}</span>}}<!--
+-->{{#if:{{{cl|}}}|<span class="item-stat"><span class="k">施法者等级</span>{{{cl}}}</span>}}<!--
+-->{{#if:{{{price|}}}|<span class="item-stat"><span class="k">价格</span>{{{price}}}</span>}}<!--
+-->{{#if:{{{ac|}}}|<span class="item-stat"><span class="k">护甲加值</span>{{{ac}}}</span>}}<!--
+-->{{#if:{{{maxdex|}}}|<span class="item-stat"><span class="k">最大敏捷</span>{{{maxdex}}}</span>}}<!--
+-->{{#if:{{{acp|}}}|<span class="item-stat"><span class="k">检定减值</span>{{{acp}}}</span>}}<!--
+-->{{#if:{{{asf|}}}|<span class="item-stat"><span class="k">奥术失败</span>{{{asf}}}</span>}}<!--
+-->{{#if:{{{speed|}}}|<span class="item-stat"><span class="k">速度</span>{{{speed}}}</span>}}<!--
+-->{{#if:{{{dmg|}}}|<span class="item-stat"><span class="k">伤害</span>{{{dmg}}}</span>}}<!--
+-->{{#if:{{{crit|}}}|<span class="item-stat"><span class="k">重击</span>{{{crit}}}</span>}}<!--
+-->{{#if:{{{range|}}}|<span class="item-stat"><span class="k">射程</span>{{{range}}}</span>}}<!--
+-->{{#if:{{{type|}}}|<span class="item-stat"><span class="k">类型</span>{{{type}}}</span>}}<!--
+-->{{#if:{{{weight|}}}|<span class="item-stat"><span class="k">重量</span>{{{weight}}}</span>}}<!--
+-->{{#if:{{{poison_type|}}}|<span class="item-stat"><span class="k">类型</span>{{{poison_type}}}</span>}}<!--
+-->{{#if:{{{save|}}}|<span class="item-stat"><span class="k">强韧DC</span>{{{save}}}</span>}}<!--
+-->{{#if:{{{onset|}}}|<span class="item-stat"><span class="k">生效</span>{{{onset}}}</span>}}<!--
+-->{{#if:{{{frequency|}}}|<span class="item-stat"><span class="k">频率</span>{{{frequency}}}</span>}}<!--
+-->{{#if:{{{effect|}}}|<span class="item-stat"><span class="k">效果</span>{{{effect}}}</span>}}<!--
+-->{{#if:{{{cure|}}}|<span class="item-stat"><span class="k">解毒</span>{{{cure}}}</span>}}<!--
+-->{{#if:{{{craft_dc|}}}|<span class="item-stat"><span class="k">工艺DC</span>{{{craft_dc}}}</span>}}<!--
+-->{{#if:{{{misfire|}}}|<span class="item-stat"><span class="k">哑火</span>{{{misfire}}}</span>}}<!--
+-->{{#if:{{{capacity|}}}|<span class="item-stat"><span class="k">容弹量</span>{{{capacity}}}</span>}}<!--
+-->{{#if:{{{crew|}}}|<span class="item-stat"><span class="k">机师组</span>{{{crew}}}</span>}}<!--
+-->{{#if:{{{aim|}}}|<span class="item-stat"><span class="k">瞄准</span>{{{aim}}}</span>}}<!--
+-->{{#if:{{{load|}}}|<span class="item-stat"><span class="k">装填</span>{{{load}}}</span>}}<!--
+-->{{#if:{{{special|}}}|<span class="item-stat wide"><span class="k">特性</span>{{{special}}}</span>}}<!--
+--></div><!--
+-->{{#if:{{{description|}}}|<div class="item-desc">
+{{#invoke:特殊材料|auto|{{{description}}}}}
+</div>}}<!--
+-->{{#if:{{{normal|}}}|<div class="item-block"><span class="k">正常物品</span>{{{normal}}}</div>}}<!--
+-->{{#if:{{{requirements|}}}|<div class="item-block"><span class="k">制造需求</span>{{{requirements}}}</div>}}<!--
+-->{{#if:{{{cost|}}}|<div class="item-block"><span class="k">制造成本</span>{{{cost}}}</div>}}<!--
+-->{{#if:{{{destruction|}}}|<div class="item-block"><span class="k">摧毁</span>{{{destruction}}}</div>}}<!--
+-->{{#if:{{{source_name|}}}|<div class="item-source"><span class="key">来源</span> <span class="value">{{#if:{{{source_url|}}}|[{{{source_url}}} {{{source_name}}}]|{{{source_name}}}}}{{#if:{{{source|}}}|（{{{source}}}）}}</span></div>}}
+</div>{{条目页脚|速查=物品速查|分类=物品|附加={{#if:{{{category|}}}|[[:分类:{{{category}}}|{{{category}}}]]}}}}[[分类:物品]]{{#if:{{{category|}}}|[[分类:{{{category}}}]]}}{{#ifeq:{{{category|}}}|奇物|{{#if:{{{slot|}}}|[[分类:{{{slot}}}奇物]]}}}}</includeonly><noinclude>
+物品卡片。魔法物品和普通装备共用，字段按有没有值决定显不显示。
+
+英文名就是 AoN 原文链接（[[模块:AoN链接]] 的 item：按英文名查 [[模块:AoN链接/物品/a]] 这一组对照表）。对不上的显示纯文字；可以写 <code>aon=</code> 一条 AoN 原始链接（<code>MagicWondrousDisplay.aspx?FinalName=…</code>）顶掉，写 <code>aon=无</code> 就不挂。
+
+ {{物品
+ |name=蟒蛇缠腰
+ |english_name=Anaconda's Coils
+ |category=奇物
+ |slot=腰部
+ |aura=中等变化系
+ |cl=8
+ |price=18,500 gp
+ |weight=1 磅
+ |description=这件蛇皮腰带的扣环就像一个眼镜蛇头。……
+ |requirements=制造奇物、野兽形态、牛之力量
+ |cost=9,250 gp
+ |source_name=极限宝具
+ }}
+
+普通武器/防具用 `dmg` `crit` `range` `type` `special` 或
+`ac` `maxdex` `acp` `asf` `speed` 这几组字段。
+
+样式在 [[MediaWiki:Common.css]] 的「物品卡片」一节。
+[[分类:模板]]
+</noinclude>

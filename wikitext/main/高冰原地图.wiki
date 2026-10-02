@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=高冰原地图
+|english_name=Map of the High Ice
+|aon=MagicWondrousDisplay.aspx?FinalName=Map of the High Ice
+|cat=奇物
+|aura=中等预言系
+|cl=11
+|slot=无
+|price=3,000 gp
+|weight=1磅
+|description=这张羊皮纸地图描绘了世界之冠，并标出了一条穿越高冰原的路线。研读这张地图，在为避免迷路和避开世界之冠高冰原地区的危险而进行的[[生存]]检定上获得+2表现加值；在高冰原上进行商队安保检定时，还获得+5加值（为抵御海拔、极寒或恶劣天气的影响而进行的检定除外）。
+|req=[[制造奇物]]、[[寻找捷径]]，制造者必须有5级[[生存]]技能等级
+|cost=1,500 gp
+|source=冒险之路51：饥饿风暴
+}}

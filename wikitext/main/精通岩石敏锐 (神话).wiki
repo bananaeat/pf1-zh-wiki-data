@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[精通岩石敏锐]] 的神话版本。</small></div>
+{{Feat
+|name=精通岩石敏锐
+|english_name=Improved Stonecunning
+|categories=神话
+|description=若你仔细倾听，就能了解到岩石诉说的秘密。
+|prerequisites=[[精通岩石敏锐]]
+|benefit=你获得每日1次的[[石言术]]类法术能力，施法者等级等同于你的阶层的两倍。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

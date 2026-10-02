@@ -1,0 +1,10 @@
+{{消歧义|听天由命(法术)}}
+{{Trait
+|name=听天由命
+|english_name=Resigned
+|type=宗教
+|prerequisites=信仰卓斯卡
+|description=只是活着就比永无休止的劳动毫无区别，只有劳动到疲惫不堪你才能成为大师。你在重试一次之前失败了的技能检定或属性检定时，以及在技能检定或属性检定中取20时，获得+1的背景加值。
+|source_name=格拉里昂的矮人
+|source_url=https://pf1chm.pages.dev/topics/page_1586.html
+}}

@@ -1,0 +1,39 @@
+<noinclude>{{先知导航}}
+'''元素秘示域'''（Elemental）是[[先知]]可选的[[秘示域]]。
+
+</noinclude>{{Source|元素大师手册|Elemental Master's Handbook|inline}}
+
+元素先知从元素间的平衡与混合中汲取力量。
+
+神祇：元素领主，[[哥兹莱]]，[[内希斯]]，[[山积]]
+
+[[本职技能]]：选择了元素秘示域的先知将特技、攀爬、隐匿和游泳加入她的本职技能列表。
+
+奖励法术：[[忍受环境]]（2级），[[抵抗能量伤害]]（4级），[[元素光环]]APG（6级），[[元素形态 I]]（8级），[[元素形态 II]]（10级），[[元素形态 III]]（12级），[[元素形态 IV]]（14级），[[创造半位面]]（16级），[[元素集群]]（18级）
+
+== 启示 ==
+
+选择了元素秘示域的先知可以选择下列启示：
+
+* [[流转水舞]]（Dance of Whirling Water, Ex）
+* [[沙漠幻影]]（Desert Mirage, Su）
+* [[元素庇护]]（Elemental Aegis, Su）
+* [[元素盟友]]（Elemental Allies, Su）
+* [[元素导能(秘示域)|元素导能]]（Elemental Channeling, Su）
+* [[元素抗力(秘示域)|元素抗力]]（Elemental Resistance, Ex）
+* [[流动步伐]]（Flowing Step, Ex或Su）
+* [[重铸武器]]（Reforged Arms, Su）
+* [[混浊之土]]（Roiling Soil, Su）
+* [[横扫冲击]]（Sweeping Impact, Ex）
+
+== 最终启示 (Final Revelation) ==
+
+在你20级时，你的身体会经历对原初元素的转变，而你则会变成通往元素位面的活体通道。你的外表不会改变，但是你可以让身体产生一些装饰性的元素特征（例如闷燃的头发或卵石般的皮肤）。你免疫重击和精准伤害（例如偷袭）。你不再需要呼吸，进食和睡眠。
+
+== 元素失衡 ==
+
+这本书还给先知配了一条对应的诅咒 [[先知诅咒#元素失衡 (Elemental Imbalance)|元素失衡]]。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1118.html 原文]）。全部秘示域见 [[:分类:秘示域|分类:秘示域]]。
+
+[[分类:秘示域]]</noinclude>

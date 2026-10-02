@@ -1,0 +1,20 @@
+{{武器
+|name=雷筒
+|english_name=Blunderbuss
+|category=火器
+|prof=异种
+|wcat=双手
+|price=2,000 gp
+|weight=8磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×2
+|range=特殊
+|type=钝击和穿刺
+|special=霰弹
+|misfire=1-2（10尺）
+|capacity=1
+|groups=火器
+|description=这种武器可以从喇叭状的枪口发射霰弹或弹头，这使其成为一把猎捕野禽时很方便的武器，或者是在近距离战斗中很有效的个人防身武器。雷筒发射霰弹的范围是15尺锥形，而发射一般弹头时则有着10尺的射程增量。雷筒的弹药为1颗弹头或一包霰弹、外加1份黑火药，或1发炼金定装弹（弹头或霰弹）。这是一件早期火器。
+|source=极限战斗、极限宝具
+}}

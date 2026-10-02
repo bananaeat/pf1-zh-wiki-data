@@ -1,0 +1,11 @@
+{{Feat
+|name=痛苦撞击
+|english_name=Painful Collision
+|categories=战斗
+|description=你让敌人撞在一起，十分痛苦。
+|prerequisites=力量13，[[精通冲撞]]，[[猛力攻击]]
+|benefit=当你把一个敌人[[冲撞]]到另一个生物身上时，两个生物都会受到1d6点钝击伤害，加上你的主要目标因为冲撞结果每移动5尺1d6伤害。比如，如果你把一个[[地精]]撞出10尺然后撞到了另一个地精，则两个生物都会受到3d6点钝击伤害。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/zh0ff052e72d.htm
+|source=MAH
+}}

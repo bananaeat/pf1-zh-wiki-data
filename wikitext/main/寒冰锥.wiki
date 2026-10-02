@@ -1,0 +1,18 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[寒冰锥 (神话)]]。</small></div>
+{{Spell
+|name=寒冰锥
+|english_name=Cone of Cold
+|school=塑能系
+|tags=寒冷
+|levels=奥能师 5;术士 5;法师 5;秘学士 5;魔战士 5;女巫 6;萨满 6
+|domains=水领域 6
+|action=标准动作
+|components=语言;姿势;材料（小块锥形水晶或玻璃）
+|range=60尺
+|area=锥形爆发区域
+|duration=立即
+|save=反射，通过则减半
+|sr=是
+|description=寒冰锥制造出一片极度严寒的区域，它从你的掌心中产生并延伸出一片锥形区域。它会耗干热量，造成每CL 1d6点寒冷伤害 (最高15d6)。
+|source=核心规则书
+}}

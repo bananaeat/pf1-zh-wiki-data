@@ -1,0 +1,10 @@
+{{Feat
+|name=达哈克之猎使
+|english_name=Hunter of Dahak
+|description=你是追猎善良金属龙的恶毒猎手
+|prerequisites=[[宿敌]]（龙类），信仰达哈克
+|benefit=你在对抗金属龙时，额外获得2点宿敌加值。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

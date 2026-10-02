@@ -1,0 +1,39 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Cheliax, Empire of Devils
+|authors=Jonathan H. Keith、Colin McComb、Steven Schend、Christine Schneider、Amber E. Scott
+|pages=32
+}}
+
+{{书页/简介|head=与地狱结盟|1=
+七十年前，三重受诅的特鲁恩家族（House Thrune）在人类之神陨落后的血腥内战中击败了对手，为饱经战乱的切利亚斯带来了秩序——但代价高昂。如今，帝国官僚机构强令魔鬼崇拜为国教，平民百姓向地狱的黑暗之主屈首，永世为奴。所幸切利亚斯仍有英雄：那些被荣耀、荣誉、对王位的贪欲，或是对故国在[[阿斯莫迪斯]]魔爪之下沦落至此的憎恨所驱使的十字军战士与革命者。
+
+这本玩家伴侣描述了切利亚斯这个国家、它邪恶的首都艾格利安（Egorian），以及它被阴影萦绕的前首都西冠（Westcrown）。书中还有新的背景特性、魔法物品、法术、战斗专长，以及适合作为追随者或联络人的切利亚斯 NPC。本书非常适合用于以西冠城为背景的[[冒险之路]]「盗贼议会」系列，或任何发生在魔鬼与堕落之国的冒险。
+}}
+
+'''切里亚斯，魔鬼王朝'''（''Cheliax, Empire of Devils''）是 Jonathan H. Keith、Colin McComb、Steven E. Schend、Leandra Christine Schneider 和 Amber E. Scott 撰写的玩家伴侣（Pathfinder Companion）资料书，于 2009 年 8 月发售。
+
+== 目录 ==
+{{书页/目录|1=
+切利亚斯 @ 2
+艾格利安，荆棘之城 @ 14
+西冠，暮光之城 @ 22
+社交：冒险与背景特性 @ 18
+魔法：炫目风格，致命实质 @ 20
+宗教：宽容的牢笼 @ 24
+战斗：如魔鬼般战斗 @ 26
+人物：盟友、追随者与联络人 @ 28
+- 巴策尔·胡恩（Batsel Hoon）
+- 杰梅特·温德伯尔（Jemet Winderbole）
+- 尼克洛德·星候（Nicklod Starweather）与梅扎廷（Mezatine）
+- 蓬蒂娅·鲁纳里奥（Pontia Runario）
+预览 @ 32
+}}
+
+{{书页尾
+|pfw=Cheliax, Empire of Devils
+|releases=PDF¦PZO9407E¦2009-08¦；Softcover¦PZO9407¦2009-08¦
+}}
+
+[[分类:书目]]

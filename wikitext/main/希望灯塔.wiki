@@ -1,0 +1,10 @@
+{{Feat
+|name=希望灯塔
+|english_name=Beacon of Hope
+|description=你以强大的希望激励着所有浴血奋战的盟友们
+|prerequisites=引导能量3d6，信仰密拉妮
+|benefit=每当你引导正能量治疗活物时，你所治疗的目标就会在豁免投骰，攻击检定，属性检定和技能检定上获得+2士气加值，效果持续等同于你的魅力调整值轮（最小1轮）。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

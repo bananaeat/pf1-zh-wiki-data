@@ -1,0 +1,9 @@
+{{装备
+|name=拷贝钥匙
+|english_name=Copy of a key
+|cat=冒险装备
+|price=1 gp
+|weight=—
+|description=工匠可以在一小时内复制出一把能用的钥匙（制作一个与原件外观完全一致的复制品，则需要一名熟练的铁匠、一天时间和一次DC 25 的工艺检定）。
+|source=冒险者的军械库、极限宝具
+}}

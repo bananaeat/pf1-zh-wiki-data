@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[神恩]] 的神话版本。</small></div>
+{{Spell
+|name=神恩
+|english_name=Divine Favor
+|school=塑能系
+|levels=先知 1;圣武士 1;审判者 1;战斗祭司 1;牧师 1
+|description=你的豁免检定与技能检定也能获得幸运加值。或者你可以选择将该法术施放至其他自愿的生物身上，将法术的范围变为‘接触’，目标变为‘接触到的活物’。
+|source=神话冒险
+}}
+[[分类:神话法术]]

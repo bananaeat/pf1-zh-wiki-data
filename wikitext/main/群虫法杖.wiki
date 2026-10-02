@@ -1,0 +1,18 @@
+{{魔法物品
+|name=群虫法杖
+|english_name=Staff of Swarming Insects
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Swarming Insects
+|cat=法杖
+|aura=中等咒法系
+|cl=9
+|slot=无
+|price=22,800 gp
+|weight=5磅
+|description=这根[[黑木]]法杖扭曲盘绕，杖身布满瘤节和疙瘩，形似爬行的昆虫（偶尔看起来还会动）。它可以使用以下法术：
+
+* [[飞虫走兽]]（1 发）
+* [[疫病虫群]]（3 发）
+|req=[[制造法杖]]、[[疫病虫群]]、[[飞虫走兽]]
+|cost=11,400 gp
+|source=核心规则书、极限宝具
+}}

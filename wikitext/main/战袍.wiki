@@ -1,0 +1,9 @@
+{{装备
+|name=战袍
+|english_name=Tabard
+|cat=衣物
+|price=5 gp
+|weight=1磅
+|description=战袍通常穿在护甲外面，这种外套一般无袖，两侧开口。宽大的前襟可以绘上徽记和纹章，使穿戴者所属的组织一目了然。
+|source=极限宝具
+}}

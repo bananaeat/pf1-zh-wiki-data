@@ -1,0 +1,15 @@
+{{Feat
+|name=身体制御
+|english_name=Body Control
+|categories=冥想
+|description=你可以立即调整你的自主神经功能
+|prerequisites=感知11，[[冥想大师]]
+|benefit=在你冥想后的24小时内，你在对抗毒素，疾病，饥饿和其他会令你[[疲乏]]或[[力竭]]的效果时强韧豁免获得+1加值。你只需要一半的食物就可以避免饥饿，一半的水分就可以避免脱水以及一半的睡眠时间来恢复伤害，避免疲乏或力竭以及重新准备法术。
+|source=F&P
+|source_name=信仰与哲学
+|source_url=https://pf1chm.pages.dev/topics/page_673.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[身体掌握]]、[[随风而变]]（2 个条目）

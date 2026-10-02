@@ -1,0 +1,16 @@
+{{Feat
+|name=锻造戒指
+|english_name=Forge Ring
+|categories=造物
+|pfs=否
+|description=你可以制造带有各式魔法效果的[[魔法物品#戒指|戒指]]。
+|prerequisites=施法者等级7级。
+|benefit=你可以制造魔法戒指。锻造一枚戒指需花费每1000gp基本价格1天的时间。要锻造一枚戒指，你需要花费其基本价格一半的原材料。更多信息请参见魔法物品规则。只要你有能力制造同样的东西，便可以修复损坏的魔法戒指。你必须支付相当于制造时一半的耗材和时间。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''制造需求'''：被 43 件物品点名，名单见 [[特殊:链入页面/{{PAGENAME}}|链入页面]]。

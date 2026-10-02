@@ -1,0 +1,9 @@
+{{Feat
+|name=霉咒增远
+|english_name=Distant Jinx
+|prerequisites=半身人霉咒
+|benefit=你半身人霉咒特性的射程增加30尺。
+|special=你可以多次选择本专长，效果累计。
+|source_name=格拉利昂的半身人
+|source_url=https://pf1chm.pages.dev/topics/page_572.html
+}}

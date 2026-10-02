@@ -1,0 +1,13 @@
+{{Feat
+|name=力竭重击
+|english_name=Exhausting Critical
+|categories=战斗;重击
+|description=你的重击令命中的敌人陷入[[力竭]]。
+|prerequisites=[[重击专攻]]，[[疲乏重击]]，基本攻击加值+15。
+|benefit=每当你对一个敌人成功造成重击时，该生物立即陷入力竭状态。本专长对已经力竭的生物无效。
+|special=在没有掌握[[重击熟稔]]专长前，每次重击时你只能选择一种[[重击专长]]效果。
+|stamina=重击威胁时你可选择花费最多不超过5点耐力，每点耐力提升重击确认骰2点。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

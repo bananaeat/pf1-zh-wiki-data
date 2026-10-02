@@ -1,0 +1,44 @@
+{{速查导航}}
+{{怪物
+|name=帝王蟹
+|english_name=King Crab
+|cr=1/4
+|xp=100
+|alignment=绝对中立
+|size=超小型
+|type=虫类
+|subtypes=水栖
+|init=+2
+|senses=黑暗视觉 60 尺；察觉 +4
+|ac=18，接触 14，措手不及 16（+2 敏捷，+4 天生，+2 体型）
+|hp=5（1d8+1）
+|fort=+3
+|ref=+2
+|will=+0
+|immune=影响心灵效果
+|speed=30 尺，游泳 20 尺
+|melee=2 爪抓 +0（1d2–2 外加攫抓）
+|space=2–1/2 尺
+|reach=0 尺
+|special_attacks=紧勒（1d2–2）
+|str=7
+|dex=15
+|con=12
+|int=—
+|wis=10
+|cha=2
+|bab=+0
+|cmb=+0（+4 擒抱）
+|cmd=8（20 对抗摔绊）
+|skills=[[察觉]] +4;[[游泳]] +10
+|racial_mods=+4 察觉
+|sq=依赖水源
+|environment=任意水域
+|organization=单独或一群（2–12）
+|treasure=无
+|special_abilities={{怪物能力|依赖水源|Ex|帝王蟹每具有 1 点体质，便能够在水体外生存 1 个小时。超出此时限后，帝王蟹便会有窒息的危险，就如同溺水一般。}}
+|source=极限魔法
+|lore=
+帝王蟹是小型甲壳类动物，它具有八条腿和两个钳子。尽管身为水生动物，帝王蟹也能够在陆地上生存一段时间，不过必须及时返回水中，否则会因窒息而亡。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=King Crab|2=King Crab}}

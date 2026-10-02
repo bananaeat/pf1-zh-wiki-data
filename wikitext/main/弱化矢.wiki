@@ -1,0 +1,16 @@
+{{魔法物品
+|name=弱化矢
+|english_name=Vulnerability Bolt
+|cat=特殊魔法武器
+|base=[[弩矢]]
+|enh=+1
+|aura=微弱死灵系
+|cl=5
+|slot=无
+|price=496 gp
+|weight=1/10磅
+|description=如果在这支病态黄色的+1弩矢上涂以毒药，则该毒药在持续期间内造成的任何生命值伤害、[[属性伤害]]或[[属性吸取]]，每过一轮便增加1点。
+|req=[[制造魔法武器和防具]]、[[致命药引]]
+|cost=251 gp
+|source=远程战术工具箱
+}}

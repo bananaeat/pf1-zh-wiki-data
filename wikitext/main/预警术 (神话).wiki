@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[预警术]] 的神话版本。</small></div>
+{{Spell
+|name=预警术
+|english_name=Foresight
+|school=预言系
+|levels=奥能师 9;女巫 9;异能者 9;德鲁伊 9;术士 9;法师 9;萨满 9
+|description=法术的洞察加值增加至+3点。若你对其他生物施放该法术，那么你与目标会同时被法术警告，而且目标会获得法术的洞察加值。
+|source=神话冒险
+}}
+[[分类:神话法术]]

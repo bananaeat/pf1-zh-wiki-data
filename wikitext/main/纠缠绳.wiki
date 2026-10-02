@@ -1,0 +1,17 @@
+{{魔法物品
+|name=纠缠绳
+|english_name=Rope of Entanglement
+|aon=MagicWondrousDisplay.aspx?FinalName=Rope of Entanglement
+|cat=奇物
+|aura=强烈变化系
+|cl=12
+|slot=无
+|price=21,000 gp
+|weight=5磅
+|description=纠缠绳看上去和任何其他约30尺长的[[麻绳]]没什么两样。听从命令，绳子会猛地向前抽出20尺或向上抽出10尺，[[纠缠]]一名受害者。被纠缠的生物可以通过DC 20的力量检定或DC 20的[[脱逃]]检定挣脱。
+
+纠缠绳的AC为22，生命值12，硬度10，伤害减免5/挥砍。绳子每5分钟自行修复1点伤害；但如果纠缠绳被切断（12点生命值全部因伤害损失），它就会被摧毁。
+|req=[[制造奇物]]、[[活化物体]]、[[活化绳]]或[[纠缠术]]
+|cost=10,500 gp
+|source=核心规则书、极限宝具
+}}

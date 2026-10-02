@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Darklands pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=隐耻守秘人
+|english_name=Keeper of the Secret Shame
+|type=种族
+|prerequisites=精灵
+|description=你是掌灯人的一员或寒冬议会的密探，肩负着确保[[精灵]]的隐秘耻辱——[[卓尔]]——的相关知识永远不会传到地表的任务。你关于卓尔及卓尔聚落的[[知识]]检定获得+2背景加值。
+|source_name=幽暗地域英雄
+|source=HotD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Keeper%20of%20the%20Secret%20Shame
+}}

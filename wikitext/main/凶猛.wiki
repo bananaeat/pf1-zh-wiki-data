@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''凶猛'''（Ferocity）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：防御能力</span></div>
+</noinclude><includeonly><div class="lang"><span id="凶猛"></span><div class="lang-h"><b>[[凶猛]]</b><i>Ferocity</i><span class="lang-w">Ex · 防御能力</span></div><div class="lang-d"></includeonly>
+拥有凶猛能力的生物即使在 HP 达到 0 以下，也可以保持清醒并且继续战斗。该生物还是会在 HP 低于 0 时进入[[恍惚]]状态，并且每轮失去 1 点 HP。拥有凶猛能力的生物在 HP 降到其体质属性值的负数时还是会死亡。
+
+'''格式'''：凶猛
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Ferocity|2=Ferocity}}
+
+[[分类:通用怪物规则]]</noinclude>

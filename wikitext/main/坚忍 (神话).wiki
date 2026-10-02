@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[坚忍]] 的神话版本。</small></div>
+{{Feat
+|name=坚忍
+|english_name=Endurance
+|categories=神话
+|description=你的忍耐力真正地超越了界限。
+|prerequisites=[[坚忍]]
+|benefit=坚忍专长带来的检定与豁免加值增加，数额等同于你的阶层的一半。当你进行检定以避免强行军、饥饿和口渴、冷热环境或者[[环境规则#窒息|缓慢窒息]]造成的[[非致命伤害]]时，若检定失败，则只会受到一半伤害。你能够穿着重甲睡觉而不[[疲乏]]。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

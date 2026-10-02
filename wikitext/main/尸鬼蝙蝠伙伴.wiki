@@ -1,0 +1,10 @@
+{{Feat
+|name=尸鬼蝙蝠伙伴
+|english_name=Skaveling Companion
+|pfs=否
+|description=这只来自于亵渎邪魔仪式的骇人不死坐骑与你形成紧密羁绊。
+|prerequisites=在一个给予动物伙伴或坐骑职业能力的职业达到7级，透肌魔人
+|benefit=取代通过职业能力获得的[[动物伙伴]]或坐骑，你与一只尸鬼蝙蝠形成紧密羁绊。不过这只尸鬼蝙蝠比同类智力较低，且失去了以啮咬[[麻痹]]并传染疾病的能力，但它仍会对你忠心不二。
+|source_name=内海怪物志
+|source_url=https://pf1chm.pages.dev/topics/zhb83e0d90c4.htm
+}}

@@ -1,0 +1,9 @@
+{{Feat
+|name=净化之眼
+|english_name=Eyes of the Purge
+|description=通过斯坦维恩一世大清洗的鼓舞，你依靠训练和坚持学会了探寻神术灵光的源头。
+|prerequisites=可以用法术或类法术施展侦测魔法
+|benefit=当你使用侦测魔法来确定法术强度和位置时，如果这个法术的施法者使用圣徽施法，你可以在灵光上模糊的看到其神祗的圣徽标记。阻止预言系法术起效的法术或效果也会阻止此专长的效果。
+|source_name=冒险之路132：六传奇之魂
+|source_url=https://pf1chm.pages.dev/topics/132_The_Six-Legend_Soul.htm
+}}

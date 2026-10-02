@@ -1,0 +1,10 @@
+{{Trait
+|name=精类调和者
+|english_name=Fey Mediator
+|type=地区
+|description=你获得森精语作为奖励语言。除此之外，从[[唬骗]]，交涉，或者知识（自然）中选择一个技能作为你的[[本职技能]]。
+|regions=格朗基尔森林
+|source=LotFW
+|source_name=第一世界的遗产
+|source_url=https://pf1chm.pages.dev/topics/page_1070.html
+}}

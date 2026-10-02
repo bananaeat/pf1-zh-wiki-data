@@ -1,0 +1,9 @@
+{{Trait
+|name=天界追踪
+|english_name=Celestial Tracker
+|type=种族
+|prerequisites=[[神裔]]（天使裔）
+|description=你和你的天界祖先一样擅长追踪邪恶。你用于追踪的生存技能检定获得+1背景加值。此外，你在进行追踪时，视为痕迹的清晰度比实际时间要少24小时。
+|source_name=天界血脉
+|source_url=https://pf1chm.pages.dev/topics/page_828.html
+}}

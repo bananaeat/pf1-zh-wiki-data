@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=女士的慈悲
+|english_name=Lady's Mercy
+|aon=MagicWondrousDisplay.aspx?FinalName=Lady's Mercy
+|cat=奇物
+|aura=微弱咒法系
+|cl=1
+|slot=无
+|price=150 gp
+|description=这枚硬币大小的黑色圆盘，一面刻着螺旋，另一面刻着一只三声夜鹰。当圆盘的持有者在稳定伤势的体质检定中成功时，圆盘会治疗其持有者，无论她此前的生命值是多少，都将她恢复到1点生命值。随后圆盘化为尘土。如果一名角色拥有多枚女士的慈悲，一次只有一枚圆盘触发。
+|req=[[制造奇物]]、[[治疗轻伤]]
+|cost=75 gp
+|source=冒险之路139：死者之路
+}}

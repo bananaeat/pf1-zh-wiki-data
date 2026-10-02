@@ -1,0 +1,15 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[驱散死灵 (神话)]]。</small></div>
+{{Feat
+|name=驱散死灵
+|english_name=Turn Undead
+|description=你释放出神圣能量，令不死生物逃窜。
+|prerequisites=【引导正能量】职业特性。
+|benefit=你可以用一个[[标准动作]]，消耗你引导正能量的1次可用次数，令30尺内的所有不死生物逃离你，视同陷入恐慌状态。不死生物需要通过意志检定来避免此效果，DC等于“10+1/2牧师等级+魅力修正”。豁免失败的不死生物会逃窜1分钟。有智力的不死生物可以每轮进行新的检定以结束此效果。若你以此方式使用[[引导能量]]，则其不会产生其他的效果（不会治疗或伤害附近的生物）。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[炽热导能]]（1 个条目）

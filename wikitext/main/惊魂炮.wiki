@@ -1,0 +1,9 @@
+{{Trait
+|name=惊魂炮
+|english_name=Startling Report
+|type=战斗
+|description=也许是因为扣下扳机的时刻完美、或是射击的气势慑人，你的枪声触动了敌人脆弱的神经。当你用火器射击时，你在1轮内对听到该次射击的敌人使用威吓技能时检定获得+2背景加值。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

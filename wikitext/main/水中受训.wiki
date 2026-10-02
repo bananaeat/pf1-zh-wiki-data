@@ -1,0 +1,10 @@
+{{Trait
+|name=水中受训
+|english_name=Water-Trained
+|type=坐骑
+|prerequisites=[[马]]（终焉之墙碧玉马）
+|description=终焉之墙碧玉马(Lastwall jaspers)在游泳检定上获得+2背景加值(trait bonus),且游泳对它们来说是[[本职技能]]。
+|source_name=坐骑背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zh4fc8a2e018.htm
+}}

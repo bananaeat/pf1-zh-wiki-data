@@ -1,0 +1,10 @@
+{{Feat
+|name=荒野之声
+|english_name=Wild Speaker
+|description=漂白症强化了侏儒与自然世界沟通的能力。
+|prerequisites=漂白症种族特性，侏儒
+|benefit=你可以任意以类法术能力使用动物交谈。
+|source=LotFW
+|source_name=第一世界的遗产
+|source_url=https://pf1chm.pages.dev/topics/page_1072.html
+}}

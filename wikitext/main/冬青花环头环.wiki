@@ -1,0 +1,15 @@
+{{魔法物品
+|name=冬青花环头环
+|english_name=Hollywreath Band
+|aon=MagicWondrousDisplay.aspx?FinalName=Hollywreath Band
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=头饰
+|price=5,700 gp
+|weight=1磅
+|description=这条头饰用经魔法保鲜的[[冬青]]编成，深绿色的叶片与鲜红色的浆果永远泛着光泽。佩戴者每日可以创造一次[[神莓]]，如同该法术；并且她所产生的任何影响植物的效果，包括[[植物领域]]的[[神授力量]]，都以+1施法者等级生效，并且豁免DC获得+1加值。
+|req=[[制造奇物]]、[[神莓]]、[[植物滋长]]
+|cost=2,580 gp
+|source=极限宝具
+}}

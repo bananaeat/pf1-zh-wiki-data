@@ -1,0 +1,11 @@
+<noinclude>{{杀手导航}}
+{{消歧义|穿林步}}
+'''穿林步'''（Woodland Stride, Ex）是[[杀手]]的[[杀手天赋|杀手天赋]]。
+
+</noinclude>拥有此天赋的杀手能以正常速度通过任何矮树丛（例如自然的荆棘、石南、茂密的灌木丛，以及其他类似地形），并且不会受到伤害或者其他惩罚。但是，被魔法强化的、或使用魔法手段特意用来妨害行动的此类地形，还是会阻碍杀手的行动。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_118.html 原文]）。尝血者、支持队友译自[https://pf1chm.pages.dev/topics/page_581.html 斯科扎尼黑手一章]，永世仇敌、人生经验、直面恐怖、山坡伏击、神秘之纱、重唤技艺译自[https://pf1chm.pages.dev/topics/page_1338.html 传承武学一章]，集中毒药、偏转毒药译自[https://pf1chm.pages.dev/topics/page_1261.html 静谧毒杀者一章]，猫族盗贼天赋译自[https://pf1chm.pages.dev/topics/page_451.html 种族特性一章]；壁垒、额外残岩、坚固阵地、失衡技巧、阵营偷袭、切裂阵营、一人千面、通晓探知照站上同名盗贼天赋单页。均按 AoN 核对过。全部杀手天赋见 [[杀手天赋]]。
+
+[[分类:杀手天赋]]
+
+{{职业}}</noinclude>

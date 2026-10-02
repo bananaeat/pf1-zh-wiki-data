@@ -1,0 +1,14 @@
+{{Spell
+|name=灵界拳
+|english_name=Ethereal fists
+|school=变化系
+|levels=唤魂师 3;魔战士 4
+|action=标准动作
+|components=姿势
+|range=个人
+|target=自己
+|duration=1分钟/等级（可解消）
+|sr=否
+|description=你的手同时进入到灵界和主物质位面中，这使得你能够使用爪抓、[[徒手打击]]和接触法术或效果对灵界生物造成正常伤害。像[[闪现术]]这样由于灵化而造成的失手率不会生效，但由[[隐蔽]]产生的失手率仍然生效。
+|source=异能冒险
+}}

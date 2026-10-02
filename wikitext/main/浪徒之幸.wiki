@@ -1,0 +1,10 @@
+{{Feat
+|name=浪徒之幸
+|english_name=Wanderer's Fortune
+|description=来自极乐境的自由誓言让你能够从各式的制约中解放出来,让你可以随心所欲地行动,避免各种会让旅行者与探险者困扰的限制
+|prerequisites=知识(位面)3级
+|benefit=以一个迅捷动作,你可以获得行动自如法术的好处,持续到你的回合结束或你籍此逃脱了擒抱或法术限制为止,以较先发生者为准.你可以使用并获得本专长的好处每天一次,在知识(位面)上每有5级额外增加一次.
+|source=PA
+|source_name=位面冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1492.html
+}}

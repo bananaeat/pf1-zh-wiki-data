@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=恶霸透镜
+|english_name=Lenses of the Bully
+|aon=MagicWondrousDisplay.aspx?FinalName=Lenses of the Bully
+|cat=奇物
+|aura=微弱防护系
+|cl=3
+|slot=眼部
+|price=12,500 gp
+|description=这副深色的镜片常为地痞流氓所用，会让佩戴者显得凶神恶煞。佩戴者的[[威吓]]检定获得+2表现加值。有智力的生物难以看透佩戴者；佩戴者被视为持续受到[[隐匿阵营]]法术的影响，使她的真实意图难以察知。
+|req=[[制造奇物]]、[[隐匿阵营]]
+|cost=6,250 gp
+|source=反英雄手册
+}}

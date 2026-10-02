@@ -1,0 +1,17 @@
+{{武器
+|name=九尾鞭
+|english_name=Cat-o'-nine-tails
+|category=武器
+|prof=军用
+|wcat=轻型
+|price=1 gp
+|weight=1磅
+|dmg_s=1d3
+|dmg_m=1d4
+|crit=×2
+|type=挥砍
+|special=卸武，瘀伤
+|groups=链索
+|description=这条短鞭由九股打了结的皮绳制成，每股约3尺长。九尾鞭无法对护甲加值为+1或更高、或天生护甲加值为+3或更高的任何生物造成伤害。
+|source=Skull & Shackles Player's Guide、内海海盗、冒险者的军械库2
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=召唤共鸣戒指：幻蛇
+|english_name=Ring of Summoning Affinity (Protean)
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Summoning Affinity (Protean)
+|cat=戒指
+|aura=微弱咒法系［混乱］
+|cl=5
+|slot=戒指
+|price=7,200 gp
+|description=这枚[[魔法物品#戒指|戒指]]由一种乳光材料制成，它从不会两次呈现相同的颜色。若穿戴者能够施放[[召唤怪物]]法术，则可将虚空虫B2加入这些法术可召唤的3环怪物列表，将纳乌奈特B2加入6环列表，并将埃门特西B2加入9环列表。此外，每日1次，穿戴者可以通过命令使用这枚戒指召唤一只虚空虫，如同施放了[[召唤怪物 III]]。
+|req=[[锻造戒指]]、[[异界盟友]]或[[异界誓缚]]，制造者必须是混乱中立阵营
+|cost=3,600 gp
+|source=进阶职业指南
+}}

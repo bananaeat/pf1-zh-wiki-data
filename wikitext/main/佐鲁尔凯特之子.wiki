@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Fire Player's Guide pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=佐鲁尔凯特之子
+|english_name=Child of Zolurket
+|type=种族
+|prerequisites=矮人
+|description=你的家族祖先曾在塔尔·乌尔卡特卡附近的铂矿中劳作，那里如今被称为佐鲁尔凯特。你的父母从未解释过他们为何再也没有回到佐鲁尔凯特，但他们确保了你懂得如何与不死敌人作战。你对不死生物的武器伤害获得+1背景加值。
+|source_name=烈焰传承玩家手册
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Child%20of%20Zolurket
+}}

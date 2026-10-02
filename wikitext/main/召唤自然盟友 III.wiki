@@ -1,0 +1,17 @@
+{{Spell
+|name=召唤自然盟友 III
+|english_name=Summon Nature's Ally III
+|aon=Summon Nature's Ally 3
+|school=咒法系 (召唤)
+|tags=可变
+|levels=德鲁伊 3;游侠 3;猎人 3;萨满 3
+|action=1轮
+|components=语言;姿势;圣徽
+|range=近距
+|effect=一个被召唤的生物
+|duration=1轮/等级 (可解消)
+|save=无
+|sr=否
+|description=该法术的功能如同‘[[召唤自然盟友]]I’，不过你能够召唤一个3环生物、1d3个2环的同类生物、或者1d4+1个1环的同类生物。
+|source=核心规则书
+}}

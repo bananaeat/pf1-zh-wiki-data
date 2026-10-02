@@ -1,0 +1,11 @@
+{{Feat
+|name=透肌魔人破剑者
+|english_name=Urdefhan Bladebreaker
+|categories=战斗
+|pfs=否
+|description=你可以用双叉剑摧毁敌人的剑。
+|prerequisites=BAB+1，擅长双叉剑，透肌魔人
+|benefit=当你手持双叉剑时，你可以尝试不触发借机攻击地击破敌人的剑或者其他轻刃武器。在这次战技检定中，你获得+2环境加值。
+|source_name=内海怪物志
+|source_url=https://pf1chm.pages.dev/topics/zhb83e0d90c4.htm
+}}

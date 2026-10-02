@@ -1,0 +1,9 @@
+{{Feat
+|name=四海为家
+|english_name=Cosmopolitan
+|description=在大型异国城市生活的经历使得你与许多不同的文明、文化和种族产生了联系。
+|benefit=你可以说和读两种额外语言，种类自行选择。此外，选择两种基于智力、感知或者魅力的技能。这两个技能对于你来说视为[[本职技能]]。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

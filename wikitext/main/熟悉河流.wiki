@@ -1,0 +1,9 @@
+{{Trait
+|name=熟悉河流
+|english_name=River Acumen
+|type=信念
+|description=你与河流的联系，与你对河域诸神的崇敬交织在一起，当你沿河旅行时，你仿佛受到神的庇佑。当你在河流或溪流中的游泳时，游泳检定获得+2的背景加值；当你在河流或溪流之中或附近搜寻食物时，其生存检定获得+2的背景加值。
+|source_name=河域子民
+|source=PotR
+|source_url=https://pf1chm.pages.dev/topics/zh576fd36972.htm
+}}

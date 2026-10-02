@@ -1,0 +1,16 @@
+{{Spell
+|name=高等幽影惑控
+|english_name=Shadow enchantment, greater
+|school=幻术系 (幽影幻觉)
+|tags=阴影
+|levels=催眠师 6;吟游诗人 6;奥能师 6;异能者 6;术士 6;歌者 6;法师 6
+|action=标准动作
+|components=语言;姿势
+|range=见后文
+|effect=见后文
+|duration=见后文
+|save=意志，通过则不相信；见后文
+|sr=是
+|description=此法术效果如同[[幽影惑控]]，除了它能让你创造异能者、术士或法师5环(含)以下惑控法术的部分真实、虚幻的版本。如果认出此法术，其效果仅有原来的五分之三(60%)。
+|source=异能国度
+}}

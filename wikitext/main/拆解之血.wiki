@@ -1,0 +1,11 @@
+{{Feat
+|name=拆解之血
+|english_name=Unraveling Blood
+|pfs=否
+|description=你毒血中蕴含的力量不仅可以摧毁肉体也能摧毁邪恶的诅咒。
+|prerequisites=[[解法之血]]，知识（奥秘）9级，蝮血裔
+|benefit=以一个迅捷动作，你可以改变你蝮血毒的效果，使其在击中一名生物时效果如同[[破除结界]]，使用的角色等级作为施法者等级。这个解除效果可以影响免疫毒素的目标。
+|normal=蝮血毒造成敏捷伤害。
+|source_name=药剂与毒药
+|source_url=https://pf1chm.pages.dev/topics/page_1258.html
+}}

@@ -1,0 +1,216 @@
+{{速查导航}}
+'''进阶职业（NPC志）'''汇总《[[NPC志]]》「进阶职业」一章的 NPC。
+
+== 导读 ==
+
+赛坎斯从背后踹了坎宾一脚，令他直飞出去。在秘术师曾经站立的地方，石块已被一道火焰烤焦。
+
+“看样子找到他了”，赛坎斯边说边抽出了一支箭。
+
+随着他搭起弓，箭杆上亮起了耀眼的蓝色能量。
+
+“蠢货”龙脉术士嘟囔着“你以为你能夺走我的东西？”
+
+“你的？”坎宾吼了回去，紧握的拳头闪耀起圣光“你从神庙偷走那本书还不满三天！”
+
+蛇人笑了，露出一排排焦黄的尖牙，
+
+“当然，从那时起它就是我的财产了！”
+
+刺客（Assassin）
+
+龙脉术士（Dragon Disciple）
+
+决斗家（Duelist）
+
+奥法骑士（Eldritch Knight）
+
+博学士（Loremaster）
+
+秘术师（Mystic Theurge）
+
+历史探索者（Pathfinder Chronicler）
+
+影舞者（Shadowdancer）
+
+以上职业无翻译。
+
+魔射手（Arcane Archer）
+
+诡术师（Arcane Trickster）
+
+== 魔射手 ==
+
+<div class="monster-table-wrap">
+{| class="wikitable sortable filterable"
+|-
+! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+|-
+| [[绿色守卫]] || 8 || 种族：精灵；职业：战士5/咒法师2/魔射手2 || 类人生物 || 绝对中立
+|-
+| [[联赛冠军]] || 12 || 种族：半精灵；职业：吟游诗人7/术士2/魔射手4 || 类人生物 || 绝对中立
+|-
+| [[不死克星]] || 16 || 种族：人类；职业：游侠9/术士1/魔射手7 || 类人生物 || 绝对中立
+|-
+| [[混沌之箭]] || 19 || 种族：侏儒；职业：盗贼6/术士4/魔射手10 || — || —
+|}
+</div>
+
+== 诡术师 ==
+
+<div class="monster-table-wrap">
+{| class="wikitable sortable filterable"
+|-
+! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+|-
+| [[舞台魔术师]] || 8 || 种族：半兽人；职业：吟游诗人4/盗贼3/诡术师2 || 类人生物 || 绝对中立
+|-
+| [[奥术盗贼]] || 12 || 种族：半身人；职业：盗贼4/术士5/诡术师4 || 类人生物 || 绝对中立
+|-
+| [[宝库破袭者]] || 16 || 种族：人类；职业：盗贼6/变形师4/诡术师7 || 类人生物 || 中立邪恶
+|-
+| [[窃神者]] || 19 || 种族：精灵；职业：盗贼3/附魔师7/诡术师10 || — || —
+|}
+</div>
+
+== 决斗家 ==
+
+<div class="monster-table-wrap">
+{| class="wikitable sortable filterable"
+|-
+! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+|-
+| [[部落勇士]] || 8 || 半精灵战士7/决斗家2 || 类人生物 || 混乱中立
+|-
+| [[火爆刺头]] || 12 || 半身人盗贼9/决斗家4 || 类人生物 || 中立邪恶
+|-
+| [[钢铁决斗家]] || 16 || 矮人战士10/决斗家7 || 类人生物 || 绝对中立
+|-
+| [[决斗大师]] || 19 || 人类战士10/决斗家10 || 类人生物 || 绝对中立
+|}
+</div>
+
+== 刺客 ==
+
+<div class="monster-table-wrap">
+{| class="wikitable sortable filterable"
+|-
+! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+|-
+| [[神圣杀手]] || 8 || 半兽人牧师（诺格巴）1/盗贼6/刺客2 || 类人生物 || 中立邪恶
+|-
+| [[死亡入门者]] || 12 || 人类武僧9/刺客4 || 类人生物 || 守序邪恶
+|-
+| [[嗜杀镰客]] || 16 || 半精灵德鲁伊4/战士6/刺客7 || 类人生物 || 中立邪恶
+|-
+| [[致命之斧]] || 19 || 矮人盗贼10/刺客10 || 类人生物 || 中立邪恶
+|}
+</div>
+
+== 博学士 ==
+
+<div class="monster-table-wrap">
+{| class="wikitable sortable filterable"
+|-
+! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+|-
+| [[神术博学士]] || 8 || 半身人阿巴达尔的牧师7/博学士2 || 类人生物 || 守序中立
+|-
+| [[自然学者]] || 12 || 精灵德鲁伊9/博学士4 || 类人生物 || 绝对中立
+|-
+| [[史学大师]] || 16 || 矮人吟游诗人10/博学士7 || 类人生物 || 绝对中立
+|-
+| [[恶魔学者(NPC)|恶魔学者]] || 19 || 人类咒法师10/博学士10 || 类人生物 || 混乱邪恶
+|}
+</div>
+
+== 历史探索者 ==
+
+<div class="monster-table-wrap">
+{| class="wikitable sortable filterable"
+|-
+! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+|-
+| [[疏离学者]] || 8 || 人类吟游诗人7/历史探索者2 || 类人生物 || 绝对中立
+|-
+| [[疯狂先知]] || 12 || 侏儒古神教的牧师9/历史探索者4 || 类人生物 || 混乱邪恶
+|-
+| [[故事编织大师]] || 16 || 半精灵术士10/历史探索者7 || 类人生物 || 绝对中立
+|-
+| [[战场歌者]] || 19 || 人类野蛮人6/吟游诗人4/历史探索者10 || 类人生物 || 绝对中立
+|}
+</div>
+
+== 奥法骑士 ==
+
+<div class="monster-table-wrap">
+{| class="wikitable sortable filterable"
+|-
+! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+|-
+| [[法杖女王]] || 8 || 精灵战士2/防护师5/奥法骑士2 || 类人生物 || 绝对中立
+|-
+| [[魔法勇士]] || 12 || 侏儒托拉格的圣武士2/术士7/奥法骑士4 || 类人生物 || 守序善良
+|-
+| [[灵魂复仇者]] || 16 || 半兽人野蛮人4/术士6/奥法骑士7 || 类人生物 || 绝对中立
+|-
+| [[秘银法师]] || 19 || 人类战士2/塑能师8/奥法骑士10 || 类人生物 || 中立邪恶
+|}
+</div>
+
+== 影舞者 ==
+
+<div class="monster-table-wrap">
+{| class="wikitable sortable filterable"
+|-
+! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+|-
+| [[暗袭者]] || 8 || 人类战士7/影舞者2 || 类人生物 || 混乱中立
+|-
+| [[午夜舞者]] || 12 || 半兽人吟游诗人9/影舞者4 || 类人生物 || 中立邪恶
+|-
+| [[黑冰]] || 16 || 侏儒幻术师10/影舞者7 || 类人生物 || 中立邪恶
+|-
+| [[暗星]] || 19 || 半身人盗贼10/影舞者10 || 类人生物 || 绝对中立
+|}
+</div>
+
+== 秘术师 ==
+
+<div class="monster-table-wrap">
+{| class="wikitable sortable filterable"
+|-
+! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+|-
+| [[天界秘术师]] || 8 || 人类塞恩蕾的牧师3/术士4/秘术师2 || 类人生物 || 中立善良
+|-
+| [[声浪战士]] || 12 || 半身人吟游诗人5/德鲁伊4/秘术师4 || 类人生物 || 绝对中立
+|-
+| [[死亡大师]] || 16 || 半精灵厄加图娅的牧师5/塑能师5/秘术师7 || 类人生物 || 中立邪恶
+|-
+| [[神圣战斗法师]] || 19 || 矮人托拉格的牧师5/法师5/秘术师10 || 类人生物 || 中立善良
+|}
+</div>
+
+== 龙脉术士 ==
+
+<div class="monster-table-wrap">
+{| class="wikitable sortable filterable"
+|-
+! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+|-
+| [[风暴先知]] || 8 || 矮人术士7/龙脉术士2 || 类人生物 || 混乱邪恶
+|-
+| [[酸蚀恐怖]] || 12 || 人类术士9/龙脉术士4 || 类人生物 || 守序邪恶
+|-
+| [[龙裔酋长]] || 16 || 半兽人吟游诗人10/龙脉术士7 || 类人生物 || 混乱邪恶
+|-
+| [[冰雪少女]] || 19 || 精灵术士10/龙脉术士10 || 类人生物 || 中立邪恶
+|}
+</div>
+
+{{条目页脚|速查=NPC速查|分类=NPC汇总}}
+
+本页译自《[[NPC志]]》的怪物图鉴 CHM。
+
+[[分类:NPC汇总]]

@@ -1,0 +1,14 @@
+{{危害
+|name=提琴背毒
+|english_name=Fiddleback venom
+|kind=毒药
+|type=伤口、摄入
+|save=强韧 DC 13
+|onset=1分钟
+|frequency=1次/分钟，持续6分钟
+|initial=[[反胃]]1d4轮
+|secondary=1d3点力量伤害和1d4点体质伤害
+|cure=2次豁免成功
+|price=500 gp
+|source=敌手指南
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=调皮用尾巴
+|english_name=Mischievous Tail
+|description=你的尾巴似乎拥有自己的想法。
+|prerequisites=敏捷15，[[贪婪之尾]]，你必须拥有尾巴
+|benefit=你能使用你的尾巴满足所有目的，如同一只空闲的手一样，但是你不能用它有效地持用武器或盾牌（你仍能用你的尾巴持有物品，只要该物品通常也可以舒适地用手携带）。此外，你在[[卸武]]和[[盗取]][[战技]]获得+2加值而且不会引起[[借机攻击]]，以及在只用你的尾巴的[[巧手]]检定获得+2加值。
+|source=PA
+|source_name=位面冒险
+|source_url=https://pf1chm.pages.dev/topics/zh1e27af7163.htm
+}}

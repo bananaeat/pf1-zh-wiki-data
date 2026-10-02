@@ -1,0 +1,10 @@
+{{Feat
+|name=力能引导
+|english_name=Forceful Channel
+|description=以[[内希斯]]的毁灭之力为源，你引导的是纯粹的力场[[能量爆发]]
+|prerequisites=引导负能量7d6，信仰内希斯
+|benefit=每天一次，当你引导负能量伤害活物时，你可以使你引导的能力造成力场伤害，并且目标生物必须进行强韧检定而非意志检定豁免以减半伤害。如果生物在此检定中失败，它们还会被击倒至[[俯卧]]。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

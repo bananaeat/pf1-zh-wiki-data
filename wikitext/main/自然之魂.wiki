@@ -1,0 +1,13 @@
+{{Feat
+|name=自然之魂
+|english_name=Nature Soul
+|description=你与生俱来地能与自然协调并且尊敬自然界的力量与神秘。
+|benefit=你在知识（自然）与生存检定中获得+2加值。如果你的上述技能之一有10个或更多技能等级，则对于那个技能此加值上升到+4。
+|source=F&P
+|source_name=信仰与哲学
+|source_url=https://pf1chm.pages.dev/topics/page_673.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[动物之友(专长)|动物之友]]、[[动物之友(专长)]]、[[动物盟友]]（3 个条目）

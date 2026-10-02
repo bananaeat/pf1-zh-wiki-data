@@ -1,0 +1,43 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=玛尔博吉三头地狱犬
+|english_name=Malbolgian Cerberi
+|cr=12
+|xp=19,200
+|alignment=守序邪恶
+|size=大型
+|type=异界生物
+|subtypes=邪恶;跨位面;守序
+|init=+5
+|senses=黑暗视觉 60 尺，灵魂嗅觉；察觉 +23
+|description=这头巨大的三头猎犬从地狱的烈焰中一跃而出，嚎叫声如同肆虐野火的喧嚣。它大得足以用可怖的巨口叼起一匹马，却没有一丝血肉，躯体只是裸露的白骨和焦黑的肌腱。三张獠牙大口中窜出火舌，猩红的唾液从这头恐怖之物骷髅般的颚骨间滴落。
+|ac=26，接触 10，措手不及 25（+1 敏捷，+16 天生，–1 体型）
+|hp=161（14d10+84）
+|fort=+15
+|ref=+10
+|will=+6
+|speed=30 尺
+|melee=3 啮咬 +20（1d8+7 附加 1d8 火焰及冥府之噬）
+|space=10 尺
+|reach=5 尺
+|special_attacks=撕扯（2 啮咬，1d8+10 或 3 啮咬，1d8+14）
+|str=24
+|dex=12
+|con=22
+|int=6
+|wis=15
+|cha=8
+|bab=+14
+|cmb=+22
+|cmd=33（对摔绊 37）
+|feats=[[警觉]];[[战斗反射]];[[高等冲撞]];[[精通冲撞]];[[精通先攻]];[[猛力攻击]];[[通行禁止]]
+|skills=[[特技]] +18（跳跃时 +22）;[[察觉]] +23;[[察言观色]] +4;[[隐匿]] +14;[[生存]] +19
+|languages=炼狱语（不会说）
+|environment=任意（地狱）
+|organization=单独
+|treasure=偶有
+|special_abilities={{怪物能力|冥府之噬|Su|诅咒—啮咬；豁免 强韧 DC 23；效果 禁止离开位面。}}
+|source=冒险之路28：炼狱综合征
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Malbolgian Cerberi|2=Malbolgian Cerberi}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=交涉家
+|english_name=Destined Diplomat
+|type=社会
+|description=你与[[幻灵]]之间的联系，也指点了你如何与其他异界生物沟通。你对异界生物的交涉检定获得+2背景加值，并且总能将交涉视为你的[[本职技能]]。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

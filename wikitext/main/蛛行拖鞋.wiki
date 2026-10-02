@@ -1,0 +1,15 @@
+{{魔法物品
+|name=蛛行拖鞋
+|english_name=Slippers of Spider Climbing
+|aon=MagicWondrousDisplay.aspx?FinalName=Slippers of Spider Climbing
+|cat=奇物
+|aura=微弱变化系
+|cl=4
+|slot=脚部
+|price=4,800 gp
+|weight=1/2磅
+|description=穿上这双拖鞋后，穿戴者可以在垂直表面上移动，甚至可以倒挂在天花板上移动，同时双手保持自由。她获得20尺攀爬速度。极度光滑的表面——结冰、涂油或抹了润滑油的表面——会使这双拖鞋失效。这双拖鞋每天可以使用10分钟，可依穿戴者的意愿分开使用（每次使用最少1分钟）。
+|req=[[制造奇物]]、[[蛛行术]]
+|cost=2,400 gp
+|source=核心规则书、极限宝具
+}}

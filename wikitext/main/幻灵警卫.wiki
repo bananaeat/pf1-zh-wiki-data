@@ -1,0 +1,10 @@
+{{Feat
+|name=幻灵警卫
+|english_name=Vigilant Eidolon
+|description=你的[[幻灵]]异常[[警觉]]，而与其精神相连的你也是如此。
+|prerequisites=【幻灵】职业特性。
+|benefit=当你的幻灵在你的触及范围内时，你在察觉上获得+4加值，如果你在察觉上拥有10或更高的等级，则加值增加为+8。这个专长在你的幻灵[[无助]]或是[[失去意识]]时无效。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

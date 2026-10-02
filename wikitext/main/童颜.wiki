@@ -1,0 +1,10 @@
+{{Feat
+|name=童颜
+|english_name=Childlike
+|description=你那形似[[人类]]孩童的外表让大家更易于相信你——如果他们没有识破你的身份的话。
+|prerequisites=[[魅力]] 13，半身人。
+|benefit=只要你的故事能够显得自己是无辜的，就能够在[[唬骗]]检定中取10，用以让别人认为你说的是真话。你还在冒充为人类孩童的[[易容]]检定中获得+2加值，并且忽略在这么做时，易容为不同种族和不同年龄层的减值。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

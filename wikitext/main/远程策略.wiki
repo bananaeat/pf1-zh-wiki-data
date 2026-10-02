@@ -1,0 +1,11 @@
+{{Feat
+|name=远程策略
+|english_name=Ranged Study
+|description=你研究了如何在使用各种武器时寻找最有效的战斗策略，而非仅仅局限于近身格斗的方法。
+|prerequisites=一种武器的武器专攻专长，战斗策略职业能力
+|benefit=选择一种你拥有[[武器专攻]]的远程武器，你在使用这种武器展开战斗策略时可以获得加值，并且只要策士之击的目标距离你不超过30尺，你就可以用这种武器发动策士之击。
+|normal=你只有在使用近战武器时才能获得战斗策略的加值和发动策士之击。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

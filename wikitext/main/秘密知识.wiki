@@ -1,0 +1,10 @@
+{{Trait
+|name=秘密知识
+|english_name=Secret Knowledge
+|type=宗教
+|prerequisites=[[诺格巴]]
+|description=在获取此背景后的任何一刻，你能选择1项知识技能。你在该技能检定获得永久的+2背景加值，而且它成为你的[[本职技能]]。一旦此技能被选定，则不能改变。
+|source_name=堕落信念
+|source=FoC
+|source_url=https://pf1chm.pages.dev/topics/zhd0c4b91542.htm
+}}

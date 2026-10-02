@@ -1,0 +1,10 @@
+{{Trait
+|name=历风霜
+|english_name=Weather-Beaten
+|type=坐骑
+|prerequisites=[[骑乘用犬]]（艾鲁塔基雪橇犬）
+|description=艾鲁塔基雪橇犬在避免寒冷环境带来[[非致命伤害]]的强韧豁免上获得+4背景加值,并且在诸如降雨或降雪等恶劣天气中做出的察觉检定仅受到-2罚值(取代通常的-4罚值)。
+|source_name=坐骑背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zh4fc8a2e018.htm
+}}

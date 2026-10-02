@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能源始|Occult Origins}}
+'''基础混沌念力'''（Basic Chaokinesis, Sp）是[[操念使]]的[[原力]]。
+
+元素：虚空；类别：通用（Sp）；等级：1；超载：0
+
+你可以制造一片阴影保护目标免受强光。你也可以改变重力，使一个生物的负载能力增加一半，或者使一个生物在为跳跃进行的特技检定上获得+4加值。每项效果持续1小时，或者直到你再次使用基础混沌念力（取其先发生者）。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_661.html 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Basic Chaokinesis|2=Basic Chaokinesis}}
+
+[[分类:原力]]

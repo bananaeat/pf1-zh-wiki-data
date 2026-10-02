@@ -1,0 +1,80 @@
+{{Spell
+|name=魔法恒定术
+|english_name=Permanency
+|school=通用系
+|domains=仪式子域 5
+|levels=奥能师 5;异能者 5;术士 5;法师 5
+|action=2轮
+|components=语言;姿势;材料（见后文中的表格）
+|range=见后文
+|target=见后文
+|duration=永久; 见后文
+|save=无
+|sr=否
+|description=此法术可以让某些其他法术的持续时间变为永久。你首先要施放想要选择的法术，之后紧接着施放魔法恒定术。
+
+根据法术的不同，你必须满足不同的最低CL要求，并且你必须支付一定价值的钻石尘作为材料成分。
+
+你可以将下列法术恒定在你自己身上。
+
+<table class="wikitable">
+<tr><th>法术</th><th>最低CL</th><th>开销</th></tr>
+<tr><td>[[秘法视力]]</td><td>11级</td><td>7500gp</td></tr>
+<tr><td>[[通晓语言]]</td><td>9级</td><td>2500gp</td></tr>
+<tr><td>[[黑暗视觉(法术)|黑暗视觉]]</td><td>10级</td><td>5000gp</td></tr>
+<tr><td>[[侦测魔法]]</td><td>9级</td><td>2500gp</td></tr>
+<tr><td>[[阅读魔法]]</td><td>9级</td><td>2500gp</td></tr>
+<tr><td>[[识破隐形]]</td><td>10级</td><td>5000gp</td></tr>
+<tr><td>[[巧言术]]</td><td>11级</td><td>7500gp</td></tr>
+</table>
+
+你无法对其他生物恒定上表中的法术。要解除这样恒定住的法术，对方的CL必须高于你施展魔法恒定术时的CL。
+
+除了用上述用于恒定在自己身上的法术以外，魔法恒定术还可以把下列法术恒定在你自己、其他生物、或一个物体上 (如果法术适用的话)。
+
+<table class="wikitable">
+<tr><th>法术</th><th>最低CL</th><th>开销</th></tr>
+<tr><td>[[变巨术]]</td><td>9级</td><td>2500gp</td></tr>
+<tr><td>[[魔牙术]]</td><td>9级</td><td>2500gp</td></tr>
+<tr><td>[[高等魔牙术]]</td><td>11级</td><td>7500gp</td></tr>
+<tr><td>[[缩小术]]</td><td>9级</td><td>2500gp</td></tr>
+<tr><td>[[提升抗力]]</td><td>9级</td><td>2500gp</td></tr>
+<tr><td>[[心灵连线]]*</td><td>13级</td><td>12500gp</td></tr>
+<tr><td>* 每次魔法恒定术只能连接两个生物。</td><td></td><td></td></tr>
+</table>
+
+除此之外，下列法术仅能被施放在物体或区域上，并且被恒定住。
+
+<table class="wikitable">
+<tr><th>法术</th><th>最低CL</th><th>开销</th></tr>
+<tr><td>[[魔法警报]]</td><td>9级</td><td>2500gp</td></tr>
+<tr><td>[[臭云术]]</td><td>11级</td><td>7500gp</td></tr>
+<tr><td>[[活化物体]]</td><td>14级</td><td>15000gp</td></tr>
+<tr><td>[[死亡徽记]]</td><td>16级</td><td>20000gp</td></tr>
+<tr><td>[[舞光术]]</td><td>9级</td><td>2500gp</td></tr>
+<tr><td>[[恐惧徽记]]</td><td>14级</td><td>15000gp</td></tr>
+<tr><td>[[幻音术]]</td><td>9级</td><td>2500gp</td></tr>
+<tr><td>[[摄魂徽记]]</td><td>16级</td><td>20000gp</td></tr>
+<tr><td>[[造风术]]</td><td>11级</td><td>7500gp</td></tr>
+<tr><td>[[痛苦徽记]]</td><td>13级</td><td>12500gp</td></tr>
+<tr><td>[[隐形术]]</td><td>10级</td><td>5000gp</td></tr>
+<tr><td>[[说服徽记]]</td><td>14级</td><td>15000gp</td></tr>
+<tr><td>[[法师密室]]</td><td>13级</td><td>12500gp</td></tr>
+<tr><td>[[睡眠徽记]]</td><td>16级</td><td>20000gp</td></tr>
+<tr><td>[[魔嘴]]</td><td>10级</td><td>5000gp</td></tr>
+<tr><td>[[震慑徽记]]</td><td>15级</td><td>17500gp</td></tr>
+<tr><td>[[相位门]]</td><td>15级</td><td>17500gp</td></tr>
+<tr><td>[[衰弱徽记]]</td><td>15级</td><td>17500gp</td></tr>
+<tr><td>[[虹光法球]]</td><td>17级</td><td>22500gp</td></tr>
+<tr><td>[[传送法阵]]</td><td>17级</td><td>22500gp</td></tr>
+<tr><td>[[虹光法墙]]</td><td>16级</td><td>20000gp</td></tr>
+<tr><td>[[火墙术]]</td><td>12级</td><td>10000gp</td></tr>
+<tr><td>[[缩物术]]</td><td>11级</td><td>7500gp</td></tr>
+<tr><td>[[力墙术]]</td><td>13级</td><td>12500gp</td></tr>
+<tr><td>[[重雾术]]</td><td>12级</td><td>10000gp</td></tr>
+<tr><td>[[蛛网术]]</td><td>10级</td><td>5000gp</td></tr>
+</table>
+
+施放到其他目标上的法术都能被[[解除魔法]]正常解除。GM可以允许其他法术纳入可以恒定的范畴。
+|source=核心规则书
+}}

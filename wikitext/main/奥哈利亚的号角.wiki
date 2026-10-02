@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=奥哈利亚的号角
+|english_name=Ohalia's Horn
+|aon=MagicWondrousDisplay.aspx?FinalName=Ohalia's Horn
+|cat=奇物
+|aura=强烈咒法系
+|cl=15
+|slot=无
+|price=55,000 gp
+|weight=2磅
+|description=这支略微弯曲的号角，喇叭口形如一只咆哮母狮的头。它在许多方面像[[英灵号角]]，但只要单手握持，持有者就能获得[[观命术]]的效益。每年一次，持有者吹响号角时，可以不召唤野蛮人，而是召唤一匹带鞍的[[八足驹]]，持续1小时。这匹八足驹乐意充当坐骑或战斗伙伴。
+|req=[[制造奇物]]、[[观命术]]、[[召唤怪物 VIII]]
+|cost=22,500 gp
+|source=冒险之路131：死神的右手
+}}

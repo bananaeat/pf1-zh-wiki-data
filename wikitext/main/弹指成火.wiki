@@ -1,0 +1,10 @@
+{{Trait
+|name=弹指成火
+|english_name=Snap Ignition
+|type=种族
+|prerequisites=[[火元素裔]]
+|description=你生来就是个纵火狂，没有什么比四处放火更能让你感到快乐。你可以用[[整轮动作]]从指尖升起一小撮火焰，这撮火焰能如[[火柴]]般点燃易燃物。或者，你可以每轮用一个[[标准动作]]进行专注，来维持住烛火大小的火焰。
+|source_name=沙之子民
+|source=种族
+|source_url=https://pf1chm.pages.dev/topics/zh730f330f66.htm
+}}

@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=野兽图腾
+|english_name=Beast Totem
+|type=Su
+|categories=图腾
+|prerequisites=[[野蛮人]]6级，[[次等野兽图腾]]
+|benefit=狂暴时野蛮人AC获得+1天生护甲加值。这个加值每4个野蛮人等级+1。
+|source_name=进阶玩家指南
+}}

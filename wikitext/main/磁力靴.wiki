@@ -1,0 +1,16 @@
+{{科技物品
+|name=磁力靴
+|english_name=Magboots
+|kind=科技装置
+|sub=其他工具与配件
+|price=5,000 gp
+|weight=6磅
+|slot=脚部
+|capacity=10
+|usage=每小时1充能
+|description=这双看上去笨重的靴子，鞋底内置强力电磁铁，会随穿戴者抬脚的动作自动启闭，使其在零重力环境下能相对轻松地在金属表面行走。穿戴者在攀登金属表面时，所有[[攀爬]]检定获得+10环境加值。
+|construction=[[制造科技装置]]、引力工作间
+|craft_dc=20
+|cost=2,500 gp
+|source=科技指南
+}}

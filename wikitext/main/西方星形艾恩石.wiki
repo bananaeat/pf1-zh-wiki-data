@@ -1,0 +1,19 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=西方星形艾恩石
+|english_name=Western Star Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun Stone Western Star
+|cat=艾恩石
+|aura=强烈幻术系
+|cl=12
+|slot=无
+|price=4,000 gp
+|description='''形状'''：五角星
+
+'''效果'''：这颗蓝色水晶被切割成五角星的形状。使用者可以用一个[[标准动作]]改变自己的外貌，如同施放[[易容术]]。以这种方式易容时，使用者可以让这颗西方星形艾恩石和自己持有的其他艾恩石隐形。
+
+艾恩石的通用规则（启动、环绕飞行、抓取，以及AC、硬度）见[[艾恩石]]。
+|req=[[制造奇物]]、[[易容术]]
+|cost=2,000 gp
+|source=异能奥秘
+}}

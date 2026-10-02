@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[暗示术]] 的神话版本。</small></div>
+{{Spell
+|name=暗示术
+|english_name=Suggestion
+|school=惑控系 (胁迫)
+|tags=依赖语言;影响心灵
+|levels=催眠师 2;吟游诗人 2;异能者 2;歌者 2;通灵者 2;奥能师 3;女巫 3;术士 3;法师 3;秘学士 3
+|description=神话暗示术不具有依赖语言描述符，而且能够以半径10尺爆发范围内的1或多个活物为目标。
+|source=神话冒险
+}}
+[[分类:神话法术]]

@@ -1,0 +1,17 @@
+{{魔法物品
+|name=坚定决心绑腰绳
+|english_name=Cord of Stubborn Resolve
+|aon=MagicWondrousDisplay.aspx?FinalName=Cord of Stubborn Resolve
+|cat=奇物
+|aura=中等变化系
+|cl=8
+|slot=腰部
+|price=15,000 gp
+|weight=1磅
+|description=将它系紧在腰上后，这根又粗又长的绳子给予穿戴者体质+2增强加值，并带来惊人的耐力。在刚穿戴的24小时内，该体质加值视为临时属性加值。
+
+任何会导致穿戴者[[疲乏]]的效果，改为对穿戴者额外造成1d6点非致命伤害。任何会导致穿戴者[[力竭]]的效果，同样改为造成1d6点非致命伤害，并使穿戴者疲乏而非力竭。
+|req=[[制造奇物]]、[[熊之坚韧]]、[[次等复原术]]
+|cost=7,500 gp
+|source=极限宝具
+}}

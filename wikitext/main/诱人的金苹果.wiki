@@ -1,0 +1,15 @@
+{{魔法物品
+|name=诱人的金苹果
+|english_name=Alluring Golden Apple
+|aon=MagicWondrousDisplay.aspx?FinalName=Alluring Golden Apple
+|cat=奇物
+|aura=微弱惑控系
+|cl=4
+|slot=无
+|price=400 gp
+|weight=1磅
+|description=这颗被附魔的苹果看起来像是纯金打造的。当它被丢下或掷出时，会吸引20尺内最近一个敌对生物的注意。该生物必须通过DC13的意志豁免，否则会如同受到[[人类定身术]]影响一般被[[麻痹]]，把全部注意力都集中在金苹果上。如果该生物在之后的某一轮中通过了豁免，它就会意识到自己受到了魔法影响，并且那苹果其实不是金的。在专注于苹果期间，目标的[[察觉]]检定承受-2减值。苹果在被丢下或掷出时即被消耗。
+|req=[[制造奇物]]、[[诱人赠礼]]（《进阶玩家指南》）、[[人类定身术]]
+|cost=200 gp
+|source=极限宝具
+}}

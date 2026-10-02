@@ -1,0 +1,9 @@
+{{装备
+|name=熏盐
+|english_name=Scent salts
+|cat=娱乐
+|price=1 sp
+|weight=—
+|description=这些熏盐被装在一个防水的小袋子里，它会在水中缓慢地溶解，在附近的水中制造出一股持续大约1小时的宜人气味。
+|source=水下冒险
+}}

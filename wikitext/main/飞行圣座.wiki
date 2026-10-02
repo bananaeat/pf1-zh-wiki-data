@@ -1,0 +1,15 @@
+{{魔法物品
+|name=飞行圣座
+|english_name=Soaring Cathedra
+|aon=MagicWondrousDisplay.aspx?FinalName=Soaring Cathedra
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=无
+|price=5,000 gp
+|weight=250磅
+|description=这顶大型轿子由轻而坚固的黑木制成，披着白色的丝绸罩布。内部有一张铺着丝绸枕头和厚实软垫的床，可容纳两名中型乘员。它的移动由其中一名乘员控制。它总是悬浮在离地数尺的高度，水平移动速度为10尺，不过乘员可以用[[自由动作]]让它降落或再次悬浮。
+|req=[[制造奇物]]、[[浮空术]]，制造者必须在[[工艺]]（木工）上至少有5个技能等级
+|cost=2,500 gp，200 XP
+|source=塔尔多，荣光荡漾之地
+}}

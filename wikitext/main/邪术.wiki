@@ -1,0 +1,11 @@
+{{Feat
+|name=邪术
+|english_name=Maleficium
+|categories=诅咒
+|pfs=否
+|description=你是黑暗魔法的宗师。
+|benefit=你施放的带有邪恶描述符的法术效果增强。 一项[[诅咒专长]]：你施放的带有邪恶描述符的法术的所有豁免DC＋1。 两项诅咒专长：当你将[[超魔专长]]应用于带有邪恶描述符的法术时，该法术占用的法术位比通常低一环（至少比该法术的原本等级高一环）。 三项诅咒专长：你施放的带有邪恶描述符的法术的所有豁免DC＋1。这一效果与该专长先前的效果叠加。 四项诅咒专长：你施放带有邪恶描述符的法术时，将施法者等级视为提高2级来决定所有相关的法术效果。
+|source=CoC
+|source_name=秽邪勇士
+|source_url=https://pf1chm.pages.dev/topics/zh45cf79b2ca.htm
+}}

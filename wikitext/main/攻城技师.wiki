@@ -1,0 +1,17 @@
+{{Feat
+|name=攻城技师
+|english_name=Siege Engineer
+|categories=战斗
+|pfs=否
+|description=你对所有攻城兵器了如指掌。
+|prerequisites=[[知识]]（工程）5级或专业（攻城技师）5级，擅长一项攻城兵器。
+|benefit=你被视为擅长所有攻城兵器。同时，当你身为攻城兵器的机师长时，该兵器不会因攻击投骰为1而掉链。
+|normal=每种攻城兵器都是异种武器。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[攻城宗匠]]、[[攻城炮手]]（2 个条目）

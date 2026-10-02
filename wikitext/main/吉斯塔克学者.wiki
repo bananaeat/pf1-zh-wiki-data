@@ -1,0 +1,9 @@
+{{Trait
+|name=吉斯塔克学者
+|english_name=Jistkan Scholar
+|type=社会
+|description=你专门研究吉斯塔克的历史与文化。你获得吉斯塔克语作为额外语言。你在与吉斯塔克帝国有关的所有知识检定上获得+1背景加值。
+|source_name=古国血脉
+|source=BotA
+|source_url=https://pf1chm.pages.dev/topics/zhb7c0053e99.htm
+}}

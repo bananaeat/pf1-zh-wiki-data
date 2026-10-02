@@ -1,0 +1,9 @@
+{{Trait
+|name=自由斗士
+|english_name=Freedom Fighter (Andoran)
+|type=地区
+|prerequisites=安多安
+|description=你作为一名武装民船的船长，为自由而战的声誉早已街知巷闻。你的交涉检定获得+2背景加值，但在面对奴隶贩子或那些支持奴隶贸易的人时，此加值变成-2减值。交涉视为你的[[本职技能]]。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

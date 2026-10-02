@@ -1,0 +1,15 @@
+{{魔法物品
+|name=集中超魔权杖
+|english_name=Rod of Metamagic, Focused
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Metamagic, Focusedlesser
+|cat=权杖
+|aura=强烈（无学派）
+|cl=17
+|slot=无
+|price=3,000 gp（次等）；11,000 gp（普通）；24,500 gp（高等）
+|weight=5磅
+|description=持用者能够如同使用[[集中法术]]专长一样使法术集中，每天至多3次。
+|req=[[制造权杖]]、[[集中法术]]
+|cost=1,500 gp（次等）；5,500 gp（普通）；12,250 gp（高等）
+|source=进阶玩家指南、极限宝具
+}}

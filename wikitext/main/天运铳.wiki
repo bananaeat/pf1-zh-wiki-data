@@ -1,0 +1,9 @@
+{{Trait
+|name=天运铳
+|english_name=Black Powder Fortune
+|type=战斗
+|description=手中有枪，心中无惧。当你持用火器时，你在对抗诅咒、恐惧和情绪效果的全豁免中获得+2背景加值。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

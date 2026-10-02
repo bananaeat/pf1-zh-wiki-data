@@ -1,0 +1,15 @@
+{{魔法物品
+|name=冗长巫术权杖
+|english_name=Rod of Interminable Hexes
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Interminable Hexes
+|cat=权杖
+|aura=强烈（无学派）
+|cl=17
+|slot=无
+|price=11,000 gp
+|weight=5磅
+|description=每天3次，当这根[[魔法物品#权杖|权杖]]的持用者使用[[巫术]]（但不能是[[强力巫术]]或[[高等巫术]]）时，只要该巫术的正常持续时间长于1轮，她就能借助权杖的力量使该巫术的持续时间翻倍。使用这根权杖强化巫术时，如果某个巫术在目标豁免失败时持续时间较长、而目标豁免成功时只持续1轮（比如[[邪眼]]巫术），那么对豁免成功的目标，它仍然只持续1轮。
+|req=[[制造权杖]]、[[法术延时]]，制造者必须拥有巫术职业能力
+|cost=5,500 gp
+|source=进阶职业指南
+}}

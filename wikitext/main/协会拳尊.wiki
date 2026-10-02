@@ -1,0 +1,9 @@
+{{Trait
+|name=协会拳尊
+|english_name=Honored Fist of the Society
+|type=战斗
+|prerequisites=[[武僧]]，[[探索者协会]]
+|description=你研读过数十卷协会内独有的武术古卷，且你对这些武术的修习比大多数人都更深。你的[[武僧#气运丹田|气池]]增加一点。
+|source_name=碎星玩家手册
+|source_url=https://pf1chm.pages.dev/topics/zhb4c4366d0e.htm
+}}

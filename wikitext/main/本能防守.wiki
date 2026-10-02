@@ -1,0 +1,11 @@
+{{Feat
+|name=本能防守
+|english_name=Uncanny Defense
+|categories=战斗
+|description=你的自我保护本能给予你很多强项。
+|prerequisites=[[谨慎战斗]]，基本攻击加值+3，半身人。
+|benefit=当你防御式战斗或采取[[全防御]]动作时，你的反射豁免和[[CMD]]获得加值，该加值等同于你从该动作中获得的AC闪避加值的一半。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

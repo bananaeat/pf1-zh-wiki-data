@@ -1,0 +1,15 @@
+{{魔法物品
+|name=损箭弓
+|english_name=Arrowbreak Bow
+|aon=MagicCursedDisplay.aspx?ItemName=Arrowbreak Bow
+|cat=诅咒物品
+|base=[[短弓]]
+|enh=+2
+|aura=中等塑能系
+|cl=6
+|slot=无
+|weight=2磅
+|description=这把[[短弓]]做工精美，镶嵌着虹彩图案，看起来是一把+2短弓。然而，它射出箭矢时力量大得惊人，无论命中还是落空，箭矢必定折断。这把弓必须作为持有者的主要远程武器使用，只有持有者受到[[移除诅咒]]或类似效果之后才能丢弃。
+|req=+2[[短弓]]
+|source=极限宝具
+}}

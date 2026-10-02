@@ -1,0 +1,15 @@
+{{魔法物品
+|name=蟑螂背心
+|english_name=Vest of the Cockroach
+|aon=MagicWondrousDisplay.aspx?FinalName=Vest of the Cockroach
+|cat=奇物
+|aura=微弱死灵系
+|cl=3
+|slot=胸部
+|price=16,000 gp
+|weight=2磅
+|description=这件带衬垫、略显臃肿的[[背心]]由红褐色布料制成，会让穿戴者在俯卧时隐隐感到不适。如果穿戴者是盗贼，她获得[[韧性]][[盗贼天赋]]。如果她已经拥有这项天赋，则发动该天赋时每个盗贼等级恢复2点生命值，而不是1点。
+|req=[[制造奇物]]、[[虚假生命]]
+|cost=8,000 gp
+|source=进阶玩家指南、极限宝具
+}}

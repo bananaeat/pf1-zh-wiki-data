@@ -1,0 +1,8 @@
+{{Trait
+|name=乐观心
+|english_name=Irrepressible
+|type=信念
+|benefit=你对美好生活的向往结合你开朗的个性，使你能够从遮蔽心灵的魔法中解脱。当你进行意志豁免以对抗魅惑和胁迫效果时，你可以用你的魅力调整值代替你的感知调整值。
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

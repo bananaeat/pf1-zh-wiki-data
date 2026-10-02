@@ -1,0 +1,12 @@
+<noinclude>{{奥能师导航}}
+'''迅捷转耗'''（Swift Consume, Ex）是[[奥能师]]的[[奥能技艺|奥能技艺]]。
+
+</noinclude>{{Source|进阶职业指南|Advanced Class Guide|inline}}
+
+奥能师可以用一个迅捷动作而非移动动作来使用[[奥能师#转耗法术|转耗法术]]职业能力或[[奥能技艺#转耗魔具|转耗魔具]]技艺。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_96.html 原文]），按 AoN 核对过。全部奥能技艺见 [[奥能技艺]]。
+
+[[分类:奥能技艺]]
+
+{{职业}}</noinclude>

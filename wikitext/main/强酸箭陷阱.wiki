@@ -1,0 +1,13 @@
+{{危害
+|name=强酸箭陷阱
+|english_name=Acid Arrow Trap
+|kind=陷阱
+|trap_type=魔法
+|cr=3
+|perception=DC 27
+|disable=DC 27
+|trigger=接近型（警报术）
+|reset=无
+|effect=法术效果（[[强酸箭]]，远程接触攻击 +2，2d4酸蚀伤害，持续4轮）
+|source=核心规则书
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=胜利涌动
+|english_name=Surge of Success
+|description=你的成功促进你下一步的行动。
+|prerequisites=人类。
+|benefit=当你确认一次重击，或在豁免检定中骰出自然20时，你可以在你的下一轮结束前，自选一次攻击检定、豁免检定、技能检定或者属性检定，获得+2环境加值。你必须在进行攻击检定、豁免检定、技能检定或者属性检定之前选择是否使用这些加值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

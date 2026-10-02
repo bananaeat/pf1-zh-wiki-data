@@ -1,0 +1,11 @@
+{{消歧义|感官共享 (消歧义)}}
+{{Feat
+|name=感官共享
+|english_name=Shared Insight
+|description=你能够熟练地让他人注意到你希望他们注意的地方。
+|prerequisites=[[感知]] 13，半精灵。
+|benefit=以[[移动动作]]，你能够使30尺内并且能够看到或听到你的盟友在察觉检定上获得+2加值，持续轮数等同于你的感知修正（最低1轮）。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

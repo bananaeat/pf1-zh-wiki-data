@@ -1,0 +1,12 @@
+{{Feat
+|name=变形专精
+|english_name=Shaping Focus
+|aliases=变形专攻
+|description=你对变形的专业超越了你对德鲁伊教的信仰。
+|prerequisites=【自然变身】职业特性，[[知识]]（自然）5级。
+|benefit=如果你是兼职德鲁伊，你的【自然变身】能力按你的德鲁伊等级高4级来计算，最高不超过你的角色等级。
+|special=若你没有兼职德鲁伊，这个专长不会发挥任何效果。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

@@ -1,0 +1,17 @@
+{{Spell
+|name=安抚构装
+|english_name=Soothe construct
+|school=防护系
+|levels=先知 4;战斗祭司 4;牧师 4;秘学士 4;奥能师 5;术士 5;法师 5
+|action=1轮
+|components=语言;姿势
+|range=近距
+|target=一个构装体
+|duration=立即
+|save=无
+|sr=否
+|description=你安抚目标构装体内的元素精魂，降低它进入狂暴的机率，每四个施法者等级1d4%（最高5d4%）。
+
+如果施放在一个已经进入狂暴状态的构装体并且你是它的主人，你可以立刻进行一次d%投骰以结束它的狂暴状态，它会进入正常运行状态，并且狂暴机率返回到0%。
+|source=极限魔法
+}}

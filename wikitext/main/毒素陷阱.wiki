@@ -1,0 +1,10 @@
+<noinclude>{{游侠导航}}
+{{Source|极限魔法|Ultimate Magic}}
+
+'''毒素陷阱'''（Poison Trap，Ex 或 Su）是一种[[游侠陷阱]]。
+
+</noinclude>'''毒素陷阱'''（Ex 或 Su）：陷阱使触发它的生物中毒。如果这是超自然陷阱，毒素每轮造成1d2点[[体质]]伤害，持续6轮。如果这是特异陷阱，游侠在设置陷阱时必须提供一剂接触型、吸入型或伤口型毒药，陷阱的效果和 DC 与该毒药相同。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_58.html 原文]），按 AoN 校过。全部游侠陷阱见 [[游侠陷阱]]。
+
+[[分类:游侠陷阱]]</noinclude>

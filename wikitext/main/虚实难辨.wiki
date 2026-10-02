@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Distant Shores pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=虚实难辨
+|english_name=Creative Reality
+|type=种族
+|prerequisites=熵裔
+|description=直截了当的答案令你厌烦，因为它们只会怂恿人们依赖他人，而不是自己去寻找答案。多年来，你已经很擅长让人们相信谎言，并将你的真话包裹在大量含糊其辞之中，以至于它们和谎言也差不多。你的[[唬骗]]检定获得+1背景加值；当你试图让某人相信一个真实的答案是谎言时，这个加值提高至+5。
+|source_name=遥远世界
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Creative%20Reality
+}}

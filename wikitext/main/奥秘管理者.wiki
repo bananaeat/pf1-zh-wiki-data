@@ -1,0 +1,9 @@
+{{Trait
+|name=奥秘管理者
+|english_name=Arcane Archivist
+|type=派系
+|description=你在魔法物品上花费了数年的研究时间，非常清楚如何在测试一件魔法物品的效果时避免出现毁灭性的后果。你的[[使用魔法装置]]技能获得+1背景加值，并且视为你的[[本职技能]]。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

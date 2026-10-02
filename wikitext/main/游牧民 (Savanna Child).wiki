@@ -1,0 +1,10 @@
+{{Trait
+|name=游牧民
+|english_name=Savanna Child
+|type=地区
+|prerequisites=平原
+|description=你在一望无际的大平原或草原上出生长大。青涩时光的大半都被你用来探索周边，你也因此学到了不少大草原的奥秘。选择以下一项技能：[[驯养动物]]、知识(自然)或骑术。你在该技能上获得+1背景加值，并且总能将其视为你的[[本职技能]]。
+|source_name=地区背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

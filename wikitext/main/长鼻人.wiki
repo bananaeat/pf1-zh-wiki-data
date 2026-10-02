@@ -1,0 +1,10 @@
+{{Feat
+|name=长鼻人
+|english_name=Long-Nose Form
+|description=你可以变身为有着超长鼻子的[[人类]]。
+|prerequisites=角色等级3，天狗。
+|benefit=每天1次，你可以变为人类的样貌，不过鼻子会和你的喙一样长。该类法术能力就如同[[变身术]]一般生效，CL等同于角色等级。在这种形态下你获得＜灵敏嗅觉＞能力，并且力量属性获得+2加值。但是由于你的长鼻子清楚地显示你不是一名普通人类，所以你无法获得使用变形效应通常带来的[[易容]]检定加值（不过你能以一个不幸的诅咒或者[[畸形]]解释这异常的长鼻子，或者用瘟疫医生面具将其掩藏起来）。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

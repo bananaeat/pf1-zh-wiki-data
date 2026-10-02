@@ -1,0 +1,10 @@
+{{Feat
+|name=共生活力
+|english_name=Symbiotic Resilience
+|description=与你共生的藤蔓已经蔓延至你的全身，给予你一点弱化版的植物生物的免疫力。
+|prerequisites=体质13，伽瑟兰
+|benefit=当你陷入麻痹、魔法睡眠或震慑，你忽视上述状态带来的效果，但你在被忽视状态持续期间陷入恍惚。移除被忽视的状态能够同时移除此种恍惚状态，但你不能通过其它手段移除此恍惚状态，或通过恍惚免疫来抵抗它。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/page_814.html
+}}

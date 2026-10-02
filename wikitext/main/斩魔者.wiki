@@ -1,0 +1,9 @@
+{{Trait
+|name=斩魔者
+|english_name=Demon Smiter
+|type=战斗
+|description=你和那些与世界伤痕蜂拥而出的恶魔战斗的人一起长大，从他们的故事中你学到了恶魔的弱点。你很可能来自蒙蒂维，或以圣教军的身份投身于该国的事业。每日1次，在与恶魔战斗时，你可以在单次攻击检定上获得+4背景加值。
+|source_name=战斗背景
+|source=CoP
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=囤积钱币者
+|english_name=Coin Hoarder
+|type=地区
+|pfs=否
+|prerequisites=灵旋山脉
+|description=一切都有代价——而知晓它是你的工作。你的起始资金增加至500gp。
+|source_name=格拉里昂的矮人
+|source_url=https://pf1chm.pages.dev/topics/page_1586.html
+}}

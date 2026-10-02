@@ -1,0 +1,10 @@
+{{Feat
+|name=不屈坐骑
+|english_name=Indomitable Mount
+|categories=战斗
+|description=你精湛的骑术可以帮助坐骑规避攻击
+|prerequisites=[[骑乘战斗]]，[[驯养动物]]5级，[[骑术]]5级，终焉之墙亲和（RP要素）
+|benefit=每轮一次,当你的坐骑需要进行一次豁免检定时,你可以用[[直觉动作]]进行一次骑术检定。如果骑术检定的结果大于对方的攻击DC，那么你的坐骑通过该豁免。
+|source_name=格拉利昂的城市
+|source_url=https://pf1chm.pages.dev/topics/zh06c701dc72.htm
+}}

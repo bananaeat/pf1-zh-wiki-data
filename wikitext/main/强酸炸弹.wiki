@@ -1,0 +1,10 @@
+<noinclude>{{炼金术师导航}}
+'''强酸炸弹'''*（Acid bomb, Su）是[[炼金术师]]的[[科研发现]]。
+
+</noinclude>{{Source|进阶玩家指南|Advanced Player's Guide|inline}}
+
+当炼金术师制作炼金炸弹时，他可以选择让它造成酸蚀伤害替代火焰伤害。受到强酸炸弹直接命中的生物会在1轮后受到1d6点额外酸蚀伤害。
+
+本页正文从 [[科研发现]] 总页拆出（译自 CHM 汉化）。<noinclude>
+
+[[分类:科研发现]]</noinclude>

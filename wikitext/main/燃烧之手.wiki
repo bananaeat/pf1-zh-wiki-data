@@ -1,0 +1,18 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[燃烧之手 (神话)]]。</small></div>
+{{Spell
+|name=燃烧之手
+|english_name=Burning Hands
+|school=塑能系
+|tags=火
+|levels=奥能师 1;女巫 1;导师 1;术士 1;法师 1;秘学士 1;萨满 1;血脉狂怒者 1;魔战士 1
+|domains=火领域 1
+|action=标准动作
+|components=语言;姿势
+|range=15尺
+|area=锥形爆发区域
+|duration=立即
+|save=反射，通过则减半
+|sr=是
+|description=锥形的灼热火焰从你的指尖喷出。所有在火焰区域内的生物都要受到每CL 1d4点火焰伤害 (最多5d4)。如果火焰接触到可燃材料，它们会烧起来。角色能以一个[[整轮动作]]扑灭燃烧的物品。
+|source=核心规则书
+}}

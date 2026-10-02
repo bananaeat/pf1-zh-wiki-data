@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[秽邪护甲 (神话)]]。</small></div>
+{{Spell
+|name=秽邪护甲
+|english_name=Defile armor
+|school=防护系
+|tags=邪恶
+|levels=反圣武士 3;审判者 4
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的护甲
+|duration=1分钟/等级
+|save=意志，通过则无效（无害，物体）
+|sr=是
+|description=如同[[神圣护甲]]，不过当你使用审判或制裁能力时获得DR 5/善良。
+|source=进阶玩家指南
+}}

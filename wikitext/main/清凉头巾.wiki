@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=清凉头巾
+|english_name=Keffiyeh of Cooling
+|aon=MagicWondrousDisplay.aspx?FinalName=Keffiyeh of Cooling
+|cat=奇物
+|aura=微弱防护系
+|cl=7
+|slot=头部
+|price=2,100 gp
+|weight=2磅
+|description=无论经历过多少次沙尘暴，这条头巾都始终洁白如新。它保护你免受炎热环境的影响，如同你被施加了[[忍受环境]]。它不提供对寒冷环境的魔法保护。
+|req=[[制造奇物]]、[[忍受环境]]
+|cost=1,050 gp，84 XP
+|source=烈焰传承玩家手册
+}}

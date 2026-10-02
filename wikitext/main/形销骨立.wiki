@@ -1,0 +1,11 @@
+{{Feat
+|name=形销骨立
+|english_name=Bag of Bones
+|pfs=否
+|description=你的不死生物本质已经改变了作为凡人的基本形态
+|prerequisites=食尸鬼
+|benefit=在计算挤进狭窄空间而承受的惩罚时，你的体型视为小一级，并且你的逃脱术检定获得+5表现加值。如果你拥有至少10个HD，这个加值上升到+4。（译注：AoN 原文作「+4」，疑为笔误，应为更高的数值。）
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1404.html
+}}

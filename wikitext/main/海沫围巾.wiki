@@ -1,0 +1,15 @@
+{{魔法物品
+|name=海沫围巾
+|english_name=Seafoam Shawl
+|aon=MagicWondrousDisplay.aspx?FinalName=Seafoam Shawl
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=肩部
+|price=6,000 gp
+|weight=1磅
+|description=这条精致的蕾丝披肩每天可以启动一次，赋予[[化鳍为趾]]（《进阶种族手册》）法术的效果：只要穿戴者位于干燥陆地上，就会把他的下部鳍或肢体变成双脚——除非被解除，此效果持续5小时。
+|req=[[制造奇物]]、[[化鳍为趾]]
+|cost=3,000 gp
+|source=进阶种族手册、极限宝具
+}}

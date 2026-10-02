@@ -1,0 +1,9 @@
+{{装备
+|name=担架
+|english_name=Stretcher
+|cat=工具
+|price=1 gp
+|weight=10磅
+|description=担架可以让两个人一起抬着一件重物行动，或是你一个人利用它来拖拽一件你无法直接承载的重物。一架担架最多可以承载300磅重量。
+|source=冒险者的军械库、极限宝具
+}}

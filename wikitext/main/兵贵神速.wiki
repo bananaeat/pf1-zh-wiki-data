@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=兵贵神速|en=Seize the Initiative|type=Su|domain=战争领域|sub=战术子域 (Tactics)|sub_name=战术子域|source=进阶玩家指南|text=此能力需在你和队友投[[先攻]]出结果前发动，可让30尺内一人双骰任取。每天“3+[[感知]]调整值”次。此能力替换[[战争领域#战斗狂暴 (Battle Rage, Sp)|战斗狂暴]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

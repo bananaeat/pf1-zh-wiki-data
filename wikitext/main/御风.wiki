@@ -1,0 +1,15 @@
+{{Feat
+|name=御风
+|english_name=Janni Style
+|categories=战斗;流派
+|description=你旋风般的格斗技巧令自己难以被击中。
+|prerequisites=[[精通徒手打击]]，[[特技]]3级，[[表演]]（舞蹈）3级。
+|benefit=你处于风灵[[流派]]架势中时，冲锋带来的AC罚值降为-1；[[夹击]]你的对手获得的攻击加值降为+1。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[乱披风]]、[[罡风惊天]]（2 个条目）

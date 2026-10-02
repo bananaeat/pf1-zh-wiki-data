@@ -1,0 +1,10 @@
+{{Feat
+|name=法术穿刺
+|english_name=Piercing Spell
+|categories=超魔
+|description=你从研究之中得到了克服[[特殊能力#法术抗力|法术抗力]]的方法。
+|benefit=当你释放一个穿刺超魔的法术用于克服目标的法术抗力时，将目标的法术抗力视为比正常情况下低5点。法术穿刺须占用高于原本1个环级的法术位。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

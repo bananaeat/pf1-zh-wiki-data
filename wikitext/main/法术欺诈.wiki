@@ -1,0 +1,11 @@
+{{Feat
+|name=法术欺诈
+|english_name=Spell Bluff
+|aon=Spell Bluff (UM)
+|description=你熟知[[法术决斗]]的奥秘，而且早已学会如何隐藏法术的本质直到最后一刻。
+|prerequisites=[[唬骗]]5级，法术辨识5级。
+|benefit=如果一个其他的施法者试图反制你的法术，那么她在辨识你法术的[[法术辨识]]检定DC+4。因为你已经学会了如何掩盖你的法术的辨识元素，你在辨识或者反制他人法术的法术辨识上获得+2加值，前提是那些法术都是你所知道的（针对自发施法者）或者在你的[[法师#法术书|法术书]]上的。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

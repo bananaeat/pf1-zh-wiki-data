@@ -1,0 +1,11 @@
+{{Feat
+|name=精通投掷战锤
+|english_name=Improved Hammer Throw
+|categories=战斗
+|description=你用远程攻击击倒敌人的本领令人赞叹。
+|prerequisites=智力13、[[寓守于攻]]、投掷战锤、[[精通摔绊]]、近距射击、[[精准射击]]、BAB+6、矮人。
+|benefit=你可以对任何距离、任何体型的目标使用[[投掷战锤]]专长。
+|source=HftF
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/zh72cd9d7a9f.htm
+}}

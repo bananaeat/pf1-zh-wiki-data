@@ -1,0 +1,14 @@
+{{魔法物品
+|name=蝾螈预防珠
+|english_name=Bead of Newt Prevention
+|aon=MagicWondrousDisplay.aspx?FinalName=Bead of Newt Prevention
+|cat=奇物
+|aura=微弱防护系
+|cl=5
+|slot=无
+|price=1,000 gp
+|description=这颗珠子上刻着一个小小的象形图案，画的是蝾螈、兔子或青蛙之类的无害小动物。如果持有者在对抗敌对的变形效果（例如[[恶意变形术]]）的豁免检定中失败，珠子就会破碎，该效果不会影响持有者。
+|req=[[制造奇物]]、[[解除魔法]]
+|cost=500 gp
+|source=极限宝具
+}}

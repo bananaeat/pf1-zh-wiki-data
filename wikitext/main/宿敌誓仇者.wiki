@@ -1,0 +1,9 @@
+{{Trait
+|name=宿敌誓仇者
+|english_name=Sworn Enemy
+|type=战斗
+|description=你自幼被灌输了对特定类型敌人的反抗、恐惧或仇恨。为使你做好对抗此类敌人的准备，你曾接受过长时间的专业训练。从游侠的宿敌列表中选择一类敌人，你在对该类敌人的[[借机攻击]]中获得+1背景加值。
+建议角色：[[矮人]]，依斯嘉人，蒙蒂维圣教军
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

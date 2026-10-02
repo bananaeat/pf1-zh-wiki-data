@@ -1,0 +1,11 @@
+{{Feat
+|name=破胆威吓
+|english_name=Visceral Threat
+|categories=战斗
+|description=你的可怖已经可以惊得敌人手忙脚乱
+|prerequisites=威逼
+|benefit=你可以使用威吓技能而非唬骗技能来对处于你的近战范围内的目标发动虚招。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1399.html
+}}

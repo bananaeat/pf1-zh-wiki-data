@@ -1,0 +1,10 @@
+{{Feat
+|name=双重借机
+|english_name=Paired Opportunists
+|categories=战斗;团队
+|description=你明白如何让敌人为了懈怠的防守而付出代价。
+|benefit=每当你邻近一名拥有该专长的盟友，那么在对抗同时处于你们威胁范围内的生物时，你们的[[借机攻击]]都会获得+4环境加值。若敌人处于你的威胁范围，那么只要他引起你的盟友的借机攻击，就也会引起你的借机攻击（即使由于某些能力或者环境，导致正常情况下不会引起你的借机攻击）。在对抗一名生物的一次特定动作时，该专长不会允许你获得超过一次的借机攻击机会。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

@@ -1,0 +1,16 @@
+{{Spell
+|name=精神蛀虫 I
+|english_name=Thought worm i
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=异能者 2
+|action=标准动作
+|components=姿势
+|range=近距
+|target=一个生物
+|duration=1轮/等级
+|save=意志，通过则无效
+|sr=是
+|description=你将一个微弱的暗示植入到目标生物的精神中，使其更不倾向于抵抗精神入侵。在法术持续时间内，目标在对抗所有影响心灵的法术和效果的意志豁免上承受-2减值。
+|source=异能选集
+}}

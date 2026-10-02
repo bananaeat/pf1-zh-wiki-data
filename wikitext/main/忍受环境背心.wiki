@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=忍受环境背心
+|english_name=Vest of Endure Elements
+|aon=MagicWondrousDisplay.aspx?FinalName=Vest of Endure Elements
+|cat=奇物
+|aura=微弱防护系
+|cl=1
+|slot=躯体
+|price=1,000 gp
+|description=这件长长的羊皮背心穿戴时赋予[[忍受环境]]法术的效益。你必须穿戴忍受环境背心24小时，它才会开始生效。
+|req=[[制造奇物]]、[[忍受环境]]
+|cost=500 gp，40 XP
+|source=赤鸦飞翔
+}}

@@ -1,0 +1,15 @@
+{{Feat
+|name=锐爪
+|english_name=Sharpclaw
+|categories=战斗
+|description=你的指甲长又硬。
+|prerequisites=鼠族。
+|benefit=你获得两次爪抓攻击。这是主要天武攻击，它们可以造成1d4点伤害。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[掘地利齿]]（1 个条目）

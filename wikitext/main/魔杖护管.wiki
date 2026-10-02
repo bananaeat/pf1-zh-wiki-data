@@ -1,0 +1,14 @@
+{{魔法物品
+|name=魔杖护管
+|english_name=Wand Protector
+|aon=MagicWondrousDisplay.aspx?FinalName=Wand Protector
+|cat=奇物
+|aura=微弱防护系
+|cl=5
+|slot=无
+|price=18,500 gp
+|description=这根上漆的木管是为在运输途中保护魔杖而设计的。以副手握持时，持用者可以用魔杖安全地施展法术，而不会有引发[[原能魔法]]事件的几率（《探索者战役设定：[[内海魔法]]》第13页）。魔杖护管只能搭配施放时间为[[标准动作]]或更短的魔杖使用。一旦魔杖护管避免了10次原能魔法事件，就会崩解为尘土。
+|req=[[制造奇物]]、[[解除魔法]]
+|cost=9,250 gp
+|source=废土子民
+}}

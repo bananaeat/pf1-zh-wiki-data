@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=流派精通缠腰布
+|english_name=Dhoti of Style Mastery
+|aon=MagicWondrousDisplay.aspx?FinalName=Dhoti of Style Mastery
+|cat=奇物
+|aura=微弱死灵系
+|cl=3
+|slot=躯体
+|price=5,400 gp
+|weight=1磅
+|description=穿戴者在穿着流派精通缠腰布时进入某个流派专长的架势，会获得1d8+3点临时生命值，并且他拥有的每个把该流派专长列为先决条件的专长，再额外获得1d8点临时生命值（最多3d8+3点临时生命值）。这些临时生命值在该场战斗中穿戴者维持该架势期间一直有效，但战斗结束时消失。穿戴者每天只能以这种方式获得一次临时生命值。
+|req=[[制造奇物]]、任一流派专长、[[虚假生命]]
+|cost=2,700 gp
+|source=冒险者指南
+}}

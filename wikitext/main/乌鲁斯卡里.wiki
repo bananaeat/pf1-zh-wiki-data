@@ -1,0 +1,43 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=乌鲁斯卡里
+|english_name=Uruskreil
+|title=金属之翼（The Metal Wing）
+|alignment=守序邪恶（LE）
+|weapon=[[弯刃大刀]]
+|portfolio=盔甲，无情，启示
+|domains=[[邪恶领域(领域)|邪恶]]，[[秩序领域|秩序]]，[[荣耀领域|荣耀]]，[[力量领域|力量]]
+|subdomains=[[秩序领域#魔鬼子域 (Devil)|魔鬼子域（秩序）]]，[[邪恶领域(领域)#魔鬼子域 (Devil)|魔鬼子域（邪恶）]]，[[荣耀领域#诚实子域 (Honor)|诚实子域]]，[[力量领域#决意子域 (Resolve)|决意子域]]，[[秩序领域#暴政子域 (Tyranny)|暴政子域]]
+|symbol=金属翅膀和火焰
+|symbol_label=邪徽
+|animal=锹形虫
+|color=棕色，铁灰色
+|pantheon=炼狱大公
+|source=内海诸神、永罪之书
+}}
+
+'''乌鲁斯卡里'''（Uruskreil）是[[炼狱大公与地狱公爵|炼狱大公]]之一。
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+用你的武器彻底摧毁一些脆弱的东西。对抗[[属性伤害]]或[[属性吸取]]的法术或效果的豁免有+4亵渎加值。
+
+=== 神恩 ===
+
+通过[[魔族仪典]]获得，表现为每项每日可用1次的类法术能力：
+
+{{神恩|n=1|name=|en=|type=Sp|text=每日1次以类法术能力施放[[魔化防具]]。}}
+
+{{神恩|n=2|name=|en=|type=Sp|text=每日1次以类法术能力施放[[死亡一指]]。}}
+
+{{神恩|n=3|name=|en=|type=Sp|text=每日1次以类法术能力施放[[火焰之躯]]。}}
+
+== 信徒可用 ==
+* '''专长'''：[[炼狱镣铐]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1554.html 原文]），原在总页 [[炼狱大公与地狱公爵]]。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Uruskreil|2=Uruskreil}}
+[[分类:魔神]]

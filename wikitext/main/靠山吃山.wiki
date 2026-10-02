@@ -1,0 +1,10 @@
+{{Feat
+|name=靠山吃山
+|english_name=Live off the Land
+|description=当你旅行时，你能从大自然的慷慨中获得你需要的东西。
+|prerequisites=偏好地形职业能力。
+|benefit=你（以及任何被你以生存技能帮助的盟友）可以在使用生存技能获取食物和水的同时全速移动，并且在如此做时，你的生存检定获得+4加值。假如你处于你的偏好地形，且施放了[[造粮术]]、[[造水术]]、或任何类似的创造食物和饮品的法术时，你的施法者等级获得加值，该加值等同于「你偏好地形加值的一半」。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

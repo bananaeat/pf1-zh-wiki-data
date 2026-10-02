@@ -1,0 +1,11 @@
+{{Feat
+|name=恍惚拳
+|english_name=Staggering Fist
+|categories=战斗
+|description=你巧妙的一击命中对手的秘孔，使他神智不清
+|prerequisites=敏捷13，感知13，[[精通徒手打击]]，基础攻击加值+2
+|benefit=你必须在投掷攻击骰之前宣告使用此专长（因此，未命中会导致尝试失败）。恍惚拳在正常造成伤害的同时，还会强制受到你徒手打击伤害的敌人进行一次DC=10+1/2你的角色等级+感知调整值的强韧豁免检定。豁免检定失败的防御者将恍惚1轮。每4个角色等级，你每天可以尝试使用一次本专长，但每轮不能超过1次。构装、泥怪、植物、不死、[[虚体]]生物和免疫重击的生物不会被本专长影响。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

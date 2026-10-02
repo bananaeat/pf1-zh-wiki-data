@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Goblins of Golarion pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=犬魔之力
+|english_name=Strength of the Barghest
+|type=宗教
+|pfs=否
+|prerequisites=地精、哈特加殊
+|description=犬魔之血在你体内十分强大。每天一次，你可以用一个自由动作，使你的任意一次力量检定或基于力量的技能检定获得+2背景加值。
+|source_name=格拉利昂的地精
+|source=GoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Strength%20of%20the%20Barghest
+}}

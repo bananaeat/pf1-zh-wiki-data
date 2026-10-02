@@ -1,0 +1,10 @@
+{{Trait
+|name=安哥拉德之焰
+|english_name=Angradd's Flame
+|type=宗教
+|prerequisites=信仰[[安哥拉德]]
+|description=对锻造之火的虔诚使你心中对于战争的热忱熊熊燃烧。每当你确认了一次重击时，你都会额外对目标造成1点伤害。该伤害视作精准伤害。
+|source_name=废土子民
+|source=PotW
+|source_url=https://pf1chm.pages.dev/topics/page_1192.html
+}}

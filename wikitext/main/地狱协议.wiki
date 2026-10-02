@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|位面旅者手册|Plane-Hopper's Handbook}}
+'''地狱协议'''（Infernal Bargain, Sp）是[[操念使]]的[[原力]]。
+
+元素：通用；类别：通用（Sp）；等级：1；超载：0
+
+前置：[[魔裔]]或位面谐律专长（地狱）
+
+豁免：无；[[特殊能力#法术抗力|法术抗力]]：可
+
+在对任何自愿目标使用[[通用原力]]之前，以一个[[迅捷动作]]你可以施加[[条件式恩惠]]的效果，除了此效果应用于任何有益的通用原力而不是特定学派的法术。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Infernal Bargain|2=Infernal Bargain}}
+
+[[分类:原力]]

@@ -1,0 +1,36 @@
+<includeonly>{{#if:{{{description|}}}|''{{{description}}}''}}
+
+{{{lore|}}}{{#if:{{{members|}}}|<nowiki/>
+== 本族怪物 ==
+{{{members}}}}}<nowiki/>
+{{条目页脚|速查=怪物速查|分类=怪物绪论}}{{#ifeq:{{{nocat|}}}|1||[[分类:怪物绪论]]}}</includeonly><noinclude>
+==说明==
+怪物图鉴里的'''绪论页'''——一个族群的总述和共通规则（[[天使绪论]]、[[恶魔绪论]]、
+[[龙类绪论]]…）。这类页原书里没有属性块，所以不用 [[模板:怪物]]，正文照原书排，
+末尾列出本族的怪物。
+
+ {{怪物绪论
+ |name=天使绪论
+ |english_name=Angel
+ |description=天使是天界的一个种族，居住在善良外层界面的存在。
+ |lore=
+ （正文：段落、=== 小标题 ===、* 列表、HTML 表格）
+ |members=
+ * [[天使，星界使徒]]（CR 14）
+ * [[天使，异界神使]]（CR 16）
+ }}
+
+===参数===
+* <code>name</code>：绪论名（默认取页名，只作数据用）
+* <code>english_name</code>：英文名（只作数据用）
+* <code>description</code>：开头那一句风味描述，斜体排
+* <code>lore</code>：正文。'''表格要写成 HTML'''（<code>&lt;table class="wikitable"&gt;</code>）——
+  wikitable 的裸竖线会被当成模板参数的分隔符
+* <code>members</code>：本族怪物列表（<code>* [[页名]]（CR n）</code> 一行一个）
+* <code>nocat=1</code>：不进分类（示例页用）
+
+每页自动进 <code>[[:分类:怪物绪论]]</code>，页脚导航和怪物页一样。
+由 <code>tools/build_monster_families.py</code> 生成。
+
+[[分类:模板]][[分类:规则模板]]
+</noinclude>

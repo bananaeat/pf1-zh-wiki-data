@@ -1,0 +1,10 @@
+{{Feat
+|name=翼魔
+|english_name=Fiendish Wings
+|pfs=否
+|description=你拥有了那有能力带你到高处的巨大翅膀。你通过这种方式获得的翅膀各不相同，从在恶魔和魔鬼中常见的类蝙蝠翅膀，到莎[[祖瑞尔]]的将军们的那种羽翅，再到链魔们的那种伸展皮膜。
+|prerequisites=邪恶亚种的非本地异界生物。
+|benefit=你的翅膀赋予了你等同于你基础速度的飞行速度，并拥有良好机动性。
+|source_name=永罪之书
+|source_url=https://pf1chm.pages.dev/topics/zh952dc99db5.htm
+}}

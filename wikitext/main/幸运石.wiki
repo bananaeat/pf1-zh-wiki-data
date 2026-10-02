@@ -1,0 +1,14 @@
+{{魔法物品
+|name=幸运石
+|english_name=Stone of Good Luck (Luckstone)
+|aon=MagicWondrousDisplay.aspx?FinalName=Stone of Good Luck (Luckstone)
+|cat=奇物
+|aura=微弱塑能系
+|cl=5
+|slot=无
+|price=20,000 gp
+|description=这块小小的玛瑙使持有者在豁免检定、属性检定和技能检定上获得+1幸运加值。
+|req=[[制造奇物]]、[[神恩]]
+|cost=10,000 gp
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=柯莱士公主
+|english_name=Keleshite Princess
+|type=社会
+|prerequisites=卡蒂亚柯莱士女性
+|description=你在成长过程中认为周围的人都应该顺从于你，无论他们的地位如何，而且他们还不能畏于你的命令。你在[[交涉]]和[[威吓]]检定上获得+1背景加值，其中一个技能（由你选择）成为你的本职技能。
+|source_name=卡蒂亚，通向东方的大门
+|source_url=https://pf1chm.pages.dev/topics/page_1005.html
+}}

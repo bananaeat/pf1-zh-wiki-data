@@ -1,0 +1,12 @@
+{{魔法物品
+|name=矮人板甲
+|english_name=Dwarven Plate
+|cat=特殊魔法护甲
+|base=[[全身甲]]（[[精金]]）
+|aura=无灵光（非魔法）
+|slot=护甲
+|price=16,500 gp
+|weight=50磅
+|description=这套[[全身甲]]是用[[精金]]锻打而成的，它可以给穿戴者提供DR 3/–。
+|source=核心规则书、极限宝具
+}}

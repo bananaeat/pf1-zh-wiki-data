@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[增强召唤]] 的神话版本。</small></div>
+{{Feat
+|name=增强召唤
+|english_name=Augment Summoning
+|categories=神话
+|description=你的召唤法术呼唤来的并非普通野兽，取而代之的是神话生物响应了你的呼唤。
+|prerequisites=[[增强召唤]]
+|benefit=你使用召唤法术召唤出的任何生物，在与其他神话生物进行互动时，被算作是神话生物。这并不会赋予它们任何神话能力或力量，不过在被神话法术或能力影响时，它们就如同1阶神话生物一般。除此之外，若被召唤的生物具有伤害减免，它的伤害减免会变为DR/传奇。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

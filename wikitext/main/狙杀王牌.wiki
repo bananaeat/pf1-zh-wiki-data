@@ -1,0 +1,12 @@
+{{Feat
+|name=狙杀王牌
+|english_name=Master Sniper
+|categories=战斗
+|description=你出神入化的狙击技术足以在被迫转移前连射敌人两发。
+|prerequisites=[[老练狙击]]，[[快速射击]]，隐匿技能等级6
+|benefit=当处于隐藏状态时，你可以以一个[[整轮动作]]以最高攻击加值发动两次远程攻击然后立刻重新尝试潜行。你正常在尝试重新潜行时在技能检定上承受狙击减值，影响狙击攻击的所有相关效果也正常生效，并且这两次攻击的攻击检定承受-2减值。
+|normal=你在狙击时只能发动一次攻击。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

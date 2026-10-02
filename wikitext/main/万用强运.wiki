@@ -1,0 +1,10 @@
+{{Feat
+|name=万用强运
+|english_name=Adaptive Fortune
+|description=你拥有近乎传奇一般的运气。
+|prerequisites=[[幸运儿]]，【万用幸运】种族特性，角色等级10，半身人。
+|benefit=你的【万用幸运】[[种族特性]]的每日使用次数增加1次。此外，当你使用万用幸运时，每种用法的幸运加值额外+2。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

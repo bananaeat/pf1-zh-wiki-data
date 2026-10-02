@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=必胜号角
+|english_name=Horn of Assured Victory
+|aon=MagicWondrousDisplay.aspx?FinalName=Horn of Assured Victory
+|cat=奇物
+|aura=中等惑控系
+|cl=11
+|slot=无
+|price=13,000 gp
+|weight=3磅
+|description=这支盘绕的战斗号角由上好的黄铜制成。吹响时，其嘹亮的号声在最远2英里外都能清晰听见，除暴风外的任何天气都无法将其盖过。每日1次，[[集团战斗|军队]]的指挥官可以吹响号角来鼓舞部队。这会使军队在OM（进攻修正）检定和士气检定上获得+2加值。在那场战斗中，军队还会额外获得等同于其ACR（军队挑战等级）的生命值。
+|req=[[制造奇物]]、[[援助术]]
+|cost=6,500 gp
+|source=冒险之路74：勇气之刃
+}}

@@ -1,0 +1,37 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #122: Into the Shattered Continent
+|authors=Robert Brookes
+|pages=96
+}}
+
+{{书页/简介|head=岛上暗流|1=
+在稳固了他们位于失落大陆阿兹兰特一块幸存碎片上的聚居地之后，冒险者们协助殖民地探索岛上其余地区，寻找资源并留意潜在危险。很快，他们得知一名海鬼婆正试图复兴阿兹兰特人强大的神谕之力，威胁着岛上居民。但更大的危险摆在面前：他们开始注意到聚居地里有些人举止异常——这是原先那批殖民者失踪后遗留线索的一次令人不寒而栗的回响。殖民地里有邪恶的势力在运作，冒险者们必须在自己沦为这场恶毒阴谋的下一批受害者之前，揭穿这个威胁着聚居地的凶险威胁。
+
+本册《冒险之路》延续「阿兹兰特废墟」冒险之路，内容包括：
+
+* 《深入破碎大陆》，一部面向 4 级角色的开拓者角色扮演游戏冒险，作者 Robert Brookes。
+* 一部地志，介绍这个故事展开地区的部分历史、有趣居民与名胜，作者 Adam Daigle。
+* 一批来自远古阿兹兰特的稀有魔法宝物，作者 Ron Lundeen。
+* 一部满是栖居于诸岛的怪物的怪物图鉴，作者 Ayla Arthur、Robert Brookes、Lucas J.W. Johnson、Robin Loutzenhiser 和 Mark Moreland。
+}}
+
+'''冒险之路122：深入破碎大陆'''（''Pathfinder #122: Into the Shattered Continent''）是[[冒险之路]]「阿兹兰特废墟」系列的第二部冒险，由 Robert Brookes 撰写，配套文章出自 Adam Daigle、Ron Lundeen 等 6 位作者，于 2017 年 9 月 20 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+深入破碎大陆 @ 4
+NPC 图集 @ 58
+阿兹兰特废墟地志 @ 64
+阿兹兰特宝藏 @ 72
+怪物图鉴 @ 80
+}}
+
+{{书页尾
+|pfw=Into the Shattered Continent
+|releases=Softcover¦PZO90122¦2017-09¦978-1-60125-972-1；PDF¦PZO90122E¦¦
+}}
+
+[[分类:书目]]

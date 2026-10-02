@@ -1,0 +1,11 @@
+{{Feat
+|name=牙突零
+|english_name=Outslug Sprint
+|categories=战斗
+|description=你突入和位移的速度快如闪电。
+|prerequisites=牙突式，牙突进，智力13，突刺，寓守于攻或拳师武学智慧职业能力，对所选武器拥有武器专攻专长
+|benefit=当开启牙突式架势时，你在进行五尺快步时可以额外移动5尺距离。
+|source=WMH
+|source_name=武器大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=额外自发法术掌握
+|english_name=Extra Spontaneous Spell Mastery
+|description=你能够比你地同侪更频繁地自发施放你已掌握的法术。
+|prerequisites=玛伽姆比亚秘术师自发法术掌握职业特性
+|benefit=你获得一次额外的自发法术掌握每日使用次数。
+|special=你可以多次选取这个专长。
+|source=AA
+|source_name=秘术选集
+|source_url=https://pf1chm.pages.dev/topics/zh9e110583ac.htm
+}}

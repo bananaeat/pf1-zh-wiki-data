@@ -1,0 +1,9 @@
+{{Trait
+|name=守秘人
+|english_name=Secret-Keeper
+|type=社会
+|description=在一片猜忌弥漫、任何异端或异议指控都可能为整个家族招致灭顶之灾的土地上成长，你早早学会了严守秘密。你在[[唬骗]]检定上获得+1背景加值，并在对抗预言系法术、支配效果及强迫你说出真相的效果时，豁免检定获得+1背景加值。
+建议角色：切利亚斯人，伽尔特人，奈多人
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

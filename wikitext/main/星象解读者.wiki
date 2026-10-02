@@ -1,0 +1,10 @@
+{{Trait
+|name=星象解读者
+|english_name=Star Reader
+|type=地区
+|prerequisites=雨浸湿地
+|description=你是失落的利尔刚文明为数不多的后裔之一。在成长过程中对本族历史的学习，让你对天象占卜有了深入的理解，同时也对那些崇拜恶魔、如今统治着你祖先土地的怪物怀有深深的仇恨。在星光下,你所有预言学派法术的施法者等级+1。如果你的法术目标是恶魔,则施法者等级+2。
+|source_name=恶魔猎人手册
+|source=DHH
+|source_url=https://pf1chm.pages.dev/topics/zh143e5b3a4e.htm
+}}

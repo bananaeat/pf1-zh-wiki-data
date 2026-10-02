@@ -1,0 +1,10 @@
+{{Feat
+|name=强能巫术
+|english_name=Amplified Hex
+|description=你可以将魔法能量导入自己的[[巫术]]，增强它们的力量
+|prerequisites=巫术职业能力
+|benefit=你可以将至少为1环的法术位或已准备的法术消耗掉从而强化你的巫术。在一天之中，每次你使用本能力都必须消耗一个比上一次高一环的法术位或已准备法术（第二次使用时消耗2环，第三次消耗3环，以此类推）。你可以选择增强一个巫术，并选择以下效果之一：增加它的豁免DC1点，增加它的有效距离30尺（前提是这个巫术拥有至少30尺基本距离）或是增加它的持续时间1轮（前提是它至少持续1轮）。
+|source=ACO
+|source_name=进化职业起源
+|source_url=https://pf1chm.pages.dev/topics/page_500.html
+}}

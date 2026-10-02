@@ -1,0 +1,15 @@
+<noinclude>{{速查导航|here=规则}}
+{{消歧义|法术}}
+'''法术'''（Spells）是一条[[通用怪物规则]]。
+<div class="skill-head"></div>
+</noinclude><includeonly><div class="lang"><span id="法术"></span><span id="法术(怪物能力)"></span><div class="lang-h"><b>[[法术(怪物能力)|法术]]</b><i>Spells</i></div><div class="lang-d"></includeonly>
+该生物可以如同某个施法职业的成员一般施放法术。在判断与施法有关的任何效果或能力时，该生物被视为属于该职业。举例说明：它能够使用该职业可以使用的法术完成型和法术触发型物品，也可以使用那些影响该职业施法能力的魔法物品（比如[[冥想熏香]]和[[法力再生珍珠]]）。如果该生物具有任何其他与该职业相关的能力（比如牧师的领域或者术士的血统），也会在其条目中说明。若该生物获得了这个施法职业的等级，那么这些能力会叠加（举例说明：[[幽魂娜迦]]若获得 3 个术士等级，便如同 10 级术士一般施法）。有些生物可能具有该职业的施法者无法获得的特殊能力（比如幽魂娜迦可以把牧师法术加入其术士已知法术）。
+<includeonly></div></div></includeonly>
+
+{{FAQ|v5748eaic9qps}}
+
+<noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Spells|2=Spells}}
+
+[[分类:通用怪物规则]]</noinclude>

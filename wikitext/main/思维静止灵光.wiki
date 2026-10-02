@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''思维静止灵光'''（Mental Static Aura）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Su</span><span class="sk-f">位置：灵光</span></div>
+</noinclude><includeonly><div class="lang"><span id="思维静止灵光"></span><div class="lang-h"><b>[[思维静止灵光]]</b><i>Mental Static Aura</i><span class="lang-w">Su · 灵光</span></div><div class="lang-d"></includeonly>
+具有该能力的生物会在自己周围制造一个领域，使没有该能力的生物难以保持精神集中。30 尺内的活物必须通过一次专注检定（DC = 10 + 具有思维静止灵光的生物的生命骰的 1/2 + 该生物的魅力调整值），才能施放带有思维成分的法术（思维成分详见《[[异能冒险]]》）。检定失败会使该法术损失，且不产生任何效果。此外，所有正在专注维持某个进行中的法术或效果的施法者，必须在自己回合开始时进行上述检定。失败则意味着他们停止对该法术或效果的专注。具有该能力的生物免疫它的效果，并且可以如常施法。
+
+'''格式'''：思维静止（DC 18）
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Mental Static Aura|2=Mental Static Aura}}
+
+[[分类:通用怪物规则]]</noinclude>

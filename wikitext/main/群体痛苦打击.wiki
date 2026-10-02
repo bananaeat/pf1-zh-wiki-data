@@ -1,0 +1,16 @@
+{{Spell
+|name=群体痛苦打击
+|english_name=Pain strike, mass
+|school=塑能系
+|tags=邪恶;痛苦
+|levels=异能者 4;唤魂师 5;奥能师 5;女巫 5;术士 5;法师 5
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=每等级1名活物，互相之间不超过30尺
+|duration=1轮/等级 (可解消)
+|save=强韧，通过则无效
+|sr=是
+|description=这个法术工作方式如同[[痛苦打击]]，除了上述部分。
+|source=进阶玩家指南
+}}

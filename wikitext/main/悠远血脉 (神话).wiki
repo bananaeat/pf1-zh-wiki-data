@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[悠远血脉]] 的神话版本。</small></div>
+{{Feat
+|name=悠远血脉
+|english_name=Eldritch Heritage
+|categories=神话
+|description=你的[[术士]]祖先所流传下的血脉融入了你的神话力量，并且产生了很大的影响。
+|prerequisites=[[悠远血脉]]
+|benefit=你会获得[[悠远血脉]]专长中所选术士血统的[[血统力量]]，就如同你的术士等级为你的角色等级-2一般。对于血统的1级血统力量来说，使用你的完整角色等级来确定其效果，而其他血统力量则视你的术士等级为你的角色等级-2级。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

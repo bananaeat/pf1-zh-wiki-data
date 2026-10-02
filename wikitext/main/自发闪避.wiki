@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=自发闪避
+|english_name=Reflexive Dodge
+|type=Ex
+|categories=防御
+|prerequisites=[[野蛮人]]6级，[[轮摆位移]]
+|benefit=当野蛮人启动【[[轮摆位移]]】[[狂暴之力]]时，他可以将他的闪避AC加值加到反射检定上。
+|source_name=极限战斗
+}}

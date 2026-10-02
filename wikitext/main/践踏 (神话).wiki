@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[践踏]] 的神话版本。</small></div>
+{{Feat
+|name=践踏
+|english_name=Trample
+|categories=神话
+|description=你驯养的坐骑能够使用双蹄践踏地上的敌人。
+|prerequisites=[[践踏]]
+|benefit=若敌人被你的[[闯越]]击倒，你的坐骑能够对他进行两次蹄击攻击，以取代原本的1次。当这些蹄击攻击引起1次或更多次重击时，你能够花费1次神话之力。若你这么做，重击会自动确认。若两次都引起重击，花费1次神话之力会使两次都自动确认。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

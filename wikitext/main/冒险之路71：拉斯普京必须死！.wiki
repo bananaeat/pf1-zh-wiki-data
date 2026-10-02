@@ -1,0 +1,60 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #71: Rasputin Must Die!
+|authors=Brandon Hodge
+|pages=96
+}}
+
+{{书页/简介|head=世界大战|1=
+对女巫之王的搜寻终于画上句号：舞动小屋抵达了芭芭雅嘎的故乡——地球上的俄罗斯。此时是 1918 年，第一次世界大战正在欧洲肆虐。英雄们身处西伯利亚荒野，必须面对配备 20 世纪科技装备的俄国士兵，潜入一座古老的修道院，从芭芭雅嘎那位关系疏远的儿子格里戈里·拉斯普京（Grigori Rasputin）手中救出她。英雄们能否杀死已经骗过一次死神的“疯修士”并释放芭芭雅嘎，还是会倒在现代战争的恐怖面前？
+
+本册《冒险之路》延续「冬临天下」冒险之路，内容包括：
+
+* 《拉斯普京必须死！》，一部面向 13 级角色的开拓者角色扮演游戏冒险，作者 Brandon Hodge。
+* 一瞥革命之中的俄罗斯的文化氛围，并附上她的战争武器规则，作者 Adam Daigle 和 Brandon Hodge。
+* 揭秘战争驭者[[祖瑞尔]]及其残酷的猎魂之旅，作者 Sean K Reynolds。
+* 在「探索者日志」中，蜘蛛对阵有知觉的人偶，作者 Kevin Andrew Murphy。
+* 四种新怪物，作者 Adam Daigle、Brandon Hodge 和 Sean K Reynolds。
+}}
+
+'''冒险之路71：拉斯普京必须死！'''（''Pathfinder #71: Rasputin Must Die!''）是[[冒险之路]]「冬临天下」系列的第五部冒险，由 Brandon Hodge 撰写，配套内容出自 Adam Daigle 和 Sean K Reynolds，小说出自 Kevin Andrew Murphy，于 2013 年 6 月 26 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+拉斯普京必须死！ @ 6
+NPC 图集 @ 54
+冬临天下宝藏 @ 60
+- 黑修士的教士袍（cassock of the Black Monk）
+- [[次元手榴弹]]
+- 前线士兵防毒面具（frontovik's gas mask）
+- 毒气陷阱罐（gas-trap cylinder）
+- [[压制火力马克沁]]
+- 狙击手头盔（sniper's helmet）
+- 幽灵探照灯（spectral searchlight）
+- 通灵号角（trumpet of spirit speaking）
+枪炮、幽魂与革命 @ 62
+- [[阿森迫击炮]]
+- [[毒气罐]]
+- [[哈齐开斯6磅速射炮]]
+- [[劳伦斯1917型火焰喷射器]]
+- [[劳伦斯1917型火焰喷射器燃料缸]]
+- [[M1914手榴弹（冲击）]]、[[M1914手榴弹（破片）]]
+- [[M1917毒气手榴弹]]
+- [[麦德森轻机枪]]
+- [[马克沁M1910重机枪]]
+- [[莫辛-纳甘M1891步枪]]
+- [[纳甘M1895左轮手枪]]
+[[祖瑞尔]] @ 70
+探索者日志：骨粉玩偶（5／6） @ 76
+怪物图鉴 @ 82
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Rasputin Must Die!
+|releases=PDF¦PZO9071E¦2013-06¦；Softcover¦PZO9071¦2013-06¦
+}}
+
+[[分类:书目]]

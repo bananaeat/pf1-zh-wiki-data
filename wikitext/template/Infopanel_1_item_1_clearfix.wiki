@@ -1,0 +1,1 @@
+<includeonly><div class="clearfix {{{class|}}}"></div></includeonly>

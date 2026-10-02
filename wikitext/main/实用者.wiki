@@ -1,0 +1,9 @@
+{{Trait
+|name=实用者
+|english_name=Pragmatic Activator
+|type=魔法
+|description=不少人知道如何勉强运用魔法装置，但你要专业得多。你可以在进行[[使用魔法装置]]检定时用智力修正取代魅力修正。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

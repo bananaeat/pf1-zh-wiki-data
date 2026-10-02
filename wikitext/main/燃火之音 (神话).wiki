@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[燃火之音]] 的神话版本。</small></div>
+{{Feat
+|name=燃火之音
+|english_name=Fire Music
+|categories=神话
+|description=你能够巧妙地将古老的火之旋律融入自身的法术中。
+|prerequisites=[[燃火之音]]
+|benefit=当你使用[[燃火之音]]专长，并以此来将任何吟游诗人法术造成的伤害变为火焰伤害时，该伤害会忽略最高等同于你的阶层点火焰抗力。若你以吟游诗人法术施放[[召唤怪物]]法术，并赋予召唤出的生物燃烧的外观，该名生物的火焰抗力增加5点（加到燃火之音已经赋予的抗力之上），并使它们的所有天生攻击造成1d4点火焰伤害，以取代燃火之音专长正常赋予的+1点火焰伤害。具有火系亚种的生物也会获得这些好处。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

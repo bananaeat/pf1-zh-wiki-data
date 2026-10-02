@@ -1,0 +1,11 @@
+{{Feat
+|name=暗影黑衣
+|english_name=Shadow Shroud
+|pfs=否
+|description=你呼唤自己的内在魔力，用黑暗包裹身躯来规避攻击
+|prerequisites=战斗反射，黑暗术种族类法术能力
+|benefit=以一个直觉动作，你可以在自己的身周召唤出迷眼的黑暗屏障，使你对一次攻击具有隐蔽，迷雾在该次攻击结算后消散。你每天可以发动本能力一次，当你以类法术能力施放黑暗术的施法者等级上升到5，10,15和20级时，再增加一次本能力的每日使用次数。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1400.html
+}}

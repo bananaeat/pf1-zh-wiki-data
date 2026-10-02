@@ -1,0 +1,10 @@
+{{Feat
+|name=枪械亲熟
+|english_name=Grand Duchy Familiarity
+|description=你曾经在阿肯斯塔大公国境内度过了一些日子，在此期间与大量火器的接触使你获得了巧妙处理它们的能力。
+|prerequisites=基本攻击加值+3，至少擅长一种火器
+|benefit=每日1次以[[直觉动作]]，你能够在使用火器进行一次攻击检定并得到哑火的结果时重掷攻击检定。你必须接受重掷检定得到的结果，即便这次结果仍旧哑火也是如此。
+|source=ISC
+|source_name=内海战斗
+|source_url=https://pf1chm.pages.dev/topics/page_276.html
+}}

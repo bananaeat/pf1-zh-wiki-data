@@ -1,0 +1,9 @@
+{{Trait
+|name=组织天赋
+|english_name=Talented Organizer
+|type=宗教
+|prerequisites=信仰[[密拉妮]]
+|description=你在组织抵抗组织时很有你自己的一套，这多亏了你在鼓动人民时敏锐的直觉。你的察言观色获得+1背景加值，且察言观色视作你的[[本职技能]]。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

@@ -1,0 +1,11 @@
+{{消歧义|煽动者 (消歧义)}}
+{{Trait
+|name=煽动者
+|english_name=Inciter
+|aon=Inciter (Tiefling)
+|type=种族
+|prerequisites=[[魔裔]]
+|description=你似乎总是了解搬弄是非时使用何种言语是最完美的。当你使用唬骗检定使生物互相攻击时，获得+2背景加值。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_834.html
+}}

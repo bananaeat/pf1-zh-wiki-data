@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[诈欺师]] 的神话版本。</small></div>
+{{Feat
+|name=诈欺师
+|english_name=Deceitful
+|categories=神话
+|description=说起误导他人的技术，无人能与你匹敌。
+|prerequisites=[[诈欺师]]
+|benefit=[[诈欺师]]专长对[[唬骗]]与[[易容]]技能检定带来的加值增加2点。此外，你能够花费1次神话之力，使得1次唬骗或者易容检定就好像自然掷出20一般。你必须在进行检定之前决定使用该能力。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

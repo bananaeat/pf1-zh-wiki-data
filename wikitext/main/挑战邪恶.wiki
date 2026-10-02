@@ -1,0 +1,16 @@
+{{Spell
+|name=挑战邪恶
+|english_name=Challenge evil
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=圣武士 1
+|action=标准动作
+|components=语言;圣徽
+|range=近距
+|target=一名邪恶生物
+|duration=1分钟/等级 （可解消）
+|save=意志，通过则无效
+|sr=是
+|description=你挑战一名邪恶生物，使其与你战斗否则遭受后果。你对该法术受术者进行的所有近战攻击获得+2神圣加值。在目标回合结束时，如果他没有至少对你进行一次攻击，他会[[恶心]]。如果你远离目标，该法术结束。
+|source=进阶玩家指南
+}}

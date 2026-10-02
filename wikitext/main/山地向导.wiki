@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=山地向导
+|english_name=Mountain Guide
+|type=地区
+|prerequisites=五王山脉
+|description=你擅长在山区里过活，能找到隐秘的小径，以及通往山体下方洞穴的秘密入口。你在山区中进行的[[知识]]（地理）和[[生存]]检定获得+1背景加值，并且知识（地理）永远是你的本职技能。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Mountain%20Guide
+}}

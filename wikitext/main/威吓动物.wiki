@@ -1,0 +1,11 @@
+{{Feat
+|name=威吓动物
+|english_name=Intimidate Animals
+|categories=战斗
+|description=你精于用咆哮与怒火来威吓动物。
+|prerequisites=[[高等野性认同]]（UM），[[威吓]]5级，[[知识]]（自然）5级，野性认同职业能力。
+|benefit=你在对抗动物时的威吓检定上，除了加上你的魅力调整值以外，还能加上你的感知调整值。若你以一次挫败士气的威吓检定，对一只仅有4或更少的生命骰的动物成功的话，则该动物会陷入惊惧而非[[战栗]]。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

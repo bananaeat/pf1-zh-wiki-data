@@ -1,0 +1,19 @@
+{{物品
+|name=幸运纽扣
+|english_name=Lucky Button
+|category=冒险装备
+|aura=昏暗塑能系
+|cl=3级
+|slot=无（none）
+|price=1,200GP
+|weight=-磅
+|requirements=[[制造奇物]]，[[神导术]]，[[关照术]]
+|cost=600GP
+|description=出自：Heroes of the High Court pg. 13
+
+描述：
+
+这是不需要佩戴一个漂亮的纽扣，只需放在荷包或口袋里并由接受者携带即可。当赠送者给出一个幸运纽扣（lucky button）时它就会被激活。当赠送者授予一个幸运纽扣（lucky button）时，他指定一项技能。在1周内，接受者可以在该类型技能投骰中获得+2幸运加值（luck bonus）。
+|source=HotHC
+|source_name=皇庭英豪
+}}

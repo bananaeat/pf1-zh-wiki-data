@@ -1,0 +1,11 @@
+{{Feat
+|name=晋升狗头人
+|english_name=Redeemed Kobold
+|pfs=否
+|description=在善良的龙族的教导之下你建立起的纯洁本性，让你的鳞片染上色彩并给予你更大的信心。
+|prerequisites=善良阵营，[[狗头人]]
+|benefit=你的鳞片呈现出与善良金属龙相称的金属光泽，该金属龙需与你现有的能量亲和相同，或是你选择效仿的对象。在引起善良生物兴趣的交涉检定上你获得+2环境加值。另外，在判断引导正能量能力时，你的魅力视为比实际高2点。
+|source_name=格拉利昂的狗头人
+|source_url=https://pf1chm.pages.dev/topics/zh0d9b9d1f7d.htm
+|source=KoG
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=偏执狂
+|english_name=Desperate Focus
+|type=魔法
+|description=你发现自己经常处于失去专注比失去咒语更糟糕的境地。
+|benefit=你在专注检定上获得+2的背景加值。(出自切利亚斯，魔鬼王朝)
+|source_name=魔法背景
+|source=CEoD
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

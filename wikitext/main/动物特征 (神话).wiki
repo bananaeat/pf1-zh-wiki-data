@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[动物特征]]（Animal Aspect）的神话版本。</small></div>
+{{Spell
+|name=动物特征
+|english_name=Animal Aspect
+|school=变化系 (变形)
+|levels=德鲁伊 8;萨满 8
+|description=你获得昏暗视觉，将2点体型加值加到你所选择的身体属性上，同时你的天生防御获得+1增强加值。或者，你也可以将该法术的非神话形态施放到一名被接触到的自愿生物上。
+|source=神话冒险
+}}
+[[分类:神话法术]]

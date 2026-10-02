@@ -1,0 +1,10 @@
+{{Trait
+|name=分心专家
+|english_name=Expert Distractor
+|type=种族
+|prerequisites=[[火元素裔]]
+|description=每当你以造成火焰伤害的近战攻击(例如炽焰武器或火把)伤害一个正在施法的敌人时，该敌人为施展该法术所作专注检定的DC为10+非火焰伤害+2倍的火焰伤害+法术等级(而不是通常的10+造成的伤害+法术等级)
+|source_name=种族背景
+|source=BoE
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

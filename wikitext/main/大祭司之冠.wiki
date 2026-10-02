@@ -1,0 +1,15 @@
+{{魔法物品
+|name=大祭司之冠
+|english_name=Mitre of the Hierophant
+|aon=MagicWondrousDisplay.aspx?FinalName=Mitre of the Hierophant
+|cat=奇物
+|aura=中等预言系
+|cl=9
+|slot=头部
+|price=18,000 gp
+|weight=2磅
+|description=这顶华丽的冠冕只对能施放神术的穿戴者起效。穿戴者在[[交涉]]和[[知识|知识（宗教）]]检定上获得+5表现加值。每日一次，穿戴者可以通过命令向她的守护神祇提出一个问题，如同使用[[通神术]]。每周一次，穿戴者可以通过命令触摸一名生物，为其过往的恶行赎罪，如同使用[[赎罪术]]。
+|req=[[制造奇物]]、[[赎罪术]]、[[通神术]]、[[神导术]]
+|cost=9,000 gp
+|source=极限宝具
+}}

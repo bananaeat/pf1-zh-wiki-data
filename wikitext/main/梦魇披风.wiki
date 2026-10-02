@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=梦魇披风
+|english_name=Cloak of Nightmares
+|aon=MagicWondrousDisplay.aspx?FinalName=Cloak of Nightmares
+|cat=奇物
+|aura=强烈咒法系
+|cl=14
+|slot=背部
+|price=30,000 gp
+|description=这件红色披风的美丽掩盖了它的邪恶本质：它随时可以撕裂成许多名为梦魇蝙蝠的可怖生物。以一个自由动作，你可以放出1d4只梦魇蝙蝠。这些蝙蝠会一直存在，直到被消灭，也可以用一个移动动作召回披风之中。被召回披风的蝙蝠在1小时后恢复所有伤害。新制成的梦魇披风里含有八只蝙蝠。若一只蝙蝠在被召回之前被彻底消灭，它就无法替换，披风的蝙蝠数量上限随之减少一只。
+|req=[[制造奇物]]、[[召唤怪物 IV]]
+|cost=18,000 gp，1,200 XP
+|source=七罪之剑
+}}

@@ -1,0 +1,21 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[拨挡飞箭 (神话)]]。</small></div>
+{{Feat
+|name=拨挡飞箭
+|english_name=Deflect Arrows
+|categories=战斗
+|description=你可以挡开飞来的箭和其他飞行物，防止它们命中你。
+|prerequisites=[[敏捷]] 13，精通徒手打击。
+|benefit=你必须至少空出一只手（没有拿任何东西）才能使用本专长。当你被远程武器击中时，每轮有一次机会挡掉而不受伤害。你必须察觉到该攻击，且不能处于[[措手不及]]状态。拨挡远程武器不算是一个动作。通常大型远程武器（例如巨石或弩炮巨矢）和源自天生攻击或法术效果的远程攻击无法被挡开。
+|stamina=花费5点耐力，你可以在措手不及时使用该专长。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''制造需求'''：[[拦截之鞋]]（1 件物品）
+
+'''先决条件'''：[[抓取飞箭]]、[[飞箭流转]]（2 个条目）
+
+{{FAQ|old-04}}

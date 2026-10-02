@@ -1,0 +1,15 @@
+{{Spell
+|name=群体原始野性
+|english_name=Atavism, mass
+|school=变化系
+|levels=德鲁伊 8
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=每等级1只动物，任意两名之间的距离不得超过30尺
+|duration=1分钟/等级
+|save=强韧，通过则无效
+|sr=是
+|description=该法术的功能如同[[原始野性]]一般，不过可以影响复数生物。
+|source=极限魔法
+}}

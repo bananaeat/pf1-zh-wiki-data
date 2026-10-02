@@ -1,0 +1,9 @@
+{{Trait
+|name=祝福之触
+|english_name=Blessed Touch
+|type=信念
+|description=你出生在虔诚的家庭，在正规教堂中学习神学，甚至学会了将传统疗伤技术和神术相结合。在这过程中你专注于将自己化为你神的完美通道。神能像山涧溪流一般在你体内流淌，让你治疗之触比常人更有效。你在使用圣疗，引导正能量或施放治疗法术时多治疗1点伤害。
+|source_name=信念背景
+|source=CoP
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

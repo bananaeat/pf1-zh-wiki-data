@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=毁灭刺杀之鞘
+|english_name=Scabbard of True Death
+|aon=MagicWondrousDisplay.aspx?FinalName=Scabbard of True Death
+|cat=奇物
+|aura=微弱死灵系
+|cl=5
+|slot=无
+|price=32,000 gp
+|weight=2磅
+|description=每当[[刺客]]从毁灭刺杀之鞘中拔出武器，并对目标成功发动夺命攻击时，她的毁灭刺杀能力的DC增加4。此外，无论持用者是否拥有刺客职业等级，持用者都获得[[流血攻击]]盗贼天赋，如同她的偷袭造成1d6点伤害（因此，符合偷袭条件的攻击造成1点流血伤害）；如果持用者已经拥有流血攻击盗贼天赋，该天赋造成的流血伤害增加1。
+|req=[[制造奇物]]、[[降咒]]，制造者必须拥有[[流血攻击]]盗贼天赋
+|cost=16,000 gp
+|source=魔法市集指南
+}}

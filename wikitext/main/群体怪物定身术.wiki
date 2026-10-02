@@ -1,0 +1,17 @@
+{{Spell
+|name=群体怪物定身术
+|english_name=Hold Monster, Mass
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|domains=律法子域 9;瘟疫子域 9
+|levels=奥能师 9;女巫 9;异能者 9;术士 9;法师 9
+|action=标准动作
+|components=语言;姿势;材料/圣徽（坚硬的金属棒或杆，小如钉子也可以）
+|range=中距
+|target=一个或更多生物，任意两者之间的距离不超过30尺
+|duration=1轮/等级 (可解消); 见后文
+|save=意志，通过则无效; 见后文
+|sr=是
+|description=该法术的功能如同[[人类定身术]]一般，不过它会影响复数生物，并且能够定住任何意志豁免失败的活物。
+|source=核心规则书
+}}

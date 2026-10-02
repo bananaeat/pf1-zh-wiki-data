@@ -1,0 +1,14 @@
+{{Feat
+|name=脉轮初学者
+|english_name=Chakra Initiate
+|description=你获得了额外的拙火能量源，并可以以此来开启你的[[脉轮]]。
+|prerequisites=觉醒海底脉轮的能力
+|benefit=你获得存有3点蛇焰真气的气池，而你仅能用它开启或维持脉轮。当你的常规气池重新回满的时候，这些蛇焰真气也会在同一时间重新充满。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[脉轮修行者]]、[[脉轮宗师]]（2 个条目）

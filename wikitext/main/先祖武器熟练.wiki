@@ -1,0 +1,11 @@
+{{Feat
+|name=先祖武器熟练
+|english_name=Ancestral Weapon Mastery
+|categories=战斗
+|description=你掌握了可以提高你种族[[祖传武器]]效力的古代技巧。
+|prerequisites=基本攻击加值+1，武器熟悉种族特性。
+|benefit=你擅长你种族的所有种族武器（在你种族的武器熟悉[[种族特性]]提及的武器）。如果你已擅长任何这些武器的话，则你转而获得其中一种武器的[[武器专攻]]作为[[奖励专长]]。此外，如果你因该专长而使你的种族武器之一获得武器专攻作为奖励专长的话，你可以通过使用新所适用的种族武器进行10分钟的演练，来改变你奖励的武器专攻专长。此奖励武器专攻专长的效果将持续到你选择再次演练并将其应用于不同的种族武器为止。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

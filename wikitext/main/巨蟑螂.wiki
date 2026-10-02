@@ -1,0 +1,46 @@
+{{速查导航}}
+{{怪物
+|name=巨蟑螂
+|english_name=Cockroach, Giant
+|cr=1/2
+|xp=200
+|alignment=绝对中立
+|size=小型
+|type=虫类
+|init=+1
+|senses=黑暗视觉 60 尺，[[通用怪物规则#颤动感知|颤动感知]] 60 尺；察觉 +4
+|description=一只狗一样大的蟑螂蹦跳着前行，它污秽而平滑的下颚发出贪婪的咔咔声。
+|ac=14，接触 12，措手不及 13（+1 敏捷，+2 天生，+1 体型）
+|hp=8（1d8 +4）
+|fort=+6
+|ref=+1
+|will=+0
+|weaknesses=光线敏感
+|speed=30 尺，攀爬 30 尺，飞行 40 尺（较差）
+|melee=噬咬 +1（1d4）
+|str=11
+|dex=12
+|con=19
+|int=–
+|wis=11
+|cha=2
+|bab=+0
+|cmb=–1
+|cmd=10
+|feats=[[顽强]] B;[[坚忍]] B
+|skills=[[攀爬]] +8;[[飞行]] –1;[[察觉]] +4;[[隐匿]] +9
+|racial_mods=+4 察觉，+4 隐匿
+|sq=屏气
+|environment=任意陆地
+|organization=单独或虫灾侵袭（2–20）
+|treasure=无
+|source=怪物图鉴2
+|lore=
+和它们较小的同类有许多相似之处，巨蟑螂有很强的适应能力，在任何地方都能找到食物来源。巨蟑螂通常不太凶猛，但在受到威胁或食物耗尽的时候会毫不犹豫地发动攻击。
+
+许多不同种类的巨蟑螂也存在，就如同上表列出的那样。许多变种拥有不同的额外能力，例如毒素叮咬。
+
+<div class="monster-table-wrap"><table class="wikitable"><tr><th>变种</th><th>CR</th><th>体型</th><th>HD</th></tr><tr><td>噪音巨蟑螂</td><td>1</td><td>中型</td><td>2</td></tr><tr><td>毒蟑螂</td><td>3</td><td>大型</td><td>3</td></tr><tr><td>喷酸蟑螂</td><td>6</td><td>超大型</td><td>6</td></tr><tr><td>锯齿蟑螂</td><td>9</td><td>巨型</td><td>8</td></tr><tr><td>龙蟑螂</td><td>12</td><td>超巨型</td><td>10</td></tr></table></div>
+}}
+
+本页译自《[[怪物图鉴2]]》的怪物图鉴 CHM。

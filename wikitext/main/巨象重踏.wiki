@@ -1,0 +1,12 @@
+{{Feat
+|name=巨象重踏
+|english_name=Elephant Stomp
+|categories=战斗
+|description=你对被踩过的敌人造成毁灭性的打击。
+|prerequisites=力量13，[[猛力攻击]]，[[精通闯越]]，基本攻击加值+1。
+|benefit=当你成功[[闯越]]一个目标，而且你的[[战技]]检定成功5点或以上时，你可以选择在目标前面或离他最近的方格停下来，以[[直觉动作]]进行一次徒手打击或以天生武器攻击对手，而不是穿过对手的方格并将他撞倒。
+|normal=当你闯越的战技检定成功5点或以上时，你可以穿过对手的方格并将他撞倒。
+|source=StLC
+|source_name=萨加瓦，失落的殖民地
+|source_url=https://pf1chm.pages.dev/topics/page_531.html
+}}

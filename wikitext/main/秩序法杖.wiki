@@ -1,0 +1,20 @@
+{{魔法物品
+|name=秩序法杖
+|english_name=Lawful Staff
+|aon=MagicStavesDisplay.aspx?ItemName=Lawful Staff
+|cat=法杖
+|aura=中等塑能系
+|cl=8
+|slot=无
+|price=29,600 gp
+|weight=5磅
+|description=这根法杖用一根极其光滑的三棱银杆制成，顶端冠以一颗金球。该法杖可以使用以下法术：
+
+* [[阵营武器]]（仅限秩序；1 发）
+* [[侦测混乱]]（1 发）
+* [[反混乱法阵]]（2 发）
+* [[秩序之怒]]（2 发）
+|req=[[制造法杖]]、[[阵营武器]]、[[侦测混乱]]、[[反混乱法阵]]、[[秩序之怒]]
+|cost=14,800 gp
+|source=极限宝具
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=闪现步
+|english_name=Flickering Step
+|description=你能在眨眼之间出现和消失
+|prerequisites=知识［位面］9级
+|benefit=你能以类法术能力使用任意门，CL=你的知识［位面］等级。你不能以此方式传送大于2倍你的基础移速的距离，而且你必需跟你的目的地有视觉线和效果线。你能每天1次，加上每5级知识［位面］等级额外1次使用此专长效果。
+|special=拥有此专长的战士能在选择战士奖励专长时将次元灵巧和以此为先决条件的任何专长视为战斗专长。
+|source=PA
+|source_name=位面冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1492.html
+}}

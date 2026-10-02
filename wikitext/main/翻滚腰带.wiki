@@ -1,0 +1,15 @@
+{{魔法物品
+|name=翻滚腰带
+|english_name=Belt of Tumbling
+|aon=MagicWondrousDisplay.aspx?FinalName=Belt of Tumbling
+|cat=奇物
+|aura=微弱变化系
+|cl=1
+|slot=腰部
+|price=800 gp
+|weight=1磅
+|description=这条纤细而柔韧的棉绳腰带，应当在穿戴者腰间缠绕数圈。穿戴者在为穿过受威胁区域或敌人所占空间而进行的特技检定中，获得+4表现加值。
+|req=[[制造奇物]]、[[猫之优雅]]
+|cost=400 gp
+|source=极限宝具
+}}

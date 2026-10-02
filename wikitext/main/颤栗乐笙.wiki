@@ -1,0 +1,15 @@
+{{魔法物品
+|name=颤栗乐笙
+|english_name=Pipes of Haunting
+|aon=MagicWondrousDisplay.aspx?FinalName=Pipes of Haunting
+|cat=奇物
+|aura=微弱死灵系
+|cl=4
+|slot=无
+|price=6,000 gp
+|weight=3磅
+|description=这件魔法物品看起来像一小套乐笙。被通过DC 15表演（吹奏乐器）检定的人吹响时，乐笙会奏出诡异而令人着迷的曲调。30尺内听到曲调的生物必须通过DC 13的意志豁免，否则陷入惊惧4轮。6HD或更高的生物不受影响。颤栗乐笙每天可以吹响2次。
+|req=[[制造奇物]]、[[恐吓术]]
+|cost=3,000 gp
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,95 @@
+{{速查导航}}
+<div class="well" style="margin:.2em 0"><small>'''地狱犬的神话版本'''（[[神话规则|神话怪物]]，CR 之外另有 MR 神话位阶）。基础版本见 [[地狱犬]]。</small></div>
+{{怪物
+|name=神话地狱犬
+|english_name=Mythic Hell Hound
+|cr=4
+|mr=1
+|xp=1,200
+|alignment=守序邪恶
+|size=中型
+|type=异界生物
+|subtypes=邪恶;跨位面;火系;守序;神话
+|init=+5
+|senses=60尺黑暗视觉（darkvision），[[通用怪物规则#灵敏嗅觉|灵敏嗅觉]]（scent）；察觉 +8
+|description=这头强壮的猎犬笼罩在火焰之中，它的足迹燃烧着向外喷溅火星与黑烟。
+|ac=17，接触 11，措手不及 16（+1 敏捷，+6 天生）
+|hp=47（5d10 + 20）
+|fort=+6
+|ref=+5
+|will=+1
+|dr=5/传奇
+|immune=火焰
+|weaknesses=寒冷易伤（vulnerable to cold）
+|speed=40尺
+|melee=啮咬 +9（2d6 + 3 外加 燃烧）
+|special_attacks=[[通用怪物规则#喷吐武器|喷吐武器]]（breath weapon；10尺锥形，2d6火焰外加附体之炎，反射 DC14减半，每隔1d4轮可用）；[[通用怪物规则#燃烧|燃烧]]（1d6，DC14）；[[通用怪物规则#神话之力|神话之力]]（1次/日，[[通用怪物规则#神力涌动|神力涌动]] +1d6）
+|str=15
+|dex=13
+|con=15
+|int=6
+|wis=10
+|cha=6
+|bab=+5
+|cmb=+7
+|cmd=18（对抗摔绊为22）
+|feats=[[精通先攻]];[[飞跑]];[[武器专攻]]：啮咬 M（Weapon Focus：bite）
+|skills=[[特技]]动作 +9（跳跃时+13）;[[察觉]] +8;[[隐匿]] +14;[[生存]] +8
+|racial_mods=值 隐匿 +5
+|languages=炼狱语（Infernal；无法说）
+|environment=任意（地狱）
+|organization=单独，一对，或一群（3 - 12）
+|treasure=偶有
+|special_abilities={{怪物能力|附体之炎|Ex|受到神话地狱犬的喷吐武器伤害的生物还会被点燃（catch on fire；使用燃烧能力的豁免 DC）。}}
+|source=神话冒险
+|nofooter=1
+}}
+{{怪物
+|name=神话奈瑟斯战犬
+|english_name=Mythic Nessian War Hound
+|cr=11
+|mr=4
+|xp=12,800
+|alignment=守序邪恶
+|size=大型
+|type=异界生物
+|subtypes=邪恶;跨位面;火系;守序;神话
+|init=+6
+|senses=60尺黑暗视觉（darkvision），[[通用怪物规则#灵敏嗅觉|灵敏嗅觉]]（scent），[[通用怪物规则#看破黑暗|看破黑暗]]（see in darkness）；察觉 +14
+|description=这头强壮的猎犬笼罩在火焰之中，它的足迹燃烧着向外喷溅火星与黑烟。
+|ac=28，接触 11，措手不及 26（+6 护甲，+2 敏捷，+11 天生，-1 体型）
+|hp=166（12d10 + 100）
+|fort=+13
+|ref=+10
+|will=+6
+|dr=10/传奇
+|immune=火焰
+|weaknesses=寒冷易伤（vulnerable to cold）
+|speed=40尺
+|melee=啮咬 +22（2d8 + 9/18-20 外加 燃烧 外加 摔绊）；2次爪抓 +20（2d6 + 9 外加 燃烧）
+|space=10尺
+|reach=10尺
+|special_attacks=[[通用怪物规则#喷吐武器|喷吐武器]]（breath weapon；30尺锥形，10d6火焰外加附体之炎，反射 DC21减半，每隔1d4轮可用）；[[通用怪物规则#燃烧|燃烧]]（1d6，DC21）；[[通用怪物规则#神话之力|神话之力]]（4次/日，[[通用怪物规则#神力涌动|神力涌动]] +1d8）
+|spell_like=CL 12级；专注 +10；3次/日——任意门，[[生物定位术]]
+|str=29
+|dex=15
+|con=21
+|int=4
+|wis=14
+|cha=6
+|bab=+12
+|cmb=+22
+|cmd=34（对抗摔绊为38）
+|feats=[[警觉]];[[精通重击]]：啮咬 M（Improved Critical：bite）;[[精通先攻]];[[技能专攻]]：潜行（Skill Focus：Stealth）;[[技能专攻]]：生存（Skill Focus：Survival）;武器专攻：啮咬 M（Weapon Focus：bite）
+|skills=[[特技]]动作 +15（跳跃时+19）;[[察觉]] +14;[[察言观色]] +4;[[隐匿]] +17;[[生存]] +17
+|racial_mods=值 隐匿 +5
+|languages=炼狱语
+|environment=任意（地狱）
+|organization=单独，一对或一群（3 - 6）
+|treasure=偶有（+2坐骑链甲衫 chain shirt barding）
+|source=神话冒险
+|lore=
+神话地狱犬是地狱狼群中的头领，它们凶猛野蛮却又屈从于大魔鬼。被野放的它们是那些较为“驯服”的普通[[地狱犬]]的祖先。
+}}
+
+本页译自《[[神话冒险]]》的怪物图鉴 CHM。

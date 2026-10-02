@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 19），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=狗头人草药师
+|english_name=Kobold Herbalist
+|type=种族
+|pfs=否
+|prerequisites=狗头人
+|description=你熟悉故乡森林里的植物，并具备草药师的基本技艺。每天一次，你可以进行一次DC 20的[[生存]]检定来代替[[工艺]]（炼金）检定，以制造一剂遮味剂（见《极限宝具》第105页），且无须支付任何原料费用。以此方法制造的遮味剂必须在24小时内使用，否则会失去效力。
+|source_name=格拉利昂的狗头人
+|source=KoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Kobold%20Herbalist
+}}

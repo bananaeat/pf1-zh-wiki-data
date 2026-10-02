@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Sargava, the Lost Colony pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=殖民特权
+|english_name=Colonial Entitlement
+|type=种族
+|prerequisites=[[人类]]（切利亚斯人或萨迦瓦殖民者）
+|description=你坚信自己切利亚斯血统的优越，紧抱着种族与文化上的自豪感不放。你对芒吉人进行的[[威吓]]检定获得+2背景加值。
+|source_name=萨迦瓦，失落的殖民地
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Colonial%20Entitlement
+}}

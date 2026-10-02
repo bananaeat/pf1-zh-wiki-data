@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 62），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=圣克莱德威尔护佑
+|english_name=St. Clydwell's Ward
+|type=信念
+|pfs=否
+|prerequisites=蒙蒂维十字军
+|description=你习得了一段能抵御恶魔攻击的古老祷文的奥秘。你可以用一个标准动作念诵一段神圣的圣咏，对恶魔而言，其效果如同你处于[[圣域术]]的效果之下（施法者等级等于你生命骰的一半＋你的魅力调整值）。
+|source_name=组织指南
+|source=FM
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=St.%20Clydwell%27s%20Ward
+}}

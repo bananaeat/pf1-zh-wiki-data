@@ -1,0 +1,13 @@
+{{Trait
+|name=续命表演
+|english_name=Sustaining Performance
+|type=地区
+|prerequisites=[[吟游诗人]]，出身镣铐群岛或在那里生活过至少1年
+|description=在危机时候你们被传统的治疗者抛弃了，于是你决定即兴演出一个传说故事或者笑话来保持极度衰弱之人的精神。
+
+每天一次，以一个[[标准动作]]，你可以尝试一个DC15且包含声音成分的表演检定（例如喜剧，朗诵，演唱或其他乐器表演）来稳定一个在你30尺内、能听见你的濒死生物的伤势。你也可以尝试表演检定而不是医疗检定来提供长期护理。
+|regions=镣铐群岛
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_703.html
+}}

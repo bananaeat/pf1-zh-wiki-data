@@ -1,0 +1,15 @@
+{{Feat
+|name=机敏前锋
+|english_name=Nimble Striker
+|categories=战斗
+|description=你与生俱来就是冲锋的料，没人能比你做得更好。
+|prerequisites=敏捷13，基本攻击加值+1，[[猫族]]，【短跑健将】种族特性。
+|benefit=当你在使用[[顺势斩]]专长、[[突刺]]专长或者冲锋时，不必承受AC-2的罚值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[爪袭]]（1 个条目）

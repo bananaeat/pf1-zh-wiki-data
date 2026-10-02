@@ -1,0 +1,8 @@
+{{Trait
+|name=无心之失
+|english_name=Amiable Blunder
+|type=社会
+|description=你那随性温和的作风使你有时候能摆脱潜在的社交尴尬乃至失礼非难。每天一次，当你的交涉检定结果低于DC5点以上，并导致NPC态度下降时，你能以一个自由动作马上进行另一个对抗同样DC的交涉检定。如果你成功通过了第二个交涉检定，则NPC的态度不会改变，如同之前的交涉检定失败且结果不超过4点以上。
+|source_name=平衡勇士
+|source_url=https://pf1chm.pages.dev/topics/zh50fb06c319.htm
+}}

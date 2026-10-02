@@ -1,0 +1,9 @@
+{{装备
+|name=填字游戏
+|english_name=Crossword
+|cat=娱乐
+|price=1 cp–1 sp
+|weight=—
+|description=许多种语言中都有这种文字谜题。它通常以15×15的方格阵画在皮革或木板上。格子越大，能填入的单词越长，游戏往往也越困难。
+|source=极限宝具
+}}

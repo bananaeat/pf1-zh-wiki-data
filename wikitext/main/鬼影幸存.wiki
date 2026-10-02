@@ -1,0 +1,10 @@
+{{Trait
+|name=鬼影幸存
+|english_name=Ghost Survivor
+|type=地区
+|prerequisites=乌斯塔拉夫
+|description=你在哀愁石附近单独呆了一夜并且活了下来，见过了各种鬼怪的你居然真的活了下来。鉴定[[虚体]]不死生物的知识(宗教)检定得到+2背景加值，对抗施加负向等级效果的强韧豁免检定得到+2背景加值。
+|source_name=地区背景
+|source=USH
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

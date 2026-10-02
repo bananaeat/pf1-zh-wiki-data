@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[克服困境 (神话)]]。</small></div>
+{{Spell
+|name=克服困境
+|english_name=Surmount affliction
+|school=防护系
+|levels=先知 2;唤魂师 2;审判者 2;战斗祭司 2;牧师 2
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|target=自己
+|duration=1轮/等级
+|sr=否
+|description=你可以暂时克服一种有害状态。这并不会结束异常状态，它只是在法术持续时间之内暂缓它们。
+
+你可以克服下列异常状态之一：[[目盲]]，[[困惑]]，[[晕眩]]，[[目眩]]，[[耳聋]]，[[疲乏]]，惊惧，[[麻痹]]，[[战栗]]，或是[[恶心]]。
+|source=极限魔法
+}}

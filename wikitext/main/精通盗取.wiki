@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[精通盗取 (神话)]]。</small></div>
+{{Feat
+|name=精通盗取
+|english_name=Improved Steal
+|categories=战斗
+|description=你懂得从敌人那里抢夺物品的诀窍。
+|prerequisites=[[智力]] 13，寓守于攻。
+|benefit=当你使用[[盗取]][[战技]]时不会引起[[借机攻击]]。此外，你所实行的盗取战技检定获得+2加值。你还在对抗针对自身的盗取战技时，[[CMD]]获得+2加值。
+|normal=当你使用盗取战技时会引起借机攻击。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[华丽盗技]]、[[快速盗取]]、[[高等盗取]]（3 个条目）

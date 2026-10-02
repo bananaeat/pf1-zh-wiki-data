@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=不死狂暴
+|english_name=Deathless Frenzy
+|categories=防御
+|pfs=否
+|prerequisites=[[野蛮人]]12级
+|benefit=在狂暴中，你可忽略生命值在0或以下所引起的效果，直到你处于此状态的下一轮。连死亡效果都可以以此法推迟：并且如果你在这一轮中获得足够的治疗，你就可以避免死亡。
+|special=这个[[狂暴之力]]仅对野猪人，野猪人后裔和与这些生物有关联的生物可用。
+|source_name=月之血脉
+}}

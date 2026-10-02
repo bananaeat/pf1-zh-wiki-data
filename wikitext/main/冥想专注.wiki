@@ -1,0 +1,11 @@
+{{Feat
+|name=冥想专注
+|english_name=Meditative Concentration
+|categories=冥想
+|description=冥想会使你的思维清晰，并令你在被干扰时持续专注于你的法术。
+|prerequisites=感知13，[[战斗冥想]]，[[冥想大师]]，角色等级5
+|benefit=在你使用[[战斗冥想]]后，持续每角色等级1轮，每当你需要进行一次专注检定来避免失去一个法术或者用于抵抗扰乱心神的强韧检定（例如集群的扰乱心神能力），你的这次检定获得+4加值。如果你在这次检定中使用战斗冥想的效果，那么这个加值会应用到两次检定中。
+|source=F&P
+|source_name=信仰与哲学
+|source_url=https://pf1chm.pages.dev/topics/page_673.html
+}}

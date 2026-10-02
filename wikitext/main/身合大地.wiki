@@ -1,0 +1,10 @@
+{{Feat
+|name=身合大地
+|english_name=One with the Land
+|description=你与你的偏好地形之间的联系是如此的强烈，以至于你能从大自然本身的伟力中汲取力量。
+|prerequisites=偏好地形职业能力。
+|benefit=在你的偏好地形上，你所需的食物、饮水、以及睡眠仅为正常所需的一半，并且你的自然恢复率翻倍。当你处于你的偏好地形时，你在避免暴露在寒冷环境和炎热环境影响的豁免骰和体质检定上、以及在避免饥饿和干渴影响的豁免骰和体质检定上，获得你偏好地形加值的一半作为加值。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

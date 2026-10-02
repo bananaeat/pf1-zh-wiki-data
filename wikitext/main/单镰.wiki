@@ -1,0 +1,17 @@
+{{武器
+|name=单镰
+|english_name=Kama
+|category=武器
+|prof=异种
+|wcat=轻型
+|price=2 gp
+|weight=2磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×2
+|type=挥砍
+|special=武僧，摔绊
+|groups=轻刃，武僧
+|description=类似[[镰刀]]——在某些地区甚至还在用来收割庄稼——的单镰是一把短小曲刃连接在简单把手上的武器，把手多为木制。它有时也被称为拐，常常成对地被武道家们选用。
+|source=核心规则书、极限宝具
+}}

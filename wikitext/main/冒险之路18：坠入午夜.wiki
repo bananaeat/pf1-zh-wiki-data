@@ -1,0 +1,42 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #18: Descent into Midnight
+|authors=Brian Cortijo
+|pages=96
+}}
+
+{{书页/简介|head=万物的终结|1=
+在大地深处，在远离光明国度的领域，[[卓尔]]正吟诵着终结那可憎的地表世界所需的最后咒文。他们的敌人已被击败，没有任何国度崛起阻挡他们。只有一小队意想不到的救星，站在暗精灵这场末日计划的对面。PC 们要闯过古老而受诅咒的黑血地（Land of Black Blood）——一个世界之中的完整世界——只有唯一的机会，去粉碎那道威胁要把整个格拉利昂抛入第二个黑暗时代的法术。但面对卓尔、恶魔和那些早已被放逐到地底深处的恐怖，真的还有胜利的希望吗？还是说，终结之日真的已经降临？答案就在「二度黑暗」冒险之路这场震撼世界的高潮之中！
+
+本册《冒险之路》内容包括：
+
+* 《坠入午夜》，一部面向 14 级角色的冒险，作者 Brian Cortijo。
+* 详解黑血地——一片隐藏在地底深处、广袤而无光的领域，作者 Wolfgang Baur。
+* 对多元宇宙中最污秽的存在之一——格拉利昂的恶魔领主军团——的异端揭秘，作者 James Jacobs。
+* 面对[[探索者协会]]的领袖，Eando Kline 必须在良知与性命之间抉择——「探索者日志」中的一篇，作者 James L. Sutter。
+* 四种新怪物，作者 James Jacobs、Jason Nelson 和 F. Wesley Schneider。
+}}
+
+'''冒险之路18：坠入午夜'''（''Pathfinder #18: Descent into Midnight''）是[[冒险之路]]「二度黑暗」系列的第六部、也是最后一部冒险，由 Brian Cortijo 撰写，配套文章出自 Wolfgang Baur、James Jacobs、Jason Nelson 和 F. Wesley Schneider，另有 Liz Courts 的 Set Piece 冒险和 James L. Sutter 的小说，于 2009 年 2 月 11 日发售。
+
+== 目录 ==
+除了为「二度黑暗」收尾，本册《冒险之路》还收录对卓尔的恶魔万神殿的探究、致命的黑血地的地志、一部以地底世界最深处为舞台的 Set Piece 冒险、能让你的战役充满黑暗的新怪物，以及 Eando Kline 的《罗盘石》（The Compass Stone）系列的最终篇。
+{{书页/目录|1=
+前言 @ 4
+坠入午夜 @ 6
+黑血地 @ 48
+格拉利昂的恶魔领主 @ 54
+侵扰 @ 64
+探索者日志 @ 72
+怪物图鉴 @ 80
+预设角色 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Descent into Midnight
+|releases=PDF¦PZO9018E¦2009-02¦；Softcover¦PZO9018¦2009-02¦978-1-60125-131-2
+}}
+
+[[分类:书目]]

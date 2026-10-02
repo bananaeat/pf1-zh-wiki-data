@@ -1,0 +1,9 @@
+{{装备
+|name=划艇
+|english_name=Rowboat
+|cat=水上交通
+|price=50 gp
+|passage=2 cp
+|description=这种小船的长度为8至12尺，具有两支船桨，能够容纳两三名中型乘客，它可以被放置在大型船只的甲板上或者停泊在码头上。划艇的速度为每小时1.5英里。
+|source=核心规则书、极限宝具
+}}

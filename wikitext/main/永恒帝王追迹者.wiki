@@ -1,0 +1,11 @@
+{{Feat
+|name=永恒帝王追迹者
+|english_name=Seeker of the Eternal Emperor
+|description=你将你的一些神谕能力借给渤骊的领袖，帮助他们寻找重生的永恒帝王（为了帝皇！），学习有用的技术来延展你的预示。
+|prerequisites=法术增远或法术延时，先知诅咒职业特性。
+|benefit=在确定你的[[先知诅咒]]的影响时视为你的[[先知]]等级低1级（最低为1级）。你不需要额外的时间来自发施放经由[[法术增远]]或[[法术延时]]专长超魔后的预言系法术。
+|normal=应用[[超魔专长]]的自发法术增加法术的施法时间。
+|source=HotHC
+|source_name=皇庭英豪
+|source_url=https://pf1chm.pages.dev/topics/page_670.html
+}}

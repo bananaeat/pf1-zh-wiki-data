@@ -1,0 +1,14 @@
+{{魔法物品
+|name=寂静油
+|english_name=Oil of Silence
+|aon=MagicWondrousDisplay.aspx?FinalName=Oil of Silence
+|cat=奇物
+|aura=微弱幻术系
+|cl=5
+|slot=无
+|price=250 gp
+|description=把这种奇特的灰色油涂抹在单手或双手火器上，可使该火器在1小时内保持无声。联合使用五瓶寂静油，可使一件大型火器攻城兵器保持无声；联合使用十瓶，可使一件超大型火器攻城兵器保持无声。这种油对比超大型更大的火器攻城兵器无效。
+|req=[[制造奇物]]、[[沉默术]]
+|cost=125 gp
+|source=极限战斗、极限宝具
+}}

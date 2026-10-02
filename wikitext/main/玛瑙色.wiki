@@ -1,0 +1,11 @@
+{{物品
+|name=玛瑙色
+|english_name=Agate
+|category=魔法物品
+|slot=无位置
+|price=1,000gp
+|type=[[艾恩石]]（Ioun Stone），椭圆
+|description=可以让使用者以一个[[自由动作]]使用成功率为100%[[占卜术]](使用之后变为暗灰)。 共振：预言系法术的施法者等级+1。
+|source_name=粗略的指南汇整
+|source_url=https://pf1chm.pages.dev/topics/page_1361.html
+}}

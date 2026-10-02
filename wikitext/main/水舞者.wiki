@@ -1,0 +1,12 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{消歧义|水舞者(武僧变体职业)}}
+{{Source|异能冒险|Occult Adventures}}
+'''水舞者'''（Waterdancer, Sp）是[[操念使]]的[[原力]]。
+
+元素：水；类别：通用（Sp）；等级：3；超载：0
+
+你能够呼唤出一股水流，用来提高自身的速度，并且使得你能够熟练的游泳，就如同持续时间无限的[[水流术]]（Slipstream；APG）的效果一般。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Waterdancer|2=Waterdancer}}
+
+[[分类:原力]]

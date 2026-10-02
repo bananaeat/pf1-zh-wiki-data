@@ -1,0 +1,11 @@
+{{Feat
+|name=萨奥克兄弟会学者
+|english_name=Saoc Brethren Scholar
+|pfs=否
+|description=你学会了从天象中汲取更多力量，并延长它们影响你的时间。
+|prerequisites=[[萨奥克兄弟会见习者]]，[[知识]]（神秘）5级，知识（自然）5级，知识（位面）5级。
+|benefit=你所受的天象事件效果的持续时间延长。若该效果持续时间少于1天，则延长50%；若该效果本就持续24小时或更久，则持续时间延长1天。
+|source=BotA
+|source_name=古国血脉
+|source_url=https://pf1chm.pages.dev/topics/zh3e60e7b09a.htm
+}}

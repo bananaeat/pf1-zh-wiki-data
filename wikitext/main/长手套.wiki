@@ -1,0 +1,9 @@
+{{装备
+|name=长手套
+|english_name=Long gloves
+|cat=衣物
+|price=15 gp
+|weight=—
+|description=这种由多层丝绸制成的全长手套在卡利斯拉德教徒和其他厌恶身体接触的人群中十分流行。穿戴者在对抗他所触摸的物体上的接触毒素的豁免检定中获得+4环境加值。
+|source=皇庭英豪
+}}

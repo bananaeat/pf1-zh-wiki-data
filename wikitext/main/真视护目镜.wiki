@@ -1,0 +1,14 @@
+{{魔法物品
+|name=真视护目镜
+|english_name=Truesight Goggles
+|aon=MagicWondrousDisplay.aspx?FinalName=Truesight Goggles
+|cat=奇物
+|aura=强烈预言系
+|cl=11
+|slot=眼部
+|price=184,800 gp
+|description=这副护目镜由一对完美的棱镜构成，以金框固定，再用黑色皮带系在头上。穿戴者持续处于[[真知术]]效果之下。此外，每天一次，以命令字激活，穿戴者可以使用[[解析咒文]]法术。
+|req=[[制造奇物]]、[[解析咒文]]、[[真知术]]
+|cost=92,400 gp
+|source=极限宝具
+}}

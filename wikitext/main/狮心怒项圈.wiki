@@ -1,0 +1,15 @@
+{{魔法物品
+|name=狮心怒项圈
+|english_name=Torc of Lionheart Fury
+|aon=MagicWondrousDisplay.aspx?FinalName=Torc of Lionheart Fury
+|cat=奇物
+|aura=微弱防护系
+|cl=3
+|slot=颈部
+|price=8,000 gp
+|weight=1磅
+|description=这个沉重的铜制颈饰两端各刻有一头咆哮的狮子。穿戴者在对抗恐惧的豁免检定上获得+2士气加值。如果穿戴者是至少12级的野蛮人，她获得[[无惧狂暴]]作为额外的[[狂暴之力]]。如果她已经拥有这项狂暴之力，那么她在狂暴期间还会免疫恐慌状态，并且在她狂暴期间，任何会造成恐慌的攻击都会转而使她恢复1轮狂暴（每轮最多1次）。
+|req=[[制造奇物]]、[[移除恐惧]]
+|cost=4,000 gp
+|source=进阶玩家指南、极限宝具
+}}

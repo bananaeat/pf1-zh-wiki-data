@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Varisia, Birthplace of Legends pg. 29），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=锐目观兆
+|english_name=Portentous Perception
+|type=战役
+|pfs=否
+|description=你来到（或被派到）谜港城，观察出现在城市上空的那片奇异黑斑。你决定趁在这里的时候，在金地精即将举办的赌博比赛中考验一下自己的敏锐感官。你锐利的视力让你更容易注意到远处的事物。对你而言，[[察觉]]检定的难度要在20尺或更远的距离才开始增加，而非通常的10尺。这对感知10尺内事物的检定没有影响。
+|source_name=瓦瑞西亚，传说诞生之地
+|source=VBoL
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Portentous%20Perception
+}}

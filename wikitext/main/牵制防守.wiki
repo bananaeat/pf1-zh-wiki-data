@@ -1,0 +1,12 @@
+{{Feat
+|name=牵制防守
+|english_name=Blundering Defense
+|categories=战斗
+|description=你出离常识的防守技术有的时候会对敌人造成足够的牵制，从而保护队友。
+|prerequisites=[[谨慎战斗]]，半身人。
+|benefit=当你使用防御式战斗或者[[全防御]]动作时，你的队友获得你从该动作上得到的AC闪避加值一半的幸运加值，该幸运加值作用到AC和[[CMD]]上。你的队友只能在邻近你时获得该加值。
+|stamina=花费5点耐力令你10尺范围内的盟友获得该专长的益处。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

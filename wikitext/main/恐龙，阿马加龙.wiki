@@ -1,0 +1,43 @@
+{{速查导航}}
+{{怪物
+|name=阿马加龙
+|english_name=Dinosaur, Amargasaurus
+|cr=6
+|xp=2,400
+|alignment=绝对中立
+|size=超大型
+|type=动物
+|init=+6
+|senses=昏暗视觉，[[通用怪物规则#灵敏嗅觉|灵敏嗅觉]]；察觉 +8
+|description=这个蜥脚类动物有着长长的脖子和细长的尾巴。两列棘刺从这个生物的脖子延伸到背部。
+|ac=18，接触 10，措手不及 16（+2 敏捷，+8天生，–2体型）
+|hp=67（9d8 + 27）
+|fort=+9
+|ref=+8
+|will=+6
+|speed=30英尺
+|melee=挥击+12（2d6+8），尾扫+8（2d6+4）
+|space=15英尺
+|reach=15英尺
+|special_attacks=践踏（1d8+12，dc22）
+|str=27
+|dex=14
+|con=17
+|int=2
+|wis=13
+|cha=10
+|bab=+6
+|cmb=16
+|cmd=28（对抗摔绊时32）
+|feats=[[坚忍]];[[精通先攻]];[[钢铁意志]];[[猛力攻击]];[[武器专攻]]（尾扫）
+|skills=[[察觉]]+8;[[隐匿]]+2（在植被中+10）
+|racial_mods=在植被中+8隐匿
+|environment=温暖的森林或平原
+|organization=单独，成对或兽群（3–12）
+|treasure=无
+|source=怪物图鉴6
+|lore=
+这是蜥脚类动物中较小的一种，它以脖子上的两排棘刺闻名。
+}}
+
+本页译自《[[怪物图鉴6]]》的怪物图鉴 CHM。

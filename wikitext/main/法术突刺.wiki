@@ -1,0 +1,10 @@
+{{Feat
+|name=法术突刺
+|english_name=Lunging Spell Touch
+|description=你可以延伸自己的触及范围，触及通常距离过远的敌人。
+|prerequisites=法术辨识6级
+|benefit=你可以增加你进行近战接触传递法术的触及范围5尺，直到你的回合结束，代价是在防御等级上承受-2减值，直到你的下一回合。你必须在你的回合发动任何攻击之前决定使用本能力。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=机械身躯
+|english_name=Blood Algorithm
+|type=种族
+|prerequisites=[[仿生人]]
+|description=你的非人特性延伸到你的核心。痛觉在你的结构中被忽略了，在你对抗拥有[痛苦]描述符(Pathfinder RPG Ultimate Magic 138)的法术效果时，你的豁免获得+2的背景加值。此外，每天1次，当你接受法术目标为构装体的法术治疗时(如[[完全修复术]]),你每法术等级额外恢复1点生命值。
+|source_name=河域子民
+|source=PotR
+|source_url=https://pf1chm.pages.dev/topics/zh576fd36972.htm
+}}

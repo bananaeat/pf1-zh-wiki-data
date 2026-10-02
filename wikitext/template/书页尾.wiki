@@ -1,0 +1,1 @@
+<includeonly>{{#invoke:书架|foot}}</includeonly><noinclude>书页页尾：releases（各版本「格式¦货号¦日期¦ISBN」用「；」隔开）、pfw（PathfinderWiki 页名，署名链接）。</noinclude>

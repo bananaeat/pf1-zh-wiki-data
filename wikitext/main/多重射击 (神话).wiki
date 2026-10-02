@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[多重射击]] 的神话版本。</small></div>
+{{Feat
+|name=多重射击
+|english_name=Manyshot
+|categories=神话
+|description=只需几个简单的动作，箭矢就会接二连三地射向你的敌人。
+|prerequisites=[[多重射击]]
+|benefit=当你使用弓进行[[全力攻击]]动作并且使用[[多重射击]]专长时，你的第一次和第二次攻击均会射出两支箭矢，以此取代原本的只有第一次攻击获益。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Darklands pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=地底信仰
+|english_name=Deep Faith
+|type=信念
+|description=你的神祇诞生于地底深处，而你正是那些国度之子。每当你在幽暗地域施放由土领域（或其相关子域）赐予的法术时，该法术以比你的实际施法者等级高1级的施法者等级生效。
+|source_name=幽暗地域英雄
+|source=HotD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Deep%20Faith
+}}

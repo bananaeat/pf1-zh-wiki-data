@@ -1,0 +1,43 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=瓦普拉
+|english_name=Vapula
+|title=黄铁矿金库守护者（Keeper of the Pyrite Vault）
+|alignment=守序邪恶（LE）
+|weapon=木棍
+|portfolio=探索，傲慢，学识
+|domains=[[邪恶领域(领域)|邪恶]]，[[秩序领域|秩序]]，[[知识领域|知识]]，[[解放领域|解放]]
+|subdomains=[[邪恶领域(领域)#魔鬼子域 (Devil)|魔鬼子域（邪恶）]]，[[秩序领域#魔鬼子域 (Devil)|魔鬼子域（秩序）]]，[[符文领域#语言子域 (Language)|语言子域]]，[[知识领域#记忆子域 (Memory)|记忆子域]]，[[知识领域#思想子域 (Thought)|思想子域]]
+|symbol=直立的狮鹫
+|animal=狮子
+|color=白色，黄色
+|pantheon=炼狱大公
+|source=内海诸神、永罪之书
+}}
+
+瓦普拉（Vapula，称号「黄铁矿金库守护者」）是[[炼狱大公与地狱公爵|炼狱大公]]之一。
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+将瓦普拉的标志刻在六枚不同造币厂铸造的硬币上。你在估价检定上获得+4亵渎加值。
+
+=== 神恩 ===
+
+通过[[魔族仪典]]获得，每项每日可用1次：
+
+{{神恩|n=1|name=|en=|type=Sp|text=每日1次以类法术能力施放[[秘法视力]]。}}
+
+{{神恩|n=2|name=|en=|type=Sp|text=每日1次以类法术能力施放[[异界传送]]。}}
+
+{{神恩|n=3|name=|en=|type=Sp|text=每日1次以类法术能力施放[[预警术]]。}}
+
+== 信徒可用 ==
+
+* '''专长'''：[[炼狱镣铐]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1554.html 原文]），原在总页 [[炼狱大公与地狱公爵]]。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Vapula|2=Vapula}}
+[[分类:魔神]]

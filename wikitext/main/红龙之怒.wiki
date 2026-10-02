@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Dragons pg. 6），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=红龙之怒
+|english_name=Fury of the Red
+|type=社会
+|description=你家族血脉中的某位亲属曾被注入红龙的神秘力量。如果你选择了一个需要选择龙脉传承的职业，你必须选择红龙作为你的类型。在成功完成一次冲锋攻击后，你在接下来的一整轮中在意志豁免上获得+2背景加值。
+|source_name=巨龙遗产
+|source=LoD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Fury%20of%20the%20Red
+}}

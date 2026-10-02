@@ -1,0 +1,13 @@
+{{消歧义|精通法术共享}}
+{{Feat
+|name=精通法术共享
+|english_name=Improved Spell Sharing
+|categories=团队
+|description=你与同伴间紧密的联结让魔法在你们之间畅行无阻。
+|prerequisites=拥有获得动物伙伴、幻灵、魔宠或特殊坐骑的能力
+|benefit=当你邻接或是和拥有此[[团队专长]]的伙伴生物共享占据空间时，你可以对自己施放一个法术，并将其持续时间在你和伙伴生物之间平分；你只能对持续时间至少为2轮的法术使用本专长。举例来说，你可以对自己施放[[牛之力量]]，该法术原本在你身上持续每施法者等级1分钟，现在则在你和你的伙伴生物身上各持续每施法者等级5轮。
+|extra=一旦法术施放完成，你和伙伴生物就可以自由分开。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=钢刺碎击
+|english_name=Spiked Destroyer
+|categories=战斗
+|description=你可以在进行[[冲撞]]和[[闯越]]时，同时使用你的甲刺发动撞击。
+|prerequisites=擅长甲刺
+|benefit=当你成功进行闯越或冲撞[[战技]]时，你可以以一个[[迅捷动作]]，自动对该战技的目标用你的甲刺以你最高的攻击加值发动一次攻击检定。
+|source=FoP/FoB/FoC、ISG
+|source_name=纯善／平衡／堕落信念、内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}

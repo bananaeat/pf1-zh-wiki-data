@@ -1,0 +1,48 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #82: Secrets of the Sphinx
+|authors=Amber E. Scott
+|pages=96
+}}
+
+{{书页/简介|head=不再被遗忘|1=
+奥西里昂沙漠深处，矗立着一座没有面孔的纪念碑，名为无目斯芬克斯（Sightless Sphinx）。英雄们为了寻找被盗的奇西塞克（Chisisek）的木乃伊——此人是天穹法老哈科泰普一世飞行陵墓的建筑师——一路追踪遗忘法老教团，来到斯芬克斯内部的秘密总部。在那里，他们必须面对怪物雇佣兵和恶魔领主[[厄莱什卡果]]的仆从，最终与戴面具的教徒及其领袖——被哈科泰普灵魂碎片附身的遗忘法老——对峙。
+
+本册《冒险之路》延续「木乃伊的面具」冒险之路，内容包括：
+
+* 《斯芬克斯的秘密》，一部面向 10 级角色的开拓者冒险，作者 Amber E. Scott。
+* 探究诅咒的阴森世界，作者 Russ Taylor。
+* 奥西里昂荒原上两场令人兴奋的额外遭遇，作者 Greg A. Vaughan。
+* 「探索者日志」中的爬行类狂怒与意外营救，作者 Amber E. Scott。
+* 五种挑战玩家角色的新怪物，作者 Michael Kortes、David Schwartz 与 Larry Wilhelm。
+}}
+
+'''冒险之路82：斯芬克斯的秘密'''（''Pathfinder #82: Secrets of the Sphinx''）是[[冒险之路]]「木乃伊的面具」系列的一部冒险，由 Amber E. Scott 撰写，配套内容出自 Michael Kortes、David Schwartz、Russ Taylor、Greg A. Vaughan 和 Larry Wilhelm，小说出自 Amber E. Scott，于 2014 年 6 月 25 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+斯芬克斯的秘密 @ 6
+NPC 图集 @ 58
+木乃伊的面具宝藏 @ 62
+- 金蛇臂环
+- 青铜哨兵
+- 荷鲁斯之眼护符
+- 隼冠
+- 神话缔造斯芬克斯
+- [[击翼弯刀]]
+- [[蝎尾之鞭]]
+凶险荒原 @ 64
+古人的诅咒 @ 70
+探索者日志：沙之影（4／6） @ 76
+怪物图鉴 @ 82
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Secrets of the Sphinx
+|releases=PDF¦PZO9082E¦2014-06¦；Softcover¦PZO9082¦2014-06¦
+}}
+
+[[分类:书目]]

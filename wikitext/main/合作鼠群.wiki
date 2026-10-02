@@ -1,0 +1,11 @@
+{{Feat
+|name=合作鼠群
+|english_name=Cooperative Swarmer
+|categories=战斗
+|description=你是一个善于团队合作的人，并且在与那些通常来说过于巨大或笨拙的近距战斗中帮了你大忙。
+|prerequisites=群居种族特性
+|benefit=你可以和一个体型与你相同或比你大的盟友占据同一个方格，即使你的盟友并没有群居[[种族特性]]。你和与你占据同一方格的生物都不会被视作[[夹击]]你们的目标，但是你会在与比你大的盟友共占一个方格时AC获得+2盾牌加值。如果你使用帮助他人来使你的盟友在攻击检定或AC上获得加值，你提供的加值会提升1。
+|source=BotB
+|source_name=野兽血脉
+|source_url=https://pf1chm.pages.dev/topics/page_699.html
+}}

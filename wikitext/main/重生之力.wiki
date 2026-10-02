@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=重生之力
+|english_name=Renewed Vigor
+|type=Ex
+|categories=防御
+|prerequisites=[[野蛮人]]4级
+|benefit=以一个[[标准动作]]，野蛮人可以医疗自己“1d8+体质修正值”点伤害。他每增加4个野蛮人等级，伤害的治疗量就会+1d8，直到20级最高的5d8。野蛮人必须至少4级才能选取此[[狂暴之力]]。
+|special=他每次狂暴只能使用1次此能力。
+|source_name=核心规则书
+}}

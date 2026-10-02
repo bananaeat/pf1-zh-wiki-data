@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Wild pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=林野感官
+|english_name=Forest Senses
+|type=种族
+|prerequisites=侏儒
+|description=身处任何未开发、未开化的地形时，你为了在突袭轮中行动而进行的[[察觉]]检定获得+2背景加值，并且你在睡眠中进行察觉检定时不承受减值。
+|source_name=荒野英雄
+|source=HotW
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Forest%20Senses
+}}

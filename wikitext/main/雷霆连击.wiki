@@ -1,0 +1,15 @@
+{{Feat
+|name=雷霆连击
+|english_name=Twin Thunders Flurry
+|categories=战斗
+|description=你的双重钝击在面对巨人时效果拔群。
+|prerequisites=矮人或侏儒，【防御训练】种族特性，进阶双武器格斗、双武器格斗或【疾风连击】职业特性，[[雷霆双击]]，[[武器专攻]]（当前持用的两种武器），基本攻击加值+6。
+|benefit=你能够[[摔绊]]体型最大为超大型的巨人亚种生物，并对他们的伤害+2。此外，每当你在主手武器命中后又以副手武器命中巨人亚种生物，你都能应用[[雷霆双击]]专长带来的副手武器伤害加成。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[雷霆大师]]（1 个条目）

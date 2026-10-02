@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Black Markets pg. 24），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=手语专精
+|english_name=Gesture Expertise
+|type=社会
+|pfs=否
+|description=你擅长非言语交流。你可以使用手语或手势系统在战斗中快速传递复杂的讯息；并且只要通过一次DC 15的[[语言学]]检定，你就能把意思表达得足够清楚，向看不懂你手势的人传达基本讯息。你在使用[[唬骗]]技能以手势传递秘密讯息，以及使用语言学技能理解手势时，获得+2背景加值。
+|source_name=黑市指南
+|source=BM
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Gesture%20Expertise
+}}

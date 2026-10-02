@@ -1,0 +1,16 @@
+{{Feat
+|name=高等卸武
+|english_name=Greater Disarm
+|categories=战斗
+|description=你可以将敌人手中的武器击飞。
+|prerequisites=[[寓守于攻]]，[[精通卸武]]，基本攻击加值+6，智力13。
+|benefit=你在[[卸武]]检定中获得+2加值，此加值与[[精通卸武]]专长带来的加值累计。每当你成功卸除敌人武器时，该武器由其持有者位置向随机方向飞出15尺。
+|normal=被卸除的武器和装备落在被卸除的生物脚下。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[定向卸武]]（1 个条目）

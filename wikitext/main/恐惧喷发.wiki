@@ -1,0 +1,16 @@
+{{Spell
+|name=恐惧喷发
+|english_name=Miasmal dread
+|school=惑控系 (胁迫)
+|tags=恐惧;影响心灵
+|levels=反圣武士 2;吟游诗人 2;歌者 2;血脉狂怒者 2;审判者 3
+|action=标准动作
+|components=语言;姿势
+|range=30英尺
+|area=锥形爆发
+|duration=立即
+|save=无
+|sr=否
+|description=一团带病的绿色雾气从你的嘴中喷涌而出，并在锥形（范围）中的生物周围凝聚。作为施放该法术的一部分尝试一次挫败士气的威吓检定，将结果与该区域内每个敌人被威吓所需的DC进行比较。你会挫败所有你达到或超过DC的敌人的士气。
+|source=内海种族
+}}

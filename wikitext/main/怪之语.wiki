@@ -1,0 +1,10 @@
+{{Trait
+|name=怪之语
+|english_name=Voice of Monsters
+|type=宗教
+|prerequisites=信仰[[拉玛什图]]
+|description=你的信仰引领你从最可怖可憎之物中寻求力量和奇迹。你可以每日施展1次[[动物交谈]]。当你施放该法术时，还可以如同影响动物般对异怪类生物和智力2点以下的魔法兽生效。
+|source_name=宗教背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

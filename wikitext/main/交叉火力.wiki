@@ -1,0 +1,12 @@
+{{Feat
+|name=交叉火力
+|english_name=Enfilading Fire
+|categories=战斗;团队
+|description=透过盟友的[[夹击]]，你在射击时得到额外的优势。
+|prerequisites=[[近距射击]]，[[精准射击]]，另一项团队专长。
+|benefit=当至少一个拥有此专长的盟友夹击敌人时，你对该目标的远程攻击得到+2加值。
+|stamina=在每次攻击前，只要花费1点耐力，即使夹击的盟友不拥有团队专长你也可享受该专长的效果
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

@@ -1,0 +1,17 @@
+{{Spell
+|name=硬化术
+|english_name=Hardening
+|school=变化系
+|levels=奥能师 6;术士 6;法师 6
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=一件物体，其体积不得超过10立方呎/等级
+|duration=永久
+|save=无
+|sr=是（物体）
+|description=此法术增加材料硬度1点/2施法者等级。硬化术不会以任何方式影响材料对其他形式转化的抗性。
+
+此法术最多影响10立方呎/等级。如果施放在金属或其他矿物上，此法术影响1立方呎/等级。
+|source=探索者编年史：战役设定
+}}

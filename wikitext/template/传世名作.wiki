@@ -1,0 +1,47 @@
+<includeonly>{{吟游诗人导航}}{{#invoke:版权抬头|main}}<div class="feat masterpiece">
+<div class="feat-head">
+<div class="feat-name">{{{名称|{{PAGENAME}}}}}<span class="feat-cats">{{#if:{{{表演|}}}|{{#arraymap:{{{表演|}}}|、|@@|<span class="tag">@@</span>| }}}}{{#ifeq:{{{类型|}}}|萨迦|<span class="tag">萨迦（歌者）</span>}}</span>{{#ifeq:{{{PFS|}}}|否|<span class="tag tag-warn">非 PFS 合法</span>}}</div>
+<div class="feat-en">{{#if:{{{英文名|}}}|[https://aonprd.com/BardMasterpieces.aspx {{{英文名}}}]}}</div>
+</div><!--
+-->{{#if:{{{短描述|}}}|<div class="feat-flavor">{{{短描述|}}}</div>}}<!--
+-->{{#if:{{{条件|}}}|<div class="feat-block"><span class="k">先决条件</span>{{{条件|}}}</div>}}<!--
+-->{{#if:{{{花费|}}}|<div class="feat-block"><span class="k">花费</span>{{{花费|}}}</div>}}<!--
+-->{{#if:{{{描述|}}}|<div class="feat-block feat-benefit"><span class="k">效果</span>{{{描述|}}}</div>}}<!--
+-->{{#if:{{{使用|}}}|<div class="feat-block"><span class="k">使用</span>{{{使用|}}}</div>}}<!--
+-->{{#if:{{{动作|}}}|<div class="feat-block"><span class="k">动作</span>{{{动作|}}}</div>}}<!--
+-->{{#if:{{{备注|}}}|<div class="feat-block feat-extra"><span class="k">备注</span>{{{备注|}}}</div>}}<!--
+-->{{#if:{{{出处|}}}|<div class="feat-source"><span class="key">来源</span> <span class="value">{{#arraymap:{{{出处|}}}|;|@@|[[@@]]|、}}</span></div>}}{{{来源|}}}
+</div>{{条目页脚|速查=传世名作|分类=传世名作}}[[分类:传世名作]]</includeonly><noinclude>
+==说明==
+[[吟游诗人]]的[[传世名作]]（及[[歌者]]的萨迦）条目卡片。样式沿用 [[模板:Feat]] 的 <code>.feat</code> 卡片，页顶自动带 [[模板:吟游诗人导航]]、页尾带条目页脚和 [[:分类:传世名作]]。
+
+===参数===
+;名称 / 英文名: 中英文名。名称留空取页名；英文名链到 AoN 的传世名作列表。
+;表演: 表演技能类型，顿号分隔（演讲、歌唱、弦乐、管乐、打击乐、舞蹈、戏剧、喜剧、键盘），显示成标签。
+;类型: 歌者的萨迦填 <code>萨迦</code>。
+;PFS: 填 <code>否</code> 表示非 PFS 合法。
+;短描述: 卷首一句，斜体。
+;条件 / 花费 / 描述 / 使用 / 动作: 先决条件、学习花费、效果、消耗的表演轮数、动作。
+;备注: 译注、说明。
+;出处: 书名（站上书页名），多本用分号分隔。
+;来源: 旧参数（放 <code>{{Source}}</code> 的），还认，新页用「出处」。
+
+正文里的竖线要写成 <code>&amp;#124;</code>。
+
+===示例===
+<pre>
+{{传世名作
+|名称=三拍子
+|英文名=Triple Time
+|表演=打击乐、弦乐、管乐
+|短描述=这首欢快的乐曲让听众脚步轻快。
+|条件=[[表演]]（打击乐）、[[表演]]（弦乐）或[[表演]]（管乐）3级
+|花费=专长或1环已知法术
+|描述=……
+|使用=3轮吟游表演轮数
+|动作=1个标准动作
+|出处=极限魔法
+}}
+</pre>
+[[分类:模板]][[分类:规则模板]]
+</noinclude>

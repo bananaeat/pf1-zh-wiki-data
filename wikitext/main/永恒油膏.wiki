@@ -1,0 +1,14 @@
+{{魔法物品
+|name=永恒油膏
+|english_name=Unguent of Timelessness
+|aon=MagicWondrousDisplay.aspx?FinalName=Unguent of Timelessness
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=无
+|price=150 gp
+|description=把这种油膏涂在任何曾经活着的物质上，如木头、纸张或尸体，能让该物质抵抗时间的流逝。实际过去的每一年，对该物质的影响都只相当于过去了一天。被涂抹的物体在所有豁免上获得+1抗力加值。油膏永远不会失效，但可以被魔法移除（例如通过驱散该效果）。一瓶油膏的量足以涂抹8个中型或更小的物体。一个大型物体算作2个中型物体，一个超大型物体算作4个中型物体。
+|req=[[制造奇物]]、[[遗体防腐]]
+|cost=75 gp
+|source=核心规则书、极限宝具
+}}

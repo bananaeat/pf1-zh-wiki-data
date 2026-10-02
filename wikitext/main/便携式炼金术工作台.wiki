@@ -1,0 +1,9 @@
+{{装备
+|name=便携式炼金术工作台
+|english_name=Portable alchemist's lab
+|cat=工具
+|price=75 gp
+|weight=20磅
+|description=这副精简版的完整尺寸炼金师工作台可以为你的工艺（炼金）检定提供+1环境加值。
+|source=冒险者的军械库、进阶玩家指南、极限宝具
+}}

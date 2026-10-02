@@ -1,0 +1,33 @@
+<includeonly>{{#invoke:版权抬头|main}}{{#addbodyclass:pf-race}}<div class="race-card"><!--
+-->{{#if:{{{属性|}}}|<div class="rc-abil"><span class="rc-k">属性调整</span>{{#arraymap:{{{属性}}}|，|@@|<span class="rc-ab">@@</span>|}}</div>}}<!--
+--><div class="rc-grid"><!--
+-->{{#if:{{{体型|}}}|<div class="rc-cell"><span class="rc-k">体型</span><span class="rc-v">{{{体型}}}</span></div>}}<!--
+-->{{#if:{{{速度|}}}|<div class="rc-cell"><span class="rc-k">速度</span><span class="rc-v">{{{速度}}}</span></div>}}<!--
+-->{{#if:{{{视觉|}}}|<div class="rc-cell"><span class="rc-k">视觉</span><span class="rc-v">{{{视觉}}}</span></div>}}<!--
+-->{{#if:{{{语言|}}}|<div class="rc-cell rc-wide"><span class="rc-k">起始语言</span><span class="rc-v">{{{语言}}}</span></div>}}<!--
+-->{{#if:{{{出处|}}}|<div class="rc-cell rc-wide"><span class="rc-k">出处</span><span class="rc-v">{{{出处}}}</span></div>}}<!--
+--></div><!--
+-->{{#if:{{{跳转|}}}|<div class="rc-jump">{{{跳转}}}</div>}}<!--
+--></div></includeonly><noinclude>
+种族页顶上的一张速览卡：属性调整、体型、速度、视觉、起始语言，外加一排跳到本页各节的链接。
+
+数据是从种族页自己的「种族特性」一节里抽出来的（<code>tools/race_card_data.py</code>），
+'''抽不出来的格不填'''——模板会把空格整个藏掉，不会留一行「体型：—」。
+
+<pre>
+{{种族卡
+|属性=+2体质，+2感知，-2魅力
+|体型=中型
+|速度=20尺
+|视觉=黑暗视觉60尺
+|语言=通用语以及矮人语
+|跳转=&lt;span class="pill"&gt;[[#替换种族特性|替换种族特性]]&lt;/span&gt;
+}}
+</pre>
+
+「跳转」里的链接要自己包一层 <code>&lt;span class="pill"&gt;</code>：皮肤对正文里的
+<code>&lt;a&gt;</code> 压得很死，药丸样式只能挂在 span 上。
+
+样式见 [[MediaWiki:Common.css]] 的「种族卡」一节。
+[[分类:模板]]
+</noinclude>

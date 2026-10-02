@@ -1,0 +1,19 @@
+{{魔法物品
+|name=心灵掌控权杖
+|english_name=Rod of Mind Mastery
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Mind Mastery
+|cat=权杖
+|aura=中等防护系、预言系
+|cl=7
+|slot=无
+|price=67,000 gp
+|weight=5磅
+|description=这根权杖是一根简单、没有装饰的清澈水晶，经魔法硬化。持用者持续处于一个[[回避侦测]]法术的效果之中。此外，这根权杖还有以下能力。
+
+每天3次，以命令激活，使用者可以用它施展[[侦测思想]]法术。
+
+每天1次，作为一个[[直觉动作]]，持用者可以判定某人是否在对她说谎，如同[[辨识谎言]]法术。
+|req=[[制造权杖]]、[[侦测思想]]、[[辨识谎言]]、[[回避侦测]]
+|cost=33,500 gp
+|source=极限宝具
+}}

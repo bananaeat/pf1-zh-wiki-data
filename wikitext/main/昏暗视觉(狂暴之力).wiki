@@ -1,0 +1,10 @@
+{{消歧义|昏暗视觉(消歧义)}}
+{{狂暴之力
+|name=昏暗视觉
+|english_name=Low-Light Vision
+|type=Ex
+|categories=杂项
+|benefit=野蛮人的感官瞬间变的更加灵敏。当狂暴时，他获得昏暗视觉。
+|unchained=低光视力
+|source_name=核心规则书
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=解法拳
+|english_name=Dispelling Fist
+|description=通过专注于研究如何利用和破解魔法能量，你能够徒手击破敌人的魔法防御。
+|prerequisites=[[精通徒手打击]]，基本攻击加值+11，能够施放‘解除魔法’，施法者等级7。
+|benefit=如果准备了[[解除魔法]]法术或能够自发施放它，当你用[[徒手打击]]命中一个敌人后，你可以用[[迅捷动作]]施放一次以他为目标的‘解除魔法’。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

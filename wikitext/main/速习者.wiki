@@ -1,0 +1,8 @@
+{{Trait
+|name=速习者
+|english_name=Quick Learner
+|type=装备
+|description=你精于习得使用武器的手感，只需在战斗中稍稍挥舞几下，就能找到感觉。在你使用不擅长的武器进行第一次攻击以后，由于不擅长该武器造成的减值减少2(由-4变为-2)。这个效果只在武器仍在手中时持续，你必须每次拿起时都要“重新学习”。
+|source_name=装备背景
+|source_url=https://pf1chm.pages.dev/topics/page_1579.html
+}}

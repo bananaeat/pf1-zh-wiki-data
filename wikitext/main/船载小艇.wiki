@@ -1,0 +1,9 @@
+{{装备
+|name=船载小艇
+|english_name=Ship's boat
+|cat=水上交通
+|price=500 gp
+|passage=2 cp
+|description=船载小艇通常会放置在大型船只的甲板上，用于运送乘客和货物。
+|source=极限宝具
+}}

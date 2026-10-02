@@ -1,0 +1,10 @@
+{{Trait
+|name=熔炉卫
+|english_name=Guardian of the Forge
+|type=宗教
+|prerequisites=信仰[[托拉格]]
+|description=[[托拉格]]的神职是保护虔信者、从过往的伟大匠人和策士身上学习、以及预备黑暗时刻的到来。你的知识(工程)和知识(历史)检定获得+1背景加值，并且总能将二者之一(自行选择)视为你的[[本职技能]]。
+|source_name=宗教背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

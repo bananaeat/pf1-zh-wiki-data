@@ -1,0 +1,10 @@
+{{Trait
+|name=癫狂心态
+|english_name=Unhinged Mentality
+|type=宗教
+|prerequisites=信仰[[拉玛什图]]
+|description=来自女神赐予的疯狂给予你在对抗[[困惑]]，疯狂，和恐惧效果的豁免检定时得到+2背景加值。【摘自 Evana 的翻译】
+|source_name=内海诸神
+|source=摘自 Evana 的翻译
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=飞龙狂怒流
+|english_name=Wyvern Fury Style
+|categories=战斗;流派
+|description=你可以用鞭子横扫，用剑刃快戳刺，来模仿双足飞龙那有力的啮咬和充满尖刺的尾击。
+|prerequisites=擅长异种武器：长鞭，特技3级，连打职业能力或疾风连击职业能力
+|benefit=使用本流派时，在进行连打或疾风连击时你可以结合匕首，拳刃，蝎尾鞭，带刺铁手套或长鞭进行攻击。这些攻击中只有一次可以是长鞭或蝎尾鞭。
+|source=LoD
+|source_name=巨龙遗产
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

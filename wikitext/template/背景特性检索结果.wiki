@@ -1,0 +1,7 @@
+<includeonly><div class="gs-card" style="display:flex;gap:.6em;padding:.5em .2em;border-bottom:1px solid #ebe4d6"><div style="flex:1;min-width:0"><div style="display:flex;flex-wrap:wrap;align-items:baseline;gap:.45em"><span style="font-size:1.1em;font-weight:bold;line-height:1.5">[[{{{page|}}}|{{{name|}}}]]</span>{{#ifeq:{{{name|}}}|{{{en|}}}||{{#if:{{{en|}}}|<span style="color:#8a8175;font-size:.85em">{{{en}}}</span>}}}}{{#if:{{{type|}}}|<span style="padding:0 .4em;background:#fffdf8;border:1px solid #ebe4d6;border-radius:3px;color:#5c4f35;font-size:.8em">{{{type}}}背景</span>}}{{#ifeq:{{{untr|0}}}|1|<span style="padding:0 .4em;background:#f4efe4;border:1px solid #e0d8c6;border-radius:3px;color:#8a6d3b;font-size:.78em">未汉化</span>}}{{#if:{{{pfs|}}}|<span style="padding:0 .4em;background:#eef2e8;border:1px solid #d8e0cc;border-radius:3px;color:#5a7a52;font-size:.78em">PFS</span>}}{{#if:{{{book|}}}|<span style="margin-left:auto;color:#8a8175;font-size:.82em">[[{{{book}}}]]</span>}}</div><div style="margin-top:.1em;color:#7a7264;font-size:.86em">{{#if:{{{prereq|}}}|<span style="color:#5c4f35">先决条件</span> {{{prereq}}}}}{{#if:{{{desc|}}}|<div style="margin-top:.1em">{{{desc}}}</div>}}</div></div></div></includeonly><noinclude>
+快速检索器渲染单条背景特性用的结果卡，参数名就是 [[Data:Traits.tab]] 的列名（tools/export_data_tab.py --what 背景特性）。
+
+'''整段必须写成一行''' ——一换行 MediaWiki 就塞 <code><p></code>，flex 会散。
+
+'''样式写成行内''' ——站点 CSS 走 CDN 要等四小时。
+[[分类:模板]]</noinclude>

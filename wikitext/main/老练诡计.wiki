@@ -1,0 +1,11 @@
+{{Feat
+|name=老练诡计
+|english_name=Diplomatic Ruse
+|categories=团队
+|description=通过练习手势，你可对一场不可避免的战斗，为你自己争取足够的时间以做好准备。
+|prerequisites=[[交涉]]3级，[[人类]]（柯莱士人）。
+|benefit=每当你与一名同样拥有该专长的盟友相邻，那么在进行[[先攻]]检定时，你就能做出一种利落、有礼的手势。作为该手势的一部分，你可执行某个[[自由动作]]，比如扔下一件物品或进入狂暴。这一专长只能在谈话后爆发的战斗中使用，比如谈判失败。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

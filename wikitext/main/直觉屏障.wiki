@@ -1,0 +1,16 @@
+{{Spell
+|name=直觉屏障
+|english_name=Reflexive barrier
+|school=塑能系
+|tags=力场
+|levels=异能者 3;魔战士 3
+|action=直觉动作
+|components=语言;姿势
+|range=近距（25呎+5呎/2等级）
+|target=一个生物
+|duration=1轮（见描述）
+|save=无（无害）
+|sr=否（无害）
+|description=转瞬之间，你创造了一个偏折攻击的力场护壁来保护一个目标。目标在AC上获得等于你的施法者等级一半的偏斜加值。这个加值持续到你的下一轮开始。你可以作为对一次攻击的反应施放该法术，但是你必须在攻击检定结果揭示之前使用。
+|source=异能选集
+}}

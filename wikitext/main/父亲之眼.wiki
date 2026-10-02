@@ -1,0 +1,9 @@
+{{Trait
+|name=父亲之眼
+|english_name=Eye of the Father
+|type=宗教
+|prerequisites=信仰[[托拉格]]
+|description=因为你曾经花过漫长的时间在神殿观摩长老们锻造，所以你能够一眼看出你制造的工艺品是好是坏的。选择一项工艺，你在用工艺制造指定类型的物品时获得+1背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

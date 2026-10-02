@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=依斯嘉孤儿
+|english_name=Isgeri Orphan
+|type=地区
+|prerequisites=依斯嘉
+|description=你在遍布依斯嘉乡间的众多[[阿斯莫迪斯]]派孤儿院之一长大。无论你是否接受了他们的教诲，「魔鬼修女」们严厉的灌输都让你的身体变得经得起惩罚。你的强韧豁免获得+1背景加值。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Isgeri%20Orphan
+}}

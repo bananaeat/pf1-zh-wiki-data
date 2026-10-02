@@ -1,0 +1,13 @@
+{{危害
+|name=吊斧陷阱
+|english_name=Swinging Axe Trap
+|kind=陷阱
+|trap_type=机械
+|cr=1
+|perception=DC 20
+|disable=DC 20
+|trigger=位置型
+|reset=手动
+|effect=近战攻击 +10（1d8+1/×3）；复数目标（10尺线形区域全体）
+|source=核心规则书
+}}

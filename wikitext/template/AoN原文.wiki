@@ -1,0 +1,15 @@
+<includeonly>英文原文见 Archives of Nethys：[https://www.aonprd.com/{{#iferror:{{#expr:{{{1}}}}}|{{#replace:{{{1}}}| |%20}}|Rules.aspx?ID={{{1}}}}} {{{2|{{{1}}}}}}]{{#if:{{{3|}}}|、[https://www.aonprd.com/{{#iferror:{{#expr:{{{3}}}}}|{{#replace:{{{3}}}| |%20}}|Rules.aspx?ID={{{3}}}}} {{{4|{{{3}}}}}}]}}{{#if:{{{5|}}}|、[https://www.aonprd.com/{{#iferror:{{#expr:{{{5}}}}}|{{#replace:{{{5}}}| |%20}}|Rules.aspx?ID={{{5}}}}} {{{6|{{{5}}}}}}]}}。</includeonly><noinclude>
+规则页页脚的「英文原文」一行，链回 [https://www.aonprd.com Archives of Nethys]（AoN）上对应的规则页。
+
+ <nowiki>{{AoN原文|44|Combat}}</nowiki>
+ <nowiki>{{AoN原文|118|Carrying Capacity|119|Movement}}</nowiki>
+
+参数两两一组：AoN 的 `Rules.aspx?ID=` 编号、AoN 上那一页的英文标题；一页对几节就写几组（最多三组）。
+
+不是规则页的（状态、变体职业……），编号那一格写 AoN 的页面地址（不带域名；条目名里的空格会自动换成 %20）。地址里有等号，参数要写成带编号的：
+ <nowiki>{{AoN原文|1=ArchetypeDisplay.aspx?FixedName=Brawler%20Bouncer|2=Bouncer}}</nowiki>
+示例：{{AoN原文|118|Carrying Capacity|119|Movement}}
+
+《核心规则书》《游戏主持人指南》的规则页都挂了（`tools/aon_backlinks.py`，编号逐页对过 AoN 的标题和页码）。
+[[分类:模板]]
+</noinclude>

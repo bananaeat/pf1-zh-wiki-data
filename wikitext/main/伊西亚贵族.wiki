@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 5），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=伊西亚贵族
+|english_name=Issian Noble
+|type=地区
+|prerequisites=布雷斡
+|description=你是布雷斡某个相互争斗的贵族家族的后裔，精通在布雷斡残酷无情的政坛中周旋。你的[[知识]]（贵族）和[[察言观色]]检定获得+1背景加值。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Issian%20Noble
+}}

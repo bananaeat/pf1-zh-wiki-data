@@ -1,0 +1,10 @@
+{{Trait
+|name=用毒教养
+|english_name=Poisonous Upbringing
+|type=种族
+|prerequisites=[[卓尔]](Drow)
+|description=在你用毒的教育期间仅有几个棘手时刻。你在对抗毒素效果的所有豁免获得+2背景加值。
+|source_name=邪恶特务Agents of Evil
+|source=Agents of Evil
+|source_url=https://pf1chm.pages.dev/topics/zh702815cd02.htm
+}}

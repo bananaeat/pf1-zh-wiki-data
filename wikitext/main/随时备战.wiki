@@ -1,0 +1,10 @@
+{{Feat
+|name=随时备战
+|english_name=Ready for Battle
+|description=你植入的诡计能让受术者的身体能够更快地投入战斗。
+|prerequisites=[[催眠师诡计]]职业能力
+|benefit=当你植入一个[[催眠师诡计]]时，受术者会在[[先攻]]检定上获得+2士气加值，直至该项催眠师诡计被触发或者持续时间结束为止。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

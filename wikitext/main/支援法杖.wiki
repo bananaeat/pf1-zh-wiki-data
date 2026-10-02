@@ -1,0 +1,20 @@
+{{魔法物品
+|name=支援法杖
+|english_name=Staff of Bolstering
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Bolstering
+|cat=法杖
+|aura=中等变化系
+|cl=8
+|slot=无
+|price=41,600 gp
+|weight=5磅
+|description=这根玫瑰木杖的顶端先收窄、后又扩张，上面箍着数个金属环。它可以使用以下法术：
+
+* [[熊之坚韧]]（1 发）
+* [[牛之力量]]（1 发）
+* [[猫之优雅]]（1 发）
+* [[高等魔化武器]]（1 发）
+|req=[[制造法杖]]、[[熊之坚韧]]、[[牛之力量]]、[[猫之优雅]]、[[高等魔化武器]]
+|cost=20,800 gp
+|source=进阶玩家指南、极限宝具
+}}

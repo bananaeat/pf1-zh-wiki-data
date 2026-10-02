@@ -1,0 +1,13 @@
+{{魔法物品
+|name=犟驴护肩
+|english_name=Pauldrons of the Jackass
+|aon=MagicCursedDisplay.aspx?ItemName=Pauldrons of the Jackass
+|cat=诅咒物品
+|aura=中等变化系
+|cl=7
+|slot=肩部
+|weight=3磅
+|description=这副钢制护肩在穿戴之前，看起来装饰着奔腾的骏马，而一旦穿上，马的形状就会变成一头头目瞪口呆的驴。穿戴者的敏捷受到-4减值，所有速度降低10尺。必须成功施展[[移除诅咒]]之后，才能取下这件物品。
+|req=任意护肩
+|source=极限宝具
+}}

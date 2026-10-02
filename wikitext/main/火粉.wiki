@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=火粉
+|english_name=Firepowder
+|aon=MagicWondrousDisplay.aspx?FinalName=Firepowder
+|cat=奇物
+|aura=微弱塑能系［火］
+|cl=3
+|slot=无
+|price=10 gp
+|weight=1/2磅
+|description=这种白垩质的黄色粉末通常装在编织细密的帆布小袋里。把火粉与细沙混合后，混合物会迅速升温直至燃烧，形成一团无需额外燃料的缓燃火焰。半磅火粉需要1分钟混合，产生的火焰可以燃烧8小时，相当于一堆标准营火。
+|req=[[制造奇物]]、[[不灭明焰]]
+|cost=5 gp，1 XP
+|source=烈焰传承玩家手册
+}}

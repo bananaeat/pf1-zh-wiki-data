@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Sargava, the Lost Colony pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=河川战士
+|english_name=River Fighter
+|type=战斗
+|prerequisites=萨迦瓦人
+|description=你习惯在游泳时战斗。如果你的[[游泳]]检定超出DC 5或更多，你可以在顺流或横穿水流游泳时进行冲锋。
+|source_name=萨迦瓦，失落的殖民地
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=River%20Fighter
+}}

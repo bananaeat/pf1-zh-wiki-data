@@ -1,0 +1,14 @@
+{{魔法物品
+|name=完美钥匙
+|english_name=Perfection's Key
+|aon=MagicArtifactsDisplay.aspx?ItemName=Perfection's Key
+|cat=神器
+|tier=高等神器
+|aura=强烈变化系
+|cl=16
+|slot=无
+|weight=1/2磅
+|description=这把白金钥匙只需轻轻一触，就几乎能打开任何锁或门。用钥匙触碰时，DC 40或更低的锁会被打开。持有钥匙的生物试图破门时，若门的破除（上锁）DC为28或更低，门就会被破开。在所有其他情况下，完美钥匙赋予持有它的生物在撬锁的[[解除装置]]检定上+10加值，并在破门的尝试上+10加值。
+|destruction=据说位面之中的某处有一把「不可能之锁」——这个机关如此完美，以至于只有这把钥匙才能破解它。如果把完美钥匙插入不可能之锁，钥匙会被摧毁，但会打开不可能之锁。
+|source=极限宝具
+}}

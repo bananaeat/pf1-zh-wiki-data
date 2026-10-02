@@ -1,0 +1,12 @@
+{{Feat
+|name=碎肉之牙
+|english_name=Mighty Bite
+|categories=战斗
+|pfs=否
+|description=你撕开敌人的肌肉，将他的脆弱内脏暴露在你的獠牙之下。
+|prerequisites=基本攻击加值+6，啮咬攻击，撕裂，巨魔
+|benefit=如果你通过撕裂特殊攻击伤害了该生物，在你的下一回合开始前，你的啮咬攻击将会获得18-20的重击威胁范围。此提升不会与其他提升啮咬攻击重击威胁范围的效果叠加（比如锋锐武器附魔和精通重击专长）。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1416.html
+}}

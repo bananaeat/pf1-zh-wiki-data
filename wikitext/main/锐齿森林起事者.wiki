@@ -1,0 +1,10 @@
+{{Trait
+|name=锐齿森林起事者
+|english_name=Fangwood Insurgent
+|type=地区
+|prerequisites=涅玛萨斯
+|description=你多年来都待在南锐齿森林的树荫之下，而在这段时间中，你与战友经常与支持帝国主义的摩尔苏恩麾下的士兵交手。打了这么多年的游击战，你学会如何辨别森林中的声音，从而判断敌人的踪迹。你在森林中的[[先攻]]检定获得+1背景加值。每天一次，身处森林中时，你可以指定自己或一名盟友投两次先攻检定，并选择其中任一结果。
+|source_name=进化职业起源
+|source=地区
+|source_url=https://pf1chm.pages.dev/topics/zhc202b8be39.htm
+}}

@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=超自然陷阱|en=Supernatural Trap|type=Su|domain=手艺领域|sub=陷阱子域 (Trap)|sub_name=陷阱子域|source=格拉利昂的狗头人|text=8级时，选择一个超自然[[游侠陷阱]]。你每天可以使用这个陷阱的次数等同于你的[[感知]]修正。[[察觉]]检定、[[解除装置]]检定和对抗陷阱的豁免检定的DC等于“10 + 1/2你的人物等级+[[感知]]修正”。陷阱持续1小时或直至触发。此能力替换手艺领域的[[手艺领域#舞空武器 (Dancing Weapons, Su)|舞空武器]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

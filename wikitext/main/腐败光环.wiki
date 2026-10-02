@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=腐败光环|en=Aura of Decay|type=Su|domain=植物领域|sub=腐朽子域 (Decay)|sub_name=腐朽子域|source=进阶玩家指南|text=到了8级你能用[[标准动作]]放出30尺的腐败光环，范围内的活物（除了你）都因为肉体腐烂受到1d6伤害，植物受到2d6点。并且只要在光环内，每轮都受到1点累积的力量减值，离开后会以每轮1点的速度恢复。你每天能使用的轮数为牧师等级，不必连续。此能力取代[[植物领域#荆棘护甲 (Bramble Armor, Su)|荆棘护甲]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

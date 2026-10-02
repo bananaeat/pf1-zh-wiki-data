@@ -1,0 +1,16 @@
+{{Spell
+|name=魔岩术
+|english_name=Magic Boulder
+|school=变化系
+|tags=土
+|levels=先知 2;德鲁伊 2;战斗祭司 2;牧师 2;猎人 2
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=接触
+|target=最多三块接触到的岩石
+|duration=30分钟或直到释放
+|save=意志，通过则无效（无害，物体）
+|sr=是（无害，物体）
+|description=本法术的效果类似于法术[[魔石术]]，但你可以将最多三块岩块（体型至多比你小两级）转化为用于投石能力或作为攻城器械弹药的魔法弹药。岩石的伤害提升一级，并在攻击检定和伤害检定上获得+1增强加值。
+|source=怪物志
+}}

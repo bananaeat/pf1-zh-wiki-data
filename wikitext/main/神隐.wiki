@@ -1,0 +1,10 @@
+{{Trait
+|name=神隐
+|english_name=Fey-Taken
+|type=缺陷
+|pfs=否
+|description=当你还是一个孩子，你曾被恶作剧的精类带到第一世界待了一段时间。当你回来以后，别人就一直觉得你古怪又疏离。你渴望回到那个地方，并觉得凡人的世界如此沉闷而令人作呕，所以你饮食不周，也从不怀疑那些奇怪的幻象。
+|benefit=你对抗疾病、幻觉和所有类型的毒药的豁免有-2罚值。你对精类施放的法术、类法术能力和超自然能力的豁免也有相同罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

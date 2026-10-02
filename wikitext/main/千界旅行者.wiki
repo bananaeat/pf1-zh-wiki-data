@@ -1,0 +1,9 @@
+{{Trait
+|name=千界旅行者
+|english_name=Traveler of a Hundred Lands
+|type=典范
+|description=你已经了解了许多地方的行事方式。选择任意两项技能； 其变成[[本职技能]]。对于其他每个地区背景，选择一个额外的技能成为本职技能。
+|source_name=典范背景
+|source=传奇编年史
+|source_url=https://pf1chm.pages.dev/topics/zh8c5ec22f89.htm
+}}

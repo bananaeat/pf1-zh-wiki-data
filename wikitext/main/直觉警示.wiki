@@ -1,0 +1,10 @@
+{{Feat
+|name=直觉警示
+|english_name=Uncanny Ally
+|description=你知道如何用自己的直觉保护他人。
+|prerequisites=警觉，直觉闪避职业能力
+|benefit=当你意识清晰并且能够自由行动时，能够看到你并且听到你的相邻盟友会获得你的直觉闪避带来的好处。如果你拥有精通直觉闪避的话，则可以在你的回合开始时以自由动作指定一名相邻的盟友，让他也获得该能力的效果。盗贼等级比你的角色等级或者你的盟友的角色等级（以较低者为准）高4级或更多的敌人，仍然可以对该盟友使用偷袭攻击。
+|source=PotR
+|source_name=正义之路
+|source_url=https://pf1chm.pages.dev/topics/page_678.html
+}}

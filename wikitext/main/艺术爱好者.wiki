@@ -1,0 +1,9 @@
+{{Trait
+|name=艺术爱好者
+|english_name=Artistic Dilettante
+|type=种族
+|prerequisites=[[人类]]（塔尔多人）
+|description=你出身富贵，并因此能迅速甄别物品价值。你在[[估价]]和自选的一项工艺技能检定上获得+1背景加值。
+|source_name=格拉里昂的人类
+|source_url=https://pf1chm.pages.dev/topics/page_1581.html
+}}

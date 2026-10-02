@@ -1,0 +1,16 @@
+{{Feat
+|name=夜魇织者
+|english_name=Nightmare Weaver
+|categories=战斗
+|description=你可以使用你创造魔法黑暗的能力来让敌人陷入恐惧。
+|prerequisites=[[精通徒手打击]]，[[夜魇之拳]]，[[威吓]]2级，创造魔法黑暗的能力。
+|benefit=通过花费[[整轮动作]]来施放[[黑暗术]]，你可以同时对法术起始区域内的所有敌人进行威吓检定，以挫败其士气。
+|special=该专长在获取[[致死打击]]和[[粉碎防御]]专长时，可以替代[[炫目技巧]]作为先决条件。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[夜魇强袭]]（1 个条目）

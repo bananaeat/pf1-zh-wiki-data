@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=火巨灵之角
+|english_name=Efreeti Horns
+|aon=MagicWondrousDisplay.aspx?FinalName=Efreeti Horns
+|cat=奇物
+|aura=中等变化系
+|cl=8
+|slot=头饰
+|price=24,000 gp
+|weight=1磅
+|description=火巨灵之角的穿戴者获得+4感知增强加值。此外，穿戴者可以消耗1点气，以一个[[整轮动作]]获得[[变巨术]]或[[缩小术]]（仅限自身）的效果，持续1分钟。无论穿戴者实际的生物类型如何，这些效果都对其生效。
+|req=[[制造奇物]]、[[变巨术]]、[[枭之睿智]]、[[缩小术]]
+|cost=12,000 gp
+|source=冒险者指南
+}}

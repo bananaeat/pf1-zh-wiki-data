@@ -1,0 +1,42 @@
+{{消歧义|钝吻古鳄(物品)}}
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=钝吻古鳄
+|english_name=Dwarf Caiman
+|cr=1/3
+|xp=135
+|alignment=绝对中立
+|size=小型
+|type=动物
+|init=+0
+|senses=昏暗视觉；察觉 +0
+|description=这只身形矫健、覆盖着绿色鳞片的爬行动物看起来像一条吻部短钝的微型鳄鱼。
+|ac=14，接触 11，措手不及 14（+3 天生，+1 体型）
+|hp=6（1d8+2）
+|fort=+4
+|ref=+2
+|will=+0
+|speed=10 尺，游泳 30 尺；冲刺
+|melee=啮咬 +1（1d4）
+|str=10
+|dex=11
+|con=15
+|int=1
+|wis=11
+|cha=2
+|bab=+0
+|cmb=–1
+|cmd=9（13 对抗摔绊）
+|feats=[[技能专攻]]（隐匿）
+|skills=[[隐匿]] +11（在水中 +19）;[[游泳]] +8
+|racial_mods=+8 隐匿（在水中）
+|environment=温暖的沼泽与河流
+|organization=单独，一对，或一群（3–12）
+|treasure=无
+|special_abilities={{怪物能力|冲刺|Ex|每分钟一次，钝吻古鳄可以冲刺，使其基础速度在 1 轮内增至 30 尺。}}
+|source=极限荒野
+|lore=
+钝吻古鳄是一种小型的鳄类掠食者，栖居于热带雨林和沼泽中湍急的溪流之间。这些耐心的掠食者有时会以别扭的姿势一动不动地趴上几个小时，然后才对猎物发动袭击，它们斑驳的鳞片使它们看起来像漂浮的木头。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Dwarf Caiman|2=Dwarf Caiman}}

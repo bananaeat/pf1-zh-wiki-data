@@ -1,0 +1,13 @@
+{{Feat
+|name=正义勇士
+|english_name=Champion of Righteousness
+|categories=阵营
+|pfs=否
+|description=你明白善必须以秩序为准绳，方能长久。
+|prerequisites=10生命骰，守序善良阵营。
+|benefit=你可以储存数量等同于魅力加值（最少1）的阵营确认，可在任何时候使用，而不限于接下来的24小时内。你可以使用一个阵营确认，使你受到的法术、魔法物品或其他基于阵营的效果视你为既非善良也非守序阵营；你可在受到攻击命中或豁免失败后选择是否使用。你在对抗混乱与邪恶生物时的武器与法术伤害检定获得+2加值（若目标同时为混乱且邪恶，则为+4）。这是一个基于阵营的效果。
+|residual=即使你不再是守序善良阵营，你仍保留对混乱与邪恶生物+2（或+4）的伤害加值。
+|source=PU
+|source_name=解放者
+|source_url=https://pf1chm.pages.dev/topics/zh771c8090a9.htm
+}}

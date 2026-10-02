@@ -1,0 +1,9 @@
+{{Trait
+|name=圣能渠
+|english_name=Sacred Conduit
+|type=信念
+|description=你的降生对母亲而言痛苦而又艰辛，以致需要借助圣能来确保你顺利存活(你的母亲则不一定有如此幸运)。那种魔法能量从儿时便萦绕在你身畔，如今你可以轻松自如地引导神圣能量。当你[[引导能量]]时，其豁免DC获得+1背景加值。
+|source_name=信念背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

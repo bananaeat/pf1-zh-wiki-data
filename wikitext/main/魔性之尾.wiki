@@ -1,0 +1,11 @@
+{{Feat
+|name=魔性之尾
+|english_name=Magical Tail
+|description=你长出了额外的尾巴，它代表着你不断成长的魔力。
+|prerequisites=狐妖。
+|benefit=你获得了新的类法术能力，每个每天都能用2次，按照后述内容依序选取：[[易容术]]，[[魅惑人类]]，[[误导术]]，[[隐形术]]，[[暗示术]]，[[移位术]]，[[困惑术]]，[[支配人类]]。例如，你第一次选择该专长，你获得每天2次的‘易容术’，第二次选择该专长获得每天2次的‘魅惑人类’。你的CL等同于你的HD。这些能力的DC基于魅力。
+|special=你最多能够选择该专长8次。每次你选择该专长都会按照以上描述获得额外的能力。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

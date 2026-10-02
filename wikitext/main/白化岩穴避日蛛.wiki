@@ -1,0 +1,41 @@
+{{速查导航}}
+{{怪物
+|name=白化岩穴避日蛛
+|english_name=Solifugid, Albino Cave
+|cr=4
+|xp=1,200
+|alignment=绝对中立
+|size=中型
+|type=虫类
+|init=+1
+|senses=黑暗视觉 60 尺；察觉 +4
+|description=这蜘蛛一样的生物的前腿末端是巨大而紧握的爪子。它的嘴部长着一对巨大的直立下颚。
+|ac=17，接触 11，措手不及 16（+1 敏捷，+6 天生）
+|hp=45（6d8 +18）
+|fort=+8
+|ref=+3
+|will=+2
+|immune=影响心灵效果
+|speed=50 尺，攀爬 30 尺
+|melee=噬咬 +7（1d8 +3），2 爪抓 +7（1d4 +3）
+|special_attacks=[[通用怪物规则#猛扑|猛扑]]，撕裂（2 爪抓，1d6 +4）
+|str=16
+|dex=13
+|con=17
+|int=–
+|wis=11
+|cha=2
+|bab=+4
+|cmb=+7
+|cmd=18（26 对抗摔绊）
+|skills=[[攀爬]] +11;[[察觉]] +4;[[隐匿]] +5
+|racial_mods=+4 察觉，+4 隐匿
+|environment=任意地下
+|organization=单独，成对，或群聚（3–6）
+|treasure=无
+|source=怪物图鉴2
+|lore=
+这六条腿的白化岩穴避日蛛以它们进攻性的狩猎模式而闻名。它的腿展达五尺，重量 100 磅。
+}}
+
+本页译自《[[怪物图鉴2]]》的怪物图鉴 CHM。

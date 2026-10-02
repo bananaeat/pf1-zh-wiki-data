@@ -1,0 +1,16 @@
+{{Spell
+|name=手忙脚乱
+|english_name=Unprepared combatant
+|school=惑控系 (胁迫)
+|tags=情绪;影响心灵
+|levels=催眠师 1;吟游诗人 1;奥能师 1;女巫 1;异能者 1;术士 1;歌者 1;法师 1;通灵者 1
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一名生物
+|duration=1分钟/等级
+|save=意志，通过则无效
+|sr=是
+|description=目标的[[先攻]]检定和反射豁免检定获得-4罚值。
+|source=极限魔法
+}}

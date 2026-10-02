@@ -1,0 +1,10 @@
+{{Feat
+|name=高等学派魔宠
+|english_name=Greater School Familiar
+|description=你的[[学派魔宠]]要比它的同类强大许多。
+|prerequisites=[[学派魔宠(专长)|学派魔宠]]，[[法师]]等级10级，专精[[奥术学派]]职业能力
+|benefit=你的[[学派魔宠]]获得学派魔宠变体中的高阶[[学派力量]]。
+|source=FF
+|source_name=魔宠手记
+|source_url=https://pf1chm.pages.dev/topics/page_1462.html
+}}

@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=高等月之图腾
+|english_name=Moon Totem, Greater
+|type=Su
+|categories=图腾
+|prerequisites=[[野蛮人]]10级，[[月之图腾]]
+|benefit=狂暴时，野蛮人忽略[[隐蔽]]造成的失手率，并将[[全隐蔽]]视作隐蔽。
+|source_name=荒野源始
+}}

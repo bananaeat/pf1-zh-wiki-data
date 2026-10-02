@@ -1,0 +1,12 @@
+{{危害
+|name=邪魔消瘦症
+|english_name=Daemonic Wasting
+|kind=疾病
+|type=接触
+|save=强韧 DC 23
+|onset=1天
+|frequency=1次/天
+|effect=1d4点体质伤害和1d4点魅力伤害
+|cure=连续2次豁免成功
+|source=冒险之路54：空王座
+}}

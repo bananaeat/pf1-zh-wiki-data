@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Ironfang Invasion Player's Guide pg. 8），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=不屈幸存者
+|english_name=Unbreakable Survivor
+|type=战役
+|pfs=否
+|description=十多年前，强盗夺走了你生命中珍视的一切，只留你奄奄一息。在那之后的这些年里，你设法重建了生活，而你的坚韧让你成了当地的传奇人物。每天一次，你可以用一个整轮动作撑过部分伤痛，立即恢复等同于你的体质调整值+每生命骰1点的生命值。你以坚韧著称的名声激励着你的邻里，每当你尝试用[[交涉]]或[[威吓]]检定影响费恩达尔的居民时，你获得+1背景加值。6级时，你的名声进一步传遍全国，你可以将这项背景加值应用于影响涅玛萨斯所有类人生物的交涉和威吓检定。
+|source_name=Ironfang Invasion Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Unbreakable%20Survivor
+}}

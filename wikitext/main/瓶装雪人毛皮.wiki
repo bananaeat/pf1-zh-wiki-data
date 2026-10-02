@@ -1,0 +1,14 @@
+{{魔法物品
+|name=瓶装雪人毛皮
+|english_name=Bottled Yeti Fur
+|aon=MagicWondrousDisplay.aspx?FinalName=Bottled Yeti Fur
+|cat=奇物
+|aura=微弱防护系
+|cl=3
+|slot=无
+|price=800 gp
+|description=这个小小的不透明瓶子被打开时，会释放出一大股粗糙的白色毛皮。毛皮沿着使用者的手臂向上爬，蔓延到全身，把使用者完全包裹在一层纠结的皮毛里。被这层毛皮包裹期间，使用者获得寒冷抗力5、+2天生护甲加值，以及在冰雪地带的隐匿检定上+4表现加值。毛皮会在24小时后从使用者身上脱落，也可以在此之前浸泡在酒精中将其除去。瓶子在使用一次后即耗尽。
+|req=[[制造奇物]]、[[树肤术]]、[[抵抗能量伤害]]
+|cost=400 gp
+|source=极限宝具
+}}

@@ -1,0 +1,16 @@
+{{武器
+|name=刀片靴
+|english_name=Blade boot
+|category=武器
+|prof=军用
+|wcat=轻型
+|price=25 gp
+|weight=2磅
+|dmg_s=1d3
+|dmg_m=1d4
+|crit=×2
+|type=穿刺
+|special=见正文
+|description=刀片靴配有一把装在弹簧上的刀片，当用脚尖以正确的组合按压触发时就会弹出。你可以将刀片靴作为副手武器使用。弹出刀片是一个[[迅捷动作]]；重新装好刀片是一个[[整轮动作]]。当刀片弹出时，你将正常地形视为[[困难地形]]，并将困难地形视为无法通行。
+|source=冒险者的军械库
+}}

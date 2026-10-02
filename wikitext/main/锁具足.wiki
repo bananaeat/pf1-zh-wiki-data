@@ -1,0 +1,14 @@
+{{防具
+|name=锁具足
+|english_name=Kusari gusoku
+|acat=重型盔甲
+|price=350 gp
+|weight=45磅
+|ac=+7
+|maxdex=+1
+|acp=–7
+|asf=35%
+|speed=20尺／15尺
+|description=锁具足与[[叠具足]]相似，只是穿在胸部的不是胸甲，而是一件名为“帷子”的[[链甲]]上衣。
+|source=极限战斗、极限宝具
+}}

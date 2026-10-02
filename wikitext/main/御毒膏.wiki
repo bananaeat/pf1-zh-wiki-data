@@ -1,0 +1,10 @@
+{{装备
+|name=御毒膏
+|english_name=Poison ward salve
+|cat=炼金药剂
+|price=15 gp
+|weight=—
+|craft_dc=15
+|description=这种草药膏可以直接涂抹在皮肤上，以防范接触毒药的效果。若一个生物碰触到了接触毒药，而你在其接触后的1轮内将药膏涂抹上去，那么受害者掷两次豁免并取较高的结果。
+|source=进阶职业指南
+}}

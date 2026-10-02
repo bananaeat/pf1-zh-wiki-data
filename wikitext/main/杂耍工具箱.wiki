@@ -1,0 +1,9 @@
+{{装备
+|name=杂耍工具箱
+|english_name=Entertainer's kit
+|cat=套装
+|price=5 sp
+|weight=3磅
+|description=该工具箱包括杂耍球，彩色手帕，纸牌，小丑化妆用具，以及供舞台魔术师和其他街头艺人使用的简单道具。
+|source=极限宝具
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=穴蛇(龙穴)
+|english_name=Lair Snake
+|type=地区
+|pfs=否
+|prerequisites=龙巢
+|description=在你的成长岁月里，你在龙的面前卑躬屈膝，见证到巨大宝藏的辉煌......并为自己积攒一些钱币。你的[[估价]]检定获得+1背景加值，起始资金增加200gp。
+|source_name=格拉里昂的狗头人
+|source_url=https://pf1chm.pages.dev/topics/zh93978f31f4.htm
+}}

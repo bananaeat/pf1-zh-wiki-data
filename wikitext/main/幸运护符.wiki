@@ -1,0 +1,14 @@
+{{魔法物品
+|name=幸运护符
+|english_name=Fortunate Charm
+|aon=MagicWondrousDisplay.aspx?FinalName=Fortunate Charm
+|cat=奇物
+|aura=微弱塑能系
+|cl=5
+|slot=颈部
+|price=3,000 gp
+|description=每天一次，这枚好运护符允许佩戴者在得知原骰结果的成败之后，重骰一次技能检定或专注检定。重骰的结果必须采用，即使比原来的结果更差。这枚护符不能用于已经通过其他方式重骰过的技能检定。
+|req=[[制造奇物]]、[[神恩]]
+|cost=1,500 gp
+|source=探索者协会战地指南
+}}

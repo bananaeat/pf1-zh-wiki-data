@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragonslayer's Handbook pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=太阳兰采集人
+|english_name=Sun Orchid Harvester
+|type=地区
+|prerequisites=苏比亚
+|description=你曾短暂受雇于德鲁布鲁胡安的炼金术士集团，在苏比亚沙漠深处采集太阳兰。虽然你始终未能在这个集团中更进一步，但你保留了受雇期间学到的知识。你在沙漠环境中进行的[[知识]]（自然）和[[生存]]检定获得+1加值。
+|source_name=屠龙者手册
+|source=DH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Sun%20Orchid%20Harvester
+}}

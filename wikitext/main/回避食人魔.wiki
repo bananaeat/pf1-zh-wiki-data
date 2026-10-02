@@ -1,0 +1,10 @@
+{{Trait
+|name=回避食人魔
+|english_name=Ogre Avoidance
+|type=战斗
+|prerequisites=
+|description=因为深知食人魔的抓握力量大得让人终生难忘，你练出了避免被食人魔抓住的防御技巧。你在对抗[[冲撞]]以及[[擒抱]][[战技]]的[[CMD]]上获得+2背景加值。
+|source=PoW
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1271.html
+}}

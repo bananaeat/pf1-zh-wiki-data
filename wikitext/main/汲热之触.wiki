@@ -1,0 +1,15 @@
+{{Spell
+|name=汲热之触
+|english_name=Endothermic Touch
+|school=变化系
+|levels=奥能师 1;女巫 1;德鲁伊 1;术士 1;法师 1;猎人 1;萨满 1
+|action=标准动作
+|components=语言;姿势;材料/圣徽（一小块蛇皮）
+|range=接触
+|target=一个龙类或者爬行亚种的活物
+|duration=1轮/等级
+|save=强韧，通过则无效
+|sr=是
+|description=这个法术在短时间里减缓一个生物的新陈代谢和其他身体机能。目标[[恍惚]]并且速度变为正常的一半（以5尺为单位向下取整），但是它在水下闭气的时间变为通常的两倍。
+|source=怪物志
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=精魂灵赋
+|english_name=Spirit's Gift
+|description=你与你所选的精魂交涉，它会赐予你的[[动物伙伴]]或[[魔宠]]一项恩惠。
+|prerequisites=动物伙伴职业能力或魔宠职业能力。
+|benefit=在每天开始时，你可以选择与一个[[萨满]]的[[魂域]]交涉（和萨满需要花费一小时准备魂域不同，你不需要任何时间）。接下来24小时内有一次，你可以用[[标准动作]]给予你的动物伙伴或魔宠你所沟通魂域的魂兽能力，持续时间为你拥有动物伙伴或魔宠职业等级每分钟。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

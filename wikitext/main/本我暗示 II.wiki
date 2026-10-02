@@ -1,0 +1,16 @@
+{{Spell
+|name=本我暗示 II
+|english_name=ID Insinuation II
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=异能者 3
+|action=标准动作
+|components=姿势
+|range=近距
+|target=两个生物
+|duration=专注 + 1轮
+|save=意志，通过则无效
+|sr=是
+|description=该法术的功能如同[[本我暗示 I]]一般，差异如上所述。此外，在该效果的第一轮，该法术的目标必须投掷两次来判断[[困惑]]状态的结果。由你选择使用哪个检定结果。该法术可以被降阶施法。
+|source=异能冒险
+}}

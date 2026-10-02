@@ -1,0 +1,9 @@
+{{物品
+|name=细绳或麻绳〔50尺〕
+|english_name=String or twine (50 ft.)
+|category=冒险装备
+|price=1 CP
+|weight=1/2磅。
+|description=细绳和[[麻绳]]通常以50英尺的绳球或线轴的形式出售，可用于绳索陷阱和报警器，且是[[爪钩箭]]的重要组成部分。[[细绳或麻绳]]硬度为0，1点生命值，击破DC14。
+|source_name=冒险者的军械库
+}}

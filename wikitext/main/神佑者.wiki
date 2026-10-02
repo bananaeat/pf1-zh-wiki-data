@@ -1,0 +1,13 @@
+{{Feat
+|name=神佑者
+|english_name=Blessed
+|categories=故事
+|pfs=否
+|description=你屡次得到天界生物的关注与恩赐，并标选你为他们的神选代理人。
+|prerequisites=你必须曾与被视为强大敌手的善良异界生物友好接触，或是拥有天界血统的术士，或具备直接的天界生物血统（例如神裔）。
+|benefit=你在涉及善良异界生物的基于魅力的检定上获得+2加值，且你对此类生物使用的法术和类法术能力的DC获得+1加值。你在涉及邪恶异界生物的基于魅力的检定上承受-2罚值。
+|goal=妨害或完胜一个被视为强大敌手的邪恶生物，但需展现仁慈并引导其转向善良。
+|completion_benefit=你获得防护邪恶效果的常驻类法术能力。此外，你在对抗邪恶异界生物的施法者等级检定上获得+2加值。 推荐背景：坚信徒（Indomitable Faith）, Inspiring, 印象深刻(Memorable)
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/zhef0bc5c087.htm
+}}

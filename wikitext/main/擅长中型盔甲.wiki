@@ -1,0 +1,17 @@
+{{Feat
+|name=擅长中型盔甲
+|english_name=Armor Proficiency, Medium
+|categories=战斗
+|description=你对于穿戴[[中型盔甲]]颇有心得。
+|prerequisites=擅长轻型盔甲。
+|benefit=见[[擅长轻型盔甲]]。
+|normal=见擅长轻型盔甲。
+|special=野蛮人，牧师，德鲁伊，战士，圣武士和游侠自动学会“擅长中型盔甲”作为[[奖励专长]]，他们无需选择这个专长。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[披甲奥术熟稔]]（1 个条目）

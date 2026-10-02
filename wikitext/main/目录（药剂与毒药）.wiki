@@ -1,0 +1,21 @@
+{{速查导航}}
+
+'''药剂与毒药P&P'''是《[[药剂与毒药]]》（Potions & Poisons）的目录页，列出这本书的 13 章。
+
+* [[内海炼金工具箱]]（Inner Sea Alchemy Kits）
+* [[简介]]（Introduction）
+* [[毒血]]（Blood of Poison）
+* [[炼金术的专家]]（Alchemical Experts）
+* 巫术酿制者（Bewitching Brewers）　—— '''站上还没有这一章'''
+* [[静谧毒杀者]]（Covert Poisoners）
+* [[求知匠人]]（Curious Crafters）
+* [[药水简述]]（Potion Prospectus）
+* [[诱人灵药]]（Enticing Elixirs）
+* [[醉人酊剂]]（Intoxicating Tinctures）
+* [[强力毒药]]（Potent Poisons）
+* [[成瘾性药物]]（Addictive drugs）
+* [[专业人士的装备]]（Practitioner's Gear）
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1255.html 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

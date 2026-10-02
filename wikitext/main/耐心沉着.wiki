@@ -1,0 +1,9 @@
+{{Trait
+|name=耐心沉着
+|english_name=Patient Calm
+|type=信念
+|description=当你还是个孩子的时候，你苦于如何压制自己的暴脾气，但是一位值得信赖的社区领袖的关心和耐心的尊重将它从你身上抹去了。随着年龄的增长，你获得了在执行熟悉的任务时，保持冷静和克制的卓越能力。选择一个手艺或专业技能。每当你对这个技能取10的时候，结果将视为你骰出了12,而不是10。
+|source_name=任务与战役
+|source=任务与战役(Quests and Campaigns
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

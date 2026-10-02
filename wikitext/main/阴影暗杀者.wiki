@@ -1,0 +1,9 @@
+{{Trait
+|name=阴影暗杀者
+|english_name=Shadow Stabber
+|type=种族
+|prerequisites=[[魔裔]]
+|description=当你与那些[[目盲]]、没有注意到你或者莽撞地将自己置身于黑暗中的敌人战斗时，来自本能的可耻行为使你获益。当你对抗那些无法看到你的敌人时，你的近战武器伤害骰获得+2背景加值。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_834.html
+}}

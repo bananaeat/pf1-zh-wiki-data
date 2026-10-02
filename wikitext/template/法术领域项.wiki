@@ -1,0 +1,6 @@
+<includeonly><span class="dom {{法术领域类|1={{#explode:{{{1|}}}| |0}}}}">{{法术领域名|{{#explode:{{{1|}}}| |0}}}}</span> {{#explode:{{{1|}}}| |1}}</includeonly><noinclude>
+==说明==
+把 <code>domains</code> 里的一项（<code>纯净子域 1</code>）拆成名字和环位，名字过 [[模板:法术领域名]] 挂链。
+分隔符要写'''字面空格''' —— <code>&amp;#32;</code> 在 <code>#explode</code> 里不当分隔符使。
+[[分类:模板]]
+</noinclude>

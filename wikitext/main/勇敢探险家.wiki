@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Sargava, the Lost Colony pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=勇敢探险家
+|english_name=Adventurous Explorer
+|type=种族
+|prerequisites=人类——桑奥
+|description=你是少数敢于走出欢笑丛林、闯荡外面世界的桑奥[[半身人]]之一。当你处于[[惊惧]]或[[战栗]]状态时，你的各项掷骰只承受-1减值，而非-2。（译注：AoN 先决条件作「人类——桑奥」，但正文称桑奥人是半身人，疑为笔误，应为半身人——桑奥。）
+|source_name=萨迦瓦，失落的殖民地
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Adventurous%20Explorer
+}}

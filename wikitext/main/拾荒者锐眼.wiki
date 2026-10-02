@@ -1,0 +1,11 @@
+{{Feat
+|name=拾荒者锐眼
+|english_name=Scavenger's Eye
+|description=你总是能自然而然地注意到那些有价值的闪亮物体。
+|prerequisites=天狗。
+|benefit=你在[[估价]]检定上获得+2加值。你还能以一个[[标准动作]]使用估价检定辨明一堆宝藏中最贵重的物品，在这么做时你在估价检定上额外获得+2加值。此外，当你在估价检定中失败5或更多时得到的结果也如同失败5点之内一般。
+|normal=使用估价检定辨明一堆宝藏中最贵重的物品需要一个[[整轮动作]]。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

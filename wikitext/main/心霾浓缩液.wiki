@@ -1,0 +1,13 @@
+{{危害
+|name=心霾浓缩液
+|english_name=Hazemind concentrate
+|kind=毒药
+|type=伤口
+|save=强韧 DC 16
+|onset=1轮
+|frequency=1次/轮，持续6轮
+|effect=受害者的心智变得模糊，其对所有其他生物的态度都会向冷漠靠近一阶；以魅力、[[交涉]]、[[驯养动物]]或[[威吓]]检定影响受害者的 DC 增加4
+|cure=1次豁免成功
+|price=200 gp
+|source=魔宠手记
+}}

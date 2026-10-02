@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[威逼]] 的神话版本。</small></div>
+{{Feat
+|name=威逼
+|english_name=Intimidating Prowess
+|categories=神话
+|description=你那神话般的身形让人感到不安。
+|prerequisites=[[威逼]]
+|benefit=在对抗非神话生物时，你的威吓检定获得加值，数值等同于你的神话阶层，这个加值在对抗神话生物时减半。若你同时具有谈判专家（神话）专长，你能够花费1次神话之力来让你的威吓检定如同掷出自然20一般。你必须在进行检定之前决定是否使用该能力。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

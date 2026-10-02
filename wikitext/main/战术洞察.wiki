@@ -1,0 +1,15 @@
+{{Spell
+|name=战术洞察
+|english_name=Tactical insight
+|school=预言系
+|levels=吟游诗人 6;审判者 6;歌者 6
+|action=标准动作
+|components=语言;姿势
+|range=1个地块
+|target=一支军队
+|duration=一场战斗
+|save=无
+|sr=否
+|description=选择一个单一的军队战术。在法术持续时间内，你让目标军队精通这一战术。这一战术可能使军队已知战术的总数超出其通常允许的数量。
+|source=任务与战役
+}}

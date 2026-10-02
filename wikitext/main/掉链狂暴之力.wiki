@@ -1,0 +1,124 @@
+{{掉链野蛮人导航}}
+{{Source|解放}}
+
+== 狂暴之力 (Rage Powers, Ex) ==
+当野蛮人变的更加老练时，他了解到驾驭自身[[狂暴之力]]的新方法。2级时，野蛮人会获得1个狂暴之力。之后的每偶数级，他都可以再习得1个额外的狂暴之力。野蛮人只能在他狂暴时才能获得狂暴之力的增益。有些狂暴之力会在狂暴时持续生效，有些则需要一个动作来使用。除非特殊写出，野蛮人不可以选择同一个狂暴之力多次。
+
+== 下面的一些狂暴之力被称为战姿 (stances) ==
+，启动一个战姿需要一个[[移动动作]]。一个野蛮人不能同时使用多个的战姿。如果野蛮人正在使用一个战姿时启动了另一个战姿，那么现在使用的战姿将会立即结束。野蛮人可以在自己回合开始时以[[自由动作]]主动结束战姿；除此之外，战姿将会在狂暴结束时结束。
+
+下面每条的正文见各自的页（《解放者》改写版单独成页）；按类型筛选、看原版对应条目见 [[狂暴之力#掉链野蛮人的狂暴之力（《解放者》）|狂暴之力总表]]。
+
+* [[精准战姿]]（Accurate Stance）
+* [[兽性之怒]]（Animal Fury）
+* [[吉祥印记]]（Auspicious Mark）
+* [[出血打击]]（Bleeding Blow）
+* [[冷静战姿]]（Calm Stance）
+* [[心若明镜]]（Clear Mind）
+* [[致残打击]]（Crippling Blow）
+* [[死亡精准]]（Deadly accuracy）
+* [[享用魔力]]（Eater of Magic）
+* [[元素战姿]]（Elemental Stance）
+
+== 能量吸收 (Energy Absorption, Su) ==
+每日一次，野蛮人能吸收一次攻击的能量伤害。这个能量必须是她[[能量抵抗]]所选择的同类型能量。她不能尝试豁免，也不会受到伤害。她反而会增加来自【狂暴】的临时生命，增加量等同于她原本应受到的能量伤害（忽视她的能量抗力）。16级起，每次狂暴一次，野蛮人可以释放她所储存的能量。这是一种60尺线形或者30尺锥形的喷吐武器。能量伤害量等同于她所吸收的能量伤害量。通过一个反射检定可以只受一半的伤害（DC=1/2野蛮人等级+体质修正）。她仍然可以保留此能力带来的临时生命，即使她使用了此喷吐武器。野蛮人至少要达到12级且拥有【能量抵抗】才能选择此狂暴之力。
+
+* [[能量抵抗]]（Energy Resistance）
+* [[无畏狂暴]]（Fearless Rage）
+* [[皮外小伤]]（Flesh Wound）
+* [[撼地一击]]（Ground Breaker）
+* [[神牛撼地]]（Ground Breaker, Greater）
+* [[防卫战姿]]（Guarded Stance）
+* [[狂怒之示]]（Inspire Ferocity）
+* [[内在强韧]]（Internal Fortitude）
+* [[威吓怒视]]（Intimidating Glare）
+* [[一击即飞]]（Knockback）
+* [[击倒战姿]]（Knockdown）
+* [[低光视力]]（Low-Light Vision）
+* [[猛力挥击]]（Mighty Swing）
+* [[夜之视觉]]（Night Vision）
+* [[无处可逃]]（No Escape）
+* [[完美明晰]]（Perfect Clarity）
+* [[威力战姿]]（Powerful Stance）
+* [[致死保护]]（Protect Vitals）
+* [[快速反射]]（Quick Reflexes）
+* [[狂暴攀手]]（Raging Climber）
+* [[狂暴跃者]]（Raging Leaper）
+* [[狂暴泳者]]（Raging Swimmer）
+* [[鲁莽战姿]]（Reckless Stance）
+* [[自发闪避]]（Reflexive Dodge）
+* [[再起战姿]]（Regenerative Stance）
+* [[生机盎然]]（Renewed Vitality）
+* [[激发怒意]]（Roused Anger）
+* [[灵敏嗅觉]]（Scent）
+* [[敏锐精准]]（Sharpened Accuracy）
+* [[边路冲锋]]（Shoves Aside）
+* [[给我靠边]]（Shoves Aside, Greater）
+* [[野蛮破坏]]（Smasher）
+* [[奋勇冲刺]]（Sprint）
+* [[力量战姿]]（Strength Stance）
+* [[神秘迷信]]（Superstition）
+* [[迅捷脚步]]（Swift Foot）
+* [[嘲讽战姿]]（Taunting Stance）
+* [[可怖狂嚎]]（Terrifying Howl）
+* [[意外之击]]（Unexpected Strike）
+* [[女巫猎人]]（Witch Hunter）
+
+== 《进阶玩家指南》 (APG) ==
+
+* [[次等野兽图腾]]（Lesser Beast Totem）
+* [[野兽图腾|中级野兽图腾]]（Beast Totem）
+* [[高等野兽图腾|高级野兽图腾]]（Greater Beast Totem）
+* [[挑衅]]（Boasting Taunt）
+
+== 斗殴 (Brawler) ==
+狂暴时野蛮人被视为如同有[[精通徒手打击]]专长。如果他已经拥有专长，他[[徒手打击]]造成1d6点伤害（小型1d4）。
+
+== 高等斗殴 (Greater Brawler) ==
+狂暴时野蛮人的[[徒手攻击]]被视为如同有[[双武器格斗]]专长。野蛮人必须习得[[斗殴]]的野蛮人才能选择此狂暴之力。
+
+* [[次等混沌图腾]]（Lesser Chaos Totem）
+* [[混沌图腾|中级混沌图腾]]（Chaos Totem）
+* [[高等混沌图腾|高级混沌图腾]]（Greater Chaos Totem）
+* [[扰法者 (消歧义)|扰法者]]（Disruptive）
+* [[狂暴坐骑]]（Ferocious Mount）
+* [[高等狂暴坐骑]]（Greater Ferocious Mount）
+* [[凶猛践踏]]（Ferocious Trample）
+* [[高等凶猛践踏]]（Greater Ferocious Trample）
+* [[次等恶魔图腾]]（Lesser Fiend Totem）
+* [[恶魔图腾|中级恶魔图腾]]（Fiend Totem）
+* [[高等恶魔图腾|高级恶魔图腾]]（Greater Fiend Totem）
+* [[苦础良药]]（Good for What Ails You）
+* [[生命守护]]（Guarded Life）
+* [[次等投掷]]（Lesser Hurling）
+* [[投掷|中级投掷]]（Hurling）
+* [[高等投掷|高级投掷]]（Greater Hurling）
+
+== 冲锋投掷 (Hurling Charge, Ex) ==
+狂暴时，野蛮人可以装备一件武器并在冲锋期间投掷出去。野蛮人在冲锋中的投掷与冲锋最后的近战攻击检定都+2。野蛮人必须至少移动10尺才能投掷，然后再移动至少10尺才能做出近战攻击。野蛮人必须在冲锋前装备一件投掷武器或是空着一只手。野蛮人必须习得【次等投掷】且至少6级才能选择这个狂暴之力。
+
+* [[勇气之水]]（Liquid Courage）
+* [[霸道推进]]（Overbearing Advance）
+* [[霸道猛进]]（Overbearing Onslaught）
+* [[醉轰鸣]]（Roaring Drunk）
+* [[骏马精神]]（Spirit Steed）
+* [[次等灵魂图腾]]（Lesser Spirit Totem）
+* [[灵魂图腾|中级灵魂图腾]]（Spirit Totem）
+* [[高等灵魂图腾|高级灵魂图腾]]（Greater Spirit Totem）
+* [[醉步]]（Staggering Drunk）
+
+== 《极限战斗》 (UC) ==
+
+* [[人体棍棒]]（Body Bludgeon）
+* [[龙图腾]]（Dragon Totem）
+* [[龙抗性]]（Dragon Totem Resilience）
+* [[幽魂狂暴者]]（Ghost Rager）
+* [[高等生命守护]]（Greater Guarded Life）
+* [[蜂群图腾]]（Hive Totem）
+* [[蜂群图腾守护]]（Hive Totem Resilience）
+* [[蜂群图腾毒素]]（Hive Totem Toxicity）
+* [[原始嗅觉]]（Primal Scent）
+* [[破除强化]]（Sunder Enchantment）
+* [[世界之蛇图腾]]（World Serpent Totem）
+* [[世界之蛇圣灵]]（World Serpent Spirit）
+* [[与世界之蛇合一]]（World Serpent Totem Unity）

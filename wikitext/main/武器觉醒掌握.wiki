@@ -1,0 +1,12 @@
+{{Feat
+|name=武器觉醒掌握
+|english_name=Weapon Evoker Mastery
+|categories=物品掌握;武器掌握
+|pfs=否
+|description=你用你魔法武器上的秘法能量折磨你的对手。
+|prerequisites=使用魔法装置技能2级，基础强韧豁免加值+3
+|benefit=当你持握一个拥有造成酸，寒冷，火，电或音波伤害特殊附魔能力的魔法武器时，以一个[[迅捷动作]]，你在1轮内使用该武器攻击时，每次命中再造成额外1d4点相同类型的伤害。
+|source=MagicTT、MTT
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_566.html
+}}

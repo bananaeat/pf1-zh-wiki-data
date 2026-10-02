@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Varisia, Birthplace of Legends pg. 31, Shattered Star Player's Guide pg. 4），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=交流探员
+|english_name=Exchange Agent
+|type=战役
+|pfs=否
+|description=虽然你在玛格尼玛算是新来的，但你可不是什么天真的外地人。你家乡的探索者协会分会派你前来，通过亲身体验这片边疆，更多地了解瓦瑞西亚。抵达后，你向玛格尼玛分会报到，把自己的专长交由冒险队长调遣。为体现你在遥远国度的经历，选择瓦瑞西亚以外的一个国家作为你的故乡，并获得该国使用的一种语言作为额外语言（见《内海世界指南》）。此外，从下列技能中选择一项：[[驯养动物]]、[[知识]]（地理）、[[语言学]]或[[生存]]。你以该技能进行的检定获得+1背景加值，并且该技能总是你的本职技能。
+|source_name=瓦瑞西亚，传说诞生之地
+|source=VBoL
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Exchange%20Agent
+}}

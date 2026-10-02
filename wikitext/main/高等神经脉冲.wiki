@@ -1,0 +1,16 @@
+{{Spell
+|name=高等神经脉冲
+|english_name=Synaptic Pulse, Greater
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=催眠师 4;异能者 5
+|action=标准动作
+|components=语言
+|range=30尺
+|area=以你为中心，半径30尺扩散区域
+|duration=1d4轮；见后文
+|save=意志，通过则无效
+|sr=是
+|description=你放射出一股精神冲击波，范围内的所有生物都会由于你的精神尖啸而[[震慑]]1d4轮。成功通过豁免的生物会[[恶心]]1轮以替代上述效果。
+|source=异能冒险
+}}

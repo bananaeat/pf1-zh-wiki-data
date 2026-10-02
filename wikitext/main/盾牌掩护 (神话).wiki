@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[盾牌掩护]] 的神话版本。</small></div>
+{{Feat
+|name=盾牌掩护
+|english_name=Saving Shield
+|categories=神话
+|description=使用盾牌护卫盟友避免伤害恰好能给你反击的机会。
+|prerequisites=[[盾牌掩护]]
+|benefit=你使用[[盾牌掩护]]专长给盟友赋予的盾牌加值增加至+3点。若你使用盾牌掩护专长成功避免1次针对邻近盟友的攻击，那么只要攻击者在你的威胁范围内，你就能够立刻对他进行[[借机攻击]]。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

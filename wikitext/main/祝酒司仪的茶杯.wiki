@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=祝酒司仪的茶杯
+|english_name=Toastmaster's Teacup
+|aon=MagicWondrousDisplay.aspx?FinalName=Toastmaster's Teacup
+|cat=奇物
+|aura=微弱防护系
+|cl=5
+|slot=无
+|price=5,000 gp
+|weight=1/4磅
+|description=下毒者用这只瓷茶杯，能让哪怕最多疑的受害者也服下致命剂量的毒药。把一剂摄入型毒药放进祝酒司仪的茶杯并说出一个命令词后，茶杯会吸收这份毒药，使其无法被察觉。当茶杯的使用者说出第二个命令词时（不必是同一个使用者），毒药会重新出现，污染杯中的任何液体。
+|req=[[制造奇物]]、[[回避侦测]]、[[毒击术]]
+|cost=2,500 gp
+|source=内海诡道
+}}

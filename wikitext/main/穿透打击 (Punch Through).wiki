@@ -1,0 +1,12 @@
+{{消歧义|穿透打击}}
+{{Feat
+|name=穿透打击
+|english_name=Punch Through
+|categories=战斗;团队
+|description=你和你的盟友擅长绕过敌人的防御。
+|prerequisites=基础攻击加值 +6。
+|benefit=以一个[[整轮动作]]，你可以对一个目标进行一次攻击。如果这次攻击命中并对目标造成伤害，所有拥有此专长的盟友在1轮内对同一目标可无视最多5点伤害减免。此专长不适用于无类型的伤害减免（如伤害减免 10/-）。
+|source=DHH
+|source_name=恶魔猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh90d9fee6da.htm
+}}

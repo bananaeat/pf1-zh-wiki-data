@@ -1,0 +1,10 @@
+{{Feat
+|name=亡命斗士
+|english_name=Desperate Battler
+|categories=战斗
+|description=你亲身对抗众多敌人。这些敌人已经击垮了你的盟友、同伴以及家人，这迫使你精于独自战斗。
+|benefit=当你身边10尺范围之内没有任何盟友，并且你没有获得来自协助他人动作的优势时，你的近战攻击与伤害检定获得+1士气加值。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

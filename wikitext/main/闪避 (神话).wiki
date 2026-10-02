@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[闪避]] 的神话版本。</small></div>
+{{Feat
+|name=闪避
+|english_name=Dodge
+|categories=神话
+|description=当你注意力集中的时候，是几乎不可能被打中的。
+|prerequisites=[[闪避]]
+|benefit=你的闪避专长给AC带来的加值增加1点。以[[直觉动作]]，你能够花费1次神话之力，来使你自己在对抗1次攻击时，AC获得额外+10点闪避加值。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

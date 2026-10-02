@@ -1,0 +1,17 @@
+{{魔法物品
+|name=稳定突变背心
+|english_name=Vest of Stable Mutation
+|aon=MagicWondrousDisplay.aspx?FinalName=Vest of Stable Mutation
+|cat=奇物
+|aura=中等防护系
+|cl=8
+|slot=胸部
+|price=20,000 gp
+|weight=2磅
+|description=这件皮革[[背心]]配有许多口袋，便于存放炼金修补所需的各种材料。
+
+不过这件背心最主要的作用，是缓解炼金术士的[[突变药剂]]的负面效果。穿戴者在任何一种突变药剂的作用下，都不会因该突变药剂而在心智属性值上受到减值。
+|req=[[制造奇物]]、[[鹰之威仪]]、[[狐之狡黠]]、[[枭之睿智]]，制造者必须是[[炼金术士]]
+|cost=10,000 gp
+|source=极限宝具
+}}

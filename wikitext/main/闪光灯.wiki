@@ -1,0 +1,16 @@
+{{科技物品
+|name=闪光灯
+|english_name=Flashlight
+|kind=科技装置
+|sub=其他工具与配件
+|price=30 gp
+|weight=1磅
+|slot=无
+|capacity=10
+|usage=1充能／8小时
+|description=启动后，闪光灯会投射出一束60尺锥形的常光。在这一锥形范围之外、直至120尺锥形的区域，光照等级也会提高一阶。在常光或强光的区域，它不会提高光照等级。闪光灯在魔法黑暗区域中无效。
+|construction=[[制造科技装置]]、生产车间
+|craft_dc=16
+|cost=15 gp
+|source=科技指南
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Darklands pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=先祖故地
+|english_name=Ancestral Grounds
+|type=种族
+|prerequisites=矮人
+|description=你记得[[矮人]]在寻天宏愿期间所面对的种种危险。你的[[知识]]（地城）检定获得+1背景加值，与寻天宏愿有关的知识（历史）检定获得+2背景加值。从这两项技能中选择一项成为你的本职技能。
+|source_name=幽暗地域英雄
+|source=HotD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Ancestral%20Grounds
+}}

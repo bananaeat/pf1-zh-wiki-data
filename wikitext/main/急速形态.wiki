@@ -1,0 +1,8 @@
+<noinclude>{{忍者导航}}
+'''急速形态'''（Acceleration of Form, Su）是[[忍者]]的[[忍术|忍术]]。
+
+</noinclude>{{Source|传奇编年史|Chronicle of Legends|inline}} 拥有此[[忍术]]的忍者可以用标准动作花费1点气来获得持续每2忍者等级1轮的[[移位术]]和[[加速术]]的效果。<noinclude>
+
+[[分类:忍术]]
+
+{{职业}}</noinclude>

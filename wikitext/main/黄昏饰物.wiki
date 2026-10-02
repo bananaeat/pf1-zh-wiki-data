@@ -1,0 +1,14 @@
+{{魔法物品
+|name=黄昏饰物
+|english_name=Crepuscular Trinket
+|aon=MagicWondrousDisplay.aspx?FinalName=Crepuscular Trinket
+|cat=奇物
+|aura=微弱防护系
+|cl=5
+|slot=颈部
+|price=4,000 gp
+|description=这条简单的项链上有一枚沙漏形的垂饰，一半黑，一半白。每天一次，穿戴者可以说出命令字，使自己对带有〔光亮〕或〔阴影〕描述符的法术和类法术能力，以及幽影子学派的法术和类法术能力，获得[[特殊能力#法术抗力|法术抗力]]15。该效果持续1分钟。
+|req=[[制造奇物]]、[[舞光术]]、[[黑暗术]]
+|cost=2,000 gp
+|source=位面冒险
+}}

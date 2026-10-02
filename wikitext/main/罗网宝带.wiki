@@ -1,0 +1,16 @@
+{{魔法物品
+|name=罗网宝带
+|english_name=Gossamer Amberstone
+|aon=MagicWondrousDisplay.aspx?FinalName=Gossamer Amberstone
+|cat=奇物
+|aura=微弱咒法系
+|cl=3
+|slot=颈部
+|price=2,700 gp
+|description=这块硬币大小的裂纹琥珀被粘在一条皮带上，里面是一只保存完好的巨大吸血昆虫。佩戴者每天可以使用一次[[治疗轻伤]]。
+
+如果佩戴者以珈兰德尔为守护神，佩戴者每天还可以使用一次[[飞虫走兽]]。召唤出的虫群可以是进化蜘蛛群，也可以是幼体蚊群。
+|req=[[制造奇物]]、[[治疗轻伤]]、[[飞虫走兽]]
+|cost=1,350 gp
+|source=神与魔法、内海诸神
+}}

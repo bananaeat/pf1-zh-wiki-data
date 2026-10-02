@@ -1,0 +1,10 @@
+{{Feat
+|name=针灸专家
+|english_name=Acupuncture Specialist
+|description=你可以使用针灸的艺术来治疗精神疾病和身体疾病。
+|prerequisites=医疗5级
+|benefit=您可以将针灸的艺术融入您的治疗过程中，让您可以使用物理手段来净化精神疾病。这样做需要您有一个针灸套工具（与医疗包相同）并且需要 1 小时。尝试进行医疗检定，并与患者所受的单个诅咒或带有诅咒描述符的法术的DC比较。如果你的医疗检定结果超过DC10以上，诅咒的效果会被抑制1d4 天。如果你的医疗检定结果超过诅咒的DC20以上，诅咒就会被移除。
+|source=BotA
+|source_name=古国血脉
+|source_url=https://pf1chm.pages.dev/topics/zh3e60e7b09a.htm
+}}

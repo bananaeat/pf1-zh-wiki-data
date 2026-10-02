@@ -1,0 +1,10 @@
+{{Feat
+|name=挺住再上
+|english_name=Fight On
+|description=即使你本该已经死去，也能继续战斗。
+|prerequisites=体质13，[[矮人]]，半兽人或者兽人。
+|benefit=每日1次，你能够获得等同于你的体质修正的临时HP。你能在HP小于等于0时以[[直觉动作]]激活该专长。你能够使用该专长防止自己死亡。这些暂时HP持续1分钟。如果你的HP由于失去这些暂时HP而低于0，那么你会如常陷入濒死并[[失去意识]]。如果你拥有【凶猛】[[种族特性]]，则可以在失去来自该专长的暂时HP时使用它。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

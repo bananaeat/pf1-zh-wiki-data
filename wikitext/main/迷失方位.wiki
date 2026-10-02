@@ -1,0 +1,16 @@
+{{Spell
+|name=迷失方位
+|english_name=Lost locale
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=奥能师 9;术士 9;法师 9
+|action=24小时
+|components=语言;姿势
+|range=每等级1英里
+|area=每等级一个1英里的立方体
+|duration=2小时/等级（可解消）
+|save=意志部分生效
+|sr=是
+|description=该法术如同[[迷路术]]一样作用，只是影响的区域更大。迷失方位可以被[[魔法恒定术]]恒定，这需要90000gp的消耗。
+|source=内海种族
+}}

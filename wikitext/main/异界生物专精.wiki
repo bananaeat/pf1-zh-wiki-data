@@ -1,0 +1,11 @@
+{{Feat
+|name=异界生物专精
+|english_name=Focused Outsider Expertise
+|categories=战斗
+|description=你学会了一种可以阻碍异界生物自然抗力的攻击方式。
+|prerequisites=宿敌(异界生物)职业特性。
+|benefit=你的武器攻击忽略等于你宿敌(异界生物[任一])一半加值的伤害减免。这个专长只允许你忽略通常可被混乱、邪恶、善良或守序武器绕过的伤害减免。在对抗与你宿敌类型相匹配的异界生物时，你忽略的伤害减免和硬度等于你完整的宿敌加值。（译注：AoN 原文作「full favored class bonus」，疑为笔误，应为 favored enemy bonus（宿敌加值）。）
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh03ef2e8763.htm
+}}

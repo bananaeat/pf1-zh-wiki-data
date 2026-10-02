@@ -1,0 +1,10 @@
+{{Feat
+|name=复仇死誓
+|english_name=Vengeful Death Vow
+|pfs=否
+|description=你的宣誓将恐惧深深打入敌人的内心，使他们更难在战斗中击中你。
+|prerequisites=誓仇职业能力。
+|benefit=你的誓仇目标在对你的攻击骰上受到-2减值。
+|source_name=探索者：世界之境1
+|source_url=https://pf1chm.pages.dev/topics/zh491aff0449.htm
+}}

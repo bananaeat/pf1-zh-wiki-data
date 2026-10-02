@@ -1,0 +1,42 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #41: The Thousand Fangs Below
+|authors=Graeme Davis
+|pages=96
+}}
+
+{{书页/简介|head=深入毒蛇之巢|1=
+失落于现代的丛林之城 Saventh-Yhi 的一切险境，与潜伏在其破碎街道之下的恐怖相比，都不值一提。古城废墟之下，腐烂着一个黑暗与怪物的国度，Saventh-Yhi 曾长久地为它站岗。冒险者们深入那片国度的永恒之夜，直面一个失落帝国堕落的继承者、崇拜邪魔的黑暗居民，以及一位被斩首之神的狂热信徒，只为拯救世上最伟大的探险家之一——Eando Kline。可是，即便他们成功救出 Eando，PC 们能否逃出他的看守者——长着獠牙的[[蛇人(怪物)|蛇人]]军团——的追捕？
+
+本册《冒险之路》内容包括：
+
+* Graeme Davis 的开拓者角色扮演游戏冒险《千牙之底》（"The Thousand Fangs Below"），适用于 13 级角色。
+* Clinton Boomer 带你闯入神秘的 Ilmurea 国度——一座充满黑暗魔法与致命毒药的废城。
+* Sean K Reynolds 窥探魔法之神[[内希斯]]支离破碎的心智。
+* Robin D. Laws 在「探索者日志」中带来的丛林审判。
+* Jesse Benner 与 Sean K Reynolds 设计的四种丛林新怪物。
+}}
+
+'''冒险之路41：千牙之底'''（''Pathfinder #41: The Thousand Fangs Below''）是[[冒险之路]]「蛇神颅骨」系列的第五章冒险，由 Graeme Davis 撰写，配套文章出自 Jesse Benner、Clinton Boomer 和 Sean K Reynolds，小说出自 Robin D. Laws，于 2011 年 1 月 26 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+千牙之底 @ 6
+Ilmurea：南方的闪耀螺旋 @ 62
+[[内希斯]] @ 68
+探索者日志：光之瘟疫（5／6） @ 74
+怪物图鉴 @ 78
+预设角色 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=The Thousand Fangs Below
+|releases=PDF¦PZO9041E¦2011-01¦；Softcover¦PZO9041¦2011-01¦
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

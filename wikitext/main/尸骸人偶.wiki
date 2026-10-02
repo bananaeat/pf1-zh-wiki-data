@@ -1,0 +1,14 @@
+{{魔法物品
+|name=尸骸人偶
+|english_name=Corpse Puppet
+|aon=MagicWondrousDisplay.aspx?FinalName=Corpse Puppet
+|cat=奇物
+|aura=微弱死灵系
+|cl=5
+|slot=无
+|price=250 gp
+|description=这个粗糙雕成的蜡质玩偶大致呈人形。如果尸骸人偶的持有者在变化形态时死去（例如变形者使用其变形能力、施法者使用[[变形术]]法术，或通过其他某种效果得到的形态），该生物会自动保持死亡时的形态，而不会变回其自然形态。有理由怀疑其中有诈的生物可以尝试一次DC 12的意志豁免；成功的话，他们就会意识到尸体的不自然状态。尸骸人偶在激活时会融化殆尽。
+|req=[[制造奇物]]、[[尸体重塑]]
+|cost=125 gp
+|source=月之血脉
+}}

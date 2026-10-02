@@ -1,0 +1,10 @@
+{{Trait
+|name=寻求帮助
+|english_name=Call for Help
+|type=宗教
+|prerequisites=[[半身人]]，信仰查尔迪菈·祖拉斯瑞
+|description=向[[黛丝娜]]的冲动伙伴奉上信仰，并以此塑造人生的你，会经常发现自己身处困境，却又总能有朋友的帮助可以依靠。当你[[全防御]]时，对正在威胁你的生物，所有盟友的投骰都获得+1背景加值。
+|source_name=宗教背景
+|source=HoG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

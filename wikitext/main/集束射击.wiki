@@ -1,0 +1,13 @@
+{{Feat
+|name=集束射击
+|english_name=Clustered Shots
+|categories=战斗
+|description=你花费少许时间进行瞄准，然后你的攻击几乎全部命中了同一个点。
+|prerequisites=[[近距射击]]，[[精准射击]]，基本攻击加值+6。
+|benefit=当你使用多次远程武器对同一个目标进行[[全力攻击]]，在计算目标的伤害时只用总伤害减去一次伤害减免。
+|special=如果使用了巨创可选规则（核心规则书189页），当你使用本专长造成的总伤害达到或超过目标正常满生命值的一半（最低50点伤害）时，适用该规则。
+|stamina=使用该专长时每次成功的命中最多可花费2点耐力，在结算伤害时获得等同所花费耐力的伤害加值。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

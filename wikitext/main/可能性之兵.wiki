@@ -1,0 +1,11 @@
+{{Feat
+|name=可能性之兵
+|english_name=Weapon Versatility
+|categories=战斗
+|description=你能以非常规的方式使用你偏爱的武器。
+|prerequisites=[[武器专攻]]、BAB+1
+|benefit=当你使用你[[武器专攻]]的武器时，用一个[[迅捷动作]]，你可以改变武器的握法，让该武器造成钝击、穿刺或挥砍之一的伤害类型，取代正常的伤害类型。改变回原初伤害类型或再次改变都是迅捷动作。若你的BAB为+5或更高，改变伤害类型则是一个[[自由动作]]。
+|source=USH
+|source_name=亡灵杀手手册
+|source_url=https://pf1chm.pages.dev/topics/page_505.html
+}}

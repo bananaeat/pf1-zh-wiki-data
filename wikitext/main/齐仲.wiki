@@ -1,0 +1,30 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=齐仲
+|english_name=Qi Zhong
+|title=医药宗师
+|alignment=中立善良（NG）
+|weapon=[[重型硬头锤]]
+|portfolio=医疗，魔法，药物
+|domains=[[善良领域|善良]]，[[医疗领域|医疗]]，[[知识领域|知识]]，[[魔法领域|魔法]]，[[保护领域|保护]]
+|subdomains=[[善良领域#福使子域 (Agathion)|福使子域]]，[[魔法领域#炼金子域 (Alchemy)|炼金子域（魔法）]]*，[[魔法领域#神力子域 (Divine)|神力子域]]，[[医疗领域#医药子域 (Medicine)|医药子域]]*，[[知识领域#记忆子域 (Memory)|记忆子域]]，[[保护领域#纯净子域 (Purity)|纯净子域]]，[[医疗领域#复原子域 (Restoration)|复原子域]]，[[医疗领域#回生子域 (Resurrection)|回生子域]]（*需要背景特性[[次经侍祭]]）
+|symbol=一只车轮，辐条分别由火、土、金属、水、木制成
+|animal=鹤
+|centers=精瑛（Jinin），夸英（Quain），天京（Tianjing），汐岛（Xidao），兹哈（Zi Ha）
+|nationality=Tian-Shu
+|pantheon=天夏神祇
+|source=龙国舆图
+}}
+
+'''齐仲'''（Qi Zhong，医药宗师）是天夏神祇之一，主管医疗、魔法与药物，阵营中立善良，族类为 Tian-Shu。
+
+== 简介 ==
+在天夏，齐仲是知识，医学以及魔法之神，在精瑛（Jinin），夸英（Quain），天京（Tianjing），汐岛（Xidao）以及兹哈（Zi Ha）最为知名。他的祭司，大多数是奥术医者，将治病视为神圣的职责，并且他们认为教育对维持健康至关重要。齐仲教给凡人多门艺术，包括多样的医疗法术以及据说他成神之前与义洛理分享的本草医学。
+
+== 信徒可用 ==
+* '''变体职业'''：[[奥术医者]]（法师）
+{{AI翻译|nocat=1|本节由 AI 照 AoN 英文译出，未经人工校对。}}
+
+本节译自民间汉化 CHM《治疗者手册》（[https://pf1chm.pages.dev/topics/page_706.html 原文]）。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Qi%20Zhong|2=Qi Zhong}}

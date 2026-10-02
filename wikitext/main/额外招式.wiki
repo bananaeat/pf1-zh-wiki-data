@@ -1,0 +1,10 @@
+{{Feat
+|name=额外招式
+|english_name=Extra Martial Flexibility
+|description=你的武技可谓[[千变万化]]。
+|prerequisites=千招百式职业能力
+|benefit=你每天使用千招百式能力的次数增加3次。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

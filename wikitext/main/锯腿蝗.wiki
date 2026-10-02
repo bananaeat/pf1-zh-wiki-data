@@ -1,0 +1,46 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=锯腿蝗
+|english_name=Sawleg Locust
+|cr=1/4
+|xp=100
+|alignment=绝对中立
+|size=超小型
+|type=虫类
+|init=+1
+|senses=黑暗视觉 60 尺；察觉 +0
+|description=这只猫一般大小的昆虫有着长长的雪茄形身体。它长满刺的后腿又长又灵活。
+|ac=14，接触 13，措手不及 13（+1 敏捷，+1 天生，+2 体型）
+|hp=4（1d8）
+|fort=+2
+|ref=+1
+|will=+0
+|immune=影响心灵效果
+|speed=15 尺，攀爬 15 尺，飞行 40 尺（一般）
+|melee=啮咬 –1（1d3–3）
+|space=2–1/2 尺
+|reach=0 尺
+|special_attacks=贪食
+|str=4
+|dex=13
+|con=11
+|int=—
+|wis=10
+|cha=7
+|bab=+0
+|cmb=–1
+|cmd=6（14 对抗摔绊）
+|skills=[[特技]] +0（跳跃时 +8）;[[攀爬]] +9;[[飞行]] +5
+|racial_mods=+8 特技（跳跃时）
+|sq=跳跃
+|environment=任意沙漠或平原
+|organization=单独，一对，或一群（3–18）
+|treasure=无
+|special_abilities={{怪物能力|跳跃|Ex|锯腿蝗在进行跳跃的特技检定时，即使分心或身处危险中也可以取 10。}}
+{{怪物能力|贪食|Ex|锯腿蝗的啮咬攻击对拥有植物亚种的生物，以及对纸、木或其他植物材料制成的物体造成双倍伤害。}}
+|source=极限荒野
+|lore=
+锯腿蝗是一种较大的蚱蜢，体长可达 2 尺，以多种植物为食。干旱时期有时会使这些蝗虫成群聚集，要么迁往更好的觅食地，要么（罕见地）压倒并吞食小型动物。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Sawleg Locust|2=Sawleg Locust}}

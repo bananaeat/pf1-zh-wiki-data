@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=战斗狂暴|en=Battle Rage|type=Sp|domain=战争领域|source=核心规则书|text=你可以用[[标准动作]]接触一个生物使其1轮时间内，在近战攻击伤害上获得等于你牧师等级一半的加值（至少+1）。你每日可以使用的次数为“3+[[感知]]调整值”。}}<noinclude>
+
+[[分类:领域]]</noinclude>

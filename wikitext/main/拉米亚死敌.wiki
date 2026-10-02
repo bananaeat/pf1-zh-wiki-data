@@ -1,0 +1,10 @@
+{{Trait
+|name=拉米亚死敌
+|english_name=Lamia's Bane
+|type=魔法
+|prerequisites=
+|description=你过去曾受到过拉米亚魔法能量的影响，或是你曾经听过不计其数关于自己家族如何应对拉米亚的故事，因此你获得了针对这些怪物魅惑的抗性。你在对抗惑控效果的豁免上获得+1背景加值，且在对抗拉米亚的法术及类法术能力的豁免上获得+2背景加值。
+|source=PoW
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1271.html
+}}

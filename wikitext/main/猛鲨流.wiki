@@ -1,0 +1,14 @@
+{{Feat
+|name=猛鲨流
+|english_name=Shark Style
+|categories=战斗;流派
+|description=你像鲨鱼一样战斗，像鲨鱼一样撕碎你的敌人。
+|prerequisites=[[精通徒手打击]]，[[游泳]]3级，基本攻击加值+3或者武僧3级
+|benefit=你可以在使用[[徒手攻击]]时造成穿刺或者钝击伤害。你的穿刺[[徒手打击]]和啮咬攻击将会造成1d6点额外的[[流血伤害]]。
+|source_name=水下冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1030.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[鲨裂]]、[[鲨跃]]（2 个条目）

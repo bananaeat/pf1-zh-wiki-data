@@ -1,0 +1,16 @@
+{{Feat
+|name=虚招脱离
+|english_name=Disengaging Feint
+|categories=战斗
+|description=你虚晃一招，掉头就走。
+|prerequisites=智力13，[[寓守于攻]]，精通虚招。
+|benefit=以一个[[标准动作]]，对一个敌人进行[[唬骗]]检定以使用[[虚招]]。成功的虚招不会使他失去AC敏捷加值，而是让你能以你的正常移动速度离开他的威胁范围，并且不会受到他的[[借机攻击]]。
+|stamina=即使能力不满足前提（13智力），只要耐力池依然有1点耐力就可以使用该专长。如果花费5点耐力，可以用移动动作尝试[[虚招脱离]]。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[回马枪]]、[[逃之夭夭(专长)]]（2 个条目）

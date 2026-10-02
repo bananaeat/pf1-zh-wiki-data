@@ -1,0 +1,9 @@
+{{装备
+|name=防火衣
+|english_name=Flame-retardant outfit
+|cat=衣物
+|price=50 gp
+|weight=10磅
+|description=这种衣物是为了应对酷热的环境（如森林大火或火山活动频繁的区域）而制造的，由层层相叠的厚重皮革制成，并且附有一双[[防火靴]]。防火衣提供火焰抗力1，但暴露在火焰伤害中20轮后，这件衣服就会毁掉。
+|source=极限荒野
+}}

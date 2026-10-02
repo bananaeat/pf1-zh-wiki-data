@@ -1,0 +1,12 @@
+{{Feat
+|name=西瑞安之证
+|english_name=Serren's Masterstroke
+|categories=战斗
+|description=当你以虚招绕过敌人的防御时，你能造成毁灭性的伤害。
+|prerequisites=[[擅长异种武器]]（奥多里决斗剑），[[武器专攻]]（奥多里决斗剑），基本攻击加值+6。
+|benefit=每轮1次，当你用[[奥多里决斗剑]]进行近战攻击，命中一个你已成功对其使用[[虚招]]的敌人时，你额外造成2d6点精准伤害。当你的基本攻击加值达到+11时，这个额外伤害增至3d6；达到+16时增至4d6。这些精准伤害不与[[偷袭]]、侠客的突袭（sudden strike）或类似效果的伤害叠加。任何能防护偷袭伤害的效果，同样能防护这份额外伤害。
+|notes=译注：CHM 汉化把这条专长写作「西瑞安之证（Sirian's Masterstroke）」，AoN 上的英文名是 Serren's Masterstroke；页名照 CHM。CHM 译文里把先决条件的 Weapon Focus 误作「武器娴熟」、把「防护偷袭伤害」误作「免疫重击」，并漏了「侠客的突袭」，现按 AoN 改正。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/zh8a31961fdd.htm
+}}

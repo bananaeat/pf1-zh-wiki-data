@@ -1,0 +1,11 @@
+{{Feat
+|name=木棍大师
+|english_name=Quarterstaff Master
+|categories=战斗
+|description=你能将木棍当作单手或双手武器使用。
+|prerequisites=[[武器专攻]]（木棍），基本攻击加值+5。
+|benefit=靠着采取一些不同的姿势和[[战技]]，你可以将木棍作为单手武器。在你行动轮开始的时候，你可以决定要将木棍当作单手还是双手武器使用，当你把它作为单手武器，你的另外一只手就可以自由活动，不过如此一来就不能用木棍以双头武器的方式发起攻击。此外，拥有此专长之后，就算你没有战士等级，你仍可以选择木棍的[[武器专精]]。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

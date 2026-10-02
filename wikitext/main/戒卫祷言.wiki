@@ -1,0 +1,18 @@
+{{Spell
+|name=戒卫祷言
+|english_name=Litany of warding
+|school=变化系
+|levels=反圣武士 2;圣武士 2;审判者 3
+|action=迅捷动作
+|components=语言;姿势;圣徽
+|range=个人
+|target=自己
+|duration=1轮
+|sr=否
+|description=随着祷言，你变得更加善于抓住机会。
+
+你本轮可以进行两次额外的借机攻击。此外，你在对抗借机攻击时，AC获得+2神圣加值。
+
+当受到该法术影响时，目标不能再成为另一种带有‘祷言’关键字的法术的目标。
+|source=极限战斗
+}}

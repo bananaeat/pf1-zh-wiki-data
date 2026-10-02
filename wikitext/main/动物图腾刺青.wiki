@@ -1,0 +1,14 @@
+{{魔法物品
+|name=动物图腾刺青
+|english_name=Animal Totem Tattoo
+|aon=MagicTattooDisplay.aspx?FinalName=Animal Totem Tattoo
+|cat=魔法纹身
+|aura=微弱变化系
+|cl=5
+|slot=无
+|price=12,000 gp
+|description=动物图腾刺青专属于某一种动物图腾。拥有者获得相应动物图腾萨满（[[德鲁伊变体]]）的5级德鲁伊所具有的图腾变身能力（猿（UC）、蝠（UC）、熊（APG）、猪（UC）、龙（UM）、鹰（APG）、狮（APG）、蜥（UM）、蛇（APG）、鲨（UM）或狼（APG））。如果拥有者本来就拥有对应的图腾变身职业能力，则在该能力上视为高5级的德鲁伊。
+|req=[[绘制魔法刺青]]（ISM）、[[野兽形态 I]]
+|cost=6,000 gp
+|source=魔法市集指南
+}}

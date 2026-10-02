@@ -1,0 +1,12 @@
+{{Feat
+|name=地狱猫之潜藏
+|english_name=Hellcat Stealth
+|categories=战斗
+|description=你在光亮中难以被察觉到。
+|prerequisites=[[技能专攻]]（隐匿），隐匿6级。
+|benefit=你可以在正常或者强光环境中进行隐匿检定，即使你被察觉到了。不过，你需要承受-10的检定罚值。
+|normal=你不能在被察觉到时进行隐匿检定。
+|source=CEoD
+|source_name=切里亚斯，魔鬼王朝
+|source_url=https://pf1chm.pages.dev/topics/page_561.html
+}}

@@ -1,0 +1,12 @@
+{{Feat
+|name=狂热审判
+|english_name=Judgment Surge
+|description=每日一次，你的信仰之力澎湃而出，从而增强了你的审判。
+|prerequisites=【审判】职业特性。
+|benefit=每日1次，你使用【审判】职业特性时将你的职业等级视为比通常情况下高3级。如果你同时激活了复数个审判，那么它们都能获得这个增益。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}
+
+{{FAQ|v5748eaic9o7z}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=三愿戒指
+|english_name=Ring of Three Wishes
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Three Wishes
+|cat=戒指
+|aura=强烈通用系
+|cl=20
+|slot=戒指
+|price=120,000 gp
+|description=这枚[[魔法物品#戒指|戒指]]上镶有三枚红宝石。每枚红宝石都储存着一个由戒指激发的[[祈愿术]]。每使用一次祈愿术，对应的红宝石就会消失。对于随机生成的戒指，掷1d3来决定剩余的红宝石数量。当所有祈愿术都用尽时，戒指就变成非魔法物品。
+|req=[[锻造戒指]]、[[神迹术]]或[[祈愿术]]
+|cost=97,500 gp
+|source=核心规则书、极限宝具
+}}

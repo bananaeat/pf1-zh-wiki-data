@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[女巫之刃 (神话)]]。</small></div>
+{{Feat
+|name=女巫之刃
+|english_name=Witch Knife
+|description=你在施法时可以通过一把经过特殊仪式的小刀增强法术效果。
+|prerequisites=女巫。
+|benefit=每日1次，你在准备法术时可以将一把精致品或者魔法[[匕首]]转化为一把女巫之刃，并将其作为你的女巫法术中额外的法器成份。你的所有[[庇护主]]法术的豁免DC+1。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

@@ -1,0 +1,17 @@
+{{Spell
+|name=怪物定身术
+|english_name=Hold Monster
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=催眠师 4;召唤师 4;吟游诗人 4;审判者 4;歌者 4;秘学士 4;通灵者 4;召唤师（掉链） 5;奥能师 5;女巫 5;异能者 5;术士 5;法师 5
+|domains=秩序领域 6
+|action=标准动作
+|components=语言;姿势;材料/圣徽（坚硬的金属棒或杆，小如钉子也可以）
+|range=中距
+|target=一个活物
+|duration=1轮/等级（可解消）；见后文
+|save=意志，通过则无效；见后文
+|sr=是
+|description=该法术的功能如同[[人类定身术]]一般，不过它会影响任何意志豁免失败的活物。
+|source=核心规则书
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=决斗者臂铠
+|english_name=Duelist's Vambraces
+|aon=MagicWondrousDisplay.aspx?FinalName=Duelist's Vambraces
+|cat=奇物
+|aura=中等防护系
+|cl=8
+|slot=腕部
+|price=8,000 gp
+|weight=2磅
+|description=这副臂铠由结实的钢和鞣制皮革混合制成。当穿戴者持用一件双头武器或两件武器（不含天生武器和徒手攻击）时，臂铠提供+1偏斜加值（AC）。此外，每轮一次，穿戴者用副手武器攻击时，可以将该武器攻击检定上的所有减值降低2点。
+|req=[[制造奇物]]、[[猫之优雅]]、[[护盾术]]，制造者必须拥有[[双武器格斗]]专长
+|cost=4,000 gp
+|source=极限宝具
+}}

@@ -1,0 +1,17 @@
+{{消歧义|念动战技}}
+{{Spell
+|name=念动战技
+|english_name=Telekinetic Maneuver
+|school=变化系
+|levels=奥能师 4;魔战士 4;异能者 3;术士 4;唤魂师 4;法师 4
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一个生物
+|duration=专注 (至多1轮/等级)
+|save=无
+|sr=是
+|description=此法术如同[[心灵遥控]]，但它只能用来执行[[冲撞]]、[[卸武]]、[[拖拽]]、[[擒抱]]（包括压制）、[[移位]]、[[盗取]]或[[摔绊]]战技。
+|source=异能冒险
+}}
+<small>本页译自 CHM 汉化（Spell OA.html），按 AoN 核对过。</small>

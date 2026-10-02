@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[骑乘射击]] 的神话版本。</small></div>
+{{Feat
+|name=骑乘射击
+|english_name=Mounted Archery
+|categories=神话
+|description=你那精湛的骑术使自身能够在隐藏起来的同时进行精准的射击。
+|prerequisites=[[骑乘射击]]
+|benefit=当你使用骑术技能来将坐骑作为[[掩蔽]]使用时，你仍旧能够以[[标准动作]]使用远程武器进行单次攻击。当你的坐骑移动时，你能够花费1次神话之力，以此来使骑乘时进行远程武器攻击的减值无效，该效果持续至你的下一回合开始为止。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

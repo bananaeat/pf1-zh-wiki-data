@@ -1,0 +1,40 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=基拉夫岱因
+|english_name=Jiraviddain
+|title=裂隙公爵（Duke of Fissures）
+|alignment=守序邪恶（LE）
+|weapon=[[闷棍]]
+|portfolio=虚弱，依存，无力
+|domains=[[邪恶领域(领域)|邪恶]]，[[秩序领域|秩序]]，[[团队领域|团队]]，[[医疗领域|医疗]]
+|subdomains=[[邪恶领域(领域)#魔鬼子域 (Devil)|魔鬼子域（邪恶）]]，[[秩序领域#魔鬼子域 (Devil)|魔鬼子域（秩序）]]，[[团队领域#家族子域 (Family)|家族子域]]，[[团队领域#家园子域 (Home)|家园子域]]，[[医疗领域#复原子域 (Restoration)|复原子域]]
+|symbol=破碎的裂隙
+|animal=骡子
+|color=黑色，棕色
+|pantheon=炼狱大公
+|source=内海诸神、永罪之书
+}}
+
+'''基拉夫岱因'''（Jiraviddain）是[[炼狱大公与地狱公爵|炼狱大公]]之一。
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+你一边割伤自己，一边为肉体的脆弱而祈祷。你在对抗疾病的豁免检定上获得+4亵渎加值。
+
+=== 神恩 ===
+
+通过[[魔族仪典]]获得：类法术能力，每日各1次。
+{{神恩|n=1|name=|en=|type=Sp|text=以类法术能力施放[[死亡丧钟]]，每日1次。}}
+{{神恩|n=2|name=|en=|type=Sp|text=以类法术能力施放[[医疗术]]，每日1次。}}
+{{神恩|n=3|name=|en=|type=Sp|text=以类法术能力施放[[削弱徽记]]，每日1次。}}
+
+== 信徒可用 ==
+
+* '''专长'''：[[炼狱镣铐]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1554.html 原文]），原在总页 [[炼狱大公与地狱公爵]]。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Jiraviddain|2=Jiraviddain}}
+[[分类:魔神]]

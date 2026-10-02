@@ -1,0 +1,11 @@
+{{Feat
+|name=进化魔宠
+|english_name=Evolved Familiar
+|description=你的[[魔宠]]与他人大不相同。
+|prerequisites=[[智力]] 13，[[魅力]] 13，【魔宠】职业特性。
+|benefit=从召唤师[[幻灵]]的进化列表中选择一个花费1点进化点的进化。你的魔宠获得这一进化。魔宠必须符合这一进化的先决条件。例如，没有魔宠可以获得【坐骑】进化；只有长翅膀的魔宠才可以获得【翼击】进化。如果你获得了一只新魔宠，你原来的魔宠失去所有进化，而你可以为你的新魔宠重新选择一个花费1点进化点的进化。
+|special=你可以多次选择这一专长，每次你选择这一专长时，你得到一个花费1点进化点的进化。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

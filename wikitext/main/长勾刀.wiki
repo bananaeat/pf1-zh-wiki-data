@@ -1,0 +1,19 @@
+{{武器
+|name=长勾刀
+|english_name=Guisarme
+|category=武器
+|prof=军用
+|wcat=双手
+|price=9 gp
+|weight=12磅
+|dmg_s=1d6
+|dmg_m=2d4
+|crit=×3
+|type=挥砍
+|special=长武，摔绊
+|groups=长柄
+|description={{AI翻译|nocat=1|本段由 AI 照 AoN 英文原文译出，CHM 汉化里没有这段译文，未经人工校对。}}
+
+长勾刀是一根8尺长的杆子，顶端装有一片刃和一个钩。
+|source=核心规则书、极限宝具
+}}

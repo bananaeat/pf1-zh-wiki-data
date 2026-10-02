@@ -1,0 +1,17 @@
+<noinclude>{{速查导航|here=规则}}
+{{消歧义|践踏}}
+'''践踏'''（Trample）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：特殊攻击</span></div>
+</noinclude><includeonly><div class="lang"><span id="践踏"></span><span id="践踏(怪物能力)"></span><div class="lang-h"><b>[[践踏(怪物能力)|践踏]]</b><i>Trample</i><span class="lang-w">Ex · 特殊攻击</span></div><div class="lang-d"></includeonly>
+通过一个整轮动作，具有践踏能力的生物可以尝试越过任何体型比自己至少小一级的生物。这就像使用[[闯越]]战技一样，但践踏生物不需要进行检定，只需从路线上的对手身上越过。被践踏的目标受到的伤害等于践踏生物的挥击伤害加上 1.5 倍力量修正。被践踏的目标可以进行一次借机攻击，但承受 –4 减值。如果目标放弃借机攻击，可以进行一次反射豁免来避开践踏生物，并只受一半伤害。对抗践踏生物践踏攻击的豁免 DC = 10 + 1/2 该生物的 HD + 该生物的力量修正（具体 DC 会在生物描述中给出）。无论移动使践踏生物从目标身上越过多少次，践踏生物每轮只能对每个被践踏的目标造成一次践踏伤害。践踏生物可以在践踏中移动至多两倍陆地速度。
+
+'''格式'''：践踏（2d6+9，DC 20）
+<includeonly></div></div></includeonly>
+
+{{FAQ|v5748eaic9ug7}}
+
+<noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Trample|2=Trample}}
+
+[[分类:通用怪物规则]]</noinclude>

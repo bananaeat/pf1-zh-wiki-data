@@ -1,0 +1,12 @@
+{{Feat
+|name=不羁者
+|english_name=Resisting Grappler
+|categories=战斗
+|description=你尤其擅长对抗异怪及其他长触须的恐怖生物的抓取附肢。
+|prerequisites=敏捷13。
+|benefit=当一个生物近战攻击命中你并试图[[通用怪物规则#攫抓|攫抓]]时，它会引发你的[[借机攻击]]，除非它拥有[[精通擒抱]]专长。如果你的攻击命中了对手，在计算其对你[[擒抱]]的[[战技]]检定罚值时，你视为多造成5点伤害。
+|normal=进行攫抓的生物不会触发借机攻击。
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh03ef2e8763.htm
+}}

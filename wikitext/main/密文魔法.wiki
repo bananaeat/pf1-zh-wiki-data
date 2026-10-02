@@ -1,0 +1,10 @@
+{{Feat
+|name=密文魔法
+|english_name=Cypher Magic
+|description=你对符文与古代奥术之秘的熟悉教会了你从魔法文字中吸收强大力量的秘术。这些不同寻常的使用方法最初是由谜港城的[[密文法师]]发明的，现在这些知识已经广泛传播至整个内海地区。
+|prerequisites=智力15，[[抄写卷轴]]
+|benefit=当你使用卷轴施法时，视卷轴比其自身的施法者等级高1级。此外，如果你使用的卷轴的施法者等级比你自身的施法者等级高，那么你会在激活这个卷轴的施法者等级检定中获得+2加值。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

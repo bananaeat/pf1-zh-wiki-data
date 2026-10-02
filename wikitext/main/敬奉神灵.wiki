@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 199），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=敬奉神灵
+|english_name=Kami Respect
+|type=种族
+|prerequisites=狐妖
+|description=与神灵的密切接触，让你直觉地懂得如何讨它们欢心。神灵对你的初始态度自动友善一级，最高为友善。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Kami%20Respect
+}}

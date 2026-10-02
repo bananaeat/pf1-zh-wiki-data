@@ -1,0 +1,9 @@
+{{Trait
+|name=勇敢的志愿者
+|english_name=Intrepid Volunteer
+|type=种族
+|prerequisites=[[半身人]]
+|description=和许多自由的半身人一样，你欣然志愿从军或投身冒险生涯，并结识了教你如何弥补体型劣势的其他半身人。选择一个基于力量的技能或[[战技]]，在计算该技能或战技检定的总调整值时，你可以使用敏捷调整值替代力量调整值。
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh3a98986c0e.htm
+}}

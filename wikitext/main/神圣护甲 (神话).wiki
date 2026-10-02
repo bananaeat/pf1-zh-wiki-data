@@ -1,0 +1,13 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[神圣护甲]] 的神话版本。</small></div>
+{{Spell
+|name=神圣护甲
+|english_name=Sanctify Armor
+|school=防护系
+|tags=善良
+|levels=圣武士 3;审判者 4
+|description=在穿戴目标护甲时，你获得DR 5/邪恶。当你使用你的审判或制裁能力时，这些DR会增加至DR 10/邪恶。
+
+强化（3阶）：若你花费2次神话之力，那么当你使用审判或制裁时，将你的阶层的一半加到AC上，该加值为神圣加值。
+|source=神话冒险
+}}
+[[分类:神话法术]]

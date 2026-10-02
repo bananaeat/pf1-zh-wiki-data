@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=吉祥印记
+|english_name=Auspicious Mark
+|type=Su
+|class=掉链野蛮人
+|benefit=这个野蛮人被精魂们留下了印记，此印记通常表现为一个醒目的[[纹身]]，刺青或者是胎记。以一个[[迅捷动作]]，野蛮人可以祈求精魂的恩惠，在任意的单次d20的投骰中加上1d6的加值。该加值每4个等级便会提升1点，他可以在得知投骰结果之后才使用【吉祥印记】。野蛮人每天只能使用一次该能力。
+|classic=吉祥烙记
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

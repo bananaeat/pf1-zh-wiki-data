@@ -1,0 +1,15 @@
+{{魔法物品
+|name=次元镣铐
+|english_name=Dimensional Shackles
+|aon=MagicWondrousDisplay.aspx?FinalName=Dimensional Shackles
+|cat=奇物
+|aura=中等防护系
+|cl=11
+|slot=腕部
+|price=28,000 gp
+|weight=5磅
+|description=这副[[镣铐]]的[[寒铁]]链环上描画着魔法符文。被它锁住的任何生物都如同被施加了[[次元锚]]一样受到影响（无豁免）。它适用于任何小型到大型的生物。挣断或脱出这副镣铐的DC为30。
+|req=[[制造奇物]]、[[次元锚]]
+|cost=14,000 gp
+|source=核心规则书、极限宝具
+}}

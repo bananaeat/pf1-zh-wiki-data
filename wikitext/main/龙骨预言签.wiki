@@ -1,0 +1,15 @@
+{{魔法物品
+|name=龙骨预言签
+|english_name=Dragonbone Divination Sticks
+|aon=MagicWondrousDisplay.aspx?FinalName=Dragonbone Divination Sticks
+|cat=奇物
+|aura=微弱预言系
+|cl=5
+|slot=无
+|price=6,400 gp
+|weight=1磅
+|description=这八根刻有符文的龙骨可以用作[[占卜术]]的神术法器。使用它们会使占卜术和[[预言术]]的成功率增加5%。持有这一套龙骨的人每天会随机在一种豁免检定（强韧、反射或意志）上获得+3幸运加值。如果一个生物携带了多套龙骨预言签，它们提供的加值都落在同一种豁免检定上。
+|req=[[制造奇物]]、[[占卜术]]、[[神导术]]
+|cost=3,200 gp
+|source=极限宝具
+}}

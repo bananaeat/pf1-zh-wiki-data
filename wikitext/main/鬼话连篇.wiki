@@ -1,0 +1,11 @@
+{{Trait
+|name=鬼话连篇
+|english_name=Too Many Secrets
+|type=缺陷
+|pfs=否
+|description=《[[间谍大师手册]]Spymaster's Handbook》 第7页
+你撒了太多的谎，编造了太多的借口与托词，现在就连你也不能把一切都弄清楚。谎言对你来说已经变成了现实，这使得你很难想出一个新的令人信服的谎言。你在试图愚弄周围人的关键时刻犹豫不决，可能你根本不应该再出现在这个领域。
+|benefit=你在[[唬骗]]检定和对抗幻术的豁免检定中承受-2减值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

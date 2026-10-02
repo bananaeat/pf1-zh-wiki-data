@@ -1,0 +1,10 @@
+{{物品
+|name=挎包
+|english_name=Waist Pouch
+|category=冒险装备
+|price=5 sp
+|weight=1/2磅
+|description=这种皮革包透过两条带子支撑自身，可以视穿戴者的身型不同来调整带子的松紧。挎包最多可以装入体积1/2立方尺的物体。
+|source=UW
+|source_name=极限荒野
+}}

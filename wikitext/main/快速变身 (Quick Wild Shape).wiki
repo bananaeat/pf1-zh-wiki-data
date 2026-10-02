@@ -1,0 +1,11 @@
+{{消歧义|快速变身}}
+{{Feat
+|name=快速变身
+|english_name=Quick Wild Shape
+|description=你在变身时牺牲威力换取速度。
+|prerequisites=【自然变身】职业特性，施法者等级8级。
+|benefit=你能够以[[移动动作]]或者[[迅捷动作]]施展自然变身。然而，以移动动作变身时，你只能变为比你低2级的德鲁伊可用的形态；以迅捷动作变身时，则只能变为比你低4级的德鲁伊可用的形态。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

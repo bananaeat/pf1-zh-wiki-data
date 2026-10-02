@@ -1,0 +1,15 @@
+{{魔法物品
+|name=灵媒哈罗牌垫
+|english_name=Medium's Harrow Mat
+|aon=MagicWondrousDisplay.aspx?FinalName=Medium's Harrow Mat
+|cat=奇物
+|aura=中等死灵系
+|cl=7
+|slot=无
+|price=2,500 gp
+|weight=1磅
+|description=这块哈罗牌垫能让占卜师汲取附近精魂的先祖知识。如果占卜师在施展[[哈罗占卜]]或[[高等哈罗占卜]]时把这块牌垫用作额外的法器，她的施法者等级视为高1级。当这块牌垫用于在坟墓或其他埋葬之地上进行哈罗占卜（无论是魔法的还是普通的）时，被葬者的精魂会影响占卜；对于每一张与过去相关的牌，占卜师都可以从牌堆中抽两次，再选择放置哪一张。
+|req=[[制造奇物]]、[[死者交谈]]
+|cost=1,250 gp
+|source=哈罗牌手册
+}}

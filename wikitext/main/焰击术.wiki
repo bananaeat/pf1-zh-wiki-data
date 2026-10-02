@@ -1,0 +1,18 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[焰击术 (神话)]]。</small></div>
+{{Spell
+|name=焰击术
+|english_name=Flame Strike
+|school=塑能系
+|tags=火
+|levels=德鲁伊 4;猎人 4;先知 5;审判者 5;战斗祭司 5;牧师 5;萨满 5
+|domains=太阳领域 5;战争领域 5;纵火子域 5
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=中距
+|area=柱形区域 (10尺半径，40尺高)
+|duration=立即
+|save=反射，通过则减半
+|sr=是
+|description=焰击术会唤起一道垂直的圣火柱。法术造成每CL 1d6点伤害 (最高15d6)。这伤害一半是火焰伤害，但另一半是直接源自神力，因此抵抗火焰攻击的方式无法对这一部分起作用。
+|source=核心规则书
+}}

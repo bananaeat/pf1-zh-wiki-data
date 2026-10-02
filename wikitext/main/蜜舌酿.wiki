@@ -1,0 +1,17 @@
+{{魔法物品
+|name=蜜舌酿
+|english_name=Honeytongue Elixir
+|aon=MagicWondrousDisplay.aspx?FinalName=Honeytongue Elixir
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=无
+|price=750 gp
+|weight=1/2磅
+|description=饮下这种药剂后，饮用者在用于说服他人相信她所说的是真话的[[唬骗]]检定上获得+10加值。这一加值持续10分钟，不适用于唬骗技能的任何其他用途，例如在战斗中[[虚招]]、制造转移注意力的假象以便躲藏，或借暗语传递秘密信息。
+
+如果有针对蜜舌酿饮用者的魔法效果会侦测她的谎言或迫使她说出真相，该效果的使用者必须通过DC 16的施法者等级检定，才能迫使饮用者说出真相。失败则意味着该效果既侦测不到饮用者的谎言，也不会迫使她说出真相。
+|req=[[制造奇物]]、[[花言巧语]]
+|cost=375 gp
+|source=初探探索者协会
+}}

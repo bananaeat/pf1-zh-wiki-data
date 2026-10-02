@@ -1,0 +1,14 @@
+{{Spell
+|name=变色龙诡步
+|english_name=Chameleon stride
+|school=幻术系 (五官幻觉)
+|levels=游侠 2;猎人 2
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=个人
+|target=自己
+|duration=1分钟/等级
+|sr=否
+|description=你融入了周围环境，尽管你不是真的[[隐形]]了，不过由于你那半透明的状态，他人难以将你精确定位。在该法术的影响下，你的隐匿检定获得+4加值，并且在距离你5尺之外的生物均视你处于[[隐蔽]]中 （攻击有20%概率失手）。
+|source=进阶玩家指南
+}}

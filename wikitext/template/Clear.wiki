@@ -1,0 +1,8 @@
+<div style="clear:both"></div><noinclude>[[Category:huiji template]]{{优质模板|功能}}{{documentation}}</noinclude><noinclude>
+<templatedata>
+{
+	"params": {},
+	"description": "这个模板用于在以下的内容中清除多余的格式信息，不需要填写任何参数。"
+}
+</templatedata>
+</noinclude>

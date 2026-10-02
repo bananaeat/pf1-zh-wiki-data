@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faiths and Philosophies pg. 0），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=虔诚幻视者
+|english_name=Devout Visionary
+|type=信念
+|description=童年时，你曾在一场重病中看见奇异的幻象，而你唯有追随一位精神领袖的召唤——或许是萨满的鼓声，或许是德鲁伊抑扬顿挫的诗句——才找到了回到凡俗世界的路。从那时起，你便钻研象征与梦境，希望能理解自己的幻象，而你学到的东西对他人同样大有帮助。你在对抗会造成困惑或[[晕眩]]状态的法术和效果时，意志豁免检定获得+1背景加值。每天一次，你可以以一个整轮动作，让一名相邻盟友进行一次新的意志豁免检定，以结束一个造成困惑或晕眩状态的效果。
+|source_name=信仰与哲学
+|source=F&P
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Devout%20Visionary
+}}

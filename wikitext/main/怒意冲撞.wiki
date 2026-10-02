@@ -1,0 +1,11 @@
+{{Feat
+|name=怒意冲撞
+|english_name=Bristling Bull Rush
+|categories=战斗
+|description=你将敌人撞进[[困难地形]]时会对他们造成伤害，利用环境痛击你的目标。
+|prerequisites=力量13，[[精通冲撞]]，[[猛力攻击]]，基础攻击加值+3。
+|benefit=当你成功[[冲撞]]生物时，他在天然生成的困难地形中每被推动5尺的话，就受到1d4点伤害。该伤害将增加到该生物通过这种困难地形时将会如常承受的任何其他伤害上。拥有[[穿林步]][[特殊能力]]或因为其他原因不受困难地形影响的生物，亦免疫此额外伤害。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

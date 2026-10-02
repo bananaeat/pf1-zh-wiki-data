@@ -1,0 +1,12 @@
+{{魔法物品
+|name=扼喉项链
+|english_name=Necklace of Strangulation
+|aon=MagicCursedDisplay.aspx?ItemName=Necklace of Strangulation
+|cat=诅咒物品
+|aura=强烈咒法系
+|cl=18
+|slot=颈部
+|description=扼喉项链看起来是一件精美的魔法珠宝。戴到脖子上后，项链会立即收紧，每轮造成6点伤害。除了[[有限祈愿术]]、[[祈愿术]]或[[神迹术]]之外，没有任何办法能把它取下，而且在受害者死后，它仍会扣在其咽喉上。直到他腐朽成干枯的骸骨（大约1个月后），项链才会松开，准备迎接下一个受害者。
+|req=[[适应项链]]、[[火球项链]]、[[健康护符]]、[[辟毒护符]]、[[止伤护符]]
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,19 @@
+{{武器
+|name=滑膛枪
+|english_name=Musket
+|category=火器
+|prof=异种
+|wcat=双手
+|price=1,500 gp
+|weight=9磅
+|dmg_s=1d10
+|dmg_m=1d12
+|crit=×4
+|range=40尺
+|type=钝击和穿刺
+|misfire=1-2（5尺）
+|capacity=1
+|groups=火器
+|description=这种长管火器的射程比[[手枪]]远很多。滑膛枪的弹药为1颗弹头加1份黑火药，或1发炼金定装弹。这是一件早期火器。
+|source=极限战斗、极限宝具
+}}

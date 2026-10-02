@@ -1,0 +1,17 @@
+{{魔法物品
+|name=圣教军战袍
+|english_name=Crusader's Tabard
+|aon=MagicWondrousDisplay.aspx?FinalName=Crusader's Tabard
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=躯体
+|price=6,000 gp
+|weight=2磅
+|description=圣教军战袍是一件穿在盔甲和其他衣物外面的结实布质外衣，通常饰有主人的标志或纹章，还可能用昂贵精致的材料（比如丝绸、毛皮或金线织物）镶边。
+
+每天一次，战袍的穿戴者可以说出它的命令词（通常是家族箴言）；此后，穿戴者可以花费一个[[标准动作]]（而不是[[整轮动作]]）移动至多等于其速度的距离，并进行一次冲锋攻击。这个能力持续到使用为止，或持续1分钟，以较短者为准。
+|req=[[制造奇物]]、[[加速术]]
+|cost=3,000 gp
+|source=内海骑士
+}}

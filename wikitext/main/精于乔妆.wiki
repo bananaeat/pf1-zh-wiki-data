@@ -1,0 +1,10 @@
+{{Trait
+|name=精于乔妆
+|english_name=Practiced Deception
+|type=宗教
+|prerequisites=信仰[[诺格巴]]
+|description=你在[[易容]]检定上得到+1背景加值，并且易容和解除易容的时间减半。【摘自 Evana 的翻译】(未获授权)
+|source_name=内海诸神
+|source=摘自 Evana 的翻译
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

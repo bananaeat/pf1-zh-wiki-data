@@ -1,0 +1,15 @@
+{{魔法物品
+|name=隼目护腕
+|english_name=Bracers of Falcon's Aim
+|aon=MagicWondrousDisplay.aspx?FinalName=Bracers of Falcon's Aim
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=腕部
+|price=4,000 gp
+|weight=1磅
+|description=这对护腕是红色皮革制成的，每只上面都印着一只翱翔空中、搜寻地面易得猎物的金色隼的图案。每天一次，以一个命令，穿戴者获得[[隼之型]]的效果，持续1分钟。穿戴者必须连续穿戴这对护腕24小时，才能启动这项能力。
+|req=[[制造奇物]]、[[隼之型]]
+|cost=2,000 gp
+|source=极限宝具
+}}

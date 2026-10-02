@@ -1,0 +1,10 @@
+{{Feat
+|name=驱魔师的反击
+|english_name=Exorcist's Rebuttal
+|description=你曾经历过被恶魔附身时那种令人窒息的掌控。那次事件给你留下了情感创伤，但也锤炼了你的心智，使你能抵御邪恶惑控者的窥探魔法。
+|prerequisites=[[精通钢铁意志]]、[[钢铁意志]]。
+|benefit=如果你使用 [[精通钢铁意志]] 专长，对针对胁迫效应的意志豁免进行重掷，并成功豁免该效果，那么制造此效果的生物（若该效果源自某个生物）将受到1d4点感知伤害。
+|source=DHH
+|source_name=恶魔猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh90d9fee6da.htm
+}}

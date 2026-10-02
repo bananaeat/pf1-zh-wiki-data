@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Demons Revisited pg. 38），民间汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=多武器防御
+|english_name=Multiweapon Defense
+|pfs=否
+|description=你放弃部分攻击来格挡攻势。
+|prerequisites=三条或更多手臂，敏捷21。
+|benefit=当你进行[[全力攻击]]动作时，你可以选择不用主武器以外的若干件所持武器进行攻击。每放弃一次攻击，你在该轮获得+1 AC盾牌加值。这个加值可以自身叠加，最多+5，但不与其他来源的AC盾牌加值叠加。
+|source_name=再探恶魔
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Multiweapon%20Defense
+}}

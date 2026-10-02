@@ -1,0 +1,10 @@
+{{Trait
+|name=嗜睡
+|english_name=Sleepy
+|type=缺陷
+|pfs=否
+|description=你每天晚上必须睡眠或休息至少12小时才能获得完整的一夜休息效果。
+|benefit=你对睡眠效果的豁免检定获得-2罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

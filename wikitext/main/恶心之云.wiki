@@ -1,0 +1,20 @@
+{{Spell
+|name=恶心之云
+|english_name=Cloud of seasickness
+|school=咒法系 (创造)
+|tags=毒素
+|levels=奥能师 2;牧师 2;德鲁伊 2;猎人 2;先知 2;术士 2;战斗祭司 2;法师 2（贝丝玛拉）
+|action=标准动作
+|components=语言;姿势;材料（一片海草）
+|range=近距
+|duration=1轮/等级
+|save=强韧，通过则无效; 见后文
+|sr=否
+|effect=半径20尺扩散、高20尺的云雾
+|description=此法术如同[[臭云术]]，除了上述注明之处外，云雾会使生物[[恶心]]而非[[反胃]]。
+
+恶心之云可以用[[魔法恒定术]]恒定（需要9级施法者，花费2,500gp）。恒定的恶心之云被风吹散后，会在10分钟后重新聚成。
+|source=冒险之路55：苦艾号叛变
+}}
+
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/zhadb96dd819.htm 原文]），按 AoN 核对过。</small>

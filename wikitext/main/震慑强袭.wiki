@@ -1,0 +1,11 @@
+{{Feat
+|name=震慑强袭
+|english_name=Stunning Assault
+|categories=战斗
+|description=你那强大却又不太精准的攻击能够震慑你的敌人。
+|prerequisites=力量13，[[猛力攻击]]，基本攻击加值+16。
+|benefit=你可以选择所有近战攻击检定与[[战技]]检定受到-5减值，来使得你的近战攻击命中的目标震慑1轮。成功的强韧豁免能够避免该效果，豁免DC为“10+你的BAB”。你必须在进行攻击检定之前选择使用这个专长，并且它的效果会持续至你的下一轮为止。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

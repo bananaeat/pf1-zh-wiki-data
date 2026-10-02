@@ -1,0 +1,13 @@
+<noinclude>{{速查导航|here=规则}}
+{{消歧义|出血}}
+'''出血'''（Bleed）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：特殊攻击和个体攻击</span></div>
+</noinclude><includeonly><div class="lang"><span id="出血"></span><span id="出血(怪物能力)"></span><div class="lang-h"><b>[[出血(怪物能力)|出血]]</b><i>Bleed</i><span class="lang-w">Ex · 特殊攻击和个体攻击</span></div><div class="lang-d"></includeonly>
+拥有该能力的生物造成的伤口会持续[[流血]]，受到该效果的生物每回合开始时遭受额外伤害。出血效果可以被一次 DC 15 的医疗检定或者任何魔法治疗所治愈。该效果每轮造成的伤害根据生物而不同。
+
+'''格式'''：出血 (2d6)
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Bleed|2=Bleed}}
+
+[[分类:通用怪物规则]]</noinclude>

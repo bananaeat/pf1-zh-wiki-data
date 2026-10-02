@@ -1,0 +1,15 @@
+{{魔法物品
+|name=跑跳靴
+|english_name=Boots of Striding and Springing
+|aon=MagicWondrousDisplay.aspx?FinalName=Boots of Striding and Springing
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=脚部
+|price=5,500 gp
+|weight=1磅
+|description=这双靴子使穿戴者的基础陆地速度提高10尺。除了这项大步奔行的能力（视为增强加值）外，这双靴子还让穿戴者能够纵身远跃：她进行跳跃时，特技检定获得+5表现加值。
+|req=[[制造奇物]]、[[大步奔行]]、制造者必须在[[特技]]技能上有5级
+|cost=2,750 gp
+|source=核心规则书、极限宝具
+}}

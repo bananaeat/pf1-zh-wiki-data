@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[精通阴招 (神话)]]。</small></div>
+{{Feat
+|name=精通阴招
+|english_name=Improved Dirty Trick
+|categories=战斗
+|description=你很擅长对敌人耍一些小伎俩。
+|prerequisites=[[智力]] 13，寓守于攻。
+|benefit=当你使用[[阴招]][[战技]]时不会引起[[借机攻击]]。此外，你所实行的阴招战技检定获得+2加值。你还在对抗针对自身的阴招战技时，[[CMD]]获得+2加值。
+|normal=当你使用阴招战技时会引起借机攻击。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[快速阴招]]、[[狡狐之策]]、[[高等阴招]]（3 个条目）

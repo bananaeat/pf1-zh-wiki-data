@@ -1,0 +1,9 @@
+{{Trait
+|name=索维瑞安泛神论
+|english_name=Sovyrian Pantheist
+|type=宗教
+|prerequisites=精灵；信仰任意精灵神祇
+|description=由于深受精灵那神秘的异界国度影响，你信奉那些在格拉利昂没什么影响力的冷门精灵神祇。你在用历史知识辨认或评价艺术品，工程知识，用于狩猎的生存技能检定，关于奔跑的体质检定和对使用了水晶或宝石的法术辨识检定上获得+1的背景加值。
+|source_name=格拉利昂的精灵
+|source_url=https://pf1chm.pages.dev/topics/zhd63cf5e76e.htm
+}}

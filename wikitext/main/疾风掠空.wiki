@@ -1,0 +1,11 @@
+{{Feat
+|name=疾风掠空
+|english_name=Rushing Winds
+|categories=战斗
+|description=你能以极高的速度在空中飞行，在航线上激起气流，扰乱其他飞行者。
+|prerequisites=[[动荡起飞]]，飞行10级。
+|benefit=你可以用一个[[整轮动作]]沿直线飞行，距离最多为你飞行速度的两倍。飞行过程中，你在周身激起的疾风会形成冲击波。每一个在你飞行路径中与你相邻的飞行生物都必须通过一次DC 25的飞行检定，否则会被击退1d6×10尺，并因气流冲击与拍打受到2d6点[[非致命伤害]]。若该检定失败5点或以上，目标还会失去1d4×10尺的高度；若失败10点或以上，目标将从空中坠落至地面。
+|source=BotA
+|source_name=古国血脉
+|source_url=https://pf1chm.pages.dev/topics/zh3e60e7b09a.htm
+}}

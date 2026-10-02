@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 19），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=吐霜者
+|english_name=Frost Spitter
+|type=种族
+|pfs=否
+|prerequisites=狗头人
+|description=白龙那冰冷的吐息充斥着你的肺腔。每天一次，你可以迅速呼出一口气，产生一团寒冷的浓雾，并迅速沉落到地面。这片冰冷的雾气会以湿滑的冰覆盖一个10尺见方的区域，其通行难度与冰面相同（《核心规则书》第430页）。
+|source_name=格拉利昂的狗头人
+|source=KoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Frost%20Spitter
+}}

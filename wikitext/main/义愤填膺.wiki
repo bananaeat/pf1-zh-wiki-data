@@ -1,0 +1,10 @@
+{{Trait
+|name=义愤填膺
+|english_name=Righteous Indignation
+|type=缺陷
+|pfs=否
+|description=你在切利亚斯、盖布、伊利森、卡塔佩什或卡蒂亚的非人环境中生活过，这让你难以控制自己的脾气。
+|benefit=每当有敌人引起你的[[借机攻击]]，你都必须进行这次借机攻击，除非你通过一次DC等于10+你的等级的意志豁免。你在对抗拥有情绪描述符但不同时拥有恐惧描述符的法术时，意志豁免检定承受-1罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

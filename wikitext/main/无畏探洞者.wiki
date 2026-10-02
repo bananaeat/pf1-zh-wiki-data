@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=无畏探洞者
+|english_name=Intrepid Delver
+|type=地区
+|prerequisites=精瑛
+|description=阿雅津波的一位年长[[精灵]]给你讲了许多关于城下幽暗地域的故事，你的神经早已磨练得能够面对他人难以想象的恐怖。你对抗恐惧效果的豁免检定获得+2背景加值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Intrepid%20Delver
+}}

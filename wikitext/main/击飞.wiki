@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=击飞
+|english_name=Knockback
+|type=Ex
+|categories=进攻
+|benefit=每轮1次，野蛮人可以进行一次[[冲撞]]检定来取代一次近战攻击。如果成功，目标承受等同于野蛮人力量修正的伤害，且如常地向后移动。如果成功，野蛮人无须跟着目标移动。此动作不会引发藉机攻击。
+|unchained=一击即飞
+|source_name=核心规则书
+}}

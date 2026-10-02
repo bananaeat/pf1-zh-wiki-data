@@ -1,0 +1,11 @@
+{{消歧义|神圣武士}}
+{{Trait
+|name=圣战使
+|english_name=Divine Warrior
+|type=宗教
+|prerequisites=信仰[[艾奥梅黛]]
+|description=你早年曾受训于一所军事修会。你全身心地投入到[[艾奥梅黛]]的教义，以及用力量传播教义中去。当你施放影响任何近战武器的神术时，选择一把，法术持续期间该武器伤害骰获得+1背景加值。
+|source_name=宗教背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

@@ -1,0 +1,13 @@
+{{魔法物品
+|name=性别转换腰带
+|english_name=Girdle of Opposite Gender
+|aon=MagicCursedDisplay.aspx?ItemName=Girdle of Opposite Gender
+|cat=诅咒物品
+|aura=中等变化系
+|cl=10
+|slot=腰部
+|weight=1磅
+|description=穿上这条魔法腰带时，穿戴者必须立刻通过一次DC 20的强韧豁免，否则会变成异性。角色的能力、心智和灵魂不受影响，只有性别改变。如果豁免掷出自然1，这件物品会彻底抹去穿戴者的一切性别，使他呈现出雌雄莫辨的无性外观。除非用解除诅咒的魔法撤销，否则这一变化是永久的。魔法一旦生效，腰带就可以毫不费力地脱下。一个生物只会被某一条腰带影响一次，不过别的同类腰带可以造成进一步的变化。
+|req=任意腰带
+|source=进阶玩家指南、极限宝具
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=石魔宠
+|english_name=Stone Familiar
+|aon=MagicWondrousDisplay.aspx?FinalName=Stone Familiar
+|cat=奇物
+|aura=微弱防护系
+|cl=3
+|slot=无
+|price=6,000 gp
+|weight=2磅
+|description=这件真人大小的超小型动物雕像由深色的粗糙石头雕成，硬度为8，有20点生命值。[[女巫]]可以用石魔宠储存至多500环的法术（戏法在此按1/2环计）。女巫可以用石魔宠把其中储存的任何法术教给她的活体[[魔宠]]，反之亦然。女巫鉴定出石魔宠时，立刻就知道其中储存了哪些法术。随机生成的宝藏中的石魔宠绝不会已经储存法术。
+|req=[[制造奇物]]、[[共享记忆(法术)|共享记忆]]，制造者必须是[[女巫]]
+|cost=3,000 gp
+|source=极限宝具
+}}

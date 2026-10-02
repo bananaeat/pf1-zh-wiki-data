@@ -1,0 +1,10 @@
+<noinclude>{{游侠导航}}
+{{Source|废土子民|People of the Wastes}}
+
+'''涤净陷阱'''（Cleansing Trap，Ex 或 Su）是一种[[游侠陷阱]]。
+
+</noinclude>'''涤净陷阱'''（Ex 或 Su）：该陷阱将随机压制目标某一造成疾病或毒素效果的攻击、能力或是特性，该压制效果持续每游侠等级1轮。若该生物具备多于一种造成疾病或毒素效果的攻击、能力或是特性，则该生物在受到陷阱影响时随机决定使其任一未被压制的攻击、能力或特性遭到压制。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1205.html 原文]）。全部游侠陷阱见 [[游侠陷阱]]。
+
+[[分类:游侠陷阱]]</noinclude>

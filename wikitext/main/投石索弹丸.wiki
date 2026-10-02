@@ -1,0 +1,10 @@
+{{武器
+|name=投石索弹丸
+|english_name=Sling bullets (10)
+|category=弹药
+|wcat=弹药
+|price=1 sp
+|weight=5磅
+|description=投石索弹丸是成形的金属球，设计用于投石索或半身人投石杖。买到的弹丸装在一个可容纳10颗的皮质小袋里。
+|source=核心规则书、极限宝具
+}}

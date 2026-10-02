@@ -1,0 +1,17 @@
+{{魔法物品
+|name=复仇骑士护腕
+|english_name=Bracers of the Avenging Knight
+|aon=MagicWondrousDisplay.aspx?FinalName=Bracers of the Avenging Knight
+|cat=奇物
+|aura=中等变化系
+|cl=8
+|slot=腕部
+|price=11,500 gp
+|weight=1磅
+|description=这对银护腕被打磨得光亮如镜，但外观会变化，与所搭配穿戴的盔甲相配。
+
+如果穿戴者拥有带有制裁能力的职业的等级（例如圣武士，或拥有毁灭领域的牧师），她的制裁伤害按她是该职业高4级的成员来计算。如果穿戴者不属于此类职业，则每天1次，她可以进行一次制裁攻击，攻击检定获得等同于其魅力加值的加值，命中时伤害骰获得+5加值。
+|req=[[制造奇物]]、[[祝福武器]]
+|cost=5,750 gp
+|source=极限宝具
+}}

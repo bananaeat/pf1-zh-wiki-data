@@ -1,0 +1,10 @@
+{{Trait
+|name=聪颖坐骑
+|english_name=Clever Mount
+|type=坐骑
+|prerequisites=任何动物都可以成为一个聪颖坐骑。
+|description=这种坐骑每点智力可以习得4项技巧(tricks),而非通常的3项技巧(tricks)。然而，事实上它任性且烦躁，使用[[驯养动物]]技能的驾驭动物命令该坐骑，需要以一次成功的DC 15的技能检定取代其通常所需的DC 10的技能检定。
+|source_name=坐骑背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zh4fc8a2e018.htm
+}}

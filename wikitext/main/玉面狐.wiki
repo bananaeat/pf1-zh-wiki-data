@@ -1,0 +1,9 @@
+{{Trait
+|name=玉面狐
+|english_name=Among Humans
+|type=种族
+|prerequisites=[[狐妖]]
+|description=你的一生几乎都是在[[人类]]为主的社会中度过的，你精于冒充人类。当你使用变身种族能力化为你特定的人类形态、以扮作人类时，你在[[易容]]检定上获得+2背景加值，并且你将易容技能视为本职技能。
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_451.html
+}}

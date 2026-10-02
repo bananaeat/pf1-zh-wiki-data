@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[信仰之火]] 的神话版本。</small></div>
+{{Spell
+|name=信仰之火
+|english_name=Flames of the Faithful
+|school=变化系
+|tags=火
+|levels=审判者 2
+|description=法术造成的火焰伤害会穿透火焰抗力与火焰免疫。成功的重击会使目标被点燃。
+|source=神话冒险
+}}
+[[分类:神话法术]]

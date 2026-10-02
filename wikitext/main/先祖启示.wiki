@@ -1,0 +1,12 @@
+<noinclude>{{侠客导航}}
+'''先祖启示'''（Ancestral Enlightenment, Ex）是[[侠客]]的[[社交天赋]]。
+
+</noinclude>{{Source|门徒教义|Disciple's Doctrine|inline}}
+
+效果：侠客可以尝试未受训的知识检定。如果他在某项知识技能上已有等级，那么在该技能的检定上获得+4加值。
+
+侠客必须达到 5 级才能选择本天赋。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhd3b09cc415.htm 原文]）。全部社交天赋见 [[:分类:社交天赋|分类:社交天赋]]。
+
+[[分类:社交天赋]]</noinclude>

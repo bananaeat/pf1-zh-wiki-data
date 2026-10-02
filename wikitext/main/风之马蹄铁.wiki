@@ -1,0 +1,15 @@
+{{魔法物品
+|name=风之马蹄铁
+|english_name=Horseshoes of a Zephyr
+|aon=MagicWondrousDisplay.aspx?FinalName=Horseshoes of a Zephyr
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=脚部
+|price=6,000 gp
+|weight=4磅
+|description=这些闪亮的银色马蹄铁上刻着疾行的云和拟人化的风的图案。钉在马蹄上后，这些马蹄铁能让马不必真正接触地面就能行进。马仍然必须在一个大致水平的表面上方奔跑（始终离表面约4英寸）。这意味着马可以越过水面等非固态或不稳定的表面，并且在任何地面上移动都不会留下足迹。马以其正常的基本陆地速度移动。这四个马蹄铁必须由同一只动物穿戴，魔法才会生效。
+|req=[[制造奇物]]、[[浮空术]]
+|cost=3,000 gp
+|source=核心规则书、极限宝具
+}}

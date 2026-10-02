@@ -1,0 +1,9 @@
+{{Trait
+|name=转变者
+|english_name=Tenacious Shifting
+|type=魔法
+|description=你发现了稳定变化之道的精髓。你对自己施放的任何变化学派法术持续时间延长2轮。持续时间为瞬时的变化系法术不受影响。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

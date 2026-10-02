@@ -1,0 +1,7 @@
+{{物品
+|name=日蚀
+|english_name=The Eclipse
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。从清晨到日暮，抽牌者被视为低一级。如果有多个职业等级，在抽卡时就需决定损失哪个职业的等级。
+}}

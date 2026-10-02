@@ -1,0 +1,9 @@
+{{装备
+|name=丝绳
+|english_name=Silk rope (50 ft.)
+|cat=冒险装备
+|price=10 gp
+|weight=5磅
+|description=这条50尺长的丝绳有4点生命值，通过DC24的力量检定就可以被破坏。
+|source=核心规则书、极限宝具
+}}

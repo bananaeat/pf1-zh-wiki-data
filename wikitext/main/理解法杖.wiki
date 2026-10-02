@@ -1,0 +1,19 @@
+{{魔法物品
+|name=理解法杖
+|english_name=Staff of Understanding
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Understanding
+|cat=法杖
+|aura=中等预言系
+|cl=8
+|slot=无
+|price=14,400 gp
+|weight=5磅
+|description=这根打磨光滑的枫木或橡木法杖，沿杖身镶嵌着象牙条，用象牙镶嵌而成的各种语言的符文遍布整根杖身。它可以使用以下法术：
+
+* [[通晓语言]]（1 发）
+* [[侦测思想]]（2 发）
+* [[巧言术]]（2 发）
+|req=[[制造法杖]]、[[通晓语言]]、[[侦测思想]]、[[巧言术]]
+|cost=7,200 gp
+|source=探索者协会战地指南、极限宝具
+}}

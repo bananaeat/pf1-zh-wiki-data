@@ -1,0 +1,6 @@
+<includeonly>([[扩展手册#APG|APG]])</includeonly><noinclude>
+<pre>
+*{{APG}}
+</pre>
+*{{APG}}
+</noinclude>

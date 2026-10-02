@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=隐者之舌
+|english_name=Tongue of the Hidden
+|aon=MagicGenieSeals.aspx#Tongue of the Hidden
+|cat=巨灵印记
+|aura=微弱预言系
+|cl=5
+|slot=巨灵印记
+|price=3,000 gp
+|weight=—
+|description=作为最次一等的大印记，隐者之舌通常以镶金的白镴和失去光泽的银制成。印记就位时，里面的巨灵可以看见、听见周围的环境，就如同没有被囚禁在容器里一样。此外，巨灵可以通过[[魔嘴]]效果说话，并且可以决定是否让这个魔嘴真的出现在印记上。巨灵不能通过这条联系施展法术。
+|req=[[制造奇物]]、[[锐耳术/鹰眼术]]、[[魔嘴]]
+|cost=1,500 gp、120 XP
+|source=冒险之路22：永恒的终结
+}}

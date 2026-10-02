@@ -1,0 +1,9 @@
+{{Trait
+|name=配药师
+|english_name=Perfectionist's Brew
+|type=魔法
+|description=你明白药剂的调配应当按照绝对精确的配方和比例。你的所有工艺(炼金)检定、用于[[调制药剂]]的[[法术辨识]]检定获得+2背景加值。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

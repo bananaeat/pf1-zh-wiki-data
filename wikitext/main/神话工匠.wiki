@@ -1,0 +1,15 @@
+{{Feat
+|name=神话工匠
+|english_name=Mythic Crafter
+|categories=神话
+|description=你能够制造[[神话魔法物品]]。
+|prerequisites=任意造物专长
+|benefit=只要你具有合适的[[造物专长]]，就能够制造专长对应的任何神话魔法物品。此外，你能够在制造非神话魔法物品时，技能检定获得+5加值。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}
+
+== 哪里用到它 ==
+
+'''制造需求'''：[[古老者信物]]、[[暗渍]]、[[暴君印记]]、[[盾勋执法官之守护]]、[[飘渺幻梦之源素]]（5 件物品）

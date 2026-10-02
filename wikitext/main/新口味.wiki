@@ -1,0 +1,12 @@
+{{Feat
+|name=新口味
+|english_name=Diverse Palate
+|pfs=否
+|description=你对血液口味的涉猎范围比其他[[吸血裔]]更广。
+|prerequisites=[[饮血者]]，吸血裔。
+|benefit=选择一种类人生物子类或人形怪物类。你可以对该子类的生物使用[[饮血者]]专长。
+|special=你可以多次选择本专长。每次选择一种新的类人生物子类或人形怪物类。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

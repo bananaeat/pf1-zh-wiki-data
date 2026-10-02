@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[重击专攻]] 的神话版本。</small></div>
+{{Feat
+|name=重击专攻
+|english_name=Critical Focus
+|categories=神话
+|description=你的攻击能够正确无误地命中目标的弱点。
+|prerequisites=[[重击专攻]]
+|benefit=当你对抗非神话敌人时，能够自动确认重击。此外，当你对佩戴具有护命[[特殊能力]]的护甲或者具有类似效果的生物造成重击威胁时，该名生物必须在确认重击是否无效的检定中掷两次并取更糟的结果。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

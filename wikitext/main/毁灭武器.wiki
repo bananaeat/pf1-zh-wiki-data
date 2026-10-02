@@ -1,0 +1,15 @@
+{{Spell
+|name=毁灭武器
+|english_name=Disrupting Weapon
+|school=变化系
+|levels=先知 5;唤魂师 5;审判者 5;战斗祭司 5;牧师 5
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=一把近战武器
+|duration=1轮/等级
+|save=意志，通过则无效（无害，物体）; 见后文
+|sr=是（无害, 物体）
+|description=该法术可使一把近战武器变得对不死生物来说极其致命。在战斗中被该武器击中的任何不死生物，若其HD与你的CL相同或更低，则必须进行意志豁免检定，失败则会被彻底摧毁。[[特殊能力#法术抗力|法术抗力]]在对抗摧毁效果时无法生效。
+|source=核心规则书
+}}

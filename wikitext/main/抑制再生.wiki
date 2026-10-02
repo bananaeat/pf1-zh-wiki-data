@@ -1,0 +1,11 @@
+{{Feat
+|name=抑制再生
+|english_name=Suppress Regeneration
+|categories=战斗;团队
+|description=你和你的盟友可以放大一个再生生物的弱点。你的盟友通过一次时机精准的攻击，使一个严重的伤口再度扩大，延长该生物的再生被抑制的时长。
+|prerequisites=无
+|benefit=当你成功进行一次攻击，使得一个生物的再生能力被抑制至少1轮（例如用[[炽火胶]]击中一个巨魔），那么任何拥有此专长的正在威胁此生物的盟友可以对它进行一次[[借机攻击]]。这次借机攻击不造成伤害，而是将该生物再生能力被抑制的时间再延长1轮。如果有多个拥有此专长的盟友以这一借机攻击命中该生物，抑制时间的延长轮数可以叠加。
+|source=GHH
+|source_name=巨人猎手手册
+|source_url=https://pf1chm.pages.dev/topics/zh804f69f232.htm
+}}

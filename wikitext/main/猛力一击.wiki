@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=猛力一击
+|english_name=Powerful Blow
+|type=Ex
+|categories=进攻
+|benefit=野蛮人单次伤害检定+1。此加值每4个野蛮人等级会再+1。使用此[[狂暴之力]]是一个[[迅捷动作]]，且必须在攻击检定之前启用。
+|special=他每次狂暴只能使用1次此能力。
+|source_name=核心规则书
+}}

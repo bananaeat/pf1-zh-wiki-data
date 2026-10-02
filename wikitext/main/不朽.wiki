@@ -1,0 +1,12 @@
+<noinclude>{{法师导航}}
+'''不朽'''（Immortality, Ex）是[[法师]]的[[奥术发现]]。
+
+</noinclude>{{Source|极限魔法|Ultimate Magic|inline}}
+
+'''前提'''：法师等级20。
+
+'''效果'''：你发现了治愈衰老的方法，从此你不会因年龄增长而受到身体属性减值。如果你已经承受这类减值，这些减值此时移除。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_319.html 原文]）。全部奥术发现见 [[奥术发现]]。
+
+[[分类:奥术发现]]</noinclude>

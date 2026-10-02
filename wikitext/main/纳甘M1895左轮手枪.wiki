@@ -1,0 +1,18 @@
+{{武器
+|name=纳甘M1895左轮手枪
+|english_name=Nagant M1895 revolver
+|category=火器
+|prof=异种
+|wcat=单手
+|price=400 gp
+|weight=4磅
+|dmg_m=1d8
+|crit=×4
+|range=80尺
+|type=钝击和穿刺
+|misfire=1
+|capacity=7
+|groups=火器
+|description=这件火器的操作方式与近代火器中的左轮手枪（《极限战斗》第139页）相同，只是容弹量为7而不是6。
+|source=冒险之路71：拉斯普京必须死！
+}}

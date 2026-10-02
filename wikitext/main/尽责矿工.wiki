@@ -1,0 +1,10 @@
+{{Trait
+|name=尽责矿工
+|english_name=Conscientious Miner
+|type=地区
+|prerequisites=精瑛
+|description=你是精瑛的{{材料|秘银}}矿工之一，学会如何提取易碎矿石并判断其价值。你在[[估价]]检定获得+1背景加值，在专业[矿工]检定获得+1背景加值。此外，专业[矿工]成为你的[[本职技能]]。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://pf1chm.pages.dev/topics/page_1557.html
+}}

@@ -1,0 +1,18 @@
+{{武器
+|name=重标枪
+|english_name=Pilum
+|category=武器
+|prof=军用
+|wcat=远程
+|price=5 gp
+|weight=4磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×2
+|range=20尺
+|type=穿刺
+|special=见正文
+|groups=矛，投掷
+|description=这把重型[[标枪]]的尖端被设计成命中后断下并嵌入盾牌。和弹药一样，投掷出的重标枪击中目标后就会损毁。若你以重标枪击中持盾的对象，在他用一个[[标准动作]]把重标枪的残余部分从盾牌上撬下来之前，他失去该盾牌提供的AC加值。
+|source=冒险者的军械库、进阶玩家指南、极限宝具、远程战术工具箱
+}}

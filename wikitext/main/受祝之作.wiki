@@ -1,0 +1,9 @@
+{{Trait
+|name=受祝之作
+|english_name=Faithful Artist
+|type=宗教
+|prerequisites=信仰[[黛丝娜]]
+|description=你在探索艺术的路上有着[[黛丝娜]]的祝福。选择一项表演技能，你在所选项目上获得+1背景加值，且表演视作你的[[本职技能]]。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

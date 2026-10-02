@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[火焰护盾]] 的神话版本。</small></div>
+{{Spell
+|name=火焰护盾
+|english_name=Fire Shield
+|school=塑能系
+|tags=火;寒冷
+|levels=召唤师 3;召唤师（掉链） 4;奥能师 4;术士 4;法师 4;炼金术师 4;秘学士 4;血脉狂怒者 4;调查员 4;魔战士 4
+|description=对你攻击的生物所受到的伤害增加至1d8点 + 每施法者等级1点（最高+15）。寒冷护盾会赋予你火焰免疫，温暖护盾会赋予你寒冷免疫。
+|source=神话冒险
+}}
+[[分类:神话法术]]

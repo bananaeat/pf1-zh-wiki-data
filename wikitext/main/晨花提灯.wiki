@@ -1,0 +1,15 @@
+{{魔法物品
+|name=晨花提灯
+|english_name=Dawnflower Lantern
+|aon=MagicWondrousDisplay.aspx?FinalName=Dawnflower Lantern
+|cat=奇物
+|aura=微弱惑控系、塑能系
+|cl=5
+|slot=无
+|price=6,400 gp
+|weight=2磅
+|description=这盏精美的卡蒂亚带罩提灯可以凭命令字自行点燃[[不灭明焰]]，或自行熄灭。每天一次，持灯时使用者可以说出一个命令字来使用[[祝福术]]。如果把提灯放在稳固的表面上并说出另一个命令字，它会激活[[祝圣术]]的效果，但只要提灯被移动或它的光亮熄灭，这一效果就会立即结束。
+|req=[[制造奇物]]、[[祝福术]]、[[祝圣术]]、[[不灭明焰]]
+|cost=3,200 gp
+|source=内海诸神
+}}

@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''念力之躯'''（Kinetic Form, Sp）是[[操念使]]的[[原力]]。
+
+元素：通用；类别：通用（Sp）；等级：5；超载：1
+
+你能让自己的身体漂浮在大量的元素物质中。直至你所承受的超载得以移除为止，你能够以[[标准动作]]将自身的体型变为大型或者恢复到原有的体型。这不会以任何方式改变你的属性。16级起，你能够额外承受1点超载来使得自身的体型变为超大型作为替代。你不能使用念力之躯来缩小自身的体型。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Kinetic Form|2=Kinetic Form}}
+
+[[分类:原力]]

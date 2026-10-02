@@ -1,0 +1,14 @@
+{{魔法物品
+|name=无尽之眼灵药
+|english_name=Elixir of Countless Eyes
+|aon=MagicWondrousDisplay.aspx?FinalName=Elixir of Countless Eyes
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=无
+|price=1,200 gp
+|description=这种冒泡的绿色液体会使饮用者全身各处长出眼睛。这些警惕的眼睛使饮用者不会被[[夹击]]。此外，饮用者对周围环境有了更敏锐的感知，在1小时内先攻检定上获得+2表现加值。
+|req=[[制造奇物]]、[[无尽之眼]]
+|cost=600 gp
+|source=药剂与毒药
+}}

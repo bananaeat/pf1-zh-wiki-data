@@ -1,0 +1,15 @@
+{{魔法物品
+|name=厉鬼权杖
+|english_name=Rod of Vicious Ghosts
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Vicious Ghosts
+|cat=权杖
+|aura=强烈塑能系
+|cl=13
+|slot=无
+|price=26,000 gp
+|weight=1磅
+|description=如同阴影般的不祥符文在这根[[秘银]][[魔法物品#权杖|权杖]]的表面流动。当处于灵界时，这根短杖的持用者每天至多3次可以使带有[力场]描述符的法术和类法术能力影响处于物质位面的生物。使用该能力之后，持用者会发出微光，可被物质位面和灵界的生物看见。这种发光效果持续1分钟，其余方面与[[妖火]]相同。
+|req=[[制造权杖]]、[[幻化灵体]]
+|cost=13,000 gp
+|source=位面冒险
+}}

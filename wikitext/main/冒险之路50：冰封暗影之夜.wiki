@@ -1,0 +1,49 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #50: Night of Frozen Shadows
+|authors=Greg A. Vaughan
+|pages=96
+}}
+
+{{书页/简介|head=忍者对决维京人！|1=
+一个没有面孔的威胁正在维京帝国中潜行。数十年来，一伙阴险的刺客一直在暗中观察、静静等待，藏身于凶悍的林诺姆诸王国（Lands of the Linnorm Kings）首府喀斯嘉德（Kalsgard）那些粗犷的居民之间。这么多年里，他们神秘的猎物一直深藏不露，但如今已不再如此。随着猎物现身，死亡开始在这座由强悍战士与维京劫掠者组成的城市街头游荡。英雄们远道而来，抵达这座声名狼藉的城市，准备踏出远征世界上某些最凶险荒野的第一步。然而在危机四伏的喀斯嘉德，一切都不会轻松，很快他们就发现自己成了神秘刺客的目标。英雄们能否保护自己和朋友，免遭超自然杀手的刀刃？还是会在冰天雪地中走向终结？
+
+本册《冒险之路》内容包括：
+
+* 《冰封暗影之夜》，一部面向 4 级角色的开拓者冒险，作者 Greg A. Vaughan。
+* 穿行于喀斯嘉德——林诺姆诸王国那座严寒的首府——拥挤而致命的街道，作者 Matthew Goodall。
+* 洞察美、爱与音乐女神[[纱琳]]的行事风格与信仰，作者 Sean K Reynolds。
+* 「探索者日志」中的谋杀与谜团，作者 Dave Gross。
+* 四种新怪物，作者 Jesse Benner 和 Sean K Reynolds。
+}}
+
+'''冒险之路50：冰封暗影之夜'''（''Pathfinder #50: Night of Frozen Shadows''）是[[冒险之路]]「玉关白」系列的一部冒险，由 Greg A. Vaughan 撰写，配套文章出自 Jesse Benner、Matthew Goodall 和 Sean K Reynolds，小说出自 Dave Gross，于 2011 年 9 月 14 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+冰封暗影之夜 @ 6
+NPC 图集 @ 54
+玉关白宝物 @ 60
+- [[致命之吻(魔法武器)|致命之吻]]
+- [[地火手里剑]]
+- 逃亡者手雷
+- [[受誓者]]
+- 夜风忍装
+- Amatatsu 的守护者 Suishen
+喀斯嘉德（Kalsgard） @ 62
+[[纱琳]] @ 70
+探索者日志：空壳（2／6） @ 76
+怪物图鉴 @ 82
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Night of Frozen Shadows
+|releases=PDF¦PZO9050E¦2011-09¦；Softcover¦PZO9050¦2011-09¦
+}}
+
+<small>CHM 汉化里没有这本书的译名，书名是本站定的。</small>
+
+[[分类:书目]]

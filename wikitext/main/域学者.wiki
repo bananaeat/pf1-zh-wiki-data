@@ -1,0 +1,9 @@
+{{Trait
+|name=域学者
+|english_name=Planar Savant
+|type=信念
+|description=当着手于各位面及其原住民的工作时，你察觉到自己有着天生的灵感。在进行知识(位面)技能检定时，你可以用魅力修正取代智力修正。
+|source_name=信念背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

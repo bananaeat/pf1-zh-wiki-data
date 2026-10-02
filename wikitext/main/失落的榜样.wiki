@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dungeoneer's Handbook pg. 33），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=失落的榜样
+|english_name=Lost Role Model
+|type=地区
+|pfs=否
+|prerequisites=著名地城附近的定居点
+|description=年少时，你对途经你的城镇、前往附近地城、陵墓或遗迹的十字军、洞穴探险者和学识探寻者们惊叹不已。其中有一位无畏的榜样对你尤为重要。在你最后一次见到心目中英雄的那天，这位冒险者送给你一份独一无二的地城指南（见《地城探险者手册》第14页），其价值不超过750gp，精确度调整值不超过+2。建议：在GM的帮助下，参考本书中的范例，构建一份与你成长之地附近的地城相关联的独特地城指南。
+|source_name=地城探险者手册
+|source=DH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Lost%20Role%20Model
+}}

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Sargava, the Lost Colony pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=丛林战士
+|english_name=Jungle Fighter
+|type=战斗
+|prerequisites=萨迦瓦人
+|description=你在丛林环境中步伐稳健；在丛林中，你的速度不会因困难地形而降至10尺以下（这意味着你可以在困难地形中进行五尺快步，而不引发借机攻击）。
+|source_name=萨迦瓦，失落的殖民地
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Jungle%20Fighter
+}}

@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=洞察卷轴筒
+|english_name=Insightful Scroll Case
+|aon=MagicWondrousDisplay.aspx?FinalName=Insightful Scroll Case
+|cat=奇物
+|aura=微弱预言系
+|cl=5
+|slot=无
+|price=5,000 gp
+|weight=2磅
+|description=当魔法卷轴存放在这个银金矿卷轴筒中时，筒身表面会浮现发光的蓝色符文，标示出筒内当前存放着哪些法术的卷轴。如果使用者的法术列表中有这些法术，她可以手持卷轴筒阅读这些符文，像卷轴就在手中一样，从筒内的卷轴施放法术。从筒内卷轴施放法术在其他方面照常进行，筒内的卷轴也照常耗尽。卷轴筒最多可存放五卷魔法卷轴，存放其中的卷轴不会受到火焰、水和其他伤害。
+|req=[[制造奇物]]、[[秘法视力]]、[[抵抗能量伤害]]
+|cost=2,500 gp
+|source=冒险之路123：浸没大圣堂
+}}

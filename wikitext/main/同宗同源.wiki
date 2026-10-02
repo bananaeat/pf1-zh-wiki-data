@@ -1,0 +1,10 @@
+{{Trait
+|name=同宗同源
+|english_name=Shared Ancestors
+|type=宗教
+|prerequisites=迈娅(Myr)
+|description=你通过对自己血统的详细研究，你能更好地了解甚至尊重你最疏远的亲戚。你在有关于与你同一生物类型和至少有同一亚种的任何生物的交涉、知识（历史）、知识（本地）、知识（贵族）和察言观色检定获得+1背景加值。其中一个技能成为你的[[本职技能]]。
+|source_name=古国血脉
+|source=BotA
+|source_url=https://pf1chm.pages.dev/topics/zhb7c0053e99.htm
+}}

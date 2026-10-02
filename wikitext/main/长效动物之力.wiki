@@ -1,0 +1,10 @@
+{{Feat
+|name=长效动物之力
+|english_name=Extended Animal Focus
+|description=相较于你大多数的对手和盟友，你可以在各个方面对一类动物进行更长时间的拟态。
+|prerequisites=动物之力职业能力。
+|benefit=你可以将等同于「你的感知调整值」（最少为1）分钟的额外使用时间，加到你每日可以在各个方面使用动物之力来模仿一类动物的时间上。
+|source=UW、ACG
+|source_name=极限荒野、进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

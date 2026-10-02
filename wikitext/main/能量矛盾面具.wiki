@@ -1,0 +1,15 @@
+{{魔法物品
+|name=能量矛盾面具
+|english_name=Mask of Conflicting Energies
+|aon=MagicWondrousDisplay.aspx?FinalName=Mask of Conflicting Energies
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=头部
+|price=4,000 gp
+|weight=1磅
+|description=这副面具一侧为白色，另一侧为黑色，双眼处嵌着闪闪发光的宝石透镜。每天最多三次，穿戴者可以把她所施放的火焰法术的能量伤害改为寒冷，寒冷法术改为火焰，酸蚀法术改为电击，或电击法术改为强酸。法术的其他效果不变（例如，被改为火焰伤害的[[冰风暴]]仍会造成钝击伤害，并对察觉检定施加减值）。面具只对最高3环的法术有效。
+|req=[[制造奇物]]、[[元素法术]]
+|cost=2,000 gp
+|source=内海诸神
+}}

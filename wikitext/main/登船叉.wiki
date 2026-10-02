@@ -1,0 +1,17 @@
+{{武器
+|name=登船叉
+|english_name=Boarding gaff
+|category=武器
+|prof=异种
+|wcat=双手
+|price=8 gp
+|weight=8磅
+|dmg_s=1d4/1d4
+|dmg_m=1d6/1d6
+|crit=×2
+|type=穿刺或挥砍
+|special=双头，长武，摔绊
+|groups=双头，长柄
+|description=登船叉，又称钩叉，是一根末端有着刺鱼用尖钩的长杆。海盗通常会在登船叉的两端都加上额外的沉重钩子，以协助登船行动，该武器也因此得名。此外，登船叉也可以用来捕鱼。
+|source=内海海盗、冒险者的军械库2
+}}

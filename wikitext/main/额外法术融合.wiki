@@ -1,0 +1,10 @@
+{{Feat
+|name=额外法术融合
+|english_name=Extra Spell Synthesis
+|description=你在结合法术上的造诣已达到全新的高度。
+|prerequisites=法术融合职业能力。
+|benefit=你每天可以额外施展一次法术融合。
+|special=你可以多次选取此专长。你每次选取此专长，每天便能再多施展一次法术融合职业能力。
+|source_name=传奇编年史
+|source_url=https://pf1chm.pages.dev/topics/page_1502.html
+}}

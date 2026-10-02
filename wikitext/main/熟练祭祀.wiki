@@ -1,0 +1,10 @@
+{{Feat
+|name=熟练祭祀
+|english_name=Practiced Ritualist
+|description=在仪式施法者当中，你是个经验丰富的领头人。
+|prerequisites=知识技能（奥秘，历史，位面和宗教）1级
+|benefit=你在进行异能仪式（[[异能冒险]]OA208页）的技能检定，以及学习施放异能仪式方法的智力检定上获得+2加值。如果你是该仪式的主施法者，对抗仪式效果的豁免DC+2。如果该仪式有所需副施法者的最小数量，该数量-1。
+|source=MTT、MagicTT
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_325.html
+}}

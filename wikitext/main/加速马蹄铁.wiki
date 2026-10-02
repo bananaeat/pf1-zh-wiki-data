@@ -1,0 +1,15 @@
+{{魔法物品
+|name=加速马蹄铁
+|english_name=Horseshoes of Speed
+|aon=MagicWondrousDisplay.aspx?FinalName=Horseshoes of Speed
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=脚部
+|price=3,000 gp
+|weight=12磅
+|description=这些铁马蹄铁钉在动物的蹄子上后，会使该动物的基本陆地速度提高30尺，这算作增强加值。与其他提高速度的效果一样，跳跃距离也会按比例增加。这四个马蹄铁必须由同一只动物穿戴，魔法才会生效。
+|req=[[制造奇物]]、[[加速术]]
+|cost=1,500 gp
+|source=核心规则书、极限宝具
+}}

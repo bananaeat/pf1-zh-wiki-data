@@ -1,0 +1,10 @@
+{{Trait
+|name=神灵之森林务者
+|english_name=Spiritual Forester
+|type=地区
+|prerequisites=神灵之森(Forest of Spirits)
+|description=你在神灵之森边缘的一个小[[定居点]]长大，了解到森林和它们的超自然居民的许多种种。 你在知识[自然]和知识[位面]检定获得+1背景加值，而且其中一个技能成为你的[[本职技能]]。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://pf1chm.pages.dev/topics/page_1557.html
+}}

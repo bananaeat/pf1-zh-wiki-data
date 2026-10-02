@@ -1,0 +1,17 @@
+<noinclude>{{消歧义|法术抗力}}</noinclude>
+{{Spell
+|name=法术抗力
+|english_name=Spell Resistance
+|school=防护系
+|levels=先知 5;唤魂师 5;审判者 5;异能者 5;战斗祭司 5;炼金术师 5;牧师 5;秘学士 5;调查员 5
+|domains=魔法领域 5;保护领域 5
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=接触
+|target=接触到的生物
+|duration=1分钟/等级
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=目标获得数值等同于12+你的施法者等级的法术抗力。
+|source=核心规则书
+}}

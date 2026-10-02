@@ -1,0 +1,11 @@
+{{Feat
+|name=杀戮袭行
+|english_name=Slaying Sprint
+|categories=战斗
+|pfs=否
+|description=（PFS不可）步伐迅猛杀意致命，你能在任何人看到剑锋之前取敌首级。
+|prerequisites=[[闪避]]，[[灵活移动]]，[[跳跃攻击]]，BAB+13
+|benefit=当你用一个[[整轮动作]]对敌人使用[[致命一击]]（CDG）时，你可以移动你基础移动速度的一半以取代五尺快步。你使用致命一击（CDG）不会引起敌人的[[借机攻击]]。仅当你持用轻型或单手武器时，你才能使用这个专长。
+|source_name=敌手指南
+|source_url=https://pf1chm.pages.dev/topics/zh338f7792a5.htm
+}}

@@ -1,0 +1,26 @@
+<noinclude>{{审判者导航}}</noinclude>
+{{Source|信仰与哲学|Faiths and Philosophies|inline}}
+
+== 革新裁决域 (Reformation Inquisition) ==
+
+神祇：不适用（AoN 未列神祇）。
+
+领域力量：无论是神祇示意你锐意改革或是教会的败坏让你无法容许，你竭尽所能纠正教会的过失。你的言辞带有神圣的说服力。
+
+=== 神授巧舌 (Inspired Rhetoric, Ex) ===
+
+你可以使用感知调整值而非魅力调整值加到交涉、威吓和表演（演说）检定的结果上，并且表演（演说）成为你的审判者本职技能。
+
+=== 肃正 (Blessed Correction, Ex) ===
+
+在4级时，当你进行一次交涉、威吓或表演（演说）技能检定时，你可以双骰取高。你每天可以使用本能力的次数等同于你的感知调整值。
+
+=== 警世言 (Awaken Discontent, Su) ===
+
+在8级时，你可以发表一段摄人心魄的演说，指出那些上位者所犯下的错误并号召变革，使你演说的对象受到一个[[魅惑人类]]效果的影响，该效果的施法者等级等同于你的审判者等级，豁免DC为10+你的审判者等级的一半+你的感知调整值。你每天可以使用本能力的次数等同于你的感知调整值。
+
+<noinclude>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_374.html 原文]），按 AoN 核对过。
+{{AoN原文|1=Inquisitions.aspx|2=Inquisitions}}
+
+[[分类:审判者]]
+{{职业}}</noinclude>

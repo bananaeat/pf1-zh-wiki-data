@@ -1,0 +1,10 @@
+{{Trait
+|name=发条外科医生
+|english_name=Clockwork Surgeon
+|type=宗教
+|prerequisites=伊索卡(Aesocar)
+|description=多亏你的医疗创新，你能特别全面或快速地进行手术。你开始游戏时免费获得一个特别医疗包，消耗10gp的材料和8小时来组装医疗设备能完全补充你的医疗包。当使用此医疗包治疗致命伤时，你能将需求时间减半或增加你的智力调整值至恢复的hp量上。
+|source_name=古国血脉
+|source=BotA
+|source_url=https://pf1chm.pages.dev/topics/zhb7c0053e99.htm
+}}

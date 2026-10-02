@@ -1,0 +1,47 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #105: The Inferno Gate
+|authors=Patrick Renie
+|pages=96
+}}
+
+{{书页/简介|head=通往地狱的公路|1=
+「三度诅咒」的特鲁恩家族想要封闭炼狱之门（Inferno Gate）——一道失控的、通往地狱的传送门——而邪恶的冒险者们受命完成这项任务。为了取得材料并施行仪式，他们必须先对付一个地狱族裔盗贼公会、[[地狱骑士团]]的长枪骑士团（Order of the Pike），以及荣耀光复军的骑士和他们的天界盟友。然而，在仪式完成之前，角色们也许不得不重新审视自己的选择——关闭这道门真的是通往未来的最佳方案吗？反派们会服从命令封闭通往地狱的大门，还是会与某个魔鬼做交易，换取这道传送门的控制权？抑或他们只会成为炼狱之门源源不断的祭品中最新的一个？
+
+本册《冒险之路》延续「地狱复仇」冒险之路，内容包括：
+
+* 《炼狱之门》，一部面向 7 级角色的开拓者冒险，作者 Patrick Renie。
+* 深入魔鬼大公[[摩洛克]]的信仰，作者 F. Wesley Schneider。
+* 各类魔法传送门的详解，作者 F. Wesley Schneider。
+* 「探索者日志」中，最后一刻的营救揭示出一位意想不到的盟友，作者 Josh Vogt。
+* 五种危险的新怪物，作者 Benjamin Bruck、Jason Keeley、Jeffrey Swank、Mike Welham。
+}}
+
+'''冒险之路105：炼狱之门'''（''Pathfinder #105: The Inferno Gate''）是[[冒险之路]]「地狱复仇」系列的一部冒险，由 Patrick Renie 撰写，配套文章出自 F. Wesley Schneider、Joe Homes 等 6 位作者，小说出自 Josh Vogt，于 2016 年 4 月 27 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+炼狱之门 @ 4
+NPC 图集 @ 56
+- Darellus Fex
+- Viona Kadarius
+认识反派：Emil Kovkorin @ 60
+通往地狱之路 @ 62
+[[摩洛克]]，烬灭之牛 @ 68
+探索者日志：懦夫与乌鸦（3／6） @ 74
+怪物图鉴 @ 82
+- [[努阿利杜灵使]]
+- [[麻袋人]]
+- [[利瑟里姆]]
+- [[梅德拉克]]
+- [[森林幽灵]]
+}}
+
+{{书页尾
+|pfw=The Inferno Gate
+|releases=Softcover¦PZO90105¦2016-04¦978-1-60125-827-4；PDF¦PZO90105E¦¦
+}}
+
+[[分类:书目]]

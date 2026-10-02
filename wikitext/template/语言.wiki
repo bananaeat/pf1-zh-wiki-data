@@ -1,0 +1,13 @@
+<includeonly><div class="lang"><div class="lang-h"><b>{{{名}}}</b>{{#if:{{{英|}}}|<i>{{{英}}}</i>}}{{#if:{{{使用者|}}}|<span class="lang-w">{{{使用者}}}</span>}}</div>{{#if:{{{说明|}}}|<div class="lang-d">{{{说明}}}</div>}}</div></includeonly><noinclude>
+[[格拉利昂语言汇总]] 用的语言卡。
+
+ {{语言|名=深渊语|英=Abyssal|使用者=恶魔和其他混乱邪恶阵营的异界生物|说明=深渊语是恶魔的语言……}}
+
+四个参数只有 <code>名=</code> 必填。<code>英=</code> 是英文名——'''这一页的英文不削''',
+它是查表的第二把钥匙，而且有几门语言（Arboreal）只有英文名。
+<code>使用者=</code> 是原文括号里的那串「谁说这门话」。
+
+放在 <code><nowiki><div class="lang-grid"></nowiki></code> 里会排成两到三列。
+样式在 [[MediaWiki:Common.css]] 的「规则正文页」一节。
+[[分类:模板]]
+</noinclude>

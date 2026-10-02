@@ -1,0 +1,10 @@
+{{Feat
+|name=塔尔多随从
+|english_name=Taldan Squire
+|pfs=否
+|description=你作为塔尔多骑士随从的经历让你学会了该如何与他们并肩作战。
+|prerequisites=BAB+1，[[擅长军用武器]]
+|benefit=当你位于一名拥有[[骑乘战斗]]的骑马盟友的五十尺内时，你在[[先攻]]检定上得到+2的加值。如果这名盟友受伤了，只要你在他十尺之内，你就能在AC上获得+1闪避加值。
+|source_name=塔尔多，荣光荡漾之地
+|source_url=https://pf1chm.pages.dev/topics/page_936.html
+}}

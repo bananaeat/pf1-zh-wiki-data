@@ -1,0 +1,48 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=巨型海洋蛇
+|english_name=Giant Sea Snake
+|cr=7
+|xp=3,200
+|alignment=绝对中立
+|size=巨型
+|type=动物
+|init=+6
+|senses=昏暗视觉；察觉 +12
+|description=这头蠕动的巨大水栖野兽呈淡蓝色，带有鲜黄色条纹，长着一条鳍状的尾巴以助游泳。
+|ac=20，接触 10，措手不及 18（+2 敏捷，+10 天生，–2 体型）
+|hp=85（9d8+45）
+|fort=+11
+|ref=+10
+|will=+5
+|speed=30 尺，攀爬 20 尺，游泳 40 尺
+|melee=啮咬 +14（2d8+13/19–20 外加毒素）
+|space=15 尺
+|reach=15 尺
+|special_attacks=毒素
+|str=29
+|dex=14
+|con=20
+|int=1
+|wis=15
+|cha=2
+|bab=+6
+|cmb=+17
+|cmd=29
+|feats=[[精通重击]]（啮咬）;[[精通先攻]];[[闪电反射]];[[攫抓]];[[武器专攻]]（啮咬）
+|skills=[[攀爬]] +17;[[察觉]] +12;[[隐匿]] +7;[[游泳]] +17
+|racial_mods=+4 察觉，+4 隐匿
+|sq=闭气
+|environment=温暖海洋
+|organization=单独或成对
+|treasure=无
+|special_abilities={{怪物能力|毒素|Ex|啮咬—伤口；豁免 强韧 DC 19；频率 每轮 1 次，持续 6 轮；效果 1d2 敏捷和 1d2 体质；痊愈 连续 2 次豁免。}}
+|source=Isles of the Shackles
+|lore=
+巨型海洋蛇是镣铐岛的许多水手一想到落水就本能地恐惧的最大原因之一。这些有耐心的掠食者会尾随帆船，在水面下游动，等待时机袭击任何不幸落水的船员。特别饥饿的巨型海洋蛇甚至会爬上船舷，直接从甲板上攫走毫无防备的水手。
+
+巨型海洋蛇通常长可达 30 尺，重 500 磅。
+}}
+
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Giant Sea Snake|2=Giant Sea Snake}}

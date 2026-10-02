@@ -1,0 +1,9 @@
+{{装备
+|name=怀表
+|english_name=Pocket watch
+|cat=冒险装备
+|price=250 gp
+|weight=1磅
+|description=这种微型钟表小到可以随身携带。
+|source=冒险者的军械库
+}}

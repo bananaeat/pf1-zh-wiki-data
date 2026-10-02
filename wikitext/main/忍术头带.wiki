@@ -1,0 +1,15 @@
+{{魔法物品
+|name=忍术头带
+|english_name=Headband of Ninjitsu
+|aon=MagicWondrousDisplay.aspx?FinalName=Headband of Ninjitsu
+|cat=奇物
+|aura=微弱防护系
+|cl=1
+|slot=头饰
+|price=15,000 gp
+|weight=1磅
+|description=这条朴素的黑布头带能聚焦穿戴者的气，帮助她在战斗中对对手使用微妙的误导。穿戴者在用于[[虚招]]的唬骗检定和用于移位的战技检定上获得+2表现加值，并且每天1次可以以迅捷动作尝试一次虚招或移位战技。穿戴者进行偷袭的攻击检定还获得+2洞察加值，并且可以偷袭具有[[隐蔽]]或[[全隐蔽]]的生物，不过失手率照常适用。
+|req=[[制造奇物]]、[[鹰之威仪]]、[[识破隐形]]
+|cost=7,500 gp
+|source=极限宝具
+}}

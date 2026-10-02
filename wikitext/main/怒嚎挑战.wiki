@@ -1,0 +1,11 @@
+{{Feat
+|name=怒嚎挑战
+|english_name=Call Out
+|categories=战斗
+|pfs=否
+|description=一个精心设计的“冒犯”会迫使对手与你决斗。
+|benefit=以一个[[标准动作]]，你可以对30尺内、一个能清楚的看到你并听到你的声音的敌方目标进行威吓检定。该检定的DC等于10 +你对手的生命骰+他的感知调整值。如果目标在察言观色上受训，DC也可以使用10 +对手的察言观色加值，二者取高。如果你在此检定中成功，目标将与你决斗（《极限战斗》150页）。对手无法在1轮内从决斗中退出，你的检定结果每高出DC 5点，则此轮数再增加1轮。
+|source=PotR
+|source_name=河域子民
+|source_url=https://pf1chm.pages.dev/topics/zh0cfe867645.htm
+}}

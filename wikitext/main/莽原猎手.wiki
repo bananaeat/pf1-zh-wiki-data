@@ -1,0 +1,9 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Sargava, the Lost Colony pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=莽原猎手
+|english_name=Savanna Hunter
+|type=战斗
+|description=你自出生起就被训练在开阔的平原上狩猎与战斗。你用短矛进行借机攻击时，攻击检定获得+1背景加值；此外，你为继续奔跑以及避免强行军造成的非致命伤害而进行的体质检定获得+1种族加值。
+|source_name=萨迦瓦，失落的殖民地
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Savanna%20Hunter
+}}

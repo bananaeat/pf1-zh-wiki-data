@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 63），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=半真半假
+|english_name=Convincing Liar
+|type=社会
+|pfs=否
+|prerequisites=铃花会
+|description=你一生都在磨练说半真半假之话的技艺，以达成你需要做的事。你在[[唬骗]]或[[威吓]]检定上获得+1背景加值，并且这两项技能中的一项（由你选择）成为你的本职技能。
+|source_name=组织指南
+|source=FM
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Convincing%20Liar
+}}

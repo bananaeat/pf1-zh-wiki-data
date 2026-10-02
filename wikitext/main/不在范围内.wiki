@@ -1,0 +1,12 @@
+{{Feat
+|name=不在范围内
+|english_name=Just Out of Reach
+|categories=战斗
+|pfs=否
+|description=攻击者离你越远，你越容易闪躲近战攻击。
+|prerequisites=敏捷13，[[闪避]]，[[灵活移动]]
+|benefit=当距离你5尺之外的目标因长触及近战攻击你时，你对抗该种攻击的AC获得+4闪避加值。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}

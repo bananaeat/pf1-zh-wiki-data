@@ -1,0 +1,13 @@
+{{危害
+|name=焦引熏烟
+|english_name=Burnt Other Fumes
+|kind=毒药
+|type=吸入
+|save=强韧 DC 18
+|frequency=1次/轮，持续6轮
+|initial=1点体质吸取
+|secondary=1d3点体质伤害
+|cure=连续2次豁免成功
+|price=2,100 gp
+|source=核心规则书
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=群体战术
+|english_name=Pack Tactics
+|description=你训练自己的[[动物伙伴]]，教会它们按你的指挥进行战斗
+|prerequisites=[[智力]] 13，动物伙伴职业能力
+|benefit=在判定你和你的盟友能否从[[团队专长]]中获得加值时，你的动物伙伴视为拥有你所拥有的所有团队专长，但除非它确实选取了这个团队专长，否则动物伙伴自身无法从中受益。你和所有盟友的站位与行动仍必须满足团队专长描述中的要求，才能获得该团队专长所列的加值。
+|source=ACO
+|source_name=进化职业起源
+|source_url=https://pf1chm.pages.dev/topics/page_500.html
+}}

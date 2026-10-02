@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（People of the Stars pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=变迁之民
+|english_name=Transitional
+|type=种族
+|pfs=否
+|prerequisites=特里亚克萨斯人
+|description=身为过渡期的[[特里亚克萨斯人]]，无论站在哪个世界上，你都能感应天气的变化。每天一次，当你尝试进行[[生存]]检定来预测天气时，你可以加上等于3+你角色等级一半的背景加值。此外，你对抗寒冷和炎热天气效果的强韧豁免获得+1背景加值。
+|source_name=繁星子民
+|source=PotS
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Transitional
+}}

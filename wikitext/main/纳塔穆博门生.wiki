@@ -1,0 +1,9 @@
+{{Trait
+|name=纳塔穆博门生
+|english_name=Student of Nantambu
+|type=种族
+|prerequisites=[[人类]]（芒吉人）
+|description=你曾花费了大量时光在[[玛伽姆比亚]]——纳塔穆博的著名魔法学院，吸收那里传授的古老知识。你在知识(奥秘)和[[法术辨识]]检定上获得+1背景加值，且可未受训进行这些检定。
+|source_name=格拉里昂的人类
+|source_url=https://pf1chm.pages.dev/topics/page_1581.html
+}}

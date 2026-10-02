@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=废品收集者束带
+|english_name=Scrap Collector's Strap
+|aon=MagicWondrousDisplay.aspx?FinalName=Scrap Collector's Strap
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=无
+|price=500 gp
+|description=把这条皮带绑在一件破损武器的握柄上时，使用者可以无视该武器破损状态的影响。如果武器失去剩余的生命值，它仍照常被摧毁。绑上或解下皮带是一个整轮动作。
+|req=[[制造奇物]]、[[修复术]]
+|cost=250 gp
+|source=冒险者的军械库2
+}}

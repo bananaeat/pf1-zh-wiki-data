@@ -1,0 +1,10 @@
+{{Feat
+|name=额外心智点
+|english_name=Extra Mental Focus
+|description=你的[[秘学士#心智点|心智点]]得到了提升。
+|prerequisites=[[秘学士#心智点|心智点]]职业能力
+|benefit=你获得2点额外的心智点。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=团队法术共享
+|english_name=Group Shared Spells
+|categories=团队
+|description=你和盟友可以向彼此的[[魔宠]]施放法术。
+|prerequisites=拥有法术共享（Share Spells）能力的魔宠。
+|benefit=你和任何具有该专长的盟友均能够将目标为“自己（you）”的法术作为接触法术施放至彼此的魔宠身上。目标魔宠和魔宠的主人都必须自愿接受法术才会得到效果。即便是某些通常无法影响目标魔宠的生物类型的法术，你也能够对彼此的魔宠施放。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

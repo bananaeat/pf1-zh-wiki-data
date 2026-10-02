@@ -1,0 +1,9 @@
+{{Trait
+|name=奥术学者
+|english_name=Arcane Scholar
+|type=信念
+|description=你对"至高奥术师"章节的研习拓展了你的魔法知识。选择知识(奥秘)或[[法术辨识]]之一，你在该技能上获得+1背景加值，且该技能为你的[[本职技能]]。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh484c89782e.htm
+}}

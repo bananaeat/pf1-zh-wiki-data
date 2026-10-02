@@ -1,0 +1,17 @@
+{{武器
+|name=重型链枷
+|english_name=Heavy flail
+|category=武器
+|prof=军用
+|wcat=双手
+|price=15 gp
+|weight=10磅
+|dmg_s=1d8
+|dmg_m=1d10
+|crit=19–20/×2
+|type=钝击
+|special=卸武，摔绊
+|groups=链索
+|description=类似[[轻型链枷]]，重型链枷有着更大的金属球和更长的握柄。
+|source=核心规则书、极限宝具
+}}

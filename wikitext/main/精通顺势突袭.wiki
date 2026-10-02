@@ -1,0 +1,11 @@
+{{Feat
+|name=精通顺势突袭
+|english_name=Improved Surprise Follow-Through
+|categories=战斗
+|description=你在一次攻击后突然展开一系列雨点般的打击。
+|prerequisites=力量13，[[顺势斩]]，[[大顺势斩]]，[[猛力攻击]]，[[顺势突袭]]，基本攻击加值+8。
+|benefit=当使用[[大顺势斩]]时，每个你在你的行动轮中攻击的敌人（除了第一个）都失去对你的敏捷加值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

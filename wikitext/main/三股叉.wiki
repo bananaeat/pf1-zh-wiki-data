@@ -1,0 +1,17 @@
+{{武器
+|name=三股叉
+|english_name=Tiger fork
+|category=武器
+|prof=军用
+|wcat=双手
+|price=5 gp
+|weight=8磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×2
+|type=穿刺
+|special=迎击，武僧
+|groups=武僧，长柄，矛
+|description=这种细长、形似[[三叉戟]]的武器，是在8尺长的杆柄上装了一个三齿金属叉头。它的用法很像长棍：持用者握住杆柄中部，用分叉的一端向前戳刺。三股叉可以架起来迎击冲锋。
+|source=极限战斗、极限宝具
+}}

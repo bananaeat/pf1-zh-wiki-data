@@ -1,0 +1,14 @@
+{{Feat
+|name=法术增远
+|english_name=Enlarge Spell
+|categories=超魔
+|description=你可将法术施展得更远。
+|benefit=本专长可将近距、中距与远距法术的距离加倍。搭配本专长的近距法术距离为“50尺+5尺/每等级”、中距法术距离为“200尺+20尺/每等级”，而远距法术距离为“800尺+80尺/每等级”。增远的法术须占用高于原本1个环位的法术位。本专长对于与距离无关，或不属于近距、中距、远距的法术没有效果。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''制造需求'''：[[探索望远镜〔人类〕]]（1 件物品）

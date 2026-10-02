@@ -1,0 +1,10 @@
+<noinclude>{{游侠导航}}
+{{Source|极限魔法|Ultimate Magic}}
+
+'''燃烧陷阱'''（Burning Trap*，Ex 或 Su）是一种[[游侠陷阱]]。
+
+</noinclude>'''燃烧陷阱*'''（Ex 或 Su）：只能加在[[游侠陷阱#火焰陷阱|火焰陷阱]]上。如果触发陷阱的生物反射豁免失败，它会着火，在1d4轮内每轮于自己的回合开始时受到1d6点火焰伤害。着火的生物可以用一个整轮动作重新进行豁免；在地上打滚可使这次豁免获得+4加值。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_58.html 原文]），按 AoN 校过。全部游侠陷阱见 [[游侠陷阱]]。
+
+[[分类:游侠陷阱]]</noinclude>

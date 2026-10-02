@@ -1,0 +1,15 @@
+{{魔法物品
+|name=巨魔骨饰
+|english_name=Trollbone
+|aon=MagicWondrousDisplay.aspx?FinalName=Trollbone
+|cat=奇物
+|aura=中等咒法系
+|cl=7
+|slot=无
+|price=2,400 gp
+|weight=1磅
+|description=这根烧焦的肋骨取自一头被杀死的巨魔，骨面上雕满符文。把这根骨头向最远20尺外抛出，它就能长成一头全尺寸的[[巨魔]]（《怪物图鉴》第268页），并听从使用者的命令。这头巨魔通常存在2d4轮，但如果使用者在启动物品时正在维持[[吟游表演]]，持续时间就延长到表演结束。当巨魔被杀死或持续时间结束时，它会变回骨头，随后碎成尘埃。
+|req=[[制造奇物]]、[[召唤怪物 IV]]
+|cost=1,200 gp
+|source=进阶职业指南
+}}

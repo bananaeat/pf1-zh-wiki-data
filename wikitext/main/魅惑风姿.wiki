@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Night pg. 20），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=魅惑风姿
+|english_name=Sensual Graces
+|type=种族
+|prerequisites=[[吸血裔]]（茉莉裔）
+|description=你超凡脱俗的美貌令追求你的人为之倾倒。你对会被你吸引的类人生物进行的[[唬骗]]检定获得+2背景加值。
+|source_name=夜之血脉
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Sensual%20Graces
+}}

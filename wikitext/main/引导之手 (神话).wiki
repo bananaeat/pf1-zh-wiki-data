@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[引导之手(专长)]] 的神话版本。</small></div>
+{{Feat
+|name=引导之手
+|english_name=Guided Hand
+|categories=神话
+|description=当神祇的偏好武器在手中时，你就像受到了神的引导一般。
+|prerequisites=[[引导之手(专长)]]
+|benefit=当你使用你所信仰的神祇的偏好武器进行攻击时，你能够将你的感知调整值修正伤害检定，以此取代力量或敏捷调整值对伤害检定的修正。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

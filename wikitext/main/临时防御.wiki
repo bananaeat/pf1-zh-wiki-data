@@ -1,0 +1,10 @@
+{{Feat
+|name=临时防御
+|english_name=Improvised Defenses
+|categories=战斗
+|description=你可以灵活地使用临时武器进行防御
+|prerequisites=随手武器或随手投掷，BAB+1
+|benefit=你在持用临时武器，另一只手空闲的情况下AC获得+1盾牌加值。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/page_1343.html
+}}

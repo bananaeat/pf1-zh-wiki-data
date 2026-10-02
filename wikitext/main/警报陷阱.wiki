@@ -1,0 +1,10 @@
+<noinclude>{{游侠导航}}
+{{Source|极限魔法|Ultimate Magic}}
+
+'''警报陷阱'''（Alarm Trap*，Ex 或 Su）是一种[[游侠陷阱]]。
+
+</noinclude>'''警报陷阱*'''（Ex 或 Su）：陷阱被触发时，还会发出片刻的巨响，相当于[[魔法警报]]法术的鸣响警报。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_58.html 原文]），按 AoN 校过。全部游侠陷阱见 [[游侠陷阱]]。
+
+[[分类:游侠陷阱]]</noinclude>

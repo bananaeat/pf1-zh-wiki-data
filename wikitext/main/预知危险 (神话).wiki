@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[预知危险]] 的神话版本。</small></div>
+{{Spell
+|name=预知危险
+|english_name=Anticipate Peril
+|school=预言系
+|levels=催眠师 1;吟游诗人 1;唤魂师 1;奥能师 1;异能者 1;术士 1;歌者 1;法师 1;游侠 1;炼金术师 1;猎人 1;秘学士 1;调查员 1;通灵者 1
+|description=将你的阶层加到法术的先攻加值以及法术能够赋予的最高先攻加值上。
+|source=神话冒险
+}}
+[[分类:神话法术]]

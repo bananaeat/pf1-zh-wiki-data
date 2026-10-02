@@ -1,0 +1,18 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=人神的圣面具
+|english_name=Holy Mask of the Living God
+|aon=MagicWondrousDisplay.aspx?FinalName=Holy Mask of the Living God
+|cat=奇物
+|aura=中等幻术系（构影）
+|cl=1
+|slot=面具
+|price=2,100 gp
+|weight=1磅
+|description=这副铁面具仿照人神拉兹米尔那刚毅克制的面容；其前额上有一块菱形的象牙饰物，据说取自人神自己的面具。
+
+如果拉兹米尔是你的庇护神，你在[[医疗]]和[[威吓]]检定上获得+2表现加值。你每日可以使用一次[[惊恐术]]和[[治疗轻伤]]。
+|req=[[制造奇物]]、[[惊恐术]]、[[幽影咒法术]]，制造者必须在[[医疗]]和[[威吓]]上各有至少5级技能等级
+|cost=1,050 gp，84 XP
+|source=神与魔法
+}}

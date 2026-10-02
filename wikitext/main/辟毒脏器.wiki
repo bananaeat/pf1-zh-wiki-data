@@ -1,0 +1,10 @@
+{{Trait
+|name=辟毒脏器
+|english_name=Neutralizing Gut
+|type=种族
+|prerequisites=[[魔裔]]
+|description=你的魔性之血使你更好地应对许多废土毒物的威胁。你在对抗接触以及吸入毒素的豁免检定上获得+2背景加值，并在对抗摄入毒素的豁免检定上获得+3背景加值。
+|source=PoW
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1271.html
+}}

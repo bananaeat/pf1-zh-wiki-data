@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Andoran, Spirit of Liberty pg. 18），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=贝里斯踏木人
+|english_name=Bellis Log Roller
+|type=地区
+|prerequisites=贝里斯（安多安）
+|description=你曾在顺着塞伦河翻滚而下的湿滑圆木间来回跳跃，这段经历教会了你如何站稳脚跟。你的[[特技]]检定获得+1背景加值，并且在抵抗摔绊攻击时，你的CMB获得+1背景加值。（译注：AoN 原文作「CMB」，疑为笔误，应为 CMD。）
+|source_name=安多安，自由之魂
+|source=ASoL
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Bellis%20Log%20Roller
+}}

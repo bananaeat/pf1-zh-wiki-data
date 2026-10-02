@@ -1,0 +1,10 @@
+{{Feat
+|name=荒野自如
+|english_name=Nature's Freedom
+|description=受到你[[引导能量]]影响的生物不会受到[[困难地形]]的影响。
+|prerequisites=动物或植物领域，引导能量职业能力。
+|benefit=当你引导能量时，你可以额外花费一次引导能量次数，可令受到影响的生物可以如同德鲁伊的[[德鲁伊#穿林步|穿林步]]职业能力般，不受阻碍地在灌木丛中穿行。上述效果持续的分钟数等同于「你的魅力调整值」（至少1分钟）。重复使用本专长可以延长穿林步效果的持续时间。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

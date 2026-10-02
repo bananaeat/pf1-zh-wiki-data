@@ -1,0 +1,34 @@
+<includeonly>{{#invoke:版权抬头|main}}<div class="spell">
+<div class="spell-head">
+<div class="spell-name">{{{name|{{PAGENAME}}}}}</div>
+<div class="spell-en">{{{english_name|}}}</div>
+</div>
+<div class="spell-stats">{{#if:{{{requirement|}}}|{{PropertyLine|特殊要求|{{{requirement}}}}}}}</div>
+<div class="spell-desc">
+{{{description|}}}
+</div>{{#if:{{{source|}}}|<div class="spell-source">{{PropertyLine|来源|{{{source}}}}}</div>}}
+</div>{{条目页脚|速查=魔宠变体|分类=魔宠变体}}[[分类:魔宠变体]]</includeonly><noinclude>
+==说明==
+本模板用于'''魔宠变体'''（familiar archetype）条目。
+
+魔宠变体调整的是[[魔宠]]的能力，不是职业的能力——它和[[变体职业]]是平行的两套东西，
+所以没有并进 `分类:变体职业`，也没有用职业变体那一套页面写法。
+
+参数：name / english_name / requirement（特殊要求）/ description / source
+
+不适用的参数留空即可，模板会自动隐藏对应行。样式复用法术卡片那一套（<code>.spell</code> 系列）。
+
+===用法===
+<pre>
+{{魔宠变体
+|name=大使
+|english_name=Ambassador
+|requirement=大使魔宠必要得至少能使用一种语言交谈……
+|description=大使代表其主人发言……
+
+'''说服者（Persuasive，Ex）'''：大使获得“说服者”作为奖励专长。这取代了警觉。
+|source=极限荒野
+}}
+</pre>
+[[分类:模板]][[分类:规则模板]]
+</noinclude>

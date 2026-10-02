@@ -1,0 +1,9 @@
+{{装备
+|name=折叠桌
+|english_name=Folding table
+|cat=冒险装备
+|price=10 gp
+|weight=20磅
+|description=这张木桌的桌腿带有关节，桌面正中有一道铰链。完全展开时是一张 2 尺×4 尺的桌子，折叠后缩成 2 尺×2 尺×2 寸。展开桌子是一个整轮动作；折叠则需要两个整轮动作。
+|source=极限宝具
+}}

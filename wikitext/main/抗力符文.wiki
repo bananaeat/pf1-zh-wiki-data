@@ -1,0 +1,14 @@
+{{魔法物品
+|name=抗力符文
+|english_name=Rune of Resistance
+|aon=MagicThassilonianRunes.aspx#Rune of Resistance
+|cat=瑟西隆语符文
+|aura=微弱防护系
+|cl=5
+|slot=符文
+|price=45,000 gp
+|description=该符文赋予持有者对两种能量类型的10点抗力，这两种能量类型在符文铭刻时选定。
+|req=[[铭刻符文]]、[[抵抗能量伤害]]
+|cost=22,500 gp，1,800 XP
+|source=冒险之路5：救世者的原罪
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=随心打
+|english_name=Easy Way or the Hard Way
+|type=战斗
+|description=你精于削弱对手。当你试图使用造成致命伤害的武器对宿敌造成[[非致命伤害]]时，攻击检定仅受-2减值而非-4。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

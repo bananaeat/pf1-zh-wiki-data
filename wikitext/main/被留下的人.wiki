@@ -1,0 +1,9 @@
+{{Trait
+|name=被留下的人
+|english_name=Left Behind
+|type=地区
+|prerequisites=[[精灵]]；芒吉莽原或瓦瑞西亚
+|description=你的先辈在黑暗时代选择留在格拉里昂的芒吉莽原，你就出生在他们当中，所以你比大部分[[精灵]]都更加了解这个世界的人。你在与在[[人类]]社会里出生成长的精灵和非精灵族裔交涉和收集情报时获得+1背景加值。
+|source_name=格拉里昂的精灵
+|source_url=https://pf1chm.pages.dev/topics/zhd63cf5e76e.htm
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=扰法唤回
+|english_name=Disruptive Recall
+|description=你打断敌方施法者的法术，将四散的魔法能量收归己用。
+|prerequisites=【法术唤回】职业特性，法术辨识5级。
+|benefit=当你使用一次近战攻击成功的打断了一名奥术施法者的法术，你可以立刻使用你的【法术唤回】能力重置一个你已经施放过的魔战士法术。这次【法术唤回】能力如同你使用了相当于被打断的法术等级的奥能点数，最大为你能施放的最高级法术。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

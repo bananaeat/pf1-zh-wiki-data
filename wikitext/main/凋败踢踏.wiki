@@ -1,0 +1,15 @@
+{{魔法物品
+|name=凋败踢踏
+|english_name=Blight Kickers
+|aon=MagicWondrousDisplay.aspx?FinalName=Blight Kickers
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=脚部
+|price=13,500 gp
+|weight=1磅
+|description=这双皮革战靴系着棕色或黑色的鞋带，靴筒顶端附近有几排小袋。这双魔法靴子可以在附带的小袋中藏起至多5剂毒药。靴子中每藏有一剂毒药，就为[[巧手]]和[[隐匿]]检定提供累积+1表现加值，最高+5。每天一次，从凋败踢踏中取出一剂毒药时，穿戴者可以说出命令字来强化这一剂毒药，使毒素加速发作，效果立即开始生效。
+|req=[[制造奇物]]、[[加速毒发]]、[[猫之优雅]]
+|cost=6,750 gp
+|source=药剂与毒药
+}}

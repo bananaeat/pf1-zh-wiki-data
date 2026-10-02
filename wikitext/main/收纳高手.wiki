@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 194），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=收纳高手
+|english_name=Efficient Packer
+|type=种族
+|prerequisites=侏儒
+|description=你曾欣喜地发现一件足以成为你收藏中镇藏之宝的物品，却因它太重而无奈作罢。从那以后，你便训练自己以最有效率的方式收纳物品。计算负载能力时，你的力量值视为高2点。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Efficient%20Packer
+}}

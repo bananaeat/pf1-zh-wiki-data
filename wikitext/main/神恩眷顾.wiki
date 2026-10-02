@@ -1,0 +1,14 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Wrath of the Righteous Player's Guide pg. 7, Demon Hunter's Handbook pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=神恩眷顾
+|english_name=Touched by Divinity
+|type=战役
+|pfs=否
+|description=从你记事起，你就对某一位神祇怀有一种无法解释的特别兴趣。你的父母之一也许是这位神祇的祭司，或者你可能是被教会抚养长大的孤儿，但仅凭这些无法解释你与这一信仰之间的深厚联系。你在这位神祇的圣地中总会感到平静安适，并常常梦见这位神祇来探望你——最常见的是以某种圣兽或神圣生物的形象出现。你的信仰坚定，即使你恰好不是神术施法者——如果你是神术施法者，你应当是这位神祇的信徒。你在游戏开始时免费获得一个你所选神祇的银质圣徽。此外，选择一个与你所选神祇相关联的领域。你获得该领域的1级领域法术作为类法术能力，每天可使用一次（施法者等级等同于你的角色等级）。
+
+关联神话道途：圣者。
+
+多名角色：如果其他角色也选择这项背景特性，你们应当共同商定你们所关联的神祇——它应当是你们所有人共同的那位神祇。你们甚至可能做着同样的梦。
+|source_name=Wrath of the Righteous Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Touched%20by%20Divinity
+}}

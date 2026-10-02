@@ -1,0 +1,11 @@
+{{Feat
+|name=诅咒重击
+|english_name=Accursed Critical
+|categories=重击
+|description=你将诅咒嵌入了你的法术，并且在攻击时引发。
+|prerequisites=[[重击专攻]]，可以使用‘降咒’或者‘高等降咒’，施法者等级9级。
+|benefit=当你使用法术或者类法术能力并且确认重击后，你可以以一个[[直觉动作]]对目标施展[[降咒]]或者[[高等降咒]]。远程法术也可造成这个效果。你必须准备了‘降咒’或者‘高等降咒’或者其他的能力使你足以施展法术，使用这个能力会消耗相应的法术位。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

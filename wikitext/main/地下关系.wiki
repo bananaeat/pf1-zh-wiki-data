@@ -1,0 +1,9 @@
+{{Feat
+|name=地下关系
+|english_name=Underworld Connections
+|pfs=否
+|description=你认识不少与地下世界打交道的人与事，不论是与犯罪集团有关，还是认识真正住在地底下的朋友。
+|benefit=你在地下或城市地形中进行的所有知识（地城）检定与生存检定获得+2加值。此外，当你身处聚落内并进行某些受该聚落腐败，犯罪或经济修正的检定时（见 GameMastery Guide第205页），你可以利用自己的[[人脉]]关系使该次检定获得+4加值。但若该检定失败，任何目击者都会看到你违反了本地法律。
+|source_name=街巷英雄
+|source_url=https://pf1chm.pages.dev/topics/zh9058779a2c.htm
+}}

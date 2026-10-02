@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=毁灭与创造面具〔内希斯〕
+|english_name=Mask of Destruction and Creation (Nethys)
+|aon=MagicWondrousDisplay.aspx?FinalName=Mask of Destruction and Creation (Nethys)
+|cat=奇物
+|aura=微弱塑能系、幻术系
+|cl=5
+|slot=头部
+|price=5,000 gp
+|description=这副可翻转的丝质面具，一面是纯白色，另一面是黑底上翻腾着斑斓色彩。白面朝外戴上时，穿戴者每天可以使用一次[[侦测魔法]]；黑面朝外戴上时，穿戴者每天可以使用一次[[阅读魔法]]。如果[[内希斯]]是你的主神，你可以用面具的黑面，每天一次以3级施法者的身份施放[[魔法飞弹]]；同样，你可以用面具的白面，每天一次施放[[易容术]]。
+|req=[[制造奇物]]、[[侦测魔法]]、[[易容术]]、[[魔法飞弹]]、[[阅读魔法]]
+|cost=2,500 gp
+|source=均衡信念
+}}

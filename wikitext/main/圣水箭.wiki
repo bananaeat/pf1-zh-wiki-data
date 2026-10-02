@@ -1,0 +1,12 @@
+{{装备
+|name=圣水箭
+|english_name=Arrow (raining)
+|cat=炼金武器
+|price=30 gp
+|weight=—
+|craft_dc=25
+|type=P
+|special=溅射, 见正文
+|description=这支粗杆箭里有一个盛着圣水的储液腔，设计成命中时爆裂。圣水箭照常对目标造成伤害，同时视为目标被一瓶投出的[[圣水]]直接命中；邻接的生物受到该效果的溅射伤害。圣水箭因为自身的重量，使攻击检定承受–2减值。圣水箭售价30 gp，需要成功通过一次DC 25的工艺（炼金术）检定来制作。
+|source=格拉利昂的精灵、炼金术手册、Daughters of Fury
+}}

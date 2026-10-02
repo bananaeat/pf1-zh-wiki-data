@@ -1,0 +1,20 @@
+{{魔法物品
+|name=淡紫混绿艾恩石
+|english_name=Lavender and Green Ellipsoid Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun Stone Lavender and Green Ellipsoid
+|cat=艾恩石
+|aura=强烈（学派不定）
+|cl=12
+|slot=无
+|price=40,000 gp
+|description='''形状'''：椭圆
+
+'''效果'''：吸收8环或更低的法术。吸收总计50环的法术后，这块石头会烧尽并变成暗灰色，永远失效。
+
+'''共振'''（放入[[寻路仪]]时）：如果使用者手持寻路仪，他可以用直觉动作使用这块石头的吸收能力，而不是用准备动作。
+
+艾恩石的通用规则（启动、环绕飞行、抓取，以及AC、硬度）见[[艾恩石]]。
+|req=[[制造奇物]]，制造者必须已经12级
+|cost=20,000 gp
+|source=核心规则书、极限宝具、冒险者指南
+}}

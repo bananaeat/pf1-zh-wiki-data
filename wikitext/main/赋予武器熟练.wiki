@@ -1,0 +1,16 @@
+{{Spell
+|name=赋予武器熟练
+|english_name=Bestow weapon proficiency
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=先知 2;反圣武士 2;圣武士 2;奥能师 2;女巫 2;审判者 2;异能者 2;战斗祭司 2;术士 2;法师 2;炼金术师 2;牧师 2;秘学士 2;调查员 2;通灵者 2;魔战士 2
+|action=标准动作
+|components=语言;姿势;材料（数片削下的金属屑）
+|range=近距
+|target=一名生物
+|duration=1分钟/等级
+|save=意志，通过则无效（无害）
+|sr=是
+|description=你让目标可以使用一种他并不熟悉的武器，就像他熟悉于此一样。武器可以是任意类型，包括异种武器，但法术的目标必须持有该武器。
+|source=极限战斗
+}}

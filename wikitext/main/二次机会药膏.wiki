@@ -1,0 +1,14 @@
+{{魔法物品
+|name=二次机会药膏
+|english_name=Salve of the Second Chance
+|aon=MagicWondrousDisplay.aspx?FinalName=Salve of the Second Chance
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=无
+|price=1,600 gp
+|description=在恩贝斯森林的精魄指导下，夜苔圣母从夜苔的蒸馏中开发出此强大的药膏。当涂抹在近日去世的生物的身体或身体部位上，此药膏模拟出如同[[转生术]]的效果。若在新月之夜对生物使用此药膏，则在转生表格上掷两次，由接受者（玩家或NPC）选择想要的结果。
+|req=[[制造奇物]]、[[转生术]]
+|cost=800 gp
+|source=河域诸国指南
+}}

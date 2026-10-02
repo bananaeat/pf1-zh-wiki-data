@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Streets pg. 5），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=勤勉
+|english_name=Diligence
+|type=地区
+|prerequisites=任意城市
+|description=你从小帮着打理家族生意，或曾受某位工艺或专业方面的行家指点，从而学会了勤勉。选择一项具体的[[工艺]]或[[专业]]技能。你在该技能上取20所需的时间减半。
+|source_name=市井英雄
+|source=HotS
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Diligence
+}}

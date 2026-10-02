@@ -1,0 +1,15 @@
+{{魔法物品
+|name=雷鸣力量权杖
+|english_name=Rod of Thunderous Force
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Thunderous Force
+|cat=权杖
+|aura=中等塑能系
+|cl=9
+|slot=无
+|price=5,400 gp
+|weight=5磅
+|description=这根桃花心木[[魔法物品#权杖|权杖]]上蚀刻着翻卷风暴云的图案。每天1次，持用者可以用命令字把权杖猛砸在地面上，释放出一道由音波和力场能量构成的震荡波。这会以持用者为中心制造一个半径20尺的爆发。爆发本身不造成伤害，但范围内的生物必须通过DC 19的强韧豁免，否则会倒地变为[[俯卧]]并[[耳聋]]1d4轮。持用者不受这次冲击影响。这个效果同时是力场效果和音波效果。
+|req=[[制造权杖]]、[[目盲/耳聋术]]、[[力墙术]]
+|cost=2,700 gp
+|source=极限宝具
+}}

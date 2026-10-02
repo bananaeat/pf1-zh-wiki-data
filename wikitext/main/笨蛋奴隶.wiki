@@ -1,0 +1,10 @@
+{{Trait
+|name=笨蛋奴隶
+|english_name=Clumsy Slave
+|type=地区
+|prerequisites=[[半身人]]；切利亚斯、卡塔佩什
+|description=作为一名前奴隶，你知道必须将怨恨隐藏，在你的主人面前装出一副笨拙的样子。当你第一次以造成非致命伤害的攻击攻击某人时，你的目标必须做察言观色检定，对抗你的[[唬骗]]检定减去所造成的伤害，若他失败他就不会意识到你想伤害他，而是认为这是一场你参与的意外(虽然他仍可能决定惩罚你)。
+|source_name=地区背景
+|source=HoG
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

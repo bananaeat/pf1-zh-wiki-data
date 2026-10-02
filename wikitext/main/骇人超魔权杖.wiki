@@ -1,0 +1,15 @@
+{{魔法物品
+|name=骇人超魔权杖
+|english_name=Rod of Metamagic, Fearsome
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Metamagic, Fearsomelesser
+|cat=权杖
+|aura=强烈（无学派）
+|cl=17
+|slot=无
+|price=9,000 gp（次等）；32,500 gp（普通）；73,000 gp（高等）
+|weight=1磅
+|description=持用者每天至多可以施放3个使敌人[[战栗]]的法术，如同使用[[骇人法术]]专长一样。
+|req=[[制造权杖]]、[[骇人法术]]
+|cost=4,500 gp（次等）；16,250 gp（普通）；36,500 gp（高等）
+|source=异能冒险
+}}

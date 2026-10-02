@@ -1,0 +1,15 @@
+{{魔法物品
+|name=震光石
+|english_name=Stunstone
+|aon=MagicWondrousDisplay.aspx?FinalName=Stunstone
+|cat=奇物
+|aura=微弱塑能系
+|cl=5
+|slot=无
+|price=350 gp
+|weight=1磅
+|description=这种天然形成的发光紫色结晶可以被当作射程增量为20尺的投掷武器投掷。当它击中目标或硬质表面（或受到剧烈的冲击）时，结晶就会破碎，并爆发出一阵声音和光芒。10尺半径扩散范围内的每个生物都会被[[妖火]]勾出身形，同时受到1d8点声波伤害，并且必须通过DC 13的强韧豁免，否则就会被[[震慑]]1轮。
+|req=[[制造奇物]]、[[工艺]]（炼金术）5级、[[妖火]]、[[音鸣爆]]
+|cost=175 gp
+|source=冒险之路39：七矛之城
+}}

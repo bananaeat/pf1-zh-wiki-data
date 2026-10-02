@@ -1,0 +1,9 @@
+{{Trait
+|name=深红甲壳
+|english_name=Crimson Carapace
+|type=战斗
+|description=尽管[[红螳螂杀手]]只穿轻质盔甲以不限制自己的行动，他们仍模仿神的甲壳把它染成鲜红色。
+|benefit=盔甲与敏捷的结合能保护你免受致命的攻击。当你穿着轻型装甲进行防御战斗或使用[[寓守于攻]]专长时，你在应对重击确认的AC上获得+2背景加值。
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/zh86d18c6ceb.htm
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=外质滋补戒指
+|english_name=Ring of Ectoplasmic Invigoration
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Ectoplasmic Invigoration
+|cat=戒指
+|aura=中等咒法系
+|cl=6
+|slot=戒指
+|price=12,000 gp
+|description=佩戴外质滋补戒指的召唤师可以用主宰呼唤职业能力吸收他的[[幻灵]]（吸收时会遣返它），而不是把幻灵召到身边。他每有1点幻灵的生命骰就获得2点临时生命值，并获得[[次等复原术]]的效果。幻灵仍须处在他的主宰呼唤能力的范围内。所获得的临时生命值在1小时后或幻灵再次被召唤时消退。拥有位置转换能力的穿戴者，可以改为把自己传送到幻灵所在的格子（仍会吸收并遣返它），而不是把幻灵召唤到自己身边。
+|req=[[锻造戒指]]、制造者必须能够召唤幻灵并拥有主宰呼唤职业能力
+|cost=6,000 gp
+|source=极限宝具
+}}

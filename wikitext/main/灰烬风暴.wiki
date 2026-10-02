@@ -1,0 +1,16 @@
+{{Spell
+|name=灰烬风暴
+|english_name=Ash storm
+|school=咒法系 (创造)
+|tags=火
+|levels=奥能师 3;女巫 3;德鲁伊 3;术士 3;法师 3;猎人 3
+|action=标准动作
+|components=语言;姿势;材料/圣徽（一撮灰烬）
+|range=远距
+|area=圆柱 （40尺半径，20尺高）
+|duration=1轮/等级
+|save=无
+|sr=否
+|description=法术效果范围内，飞舞的灰烬遮断所有视野 （包括黑暗视觉）。另外，落地的煤渣将会让效果范围内变成[[困难地形]]。
+|source=极限魔法
+}}

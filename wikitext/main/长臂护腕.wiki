@@ -1,0 +1,15 @@
+{{魔法物品
+|name=长臂护腕
+|english_name=Longarm Bracers
+|aon=MagicWondrousDisplay.aspx?FinalName=Longarm Bracers
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=腕部
+|price=7,200 gp
+|weight=1磅
+|description=这对护腕用编织的竹条制成。每天三次，穿戴者可以用一个[[迅捷动作]]把双臂伸展到极限，使她的触及距离增加5尺，持续到她下一回合开始。在此期间，她的武器攻击检定承受-4罚值，而使用手臂的[[徒手攻击]]和[[天生武器]]攻击不承受罚值。
+|req=[[制造奇物]]、[[变身术]]
+|cost=3,600 gp
+|source=极限宝具
+}}

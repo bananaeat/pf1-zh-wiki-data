@@ -1,0 +1,14 @@
+{{Feat
+|name=野性战斗训练
+|english_name=Feral Combat Training
+|categories=战斗
+|description=你曾蒙异人传授，习得了如何使用你的种族或职业特性赋予你的天生武器施展招式的艺术。
+|prerequisites=[[精通徒手打击]]，[[武器专攻]]（天生武器）。
+|benefit=选择一种你的天生武器。当使用选择的天生武器时，你可以应用那些以[[精通徒手打击]]为前提的专长。
+|special=如果你是一个武僧，你可以用你选择应用此专长效果的天生武器施展【疾风[[武僧#疾风连击|连击]]】。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+{{FAQ|v5748eaic9ozd}}

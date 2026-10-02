@@ -1,0 +1,10 @@
+{{Trait
+|name=圣娼姬
+|english_name=Calistrian Courtesan
+|type=宗教
+|prerequisites=信仰[[卡莉斯翠]]
+|description=你作为圣妓在[[卡莉斯翠]]的神殿里工作，并知晓如何取悦和聆听他人(尤其是后者)。你的察言观色检定和用于收集信息的交涉检定获得+1背景加值，并且总能将二者之一(自行选择)视为你的[[本职技能]]。
+|source_name=宗教背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Strange Aeons Player's Guide pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=按部就班
+|english_name=Ritualistic
+|type=战役
+|pfs=否
+|description=你醒来时怀着一种使命感，并感到一阵魔力的刺痛。尽管想不起自己的过去令人不安，但你有种预感：只要你和同伴们把每件事都做得恰到好处——遵循正确的步骤和顺序——答案就会自行揭晓，你也将摆脱自己的处境。你觉得自己过去一向依赖周密的计划和久经考验的证据，但一种挥之不去的感觉也告诉你，就在不久之前，你还曾以远称不上友善的方式运用过这些技能。
+
+选择一个0环法术。你每天可以将该法术作为类法术能力施放一次，施法者等级等于你的角色等级。该类法术能力的豁免DC基于魅力。此外，你在进行神秘仪式时的所有技能检定获得+2背景加值。
+|source_name=Strange Aeons Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Ritualistic
+}}

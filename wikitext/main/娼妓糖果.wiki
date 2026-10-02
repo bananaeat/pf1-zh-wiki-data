@@ -1,0 +1,12 @@
+{{危害
+|name=娼妓糖果
+|english_name=Harlot Sweets
+|kind=毒品
+|type=摄入
+|addiction=中度，强韧 DC 18
+|effect=1小时；魅力+1d4，敏捷+1
+|damage=1d2点智力伤害
+|price=60 gp
+|description=这些琥珀色的含片能让使用者的敏捷略有提高，并增强身体的魅力与口才。娼妓经常滥用这种药物，娼妓糖果因此得名，近来它在贵族的某些圈子里也越来越受欢迎。
+|source=敌手指南
+}}

@@ -1,0 +1,18 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[慈悯终结 (神话)]]。</small></div>
+{{Feat
+|name=慈悯终结
+|english_name=Dastardly Finish
+|categories=战斗
+|description=你能够趁着敌人虚弱的时候进行[[致命一击]]。
+|prerequisites=偷袭+5d6。
+|benefit=你能够对[[畏缩]]或者[[震慑]]的目标进行致命一击。
+|normal=你只能对[[无助]]的目标进行致命一击。
+|stamina=如果花费10点耐力，你可以以一个全轮动作对攻击范围内的2个适合目标发动致命一击，但会引发两次借机攻击。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[无情杀戮]]（1 个条目）

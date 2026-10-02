@@ -1,0 +1,19 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[石化术 (神话)]]。</small></div>
+{{Spell
+|name=石化术
+|english_name=Flesh to Stone
+|school=变化系
+|domains=化石子域 6
+|levels=奥能师 6;女巫 6;术士 6;法师 6;萨满 6;魔战士 6
+|action=标准动作
+|components=语言;姿势;材料（石灰，水和泥土）
+|range=中距
+|target=一个生物
+|duration=立即
+|save=强韧，通过则无效
+|sr=是
+|description=受术者及其所有携带的装备都被转变为没有心智、完全静止的雕像。如果这座被法术制造的雕像被打坏或受损，受术者 (如果它转化回之前的状态) 也会受到类似的伤害或缺损。当用[[观命术]]这类法术察看时，该生物并不算死，但是也不算活。
+
+只有由血肉构成的生物才会被该法术影响。
+|source=核心规则书
+}}

@@ -1,0 +1,46 @@
+{{速查导航}}
+{{怪物
+|name=蓝环章鱼
+|english_name=Blue-Ringed Octopus
+|cr=1/2
+|xp=200
+|alignment=绝对中立
+|size=超小型
+|type=动物
+|subtypes=水栖
+|init=+5
+|senses=昏暗视觉；察觉 +1
+|ac=17，接触 17，措手不及 12（+5 敏捷，+2 体型）
+|hp=4（1d8）
+|fort=+2
+|ref=+7
+|will=+1
+|defensive=墨云
+|speed=20 尺，游泳 30 尺，喷射 60 尺
+|melee=啮咬 +7（1d2–1 外加毒素），触手 +5（攫抓）
+|space=2–1/2 尺
+|reach=0 尺
+|special_attacks=毒素
+|str=8
+|dex=21
+|con=10
+|int=2
+|wis=13
+|cha=3
+|bab=+0
+|cmb=+3（+7 擒抱）
+|cmd=12（无法被摔绊）
+|feats=[[多重攻击]] B;[[武器娴熟]]
+|skills=[[脱逃]] +15;[[隐匿]] +25;[[游泳]] +13
+|racial_mods=+10 脱逃，+8 隐匿
+|environment=温带或寒冷的水域
+|organization=单独
+|treasure=无
+|special_abilities={{怪物能力|墨云|Ex|当章鱼处于水中时，它能够以迅捷动作喷出 5 尺半径的球形墨汁，限每分钟 1 次。这些墨汁会提供全隐蔽，持续 1 分钟。}}
+{{怪物能力|喷射|Ex|章鱼能够以整轮动作向着一个直线方向喷射前进 60 尺。这不会引发借机攻击。}}
+{{怪物能力|毒素|Ex|啮咬—伤口；豁免 强韧 DC 10；频率 每轮 1 次，持续 6 轮；效果 1 点力量；痊愈 1 次豁免。}}
+|source=极限魔法
+|lore=
+蓝环章鱼是一种极其狡诈的水栖动物。它们离了水就无法生存。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Blue-Ringed Octopus|2=Blue-Ringed Octopus}}

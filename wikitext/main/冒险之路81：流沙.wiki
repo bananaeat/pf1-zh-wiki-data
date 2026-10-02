@@ -1,0 +1,48 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #81: Shifting Sands
+|authors=Richard Pett
+|pages=96
+}}
+
+{{书页/简介|head=|1=
+为了进一步了解远古法老哈科泰普一世（Hakotep I）以及那个想要让他复活的神秘教团，英雄们前往特弗（Tephu）城，探索其大图书馆里的浩瀚档案。这绝非易事，因为有人希望这些知识永远被遗忘。凭借发现的线索，英雄们深入奥西里昂未经勘探的沙漠，寻找哈科泰普的金字塔总建筑师的陵墓。在那里，他们不仅要面对沙漠中的危险居民，还要对付遗忘法老教团——这些教徒不惜一切，只为确保他们的王神安然无扰。
+
+本册《冒险之路》延续「木乃伊的面具」冒险之路，内容包括：
+
+* 《流沙》，一部面向 7 级角色的开拓者 RPG 冒险，作者 Richard Pett。
+* 一份「芦苇人之城」特弗的地志，作者 Richard Pett。
+* 对木乃伊制作仪式的研究，作者 Russ Taylor。
+* 「探索者日志」中的远古秘密与致命绑匪，作者 Amber E. Scott。
+* 五种新怪物，作者 Benjamin Bruck、Adam Daigle、Thurston Hillman、Michael McCarthy 与 Patrick Renie。
+}}
+
+'''冒险之路81：流沙'''（''Pathfinder #81: Shifting Sands''）是[[冒险之路]]「木乃伊的面具」系列的一部冒险，由 Richard Pett 撰写，附加内容出自 Benjamin Bruck、Adam Daigle 等 6 位作者，小说出自 Amber E. Scott，于 2014 年 5 月 28 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+流沙 @ 6
+NPC 图集 @ 54
+木乃伊的面具宝藏 @ 58
+- 流沙瓶
+- 阿努比斯雕像
+- [[蝗虫护胸]]
+- 圣蛇权杖
+- 木乃伊防御圣甲虫
+- 日隼胸饰
+- [[蜂群弓]]
+特弗，芦苇人之城 @ 60
+木乃伊制作仪式 @ 68
+探索者日志：沙之影（3／6） @ 74
+怪物图鉴 @ 80
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Shifting Sands
+|releases=PDF¦PZO9081E¦2014-05¦；Softcover¦PZO9081¦2014-05¦978-1-60125-590-7
+}}
+
+[[分类:书目]]

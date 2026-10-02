@@ -1,0 +1,14 @@
+{{Spell
+|name=优雅步伐
+|english_name=Grace
+|school=防护系
+|levels=圣武士 1;先知 2;战斗祭司 2;牧师 2
+|action=迅捷动作
+|components=语言
+|range=个人
+|target=自己
+|duration=见下文
+|sr=否
+|description=直至你的回合结束之前，你的移动都不会引起藉机攻击。
+|source=进阶玩家指南
+}}

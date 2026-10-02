@@ -1,0 +1,15 @@
+{{魔法物品
+|name=枪手风衣
+|english_name=Gunman's Duster
+|aon=MagicWondrousDisplay.aspx?FinalName=Gunman's Duster
+|cat=奇物
+|aura=强烈防护系
+|cl=12
+|slot=躯体
+|price=36,000 gp
+|weight=5磅
+|description=这件宽松的长大衣给予穿戴者+4护甲加值，以及对抗火器攻击时接触AC的+2幸运加值。如果穿戴者是[[枪手]]，或拥有[[业余枪手]]专长，则她每天开始时额外拥有1点[[枪手#勇毅|勇毅]]点数。这一额外点数不会提高她的勇毅点数上限。穿戴者使用枪手闪避铳技时，该铳技给予的闪避AC加值额外增加+1。如果穿戴者不是枪手，她每天可以使用一次枪手闪避铳技。
+|req=[[制造奇物]]、[[业余枪手]]或制造者必须是枪手、[[防弹护盾]]
+|cost=18,000 gp
+|source=极限宝具
+}}

@@ -1,0 +1,7 @@
+==用法==
+<nowiki>{{reflist|columnCount}}</nowiki>或者<nowiki>{{reflist|columnWidth}}</nowiki><br />
+例如：<nowiki>{{reflist|2}}</nowiki>或者<nowiki>{{reflist|30em}}</nowiki><br />
+注意：前者已不再推荐使用。
+
+==参见==
+[http://en.wikipedia.org/wiki/Template:Reflist 维基百科]

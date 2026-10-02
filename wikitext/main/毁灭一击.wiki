@@ -1,0 +1,10 @@
+{{Trait
+|name=毁灭一击
+|english_name=Destructive Blows
+|type=宗教
+|prerequisites=信仰[[拉瓦古格]]
+|description=你的信仰之心很好地帮助了你的毁灭之举，你在用来[[破坏物品]]时所作之力量检定得到+2背景加值，并且在进行[[击破]]战技检定时同样如此。【摘自 Evana 的翻译】
+|source_name=内海诸神
+|source=摘自 Evana 的翻译
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

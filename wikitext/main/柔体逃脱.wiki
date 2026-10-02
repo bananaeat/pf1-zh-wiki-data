@@ -1,0 +1,9 @@
+{{Trait
+|name=柔体逃脱
+|english_name=The Flexing Arm
+|type=宗教
+|prerequisites=信仰[[库尔吉斯]]
+|description=你练习过如何利用肉体力量来逃脱枷锁。在为挣脱束缚而进行的脱逃检定中，你可以使用力量而不是敏捷作为关键属性。此外，你在这类脱逃检定上获得+1背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

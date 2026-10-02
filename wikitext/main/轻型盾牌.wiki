@@ -1,0 +1,20 @@
+{{武器
+|name=轻型盾牌
+|english_name=Light shield
+|category=武器
+|prof=军用
+|wcat=轻型
+|price=3 gp/9 gp
+|weight=特殊
+|dmg_s=1d2
+|dmg_m=1d3
+|crit=×2
+|type=钝击
+|groups=贴身，部落
+|description={{AI翻译|nocat=1|本段由 AI 照 AoN 英文原文译出，CHM 汉化里没有这段译文，未经人工校对。}}
+
+你可以用轻型盾牌进行盾击，而不是拿它来防御。
+|source=核心规则书、极限宝具
+}}
+
+{{FAQ|v5748eaic9oga|v5748eaic9r3w}}

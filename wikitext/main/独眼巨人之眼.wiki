@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=独眼巨人之眼
+|english_name=Eye of the Cyclops
+|aon=MagicWondrousDisplay.aspx?FinalName=Eye of the Cyclops
+|cat=奇物
+|aura=中等变化系
+|cl=8
+|slot=眼部
+|price=32,000 gp
+|description=这枚精美的单片眼镜，是地精英雄格里贝特在一场与某位聪明绝顶的独眼巨人的斗智中缴获的，能赋予+4智力增强加值。穿戴者还能理解透过单片眼镜所读的所有文字，如同[[通晓语言]]。他还在[[知识]]检定上获得+2洞察加值，并且即使未受训练也可以进行知识检定。
+|req=[[制造奇物]]、[[狐之狡黠]]、[[通晓语言]]
+|cost=16,000 gp
+|source=Pathfinder: Goblins #1
+}}

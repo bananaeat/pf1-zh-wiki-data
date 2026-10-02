@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Strange Aeons Player's Guide pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=敏感心灵
+|english_name=Sensitive Mind
+|type=战役
+|pfs=否
+|description=你在疯人院中醒来，敏锐得可怕地察觉到潜伏在近旁的种种危险。虽然你的记忆模糊不清，周遭的一切在你眼中却鲜明清晰。你隐约觉得自己一向观察入微，即使只是匆匆一面，也能看出一个人的许多底细。这种敏感有时会让你难以承受，在眼下的处境中尤其如此。
+
+你的[[估价]]、[[察觉]]和[[察言观色]]检定获得+1背景加值，并且其中一项（由你选择）成为你的本职技能。此外，每周一次，即使你不能施展异能法术，也没有[[异能敏感]]专长，你仍可以使用感灵神秘技能解放。
+|source_name=Strange Aeons Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Sensitive%20Mind
+}}

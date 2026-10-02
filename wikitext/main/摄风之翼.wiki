@@ -1,0 +1,11 @@
+{{Feat
+|name=摄风之翼
+|english_name=Buffeting Wings
+|categories=战斗
+|pfs=否
+|description=你可以用翅膀掀起一阵强风。
+|prerequisites=盘旋，强力之翼
+|benefit=以一个整轮动作，你可以挥舞你的翅膀，制造一阵强风，相当于法术 造风术，这是一个特异能力
+|source_name=内海怪物志
+|source_url=https://pf1chm.pages.dev/topics/zhb83e0d90c4.htm
+}}

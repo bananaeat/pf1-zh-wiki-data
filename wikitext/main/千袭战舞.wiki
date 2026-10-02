@@ -1,0 +1,15 @@
+{{Spell
+|name=千袭战舞
+|english_name=Dance of a thousand cuts
+|school=变化系
+|domains=决斗子域 8
+|levels=吟游诗人 6;歌者 6
+|action=标准动作
+|components=语言
+|range=个人
+|target=你
+|duration=1轮/等级
+|sr=否
+|description=该法术如同[[百袭战舞]]一般运作，不过你同时还获得[[加速术]]的好处。
+|source=极限魔法
+}}

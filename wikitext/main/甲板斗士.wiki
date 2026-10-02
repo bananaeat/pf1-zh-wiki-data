@@ -1,0 +1,9 @@
+{{Trait
+|name=甲板斗士
+|english_name=Deck Fighter
+|type=宗教
+|prerequisites=信仰[[贝丝玛拉]]
+|description=长期与颠簸和偏航做斗争的航海经验使你获益匪浅，这让你在船上进行[[借机攻击]]时攻击检定获得+1背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

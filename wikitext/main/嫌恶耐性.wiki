@@ -1,0 +1,10 @@
+{{Feat
+|name=嫌恶耐性
+|english_name=Aversion Tolerance
+|pfs=否
+|description=经过长时间被猎人追杀的生活，你发展出一套对付猎人常规手段的办法。
+|prerequisites=吸血鬼
+|benefit=你抵抗那些你的吸血鬼类型所嫌恶的物品，声音，材质（比如[[大蒜]]，圣徽，对moroi而言还有镜子）的豁免获得+2加值。当面对这些东西，你可以立即做一次豁免而不是1轮以后再做。
+|source_name=夜之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_823.html
+}}

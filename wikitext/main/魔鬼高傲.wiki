@@ -1,0 +1,10 @@
+{{Feat
+|name=魔鬼高傲
+|english_name=Devilish Pride
+|description=除了至高之阿斯莫迪斯，你绝不向任何东西低头
+|prerequisites=[[钢铁意志]]，信仰阿斯莫迪斯
+|benefit=每当你对非阿斯莫迪斯信徒施放的魅惑或胁迫法术进行意志豁免时，你可以投骰两次，并选择较好的那个结果。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

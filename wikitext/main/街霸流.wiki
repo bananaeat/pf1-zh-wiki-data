@@ -1,0 +1,12 @@
+{{Feat
+|name=街霸流
+|english_name=Street Style
+|categories=战斗;流派
+|description=你能利用城市的环境带来战斗优势，猛击敌人并把它弹向建筑。
+|prerequisites=力量 15，[[精通冲撞]]，[[精通徒手打击]]，[[猛力攻击]]，BAB +4或武僧等级3级
+|benefit=当你使用街霸流期间，每轮1次以[[迅捷动作]]，能够在[[徒手打击]]命中目标时，额外造成1d6点伤害，并对目标尝试1次[[冲撞]][[战技]]。
+|special=你只能在城市地形启动街霸流的架势，当你离开城市地形后，该架势会立即终止。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

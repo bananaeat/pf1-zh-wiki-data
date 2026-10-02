@@ -1,0 +1,10 @@
+{{Trait
+|name=查尔迪菈的教诲
+|english_name=Lessons of Chaldira
+|type=宗教
+|prerequisites=信仰[[查尔迪菈·祖拉斯瑞]]
+|description=你对查尔迪菈·祖拉斯瑞伟业的研究给了你避免麻烦的诀窍。每天一次，在豁免检定的结果公布之前，你能重投该次豁免。你必须接受第二个结果，即使结果更差。【摘自mikun的翻译】
+|source_name=内海诸神
+|source=摘自mikun的翻译
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

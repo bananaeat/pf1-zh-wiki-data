@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[水流冲击]] 的神话版本。</small></div>
+{{Spell
+|name=水流冲击
+|english_name=Hydraulic Push
+|school=塑能系
+|tags=水
+|levels=奥能师 1;德鲁伊 1;术士 1;法师 1;猎人 1;萨满 1;血脉狂怒者 1;魔战士 1
+|description=水流会变得滚烫或者冰冷，造成每两个施法者等级1d6点火焰伤害或者1d6点寒冷伤害。将你的阶层加到你的法术的CMB上。
+|source=神话冒险
+}}
+[[分类:神话法术]]

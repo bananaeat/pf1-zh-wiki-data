@@ -1,0 +1,10 @@
+<noinclude>{{杀手导航}}
+'''装甲掠夺者'''（Armored Marauder, Ex）是[[杀手]]的[[杀手天赋|杀手天赋]]。
+
+</noinclude>{{Source|传奇编年史|Chronicle of Legends|inline}} 有些精英杀手在跟踪猎物时把身上的[[皮甲]]与锁子甲换成了板甲。拥有此天赋的杀手[[擅长重甲]]。此外，每6个职业等级，杀手所穿着的任何重甲的护甲减值降低1点。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_118.html 原文]）。尝血者、支持队友译自[https://pf1chm.pages.dev/topics/page_581.html 斯科扎尼黑手一章]，永世仇敌、人生经验、直面恐怖、山坡伏击、神秘之纱、重唤技艺译自[https://pf1chm.pages.dev/topics/page_1338.html 传承武学一章]，集中毒药、偏转毒药译自[https://pf1chm.pages.dev/topics/page_1261.html 静谧毒杀者一章]，猫族盗贼天赋译自[https://pf1chm.pages.dev/topics/page_451.html 种族特性一章]；壁垒、额外残岩、坚固阵地、失衡技巧、阵营偷袭、切裂阵营、一人千面、通晓探知照站上同名盗贼天赋单页。均按 AoN 核对过。全部杀手天赋见 [[杀手天赋]]。
+
+[[分类:杀手天赋]]
+
+{{职业}}</noinclude>

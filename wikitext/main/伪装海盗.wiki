@@ -1,0 +1,9 @@
+{{Trait
+|name=伪装海盗
+|english_name=Pretend Pirate
+|type=地区
+|prerequisites=安多安
+|description=你喜欢引诱贩奴船靠近你。有时你会挂上海盗旗让罪犯产生虚假的安全感；其他时候你会伪装成商船。你在进行伪装成海盗或商船水手的[[易容]]检定中获得+2加值。此外，你可以花5分钟改变你船只的外观，使任何识别你船只归属或用途的检定的DC增加+2。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

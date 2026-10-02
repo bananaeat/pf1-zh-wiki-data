@@ -1,0 +1,9 @@
+{{Trait
+|name=天生咒
+|english_name=Gifted Adept
+|type=魔法
+|description=你对魔法的兴趣，可能是在目击了某次以特别拉风的手段施法后被激发的，这种偏好也许在肉体和精神上都影响着你。这种早期对魔法的接触，使得你在自己施展类似法术时也更易上手。在你选择此[[背景特性]]时，指定一个法术。从此刻起，你施展该法术的施法者等级+1。
+|source_name=魔法背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

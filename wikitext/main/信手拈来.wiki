@@ -1,0 +1,8 @@
+{{Trait
+|name=信手拈来
+|english_name=Improvisational Equipment
+|type=装备
+|description=你有一种不可思议的本领，能发挥出装备意想不到的新用途。当将物品用于其他用途时，例如将[[撬棍]]用作抓钩或将旧衬衫用于包扎致命伤口，减少2点使用临时工具的罚值。这不适用于临时武器的罚值。你的GM可能会规定某些物品不适合以某些方式使用；例如，把一个死去的[[兽人]]的脸粘到你自己的脸上并不能帮你伪装成一个兽人。
+|source_name=装备背景
+|source_url=https://pf1chm.pages.dev/topics/page_1579.html
+}}

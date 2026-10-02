@@ -1,0 +1,10 @@
+{{Feat
+|name=野兽之声
+|english_name=Voice of Beasts
+|description=你跟自然世界紧密相连，从而能够一切活物交谈。
+|prerequisites=自然变身职业能力。
+|benefit=当你使用自然变身时，你获得与所有动物沟通的能力。此能力作用如同[[动物交谈]]，但该效果本质为超自然能力（Su），且不能被解除。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

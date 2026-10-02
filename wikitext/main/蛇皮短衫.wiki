@@ -1,0 +1,15 @@
+{{魔法物品
+|name=蛇皮短衫
+|english_name=Snakeskin Tunic
+|aon=MagicWondrousDisplay.aspx?FinalName=Snakeskin Tunic
+|cat=奇物
+|aura=中等防护系、变化系
+|cl=8
+|slot=胸部
+|price=8,000 gp
+|weight=2磅
+|description=蛇皮短衫是用巨蛇的鳞片制成的紧身合体衬衫。穿上它后，穿戴者获得+1护甲加值至AC、+2敏捷增强加值，以及对抗毒素的豁免检定+2抗力加值。
+|req=[[制造奇物]]、[[猫之优雅]]、[[减缓毒发]]
+|cost=4,000 gp
+|source=冒险之路2：剥皮锯谋杀案、符文领主崛起周年纪念版、极限宝具
+}}

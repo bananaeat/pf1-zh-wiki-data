@@ -1,0 +1,9 @@
+{{Trait
+|name=污秽之吻
+|english_name=Vile Kiss
+|type=种族
+|prerequisites=[[魔裔]]（弑母者）
+|description=你了解如何在靠近他人时，激起他们对你本能的厌恶。当你为了让你的敌人[[恶心]]而使用[[阴招]]战技时，战技检定获得+2背景加值。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_832.html
+}}

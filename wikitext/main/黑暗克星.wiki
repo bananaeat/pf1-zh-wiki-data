@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Darklands pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=黑暗克星
+|english_name=Scourge of the Darkness
+|type=信念
+|description=关于幽暗地域中种种掠夺暴行的传闻，驱使你去探索其阴暗的深处，并从内部清除腐化。你在幽暗地域中对抗恐惧的豁免检定获得+1背景加值，并且对原生于幽暗地域的生物进行的[[威吓]]检定获得+1背景加值。
+|source_name=幽暗地域英雄
+|source=HotD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Scourge%20of%20the%20Darkness
+}}

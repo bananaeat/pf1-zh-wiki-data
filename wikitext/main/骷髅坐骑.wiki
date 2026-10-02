@@ -1,0 +1,40 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=骷髅坐骑
+|english_name=Skeletal Mount
+|cr=1
+|xp=400
+|classline=进阶重型马骷髅
+|alignment=中立邪恶
+|size=大型
+|type=不死生物
+|init=+9
+|senses=黑暗视觉 60 尺；察觉 +0
+|ac=17，接触 13，措手不及 13（+2 护甲，+4 敏捷，+2 天生，–1 体型）
+|hp=9（2d8）
+|fort=+0
+|ref=+5
+|will=+3
+|dr=5/钝击
+|immune=寒冷;[[通用怪物规则#不死特性|不死生物特性]]
+|speed=50 尺
+|melee=啮咬 +5（1d4+5），2 蹄击 +0（1d6+2）
+|space=10 尺
+|reach=5 尺
+|str=20
+|dex=20
+|con=–
+|int=–
+|wis=10
+|cha=10
+|bab=+1
+|cmb=+7
+|cmd=22（对抗摔绊 26）
+|feats=[[精通先攻]]
+|gear=破损链甲衫马铠
+|source=Pathfinder #44: Trial of the Beast
+|lore=
+骷髅坐骑是用受过战斗训练的重型马制成的普通[[骷髅]]。它们常充当死灵师或骷髅勇士的坐骑。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Skeletal Mount|2=Skeletal Mount}}

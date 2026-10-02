@@ -1,0 +1,10 @@
+{{Feat
+|name=快速准备
+|english_name=Quick Preparation
+|description=在你的早期冒险生涯中（或许是以某种艰难的方式），你学会在极苛刻的时间限制中记忆法术。
+|prerequisites=准备式施法能力。
+|benefit=你只需要必需时间的一半就可以准备完法术。
+|normal=准备你的全部法术需要1小时。
+|source_name=初探探索者协会
+|source_url=https://pf1chm.pages.dev/topics/page_547.html
+}}

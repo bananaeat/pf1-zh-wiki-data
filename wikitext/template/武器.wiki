@@ -1,0 +1,32 @@
+<includeonly>{{#invoke:版权抬头|main}}{{#invoke:武器|card}}{{条目页脚|速查=物品速查|分类=物品|附加=[[:分类:{{{category|武器}}}|{{{category|武器}}}]]}}</includeonly><noinclude>
+武器卡片（普通武器、火器、弹药、攻城兵器）。一栏一项，页上的参数就是数据（武器速查从这里导）。渲染在 [[模块:武器]]，样式沿用 [[MediaWiki:Common.css]] 的「物品卡片」一节。魔法物品和其他装备用 [[模板:物品]]。
+
+ {{武器
+ |name=长矛
+ |english_name=Longspear
+ |category=武器
+ |prof=简易
+ |wcat=双手
+ |price=5 gp
+ |weight=9磅
+ |dmg_s=1d6
+ |dmg_m=1d8
+ |crit=×3
+ |range=
+ |type=穿刺
+ |special=迎击，长武
+ |groups=矛
+ |description=……
+ |source=核心规则书
+ }}
+
+* <code>english_name</code>：照抄 AoN 的条目名（如 <code>Longaxe, dwarven</code>），英文名自动链到 AoN 的武器页；地址不同时写 <code>aon=EquipmentWeaponsDisplay.aspx?ItemName=…</code>，写 <code>aon=无</code> 就不挂。
+* <code>category</code>：武器／火器／弹药／攻城兵器（进同名分类）。
+* <code>prof</code>：简易／军用／异种（进 分类:简易武器 等）；<code>wcat</code>：轻型／单手／双手／远程／弹药。
+* <code>dmg_s</code>／<code>dmg_m</code>：小型、中型伤害，双头武器两端用 <code>/</code> 隔开（<code>1d6/1d6</code>）；超小型、大型按表 6-5 自动算。
+* <code>special</code>：特性，多个用「，」隔开，自动链到[[装备]]里的说明；没有写空。
+* <code>groups</code>：[[拓展武器组|战士武器组]]，写短名（斧、重刃、轻刃、弓、贴身、弩、双头、火器、链索、锤、武僧、长柄、矛、投掷、部落……），多个用「，」隔开。
+* 火器另有 <code>misfire</code>、<code>capacity</code>；攻城兵器另有 <code>crew</code>、<code>aim</code>、<code>load</code>、<code>speed</code>。
+* <code>source</code>：出处书名，几本用「、」隔开，首印在前。
+[[分类:模板]]
+</noinclude>

@@ -1,0 +1,20 @@
+{{魔法物品
+|name=南方星形艾恩石
+|english_name=Southern Star Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun Stone Southern Star
+|cat=艾恩石
+|aura=强烈变化系
+|cl=12
+|slot=无
+|price=8,000 gp
+|description='''形状'''：五角星
+
+'''效果'''：这颗璀璨的深紫色晶体被完美切割成五角星形状。这颗宝石能赋予其持有者30尺的游泳速度。
+
+'''共振'''（放入[[寻路仪]]时）：持有者每天能够[[水中呼吸]]最多10分钟（以1分钟为单位）。
+
+艾恩石的通用规则（启动、环绕飞行、抓取，以及AC、硬度）见[[艾恩石]]。
+|req=[[制造奇物]]、[[海洋之触]]，制造者必须至少12级
+|cost=4,000 gp
+|source=缘界英雄
+}}

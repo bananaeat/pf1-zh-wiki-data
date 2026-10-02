@@ -1,0 +1,10 @@
+{{Trait
+|name=自我怀疑
+|english_name=Self-Doubting
+|type=缺陷
+|pfs=否
+|description=你对失败的恐惧陷入了一种螺旋式的恶性循环。
+|benefit=每天你第一个失败的意志豁免检定或技能检定会让你在下一次意志豁免检定或同样的技能检定中承受-2减值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

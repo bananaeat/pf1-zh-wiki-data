@@ -1,0 +1,10 @@
+{{Trait
+|name=感召
+|english_name=Called
+|type=信念
+|description=在你年轻的时候，你所信仰的神祇或是一位强大的精魂曾与你交流，为你留下了关于你将面对的重要命运的隐晦暗示，并告诉你若要成就注定的伟业，就必须赢得战斗。每天一次当你在攻击检定中投出自然1的时候，你可以选择重投一次并使用第二次掷骰的结果来代替。
+建议角色：[[先知]]、圣武士、乌尔芬人
+|source_name=任务与战役
+|source=任务与战役(Quests & Campaigns
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

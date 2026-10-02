@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Mummy's Mask Player's Guide pg. 10, People of the Sands pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=死而复生
+|english_name=Resurrected
+|type=战役
+|pfs=否
+|description=不久前的某个时候你死了，但又被带回了人世——可能是因为魔法、神祇的祝福、你尚未完成的使命，或者只是你命不该绝。无论你复活的缘由是什么，这段经历都让你对死亡产生了浓厚的兴趣，你希望通过探索瓦提那片著名大墓地中的陵墓，对生死的本质有所领悟。你对抗死亡效果的豁免获得+2背景加值。此外，直到你的生命值降到等于或低于你的体质值+4的负值时，你才会死亡。
+|source_name=Mummy's Mask Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Resurrected
+}}

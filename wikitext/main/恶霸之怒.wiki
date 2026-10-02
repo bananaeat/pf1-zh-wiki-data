@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 197），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=恶霸之怒
+|english_name=Bully Burner
+|type=种族
+|prerequisites=地精
+|description=你曾一度被迫侍奉残暴的[[大地精]]，这令你倍感屈辱与挫败，而这段记忆激起的怒火赋予了你力量。对抗具有地精亚种的生物时，你的战技检定获得+1背景加值，CMD也获得+1背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Bully%20Burner
+}}

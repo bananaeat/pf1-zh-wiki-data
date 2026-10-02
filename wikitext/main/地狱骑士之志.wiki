@@ -1,0 +1,10 @@
+{{Trait
+|name=地狱骑士之志
+|english_name=Aspiring Hellknight
+|type=地区
+|prerequisites=来自切利亚斯
+|benefit=你的家族在相当长的历史中都有服役于[[地狱骑士]]的先例，而对你的严格教育和训练使得你拥有一种强有力的指挥气场。你在威吓技能检定上获得+1背景加值，威吓总是视为你的[[本职技能]]。
+|source_name=地狱骑士之道
+|source=PotH
+|source_url=https://pf1chm.pages.dev/topics/zh31da2cdf93.htm
+}}

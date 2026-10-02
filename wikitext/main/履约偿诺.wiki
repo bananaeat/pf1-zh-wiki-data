@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Carrion Crown Player's Guide pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=履约偿诺
+|english_name=Making Good on Promises
+|type=战役
+|pfs=否
+|description=过去某个时候，罗里莫尔教授帮了你一个忙，条件是他日后会找你偿还这份人情。然而在他帮了你之后，你就再也没见过他，也没听到他的消息，这让你一直处于无尽的等待之中，觉得每一天都可能是他要你还人情的日子。可那一天始终没有到来，你对教授会要你做什么的恐惧和焦虑也逐渐消退。你以为这位老人要么已经忘了你，要么已经去世，最终认定自己永远不必履行这笔交易中你的那一份。当你得知教授的死讯，并且他在遗嘱中特别点了你的名时，在你前往雷文格罗的一路上，你对他可能想要你做什么的恐惧与日俱增。
+
+多年来背负着欠罗里莫尔教授一笔未讨之债的恐惧与不安，让你对极度的焦虑已经习以为常。你对抗恐惧效果的豁免检定获得+2背景加值。
+|source_name=Carrion Crown Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Making%20Good%20on%20Promises
+}}

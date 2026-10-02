@@ -1,0 +1,9 @@
+{{Trait
+|name=争强好胜
+|english_name=Competitive
+|type=社会
+|description=你在精彩体育赛事的氛围中成长，年少时充斥着超越所有人的迫切渴望。任何竞赛的预告都能激发你发挥最大潜能。当30尺内生物进行某项技能检定时，若你在其下一回合开始前进行相同技能检定，你的检定获得+1背景加值(包括与该生物进行的对抗技能检定)。
+建议角色：布雷斡人(Brevans),[[库尔吉斯]]信徒，萨迦瓦人(Sargavans)
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=狂怒激发
+|english_name=Inspire Ferocity
+|type=Ex
+|categories=杂项
+|prerequisites=[[血性狂怒]]
+|benefit=狂暴时，野蛮人可以用一个[[移动动作]]，把[[血性狂怒]]的效果分享给30尺内的所有自愿盟友，持续时间等于他的魅力修正(最小为1)。野蛮人必须习得[[血性狂怒]]才能选择这个[[狂暴之力]]。
+|unchained=狂怒之示
+|source_name=进阶玩家指南
+}}

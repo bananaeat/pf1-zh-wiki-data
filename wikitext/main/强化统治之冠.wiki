@@ -1,0 +1,14 @@
+{{魔法物品
+|name=强化统治之冠
+|english_name=Diadem of Inspiring Rule
+|aon=MagicWondrousDisplay.aspx?FinalName=Diadem of Inspiring Rule
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=头部
+|price=4,500 gp
+|description=这顶华丽而招摇的王冠使其佩戴者的[[领导力]]值获得+3表现加值。
+|req=[[制造奇物]]、[[鹰之威仪]]
+|cost=2,250 gp
+|source=任务与战役
+}}

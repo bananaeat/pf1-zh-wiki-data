@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Orcs of Golarion pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=魁梧莽汉
+|english_name=Brute (Orc)
+|type=种族
+|prerequisites=[[半兽人]]、[[兽人]]
+|description=你的体格格外高大魁梧，出手时志在造成最大的痛苦。每当你打出重击威胁时，你都会额外增加等同于你武器重击倍率的伤害（若确认为重击，此额外伤害只加算、不倍增）。
+|source_name=格拉利昂的兽人
+|source=OoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Brute%20%28Orc%29
+}}

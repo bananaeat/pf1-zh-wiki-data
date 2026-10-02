@@ -1,0 +1,15 @@
+{{魔法物品
+|name=黑羽扇
+|english_name=Black Feather Fan
+|aon=MagicWondrousDisplay.aspx?FinalName=Black Feather Fan
+|cat=奇物
+|aura=微弱塑能系
+|cl=5
+|slot=无
+|price=10,000 gp
+|weight=1磅
+|description=这把精致的扇子由十二根黑色羽毛插入金属把手制成，把手上压印着风格化的纹章。持有者可以用它制造[[造风术]]、[[风讯术]]或[[风墙术]]的效果。这些效果每天一共可使用3次，任意组合。
+|req=[[制造奇物]]、[[造风术]]、[[风讯术]]、[[风墙术]]
+|cost=5,000 gp
+|source=进阶种族手册
+}}

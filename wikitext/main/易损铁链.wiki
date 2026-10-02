@@ -1,0 +1,9 @@
+{{装备
+|name=易损铁链
+|english_name=Breakaway chains
+|cat=冒险装备
+|price=65 gp
+|weight=2磅
+|description=这种精制的易损铁链看起来就跟普通的[[铁链]]一样（通过一个DC 25的察觉检定可以发现它与普通铁链的不同），但很容易破坏。通过一个DC 10的力量检定就可以瞬间破坏它。
+|source=冒险者的军械库、极限宝具
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=艾奥梅黛之选民
+|english_name=Chosen of Iomedae
+|type=信念
+|description=从你出生之日起，你的父母就把你的灵魂献予[[艾奥梅黛]]，使之锻造成她的圣光之剑。女神祝福了你，赐予你光的赠礼照亮你前路的黑暗，还有一把好剑来散播她的意志。你能每天一次使用[[光亮术]](CL 1),并在开始游戏时获得一把精工[[长剑]]。如果你把光亮术释放在这把剑上，光照范围和持续时间都翻倍。
+
+|source_name=信念背景
+|source=CoP
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

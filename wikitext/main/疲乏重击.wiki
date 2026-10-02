@@ -1,0 +1,17 @@
+{{Feat
+|name=疲乏重击
+|english_name=Tiring Critical
+|aliases=疲倦重击
+|categories=战斗;重击
+|description=你的重击令对手[[疲乏]]。
+|prerequisites=[[重击专攻]]，基本攻击加值+13。
+|benefit=每当你对一个敌人成功造成重击时，会令该生物陷入疲乏状态。此专长对已陷入疲乏或[[力竭]]的生物无效。
+|special=在没有掌握[[重击熟稔]]专长前，每次重击时你只能选择一种[[重击专长]]效果。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[力竭重击]]（1 个条目）

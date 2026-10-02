@@ -1,0 +1,15 @@
+{{Spell
+|name=医疗坐骑
+|english_name=Heal Mount
+|school=咒法系 (医疗)
+|levels=圣武士 3
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的你的坐骑
+|duration=立即
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=该法术的功能如同[[医疗术]]一般，不过只影响圣武士的特殊坐骑 (通常为马匹)。
+|source=核心规则书
+}}

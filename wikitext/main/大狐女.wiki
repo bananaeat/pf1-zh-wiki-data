@@ -1,0 +1,19 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=大狐女
+|english_name=Daikitsu
+|title=狐之女士（Lady of Foxes）
+|alignment=绝对中立（N）
+|weapon=链枷
+|portfolio=农业，技艺，狐妖，水稻
+|domains=[[动物领域|动物]]，[[手艺领域|手艺]]，[[团队领域|团队]]，[[植物领域|植物]]，[[天气领域|天气]]
+|subdomains=[[手艺领域#构装子域 (Construct)|构装子域]]，[[团队领域#家族子域 (Family)|家族子域]]，[[动物领域#毛兽子域 (Fur)|毛兽子域]]，[[植物领域#滋长子域 (Growth)|滋长子域]]，[[团队领域#家园子域 (Home)|家园子域]]，[[手艺领域#工厂子域 (Industry)|工厂子域]]，[[天气领域#雨季子域 (Monsoon)|雨季子域]]*，[[天气领域#季节子域 (Seasons)|季节子域]]（带 * 者需要背景特性[[次经侍祭]]）
+|symbol=九尾狐
+|animal=狐狸
+|centers=神灵之森，明海，诸黑
+|nationality=狐妖（Kitsune）
+|pantheon=天夏神祇
+|source=龙国舆图
+}}
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Daikitsu|2=Daikitsu}}

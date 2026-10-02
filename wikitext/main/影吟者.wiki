@@ -1,0 +1,10 @@
+{{Trait
+|name=影吟者
+|english_name=Shadow Whispers
+|type=宗教
+|prerequisites=信仰[[诺格巴]]
+|description=你有着打探他人秘密的嗜好。你的知识(本地)检定获得+1背景加值，同时挫败敌人士气的威吓检定获得+2背景加值。
+|source_name=宗教背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

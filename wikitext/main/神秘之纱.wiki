@@ -1,0 +1,10 @@
+<noinclude>{{杀手导航}}
+'''神秘之纱'''（Mystic Veil, Sp）是[[杀手]]的[[杀手天赋|杀手天赋]]。
+
+</noinclude>{{Source|武术手册|Martial Arts Handbook|inline}} 仅限轮回者。轮回者杀手擅长对入侵者隐藏通往他们山间家园的路径。每2个杀手等级，杀手每天可以以类法术能力施展一次[[无声幻影]]，以杀手等级作为施法者等级。使用这个能力时，杀手以智力修正进行专注检定，识破幻术的DC为11+杀手的智力修正。杀手的智力值必须至少为11才能选择该天赋。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_118.html 原文]）。尝血者、支持队友译自[https://pf1chm.pages.dev/topics/page_581.html 斯科扎尼黑手一章]，永世仇敌、人生经验、直面恐怖、山坡伏击、神秘之纱、重唤技艺译自[https://pf1chm.pages.dev/topics/page_1338.html 传承武学一章]，集中毒药、偏转毒药译自[https://pf1chm.pages.dev/topics/page_1261.html 静谧毒杀者一章]，猫族盗贼天赋译自[https://pf1chm.pages.dev/topics/page_451.html 种族特性一章]；壁垒、额外残岩、坚固阵地、失衡技巧、阵营偷袭、切裂阵营、一人千面、通晓探知照站上同名盗贼天赋单页。均按 AoN 核对过。全部杀手天赋见 [[杀手天赋]]。
+
+[[分类:杀手天赋]]
+
+{{职业}}</noinclude>

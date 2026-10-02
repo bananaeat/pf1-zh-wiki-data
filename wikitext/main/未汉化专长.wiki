@@ -1,0 +1,764 @@
+本页列出 [https://aonprd.com/Feats.aspx?Class=All Archives of Nethys] 上有、但本站还没有的 376 条专长，供认领翻译。AoN 全部 3442 条专长里已经汉化了 3066 条（89.1%）。
+
+点英文名可以跳到 AoN 的原文页。「类别」和「PFS」两列的漏斗图标可以勾选筛选，点列名可排序。
+
+认领之后建页面请套 <code>{{Feat}}</code> 模板，参数见 [[模板:Feat]]。已汉化的部分见 [[专长汉化对照表]]。
+
+{| class="wikitable sortable filterable"
+|-
+! style='width:18%' | 英文名 !! class="filterable-head" style='width:15%' | 出处 !! class="filterable-head" style='width:10%' | 类别 !! class="filterable-head" style='width:6%' | PFS !! style='width:26%' | 先决条件 !! style='width:25%' | 效果
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Absorb%20Spirit Absorb Spirit] || 惧怖冒险 || — || — || Con 13, died or possessed by an undead || Temporarily absorb a spirit to prevent rejuvenation
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Adept%20Channel Adept Channel] || 格拉利昂的兽人 || — || — || Ability to cast divine spells, summon familiar class ability, caster level 4th, Cha 13 || Gain the channel energy class feature
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Advance%20Warning Advance Warning] || 冒险之路22：永恒的终结 || — || — || Cha 15 || Help allies avoid being surprised
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Advanced%20Defensive%20Combat%20Training Advanced Defensive Combat Training] || 组织指南 || Faction || — || Defensive Combat Training, Bellflower Network 10 TPA || Gain a +4 bonus to your CMD
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=All%20Gnolls%20Must%20Die All Gnolls Must Die] || 烈焰传承玩家手册 || Achievement || — || Deliver the killing blow to 20 gnolls (or similar) || Gain a morale bonus on Will saves and a bonus to attack/damage gnolls and similar creatures
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Ancient%20Draconic Ancient Draconic] || 格拉利昂的狗头人 || — || — || Arcane caster level 5th, speaks Draconic. || Empower spells using the language of dragons
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Assisted%20Ascension Assisted Ascension] || 幽暗地域英雄 || Teamwork || 是 || Climb 5 ranks || Climb with allies more effectively
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Associate Associate] || 邪恶特务 || — || 是 || Maintain a positive relationship with an organization for at least 6 months or achieve a major accomplishment on behalf of an organization || Ally with an organization, gaining bonuses when associating with that group
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Aural%20Insight Aural Insight] || 幽暗地域英雄 || — || 是 || Blind-Fight, Improved Blind-FightAPG, Perception 10 ranks || Use echolocation to gain blindsense 30 feet for a round
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Babau%20Rogue%20Talent Babau Rogue Talent] || 再探恶魔 || — || — || Dex 17, babau || Gain a new rogue talent that helps with sneak attacks.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Banish%20Possessor Banish Possessor] || 闹鬼英雄手册 || — || 是 || — || Aid creatures with throwing off possession
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Berserker%27s%20Cry Berserker's Cry] || 探索者编年史：战役设定 || — || — || Cha 13, Linnorm Kings affinity || Improve ally morale with a scream of fury
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Big%20Game%20Hunter Big Game Hunter] || 符文领主崛起玩家手册 || — || — || — || +1 attack and +2 damage vs. Large or larger creatures
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Black%20Marketeer Black Marketeer] || 奥西里昂：法老之地 || — || — || Appraise 4 ranks, Gather Information 4 ranks, Knowledge (local) 4 ranks || Gain a resource pool from black market connections
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Blackfire%20Summoning Blackfire Summoning] || 位面旅者手册 || — || 是 || Sacred Summons || Your summoned evil outsiders appear in a damaging burst of flames
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Blade%20Binder Blade Binder] || 探索者编年史：战役设定 || — || — || Base attack bonus +4, proficiency with khopesh or temple sword || Improve your skill with blade binding
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Blight%20Guide Blight Guide] || 冒险之路119：荒疫囚徒 || — || 是 || Blight Survivalist, Skill Focus (Survival) || Blight Survivalist extends to nearby allies; also gain a 1/day reroll when saving against environmental/weather effects
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Blight%20Survivalist Blight Survivalist] || 冒险之路119：荒疫囚徒 || — || 是 || Skill Focus (Survival) || Gain +3 save vs. environmental hazards and weather effects
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Bloatmage%20Initiate Bloatmage Initiate] || 异乡人之城 || — || 是 || Spell Focus (any school) || Learn the basics of the ancient art of hemotheurgy
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Blood%20Feast Blood Feast] || 惧怖冒险 || — || — || Bite attack || Gain morale bonuses after biting living creatures
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Bloodstone%20Manhunter Bloodstone Manhunter] || 组织指南 || Faction || — || Bloodstone Swords 10 TPA || Become better skilled at fighting criminal humans
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Bolster%20Jinx Bolster Jinx] || 格拉利昂的半身人 || — || 是 || Great Fortitude, Iron Will, or Lightning Reflexes; Halfling Jinx trait || Increase a jinxed target's penalty to a save if you have a bonus to that save
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Bouncing%20Spell-Like%20Ability Bouncing Spell-Like Ability] || 惧怖冒险 || Monster || — || Spell-like ability at caster level 4th or higher || Failed spell-like ability bounces to another target
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Bounding%20Step Bounding Step] || 荒野英雄 || — || 是 || Dex 15, Nimble Moves || Get bonuses when balancing or moving through specific terrain
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Bounteous%20Body Bounteous Body] || 荒野源始 || — || 是 || Character level 5th, grapevine or natural magic racial trait || Create fruit that mimics the effects of lesser restoration
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Brain%20Eater Brain Eater] || 经典恐怖再临 || — || — || Ghoul, Int 17 || Gain a bonus on skill checks and Will saves by eating brains
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Bravery%20in%20Action Bravery in Action] || 神术选集 || — || 是 || Bravery class feature, worshiper of Cayden Cailean || You can add the bonus from bravery to your initiative checks.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Breach Breach] || 再探神秘怪物 || — || — || Str 15, bunyip || Learn how to charge from underwater to a creature on land
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Brutal%20Grappler Brutal Grappler] || 格拉利昂的兽人 || Teamwork || 是 || Half-orc or orc || Help an ally grapple a creature
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Bully%20Breed Bully Breed] || 惧怖冒险 || — || 是 || Handle Animal 4 ranks, Intimidate 4 ranks, animal companion or mount class feature || Animal companion or mount gains Intimidate as a class skill and can demoralize foes
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Burn%20Rider Burn Rider] || 冒险之路7：无序边缘 || — || — || Mounted Combat, Ride 6 ranks, Handle Animal 6 ranks || Gain fire resistance while mounted
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Calm%20Disposition Calm Disposition] || 组织指南 || Faction || — || Prophets of Kalistrade 10 TPA || +2 save vs. effects that affect your composure
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Casting%20Conduit Casting Conduit] || 反英雄手册 || Teamwork || 是 || Spellcraft 1 rank || When casting a touch spell, adjacent ally can take minimum damage to make an identical attack
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Chainbreaker Chainbreaker] || 安多安，自由之魂 || Achievement || — || Over the course of at least five different occasions, free a cumulative total of 50+ sentient beings held in unjust captivity || Gain a bonus to damage against slave-traders or masters
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Chance%20Death Chance Death] || 位面旅者手册 || Origin || — || Duskwalker || Reroll a failed attack or saving throw that would have resulted in your death
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Changeling%20Familiar Changeling Familiar] || 荒野源始 || — || 是 || Familiar class feature, caster level 9th, your familiar must have the change shape universal monster ability || Your familiar gains the ability to take one a humanoid form
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=City%20Born City Born] || 符文领主崛起玩家手册 || — || — || 1st-level character, cannot have Country Born or Lone Wolf || Gain a bonus based on your home city
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Civilized%20Ghoulishness Civilized Ghoulishness] || 经典恐怖再临 || — || — || Ghoul, Cha 18 || Learn to pass as a human
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Client Client] || 卡蒂亚，东方明珠 || — || — || See text || 
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Colleague Colleague] || 卡蒂亚，东方明珠 || — || — || See text || 
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Distraction Combat Distraction] || 格拉利昂的地精 || — || — || Goblin, Acrobatics 1 rank, Escape Artist 1 rank || Distract an opponent with lunatic antics.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Conceal%20Scent Conceal Scent] || 奥西里昂：法老之地 || — || — || Hide 3 ranks, Survival 3 ranks || Hide your scent from monsters
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Consume%20Essence Consume Essence] || 惧怖冒险 || — || — || Base attack bonus +6; evil alignment; swallow whole universal monster ability; must be of the magical beast, outsider, or undead type || Inflict negative levels on swallowed creatures
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Consume%20Undeath Consume Undeath] || 再探恶魔 || — || — || Nabasu, Con 23 || Consume the undead to gain their abilities.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Country%20Born Country Born] || 符文领主崛起玩家手册 || — || — || 1st-level character, cannot have City Born or Lone Wolf || Ignore fatigue and gain a +1 bonus to Will saves
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Coven%20Caster Coven Caster] || 邪恶特务 || — || — || Changeling || Increase a spellcaster’s caster level using aid another
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Robot Craft Robot] || 冒险之路90：神性驱动器 || — || — || Craft Technological Arms and ArmorTG, Craft Technological ItemTG, TechnologistTG, Craft (mechanical) 9 ranks, Knowledge (engineering) 9 ranks || Learn how to build robots
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Creative%20Armorsmith Creative Armorsmith] || 冒险者的军械库2 || — || 是 || Craft (armor) 3 ranks, Knowledge (engineering) 3 ranks || You can add temporary modifications to your armor
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Creative%20Weaponsmith Creative Weaponsmith] || 冒险者的军械库2 || — || 是 || Craft (weapons) 3 ranks, Knowledge (engineering) 3 ranks || You can add temporary modifications to your weapons
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Crippling%20Thrust Crippling Thrust] || 武术手册 || — || 是 || Weapon Focus with piercing weapon, base attack bonus +6 || You can hamper a creature's movements with a piercing weapon
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Crisis%20of%20Conscience Crisis of Conscience] || 平衡勇士 || Story || — || Lawful neutral, neutral, or chaotic neutral alignment. Your alignment must have shifted from either good or evil at least once since 1st level or the last time you completed this feat (see Special) || Hide your alignment and loyalties
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Crowd%20Control Crowd Control] || 神术选集 || Teamwork || 是 || Base attack bonus +3 || You gain a +2 competence bonus to your CMD when an enemy uses Acrobatics to move through a square you threaten.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Cry%20of%20Mercy Cry of Mercy] || 冒险之路39：七矛之城 || — || 是 || Wis 13 || Call upon your ancestors to prevent opponents around you from dying
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Crystalline%20Cloud Crystalline Cloud] || 位面旅者手册 || — || 是 || Aphorite, character level 5th, crystalline dust racial trait || Create a cloud to distribute your crystalline dust
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Cursed%20Conduit Cursed Conduit] || 巫团血脉 || — || 是 || — || Resist the allure of cursed magic items
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Dark%20Adept Dark Adept] || 冒险之路18：坠入午夜 || — || — || Drow, character level 3rd || Gain new drow spell-like abilities
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Death%27s%20Host Death's Host] || 闹鬼英雄手册 || — || — || Spell Focus (necromancy) || +4 saves vs death effects when possessed by an undead creature.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Death%27s%20Suitor Death's Suitor] || 组织指南 || Faction || — || Risen Guard 20 TPA || Reroll a save or skill check if failure could kill you
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful%20Incompetence Deceitful Incompetence] || 反英雄手册 || — || 是 || Combat Reflexes || Gain a cumulative insight bonus to attack rolls of attacks of opportunity for every time you miss an attack of opportunity
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Deconstruct%20Spell Deconstruct Spell] || 位面旅者手册 || — || 是 || Improved Counterspell or ability to cast dispel magic or greater dispel magic, aphorite, crystalline dust racial trait || Regain uses of crystalline dust when you counterspell or dispel a spell
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Deep%20Toxin Deep Toxin] || 阴招战术工具箱 || — || 是 || Vital Strike; base attack bonus +6; Craft (poison) 6 ranks or poison use class feature || Increase poison duration when using vital strike
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Delayed%20Spell Delayed Spell] || 铁牙入侵 || Metamagic || 是 || — || Set a spell to trigger on a delay
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Deliberate%20Death Deliberate Death] || 位面旅者手册 || Origin || — || Duskwalker || When reduced below 0 hit points by a creature, you can attack them as an immediate action
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Demonic%20Possession Demonic Possession] || 再探恶魔 || — || — || Demon or half-demon, Cha 21, Wis 17 || Learn the spell magic jar to aid in possessing other creatures.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Derro%20Magister Derro Magister] || 冒险之路61：罪恶碎片 || — || — || Cha 20, derro || Increase your SR and spell-like power
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Designated%20Antagonist Designated Antagonist] || 反英雄手册 || Teamwork || — || AntagonizeUM. || When using Antagonize, directy hostility to willing ally
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Devil%27s%20Foe Devil's Foe] || 安多安，自由之魂 || Achievement || — || Face 10 different devils in combat and take damage or suffer some other sort of injury from five or more attacks made by each one without falling unconscious, fleeing, or otherwise becoming unable to strike back at them || Attacks count as good-aligned when bypassing a devil's DR
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Disassemble%20Magic%20Item Disassemble Magic Item] || 组织指南 || Faction || — || Any item creation feat, Aspis Consortium 20 TPA || Break a magic item down into its component pieces
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Disruptive%20Spell-Like%20Ability Disruptive Spell-Like Ability] || 惧怖冒险 || Monster || — || Spell-like ability at caster level 4th or higher || Spell-like ability interferes with spellcasting
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Distracting%20Explosion Distracting Explosion] || 铁牙入侵 || — || — || Bomb class feature, hobgoblin || Reduce your bomb’s damage for an opportunity at distraction
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Diversion%20Shot Diversion Shot] || 荒野英雄 || Teamwork || 是 || Stealthy, Target of OpportunityUC || Use Target of Opportunity to give allies a chance to hide
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Divert%20Harm Divert Harm] || 格拉利昂的混种 || — || 是 || Int 13, Combat Expertise, base attack bonus +6, evasion class feature || Pull an opponent into an area-of-effect attack to take damage in your place
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Divine%20Deception Divine Deception] || 组织指南 || — || — || Knowledge (religion) 5 ranks, Use Magic Device 5 ranks || Gain +5 bonus on UMD checks with divine items
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Dog-Sniff-Hate Dog-Sniff-Hate] || 我们地精自由啦！ || — || — || Skill Focus (Perception), goblin || Gain scent, +1 attack, and +2 damage vs. canines
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Draconic%20Defender Draconic Defender] || 巨龙再临 || — || — || Con 17, Toughness || Give allies a bonus to their AC when you fight defensively
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Draconic%20Heritage Draconic Heritage] || 巨龙遗产 || — || — || Cha 13 || Manifest the power of your draconic heritage
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Draconic%20Manifestation Draconic Manifestation] || 巨龙遗产 || — || 是 || Access to natural claw attacks, bloodrager or sorcerer with the draconic bloodline || Gain an additional benefit when manifesting your draconic claws
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Dragon%20Discipline Dragon Discipline] || 巨龙再临 || — || — || Wis 17, base Will save +10, any lawful alignment, dragon type || Re-roll a failed save against mind-affecting enchantment or necromancy effects
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Dreamwalker Dreamwalker] || 位面旅者手册 || — || — || Cha 17, Lucid Dreamer, Practiced Dreamer, Knowledge (planes) 10 ranks || You are automatically unhindered when traveling to the Dimension of Dreams
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Drow%20Spirit Drow Spirit] || 阴影血脉 || — || — || Half-elf || Gain spell-like abilities from your drow heritage
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Dryad%27s%20Attendant Dryad's Attendant] || 荒野源始 || — || — || Cha 15, Dryad’s Apprentice, character level 9th, gathlain || You can meld with trees and serve as a bonded tree of a dryad
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Eagle%20Knight%20Candidate Eagle Knight Candidate] || 安多安，自由之魂 || Achievement || — || Character level 5th, convince four different Eagle Knights and either a member of the People’s Council or an Andoran town mayor to write letters of commendation on your behalf || Join the Eagle Knights, gaining a unique benefit
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Earthtouched Earthtouched] || 巨人再临 || — || — || Cha 15, stone giant || Increase saving throw DC for earth spells, learn new earth spells.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Electric%20Discharge Electric Discharge] || 荒野英雄 || Teamwork || 是 || Arcane Strike, ability to cast a 1st-level or higher spell with the electricity descriptor || Combine electricity spells to greater effect
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Elf-Magic%20Defense Elf-Magic Defense] || 铁牙入侵 || — || — || Favored enemy class feature, hobgoblin || Improve your resistance against spells from your hated foe
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Embrace%20of%20the%20Dark%20Fey Embrace of the Dark Fey] || 第一世界的遗产 || Story || — || You must have an evil fey such as a quicklingB2 or redcapB2 somewhere in your family line, or you must have the Shameful Heritage background (Ultimate Campaign 40) || See text
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Engulf%20Horror Engulf Horror] || 惧怖冒险 || — || — || Engulf Revulsion; engulf or smother universal monster ability || Engulfed or smothered foes are staggered
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Engulf%20Revulsion Engulf Revulsion] || 惧怖冒险 || — || — || Engulf or smother universal monster ability || Engulfed or smothered foes are shaken
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Enhanced%20Coven Enhanced Coven] || 巫团血脉 || — || 是 || Changeling, coven hex or Coven-Touched || Cast more spell-like abilities per day
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Ephemeral%20Tread Ephemeral Tread] || 位面旅者手册 || — || — || Cha 15, Lucid Dreamer, Knowledge (planes) 5 ranks || While in the Dimension of Dreams with a physical body, perform an impossible action as a standard action
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Esoteric%20Abjuration Esoteric Abjuration] || 解放者 || Esoteric || — || — || Your abjuration spells give the target a +1 competence bonus to a single saving throw for the duration of the spell
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Esoteric%20Conjuration Esoteric Conjuration] || 解放者 || Esoteric || — || — || Your conjuration spells that summon creatures grant them partial concealment for 1 round
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Esoteric%20Divination Esoteric Divination] || 解放者 || Esoteric || — || — || Your divination spells are more likely to give you information
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Esoteric%20Enchantment Esoteric Enchantment] || 解放者 || Esoteric || — || — || Your enchantment spells inflict a penalty to ability checks, attack rolls, damage rolls, saving throws, or skill checks
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Esoteric%20Evocation Esoteric Evocation] || 解放者 || Esoteric || — || — || Your evocation spells deal extra damage
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Esoteric%20Illusion Esoteric Illusion] || 解放者 || Esoteric || — || — || Your illusion spells are harder to disbelieve
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Esoteric%20Necromancy Esoteric Necromancy] || 解放者 || Esoteric || — || — || Your necromancy spells cause their targets to be shaken
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Esoteric%20Transmutation Esoteric Transmutation] || 解放者 || Esoteric || — || — || Your transmutation spells grant a bonus to physical abilities
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Exorcising%20Mutilation Exorcising Mutilation] || 惧怖冒险 || — || 是 || Con 15, Clarity of Pain, Improved Iron Will,Iron Will || Grievously damage yourself to fight off a dominate effect or possession
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Experienced%20Ghost%20Hunter Experienced Ghost Hunter] || 位面旅者手册 || — || 是 || Character level 7th, duskwalker, ghost hunter racial trait || You can use ghost hunter as a swift action
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Exsanguinate Exsanguinate] || 惧怖冒险 || — || — || Blood drain universal monster ability, grab universal monster ability. || Double blood drain damage once per round
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Crystalline%20Dust Extra Crystalline Dust] || 位面旅者手册 || — || 是 || Aphorite, crystalline dust racial trait || You can use crystalline dust for 3 additional rounds per day
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Shadow%20Jump Extra Shadow Jump] || 阴影血脉 || — || 是 || Shadow jump shadowdancer class feature || Add 10 feet to the total distance you can shadow jump each day
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Fall%20Guy Fall Guy] || 反英雄手册 || Teamwork || 是 || Bluff 1 rank || Take a -2 penalty to Charisma-based checks to give an ally a +2 bonus on such checks
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Fan-Bearer%20at%20the%20King%27s%20Right%20Hand Fan-Bearer at the King's Right Hand] || 冒险之路139：死者之路 || Origin || — || Shabti || Chosen ally gains your defensive racial resistances
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Favored%20Community Favored Community] || 恶棍志 || — || 是 || Knowledge (local) 2 ranks, must have lived in the settlement for at least 1 year || Gain a favored terrain bonus in a certain community
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Fear%20Eater Fear Eater] || 惧怖冒险 || — || 是 || Cha 13, Iron Will, have no immunity to fear effects || Transfer others’ fear effects to yourself
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Fearsome%20Barricade Fearsome Barricade] || 组织指南 || Faction || — || Intimidate 5 ranks, Ulfen Guard TPA 20 || Demoralize opponents that attack your allies
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Fearsome%20Spell-Like%20Ability Fearsome Spell-Like Ability] || 惧怖冒险 || Monster || — || Spell-like ability at caster level 6th or higher || Spell-like ability makes damaged foes shaken
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Fiendish%20Heritage Fiendish Heritage] || 冒险之路25：厄瑞波斯的私生子 || — || — || Tiefling, must be taken at 1st level || Choose a different Tiefling heritage
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Find%20the%20Flaw Find the Flaw] || 位面旅者手册 || — || 是 || Str 13, Improved Sunder, Power Attack, base attack bonus +1, Craft (armor or weapons) 5 ranks, aphorite || Ignore some hardness when you sunder
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Fire%20God%27s%20Blessing Fire God's Blessing] || 格拉利昂的兽人 || — || — || Half-orc or orc, worshiper of the Fire God || Heal your wounds if you deal fire damage to an enemy
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=First%20General%20of%20the%20East First General of the East] || 冒险之路139：死者之路 || Origin || — || Character level 5th, shabti || gain greater magic weapon as a spell-like ability
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Flame-Tested%20Survivor Flame-Tested Survivor] || 烈焰传承玩家手册 || Achievement || — || Knocked unconscious or killed by fire damage at least 10 times || Gain fire resistance 5 and +2 save vs. all fire effects
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Flaying%20Critical Flaying Critical] || 屠龙者手册 || Critical || 是 || Critical Focus, base attack bonus +11 || Reduce the opponent’s natural armor when scoring a critical hit
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Flensing%20Strike Flensing Strike] || 再探恶魔 || — || — || Sneak attack +3d6, bleeding sneak attack rogue trick or bleed universal monster ability || Strip away natural armor with your sneak attacks.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Flexible%20Shadow%20Jump Flexible Shadow Jump] || 阴影血脉 || — || 是 || Shadow jump shadowdancer class feature || Improve your shadow jump flexibility
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Forward%20from%20Beneath Forward from Beneath] || 皇冠战争 || Story || — || Be a member of House Kastner, be a good-aligned member of a family or organization whose secret evil has been publicly revealed, or have the Dishonored Family or Betrayal backgrounds || Gain a +2 bonus on Disguise checks and the ability to fake an evil alignment for detection spells
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Frightful%20Suggestion Frightful Suggestion] || 龙陨守卫 || — || — || Frightful presence, true dragon || Make suggestions to those affected by your fightful presence
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Ghost%20Hunting%20Team Ghost Hunting Team] || 位面旅者手册 || — || 是 || Duskwalker, ghost hunter racial trait || You can grant the ghost touch property to your allies weapons
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Gift%20of%20Sight Gift of Sight] || 再探经典怪物 || — || — || Troll, patron deity Urxehl || Read the future within your entrails
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Gifted%20Mesmerist Gifted Mesmerist] || 烈焰传承玩家手册 || Achievement || — || Successfully affect 25 different targets with charm or compulsion spells || Gain a charm or compulsion spell-like ability
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Gilded%20Weapons Gilded Weapons] || 位面旅者手册 || — || 是 || Aphorite, crystalline dust racial trait, nonchaotic alignment || Expend uses of crystalline dust to deal extra damage to chaotic creatures
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Golem%27s%20Conviction Golem's Conviction] || 杜鲁玛，利益与预言 || — || 是 || Improved Iron Will, Iron Will, base attack bonus +8 || When initially mind controlled, temporarily retain some autonomy
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Grand%20Master%20Performer Grand Master Performer] || 组织指南 || Faction || — || Bardic performance class feature, Extra Performance, Master Performer, bard level 8th, Kitharodian Academy 20 TPA || Increase the bonus of your bardic abilities by +1
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Graverisen Graverisen] || 烈焰传承玩家手册 || Achievement || — || Die and be brought back at least twice || Gain a supernatural ability to save yourself from death
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Gravitational%20Vital%20Strike Gravitational Vital Strike] || 位面冒险 || — || 是 || Vital Strike; Heavy Gravity Acclimation or Light Gravity Acclimation || Deal additional damage in heavy or light gravity
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Subjective%20Slam Greater Subjective Slam] || 位面冒险 || — || 是 || Con 15; Wis 15; Subjective Mobility; Subjective Slam; base attack bonus +8 or monk level 7th || Lessen check penalty and increase maximum damage when using Subjective Slam
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Uncivilized%20Tactics Greater Uncivilized Tactics] || 荒野英雄 || — || 是 || Str 13, Improved Uncivilized Tactics, Power Attack, Uncivilized Tactics || +2 bonus to use Uncivilized Tactics, foes take longer to recover limbs or attacks affected
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Grenade%20Expert Grenade Expert] || 铁牙入侵 || — || 是 || Throw Anything || Decide exactly when one of your alchemical grenades explodes
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Groom Groom] || 极限诡道 || — || — || Character level 4th || You recruit a professional groom to care for your mount.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Gruesome%20Shapechanger Gruesome Shapechanger] || 惧怖冒险 || Monster || — || Shapechanger subtype || Bloody transformation sickens foes and makes area slippery
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Gunslinger Gunslinger] || 探索者编年史：战役设定 || — || — || Base attack bonus +4, Weapon Focus (any firearm), proficiency with any firearm || Stop provoking attacks of opportunity with firearms
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Healer%27s%20Touch Healer's Touch] || 烈焰传承玩家手册 || Achievement || — || Cure 1,000 points of damage with healing spells || Maximize all your healing spells
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Heightened%20Trap%20Sense Heightened Trap Sense] || 奥西里昂：法老之地 || — || — || Search 6 ranks, trap sense +1 || Make automatic Search checks when near traps
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Hellcat%20Pounce Hellcat Pounce] || 切里亚斯，魔鬼王朝 || — || 是 || Hellcat Stealth, Skill Focus (Stealth), sneak attack +2d6 || Make a second attack in the surprise round
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Herbal%20Components Herbal Components] || 荒野英雄 || — || 是 || Eschew Materials || Use herbalism to replace some of the cheaper spell components
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=History%20of%20Scars History of Scars] || 烈焰传承玩家手册 || Achievement || — || Take a cumulative 1,000 points of damage || Increase your natural armor with thick scars
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Horrific%20Gorging Horrific Gorging] || 惧怖冒险 || — || — || Bite attack, Large or larger, swallow whole universal monster ability || Swallow one foe to make its allies shaken
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Impaling%20Charge Impaling Charge] || 再探经典怪物 || — || — || Gore attack, powerful charge || Start a grapple with a charge attack
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Death-Stealing Improved Death-Stealing] || 再探恶魔 || — || — || Nabasu, Ability Focus (death-stealing gaze || Your undead spawn rise as more powerful creatures.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Infuse%20Weapon Improved Infuse Weapon] || 再探恶魔 || — || — || Infuse weapon special ability, Cha 27 || Add additional magical qualities when you infuse weapons.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Learn%20Ranger%20Trap Improved Learn Ranger Trap] || 格拉利昂的狗头人 || — || — || Learn Ranger Trap, Survival 8 ranks. || Learn a new ranger trap and the ability to use both Ex and Su versions of traps you know
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Possession Improved Possession] || 再探恶魔 || — || — || Demonic Possession or shadow demon, Cha 25 || Improve the power and duration of your magic jar spell-like ability.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Roar Improved Roar] || 再探神秘怪物 || — || — || Con 17, bunyip, roar special attack || Increase the power and range of the bunyip’s roar
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Stellar%20Wanderer Improved Stellar Wanderer] || 位面旅者手册 || — || — || Stellar Wanderer, Knowledge (planes) 15 ranks || When you use Stellar Wanderer, you can bring along up to 8 creatures
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Uncivilized%20Tactics Improved Uncivilized Tactics] || 荒野英雄 || — || 是 || Str 13, Power Attack, Uncivilized Tactics || +2 bonus to use Uncivilized Tactics, stop provoking attacks when using
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Incorporeal%20Intuition Incorporeal Intuition] || 惧怖冒险 || — || 是 || Psychic SensitivityOA or the ability to cast psychic spells, Spirit SenseOA || Notice adjacent incorporeal creatures inside walls
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Indigestible Indigestible] || 再探地城住民 || — || 是 || Favored enemy (ooze) or survived engulfing by an ooze || Gain acid resistance 5
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Ineffable%20Count%20of%20the%20Clock Ineffable Count of the Clock] || 位面旅者手册 || Gathlain Court Title || 是 || Fey creature type or Fey Obedience (Shyka), you must have either visited or interacted with an outsider from the Dimension of Time || You can borrow speed from the future
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Infectious%20Weapons Infectious Weapons] || 木乃伊面具 || — || 是 || Ability to cause disease with a natural weapon via an extraordinary or supernatural ability || Your disease spreads to the weapons you wield
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Infernal%20Legist Infernal Legist] || 永罪之书 || — || — || Devil subtype || You can instantly create a diabolic contact.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Inner%20Light%20%28UW%29 Inner Light (UW)] || 极限荒野 || — || 是 || Wis 13, ghoran || Gain daylight 1/day
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Instrumental Instrumental] || 再探经典宝藏 || — || 是 || Bardic Performance class feature, Perform (any instrument) 3 ranks || Start bardic performances with free when activating magical instruments
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Intensified%20Spell-Like%20Ability Intensified Spell-Like Ability] || 惧怖冒险 || Monster || — || Spell-like ability at caster level 4th or higher || Spell-like ability has a higher damage dice cap
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Invested%20Magic Invested Magic] || 冒险之路30：两度受诅的王子 || — || — || — || Use gold or gems instead of normal spell material components
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Iomedaean%20Sword%20Oath Iomedaean Sword Oath] || 冒险之路26：六重审判 || — || 是 || Prof. in longsword, Weapon Focus (longsword), BAB +4, worships Iomedae || Unlock fighter-only feats for longswords
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Jackal%20Blood Jackal Blood] || 黑暗市集：卡塔佩什指南 || — || 是 || — || +4 save vs. sleep effects, +2 Listen checks
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Katheer%20Scholar Katheer Scholar] || 探索者编年史：战役设定 || — || — || Int 15, Qadira affinity || Gain bonus damage using your Knowledge skills
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Knight%20of%20the%20Twisted%20Word Knight of the Twisted Word] || 位面旅者手册 || Gathlain Court Title || 是 || Fey creature type or Fey Obedience (Count Ranalc), character level 7th, you must have betrayed or deceived in a major fashion a demon with a CR at least 2 higher than your level when you took the feat || Gain glibness as a spell-like ability used once per day
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Kudzu%20Invasion Kudzu Invasion] || 荒野源始 || — || 是 || Dex 13, Greater Grapple, Improved Grapple, Improved Unarmed Strike, Kudzu Grappler, base attack bonus +6 or monk level 6th, vine leshy || Damage creatures when using Kudzu Grappler
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Kudzu%20Takeover Kudzu Takeover] || 荒野源始 || — || 是 || Dex 13, base attack bonus +6 or monk level 6th, Greater Grapple, Improved Grapple, Improved Unarmed Strike, Kudzu Grappler, Kudzu Invasion, vine leshy || Increase the miss chance inflicted with Kudzu Grappler
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Lady%20Luck%27s%20Guidance Lady Luck's Guidance] || 位面旅者手册 || — || 是 || Knowledge (geography) 5 ranks, Knowledge (planes) 5 ranks || Travel twice as far during overland travel
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Lamashtu%27s%20Mark Lamashtu's Mark] || 符文领主的崛起 || — || — || Con 13, Lamashtu as patron deity || Identify yourself as favored of Lamashtu, invoke her name to deform your enemies
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Latching%20Horror Latching Horror] || 惧怖冒险 || — || — || Attach universal monster ability || A foe is shaken when you attach to it
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Lead%20from%20the%20Back Lead from the Back] || 格拉利昂的地精 || — || — || Goblin, Intimidate 1 rank || Give allies encouagement from cover.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Lector%20Priest Lector Priest] || 冒险之路139：死者之路 || Origin || — || Shabti || Roll twice and take the better result on Spellcraft skill checks
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Lengthy%20Potion Lengthy Potion] || 药剂与毒药 || — || — || Brew Potion, caster level 10th || Potions you create last longer
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Let%20Them%20Come Let Them Come] || 组织指南 || Faction || — || Dwarf, Ninth Battalion TPA 25 || Treat all one- or two-handed melee weapons as if they had the brace special feature
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Letter%20Fury Letter Fury] || 格拉利昂的地精 || — || — || Goblin, rage class feature || Activate extra rage when someone reads.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Lifeless%20Gaze Lifeless Gaze] || 惧怖冒险 || — || 是 || Iron Will, Bluff 5 ranks || Gain bonuses against emotions, and those who read your mind or fail to impress you gain the shaken condition
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Light%20Bearer Light Bearer] || 极限诡道 || — || — || Character level 4th || You recruit a torchbearer who joins you on your adventures to help illuminate even the darkest dungeons.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Light%20Gravity%20Acclimation Light Gravity Acclimation] || 位面冒险 || — || 是 || Dex 13, Acrobatics 3 ranks || You are faster and harder to hit on light gravity planes, and you gain +2 on Acrobatics checks
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Lighting%20the%20Way Lighting the Way] || 皇冠战争 || Story || — || Be a member of House Zespire, or have the Devoted, Exemplar, Marked by the Gods, or Righteous Mentor background || Once per day, grant your allies a +1 bonus on attack rolls and saving throws against mind-affecting effects
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Lingering%20Spell-Like%20Ability Lingering Spell-Like Ability] || 惧怖冒险 || Monster || — || Spell-like ability at caster level 4th or higher. || Instantaneous spell-like ability lasts another round
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Lone%20Wolf Lone Wolf] || 符文领主崛起玩家手册 || — || — || 1st-level character, cannot have City Born or Country Born || Stabilize easier when dying and gain a +1 bonus to Fortitude saves
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Lonely%20Death Lonely Death] || 位面旅者手册 || Origin || — || Duskwalker || When reduced to below 0 hit points, you can move and hide as an immediate action
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Lost%20in%20the%20Crowd Lost in the Crowd] || 奥西里昂：法老之地 || — || — || — || Hide easier when in crowds, and gain a bonus to AC when threatened by multiple enemies
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Marcher-Lord%20of%20the%20Cerulean%20Abyss Marcher-Lord of the Cerulean Abyss] || 位面旅者手册 || Gathlain Court Title || 是 || Fey creature type or Fey Obedience (Ragadahn), you must have carved your name and Ragadahn's holy symbol on the hide of a living dragon or outsider with either the aquatic or water subtype and a CR at least 2 higher than your level when you took the feat || Creatures you hit take a -2 penalty to CMB and CMD for one round
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Mark%20of%20the%20Devoted Mark of the Devoted] || 不死生物横行 || — || — || 1st-level character, human of Mwangi ethnicity, Walkena worshiper, must personally create a token worth at least 50 gp prior to an 8-hour branding ritual during which you survive taking 2d6 points of fire damage || Dedicate yourself to Mzali, rising as a juju zombie when you are killed
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Massed%20Charge Massed Charge] || 探索者编年史：战役设定 || — || — || Mounted Combat, Handle Animal 4 ranks, Ride 9 ranks, Lastwall affinity || Suffer no penalites when squeezing with other riders and gain bonuses to combat maneuvers
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Master%20of%20Disguise Master of Disguise] || 冒险之路22：永恒的终结 || — || — || Cha 12, Skill Focus (Disguise) 5 ranks || Gain a +4 Disguise to impersonate a specific individual
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Master%20Performer Master Performer] || 组织指南 || Faction || — || Bardic performance class feature, Extra Performance, Kitharodian Academy 15 TPA || Increase your bardic performance bonuses by +1
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Merciful%20Takedown Merciful Takedown] || 武术手册 || — || 是 || — || You can knock a creature out with a coup de grace
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Merciless%20Magic Merciless Magic] || 格拉利昂的狗头人 || — || — || Ability to cast spells, kobold. || Enemies under a negative condition find it harder to resist your spells
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Merciless%20Precision Merciless Precision] || 格拉利昂的狗头人 || — || — || Sneak attack class feature, kobold. || Enemies with negative conditions take more sneak attack damage
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Mighty%20Boughs Mighty Boughs] || 荒野源始 || — || — || Str 15, character level 11th, gathlain || Gain two wing attacks
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Minotaur%27s%20Charge Minotaur's Charge] || 再探经典怪物 || — || 是 || Str 13, Improved Bull Rush, powerful charge || Initiate a bull rush with a charge attack
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Mixed%20Scales Mixed Scales] || 格拉利昂的狗头人 || — || — || Draconic AspectARG or dragon-scaled racial traitARG, kobold. || Gain the powers of two scale colors
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Modification%20Master Modification Master] || 冒险者的军械库2 || — || — || Creative Armorsmith, Armor Adept, and Craft (armor) 7 ranks, or Creative Weaponsmith, Weapon Adept, and Craft (weapons) 7 ranks; Knowledge (engineering) 7 ranks || You can add an armor or weapon modification to an item that already has a modification
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Modification%20Trainer Modification Trainer] || 冒险者的军械库2 || — || 是 || Cha 13, Armor Adept or Weapon Adept, fighter level 4th || You can train others to use modified armor or weapons
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Molthuni%20Discipline Molthuni Discipline] || 探索者编年史：战役设定 || — || — || Molthune affinity || Learn to resist fear effects
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Monstrous%20Companion Monstrous Companion] || 部属与伙伴 || — || — || Handle Animal 7 ranks; class feature that functions as the druid animal companion ability (including animal companion, divine bond [mount], hunter’s bond [animal companion], nature’s bond [animal companion], and the mount class feature) with an effective druid level of 7 || Gain an exotic monstrous cohort
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Morrigna%27s%20Wrappings Morrigna's Wrappings] || 冒险之路139：死者之路 || — || — || Character level 9th, duskwalker, ward against corruption racial trait || Use a spider web to increase your racial resistance to death magic
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Multiweapon%20Specialist Multiweapon Specialist] || 再探恶魔 || — || — || Three or more arms, Dex 21 || Gain bonus damage when the weapons you wield are from the same group.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Mutilating%20Ritualist Mutilating Ritualist] || 惧怖冒险 || — || 是 || Knowledge (arcana) 4 ranks, Knowledge (religion) 4 ranks, Spellcraft 4 ranks || Mutilate yourself to enhance a ritual
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Mystical%20Reverberation Mystical Reverberation] || 荒野英雄 || Teamwork || 是 || Ability to spontaneously cast spells || Grant an ally use of a metamagic feat you know
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Nameless%20Servitor Nameless Servitor] || 组织指南 || Faction || — || Risen Guard rank, Risen Guard 10 TPA || Block attempts to learn personal information about you through divination magic
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Natural%20Jouster Natural Jouster] || 冒险之路69：少女、母亲、老妪 || — || — || Centaur (or any tauric creature at the GM’s discretion) || Wield a lance with improved proficiency
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Natural%20Pathseeker Natural Pathseeker] || 幽暗地域英雄 || — || 是 || Favored terrain class feature || Gain a bonus to Acrobatics, Climb, and Swim in favored terrains
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Necromantic%20Resistance Necromantic Resistance] || 探索者编年史：战役设定 || — || — || Con 13, Geb affinity || Learn to resist necromantic spells and reduce damage from the undead
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Never%20Conquered%2C%20Forever%20Feared Never Conquered, Forever Feared] || 皇冠战争 || Story || — || Be a member of House Heskillar, or have the Adopted by Dragons, Path of Righteous Rage, or Proud Heritage background || Gain a +2 bonus on Intimidate checks and on saving throws against paralysis and sleep
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Noble%20Scion%20%28Cheliax%29 Noble Scion (Cheliax)] || 探索者编年史：战役设定 || — || — || Cheliax affinity, member of Chelish noble house || Gain a bonus from your noble house
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Nosoi%27s%20Spiritsense Nosoi's Spiritsense] || 冒险之路139：死者之路 || — || — || Duskwalker || Gain detect undead as an at-will spell-like ability
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Obscuring%20Beacon Obscuring Beacon] || 幽暗地域英雄 || — || 是 || — || Use your light to dazzle foes
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Ogre%20Crush Ogre Crush] || 怪物志 || — || — || Str 25, Improved Grapple, Improved Unarmed Strike, ogre, size Large or larger || Increase unarmed damage while grappling, gain the constrict ability
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Old%20Cults%20Awakener Old Cults Awakener] || 组织指南 || Faction || — || Old Cults 20 TPA || Implant visions of the Old Ones into others
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Ominous%20Mien Ominous Mien] || 组织指南 || Faction || — || Hellknight rank, Hellknight 10 TPA || Add +1 to DC of compulsion, fear, phantasm, and shadow spells
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=One%20Finger One Finger] || 探索者编年史：战役设定 || — || — || Dex 13, Wis 13, Improved Unarmed Strike, Stunning Fist, Weapon Finesse, base attack bonus +8, ki strike class ability || Make stunning fist attacks as melee touch attacks
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Ooze%20Companion Ooze Companion] || 再探地城住民 || — || — || Ooze Whisperer, animal companion, wild empathy || Bond with an ooze as an animal companion
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Ooze%20Whisperer Ooze Whisperer] || 再探地城住民 || — || 是 || Wild empathy class feature || Learn to use your magic and empathy to influence oozes
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Open%20Conduit Open Conduit] || 位面冒险 || — || 是 || Knowledge (planes) 5 ranks or outsider with the native subtype || You can use a conduit feat more often
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Opportunistic%20Grappler Opportunistic Grappler] || 反英雄手册 || — || 是 || — || Make a dirty trick manuever against a creature grappling you
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Osirionology Osirionology] || 沙之子民 || — || — || Knowledge (history) 1 rank, Knowledge (local) 1 rank, must be able to speak Osiriani and Ancient Osiriani || Gain bonuses to intelligence-based skill checks made in relation to Osirion
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Osiriontologist Osiriontologist] || 奥西里昂：法老之地 || — || — || Knowledge (history) 4 ranks, Knowledge (local) 4 ranks, Speak Language (Osiriani, Ancient Osiriani) || Gain bonuses to multiple skills while in Osirion
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Our%20Bounty%2C%20Our%20Glory Our Bounty, Our Glory] || 皇冠战争 || Story || — || Be a member of House Denzarni, or have the Bloodthirsty, Omen, Tree Tender, or Unsuspecting Master background || You can go longer without food and water
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Overseer%20of%20the%20House%20of%20Truth Overseer of the House of Truth] || 冒险之路139：死者之路 || Origin || — || Shabti || Gain additional uses of your suggestion suggestion spell-like ability
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Page Page] || 极限诡道 || — || — || Character level 4th, proficiency with martial weapons || You recruit a page who heralds your approach and has the ability to smooth the path of your diplomatic missions.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Partner Partner] || 卡蒂亚，东方明珠 || — || — || See text || 
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Pathfinder%20Society%20Ally Pathfinder Society Ally] || 邪恶特务 || — || 是 || Associate (Pathfinder Society) || Gain access to the vast archives of the Pathfinder Society
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Penetrating%20Possession Penetrating Possession] || 再探恶魔 || — || — || Magic jar as a known spell or spell-like ability, Cha 21 || Gain the chance to dispel a protective spell before attempting possession.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Pesh%20Euphoria Pesh Euphoria] || 黑市指南 || — || — || Sahir-Afiyun or pesh addict || Better resist emotion and fear effects while under pesh
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Pesh%20Healing Pesh Healing] || 黑市指南 || — || — || Sahir-Afiyun or pesh addict || Gain temporary hit points after taking pesh
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Pesh%20Rejuvenation Pesh Rejuvenation] || 黑市指南 || — || — || Sahir-Afiyun or pesh addict || Convert pesh into extra health when dropping unconscious
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Pestilent Pestilent] || 木乃伊面具 || — || 是 || Ability to cause disease via a spell, spell-like ability, or supernatural means || Deal extra damage to those infected with a disease you inflict
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Piercing%20Gambit Piercing Gambit] || 反英雄手册 || Teamwork || — || Spell Penetration or Bluff 3 ranks; caster level 1st || Expend spell or spell slot to give ally spellcaster a bonus to overcome spell resistance
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Pinpoint%20Jab Pinpoint Jab] || 武术手册 || — || 是 || Improved Unarmed Strike, base attack bonus +6, ki pool or martial flexibility class feature || You can use a limited form of the swashbuckler's targeted strike deed
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Planar%20Sensitivity Planar Sensitivity] || 冒险之路105：炼狱之门 || — || — || Knowledge (planes) 3 ranks || Sense and manipulate connections between the planes
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Planar%20Survivor Planar Survivor] || 位面冒险 || — || 是 || Knowledge (planes) 3 ranks, Survival 3 ranks || Gain +2 on Survival on other planes and +2 on saves against planar hazards
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Planewalker%27s%20Insight Planewalker's Insight] || 位面冒险 || — || 是 || — || Gain +2 on Knowledge (planes) checks and on Sense Motive checks against outsiders; Knowledge (planes) is a class skill for you
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Polytheistic%20Blessing Polytheistic Blessing] || 格拉利昂的陵墓 || — || — || Wis 13, must worship a pantheon || Gain a small bit of divine power by worshipping a pantheon
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Possess%20Creature Possess Creature] || 冒险之路28：炼狱综合征 || Monster || — || Cha 20, any evil outsider with 10 or more Hit Dice || Powerful fiends have the ability to merge with creatures and spread their foul influence
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Possess%20Location Possess Location] || 冒险之路28：炼狱综合征 || Monster || — || Cha 16, any evil outsider with 8 or more Hit Dice || Some fiends have the ability to merge with the land or a structure and spread their foul influence
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Possess%20Object Possess Object] || 冒险之路28：炼狱综合征 || Monster || — || Cha 18, any evil outsider with 9 or more Hit Dice || Some fiends have the ability to merge with an object and spread their foul influence
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Practiced%20Dreamer Practiced Dreamer] || 位面旅者手册 || — || — || Cha 15, Lucid Dreamer, Knowledge (planes) 5 ranks || Reroll an attempt at an impossible action in the Dimension of Dreams once per day
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Primal%20Ancestry Primal Ancestry] || 安多安：自由诞生之地 || — || 是 || Wis 13, member of the Primordial One || Tap into the essence of the First World to gain DR/cold iron
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Profane%20Studies Profane Studies] || 惧怖冒险 || — || 是 || Int 13, Knowledge (planes) 4 ranks, ability to cast a summon monster spell || Gain +5 on Knowledge checks and +2 CL on durations involving evil outsiders
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Profits%20of%20Kalistrade Profits of Kalistrade] || 探索者编年史：战役设定 || — || — || Diplomacy 1 rank, Druma affinity || Gain a unique resource pool to access
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Prosperity%20and%20Pride Prosperity and Pride] || 皇冠战争 || Story || — || Be a member of House Corcina, or have the Craftsperson, Inheritance, Well-Connected Friend, or Worldshaker background || Gain a +2 bonus on Appraise and Diplomacy checks in large cities
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Pungent%20Stench Pungent Stench] || 再探恶魔 || — || — || Stench universal monster ability, Improved Stench, Great Fortitud || Your stench becomes more nauseating.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Purging%20Emesis Purging Emesis] || 惧怖冒险 || — || 是 || Great Fortitude || Vomit an ingested poison
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Putrid%20Summons Putrid Summons] || 惧怖冒险 || — || 是 || Spell Focus (conjuration); ability to cast summon monster or summon nature’s ally || Summon a single weaker creature that has a horrific stench
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Quick%20at%20Hand Quick at Hand] || 再探经典怪物 || — || — || Ogre || Use anything as an improvised melee or ranged weapon
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Quick%20Trapper Quick Trapper] || 铁牙入侵 || — || 是 || Learn Ranger Trap or trap class feature, Survival 5 ranks || Reduce the DC to set traps by 5 and learn to do so as a standard action
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Quillbreaker%20Defense Quillbreaker Defense] || 魔法市集指南 || — || 是 || Proficiency with armor spikes || Use your armor spikes to reduce damage
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Rahadoumi%20Exorcist Rahadoumi Exorcist] || 闹鬼英雄手册 || — || 是 || Iron Will, can’t have a patron deity || Stagger incorporeal undead and possessing creatures
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Rallying%20Blow Rallying Blow] || 木乃伊面具 || — || 是 || Aura of courage || Confirming critical hits helps to remove fear from your allies
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Reach%20Spell-Like%20Ability Reach Spell-Like Ability] || 惧怖冒险 || Monster || — || Spell-like ability at caster level 4th or higher || Spell-like ability gains a longer range
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Recalcitrant Recalcitrant] || 铁牙入侵 || — || — || Iron Will, hobgoblin || You better resist attempts to control or manipulate you
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Red%20Mantis%20Collaborator Red Mantis Collaborator] || 邪恶特务 || — || — || Associate (Red Mantis) || Association with the Red Mantis makes you harder to find
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Reflexive%20Crystalline%20Dust Reflexive Crystalline Dust] || 位面旅者手册 || — || 是 || Swift Crystalline Dust, aphorite, crystalline dust racial trait || You can use crystalline dust as an immediate action
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Relentless%20Butcher Relentless Butcher] || 烈焰传承玩家手册 || Achievement || — || Confirm at least 50 critical hits || Stun your opponents when you critically hit
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Religious%20Pilgrim Religious Pilgrim] || 奥西里昂：法老之地 || — || — || Knowledge (geography) 2 ranks, Knowledge (religion) 4 ranks || Gain bonuses to Will saves, Diplomacy checks, and Survival checks. Also buy non-magical religious items at a discount
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Respectful%20Prey Respectful Prey] || 闹鬼英雄手册 || — || 是 || — || Give a creature food to make it friendly
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Rugged Rugged] || 探索者编年史：战役设定 || — || — || Endurance, member of a Mammoth Lord’s following || Resist cold attacks and move normally across ice
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Ruincaster Ruincaster] || 探索者编年史：战役设定 || — || — || Wis 15, ability to cast spells, Mwangi Expanse affinity || Tap into the latent energies of Mwangi ruins
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Sable%20Company%20Marine Sable Company Marine] || 科瓦萨指南 || — || — || Ride 6 ranks, ranger level 4th || Gain a hippogriff as your animal companion
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Sacrificial%20Adept Sacrificial Adept] || 惧怖冒险 || — || — || Knowledge (arcana) 4 ranks, Knowledge (planes) 4 ranks, Knowledge (religion) 4 ranks, Spellcraft 4 ranks, ability to cast 3rd-level spells, evil alignment || Kill sentient creatures to enhance your spells
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Sacrificial%20Aid Sacrificial Aid] || 反英雄手册 || Teamwork || 是 || Teamwork || Allies can aid another on Disable Device, at the risk of being the target of the trap
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Sacrificial%20Ritualist Sacrificial Ritualist] || 惧怖冒险 || — || — || Mutilating Ritualist, Knowledge (arcana) 4 ranks, Knowledge (religion) 4 ranks, Spellcraft 4 ranks || Kill sentient creatures to enhance your ritual
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Saddle%20Shrieker Saddle Shrieker] || 格拉利昂的地精 || — || — || Goblin, Ride 1 rank || Take a penalty on attacks to grant your mount a bonus to attack and damage.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Sahir-Afiyun Sahir-Afiyun] || 黑市指南 || — || — || Spell Focus (any), ability to cast 2nd-level spells || Add pesh-related spells to your own
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Sand%20Strike Sand Strike] || 缘界英雄 || — || 是 || Improved Unarmed Strike, dwarf, proficiency with the cestus || Increase the durability of your cestus and use dirty tricks to blind your opponents
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Sandwalker Sandwalker] || 烈焰传承玩家手册 || — || 是 || Dex 13, Con 13 || Move faster in the desert
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Scaled%20Disciple Scaled Disciple] || 格拉利昂的狗头人 || — || — || Ability to spontaneously cast divine spells, kobold. || Increased effectiveness with the dragon domain/subdomains
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Scapegoat Scapegoat] || 巫团血脉 || — || 是 || Great Fortitude or Iron Will || Become resistant to curses
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Scarring%20Spell-Like%20Ability Scarring Spell-Like Ability] || 惧怖冒险 || Monster || — || Spell-like ability at caster level 4th or higher || Spell-like ability causes penalties against emotionUM effects
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Scavenger%27s%20Luck Scavenger's Luck] || 科技指南 || — || 是 || Knowledge (engineering) 1 rank || When using timeworn technology, roll twice to determine the glitch effect
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Scent%20of%20Fear Scent of Fear] || 再探经典怪物 || — || — || Scent, any evil || Smell frightened creatures from farther away and gain a bonus to attack them
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Scribe%20Spell%20Equation Scribe Spell Equation] || 位面旅者手册 || — || — || Scribe Scroll, aphorite, caster level 5th, crystalline dust racial trait || You can scribe scrolls into your body
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Searing%20Distraction Searing Distraction] || 幽暗地域英雄 || — || 是 || Catch Off-Guard || Blind and dazzle creatures with a torch
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Secret%20Capital Secret Capital] || 安多安：自由诞生之地 || — || — || Int 13, member of the Seven Houses || Access family connections and secret funds to buy capital at 75% cost
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Secret%20Language Secret Language] || 部属与伙伴 || Teamwork || 是 || Bluff 1 rank, Linguistics 1 rank, Sense Motive 1 rank || Learn a complex set of codes and phrases in order to quickly and discreetly share information with allies
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Seize%20Advantage Seize Advantage] || 进阶职业指南 || — || 是 || Opportune parry and riposte deed || Add foe’s Power Attack damage to your riposte
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Sense%20Metals%20and%20Minerals Sense Metals and Minerals] || 幽暗地域英雄 || — || 是 || — || Gain bonuses to Appraise and Perception with metal and gems
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Shambling%20Monolith Shambling Monolith] || 再探地城住民 || — || — || Shambling mound || Increase your size with extra vegetable matter
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Shapeless%20Familiar Shapeless Familiar] || 荒野源始 || — || 是 || Familiar class feature, caster level 7th || Your familiar can change shape
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Shield%20Snag Shield Snag] || 魔法市集指南 || — || 是 || Improved Shield Bash, Shield Proficiency, Two-Weapon Fighting, base attack bonus +6 || Disarm enemies with your shield and use it to stabilize yourself
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Shingle%20Runner Shingle Runner] || 猩红王座的诅咒 || — || — || Dex 13, Acrobatic || +2 Acrobatics/Climb, take 10 on Climb, fall down from heights easier
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Shocking%20Bellow Shocking Bellow] || 怪物志 || — || 是 || Intimidating Prowess || Demoralize for free during the surprise round
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Shoki%27s%20Argument Shoki's Argument] || 冒险之路139：死者之路 || — || — || Ability to cast disrupt undead, character level 3rd, duskwalker || Increase the damage of disrupt undead by 1/6 damage/3 levels
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Shrewd%20Liason Shrewd Liason] || 探索者编年史：战役设定 || — || — || Mediogalti affinity || Prevent flanking and resist feint attacks
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Sickening%20Spell-Like%20Ability Sickening Spell-Like Ability] || 惧怖冒险 || Monster || — || Spell-like ability at caster level 6th or higher || Spell-like ability sickens damaged foes
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Silent%20as%20Stone Silent as Stone] || 再探地城住民 || — || — || Roper, Stealthy || Become much stealthier in rocky environments
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Silent%20Performer Silent Performer] || 组织指南 || Faction || — || Bardic performance class feature, Extra Performance, Master Performer, bard level 12th, Kitharodian Academy 15 TPA || Use bardic performance without making a sound
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Sin-Sharing%20Critical Sin-Sharing Critical] || 巫团血脉 || Critical || 是 || Critical Focus, base attack bonus +13 || Share your curses with an opponent after confirming a critical hit
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Sinuous%20Vines Sinuous Vines] || 荒野源始 || — || — || Dex 13, Improved Grapple, Improved Unarmed Strike, base attack bonus +6, gathlain || Gain a +2 on checks to grapple and use your wings as a free hand
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Skin%20Suit Skin Suit] || 惧怖冒险 || Monster || — || Int 7, undead creature that was originally humanoid. || Hide in false flesh during the day
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Slow%20Exhalation Slow Exhalation] || 龙陨守卫 || — || — || Breath weapon, true dragon || Release your breath weapon as you bite an enemy
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Sly%20Draw Sly Draw] || 冒险者的军械库 || — || 是 || Quick Draw || Use Sleight of Hand in place of Bluff to feint
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Small%20But%20Deadly Small But Deadly] || 格拉利昂的狗头人 || — || — || Weapon Focus or natural weapon, Small size or smaller. || Ignore strength penalty to damage with racial natural weapons and Weapon Focused weapons
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Sniper%20Shot Sniper Shot] || 探索者编年史：战役设定 || — || — || Int 13, Wis 13, Far Shot, Focused Shot, Point-Blank Shot, Precise Shot, Kyonin affinity || Deal extra damage with ranged weapons based on distance
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Snuffing%20Spell Snuffing Spell] || 阴影血脉 || Metamagic || 是 || — || Modify your magic to extinguish light sources
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Sow%20Terror Sow Terror] || 再探经典怪物 || — || — || Stealthy || Create terror while hiding from your opponents
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Spark%20of%20the%20Uncanny Spark of the Uncanny] || 荒野源始 || — || 是 || Familiar class feature || Your familiar can speak a language you know
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Spawnlink Spawnlink] || 惧怖冒险 || Monster || — || Int 13, create spawn monster ability. || See through spawn’s eyes
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Bluff%20%28AH%29 Spell Bluff (AH)] || 反英雄手册 || Teamwork || 是 || Teamwork || If ally is in the area of a damaging spell, enemies also in the area take a penalty to their saving throws vs the spell
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Praxis Spell Praxis] || 位面旅者手册 || — || — || Scribe Scroll, Scribe Spell Equation, aphorite, caster level 5th, crystalline dust racial trait || You can activate a stored spell when you successfully hit a creature
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Spellmirror Spellmirror] || 荒野源始 || — || — || Cha 13, character level 6th, ghoran, spelleater racial trait || You can use your spelleater racial trait as an immediate action
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Spirit%20of%20the%20River Spirit of the River] || 探索者编年史：战役设定 || — || — || Aquatic subtype, Knowledge (nature) 1 rank || Breathe air or water interchangeably
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Spirit%20Speaker Spirit Speaker] || 惧怖冒险 || — || 是 || Cha 13, Con 13, Absorb Spirit, Diplomacy 5 ranks, must have died at least once or been possessed by an undead creature. || Talk to spirits you’ve absorbed
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Spirit%20Strike Spirit Strike] || 探索者编年史：战役设定 || — || — || Knowledge (religion) 5 ranks, ability to turn undead, at least one favored enemy || Expend turn undead uses to imbue weapons with bane
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Spirit%20Vision Spirit Vision] || 再探恶魔 || — || — || Magic jar as a known spell or spell-like ability, Wis 15 || Increase your senses while using magic jar.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Stable%20Spell Stable Spell] || 重生熔炉的守护者 || Metamagic || — || — || Cast spells in areas of primal magic with less chance of triggering a primal magic event
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Standing%20Tall Standing Tall] || 皇冠战争 || Story || — || Be a member of House Fahlspar, or have the Hunter, Nature, or Tree Tender background || Once per day, gain a +2 bonus to saving throws against mind-affecting effects
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Stellar%20Wanderer Stellar Wanderer] || 位面旅者手册 || — || — || Character level 15, Knowledge (planes) 10 ranks || You can use plane shift once per week
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Stone%20Awareness Stone Awareness] || 巨人再临 || — || — || Wis 13, Perception 10 ranks, stone giant || Gain tremorsense when in contact with earth or stone.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Stone%20Clinger Stone Clinger] || 再探地城住民 || — || — || Roper || Gain a climb speed and learn to attack from the ceiling
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Stone%20Magic Stone Magic] || 巨人再临 || — || — || Cha 17, stone giant elder (age 700 years or older) || Learn new spell-like abilities.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Storm%20of%20Blades Storm of Blades] || 武术手册 || — || 是 || Weapon Focus with slashing weapon, base attack bonus +6 || Deal damage to all adjacent creatures with a slashing weapon
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Stormstruck%20Shambler Stormstruck Shambler] || 再探地城住民 || — || — || Shambling mound, must have been struck by lightning || Charge your limbs with electricity
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Stouthearted Stouthearted] || 进阶职业指南 || — || 是 || Raging song class feature || Use raging song to reroll failed saves against fear effects
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Strangler%20%28MC%29 Strangler (MC)] || 怪物志 || — || 是 || Exotic Weapon Proficiency (lasso), Weapon Focus (lasso) || Choke foes with a lasso, preventing them from speaking
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Strength%20of%20the%20Diamond Strength of the Diamond] || 暗月谷指南 || — || — || Con 13, Wis 13, character level 3rd, member of the Diamond Regiment || Take less effects from fear
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Strength%20of%20Wood Strength of Wood] || 荒野源始 || — || — || Con 13, gathlain || Once per day, gain DR 5/slashing for 1 minute
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Strongarm Strongarm] || 安多安：自由诞生之地 || — || — || Intimidating Prowess, member of the Lumber Consortium || Improve an attitude with intimidate for much longer than normal
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Stubborn%20Curse Stubborn Curse] || 惧怖冒险 || — || 是 || Ability to cast a spell or spell-like ability with the curseUM descriptor, or a special ability with a curse effect || Creatures roll twice to remove your curses
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Stygian%20Spell Stygian Spell] || 位面冒险 || Metamagic || — || — || Water spell causes memory loss to target
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Subconscious%20Ursurpation Subconscious Ursurpation] || 闹鬼英雄手册 || — || — || Base Will save bonus +2 || Take mental actions while being controlled
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Subjective%20Mobility Subjective Mobility] || 位面冒险 || — || 是 || Wis 13 || Move via falling more easily on planes with subjective directional gravity
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Subjective%20Slam Subjective Slam] || 位面冒险 || — || 是 || Con 13; Wis 13; Subjective Mobility; base attack bonus +4 or monk level 3rd || Take half falling damage and you can intentionally fall against targets to damage them while on planes with subjective directional gravity
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Suffocating%20Strangulation Suffocating Strangulation] || 再探地城住民 || — || — || Improved grab, constrict || Suffocate those you constrict
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Summon%20Plant%20Ally Summon Plant Ally] || 荒野英雄 || — || 是 || Knowledge (nature) 1 rank, ability to cast summon nature’s ally spells || Summon new plant creatures when using summon nature’s ally
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Sunder%20Blessing Sunder Blessing] || 邪恶特务 || — || — || Disruptive, fighter level 8th || Sunder ongoing divine spells or effects
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Suppress%20Blight Suppress Blight] || 冒险之路119：荒疫囚徒 || — || 是 || Great Fortitude, Iron Will || Suppress a curse or disease temporarily
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Surface%20Scout Surface Scout] || 阴影血脉 || — || 是 || Drow, spell-like abilities drow racial trait || Learn new spell-like abilities related to ambush and infiltration
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Swamp%20Dweller Swamp Dweller] || 位面旅者手册 || — || 是 || Str 13, must have visited the Hao Jin Tapestry || Gain a +2 bonus on swim checks, which doubles in marshy terrain
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Swarm%20Dodger Swarm Dodger] || 奥西里昂：法老之地 || — || — || Dex 15, evasion || Avoid damage from swarms when they attack
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Swift%20Crystalline%20Dust Swift Crystalline Dust] || 位面旅者手册 || — || 是 || Aphorite, crystalline dust racial trait || You can use crystalline dust as a swift action
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Sycophant Sycophant] || 邪恶特务 || — || 是 || — || Force an enemy to show you mercy
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Take%20This Take This] || 反英雄手册 || Teamwork || 是 || — || You can quickly take items from a fallen allies body
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Tempting%20Bargain Tempting Bargain] || 位面冒险 || — || — || Unchained summoner level 1st, eidolon class feature || You can select an eidolon of any alignment, but it tempts you to change alignment over time
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Terrain%20Celerity Terrain Celerity] || 幽暗地域英雄 || — || 是 || Favored enemy class feature, favored terrain class feature || Increase your speed in your favored terrain
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Terrifying%20Strike Terrifying Strike] || 木乃伊面具 || — || 是 || Despair special ability, mummy || Cause fear on those you strike
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Thrune%20Trusted%20Agent Thrune Trusted Agent] || 冒险之路105：炼狱之门 || Teamwork || — || Thrune Loyal Agent trait || Bolster your allies with the power of House Thrune
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Tool%20Optimizer Tool Optimizer] || 冒险者的军械库2 || — || 是 || Craft (any) 1 rank, Disable Device 1 rank, or Profession (any) 1 rank || Take no penalty for using improvesed tools
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Touched%20by%20Sacred%20Fire Touched by Sacred Fire] || 组织指南 || Faction || — || Endurance, Risen Guard rank, Risen Guard 15 TPA || Gain resistance to fire and a bonus to saves against fire effects
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Touvette%20Defender Touvette Defender] || 河域诸国指南 || — || 是 || Touvette affinity || Smite an enemy of Touvette once per day
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Toxic%20Stench Toxic Stench] || 再探恶魔 || — || — || Stench universal monster ability, immunity to poison, Improved Stench, Toughnes || Your stench becomes poisonous.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Traumatic%20Spell-Like%20Ability Traumatic Spell-Like Ability] || 惧怖冒险 || Monster || — || Spell-like ability at caster level 6th or higher || Spell-like ability causes nightmares
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Treant%27s%20Call Treant's Call] || 荒野源始 || — || — || Cha 17, ability to cast speak with plants, character level 13th, gathlain || Gain liveoak as a spell-like ability
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Triple-Baron Triple-Baron] || 位面旅者手册 || Gathlain Court Title || 是 || Fey creature type or Fey Obedience (Magdh), you must have collected three gifts worth at least 100 gp each from three different planes across the Great Beyond. At least two of the planes must be diametrically opposed to one another in terms of planar traits || Three times per day, you can roll three dice and use the middle result
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Troth%20of%20the%20Forgotten%20Pharaoh Troth of the Forgotten Pharaoh] || 冒险之路82：斯芬克斯的秘密 || — || — || Must be a member of the Cult of the Forgotten Pharaoh || Undergo a ritual to connect yourself with Pharaoh Hakotep I
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Tumultuous%20Spell Tumultuous Spell] || 位面冒险 || Metamagic || 是 || — || Spell causes a target to move in a random direction
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Twisted%20Flesh Twisted Flesh] || 探索者编年史：战役设定 || — || — || Con 15, Worldwound affinity || +1 natural armor, resistance 2 to cold, electricity, fire, and +1 intimidate
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Unbound%20Bravery Unbound Bravery] || 神术选集 || — || 是 || Bravery class feature, worshiper of Cayden Cailean || You can add the bonus from bravery to Escape Artist checks and combat maneuver checks to escape a grapple.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Unbreakable Unbreakable] || 冒险者指南 || — || 是 || Con 13, Endurance, Toughness, fighter level 4th || Gain additional hp from favored classes
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Uncivilized%20Tactics Uncivilized Tactics] || 荒野英雄 || — || 是 || Str 13, Power Attack || Prevent a target from using certain limbs/attacks with combat maneuvers
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Undaunted%20Bravery Undaunted Bravery] || 神术选集 || — || 是 || Bravery class feature, worshiper of Cayden Cailean || You can add your bonus from bravery to Intimidate checks and to the DC to intimidate you.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Unspoken%20Bond Unspoken Bond] || 杜鲁玛，利益与预言 || Teamwork || 是 || Bluff 4 ranks, Sense Motive 4 ranks || Communicate simple thoughts without words
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Unstoppable%20Esotery Unstoppable Esotery] || 解放者 || Esoteric || — || — || Your spells that use esoteric material components are harder to stop or remove
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Unusual%20Heritage%20%28Changeling%29 Unusual Heritage (Changeling)] || 格拉利昂的混种 || Teamwork || 是 || Changeling || Gain bonuses to concentration and dispel checks when near other changelings
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Unusual%20Heritage%20%28Dhampir%29 Unusual Heritage (Dhampir)] || 格拉利昂的混种 || — || 是 || Dhampir || Gain a natural bite attack that can deal bleed damage
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Unusual%20Heritage%20%28Fetchling%29 Unusual Heritage (Fetchling)] || 格拉利昂的混种 || — || 是 || Fetchling || Create a magical sensor while you sleep that can see into the Shadow Plane
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Unusual%20Heritage%20%28Gillman%29 Unusual Heritage (Gillman)] || 格拉利昂的混种 || — || — || Gillman || Cast divination spells at a higher caster level, gain augury as a spell-like ability
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Unyielding%20Ferocity Unyielding Ferocity] || 惧怖冒险 || — || 是 || Con 19, ferocity || Make a full attack when reduced to 0 or fewer hit points, with restrictions
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Vandal Vandal] || 格拉利昂的地精 || — || — || Goblin, sneak attack class feature || Use half of your sneak attack damage against unattended objects.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Vanth%27s%20Scythe Vanth's Scythe] || 冒险之路139：死者之路 || — || — || Character level 9th, duskwalker, ghost hunter racial trait || Also grant the undead bane property when you use your ghost hunter racial ability.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Veiled%20Vileness Veiled Vileness] || 探索者编年史：战役设定 || — || — || Half-orc || Hide any signs of your orcish heritage, +1 Diplomacy, Intimidate, Will saves
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Verbose%20Performer Verbose Performer] || 组织指南 || Faction || — || Bardic performance class feature, Extra Performance, Master Performer, bard level 8th, Kitharodian Academy 15 TPA || Double the range of your bardic performances
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Verdant%20Step Verdant Step] || 荒野源始 || — || 是 || Con 13, character level 7th, plant type || Gain a limited form of tree stride as a spell-like ability
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Verify Verify] || 阴招战术工具箱 || — || — || Ability to cast 1st-level spells, lawful evil alignment, worshiper of Asmodeus || Better tell when a creature lies as it relates to contracts or deals
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Vermin%20Companion Vermin Companion] || 狗头人之王的复仇 || — || — || Vermin Heart, animal companion class feature, wild empathy class feature || Take a vermin as a companion instead of an animal
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Victory%20Through%20Unity Victory Through Unity] || 皇冠战争 || Story || — || You must have a familiar, and you must either be a member of House Merrosett or have the Initiated or Storied Lineage background || Grant your familiar one of the hunter's animal aspects
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Vindictive%20Fall Vindictive Fall] || 反英雄手册 || — || 是 || Lightning Reflexes || When you are knocked prone, drag an enemy within reach down with you
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Waking%20Dream Waking Dream] || 位面旅者手册 || — || 是 || Cha 17, Ephemeral Tread, Lucid Dreamer, Knowledge (planes) 10 ranks || You can try 2 impossible actions per day in the Dimension of Dreams
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Wall%20of%20Flesh Wall of Flesh] || 格拉利昂的狗头人 || Teamwork || — || Small size or smaller. || Increase your size modifier with combat maneuvers
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Warleader%27s%20Rage Warleader's Rage] || 格拉利昂的兽人 || — || 是 || Cha 13, half-orc or orc, non-lawful || Allow allies with lesser rage powers to remain raging at greater distances
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Warped%20Mind Warped Mind] || 探索者编年史：战役设定 || — || — || Wis 15, Worldwound affinity || Resist those that attempt to read your thoughts
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=We%20are%20the%20Wall We are the Wall] || 皇冠战争 || Story || — || Be a member of House Darahan, or have the Champion of the People, Duty, or Raider background || 3 times per day, you can declare a creature to be your quarry
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Bearer Weapon Bearer] || 极限诡道 || — || — || Character level 4th, proficient with all martial weapons || You attract a weapon bearer to aid you in your endeavors.
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Whispered%20Knowledge Whispered Knowledge] || 组织指南 || Faction || — || Corporeal undead, Whispering Way 15 TPA || Enhance your undead form with secret knowledge
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Whispering%20Way%20Disciple Whispering Way Disciple] || 邪恶特务 || — || — || Associate (Whispering Way) || Get access to unholy magic from the Whispering Way
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Willing%20Death Willing Death] || 位面旅者手册 || Origin || — || Duskwalker || You can cast paladin's sacrifice to prevent an ally from dying
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Worst%20Case%20Jinx Worst Case Jinx] || 格拉利昂的半身人 || — || 是 || Knowledge (arcana) 5 ranks, Halfling Jinx trait || Hinder the effects of beneficial spells with your jinx
+|-
+| [https://aonprd.com/FeatDisplay.aspx?ItemName=Zealous%20Mind Zealous Mind] || 惧怖冒险 || — || 是 || Iron Will, Unimpeachable HonorUI, lawful alignment || Gain additional bonuses against enchantments
+|}
+
+[[分类:待办事项]]

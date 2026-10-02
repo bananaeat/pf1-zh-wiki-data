@@ -1,0 +1,10 @@
+{{Feat
+|name=元气引导
+|english_name=Ki Channel
+|description=你不但能引导正能量，你还能调节精气神的流动
+|prerequisites=引导能量职业能力，信仰义洛理
+|benefit=当你引导正能量治疗活物时，任何此[[引导能量]]治疗的生物可以选择恢复[[武僧#气运丹田|气池]]作为替代。生物可以恢复的气池点数等同于你的引导能量骰数。一个可以此法恢复气池点数的生物必须选择恢复气池点数或接受治疗中的一个效果（它不能两者都选）。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

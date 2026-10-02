@@ -1,0 +1,11 @@
+{{Trait
+|name=战斗商人
+|english_name=Militant Merchant
+|type=种族
+|prerequisites=[[矮人]]
+|description=你了解该怎么把自己的货物送到市场去，也知道该如何不惜一切代价保护你的产品。长年和小偷、强盗、[[土匪]]的斗争赋予了你感知危险的[[第六感]]。
+
+你在决定[[突袭]]轮的察觉检定上获得+1背景加值，并且察觉将会被视为你的本职技能。
+|source_name=塔尔多，荣光荡漾之地
+|source_url=https://pf1chm.pages.dev/topics/page_938.html
+}}

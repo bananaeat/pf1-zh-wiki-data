@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=采蛇毒人
+|english_name=Snake Bleeder
+|type=地区
+|prerequisites=娜迦国
+|description=你曾是博学的娜迦麾下的一名[[娜迦裔]]附庸，他们教了你许多调制各种毒药的知识。你调制毒药时进行的[[工艺]]（炼金）检定获得+2背景加值，并且工艺（炼金）成为你的本职技能。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Snake%20Bleeder
+}}

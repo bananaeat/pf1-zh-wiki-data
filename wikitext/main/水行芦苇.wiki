@@ -1,0 +1,17 @@
+{{魔法物品
+|name=水行芦苇
+|english_name=Waterwalk Reeds
+|aon=MagicPlantsDisplay.aspx?FinalName=Waterwalk Reeds
+|cat=魔法植物
+|aura=微弱变化系
+|cl=5
+|slot=无
+|price=30,000 gp
+|weight=50磅
+|description=这些细长的芦苇顶端长着蓬松、可食用的豆荚，能让生物显得圆鼓鼓的，并获得在水面上行走的能力。这一效果持续1小时。这些芦苇占地20平方尺，似乎是随机成熟的。
+
+水行芦苇在夏季和秋季两个各为13周的生长季节里每天产出一个豆荚，通常同时有12个豆荚可用。豆荚的效力保持2周。
+|req=[[奇植培育]]、[[水面行走]]，培育者在知识（自然）上至少有1级
+|cost=15,000 gp
+|source=极限荒野
+}}

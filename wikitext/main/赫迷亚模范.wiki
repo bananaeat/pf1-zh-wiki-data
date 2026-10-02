@@ -1,0 +1,9 @@
+{{Trait
+|name=赫迷亚模范
+|english_name=Hermean Paragon
+|type=地区
+|prerequisites=蒸汽海
+|description=你是赫迷亚生育程序的作品——要么你的双亲被选为市民，要么就是你，不过后来未能达到岛上的高要求标准。无论如何，你比你的种族的一般成员更快，并在[[先攻]]检定获得+2背景加值。
+|source_name=初探内海
+|source_url=https://pf1chm.pages.dev/topics/zh90f44086c1.htm
+}}

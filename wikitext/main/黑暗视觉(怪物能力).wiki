@@ -1,0 +1,14 @@
+<noinclude>{{速查导航|here=规则}}
+{{消歧义|黑暗视觉}}
+{{AI翻译|本条 CHM 汉化没有译文，由 AI 照 AoN 英文原文译出，未经人工校对。}}
+'''黑暗视觉'''（Darkvision）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex 或 Su</span><span class="sk-f">位置：感官</span></div>
+</noinclude><includeonly><div class="lang"><span id="黑暗视觉"></span><span id="黑暗视觉(怪物能力)"></span><div class="lang-h"><b>[[黑暗视觉(怪物能力)|黑暗视觉]]</b><i>Darkvision</i><span class="lang-w">Ex 或 Su · 感官</span></div><div class="lang-d">{{AI翻译|nocat=1|本条由 AI 照 AoN 英文原文译出，未经人工校对。}}</includeonly>
+拥有黑暗视觉的生物能在完全的黑暗中视物，范围通常是 60 尺。在此范围内，该生物能像有视觉的生物身处明亮光照区域时那样清晰地看见事物。黑暗视觉只有黑白两色，但在其他方面与正常视觉相同。
+
+'''格式'''：黑暗视觉 60 尺
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Darkvision|2=Darkvision}}
+
+[[分类:通用怪物规则]]</noinclude>

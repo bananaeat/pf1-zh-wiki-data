@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[鹰眼 (神话)]]。</small></div>
+{{消歧义|鹰眼}}
+{{Feat
+|name=鹰眼
+|english_name=Eagle-Eyed
+|description=你的远距离视野极为清晰，这让你能够在正常与昏暗光照情况下都能清楚视物，也让你在进行远程攻击时更有优势。
+|prerequisites=察觉3级。
+|benefit=在基于视觉的察觉检定上，由于距离带来的DC调整值，在光亮与正常光照状况下减少为每50尺+1，或者昏暗光照下每20尺+1。你在对100尺外的目标进行远程攻击时获得+2环境加值。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

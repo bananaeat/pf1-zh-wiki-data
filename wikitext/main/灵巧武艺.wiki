@@ -1,0 +1,17 @@
+{{Feat
+|name=灵巧武艺
+|english_name=Agile Maneuvers
+|aliases=灵活战技
+|categories=战斗
+|description=你学会了在战斗中使用你灵活的招式。
+|benefit=用你的敏捷修正代替力量修正来决定[[CMB]]加值。
+|normal=你把力量加值加到基础攻击加值和体型加值上，来决定你的战技加值（CMB）。
+|stamina=你可以在尝试[[战技]]检定时花费最多不超过你敏捷加值的耐力点数。每如此消耗2点耐力，你在判定战技能否影响目标，以及计算战技的体型加值时视作比原有体型大一级。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[华丽盗技]]、[[过犹不及]]（2 个条目）

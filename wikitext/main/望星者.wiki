@@ -1,0 +1,10 @@
+{{Trait
+|name=望星者
+|english_name=Stargazer (Region)
+|type=地区
+|prerequisites=利尔刚(Lirgen)
+|description=你的青春都用来凝视夜空，你在知识[奥秘]和知识[自然]检定获得+1背景加值。其中一个技能成为你的[[本职技能]]。
+|source_name=古国血脉
+|source=BotA
+|source_url=https://pf1chm.pages.dev/topics/zhb7c0053e99.htm
+}}

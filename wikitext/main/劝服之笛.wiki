@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=劝服之笛
+|english_name=Flute of Persuasion
+|aon=MagicWondrousDisplay.aspx?FinalName=Flute of Persuasion
+|cat=奇物
+|aura=中等咒法系
+|cl=4
+|slot=无
+|price=14,000 gp
+|weight=2磅
+|description=这支刻有魔鬼符号的纤细长笛，能让吹奏者对被魅惑的生物拥有更强的控制力。由通过DC 13[[表演]]（管乐器）检定的人吹奏时，长笛能让吹奏者对30尺内一个自己先前魅惑过的生物下达心灵感应的命令，如同[[暗示术]]。如果吹奏者下达的建议会使被魅惑的生物身陷险境，该生物可以进行一次DC 13的意志豁免来抵抗。豁免成功则该生物那一轮不会服从命令，但无论如何它仍处于被魅惑状态。
+|req=[[制造奇物]]、[[暗示术]]
+|cost=7,000 gp
+|source=Pathfinder: Origins #6: Ezren
+}}

@@ -1,0 +1,20 @@
+{{魔法物品
+|name=自由者之杖
+|english_name=Staff of the Freed Man
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of the Freed Man
+|cat=法杖
+|aura=中等（学派不定）
+|cl=17
+|slot=无
+|price=51,688 gp
+|weight=5磅
+|description=这根橡木法杖高度略超过 7 尺，顶端装饰着一把看似巨大的铁制万能钥匙，不起眼的外表看上去只是一根普通的手杖。它可以使用以下法术：
+
+* [[侦测密门]]（2 发）
+* [[敲击术]]（2 发）
+* [[穿墙术]]（3 发）
+* [[解锢术]]（5 发）
+|req=[[制造法杖]]、[[侦测密门]]、[[解锢术]]、[[敲击术]]、[[穿墙术]]
+|cost=25,840 gp
+|source=纯洁勇士
+}}

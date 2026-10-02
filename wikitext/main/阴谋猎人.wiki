@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Council of Thieves Player's Guide pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=阴谋猎人
+|english_name=Conspiracy Hunter
+|type=战役
+|pfs=否
+|description=你早就听说西冠城有黑暗的勾当在进行。贵重的货物在运输途中消失得无影无踪，也没有人过问。有人就像从未存在过一样人间蒸发。商界巨头和贵族们说话隐晦，偶尔失言，提到连他们也必须服从的主人。统治西冠城地下世界的是哪些人？那些关于势力遍布各地的犯罪组织的传闻，是否有几分真实？传说中早在多年前就被清除出城的盗贼议会，是否以某种方式幸存了下来或重新组建？他们如今对这座城市又有着怎样的掌控？你不知道，但你决心要查出真相！选择以下技能之一：[[唬骗]]、[[交涉]]、[[知识]]（本地）、[[察觉]]、[[察言观色]]或[[隐匿]]。你在该技能上获得+1背景加值，并且该技能总是你的本职技能。
+|source_name=Council of Thieves Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Conspiracy%20Hunter
+}}

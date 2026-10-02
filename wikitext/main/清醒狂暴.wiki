@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 62），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=清醒狂暴
+|english_name=Coherent Rage
+|type=战斗
+|pfs=否
+|prerequisites=乌尔芬卫士
+|description=你的决心让你无论何时都能保有一丝理智。从以下技能中选择一项：[[唬骗]]、[[脱逃]]、[[驯养动物]]或[[隐匿]]。你在狂暴时可以正常使用这项技能。
+|source_name=组织指南
+|source=FM
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Coherent%20Rage
+}}

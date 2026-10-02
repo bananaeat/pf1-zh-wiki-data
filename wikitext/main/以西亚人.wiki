@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kingmaker Player's Guide pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=以西亚人
+|english_name=Issian
+|type=战役
+|pfs=否
+|description=你在布雷斡北部长大，那是一片雾气笼罩的海岸与严酷丘陵之地，放眼尽是雪原与紫色山峦。你的祖先是一支能干而聪慧的民族，你怀有远大的抱负，对机会时刻保持警觉，并有着不论面对何种挑战都要为目标奋斗的韧劲。你最在意的莫过于实现自己的抱负、抓住赢得财富与荣耀的机会，为此几乎不惜任何代价。你自认是彻头彻尾的布雷斡公民。招募勇士协助夺回祖国在失窃之地正当领土的号召点燃了你对利益与前程的梦想，于是你加入了一支南下远征的探险队。你灵活的头脑使你为抵抗影响心灵效果而进行的意志豁免获得+1背景加值。
+|source_name=Kingmaker Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Issian
+}}

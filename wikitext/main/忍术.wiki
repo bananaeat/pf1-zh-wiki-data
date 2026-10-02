@@ -1,0 +1,213 @@
+{{忍者导航}}
+{{Source|极限战斗|Ultimate Combat}}
+
+== 忍术 (Ninja Tricks) ==
+
+随着[[忍者]]不断练习其技艺，她学会了很多花招，能够让她迷惑敌人或是为她带来超自然的能力。2级开始，忍者习得一项忍术。之后每2级再习得一项。除非额外注明，忍者通常无法对一项忍术进行多次选择。
+
+标有星号（*）的忍术会给忍者的偷袭附加效果。每次攻击只能施加其中一种，而且必须在攻击之前决定。
+
+== 特技大师(忍术) (Acrobatic Master, Su) ==
+{{:特技大师(忍术)}}
+
+== 奥法反噬 (Arcane Backfire, Su) ==
+{{:奥法反噬}}
+
+== 流血攻击(忍术)* (Bleeding Attack, Ex) ==
+{{:流血攻击(忍术)}}
+
+== 血债 (Blood Debt, Su) ==
+{{:血债}}
+
+== 祖龙息 (Breath of the Ancestors, Su) ==
+{{:祖龙息}}
+
+== 呛鼻弹 (Choking Bomb, Ex) ==
+{{:呛鼻弹}}
+
+== 战斗窍门(忍术) (Combat Trick) ==
+{{:战斗窍门(忍术)}}
+
+== 黑暗视觉(忍术) (Darkvision, Su) ==
+{{:黑暗视觉(忍术)}}
+
+== 致命距离(忍术) (Deadly Range, Ex) ==
+{{:致命距离(忍术)}}
+
+== 拨挡飞箭(忍术) (Deflect Arrows) ==
+{{:拨挡飞箭(忍术)}}
+
+== 快速潜行(忍术) (Fast Stealth, Ex) ==
+{{:快速潜行(忍术)}}
+
+== 羽落 (Feather Fall, Su) ==
+{{:羽落}}
+
+== 天女散花 (Flurry of Stars, Ex) ==
+{{:天女散花}}
+
+== 遗忘之技 (Forgotten Trick, Ex) ==
+{{:遗忘之技}}
+
+== 草药复方 (Herbal Compound, Ex) ==
+{{:草药复方}}
+
+== 藏兵 (Hidden Weapons, Ex) ==
+{{:藏兵}}
+
+== 身跃 (High Jumper, Ex) ==
+{{:身跃}}
+
+== 神风 (Kamikaze, Su) ==
+{{:神风}}
+
+== 截断气脉* (Ki Block, Su) ==
+{{:截断气脉}}
+
+== 气贯 (Ki Charge, Su) ==
+{{:气贯}}
+
+== 气毒 (Ki Venom, Ex) ==
+{{:气毒}}
+
+== 毒性弹 (Poison Bomb, Ex) ==
+{{:毒性弹}}
+
+== 点穴* (Pressure Points, Su) ==
+{{:点穴}}
+
+== 借力 (Redirect Force, Ex) ==
+{{:借力}}
+
+== 盗贼天赋(忍术) (Rogue Talent) ==
+{{:盗贼天赋(忍术)}}
+
+== 影分身 (Shadow Clone, Su) ==
+{{:影分身}}
+
+== 龟息 (Slow Metabolism, Ex) ==
+{{:龟息}}
+
+== 扰乱反应(忍术)* (Slow Reactions, Ex) ==
+{{:扰乱反应(忍术)}}
+
+== 烟雾弹(忍术) (Smoke Bomb, Ex) ==
+{{:烟雾弹(忍术)}}
+
+== 抓取飞箭(忍术) (Snatch Arrows) ==
+{{:抓取飞箭(忍术)}}
+
+== 窒喉 (Strangler, Ex) ==
+{{:窒喉}}
+
+== 流派大师(忍术) (Style Master) ==
+{{:流派大师(忍术)}}
+
+== 瞬间易容 (Sudden Disguise, Su) ==
+{{:瞬间易容}}
+
+== 群居攻击 (Swarming Attack) ==
+{{:群居攻击}}
+
+== 迅捷上毒 (Swift Poisoner, Ex) ==
+{{:迅捷上毒(忍术)}}
+
+== 徒手战斗训练 (Unarmed Combat Training) ==
+{{:徒手战斗训练}}
+
+== 暗中破坏 (Undetected Sabotage, Ex) ==
+{{:暗中破坏}}
+
+== 隐身 (Vanishing Trick, Su) ==
+{{:隐身}}
+
+== 腹语 (Ventriloquism, Su) ==
+{{:腹语}}
+
+== 行墙 (Wall Climber, Su) ==
+{{:行墙}}
+
+== 武器训练(忍术) (Weapon Training) ==
+{{:武器训练(忍术)}}
+
+== 高等忍术 (Master Tricks) ==
+<span id="高等忍术"></span>
+
+10级时，以及之后每2级，忍者可以选择下列一项高等忍术代替忍术。
+
+== 急速形态 (Acceleration of Form, Su) ==
+{{:急速形态}}
+
+== 高等绝技 (Advanced Talent) ==
+{{:高等绝技}}
+
+== 满天星 (All the Stars in the Sky, Ex) ==
+{{:满天星}}
+
+== 一击瞬杀(忍术) (Assassinate, Ex) ==
+{{:一击瞬杀(忍术)}}
+
+== 障目弹 (Blinding Bomb, Ex) ==
+{{:障目弹}}
+
+== 致命手里剑 (Deadly Shuriken, Ex) ==
+{{:致命手里剑}}
+
+== 二重身份 (Deep Cover, Ex) ==
+{{:二重身份}}
+
+== 反射闪避(忍术) (Evasion, Ex) ==
+{{:反射闪避(忍术)}}
+
+== 变脸 (False Face, Su) ==
+{{:变脸}}
+
+== 专长(忍术) (Feat) ==
+{{:专长(忍术)}}
+
+== 碎镜 (Fractured Mirror, Su) ==
+{{:碎镜}}
+
+== 鬼步 (Ghost Step, Su) ==
+{{:鬼步}}
+
+== 高等气毒 (Greater Ki Venom, Ex) ==
+{{:高等气毒}}
+
+== 利刃无形 (Invisible Blade, Su) ==
+{{:利刃无形}}
+
+== 神灵保镖 (Kami Warden, Su) ==
+{{:神灵保镖}}
+
+== 替身术 (Kawarimi, Su) ==
+{{:替身术}}
+
+== 百变 (Many Guises, Ex) ==
+{{:百变(忍术)}}
+
+== 易容宗师 (Master Disguise, Su) ==
+{{:易容宗师}}
+
+== 匿魂 (Occulted Soul, Su) ==
+{{:匿魂}}
+
+== 见无形 (See the Unseen, Su) ==
+{{:见无形}}
+
+== 裂影 (Shadow Split, Su) ==
+{{:裂影}}
+
+== 精魂伙伴 (Spiritual Companion, Ex) ==
+{{:精魂伙伴}}
+
+== 徒手战斗熟稔 (Unarmed Combat Mastery) ==
+{{:徒手战斗熟稔}}
+
+== 梯云纵(忍术) (Unbound Steps, Su) ==
+{{:梯云纵(忍术)}}
+
+{{AoN原文|1=NinjaTricks.aspx|2=Ninja Tricks}}
+
+[[分类:忍者]]
+{{职业}}

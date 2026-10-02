@@ -1,0 +1,11 @@
+{{Feat
+|name=晨光祝福
+|english_name=Dawn's Blessing
+|pfs=否
+|description=作为晨花（塞恩蕾）的选民，你是信徒们的希望灯塔，是冥顽不灵者的灾星。
+|prerequisites=能够施展神术，沙之后裔半兽人，信仰塞恩蕾
+|benefit=在强光环境下施展神术时，你可将自己的施法者等级视为高1级。此外，你施展的带有[火]或[光亮]描述符的伤害法术，即便在强光环境区域之外也能额外造成1点伤害。
+|source=HftF
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/zh72cd9d7a9f.htm
+}}

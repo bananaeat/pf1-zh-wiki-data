@@ -1,0 +1,13 @@
+{{Feat
+|name=擅长改造武器
+|english_name=Modified Weapon Proficiency
+|categories=战斗
+|description=你是如此擅长某种武器，即使它是改造过的也一样。
+|prerequisites=已擅长选择的武器。
+|benefit=选择一种武器（比如[[长剑]]）。你总是被视为擅长该类型的改造武器。
+|normal=改造后的武器使用难度往上提一阶（简易视为军用，军用视为异种）。
+|special=有专注武器能力的战斗祭司ACG可以将神祇偏好武器的[[武器专攻]]专长替换成该专长；魔战士变体剑圣UC在使用他选定的武器时，可以用该专长替换武器专攻专长。
+|source=AA2
+|source_name=冒险者的军械库2
+|source_url=https://pf1chm.pages.dev/topics/page_1014.html
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=守密人
+|english_name=Secret Keeper
+|type=信念
+|description=为了避开审讯者与敌人的线人，你已熟练于说谎。当你的[[唬骗]]检定与他人的察言观色对抗时，获得+3背景加值。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh484c89782e.htm
+}}

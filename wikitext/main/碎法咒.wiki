@@ -1,0 +1,15 @@
+{{Spell
+|name=碎法咒
+|english_name=Spellcrash
+|school=防护系
+|levels=先知 6;奥能师 6;女巫 6;异能者 6;战斗祭司 6;术士 6;法师 6;牧师 6
+|action=标准动作
+|components=语言;姿势
+|range=中距
+|target=一个生物
+|duration=1轮/等级
+|save=意志，通过则无效；见后文
+|sr=是
+|description=该法术的功能如同[[次等碎法咒]]一般，不过它能够影响5级或者更低等级的准备好的法术或法术位。
+|source=进阶职业指南
+}}

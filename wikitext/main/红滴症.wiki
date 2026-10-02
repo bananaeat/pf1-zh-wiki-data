@@ -1,0 +1,13 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{危害
+|name=红滴症
+|english_name=Red Drip
+|kind=疾病
+|type=接触（真菌）
+|save=强韧 DC 18
+|onset=1天
+|frequency=1次/天
+|effect=1d4点敏捷伤害和1d2点魅力伤害
+|cure=连续2次豁免成功，或截去受感染的肢体
+|source=不死生物横行、丛林之心(战役设定)
+}}

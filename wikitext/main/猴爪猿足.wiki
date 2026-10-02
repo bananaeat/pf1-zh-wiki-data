@@ -1,0 +1,12 @@
+<noinclude>{{侠客导航}}
+'''猴爪猿足'''（Monkey's Paws, Ex）是[[侠客]]的[[侠客天赋]]。
+
+</noinclude>{{Source|格拉利昂的英雄|Heroes of Golarion|inline}}
+
+效果：侠客获得了等同于其基础速度的攀爬速度并且在逃脱检定上获得+4表现加值。
+
+侠客必须要拥有[[梁上君子]]天赋并达到5级才能选择此天赋。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh62263cd083.htm 原文]）。全部侠客天赋见 [[:分类:侠客天赋|分类:侠客天赋]]。
+
+[[分类:侠客天赋]]</noinclude>

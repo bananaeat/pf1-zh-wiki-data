@@ -1,0 +1,9 @@
+{{Trait
+|name=切利亚斯支持者
+|english_name=Chelish Sympathizer
+|type=社会
+|description=你出于私利或理念向「三度诅咒」的特鲁恩家族(House of Thrune)提供情报，并换取其他切利亚斯间谍收集到的宝贵线索。每月一次，当你身处内海地区一个人口至少2,000人的聚落时，你可以动用这些关系，在[[舌战]](《极限诡道》第176页)中取得优势，或在一次[[唬骗]]、交涉或威吓检定上获得+2加值。
+|source_name=社会背景
+|source=SH
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

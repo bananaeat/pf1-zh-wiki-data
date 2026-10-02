@@ -1,0 +1,10 @@
+{{Trait
+|name=好养活
+|english_name=Cheap to Feed
+|type=地区
+|prerequisites=[[半身人]]，奥西里昂或瓦瑞西亚
+|description={{AI翻译|nocat=1|本段由 AI 照 AoN 英文原文译出，CHM 汉化里没有这段译文，未经人工校对。}}大城市里的生活让你懂得了骄傲的代价。如今，面对潜在的雇主、抓住你的人、旅店老板，或其他任何能为你提供生活必需品的人，你会毫不犹豫地指出供养你是多么微不足道的负担。你为了获取食物、水或庇护所而进行的[[唬骗]]检定获得+3背景加值。
+|source_name=地区背景
+|source=HoG
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

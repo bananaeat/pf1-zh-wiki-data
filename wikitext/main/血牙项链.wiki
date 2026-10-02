@@ -1,0 +1,14 @@
+{{魔法物品
+|name=血牙项链
+|english_name=Necklace of Bloody Incisors
+|aon=MagicWondrousDisplay.aspx?FinalName=Necklace of Bloody Incisors
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=颈部
+|price=1,850 gp
+|description=这条细铁链上串着多达10枚常见食肉动物被拔下的牙齿。以一个[[移动动作]]，穿戴者可以将最多三枚牙齿放入投掷的溅射武器或炼金炸弹中。当这样的溅射武器或炸弹命中目标时，每用一枚牙齿，就额外造成1d4点挥砍伤害。每枚用在这种溅射武器或炸弹中的牙齿，还会使其溅射伤害增加2点挥砍伤害。一旦项链上的牙齿全部以这种方式用完，项链的魔力就消耗殆尽。新买的血牙项链带有10枚拔下的牙齿。
+|req=[[制造奇物]]、[[高等魔牙术]]
+|cost=925 gp
+|source=商人货单
+}}

@@ -1,0 +1,7 @@
+{{物品
+|name=猫头鹰
+|english_name=The Owl
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。抽牌者获得一次性占卜一个目标所在地一分钟的能力。但目标也立刻知晓他被抽牌者追踪。抽牌者可以决定何时使用该能力，但仅限一次。
+}}

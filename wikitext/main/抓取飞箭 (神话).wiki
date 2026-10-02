@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[抓取飞箭]] 的神话版本。</small></div>
+{{Feat
+|name=抓取飞箭
+|english_name=Snatch Arrows
+|categories=神话
+|description=你能够使用刚刚接到的武器顺势攻击敌人。
+|prerequisites=[[抓取飞箭]]
+|benefit=当你使用[[抓取飞箭]]专长抓到能够作为近战武器使用的投掷武器时，你能够以[[直觉动作]]使用它进行近战攻击，对抗处于武器近战触及范围内的敌人。你能够花费1次神话之力进行此次攻击而无需花费直觉动作。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

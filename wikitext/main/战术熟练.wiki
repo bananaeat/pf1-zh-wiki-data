@@ -1,0 +1,11 @@
+{{Feat
+|name=战术熟练
+|english_name=Practiced Tactician
+|description=通过简单的手势与指令，你能够在战斗中指挥他人。
+|prerequisites=【战术】职业特性。
+|benefit=每日你可以额外获得1次机会使用【战术】职业特性赋予同伴[[团队专长]]。
+|special=你可以多次选取本专长，它的效果叠加。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

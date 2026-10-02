@@ -1,0 +1,10 @@
+{{Trait
+|name=铁石握
+|english_name=Iron Grip
+|type=宗教
+|prerequisites=信仰[[古拉姆]]
+|description=在它被握于掌中时，你和你的武器可谓浑然一体。你对抗缴械的CMD获得+2背景加值。【摘自 傻豆 的翻译】
+|source_name=内海诸神
+|source=摘自 傻豆 的翻译
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

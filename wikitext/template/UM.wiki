@@ -1,0 +1,6 @@
+<includeonly>([[扩展手册#UM|UM]])</includeonly><noinclude>
+<pre>
+*{{UM}}
+</pre>
+*{{UM}}
+</noinclude>

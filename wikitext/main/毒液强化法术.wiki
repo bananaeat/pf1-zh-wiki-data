@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 199），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=毒液强化法术
+|english_name=Augmented Spell Poisons
+|type=种族
+|prerequisites=蝮血裔
+|description=你可以用你的天然毒素来强化你所施展的法术。你可以消耗一次你的毒性种族特性，将少量有毒的唾液或血液用作一个带有毒素描述符的法术（见《极限魔法》）的额外材料成分，使该法术的豁免DC提高1。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Augmented%20Spell%20Poisons
+}}

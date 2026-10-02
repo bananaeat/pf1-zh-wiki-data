@@ -1,0 +1,15 @@
+{{魔法物品
+|name=魔鬼假面
+|english_name=Diabolical Masquerade Mask
+|aon=MagicWondrousDisplay.aspx?FinalName=Diabolical Masquerade Mask
+|cat=奇物
+|aura=微弱咒法系、惑控系、幻术系
+|cl=1
+|slot=头部
+|price=2,900 gp
+|weight=1磅
+|description=这张精致的舞会假面看起来像一个长着角的英俊魔鬼，双眼处是红色的透镜。它的功能如同[[易容帽]]。穿戴者可以各使用魅惑人类和地狱治疗每天1次。当地狱治疗生效时，无论穿戴者是否正在使用假面的易容能力，假面都会显现出来（但易容的其他部分仍然存在）。
+|req=[[制造奇物]]、[[魅惑人类]]、[[易容术]]、[[地狱治疗]]
+|cost=1,450 gp
+|source=内海诸神
+}}

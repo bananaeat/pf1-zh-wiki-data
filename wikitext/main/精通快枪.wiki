@@ -1,0 +1,16 @@
+{{Feat
+|name=精通快枪
+|english_name=Improved Snap Shot
+|categories=战斗
+|description=你能从远处抓住对方的弱点射击，且不会因此暴露破绽。
+|prerequisites=敏捷15，[[近距射击]]，[[快速射击]]，[[快枪]]，[[武器专攻]]，基本攻击加值+9。
+|benefit=你的[[快枪]]专长的威胁范围扩大5尺。
+|normal=进行远程攻击将会触发[[借机攻击]]。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[高等快枪]]（1 个条目）

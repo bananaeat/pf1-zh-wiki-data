@@ -1,0 +1,17 @@
+{{Spell
+|name=气灌飞矢
+|english_name=Ki arrow
+|school=咒法系
+|levels=吟游诗人 1;奥能师 1;女巫 1;异能者 1;术士 1;歌者 1;法师 1
+|action=标准动作
+|components=姿势
+|range=接触
+|target=一根接触到的箭矢
+|duration=立即
+|save=强韧（物体）
+|sr=是
+|description=你用你的内息灌注在箭矢中，并且将它投掷出100英尺之远。
+
+进行一次远程攻击投骰。如果命中，目标会受到相当于你的单次[[徒手打击]]的伤害 （使用你的力量加值）。
+|source=极限魔法
+}}

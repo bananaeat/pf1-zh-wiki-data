@@ -1,0 +1,15 @@
+{{Feat
+|name=处刑秀
+|english_name=Killing Flourish
+|categories=战斗
+|description=当你刺杀一个目标，周围所有的人都在恐惧中[[战栗]]。
+|prerequisites=[[威逼]]，威吓技能4级，杀手职业等级4
+|benefit=当你通过近战攻击将一个生物的生命值降到0以下时，你可以以[[迅捷动作]]进行威吓检定，以挫败30尺范围内所有能看到你这次攻击的敌人的士气。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[惧怖宰杀]]（1 个条目）

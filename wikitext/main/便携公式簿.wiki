@@ -1,0 +1,9 @@
+{{装备
+|name=便携公式簿
+|english_name=Traveling formula book
+|cat=工具
+|price=10 gp
+|weight=1磅
+|description=这是炼金术士版本的法师便携法术书（便携公式簿和便携法术书在本质上是同一件物品）。（译注：旧页名「便携公式薄」，「薄」是错字。）
+|source=极限宝具
+}}

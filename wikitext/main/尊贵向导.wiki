@@ -1,0 +1,9 @@
+{{Feat
+|name=尊贵向导
+|english_name=Revered Guidance
+|description=你被你的天界祖先选为一个天选之人的引导者，成为绝望中的希望灯塔。
+|prerequisites=[[神裔]]，必须在一级时选取
+|benefit=选择下列生物亚种之一：[[矮人]]、[[精灵]]、[[侏儒]]、[[半身人]]、[[人类]]或[[兽人]]。你对该亚种的生物的交涉检定有+4种族加值。
+|source_name=天界血脉
+|source_url=https://pf1chm.pages.dev/topics/page_829.html
+}}

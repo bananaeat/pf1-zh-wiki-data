@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''护命'''（Fortification）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：防御能力</span></div>
+</noinclude><includeonly><div class="lang"><span id="护命"></span><div class="lang-h"><b>[[护命]]</b><i>Fortification</i><span class="lang-w">Ex · 防御能力</span></div><div class="lang-d"></includeonly>
+怪物有 50% 的概率将重击或偷袭视为普通命中的攻击，就如同穿戴中度护命铠甲一般。
+
+'''格式'''：护命（50%）
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Fortification|2=Fortification}}
+
+[[分类:通用怪物规则]]</noinclude>

@@ -1,0 +1,12 @@
+{{Feat
+|name=警惕冲锋
+|english_name=Vigilant Charger
+|categories=战斗
+|description=你随时准备对敌人发起攻击。
+|prerequisites=[[力量]] 13，[[敏捷]] 13，战斗反射。
+|benefit=当一名敌手进入你指定的一处特定空间时，你可以用[[准备动作]]去冲锋。你必须同时满足两个条件——当你以准备动作准备了冲锋，且当你已准备的动作被触发——你才能冲锋那个被指定的方格，否则你无法尝试那个被准备的行动。当你发起一次被准备的冲锋时，你仅能移动最多等同你速度的距离。
+|normal=你不能用准备动作去冲锋。冲锋允许你移动最多两倍于你速度的距离。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=冷酷之心
+|english_name=Cold Heart
+|type=地区
+|prerequisites=追随地狱骑士团的角色
+|description=在对抗情绪描述符的法术和效果的豁免检定获得+2背景加值。
+|source_name=内海骑士
+|source_url=https://pf1chm.pages.dev/topics/zhdc70ece933.htm
+}}

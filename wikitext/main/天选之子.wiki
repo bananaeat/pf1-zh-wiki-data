@@ -1,0 +1,11 @@
+{{Trait
+|name=天选之子
+|english_name=Chosen Child
+|type=地区
+|pfs=否
+|prerequisites=渤骊
+|description=当你的父母宣称你生来便有神授之权时，渤骊的[[先知]]们对你青眼有加，你在成长中享有少有渤骊人能够想象的特权。你的起始资金增加900GP。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://pf1chm.pages.dev/topics/page_1557.html
+}}

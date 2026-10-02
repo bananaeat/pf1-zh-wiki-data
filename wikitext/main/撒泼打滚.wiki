@@ -1,0 +1,10 @@
+{{Feat
+|name=撒泼打滚
+|english_name=Tantrum
+|categories=战斗
+|description=你的哭闹、唾液横飞甚至口吐白沫，让你显得语无伦次到可笑的地步，对手很容易不把你当作威胁。
+|prerequisites=[[唬骗]]1级，狂暴职业特性，侏儒。
+|benefit=你可以在狂暴时使用[[虚招]]。虚招的效果只会持续到你第一次命中目标。
+|source_name=格拉利昂的侏儒
+|source_url=https://pf1chm.pages.dev/topics/zh33d1c60e62.htm
+}}

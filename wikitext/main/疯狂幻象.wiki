@@ -1,0 +1,17 @@
+{{Spell
+|name=疯狂幻象
+|english_name=Mad hallucination
+|school=幻术系 (魅影幻觉)
+|levels=催眠师 2;吟游诗人 2;奥能师 2;女巫 2;异能者 2;术士 2;歌者 2;法师 2;红螳螂杀手 2
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一个类人生物
+|duration=5分钟/等级 （最高1小时）
+|save=意志，通过则无效
+|sr=是
+|description=你在目标的心智之中植入一个致幻的现实。物体的表面看起来在游动，各种动作也不断地扰乱目光。
+
+目标的意志豁免检定、施法者等级检定、基于智力和感知的技能检定都受到-2减值。
+|source=极限魔法
+}}

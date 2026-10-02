@@ -1,0 +1,12 @@
+{{Trait
+|name=灵魂搜寻者之力
+|english_name=Soul-Searcher's Strength
+|type=信念
+|prerequisites=必须遵循[[钉魂门]]的传统
+|description=你的自我反省让你认识到你的缺陷和癖好，并且让你知道如何利用他们。
+
+选择一个豁免，在你所选的豁免上你获得+1背景加值。
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_703.html
+}}

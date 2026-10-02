@@ -1,0 +1,15 @@
+{{魔法物品
+|name=无畏披肩
+|english_name=Cape of Daring Deeds
+|aon=MagicWondrousDisplay.aspx?FinalName=Cape of Daring Deeds
+|cat=奇物
+|aura=微弱防护系
+|cl=5
+|slot=肩部
+|price=9,000 gp
+|weight=2磅
+|description=穿戴者可以花费一个整轮动作集中精神，改变这件丝质短披风的颜色，使之与任何服饰或心情相配。当使用1级[[游荡剑客]]炫技大胆特技时，穿戴者在骰出自然5或6时都能额外加一个骰子，而不是只有自然6才加。此外，披风还为豁免检定提供+2抗力加值。每当穿戴者使用[[游荡剑客#快乐人生|快乐人生]]职业能力时，这一加值在1轮内提高到+4。
+|req=[[制造奇物]]、[[神导术]]、[[魔法伎俩]]、[[提升抗力]]
+|cost=4,500 gp
+|source=进阶职业指南
+}}

@@ -1,0 +1,16 @@
+{{魔法物品
+|name=催眠刺青
+|english_name=Hypnotic Tattoo
+|aon=MagicTattooDisplay.aspx?FinalName=Hypnotic Tattoo
+|cat=魔法纹身
+|aura=微弱惑控系
+|cl=1
+|slot=无
+|price=900 gp
+|description=这种阿拉伯式花纹的刺青能使携带者的动作更为突出。如果刺青可见，携带者在表演（舞蹈）检定上获得+2环境加值。
+
+当携带者使用一项表演技能或吟游诗人表演时，她可以选择90尺内一个她能看到、且能看到她的催眠刺青的生物。携带者表演期间，该生物在察觉和察言观色检定上承受-2罚值。这是影响心灵的效果。携带者可以在自己的回合以一个[[自由动作]]改变此效果的目标。
+|req=[[绘制魔法刺青]]（ISM）、[[催眠术]]
+|cost=450 gp
+|source=魔法市集指南
+}}

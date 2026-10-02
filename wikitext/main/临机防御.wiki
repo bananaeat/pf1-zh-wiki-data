@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Bastards of Golarion pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=临机防御
+|english_name=Improvised Defense
+|type=战斗
+|description=即使措手不及，你也从不会毫无防备。每当你持用临时武器时，你的AC获得+1盾牌加值。如果你用这把临时武器进行攻击，你会失去这项盾牌加值，直到你下个回合开始。
+|source_name=格拉利昂的混种
+|source=BoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Improvised%20Defense
+}}

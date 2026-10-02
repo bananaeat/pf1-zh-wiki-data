@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Hell's Rebels Player's Guide pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=讽刺奇才
+|english_name=Gifted Satirist
+|type=战役
+|pfs=否
+|description=你是在金塔格的表演者和艺人中间长大的。也许你的父母或兄姐曾是金塔格歌剧院的歌手，又或者你只是个流落街头的孤儿，靠街头卖艺勉强糊口。无论如何，你早已熟悉这样一种做法：把尖刻的政治评论包装成无害的娱乐。不论你把讽刺藏在小说、戏剧、长篇檄文还是公开信里，你都还没能在金塔格作为一股政治力量闯出名号——但假以时日，你希望改变这一点！
+
+你在[[语言学]]检定上获得+1背景加值，并且语言学始终是你的本职技能。此外，你玩世不恭的态度使你在对抗恐惧效果的所有豁免检定上获得+2背景加值。
+|source_name=Hell's Rebels Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Gifted%20Satirist
+}}

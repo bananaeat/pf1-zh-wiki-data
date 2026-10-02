@@ -1,0 +1,14 @@
+<includeonly>{{#invoke:版权抬头|main}}<div class="feat companion" id="{{{name}}}" style="margin:.6em 0"><!--
+--><div class="feat-head"><div class="feat-name" style="font-size:1.3em">{{#if:{{{page|}}}|[[{{{page}}}|{{{name}}}]]|{{{name}}}}}<span class="feat-cats">{{#arraymap:{{{ctype|}}}|、|@@|<span class="tag">@@伙伴</span>| }}{{#if:{{{source|}}}|<span class="tag">{{{source}}}</span>}}</span></div><div class="feat-en">{{{en|}}}</div></div><!--
+-->{{#if:{{{flavor|}}}|<div class="feat-flavor" style="margin-bottom:.5em">{{{flavor}}}</div>}}<!--
+--><div class="feat-block"><span class="k">初始数据</span>{{#if:{{{size|}}}|'''体型''' {{{size}}}；}}{{#if:{{{speed|}}}|'''速度''' {{{speed}}}；}}{{#if:{{{ac|}}}|'''AC''' {{{ac}}}；}}{{#if:{{{attack|}}}|'''攻击''' {{{attack}}}；}}'''属性值''' {{{abil|}}}{{#if:{{{sa|}}}|；'''特殊攻击''' {{{sa}}}}}{{#if:{{{sq|}}}|；'''特殊能力''' {{{sq}}}}}{{#if:{{{other|}}}|；{{{other}}}}}。</div><!--
+-->{{#if:{{{advlv|}}}|<div class="feat-block"><span class="k">{{{advlv}}}级进化</span>{{#if:{{{adv_size|}}}|'''体型''' {{{adv_size}}}；}}{{#if:{{{adv_speed|}}}|'''速度''' {{{adv_speed}}}；}}{{#if:{{{adv_ac|}}}|'''AC''' {{{adv_ac}}}；}}{{#if:{{{adv_attack|}}}|'''攻击''' {{{adv_attack}}}；}}{{#if:{{{adv_abil|}}}|'''属性值''' {{{adv_abil}}}}}{{#if:{{{adv_sa|}}}|；'''特殊攻击''' {{{adv_sa}}}}}{{#if:{{{adv_sq|}}}|；'''特殊能力''' {{{adv_sq}}}}}{{#if:{{{adv_other|}}}|；{{{adv_other}}}}}。</div>}}<!--
+-->{{#if:{{{notes|}}}|<div class="feat-block feat-extra"><span class="k">说明</span>{{{notes}}}</div>}}<!--
+-->{{#if:{{{ai|}}}|<div class="feat-block feat-extra" style="color:#9c4a4a"><span class="k">AI 翻译</span>{{{ai}}} 这几项 CHM 汉化没有现成译文，由 AI 照 AoN 译出，未经人工校对。</div>}}<!--
+--></div></includeonly><noinclude>
+德鲁伊动物伙伴的卡片。数据在 data/companions/companions.json（AoN 数值＋中文），由 tools/build_companions.py 生成各页；
+检索器 {{动物伙伴检索结果}}、[[动物伙伴/全部伙伴]]、各伙伴单页都套这一张。参数：name en ctype source flavor page，
+初始数据 size speed ac attack abil sa sq other，进化 advlv adv_size adv_speed adv_ac adv_attack adv_abil adv_sa adv_sq adv_other，notes，ai（AI 译的栏）。
+
+[[分类:模板]]
+</noinclude>

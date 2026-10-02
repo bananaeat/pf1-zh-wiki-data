@@ -1,0 +1,13 @@
+{{消歧义|猎巫人 (消歧义)}}
+{{Feat
+|name=猎巫人
+|english_name=Witchbreaker
+|aliases=女巫克星
+|categories=战斗
+|description=你曾接受过抵御和破坏鬼婆和女巫魔法的训练。
+|prerequisites=钢铁意志。
+|benefit=你在对抗鬼婆和女巫的[[巫术]]、法术、类法术与超自然能力时，于豁免检定上获得+2加值。此外，当你对鬼婆或女巫确认重击时，若有任何盟友受到来自该生物的〔影响心灵〕效果所影响，则他们可以用[[直觉动作]]尝试进行新的豁免检定来对抗该效果。
+|source=UW、
+|source_name=极限荒野、北地居民
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

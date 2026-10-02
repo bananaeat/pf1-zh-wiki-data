@@ -1,0 +1,11 @@
+{{Feat
+|name=铭刻符文
+|english_name=Inscribe Rune
+|categories=造物
+|pfs=否
+|prerequisites=施法者等级3级
+|benefit=你可以创造一个符文。铭刻一枚符文需要花费其每1,000GP的基础价格1天的时间。要铭刻一枚符文，你需要花费其基础价格1/25的经验值并耗费其基础价格一半的原材料作为成本。
+|source_name=冒险之路5：救世者的原罪
+|source_url=https://pf1chm.pages.dev/topics/zh96f1edd242.htm
+}}
+符文是什么、有哪几种，见 [[瑟西隆语符文]]。

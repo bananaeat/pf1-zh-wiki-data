@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=藏骨堂面具
+|english_name=Ossuary Mask
+|aon=MagicWondrousDisplay.aspx?FinalName=Ossuary Mask
+|cat=奇物
+|aura=微弱防护系、预言系
+|cl=5
+|slot=头部
+|price=3,100 gp
+|weight=1磅
+|description=这副金色的丧葬面具刻画着只有在安详逝去的一刻才会出现的宁静表情。佩戴时，它使佩戴者在估价、察觉和察言观色检定上获得+2表现加值，在意志豁免检定上获得+2抗力加值。
+|req=[[制造奇物]]、[[神导术]]、[[提升抗力]]
+|cost=1,550 gp
+|source=格拉利昂的陵墓
+}}

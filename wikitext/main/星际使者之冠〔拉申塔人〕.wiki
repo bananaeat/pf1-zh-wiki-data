@@ -1,0 +1,17 @@
+{{魔法物品
+|name=星际使者之冠〔拉申塔人〕
+|english_name=Diadem of the Interplanetary Emissary (Lashunta)
+|aon=MagicWondrousDisplay.aspx?FinalName=Diadem of the Interplanetary Emissary (Lashunta)
+|cat=奇物
+|aura=中等变化系
+|cl=13
+|slot=头部
+|price=67,500 gp
+|weight=1/2磅
+|description=下列奇物通常只有所标明的种族或族裔的成员才能获得。
+
+这顶精美的银冠带有仿照拉申塔人触角样式的触须。佩戴期间，它为佩戴者持续维持着行星适应（详见《探索者战役设定：遥远世界》第55页）。该冠的魔力还能增强拉申塔人佩戴者的[[心灵感应]]，使她能与任何拥有语言的生物进行精神交流，而不只限于与和她共用一种语言的生物。
+|req=[[制造奇物]]、[[行星适应]]、[[巧言术]]，制造者必须是拉申塔人
+|cost=33,750 gp
+|source=内海种族
+}}

@@ -1,0 +1,11 @@
+{{Trait
+|name=调换而生
+|english_name=Switched at Birth
+|type=种族
+|prerequisites=[[替换儿]]
+|description=你在婴儿时期被调换成为了另一个孩子，直到最近发生的一些悲剧揭露了真相，你才得知自己原来是替换儿。如今知晓你能活着是因为另一个孩子遭遇了可怕的命运的罪恶感困扰着你，驱使你以那个孩子的名义努力前进。
+
+每天一次，你可以尝试以意志豁免代替强韧豁免来对抗法术、效果或状态。
+|source_name=巫团血脉
+|source_url=https://pf1chm.pages.dev/topics/zh4e60eab574.htm
+}}

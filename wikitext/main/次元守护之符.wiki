@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=次元守护之符
+|english_name=Ofuda of Dimensional Warding
+|aon=MagicWondrousDisplay.aspx?FinalName=Ofuda of Dimensional Warding
+|cat=奇物
+|aura=强烈防护系
+|cl=15
+|slot=无
+|price=80,000 gp
+|description=这些符咒是6英寸长的纸条，上面用传统书法写着封印的神秘文字。它们出自天京省，是当地神裔用来阻止古魔入侵者进入物质界的几种手段之一，天京政府愿意出高价购买。如果把一张次元守护之符贴在一处显眼的建筑（例如一棵大树、一尊雕像或一座大门）上，并举行一次特殊的24小时仪式，就会在半径240尺的区域内产生[[次元锁]]的效果，持续到这张符被移除为止。任何移动了符所附着物体的效果，都会终止这一效果，直到再次举行仪式。
+|req=[[制造奇物]]、[[次元锁]]
+|cost=40,000 gp
+|source=古国血脉
+}}

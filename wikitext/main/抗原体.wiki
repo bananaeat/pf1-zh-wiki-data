@@ -1,0 +1,10 @@
+{{Trait
+|name=抗原体
+|english_name=Inoculated
+|type=宗教
+|prerequisites=信仰[[厄加图娅]]
+|description=长期暴露在瘟疫之下，使你在对抗疾病效果的豁免检定上获得+2背景加值。【摘自 Evana 的翻译】
+|source_name=内海诸神
+|source=摘自 Evana 的翻译
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

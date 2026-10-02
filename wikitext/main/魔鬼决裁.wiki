@@ -1,0 +1,12 @@
+{{Feat
+|name=魔鬼决裁
+|english_name=Diabolic Judgement
+|categories=战斗
+|description=你为引起你借机的敌人降下惩罚。
+|prerequisites=战斗反射；魔鬼之型；魔鬼凌辱；要害打击；精通要害打击;精通徒手打击或武器专攻（徒手打击）; 基础攻击加值+12或11级武僧等级.
+|benefit=当使用魔鬼之型时，每轮你的借机攻击第一次成功命中时，你可以将你拥有的任何要害打击系列专长的效果应用于这次攻击。
+|special=拥有此专长的14级以上武僧可以选择[[高等要害打击]]作为武僧奖励专长。
+|source=PA
+|source_name=位面冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

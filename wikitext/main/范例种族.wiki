@@ -1,0 +1,1504 @@
+{{#addbodyclass:pf-rules}}{{速查导航|here=种族}}{{ARG规则导航|here=范例种族}}
+==核心种族范例==
+
+<div class="aff-grid" style="gap:1em 1.2em;align-items:start">
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[矮人]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（矮人） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#缓慢速度|缓慢速度]] || -1 RP
+|-
+| 属性调整 || [[种族量值#标准|标准]]（+2体质，+2感知，-2魅力） || 0 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="12" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#次等防御训练|次等防御训练]] || 1 RP
+|-
+| [[种族构建：种族特性#坚韧|坚韧]] || 3 RP
+|-
+| [[种族构建：种族特性#稳固|稳固]] || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#贪婪|贪婪]] || 1 RP
+|-
+| [[种族构建：种族特性#岩石敏锐|岩石敏锐]] || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 进攻型 ||
+|-
+| [[种族构建：种族特性#仇恨|仇恨]] || 1 RP
+|-
+| [[种族构建：种族特性#武器熟悉|武器熟悉]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || 2 RP
+|-
+| 合计消耗 || 11 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[精灵]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（精灵） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#标准|标准]]（+2敏捷，-2体质，+2智力） || 0 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="10" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#精灵免疫|精灵免疫]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（[[察觉]]） || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 魔法型 ||
+|-
+| [[种族构建：种族特性#精灵魔法|精灵魔法]] || 3 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 进攻型 ||
+|-
+| [[种族构建：种族特性#武器熟悉|武器熟悉]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#昏暗视觉|昏暗视觉]] || 1 RP
+|-
+| 合计消耗 || 10 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[侏儒]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（侏儒） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#小型|小型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#缓慢速度|缓慢速度]] || -1 RP
+|-
+| 属性调整 || [[种族量值#标准|标准]]（-2力量，+2体质，+2魅力） || 0 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="13" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#次等防御训练|次等防御训练]] || 1 RP
+|-
+| [[种族构建：种族特性#幻术抗性|幻术抗性]] || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（察觉） || 2 RP
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（选择一种工艺或专业） || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 魔法型 ||
+|-
+| [[种族构建：种族特性#侏儒魔法|侏儒魔法]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 进攻型 ||
+|-
+| [[种族构建：种族特性#仇恨|仇恨]] || 1 RP
+|-
+| [[种族构建：种族特性#武器熟悉|武器熟悉]] || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#昏暗视觉|昏暗视觉]] || 1 RP
+|-
+| 合计消耗 || 10 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[半精灵]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（精灵，人类） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#人类血脉|人类血脉]] || 0 RP
+|-
+| 语言 || [[种族量值#语言天赋|语言天赋]] || 1 RP
+|-
+| rowspan="9" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#精灵免疫|精灵免疫]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（察觉） || 2 RP
+|-
+| [[种族构建：种族特性#奖励固定专长|奖励固定专长]]（技能专攻） || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#昏暗视觉|昏暗视觉]] || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 其他 ||
+|-
+| [[种族构建：种族特性#多才多艺|多才多艺]] || 2 RP
+|-
+| 合计消耗 || 10 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[半兽人]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（人类，兽人） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#人类血脉|人类血脉]] || 0 RP
+|-
+| 语言 || [[种族量值#语言天赋|语言天赋]] || 1 RP
+|-
+| rowspan="7" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（[[威吓]]） || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 进攻型 ||
+|-
+| [[种族构建：种族特性#兽人凶猛|兽人凶猛]] || 2 RP
+|-
+| [[种族构建：种族特性#武器熟悉|武器熟悉]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || 2 RP
+|-
+| 合计消耗 || 8 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[半身人]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（半身人） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#小型|小型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#缓慢速度|缓慢速度]] || -1 RP
+|-
+| 属性调整 || [[种族量值#标准|标准]]（-2力量，+2敏捷，+2魅力） || 0 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="9" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#无畏|无畏]] || 1 RP
+|-
+| [[种族构建：种族特性#次等幸运|次等幸运]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（[[特技]]） || 2 RP
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（[[攀爬]]） || 2 RP
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（察觉） || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 进攻型 ||
+|-
+| [[种族构建：种族特性#武器熟悉|武器熟悉]] || 1 RP
+|-
+| 合计消耗 || 9 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[人类]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（人类） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#人类血脉|人类血脉]] || 0 RP
+|-
+| 语言 || [[种族量值#语言天赋|语言天赋]] || 1 RP
+|-
+| rowspan="3" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#可变奖励专长|可变奖励专长]] || 4 RP
+|-
+| [[种族构建：种族特性#技能奖励|技能奖励]] || 4 RP
+|-
+| 合计消耗 || 9 RP || 
+|}
+</div>
+</div>
+
+==扩展种族范例==
+
+<div class="aff-grid" style="gap:1em 1.2em;align-items:start">
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[神裔]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#本地异界生物|本地异界生物]] || style="width:4.4em" | 3 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#灵活|灵活]]（+2感知，+2魅力） || 2 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="9" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#天界抗力|天界抗力]] || 3 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（[[交涉]]） || 2 RP
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（察觉） || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 魔法型 ||
+|-
+| [[种族构建：种族特性#高等类法术能力|高等类法术能力]] || 3 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || – RP
+|-
+| 合计消耗 || 15 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[猫族]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（猫族） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#标准|标准]]（+2敏捷，-2感知，+2魅力） || 0 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="10" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#猫之幸运|猫之幸运]] || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（察觉） || 2 RP
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（[[隐匿]]） || 2 RP
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（[[生存]]） || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 移动型 ||
+|-
+| [[种族构建：种族特性#短跑健将|短跑健将]] || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#昏暗视觉|昏暗视觉]] || 1 RP
+|-
+| 合计消耗 || 9 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[吸血裔]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（吸血裔） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#标准|标准]]（+2敏捷，-2体质，+2魅力） || 0 RP
+|-
+| 语言 || [[种族量值#语言天赋|语言天赋]] || 1 RP
+|-
+| rowspan="14" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#抵抗等级吸取|抵抗等级吸取]] || 1 RP
+|-
+| [[种族构建：种族特性#亡灵抗性|亡灵抗性]] || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（[[唬骗]]） || 2 RP
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（察觉） || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 魔法型 ||
+|-
+| [[种族构建：种族特性#次等类法术能力|次等类法术能力]] || 3 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || 2 RP
+|-
+| [[种族构建：种族特性#昏暗视觉|昏暗视觉]] || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 缺陷型 ||
+|-
+| [[种族构建：种族特性#强光敏感|强光敏感]] || -1 RP
+|-
+| [[种族构建：种族特性#负能量亲和|负能量亲和]] || -1 RP
+|-
+| 合计消耗 || 11 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[卓尔]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（精灵） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#标准|标准]]（+2敏捷，-2体质，+2魅力） || 0 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="14" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#精灵免疫|精灵免疫]] || 2 RP
+|-
+| [[种族构建：种族特性#次等法术抗力|次等法术抗力]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（察觉） || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 魔法型 ||
+|-
+| [[种族构建：种族特性#次等类法术能力|次等类法术能力]] || 4 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 进攻型 ||
+|-
+| [[种族构建：种族特性#用毒|用毒]] || 1 RP
+|-
+| [[种族构建：种族特性#武器熟悉|武器熟悉]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#120尺黑暗视觉|120尺黑暗视觉]] || 3 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 缺陷型 ||
+|-
+| [[种族构建：种族特性#强光致盲|强光致盲]] || -2 RP
+|-
+| 合计消耗 || 14 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[卓尔贵族(种族)|卓尔贵族]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（精灵） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#强化|强化]]（+4敏捷，-2体质，+2智力，+2感知，+2魅力） || 4 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="17" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#精灵免疫|精灵免疫]] || 2 RP
+|-
+| [[种族构建：种族特性#高等法术抗力|高等法术抗力]] || 3 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（察觉） || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 魔法型 ||
+|-
+| [[种族构建：种族特性#次等类法术能力|次等类法术能力]] || 1 RP
+|-
+| [[种族构建：种族特性#高等类法术能力|高等类法术能力]] || 6 RP
+|-
+| 常驻类法术能力 || 3 RP
+|-
+| [[种族构建：种族特性#随意类法术能力|随意类法术能力]] || 16 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 进攻型 ||
+|-
+| [[种族构建：种族特性#用毒|用毒]] || 1 RP
+|-
+| [[种族构建：种族特性#武器熟悉|武器熟悉]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#120尺黑暗视觉|120尺黑暗视觉]] || 3 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 缺陷型 ||
+|-
+| [[种族构建：种族特性#强光致盲|强光致盲]] || -2 RP
+|-
+| 合计消耗 || 41 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[灰矮人]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（矮人） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#缓慢速度|缓慢速度]] || -1 RP
+|-
+| 属性调整 || [[种族量值#弱势|弱势]]（+2体质，+2感知，-4魅力） || -1 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="9" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#灰矮人免疫|灰矮人免疫]] || 4 RP
+|-
+| [[种族构建：种族特性#稳固|稳固]] || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 魔法型 ||
+|-
+| [[种族构建：种族特性#次等类法术能力|次等类法术能力]] || 3 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#120尺黑暗视觉|120尺黑暗视觉]] || 3 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 缺陷型 ||
+|-
+| [[种族构建：种族特性#强光敏感|强光敏感]] || -1 RP
+|-
+| 合计消耗 || 8 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[窃影鬼]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#本地异界生物|本地异界生物]] || style="width:4.4em" | 3 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#标准|标准]]（+2敏捷，-2感知，+2魅力） || 0 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="12" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#融影|融影]] || 1 RP
+|-
+| [[种族构建：种族特性#暗影抗力|暗影抗力]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（[[知识]]－位面） || 2 RP
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（隐匿） || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 魔法型 ||
+|-
+| [[种族构建：种族特性#次等类法术能力|次等类法术能力]] || 1 RP
+|-
+| [[种族构建：种族特性#阴影旅行|阴影旅行]] || 5 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || – RP
+|-
+| [[种族构建：种族特性#昏暗视觉|昏暗视觉]] || 1 RP
+|-
+| 合计消耗 || 17 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[地精]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（地精） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#小型|小型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#高等典范|高等典范]]（-2力量，+4敏捷，-2魅力） || 2 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="4" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#潜行骑手|潜行骑手]] || 6 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || 2 RP
+|-
+| 合计消耗 || 10 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[树蛙人]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（树蛙人） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#小型|小型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#标准|标准]]（-2力量，+2敏捷，+2感知） || 0 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="9" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#伪装|伪装]] || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 移动型 ||
+|-
+| [[种族构建：种族特性#攀爬|攀爬]] || 2 RP
+|-
+| [[种族构建：种族特性#地形穿越|地形穿越]]（沼泽） || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 进攻型 ||
+|-
+| [[种族构建：种族特性#武器熟悉|武器熟悉]] || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || 2 RP
+|-
+| 合计消耗 || 7 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[大地精]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（地精） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#灵活|灵活]]（+2敏捷，+2体质） || 2 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="4" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#鬼祟|鬼祟]] || 5 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || 2 RP
+|-
+| 合计消耗 || 9 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[火元素裔]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#本地异界生物|本地异界生物]] || style="width:4.4em" | 3 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#标准|标准]]（+2敏捷，-2感知，+2魅力） || 0 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="7" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#能量抗力|能量抗力]]（火焰） || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 魔法型 ||
+|-
+| [[种族构建：种族特性#元素亲和|元素亲和]]（火） || 1 RP
+|-
+| [[种族构建：种族特性#次等类法术能力|次等类法术能力]] || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || – RP
+|-
+| 合计消耗 || 6 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[狗头人]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（爬行类） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#小型|小型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#非常弱势|非常弱势]]（-4力量，+2敏捷，-2体质） || -3 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="10" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#天生护甲|天生护甲]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（[[工艺]]－陷阱制造） || 2 RP
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（[[专业]]－矿工） || 2 RP
+|-
+| [[种族构建：种族特性#技能训练|技能训练]]（工艺－陷阱制造和专业－矿工） || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 缺陷型 ||
+|-
+| [[种族构建：种族特性#强光敏感|强光敏感]] || -1 RP
+|-
+| 合计消耗 || 5 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[兽人]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（兽人） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#典范|典范]]（+4力量，-2智力，-2感知，-2魅力） || 1 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="7" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 进攻型 ||
+|-
+| [[种族构建：种族特性#凶猛|凶猛]] || 4 RP
+|-
+| [[种族构建：种族特性#武器熟悉|武器熟悉]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 缺陷型 ||
+|-
+| [[种族构建：种族特性#强光敏感|强光敏感]] || -1 RP
+|-
+| 合计消耗 || 8 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[土元素裔]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#本地异界生物|本地异界生物]] || style="width:4.4em" | 3 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#缓慢速度|缓慢速度]] || -1 RP
+|-
+| 属性调整 || [[种族量值#标准|标准]]（+2力量，+2感知，-2魅力） || 0 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="7" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#能量抗力|能量抗力]]（酸蚀） || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 魔法型 ||
+|-
+| [[种族构建：种族特性#元素亲和|元素亲和]]（土） || 1 RP
+|-
+| [[种族构建：种族特性#次等类法术能力|次等类法术能力]] || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || – RP
+|-
+| 合计消耗 || 5 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[鼠族]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（鼠族） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#小型|小型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#缓慢速度|缓慢速度]] || -1 RP
+|-
+| 属性调整 || [[种族量值#标准|标准]]（-2力量，+2敏捷，+2智力） || 0 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="10" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（工艺－炼金） || 2 RP
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（察觉） || 2 RP
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（[[使用魔法装置]]） || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 进攻型 ||
+|-
+| [[种族构建：种族特性#群居|群居]] || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 其他 ||
+|-
+| [[种族构建：种族特性#啮齿认同|啮齿认同]] || 1 RP
+|-
+| 合计消耗 || 9 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[巨灵裔]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#本地异界生物|本地异界生物]] || style="width:4.4em" | 3 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#标准|标准]]（+2力量，-2智力，+2魅力） || 0 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="10" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#能量抗力|能量抗力]]（全部） || 4 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（交涉） || 2 RP
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（[[察言观色]]） || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 进攻型 ||
+|-
+| [[种族构建：种族特性#元素攻袭|元素攻袭]]（全部） || 4 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || – RP
+|-
+| [[种族构建：种族特性#昏暗视觉|昏暗视觉]] || 1 RP
+|-
+| 合计消耗 || 16 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[地底侏儒]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（侏儒） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#小型|小型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#缓慢速度|缓慢速度]] || -1 RP
+|-
+| 属性调整 || [[种族量值#混合弱势|混合弱势]]（-2力量，+2敏捷，+2感知，-4魅力） || -2 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="16" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#高等防御训练|高等防御训练]] || 3 RP
+|-
+| [[种族构建：种族特性#高等幸运|高等幸运]] || 4 RP
+|-
+| [[种族构建：种族特性#高等法术抗力|高等法术抗力]] || 3 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（工艺－炼金） || 2 RP
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（察觉） || 2 RP
+|-
+| [[种族构建：种族特性#岩石敏锐|岩石敏锐]] || 1 RP
+|-
+| [[种族构建：种族特性#地下潜行|地下潜行]] || 5 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 魔法型 ||
+|-
+| [[种族构建：种族特性#地底侏儒魔法|地底侏儒魔法]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 进攻型 ||
+|-
+| [[种族构建：种族特性#仇恨|仇恨]] || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#120尺黑暗视觉|120尺黑暗视觉]] || 3 RP
+|-
+| [[种族构建：种族特性#昏暗视觉|昏暗视觉]] || 1 RP
+|-
+| 合计消耗 || 24 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[风元素裔]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#本地异界生物|本地异界生物]] || style="width:4.4em" | 3 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#标准|标准]]（+2敏捷，-2体质，+2智力） || 0 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="7" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#能量抗力|能量抗力]]（电击） || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 魔法型 ||
+|-
+| [[种族构建：种族特性#元素亲和|元素亲和]]（气） || 1 RP
+|-
+| [[种族构建：种族特性#次等类法术能力|次等类法术能力]] || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || – RP
+|-
+| 合计消耗 || 6 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[天狗]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（天狗） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#标准|标准]]（+2敏捷，-2体质，+2感知） || 0 RP
+|-
+| 语言 || [[种族量值#语言天赋|语言天赋]] || 1 RP
+|-
+| rowspan="9" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#天生巧言|天生巧言]] || 2 RP
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（察觉） || 2 RP
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（隐匿） || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 进攻型 ||
+|-
+| [[种族构建：种族特性#天生武器|天生武器]] || 1 RP
+|-
+| [[种族构建：种族特性#剑类训练|剑类训练]] || 4 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#昏暗视觉|昏暗视觉]] || 1 RP
+|-
+| 合计消耗 || 12 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[魔裔]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#本地异界生物|本地异界生物]] || style="width:4.4em" | 3 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#标准|标准]]（+2敏捷，+2智力，-2魅力） || 0 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="10" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#炼狱抗力|炼狱抗力]] || 3 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（唬骗） || 2 RP
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（隐匿） || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 魔法型 ||
+|-
+| [[种族构建：种族特性#炼狱魔力|炼狱魔力]] || 1 RP
+|-
+| [[种族构建：种族特性#次等类法术能力|次等类法术能力]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || – RP
+|-
+| 合计消耗 || 13 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[水元素裔]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#本地异界生物|本地异界生物]] || style="width:4.4em" | 3 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#标准|标准]]（-2力量，+2敏捷，+2感知） || 0 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="9" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#能量抗力|能量抗力]]（寒冷） || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 魔法型 ||
+|-
+| [[种族构建：种族特性#元素亲和|元素亲和]]（水） || 1 RP
+|-
+| [[种族构建：种族特性#次等类法术能力|次等类法术能力]] || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 移动型 ||
+|-
+| [[种族构建：种族特性#游泳|游泳]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || – RP
+|-
+| 合计消耗 || 8 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[灵猴族]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（灵猴族） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#标准|标准]]（+2敏捷，+2感知，-2魅力） || 0 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="9" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（特技） || 2 RP
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（隐匿） || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 移动型 ||
+|-
+| [[种族构建：种族特性#攀爬|攀爬]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#昏暗视觉|昏暗视觉]] || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 其他 ||
+|-
+| [[种族构建：种族特性#卷尾|卷尾]] || 2 RP
+|-
+| 合计消耗 || 9 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[蝮血裔]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（蝮血裔） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#标准|标准]]（+2敏捷，-2感知，+2魅力） || 0 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="11" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#毒素抗力|毒素抗力]] || 3 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（[[脱逃]]） || 2 RP
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（察觉） || 2 RP
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（隐匿） || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 进攻型 ||
+|-
+| [[种族构建：种族特性#毒液|毒液]] || 1 RP
+|-
+| [[种族构建：种族特性#武器熟悉|武器熟悉]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#昏暗视觉|昏暗视觉]] || 1 RP
+|-
+| 合计消耗 || 13 RP || 
+|}
+</div>
+</div>
+
+==其他种族范例==
+
+<div class="aff-grid" style="gap:1em 1.2em;align-items:start">
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[人马|半人马]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#人型怪物|人型怪物]] || style="width:4.4em" | 3 RP
+|-
+| 体型 || [[种族量值#大型|大型]] || 7 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#灵活|灵活]]（+2力量，+2感知） || 2 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="12" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 属性值 ||
+|-
+| [[种族构建：种族特性#强化体质|强化体质]]（+2） || 4 RP
+|-
+| [[种族构建：种族特性#强化敏捷|强化敏捷]]（+2） || 4 RP
+|-
+| [[种族构建：种族特性#强化力量|强化力量]]（+2） || 4 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#天生护甲|天生护甲]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 移动型 ||
+|-
+| [[种族构建：种族特性#速行|速行]]（+10尺） || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || – RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 其他 ||
+|-
+| [[种族构建：种族特性#多足|多足]] || 2 RP
+|-
+| 合计消耗 || 29 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[蛛化精灵]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#异怪|异怪]] || style="width:4.4em" | 3 RP
+|-
+| 体型 || [[种族量值#大型|大型]] || 7 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#灵活|灵活]]（+2体质，+2感知） || 2 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="13" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 属性值 ||
+|-
+| [[种族构建：种族特性#强化体质|强化体质]]（+2） || 4 RP
+|-
+| [[种族构建：种族特性#强化敏捷|强化敏捷]]（+2） || 4 RP
+|-
+| [[种族构建：种族特性#强化力量|强化力量]]（+2） || 4 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#高等法术抗力|高等法术抗力]] || 3 RP
+|-
+| [[种族构建：种族特性#天生护甲|天生护甲]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 移动型 ||
+|-
+| [[种族构建：种族特性#攀爬|攀爬]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || – RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 其他 ||
+|-
+| [[种族构建：种族特性#多足|多足]]（8只脚） || 4 RP
+|-
+| 合计消耗 || 35 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[石像鬼]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#人型怪物|人型怪物]] || style="width:4.4em" | 3 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#典范|典范]]（+4体质，-2智力，-2感知，-2魅力） || 1 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="16" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 属性值 ||
+|-
+| [[种族构建：种族特性#强化力量|强化力量]]（+2） || 4 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#伤害减免|伤害减免]]（10/魔法） || 6 RP
+|-
+| [[种族构建：种族特性#进阶天生护甲|进阶天生护甲]]（+3） || 6 RP
+|-
+| [[种族构建：种族特性#天生护甲|天生护甲]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#技能加值|技能加值]]（+2隐匿） || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 移动型 ||
+|-
+| [[种族构建：种族特性#飞行|飞行]]（50尺，机动性一般） || 8 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 进攻型 ||
+|-
+| [[种族构建：种族特性#啮咬|啮咬]] || 1 RP
+|-
+| [[种族构建：种族特性#利爪|利爪]] || 2 RP
+|-
+| [[种族构建：种族特性#天生武器|天生武器]]（抵撞） || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || – RP
+|-
+| 合计消耗 || 36 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[豺狼人]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（豺狼人） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#灵活|灵活]]（+2力量，+2体质） || 2 RP
+|-
+| 语言 || [[种族量值#保守排外|保守排外]] || 0 RP
+|-
+| rowspan="4" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#天生护甲|天生护甲]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || 2 RP
+|-
+| 合计消耗 || 6 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[蜥蜴人]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（爬行类） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#灵活|灵活]]（+2力量，+2体质） || 2 RP
+|-
+| 语言 || [[种族量值#保守排外|保守排外]] || 0 RP
+|-
+| rowspan="7" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#天生护甲|天生护甲]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 移动型 ||
+|-
+| [[种族构建：种族特性#游泳|游泳]] || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 进攻型 ||
+|-
+| [[种族构建：种族特性#啮咬|啮咬]] || 1 RP
+|-
+| [[种族构建：种族特性#利爪|利爪]] || 2 RP
+|-
+| 合计消耗 || 8 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[食人魔]]
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（巨人） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#大型|大型]] || 7 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#典范|典范]]（+4力量，-2智力，-2感知，-2魅力） || 1 RP
+|-
+| 语言 || [[种族量值#保守排外|保守排外]] || 0 RP
+|-
+| rowspan="11" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 属性值 ||
+|-
+| [[种族构建：种族特性#强化体质|强化体质]]（+2） || 4 RP
+|-
+| [[种族构建：种族特性#强化感知|强化感知]]（+2） || 4 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#进阶天生护甲|进阶天生护甲]]（+1） || 1 RP
+|-
+| [[种族构建：种族特性#天生护甲|天生护甲]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 进攻型 ||
+|-
+| [[种族构建：种族特性#增长触及|增长触及]] || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || 2 RP
+|-
+| [[种族构建：种族特性#昏暗视觉|昏暗视觉]] || 1 RP
+|-
+| 合计消耗 || 23 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[伽瑟兰|小木精]]
+|-
+| colspan="3" | 这些奇异的精类生物与作为翅膀的藤状植物之间有着共生关系。这种联系如此紧密，以至于无法将妖精和植物分割开来。小木精居住在深幽森林和丛林中，乐于助人又调皮捣蛋，不过也同样喜欢漫游和冒险。
+|-
+| style="width:5.4em" | 类型 || [[种族量值#精类|精类]] || style="width:4.4em" | 2 RP
+|-
+| 体型 || [[种族量值#小型|小型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#标准|标准]]（+2敏捷，-2体质，+2魅力） || 0 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="8" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#天生护甲|天生护甲]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 魔法型 ||
+|-
+| [[种族构建：种族特性#次等类法术能力|次等类法术能力]]（纠缠术，轻羽步） || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 移动型 ||
+|-
+| [[种族构建：种族特性#飞行|飞行]]（40尺，机动性差） || 6 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#昏暗视觉|昏暗视觉]] || – RP
+|-
+| 合计消耗 || 12 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[卡萨达人]]
+|-
+| colspan="3" | 部落群居的四臂种族卡萨达是废土的猎人和劫匪，他们用迅如疾电的神速掠击守卫着自己的领土。有些该种族的成员会在刚成年之时外出漫游冒险一年之久，寻找能够带回自己部落的财宝。某些叛逆的另类会背井离乡，常年从事旅行和冒险。
+|-
+| style="width:5.4em" | 类型 || [[种族量值#类人生物|类人生物]]（卡萨达人） || style="width:4.4em" | 0 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#灵活|灵活]]（+2敏捷，+2感知） || 2 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="10" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
+|-
+| [[种族构建：种族特性#高等防御训练|高等防御训练]] || 4 RP
+|-
+| [[种族构建：种族特性#沙漠跑者|沙漠跑者]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
+|-
+| [[种族构建：种族特性#追踪者|追踪者]] || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 移动型 ||
+|-
+| [[种族构建：种族特性#跳跃者|跳跃者]] || 2 RP
+|-
+| [[种族构建：种族特性#地形穿越|地形穿越]]（沙漠） || 1 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 其他 ||
+|-
+| [[种族构建：种族特性#多臂|多臂]]（4只手臂） || 8 RP
+|-
+| 合计消耗 || 20 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[卓克斯虫族|怒地鬼]]
+|-
+| colspan="3" | 这些巨大而可怕的掘地者是山岭和高原的原住民，但常常被劫掠大军作为威慑兵器而奴役，或被当作角斗场上的展示品。有些怒地鬼为自己赢取了自由并受雇成为保镖或土匪，甚至是冒险者。
+|-
+| style="width:5.4em" | 类型 || [[种族量值#人型怪物|人型怪物]] || style="width:4.4em" | 3 RP
+|-
+| 体型 || [[种族量值#大型|大型]] || 7 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#典范|典范]]（+4力量，-2智力，-2感知，-2魅力） || 1 RP
+|-
+| 语言 || [[种族量值#保守排外|保守排外]] || 0 RP
+|-
+| rowspan="10" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 属性值 ||
+|-
+| [[种族构建：种族特性#强化力量|强化力量]]（+2） || 4 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 移动型 ||
+|-
+| [[种族构建：种族特性#掘穴|掘穴]] || 3 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 进攻型 ||
+|-
+| [[种族构建：种族特性#战狂|战狂]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || 2 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 其他 ||
+|-
+| [[种族构建：种族特性#攫抓附肢|攫抓附肢]] || 6 RP
+|-
+| 合计消耗 || 28 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[汲魂木]]
+|-
+| colspan="3" | 原初的汲魂木祖先是作为法师的间谍和助手被创造出来的。法师完蛋的原因正是给予了他们自由意志，从此世上诞生了一个冷酷无情、精于计算的新种族。汲魂木杀害了旧主、获取了如何创造同类的秘笈，并对其警惕而严格地进行保护和控制。
+|-
+| style="width:5.4em" | 类型 || [[种族量值#构装体|构装体]] || style="width:4.4em" | 20 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#标准|标准]]（+2敏捷，+2智力，-2魅力） || 0 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="3" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || – RP
+|-
+| [[种族构建：种族特性#昏暗视觉|昏暗视觉]] || – RP
+|-
+| 合计消耗 || 20 RP || 
+|}
+</div>
+<div>
+{| class="wikitable" style="display:table;width:100%;margin:0"
+! colspan="3" | [[翼龙人|翼龙族]]
+|-
+| colspan="3" | 翼龙族被认为是狗头人和翼龙的混合体，他们常常领导着狗头人部落，或侍奉翼龙，甚至与真龙同栖。他们是与翼龙类似的领地型生物，但同时对荣誉有着敏锐的执着。根据被对待的态度，翼龙族可以是强大的盟友或致命的敌人。
+|-
+| style="width:5.4em" | 类型 || [[种族量值#龙类|龙类]] || style="width:4.4em" | 10 RP
+|-
+| 体型 || [[种族量值#中型|中型]] || 0 RP
+|-
+| 基本速度 || [[种族量值#普通速度|普通速度]] || 0 RP
+|-
+| 属性调整 || [[种族量值#标准|标准]]（+2敏捷，-2智力，+2感知） || 0 RP
+|-
+| 语言 || [[种族量值#标准语言|标准语言]] || 0 RP
+|-
+| rowspan="7" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 移动型 ||
+|-
+| [[种族构建：种族特性#飞行|飞行]]（30尺，机动性笨拙） || 4 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 进攻型 ||
+|-
+| [[种族构建：种族特性#扫尾|扫尾]] || 3 RP
+|-
+| style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 感官型 ||
+|-
+| [[种族构建：种族特性#60尺黑暗视觉|60尺黑暗视觉]] || – RP
+|-
+| [[种族构建：种族特性#昏暗视觉|昏暗视觉]] || – RP
+|-
+| 合计消耗 || 17 RP || 
+|}
+</div>
+</div>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_404.html 原文]）。种族条目见 [[种族]]，建种族的规则见 [[种族构建]]。
+
+{{AoN原文|1164|Race Examples}}
+
+[[分类:种族规则]]

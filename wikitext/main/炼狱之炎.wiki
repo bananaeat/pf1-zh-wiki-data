@@ -1,0 +1,10 @@
+{{Trait
+|name=炼狱之炎
+|english_name=Flames of Hell
+|type=宗教
+|prerequisites=信仰任一魔鬼大公
+|description=你与你信奉的魔鬼大公之间的纽带使你的[[引导能量]]更加强大。你的引导能量能力的豁免DC+1。
+|source_name=堕落信念
+|source=FoC
+|source_url=https://pf1chm.pages.dev/topics/zhd0c4b91542.htm
+}}

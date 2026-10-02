@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[热情祝福]] 的神话版本。</small></div>
+{{Spell
+|name=热情祝福
+|english_name=Blessing of Fervor
+|school=变化系
+|levels=先知 4;战斗祭司 4;牧师 4
+|description=受影响的生物每轮能够从法术的增益中选取2个，而非原本的1个。
+|source=神话冒险
+}}
+[[分类:神话法术]]

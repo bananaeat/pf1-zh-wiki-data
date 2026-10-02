@@ -1,0 +1,23 @@
+{{科技物品
+|name=脉冲手枪
+|english_name=EMP pistol
+|kind=科技武器
+|sub=火器
+|price=12,000 gp
+|weight=2磅
+|wtype=单手远程
+|prof=异种（火器）
+|dmg_s=1d10
+|dmg_m=2d6
+|dmg_type=电击
+|crit=×2
+|range=50尺
+|capacity=10
+|usage=1
+|special=半自动、接触
+|description=脉冲手枪发射一道电磁能量束，不能伤害活物，但对机体亚种的生物有可怕的杀伤力。脉冲手枪能伤害[[仿生人]]和装有电子殖装物的生物，但它们受到命中时只受一半伤害。被脉冲手枪重击并因此受到伤害的生物必须通过DC 15的强韧豁免，否则[[恍惚]]1d4轮。
+|construction=[[制造科技武器和护甲]]、军事工作间
+|craft_dc=25
+|cost=6,000 gp
+|source=科技指南
+}}

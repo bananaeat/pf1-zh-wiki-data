@@ -1,0 +1,44 @@
+{{速查导航}}
+{{怪物
+|name=无界陆龟
+|english_name=Tortoise, Immense
+|cr=8
+|xp=4,800
+|alignment=绝对中立
+|size=超巨型
+|type=动物
+|init=–2
+|senses=昏暗视觉；察觉 +14
+|description=花草树木生长在这硕大无朋的巨龟背上，它的双眼流露出迟钝懒散的目光。
+|ac=25，接触 0，措手不及 25（–2 敏捷，+25 天生，–8 体型）
+|hp=126（11d8+77）
+|fort=+16
+|ref=+5
+|will=+3
+|speed=20 尺
+|melee=噬咬 +15（4d6+22/19–20）
+|space=30 尺
+|reach=30 尺
+|special_attacks=践踏（2d8 + 22，DC 30）
+|str=40
+|dex=7
+|con=24
+|int=2
+|wis=11
+|cha=9
+|bab=+8
+|cmb=+31
+|cmd=39（43 对抗摔绊）
+|feats=[[重击专攻]];[[坚忍]];[[强韧加强]];[[精通重击]]（噬咬）;[[精通强韧加强]];[[猛力攻击]]
+|skills=[[察觉]]+14（基于声音的检定+10）
+|racial_mods=基于声音的检定–4 察觉
+|sq=浮力;龟壳;稳稳当当（见巨陆龟）
+|environment=温暖的群岛
+|organization=单独
+|treasure=无
+|source=怪物图鉴4
+|lore=
+这些硕大无朋的古老陆龟永远不会停止生长。
+}}
+
+本页译自《[[怪物图鉴4]]》的怪物图鉴 CHM。

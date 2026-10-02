@@ -1,0 +1,10 @@
+{{Trait
+|name=圣纹身
+|english_name=Holy Tattoo
+|type=地区
+|prerequisites=瓦瑞西亚
+|description=多年前你请一名斯科扎尼纹身师将你所信神祇的圣徽纹在了身上，当时你从没想过它会救你一命。你的[[纹身圣徽]]在各方面都如同圣徽一般作用。当你使用它阻止吸血鬼靠近时，吸血鬼克服厌恶的DC为28（而非通常的25）。
+|source_name=地区背景
+|source=USH
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

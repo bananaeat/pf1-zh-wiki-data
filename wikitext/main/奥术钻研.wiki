@@ -1,0 +1,10 @@
+{{Trait
+|name=奥术钻研
+|english_name=Arcane Depth
+|type=宗教
+|prerequisites=信仰[[内希斯]]
+|description=你研习过法术技艺的伟大宗师，学识非凡。你在[[法术辨识]]检定上获得+1背景加值，或者在知识(奥术)检定上获得+2背景加值。你必须在选择此背景特性时决定获得哪一项，一经选定不能更改。【摘自 lesser 的翻译】
+|source_name=内海诸神
+|source=摘自 lesser 的翻译
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

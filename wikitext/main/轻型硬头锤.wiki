@@ -1,0 +1,16 @@
+{{武器
+|name=轻型硬头锤
+|english_name=Light mace
+|category=武器
+|prof=简易
+|wcat=轻型
+|price=5 gp
+|weight=4磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×2
+|type=钝击
+|groups=锤
+|description=轻型硬头锤的头部是一块雕琢精美的金属，被安装在金属或木制的握柄上。硬头锤的头部通常凹凸不平，以造成更大的痛苦和伤害。某些更原始的硬头锤是用皮带将石头固定在木柄上制成的。
+|source=核心规则书、极限宝具
+}}

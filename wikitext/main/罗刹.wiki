@@ -1,0 +1,7 @@
+{{物品
+|name=罗刹
+|english_name=The Rakshasa
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。任何时候抽牌者蓄意撒谎，他在一小时内变为动物。为了变成动物而撒谎无法触发该效果。
+}}

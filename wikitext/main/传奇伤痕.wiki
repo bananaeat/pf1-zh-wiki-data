@@ -1,0 +1,10 @@
+{{Trait
+|name=传奇伤痕
+|english_name=Storied Scars
+|type=种族
+|prerequisites=[[人类]]（凯利德人）
+|description=你自豪于一生中在身上留下的数不清的伤疤，每一道伤疤都诉说着你经历的故事。
+|benefit=你在与其他凯利德人互动的交涉检定上+1背景加值；你在与非凯利德人打交道的威吓检定上+1背景加值。
+|source_name=北地居民
+|source_url=https://pf1chm.pages.dev/topics/zh63296b3929.htm
+}}

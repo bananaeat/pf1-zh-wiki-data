@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Hell's Vengeance Player's Guide pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=特鲁恩线人
+|english_name=Thrune Informant
+|type=战役
+|pfs=否
+|description=三度受诅的特鲁恩家族以专制权力统治着切利亚斯，它的代表遍布整个帝国，来自各行各业。这些代理人大多并不直接作为政府雇员工作，但他们仍以力所能及的各种方式为特鲁恩家族效力。你是切利亚斯真正的爱国者，长期以来一直作为一名领报酬的线人为特鲁恩家族工作。你把所见所闻报告给当局，偶尔在受命时执行适合你技能与能力的特定任务。像你这样的人帮助防止潜在的叛徒和其他「不良分子」破坏特鲁恩的权威，并让切利亚斯社会平稳运转。你希望通过持续的忠心服务，最终能成为特鲁恩家族宣誓效忠的代理人，获得更大的权力和自主。你在用于收集情报的[[交涉]]检定、[[易容]]检定和[[知识]]（本地）检定上获得+1背景加值，并且其中一项技能（由你选择）是你的本职技能。
+|source_name=Hell's Vengeance Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Thrune%20Informant
+}}

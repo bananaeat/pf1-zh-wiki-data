@@ -1,0 +1,15 @@
+{{魔法物品
+|name=构装引导砖
+|english_name=Construct Channel Brick
+|aon=MagicWondrousDisplay.aspx?FinalName=Construct Channel Brick
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=无
+|price=10,000 gp
+|weight=1磅
+|description=这块实心的红砖会改变形状以适合持有者的圣徽。如果持有者拥有[[引导能量]]职业能力，她可以将力量集中在砖上，使她能修复受损的构装体和物体，如同它们是活物一般。无论持有者引导的是正能量还是负能量，这件物品都能起作用。如果持有者拥有[[手艺领域]]，她在修复构装体和物体时，其[[技工之触]]领域能力额外增加2d6点伤害。
+|req=[[制造奇物]]、[[完全修复术]]
+|cost=5,000 gp
+|source=进阶玩家指南、极限宝具
+}}

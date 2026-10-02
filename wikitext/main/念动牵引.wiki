@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''念动牵引'''（Telekinetic Haul, Sp）是[[操念使]]的[[原力]]。
+
+元素：[[以太]]；类别：通用（Sp）；等级：2；超载：0
+
+前置：[[基础心灵念力]]
+
+当你使用基础心灵念力时，你能够移动一件重量不超过每个[[操念使]]等级100磅的物体。当你使用[[念动]]时，可以投掷重量至多为每个操念使等级100磅的物体，但是这并不会增加伤害。若你承受1点超载，物体的重量上限会提升至每个操念使等级1000磅，持续时间会增加至每个操念使等级1分钟。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Telekinetic Haul|2=Telekinetic Haul}}
+
+[[分类:原力]]

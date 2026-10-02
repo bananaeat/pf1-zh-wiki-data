@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[蛇形拳]] 的神话版本。</small></div>
+{{Feat
+|name=蛇形拳
+|english_name=Gorgon's Fist
+|categories=神话
+|description=你的打击能够削弱敌人，使它们失去方向感。
+|prerequisites=[[蛇形拳]]
+|benefit=当你使用[[蛇形拳]]专长击中1名生物时，若目标的强韧豁免失败，它就会晕眩1轮，而不是原本的[[恍惚]]。当你使用蛇形拳专长命中敌人，但是敌人还未进行豁免时，能够花费1次神话之力使DC增加，数值为你的阶层的一半。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

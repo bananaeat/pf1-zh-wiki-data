@@ -1,0 +1,42 @@
+<div class="well" style="margin:.2em 0"><small>'''本页尚未汉化。'''民间汉化的 CHM 合集里没有这个种族，正文取自 [https://aonprd.com Archives of Nethys] 的英文原文。认领翻译见 [[待办事项]]。</small></div>
+{{速查导航|here=种族}}
+{{种族卡
+|属性=+2力量，+2感知，-2智力
+|体型=小型
+|视觉=昏暗视觉
+}}
+{{种族卡
+|属性=+2力量，+2感知，-2智力
+|体型=小型
+|视觉=昏暗视觉
+}}
+'''小野人'''（Orang-Pendak）是 Pathfinder 1st Edition 的一个种族。
+
+'''Source''' ''Bestiary 5 pg. 186''
+
+Orang-pendaks are a rare offshoot of the sasquatch species that dwells in remote mountainous jungles. Elusive and shy, they are rarely seen by other races. Given their friendship with apes (gibbons and orangutans in particular) and their hunched posture and shaggy fur— ranging from tawny or reddish to dark brown or black— they are often mistaken for those beasts at a distance. Orang-pendaks train apes and monkeys to hunt and fight for them, but despite the friendship and similar appearance, the species are not closely related. Within their remote holds, Orang-pendaks cluster together into seminomadic tribes, hunting and gathering in a region until food and game becomes scarce, then moving on to the next area. Many tribes follow a regional pattern to this migration, allowing parts of the jungle to repopulate and gathering only enough substance so as not to disrupt the land’s ability to recoup the losses. Orang-pendaks range from 3 to 5 feet tall as adults, weighing up to 150 pounds, and they are quite strong for their size. Orang-pendaks are largely herbivorous, but sometimes hunt with spears, clubs, and bolas.
+
+== Orang-Pendak Racial Traits ==
+
+'''+2 Strength, +2 Wisdom, –2 Intelligence''': Orang-pendaks are strong and intuitive, but not particularly clever.
+
+'''Type''': Orang-pendaks are humanoids with the sasquatch subtype.
+
+'''Small''': Orang-pendaks are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on combat maneuver checks and to [[CMD]], and a +4 size bonus on Stealth checks.
+
+'''Forest Walker''': Orang-pendaks gain a +4 bonus on Climb and Stealth checks in forests and jungles.
+
+'''Low-Light Vision''': Orang-pendaks can see twice as far as humans in conditions of dim light.
+
+'''Own Two Feet''': Orang-pendaks are extremely unnerved whenever they are riding another creature or on a vehicle, and they take a – 2 penalty on ability checks, attack rolls, damage rolls, saving throws, and skill checks when doing so.
+
+'''Simian Empathy''': Orang-pendaks gain a +4 racial bonus on Handle Animal and wild empathy checks with apes and monkeys.
+
+'''Tear Apart''': Orang-pendaks have powerful upper bodies and gain a +2 racial bonus on Strength checks to break or burst an object. This bonus also applies on combat maneuver checks to sunder with their unarmed attacks.
+
+'''Languages''': Orang-pendaks begin play speaking Sasquatch. Orang-pendaks who have high Intelligence scores can choose from the following: Aklo, Common, Draconic, Goblin, Grippli, Sylvan, Vanaran, and Vishkanya.
+
+本页正文取自 [https://aonprd.com/RacesDisplay.aspx?ItemName=Orang-Pendak Archives of Nethys]。全部种族见 [[种族]]。
+
+[[分类:种族]]
+[[分类:待汉化]]

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=怒魔会斗篷
+|english_name=Erinyes Company Cloak
+|aon=MagicWondrousDisplay.aspx?FinalName=Erinyes Company Cloak
+|cat=奇物
+|aura=中等变化系
+|cl=10
+|slot=肩部
+|price=22,000 gp
+|weight=3磅
+|description=这件猩红色的斗篷镶着取自怒魔的羽毛。每天3次，凭命令，斗篷会化为一对黑羽之翼，给予佩戴者30尺飞行速度（一般机动性），持续10分钟。如果佩戴者穿着[[灰少女铠甲]]，该铠甲的防具检定减值不适用于佩戴者的飞行检定。此外，佩戴者在所有豁免检定上获得+2抗力加值。
+|req=[[制造奇物]]、[[飞行术]]、[[提升抗力]]
+|cost=11,000 gp
+|source=冒险者指南
+}}

@@ -1,0 +1,14 @@
+{{Spell
+|name=绿翼馈赠
+|english_name=WING BOUNTY
+|school=咒法系 (创造)
+|levels=德鲁伊 2;猎人 2;萨满 2
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=0尺
+|effect=2d4枚浆果+2枚浆果/等级
+|duration=1天/等级
+|sr=否
+|description=你的翅膀上长出了色彩缤纷的美味浆果。每一颗浆果都如同受到[[神莓]]术影响。你可以选择让一颗受影响的浆果有毒（如斑纹毒蕈）；在不使用魔法的情况下，只有你和5级或更高级别的德鲁伊才能分辨出哪颗浆果有毒。
+|source=极限荒野
+}}

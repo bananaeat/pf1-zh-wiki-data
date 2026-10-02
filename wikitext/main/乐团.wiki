@@ -1,0 +1,12 @@
+{{Feat
+|name=乐团
+|english_name=Ensemble
+|categories=团队
+|description=你可以将那些业余的或是专业的家伙组织成一支乐团。
+|prerequisites=表演5级。
+|benefit=当你表演时，20尺内拥有同一专长的队友可以用[[直觉动作]]如同协助他人一般协助你的表演检定（包括作为【吟游表演】一部分进行的表演检定）。队友的协助他人检定先于你的检定。最多有4个队友可以为你提供帮助。队友表演技能的子类无需和你相同。
+|special=如果你拥有至少1级诗人等级，则你可以选择20尺内的任意一名队友加入乐团。队友在协助你表演时视为拥有乐团专长。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

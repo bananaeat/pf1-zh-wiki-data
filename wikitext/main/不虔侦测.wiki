@@ -1,0 +1,10 @@
+{{Feat
+|name=不虔侦测
+|english_name=Unsanctioned Detection
+|description=你将你[[侦测邪恶]]的能力用在一些世俗的场合。
+|prerequisites=‘侦测邪恶’职业特性。
+|benefit=以一个[[迅捷动作]]，你将【侦测邪恶】能力所赋予的清明感集中起来，用于提高你对其他事物的警觉。你在1轮内于察觉和察言观色检定上获得+10神圣加值。这会用掉你【侦测邪恶】职业特性此后24小时内的使用。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

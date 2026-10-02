@@ -1,0 +1,9 @@
+{{Trait
+|name=持久身
+|english_name=Enduring Mutagen
+|type=魔法
+|description=出于特殊训练、身体特质、或是炼金秘方，你的突变更加持久。你的突变引起的加值和减值持续时间延长每炼金术师等级1分钟。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

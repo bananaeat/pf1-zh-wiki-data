@@ -1,0 +1,9 @@
+{{Trait
+|name=四手灵巧
+|english_name=Adroit
+|type=种族
+|prerequisites=[[卡萨达人]]
+|description=如果你有一只手是自由的且你的基础攻击加值有+1或更高，你可以在进行移动动作的同时以一个自由动作拔出一把武器(包括移动动作里的导向法术、操作物品，站起来等等)。
+|source_name=繁星子民
+|source_url=https://pf1chm.pages.dev/topics/page_940.html
+}}

@@ -1,0 +1,20 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[真言术：死 (神话)]]。</small></div>
+{{Spell
+|name=真言术：死
+|english_name=Power Word Kill
+|school=惑控系 (胁迫)
+|tags=死亡;影响心灵
+|levels=奥能师 9;女巫 9;异能者 9;术士 9;法师 9
+|domains=战争领域 9
+|action=标准动作
+|components=语言
+|range=近距
+|target=一个HP为100或更低的活物
+|duration=立即
+|save=无
+|sr=是
+|description=你仅说出一个威力无比的词就能立即杀死你选定的一个生物，不管它是否能听见那个词。任何当前具有101或者更多HP的生物都不受真言术：死影响。
+|source=核心规则书
+}}
+
+{{FAQ|v5748eaic9vs4}}

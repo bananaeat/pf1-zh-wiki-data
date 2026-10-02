@@ -1,0 +1,11 @@
+{{Feat
+|name=无声击杀
+|english_name=Quiet Death
+|categories=战斗
+|description=你学会了如何以安静且优雅的方式完成刺杀，迅速了结敌人。
+|prerequisites=[[敏捷]] 19，隐匿10级，盗贼等级10级
+|benefit=当你伏击1名或更多敌人，并且它们并未意识到你的存在时，你能够投掷1次具有-5减值的隐匿检定。检定结果会代表听到你的攻击所产生声音的察觉DC（而非以正常DC的-10来判断是否听到战斗的声响），直至1名敌人的初次行动为止，DC才会恢复到-10。其他敌人仍旧可以看到攻击；无声击杀仅能用来防止战斗的声音警告其他敌人。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

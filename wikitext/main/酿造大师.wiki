@@ -1,0 +1,10 @@
+{{Feat
+|name=酿造大师
+|english_name=Brewmaster
+|description=你能够酿造烈酒。
+|prerequisites=[[工艺]]（炼金）1级，[[专业]]（酿造）1级，矮人。
+|benefit=你在工艺（炼金）检定以及专业（酿造）检定上获得+2加值，同时所有你制作的食入类毒素的豁免DC均会增加1点。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

@@ -1,0 +1,10 @@
+<noinclude>{{异能者导航}}
+'''心念复原'''（Telempathic Restoration, Su）是[[异能者]]的[[精神增幅|精神增幅]]。
+
+</noinclude>当异能者施放[[心灵连线]]时，她可以从精神力池中花费1点精神力，解除连线中一名目标身上的[[晕眩]]、[[惊惧]]、[[恐慌]]、[[战栗]]或[[震慑]]状态，这些状态会按照剩余的时间立即转移到异能者身上。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_310.html 精神增幅]、[https://pf1chm.pages.dev/topics/zhb4162fc9dd.htm 乌笃剌精神增幅]、[https://pf1chm.pages.dev/topics/page_855.html PSI技术]），按 AoN 核对过。全部精神增幅见 [[精神增幅]]。
+
+[[分类:精神增幅]]
+
+{{职业}}</noinclude>

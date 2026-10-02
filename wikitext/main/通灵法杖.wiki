@@ -1,0 +1,24 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=通灵法杖
+|english_name=Staff of Spirit-Talking
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Spirit-Talking
+|cat=法杖
+|aura=中等预言系
+|cl=11
+|slot=无
+|price=39,050 gp
+|weight=5磅
+|description=芒吉人的通灵法杖由乌木或其他深色木材制成，上面悬挂着许多小动物的骨头。
+
+该法杖可以使用以下法术：
+
+* [[动物交谈]]（1 发）
+* [[植物交谈]]（1 发）
+* [[命令植物(法术)|命令植物]]（1 发）
+* [[问道自然]]（2 发）
+* [[石言术]]（2 发）
+|req=[[制造法杖]]、[[命令植物(法术)|命令植物]]、[[问道自然]]、[[动物交谈]]、[[植物交谈]]、[[石言术]]
+|cost=19,525 gp
+|source=萨迦瓦，失落的殖民地
+}}

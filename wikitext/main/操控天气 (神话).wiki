@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[操控天气]] 的神话版本。</small></div>
+{{Spell
+|name=操控天气
+|english_name=Control Weather
+|school=变化系
+|levels=先知 7;奥能师 7;女巫 7;德鲁伊 7;术士 7;法师 7;牧师 7;萨满 7
+|description=施法时间变为标准动作，持续时间加倍。天气的变更会在11 - 你的阶层个轮数后发生。
+
+强化（6阶）：若你花费2次神话之力，你能够创造出任意类型的天气，无论当前为何种季节，而且天气的变更会在1轮后发生。
+|source=神话冒险
+}}
+[[分类:神话法术]]

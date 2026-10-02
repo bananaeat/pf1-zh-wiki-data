@@ -1,0 +1,9 @@
+{{Trait
+|name=死亡脱敏
+|english_name=Inured to Death
+|type=魔法
+|description=你一生都与死亡或不死生物为伴，早已习惯其幽影笼罩，不再为之震慑。你在对抗死亡效果的豁免检定中获得+2背景加值。
+建议角色：盖布人，[[厄加图娅]]信徒，乌斯塔拉夫人
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

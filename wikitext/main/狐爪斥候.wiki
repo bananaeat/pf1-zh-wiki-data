@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Ironfang Invasion Player's Guide pg. 8），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=狐爪斥候
+|english_name=Foxclaw Scout
+|type=战役
+|pfs=否
+|description=你是涅玛萨斯由猎人和斥候组成的非正式网络「狐爪」的一员，研究那些捕食你的同胞定居者的危险野兽的隐秘弱点。你在对动物、魔法兽和蠕虫类生物确认重击时获得+2背景加值；并且当你佩戴着取自某只CR高于你当前职业等级的动物、魔法兽或蠕虫的战利品时，你的意志豁免获得+1士气加值。
+|source_name=Ironfang Invasion Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Foxclaw%20Scout
+}}

@@ -1,0 +1,13 @@
+<noinclude>{{速查导航|here=规则}}
+{{消歧义|力量显现}}
+'''力量显现'''（Display of Strength）是一条神话[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Su</span><span class="sk-a">神话</span><span class="sk-f">位置：特性</span></div>
+</noinclude><includeonly><div class="lang"><span id="力量显现"></span><span id="力量显现(怪物能力)"></span><div class="lang-h"><b>[[力量显现(怪物能力)|力量显现]]</b><i>Display of Strength</i><span class="lang-w">Su · 神话 · 特性</span></div><div class="lang-d"></includeonly>
+以自由动作，该生物可以花费 1 次[[神话之力]]来尝试一项关于力量的技艺，这使其在一次基于力量的技能检定或者力量属性检定中获得 +20 环境加值。或者，也能够将该能力用于判定自身的负重能力，在这么做的时候视为它的力量属性获得 +20 环境加值，持续等同于其神话等级的小时数。
+
+'''格式'''：力量显现
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Display of Strength|2=Display of Strength}}
+
+[[分类:通用怪物规则]]</noinclude>

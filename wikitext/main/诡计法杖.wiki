@@ -1,0 +1,20 @@
+{{魔法物品
+|name=诡计法杖
+|english_name=Staff of Tricks
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Tricks
+|cat=法杖
+|aura=中等幻术系
+|cl=8
+|slot=无
+|price=8,800 gp
+|weight=3磅
+|description=这根细长的法杖由硬木制成，缠着色彩鲜艳的布带，顶端装饰着许多羽毛、[[铃铛]]和其他华丽的小饰物。该法杖可以使用以下法术：
+
+* [[幻音术]]（1 发）
+* [[法师之手]]（1 发）
+* [[魔法伎俩]]（1 发）
+* [[无声幻影]]（2 发）
+|req=[[制造法杖]]、[[幻音术]]、[[法师之手]]、[[魔法伎俩]]、[[无声幻影]]
+|cost=4,400 gp
+|source=极限宝具
+}}

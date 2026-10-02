@@ -1,0 +1,11 @@
+{{Feat
+|name=鹰啄 · 迅
+|english_name=Spring-Heeled Sprint
+|categories=战斗
+|description=你能在不影响进攻的前提下快速移动。
+|prerequisites=敏捷15，[[闪避]]，[[灵活移动]]，移动射击或跳跃攻击，[[鹰啄流]]，BAB+7，[[擅长轻甲]]
+|benefit=开启[[鹰啄流]]后，在使用[[跳跃攻击]]或[[移动射击]]专长时你能移动至多两倍你速度的距离。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_361.html
+}}

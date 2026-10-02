@@ -1,0 +1,21 @@
+{{魔法物品
+|name=寒霜法杖
+|english_name=Staff of Frost
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Frost
+|cat=法杖
+|aura=中等塑能系
+|cl=10
+|slot=无
+|price=41,400 gp
+|weight=5磅
+|description=这根布满符文的法杖，两端各镶有一颗闪亮的钻石。
+
+该法杖可以使用以下法术：
+
+* [[冰风暴]]（1 发）
+* [[冰墙术]]（2 发）
+* [[寒冰锥]]（3 发）
+|req=[[制造法杖]]、[[寒冰锥]]、[[冰风暴]]、[[冰墙术]]
+|cost=20,700 gp
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,9 @@
+{{装备
+|name=攀爬工具
+|english_name=Climber's kit
+|cat=工具
+|price=80 gp
+|weight=5磅
+|description=这套钉鞋、岩钉、绳索和其他工具使你在攀爬检定上获得+2环境加值。
+|source=核心规则书、极限宝具
+}}

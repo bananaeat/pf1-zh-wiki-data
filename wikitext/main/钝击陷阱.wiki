@@ -1,0 +1,10 @@
+<noinclude>{{游侠导航}}
+{{Source|远程战术工具箱|Ranged Tactics Toolbox}}
+
+'''钝击陷阱'''（Bludgeoning Trap，Ex 或 Su）是一种[[游侠陷阱]]。
+
+</noinclude>'''钝击陷阱'''（Ex 或 Su）：陷阱会给触发者造成钝击。陷阱的攻击加值等于“游侠的角色等级+感知调整值”。若触发者未意识到陷阱存在，他的AC将失去敏捷加值。陷阱命中后，造成每4游侠等级1d6点钝击伤害（最低1d6）。如果这是特异陷阱，游侠必须提供一件足以造成致命钝击伤害的物品，比如粗树枝或重石块。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_467.html 原文]）。全部游侠陷阱见 [[游侠陷阱]]。
+
+[[分类:游侠陷阱]]</noinclude>

@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 19），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=抗烟
+|english_name=Smoke Resistant
+|type=种族
+|pfs=否
+|prerequisites=狗头人
+|description=你一生中大部分时间都在火堆旁度过，以至于烟雾对你的影响不再像对其他生物那样。你的视觉不会受非魔法烟雾妨碍，并且你为避免因吸入烟雾而咳嗽和窒息所进行的强韧豁免获得+5背景加值（见《核心规则书》第426页）。此背景对魔法产生的烟雾无效，例如[[烟火术]]所产生的烟雾。
+|source_name=格拉利昂的狗头人
+|source=KoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Smoke%20Resistant
+}}

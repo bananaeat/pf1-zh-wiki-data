@@ -1,0 +1,14 @@
+{{魔法物品
+|name=不息热情戒指
+|english_name=Ring of Unquenchable Passions
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Unquenchable Passions
+|cat=戒指
+|aura=微弱防护系、变化系
+|cl=5
+|slot=戒指
+|price=6,500 gp
+|description=这枚金[[魔法物品#戒指|戒指]]上带有三个[[匕首]]形的印记。它的功能与+1[[防护戒指]]相同。此外，它还使穿戴者在特技检定上获得+5表现加值，在对抗疾病的豁免检定上获得+2抗力加值。
+|req=[[锻造戒指]]、[[提升抗力]]、[[虔诚护盾]]，制造者必须有5级特技技能，且至少为3级
+|cost=3,250 gp
+|source=内海诸神
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=夜临
+|english_name=Nightdrops
+|aon=MagicWondrousDisplay.aspx?FinalName=Nightdrops
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=无
+|price=250 gp
+|description=这个细长的小瓶里装有5剂黏稠的液体。将它滴到自愿生物的眼睛里，会使该生物获得[[低光视力]]，持续1小时。受影响的生物在对抗以光为基础的法术和效果的豁免上受到-2罚值，并获得强光敏感弱点。一剂只影响一个生物，无论该生物有几只眼睛。
+|req=[[制造奇物]]、[[野兽形态 I]]
+|cost=125 gp
+|source=极限宝具
+}}

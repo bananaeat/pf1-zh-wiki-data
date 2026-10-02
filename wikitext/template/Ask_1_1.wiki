@@ -1,0 +1,1 @@
+<div class="darken" style = "padding:6px;margin:1px;font-size:12px;display:inline-block;vertical-align:top;width:150px;"><div>姓名：{{{?Has Name}}}</div><div>'''{{{?Funko Franchise}}}'''</div></div>

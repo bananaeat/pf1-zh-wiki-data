@@ -1,0 +1,11 @@
+<noinclude>{{杀手导航}}
+{{消歧义|通晓探知}}
+'''通晓探知'''（Scrying Familiarity, Ex）是[[杀手]]的[[杀手天赋|杀手天赋]]。
+
+</noinclude>{{Source|间谍大师手册|Spymaster's Handbook|inline}} 你对探知传感器很熟悉。你可以在对抗预言系（探知）法术和效应的豁免检定，注意到魔法传感器的察觉检定，以及你使用探知法术或效应时对抗[[特殊能力#法术抗力|法术抗力]]的施法者等级检定中双骰取高。如果你注意到一个魔法传感器，你可以尝试进行隐匿检定对抗对方的施法者等级检定，以避免被传感器发现。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_118.html 原文]）。尝血者、支持队友译自[https://pf1chm.pages.dev/topics/page_581.html 斯科扎尼黑手一章]，永世仇敌、人生经验、直面恐怖、山坡伏击、神秘之纱、重唤技艺译自[https://pf1chm.pages.dev/topics/page_1338.html 传承武学一章]，集中毒药、偏转毒药译自[https://pf1chm.pages.dev/topics/page_1261.html 静谧毒杀者一章]，猫族盗贼天赋译自[https://pf1chm.pages.dev/topics/page_451.html 种族特性一章]；壁垒、额外残岩、坚固阵地、失衡技巧、阵营偷袭、切裂阵营、一人千面、通晓探知照站上同名盗贼天赋单页。均按 AoN 核对过。全部杀手天赋见 [[杀手天赋]]。
+
+[[分类:杀手天赋]]
+
+{{职业}}</noinclude>

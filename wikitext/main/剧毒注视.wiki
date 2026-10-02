@@ -1,0 +1,12 @@
+{{Feat
+|name=剧毒注视
+|english_name=Venomous Stare
+|categories=凝视
+|pfs=否
+|description=你的注视对你的敌人来说是剧毒
+|prerequisites=催眠师11级，痛苦注视职业能力
+|benefit=当你触发痛苦注视，目标会立刻被下列毒素浸染：痛苦注视-伤口型；强韧豁免DC=10+1/2催眠师等级+魅力修正；频率1次/轮，持续6轮；效果 1D3敏捷；痊愈 2次豁免。无论你的目标是否成功豁免，你都不能在24小时内对同一个目标再次使用剧毒注视。
+|source=BotB
+|source_name=野兽血脉
+|source_url=https://pf1chm.pages.dev/topics/page_699.html
+}}

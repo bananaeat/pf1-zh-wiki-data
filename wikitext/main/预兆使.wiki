@@ -1,0 +1,9 @@
+{{Trait
+|name=预兆使
+|english_name=Prophesied
+|type=信念
+|description=你的降临早已被预言，熟悉你的传说的人对你保持敬畏。面对任何熟悉你或你的声望的人，你的交涉和威吓技能检定获得+1背景加值。
+|source_name=信念背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

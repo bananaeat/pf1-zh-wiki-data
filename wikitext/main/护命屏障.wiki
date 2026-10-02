@@ -1,0 +1,15 @@
+{{Spell
+|name=护命屏障
+|english_name=Shield of fortification
+|school=防护系
+|levels=圣武士 1;审判者 1;先知 2;异能者 2;战斗祭司 2;牧师 2
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=接触
+|target=接触到的生物
+|duration=1分钟/等级
+|save=强韧，通过则无效（无害）
+|sr=是（无害）
+|description=你创造出一道可以保护目标重要部位的屏障。当目标遭受一次重击或偷袭时，有25%概率使该次重击或偷袭失效，仅造成普通的伤害。这个效果不会与其他将重击或偷袭转化为普通攻击的效果叠加，比如护命护甲[[特殊能力]]。
+|source=进阶职业指南
+}}

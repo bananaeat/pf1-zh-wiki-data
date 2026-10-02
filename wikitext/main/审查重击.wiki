@@ -1,0 +1,11 @@
+{{Feat
+|name=审查重击
+|english_name=Censoring Critical
+|categories=战斗;重击
+|description=你的重击迫使敌人[[沉默]]。
+|prerequisites=[[重击专攻]]，BAB＋15
+|benefit=当你对敌人造成重击时，目标在1D4＋1轮内无法说话，这可以阻止施法者施放带有语言成分的法术。通过强韧豁免可将沉默减少至1轮，强韧豁免的DC=10＋你的BAB。
+|special=除非你拥有[[重击熟稔]]专长，你只能为一次重击附加一种[[重击专长]]效果。
+|source_name=地狱骑士之道
+|source_url=https://pf1chm.pages.dev/topics/zh79983be4c7.htm
+}}

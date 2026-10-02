@@ -1,0 +1,73 @@
+{{速查导航}}
+
+'''权杖'''是《[[位面冒险]]》的一章。
+
+== 权杖（Rods） ==
+
+权杖是杖状的装置，包含特殊的魔法能力并且通常没有充能。任何人都能使用权杖（尽管不能施法的生物使用超魔权杖时不会有效果）。普通超魔权杖能够被应用在6环或以下的法术。次等超魔权杖为3环或以下，而高等超魔权杖为9环或以下。使用权杖的细节每种权杖都有所不同。除非另外提及，你必须持有权杖才能使用它的能力。
+
+== 表格1-8：权杖（Rods） ==
+
+{| class="wikitable sortable"
+|-
+! 次级中等权杖（Lesser Medium Rods） !! 价格（Price）
+|-
+| 次等末日超魔权杖（Apocalyptic metamagic rod, lesser） || 3,000 GP
+|-
+| 次等喝令超魔权杖（Authoritative metamagic rod, lesser） || 3,000 GP
+|-
+| 次等福佑超魔权杖（Blissful metamagic rod, lesser） || 3,000 GP
+|-
+| 次等墓园超魔权杖（Crypt metamagic rod, lesser） || 3,000 GP
+|-
+| 次等喧嚣超魔权杖（Tumultuous metamagic rod, lesser） || 3,000 GP
+|-
+| 次等冥河超魔权杖（Stygian metamagic rod, lesser） || 9,000 GP
+|-
+| 普通末日超魔权杖（Apocalyptic metamagic rod） || 11,000 GP
+|-
+| 普通喝令超魔权杖（Authoritative metamagic rod） || 11,000 GP
+|-
+| 普通福佑超魔权杖（Blissful metamagic rod） || 11,000 GP
+|-
+| 普通墓园超魔权杖（Crypt metamagic rod） || 11,000 GP
+|-
+| 普通喧嚣超魔权杖（Tumultuous metamagic rod） || 11,000 GP
+|-
+| 次级高等权杖（Lesser Major Rods） || 价格（Price）
+|-
+| 高等末日超魔权杖（Apocalyptic metamagic rod, greater） || 24,500 GP
+|-
+| 高等喝令超魔权杖（Authoritative metamagic rod, greater） || 24,500 GP
+|-
+| 高等福佑超魔权杖（Blissful metamagic rod, greater） || 24,500 GP
+|-
+| 高等墓园超魔权杖（Crypt metamagic rod, greater） || 24,500 GP
+|-
+| 高等喧嚣超魔权杖（Tumultuous metamagic rod, greater） || 24,500 GP
+|-
+| 厉鬼权杖（Rod of vicious ghosts） || 26,000 GP
+|-
+| 普通冥河超魔权杖（Stygian metamagic rod） || 32,500 GP
+|-
+| 高级高等权杖（Greater Major Rods） || 价格（Price）
+|-
+| 叉形权杖（Forked rod） || 50,000 GP
+|-
+| 高等冥河超魔权杖（Stygian metamagic rod, greater） || 73,000 GP
+|}
+
+== 本章条目 ==
+
+* [[冥河超魔权杖]]
+* [[厉鬼权杖]]
+* [[叉形权杖]]
+* [[喝令超魔权杖]]
+* [[喧嚣超魔权杖]]
+* [[墓园超魔权杖]]
+* [[末日超魔权杖]]
+* [[福佑超魔权杖]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1566.html 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

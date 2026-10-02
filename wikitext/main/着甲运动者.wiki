@@ -1,0 +1,12 @@
+{{Feat
+|name=着甲运动者
+|english_name=Armored Athlete
+|categories=战斗
+|description=你对着甲时使用技能十分有心得。
+|prerequisites=轻甲擅长，中甲擅长，在任一基于敏捷或力量的技能上有3个等级
+|benefit=选择一个你至少有3个等级的基于敏捷或力量的技能。当你进行所选技能检定时，你所穿轻甲和中甲对该技能的防具检定减值减少3（最低至0）。若你在所选技能上有至少10个等级，减值减少6而非3（最低至0）。若你有盔甲训练2职业能力并且[[擅长重甲]]，在穿戴重甲时依然可以适用该专长效果。
+|special=你可以选择该专长多次。每次都需要选定一个不同的技能。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}

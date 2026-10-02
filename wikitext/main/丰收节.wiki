@@ -1,0 +1,18 @@
+{{仪式
+|name=丰收节
+|english_name=Harvest Bounty Festival
+|school=变化系
+|level=8
+|action=24小时
+|components=语言（V），姿势（S），材料（M，一场可以喂饱至少1,000人的盛宴），器材 （F，一把至少价值500 GP的礼器镰刀），次要施法者（SC，最多100人）
+|skills=表演（朗诵）DC 33，2次成功；知识（自然）DC 33，3次成功；专业（烹饪）DC 33，3次成功；
+|range=接触
+|target=一个生物
+|duration=30日；见下文
+|save=意志，通过则无效（无害）
+|sr=无
+|backlash=主要施法者恶心（sickened）1d4天。
+|failure=施法者们均反胃（nauseated）24小时。
+|description=在这个仪式结束时，选择其中一名施法者作为效果的目标。这名被选择的施法者在接下来的30天内，获得了1次以类法术能力施展[[问道自然]]（commune with nature）的能力；并且还会再接下来的30天内，获得了5次施展[[植物滋长]]（plant growth）（仅限丰沃）的能力。这些效果的施法者等级等同于主要施法者的角色等级。此外，所有庆祝节日的施法者们都会在交涉检定上获得+1士气加值（morale bonus），持续48小时。
+|source=遥远世界
+}}

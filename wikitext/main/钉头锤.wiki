@@ -1,0 +1,16 @@
+{{武器
+|name=钉头锤
+|english_name=Morningstar
+|category=武器
+|prof=简易
+|wcat=单手
+|price=8 gp
+|weight=6磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×2
+|type=钝击和穿刺
+|groups=链索
+|description=钉头锤是将铸满尖刺的铁球固定在握柄上制成的。
+|source=核心规则书、极限宝具
+}}

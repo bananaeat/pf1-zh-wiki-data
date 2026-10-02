@@ -1,0 +1,10 @@
+{{Feat
+|name=岩架行者
+|english_name=Ledge Walker
+|description=你跨越岩架的动作如同[[山羊]]一般灵活。
+|prerequisites=敏捷13，[[矮人]]，【登山者】或【稳固】种族特性。
+|benefit=你能够在使用特技检定在狭窄表面的保持平衡时全速移动，同时你能够在使用攀爬检定在坠落中抓住同伴、或者自己抓住支撑物时获得+4加值。此外你在对抗那些使你跌倒（倒地）的效果时（比如[[地震术]]），豁免检定获得+4加值。这些加值不适用于对抗[[冲撞]]以及[[摔绊]]攻击时的[[CMD]]。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

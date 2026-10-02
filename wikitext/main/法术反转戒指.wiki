@@ -1,0 +1,14 @@
+{{魔法物品
+|name=法术反转戒指
+|english_name=Ring of Spell Turning
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Spell Turning
+|cat=戒指
+|aura=强烈防护系
+|cl=13
+|slot=戒指
+|price=100,000 gp
+|description=这枚简朴的铂金指环每天最多可凭命令发动3次，自动反射接下来对穿戴者施放的总计9环位的法术，效果与在他身上施放了[[法术反转]]完全相同。
+|req=[[锻造戒指]]、[[法术反转]]
+|cost=50,000 gp
+|source=核心规则书、极限宝具
+}}

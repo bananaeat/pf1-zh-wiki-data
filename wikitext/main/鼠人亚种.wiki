@@ -1,0 +1,9 @@
+<noinclude>{{速查导航|here=规则}}
+'''鼠人亚种'''（Ratfolk）是一种怪物[[生物类型与怪物亚种#生物亚种|亚种]]。
+</noinclude><includeonly><div class="lang"><span id="鼠人"></span><span id="鼠人亚种"></span><div class="lang-h"><b>[[鼠人亚种|鼠人亚种]]</b><i>Ratfolk</i></div><div class="lang-d"></includeonly>
+该亚种用于被称为鼠人的类人啮齿生物，以及与鼠人有亲缘关系的生物。
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=MonsterSubtypes.aspx?ItemName=Ratfolk|2=Ratfolk}}
+
+[[分类:怪物亚种]]</noinclude>

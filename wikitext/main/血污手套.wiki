@@ -1,0 +1,15 @@
+{{魔法物品
+|name=血污手套
+|english_name=Bloodstained Gloves
+|aon=MagicWondrousDisplay.aspx?FinalName=Bloodstained Gloves
+|cat=奇物
+|aura=中等预言系
+|cl=6
+|slot=手部
+|price=8,000 gp
+|weight=5磅
+|description=这副柔软的小牛皮手套本来的颜色，被一层层无论怎么清洗都洗不掉的褐色血迹遮得模糊不清。若将手套浸泡在新近被杀死的生物的血液中，佩戴者便会在对抗与该生物同类别的生物时（类人生物与外来生物精确到亚类别，如同游侠的宿敌职业能力一般），攻击检定和伤害检定获得+1洞察加值，持续1小时。若手套的佩戴者是[[杀手]]，伤害检定的加值便等同于杀手的杀戮目标加值。没有血液的生物，比如骷髅、魔像或者发条生物，无法激活该手套的能力。
+|req=[[制造奇物]]、[[即刻仇敌]]
+|cost=4,000 gp
+|source=进阶职业指南
+}}

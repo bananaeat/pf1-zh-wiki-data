@@ -1,0 +1,11 @@
+{{Feat
+|name=梭鱼猛击
+|english_name=Barracuda Slam
+|categories=战斗
+|description=你学会集全身之力猛击对手，让他猝不及防。
+|prerequisites=感知 13，梭鱼流，精通徒手打击，特技5级，游泳5级
+|benefit=一个成功的游泳检定后，你能以一个移动动作半速移动或以一个整轮动作全速移动。你可以在水下进行冲锋和奔跑，但你如此行动的最大距离是正常最大距离的一半。此外，当你在水中或陆地上进行冲锋攻击时，你在自己回合中的第一次徒手打击，伤害检定加上2倍的力量加值。
+|normal=你无法在水下冲锋或奔跑，除非你拥有游泳速度。你的徒手打击的伤害加值使用你的力量修正。
+|source_name=冒险之路124：深海之城
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

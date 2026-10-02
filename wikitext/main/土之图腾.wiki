@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=土之图腾
+|english_name=Earth Totem
+|type=Ex
+|categories=图腾
+|prerequisites=[[野蛮人]]6级，[[次等元素图腾]]
+|benefit=狂暴时，野蛮人可以在沙、松软土或沙砾中以20尺的速度[[通用怪物规则#潜地|潜地]]。这并不会给予野蛮人在地下呼吸的能力。挖开的松软材质会在1轮后塌陷。
+|source_name=元素血脉
+}}

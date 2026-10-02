@@ -1,0 +1,11 @@
+{{Feat
+|name=轻快盔甲
+|english_name=Sprightly Armor
+|categories=盔甲掌握;战斗
+|description=你将你盔甲的魔法能力发挥到了极致。
+|prerequisites=敏捷13，基本攻击加值+11或者战士8级，盔甲训练职业特性，[[擅长轻甲]]
+|benefit=你将你的盔甲的增强加值作为加值加到你的[[先攻]]检定上。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_1089.html
+}}

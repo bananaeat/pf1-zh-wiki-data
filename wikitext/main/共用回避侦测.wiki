@@ -1,0 +1,15 @@
+{{Spell
+|name=共用回避侦测
+|english_name=Nondetection, communal
+|school=防护系
+|levels=催眠师 4;反圣武士 4;奥能师 4;异能者 4;术士 4;法师 4;秘学士 4
+|action=标准动作
+|components=语言;姿势;材料（每个目标25GP的钻石尘）
+|range=接触
+|target=接触到的复数生物或物体
+|duration=1小时/等级
+|save=意志，通过则无效（无害，物品）
+|sr=是
+|description=这个法术工作方式如同[[回避侦测]]，但是你可以将持续时间以一小时为单位分配给接触到的复数生物或物体。
+|source=极限战斗
+}}

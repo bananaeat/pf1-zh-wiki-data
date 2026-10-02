@@ -1,0 +1,14 @@
+{{魔法物品
+|name=反麻痹护身符
+|english_name=Periapt of Proof Against Paralysis
+|aon=MagicWondrousDisplay.aspx?FinalName=Periapt of Proof Against Paralysis
+|cat=奇物
+|aura=微弱咒法系
+|cl=5
+|slot=颈部
+|price=8,000 gp
+|description=这条锡制项链由大小交替的金属环节串成，外观精巧而不失气势。它短得足以当作颈圈佩戴，正中镶嵌着一颗璀璨的碧玉，经过精细切割，即使光线不足时也闪闪发亮。每当佩戴者对会导致[[麻痹]]的效果豁免失败时，护身符会使佩戴者转而[[疲乏]]1d4轮。若某个效果会使佩戴者麻痹但没有豁免，则他转而一直疲乏，直到他移除该状态。若佩戴者在已疲乏的情况下对麻痹效果豁免失败，则他会陷入[[力竭]]。处于力竭状态的角色无法从反麻痹护身符中获得任何益处。
+|req=[[制造奇物]]、[[移除麻痹]]
+|cost=4,000 gp
+|source=药剂与毒药
+}}

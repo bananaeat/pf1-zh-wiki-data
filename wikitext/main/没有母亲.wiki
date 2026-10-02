@@ -1,0 +1,9 @@
+{{Trait
+|name=没有母亲
+|english_name=Motherless
+|type=种族
+|prerequisites=[[魔裔]]
+|description=你的降生导致了你的母亲的死亡，而你在学会说话前就已经了解如何能够使他人照顾你。当你为了让自己显得受伤、生病或以其他方式显得虚弱而进行唬骗或易容检定时，获得+2背景加值。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_834.html
+}}

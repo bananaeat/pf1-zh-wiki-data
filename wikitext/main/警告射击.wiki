@@ -1,0 +1,11 @@
+{{Feat
+|name=警告射击
+|english_name=Warning Shot
+|categories=战斗
+|description=故意射偏的箭矢展现了你在远距离威吓上的技巧。
+|prerequisites=近程射击，[[精准射击]]，[[武器专攻]]，擅长所使用武器
+|benefit=以一个[[标准动作]]，你使用[[武器专攻]]的武器对目标进行一次远程[[接触攻击]]。若命中，取代造成伤害和一切攻击效果，你可以[[自由动作]]对目标进行一次威吓检定以挫败士气。目标既不必处于你30尺内，也无需听到或看到你。
+|source=RTT
+|source_name=远程战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_552.html
+}}

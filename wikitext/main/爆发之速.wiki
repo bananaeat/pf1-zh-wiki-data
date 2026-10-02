@@ -1,0 +1,10 @@
+{{Trait
+|name=爆发之速
+|english_name=Burst of Speed
+|type=坐骑
+|prerequisites=[[马]]（多托战马）
+|description=每天三次，当骑在一匹多托战马(Dort Charger)上并进行一次冲锋攻击时，你可以以一个[[自由动作]]提高你坐骑15尺速度。
+|source_name=坐骑背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zh4fc8a2e018.htm
+}}

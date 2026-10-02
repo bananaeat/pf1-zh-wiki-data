@@ -1,0 +1,9 @@
+{{装备
+|name=鼻烟盒，锡质或木质
+|english_name=Snuffbox (tin or wood)
+|cat=黑市
+|price=5 gp
+|weight=—
+|description=这只装饰精美的小盒子，带铰链的盒盖可以扣紧，形成严密的封口。盒子用来存放各种鼻烟、粉末、烟草和类似的物质。盒子的材质多种多样，从木头、象牙，到镶嵌宝石的贵金属都有。
+|source=进阶职业指南
+}}

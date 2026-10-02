@@ -1,0 +1,10 @@
+<noinclude>{{杀手导航}}
+'''集中毒药'''（Focused Poison, Ex）是[[杀手]]的[[杀手天赋|杀手天赋]]。
+
+</noinclude>{{Source|药剂与毒药|Potions and Poisons|inline}} 杀手可以集中施毒，使毒药对他的研究目标格外致命。当杀手研究一个目标时，他可以立即减少自己能同时维持的额外研究目标数量，这不需要动作。每以这种方式减少一个，他对该研究目标使用的毒药DC就+1。杀手必须至少6级并拥有用毒天赋才能选择该天赋。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_118.html 原文]）。尝血者、支持队友译自[https://pf1chm.pages.dev/topics/page_581.html 斯科扎尼黑手一章]，永世仇敌、人生经验、直面恐怖、山坡伏击、神秘之纱、重唤技艺译自[https://pf1chm.pages.dev/topics/page_1338.html 传承武学一章]，集中毒药、偏转毒药译自[https://pf1chm.pages.dev/topics/page_1261.html 静谧毒杀者一章]，猫族盗贼天赋译自[https://pf1chm.pages.dev/topics/page_451.html 种族特性一章]；壁垒、额外残岩、坚固阵地、失衡技巧、阵营偷袭、切裂阵营、一人千面、通晓探知照站上同名盗贼天赋单页。均按 AoN 核对过。全部杀手天赋见 [[杀手天赋]]。
+
+[[分类:杀手天赋]]
+
+{{职业}}</noinclude>

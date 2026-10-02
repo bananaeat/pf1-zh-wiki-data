@@ -1,0 +1,11 @@
+{{Feat
+|name=额外召唤
+|english_name=Extra Summons
+|description=你能够更频繁地[[召唤怪物]]。
+|prerequisites=能够以类法术能力施展‘召唤怪物’，召唤师1级。
+|benefit=你每天‘召唤怪物’类法术能力使用次数增加1次。
+|special=你可以多次选择本专长，但每拥有5个召唤师等级只能选择一次。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

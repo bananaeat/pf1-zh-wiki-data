@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[灵狐步]] 的神话版本。</small></div>
+{{Feat
+|name=灵狐步
+|english_name=Nimble Moves
+|categories=神话
+|description=你能够在重重障碍间翩翩起舞，就好像它们并不存在一样。
+|prerequisites=[[灵狐步]]
+|benefit=你每拥有2个阶层，每轮就能通过5尺[[困难地形]]（最低5尺），如同它们和正常地形一样。该效果与[[灵狐步]]和[[神行步]]专长的效果叠加。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

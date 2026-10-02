@@ -1,0 +1,10 @@
+{{Trait
+|name=野猪恢复
+|english_name=Boar Resilience
+|type=种族
+|prerequisites=[[兽态人]]（野猪人裔）
+|description=你饱受欺凌和虐待。尽管当你的野猪人血统被揭露时，这些都变本加厉，但它也给了你忍受一切的能力。你在HP恰好为0时不会[[瘫痪]]，并且不需要[坚忍]专长就可以选择[顽强]专长。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_808.html
+}}

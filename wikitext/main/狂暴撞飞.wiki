@@ -1,0 +1,11 @@
+{{Feat
+|name=狂暴撞飞
+|english_name=Raging Throw
+|aliases=地狱极乐投
+|description=你将部分狂怒用于把对手狠狠摔向其他敌人。
+|prerequisites=力量13，体质13，【狂暴】职业特性，[[精通冲撞]]，[[猛力攻击]]，基本攻击加值+6。
+|benefit=当你在狂暴中尝试使用[[冲撞]][[战技]]时，你能以[[迅捷动作]]额外消耗1轮每日狂暴轮数，来将体质修正添加到冲撞战技检定上。此外，当你将对方冲撞至另一个生物所在方格、或坚硬物体时，对手和该生物或物体受到等同于你的“力量修正+体质修正”钝击伤害。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

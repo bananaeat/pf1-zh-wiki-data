@@ -1,0 +1,9 @@
+{{Trait
+|name=荒野交谈
+|english_name=Speech of the Wilds
+|type=种族
+|prerequisites=[[神裔]]（伊迪尔人）
+|description=像你的福使祖先一样，你知晓与不同生物沟通的诀窍，擅长打破语言的障碍。你能说一种额外语言。
+|source_name=天界血脉
+|source_url=https://pf1chm.pages.dev/topics/page_828.html
+}}

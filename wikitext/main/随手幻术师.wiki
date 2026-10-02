@@ -1,0 +1,11 @@
+{{Feat
+|name=随手幻术师
+|english_name=Casual Illusionist
+|description=你能够使用内在的魔力创造出简单的幻术，辅助你进行诈欺或诡计。
+|prerequisites=[[侏儒]]，侏儒魔法种族特性。
+|benefit=只要你至少还有一个从[[侏儒]]魔法[[种族特性]]中获得的类法术能力没有使用，那么你的[[唬骗]]、[[易容|伪装]]以及[[巧手]]检定获得+2种族加值。10级起，这些加值提升至+4。
+|special=在判断的先决条件时，该专长视同[[诈欺师]]专长。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

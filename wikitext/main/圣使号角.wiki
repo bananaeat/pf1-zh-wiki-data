@@ -1,0 +1,16 @@
+{{Spell
+|name=圣使号角
+|english_name=Archon's trumpet
+|school=塑能系
+|tags=善良;音波
+|levels=圣武士 4;吟游诗人 5;歌者 5;先知 7;奥能师 7;术士 7;法师 7;牧师 7
+|action=标准动作
+|components=语言;姿势
+|range=30尺
+|area=锥状爆发
+|duration=立即
+|save=强韧，通过则无效
+|sr=是
+|description=听到如同号角圣使的号声般强大的回响，区域内所有生物[[麻痹]]1d4轮。
+|source=纯洁勇士
+}}

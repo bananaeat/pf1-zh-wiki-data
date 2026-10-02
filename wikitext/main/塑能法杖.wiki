@@ -1,0 +1,24 @@
+{{魔法物品
+|name=塑能法杖
+|english_name=Staff of Evocation
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Evocation
+|cat=法杖
+|aura=强烈塑能系
+|cl=13
+|slot=无
+|price=82,000 gp
+|weight=5磅
+|description=这根光滑的法杖由山胡桃木或紫杉木雕成。
+
+该法杖可以使用以下法术：
+
+* [[火球术]]（1 发）
+* [[魔法飞弹]]（1 发）
+* [[粉碎音波]]（1 发）
+* [[冰风暴]]（2 发）
+* [[力墙术]]（2 发）
+* [[连环闪电]]（3 发）
+|req=[[制造法杖]]、[[连环闪电]]、[[火球术]]、[[冰风暴]]、[[魔法飞弹]]、[[粉碎音波]]、[[力墙术]]
+|cost=41,000 gp
+|source=核心规则书、极限宝具
+}}

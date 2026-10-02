@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Night pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=护群始祖
+|english_name=Proud Progenitor
+|type=种族
+|pfs=否
+|prerequisites=[[吸血鬼]]（茉莉血族）
+|description=孤独驱使你建立起自己的眷群，任何企图伤害它的人都会遭到你狂热的攻击。对于你亲眼看到攻击或伤害过你任何一名吸血鬼衍体的生物，你对其进行的伤害掷骰获得+1背景加值。
+|source_name=夜之血脉
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Proud%20Progenitor
+}}

@@ -1,0 +1,17 @@
+{{魔法物品
+|name=低存在感之衫〔半身人〕
+|english_name=Shirt of Inconspicuousness (Halfling)
+|aon=MagicWondrousDisplay.aspx?FinalName=Shirt of Inconspicuousness (Halfling)
+|cat=奇物
+|aura=中等惑控系
+|cl=7
+|slot=胸部
+|price=8,000 gp
+|weight=1/2磅
+|description=下列奇物通常只有所标明的种族或族裔的成员才能获得。
+
+这件灰扑扑的衬衫，能让穿戴者即使在做着要紧事时也融入背景之中，从而更好地避开随之而来的麻烦。穿戴者是看得见的，但很容易被忽视，观察者会为她的存在找借口搪塞过去，或者干脆忘掉。观察者必须通过DC 11的意志豁免才能注意到穿戴者；成功的观察者在24小时内对这件衬衫的效果免疫。如果穿戴者攻击某位观察者或该观察者的盟友，该观察者会自动注意到穿戴者。
+|req=[[制造奇物]]、[[无视]]（见第221页），制造者必须是半身人
+|cost=4,000 gp
+|source=内海种族
+}}

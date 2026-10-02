@@ -1,0 +1,17 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=无害宝石颈环
+|english_name=Torc of Innocuous Gems
+|aon=MagicWondrousDisplay.aspx?FinalName=Torc of Innocuous Gems
+|cat=奇物
+|aura=中等幻术系
+|cl=9
+|slot=颈部
+|price=1,800 gp
+|description={{AI翻译|nocat=1|本段由 AI 照 AoN 英文原文译出，CHM 汉化里没有这段译文，未经人工校对。}}
+
+这条朴素的铂金项链上有五个宝石镶槽。放入镶槽中的[[艾恩石]]会如同[[魔法灵光]]一般显示为非魔法物品，也不会给穿戴者带来任何好处。穿戴者说出一个命令字后，可以释放项链中所有的艾恩石，使它们环绕着她的头部飞行，并获得它们的全部好处。
+|req=[[制造奇物]]、[[魔法灵光]]
+|cost=900 gp
+|source=间谍大师手册
+}}

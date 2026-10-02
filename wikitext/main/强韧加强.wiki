@@ -1,0 +1,14 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[强韧加强 (神话)]]。</small></div>
+{{Feat
+|name=强韧加强
+|english_name=Great Fortitude
+|description=你对毒素、疾病和其他不适有抗性。
+|benefit=所有强韧豁免检定获得+2加值。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[一副好肝]]、[[饮法者]]（2 个条目）

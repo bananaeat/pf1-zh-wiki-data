@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[树肤术]] 的神话版本。</small></div>
+{{Spell
+|name=树肤术
+|english_name=Barkskin
+|school=变化系
+|levels=召唤师 2;召唤师（掉链） 2;德鲁伊 2;游侠 2;炼金术师 2;猎人 2;萨满 2;调查员 2
+|description=目标还会获得DR/魔法，DR的数值等同于法术向着目标的天生防御加值所赋予的增强加值数量的两倍。
+
+强化（6阶）：若你花费2次神话之力，法术会赋予DR/传奇，而非DR/魔法。
+|source=神话冒险
+}}
+[[分类:神话法术]]

@@ -1,0 +1,17 @@
+{{魔法物品
+|name=魔力稳定绶带〔迦伦德人〕
+|english_name=Baldric of Magical Stability (Garundi)
+|aon=MagicWondrousDisplay.aspx?FinalName=Baldric of Magical Stability (Garundi)
+|cat=奇物
+|aura=强烈防护系
+|cl=15
+|slot=胸部
+|price=14,000 gp
+|weight=1磅
+|description=这件奇物通常只有所标明的种族或族裔的成员才能获得。
+
+这条结实的皮制绶带可在鞘中纳入一把武器，其口袋足以容纳下列物品之一（或同等体积的装备）：两匣弩矢、一箭袋箭矢，或40发弹头或火器定装弹。佩戴者以及绶带中携带的每一件物品，在对抗[[原能魔法]]（见《内海魔法》第12页）效果的豁免检定上获得+2洞察加值。迦伦德人佩戴者尝试一次专注检定以防止某次原能魔法事件触发时，在该检定上获得+2表现加值；即使她不是施法者，也可以进行该检定，此时视其有效施法者等级为5级，并采用其智力、感知、魅力调整值中的最高者。
+|req=[[制造奇物]]、[[反魔场]]，制造者必须是迦伦德人
+|cost=7,000 gp
+|source=内海种族
+}}

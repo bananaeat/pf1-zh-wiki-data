@@ -1,0 +1,18 @@
+{{武器
+|name=套牛绳
+|english_name=Bolas
+|category=武器
+|prof=异种
+|wcat=远程
+|price=5 gp
+|weight=2磅
+|dmg_s=1d3
+|dmg_m=1d4
+|crit=×2
+|range=10尺
+|type=钝击
+|special=瘀伤，摔绊
+|groups=投掷
+|description=套牛绳是用细索连结的一对木、石或铁质重物。你能回旋并投掷此武器，向一名对手发动远程摔绊攻击。你不会在使用套牛绳摔绊时遭到反摔。
+|source=核心规则书、极限宝具、远程战术工具箱
+}}

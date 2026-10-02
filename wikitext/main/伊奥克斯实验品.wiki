@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（People of the Stars pg. 21），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=伊奥克斯实验品
+|english_name=Eoxian Experiment
+|type=地区
+|pfs=否
+|prerequisites=伊奥克斯
+|description=你在伊奥克斯长大，在那里受到异星势力的监管，并被迫接受恐怖的实验。你对抗痛苦效果（见《极限魔法》第138页）和不死生物类法术能力的豁免检定获得+1背景加值。
+|source_name=繁星子民
+|source=PotS
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Eoxian%20Experiment
+}}

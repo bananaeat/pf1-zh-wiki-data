@@ -1,0 +1,11 @@
+{{Feat
+|name=狂舞
+|english_name=Dervish Dance
+|categories=战斗
+|description=你学会了如何用速度增强力量，即使是使用较重的武器。
+|prerequisites=敏捷13，[[武器娴熟]]，[[表演]]（舞蹈）2级，擅长弯刀
+|benefit=当你单手持用[[弯刀]]时，你能够使用敏捷调整值替代你的力量调整值，加到近战攻击与伤害检定上。对于所有需要单手穿刺类武器的专长与职业能力（如[[决斗家]]的精准刺击能力），你将弯刀视为该类武器。弯刀的大小必须适合你的体型。你的副手携带武器或盾牌时无法使用该专长。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

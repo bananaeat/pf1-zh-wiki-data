@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|荒野源始|Wilderness Origins}}
+'''涤净烈焰'''（Purifying Flames, Sp）是[[操念使]]的[[原力]]。
+
+元素：火；类别：通用（Sp）；等级：4；超载：1
+
+你用火焰将一名生物静脉内的毒素烧灼出去。你必须尝试一次施法者等级检定（1d20+你的[[操念使]]等级）对抗影响目标的每种毒素的DC。成功意味着毒素被中和，如同[[中和毒性]]一样。当你尝试以这种方式中和毒性时，你可以选择对中毒的生物造成一定量的火焰伤害——数量等同于你通常会从承受超载中受到的伤害——从而减少一种影响目标的毒素的DC2点。这一减少持续到你的下一轮结束。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Purifying Flames|2=Purifying Flames}}
+
+[[分类:原力]]

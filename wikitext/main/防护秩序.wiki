@@ -1,0 +1,18 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[防护秩序 (神话)]]。</small></div>
+{{Spell
+|name=防护秩序
+|english_name=Protection from Law
+|school=防护系
+|tags=混乱
+|levels=先知 1;反圣武士 1;召唤师 1;召唤师（掉链） 1;唤魂师 1;奥能师 1;审判者 1;导师 1;战斗祭司 1;术士 1;法师 1;牧师 1;萨满 1;血脉狂怒者 1;通灵者 1
+|domains=混乱领域 1;纯净子域 1
+|action=标准动作
+|components=语言;姿势;材料/圣徽
+|range=接触
+|target=接触到的生物
+|duration=1分钟/等级 (可解消)
+|save=意志，通过则无效（无害）
+|sr=否; 见后文
+|description=该法术的功能如同[[防护邪恶]]一般，不过偏斜与抗力加值只应用至秩序生物做出的攻击。目标在对抗秩序生物进行的控制时会获得新的豁免机会，并且秩序召唤生物无法接触目标。
+|source=核心规则书
+}}

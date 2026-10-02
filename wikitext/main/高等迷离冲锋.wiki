@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=高等迷离冲锋
+|english_name=Erratic Charge, Greater
+|type=Ex
+|categories=进攻
+|prerequisites=[[野蛮人]]8级，[[迷离冲锋]]
+|benefit=野蛮人现在可以通过[[迷离冲锋]]进行10尺移动，这样做要求他冲锋的目标生物距离他至少20尺远并且这会使他可以冲锋的距离减少20尺。
+|source_name=恶棍志
+}}

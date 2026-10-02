@@ -1,0 +1,8 @@
+<noinclude>{{调查员导航}}
+'''随心灵感'''（Unconventional Inspiration, Ex）是[[调查员]]的[[调查员天赋|调查员天赋]]。
+
+</noinclude>调查员可以选择任意一个技能。他可以在进行该技能检定时将灵感骰添加到检定结果上，而无需消耗灵感点数。<noinclude>
+
+[[分类:调查员天赋]]
+
+{{职业}}</noinclude>

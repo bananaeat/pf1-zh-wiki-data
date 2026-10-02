@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=不定风手套
+|english_name=Gloves of Unfolding Wind
+|aon=MagicWondrousDisplay.aspx?FinalName=Gloves of Unfolding Wind
+|cat=奇物
+|aura=微弱塑能系
+|cl=3
+|slot=手部
+|price=10,000 gp
+|weight=1磅
+|description=这双白色的无指手套，手背上装饰着一个螺旋。在结算强风的效果时，穿戴者视为大一个体型，其投掷武器视为攻城兵器。此外，穿戴者可以花费1点气点来制造一阵强风，效果如同[[造风术]]。
+|req=[[制造奇物]]、[[造风术]]
+|cost=5,000 gp
+|source=冒险者指南
+}}

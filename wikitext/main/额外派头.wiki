@@ -1,0 +1,12 @@
+{{Feat
+|name=额外派头
+|english_name=Extra Panache
+|categories=派头
+|description=你比普通的游荡剑客更加时髦。
+|prerequisites=业余剑客专长或派头职业能力
+|benefit=你获得每日额外两点时髦值，以及两点时髦最大值。
+|special=如果你在游荡剑客职业上拥有等级，你可以多次选择本专长，每次选择，专长效果叠加。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

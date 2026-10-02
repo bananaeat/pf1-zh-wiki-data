@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Sargava, the Lost Colony pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=自豪部民
+|english_name=Proud Tribesman
+|type=种族
+|prerequisites=[[人类]]（芒吉人）
+|description=你或许不得不与殖民者共处，但你不必喜欢他们。你为[[威吓]]萨迦瓦殖民者而进行的检定获得+2加值。
+|source_name=萨迦瓦，失落的殖民地
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Proud%20Tribesman
+}}

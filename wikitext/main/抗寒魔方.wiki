@@ -1,0 +1,15 @@
+{{魔法物品
+|name=抗寒魔方
+|english_name=Cube of Frost Resistance
+|aon=MagicWondrousDisplay.aspx?FinalName=Cube of Frost Resistance
+|cat=奇物
+|aura=微弱防护系
+|cl=5
+|slot=无
+|price=27,000 gp
+|weight=2磅
+|description=按下魔方的一面即可启动或关闭它。启动后，它会创造出一个以持有者为中心（如果之后把这件物品放在某个表面上，则以魔方自身为中心）、边长10尺的立方体区域。这个区域内的温度始终至少保持在华氏65度。该力场会吸收所有以寒冷为基础的攻击。然而，如果力场在1轮内受到超过50点寒冷伤害（来自一次或多次攻击），它就会崩溃，并在1小时内无法重新启动。如果力场在10轮内吸收了超过100点寒冷伤害，魔方就会被摧毁。
+|req=[[制造奇物]]、[[防护能量伤害]]
+|cost=13,500 gp
+|source=核心规则书、极限宝具
+}}

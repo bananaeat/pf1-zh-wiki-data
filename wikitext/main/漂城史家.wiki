@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Elements pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=漂城史家
+|english_name=Vialesk Historian
+|type=地区
+|prerequisites=水元素位面
+|description=你多年来潜心研究漂流贸易城市维亚莱斯克——水元素位面上供位面旅者往来的中立之地——这让你成了各类水生生物的专家。你为辨识具有水系亚种的异界生物而进行的[[知识]]（位面）检定获得+2背景加值。此外，当你施展咒法系（召唤）法术来召唤具有水系亚种的异界生物时，你的施法者等级视为高1级。
+|source_name=元素血脉
+|source=BotE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Vialesk%20Historian
+}}

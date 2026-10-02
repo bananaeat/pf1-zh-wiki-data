@@ -1,0 +1,20 @@
+{{速查导航|here=怪物}}
+
+{{怪物模板
+|name=皮包骨食人魔
+|english_name=Pickin Ogre
+|kind=遗传；简易
+|cr=+0
+|apply=[[食人魔]]
+|intro=这些瘦高、骨瘦如柴的食人魔有着树皮般粗厚的外皮，浑身遍布尖刺状的突起，手上长着荆棘般锋利的爪子。
+|ac=天生护甲加值 +2。
+|abilities=体质 −2。
+|melee=获得 2 次爪抓攻击（1d6）。
+|skills=在森林中的隐匿检定获得 +4 种族加值。
+}}
+
+'''快速规则'''：AC +2，每 HD −1 hp，强韧豁免和体质检定 −1；获得 2 次爪抓攻击（1d6）；在森林中的隐匿检定获得 +4 种族加值。
+
+{{AoN原文|1=MonsterTemplates.aspx?ItemName=Pickin Ogre|2=Pickin Ogre}}
+
+[[分类:怪物模板]]

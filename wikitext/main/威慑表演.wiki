@@ -1,0 +1,11 @@
+{{Feat
+|name=威慑表演
+|english_name=Intimidating Performance
+|description=你的表演将恐惧打入敌人心中。
+|prerequisites=可以以移动动作开始表演（或战怒之歌），吟游诗人表演或战怒之歌职业能力。
+|benefit=每当你以移动或者[[迅捷动作]]启动吟游诗人表演或战怒之歌，你都可以以一个[[标准动作]]尝试挫败一个对手的士气，在这次检定上，你可以以表演技能检定的结果作为威吓检定结果，并且此表演必须具有听觉成分。
+|extra=如果你可以以一个迅捷动作启动表演并且拥有炫目技巧专长，你可以发动炫目技巧，并且使用你的表演技能检定取代威吓技能检定。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

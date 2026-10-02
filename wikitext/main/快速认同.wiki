@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[快速认同 (神话)]]。</small></div>
+{{Feat
+|name=快速认同
+|english_name=Fast Empathy
+|description=你野兽般的灵魂使得你可以快速理解野兽的思想。
+|prerequisites=[[驯养动物]]5级，【野性认同】职业特性。
+|benefit=野性认同只需要花费你一个[[标准动作]]。
+|normal=野性认同需要花费1分钟。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

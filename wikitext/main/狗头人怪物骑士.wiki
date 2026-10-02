@@ -1,0 +1,45 @@
+{{速查导航}}
+{{怪物
+|name=狗头人怪物骑士
+|english_name=Kobold Monster Wrangler
+|cr=1
+|xp=400
+|classline=狗头人骑士2
+|alignment=守序邪恶
+|size=小型
+|type=类人生物
+|subtypes=爬虫类亚种
+|init=+3
+|senses=黑暗视觉60尺；察觉+2
+|description=那些最为勇敢的狗头人骑着怪异的生物投入战斗。
+|ac=22，接触14，措手不及19（+5护甲，+3敏捷，+1天生，+2盾牌，+1体型）
+|hp=17（2d10+2）
+|fort=+3
+|ref=+3
+|will=+0
+|weaknesses=光线敏感
+|speed=20尺
+|melee=精制品长枪+4（1d6/x3）
+|special_attacks=挑战（+2，+1，1次/天）
+|str=11
+|dex=16
+|con=10
+|int=8
+|wis=10
+|cha=13
+|bab=+2
+|cmb=+1
+|cmd=14
+|feats=[[双重借机]] APG;巨牙军骑
+|skills=[[工艺|手艺]]（制造陷阱）+1;[[驯养动物]]+9;[[威吓]]+6;[[察觉]]+2;[[专业]]（矿工）+2;[[骑术]]+4
+|languages=通用语;龙语
+|sq=狡诈;坐骑（洞穴火蜥蜴或巨牙蟾）;骑士团（雄狮骑士团，雄狮之吼）;战术家（1次/天，4轮，标准动作）
+|combat_gear=冻结剂 UE;治疗轻伤药水
+|gear=精制品鳞甲;精制品重钢盾;精制品长枪;10GP
+|environment=温带地下或森林深处
+|source=怪物志
+|family=狗头人（怪物志）
+|npc=1
+}}
+
+本页译自《[[怪物志]]》的怪物图鉴 CHM。

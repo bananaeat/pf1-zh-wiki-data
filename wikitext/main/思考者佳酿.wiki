@@ -1,0 +1,10 @@
+{{装备
+|name=思考者佳酿
+|english_name=Thinker's tipple
+|cat=酊剂
+|price=300 gp
+|weight=—
+|craft_dc=25
+|description=这种橙色液体可以振奋人的头脑。在饮下酊剂的1个小时内，你在知识检定上获得+2炼金加值，并且只要其DC小于等于15，就可以未受训尝试知识检定。这会削弱你的能量，在持续期间你在强韧豁免上承受-4罚值。
+|source=药剂与毒药
+}}

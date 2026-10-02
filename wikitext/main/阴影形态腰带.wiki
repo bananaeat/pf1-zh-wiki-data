@@ -1,0 +1,14 @@
+{{魔法物品
+|name=阴影形态腰带
+|english_name=Shadowform Belt
+|aon=MagicWondrousDisplay.aspx?FinalName=Shadowform Belt
+|cat=奇物
+|aura=强烈变化系
+|cl=17
+|slot=腰部
+|price=110,000 gp
+|description=这条腰带系在穿戴者腰间时，赋予穿戴者+6敏捷增强加值。在刚穿戴的24小时内，此加值视为临时加值。此外，穿戴者可以用[[迅捷动作]]变为[[虚体]]。处于虚体状态时，他不会获得基于魅力的偏斜AC加值，但他的天生护甲加值会转为偏斜加值。穿戴者每天最多可以保持虚体10轮，这些轮数不必连续。
+|req=[[制造奇物]]、[[猫之优雅]]、[[同游灵界]]
+|cost=55,000 gp
+|source=极限宝具
+}}

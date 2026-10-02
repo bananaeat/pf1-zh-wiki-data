@@ -1,0 +1,10 @@
+{{Feat
+|name=罪孽先知
+|english_name=Sin Seer
+|description=和其他为了对抗亡灵而立下[[圣律沿循者#反亡灵誓约|反亡灵誓约]]的人不同（见第60页），对亡灵的全神贯注并不会影响你的善恶观。
+|prerequisites=【侦测亡灵】圣武士职业特性。【编注：【侦测亡灵】是圣武士反亡灵誓约（UM）的1级能力。】
+|benefit=你获得[[侦测邪恶]]职业特性。你可以使用【侦测邪恶】或者【侦测亡灵】，但不能同时使用两者。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

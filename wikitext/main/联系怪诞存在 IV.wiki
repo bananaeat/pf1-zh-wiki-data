@@ -1,0 +1,23 @@
+{{Spell
+|name=联系怪诞存在 IV
+|english_name=Contact Entity IV
+|school=塑能系
+|levels=通灵者 4;召唤师 6;召唤师（掉链） 6;秘学士 6;先知 7;奥能师 7;女巫 7;异能者 7;术士 7;法师 7;牧师 7;萨满 7
+|action=1分钟
+|components=语言;姿势;材料（见后文）
+|range=500哩
+|target=至多20名24HD或更低的存在
+|duration=立即
+|sr=否
+|description=此法术如同[[联系怪诞存在 III]]般作用，除了你可以接触联系怪诞存在 IV列表中的生物，如下表所列。
+
+<table class="wikitable">
+<tr><th>联系怪诞存在 IV</th><th>材料成分</th></tr>
+<tr><td>[[巨噬蠕虫]]B4</td><td>由巨噬蠕虫的喷吐武器创造的一罐黏液</td></tr>
+<tr><td>[[窃身藤]]B4</td><td>从脑白质切断手术得到的部分大脑[邪恶]</td></tr>
+<tr><td>[[夺心巨虫]]</td><td>价值3000gp的红宝石[混乱、邪恶]</td></tr>
+<tr><td>[[修格斯]]</td><td>在海底获得，价值3000gp的艺术品[混乱]</td></tr>
+<tr><td>克苏鲁的星之眷族 B4</td><td>献祭10或更高HD的类人生物[混乱、邪恶]</td></tr>
+</table>
+|source=惧怖冒险
+}}

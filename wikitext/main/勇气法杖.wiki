@@ -1,0 +1,20 @@
+{{魔法物品
+|name=勇气法杖
+|english_name=Staff of Courage
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Courage
+|cat=法杖
+|aura=中等惑控系
+|cl=8
+|slot=无
+|price=20,800 gp
+|weight=5磅
+|description=这根看上去很结实的山胡桃木法杖顶端立着一尊天使或其他仁善灵体的小雕像，双翼与双臂张开，仿佛在欢迎来者。该法杖可以使用以下法术：
+
+* [[祝福术]]（1 发）
+* [[移除恐惧]]（1 发）
+* [[祈祷术]]（2 发）
+* [[移除麻痹]]（2 发）
+|req=[[制造法杖]]、[[祝福术]]、[[祈祷术]]、[[移除恐惧]]、[[移除麻痹]]
+|cost=10,400 gp
+|source=探索者协会战地指南、极限宝具
+}}

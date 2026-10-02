@@ -1,0 +1,18 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=饥荒权杖
+|english_name=Famine Rod
+|aon=MagicRodsDisplay.aspx?FinalName=Famine Rod
+|cat=权杖
+|aura=中等死灵系
+|cl=6
+|slot=手持
+|price=24,000 gp
+|weight=3磅
+|description=饥荒权杖是一根2尺长的乌木杖，雕成一个形销骨立、骨瘦如柴的男子模样。持有者可以以一个[[标准动作]]消耗1点充能，对60尺内的敌人进行一次远程接触攻击，命中则造成2d6点伤害。持有者获得等同于权杖所造成伤害一半的临时生命值，这些临时生命值在1小时后消失。持有者也可以改为消耗3点充能，造成4d6点伤害。
+
+饥荒权杖被发现时有10点充能。已消耗的充能每周恢复一次，因此在任意1周的时间内，持有者最多可以消耗10点充能。
+|req=[[制造权杖]]、[[吸血鬼之触]]
+|cost=12,000 gp，960 XP
+|source=Magic of Thassilon (Web Enhancement)
+}}

@@ -1,0 +1,16 @@
+{{科技物品
+|name=化学分析仪
+|english_name=Chemalyzer
+|kind=科技装置
+|sub=植入物、医疗器械与纳米科技
+|price=2,500 gp
+|weight=8磅
+|slot=无
+|capacity=10
+|usage=1充能
+|description=化学分析仪是一台手持设备，带有一根可伸缩的探杆，杆头是取样喷嘴。在鉴定未知的[[合成药物]]、毒药、化学品或物质的手艺（炼金术）或知识（工程学）检定中，它提供+5表现加值。它无法协助鉴定魔法效果或魔药之类的物品。
+|construction=[[制造科技装置]]、生产车间
+|craft_dc=25
+|cost=1,250 gp
+|source=科技指南
+}}

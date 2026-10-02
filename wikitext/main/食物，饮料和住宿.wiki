@@ -1,0 +1,60 @@
+{{速查导航}}
+'''食物，饮料和住宿'''是《[[冒险者的军械库]]》的一章。
+
+'''食物，饮料和住宿（Food, Drink, and Lodging）'''
+
+{| class="wikitable sortable"
+|-
+! 物品（Item） 价格（Price） 重量（Weight） 凯登佳酿（Caydenbrew） 5 cp/啤酒杯 1/2磅 咖啡（Coffee） 1 cp/茶杯 1/2磅 寇兰庭葡萄酒（Corentyn wine） 15 gp/瓶 1/2磅 矮人烈酒（Dwarven stout） 4 cp/啤酒杯 1/2磅 格罗格酒（Grog） 2 cp/啤酒杯 1/2磅 加味咖啡（Kahve） 2 cp/茶杯 1/2磅 林诺姆蜜酒（Linnorm mead） 5 cp/啤酒杯 1/2磅 芒吉咖啡（Mwangi coffee） 3 cp/茶杯 1/2磅 古法威士忌（Oldlaw whiskey） 20 gp/瓶 1磅 甜蛋酒（Rumboozle） 1 sp/玻璃杯 1/2磅 茶（Tea） 2 cp/茶杯 1/2磅 茶道用茶（Tea, Ceremonial） 4 cp/茶杯 1/2磅 茶道用具（Tea ceremonial set） 25 gp 5磅 !!  !! 
+|-
+| 物品（Item） || 价格（Price） || 重量（Weight）
+|-
+| 凯登佳酿（Caydenbrew） || 5 cp/啤酒杯 || 1/2磅
+|-
+| 咖啡（Coffee） || 1 cp/茶杯 || 1/2磅
+|-
+| 寇兰庭葡萄酒（Corentyn wine） || 15 gp/瓶 || 1/2磅
+|-
+| 矮人烈酒（Dwarven stout） || 4 cp/啤酒杯 || 1/2磅
+|-
+| 格罗格酒（Grog） || 2 cp/啤酒杯 || 1/2磅
+|-
+| 加味咖啡（Kahve） || 2 cp/茶杯 || 1/2磅
+|-
+| 林诺姆蜜酒（Linnorm mead） || 5 cp/啤酒杯 || 1/2磅
+|-
+| 芒吉咖啡（Mwangi coffee） || 3 cp/茶杯 || 1/2磅
+|-
+| 古法威士忌（Oldlaw whiskey） || 20 gp/瓶 || 1磅
+|-
+| 甜蛋酒（Rumboozle） || 1 sp/玻璃杯 || 1/2磅
+|-
+| 茶（Tea） || 2 cp/茶杯 || 1/2磅
+|-
+| 茶道用茶（Tea, Ceremonial） || 4 cp/茶杯 || 1/2磅
+|-
+| 茶道用具（Tea ceremonial set） || 25 gp || 5磅
+|}
+
+'''食物，饮料和住宿（Food, Drink, and Lodging）'''
+
+所列价格适用于普通城市中的酒馆或餐厅。
+
+== 本章条目 ==
+
+* [[凯登佳酿]]
+* [[加味咖啡〔一杯，茶杯〕]]
+* [[古法威士忌〔一瓶〕]]
+* [[咖啡〔一杯，茶杯〕]]
+* [[寇兰庭葡萄酒]]
+* [[林诺姆蜜酒]]
+* [[格罗格酒]]
+* [[甜蛋酒〔一杯，茶杯〕]]
+* [[矮人烈酒〔一杯，啤酒杯〕]]
+* [[芒吉咖啡]]
+* [[茶〔一杯，茶杯〕]]
+* [[茶道用茶〔一杯，茶杯〕]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh01758f91a9.htm 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

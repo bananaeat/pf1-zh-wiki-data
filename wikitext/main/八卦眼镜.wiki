@@ -1,0 +1,15 @@
+{{魔法物品
+|name=八卦眼镜
+|english_name=Gossip Glass
+|aon=MagicWondrousDisplay.aspx?FinalName=Gossip Glass
+|cat=奇物
+|aura=微弱预言系
+|cl=1
+|slot=眼部
+|price=3,600 gp
+|weight=1磅
+|description=这副镶嵌宝石的银质歌剧眼镜与普通的歌剧眼镜无法区分，只不过透过镜片观看时，你会在察觉检定上获得+4表现加值。读唇语时，你能理解任何口语，如同[[通晓语言]]法术。你只能用八卦眼镜窥探视线内的谈话，而且必须能看到人们说话才能读唇。
+|req=[[制造奇物]]、[[通晓语言]]
+|cost=1,800 gp，144 XP
+|source=塔尔多，荣光荡漾之地
+}}

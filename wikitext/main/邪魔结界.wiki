@@ -1,0 +1,15 @@
+{{Spell
+|name=邪魔结界
+|english_name=Daemon ward
+|school=死灵系
+|levels=先知 4;圣武士 4;奥能师 4;女巫 4;战斗祭司 4;术士 4;法师 4;牧师 4;德鲁伊 5;猎人 5
+|action=标准动作
+|components=语言;姿势;材料（价值50gp的银粉）
+|range=接触
+|target=接触到的活物
+|duration=1分钟/等级
+|save=意志，通过则无效（无害）
+|sr=是
+|description=本法术的效果如同[[防死结界]]，除了上述的记载，并且只在对抗来自邪魔的攻击时提供保护。
+|source=永罪之书末辑，天启诸骑
+}}

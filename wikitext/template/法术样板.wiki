@@ -1,0 +1,88 @@
+<includeonly>{{Spell
+|name=
+|english_name=
+|school=
+|tags=
+|levels=
+|domains=
+|action=
+|components=
+|range=
+|target=
+|area=
+|duration=
+|save=
+|sr=
+|description=
+|source=
+}}
+</includeonly><noinclude>
+这一页是'''新建法术条目用的骨架''' —— 不是给条目套用的模板，条目要套的是 [[模板:Spell]]。
+
+[[待办事项#四、长期的翻译工|待办事项]] 上有个输入框：填中文名、点按钮，编辑框里就会自动预填下面这段骨架。也可以自己拼地址：
+
+ https://pf1.huijiwiki.com/index.php?title=页名&action=edit&preload=模板:法术样板
+
+== 骨架 ==
+
+<pre>
+{{Spell
+|name=
+|english_name=
+|school=
+|tags=
+|levels=
+|domains=
+|action=
+|components=
+|range=
+|target=
+|area=
+|duration=
+|save=
+|sr=
+|description=
+|source=
+}}
+</pre>
+
+== 各参数怎么填 ==
+;name / english_name: 中英文名。<code>name</code> 留空时取页名。
+;school: 八大学派之一：'''防护系、咒法系、预言系、惑控系、塑能系、幻术系、死灵系、变化系'''，
+ 或 '''通用系'''。可以带子学派，写成 <code>咒法系 (创造)</code>，括号那部分不影响分类。
+;tags: 描述符，'''分号分隔'''：<code>火;光</code>。
+;levels: 职业环位，'''分号分隔'''，职业名和数字之间一个空格：<code>术士 3;法师 3;魔战士 3</code>。
+ 这一格是 [[法术速查]] 按职业分表的依据，写错了分表就会多出一个假职业。
+;domains: 领域环位，写法同上：<code>火领域 3</code>。
+;action: 施法时间，例如 <code>标准动作</code>、<code>1轮</code>、<code>10分钟</code>。
+;components: 成分，'''分号分隔'''：<code>语言;姿势;材料 (蝙蝠粪便和硫磺小球)</code>。
+;range / target / area / effect: 距离、目标、区域、效应。按这条法术实际有哪几项填，没有的留空。
+;duration: 持续时间。
+;save: 豁免，例如 <code>反射, 通过则减半</code>、<code>无</code>。
+;sr: 法术抗力，<code>可</code> / <code>不可</code>。
+;description: 正文。分段直接空一行。
+;source: '''中文书名'''，例如 <code>核心规则书</code>。书名的标准写法见各本书的页面，别自己造缩写。
+
+完整的参数说明和例子在 [[模板:Spell]] 那一页。
+
+== 注意 ==
+
+[[:分类:待汉化]] 里那 224 页'''已经存在'''，标题是中文、正文还是英文原文——
+那边的活是'''把译文填进 <code>description</code>'''，不是新建页。这张骨架在那种情况下
+可以当「一条填完的法术长什么样」的对照。
+
+== 三条通则 ==
+
+# '''页名用中文名'''，英文名填进 <code>english_name</code> 参数。撞名怎么加后缀见 [[帮助:格式约定]]。
+# '''不要自己排版、不要手写分类''' —— 卡片模板会自动排版、自动挂分类、自动生成页脚导航。
+# '''用不上的参数留空或整行删掉都行'''，模板会自动隐藏对应的行。
+
+== 填完之后 ==
+
+在保存框下面写一行摘要（「新建：XXX」就够），保存。改错了不要紧，
+每次修改都有记录、任何人都能一键还原。
+
+哪些还没建见 [[法术速查]]。
+
+[[分类:帮助]]
+</noinclude>

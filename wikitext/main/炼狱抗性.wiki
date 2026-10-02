@@ -1,0 +1,10 @@
+{{Feat
+|name=炼狱抗性
+|english_name=Fiendish Resilience
+|description=你能以惊人速度闪避敌人的攻击。
+|prerequisites=敏捷13，反射闪避职业能力，[[魔裔]]
+|benefit=从下列你拥有抗力的能量类型中选择一种：寒冷、闪电或火焰。当你由于受到该种能量类型的攻击而需要进行反射豁免检定，并且可以使用[[盗贼#反射闪避|反射闪避]]职业能力时，你在豁免时会获得+4表现加值。
+|special=你可以多次选择该专长。每次你选择必须选择一种不同的能量类型。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_833.html
+}}

@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[虔诚护盾]] 的神话版本。</small></div>
+{{Spell
+|name=虔诚护盾
+|english_name=Shield of Faith
+|school=防护系
+|levels=先知 1;审判者 1;战斗祭司 1;牧师 1
+|description=将你的阶层的一半加到法术的偏斜加值上。
+|source=神话冒险
+}}
+[[分类:神话法术]]

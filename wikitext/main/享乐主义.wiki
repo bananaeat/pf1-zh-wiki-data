@@ -1,0 +1,10 @@
+{{Trait
+|name=享乐主义
+|english_name=Hedonistic
+|type=缺陷
+|pfs=否
+|description=你为愉悦和舒适而生。
+|benefit=如果你一天内没能获得报酬或财宝(至少10GP以上或等值财物),也没有花费至少一个小时进行娱乐或休闲活动，在这一天结束时你必须掷一次DC为20的强韧豁免。如果你失败了，第二天开始时你会陷入疲劳。疲劳持续4个小时，或直到你获得报酬或足够的娱乐或休闲为止。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

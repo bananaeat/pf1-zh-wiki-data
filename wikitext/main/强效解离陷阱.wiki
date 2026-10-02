@@ -1,0 +1,13 @@
+{{危害
+|name=强效解离陷阱
+|english_name=Empowered Disintegrate Trap
+|kind=陷阱
+|trap_type=魔法
+|cr=16
+|perception=DC 33
+|disable=DC 33
+|trigger=视觉型（[[真知术]]）
+|reset=无
+|effect=法术效果（强效[[解离术]]，+9远程接触攻击，30d6点伤害外加50%，强韧 DC 19 豁免则伤害降为5d6外加50%）
+|source=核心规则书
+}}

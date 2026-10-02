@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[黑色印记]] 的神话版本。</small></div>
+{{Spell
+|name=黑色印记
+|english_name=Black Mark
+|school=死灵系
+|tags=诅咒;恐惧
+|levels=女巫 7;德鲁伊 7
+|description=任何时刻，被诅咒的生物在旅行至距离海岸超过1英里的水面或水中时，每天他（或者他所乘坐的载具）都会被一个或多个水栖或者水系怪物袭击，就如同被召唤自然盟友VII（施法者等级13级）所召唤出的一般。
+|source=神话冒险
+}}
+[[分类:神话法术]]

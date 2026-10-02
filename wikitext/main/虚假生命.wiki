@@ -1,0 +1,14 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[虚假生命 (神话)]]。</small></div>
+{{Spell
+|name=虚假生命
+|english_name=False Life
+|school=死灵系
+|levels=催眠师 2;唤魂师 2;奥能师 2;女巫 2;异能者 2;术士 2;法师 2;炼金术师 2;秘学士 2;萨满 2;血脉狂怒者 2;调查员 2;通灵者 2
+|action=标准动作
+|components=语言;姿势;材料（一滴血）
+|range=个人
+|target=自己
+|duration=1小时/等级 或 直至能量发散; 见后文
+|description=通过驾驭死灵之力，你让自身获得能够在一定限度内避免死亡的能力。在该法术生效时，你获得 {1d10+CL (最高+10)} 的临时HP。
+|source=核心规则书
+}}

@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=静步之履
+|english_name=Soles of the Silent Stride
+|aon=MagicWondrousDisplay.aspx?FinalName=Soles of the Silent Stride
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=脚部
+|price=8,250 gp
+|description=这双朴素的皮鞋颜色如同无月之夜，能立刻调整到合穿戴者的脚形，变得紧贴脚面，同时提供魔法般的缓冲与支撑。穿戴者在[[隐匿]]检定上获得+5表现加值，并且可以在奔跑时进行隐匿检定，承受-20减值。
+|req=[[制造奇物]]、[[沉默术]]
+|cost=4,125 gp
+|source=阴影血脉
+}}

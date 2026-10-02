@@ -1,0 +1,8 @@
+{{Feat
+|name=恶意眼神
+|english_name=Malicious Eye
+|prerequisites=[[邪眼]]（[[女巫巫术]]），半身人霉咒
+|benefit=当生物在邪眼[[巫术]]下豁免失败，将霉咒效果加到巫术的效果里。霉咒与巫术造成的豁免减值相互叠加。对另一个生物使用霉咒能力，并不会导致先前巫术或巫术附带霉咒能力结束。
+|source_name=格拉利昂的半身人
+|source_url=https://pf1chm.pages.dev/topics/page_572.html
+}}

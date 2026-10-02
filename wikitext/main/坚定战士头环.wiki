@@ -1,0 +1,15 @@
+{{魔法物品
+|name=坚定战士头环
+|english_name=Band of the Stalwart Warrior
+|aon=MagicWondrousDisplay.aspx?FinalName=Band of the Stalwart Warrior
+|cat=奇物
+|aura=强烈防护系
+|cl=16
+|slot=头饰
+|price=14,000 gp
+|weight=1磅
+|description=这条朴素的铁环能保护穿戴者免受恐惧效果的影响。每当穿戴者受到恐惧效果影响时，她只会[[战栗]]（即使该效果通常会令目标惊惧或恐慌）。此外，穿戴者在对抗恐惧的所有意志豁免上获得+2表现加值。如果穿戴者拥有英勇职业特性，则在决定该职业特性的效果时，视为其等级高4级。
+|req=[[制造奇物]]、[[移除恐惧]]
+|cost=7,000 gp
+|source=极限宝具
+}}

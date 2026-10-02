@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=七德戒指
+|english_name=Ring of Seven Virtues
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Seven Virtues
+|cat=戒指
+|aura=中等变化系
+|cl=9
+|slot=戒指
+|price=10,000 gp
+|description=这枚青铜指环上布满几何图案，镶嵌着细小的珍珠。佩戴者持续享有[[忍受环境]]的效果，并在丛林中进行的[[生存]]检定上获得+5表现加值。在萨文提伊（Saventh-Yhi）城中，只要佩戴者位于某一座矛所在的区域，她还能享有该矛的主动效益。佩戴者一旦离开该矛的区域，就失去该矛的效益，进入另一座矛的区域则获得新的主动效益。佩戴者同一时间只能享有一座矛的效益。
+|req=[[锻造戒指]]、[[自给自足]]、[[忍受环境]]
+|cost=5,000 gp
+|source=冒险之路39：七矛之城
+}}

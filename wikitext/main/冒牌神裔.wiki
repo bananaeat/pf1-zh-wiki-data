@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Qadira, Jewel of the East pg. 29），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=冒牌神裔
+|english_name=Emberkin Imposter
+|type=地区
+|prerequisites=卡蒂亚
+|description=你发现，让别人误以为你身怀天界血统，要比暴露你的真实本性容易得多。假扮[[神裔]]时，你的[[易容]]检定获得+5背景加值；对那些已被你说服、相信你拥有所谓天界本性的人，你的[[交涉]]检定获得+2背景加值。
+|source_name=卡蒂亚，东方明珠
+|source=QJotE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Emberkin%20Imposter
+}}

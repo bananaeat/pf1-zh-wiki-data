@@ -1,0 +1,265 @@
+{{侠客导航}}
+{{Source|极限诡道|Ultimate Intrigue}}
+
+'''侠客天赋'''（Vigilante Talent）是[[侠客]]的职业特性。
+
+在2级及之后每提升两个等级时，侠客可以获得一个侠客天赋。除非特别提及，否则侠客的所有侠客天赋只能被选择一次。有一些侠客天赋需要侠客在满足特定的先决条件（比如拥有其他的侠客天赋、选择了特定的侠客之道或是达到一定的侠客等级）的情况下才能选择。侠客天赋一旦选取即无法改变。
+
+如果侠客在他处于社交身份的时候使用任何一项侠客天赋，他都必须通过一个易容技能检定来对抗所有旁观者的察觉技能检定（不应用[[侠客#无痕伪装|无痕伪装]]的+20环境加值），否则看到侠客使用不符合他身份的能力的人可能会意识到侠客的秘密身份。如果一个侠客天赋要求进行豁免检定，那么在没有其他说明的情况下，它的豁免DC=10+侠客等级的一半+侠客的魅力调整值。
+
+标有星号（*）的天赋是给[[侠客#侠客之道|暗袭]]附加效果的天赋：除非特别提及，否则诡秘猎手侠客每次暗袭只能附加其中一个，并且只能适用于对并未认知到诡秘猎手侠客在场（或将他视为盟友）的敌人所进行的暗袭。
+
+== 动物大亨 (Animal Patron) ==
+{{:动物大亨}}
+
+== 改日再死 (Another Day) ==
+{{:改日再死}}
+
+== 如鱼入水 (Aquatic Action) ==
+{{:如鱼入水}}
+
+== 着甲如肤 (Armor Skin) ==
+{{:着甲如肤}}
+
+== 盲点 (Blind Spot) ==
+{{:盲点}}
+
+== 残忍战技 (Brutal Maneuver) ==
+{{:残忍战技}}
+
+== 追逐大师 (Chase Master) ==
+{{:追逐大师}}
+
+== 见缝插针 (Close the Gap) ==
+{{:见缝插针(侠客天赋)}}
+
+== 寓守于攻 (Combat Expertise) ==
+{{:寓守于攻(侠客天赋)}}
+
+== 战斗技巧 (Combat Skill) ==
+{{:战斗技巧}}
+
+== 隐蔽打击 (Concealed Strike) ==
+{{:隐蔽打击}}
+
+== 狡黠虚招 (Cunning Feint) ==
+{{:狡黠虚招}}
+
+== 欺诈阴招 (Deceitful Trick) ==
+{{:欺诈阴招}}
+
+== 抄来就打 (Environment Weapon) ==
+{{:抄来就打}}
+
+== 因地制宜 (Environmental Weapon) ==
+{{:因地制宜}}
+
+== 反射闪避 (Evasive) ==
+{{:反射闪避}}
+
+== 专抓弱点 (Expose Weakness) ==
+{{:专抓弱点}}
+
+== 弱点识别 (Expose Weaknesses) ==
+{{:弱点识别}}
+
+== 梦幻舞步 (Fantastic Stride) ==
+{{:梦幻舞步}}
+
+== 偏好战技 (Favored Maneuver) ==
+{{:偏好战技}}
+
+== 复仇铁拳 (Fist of the Avenger) ==
+{{:复仇铁拳}}
+
+== 攻敌以敌 (Foe Collision) ==
+{{:攻敌以敌}}
+
+== 鳄鱼翻滚 (Gator Wrangle) ==
+{{:鳄鱼翻滚}}
+
+== 残酷审判 (Harsh Judgement) ==
+{{:残酷审判}}
+
+== 重装训练 (Heavy Training) ==
+{{:重装训练}}
+
+== 视线躲藏 (Hide in Plain Sight) ==
+{{:视线躲藏}}
+
+== 侠客灵感 (Inspired Vigilante) ==
+{{:侠客灵感}}
+
+== 随机应变 (Instant Plan) ==
+{{:随机应变}}
+
+== 蹦跳飞跃 (Leap and Bound) ==
+{{:蹦跳飞跃}}
+
+== 空门大开 (Leave an Opening) ==
+{{:空门大开(侠客天赋)}}
+
+== 致命优雅 (Lethal Grace) ==
+{{:致命优雅}}
+
+== 活体盾牌 (Living Shield) ==
+{{:活体盾牌}}
+
+== 一往无前 (Mad Rush) ==
+{{:一往无前}}
+
+== 魔法精熟 (Magical Familiarity) ==
+{{:魔法精熟}}
+
+== 高级魔法 (Major Magic) ==
+{{:高级魔法}}
+
+== 可塑血肉 (Malleable Flesh) ==
+{{:可塑血肉}}
+
+== 强力伏击 (Mighty Ambush) ==
+{{:强力伏击}}
+
+== 次级魔法 (Minor Magic) ==
+{{:次级魔法}}
+
+== 恶毒讽刺 (Mockery) ==
+{{:恶毒讽刺}}
+
+== 猴爪猿足 (Monkey's Paws) ==
+{{:猴爪猿足}}
+
+== 变形武装 (Morphic Weaponry) ==
+{{:变形武装}}
+
+== 无可阻挡 (Nothing Can Stop Me) ==
+{{:无可阻挡}}
+
+== 荒野独行 (One with the Wild) ==
+{{:荒野独行}}
+
+== 猫落 (Perfect Fall) ==
+{{:猫落}}
+
+== 直取要害 (Perfect Vulnerability) ==
+{{:直取要害}}
+
+== 用毒大师 (Poisoner) ==
+{{:用毒大师}}
+
+== 拽入阴影 (Pull into the Shadows) ==
+{{:拽入阴影}}
+
+== 种族典范 (Racial Paragon) ==
+{{:种族典范}}
+
+== 武器回返 (Returning Weapon) ==
+{{:武器回返}}
+
+== 盗贼天赋 (Rogue Talent) ==
+{{:盗贼天赋(侠客天赋)}}
+
+== 梁上君子 (Rooftop Infiltrator) ==
+{{:梁上君子}}
+
+== 击破镣铐 (Shackle Smash) ==
+{{:击破镣铐}}
+
+== 阴影视觉 (Shadow's Sight) ==
+{{:阴影视觉}}
+
+== 暗影疾行 (Shadow's Speed) ==
+{{:暗影疾行}}
+
+== 化剑为盾 (Shield of Blades) ==
+{{:化剑为盾}}
+
+== 愤怒神盾 (Shield of Fury) ==
+{{:愤怒神盾}}
+
+== 招牌箭矢 (Signature Arrows) ==
+{{:招牌箭矢}}
+
+== 招牌武器 (Signature Weapon) ==
+{{:招牌武器}}
+
+== 寂静突击 (Silent Dispatch) ==
+{{:寂静突击}}
+
+== 狙击高手 (Sniper) ==
+{{:狙击高手}}
+
+== 猎手直觉 (Stalker Sense) ==
+{{:猎手直觉}}
+
+== 钢铁士兵 (Steel Soldier) ==
+{{:钢铁士兵}}
+
+== 钢铁信念 (Steely Resolve) ==
+{{:钢铁信念}}
+
+== 直击真身 (Strike the Unseen) ==
+{{:直击真身}}
+
+== 愚蠢直拳 (Sucker Punch) ==
+{{:愚蠢直拳}}
+
+== 稳如泰山 (Sure-Footed) ==
+{{:稳如泰山}}
+
+== 突然袭击 (Surprise Strike) ==
+{{:突然袭击}}
+
+== 沼泽调和 (Swamp Concoctions) ==
+{{:沼泽调和}}
+
+== 横扫攻击 (Sweeping Strike) ==
+{{:横扫攻击}}
+
+== 手下留情 (Take 'Em Alive) ==
+{{:手下留情}}
+
+== 团队玩家 (Team Player) ==
+{{:团队玩家}}
+
+== 戳喉窒息 (Throat Jab) ==
+{{:戳喉窒息}}
+
+== 猛虎利爪 (Tiger's Claws) ==
+{{:猛虎利爪}}
+
+== 回转反击 (Turnabout) ==
+{{:回转反击}}
+
+== 扭曲恐惧 (Twisting Fear) ==
+{{:扭曲恐惧}}
+
+== 意外攻击 (Unexpected Strike) ==
+{{:意外攻击}}
+
+== 至死不屈 (Unkillable) ==
+{{:至死不屈}}
+
+== 亲密接触 (Up Close and Personal) ==
+{{:亲密接触}}
+
+== 侠客反射 (Vigilante’s Reflexes) ==
+{{:侠客反射}}
+
+== 暴打 (Vital Punishment) ==
+{{:暴打}}
+
+== 易爆箭矢 (Volatile Arrows) ==
+{{:易爆箭矢}}
+
+== 漩涡飞溅 (Vortex Splash) ==
+{{:漩涡飞溅}}
+
+== 武器精熟 (Weapon Familiarity) ==
+{{:武器精熟}}
+
+== 复仇之鞭 (Whip of Vengeance) ==
+{{:复仇之鞭}}
+
+[[分类:侠客]]
+{{职业}}

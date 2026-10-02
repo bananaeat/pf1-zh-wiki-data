@@ -1,0 +1,14 @@
+{{魔法物品
+|name=贮法刺青
+|english_name=Reservoir Tattoo
+|aon=MagicTattooDisplay.aspx?FinalName=Reservoir Tattoo
+|cat=魔法纹身
+|aura=中等变化系
+|cl=7
+|slot=无
+|price=10,000 gp
+|description=每天1次，拥有者可以以[[标准动作]]把一个持续中的单一目标法术（最高3级）转移到刺青之中。这个法术必须是拥有者对自己施放的。法术存入刺青期间，其效应被压制，法术的持续时间同样被暂停。拥有者可以以标准动作让这个法术重新对自己生效。存入贮法刺青的法术，会在拥有者下次准备法术时消失。
+|req=[[绘制魔法刺青]]
+|cost=5,000 gp
+|source=内海魔法
+}}

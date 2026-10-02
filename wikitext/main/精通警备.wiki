@@ -1,0 +1,10 @@
+{{Feat
+|name=精通警备
+|english_name=Improved Lookout
+|description=你和盟友[[背靠背]]警戒任何可能的偷袭。
+|prerequisites=[[警备]]
+|benefit=每当你邻接一个同样拥有[[警备]][[团队专长]]的盟友时，当你们任何一方首次采取行动时，你们双方都脱离[[措手不及]]状态。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

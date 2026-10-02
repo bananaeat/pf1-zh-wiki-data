@@ -1,0 +1,9 @@
+{{Trait
+|name=静思者
+|english_name=Scholar of the Great Beyond
+|type=信念
+|description=从幼时起，你的兴趣便不在身边凡俗之事——你时常感到不自在，仿佛自己生错了时空。你的哲学理念使你更易于理解伟大彼岸、或是历史长河的波涛。你的知识(历史)和知识(位面)检定获得+1背景加值，并且总能将二者之一(自行选择)视为你的[[本职技能]]。
+|source_name=信念背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

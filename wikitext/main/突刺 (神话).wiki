@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[突刺]] 的神话版本。</small></div>
+{{Feat
+|name=突刺
+|english_name=Lunge
+|categories=神话
+|description=[[突刺]]的攻击能够帮助你抵御那些被你命中的敌人。
+|prerequisites=[[突刺]]
+|benefit=每当你使用突刺专长并且以近战攻击命中1名生物时，在对抗该名生物时你的AC不会受到-2减值。当你使用突刺专长时，你能够花费1次神话之力，无论你是否命中目标，AC都不会受到-2减值，而且只要突刺专长还在生效，你所做出的[[借机攻击]]就会获得+2加值。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

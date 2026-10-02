@@ -1,0 +1,11 @@
+{{Feat
+|name=陷阱破坏者
+|english_name=Trap Wrecker
+|pfs=否
+|description=别人解除陷阱，你砸烂陷阱。
+|prerequisites=[[猛力攻击]]，[[解除装置]]1级，兽人。
+|benefit=你可以通过一次近战武器攻击而不是[[解除装置]]检定来拆除陷阱。以一个[[整轮动作]]，进行一次对抗AC为陷阱的解除装置DC的近战攻击。若你未命中，陷阱被触发。若你命中，进行伤害检定。若伤害至少为陷阱解除装置DC的一半，你成功解除该陷阱。若伤害低于陷阱解除装置DC的一半，陷阱被触发。你只能对非魔法陷阱进行如是尝试。你的攻击必须能够触及陷阱的一部分才能使用该专长。根据GM的描述，某些陷阱不适用于该专长。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

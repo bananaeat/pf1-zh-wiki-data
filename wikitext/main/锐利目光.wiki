@@ -1,0 +1,11 @@
+{{Trait
+|name=锐利目光
+|english_name=Sharp Eyes
+|type=地区
+|prerequisites=冻原
+|description=你免疫[[目眩]]状态。
+【PFS】「锐利目光」特性赋予对目眩状态的免疫，但由强光致盲或强光敏感[[种族特性]]所导致的目眩状态除外。
+|source_name=荒野源始
+|source=WO
+|source_url=https://pf1chm.pages.dev/topics/zh4c71a0e505.htm
+}}

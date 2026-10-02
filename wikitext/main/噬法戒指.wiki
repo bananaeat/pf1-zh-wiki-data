@@ -1,0 +1,12 @@
+{{魔法物品
+|name=噬法戒指
+|english_name=Ring of Spell Devouring
+|aon=MagicCursedDisplay.aspx?ItemName=Ring of Spell Devouring
+|cat=诅咒物品
+|aura=强烈防护系
+|cl=13
+|slot=戒指
+|description=这枚精致的戒指看起来像一枚储法戒指或法术反转戒指，但它非但不会辅助施法或反制，反而会妨碍这些行为。穿戴者每次施展奥术法术时，都有25%的法术失败率。此外，穿戴者在试图反制法术时，用于识别法术的[[法术辨识]]检定承受-4减值。只有[[移除诅咒]]法术或类似效果才能取下这枚戒指。
+|req=[[储法戒指]]（任意）或[[法术反转戒指]]
+|source=极限宝具
+}}

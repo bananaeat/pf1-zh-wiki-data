@@ -1,0 +1,13 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[精通导能 (神话)]]。</small></div>
+{{Feat
+|name=精通导能
+|english_name=Improved Channel
+|aliases=精通引导
+|categories=战斗
+|description=你引导的能量难以被抵抗。
+|prerequisites=【引导能量】职业特性。
+|benefit=你[[引导能量]]的豁免DC+2。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

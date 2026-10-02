@@ -1,0 +1,13 @@
+{{危害
+|name=伪装陷坑陷阱
+|english_name=Camouflaged Pit Trap
+|kind=陷阱
+|trap_type=机械
+|cr=3
+|perception=DC 25
+|disable=DC 20
+|trigger=位置型
+|reset=手动
+|effect=30尺深坑（3d6坠落伤害）；反射 DC 20 回避；复数目标（10尺见方区域全体）
+|source=核心规则书
+}}

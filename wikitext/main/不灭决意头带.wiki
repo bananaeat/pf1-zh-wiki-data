@@ -1,0 +1,17 @@
+{{魔法物品
+|name=不灭决意头带
+|english_name=Headband of Deathless Devotion
+|aon=MagicWondrousDisplay.aspx?FinalName=Headband of Deathless Devotion
+|cat=奇物
+|aura=微弱惑控系
+|cl=1
+|slot=头饰
+|price=6,400 gp
+|weight=1磅
+|description=这条白色头带上常绘有或绣有书法或某种风格化的图案，例如旭日，能帮助穿戴者集中求生与成功的决意和绝对的决心。穿戴者在[[伤害和死亡#稳定和恢复|稳定检定]]上，以及在对抗带有反复豁免的持续性效果（例如疾病、毒素，或[[支配人类]]、[[人类定身术]]之类的胁迫效果）的豁免检定上，获得+2士气加值。
+
+如果穿戴者是[[武士]]，她的决意能力视为比实际高两个职业等级。
+|req=[[制造奇物]]、[[英雄气概]]、[[稳定伤势]]
+|cost=3,200 gp
+|source=极限宝具
+}}

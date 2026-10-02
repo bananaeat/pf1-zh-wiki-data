@@ -1,0 +1,10 @@
+{{Feat
+|name=精类遗孤
+|english_name=Fey Foundling
+|description=当你在旷野中被发现时，还是一个孩子，身上带有与第一世界有关的印记。
+|prerequisites=必须在1级选取
+|benefit=你的生命中已经融入了与第一世界和精类的怪异联系，无论何时你受到魔法治疗时，每骰会额外治疗2点伤害。在对抗死亡效果的所有豁免中均获得+2加值。不幸的是，当你受到{{材料|寒铁}}武器造成的伤害时，额外增加1点（尽管你仍旧可以使用寒铁武器而不会感到明显的不适）。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

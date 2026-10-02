@@ -1,0 +1,22 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Kingmaker Player's Guide
+|authors=James Jacobs、Mark Moreland、F. Wesley Schneider
+|pages=16
+}}
+
+{{书页/简介|head=|1=
+《拥王者玩家手册》旨在为创建来自布雷斡（Brevoy）国或周边地区、希望在被窃之地的变革中扮演一角的角色提供背景。在这场战役中，你的角色将探索并开拓广袤的荒野，建设城市与国家，甚至与敌对的王国交战。这些不同寻常的战役元素，许多都由《拥王者》冒险之路其他各册中的额外规则支持——GM 可以在每一册冒险中，按需向你提供探索、建设、征服与作战所需的信息。作为一项特别预览，其中一些元素被安排在本手册末尾，让你拥有记录在被窃之地的冒险与成就所需的全部空白表格和六角格纸。
+}}
+
+'''拥王者玩家手册'''（''Kingmaker Player's Guide''）是一份免费 PDF，由 James Jacobs、Mark Moreland 和 F. Wesley Schneider 撰写，于 2010 年 3 月随[[冒险之路]]「拥王者」系列的推出一同发布。除了提供标准的角色建议和战役背景特性外，这本玩家手册还给出了玩家探索被窃之地（Stolen Lands）、建立新河域王国所需的全部拥王者专属玩家讲义。
+
+{{书页尾
+|pfw=Kingmaker Player's Guide (2010)
+|releases=PDF¦PZO9000-6¦¦
+}}
+
+<small>CHM 汉化里没有这本书的译名，书名是本站定的。</small>
+
+[[分类:书目]]

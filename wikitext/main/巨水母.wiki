@@ -1,0 +1,48 @@
+{{速查导航}}
+{{怪物
+|name=巨水母
+|english_name=Jellyfish, Giant
+|cr=7
+|xp=3,200
+|alignment=绝对中立
+|size=大型
+|type=虫类
+|subtypes=水栖
+|init=+2
+|senses=黑暗视觉 60 尺；察觉 +0
+|description=这庞大的琥珀色水母的伞盖几乎和一辆马车一样大。一簇阴险的触手在它身后缠绕、翻滚。
+|ac=11，接触 11，措手不及 9（+2 敏捷，–1 体型）
+|hp=94（9d8 +54）
+|fort=+12
+|ref=+5
+|will=+3
+|defensive=不定形体
+|dr=10/穿刺或挥砍
+|immune=影响心灵效果
+|speed=游泳 20 尺
+|melee=4 触手 +9（1d6 +4 外加 毒素）
+|space=10 尺
+|reach=15 尺
+|str=18
+|dex=15
+|con=22
+|int=–
+|wis=11
+|cha=1
+|bab=+6
+|cmb=+11
+|cmd=23（无法被摔绊）
+|skills=[[游泳]] +12
+|sq=[[通用怪物规则#压缩|压缩]]
+|environment=任意海洋
+|organization=单独，一群（2–5），或大群（6–12）
+|treasure=无
+|special_abilities={{怪物能力|毒素|Ex|触手—伤口感染；豁免 强韧 DC 17；频率 每轮 1 次，持续 6 轮；效果 1d4 体质；痊愈 连续两次通过豁免。此豁免 DC 基于体质。}}
+|source=怪物图鉴2
+|lore=
+和它们较小的表亲不同，巨水母是具有攻击性的捕食者，不断寻找着猎物。巨水母能够穿过狭窄的裂缝。在被水淹没或沉没的船舱里，遇上潜伏其中的巨水母是件可怕的事。这些虫类也存在其他变种，如下表所述——这些变种通常拥有不同种类的毒素或其他能力，例如半透明或紧勒。
+
+<div class="monster-table-wrap"><table class="wikitable"><tr><th>水母种类</th><th>CR</th><th>体型</th><th>HD</th></tr><tr><td>[[死神之颅水母]]</td><td>1</td><td>小型</td><td>2</td></tr><tr><td>猩红水母</td><td>4</td><td>中型</td><td>5</td></tr><tr><td>[[蓝宝石水母]]</td><td>11</td><td>超大型</td><td>12</td></tr><tr><td>吸血水母</td><td>14</td><td>巨型</td><td>16</td></tr><tr><td>鲸水母</td><td>17</td><td>超巨型</td><td>20</td></tr></table></div>
+}}
+
+本页译自《[[怪物图鉴2]]》的怪物图鉴 CHM。

@@ -1,0 +1,11 @@
+{{Feat
+|name=库拉贡敦姿态
+|english_name=Kraggodan's Stance
+|categories=战斗
+|description=你已经学会了库拉贡敦守卫者的一个秘密并且可以把你的盔甲和盾牌化为一道难以逾越的障碍。
+|prerequisites=[[体质]] 13，擅长重甲和盾牌
+|benefit=当你穿着重甲和使用重盾或者[[塔盾]]时，你可以用一个[[移动动作]]让你的盔甲和盾牌提供的AC加值各额外提升1点，直到你移出你现在占据的空间。你必须与坚实地面相接触才能得到这种好处。你不能用这个方法让你的盔甲或盾牌获得的额外AC加值超过1点。
+|source=EMH
+|source_name=元素大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_1112.html
+}}

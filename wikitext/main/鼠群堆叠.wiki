@@ -1,0 +1,15 @@
+{{Feat
+|name=鼠群堆叠
+|english_name=Rat Stack
+|categories=战斗;团队
+|description=你在紧密的空间中可以有效地调整身姿。
+|prerequisites=[[敏捷]] 13，群居种族特性
+|benefit=你可以和至多2个拥有这个专长的其他生物共同占据一个方格。如果这些参与者也都拥有[[坑道鼠]]专长，那么最多4个生物可以占据一个方格。
+|source=BotB
+|source_name=野兽血脉
+|source_url=https://pf1chm.pages.dev/topics/page_699.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[鼠群撕裂]]（1 个条目）

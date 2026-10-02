@@ -1,0 +1,20 @@
+{{武器
+|name=鸭掌手枪
+|english_name=Paddle-foot pistol
+|category=火器
+|prof=异种
+|wcat=单手
+|price=2,500 gp
+|weight=5磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×3
+|range=20尺
+|type=钝击和穿刺
+|special=霰弹
+|misfire=1-2（5尺）
+|capacity=4
+|groups=火器
+|description=这支早期火器有四个枪管，每个枪管都可以通过一个可调节的燧发机单独击发。鸭掌手枪进行霰弹射击时，会向20尺锥形范围开火；射击弹头时，射程增量为20尺。此外，鸭掌手枪的最大射程为3个射程增量。鸭掌手枪的每个枪管可以装填1份黑火药，外加1包霰弹或1颗弹头，也可以装填1发炼金定装弹。（译注：CHM 汉化译作「步兵手枪」；paddle-foot 指鸭掌，这种手枪的几根枪管像鸭掌一样排开。）
+|source=废土子民
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=毁木者之灾
+|english_name=Treerazor's Bane
+|type=地区
+|prerequisites=奇奥尼
+|description=你参与过多次与毁木者及其走狗的战斗，你已经学会如何最快的干掉各种被它控制的生物。你对恶魔、邪恶精类生物以及被邪恶腐化的动植物造成的武器伤害获得+2的背景加值。
+|source_name=格拉里昂的精灵
+|source_url=https://pf1chm.pages.dev/topics/zhd63cf5e76e.htm
+}}

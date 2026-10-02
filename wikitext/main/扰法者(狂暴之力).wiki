@@ -1,0 +1,9 @@
+{{消歧义|扰法者 (消歧义)}}
+{{狂暴之力
+|name=扰法者
+|english_name=Disruptive
+|categories=杂项
+|prerequisites=[[野蛮人]]8级，[[迷信(狂暴之力)|迷信]]
+|benefit=狂暴时野蛮人获得[[扰法者(专长)|扰法者]]作为[[奖励专长]]。
+|source_name=进阶玩家指南
+}}

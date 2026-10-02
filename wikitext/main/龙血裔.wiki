@@ -1,0 +1,9 @@
+{{Trait
+|name=龙血裔
+|english_name=Blood of Dragons
+|type=种族
+|description=多年以前，你的先祖曾与龙族混血。选择以下一项获益：察觉检定获得+1背景加值；获得昏暗视觉；对抗睡眠和[[麻痹]]的豁免获得+2背景加值。
+|source_name=种族背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=黄蜂低语者
+|english_name=Wasp Whisperer
+|type=宗教
+|prerequisites=[[精灵]]，信仰[[卡莉斯翠]]
+|description=你与卡莉斯翠教会的联系使你的肉体能抵御毒素并祝福你使你能影响黄蜂和一些相似的昆虫。在对抗毒素时你的强韧豁免获得+1背景加值。你可以使用交涉(德鲁伊和游侠可以使用野性认同)来将敌视或者不友好的昆虫的态度改善为冷漠。
+|source_name=格拉里昂的精灵
+|source_url=https://pf1chm.pages.dev/topics/zhd63cf5e76e.htm
+}}

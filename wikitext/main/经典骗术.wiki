@@ -1,0 +1,14 @@
+{{Spell
+|name=经典骗术
+|english_name=Remarkable legerdemain
+|school=变化系
+|levels=吟游诗人 2;奥能师 2;术士 2;歌者 2;法师 2
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|target=自己
+|duration=1分钟/等级（可解消）
+|sr=否
+|description=当此法术生效时，你的身体与衣服以一种巧妙的方式颤动与扭曲，让你以不可思议的技巧隐藏物品。在进行[[巧手]]检定以藏匿物体或使其消失时，你可以把任何能单手握住的物体视为硬币大小的物体；但你身上同一时间只能藏匿每施法者等级1件这样的物品。此效果不会改变该物体的真实大小。
+|source=黑市指南
+}}

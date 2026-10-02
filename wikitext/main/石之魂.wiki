@@ -1,0 +1,11 @@
+{{Feat
+|name=石之魂
+|english_name=Stone Soul
+|pfs=否
+|description=你与大地融为一体，使皮肤得像石头一样坚硬。
+|prerequisites=石巨人
+|benefit=你的天生护甲加值增加1点，一天一次，你可以以类法术能力释放以自身为对象的[[石肤术]]，施法者等级等同于1/2HD。
+|special=你能选择3次此专长。每次额外选择，使你的每天石肤术释放次数+1。
+|source_name=冒险之路91：血征山之战
+|source_url=https://pf1chm.pages.dev/topics/91_Battle_of_Bloodmarch_Hills.htm
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=完美集中
+|english_name=Perfect Center
+|categories=战斗;冥想
+|description=你可以忽视几乎所有干扰
+|prerequisites=感知21，[[战斗冥想]]，[[冥想大师]]，角色等级17
+|benefit=你可以在任何技能检定或者专注检定中取10，即使通常这个检定在紧张环境中不允许取10。
+|source=F&P
+|source_name=信仰与哲学
+|source_url=https://pf1chm.pages.dev/topics/page_673.html
+}}

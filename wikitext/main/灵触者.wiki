@@ -1,0 +1,14 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Return of the Runelords Players Guide pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=灵触者
+|english_name=Spirit Touched
+|type=战役
+|pfs=否
+|description=小时候，你受到过与死亡或不死相关的巨大情感创伤的影响，这种影响在你余生都留下了印记。你可能曾被鬼魂附身，在鬼屋中做过怪梦，或是遭受过来自不死生物的疾患。你甚至可能有过濒死体验，或者真的死过一次又被复活。请与你的GM一同确定你是如何成为灵触者的；她可能会提供建议，帮你把这段经历与符文领主回归冒险之路的主题更紧密地结合起来。
+
+你对抗来自不死生物的超自然攻击、法术或类法术能力的所有豁免获得+2背景加值。
+
+每次冒险一次，你可以在一次为稳定伤势而进行的体质检定，或一次为移除负向等级而进行的豁免中自动成功。
+|source_name=Return of the Runelords Players Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Spirit%20Touched
+}}

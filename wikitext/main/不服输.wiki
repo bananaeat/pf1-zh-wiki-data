@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Bastards of Golarion pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=不服输
+|english_name=Chip on the Shoulder
+|type=社会
+|description=有人推你，你就推回去。每当一个生物对你的[[威吓]]检定失败时，你在下一次对该生物进行的威吓检定上获得+2背景加值。威吓成为你的本职技能。
+|source_name=格拉利昂的混种
+|source=BoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Chip%20on%20the%20Shoulder
+}}

@@ -1,0 +1,12 @@
+{{危害
+|name=失明症
+|english_name=Blinding Sickness
+|kind=疾病
+|type=摄入
+|save=强韧 DC 16
+|onset=1d3天
+|frequency=1次/天
+|effect=1d4点力量伤害，若造成的力量伤害超过2点，目标须再进行一次强韧豁免，否则永久[[目盲]]
+|cure=连续2次豁免成功
+|source=核心规则书
+}}

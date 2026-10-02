@@ -1,0 +1,15 @@
+{{Spell
+|name=背叛之刺
+|english_name=Betraying sting
+|school=塑能系
+|levels=先知 6;女巫 6;异能者 6;战斗祭司 6;牧师 6;秘学士 6;萨满 6
+|action=标准动作
+|components=语言
+|range=长距（400尺+40尺/等级）
+|target=一名生物
+|duration=立即
+|save=意志，通过则部分生效
+|sr=是
+|description=你爆发出神圣力量打击那些错信你的人。这股力量呈黄黑相间的能量束，发出如同千只愤怒群蜂般的嗡鸣声。该法术只能影响那些对你的态度为冷漠、友善或乐于助人的生物。你每拥有2个施法者等级该法术就会造成1d8点伤害。
+|source=内海神殿
+}}

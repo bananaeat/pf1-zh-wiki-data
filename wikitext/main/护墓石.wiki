@@ -1,0 +1,15 @@
+{{魔法物品
+|name=护墓石
+|english_name=Stone of Tomb Warding
+|aon=MagicWondrousDisplay.aspx?FinalName=Stone of Tomb Warding
+|cat=奇物
+|aura=微弱死灵系
+|cl=3
+|slot=无
+|price=5,000 gp
+|weight=1磅
+|description=悬挂在门或其他出入口上方时，这块光滑的圣甲虫形石头可以阻止不死生物进入。智能不死生物试图穿过受保护的出入口或触碰该石头时，必须通过一次DC 13的意志豁免。若失败，该生物在24小时之后才能再次尝试；若成功，该生物在24小时内免疫该石头的效果。无智能的不死生物对该效果没有豁免。
+|req=[[制造奇物]]、[[命令死灵(法术)|命令死灵]]
+|cost=2,500 gp
+|source=内海神殿
+}}

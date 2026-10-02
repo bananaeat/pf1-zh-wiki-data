@@ -1,0 +1,10 @@
+{{Feat
+|name=空气之翼
+|english_name=Wings of Air
+|description=风将你托起，把你带到你想去的地方。
+|prerequisites=[[轻灵步]]，角色等级9，风元素裔。
+|benefit=你在对抗带有〔气〕与〔电〕描述符的效果，以及造成闪电伤害的效果时豁免检定再+2（达到+4）。此外，你获得等同于基本速度的超自然飞行速度（机动性良好）。你只能在穿着轻甲或无甲时才能使用此能力。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

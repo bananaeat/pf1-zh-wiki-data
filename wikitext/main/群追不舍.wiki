@@ -1,0 +1,15 @@
+{{Spell
+|name=群追不舍
+|english_name=Tireless pursuers
+|school=变化系
+|levels=游侠 3;猎人 3;审判者 4
+|action=标准动作
+|components=语言;姿势;材料（摔成碎片的硬饼干）
+|range=接触
+|target=你加上每3个施法者等级1名接触到的生物
+|duration=1小时/等级 (可解消)
+|save=强韧，通过则无效（无害）
+|sr=是（无害）
+|description=除上述差异外，该法术如同[[追人不倦]]一般。
+|source=进阶玩家指南
+}}

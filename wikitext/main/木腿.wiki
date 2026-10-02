@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Skull & Shackles Player's Guide pg. 6），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=木腿
+|english_name=Peg Leg
+|type=战役
+|pfs=否
+|description=你还是个孩子时，一条腿的膝盖以下被鲨鱼咬掉，换上了一条木质假腿（《探索者玩家伴侣：内海海盗》20页）。不过你早已习惯了你的假肢，不会受到装着木质假腿的任何通常减值。你也不得不学会忍受伤痛，你的强韧豁免获得+1背景加值。自从那次意外之后，你就痛恨鲨鱼，你对鲨鱼和其他具有水生亚种的动物进行的伤害检定也获得+1背景加值。
+
+喝了几杯之后，你的平衡总是有点不稳，昨晚在亡命港的“悍女”酒馆也不例外。这一定就是为什么你刚想站起来就摔倒在地。接下来发生的事情记不太清了，但你相当确定自己被拖出了酒馆，拖上了码头边的一艘船。至少他们没把你扔去喂鲨鱼……
+|source_name=Skull & Shackles Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Peg%20Leg
+}}

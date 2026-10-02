@@ -1,0 +1,47 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #33: The Varnhold Vanishing
+|authors=Greg A. Vaughan
+|pages=96
+}}
+
+{{书页/简介|head=不留痕迹的消失|1=
+被窃之地吞噬过许多流浪者——它崎岖荒野中的凶险与隐秘的谜团，连最谨慎的旅人也难逃猎杀。瓦恩霍德（Varnhold）殖民地建立在最野蛮的边疆之一，却顶住了这片严酷之地的重重危险。至少，在这个新生社区的所有居民彻底消失之前是如此。如今，PC 们要去查明他们的东邻到底遭遇了什么——这个秘密浸透着世代相传的仇恨，以及一个早已化为尘土的帝国的谜团。他们能否在同样的灾祸降临自己的领地之前，揭开这场骇人失踪背后的可怕秘密？
+
+本册《冒险之路》内容包括：
+
+* 《瓦恩霍德的消失》，一部面向 7 级角色的开拓者角色扮演游戏冒险，作者 Greg A. Vaughan。
+* 艾欧巴瑞亚——严寒、野蛮、帝国倾覆之地——的地志，作者 Steven Schend。
+* 六处全新的冒险与谜团之地，用以扩充你的拥王者战役，作者 Ed Greenwood。
+* 新一篇「探索者日志」，探索者 Ollix Kaddar 和 Phargas 领教了侠义的代价，作者 J.C. Hay。
+* 五种新怪物，作者 Ed Greenwood、Colin McComb、F. Wesley Schneider、Neil Spicer。
+}}
+
+'''冒险之路33：瓦恩霍德的消失'''（''Pathfinder #33: The Varnhold Vanishing''）是 Greg A. Vaughan 撰写的一部冒险，配套文章出自 Ed Greenwood、Colin McComb、Steven Schend、F. Wesley Schneider 和 Neil Spicer，小说出自 J.C. Hay，于 2010 年 6 月 2 日发售。它是[[冒险之路]]「拥王者」系列六部冒险中的第三部。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+瓦恩霍德的消失 @ 6
+艾欧巴瑞亚地志 @ 54
+深入被窃之地 @ 64
+探索者日志：浪子（3／6） @ 72
+怪物图鉴 @ 78
+- [[布洛德薇德]]
+- [[爪蝠]]
+- [[独眼巨兽]]
+- [[佩鲁达]]
+- [[斯狄吉拉]]
+预设角色 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=The Varnhold Vanishing
+|releases=PDF¦PZO9033E¦2010-06¦；Softcover¦PZO9033¦2010-06¦
+}}
+
+<small>CHM 汉化里没有这本书的译名，书名是本站定的。</small>
+
+[[分类:书目]]

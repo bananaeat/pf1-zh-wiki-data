@@ -1,0 +1,10 @@
+{{Feat
+|name=灵机又动
+|english_name=Improved Improvisation
+|description=你已经习惯突然想出好点子了。
+|prerequisites=智力13，[[速学者]]，[[灵机一动]]，人类。
+|benefit=你使用不擅长的武器、盔甲以及盾牌时罚值减半。此外你在任何没有投入技能点的技能检定中获得的加值提升至+4。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

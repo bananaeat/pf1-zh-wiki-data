@@ -1,0 +1,15 @@
+{{魔法物品
+|name=雪花白礼服
+|english_name=Alabaster Trapping
+|aon=MagicWondrousDisplay.aspx?FinalName=Alabaster Trapping
+|cat=奇物
+|aura=微弱塑能系
+|cl=5
+|slot=躯体
+|price=3,500 gp
+|weight=1磅
+|description=这件白色长袍按卡利斯拉德的传统样式缝制，缀有几处金色饰边。长袍持续受一道[[魔法伎俩]]法术的作用，能清除所有污垢和污渍，并防止起皱。每天一次，以一个[[直觉动作]]，穿戴者可以击退一名与她发生身体接触的生物（例如以她为目标施展接触法术或对她使用战技的生物）。该效果的目标受到5d4点力场伤害，并被向穿戴者指定的方向推开10尺。
+|req=[[制造奇物]]、[[充能之拳]]、[[魔法伎俩]]
+|cost=1,750 gp
+|source=商人货单
+}}

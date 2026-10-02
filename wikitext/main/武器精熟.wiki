@@ -1,0 +1,12 @@
+<noinclude>{{侠客导航}}
+'''武器精熟'''（Weapon Familiarity, Ex）是[[侠客]]的[[侠客天赋]]。
+
+</noinclude>{{Source|门徒教义|Disciple's Doctrine|inline}}
+
+效果：侠客在获得此天赋时可以选择2种简易或军用武器，或者1种特殊武器。他会获得所选武器的擅长。在8级时，他还可以获得所选武器的[[武器专攻]]作为[[奖励专长]]。
+
+侠客选择复仇骑士之道才能选择本天赋。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh62263cd083.htm 原文]）。全部侠客天赋见 [[:分类:侠客天赋|分类:侠客天赋]]。
+
+[[分类:侠客天赋]]</noinclude>

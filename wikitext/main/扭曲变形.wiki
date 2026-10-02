@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（People of the Stars pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=扭曲变形
+|english_name=Twisted Transformations
+|type=宗教
+|pfs=否
+|prerequisites=任意旧日支配者
+|description=每当你受到变化系变形子学派的法术影响时，你的新形态总是以某种方式显得恐怖、怪诞，或是带有旧日支配者腐化的印记。处于变形状态时，你的[[威吓]]检定获得+2背景加值，并且你施展的具有恐惧描述符的法术DC增加1。但处于变形状态时，你的[[交涉]]检定也承受-2罚值。
+|source_name=繁星子民
+|source=PotS
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Twisted%20Transformations
+}}

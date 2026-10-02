@@ -1,0 +1,17 @@
+{{魔法物品
+|name=壮兵阵笠
+|english_name=Jingasa of the Fortunate Soldier
+|aon=MagicWondrousDisplay.aspx?FinalName=Jingasa of the Fortunate Soldier
+|cat=奇物
+|aura=强烈预言系
+|cl=15
+|slot=头部
+|price=5,000 gp
+|weight=3磅
+|description=这顶圆锥形的铁制阵笠（又称战帽）使穿戴者的AC获得+1偏斜加值。当穿戴者被重击或偷袭命中时，可以花费一个[[直觉动作]]使这次重击或偷袭失效（类似护命防具特殊能力，但无需掷骰），伤害改为按正常方式掷骰。
+
+这项能力只能生效一次，但阵笠在该能力耗尽后仍继续提供偏斜加值。
+|req=[[制造奇物]]、[[神恩]]、[[片刻预知]]
+|cost=2,500 gp
+|source=冒险之路52：精魂之森、极限宝具
+}}

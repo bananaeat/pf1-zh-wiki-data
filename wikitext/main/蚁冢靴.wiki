@@ -1,0 +1,15 @@
+{{魔法物品
+|name=蚁冢靴
+|english_name=Anthill Boots
+|aon=MagicWondrousDisplay.aspx?FinalName=Anthill Boots
+|cat=奇物
+|aura=中等咒法系
+|cl=13
+|slot=脚部
+|price=12,500 gp
+|weight=2磅
+|description=这双结实的厚底靴上分布着数个小洞，不时有蚂蚁爬进爬出。穿戴者在对抗集群的扰乱心神能力的强韧豁免上获得+4表现加值。此外，每天一次，穿戴者可以以[[标准动作]]唤来一个行军蚁集群（见《探索者RPG[[怪物图鉴1]]》第16页），此功能如同法术喷吐虫群，只不过集群是从靴子里爬出来，而不是被吐出来。该集群会持续13轮，然后消散。
+|req=[[制造奇物]]、[[喷吐虫群]]
+|cost=6,250 gp
+|source=废土子民
+}}

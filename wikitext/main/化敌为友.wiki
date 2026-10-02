@@ -1,0 +1,16 @@
+{{Spell
+|name=化敌为友
+|english_name=Foe to Friend
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=催眠师 5;吟游诗人 5;歌者 5;异能者 7
+|action=直觉动作
+|components=语言;姿势
+|range=中距
+|target=一名活物
+|duration=1轮
+|save=意志，通过则无效
+|sr=是
+|description=你可以在敌人即将对盟友进行攻击时施放该法术。该生物会对你所选择的有效目标进行攻击，或者使该次攻击无效。此外1轮之内，在判定[[夹击]]时目标被视为盟友。
+|source=进阶玩家指南
+}}

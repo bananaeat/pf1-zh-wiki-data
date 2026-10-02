@@ -1,0 +1,15 @@
+{{魔法物品
+|name=法术大师护符
+|english_name=Amulet of Spell Mastery
+|aon=MagicWondrousDisplay.aspx?FinalName=Amulet of Spell Mastery
+|cat=奇物
+|aura=强烈变化系
+|cl=11
+|slot=颈部
+|price=22,000 gp
+|weight=1磅
+|description=这枚白金挂坠盒只有被用作法师的联结物品时才有效力。它让法师每日额外准备总计6个环级的法术。
+|req=[[制造奇物]]、[[强记术]]
+|cost=11,000 gp
+|source=极限宝具
+}}

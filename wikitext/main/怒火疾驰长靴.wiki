@@ -1,0 +1,15 @@
+{{魔法物品
+|name=怒火疾驰长靴
+|english_name=Boots of Swift Fury
+|aon=MagicWondrousDisplay.aspx?FinalName=Boots of Swift Fury
+|cat=奇物
+|aura=中等变化系
+|cl=11
+|slot=脚部
+|price=7,500 gp
+|weight=2磅
+|description=这双沉重的带毛皮靴高及穿戴者的小腿，用粗糙的皮带固定，皮带由厚重的铁扣扣紧。它们使穿戴者的基础陆地速度提高10尺（视为增强加值）。当穿戴者处于狂暴时，这双靴子还使他在对抗因移动穿过或离开受威胁区域、或因施法而引发的[[借机攻击]]时，获得+4偏斜加值的AC。
+|req=[[制造奇物]]、[[脚底抹油]]、[[狂暴术]]
+|cost=3,750 gp
+|source=进阶职业指南
+}}

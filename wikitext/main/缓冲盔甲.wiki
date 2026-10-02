@@ -1,0 +1,11 @@
+{{Feat
+|name=缓冲盔甲
+|english_name=Cushioning Armor
+|categories=盔甲掌握;战斗
+|description=你调整你的盔甲，让它为你的坠落提供[[缓冲]]。
+|prerequisites=盔甲训练职业特性，擅长中甲或者重甲
+|benefit=当你受到坠落伤害时，你可以将伤害的一半引导至你的盔甲。这个伤害会忽略盔甲的硬度。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_1089.html
+}}

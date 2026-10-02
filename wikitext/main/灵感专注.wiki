@@ -1,0 +1,10 @@
+{{Feat
+|name=灵感专注
+|english_name=Focused Inspiration
+|description=在使用一些技能时，你的灵感更为充沛。
+|prerequisites=灵感职业能力，调查员敏锐回想职业能力
+|benefit=选择两个你已受训，或者可以在未受训情况下仍可以使用的技能。你必须能对这些技能使用灵感。你在使用灵感能力增强这些技能检定时，灵感骰从d6上升到d8；如果你的灵感骰本为d8，则上升到d10。如果你拥有灵感满溢职业能力，你骰出的此类灵感骰数量为通常的两倍（2d8或2d10）。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

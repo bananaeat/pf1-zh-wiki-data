@@ -1,0 +1,8733 @@
+[
+ {
+  "title": "GM状态卡",
+  "url": "https://pf1.huijiwiki.com/wiki/GM状态卡",
+  "template": "书页",
+  "ai": false,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "GameMastery Condition Cards"
+  },
+  "text": {
+   "en": "GameMastery Condition Cards"
+  }
+ },
+ {
+  "title": "NPC志",
+  "url": "https://pf1.huijiwiki.com/wiki/NPC志",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "NPC Codex",
+   "authors": "Jason Bulmahn",
+   "pages": "320"
+  },
+  "text": {
+   "en": "NPC Codex",
+   "authors": "Jason Bulmahn",
+   "pages": "320"
+  }
+ },
+ {
+  "title": "NPC指南",
+  "url": "https://pf1.huijiwiki.com/wiki/NPC指南",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "NPC Guide",
+   "authors": "Hal Maclean、Jeff Quick、John Wick",
+   "pages": "64"
+  },
+  "text": {
+   "en": "NPC Guide",
+   "authors": "Hal Maclean、Jeff Quick、John Wick",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "Paizo 博客：极限戏法",
+  "url": "https://pf1.huijiwiki.com/wiki/Paizo_博客：极限戏法",
+  "template": "书页",
+  "ai": false,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Paizo Blog - Ultimate Cantrips"
+  },
+  "text": {
+   "en": "Paizo Blog - Ultimate Cantrips"
+  }
+ },
+ {
+  "title": "七罪之剑",
+  "url": "https://pf1.huijiwiki.com/wiki/七罪之剑",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Seven Swords of Sin",
+   "authors": "James L. Sutter",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Seven Swords of Sin",
+   "authors": "James L. Sutter",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "不死生物横行",
+  "url": "https://pf1.huijiwiki.com/wiki/不死生物横行",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Undead Unleashed",
+   "authors": "Adam Daigle、Dave Gross、Mark Moreland、David N. Ross、Amber Stewart、Jerome Virnich",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Undead Unleashed",
+   "authors": "Adam Daigle、Dave Gross、Mark Moreland、David N. Ross、Amber Stewart、Jerome Virnich",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "与法老同葬",
+  "url": "https://pf1.huijiwiki.com/wiki/与法老同葬",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Entombed with the Pharaohs",
+   "authors": "Michael Kortes",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Entombed with the Pharaohs",
+   "authors": "Michael Kortes",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "世界之伤",
+  "url": "https://pf1.huijiwiki.com/wiki/世界之伤",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "The Worldwound",
+   "authors": "James Jacobs、Jonathan H. Keith、Jason Nelson、Amber Stewart、Tanith Tyrr",
+   "pages": "64"
+  },
+  "text": {
+   "en": "The Worldwound",
+   "authors": "James Jacobs、Jonathan H. Keith、Jason Nelson、Amber Stewart、Tanith Tyrr",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "丛林之心(战役设定)",
+  "url": "https://pf1.huijiwiki.com/wiki/丛林之心(战役设定)",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Heart of the Jungle",
+   "authors": "Amber Stewart、Tim Hitchcock、Amber E. Scott",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Heart of the Jungle",
+   "authors": "Amber Stewart、Tim Hitchcock、Amber E. Scott",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "严酷试炼",
+  "url": "https://pf1.huijiwiki.com/wiki/严酷试炼",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "The Gauntlet",
+   "authors": "Jason Bulmahn、Erik Mona、Jessica Price、Stephen Radney-MacFarland",
+   "pages": "16"
+  },
+  "text": {
+   "en": "The Gauntlet",
+   "authors": "Jason Bulmahn、Erik Mona、Jessica Price、Stephen Radney-MacFarland",
+   "pages": "16"
+  }
+ },
+ {
+  "title": "二度黑暗玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/二度黑暗玩家手册",
+  "template": "书页",
+  "ai": false,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Second Darkness Player's Guide"
+  },
+  "text": {
+   "en": "Second Darkness Player's Guide"
+  }
+ },
+ {
+  "title": "亡灵杀手手册",
+  "url": "https://pf1.huijiwiki.com/wiki/亡灵杀手手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Undead Slayer's Handbook",
+   "authors": "Dennis Baker、Jay Loomis、Alex Putnam、Adam Roy、Tork Shaw、Larry Wilhelm",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Undead Slayer's Handbook",
+   "authors": "Dennis Baker、Jay Loomis、Alex Putnam、Adam Roy、Tork Shaw、Larry Wilhelm",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "从海岸到大海",
+  "url": "https://pf1.huijiwiki.com/wiki/从海岸到大海",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "From Shore to Sea",
+   "authors": "Brandon Hodge",
+   "pages": "32"
+  },
+  "text": {
+   "en": "From Shore to Sea",
+   "authors": "Brandon Hodge",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "任务与战役",
+  "url": "https://pf1.huijiwiki.com/wiki/任务与战役",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Quests & Campaigns",
+   "authors": "Amanda Hamon、David N. Ross",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Quests & Campaigns",
+   "authors": "Amanda Hamon、David N. Ross",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "伊利森，永冬之地",
+  "url": "https://pf1.huijiwiki.com/wiki/伊利森，永冬之地",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Irrisen - Land of Eternal Winter",
+   "authors": "Mike Shel",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Irrisen - Land of Eternal Winter",
+   "authors": "Mike Shel",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "伟大彼岸：多元宇宙指南",
+  "url": "https://pf1.huijiwiki.com/wiki/伟大彼岸：多元宇宙指南",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "The Great Beyond - A Guide to the Multiverse",
+   "authors": "Amber Stewart",
+   "pages": "64"
+  },
+  "text": {
+   "en": "The Great Beyond - A Guide to the Multiverse",
+   "authors": "Amber Stewart",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "伟迹城，丰碑之城",
+  "url": "https://pf1.huijiwiki.com/wiki/伟迹城，丰碑之城",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Magnimar, City of Monuments",
+   "authors": "Adam Daigle、James Jacobs",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Magnimar, City of Monuments",
+   "authors": "Adam Daigle、James Jacobs",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "传奇编年史",
+  "url": "https://pf1.huijiwiki.com/wiki/传奇编年史",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Chronicle of Legends",
+   "authors": "Calder CaDavid、Vanessa Hoskins、Mike Kimmel、Isabelle Thorne、Matt Morris、Mikhail Rekun、Michael Sayre",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Chronicle of Legends",
+   "authors": "Calder CaDavid、Vanessa Hoskins、Mike Kimmel、Isabelle Thorne、Matt Morris、Mikhail Rekun、Michael Sayre",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "位面之力",
+  "url": "https://pf1.huijiwiki.com/wiki/位面之力",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Planes of Power",
+   "authors": "John Compton、Paris Crenshaw、Eleanor Ferron、Thurston Hillman、Jessica Price",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Planes of Power",
+   "authors": "John Compton、Paris Crenshaw、Eleanor Ferron、Thurston Hillman、Jessica Price",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "位面冒险",
+  "url": "https://pf1.huijiwiki.com/wiki/位面冒险",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Planar Adventures",
+   "authors": "Robert Brookes、John Compton、Paris Crenshaw、Eleanor Ferron、Thurston Hillman、James Jacobs、Isabelle Thorne、Lyz Liddell、Ron Lundeen、Joe Pasini、Lu Pellazar、Jessica Price、Mark Seifter、F. Wesley Schneider、Amber Stewart、James L. Sutter、Linda Zayas-Palmer",
+   "pages": "256"
+  },
+  "text": {
+   "en": "Planar Adventures",
+   "authors": "Robert Brookes、John Compton、Paris Crenshaw、Eleanor Ferron、Thurston Hillman、James Jacobs、Isabelle Thorne、Lyz Liddell、Ron Lundeen、Joe Pasini、Lu Pellazar、Jessica Price、Mark Seifter、F. Wesley Schneider、Amber Stewart、James L. Sutter、Linda Zayas-Palmer",
+   "pages": "256"
+  }
+ },
+ {
+  "title": "位面旅者手册",
+  "url": "https://pf1.huijiwiki.com/wiki/位面旅者手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Plane-Hopper's Handbook",
+   "authors": "James Case、John Compton、Leo Glass、Avi Kool、Adrian Ng、Lu Pellazar、Daniel Reed、Mikhail Rekun、Amber E. Scott、Tork Shaw、Linda Zayas-Palmer",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Plane-Hopper's Handbook",
+   "authors": "James Case、John Compton、Leo Glass、Avi Kool、Adrian Ng、Lu Pellazar、Daniel Reed、Mikhail Rekun、Amber E. Scott、Tork Shaw、Linda Zayas-Palmer",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "信仰与哲学",
+  "url": "https://pf1.huijiwiki.com/wiki/信仰与哲学",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Faiths and Philosophies",
+   "authors": "Savannah Broadway、Paris Crenshaw、Neall Raemonn Price、David N. Ross、Owen K.C. Stephens、James L. Sutter",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Faiths and Philosophies",
+   "authors": "Savannah Broadway、Paris Crenshaw、Neall Raemonn Price、David N. Ross、Owen K.C. Stephens、James L. Sutter",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "元素大师手册",
+  "url": "https://pf1.huijiwiki.com/wiki/元素大师手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Elemental Master's Handbook",
+   "authors": "John Compton、Eleanor Ferron、Mikko Kallio、Jason Keeley、Isabelle Thorne、Christopher Wasko",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Elemental Master's Handbook",
+   "authors": "John Compton、Eleanor Ferron、Mikko Kallio、Jason Keeley、Isabelle Thorne、Christopher Wasko",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "元素血脉",
+  "url": "https://pf1.huijiwiki.com/wiki/元素血脉",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Blood of the Elements",
+   "authors": "Tim Akers、Judy Bauer、Jim Groves、Chris Lites、Dale C. McCoy、Jr.、Cassidy Werner",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Blood of the Elements",
+   "authors": "Tim Akers、Judy Bauer、Jim Groves、Chris Lites、Dale C. McCoy、Jr.、Cassidy Werner",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "内海NPC志",
+  "url": "https://pf1.huijiwiki.com/wiki/内海NPC志",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Inner Sea NPC Codex",
+   "authors": "John Compton、Paris Crenshaw、Adam Daigle、Josh Foster、Robert G. McCreary、Mark Moreland、Russ Taylor",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Inner Sea NPC Codex",
+   "authors": "John Compton、Paris Crenshaw、Adam Daigle、Josh Foster、Robert G. McCreary、Mark Moreland、Russ Taylor",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "内海世界指南",
+  "url": "https://pf1.huijiwiki.com/wiki/内海世界指南",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Inner Sea World Guide",
+   "authors": "James Jacobs",
+   "pages": "320"
+  },
+  "text": {
+   "en": "Inner Sea World Guide",
+   "authors": "James Jacobs",
+   "pages": "320"
+  }
+ },
+ {
+  "title": "内海信仰",
+  "url": "https://pf1.huijiwiki.com/wiki/内海信仰",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Inner Sea Faiths",
+   "authors": "Robert Brookes、Benjamin Bruck、Crystal Frasier、Thurston Hillman、Brandon Hodge、James Jacobs、Jessica Price、Patrick Renie、David N. Ross",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Inner Sea Faiths",
+   "authors": "Robert Brookes、Benjamin Bruck、Crystal Frasier、Thurston Hillman、Brandon Hodge、James Jacobs、Jessica Price、Patrick Renie、David N. Ross",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "内海城堡",
+  "url": "https://pf1.huijiwiki.com/wiki/内海城堡",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Castles of the Inner Sea",
+   "authors": "Tim Hitchcock、Alyssa Faden",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Castles of the Inner Sea",
+   "authors": "Tim Hitchcock、Alyssa Faden",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "内海城镇",
+  "url": "https://pf1.huijiwiki.com/wiki/内海城镇",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Towns of the Inner Sea",
+   "authors": "Judy Bauer、Logan Bonner、Nicolas Logue、Matt Vancil",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Towns of the Inner Sea",
+   "authors": "Judy Bauer、Logan Bonner、Nicolas Logue、Matt Vancil",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "内海怪物图鉴",
+  "url": "https://pf1.huijiwiki.com/wiki/内海怪物图鉴",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Inner Sea Bestiary",
+   "authors": "Jim Groves、James Jacobs、Robert G. McCreary、Erik Mona、Jason Nelson、Patrick Renie、James L. Sutter、Russ Taylor、Greg A. Vaughan、F. Wesley Schneider",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Inner Sea Bestiary",
+   "authors": "Jim Groves、James Jacobs、Robert G. McCreary、Erik Mona、Jason Nelson、Patrick Renie、James L. Sutter、Russ Taylor、Greg A. Vaughan、F. Wesley Schneider",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "内海怪物志",
+  "url": "https://pf1.huijiwiki.com/wiki/内海怪物志",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Inner Sea Monster Codex",
+   "authors": "John Compton、Paris Crenshaw、Mike Myler、Tork Shaw、Larry Wilhelm",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Inner Sea Monster Codex",
+   "authors": "John Compton、Paris Crenshaw、Mike Myler、Tork Shaw、Larry Wilhelm",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "内海战斗",
+  "url": "https://pf1.huijiwiki.com/wiki/内海战斗",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Inner Sea Combat",
+   "authors": "Dennis Baker、Jesse Benner、John Compton、Thurston Hillman",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Inner Sea Combat",
+   "authors": "Dennis Baker、Jesse Benner、John Compton、Thurston Hillman",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "内海海盗",
+  "url": "https://pf1.huijiwiki.com/wiki/内海海盗",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pirates of the Inner Sea",
+   "authors": "Amber E. Scott",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Pirates of the Inner Sea",
+   "authors": "Amber E. Scott",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "内海神殿",
+  "url": "https://pf1.huijiwiki.com/wiki/内海神殿",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Inner Sea Temples",
+   "authors": "Robert Brookes、Liz Courts、Mikko Kallio、Jeffrey Swank、Larry Wilhelm",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Inner Sea Temples",
+   "authors": "Robert Brookes、Liz Courts、Mikko Kallio、Jeffrey Swank、Larry Wilhelm",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "内海种族",
+  "url": "https://pf1.huijiwiki.com/wiki/内海种族",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Inner Sea Races",
+   "authors": "Benjamin Bruck、Ross Byers、John Compton、Adam Daigle、Crystal Frasier、Matthew Goodall、Alex Greenshields、James Jacobs、Amanda Hamon、Ron Lundeen、Robert G. McCreary、Jessica Price、David N. Ross、Owen K.C. Stephens、James L. Sutter、Russ Taylor、Jerome Virnich",
+   "pages": "256"
+  },
+  "text": {
+   "en": "Inner Sea Races",
+   "authors": "Benjamin Bruck、Ross Byers、John Compton、Adam Daigle、Crystal Frasier、Matthew Goodall、Alex Greenshields、James Jacobs、Amanda Hamon、Ron Lundeen、Robert G. McCreary、Jessica Price、David N. Ross、Owen K.C. Stephens、James L. Sutter、Russ Taylor、Jerome Virnich",
+   "pages": "256"
+  }
+ },
+ {
+  "title": "内海舰船",
+  "url": "https://pf1.huijiwiki.com/wiki/内海舰船",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Ships of the Inner Sea",
+   "authors": "Benjamin Bruck、Paris Crenshaw、Amanda Hamon、Chris A. Jackson、Philip A. Lee、John Mangrum",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Ships of the Inner Sea",
+   "authors": "Benjamin Bruck、Paris Crenshaw、Amanda Hamon、Chris A. Jackson、Philip A. Lee、John Mangrum",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "内海诡道",
+  "url": "https://pf1.huijiwiki.com/wiki/内海诡道",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Inner Sea Intrigue",
+   "authors": "David N. Ross",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Inner Sea Intrigue",
+   "authors": "David N. Ross",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "内海诸神",
+  "url": "https://pf1.huijiwiki.com/wiki/内海诸神",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Inner Sea Gods",
+   "authors": "Sean K Reynolds",
+   "pages": "320"
+  },
+  "text": {
+   "en": "Inner Sea Gods",
+   "authors": "Sean K Reynolds",
+   "pages": "320"
+  }
+ },
+ {
+  "title": "内海酒馆",
+  "url": "https://pf1.huijiwiki.com/wiki/内海酒馆",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Inner Sea Taverns",
+   "authors": "Kate Baker、Eleanor Ferron、Michelle Jones、Jason Keeley、Luis Loza、Jacob W. Michaels、Joe Pasini、David N. Ross",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Inner Sea Taverns",
+   "authors": "Kate Baker、Eleanor Ferron、Michelle Jones、Jason Keeley、Luis Loza、Jacob W. Michaels、Joe Pasini、David N. Ross",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "内海骑士",
+  "url": "https://pf1.huijiwiki.com/wiki/内海骑士",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Knights of the Inner Sea",
+   "authors": "Gareth Hanrahan、Steve Kenson、Patrick Renie、Tork Shaw、Jerome Virnich",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Knights of the Inner Sea",
+   "authors": "Gareth Hanrahan、Steve Kenson、Patrick Renie、Tork Shaw、Jerome Virnich",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "内海魔法",
+  "url": "https://pf1.huijiwiki.com/wiki/内海魔法",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Inner Sea Magic",
+   "authors": "Jason Nelson、Sean K Reynolds、Owen K.C. Stephens",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Inner Sea Magic",
+   "authors": "Jason Nelson、Sean K Reynolds、Owen K.C. Stephens",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "再探地城住民",
+  "url": "https://pf1.huijiwiki.com/wiki/再探地城住民",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Dungeon Denizens Revisited",
+   "authors": "Sean K Reynolds、Joshua J. Frost、Robert G. McCreary、Jason Bulmahn、Richard Pett、Greg A. Vaughan、Nicolas Logue、James L. Sutter、Jason Nelson、Clinton Boomer",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Dungeon Denizens Revisited",
+   "authors": "Sean K Reynolds、Joshua J. Frost、Robert G. McCreary、Jason Bulmahn、Richard Pett、Greg A. Vaughan、Nicolas Logue、James L. Sutter、Jason Nelson、Clinton Boomer",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "再探恶魔",
+  "url": "https://pf1.huijiwiki.com/wiki/再探恶魔",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Demons Revisited",
+   "authors": "James Jacobs",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Demons Revisited",
+   "authors": "James Jacobs",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "再探死灵",
+  "url": "https://pf1.huijiwiki.com/wiki/再探死灵",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Undead Revisited",
+   "authors": "Amber Stewart、Brandon Hodge、Steve Kenson",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Undead Revisited",
+   "authors": "Amber Stewart、Brandon Hodge、Steve Kenson",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "再探神秘怪物",
+  "url": "https://pf1.huijiwiki.com/wiki/再探神秘怪物",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Mystery Monsters Revisited",
+   "authors": "Richard Pett、Anthony Pryor、Amber E. Scott、Ray Vallese",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Mystery Monsters Revisited",
+   "authors": "Richard Pett、Anthony Pryor、Amber E. Scott、Ray Vallese",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "再探精类",
+  "url": "https://pf1.huijiwiki.com/wiki/再探精类",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Fey Revisited",
+   "authors": "Savannah Broadway、Amanda Hamon、Tim Hitchcock、Levi Miles、Ray Vallese、Jerome Virnich",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Fey Revisited",
+   "authors": "Savannah Broadway、Amanda Hamon、Tim Hitchcock、Levi Miles、Ray Vallese、Jerome Virnich",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "再探经典宝藏",
+  "url": "https://pf1.huijiwiki.com/wiki/再探经典宝藏",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Classic Treasures Revisited",
+   "authors": "Amber Stewart、Michael Kortes、Jonathan H. Keith",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Classic Treasures Revisited",
+   "authors": "Amber Stewart、Michael Kortes、Jonathan H. Keith",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "再探经典怪物",
+  "url": "https://pf1.huijiwiki.com/wiki/再探经典怪物",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Classic Monsters Revisited",
+   "authors": "Wolfgang Baur、Jason Bulmahn、Joshua J. Frost、James Jacobs、Nicolas Logue、Mike McArtor、James L. Sutter、Greg A. Vaughan、Jeremy Walker",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Classic Monsters Revisited",
+   "authors": "Wolfgang Baur、Jason Bulmahn、Joshua J. Frost、James Jacobs、Nicolas Logue、Mike McArtor、James L. Sutter、Greg A. Vaughan、Jeremy Walker",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "冒险之路100：银之歌",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路100：银之歌",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #100: A Song of Silver",
+   "authors": "James Jacobs",
+   "pages": "128"
+  },
+  "text": {
+   "en": "Pathfinder #100: A Song of Silver",
+   "authors": "James Jacobs",
+   "pages": "128"
+  }
+ },
+ {
+  "title": "冒险之路101：金塔格契约",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路101：金塔格契约",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #101: The Kintargo Contract",
+   "authors": "Jim Groves",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #101: The Kintargo Contract",
+   "authors": "Jim Groves",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路102：碎裂地狱之骨",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路102：碎裂地狱之骨",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #102: Breaking the Bones of Hell",
+   "authors": "Amber E. Scott",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #102: Breaking the Bones of Hell",
+   "authors": "Amber E. Scott",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路103：地狱火合约",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路103：地狱火合约",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #103: The Hellfire Compact",
+   "authors": "F. Wesley Schneider",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #103: The Hellfire Compact",
+   "authors": "F. Wesley Schneider",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路104：特鲁恩之怒",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路104：特鲁恩之怒",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #104: Wrath of Thrune",
+   "authors": "Thurston Hillman",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #104: Wrath of Thrune",
+   "authors": "Thurston Hillman",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路105：炼狱之门",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路105：炼狱之门",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #105: The Inferno Gate",
+   "authors": "Patrick Renie",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #105: The Inferno Gate",
+   "authors": "Patrick Renie",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路106：为了女王与帝国",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路106：为了女王与帝国",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #106: For Queen and Empire",
+   "authors": "Stephen Radney-MacFarland",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #106: For Queen and Empire",
+   "authors": "Stephen Radney-MacFarland",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路107：神爪之祸",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路107：神爪之祸",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #107: Scourge of the Godclaw",
+   "authors": "Larry Wilhelm",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #107: Scourge of the Godclaw",
+   "authors": "Larry Wilhelm",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路108：地狱降临西冠城",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路108：地狱降临西冠城",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #108: Hell Comes to Westcrown",
+   "authors": "Ron Lundeen",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #108: Hell Comes to Westcrown",
+   "authors": "Ron Lundeen",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路109：寻觅理智",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路109：寻觅理智",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #109: In Search of Sanity",
+   "authors": "F. Wesley Schneider",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #109: In Search of Sanity",
+   "authors": "F. Wesley Schneider",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路10：灰烬之史",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路10：灰烬之史",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #10: A History of Ashes",
+   "authors": "Michael Kortes",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #10: A History of Ashes",
+   "authors": "Michael Kortes",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路110：鸫沼之怖",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路110：鸫沼之怖",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #110: The Thrushmoor Terror",
+   "authors": "Tito Leati",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #110: The Thrushmoor Terror",
+   "authors": "Tito Leati",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路111：黄衣之王的梦境",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路111：黄衣之王的梦境",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #111: Dreams of the Yellow King",
+   "authors": "Ron Lundeen",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #111: Dreams of the Yellow King",
+   "authors": "Ron Lundeen",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路112：时间之外的低语",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路112：时间之外的低语",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #112: The Whisper Out of Time",
+   "authors": "Richard Pett",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #112: The Whisper Out of Time",
+   "authors": "Richard Pett",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路113：滋生于内",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路113：滋生于内",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #113: What Grows Within",
+   "authors": "John Compton",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #113: What Grows Within",
+   "authors": "John Compton",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路114：暗星信标",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路114：暗星信标",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #114: Black Stars Beckon",
+   "authors": "Jim Groves、Adam Daigle、James Jacobs、Benjamin Bruck",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #114: Black Stars Beckon",
+   "authors": "Jim Groves、Adam Daigle、James Jacobs、Benjamin Bruck",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路115：猎物小径",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路115：猎物小径",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #115: Trail of the Hunted",
+   "authors": "Amber E. Scott",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #115: Trail of the Hunted",
+   "authors": "Amber E. Scott",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路116：战争之牙",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路116：战争之牙",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #116: Fangs of War",
+   "authors": "Ron Lundeen",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #116: Fangs of War",
+   "authors": "Ron Lundeen",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路117：强攻长影城",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路117：强攻长影城",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #117: Assault on Longshadow",
+   "authors": "Benjamin Bruck、Thurston Hillman",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #117: Assault on Longshadow",
+   "authors": "Benjamin Bruck、Thurston Hillman",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路118：磐石围攻",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路118：磐石围攻",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #118: Siege of Stone",
+   "authors": "Thurston Hillman",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #118: Siege of Stone",
+   "authors": "Thurston Hillman",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路119：荒疫囚徒",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路119：荒疫囚徒",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #119: Prisoners of the Blight",
+   "authors": "Amanda Hamon",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #119: Prisoners of the Blight",
+   "authors": "Amanda Hamon",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路11：疤墙骸骨",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路11：疤墙骸骨",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #11: Skeletons of Scarwall",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #11: Skeletons of Scarwall",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路120：缟玛瑙城堡的穹窿",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路120：缟玛瑙城堡的穹窿",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #120: Vault of the Onyx Citadel",
+   "authors": "Larry Wilhelm",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #120: Vault of the Onyx Citadel",
+   "authors": "Larry Wilhelm",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路121：前哨站失联",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路121：前哨站失联",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #121: The Lost Outpost",
+   "authors": "Jim Groves",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #121: The Lost Outpost",
+   "authors": "Jim Groves",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路122：深入破碎大陆",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路122：深入破碎大陆",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #122: Into the Shattered Continent",
+   "authors": "Robert Brookes",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #122: Into the Shattered Continent",
+   "authors": "Robert Brookes",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路123：浸没大圣堂",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路123：浸没大圣堂",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #123: The Flooded Cathedral",
+   "authors": "Mikko Kallio",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #123: The Flooded Cathedral",
+   "authors": "Mikko Kallio",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路124：深海之城",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路124：深海之城",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #124: City in the Deep",
+   "authors": "Amber E. Scott",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #124: City in the Deep",
+   "authors": "Amber E. Scott",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路125：溺水者之塔",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路125：溺水者之塔",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #125: Tower of the Drowned Dead",
+   "authors": "Ron Lundeen",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #125: Tower of the Drowned Dead",
+   "authors": "Ron Lundeen",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路126：帷幕后的往昔",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路126：帷幕后的往昔",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #126: Beyond the Veiled Past",
+   "authors": "Thurston Hillman、Robert Brookes、Eleanor Ferron、Crystal Malarsky、Scott Sharplin",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #126: Beyond the Veiled Past",
+   "authors": "Thurston Hillman、Robert Brookes、Eleanor Ferron、Crystal Malarsky、Scott Sharplin",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路127：王权殒落",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路127：王权殒落",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #127: Crownfall",
+   "authors": "Thurston Hillman",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #127: Crownfall",
+   "authors": "Thurston Hillman",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路128：鸣鸟、贵胄、破坏者",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路128：鸣鸟、贵胄、破坏者",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #128: Songbird, Scion, Saboteur",
+   "authors": "Crystal Frasier、Richard Pett",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #128: Songbird, Scion, Saboteur",
+   "authors": "Crystal Frasier、Richard Pett",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路129：暮光之子",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路129：暮光之子",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #129: The Twilight Child",
+   "authors": "Ron Lundeen",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #129: The Twilight Child",
+   "authors": "Ron Lundeen",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路12：龙牙王冠",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路12：龙牙王冠",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #12: Crown of Fangs",
+   "authors": "Tito Leati",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #12: Crown of Fangs",
+   "authors": "Tito Leati",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路130：狮眼之城",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路130：狮眼之城",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #130: City in the Lion's Eye",
+   "authors": "Mikko Kallio、Ron Lundeen、Eleanor Ferron、Liz Smith、Mike Headley、Joe Kondrak、Kalervo Oikarinen",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #130: City in the Lion's Eye",
+   "authors": "Mikko Kallio、Ron Lundeen、Eleanor Ferron、Liz Smith、Mike Headley、Joe Kondrak、Kalervo Oikarinen",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路131：死神的右手",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路131：死神的右手",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #131: The Reaper's Right Hand",
+   "authors": "John Compton",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #131: The Reaper's Right Hand",
+   "authors": "John Compton",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路132：六传奇之魂",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路132：六传奇之魂",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #132: The Six-Legend Soul",
+   "authors": "Amber E. Scott、Kate Baker、Jay Erickson、Crystal Frasier、Tom Hansen、Lyz Liddell、Aerick Lim、Ron Lundeen、Nathan Reinecke",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #132: The Six-Legend Soul",
+   "authors": "Amber E. Scott、Kate Baker、Jay Erickson、Crystal Frasier、Tom Hansen、Lyz Liddell、Aerick Lim、Ron Lundeen、Nathan Reinecke",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路133：罗德里克湾的秘密",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路133：罗德里克湾的秘密",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #133: Secrets of Roderic's Cove",
+   "authors": "Adam Daigle、James Jacobs、Mikko Kallio、Luis Loza、Jacob W. Michaels、Conor J. Owens",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #133: Secrets of Roderic's Cove",
+   "authors": "Adam Daigle、James Jacobs、Mikko Kallio、Luis Loza、Jacob W. Michaels、Conor J. Owens",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路134：它来自空心山",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路134：它来自空心山",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #134: It Came from Hollow Mountain",
+   "authors": "Mike Shel、Jason Keeley、Patchen Mortimer、Mark Moreland",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #134: It Came from Hollow Mountain",
+   "authors": "Mike Shel、Jason Keeley、Patchen Mortimer、Mark Moreland",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路135：符文瘟疫",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路135：符文瘟疫",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #135: Runeplague",
+   "authors": "Richard Pett、Jason Keeley、Eleanor Ferron、Mike Kimmel、Andrew Mullen、Jeffrey Swank",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #135: Runeplague",
+   "authors": "Richard Pett、Jason Keeley、Eleanor Ferron、Mike Kimmel、Andrew Mullen、Jeffrey Swank",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路136：孔雀灵神殿",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路136：孔雀灵神殿",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #136: Temple of the Peacock Spirit",
+   "authors": "Jason Keeley、John Compton、James Jacobs、Luis Loza、Dan Cascone、Nathan King",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #136: Temple of the Peacock Spirit",
+   "authors": "Jason Keeley、John Compton、James Jacobs、Luis Loza、Dan Cascone、Nathan King",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路137：时外之城",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路137：时外之城",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #137: The City Outside of Time",
+   "authors": "Amanda Hamon、Mikko Kallio、Gregory Hanigan、John Compton",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #137: The City Outside of Time",
+   "authors": "Amanda Hamon、Mikko Kallio、Gregory Hanigan、John Compton",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路138：新瑟西隆崛起",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路138：新瑟西隆崛起",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #138: Rise of New Thassilon",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #138: Rise of New Thassilon",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路139：死者之路",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路139：死者之路",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #139: The Dead Roads",
+   "authors": "Ron Lundeen",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #139: The Dead Roads",
+   "authors": "Ron Lundeen",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路13：天空之影",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路13：天空之影",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #13: Shadow in the Sky",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #13: Shadow in the Sky",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路140：罗斯拉宝匣悼词",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路140：罗斯拉宝匣悼词",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #140: Eulogy for Roslar's Coffer",
+   "authors": "Jason Keeley",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #140: Eulogy for Roslar's Coffer",
+   "authors": "Jason Keeley",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路141：最终守望",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路141：最终守望",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #141: Last Watch",
+   "authors": "Larry Wilhelm",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #141: Last Watch",
+   "authors": "Larry Wilhelm",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路142：绞架尖塔花园",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路142：绞架尖塔花园",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #142: Gardens of Gallowspire",
+   "authors": "Crystal Frasier",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #142: Gardens of Gallowspire",
+   "authors": "Crystal Frasier",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路143：日之恩典",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路143：日之恩典",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #143: Borne by the Sun's Grace",
+   "authors": "Luis Loza",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #143: Borne by the Sun's Grace",
+   "authors": "Luis Loza",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路144：死亡助产士",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路144：死亡助产士",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #144: Midwives to Death",
+   "authors": "John Compton",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #144: Midwives to Death",
+   "authors": "John Compton",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路14：虚空之子",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路14：虚空之子",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #14: Children of the Void",
+   "authors": "Mike McArtor",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #14: Children of the Void",
+   "authors": "Mike McArtor",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路15：末日回响",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路15：末日回响",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #15: The Armageddon Echo",
+   "authors": "Jason Bulmahn",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #15: The Armageddon Echo",
+   "authors": "Jason Bulmahn",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路16：无尽长夜",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路16：无尽长夜",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #16: Endless Night",
+   "authors": "F. Wesley Schneider",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #16: Endless Night",
+   "authors": "F. Wesley Schneider",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路17：黑暗的记忆",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路17：黑暗的记忆",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #17: A Memory of Darkness",
+   "authors": "JD Wiker",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #17: A Memory of Darkness",
+   "authors": "JD Wiker",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路18：坠入午夜",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路18：坠入午夜",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #18: Descent into Midnight",
+   "authors": "Brian Cortijo",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #18: Descent into Midnight",
+   "authors": "Brian Cortijo",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路19：腐肉之王的嚎叫",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路19：腐肉之王的嚎叫",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #19: Howl of the Carrion King",
+   "authors": "Erik Mona",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #19: Howl of the Carrion King",
+   "authors": "Erik Mona",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路1：焚烧的祭品",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路1：焚烧的祭品",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #1: Burnt Offerings",
+   "authors": "James Jacobs",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #1: Burnt Offerings",
+   "authors": "James Jacobs",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路20：野兽之屋",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路20：野兽之屋",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #20: House of the Beast",
+   "authors": "Tim Hitchcock",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #20: House of the Beast",
+   "authors": "Tim Hitchcock",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路21：胡狼的代价",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路21：胡狼的代价",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #21: The Jackal's Price",
+   "authors": "Darrin Drader",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #21: The Jackal's Price",
+   "authors": "Darrin Drader",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路22：永恒的终结",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路22：永恒的终结",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #22: The End of Eternity",
+   "authors": "Jason Nelson",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #22: The End of Eternity",
+   "authors": "Jason Nelson",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路23：不可思议之眼",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路23：不可思议之眼",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #23: The Impossible Eye",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #23: The Impossible Eye",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路24：最后的愿望",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路24：最后的愿望",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #24: The Final Wish",
+   "authors": "Robert G. McCreary",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #24: The Final Wish",
+   "authors": "Robert G. McCreary",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路25：厄瑞波斯的私生子",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路25：厄瑞波斯的私生子",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #25: The Bastards of Erebus",
+   "authors": "Sean K Reynolds",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #25: The Bastards of Erebus",
+   "authors": "Sean K Reynolds",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路26：六重审判",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路26：六重审判",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #26: The Sixfold Trial",
+   "authors": "Richard Pett",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #26: The Sixfold Trial",
+   "authors": "Richard Pett",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路27：尘埃之下",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路27：尘埃之下",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #27: What Lies in Dust",
+   "authors": "Michael Kortes",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #27: What Lies in Dust",
+   "authors": "Michael Kortes",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路28：炼狱综合征",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路28：炼狱综合征",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #28: The Infernal Syndrome",
+   "authors": "Clinton Boomer、James Jacobs",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #28: The Infernal Syndrome",
+   "authors": "Clinton Boomer、James Jacobs",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路29：飞蝇之母",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路29：飞蝇之母",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #29: Mother of Flies",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #29: Mother of Flies",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路2：剥皮锯谋杀案",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路2：剥皮锯谋杀案",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #2: The Skinsaw Murders",
+   "authors": "Richard Pett",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #2: The Skinsaw Murders",
+   "authors": "Richard Pett",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路30：两度受诅的王子",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路30：两度受诅的王子",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #30: The Twice-Damned Prince",
+   "authors": "Brian Cortijo、James Jacobs",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #30: The Twice-Damned Prince",
+   "authors": "Brian Cortijo、James Jacobs",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路31：被窃之地",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路31：被窃之地",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #31: Stolen Land",
+   "authors": "Tim Hitchcock",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #31: Stolen Land",
+   "authors": "Tim Hitchcock",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路32：血流成河",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路32：血流成河",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #32: Rivers Run Red",
+   "authors": "Robert G. McCreary",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #32: Rivers Run Red",
+   "authors": "Robert G. McCreary",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路33：瓦恩霍德的消失",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路33：瓦恩霍德的消失",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #33: The Varnhold Vanishing",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #33: The Varnhold Vanishing",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路34：以血还血",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路34：以血还血",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #34: Blood for Blood",
+   "authors": "Neil Spicer",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #34: Blood for Blood",
+   "authors": "Neil Spicer",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路35：河域诸王之战",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路35：河域诸王之战",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #35: War of the River Kings",
+   "authors": "Jason Nelson",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #35: War of the River Kings",
+   "authors": "Jason Nelson",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路36：千声尖叫",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路36：千声尖叫",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #36: Sound of a Thousand Screams",
+   "authors": "Richard Pett",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #36: Sound of a Thousand Screams",
+   "authors": "Richard Pett",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路37：走私者之刃",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路37：走私者之刃",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #37: Souls for Smuggler's Shiv",
+   "authors": "James Jacobs",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #37: Souls for Smuggler's Shiv",
+   "authors": "James Jacobs",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路38：竞逐废墟",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路38：竞逐废墟",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #38: Racing to Ruin",
+   "authors": "Tim Hitchcock",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #38: Racing to Ruin",
+   "authors": "Tim Hitchcock",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路39：七矛之城",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路39：七矛之城",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #39: The City of Seven Spears",
+   "authors": "Kevin Kulp",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #39: The City of Seven Spears",
+   "authors": "Kevin Kulp",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路3：钩山大屠杀",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路3：钩山大屠杀",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #3: The Hook Mountain Massacre",
+   "authors": "Nicolas Logue",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #3: The Hook Mountain Massacre",
+   "authors": "Nicolas Logue",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路40：疯狂穹窿",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路40：疯狂穹窿",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #40: Vaults of Madness",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #40: Vaults of Madness",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路41：千牙之底",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路41：千牙之底",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #41: The Thousand Fangs Below",
+   "authors": "Graeme Davis",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #41: The Thousand Fangs Below",
+   "authors": "Graeme Davis",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路42：蛇神圣所",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路42：蛇神圣所",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #42: Sanctum of the Serpent God",
+   "authors": "Neil Spicer",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #42: Sanctum of the Serpent God",
+   "authors": "Neil Spicer",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路43：哈罗斯通闹鬼",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路43：哈罗斯通闹鬼",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #43: Haunting of Harrowstone",
+   "authors": "Michael Kortes",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #43: Haunting of Harrowstone",
+   "authors": "Michael Kortes",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路44：野兽的审判",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路44：野兽的审判",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #44: Trial of the Beast",
+   "authors": "Richard Pett",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #44: Trial of the Beast",
+   "authors": "Richard Pett",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路45：破碎之月",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路45：破碎之月",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #45: Broken Moon",
+   "authors": "Tim Hitchcock",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #45: Broken Moon",
+   "authors": "Tim Hitchcock",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路46：守望者苏醒",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路46：守望者苏醒",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #46: Wake of the Watcher",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #46: Wake of the Watcher",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路47：破晓灰烬",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路47：破晓灰烬",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #47: Ashes at Dawn",
+   "authors": "Neil Spicer",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #47: Ashes at Dawn",
+   "authors": "Neil Spicer",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路48：绞架尖塔的魔影",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路48：绞架尖塔的魔影",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #48: Shadows of Gallowspire",
+   "authors": "Brandon Hodge",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #48: Shadows of Gallowspire",
+   "authors": "Brandon Hodge",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路49：苦水墙的遗赠",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路49：苦水墙的遗赠",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #49: The Brinewall Legacy",
+   "authors": "James Jacobs",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #49: The Brinewall Legacy",
+   "authors": "James Jacobs",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路4：石巨人要塞",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路4：石巨人要塞",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #4: Fortress of the Stone Giants",
+   "authors": "Wolfgang Baur",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #4: Fortress of the Stone Giants",
+   "authors": "Wolfgang Baur",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路50：冰封暗影之夜",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路50：冰封暗影之夜",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #50: Night of Frozen Shadows",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #50: Night of Frozen Shadows",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路51：饥饿风暴",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路51：饥饿风暴",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #51: The Hungry Storm",
+   "authors": "Jason Nelson",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #51: The Hungry Storm",
+   "authors": "Jason Nelson",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路52：精魂之森",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路52：精魂之森",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #52: Forest of Spirits",
+   "authors": "Richard Pett",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #52: Forest of Spirits",
+   "authors": "Richard Pett",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路53：荣誉之潮",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路53：荣誉之潮",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #53: Tide of Honor",
+   "authors": "Tito Leati",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #53: Tide of Honor",
+   "authors": "Tito Leati",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路54：空王座",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路54：空王座",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #54: The Empty Throne",
+   "authors": "Neil Spicer",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #54: The Empty Throne",
+   "authors": "Neil Spicer",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路55：苦艾号叛变",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路55：苦艾号叛变",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #55: The Wormwood Mutiny",
+   "authors": "Richard Pett",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #55: The Wormwood Mutiny",
+   "authors": "Richard Pett",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路56：热病海劫掠者",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路56：热病海劫掠者",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #56: Raiders of the Fever Sea",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #56: Raiders of the Fever Sea",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路57：风暴渐起",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路57：风暴渐起",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #57: Tempest Rising",
+   "authors": "Matthew Goodall",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #57: Tempest Rising",
+   "authors": "Matthew Goodall",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路58：空眼之岛",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路58：空眼之岛",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #58: Island of Empty Eyes",
+   "authors": "Neil Spicer",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #58: Island of Empty Eyes",
+   "authors": "Neil Spicer",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路59：恶名的代价",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路59：恶名的代价",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #59: The Price of Infamy",
+   "authors": "Tim Hitchcock",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #59: The Price of Infamy",
+   "authors": "Tim Hitchcock",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路5：救世者的原罪",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路5：救世者的原罪",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #5: Sins of the Saviors",
+   "authors": "Stephen S. Greer",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #5: Sins of the Saviors",
+   "authors": "Stephen S. Greer",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路60：来自地狱之心",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路60：来自地狱之心",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #60: From Hell's Heart",
+   "authors": "Jason Nelson",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #60: From Hell's Heart",
+   "authors": "Jason Nelson",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路61：罪恶碎片",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路61：罪恶碎片",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #61: Shards of Sin",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #61: Shards of Sin",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路62：女士之光的诅咒",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路62：女士之光的诅咒",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #62: Curse of the Lady's Light",
+   "authors": "Mike Shel",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #62: Curse of the Lady's Light",
+   "authors": "Mike Shel",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路63：庇护之石",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路63：庇护之石",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #63: The Asylum Stone",
+   "authors": "James L. Sutter",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #63: The Asylum Stone",
+   "authors": "James L. Sutter",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路64：末日之门彼端",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路64：末日之门彼端",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #64: Beyond the Doomsday Door",
+   "authors": "Tito Leati",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #64: Beyond the Doomsday Door",
+   "authors": "Tito Leati",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路65：深入噩梦裂谷",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路65：深入噩梦裂谷",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #65: Into the Nightmare Rift",
+   "authors": "Richard Pett",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #65: Into the Nightmare Rift",
+   "authors": "Richard Pett",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路66：辛的死寂之心",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路66：辛的死寂之心",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #66: The Dead Heart of Xin",
+   "authors": "Brandon Hodge",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #66: The Dead Heart of Xin",
+   "authors": "Brandon Hodge",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路67：夏日之雪",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路67：夏日之雪",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #67: The Snows of Summer",
+   "authors": "Neil Spicer",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #67: The Snows of Summer",
+   "authors": "Neil Spicer",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路68：被禁锢的小屋",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路68：被禁锢的小屋",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #68: The Shackled Hut",
+   "authors": "Jim Groves",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #68: The Shackled Hut",
+   "authors": "Jim Groves",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路69：少女、母亲、老妪",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路69：少女、母亲、老妪",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #69: Maiden, Mother, Crone",
+   "authors": "Tim Hitchcock",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #69: Maiden, Mother, Crone",
+   "authors": "Tim Hitchcock",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路6：辛沙拉斯特尖塔",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路6：辛沙拉斯特尖塔",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #6: Spires of Xin-Shalast",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #6: Spires of Xin-Shalast",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路70：冰冻之星",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路70：冰冻之星",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #70: The Frozen Stars",
+   "authors": "Matthew Goodall",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #70: The Frozen Stars",
+   "authors": "Matthew Goodall",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路71：拉斯普京必须死！",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路71：拉斯普京必须死！",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #71: Rasputin Must Die!",
+   "authors": "Brandon Hodge",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #71: Rasputin Must Die!",
+   "authors": "Brandon Hodge",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路72：女巫之王的复仇",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路72：女巫之王的复仇",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #72: The Witch Queen's Revenge",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #72: The Witch Queen's Revenge",
+   "authors": "Greg A. Vaughan",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路73：世界之伤入侵",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路73：世界之伤入侵",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #73: The Worldwound Incursion",
+   "authors": "Amber E. Scott",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #73: The Worldwound Incursion",
+   "authors": "Amber E. Scott",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路74：勇气之刃",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路74：勇气之刃",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #74: Sword of Valor",
+   "authors": "Neil Spicer",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #74: Sword of Valor",
+   "authors": "Neil Spicer",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路75：恶魔异端",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路75：恶魔异端",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #75: Demon's Heresy",
+   "authors": "Jim Groves",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #75: Demon's Heresy",
+   "authors": "Jim Groves",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路76：午夜群岛",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路76：午夜群岛",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #76: The Midnight Isles",
+   "authors": "James Jacobs、Greg A. Vaughan",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #76: The Midnight Isles",
+   "authors": "James Jacobs、Greg A. Vaughan",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路77：象牙迷宫的使者",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路77：象牙迷宫的使者",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #77: Herald of the Ivory Labyrinth",
+   "authors": "Wolfgang Baur",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #77: Herald of the Ivory Labyrinth",
+   "authors": "Wolfgang Baur",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路78：寄蝗魔都",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路78：寄蝗魔都",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #78: City of Locusts",
+   "authors": "Richard Pett",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #78: City of Locusts",
+   "authors": "Richard Pett",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路79：半死之城",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路79：半死之城",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #79: The Half-Dead City",
+   "authors": "Jim Groves",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #79: The Half-Dead City",
+   "authors": "Jim Groves",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路7：无序边缘",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路7：无序边缘",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #7: Edge of Anarchy",
+   "authors": "Nicolas Logue",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #7: Edge of Anarchy",
+   "authors": "Nicolas Logue",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路80：空墓",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路80：空墓",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #80: Empty Graves",
+   "authors": "Crystal Frasier",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #80: Empty Graves",
+   "authors": "Crystal Frasier",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路81：流沙",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路81：流沙",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #81: Shifting Sands",
+   "authors": "Richard Pett",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #81: Shifting Sands",
+   "authors": "Richard Pett",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路82：斯芬克斯的秘密",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路82：斯芬克斯的秘密",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #82: Secrets of the Sphinx",
+   "authors": "Amber E. Scott",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #82: Secrets of the Sphinx",
+   "authors": "Amber E. Scott",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路83：哈科泰普奴隶壕沟",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路83：哈科泰普奴隶壕沟",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #83: The Slave Trenches of Hakotep",
+   "authors": "Michael Kortes",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #83: The Slave Trenches of Hakotep",
+   "authors": "Michael Kortes",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路84：天穹法老金字塔",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路84：天穹法老金字塔",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #84: Pyramid of the Sky Pharaoh",
+   "authors": "Mike Shel",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #84: Pyramid of the Sky Pharaoh",
+   "authors": "Mike Shel",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路85：创造之火",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路85：创造之火",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #85: Fires of Creation",
+   "authors": "Neil Spicer",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #85: Fires of Creation",
+   "authors": "Neil Spicer",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路86：铁锈之主",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路86：铁锈之主",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #86: Lords of Rust",
+   "authors": "Nicolas Logue",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #86: Lords of Rust",
+   "authors": "Nicolas Logue",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路87：窒息塔",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路87：窒息塔",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #87: The Choking Tower",
+   "authors": "Ron Lundeen",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #87: The Choking Tower",
+   "authors": "Ron Lundeen",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路88：集脑者之谷",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路88：集脑者之谷",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #88: Valley of the Brain Collectors",
+   "authors": "Mike Shel",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #88: Valley of the Brain Collectors",
+   "authors": "Mike Shel",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路89：坠星宫殿",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路89：坠星宫殿",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #89: Palace of Fallen Stars",
+   "authors": "Tim Hitchcock",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #89: Palace of Fallen Stars",
+   "authors": "Tim Hitchcock",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路8：死前七日",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路8：死前七日",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #8: Seven Days to the Grave",
+   "authors": "F. Wesley Schneider",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #8: Seven Days to the Grave",
+   "authors": "F. Wesley Schneider",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路90：神性驱动器",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路90：神性驱动器",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #90: The Divinity Drive",
+   "authors": "Crystal Frasier",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #90: The Divinity Drive",
+   "authors": "Crystal Frasier",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路91：血征山之战",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路91：血征山之战",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #91: Battle of Bloodmarch Hills",
+   "authors": "Patrick Renie",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #91: Battle of Bloodmarch Hills",
+   "authors": "Patrick Renie",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路92：山丘巨人的誓约",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路92：山丘巨人的誓约",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #92: The Hill Giant's Pledge",
+   "authors": "Larry Wilhelm",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #92: The Hill Giant's Pledge",
+   "authors": "Larry Wilhelm",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路93：巨人神的熔炉",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路93：巨人神的熔炉",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #93: Forge of the Giant God",
+   "authors": "Tim Hitchcock",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #93: Forge of the Giant God",
+   "authors": "Tim Hitchcock",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路94：巨人女王的冰墓",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路94：巨人女王的冰墓",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #94: Ice Tomb of the Giant Queen",
+   "authors": "Jim Groves",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #94: Ice Tomb of the Giant Queen",
+   "authors": "Jim Groves",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路95：烈火铁砧",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路95：烈火铁砧",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #95: Anvil of Fire",
+   "authors": "Sean K Reynolds",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #95: Anvil of Fire",
+   "authors": "Sean K Reynolds",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路96：风暴暴君之影",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路96：风暴暴君之影",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #96: Shadow of the Storm Tyrant",
+   "authors": "Tito Leati",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #96: Shadow of the Storm Tyrant",
+   "authors": "Tito Leati",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路97：地狱的光明之影",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路97：地狱的光明之影",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #97: In Hell's Bright Shadow",
+   "authors": "Crystal Frasier",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #97: In Hell's Bright Shadow",
+   "authors": "Crystal Frasier",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路98：激流逆转",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路98：激流逆转",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #98: Turn of the Torrent",
+   "authors": "Mike Shel",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #98: Turn of the Torrent",
+   "authors": "Mike Shel",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路99：永罪者之舞",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路99：永罪者之舞",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #99: Dance of the Damned",
+   "authors": "Richard Pett",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #99: Dance of the Damned",
+   "authors": "Richard Pett",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险之路9：逃离旧科瓦萨",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险之路9：逃离旧科瓦萨",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder #9: Escape from Old Korvosa",
+   "authors": "Richard Pett",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Pathfinder #9: Escape from Old Korvosa",
+   "authors": "Richard Pett",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "冒险者指南",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险者指南",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Adventurer's Guide",
+   "authors": "Benjamin Bruck、John Compton、Crystal Frasier、Tim Hitchcock、Jenny Jarzabski、Isabelle Thorne、Joe Pasini、Jessica Price、David Schwartz、Josh Vogt",
+   "pages": "192"
+  },
+  "text": {
+   "en": "Adventurer's Guide",
+   "authors": "Benjamin Bruck、John Compton、Crystal Frasier、Tim Hitchcock、Jenny Jarzabski、Isabelle Thorne、Joe Pasini、Jessica Price、David Schwartz、Josh Vogt",
+   "pages": "192"
+  }
+ },
+ {
+  "title": "冒险者的军械库",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险者的军械库",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Adventurer's Armory",
+   "authors": "Jonathan H. Keith、Hal Maclean、Jeff Quick、Chris Self、JD Wiker、Keri Wiker",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Adventurer's Armory",
+   "authors": "Jonathan H. Keith、Hal Maclean、Jeff Quick、Chris Self、JD Wiker、Keri Wiker",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "冒险者的军械库2",
+  "url": "https://pf1.huijiwiki.com/wiki/冒险者的军械库2",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Adventurer's Armory 2",
+   "authors": "Jenny Jarzabski、Mikko Kallio、Isabelle Thorne、Luis Loza、Joe Pasini、David N. Ross、Linda Zayas-Palmer",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Adventurer's Armory 2",
+   "authors": "Jenny Jarzabski、Mikko Kallio、Isabelle Thorne、Luis Loza、Joe Pasini、David N. Ross、Linda Zayas-Palmer",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "冬临天下玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/冬临天下玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Reign of Winter Player's Guide",
+   "authors": "Adam Daigle",
+   "pages": "14"
+  },
+  "text": {
+   "en": "Reign of Winter Player's Guide",
+   "authors": "Adam Daigle",
+   "pages": "14"
+  }
+ },
+ {
+  "title": "冲突之地",
+  "url": "https://pf1.huijiwiki.com/wiki/冲突之地",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Lands of Conflict",
+   "authors": "Lissa Guillet、Amber E. Scott",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Lands of Conflict",
+   "authors": "Lissa Guillet、Amber E. Scott",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "凶夜女王的国度",
+  "url": "https://pf1.huijiwiki.com/wiki/凶夜女王的国度",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Realm of the Fellnight Queen",
+   "authors": "Neil Spicer",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Realm of the Fellnight Queen",
+   "authors": "Neil Spicer",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "切利亚斯，地狱帝国",
+  "url": "https://pf1.huijiwiki.com/wiki/切利亚斯，地狱帝国",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Cheliax, the Infernal Empire",
+   "authors": "Amanda Hamon、Ron Lundeen、Mark Moreland",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Cheliax, the Infernal Empire",
+   "authors": "Amanda Hamon、Ron Lundeen、Mark Moreland",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "切里亚斯，魔鬼王朝",
+  "url": "https://pf1.huijiwiki.com/wiki/切里亚斯，魔鬼王朝",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Cheliax, Empire of Devils",
+   "authors": "Jonathan H. Keith、Colin McComb、Steven Schend、Christine Schneider、Amber E. Scott",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Cheliax, Empire of Devils",
+   "authors": "Jonathan H. Keith、Colin McComb、Steven Schend、Christine Schneider、Amber E. Scott",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "初探内海",
+  "url": "https://pf1.huijiwiki.com/wiki/初探内海",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Inner Sea Primer",
+   "authors": "Colin McComb",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Inner Sea Primer",
+   "authors": "Colin McComb",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "初探探索者协会",
+  "url": "https://pf1.huijiwiki.com/wiki/初探探索者协会",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder Society Primer",
+   "authors": "John Compton、Mark Moreland",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Pathfinder Society Primer",
+   "authors": "John Compton、Mark Moreland",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "初探龙国",
+  "url": "https://pf1.huijiwiki.com/wiki/初探龙国",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Dragon Empires Primer",
+   "authors": "Colin McComb、Tim Hitchcock",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Dragon Empires Primer",
+   "authors": "Colin McComb、Tim Hitchcock",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "动物档案",
+  "url": "https://pf1.huijiwiki.com/wiki/动物档案",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Animal Archive",
+   "authors": "Amanda Hamon、Philip Minchin、Jason Nelson、Patrick Renie、Owen K.C. Stephens、Christina Stiles",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Animal Archive",
+   "authors": "Amanda Hamon、Philip Minchin、Jason Nelson、Patrick Renie、Owen K.C. Stephens、Christina Stiles",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "劫掠与险境",
+  "url": "https://pf1.huijiwiki.com/wiki/劫掠与险境",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Plunder & Peril",
+   "authors": "Matthew Goodall、Alex Greenshields、Steven Helt、Ben McFarland",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Plunder & Peril",
+   "authors": "Matthew Goodall、Alex Greenshields、Steven Helt、Ben McFarland",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "北地居民",
+  "url": "https://pf1.huijiwiki.com/wiki/北地居民",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "People of the North",
+   "authors": "Matthew Goodall、Shaun Hocking、Robert G. McCreary、Philip Minchin、William Thrasher",
+   "pages": "32"
+  },
+  "text": {
+   "en": "People of the North",
+   "authors": "Matthew Goodall、Shaun Hocking、Robert G. McCreary、Philip Minchin、William Thrasher",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "午夜之镜",
+  "url": "https://pf1.huijiwiki.com/wiki/午夜之镜",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "The Midnight Mirror",
+   "authors": "Sam Zeitlin",
+   "pages": "32"
+  },
+  "text": {
+   "en": "The Midnight Mirror",
+   "authors": "Sam Zeitlin",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "卡蒂亚，东方明珠",
+  "url": "https://pf1.huijiwiki.com/wiki/卡蒂亚，东方明珠",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Qadira, Jewel of the East",
+   "authors": "Jessica Price",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Qadira, Jewel of the East",
+   "authors": "Jessica Price",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "卡蒂亚，通向东方的大门",
+  "url": "https://pf1.huijiwiki.com/wiki/卡蒂亚，通向东方的大门",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Qadira, Gateway to the East",
+   "authors": "Brian Cortijo",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Qadira, Gateway to the East",
+   "authors": "Brian Cortijo",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "反英雄手册",
+  "url": "https://pf1.huijiwiki.com/wiki/反英雄手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Antihero's Handbook",
+   "authors": "Emily Brumfield、Violet Hargrave、Susann Hessen、Mikko Kallio、Lyz Liddell、Adrian Ng、Joe Pasini、Lu Pellazar、Kyle T. Raes、David N. Ross、Kendra Leigh Speedling",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Antihero's Handbook",
+   "authors": "Emily Brumfield、Violet Hargrave、Susann Hessen、Mikko Kallio、Lyz Liddell、Adrian Ng、Joe Pasini、Lu Pellazar、Kyle T. Raes、David N. Ross、Kendra Leigh Speedling",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "古国血脉",
+  "url": "https://pf1.huijiwiki.com/wiki/古国血脉",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Blood of the Ancients",
+   "authors": "John Compton、Vanessa Hoskins、James Jacobs、Mikko Kallio、Alex Riggs、Stephen Rowe、Jeffrey Swank",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Blood of the Ancients",
+   "authors": "John Compton、Vanessa Hoskins、James Jacobs、Mikko Kallio、Alex Riggs、Stephen Rowe、Jeffrey Swank",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "哈罗之劫",
+  "url": "https://pf1.huijiwiki.com/wiki/哈罗之劫",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "The Harrowing",
+   "authors": "Crystal Frasier",
+   "pages": "32"
+  },
+  "text": {
+   "en": "The Harrowing",
+   "authors": "Crystal Frasier",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "哈罗牌手册",
+  "url": "https://pf1.huijiwiki.com/wiki/哈罗牌手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "The Harrow Handbook",
+   "authors": "Crystal Frasier、Will McCardell、David Schwartz",
+   "pages": "32"
+  },
+  "text": {
+   "en": "The Harrow Handbook",
+   "authors": "Crystal Frasier、Will McCardell、David Schwartz",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "商人货单",
+  "url": "https://pf1.huijiwiki.com/wiki/商人货单",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Merchant's Manifest",
+   "authors": "John Compton、Eleanor Ferron、Thurston Hillman、Nathan King、Isabelle Thorne、Jacob W. Michaels、Adrian Ng、David N. Ross、Mike Welham",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Merchant's Manifest",
+   "authors": "John Compton、Eleanor Ferron、Thurston Hillman、Nathan King、Isabelle Thorne、Jacob W. Michaels、Adrian Ng、David N. Ross、Mike Welham",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "地城探险者手册",
+  "url": "https://pf1.huijiwiki.com/wiki/地城探险者手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Dungeoneer's Handbook",
+   "authors": "Amanda Hamon、Gareth Hanrahan、David N. Ross、Jerome Virnich",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Dungeoneer's Handbook",
+   "authors": "Amanda Hamon、Gareth Hanrahan、David N. Ross、Jerome Virnich",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "地狱叛军玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/地狱叛军玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Hell's Rebels Player's Guide",
+   "authors": "James Jacobs",
+   "pages": "34"
+  },
+  "text": {
+   "en": "Hell's Rebels Player's Guide",
+   "authors": "James Jacobs",
+   "pages": "34"
+  }
+ },
+ {
+  "title": "地狱复仇玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/地狱复仇玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Hell's Vengeance Player's Guide",
+   "authors": "Adam Daigle、Robert G. McCreary",
+   "pages": "20"
+  },
+  "text": {
+   "en": "Hell's Vengeance Player's Guide",
+   "authors": "Adam Daigle、Robert G. McCreary",
+   "pages": "20"
+  }
+ },
+ {
+  "title": "地狱横行",
+  "url": "https://pf1.huijiwiki.com/wiki/地狱横行",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Hell Unleashed",
+   "authors": "F. Wesley Schneider、Jerome Virnich",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Hell Unleashed",
+   "authors": "F. Wesley Schneider、Jerome Virnich",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "地狱骑士之道",
+  "url": "https://pf1.huijiwiki.com/wiki/地狱骑士之道",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Path of the Hellknight",
+   "authors": "F. Wesley Schneider",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Path of the Hellknight",
+   "authors": "F. Wesley Schneider",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "均衡信念",
+  "url": "https://pf1.huijiwiki.com/wiki/均衡信念",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Faiths of Balance",
+   "authors": "Colin McComb",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Faiths of Balance",
+   "authors": "Colin McComb",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "堕落信念",
+  "url": "https://pf1.huijiwiki.com/wiki/堕落信念",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Faiths of Corruption",
+   "authors": "Colin McComb",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Faiths of Corruption",
+   "authors": "Colin McComb",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "塌陷堡垒之主",
+  "url": "https://pf1.huijiwiki.com/wiki/塌陷堡垒之主",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Masters of the Fallen Fortress",
+   "authors": "Robert G. McCreary",
+   "pages": "16"
+  },
+  "text": {
+   "en": "Masters of the Fallen Fortress",
+   "authors": "Robert G. McCreary",
+   "pages": "16"
+  }
+ },
+ {
+  "title": "塔尔多，第一帝国",
+  "url": "https://pf1.huijiwiki.com/wiki/塔尔多，第一帝国",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Taldor, the First Empire",
+   "authors": "Mark Moreland",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Taldor, the First Empire",
+   "authors": "Mark Moreland",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "塔尔多，荣光荡漾之地",
+  "url": "https://pf1.huijiwiki.com/wiki/塔尔多，荣光荡漾之地",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Taldor, Echoes of Glory",
+   "authors": "Joshua J. Frost",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Taldor, Echoes of Glory",
+   "authors": "Joshua J. Frost",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "夜之摇篮(模组)",
+  "url": "https://pf1.huijiwiki.com/wiki/夜之摇篮(模组)",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Cradle of Night",
+   "authors": "James Jacobs、F. Wesley Schneider、Neil Spicer、Greg A. Vaughan",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Cradle of Night",
+   "authors": "James Jacobs、F. Wesley Schneider、Neil Spicer、Greg A. Vaughan",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "夜之血脉",
+  "url": "https://pf1.huijiwiki.com/wiki/夜之血脉",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Blood of the Night",
+   "authors": "Tork Shaw",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Blood of the Night",
+   "authors": "Tork Shaw",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "天堂降临",
+  "url": "https://pf1.huijiwiki.com/wiki/天堂降临",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Heaven Unleashed",
+   "authors": "Judy Bauer、Crystal Frasier、Jim Groves、Amanda Hamon、Jenny Jarzabski、Jason Keeley、Luis Loza、Ron Lundeen、Jessica Price",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Heaven Unleashed",
+   "authors": "Judy Bauer、Crystal Frasier、Jim Groves、Amanda Hamon、Jenny Jarzabski、Jason Keeley、Luis Loza、Ron Lundeen、Jessica Price",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "天界血脉",
+  "url": "https://pf1.huijiwiki.com/wiki/天界血脉",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Blood of Angels",
+   "authors": "Amber E. Scott",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Blood of Angels",
+   "authors": "Amber E. Scott",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "失落宝藏",
+  "url": "https://pf1.huijiwiki.com/wiki/失落宝藏",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Lost Treasures",
+   "authors": "Judy Bauer、Savannah Broadway、John Compton、Ron Lundeen、Levi Miles、Justin Riddler、F. Wesley Schneider、Mike Shel、Christina Stiles、James L. Sutter、Jerome Virnich",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Lost Treasures",
+   "authors": "Judy Bauer、Savannah Broadway、John Compton、Ron Lundeen、Levi Miles、Justin Riddler、F. Wesley Schneider、Mike Shel、Christina Stiles、James L. Sutter、Jerome Virnich",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "奇美拉湾的宝藏",
+  "url": "https://pf1.huijiwiki.com/wiki/奇美拉湾的宝藏",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Treasure of Chimera Cove",
+   "authors": "Anson Caralya",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Treasure of Chimera Cove",
+   "authors": "Anson Caralya",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "奈多，阴影之地",
+  "url": "https://pf1.huijiwiki.com/wiki/奈多，阴影之地",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Nidal, Land of Shadows",
+   "authors": "Liane Merciel",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Nidal, Land of Shadows",
+   "authors": "Liane Merciel",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "契约之石金字塔",
+  "url": "https://pf1.huijiwiki.com/wiki/契约之石金字塔",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "The Pact Stone Pyramid",
+   "authors": "Michael Kortes",
+   "pages": "32"
+  },
+  "text": {
+   "en": "The Pact Stone Pyramid",
+   "authors": "Michael Kortes",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "奥西里昂，法老的遗馈",
+  "url": "https://pf1.huijiwiki.com/wiki/奥西里昂，法老的遗馈",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Osirion, Legacy of the Pharaohs",
+   "authors": "Alex Greenshields、Amanda Hamon、Jonathan H. Keith、Ron Lundeen、David N. Ross",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Osirion, Legacy of the Pharaohs",
+   "authors": "Alex Greenshields、Amanda Hamon、Jonathan H. Keith、Ron Lundeen、David N. Ross",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "奥西里昂：法老之地",
+  "url": "https://pf1.huijiwiki.com/wiki/奥西里昂：法老之地",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Osirion, Land of the Pharaohs",
+   "authors": "Jason Nelson、Amber Stewart",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Osirion, Land of the Pharaohs",
+   "authors": "Jason Nelson、Amber Stewart",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "安多安，自由之魂",
+  "url": "https://pf1.huijiwiki.com/wiki/安多安，自由之魂",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Andoran, Spirit of Liberty",
+   "authors": "Jonathan H. Keith、Hal Maclean、Colin McComb、Jason Nelson、Hank Woon",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Andoran, Spirit of Liberty",
+   "authors": "Jonathan H. Keith、Hal Maclean、Colin McComb、Jason Nelson、Hank Woon",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "安多安：自由诞生之地",
+  "url": "https://pf1.huijiwiki.com/wiki/安多安：自由诞生之地",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Andoran, Birthplace of Freedom",
+   "authors": "Tim Hitchcock、Jason Nelson",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Andoran, Birthplace of Freedom",
+   "authors": "Tim Hitchcock、Jason Nelson",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "对立协调",
+  "url": "https://pf1.huijiwiki.com/wiki/对立协调",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Concordance of Rivals",
+   "authors": "John Compton、Crystal Frasier、Ron Lundeen、Amber Stewart",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Concordance of Rivals",
+   "authors": "John Compton、Crystal Frasier、Ron Lundeen、Amber Stewart",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "尖啸山庄之泪",
+  "url": "https://pf1.huijiwiki.com/wiki/尖啸山庄之泪",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Tears at Bitter Manor",
+   "authors": "Steven Helt",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Tears at Bitter Manor",
+   "authors": "Steven Helt",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "尘土盛宴",
+  "url": "https://pf1.huijiwiki.com/wiki/尘土盛宴",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Feast of Dust",
+   "authors": "Nicolas Logue",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Feast of Dust",
+   "authors": "Nicolas Logue",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "屠龙者手册",
+  "url": "https://pf1.huijiwiki.com/wiki/屠龙者手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Dragonslayer's Handbook",
+   "authors": "Shaun Hocking、Marie Small、Jerome Virnich",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Dragonslayer's Handbook",
+   "authors": "Shaun Hocking、Marie Small、Jerome Virnich",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "巨人再临",
+  "url": "https://pf1.huijiwiki.com/wiki/巨人再临",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Giants Revisited",
+   "authors": "Jesse Benner、Ryan Costello、Brian R. James、Jason Nelson、Russ Taylor、Ray Vallese",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Giants Revisited",
+   "authors": "Jesse Benner、Ryan Costello、Brian R. James、Jason Nelson、Russ Taylor、Ray Vallese",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "巨人杀手玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/巨人杀手玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Giantslayer Player's Guide",
+   "authors": "Adam Daigle、Robert G. McCreary",
+   "pages": "16"
+  },
+  "text": {
+   "en": "Giantslayer Player's Guide",
+   "authors": "Adam Daigle、Robert G. McCreary",
+   "pages": "16"
+  }
+ },
+ {
+  "title": "巨人猎手手册",
+  "url": "https://pf1.huijiwiki.com/wiki/巨人猎手手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Giant Hunter's Handbook",
+   "authors": "Alexander Augunas、Luis Loza、Ron Lundeen、David N. Ross",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Giant Hunter's Handbook",
+   "authors": "Alexander Augunas、Luis Loza、Ron Lundeen、David N. Ross",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "巨龙再临",
+  "url": "https://pf1.huijiwiki.com/wiki/巨龙再临",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Dragons Revisited",
+   "authors": "Mike McArtor",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Dragons Revisited",
+   "authors": "Mike McArtor",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "巨龙的索求",
+  "url": "https://pf1.huijiwiki.com/wiki/巨龙的索求",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "The Dragon's Demand",
+   "authors": "Mike Shel",
+   "pages": "64"
+  },
+  "text": {
+   "en": "The Dragon's Demand",
+   "authors": "Mike Shel",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "巨龙遗产",
+  "url": "https://pf1.huijiwiki.com/wiki/巨龙遗产",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Legacy of Dragons",
+   "authors": "Alexander Augunas、Robert Brookes、Thurston Hillman、Michelle Jones、Mikko Kallio、Mark Seifter",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Legacy of Dragons",
+   "authors": "Alexander Augunas、Robert Brookes、Thurston Hillman、Michelle Jones、Mikko Kallio、Mark Seifter",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "巫团血脉",
+  "url": "https://pf1.huijiwiki.com/wiki/巫团血脉",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Blood of the Coven",
+   "authors": "John Compton、Eleanor Ferron、Crystal Frasier、Lissa Guillet、Elisa Mader、Adrian Ng、Mark Seifter、Linda Zayas-Palmer",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Blood of the Coven",
+   "authors": "John Compton、Eleanor Ferron、Crystal Frasier、Lissa Guillet、Elisa Mader、Adrian Ng、Mark Seifter、Linda Zayas-Palmer",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "巫战遗产",
+  "url": "https://pf1.huijiwiki.com/wiki/巫战遗产",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "The Witchwar Legacy",
+   "authors": "Greg A. Vaughan",
+   "pages": "32"
+  },
+  "text": {
+   "en": "The Witchwar Legacy",
+   "authors": "Greg A. Vaughan",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "市井英雄",
+  "url": "https://pf1.huijiwiki.com/wiki/市井英雄",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Heroes of the Streets",
+   "authors": "John Compton、Mikko Kallio、Nicolas Logue、Michael McCarthy、Mike Myler、David N. Ross",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Heroes of the Streets",
+   "authors": "John Compton、Mikko Kallio、Nicolas Logue、Michael McCarthy、Mike Myler、David N. Ross",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "平衡勇士",
+  "url": "https://pf1.huijiwiki.com/wiki/平衡勇士",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Champions of Balance",
+   "authors": "Matthew Goodall、Ron Lundeen、Philip Minchin、Patrick Renie、Jason Ridler、David Schwartz",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Champions of Balance",
+   "authors": "Matthew Goodall、Ron Lundeen、Philip Minchin、Patrick Renie、Jason Ridler、David Schwartz",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "幽暗地域英雄",
+  "url": "https://pf1.huijiwiki.com/wiki/幽暗地域英雄",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Heroes of the Darklands",
+   "authors": "Robert Brookes、Eleanor Ferron、Michelle Jones、Alex Riggs、Nicholas Wasko",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Heroes of the Darklands",
+   "authors": "Robert Brookes、Eleanor Ferron、Michelle Jones、Alex Riggs、Nicholas Wasko",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "废土子民",
+  "url": "https://pf1.huijiwiki.com/wiki/废土子民",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "People of the Wastes",
+   "authors": "Logan Bonner、John Compton、Nathan King、Luis Loza、Christopher Wasko、Linda Zayas-Palmer",
+   "pages": "32"
+  },
+  "text": {
+   "en": "People of the Wastes",
+   "authors": "Logan Bonner、John Compton、Nathan King、Luis Loza、Christopher Wasko、Linda Zayas-Palmer",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "开拓者在线：荆棘堡",
+  "url": "https://pf1.huijiwiki.com/wiki/开拓者在线：荆棘堡",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Thornkeep",
+   "authors": "Richard Baker、Jason Bulmahn、Ed Greenwood、James Jacobs、Erik Mona、Goblinworks Staff",
+   "pages": "96"
+  },
+  "text": {
+   "en": "Thornkeep",
+   "authors": "Richard Baker、Jason Bulmahn、Ed Greenwood、James Jacobs、Erik Mona、Goblinworks Staff",
+   "pages": "96"
+  }
+ },
+ {
+  "title": "异乡人之城",
+  "url": "https://pf1.huijiwiki.com/wiki/异乡人之城",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "City of Strangers",
+   "authors": "James L. Sutter",
+   "pages": "64"
+  },
+  "text": {
+   "en": "City of Strangers",
+   "authors": "James L. Sutter",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "异类怪物的救赎",
+  "url": "https://pf1.huijiwiki.com/wiki/异类怪物的救赎",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Misfit Monsters Redeemed",
+   "authors": "Colin McComb、Robert G. McCreary、James L. Sutter",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Misfit Monsters Redeemed",
+   "authors": "Colin McComb、Robert G. McCreary、James L. Sutter",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "异能冒险",
+  "url": "https://pf1.huijiwiki.com/wiki/异能冒险",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Occult Adventures",
+   "authors": "Jason Bulmahn、Logan Bonner、Stephen Radney-MacFarland、Mark Seifter",
+   "pages": "271"
+  },
+  "text": {
+   "en": "Occult Adventures",
+   "authors": "Jason Bulmahn、Logan Bonner、Stephen Radney-MacFarland、Mark Seifter",
+   "pages": "271"
+  }
+ },
+ {
+  "title": "异能国度",
+  "url": "https://pf1.huijiwiki.com/wiki/异能国度",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Occult Realms",
+   "authors": "Robert Brookes、Thurston Hillman、Brandon Hodge、Thomas M. Reid、Mark Seifter",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Occult Realms",
+   "authors": "Robert Brookes、Thurston Hillman、Brandon Hodge、Thomas M. Reid、Mark Seifter",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "异能奥秘",
+  "url": "https://pf1.huijiwiki.com/wiki/异能奥秘",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Occult Mysteries",
+   "authors": "Jason Bulmahn",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Occult Mysteries",
+   "authors": "Jason Bulmahn",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "异能怪物图鉴",
+  "url": "https://pf1.huijiwiki.com/wiki/异能怪物图鉴",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Occult Bestiary",
+   "authors": "Josh Colon、John Compton、Paris Crenshaw、Adam Daigle、Eleanor Ferron、James Jacobs、Joe Homes、Mikko Kallio、Mike Kimmel、Ron Lundeen、Kate Marshall、Kalervo Oikarinen、Stephen Radney-MacFarland、F. Wesley Schneider",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Occult Bestiary",
+   "authors": "Josh Colon、John Compton、Paris Crenshaw、Adam Daigle、Eleanor Ferron、James Jacobs、Joe Homes、Mikko Kallio、Mike Kimmel、Ron Lundeen、Kate Marshall、Kalervo Oikarinen、Stephen Radney-MacFarland、F. Wesley Schneider",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "异能源始",
+  "url": "https://pf1.huijiwiki.com/wiki/异能源始",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Occult Origins",
+   "authors": "Robert Brookes、Ben McFarland、Jason Nelson、Mark Seifter",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Occult Origins",
+   "authors": "Robert Brookes、Ben McFarland、Jason Nelson、Mark Seifter",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "异能选集",
+  "url": "https://pf1.huijiwiki.com/wiki/异能选集",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Psychic Anthology",
+   "authors": "Alexander Augunas、Isabelle Thorne、Luis Loza、Alex Riggs、Mark Seifter、Loren Sieg、Jeremy Smith",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Psychic Anthology",
+   "authors": "Alexander Augunas、Isabelle Thorne、Luis Loza、Alex Riggs、Mark Seifter、Loren Sieg、Jeremy Smith",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "弑君者之战",
+  "url": "https://pf1.huijiwiki.com/wiki/弑君者之战",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Clash of the Kingslayers",
+   "authors": "Christine Schneider",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Clash of the Kingslayers",
+   "authors": "Christine Schneider",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "征服血誓谷",
+  "url": "https://pf1.huijiwiki.com/wiki/征服血誓谷",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Conquest of Bloodsworn Vale",
+   "authors": "Jason Bulmahn",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Conquest of Bloodsworn Vale",
+   "authors": "Jason Bulmahn",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "心中之魔",
+  "url": "https://pf1.huijiwiki.com/wiki/心中之魔",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "The Demon Within",
+   "authors": "Stephen S. Greer、Tim Hitchcock",
+   "pages": "32"
+  },
+  "text": {
+   "en": "The Demon Within",
+   "authors": "Stephen S. Greer、Tim Hitchcock",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "怪物召唤者手册",
+  "url": "https://pf1.huijiwiki.com/wiki/怪物召唤者手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Monster Summoner's Handbook",
+   "authors": "Alexander Augunas、Tyler Beck、Anthony Li、Luis Loza、David N. Ross、Owen K.C. Stephens、Linda Zayas-Palmer",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Monster Summoner's Handbook",
+   "authors": "Alexander Augunas、Tyler Beck、Anthony Li、Luis Loza、David N. Ross、Owen K.C. Stephens、Linda Zayas-Palmer",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "怪物图鉴",
+  "url": "https://pf1.huijiwiki.com/wiki/怪物图鉴",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Bestiary",
+   "authors": "Jason Bulmahn、Brian Cortijo、Adam Daigle、Mike Ferguson、Joshua J. Frost、James Jacobs、Robert G. McCreary、Erik Mona、Sean K Reynolds、F. Wesley Schneider、Lisa Stevens、James L. Sutter、Greg A. Vaughan",
+   "pages": "328"
+  },
+  "text": {
+   "en": "Bestiary",
+   "authors": "Jason Bulmahn、Brian Cortijo、Adam Daigle、Mike Ferguson、Joshua J. Frost、James Jacobs、Robert G. McCreary、Erik Mona、Sean K Reynolds、F. Wesley Schneider、Lisa Stevens、James L. Sutter、Greg A. Vaughan",
+   "pages": "328"
+  }
+ },
+ {
+  "title": "怪物图鉴2",
+  "url": "https://pf1.huijiwiki.com/wiki/怪物图鉴2",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Bestiary 2",
+   "authors": "Jason Bulmahn、Wolfgang Baur、Adam Daigle、Graeme Davis、Crystal Frasier、Joshua J. Frost、Tim Hitchcock、Brandon Hodge、James Jacobs、Steve Kenson、Hal Maclean、Martin Mason、Robert G. McCreary、Erik Mona、Jason Nelson、Patrick Renie、Sean K Reynolds、F. Wesley Schneider、Owen K.C. Stephens、James L. Sutter、Russ Taylor、Greg A. Vaughan",
+   "pages": "320"
+  },
+  "text": {
+   "en": "Bestiary 2",
+   "authors": "Jason Bulmahn、Wolfgang Baur、Adam Daigle、Graeme Davis、Crystal Frasier、Joshua J. Frost、Tim Hitchcock、Brandon Hodge、James Jacobs、Steve Kenson、Hal Maclean、Martin Mason、Robert G. McCreary、Erik Mona、Jason Nelson、Patrick Renie、Sean K Reynolds、F. Wesley Schneider、Owen K.C. Stephens、James L. Sutter、Russ Taylor、Greg A. Vaughan",
+   "pages": "320"
+  }
+ },
+ {
+  "title": "怪物图鉴3",
+  "url": "https://pf1.huijiwiki.com/wiki/怪物图鉴3",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Bestiary 3",
+   "authors": "Jason Bulmahn、Jesse Benner、Adam Daigle、James Jacobs、Michael Kenway、Robert G. McCreary、Patrick Renie、Chris S. Sims、F. Wesley Schneider、James L. Sutter、Russ Taylor",
+   "pages": "320"
+  },
+  "text": {
+   "en": "Bestiary 3",
+   "authors": "Jason Bulmahn、Jesse Benner、Adam Daigle、James Jacobs、Michael Kenway、Robert G. McCreary、Patrick Renie、Chris S. Sims、F. Wesley Schneider、James L. Sutter、Russ Taylor",
+   "pages": "320"
+  }
+ },
+ {
+  "title": "怪物图鉴4",
+  "url": "https://pf1.huijiwiki.com/wiki/怪物图鉴4",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Bestiary 4",
+   "authors": "Dennis Baker、Jesse Benner、Savannah Broadway、Ross Byers、Adam Daigle、Tim Hitchcock、Tracy Hurley、James Jacobs、Matt James、Robert G. McCreary、Jason Nelson、Tom Phillips、Stephen Radney-MacFarland、Sean K Reynolds、F. Wesley Schneider、Tork Shaw、Russ Taylor",
+   "pages": "320"
+  },
+  "text": {
+   "en": "Bestiary 4",
+   "authors": "Dennis Baker、Jesse Benner、Savannah Broadway、Ross Byers、Adam Daigle、Tim Hitchcock、Tracy Hurley、James Jacobs、Matt James、Robert G. McCreary、Jason Nelson、Tom Phillips、Stephen Radney-MacFarland、Sean K Reynolds、F. Wesley Schneider、Tork Shaw、Russ Taylor",
+   "pages": "320"
+  }
+ },
+ {
+  "title": "怪物图鉴5",
+  "url": "https://pf1.huijiwiki.com/wiki/怪物图鉴5",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Bestiary 5",
+   "authors": "Jason Bulmahn",
+   "pages": "320"
+  },
+  "text": {
+   "en": "Bestiary 5",
+   "authors": "Jason Bulmahn",
+   "pages": "320"
+  }
+ },
+ {
+  "title": "怪物图鉴6",
+  "url": "https://pf1.huijiwiki.com/wiki/怪物图鉴6",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Bestiary 6",
+   "pages": "320"
+  },
+  "text": {
+   "en": "Bestiary 6",
+   "pages": "320"
+  }
+ },
+ {
+  "title": "怪物志",
+  "url": "https://pf1.huijiwiki.com/wiki/怪物志",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Monster Codex",
+   "authors": "Dennis Baker、Jesse Benner、Logan Bonner",
+   "pages": "256"
+  },
+  "text": {
+   "en": "Monster Codex",
+   "authors": "Dennis Baker、Jesse Benner、Logan Bonner",
+   "pages": "256"
+  }
+ },
+ {
+  "title": "怪物猎人手册",
+  "url": "https://pf1.huijiwiki.com/wiki/怪物猎人手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Monster Hunter's Handbook",
+   "authors": "Eric Hindley、Mikko Kallio、Luis Loza、Christopher Wasko",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Monster Hunter's Handbook",
+   "authors": "Eric Hindley、Mikko Kallio、Luis Loza、Christopher Wasko",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "恐惧统治",
+  "url": "https://pf1.huijiwiki.com/wiki/恐惧统治",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Rule of Fear",
+   "authors": "F. Wesley Schneider",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Rule of Fear",
+   "authors": "F. Wesley Schneider",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "恶棍志",
+  "url": "https://pf1.huijiwiki.com/wiki/恶棍志",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Villain Codex",
+   "authors": "Alexander Augunas、Logan Bonner、Paris Crenshaw、Dan Dillon、Crystal Frasier、Amanda Hamon、Eric Hindley、Mikko Kallio、Dale C. McCoy、Jr.、Stephen Radney-MacFarland、Thomas M. Reid、Alistair Rigg、Alex Riggs、Mark Seifter、Linda Zayas-Palmer",
+   "pages": "256"
+  },
+  "text": {
+   "en": "Villain Codex",
+   "authors": "Alexander Augunas、Logan Bonner、Paris Crenshaw、Dan Dillon、Crystal Frasier、Amanda Hamon、Eric Hindley、Mikko Kallio、Dale C. McCoy、Jr.、Stephen Radney-MacFarland、Thomas M. Reid、Alistair Rigg、Alex Riggs、Mark Seifter、Linda Zayas-Palmer",
+   "pages": "256"
+  }
+ },
+ {
+  "title": "恶魔猎人手册",
+  "url": "https://pf1.huijiwiki.com/wiki/恶魔猎人手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Demon Hunter's Handbook",
+   "authors": "Philip Minchin、F. Wesley Schneider、Jerome Virnich",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Demon Hunter's Handbook",
+   "authors": "Philip Minchin、F. Wesley Schneider、Jerome Virnich",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "惧怖冒险",
+  "url": "https://pf1.huijiwiki.com/wiki/惧怖冒险",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Horror Adventures",
+   "authors": "Jason Bulmahn",
+   "pages": "256"
+  },
+  "text": {
+   "en": "Horror Adventures",
+   "authors": "Jason Bulmahn",
+   "pages": "256"
+  }
+ },
+ {
+  "title": "惧怖国度",
+  "url": "https://pf1.huijiwiki.com/wiki/惧怖国度",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Horror Realms",
+   "authors": "Thurston Hillman、Tim Hitchcock、James Jacobs、Patrick Renie、David N. Ross、Linda Zayas-Palmer",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Horror Realms",
+   "authors": "Thurston Hillman、Tim Hitchcock、James Jacobs、Patrick Renie、David N. Ross、Linda Zayas-Palmer",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "我们地精也来啦！",
+  "url": "https://pf1.huijiwiki.com/wiki/我们地精也来啦！",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "We Be Goblins Too!",
+   "authors": "Richard Pett",
+   "pages": "16"
+  },
+  "text": {
+   "en": "We Be Goblins Too!",
+   "authors": "Richard Pett",
+   "pages": "16"
+  }
+ },
+ {
+  "title": "我们地精从前啦！",
+  "url": "https://pf1.huijiwiki.com/wiki/我们地精从前啦！",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "We B4 Goblins!",
+   "authors": "Crystal Frasier",
+   "pages": "16"
+  },
+  "text": {
+   "en": "We B4 Goblins!",
+   "authors": "Crystal Frasier",
+   "pages": "16"
+  }
+ },
+ {
+  "title": "我们地精来啦！",
+  "url": "https://pf1.huijiwiki.com/wiki/我们地精来啦！",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "We Be Goblins!",
+   "authors": "Richard Pett",
+   "pages": "16"
+  },
+  "text": {
+   "en": "We Be Goblins!",
+   "authors": "Richard Pett",
+   "pages": "16"
+  }
+ },
+ {
+  "title": "我们地精自由啦！",
+  "url": "https://pf1.huijiwiki.com/wiki/我们地精自由啦！",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "We Be Goblins Free!",
+   "authors": "Richard Pett",
+   "pages": "16"
+  },
+  "text": {
+   "en": "We Be Goblins Free!",
+   "authors": "Richard Pett",
+   "pages": "16"
+  }
+ },
+ {
+  "title": "护甲大师手册",
+  "url": "https://pf1.huijiwiki.com/wiki/护甲大师手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Armor Master's Handbook",
+   "authors": "Alexander Augunas、Robert Brookes、Anthony Li、David Schwartz、Luis Loza",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Armor Master's Handbook",
+   "authors": "Alexander Augunas、Robert Brookes、Anthony Li、David Schwartz、Luis Loza",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "拉文莫尔的盛宴",
+  "url": "https://pf1.huijiwiki.com/wiki/拉文莫尔的盛宴",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Feast of Ravenmoor",
+   "authors": "Brandon Hodge",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Feast of Ravenmoor",
+   "authors": "Brandon Hodge",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "拥王者玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/拥王者玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Kingmaker Player's Guide",
+   "authors": "James Jacobs、Mark Moreland、F. Wesley Schneider",
+   "pages": "16"
+  },
+  "text": {
+   "en": "Kingmaker Player's Guide",
+   "authors": "James Jacobs、Mark Moreland、F. Wesley Schneider",
+   "pages": "16"
+  }
+ },
+ {
+  "title": "探索者协会战地指南",
+  "url": "https://pf1.huijiwiki.com/wiki/探索者协会战地指南",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder Society Field Guide",
+   "authors": "Erik Mona、Mark Moreland、Russ Taylor、Larry Wilhelm",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Pathfinder Society Field Guide",
+   "authors": "Erik Mona、Mark Moreland、Russ Taylor、Larry Wilhelm",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "探索者协会组织游戏指南",
+  "url": "https://pf1.huijiwiki.com/wiki/探索者协会组织游戏指南",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "PFS Guide to Organized Play",
+   "authors": "John Compton、Michael Sayre、Tonya Woldridge、Linda Zayas-Palmer"
+  },
+  "text": {
+   "en": "PFS Guide to Organized Play",
+   "authors": "John Compton、Michael Sayre、Tonya Woldridge、Linda Zayas-Palmer"
+  }
+ },
+ {
+  "title": "探索者协会组织游戏指南6.0",
+  "url": "https://pf1.huijiwiki.com/wiki/探索者协会组织游戏指南6.0",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "PFS Guide to Organized Play 6.0",
+   "authors": "John Compton、Michael Sayre、Tonya Woldridge、Linda Zayas-Palmer"
+  },
+  "text": {
+   "en": "PFS Guide to Organized Play 6.0",
+   "authors": "John Compton、Michael Sayre、Tonya Woldridge、Linda Zayas-Palmer"
+  }
+ },
+ {
+  "title": "探索者漫画10",
+  "url": "https://pf1.huijiwiki.com/wiki/探索者漫画10",
+  "template": "书页",
+  "ai": false,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder Comics:10"
+  },
+  "text": {
+   "en": "Pathfinder Comics:10"
+  }
+ },
+ {
+  "title": "探索者编年史：战役设定",
+  "url": "https://pf1.huijiwiki.com/wiki/探索者编年史：战役设定",
+  "template": "书页",
+  "ai": false,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder Campaign Setting"
+  },
+  "text": {
+   "en": "Pathfinder Campaign Setting"
+  }
+ },
+ {
+  "title": "探索者：世界之境1",
+  "url": "https://pf1.huijiwiki.com/wiki/探索者：世界之境1",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder: Worldscape #1",
+   "authors": "Erik Mona",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Pathfinder: Worldscape #1",
+   "authors": "Erik Mona",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "探索者：螺旋之骨3",
+  "url": "https://pf1.huijiwiki.com/wiki/探索者：螺旋之骨3",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder: Spiral of Bones #3",
+   "authors": "Crystal Frasier",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Pathfinder: Spiral of Bones #3",
+   "authors": "Crystal Frasier",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "敌手指南",
+  "url": "https://pf1.huijiwiki.com/wiki/敌手指南",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Rival Guide",
+   "authors": "Brandon Hodge、Colin McComb、Jason Nelson",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Rival Guide",
+   "authors": "Brandon Hodge、Colin McComb、Jason Nelson",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "断裂的锁链",
+  "url": "https://pf1.huijiwiki.com/wiki/断裂的锁链",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Broken Chains",
+   "authors": "Tim Hitchcock",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Broken Chains",
+   "authors": "Tim Hitchcock",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "暗月谷指南",
+  "url": "https://pf1.huijiwiki.com/wiki/暗月谷指南",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Guide to Darkmoon Vale",
+   "authors": "Mike McArtor",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Guide to Darkmoon Vale",
+   "authors": "Mike McArtor",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "暴君魔爪玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/暴君魔爪玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Tyrant's Grasp Player's Guide",
+   "authors": "Crystal Frasier",
+   "pages": "9"
+  },
+  "text": {
+   "en": "Tyrant's Grasp Player's Guide",
+   "authors": "Crystal Frasier",
+   "pages": "9"
+  }
+ },
+ {
+  "title": "月之伤疤",
+  "url": "https://pf1.huijiwiki.com/wiki/月之伤疤",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "The Moonscar",
+   "authors": "Richard Pett",
+   "pages": "32"
+  },
+  "text": {
+   "en": "The Moonscar",
+   "authors": "Richard Pett",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "月之血脉",
+  "url": "https://pf1.huijiwiki.com/wiki/月之血脉",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Blood of the Moon",
+   "authors": "Tim Akers、Adam Daigle、Neal F. Litherland、David N. Ross、Tork Shaw",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Blood of the Moon",
+   "authors": "Tim Akers、Adam Daigle、Neal F. Litherland、David N. Ross、Tork Shaw",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "木乃伊的面具玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/木乃伊的面具玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Mummy's Mask Player's Guide",
+   "authors": "Adam Daigle、Robert G. McCreary",
+   "pages": "14"
+  },
+  "text": {
+   "en": "Mummy's Mask Player's Guide",
+   "authors": "Adam Daigle、Robert G. McCreary",
+   "pages": "14"
+  }
+ },
+ {
+  "title": "末代男爵之塔",
+  "url": "https://pf1.huijiwiki.com/wiki/末代男爵之塔",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Tower of the Last Baron",
+   "authors": "Stephen S. Greer",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Tower of the Last Baron",
+   "authors": "Stephen S. Greer",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "末日降临尘爪镇",
+  "url": "https://pf1.huijiwiki.com/wiki/末日降临尘爪镇",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Doom Comes to Dustpawn",
+   "authors": "Mike Welham",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Doom Comes to Dustpawn",
+   "authors": "Mike Welham",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "杜鲁玛，利益与预言",
+  "url": "https://pf1.huijiwiki.com/wiki/杜鲁玛，利益与预言",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Druma, Profit and Prophecy",
+   "authors": "John Compton、Thurston Hillman",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Druma, Profit and Prophecy",
+   "authors": "John Compton、Thurston Hillman",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "极限宝具",
+  "url": "https://pf1.huijiwiki.com/wiki/极限宝具",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Ultimate Equipment",
+   "authors": "Jason Bulmahn、Stephen Radney-MacFarland、Sean K Reynolds",
+   "pages": "400"
+  },
+  "text": {
+   "en": "Ultimate Equipment",
+   "authors": "Jason Bulmahn、Stephen Radney-MacFarland、Sean K Reynolds",
+   "pages": "400"
+  }
+ },
+ {
+  "title": "极限战役",
+  "url": "https://pf1.huijiwiki.com/wiki/极限战役",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Ultimate Campaign",
+   "authors": "Jesse Benner、Benjamin Bruck、Jason Bulmahn、Ryan Costello、Adam Daigle、Matthew Goetz、Tim Hitchcock、James Jacobs、Ryan Macklin、Colin McComb、Jason Nelson、Richard Pett、Stephen Radney-MacFarland、Patrick Renie、Sean K Reynolds、F. Wesley Schneider、James L. Sutter、Russ Taylor、Steven Townshend",
+   "pages": "256"
+  },
+  "text": {
+   "en": "Ultimate Campaign",
+   "authors": "Jesse Benner、Benjamin Bruck、Jason Bulmahn、Ryan Costello、Adam Daigle、Matthew Goetz、Tim Hitchcock、James Jacobs、Ryan Macklin、Colin McComb、Jason Nelson、Richard Pett、Stephen Radney-MacFarland、Patrick Renie、Sean K Reynolds、F. Wesley Schneider、James L. Sutter、Russ Taylor、Steven Townshend",
+   "pages": "256"
+  }
+ },
+ {
+  "title": "极限战斗",
+  "url": "https://pf1.huijiwiki.com/wiki/极限战斗",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Ultimate Combat",
+   "authors": "Jason Bulmahn、Dennis Baker、Jesse Benner、Benjamin Bruck、Brian Cortijo、Jim Groves、Tim Hitchcock、Richard A. Hunt、Colin McComb、Jason Nelson、Tom Phillips、Patrick Renie、Sean K Reynolds、Russ Taylor",
+   "pages": "256"
+  },
+  "text": {
+   "en": "Ultimate Combat",
+   "authors": "Jason Bulmahn、Dennis Baker、Jesse Benner、Benjamin Bruck、Brian Cortijo、Jim Groves、Tim Hitchcock、Richard A. Hunt、Colin McComb、Jason Nelson、Tom Phillips、Patrick Renie、Sean K Reynolds、Russ Taylor",
+   "pages": "256"
+  }
+ },
+ {
+  "title": "极限荒野",
+  "url": "https://pf1.huijiwiki.com/wiki/极限荒野",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Ultimate Wilderness",
+   "authors": "Paizo Inc.",
+   "pages": "256"
+  },
+  "text": {
+   "en": "Ultimate Wilderness",
+   "authors": "Paizo Inc.",
+   "pages": "256"
+  }
+ },
+ {
+  "title": "极限诡道",
+  "url": "https://pf1.huijiwiki.com/wiki/极限诡道",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Ultimate Intrigue",
+   "authors": "Jason Bulmahn",
+   "pages": "256"
+  },
+  "text": {
+   "en": "Ultimate Intrigue",
+   "authors": "Jason Bulmahn",
+   "pages": "256"
+  }
+ },
+ {
+  "title": "极限魔法",
+  "url": "https://pf1.huijiwiki.com/wiki/极限魔法",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Ultimate Magic",
+   "authors": "Jason Bulmahn、Tim Hitchcock、Colin McComb、Robert G. McCreary、Jason Nelson、Stephen Radney-MacFarland、Sean K Reynolds、Owen K.C. Stephens、Russ Taylor",
+   "pages": "256"
+  },
+  "text": {
+   "en": "Ultimate Magic",
+   "authors": "Jason Bulmahn、Tim Hitchcock、Colin McComb、Robert G. McCreary、Jason Nelson、Stephen Radney-MacFarland、Sean K Reynolds、Owen K.C. Stephens、Russ Taylor",
+   "pages": "256"
+  }
+ },
+ {
+  "title": "构装体手册",
+  "url": "https://pf1.huijiwiki.com/wiki/构装体手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Construct Handbook",
+   "authors": "Brian Duckwitz、Vanessa Hoskins、Nathan King、Kris Leonard、Luis Loza、Adrian Ng、Tom Phillips、Alex Riggs、Nicholas Wasko",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Construct Handbook",
+   "authors": "Brian Duckwitz、Vanessa Hoskins、Nathan King、Kris Leonard、Luis Loza、Adrian Ng、Tom Phillips、Alex Riggs、Nicholas Wasko",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "林诺姆诸王之国",
+  "url": "https://pf1.huijiwiki.com/wiki/林诺姆诸王之国",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Lands of the Linnorm Kings",
+   "authors": "Matthew Goodall、Jonathan H. Keith、Colin McComb、Robert G. McCreary",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Lands of the Linnorm Kings",
+   "authors": "Matthew Goodall、Jonathan H. Keith、Colin McComb、Robert G. McCreary",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "核心规则书",
+  "url": "https://pf1.huijiwiki.com/wiki/核心规则书",
+  "template": "书页",
+  "ai": false,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Core Rulebook",
+   "authors": "Jason Bulmahn、Monte Cook、James Jacobs、Sean K Reynolds、F. Wesley Schneider、Tim Connors、Liz Courts、Adam Daigle、David Eitelbach、Greg Oppedisano、Hank Woon",
+   "pages": "576"
+  },
+  "text": {
+   "en": "Core Rulebook",
+   "authors": "Jason Bulmahn、Monte Cook、James Jacobs、Sean K Reynolds、F. Wesley Schneider、Tim Connors、Liz Courts、Adam Daigle、David Eitelbach、Greg Oppedisano、Hank Woon",
+   "pages": "576"
+  }
+ },
+ {
+  "title": "格拉利昂的侏儒",
+  "url": "https://pf1.huijiwiki.com/wiki/格拉利昂的侏儒",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Gnomes of Golarion",
+   "authors": "Colin McComb、Steven Schend、Sean K Reynolds、Owen K.C. Stephens、Mark Moreland、Jeff Quick、Hal Maclean",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Gnomes of Golarion",
+   "authors": "Colin McComb、Steven Schend、Sean K Reynolds、Owen K.C. Stephens、Mark Moreland、Jeff Quick、Hal Maclean",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "格拉利昂的信仰",
+  "url": "https://pf1.huijiwiki.com/wiki/格拉利昂的信仰",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Faiths of Golarion",
+   "authors": "Kate Baker、John Compton、Adam Daigle、Crystal Frasier、Ron Lundeen、Liane Merciel、Michael Sayre、Owen K.C. Stephens",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Faiths of Golarion",
+   "authors": "Kate Baker、John Compton、Adam Daigle、Crystal Frasier、Ron Lundeen、Liane Merciel、Michael Sayre、Owen K.C. Stephens",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "格拉利昂的兽人",
+  "url": "https://pf1.huijiwiki.com/wiki/格拉利昂的兽人",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Orcs of Golarion",
+   "authors": "Steve Kenson、Robert G. McCreary、Richard Pett、Sean K Reynolds、JD Wiker",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Orcs of Golarion",
+   "authors": "Steve Kenson、Robert G. McCreary、Richard Pett、Sean K Reynolds、JD Wiker",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "格拉利昂的半身人",
+  "url": "https://pf1.huijiwiki.com/wiki/格拉利昂的半身人",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Halflings of Golarion",
+   "authors": "Hal Maclean、Amber E. Scott",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Halflings of Golarion",
+   "authors": "Hal Maclean、Amber E. Scott",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "格拉利昂的地城",
+  "url": "https://pf1.huijiwiki.com/wiki/格拉利昂的地城",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Dungeons of Golarion",
+   "authors": "Jason Bulmahn、Brandon Hodge、Anthony Pryor",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Dungeons of Golarion",
+   "authors": "Jason Bulmahn、Brandon Hodge、Anthony Pryor",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "格拉利昂的地精",
+  "url": "https://pf1.huijiwiki.com/wiki/格拉利昂的地精",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Goblins of Golarion",
+   "authors": "Richard Pett",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Goblins of Golarion",
+   "authors": "Richard Pett",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "格拉利昂的城市",
+  "url": "https://pf1.huijiwiki.com/wiki/格拉利昂的城市",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Cities of Golarion",
+   "authors": "Joshua J. Frost、Tim Hitchcock、Jonathan H. Keith、Robert G. McCreary、Jason Nelson、Jeff Quick",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Cities of Golarion",
+   "authors": "Joshua J. Frost、Tim Hitchcock、Jonathan H. Keith、Robert G. McCreary、Jason Nelson、Jeff Quick",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "格拉利昂的失落之城",
+  "url": "https://pf1.huijiwiki.com/wiki/格拉利昂的失落之城",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Lost Cities of Golarion",
+   "authors": "Tim Hitchcock、Michael Kortes、Jason Nelson",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Lost Cities of Golarion",
+   "authors": "Tim Hitchcock、Michael Kortes、Jason Nelson",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "格拉利昂的混种",
+  "url": "https://pf1.huijiwiki.com/wiki/格拉利昂的混种",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Bastards of Golarion",
+   "authors": "Judy Bauer、Neal F. Litherland、Ryan Macklin、David N. Ross",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Bastards of Golarion",
+   "authors": "Judy Bauer、Neal F. Litherland、Ryan Macklin、David N. Ross",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "格拉利昂的狗头人",
+  "url": "https://pf1.huijiwiki.com/wiki/格拉利昂的狗头人",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Kobolds of Golarion",
+   "authors": "Tork Shaw、Mat Smith、Jerome Virnich",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Kobolds of Golarion",
+   "authors": "Tork Shaw、Mat Smith、Jerome Virnich",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "格拉利昂的矮人",
+  "url": "https://pf1.huijiwiki.com/wiki/格拉利昂的矮人",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Dwarves of Golarion",
+   "authors": "David Eitelbach、Russ Taylor、JD Wiker、Keri Wiker、Hank Woon",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Dwarves of Golarion",
+   "authors": "David Eitelbach、Russ Taylor、JD Wiker、Keri Wiker、Hank Woon",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "格拉利昂的精灵",
+  "url": "https://pf1.huijiwiki.com/wiki/格拉利昂的精灵",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Elves of Golarion",
+   "authors": "Hal Maclean、Jeff Quick",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Elves of Golarion",
+   "authors": "Hal Maclean、Jeff Quick",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "格拉利昂的英雄",
+  "url": "https://pf1.huijiwiki.com/wiki/格拉利昂的英雄",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Heroes of Golarion",
+   "authors": "Saif Ansari、Alexander Augunas、Mara Lynn Butler、Michelle Jones、Avi Kool、Alex Riggs",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Heroes of Golarion",
+   "authors": "Saif Ansari、Alexander Augunas、Mara Lynn Butler、Michelle Jones、Avi Kool、Alex Riggs",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "格拉利昂的陵墓",
+  "url": "https://pf1.huijiwiki.com/wiki/格拉利昂的陵墓",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Tombs of Golarion",
+   "authors": "Scott Fernandez、Ron Lundeen、Larry Wilhelm",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Tombs of Golarion",
+   "authors": "Scott Fernandez、Ron Lundeen、Larry Wilhelm",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "格拉里昂的人类",
+  "url": "https://pf1.huijiwiki.com/wiki/格拉里昂的人类",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Humans of Golarion",
+   "authors": "James Jacobs、Colin McComb、Sean K Reynolds、Amber E. Scott、Larry Wilhelm",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Humans of Golarion",
+   "authors": "James Jacobs、Colin McComb、Sean K Reynolds、Amber E. Scott、Larry Wilhelm",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "正义之怒玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/正义之怒玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Wrath of the Righteous Player's Guide",
+   "authors": "Adam Daigle、Jay Loomis",
+   "pages": "14"
+  },
+  "text": {
+   "en": "Wrath of the Righteous Player's Guide",
+   "authors": "Adam Daigle、Jay Loomis",
+   "pages": "14"
+  }
+ },
+ {
+  "title": "正义之路",
+  "url": "https://pf1.huijiwiki.com/wiki/正义之路",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Paths of the Righteous",
+   "authors": "Alexander Augunas、John Compton、Jenny Jarzabski、Isabelle Thorne、Stephen Rowe、Owen K.C. Stephens",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Paths of the Righteous",
+   "authors": "Alexander Augunas、John Compton、Jenny Jarzabski、Isabelle Thorne、Stephen Rowe、Owen K.C. Stephens",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "正义编年史",
+  "url": "https://pf1.huijiwiki.com/wiki/正义编年史",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Chronicle of the Righteous",
+   "authors": "Amber E. Scott",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Chronicle of the Righteous",
+   "authors": "Amber E. Scott",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "武器大师手册",
+  "url": "https://pf1.huijiwiki.com/wiki/武器大师手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Weapon Master's Handbook",
+   "authors": "Alexander Augunas、David N. Ross",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Weapon Master's Handbook",
+   "authors": "Alexander Augunas、David N. Ross",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "武术手册",
+  "url": "https://pf1.huijiwiki.com/wiki/武术手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Martial Arts Handbook",
+   "authors": "Thurston Hillman、Mikko Kallio、Jacob W. Michaels、Matt Morris、Daniel Reed、Mikhail Rekun、Mark Seifter、Jeffrey Swank",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Martial Arts Handbook",
+   "authors": "Thurston Hillman、Mikko Kallio、Jacob W. Michaels、Matt Morris、Daniel Reed、Mikhail Rekun、Mark Seifter、Jeffrey Swank",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "水下冒险",
+  "url": "https://pf1.huijiwiki.com/wiki/水下冒险",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Aquatic Adventures",
+   "authors": "Amber E. Scott、Mark Seifter",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Aquatic Adventures",
+   "authors": "Amber E. Scott、Mark Seifter",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "永焰墓穴",
+  "url": "https://pf1.huijiwiki.com/wiki/永焰墓穴",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Crypt of the Everflame",
+   "authors": "Jason Bulmahn",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Crypt of the Everflame",
+   "authors": "Jason Bulmahn",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "永罪之书",
+  "url": "https://pf1.huijiwiki.com/wiki/永罪之书",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Book of the Damned",
+   "authors": "John Compton、Adam Daigle、Amanda Hamon、James Jacobs、Isabelle Thorne、F. Wesley Schneider、Amber Stewart、Josh Vogt",
+   "pages": "288"
+  },
+  "text": {
+   "en": "Book of the Damned",
+   "authors": "John Compton、Adam Daigle、Amanda Hamon、James Jacobs、Isabelle Thorne、F. Wesley Schneider、Amber Stewart、Josh Vogt",
+   "pages": "288"
+  }
+ },
+ {
+  "title": "永罪之书末辑，天启诸骑",
+  "url": "https://pf1.huijiwiki.com/wiki/永罪之书末辑，天启诸骑",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Book of the Damned - Volume 3  Horsemen of the Apocalypse",
+   "authors": "Amber Stewart",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Book of the Damned - Volume 3  Horsemen of the Apocalypse",
+   "authors": "Amber Stewart",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "永罪之书第二卷：混沌领主",
+  "url": "https://pf1.huijiwiki.com/wiki/永罪之书第二卷：混沌领主",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Book of the Damned - Volume 2  Lords of Chaos",
+   "authors": "James Jacobs",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Book of the Damned - Volume 2  Lords of Chaos",
+   "authors": "James Jacobs",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "永罪之书首辑，黑暗诸侯",
+  "url": "https://pf1.huijiwiki.com/wiki/永罪之书首辑，黑暗诸侯",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Book of the Damned - Volume 1  Princes of Darkness",
+   "authors": "F. Wesley Schneider",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Book of the Damned - Volume 1  Princes of Darkness",
+   "authors": "F. Wesley Schneider",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "沉没之城的先知",
+  "url": "https://pf1.huijiwiki.com/wiki/沉没之城的先知",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Seers of the Drowned City",
+   "authors": "Nicholas Wasko",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Seers of the Drowned City",
+   "authors": "Nicholas Wasko",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "沙中崛起",
+  "url": "https://pf1.huijiwiki.com/wiki/沙中崛起",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Risen from the Sands",
+   "pages": "16"
+  },
+  "text": {
+   "en": "Risen from the Sands",
+   "pages": "16"
+  }
+ },
+ {
+  "title": "沙之子民",
+  "url": "https://pf1.huijiwiki.com/wiki/沙之子民",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "People of the Sands",
+   "authors": "Shaun Hocking、Robert G. McCreary、Jason Nelson",
+   "pages": "32"
+  },
+  "text": {
+   "en": "People of the Sands",
+   "authors": "Shaun Hocking、Robert G. McCreary、Jason Nelson",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "河域子民",
+  "url": "https://pf1.huijiwiki.com/wiki/河域子民",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "People of the River",
+   "authors": "Tim Akers、Jason Brick、Ethan Day-Jones、James Jacobs、Nick Salestrom、David Schwartz、William Thrasher",
+   "pages": "32"
+  },
+  "text": {
+   "en": "People of the River",
+   "authors": "Tim Akers、Jason Brick、Ethan Day-Jones、James Jacobs、Nick Salestrom、David Schwartz、William Thrasher",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "河域诸国指南",
+  "url": "https://pf1.huijiwiki.com/wiki/河域诸国指南",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Guide to the River Kingdoms",
+   "authors": "China Miéville、Elaine Cunningham、Chris Pramas、Steve Kenson",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Guide to the River Kingdoms",
+   "authors": "China Miéville、Elaine Cunningham、Chris Pramas、Steve Kenson",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "治疗者手册",
+  "url": "https://pf1.huijiwiki.com/wiki/治疗者手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Healer's Handbook",
+   "authors": "Alexander Augunas、David N. Ross、Stephen Rowe",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Healer's Handbook",
+   "authors": "Alexander Augunas、David N. Ross、Stephen Rowe",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "泪水狂欢节",
+  "url": "https://pf1.huijiwiki.com/wiki/泪水狂欢节",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Carnival of Tears",
+   "authors": "Tim Hitchcock、Nicolas Logue",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Carnival of Tears",
+   "authors": "Tim Hitchcock、Nicolas Logue",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "活神面具",
+  "url": "https://pf1.huijiwiki.com/wiki/活神面具",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Masks of the Living God",
+   "authors": "Jason Bulmahn",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Masks of the Living God",
+   "authors": "Jason Bulmahn",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "海洋血脉",
+  "url": "https://pf1.huijiwiki.com/wiki/海洋血脉",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Blood of the Sea",
+   "authors": "Amber E. Scott",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Blood of the Sea",
+   "authors": "Amber E. Scott",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "消失的王国",
+  "url": "https://pf1.huijiwiki.com/wiki/消失的王国",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Lost Kingdoms",
+   "authors": "Wolfgang Baur、Adam Daigle、Jeff Erwin、F. Wesley Schneider",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Lost Kingdoms",
+   "authors": "Wolfgang Baur、Adam Daigle、Jeff Erwin、F. Wesley Schneider",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "深入幽暗地域",
+  "url": "https://pf1.huijiwiki.com/wiki/深入幽暗地域",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Into the Darklands",
+   "authors": "James Jacobs、Greg A. Vaughan",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Into the Darklands",
+   "authors": "James Jacobs、Greg A. Vaughan",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "混沌熔炉",
+  "url": "https://pf1.huijiwiki.com/wiki/混沌熔炉",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Crucible of Chaos",
+   "authors": "Wolfgang Baur",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Crucible of Chaos",
+   "authors": "Wolfgang Baur",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "游戏主持人指南",
+  "url": "https://pf1.huijiwiki.com/wiki/游戏主持人指南",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "GameMastery Guide",
+   "authors": "F. Wesley Schneider、Cam Banks、Wolfgang Baur、Jason Bulmahn、Jim Butler、Eric Cagle、Graeme Davis、Adam Daigle、Joshua J. Frost、James Jacobs、Kenneth Hite、Steve Kenson、Robin D. Laws、Tito Leati、Robert G. McCreary、Hal Maclean、Colin McComb、Amber E. Scott、Sean K Reynolds、Russ Taylor、Penny Williams、Skip Williams、Teeuwynn Woodruff、Jason Nelson、David Noonan、Richard Pett、Rich Redman、Doug Seacat、Mike Selinker、Lisa Stevens、James L. Sutter",
+   "pages": "320"
+  },
+  "text": {
+   "en": "GameMastery Guide",
+   "authors": "F. Wesley Schneider、Cam Banks、Wolfgang Baur、Jason Bulmahn、Jim Butler、Eric Cagle、Graeme Davis、Adam Daigle、Joshua J. Frost、James Jacobs、Kenneth Hite、Steve Kenson、Robin D. Laws、Tito Leati、Robert G. McCreary、Hal Maclean、Colin McComb、Amber E. Scott、Sean K Reynolds、Russ Taylor、Penny Williams、Skip Williams、Teeuwynn Woodruff、Jason Nelson、David Noonan、Richard Pett、Rich Redman、Doug Seacat、Mike Selinker、Lisa Stevens、James L. Sutter",
+   "pages": "320"
+  }
+ },
+ {
+  "title": "漆黑毁灭者教团",
+  "url": "https://pf1.huijiwiki.com/wiki/漆黑毁灭者教团",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Cult of the Ebon Destroyers",
+   "authors": "Matthew Goodall",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Cult of the Ebon Destroyers",
+   "authors": "Matthew Goodall",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "灵魂宝库彼端",
+  "url": "https://pf1.huijiwiki.com/wiki/灵魂宝库彼端",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Beyond the Vault of Souls",
+   "authors": "Colin McComb",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Beyond the Vault of Souls",
+   "authors": "Colin McComb",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "炼狱血脉",
+  "url": "https://pf1.huijiwiki.com/wiki/炼狱血脉",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Blood of Fiends",
+   "authors": "Colin McComb、Hal Maclean",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Blood of Fiends",
+   "authors": "Colin McComb、Hal Maclean",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "炼金术手册",
+  "url": "https://pf1.huijiwiki.com/wiki/炼金术手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Alchemy Manual",
+   "authors": "Jason Nelson、Patrick Renie、David N. Ross",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Alchemy Manual",
+   "authors": "Jason Nelson、Patrick Renie、David N. Ross",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "烈焰传承玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/烈焰传承玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Legacy of Fire Player's Guide",
+   "authors": "Brian Cortijo、Stephen S. Greer、James Jacobs、Jonathan H. Keith、Amber E. Scott、F. Wesley Schneider、James L. Sutter",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Legacy of Fire Player's Guide",
+   "authors": "Brian Cortijo、Stephen S. Greer、James Jacobs、Jonathan H. Keith、Amber E. Scott、F. Wesley Schneider、James L. Sutter",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "狂怒之女",
+  "url": "https://pf1.huijiwiki.com/wiki/狂怒之女",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Daughters of Fury",
+   "authors": "Victoria Jaczko",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Daughters of Fury",
+   "authors": "Victoria Jaczko",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "狗头人之王的复仇",
+  "url": "https://pf1.huijiwiki.com/wiki/狗头人之王的复仇",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Revenge of the Kobold King",
+   "authors": "Nicolas Logue",
+   "pages": "16"
+  },
+  "text": {
+   "en": "Revenge of the Kobold King",
+   "authors": "Nicolas Logue",
+   "pages": "16"
+  }
+ },
+ {
+  "title": "狗头人之王的王冠(模组)",
+  "url": "https://pf1.huijiwiki.com/wiki/狗头人之王的王冠(模组)",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Crown of the Kobold King",
+   "authors": "Nicolas Logue",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Crown of the Kobold King",
+   "authors": "Nicolas Logue",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "猛龙进击",
+  "url": "https://pf1.huijiwiki.com/wiki/猛龙进击",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Dragons Unleashed",
+   "authors": "Savannah Broadway、Joseph Carriker、Adam Daigle、Steve Kenson、Patrick Renie、F. Wesley Schneider、Tork Shaw",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Dragons Unleashed",
+   "authors": "Savannah Broadway、Joseph Carriker、Adam Daigle、Steve Kenson、Patrick Renie、F. Wesley Schneider、Tork Shaw",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "玉关白玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/玉关白玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Jade Regent Player's Guide",
+   "authors": "James Jacobs、Patrick Renie",
+   "pages": "28"
+  },
+  "text": {
+   "en": "Jade Regent Player's Guide",
+   "authors": "James Jacobs、Patrick Renie",
+   "pages": "28"
+  }
+ },
+ {
+  "title": "玉凤武道会",
+  "url": "https://pf1.huijiwiki.com/wiki/玉凤武道会",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "The Ruby Phoenix Tournament",
+   "authors": "Tim Hitchcock",
+   "pages": "32"
+  },
+  "text": {
+   "en": "The Ruby Phoenix Tournament",
+   "authors": "Tim Hitchcock",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "瓦瑞西亚，传说诞生之地",
+  "url": "https://pf1.huijiwiki.com/wiki/瓦瑞西亚，传说诞生之地",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Varisia, Birthplace of Legends",
+   "authors": "F. Wesley Schneider、Amber E. Scott、Tork Shaw、James L. Sutter、Jerome Virnich",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Varisia, Birthplace of Legends",
+   "authors": "F. Wesley Schneider、Amber E. Scott、Tork Shaw、James L. Sutter、Jerome Virnich",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "疯狂绞架",
+  "url": "https://pf1.huijiwiki.com/wiki/疯狂绞架",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Gallows of Madness",
+   "authors": "Mikko Kallio、Mike Kimmel、Benjamin Bruck",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Gallows of Madness",
+   "authors": "Mikko Kallio、Mike Kimmel、Benjamin Bruck",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "皇冠战争玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/皇冠战争玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "War for the Crown Player's Guide",
+   "authors": "Crystal Frasier",
+   "pages": "18"
+  },
+  "text": {
+   "en": "War for the Crown Player's Guide",
+   "authors": "Crystal Frasier",
+   "pages": "18"
+  }
+ },
+ {
+  "title": "皇庭英豪",
+  "url": "https://pf1.huijiwiki.com/wiki/皇庭英豪",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Heroes of the High Court",
+   "authors": "Isabelle Thorne、Luis Loza、Ron Lundeen、Jacob W. Michaels",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Heroes of the High Court",
+   "authors": "Isabelle Thorne、Luis Loza、Ron Lundeen、Jacob W. Michaels",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "盗贼议会玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/盗贼议会玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Council of Thieves Player's Guide",
+   "authors": "James Jacobs、F. Wesley Schneider、Amber E. Scott、Hank Woon",
+   "pages": "13"
+  },
+  "text": {
+   "en": "Council of Thieves Player's Guide",
+   "authors": "James Jacobs、F. Wesley Schneider、Amber E. Scott、Hank Woon",
+   "pages": "13"
+  }
+ },
+ {
+  "title": "碎星玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/碎星玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Shattered Star Player's Guide",
+   "authors": "Adam Daigle、Mark Moreland、F. Wesley Schneider、James L. Sutter",
+   "pages": "12"
+  },
+  "text": {
+   "en": "Shattered Star Player's Guide",
+   "authors": "Adam Daigle、Mark Moreland、F. Wesley Schneider、James L. Sutter",
+   "pages": "12"
+  }
+ },
+ {
+  "title": "神与魔法",
+  "url": "https://pf1.huijiwiki.com/wiki/神与魔法",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Gods & Magic",
+   "authors": "Sean K Reynolds",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Gods & Magic",
+   "authors": "Sean K Reynolds",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "神口异端",
+  "url": "https://pf1.huijiwiki.com/wiki/神口异端",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "The Godsmouth Heresy",
+   "authors": "Robert G. McCreary",
+   "pages": "32"
+  },
+  "text": {
+   "en": "The Godsmouth Heresy",
+   "authors": "Robert G. McCreary",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "神器与传说",
+  "url": "https://pf1.huijiwiki.com/wiki/神器与传说",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Artifacts & Legends",
+   "authors": "F. Wesley Schneider",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Artifacts & Legends",
+   "authors": "F. Wesley Schneider",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "神术选集",
+  "url": "https://pf1.huijiwiki.com/wiki/神术选集",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Divine Anthology",
+   "authors": "Alexander Augunas、Russ Brown、John Compton、Alex Riggs、David N. Ross",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Divine Anthology",
+   "authors": "Alexander Augunas、Russ Brown、John Compton、Alex Riggs、David N. Ross",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "神话冒险",
+  "url": "https://pf1.huijiwiki.com/wiki/神话冒险",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Mythic Adventures",
+   "authors": "Jason Bulmahn",
+   "pages": "256"
+  },
+  "text": {
+   "en": "Mythic Adventures",
+   "authors": "Jason Bulmahn",
+   "pages": "256"
+  }
+ },
+ {
+  "title": "神话怪物再临",
+  "url": "https://pf1.huijiwiki.com/wiki/神话怪物再临",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Mythical Monsters Revisited",
+   "authors": "Jonathan H. Keith、Jason Nelson、Anthony Pryor",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Mythical Monsters Revisited",
+   "authors": "Jonathan H. Keith、Jason Nelson、Anthony Pryor",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "神话源始",
+  "url": "https://pf1.huijiwiki.com/wiki/神话源始",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Mythic Origins",
+   "authors": "Dennis Baker、Philip Minchin、Russ Taylor",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Mythic Origins",
+   "authors": "Dennis Baker、Philip Minchin、Russ Taylor",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "神话领域",
+  "url": "https://pf1.huijiwiki.com/wiki/神话领域",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Mythic Realms",
+   "authors": "Benjamin Bruck、Jason Bulmahn、Amanda Hamon、Nicolas Logue、Jason Nelson、F. Wesley Schneider、Russ Taylor",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Mythic Realms",
+   "authors": "Benjamin Bruck、Jason Bulmahn、Amanda Hamon、Nicolas Logue、Jason Nelson、F. Wesley Schneider、Russ Taylor",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "科技指南(战役设定)",
+  "url": "https://pf1.huijiwiki.com/wiki/科技指南(战役设定)",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Technology Guide",
+   "authors": "James Jacobs、Russ Taylor",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Technology Guide",
+   "authors": "James Jacobs、Russ Taylor",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "科瓦萨指南",
+  "url": "https://pf1.huijiwiki.com/wiki/科瓦萨指南",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Guide to Korvosa",
+   "authors": "Mike McArtor",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Guide to Korvosa",
+   "authors": "Mike McArtor",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "秘密学院",
+  "url": "https://pf1.huijiwiki.com/wiki/秘密学院",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Academy of Secrets",
+   "authors": "Brian Cortijo",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Academy of Secrets",
+   "authors": "Brian Cortijo",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "秘密探寻者",
+  "url": "https://pf1.huijiwiki.com/wiki/秘密探寻者",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Seekers of Secrets",
+   "authors": "Tim Hitchcock、Erik Mona、James L. Sutter、Russ Taylor",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Seekers of Secrets",
+   "authors": "Tim Hitchcock、Erik Mona、James L. Sutter、Russ Taylor",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "秘术选集",
+  "url": "https://pf1.huijiwiki.com/wiki/秘术选集",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Arcane Anthology",
+   "authors": "Alexander Augunas、Steven Helt、David N. Ross",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Arcane Anthology",
+   "authors": "Alexander Augunas、Steven Helt、David N. Ross",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "秽邪勇士",
+  "url": "https://pf1.huijiwiki.com/wiki/秽邪勇士",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Champions of Corruption",
+   "authors": "Paris Crenshaw、Jim Groves、Sean McGowan、Philip Minchin",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Champions of Corruption",
+   "authors": "Paris Crenshaw、Jim Groves、Sean McGowan、Philip Minchin",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "突袭牙林堡",
+  "url": "https://pf1.huijiwiki.com/wiki/突袭牙林堡",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Fangwood Keep",
+   "authors": "Alex Greenshields",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Fangwood Keep",
+   "authors": "Alex Greenshields",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "符文领主崛起周年纪念版",
+  "url": "https://pf1.huijiwiki.com/wiki/符文领主崛起周年纪念版",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Rise of the Runelords Anniversary Edition",
+   "authors": "James Jacobs、Richard Pett、Nicolas Logue、Wolfgang Baur、Stephen S. Greer、Greg A. Vaughan",
+   "pages": "428"
+  },
+  "text": {
+   "en": "Rise of the Runelords Anniversary Edition",
+   "authors": "James Jacobs、Richard Pett、Nicolas Logue、Wolfgang Baur、Stephen S. Greer、Greg A. Vaughan",
+   "pages": "428"
+  }
+ },
+ {
+  "title": "符文领主崛起周年纪念版玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/符文领主崛起周年纪念版玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Rise of the Runelords Anniversary Edition Player's Guide",
+   "authors": "Adam Daigle、James L. Sutter",
+   "pages": "17"
+  },
+  "text": {
+   "en": "Rise of the Runelords Anniversary Edition Player's Guide",
+   "authors": "Adam Daigle、James L. Sutter",
+   "pages": "17"
+  }
+ },
+ {
+  "title": "符文领主崛起玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/符文领主崛起玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Rise of the Runelords Player's Guide",
+   "authors": "F. Wesley Schneider",
+   "pages": "16"
+  },
+  "text": {
+   "en": "Rise of the Runelords Player's Guide",
+   "authors": "F. Wesley Schneider",
+   "pages": "16"
+  }
+ },
+ {
+  "title": "符文领主的归来玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/符文领主的归来玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Return of the Runelords Players Guide",
+   "authors": "James Jacobs",
+   "pages": "14"
+  },
+  "text": {
+   "en": "Return of the Runelords Players Guide",
+   "authors": "James Jacobs",
+   "pages": "14"
+  }
+ },
+ {
+  "title": "第一世界的遗产",
+  "url": "https://pf1.huijiwiki.com/wiki/第一世界的遗产",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Legacy of the First World",
+   "authors": "Judy Bauer、John Compton、Violet Hargrave、Mikko Kallio、Jason Keeley、Joe Pasini、Mark Seifter、Kendra Leigh Speedling、Josh Vogt、Linda Zayas-Palmer",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Legacy of the First World",
+   "authors": "Judy Bauer、John Compton、Violet Hargrave、Mikko Kallio、Jason Keeley、Joe Pasini、Mark Seifter、Kendra Leigh Speedling、Josh Vogt、Linda Zayas-Palmer",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "第一世界，妖精之国",
+  "url": "https://pf1.huijiwiki.com/wiki/第一世界，妖精之国",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "The First World, Realm of the Fey",
+   "authors": "James L. Sutter",
+   "pages": "64"
+  },
+  "text": {
+   "en": "The First World, Realm of the Fey",
+   "authors": "James L. Sutter",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "策略指南",
+  "url": "https://pf1.huijiwiki.com/wiki/策略指南",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Strategy Guide",
+   "authors": "Wolfgang Baur、Jason Bulmahn、John Compton、Jessica Price、Sean K Reynolds",
+   "pages": "160"
+  },
+  "text": {
+   "en": "Strategy Guide",
+   "authors": "Wolfgang Baur、Jason Bulmahn、John Compton、Jessica Price、Sean K Reynolds",
+   "pages": "160"
+  }
+ },
+ {
+  "title": "繁星子民",
+  "url": "https://pf1.huijiwiki.com/wiki/繁星子民",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "People of the Stars",
+   "authors": "Andrew Penn Romine、David N. Ross、Ethan Day-Jones、James L. Sutter、Jim Groves、Jonathan H. Keith",
+   "pages": "32"
+  },
+  "text": {
+   "en": "People of the Stars",
+   "authors": "Andrew Penn Romine、David N. Ross、Ethan Day-Jones、James L. Sutter、Jim Groves、Jonathan H. Keith",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "纯洁信念",
+  "url": "https://pf1.huijiwiki.com/wiki/纯洁信念",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Faiths of Purity",
+   "authors": "Colin McComb",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Faiths of Purity",
+   "authors": "Colin McComb",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "纯洁勇士",
+  "url": "https://pf1.huijiwiki.com/wiki/纯洁勇士",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Champions of Purity",
+   "authors": "Jessica Blomstrom、Adam Daigle、Shaun Hocking、Daniel Marthaler、Tork Shaw、Christina Stiles",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Champions of Purity",
+   "authors": "Jessica Blomstrom、Adam Daigle、Shaun Hocking、Daniel Marthaler、Tork Shaw、Christina Stiles",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "纽梅利亚，星落之地",
+  "url": "https://pf1.huijiwiki.com/wiki/纽梅利亚，星落之地",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Numeria, Land of Fallen Stars",
+   "authors": "Jim Groves、James Jacobs、Russ Taylor",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Numeria, Land of Fallen Stars",
+   "authors": "Jim Groves、James Jacobs、Russ Taylor",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "组织指南",
+  "url": "https://pf1.huijiwiki.com/wiki/组织指南",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Faction Guide",
+   "authors": "Joshua J. Frost、Jason Nelson、Sean K Reynolds",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Faction Guide",
+   "authors": "Joshua J. Frost、Jason Nelson、Sean K Reynolds",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "经典恐怖再临",
+  "url": "https://pf1.huijiwiki.com/wiki/经典恐怖再临",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Classic Horrors Revisited",
+   "authors": "James Jacobs、Robert G. McCreary、F. Wesley Schneider",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Classic Horrors Revisited",
+   "authors": "James Jacobs、Robert G. McCreary、F. Wesley Schneider",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "绞刑吏的绞索",
+  "url": "https://pf1.huijiwiki.com/wiki/绞刑吏的绞索",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Hangman's Noose",
+   "authors": "Nicolas Logue",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Hangman's Noose",
+   "authors": "Nicolas Logue",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "绯阳黎明",
+  "url": "https://pf1.huijiwiki.com/wiki/绯阳黎明",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Dawn of the Scarlet Sun",
+   "authors": "James Jacobs",
+   "pages": "16"
+  },
+  "text": {
+   "en": "Dawn of the Scarlet Sun",
+   "authors": "James Jacobs",
+   "pages": "16"
+  }
+ },
+ {
+  "title": "缘界英雄",
+  "url": "https://pf1.huijiwiki.com/wiki/缘界英雄",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Heroes from the Fringe",
+   "authors": "Saif Ansari、Kate Baker、Michelle Jones、Isabelle Thorne、Adrian Ng、Alex Riggs、Owen K.C. Stephens",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Heroes from the Fringe",
+   "authors": "Saif Ansari、Kate Baker、Michelle Jones、Isabelle Thorne、Adrian Ng、Alex Riggs、Owen K.C. Stephens",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "翡翠尖塔超级地城",
+  "url": "https://pf1.huijiwiki.com/wiki/翡翠尖塔超级地城",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "The Emerald Spire Superdungeon",
+   "authors": "Keith Baker、Richard Baker、Wolfgang Baur、Jason Bulmahn、Ed Greenwood、Tim Hitchcock、James Jacobs、Nicolas Logue、Frank Mentzer、Erik Mona、Chris Pramas、Sean K Reynolds、F. Wesley Schneider、Michael A. Stackpole、Lisa Stevens、James L. Sutter",
+   "pages": "160"
+  },
+  "text": {
+   "en": "The Emerald Spire Superdungeon",
+   "authors": "Keith Baker、Richard Baker、Wolfgang Baur、Jason Bulmahn、Ed Greenwood、Tim Hitchcock、James Jacobs、Nicolas Logue、Frank Mentzer、Erik Mona、Chris Pramas、Sean K Reynolds、F. Wesley Schneider、Michael A. Stackpole、Lisa Stevens、James L. Sutter",
+   "pages": "160"
+  }
+ },
+ {
+  "title": "腐肉岭",
+  "url": "https://pf1.huijiwiki.com/wiki/腐肉岭",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Carrion Hill",
+   "authors": "Richard Pett",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Carrion Hill",
+   "authors": "Richard Pett",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "腐肉王冠玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/腐肉王冠玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Carrion Crown Player's Guide",
+   "authors": "Mark Moreland",
+   "pages": "15"
+  },
+  "text": {
+   "en": "Carrion Crown Player's Guide",
+   "authors": "Mark Moreland",
+   "pages": "15"
+  }
+ },
+ {
+  "title": "腥红王座的诅咒(开拓者版)",
+  "url": "https://pf1.huijiwiki.com/wiki/腥红王座的诅咒(开拓者版)",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Curse of the Crimson Throne (PFRPG)",
+   "authors": "Nicolas Logue、F. Wesley Schneider、Richard Pett、James Jacobs、Michael Kortes、Greg A. Vaughan、Tito Leati",
+   "pages": "480"
+  },
+  "text": {
+   "en": "Curse of the Crimson Throne (PFRPG)",
+   "authors": "Nicolas Logue、F. Wesley Schneider、Richard Pett、James Jacobs、Michael Kortes、Greg A. Vaughan、Tito Leati",
+   "pages": "480"
+  }
+ },
+ {
+  "title": "腥红王座的诅咒玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/腥红王座的诅咒玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Curse of the Crimson Throne Player's Guide",
+   "authors": "James Jacobs、Mike McArtor",
+   "pages": "16"
+  },
+  "text": {
+   "en": "Curse of the Crimson Throne Player's Guide",
+   "authors": "James Jacobs、Mike McArtor",
+   "pages": "16"
+  }
+ },
+ {
+  "title": "艾巴萨罗姆指南",
+  "url": "https://pf1.huijiwiki.com/wiki/艾巴萨罗姆指南",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Guide to Absalom",
+   "authors": "Owen K.C. Stephens",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Guide to Absalom",
+   "authors": "Owen K.C. Stephens",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "荒野源始",
+  "url": "https://pf1.huijiwiki.com/wiki/荒野源始",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Wilderness Origins",
+   "authors": "Kim Frandsen、Sasha Laranoa Harving、Violet Hargrave、Andrew Mullen、Jessica Redekop、Mikhail Rekun、Sean K Reynolds、Rodney Sloan、Ron Lundeen",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Wilderness Origins",
+   "authors": "Kim Frandsen、Sasha Laranoa Harving、Violet Hargrave、Andrew Mullen、Jessica Redekop、Mikhail Rekun、Sean K Reynolds、Rodney Sloan、Ron Lundeen",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "荒野英雄",
+  "url": "https://pf1.huijiwiki.com/wiki/荒野英雄",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Heroes of the Wild",
+   "authors": "Tyler Beck、Pedro Coelho、Justin Juan、Mikko Kallio、Jason Keeley、Nick Salestrom、William Thrasher",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Heroes of the Wild",
+   "authors": "Tyler Beck、Pedro Coelho、Justin Juan、Mikko Kallio、Jason Keeley、Nick Salestrom、William Thrasher",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "药剂与毒药",
+  "url": "https://pf1.huijiwiki.com/wiki/药剂与毒药",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Potions and Poisons",
+   "authors": "Kate Baker、Eleanor Ferron、Nathan King、Lyz Liddell、Luis Loza、Alex Putnam、Alex Riggs、David Schwartz",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Potions and Poisons",
+   "authors": "Kate Baker、Eleanor Ferron、Nathan King、Lyz Liddell、Luis Loza、Alex Putnam、Alex Riggs、David Schwartz",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "萨迦瓦，失落的殖民地",
+  "url": "https://pf1.huijiwiki.com/wiki/萨迦瓦，失落的殖民地",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Sargava, the Lost Colony",
+   "authors": "JD Wiker、Sean K Reynolds",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Sargava, the Lost Colony",
+   "authors": "JD Wiker、Sean K Reynolds",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "蛇神颅骨玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/蛇神颅骨玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Serpent's Skull Player's Guide",
+   "authors": "Mark Moreland、James Jacobs、F. Wesley Schneider",
+   "pages": "13"
+  },
+  "text": {
+   "en": "Serpent's Skull Player's Guide",
+   "authors": "Mark Moreland、James Jacobs、F. Wesley Schneider",
+   "pages": "13"
+  }
+ },
+ {
+  "title": "裂天之咒",
+  "url": "https://pf1.huijiwiki.com/wiki/裂天之咒",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Curse of the Riven Sky",
+   "authors": "Monte Cook",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Curse of the Riven Sky",
+   "authors": "Monte Cook",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "解放者",
+  "url": "https://pf1.huijiwiki.com/wiki/解放者",
+  "template": "书页",
+  "ai": false,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Pathfinder Unchained",
+   "authors": "Jason Bulmahn",
+   "pages": "256"
+  },
+  "text": {
+   "en": "Pathfinder Unchained",
+   "authors": "Jason Bulmahn",
+   "pages": "256"
+  }
+ },
+ {
+  "title": "诡秘万古玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/诡秘万古玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Strange Aeons Player's Guide",
+   "authors": "Adam Daigle",
+   "pages": "12"
+  },
+  "text": {
+   "en": "Strange Aeons Player's Guide",
+   "authors": "Adam Daigle",
+   "pages": "12"
+  }
+ },
+ {
+  "title": "谋杀者的烙印",
+  "url": "https://pf1.huijiwiki.com/wiki/谋杀者的烙印",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Murder's Mark",
+   "authors": "Jim Groves",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Murder's Mark",
+   "authors": "Jim Groves",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "贝尔克泽恩，兽人部落之地",
+  "url": "https://pf1.huijiwiki.com/wiki/贝尔克泽恩，兽人部落之地",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Belkzen, Hold of the Orc Hordes",
+   "authors": "Tyler Beck、Jason Garrett、Alex Greenshields、David Schwartz",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Belkzen, Hold of the Orc Hordes",
+   "authors": "Tyler Beck、Jason Garrett、Alex Greenshields、David Schwartz",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "赤鸦飞翔",
+  "url": "https://pf1.huijiwiki.com/wiki/赤鸦飞翔",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Flight of the Red Raven",
+   "authors": "David Schwartz",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Flight of the Red Raven",
+   "authors": "David Schwartz",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "走下枯败之路",
+  "url": "https://pf1.huijiwiki.com/wiki/走下枯败之路",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Down the Blighted Path",
+   "authors": "Monica Marlowe",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Down the Blighted Path",
+   "authors": "Monica Marlowe",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "近战战术工具箱",
+  "url": "https://pf1.huijiwiki.com/wiki/近战战术工具箱",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Melee Tactics Toolbox",
+   "authors": "Paris Crenshaw、Ron Lundeen、David Schwartz",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Melee Tactics Toolbox",
+   "authors": "Paris Crenshaw、Ron Lundeen、David Schwartz",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "进化职业起源",
+  "url": "https://pf1.huijiwiki.com/wiki/进化职业起源",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Advanced Class Origins",
+   "authors": "Dennis Baker、Ross Byers、Tom Phillips、Stephen Radney-MacFarland、Owen K.C. Stephens",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Advanced Class Origins",
+   "authors": "Dennis Baker、Ross Byers、Tom Phillips、Stephen Radney-MacFarland、Owen K.C. Stephens",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "进阶之路",
+  "url": "https://pf1.huijiwiki.com/wiki/进阶之路",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Paths of Prestige",
+   "authors": "Benjamin Bruck、Jason Bulmahn、Matthew Goodall、Jason Nelson",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Paths of Prestige",
+   "authors": "Benjamin Bruck、Jason Bulmahn、Matthew Goodall、Jason Nelson",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "进阶玩家指南",
+  "url": "https://pf1.huijiwiki.com/wiki/进阶玩家指南",
+  "template": "书页",
+  "ai": false,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Advanced Player's Guide",
+   "authors": "Jason Bulmahn、James Jacobs、Steve Kenson、Hal Maclean、Robert G. McCreary、Erik Mona、Jason Nelson、Stephen Radney-MacFarland、Sean K Reynolds、F. Wesley Schneider、James L. Sutter、Owen K.C. Stephens、Russ Taylor",
+   "pages": "336"
+  },
+  "text": {
+   "en": "Advanced Player's Guide",
+   "authors": "Jason Bulmahn、James Jacobs、Steve Kenson、Hal Maclean、Robert G. McCreary、Erik Mona、Jason Nelson、Stephen Radney-MacFarland、Sean K Reynolds、F. Wesley Schneider、James L. Sutter、Owen K.C. Stephens、Russ Taylor",
+   "pages": "336"
+  }
+ },
+ {
+  "title": "进阶种族手册",
+  "url": "https://pf1.huijiwiki.com/wiki/进阶种族手册",
+  "template": "书页",
+  "ai": false,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Advanced Race Guide",
+   "authors": "Jason Bulmahn",
+   "pages": "256"
+  },
+  "text": {
+   "en": "Advanced Race Guide",
+   "authors": "Jason Bulmahn",
+   "pages": "256"
+  }
+ },
+ {
+  "title": "进阶职业指南",
+  "url": "https://pf1.huijiwiki.com/wiki/进阶职业指南",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Advanced Class Guide",
+   "authors": "Jason Bulmahn",
+   "pages": "336"
+  },
+  "text": {
+   "en": "Advanced Class Guide",
+   "authors": "Jason Bulmahn",
+   "pages": "336"
+  }
+ },
+ {
+  "title": "远程战术工具箱",
+  "url": "https://pf1.huijiwiki.com/wiki/远程战术工具箱",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Ranged Tactics Toolbox",
+   "authors": "David N. Ross、David Schwartz、Kaitlyn Sprague",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Ranged Tactics Toolbox",
+   "authors": "David N. Ross、David Schwartz、Kaitlyn Sprague",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "通往黑暗之河",
+  "url": "https://pf1.huijiwiki.com/wiki/通往黑暗之河",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "River into Darkness",
+   "authors": "Greg A. Vaughan",
+   "pages": "32"
+  },
+  "text": {
+   "en": "River into Darkness",
+   "authors": "Greg A. Vaughan",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "遥远世界",
+  "url": "https://pf1.huijiwiki.com/wiki/遥远世界",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Distant Shores",
+   "authors": "John Compton、Adam Daigle、Crystal Frasier、Amanda Hamon、Robert G. McCreary、Mark Moreland、James L. Sutter、Owen K.C. Stephens",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Distant Shores",
+   "authors": "John Compton、Adam Daigle、Crystal Frasier、Amanda Hamon、Robert G. McCreary、Mark Moreland、James L. Sutter、Owen K.C. Stephens",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "遥远世界(战役设定)",
+  "url": "https://pf1.huijiwiki.com/wiki/遥远世界(战役设定)",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Distant Worlds",
+   "authors": "James L. Sutter",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Distant Worlds",
+   "authors": "James L. Sutter",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "遥远国度",
+  "url": "https://pf1.huijiwiki.com/wiki/遥远国度",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Distant Realms",
+   "authors": "John Compton、Crystal Frasier、Thurston Hillman、Amanda Hamon、Lyz Liddell、David Schwartz",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Distant Realms",
+   "authors": "John Compton、Crystal Frasier、Thurston Hillman、Amanda Hamon、Lyz Liddell、David Schwartz",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "邪恶特务",
+  "url": "https://pf1.huijiwiki.com/wiki/邪恶特务",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Agents of Evil",
+   "authors": "Thurston Hillman",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Agents of Evil",
+   "authors": "Thurston Hillman",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "邪恶画廊",
+  "url": "https://pf1.huijiwiki.com/wiki/邪恶画廊",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Gallery of Evil",
+   "authors": "Stephen S. Greer",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Gallery of Evil",
+   "authors": "Stephen S. Greer",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "部属与伙伴",
+  "url": "https://pf1.huijiwiki.com/wiki/部属与伙伴",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Cohorts and Companions",
+   "authors": "Brian Duckwitz、Philip Minchin、Jason Nelson",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Cohorts and Companions",
+   "authors": "Brian Duckwitz、Philip Minchin、Jason Nelson",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "重探幽暗地域",
+  "url": "https://pf1.huijiwiki.com/wiki/重探幽暗地域",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Darklands Revisited",
+   "authors": "Thurston Hillman",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Darklands Revisited",
+   "authors": "Thurston Hillman",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "重生熔炉的守护者",
+  "url": "https://pf1.huijiwiki.com/wiki/重生熔炉的守护者",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Wardens of the Reborn Forge",
+   "authors": "Patrick Renie",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Wardens of the Reborn Forge",
+   "authors": "Patrick Renie",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "野兽血脉",
+  "url": "https://pf1.huijiwiki.com/wiki/野兽血脉",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Blood of the Beast",
+   "authors": "Alexander Augunas、John Compton、Crystal Frasier",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Blood of the Beast",
+   "authors": "Alexander Augunas、John Compton、Crystal Frasier",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "钢铁诸神玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/钢铁诸神玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Iron Gods Player's Guide",
+   "authors": "Adam Daigle、James Jacobs",
+   "pages": "12"
+  },
+  "text": {
+   "en": "Iron Gods Player's Guide",
+   "authors": "Adam Daigle、James Jacobs",
+   "pages": "12"
+  }
+ },
+ {
+  "title": "钩街之屋",
+  "url": "https://pf1.huijiwiki.com/wiki/钩街之屋",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "The House on Hook Street",
+   "authors": "Brandon Hodge",
+   "pages": "64"
+  },
+  "text": {
+   "en": "The House on Hook Street",
+   "authors": "Brandon Hodge",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "铁牙入侵玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/铁牙入侵玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Ironfang Invasion Player's Guide",
+   "authors": "Crystal Frasier",
+   "pages": "12"
+  },
+  "text": {
+   "en": "Ironfang Invasion Player's Guide",
+   "authors": "Crystal Frasier",
+   "pages": "12"
+  }
+ },
+ {
+  "title": "铁蛇发女妖之墓",
+  "url": "https://pf1.huijiwiki.com/wiki/铁蛇发女妖之墓",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Tomb of the Iron Medusa",
+   "authors": "Mike Shel",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Tomb of the Iron Medusa",
+   "authors": "Mike Shel",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "镣铐群岛",
+  "url": "https://pf1.huijiwiki.com/wiki/镣铐群岛",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Isles of the Shackles",
+   "authors": "Mike Shel",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Isles of the Shackles",
+   "authors": "Mike Shel",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "门徒教义",
+  "url": "https://pf1.huijiwiki.com/wiki/门徒教义",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Disciple's Doctrine",
+   "authors": "Saif Ansari、Mara Lynn Butler、Jeffrey Hersh、Vanessa Hoskins、Lyz Liddell、Luis Loza、Linda Zayas-Palmer",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Disciple's Doctrine",
+   "authors": "Saif Ansari、Mara Lynn Butler、Jeffrey Hersh、Vanessa Hoskins、Lyz Liddell、Luis Loza、Linda Zayas-Palmer",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "闯入闹鬼森林",
+  "url": "https://pf1.huijiwiki.com/wiki/闯入闹鬼森林",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Into the Haunted Forest",
+   "authors": "Greg A. Vaughan",
+   "pages": "16"
+  },
+  "text": {
+   "en": "Into the Haunted Forest",
+   "authors": "Greg A. Vaughan",
+   "pages": "16"
+  }
+ },
+ {
+  "title": "间谍大师手册",
+  "url": "https://pf1.huijiwiki.com/wiki/间谍大师手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Spymaster's Handbook",
+   "authors": "Alexander Augunas、David N. Ross、Owen K.C. Stephens",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Spymaster's Handbook",
+   "authors": "Alexander Augunas、David N. Ross、Owen K.C. Stephens",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "闹鬼英雄手册",
+  "url": "https://pf1.huijiwiki.com/wiki/闹鬼英雄手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Haunted Heroes Handbook",
+   "authors": "Alexander Augunas、Thurston Hillman、Isabelle Thorne、Stephen Rowe、Christopher Wasko",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Haunted Heroes Handbook",
+   "authors": "Alexander Augunas、Thurston Hillman、Isabelle Thorne、Stephen Rowe、Christopher Wasko",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "阴影血脉",
+  "url": "https://pf1.huijiwiki.com/wiki/阴影血脉",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Blood of Shadows",
+   "authors": "Alexander Augunas、Steven Helt、Luis Loza、Ron Lundeen",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Blood of Shadows",
+   "authors": "Alexander Augunas、Steven Helt、Luis Loza、Ron Lundeen",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "阴招战术工具箱",
+  "url": "https://pf1.huijiwiki.com/wiki/阴招战术工具箱",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Dirty Tactics Toolbox",
+   "authors": "Alexander Augunas、Mikko Kallio、Anthony Li、Luis Loza、Andrew Marlowe",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Dirty Tactics Toolbox",
+   "authors": "Alexander Augunas、Mikko Kallio、Anthony Li、Luis Loza、Andrew Marlowe",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "阿兹兰特废墟玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/阿兹兰特废墟玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Ruins of Azlant Player's Guide",
+   "authors": "Adam Daigle",
+   "pages": "16"
+  },
+  "text": {
+   "en": "Ruins of Azlant Player's Guide",
+   "authors": "Adam Daigle",
+   "pages": "16"
+  }
+ },
+ {
+  "title": "附赠怪物图鉴",
+  "url": "https://pf1.huijiwiki.com/wiki/附赠怪物图鉴",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Bonus Bestiary",
+   "authors": "Jason Bulmahn、F. Wesley Schneider",
+   "pages": "16"
+  },
+  "text": {
+   "en": "Bonus Bestiary",
+   "authors": "Jason Bulmahn、F. Wesley Schneider",
+   "pages": "16"
+  }
+ },
+ {
+  "title": "隼谷镇最后的希望",
+  "url": "https://pf1.huijiwiki.com/wiki/隼谷镇最后的希望",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Hollow's Last Hope",
+   "authors": "Jason Bulmahn、F. Wesley Schneider",
+   "pages": "16"
+  },
+  "text": {
+   "en": "Hollow's Last Hope",
+   "authors": "Jason Bulmahn、F. Wesley Schneider",
+   "pages": "16"
+  }
+ },
+ {
+  "title": "音讯全无",
+  "url": "https://pf1.huijiwiki.com/wiki/音讯全无",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "No Response from Deepmar",
+   "authors": "Stephen S. Greer",
+   "pages": "32"
+  },
+  "text": {
+   "en": "No Response from Deepmar",
+   "authors": "Stephen S. Greer",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "颅骨与镣铐玩家手册",
+  "url": "https://pf1.huijiwiki.com/wiki/颅骨与镣铐玩家手册",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Skull & Shackles Player's Guide",
+   "authors": "Robert G. McCreary",
+   "pages": "30"
+  },
+  "text": {
+   "en": "Skull & Shackles Player's Guide",
+   "authors": "Robert G. McCreary",
+   "pages": "30"
+  }
+ },
+ {
+  "title": "风暴烈怒",
+  "url": "https://pf1.huijiwiki.com/wiki/风暴烈怒",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Ire of the Storm",
+   "authors": "Thurston Hillman",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Ire of the Storm",
+   "authors": "Thurston Hillman",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "饥饿的亡者",
+  "url": "https://pf1.huijiwiki.com/wiki/饥饿的亡者",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Hungry are the Dead",
+   "authors": "Tim Hitchcock",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Hungry are the Dead",
+   "authors": "Tim Hitchcock",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "高掘镇需要英雄",
+  "url": "https://pf1.huijiwiki.com/wiki/高掘镇需要英雄",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Heroes for Highdelve",
+   "authors": "Amanda Hamon",
+   "pages": "16"
+  },
+  "text": {
+   "en": "Heroes for Highdelve",
+   "authors": "Amanda Hamon",
+   "pages": "16"
+  }
+ },
+ {
+  "title": "魔宠手记",
+  "url": "https://pf1.huijiwiki.com/wiki/魔宠手记",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Familiar Folio",
+   "authors": "Will McCardell、Philip Minchin、Mark Seifter、Jerome Virnich",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Familiar Folio",
+   "authors": "Will McCardell、Philip Minchin、Mark Seifter、Jerome Virnich",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "魔法市集指南",
+  "url": "https://pf1.huijiwiki.com/wiki/魔法市集指南",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Magical Marketplace",
+   "authors": "John Ling、Ron Lundeen、Patrick Renie、David Schwartz、Jerome Virnich",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Magical Marketplace",
+   "authors": "John Ling、Ron Lundeen、Patrick Renie、David Schwartz、Jerome Virnich",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "魔法战术工具箱",
+  "url": "https://pf1.huijiwiki.com/wiki/魔法战术工具箱",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Magic Tactics Toolbox",
+   "authors": "Alexander Augunas、Steven Helt、Thurston Hillman、Ron Lundeen",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Magic Tactics Toolbox",
+   "authors": "Alexander Augunas、Steven Helt、Thurston Hillman、Ron Lundeen",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "黄金死神之城",
+  "url": "https://pf1.huijiwiki.com/wiki/黄金死神之城",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "City of Golden Death",
+   "authors": "Joshua J. Frost",
+   "pages": "32"
+  },
+  "text": {
+   "en": "City of Golden Death",
+   "authors": "Joshua J. Frost",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "黑市指南",
+  "url": "https://pf1.huijiwiki.com/wiki/黑市指南",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Black Markets",
+   "authors": "Ron Lundeen、Jason Nelson、David N. Ross、David Schwartz",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Black Markets",
+   "authors": "Ron Lundeen、Jason Nelson、David N. Ross、David Schwartz",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "黑暗市集：卡塔佩什指南",
+  "url": "https://pf1.huijiwiki.com/wiki/黑暗市集：卡塔佩什指南",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Dark Markets - A Guide to Katapesh",
+   "authors": "Stephen S. Greer、Amber E. Scott",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Dark Markets - A Guide to Katapesh",
+   "authors": "Stephen S. Greer、Amber E. Scott",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "龙国舆图",
+  "url": "https://pf1.huijiwiki.com/wiki/龙国舆图",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Dragon Empires Gazetteer",
+   "authors": "James Jacobs、Dave Gross、Robert G. McCreary",
+   "pages": "64"
+  },
+  "text": {
+   "en": "Dragon Empires Gazetteer",
+   "authors": "James Jacobs、Dave Gross、Robert G. McCreary",
+   "pages": "64"
+  }
+ },
+ {
+  "title": "龙疤之血",
+  "url": "https://pf1.huijiwiki.com/wiki/龙疤之血",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Blood of Dragonscar",
+   "authors": "Keith Baker",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Blood of Dragonscar",
+   "authors": "Keith Baker",
+   "pages": "32"
+  }
+ },
+ {
+  "title": "龙陨守卫",
+  "url": "https://pf1.huijiwiki.com/wiki/龙陨守卫",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Guardians of Dragonfall",
+   "authors": "Anson Caralya",
+   "pages": "32"
+  },
+  "text": {
+   "en": "Guardians of Dragonfall",
+   "authors": "Anson Caralya",
+   "pages": "32"
+  }
+ }
+]

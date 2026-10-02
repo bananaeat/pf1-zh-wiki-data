@@ -1,0 +1,7 @@
+{{物品
+|name=母后
+|english_name=The Queen Mother
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。抽卡后2d4只[[巨蚁]]出现并忠诚的为你服务，直至死亡。它们能听懂抽卡者的命令，但无法回应。
+}}

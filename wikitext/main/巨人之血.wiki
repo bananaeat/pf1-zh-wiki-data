@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Reign of Winter Player's Guide pg. 5, People of the North pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=巨人之血
+|english_name=Blood of Giants
+|type=战役
+|pfs=否
+|description=你是个大块头，人们总说你身上有巨人的血统。还是个孩子时，你就比朋友们高出一大截，而随着年龄增长，你长得更高更壮了。也许你的头发还带着一抹蓝色，或者你的皮肤白得像雪。也许有一天你会有机会前往北地，见见真正的巨人，看看关于你的传言是否属实。你为破坏物品而进行的战技检定获得+1背景加值，并且你的CMD在对抗冲撞和践踏战技时获得+1背景加值。
+|source_name=Reign of Winter Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Blood%20of%20Giants
+}}

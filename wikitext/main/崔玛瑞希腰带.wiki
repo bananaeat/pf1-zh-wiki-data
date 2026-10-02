@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=崔玛瑞希腰带
+|english_name=Belt of Trelmarixian
+|aon=MagicWondrousDisplay.aspx?FinalName=Belt of Trelmarixian
+|cat=奇物
+|aura=微弱咒法系、死灵系
+|cl=5
+|slot=腰部
+|price=4,000 gp
+|weight=1磅
+|description=这条深色皮腰带常由崇拜饥荒驭者[[崔玛瑞希]]的人制作，朴素的黄铜带扣上嵌着一块碎裂灵魂宝石的碎片。崔玛瑞希腰带的穿戴者无需进食，也不受饥饿的影响，不过几天之后，她的外表会开始变得形销骨立。每天3次，穿戴者可以触碰一个生物（需要一次成功的近战接触攻击），让它承受难以忍受的饥饿绞痛。如果目标未能通过DC 15强韧豁免，就会受到2d6点非致命伤害，并陷入[[疲乏]]。无需进食的生物，以及免疫非致命伤害的生物，对该能力免疫。
+|req=[[制造奇物]]、[[造粮术]]、[[疲乏之触]]
+|cost=2,000 gp
+|source=Pathfinder: Spiral of Bones #5
+}}

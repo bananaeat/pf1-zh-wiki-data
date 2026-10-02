@@ -1,0 +1,9 @@
+{{Trait
+|name=祖传盔甲
+|english_name=Ancestral Armor
+|type=社会
+|description=你继承了一套塔尔·塔尔伽夫帝国的古老铠甲。你在游戏开始时拥有一套你选择的精制品盔甲。你必须擅长该盔甲，且其总价不得超过300金币。
+|source_name=古国血脉
+|source=BotA
+|source_url=https://pf1chm.pages.dev/topics/zhb7c0053e99.htm
+}}

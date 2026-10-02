@@ -1,0 +1,14 @@
+{{魔法物品
+|name=医疗手套
+|english_name=Healer's Gloves
+|aon=MagicWondrousDisplay.aspx?FinalName=Healer's Gloves
+|cat=奇物
+|aura=微弱咒法系
+|cl=5
+|slot=手部
+|price=2,500 gp
+|description=这双纯白色的皮手套，手背上带有治疗与信仰的符号。穿戴者的医疗检定获得+5表现加值。
+|req=[[制造奇物]]，制造者必须拥有5级[[医疗]]
+|cost=1,250 gp
+|source=极限宝具
+}}

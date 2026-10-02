@@ -1,0 +1,9 @@
+{{Trait
+|name=污秽之触
+|english_name=Unspeakable Bond
+|type=宗教
+|prerequisites=信仰任一旧神
+|description=你是此世的不洁之物的同盟，你在与异怪生物交涉时获得+2背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

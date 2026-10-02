@@ -1,0 +1,14 @@
+{{魔法物品
+|name=理解眼镜
+|english_name=Spectacles of Understanding
+|aon=MagicWondrousDisplay.aspx?FinalName=Spectacles of Understanding
+|cat=奇物
+|aura=微弱预言系
+|cl=2
+|slot=眼部
+|price=3,000 gp
+|description=穿戴这副看似普通的[[眼镜]]时，它会把任何书面语言转换成穿戴者所知的语言，如同法术[[通晓语言]]。这副眼镜也善于识别伪造的文件，使穿戴者在[[语言学]]检定中识别伪造品时获得+5加值，并且可以未受训进行这类检定。
+|req=[[制造奇物]]、[[通晓语言]]
+|cost=1,500 gp
+|source=极限宝具
+}}

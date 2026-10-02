@@ -1,0 +1,12 @@
+{{Feat
+|name=高等移位
+|english_name=Greater Reposition
+|categories=战斗
+|description=当你改变敌人的位置时，他们会变得容易遭受你盟友的攻击。
+|prerequisites=智力13，[[寓守于攻]]，[[精通移位]]，基本攻击加值+6。
+|benefit=你所实行的移位[[战技]]检定获得+2加值。这个加值与[[精通移位]]提供的加值叠加。每当你通过移位使敌人移动时，他的移动会引起你的盟友的[[借机攻击]]（但是不包括你）。
+|normal=由于移位战技而移动的生物不会引起借机攻击。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

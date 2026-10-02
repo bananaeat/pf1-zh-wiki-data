@@ -1,0 +1,9 @@
+{{Feat
+|name=交换先攻
+|english_name=Trade Initiative
+|categories=团队
+|description=你精于提升盟友的反应速度，反之亦然。
+|benefit=在进行[[先攻]]检定后，揭示敌人先攻检定之前，你可以与一位拥有本专长的邻接盟友交换先攻检定的结果（不包括调整值）。
+|source_name=遥远世界
+|source_url=https://pf1chm.pages.dev/topics/zh2d61c49a80.htm
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=骗徒之眼
+|english_name=Eyes of the Liar
+|aon=MagicWondrousDisplay.aspx?FinalName=Eyes of the Liar
+|cat=奇物
+|aura=微弱预言系
+|cl=5
+|slot=眼部
+|price=16,000 gp
+|description=这对烟色水晶镜片能向他人窥探的心灵隐藏穿戴者的思想与意图。它们使穿戴者在[[唬骗]]检定上获得+5表现加值，并对[[侦测思想]]免疫。必须戴上两块镜片，此魔法物品才会起作用。
+|req=[[制造奇物]]、[[鹰之威仪]]、[[回避侦测]]
+|cost=8,000 gp
+|source=近战战术工具箱
+}}

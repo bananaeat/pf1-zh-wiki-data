@@ -1,0 +1,10 @@
+{{装备
+|name=歌鸣糖锭
+|english_name=Lozenge of the songbird
+|cat=炼金工具
+|price=50 gp
+|weight=—
+|craft_dc=25
+|description=这种裹着蜂蜜的糖果是由可以让人情绪舒缓的试剂制成。在吃下糖果后，它需要花1轮时间来生效，在接下来的1小时内，使用者的所有表演（歌唱）检定会获得+2炼金加值。
+|source=进阶职业指南
+}}

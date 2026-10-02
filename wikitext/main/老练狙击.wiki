@@ -1,0 +1,16 @@
+{{Feat
+|name=老练狙击
+|english_name=Expert Sniper
+|categories=战斗
+|description=你深通打一枪换一个地方的真髓。
+|prerequisites=隐匿技能3级
+|benefit=你在发动狙击以后重新[[隐蔽]]自己的隐匿技能检定减值降低10点。
+|normal=你在发动狙击以后重新隐蔽自己的隐匿技能检定承受-20减值。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[狙杀王牌]]（1 个条目）

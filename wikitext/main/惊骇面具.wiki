@@ -1,0 +1,10 @@
+{{Feat
+|name=惊骇面具
+|english_name=Masked by Fear
+|description=当你带上面具，你就用一切你恐惧之物武装了自己。
+|prerequisites=[[无名之人]]，基础意志豁免加值+6或英勇职业特性
+|benefit=当戴上刻有你最大恐惧之物的面具，你得以彻底避免恐惧。当处于无名之人的专长效果下时，每当你需承受畏缩、惊惧或恐慌状态时，上述状态只能令你表现出战栗的状态而不能对你施加它们通常的效果。另外，每当你尝试一次技能检定（通常来说是威吓）来挫败敌人士气，你在此检定上获得+3加值。
+|source=AA
+|source_name=秘术选集
+|source_url=https://pf1chm.pages.dev/topics/zh9e110583ac.htm
+}}

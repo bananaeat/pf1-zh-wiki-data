@@ -1,0 +1,14 @@
+{{魔法物品
+|name=劝诱头饰
+|english_name=Circlet of Persuasion
+|aon=MagicWondrousDisplay.aspx?FinalName=Circlet of Persuasion
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=头部
+|price=4,500 gp
+|description=这条雕工精细的银色头带使佩戴者在基于魅力的检定上获得+3表现加值。
+|req=[[制造奇物]]、[[鹰之威仪]]
+|cost=2,250 gp
+|source=核心规则书、极限宝具
+}}

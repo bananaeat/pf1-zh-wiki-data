@@ -1,0 +1,10 @@
+{{消歧义|恶意变形术}}
+{{危害
+|name=恶意变形术
+|english_name=Baleful Polymorph Spell
+|kind=诅咒
+|type=诅咒，法术
+|save=强韧 DC 17
+|effect=目标变形为[[蜥蜴]]；见[[恶意变形术]]法术描述
+|source=核心规则书
+}}

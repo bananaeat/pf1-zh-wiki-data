@@ -1,0 +1,11 @@
+{{Feat
+|name=怪异梦景
+|english_name=Dreamed Secrets
+|pfs=否
+|description=居于群星之外的存在透过梦境中对你悄声低语，诡异的力量与巨大的代价必须同时承担。
+|prerequisites=能够施放神术，施法者等级7级，信仰旧日支配者或者外神
+|benefit=每夜休息时，你可以从法师法术列表中选择2个法术，如果你是一个自发施法者，你可以视为在接下来24小时内知晓这些法术；如果你是准备施法者，那么你可以在24小时内准备这些法术。这两个法师法术必须至少比你能施放的最高神术环数低1环。在施放这两个法术时，你必须通过一个DC20的意志豁免，否则将施法失败并受到1d2感知伤害，但你不会失去这个法术。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

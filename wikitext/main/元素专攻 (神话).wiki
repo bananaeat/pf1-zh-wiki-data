@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[元素专攻]] 的神话版本。</small></div>
+{{Feat
+|name=元素专攻
+|english_name=Elemental Focus
+|categories=神话
+|description=你的[[元素法术]]强而有力、行之有效。
+|prerequisites=[[元素专攻]]
+|benefit=选择一项你已经具有[[元素专攻]]专长的能量类型。元素专攻与[[高等元素专攻]]对所选能量类型的法术提供的豁免DC加值增加1点。当你施放的法术具有此种能量类型的描述符时，作为施法的一部分，你能够花费1次神话之力迫使法术的目标进行两次豁免检定，并取较低结果。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=苏露奈门徒
+|english_name=Student of Sulunai
+|description=你研究过[[神裔]]苏露奈的生平与事迹，苏露奈曾在全国性的混乱时期领导天京的人民。你知道第二次机会会是救赎的契机。
+|prerequisites=[[神裔]]
+|benefit=当一个目标在你周围30尺内重骰一次属性检定、豁免检定或技能检定时，你能以一个[[直觉动作]]给予他的新骰掷结果+2洞察加值。每日一次，你也可以将[[神恩]]作为一个类法术能力施放，以你的角色等级作为施法者等级。
+|source=HotHC
+|source_name=皇庭英豪
+|source_url=https://pf1chm.pages.dev/topics/page_670.html
+}}

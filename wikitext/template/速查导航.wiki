@@ -1,0 +1,8 @@
+<includeonly><div class="portal-nav">{{#ifeq:{{{here|}}}|法术|<span class="on">[[法术速查|法术]]</span>|[[法术速查|法术]]}}{{#ifeq:{{{here|}}}|专长|<span class="on">[[专长速查|专长]]</span>|[[专长速查|专长]]}}{{#ifeq:{{{here|}}}|技能|<span class="on">[[技能]]</span>|[[技能]]}}{{#ifeq:{{{here|}}}|物品|<span class="on">[[物品速查|物品]]</span>|[[物品速查|物品]]}}{{#ifeq:{{{here|}}}|背景特性|<span class="on">[[背景特性速查|背景特性]]</span>|[[背景特性速查|背景特性]]}}{{#ifeq:{{{here|}}}|职业|<span class="on">[[职业]]</span>|[[职业]]}}{{#ifeq:{{{here|}}}|种族|<span class="on">[[种族]]</span>|[[种族]]}}{{#ifeq:{{{here|}}}|神祇|<span class="on">[[神祇速查|神祇]]</span>|[[神祇速查|神祇]]}}{{#ifeq:{{{here|}}}|怪物|<span class="on">[[怪物速查|怪物]]</span>|[[怪物速查|怪物]]}}{{#ifeq:{{{here|}}}|NPC|<span class="on">[[NPC速查|NPC]]</span>|[[NPC速查|NPC]]}}{{#ifeq:{{{here|}}}|危害|<span class="on">[[危害速查|危害]]</span>|[[危害速查|危害]]}}{{#ifeq:{{{here|}}}|规则|<span class="on">[[规则]]</span>|[[规则]]}}</div>{{#invoke:版权抬头|main}}</includeonly><noinclude>
+各速查页页顶的横向导航。十几个大类之间互相跳转（NPC 一项 2026-09-19 加的，指向 [[NPC速查]]；危害一项 2026-10-02 加的，指向 [[危害速查]]）（仪式原来也在这一排，2026-09-10 撤掉——它是用得较少的小规则，现在归在 [[规则]] 页的「扩展规则」一行，见 [[仪式速查]]）——在这之前速查页之间是完全走不通的。
+
+ {{速查导航|here=法术}}
+
+`here` 是当前页，会渲染成不可点的高亮项。样式在 [[MediaWiki:Common.css]] 的「速查导航」一节。
+[[分类:模板]][[分类:导航模板]]
+</noinclude>

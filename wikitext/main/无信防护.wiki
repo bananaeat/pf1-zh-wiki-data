@@ -1,0 +1,10 @@
+{{Feat
+|name=无信防护
+|english_name=Atheist Abjurations
+|description=你对于神力的批判态度允许你以最好的方式来移除神力干扰。
+|prerequisites=[[神力抵抗]]
+|benefit=当你使用一个防护系法术来解除或者反制一个神术，或者将一个由神术施法者召唤或呼唤而来的跨位面异界生物遣返原位面时，你的施法者等级+2。
+|source=F&P
+|source_name=信仰与哲学
+|source_url=https://pf1chm.pages.dev/topics/page_673.html
+}}

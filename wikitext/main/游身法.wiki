@@ -1,0 +1,9 @@
+{{Trait
+|name=游身法
+|english_name=Evasive Sting
+|type=战斗
+|description=大块头很难打到你。若对方是你的宿敌、同时体型大于你两级以上，你对抗其攻击时AC获得+1闪避加值。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

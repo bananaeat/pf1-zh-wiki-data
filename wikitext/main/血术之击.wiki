@@ -1,0 +1,12 @@
+{{Feat
+|name=血术之击
+|english_name=Blooded Arcane Strike
+|categories=战斗
+|description=蕴藏在你鲜血之中的奥术能量伴随着你的每一次攻击而涌动
+|prerequisites=[[奥术打击]]，可以施放奥术魔法，血怒职业能力
+|benefit=当你处于[[血怒]]状态下，你无需使用[[迅捷动作]]启动[[奥术打击]]——它将永久性生效。当你将奥术打击与[[要害打击]]、[[精通要害打击]]或[[高等要害打击]]并用时，奥术打击的伤害加值会乘以你为这些专长投伤害骰的次数（两次、三次或四次）。
+|stamina=当你以奥术打击强化武器时，你可以通过花费5点耐力使其在持续时间内伤害+1。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

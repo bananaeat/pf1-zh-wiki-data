@@ -1,0 +1,10 @@
+<noinclude>{{炼金术师导航}}
+'''永恒药水'''（Eternal potion）是[[炼金术师]]的[[科研发现]]。
+
+</noinclude>{{Source|进阶玩家指南|Advanced Player's Guide|inline}}
+
+如果一个炼金术师饮用了一份他延时处理过的药水，这份药水的效果可以永久保持，除非他选择另一份永恒药水来替换效果。选择这一科研发现需要16级炼金术师等级，且已学会[[延时药水]]。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_71.html 原文]）。全部科研发现见 [[:分类:科研发现|分类:科研发现]]。
+
+[[分类:科研发现]]</noinclude>

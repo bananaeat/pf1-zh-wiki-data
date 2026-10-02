@@ -1,0 +1,25 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[次元锁 (神话)]]。</small></div>
+{{Spell
+|name=次元锁
+|english_name=Dimensional Lock
+|school=防护系
+|levels=召唤师 6;先知 8;奥能师 8;异能者 8;术士 8;法师 8;牧师 8
+|action=标准动作
+|components=语言;姿势
+|range=中距
+|area=以空间中的一点为中心, 半径20尺发散区域
+|duration=1天/等级
+|save=无
+|sr=是
+|description=你创造出一个泛着微光的翠绿色屏障来完全阻止跨维度旅行。被阻止的形式包括下表以及其他类似的类法术能力。一旦次元锁生成，跨维度进出该区域都是不可能的。
+
+<table class="wikitable">
+<tr><th>l [[星界投射]]</th><th>l [[同游灵界]]</th><th>l [[行影术]]</th></tr>
+<tr><td>l [[闪现术]]</td><td>l [[异界之门]]</td><td>l [[传送术]]</td></tr>
+<tr><td>l [[任意门]]</td><td>l [[迷宫术]]</td><td></td></tr>
+<tr><td>l [[幻化灵体]]</td><td>l [[异界传送]]</td><td></td></tr>
+</table>
+
+对于施法时已经处在灵体或星界形态的生物，次元锁对其移动没有影响，次元锁也不会影响跨维度感知和攻击形式。同时，此法术不能阻止召唤生物在召唤法术结束后消失。
+|source=核心规则书
+}}

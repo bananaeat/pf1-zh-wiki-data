@@ -1,0 +1,11 @@
+{{Feat
+|name=噬心流
+|english_name=Psychovore Style
+|categories=战斗;流派
+|pfs=否
+|description=你能感知其他人的思想并预判他们的动作。
+|prerequisites=[[精通徒手打击]]，察言观色3级。
+|benefit=当使用此流派时，你可以用一个[[移动动作]]对一个智力为3或更高的生物进行察言观色检定（DC＝15＋目标的CR）。如果你成功了，在你不再使用此流派之前，你对抗该生物攻击的AC获得+1闪避加值。同一时间你只能对一个生物保有这个加值：如果你对另一个生物的察言观色检定成功，你将失去对第一个生物的加值。当你的察言观色等级达到8级时，这个加值增加到+2；达到13级时，增加到+3。
+|source_name=探索者：螺旋之骨3
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

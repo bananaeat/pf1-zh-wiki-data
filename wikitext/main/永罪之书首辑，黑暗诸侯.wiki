@@ -1,0 +1,48 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Book of the Damned - Volume 1  Princes of Darkness
+|authors=F. Wesley Schneider
+|pages=64
+}}
+
+{{书页/简介|head=抛弃一切希望……|1=
+从诸神的起源到最幽暗的地狱深坑中的居民，《永罪之书首辑，黑暗诸侯》毫不留情地审视了[[阿斯莫迪斯]]、大魔鬼以及整个地狱等级体系的手段、动机与目标。无论你打算强攻阿弗纳斯（Avernus）的城门，还是想在迪斯（Dis）光怪陆离、伤风败俗的市集上做买卖，或者只是想给一场标准战役添上一抹魔鬼风味，这本 64 页的书里都满是足以让浮士德本人动心的诱惑。
+
+《黑暗诸侯》包括：
+
+* 对地狱逐层的描述，以及各层的统治者
+* 地狱的等级体系，以及魔鬼如何晋升
+* 每一类魔鬼的职责与任务，包括地狱公爵与阿斯莫迪斯的使者
+* 地狱契约的准则
+* 魔鬼护符、真名及其用途
+* 新的地狱主题法术、魔法物品与神器
+* [[魔鬼大师]]进阶职业，附[[魔鬼，小魔鬼|小魔鬼]]伙伴
+* 五种新魔鬼，从亵渎神明的[[魔鬼，叛教魔|叛教魔]]到锲而不舍的勒瓦洛克魔（levaloch）
+
+这本独立成册的书还可以与「盗贼议会」[[冒险之路]]、《Pathfinder Chronicles: The Great Beyond》以及《[[切里亚斯，魔鬼王朝]]》（Pathfinder Companion: Cheliax, Empire of Devils）中的内容相互补充。
+}}
+
+'''永罪之书首辑，黑暗诸侯'''（''Princes of Darkness, Book of the Damned Volume 1''）是由 F. Wesley Schneider 撰写的一本《探索者编年史》（Pathfinder Chronicles）资料书，为三卷本《永罪之书》（Book of the Damned）系列的第一卷，其后依次是《[[永罪之书第二卷：混沌领主]]》与《永罪之书末辑，天启诸骑》（Horsemen of the Apocalypse），于 2009 年 10 月发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+地狱与大魔鬼 @ 4
+迪斯之城 @ 24
+魔鬼族 @ 26
+秩序 @ 34
+魔鬼崇拜 @ 36
+地狱等级 @ 50
+魔鬼行径 @ 52
+出走 @ 62
+}}
+
+{{书页尾
+|pfw=Princes of Darkness, Book of the Damned Volume 1
+|releases=PDF¦PZO9213E¦2009-10¦；Softcover¦PZO9213¦2009-10¦
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

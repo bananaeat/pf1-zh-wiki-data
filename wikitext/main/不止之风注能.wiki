@@ -1,0 +1,17 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|武术手册|Martial Arts Handbook}}
+'''不止之风注能'''（Unfolding Wind Infusion）是[[操念使]]的[[原力]]。
+
+元素：气；类别：性质注能；等级：5；超载：3
+
+前置：[[念拳]]，不止之风修道院成员
+
+关联[[念袭]]类别：[[突风]]，[[风雷击]]
+
+豁免：无
+
+不息的风带你前行。在你使用注能[[念袭]]的第一次攻击之前以及每次[[徒手攻击]]之后，你可以不引发[[借机攻击]]的移动5尺。你只有使用[[念拳]]塑形注能的情况下才能使用这一注能。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部[[原力]]见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Unfolding Wind Infusion|2=Unfolding Wind Infusion}}
+
+[[分类:原力]]

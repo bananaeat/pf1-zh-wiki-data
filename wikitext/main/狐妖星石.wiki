@@ -1,0 +1,14 @@
+{{魔法物品
+|name=狐妖星石
+|english_name=Kitsune Star Gem
+|aon=MagicWondrousDisplay.aspx?FinalName=Kitsune Star Gem1st
+|cat=奇物
+|aura=微弱变化系
+|cl=1（1环）；3（2环）；5（3环）
+|slot=无
+|price=750 gp（1环）；3,000 gp（2环）；6,750 gp（3环）
+|description=这块魔法宝石会像[[妖火]]一样发光，散发出如同蜡烛一般的光亮。它的作用如同[[法力再生珍珠]]，不同之处在于，它只能让[[狐妖]]恢复一次已用掉的、相应法术环级的类法术能力的使用次数。
+|req=[[制造奇物]]；制造者必须是[[狐妖]]
+|cost=365 gp（1环）；1,500 gp（2环）；3,375 gp（3环）
+|source=进阶种族手册
+}}

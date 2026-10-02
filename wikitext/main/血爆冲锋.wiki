@@ -1,0 +1,11 @@
+{{Feat
+|name=血爆冲锋
+|english_name=Blasting Charge
+|description=你的[[血怒]]汇集为奥术能量的爆发，在你冲击目标时造成可怕的伤害。
+|prerequisites=基础攻击加值+7，可以施放2环血脉狂怒者法术，[[血怒]]职业能力
+|benefit=在处于血怒状态下，冲锋结束时，你可以以[[迅捷动作]]消耗一个血脉狂怒者法术位，为你的冲锋攻击注入额外的力量。所消耗的法术位每一环使你额外造成1d6点力场伤害，此额外伤害不会因重击而翻倍。
+|extra=如果你选择的血脉拥有特定的能量倾向（如元素血脉或巨龙血脉），你可以将这次额外伤害转换为你所选择的能量类型，并造成每消耗环数1d8点伤害。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

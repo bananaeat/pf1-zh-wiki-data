@@ -1,0 +1,9 @@
+{{Trait
+|name=爆破狂
+|english_name=Focused Burn
+|type=魔法
+|description=你了解如何制造更要命的炸弹。你的任何造成火焰伤害的炸弹每拥有2d6直接伤害，就会追加造成额外的1点火焰伤害(至少1点)。此加值对溅射伤害无效。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=姐妹壁垒
+|english_name=Sisterhood Rampart
+|categories=战斗
+|description=盾墙是灰少女战术的核心；加上她们精确的战术配合，灰少女战线几乎牢不可破。战线后排的灰少女能够用长柄武器和长弓轻松攻击对手。
+|prerequisites=魅力13，[[盾牌专攻]]，[[盾墙]]，[[姐妹流]]，[[武器专攻]]（长剑），BAB+4
+|benefit=当你使用姐妹流时，你和相邻盟友在盾墙上获得的盾牌加值上额外增加1点，并且你们中的每一个人都可以把AC上的盾牌加值（不计算增强加值）加到对抗冲撞战技的CMD上。此外，你和相邻的盟友不再会为盟友的攻击提供软掩蔽。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

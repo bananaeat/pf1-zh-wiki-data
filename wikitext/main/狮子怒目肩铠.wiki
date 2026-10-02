@@ -1,0 +1,15 @@
+{{魔法物品
+|name=狮子怒目肩铠
+|english_name=Pauldrons of the Watchful Lion
+|aon=MagicWondrousDisplay.aspx?FinalName=Pauldrons of the Watchful Lion
+|cat=奇物
+|aura=微弱死灵系
+|cl=5
+|slot=肩部
+|price=10,800 gp
+|weight=3磅
+|description=这对钢铁与黄铜制成的肩铠上，两肩各装饰着一个黄铜狮头。每天两次，当有生物成功通过特技检定，穿过穿戴者的威胁范围或其所占据的空间而不引发借机攻击时，穿戴者可以用一个直觉动作令一头暗影狮子从一只肩铠中活化而出，攻击该生物。这次攻击使用穿戴者的基础攻击加值＋敏捷调整值，攻击目标的接触AC。命中时，狮子造成2d6点穿刺伤害（重击倍率×2）。
+|req=[[制造奇物]]、[[制造魔法武器和防具]]、[[幽灵手]]
+|cost=5,400 gp
+|source=极限宝具
+}}

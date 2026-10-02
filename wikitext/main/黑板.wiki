@@ -1,0 +1,9 @@
+{{装备
+|name=黑板
+|english_name=Chalkboard
+|cat=冒险装备
+|price=1 gp
+|weight=2磅
+|description=黑板由一块抛光的黑色石头薄片和围绕它的木头框架组成，大致与一本大书的大小相当。用一块湿布擦拭可以擦除粉笔在上面留下的任何痕迹。
+|source=进阶玩家指南、极限宝具
+}}

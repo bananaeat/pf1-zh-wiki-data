@@ -1,0 +1,14 @@
+{{魔法物品
+|name=精魂复苏熏香
+|english_name=Spirit Revivification Incense
+|aon=MagicWondrousDisplay.aspx?FinalName=Spirit Revivification Incense
+|cat=奇物
+|aura=中等死灵系
+|cl=11
+|slot=无
+|price=800 gp
+|description=这根熏香包裹在死去精魂的灵质残渣之中。唤魂师可以将熏香点燃作为她使魅影显形仪式的一部分，在这种情况下，无论先前的伤势如何，魅影都会以最大生命值显形。每根精魂复苏熏香只能使用一次，用后就会被完全消耗。
+|req=[[制造奇物]]、[[医疗术]]
+|cost=400 gp
+|source=异能冒险
+}}

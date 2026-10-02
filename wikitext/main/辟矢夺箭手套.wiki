@@ -1,0 +1,14 @@
+{{魔法物品
+|name=辟矢夺箭手套
+|english_name=Gloves of Arrow Snaring
+|aon=MagicWondrousDisplay.aspx?FinalName=Gloves of Arrow Snaring
+|cat=奇物
+|aura=微弱防护系
+|cl=3
+|slot=手部
+|price=4,000 gp
+|description=穿上之后，这双贴身的手套仿佛与双手融为一体，在不经意的观察下几乎看不见。每天2次，穿戴者可以视同拥有[[抓取飞箭]]专长，即使他不满足该专长的先决条件。必须同时戴上两只手套，魔力才会生效，并且至少要有一只手是空着的才能利用这种魔力。
+|req=[[制造奇物]]、[[护盾术]]
+|cost=2,000 gp
+|source=核心规则书、极限宝具
+}}

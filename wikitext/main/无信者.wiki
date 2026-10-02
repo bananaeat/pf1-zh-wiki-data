@@ -1,0 +1,9 @@
+{{Trait
+|name=无信者
+|english_name=Skeptic
+|type=魔法
+|description=你的成长历程被魔法效果所围绕，而你逐渐认识到其中大部分仅仅是烟尘和镜像罢了。你在对抗幻术效果的全豁免中获得+2背景加值。
+|source_name=魔法背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

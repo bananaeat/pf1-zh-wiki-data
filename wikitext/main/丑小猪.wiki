@@ -1,0 +1,10 @@
+{{Trait
+|name=丑小猪
+|english_name=Ugly Swine
+|type=种族
+|prerequisites=[[地精]]
+|description=你是一个身世不明的小怪胎。作为[[地精]]而言，你的头细小而且嘴巴奇怪地狭窄，只要你保持低调，这让你在城市环境中作为一个无法辨识的杂种而不被在意。然而若仔细检查，你的地精起源仍会被揭穿。你在[[易容]]检定获得+2背景加值，而且易容成为你的[[本职技能]]。
+|source_name=格拉里昂的地精
+|source=Goblins of Golarion
+|source_url=https://pf1chm.pages.dev/topics/zh0c27dc639b.htm
+}}

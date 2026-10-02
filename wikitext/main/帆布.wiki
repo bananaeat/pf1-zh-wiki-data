@@ -1,0 +1,9 @@
+{{装备
+|name=帆布
+|english_name=Canvas (sq. yd.)
+|cat=冒险装备
+|price=1 sp
+|weight=1磅
+|description=这块1平方码的厚重布匹适用于绘画，在暴雨中遮挡物品，制作船帆，或者充当简易的袋子。帆布并不防水，但可以用油、蜡或树脂处理，使其耐水。
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=揭露之影/魔影现踪
+|english_name=Umbral Unmasking
+|type=缺陷
+|pfs=否
+|aliases=本影暴露
+|description=你没有投下任何影子，或你的影子恢恑憰怪。在正常的光照条件下，这并不难被看到——但也不容易被注意。生物必须成功通过DC 15的感知检定才清楚地注意到它(根据环境条件可能需要一个额外的察觉检定)。这一邪恶的明显迹象不能被[[误导术]]、[[回避侦测]]或幻术所隐藏，除了那些也会影响影子的效果(例如[[隐形术]])。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

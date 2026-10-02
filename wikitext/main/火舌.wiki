@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 19），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=火舌
+|english_name=Fire-Tongued
+|type=种族
+|pfs=否
+|prerequisites=狗头人
+|description=你部落中的术士擅长召唤并束缚来自火元素位面的异界生物。为了与这些奴仆沟通，你部落中的许多人都学会了这些异界生物语言的基础。除了龙语之外，你在游戏开始时还会说火族语。
+|source_name=格拉利昂的狗头人
+|source=KoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Fire-Tongued
+}}

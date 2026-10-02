@@ -1,0 +1,10 @@
+{{Trait
+|name=凑合一下
+|english_name=Isger Fixer
+|type=地区
+|prerequisites=[[半身人]]，依斯嘉
+|description=依斯嘉的每个人都知道怎样将就着使用次品设备，你可以临时拼凑出一些工具和材料，让受损的物品再多撑一会儿。每日一次，你可以修补一件[[破损]]的物品，让任何使用它的人在24小时内无视其破损状态的惩罚（这不会改变它的HP）。时间结束时，它恢复破损状态（但你可以在它身上一遍遍地使用本能力）。
+|source_name=地区背景
+|source=HoG
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

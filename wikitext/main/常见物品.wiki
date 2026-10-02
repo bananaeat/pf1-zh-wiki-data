@@ -1,0 +1,8 @@
+{{物品
+|name=常见物品
+|english_name=Mundane Items
+|category=冒险装备
+|description=无尽市场的小巷里充满了有趣的发现。以下是无尽市场中的常见物品范例。
+|source=MM
+|source_name=商人货单
+}}

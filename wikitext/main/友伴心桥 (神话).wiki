@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[友伴心桥]] 的神话版本。</small></div>
+{{Spell
+|name=友伴心桥
+|english_name=Companion Mind Link
+|school=惑控系 (魅惑)
+|tags=影响心灵
+|levels=德鲁伊 3;游侠 3;猎人 3
+|description=你的动物伙伴能够理解该法术所传达的复杂指示。它能够执行任何技巧（即便它本身并不了解这个技巧也是如此），就如同任何智力属性为8的生物一样进行理解并进行活动。
+|source=神话冒险
+}}
+[[分类:神话法术]]

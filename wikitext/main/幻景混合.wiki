@@ -1,0 +1,10 @@
+{{装备
+|name=幻景混合
+|english_name=Mirage mixture
+|cat=酊剂
+|price=300 gp
+|weight=—
+|craft_dc=25
+|description=这种气泡饮料会使视觉神经产生麻刺感。在饮下酊剂的1小时内，你在察觉检定和不相信幻觉的意志豁免上获得+2炼金加值。在相同的持续期间内，你在对抗其他影响心灵的意志豁免上承受-2罚值。
+|source=药剂与毒药
+}}

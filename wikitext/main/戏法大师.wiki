@@ -1,0 +1,9 @@
+{{Trait
+|name=戏法大师
+|english_name=Trickster
+|type=魔法
+|prerequisites=[[侏儒]]
+|description=你尤其擅长种族类法术能力，自幼便精通用[[舞光术]]和[[幻音术]]逗乐同伴、戏弄长辈。随着年龄增长，这份幻术天赋愈发精进，很快便有人开始传授你更高级的幻象技巧。当你施展幻术学派法术时，在判定持续时间、射程与影响范围时，施法者等级获得+1背景加值。
+|source_name=格拉里昂的侏儒
+|source_url=https://pf1chm.pages.dev/topics/zh5166336575.htm
+}}

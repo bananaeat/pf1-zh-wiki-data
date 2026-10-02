@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 20），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=稻田奔者
+|english_name=Rice Runner
+|type=地区
+|prerequisites=万寿
+|description=你在万寿以奴隶身份长大，为统治你的克拉肯暴君收割稻米，你懂得如何在湿软不稳的地面上灵活移动。你的[[特技]]检定获得+1背景加值，并且特技成为你的本职技能。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Rice%20Runner
+}}

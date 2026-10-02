@@ -1,0 +1,15 @@
+{{魔法物品
+|name=狼之头饰
+|english_name=Headband of the Wolf
+|aon=MagicWondrousDisplay.aspx?FinalName=Headband of the Wolf
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=头饰
+|price=5,000 gp
+|weight=1/2磅
+|description=这条银制头饰被铸成一群猎狼的模样。穿戴者可以凭命令获得范围10尺的灵敏嗅觉能力（上风处20尺，下风处5尺），如同猎人的动物之力职业能力的狼之面相。如果穿戴者是使用该面相的猎人，则头饰改为使穿戴者在狼之面相上的有效猎人等级提高8级。
+|req=[[制造奇物]]、[[猎犬追踪]]（《进阶玩家指南》）、制造者必须拥有[[猎人#动物之力|动物之力]]职业能力
+|cost=2,500 gp
+|source=进阶职业指南
+}}

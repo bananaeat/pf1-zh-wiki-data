@@ -1,0 +1,9 @@
+{{Trait
+|name=单挑客
+|english_name=Axe to Grind
+|type=战斗
+|description=不灭的斗魂在你心中熊熊燃烧。当敌人仅被你所威胁时，你对他的伤害检定获得+1背景加值。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

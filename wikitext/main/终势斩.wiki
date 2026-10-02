@@ -1,0 +1,16 @@
+{{Feat
+|name=终势斩
+|english_name=Cleaving Finish
+|categories=战斗
+|description=当你击倒一名敌人，你继续挥舞你的武器并攻击下一名敌人。
+|prerequisites=力量13，[[顺势斩]]，猛力攻击。
+|benefit=当你进行一次近战攻击，并且将目标的HP降低至0或更低，你可以使用你的最高攻击加值对另一名触及范围内的敌人进行一次近战攻击。你每轮只能利用该专长进行一次额外攻击。
+|stamina=如果[[终势斩]]将目标的HP降低至0或更低，花费5点耐力可继续终势斩。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[精通终势斩]]（1 个条目）

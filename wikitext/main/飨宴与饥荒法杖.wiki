@@ -1,0 +1,23 @@
+{{魔法物品
+|name=飨宴与饥荒法杖
+|english_name=Staff of Feast and Famine
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Feast and Famine
+|cat=法杖
+|aura=中等变化系
+|cl=8
+|slot=无
+|price=20,800 gp
+|weight=5磅
+|description=这根木杖上长出了叶片，有的是绿色，有的是黑色。持用者使用法杖时，会摘下其中一片叶子：绿叶提供滋养，黑叶则引发饥饿或口渴。
+
+该法杖可以使用以下法术：
+
+* [[造水术]]（1 发）
+* [[神莓]]（1 发）
+* [[净化食粮]]（1 发）
+* [[尘埃之饮]]（2 发；APG）
+* [[尘埃之宴]]（2 发；APG）
+|req=[[制造法杖]]、[[造水术]]、[[尘埃之饮]]、[[尘埃之宴]]、[[神莓]]、[[净化食粮]]
+|cost=10,400 gp
+|source=极限宝具
+}}

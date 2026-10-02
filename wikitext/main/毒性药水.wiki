@@ -1,0 +1,12 @@
+{{魔法物品
+|name=毒性药水
+|english_name=Potion of Poison
+|aon=MagicCursedDisplay.aspx?ItemName=Potion of Poison
+|cat=诅咒物品
+|aura=强烈咒法系
+|cl=12
+|slot=无
+|description=这瓶药水已经丧失了有益的效力，变成了一种烈性毒药。这种毒素在6轮内每轮造成1d3点体质伤害。中毒的生物每轮可以进行一次DC 14强韧豁免，以抵消该轮的伤害并结束这一病症。
+|req=任意药水
+|source=核心规则书、极限宝具
+}}

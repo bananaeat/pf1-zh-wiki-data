@@ -1,0 +1,15 @@
+{{Spell
+|name=恩赐
+|english_name=Virtue
+|school=变化系
+|levels=先知 0;审判者 0;战斗祭司 0;牧师 0;猎人 0;德鲁伊 0;唤魂师 0;异能者 0;萨满 0;通灵者 0;圣武士 1
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=接触
+|target=接触到的生物
+|duration=1分钟
+|save=无
+|sr=是（无害）
+|description=通过一次碰触，你将微量的生命力量灌输到生物体内，受术者获得1点临时HP。
+|source=核心规则书
+}}

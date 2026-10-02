@@ -1,0 +1,10 @@
+{{Trait
+|name=宗-库松施法者
+|english_name=Kuthite Caster
+|type=宗教
+|prerequisites=信仰[[宗-库松]]
+|description=你在施展带有黑暗、痛苦或阴影描述符的法术时的专注检定得到+4背景加值【摘自 Evana 的翻译】
+|source_name=内海诸神
+|source=摘自 Evana 的翻译
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

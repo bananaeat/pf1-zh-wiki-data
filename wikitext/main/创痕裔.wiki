@@ -1,0 +1,9 @@
+{{Trait
+|name=创痕裔
+|english_name=Scarred Descendant
+|type=战斗
+|description=你的同族是你最大的死敌。你对属于你自身亚种的宿敌进行的重击确认检定、以及追踪这类生物的生存检定获得+1背景加值。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

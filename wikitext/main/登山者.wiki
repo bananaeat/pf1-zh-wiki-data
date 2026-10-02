@@ -1,0 +1,11 @@
+<noinclude>{{消歧义|登山者(NPC)}}</noinclude>
+{{Feat
+|name=登山者
+|english_name=Mountaineer
+|description=在高海拔山地的高峰和悬崖上，你完全如鱼得水。
+|prerequisites=偏好地形（山脉）职业能力。
+|benefit=在天然的岩石表面上，你的攀爬检定上获得+2加值，且还能在避免由于高海拔[[疲乏]]和高原反应时的强韧检定上获得+4加值。如果你在一个危险的高度呆了24小时，你就会把此高度视为低一个级别。如果你在那个高度至少呆上一周，你会对高海拔疲乏或高原反应免疫。如果你在海拔较低的地方停留超过一周，你就会失去这种适应力。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=蛙跳
+|english_name=Leapfrog
+|categories=战斗;演武
+|pfs=否
+|description=你可以将一个敌人当作跳板。
+|prerequisites=特技3级
+|benefit=当你在一次成功的冲锋攻击或战技攻击之后使用迅捷动作做演武检定时，此次演武检定获得+2加值；并且在你的下一个回合结束之前，你的下一个特技、攀爬、飞行、骑术或游泳检定获得+4加值。
+|source_name=正义之路
+|source_url=https://pf1chm.pages.dev/topics/zh0cfe867645.htm
+}}

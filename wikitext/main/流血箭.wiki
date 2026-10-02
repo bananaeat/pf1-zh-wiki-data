@@ -1,0 +1,16 @@
+{{装备
+|name=流血箭
+|english_name=Arrow (bleeding)
+|cat=炼金武器
+|price=160 gp
+|weight=—
+|craft_dc=25
+|dmg=流血 1
+|type=P
+|special=见正文
+|description=这支削尖的中空细管看上去像是某种巨型昆虫的细长口针，其实取自一种食肉植物。流血箭命中生物时造成正常伤害，并额外造成1点流血伤害。重击不会使流血伤害倍增。
+|recipe=（30 黑木＋90 没药＋25 雄黄）／暴露；制作 DC 25
+|recipe_time=1 小时
+|recipe_tools=—
+|source=格拉利昂的精灵、炼金术手册
+}}

@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[施法免材]] 的神话版本。</small></div>
+{{Feat
+|name=施法免材
+|english_name=Eschew Materials
+|categories=神话
+|description=你能够在没有材料成分的情况下施放法术，即便是最为强大的法术也是如此。
+|prerequisites=[[施法免材]]
+|benefit=你能够施放任何材料成分的价值为每阶层10gp或更低的法术，而不需要提供该成分。若你花费1次神话之力，则可以在不提供材料成分的前提下，施放材料成分价值最高为每阶层50gp的法术。若你花费2次神话之力，则可以施放材料成分价值最高为每阶层100gp的法术而不用实际提供材料。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

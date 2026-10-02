@@ -1,0 +1,11 @@
+{{Feat
+|name=泰兹瑞亚龙擒抱者
+|english_name=Tatzlwyrm Grappler
+|categories=战斗
+|description=你可以扭动自己的身躯使自己难以被擒抱。
+|prerequisites=敏捷13，精通擒抱，精通徒手打击，泰兹瑞亚龙爪击流，逃脱3级
+|benefit=当你使用泰兹瑞亚龙流时，每当对手试图对你进行擒抱时，你可以尝试一个逃脱检定。如果结果高于你的CMD，你可以用这个结果来代替你的CMD对抗这次战技检定。你必须注意到攻击且不处于措手不及。
+|source=LoD
+|source_name=巨龙遗产
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

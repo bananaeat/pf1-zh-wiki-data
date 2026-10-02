@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=给我靠边
+|english_name=Shoves Aside, Greater
+|type=Ex
+|class=掉链野蛮人
+|benefit=该能力如同[[边路冲锋]]。但是野蛮人可以穿越所有的友军，就好像他们并未处在她与目标的冲锋路线上一样。野蛮人至少要达到8级且拥有【边路冲锋】才能选择此狂暴之力。
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

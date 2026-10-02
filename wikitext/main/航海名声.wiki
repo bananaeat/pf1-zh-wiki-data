@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Streets pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=航海名声
+|english_name=Seafaring Reputation
+|type=社会
+|description=乘浪者的名声帮助你说服航海者与你合作。你对水手和艾巴萨罗姆居民进行的[[交涉]]和[[威吓]]检定获得+1背景加值。
+|source_name=市井英雄
+|source=HotS
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Seafaring%20Reputation
+}}

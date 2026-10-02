@@ -1,0 +1,11 @@
+{{Feat
+|name=何须荣誉
+|english_name=Dirty Fighting
+|categories=战斗
+|description=你专注于在敌人无暇多顾时狠狠打他。
+|benefit=每当你对一个被你[[夹击]]的敌人使用[[战技]]攻击时，你可以选择放弃通过夹击获得的+2攻击加值，使你的战技攻击不会引发[[借机攻击]]。 如果你拥有了使战技不会引发借机攻击的专长或能力，那么你在发动战技攻击时通过夹击获得的攻击检定上的加值增加至+4。
+|special=该专长可以视为具有敏捷13、智力13、[[寓守于攻]]和[[精通徒手打击]]，以满足各种精通战技专长以及需要这些精通战技专长作为先决条件的专长的先决条件。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

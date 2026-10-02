@@ -1,0 +1,10 @@
+{{Feat
+|name=阎摩威仪
+|english_name=Majesty of the Yamaraj
+|pfs=否
+|description=冒险之路：暴君魔爪71
+|prerequisites=引导能量5d6，黄昏行者/暮行者，幽冥猎手种族特性
+|benefit=当你引导正能量伤害不死生物时，你可以以自由动作额外花费幽冥猎手种族能力。你引导的能量将以幽冥甲虫或其他食腐昆虫的样子出现，对不死生物造成额外50%的伤害。另外你获得额外一次幽冥猎手的每日使用次数。
+|source_name=冒险之路139：死者之路
+|source_url=https://pf1chm.pages.dev/topics/139_The_Dead_Road_.htm
+}}

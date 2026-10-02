@@ -1,0 +1,16 @@
+{{魔法物品
+|name=恶名眼罩〔半兽人〕
+|english_name=Eye Patch of Infamy (Half-Orc)
+|aon=MagicWondrousDisplay.aspx?FinalName=Eye Patch of Infamy (Half-Orc)
+|cat=奇物
+|aura=强烈变化系
+|cl=3
+|slot=眼部
+|price=10,000 gp
+|description=下列奇物通常只有所标明的种族或族裔的成员才能获得。
+
+这只绿色皮革眼罩能让[[半兽人]]穿戴者在远30尺的距离上使用威吓技能。每当穿戴者成功威吓目标，使其给予协助时，这种态度变化的持续时间加倍。穿戴者在为产生资本（见《极限战役》第77–79页）而进行的威吓检定，以及迫使他人给予协助的威吓检定上，获得+5表现加值。
+|req=[[制造奇物]]、[[鹰之威仪]]、制造者必须是半兽人
+|cost=5,000 gp
+|source=内海种族
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=死灵师的祭器
+|english_name=Necromancer's Athame
+|aon=MagicWondrousDisplay.aspx?FinalName=Necromancer's Athame
+|cat=奇物
+|aura=中等死灵系
+|cl=11
+|slot=无
+|price=20,000 gp
+|weight=2磅
+|description=这截苍白的磨尖大腿骨被雕成[[匕首]]的形状，上面每隔相等的距离钻有一个小孔，几乎像一支笛子。选择这件祭器作为联结物品的死灵师，可以用它把任何已准备好的法师死灵系法术自发转换为他所知的任何其他法师死灵系法术；想要施展的法术环数必须小于等于被转换的已准备法术的环数。
+|req=[[制造奇物]]、[[唤起死灵]]，制造者必须是死灵师
+|cost=10,000 gp
+|source=进阶玩家指南、极限宝具
+}}

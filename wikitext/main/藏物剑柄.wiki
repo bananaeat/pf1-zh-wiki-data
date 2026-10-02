@@ -1,0 +1,9 @@
+{{装备
+|name=藏物剑柄
+|english_name=Hollowed pommel
+|cat=冒险装备
+|price=5 gp
+|weight=—
+|description=根据不同的武器，藏物剑柄可容纳的物品的大小最大不超过一个瓶子，最小不超过一卷纸。发现藏物剑柄需要通过一个DC15的察觉检定。
+|source=冒险者的军械库、极限宝具
+}}

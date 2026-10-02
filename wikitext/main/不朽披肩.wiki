@@ -1,0 +1,15 @@
+{{魔法物品
+|name=不朽披肩
+|english_name=Mantle of Immortality
+|aon=MagicWondrousDisplay.aspx?FinalName=Mantle of Immortality
+|cat=奇物
+|aura=强烈变化系
+|cl=17
+|slot=胸部
+|price=50,000 gp
+|weight=1磅
+|description=这件优雅的披风以金线镶边，图案形似古老的迷宫，能够阻止衰老带来的负面效果。穿戴者不再因为处于中年或更高的年龄段而受到力量、敏捷和体质上的减值（《核心规则书》169页）。如果脱下披风（或其力量被压制），这些减值就会恢复，而岁月骤然压身带来的冲击极大，穿戴者必须通过一次DC 20的强韧豁免，否则[[力竭]]24小时。重新披上披风可以去除年龄减值，但无法去除这种力竭，它只能自行消退或用魔法解除。
+|req=[[制造奇物]]、[[高等岁月抵抗]]
+|cost=25,000 gp
+|source=极限宝具
+}}

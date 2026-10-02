@@ -1,0 +1,16 @@
+{{Feat
+|name=亡命勇士
+|english_name=Deathless Master
+|categories=战斗
+|description=即使受到严重的创伤，你也可以视若无睹的继续进行无情的突击。
+|prerequisites=力量13，体质15，[[亡命尖兵]]，[[坚忍]]，[[顽强]]，[[铁皮]]，兽人或半兽人，基本攻击加值+9。
+|benefit=当你的生命值为0或更低时，你在行动时不会失去1点生命值。
+|stamina=当你HP低于0，你可以以标准动作花费2点耐力，来获得2点临时HP，持续1分钟。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[亡命狂徒]]（1 个条目）

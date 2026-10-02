@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=次等暴君图腾
+|english_name=Tyrant Totem, Lesser
+|type=Ex
+|categories=图腾
+|prerequisites=[[野性之怒]] 或 啮咬攻击
+|benefit=狂暴时，野蛮人的啮咬攻击造成的伤害视为野蛮人的体型增大一级。
+|source_name=极限荒野
+}}

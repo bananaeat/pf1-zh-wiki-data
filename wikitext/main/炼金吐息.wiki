@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 19），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=炼金吐息
+|english_name=Alchemical Breath
+|type=种族
+|pfs=否
+|prerequisites=狗头人
+|description=你的部落为了效仿他们所崇拜的彩色龙中的绿龙，不遗余力地获取炼金煤炭（见《终极种族指南》第135页）。作为绿色[[狗头人]]部落的一员，你在游戏开始时拥有三块窒息烟雾型的炼金煤炭。吃下其中一颗煤丸能让你呼出有毒的蒸气，伤害你的敌人并使其[[恶心]]。这些煤丸不计入你的角色初始财富。
+|source_name=格拉利昂的狗头人
+|source=KoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Alchemical%20Breath
+}}

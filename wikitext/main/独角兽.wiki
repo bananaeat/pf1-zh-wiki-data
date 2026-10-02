@@ -1,0 +1,7 @@
+{{物品
+|name=独角兽
+|english_name=The Unicorn
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。此牌允许抽牌者修正之前令他悔恨的一个选择。现实的经纬被重新编排，令死者重生，历史改道。抽牌者选择在哪个场合下他将如何选择，而GM决定后果，尽可能只影响抽牌者而非周围的人。抽牌者可以决定何时使用该能力，但仅限一次。
+}}

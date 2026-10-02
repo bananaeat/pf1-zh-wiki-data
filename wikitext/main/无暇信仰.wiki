@@ -1,0 +1,9 @@
+{{Trait
+|name=无暇信仰
+|english_name=Purity of Faith
+|type=宗教
+|prerequisites=信仰[[艾奥梅黛]]
+|description=你的灵魂纯洁无暇，而且你全身心都投入到教会的事业中。你的意志豁免获得+1背景加值，而且你在面对邪恶亚种的异界生物的法术和效果影响时豁免检定+1背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

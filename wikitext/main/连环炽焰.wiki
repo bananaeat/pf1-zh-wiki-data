@@ -1,0 +1,16 @@
+{{Spell
+|name=连环炽焰
+|english_name=Chains of fire
+|school=塑能系
+|tags=火
+|levels=奥能师 6;术士 6;法师 6;魔战士 6
+|action=标准动作
+|components=语言;姿势;法器（一滴油和一小块燧石）
+|range=中距
+|target=一个主要目标，外加每等级一个次要目标 (每个次要目标都必须在主要目标30尺内)
+|duration=立即
+|save=反射，通过则减半
+|sr=是
+|description=除了上述提到的内容以及使用火焰伤害替代闪电伤害以外，该法术的作用方式和[[连环闪电]]一样。
+|source=进阶种族手册
+}}

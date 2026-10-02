@@ -1,0 +1,45 @@
+{{速查导航}}
+{{怪物
+|name=蜈蚣群
+|english_name=Centipede Swarm
+|cr=4
+|xp=1,200
+|alignment=绝对中立
+|size=微型
+|type=虫类
+|subtypes=集群
+|init=+4
+|senses=黑暗视觉 60 尺，[[通用怪物规则#颤动感知|颤动感知]] 30 尺；察觉 +4
+|description=一大群蜈蚣穿过地表，它们拥有无数密密麻麻腿和有毒的螯，如同一道致命的波浪翻涌而来。
+|ac=18，接触 18，措手不及 14（+4 敏捷，+4 体型）
+|hp=31（9d8–9）
+|fort=+5
+|ref=+7
+|will=+3
+|defensive=集群特性
+|immune=武器伤害
+|speed=30 尺，攀爬 30 尺
+|melee=集群（2d6 外加毒素）
+|space=10 尺
+|reach=0 尺
+|special_attacks=[[通用怪物规则#扰乱心神|扰乱心神]]（DC 13），[[通用怪物规则#毒素|毒素]]
+|str=1
+|dex=19
+|con=8
+|int=–
+|wis=10
+|cha=2
+|bab=+6
+|cmb=–
+|cmd=–
+|feats=[[武器娴熟]] B
+|skills=[[攀爬]] +12;[[察觉]] +4
+|racial_mods=+4 察觉
+|environment=温带或热带森林或地下
+|organization=单独，成对或一团（3–6 群）
+|treasure=无
+|special_abilities={{怪物能力|毒素|Ex|啮咬—伤口传染；豁免 强韧 DC 13；频率 每轮 1 次，持续 6 轮；效果 1d4 敏捷伤害；痊愈 通过 1 次豁免。此豁免 DC 基于体质调整值并有 +2 种族加值。}}
+|source=怪物图鉴
+}}
+
+本页译自《[[怪物图鉴]]》的怪物图鉴 CHM。

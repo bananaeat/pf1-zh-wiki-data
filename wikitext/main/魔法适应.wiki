@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Reign of Winter Player's Guide pg. 5, People of the North pg. 30），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=魔法适应
+|english_name=Adaptive Magic
+|type=战役
+|pfs=否
+|description=魔法的奇妙一直令你着迷，你几乎无法抗拒摆弄和试验魔法的冲动。你可能是炼金术士、法师或女巫的孩子，可能是探索者协会的成员，也可能身上带有一丝精类或龙的血统。你也许没有受过魔法训练，也出过不少意外事故，但你天生擅长激活魔法物品。你一直对北地的冬女巫和冰霜法师所掌握的寒冷魔法很感兴趣，很想弄到一些她们的魔法物品。你的[[知识]]（奥秘）和[[使用魔法装置]]检定获得+1背景加值，且使用魔法装置是你的本职技能。
+|source_name=Reign of Winter Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Adaptive%20Magic
+}}

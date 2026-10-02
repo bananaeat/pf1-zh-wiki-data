@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（People of the Stars pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=阿基顿凶性
+|english_name=Akitonian Ferocity
+|type=地区
+|pfs=否
+|prerequisites=阿基顿
+|description=你在阿基顿长大，战火的蹂躏将你磨砺得坚韧无比。每天一次，当你第一次被打到0生命值以下但未死亡时，你可以如同处于[[瘫痪]]状态一般再战斗1轮。在你的下一个回合结束时，除非你的生命值已回到0以上，否则你会立即陷入[[昏迷]]并开始[[濒死]]。
+|source_name=繁星子民
+|source=PotS
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Akitonian%20Ferocity
+}}

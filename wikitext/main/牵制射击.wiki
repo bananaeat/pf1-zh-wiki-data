@@ -1,0 +1,13 @@
+{{Feat
+|name=牵制射击
+|english_name=Parting Shot
+|categories=战斗
+|description=你是散兵中的能手，无论是在前进还是撤退中都可以将箭雨洒向敌人。
+|prerequisites=敏捷13，[[闪避]]，[[灵活移动]]，[[近距射击]]，[[移动射击]]，基本攻击加值+6。
+|benefit=每次遭遇1次，当你使用撤退动作时，你能够在移动中的任意一点进行单次远程攻击。
+|normal=你无法在撤退动作中进行攻击。
+|special=从6级起，选择【箭术战斗[[流派]]】的游侠能够将“牵制射击”作为战斗流派专长进行选取。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

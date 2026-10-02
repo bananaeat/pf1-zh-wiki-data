@@ -1,0 +1,29 @@
+<noinclude>{{速查导航|here=规则}}
+'''滞留吐息'''（Lingering Breath）是一条神话[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Su</span><span class="sk-a">神话</span><span class="sk-f">位置：特殊攻击</span></div>
+</noinclude><includeonly><div class="lang"><span id="滞留吐息"></span><div class="lang-h"><b>[[滞留吐息]]</b><i>Lingering Breath</i><span class="lang-w">Su · 神话 · 特殊攻击</span></div><div class="lang-d"></includeonly>
+在使用自身的[[喷吐武器(怪物能力)|喷吐武器]]时，该生物能够以自由动作并花费 1 次[[神话之力]]，使喷吐武器的区域散发出能量伤害（与喷吐武器的能量类型相同），持续每神话等级 1 轮。任何在持续时间之内处于喷吐武器范围之内、进入或者穿过该区域的生物，都会受到伤害，伤害按照该生物的体型而定。该能力对不造成能量伤害的喷吐武器没有效果。
+
+'''表：滞留吐息伤害'''
+
+{| class="wikitable"
+|-
+! 生物体型 !! 能量伤害
+|-
+| 中型或更小 || 2d4
+|-
+| 大型 || 2d6
+|-
+| 超大型 || 2d8
+|-
+| 巨型 || 4d6
+|-
+| 超巨型 || 4d8
+|}
+
+'''格式'''：滞留吐息（2d6 火焰，5 轮）
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Lingering Breath|2=Lingering Breath}}
+
+[[分类:通用怪物规则]]</noinclude>

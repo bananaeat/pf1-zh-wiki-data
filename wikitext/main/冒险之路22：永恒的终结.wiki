@@ -1,0 +1,42 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #22: The End of Eternity
+|authors=Jason Nelson
+|pages=96
+}}
+
+{{书页/简介|head=探索内在的世界！|1=
+在一张神秘地图的破旧羊皮纸和寻常墨迹之间，藏着奇妙的天堂 Kakishon。这是一片充满神秘奇观、神话异兽与传奇宝藏的领域，由史上最伟大的法师之一所创造、早已失落，如今再度激励着勇敢者前来寻觅它的奇迹。然而，时间、远古魔法与苦涩的宿怨正在腐蚀这个不可思议的世界，使它既是天堂，也是牢笼。他们能驯服 Kakishon 魔法群岛的力量，战胜这片奇境的主宰吗？还是将永远成为天堂的囚徒？
+
+本册《冒险之路》内容包括：
+
+* 《永恒的终结》，一部面向 9 级角色的冒险，作者 Jason Nelson。
+* 一窥大漩涡（Maelstrom）及其神秘的原住民——原初混沌之主[[幻蛇绪论|幻蛇]]（protean）的生活，作者 Amber Stewart。
+* 封印大师、巨灵束缚者「伟大者」Sulesh 的魔法仪式，由 Wolfgang Baur 和 James Jacobs 整理记录。
+* 探索者 Channa Ti 在蝮蛇河（River Asp）上直面危险，见「探索者日志」，作者为《纽约时报》畅销书作家 Elaine Cunningham。
+* 六种新怪物，作者 Adam Daigle、James Jacobs、Jason Nelson、F. Wesley Schneider 和 Amber Stewart。
+}}
+
+'''冒险之路22：永恒的终结'''（''Pathfinder #22: The End of Eternity''）是[[冒险之路]]「烈焰传承」系列的第四部冒险，由 Jason Nelson 撰写，配套文章出自 Wolfgang Baur、Adam Daigle、James Jacobs、F. Wesley Schneider 和 Amber Stewart，场景冒险出自 Ashavan Doyon，小说出自 Elaine Cunningham，于 2009 年 6 月 3 日发售。
+
+== 目录 ==
+本册《冒险之路》概述了神秘的幻蛇——它们是外域（Great Beyond）的古老居民，其图谋延伸到了英雄们所在的世界。Wolfgang Baur 探究了巨灵一族蕴含魔力的符号，并展示了如何将这些生物束缚为己所用。一部简短的「场景冒险」附赠冒险则让英雄们投身水下行动！此外还有新怪物，以及 Elaine Cunningham 所著《黑暗异面》的第四部分。
+{{书页/目录|1=
+前言 @ 4
+永恒的终结 @ 6
+「伟大者」Sulesh 的封印 @ 48
+混沌守护者 @ 54
+场景冒险：Kakishon 之浪 @ 64
+探索者日志：黑暗异面（4／6） @ 70
+怪物图鉴 @ 76
+预设角色 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=The End of Eternity
+|releases=PDF¦PZO9022E¦2009-06¦；Softcover¦PZO9022¦2009-06¦
+}}
+
+[[分类:书目]]

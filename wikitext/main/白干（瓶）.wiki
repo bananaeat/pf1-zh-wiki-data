@@ -1,0 +1,9 @@
+{{装备
+|name=白干（瓶）
+|english_name=Baijiu (bottle)
+|cat=饮食
+|price=10 gp
+|weight=2磅
+|description=这清冽如水的酒蒸馏自发酵的高粱，酒性极烈，其烈如地火，尝起来辣口烧喉，常被认为是需要适应才喝得惯的口味。（译注：CHM 汉化作「白干（杯）」；AoN 条目是一瓶（Baijiu (bottle)）。）
+|source=极限宝具
+}}

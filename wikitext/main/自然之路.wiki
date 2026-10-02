@@ -1,0 +1,17 @@
+{{Spell
+|name=自然之路
+|english_name=Nature's paths
+|school=预言系
+|levels=吟游诗人 1;女巫 1;审判者 1;德鲁伊 1;游侠 1;猎人 1;萨满 1
+|action=标准动作
+|components=语言;姿势;材料/圣徽（一颗光滑的石头）
+|range=接触
+|target=一个生物
+|duration=八小时（可解消）
+|save=意志，通过则无效（无害）
+|sr=是
+|description=目标本能的知晓通过旷野最短的、最简单的与最快的路。在确定陆路速度时，目标将任何无路径的地形视为有道路或小径，并将任何有道路或小径的地形视为有公路（highway，Pathfinder RPG Core Rulebook 171—172）。与目标一起旅行的生物中，每施法者等级最多一个也能受益于此法术。这法术只会在室外起效，并且在被魔法所改变的地形中不会生效。
+
+译注：此法术同样出现于Heroes of the Wild P.31，而在本书中新增了“（Pathfinder RPG Core Rulebook 171—172）这句话”，其余则完全相同。
+|source=恶棍志
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=星视透镜
+|english_name=Lens of Starsight
+|aon=MagicWondrousDisplay.aspx?FinalName=Lens of Starsight
+|cat=奇物
+|aura=微弱预言系
+|cl=1
+|slot=无
+|price=2,600 gp
+|weight=1磅
+|description=这种厚厚的黑色透镜可以连接到[[望远镜]]的观察端。当望远镜在夜间指向天空时，通过星视透镜凝望的人，就能获得[[星视]]的益处（见第29页），以及与星辰有关的知识（地理）检定+2表现加值。一架望远镜一次只能连接一块魔法透镜（例如这块透镜或收获透镜）。
+|req=[[制造奇物]]、[[星视]]，制造者在知识（地理）上至少有2级
+|cost=1,300 gp
+|source=繁星子民
+}}

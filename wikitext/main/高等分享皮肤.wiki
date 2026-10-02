@@ -1,0 +1,15 @@
+{{Spell
+|name=高等分享皮肤
+|english_name=Share skin, greater
+|school=死灵系
+|levels=女巫 8
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触的一个生物
+|duration=1分钟/等级 或 直到你回到你体内
+|save=意志，通过则无效；见后文
+|sr=是
+|description=除本条另有说明外，该法术的功能如同[[分享皮肤]]一般。
+|source=月之血脉
+}}

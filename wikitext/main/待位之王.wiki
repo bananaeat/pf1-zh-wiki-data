@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Dragons pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=待位之王
+|english_name=King in Waiting
+|type=社会
+|description=你是听着伟大蛇龙的传说长大的，并被教导说，这些邪恶之龙的死亡诅咒阻挡不了真正的强者。你在抵抗诅咒以及具有诅咒描述符之法术的豁免检定上获得+1背景加值，并在抵抗源自蛇龙之诅咒的豁免检定上获得+3背景加值。
+|source_name=巨龙遗产
+|source=LoD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=King%20in%20Waiting
+}}

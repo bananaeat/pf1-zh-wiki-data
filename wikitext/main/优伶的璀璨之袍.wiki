@@ -1,0 +1,21 @@
+{{魔法物品
+|name=优伶的璀璨之袍
+|english_name=Resplendent Robe of the Thespian
+|aon=MagicWondrousDisplay.aspx?FinalName=Resplendent Robe of the Thespian
+|cat=奇物
+|aura=强烈（学派不定）
+|cl=16
+|slot=躯体
+|price=75,000 gp
+|weight=1磅
+|description=这些华美的礼袍能把护甲的存在伪装成寻常衣物（如同[[无相]]护甲附魔）。吟游诗人穿着时，礼袍赋予穿戴者以下能力：
+
+* [[特殊能力#法术抗力|法术抗力]]18
+* 所有豁免检定+4抗力加值
+* 为克服法术抗力而进行的施法者等级检定+2增强加值
+
+吟游诗人，以及那些自诩演员或表演者的人，会用最上等的布料订制这类礼袍。
+|req=[[制造奇物]]、[[反魔场]]、[[破除结界]]、[[高等英雄气概]]、[[隐匿之纱]]
+|cost=37,500 gp
+|source=极限宝具
+}}

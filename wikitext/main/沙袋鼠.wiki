@@ -1,0 +1,41 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=沙袋鼠
+|english_name=Wallaby
+|cr=1/3
+|xp=135
+|alignment=绝对中立
+|size=小型
+|type=动物
+|init=+2
+|senses=昏暗视觉；察觉 +4
+|description=这种两足哺乳动物有长长的尾巴、短短的前臂和修长灵活的后腿，赋予它奇特的跳跃步态。
+|ac=13，接触 13，措手不及 11（+2 敏捷，+1 体型）
+|hp=4（1d8）
+|fort=+2
+|ref=+4
+|will=+0
+|speed=40 尺
+|melee=挥击 +0（1d3–1）
+|str=8
+|dex=14
+|con=11
+|int=2
+|wis=10
+|cha=4
+|bab=+0
+|cmb=–2
+|cmd=10
+|feats=[[技能专攻]]（特技）
+|skills=[[特技]] +5;[[察觉]] +4
+|environment=温带或温暖的森林
+|organization=单独，一对，或一群（3–10）
+|treasure=无
+|source=极限荒野
+|lore=
+沙袋鼠是矮壮的哺乳动物，常被误认为是小型袋鼠。与所有有袋类动物一样，沙袋鼠把新生幼崽装在身体前部的育儿袋里。沙袋鼠用其强壮的后腿自卫，能迅速从身下蹬出，踢出强力一击，让想要捕食它的对手踉跄后退。
+
+沙袋鼠高约 2 尺，重 20–40 磅。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Wallaby|2=Wallaby}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=刚正不阿
+|english_name=Honest
+|type=信念
+|description=一位宗教导师向你灌输了不妥协的正直信念。你常不顾可能招致的恐惧或仇恨而直言不讳，这种习惯使他人对你产生信任。你在交涉检定中获得+1背景加值。若该检定用于影响对你态度已达友善或乐于帮助的对象，此加值提升至+2。
+建议角色：魔鬼主义者，圣武士，塞恩蕾信徒
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

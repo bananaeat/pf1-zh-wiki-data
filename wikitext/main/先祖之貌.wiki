@@ -1,0 +1,12 @@
+{{Feat
+|name=先祖之貌
+|english_name=Ancestor's Visage
+|aon=无
+|categories=技巧
+|description=你可能是某位传奇人物的后裔或转世; 你的外貌表明出你是他的近亲（即使你不是）。
+|prerequisites=魅力 15。
+|benefit=你与一名知名人士有很强烈的相似之处。相似处没有强到以至于让人难以区分，但没有人能怀疑这种相似。当你使用威吓技能来影响或挫败士气和你同一种族的成员时，你在检定上获得等同于魅力修正值的加值。另外，你在与这名人士相关的知识检定上获得+2加值，在模仿这个人的[[易容]]检定上获得+2加值。
+|special=对于混血种族来说，例如[[神裔]]、[[吸血裔]]和[[魔裔]]，此专长的效果适用于你的两个父母种族。
+|source_name=其他职业
+|source_url=https://pf1chm.pages.dev/topics/page_1210.html
+}}

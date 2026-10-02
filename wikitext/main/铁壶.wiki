@@ -1,0 +1,9 @@
+{{装备
+|name=铁壶
+|english_name=Pot (common)
+|cat=冒险装备
+|price=8 sp
+|weight=4磅
+|description=这种直径8英寸的铁壶结实耐用，带有脚、盖子和圆形把手，能盛下足够让一个饥饿的人类吃一顿饭的炖菜。秘银壶更轻，食物也很少粘在上面。
+|source=核心规则书、极限宝具
+}}

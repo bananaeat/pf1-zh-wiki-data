@@ -1,0 +1,10 @@
+{{Feat
+|name=精明毒杀
+|english_name=Insightful Delivery
+|description=你对攻击要害的了解让你的毒药更加致命。
+|prerequisites=用毒职业能力，策士之击+4d6
+|benefit=当你使用涂毒武器配合策士之击进行攻击时，抵抗该毒药的DC增加，增加值等于你的策士之击骰数的一半。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

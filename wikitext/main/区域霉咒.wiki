@@ -1,0 +1,9 @@
+{{Feat
+|name=区域霉咒
+|english_name=Area Jinx
+|prerequisites=法术扩域，半身人霉咒
+|benefit=当你使用霉咒能力时，你以正常霉咒射程内的一点为圆心，爆发一个半径不超过10尺的，立即生效的，不可见的霉咒波。任何范围内的生物都被霉咒能力影响，从而需要以豁免对抗，你无需看到该生物，你可以同时影响多个生物。当你再次使用霉咒能力，之前的霉咒效果立刻结束。
+|special=你可以多次选择此专长，每次选择，霉咒爆发的半径增加10尺。
+|source_name=格拉利昂的半身人
+|source_url=https://pf1chm.pages.dev/topics/page_572.html
+}}

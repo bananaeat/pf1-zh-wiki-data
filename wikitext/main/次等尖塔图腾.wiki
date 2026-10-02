@@ -1,0 +1,8 @@
+{{狂暴之力
+|name=次等尖塔图腾
+|english_name=Spire Totem, Lesser
+|type=Su
+|categories=图腾
+|benefit=狂暴时，对于上一轮内对任何盟友攻击过或释放过有害法术的生物，野蛮人在攻击它们的检定上获得+1士气加值。
+|source_name=荒野源始
+}}

@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{危害
+|name=泡帽菇孢子毒
+|english_name=Blistercap spore poison
+|kind=毒药
+|type=接触
+|save=强韧 DC 20
+|frequency=1次/轮，持续6轮
+|initial=1d2点敏捷吸取，1点体质吸取
+|secondary=[[恶心]]1分钟
+|cure=连续2次豁免成功
+|price=1,125 gp
+|weight=1磅
+|description=这种真菌主要见于阴影之地，因其茎顶暗淤色的马勃状菌盖而得名，菌盖会渗出有毒的黄色液体。
+|source=荒野英雄
+}}

@@ -1,0 +1,17 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能选集|Psychic Anthology}}
+'''念刃旋风'''（Blade Whirlwind）是[[操念使]]的[[原力]]。
+
+元素：通用；类别：塑形注能；等级：5；超载：3
+
+前置：[[念刃]]
+
+关联[[念袭]]类别：任意
+
+豁免：无
+
+你创造出一把念刃，并且令其以你为中心挥出一道弧线，对触及范围内的所有敌人做出一次攻击，如同你使用念刃一般。如果造成了重击威胁，只对你命中的第一个目标再投掷一次来确认重击。在旋风之后，念刃立即消失。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Blade Whirlwind|2=Blade Whirlwind}}
+
+[[分类:原力]]

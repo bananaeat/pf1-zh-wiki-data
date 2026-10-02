@@ -1,0 +1,19 @@
+{{魔法物品
+|name=探索望远镜〔人类〕
+|english_name=Spyglass of Discovery (Human)
+|aon=MagicWondrousDisplay.aspx?FinalName=Spyglass of Discovery (Human)
+|cat=奇物
+|aura=中等预言系
+|cl=8
+|slot=无
+|price=17,500 gp
+|weight=1磅
+|description=这件奇物通常只有所标明的种族或族裔的成员才能获得。
+
+这具黄铜[[望远镜]]从不黯淡，也不会失去光泽。每日3次，使用者可以在用这具精致的黄铜望远镜观察某处地点时说出一个命令字，如同通过[[锐耳术/鹰眼术]]那样观察该处。只要使用者持续将望远镜对准所观察的区域，该效果就会持续。
+
+如果使用者是[[人类]]，该效果的射程加倍，并且她可以在所选的位置同时看到和听到。
+|req=[[制造奇物]]、[[法术增远]]、[[锐耳术/鹰眼术]]，制造者必须是人类
+|cost=8,750 gp
+|source=内海种族
+}}

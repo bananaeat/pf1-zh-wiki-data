@@ -1,0 +1,12 @@
+<noinclude>{{女巫导航}}
+'''次级预兆'''（Minor Prophecy, Su）是[[女巫]]的[[巫术]]。
+
+</noinclude>{{Source|格拉利昂的英雄|Heroes of Golarion|inline}}
+
+每天一次，女巫可以呼唤她拥有预言能力的先祖来施放[[占卜术]]法术。
+
+她可以使用一个小时的时间来施放法术，从而取消法术所需要的材料成分，但这会使得法术结果的准确率减少5%。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc1372bb89b.htm 原文]）。全部巫术见 [[:分类:巫术|分类:巫术]]。
+
+[[分类:巫术]]</noinclude>

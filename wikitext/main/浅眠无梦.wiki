@@ -1,0 +1,9 @@
+{{Trait
+|name=浅眠无梦
+|english_name=Light Sleeper
+|type=宗教
+|prerequisites=信仰[[汉苏普]]
+|description=你被你的神明“祝福”,又或是因为祂还是肉体凡胎时候那般死去的方式给与你灵感，你一直都是一个浅眠的人。你在睡眠时察觉DC的调整值是+5而不是+10。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

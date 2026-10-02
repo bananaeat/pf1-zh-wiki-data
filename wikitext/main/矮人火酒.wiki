@@ -1,0 +1,11 @@
+{{危害
+|name=矮人火酒
+|english_name=Dwarven Fire Ale
+|kind=毒品
+|type=摄入
+|addiction=中度，强韧 DC 20
+|effect=1d4轮：如同[[狂暴术]]；1小时：5点寒冷抗力
+|damage=1d2点体质伤害
+|price=50 gp
+|source=游戏主持人指南
+}}

@@ -1,0 +1,10 @@
+{{装备
+|name=机敏琼浆
+|english_name=Nimble nectar
+|cat=酊剂
+|price=200 gp
+|weight=—
+|craft_dc=25
+|description=这种略稀的绿色液体会增加你的心跳速率。在饮下酊剂的1小时内，你在[[先攻]]检定和反射豁免上获得+2炼金加值。这会使你发颤，在持续期间内基于敏捷的技能检定会受到-2罚值。
+|source=药剂与毒药
+}}

@@ -1,0 +1,16 @@
+{{魔法物品
+|name=默刃背心
+|english_name=Silent Blade Vest
+|aon=MagicWondrousDisplay.aspx?FinalName=Silent Blade Vest
+|cat=奇物
+|aura=微弱幻术系
+|cl=3
+|slot=胸部
+|price=4,300 gp
+|description=这件整洁的灰色背心是[[半身人]]尺寸的，缀着几颗暗淡的黑色纽扣，还有几个隐蔽的口袋。翻领内侧藏着一个黑色[[匕首]]的标记，靠近刀柄的刀刃上有一个白色圆圈。塔米尔·金克斯（Thamir Gixx）的信徒会穿这种背心或类似的[[服饰]]，向沉默之刃教会的其他成员悄悄表明自己的立场。
+
+穿戴者在巧手检定上获得+5表现加值。当与一名正在使用隐匿的盟友相邻时，穿戴者在隐匿检定上获得+5表现加值。
+|req=[[制造奇物]]、[[隐形术]]，制造者必须拥有5点巧手技能等级
+|cost=2,150 gp
+|source=内海诸神
+}}

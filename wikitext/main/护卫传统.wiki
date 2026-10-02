@@ -1,0 +1,9 @@
+{{Feat
+|name=护卫传统
+|english_name=Guardian of Tradition
+|description=你对族群职责的奉献让神明降下奖励
+|prerequisites=领域职业能力，半蝎人
+|benefit=你能将你信仰神明提供给你的一个领域替换为以下[[德鲁伊领域]]中的一个：[[沙漠领域]]，[[虫类领域]]，废墟领域。当你施放所选领域的[[领域法术]]时，CL+1.
+|source_name=内海怪物志
+|source_url=https://pf1chm.pages.dev/topics/zhb83e0d90c4.htm
+}}

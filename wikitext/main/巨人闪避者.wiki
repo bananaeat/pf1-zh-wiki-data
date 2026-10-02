@@ -1,0 +1,9 @@
+{{Trait
+|name=巨人闪避者
+|english_name=Giant Dodger
+|type=地区
+|benefit=在你年少时，曾因擅闯领地——或者仅仅是被当作消遣对象——而遭到巨人追赶，从那以后你便学会了如何躲避对手的攻击范围。当你移出一个处于敌人威胁范围的方格时，避免引发[[借机攻击]]的特技检定+3加值。
+|regions=卡塔佩什、奥西里昂、卡蒂亚、拉哈多姆、苏比亚。
+|source_name=巨人猎手手册
+|source_url=https://pf1chm.pages.dev/topics/zh920b00384f.htm
+}}

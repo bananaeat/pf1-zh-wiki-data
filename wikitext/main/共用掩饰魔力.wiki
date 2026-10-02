@@ -1,0 +1,15 @@
+{{Spell
+|name=共用掩饰魔力
+|english_name=Mask dweomer, communal
+|school=幻术系 (五官幻觉)
+|levels=女巫 2;异能者 2;秘学士 2
+|action=标准动作
+|components=语言;姿势;材料（一片纱布）
+|range=接触
+|target=接触到的多名生物或多个物体
+|duration=1天/等级 (可解消)
+|save=无；见后文
+|sr=否
+|description=该法术如同[[掩饰魔力]] 一般作用，不过你可以将法术持续时间以1天为单位分给每个接触到的生物或物体。
+|source=极限战斗
+}}

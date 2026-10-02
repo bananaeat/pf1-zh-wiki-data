@@ -1,0 +1,9 @@
+{{Trait
+|name=王者风范
+|english_name=Regal Presence
+|type=宗教
+|prerequisites=信仰[[艾奥梅黛]]
+|description=你风光的外表一直能得到别人的尊敬。你的交涉获得+1背景加值，且交涉视作你的[[本职技能]]。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

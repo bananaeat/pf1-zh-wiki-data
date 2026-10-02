@@ -1,0 +1,11 @@
+{{Feat
+|name=奥法陷阱压制者
+|english_name=Arcane Trap Suppressor
+|description=你的法术可以长时间压制魔法陷阱。
+|prerequisites=可以施展或以类法术能力施放解除魔法或高等解除魔法。
+|benefit=当你以[[解除魔法]]或[[高等解除魔法]]针对魔法陷阱时，如果你的施法者等级检定超过该陷阱的[[解除装置]]DC，该陷阱失效1d4分钟。
+|normal=解除魔法可以压制物品的魔法特性1d4轮。
+|source=DH
+|source_name=冒险家手册
+|source_url=https://pf1chm.pages.dev/topics/page_529.html
+}}

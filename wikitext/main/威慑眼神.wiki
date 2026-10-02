@@ -1,0 +1,12 @@
+{{Feat
+|name=威慑眼神
+|english_name=Intimidating Glance
+|categories=战斗
+|description=只需一瞥，你就能在敌人心中植入恐惧。
+|prerequisites=催眠注视职业能力
+|benefit=你能够以[[迅捷动作]]对你的催眠注视目标尝试挫败士气。
+|normal=对一名敌人进行挫败士气的尝试要使用[[标准动作]]。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

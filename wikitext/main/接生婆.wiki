@@ -1,0 +1,7 @@
+{{物品
+|name=接生婆
+|english_name=The Midwife
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。抽牌者获得刚够升到下一级的经验
+}}

@@ -1,0 +1,56 @@
+{{速查导航}}
+{{怪物
+|name=老练狙击手
+|english_name=Skilled Sniper
+|cr=2
+|xp=600
+|classline=半精灵盗贼3
+|alignment=混乱中立
+|size=中型
+|type=类人生物
+|subtypes=人类;精灵
+|init=+3
+|senses=昏暗视觉，察觉+11
+|ac=16，接触13，措手不及13（+3护甲，+3敏捷）
+|hp=23（3D8+6）
+|fort=+3
+|ref=+6
+|will=+1；对抗附魔+2
+|defensive=反射闪避，陷阱感知+1
+|immune=睡眠
+|speed=30尺
+|melee=细剑 +3（1d6+1/18-20）
+|ranged=精工复合长弓 +6（1d8+1/X3）
+|special_attacks=偷袭+2d6
+|tactics=<div class="ml wide"><span class="k">战前</span>盗贼寻找难以接近的高点，在那里等待目标接近</div><div class="ml wide"><span class="k">战时</span>盗贼使用睡眠箭射击远程对手或要留下活口的人。</div>
+|str=12
+|dex=17
+|con=14
+|int=13
+|wis=10
+|cha=8
+|bab=+2
+|cmb=+3
+|cmd=16
+|feats=近程射击;[[精准射击]];[[技能专攻]]（察觉）
+|skills=[[特技]]+9;[[攀爬]]+7;[[易容|伪装]]+5;[[脱逃]]+9;察觉+11;[[表演]]（管乐）+5;[[骑术]]+6;[[隐匿]]+9;[[生存]]+3;[[游泳]]+7
+|languages=通用语;矮人语;精灵语
+|sq=精灵之血;盗贼天赋（突然袭击）;寻找陷阱+1
+|combat_gear=魔化武器油 X2;治疗中度伤药水;隐形术药水;睡眠箭
+|gear=精制品镶嵌皮甲;精制品复合长弓和20支箭;细剑;73gp
+|lore=
+老练狙击手耐心地等待出手的最佳时机。
+
+=== 偷猎者 Diata ===
+
+Diata 专精于活捉目标，比如奇异的动物或逃亡的犯人。只要及时拿到酬劳，她并不在乎狩猎、活捉或干掉的是什么。
+
+战斗遭遇：Diata 可能被雇来活捉 PC 或他们的动物伙伴。
+
+扮演建议：Diata 讨厌地城，但她可以被雇来在开阔地作为斥候或狙击手。
+|source=NPC志
+|family=核心职业（NPC志）
+|npc=1
+}}
+
+本页译自《[[NPC志]]》的怪物图鉴 CHM。

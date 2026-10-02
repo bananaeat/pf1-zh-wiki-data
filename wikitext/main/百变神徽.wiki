@@ -1,0 +1,21 @@
+{{魔法物品
+|name=百变神徽
+|english_name=Malleable Symbol
+|aon=MagicWondrousDisplay.aspx?FinalName=Malleable Symbol
+|cat=奇物
+|aura=中等咒法系
+|cl=9
+|slot=无
+|price=10,000 gp
+|weight=1磅
+|description=这块毫不起眼的金属块在默认状态下没有任何能力。崇拜某位神祇的生物集中注意力1分钟，就能把它变成该神祇的精制圣徽。每当用这枚圣徽作为[[引导能量]]的法器时，持有者可以以一个[[自由动作]]把这次引导的范围改为下列选项之一：
+
+* 以30尺内任意一点为中心的10尺爆发
+* 60尺直线
+* 30尺锥形
+
+圣徽离开持有者24小时后，会变回毫不起眼的金属块。
+|req=[[制造奇物]]、[[群体治疗轻伤]]，制造者必须能够引导能量
+|cost=5,000 gp
+|source=极限宝具
+}}

@@ -1,0 +1,16 @@
+{{Spell
+|name=高等天界治疗
+|english_name=Celestial healing, greater
+|school=咒法系 (医疗)
+|tags=善良
+|levels=先知 4;召唤师 4;奥能师 4;女巫 4;战斗祭司 4;术士 4;法师 4;牧师 4;血脉狂怒者 4;魔战士 4
+|action=1轮
+|components=语言;姿势;材料（一滴善良异界生物的血或一剂圣水）
+|range=接触
+|target=接触到的生物
+|duration=每2等级1轮
+|save=意志，通过则无效（无害）
+|sr=是
+|description=如同[[天界治疗]]，除了目标会获得[[通用怪物规则#快速治疗|快速医疗]]4，且目标会散发出一位善良牧师的灵光。
+|source=秘术选集
+}}

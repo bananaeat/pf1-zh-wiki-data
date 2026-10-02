@@ -1,0 +1,11 @@
+{{Feat
+|name=额外忍术
+|english_name=Extra Ninja Trick
+|description=你对自身暗影技艺的修炼超越了大部分人。
+|prerequisites=[[忍术]]职业能力
+|benefit=你获得一个额外的[[忍术]]。你必须满足这个忍术的一切先决条件。
+|special=你可以多次选取“额外忍术”专长。
+|source=BoS
+|source_name=阴影血脉
+|source_url=https://pf1chm.pages.dev/topics/page_378.html
+}}

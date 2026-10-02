@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Mummy's Mask Player's Guide pg. 9, People of the Sands pg. 30），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=法老之血
+|english_name=Blood of Pharaohs
+|type=战役
+|pfs=否
+|description=很久以前，你的一位祖先曾统治奥西里昂的土地。尽管你与他或她已相隔许多代，血统也难以证明，但他或她的血仍在你的血管中流淌。也许你能在瓦提大墓地的陵墓中找到你血统的证据。你的意志豁免获得+1背景加值。你的[[知识]]（贵族）检定也获得+1背景加值，且该技能总是你的本职技能。此外，你可以选择古奥西里昂语作为你的额外语言之一。
+|source_name=Mummy's Mask Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Blood%20of%20Pharaohs
+}}

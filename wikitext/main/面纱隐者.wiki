@@ -1,0 +1,9 @@
+{{Trait
+|name=面纱隐者
+|english_name=Keeper of the Veil
+|type=地区
+|prerequisites=卡蒂亚
+|description=即使是并未被隐藏在魔法之下，你所受的训练也教会了你该如何隐藏自己的天性。你在唬骗和易容技能上得到+1表现加值，并且其中一个技能（由你选择）将会成为你的本职技能。
+|source_name=卡蒂亚，通向东方的大门
+|source_url=https://pf1chm.pages.dev/topics/page_1005.html
+}}

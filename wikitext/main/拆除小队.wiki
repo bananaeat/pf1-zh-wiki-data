@@ -1,0 +1,11 @@
+{{Feat
+|name=拆除小队
+|english_name=Cooperative Disabling
+|categories=团队
+|description=你擅长与盟友一同携手拆除陷阱。
+|prerequisites=[[解除装置]]1级，[[盗贼#寻找陷阱|寻找陷阱]]职业能力
+|benefit=当你对1个陷阱使用[[解除装置]]检定并且失败时，单个具有该专长且与你相邻的盟友如果也能触及到陷阱的话，能够以[[直觉动作]]尝试1次解除装置检定对抗相同的装置。该名盟友必须在你解除装置的过程中一直与你相邻，而且必须协助你的解除装置检定或者不采取任何其他动作。若你的盟友检定成功，那么你的尝试会被视作成功了。若你的盟友检定失败，那么你的尝试被视作失败了5点或更多，即便你原本的检定仅仅失败了4点或更少也是如此。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

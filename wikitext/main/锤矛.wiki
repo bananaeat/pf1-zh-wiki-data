@@ -1,0 +1,17 @@
+{{武器
+|name=锤矛
+|english_name=Weighted spear
+|category=武器
+|prof=简易
+|wcat=双手
+|price=10 gp
+|weight=8磅
+|dmg_s=1d6/1d4
+|dmg_m=1d8/1d6
+|crit=×3/×2
+|type=钝击或穿刺
+|special=迎击，双头
+|groups=双头，矛
+|description=这根杆子一端是矛头，另一端是硬头锤头。它既可以当作普通的矛来使用（但重心并不适合投掷），也可以当作双头武器使用，交替地刺击和锤击。
+|source=近战战术工具箱
+}}

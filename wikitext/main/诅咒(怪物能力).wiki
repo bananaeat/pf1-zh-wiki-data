@@ -1,0 +1,13 @@
+<noinclude>{{速查导航|here=规则}}
+{{消歧义|诅咒}}
+'''诅咒'''（Curse）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Su</span><span class="sk-f">位置：特殊攻击和个体攻击</span></div>
+</noinclude><includeonly><div class="lang"><span id="诅咒"></span><span id="诅咒(怪物能力)"></span><div class="lang-h"><b>[[诅咒(怪物能力)|诅咒]]</b><i>Curse</i><span class="lang-w">Su · 特殊攻击和个体攻击</span></div><div class="lang-d"></includeonly>
+拥有该能力的生物可以给予敌人诅咒。诅咒的效果，包括豁免、频率以及如何治愈，都包含在生物的描述中。如果一个诅咒允许豁免，它通常是一个意志豁免 (DC 为 {10+1/2 诅咒生物种族 HD + 该生物的魅力修正}；具体的 DC 会在生物描述中给出)。诅咒可以通过[[移除诅咒]]或者类似效果解除。
+
+'''格式'''：'''诅咒名称 (Su)''' 挥击—接触；豁免 意志 DC 14，频率 1 次/天，效果 1d4 力量吸取
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Curse|2=Curse}}
+
+[[分类:通用怪物规则]]</noinclude>

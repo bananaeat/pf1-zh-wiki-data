@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{危害
+|name=泡帽菇孢子
+|english_name=Blistercap spore
+|kind=毒药
+|type=接触
+|save=强韧 DC 20
+|frequency=1次/轮，持续6轮
+|initial=1d2点敏捷吸取和1点体质吸取
+|secondary=[[恶心]]1分钟
+|cure=连续2次豁免成功
+|price=1,125 gp
+|description=泡帽菇生长在偏远的地底深处，因其茎顶暗淤色菌盖上的水泡而得名，水泡会渗出有毒的黄色液体。它产生的孢子往往使地底探险更加危险。
+|source=极限荒野
+}}

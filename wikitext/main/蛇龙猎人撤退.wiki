@@ -1,0 +1,16 @@
+{{Feat
+|name=蛇龙猎人撤退
+|english_name=Linnorm Hunter Retreat
+|categories=战斗;团队
+|description=你和[[动物伙伴]]学习了如何在战斗中互相掩护
+|prerequisites=魅力13，敏捷13，[[闪避]]，[[蛇龙猎人流]]，基本攻击加值+4，必须有或者是动物伙伴
+|benefit=当一个拥有此专长并且开启了[[蛇龙猎人流]]的盟友近战攻击命中了一个目标，你可以以[[直觉动作]]移动5尺并且不会引起该目标的[[借机攻击]]。
+|special=智力为1或2的动物伙伴也可以选择这一专长
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/zh366bfc623c.htm
+|source=MAH
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[蛇龙猎人协作]]（1 个条目）

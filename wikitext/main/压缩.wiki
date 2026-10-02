@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''压缩'''（Compression）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：特性</span></div>
+</noinclude><includeonly><div class="lang"><span id="压缩"></span><div class="lang-h"><b>[[压缩]]</b><i>Compression</i><span class="lang-w">Ex · 特性</span></div><div class="lang-d"></includeonly>
+该生物在没有紧缩时能够通过仅为其所占空间四分之一大小的区域，并且在紧缩时可以通过仅为其所占空间八分之一大小的区域。
+
+'''格式'''：压缩
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Compression|2=Compression}}
+
+[[分类:通用怪物规则]]</noinclude>

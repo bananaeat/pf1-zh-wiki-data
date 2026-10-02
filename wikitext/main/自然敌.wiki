@@ -1,0 +1,9 @@
+{{Trait
+|name=自然敌
+|english_name=Unnatural Revenge
+|type=社会
+|description=你对动物、精类和植物类型生物的威吓检定获得+2背景加值，并且总能将威吓视为你的[[本职技能]]。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

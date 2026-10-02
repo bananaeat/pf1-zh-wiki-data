@@ -1,0 +1,18 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[绝望术 (神话)]]。</small></div>
+{{Spell
+|name=绝望术
+|english_name=Bane
+|school=惑控系 (胁迫)
+|tags=情绪;恐惧;影响心灵
+|levels=催眠师 1;先知 1;反圣武士 1;审判者 1;战斗祭司 1;牧师 1;萨满 1
+|domains=诅咒子域 1
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=50尺
+|area=以你为中心, 半径50尺爆发范围
+|duration=1分钟/等级
+|save=意志，通过则无效
+|sr=是
+|description=绝望术让你的敌人充满恐惧和疑惑。每个被影响生物的攻击检定受到-1减值，对抗恐惧效果的豁免检定受到-1减值。绝望术反制和解除[[祝福术]]。
+|source=核心规则书
+}}

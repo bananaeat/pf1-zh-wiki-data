@@ -1,0 +1,9 @@
+{{装备
+|name=茶壶
+|english_name=Teapot
+|cat=冒险装备
+|price=1 sp
+|weight=1磅
+|description=这是一个用于煮茶的有嘴小壶。它包括一个盖子和一个过滤器，一次可以煮出四杯茶。
+|source=极限宝具
+}}

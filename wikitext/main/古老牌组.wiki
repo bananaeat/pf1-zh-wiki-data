@@ -1,0 +1,14 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=古老牌组
+|english_name=The Elder Decks
+|aon=MagicArtifactsDisplay.aspx?ItemName=The Elder Decks
+|cat=神器
+|tier=次级神器
+|aura=强烈（所有学派）
+|cl=20
+|slot=无
+|description=这些古老的神器功能如同[[万象无常牌]]，只是只有13张牌：欧律阿勒、烈焰、小丑、钥匙、骑士、月亮、盗贼、毁灭、骷髅、星辰、太阳、王座和虚空。
+|destruction=古老牌组可以通过在与一位守序神祇的赌局中输掉它来摧毁。这位神祇必须不知道这副牌的本质。
+|source=再探经典宝藏
+}}

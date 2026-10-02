@@ -1,0 +1,10 @@
+{{Feat
+|name=遮掩队友
+|english_name=Friendly Shroud
+|description=你可以帮助队友避开他人的视线。
+|prerequisites=隐匿技能1级
+|benefit=当你邻接一个盟友时，双方至少在1轮中都没有移动，并且同时尝试进行隐匿检定时，该盟友可以使用你的隐匿检定结果，如果它比他自己的结果更好。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=隐蔽提灯
+|english_name=Lantern of Concealment
+|aon=MagicWondrousDisplay.aspx?FinalName=Lantern of Concealment
+|cat=奇物
+|aura=微弱幻术系
+|cl=5
+|slot=无
+|price=12,000 gp
+|weight=2磅
+|description=这盏黑色提灯有一个木框，外面包着一层白色亚麻罩，罩上画满了蛛网般纤细的符文和星座。点燃时，隐蔽提灯会在以提灯为中心的20尺立方体范围内产生[[隐藏营地]]的效果，持续10小时。这一效果会随提灯移动，但只有在提灯静止不动时才起作用。如果在隐蔽效果生效期间移动了提灯，则必须花10分钟适应新位置，才能继续产生隐藏营地的效果。隐蔽提灯每天只能这样使用一次。
+|req=[[制造奇物]]、[[隐藏营地]]
+|cost=6,000 gp
+|source=地城探险者手册
+}}

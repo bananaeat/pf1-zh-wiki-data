@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[侦测专精]] 的神话版本。</small></div>
+{{Feat
+|name=侦测专精
+|english_name=Detect Expertise
+|categories=神话
+|description=仅仅一瞥，你就能了解到生物的魔法能力。
+|prerequisites=[[侦测专精]]
+|benefit=当你使用[[侦测专精]]专长中列出的侦测法术时，你能够立刻得到侦测专精专长的好处（不需要观察一名生物3轮）。非神话生物无法尝试意志豁免来抵抗该效果。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

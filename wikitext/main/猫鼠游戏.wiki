@@ -1,0 +1,11 @@
+{{Feat
+|name=猫鼠游戏
+|english_name=Cat and Mouse
+|categories=战斗
+|description=你可以通过放弃反击的机会来寻找对手守备的突破口。
+|prerequisites=[[唬骗]]5级，[[察言观色]]5级，适时格挡反击炫技
+|benefit=当你对1名敌人的攻击使用炫技中的适时格挡反击时，如果你还有[[直觉动作]]可用，并且选择不尝试[[回击]]的话，你的AC会获得+1闪避加值，并且在对被你成功格挡攻击的敌人进行的所有[[战技]]检定中获得+2加值，持续1轮。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

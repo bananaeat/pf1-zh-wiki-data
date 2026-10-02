@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=怨灵视觉灵药
+|english_name=Wraith's Sight Elixir
+|aon=MagicWondrousDisplay.aspx?FinalName=Wraith's Sight Elixir
+|cat=奇物
+|aura=中等死灵系
+|cl=9
+|slot=无
+|price=1,500 gp
+|description=这个长方形玻璃瓶以一颗宝石作瓶塞，内盛淡蓝色的液体。饮用者喝下这份灵药后，双眼会闪耀金色的能量，并获得30尺范围的[[生命感知(怪物能力)|生命感知]]。该效果持续30分钟。在此期间，饮用者陷入[[目盲]]状态。如果这一目盲状态以任何方式被治愈或移除，灵药的效果立即结束。
+|req=[[制造奇物]]、[[目盲/耳聋术]]、[[观命术]]
+|cost=750 gp
+|source=药剂与毒药
+}}

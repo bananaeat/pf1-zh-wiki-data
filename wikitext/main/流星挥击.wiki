@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Martial Arts Handbook pg. 26），民间汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=流星挥击
+|english_name=Meteor Swing
+|categories=战斗
+|description=你的攻击势大力沉，打得敌人站立不稳。
+|prerequisites=[[武器专攻]]（钝击武器），基本攻击加值+6。
+|benefit=以一个[[标准动作]]，用你选定的武器进行一次攻击。如果攻击命中，目标必须通过一次反射豁免（DC＝10＋你的基本攻击加值），否则直到你下一回合开始前都无法进行借机攻击。当你的基本攻击加值达到+11时，你可以改为使目标失去AC中的敏捷加值。当你的基本攻击加值达到+16时，你可以改为使目标陷入[[措手不及]]状态。本专长的效果每分钟只能使用一次。
+|source=MAH
+|source_name=武术手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Meteor%20Swing
+}}

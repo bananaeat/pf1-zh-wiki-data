@@ -1,0 +1,9 @@
+{{Trait
+|name=忠诚
+|english_name=Loyalty
+|type=派系
+|description=你能够经受住任何企图让你违背十人团意志的诱惑。你在对抗附魔系法术和类法术能力时意志豁免检定获得+1背景加值。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

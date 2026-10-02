@@ -1,0 +1,15 @@
+{{魔法物品
+|name=诚实蜡烛
+|english_name=Candle of Truth
+|aon=MagicWondrousDisplay.aspx?FinalName=Candle of Truth
+|cat=奇物
+|aura=微弱惑控系
+|cl=3
+|slot=无
+|price=2,500 gp
+|weight=1/2磅
+|description=这根白色兽脂蜡烛燃烧时，会在以蜡烛为中心、半径5尺的范围内生成一个[[诚实之域]]法术效果（意志DC 13则无效）。该区域在蜡烛燃烧期间持续1小时。如果蜡烛在此之前被熄灭，效果就会结束，蜡烛也会报废。
+|req=[[制造奇物]]、[[诚实之域]]
+|cost=1,250 gp
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=坏死毒素抗性
+|english_name=Necrotoxin Resistance
+|type=地区
+|prerequisites=出身盖布
+|description=作为亡灵之地盖布的居民，你深知那些行尸走肉身上经常带着致命的毒素和疾病。你在对抗不死生物类型的生物造成疾病或毒素的效果和能力的豁免上获得+3背景加值（例如[[食尸鬼]]热疫或者飞头蛮的毒素）。
+|source_name=药剂与毒药
+|source=P&P
+|source_url=https://pf1chm.pages.dev/topics/page_1257.html
+}}

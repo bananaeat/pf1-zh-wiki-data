@@ -1,0 +1,115 @@
+{{速查导航}}
+
+'''特殊物品和道具'''是《[[冒险者的军械库]]》的一章。
+
+== 特殊物品和道具（Special Substances and Items） ==
+
+{| class="wikitable sortable"
+|-
+! 物品（Item） 价格（Price） 重量（Weight） 工艺DC（Craft DC） 炼金油膏（Alchemical Grease） 5 gp 1磅 15 炼金解胶剂（Alchemical Solvent） 20 gp 1/2磅 20 抗生素（Antiplague） 50 gp — 25 野兽诱惑（Beast Lure） 30 gp 1/2磅 20 护刃脂（Bladeguard） 40 gp — 15 止血剂（Bloodblock） 25 gp — 25 健体香脂（Bodybalm） 25 gp — 25 香波罗树汁蒸馏液（Distilled terrap sap） 30 gp 1/2磅 15 黛丝娜烛焰火（Firework, Desnan candle） 5 gp — 20 纸蜡烛焰火（Firework, paper candle） 1 gp — 20 飞天火箭焰火（Firework, skyrocket） 50 gp 1磅 25 星泉焰火（Firework, starfountain） 500 gp 100磅 25 闪光粉（Flash powder） 50 gp — 20 引信手榴弹（Fuse grenade） 100 gp 1磅 25 闪光墨水（瓶装）（Glowing ink (vial)） 5 gp — 15 简易隐形墨水（Invisible ink, simple） 2 gp — 15 一般隐形墨水（Invisible ink, average） 10 gp — 20 精制隐形墨水（Invisible ink, good） 25 gp — 20 高级隐形墨水（Invisible ink, superior） 75 gp — 25 发痒粉（Itching powder） 60 gp 2磅 25 卡瓦麝香（Kaava musk） 40 gp 1/2磅 20 煤油（Keros oil） 5 gp — 15 冻结剂（Liquid ice） 40 gp 2磅 25 彩弹（Marker dye） 15 gp 1磅 15 遮味剂（Scent cloak） 20 gp 2磅 20 烟玉（Smoke pellet） 25 gp — 20 喷嚏粉（袋装）（Sneezing powder (packet)） 60 gp 2磅 25 驱虫剂（Vermin repellent） 5 gp — 20 净水芯片（Water purification sponge） 25 gp 1磅 15 !!  !!  !!
+|-
+| 物品（Item） || 价格（Price） || 重量（Weight） || 工艺DC（Craft DC）
+|-
+| 炼金油膏（Alchemical Grease） || 5 gp || 1磅 || 15
+|-
+| 炼金解胶剂（Alchemical Solvent） || 20 gp || 1/2磅 || 20
+|-
+| 抗生素（Antiplague） || 50 gp || — || 25
+|-
+| 野兽诱惑（Beast Lure） || 30 gp || 1/2磅 || 20
+|-
+| 护刃脂（Bladeguard） || 40 gp || — || 15
+|-
+| 止血剂（Bloodblock） || 25 gp || — || 25
+|-
+| 健体香脂（Bodybalm） || 25 gp || — || 25
+|-
+| 香波罗树汁蒸馏液（Distilled terrap sap） || 30 gp || 1/2磅 || 15
+|-
+| 黛丝娜烛焰火（Firework, Desnan candle） || 5 gp || — || 20
+|-
+| 纸蜡烛焰火（Firework, paper candle） || 1 gp || — || 20
+|-
+| 飞天火箭焰火（Firework, skyrocket） || 50 gp || 1磅 || 25
+|-
+| 星泉焰火（Firework, starfountain） || 500 gp || 100磅 || 25
+|-
+| 闪光粉（Flash powder） || 50 gp || — || 20
+|-
+| 引信手榴弹（Fuse grenade） || 100 gp || 1磅 || 25
+|-
+| 闪光墨水（瓶装）（Glowing ink (vial)） || 5 gp || — || 15
+|-
+| 简易隐形墨水（Invisible ink, simple） || 2 gp || — || 15
+|-
+| 一般隐形墨水（Invisible ink, average） || 10 gp || — || 20
+|-
+| 精制隐形墨水（Invisible ink, good） || 25 gp || — || 20
+|-
+| 高级隐形墨水（Invisible ink, superior） || 75 gp || — || 25
+|-
+| 发痒粉（Itching powder） || 60 gp || 2磅 || 25
+|-
+| 卡瓦麝香（Kaava musk） || 40 gp || 1/2磅 || 20
+|-
+| 煤油（Keros oil） || 5 gp || — || 15
+|-
+| 冻结剂（Liquid ice） || 40 gp || 2磅 || 25
+|-
+| 彩弹（Marker dye） || 15 gp || 1磅 || 15
+|-
+| 遮味剂（Scent cloak） || 20 gp || 2磅 || 20
+|-
+| 烟玉（Smoke pellet） || 25 gp || — || 20
+|-
+| 喷嚏粉（袋装）（Sneezing powder (packet)） || 60 gp || 2磅 || 25
+|-
+| 驱虫剂（Vermin repellent） || 5 gp || — || 20
+|-
+| 净水芯片（Water purification sponge） || 25 gp || 1磅 || 15
+|}
+
+== 特殊物品和道具（Special Substances and Items） ==
+
+拥有工艺（炼金）技能的角色可以制造这些道具，并且这些道具以及被列于《[[核心规则书]]（Pathfinder RPG Core Rulebook）》中的那些炼金道具，通常都在同一处你可以买到炼金物品的地方被发现。
+
+[[黛丝娜]]烛焰火（Firework，Desnan Candle）〔[[星烛焰火]]Firework，star candle〕
+
+这种粗糙的黄红色粉末是一种溅射武器，可以造成1D4+1轮无法控制的喷嚏。在受到喷嚏粉影响的方格内的生物必须通过一个DC 12的强韧检定才能避免喷嚏，而周围临近方格内的生物必须通过DC为8强韧检定才能避免喷嚏。受喷嚏粉影响的生物在持续时间内每轮都需要通过一个DC 10的强韧检定，否则直到他们的下一轮前都会[[恍惚]]。这是一种毒药效果。制作喷嚏粉需要一个DC 25的工艺（炼金）检定。
+
+== 本章条目 ==
+
+本章的东西都有各自的条目页：
+
+* [[炼金油膏]]
+* [[炼金解胶剂]]
+* [[抗生素]]
+* [[野兽诱惑]]
+* [[护刃脂]]
+* [[止血剂]]
+* [[健体香脂]]
+* [[香波罗树汁蒸馏液]]
+* [[闪光粉]]
+* [[引信手榴弹]]
+* [[隐形墨水]]
+* [[发痒粉]]
+* [[卡瓦麝香]]
+* [[煤油]]
+* [[冻结剂]]
+* [[标记染料]]
+* [[遮味剂]]
+* [[烟玉]]
+* [[喷嚏粉]]
+* [[便携法术书]]
+* [[驱虫剂]]
+* [[净水芯片]]
+* [[黛丝娜烛焰火]]
+* [[星烛焰火]]
+* [[纸蜡烛焰火]]
+* [[飞天火箭焰火]]
+* [[星泉焰火]]
+* [[闪光墨水]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh187eaa9d54.htm 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

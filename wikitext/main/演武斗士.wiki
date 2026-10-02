@@ -1,0 +1,12 @@
+{{Feat
+|name=演武斗士
+|english_name=Stage Combatant
+|categories=战斗
+|description=你是舞台上非致命战斗的大师。
+|prerequisites=[[武器专攻]]，基本攻击加值+5。
+|benefit=当你持用你所拥有[[武器专攻]]专长的武器时，你用该武器给对方造成[[非致命伤害]]或无伤害时不承受减值。
+|normal=当进行造成非致命伤害或无伤害的攻击时，你的攻击检定-4。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

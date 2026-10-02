@@ -1,0 +1,10 @@
+{{装备
+|name=鹫马，战斗训练
+|english_name=Hippogriff (combat trained)
+|cat=坐骑与宠物
+|price=5,000 gp
+|weight=500磅
+|creature=鹫马
+|description=鹫马的智能比狮鹫低，也比狮鹫更容易训练，是可靠的有翼坐骑。更多关于鹫马的信息见《怪物图鉴2》。
+|source=极限宝具
+}}

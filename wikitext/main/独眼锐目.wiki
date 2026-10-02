@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Orcs of Golarion pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=独眼锐目
+|english_name=Deadeye
+|type=种族
+|prerequisites=半兽人、兽人
+|description=你只有一只眼睛还能用，但这只眼睛格外敏锐。你在所有涉及视觉的[[察觉]]检定上获得+2背景加值。
+|source_name=格拉利昂的兽人
+|source=OoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Deadeye
+}}

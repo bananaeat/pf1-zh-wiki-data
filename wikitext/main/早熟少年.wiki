@@ -1,0 +1,11 @@
+{{Feat
+|name=早熟少年
+|english_name=Precocious Youth
+|pfs=否
+|description=即便年少，你已展现出超越同龄人的成熟特质，这份早慧无疑将在未来岁月中助你前行。
+|prerequisites=少年年龄阶段。
+|benefit=你可移除少年年龄阶段的-2体质、-2力量或-2感知的任一项属性罚值。当你进入成年阶段时，可将此专长替换为[[强韧加强]]、[[钢铁意志]]或[[闪电反射]]。
+|special=此专长至多可选择三次。每次选择必须针对不同属性的罚值，且成年后须替换为不同的专长。
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/zhef0bc5c087.htm
+}}

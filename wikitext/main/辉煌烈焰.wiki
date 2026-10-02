@@ -1,0 +1,9 @@
+{{Feat
+|name=辉煌烈焰
+|english_name=Glorious Blaze
+|description=女神塞恩蕾接受世上所有向善之人成为她的信徒，一些地精受到吸引而信仰她，部分原因是由于她是那个巨型火球的化身。
+|prerequisites=地精，信仰塞恩蕾。
+|benefit=若你能看见太阳，你可以花费一轮表演一种狂野的舞蹈以展示你对晨花的崇敬。从你的下个回合开始，能够看到你的盟友在攻击检定、技能检定和豁免检定中获得+1士气加值，该效果持续轮数等同于你角色等级的一半+你的感知调整值（至少1轮）。9级起，该加值提升至+2。
+|source_name=格拉利昂的英雄
+|source_url=https://pf1chm.pages.dev/topics/zh040b2e617a.htm
+}}

@@ -1,0 +1,17 @@
+{{Feat
+|name=刚烈掌
+|english_name=Pummeling Style
+|categories=战斗;流派
+|description=你的徒手打击如行云流水般连成一套连击，专攻上一击所削弱的部位。
+|prerequisites=[[精通徒手打击]]，基础攻击加值+6，或拳师连打职业能力，或疾风连击职业能力
+|benefit=当你用[[徒手攻击]]对单个目标进行全回合攻击或疾风[[武僧#疾风连击|连击]]时，在应用敌方的DR之前先合计自己的伤害。无论你有什么其它的[[特殊能力]]，该专长都只对徒手攻击生效。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[刚掌波]]、[[天将奔烈]]（2 个条目）
+
+{{FAQ|v5748eaic9sfs}}

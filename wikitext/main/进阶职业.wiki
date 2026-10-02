@@ -1,0 +1,21 @@
+'''进阶职业'''允许角色超出规格之外，获得那些寻常之辈无法企及的力量。与基础职业不同，角色必须满足特定的前提要求后才能在进阶职业上获得等级。若角色尚未满足该进阶职业的前提要求，便无法获得其任何增益。角色在进阶职业上升级时不能获得任何天赋职业奖励（见[[天赋职业]]）。进阶职业体现的是多数冒险者所不具备的、在某一领域进行大量锻炼后获得的专精能力。在追求任何进阶职业之前，请勿忘记向你的GM确认该职业是否开放。
+
+以下是本节将出现的一些术语及其定义。
+
+<div class="rule-def"><div class="rd-t">核心职业</div><div class="rd-b">核心规则书（CRB）中出现的 11 项标准职业之一。</div></div>
+<div class="rule-def"><div class="rd-t">施法者等级</div><div class="rd-b">大体上等于某项施法者职业的职业等级。某些进阶职业会为已有职业增加施法者等级。</div></div>
+<div class="rule-def"><div class="rd-t">角色等级</div><div class="rd-b">角色所拥有的所有职业的等级总和。</div></div>
+<div class="rule-def"><div class="rd-t">职业等级</div><div class="rd-b">角色在特定职业上的等级。对只有一项职业的角色而言，职业等级即为角色等级。</div></div>
+
+{{#invoke:职业总览|prestige}}
+
+
+本页导言译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_128.html 原文]）。术语定义取自 CHM 职业概述一章的同名一节（[https://pf1chm.pages.dev/topics/page_30.html 原文]），和核心规则书第 374 页的四条逐条对过英文原文（那一节另有一条「基础职业」，核心规则书没有，这里不收）。
+
+{{AoN原文|345|Prestige Classes|346|Definitions of Terms}}
+
+{{职业}}
+
+{{FAQ|v5748eaic9nib|v5748eaic9r95|v5748eaic9rae}}
+
+[[分类:职业规则]]

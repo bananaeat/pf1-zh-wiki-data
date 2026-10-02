@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|治疗者手册|Healer's Handbook}}
+'''念力复原'''（Kinetic Restoration, Su）是[[操念使]]的[[原力]]。
+
+元素：通用；类别：通用（Su）；等级：3；超载：1
+
+你的一个肉体属性（力量，敏捷，体质）恢复1d4点[[属性伤害]]。同时消除你的[[疲乏]]状态以及将[[力竭]]状态变为疲乏。
+
+如果你拥有[[通用原力]]：[[念力医者]]，你可以用一个[[标准动作]]对同一个目标同时使用念力医者和念力复原。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Kinetic Restoration|2=Kinetic Restoration}}
+
+[[分类:原力]]

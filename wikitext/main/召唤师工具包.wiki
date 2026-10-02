@@ -1,0 +1,9 @@
+{{装备
+|name=召唤师工具包
+|english_name=Summoner's kit
+|cat=套装
+|price=8 gp
+|weight=19磅
+|description=这套工具包包含1个背包、1个铺盖卷、1个腰包、1份燧石和铁片、1个铁壶、1套餐具、1块肥皂、10根火把、5天份的干粮以及1个水袋。
+|source=极限宝具
+}}

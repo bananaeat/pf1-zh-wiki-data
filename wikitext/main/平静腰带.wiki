@@ -1,0 +1,15 @@
+{{魔法物品
+|name=平静腰带
+|english_name=Belt of Equilibrium
+|aon=MagicWondrousDisplay.aspx?FinalName=Belt of Equilibrium
+|cat=奇物
+|aura=微弱咒法系
+|cl=3
+|slot=腰部
+|price=12,000 gp
+|weight=1磅
+|description=只要这条腰带的穿戴者在自己的回合中移动不超过5尺，她就会忽略[[疲乏]]、[[战栗]]或[[恶心]]带来的减值，直到她下个回合结束，或直到她移动超过5尺，以先发生者为准。在她不承受这些状态的减值期间，她仍被视为处于这些状态之下，直到这些状态结束或被移除。
+|req=[[制造奇物]]、[[次等复原术]]、[[移除恐惧]]
+|cost=6,000 gp
+|source=极限宝具
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=兽性强韧
+|english_name=Resilient Brute
+|description=你能承受他人认为致命的攻击。
+|prerequisites=半兽人或兽人。
+|benefit=每天1次，当一名生物对你确认重击时，你能够将其中的一半伤害转化为[[非致命伤害]]。如果你免疫非致命伤害，那么你无法使用该能力。当你的BAB提升至+10时，你每天能够额外使用该能力1次。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

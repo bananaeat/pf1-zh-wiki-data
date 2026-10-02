@@ -1,0 +1,10 @@
+{{Feat
+|name=遮光戏法
+|english_name=Darkness Trick
+|description=你能够操纵由魔法武器散发出的光芒。
+|prerequisites=[[使用魔法装置]]5级，施放黑暗术的能力
+|benefit=当你持用1把会发光或具有发光特性的魔法武器（比如炽焰或光能武器）时，你能够以[[迅捷动作]]（swift action）熄灭它产生的照明。你可以在任何时候以[[自由动作]]（free action）重新点燃它的光芒。任何会迫使武器发出光亮的内在魔法性质，比如炽焰武器的额外伤害，都不会在光芒被熄灭时生效，而且由于光能武器在常态下由光构成的“主要结构”会在熄灭时消失。若受该能力影响的武器不再被你拥有（举例说明，比如武器从你手中掉落或者被传递给了其他生物），那么它的光芒以及相关能力会立刻恢复。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

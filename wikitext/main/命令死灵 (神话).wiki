@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[命令死灵(专长)]] 的神话版本。</small></div>
+{{Feat
+|name=命令死灵
+|english_name=Command Undead
+|categories=神话
+|description=你对死灵的控制力是绝对的。
+|prerequisites=[[命令死灵(专长)]]
+|benefit=当你使用命令死灵专长时，将你的阶层的一半加到该效果的意志豁免DC上，而且具有智能的不死生物不能在最初对你的命令进行抵抗之后再次获得额外豁免机会。若尝试对你已经控制的不死生物进行控制的生物是非神话生物的话，该尝试自动失败。而且当神话生物尝试对你所控制的不死生物偷取控制权时，你会在防止此行为的魅力检定中获得+4加值。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

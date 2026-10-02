@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=针灸师
+|english_name=Acupuncturist
+|type=地区
+|prerequisites=楚业
+|description=你研习过针灸这门古老的技艺，并借此追求开悟与疗愈。你对抗毒素效果的所有强韧豁免获得+2背景加值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Acupuncturist
+}}

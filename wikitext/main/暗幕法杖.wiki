@@ -1,0 +1,24 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=暗幕法杖
+|english_name=Staff of the Dark Tapestry
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of the Dark Tapestry
+|cat=法杖
+|aura=中等咒法系
+|cl=9
+|slot=无
+|price=43,500 gp
+|weight=5磅
+|description=这根法杖由深紫色水晶制成，可以使用以下法术：
+
+* [[困惑术]]（2 发）
+* [[黑暗术]]（1 发）
+* [[恐惧术]]（2 发）
+* [[辐射污染]]（1 发；TG）
+* [[行星适应]]（2 发；DW）
+
+该法杖可以当作武器使用，即使充能耗尽，它也视为+1[[冲击]][[木棍]]。
+|req=[[制造魔法武器和防具]]、[[制造法杖]]、[[牛之力量]]、[[困惑术]]、[[黑暗术]]、[[恐惧术]]、[[辐射污染]]、[[行星适应]]
+|cost=21,900 gp
+|source=冒险之路88：集脑者之谷
+}}

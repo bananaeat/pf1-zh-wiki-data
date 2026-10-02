@@ -1,0 +1,10 @@
+{{Feat
+|name=火枪手闪避
+|english_name=Musketeer's Dodge
+|categories=战斗;勇毅
+|description=你比大多数人更善于躲避远程攻击。
+|prerequisites=“异种武器擅长（火器）”UC，枪手3级，枪手闪避炫技。
+|benefit=当你使用枪手闪避炫技进行移动时，该炫技提供的移动不会引发[[借机攻击]]，且你在AC上获得+4闪避加值。
+|source_name=反派法典
+|source_url=https://pf1chm.pages.dev/topics/zhfa2a4585c1.htm
+}}

@@ -1,0 +1,12 @@
+{{危害
+|name=巨型黄蜂毒
+|english_name=Giant Wasp Poison
+|kind=毒药
+|type=伤口
+|save=强韧 DC 18
+|frequency=1次/轮，持续6轮
+|effect=1d2点敏捷伤害
+|cure=1次豁免成功
+|price=210 gp
+|source=核心规则书、极限宝具
+}}

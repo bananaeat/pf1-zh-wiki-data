@@ -1,0 +1,10 @@
+{{Feat
+|name=攀冰者
+|english_name=Ice Climber
+|description=你可以用高超的技巧在光滑的表面上移动或攀爬。
+|prerequisites=[[极地适应]]或[[登山者]]；攀爬2级。
+|benefit=当你在滑溜的表面（包括但不限于结冰的表面）移动时，你的攀爬检定和保持平衡的特技检定上都会获得+5加值。如果你在一次攀爬检定中失败的话，那么只有当你失败10点或更多时，才会失手坠落。你还能在发现一场[[雪崩]]的察觉检定上获得+5加值，并在避开雪崩的反射豁免上获得+2环境加值。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=隐形戒指
+|english_name=Ring of Invisibility
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Invisibility
+|cat=戒指
+|aura=微弱幻术系
+|cl=3
+|slot=戒指
+|price=20,000 gp
+|description=激活这枚朴素的银[[魔法物品#戒指|戒指]]，穿戴者就能获得[[隐形术]]法术的效果。
+|req=[[锻造戒指]]、[[隐形术]]
+|cost=10,000 gp
+|source=核心规则书、极限宝具
+}}

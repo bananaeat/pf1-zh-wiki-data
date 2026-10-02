@@ -1,0 +1,10 @@
+<noinclude>{{炼金术师导航}}
+'''集体记忆'''（Collective Memory, Su）是[[炼金术师]]的[[科研发现]]。
+
+</noinclude>{{Source|平衡勇士|Champions of Balance|inline}}
+
+处于[[异变药剂]]效果下，炼金术师的所有知识检定加上1/2职业等级，未受训知识也可检定。此加值不与[[心智药师]]的完美记忆职业能力给予的第二次智力加值叠加。选择此科研发现前必须拥有异变药剂科研发现。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zha3471abb13.htm 原文]）。全部科研发现见 [[:分类:科研发现|分类:科研发现]]。
+
+[[分类:科研发现]]</noinclude>

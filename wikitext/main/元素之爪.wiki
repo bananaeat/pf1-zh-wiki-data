@@ -1,0 +1,10 @@
+{{Feat
+|name=元素之爪
+|english_name=Elemental Claws
+|description=你以元素能量强化你的爪抓。
+|prerequisites=[[体质]] 13，[[感知]] 13，BAB+8，自然变身职业特性
+|benefit=当你以天生武器攻击时，选择以下一种能量：强酸、寒冰、电击、火焰。若你击中，此攻击在造成正常伤害之余加上额外1d6点你选择的能量伤害。你必须在作出攻击检定前声明使用此专长（失败的攻击检定会浪费这次机会）。你每拥有4个等级，每天能尝试元素之爪的次数+1，每轮不能尝试超过1次。
+|source=WO
+|source_name=荒野源始
+|source_url=https://pf1chm.pages.dev/topics/zh88d60e6387.htm
+}}

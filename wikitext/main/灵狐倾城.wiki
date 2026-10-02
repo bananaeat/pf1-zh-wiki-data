@@ -1,0 +1,11 @@
+{{Feat
+|name=灵狐倾城
+|english_name=Kitsune Vengeance
+|categories=战斗;流派
+|description=看似优雅的姿态背后，你隐藏着险恶的后手。
+|prerequisites=智力13，[[寓守于攻]]，[[精通阴招]]，[[灵狐式]]，[[灵狐计]]，基础攻击加值+6或武僧等级6
+|benefit=当处于灵狐流的架势时，如果你的对手引发了一次你的[[借机攻击]]，你可以选择对他进行一次[[阴招]][[战技]]攻击以取代近战攻击。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

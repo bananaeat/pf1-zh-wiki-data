@@ -1,0 +1,13 @@
+{{Feat
+|name=持杯械斗
+|english_name=Two-Weapon Drunkard
+|categories=战斗
+|description=你可以用副手轻松挥舞酒杯，用它在战斗中一边轻松地喝酒一边轻松地揍人。
+|prerequisites=随手武器，双武器战斗
+|benefit=当你用副手手持啤酒杯作为临时武器战斗时，它被视同为轻型硬头锤，该效果在判断包含武器专攻之类的专长时也能生效。若你信仰凯登．凯连，那么副手的啤酒杯还被视作为法器，而且不会妨碍姿势法术成分。 当你以双武器进行战斗，且正处于恶心状态时，由于恶心而对攻击检定或武器伤害检定产生的减值不会影响你。
+|normal=手持啤酒杯作为临时武器时，其功能被视作为铁手套。
+|notes=以凯登之名战斗的人有时会选取该专长，因为这可以让他们在自己最喜欢的地方——酒馆——轻松找到趁手的武器。
+|source=PotR
+|source_name=正义之路
+|source_url=https://pf1chm.pages.dev/topics/page_678.html
+}}

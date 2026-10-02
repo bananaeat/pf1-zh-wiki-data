@@ -1,0 +1,11 @@
+{{Trait
+|name=旧神信众
+|english_name=Devotee of a Dead God
+|type=宗教
+|prerequisites=信仰奥罗登
+|description=你不能接受奥罗登已死的事实。你对于他的教诲以及他的宗教的信仰变得比以前更加坚定。
+
+你在交涉和知识（宗教）检定上获得+1的背景加值。其中一个技能（由你选择）将被视为你的本职技能。
+|source_name=塔尔多，荣光荡漾之地
+|source_url=https://pf1chm.pages.dev/topics/page_938.html
+}}

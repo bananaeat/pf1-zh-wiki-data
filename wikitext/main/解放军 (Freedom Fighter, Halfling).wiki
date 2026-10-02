@@ -1,0 +1,10 @@
+{{Trait
+|name=解放军
+|english_name=Freedom Fighter (Halfling)
+|type=种族
+|prerequisites=[[半身人]]
+|description=你的父母将逃脱的奴隶藏匿在家中，而他们所讲述的故事让你对蓄奴制度恨之入骨。在逃避被俘、或是协助奴隶逃跑的行动中，你的任何技能和攻击检定获得+1背景加值，同时脱逃总是你的[[本职技能]]。
+|source_name=种族背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

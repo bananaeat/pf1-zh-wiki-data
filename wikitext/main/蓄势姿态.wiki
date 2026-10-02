@@ -1,0 +1,15 @@
+{{Feat
+|name=蓄势姿态
+|english_name=Poised Bearing
+|categories=盔甲掌握;战斗
+|description=你盔甲的重量让你拥有了稳定的下盘。
+|prerequisites=基本攻击加值+6或者战士4级，盔甲训练职业特性，擅长中甲或重甲
+|benefit=在决定[[冲撞]]，拖拽APG，[[闯越]]或者摔绊[[战技]]所能对抗的生物体型时，你的体型视为比原来大一级。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_1089.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[强进姿态]]（1 个条目）

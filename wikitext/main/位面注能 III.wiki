@@ -1,0 +1,15 @@
+{{Spell
+|name=位面注能 III
+|english_name=Bestow Planar Infusion III
+|school=塑能系
+|levels=先知 7;奥能师 7;女巫 7;异能者 7;术士 7;法师 7;牧师 7
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的生物
+|duration=1小时/等级
+|save=强韧，通过则无效（无害）
+|sr=是
+|description=这种法术如同[[位面注能 I]]，除了接触的生物获得当前所处位面的高等注能效果。
+|source=位面冒险
+}}

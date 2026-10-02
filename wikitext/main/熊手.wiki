@@ -1,0 +1,17 @@
+{{武器
+|name=熊手
+|english_name=Kumade
+|category=武器
+|prof=简易
+|wcat=双手
+|price=5 gp
+|weight=4磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×3
+|type=穿刺
+|special=擒抱
+|groups=斧
+|description=基于园艺耙改制，熊手由一根木制或竹制的长杆顶端装一个金属爪构成。耙头同时可当作[[爪钩]]使用。将熊手固定在某个表面（例如椽子或窗台）上时，其握柄可当作5尺长的绳索来攀爬。
+|source=近战战术工具箱
+}}

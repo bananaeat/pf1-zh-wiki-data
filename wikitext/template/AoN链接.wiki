@@ -1,0 +1,11 @@
+<includeonly>{{#if:{{{2|}}}|{{#ifeq:{{{2}}}|无|{{{3|}}}|[https://www.aonprd.com/{{{1}}}Display.aspx?{{{4|ItemName}}}={{urlencode:{{{2}}}|PATH}} {{{3|{{{2}}}}}}]}}|{{{3|}}}}}</includeonly><noinclude>
+卡片抬头的英文名本身就是 Archives of Nethys（AoN）原文的链接（2026-09-22 用户选定的写法：不另加一行）。
+
+ <nowiki>{{AoN链接|Spell|Fireball|Fireball}}</nowiki>
+
+参数：1 = AoN 的页型（拼成 <code>…Display.aspx</code>：Spell、Feat、Trait、Monster、NPC……）；2 = AoN 上这一条的名字（写「无」表示 AoN 没有这一条，只显示文字、不挂链接）；3 = 显示的文字（一般是卡片的英文名）；4 = 查询参数名，默认 ItemName（有的页型是 FinalName、FixedName）。
+
+示例：{{AoN链接|Spell|Fireball|Fireball}}
+
+[[分类:模板]]
+</noinclude>

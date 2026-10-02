@@ -1,0 +1,11 @@
+{{Feat
+|name=燃烧殆尽
+|english_name=Burn It Down!
+|categories=战斗;团队
+|description=燃烧的火把和喧闹的歌声那不和谐回响点燃了你内心的热情。
+|prerequisites=基本攻击加值+1，地精。
+|benefit=每当你以一根火把、一瓶有引信的油灯[[灯油]]、一瓶[[炽火胶]]、或一把炽焰武器发起攻击的话，你在你的伤害骰上获得等同于「距你30尺内且同样拥有该专长的[[地精]]盟友数量」的士气加值（最多+4）。该额外伤害属于火焰伤害。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

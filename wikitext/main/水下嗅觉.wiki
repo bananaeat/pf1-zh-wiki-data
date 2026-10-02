@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''水下嗅觉'''（Keen Scent）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：感官</span></div>
+</noinclude><includeonly><div class="lang"><span id="水下嗅觉"></span><div class="lang-h"><b>[[水下嗅觉]]</b><i>Keen Scent</i><span class="lang-w">Ex · 感官</span></div><div class="lang-d"></includeonly>
+该生物可以在水下用嗅觉注意到半径 180 尺范围内的其他生物，并且可以在水中 1 英里范围内侦测到血液的味道。
+
+'''格式'''：水下嗅觉
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Keen Scent|2=Keen Scent}}
+
+[[分类:通用怪物规则]]</noinclude>

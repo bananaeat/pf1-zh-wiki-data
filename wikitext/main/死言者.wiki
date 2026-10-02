@@ -1,0 +1,10 @@
+{{Trait
+|name=死言者
+|english_name=Deathspeaker
+|type=宗教
+|prerequisites=信仰[[厄加图娅]]
+|description=你和不死生物相处的经历给予你在面对不死生物时的交涉检定获得+2背景加值，以及在影响不死生物时进行的魅力检定获得+2背景加值(例如命令死灵法术所需的检定)。
+|source_name=堕落信念
+|source=FoC
+|source_url=https://pf1chm.pages.dev/topics/zhd0c4b91542.htm
+}}

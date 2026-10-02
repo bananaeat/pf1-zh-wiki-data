@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=平衡握持戒指
+|english_name=Ring of Balanced Grip
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Balanced Grip
+|cat=戒指
+|aura=中等变化系
+|cl=7
+|slot=戒指
+|price=1,600 gp
+|description=这枚坚固的[[魔法物品#戒指|戒指]]能让使用者无视使用某种特定类型的临时武器（例如撬棍或干草叉）时的不熟练减值，并使他用该物品进行的攻击检定获得+1增强加值，如同它是一件精制武器。
+|req=[[锻造戒指]]、[[精制品转化术]]
+|cost=800 gp
+|source=冒险者的军械库2
+}}

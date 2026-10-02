@@ -1,0 +1,13 @@
+{{危害
+|name=灰飞烟灭陷阱
+|english_name=Destruction Trap
+|kind=陷阱
+|trap_type=魔法
+|cr=20
+|perception=DC 34
+|disable=DC 34
+|trigger=接近型（[[魔法警报]]）
+|reset=无
+|effect=法术效果（升阶[[灰飞烟灭]]，190点伤害，强韧 DC 23 豁免则伤害降为10d6）
+|source=核心规则书
+}}

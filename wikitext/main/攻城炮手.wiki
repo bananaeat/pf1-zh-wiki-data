@@ -1,0 +1,13 @@
+{{Feat
+|name=攻城炮手
+|english_name=Siege Gunner
+|categories=战斗
+|pfs=否
+|description=用过大的攻城兵器进行瞄准对你而言似乎并非难事。
+|prerequisites=[[攻城技师]]，[[专业]]（攻城技师）5级。
+|benefit=你在瞄准体型大于自身的直射型攻城兵器时不会遭受体型减值。若你操作抛射型攻城兵器攻击失手，弹药落点误差为每个射程增量1格。
+|normal=直射型攻城兵器的体型每比操作者大一级，攻击检定就要受到叠加的-2减值。攻击失手的抛射型攻城兵器，其弹药落点误差为每个射程增量1d4格。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=小团体
+|english_name=Provincial
+|type=缺陷
+|pfs=否
+|description=你看待事物只有一种方式：正确的方式。
+|benefit=你对所有与你不同宗教或阵营的生物的交涉和察言观色检定获得-2罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

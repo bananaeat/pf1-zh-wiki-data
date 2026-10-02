@@ -1,0 +1,17 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=哗变克星耳环
+|english_name=Mutineer's Bane Earring
+|aon=MagicWondrousDisplay.aspx?FinalName=Mutineer's Bane Earring
+|cat=奇物
+|aura=中等预言系
+|cl=7
+|slot=无
+|price=4,000 gp
+|description=每当船员开始私下议论哗变时，这只魔法耳环就会变得温热，使耳环的佩戴者在这种士气低落的情形下于船上进行的所有[[察言观色]]检定获得+5加值。
+
+如果由海军准将或海军上将佩戴，哗变克星耳环还有额外效果。若由海军准将佩戴，该准将的分舰队在舰队战中的士气检定获得+3加值。若由海军上将佩戴，该上将舰队中的所有分舰队在舰队战中的士气检定获得+1加值。
+|req=[[制造奇物]]、[[侦测思想]]
+|cost=2,000 gp
+|source=冒险之路59：恶名的代价
+}}

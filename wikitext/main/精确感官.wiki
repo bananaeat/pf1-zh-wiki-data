@@ -1,0 +1,15 @@
+{{Feat
+|name=精确感官
+|english_name=Sharp Senses
+|description=即使与你的同族相比，你的感官都更为敏锐。
+|prerequisites=【敏锐感官】种族特性。
+|benefit=你的察觉检定获得+4种族加值。这取代了[[敏锐感官]]特性的正常加值。
+|normal=正常情况下，【敏锐感官】[[种族特性]]会使察觉检定获得+2种族加值。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[黄昏之眼]]（1 个条目）

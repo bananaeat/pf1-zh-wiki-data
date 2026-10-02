@@ -1,0 +1,15 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[精通法术反制 (神话)]]。</small></div>
+{{Feat
+|name=精通法术反制
+|english_name=Improved Counterspell
+|description=你擅长用类似法术反制他人的法术。
+|benefit=反制法术时，你可以使用与目标法术同一学派、环级比目标法术高1环或更多的法术。
+|normal=无此专长的人物只能用同样或特定的法术才能进行反制。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[乘间伺隙]]（1 个条目）

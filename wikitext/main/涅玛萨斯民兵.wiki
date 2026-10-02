@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=涅玛萨斯民兵
+|english_name=Nirmathi Militia
+|type=地区
+|prerequisites=涅玛萨斯
+|description=你曾在涅玛萨斯的一支民兵队伍中服役，学到了宝贵的技能。从下列技能中选择一项：[[专业]]（士兵）、[[骑术]]或[[生存]]。你在该技能上获得+1背景加值，并且它永远是你的本职技能。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Nirmathi%20Militia
+}}

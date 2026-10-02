@@ -1,0 +1,10 @@
+{{Trait
+|name=猎魔师
+|english_name=Asmodean Demon Hunter
+|type=宗教
+|prerequisites=[[阿斯莫迪斯]]
+|description=在[[阿斯莫迪斯]]的教会中长大(无论你本身是否为信众),你被灌输的主要信条就是剪除恶魔。你对恶魔的知识(位面)检定获得+3背景加值，并在对抗恶魔影响心智的法术和效果的意志豁免中获得+2背景加值。
+|source_name=宗教背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

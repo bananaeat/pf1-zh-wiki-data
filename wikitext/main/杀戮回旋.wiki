@@ -1,0 +1,12 @@
+{{Feat
+|name=杀戮回旋
+|english_name=Murderer's Circle
+|categories=战斗;演武
+|pfs=否
+|description=凶猛地攻击敌人之后，你如同随时准备杀死猎物的猎手般在旁环绕。
+|prerequisites=[[闪避]]，特技4级。
+|benefit=在发动了一次重击或[[战技]]后以[[迅捷动作]]进行演武检定、并与重击或战技的目标相邻时，你能够不引发[[借机攻击]]地移动到与其相邻的任意位置。你必须有着明确的路线，并能通过一个[[移动动作]]到达目的地。如果你在不同于起点的任何位置停下，你的演武检定+2。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

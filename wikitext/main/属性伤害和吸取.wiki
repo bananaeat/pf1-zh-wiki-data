@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''属性伤害和吸取'''（Ability Damage and Drain）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex 或 Su</span><span class="sk-f">位置：特殊攻击和个体攻击</span></div>
+</noinclude><includeonly><div class="lang"><span id="属性伤害和吸取"></span><div class="lang-h"><b>[[属性伤害和吸取]]</b><i>Ability Damage and Drain</i><span class="lang-w">Ex 或 Su · 特殊攻击和个体攻击</span></div><div class="lang-d"></includeonly>
+一些攻击或者[[特殊能力]]会造成[[属性伤害]]或[[属性吸取|吸取]]。属性伤害可以被自然治愈，但是属性吸取是永久有效并且只能通过魔法恢复。
+
+'''格式'''：1d4 力量吸取
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Ability Damage and Drain|2=Ability Damage and Drain}}
+
+[[分类:通用怪物规则]]</noinclude>

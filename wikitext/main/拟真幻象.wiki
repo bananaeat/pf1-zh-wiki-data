@@ -1,0 +1,11 @@
+{{Feat
+|name=拟真幻象
+|english_name=Fabulous Figments
+|categories=神话
+|description=你制造的幻象是如此地真实。
+|prerequisites=[[法术专攻]]（幻术）
+|benefit=非神话生物无法以[[法术辨识]]鉴别你的幻术系法术（illusion spells），包括以[[秘法视力]]、[[侦测魔法]]或类似效果的一部分做出的尝试。若盟友对神话生物进行提醒，告知他你所造出的幻象并非现实，那么该神话生物只能在认为幻象不可信的意志豁免中获得+2加值。而非神话生物则不会从中获得加值。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

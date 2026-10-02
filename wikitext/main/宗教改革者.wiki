@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faiths and Philosophies pg. 33），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=宗教改革者
+|english_name=Religious Reformer
+|type=信念
+|description=你花了多年研读你信仰的教义，如今认为教会中占主导地位的派系已经偏离了它真正的意义与目的。你没有与误入歧途的教会决裂，而是决定挺身而出，为改革你所爱的这个组织而战。你热忱地研读经文，并磨砺意志以对抗同侪的异见。你在与你自身宗教或灵性修行相关的[[知识]]（宗教）检定上获得+2背景加值，并在对抗崇拜你的神祇或奉行你的哲学的其他人所施放之法术的豁免检定上获得+2背景加值。
+|source_name=信仰与哲学
+|source=F&P
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Religious%20Reformer
+}}

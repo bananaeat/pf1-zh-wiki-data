@@ -1,0 +1,19 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=Morrowfall
+|english_name=The Morrowfall
+|aon=MagicArtifactsDisplay.aspx?ItemName=The Morrowfall
+|cat=神器
+|tier=次级神器
+|aura=强烈塑能系
+|cl=15
+|slot=无
+|weight=5磅
+|description=Morrowfall是Aohl的一半。Aohl这件神器，是在千年之前两位互相争斗的神明缔结神圣停战之后，赠予古代Jaytirian社会的。Morrowfall是如今几乎被遗忘的强大太阳神伊西维拉（Easivra）所余力量的显现（得知伊西维拉之名需要DC 30的知识（宗教）检定，但任何触碰Morrowfall的善良生物都会立刻知道这个名字以及使用这件神器能力的方法）。Morrowfall不断散发出[[昼明术]]法术所产生的那种光亮。此外，只要强烈地展示它并念出伊西维拉之名（一个[[标准动作]]），Morrowfall就能用来施放下列法术。
+
+* 随意——[[侦测死灵]]、[[打击死灵]]、[[怪物晕眩术]]（DC 13）
+* 每天3次——[[目盲/耳聋术|目盲术]]（DC 13）、[[昼明术]]、[[灼热光辉]]
+* 每天1次——[[阳炎射线]]（DC 20）、[[阳炎爆]]（DC 22）
+|destruction=当Morrowfall与它的对应物Totemrix合在一起时，它的力量（以及Totemrix的力量）都被压制。在这种状态下，只要是能毁掉同等大小魔法金属物体的任何东西，都能毁掉它和Totemrix。
+|source=冒险之路27：尘埃之下
+}}

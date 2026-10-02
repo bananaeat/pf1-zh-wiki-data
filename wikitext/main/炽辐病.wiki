@@ -1,0 +1,19 @@
+{{危害
+|name=炽辐病
+|english_name=Blightburn Sickness
+|kind=疾病
+|type=接触（见下）
+|save=强韧 DC 22
+|onset=1天
+|frequency=1次/天
+|effect=1d6点体质伤害和1d6点魅力伤害
+|cure=连续2次豁免成功
+|description=炽辐病是[[炽辐晶]]的辐射所引起的疾病。
+
+生物进入炽辐晶60尺半径内时会自动接触此病，只有铅板、1尺厚的石头或力场效果才能阻挡。
+
+[[炽辐膏]]被打开后，60尺内的任何人都会患上此病；直接接触膏体的生物无豁免即患病。[[炽辐武器]]法术会带来半径10尺的辐射灵光，其效果如同此病，但豁免DC等同该法术的豁免DC。
+|source=不死生物横行、神话领域
+}}
+
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_1153.html 原文]），潜伏期按 AoN 补。</small>

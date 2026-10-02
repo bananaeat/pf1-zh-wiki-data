@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''召唤'''（Summon）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Sp</span><span class="sk-f">位置：类法术能力</span></div>
+</noinclude><includeonly><div class="lang"><span id="召唤"></span><div class="lang-h"><b>[[召唤]]</b><i>Summon</i><span class="lang-w">Sp · 类法术能力</span></div><div class="lang-d"></includeonly>
+具有召唤能力的生物可以召唤同类的其他特定生物，如同施展[[召唤怪物]]法术，但通常只有有限的成功几率（在生物条目中给出）。投 d%；失败则没有生物响应召唤。被召唤的生物会在 1 小时后自动回到来处。以这种方式被召唤的生物不能使用任何需要价值超过 1 gp 材料成分的法术或类法术能力（除非提供了这些材料成分），在 1 小时内也不能使用其自身的召唤能力。大多数具有此能力的生物不会轻易使用召唤，因为这样它需要报答被召唤的生物。大体上说，只有在该生物需要救命的时候才会使用。每种召唤能力都给出了相应的法术环位，用于施法者等级检定、专注检定和意志豁免。打倒被召唤的怪物不会获得经验值。
+
+'''格式'''：1 次/天—召唤（4 环，1 狂战魔 35%）
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Summon|2=Summon}}
+
+[[分类:通用怪物规则]]</noinclude>

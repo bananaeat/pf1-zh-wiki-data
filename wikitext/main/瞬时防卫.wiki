@@ -1,0 +1,9 @@
+{{Trait
+|name=瞬时防卫
+|english_name=Split-Second Defense
+|type=宗教
+|prerequisites=信仰[[密拉妮]]
+|description=每天一次，当你成为正在[[夹击]]你的敌人的攻击目标时，你可以用一个[[直觉动作]]挫败敌人的攻击。敌人在这一次攻击中不享受任何夹击带来的加值或效果。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

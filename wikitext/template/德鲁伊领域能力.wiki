@@ -1,0 +1,12 @@
+<includeonly>{{#ifeq:{{PAGENAME}}|{{{domain|}}}|{{{text|}}}|<div class="feat domain-power">
+<div class="feat-head"><div class="feat-name">{{{name|{{PAGENAME}}}}}<span class="feat-cats">{{#if:{{{type|}}}|<span class="tag">{{{type}}}</span>}}<span class="tag">[[{{{domain}}}]]</span></span></div><div class="feat-en">{{{en|}}}</div></div><!--
+--><div class="feat-block feat-benefit"><span class="k">效果</span>{{{text|}}}</div><!--
+--><div class="feat-block feat-extra"><span class="k">所属领域</span>[[{{{domain}}}]]的授予能力，自然纽带选择该领域的[[德鲁伊]]获得（见[[德鲁伊#德鲁伊领域|德鲁伊领域]]）。[[{{{domain}}}]]页上这一节嵌入的就是本页，改这里两边一起变。</div><!--
+-->{{#if:{{{source|}}}|<div class="feat-source"><span class="key">来源</span> <span class="value">[[{{{source}}}]]</span></div>}}</div>}}</includeonly><noinclude>
+德鲁伊领域授予能力的卡片。用在每个能力的单独页上；领域页在对应小节下用 <code><nowiki>{{:能力页}}</nowiki></code> 嵌入它——
+嵌在领域页里时（当前页名＝domain 参数）只输出效果正文，不出卡片，所以领域页原来的小节标题、锚点都不变，正文只有一份。
+
+ {{德鲁伊领域能力|name=猴戏|en=Monkey Athletics|type=Su|domain=猿猴领域|source=极限魔法|text=……}}
+
+[[分类:模板]]
+</noinclude>

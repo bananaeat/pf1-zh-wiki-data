@@ -1,0 +1,13 @@
+{{危害
+|name=蓝百合花粉
+|english_name=Azure lily pollen
+|kind=毒药
+|type=吸入
+|save=强韧 DC 15
+|frequency=1次/分钟，持续2分钟
+|initial=[[反胃]]1分钟
+|secondary=[[麻痹]]2d4小时
+|cure=1次豁免
+|price=1,500 gp
+|source=极限宝具
+}}

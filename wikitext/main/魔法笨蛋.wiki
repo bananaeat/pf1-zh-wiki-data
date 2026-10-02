@@ -1,0 +1,10 @@
+{{Trait
+|name=魔法笨蛋
+|english_name=Magical Klutz
+|type=缺陷
+|pfs=否
+|description=你出生在过多魔法被怪异扭曲之地，例如盖布、法力废土或奈克斯，而魔法在你的身边总是危险地蠢蠢欲动。
+|benefit=你在用于盲目启动魔法物品的[[使用魔法装置]]检定上，以及对抗魔法物品所产生效果的反射豁免上，都要骰两次并取较低的结果。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

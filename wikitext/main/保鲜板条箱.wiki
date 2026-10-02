@@ -1,0 +1,15 @@
+{{魔法物品
+|name=保鲜板条箱
+|english_name=Crate of Preservation
+|aon=MagicWondrousDisplay.aspx?FinalName=Crate of Preservation
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=无
+|price=2,500 gp
+|weight=60磅
+|description=保鲜板条箱能在运输途中储存易腐的食物和饮品，并保持其新鲜。冷的东西保持冰冷，热的东西保持温热。保鲜效果无限期持续，但在放入箱中之前已经变质的食物不会恢复鲜美，只会维持原有的变质状态。保鲜板条箱最多可容纳8立方尺的货物。
+|req=[[制造奇物]]、[[忍受环境]]、[[净化食粮]]
+|cost=1,250 gp
+|source=恶棍志
+}}

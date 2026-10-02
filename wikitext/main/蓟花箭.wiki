@@ -1,0 +1,10 @@
+{{武器
+|name=蓟花箭
+|english_name=Thistle arrow
+|category=弹药
+|wcat=弹药
+|price=1 gp
+|weight=—
+|description=这些倒刺箭由一种有毒植物的蓟花制成，命中后，该次伤害将作为[[流血]]效果持续1d6轮。
+|source=探索者编年史：战役设定、冒险者的军械库
+}}

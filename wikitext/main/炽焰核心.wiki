@@ -1,0 +1,15 @@
+{{Feat
+|name=炽焰核心
+|english_name=Inner Flame
+|categories=战斗
+|description=你的身体产生了如此之多的热能，使得你仅靠触摸就能烧焦敌人。
+|prerequisites=[[炙热武器]]，角色等级7，火元素裔。
+|benefit=你在对抗火焰攻击以及带有〔火〕或者〔光亮〕描述符的法术时的豁免加值提升至+4。当你使用[[炙热武器]]时，被影响的武器造成额外1d6火焰伤害而非原本的1点，此外当你处于[[擒抱]]状态时，你可以在你的行动轮对擒抱对手造成该伤害。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[炽烈光环]]（1 个条目）

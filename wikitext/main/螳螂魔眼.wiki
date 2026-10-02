@@ -1,0 +1,14 @@
+{{魔法物品
+|name=螳螂魔眼
+|english_name=Eye of the Mantis
+|aon=MagicWondrousDisplay.aspx?FinalName=Eye of the Mantis
+|cat=奇物
+|aura=中等预言系
+|cl=9
+|slot=无
+|price=2,000 gp
+|description=这尊1英寸大小的红色大理石雕像刻画了一只微小的祷念螳螂。念出命令字后，螳螂会活化起来，并按主人的指示行动，如同[[窥视魔眼]]法术中的魔眼感受器。螳螂最多保持活化9小时，或直到它回到持有者身边、回放它所见之物为止，此后它会恢复为雕像形态，持续1日。如果螳螂在活化状态下被摧毁，它会恢复为雕像形态。
+|req=[[制造奇物]]、[[窥视魔眼]]
+|cost=1,000 gp
+|source=组织指南、冒险者指南
+}}

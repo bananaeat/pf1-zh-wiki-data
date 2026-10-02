@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=无边怒火
+|english_name=Roused Anger
+|type=Ex
+|categories=杂项
+|benefit=野蛮人即使在[[疲乏]]状态下也可以进入狂暴。当野蛮人使用此能力后进入狂暴，他免疫疲乏状态。然而狂暴结束后，每狂暴1轮，野蛮人就会[[力竭]]10分钟。
+|unchained=激发怒意
+|source_name=核心规则书
+}}

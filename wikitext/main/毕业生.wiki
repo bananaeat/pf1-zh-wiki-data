@@ -1,0 +1,10 @@
+{{Feat
+|name=毕业生
+|english_name=Scholar
+|description=你从遍布内海地区的学院、大学或高等专业学校中毕业了。
+|benefit=选择任意两种知识技能。这两个技能均获得+2加值。如果你在其中某个知识技能中有10或更高的等级，那么该技能的加值提升至+4。
+|special=本专长不隶属于任何组织；生物无需隶属于玛伽姆比亚也可选择本专长。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=幻灵速
+|english_name=Desperate Speed
+|type=魔法
+|description=你的[[幻灵]]在你所不具备的某项移动方式上超凡脱俗。对于你所没有的单种移动方式如攀爬、游泳等，你的幻灵获得+5尺增强加值。若你的幻灵尚未获得该种移动方式，你可以在通过适当进化为幻灵添加相应移动速度后再应用此加值。每当此加值决定应用于一种移动，就不可再改变。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

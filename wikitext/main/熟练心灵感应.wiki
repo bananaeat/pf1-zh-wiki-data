@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（People of the Stars pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=熟练心灵感应
+|english_name=Skilled Telepath
+|type=种族
+|pfs=否
+|prerequisites=拉申塔人
+|description=你的有限心灵感应种族能力的范围增加5尺。
+|source_name=繁星子民
+|source=PotS
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Skilled%20Telepath
+}}

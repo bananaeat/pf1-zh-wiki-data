@@ -1,0 +1,11 @@
+{{武器
+|name=弹头
+|english_name=Firearm bullet (1)
+|category=火器
+|prof=异种
+|wcat=弹药
+|price=1 gp（1颗）；30 gp（30颗）
+|weight=—（1颗）；1/2磅（30颗）
+|description=大部分单手和双手火器使用的弹药，弹头通常是铅或其他金属制成的小球。30颗弹头重半磅。
+|source=探索者编年史：战役设定、极限战斗、极限宝具
+}}

@@ -1,0 +1,12 @@
+{{Feat
+|name=法术扩展
+|english_name=Widen Spell
+|categories=超魔
+|description=你可增加自己法术的影响范围。
+|benefit=你可增加爆发、弥漫或扩散型的法术影响区域。法术的所有范围类数值加倍。扩展的法术须占用高于原本3个环位的法术位。没有上列四类影响范围的法术不受本专长影响。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+{{FAQ|v5748eaic9neh}}

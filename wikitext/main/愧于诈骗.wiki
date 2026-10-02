@@ -1,0 +1,10 @@
+{{Trait
+|name=愧于诈骗
+|english_name=Guilty Fraud
+|type=缺陷
+|pfs=否
+|description=你透过诡计获得了你不配拥有的事物，而你对于此劣迹的内疚感使你无暇顾及四周的危险。
+|benefit=你对起始态度为冷漠或以上的生物的[[唬骗]]检定承受-4罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

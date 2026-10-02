@@ -1,0 +1,9 @@
+{{Trait
+|name=奥术研究者
+|english_name=Arcane Researcher
+|type=魔法
+|description=你在魔法领域的研究方面颇有天赋，你的好奇心与独创精神驱使你不断实验、突破界限。你在进行知识(奥秘)与[[法术辨识]]检定以研究、修改和创造新法术时，获得+4背景加值。
+|source_name=古国血脉
+|source=BotA
+|source_url=https://pf1chm.pages.dev/topics/zhb7c0053e99.htm
+}}

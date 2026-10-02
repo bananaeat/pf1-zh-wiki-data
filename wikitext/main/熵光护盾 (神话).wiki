@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[熵光护盾]] 的神话版本。</small></div>
+{{Spell
+|name=熵光护盾
+|english_name=Entropic Shield
+|school=防护系
+|levels=先知 1;异能者 1;战斗祭司 1;牧师 1
+|description=当远程攻击由于该法术而失手时，该次攻击有50%的概率重定向回攻击者，而非仅仅被偏转为无害的攻击。这些攻击使用与攻击者用来对抗你的攻击检定相同的结果。
+|source=神话冒险
+}}
+[[分类:神话法术]]

@@ -1,0 +1,9 @@
+{{Trait
+|name=能言善辩
+|english_name=Clever Wordplay
+|type=社会
+|description=你的狡黠和逻辑胜过他人的自信与风度。选择一项基于魅力的技能，你在尝试该技能检定时用你的智力调整值代替魅力调整值。
+|source_name=初探探索者协会
+|source=PSP
+|source_url=https://pf1chm.pages.dev/topics/page_1587.html
+}}

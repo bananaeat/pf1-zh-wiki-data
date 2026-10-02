@@ -1,0 +1,15 @@
+{{魔法物品
+|name=狂暴巨剑
+|english_name=Berserking Sword
+|aon=MagicCursedDisplay.aspx?ItemName=Berserking Sword
+|cat=诅咒物品
+|base=[[巨剑]]
+|enh=+2
+|aura=中等塑能系
+|cl=8
+|slot=无
+|weight=8磅
+|description=这把剑看起来是一把+2巨剑。然而，只要在战斗中使用它，持有者就会陷入狂暴（获得野蛮人狂暴能力的全部益处和弊端）。他会攻击离自己最近的生物，并持续战斗，直到[[昏迷]]或死亡，或者30尺内不再有任何活物。虽然许多人认为这把剑是被诅咒的物品，但也有人视它为一份恩赐。
+|req=+2[[巨剑]]，或任意魔法武器
+|source=核心规则书、极限宝具
+}}

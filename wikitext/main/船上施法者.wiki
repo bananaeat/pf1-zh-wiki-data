@@ -1,0 +1,9 @@
+{{Trait
+|name=船上施法者
+|english_name=Shipboard Caster
+|type=地区
+|prerequisites=谜港城
+|description=你对船只和大海有一种亲和力，波浪的节奏有助于集中你的注意力。当你在船上或其他水上交通工具上时，你在专注检定中获得+3加值。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=盗亡手套
+|english_name=Gloves of Stolen Unlife
+|aon=MagicWondrousDisplay.aspx?FinalName=Gloves of Stolen Unlife
+|cat=奇物
+|aura=微弱死灵系
+|cl=3
+|slot=手部
+|price=3,040 gp
+|weight=1磅
+|description=这双苍白的灰色护手上镶着带状的黑玛瑙凸圆宝石，手套被激活时，宝石会慢慢变白。每天3次，穿戴者以攻击性的单体法术成功影响一个不死生物之后，可以以[[迅捷动作]]激活这双手套。这会给予穿戴者数量等同于10＋被影响不死生物的生命骰数（这一项最多+10）的临时生命值，持续的分钟数等同于所施放法术的环级。只要任一只手套被脱下，这一效果就立即结束。
+|req=[[制造奇物]]、[[虚假生命]]
+|cost=1,520 gp
+|source=亡灵杀手手册
+}}

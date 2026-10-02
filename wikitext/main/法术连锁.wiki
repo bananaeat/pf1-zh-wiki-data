@@ -1,0 +1,11 @@
+{{Feat
+|name=法术连锁
+|english_name=Spell Chain
+|categories=团队
+|description=你帮助你的盟友绕过敌人的魔法防御。
+|prerequisites=[[法术穿透]]。
+|benefit=每当你成功进行一次施法者等级检定以克服目标的[[特殊能力#法术抗力|法术抗力]]时，下一个同样拥有此专长且试图克服同一目标法术抗力的盟友在进行自己的施法者等级检定时可以双骰取高。此效果必须在1轮内使用，否则失效。
+|source=DHH
+|source_name=恶魔猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh90d9fee6da.htm
+}}

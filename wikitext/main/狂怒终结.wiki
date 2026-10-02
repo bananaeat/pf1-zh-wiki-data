@@ -1,0 +1,10 @@
+{{Feat
+|name=狂怒终结
+|english_name=Furious Finish
+|description=你引导你所有的怒气聚于一击并彻底将敌人轰杀至渣。
+|prerequisites=【狂暴】职业特性，[[要害打击]]，基本攻击加值+6。
+|benefit=处于狂暴状态时，当你使用[[要害打击]]专长，你可以选择不掷伤害骰而是将伤害骰取最大值。如果你这么做，你的狂暴状态立刻结束，并且你陷入[[疲乏]]状态（即使正常情况下不会疲乏）。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

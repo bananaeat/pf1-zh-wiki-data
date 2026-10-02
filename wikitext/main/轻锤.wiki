@@ -1,0 +1,17 @@
+{{武器
+|name=轻锤
+|english_name=Light hammer
+|category=武器
+|prof=军用
+|wcat=轻型
+|price=1 gp
+|weight=2磅
+|dmg_s=1d3
+|dmg_m=1d4
+|crit=×2
+|range=20尺
+|type=钝击
+|groups=锤，投掷
+|description=作为[[战锤]]的轻量化版本，这件武器的光滑锤头通常有一个打击面。
+|source=核心规则书、极限宝具
+}}

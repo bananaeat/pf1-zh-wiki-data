@@ -1,0 +1,15 @@
+{{Feat
+|name=六合拳劲
+|english_name=Mantis Wisdom
+|categories=战斗
+|description=你对要穴的了解令自己在对其瞄准时更为精确。
+|prerequisites=[[精通徒手打击]]，[[震慑拳]]，[[螳螂拳]]，医疗6级。
+|benefit=你可以将你的非武僧等级折半加上你的武僧等级来决定你的[[震慑拳]]效果。你可以用[[标准动作]]进行一次近战[[接触攻击]]来消去你的“震慑拳”造成的效果。你使用[[螳螂拳]][[流派]]架势时，你的震慑拳攻击骰有+2加值。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[螳螂铁刺]]（1 个条目）

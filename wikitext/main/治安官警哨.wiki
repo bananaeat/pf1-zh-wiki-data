@@ -1,0 +1,9 @@
+{{装备
+|name=治安官警哨
+|english_name=Sherrif's whistle
+|cat=冒险装备
+|price=1 gp
+|weight=—
+|description=侏儒治安官与游侠最常使用这种哨子，治安官警哨能够发出尖锐的声响，一般情况下能够轻易传到1000尺远的距离。然而哨声的频率是如此之高，只有獾、犬以及侏儒能够听到。
+|source=进阶种族手册
+}}

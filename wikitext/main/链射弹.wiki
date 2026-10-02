@@ -1,0 +1,10 @@
+{{武器
+|name=链射弹
+|english_name=Chain shot
+|category=攻城兵器
+|wcat=弹药
+|price=50 gp
+|weight=30磅
+|description=这种攻城火器弹药可由加农火炮或鬼头火炮发射。它尤其擅长撕裂船帆和飞艇（见载具规则），对这类推进装置造成双倍的正常伤害。用它攻击生物时，命中的生物必须通过DC为20的强韧豁免，否则被击倒在地。
+|source=极限战斗
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=战术臂铠
+|english_name=Vambraces of the Tactician
+|aon=MagicWondrousDisplay.aspx?FinalName=Vambraces of the Tactician
+|cat=奇物
+|aura=中等惑控系
+|cl=7
+|slot=腕部
+|price=8,000 gp
+|weight=3磅
+|description=这对臂铠的外观会随穿戴者而变化。如果穿戴者是骑士，臂铠上就会显现出他所属骑士团的标识。未被穿戴，或在非骑士手中时，它们看起来只是一对普通的钢制臂铠。穿戴这对臂铠的骑士在判定其挑战职业能力的效果时，视为职业等级高2级。此外，拥有战术职业能力的骑士每天1次可以以[[迅捷动作]]扩大他给予[[团队专长]]的范围。在他的下个回合结束前，当骑士给予盟友一项团队专长时，他可以将其给予60尺内的所有盟友，不过这些盟友仍必须能够看见并听见他。
+|req=[[制造奇物]]、[[英雄气概]]
+|cost=4,000 gp
+|source=极限宝具
+}}

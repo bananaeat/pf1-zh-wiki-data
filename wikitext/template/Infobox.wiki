@@ -1,0 +1,1 @@
+{{#invoke:Infobox|infobox}}<noinclude>{{优质模板|信息}}{{documentation}}{{DEFAULTSORT:Infobox}}[[Category:huiji template]]</noinclude>

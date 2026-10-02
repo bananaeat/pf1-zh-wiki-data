@@ -1,0 +1,10 @@
+<noinclude>{{催眠师导航}}
+'''掩饰灾厄'''（Greater Mask Misery）是[[催眠师]]的[[催眠师诡计|催眠师诡计]]。
+
+</noinclude>这项诡计就如同掩饰苦难一般，不过它还能用于忽略高级状态。催眠师必须已经选取了掩饰苦难催眠师诡计，才能够选取掩饰灾厄。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_306.html 原文]），按 AoN 核对过。全部催眠师诡计见 [[催眠师诡计]]。
+
+[[分类:催眠师诡计]]
+
+{{职业}}</noinclude>

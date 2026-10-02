@@ -1,0 +1,15 @@
+{{Spell
+|name=共用抵抗能量伤害
+|english_name=Resist energy, communal
+|school=防护系
+|levels=先知 3;召唤师 3;召唤师（掉链） 3;圣武士 3;奥能师 3;审判者 3;异能者 3;德鲁伊 3;战斗祭司 3;术士 3;法师 3;游侠 3;炼金术师 3;牧师 3;猎人 3;秘学士 3;调查员 3
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=接触
+|target=接触到的复数生物
+|duration=10分钟/等级
+|save=强韧，通过则无效（无害）
+|sr=是
+|description=这个法术的工作方式如同[[抵抗能量伤害]]，不过你可以将持续时间以10分钟为单位分配给接触到的复数生物。
+|source=极限战斗
+}}

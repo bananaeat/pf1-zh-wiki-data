@@ -1,0 +1,14 @@
+{{Feat
+|name=天使之血
+|english_name=Angelic Blood
+|description=你的血液中蕴含着神圣的力量。
+|prerequisites=[[体质]] 13，神裔。
+|benefit=你在面对〔邪恶〕描述符的法术或效果时的豁免检定，以及HP小于0（但还没死）时用于[[伤害和死亡#稳定和恢复|稳定伤势]]的体质检定+2。此外，每当你受到[[出血]]或[[吸血]]伤害，任何邻接你的不死生物、或拥有邪恶子类别的生物都会受到1点伤害。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[天使之翼]]、[[天使之躯]]、[[金属之翼]]（3 个条目）

@@ -1,0 +1,15 @@
+{{Feat
+|name=豹形拳
+|english_name=Panther Style
+|categories=战斗;流派
+|description=你可以反击那些趁你移步而进犯的敌人。
+|prerequisites=感知13，[[战斗反射]]，精通徒手打击。
+|benefit=当你处于豹拳[[流派]]架势时，当你在穿过威胁区域而引发[[借机攻击]]时，你能以[[迅捷动作]]用徒手反击你的对手。这次攻击在诱发对方借机攻击后才能发动。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[迅豹闪]]（1 个条目）

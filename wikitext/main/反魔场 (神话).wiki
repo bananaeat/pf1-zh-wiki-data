@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[反魔场]] 的神话版本。</small></div>
+{{Spell
+|name=反魔场
+|english_name=Antimagic Field
+|school=防护系
+|levels=奥能师 6;术士 6;法师 6;秘学士 6;异能者 7;先知 8;牧师 8
+|description=选择数量等同于你的阶层一半个法术学派。这些法术学派的法术与效果不会受到反魔场的影响。
+|source=神话冒险
+}}
+[[分类:神话法术]]

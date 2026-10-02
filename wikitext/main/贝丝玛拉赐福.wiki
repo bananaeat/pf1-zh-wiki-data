@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Skull & Shackles Player's Guide pg. 5），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=贝丝玛拉赐福
+|english_name=Besmara's Blessing
+|type=战役
+|pfs=否
+|description=你在一个吉日出生于海上的船上，或是某座港口城市的码头边。老水手和老海狗们会意地点头，说海盗女王[[贝丝玛拉]]——掌管海盗、海怪与纷争的女神——已为你标定了更伟大的命运。你对此一无所知，但你一直觉得在海上比在陆地上更自在，而你敏锐的双眼能轻易发现遥远地平线上的船帆。你的[[察觉]]和[[专业]]（水手）检定获得+1背景加值。此外，每周一次，你可以重骰一次专业（水手）检定并取较高的结果（你必须在检定结果揭晓前宣布使用此能力）。
+
+你来到亡命港一家名叫“悍女”的酒馆寻找你的命运。你不确定自己喝了多少杯，但酒劲很快上头，你还没找到你的命运就趴在桌上不省人事了——除非命运就在酒瓶底。话说回来，也许你终究还是找到了你的命运……
+|source_name=Skull & Shackles Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Besmara%27s%20Blessing
+}}

@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Hell's Vengeance Player's Guide pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=艾奥梅黛弃徒
+|english_name=Ex-Iomedaean
+|type=战役
+|pfs=否
+|description=你（或者你的家人）曾是[[艾奥梅黛]]的信徒，但发生了某些事，使你失去了信仰。也许你的家人被指控不名誉或懦弱，或者你的某位家人成了教会「正义」的牺牲品。又或许你只是遇见了某个人，那人让你睁开双眼，看清了真相——后继者所谓的荣誉、勇气和正义，不过是一套严苛教条外面的一层镀锡，其目的是通过限制人们的自由意志来控制他们。无论如何，你离开了教会，而你的家人也因此遭受了鄙夷和自命清高的指责。从那以后，你就发誓终有一天要向艾奥梅黛教会复仇——而随着切利亚斯眼下正在酝酿的局势，你也许终于有机会了。
+
+选择一项：对艾奥梅黛的追随者（包括许多但并非全部圣使和天使），你获得攻击检定和武器伤害骰+1背景加值，或者你的法术豁免DC获得+1背景加值。
+|source_name=Hell's Vengeance Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Ex-Iomedaean
+}}

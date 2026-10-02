@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Disciple's Doctrine pg. 3），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=残缺记忆
+|english_name=Imperfect Recall
+|type=信念
+|description=你对转世的信仰——正如善解哲学以及曾属于龙华帝国的土地上所传授的那样——已因亲身经历而更加坚定。在极度紧张的时刻，你有时会闪现似曾相识之感，回想起一些你不记得自己曾经知道的信息。每天一次，当你身处危险或分心时，你在一次[[知识]]技能检定上获得+3加值。
+|source_name=门徒教义
+|source=DD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Imperfect%20Recall
+}}

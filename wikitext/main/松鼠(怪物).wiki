@@ -1,0 +1,43 @@
+{{速查导航}}
+{{消歧义|松鼠}}
+{{怪物
+|name=松鼠
+|english_name=Squirrel
+|cr=1/8
+|xp=50
+|alignment=绝对中立
+|size=微型
+|type=动物
+|init=+4
+|senses=昏暗视觉；察觉 +1
+|description=看起来是有着明亮双眼的小毛球，这只林地生物有着一条等身大的毛茸茸的尾巴。
+|ac=18，接触 18，措手不及 14（+4 敏捷，+4 体型）
+|hp=3（1d8–1）
+|fort=+1
+|ref=+6
+|will=+1
+|speed=20 尺，攀爬 20 尺
+|melee=啮咬 +8（1d2–4）
+|space=1 尺
+|reach=0 尺
+|str=2
+|dex=19
+|con=9
+|int=2
+|wis=12
+|cha=9
+|bab=+0
+|cmb=+0
+|cmd=6（10 对抗摔绊）
+|feats=[[武器娴熟]]
+|skills=[[特技]] +8;[[攀爬]] +12
+|environment=温带森林
+|organization=单独，一对，或一群（3–8）
+|treasure=无
+|source=极限荒野
+|lore=
+松鼠是相当狡诈的动物。若它们知道自己正被观察的话，它们会佯装掩藏坚果，实则偷偷把坚果藏入自己的嘴中，之后将这些果实带走并掩藏到无人观察的地方。它们几乎什么都吃，偶尔甚至会捕食小蛇或鸟。
+
+通常松鼠约有 1–1/2 尺长，重 1 磅。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Squirrel|2=Squirrel}}

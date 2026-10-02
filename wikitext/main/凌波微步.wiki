@@ -1,0 +1,11 @@
+{{消歧义|凌波微步(魔战士奥能)}}
+{{Feat
+|name=凌波微步
+|english_name=Gliding Steps
+|description=体迅飞凫，飘忽若神，凌波微步，罗袜生尘。
+|prerequisites=[[闪避]]，[[灵活移动]]，[[灵狐步]]，[[武僧#气运丹田|气池]]职业能力。
+|benefit=如果你在[[武僧#气运丹田|气池]]中至少还留有1点气，你在移动的时候所离开的第一个方格不会引发[[借机攻击]]。你可以花费1点气使得整个移动都不引发借机攻击。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

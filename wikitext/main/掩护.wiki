@@ -1,0 +1,12 @@
+{{Feat
+|name=掩护
+|english_name=Covering Defense
+|categories=战斗
+|description=你擅长使用盾牌同时保护自己和盟友。
+|prerequisites=[[盾牌专攻]]，基本攻击加值+6。
+|benefit=当你在持用[[轻型盾牌]]、[[重型盾牌]]或者[[塔盾]]进行[[全防御]]动作时，能够为盟友的AC提供[[掩蔽]]加值用于对抗所有攻击，不过这名盟友必须与你相邻并且体型小于等于你的体型。这个掩蔽加值等同于你的盾牌的盾牌加值，并且持续至你的下一轮开始。你的盾牌不会为反射豁免提供掩蔽加值。
+|stamina=如果花费5点耐力，你的盾牌也会为反射豁免提供掩蔽加值。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

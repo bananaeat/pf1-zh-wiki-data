@@ -1,0 +1,14 @@
+{{Spell
+|name=因果祝福
+|english_name=Karmic blessing
+|school=预言系
+|tags=善良
+|levels=先知 1;女巫 1;战斗祭司 1;牧师 1
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的生物
+|duration=1轮/等级
+|description=目标视一种你选择的技能为[[本职技能]]。
+|source=进阶种族手册
+}}

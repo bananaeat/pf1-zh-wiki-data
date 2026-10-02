@@ -1,0 +1,8 @@
+{{狂暴之力
+|name=次等九狱之血
+|english_name=Infernal Blood, Lesser
+|type=Su
+|categories=血脉
+|benefit=狂暴时，每天3次以一个[[迅捷动作]]，野蛮人可以让自己的武器卷进地狱之火中1轮，在此状态下，野蛮人所有的近战武器都视为拥有炽焰武器附魔效果。
+|source_name=进阶职业指南
+}}

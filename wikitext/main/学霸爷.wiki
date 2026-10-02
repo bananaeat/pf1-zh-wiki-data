@@ -1,0 +1,9 @@
+{{Trait
+|name=学霸爷
+|english_name=Bruising Intellect
+|type=社会
+|description=你才智过人而语言锋锐。你总能将威吓视为[[本职技能]]，同时你可以在进行威吓检定时用智力修正取代魅力修正。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

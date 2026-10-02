@@ -1,0 +1,14 @@
+{{Spell
+|name=自法充盈
+|english_name=Recharge innate magic
+|school=变化系
+|levels=催眠师 1;先知 1;吟游诗人 1;奥能师 1;女巫 1;审判者 1;异能者 1;德鲁伊 1;战斗祭司 1;术士 1;歌者 1;法师 1;炼金术师 1;牧师 1;猎人 1;红螳螂杀手 1;调查员 1;魔战士 1
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|target=自己
+|duration=立即
+|sr=否
+|description=你将魔法能量导入自身的灵光，填充你内在的魔法能力。所有你能够使用并且通过[[种族特性]]获得的0环以及1环类法术能力全部重新获得1次使用机会。
+|source=进阶种族手册
+}}

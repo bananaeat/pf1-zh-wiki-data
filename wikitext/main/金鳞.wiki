@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 19），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=金鳞
+|english_name=Golden Scales
+|type=种族
+|pfs=否
+|prerequisites=狗头人
+|description=你那与众不同的金色鳞片会强烈地反射光线，让其他[[狗头人]]对你心存猜疑，地表种族却对你青睐有加。与其他狗头人打交道时，你的[[唬骗]]检定和[[交涉]]检定承受-1减值；但与非爬行类的类人生物打交道时，你的唬骗检定和交涉检定获得+2加值。
+|source_name=格拉利昂的狗头人
+|source=KoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Golden%20Scales
+}}

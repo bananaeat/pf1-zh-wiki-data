@@ -1,0 +1,10 @@
+{{Feat
+|name=监理专员
+|english_name=Superintendent
+|pfs=否
+|description=你拥有近乎无穷的技巧与方法，能使你管理的建筑始终保持最佳状态。
+|prerequisites=拥有至少一间房间。
+|benefit=当你拥有的房间陷入[[破损]]状态时，可用半价（金币与其他资本成本，向上取整）进行修复（参见《[[极限战役]]》第90页）。此外，你建造的建筑与组织在你离开后1个月内不受资本损耗影响（参见《[[极限战役]]》第81页）。超过该期限后，资本损耗将正常生效。 [[故事专长]]
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/zhef0bc5c087.htm
+}}

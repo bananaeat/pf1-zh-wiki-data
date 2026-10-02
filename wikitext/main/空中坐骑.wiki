@@ -1,0 +1,15 @@
+{{Spell
+|name=空中坐骑
+|english_name=Sky steed
+|school=变化系 (变形)
+|levels=圣武士 3
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=接触
+|target=你所骑乘的生物
+|duration=1分钟/等级（可解消）
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=目标生出天使之翼，并获得等同于它的基础速度的飞行速度，机动性为普通，并且还在飞行检定中获得等同于你的施法者等级的加值。
+|source=极限荒野
+}}

@@ -1,0 +1,11 @@
+{{Trait
+|name=慈母座
+|english_name=The Mother
+|type=宇宙
+|aliases=64-70 慈母座
+|prerequisites=洛瓦(Rova)17日-拉玛沙恩(Lamashan)30日(译注：9月17日-10月30日)
+|description=慈母座是篷车星系的心脏，并以温暖与抚慰对抗荒野那令人生畏的酷寒。你10尺内的盟友在对抗恐惧效果的豁免上获得+1士气加值(moral bonuses)。仅当你有意识时，该背景才会生效。
+|source_name=宇宙背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zhc3ea784a66.htm
+}}

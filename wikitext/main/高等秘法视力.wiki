@@ -1,0 +1,15 @@
+{{Spell
+|name=高等秘法视力
+|english_name=Arcane Sight, Greater
+|school=预言系
+|levels=奥能师 7;女巫 7;异能者 7;术士 7;法师 7
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|target=自己
+|duration=1分钟/等级 (可解消)
+|description=该法术的功能如同[[秘法视力]]一般，不过你自动得知你所看到的任何个体或物品上正启用的法术或魔法效果。
+
+和[[秘法视力]]不同，该法术不能被[[魔法恒定术]]恒定。
+|source=核心规则书
+}}

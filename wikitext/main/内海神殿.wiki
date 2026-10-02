@@ -1,0 +1,44 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Inner Sea Temples
+|authors=Robert Brookes、Liz Courts、Mikko Kallio、Jeffrey Swank、Larry Wilhelm
+|pages=64
+}}
+
+{{书页/简介|head=圣者之屋|1=
+内海地区几乎每座聚居地都至少有一座神殿，从偏远村落的简朴圣龛到大都会里的巍峨大教堂，不一而足。神殿既可以是冒险者，也可以是平民的商业、社群、治疗与祭献中心。
+
+《开拓者战役设定：内海神殿》帮助 GM 与玩家探索内海地区六处最具代表性的信仰圣地。每个条目都附有详细的地图与地志；神殿重要成员的简介；建筑的沿革与神职人员的组织；以及大量常驻祭司偏爱的魔法物品、异能仪式和法术。
+
+本书详述以下神殿：
+
+* 极致痛苦大教堂（Cathedral of Exquisite Agony），奈多境内一座供奉[[宗-库松]]的黑暗神殿。
+* 凯登堂（Cayden's Hall），位于艾巴萨罗姆中心、集教堂与酒馆于一体的所在，供奉醉酒英雄[[凯登·凯连]]。
+* 萨迦瓦第一殖民银行（First Colonial Bank of Sargava），位于卡拉布托（Kalabuto）城的[[阿巴达尔]]银行神殿。
+* 法莱斯玛高阶神殿（High Temple of Pharasma），奥西里昂一座声望显赫、供奉墓土女士的神殿。
+* 黎明救赎之院（House of Dawn's Redemption），塔尔多一座供奉[[塞恩蕾]]的宏伟大教堂。
+* 伊姆夫里达拉（Imvrildara），隐藏在奇奥尼森林深处、供奉[[卡莉斯翠]]的古老圣祠。
+
+《内海神殿》面向开拓者角色扮演游戏和开拓者战役设定，但也可以轻松改用于任何奇幻世界。
+}}
+
+'''内海神殿'''（''Inner Sea Temples''，全名 ''Pathfinder Campaign Setting: Inner Sea Temples''）是开拓者战役设定系列的一本资料书，由 Robert Brookes、Liz Courts、Mikko Kallio、Jeffrey Swank 和 Larry Wilhelm 撰写，于 2016 年 10 月 19 日发行。
+
+== 目录 ==
+{{书页/目录|1=
+神圣之地与亵渎之所 @ 2
+极致痛苦大教堂（Cathedral of Exquisite Agony） @ 4
+凯登堂（Cayden's Hall） @ 14
+萨迦瓦第一殖民银行（First Colonial Bank of Sargava） @ 24
+法莱斯玛高阶神殿（High Temple of Pharasma） @ 34
+黎明救赎之院（House of Dawn's Redemption） @ 44
+伊姆夫里达拉（Imvrildara） @ 54
+}}
+
+{{书页尾
+|pfw=Inner Sea Temples
+|releases=Softcover¦PZO9296¦2016-10¦978-1-60125-893-9；PDF¦PZO9296E¦¦
+}}
+
+[[分类:书目]]

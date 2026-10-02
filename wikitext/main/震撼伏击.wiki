@@ -1,0 +1,11 @@
+{{Feat
+|name=震撼伏击
+|english_name=Frightening Ambush
+|categories=战斗
+|description=当你从[[藏身处]]一跃而出，敌人被吓得手足无措。
+|prerequisites=威吓技能1级
+|benefit=以一个[[自由动作]]，你可以对一个你所攻击的[[措手不及]]状态的目标发动一次威吓检定以挫败士气。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

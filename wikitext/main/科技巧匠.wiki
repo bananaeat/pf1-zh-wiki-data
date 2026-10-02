@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=科技巧匠
+|english_name=Technic Tinkerer
+|type=地区
+|prerequisites=纽梅利亚
+|description=你设法揭开了科技联盟的一些次要秘密，并掌握了一点小小的魔法。选择一个0环法术。你每天可以施展一次该法术，作为类法术能力。其施法者等级等于你已获得的最高施法者等级；如果你没有施法者等级，则以施法者等级1级生效。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Technic%20Tinkerer
+}}

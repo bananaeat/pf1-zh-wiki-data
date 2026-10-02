@@ -1,0 +1,12 @@
+{{危害
+|name=死刃夜露
+|english_name=Deathblade
+|kind=毒药
+|type=伤口
+|save=强韧 DC 20
+|frequency=1次/轮，持续6轮
+|effect=1d3点体质伤害
+|cure=2次豁免
+|price=1,800 gp
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,9 @@
+{{装备
+|name=蹄铁套桩游戏
+|english_name=Horseshoes game
+|cat=娱乐
+|price=5 sp
+|weight=3磅
+|description=这个游戏包括2个铁桩和4个铁质马蹄铁。
+|source=极限宝具
+}}

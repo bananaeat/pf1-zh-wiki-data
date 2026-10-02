@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=致命精确
+|english_name=Deadly Accuracy
+|type=Ex
+|categories=进攻
+|prerequisites=[[野蛮人]]4级，[[无比精准]]
+|benefit=当野蛮人使用【[[无比精准]]】[[狂暴之力]]造成重击时，他可以在进行重击确认时将无比精准的效果加倍。
+|unchained=死亡精准
+|source_name=极限战斗
+}}

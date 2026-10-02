@@ -1,0 +1,38 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #134: It Came from Hollow Mountain
+|authors=Mike Shel、Jason Keeley、Patchen Mortimer、Mark Moreland
+|pages=96
+}}
+
+{{书页/简介|head=再派些英雄来|1=
+自从这片海域有人航行以来，空心山（Hollow Mountain）就一直矗立在瓦瑞西亚湾（Varisian Gulf）的地平线上，既吓退水手，又以宝藏与恐怖兼备的许诺诱惑着冒险者。在恢复了罗德里克湾镇的秩序之后，这片地区最新的英雄们必须把一件强大的物品送往南方的玛格尼玛城，可他们很快发现，命运正把他们引向这片土地上最臭名昭著的地城之一。在空心山之下那些布满陷阱、怪物出没的走廊与厅室里，等待着这些英雄的一切将考验他们；但如果他们能活下来，便会带着对抗符文领主归来所必不可少的知识走出来！
+
+本期《开拓者》冒险之路延续「符文领主的归来」冒险之路，内容包括：
+
+* 《它来自空心山》，一部面向 5 级角色的开拓者冒险，作者 Mike Shel。
+* 关于[[至高天神使]][[伊沙-瓦]]（舞者与迷失灵魂的守护者）的详情，作者 Jason Keeley。
+* 对统称为[[罪生怪]]的凶暴丑恶怪物的探索，作者 Patchen Mortimer。
+* 一份怪物图鉴，包括恶意的[[窒息之影]]、笨重的蛛形智囊三目魔蛛女王，以及半神伊沙-瓦本尊，作者 Jason Keeley、Mark Moreland 和 Mike Shel。
+}}
+
+'''冒险之路134：它来自空心山'''（''Pathfinder #134: It Came from Hollow Mountain''）是一部开拓者角色扮演游戏冒险，由 Mike Shel 撰写，配套文章出自 Jason Keeley、Patchen Mortimer 和 Mark Moreland，于 2018 年 9 月 19 日发行。这是[[冒险之路]]「[[符文领主的归来]]」系列的第二部冒险。
+
+== 目录 ==
+{{书页/目录|1=
+它来自空心山 @ 2
+NPC 图集 @ 62
+[[伊沙-瓦]]，真实火花 @ 68
+[[罪生怪]]生态 @ 74
+怪物图鉴 @ 80
+}}
+
+{{书页尾
+|pfw=It Came from Hollow Mountain
+|releases=Softcover¦PZO90134¦2018-09¦978-1-64078-070-5；PDF¦PZO90134E¦¦
+}}
+
+<small>CHM 汉化里没有这本书的译名，书名是本站定的。</small>
+
+[[分类:书目]]

@@ -1,0 +1,16 @@
+{{武器
+|name=战斧
+|english_name=Battleaxe
+|category=武器
+|prof=军用
+|wcat=单手
+|price=10 gp
+|weight=6磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×3
+|type=挥砍
+|groups=斧
+|description=这把斧子的握柄足够长，你能以单手或双手持握它。斧头可能是单刃，也可能是双刃，刃形从半月形到类似更窄的伐木斧的方形刃口不等。木制握柄可能会用称为护柄条的金属箍加以保护和加固。
+|source=核心规则书、极限宝具
+}}

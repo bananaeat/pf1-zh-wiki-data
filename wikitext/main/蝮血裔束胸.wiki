@@ -1,0 +1,15 @@
+{{魔法物品
+|name=蝮血裔束胸
+|english_name=Corset of the Vishkanya
+|aon=MagicWondrousDisplay.aspx?FinalName=Corset of the Vishkanya
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=躯体
+|price=3,000 gp
+|weight=1磅
+|description=这件黑色的束胸刚好适合穿着在护甲之下。以一个[[自由动作]]，穿戴者可以压缩自己的身体以挤过狭窄的空间，如同受到[[柔体术]]法术（《进阶种族手册》）影响一般，每天至多持续10轮。当使用束胸的魔力时，穿戴者在脱逃检定上获得+5加值。
+|req=[[制造奇物]]、[[油腻术]]、[[柔体术]]
+|cost=1,500 gp
+|source=进阶种族手册、极限宝具
+}}

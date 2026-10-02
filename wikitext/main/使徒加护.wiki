@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|位面旅者手册|Plane-Hopper's Handbook}}
+'''使徒加护'''（Angelic Protection, Sp）是[[操念使]]的[[原力]]。
+
+元素：[[以太]]、水或木；类别：通用（Sp）；等级：2；超载：0
+
+前置：[[念力医者]][[通用原力]]，[[神裔]]或位面谐律专长（极乐境，天堂，涅槃境）
+
+豁免：无；[[特殊能力#法术抗力|法术抗力]]：无
+
+当你使用念力医者时，被治疗的目标在1轮内获得[[防护邪恶]]的好处。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Angelic Protection|2=Angelic Protection}}
+
+[[分类:原力]]

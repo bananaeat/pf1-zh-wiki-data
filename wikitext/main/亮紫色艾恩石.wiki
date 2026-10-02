@@ -1,0 +1,20 @@
+{{魔法物品
+|name=亮紫色艾恩石
+|english_name=Vibrant Purple Prism Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun Stone Vibrant Purple Prism
+|cat=艾恩石
+|aura=强烈（学派不定）
+|cl=12
+|slot=无
+|price=36,000 gp
+|description='''形状'''：棱柱
+
+'''效果'''：这块石头储存三环的法术，如同[[储法戒指]]。
+
+'''共振'''（放入[[寻路仪]]时）：以一个标准动作，佩戴者可以消耗一个已储存的法术，来恢复一个已施放的同环位法术，如同[[法力再生珍珠]]。佩戴者每天可以用此能力恢复至多3个法术环位。
+
+艾恩石的通用规则（启动、环绕飞行、抓取，以及AC、硬度）见[[艾恩石]]。
+|req=[[制造奇物]]，制造者必须已经12级
+|cost=18,000 gp
+|source=核心规则书、极限宝具、冒险者指南
+}}

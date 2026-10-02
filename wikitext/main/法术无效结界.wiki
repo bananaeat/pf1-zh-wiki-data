@@ -1,0 +1,16 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[法术无效结界 (神话)]]。</small></div>
+{{Spell
+|name=法术无效结界
+|english_name=Globe of Invulnerability
+|school=防护系
+|levels=奥能师 6;异能者 6;术士 6;法师 6;秘学士 6
+|action=标准动作
+|components=语言;姿势;材料（玻璃或水晶做的珠子）
+|range=10尺
+|area=以你为中心, 半径10尺球形发散区域
+|duration=1轮/等级 (可解消)
+|save=无
+|sr=否
+|description=该法术的功能如同[[次等法术无效结界]]一般，不过它还能够排斥4环的法术或类法术效果。
+|source=核心规则书
+}}

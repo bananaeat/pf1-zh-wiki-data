@@ -1,0 +1,10 @@
+{{Trait
+|name=七拱镇探寻者
+|english_name=Sevenarches Seeker
+|type=地区
+|prerequisites=七拱镇
+|description=很早之前你就听闻了七拱镇石拱门的神奇传言，你花费了大把的时间试图解开拱门背后的秘密。你在知识(历史)和查找暗门的察觉检定中获得+1的背景加值。同时，你将知识(历史)视为你的[[本职技能]]。
+|source_name=河域子民
+|source=PotR
+|source_url=https://pf1chm.pages.dev/topics/zh576fd36972.htm
+}}

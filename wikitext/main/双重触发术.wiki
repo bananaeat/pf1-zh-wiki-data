@@ -1,0 +1,11 @@
+{{Feat
+|name=双重触发术
+|english_name=Extra Contingency
+|description=你能够管理多个[[触发术]]效果。
+|prerequisites=角色等级19级
+|benefit=你能够在同一时间激活2个触发术效果。若它们两个全部将会在同一轮内被触发，则其中1个（随机选择）暂时不会被触发，直至1轮之后才会触发。
+|normal=同一时间你只能获得单一一个已激活的触发术带来的好处。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

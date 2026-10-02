@@ -1,0 +1,10 @@
+{{Feat
+|name=快速导能
+|english_name=Quick Channel
+|description=你的神圣能量以令人[[目眩]]的速度闪耀着。
+|prerequisites=[[知识]]（宗教）5级，【引导能量】职业特性。
+|benefit=你可以花费2次每日使用次数，以[[移动动作]]使用[[引导能量]]。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

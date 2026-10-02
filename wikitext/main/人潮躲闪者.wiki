@@ -1,0 +1,9 @@
+{{Trait
+|name=人潮躲闪者
+|english_name=Crowd Dodger
+|type=战斗
+|description=年少时你常在拥挤的街道生活，练就了在人群缝隙中快速穿梭的身手。你在进行特技检定时，若为穿越其他生物占据的空间或避免因离开威胁区域而引发[[借机攻击]]，可获得+2背景加值。
+建议角色：艾巴萨罗姆(Absalom)本地人，切里亚斯人，[[狮子剑]]
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

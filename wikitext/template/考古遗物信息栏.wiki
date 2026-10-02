@@ -1,0 +1,54 @@
+<includeonly>{{infopanel/start|class=
+|style=font-size:14px;background:#211510;
+border:1px solid rgba(255,255,255,0.1);
+padding:-1px;
+color:#f7e8bd;padding:0;
+box-shadow:0px 5px 15px #000000;margin:15px 0;}}
+{{infopanel/item|sm=12|md=12|lg=12
+|style=padding:5px 10px;border-bottom:1px solid rgba(255,255,255,0.1);background-color:rgba(53,32,17,.8)
+|valuestyle=color:#FFFFFF;font-size:18px;
+|{{{名称|{{PAGENAME}}}}} <span style{{=}}"float:right;font-size:14px;">[[考古遗物|考古遗物项目]]</span>{{#if:{{{英文名称|}}}|<br class{{=}}"hidden-sm hidden-md hidden-lg" /><span style{{=}}"font-family:infobox;color:#a99877;font-size:12px;font-weight:normal;">{{{英文名称|}}}</span>|}}}}
+{{infopanel/clearfix}}
+{{infopanel/item/start|style=vertical-align:middle;border-right:1px solid rgba(255,255,255,0.1);text-align:center;overflow:hidden;padding:0;|sm=4|md=3|lg=3}}{{{图片|[[文件:TRADE ARCHAEOLOGY.png|64px|alt=图片暂缺]]<br />图片暂缺}}}{{infopanel/item/end}}
+{{infopanel/item/start|sm=8|md=9|lg=9}}
+{{infopanel/start}}
+{{infopanel/item|md=6|lg=6
+|style=padding:10px 0;border-bottom:1px solid rgba(255,255,255,0.1);
+|labelstyle=text-align:right;padding-right:0.5em;width:6em;
+|valuestyle=text-align:left;padding-left:0.5em;color:#FFFFFF;
+|label=遗物种类|{{{遗物种类|}}}{{#ifeq:{{{nocat|}}}|1||{{#if:{{{遗物种类|}}}|[[分类:{{{遗物种类|}}}]]|}}}}}}<!--
+-->{{infopanel/item|md=6|lg=6
+|style=padding:10px 0;border-bottom:1px solid rgba(255,255,255,0.1);
+|labelstyle=text-align:right;padding-right:0.5em;width:6em;
+|valuestyle=text-align:left;padding-left:0.5em;color:#FFFFFF;
+|label=遗物级别|{{{遗物级别|}}}{{#ifeq:{{{nocat|}}}|1||{{#if:{{{遗物级别|}}}|[[分类:{{{遗物级别|}}}遗物]]|}}}}}}
+{{infopanel/item|md=6|lg=6
+|style=padding:10px 0;border-bottom:1px solid rgba(255,255,255,0.1);
+|labelstyle=text-align:right;padding-right:0.5em;width:6em;
+|valuestyle=text-align:left;padding-left:0.5em;color:#FFFFFF;
+|label=所需碎片|{{{所需碎片|}}}}}<!--
+-->{{infopanel/item|sm=12|md=12|lg=12
+|style=padding:10px 0;border-bottom:1px solid rgba(255,255,255,0.1);
+|labelstyle=text-align:right;padding-right:0.5em;width:6em;
+|valuestyle=text-align:left;padding-left:0.5em;color:#FFFFFF;
+|label=分布区域|{{{分布区域|}}}}}<!--
+-->{{infopanel/item|sm=12|md=12|lg=12
+|style=padding:10px 0;border-bottom:1px solid rgba(255,255,255,0.1);
+|labelstyle=text-align:right;padding-right:0.5em;width:6em;
+|valuestyle=text-align:left;padding-left:0.5em;color:#FFFFFF;
+|label=钥石名称|{{{钥石名称|}}}{{#ifeq:{{{nocat|}}}|1||{{#if:{{{钥石名称|}}}|[[分类:使用{{{钥石名称|}}}的遗物]]|}}}}}}<!--
+-->{{infopanel/item|md=6|lg=6
+|style=padding:10px 0;border-bottom:1px solid rgba(255,255,255,0.1);
+|labelstyle=text-align:right;padding-right:0.5em;width:6em;
+|valuestyle=text-align:left;padding-left:0.5em;color:#FFFFFF;
+|label=可用钥石|{{{可用钥石|}}}}}<!--
+-->{{infopanel/item
+|style=color:gold;padding:10px; text-align:center;border-bottom:1px solid rgba(255,255,255,0.1);
+|sm=12|md=12|lg=12|
+{{{物品描述|}}}}}<!--
+-->{{infopanel/clearfix}}<!--
+-->{{infopanel/item
+|style=padding:10px;background-color:rgba(53,32,17,.8);|sm=12|md=12|lg=12|{{{遗物描述|}}}}}<!--
+-->{{infopanel/end}}
+{{infopanel/item/end}}
+{{infopanel/end}}</includeonly>

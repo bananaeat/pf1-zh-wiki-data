@@ -1,0 +1,10 @@
+{{Feat
+|name=剧毒咬击
+|english_name=Noxious Bite
+|pfs=否
+|description=你滴落强酸的吐息使得被你啃咬的生物不适。
+|prerequisites=强酸吐息武器，啃咬攻击。
+|benefit=你的啃咬攻击在其正常伤害之上造成额外1点酸蚀伤害。被你啃咬的活物必须通过强韧豁免（DC=你的吐息武器DC）否则[[反胃]]1+你的体质调整值的轮数（最少为1轮）。
+|source_name=巨龙再临
+|source_url=https://pf1chm.pages.dev/topics/zh511f083b51.htm
+}}

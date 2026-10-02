@@ -1,0 +1,9 @@
+{{Trait
+|name=放胆豪饮
+|english_name=Adventurous Imbiber
+|type=宗教
+|prerequisites=信仰[[凯登·凯连]]
+|description=你从不畏惧美酒和烈酒，这使得你的肉体能忍受更危险的东西。你在对抗毒性时豁免获得+1背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

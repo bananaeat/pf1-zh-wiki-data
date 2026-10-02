@@ -1,0 +1,14 @@
+{{魔法物品
+|name=影缘刺青
+|english_name=Penumbra Tattoo
+|aon=MagicTattooDisplay.aspx?FinalName=Penumbra Tattoo
+|cat=魔法纹身
+|aura=微弱塑能系
+|cl=3
+|slot=无
+|price=24,000 gp
+|description=这道仪式性的疤痕中注入了阴影物质，在持有者的皮肤下翻涌蠕动。每当持有者暴露在比昏暗光线更明亮的照明下时，刺青就会散发出一缕蒸汽，将持有者笼罩在一层昏暗的薄雾之中，提供[[防护之影]]的益处。
+|req=[[绘制魔法刺青]]、[[防护之影]]
+|cost=12,000 gp
+|source=阴影血脉
+}}

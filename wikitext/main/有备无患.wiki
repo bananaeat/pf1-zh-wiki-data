@@ -1,0 +1,10 @@
+{{Feat
+|name=有备无患
+|english_name=Planned Spontaneity
+|description=你可以相当灵活的准备法术。
+|prerequisites=[[知识]]（奥秘）9级， 准备式施法，可以施放4环法术。
+|benefit=每天一次，当你准备法术时，挑选至多三个低于你最高环级的不同环级，每一个你挑选的环级上指定一个法术位。在每一个指定法术位上你可以记忆两个不同的法术，你可以正常施放两个法术中的任意一个，但是占用同一法术位的两个法术都会被消耗。
+|special=法师可以选择本专长作为他的奖励专长之一。
+|source_name=初探探索者协会
+|source_url=https://pf1chm.pages.dev/topics/page_547.html
+}}

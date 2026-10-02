@@ -1,0 +1,10 @@
+{{Trait
+|name=幻象居民
+|english_name=Inhabitant of Illusion
+|type=魔法
+|prerequisites=与奇奥尼的宫廷有所关联
+|description=你在幻术上的经验让你可以更加简单地辨识它们。每当你首次遇到一个幻象，你可以承受-2罚值尝试一次意志豁免来识破它，即使你并未怀疑这是幻象。GM会秘密进行本次豁免。
+|source_name=皇庭英豪
+|source=HotHC
+|source_url=https://pf1chm.pages.dev/topics/zh4539efed66.htm
+}}

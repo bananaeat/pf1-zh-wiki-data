@@ -1,0 +1,11 @@
+{{Feat
+|name=诡诈射手
+|english_name=Trick Shooter
+|categories=战斗
+|description=你诡异的瞄准技术可以让你在不伤害目标的情况下削弱目标。
+|prerequisites=敏捷13，[[致命瞄准]]，BAB+1
+|benefit=你的远程[[战技]]检定获得+2加值。当你尝试远程战技时，可以选择不造成伤害而无需承受罚值。
+|source=RTT
+|source_name=远程战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_552.html
+}}

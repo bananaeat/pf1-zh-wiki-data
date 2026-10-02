@@ -1,0 +1,10 @@
+{{Trait
+|name=无赖
+|english_name=Rapscallion
+|type=种族
+|prerequisites=[[侏儒]]
+|aliases=通缉犯
+|description=你一生都在挑衅权威，并以与法律擦边的经历为荣。尽管劣迹斑斑，你却总能快追兵一步逃脱法网。你在脱逃检定和[[先攻]]检定上各获得+1背景加值。
+|source_name=格拉里昂的侏儒
+|source_url=https://pf1chm.pages.dev/topics/zh5166336575.htm
+}}

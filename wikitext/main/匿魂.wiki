@@ -1,0 +1,8 @@
+<noinclude>{{忍者导航}}
+'''匿魂'''（Occulted Soul, Su）是[[忍者]]的[[忍术|忍术]]。
+
+</noinclude>{{Source|武术手册|Martial Arts Handbook|inline}} 拥有此忍术的忍者可以使心灵平静以避开魔法侦测。忍者可以花费1点气，以类法术能力对自己施放[[回避侦测]]，施法者等级等于忍者等级。<noinclude>
+
+[[分类:忍术]]
+
+{{职业}}</noinclude>

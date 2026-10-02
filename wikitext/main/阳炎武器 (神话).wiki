@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[阳炎武器]] 的神话版本。</small></div>
+{{Spell
+|name=阳炎武器
+|english_name=Sun Metal
+|school=变化系
+|tags=火
+|levels=先知 1;圣武士 1;战斗祭司 1;游侠 1;牧师 1;猎人 1
+|description=武器额外造成的伤害增加至1d6点火焰伤害。任何被武器打击的生物会目眩1轮（无豁免）。重击时，目标会目盲1轮（强韧，通过则无效，DC等同于法术DC）。
+|source=神话冒险
+}}
+[[分类:神话法术]]

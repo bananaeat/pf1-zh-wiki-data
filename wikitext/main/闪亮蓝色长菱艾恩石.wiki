@@ -1,0 +1,14 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=闪亮蓝色长菱艾恩石
+|english_name=Sparkling Blue Rhomboid Ioun Stone
+|aon=MagicArtifactsDisplay.aspx?ItemName=Sparkling Blue Rhomboid Ioun Stone
+|cat=神器
+|tier=次级神器
+|aura=强烈（学派不定）
+|cl=12
+|slot=无
+|description=一颗闪亮蓝色长菱艾恩石在使用期间，使其使用者的力量获得+4增强加值。
+|destruction=这颗艾恩石可以像任何其他艾恩石一样被毁灭，只是它的AC为26，有50点生命值，硬度为10。
+|source=冒险之路126：帷幕后的往昔
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=逃生靴
+|english_name=Boots of Escape
+|aon=MagicWondrousDisplay.aspx?FinalName=Boots of Escape
+|cat=奇物
+|aura=中等咒法系
+|cl=5
+|slot=脚部
+|price=8,000 gp
+|weight=1磅
+|description=这双坚固的皮底布靴在脚踝和小腿处有皮带，确保穿着贴合。每天1次，当靴子的穿戴者被[[擒抱]]、被压制或被[[纠缠]]时，她可以将自己传送到30尺内的任意地点，如同施放任意门。穿着这双靴子的[[侏儒]]则可以改为传送到至多400尺以外。
+|req=[[制造奇物]]、[[任意门]]、制造者必须是侏儒或专攻咒法系的法师
+|cost=4,000 gp
+|source=进阶种族手册、极限宝具
+}}

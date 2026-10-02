@@ -1,0 +1,15 @@
+{{魔法物品
+|name=石肤腰带
+|english_name=Belt of Stoneskin
+|aon=MagicWondrousDisplay.aspx?FinalName=Belt of Stoneskin
+|cat=奇物
+|aura=中等防护系
+|cl=10
+|slot=腰部
+|price=60,000 gp
+|weight=10磅
+|description=每24小时内，这条腰带的穿戴者获得DR 10/[[精金]]，直到腰带吸收了100点伤害；此后，腰带在该24小时周期的剩余时间内失效。刚穿戴时，或每次脱下后再次穿戴，必须连续穿戴24小时，它的魔力才会（重新）生效。
+|req=[[制造奇物]]、[[石肤术]]，制造者必须是[[土元素裔]]或具有土系亚种的生物
+|cost=30,000 gp
+|source=进阶种族手册、极限宝具
+}}

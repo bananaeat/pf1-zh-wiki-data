@@ -1,0 +1,11 @@
+{{Feat
+|name=开山掌
+|english_name=Mountain-Splitting Strike
+|categories=战斗
+|description=你已经学会将徒手打击的威力集中在大型敌人身上最脆弱部位的技巧。
+|prerequisites=[[感知]]13，精通徒手打击。
+|benefit=当你对至少比你大一个体型的敌人冲锋攻击时，你的[[徒手打击]]造成的伤害视作体型增大一级。此外，你在这次冲锋攻击中施展的[[震慑拳]]豁免DC+2。
+|source=GHH
+|source_name=巨人猎手手册
+|source_url=https://pf1chm.pages.dev/topics/zh804f69f232.htm
+}}

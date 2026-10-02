@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Darklands pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=幽暗地域学者
+|english_name=Darklands Scholar
+|type=社会
+|description=你不满足于道听途说，花了数年时间研究那些先于你探索幽暗地域之人的日志和亲历记述。你在辨识幽暗地域生物弱点的[[知识]]检定上获得+2背景加值。
+|source_name=幽暗地域英雄
+|source=HotD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Darklands%20Scholar
+}}

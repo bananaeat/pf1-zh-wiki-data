@@ -1,0 +1,16 @@
+{{魔法物品
+|name=木生弯刀
+|english_name=Sylvan Scimitar
+|cat=特殊魔法武器
+|base=[[弯刀]]
+|enh=+3
+|aura=中等塑能系
+|cl=11
+|slot=无
+|price=47,315 gp
+|weight=4磅
+|description=在温带气候的室外使用时，这把+3[[弯刀]]会使其持用者能够使用[[顺势斩]]专长，并额外造成1d6点伤害。
+|req=[[制造魔法武器和防具]]、[[神能]]或制造者至少为7级德鲁伊
+|cost=23,815 gp
+|source=核心规则书、极限宝具
+}}

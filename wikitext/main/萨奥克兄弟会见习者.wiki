@@ -1,0 +1,15 @@
+{{Feat
+|name=萨奥克兄弟会见习者
+|english_name=Saoc Brethren Initiate
+|pfs=否
+|description=你遵循萨奥克兄弟会的古老教义，采用多学科方式记录并预测天象事件。你对天象的领悟使你更容易定位并应用其影响。
+|prerequisites=[[知识]]（神秘）1级，[[知识]]（自然）1级，[[知识]]（位面）1级。
+|benefit=你在侦测天象事件时的技能检定获得+3加值。你从天象事件中获得的所有加值提升1，所有减值减少1（最低减值为–1）。
+|source=BotA
+|source_name=古国血脉
+|source_url=https://pf1chm.pages.dev/topics/zh3e60e7b09a.htm
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[萨奥克兄弟会学者]]（1 个条目）

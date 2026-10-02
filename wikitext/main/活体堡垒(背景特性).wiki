@@ -1,0 +1,11 @@
+{{消歧义|活体堡垒}}
+{{Trait
+|name=活体堡垒
+|english_name=Living Bulwark
+|type=宗教
+|prerequisites=信仰阿奎洛斯
+|description=黄金之盾鼓舞你为所守护之人奉献一切。每天一次，当相邻的盟友成为攻击目标、且攻击骰尚未掷出时，你可以以一个[[直觉动作]]将自己置于盟友与攻击之间。该次攻击改以你为目标。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh9e38168036.htm
+}}

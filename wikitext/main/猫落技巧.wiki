@@ -1,0 +1,11 @@
+{{Feat
+|name=猫落技巧
+|english_name=Cat's Fall
+|description=你就像猫一样，能够在着陆的瞬间转移身体的重心，让你能够以双脚着地的同时避免严重的伤害。
+|prerequisites=[[敏捷]] 13，特技1级
+|benefit=当你成功通过DC为15的特技检定来减缓坠落的冲击时，你可以忽略该次坠落的最初20尺高度，并且让接下来10尺高度带来的伤害转化为[[非致命伤害]]。只要由于坠落而对你造成的伤害低于20点，你便会以双脚着地（而不是倒地）。
+|normal=成功通过DC为15的特技检定能让你忽略坠落最初的10尺高度，如果你受到任何坠落伤害的话，便会倒地着陆。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

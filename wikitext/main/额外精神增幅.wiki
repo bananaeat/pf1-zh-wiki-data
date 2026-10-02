@@ -1,0 +1,11 @@
+{{Feat
+|name=额外精神增幅
+|english_name=Extra Amplification
+|description=你精通于使用精神能量产生增幅效果。
+|prerequisites=[[精神增幅]]职业能力
+|benefit=你获得一个额外的[[精神增幅]]。但不能选取高等精神增幅。
+|special=你可以多次选取该专长。每次选择该专长，都会获得另一个精神增幅。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

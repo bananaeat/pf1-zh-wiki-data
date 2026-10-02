@@ -1,0 +1,20 @@
+{{武器
+|name=云梯
+|english_name=Ladder, escalade
+|aon=EquipmentWeaponsDisplay.aspx?ItemName=Ladder,%20escalade,%20Large
+|category=攻城兵器
+|wcat=突击型
+|price=5 gp
+|weight=—
+|crit=—
+|crew=2
+|aim=0
+|load=0
+|speed=0尺
+|groups=攻城兵器
+|description=云梯的底端带有尖刺以增加稳定性，顶端5尺包有金属箍头，硬度为10，生命值为20点。云梯的其余部分为木造结构，硬度为5，生命值基于其体型：大型云梯20点，超大型云梯30点，巨型云梯80点，超巨型云梯120点。云梯无法装甲。
+
+冲锋桥与云梯的尺寸（宽度／长度或高度）：大型为5尺／20尺；超大型为5尺／30尺；巨型为10尺／40尺；超巨型为10尺／60尺。
+|sizes=体型｜价格｜机师组；大型｜5 gp｜2；超大型｜10 gp｜4；巨型｜50 gp｜6；超巨型｜250 gp｜8
+|source=极限战斗
+}}

@@ -1,0 +1,9 @@
+{{装备
+|name=脚蹼
+|english_name=Swim fins
+|cat=工具
+|price=1 sp
+|weight=5磅
+|description=脚蹼可为你的游泳速度增加10尺，但会使你的基础陆地速度降低至5尺。穿上或脱下脚蹼需要5轮。
+|source=冒险者的军械库
+}}

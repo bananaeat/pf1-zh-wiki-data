@@ -1,0 +1,9 @@
+{{Trait
+|name=神圣密探
+|english_name=Divine Confidante
+|type=信念
+|description=当他人与你谈论有关信仰，神话，道德，宗教和外位面的话题时，你为获得对他们的直觉判断而进行的察言观色检定获得+3背景加值。察言观色是你的[[本职技能]]。
+|source_name=信念背景
+|source=SH
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

@@ -1,0 +1,22 @@
+{{速查导航|here=怪物}}
+
+{{AI翻译|本条 CHM 汉化没有译文，由 AI 照 AoN 英文原文译出，未经人工校对。}}
+{{怪物模板
+|name=恐怖生物
+|english_name=Terror Creature
+|kind=获得；简易
+|cr=+0
+|intro=恐怖生物因长期接触负能量位面而发生畸变。它们的外貌骇人，并发展出了特殊的抗性和攻击。
+|alignment=变为中立邪恶
+|senses=获得 60 尺黑暗视觉
+|aura=恐惧（如同[[恐惧术]]，20 尺，意志豁免 DC 10 + 恐怖生物种族 HD 的一半 + 该生物的魅力调整值）
+|defense=负能量吸收（Su；负能量攻击本应造成的伤害，每 3 点治疗 1 点 hp；恐怖生物对负能量效果不得豁免）；免疫恐惧效果
+}}
+
+'''快速规则'''：与重建规则相同。
+
+这个模板可以套在召唤来的生物上。
+
+{{AoN原文|1=MonsterTemplates.aspx?ItemName=Terror Creature|2=Terror Creature}}
+
+[[分类:怪物模板]]

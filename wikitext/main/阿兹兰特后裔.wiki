@@ -1,0 +1,12 @@
+{{消歧义|阿兹兰特继承者}}
+{{Trait
+|name=阿兹兰特后裔
+|english_name=Azlanti Inheritor
+|type=种族
+|pfs=否
+|prerequisites=[[半鱼人]]
+|description=你拥有杰出的阿兹兰特特质，你能以此激发盟友的信心。每当你使用协助他人动作以协助邻接的盟友时，你给予你的盟友的加值提升1点。此为背景加值。
+|source_name=格拉利昂的混种
+|source=BoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Azlanti%20Inheritor
+}}

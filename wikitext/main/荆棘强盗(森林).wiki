@@ -1,0 +1,10 @@
+{{Trait
+|name=荆棘强盗(森林)
+|english_name=Briar Bandit
+|type=地区
+|pfs=否
+|prerequisites=森林
+|description=你在荆棘和其他茂密的灌木丛中爬行与埋伏的这段时间里，教会了你如何在不干扰周围丛林的情况下移动。当你处在茂密植物的区域时，你在隐匿检定上获得+2背景加值，在偷袭的伤害骰上获得+1背景加值。
+|source_name=格拉里昂的狗头人
+|source_url=https://pf1chm.pages.dev/topics/zh93978f31f4.htm
+}}

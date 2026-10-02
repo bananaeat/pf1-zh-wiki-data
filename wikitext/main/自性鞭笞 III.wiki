@@ -1,0 +1,16 @@
+{{Spell
+|name=自性鞭笞 III
+|english_name=Ego Whip III
+|school=惑控系 (胁迫)
+|tags=情绪;影响心灵
+|levels=异能者 5
+|action=标准动作
+|components=姿势
+|range=近距
+|target=一个生物
+|duration=1轮/等级
+|save=意志，通过则部分生效
+|sr=是
+|description=该法术的功能如同[[自性鞭笞 I]]一般，不过当目标的意志豁免检定失败时，会在被选择的属性上承受-6减值，并且[[恍惚]]1d6轮。该法术可以被降阶施法。
+|source=异能冒险
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=精通强劲冲锋
+|english_name=Improved Forceful Charge
+|description=面对这只动物的冲锋时，敌人难以立足。
+|prerequisites=强劲冲锋，精通冲撞，猛力攻击，动物伙伴
+|benefit=此动物可以对至多比自己大两个体型等级的目标施展冲撞战技。如果它通过冲撞战技令目标移动了至少10尺，它可以以一个自由动作对其进行一次摔绊战技检定。这个摔绊战技会如常引发借机攻击。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/zh1a4f7690ca.htm
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=丰收之釜
+|english_name=Cauldron of Plenty
+|aon=MagicWondrousDisplay.aspx?FinalName=Cauldron of Plenty
+|cat=奇物
+|aura=强烈咒法系
+|cl=12
+|slot=无
+|price=15,000 gp
+|weight=25磅
+|description=这口魔法铁锅可以在命令下每天产出足够最多36人食用的营养而简单的食物。此外，每周一次，还可以命令它做出足够最多12人食用的[[英雄宴]]。大釜不需要火，也不需要食材，只要一声令下，食物立刻做好。
+|req=[[制造奇物]]、[[造粮术]]、[[英雄宴]]
+|cost=7,500 gp
+|source=进阶玩家指南、极限宝具
+}}

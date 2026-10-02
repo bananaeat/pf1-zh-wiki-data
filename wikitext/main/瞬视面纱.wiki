@@ -1,0 +1,16 @@
+{{魔法物品
+|name=瞬视面纱
+|english_name=Veil of Fleeting Glances
+|aon=MagicWondrousDisplay.aspx?FinalName=Veil of Fleeting Glances
+|cat=奇物
+|aura=微弱预言系
+|cl=3
+|slot=头部
+|price=9,000 gp
+|description=这条精美的蕾丝面纱除了遮住面容，还能保护穿戴者抵御凝视攻击。即使穿戴者没有移开视线，面对凝视攻击时也有50%的几率无需进行豁免检定。如果穿戴者移开视线，她会掷两次骰（一次对应面纱，一次对应移开视线），取较有利的结果。
+
+面对心灵幻觉、虚假幻觉，以及其他基于视觉、且无法影响盲眼生物的效果和攻击时，面纱使穿戴者的豁免检定获得+4环境加值。除此之外，面纱不会以任何方式妨碍穿戴者的视觉。
+|req=[[制造奇物]]、[[目盲/耳聋术]]、[[克敌机先]]
+|cost=4,500 gp
+|source=极限宝具
+}}

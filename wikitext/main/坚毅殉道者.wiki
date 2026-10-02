@@ -1,0 +1,10 @@
+{{Trait
+|name=坚毅殉道者
+|english_name=Resilient Martyr
+|type=宗教
+|prerequisites=信仰薇尔迪斯
+|description=你曾为保护无辜之人挡下某个危险的邪恶怪物或力量，因此严重失血、险死还生。如今，你的血液以近乎是被祝福的速度迅速恢复，这是蒙受薇尔迪斯恩惠的明确标志。你在休息时恢复的生命值与[[属性伤害]]是正常的两倍；卧床休息时（total bed rest）则是正常情况的三倍。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh9e38168036.htm
+}}

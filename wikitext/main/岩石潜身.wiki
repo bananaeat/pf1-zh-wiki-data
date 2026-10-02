@@ -1,0 +1,9 @@
+{{Feat
+|name=岩石潜身
+|english_name=Stone Shroud
+|prerequisites=感知13、隐匿1级、[[矮人]]、岩石敏锐种族特性。
+|benefit=当你处于碎石地形或地下时，你的隐匿检定+4加值。
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/zh72cd9d7a9f.htm
+|source=HftF
+}}

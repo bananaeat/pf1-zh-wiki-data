@@ -1,0 +1,42 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=爬藤常春藤
+|english_name=Creeper Ivy
+|cr=1/4
+|xp=100
+|alignment=绝对中立
+|size=超小型
+|type=植物
+|init=+2
+|senses=昏暗视觉；察觉 +0
+|description=这种植物生物蜷曲的卷须引领着它沿着树干和墙壁向上攀爬。
+|ac=15，接触 14，措手不及 13（+2 敏捷，+1 天生，+2 体型）
+|hp=4（1d8）
+|fort=+2
+|ref=+2
+|will=+0
+|immune=植物特性
+|speed=15 尺，攀爬 15 尺
+|melee=挥击 +0（1d2–2 外加攫抓）
+|space=2–1/2 尺
+|reach=0 尺
+|special_attacks=紧勒（1d3–2），攫抓（中型）
+|str=7
+|dex=14
+|con=10
+|int=—
+|wis=10
+|cha=5
+|bab=+0
+|cmb=+0
+|cmd=8（无法被摔绊）
+|skills=[[攀爬]] +6
+|environment=温带森林与城市
+|organization=单独，一对，或一丛（3–10）
+|treasure=无
+|source=极限荒野
+|lore=
+攀缘常春藤在茂密的森林和城市景观中生长茂盛，在那里它可以轻易地移动位置，以最大限度地获取阳光。爬藤常春藤对于一株植物而言快得惊人，有很强的领地意识，会抽打威胁到它或遮挡了它阳光的生物。它也会趁机拾荒，有时从腐肉甚至无人看守的蛋中汲取养分。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Creeper Ivy|2=Creeper Ivy}}

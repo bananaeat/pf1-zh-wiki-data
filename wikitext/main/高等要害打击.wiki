@@ -1,0 +1,12 @@
+{{Feat
+|name=高等要害打击
+|english_name=Greater Vital Strike
+|aliases=高等暴击
+|categories=战斗
+|description=你在一击中造成不可思议的巨大伤害。
+|prerequisites=[[精通要害打击]]、[[要害打击]]、基本攻击加值+16
+|benefit=你可以用一个攻击动作以你的最高BAB做出一次攻击，并造成额外的伤害。丢伤害骰四次并将结果合计，但力量、武器属性（例如〔炽焰〕附魔）及基于精准攻击（例如偷袭）的伤害和其他伤害加值则不翻倍。这些额外的武器伤害骰在重击时不翻倍，而是加入总伤害中。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

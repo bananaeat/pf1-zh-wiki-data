@@ -1,0 +1,11 @@
+{{Feat
+|name=灵活巫术
+|english_name=Flexible Hex
+|description=飘渺之精魂听你命而动。
+|prerequisites=萨满飘渺巫术职业能力
+|benefit=每天一次以一个[[迅捷动作]]，你可以改变你的飘渺[[巫术]]。改变时，新的巫术必须来自你当前所结缘的飘渺[[魂域]]。在12级时，你可以用本专长改变你的任一个或两个飘渺巫术。
+|normal=[[萨满]]必须在每日准备法术时选择自己的巫术，选定后不能更改。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

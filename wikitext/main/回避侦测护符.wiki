@@ -1,0 +1,14 @@
+{{魔法物品
+|name=回避侦测护符
+|english_name=Amulet of Proof against Detection and Location
+|aon=MagicWondrousDisplay.aspx?FinalName=Amulet of Proof against Detection and Location
+|cat=奇物
+|aura=中等防护系
+|cl=8
+|slot=颈部
+|price=35,000 gp
+|description=这枚银护符保护穿戴者免受探知和魔法定位，如同[[回避侦测]]法术一般。如果有人试图对穿戴者使用预言系法术，该预言系法术的施法者必须通过一次施法者等级检定（1d20＋施法者等级），对抗DC 19（如同穿戴者对自己施放了回避侦测）。
+|req=[[制造奇物]]、[[回避侦测]]
+|cost=17,500 gp
+|source=核心规则书、极限宝具
+}}

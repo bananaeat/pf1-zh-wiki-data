@@ -1,0 +1,10 @@
+{{Trait
+|name=避险疾走
+|english_name=Scamper
+|type=种族
+|prerequisites=[[鼠族]]
+|description=在紧急关头，你体内激增的肾上腺素会助你躲避危机。在战斗中你能行动的第一轮里，你能忽视[[困难地形]]，并且速度额外增加5尺。若你处于中载或重载则会失去该好处。
+|source_name=废土子民
+|source=PotW
+|source_url=https://pf1chm.pages.dev/topics/zha1cb183769.htm
+}}

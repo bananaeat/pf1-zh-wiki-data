@@ -1,0 +1,11 @@
+{{Feat
+|name=高等健硕之歌
+|english_name=Greater Skald's Vigor
+|description=你的战歌同样可以将[[生生不息]]的活力带给听到它的盟友。
+|prerequisites=[[健硕之歌]]，[[表演]]（歌唱）技能10级
+|benefit=在你启动表演的同一轮开始，你的盟友同样也能收到你的[[健硕之歌]]提供的[[通用怪物规则#快速治疗|快速医疗]]。盟友必须要听到你的表演才能获得此专长的好处。但是如果你停止表演，这个快速医疗效果将立刻结束，即使你的表演效果在你停止后依然能够持续。
+|notes=译注：比如专长[[余音绕梁]]的效果。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

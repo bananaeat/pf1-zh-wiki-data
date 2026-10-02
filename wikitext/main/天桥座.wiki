@@ -1,0 +1,11 @@
+{{Trait
+|name=天桥座
+|english_name=The Bridge
+|type=宇宙
+|aliases=22-28 天桥座
+|prerequisites=法拉斯特(Pharast)12日-格兹莱(Gozran)18日(译注：3月12日-4月18日)
+|description=这座横跨湍流的天桥座，把冬天的黑暗和春天的温暖划分开来。你在对抗寒冷或黑暗描述符的法术和效果上获得+1背景加值(trait bonus)。
+|source_name=宇宙背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zhc3ea784a66.htm
+}}

@@ -1,0 +1,16 @@
+{{Spell
+|name=高等拷问
+|english_name=Interrogation, greater
+|school=死灵系
+|tags=邪恶;痛苦
+|levels=审判者 4;异能者 4
+|action=1轮
+|components=语言;姿势
+|range=接触
+|target=接触到的活物
+|duration=1分钟/等级
+|save=强韧，通过则无效
+|sr=是
+|description=该法术的功能如同[[拷问]] 一般，不过你可以询问每施法者等级1个问题，如果目标不回答问题，法术会造成1d8 + 你的感知加值点伤害。
+|source=极限魔法
+}}

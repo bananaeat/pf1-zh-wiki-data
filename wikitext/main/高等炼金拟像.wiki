@@ -1,0 +1,10 @@
+<noinclude>{{炼金术师导航}}
+'''高等炼金拟像'''（Greater Alchemical Simulacrum, Su）是[[炼金术师]]的[[科研发现]]。
+
+</noinclude>{{Source|极限魔法|Ultimate Magic|inline}}
+
+炼金术师获得制造拟像的能力，效果如同[[拟象术]]，不过拟像每生命骰需花费100 gp的炼金材料，需要24小时成长，并且被杀死时会腐化成无生命的血肉，而不是化为冰雪。他必须达到14级，且必须先学会[[炼金拟像]]才能选择此发现。被制造出来的拟像是个生物，不是超自然效果。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_71.html 原文]）。全部科研发现见 [[:分类:科研发现|分类:科研发现]]。
+
+[[分类:科研发现]]</noinclude>

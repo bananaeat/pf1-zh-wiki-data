@@ -1,0 +1,10 @@
+{{Feat
+|name=荒野思维
+|english_name=Wilding Mind
+|description=你可以压制自己的意识，依靠[[原始野性]]抵抗心灵影响。
+|prerequisites=[[感知]] 13，荒野之痕。
+|benefit=如果你在一次对抗〔恐惧〕或〔影响心灵〕的意志豁免中失败，那么你能够以一个[[直觉动作]]承受1d3点智力伤害并重骰豁免检定。这种[[属性伤害]]不能以任何方式减少或避免。你必须接受第二次结果，即使结果更差。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

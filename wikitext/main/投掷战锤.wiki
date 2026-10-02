@@ -1,0 +1,12 @@
+{{Feat
+|name=投掷战锤
+|english_name=Hammer Throw
+|categories=战斗
+|description=你投掷锤子的力量如此强大，足以将你的敌人击倒。
+|prerequisites=智力13、[[寓守于攻]]、[[精通摔绊]]、[[近距射击]]、[[精准射击]]、BAB+1、矮人。
+|benefit=作为一个[[标准动作]]，你可以使用一件能造成钝击伤害的武器，对处于该武器第一个射程增量内、体型不比你大超过1级的生物进行一次远程攻击。如果你命中目标并造成伤害，你可以立即尝试对该目标进行一次[[摔绊]][[战技]]。这不会引发[[借机攻击]]，而且如果你的战技检定失败且失败10点以上，你也不会被反摔在地。
+|extra=译注：原文如此，是“立即”而非“[[直觉动作]]”。
+|source=HftF
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/zh72cd9d7a9f.htm
+}}

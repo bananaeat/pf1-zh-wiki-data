@@ -1,0 +1,9 @@
+{{装备
+|name=温度计
+|english_name=Thermometer
+|cat=工具
+|price=25 gp
+|weight=1磅
+|description=这根一尺长的管子上刻有三个标记：海水的冰点、艾巴萨罗姆温和的春日、以及融冰水的沸点。温度远低于冰点或远高于沸点，会损坏这件装置。
+|source=冒险者的军械库
+}}

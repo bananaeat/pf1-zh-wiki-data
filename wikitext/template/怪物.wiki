@@ -1,0 +1,100 @@
+<includeonly>{{#invoke:版权抬头|main}}{{#addbodyclass:pf-monster}}<div class="monster">
+<div class="monster-head">
+<div class="monster-title">
+<div class="monster-name">{{{name|{{PAGENAME}}}}}</div>{{#if:{{{english_name|}}}|<div class="monster-en">{{#invoke:AoN链接|monster|{{{english_name}}}|{{{npc|}}}|aon={{{aon|}}}}}</div>}}
+</div>
+<div class="monster-cr"><span class="cr">CR {{{cr|—}}}</span>{{#if:{{{mr|}}}|<span class="mr">MR {{{mr}}}</span>}}{{#if:{{{xp|}}}|<span class="xp">XP {{{xp}}}</span>}}</div>
+</div>{{#if:{{{description|}}}|<div class="monster-flavor">{{#invoke:特殊材料|auto|{{{description}}}}}</div>}}<!--
+-->{{#if:{{{classline|}}}|<div class="monster-class">{{{classline}}}</div>}}<!--
+--><div class="monster-id">{{#if:{{{alignment|}}}|{{{alignment}}}}}{{#if:{{{size|}}}|，{{{size}}}}}{{#if:{{{type|}}}|，{{#invoke:怪物术语|type|{{{type}}}}}}}{{#if:{{{subtypes|}}}|（{{#invoke:怪物术语|subtypes|{{{subtypes}}}}}）}}</div><!--
+--><div class="monster-lines"><!--
+-->{{#if:{{{init|}}}{{{senses|}}}|<div class="ml">{{#if:{{{init|}}}|<span class="k">先攻</span>{{{init}}}}}{{#if:{{{senses|}}}|{{#if:{{{init|}}}|；}}<span class="k">感官</span>{{#invoke:怪物术语|field|senses|{{{senses}}}}}}}</div>}}<!--
+-->{{#if:{{{aura|}}}|<div class="ml"><span class="k">灵光</span>{{#invoke:怪物术语|field|aura|{{{aura}}}}}</div>}}<!--
+--></div><!--
+--><div class="monster-sec">防御</div><div class="monster-lines"><!--
+-->{{#if:{{{ac|}}}|<div class="ml"><span class="k">AC</span>{{{ac}}}</div>}}<!--
+-->{{#if:{{{hp|}}}|<div class="ml"><span class="k">HP</span>{{#invoke:特殊材料|auto|{{#invoke:怪物术语|field|hp|{{{hp}}}}}}}</div>}}<!--
+-->{{#if:{{{fort|}}}{{{ref|}}}{{{will|}}}{{{saves|}}}|<div class="ml">{{#if:{{{saves|}}}|{{{saves}}}|<span class="k">强韧</span>{{{fort|—}}}，<span class="k">反射</span>{{{ref|—}}}，<span class="k">意志</span>{{{will|—}}}}}</div>}}<!--
+-->{{#if:{{{defensive|}}}|<div class="ml"><span class="k">防御能力</span>{{#invoke:特殊材料|auto|{{#invoke:怪物术语|field|defensive|{{{defensive}}}}}}}</div>}}<!--
+-->{{#if:{{{dr|}}}{{{immune|}}}{{{resist|}}}{{{sr|}}}|<div class="ml">{{#if:{{{dr|}}}|<span class="k">{{#invoke:怪物术语|label|DR}}</span>{{#invoke:特殊材料|dr|{{{dr}}}}}；}}{{#if:{{{immune|}}}|<span class="k">{{#invoke:怪物术语|label|免疫}}</span>{{#arraymap:{{{immune}}}|;|@@|<span class="li">{{#invoke:怪物术语|field|immune|2=@@}}</span>|，}}；}}{{#if:{{{resist|}}}|<span class="k">{{#invoke:怪物术语|label|抗力}}</span>{{#arraymap:{{{resist}}}|;|@@|<span class="li">@@</span>|，}}；}}{{#if:{{{sr|}}}|<span class="k">{{#invoke:怪物术语|label|SR}}</span>{{{sr}}}}}</div>}}<!--
+-->{{#if:{{{weaknesses|}}}|<div class="ml"><span class="k">{{#invoke:怪物术语|label|弱点}}</span>{{#invoke:特殊材料|auto|{{#invoke:怪物术语|field|weaknesses|{{{weaknesses}}}}}}}</div>}}<!--
+--></div><!--
+--><div class="monster-sec">进攻</div><div class="monster-lines"><!--
+-->{{#if:{{{speed|}}}|<div class="ml"><span class="k">速度</span>{{#invoke:怪物术语|field|speed|{{{speed}}}}}</div>}}<!--
+-->{{#if:{{{melee|}}}|<div class="ml"><span class="k">近战</span>{{#invoke:特殊材料|auto|{{#invoke:怪物术语|field|melee|{{{melee}}}}}}}</div>}}<!--
+-->{{#if:{{{ranged|}}}|<div class="ml"><span class="k">远程</span>{{#invoke:特殊材料|auto|{{#invoke:怪物术语|field|ranged|{{{ranged}}}}}}}</div>}}<!--
+-->{{#if:{{{space|}}}{{{reach|}}}|<div class="ml">{{#if:{{{space|}}}|<span class="k">占据</span>{{{space}}}}}{{#if:{{{reach|}}}|{{#if:{{{space|}}}|；}}<span class="k">触及</span>{{{reach}}}}}</div>}}<!--
+-->{{#if:{{{special_attacks|}}}|<div class="ml"><span class="k">特殊攻击</span>{{#invoke:特殊材料|auto|{{#invoke:怪物术语|field|special_attacks|{{{special_attacks}}}}}}}</div>}}<!--
+-->{{#if:{{{spell_like|}}}|<div class="ml wide"><span class="k">{{#invoke:怪物术语|label|类法术能力}}</span>{{{spell_like}}}</div>}}<!--
+-->{{#if:{{{spells|}}}|<div class="ml wide"><span class="k">法术</span>{{{spells}}}</div>}}<!--
+--></div><!--
+-->{{#if:{{{tactics|}}}|<div class="monster-sec">战术</div><div class="monster-lines">{{#invoke:特殊材料|auto|{{{tactics}}}}}</div>}}<!--
+--><div class="monster-sec">属性</div><div class="monster-lines"><!--
+-->{{#if:{{{str|}}}|<div class="ml abilities"><span class="k">力量</span>{{{str}}}<span class="k">敏捷</span>{{{dex|—}}}<span class="k">体质</span>{{{con|—}}}<span class="k">智力</span>{{{int|—}}}<span class="k">感知</span>{{{wis|—}}}<span class="k">魅力</span>{{{cha|—}}}</div>}}<!--
+-->{{#if:{{{bab|}}}{{{cmb|}}}{{{cmd|}}}|<div class="ml">{{#if:{{{bab|}}}|<span class="k">BAB</span>{{{bab}}}；}}{{#if:{{{cmb|}}}|<span class="k">CMB</span>{{{cmb}}}；}}{{#if:{{{cmd|}}}|<span class="k">CMD</span>{{{cmd}}}}}</div>}}<!--
+-->{{#if:{{{feats|}}}|<div class="ml wide"><span class="k">专长</span>{{#arraymap:{{{feats}}}|;|@@|<span class="li">@@</span>|，}}</div>}}<!--
+-->{{#if:{{{skills|}}}|<div class="ml wide"><span class="k">技能</span>{{#arraymap:{{{skills}}}|;|@@|<span class="li">@@</span>|，}}</div>}}<!--
+-->{{#if:{{{racial_mods|}}}|<div class="ml wide"><span class="k">种族调整</span>{{{racial_mods}}}</div>}}<!--
+-->{{#if:{{{languages|}}}|<div class="ml wide"><span class="k">语言</span>{{#arraymap:{{{languages}}}|;|@@|<span class="li">@@</span>|，}}</div>}}<!--
+-->{{#if:{{{sq|}}}|<div class="ml wide"><span class="k">特质</span>{{#arraymap:{{{sq}}}|;|@@|<span class="li">{{#invoke:怪物术语|field|sq|2=@@}}</span>|，}}</div>}}<!--
+-->{{#if:{{{combat_gear|}}}|<div class="ml wide"><span class="k">战斗装备</span>{{#invoke:特殊材料|auto|{{#arraymap:{{{combat_gear}}}|;|@@|<span class="li">@@</span>|，}}}}</div>}}<!--
+-->{{#if:{{{gear|}}}|<div class="ml wide"><span class="k">{{#if:{{{combat_gear|}}}|其他装备|装备}}</span>{{#invoke:特殊材料|auto|{{#arraymap:{{{gear}}}|;|@@|<span class="li">@@</span>|，}}}}</div>}}<!--
+--></div><!--
+-->{{#if:{{{environment|}}}{{{organization|}}}{{{treasure|}}}|<div class="monster-sec">生态</div><div class="monster-lines">{{#if:{{{environment|}}}|<div class="ml"><span class="k">环境</span>{{{environment}}}</div>}}{{#if:{{{organization|}}}|<div class="ml wide"><span class="k">组织</span>{{{organization}}}</div>}}{{#if:{{{treasure|}}}|<div class="ml"><span class="k">宝物</span>{{#invoke:特殊材料|auto|{{{treasure}}}}}</div>}}</div>}}<!--
+-->{{#if:{{{special_abilities|}}}|<div class="monster-sec">特殊能力</div><div class="monster-abilities">
+{{#invoke:特殊材料|auto|{{{special_abilities}}}}}
+</div>}}{{#if:{{{source|}}}|<div class="monster-source"><span class="ke">来源</span>{{{source}}}</div>}}
+</div>{{#if:{{{lore|}}}|<nowiki/>
+== {{#ifeq:{{{npc|}}}|1|描述|生态与描述}} ==
+{{#invoke:特殊材料|auto|{{{lore}}}}}}}{{#ifeq:{{{nofooter|}}}|1||<nowiki/>
+{{#ifeq:{{{npc|}}}|1|{{条目页脚|速查=NPC速查|分类=NPC|附加={{#if:{{{family|}}}|[[{{{family}}}]]}}}}|{{条目页脚|速查=怪物速查|分类=怪物|附加={{#if:{{{type|}}}|[[:分类:{{{type}}}|{{{type}}}]]}}{{#if:{{{family|}}}|{{#if:{{{type|}}}|&#32;·&#32;}}[[{{{family}}}]]}}}}}}}}{{#ifeq:{{NAMESPACE}}|{{ns:10}}||{{#ifeq:{{{npc|}}}|1|[[分类:NPC]]|[[分类:怪物]]{{#if:{{{type|}}}|[[分类:{{{type}}}]]}}{{#if:{{{cr|}}}|[[分类:CR {{{cr}}}]]}}{{#if:{{{mr|}}}|[[分类:神话怪物]]}}}}}}</includeonly><noinclude>
+==说明==
+本模板用于 pf1 的'''怪物属性块'''（stat block）。照 Paizo 原书的分节排：
+抬头 → 防御 → 进攻 → 属性 → 生态 → 特殊能力。不适用的参数留空即可，
+模板会自动隐藏对应行。
+
+'''一页可以调用多次''' —— 元素按体型六块、龙按年龄段几块，就是连着写几次
+<code><nowiki>{{怪物|…}}</nowiki></code>。第二块起可以加 <code>nofooter=1</code>
+让页脚导航只出现一次。
+
+===参数===
+
+'''抬头'''：<code>name</code>（默认取页名）、<code>english_name</code>（链到 AoN 原文：怪物链 MonsterDisplay、NPC 链 NPCDisplay，站上的倒装写法（Archon, Shield）按[[模块:AoN链接/怪物]]的对照表换成 AoN 的名字；对不上又不在表里的可以写 <code>aon=</code>，AoN 没有的写 <code>aon=无</code>）、
+<code>cr</code>、<code>mr</code>（神话位阶）、<code>xp</code>、<code>classline</code>（NPC 示例块的「种族 职业 等级」行，如 <code>卓尔精灵武者 1</code>）、<code>alignment</code>、<code>size</code>、
+<code>type</code>、<code>subtypes</code>（分号分隔）、<code>init</code>、
+<code>senses</code>、<code>aura</code>、<code>description</code>（风味描述，排在抬头下）
+
+'''防御'''：<code>ac</code>、<code>hp</code>、<code>fort</code>／<code>ref</code>／<code>will</code>
+（或者整行写进 <code>saves</code>）、<code>defensive</code>、<code>dr</code>、
+<code>immune</code>、<code>resist</code>、<code>sr</code>、<code>weaknesses</code>
+
+'''进攻'''：<code>speed</code>、<code>melee</code>、<code>ranged</code>、
+<code>space</code>、<code>reach</code>、<code>special_attacks</code>、
+<code>spell_like</code>、<code>spells</code>
+
+'''战术'''：<code>tactics</code>（NPC 块的战斗前／战斗中／士气／基础数据，排在进攻和属性之间；
+每条写成 <code><nowiki><div class="ml wide"><span class="k">战斗中</span>…</div></nowiki></code>）
+
+'''属性'''：<code>str</code>／<code>dex</code>／<code>con</code>／<code>int</code>／<code>wis</code>／<code>cha</code>、
+<code>bab</code>、<code>cmb</code>、<code>cmd</code>、<code>feats</code>、
+<code>skills</code>、<code>racial_mods</code>、<code>languages</code>、<code>sq</code>、
+<code>combat_gear</code>（战斗装备）、<code>gear</code>（其他装备；没有战斗装备时标签就叫「装备」）——
+这两格只有 NPC 示例块有，并列项用分号分隔
+
+'''生态'''：<code>environment</code>、<code>organization</code>、<code>treasure</code>
+
+'''正文'''：<code>special_abilities</code>（各条特殊能力）、<code>lore</code>
+（属性块之后的生态与描述散文）、<code>source</code>（中文书名）、
+<code>family</code>（所属族群的绪论页，如 <code>天使绪论</code>，只出现在页脚导航里；见 [[模板:怪物绪论]]）、
+<code>npc=1</code>（NPC 属性块：生态段标题改叫「描述」，页脚指向 [[NPC速查]]，只进 <code>分类:NPC</code>，
+不进怪物、类型和 CR 分类；<code>family</code> 这时挂怪物志的族群汇总页）
+
+===自动分类===
+
+每个怪物页自动进 <code>[[:分类:怪物]]</code>，并按 <code>type</code> 进
+<code>分类:异怪</code> 这样的类型分类、按 <code>cr</code> 进 <code>分类:CR 7</code>。
+<code>npc=1</code> 的只进 <code>分类:NPC</code>。模板名字空间里的页（沙盒演示页）一律不进分类。
+样式在 [[MediaWiki:Common.css]] 的「怪物属性块」一节。
+
+[[分类:模板]][[分类:规则模板]]
+</noinclude>

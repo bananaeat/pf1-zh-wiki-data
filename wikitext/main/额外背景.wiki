@@ -1,0 +1,9 @@
+{{Feat
+|name=额外背景
+|english_name=Additional Traits
+|description=你有更多的[[背景特性]]。
+|benefit=你获得两个自选的角色背景特性。这些背景特性必须从不同的列表中选择，并且无法使用之前已经选取背景特性的列表。你必须满足自行选择的背景特性中，任何额外的先决条件。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

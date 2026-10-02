@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=牙木搭扣
+|english_name=Fangwood Clasp
+|aon=MagicWondrousDisplay.aspx?FinalName=Fangwood Clasp
+|cat=奇物
+|aura=微弱幻术系
+|cl=5
+|slot=颈部
+|price=14,000 gp
+|weight=1磅
+|description=这枚森林绿色的搭扣上刻着涅玛萨斯那幅树与剑的风格化图案。如果穿戴者拥有[[游侠#穿林步|穿林步]]能力，她在森林地形中便获得游侠的[[游侠#伪装|伪装]]能力。如果穿戴者的动物伙伴同样受益于她的穿林步能力，该伙伴也会获得伪装能力。
+|req=[[制造奇物]]、[[易容术]]、[[隐形术]]
+|cost=7,000 gp
+|source=进化职业起源
+}}

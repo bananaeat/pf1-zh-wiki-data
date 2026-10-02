@@ -1,0 +1,14 @@
+{{魔法物品
+|name=逃脱背心
+|english_name=Vest of Escape
+|aon=MagicWondrousDisplay.aspx?FinalName=Vest of Escape
+|cat=奇物
+|aura=微弱咒法系、变化系
+|cl=4
+|slot=胸部
+|price=5,200 gp
+|description=这件简单的丝绸[[背心]]看起来平平无奇，实际上衬里中缝着无数秘密口袋。藏在其中的魔法开锁器使[[解除装置]]检定获得+4表现加值。这件背心还使穿戴者的[[脱逃]]检定获得+6表现加值。
+|req=[[制造奇物]]、[[敲击术]]、[[油腻术]]
+|cost=2,600 gp
+|source=核心规则书、极限宝具
+}}

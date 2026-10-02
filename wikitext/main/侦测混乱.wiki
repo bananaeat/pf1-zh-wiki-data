@@ -1,0 +1,15 @@
+{{Spell
+|name=侦测混乱
+|english_name=Detect Chaos
+|school=预言系
+|levels=先知 1;唤魂师 1;审判者 1;导师 1;战斗祭司 1;牧师 1;萨满 1
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=60尺
+|area=锥形发散区域
+|duration=专注, 至多每等级10分钟 (可解消)
+|save=无
+|sr=否
+|description=该法术的功能如同[[侦测邪恶]]一般，不过它会侦测混乱生物、混乱神祇的牧师、混乱法术以及混乱魔法物品的灵光，而且如若你是秩序阵营，则有可能被刺目的混乱灵光所伤。
+|source=核心规则书
+}}

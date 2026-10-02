@@ -1,0 +1,15 @@
+{{魔法物品
+|name=重负腰带
+|english_name=Heavyload Belt
+|aon=MagicWondrousDisplay.aspx?FinalName=Heavyload Belt
+|cat=奇物
+|aura=微弱变化系
+|cl=1
+|slot=腰部
+|price=2,000 gp
+|weight=3磅
+|description=这条宽皮带两端各有孔洞，用两股牛皮绳穿过系紧。穿戴者如同永久处于[[重负术]]（《进阶玩家指南》）的影响之下。
+|req=[[制造奇物]]、[[重负术]]
+|cost=1,000 gp
+|source=极限宝具
+}}

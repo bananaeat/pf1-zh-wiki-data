@@ -1,0 +1,15 @@
+{{物品
+|name=灵魂视野灵药
+|english_name=Wraith's Sight
+|category=魔法物品
+|aura=中等死灵系
+|cl=9级
+|price=1500gp
+|weight=-磅
+|slot=无位置
+|requirements=[[制造奇物]]，[[目盲/耳聋术]]（blindness/deafness），[[观命术]]
+|cost=750gp
+|description=这个长方形的[[玻璃瓶]]子用一个枚宝石作为瓶塞，里头装着淡淡色液体。当饮用者喝下这份灵药，他的眼睛散发出金色的能量，她获得30尺[[通用怪物规则#生命感知|生命感知]]（lifesense）。这个效果持续30分钟。在持续期间，饮用者获得[[目盲]]状态。如果这个状态被以任何方式治愈或者移除，则灵药的效果立即结束。
+|source=P&P
+|source_name=药剂与毒药
+}}

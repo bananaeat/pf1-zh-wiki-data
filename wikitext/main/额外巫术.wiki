@@ -1,0 +1,11 @@
+{{Feat
+|name=额外巫术
+|english_name=Extra Hex
+|description=你学习了一个[[新巫术]]的秘密。
+|prerequisites=巫术职业能力
+|benefit=你可以获得一个新的[[巫术]]，你必须满足选取此巫术的前提条件。如果你是一个[[萨满]]，那么这个巫术必须是你的[[魂域]]所属的巫术，而不可从飘渺魂域中获得。
+|special=你可以多次选择本专长，每次选择，你需要选择一个额外的巫术。
+|source=ACG、APG
+|source_name=进阶职业指南、进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

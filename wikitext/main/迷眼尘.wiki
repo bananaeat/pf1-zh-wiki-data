@@ -1,0 +1,14 @@
+{{魔法物品
+|name=迷眼尘
+|english_name=Escape Dust
+|aon=MagicWondrousDisplay.aspx?FinalName=Escape Dust
+|cat=奇物
+|aura=微弱咒法系
+|cl=3
+|slot=无
+|price=300 gp
+|description=一把粗糙的结晶粉末被扔向单个生物时，会在该生物周围旋舞，扰乱它的攻击和视物能力。使用这种粉末需要使用者进行一次远程接触攻击（射程增量5尺），但这样做不会引发[[借机攻击]]。命中后，目标陷入[[目眩]]状态，且在1轮内不能进行借机攻击，也不能使用[[直觉动作]]。
+|req=[[制造奇物]]、[[闪光尘]]
+|cost=150 gp
+|source=进阶种族手册
+}}

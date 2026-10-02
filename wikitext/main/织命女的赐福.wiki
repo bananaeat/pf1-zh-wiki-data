@@ -1,0 +1,10 @@
+{{Trait
+|name=织命女的赐福
+|english_name=Blessed of the Norns
+|type=地区
+|prerequisites=林诺姆诸王国
+|description=你或你父母的其中一方属于尊敬[[织命女]]的巫团——强大的精类预言家——而你仍然背负着他们的赐福，呈现出对危险的微妙感应。你在注意陷阱和[[突袭]]的察觉检定获得+2背景加值，在对抗你没发现的陷阱和突袭轮时你的AC获得+1背景加值。
+|source_name=巫团血脉
+|source=BotC
+|source_url=https://pf1chm.pages.dev/topics/zh6915d58d43.htm
+}}

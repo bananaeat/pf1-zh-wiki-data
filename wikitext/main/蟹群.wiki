@@ -1,0 +1,44 @@
+{{速查导航}}
+{{怪物
+|name=蟹群
+|english_name=Crab Swarm
+|cr=4
+|xp=1,200
+|alignment=绝对中立
+|size=微型
+|type=虫类
+|subtypes=水栖;集群
+|init=+2
+|senses=黑暗视觉 60 尺；察觉 +0
+|description=一大群螃蟹从岸边向前蠕动而来，发出钳子和壳互相碰撞咔嗒咔嗒声。它们蜘蛛一样的腿颤动着越过沙滩。
+|ac=18，接触 16，措手不及 16（+2 敏捷，+2 天生，+4 体型）
+|hp=38（7d8 +7）
+|fort=+6
+|ref=+4
+|will=+2
+|immune=影响心灵效果;集群特性;武器伤害
+|speed=30 尺，游泳 20 尺
+|melee=集群（2d6）
+|space=10 尺
+|reach=0 尺
+|special_attacks=[[通用怪物规则#扰乱心神|扰乱心神]]（DC 14）
+|str=1
+|dex=14
+|con=13
+|int=–
+|wis=10
+|cha=2
+|bab=+5
+|cmb=–
+|cmd=–
+|skills=[[游泳]] +10
+|racial_mods=以敏捷作为游泳的关键属性
+|environment=任意水生环境
+|organization=单独，成对或一波（3–8 群）
+|treasure=无
+|source=怪物图鉴
+|lore=
+螃蟹群包含一千多只正常体型的螃蟹，它们冲向受害者并用成千上万只钳子撕扯对方的肉。一些钓鱼者声称是潮汐和月相导致了螃蟹这种群聚行为。
+}}
+
+本页译自《[[怪物图鉴]]》的怪物图鉴 CHM。

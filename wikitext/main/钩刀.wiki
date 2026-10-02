@@ -1,0 +1,17 @@
+{{武器
+|name=钩刀
+|english_name=Sica
+|category=武器
+|prof=异种
+|wcat=轻型
+|price=10 gp
+|weight=2磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×2
+|type=挥砍
+|special=演武
+|groups=轻刃
+|description=这把刀是[[钩剑]]的轻量化版本。你在持用钩刀时，对装备有[[小圆盾]]、轻盾和重盾的对手的攻击检定+1。
+|source=冒险者的军械库、极限战斗、极限宝具
+}}

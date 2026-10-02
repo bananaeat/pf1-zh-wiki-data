@@ -1,0 +1,11 @@
+{{Feat
+|name=秘仪准备
+|english_name=Ritualistic Preparation
+|description=你已经学会了从[[法术书]]中获取预置仪式，否则你将无法从中受益。
+|prerequisites=[[知识]]（奥秘）1级，[[语言学]]1级，[[法术辨识]]1级，有能力施放[[阅读魔法]]。
+|benefit=你可将拥有预置仪式的法术书视为祈祷书或冥想书。
+|special=一名拥有本专长的角色即便不满足先决条件，也可以选用法术书狂热读者专长。这样做可以让她从两本法术书的预置仪式中受益，尽管在将这些书视为冥想书时，她仍然必须牺牲其法术位才能从预置仪式中获益。
+|source_name=秘术选集
+|source_url=https://pf1chm.pages.dev/topics/zh899ed20061.htm
+|source=AA
+}}

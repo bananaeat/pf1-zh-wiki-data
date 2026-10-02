@@ -1,0 +1,9 @@
+<noinclude>'''伟兽'''（Great Beast, Su）是任意满足先决条件的职业都能选取的[[:分类:巅峰能力|替代巅峰]]。
+
+</noinclude>{{Source|传奇编年史|Chronicle of Legends|inline}}
+
+20级时，角色的动物伙伴成长为同类中的典范——英雄和传奇般的存在。动物伙伴的[[力量]]、[[敏捷]]、[[体质]]与[[感知]]各增加4。任何具有动物伙伴的职业均可选取该巅峰。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1501.html 原文]）。全部替代巅峰见 [[典范编年史]]。
+
+[[分类:巅峰能力]]</noinclude>

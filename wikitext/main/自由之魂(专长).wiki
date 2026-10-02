@@ -1,0 +1,11 @@
+{{消歧义|自由之魂 (消歧义)}}
+{{Feat
+|name=自由之魂
+|english_name=Free Spirit
+|description=对自由的强大信念保护你免受精神或肉体上的束缚。
+|prerequisites=[[魅力]] 13，任意混乱阵营
+|benefit=你在对抗影响心灵效果的豁免检定中获得+2士气加值。此外，所有用于逃脱[[擒抱]]或者脱离束缚的脱逃或擒抱检定也获得+2士气加值。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

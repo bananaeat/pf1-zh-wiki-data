@@ -1,0 +1,10 @@
+{{魔法物品
+|name=防御改装
+|english_name=Armor Modification
+|aon=ConstructMods.aspx?ItemName=Armor Modification
+|cat=构装改造
+|description='''类型''' 基础；'''造价''' 见正文；'''制造需求''' 无；'''CR提升''' 无
+
+这种改装可以为构装体的天然护甲加值增加一项增强加值，或为其添加一项魔法护甲特性。魔法增强的造价等同于制造魔法防具的造价，参见[[魔法防具]]。
+|source=极限魔法
+}}

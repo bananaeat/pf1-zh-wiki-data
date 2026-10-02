@@ -1,0 +1,16 @@
+{{Spell
+|name=群体医疗术
+|english_name=Heal, Mass
+|school=咒法系 (医疗)
+|levels=先知 9;牧师 9;萨满 9
+|domains=医疗领域 9
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一个或更多生物，任意两者之间的距离不超过30尺
+|duration=立即
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=除了上文记述的内容之外，该法术的功能如同[[医疗术]]一般。每个生物可以恢复的HP至多为250点。
+|source=核心规则书
+}}

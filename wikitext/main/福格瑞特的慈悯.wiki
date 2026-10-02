@@ -1,0 +1,10 @@
+{{Trait
+|name=福格瑞特的慈悯
+|english_name=Folgrit's Mercy
+|type=宗教
+|prerequisites=信仰福格瑞特
+|description=你曾在某次危急时刻挺身保卫家人或住所，而你的头脑之清明令你自己都感到意外。每天一次，当你使用圣疗能力时，你还可以使目标恢复1d4点感知、智力或魅力伤害，由你选择恢复哪一项属性。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh9e38168036.htm
+}}

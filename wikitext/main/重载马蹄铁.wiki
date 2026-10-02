@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=重载马蹄铁
+|english_name=Horseshoes of Great Burden
+|aon=MagicWondrousDisplay.aspx?FinalName=Horseshoes of Great Burden
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=脚部
+|price=2,500 gp
+|weight=24磅（一套四个）
+|description=这些结实的铁马蹄铁像普通马蹄铁一样四个一套，但要重得多。钉在动物的蹄子上后，它们会使该动物的载重能力加倍。这四个马蹄铁必须由同一只动物穿戴，魔法才会生效。
+|req=[[制造奇物]]、[[熊之坚韧]]、[[牛之力量]]
+|cost=1,250 gp
+|source=秘密探寻者
+}}

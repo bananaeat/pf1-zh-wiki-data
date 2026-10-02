@@ -1,0 +1,11 @@
+{{Feat
+|name=好伙伴
+|english_name=Boon Companion
+|description=你与你的[[魔宠]]或[[动物伙伴]]的关系异常地亲密。
+|prerequisites=动物伙伴或者魔宠职业能力
+|benefit=在确定你的动物伙伴或者魔宠的能力时，视为你的职业等级比正常高4级，最高有效德鲁伊等级等同于你的角色等级。如果你有多只动物伙伴或魔宠，则需要选择其一获得该优势。若你失去或遣散一个拥有该优势的动物伙伴或者魔宠，那么你可以将该专长应用到替代它的生物上。
+|special=你可以多次选择该专长。此效果不会叠加。每次选择该专长，它都会应用到不同的动物伙伴或魔宠上。
+|source=AArch
+|source_name=动物档案
+|source_url=https://pf1chm.pages.dev/topics/page_437.html
+}}

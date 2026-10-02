@@ -1,0 +1,9 @@
+<includeonly>([[扩展手册#{{{1}}}|{{{1}}}]])</includeonly>
+<noinclude>
+<pre>
+*{{扩展|APG}}
+*{{扩展|UM}}
+</pre>
+{{扩展|APG}}
+{{扩展|UM}}
+</noinclude>

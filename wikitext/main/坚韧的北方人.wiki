@@ -1,0 +1,11 @@
+{{Feat
+|name=坚韧的北方人
+|english_name=Rugged Northerner
+|description=你生活在艰苦的寒冷环境中，并由此获得了一些好处。
+|prerequisites=体质13，[[生存]]1级
+|benefit=你将极度严寒环境（核心手册 442页）视为严寒环境，将严寒环境视为寒冷环境。你不会被通常的寒冷环境所影响。此外，你不会由于[[冻伤]]或体温过低而陷入[[疲乏]]状态。
+|special=本专长为独立专长——角色无需隶属于猛犸象大王也可选择本专长。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

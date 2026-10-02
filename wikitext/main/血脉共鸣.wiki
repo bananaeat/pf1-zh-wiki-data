@@ -1,0 +1,10 @@
+{{消歧义|血脉共鸣(背景特性)}}
+{{Feat
+|name=血脉共鸣
+|english_name=Blood Ties
+|description=强调血缘纽带能让你赢得与自身[[术士血脉]]相关生物的好感。
+|prerequisites=[[唬骗]]1级，血统职业特性，侏儒。
+|benefit=当你试图和一个似乎和你血统有关联的生物交涉时，可以改为使用[[唬骗]]检定。例如，拥有[[龙脉血统]]的[[侏儒]][[术士]]可以对龙族及其亲族使用本专长，但不能对其他生物使用。
+|source_name=格拉利昂的侏儒
+|source_url=https://pf1chm.pages.dev/topics/zh33d1c60e62.htm
+}}

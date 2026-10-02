@@ -1,0 +1,13 @@
+{{Feat
+|name=鹿绞击
+|english_name=Stag Submission
+|categories=战斗
+|pfs=否
+|description=你冲锋时使用一种特殊的关节技来快速制服对手。
+|prerequisites=鹿冲流，闪避，精通徒手打击，灵活移动，鹿角击
+|benefit=当你使用鹿冲流并成功通过战技检定压制敌人时，你还可以选择将敌人击倒，或对敌人造成你的徒手攻击伤害。
+|normal=在成功维持住对目标的擒抱后，你可以选择移动，伤害，或者压制目标。
+|source=HotW
+|source_name=荒野英雄
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

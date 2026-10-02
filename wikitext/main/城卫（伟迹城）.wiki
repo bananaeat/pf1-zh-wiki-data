@@ -1,0 +1,45 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=城卫（伟迹城）
+|english_name=City Guard (Magnimar)
+|cr=1/3
+|xp=135
+|classline=男性人类武者2
+|alignment=绝对中立
+|size=中型
+|type=类人生物
+|subtypes=人类
+|init=+4
+|senses=察觉+3
+|ac=15，接触10，措手不及15（+5盔甲）
+|hp=13（2d10+2）
+|fort=+3
+|ref=+0
+|will=+1
+|speed=20尺
+|melee=戟+4（1d10+1/×3），或 闷棍+3（1d6+1 非致命）
+|ranged=轻弩+2（1d8/19–20）
+|str=13
+|dex=11
+|con=10
+|int=8
+|wis=12
+|cha=11
+|bab=+2
+|cmb=+3
+|cmd=13
+|feats=[[精通先攻]];[[武器专攻]]（戟）
+|skills=[[威吓]]+5;[[察觉]]+3
+|languages=通用语
+|environment=任意（伟迹城）
+|organization=单独，成对，巡逻队（3–5），或小队（6–10）
+|treasure=NPC 装备（精制品鳞甲，戟，轻弩附20支弩矢，闷棍，牛眼提灯，镣铐，信号哨，其他宝物）
+|source=Magnimar, City of Monuments
+|npc=1
+|lore=
+这名守卫身穿泛蓝色的鳞甲、手持戟，目光敏锐地巡视着城市。
+
+对于一座这样规模的城市来说，伟迹城的法律很少，但仍雇有一支数量可观的守卫，集中驻扎在高耸的阿文索尔中。守卫们定期在街上巡逻，管理各个街区并维持全城的和平，不过富人区得到的保护明显比影区之类的地方多。伟迹城的城市守卫受过训练，能够在不使用不必要暴力的情况下拘捕罪犯、维持治安，除了最极端的情况外都使用非致命武力。
+}}
+{{AoN原文|1=NPCDisplay.aspx?ItemName=City Guard (Magnimar)|2=City Guard (Magnimar)}}

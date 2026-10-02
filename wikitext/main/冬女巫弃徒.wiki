@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Reign of Winter Player's Guide pg. 5, People of the North pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=冬女巫弃徒
+|english_name=Failed Winter Witch Apprentice
+|type=战役
+|pfs=否
+|description=小时候，你曾在冰封之地依莉森当冬女巫学徒，但你没有完成训练。也许你不认同依莉森白女巫们的政治，也许你和某位老师起了争执，又或者你只是不适合修习巫术。无论原因为何，你离开了冬女巫的行列，也离开了依莉森。不管你是否自行继续修习，你仍保留着些许关于巫术和冰封北地魔法的知识。你为辨识具有寒冷描述符的法术或魔法效果而进行的[[知识]]（奥秘）和[[法术辨识]]检定获得+1背景加值，且其中一项技能（由你选择）是你的本职技能。此外，你获得哈利特语或乌尔芬语（这不计入你的语言数量）。
+|source_name=Reign of Winter Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Failed%20Winter%20Witch%20Apprentice
+}}

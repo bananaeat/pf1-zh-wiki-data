@@ -1,0 +1,10 @@
+{{Trait
+|name=大猎物捕手
+|english_name=Big Game Hunter
+|type=地区
+|prerequisites=猛犸象大王之国
+|description=你耗费了大量时间猎杀巨型生物，已熟练掌握迅速将其制服的技巧。
+|benefit=在对大型或更大体型的动物类型生物进行武器伤害检定时，你获得+1背景加值。
+|source_name=北地居民
+|source_url=https://pf1chm.pages.dev/topics/zh63296b3929.htm
+}}

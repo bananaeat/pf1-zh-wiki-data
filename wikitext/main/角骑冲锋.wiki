@@ -1,0 +1,12 @@
+{{Feat
+|name=角骑冲锋
+|english_name=Horn Rider's Charge
+|categories=战斗
+|pfs=否
+|description=当你被绑缚的坐骑发动冲锋时，你借助它的冲势发动自己的攻击。
+|prerequisites=驭角士，基础攻击加值+1
+|benefit=当你被兽角束具固定在坐骑上时，如果你以一个准备动作，对你所驾驭的生物冲锋的目标进行近战攻击，你将获得冲锋的攻击加值，并且这次攻击造成双倍伤害（如果你使用长枪，则是三倍伤害）。本专长的效果无法与奋力冲锋专长叠加。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1411.html
+}}

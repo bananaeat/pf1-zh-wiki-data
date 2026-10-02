@@ -1,0 +1,11 @@
+{{武器
+|name=金属定装弹
+|english_name=Metal cartridge
+|category=火器
+|prof=异种
+|wcat=弹药
+|price=15 gp
+|weight=—
+|description=这些炼金定装弹的加固版是近代火器的弹药。它们可以装弹头，也可以装霰弹。
+|source=极限战斗、极限宝具
+}}

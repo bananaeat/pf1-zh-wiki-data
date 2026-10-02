@@ -1,0 +1,15 @@
+{{Spell
+|name=群体战意鼓舞
+|english_name=Invigorate, mass
+|school=幻术系 (虚假幻觉)
+|levels=催眠师 3;吟游诗人 3;歌者 3;异能者 4
+|action=标准动作
+|components=语言
+|range=接触
+|target=接触到的生物，最多每等级一名
+|duration=10分钟/等级 (可解消)
+|save=意志，通过则无效（无害）
+|sr=是
+|description=该法术如同[[战意鼓舞]] 一般运作，不过可以影响复数生物。
+|source=进阶玩家指南
+}}

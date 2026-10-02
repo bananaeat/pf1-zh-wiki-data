@@ -1,0 +1,10 @@
+{{Feat
+|name=高等伽瑟兰魔法
+|english_name=Greater Gathlain Magic
+|description=你已大幅开发了你天生的魔法能力。
+|prerequisites=魅力 15，[[进阶伽瑟兰魔法]]，角色等级9，伽瑟兰
+|benefit=你获得下述法术作为类法术能力，每项每日可以施展一次：命令植物，飞刺纠缠术。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/page_814.html
+}}

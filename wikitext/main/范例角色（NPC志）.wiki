@@ -1,0 +1,173 @@
+{{速查导航}}
+'''范例角色（NPC志）'''汇总《[[NPC志]]》「范例角色」一章的 NPC。
+
+== 导读 ==
+
+在黑暗中，有东西在动。艾米丽陡然回身，巨剑在古老的石柱上砍出火花。两个冒险者在回响穿透空荡荡的走廊时不约而同的静立着。随后传来了干巴巴的摩擦声，像是石头蹭着钢铁。它停了一停，又响了起来，越来越近。
+
+哈斯克阴沉的笑了“所以这些金子是无主的，嗬？”
+
+“别再提了”艾米丽继续将金币倒进破旧的瓦罐里“我说过了，那老头子当时就是这么说的。”
+
+“当然”哈斯克抬起了弩弓，将其瞄准突然开始移动的黑影。剑刃与盔甲的反光若隐若现。“但我猜这里有人对此有异议。”
+
+Amiri（野蛮人）
+
+Lem（吟游诗人）
+
+Kyra（牧师）
+
+lini（德鲁伊）
+
+Valeros（战士）
+
+沙简（Sajan，武僧）
+
+Seelah（圣武士）
+
+Harsk（游侠）
+
+Merisiel（盗贼）
+
+Seoni（术士）
+
+艾兹伦（Ezren，法师）
+
+== Amiri ==
+
+<div class="monster-table-wrap">
+{| class="wikitable sortable filterable"
+|-
+! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+|-
+| [[Amiri]] || 12 || 女性人类野蛮人12 || 类人生物 || 混乱中立
+|}
+</div>
+
+== Lem ==
+
+<div class="monster-table-wrap">
+{| class="wikitable sortable filterable"
+|-
+! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+|-
+| [[Lem]] || 12 || 男性半身人游吟诗人12 || 类人生物 || 混乱善良
+|}
+</div>
+
+== Kyra ==
+
+<div class="monster-table-wrap">
+{| class="wikitable sortable filterable"
+|-
+! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+|-
+| [[Kyra]] || 12 || 女性人类塞恩蕾牧师12 || 类人生物 || 中立善良
+|}
+</div>
+
+== lini ==
+
+<div class="monster-table-wrap">
+{| class="wikitable sortable filterable"
+|-
+! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+|-
+| [[lini]] || 12 || 女性侏儒德鲁伊12 || 类人生物 || 绝对中立
+|}
+</div>
+
+== Valeros ==
+
+<div class="monster-table-wrap">
+{| class="wikitable sortable filterable"
+|-
+! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+|-
+| [[Valeros]] || 12 || 男性人类战士12 || 类人生物 || 中立善良
+|}
+</div>
+
+== 沙简 ==
+
+<div class="monster-table-wrap">
+{| class="wikitable sortable filterable"
+|-
+! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+|-
+| [[沙简|沙简（1级）]] || 1 || 1级人类武僧 || 类人生物 || 守序中立
+|-
+| [[沙简|沙简（7级）]] || 7 || 7级人类武僧 || 类人生物 || 守序中立
+|-
+| [[沙简|沙简（12级）]] || 12 || 12级人类武僧 || 类人生物 || 守序中立
+|}
+</div>
+
+== Seelah ==
+
+<div class="monster-table-wrap">
+{| class="wikitable sortable filterable"
+|-
+! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+|-
+| [[Seelah]] || 12 || 女性人类 Iomedae 圣武士12 || 类人生物 || 守序善良
+|}
+</div>
+
+== Harsk ==
+
+<div class="monster-table-wrap">
+{| class="wikitable sortable filterable"
+|-
+! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+|-
+| [[Harsk]] || 12 || 男性矮人游侠12 || 类人生物 || 守序中立
+|}
+</div>
+
+== Merisiel ==
+
+<div class="monster-table-wrap">
+{| class="wikitable sortable filterable"
+|-
+! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+|-
+| [[Merisiel]] || 12 || 女性精灵 盗贼12 || 类人生物 || 混乱中立
+|}
+</div>
+
+== Seoni ==
+
+<div class="monster-table-wrap">
+{| class="wikitable sortable filterable"
+|-
+! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+|-
+| [[Seoni|Seoni（1级）]] || 1 || 女性人类术士1 || 类人生物 || 守序中立
+|-
+| [[Seoni|Seoni（7级）]] || 7 || 女性人类术士7 || 类人生物 || 守序中立
+|-
+| [[Seoni|Seoni（12级）]] || 12 || 女性人类术士12 || 类人生物 || 守序中立
+|}
+</div>
+
+== 艾兹伦 ==
+
+<div class="monster-table-wrap">
+{| class="wikitable sortable filterable"
+|-
+! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+|-
+| [[艾兹伦|艾兹伦（1级）]] || 1 || 1级人类法师 || 类人生物 || 绝对中立
+|-
+| [[艾兹伦|艾兹伦（7级）]] || 7 || 7级人类法师 || 类人生物 || 绝对中立
+|-
+| [[艾兹伦|艾兹伦（12级）]] || 12 || 12级人类法师 || 类人生物 || 绝对中立
+|}
+</div>
+
+{{条目页脚|速查=NPC速查|分类=NPC汇总}}
+
+本页译自《[[NPC志]]》的怪物图鉴 CHM。
+
+[[分类:NPC汇总]]

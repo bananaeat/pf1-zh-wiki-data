@@ -1,0 +1,10 @@
+{{Feat
+|name=洞观奥秘
+|english_name=Arcane Insight
+|description=奥术魔法的力量帮助你洞悉对手的招数
+|prerequisites=[[奥能之盾]]，奥术施法者，施法者等级10级，信仰内希斯
+|benefit=当你启动[[奥能之盾]]专长时，你还会在一轮内在AC上获得+1洞察加值。
+|source=FoP/FoB/FoC、ISG
+|source_name=纯善／平衡／堕落信念、内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}

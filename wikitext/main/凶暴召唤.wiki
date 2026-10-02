@@ -1,0 +1,12 @@
+{{Feat
+|name=凶暴召唤
+|english_name=Ferocious Summons
+|description=你召唤的生物如你一般凶猛。
+|prerequisites=[[增强召唤]]，[[法术专攻]]（咒法系），半兽人或兽人。
+|benefit=你召唤的生物获得“凶猛”通用怪物特性。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+{{FAQ|v5748eaic9qli}}

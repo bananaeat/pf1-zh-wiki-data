@@ -1,0 +1,7 @@
+{{物品
+|name=婚姻
+|english_name=The Marriage
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。一位美貌的，性别由抽牌者决定的灯神出现并要求结婚。如果同意，在一周内必须组织盛大的婚礼并此后与这外层界者双宿双飞。如果拒绝，或者破坏结婚誓言，灯神会心碎的离去回到其家乡位面，并引发其元素王庭的愤怒。有关灯神的一切细节由GM决定。
+}}

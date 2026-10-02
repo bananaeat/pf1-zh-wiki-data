@@ -1,0 +1,13 @@
+<noinclude>{{速查导航|here=规则}}
+{{消歧义|感知思维}}
+'''感知思维'''（Thoughtsense）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Su</span><span class="sk-f">位置：感官</span></div>
+</noinclude><includeonly><div class="lang"><span id="感知思维"></span><span id="感知思维(怪物能力)"></span><div class="lang-h"><b>[[感知思维(怪物能力)|感知思维]]</b><i>Thoughtsense</i><span class="lang-w">Su · 感官</span></div><div class="lang-d"></includeonly>
+具有此能力的生物会自动侦测并定位指定范围内（通常为 60 尺）有意识的生物。该能力的功能类似于[[盲视(怪物能力)|盲视]]。[[回避侦测]]、[[心灵屏障]]以及类似的效果能够屏蔽感知思维。感知思维能够分辨有思维（智力为 3 或更高）与无思维（智力为 1–2）的生物，但除此之外不提供关于被侦测生物的任何其他信息。
+
+'''格式'''：感知思维 60 尺
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Thoughtsense|2=Thoughtsense}}
+
+[[分类:通用怪物规则]]</noinclude>

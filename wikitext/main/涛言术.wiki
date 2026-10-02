@@ -1,0 +1,14 @@
+{{Spell
+|name=涛言术
+|english_name=Speak With Waves
+|school=预言系
+|tags=水
+|levels=德鲁伊 6;猎人 6;萨满 7
+|action=10分钟
+|components=语言;姿势;圣徽
+|range=个人
+|target=自己
+|duration=1分钟/等级
+|description=这个法术的功能如同[[石言术]]，但只允许与至少和你一样大的一片静水或流动的淡水交谈。流水通常能谈论上游发生的事件，但无法谈论下游发生的事件。
+|source=元素大师手册
+}}

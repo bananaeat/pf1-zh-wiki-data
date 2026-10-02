@@ -1,0 +1,9 @@
+{{Trait
+|name=致命猛冲
+|english_name=Deadly Rush
+|type=种族
+|prerequisites=[[魔裔]]（深渊族裔）
+|description=当你放纵自己的情感，鲁莽地冲向敌人时，你通常能够对敌人造成有效的攻击。当你在冲锋时，你的重击确认检定获得+2背景加值。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_832.html
+}}

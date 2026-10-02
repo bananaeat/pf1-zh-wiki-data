@@ -1,0 +1,9 @@
+{{装备
+|name=墨水
+|english_name=Ink
+|cat=冒险装备
+|price=8 gp
+|weight=—
+|description=这个小瓶含有1盎司的墨水。彩色墨水的价格是黑色墨水的两倍。
+|source=核心规则书、极限宝具
+}}

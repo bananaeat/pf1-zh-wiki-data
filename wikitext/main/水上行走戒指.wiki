@@ -1,0 +1,14 @@
+{{魔法物品
+|name=水上行走戒指
+|english_name=Ring of Water Walking
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Water Walking
+|cat=戒指
+|aura=中等变化系
+|cl=9
+|slot=戒指
+|price=15,000 gp
+|description=这种[[魔法物品#戒指|戒指]]通常以珊瑚或浅蓝色金属制成，饰有翻涌水波的图案。穿戴者可以持续享受[[水面行走]]法术的效果。
+|req=[[锻造戒指]]、[[水面行走]]
+|cost=7,500 gp
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 6），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=雇佣忠诚
+|english_name=Purchased Loyalty
+|type=地区
+|prerequisites=杜鲁玛
+|description=作为杜鲁玛佣兵集会的一员，你对持有你契约的人忠心耿耿——至少在契约到期之前如此。每天一次，当你在保护一位买下你服务的人时，你可以为对抗魅惑效果的意志豁免掷骰两次，并取较好的结果。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Purchased%20Loyalty
+}}

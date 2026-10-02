@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Plane-Hopper's Handbook pg. 3），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=阵营适应
+|english_name=Acclimatize Alignment
+|type=信念
+|description=如同登山者攀登高山一般，你会逐渐适应与你对立的位面阵营。你每连续在一个与你阵营对立的轻微阵营位面上停留一天，你在基于魅力的检定上所受的减值就降低1，最低降至0。这不影响强烈阵营位面带来的减值。
+|source_name=位面旅者手册
+|source=PH'sH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Acclimatize%20Alignment
+}}

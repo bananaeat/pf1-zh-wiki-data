@@ -1,0 +1,1 @@
+<includeonly>{{#invoke:书架|toc}}</includeonly><noinclude>书页目录：一行一节「名称 @ 页码」，子节行首加「-」。</noinclude>

@@ -1,0 +1,10 @@
+{{Trait
+|name=盾卫训练
+|english_name=Shield-Trained
+|type=宗教
+|prerequisites=信仰[[古拉姆]]
+|description=你受过以盾牌作为武器的训练。重盾和轻盾对你来说视为简易武器而不是军用武器。重盾对你来说被视为轻武器。【摘自注孤生的翻译】
+|source_name=内海诸神
+|source=摘自注孤生的翻译
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

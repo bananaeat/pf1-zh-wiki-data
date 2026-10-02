@@ -1,0 +1,12 @@
+{{Feat
+|name=广域法术
+|english_name=Vast Spell
+|categories=超魔
+|pfs=否
+|description=你的法术覆盖更大的区域中的目标。
+|prerequisites=施法者等级3级
+|benefit=你能调整一个目标为任意两者间距离不超过30尺的多个生物的法术（如[[加速术]]）。该法术目标间两两最大距离提高到60尺。广域法术占用比原法术环级高1级的法术位。
+|source=MagicTT
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_566.html
+}}

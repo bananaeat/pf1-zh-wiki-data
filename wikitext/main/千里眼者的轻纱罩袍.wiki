@@ -1,0 +1,25 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=千里眼者的轻纱罩袍
+|english_name=Gossamer Shrouds of the Clairvoyant
+|aon=MagicIntelligentDisplay.aspx?ItemName=Gossamer Shrouds of the Clairvoyant
+|cat=智能物品
+|base=[[链甲衫]]
+|enh=+1 无相
+|aura=中等咒法系、幻术系
+|cl=9
+|slot=护甲
+|price=20,150 gp
+|weight=25磅
+|intel='''阵营''' 混乱中立；'''自我值''' 7
+
+'''感官''' 120尺
+
+'''智力''' 14，'''感知''' 10，'''魅力''' 14
+
+'''交流''' 说话（风族语、天界语、通用语）
+|description=这套天蓝色的[[雾纺软甲]]拥有[[无相]]特殊能力，并且每天1次可以营造出一场璀璨闪烁的光之奇观，效果如同[[虹彩图纹]]法术。这套护甲爱发表戏剧化的长篇独白，大谈它的“预言幻象”和“穿透神秘帷幕的视野”；然而它并没有真正的预言能力。
+|req=[[制造魔法武器和防具]]、[[易容术]]、[[隐雾术]]、[[虹彩图纹]]
+|cost=10,075 gp
+|source=魔法市集指南
+}}

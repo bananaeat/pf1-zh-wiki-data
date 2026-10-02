@@ -1,0 +1,11 @@
+{{Feat
+|name=掌握超魔咒字
+|english_name=Meta Word Mastery
+|pfs=否
+|description=你擅长使用超魔咒字增强你的咒字施法能力。
+|prerequisites=能够施放咒字法术
+|benefit=每天你能使用超魔咒字额外3次。此外，选择一个额外的超魔咒字加到你的法术书、魔宠或已知咒字列表中。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_607.html
+}}

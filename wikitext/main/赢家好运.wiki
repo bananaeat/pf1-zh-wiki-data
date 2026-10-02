@@ -1,0 +1,9 @@
+{{Trait
+|name=赢家好运
+|english_name=Winner's Luck
+|type=地区
+|prerequisites=瓦瑞西亚-谜港城
+|description=在谜港城的赌场赢牌与输牌一样具有毁灭性。多年躲避赌桌旁玩家的嫉妒攻击，使你练就了一种预感自己运气即将耗尽的第六感。每当你在反射豁免检定中取得成功时，你可以作为[[直觉动作]]拔出武器，或作为[[移动动作]]拔出隐藏的武器。
+|source_name=瓦瑞西亚，传说诞生之地
+|source_url=https://pf1chm.pages.dev/topics/zh1d5e5ac9bb.htm
+}}

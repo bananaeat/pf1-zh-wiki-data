@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[刺石术]] 的神话版本。</small></div>
+{{Spell
+|name=刺石术
+|english_name=Spike Stones
+|school=变化系
+|tags=土
+|levels=德鲁伊 4;猎人 4;萨满 4
+|description=造成的伤害增加至2d6点穿刺伤害外加1点出血伤害。将你的阶层加到侦测魔法陷阱的DC上。
+|source=神话冒险
+}}
+[[分类:神话法术]]

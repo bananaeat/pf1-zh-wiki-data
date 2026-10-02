@@ -1,0 +1,10 @@
+{{Trait
+|name=长獠牙
+|english_name=Tusked
+|type=种族
+|prerequisites=[[半兽人]]，[[兽人]]
+|description=你的嘴巴露出了巨大而尖锐的獠牙，并且你获得了一个啃咬攻击(中体型1d4伤害)。若作为全回合攻击动作的一部分使用，啃咬攻击以你的完整基本攻击加值-5进行。
+|source_name=格拉里昂的兽人
+|source=格拉利昂的兽人( Orcs of Golarion
+|source_url=https://pf1chm.pages.dev/topics/zh1db9f32aa4.htm
+}}

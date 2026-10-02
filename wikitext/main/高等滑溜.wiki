@@ -1,0 +1,13 @@
+{{魔法物品
+|name=高等滑溜
+|english_name=Slick, Greater
+|cat=防具附魔
+|apply=护甲
+|bonus=+33,750 gp
+|aura=强烈咒法系
+|cl=15
+|description=与滑溜相同，但提供的是+15的表现加值。
+|req=[[制造魔法武器和防具]]、[[油腻术]]
+|cost=+16,875 gp
+|source=核心规则书、极限宝具
+}}

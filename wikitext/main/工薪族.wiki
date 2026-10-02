@@ -1,0 +1,9 @@
+{{Trait
+|name=工薪族
+|english_name=Life of Toil
+|type=社会
+|description=你的生活承受税负重压，每天须长时为某个领主或商会工作。艰辛的劳动磨练了你的肉体和心智。你的强韧豁免获得+1背景加值。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

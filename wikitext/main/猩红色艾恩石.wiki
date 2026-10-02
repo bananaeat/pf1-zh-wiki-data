@@ -1,0 +1,21 @@
+{{物品
+|name=猩红色艾恩石
+|english_name=Crimson Sphere Ioun Stone
+|category=艾恩石
+|aura=中等变化系
+|cl=12
+|price=24000gp
+|weight=—
+|slot=无位置
+|requirements=[[制造奇物]]、[[狐之狡黠]]、制造者必须已经12级
+|cost=12000gp
+|description='''形状'''：圆球
+
+'''效果'''：可以让使用者的智力获得+2增强加值，多个此宝石的效果可以叠加最高至+6。
+
+'''共振'''（放入[[寻路仪]]时）：使用者的单项知识技能获得+1环境加值（由制造者选择）。
+
+艾恩石的通用规则（启动、环绕飞行、抓取，以及AC、硬度）见[[艾恩石]]。
+|source=SoS
+|source_name=秘密探寻者
+}}

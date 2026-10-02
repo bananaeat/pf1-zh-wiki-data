@@ -1,0 +1,13 @@
+{{消歧义|精通狙击(武器附魔)}}
+{{Feat
+|name=精通狙击
+|english_name=Improved Called Shot
+|pfs=否
+|description=你熟知如何让攻击落在你瞄准的地方。
+|prerequisites=智力13，寓守于攻
+|benefit=你进行狙击时，攻击检定获得+2加值。当你进行多次攻击的整轮动作或标准动作时，你可以将一次攻击置换为狙击。你每轮只能尝试一次狙击。
+|normal=你每轮只能以整轮动作做一次狙击。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_488.html
+}}

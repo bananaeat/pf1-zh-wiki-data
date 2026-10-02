@@ -1,0 +1,10 @@
+{{Feat
+|name=奇特伙伴
+|english_name=Curious Companion
+|description=不论是天上的飞鸟亦或者林中的野兽，英雄们总倾向于获得不同寻常的伙伴。然而即使以这个标准，你的伙伴也极为离奇。
+|prerequisites=【动物伙伴】职业能力
+|benefit=你可以选择一个[[植物伙伴]]或[[昆虫伙伴]]来作为你的[[动物伙伴]]。
+|source=WO
+|source_name=荒野源始
+|source_url=https://pf1chm.pages.dev/topics/zhf9b9c00800.htm
+}}

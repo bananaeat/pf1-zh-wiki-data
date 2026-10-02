@@ -1,0 +1,11 @@
+{{Feat
+|name=额外狂暴
+|english_name=Extra Rage
+|description=你可以更久地狂暴。
+|prerequisites=【狂暴】职业特性。
+|benefit=你可以每日多狂暴6轮。
+|special=你可以多次选择本专长，其效果累计。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

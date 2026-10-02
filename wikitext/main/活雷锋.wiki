@@ -1,0 +1,10 @@
+{{Trait
+|name=活雷锋
+|english_name=Helpful (Halfling)
+|type=种族
+|prerequisites=[[半身人]]
+|description=只要达到目的，你不介意让别人拿到功劳。你成功施行协助他人行动时，给予同伴+4而非+2的加值。
+|source_name=种族背景
+|source=HoG
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

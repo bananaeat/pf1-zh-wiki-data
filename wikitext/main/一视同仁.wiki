@@ -1,0 +1,10 @@
+{{Trait
+|name=一视同仁
+|english_name=Equality for All
+|type=地区
+|prerequisites=[[半身人]]，安多安
+|description=即使面对比你体型大得多的人，你仍然展现出安多安的自由精神。在对体型至少大你两级的对手的[[CMB]]和[[CMD]]获得+2背景加值。你必须是[[半身人]]才能选择此背景
+|source_name=地区背景
+|source=HoG
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

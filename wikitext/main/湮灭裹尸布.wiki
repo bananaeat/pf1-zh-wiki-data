@@ -1,0 +1,15 @@
+{{魔法物品
+|name=湮灭裹尸布
+|english_name=Shroud of Disintegration
+|aon=MagicWondrousDisplay.aspx?FinalName=Shroud of Disintegration
+|cat=奇物
+|aura=中等变化系
+|cl=11
+|slot=无
+|price=3,300 gp
+|weight=10磅
+|description=这块葬礼用的裹尸布由精美的刺绣布料制成。将遗体放入其中后，说出命令字就会使遗体化为灰烬。裹尸布的魔力只能使用一次，此后它就变回普通的精美布料。
+|req=[[制造奇物]]、[[解离术]]
+|cost=1,650 gp
+|source=极限宝具
+}}

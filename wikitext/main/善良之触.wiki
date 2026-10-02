@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=善良之触|en=Touch of Good|type=Sp|domain=善良领域|source=核心规则书|text=你能用一个[[标准动作]]来接触一个生物，使之在一轮中的攻击、技能、属性、豁免检定获得等于你牧师等级一半的神圣加值（最小1）。你每天可以使用此能力的次数为“3+[[感知]]调整值”。}}<noinclude>
+
+[[分类:领域]]</noinclude>

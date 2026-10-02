@@ -1,0 +1,12 @@
+<noinclude>{{奥能师导航}}
+'''抵抗原能魔法'''（Resist Primal Magic, Su）是[[奥能师]]的[[奥能技艺|奥能技艺]]。
+
+</noinclude>{{Source|格拉利昂的英雄|Heroes of Golarion|inline}}
+
+当奥能师在原能魔法影响下的区域尝试施法时，奥能师可以以施法动作的一部分从奥能源泉中消耗1点，在避免触发原能魔法事件的[[法术辨识]]检定上获得相当于奥能师等级一半的加值。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_96.html 原文]），按 AoN 核对过。全部奥能技艺见 [[奥能技艺]]。
+
+[[分类:奥能技艺]]
+
+{{职业}}</noinclude>

@@ -1,0 +1,9 @@
+{{装备
+|name=霜巨人猎手工具包
+|english_name=Frost giant hunter's kit
+|cat=套装
+|price=305 gp
+|weight=35磅
+|description=这个工具包包括了5袋[[铁蒺藜]]、1根[[萨里沙长矛]]和2袋[[炽火绊足包]]。
+|source=巨人猎手手册
+}}

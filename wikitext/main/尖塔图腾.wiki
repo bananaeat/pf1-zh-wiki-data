@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=尖塔图腾
+|english_name=Spire Totem
+|type=Su
+|categories=图腾
+|prerequisites=[[野蛮人]]6级，[[次等尖塔图腾]]
+|benefit=狂暴时，野蛮人用武器造成[[非致命伤害]]时不受到减值。在造成非致命伤害时，野蛮人在伤害检定上获得等同于野蛮人等级一半的加值。
+|source_name=荒野源始
+}}

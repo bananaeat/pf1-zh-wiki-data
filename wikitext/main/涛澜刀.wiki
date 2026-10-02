@@ -1,0 +1,17 @@
+{{武器
+|name=涛澜刀
+|english_name=Waveblade
+|category=武器
+|prof=异种
+|wcat=轻型
+|price=5 gp
+|weight=2磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=18–20/×2
+|type=穿刺或挥砍
+|special=武僧，见正文
+|groups=贴身
+|description=这种武器因其尾刺般的独特形状也以“蝎尾”闻名，其短小、双弧形的刀身没有刀柄，取而代之的是一个护指。当有人意图卸除你的涛澜刀时，你的CMD获得+2加值。
+|source=冒险者的军械库2
+}}

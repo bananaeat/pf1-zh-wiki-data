@@ -1,0 +1,10 @@
+{{Trait
+|name=守护制裁
+|english_name=Guardian Smite
+|type=宗教
+|prerequisites=信仰杜鲁德
+|description=杜鲁德的圣武士教导你挡在你所珍视之人面前，成为对抗来犯之敌的神圣屏障。每天一次，当你以制裁邪恶命中敌人时，你可以令敌人受到的总伤害减半，令目标的速度降至5尺，持续1轮。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh9e38168036.htm
+}}

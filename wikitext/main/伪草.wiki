@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{危害
+|name=伪草
+|english_name=Shamweed
+|kind=毒药
+|type=接触
+|save=强韧 DC 18
+|onset=即时与1周后，见效果
+|frequency=视效果而定
+|initial=每天+1体质，持续1周
+|secondary=初始效果获得的全部体质消失，随后7天每天受到1d6点体质伤害
+|cure=连续2次豁免
+|price=6,500 gp
+|source=河域诸国指南
+}}

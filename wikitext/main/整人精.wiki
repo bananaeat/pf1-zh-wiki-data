@@ -1,0 +1,9 @@
+{{Trait
+|name=整人精
+|english_name=Prankster
+|type=种族
+|prerequisites=[[侏儒]]
+|description=你总有整人的好点子。你在进行[[阴招]][[战技]]的战技检定上获得+1背景加值，对手对你发动阴招战技时，你的[[CMD]]也获得+1背景加值。除此之外，如果你对一个[[措手不及]]状态的敌人发动阴招战技且成功命中，目标将承受阴招造成的不良状态额外1轮时间。
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_451.html
+}}

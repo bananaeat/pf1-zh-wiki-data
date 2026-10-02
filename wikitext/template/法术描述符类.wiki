@@ -1,0 +1,6 @@
+<includeonly>{{#switch:{{{1|}}}|火=elem|寒冷=elem|电=elem|酸=elem|水=elem|气=elem|土=elem|音波=elem|力场=elem|光亮=elem|黑暗=elem|阴影=elem|善良=algn|邪恶=algn|秩序=algn|混乱=algn|影响心灵=mind|情绪=mind|恐惧=mind|依赖语言=mind|#default=misc}}</includeonly><noinclude>
+==说明==
+法术描述符 -> CSS 类名后缀。分四族：<code>elem</code> 元素、<code>algn</code> 阵营、<code>mind</code> 心灵、<code>misc</code> 其余。
+站上归一后描述符是 57 个中文取值，一个值一个色会花，按族给色就够。名单外的一律归 <code>misc</code>。
+[[分类:模板]]
+</noinclude>

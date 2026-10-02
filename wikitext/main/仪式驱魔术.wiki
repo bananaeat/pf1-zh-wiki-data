@@ -1,0 +1,18 @@
+{{仪式
+|name=仪式驱魔术
+|english_name=RITUAL EXORCISM
+|school=防护系
+|level=4
+|action=40分钟
+|components=V，S，M（一瓶圣水）F（银制圣徽）SC（最多12人）
+|skills=知识（宗教）DC28,2次成功；法术辨识DC28,2次成功
+|range=近距（25尺+主要施法者每职业等级5尺）
+|target=一个无助的被附身possessed的生物，或是一个被束缚restrain的被附身的物品
+|duration=立即
+|save=意志无效；
+|sr=可
+|backlash=所有施法者力竭
+|failure=所有施法者获得一个临时负向等级（第一天之后移除DC=16+主要施法者的魅力调整值），并且主要施法者再受到4d6点伤害
+|description=你强迫一个正在[[附身]]的生物possessing creature的生命力量离开它的宿主host。当该仪式完成时，该正在附身的生物要进行一次意志豁免。如果豁免失败，附身者possessor会被驱逐，如同它用于附身目标的法术或效果的持续时间结束一般。如果正在附身的生物再豁免中成功，它会继续留在宿主生物或物品之中，不过只要被附身的生物维持[[无助]]状态或物品仍然被束缚，该仪式就仍能重复进行尝试。
+|source=异能冒险
+}}

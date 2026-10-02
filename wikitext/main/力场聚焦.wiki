@@ -1,0 +1,10 @@
+<noinclude>{{异能者导航}}
+'''力场聚焦'''（Focused Force, Su）是[[异能者]]的[[精神增幅|精神增幅]]。
+
+</noinclude>在施放力场法术时，异能者能够通过从精神力池花费1点精神力强化法术的伤害。法术的伤害骰增大1级（1d4变为1d6，1d6变为1d8，1d8变为1d10，或者1d10变为1d12）。这会增加每个将要投掷的骰子大小，因此对于原本造成4d6+3点力场伤害的法术来说，将会造成4d8+3点力场伤害作为替代。此项精神增幅仅能联结到造成力场伤害的法术上，而且该伤害必须包含伤害投骰。已经使用d12骰子作为伤害骰的法术不受此项精神增幅的影响。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_310.html 精神增幅]、[https://pf1chm.pages.dev/topics/zhb4162fc9dd.htm 乌笃剌精神增幅]、[https://pf1chm.pages.dev/topics/page_855.html PSI技术]），按 AoN 核对过。全部精神增幅见 [[精神增幅]]。
+
+[[分类:精神增幅]]
+
+{{职业}}</noinclude>

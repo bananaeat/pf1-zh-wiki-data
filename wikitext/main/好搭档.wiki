@@ -1,0 +1,9 @@
+{{Trait
+|name=好搭档
+|english_name=Dirty Fighter
+|type=战斗
+|description=若是没有那个可靠的兄弟、朋友或是伙伴帮你牵制敌人、让你将对方揍得更痛，你根本不可能长大成人活到今天。这名伙伴可以是另一位玩家或一个NPC。当你们[[夹击]]时，你对攻击命中的敌人造成1点额外伤害(该伤害计入你的基础伤害并可以在重击时加倍)。该额外伤害是一项背景加值。
+|source_name=战斗背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

@@ -1,0 +1,10 @@
+<noinclude>{{战士导航}}
+'''重击偏转'''（Critical Deflection）是[[战士]]的[[进阶盔甲训练|进阶盔甲训练]]。
+
+</noinclude>当穿甲或者使用盾牌时，战士在他对抗重击确认的AC上获得+2加值。这个加值在7级和之后的每4级+1，在19级达到最大值+6。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_1095.html 原文]）。全部进阶盔甲训练见 [[进阶盔甲训练]]。
+
+[[分类:进阶盔甲训练]]
+
+{{职业}}</noinclude>

@@ -1,0 +1,12 @@
+{{Feat
+|name=一击扑杀
+|english_name=Bashing Finish
+|categories=战斗
+|description=你能够在用武器进行强有力的攻击后顺势使用盾牌进行打击。
+|prerequisites=[[精通盾击]]，[[盾牌大师]]，[[双武器格斗]]，基本攻击加值+11。
+|benefit=每当你成功使用近战武器进行重击时，就能够以[[自由动作]]对相同的目标，使用相同的加值对其进行盾击攻击。
+|stamina=如果你的近战武器攻击未能确认重击，你可以通过花费5点耐力对目标立刻发动一次盾击。如果对方免疫重击那你无法发动该盾击。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

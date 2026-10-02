@@ -1,0 +1,14 @@
+{{Feat
+|name=次元突击
+|english_name=Dimensional Assault
+|description=你受过训练，这让你能将魔法移动作为你武术的一部分。
+|prerequisites=武僧【遁术】职业特性或可施展‘任意门’，[[次元灵巧]]
+|benefit=以一个[[整轮动作]]，你可以使用【遁术】或[[任意门]]做一次特殊的冲锋。这么做可以允许你传送你的双倍当前移动速度（最大为传送最大距离），并允许你随后像正常冲锋一样进行攻击。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[次元乱舞]]、[[次元战技]]、[[次元狂舞]]（3 个条目）

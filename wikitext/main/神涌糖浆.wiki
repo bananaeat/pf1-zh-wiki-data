@@ -1,0 +1,13 @@
+{{装备
+|name=神涌糖浆
+|english_name=Surge syrup
+|cat=炼金药剂
+|price=80 gp
+|weight=1磅
+|craft_dc=25
+|description=神话：喝下一小瓶神涌糖浆，可以为你的下一次神力涌动骰提供+1d4炼金加值。喝下神涌糖浆后，每过一轮你没有使用神力涌动，此物品提供的加值就减少1（最小为0）。
+|recipe=（12 月露酒＋40 酒精＋40 尿素）／凝胶；制作 DC 25
+|recipe_time=10 分钟
+|recipe_tools=炼金师工作台
+|source=炼金术手册
+}}

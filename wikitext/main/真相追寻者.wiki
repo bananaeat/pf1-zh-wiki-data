@@ -1,0 +1,13 @@
+{{Feat
+|name=真相追寻者
+|english_name=Truth-Seeker
+|categories=故事
+|pfs=否
+|description=一段来自过去的诱人秘辛召唤着你，而你决心将其揭开。
+|prerequisites=必须曾造访过至少被遗弃时间五倍于你年龄的废墟或被遗忘之地。
+|benefit=你在所有知识（历史）检定上获得+2加值。若该技能等级达到10级或更高，此加值提升至+4。
+|goal=必须发现、探索并公开展示一个已被尘封至少100年的重要秘密。
+|completion_benefit=当你经过距你10尺内的密门时，会立即获得一次察觉检定以发现通道。此检定应由GM暗骰。此外，当你尝试意志豁免以识破幻术时，可掷骰两次并取较好结果。 推荐背景：Avid Reader, Mystery Initiate, 无信者（Skeptic）
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/zhef0bc5c087.htm
+}}

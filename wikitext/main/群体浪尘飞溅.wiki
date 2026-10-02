@@ -1,0 +1,16 @@
+{{Spell
+|name=群体浪尘飞溅
+|english_name=Spindrift Spritz, Mass
+|school=咒法系 (治疗)
+|tags=水
+|levels=圣武士 3;游侠 3;猎人 3;先知 4;唤魂师 4;审判者 4;德鲁伊 4;战斗祭司 4;牧师 4;萨满 4
+|action=直觉动作
+|components=语言;姿势
+|range=近距（25尺+5尺/2等级）
+|target=一个生物/等级，任意两个生物之间的距离不超过20尺
+|duration=立即
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=这个法术的效果同[[浪尘飞溅]]，除了上面提及的区别。
+|source=元素大师手册
+}}

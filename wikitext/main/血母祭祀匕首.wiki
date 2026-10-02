@@ -1,0 +1,17 @@
+{{魔法物品
+|name=血母祭祀匕首
+|english_name=Sacrificial Dagger of the Blood Mother
+|aon=MagicWondrousDisplay.aspx?FinalName=Sacrificial Dagger of the Blood Mother
+|cat=奇物
+|aura=微弱死灵系［恶］
+|cl=3
+|slot=无
+|price=2,700 gp
+|weight=1磅
+|description=这把[[匕首]]通常以凿刻的石头制成，不过也有些式样以磨尖的猛犸骨制成。它的柄特别长，仿佛是为大型生物打造的，刀身上刻着一个女性的图案，她一手拿着肉，一手拿着石板。这把匕首只是象征物，不能当作真正的武器使用。每日1次，持有者可以使用[[侦测动植物]]。
+
+如果持有者信仰的是巨人女神范达拉，那么每日1次，只要持有者向女神献上目标的鲜血，他就可以使用[[死亡丧钟]]。
+|req=[[制造奇物]]、[[死亡丧钟]]、[[侦测动植物]]
+|cost=1,350 gp
+|source=神与魔法、内海诸神
+}}

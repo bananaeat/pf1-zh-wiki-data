@@ -1,0 +1,10 @@
+{{Trait
+|name=见多识广之民
+|english_name=Sophisticated Citizen
+|type=地区
+|prerequisites=艾巴萨罗姆
+|description=你在艾巴萨罗姆长大，从小你就了解来自全世界的人地琐事。选择知识(地理)、知识(本地)、或察言观色之一；该技能对你来说是[[本职技能]]。此外，你可知晓一种额外奖励语言。
+|source_name=商人货单
+|source=MM
+|source_url=https://pf1chm.pages.dev/topics/zh22b22ddf01.htm
+}}

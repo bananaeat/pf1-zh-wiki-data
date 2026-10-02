@@ -1,0 +1,15 @@
+{{Spell
+|name=激励进化
+|english_name=Evolution surge
+|school=变化系
+|levels=召唤师 3;召唤师（掉链） 3
+|action=标准动作
+|components=语言;姿势;材料（一片变色龙鳞片）
+|range=接触
+|target=你的幻灵
+|duration=1分钟/等级
+|save=意志，通过则无效（无害）
+|sr=否
+|description=类似于[[次等激励进化]]，但是你能给予一项不超过四点进化点的进化。
+|source=进阶玩家指南
+}}

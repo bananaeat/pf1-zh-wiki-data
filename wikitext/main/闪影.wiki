@@ -1,0 +1,10 @@
+{{Feat
+|name=闪影
+|english_name=Shadow Dodge
+|description=你利用阴影迷惑敌人的感官。。
+|prerequisites=[[敏捷]]13，信仰诺格巴
+|benefit={{AI翻译|nocat=1|本段由 AI 照 AoN 英文原文改译（CHM 汉化译文与 AoN 现行文本不符），未经人工校对。}}你可以利用周围的光线在光与影之间来回穿梭，你突如其来的位移会迷惑敌人的双眼。每当你在正常光照或昏暗光照的区域内移动的距离等于或超过你的速度时，你在AC上获得+3闪避加值，持续到你下一回合开始。不依靠视觉感知你的敌人，以及正在使用[[真知术]]或类似效果的敌人，会无视这个AC加值。在黑暗或明亮光照的区域内，本专长无效，因为在那里无法轻易在光与影之间切换。
+|source=FoP/FoB/FoC、ISG
+|source_name=纯善／平衡／堕落信念、内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}

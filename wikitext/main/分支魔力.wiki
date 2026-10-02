@@ -1,0 +1,9 @@
+{{Trait
+|name=分支魔力
+|english_name=Bifurcated Magic
+|type=种族
+|prerequisites=[[半精灵]]
+|description=你学习了[[精灵]]和[[人类]]两方施法者的施法方式。当你获得这个背景时选择两个职业——你这两个职业的施法者等级均视为提高1,但不得因此超过你的总生命骰数。此效果不与[[法理通]]等背景特性提供的类似提升叠加。
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh3a98986c0e.htm
+}}

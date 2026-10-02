@@ -1,0 +1,9 @@
+{{Trait
+|name=疣猪属
+|english_name=Warthog
+|type=坐骑
+|prerequisites=[[野猪]]
+|description=疣猪比它们看上去的要敏捷得多，取代野猪那40尺的基础速度，其基础速度为45尺。
+|source_name=坐骑背景
+|source_url=https://pf1chm.pages.dev/topics/zh4fc8a2e018.htm
+}}

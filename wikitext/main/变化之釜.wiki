@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=变化之釜
+|english_name=Cauldron of Transmutation
+|aon=MagicWondrousDisplay.aspx?FinalName=Cauldron of Transmutation
+|cat=奇物
+|aura=强烈变化系
+|cl=13
+|slot=无
+|price=33,000 gp
+|weight=15磅
+|description=这口黄铜小釜刻有奥术符文，釜底被火熏黑。要让它运作，必须在釜中注满纯净水，并从下方加热。把任意两瓶药剂倒入釜中时，它们会被转变为一瓶药剂，其法术环数必须等于或低于两份原料药剂中法术环数较低者。大釜的使用者必须在过程开始时指定要制成哪种药剂。整个过程每1环法术环数需要1分钟（按所制成药剂的环数计算）。
+|req=[[制造奇物]]、[[变形万物]]
+|cost=16,500 gp
+|source=不死生物横行
+}}

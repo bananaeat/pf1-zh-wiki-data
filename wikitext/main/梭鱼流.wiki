@@ -1,0 +1,11 @@
+{{Feat
+|name=梭鱼流
+|english_name=Barracuda Style
+|categories=战斗;流派
+|description=你学会了一种由流畅与循环的动作构成的战斗架势，它擅于在水下移动和战斗。
+|prerequisites=感知13，精通徒手打击，特技3级，游泳3级
+|benefit=你的徒手打击在水下造成正常伤害，你在水下进行徒手打击时不会受到减值。你在游泳检定上，除了力量修正外还加上感知修正。
+|normal=造成钝击伤害的武器攻击(如徒手打击)仅造成一半伤害且在水下战斗的攻击检定上受到-2减值。
+|source_name=冒险之路124：深海之城
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

@@ -1,0 +1,15 @@
+{{Spell
+|name=群体闪耀之刃
+|english_name=Dazzling blade, mass
+|school=幻术系 (心灵幻觉)
+|levels=奥能师 3;术士 3;法师 3;红螳螂杀手 3
+|action=迅捷动作
+|components=语言;姿势
+|range=近距（25呎+5呎/2等级）
+|target=一件金属武器/等级，任两者之间不得相距超过30呎
+|duration=1分钟/等级
+|save=意志，通过则无效（见后文）
+|sr=是（无害，物体）
+|description=此法术的效果类似闪耀之刃，但它可以对多件武器产生影响。每位闪耀之刃的持有者可以释放武器的效果，尝试让一名独立于其他人的敌人[[目盲]]。
+|source=敌手指南
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=持久力量
+|english_name=Enduring Might
+|description=当你[[凝聚力量]]时，其持续时间足以加强你的防御能力和[[借机攻击]]。
+|prerequisites=[[凝聚力量]]，念力凝聚职业能力，操念使等级8
+|benefit=当你使用凝聚力量时，该属性加值持续到你的下一回合开始。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/page_1336.html
+|source=MAH
+}}

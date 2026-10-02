@@ -1,0 +1,10 @@
+{{Trait
+|name=坚韧不拔
+|english_name=Relentless Fortitude
+|type=坐骑
+|prerequisites=[[骆驼]]（卡蒂亚单峰驼）
+|description=卡蒂亚单峰驼每小时以每个生命骰2点生命值的速度治疗[[非致命伤害]]。该[[背景特性]]不能与其他增加一个生物治疗非致命伤害速度的效果叠加。
+|source_name=坐骑背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zh4fc8a2e018.htm
+}}

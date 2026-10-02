@@ -1,0 +1,10 @@
+<noinclude>{{游侠导航}}
+{{Source|极限魔法|Ultimate Magic}}
+
+'''雨雪陷阱'''（Sleet Trap，Su）是一种[[游侠陷阱]]。
+
+</noinclude>'''雨雪陷阱'''（Su）：陷阱被触发时引爆，产生一个半径20尺的爆发，效果同[[雪风暴]]。雨雪只持续1轮，但结冰的地面会持续每游侠等级1轮。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_58.html 原文]），按 AoN 校过。全部游侠陷阱见 [[游侠陷阱]]。
+
+[[分类:游侠陷阱]]</noinclude>

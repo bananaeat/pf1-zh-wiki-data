@@ -1,0 +1,14 @@
+{{魔法物品
+|name=猫头鹰之眼
+|english_name=Eyes of the Owl
+|aon=MagicWondrousDisplay.aspx?FinalName=Eyes of the Owl
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=眼部
+|price=4,000 gp
+|description=这副魔法护目镜以猫头鹰为装饰主题，眼睛上方有成簇的羽毛。穿戴者获得昏暗视觉。
+|req=[[制造奇物]]、[[野兽形态 I]]
+|cost=2,000 gp
+|source=探索者协会战地指南、极限宝具
+}}

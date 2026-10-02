@@ -1,0 +1,9 @@
+{{Trait
+|name=协会狂暴者
+|english_name=Berserker of the Society
+|type=战斗
+|prerequisites=野蛮人，探索者协会
+|description=你在探索者协会所经历的时间教会了你关于狂暴能力源泉的新知识。你每天可以额外使用3轮狂暴能力。
+|source_name=组织指南
+|source_url=https://pf1chm.pages.dev/topics/zhb4c4366d0e.htm
+}}

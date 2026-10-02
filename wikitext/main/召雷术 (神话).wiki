@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[召雷术]] 的神话版本。</small></div>
+{{Spell
+|name=召雷术
+|english_name=Call Lightning
+|school=塑能系
+|tags=电
+|levels=德鲁伊 3;猎人 3;秘学士 3;萨满 3
+|description=每条闪电束的伤害增加至3d10点（在暴风雨天气中的户外则为5d10点）。该伤害的一半为闪电伤害，另一半为音波伤害。豁免成功的生物会在1轮内目眩并且耳聋。豁免失败的生物则会在1分钟内目眩且耳聋。
+|source=神话冒险
+}}
+[[分类:神话法术]]

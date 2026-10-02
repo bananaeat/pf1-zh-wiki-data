@@ -1,0 +1,10 @@
+{{Feat
+|name=巨人意志
+|english_name=Will of Giants
+|pfs=否
+|description=你已超越类人生物，不会被这些小把戏所玩弄。
+|prerequisites=感知14，[[钢铁意志]]，巨人
+|benefit=你免疫仅以类人生物为目标的惑控效应，比如说[[魅惑人类]]和[[人类定身术]]。
+|source_name=冒险之路91：血征山之战
+|source_url=https://pf1chm.pages.dev/topics/91_Battle_of_Bloodmarch_Hills.htm
+}}

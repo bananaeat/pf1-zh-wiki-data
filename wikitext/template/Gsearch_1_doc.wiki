@@ -1,0 +1,200 @@
+;还在羡慕FF14 WIKI功能强大的物品搜索器吗？
+;还在为写不出来酷炫的数据检索工具而烦恼吗？
+;还在因为不会抄作业而被<s>狗头人</s>鄙视吗？
+;你可能需要了解一下“快速检索器”——
+
+年轻人的第一款数据搜索工具，零JS/LUA代码需求，认识字就能搞定，开盒即食，即插即用！
+
+==灰机mw1.38更新==
+灰机更新到1.38后，原先安装本零件的站点会出现无法访问的情况。你可以：
+*重新安装本零件，相关问题已修复。
+*在你的站点为gadget:Globalsearch_entrance.js添加编辑保护（至少为管理员以上）。
+
+
+===Update:20250805===
+*现在Gsearch会在查询结果渲染之后向window发送<code>gs-render</code>事件。你可以向这个事件注册其他函数。
+*该事件的<code>detail</code>包含如下信息：
+**<code>container</code>：容纳结果的div元素（即<code>.gs-resultcontainer</code>）
+**<code>data</code>：数据搜索的返回值，包括原始数据和分页信息
+**<code>queryParams</code>：实际提交搜索的参数。
+
+例如希望使结果中的<code>.mw-collapsible</code>生效，你可以以如下方式注册：
+<pre>
+window.addEventListener('gs-render',function(e){
+    var container = e.detail.container;
+    mw.loader.using(['jquery.makeCollapsible']).then(function() {
+        $(container).find('.mw-collapsible').not('.mw-made-collapsible').each(function() {
+            $(this).makeCollapsible();
+        });
+    });
+})
+</pre>
+
+由于gsearch本身是在jquery加载后才执行的，所以该事件监听函数可以放在<code>mediawiki:common.js</code>顶层（不用放在<code>$(document).ready()</code>中）。
+
+===Update:20241122===
+*现在渲染请求会根据当前页面是否有<code>debug=1</code>而决定是否在请求中添加相应参数。对模板进行调试应该更方便了。
+**请注意，该改动对查询请求的缓存是不生效的。如果你想临时绕过查询请求可以通过调整表单组件顺序或增加/移除限制条件来实现。
+**此外，目前已知在debug状态下<code>searchonload</code>是不生效的（即不会自动在页面载入时自动提交请求）。
+==示例==
+<pre>{{gsearch
+|class=itemlist dark
+|pagesize=8|searchonload=true
+|selection = Funko Franchise::Game of Thrones
+|type:text;
+//model:Has Name;
+//title:物品名称;
+//placeholder:输入名称;
+//bindSubmit:true;
+//flag:i;
+|type:dropbox;
+//model:Year;
+//flag:number;
+//title:年份;
+//options:-全部@default,2012-2012,2013-2013,2014-2014,2015-2015,2016-2016,2017-2017,2018-2018,2019-2019;
+|type:checkbox;
+//model:In Bundle;
+//flag:boolean;
+//text:属于捆绑包;
+}}</pre>
+
+;实际效果如下，采用默认模板，可以指定自定义的模板进行结果封装（见下文）
+{{gsearch
+|class=itemlist dark
+|pagesize=8
+|searchonload=true
+|selection = Funko Franchise::Game of Thrones
+|sort=Year,Funko Index
+|order=-1,-1
+|type:text;
+//model:Has Name;
+//title:物品名称;
+//placeholder:输入名称;
+//bindSubmit:true;
+//flag:i;
+|type:dropbox;
+//model:Year;
+//flag:number;
+//title:年份;
+//options:-全部@default,2012-2012,2013-2013,2014-2014,2015-2015,2016-2016,2017-2017,2018-2018,2019-2019;
+|type:checkbox;
+//model:In Bundle;
+//flag:boolean;
+//text:属于捆绑包;
+}}
+
+==准备工作==
+;你的站点需要有以mongoDB存储的数据才能使用本零件进行数据查询。
+:详情参考：[[h:帮助:MongoDB支持|灰机的MongoDB支持]]。
+
+*本零件依赖灰机mongoDB的JS侧API（RestAPI）。新创建的站点可能需要一段时间才会启用该功能。在此时间通过本零件查询时会报错。
+*上述API存在接口缓存，因此对数据进行的更新可能无法立即体现在查询结果中。
+
+==基本参数==
+*<code>selection</code>：查询的数据条件，即约束本站mongoDB数据的范围，使用 <key>::<value>的形式查询。
+<pre>
+|selection = data_type::item
+</pre>
+即查询所有包含key为“data_type”，对应value为“item”的数据。
+**<code>selection</code>的数据格式必须为string。我们建议在设计数据结构时至少包含一个此类字段。
+**此外，由于本零件'''查询时需要至少包含一个条件'''、而其他表单控件均可能为空，因此使用selection属性应当视为必要条件。
+*<code>pagesize</code>: 单页显示的内容数量。默认值为20。
+*<code>searchonload</code>: 取值为true时，表单将在加载完成后自动提交一次搜索。
+*<code>class</code>：为整个表单区域添加一个或多个class，用于样式定义。如果你的站点是暗色风格，可考虑添加dark类。
+**访问[[gadget:globalsearch.css]]可以编辑默认和dark样式，你也可以在其他样式表中定义样式。
+*<code>template</code>：结果的输出模板。
+**如果希望使用mustache模板输出数据，可以将参数<code>_id</code>传递给解析器函数。该参数在json类型数据下为json页面名称，在tabx数据下为tabx名称后加行号。
+**注意，只有结果的第一级数据会交给模板渲染，而结果中的object和array均不会传递给模板。
+**默认使用<code>模板:ItemListEntry</code>封装结果，这个模板已经跟随零件打包，但很显然他不会满足你的自定义需求，所以请放心修改，模板和lua模块都可以使用。
+*所有未命名参数：每个参数均为一个表单控件的定义。详见下文。
+*<code>sort</code>：排序key，支持多个参数，用逗号隔开。
+*<code>order</code>：排序方法，支持升序、降序，用逗号隔开，与sort参数一一对应，不足的会被默认升序补齐，超出的无效。
+
+==表单控件==
+控件和控件之间以pipe符号（|）分隔。
+
+参数值为key:value对。表单控件的配置参数书写规则——
+*每行一个
+*参数以<code>//</code>开头
+*参数以<code>;</code>结尾
+例如：
+<pre>
+...
+|type:radio;
+//title:品质;
+//model:rarity;
+//options:-全部@default,0-白色,1-绿色,2-蓝色,3-橙色;
+...
+</pre>
+上述代码定义了一个radio表单控件（单选框）
+
+完整的key及其定义如下：
+{| class="wikitable"
+|-
+! type !! 对应控件 !! html元素
+|-
+| <code>text</code> || 文本框 || <input type="text">
+|-
+| <code>dropbox</code> || 下拉框 || <select>与<option>
+|-
+| <code>checkbox</code> || 单个复选框 || <input type="checkbox">
+|-
+| <code>radio</code> || 一组单选框 || <input type="radio">
+|-
+| <code>hidden</code> || 无 || 无
+|}
+
+*hidden - 隐藏域，用于约定搜索器查询的数据范围。
+**使用<code>model</code>、<code>value</code>两个子参数定义初始查询条件，例如
+<pre>
+|type:hidden;
+//model:item_type_name;
+//value:护甲;
+//flag:i;
+</pre>
+多个hidden域并列生效，可作为补充筛选条件，默认不填。
+*同时，hidden域也会和<code>|selection</code>同时生效
+
+
+===参数说明===
+;<code>//model</code>
+该组控件对应的数据字段（仅支持一级节点）。单个搜索表单中，model不应当重复。
+;<code>//title</code>
+显示在表单组上方的文本。
+;<code>//options</code>
+用于type为dropbox和radio的选项。格式为<code>取值-显示文本</code>，每组数据之间使用逗号分隔（不建议使用回车）。
+*在显示文本后增加<code>@default</code>可使该选项默认选中。
+*如果取值为空，例如<code>-全部</code>，则该字段不会被筛选。
+;<code>//flag</code>
+用于二次处理表单数据的标识。可填写值如下：
+*<code>boolean</code>：该选项的最终值将转化为布尔型。
+*<code>number</code>：该选项的最终值将转化为整数。
+*<code>i</code>：该选项将变为大小写不敏感的字符串（用于text），并且支持模糊搜索。
+;<code>//bindSubmit</code>
+适用于文本框。该值为"true"时，在文本框上点击回车将进行提交。
+*<code>e</code>：指定的值存在，推荐使用radio。
+*<code>ne</code>：指定的值不存在，推荐使用radio。
+
+==用模板封装结果==
+;默认模板[[模板:ItemListEntry]]。
+会将所有内容以luaTable的形式dump出来。
+
+===自定义模板===
+通过template参数进行自定义封装
+
+:注意，该模板读取的参数名为mongoDB实际返回结果的'''第一层'''结果。例如以下结果在返回列表中时：
+<pre>
+{
+    "data_id":"some entry name",
+    "rarity":0,
+    "visible":false,
+    "effects":["splash","bleeding"],
+    "meta":{
+        "showInMarket":false,
+        "unique":true
+    }
+}
+</pre>
+则最终data_id，rarity，visible会传递给单个条目的模板，对应的参数就是<code><nowiki>{{{data_id}}}</nowiki></code>，<code><nowiki>{{{rarity}}}</nowiki></code>，<code><nowiki>{{{visible}}}</nowiki></code>。
+
+如果输出模板中有需要JS处理的内容（比如折叠、tab等），请参考本文'''Update:20250805'''一节。

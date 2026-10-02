@@ -1,0 +1,10 @@
+{{Feat
+|name=攀爬藤蔓
+|english_name=Climbing Vine
+|description=你可以像藤蔓一样攀爬。
+|prerequisites=力量13，藤蔓莱西
+|benefit=你获得10尺的攀爬速度。如果你已经具有天生的攀爬速度，那么你的攀爬速度增加10尺。你可多次选取本专长，但你的攀爬速度永远无法超过你的基本速度。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/page_1456.html
+}}

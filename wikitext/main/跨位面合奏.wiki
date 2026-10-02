@@ -1,0 +1,11 @@
+{{Feat
+|name=跨位面合奏
+|english_name=Extraplanar Conjunction
+|categories=团队
+|description=你盟友们那与生俱来的位面能量赋予你魔法能力，允许你将你的类法术能力变得更难被抵抗。
+|prerequisites=任何种族类法术能力，异界生物。
+|benefit=每当你与一名同样拥有该专长的异界生物盟友相邻时，假如你的盟友拥有与你将使用的任何种族类法术能力相同的种族类法术能力的话，则这道种族类法术能力的DC增加2。与多名盟友相邻并不会进一步增加DC。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

@@ -1,0 +1,12 @@
+{{Feat
+|name=制造魔杖
+|english_name=Craft Wand
+|categories=造物
+|pfs=否
+|description=你能制造魔杖。
+|prerequisites=施法者等级5级。
+|benefit=你能制造任何你知道的4环或以下法术的魔杖。魔杖的每1000gp基本价格将使制造时间延长1天。加工所需耗材的价值为成品价格的一半。新的魔杖拥有50发充能。更多信息请参见魔法物品规则。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

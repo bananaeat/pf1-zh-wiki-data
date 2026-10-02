@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Ruins of Azlant Player's Guide pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=追随足迹
+|english_name=Following in the Footsteps
+|type=战役
+|pfs=否
+|description=你的一位挚友或家人是丰饶冒险公司选中、前去建立塔玛多丰饶镇的第一批殖民者之一。你当时也申请了第一批，却未能入选。如今你终于挤进了第二批，迫不及待地想与那位家人团聚。对家人或朋友的忠诚对你而言十分重要，这不仅体现在你对那位即将重逢的朋友或家人的感情上，也体现在你待人以敬的态度上。
+
+每当你执行协助他人动作协助一名相邻盟友时，你给予该盟友的加值增加1。此外，由于你积极、乐于助人的天性，你的[[交涉]]检定获得+1背景加值。
+|source_name=Ruins of Azlant Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Following%20in%20the%20Footsteps
+}}

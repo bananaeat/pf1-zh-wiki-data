@@ -1,0 +1,9 @@
+<noinclude>{{速查导航|here=规则}}
+'''土系亚种'''（Earth）是一种怪物[[生物类型与怪物亚种#生物亚种|亚种]]。
+</noinclude><includeonly><div class="lang"><span id="土系"></span><span id="土系亚种"></span><div class="lang-h"><b>[[土系亚种|土系亚种]]</b><i>Earth</i></div><div class="lang-d"></includeonly>
+土系亚种通常用于和土元素位面有联系的异界生物。土系生物通常具有掘穴速度，且大多数土系生物都可以在坚硬的岩石中掘穴。有掘穴速度的土系生物具有[[颤动感知(怪物能力)|颤动感知]]。
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=MonsterSubtypes.aspx?ItemName=Earth|2=Earth}}
+
+[[分类:怪物亚种]]</noinclude>

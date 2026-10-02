@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''持久之土'''（Enduring Earth, Su）是[[操念使]]的[[原力]]。
+
+元素：土；类别：通用（Su）；等级：4；超载：－
+
+当你使用[[岩击]]、土系的原力或者包含土元素的[[复合念袭]]时，如果它的持续时间超过1轮，则会延长至两倍。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Enduring Earth|2=Enduring Earth}}
+
+[[分类:原力]]

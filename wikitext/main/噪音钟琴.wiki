@@ -1,0 +1,17 @@
+{{魔法物品
+|name=噪音钟琴
+|english_name=Chime of Interruption
+|aon=MagicWondrousDisplay.aspx?FinalName=Chime of Interruption
+|cat=奇物
+|aura=中等塑能系
+|cl=7
+|slot=无
+|price=16,800 gp
+|weight=1磅
+|description=这件乐器每10分钟可以敲响一次，其共鸣音持续整整3分钟。
+
+钟琴共鸣期间，钟琴周围30尺半径内无法施展带有言语成分的法术，除非施法者通过DC（15+法术环数）的专注检定。
+|req=[[制造奇物]]、[[咆哮术]]
+|cost=8,400 gp
+|source=核心规则书、极限宝具
+}}

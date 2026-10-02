@@ -1,0 +1,17 @@
+{{魔法物品
+|name=-2诅咒长剑
+|english_name=-2 Cursed Sword
+|aon=MagicCursedDisplay.aspx?ItemName=-2 Cursed Sword
+|cat=诅咒物品
+|base=[[长剑]]
+|enh=-2
+|aura=强烈塑能系
+|cl=15
+|slot=无
+|weight=4磅
+|description=用来练习时，这把[[长剑]]对付靶子表现不错，但在战斗中使用时，持有者的攻击检定承受-2减值。它造成的所有伤害也减少2点，但每次成功命中至少造成1点伤害。
+
+这把剑总是迫使持有者使用它，而不是别的武器：即使持有者本打算拔出或准备别的武器，也会自动拔出这把剑并用它战斗。
+|req=+2[[长剑]]，或任意魔法武器
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,9 @@
+{{装备
+|name=根汁酒（一罐）
+|english_name=Cauim (gourd)
+|cat=饮食
+|price=1 gp
+|weight=2磅
+|description=这种类似啤酒的饮品以木薯根或玉米酿成，酿造过程中需要大量咀嚼。
+|source=极限宝具
+}}

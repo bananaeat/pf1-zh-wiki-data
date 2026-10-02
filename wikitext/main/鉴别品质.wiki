@@ -1,0 +1,9 @@
+{{Trait
+|name=鉴别品质
+|english_name=Eye for Quality
+|type=宗教
+|prerequisites=信仰[[阿巴达尔]]
+|description=你的信仰赐予你一项神秘的技能，使你能够看出物品的真正价值。你的[[估价]]获得+1背景加值，估价检定失败5点或更多时你也不会承受其后果，并且估价视作你的[[本职技能]]。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

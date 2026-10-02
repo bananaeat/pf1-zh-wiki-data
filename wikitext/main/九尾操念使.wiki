@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|格拉利昂的英雄|Heroes of Golarion}}
+'''九尾操念使'''（Nine-Tailed Kineticist, Su）是[[操念使]]的[[原力]]。
+
+元素：通用；类别：通用（Su）；等级：1；超载：0
+
+前置：[[狐妖]]
+
+即使你本日已经用尽了[[魔性之尾]]专长授予你的类法术能力使用次数，你也可以承受1点超载来再次使用它。你必须能够使用与额外尾巴数目相同级别的原力才能如此使用魔性之尾授予的类法术能力。（例如，你必须达到15级且能够使用8级原力才能使用该原力施放魔性之尾授予的[[支配人类]]类法术能力）。此外，当你习得新[[注能原力]]或[[通用原力]]时，可以改为选取一个你符合条件的魔性之尾专长。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Nine-Tailed Kineticist|2=Nine-Tailed Kineticist}}
+
+[[分类:原力]]

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Tyrant's Grasp Player's Guide pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=局外人
+|english_name=The Outsider
+|type=战役
+|pfs=否
+|description=你没有归属之地，但边疆眼下似乎还算舒适。也许你太过随性，过不惯城市生活；也许你太过自私，融不进终焉之墙普遍的同袍文化；又或者你见过的事物给你留下了太深的创伤，让你无法完全信任他人。你习惯于行动时不引人注意，你的[[隐匿]]和[[生存]]检定获得+1背景加值，并且其中一项技能永远是你的本职技能。由于习惯独自行动，你从协助他人动作中只能获得一半的好处（+1），但你习惯一次就把事情做好，因此你协助其他角色时提供的加值增加1。
+|source_name=Tyrant's Grasp Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=The%20Outsider
+}}

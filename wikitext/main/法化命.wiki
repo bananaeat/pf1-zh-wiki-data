@@ -1,0 +1,10 @@
+{{Trait
+|name=法化命
+|english_name=Magic Is Life
+|type=宗教
+|prerequisites=信仰[[内希斯]]
+|description=你对魔法的信仰允许你反射性地利用任何自身魔法效果来抵御死亡侵袭。只要处于任何法术的作用效果之下，你在对抗死亡效果的豁免中获得+2背景加值。如果你处于任何法术效果时生命值被降至负值，你的伤势稳定检定自动成功，并不再[[出血]]。
+|source_name=宗教背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=雨林游击手
+|english_name=Guerilla
+|type=地区
+|prerequisites=唐马
+|description=你在唐马的雨林中度过了很长时间，知晓其中的秘密。你的[[知识]]（自然）检定以及在雨林中进行的[[生存]]检定获得+1背景加值。其中一项技能成为你的本职技能。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Guerilla
+}}

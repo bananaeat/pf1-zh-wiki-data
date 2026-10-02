@@ -1,0 +1,15 @@
+{{魔法物品
+|name=琥珀火花胸针
+|english_name=Brooch of Amber Sparks
+|aon=MagicWondrousDisplay.aspx?FinalName=Brooch of Amber Sparks
+|cat=奇物
+|aura=微弱防护系、塑能系
+|cl=5
+|slot=颈部
+|price=16,800 gp
+|weight=1磅
+|description=这个铜扣饰中央镶着一块琥珀，用来固定斗篷或披风。当穿戴者受到电击伤害时，这枚[[胸针]]会吸收最多20点电击伤害，并把这些电能储存起来，直到持有者将其释放，或在10分钟后无害地消散，以先发生者为准。胸针每日最多能吸收50点电击伤害。持有者可以以命令释放电荷，放出胸针中储存的所有电能，如同施放[[电爪]]（每储存5点伤害，造成1d6点电击伤害）。
+|req=[[制造奇物]]、[[抵抗能量伤害]]、[[电爪]]
+|cost=8,400 gp
+|source=极限宝具
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=显微护目镜
+|english_name=Goggles of Minute Seeing
+|aon=MagicWondrousDisplay.aspx?FinalName=Goggles of Minute Seeing
+|cat=奇物
+|aura=微弱预言系
+|cl=3
+|slot=眼部
+|price=2,500 gp
+|description=这件物品的镜片由特殊的水晶制成，系带上织着几乎无法用肉眼辨认的细小金属线纹样。戴在穿戴者的眼睛上时，镜片使她在1尺或更近的距离上看得比常人清晰得多，使她的[[解除装置]]检定获得+5表现加值。必须两块镜片都戴上，魔法才会生效。
+|req=[[制造奇物]]、[[真知术]]
+|cost=1,250 gp
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,17 @@
+{{武器
+|name=多刃飞刀
+|english_name=Hunga munga
+|category=武器
+|prof=军用
+|wcat=远程
+|price=4 gp
+|weight=3磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×2
+|range=15尺
+|type=穿刺
+|groups=轻刃，投掷
+|description=又被称为“麻痹了（mambele）”、“打你死狗（danisco）”、“搞了哟（goleyo）”、“叽嘎（njiga）”甚至更为稀奇的名字，这把投掷用的三刃匕首也能用于近战。虽然三刃为常见设计，这件武器的实际形式更加多种多样。
+|source=冒险者的军械库、极限宝具、远程战术工具箱
+}}

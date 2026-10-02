@@ -1,0 +1,11 @@
+{{Feat
+|name=算术思维
+|english_name=Calculating Mind
+|pfs=否
+|description=你可以看到其他人都无法注意到的世界潜质。你的数字占卜能力通过这种特殊的资质得到提高。
+|prerequisites=[[神圣几何学]]，[[知识]]（工程学）5级
+|benefit=任何时候你使用[[神圣几何学]]专长，你可以使用d8骰代替d6骰构造你的骰池。你可以使用d8和d6骰的任意组合，只要骰子的总数不超过你的知识（工程学）的等级。
+|source=OM
+|source_name=异能奥秘
+|source_url=https://pf1chm.pages.dev/topics/page_744.html
+}}

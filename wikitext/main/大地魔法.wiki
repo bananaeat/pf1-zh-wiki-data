@@ -1,0 +1,10 @@
+{{Feat
+|name=大地魔法
+|english_name=Earth Magic
+|description=你能从大地汲取原始的魔法力量，用于强化自己的法术。
+|prerequisites=能够施展1环法术，偏好地形职业能力。
+|benefit=当你处于你的偏好地形时，在根据施法者等级而提升法术效果上，你的有效施法者等级增加1。这种增加的有效施法者等级不允许你获得更多的法术。
+|source=UW、HotW
+|source_name=极限荒野、荒野英雄
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

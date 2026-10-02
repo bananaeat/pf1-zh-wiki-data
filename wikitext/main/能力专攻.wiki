@@ -1,0 +1,12 @@
+{{Feat
+|name=能力专攻
+|english_name=Ability Focus
+|pfs=否
+|description=这个生物的某种[[特殊攻击]]能力极难抵抗。
+|prerequisites=拥有特殊攻击。
+|benefit=选择一项该生物拥有的特殊攻击能力，其他生物对抗这项特殊攻击能力的所有豁免DC+2。
+|special=你可以多次选择本专长，但其效果不能叠加。每次你选择此专长时，它的效果将应用在另一个特殊攻击能力上。
+|source=B1
+|source_name=怪物图鉴
+|source_url=https://pf1chm.pages.dev/topics/page_201.html
+}}

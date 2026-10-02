@@ -1,0 +1,47 @@
+{{消歧义|深红鲸(物品)}}
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=深红鲸
+|english_name=Crimson Whale
+|cr=8
+|xp=4,800
+|alignment=绝对中立
+|size=巨型
+|type=动物
+|init=–2
+|senses=盲视 120 尺，昏暗视觉；察觉 +21
+|description=这头巨大的水生野兽在许多方面与其他鲸相似，但因其巨大的牙齿、令人生畏的强健颌骨和血红色的皮肤而与众不同。
+|ac=22，接触 4，措手不及 22（–2 敏捷，+18 天生，–4 体型）
+|hp=105（10d8+60）
+|fort=+12
+|ref=+7
+|will=+6
+|speed=游泳 40 尺
+|melee=啮咬 +17（2d8+26 外加 擒抱）
+|space=20 尺
+|reach=20 尺
+|special_attacks=活吞（4d6 伤害，AC 19，10 hp）
+|str=36
+|dex=7
+|con=21
+|int=2
+|wis=13
+|cha=6
+|bab=+7
+|cmb=+24（+28 擒抱）
+|cmd=32（无法被摔绊）
+|feats=[[钢铁意志]];[[闪电反射]];[[猛力攻击]];[[健壮]];[[武器专攻]]（啮咬）
+|skills=[[察觉]] +21;[[游泳]] +29
+|racial_mods=+12 察觉
+|sq=闭气;强劲打击
+|environment=任意海洋
+|organization=单独，成对，或鲸群（3–8）
+|treasure=无
+|special_abilities={{怪物能力|闭气|Ex|利维坦（译注：AoN 原文作 leviathan，疑为笔误，应指深红鲸）可以屏住呼吸的轮数等于其体质值的 6 倍，超过后才有溺水的风险。}}
+{{怪物能力|强劲打击|Ex|利维坦（译注：AoN 原文作 leviathan，疑为笔误，应指深红鲸）的啮咬伤害加上两倍的力量调整值。}}
+|source=Pathfinder #59: The Price of Infamy
+|lore=
+尽管许多鲸类性情温顺，深红鲸却是一种好斗的猎手，其进化的目的就是要迅速杀死即便最庞大、最强大的猎物。它长着一整排致命的牙齿，平均长 1 至 2 尺，强有力的啮咬能撕裂血肉、咬碎骨头。一头典型的成年深红鲸体长 45 尺，重 30 吨。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Crimson Whale|2=Crimson Whale}}

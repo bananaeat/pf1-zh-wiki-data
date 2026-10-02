@@ -1,0 +1,15 @@
+{{魔法物品
+|name=闪电跳跃鞋
+|english_name=Shoes of Lightning Leaping
+|aon=MagicWondrousDisplay.aspx?FinalName=Shoes of Lightning Leaping
+|cat=奇物
+|aura=中等变化系
+|cl=6
+|slot=脚部
+|price=10,500 gp
+|weight=1磅
+|description=这双黑色短鞋紧贴穿戴者的脚，鞋上绣着跃动的电弧和狂风的图案。穿着这双鞋的生物，每天一次可以通过命令字变成闪电，沿直线移动最多50尺，并在这道闪电的另一端重新现形。处于闪电路径上的生物受到6d6点电击伤害，物体所受的伤害按闪电束法术处理。如果闪电撞上了物体或屏障却没能击穿，穿着这双鞋的生物就会出现在被撞物体旁边，并陷入[[恍惚]]1轮。处于闪电形态时的移动不会引发[[借机攻击]]。
+|req=[[制造奇物]]、[[脚底抹油]]、[[闪电束]]
+|cost=5,250 gp
+|source=极限宝具
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=盲目眩光
+|english_name=Blinding Flash
+|categories=战斗
+|description=你可以透过武器或盾牌，将阳光折射入对手的眼睛，让他暂时[[目盲]]。
+|prerequisites=[[敏捷]] 13，寓守于攻。
+|benefit=透过一个移动动作，你可以改变剑刃或盾牌的角度，将强光射入对手的眼中，让对手[[目眩]]一轮。此效果类似凝视攻击，目标必须通过一次DC=10+1/2你角色等级+你的敏捷调整值的强韧检定来抵抗此效果。盲目眩光是依赖视觉的效果，不会对已经目盲或是不把视觉作为主要感知的生物生效，你必须持用具有反射性表面的武器或盾牌，且在光照强度为强烈的区域才能使用此专长。
+|source=DEP
+|source_name=初探龙国
+|source_url=https://pf1chm.pages.dev/topics/page_530.html
+}}

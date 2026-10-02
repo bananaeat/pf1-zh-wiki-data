@@ -1,0 +1,42 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #38: Racing to Ruin
+|authors=Tim Hitchcock
+|pages=96
+}}
+
+{{书页/简介|head=竞赛开始了|1=
+冒险者们终于抵达港口城市埃勒德（Eleder），并带着通往失落之城 Saventh-Yhi 的路线知识。但新的对手也盯上了这座传说中的大都市，一场抢先抵达传说中的废墟、攫取其难以想象的财富的竞赛随即展开。冒险者们会与雄心勃勃的探险者结盟吗——寻宝的[[探索者协会]]、肆无忌惮的[[盾徽财团]]、贪金的镣铐岛海贼，还是其他势力——一同深入丛林腹地？而踏入格拉利昂最致命的荒野之一狂啸丛林（Screaming Jungle）之后，他们又将面对什么样的危险？
+
+本册《冒险之路》内容包括：
+
+* Tim Hitchcock 的开拓者角色扮演游戏冒险《竞逐废墟》（"Racing to Ruin"），适用于 4 级角色。
+* Tim Hitchcock 带你游览异域风情而动荡不安的港口城市埃勒德。
+* Sean K Reynolds 探究平静与灾难并存、变幻莫测的自然之神[[哥兹莱]]。
+* 在「探索者日志」中上演酒馆斗殴与贵族任务，作者 Robin D. Laws。
+* Tim Hitchcock、Patrick Renie、Sean K Reynolds 与 Neil Spicer 设计的五种新怪物。
+}}
+
+'''冒险之路38：竞逐废墟'''（''Pathfinder #38: Racing to Ruin''）是[[冒险之路]]「蛇神颅骨」系列的第二章冒险，由 Tim Hitchcock 撰写，配套内容出自 Patrick Renie、Sean K Reynolds 和 Neil Spicer，小说出自 Robin D. Laws，于 2010 年 9 月 29 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+竞逐废墟 @ 6
+埃勒德 @ 58
+[[哥兹莱]] @ 66
+探索者日志：光之瘟疫（2／6） @ 72
+怪物图鉴 @ 78
+预设角色 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Racing to Ruin
+|releases=PDF¦PZO9038E¦2010-09¦；Softcover¦PZO9038¦2010-09¦
+}}
+
+<small>CHM 汉化里没有这本书的译名，书名是本站定的。</small>
+
+[[分类:书目]]

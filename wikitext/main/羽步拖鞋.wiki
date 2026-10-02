@@ -1,0 +1,15 @@
+{{魔法物品
+|name=羽步拖鞋
+|english_name=Feather Step Slippers
+|aon=MagicWondrousDisplay.aspx?FinalName=Feather Step Slippers
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=脚部
+|price=2,000 gp
+|weight=1磅
+|description=每天一次，持续10分钟，这双精美的丝绸拖鞋允许穿戴者无视[[困难地形]]所带来的不良移动效果，如同受到轻羽步法术的影响，包括允许在困难地形中进行五尺快步。
+|req=[[制造奇物]]、[[轻羽步]]
+|cost=1,000 gp
+|source=极限宝具
+}}

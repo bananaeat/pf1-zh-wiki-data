@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=意外之击
+|english_name=Unexpected Strike
+|type=Ex
+|class=掉链野蛮人
+|benefit=野蛮人可以对移动进他威胁范围内的敌人进行[[借机攻击]]，无论该移动是否会正常的引发借机攻击。野蛮人只有在她的威胁范围内没有其他敌人时才能使用此能力。野蛮人至少要达到8级才能选择此狂暴之力。
+|classic=诡击
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

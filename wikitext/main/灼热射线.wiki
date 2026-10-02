@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[灼热射线 (神话)]]。</small></div>
+{{Spell
+|name=灼热射线
+|english_name=Scorching Ray
+|school=塑能系
+|tags=火
+|levels=奥能师 2;导师 2;术士 2;法师 2;血脉狂怒者 2;魔战士 2
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|effect=一条或多条射线
+|duration=立即
+|save=无
+|sr=是
+|description=你用炽热的射线冲击你的敌人。你可以发射一道射线，每比3级每多4个等级就可以再加一道射线 (11级时达到最多三道射线)。每道射线都需要一个远程[[接触攻击]]来命中，并且造成4d6点火焰伤害。射线可以对准同一个目标发射，也可以瞄准不同目标，但是所有射线瞄准的目标间的距离不得超过30尺，而且必须同时发射。
+|source=核心规则书
+}}

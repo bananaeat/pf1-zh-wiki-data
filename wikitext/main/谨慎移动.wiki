@@ -1,0 +1,12 @@
+{{Feat
+|name=谨慎移动
+|english_name=Defended Movement
+|categories=盾牌掌握;战斗
+|description=移动时你灵巧地使用盾牌格挡攻击。
+|prerequisites=[[盾牌专攻]]，BAB+6或者战士4级
+|benefit=你在对抗[[借机攻击]]时AC获得+2加值。
+|special=谨慎移动可视作闪避和[[灵活移动]]专长来满足需要其作为前置条件的专长。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_361.html
+}}

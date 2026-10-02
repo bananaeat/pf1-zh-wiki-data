@@ -1,0 +1,11 @@
+{{Feat
+|name=进阶黑耀传人
+|english_name=Improved Umbral Scion
+|pfs=否
+|description=你精通了卓尔贵族魔法。
+|prerequisites=魅力13，感知13，[[黑耀传人]]，卓尔贵族，[[高等卓尔贵族]]，[[进阶卓尔贵族]]，能够使用卓尔的类法术能力，卓尔。
+|benefit=你可以每天以类法术能力使用[[解除魔法]]，[[神恩]]，[[暗示术]]各1次。CL等同于你的人物等级。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

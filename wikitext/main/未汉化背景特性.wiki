@@ -1,0 +1,12 @@
+AoN 上有、本站还没有的背景特性，共 0 条。
+
+CHM 汉化 只收了一部分，这些等真人翻译。
+
+对照全部条目（含已汉化的）见 [[背景特性汉化对照表]]。
+
+{| class="wikitable sortable filterable"
+|-
+! class="filterable-head" style='width:45%' | 英文名 !! class="filterable-head" style='width:15%' | 类型 !! class="filterable-head" style='width:10%' | PFS
+|}
+
+[[分类:待办事项]]

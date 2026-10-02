@@ -1,0 +1,11 @@
+{{AI翻译|本页效果栏由 AI 照 AoN 英文原文译出（Rival Guide pg. 35），CHM 汉化里该段被截断、没有完整译文，未经人工校对。}}
+{{Feat
+|name=循环进攻
+|english_name=Circling Offense
+|categories=战斗;团队
+|description=你擅长以一种敌人难以取得优势的方法和盟友一同接近巨大的敌人
+|prerequisites=[[闪避]]，[[灵活移动]]，BAB+3
+|benefit=当你因穿过一个生物的触及范围而引发借机攻击时，只要该生物的体型比你大，且在其触及范围内至少有另一名拥有循环进攻的盟友，你在AC上对这次借机攻击获得+1闪避加值。若你因此获得闪避加值所针对的生物攻击你却未能命中，则它会引发任何拥有循环进攻的盟友对它的借机攻击。
+|source_name=敌手指南
+|source_url=https://pf1chm.pages.dev/topics/zh338f7792a5.htm
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=矮身迎敌
+|english_name=Low Profile
+|categories=战斗
+|description=你的较小身躯能够帮助自身免受远程攻击。
+|prerequisites=[[敏捷]] 13，体型小型或更小。
+|benefit=在对抗远程攻击时，你的AC获得+1闪避加值。此外，当远程攻击通过你的方格时，你不会给其他生物提供软[[掩蔽]]。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

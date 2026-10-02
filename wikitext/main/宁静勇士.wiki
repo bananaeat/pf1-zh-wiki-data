@@ -1,0 +1,13 @@
+{{Feat
+|name=宁静勇士
+|english_name=Champion of Tranquility
+|categories=阵营
+|pfs=否
+|description=秩序的和谐是你最高的理想。
+|prerequisites=10生命骰，守序中立阵营。
+|benefit=你可以储存数量至多等同于魅力加值（最少1）的阵营确认，并可随时使用，而不限于获得后24小时内。你可以使用一个阵营确认，以一个标准动作施放[[安定心神]]作为类法术能力，施法者等级等同于你的生命骰。此外，你对混乱生物的武器与法术伤害检定获得+2加值。这是一个基于阵营的效果。
+|residual=即使你不再是守序中立阵营，你仍保留对混乱生物+2的伤害加值。
+|source=PU
+|source_name=解放者
+|source_url=https://pf1chm.pages.dev/topics/zh771c8090a9.htm
+}}

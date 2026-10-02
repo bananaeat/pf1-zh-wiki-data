@@ -1,0 +1,15 @@
+{{魔法物品
+|name=破雾目镜
+|english_name=Fog-Cutting Lenses
+|aon=MagicWondrousDisplay.aspx?FinalName=Fog-Cutting Lenses
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=面部
+|price=8,000 gp
+|weight=1磅
+|description=这副目镜由抛光的水晶制成，镜框是抛光的黄铜，配有一条简单的皮带和扣环，尺寸适合巨人的头部（但很容易为较小的佩戴者调整）。穿戴者可以透过魔法的和普通的雾、薄雾以及类似的遮蔽物看清事物。目镜不提供黑暗视觉或昏暗视觉。此外，镜片会奇怪地扭曲视线，使察觉检定承受-4减值。
+|req=[[制造奇物]]、[[黑暗视觉(法术)|黑暗视觉]]、[[云雾术]]
+|cost=4,000 gp
+|source=冒险之路4：石巨人要塞、符文领主崛起周年纪念版、怪物志
+}}

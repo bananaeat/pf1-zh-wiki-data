@@ -1,0 +1,11 @@
+{{Feat
+|name=白虹贯日
+|english_name=Lantern Glare
+|categories=战斗
+|description=就像圣使的灵光一样，你投掷武器的光芒甚至可以撼动最凶狠的敌人。
+|prerequisites=白虹流，白虹闪，近距射击，精准射击，善良或守序阵营，11级施法者等级或11级武僧等级
+|benefit=被你投掷武器击中的生物和你目标20尺范围内的生物必须通过意志豁免（DC=10+你角色等级一半+你的魅力调整值）否则变得战栗直到他们对你造成伤害或24小时过去。一个成功豁免或在战栗后伤害了你的生物将会在24小时内免疫这个效果。
+|source=DRe
+|source_name=遥远国度
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

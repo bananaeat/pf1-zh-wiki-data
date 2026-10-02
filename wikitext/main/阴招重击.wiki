@@ -1,0 +1,12 @@
+{{Feat
+|name=阴招重击
+|english_name=Dirty Critical Hit
+|categories=战斗;重击
+|description=你的重击不但可怕，而且阴毒。
+|prerequisites=智力13，[[重击专攻]]，[[寓守于攻]]；[[精通阴招]]，基础攻击加值+11
+|benefit=每当你确认一次重击时，你都可以在造成伤害时同时对目标施加一个不良效果，如同你成功的对他发动了[[阴招]][[战技]]攻击一样。这样做会让对手正常承受1轮阴招中的一种不良状态（除非你有别的专长或能力给你更多的阴招选择）。
+|special=如果你不拥有[[重击大师]]专长的话，那么每次造成重击时你只能应用一个[[重击专长]]的效果。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

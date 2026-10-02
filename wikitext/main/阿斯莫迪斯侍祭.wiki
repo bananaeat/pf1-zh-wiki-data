@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Hell's Vengeance Player's Guide pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=阿斯莫迪斯侍祭
+|english_name=Asmodean Acolyte
+|type=战役
+|pfs=否
+|description=你在[[阿斯莫迪斯]]教会中长大，一生都是虔诚的信徒。你研读过邪恶的经文，将地狱森严的等级体系牢记于心，并努力效仿黑暗王子，将情感和怜悯从心中剔除。你可能在教会中继续了你的事业，正式成为神职人员，渴望晋升到拥有更高权威和更大权力的位置；也可能你离开了教会，认定祭司的生活不适合你。无论哪种情况，你在教会中接受的教育始终伴随着你。你在[[交涉]]、[[知识]]（位面）和知识（宗教）检定上获得+1背景加值，并且其中一项技能（由你选择）是你的本职技能。你还懂得炼狱语（这不计入你的语言数量）。
+|source_name=Hell's Vengeance Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Asmodean%20Acolyte
+}}

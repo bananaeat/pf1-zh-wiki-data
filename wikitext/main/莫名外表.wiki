@@ -1,0 +1,9 @@
+{{Trait
+|name=莫名外表
+|english_name=Unidentifiable Appeal
+|type=种族
+|prerequisites=[[吸血裔]]（维塔拉裔）
+|description=你的脸显现非自然的对称，这给予你一种特殊的魅力，令人一下子就会被你迷住，却无法指出你的样子。你的易容检定获得+1背景加值，对于那些被你吸引的人，你的交涉检定获得+1背景加值。
+|source_name=夜之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_822.html
+}}

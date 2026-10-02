@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Plane-Hopper's Handbook pg. 3），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=主观平衡
+|english_name=Subjective Equilibrium
+|type=战斗
+|description=你明白在穿越伟大彼岸时，重力远非恒定不变。你在具有主观指向重力的位面上为移动而进行的感知检定获得+2背景加值，并且在这类位面上“坠落”时，你的速度获得+10尺增强加值。
+|source_name=位面旅者手册
+|source=PH'sH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Subjective%20Equilibrium
+}}

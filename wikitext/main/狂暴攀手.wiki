@@ -1,0 +1,8 @@
+{{狂暴之力
+|name=狂暴攀手
+|english_name=Raging Climber
+|type=Ex
+|categories=杂项
+|benefit=当狂暴时，野蛮人可以将他的等级作为增强加值，加到[[技能/攀爬|攀爬]]技能检定上。
+|source_name=核心规则书
+}}

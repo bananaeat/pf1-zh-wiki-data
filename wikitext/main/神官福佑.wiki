@@ -1,0 +1,9 @@
+{{Trait
+|name=神官福佑
+|english_name=Priest-Blessed
+|type=信念
+|description=你是在教会中一位值得信赖的传统牧师的指导下长大，他激励了你并让你明白宗教组织展现出的权威是一种祝福而非束缚，总能让信徒对自己前进的方向充满信心，并能在指引下行动倍感正义。现在，只要受到神圣魔法的帮助就会激发出你的信念，而且你也会发现接纳任何信仰带来魔法和援助都并非难事，能够看出这些不同传统之中的相似之处。每天三次，当你成为一个无害的神术法术的目标时，你可以将该法术的施法者等级提高1级，但仅用于决定它对你本人的效果。
+|source_name=信仰与哲学F&P
+|source=信仰与哲学(Faiths and Philosophies
+|source_url=https://pf1chm.pages.dev/topics/zh01c6dd6ef6.htm
+}}

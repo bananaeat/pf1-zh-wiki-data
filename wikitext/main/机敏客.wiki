@@ -1,0 +1,10 @@
+{{Trait
+|name=机敏客
+|english_name=Elven Reflexes
+|type=种族
+|prerequisites=[[半精灵]]
+|description=你的双亲之一来自野[[精灵]]部落，你也从精灵亲族中遗传到了快速的反应力。你的[[先攻]]检定获得+2背景加值。
+|source_name=种族背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

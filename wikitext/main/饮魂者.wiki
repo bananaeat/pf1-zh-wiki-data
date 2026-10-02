@@ -1,0 +1,9 @@
+{{Trait
+|name=饮魂者
+|english_name=Soul Drinker
+|type=派系
+|description=当你或你的同伴杀死一个敌人时，一种莫名的饥渴感产生于你的体内。每天一次，当一个敌人被杀死之后，你可以用一个[[直觉动作]]，获得等同于被杀死生物生命骰的临时生命值。这些临时生命值持续1分钟。这是一个超自然能力。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

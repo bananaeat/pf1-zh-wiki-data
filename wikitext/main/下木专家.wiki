@@ -1,0 +1,9 @@
+{{Trait
+|name=下木专家
+|english_name=Undergrowth Specialist
+|type=战斗
+|description=你把自己训练得能在下层植物中来去自如。当在穿过稀疏下层植物时，你需要进行的特技检定DC不会增加。而在穿过茂盛下层植物时，你需要进行的特技检定DC只会增加2。
+|source=PotW
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1192.html
+}}

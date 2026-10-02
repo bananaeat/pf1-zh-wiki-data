@@ -1,0 +1,9 @@
+{{Feat
+|name=瞬间炼金
+|english_name=Instant Alchemy
+|description=你可以用不可思议的速度进行简单的炼金工作.
+|prerequisites=工艺（炼金）1级.
+|benefit=当使用自发炼金时，若某件炼金物品的总制作时间不超过10分钟，且你手头备齐了所需的设备和材料，你可以用一个[[标准动作]]制作它。使用自发炼金需要1小时制作的物品，你只需10分钟；需要1天制作的物品，你只需1小时。如果你拥有炼金术职业能力，你可以用一个[[迅捷动作]]而非标准动作，使用工艺（炼金）技能如同使用[[侦测魔法]]一般鉴定药水。
+|source_name=炼金术手册
+|source_url=https://pf1chm.pages.dev/topics/zhde7ac70a6d.htm
+}}

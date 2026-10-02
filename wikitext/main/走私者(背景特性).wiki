@@ -1,0 +1,9 @@
+{{Trait
+|name=走私者
+|english_name=Smuggler
+|type=派系
+|description=不论你是携带违法物品还是单纯管制用品，你都有办法让货物不被发现。你视[[巧手]]技能为[[本职技能]]，并且在用此技能隐藏一件物品时，额外获得+3加值。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

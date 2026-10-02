@@ -1,0 +1,14 @@
+{{魔法物品
+|name=点穴手套
+|english_name=Dianxue Gloves
+|aon=MagicWondrousDisplay.aspx?FinalName=Dianxue Gloves
+|cat=奇物
+|aura=微弱预言系
+|cl=5
+|slot=手部
+|price=3,000 gp
+|description=这副手套据信由著名的针灸推广者宋白的弟子们研发而成，赋予穿戴者治疗——以及伤害——活物的高超技艺。点穴手套的穿戴者在对活着的类人生物进行急救、长期护理和治疗严重伤害的医疗检定上获得+4表现加值。此外，穿戴者在用[[徒手打击]]或天生武器对活着的类人生物确认重击的检定上获得+2表现加值。
+|req=[[制造奇物]]、[[关照术]]、[[克敌机先]]，制造者必须拥有5级[[医疗]]
+|cost=1,500 gp
+|source=商人货单
+}}

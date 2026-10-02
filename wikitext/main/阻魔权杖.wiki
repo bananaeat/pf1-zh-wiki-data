@@ -1,0 +1,13 @@
+{{魔法物品
+|name=阻魔权杖
+|english_name=Rod of Foiled Magic
+|aon=MagicCursedDisplay.aspx?ItemName=Rod of Foiled Magic
+|cat=诅咒物品
+|aura=强烈（无学派）
+|cl=17
+|slot=无
+|weight=5磅
+|description=这根权杖的外观与超魔权杖相似。生物一旦拿起这样一根权杖，除非使用[[移除诅咒]]法术或类似魔法，否则无法将它丢弃。持用者每次施展法术时，都会把阻魔权杖握在手中，并将该法术的施法者等级视为降低2级。如果这会使施法者等级降至0级或更低，则施法者只有50%的概率施展成功（任何奥术法术失败率都累加到这一百分比概率上）；但若他能够施展出该法术，该法术的施法者等级为1级。
+|req=任意超魔权杖
+|source=极限宝具
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=永恒迷雾斗篷
+|english_name=Cloak of Eternal Mist
+|aon=MagicWondrousDisplay.aspx?FinalName=Cloak of Eternal Mist
+|cat=奇物
+|aura=微弱咒法系
+|cl=3
+|slot=肩部
+|price=3,600 gp
+|weight=1磅
+|description=凉爽潮湿的薄雾不断从这件宽大飘荡、长及地面的斗篷下涌出。斗篷的穿戴者在雾或薄雾中的隐匿检定获得+4加值。此外，就种族对水的依赖而言，斗篷的穿戴者视为浸没在水中。如果斗篷的穿戴者在某一轮中没有移动（也没有以其他方式被移动，例如身处行驶中的船或马车上，或被成功的[[冲撞]]战技推动），她会在自己的回合结束时获得[[隐蔽]]。隐蔽会一直持续到穿戴者离开所在位置为止。
+|req=[[制造奇物]]、[[造水术]]、[[隐雾术]]
+|cost=1,800 gp
+|source=海洋血脉
+}}

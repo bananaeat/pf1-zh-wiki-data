@@ -1,0 +1,10 @@
+{{Feat
+|name=灵感打击
+|english_name=Inspired Strike
+|description=你神奇的灵感并不只能用来纸上谈兵——它也能重创你的对手。
+|prerequisites=调查员战斗策略职业能力
+|benefit=每当你在对目标展开战斗策略时对一个生物造成了伤害，你都可以消耗1点灵感点数，造成相当于你的灵感骰结果的额外伤害。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=高等锈蚀手套
+|english_name=Gauntlet of Rust (Greater)
+|aon=MagicWondrousDisplay.aspx?FinalName=Gauntlet of Rust (Greater)
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=手部
+|price=34,500 gp
+|weight=1磅
+|description=这件物品与[[锈蚀手套]]完全相同，只是穿戴者每日可以使用[[锈蚀爪]]3次。
+|req=[[制造奇物]]、[[锈蚀爪]]
+|cost=17,250 gp
+|source=极限宝具
+}}

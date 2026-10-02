@@ -1,0 +1,17 @@
+{{魔法物品
+|name=箭师护腕
+|english_name=Arrowmaster's Bracers
+|aon=MagicWondrousDisplay.aspx?FinalName=Arrowmaster's Bracers
+|cat=奇物
+|aura=微弱防护系
+|cl=5
+|slot=腕部
+|price=13,900 gp
+|weight=1磅
+|description=这对简单的皮制射击护腕，是为保护穿戴者的手腕不被弓弦反弹所伤而设计的。它们与神射护腕的外观很相似，但穿戴者一戴上就会察觉到其中的区别。
+
+穿戴者对远程武器获得DR 5/魔法，并且对抗远程攻击获得+1偏斜AC加值。此外，每天一次，穿戴者可以一个[[迅捷动作]]，让自己在下个回合结束前的下一次远程攻击检定获得+20洞察加值。
+|req=[[制造奇物]]、[[制造魔法武器和防具]]、[[防护箭矢]]、[[克敌机先]]
+|cost=6,950 gp
+|source=极限宝具
+}}

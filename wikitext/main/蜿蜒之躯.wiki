@@ -1,0 +1,11 @@
+{{Feat
+|name=蜿蜒之躯
+|english_name=Serpentine Compression
+|pfs=否
+|description=你的条状的身体结构与极为滑腻的鳞片可以使你轻易钻过狭窄的空间
+|prerequisites=蛇人
+|benefit=你获得压缩通用怪物能力，这使你在通过大小只有你身体四分之一程度的狭窄空间时无需尝试挤过去，或是可以尝试挤过只有你身体八分之一程度的狭窄空间。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1414.html
+}}

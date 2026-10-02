@@ -1,0 +1,7 @@
+{{物品
+|name=剧院
+|english_name=The Theater
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。下次抽牌者击败一个生物时，他在该生物最高属性的同一属性上获得+2加值。
+}}

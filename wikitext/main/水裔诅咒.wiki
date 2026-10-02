@@ -1,0 +1,16 @@
+{{Spell
+|name=水裔诅咒
+|english_name=Undine's curse
+|school=死灵系
+|tags=邪恶;诅咒
+|levels=奥能师 1;女巫 1;术士 1;法师 1
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一个生物
+|duration=1小时/等级
+|save=意志，通过则无效
+|sr=是
+|description=目标的身体失去自动呼吸的本能。只要目标保持清醒并且能够行动，那么他就可以正常呼吸。但是如果他[[失去意识]] （包括睡觉） 或无法行动，那么他就会停止呼吸，必须屏住呼吸，并可能开始[[环境规则#窒息|窒息]]。不需要呼吸的生物免疫该法术。
+|source=进阶种族手册
+}}

@@ -1,0 +1,12 @@
+{{Feat
+|name=圆月刀狂舞
+|english_name=Crescent Blade Dervish
+|aon=无
+|categories=技巧
+|description=在激烈的战斗中，你的圆月刀在闪亮的死亡弧线上旋转着，远超过眼睛能跟上的速度。
+|prerequisites=敏捷 13，智力13，[[寓守于攻]]，异种武器擅长（圆月刀），BAB+2。
+|benefit=当你使用圆月刀并威胁三个或更多的对手时，你获得一次使用最高基本攻击加值的额外攻击。（有关圆月刀的详细讯息，请参阅第20页。）
+|special=你可以使用圆月刀狂舞结合[[旋风攻击]]专长。在这种情况下，你可以攻击你威胁的每个敌人，并且你选择一名敌人进行第二次攻击。
+|source_name=其他职业
+|source_url=https://pf1chm.pages.dev/topics/page_1210.html
+}}

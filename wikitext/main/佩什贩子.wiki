@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Fire Player's Guide pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=佩什贩子
+|english_name=Pesh Dealer
+|type=地区
+|prerequisites=卡塔佩什
+|description=你曾替一名佩什贩子做事，要么在街头兜售这种毒品，要么帮忙组织运往其他地区的货物，其中难免涉及一些走私。你的[[巧手]]检定获得+1背景加值，并且巧手永远是你的本职技能。
+|source_name=烈焰传承玩家手册
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Pesh%20Dealer
+}}

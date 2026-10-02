@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=读心|en=Read Minds|type=Su|domain=知识领域|sub=思想子域 (Thought)|sub_name=思想子域|source=进阶玩家指南|text=到了8级，你可以如同施放了[[侦测思想]]一般，阅读30尺内每个生物的心灵。你阅读表层思想需要专注1轮，生物可通过DC为“10+1/2牧师等级+你[[感知]]调整值”的意志豁免来使之无效。每天可用的轮数等于牧师等级，不需连续。此能力替换[[知识领域#远处观察 (Remote Viewing, Sp)|远处观察]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

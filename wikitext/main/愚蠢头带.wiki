@@ -1,0 +1,13 @@
+{{魔法物品
+|name=愚蠢头带
+|english_name=Headband of Stupidity
+|aon=MagicCursedDisplay.aspx?ItemName=Headband of Stupidity
+|cat=诅咒物品
+|aura=强烈变化系
+|cl=8
+|slot=头饰
+|weight=1磅
+|description=这条头带看起来像是+4[[无匹智力头带]]，但它不但不给予+4智力加值和相关技能的加值，反而让穿戴者的智力承受-4减值，并在所有知识检定上再承受-2减值。穿戴者察觉不到头带的这些削弱效果；在他戴着头带的时候，即使是最愚蠢的言论或误入歧途的见解，在他看来也显得很聪明。
+|req=+4[[无匹智力头带]]
+|source=极限宝具
+}}

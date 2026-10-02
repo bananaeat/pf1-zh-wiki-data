@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[灵狐步 (神话)]]。</small></div>
+{{Feat
+|name=灵狐步
+|english_name=Nimble Moves
+|description=你能够轻松越过单独的障碍。
+|prerequisites=敏捷13。
+|benefit=当你移动时，你每轮可以像正常地形般穿越5尺的[[困难地形]]。本专长允许你使用五尺快步进入困难地形。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''制造需求'''：[[大剑师之证]]（1 件物品）
+
+'''先决条件'''：[[一苇渡江]]、[[凌波微步]]、[[废墟散兵]]、[[精通跳跃攻击]]、[[高等跳跃攻击]]（5 个条目）

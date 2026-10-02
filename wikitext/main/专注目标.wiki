@@ -1,0 +1,11 @@
+{{Feat
+|name=专注目标
+|english_name=Focused Target
+|categories=战斗
+|description=你把全部精力都投入到杀死你选择的目标上。
+|prerequisites=杀戮目标ACG职业特性(第二杀戮目标)
+|benefit=当你研究一个目标时，你可以减少在一次研究中能额外研究的目标的数量。你以这种方式每减少一个目标，你的杀戮目标能力对于攻击骰/伤害骰/技能检定/能力DC提供的加值增加1。每个增加必须应用到一个不同的类别(攻击骰，伤害骰，技能检定或DC)。你能以一个自由动作结束这个专长的效果。
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh03ef2e8763.htm
+}}

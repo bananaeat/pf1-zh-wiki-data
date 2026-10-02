@@ -1,0 +1,15 @@
+{{魔法物品
+|name=舒适魔毯
+|english_name=Carpet of Comfort
+|aon=MagicWondrousDisplay.aspx?FinalName=Carpet of Comfort
+|cat=奇物
+|aura=中等变化系
+|cl=10
+|slot=无
+|price=90,000 gp
+|weight=15磅
+|description=这种特殊的[[飞天魔毯]]的尺寸总是10尺×10尺。舒适魔毯飞行时，乘客不会受到风势或极端温度的影响，如同身处[[避难小屋]]之中（只是不会形成不透明、不可移动的球体）。此外，每日一次，当舒适魔毯放在地面上时，可以通过一个命令字把它变成一顶奢华的丝绸[[帐篷]]，除外观以外，它与[[庇护所]]法术的效果相同。
+|req=[[制造奇物]]、[[翱翔天际]]、[[庇护所]]、[[避难小屋]]
+|cost=45,000 gp
+|source=沙之子民
+}}

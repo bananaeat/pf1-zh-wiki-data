@@ -1,0 +1,23 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[信仰之火 (神话)]]。</small></div>
+{{Spell
+|name=信仰之火
+|english_name=Flames of the faithful
+|school=变化系
+|tags=火
+|levels=审判者 2
+|action=标准动作
+|components=语言
+|range=接触
+|target=接触到的武器
+|duration=1轮/等级
+|save=强韧，通过则无效（物体，无害）
+|sr=是（物体，无害）
+|description=随着你的接触，你让武器上显现出一枚燃烧的符文，使得武器视同一把火焰武器 （成功命中会造成1d6火焰伤害）。如果你正使用一个审判效果，你的武器则转而被视作焰爆。
+
+这个法术只对你正持有的武器生效。如果武器因任何原因离开了你的手，法术效果结束。
+
+如果武器本身已经拥有火焰或焰爆属性，本法术的效果不与之叠加。
+|source=进阶玩家指南
+}}
+
+{{FAQ|v5748eaic9nan}}

@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Ruins of Azlant Player's Guide pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=身强体健
+|english_name=Healthy
+|type=战役
+|pfs=否
+|description=你出身于一个健壮长寿的家族。成长过程中，你很少生病，精力充沛，只要愿意就能跑上一整天。你不像别人那样容易疲倦，重复的体力活动似乎也不怎么困扰你。你之所以被选入远征队，是因为丰饶冒险公司认为你强健的体魄意义重大、大有可为。
+
+你在强韧豁免、为避免连续游泳超过1小时后因疲劳而受到非致命伤害而进行的[[游泳]]检定，以及为避免[[疲乏]]而进行的体质检定上获得+1背景加值。此外，你可以屏住呼吸的轮数等于你体质值的3倍。
+|source_name=Ruins of Azlant Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Healthy
+}}

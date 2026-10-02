@@ -1,0 +1,157 @@
+{{速查导航}}
+<div class="well" style="margin:.2em 0"><small>神话版本见 [[神话绿龙]]（《[[神话冒险]]》）。</small></div>
+{{怪物
+|name=少年绿龙
+|english_name=Chromatic Dragon, Green
+|cr=8
+|xp=4,800
+|alignment=守序邪恶
+|size=大型
+|type=龙类
+|subtypes=气系
+|init=+1
+|senses=龙感 dragon senses；觉察 察觉 +15
+|description=性格凶猛残暴，翡翠色鳞片刀剑难伤。巨龙满口利齿，巨口上方鼻部生出一支独角，锋利非凡。
+|ac=20，接触 touch 10，措手不及 flat–footed 19（+1 敏捷，+10 天生 natural，–1 体型）
+|hp=85（9d12 +27）
+|fort=+9
+|ref=+7
+|will=+9
+|immune=酸蚀 acid;麻痹 paralysis;睡眠 sleep
+|speed=40 尺，飞行 fly 200 尺（不良 poor），游泳 40 尺
+|melee=啮咬 bite +13（2d6 +7），2 爪抓 claws +13（1d8 +5），2 翼拍 wings +8（1d6 +2），尾拍 tail slap +8（1d8 +7）
+|space=10 尺
+|reach=5 尺（10 尺 啮咬时 with bite）
+|special_attacks=[[通用怪物规则#喷吐武器|喷吐武器]]（40–尺 锥形 cone, DC 17，6d6 酸蚀 acid）
+|spell_like=（施法者等级 CL 9th）；随意施展—[[纠缠术]] entangle（DC 12）
+|str=21
+|dex=12
+|con=17
+|int=12
+|wis=13
+|cha=12
+|bab=+9
+|cmb=+15
+|cmd=26（30 对摔绊 vs. trip）
+|feats=[[警觉]];[[顺势斩]];[[大顺势斩|强力顺势斩]];[[钢铁意志]];[[猛力攻击]]
+|skills=[[飞行]] Fly +7;[[知识]]（自然）Knowledge+13;[[察觉|觉察]] 察觉 +15;[[法术辨识]] Spellcraft +13;[[隐匿]] Stealth +9;[[生存]] Survival +13;[[游泳]] +25
+|languages=通用语 Common;龙语 Draconic
+|sq=水中呼吸 water breathing;穿林步 woodland stride
+|environment=温带森林
+|organization=单独
+|treasure=三倍
+|special_abilities={{怪物能力|唤起树人|Su|太古龙可以召唤森林的帮助，活化一定数量的树木如同树人 treants 一样保护自己。这些树人可以由任何超大或以上的存活树木召唤而来。绿龙能够以一个标准动作创造一个树人，每日最多 4 个。这些树人保持活化状态最多 1 小时，之后恢复为普通树木。}}
+{{怪物能力|伪装|Ex|老年开始，绿龙可以使用隐匿技能躲藏在任何种类的自然地形中，即使该地形不提供任何掩蔽或隐蔽。}}
+{{怪物能力|恶瘴|Su|古龙开始，绿龙可以使用喷吐武器创造出一团酸云，这是一个标准动作，酸云会对所有范围内的生物造成伤害。酸云随龙移动，范围半径 20 尺。当创造酸云时，任何位于此区域内的生物受到等于龙的喷吐武器一半的伤害值，反射减半。伤害骰数每轮减半，直到结果小于 1d6。任何生物若在其行动回合开始时位于云内，则受到伤害，但可反射减半。一阵强风，例如造风术 a gust of wind 所创造的结果，能够在一轮时间驱散酸云。}}
+{{怪物能力|类法术能力|Sp|绿龙获得下列类法术能力，在达到对应的年龄层后可以随意使用。少年 Young—纠缠术 entangle；青少年 Juvenile—魅惑人类 charm person；成年 Adult—暗示术 suggestion；老年 Old—植物滋长 plant growth；古龙 Ancient—支配人类 dominate person；太古 Great wyrm—命令植物 command plants。}}
+{{怪物能力|无踪步|Ex|成年开始，绿龙在自然环境中不会留下任何踪迹，因而无法被追踪。当然，绿龙如果希望的话也可以选择留下踪迹。}}
+{{怪物能力|水中呼吸|Ex|绿龙可以无限期地在水中呼吸，而且在潜水时可以自由地使用其喷吐武器，法术及其他能力。}}
+{{怪物能力|穿林步|Ex|幼龙开始，绿龙可以用正常速度通过任何矮树丛而不受伤害或者其他损失。但是用魔法生成的这类地形还是会阻碍其行动。}}
+|source=怪物图鉴
+|nofooter=1
+}}
+{{怪物
+|name=成年绿龙
+|english_name=Adult Green Dragon
+|cr=12
+|xp=19,200
+|alignment=守序邪恶
+|size=超大型
+|type=龙类
+|subtypes=气系
+|init=+0
+|senses=龙感 dragon senses；觉察 察觉 +25
+|aura=凶威 frightful presence（180 尺，DC 20）
+|ac=27，接触 touch 8，措手不及 flat–footed 27（+19 天生 natural，–2 体型）
+|hp=172（15d12 +75）
+|fort=+14
+|ref=+9
+|will=+14
+|dr=5/魔法 magic
+|immune=酸蚀 acid;麻痹 paralysis;睡眠 sleep
+|sr=23
+|speed=40 尺，飞行 fly 200 尺（不良 poor），游泳 40 尺
+|melee=啮咬 bite +21（2d8 +12/19–20），2 爪抓 claws +21（2d6 +8/19–20），2 翼拍 wings +16（1d8 +4），尾拍 tail slap +16（2d6 +12）
+|space=15 尺
+|reach=10 尺（15 尺 啮咬时 with bite）
+|special_attacks=[[通用怪物规则#喷吐武器|喷吐武器]]（50–尺 锥形 cone, DC 22，12d6 酸蚀 acid），碾压 crush（小型生物 Small creatures, DC 22，2d8 +12）
+|spell_like=（CL 15th）；随意施展—[[魅惑人类]] charm person（DC 14），[[纠缠术]] entangle（DC 14），[[暗示术]] suggestion（DC 16）
+|spells=已知法术（CL 5th）；2nd（5/天）—[[变身术]] alter self，[[镜影术]] mirror image；1st（7/天）—[[护盾术]] shield，[[无声幻影]] silent image（DC 14），一级召唤怪物术 summon monster I，[[腹语术]] ventriloquism（DC 14）；0（随意施展）—[[舞光术]] dancing lights，[[侦测魔法]] detect magic，[[幻音术]] ghost sound，[[法师之手]] mage hand，[[传讯术]] message，[[魔法伎俩]] prestidigitation
+|str=27
+|dex=10
+|con=21
+|int=16
+|wis=17
+|cha=16
+|bab=+15
+|cmb=+25
+|cmd=35（39 对摔绊 vs. trip）
+|feats=[[警觉]];[[顺势斩]];[[飞越攻击|飞跃攻击]];[[大顺势斩|强力顺势斩]];[[精通重击]]（啮咬，爪抓）Improved Critical;[[钢铁意志]];[[猛力攻击]]
+|skills=[[飞行]] Fly +10;[[知识]]（奥秘）Knowledge+21;[[知识]]（自然）Knowledge+21;[[察觉|觉察]] 察觉 +25;[[法术辨识]] Spellcraft +21;[[隐匿]] Stealth +10;[[生存]] Survival +21;[[游泳]] +34;[[使用魔法装置]] Use Magic Device +21
+|languages=通用语 Common;龙语 Draconic;精灵语 Elven;木族语 Sylvan
+|sq=无踪步 trackless step;水中呼吸 water breathing;穿林步 woodland stride
+|environment=温带森林
+|organization=单独
+|treasure=三倍
+|source=怪物图鉴
+|nofooter=1
+}}
+{{怪物
+|name=古绿龙
+|english_name=Ancient Green Dragon
+|cr=17
+|xp=102,400
+|alignment=守序邪恶
+|size=巨型
+|type=龙类
+|subtypes=气系
+|init=–1
+|senses=龙感 dragon senses；觉察 察觉 +35
+|aura=凶威 frightful presence（300 尺，DC 26）
+|ac=36，接触 touch 5，措手不及 flat–footed 36（–1 敏捷，+31 天生 natural，–4 体型）
+|hp=310（23d12 +161）
+|fort=+20
+|ref=+12
+|will=+20
+|dr=15/魔法
+|immune=酸蚀 acid;麻痹 paralysis;睡眠 sleep
+|sr=28
+|speed=40 尺，飞行 fly 250 尺（笨拙 clumsy），游泳 40 尺
+|melee=啮咬 bite +31（4d6 +18/19–20），2 爪抓 claws +31（2d8 +12/19–20），2 翼拍 wings +29（2d6 +6），尾拍 tail slap +29（2d8 +18）
+|space=20 尺
+|reach=15 尺（20 尺 啮咬时 with bite）
+|special_attacks=[[通用怪物规则#喷吐武器|喷吐武器]]（60 尺 锥形 cone, DC 28，20d6 酸蚀 acid），碾压 crush（中体型生物 Medium creatures, DC 28，4d6 +18），恶瘴 miasma，尾扫 tail sweep
+|spell_like=（CL 23rd）；随意施展—[[魅惑人类]] charm person（DC 16），[[支配人类]] dominate person（DC 20），[[纠缠术]] entangle（DC 16），[[植物滋长]] plant growth，[[暗示术]] suggestion（DC 18）
+|spells=已知法术（CL 13th）；6th（4/天）—[[解离术]] disintegrate（DC 21），[[真知术]] true seeing；5th（7/天）—[[变形术]] polymorph，五级召唤怪物术 summon monster V，[[传送术]] teleport；4th（7/天）—[[任意门]] dimension door，[[冰风暴]] ice storm，[[探知]]术 scrying（DC 19），[[石肤术]] stoneskin；3rd（7/天）—[[解除魔法]] dispel magic，[[移位术]] displacement，[[火球术]] fireball（DC 18），[[加速术]] haste；2nd（7/天）—[[变身术]] alter self，[[侦测思想]] detect thoughts（DC 17），[[物品定位术]] locate object，[[镜影术]] mirror image，[[识破隐形]] see invisibility；1st（7/天）—[[魔法飞弹]] magic missile，[[护盾术]] shield，[[无声幻影]] silent image（DC 16），一级召唤怪物术 summon monster I，[[腹语术]] ventriloquism（DC 16）；0（随意施展）—[[舞光术]] dancing lights，[[侦测魔法]] detect magic，[[幻音术]] ghost sound，[[法师之手]] mage hand，[[传讯术]] message，[[魔法伎俩]] prestidigitation
+|str=35
+|dex=8
+|con=25
+|int=20
+|wis=21
+|cha=20
+|bab=+23
+|cmb=+39
+|cmd=48（52 对摔绊 vs. trip）
+|feats=[[警觉]];[[流血重击|重击流血]];[[顺势斩]];[[重击专攻]];[[飞越攻击|飞跃攻击]];[[大顺势斩|强力顺势斩]];[[精通重击]]（啮咬、爪抓）Improved Critical;[[精通击破|精通击破武器]];[[钢铁意志]];[[多重攻击]];[[猛力攻击]]
+|skills=[[飞行]] Fly +9;[[知识]]（奥秘）Knowledge+31;[[知识]]（本地）Knowledge+31;[[知识]]（自然）Knowledge+31;[[知识]]（位面）Knowledge+31;[[察觉|觉察]] 察觉 +35;[[法术辨识]] Spellcraft +31;[[隐匿]] Stealth +13;[[生存]] Survival +31;[[游泳]] +46;[[使用魔法装置]] Use Magic Device +31
+|languages=深渊语 Abyssal;通用语 Common;龙语 Draconic;精灵语 Elven;巨人语 Giant;木族语 Sylvan
+|sq=伪装 camouflage;无踪步 trackless step;水中呼吸 water breathing;穿林步 woodland stride
+|environment=温带森林
+|organization=单独
+|treasure=三倍
+|source=怪物图鉴
+|family=龙类绪论
+|lore=
+绿龙居住在世界上最古老的密林中，在树木枝桠交织成的穹盖下四处觅食。在所有的彩色龙之中，或许绿龙是最容易通过交涉解决问题的。
+
+=== 基值数据 ===
+
+* CR 4；体型 小型；HD 5d12
+* 速度 40 尺，游泳 40 尺
+* 天生护甲 +4；喷吐武器 锥形，2d6 酸蚀
+* 力量 13，敏捷 14，体质 13，智力 10，感知 11，魅力 10
+
+<div class="monster-table-wrap"><table class="wikitable"><tr><th>年龄层</th><th>特殊能力</th><th>施法者等级</th></tr><tr><td>雏龙 Wyrmling</td><td>酸蚀免疫，水中呼吸</td><td>–</td></tr><tr><td>幼龙 Very young</td><td>穿林步</td><td>–</td></tr><tr><td>少年 Young</td><td>[[纠缠术]]</td><td>–</td></tr><tr><td>青少年 Juvenile</td><td>凶威，魅惑人类</td><td>1 级</td></tr><tr><td>青年 Young adult</td><td>DR 5/魔法，法术抗力</td><td>3 级</td></tr><tr><td>成年 Adult</td><td>无踪步，[[暗示术]]</td><td>5 级</td></tr><tr><td>壮年 Mature</td><td>DR 10/魔法</td><td>7 级</td></tr><tr><td>老年 Old</td><td>伪装，植物滋长</td><td>9 级</td></tr><tr><td>极老 Very old</td><td>DR 15/魔法</td><td>11 级</td></tr><tr><td>古龙 Ancient</td><td>恶瘴，支配人类</td><td>13 级</td></tr><tr><td>上古龙 Wyrm</td><td>DR 20/魔法</td><td>15 级</td></tr><tr><td>太古龙 Great wyrm</td><td>唤起树人，[[命令植物]]</td><td>17 级</td></tr></table></div>
+}}
+
+本页译自《[[怪物图鉴]]》的怪物图鉴 CHM。

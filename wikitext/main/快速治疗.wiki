@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''快速治疗'''（Fast Healing）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：HP</span></div>
+</noinclude><includeonly><div class="lang"><span id="快速治疗"></span><div class="lang-h"><b>[[快速治疗]]</b><i>Fast Healing</i><span class="lang-w">Ex · HP</span></div><div class="lang-d"></includeonly>
+具有快速治疗特性的生物能够以不寻常的速度恢复 HP，通常每轮恢复 1 点或多点，该数值在生物说明中给出。除非下文另有说明，否则快速治疗的效果和自然治愈没有区别。快速治疗无法恢复由饥饿、口渴、窒息引起的 HP 减少，也不能够让生物重新长出失去的肢体部位。除非特别说明，它亦不能使断落的肢体部位重新接在一起。快速治疗会持续生效（即使 HP 为负值）直到生物死亡，生物死亡时该效果立即结束。
+
+'''格式'''：快速治疗 5
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Fast Healing|2=Fast Healing}}
+
+[[分类:通用怪物规则]]</noinclude>

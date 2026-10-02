@@ -1,0 +1,13 @@
+{{消歧义|空门大开(侠客天赋)}}
+{{Feat
+|name=空门大开
+|english_name=Open Up
+|categories=战斗;团队
+|description=你拨开敌人的盾牌，打开目标的空门使得盟友可以长驱直入。
+|prerequisites=智力13，[[寓守于攻]]
+|benefit=当你成功使用协助他人动作，为一个同样拥有本专长的盟友针对某个对手的下一次攻击检定提供协助时，该次攻击同时会忽视对手盾牌给予的AC加值。这种效果只对物理盾牌有效，对法术或其它资源给予的盾牌AC加值无效。
+|special=若你和盟友同时拥有[[掠阵搭档]][[团队专长]]，盟友直到你下一回合开始前所有对目标的攻击都会忽视由盾牌给予的AC加值。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}

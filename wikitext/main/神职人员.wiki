@@ -1,0 +1,9 @@
+{{Trait
+|name=神职人员
+|english_name=Clergy Member
+|type=种族
+|prerequisites=[[神裔]]
+|description=你有着特定的信仰，同时你的宗教领袖将你视为神祇的使者。无论你到达你所信奉神祇的哪座神庙，都会受到尊重与礼遇。当你与你的信仰所属的神职人员进行交流时，交涉检定获得+1背景加值。每周1次，你能够向你的信仰的神庙寻求帮助。GM有权最终决定你能通过合理的要求获得何种帮助，但是在一般情况下，你可以请求对方施放1个1级法术，或索取一件价值不超过50gp的非魔法物品。
+|source_name=天界血脉
+|source_url=https://pf1chm.pages.dev/topics/page_830.html
+}}

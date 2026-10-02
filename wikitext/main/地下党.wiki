@@ -1,0 +1,11 @@
+{{Trait
+|name=地下党
+|english_name=Under Siege
+|type=宗教
+|prerequisites=信仰[[塞恩蕾]]
+|description=在塔尔多，为了维护你对塞恩蕾的信仰以及为了生存，你和你的教友发明了一套基于手语和面部表情的复杂系统来鉴别一个人是否忠于晨花。
+
+你将在[[唬骗]]和察言观色检定上获得+1的背景加值。其中一个技能（由你选择）将会被视为你的本职技能。
+|source_name=塔尔多，荣光荡漾之地
+|source_url=https://pf1chm.pages.dev/topics/page_938.html
+}}

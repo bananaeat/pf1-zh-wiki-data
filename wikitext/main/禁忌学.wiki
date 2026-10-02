@@ -1,0 +1,10 @@
+{{Trait
+|name=禁忌学
+|english_name=Forbidden Knowledge
+|type=地区
+|prerequisites=盖布
+|description=幼时你得到了一册血字笔记，它是现在已被遗忘的血领主所著。根据该册子，你学到了许多关于异界不死生物的信息，并在它的影响下产生了许多可怕的思想。每当你准备进行一次知识(位面)检定时，可以用知识(历史)检定或知识(宗教)检定代替。
+|source_name=地区背景
+|source=USH
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

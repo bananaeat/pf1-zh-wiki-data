@@ -1,0 +1,9 @@
+{{物品
+|name=精制品盾钮
+|english_name=Masterwork Boss
+|price=+50gp
+|weight=-磅
+|description=任何上述盾钮包括最普通的加固盾钮都可以制做精制品版本。精制品版本的盾钮可以提高盾牌当前和最大血量15点而非通常的10点，并且不会额外增加攻击减值。
+|source=MTT
+|source_name=近战战术工具箱
+}}

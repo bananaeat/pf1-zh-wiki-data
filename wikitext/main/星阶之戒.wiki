@@ -1,0 +1,14 @@
+{{魔法物品
+|name=星阶之戒
+|english_name=Ring of Stairs and Stars
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Stairs and Stars
+|cat=戒指
+|aura=微弱塑能系、幻术系、变化系
+|cl=3
+|slot=戒指
+|price=3,820 gp
+|description=这枚深蓝色[[魔法物品#戒指|戒指]]的外侧环绕着一圈阶梯状排列的星星图案。除了具有羽落术戒指的效用之外，星阶之戒还让穿戴者每天可以使用1次[[魔法飞弹]]，飞弹的形状是一颗颗流星。以一个[[标准动作]]，穿戴者可以创造一只幻象蝴蝶，它在穿戴者所在的方格内飞舞1分钟后消散。
+|req=[[锻造戒指]]、[[羽落术]]、[[魔法飞弹]]、[[无声幻影]]
+|cost=1,910 gp
+|source=内海诸神
+}}

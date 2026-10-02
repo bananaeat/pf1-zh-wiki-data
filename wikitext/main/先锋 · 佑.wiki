@@ -1,0 +1,11 @@
+{{Feat
+|name=先锋 · 佑
+|english_name=Vanguard Hustle
+|categories=战斗
+|description=你能够保护远处的盟友。
+|prerequisites=敏捷13，[[保镖]]APG，[[战斗戒备]]APG，[[战斗反射]]，[[灵活移动]]，[[盾牌掩护]]APG，[[先锋流]]，[[先锋 · 盾|先锋·盾]]，擅长轻盾或重盾
+|benefit=在使用[[盾牌掩护]]专长时，将盾牌增强加值的一半加到盾牌掩护提供的盾牌AC加值上。开启[[先锋流]]后，当你通过[[战斗戒备]]专长增加你的威胁范围，只要你使用先锋流所保护的盟友在你的威胁范围内，他就获得先锋流的加值；并且只要你威胁范围内一个盟友成为一次攻击的目标，你就可以使用保镖，盾牌掩护和先锋流来保护他。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_361.html
+}}

@@ -1,0 +1,17 @@
+{{魔法物品
+|name=庇护灌木
+|english_name=Sheltershrub
+|aon=MagicPlantsDisplay.aspx?FinalName=Sheltershrub
+|cat=魔法植物
+|aura=微弱防护系
+|cl=1
+|slot=无
+|price=12,000 gp
+|weight=50磅
+|description=这种枝叶繁茂的红色或蓝色灌木可以长到6尺高。它结出小小的、蓝色的、甜得发腻的浆果。吃下浆果会产生与忍受环境相同的效果。如果在前一颗浆果的效果消退之前再吃一颗，则它不会产生效果。
+
+一丛庇护灌木在其两个生长季（夏季和冬季，各为期13周）内每天产出6枚浆果。一丛灌木同一时间最多有50枚浆果。
+|req=[[奇植培育]]、[[忍受环境]]，培育者在知识（自然）上至少有1级
+|cost=6,000 gp
+|source=极限荒野
+}}

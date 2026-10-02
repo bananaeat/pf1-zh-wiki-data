@@ -1,0 +1,20 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[火焰刀 (神话)]]。</small></div>
+{{Spell
+|name=火焰刀
+|english_name=Flame Blade
+|school=塑能系
+|tags=火
+|domains=闪电子域 2
+|levels=德鲁伊 2;猎人 2;萨满 2
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=0尺
+|effect=剑形光束
+|duration=1分钟/等级 (可解消)
+|save=无
+|sr=是
+|description=从你的手中喷射出一道三尺长，赤热的火焰光束。你能像持握着[[弯刀]] 一样挥舞这道刃状光束。使用火焰刀攻击是近战[[接触攻击]]。它造成 {1d8+1/2CL (最高+10)} 点火焰伤害。由于这把刀是非物质的，因此你的力量修正无法用于影响它的伤害。火焰刀可以引燃易燃材料，例如羊皮纸、稻草、干柴，以及衣服。
+|source=核心规则书
+}}
+
+{{FAQ|old-05}}

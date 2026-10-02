@@ -1,0 +1,16 @@
+{{Spell
+|name=群体祥瑞之助
+|english_name=Blessing of luck and resolve, mass
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=圣武士 4;先知 6;审判者 6;战斗祭司 6;牧师 6
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=每级1个生物，每相邻两个目标之间距离不超过30尺
+|duration=1分钟/等级 (可解消)，特殊情况见后文
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=这个法术如同‘祥瑞之祝’一般发生作用，只不过作用于群体。
+|source=进阶种族手册
+}}

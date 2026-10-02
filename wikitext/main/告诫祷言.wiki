@@ -1,0 +1,16 @@
+{{Spell
+|name=告诫祷言
+|english_name=litany of admonition
+|school=死灵系
+|tags=依赖语言
+|levels=反圣武士 3;圣武士 3;审判者 4
+|action=迅捷动作
+|components=语言;姿势;圣徽
+|range=近距（25英尺+5英尺/2等级）
+|target=一个生物
+|duration=1轮
+|save=强韧，通过则无效
+|sr=是
+|description=你指出目标的错误和失败，使目标[[恍惚]]1轮。当受此法术影响时，目标不能成为名称中带有“祷言”字样的其他法术的目标。
+|source=门徒教义
+}}

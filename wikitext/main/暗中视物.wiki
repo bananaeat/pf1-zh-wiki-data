@@ -1,0 +1,11 @@
+<noinclude>{{催眠师导航}}
+'''暗中视物'''（See in Darkness）是[[催眠师]]的[[催眠师诡计|催眠师诡计]]。
+
+</noinclude>{{AI翻译|nocat=1|本段由 AI 照 AoN 英文原文译出，CHM 汉化里没有这段译文，未经人工校对。}}
+{{Source|异能国度|Occult Realms|inline}} 受术者获得60尺[[黑暗视觉]]，持续1分钟。当受术者进入黑暗区域时，催眠师可以触发这项诡计。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_306.html 原文]），按 AoN 核对过。全部催眠师诡计见 [[催眠师诡计]]。
+
+[[分类:催眠师诡计]]
+
+{{职业}}</noinclude>

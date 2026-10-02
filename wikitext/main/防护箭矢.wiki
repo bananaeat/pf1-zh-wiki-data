@@ -1,0 +1,16 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[防护箭矢 (神话)]]。</small></div>
+{{Spell
+|name=防护箭矢
+|english_name=Protection from Arrows
+|school=防护系
+|levels=召唤师 2;召唤师（掉链） 2;唤魂师 2;奥能师 2;异能者 2;术士 2;法师 2;炼金术师 2;血脉狂怒者 2;调查员 2
+|action=标准动作
+|components=语言;姿势;法器（一片龟甲或龟壳）
+|range=接触
+|target=接触到的生物
+|duration=1小时/等级 或 直至耗散
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=受防护的生物获得抵抗远程武器的能力。受术者对远程武器获得10/魔法的伤害减免。这个法术不会让你获得伤害具有类似伤害减免的生物的能力。一旦这个法术防护掉了总数为每施法者等级10点的伤害 (最多100点)，这个法术就会耗散。
+|source=核心规则书
+}}

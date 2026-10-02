@@ -1,0 +1,10 @@
+{{Feat
+|name=灵触伙伴
+|english_name=Genie-Touched Companion
+|description=你的[[动物伙伴]]是一个元素位面生物的后代。
+|prerequisites=[[魅力]] 13，动物伙伴或坐骑职业能力
+|benefit=你可以把一个灵触生物作为动物伙伴。这个动物伙伴如同马动物伙伴一样，但有着以下的相关的调整。当你选择灵触伙伴时，你必须选择动物伙伴的类型:istaheq, misayyah, tuanu或zefaheen。你的选择决定了你的动物伙伴获得的能量抗力的类型，以及你的动物伙伴在升级时获得的三种额外能力。
+|tables=<table><tr><th>动物伙伴类型</th><th>能量抗力</th><th>初始能力</th><th>4级能力</th><th>8级能力</th></tr><tr><td>istaheq</td><td>强酸10</td><td>Steadfast</td><td>Scion of stone</td><td>Thundering hooves</td></tr><tr><td>misayyah</td><td>火焰10</td><td>Firesight</td><td>Sunborn</td><td>Flaming trail</td></tr><tr><td>tuanu</td><td>寒冷10</td><td>Water sense</td><td>Fluid movement</td><td>Waterborn</td></tr><tr><td>zefaheen</td><td>电击10</td><td>Desert walker</td><td>Sand sense</td><td>Air walker</td></tr></table>
+|source_name=卡蒂亚，东方明珠
+|source_url=https://pf1chm.pages.dev/topics/zhe466356c0c.htm
+}}

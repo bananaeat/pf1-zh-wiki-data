@@ -1,0 +1,9 @@
+{{Feat
+|name=娴熟炼金
+|english_name=Sure-Handed Alchemy
+|description=你稳定的手法增加了你自发炼金的成功率并且减少你发生事故的几率.
+|prerequisites=工艺（炼金）3级.
+|benefit=当你使用自发炼金制造物品并尝试进行工艺（炼金）检定时，你从配方里要求的每种不同材料里获得累计+1的环境加值。只有在自然骰投出1的时候，你的工艺（炼金）检定失败才会引起事故。最后你使用临时工具进行自发炼金时不受到罚值。
+|source_name=炼金术手册
+|source_url=https://pf1chm.pages.dev/topics/zhde7ac70a6d.htm
+}}

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kingmaker Player's Guide pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=罗斯特兰人
+|english_name=Rostlander
+|type=战役
+|pfs=否
+|description=你在布雷斡南部长大，那是一片森林茂密、平原起伏之地，有着清澈如水晶的河流与无边无际的蓝宝石般的天空。你出身于健壮的人家，从小被教导朴素的道理：辛勤劳作才能换来应得的收获，仁慈与同情至关重要，个人与家族的荣誉弥足珍贵。你的故乡是奥多里剑豪的国度，也是那些在暴虐征服者的大军面前拒不屈服的英雄们的国度。你对政治与贵族之事、欺骗与阴谋之类都不太关心。作为一个地地道道的布雷斡人，招募勇士将祖国影响力扩展到失窃之地的号召激起了你的爱国心与荣誉感，于是你加入了一支南下远征的探险队。你坚韧的天性使你的所有强韧豁免获得+1背景加值。
+|source_name=Kingmaker Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Rostlander
+}}

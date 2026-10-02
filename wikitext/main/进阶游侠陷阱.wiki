@@ -1,0 +1,10 @@
+{{Feat
+|name=进阶游侠陷阱
+|english_name=Advanced Ranger Trap
+|description=你的[[游侠陷阱]]特别难被发现和避开。
+|prerequisites=【设置陷阱】职业特性，游侠等级5级。【编注：【设置陷阱（Trap）】是陷阱师（Trapper, UM游侠变体）5级的职业能力。】
+|benefit=发现或者解除你的游侠陷阱的察觉或[[解除装置]]的DC+1。对抗你的游侠陷阱的豁免DC+1。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

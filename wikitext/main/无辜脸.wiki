@@ -1,0 +1,10 @@
+{{Trait
+|name=无辜脸
+|english_name=Charmed Innocent
+|type=地区
+|prerequisites=任何城市
+|description=你展露的良好性情或调皮魅力使得非邪恶生物愿意喜欢你。每天1次，在你向非邪恶生物骰任何魅力检定或基于魅力技能检定之前，你能两骰取高。
+|source_name=市井英雄
+|source=HotS
+|source_url=https://pf1chm.pages.dev/topics/zh4c7ba39919.htm
+}}

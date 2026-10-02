@@ -1,0 +1,38 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=蝴蝶与蛾
+|english_name=Butterfly/Moth
+|alignment=绝对中立
+|size=微型
+|type=虫类
+|init=+1
+|senses=黑暗视觉 60 尺，灵敏嗅觉；察觉 +1
+|description=这只优雅的有翅昆虫色彩斑斓，如同飘忽的梦境，在空中翩翩滑翔。
+|ac=15，接触 15，措手不及 14（+1 敏捷，+4 体型）
+|hp=1（1d8–3）
+|fort=–1
+|ref=+1
+|will=+1
+|immune=影响心灵效果
+|speed=5 尺，飞行 30 尺（一般）
+|space=1 尺
+|reach=0 尺
+|str=1
+|dex=13
+|con=4
+|int=—
+|wis=12
+|cha=7
+|bab=+0
+|cmb=–3
+|cmd=2（10 对抗摔绊）
+|skills=[[飞行]] +7
+|environment=任意温带或温暖地区
+|organization=单独，一对，或一群（3–100）
+|treasure=无
+|source=极限荒野
+|lore=
+蝴蝶是娇小而色彩鲜艳的昆虫，以花蜜和其他含糖的来源为食。蛾与蝴蝶的数据相同，只是它们往往在夜间活动。此处介绍的蝴蝶（或蛾）是一个特别大的个体，翼展刚过 6 英寸，但它依然完全无害，被杀死也不提供 XP。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Butterfly/Moth|2=Butterfly/Moth}}

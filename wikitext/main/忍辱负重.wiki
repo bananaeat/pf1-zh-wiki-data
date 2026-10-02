@@ -1,0 +1,14 @@
+{{Feat
+|name=忍辱负重
+|english_name=Shamed
+|categories=故事
+|pfs=否
+|description=曾经的耻辱至今仍令你痛苦。
+|prerequisites=你必须被当众羞辱，或拥有“私生贱种（Bastard Born）”角色背景。若这次羞辱不足以对你的个人名誉或社会地位产生足够损害，那么它并不满足先决条件。该羞辱不必是不公正的。
+|benefit=被人注视这件事本身就足以激励你奋进。当你置身于有未参战的目击者存在的冲突中时，你的攻击和技能检定+1。
+|goal=你能够以两种方式完成此目标。其一，以某种手段妨害特定敌人并向公众证明你的优势。其二，以其他形式证明你的价值，譬如为自己赢得头衔或成为一个地区的公认英雄。
+|completion_benefit=你重新获得的自信给予你等同于角色等级的临时HP。这些临时HP持续至失去为止，并且每当你休息足够久以进行自然恢复时便会重置，无论是否真的恢复了任何生命值。
+|source=UCa
+|source_name=极限战役
+|source_url=https://pf1chm.pages.dev/topics/page_200.html
+}}

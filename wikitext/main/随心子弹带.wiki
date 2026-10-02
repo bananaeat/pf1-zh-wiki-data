@@ -1,0 +1,17 @@
+{{魔法物品
+|name=随心子弹带
+|english_name=Beneficial Bandolier
+|aon=MagicWondrousDisplay.aspx?FinalName=Beneficial Bandolier
+|cat=奇物
+|aura=中等变化系
+|cl=9
+|slot=腰部
+|price=1,000 gp
+|weight=2磅
+|description=这条[[子弹带]]用精细鞣制的皮革制成，有可容纳多达200发弹药的槽位。霰弹和黑火药放在各自的小袋里，子弹则插在小圈中；子弹带会根据需要自行调整，以同时容纳两者。随心子弹带上还留有放置枪匠工具箱和火药角的位置。无论往随心子弹带里放入多少这类物品，它的重量都不会改变。
+
+以一个[[迅捷动作]]，穿戴者可以命令随心子弹带中的一发弹药传送进他所持的相应类型火器里。
+|req=[[制造奇物]]、[[秘藏箱]]
+|cost=500 gp
+|source=极限宝具
+}}

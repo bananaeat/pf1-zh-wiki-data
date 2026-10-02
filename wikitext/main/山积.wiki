@@ -1,0 +1,22 @@
+{{速查导航|here=神祇}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出，CHM 汉化里没有这一位的译文，未经人工校对。}}
+{{神祇
+|name=山积
+|english_name=Yamatsumi
+|title=山岳之主（The Mountain Lord）
+|alignment=绝对中立（N）
+|weapon=金碎棒
+|portfolio=山脉，火山，冬季
+|domains=[[土领域|土]]，[[火领域|火]]，[[保护领域|保护]]，[[力量领域|力量]]，[[水领域|水]]
+|subdomains=[[火领域#灰烬子域 (Ash)|灰烬子域]]，[[土领域#窟子域 (Caves)|窟子域]]，[[保护领域#防御子域 (Defense)|防御子域]]，[[力量领域#拳头子域 (Fist)|拳头子域]]，[[水领域#流动子域 (Flowing)|流动子域]]，[[水领域#冰子域 (Ice)|冰子域]]，[[力量领域#决意子域 (Resolve)|决意子域]]，[[火领域#烟幕子域 (Smoke)|烟幕子域]]，[[保护领域#孤独子域 (Solitude)|孤独子域]]
+|symbol=积雪覆顶、正在喷发的火山
+|animal=公羊
+|centers=唐马，弘古，明海，纳迦乔尔（Nagajor），天之壁（Wall of Heaven），紫哈（Zi Ha）
+|nationality=明族人（Tian-Min）
+|pantheon=天夏神祇
+|source=龙国舆图
+}}
+
+'''山积'''（Yamatsumi）是天夏神祇之一，主管山脉、火山与冬季，族类为天民（Tian-Min）。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Yamatsumi|2=Yamatsumi}}

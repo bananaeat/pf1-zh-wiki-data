@@ -1,0 +1,38 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=四臂手印骷髅
+|english_name=Four-Armed Mudra Skeleton
+|cr=1/2
+|xp=200
+|alignment=中立邪恶
+|size=中型
+|type=不死生物
+|init=+7
+|senses=黑暗视觉 60 尺；察觉 +0
+|description=这具古老而无血肉的尸骸咔啦作响地向前逼近，枯骨与开裂的枯骨彼此碰撞。
+|ac=15，接触 13，措手不及 12（+3 敏捷，+2 天生）
+|hp=4（1d8）
+|fort=+0
+|ref=+3
+|will=+2
+|dr=5/钝击
+|immune=寒冷;[[通用怪物规则#不死特性|不死生物特性]]
+|speed=30 尺
+|melee=短剑 +1（1d6+2/19–20），3 短剑 +1（1d6+1/19–20）或 4 爪抓 +3（1d4+2）
+|str=15
+|dex=16
+|con=–
+|int=–
+|wis=10
+|cha=10
+|bab=+0
+|cmb=+2
+|cmd=15
+|feats=[[精通先攻]];[[多重武器战斗]];[[武器娴熟]]
+|gear=4 把短剑
+|source=Pathfinder #44: Trial of the Beast
+|lore=
+有时被称为“旋风骷髅”，手印骷髅的敏捷提高 +4（而非 +2），并获得[[多重武器战斗]]和[[武器娴熟]]作为奖励专长。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Four-Armed Mudra Skeleton|2=Four-Armed Mudra Skeleton}}

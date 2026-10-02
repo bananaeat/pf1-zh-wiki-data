@@ -1,0 +1,32 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=德拉吉
+|english_name=Dradjit
+|title=戮神者（The Godslayer）
+|alignment=守序邪恶（LE）
+|weapon=[[反曲刀]]
+|domains=[[动物领域|动物]]，[[邪恶领域(领域)|邪恶]]，[[秩序领域|秩序]]，[[诡术领域|诡术]]
+|subdomains=[[诡术领域#欺骗子域 (Deception)|欺骗子域]]，[[邪恶领域(领域)#恐惧子域 (Fear)|恐惧子域]]，[[动物领域#毛兽子域 (Fur)|毛兽子域]]，[[秩序领域#暴政子域 (Tyranny)|暴政子域]]
+|pantheon=罗刹邪仙
+|source=永罪之书
+}}
+
+德拉吉（Dradjit，称号「戮神者」）是一位[[罗刹邪仙]]。
+
+== 简介 ==
+戮神者原是一位罗刹邪仙的佞臣，祂长有三颗深红色的龙头。祂在背刺主人后拔掉其牙齿制成了项链，据说正是这条项链让祂永垂不朽。
+
+== 服从仪典与神恩 ==
+=== 服从仪典 ===
+用磨利的龙牙刺穿你的皮肤，在痛苦中感受其带来的力量。你在对抗造成穿刺伤害的效果时豁免检定获得+4亵渎加值。
+
+=== 神恩 ===
+每天各两次的类法术能力：
+{{神恩|n=1|name=|en=|type=Sp|text=每日2次，可以类法术能力使用[[灵能武器]]。}}
+{{神恩|n=2|name=延时高等魔牙术|en=Extended Greater Magic Fang|type=Sp|text=每日2次，可以类法术能力使用延时[[高等魔牙术]]。}}
+{{神恩|n=3|name=|en=|type=Sp|text=每日2次，可以类法术能力使用[[巨龙形态 I|巨龙形态I]]。}}
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc8a8173c5c.htm 原文]），原在总页 [[罗刹邪仙]]。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Dradjit|2=Dradjit}}
+[[分类:魔神]]

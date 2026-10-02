@@ -1,0 +1,8 @@
+{{狂暴之力
+|name=霸道推进
+|english_name=Overbearing Advance
+|type=Ex
+|categories=进攻
+|benefit=狂暴时，野蛮人的[[闯越]][[战技]]若成功，则造成等同他力量修正的额外伤害。
+|source_name=进阶玩家指南
+}}

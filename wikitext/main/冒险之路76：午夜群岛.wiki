@@ -1,0 +1,50 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #76: The Midnight Isles
+|authors=James Jacobs、Greg A. Vaughan
+|pages=96
+}}
+
+{{书页/简介|head=|1=
+在觐见十字军女王之后，英雄们前往一座横跨尘世与恶魔出没的深渊领域边界的要塞。在那里，他们必须对抗世界之伤缔造者们的强大特工，并制止那些赋予恶魔神话之力的强力灵药的生产。要塞之外便是深渊领域午夜群岛——魅魔女王[[诺提库拉]]的巢穴，也是炼制这些神秘灵药所用晶体的来源。英雄们能否在午夜群岛的阴谋诡计中周旋，为善的势力给予关键一击？又能否避免在此过程中让灵魂坠入黑暗？
+
+本册《冒险之路》延续「正义之怒」冒险之路，内容包括：
+
+* 《午夜群岛》，一部面向 12 级、5 个神话阶角色的开拓者 RPG 冒险，作者 James Jacobs 与 Greg A. Vaughan。
+* 窥探深渊的广袤恐怖，探索其众多堕落的领域，作者 Mike Shel。
+* 以其首都城市的地志，概览诺提库拉的领域午夜群岛，作者 James Jacobs。
+* 「探索者日志」中的一场恶魔围城，作者 Robin D. Laws。
+* 四种新怪物，作者 Amanda Hamon 与 James Jacobs。
+}}
+
+'''冒险之路76：午夜群岛'''（''Pathfinder #76: The Midnight Isles''）是[[冒险之路]]「正义之怒」系列的一部冒险，由 Greg A. Vaughan 和 James Jacobs 撰写，配套内容出自 Mike Shel 和 Amanda Hamon，小说出自 Robin D. Laws，于 2013 年 12 月 26 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+午夜群岛 @ 6
+NPC 图集 @ 54
+正义之怒宝藏 @ 62
+- [[惨白者]]
+- 迷宫札集（Fasciculus Labyrinthum）
+- 成像透镜
+- 纳辛德里亚水晶
+- 纳辛德里亚灵药
+- [[追猎者之弩]]
+- 真信护符
+深渊地志 @ 62
+阿卢希尼拉：斑岩城 @ 70
+探索者日志：甘美灵血（4／6） @ 76
+怪物图鉴 @ 82
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=The Midnight Isles
+|releases=PDF¦PZO9076E¦2013-12¦；Softcover¦PZO9076¦2013-12¦
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

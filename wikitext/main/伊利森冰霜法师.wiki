@@ -1,0 +1,10 @@
+{{Feat
+|name=伊利森冰霜法师
+|english_name=Irrisen Icemage
+|categories=战斗
+|description=你生来便有驱使冰雪的力量，如同他人驱使奴隶一般
+|prerequisites=术士职业等级，伊利森亲和，必须在1级选取
+|benefit=你的所有具有寒冷描述符的法术在施法时施法者等级+1。任何带有其他能量描述符的法术施法者等级-1。每天3次，你可以将施展的法术伤害转化成寒冷伤害而非原本的伤害；此专长的施法者等级+1可应用在这次变种施法。
+|source_name=格拉利昂的城市
+|source_url=https://pf1chm.pages.dev/topics/zh06c701dc72.htm
+}}

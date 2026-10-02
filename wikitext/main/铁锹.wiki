@@ -1,0 +1,9 @@
+{{装备
+|name=铁锹
+|english_name=Shovel, common
+|cat=冒险装备
+|price=2 gp
+|weight=8磅
+|description=这种工具可以让你以2立方尺每分钟的速度挖坑。
+|source=核心规则书、冒险者的军械库
+}}

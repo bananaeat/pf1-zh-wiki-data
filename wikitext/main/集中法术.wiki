@@ -1,0 +1,10 @@
+{{Feat
+|name=集中法术
+|english_name=Focused Spell
+|categories=超魔
+|description=当你施放影响多名生物的法术时，其中一名敌人会发现自身难以抵御它的影响。
+|benefit=当你施放一个会影响多个生物的法术时，可以选择一个目标或者法术效果内的生物。该名生物对抗法术的豁免DC提高2点。你必须在施法之前选择将法术集中至哪个目标身上。集中法术占用比法术的实际环级高1环的法术位。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

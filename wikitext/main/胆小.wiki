@@ -1,0 +1,10 @@
+{{Trait
+|name=胆小
+|english_name=Spooked
+|type=缺陷
+|pfs=否
+|description=你小时候曾与灵体有过创伤性的经历，至今一碰到这类生物仍然发怵。
+|benefit=当你察觉一个精类、异界生物或亡灵在你60尺范围内时，你必须进行一次DC为15+该生物魅力修正值的意志豁免，否则你会[[战栗]]1d4轮。免疫恐惧效果不能让你免于这次豁免；即使你免疫恐惧，也必须进行这次意志豁免，不过获得+4加值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

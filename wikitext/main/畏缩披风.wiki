@@ -1,0 +1,15 @@
+{{魔法物品
+|name=畏缩披风
+|english_name=Cowardly Crouching Cloak
+|aon=MagicWondrousDisplay.aspx?FinalName=Cowardly Crouching Cloak
+|cat=奇物
+|aura=微弱防护系
+|cl=1
+|slot=肩部
+|price=1,800 gp
+|weight=4磅
+|description=这件不起眼的灰色披风有一顶可以罩住穿戴者整张脸的兜帽。穿戴者可以用一个[[移动动作]]蒙住脸并蹲下缩成一团。任何试图直接攻击他的生物，必须通过一次DC 11的意志豁免才能这样做（如同[[圣域术]]）。蜷缩期间，穿戴者无法视物，也无法采取任何行动。这使他实际上目盲，承受目盲的一切常规减值，但并非无助。穿戴者只要站起来或移动，就能结束蜷缩。
+|req=[[制造奇物]]、[[圣域术]]
+|cost=900 gp
+|source=进阶玩家指南、极限宝具
+}}

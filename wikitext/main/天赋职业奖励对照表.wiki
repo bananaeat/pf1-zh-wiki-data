@@ -1,0 +1,548 @@
+{{速查导航|here=种族}}
+'''天赋职业奖励对照表'''把本站种族页上的「可选天赋职业奖励」和 [https://aonprd.com Archives of Nethys] 的全集逐条对了一遍。AoN 共 731 条，本站缺 101 条。
+
+这份数据的权威是[[种族]]各页；[[职业]]页上的汇总表由脚本从种族页生成，所以要补条目请补到种族页的「可选天赋职业奖励」一节里，格式照该节既有的小节写：<code><nowiki>=== [[职业名]] ===</nowiki></code> 一行，正文末尾跟<code><nowiki>{{Source|中文书名|English Title|inline}}</nowiki></code>。
+
+对账按职业英文名，同一个种族同一个职业有多条时按条数比（有些种族的同一个职业确实出自两本书、给两条不同的奖励）。
+
+{| class="wikitable sortable"
+|-
+! 种族 !! AoN !! 本站 !! 缺
+|-
+| [[汲魂木]]（Wyrwood） || 10 || 0 || 10
+|-
+| [[秩裔]]（Aphorite） || 11 || 2 || 9
+|-
+| [[舍卜提]]（Shabti） || 10 || 1 || 9
+|-
+| [[伽瑟兰]]（Gathlain） || 19 || 12 || 7
+|-
+| [[卓尔]]（Drow） || 17 || 10 || 7
+|-
+| [[熵裔]]（Ganzi） || 9 || 2 || 7
+|-
+| [[藤蔓莱西]]（Vine Leshy） || 9 || 2 || 7
+|-
+| [[鸮形人]]（Strix） || 12 || 5 || 7
+|-
+| [[人鱼]]（Merfolk） || 9 || 4 || 5
+|-
+| [[精灵]]（Elf） || 40 || 35 || 5
+|-
+| [[侏儒]]（Gnome） || 41 || 37 || 4
+|-
+| [[半精灵]]（Half-Elf） || 40 || 36 || 4
+|-
+| [[矮人]]（Dwarf） || 40 || 36 || 4
+|-
+| [[半鱼人]]（Gillman） || 8 || 5 || 3
+|-
+| [[灰矮人]]（Duergar） || 5 || 3 || 2
+|-
+| [[兽人]]（Orc） || 8 || 7 || 1
+|-
+| [[吸血裔]]（Dhampir） || 8 || 7 || 1
+|-
+| [[天狗]]（Tengu） || 17 || 16 || 1
+|-
+| [[树蛙人]]（Grippli） || 15 || 14 || 1
+|-
+| [[水元素裔]]（Undine） || 8 || 7 || 1
+|-
+| [[灵猴族]]（Vanara） || 19 || 18 || 1
+|-
+| [[狐妖]]（Kitsune） || 15 || 19 || 1
+|-
+| [[狗头人]]（Kobold） || 20 || 19 || 1
+|-
+| [[猫族]]（Catfolk） || 17 || 17 || 1
+|-
+| [[魔裔]]（Tiefling） || 12 || 11 || 1
+|-
+| [[鼠族]]（Ratfolk） || 21 || 20 || 1
+|-
+| [[人类]]（Human） || 40 || 43 || 0
+|-
+| [[剪影人]]（Wayang） || 19 || 19 || 0
+|-
+| [[半兽人]]（Half-Orc） || 40 || 46 || 0
+|-
+| [[半身人]]（Halfling） || 40 || 44 || 0
+|-
+| [[土元素裔]]（Oread） || 8 || 8 || 0
+|-
+| [[地底侏儒]]（Svirfneblin） || 3 || 3 || 0
+|-
+| [[地精]]（Goblin） || 12 || 12 || 0
+|-
+| [[大地精]]（Hobgoblin） || 9 || 9 || 0
+|-
+| [[娜迦裔]]（Nagaji） || 12 || 12 || 0
+|-
+| [[巨灵裔]]（Suli） || 3 || 3 || 0
+|-
+| [[暮行者]]（Duskwalker） || 16 || 16 || 0
+|-
+| [[替换儿]]（Changeling） || 3 || 3 || 0
+|-
+| [[水栖精灵]]（Aquatic Elf） || 9 || 9 || 0
+|-
+| [[沼蜍人]]（Boggard） || 4 || 5 || 0
+|-
+| [[洛卡鱼人]]（Locathah） || 7 || 7 || 0
+|-
+| [[火元素裔]]（Ifrit） || 8 || 8 || 0
+|-
+| [[神裔]]（Aasimar） || 8 || 8 || 0
+|-
+| [[窃影鬼]]（Fetchling） || 20 || 20 || 0
+|-
+| [[翼龙人]]（Wyvaran） || 6 || 6 || 0
+|-
+| [[蒿兰人]]（Ghoran） || 9 || 9 || 0
+|-
+| [[蝮血裔]]（Vishkanya） || 3 || 3 || 0
+|-
+| [[轮回者]]（Samsaran） || 4 || 4 || 0
+|-
+| [[风元素裔]]（Sylph） || 8 || 8 || 0
+|}
+
+== 缺的是哪些 ==
+
+「来源」是 AoN 标的出处，去那本书里找就是了。
+
+=== [[汲魂木]]（缺 10） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[炼金术师]] || [[格拉利昂的英雄]] || <small>Reduce the mental ability score penalty of the alchemist’s mutagens by 1/5 (minimum 0).</small>
+|-
+| [[奥能师]] || [[格拉利昂的英雄]] || <small>Add 1/4 to the arcanist’s level for the spell resistance exploit.</small>
+|-
+| [[牧师]] || [[格拉利昂的英雄]] || <small>Add 1/4 to the cleric’s caster level when casting spells or using abilities from the Law domain or one of its subdomains, or when casting spells with the lawful descriptor.</small>
+|-
+| [[魔战士]] || [[格拉利昂的英雄]] || <small>Add 2 rounds to the duration of the magus’ arcane pool enhancements.</small>
+|-
+| [[先知]] || [[格拉利昂的英雄]] || <small>Add one spell known from the wizard’s evocation school spell list. This spell must be at least 1 level below the highest-level spell the oracle can cast. That spell is treated as 1 level higher unless it is also on the oracle spell list.</small>
+|-
+| [[圣武士]] || [[格拉利昂的英雄]] || <small>The paladin gains 1/4 of a bonus spell per day of the highest-level spell that the paladin can cast.</small>
+|-
+| [[异能者]] || [[格拉利昂的英雄]] || <small>psychic gains 1/6 of a phrenic amplification.</small>
+|-
+| [[盗贼]] || [[格拉利昂的英雄]] || <small>The rogue gains 1/6 of a rogue talent.</small>
+|-
+| [[杀手]] || [[格拉利昂的英雄]] || <small>The slayer gains 1/6 of a slayer talent.</small>
+|-
+| [[法师]] || [[格拉利昂的英雄]] || <small>The wizard gains 1/6 of a bonus item creation, metamagic, or spell mastery feat.</small>
+|}
+
+=== [[秩裔]]（缺 9） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[炼金术师]] || [[位面旅者手册]] || <small>Add 1 foot to the range increment of the alchemist’s thrown splash weapons (including the alchemist’s bombs). This option has no effect unless the alchemist has selected it 5 times (or another increment of 5).</small>
+|-
+| [[审判者]] || [[位面旅者手册]] || <small>Add 1/4 to the number of times per day the inquisitor can change her most recent teamwork feat.</small>
+|-
+| [[调查员]] || [[位面旅者手册]] || <small>Gain a +1/4 bonus on damage rolls for critical hits made while using studied combat.</small>
+|-
+| [[魔战士]] || [[位面旅者手册]] || <small>Add one spell from the magus spell list to the magus’s spellbook. This spell must be at least 1 level below the highest spell level he can cast.</small>
+|-
+| [[游侠]] || [[位面旅者手册]] || <small>Add 1 foot to the range of the ranger’s hunter’s bond ability when granting a bonus to allies. This option has no effect unless the ranger has selected it 5 times (or another increment of 5).</small>
+|-
+| [[盗贼]] || [[位面旅者手册]] || <small>Add a +1 bonus on Disable Device and Use Magic Device checks related to glyphs, scrolls, symbols, and other magical writings.</small>
+|-
+| [[战斗祭司]] || [[位面旅者手册]] || <small>Add 1/2 to the number of times per day the warpriest can use blessings, but he can use these additional blessings on only those from the Artifice, Community, Knowledge, Law, Magic, or Rune domains.</small>
+|-
+| [[女巫]] || [[位面旅者手册]] || <small>The witch gains 1/6 of a new witch hex.</small>
+|-
+| [[法师]] || [[位面旅者手册]] || <small>Add 1/3 to the wizard’s caster level when casting spells with the lawful descriptor or spells that create magical glyphs, runes, or symbols.</small>
+|}
+
+=== [[舍卜提]]（缺 9） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[血脉狂怒者]] || [[位面旅者手册]] || <small>Add 1/4 to the bloodrager’s effective class level when determining the power of her bloodrager bloodline powers.</small>
+|-
+| [[调查员]] || [[位面旅者手册]] || <small>Add 1/6 rounds to the duration of the investigator’s studied combat.</small>
+|-
+| [[通灵者]] || [[位面旅者手册]] || <small>Add 1/5 to the bonus allies gain from shared seance. This doesn’t increase the medium’s seance boon.</small>
+|-
+| [[先知]] || [[位面旅者手册]] || <small>Add one spell from the psychic spell list that isn’t on the cleric spell list to the list of spells the oracle knows. This spell must be at least 1 level below the highest spell level the oracle can cast.</small>
+|-
+| [[圣武士]] || [[位面旅者手册]] || <small>Add 1/2 to the paladin’s level when determining the effect of smite evil against incorporeal and ethereal creatures.</small>
+|-
+| [[游侠]] || [[位面旅者手册]] || <small>Add 1/4 to a single existing favored terrain bonus (maximum bonus +1 per favored terrain).</small>
+|-
+| [[萨满]] || [[位面旅者手册]] || <small>Add one spell from the psychic spell list that isn’t on the shaman spell list to the list of spells the shaman knows. This spell must be at least 1 level below the highest spell level the shaman can cast.</small>
+|-
+| [[歌者]] || [[位面旅者手册]] || <small>Add 1/2 to the skald’s bardic knowledge bonus.</small>
+|-
+| [[唤魂师]] || [[位面旅者手册]] || <small>Add 1 foot to the limit of etheric tether. This includes how far the spiritualist’s phantom can be before needing to concentrate and before the tether is broken.</small>
+|}
+
+=== [[伽瑟兰]]（缺 7） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[炼金术师]] || [[第一世界的遗产]] || <small>Add 10 minutes to the duration of the alchemist’s mutagens.</small>
+|-
+| [[调查员]] || [[第一世界的遗产]] || <small>Add a +1/3 bonus on inspiration rolls applied to Bluff and Knowledge checks.</small>
+|-
+| [[操念使]] || [[第一世界的遗产]] || <small>Increase the amount of burn cost reduction when using the kineticist’s gather power ability by 1/6 point (the minimum burn cost of 0 still applies).</small>
+|-
+| [[催眠师]] || [[第一世界的遗产]] || <small>Increase the number of mesmerist tricks the mesmerist can use per day by one-third.</small>
+|-
+| [[先知]] || [[第一世界的遗产]] || <small>Add one spell known that is an enchantment spell from the sorcerer/wizard spell list. This spell must be at least one level below the highest spell level the oracle can cast. That spell is treated as one level higher unless it is also on the oracle spell list.</small>
+|-
+| [[变形者]] || [[荒野源始]] || <small>Add a +1 bonus on Knowledge (nature) checks relating to plants and flying animals.</small>
+|-
+| [[术士]] || [[第一世界的遗产]] || <small>Choose a bloodline power from the fey or verdantAPG bloodlines that the sorcerer can use. The sorcerer treats her class level as though it were 1/2 higher (to a maximum of +4) when determining the effects of that power.</small>
+|}
+
+=== [[卓尔]]（缺 7） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[血脉狂怒者]] || [[阴影血脉]] || <small>Add a +1/2 bonus to concentration checks to cast or maintain spells when taking damage.</small>
+|-
+| [[审判者]] || [[阴影血脉]] || <small>Gain 1/4 of a teamwork feat.</small>
+|-
+| [[圣武士]] || [[阴影血脉]] || <small>Add a +1/2 sacred bonus to saving throws against spells of the shadow subschool or that have the darkness or shadowUM descriptor.</small>
+|-
+| [[异能者]] || [[阴影血脉]] || <small>Gain 1/6 of a phrenic amplification (or a major amplification if the psychic is at least 11th level).</small>
+|-
+| [[游侠]] || [[阴影血脉]] || <small>Add +1/3 to initiative checks in one of the ranger’s favored terrains.</small>
+|-
+| [[变形者]] || [[荒野源始]] || <small>Add a +1/2 bonus on Climb checks.</small>
+|-
+| [[召唤师]] || [[阴影血脉]] || <small>Add 1 hit point or 1 skill rank to the summoner’s eidolon.</small>
+|}
+
+=== [[熵裔]]（缺 7） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[奥能师]] || [[位面旅者手册]] || <small>Add 1/2 to the arcanist’s effective caster level when casting spells with the chaotic descriptor.</small>
+|-
+| [[猎人]] || [[位面旅者手册]] || <small>The hunter’s animal companion is specially trained for extraplanar expeditions and gains a +1 bonus on Stealth and Acrobatics checks while on a plane other than the Material Plane.</small>
+|-
+| [[调查员]] || [[位面旅者手册]] || <small>Increase the total number of points in the investigator’s inspiration pool by 1/3.</small>
+|-
+| [[先知]] || [[位面旅者手册]] || <small>Add one spell known of the enchantment school from the cleric or wizard spell list. This spell must be at least 1 level below the highest spell level the oracle can cast.</small>
+|-
+| [[盗贼]] || [[位面旅者手册]] || <small>Add a +1/2 bonus on Stealth checks while on a plane other than the Material Plane.</small>
+|-
+| [[术士]] || [[位面旅者手册]] || <small>Choose a bloodline power from the abyssal or protean bloodlines that the sorcerer can use. The sorcerer treats her class level as though it were 1/2 higher (to a maximum of +4) when determining the effects of that power.</small>
+|-
+| [[法师]] || [[位面旅者手册]] || <small>Add 1/3 to the wizard’s effective caster level when casting a spell with the chaotic descriptor.</small>
+|}
+
+=== [[藤蔓莱西]]（缺 7） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[炼金术师]] || [[极限荒野]] || <small>Add 1/4 to the alchemist’s natural armor bonus when using his mutagen.</small>
+|-
+| [[操念使]] || [[极限荒野]] || <small>Gain 1/5 of the Extra Wild Talent feat. This feat must be spent on a wood-element talent.</small>
+|-
+| [[先知]] || [[极限荒野]] || <small>An oracle with the nature or wood mystery adds one spell from the druid’s spell list that isn’t on the cleric spell list to the oracle’s spell list; she still must select this spell as one of her spells known in order to cast it. This spell must be at least 1 level lower than the highest spell level the oracle can cast.</small>
+|-
+| [[游侠]] || [[极限荒野]] || <small>Add a +1/2 bonus to Knowledge (nature) checks in the ranger’s favored terrain.</small>
+|-
+| [[盗贼]] || [[极限荒野]] || <small>Add a +1/2 bonus to Climb checks and on Stealth checks in forests.</small>
+|-
+| [[萨满]] || [[极限荒野]] || <small>Shamans with the nature or wood spirit add one spell from the druid’s spell list that isn’t on the shaman spell list to the shaman’s spell list; she still must select this spell as one of her spells known in order to cast it. This spell must be at least 1 level lower than the highest spell level the shaman can cast.</small>
+|-
+| [[变形者]] || [[荒野源始]] || <small>Add a +1 bonus on Knowledge (nature) checks relating to plants.</small>
+|}
+
+=== [[鸮形人]]（缺 7） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[血脉狂怒者]] || [[冒险之路101：金塔格契约]] || <small>Increase the bloodrager’s total number of bloodrage rounds per day by 1.</small>
+|-
+| [[拳师]] || [[冒险之路101：金塔格契约]] || <small>Add 1/4 to the brawler’s effective class level to determine her unarmed strike damage.</small>
+|-
+| [[猎人]] || [[冒险之路101：金塔格契约]] || <small>Add 1 hit point to the hunter’s animal companion. If the hunter replaces her animal companion, the new animal companion gains these bonus hit points.</small>
+|-
+| [[先知]] || [[冒险之路101：金塔格契约]] || <small>Add one spell known from the oracle spell list. This spell must be at least 1 level below the highest spell level the oracle can cast.</small>
+|-
+| [[萨满]] || [[冒险之路101：金塔格契约]] || <small>Add 1/2 to the shaman’s effective class level for the purpose of determining her spirit animal’s natural armor adjustment, Intelligence, and special abilities.</small>
+|-
+| [[杀手]] || [[冒险之路101：金塔格契约]] || <small>Increase the studied target bonus on Perception and Survival checks by 1/4. When the slayer gains the stalker class feature, the slayer also gains this increase to the studied target bonus on Stealth checks.</small>
+|-
+| [[女巫]] || [[冒险之路101：金塔格契约]] || <small>Add one spell from the witch spell list to the witch’s familiar. This spell must be at least 1 level below the highest spell level the witch can cast. If the witch ever replaces this familiar, the new familiar knows these bonus spells.</small>
+|}
+
+=== [[人鱼]]（缺 5） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[催眠师]] || [[海洋血脉]] || <small>The mesmerist learns 1/4 of a new trick.</small>
+|-
+| [[武僧]] || [[海洋血脉]] || <small>Add a +1/4 bonus on combat maneuver checks to grapple or trip.</small>
+|-
+| [[先知]] || [[海洋血脉]] || <small>Add one spell known from the oracle spell list. This spell must be at least 1 level below the highest level spell the oracle can cast.</small>
+|-
+| [[歌者]] || [[海洋血脉]] || <small>Add one spell from the skald’s spell list to the skald’s known spells. This spell must be at least 1 spell level below the highest level of spell the skald can cast.</small>
+|-
+| [[女巫]] || [[海洋血脉]] || <small>Add 1 to the witch’s caster level for one of her patron spells (to a maximum of +3 caster level to any one spell).</small>
+|}
+
+=== [[精灵]]（缺 5） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[操念使]] || [[异能冒险]] || <small>Gain a +1/4 bonus on damage rolls that apply the kineticist’s elemental overflow bonus.</small>
+|-
+| [[催眠师]] || [[异能冒险]] || <small>Gain a +1/2 bonus on Acrobatics checks to move through a threatened area and a +1/2 bonus on Bluff checks to feint.</small>
+|-
+| [[术士]] || [[进阶种族手册]]、[[进阶玩家指南]] || <small>Select one bloodline power at 1st level that is normally usable a number of times per day equal to 3 + the sorcerer's Charisma modifier. The sorcerer adds +1/2 to the number of uses per day of that bloodline power.</small>
+|-
+| [[侠客]] || [[极限诡道]] || <small>Gain +1/3 on all Acrobatics, Climb, and Stealth checks in forested areas.</small>
+|-
+| [[女巫]] || [[进阶种族手册]] || <small>Add one spell from the witch spell list to the witch's familiar. This spell must be at least one level lower than the highest-level spell she can cast. If the witch ever replaces her familiar, the new familiar knows these bonus spells.</small>
+|}
+
+=== [[侏儒]]（缺 4） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[操念使]] || [[异能冒险]] || <small>Gain a +1/2 bonus on Bluff, Diplomacy, Intimidate, and Sense Motive skill checks against creatures with the elemental subtype matching the kineticist’s primary element.</small>
+|-
+| [[魔战士]] || [[进阶种族手册]] || <small>Add one of the following weapon special abilities to the list of weapon special abilities the magus may add to his weapon using his arcane pool: defending, ghost touch, merciful, mighty cleaving, vicious; allying, conductive, corrosive, corrosive burst, menacing. Once an ability has been selected with this reward, it cannot be changed.</small>
+|-
+| [[盗贼]] || [[进阶种族手册]]、[[进阶玩家指南]] || <small>The rogue gains a +1/2 bonus on Disable Device and Use Magic Device checks related to glyphs, symbols, scrolls, and other magical writings.</small>
+|-
+| [[侠客]] || [[极限诡道]] || <small>Gain +1/2 on Bluff checks when attempting to tell a lie that would be true from the point of view of the vigilante’s current identity.</small>
+|}
+
+=== [[半精灵]]（缺 4） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[操念使]] || [[异能冒险]] || <small>Gain a +1/4 bonus on damage rolls that apply the kineticist’s elemental overflow bonus.</small>
+|-
+| [[先知]] || [[进阶种族手册]] || <small>Add one spell known from the oracle spell list. This spell must be at least one level below the highest spell level the oracle can cast.</small>
+|-
+| [[游侠]] || [[进阶种族手册]]、[[进阶玩家指南]] || <small>Add +1 skill rank to the ranger's animal companion. If the ranger ever replaces his companion, the new companion gains these bonus skill ranks.</small>
+|-
+| [[侠客]] || [[极限诡道]] || <small>Gain +1/2 on the Disguise bonus from seamless guise.</small>
+|}
+
+=== [[矮人]]（缺 4） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[圣武士]] || [[进阶种族手册]]、[[进阶玩家指南]] || <small>Add a +1 bonus on concentration checks when casting paladin spells.</small>
+|-
+| [[唤魂师]] || [[异能冒险]] || <small>Add 1/6 to the shield bonus granted by the 3rd-level ectoplasmic bonded manifestation ability.</small>
+|-
+| [[侠客]] || [[极限诡道]] || <small>Increase the bonus from social grace on Craft skills by +1/2.</small>
+|-
+| [[法师]] || [[进阶种族手册]] || <small>Select one item creation feat known by the wizard. Whenever he crafts an item using that feat, the amount of progress he makes in an 8-hour period increases by 200 gp (50 gp if crafting while adventuring). This does not reduce the cost of the item; it just increases the rate at which the item is crafted.</small>
+|}
+
+=== [[半鱼人]]（缺 3） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[调查员]] || [[海洋血脉]] || <small>Increase the total number of points in the investigator’s inspiration pool by 1/3.</small>
+|-
+| [[通灵者]] || [[海洋血脉]] || <small>Increase the medium’s spirit bonus by 1/6.</small>
+|-
+| [[武僧]] || [[海洋血脉]] || <small>Add 1 foot to the monk’s swim speed. In combat, this option has no effect unless the monk has selected it five times (or another increment of five).</small>
+|}
+
+=== [[灰矮人]]（缺 2） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[操念使]] || [[重探幽暗地域]] || <small>Add 1/5 of an Extra Wild Talent feat that must be spent on an earth element wild talent.</small>
+|-
+| [[异能者]] || [[重探幽暗地域]] || <small>The psychic treats her Wisdom bonus as 1/3 point higher for the purpose of determining the number of uses or rounds per day of her discipline powers.</small>
+|}
+
+=== [[兽人]]（缺 1） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[变形者]] || [[荒野源始]] || <small>Add 1/5 to the damage dealt when using the shifter claws ability.</small>
+|}
+
+=== [[吸血裔]]（缺 1） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[变形者]] || [[荒野源始]] || <small>Add a +1 bonus on wild empathy checks to improve the attitude of bats, rats, and wolves.</small>
+|}
+
+=== [[天狗]]（缺 1） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[催眠师]] || [[野兽血脉]] || <small>Add 1/4 to the AC bonus provided by the meek facade mesmerist trick.</small>
+|}
+
+=== [[树蛙人]]（缺 1） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[变形者]] || [[荒野源始]] || <small>Add a +1 bonus on Survival checks to follow tracks through swamps.</small>
+|}
+
+=== [[水元素裔]]（缺 1） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[变形者]] || [[荒野源始]] || <small>Add a +1 bonus on wild empathy checks to influence animals and magical beasts with the aquatic subtype.</small>
+|}
+
+=== [[灵猴族]]（缺 1） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[变形者]] || [[荒野源始]] || <small>Add a +1/2 bonus on Acrobatics checks to jump and a +1/2 bonus on wild empathy checks.</small>
+|}
+
+=== [[狐妖]]（缺 1） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[变形者]] || [[荒野源始]] || <small>Add 1/4 to the number of minutes the shifter can assume her minor form each day.</small>
+|}
+
+=== [[狗头人]]（缺 1） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[变形者]] || [[荒野源始]] || <small>Add a +1/4 bonus on Stealth checks while in the shifter’s minor or major form.</small>
+|}
+
+=== [[猫族]]（缺 1） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[变形者]] || [[荒野源始]] || <small>Add 1/5 to the damage dealt when using the shifter claws ability.</small>
+|}
+
+=== [[魔裔]]（缺 1） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[变形者]] || [[荒野源始]] || <small>Add a +1 bonus on wild empathy checks to improve the attitude of fiendish creatures.</small>
+|}
+
+=== [[鼠族]]（缺 1） ===
+
+{| class="wikitable"
+|-
+! width=110px | 职业 !! width=150px | 来源 !! AoN 原文
+|-
+| [[变形者]] || [[荒野源始]] || <small>Add a +1 bonus on wild empathy checks to influence animals and magical beasts that live underground.</small>
+|}
+
+== 本站有、AoN 没有 ==
+
+多半是同一条奖励被记了两遍（不同译法），也可能 AoN 那边归到了别的种族名下。逐条核过再删。
+
+{| class="wikitable sortable"
+|-
+! 种族 !! 职业 !! 多出
+|-
+| [[人类]] || [[审判者]] || 1
+|-
+| [[人类]] || [[异能者]] || 1
+|-
+| [[人类]] || [[秘学士]] || 1
+|-
+| [[半兽人]] || [[催眠师]] || 1
+|-
+| [[半兽人]] || [[吟游诗人]] || 1
+|-
+| [[半兽人]] || [[战士]] || 1
+|-
+| [[半兽人]] || [[炼金术师]] || 1
+|-
+| [[半兽人]] || [[猎人]] || 1
+|-
+| [[半兽人]] || [[通灵者]] || 1
+|-
+| [[半身人]] || [[唤魂师]] || 1
+|-
+| [[半身人]] || [[战斗祭司]] || 1
+|-
+| [[半身人]] || [[野蛮人]] || 1
+|-
+| [[半身人]] || [[骑士]] || 1
+|-
+| [[沼蜍人]] || [[战士]] || 1
+|-
+| [[狐妖]] || [[吟游诗人]] || 1
+|-
+| [[狐妖]] || [[德鲁伊]] || 1
+|-
+| [[狐妖]] || [[战士]] || 1
+|-
+| [[狐妖]] || [[牧师]] || 1
+|-
+| [[狐妖]] || [[野蛮人]] || 1
+|-
+| [[猫族]] || [[吟游诗人]] || 1
+|}
+
+[[分类:待办事项]]

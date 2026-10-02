@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''力场钩'''（Force Hook）是[[操念使]]的[[原力]]。
+
+元素：[[以太]]；类别：塑形注能；等级：3；超载：2
+
+关联[[念袭]]类别：[[力场弹]]
+
+豁免：无
+
+你的力场弹会勾住目标，并将你拽到目标旁边。该效果的功能如同[[力场钩链]]<sup>UM</sup>一般，除了它的范围和伤害依旧按照你的力场弹计算。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Force Hook|2=Force Hook}}
+
+[[分类:原力]]

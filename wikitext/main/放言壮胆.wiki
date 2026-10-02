@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Ancients pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=放言壮胆
+|english_name=Brave Words
+|type=地区
+|prerequisites=宁沙巴人
+|description=你继承了先祖以吹嘘或辱骂驱散恐惧的本事。当你处于[[惊惧]]状态时，你可以用一个迅捷动作朝恐惧的来源大声吼叫，从而在1轮内如同只处于[[战栗]]状态一般行动。你必须能看见该恐惧状态的来源。每个恐惧效果你只能使用此背景特性一次。此背景特性对战栗或[[恐慌]]状态没有任何效果。
+|source_name=古国血脉
+|source=BotA
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Brave%20Words
+}}

@@ -1,0 +1,6 @@
+<noinclude>{{德鲁伊导航}}
+</noinclude>{{德鲁伊领域能力|name=荒地步伐|en=Wasteland Stride|type=Ex|domain=荒原领域|source=信仰与哲学|text=2级起，你可以以正常速度通过稀疏或密集的碎石地以及上下斜坡而不受到任何处罚。不过那些受到魔法影响来阻碍行动的区域仍然会影响你。
+
+这取代了[[德鲁伊#穿林步 (Woodland Stride, Ex)|穿林步]]。}}<noinclude>
+
+[[分类:德鲁伊领域]]</noinclude>

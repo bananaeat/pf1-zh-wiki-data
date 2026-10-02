@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（People of the Stars pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=法老后裔
+|english_name=Offspring of the Ascension
+|type=地区
+|prerequisites=奥西里昂
+|description=你是古奥西里昂某位法老的后裔，她那超凡力量的一丝碎片传到了你身上。你对抗恐惧效果的意志豁免获得+1背景加值。每当你陷入[[困惑]]状态时，该效果的持续时间减少等同于你感知调整值的轮数（困惑最少持续1轮）。
+|source_name=繁星子民
+|source=PotS
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Offspring%20of%20the%20Ascension
+}}

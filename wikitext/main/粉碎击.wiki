@@ -1,0 +1,12 @@
+{{Feat
+|name=粉碎击
+|english_name=Smash
+|categories=战斗
+|description=你能够通过破坏来扫清障碍物。
+|prerequisites=[[猛力攻击]]，半兽人。
+|benefit=当你攻击一个无生命的无主物体时，你能够忽略它的前5点硬度。你还在撞门或者破门的时候，力量检定获得+5加值。
+|special=该专长的好处并不适用于[[击破]]尝试，或者对抗构装体的攻击，只对无生命的无主物体有效。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

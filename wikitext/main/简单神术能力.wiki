@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''简单神术能力'''（Simple Divine Spellcasting）是一条神话[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">神话</span><span class="sk-f">位置：特殊攻击</span></div>
+</noinclude><includeonly><div class="lang"><span id="简单神术能力"></span><div class="lang-h"><b>[[简单神术能力]]</b><i>Simple Divine Spellcasting</i><span class="lang-w">神话 · 特殊攻击</span></div><div class="lang-d"></includeonly>
+该生物获得施放牧师或德鲁伊列表中法术的能力。选择一定数量的法术，这些法术的环位总和要等于生物 CR 的两倍。这些法术的环位都不应高于 1 + 生物 CR 的一半。在计算环位总和时，0 环法术视为 1/2 环。该生物每日可以施放其中每个法术各 1 次。它的施法者等级等同于其生命骰。它使用感知或魅力（取较高者）来确定法术 DC。
+
+'''格式'''：简单神术能力
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Simple Divine Spellcasting|2=Simple Divine Spellcasting}}
+
+[[分类:通用怪物规则]]</noinclude>

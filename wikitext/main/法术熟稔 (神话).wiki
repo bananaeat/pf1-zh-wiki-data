@@ -1,0 +1,16 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[法术熟稔]] 的神话版本。</small></div>
+{{Feat
+|name=法术掌握
+|english_name=Spell Mastery
+|categories=神话
+|description=你实在太熟悉某些法术了，以至于不需要太多功夫就能准备好。
+|prerequisites=[[法术熟稔]]
+|benefit=你能够以[[整轮动作]]准备[[法术熟稔]]专长中所选取的法术。对于其他法术，你就必须花费合适的时间进行准备。以整轮动作，你能够花费1次神话之力，来准备所有在法术熟稔专长中已经选取的法术。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[灵活魔术]]、[[精通灵活魔术]]（2 个条目）

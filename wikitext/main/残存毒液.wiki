@@ -1,0 +1,10 @@
+<noinclude>{{调查员导航}}
+'''残存毒液'''（Lingering Venom, Ex）是[[调查员]]的[[调查员天赋|调查员天赋]]。
+
+</noinclude>{{Source|药剂与毒药|Potions and Poisons|inline}}
+
+调查员亲自施加在武器与陷阱上，或以其他方式施加于敌人的毒药，需要额外一次成功的豁免检定才能治愈。调查员必须要至少5级才能选择此天赋。<noinclude>
+
+[[分类:调查员天赋]]
+
+{{职业}}</noinclude>

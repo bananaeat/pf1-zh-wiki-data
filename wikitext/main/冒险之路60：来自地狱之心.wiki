@@ -1,0 +1,48 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #60: From Hell's Heart
+|authors=Jason Nelson
+|pages=96
+}}
+
+{{书页/简介|head=|1=
+一支意图征服镣铐群岛的敌方舰队已在地平线上逼近，冒险者必须组建起自己的海盗与私掠船舰队抵御入侵者，在阿班德果之眼的边缘展开一场史诗般的海战。冒险者能否击败入侵的海军、拯救镣铐群岛？还是说，自由船长们的独立将被永远抹去？
+
+本册《冒险之路》内容包括：
+
+* Jason Nelson 的《来自地狱之心》（"From Hell's Heart"），一部适用于 13 级角色的开拓者角色扮演游戏冒险。
+* Adam Daigle 提供的海盗阴谋与险恶局面，拓展你的「颅骨与镣铐」战役的视野。
+* Adam Daigle 笔下更多困扰镣铐群岛的凶险海怪与深海恐怖。
+* Robin D. Laws 在「探索者日志」中带来的海盗对决。
+* Adam Daigle、Amanda Hamon、Mark Moreland、Eric Morton 和 William Thrasher 设计的七种新怪物。
+}}
+
+'''冒险之路60：来自地狱之心'''（''Pathfinder #60: From Hell's Heart''）是海盗主题的[[冒险之路]]「颅骨与镣铐」系列的第六章，也是最后一章，由 Jason Nelson 撰写，配套材料出自 Adam Daigle、Amanda Hamon、Mark Moreland、Eric Morton 和 William Thrasher，小说出自 Robin D. Laws，于 2012 年 8 月 23 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+来自地狱之心 @ 6
+NPC 图集 @ 46
+颅骨与镣铐宝藏 @ 54
+- [[惩戒之弩]]
+- [[双发胡椒罐手枪]]
+- [[弱能手枪]]
+- 飓风之冠（Hurricane Crown）
+- [[燃烧之风加农火炮]]
+继续战役 @ 56
+格拉利昂的海怪 @ 62
+探索者日志：远塔莱的宝藏（6／6） @ 70
+怪物图鉴 @ 80
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=From Hell's Heart
+|releases=PDF¦PZO9060E¦2012-08¦；Softcover¦PZO9060¦2012-08¦978-1-60125-422-1
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

@@ -1,0 +1,16 @@
+{{Spell
+|name=雪球术
+|english_name=Snowball
+|school=塑能系
+|tags=寒冷;水
+|levels=召唤师 1;召唤师（掉链） 1;奥能师 1;女巫 1;德鲁伊 1;术士 1;法师 1;猎人 1;血脉狂怒者 1;魔战士 1
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|effect=一个冰雪球
+|duration=立即
+|save=无
+|sr=是
+|description=你向一个目标扔出一枚由冰雪元素制成的雪球，这是一次远程[[接触攻击]]。雪球会造成每施法者等级1d6点的寒冷伤害（最高5d6）。
+|source=极限荒野
+}}

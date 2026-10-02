@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''雷鸣注能'''（Thundering Infusion）是[[操念使]]的[[原力]]。
+
+元素：气；类别：性质注能；等级：1；超载：1
+
+关联[[念袭]]类别：[[电刺]]，[[风雷击]]
+
+豁免：强韧，通过则无效
+
+你的闪电会带来隆隆雷响。每当你的念袭命中敌人，而且克服了[[特殊能力#法术抗力|法术抗力]]的话，该名敌人会变得[[耳聋]]，即便念袭并未造成伤害也是如此。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Thundering Infusion|2=Thundering Infusion}}
+
+[[分类:原力]]

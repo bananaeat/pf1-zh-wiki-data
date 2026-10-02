@@ -1,0 +1,42 @@
+{{速查导航}}
+{{怪物
+|name=蟑螂
+|english_name=Cockroach
+|cr=1/8
+|xp=50
+|alignment=绝对中立
+|size=微型
+|type=虫类
+|init=+2
+|senses=黑暗视觉 60 尺，昏暗视觉；察觉 +0
+|description=这只迅捷的棕色昆虫爬上墙壁，它的触角在摆动。
+|ac=16，接触 16，措手不及 14（+2 敏捷，+4 体型）
+|hp=6（1d8+2）
+|fort=+4
+|ref=+2
+|will=+0
+|immune=影响心灵效果
+|weaknesses=强光敏感
+|speed=20 尺，攀爬 20 尺，飞行 30 尺（不良）
+|melee=啮咬 –1（1d2–5）
+|space=1 尺
+|reach=0 尺
+|str=1
+|dex=15
+|con=14
+|int=—
+|wis=11
+|cha=2
+|bab=+0
+|cmb=–2
+|cmd=3（11 对抗摔绊）
+|skills=[[攀爬]] +3;[[飞行]] +4
+|sq=闭气
+|environment=任意
+|organization=单独，一对，或集群（3–60）
+|treasure=无
+|source=极限荒野
+|lore=
+蟑螂是通常被视为顽强的害虫——特别是在被城市地区温暖的建筑物和无人看管的食物所吸引时。它们以怯懦著称，会逃离更大的生物和光源。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Cockroach|2=Cockroach}}

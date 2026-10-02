@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Goblins of Golarion pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=恶臭饱嗝
+|english_name=Foul Belch
+|type=种族
+|pfs=否
+|prerequisites=地精
+|description=每天一次，你可以以一个标准动作，对5尺内的单个对手打出一个格外恶心的饱嗝。受影响的角色必须通过一次DC 12的强韧豁免，否则陷入[[恶心]]状态1d6轮。该豁免DC基于体质。
+|source_name=格拉利昂的地精
+|source=GoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Foul%20Belch
+}}

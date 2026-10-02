@@ -1,0 +1,9 @@
+{{装备
+|name=甜蛋酒（一杯）
+|english_name=Rumboozle (cup)
+|cat=饮食
+|price=1 sp
+|weight=1/2磅
+|description=这种烈性饮品由朗姆酒、葡萄酒、麦酒、鸡蛋、糖和香料调成，在较高档的酒馆里趁热供应。
+|source=冒险者的军械库、极限宝具
+}}

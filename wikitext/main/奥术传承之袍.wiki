@@ -1,0 +1,19 @@
+{{魔法物品
+|name=奥术传承之袍
+|english_name=Robe of Arcane Heritage
+|aon=MagicWondrousDisplay.aspx?FinalName=Robe of Arcane Heritage
+|cat=奇物
+|aura=中等死灵系
+|cl=9
+|slot=躯体
+|price=16,000 gp
+|weight=1磅
+|description=这件优雅的暗紫色长袍通常装饰着金色的缝线，暗示某种特定的术士血统，不过有些也可能是表示家族谱系。当[[术士]]穿上奥术传承之袍时，缝线会自行拆开，重新织成与她的术士血统相符的图案。穿戴者在确定自己能使用哪些[[血统力量]]及其效果时，视其术士等级比正常高4级。
+|req=[[制造奇物]]、[[死者交谈]]，制造者必须是[[术士]]
+|cost=8,000 gp
+|source=进阶玩家指南、极限宝具
+}}
+
+{{FAQ|v5748eaic9ux4}}
+
+{{FAQ|v5748eaic9ni3}}

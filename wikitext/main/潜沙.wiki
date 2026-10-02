@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''潜沙'''（Sand Glide）是一条神话[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-a">神话</span><span class="sk-f">位置：速度</span></div>
+</noinclude><includeonly><div class="lang"><span id="潜沙"></span><div class="lang-h"><b>[[潜沙]]</b><i>Sand Glide</i><span class="lang-w">Ex · 神话 · 速度</span></div><div class="lang-d"></includeonly>
+该能力的功能与土元素的[[潜地(怪物能力)|潜地]]能力完全一致，不过它只能作用在沙子、灰尘以及其他固态细小颗粒组成的物质上。使用潜沙能力移动的生物速度与其基本速度一致。
+
+'''格式'''：潜沙
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Sand Glide|2=Sand Glide}}
+
+[[分类:通用怪物规则]]</noinclude>

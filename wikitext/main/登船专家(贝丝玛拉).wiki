@@ -1,0 +1,10 @@
+{{消歧义|登船专家}}
+{{Trait
+|name=登船专家
+|english_name=Expert Boarder
+|type=宗教
+|prerequisites=信仰[[贝丝玛拉]]
+|description=[[贝丝玛拉]]奖励那些登上其他船只并拿走他们想要的东西的人。当你在一艘船的甲板上战斗时，你会在所有用单手武器发动的攻击中获得+1加值。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

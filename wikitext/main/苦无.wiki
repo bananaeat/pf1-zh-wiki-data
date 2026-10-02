@@ -1,0 +1,16 @@
+{{武器
+|name=苦无
+|english_name=Kunai
+|category=武器
+|prof=简易
+|wcat=轻型
+|price=2 gp
+|weight=2磅
+|dmg_s=1d3
+|dmg_m=1d4
+|crit=×2
+|range=10尺
+|type=钝击或穿刺
+|description=苦无以整块铁打制而成，有着叶形的刀身，柄端是一个环。苦无改制自常见的泥铲，刀身厚实，只有靠近尖端的部分开刃。与更精致的武器不同，苦无可以直接充当[[撬棍]]或[[岩钉]]使用，而不会因此受损。
+|source=远程战术工具箱
+}}

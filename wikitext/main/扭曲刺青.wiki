@@ -1,0 +1,8 @@
+{{Trait
+|name=扭曲刺青
+|english_name=Twisted Tattoo
+|type=魔法
+|description=你的皮肤因暴露于奥法现象而呈现出某种奇怪的图案。每日一次，当你在施放一个施法时间为1轮或者更少的法术时，你能骰一次1d4-2（无最小值），并将结果加到该法术的有效施法者等级上。在原能魔法区（area of primal magic，《战役设定：内海魔法》第12页），该次投骰的最小结果是0，而不是-1
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1361.html
+}}

@@ -1,0 +1,12 @@
+{{Feat
+|name=枪舞觅心
+|english_name=Spear Dancing Reach
+|categories=战斗
+|description=（[[战斗专长]]）
+无论是使用[[长枪]]的哪一头，你都可以在敌人刀剑的范围外直指其要害。
+|prerequisites=敏捷17，[[双武器格斗]]，[[武器娴熟]]，[[枪舞式]]，[[枪舞疾]]，对所选武器拥有武器专攻专长
+|benefit=当开启枪舞流架势时，每当你同时以双头武器的形式使用这件武器发动整轮攻击时，你都可以选择以一个[[迅捷动作]]赋予此武器的一头或两头以触及武器特性。直至你的回合结束。
+|source=WMH
+|source_name=武器大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_370.html
+}}

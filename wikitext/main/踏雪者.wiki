@@ -1,0 +1,10 @@
+{{Trait
+|name=踏雪者
+|english_name=Snowstepper
+|type=种族
+|prerequisites=[[侏儒]]
+|description=作为北方本地人，你掌握了在雪地上轻盈行走的能力。
+|benefit=你无视由降雪造成的[[困难地形]]；而且进入被大雪覆盖的方格时，你只需花费2格移动力，而非4格。此效果仅在你未携带中型或更重负载时生效。
+|source_name=北地居民
+|source_url=https://pf1chm.pages.dev/topics/zh63296b3929.htm
+}}

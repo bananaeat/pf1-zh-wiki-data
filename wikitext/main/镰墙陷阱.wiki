@@ -1,0 +1,13 @@
+{{危害
+|name=镰墙陷阱
+|english_name=Wall Scythe Trap
+|kind=陷阱
+|trap_type=机械
+|cr=4
+|perception=DC 20
+|disable=DC 20
+|trigger=位置型
+|reset=自动
+|effect=近战攻击 +20（2d4+6/×4）
+|source=核心规则书
+}}

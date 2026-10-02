@@ -1,0 +1,12 @@
+{{Feat
+|name=诡异先攻
+|english_name=Befuddling Initiative
+|categories=战斗
+|pfs=否
+|description=当敌人还在骰[[先攻]]时，你已经在行动了。
+|prerequisites=[[精通先攻]]
+|benefit=你将每个在[[突袭]]轮开始时处于[[措手不及]]状态的对手，视为一直措手不及，直到其在第一个完整战斗轮中行动为止，即便其在突袭轮中行动过也是如此。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

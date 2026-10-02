@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[造成中度伤]] 的神话版本。</small></div>
+{{Spell
+|name=造成中度伤
+|english_name=Inflict Moderate Wounds
+|school=死灵系
+|levels=先知 2;唤魂师 2;女巫 2;审判者 2;战斗祭司 2;牧师 2;秘学士 2;萨满 2;反圣武士 3
+|description=法术造成的伤害增加至4d8 + 每施法者等级2点（最高+20）。若目标为活物且豁免失败的话，则会恶心，持续每施法者等级1轮（最高10轮）。
+|source=神话冒险
+}}
+[[分类:神话法术]]

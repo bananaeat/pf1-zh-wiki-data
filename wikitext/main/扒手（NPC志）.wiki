@@ -1,0 +1,54 @@
+{{速查导航}}
+{{怪物
+|name=扒手
+|english_name=Cutpurse
+|cr=1/2
+|xp=200
+|classline=人类盗贼1
+|alignment=中立邪恶
+|size=中型
+|type=类人生物
+|subtypes=人类
+|init=+7
+|senses=察觉+3
+|ac=16，接触13，措手不及13（+3护甲，+3敏捷）
+|hp=10（1D8+2）
+|fort=+1
+|ref=+5
+|will=-1
+|speed=30尺
+|melee=短剑 +3（1d6+2/19-20）
+|ranged=匕首 +3（1d4+2/19-20）
+|special_attacks=偷袭+1d6
+|tactics=<div class="ml wide"><span class="k">战前</span>盗贼隐藏以便偷袭</div><div class="ml wide"><span class="k">战时</span>盗贼专注近战攻击他的首要目标，如果目标都在射程内则投掷酸液瓶</div>
+|str=14
+|dex=17
+|con=13
+|int=10
+|wis=8
+|cha=12
+|bab=+ 0
+|cmb=+2
+|cmd=15
+|feats=[[精通先攻]];[[武器娴熟]]
+|skills=[[特技]]+7;[[攀爬]]+6;[[解除装置]]+7;脱逃+7;[[知识]]（本地）+4;察觉+3;[[巧手|手上功夫]]+7;[[隐匿]]+7;[[游泳]]+6
+|languages=通用语
+|sq=寻找陷阱+1
+|combat_gear=治疗轻伤药水;酸液瓶 X2;烟雾棒;绊足包
+|gear=精制品镶嵌皮甲;匕首 X5;短剑;盗贼工具;25gp
+|source=NPC志
+|family=核心职业（NPC志）
+|npc=1
+|lore=
+扒手是个肮脏的小偷，通过出其不意和潜行来劫掠毫无戒备的受害者。
+
+=== “利刃”Avem ===
+
+想要为自己挣得名声的年轻壮汉，Avem 比起谋杀更喜欢抢劫和盗窃——但也不怕杀人。
+
+战斗遭遇：Avem 可能在镇子不太安全的区域袭击落单的 PC，也可能是一帮菜鸟流氓的头目。
+
+扮演建议：Avem 精通很多种盗贼的技艺，也能雇来偷盗物品，价钱合适还能作为疑兵分散敌人注意力。
+}}
+
+本页译自《[[NPC志]]》的怪物图鉴 CHM。

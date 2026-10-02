@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''燃烧'''（Burn）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：特殊攻击和个体攻击</span></div>
+</noinclude><includeonly><div class="lang"><span id="燃烧"></span><div class="lang-h"><b>[[燃烧]]</b><i>Burn</i><span class="lang-w">Ex · 特殊攻击和个体攻击</span></div><div class="lang-d"></includeonly>
+拥有燃烧特殊攻击的生物会在近战攻击造成伤害时附带额外火焰伤害。那些受到燃烧效果影响的生物必须做反射检定，未通过则会着火，在额外的 1d4 轮中每轮开始时受到列出的火焰伤害 (DC 为 {10+1/2 燃烧生物种族 HD + 燃烧生物的体质修正})。燃烧中的生物可以通过[[整轮动作]]重新做一次检定。在地上翻滚扑打可以获得 +4 的豁免加值。用天生武器或[[徒手攻击]]命中燃烧中生物的生物，会如同被该燃烧生物命中一样受到火焰伤害，并且必须通过反射检定来避免着火。
+
+'''格式'''：燃烧 (2d6，DC 15)
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Burn|2=Burn}}
+
+[[分类:通用怪物规则]]</noinclude>

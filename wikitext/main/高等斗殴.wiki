@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=高等斗殴
+|english_name=Brawler, Greater
+|type=Ex
+|categories=进攻
+|prerequisites=[[斗殴]]
+|benefit=狂暴时野蛮人的[[徒手攻击]]被视为如同有[[双武器格斗]]专长。
+|source_name=进阶玩家指南
+}}

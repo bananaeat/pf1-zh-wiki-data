@@ -1,0 +1,15 @@
+{{Spell
+|name=共用延迟毒发
+|english_name=Delay Poison, Communal
+|school=咒法系 (医疗)
+|levels=先知 3;吟游诗人 3;圣武士 3;女巫 3;审判者 3;德鲁伊 3;战斗祭司 3;歌者 3;游侠 3;炼金术师 3;牧师 3;猎人 3;调查员 3
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=接触
+|target=接触到的复数生物
+|duration=1小时/等级
+|save=强韧，通过则无效（无害）
+|sr=是
+|description=这个法术工作方式如同[[减缓毒发]]，不过你可以将持续时间以1小时为单位分配给接触到的复数生物。
+|source=极限战斗
+}}

@@ -1,0 +1,8 @@
+{{Trait
+|name=强化伪装
+|english_name=Augmented Disguise
+|type=装备
+|description=你十分擅长在拥有现成道具时伪装自己。当你正戴着假发、假胡子或其他类似的较大道具，又或者当你穿着特别的服饰或佩戴吸睛的小饰品来加强你的伪装时，你在[[易容]]检定中获得+2背景加值。
+|source_name=装备背景
+|source_url=https://pf1chm.pages.dev/topics/page_1579.html
+}}

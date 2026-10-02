@@ -1,0 +1,10 @@
+{{Trait
+|name=神爪门徒
+|english_name=Godclaw Disciple
+|type=信念
+|prerequisites=守序阵营
+|description=你崇拜被称为神爪的守序神灵统和体。你对守序神祇、其神职人员、其神话故事以及其信条相关的知识(宗教)检定获得+2背景加值。此外，知识(宗教)视为你的[[本职技能]]。你必须属于守序阵营才能选取该背景。
+|source_name=地狱骑士之道
+|source=PotH
+|source_url=https://pf1chm.pages.dev/topics/zh31da2cdf93.htm
+}}

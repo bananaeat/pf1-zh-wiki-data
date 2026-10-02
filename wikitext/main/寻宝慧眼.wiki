@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Skull & Shackles Player's Guide pg. 6），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=寻宝慧眼
+|english_name=Eye for Plunder
+|type=战役
+|pfs=否
+|description=你一向对金银的光芒眼光敏锐，你抢过的富商和劫过的船只也足够多，对最值钱的战利品藏在哪里自有一番感觉。你的[[估价]]检定，以及为寻找隐藏或秘密物件（包括门和陷阱）进行的[[察觉]]检定获得+1背景加值。此外，你开始战役时拥有一批价值50 gp的普通贸易货物，那是你在苦艾号上的第一天东拼西凑来的。
+
+分到上一趟航行的战利品后，你手头颇为宽裕，决定在亡命港一家热门的海盗酒馆“悍女”花掉几枚来之不易的钱币。然而也许是新得的财富让你分了神，你始终没看到那些往你酒里下了东西的恶棍，你就这么被一下子放倒了。
+|source_name=Skull & Shackles Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Eye%20for%20Plunder
+}}

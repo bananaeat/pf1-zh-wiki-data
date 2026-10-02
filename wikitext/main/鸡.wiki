@@ -1,0 +1,9 @@
+{{装备
+|name=鸡
+|english_name=Chicken
+|cat=坐骑与宠物
+|price=1 gp
+|weight=6磅
+|description=这种家禽无法长距离飞行，人们会为了鸡蛋和肉食而饲养它们。饲养公鸡一般是为了配种，或者用于偶尔召开的血腥活动。
+|source=极限宝具
+}}

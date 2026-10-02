@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=出血打击
+|english_name=Bleeding Blow
+|type=Ex
+|class=掉链野蛮人
+|benefit=当处于[[威力战姿]]时，野蛮人可以使她的一次攻击造成敌人[[流血]]。每回合1次，野蛮人可以使她的一次攻击额外造成相当于威力战姿的伤害加值的1/2的[[流血伤害]]。该流血伤害无视伤害减免。此流血伤害不能与它自身相叠加。野蛮人至少要达到8级后且拥有【威力战姿】才能选择此狂暴之力。
+|classic=流血猛击
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

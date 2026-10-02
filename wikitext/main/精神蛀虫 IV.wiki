@@ -1,0 +1,16 @@
+{{Spell
+|name=精神蛀虫 IV
+|english_name=Thought worm iv
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=异能者 5
+|action=标准动作
+|components=姿势
+|range=近距
+|target=一个生物
+|duration=1轮/等级
+|save=意志，通过则部分生效（见描述）
+|sr=是
+|description=该法术的功能如同精神蛀虫III一般，除了目标的意志豁免减值改为-6，另外，目标在成功通过该法术意志豁免时，其对抗你的影响心灵的法术和效果的意志豁免依然会在相同的持续时间内承受-3减值。该法术可以被降阶施法。
+|source=异能选集
+}}

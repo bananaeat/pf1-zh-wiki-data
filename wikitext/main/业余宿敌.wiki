@@ -1,0 +1,13 @@
+{{Feat
+|name=业余宿敌
+|english_name=Dedicated Adversary
+|categories=战斗
+|pfs=否
+|description=你有个十分讨厌的对手，为此你钻研过无数弄死它的计划。
+|prerequisites=在拥有宿敌职业能力的职业上不拥有任何等级
+|benefit=当选择这个专长时，同时选择一种特定的生物（如[[霜巨人]]，狼，[[地精]]，巴布魔，诸如此类），你在对抗该生物时获得游侠的宿敌职业能力的好处，宿敌加值为+2，但是本专长在作为先决条件时不视为拥有宿敌职业能力。如果你在选择本专长后获得了拥有宿敌能力的职业等级，那么你可以免费将本专长置换为一个你符合先决条件且先决条件要求宿敌职业能力的专长。
+|special=你可以多次选择本专长，其效果不会叠加。每次选择本专长时，必须选择另一种生物。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

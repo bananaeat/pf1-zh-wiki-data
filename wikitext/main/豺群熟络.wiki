@@ -1,0 +1,9 @@
+{{Trait
+|name=豺群熟络
+|english_name=Pack Savvy
+|type=社会
+|description=你学会了赢得地区里[[豺狼人]]尊敬的方法，同时对这些家伙的社会结构略有知晓。你在和豺狼人打交道时，基于魅力的技能检定获得+3背景加值。
+|source_name=废土子民
+|source=PotW
+|source_url=https://pf1chm.pages.dev/topics/zha1cb183769.htm
+}}

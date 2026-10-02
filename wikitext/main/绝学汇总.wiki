@@ -1,0 +1,29 @@
+{{速查导航}}
+
+'''绝学汇总'''是《[[解放者]]》的一章：[[掉链武僧]]的全部[[绝学]]，一张按出处排的总表加每一条的正文。
+
+四十四条全搬进 [[绝学]] 那一页了。原先页上只有二十八条（全出自《[[解放者]]》本身）,'''少的十六条里连《解放者》自己的三条'''（洞见识、天灵视、混元体）都没有。
+
+== 本章条目 ==
+
+四十四条绝学都收在 [[绝学]] 一页里，按英文名排。这一轮补上去的十六条：
+* [[绝学#行意前 (Action Before Thought, EX)|行意前]]（Action Before Thought, EX；《[[武术手册]]》）
+* [[绝学#空手切 (Bare-Hand Block, EX)|空手切]]（Bare-Hand Block, EX；《[[武术手册]]》）
+* [[绝学#拂柳风 (Branch Runner, EX, SU)|拂柳风]]（Branch Runner, EX, SU；《[[野兽血脉]]》）
+* [[绝学#问心录 (Breaking-Down Koan, SU)|问心录]]（Breaking-Down Koan, SU；《[[武术手册]]》）
+* [[绝学#证心录 (Building-Up Koan, SU)|证心录]]（Building-Up Koan, SU；《[[武术手册]]》）
+* [[绝学#滞空步 (Floating Breath, SU)|滞空步]]（Floating Breath, SU；《[[荒野源始]]》）
+* [[绝学#自由行 (Freedom of Movement, SU)|自由行]]（Freedom of Movement, SU；《[[野兽血脉]]》）
+* [[绝学#肆意袭 (Improvised Weapon Proficiency, EX, SU)|肆意袭]]（Improvised Weapon Proficiency, EX, SU；《[[野兽血脉]]》）
+* [[绝学#洞见识 (Insightful Wisdom, SU)|洞见识]]（Insightful Wisdom, SU）
+* [[绝学#冥想法 (Ki Meditation, SU)|冥想法]]（Ki Meditation, SU；《[[野兽血脉]]》）
+* [[绝学#击破劲 (Ki Sunder, EX)|击破劲]]（Ki Sunder, EX；《[[武术手册]]》）
+* [[绝学#天灵视 (Ki Visions, SU)|天灵视]]（Ki Visions, SU）
+* [[绝学#传灯录 (Master-Thought Koan, SU)|传灯录]]（Master-Thought Koan, SU；《[[武术手册]]》）
+* [[绝学#水奔流 (Racing Current, SU)|水奔流]]（Racing Current, SU；《[[荒野源始]]》）
+* [[绝学#混元体 (Wholeness of Body, SU)|混元体]]（Wholeness of Body, SU）
+* [[绝学#烈风吹 (Zephyr Blow, SU)|烈风吹]]（Zephyr Blow, SU；《[[荒野源始]]》）
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh895b5c032f.htm 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

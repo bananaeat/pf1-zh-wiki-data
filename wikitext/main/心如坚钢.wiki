@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=心如坚钢
+|english_name=Clear Mind
+|type=Ex
+|categories=防御
+|prerequisites=[[野蛮人]]8级
+|benefit=野蛮人可以重骰一次失败的意志豁免。使用此[[狂暴之力]]是一个[[直觉动作]]，而且必须在GM宣布结果前启用。他必须接受重骰结果，即使更糟。
+|special=他每次狂暴只能使用1次此能力。
+|unchained=心若明镜
+|source_name=核心规则书
+}}

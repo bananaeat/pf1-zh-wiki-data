@@ -1,0 +1,9 @@
+{{Trait
+|name=驯兽师
+|english_name=Beast Bond
+|type=社会
+|description=你和动物之间有着亲密的联系。你的[[驯养动物]]和骑术检定获得+1加值，并且总能将二者之一(自行选择)视为你的[[本职技能]]。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

@@ -1,0 +1,11 @@
+{{Trait
+|name=苦涩经历
+|english_name=Bitter
+|type=缺陷
+|pfs=否
+|aliases=落魄客
+|description=你被那些你信任的家伙反复伤害过，这使你变得难以接受他人的帮助。
+|benefit=当你从盟友的职业特性、法术或类法术能力获得治疗时，治疗量-1hp。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

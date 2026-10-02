@@ -1,0 +1,15 @@
+{{魔法物品
+|name=孢子斗篷
+|english_name=Mantle of Spores
+|aon=MagicWondrousDisplay.aspx?FinalName=Mantle of Spores
+|cat=奇物
+|aura=微弱死灵系
+|cl=5
+|slot=肩部
+|price=13,400 gp
+|weight=1磅
+|description=穿戴者对抗疾病的豁免检定获得+4抗力加值。每天一次，穿戴者可以用一个迅捷动作抖动斗篷，让一团致命的孢子云环绕自身。与穿戴者相邻的生物会受到孢子造成的1d6点伤害，此后孢子长成毛茸茸的绿色霉菌，每轮再造成1d3点伤害，持续3轮。这3轮过后，霉菌变得无害，用力擦洗1分钟即可洗掉。可以对受影响的生物进行DC 15的医疗检定来消灭孢子，也可以用移除疾病的效果消灭。孢子属于疾病效果。
+|req=[[制造奇物]]、[[疫病术]]
+|cost=6,700 gp
+|source=极限宝具
+}}

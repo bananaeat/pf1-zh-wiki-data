@@ -1,0 +1,12 @@
+{{Feat
+|name=变异型态
+|english_name=Mutated Shape
+|pfs=否
+|description=你自然变身的型态获得了可以用于攻击敌人的附肢。
+|prerequisites=[[感知]] 19，基础攻击加值+6，自然变身职业能力。
+|benefit=当你使用自然变身时，会额外长出一种你所选的附肢，可以用于进行以下其中一种攻击：啮咬，爪抓，牴撞，挥击，螫刺或爪击。此附肢能作为[[全力攻击]]的一部份使用，并且使用你最高的基础攻击加值，造成的伤害如表格3-2：变异型态附肢攻击所述。只要你在本次使用自然变身中保持同一种型态，此附肢就会持续存在。表格3-2：变异型态附肢攻击
+|tables=<table><tr><th>天生攻击</th><th>超微型</th><th>微型</th><th>超小型</th><th>小型</th><th>中型</th><th>大型</th><th>超大型</th><th>巨型</th><th>超巨型</th><th>伤害类型</th><th>攻击类型</th></tr><tr><td>啮咬</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td><td>2d8</td><td>4d6</td><td>钝击/穿刺/挥砍</td><td>主要</td></tr><tr><td>爪抓</td><td>—</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td><td>2d8</td><td>钝击/挥砍</td><td>主要</td></tr><tr><td>牴撞</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td><td>2d8</td><td>4d6</td><td>穿刺</td><td>主要</td></tr><tr><td>挥击</td><td>—</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td><td>2d8</td><td>钝击</td><td>主要</td></tr><tr><td>螫刺</td><td>—</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td><td>2d8</td><td>穿刺</td><td>主要</td></tr><tr><td>爪击</td><td>—</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td><td>2d8</td><td>挥砍</td><td>主要</td></tr></table>
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

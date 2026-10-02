@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=狂暴|en=Rage|type=Su|domain=毁灭领域|sub=狂暴子域 (Rage)|sub_name=狂暴子域|source=进阶玩家指南|text=8级时，你每天能狂暴的轮数为牧师等级，该狂暴轮数和任何你从野蛮人等级获得的狂暴轮数叠加。在12级和16级能分别选择一个[[狂暴之力]]——但不能是有等级要求的——除此之外，在狂暴之力方面你的野蛮人等级视为牧师等级的一半。此能力取代[[毁灭领域#毁灭灵光 (Destructive Aura, Su)|毁灭灵光]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

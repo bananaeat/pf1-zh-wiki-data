@@ -1,0 +1,10 @@
+{{Feat
+|name=受身
+|english_name=Ki Stand
+|description=在对手将你击倒时，你能迅速起身。
+|prerequisites=【气运丹田】能力。
+|benefit=只要你在[[武僧#气运丹田|气池]]中存在至少1点气，你可以用一个引发借机的[[迅捷动作]]站起来。你可以花费1点气让你在使用迅捷动作起身的时候不引发[[借机攻击]]。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

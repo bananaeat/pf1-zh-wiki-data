@@ -1,0 +1,10 @@
+{{Feat
+|name=矮人恨意流
+|english_name=Dwarven Hatred Style
+|categories=战斗;流派
+|description=你将仇恨转化为一腔怒火。
+|prerequisites=基本攻击加值+1，防御训练与仇恨种族特性，中等体型
+|benefit=在对抗合适的种族或亚种时，你能够将仇恨种族特性的加值同时加到攻击检定和武器伤害检定上，而且这些加值提升至+2点。
+|source_name=武器大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_420.html
+}}

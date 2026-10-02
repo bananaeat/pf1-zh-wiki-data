@@ -1,0 +1,26 @@
+{{速查导航}}
+
+'''神秘活力(先知)'''是《[[治疗者手册]]》的一章。
+
+本部分介绍了一个新的[[先知]]变体以及新的密示域
+
+{| class="wikitable"
+|-
+| 衰弱射线 Ray of enfeeblement (2nd) || 高等英雄气概 greater heroism(12th)
+|-
+| 护命屏障 shield of fortificationACG (4th) || 耗费术 expendAPG (14th)
+|-
+| 协调行动 coordinated effortAPG (6th) || 高等碎法咒 greater spellcrashACG (16th)
+|-
+| 高等护命屏障 greater shield of fortificationACG (8th) || 抑制法墙 wall of suppressionAPG (18th)
+|-
+| 石肤术 stoneskin (10th) ||
+|}
+
+== 本章条目 ==
+
+* [[本草医师]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_711.html 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

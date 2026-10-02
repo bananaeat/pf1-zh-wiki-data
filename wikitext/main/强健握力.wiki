@@ -1,0 +1,9 @@
+{{Trait
+|name=强健握力
+|english_name=Superior Clutch
+|type=种族
+|prerequisites=[[魔裔]]（饥饿之种）
+|description=你的双手不但比常人大许多，而且还有着强大的握力，这使得你在使用大型武器时如鱼得水。当你越型使用更大的武器时，你的伤害检定获得+1背景加值。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_832.html
+}}

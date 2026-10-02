@@ -1,0 +1,12 @@
+{{魔法物品
+|name=精金战斧
+|english_name=Adamantine Battleaxe
+|cat=特殊魔法武器
+|base=战斧
+|aura=无灵光（非魔法）
+|slot=无
+|price=3,010 gp
+|weight=6磅
+|description=这把非魔法的[[战斧]]由[[精金]]打造。作为精制品武器，它的攻击检定具有+1增强加值。
+|source=核心规则书、极限宝具
+}}

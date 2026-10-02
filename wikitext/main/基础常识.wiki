@@ -1,0 +1,9 @@
+{{Feat
+|name=基础常识
+|english_name=Horse Sense
+|description=你接受了大亲王贝尔丹一世在位时强调要像小动物一样坚持不懈的理念，模仿它们来保护自己免受复杂心灵效果的影响。
+|prerequisites=15感知，钢铁意志
+|benefit=当你针对无法影响动物的惑控效果（比如魅惑人类）进行豁免检定时，你可以双骰取高。
+|source_name=冒险之路132：六传奇之魂
+|source_url=https://pf1chm.pages.dev/topics/132_The_Six-Legend_Soul.htm
+}}

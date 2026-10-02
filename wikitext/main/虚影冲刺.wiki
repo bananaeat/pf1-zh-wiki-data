@@ -1,0 +1,11 @@
+{{Feat
+|name=虚影冲刺
+|english_name=Shadowy Dash
+|description=在昏暗的光线中，你看起来比影子更加难以辨认。
+|prerequisites=剪影人。
+|benefit=当你处于昏暗或黑暗的区域中，你能够以全速潜行，而不会在这么做时隐匿检定受到正常的-5减值。
+|normal=当你以半速以上的速度移动时，隐匿检定会受到-5减值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

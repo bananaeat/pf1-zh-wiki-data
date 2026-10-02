@@ -1,0 +1,17 @@
+{{武器
+|name=刺棍
+|english_name=Planson
+|category=武器
+|prof=军用
+|wcat=双手
+|price=10 gp
+|weight=10磅
+|dmg_s=1d8
+|dmg_m=1d10
+|crit=×2
+|type=钝击或穿刺
+|special=迎击
+|groups=锤，矛
+|description=这根5尺长的锥形长杆外包金属，顶端伸出一根细长的金属尖刺。刺棍既可以当作木棒使用，也可以当作一杆坚固（尽管头重脚轻）的矛，用来阻挡冲锋。
+|source=近战战术工具箱
+}}

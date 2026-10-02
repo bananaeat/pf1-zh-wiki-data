@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[落马击 (神话)]]。</small></div>
+{{Feat
+|name=落马击
+|english_name=Unseat
+|categories=战斗
+|description=你擅长将骑乘对手击落马下。
+|prerequisites=力量13，骑乘1级，[[骑乘战斗]]，[[猛力攻击]]，[[精通冲撞]]，基本攻击加值+1。
+|benefit=当骑乘并使用[[长枪]]对敌人进行冲锋时，照常计算攻击检定。但若攻击命中，你在正常的伤害之外，可以立即免费进行一次[[冲撞]]尝试。若检定成功，则目标被从马上击落倒地在临近他的坐骑且直线远离你的位置。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

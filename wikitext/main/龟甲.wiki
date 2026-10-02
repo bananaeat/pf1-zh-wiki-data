@@ -1,0 +1,12 @@
+{{消歧义|龟甲 (消歧义)}}
+{{Feat
+|name=龟甲
+|english_name=Snapping Turtle Shell
+|categories=战斗
+|description=你防御用的那只手在拨挡攻击方面已臻化境。
+|prerequisites=[[精通擒抱]]，[[精通徒手打击]]，[[龟爪]]，[[鳄龟势]]，基本攻击加值+5或武僧5级。
+|benefit=当你处于[[鳄龟势|鳄龟流派]]架势时，你在此架势获得的盾牌加值变成+2，而且对手对你的重击确认骰受到-4减值。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

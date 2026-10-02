@@ -1,0 +1,15 @@
+{{魔法物品
+|name=战技护手
+|english_name=Gauntlets of the Skilled Maneuver
+|aon=MagicWondrousDisplay.aspx?FinalName=Gauntlets of the Skilled Maneuver
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=手部
+|price=4,000 gp
+|weight=1磅
+|description=穿戴这副护手的人，在制造者制造时选定的某一种[[战技]]检定（例如[[冲撞]]、[[卸武]]或[[盗取]]）上获得+2加值。
+|req=[[制造奇物]]、制造者必须拥有相应的精通战技专长
+|cost=2,000 gp
+|source=极限宝具
+}}

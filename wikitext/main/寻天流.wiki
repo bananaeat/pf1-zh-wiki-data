@@ -1,0 +1,11 @@
+{{Feat
+|name=寻天流
+|english_name=Skyseeker Style
+|categories=战斗;流派
+|description=你知道如何踏进敌人防御之中的间隙，以缩短你与敌人的距离。
+|prerequisites=快步跟进，BAB+1
+|benefit=每轮一次，当敌人用长触及武器攻击你时，你可以以一个直觉动作朝他进行一个五尺快步。如果此次移动让你来到了一个敌人的长触及武器无法威胁的方格，那么你会在对抗这次攻击的AC上获得+4加值。如果你如此移动，那么你下一个回合无法进行五尺快步。如果你下一回合进行了移动，从你的总移动距离里面减去5尺。
+|source=BotA
+|source_name=古国血脉
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=丛林抗毒
+|english_name=Jungle Resilience
+|type=地区
+|prerequisites=娜迦国
+|description=你在娜迦国长大，已习惯了当地居民的种种毒药，并练就了强大的免疫系统。你对抗毒素效果的强韧豁免获得+2背景加值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Jungle%20Resilience
+}}

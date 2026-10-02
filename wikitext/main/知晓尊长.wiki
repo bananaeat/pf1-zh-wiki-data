@@ -1,0 +1,11 @@
+{{Feat
+|name=知晓尊长
+|english_name=Know Master
+|aon=无
+|categories=技巧
+|description=你从它们的奴仆中认出了不死霸主的蛛丝马迹。
+|benefit=你可以花1分钟时间检查你在最近一小时内摧毁的不死生物的遗骸。这样做后，你可以尝试进行一次察觉检定，DC等于15 + 不死生物的生命骰。如果你成功了，你能知道该不死生物是如何被创造的——通过法术，创造衍体能力，自发产生或其他来源。
+|special=如果你有吸血鬼学者（Vampire Scholar）专长，你也可以识别出被摧毁不死生物的创造者的一些迹象。如果你确定不死生物是由吸血鬼创造的，你可以立即使用你的吸血鬼学者专长（请参阅第16页）来确定谁创造了它。
+|source_name=其他职业
+|source_url=https://pf1chm.pages.dev/topics/page_1210.html
+}}

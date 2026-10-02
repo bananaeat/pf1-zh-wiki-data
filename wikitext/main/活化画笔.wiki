@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=活化画笔
+|english_name=Animator Brush
+|aon=MagicWondrousDisplay.aspx?FinalName=Animator Brush
+|cat=奇物
+|aura=中等变化系
+|cl=11
+|slot=无
+|price=40,000 gp
+|description=只需在一件无生命物体上轻轻几笔，这支貌不惊人的画笔就能令该物品活化，如同对其施展了[[活化物体]]一般。每次使用此能力消耗1次充能。活化画笔在制造时有25次充能。
+|req=[[制造奇物]]、[[活化物体]]
+|cost=20,000 gp，1,600 XP
+|source=邪恶画廊
+}}

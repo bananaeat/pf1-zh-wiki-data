@@ -1,0 +1,15 @@
+{{魔法物品
+|name=巨拳护手
+|english_name=Giant Fist Gauntlets
+|aon=MagicWondrousDisplay.aspx?FinalName=Giant Fist Gauntlets
+|cat=奇物
+|aura=中等变化系
+|cl=8
+|slot=手部
+|price=20,000 gp
+|weight=5磅
+|description=穿戴这双粗糙皮手套的人，可以以一个[[迅捷动作]]把双手膨胀到正常大小的两倍，并硬化到如同硬木的质地。这种变化每天最多持续20轮，这些轮数不必连续。如果穿戴者用变大的双手进行的[[徒手攻击]]或天然攻击命中，她可以以一个[[自由动作]]尝试对其对手进行冲撞。
+|req=[[制造奇物]]、[[变巨术]]
+|cost=10,000 gp
+|source=极限宝具
+}}

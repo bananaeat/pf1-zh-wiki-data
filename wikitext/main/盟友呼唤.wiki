@@ -1,0 +1,10 @@
+{{Feat
+|name=盟友呼唤
+|english_name=Ally Caller
+|description=你能够更加频繁地从海洋中[[寻求帮助]]。
+|prerequisites=[[梭螺鱼人]]，召唤自然盟友 II法术能力，角色等级3级
+|benefit=你获得2次额外的[[召唤自然盟友 II]] 法术能力每日使用次数。
+|special=你可以多次选择该专长，每次获得额外2次使用次数。
+|source_name=海洋之血
+|source_url=https://pf1chm.pages.dev/topics/zh7e409f67e0.htm
+}}

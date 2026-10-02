@@ -1,0 +1,9 @@
+{{装备
+|name=干粮
+|english_name=Trail rations
+|cat=饮食
+|price=5 sp
+|weight=1磅
+|description=所列价格是一天份的食物。这种寡淡的食物通常是某种硬饼干、肉干和果干，不过内容因地区以及制作者的种族而异。只要保持干燥，它可以保存数月而不变质。
+|source=核心规则书、极限宝具
+}}

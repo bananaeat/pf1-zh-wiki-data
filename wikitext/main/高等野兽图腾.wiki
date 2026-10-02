@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=高等野兽图腾
+|english_name=Beast Totem, Greater
+|type=Su
+|categories=图腾
+|prerequisites=[[野蛮人]]10级，[[野兽图腾]]
+|benefit=狂暴时野蛮人获得“[[通用怪物规则#猛扑|猛扑]]”[[特殊能力]]，让他在冲锋之后能发动[[全力攻击]]。此外，他的爪抓伤害增加到1d8(小型生物为1d6)，重击倍率增为×3。
+|source_name=进阶玩家指南
+}}
+
+{{FAQ|v5748eaic9p05}}

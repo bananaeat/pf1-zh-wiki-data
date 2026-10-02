@@ -1,0 +1,41 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #48: Shadows of Gallowspire
+|authors=Brandon Hodge
+|pages=96
+}}
+
+{{书页/简介|head=万物的终结|1=
+一场要释放世间有史以来最伟大死灵法师的疯狂阴谋，正走向它阴森的终局。当默语之道那些嗜杀的邪教徒退入他们亵渎的圣所，死亡的力量彼此对齐，要复活他们陨落的勇士。大胆的冒险者们追击这些恶徒，可他们的勇气，能否撑过闹鬼的维利奇荒原、遭诅咒的伦奇大教堂（Renchurch），乃至最终高耸的绞架尖塔墓穴？他们的胆魄，又足以阻止默语暴君——那位被封锁在乌斯塔拉夫最致命的废墟之下、声名狼藉的[[巫妖]]之王——在一个毫无防备的世界上重生吗？在「腐肉王冠」[[冒险之路]]这高潮迭起的终章里，英雄们必须直面死亡本身的仆从，检验自己的胆量。
+
+本期《开拓者》冒险之路包括：
+
+* 《绞架尖塔的魔影》，一部面向 13 级角色的开拓者冒险，作者 Brandon Hodge。
+* 用来延长你「腐肉王冠」战役恐怖的阴险阴谋与阴森威胁，作者 F. Wesley Schneider。
+* 对在内海地区各处谋划灾祸的最臭名昭著的[[巫妖]]的调查，作者 Adam Daigle。
+* Laurel Cylphra 在「探索者日志」中试图拯救一个灵魂，作者 F. Wesley Schneider。
+* 五种新怪物，作者 Adam Daigle、Crystal Frasier 和 F. Wesley Schneider。
+}}
+
+'''冒险之路48：绞架尖塔的魔影'''（''Pathfinder #48: Shadows of Gallowspire''）是[[冒险之路]]「腐肉王冠」系列的第六章，也是最终章冒险，由 Brandon Hodge 撰写，配套内容出自 Adam Daigle、Crystal Frasier 和 F. Wesley Schneider，小说出自 F. Wesley Schneider，于 2011 年 8 月 4 日发行。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+绞架尖塔的魔影 @ 6
+继续战役 @ 60
+格拉利昂的[[巫妖]] @ 70
+探索者日志：罪血（6／6） @ 74
+怪物图鉴 @ 80
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Shadows of Gallowspire
+|releases=PDF¦PZO9048E¦2011-08¦；Softcover¦PZO9048¦2011-08¦978-1-60125-313-2
+}}
+
+<small>书名照 CHM 汉化（CHM 作「绞首塔的魔影」，其中 Gallowspire 按站上通行译名改作「绞架尖塔」）。</small>
+
+[[分类:书目]]

@@ -1,0 +1,17 @@
+{{魔法物品
+|name=海盗女王的宽边帽
+|english_name=Besmara's Bicorne
+|aon=MagicWondrousDisplay.aspx?FinalName=Besmara's Bicorne
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=头部
+|price=1,700 gp
+|weight=1磅
+|description=这顶硕大的海盗帽正面有一个骷髅交叉骨的图案。穿戴者在特技和攀爬检定上获得+2表现加值。
+
+如果[[贝丝玛拉]]是穿戴者的守护神，穿戴者进入任何水体时都会自动以30尺的速度浮到水面，除非她自己不愿如此；这并不妨碍穿戴者安全地落入水中，或以其他任何方式与水互动。
+|req=[[制造奇物]]、[[浮空术]]，制造者必须在特技和攀爬上各有5级
+|cost=850 gp
+|source=神与魔法、内海诸神
+}}

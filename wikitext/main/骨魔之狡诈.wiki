@@ -1,0 +1,11 @@
+{{Feat
+|name=骨魔之狡诈
+|english_name=Osyluth Guile
+|categories=战斗
+|description=你有技巧地使你的对手的攻击失准。
+|prerequisites=[[唬骗]]8级，[[闪避]]
+|benefit=当你使用防御式战斗或者采用[[全防御]]时，你可以选择一名对手。到你的下回合为止，你在针对其的近战攻击时在AC上获得等同于你的魅力调整值的闪避加值。当你不能看到你所选择的对手时你不能使用此专长。
+|source=CEoD
+|source_name=切里亚斯，魔鬼王朝
+|source_url=https://pf1chm.pages.dev/topics/page_561.html
+}}

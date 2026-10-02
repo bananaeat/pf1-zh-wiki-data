@@ -1,0 +1,12 @@
+{{Feat
+|name=扰乱射击
+|english_name=Disrupting Shot
+|categories=战斗
+|description=通过准确的射击，你能够使近处的敌人更加难以施放法术。
+|prerequisites=敏捷13，[[近距射击]]，战士等级6。
+|benefit=如果你进行[[准备动作]]射击30尺内施法的敌人，并且成功以远程攻击命中该名敌人，那么该名敌人成功施放法术的专注DC提高4点。
+|stamina=使用该专长时最多可花费3点耐力，每点耐力提升专长适用距离10尺，最多到60尺。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

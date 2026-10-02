@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[知己知彼]] 的神话版本。</small></div>
+{{Spell
+|name=知己知彼
+|english_name=Know the Enemy
+|school=预言系
+|levels=先知 1;圣武士 1;审判者 1;战斗祭司 1;游侠 1;牧师 1;猎人 1
+|description=洞察加值增加至+15点外加你的阶层。若检定成功，你会在自身下一次对抗该类生物的攻击检定或豁免检定中获得+5洞察加值，上述检定必须发生在施放法术后的24小时内。
+|source=神话冒险
+}}
+[[分类:神话法术]]

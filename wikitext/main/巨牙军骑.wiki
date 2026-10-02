@@ -1,0 +1,12 @@
+{{Feat
+|name=巨牙军骑
+|english_name=Slurk Rider
+|categories=战斗
+|pfs=否
+|description=你可以骑乘巨牙蟾加入战斗。
+|prerequisites=狗头人
+|benefit=你可以控制，指挥和与巨牙蟾（Slurks，B2）沟通，如同他们懂得龙语一般。你还可以以一个标准动作刺激一只巨牙蟾背后的腺体使它激活自己的黏液能力。你和巨牙蟾可以在同一轮内分别激活它的黏液能力。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1408.html
+}}

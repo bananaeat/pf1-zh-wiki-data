@@ -1,0 +1,21 @@
+<includeonly>{{#invoke:版权抬头|main}}{{#invoke:武器|gear}}{{条目页脚|速查=物品速查|分类=物品|附加={{#if:{{{cat|}}}|[[:分类:{{{cat}}}|{{{cat}}}]]}}}}</includeonly><noinclude>
+装备卡片（AoN「其他物品」：冒险装备、炼金物品、工具、衣物、饮食、坐骑……）。一栏一项，页上的参数就是数据。渲染在 [[模块:武器]] 的 gear 入口，样式沿用 [[MediaWiki:Common.css]] 的「物品卡片」一节。武器用 [[模板:武器]]、防具用 [[模板:防具]]、魔法物品用 [[模板:物品]]。
+
+ {{装备
+ |name=粉笔
+ |english_name=Chalk
+ |cat=冒险装备
+ |price=1 cp
+ |weight=—
+ |description=……
+ |source=核心规则书、极限宝具
+ }}
+
+* <code>english_name</code>：照抄 AoN 的条目名，自动链到 AoN；地址不同写 <code>aon=EquipmentMiscDisplay.aspx?ItemName=…</code>，<code>aon=无</code> 不挂。
+* <code>cat</code>：冒险装备、炼金药剂、炼金工具、炼金武器、动物装备、黑市、引导法器、衣物、调剂、龙具、地城指南、娱乐、饮食、草药、套装、住宿与服务、坐骑与宠物、开拓者编年史、酊剂、工具、刑具、空中交通、陆上交通、水上交通（进同名分类，另进 分类:装备）。
+* 炼金类：<code>craft_dc</code> 制作 DC；炼金武器另有 <code>dmg</code> <code>crit</code> <code>range</code> <code>type</code> <code>special</code>；《炼金术手册》的配方写 <code>recipe</code>（原料和工序）、<code>recipe_time</code>、<code>recipe_tools</code>。
+* 草药：<code>gather</code> 采集、<code>yield</code> 产量、<code>terrain</code> 地形、<code>prep</code> 制备、<code>use</code> 用法。
+* 引导法器 <code>deity</code>；交通 <code>passage</code>（每英里路费）；地城指南 <code>accuracy</code> 准确度、<code>skill</code> 关联技能；坐骑与宠物 <code>creature</code>（该动物的怪物页名）。
+* <code>source</code>：出处书名，几本用「、」隔开，首印在前。
+[[分类:模板]]
+</noinclude>

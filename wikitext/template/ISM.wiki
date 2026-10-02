@@ -1,0 +1,6 @@
+<includeonly>([[扩展手册#ISM|ISM]])</includeonly><noinclude>
+<pre>
+*{{ISM}}
+</pre>
+*{{ISM}}
+</noinclude>

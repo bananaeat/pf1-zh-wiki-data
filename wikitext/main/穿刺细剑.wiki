@@ -1,0 +1,16 @@
+{{魔法物品
+|name=穿刺细剑
+|english_name=Rapier of Puncturing
+|cat=特殊魔法武器
+|base=细剑
+|enh=+2 血光
+|aura=强烈死灵系
+|cl=13
+|slot=无
+|price=50,320 gp
+|weight=2磅
+|description=每天3次，这把+2血光[[细剑]]允许持用者用它进行一次[[接触攻击]]，通过吸取血液造成1d6点体质伤害。免疫重击的生物也免疫这件武器造成的体质伤害。
+|req=[[制造魔法武器和防具]]、[[重伤术]]
+|cost=25,320 gp
+|source=核心规则书、极限宝具
+}}

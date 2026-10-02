@@ -1,0 +1,9 @@
+{{Trait
+|name=恐吓成瘾
+|english_name=Always Threatening
+|type=宗教
+|prerequisites=信仰塔米尔·金克斯
+|description=你能很快的拔出武器。你可以用一个[[移动动作]]抽出一个隐藏的轻型武器(你必须有该[[武器专攻]]专长)。如果你有快拔专长，可以以一个[[自由动作]]抽出这把武器。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

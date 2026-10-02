@@ -1,0 +1,20 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[祝福术 (神话)]]。</small></div>
+{{Spell
+|name=祝福术
+|english_name=Bless
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=先知 1;圣武士 1;审判者 1;导师 1;战斗祭司 1;牧师 1;萨满 1
+|domains=团队领域 1;领导子域 1;决意子域 1
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=50尺
+|area=施法者，以及以施法者为中心半径50尺爆发区域内的所有盟友
+|duration=1分钟/等级
+|save=无
+|sr=是（无害）
+|description=祝福术让你的盟友充满了勇气。每个盟友都在攻击检定和对抗恐惧的豁免检定中获得+1士气加值。
+
+祝福术反制和解除[[绝望术]]。
+|source=核心规则书
+}}

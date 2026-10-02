@@ -1,0 +1,10 @@
+{{Feat
+|name=洞察之眼
+|english_name=Discerning Eye
+|description=你可不会轻易被幻术与赝品所蒙骗。
+|prerequisites=精灵或半精灵，【敏锐感官】种族特性。
+|benefit=在对抗幻术系法术以及效果时，你的豁免检定获得+2种族加值。同时在使用[[语言学]]检定揭穿伪造文件时获得+2加值。你能够在未受训的情况下使用语言学技能揭穿伪造的文件。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

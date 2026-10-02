@@ -1,0 +1,11 @@
+{{Feat
+|name=螳螂铁刺
+|english_name=Mantis Torment
+|categories=战斗
+|description=你对解剖知识的了然于心，使你的轻轻一触即可带来巨大痛苦。
+|prerequisites=[[精通徒手打击]]，[[震慑拳]]，[[螳螂拳]]，[[六合拳劲]]，医疗9级。
+|benefit=你获得1次[[震慑拳]]每日使用次数。当你使用[[螳螂拳]][[流派]]架势时，你可以消耗2发“震慑拳”进行一次[[徒手攻击]]，若然命中且对手豁免失败（使用你的震慑拳豁免），在你下一轮开始前对手会因剧痛而陷入[[目眩]]和[[恍惚]]状态，你下轮开始后，对手变成[[疲乏]]状态。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

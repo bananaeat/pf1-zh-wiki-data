@@ -1,0 +1,15 @@
+{{魔法物品
+|name=大师的完美黄金铃
+|english_name=Master's Perfect Golden Bell
+|aon=MagicWondrousDisplay.aspx?FinalName=Master's Perfect Golden Bell
+|cat=奇物
+|aura=强烈防护系
+|cl=15
+|slot=无
+|price=20,000 gp
+|weight=10磅
+|description=这口光泽闪耀的黄金铃发出深沉而洪亮的铃声，与主物质位面完美谐振，并对异界存在产生破坏性的干涉。这些振动使30尺内所有异界生物的[[伤害减免]]和[[特殊能力#法术抗力|法术抗力]]降低5点（例如，DR 10/魔法变成DR 5/魔法）。铃上没有铃舌；要敲响它，持有者必须用[[徒手攻击]]击打它（这算作一次攻击，无需攻击检定，也不会损伤铃铛）。铃声持续1d6轮；提前止住铃声是一个[[标准动作]]。它每天最多可以鸣响10轮。
+|req=[[制造奇物]]、[[放逐术]]
+|cost=10,000 gp
+|source=极限宝具
+}}

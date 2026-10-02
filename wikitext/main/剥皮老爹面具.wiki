@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=剥皮老爹面具
+|english_name=Skinsaw Mask
+|aon=MagicWondrousDisplay.aspx?FinalName=Skinsaw Mask
+|cat=奇物
+|aura=微弱死灵系［恶］
+|cl=3
+|slot=头部
+|price=1,500 gp
+|weight=1磅
+|description=剥皮老爹面具的穿戴者，在对不免疫恐惧的生物进行的察觉检定上获得+2表现加值，用挥砍武器对活物造成的伤害掷骰上获得+1亵渎加值。每当戴上面具，穿戴者会受到1点魅力伤害——大多数剥皮老爹邪教徒会在行动开始前很早就戴好面具。
+|req=[[制造奇物]]、[[观命术]]
+|cost=750 gp
+|source=冒险之路2：剥皮锯谋杀案、符文领主崛起周年纪念版、冒险之路100：银之歌
+}}

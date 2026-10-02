@@ -1,0 +1,10 @@
+<noinclude>{{炼金术师导航}}
+'''定向炸弹'''（Directed Bomb）是[[炼金术师]]的[[科研发现]]。
+
+</noinclude>{{Source|魔法市集指南|Magical Marketplace|inline}}
+
+炼金术师可以使他的炸弹在15尺锥形内溅射，取代原本的5尺半径爆发。炼金术师选择锥形的方向。如果攻击未命中，再掷额外的1d8来确定炸弹落点的溅射方向。这项科研发现不能和[[高爆炸弹]]结合使用。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc65d15519c.htm 原文]）。全部科研发现见 [[:分类:科研发现|分类:科研发现]]。
+
+[[分类:科研发现]]</noinclude>

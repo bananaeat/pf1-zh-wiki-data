@@ -1,0 +1,18 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=阿兹兰特吊坠
+|english_name=Azlant Pendant
+|aon=MagicWondrousDisplay.aspx?FinalName=Azlant Pendant
+|cat=奇物
+|aura=中等预言系
+|cl=5
+|slot=颈部
+|price=3,100 gp
+|weight=2磅
+|description=这条沉重的项链通常由黄金制成，形如一只巨大的有翼之眼。你在一类[[知识]]检定上获得+5表现加值（每枚吊坠的专精各不相同）。
+
+如果奥罗登是你的守护神祇，该吊坠视同圣徽。每天1次，你可以用一个[[自由动作]]，为你即将进行的一次技能检定附加+10洞察加值。
+|req=[[制造奇物]]、[[片刻预知]]，制造者必须拥有相应知识技能5级
+|cost=1,550 gp，124 XP
+|source=神与魔法
+}}

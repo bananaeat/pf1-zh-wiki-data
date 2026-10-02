@@ -1,0 +1,10 @@
+{{Feat
+|name=直觉诡计
+|english_name=Reflexive Trick
+|description=眨眨眼你便可以为自己植入[[催眠师诡计]]。
+|prerequisites=催眠师诡计职业特性
+|benefit=任何时候，若一个你尚未在自己体内植入的催眠师诡计的触发条件满足时，你可以通过一个[[直觉动作]]，将该诡计植入到你自己中。你可以立即触发该催眠师诡计，如同在触发条件满足时，该诡计已经被植入一般。如果你已经植入了最大可植入数量的催眠师诡计，你无法使用该能力。
+|source=OAn
+|source_name=异能选集
+|source_url=https://pf1chm.pages.dev/topics/page_725.html
+}}

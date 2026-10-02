@@ -1,0 +1,15 @@
+{{魔法物品
+|name=诈骗披肩
+|english_name=Charlatan's Cape
+|aon=MagicWondrousDisplay.aspx?FinalName=Charlatan's Cape
+|cat=奇物
+|aura=强烈塑能系、幻术系
+|cl=13
+|slot=肩部
+|price=45,000 gp
+|weight=1磅
+|description=这件俗艳的红色天鹅绒斗篷绣有金线图案，通常是戴着阴森面具的丑角，或其他阴森狂欢的意象。它的效果与[[骗子披肩]]相同，但其任意门能力每天可以使用三次。此外，披肩的穿戴者每天可以使用一次幻化灵体，如同该法术。
+|req=[[制造奇物]]、[[任意门]]、[[幻化灵体]]
+|cost=22,500 gp
+|source=极限宝具
+}}

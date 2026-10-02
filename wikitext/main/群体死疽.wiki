@@ -1,0 +1,15 @@
+{{Spell
+|name=群体死疽
+|english_name=Fester, mass
+|school=死灵系
+|levels=女巫 6;审判者 6
+|action=标准动作
+|components=语言;姿势;材料（腐肉）
+|range=近距
+|target=每等级1名生物，任意两名之间的距离不得超过30尺
+|duration=1轮/等级或1轮；见后文
+|save=强韧，通过则部分生效
+|sr=是
+|description=该法术的功能如同[[死疽]]，不过它可以影响复数敌人。
+|source=进阶玩家指南
+}}

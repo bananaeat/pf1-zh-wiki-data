@@ -1,0 +1,11 @@
+{{Feat
+|name=骑乘技巧
+|english_name=Trick Riding
+|categories=战斗
+|description=你不仅仅善于在战斗中控制马匹；甚至将其看起来就像一种艺术。
+|prerequisites=[[骑术]]9级，[[骑乘战斗]]。
+|benefit=当你身着轻甲或不穿甲时，就不需要为了进行骑术技能中列出的任何DC为15或更低的项目而进行技能检定。当你骑乘无马鞍的坐骑时，骑术检定不会受到-5减值。你可以每轮使用[[骑乘战斗]]专长进行检定、忽略2次对你的坐骑的攻击而非原本的1次。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

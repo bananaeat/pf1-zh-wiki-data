@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Dragons pg. 3），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=龙力灌注
+|english_name=Draconic Infusion
+|type=魔法
+|description=你曾接触过一件神器或其他强大的魔法，它为你注入了巨龙之力。获得此背景特性时，从酸蚀、寒冷、电击或火焰法术描述符中选择一个。你每拥有2个施法者等级，每天就可以使用一次此能力（每天至少一次）：当你施放具有你所选元素描述符的法术时，你可以对该法术的一个目标额外造成1d4点该能量类型的伤害。
+|source_name=巨龙遗产
+|source=LoD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Draconic%20Infusion
+}}

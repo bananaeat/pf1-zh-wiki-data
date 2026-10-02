@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Council of Thieves Player's Guide pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=魔鬼熏陶
+|english_name=Diabolist Raised
+|type=战役
+|pfs=否
+|description=你一生都生活在被魔鬼掌控的切利亚斯。你不怎么在乎你国家的宗教，但在这个世界上最宏伟的帝国里，生活就是如此，你又有什么资格质疑帝国统治者的信仰呢？你当然不像你某些更理想主义的熟人那样愚蠢，满脑子关于个人自由和平等统治的古怪理想——谁知道他们后来怎么样了？你了解地狱及其冷酷统治者的严苛，你见过魔鬼，也知道有能力控制它们的人可以如何役使它们为自己谋利，你还了解你国家的黑暗信仰。你自己也许不是魔鬼崇拜者，但生活在切利亚斯就得面对现实，而知道幕后究竟在发生什么总是好事。你对魔鬼学的了解让你对西冠城贵族进行的[[唬骗]]、[[交涉]]、[[威吓]]和[[察言观色]]检定获得+1加值，并且对抗魔鬼的影响心灵攻击时，所有豁免检定获得+1加值。
+|source_name=Council of Thieves Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Diabolist%20Raised
+}}

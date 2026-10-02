@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''僵寒注能'''（Chilling Infusion）是[[操念使]]的[[原力]]。
+
+元素：水；类别：性质注能；等级：5；超载：3
+
+关联[[念袭]]类别：[[风卷雪]]，[[霜打]]，[[冰枪]]
+
+豁免：强韧，通过则无效
+
+你的念袭会让敌人感受到深入骨髓的寒冷，让它们变得行动迟缓。每当注能念袭对敌人造成寒冷伤害时，该名敌人便会[[恍惚]]1轮。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Chilling Infusion|2=Chilling Infusion}}
+
+[[分类:原力]]

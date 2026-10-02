@@ -1,0 +1,14 @@
+{{魔法物品
+|name=四叶苜蓿
+|english_name=Four-leaf Clover
+|aon=MagicWondrousDisplay.aspx?FinalName=Four-leaf Clover
+|cat=奇物
+|aura=微弱塑能系
+|cl=5
+|slot=无
+|price=3,750 gp
+|description=这件小玩意是一株采自野外并保存下来的四叶苜蓿。四叶苜蓿通常封在玻璃或水晶里，有时也被压平、镀铜或以其他方式保护。拥有四叶苜蓿的生物可以在进行一次属性检定、豁免检定或技能检定之前，借助额外的一份好运。她在该次检定中获得+2幸运加值。这种能力每天可使用三次，需要一个自由动作，即使不在她的回合也可以执行。
+|req=[[制造奇物]]、[[神恩]]
+|cost=1,875 gp
+|source=异能冒险
+}}

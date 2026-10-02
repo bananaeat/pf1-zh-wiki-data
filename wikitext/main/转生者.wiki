@@ -1,0 +1,9 @@
+{{Trait
+|name=转生者
+|english_name=Reincarnated
+|type=信念
+|description=你的前世曾作为其他生命度过。生死对你而言是场轮回，因此你无惧死亡。你对抗死亡和恐惧效果的豁免获得+2背景加值。
+|source_name=信念背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

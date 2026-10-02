@@ -1,0 +1,21 @@
+<includeonly><div class="col-lg-{{{left|6}}} col-md-{{{left|6}}} col-sm-12 col-xs-12">{{{1}}}</div>
+<div class="col-lg-{{#expr:12-{{{left|6}}}}} col-md-{{#expr:12-{{{left|6}}}}} col-sm-12 col-xs-12">{{{2}}}</div>{{clear}}</includeonly>
+<noinclude>{{优质模板|信息}}{{documentation}}[[Category:huiji template]]</noinclude>
+
+<noinclude>
+<templatedata>
+{
+	"params": {
+		"1": {
+			"description": "左侧内容",
+			"suggested": true
+		},
+		"2": {
+			"description": "右侧内容",
+			"suggested": true
+		}
+	},
+	"description": "本模版使灰机默认提供的分栏模版，只支持左右分栏，参数1为左栏内容，参数2为右栏内容。\n详细信息与案例请前往https://templatemanager.huiji.wiki/wiki/%E6%A8%A1%E6%9D%BF:%E5%88%86%E6%A0%8F"
+}
+</templatedata>
+</noinclude>

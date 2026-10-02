@@ -1,0 +1,56 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Mythic Realms
+|authors=Benjamin Bruck、Jason Bulmahn、Amanda Hamon、Nicolas Logue、Jason Nelson、F. Wesley Schneider、Russ Taylor
+|pages=64
+}}
+
+{{书页/简介|head=夺取神话之力|1=
+用《神话领域》把神话冒险带入开拓者世界。本书是开拓者角色扮演游戏最新、最具野心的精装本《[[神话冒险]]》不可或缺的扩展，是你了解开拓者战役设定中史诗传说、隐秘力量之地与神话热点的指南，这些地方能解锁惊人的全新力量。了解如何将《神话冒险》中令人惊叹的选项无缝融入你现有的游戏，解锁更多供神话角色选择的道途能力，发现足以激发新神话英雄的地点，并夺取那些强大得此前无人能败的怪物与反派的力量！用《神话领域》铸就新的传说，迎战开拓者世界最大的挑战。
+
+本书包含：
+
+* 六处神话之力的源泉，包括红星之门（Doorway to the Red Star）、莫丹特尖塔（Mordant Spire），乃至传说中的星石（Starstone），每一处都带有新的神话道途能力，供证明了自己价值的角色夺取其中的力量。
+* 格拉利昂各地六处详尽描述的地点，为命定成为神话英雄的角色提供足以撑起整场战役的冒险，包括梅吉塔尔（Mechitar）浩瀚的墓城、哥姆兹之穴（Pit of Gormuz）和浮空城伊雅（Yjae）。
+* 格拉利昂的九位传奇角色，包括只有神话之力才有望击败的强敌，如阿拉兹妮（Arazni）、科塔什·凯恩（Kortash Khain）、詹德雷的奥利芬特（Oliphaunt of Jandelay）和默语暴君（Whispering Tyrant）。
+* 与每处地点和每位角色相关的神话试炼，可直接投入神话战役。
+}}
+
+'''神话领域'''（''Mythic Realms''）是开拓者角色扮演游戏「战役设定」系列的一本资料书，由 Benjamin Bruck、Jason Bulmahn、Amanda Hamon、Nicolas Logue 等 7 位作者撰写，于 2013 年 9 月发售。
+
+== 目录 ==
+{{书页/目录|1=
+导言：缔造传奇 @ 2
+第一章：神话之力的源泉 @ 4
+- 衣冠冢
+- 红星之门
+- 法力之井
+- 莫丹特尖塔
+- 星塔
+- 星石
+第二章：神话之地 @ 18
+- 黑色沙漠
+- 梅吉塔尔
+- 哥姆兹之穴
+- 象牙山脉
+- 瓦拉苏迈蛮林
+- 伊雅（Yjae）
+第三章：角色 @ 44
+- 阿格马扎尔（Agmazar）
+- [[阿里曼]]
+- 阿拉兹妮
+- 纳戈拉克（Gnargorak）
+- 科塔什·凯恩（Kortash Khain）
+- 老巫师贾特比
+- [[詹德雷的奥利芬特]]
+- 拉斯基内亚（Raskineya）
+- 默语暴君
+}}
+
+{{书页尾
+|pfw=Mythic Realms
+|releases=PDF¦PZO9262E¦2013-09¦；Softcover¦PZO9262¦2013-09¦
+}}
+
+[[分类:书目]]

@@ -1,0 +1,10 @@
+<noinclude>{{杀手导航}}
+'''永世仇敌'''（Eternal Opposition, Ex）是[[杀手]]的[[杀手天赋|杀手天赋]]。
+
+</noinclude>{{Source|武术手册|Martial Arts Handbook|inline}} 仅限[[轮回者]]。大多数帝龙、不死生物和其他长生种都能靠寿命耗死它们的凡俗对手，而轮回者杀手则立誓在自己的每一世轮回中挫败它们的图谋。当杀手的研究目标属于龙、精类、异界生物或者不死生物时，他在对抗该目标攻击的AC及对抗该目标能力的豁免上获得+2洞察加值。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_118.html 原文]）。尝血者、支持队友译自[https://pf1chm.pages.dev/topics/page_581.html 斯科扎尼黑手一章]，永世仇敌、人生经验、直面恐怖、山坡伏击、神秘之纱、重唤技艺译自[https://pf1chm.pages.dev/topics/page_1338.html 传承武学一章]，集中毒药、偏转毒药译自[https://pf1chm.pages.dev/topics/page_1261.html 静谧毒杀者一章]，猫族盗贼天赋译自[https://pf1chm.pages.dev/topics/page_451.html 种族特性一章]；壁垒、额外残岩、坚固阵地、失衡技巧、阵营偷袭、切裂阵营、一人千面、通晓探知照站上同名盗贼天赋单页。均按 AoN 核对过。全部杀手天赋见 [[杀手天赋]]。
+
+[[分类:杀手天赋]]
+
+{{职业}}</noinclude>

@@ -1,0 +1,9 @@
+{{装备
+|name=瓶
+|english_name=Vial
+|cat=冒险装备
+|price=1 gp
+|weight=—
+|description=一个瓶子由玻璃或钢制成，可容纳1盎司的液体。
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=寒门子
+|english_name=Poverty-Stricken
+|type=社会
+|description=你的童年相当艰苦，双亲必须为每一个铜板精打细算。饥饿常与你做伴，背井离乡、风餐露宿如同家常便饭。你的生存检定获得+1加值，并且总能将生存视为你的[[本职技能]]。
+|source_name=社会背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

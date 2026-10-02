@@ -1,0 +1,17 @@
+{{魔法物品
+|name=古老者的祝符〔侏儒〕
+|english_name=Amulet of Eldest's Blessing (Gnome)
+|aon=MagicWondrousDisplay.aspx?FinalName=Amulet of Eldest's Blessing (Gnome)
+|cat=奇物
+|aura=强烈防护系
+|cl=13
+|slot=颈部
+|price=10,000 gp
+|weight=1磅
+|description=下列奇物通常只有所示种族或族裔的成员才能得到。
+
+这件水晶护符里封存着某位[[古老者]]在[[第一世界]]的领域的一块碎片。佩戴护符的[[侏儒]]在第一世界不被视为跨位面生物。佩戴者每分钟恢复1点致命伤害和等量的[[非致命伤害]]，每天恢复量的上限等于她的生命骰数或角色等级。此外，她在对抗[[脱色症]]的豁免检定上获得+4洞察加值。
+|req=[[制造奇物]]、[[抵抗脱色]]（见第218页）、[[位面适应]]、[[再生术]]，制造者必须是[[侏儒]]
+|cost=5,000 gp
+|source=内海种族
+}}

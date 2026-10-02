@@ -1,0 +1,10 @@
+{{Feat
+|name=即兴风格化施法
+|english_name=Stylized Spontaneity
+|description=你可以在施法瞬间改变法术的表面成分与特性。
+|prerequisites=唬骗5级、法术辨识5级
+|benefit=当你施放法术时，可以套用任意数量的风格化魔法调整；但你必须成功通过一次施法者等级检定（DC = 5 + 法术等级×2 + 每项调整+5），否则魔法被严重扭曲而无法正常生效，该法术将被浪费且无效果。
+|source=ISI
+|source_name=内海诡道
+|source_url=https://pf1chm.pages.dev/topics/zhf893b0dd41.htm
+}}

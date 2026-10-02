@@ -1,0 +1,9 @@
+{{装备
+|name=鸭子
+|english_name=Duck
+|cat=坐骑与宠物
+|price=2 gp
+|weight=3磅
+|description=家养鸭子用于取蛋、取肉和取羽绒，而野鸭则是为了肉食而被猎杀。鸭子的数据与渡鸦相同（见《怪物图鉴》）。
+|source=极限宝具
+}}

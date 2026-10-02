@@ -1,0 +1,12 @@
+{{Feat
+|name=精通天生护甲
+|english_name=Improved Natural Armor
+|pfs=否
+|description=这个生物皮厚异常。
+|prerequisites=拥有天生护甲，体质13。
+|benefit=该生物的AC天生护甲加值+1。
+|special=生物可以多次选择本专长。每次选择此专长时，AC天生护甲加值额外+1。
+|source=B1
+|source_name=怪物图鉴
+|source_url=https://pf1chm.pages.dev/topics/page_201.html
+}}

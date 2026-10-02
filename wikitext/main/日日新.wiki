@@ -1,0 +1,10 @@
+{{Trait
+|name=日日新
+|english_name=Dawn Renewal
+|type=宗教
+|prerequisites=[[半身人]]；信仰[[塞恩蕾]]
+|description=你早晨的祈祷经常会给你最新的病人发出一个带有神圣活力的欢迎火花。当你使用医疗技能提供长期护理时，你的护理对象在日出时额外恢复2点生命值。
+|source_name=宗教背景
+|source=HoG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

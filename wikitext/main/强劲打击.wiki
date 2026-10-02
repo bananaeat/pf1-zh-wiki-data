@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''强劲打击'''（Powerful Blows）是一条神话[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-a">神话</span><span class="sk-f">位置：特性</span></div>
+</noinclude><includeonly><div class="lang"><span id="强劲打击"></span><div class="lang-h"><b>[[强劲打击]]</b><i>Powerful Blows</i><span class="lang-w">Ex · 神话 · 特性</span></div><div class="lang-d"></includeonly>
+生物的某个特定攻击会将 1.5 倍的力量加值加到伤害检定上，用于取代普通的 1 倍或者 0.5 倍力量加值。
+
+'''格式'''：强劲打击（挥击）
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Powerful Blows|2=Powerful Blows}}
+
+[[分类:通用怪物规则]]</noinclude>

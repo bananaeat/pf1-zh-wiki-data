@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Fire Player's Guide pg. 8），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=黄沙传承
+|english_name=Legacy of Sand
+|type=种族
+|prerequisites=半兽人
+|description=卡塔佩什东南部曾居住着一个适应了沙漠生活的大型[[兽人]]部落。尽管这个部落早已灭绝，但卡塔佩什的一些[[半兽人]]身上仍带有该部落的特征：格外宽大的下颌、宽阔的肩膀，以及淡得惊人的眼睛。你常常梦见月光下沙漠中的狩猎和奇异的仪式。有些人把这些梦归因于种族记忆，另一些人则认为是异象或预言。这些梦在你心中培养出了强烈的传统意识。你的所有意志豁免获得+1背景加值。
+|source_name=烈焰传承玩家手册
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Legacy%20of%20Sand
+}}

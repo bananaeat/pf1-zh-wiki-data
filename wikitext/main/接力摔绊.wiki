@@ -1,0 +1,10 @@
+{{Feat
+|name=接力摔绊
+|english_name=Tandem Trip
+|categories=战斗;团队
+|description=你们知道如何连手[[摔绊]]敌人。
+|benefit=当你摔绊拥有此专长盟友威胁范围内的敌人时，你可以骰两次[[战技]]检定取其高值。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Iron Gods Player's Guide pg. 9, People of the River pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=机器人杀手
+|english_name=Robot Slayer
+|type=战役
+|pfs=否
+|description=在纽梅利亚荒野上肆虐的奇异自动机是这个世界的祸害，一想到在该地区各处散落的未知遗迹中，可能还有无数这样的造物潜伏着伺机而动，你就不寒而栗。孔尼尔从火炬镇下方的洞穴里找回了一台停机的机器人，这让你忧心忡忡——那东西不但可能醒来在镇上横冲直撞，而且下面很可能还潜伏着更多！你想探索火炬镇地下的洞穴，确认镇子下方是否真的潜藏着机器人的威胁。你对机器人的攻击检定获得+1背景加值，并且对抗机器人的攻击时，你的AC获得+1闪避加值。
+|source_name=钢铁诸神玩家手册
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Robot%20Slayer
+}}

@@ -1,0 +1,17 @@
+{{魔法物品
+|name=帝国军巨盔
+|english_name=Imperial Army Greathelm
+|aon=MagicWondrousDisplay.aspx?FinalName=Imperial Army Greathelm
+|cat=奇物
+|aura=中等惑控系
+|cl=9
+|slot=头部
+|price=29,000 gp
+|weight=6磅
+|description=许多摩尔苏恩的资深军事指挥官都戴这种款式的银盔，盔上饰有一枚特大的红色羽饰。如果帝国军巨盔的佩戴者拥有[[领导力]]专长，他的领导力值获得+3加值，并且他的任何追随者或部属，只要处于他的视线内，就在攻击检定和对抗恐惧效果的豁免检定上获得+1加值。
+
+如果佩戴者拥有战术职业能力，该能力的范围增加到60尺。
+|req=[[制造奇物]]、[[领导力]]、[[鹰之威仪]]、[[高等命令术]]
+|cost=14,500 gp
+|source=内海战斗
+}}

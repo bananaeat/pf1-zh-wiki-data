@@ -1,0 +1,11 @@
+{{Feat
+|name=无畏灵光
+|english_name=Fearless Aura
+|description=你的勇气灵光变得更加强大，而你坚定的信念也体现在队友身上。
+|prerequisites=【勇气灵光】职业特性，施法者等级8级。
+|benefit=你的勇气灵光扩展为20尺半径的弥漫范围。灵光范围中的队友免疫恐惧效果。
+|normal=勇气灵光影响你10尺内的每名盟友，并使其在对抗恐惧效果的豁免检定上获得+4士气加值。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

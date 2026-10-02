@@ -1,0 +1,12 @@
+{{魔法物品
+|name=血书卷轴
+|english_name=Scroll of Blood Ink
+|aon=MagicCursedDisplay.aspx?ItemName=Scroll of Blood Ink
+|cat=诅咒物品
+|aura=不定
+|cl=不定
+|slot=无
+|description=这种卷轴看起来可以承载任意法术。当持用者试图施展该法术时，墨水会变成血并从页面上流走，使法术自动失败。此外，卷轴的边缘会变得锋利，割伤持用者的手和手腕，造成4点体质出血；成功通过DC 15的反射豁免则出血减半。出血可以通过任何魔法治疗或一次成功的DC 20医疗检定来止住。
+|req=任意卷轴
+|source=惧怖冒险
+}}

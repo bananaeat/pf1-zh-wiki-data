@@ -1,0 +1,10 @@
+{{Feat
+|name=凶猛忠诚
+|english_name=Ferocious Loyalty
+|categories=团队
+|description=你对自己的同袍抱有强烈的责任感。
+|benefit=你对威胁着同样拥有本专长的盟友的目标的攻击骰获得＋1士气加值。当30尺内你的盟友被杀或变得[[无助]]时，你的攻击骰获得＋2士气加值，持续1分钟，或直到凶手被杀或变得无助，以两者中先达成的条件为准。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_809.html
+}}

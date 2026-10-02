@@ -1,0 +1,10 @@
+{{Feat
+|name=导能浪潮
+|english_name=Channel Surge
+|description=你是释放神圣或亵渎之力的强力渠道。
+|prerequisites=引导能量或圣疗职业特性
+|benefit=当你[[引导能量]]或者释放圣疗时，可以以一个[[整轮动作]]，花费两发该能力来将治疗或伤害量增加50%。
+|source=CaC
+|source_name=部属与伙伴
+|source_url=https://pf1chm.pages.dev/topics/page_1347.html
+}}

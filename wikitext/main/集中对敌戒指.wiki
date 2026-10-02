@@ -1,0 +1,14 @@
+{{魔法物品
+|name=集中对敌戒指
+|english_name=Ring of Foe Focus
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Foe Focus
+|cat=戒指
+|aura=微弱咒法系
+|cl=5
+|slot=戒指
+|price=10,000 gp
+|description=这枚由锯齿状钢铁制成的[[魔法物品#戒指|戒指]]，给人的印象像是从一套盔甲上拆下来，再被粗糙地弯成一圈。穿戴者可以随意指定一名自己看得见的对手为格外危险的敌人。在她指定新的敌人之前，她对抗该对手所发动的攻击时，AC和豁免检定获得+2加值。
+|req=[[锻造戒指]]、[[护盾术]]
+|cost=5,000 gp
+|source=极限宝具
+}}

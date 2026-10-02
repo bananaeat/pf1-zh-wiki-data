@@ -1,0 +1,10 @@
+{{Trait
+|name=公认继承人
+|english_name=Acknowledged Scion
+|type=种族
+|prerequisites=[[吸血裔]]
+|description=你在奈多、盖布或其他你的不死族血统被视为权力标志的地方长大。你在知识(贵族)和知识(宗教)检定获得+1背景加值。其中一个技能(由你选择)总是你的[[本职技能]]。
+|source_name=内海种族
+|source=Inner Sea Races
+|source_url=https://pf1chm.pages.dev/topics/zh3a98986c0e.htm
+}}

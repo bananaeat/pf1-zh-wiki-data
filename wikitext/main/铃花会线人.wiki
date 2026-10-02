@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 194），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=铃花会线人
+|english_name=Bellflower Contact
+|type=种族
+|prerequisites=半身人
+|description=在你年纪还不够加入铃花会之前，你就一直在替解放奴隶的人留意有用的情报。你的[[察觉]]检定、为理解秘密讯息而进行的[[察言观色]]检定，以及为传递秘密讯息而进行的[[唬骗]]检定获得+1背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Bellflower%20Contact
+}}

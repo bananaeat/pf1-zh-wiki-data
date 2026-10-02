@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''异能抗力'''（Psychic Resilience）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：位于豁免之后，以及防御能力中</span></div>
+</noinclude><includeonly><div class="lang"><span id="异能抗力"></span><div class="lang-h"><b>[[异能抗力]]</b><i>Psychic Resilience</i><span class="lang-w">Ex · 位于豁免之后，以及防御能力中</span></div><div class="lang-d"></includeonly>
+具有该能力的生物能够抵御许多异能法术的效果。它们在对抗所有异能法术时，豁免检定均会获得 +4 加值。
+
+'''格式'''：+4 对抗异能法术
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Psychic Resilience|2=Psychic Resilience}}
+
+[[分类:通用怪物规则]]</noinclude>

@@ -1,0 +1,11 @@
+{{武器
+|name=尖啸弹头
+|english_name=Bullet, screaming
+|category=火器
+|prof=异种
+|wcat=弹药
+|price=20 gp
+|weight=—
+|description=这种弹药在击发时会发出尖厉的尖啸。如果作为[[威吓]]检定的一部分击发，它会为这次检定提供+5加值。如果配合惊异射击炫技使用，目标的[[措手不及]]状态额外延长一轮。
+|source=格拉利昂的英雄
+}}

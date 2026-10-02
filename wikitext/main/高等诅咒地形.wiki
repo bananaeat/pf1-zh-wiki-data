@@ -1,0 +1,15 @@
+{{Spell
+|name=高等诅咒地形
+|english_name=Curse terrain, greater
+|school=死灵系
+|tags=诅咒;邪恶
+|levels=先知 6;奥能师 6;女巫 6;德鲁伊 6;战斗祭司 6;术士 6;法师 6;牧师 6;猎人 6;萨满 6
+|action=10分钟
+|components=语言;姿势;材料（一只曾栖息于该区域的生物的心脏，以及价值1,500gp的缟玛瑙粉）
+|range=接触
+|area=从接触的点向外弥漫半径5哩
+|duration=1天 (可解消)
+|sr=否
+|description=透过触摸大地，你以六种超自然危害诅咒这片土地。此法术如同[[次等诅咒地形]]般作用，但采用高等危险地域诅咒的效果（见第145页）。
+|source=惧怖冒险
+}}

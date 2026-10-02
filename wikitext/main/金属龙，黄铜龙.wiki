@@ -1,0 +1,156 @@
+{{速查导航}}
+{{怪物
+|name=少年黄铜龙
+|english_name=Metallic Dragon, Brass
+|cr=7
+|xp=3,200
+|alignment=混乱善良
+|size=中型
+|type=龙类
+|subtypes=火系
+|init=+6
+|senses=[[通用怪物规则#盲感|盲感]] blindsense 60 尺，龙感 dragon senses；觉察 察觉 +14
+|description=巨龙头顶冠饰形的尖角向后延伸，曲颈和黄铜色身躯蜿蜒狭长。
+|ac=21，接触 touch 12，措手不及 flat–footed 19；（+2 敏捷，+9 天生 natural）
+|hp=76（8d12 +24）
+|fort=+9
+|ref=+8
+|will=+7
+|immune=火焰 fire;麻痹 paralysis;睡眠 sleep
+|weaknesses=易受寒冷伤害 vulnerability to cold
+|speed=60 尺，掘洞 30 尺，飞行 fly 150 尺（普通 average）
+|melee=啮咬 bite +12（1d8 +6），2 爪抓 claws +12（1d6 +4），2 翼拍 wings +7（1d4 +2）
+|space=5 尺
+|reach=5 尺（10 尺 啮咬时 with bite）
+|special_attacks=[[通用怪物规则#喷吐武器|喷吐武器]]（60–尺 线形 line, DC 17，6d4 火焰 fire），睡眠喷吐 sleep breath
+|spell_like=（施法者等级 CL 8th）；随意施展—[[动物交谈]] speak with animals
+|spells=已知法术（CL 1st）；1st（4/每日）—[[魅惑人类]] charm person（DC 13），[[通晓语言]] comprehend languages；0（随意施展）—[[舞光术]] dancing lights，[[侦测魔法]] detect magic，[[法师之手]] mage hand，[[传讯术]] message
+|str=19
+|dex=14
+|con=17
+|int=12
+|wis=13
+|cha=12
+|bab=+8
+|cmb=+12
+|cmd=24（28 对摔绊 vs. trip）
+|feats=[[警觉]];[[盘旋]];[[精通先攻]];[[法术专攻]]（附魔）Spell Focus
+|skills=[[唬骗]] Bluff +12;[[交涉]] Diplomacy +12;[[飞行]] Fly +13;[[医疗]] Heal +12;[[语言学]] Linguistics +12;[[察觉|觉察]] 察觉 +14;[[察言观色]] Sense Motive +14
+|languages=通用语 Common;龙语 Draconic;加任意 8 种其他语言 plus any 8 others
+|sq=移沙 move sand
+|environment=温暖的沙漠
+|organization=单独
+|treasure=三倍
+|special_abilities={{怪物能力|漠风|Su|青少年及以上的黄铜龙可以召来沙漠之风为其服务。这类似于造风术 gust of wind，但在路径上的任何生物都必须进行强韧检定，否则因沙子而目盲 1d4 轮。此效果的豁免 DC 与龙的喷吐武器 DC 相同。}}
+{{怪物能力|火焰灵光|Su|老年及以上的黄铜龙被高温的灵光所环绕。任何靠近龙 5 尺内的生物在龙的回合开始时受到 1d6 点火焰伤害。古黄铜龙的灵光延伸至 10 尺。太古龙的伤害增至 2d6。黄铜龙可以通过一个自由动作随意愿压制或启动此灵光。}}
+{{怪物能力|移沙|Sp|少年及以上的黄铜龙可以移动沙子挖掘废墟或隐藏宝藏。这类似于地动术 move earth，但仅影响沙子。使用本效果时，龙使用其 HD 作为施法者等级，视同 5 级法术。}}
+{{怪物能力|沙飓风|Su|（译注：蓝龙有个同名能力，但具体内容不同，因此此处采取不同译名）古龙开始，黄铜龙可以用一个整轮动作创造出一阵沙漠风暴，每日一次。风暴半径为 1 英里，持续龙每年龄层 1 分钟。这类似于沙暴天气 sandstorm（参见 Pathfinder 角色扮演游戏核心规则），除了额外还带有风暴等级的强风 windstorm–level winds 的效果。}}
+{{怪物能力|睡眠喷吐|Su|黄铜龙可以喷吐出锥形睡眠气体代替线形火焰。在此锥形区域内的生物需通过意志检定以免陷入 1d6 轮的睡眠，每年龄层再加一轮。}}
+{{怪物能力|类法术能力|Sp|黄铜龙获得以下类法术能力，在达到列出的对应年龄层后可随意施展。幼龙 Very young—动物交谈 speak with animals；青少年 Juvenile—忍受环境 endure elements；成年 Adult—暗示术 suggestion；老年 Old—操纵风相 control winds；古龙 Ancient—操控天气 control weather；太古 Great wyrm—旋风术 whirlwind。}}
+{{怪物能力|召唤风巨灵|Sp|太古黄铜龙可以每日使用此能力一次，类似召唤怪物术 summon monster spell，但召唤出一只风巨灵贵族 noble djinni。此能力视同 9 级法术。}}
+|source=怪物图鉴
+|nofooter=1
+}}
+{{怪物
+|name=成年黄铜龙
+|english_name=Adult Brass Dragon
+|cr=11
+|xp=12,800
+|alignment=混乱善良
+|size=大型
+|type=龙类
+|subtypes=火系
+|init=+5
+|senses=[[通用怪物规则#盲感|盲感]] blindsense 60 尺，龙感 dragon senses；觉察 察觉 +24
+|aura=凶威 frightful presence（180 尺，DC 20）
+|ac=28，接触 touch 10，措手不及 flat–footed 27；（+1 敏捷，+18 天生 natural，–1 体型）
+|hp=161（14d12 +70）
+|fort=+14
+|ref=+10
+|will=+12
+|dr=5/magic
+|immune=火焰 fire;麻痹 paralysis;睡眠 sleep
+|sr=22
+|weaknesses=易受寒冷伤害 vulnerability to cold
+|speed=60 尺，掘洞 30 尺，飞行 fly 200 尺（不良 poor）
+|melee=啮咬 bite +20（2d6 +10），2 爪抓 claws +20（1d8 +7），2 翼拍 wings +15（1d6 +3），尾拍 tail slap +15（1d8 +10）
+|special_attacks=[[通用怪物规则#喷吐武器|喷吐武器]]（80–尺 线形 line, DC 22，12d4 火焰 fire），漠风 desert wind，睡眠喷吐 sleep breath
+|spell_like=（CL 14th）；随意施展—[[忍受环境]] endure elements，[[动物交谈]] speak with animals，[[暗示术]] suggestion（DC 18）
+|spells=已知法术（CL 7th）；3rd（5/天）—[[人类定身术]] hold person（DC 18），[[巧言术]] tongues；2nd（7/天）—[[变身术]] alter self，[[侦测思想]] detect thoughts（DC 15），[[识破隐形]] see invisibility；1st（7/天）—[[魔法警报]] alarm，[[魅惑人类]] charm person（DC 16），[[防护邪恶]] protection from evil，[[护盾术]] shield，[[腹语术]] ventriloquism；0（随意施展）—[[秘法印记]] arcane mark，[[舞光术]] dancing lights，[[侦测魔法]] detect magic，[[幻音术]] ghost sound（DC 13），[[法师之手]] mage hand，[[传讯术]] message，[[魔法伎俩]] prestidigitation
+|str=25
+|dex=12
+|con=21
+|int=16
+|wis=17
+|cha=16
+|bab=+14
+|cmb=+22
+|cmd=33（37 对摔绊 vs. trip）
+|feats=[[警觉]];[[飞越攻击|飞跃攻击]];[[盘旋]];[[高等法术专攻]]（附魔）Greater Spell Focus;[[精通先攻]];[[猛力攻击]];[[法术专攻]]（附魔）Spell Focus
+|skills=[[唬骗]] Bluff +20;[[交涉]] Dip. +20;[[飞行]] Fly +12;[[医疗]] Heal +20;[[语言学]] Ling. +20;[[察觉|觉察]] Per. +24;[[察言观色]] S. Motive +24;[[法术辨识]] Spellcraft +20;[[生存]] Survival +20
+|languages=通用语 Common;龙语 Draconic;加上任意 14 种其他语言 plus any 14 others
+|sq=移沙 move sand
+|environment=温暖的沙漠
+|organization=单独
+|treasure=三倍
+|source=怪物图鉴
+|nofooter=1
+}}
+{{怪物
+|name=古黄铜龙
+|english_name=Ancient Brass Dragon
+|cr=16
+|xp=76,800
+|alignment=混乱善良
+|size=超大型
+|type=龙类
+|subtypes=火系
+|init=+4
+|senses=龙感 dragon senses；觉察 察觉 +34
+|aura=火焰 fire（10 尺，1d6 火焰 fire），凶威 frightful presence（300 尺，DC 26）
+|ac=38，接触 touch 8，措手不及 flat–footed 38；（+30 天生 natural，–2 体型）
+|hp=297（22d12 +154）
+|fort=+20
+|ref=+13
+|will=+18
+|dr=15/魔法 magic
+|immune=火焰 fire;麻痹 paralysis;睡眠 sleep
+|sr=27
+|weaknesses=易受寒冷伤害 vulnerability to cold
+|speed=60 尺，掘洞 30 尺，飞行 fly 200 尺（不良 poor）
+|melee=啮咬 bite +31（2d8 +16），2 爪抓 claws +31（2d6 +11），2 翼拍 wings +29（1d8 +5），尾拍 tail slap +29（2d6 +16）
+|special_attacks=[[通用怪物规则#喷吐武器|喷吐武器]]（100–尺 线形 line, DC 28，20d4 火焰 fire），碾压 crush，漠风 desert wind，沙飓风 sandstorm，睡眠喷吐 sleep breath
+|spell_like=（CL 22th）；随意施展—[[操控天气]] control weather，[[操纵风相]] control winds，[[忍受环境]] endure elements，[[动物交谈]] speak with animals，[[暗示术]] suggestion（DC 18）
+|spells=已知法术（CL 15th）；7th（4/天）—[[高等传送术]] greater teleport，律令目盲 power word blind；6th（6/天）—[[飞击掌]] forceful hand，[[指使术]] geas，[[高等解除魔法]] greater dispel magic；5th（7/天）—[[异界探知]] contact other plane，[[支配人类]] dominate person（DC 22），[[海市蜃楼]] mirage arcana，窥视魔眼 prying eyes；4th（7/天）—[[魅惑怪物]] charm monster（DC 21），[[困惑术]] confusion（DC 21），[[次元锚]] dimensional anchor，[[生物定位术]] locate creature；3rd（7/天）—[[移位术]] displacement，[[英雄气概]] heroism，[[人类定身术]] hold person（DC 20），[[巧言术]] tongues；2nd（7/天）—[[变身术]] alter self，[[侦测思想]] detect thoughts（DC 17），[[物品定位术]] locate object，[[抵抗能量伤害]] resist energy，[[识破隐形]] see invisibility；1st（8/天）—[[魔法警报]] alarm，[[魅惑人类]] charm person（DC 18），[[防护邪恶]] protection from evil，[[护盾术]] shield，[[腹语术]] ventriloquism；0（随意施展）—[[秘法印记]] arcane mark，[[舞光术]] dancing lights，[[侦测魔法]] d. magic，[[侦测毒性]] d. poison，[[幻音术]] ghost sound（DC 15），[[法师之手]] mage hand，[[传讯术]] message，[[魔法伎俩]] prestidigitation，[[阅读魔法]] r. magic
+|str=33
+|dex=10
+|con=25
+|int=20
+|wis=21
+|cha=20
+|bab=+22
+|cmb=+35
+|cmd=45（49 对摔绊 vs. trip）
+|feats=[[警觉]];[[飞越攻击|飞跃攻击]];[[高等法术专攻]]（附魔）Greater Spell Focus;[[盘旋]];[[精通先攻]];[[精通要害打击]];[[多重攻击]];[[猛力攻击]];[[法术瞬发]];[[法术专攻]]（附魔）Spell Focus;[[要害打击]]
+|skills=[[唬骗]] Bluff +30;[[交涉]] Diplomacy +30;[[飞行]] Fly +17;[[医疗]] Heal +30;[[知识]]（本地、历史）Knowledge+30;[[语言学]] Linguistics +30;[[察觉|觉察]] 察觉 +34;[[察言观色]] Sense Motive +34;[[法术辨识]] Spellcraft +30;[[生存]] Survival +30
+|languages=通用语 Common;龙语 Draconic;加任意其他 22 种语言 plus any 22 others
+|sq=移沙 move sand
+|environment=温暖的沙漠
+|organization=单独
+|treasure=三倍
+|source=怪物图鉴
+|family=龙类绪论
+|lore=
+作为非凡的健谈者，黄铜龙喜好交谈更胜战斗。黄铜龙的巢穴往往靠近类人生物的居住地，令他们能够听到最快的消息和传闻。
+
+=== 基值数据 ===
+
+* CR 3；体型 超小；HD 4d12
+* 速度 60 尺，掘洞 30 尺
+* 天生护甲 +3；喷吐武器 线形，2d4 火焰
+* 力量 11，敏捷 16，体质 13，智力 10，感知 11，魅力 10
+
+<div class="monster-table-wrap"><table class="wikitable"><tr><th>年龄层</th><th>特殊能力</th><th>施法者等级</th></tr><tr><td>雏龙 Wyrmling</td><td>火系，睡眠喷吐</td><td>–</td></tr><tr><td>幼龙 Very young</td><td>动物交谈</td><td>–</td></tr><tr><td>少年 Young</td><td>移沙</td><td>1 级</td></tr><tr><td>青少年 Juvenile</td><td>漠风，忍受环境</td><td>3 级</td></tr><tr><td>青年 Young adult</td><td>DR 5/魔法，法术抗力</td><td>5 级</td></tr><tr><td>成年 Adult</td><td>凶威，[[暗示术]]</td><td>7 级</td></tr><tr><td>壮年 Mature adult</td><td>DR 10/魔法</td><td>9 级</td></tr><tr><td>老年 Old</td><td>火焰灵光，操纵风相</td><td>11 级</td></tr><tr><td>极老 Very old</td><td>DR 15/魔法</td><td>13 级</td></tr><tr><td>古龙 Ancient</td><td>沙飓风，操控天气</td><td>15 级</td></tr><tr><td>上古龙 Wyrm</td><td>DR 20/魔法</td><td>17 级</td></tr><tr><td>太古龙 Great wyrm</td><td>召唤[[风巨灵]]，[[旋风术]]</td><td>19 级</td></tr></table></div>
+}}
+
+本页译自《[[怪物图鉴]]》的怪物图鉴 CHM。

@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[斗殴艺术 (神话)]]。</small></div>
+{{Feat
+|name=斗殴艺术
+|english_name=Knockout Artist
+|description=你的拳头充满破坏力。
+|prerequisites=【偷袭】职业特性，精通徒手打击。
+|benefit=当你使用[[徒手打击]]对一个失去AC上的敏捷加值的敌人进行非致命性伤害的偷袭时，你的每个偷袭伤害骰获得+1额外伤害。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

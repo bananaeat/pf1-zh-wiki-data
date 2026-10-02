@@ -1,0 +1,9 @@
+{{装备
+|name=热带咖啡（一杯）
+|english_name=Jungle coffee (cup)
+|cat=饮食
+|price=3 cp
+|weight=1/2磅
+|description=“热带风味”冲泡的咖啡带有类似葡萄酒的酸味，对新手的口味来说过于浓烈。
+|source=极限宝具
+}}

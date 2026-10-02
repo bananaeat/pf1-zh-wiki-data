@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Plane-Hopper's Handbook pg. 29），民间汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=宇宙之门
+|english_name=Cosmic Gate
+|pfs=否
+|description=你知道极星庭池水中闪耀的群星并非倒影，而是一道道门户，你能在旅途中运用这份学识。
+|prerequisites=幸运女士的引导，知识（位面）10级。
+|benefit=每天一次，你可以短暂进入极星庭，借助那里的池水瞬间前往物质位面上附近的某个地点；这个能力如同[[传送术]]，但你总是被视为对目的地「非常熟悉」。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Cosmic%20Gate
+}}

@@ -1,0 +1,11 @@
+{{消歧义|能量吸收(奥能技艺)}}
+{{狂暴之力
+|name=能量吸收
+|english_name=Energy Absorption
+|type=Su
+|categories=防御
+|prerequisites=[[野蛮人]]12级，[[高等能量抵抗]]
+|benefit=野蛮人能吸收一次攻击的能量伤害。他不进行豁免，但不造成伤害，而原本造成的每3点伤害让野蛮人获得1点临时HP。这些临时HP持续到野蛮人的狂暴结束。
+|special=这项能力每次狂暴只能使用1次。
+|source_name=进阶玩家指南
+}}

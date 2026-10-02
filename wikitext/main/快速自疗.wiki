@@ -1,0 +1,10 @@
+{{Feat
+|name=快速自疗
+|english_name=Fast Healer
+|description=你能够从治疗中获得更大的收益，无论它是来自魔法还是自然地伤口愈合。
+|prerequisites=体质13，[[顽强]]，坚忍。
+|benefit=当你通过休息或者魔法治疗恢复HP时，你能够额外恢复HP，数值等同于你的体质修正的一半（最低+1）。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

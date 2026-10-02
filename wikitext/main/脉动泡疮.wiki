@@ -1,0 +1,12 @@
+{{危害
+|name=脉动泡疮
+|english_name=Pulsing Puffs
+|kind=疾病
+|type=伤口
+|save=强韧 DC 16
+|onset=1天
+|frequency=1次/天
+|effect=1d4点敏捷伤害
+|cure=连续2次豁免成功
+|source=丛林之心(战役设定)
+}}

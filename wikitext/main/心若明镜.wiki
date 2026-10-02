@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=心若明镜
+|english_name=Clear Mind
+|type=Ex
+|class=掉链野蛮人
+|benefit=当野蛮人在意志豁免检定中失败，她可以尝试在她下个回合结束时进行第二次意志豁免检定（仍然使用原先的DC）。如果第二次检定成功，则被视为在第一次检定中成功一样来减少或避免减益效果。如果第二次检定失败则野蛮人要承受全部的减益效果。野蛮人至少要达到第8级后才能选择此狂暴之力。
+|classic=心如坚钢
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

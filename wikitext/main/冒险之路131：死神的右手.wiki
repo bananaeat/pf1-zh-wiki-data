@@ -1,0 +1,49 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #131: The Reaper's Right Hand
+|authors=John Compton
+|pages=96
+}}
+
+{{书页/简介|head=你眼中的恩典|1=
+当狮子王座（Lion Throne）上空无一人，人人都想试一试！作为最后的复仇之举，最高战略官（High Strategos）Pythareus 的手下公布了证据，显示整个 Stavian 家族的血脉可能都并非正统，如今塔尔多的每一位贵族都愿冒内战之险来争夺王冠。PC 们能否找到首位皇帝陵墓的遗迹，求得他的祝福，以证明 Eutropia 适合统治？而如果塔尔多奠基者的灵魂无法回应他们的祈祷，他们能否回应他的祈求？
+
+本册《冒险之路》延续「皇冠战争」冒险之路，内容包括：
+
+* 《死神的右手》，一部面向 13 级角色的跨位面开拓者冒险，作者 John Compton。
+* Sayashto 区地志——无尽之城轴心城（Axis）里的一处高档街区，作者 John Compton。
+* 审视邪恶的[[半身人]]谋杀者与刺客之神、「默刃」Thamir Gixx，作者 Jason Keeley。
+* 塔尔多主要贵族世系概览，作者 Crystal Malarsky。
+* 五种诞生于位面大都会轴心城绝对法则之下的生物，包括志向高远的[[匡君者]]（impariut inevitable）与宇宙般威严的[[敕令龙]]（edict dragon），作者 John Compton、Nathan King 和 Greg A. Vaughan。
+}}
+
+'''冒险之路131：死神的右手'''（''Pathfinder #131: The Reaper's Right Hand''）是[[冒险之路]]「[[皇冠战争]]」系列的第五部冒险，由 John Compton 撰写，配套文章出自 John Compton、Jason Keeley、Nathan King、Crystal Malarsky 和 Greg A. Vaughan，于 2018 年 6 月 27 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+死神的右手 @ 4
+NPC 图集 @ 56
+Sayashto 区 @ 62
+Thamir Gixx：默刃 @ 68
+塔尔多贵族世系 @ 74
+- Corcina 家族
+- Darahan 家族
+- Denzarni 家族
+- Fahlspar 家族
+- Heskillar 家族
+- Kastner 家族
+- Merrosett 家族
+- Zespire 家族
+怪物图鉴 @ 80
+}}
+
+{{书页尾
+|pfw=The Reaper's Right Hand
+|releases=Softcover¦PZO90131¦2018-06¦978-1-64078-045-3；PDF¦PZO90131E¦¦
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=暴乱目镜
+|english_name=Saboteur's Goggles
+|aon=MagicWondrousDisplay.aspx?FinalName=Saboteur's Goggles
+|cat=奇物
+|aura=中等惑控系
+|cl=7
+|slot=眼部
+|price=16,000 gp
+|description=这种护目镜的镜片为深红色，周围是厚重的圆形黄铜镜框，用皮带固定在头上。每日3次，穿戴者可以把[[谋杀指令]]当作凝视攻击来使用（意志豁免DC 16，通过则无效）。
+|req=[[制造奇物]]、[[法术升阶]]、[[谋杀指令]]
+|cost=8,000 gp
+|source=进阶职业指南
+}}

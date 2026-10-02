@@ -1,0 +1,11 @@
+{{Feat
+|name=时刻备战
+|english_name=Ready for Anything
+|categories=战斗
+|description=你永远也不会放松警惕。
+|prerequisites=[[警觉]]，[[精通先攻]]，[[闪电反射]]，[[即时备战]]，BAB +6或直觉闪避职业能力
+|benefit=你总是能够在[[突袭]]轮中行动，即便你在发现敌人的察觉检定中失败也是如此，但是直至进行动作之前，你仍旧会被视为[[措手不及]]。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

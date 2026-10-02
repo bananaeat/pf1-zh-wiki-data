@@ -1,0 +1,24 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Entombed with the Pharaohs
+|authors=Michael Kortes
+|pages=32
+}}
+
+{{书页/简介|head=四位法老，一座陵墓，两队盗墓贼|1=
+飞升四法老（Four Pharaohs of Ascension）那座致命的金字塔陵墓终于被发现，掠夺其无价珍宝的竞赛就此展开。无尽的财富属于胜者，但奖品也可能是永世沦为亡灵的奴仆。
+
+《与法老同葬》是一部旅途冒险，适用于 6 级角色，与全球最受欢迎的奇幻角色扮演游戏兼容。本冒险详述了索西斯城及附近的古老陵墓，以及一心抢先夺得宝藏的对手冒险者。
+}}
+
+'''与法老同葬'''（''Entombed with the Pharaohs''）是 Michael Kortes 撰写的一部沙漠冒险，让玩家对阵一心抢先夺得宝藏的对手冒险者，以及意图阻止他们掠夺的凶残怪物与致命陷阱。远古的秘密与难以想象的财富，就在法老们的陵墓中等着你。本冒险收录了索西斯（Sothis）城及附近古老陵墓的资料，以及一心抢先夺得宝藏的对手冒险者的详情。
+
+{{书页尾
+|pfw=Entombed with the Pharaohs
+|releases=PDF¦PZO9505E¦2007-10¦；Softcover¦PZO9505¦2007-10¦
+}}
+
+<small>CHM 汉化里没有这本书的译名，书名是本站定的。</small>
+
+[[分类:书目]]

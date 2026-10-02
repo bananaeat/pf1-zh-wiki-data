@@ -1,0 +1,9 @@
+{{Trait
+|name=大胆冒充者
+|english_name=Gallant Imposter
+|type=地区
+|prerequisites=追随蒙蒂维圣教军的角色
+|description=你在知识（贵族）和知识（宗教）检定上获得+1背景加值。此外，当你尝试冒充成一个骑士时，你的[[易容]]和唬骗检定获得+2背景加值。
+|source_name=内海骑士
+|source_url=https://pf1chm.pages.dev/topics/zhdc70ece933.htm
+}}

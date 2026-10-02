@@ -1,0 +1,11 @@
+{{Feat
+|name=脚踏实地
+|english_name=Sure-Footed
+|description=即使在不稳固的地形中，你也能够安然立足。
+|prerequisites=四足动物或魔法兽
+|benefit=你在保持平衡的特技检定以及避免坠落的反射豁免中获得+2加值。你能够以正常速度在陡峭的斜坡与阶梯上移动，并且在下坡进行奔跑或冲锋时没有坠落的风险。
+|normal=在陡峭的斜坡上坡时，每移动一格消耗两格的移动力。下坡时奔跑或冲锋需要成功进行DC为10的特技检定（或对于骑乘的角色来说为DC10的骑术检定），否则将会有坠落的风险（见核心规则 428页）。
+|source=AArch
+|source_name=动物档案
+|source_url=https://pf1chm.pages.dev/topics/page_437.html
+}}

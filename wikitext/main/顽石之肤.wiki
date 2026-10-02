@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''顽石之肤'''（Flesh of Stone, Su）是[[操念使]]的[[原力]]。
+
+元素：土；类别：[[护身原力]]（Su）；等级：－；超载：0
+
+你的皮肤变得宛如岩石一般坚硬，它可以减弱大多数攻击造成的冲击。你获得DR 1/{{材料|精金}}。这个DR会在2级之后的每2个[[操念使]]等级增加1点。通过承受1点超载，你能够让DR增加1点，直至你所承受的超载得以移除为止，此DR最高等同于你的操念使等级。每当你使用土原力并承受超载时，汹涌的能量会穿过你的身体，使得你的伤害减免由DR/精金变为DR/－，持续1轮。你能够以[[直觉动作]]解消或恢复该效果。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Flesh of Stone|2=Flesh of Stone}}
+
+[[分类:原力]]

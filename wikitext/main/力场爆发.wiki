@@ -1,0 +1,16 @@
+{{Spell
+|name=力场爆发
+|english_name=Burst of force
+|school=塑能系
+|tags=力场
+|levels=奥能师 5;异能者 5;术士 5;法师 5
+|action=标准动作
+|components=语言
+|range=以自己为中心，20尺半径爆发
+|area=以你为中心、半径20尺爆发
+|duration=立即
+|save=强韧，通过则减半（见描述）
+|sr=是
+|description=通过爆发式的[[念动]]力场，你对其他所有影响范围内的生物造成每施法者等级1d6点力场伤害（最大15d6点伤害）。通过成功的强韧豁免将伤害减半。在这个强韧豁免中失败的生物必须再通过一次反射豁免，否则会被击倒在地。
+|source=异能选集
+}}

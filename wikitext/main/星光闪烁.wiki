@@ -1,0 +1,10 @@
+<noinclude>{{先知导航}}
+'''星光闪烁'''（Starlight Agility）是[[先知]]的[[秘示域|启示]]，属于[[太阳秘示域]]。
+
+</noinclude>{{Source|哈罗牌手册|The Harrow Handbook|inline}}
+
+你获得[[闪避]]作为[[奖励专长]]。第8级，你获得[[疾风步]]作为奖励专长。第15级，你获得[[闪电步]]作为奖励专长。你无需满足这些专长的前提条件。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh5143947133.htm 原文]）。全部秘示域见 [[:分类:秘示域|分类:秘示域]]。
+
+[[分类:秘示域]]</noinclude>

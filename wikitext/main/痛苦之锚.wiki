@@ -1,0 +1,10 @@
+{{Feat
+|name=痛苦之锚
+|english_name=Painful Anchor
+|description=邪恶的异界生物在试图连接其他位面的时候将受到伤害。
+|prerequisites=【锚定灵光】职业特性。【编注：【锚定灵光（Anchoring aura）】是圣武士反邪魔誓约（Oath against Fiends, UM）的8级能力。】
+|benefit=当一个邪恶异界生物在你的锚定灵光范围内使用呼唤、召唤、传送效果或者其他任何从物理上将生物于他位面间转移的（如[[闪现术]]、[[幻化灵体]]）能力时，它受到“4d8+你的魅力修正”的伤害。这是一种源自神圣力量的伤害，不受伤害减免、能量免疫或能量抗力影响。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

@@ -1,0 +1,9 @@
+{{装备
+|name=伙伴用御寒衣物
+|english_name=Companion cold-weather outfit
+|cat=冒险装备
+|price=15 gp
+|weight=6磅
+|description=这件衣物的作用与御寒衣物一样，对抗暴露于寒冷天气的强韧豁免检定获得+5环境加值，只不过它是专门为[[动物伙伴]]量身定做的。额外的价格用来支付专门的裁制，确保所用的毛皮不会让穿着它的动物产生不良反应。
+|source=极限荒野
+}}

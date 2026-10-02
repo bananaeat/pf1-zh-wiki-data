@@ -1,0 +1,14 @@
+{{Feat
+|name=兽群围猎
+|english_name=Pack Flanking
+|categories=团队;战斗
+|description=你和你的[[动物伙伴]]练习过如何围杀猎物。
+|prerequisites=智力13，[[寓守于攻]]，可以获得动物伙伴
+|benefit=当你和拥有此专长的动物伙伴共享方格或处于邻接状态，且同时威胁一个目标时，你们即都视为[[夹击]]目标，无论你们的位置如何。
+|normal=你必须和盟友处于目标的对角才能夹击目标。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}
+
+{{FAQ|v5748eaic9u2c}}

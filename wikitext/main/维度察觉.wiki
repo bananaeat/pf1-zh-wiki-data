@@ -1,0 +1,12 @@
+{{Feat
+|name=维度察觉
+|english_name=Dimensional Awareness
+|categories=战斗
+|description=你与召唤生物的丰富接触经验让你能够预知被召唤的敌人出现的位置。
+|prerequisites=奥术打击或者扰法者；[[驱逐重击]]；战斗反射；法术辨识8级；奥能池职业特性
+|benefit=如果一个被召唤或者呼唤的生物显现在一个你威胁的区域，你可以在那个生物行动前对它进行一次借机攻击，如果你成功辨识出召唤或者呼唤这个生物的法术，你会在攻击检定上获得+2环境加值。
+|normal=一个被召唤或呼唤的生物会在召唤他们的法术完成时立刻出现，不允许对这个生物进行借机攻击。
+|source=MSH
+|source_name=怪物召唤者手册
+|source_url=https://pf1chm.pages.dev/topics/page_667.html
+}}

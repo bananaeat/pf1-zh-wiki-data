@@ -1,0 +1,10 @@
+{{装备
+|name=粗哑药浆
+|english_name=Gravelly tonic
+|cat=炼金工具
+|price=50 gp
+|weight=—
+|craft_dc=25
+|description=这种粘稠的药浆闻起来就像是刨铁屑的味道。喝下它会让你的嗓音在1小时内变得低沉嘶哑，使得你的威吓检定获得+5炼金加值。
+|source=进阶职业指南
+}}

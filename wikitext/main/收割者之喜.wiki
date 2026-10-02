@@ -1,0 +1,16 @@
+{{Spell
+|name=收割者之喜
+|english_name=Reaper's Coterie
+|school=死灵系
+|tags=邪恶
+|levels=反圣武士 2;血脉狂怒者 2;先知 3;女巫 3;审判者 3;战斗祭司 3;牧师 3
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=接触
+|target=接触到的武器
+|duration=1轮/等级
+|save=无
+|sr=否
+|description=接触到的武器将会成为精力的积蓄池，每一次击倒敌人都会给池子添加一部分毁灭性的力量。每当用该武器将一个活物hp降到0或以下时，该武器的伤害就获得+1亵渎加值。该加值在每一次将活物hp降到0或以下时都会增加1，最高可达1/2你施法者等级数。
+|source=近战战术工具箱
+}}

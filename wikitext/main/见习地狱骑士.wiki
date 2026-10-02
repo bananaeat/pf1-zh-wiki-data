@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Monster Summoner's Handbook pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=见习地狱骑士
+|english_name=Hellknight Initiate
+|type=战斗
+|description=你刻苦钻研过多个地狱骑士团的训练仪式，意图亲自加入其中之一。你对通过咒法系（呼唤）和咒法系（召唤）法术及效果招来的异界生物，伤害检定获得+2背景加值。
+|source_name=怪物召唤者手册
+|source=MSH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Hellknight%20Initiate
+}}

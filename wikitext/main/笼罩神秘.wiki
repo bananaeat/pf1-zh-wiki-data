@@ -1,0 +1,10 @@
+{{Feat
+|name=笼罩神秘
+|english_name=Shrouded in Mystery
+|description=升斗小民们有很多关于你这类人的迷信谣言——这些无稽之谈都是出于无知和恐惧。他们对你的种族的言辞是否属实无关紧要，不过你会尽可能利用他们的认知。
+|prerequisites=[[唬骗]]1级，[[易容]]1级；[[狐妖]]、[[娜迦裔]]、[[轮回者]]、[[天狗]]、或剪影人。
+|benefit=你在对抗影响心灵的法术和效果的意志豁免骰上获得+2洞察加值，且在[[唬骗]]检定上获得+3洞察加值。这两种收益仅适用于对抗那些与你种族相异的类人生物。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

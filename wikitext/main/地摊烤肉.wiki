@@ -1,0 +1,9 @@
+{{装备
+|name=地摊烤肉
+|english_name=Street meat
+|cat=饮食
+|price=1 cp
+|weight=1/2磅
+|description=这种小块的熟肉通常由小贩穿在细木签上售卖，肉的来源常是各种各样的生物——最常见的是老鼠和鸽子。
+|source=极限宝具
+}}

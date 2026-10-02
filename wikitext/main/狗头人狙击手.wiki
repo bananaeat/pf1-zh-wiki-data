@@ -1,0 +1,13 @@
+{{Feat
+|name=狗头人狙击手
+|english_name=Kobold Sniper
+|categories=战斗
+|pfs=否
+|description=你狙击时出手干净利落，这使得其他人很难找到你攻击的位置。
+|prerequisites=[[隐匿]]1级，狗头人。
+|benefit=当你狙击时（参见隐匿技能说明），你只会在隐匿检定上受到-10减值以保持隐藏。
+|normal=当你试图在狙击后维持隐藏状态时隐匿检定-20。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

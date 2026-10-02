@@ -1,0 +1,9 @@
+{{Trait
+|name=劝人向善
+|english_name=Good Influence
+|type=种族
+|prerequisites=[[神裔]]（秩序使者）
+|description=你天生就能激励和鼓舞他人去做正确的事。当你试图说服一个非善良生物做出有益于善良事业的决定，或说服一个非守序生物做出合乎当地法律的决定时，你的交涉检定获得+1背景加值。若你试图说服一个既非善良也非守序的生物采取守序善良的行动，这两项加值叠加。
+|source_name=天界血脉
+|source_url=https://pf1chm.pages.dev/topics/page_828.html
+}}

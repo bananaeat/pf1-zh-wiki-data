@@ -1,0 +1,14 @@
+{{Feat
+|name=冒烟巨石
+|english_name=Smoking Boulder
+|pfs=否
+|description=你掷出的巨石炽热燃烧，击中后腾起滚滚浓烟。
+|prerequisites=BAB +11，炽热石块特殊攻击
+|benefit=当你在一次攻击动作中投掷出的巨石命中目标时，可在命中点生成一个 10 尺扩散半径的浓烟区域，持续 1d4 轮。（烟雾效果的规则见CRB 444页。）
+|source_name=巨人再临
+|source_url=https://pf1chm.pages.dev/topics/zh7f6dab746a.htm
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[爆裂巨石]]（1 个条目）

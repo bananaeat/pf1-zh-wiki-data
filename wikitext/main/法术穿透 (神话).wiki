@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[法术穿透]] 的神话版本。</small></div>
+{{Feat
+|name=法术穿透
+|english_name=Spell Penetration
+|categories=神话
+|description=你的神话之力能够粉碎敌人的防御。
+|prerequisites=[[法术穿透]]
+|benefit=将你的阶层的一半加到用于克服[[特殊能力#法术抗力|法术抗力]]的施法者等级检定中。若你具有[[高等法术穿透]]专长，则使用你的阶层取代阶层的一半。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=奋勇冲刺
+|english_name=Sprint
+|type=Ex
+|class=掉链野蛮人
+|benefit=野蛮人提升1/2的奔跑或者冲锋距离。野蛮人至少要达到4级后且拥有[[迅捷脚步]]才能够选择此狂暴之力。
+|classic=奋力冲刺
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

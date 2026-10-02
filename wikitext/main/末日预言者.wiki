@@ -1,0 +1,13 @@
+<noinclude>{{消歧义|末日预言者（游戏主持人指南）}}</noinclude>
+<noinclude>{{消歧义|末日预言者(NPC)}}</noinclude>
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Varisia, Birthplace of Legends pg. 29），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=末日预言者
+|english_name=Daring Doomsayer
+|type=战役
+|pfs=否
+|description=末日将至，谜港城上空的阴影不过是第一个证据。你深信世界末日近在眼前，于是决定参加金地精的赌博锦标赛——毕竟，你还有什么可失去的呢？每当你的攻击检定骰出“1”时，你在1分钟内进行的下一次攻击检定获得+1背景加值。你开始游戏时还持有一块写着你自选的末日标语的标语牌——这块木牌可以当作木棒使用。
+|source_name=瓦瑞西亚，传说诞生之地
+|source=VBoL
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Daring%20Doomsayer
+}}

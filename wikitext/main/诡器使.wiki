@@ -1,0 +1,9 @@
+{{Trait
+|name=诡器使
+|english_name=Surprise Weapon
+|type=战斗
+|description=你擅长使用通常难以被当作武器的物件战斗。你使用临时武器的攻击检定获得+2背景加值。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

@@ -1,0 +1,10 @@
+{{装备
+|name=打手珍酿
+|english_name=Brawler's brew
+|cat=酊剂
+|price=150 gp
+|weight=—
+|craft_dc=20
+|description=这种酊剂是由浓稠的糖浆融入烈性酒精中制成。在饮下酊剂的1小时内，你获得DR1/挥砍或穿刺并且忽视痛苦效果。但是你身体的麻木导致你在持续时间内强韧豁免检定承受-2罚值。
+|source=药剂与毒药
+}}

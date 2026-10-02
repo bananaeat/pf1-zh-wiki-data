@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=尖塔传送信物
+|english_name=Spire Transport Token
+|aon=MagicWondrousDisplay.aspx?FinalName=Spire Transport Token
+|cat=奇物
+|aura=中等咒法系
+|cl=7
+|slot=无
+|price=600 gp
+|description=这枚小小的信物是一个拇指大小的圆柱体，由坚不可摧的青绿色玻璃制成。持有尖塔传送信物的人可以使用翡翠之塔的传送功能。只有知道并说出某一层的识别符文时，持有者才能传送到那一层。
+|req=[[制造奇物]]、[[任意门]]，以及一小块从翡翠之塔上凿下的碎片
+|cost=300 gp
+|source=翡翠尖塔超级地城
+}}

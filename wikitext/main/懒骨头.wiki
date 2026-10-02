@@ -1,0 +1,11 @@
+{{Trait
+|name=懒骨头
+|english_name=Successful Shirker
+|type=种族
+|prerequisites=[[半身人]]
+|description=你曾经处于无望的奴役中，然而你善于逃避你的长官的怒火与目光而把时间花费在你自己的兴趣当中去。
+|benefit=你的隐匿检定获得+1的背景加值，并且在用于逃避法律或权威的惩罚的[[唬骗]]和交涉检定中获得+3的背景加值。
+|source_name=种族背景
+|source=CEoD
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

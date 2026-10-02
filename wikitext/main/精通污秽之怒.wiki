@@ -1,0 +1,10 @@
+{{Feat
+|name=精通污秽之怒
+|english_name=Improved Fury of the Tainted
+|categories=战斗
+|description=能与你对善良的愤怒相媲美的只有你击败善良的能力。
+|prerequisites=魅力13，[[污秽之怒]]，基本攻击加值+8，狂暴职业能力，[[魔裔]]
+|benefit=当你处于狂暴状态，你在对抗带有善良描述符的法术时获得等同于10 + 你的职业等级的[[特殊能力#法术抗力|法术抗力]]。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_833.html
+}}

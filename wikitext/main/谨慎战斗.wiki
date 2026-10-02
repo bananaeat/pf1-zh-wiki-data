@@ -1,0 +1,16 @@
+{{Feat
+|name=谨慎战斗
+|english_name=Cautious Fighter
+|categories=战斗
+|description=比起胜利你更注重生存。
+|prerequisites=半身人。
+|benefit=当你使用防御式战斗或者完[[全防御]]时，你获得的AC闪避加值额外+2。
+|stamina=如果你不在防御式战斗或全力防御，通过花费5点耐力可以使你的闪避AC+2，直至你的下一轮开始。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[意外伤害]]、[[本能防守]]、[[牵制防守]]、[[绝望打击]]（4 个条目）

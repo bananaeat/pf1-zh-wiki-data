@@ -1,0 +1,10 @@
+{{Feat
+|name=公理化论述
+|english_name=Axiomatic Discourse
+|description=你从轴心城最伟大的辩论家与演讲者处得到了启发，精准地组织你的言词，减少误会并强化认同。
+|prerequisites=交涉3级，知识（位面）3级
+|benefit=你可以激活此能力作为改变生物态度的交涉检定的一部份（在结果决定前）。若你在交涉检定上失败，那么除非你失败10点或更多，否则目标对你的态度不会下降。此外，你也可以尝试对不理解你的语言的生物进行改变态度的交涉检定，但你在该检定上要承受-4减值。此外，你每有5级知识（位面），每天就可以有1次在交涉检定中投两次骰子并取较好的结果。
+|source=PA
+|source_name=位面冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1492.html
+}}

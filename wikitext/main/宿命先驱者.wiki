@@ -1,0 +1,10 @@
+{{Trait
+|name=宿命先驱者
+|english_name=Destined Pioneer
+|type=种族
+|prerequisites=[[人类]]（塔尔多人）
+|description=你们的祖先曾在探险大军中服役，你继承了这种冒险精神。选择一个游侠的偏好地形(在Pathfinder RPG Core Rulebook页65)。一旦选择，就不能更改了。当你处于被选中的地形中，每天1次，在你的回合结束之前，你可以无视非魔法的[[困难地形]]，在其上移动就如同在普通地形上移动一样。
+|source_name=河域子民
+|source=PotR
+|source_url=https://pf1chm.pages.dev/topics/zh576fd36972.htm
+}}

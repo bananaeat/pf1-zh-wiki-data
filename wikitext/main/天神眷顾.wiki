@@ -1,0 +1,9 @@
+{{Trait
+|name=天神眷顾
+|english_name=Empyreal Focus
+|type=宗教
+|prerequisites=信仰任一至高天领主
+|description=你信奉的至高天神会偶尔赐予你恩惠，以此回应你的崇敬。每天一次，你可以在技能检定上获得+2背景加值，你需要在投骰子前宣言。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

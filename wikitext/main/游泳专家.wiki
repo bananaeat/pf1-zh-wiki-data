@@ -1,0 +1,9 @@
+{{Trait
+|name=游泳专家
+|english_name=Expert Swimmer
+|type=地区
+|prerequisites=河域诸国
+|description=大多数海上海盗将落水视为死刑判决，但在河流王国，这通常是策略的关键部分。你在游泳检定中获得+1背景加值，并成为你的[[本职技能]]。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

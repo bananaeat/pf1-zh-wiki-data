@@ -1,0 +1,12 @@
+{{Feat
+|name=强颌
+|english_name=Snapping Jaws
+|categories=战斗
+|pfs=否
+|description=你拥有健壮的颌骨与咬合肌肉，可以发动致命的啮咬攻击
+|prerequisites=基础攻击加值+1，豺狼人
+|benefit=你获得啮咬攻击作为天生武器攻击，它是一次主要天生武器攻击并能造成1d6点伤害。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1405.html
+}}

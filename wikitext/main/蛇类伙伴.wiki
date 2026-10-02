@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=蛇类伙伴|en=Serpent Companion|type=Ex|domain=鳞裔领域|source=神与魔法|text=在4级时，你获得一个[[动物伙伴]]，以你的牧师等级-2作为你的有效[[德鲁伊]]等级。你必须选择毒蛇或蟒蛇作为你的动物伙伴。}}<noinclude>
+
+[[分类:领域]]</noinclude>

@@ -1,0 +1,10 @@
+{{Trait
+|name=魔术迷
+|english_name=Theoretical Magician
+|type=魔法
+|description=你涉猎的法术比你实际会用的法术多。
+|benefit=你获得+2的背景加值在[[法术辨识]]检定上，如果你并非是一个施法者则该加值为+3。
+|source_name=魔法背景
+|source=CEoD
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

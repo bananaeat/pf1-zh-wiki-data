@@ -1,0 +1,9 @@
+{{Trait
+|name=誓约者
+|english_name=Oathbound
+|type=信念
+|description=你立下庄严誓约，并以强大的决意将其实现。每日1次，你可以重骰对抗魅惑和胁迫效果的豁免。你必须接受重骰结果，即便更糟。
+|source_name=信念背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

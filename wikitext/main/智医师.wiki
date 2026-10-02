@@ -1,0 +1,9 @@
+{{Trait
+|name=智医师
+|english_name=Precise Treatment
+|type=魔法
+|description=你对伤患的治疗方案总是经过仔细的计算与分析。你的医疗检定获得+1背景加值，同时你可以在进行医疗检定时用智力修正取代感知修正。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

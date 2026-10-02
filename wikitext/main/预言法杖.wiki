@@ -1,0 +1,22 @@
+{{魔法物品
+|name=预言法杖
+|english_name=Staff of Divination
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Divination
+|cat=法杖
+|aura=强烈预言系
+|cl=13
+|slot=无
+|price=82,000 gp
+|weight=5磅
+|description=这根法杖由一段柔韧的柳木制成，木料经过精心挑选，杖端弯曲分叉。预言法杖可以使用以下法术：
+
+* [[侦测密门]]（1 发）
+* [[物品定位术]]（1 发）
+* [[巧言术]]（1 发）
+* [[生物定位术]]（2 发）
+* [[窥视魔眼]]（2 发）
+* [[真知术]]（3 发）
+|req=[[制造法杖]]、[[侦测密门]]、[[生物定位术]]、[[物品定位术]]、[[窥视魔眼]]、[[巧言术]]、[[真知术]]
+|cost=41,000 gp
+|source=核心规则书、极限宝具
+}}

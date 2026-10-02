@@ -1,0 +1,15 @@
+{{魔法物品
+|name=无尽麻绳法袍
+|english_name=Robe of Infinite Twine
+|aon=MagicWondrousDisplay.aspx?FinalName=Robe of Infinite Twine
+|cat=奇物
+|aura=中等咒法系
+|cl=7
+|slot=躯体
+|price=1,000 gp
+|weight=1磅
+|description=这件粗糙的麻布长袍似乎是用一根细绳织成的。穿戴者每轮可以从袍子上抽出至多30尺的细绳，或至多10尺的[[麻绳]]，而不会损坏袍子。穿戴者也可以用一个[[直觉动作]]从袍子上抽出至多150尺的细绳或50尺的麻绳，但这会使袍子陷入破损状态，并在修复之前压制其能力。从袍子上抽出的细绳或麻绳在被切断或撕断之前一直与袍子相连，但被视作普通材料，而不是魔法物品的一部分。被取下的部分变成普通的细绳或麻绳。
+|req=[[制造奇物]]、[[弱效造物术]]
+|cost=500 gp
+|source=极限宝具
+}}

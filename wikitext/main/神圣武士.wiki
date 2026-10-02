@@ -1,0 +1,12 @@
+{{消歧义|圣战使}}
+{{Trait
+|name=神圣武士
+|english_name=Divine Warrior
+|type=宗教
+|prerequisites=信仰[[艾奥梅黛]]
+|description=在你很小的时候，你就被牧师们制定的军事纪律所鞭策。你全身心地投入到艾奥梅黛的教诲中，并致力于以武力推广她的教义。
+
+你的伤害性神术的伤害获得+1背景加值。
+|source_name=塔尔多，荣光荡漾之地
+|source_url=https://pf1chm.pages.dev/topics/page_938.html
+}}

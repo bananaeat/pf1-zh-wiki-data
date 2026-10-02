@@ -1,0 +1,9 @@
+{{装备
+|name=凤梨酒（一杯）
+|english_name=Tepache (cup)
+|cat=饮食
+|price=5 cp
+|weight=1/2磅
+|description=这种低度酒精饮料用啤酒、凤梨（或其他热带水果）、糖和肉桂酿成，发酵数日后加辣椒粉冷饮。它香甜可口，但只在较温暖的气候地区才常见。
+|source=极限宝具
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=迷雾马蹄铁
+|english_name=Horseshoes of Mist
+|aon=MagicWondrousDisplay.aspx?FinalName=Horseshoes of Mist
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=脚部
+|price=27,000 gp
+|weight=12磅
+|description=马钉上这些马蹄铁后，每当蹄子踏在地上，它们就会冒出一团薄雾。凭骑手的命令，坐骑和骑手会同时受到如同[[气化形体]]法术的影响。如果在气化形态期间，骑手和坐骑出于某种原因彼此分开，该效果会对两者自动结束。马蹄铁每天可以使用10分钟，这些时间不必连续，但必须以1分钟为单位消耗。
+|req=[[制造奇物]]、[[气化形体]]
+|cost=13,500 gp
+|source=极限宝具
+}}

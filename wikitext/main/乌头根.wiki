@@ -1,0 +1,14 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{危害
+|name=乌头根
+|english_name=Aconite root
+|kind=毒药
+|type=摄入
+|save=强韧 DC 25
+|onset=1分钟
+|frequency=1次/轮，持续5轮
+|effect=1d3点敏捷伤害、1点体质伤害，并[[反胃]]1轮
+|cure=2次豁免
+|price=1,800 gp
+|source=河域诸国指南
+}}

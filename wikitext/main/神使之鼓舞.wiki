@@ -1,0 +1,10 @@
+{{Feat
+|name=神使之鼓舞
+|english_name=Emissary's Emboldening
+|description=你的魔宠能引导出体内那神圣的勇气。
+|prerequisites=必须具有使用了神使变体的魔宠
+|benefit=只要你的魔宠与你相邻，那么你就会在对抗恐惧效果时获得+1士气加值。这个加值在4级以及之后的每4级会增加1点（至多为16级时的+5点）。20级起，只要你的魔宠与你相邻，就会变得免疫恐惧效果。
+|source=FF
+|source_name=魔宠手记
+|source_url=https://pf1chm.pages.dev/topics/page_491.html
+}}

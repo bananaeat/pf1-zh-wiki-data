@@ -1,0 +1,15 @@
+{{Spell
+|name=共用蛛行术
+|english_name=Spider climb, communal
+|school=变化系
+|levels=召唤师 3;召唤师（掉链） 3;奥能师 3;异能者 3;德鲁伊 3;术士 3;法师 3;炼金术师 3;猎人 3;秘学士 3;红螳螂杀手 3;调查员 3
+|action=标准动作
+|components=语言;姿势;材料（一只活蜘蛛）
+|range=接触
+|target=接触到的复数生物
+|duration=10分钟/等级
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=这个法术工作方式如同[[蛛行术]]，不过你可以将持续时间以10分钟为单位分配给接触到的复数生物。
+|source=极限战斗
+}}

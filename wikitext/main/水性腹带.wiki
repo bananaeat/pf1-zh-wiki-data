@@ -1,0 +1,14 @@
+{{魔法物品
+|name=水性腹带
+|english_name=Aquatic Cummerbund
+|aon=MagicWondrousDisplay.aspx?FinalName=Aquatic Cummerbund
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=腰部
+|price=2,600 gp
+|description=人们长久以来认为它源自[[侏儒]]，这条庄重的腹带在深蓝色的料子上绣有许多跳舞的海豚。穿戴者在游泳检定上获得+4表现加值，并且即使处于分心或危险之中，也能在这类检定上取10。
+|req=[[制造奇物]]、[[海洋之触]]（《进阶玩家指南》）
+|cost=1,300 gp
+|source=极限宝具
+}}

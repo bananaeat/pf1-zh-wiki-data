@@ -1,0 +1,11 @@
+{{Feat
+|name=激励师
+|english_name=Inspiring Mentor
+|description=你的表演能够让其他听众也做得更好。
+|prerequisites=[[魅力]] 13，提振技能吟游表演
+|benefit=提振技能吟游表演现在可以影响30尺内所有能够听到你的表演的盟友，只要他们尝试的技能是你选择的便可以生效。
+|normal=提振技能仅能影响1名盟友。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

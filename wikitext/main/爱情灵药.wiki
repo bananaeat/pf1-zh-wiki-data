@@ -1,0 +1,14 @@
+{{魔法物品
+|name=爱情灵药
+|english_name=Elixir of Love
+|aon=MagicWondrousDisplay.aspx?FinalName=Elixir of Love
+|cat=奇物
+|aura=微弱惑控系
+|cl=4
+|slot=无
+|price=150 gp
+|description=这种味道香甜的液体会使饮下它的角色对服用药剂后看到的第一个生物心醉神迷（如同[[魅惑人类]]——饮用者必须是中型或更小的类人生物，DC 14意志豁免可无效）。魅惑效果在1d3小时后消退。
+|req=[[制造奇物]]、[[魅惑人类]]
+|cost=75 gp
+|source=核心规则书、极限宝具
+}}

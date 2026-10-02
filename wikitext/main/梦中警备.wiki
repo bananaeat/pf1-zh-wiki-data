@@ -1,0 +1,8 @@
+{{Trait
+|name=梦中警备
+|english_name=Dormant Defense
+|type=战斗
+|description=你的身体即使是在休息时仍从未放松警惕。你在睡觉时尝试进行的察觉检定其DC只会增加7（而不是正常状态下的增加10）。当你处于晕眩，震慑或无助时，你受到的每一个重击或偷袭都会有25%几率无效。当重击或偷袭因此无效时，如常骰普通攻击的伤害骰。该效果不会与护命防具特殊能力或类似效果叠加。
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1193.html
+}}

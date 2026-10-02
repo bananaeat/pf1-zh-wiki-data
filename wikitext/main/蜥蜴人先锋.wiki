@@ -1,0 +1,46 @@
+{{速查导航}}
+{{怪物
+|name=蜥蜴人先锋
+|english_name=Lizardfolk Vanguard
+|cr=2
+|xp=600
+|classline=蜥蜴人野蛮人1
+|alignment=混乱中立
+|size=中型
+|type=类人生物
+|subtypes=爬虫
+|init=+2
+|senses=察觉+6
+|description=一些战士以进入战斗狂热的方式增强自身的力量。
+|ac=17，接触10，措手不及15（+2护甲，+2敏捷，+5天生，-2狂暴）
+|hp=33（3HD，2d8+1d12+12）
+|fort=+9
+|ref=+2
+|will=+3
+|speed=40尺；游泳15尺
+|melee=精制品钉头锤+8（1d8+5），啮咬+5（1d6+2）或2爪抓+7（1d4+5），啮咬+5（1d6+2）
+|ranged=标枪+4（1d6+5）
+|special_attacks=狂暴（6轮/天）
+|tactics=<div class="ml wide"><span class="k">战斗中</span>蜥蜴人先锋使用突袭战术优先排除最有威胁的敌人。</div><div class="ml wide"><span class="k">基础数据</span>在未进入狂暴时，蜥蜴人先锋的数据如下：防御等级19，接触12，措手不及17；生命值27；强韧+7，意志+1；近战：精制品钉头锤+6（1d8+3），啮咬+3（1d6+1）或爪抓+5（1d4+3），啮咬+3（1d6+1）；力量17，体质15；CMB：+5；技能：游泳+16。</div>
+|str=21
+|dex=14
+|con=19
+|int=9
+|wis=12
+|cha=8
+|bab=+2
+|cmb=+7
+|cmd=17
+|feats=[[多重攻击]];[[猛力攻击]]
+|skills=[[特技]]动作+10（用于跳跃时+14）;[[察觉]]+6;[[生存]]+5;[[游泳]]+18
+|languages=龙语
+|sq=快速移动;[[通用怪物规则#闭气|闭气]]
+|environment=温带沼泽
+|combat_gear=治疗中伤药水
+|gear=精制品皮甲;精制品钉头锤;标枪 x4;8GP
+|source=怪物志
+|family=蜥蜴人（怪物志）
+|npc=1
+}}
+
+本页译自《[[怪物志]]》的怪物图鉴 CHM。

@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[披甲奥术训练]] 的神话版本。</small></div>
+{{Feat
+|name=披甲奥术训练
+|english_name=Arcane Armor Training
+|categories=神话
+|description=你让自身的施法动作克服了披甲带来的局限性。
+|prerequisites=[[披甲奥术训练]]
+|benefit=你不用花费[[迅捷动作]]就能够获得[[披甲奥术训练]]专长带来的奥术失败率降低效果。除此之外，若你穿着轻甲，那么你的奥术失败率降低20%。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

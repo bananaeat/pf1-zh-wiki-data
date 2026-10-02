@@ -1,0 +1,17 @@
+{{Feat
+|name=母亲赠礼
+|english_name=Mother's Gift
+|pfs=否
+|description=你从鬼婆母亲那里继承了特殊的礼物。
+|prerequisites=替换儿。
+|benefit=你获得的黑暗馈赠由下列方式体现出来。当你选择该专长时选择其表现形式，一旦选定则无法改变。
+|special=你可以选择该专长至多3次。其效果无法叠加。每次获得专长时，你必须选择不同的表现形式。
+|extra=鬼婆之爪（Ex）：爪抓的攻击检定以及伤害检定获得+1加值。
+
+骇人强韧（Ex）：你的天生防御加值增加1点。
+
+神秘抗力（Su）：你获得等同于“6+角色等级”的法术抗力。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

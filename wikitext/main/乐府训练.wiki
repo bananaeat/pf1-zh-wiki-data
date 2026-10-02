@@ -1,0 +1,10 @@
+{{Feat
+|name=乐府训练
+|english_name=Conservatory-Trained
+|description=你在位于扎摩诔-大萨雷特岛上的著名音乐学院受训，这有助于你觉察到他人的关注点并借此为自己谋利。
+|prerequisites=[[察言观色]]1级
+|benefit=你在使用个体影响力系统（Pathfinder RPG [[极限诡道]] P102）进行通晓检定时，获得一个等同于你感知调整值的洞察加值。此外，当你通过通晓发现一个NPC的强项时，盟友进行的下一个结合该强项的影响力检定获得+2加值。
+|source=HotHC
+|source_name=皇庭英豪
+|source_url=https://pf1chm.pages.dev/topics/page_670.html
+}}

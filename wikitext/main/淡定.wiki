@@ -1,0 +1,10 @@
+{{Feat
+|name=淡定
+|english_name=Stoic
+|description=你自己的经验告诉你，生活就是一系列无情的考验，并且恐惧本身是可以被克服的。
+|prerequisites=[[钢铁意志]]
+|benefit=你在对抗恐惧效果的所有豁免检定中获得+1加值。如果你在对抗任何恐惧效果时成功豁免，你就会在24小时内对同一来源的恐惧效果免疫。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

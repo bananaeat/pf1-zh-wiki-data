@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|荒野源始|Wilderness Origins}}
+'''精通火焰坐骑'''（Improved Fire Steed, Sp）是[[操念使]]的[[原力]]。
+
+元素：火；类别：通用（Sp）；等级：5；超载：0
+
+前置：[[火焰坐骑]]
+
+当使用火焰坐骑时，坐骑的火焰抗力提高至20，并且速度额外提高10尺。坐骑可以毫无困难地在熔岩上移动，速度也不会降低。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Improved Fire Steed|2=Improved Fire Steed}}
+
+[[分类:原力]]

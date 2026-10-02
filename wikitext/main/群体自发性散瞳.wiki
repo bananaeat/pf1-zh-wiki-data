@@ -1,0 +1,16 @@
+{{Spell
+|name=群体自发性散瞳
+|english_name=Mydriatic spontaneity, mass
+|school=塑能系
+|tags=黑暗;光亮
+|levels=催眠师 5;吟游诗人 5;歌者 5;异能者 6;奥能师 7;女巫 7;术士 7;法师 7
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一名或更多名活物，任两者之间不得相距超过30尺。
+|duration=1轮/等级
+|save=意志，通过则无效
+|sr=是
+|description=此法术如同自发性散瞳般作用，除了此法术可以影响数个目标。
+|source=阴影血脉
+}}

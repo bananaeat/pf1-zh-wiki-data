@@ -1,0 +1,9 @@
+{{装备
+|name=风铃
+|english_name=Wind chime
+|cat=冒险装备
+|price=1 gp
+|weight=1磅
+|description=风铃由一串悬吊的钟、管或棒组成，以金属或木材制成。迷信的人常把它挂在建筑物外面，用来驱赶灵魂；风铃也可以充当临时的警报装置。
+|source=异能冒险
+}}

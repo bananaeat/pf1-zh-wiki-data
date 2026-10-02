@@ -1,0 +1,12 @@
+{{消歧义|沼地隐士}}
+{{Trait
+|name=强健肠胃
+|english_name=Strong Stomach
+|aon=无
+|type=地区
+|description=你在对抗毒素的豁免检定上获得+2背景加值，并且你可以无需烹饪或清洗就安全地食用生鱼和生肉。
+冻原行者(Tundra Walker:):格拉利昂最勇敢的探险者或许是那些跨越世界之冠的人，他们在原本相隔甚远的人群之间建立起贸易和移民联系。只有少数人会进行如此危险的旅程，但北极冻土仍然是猎人、隐士和其他适应了全年昼夜交替变化之人的家园。
+|source_name=荒野源始
+|source=WO
+|source_url=https://pf1chm.pages.dev/topics/zh4c71a0e505.htm
+}}

@@ -1,0 +1,9 @@
+{{Feat
+|name=信念加持
+|english_name=Conviction
+|description=你的行为有神明的决意来撑腰。
+|prerequisites=魅力13
+|benefit=当你对吸血鬼出示圣徽或其它它嫌恶的物品，该生物克服这种嫌恶的DC增加2。
+|source_name=夜之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_823.html
+}}

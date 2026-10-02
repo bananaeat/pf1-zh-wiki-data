@@ -1,0 +1,13 @@
+{{危害
+|name=箭雨陷阱
+|english_name=Hail of Arrows Trap
+|kind=陷阱
+|trap_type=机械
+|cr=9
+|perception=DC 25
+|disable=DC 25
+|trigger=视觉型（[[秘法眼]]）
+|reset=修复
+|effect=攻击 +20 远程（6d6）；复数目标（20尺直线内的所有目标）
+|source=核心规则书
+}}

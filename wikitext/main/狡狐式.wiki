@@ -1,0 +1,11 @@
+{{Feat
+|name=狡狐式
+|english_name=Fox Style
+|categories=战斗;流派
+|description=你的武术技巧能用于操弄敌人。
+|prerequisites=[[智力]] 13
+|benefit=当你使用该[[流派]]时，能够在为了隐藏而分散对方注意力以及在战斗中进行[[虚招]]而作出的[[唬骗]]检定中，使用基本攻击加值来取代你在唬骗技能中投入的点数。若你的智力至少达到了19，则可以在上述唬骗检定中添加你的魅力调整值时获得+4加值。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

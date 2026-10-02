@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Strange Aeons Player's Guide pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=曾被换魂
+|english_name=Formerly Mind-Swapped
+|type=战役
+|pfs=否
+|description=你醒来时，除了大面积失忆的可怕经历之外，还有一种奇怪的感觉。关于那段经历的完整记忆——和许多其他记忆一样——已从你脑中抹去，但在你过去的某个时刻，你的心智曾与一名伊斯人——一种来自时空之外的异界存在——互换过。你记不起自己以陌生的躯体游荡在伊斯人那座奇特城市中的细节——甚至担心这会不会只是某种奇怪的幻觉——但时不时地，这段经历会让你灵光一闪。你知道，在调查你眼下的处境时，你可以依靠这些异界的记忆闪回，因为它让你能以更宽广的视角看待这个原本令人困惑的世界。
+
+每天一次，你可以重骰一次刚刚失败的[[知识]]检定。此外，你可以尝试DC不超过20（而非10）的未受训知识检定。
+|source_name=Strange Aeons Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Formerly%20Mind-Swapped
+}}

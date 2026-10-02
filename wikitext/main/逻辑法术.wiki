@@ -1,0 +1,10 @@
+{{Feat
+|name=逻辑法术
+|english_name=Logical Spell
+|categories=超魔
+|description=你可以通过行使逻辑与理论回避情绪成分的使用。
+|benefit=逻辑法术可以在没有情绪成分的情况下进行施放。不需要情绪成分的法术不受该专长影响。逻辑法术使用比法术的实际环级高1级的法术位。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

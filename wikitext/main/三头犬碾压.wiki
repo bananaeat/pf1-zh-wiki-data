@@ -1,0 +1,10 @@
+{{Feat
+|name=三头犬碾压
+|english_name=Cerberus Crush
+|categories=战斗
+|description=当你向三个方向发起攻击时，每一个攻击都能传导致命的力量。
+|prerequisites=三头犬流，三头犬罗网，要害打击，BAB+13或13级武僧等级
+|benefit=你可以将要害打击，精通要害打击，高等要害打击应用到三头犬流的所有攻击上。
+|source_name=位面旅者手册
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

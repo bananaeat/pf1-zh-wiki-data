@@ -1,0 +1,10 @@
+{{Feat
+|name=漫游之魂
+|english_name=Wandering Mind
+|description=你的思绪总是从一件事飘向下一件，几乎无法被确定。
+|prerequisites=角色等级9，伽瑟兰
+|benefit=当你未能通过一项对抗持续时间超过1轮的影响心灵效果的意志豁免时，你可以在你豁免失败后的下一轮重新尝试一次意志豁免。如果你成功通过这次豁免，你获得针对这项效果通过意志豁免时的正常好处。针对每个效果，此专长仅提供一次额外的豁免。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/page_814.html
+}}

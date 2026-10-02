@@ -1,0 +1,9 @@
+{{Feat
+|name=街头智慧
+|english_name=Street Smarts
+|description=你了解每一条街道，也熟悉这些街区的住民性格。
+|benefit=你的察言观色与知识(本地)检定获得+2加值，而且知识(本地)总是视为是你的[[本职技能]]。如果你在上述技能中投入了10点或更多技能点的话，那么对应技能获得的加值提升至+4点。察言观色检定获得的加值不会与[[警觉]]叠加。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

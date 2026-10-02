@@ -1,0 +1,11 @@
+{{Feat
+|name=郭之羁绊
+|english_name=Quah Bond
+|categories=团队
+|description=你与你[[图腾之灵]]的联系，可添加你周围同郭（quah）的其他人。
+|prerequisites=[[图腾之灵]]（详见The Inner Sea World Guide第289页），[[人类]]（休盎提人）。
+|benefit=倘若30尺内有至少一名同样拥有该专长的同郭（quah）休盎提人的话，你在图腾之灵（Totem Spirit）专长的获益加倍。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

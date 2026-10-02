@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Agents of Evil pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=风雨无惧
+|english_name=Weathered
+|type=种族
+|prerequisites=窃影鬼
+|description=由于你天生的抗性，你在抵抗寒冷或电击效果与危害的豁免上获得+2背景加值。
+|source_name=邪恶特务
+|source=AoE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Weathered
+}}

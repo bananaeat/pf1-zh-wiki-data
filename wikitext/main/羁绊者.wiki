@@ -1,0 +1,9 @@
+{{Trait
+|name=羁绊者
+|english_name=Loyalty across Lifetimes
+|type=信念
+|description=你与你的[[幻灵]]之间所共有的联结似乎已持续了数个生命轮回。在决定你的幻灵受伤并被强行遣返其位面的生命负值时，将其体质属性视为高于实际2点。此外，你的幻灵抵抗惑控系法术和效果的意志豁免获得+1背景加值。
+|source_name=信念背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

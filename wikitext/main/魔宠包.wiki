@@ -1,0 +1,9 @@
+{{装备
+|name=魔宠包
+|english_name=Familiar satchel
+|cat=冒险装备
+|price=25 gp
+|weight=6磅
+|description=这种覆有甲片的容器能为待在其中的超小型或更小的生物提供全掩蔽。它留有若干通气孔（如果需要下水，可以用软木塞塞住），以及两个分别盛放食物和水的容器。
+|source=极限宝具
+}}

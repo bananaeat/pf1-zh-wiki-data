@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[衰弱射线]] 的神话版本。</small></div>
+{{Spell
+|name=衰弱射线
+|english_name=Ray of Enfeeblement
+|school=死灵系
+|levels=催眠师 1;奥能师 1;女巫 1;术士 1;法师 1;血脉狂怒者 1;魔战士 1
+|description=力量减值增加至1d8 + 每两个施法者等级1点（最高+10）。若目标豁免失败，则会疲乏。
+|source=神话冒险
+}}
+[[分类:神话法术]]

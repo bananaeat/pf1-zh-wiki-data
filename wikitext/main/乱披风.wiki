@@ -1,0 +1,15 @@
+{{Feat
+|name=乱披风
+|english_name=Janni Tempest
+|categories=战斗
+|description=你的烈风攻势可轻易令对手失去平衡。
+|prerequisites=[[精通徒手打击]]，[[御风]]，[[特技]]5级，[[表演]]（舞蹈）5级。
+|benefit=你处于风灵[[流派]]架势时，只要你徒手打击命中对手，你对此对手的[[冲撞]]和摔绊的[[战技]]检定有+4加值，但战技必须在你该轮结束前发动。你的这次战技不会引发[[借机攻击]]。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[罡风惊天]]（1 个条目）

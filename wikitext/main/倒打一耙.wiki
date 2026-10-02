@@ -1,0 +1,12 @@
+{{Feat
+|name=倒打一耙
+|english_name=Reverse-Feint
+|categories=战斗
+|pfs=否
+|description=你可以诱使一名敌人攻击你，从而进行一次更为强力的反击。
+|prerequisites=[[健壮]]，基本攻击加值+1，兽人。
+|benefit=以一个[[移动动作]]，你可以使自己的防御对一名邻接的敌人露出破绽。若该敌人在它的下一轮中攻击你，他在攻击检定上获得+4加值。不论该敌人是否成功命中，你都能以一个[[直觉动作]]对其进行一个单次近战攻击，在你的攻击检定上获得+2加值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

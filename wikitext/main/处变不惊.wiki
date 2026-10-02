@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Strange Aeons Player's Guide pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=处变不惊
+|english_name=Enduring Stoicism
+|type=战役
+|pfs=否
+|description=当你在疯人院中醒来时，尽管耳中心跳如擂，你却出奇地镇定。你能认识到自己身处的境地十分可怕，但你拒绝让恐惧支配自己。这似乎不值得过分担忧。你知道，当你面对不可名状的力量时，保持冷静才能让你活下去。
+
+你对抗具有恐惧或情绪描述符的法术或效果的所有豁免检定获得+2背景加值。此外，由于你令人生畏的气场——人们不知道你会做出什么——你的[[威吓]]检定获得+1背景加值。
+|source_name=Strange Aeons Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Enduring%20Stoicism
+}}

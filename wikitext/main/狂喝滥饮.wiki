@@ -1,0 +1,13 @@
+{{Feat
+|name=狂喝滥饮
+|english_name=Potion Glutton
+|description=你灌下药水的速度快到吓人
+|prerequisites=信仰厄迦图娅
+|benefit=当你饮用药水、灵药或其他饮品（但不包括化合炼成）时，你只需要一个[[移动动作]]且不会导致[[借机攻击]]。
+|normal=喝下药水是一个[[标准动作]]，且会导致借机攻击
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}
+
+{{FAQ|v5748eaic9vbb}}

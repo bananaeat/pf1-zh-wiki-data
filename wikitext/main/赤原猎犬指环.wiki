@@ -1,0 +1,14 @@
+{{魔法物品
+|name=赤原猎犬指环
+|english_name=Red Hound Ring
+|aon=MagicRingsDisplay.aspx?FinalName=Red Hound Ring
+|cat=戒指
+|aura=微弱防护系、咒法系、变化系
+|cl=5
+|slot=戒指
+|price=4,700 gp
+|description=这枚白金[[魔法物品#戒指|戒指]]上雕刻着一只獒犬和一团雷云的图案。它的效用与+1[[防护戒指]]相同。此外，穿戴者每天一次可以使用[[召唤怪物 I]]，召唤一只赤色獒犬（使用天界犬的数据）。穿戴者每天还可以使用一次野兽形态 I，变形为一只小型赤色獒犬。
+|req=[[锻造戒指]]、[[野兽形态 I]]、[[虔诚护盾]]、[[召唤怪物 I]]、制造者至少为3级
+|cost=2,350 gp
+|source=内海诸神
+}}

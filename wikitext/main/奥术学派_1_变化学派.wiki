@@ -1,0 +1,15 @@
+<noinclude>{{法师导航}}</noinclude>
+==变化学派(Transmutation School)==
+
+{{Source|核心规则书|Core Rulebook|inline}}
+
+变化师使用魔法来改变周围世界。
+
+'''体能增强'''（Physical Enhancement, Su）：你在一项身体属性（力量，敏捷，体质）上获得+1增强加值。此奖励之后每5级增加1。20级达到最大+5。在每天准备法术时，你能够改变此加值到一项新属性上。20级时，此奖励被加到两项你所选定的身体属性上。
+
+'''空间拳'''（Telekinetic Fist, Sp）：作为[[标准动作]]，你能用空间拳实施打击，通过远程[[接触攻击]]30尺以内的敌人。此拳造成“1d4+1/2法师等级”钝击伤害。你能够每天使用此能力次数为“3+智力修正”。
+
+'''改变形态'''（Change Shape, Sp）：在8级，你能改变你的形态，每天持续等同于你的法师等级的轮数。使用不需连续。此能力在其他方面如同[[野兽形态II]]或者[[元素形态 I|元素形态I]]。在12级，此能力视为[[野兽形态III]]或者[[元素形态 II|元素形态II]]。
+
+<noinclude>{{AoN原文|1=SchoolDisplay.aspx?ItemName=Transmutation|2=Transmutation School}}
+[[分类:奥术学派]]</noinclude>

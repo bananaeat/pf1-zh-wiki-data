@@ -1,0 +1,16 @@
+{{Spell
+|name=目中无人
+|english_name=Utter contempt
+|school=惑控系
+|tags=情绪
+|levels=反圣武士 3;催眠师 4;吟游诗人 4;歌者 4;异能者 5;奥能师 6;术士 6;法师 6
+|action=标准动作
+|components=语言;姿势;材料（唾液）
+|range=近距
+|target=一名生物
+|duration=1分钟/等级
+|save=意志，通过则无效
+|sr=是
+|description=你使目标对自己之外的所有生物满怀恶意。目标对自己之外的所有生物的态度下降两级。
+|source=极限魔法
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=严守纪律
+|english_name=Focused Discipline
+|categories=战斗
+|description=你对家乡的军事传统的熟悉，使你获得了非同寻常的勇气。
+|benefit=你在对抗所有恐惧效果时的豁免检定获得+2加值。每当恐惧效果以你为目标并且未能影响到你（无论是由于成功的豁免检定还是由于免疫恐惧），你在对抗使用该恐惧效果未遂的生物时，攻击检定，武器伤害检定与[[CMB]]检定均获得+2士气加值，持续1轮。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=无相咒
+|english_name=Unseen but Not Undone
+|type=魔法
+|description=你不需任何手势就能施展血统奖励法术。每日1次，你能够视为拥有[[法术定发]]专长般施放一个血统奖励法术。使用此[[背景特性]]并不会改变法术环级。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

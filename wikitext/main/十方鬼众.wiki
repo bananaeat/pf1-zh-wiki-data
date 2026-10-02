@@ -1,0 +1,11 @@
+{{Feat
+|name=十方鬼众
+|english_name=Spirit Oni Master
+|description=通过一道禁忌的契约，你束缚一个恶鬼灵服侍于你。
+|prerequisites=在知识（位面）技能上拥有3个等级，守序中立/守序邪恶/中立邪恶阵营
+|benefit=你可以戴上一副特制的恶鬼面具（价值50GP），这会使你获得一个主要天生武器抵撞攻击（造成1d4点伤害）。如果你拥有用毒职业能力，那么你可以以一个[[移动动作]]为这次抵撞攻击上毒。
+|normal=为武器上毒需要一个[[标准动作]]。
+|source=HHH
+|source_name=闹鬼英雄手册
+|source_url=https://pf1chm.pages.dev/topics/zh546b3e4ae1.htm
+}}

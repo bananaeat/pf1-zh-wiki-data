@@ -1,0 +1,9 @@
+{{Trait
+|name=净化之光
+|english_name=Cleansing Light
+|type=宗教
+|prerequisites=信仰[[塞恩蕾]]
+|description=你的信仰纯净而强大，你引导正能量可以更快的净化不死生物。当你使用引导正能量伤害不死生物时，你可以重投所有自然出1的伤害骰。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

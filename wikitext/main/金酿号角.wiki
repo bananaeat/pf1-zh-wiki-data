@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=金酿号角
+|english_name=Horn of the Golden Draught
+|aon=MagicWondrousDisplay.aspx?FinalName=Horn of the Golden Draught
+|cat=奇物
+|aura=中等变化系
+|cl=10
+|slot=无
+|price=7,000 gp
+|weight=5磅
+|description=这支镀金的饮角可以以[[标准动作]]倒出一份金色饮剂。饮下或被涂抹上这种液体的生物，会如同受到[[破除结界]]法术作用一般，摆脱惑控、变化和诅咒。如果使用者没有受到此类状况的影响，她的皮肤会转为金色，几乎不受打击影响，如同[[石肤术]]。金酿号角可以倒出的每种饮剂至多5份，之后它会变成黄铜，失去魔力。
+|req=[[制造奇物]]、[[破除结界]]、[[石肤术]]
+|cost=3,500 gp，280 XP
+|source=冒险之路22：永恒的终结
+}}

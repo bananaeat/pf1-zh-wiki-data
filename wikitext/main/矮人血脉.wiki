@@ -1,0 +1,10 @@
+{{Feat
+|name=矮人血脉
+|english_name=Dwarf Blooded
+|description=你的血管中流淌着[[矮人]]的血脉。
+|prerequisites=土元素裔。
+|benefit=矮人血统在你身上以两种方式体现。首先，你的速度不会受到盔甲和负重影响，就如同矮人的【慢而稳】[[种族特性]]一般。其次，你获得矮人的【岩石敏锐】种族特性。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

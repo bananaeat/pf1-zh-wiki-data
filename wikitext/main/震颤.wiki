@@ -1,0 +1,17 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出，CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Spell
+|name=震颤
+|english_name=Jolt
+|school=变化系
+|tags=电
+|levels=奥能师 0;术士 0;法师 0
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|effect=电火花
+|duration=立即
+|save=无
+|sr=是
+|description=你放出一团电火花，只要远程[[接触攻击]]命中，就会击中目标。该法术造成1d3点电伤害。
+|source=Paizo 博客：极限戏法
+}}

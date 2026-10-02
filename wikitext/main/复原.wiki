@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''复原'''（Recuperation）是一条神话[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-a">神话</span><span class="sk-f">位置：特性</span></div>
+</noinclude><includeonly><div class="lang"><span id="复原"></span><div class="lang-h"><b>[[复原]]</b><i>Recuperation</i><span class="lang-w">Ex · 神话 · 特性</span></div><div class="lang-d"></includeonly>
+只要该生物还活着，在 8 小时的休息后就会将生命值恢复满。此外，通过花费 1 次神话之力并休息 1 小时，该生物能够恢复相当于满生命值一半数额的生命值（最高为将生命值恢复满），并且恢复任何限定为每日几次的职业能力使用次数（比如野蛮人狂暴、吟游表演、每日法术等等）。在判断这些能力时，这次休息被视为经过了 8 小时的睡眠。此次休息不会刷新神话之力的使用次数，也不会刷新任何限定为每日使用数次的神话能力。
+
+'''格式'''：复原
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Recuperation|2=Recuperation}}
+
+[[分类:通用怪物规则]]</noinclude>

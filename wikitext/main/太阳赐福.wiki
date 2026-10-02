@@ -1,0 +1,10 @@
+{{Trait
+|name=太阳赐福
+|english_name=Sun-Blessed
+|type=魔法
+|description=你出生时太阳的位置恰好显露出吉祥的预兆。结果就是你天生就与光明和生命力有着紧密的联系。
+|benefit=不论何时你所受到的治疗超出了你的最大生命值，那么超过的部分会转化为临时生命值。你每天通过此方式获得的临时生命值数最高等同于你的角色等级。这些临时生命值持续1分钟时间。
+|source_name=繁星子民
+|source=PotS
+|source_url=https://pf1chm.pages.dev/topics/zh39dd042145.htm
+}}

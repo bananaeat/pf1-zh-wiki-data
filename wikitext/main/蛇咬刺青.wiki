@@ -1,0 +1,14 @@
+{{魔法物品
+|name=蛇咬刺青
+|english_name=Serpentine Tattoo
+|aon=MagicTattooDisplay.aspx?FinalName=Serpentine Tattoo
+|cat=魔法纹身
+|aura=微弱咒法系
+|cl=1
+|slot=无
+|price=2,000 gp
+|description=当持有者屈伸肌肉时，这种蜿蜒的刺青似乎也会跟着一起蠕动。每天3次，当持有者用武僧武器或演武武器，或徒手打击，成功进行一次近战攻击时，他能让刺青像蛇一般朝被击中的生物猛然扑出。这允许持有者以[[直觉动作]]进行一次[[阴招]][[战技]]检定，且不会引发[[借机攻击]]。
+|req=[[精通阴招]]、[[绘制魔法刺青]]、[[召唤怪物 I]]
+|cost=1,000 gp
+|source=魔法市集指南
+}}

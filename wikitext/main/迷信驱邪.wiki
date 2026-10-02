@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 22），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=迷信驱邪
+|english_name=Superstitious Ward
+|type=地区
+|prerequisites=乌斯塔拉夫
+|description=你并不害怕那些关于吸血鬼和鬼魂的老妇人故事；虽然你尽量避开不死生物，但你已学会如何对付它们。你每天可以施展一次[[打击死灵]]，作为类法术能力。其施法者等级等于你已获得的最高施法者等级；如果你没有施法者等级，则以施法者等级1级生效。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Superstitious%20Ward
+}}

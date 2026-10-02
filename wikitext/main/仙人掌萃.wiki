@@ -1,0 +1,11 @@
+{{危害
+|name=仙人掌萃
+|english_name=Pesh
+|kind=毒品
+|type=摄入、吸入
+|addiction=中度，强韧 DC 20
+|effect=1小时：力量获得+1d2炼金加值，对抗幻术和影响心灵效果的豁免检定承受-2减值；持续1小时后：[[疲乏]]1d2小时
+|damage=1d2点体质伤害和1d2点感知伤害
+|price=15 gp
+|source=游戏主持人指南
+}}

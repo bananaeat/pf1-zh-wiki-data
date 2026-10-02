@@ -1,0 +1,10 @@
+{{Feat
+|name=随心武器
+|english_name=Grab and Go
+|categories=战斗
+|description=你眨眼之间就可以抄起物品当作武器
+|prerequisites=随手武器或随手投掷，BAB+1
+|benefit=以[[自由动作]]，你可以作为移动的一部分拿起一个无主物品。捡起物品并不引发[[借机攻击]]。如果你有随手投掷专长，你可以捡起数量等同于你敏捷加值（最少为1）的聚集在一起的可以用一只手抓住的物品（比如一摞盘子）。你必须有一只自由手才可以使用这一专长。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/page_1343.html
+}}

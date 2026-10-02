@@ -1,0 +1,10 @@
+{{Trait
+|name=特权奴隶
+|english_name=Privileged Slave
+|type=地区
+|prerequisites=高领(Kaoling)
+|description=你被高领的[[大地精]]奴役并忠实地服侍它们，为了讨得主子的欢心你不惜背叛自己的同伴——并每时每刻策划着逃跑。你在[[唬骗]]技能上获得+1背景加值，并且唬骗被视为你的[[本职技能]]。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://pf1chm.pages.dev/topics/page_1557.html
+}}

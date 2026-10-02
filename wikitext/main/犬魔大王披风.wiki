@@ -1,0 +1,17 @@
+{{魔法物品
+|name=犬魔大王披风
+|english_name=Great Barghest Hero Cloak
+|aon=MagicWondrousDisplay.aspx?FinalName=Great Barghest Hero Cloak
+|cat=奇物
+|aura=微弱变化系
+|cl=7
+|slot=肩部
+|price=2,800 gp
+|weight=1磅
+|description=这条披风看起来像一张地精犬的皮，连腿和尾巴都在；搭扣是一颗地精犬的牙齿。穿戴者在威吓检定上获得+2表现加值。
+
+如果穿戴者的守护神是地精犬魔英雄神之一（哈特加殊、维克沃、扎荣格或索牧戈），则每天一次，穿戴者可以使用[[变形术]]变成一只地精犬，最长7分钟。
+|req=[[制造奇物]]、[[变形术]]、制造者必须在威吓上有5级技能等级
+|cost=1,400 gp
+|source=神与魔法、内海诸神
+}}

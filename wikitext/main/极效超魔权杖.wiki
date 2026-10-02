@@ -1,0 +1,15 @@
+{{魔法物品
+|name=极效超魔权杖
+|english_name=Rod of Metamagic, Maximize
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Metamagic, Maximizelesser
+|cat=权杖
+|aura=强烈（无学派）
+|cl=17
+|slot=无
+|price=14,000 gp（次等）；54,000 gp（普通）；121,500 gp（高等）
+|weight=5磅
+|description=持用者能够如同使用[[法术极效]]专长一样极效法术，每天至多3次。
+|req=[[制造权杖]]、[[法术极效]]
+|cost=7,000 gp（次等）；27,000 gp（普通）；60,750 gp（高等）
+|source=核心规则书、极限宝具
+}}

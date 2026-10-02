@@ -1,0 +1,9 @@
+{{Trait
+|name=指导师
+|english_name=Mentored
+|type=社会
+|description=你的家教或导师指导你学习艺术、专业或商贸之道，通过这种系统教育，你也变得善于教授他人。选择单项工艺、表演或专业技能，你的该项技能检定获得+1背景加值。同时，你在协助他人技能的检定获得+1背景加值。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

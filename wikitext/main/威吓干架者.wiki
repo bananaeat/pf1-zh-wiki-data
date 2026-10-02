@@ -1,0 +1,46 @@
+{{速查导航}}
+{{怪物
+|name=威吓干架者
+|english_name=Bullying Brawler
+|cr=1
+|xp=400
+|classline=人类武僧2
+|alignment=守序邪恶
+|size=中型
+|type=类人生物
+|subtypes=人类
+|init=+5
+|senses=察觉+7
+|ac=14 接触14 措手12（+1敏捷，+1闪避，+2感知）
+|hp=17（2d8+5）
+|fort=+5
+|ref=+4
+|will=+5
+|defensive=反射闪避
+|speed=30尺
+|melee=徒手攻击+5(1d6+4)或精制品双截棍+6(1d6+4)或精制品双截棍疾风连击+4/+4(1d6+4)
+|ranged=轻弩+2(1d8/19-20)
+|special_attacks=疾风连击，震慑击(2/日，DC13)
+|tactics=<div class="ml wide"><span class="k">战斗前</span>在面对超过2名敌人时喝下蛮牛之力药水</div><div class="ml wide"><span class="k">战斗中</span>只要可能，他就会使用疾风连击，特别是对被震慑击影响的敌人；如果 hp 降低到5或者更低，他会先退出战斗喝下一瓶治疗轻伤药水，然后返回战场</div><div class="ml wide"><span class="k">基础属性</span>没有蛮牛之力的情况下，武僧的统计为 近战徒手攻击+3(1d6+2)或精制品双截棍+4(1d6+2)或疾风连击(双截棍)+2/+2(1d6+2)；力量15；CMB+3；CMD+17</div>
+|str=19
+|dex=12
+|con=15
+|int=8
+|wis=14
+|cha=10
+|bab=+1
+|cmb=+5
+|cmd=19
+|feats=[[盲斗]] 闪避 精通先攻 精通徒手攻击 蠍形拳 震慑击
+|skills=[[特技|杂技]]+5 唬骗+1 威吓+5 察觉+7 察言观色+7 隐匿+5
+|languages=通用语
+|combat_gear=蛮牛之力药水 治疗轻伤药水 x2 酸 x2
+|gear=轻弩与弩矢 x20 精制品双截棍 23gp
+|source=NPC志
+|family=核心职业（NPC志）
+|npc=1
+|lore=
+威吓干架者常常被派去对付那些得罪了僧侣教团的人。他们对复仇穷追不舍。
+}}
+
+本页译自《[[NPC志]]》的怪物图鉴 CHM。

@@ -1,0 +1,10 @@
+{{Trait
+|name=奥罗登的历史学家
+|english_name=Arodenite Historian
+|type=社会
+|pfs=否
+|description=你相信有很多非常有用的信息可以从奥罗登在历史上留下的印记中收集，并且尽己所能了解他的功绩与教义。这给予你关于不同种类信息如何关联上的重要见解。若你在一次知识(奥秘，历史或宗教)检定中失败，你可以在1轮后用其余两种知识之一的加值重骰此次检定。
+|source_name=秘术选集Arcane Anthology
+|source=Arcane Anthology
+|source_url=https://pf1chm.pages.dev/topics/zhe6bf0e12f5.htm
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=贪欲巫术权杖
+|english_name=Rod of Voracious Hexes
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Voracious Hexes
+|cat=权杖
+|aura=强烈（无学派）
+|cl=17
+|slot=无
+|price=32,500 gp
+|weight=5磅
+|description=每天3次，当这根权杖的持用者使用[[巫术]]（但不能是[[强力巫术]]或[[高等巫术]]）时，她可以动用权杖的力量，使该巫术除了正常的目标之外，还能以第一个目标30尺内的另一个目标为目标。该巫术在正常情况下必须以单个生物为目标，且射程至少为30尺。
+|req=[[制造权杖]]、[[分裂巫术]]，制造者必须拥有[[巫术]]职业能力
+|cost=16,250 gp
+|source=进阶职业指南
+}}

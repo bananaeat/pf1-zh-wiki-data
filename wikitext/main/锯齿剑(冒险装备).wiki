@@ -1,0 +1,9 @@
+{{装备
+|name=锯齿剑
+|english_name=Sawback sword
+|cat=冒险装备
+|price=+5 gp
+|weight=—
+|description=这是对任意轻刃或重刃武器的改造，而不是一种独特的武器类型。剑背上的锯齿刃让你可以用它做些粗糙的木工活。
+|source=冒险者的军械库、极限宝具
+}}

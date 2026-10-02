@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|极限荒野|Ultimate Wilderness}}
+'''高等木行术'''（Woodland Step, Greater, Sp）是[[操念使]]的[[原力]]。
+
+元素：木；类别：通用（Sp）；等级：5；超载：0
+
+前置：[[木行术]]
+
+植物成为了你和附近盟友们的助力。你和30尺内的所有盟友都获得[[丛林之友]]带来的好处。
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_662.html 原文]），按 AoN 核对过。全部原力见 [[:分类:原力|分类:原力]]。
+
+[[分类:原力]]

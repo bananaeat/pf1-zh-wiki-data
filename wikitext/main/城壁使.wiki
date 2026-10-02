@@ -1,0 +1,10 @@
+{{Trait
+|name=城壁使
+|english_name=Eyes and Ears of the City
+|type=宗教
+|prerequisites=信仰[[阿巴达尔]]
+|description=你的宗教修行内容包括任职于大城市的守备队，其首要工作正是站在城墙上担任哨卫。你的察觉检定获得+1背景加值，并且总能将察觉视为你的[[本职技能]]。
+|source_name=宗教背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

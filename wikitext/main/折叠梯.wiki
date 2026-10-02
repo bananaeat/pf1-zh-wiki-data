@@ -1,0 +1,9 @@
+{{装备
+|name=折叠梯
+|english_name=Folding ladder
+|cat=冒险装备
+|price=2 gp
+|weight=16磅
+|description=这架 10 尺长的[[梯子]]，其挂钩、杆身和梯级都以铰链连接，可以折成 3 尺×1 尺×1 尺的一捆。折叠或展开它是一个[[标准动作]]。
+|source=冒险者的军械库、极限宝具
+}}

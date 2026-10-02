@@ -1,0 +1,11 @@
+{{Feat
+|name=街霸残虐击
+|english_name=Street Carnage
+|categories=战斗
+|description=对你来说，城镇的街道也是可以削骨去肉的战斗利器。
+|prerequisites=力量 15，[[精通冲撞]]，[[精通徒手打击]]，[[猛力攻击]]，[[街霸流]]，[[街角霸王拳]]，BAB +8或武僧等级7级
+|benefit=当你使用[[街霸流]]期间，[[徒手打击]]的重击倍率变为x3，以取代原本的x2。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

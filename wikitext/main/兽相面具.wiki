@@ -1,0 +1,15 @@
+{{魔法物品
+|name=兽相面具
+|english_name=Aspect Mask
+|aon=MagicWondrousDisplay.aspx?FinalName=Aspect Mask
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=头部
+|price=6,500 gp
+|weight=2磅
+|description=这副皮革面具隐约带有动物的特征，上面镶嵌着各种原始的图案。每日3次，佩戴者可以凭命令获得与面具相协调的一种动物的某一项面相的好处，就如同猎人的动物之力职业能力一般。每副面具都与动物之力列表中的一类动物相协调，在面具制造时选定。
+|req=[[制造奇物]]、制造者必须具有动物之力或自然变身职业能力
+|cost=3,250 gp
+|source=进阶职业指南
+}}

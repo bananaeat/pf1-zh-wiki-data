@@ -1,0 +1,10 @@
+{{Trait
+|name=巫术的证明
+|english_name=Hex-Proof
+|type=魔法
+|pfs=否
+|description=你常常受到那些残忍的精类魔法效果的影响，因此你在对抗[[巫术]]或精类生物的法术和类法术能力的意志豁免上获得+2加值。
+|source_name=黑市指南
+|source=BM
+|source_url=https://pf1chm.pages.dev/topics/zh2f0cc841f9
+}}

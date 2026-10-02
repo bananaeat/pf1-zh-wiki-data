@@ -1,0 +1,10 @@
+{{Feat
+|name=精怪术法技巧
+|english_name=Fey Spell Versatility
+|description=你从精类那里学得了魔法的奥秘。
+|prerequisites=魅力 13，[[法术辨识]]1级，施放游侠法术的能力
+|benefit=从吟游诗人、[[术士]]/法师、或女巫的法术列表内，属于附魔或幻术学派、或者具有诅咒（UM）描述符的法术中，选择1环法术、2环法术、3环法术和4环法术各1个。将这些法术加入到你的游侠法术列表中。一旦选择，这些法术就无法被更改。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

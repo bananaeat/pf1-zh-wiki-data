@@ -1,0 +1,11 @@
+{{Feat
+|name=吸血鬼猎人传统
+|english_name=Vampire Hunter Tradition
+|aon=无
+|categories=技巧
+|description=你在[[吸血鬼猎人]]的故事和工具的围绕下长大——不知怎的幸存了下来并开始使用它们。
+|benefit=你在了解吸血鬼的知识（本地）和知识（宗教）检定上获得+2加值——无论是特定个体还是他们的一般能力。此外，你可以选择吸血鬼猎人技巧专长，如同你拥有吸血鬼猎人职业。
+|special=如果你有吸血鬼学者*专长，你在了解吸血鬼的知识（贵族）检定上也获得+2加值。
+|source_name=其他职业
+|source_url=https://pf1chm.pages.dev/topics/page_1210.html
+}}

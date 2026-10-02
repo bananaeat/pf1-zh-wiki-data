@@ -1,0 +1,16 @@
+{{武器
+|name=弯刀
+|english_name=Scimitar
+|category=武器
+|prof=军用
+|wcat=单手
+|price=15 gp
+|weight=4磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=18–20/×2
+|type=挥砍
+|groups=重刃
+|description=这把弯曲的刀剑较[[长剑]]为短，而较[[短剑]]为长。仅外侧开刃、刀背平钝，使得刀身断面呈三角形。
+|source=核心规则书、极限宝具
+}}

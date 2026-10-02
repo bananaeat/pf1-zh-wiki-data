@@ -1,0 +1,7 @@
+{{物品
+|name=狂欢
+|english_name=The Carnival
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。一旦抽出狂欢，这张卡被收走，DM再抽出9张卡，展示给抽牌者看，然后翻覆并洗牌。抽牌者从中抽取一张并获得效果。
+}}

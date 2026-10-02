@@ -1,0 +1,13 @@
+{{Feat
+|name=犀牛冲锋
+|english_name=Rhino Charge
+|categories=战斗
+|description=你的冲锋凶残且无法预料。
+|prerequisites=[[猛力攻击]]，[[精通冲撞]]，基本攻击加值+5
+|benefit=你可以用[[准备动作]]准备冲锋，但是你在冲锋时只能以你的基本速度移动。
+|normal=冲锋是一个[[整轮动作]]，且可以用双倍速度移动。
+|notes=译注：整轮动作无法用准备动作进行，所以通常无法准备冲锋。
+|source=StLC
+|source_name=萨加瓦，失落的殖民地
+|source_url=https://pf1chm.pages.dev/topics/page_531.html
+}}

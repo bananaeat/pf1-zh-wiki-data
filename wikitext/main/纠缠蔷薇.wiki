@@ -1,0 +1,7 @@
+{{物品
+|name=纠缠蔷薇
+|english_name=The Tangled Briar
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。每天一次抽牌者能如[[植物交谈]]术般与植物交流并问一个问题。此能力会扰乱周围的植被，导致每次问话结束都会有1d4+2只[[蔓生怪]]袭击抽牌者，无论环境。
+}}

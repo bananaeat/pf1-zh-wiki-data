@@ -1,0 +1,15 @@
+{{魔法物品
+|name=博学之书
+|english_name=Book of the Loremaster
+|aon=MagicWondrousDisplay.aspx?FinalName=Book of the Loremaster
+|cat=奇物
+|aura=中等预言系
+|cl=7
+|slot=无
+|price=15,000 gp
+|weight=2磅
+|description=这本小开本的书里是一堆看似随机的词语、短语和古怪的助记手段。每日三次，吟游诗人在使用博学职业能力时可以查阅它，从而在取10或取20进行知识检定时获得+5表现加值。
+|req=[[制造奇物]]、[[锐耳术/鹰眼术]]
+|cost=7,500 gp
+|source=进阶玩家指南、极限宝具
+}}

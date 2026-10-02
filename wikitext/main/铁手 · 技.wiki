@@ -1,0 +1,11 @@
+{{Feat
+|name=铁手 · 技
+|english_name=Shielded Gauntlet Master
+|categories=战斗
+|description=你能有效地使用你的[[铁手套]]进行进攻和防御。
+|prerequisites=[[铁手流]]，[[铁手 · 击|铁手·击]]，[[武器专攻]](铁手套或带刺铁手套)，擅长小圆盾和轻盾
+|benefit=开启[[铁手流]]后，你不再因为使用铁手套(或[[带刺铁手套]])进行攻击或者使用该手持有武器而失去盾牌AC加值。额外的，你可以将你铁手套的增强加值加到铁手流带来的盾牌AC上，就好像它是盾牌增强加值一样。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_361.html
+}}

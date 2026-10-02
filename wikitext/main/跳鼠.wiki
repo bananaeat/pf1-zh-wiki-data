@@ -1,0 +1,44 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=跳鼠
+|english_name=Jerboa
+|cr=1/6
+|xp=65
+|alignment=绝对中立
+|size=微型
+|type=动物
+|init=+7
+|senses=昏暗视觉，灵敏嗅觉；察觉 +6
+|description=这只体型娇小、沙色的啮齿动物有着长长的后腿和大大的耳朵。它簇毛的尾巴比身体还长。
+|ac=17，接触 17，措手不及 14（+3 敏捷，+4 体型）
+|hp=3（1d8–1）
+|fort=+1
+|ref=+5
+|will=+2
+|speed=20 尺
+|melee=啮咬 –1（1d2–5）
+|space=1 尺
+|reach=0 尺
+|str=1
+|dex=16
+|con=8
+|int=2
+|wis=15
+|cha=3
+|bab=+0
+|cmb=–1
+|cmd=4
+|feats=[[精通先攻]]
+|skills=[[特技]] +11;[[察觉]] +6
+|racial_mods=+4 特技，+4 察觉
+|environment=温暖的沙漠
+|organization=单独，一对，或一穴（3–8）
+|treasure=无
+|source=极限荒野
+|lore=
+跳鼠是生活在洞穴中的沙漠啮齿动物，用细长的后腿蹦跳而行。夜里，它们从洞穴中出来，在月光下吃植物、捕捉昆虫。跳鼠一般能活约 6 年。
+
+一只跳鼠长 6 英寸，尾巴长 1 尺，体重 1 至 3 盎司。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Jerboa|2=Jerboa}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=屠魔召唤师
+|english_name=Demonbane Summoner
+|type=地区
+|prerequisites=世界之伤
+|description=你的血统直接来源于萨柯里斯的古神召唤者，你坚决地对抗世界之伤的恶魔势力以谋求收复失去的故乡。你的召唤生物的攻击在穿透伤害减免时视为{{材料|寒铁}}。
+|source_name=怪物召唤者手册
+|source=MSH
+|source_url=https://pf1chm.pages.dev/topics/zh4a81a7cb1a.htm
+}}

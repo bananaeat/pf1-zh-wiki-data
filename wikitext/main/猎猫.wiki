@@ -1,0 +1,9 @@
+{{装备
+|name=猎猫
+|english_name=Cat (hunting)
+|cat=坐骑与宠物
+|price=100 gp
+|weight=100磅
+|description=在极为罕见的情况下，诸如猎豹和美洲豹这样的中型猫科动物会被驯化，帮助身为类人生物的主人进行狩猎。（译注：旧页名「猎豹」；Cat (hunting) 泛指猎豹、美洲豹这类驯来打猎的中型猫科，「猎豹」给了 Cheetah（见[[猎豹]]）。）
+|source=极限宝具
+}}

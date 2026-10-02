@@ -1,0 +1,9 @@
+{{Trait
+|name=贝丝玛拉之名
+|english_name=Besmara's Name
+|type=宗教
+|prerequisites=信仰[[贝丝玛拉]]
+|description=[[贝丝玛拉]]时而会回应你的呼唤。每天一次，你在施放神术时可以说出或低语她的名字以代替法器。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

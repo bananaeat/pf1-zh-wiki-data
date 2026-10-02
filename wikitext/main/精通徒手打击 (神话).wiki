@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[精通徒手打击]] 的神话版本。</small></div>
+{{Feat
+|name=精通徒手打击
+|english_name=Improved Unarmed Strike
+|categories=神话
+|description=你的[[徒手打击]]比其他人更强。
+|prerequisites=[[精通徒手打击]]
+|benefit=你能够将你的阶层的一半加到徒手打击的伤害上。以[[迅捷动作]]，你能够花费1次神话之力使用徒手打击克服物体的硬度。这个效果持续的轮数等同于你的阶层。若物体的硬度比15还高，你就无法忽略它的硬度了。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

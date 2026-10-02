@@ -1,0 +1,41 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #110: The Thrushmoor Terror
+|authors=Tito Leati
+|pages=96
+}}
+
+{{书页/简介|head=街头的恐惧|1=
+逃出 Briarstone 疯人院那场清醒的噩梦后，昔日的囚徒们前往阴郁的鸫沼镇，设法解开自己失落记忆的谜团。抵达后，冒险者们发现镇上的领导层不是逃离就是失踪，一连串绑架案和有关 Briarstone 女巫的传言在镇民之间散播着恐慌。随着冒险者们调查这些令人不安的谜团，他们发现了一个秘密教团，正计划利用鸫沼镇的古老纪念碑壮大自己的势力。英雄们能否揭开自己所受折磨的秘密，在这座不受欢迎的小镇里找到答案？还是会成为无情恶棍的牺牲品——后者要为了某个可怕的目的，献祭鸫沼镇的居民？
+
+本册《冒险之路》延续「诡秘万古」冒险之路，内容包括：
+
+* Tito Leati 的开拓者冒险《鸫沼之怖》（"The Thrushmoor Terror"），适用于 4 级角色。
+* Tito Leati 对阴郁小镇鸫沼——本次冒险事件的舞台——的地志介绍。
+* James Jacobs 对旧日支配者[[哈斯塔]]那虚无主义教团的审视。
+* Christopher Rowe 在「探索者日志」中带来的平原恐怖故事。
+* 一部怪物图鉴，收录一位新的旧日支配者和其他受诅咒的怪物，作者 James Jacobs、Michelle Jones 与 Tito Leati。
+}}
+
+'''冒险之路110：鸫沼之怖'''（''Pathfinder #110: The Thrushmoor Terror''）是[[冒险之路]]「诡秘万古」系列的一部冒险，由 Tito Leati 撰写，配套文章出自 James Jacobs 和 Michelle Jones，小说出自 Christopher Rowe，于 2016 年 9 月 28 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+鸫沼之怖 @ 4
+NPC 图集 @ 56
+鸫沼 @ 62
+[[哈斯塔]]，黄衣之王 @ 68
+探索者日志：牛群与盟友 @ 74
+怪物图鉴 @ 80
+}}
+
+{{书页尾
+|pfw=The Thrushmoor Terror
+|releases=PDF¦PZO90110E¦2016-09¦；Softcover¦PZO90110¦2016-09¦978-1-60125-892-2
+}}
+
+<small>CHM 汉化里没有这本书的译名，书名是本站定的（鸫沼取站上待办对照表里 Thrushmoor 的自拟译名）。</small>
+
+[[分类:书目]]

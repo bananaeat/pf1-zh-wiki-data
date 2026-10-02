@@ -1,0 +1,9 @@
+{{Trait
+|name=自然礼拜者
+|english_name=Nature Worshiper
+|type=信念
+|description=在你年幼时，你曾见到一个死去生物的尸体滋养了一片田地。目睹生与死之间的联系，让你认识到自己与世界的联系，从此你敬畏自然，也不再那么畏惧死亡。你对抗死亡效果和使用负能量的效果（例如能量吸取和造成伤害类法术）的豁免检定获得+1背景加值。
+|source_name=信仰与哲学F&P
+|source=信仰与哲学(Faiths and Philosophies
+|source_url=https://pf1chm.pages.dev/topics/zh01c6dd6ef6.htm
+}}

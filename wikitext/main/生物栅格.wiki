@@ -1,0 +1,10 @@
+{{Feat
+|name=生物栅格
+|english_name=Biological Lattice
+|description=你通过练习学会了从你背后交织的藤蔓中取出和存储物品。
+|prerequisites=伽瑟兰，种族飞行速度
+|benefit=以一个移动动作，你可以在你的藤蔓中储存你正在携带的物品。当你的藤蔓中储存着物体时，你会失去你的飞行速度。你可以以一个迅捷动作取出存储的物品或者以一个自由动作将其丢到地上，在这之后你将立即获得你的飞行速度。
+|source=LotFW
+|source_name=第一世界的遗产
+|source_url=https://pf1chm.pages.dev/topics/page_1073.html
+}}

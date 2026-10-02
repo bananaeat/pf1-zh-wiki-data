@@ -1,0 +1,15 @@
+{{魔法物品
+|name=审判者的堡垒臂铠
+|english_name=Inquisitor's Bastion Vambraces
+|aon=MagicWondrousDisplay.aspx?FinalName=Inquisitor's Bastion Vambraces
+|cat=奇物
+|aura=微弱防护系
+|cl=5
+|slot=腕部
+|price=4,000 gp
+|weight=3磅
+|description=这对臂铠由黑化钢制成，能增强保护审判赋予审判者的防护。处于该审判效果之下时，审判者在[[CMD]]和[[防御式施法]]的检定上获得神圣加值。这个加值等于该审判赋予AC的神圣加值。
+|req=[[制造奇物]]、[[虔诚护盾]]，制造者必须是能使用保护审判的审判者
+|cost=2,000 gp
+|source=极限宝具
+}}

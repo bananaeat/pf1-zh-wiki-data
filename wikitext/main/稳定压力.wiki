@@ -1,0 +1,15 @@
+{{Spell
+|name=稳定压力
+|english_name=Stabilize pressure
+|school=防护系
+|levels=先知 2;召唤师 2;召唤师（掉链） 2;异能者 2;德鲁伊 2;战斗祭司 2;游侠 2;炼金术师 2;牧师 2;猎人 2;萨满 2;血脉狂怒者 2;调查员 2
+|action=标准动作
+|components=语言;姿势;材料（一片贝壳）
+|range=接触
+|target=接触到的生物
+|duration=立即
+|save=强韧，通过则无效（无害）
+|sr=是（无害）
+|description=你迅速地将目标的压力稳定下来，让它立即适应当前的压力。这不会帮助它适应之后的压力变化。
+|source=水下冒险
+}}

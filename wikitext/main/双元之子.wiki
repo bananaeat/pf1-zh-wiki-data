@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Elements pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=双元之子
+|english_name=Dualborn
+|type=种族
+|prerequisites=巨灵裔
+|description=你并非由小巨灵所生——你的非人类血统可以追溯到元素领域之间某种二元对立的力量。选择音波以外的两种能量类型（酸蚀、寒冷、电击或火焰）。一旦做出选择，便无法更改。你只对所选的能量类型获得种族能量抵抗，而不对其他类型获得。使用元素攻袭能力时，你只能以所选的能量类型包裹手臂，但你可以选择让主手包裹其中一种所选能量类型，副手包裹另一种。用每只手进行的攻击（或用每只手所持武器进行的攻击）造成该手所选类型的额外能量伤害。持用双手武器时，额外能量伤害一半为其中一种能量类型，另一半为另一种。
+|source_name=元素血脉
+|source=BotE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Dualborn
+}}

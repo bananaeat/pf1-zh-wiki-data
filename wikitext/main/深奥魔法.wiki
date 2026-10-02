@@ -1,0 +1,9 @@
+<noinclude>'''深奥魔法'''（Deep Magics, Su）是任意满足先决条件的职业都能选取的[[:分类:巅峰能力|替代巅峰]]。
+
+</noinclude>{{Source|传奇编年史|Chronicle of Legends|inline}}
+
+20级时，角色知晓的魔法显著增加。在每个角色能够施放的法术环级，角色均获得一个额外已知法术。任何以已知法术形式施法的职业均可选取该巅峰。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1501.html 原文]）。全部替代巅峰见 [[典范编年史]]。
+
+[[分类:巅峰能力]]</noinclude>

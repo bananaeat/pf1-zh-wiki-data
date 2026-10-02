@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 198），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=受迫流亡者
+|english_name=Persecuted Expatriate
+|type=种族
+|prerequisites=魔裔
+|description=你出生在一个因你的血统而迫害你的国家。尽管身处可怕的胁迫之下，你还是在家人的帮助下或凭借自己的机智逃了出来。根据你的魔裔血脉，你在一项技能上获得+1加值：阿修罗（[[知识]]〔本地〕）、邪魔（[[巧手]]）、魔孽（[[威吓]]）、恶魔（[[察觉]]）、魔鬼（[[察言观色]]）、妖灵（[[交涉]]）、链魔（[[脱逃]]）、恶鬼（[[易容]]）、古魔（[[生存]]）或罗刹（察言观色）。该技能永远是你的本职技能。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Persecuted%20Expatriate
+}}

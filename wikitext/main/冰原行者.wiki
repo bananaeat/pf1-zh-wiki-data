@@ -1,0 +1,9 @@
+{{Trait
+|name=冰原行者
+|english_name=Ice Walker
+|type=种族
+|prerequisites=[[人类]]（凯利德人）
+|description=你常年漫游在寒冷北方的冻原，已适应了那刺骨严寒。你在对抗造成寒冷伤害的攻击的豁免检定上获得+1背景加值。此外，你可忽略冰面上的特技检定罚值，并能以正常速度在冰面移动。
+|source_name=格拉里昂的人类
+|source_url=https://pf1chm.pages.dev/topics/page_1581.html
+}}

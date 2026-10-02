@@ -1,0 +1,9 @@
+{{装备
+|name=梳洗工具箱
+|english_name=Grooming kit
+|cat=冒险装备
+|price=1 gp
+|weight=2磅
+|description=这袋洗漱用品包括了一把梳子，一把剪刀，一把指甲锉，一块海绵，一把发刷，一面小镜子，肥皂，一根洁齿木条和牙粉。
+|source=极限宝具
+}}

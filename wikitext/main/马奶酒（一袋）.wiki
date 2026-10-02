@@ -1,0 +1,9 @@
+{{装备
+|name=马奶酒（一袋）
+|english_name=Kumis (wineskin)
+|cat=饮食
+|price=5 sp
+|weight=1-1/2磅
+|description=这种用发酵的马奶酿成的酒，烈度与普通啤酒大致相当，通常冷饮。
+|source=极限宝具
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=法术直觉
+|english_name=Spell Intuition
+|type=信念
+|description=出生时受魔法神祇祭司的祝福，你展现出不经导师教导便能直觉领悟法术本质的非凡天赋。你在[[法术辨识]]检定中获得+1背景加值，且法术辨识始终视为你的[[本职技能]]。
+建议角色：盖布人，[[内希斯]]信徒，奈克斯人
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

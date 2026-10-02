@@ -1,0 +1,156 @@
+{{速查导航}}
+{{怪物
+|name=少年青铜龙
+|english_name=Metallic Dragon, Bronze
+|cr=9
+|xp=6,400
+|alignment=守序善良
+|size=大型
+|type=龙类
+|subtypes=水系
+|init=+1
+|senses=龙感 dragon senses；觉察 察觉 +20
+|description=巨龙身披光滑的金属质感鳞片，色泽灰暗，从亮青铜色过渡到斑驳的蓝。
+|ac=21，接触 touch 10，措手不及 flat–footed 20（+1 敏捷，+11 天生 natural，–1 体型）
+|hp=95（10d12 +30）
+|fort=+10
+|ref=+8
+|will=+10
+|immune=电系 electricity;麻痹 paralysis;睡眠 sleep
+|speed=40 尺，飞行 fly 200 尺（不良 poor），游泳 60 尺
+|melee=啮咬 bite +14（2d6 +7），2 爪抓 claws +14（1d8 +5），2 翼拍 wings +12（1d6 +2），尾拍 tail +12（1d8 +7）
+|special_attacks=[[通用怪物规则#喷吐武器|喷吐武器]]（80–尺 线形 line, DC 18，6d6 闪电 electricity），排斥喷吐 repulsion breath
+|spell_like=（施法者等级 CL 10th）；随意施展—[[动物交谈]] speak with animals
+|spells=已知法术（CL 1st）；1st（4/天）—[[魔法警报]] alarm，[[隐雾术]] obscuring mist；0（随意施展）—[[侦测魔法]] detect magic，[[光亮术]] light，[[传讯术]] message，[[提升抗力]] resistance
+|str=21
+|dex=12
+|con=17
+|int=16
+|wis=17
+|cha=16
+|bab=+10
+|cmb=+16
+|cmd=27（31 对摔绊 vs. trip）
+|feats=[[警觉]];[[飞越攻击|飞跃攻击]];[[多重攻击]];[[猛力攻击]];[[要害打击]]
+|skills=[[交涉]] Diplomacy +16;[[飞行]] Fly +8;[[威吓]] Intimidate +16;[[知识]]（神秘）Knowl.+16;[[察觉|觉察]] Percep. +20;[[察言观色]] S. Motive +20;[[法术辨识]] Spellcraft +16;[[隐匿]] Stealth +10;[[游泳]] +26
+|languages=水族语 Aquan;通用语 Common;龙语 Draconic;精灵语 Elven
+|sq=变化形态 change shape;水中呼吸 water breathing
+|environment=温带海岸
+|organization=单独
+|treasure=三倍
+|special_abilities={{怪物能力|变化形态|Su|少年开始，青铜龙可以变换为任何动物或类人生物形态，如同使用变形术 polymorph，每日三次。}}
+{{怪物能力|闪电灵光|Su|老年开始，青铜龙获得闪电灵光，所有 5 尺内生物在龙的回合开始时受到 1d6 点闪电伤害，古龙的范围延伸至 10 尺，太古龙的伤害增至 2d6。青铜龙可以随意愿抑制此灵光。}}
+{{怪物能力|排斥喷吐|Su|青铜龙可以喷出锥形的排斥气体替代线形的闪电。目标必须进行意志检定，否则将被迫使逃离巨龙 1d6 轮加每年龄层一轮，除此之外无法做任何事情。这是一种影响心灵的胁迫效果。}}
+{{怪物能力|类法术能力|Sp|青铜龙获得如下类法术能力，在达到对应年龄层后可随意使用。幼年 Very young—动物交谈 speak with animals；青少年 Juvenile—造粮术 create food and water；成年 Adult—云雾术 fog cloud；老年 Old—侦测思想 detect thoughts；古龙 Ancient—操纵水位 control water；太古 Great wyrm—操控天气 control weather。}}
+{{怪物能力|浪涛|Su|太古青铜龙可以令海水升起并碾压其敌人，这是一个标准动作，每日一次。此效果影响一个 120 尺长的海岸线 coastline 区域内所有距离海岸 40 尺的生物——处理时视同受到雪崩 avalanche 袭击（Pathfinder 角色扮演游戏核心规则书）。所有生物视同处于埋葬区 bury zone。令此伤害减半的豁免 DC 等于龙的喷吐武器 DC。豁免失败的生物受到完整伤害，并在该轮中波涛攻击后被拖离海岸 60 尺且被掩埋在表面 20 尺之下。}}
+{{怪物能力|漩涡|Ex|每日一次，古龙开始的青铜龙可以用一个标准动作创造出一道漩涡，类似水元素长老 elder water elemental。青铜龙可以维持此漩涡每年龄层一轮。}}
+{{怪物能力|水中呼吸|Ex|青铜龙可以在水中呼吸，并能够在水下正常使用其喷吐武器、法术及特殊能力。}}
+{{怪物能力|水流掌握|Su|青少年开始，青铜龙可以连同 50 尺内的生物或船舶 vessels 一起，以双倍其正常水中速度进行移动，最多每日每年龄层 10 分钟。}}
+|source=怪物图鉴
+|nofooter=1
+}}
+{{怪物
+|name=成年青铜龙
+|english_name=Adult Bronze Dragon
+|cr=13
+|xp=25,600
+|alignment=守序善良
+|size=超大型
+|type=龙类
+|subtypes=水系
+|init=+0
+|senses=龙感 dragon senses；觉察 察觉 +28
+|aura=凶威 frightful presence（180 尺，DC 23）
+|ac=28，接触 touch 8，措手不及 flat–footed 28（+20 天生 natural，–2 体型）
+|hp=184（16d12 +80）
+|fort=+15
+|ref=+10
+|will=+15
+|dr=5/魔法 magic
+|immune=电系 electricity;麻痹 paralysis;睡眠 sleep
+|sr=24
+|speed=40 尺，飞行 fly 200 尺（不良 poor），游泳 60 尺
+|melee=啮咬 bite +22（2d8 +12），2 爪抓 claws +22（2d6 +8），2 翼拍 wings +20（1d8 +4），尾拍 tail slap +20（2d6 +12）
+|space=15 尺
+|reach=10 尺（15 尺 啮咬时 with bite）
+|special_attacks=[[通用怪物规则#喷吐武器|喷吐武器]]（100–尺 线形 line, DC 23，12d6 电系 electricity），碾压 crush，排斥喷吐 repulsion breath
+|spell_like=（CL 16th）；随意施展—[[造粮术]] create food and water，[[云雾术]] fog cloud，[[动物交谈]] speak with animals
+|spells=已知法术（CL 7th）；3rd（5/天）—[[解除魔法]] dispel magic，[[缓慢术]] slow（DC 18）；2nd（7/天）—[[朦胧术]] blur，[[造风术]] gust of wind，[[镜影术]] mirror image；1st（8/天）—[[魔法警报]] alarm，[[法师护甲]] mage armor，[[隐雾术]] obscuring mist，[[护盾术]] shield，[[克敌机先]] true strike；0（随意）—[[侦测魔法]] detect magic，[[光亮术]] light，[[传讯术]] message，[[提升抗力]] resistance，2 其他法术 more
+|str=27
+|dex=10
+|con=21
+|int=20
+|wis=21
+|cha=20
+|bab=+16
+|cmb=+26
+|cmd=36（40 对摔绊 vs. trip）
+|feats=[[警觉]];[[顺势斩]];[[飞越攻击|飞跃攻击]];[[盘旋]];[[精通要害打击]];[[多重攻击]];[[猛力攻击]];[[要害打击]]
+|skills=[[交涉]] Diplomacy +24;[[飞行]] Fly +11;[[驯养动物]] Handle Animals +21;[[威吓]] Intimidate +24;[[知识]]（神秘与地理）Knowledge+24;[[察觉|觉察]] 察觉 +28;[[察言观色]] Sense Motive +28;[[法术辨识]] Spellcraft +24;[[隐匿]] Stealth +11;[[游泳]] +35
+|languages=水族语 Aquan;通用语 Common;龙语 Draconic;精灵语 Elven;侏儒语 Gnome;2 其他语言 more
+|sq=变化形态 change shape;水中呼吸 water breathing;水流掌握 wave mastery
+|environment=温带海岸
+|organization=单独
+|treasure=三倍
+|source=怪物图鉴
+|nofooter=1
+}}
+{{怪物
+|name=古青铜龙
+|english_name=Ancient Bronze Dragon
+|cr=18
+|xp=153,600
+|alignment=守序善良
+|size=巨型
+|type=龙类
+|subtypes=水系
+|init=+3
+|senses=龙感 dragon senses；觉察 察觉 +38
+|aura=闪电灵光 electricity aura，凶威 frightful presence（300 尺，DC 29）
+|ac=37，接触 touch 5，措手不及 flat–footed 37（–1 敏捷，+32 天生 natural，–4 体型）
+|hp=324（24d12 +168）
+|fort=+21
+|ref=+13
+|will=+21
+|dr=15/魔法 magic
+|immune=电系 electricity;麻痹 paralysis;睡眠 sleep
+|sr=29
+|speed=40 尺，飞行 fly 250 尺（笨拙 clum.），游泳 sw. 60 尺
+|melee=啮咬 bite +32（4d6 +18/19–20），2 爪抓 claws +32（2d8 +12/19–20），2 翼拍 wings +30（2d6 +6），尾拍 tail slap +30（2d8 +18）
+|space=20 尺
+|reach=15 尺（20 尺 啮咬时 w/bite）
+|special_attacks=[[通用怪物规则#喷吐武器|喷吐武器]] br. weapon（120–尺 线形 line, DC 29，20d6 闪电 elect.），碾压 crush，排斥喷吐 repul. breath，尾扫 tail sweep，漩涡 vortex
+|spell_like=（CL 24th）；随意施展—[[操纵水位]] control water，[[造粮术]] create food and water，[[侦测思想]] detect thoughts（DC 19），[[云雾术]] fog cloud，[[动物交谈]] speak with animals
+|spells=已知法术（CL 15th）；7th（5/天）—[[法术反转]] spell turning，[[雕像术]] statue；6th（7/天）—[[高等解除魔法]] greater dispel magic，[[群体暗示术]] mass suggestion（DC 23），[[假象术]] mislead；5th（7/天）—[[驱逐术]] dismissal，[[护身掌]] interposing hand，[[心灵迷雾]] mind fog，[[传送术]] teleport；4th（7/天）—[[任意门]] dimension door，[[冰风暴]] ice storm，[[重雾术]] solid fog，[[石肤术]] stoneskin；3rd（7/天）—[[解除魔法]] dispel magic，[[英雄气概]] heroism，[[缓慢术]] slow（DC 20），[[暗示术]] suggestion；2nd（8/天）—[[朦胧术]] blur，[[造风术]] gust of wind，[[隐形术]] invisibility，[[镜影术]] mirror image，[[蛛网术]] web；1st（8/天）—[[魔法警报]] alarm，[[法师护甲]] mage armor，[[隐雾术]] obscuring mist，[[护盾术]] shield，[[克敌机先]] true strike；0（随意）—[[侦测魔法]] detect magic，[[光亮术]] light，[[传讯术]] message，[[提升抗力]] resistance，2 其他法术 more
+|str=35
+|dex=8
+|con=25
+|int=24
+|wis=25
+|cha=24
+|bab=+24
+|cmb=+40
+|cmd=49（53 对摔绊 vs. trip）
+|feats=[[警觉]];[[顺势斩]];[[飞越攻击|飞跃攻击]];[[大顺势斩|高等顺势斩]];[[盘旋]];[[精通重击]]（啮咬、爪抓）Improved Critical;[[精通先攻]];[[精通要害打击]];[[多重攻击]];[[猛力攻击]];[[要害打击]]
+|skills=[[交涉]] Diplomacy +34;[[飞行]] Fly +10;[[驯养动物]] Handle Animals +31;[[医疗]] Heal +34;[[威吓]] Intimidate +34;[[知识]]（神秘、历史及地理）Knowledge+34;[[察觉|觉察]] Percep. +38;[[察言观色]] S. Motive +38;[[法术辨识]] Spellcraft +34;[[隐匿]] Stealth +14;[[游泳]] +47
+|languages=水族语 Aquan;通用语 Common;龙语 Draconic;精灵语 Elven;侏儒语 Gnome;3 其他语言 more
+|sq=变化形态 change shape;水中呼吸 water breathing;水流掌握 wave mastery
+|environment=温带海岸
+|organization=单独
+|treasure=三倍
+|source=怪物图鉴
+|family=龙类绪论
+|lore=
+青铜龙以常常成为旅行者和冒险者的同伴而闻名，只要动机正直且报酬合理。
+
+=== 基值数据 ===
+
+* CR 5；体型 小型；HD 6d12
+* 速度 40 尺，游泳 60 尺
+* 天生护甲 +5；喷吐武器 线形，2d6 闪电
+* 力量 13，敏捷 14，体质 13，智力 14，感知 15，魅力 14
+
+<div class="monster-table-wrap"><table class="wikitable"><tr><th>年龄层</th><th>特殊能力</th><th>施法者等级</th></tr><tr><td>雏龙 Wyrmling</td><td>电系免疫，排斥喷吐，水中呼吸</td><td>–</td></tr><tr><td>幼龙 Very young</td><td>动物交谈</td><td>–</td></tr><tr><td>少年 Young</td><td>变化形态</td><td>1 级</td></tr><tr><td>青少年 Juvenile</td><td>水流掌握，[[造粮术]]</td><td>3 级</td></tr><tr><td>青年 Young adult</td><td>DR 5/魔法，法术抗力</td><td>5 级</td></tr><tr><td>成年 Adult</td><td>凶威，[[云雾术]]</td><td>7 级</td></tr><tr><td>壮年 Mature adult</td><td>DR 10/魔法</td><td>9 级</td></tr><tr><td>老年 Old</td><td>闪电灵光，侦测思想</td><td>11 级</td></tr><tr><td>极老 Very old</td><td>DR 15/魔法</td><td>13 级</td></tr><tr><td>古龙 Ancient</td><td>漩涡，操纵水位</td><td>15 级</td></tr><tr><td>上古龙 Wyrm</td><td>DR 20/魔法</td><td>17 级</td></tr><tr><td>太古龙 Great wyrm</td><td>浪涛，操控天气</td><td>19 级</td></tr></table></div>
+}}
+
+本页译自《[[怪物图鉴]]》的怪物图鉴 CHM。

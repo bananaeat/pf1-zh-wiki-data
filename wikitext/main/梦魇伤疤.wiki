@@ -1,0 +1,10 @@
+{{Feat
+|name=梦魇伤疤
+|english_name=Nightmare Scars
+|description=你身负疤痕以荣耀[[拉玛什图]]，无论是因为你以她之名自伤，还是因为她认为合适而以疤痕赐福于你。
+|prerequisites=信仰拉玛什图
+|benefit=你在以交涉检定和[[驯养动物]]检定改变魔法兽、人型怪物和拉玛什图信徒的态度时获得+2加值，但是以交涉检定和驯养动物检定尝试改变其他所有生物的态度时承受-2减值。除此之外，你在威吓检定上获得+2加值，且你的威吓检定不会因为体型差异而受到减值。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

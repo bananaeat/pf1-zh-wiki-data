@@ -1,0 +1,15 @@
+{{魔法物品
+|name=蛮兽裹布
+|english_name=Bestial Rags
+|aon=MagicWondrousDisplay.aspx?FinalName=Bestial Rags
+|cat=奇物
+|aura=中等变化系
+|cl=10
+|slot=躯体
+|price=8,000 gp
+|weight=2磅
+|description=这些破烂褴褛的衣物能延长[[变形者]]兽化变身的持续时间，使她每天能以拟态的次级形态变身的时间增加5分钟。每套蛮兽裹布还对应一种特定的拟态，通常用那种生物的皮制成，并压印着粗糙的象形图案，使变形者能够视自己的等级，转化为该拟态的次级形态和专攻形态。如果变形者本来就有转化为该形态的能力，那么该拟态的专攻形态视为她高出2级时那样运作。
+|req=[[制造奇物]]、[[野兽形态 II]]
+|cost=4,000 gp
+|source=极限荒野
+}}

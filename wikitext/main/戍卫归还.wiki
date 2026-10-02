@@ -1,0 +1,10 @@
+{{Feat
+|name=戍卫归还
+|english_name=Guardian's Return
+|description=当你身陷危难之时，魔宠会传送到你的身边。
+|prerequisites=必须具有使用了戍卫宠变体的魔宠
+|benefit=每日1次，当你由于近战攻击而受到伤害时，只要你的魔宠和你在情感连接的范围内，那么它便能够以直觉动作传送到你所占据的空间。魔宠在以此方式进行传送时，不能携带重量超过5磅的物品。该能力在其他方面都如同任意门一般。
+|source=FF
+|source_name=魔宠手记
+|source_url=https://pf1chm.pages.dev/topics/page_491.html
+}}

@@ -1,0 +1,46 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=巨缓步动物
+|english_name=Giant Tardigrade
+|cr=1/8
+|xp=50
+|alignment=绝对中立
+|size=微型
+|type=虫类
+|subtypes=水栖
+|init=+1
+|senses=黑暗视觉 60 尺；察觉 +0
+|description=这种奇异的八足生物在水中游动时，有点像一头昆虫状的熊。
+|ac=16，接触 15，措手不及 15（+1 敏捷，+1 天生，+4 体型）
+|hp=7（1d8+3）
+|fort=+5
+|ref=+1
+|will=+0
+|defensive=极端耐受
+|immune=影响心灵效果
+|resist=酸蚀 2;寒冷 2;火焰 2
+|speed=20 尺，攀爬 20 尺，游泳 20 尺
+|melee=啮咬 +0（1d2–4）
+|space=1 尺
+|reach=0 尺
+|str=2
+|dex=12
+|con=17
+|int=—
+|wis=10
+|cha=2
+|bab=+0
+|cmb=–3
+|cmd=3（15 对抗摔绊）
+|skills=[[攀爬]] +9;[[游泳]] +9
+|sq=两栖
+|environment=任意
+|organization=单独，一对，或一群（3–20）
+|treasure=无
+|special_abilities={{怪物能力|极端耐受|Ex|巨缓步动物能够长时间忍受极端的环境条件。极端寒冷、极端炎热以及不那么极端的温度都不会伤害它。它不会因减压（例如太空的真空中）或高压环境（例如极深的水下）而受到伤害。}}
+|source=极限荒野
+|lore=
+巨缓步动物有时被称为水熊，是微小的八足生物，生活在水中，却几乎能在任何地方存活。巨缓步动物可长到 1 尺长，以细菌团、真菌和植物物质为食。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Giant Tardigrade|2=Giant Tardigrade}}

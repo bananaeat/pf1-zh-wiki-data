@@ -1,0 +1,11 @@
+{{Feat
+|name=贴附攀爬
+|english_name=Clinging Climber
+|categories=战斗
+|description=通过杠杆作用或纯粹的肌肉，你可以单靠双腿贴附在悬崖、绳索或阶梯上，从而解放双手。
+|prerequisites=[[力量]] 13，攀爬3级。
+|benefit=以一个[[移动动作]]，当你在攀爬时，在通过攀爬检定后（DC=在该平面上用移动动作攀爬的DC），你可以靠双腿贴附在攀爬面上。检定成功后，直到你重新开始攀爬之前，你都可以使用双手远程武器攻击且可以装填。GM可以规定哪些攀爬面无法使用该专长贴附。
+|source=UW、RTT
+|source_name=极限荒野、远程战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

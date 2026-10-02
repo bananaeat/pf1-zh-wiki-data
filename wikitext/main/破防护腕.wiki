@@ -1,0 +1,13 @@
+{{魔法物品
+|name=破防护腕
+|english_name=Bracers of Defenselessness
+|aon=MagicCursedDisplay.aspx?ItemName=Bracers of Defenselessness
+|cat=诅咒物品
+|aura=强烈咒法系
+|cl=16
+|slot=腕部
+|weight=1磅
+|description=这对镶嵌宝石、闪闪发光的护腕起初看起来像是+5[[防御护腕]]，并且确实起到这样的作用，直到穿戴者被挑战等级等于或高于其等级的敌人怀着敌意攻击。从那一刻起，这对护腕会给予-5的AC减值。一旦诅咒启动，护腕只能用[[移除诅咒]]法术摘下。
+|req=+5[[防御护腕]]
+|source=核心规则书、极限宝具
+}}

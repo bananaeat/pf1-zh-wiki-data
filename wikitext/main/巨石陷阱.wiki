@@ -1,0 +1,13 @@
+{{危害
+|name=巨石陷阱
+|english_name=Crushing Stone Trap
+|kind=陷阱
+|trap_type=机械
+|cr=15
+|perception=DC 30
+|disable=DC 20
+|trigger=位置型
+|reset=手动
+|effect=攻击 +15 近战（16d6）；复数目标（10尺见方区域内的所有目标）
+|source=核心规则书
+}}

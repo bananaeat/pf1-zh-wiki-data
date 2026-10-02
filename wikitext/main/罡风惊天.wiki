@@ -1,0 +1,11 @@
+{{Feat
+|name=罡风惊天
+|english_name=Janni Rush
+|categories=战斗
+|description=当跃起攻击时，你的打击沉重犹如万钧。
+|prerequisites=[[精通徒手打击]]，[[御风]]，[[乱披风]]，[[特技]]8级，[[表演]]（舞蹈）8级。
+|benefit=你使用风灵[[流派]]架势时获得以下好处：你跳跃总是视为已助跑。如果你使用跳跃作为你冲锋动作的一部分，并用[[徒手攻击]]命中对手，丢两次徒手伤害骰合计，但力量，武器属性（例如＜炽焰＞附魔）及基于精准攻击（例如偷袭）带来的伤害增加值不翻倍。本专长带来的额外伤害骰在重击成功时不翻倍。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

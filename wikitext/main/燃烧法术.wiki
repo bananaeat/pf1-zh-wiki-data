@@ -1,0 +1,10 @@
+{{Feat
+|name=燃烧法术
+|english_name=Burning Spell
+|categories=超魔
+|description=当你使用带有〔酸〕或〔火〕描述符的法术时能对目标造成额外的伤害。
+|benefit=法术所影响的生物被附上了酸或火，并且在下一轮中造成更多的伤害。当一个生物受到此超魔法术所造成的酸性或火焰伤害时，这个生物在下一轮的开始受到等同于法术原本环级2倍的酸蚀或火焰伤害。伤害的种类取决于法术的描述符。如果一个法术同时拥有〔酸〕和〔火〕描述符，则由施法者选择燃烧法术的效果造成哪种伤害。燃烧法术须占用高于原本2个环级的法术位。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

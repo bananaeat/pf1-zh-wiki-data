@@ -1,0 +1,12 @@
+{{Feat
+|name=痛苦恶化
+|english_name=Compounded Pain
+|categories=战斗
+|description=你的痛苦注视能够导致两种额外效果。
+|prerequisites=催眠师13级，痛苦注视职业能力
+|benefit=你可以将两项注视专长（stare feat）的效果应用至你的痛苦注视职业能力上。
+|normal=你仅能将一项注视专长的效果应用至一次痛苦注视职业能力上。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

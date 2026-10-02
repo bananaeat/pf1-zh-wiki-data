@@ -1,0 +1,11 @@
+{{Feat
+|name=优雅挑刺
+|english_name=Fencing Grace
+|categories=战斗
+|description=你那优雅的架势和细剑组合起来，使得你能够以灵活性、而非蛮力来制服敌人。
+|prerequisites=敏捷 13，[[武器娴熟]]，武器专攻：细剑
+|benefit=当你以单手持用[[细剑]]时，能够将敏捷调整值取代力量调整值，以应用至该武器的伤害上。这把细剑必须符合你的体型。当你以双武器或者使用疾风[[武僧#疾风连击|连击]]进行战斗、或者另一只手被占用时，便无法获得该好处。此外，若你具有派头ACG职业能力，且至少还有1点时髦值时，你会在对抗向你的细剑进行[[卸武]]尝试中，[[CMD]]获得+2加值。
+|source=UI、ACO
+|source_name=极限诡道、进化职业起源
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

@@ -1,0 +1,8 @@
+{{Feat
+|name=霉咒奥术师
+|english_name=Arcane Jinxer
+|prerequisites=奥术施法者，半身人霉咒
+|benefit=当你试图霉咒某个目标，你可以消耗一个已准备的奥术法术或可用的奥术法术位，令目标在对抗霉咒的豁免上遭受等于该法术或法术位等级的减值。本能力并不改变霉咒能力本身，它只影响目标对抗霉咒能力的豁免骰。
+|source_name=格拉利昂的半身人
+|source_url=https://pf1chm.pages.dev/topics/page_572.html
+}}

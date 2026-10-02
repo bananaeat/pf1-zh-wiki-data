@@ -1,0 +1,12 @@
+{{魔法物品
+|name=笨重戒指
+|english_name=Ring of Clumsiness
+|aon=MagicCursedDisplay.aspx?ItemName=Ring of Clumsiness
+|cat=诅咒物品
+|aura=强烈变化系
+|cl=15
+|slot=戒指
+|description=这枚戒指的功能与羽落术戒指完全相同，但它同时会让穿戴者变得笨手笨脚：她的敏捷受到-4减值，并且在试图施展任何带有姿势成分的奥术法术时有20%的法术失败率。（这一失败率与其他奥术法术失败率叠加。）
+|req=[[羽落术戒指]]
+|source=核心规则书、极限宝具
+}}

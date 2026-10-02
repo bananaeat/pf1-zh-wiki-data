@@ -1,0 +1,10 @@
+{{Trait
+|name=紧张
+|english_name=Nervous
+|type=缺陷
+|pfs=否
+|description=你从小在死亡或苛政的威胁下长大，你的神经一直都绷得紧紧的。
+|benefit=每当你对失败会带来任何惩罚（浪费时间除外）的属性检定或技能检定取10时，即使你有足够的时间，也视为掷出8而非10。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

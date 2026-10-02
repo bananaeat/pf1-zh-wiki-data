@@ -1,0 +1,17 @@
+{{武器
+|name=巨镰
+|english_name=Scythe
+|category=武器
+|prof=军用
+|wcat=双手
+|price=18 gp
+|weight=10磅
+|dmg_s=1d6
+|dmg_m=2d4
+|crit=×4
+|type=穿刺或挥砍
+|special=摔绊
+|groups=重刃
+|description=这件武器包括一只装有突起握柄的木制长柄，以及与木柄成直角的一把锐利曲刃。演化自用来收割庄稼的农具，一把巨镰需要双手使用，笨重却能造成可怕的伤口。与“收割”之间的关联使它常被作为死亡的象征符号，这令巨镰也往往被用作威慑武器。
+|source=核心规则书、极限宝具
+}}

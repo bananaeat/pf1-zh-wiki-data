@@ -1,0 +1,12 @@
+{{危害
+|name=死魂精之狩
+|english_name=Hunt of the Ankou
+|kind=诅咒
+|type=诅咒
+|save=意志 DC 22
+|effect=受害者被[[死魂精]]追猎，如同[[怪蜀黍的惦记]]所述。
+|cure=只有[[神迹术]]或[[祈愿术]]能让受害者解脱。
+|source=惧怖冒险
+}}
+
+{{FAQ|v5748eaic9v12}}

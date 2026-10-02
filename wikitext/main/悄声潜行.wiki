@@ -1,0 +1,10 @@
+{{Feat
+|name=悄声潜行
+|english_name=Exquisite Sneak
+|description=你知道在穿戴某些种类的盔甲时如何悄声行动。
+|prerequisites=[[敏捷]] 15，[[悄声慢行]]，隐匿6级
+|benefit=无论你用多快的速度移动，都不会将轻甲和中甲的护甲检定减值应用至隐匿技能检定上。你仍旧无法在奔跑或冲锋时进行潜行。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=手腕圆滑
+|english_name=Greasy Palm
+|type=派系
+|description=你知道如何通过一点小小的努力就能让别人去做你想让他们做的事情。当在贿赂一个NPC的时候，你可以少支付10%的代价，就获得与没有此背景时相同的效果。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

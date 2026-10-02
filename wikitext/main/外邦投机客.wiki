@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Mummy's Mask Player's Guide pg. 9, People of the Sands pg. 30），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=外邦投机客
+|english_name=Foreign Opportunist
+|type=战役
+|pfs=否
+|description=你不是土生土长的奥西里昂人，但探索古奥西里昂的陵墓——并“解放”其中宝藏——的机会实在好得不容错过。不管你对这片土地的历史是否感兴趣，你对那些在尘封墓穴中埋藏了上千年的财富绝对感兴趣——比如瓦提那片新近开放的大墓地中的陵墓。你的[[估价]]检定获得+2背景加值，且该技能总是你的本职技能。此外，你在古董市场上的人脉使你能以古奥西里昂遗物标价的60%将其卖出，而非通常的50%。何为古奥西里昂遗物，由GM裁定。
+|source_name=Mummy's Mask Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Foreign%20Opportunist
+}}

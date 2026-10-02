@@ -1,0 +1,12 @@
+{{Feat
+|name=击倒猛攻
+|english_name=Felling Smash
+|aliases=撂倒在地
+|categories=战斗
+|description=你集中你所有的力量进行一次毁灭性的猛击，试图将你的敌人击垮在地。
+|prerequisites=智力13，力量13，[[寓守于攻]]，[[精通摔绊]]，[[猛力攻击]]，基本攻击加值+6。
+|benefit=当你以攻击动作使用[[猛力攻击]]进行一次最高攻击加值的单次近战攻击时，如果你命中，你可以花费[[迅捷动作]]来对目标进行一次[[摔绊]]尝试。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

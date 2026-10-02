@@ -1,0 +1,19 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[精通移位 (神话)]]。</small></div>
+{{Feat
+|name=精通移位
+|english_name=Improved Reposition
+|categories=战斗
+|description=你习得了如何迫使敌人在战场中移动的技巧。
+|prerequisites=[[智力]] 13，寓守于攻。
+|benefit=当你使用移位[[战技]]时不会引起[[借机攻击]]。此外，你所实行的移位战技检定获得+2加值。你还在对抗针对自身的移位战技时，[[CMD]]获得+2加值。
+|normal=当你使用移位战技时会引起借机攻击。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}
+
+== 哪里用到它 ==
+
+'''制造需求'''：[[钩链屠杀]]（1 件物品）
+
+'''先决条件'''：[[人面狮身之翼]]、[[多米诺冲撞]]、[[快速移位]]、[[攀附脱逃]]、[[甩鞭]]、[[碎浪搏]]、[[碎浪流]]、[[碎浪破]]、[[移位重击]]、[[高等移位]]（10 个条目）

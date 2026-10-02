@@ -1,0 +1,10 @@
+{{Trait
+|name=丛林土著
+|english_name=Jungle Native
+|type=地区
+|prerequisites=芒吉莽原本地的[[树蛙人]]
+|description=你的人民世世代代称呼丛林为他们的家园，而且在该地形中能异常熟练地移动。你在对抗疾病和毒素的豁免检定获得+1背景加值，在丛林地形的[[先攻]]检定获得+1背景加值，而且生存成为你的[[本职技能]]。
+|source_name=野兽血脉
+|source=BotB
+|source_url=https://pf1chm.pages.dev/topics/zh451d33eaa9.htm
+}}

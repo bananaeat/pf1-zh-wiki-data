@@ -1,0 +1,11 @@
+{{Feat
+|name=高等神选武器
+|english_name=Greater Weapon of the Chosen
+|categories=战斗
+|description=神祇之手亲自指引你用祂的武器进行战斗。
+|prerequisites=拥有神祇偏好武器的武器专攻专长，必须信仰一个神祇并从祂获得神术，[[精通神选武器]]，[[神选武器]]
+|benefit=每当你使用神祇的偏好武器以一个攻击动作发动一次单次攻击时，你可以进行两次攻击检定以选择较好的那个结果。你无需激活[[神选武器]]专长来获得这个效果。通常而言，这种多骰无法应用于重击确认骰。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

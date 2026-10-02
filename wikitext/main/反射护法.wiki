@@ -1,0 +1,10 @@
+{{Feat
+|name=反射护法
+|english_name=Reflexive Caster
+|description=你随时都捏着一个可以马上挡下打击的法术。
+|prerequisites=[[战斗反射]]，施法者等级5
+|benefit=当你因为察觉检定失败而无法在[[突袭]]轮行动时，你仍然可以正常进行[[先攻]]检定并且可以在轮到你的先攻位时行动——但是，你只能执行一个[[标准动作]]，并且只能用这个动作施放一个仅以你自己为目标的防护系法术。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

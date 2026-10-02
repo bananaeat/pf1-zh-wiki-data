@@ -1,0 +1,11 @@
+{{Feat
+|name=阴暗打击
+|english_name=Gloom Strike
+|categories=战斗
+|description=只有少数生物能够像你一样习惯于在阴影中战斗。
+|prerequisites=[[盲斗]]，窃影鬼。
+|benefit=当你在黑暗或者昏暗的区域内，你对同样在黑暗或者昏暗区域内的敌人的攻击检定获得+1加值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

@@ -1,0 +1,9 @@
+{{装备
+|name=凝血
+|english_name=Slow-heart concoction
+|cat=调剂
+|price=50 gp
+|weight=—
+|description=这种漆黑如墨的合剂能减缓血液的流动，使服用者受到的所有[[流血伤害]]减少2点，同时在陷入[[濒死]]状态时伤势自动稳定。然而这种合剂也会迟钝服用者的反应速度，使其在反射豁免上受到-1减值。
+|source=冒险者的军械库2
+}}

@@ -1,0 +1,13 @@
+<noinclude>{{速查导航|here=规则}}
+{{消歧义|翡翠视域}}
+'''翡翠视域'''（Greensight）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Su</span><span class="sk-f">位置：感官</span></div>
+</noinclude><includeonly><div class="lang"><span id="翡翠视域"></span><span id="翡翠视域(怪物能力)"></span><div class="lang-h"><b>[[翡翠视域(怪物能力)|翡翠视域]]</b><i>Greensight</i><span class="lang-w">Su · 感官</span></div><div class="lang-d"></includeonly>
+怪物能够看透茂密的植物就如同植物是透明的一般，翡翠视域的范围通常为 60 尺。对拥有此类视域的怪物来说，其他生物无法用叶片、藤条、草木和灌木形成[[隐蔽]]，不过实体的树木仍旧会遮挡其视线。
+
+'''格式'''：翡翠视域 60 尺
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Greensight|2=Greensight}}
+
+[[分类:通用怪物规则]]</noinclude>

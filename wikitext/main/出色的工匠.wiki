@@ -1,0 +1,11 @@
+{{Trait
+|name=出色的工匠
+|english_name=Eldritch Smith
+|type=魔法
+|pfs=否
+|prerequisites=[[矮人]]
+|description=你花了漫长的时间在学习关于熔炉的神秘知识，以及一些传说由[[托拉格]]传下的宗教仪式。无论什么时候你使用工艺技能或者制造专长去制造材料为石头或金属的物品时，你可以减少5%的花费。这包括只有端部是金属的武器，比如斧子、枪或是矛。
+【PFS】此背景特性不能用于PFS。
+|source_name=格拉里昂的矮人
+|source_url=https://pf1chm.pages.dev/topics/page_1586.html
+}}

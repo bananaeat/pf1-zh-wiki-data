@@ -1,0 +1,9 @@
+{{装备
+|name=侠客工具箱
+|english_name=Vigilante's kit
+|cat=冒险装备
+|price=8 gp
+|weight=22磅
+|description=这一套工具箱包含一个背包、一个腰包、一张毛毯、火把（10根）、干粮（5天份）和一个水袋。
+|source=极限诡道
+}}

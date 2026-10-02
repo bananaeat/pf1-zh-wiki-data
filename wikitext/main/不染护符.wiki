@@ -1,0 +1,14 @@
+{{魔法物品
+|name=不染护符
+|english_name=Purification Talisman
+|aon=MagicWondrousDisplay.aspx?FinalName=Purification Talisman
+|cat=奇物
+|aura=微弱防护系
+|cl=5
+|slot=颈部
+|price=1,800 gp
+|description=这条编发项链上挂着一枚手掌大小的黏土画谜，象征“宗师”[[义洛理]]（关于义洛理画谜的更多信息见第86页侧栏），有时还镶嵌着铜或细小的宝石。它通常贴着皮肤穿戴在衣服之下，使佩戴者在对抗疾病和毒素的豁免检定上获得+2抗力加值。每天一次，佩戴者可以使用[[净化食粮]]，净化1立方尺的食物和水。
+|req=[[制造奇物]]、[[净化食粮]]、[[提升抗力]]
+|cost=900 gp
+|source=内海诸神
+}}

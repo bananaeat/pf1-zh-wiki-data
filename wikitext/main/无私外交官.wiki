@@ -1,0 +1,10 @@
+{{Trait
+|name=无私外交官
+|english_name=Altruistic Diplomat
+|type=地区
+|prerequisites=来自嬛郭(HWANGGOT)
+|description=在嬛郭被抚养大的你也同样受这里的熏陶，变得平和与睿智，并且你的论点总是有理有据。你的交涉获得+2背景加值。你必须是善良阵营才能获得这个背景。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://pf1chm.pages.dev/topics/page_1557.html
+}}

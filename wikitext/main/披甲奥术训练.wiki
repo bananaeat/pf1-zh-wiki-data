@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[披甲奥术训练 (神话)]]。</small></div>
+{{Feat
+|name=披甲奥术训练
+|english_name=Arcane Armor Training
+|categories=战斗
+|description=你学会了怎么在身着盔甲的时候施法。
+|prerequisites=[[擅长轻型盔甲]]，施法者等级3级。
+|benefit=通过一个[[迅捷动作]]，对于本轮所有法术，减少由穿戴盔甲带来的施法失败机率10%。
+|stamina=当着甲施法时你可以花费一点耐力以自由动作启动披甲奥术训练
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[披甲奥术熟稔]]、[[持节士披甲训练]]（2 个条目）

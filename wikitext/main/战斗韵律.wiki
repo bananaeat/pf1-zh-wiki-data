@@ -1,0 +1,11 @@
+{{Feat
+|name=战斗韵律
+|english_name=Combat Rhythm
+|categories=战斗
+|description=（[[战斗专长]]，融会专长）你攻击得越多，你打击得更加自信。
+|prerequisites=BAB+6或武僧6级
+|benefit=当你用近战攻击对本轮你已经伤害过的对手造成伤害时，你可以将动作或专长（例如[[猛力攻击]]专长）对你的近战攻击检定施加的任何自愿惩罚的总和减少 1（至最低减值0）。 这种减值减少会持续到你的下一轮开始并与自身叠加。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/page_1602.html
+|source=MAH
+}}

@@ -1,0 +1,16 @@
+{{Spell
+|name=高等炼狱治疗
+|english_name=Infernal Healing, Greater
+|school=咒法系 (医疗)
+|tags=邪恶
+|levels=先知 4;召唤师 4;召唤师（掉链） 4;奥能师 4;女巫 4;战斗祭司 4;术士 4;法师 4;牧师 4;魔战士 4
+|action=1轮
+|components=语言;姿势;材料（一滴魔鬼的血或一剂邪水）
+|range=接触
+|target=接触到的生物
+|duration=1分钟
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=这个法术如同[[地狱治疗]]，不过目标会拥有4点快速愈合，并且被侦测时视同一个邪恶牧师。
+|source=内海世界指南
+}}

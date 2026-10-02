@@ -1,0 +1,10 @@
+{{Feat
+|name=额外破敌
+|english_name=Extra Bane
+|description=你能使用更多次的破敌能力。
+|prerequisites=【破敌】职业特性。
+|benefit=你每天的破敌能力使用时间增加3轮。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

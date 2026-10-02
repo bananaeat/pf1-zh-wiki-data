@@ -1,0 +1,9 @@
+{{Trait
+|name=钱币准则
+|english_name=Canon of Coin
+|type=信念
+|description=你发现追求赚钱就是一种虔诚之举。[[估价]]对你来说是[[本职技能]]。只要你携带着价值至少等同于每角色等级100 gp的钱币，那么你在意志豁免上可获得+1背景加值。当对抗那些迫使你丢弃、掉落或交出那些你所拥有的钱币、宝石、或贸易品的效果时，该加值会增至+2。
+|source_name=商人货单
+|source=MM
+|source_url=https://pf1chm.pages.dev/topics/zh22b22ddf01.htm
+}}

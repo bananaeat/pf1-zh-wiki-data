@@ -1,0 +1,16 @@
+{{武器
+|name=巨木棒
+|english_name=Greatclub
+|category=武器
+|prof=军用
+|wcat=双手
+|price=5 gp
+|weight=8磅
+|dmg_s=1d8
+|dmg_m=1d10
+|crit=×2
+|type=钝击
+|groups=锤，部落
+|description=这把普通木棒的巨大笨重版沉到你无法单手持用的地步。它可能经过了装饰和雕刻、以金属强化过，也有可能仅是个大树枝。巨木棒和寻常木棒一样有很多名字，譬如粗棒、重棍、爱尔兰橡木棒等。
+|source=核心规则书、极限宝具
+}}

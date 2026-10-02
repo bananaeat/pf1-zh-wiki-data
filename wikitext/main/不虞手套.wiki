@@ -1,0 +1,16 @@
+{{魔法物品
+|name=不虞手套
+|english_name=Gloves of Unexpected Violence
+|aon=MagicWondrousDisplay.aspx?FinalName=Gloves of Unexpected ViolenceStandard
+|cat=奇物
+|aura=中等变化系
+|cl=8
+|slot=手部
+|price=10,000 gp（标准）；30,000 gp（专家）
+|description=这双不起眼的手套款式繁多：有些优雅，适合搭配燕尾服或晚礼服；有些粗犷，没有手指；还有些看上去像是医用手套。穿戴这双手套时，穿戴者获得[[随手武器]]专长，即使她不满足该专长的条件。
+
+专家级不虞手套还授予[[临时武器熟稔]]专长。
+|req=[[制造奇物]]、[[随手武器]]、[[临时武器熟稔]]
+|cost=5,000 gp（标准）；15,000 gp（专家）
+|source=极限诡道
+}}

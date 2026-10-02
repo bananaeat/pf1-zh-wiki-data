@@ -1,0 +1,11 @@
+{{Feat
+|name=阴影术者
+|english_name=Shadow Caster
+|pfs=否
+|description=你的命令使你创造的阴影与黑暗法术效果更加持久。
+|prerequisites=施法者等级1，卓尔。
+|benefit=当你释放的法术为阴影子学派或带有黑暗或阴影描述符，在决定这些法术的持续时间时视为你的施法者等级比正常高2级。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

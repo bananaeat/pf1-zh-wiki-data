@@ -1,0 +1,11 @@
+{{Feat
+|name=汲取之剑
+|english_name=Siphoning Blade
+|categories=战斗
+|pfs=否
+|description=你用双叉剑汲取敌人的鲜血，用于增强自己。
+|prerequisites=贪食之剑，武器专攻（双叉剑），BAB+8，透肌魔人
+|benefit=当你使用贪食之剑专长用双叉剑造成力量伤害时，你可以汲取敌人的鲜血。该攻击将额外造成1点流血伤害，你获得快速治疗2 持续3回合。对每个生物在24小时内你只能对其使用一次该专长。
+|source_name=内海怪物志
+|source_url=https://pf1chm.pages.dev/topics/zhb83e0d90c4.htm
+}}

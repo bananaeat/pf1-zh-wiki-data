@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=扫视聚焦棱镜
+|english_name=Saccadic Focusing Prism
+|aon=MagicWondrousDisplay.aspx?FinalName=Saccadic Focusing Prism
+|cat=奇物
+|aura=微弱预言系
+|cl=3
+|slot=无
+|price=2,400 gp
+|weight=1磅
+|description=当这块透明的大棱镜被举在使用者与文本之间时，使用者就能快速阅读该文本，同时仍能完整理解。借助扫视聚焦棱镜阅读任何非魔法文本所需的时间，缩短为使用者通常所需时间的十分之一。从任何魔法文本（例如[[静思卷册]]或[[战争手册]]）获得益处所需的时间减半。这对从书面来源学习法术或化合炼成所需的时间没有影响。
+|req=[[制造奇物]]、[[通晓语言]]、[[加速术]]
+|cost=1,200 gp
+|source=魔法战术工具箱
+}}

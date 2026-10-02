@@ -1,0 +1,10 @@
+{{Trait
+|name=幸运乘客
+|english_name=Providential Passenger
+|type=种族
+|prerequisites=[[半身人]]
+|description=靠旅行生活的人明白你的存在对于旅行的成功与否的重要意义，你也因此获得了谈判的筹码。船长，车队首领，以及类似的责任人对你的初始态度提升一级。
+|source_name=种族背景
+|source=HoG
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

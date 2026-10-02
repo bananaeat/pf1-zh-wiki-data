@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Skull & Shackles Player's Guide pg. 5），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=海盗血脉
+|english_name=Buccaneer's Blood
+|type=战役
+|pfs=否
+|description=你的一位祖先是镣铐群岛一名臭名昭著的自由船长，光是他的名字就足以让那些在海上靠正当营生谋生的人心生恐惧。海盗就流淌在你的血液中，你一直渴望追随先人的脚步，劫掠航道。你的[[威吓]]和[[专业]]（水手）检定获得+1背景加值。此外，你的丧失名誉值与恶名值获得一次性的+1背景加值（恶名系统的详情见《探索者冒险之路#55》中的“海盗生涯”）。
+
+你去了亡命港一处臭名远扬的海盗聚集地——名叫“悍女”的酒馆，急于开始你的海盗生涯。然而在那里时，一名潇洒而风流的海盗吸引了你的目光，在一夜狂饮与浪漫之后，你发现自己被打得不省人事、塞进一个麻袋，被运往不知何处。
+|source_name=Skull & Shackles Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Buccaneer%27s%20Blood
+}}

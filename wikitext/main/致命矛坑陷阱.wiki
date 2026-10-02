@@ -1,0 +1,13 @@
+{{危害
+|name=致命矛坑陷阱
+|english_name=Deadly Spear Trap
+|kind=陷阱
+|trap_type=机械
+|cr=18
+|perception=DC 30
+|disable=DC 30
+|trigger=视觉型（[[真知术]]）
+|reset=手动
+|effect=攻击 +20 远程（1d8+6外加[[黑莲汁]]）
+|source=核心规则书
+}}

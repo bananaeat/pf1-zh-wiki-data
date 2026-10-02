@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=奈莎的硬币
+|english_name=Nesa's Coin
+|aon=MagicWondrousDisplay.aspx?FinalName=Nesa's Coin
+|cat=奇物
+|aura=微弱预言系
+|cl=1
+|slot=无
+|price=450 gp
+|description=这枚朴素的铜币会与最近一位把它含在舌下24小时的人建立联系。联系一旦建立，其所有者每次施放[[侦测魔法]]时，都能确定这枚硬币当前所在的方向和距离。如果硬币被带往另一个位面，或进入[[反魔场]]，联系就会立即断开。
+|req=[[制造奇物]]、[[侦测魔法]]
+|cost=225 gp
+|source=格拉利昂的侏儒
+}}

@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=嘲讽战姿
+|english_name=Taunting Stance
+|type=Ex
+|class=掉链野蛮人
+|benefit=野蛮人可以故意使自己防守出现破绽，并且准备好毁灭性的反击。当她处于此战姿时，她的敌人对其的攻击骰和伤害骰都获得+4加值。但是每次攻击都会引发野蛮人的[[借机攻击]]，该借机攻击在敌人攻击前结算。该狂暴之力是一种战姿。野蛮人至少要达到12级后才能选择此狂暴之力。
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

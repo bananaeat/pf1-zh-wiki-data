@@ -1,0 +1,17 @@
+{{魔法物品
+|name=救赎者的祝福
+|english_name=Redemptor's Blessing
+|aon=MagicWondrousDisplay.aspx?FinalName=Redemptor's Blessing
+|cat=奇物
+|aura=微弱死灵系
+|cl=3
+|slot=无
+|price=9,000 gp
+|weight=1/2磅
+|description=这枚抚慰人心的圣徽由整块皂石雕成，优雅的曲线引人注目。当它被用来引导正能量以治疗活物时，还会安抚附近的生物。
+
+任何被救赎者的祝福的使用者所引导的正能量治疗到的生物，都必须通过一次DC 13的意志豁免，否则会受到[[安定心神]]法术的影响。这一效果会持续到使用者不再举着圣徽或不再保持专注，或者直到有任何人对被安抚的生物采取攻击行动为止。
+|req=[[制造奇物]]、[[安定心神]]，能够引导正能量
+|cost=4,500 gp
+|source=惧怖冒险
+}}

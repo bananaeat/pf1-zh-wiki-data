@@ -1,0 +1,11 @@
+{{Feat
+|name=豪饮
+|english_name=Deep Drinker
+|description=你能够通过饮酒引出更多的真气。
+|prerequisites=[[体质]] 13，武僧等级11，【醉酒】职业特性。
+|benefit=当你通过【醉酒】职业特性获得临时[[武僧#气运丹田|气池]]储量时，你获得2点气来取代原本的1点。
+|notes=译注：【醉酒】（Drunken Ki）为[[醉拳大师]]（APG武僧变体）3级能力。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

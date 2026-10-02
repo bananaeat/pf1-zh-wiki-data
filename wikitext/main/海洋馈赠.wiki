@@ -1,0 +1,10 @@
+{{Feat
+|name=海洋馈赠
+|english_name=Gifts from the Sea
+|description=尽管海滨后裔鲜少见到他们生活在水中的双亲，但他们仍能向水下的亲属寻求帮助。
+|prerequisites=海滨后裔[[半精灵]]。
+|benefit=每天一次，你可以用取自天然水源的水装满一个小瓶，而这些水会变成具有魔力的水，其功效等同于一瓶由你选择的1环德鲁伊法术制成的药水，且施法者等级（CL）等同于你的生命骰数（HD）。这瓶药水会在等同于你生命骰数的小时数后失效。
+|source=HftF
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/zh72cd9d7a9f.htm
+}}

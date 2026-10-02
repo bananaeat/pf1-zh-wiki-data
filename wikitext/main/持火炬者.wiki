@@ -1,0 +1,10 @@
+{{Feat
+|name=持火炬者
+|english_name=Torch Handling
+|pfs=否
+|description=在你的手中简单的火炬有如灯塔。
+|benefit=1.你可以把火炬当作简易武器使用〔造成相当于符合你体型的[[铁手套]]攻击的敲击伤害，外加一点火焰伤害。〕 2.增加你所持用的火炬和其他人工光源的普通以及昏暗照明距离10尺。 3.每日一次，你可以重骰可能会熄灭你手中光源的豁免检定，例如有人拿水泼你或是被当作[[灭火术]]的目标。
+|source=DH
+|source_name=冒险家手册
+|source_url=https://pf1chm.pages.dev/topics/page_529.html
+}}

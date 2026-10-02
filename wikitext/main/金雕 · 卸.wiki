@@ -1,0 +1,11 @@
+{{Feat
+|name=金雕 · 卸
+|english_name=Swift Refuge
+|categories=战斗
+|description=你灵活的移动，使用盔甲最厚实的地方抵挡敌人毁灭性的打击。
+|prerequisites=力量13，敏捷13，[[金雕流]]，[[擅长中甲]]
+|benefit=开启[[金雕流]]时，每天一次，当你被武器，徒手，天生武器击中时，将除了武器基本伤害骰外的所有伤害骰都视为已骰出1(包括由偷袭，重击，魔法特殊武器能力和[[要害打击]]提供的骰子)。在你BAB达到+8时每天可以使用第二次，+16时第三次。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_361.html
+}}

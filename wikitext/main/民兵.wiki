@@ -1,0 +1,10 @@
+{{Trait
+|name=民兵
+|english_name=Militia
+|type=地区
+|prerequisites=阿玛南达
+|description=作为阿玛南达民兵的一员，你进行了大量集体作战训练。当你[[夹击]]敌人时，你的攻击获得+1背景加值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://pf1chm.pages.dev/topics/page_1557.html
+}}

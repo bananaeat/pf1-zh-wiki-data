@@ -1,0 +1,10 @@
+{{Trait
+|name=兽人穿刺者
+|english_name=Orc Impaler
+|type=地区
+|prerequisites=追随奥泽姆骑士团的角色
+|description=你在冲锋时的重击确认骰上获得+2背景加值。如果重击目标为兽人亚种，此加值变为+3。
+|regions=终焉之墙
+|source_name=内海骑士
+|source_url=https://pf1chm.pages.dev/topics/zhdc70ece933.htm
+}}

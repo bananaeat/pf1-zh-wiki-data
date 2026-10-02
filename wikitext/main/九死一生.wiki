@@ -1,0 +1,12 @@
+{{Trait
+|name=九死一生
+|english_name=Narrows Survivor
+|type=地区
+|prerequisites=塔尔多
+|description=你在欧帕拉臭名昭著的纳洛区度过了自己的童年。常年交织着暴力和污秽的生活磨砺了你的感官，并使得你对其他人有着强烈的不信任。
+
+你在[[先攻]]和察言观色上获得+1的背景加值。察言观色将会被视为你的本职技能。
+|regions=塔尔多
+|source_name=塔尔多，荣光荡漾之地
+|source_url=https://pf1chm.pages.dev/topics/page_938.html
+}}

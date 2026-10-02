@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Ruins of Azlant Player's Guide pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=天生好动
+|english_name=Athletic
+|type=战役
+|pfs=否
+|description=你一直很擅长体力活动。你要么在乡间长大，童年十分活跃，总是在爬树、在湖泊和河流里游泳、攀上岩石嶙峋的山坡；要么在较大的定居点长大，并在各种比赛或运动中出类拔萃。由于这样的背景，几乎没有什么能拖慢你或妨碍你的行动。丰饶冒险公司面试你时注意到了你的身材和体格，他们选中你参加这次殖民远征，因为他们知道，在一个成长中的殖民地，强健的体魄总是派得上用场。
+
+在[[特技]]、[[攀爬]]和[[游泳]]检定中，你的防具检定减值降低，降低值等于你角色等级的三分之一（至少为1）；并且你在这三项技能中的一项上获得+1背景加值，在你选取此背景特性时选定。
+|source_name=Ruins of Azlant Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Athletic
+}}

@@ -1,0 +1,9 @@
+{{装备
+|name=武僧工具包
+|english_name=Monk's kit
+|cat=套装
+|price=8 gp
+|weight=22磅
+|description=该工具包包括一个背包，一个腰包，一张毛毯，麻绳，肥皂，火把（10），干粮（5天份）和一个水袋。
+|source=极限宝具
+}}

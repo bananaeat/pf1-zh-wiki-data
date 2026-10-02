@@ -1,0 +1,9 @@
+{{Trait
+|name=刺青艺/专注纹身
+|english_name=Tattooed Focus
+|type=种族
+|prerequisites=[[人类]]（瓦瑞西安人）
+|description=你有一个体现你职业本领的复杂[[纹身]]。选择一个工艺、表演或专业技能。你在该技能检定上获得+2背景加值，并且它成为你的[[本职技能]]。
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh3a98986c0e.htm
+}}

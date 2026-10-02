@@ -1,0 +1,10 @@
+{{Trait
+|name=律法爱好者
+|english_name=Lover of the Law
+|type=宗教
+|prerequisites=[[阿巴达尔]]
+|description=你强烈地信仰法律与公理的正确性。你在对抗魅惑和胁迫效果的豁免检定获得+1背景加值，而且若你被控制去违反法律时，你能试一次新的豁免检定并获得额外+1加值(总加值为+2)。
+|source_name=均衡信念
+|source=FoB
+|source_url=https://pf1chm.pages.dev/topics/zha930a323ed.htm
+}}

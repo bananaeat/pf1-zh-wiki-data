@@ -1,0 +1,15 @@
+{{Spell
+|name=次等向导治愈术
+|english_name=Rejuvenate eidolon, lesser
+|school=咒法系 (医疗)
+|levels=召唤师 1;召唤师（掉链） 1
+|action=标准动作
+|components=语言;姿势;材料（一滴你的血液）
+|range=接触
+|target=接触到的幻灵
+|duration=立即
+|save=无
+|sr=否
+|description=通过用手触摸一个幻灵，你会使它的伤口愈合并巩固它的形态。该法术能够治疗1d10+每施法者等级1点伤害 （最高+5）。
+|source=进阶玩家指南
+}}

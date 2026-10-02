@@ -1,0 +1,11 @@
+{{Feat
+|name=蓄能元素攻袭
+|english_name=Incremental Elemental Assault
+|description=你每天可以多次启动元素攻袭能力。
+|prerequisites=巨灵裔。
+|benefit=你能以1轮为单位使用你的【元素攻袭】能力，每日使用的轮数最高等同于你的角色等级。这些轮数不必连续。启动该能力是一个[[迅捷动作]]；解消效果是[[自由动作]]。
+|normal=你每天只能使用1次【元素攻袭】。它持续的轮数等同于你的职业等级（译注：AoN 原文作「class level」，疑为笔误，应为角色等级。）
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

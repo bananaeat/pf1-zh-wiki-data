@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Advanced Class Origins pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=分析思维
+|english_name=Analytical
+|type=地区
+|prerequisites=乌斯塔拉夫
+|description=你接受过勒彼得大学凡世科学教授们所推崇的分析性思维训练，在有时间冷静思索时，能更加周详地考虑问题。当你在[[知识]]检定上取10时，结果加1。
+|source_name=进化职业起源
+|source=ACO
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Analytical
+}}

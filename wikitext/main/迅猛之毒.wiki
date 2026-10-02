@@ -1,0 +1,10 @@
+{{Feat
+|name=迅猛之毒
+|english_name=Powerful Poisoning
+|description=依靠蛮力，你将武器上涂抹的毒药深深打进敌人的身体。
+|prerequisites=[[猛力攻击]]，手艺（制毒）技能3级或用毒职业能力
+|benefit=当你使用一件施加过毒药的武器并发动[[猛力攻击]]专长对一个对手造成伤害时，你可以放弃猛力攻击提供的伤害加值，而选择将武器附带毒素的DC+1。当你的基础攻击加值增加到+4以及之后每再提升+4时，这个DC加值也随之增加1点。但是，本专长的效果不会让毒药的DC增加到超过15+你的角色等级的一半。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

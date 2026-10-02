@@ -1,0 +1,15 @@
+{{魔法物品
+|name=直感头带
+|english_name=Headband of Intuition
+|aon=MagicWondrousDisplay.aspx?FinalName=Headband of Intuition
+|cat=奇物
+|aura=微弱预言系
+|cl=3
+|slot=头饰
+|price=7,000 gp
+|weight=1磅
+|description=这条头带赐予穿戴者预见之力，实际上让她能判断某个特定行动会带来福、祸还是两者兼有。穿戴者每天可以3次以[[标准动作]]获得关于某个指定行动的信息，如同施放[[占卜术]]，只是穿戴者总能得到有意义的回答。
+|req=[[制造奇物]]、[[占卜术]]
+|cost=3,500 gp
+|source=极限宝具
+}}

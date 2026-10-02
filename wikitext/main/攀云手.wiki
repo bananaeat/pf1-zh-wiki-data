@@ -1,0 +1,11 @@
+{{Feat
+|name=攀云手
+|english_name=Slow Faller
+|description=只要身边有墙体或峭壁，你就能靠着它们进一步降低自己在空中下坠的速度。
+|prerequisites=特技技能5级或武僧轻身落职业能力
+|benefit=在坠落时，只要在你触手可及的范围内有墙壁，你就可以减低自己坠落的速度。如果你没有穿着重甲，那么你承受的坠落伤害就会视为减少10尺。这个专长的效果可以和轻身落职业能力叠加。
+|special=你可以多次选择本专长，每次选择，你坠落的距离就视为再减少10尺。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

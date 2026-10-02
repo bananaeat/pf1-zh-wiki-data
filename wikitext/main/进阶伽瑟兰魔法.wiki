@@ -1,0 +1,11 @@
+{{Feat
+|name=进阶伽瑟兰魔法
+|english_name=Advanced Gathlain Magic
+|description=你已开发了你天生的魔法能力。
+|prerequisites=魅力 13，角色等级3，伽瑟兰
+|benefit=你获得下述法术作为类法术能力，每项每日可以施展一次：融身入木（类似融身入石，但仅作用于木头），塑木术。
+|extra=译注：此处举例的法术名为meld with stone，但融身入石的英文应为meld into stone。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/page_814.html
+}}

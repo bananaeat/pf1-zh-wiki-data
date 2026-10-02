@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=运尸袋
+|english_name=Corpse-Ferrying Bag
+|aon=MagicWondrousDisplay.aspx?FinalName=Corpse-Ferrying Bag
+|cat=奇物
+|aura=中等咒法系、死灵系
+|cl=9
+|slot=无
+|price=4,000 gp
+|weight=3磅
+|description=这个大号的黑色皮袋有宽大的袋口，并有系带帮助封口。它重20磅，最多可装300磅或10立方尺的物品（足以轻松装下一具中型尸体，或两具小型尸体，包括它们的装备）。袋中的一切都受到[[遗体防腐]]法术的保护。
+|req=[[制造奇物]]、[[遗体防腐]]、[[秘藏箱]]
+|cost=2,000 gp
+|source=再探经典宝藏
+}}

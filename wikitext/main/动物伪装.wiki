@@ -1,0 +1,10 @@
+{{Feat
+|name=动物伪装
+|english_name=Animal Disguise
+|description=只需稍加努力，你就能令人信服地把自己伪装成动物。
+|prerequisites=[[易容]]6级，[[知识]]（自然）6级。
+|benefit=你可以通过[[易容]]技将自己伪装成与你体型相符的动物。为了完成该易容，你必须拥有一张与之相适的毛皮和其他该动物的部件。当你把自己伪装成该动物时，可以在易容检定中得到+2加值。在知识（自然）上拥有等级的生物，在看穿这类易容的检定上，可以利用该技能代替察言观色检定。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

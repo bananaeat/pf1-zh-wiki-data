@@ -1,0 +1,11 @@
+{{Feat
+|name=诅咒魔法物品鉴定
+|english_name=Cursed Item Detection
+|description=你对奥术强大的掌握让诅咒物品也难以将你迷惑。
+|prerequisites=[[法术辨识]]5级，能施展侦测魔法或以侦测魔法做类法术能力。
+|benefit=你在鉴定魔法物品的属性上得到+2的加值，此外，你只要超过鉴定DC5点就可以辨识出物品是否被诅咒。
+|normal=你需要超过辨识所需DC10点才能鉴别出被诅咒的魔法物品。
+|source=DH
+|source_name=冒险家手册
+|source_url=https://pf1chm.pages.dev/topics/page_529.html
+}}

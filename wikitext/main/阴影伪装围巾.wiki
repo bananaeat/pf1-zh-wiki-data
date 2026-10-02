@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=阴影伪装围巾
+|english_name=Shawl of Shadowy Disguise
+|aon=MagicWondrousDisplay.aspx?FinalName=Shawl of Shadowy Disguise
+|cat=奇物
+|aura=微弱幻术系
+|cl=5
+|slot=头部
+|price=1,350 gp
+|weight=1磅
+|description=这条紫色的围巾会在黑暗中扭曲融合，哪怕只有最微弱的阴影，它也会变得像煤炭一样漆黑。佩戴它时，穿戴者可以隐藏自己的外貌，如同施放了[[半影伪装]]法术。旁观者永远不会发现穿戴者戴着阴影伪装围巾。
+|req=[[制造奇物]]、[[半影伪装]]
+|cost=675 gp
+|source=阴影血脉
+}}

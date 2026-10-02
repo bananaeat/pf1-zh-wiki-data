@@ -1,0 +1,10 @@
+{{Feat
+|name=魅影战士
+|english_name=Phantom Fighter
+|description=对于[[虚体]]敌人来说，你的魅影是致命的对手。
+|prerequisites=[[魅影]]职业能力，魅影具有魔法攻击能力
+|benefit=你的魅影的天生武器被视为具有幽冥特性。此外，当你施放一个接触法术，并由你的魅影进行传递时，你能够如同自身具有[[跨界法术]]（APG）专长一般调整法术。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

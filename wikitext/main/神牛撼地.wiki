@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=神牛撼地
+|english_name=Ground Breaker, Greater
+|type=Ex
+|class=掉链野蛮人
+|benefit=当野蛮人使用[[撼地一击]]时，影响范围扩大5尺。该狂暴之力可以最多选择3次，效果叠加。野蛮人至少要达到8级后且拥有【撼地一击】才能选择此狂暴之力。
+|classic=高等大地之击
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

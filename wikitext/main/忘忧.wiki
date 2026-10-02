@@ -1,0 +1,9 @@
+{{装备
+|name=忘忧
+|english_name=Sphere-song concoction
+|cat=调剂
+|price=50 gp
+|weight=—
+|description=这种糖浆一般的合剂会让服用者全身充满梦幻、安宁平静的感觉，并在所有的意志豁免上获得+1炼金加值。然而，这种朦胧迷幻的状态也会削弱使用者对于危机的反应，因此在[[先攻]]检定上受到-2减值。
+|source=冒险者的军械库2
+}}

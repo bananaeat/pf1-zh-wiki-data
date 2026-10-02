@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=记忆泥
+|english_name=Memory Mud
+|aon=MagicWondrousDisplay.aspx?FinalName=Memory Mud
+|cat=奇物
+|aura=微弱惑控系（强迫）
+|cl=10
+|slot=无
+|price=1,500 gp
+|description=把记忆泥涂抹在头皮上后，使用者能够以完美的细节回想起之前10分钟内发生的一切。这段记忆如此详尽，以至于使用者总是可以额外进行[[察觉]]检定，借此注意到事件发生当时遗漏的细节。
+|req=[[制造奇物]]、[[篡改记忆]]
+|cost=750 gp
+|source=Pathfinder: Goblins #1
+}}

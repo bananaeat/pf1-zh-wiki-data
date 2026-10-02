@@ -1,0 +1,13 @@
+{{Feat
+|name=神器猎人
+|english_name=Artifact Hunter
+|categories=故事
+|pfs=否
+|description=你以不懈地努力去追寻一件[[神器]]或任何一件拥有传奇力量的物品。
+|prerequisites=你必须曾经亲眼目睹过一件传说中的神器。
+|benefit=当你模仿一种职业特性，属性，种族或阵营检定时，你的[[使用魔法装置]]技能检定获得+2加值。若你的使用魔法装置技能等级达到10级或更高，此加值提升至+4。此外，每天一次，你可以直接视为使用魔法装置技能检定结果为15，而不需要进行投掷。若你的使用魔法装置技能等级达到10级或更高，你可以每天使用这项能力两次。
+|goal=真正获得一件神器的拥有权。
+|completion_benefit=你学会了激发魔法物品最大潜能的技巧。每日三次，当你启动使用激活型（use-activated）或命令字（command word）魔法物品时，能以自由动作使其有效施法者等级+2。此能力每轮只能使用一次。 推荐背景：好奇猫（Dangerously Curious）, Fortunate, Secret-Keeper
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/zhef0bc5c087.htm
+}}

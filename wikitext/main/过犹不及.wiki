@@ -1,0 +1,11 @@
+{{Feat
+|name=过犹不及
+|english_name=Under and Over
+|categories=战斗
+|description=你可以从尝试抓你的敌人身旁滑过，让他摔个趔趄。
+|prerequisites=[[灵巧武艺]]，体型小型或更小。
+|benefit=如果一个比你大的敌人尝试[[擒抱]]你却失败了，你能以[[直觉动作]]对该名目标进行[[摔绊]]攻击，并且在这次攻击中获得+2加值。这不会引发[[借机攻击]]。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

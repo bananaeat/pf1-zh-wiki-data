@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=水手眼罩
+|english_name=Mariner's Eye Patch
+|aon=MagicWondrousDisplay.aspx?FinalName=Mariner's Eye Patch
+|cat=奇物
+|aura=微弱预言系、塑能系
+|cl=5
+|slot=眼部
+|price=12,000 gp
+|description=这种海盗眼罩通常是在皮质眼罩上至少镶有一颗宝石。穿戴者以一个标准动作说出命令词后，眼罩可使她每天各使用一次下列能力：[[通晓语言]]、[[灼热射线]]和[[识破隐形]]。水手眼罩最初出现在Necromancer Games出品的《Dead Man's Chest》第73页。
+|req=[[制造奇物]]、[[通晓语言]]、[[灼热射线]]、[[识破隐形]]
+|cost=6,000 gp
+|source=冒险之路59：恶名的代价
+}}

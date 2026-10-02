@@ -1,0 +1,9 @@
+{{Trait
+|name=掠夺者
+|english_name=Pillager
+|type=战斗
+|description=在一个执法者甚少维护财产权的地方成长，你早已深刻理解"唯有能守住的才属于自己，但能夺来的皆可占有"。你在进行[[卸武]]与[[盗取]][[战技]]的检定时获得+1背景加值。
+建议角色：[[半身人]]，河域诸国本地人，镣铐群岛本地人
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

@@ -1,0 +1,13 @@
+<noinclude>{{法师导航}}</noinclude>
+===超维学派(Extradimension School)===
+{{Source|黑市指南|Black Markets|inline}}
+
+'''超维学派'''是[[奥术学派/咒法学派|咒法学派]]的专攻奥术学派。
+
+'''取代能力'''：以下能力取代咒法学派的召唤者魅力能力。
+
+'''重塑空间'''（Reshape Space, Su）：当你施放一个用于创造异次元空间或半位面的法术时，增加你的法师等级一半（最少为1）的单位持续时间（轮、分钟、小时等）。在20级时，你可以把一个创造异次元空间或半位面的法术持续时间变为永久。你在同一时间内只能拥有一个以此方式永久化的法术。如果你指定另一个法术永久化，则前一个永久化法术的效果会立刻结束。
+
+<noinclude>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_68.html 原文]），按 AoN 核对过。</noinclude>
+
+<noinclude>[[分类:奥术学派]]</noinclude>

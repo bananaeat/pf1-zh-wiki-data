@@ -1,0 +1,9 @@
+{{Trait
+|name=掩面者
+|english_name=Masked
+|type=信念
+|description=你从"至高阴谋家"那里学到，隐藏秘密常常意味着隐藏真实身份。每天1次，当你进行[[易容]]检定时，可以投掷两次取较高者作为结果。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh484c89782e.htm
+}}

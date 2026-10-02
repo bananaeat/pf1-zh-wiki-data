@@ -1,0 +1,9 @@
+{{Trait
+|name=破链者
+|english_name=Chainbreaker
+|type=地区
+|prerequisites=安多安
+|description=你是解放奴隶的专家。你知道解放几个奴隶在登船战斗中可以扭转战局。你在解除锁具的[[解除装置]]检定中获得+1背景加值，在进行力量检定以破坏锁链或栏杆以解放奴隶时获得+1背景加值，在进行[[战技]]检定以破坏锁链或栏杆以解放奴隶时获得+1背景加值。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

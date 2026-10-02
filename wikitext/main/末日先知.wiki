@@ -1,0 +1,48 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=末日先知
+|english_name=Doom Prophet
+|cr=2
+|xp=600
+|classline=半兽人导师4
+|alignment=混乱邪恶
+|size=中型
+|type=类人生物
+|subtypes=人类;兽人
+|init=+0
+|senses=黑暗视觉60尺；察觉+2
+|ac=13，接触 10，措手不及 13（+3盔甲）
+|hp=30（4d6+16）
+|fort=+3
+|ref=+1
+|will=+6
+|defensive=兽人凶猛
+|speed=30尺
+|melee=精制重型硬头锤 +7（1d8+4）
+|ranged=精制投石索 +3（1d4+4）
+|spells=已准备导师法术（施法者等级4，专注+6）；2级—[[黑暗术]]；1级—[[燃烧之手]]（DC 13），[[惊恐术]]（DC 13），[[命令术]]（DC 13）；0级（随意）—[[侦测魔法]]，[[神导术]]，[[阅读魔法]]
+|tactics=<div class="ml wide"><span class="k">战斗前</span>导师念诵熊之坚韧卷轴和牛之力量卷轴。</div><div class="ml wide"><span class="k">战斗中</span>导师对自己的硬头锤施展黑暗术，然后施展灼热射线或燃烧之手。</div><div class="ml wide"><span class="k">基础数据</span>没有熊之坚韧和牛之力量时，导师的数据为：hp 22；强韧+1；近战 精制重型硬头锤 +5（1d8+2）；远程 精制投石索 +3（1d4+2）；力量 14，体质 11；CMB +4；CMD 14。</div>
+|str=18
+|dex=10
+|con=15
+|int=9
+|wis=14
+|cha=8
+|bab=+2
+|cmb=+6
+|cmd=16
+|feats=[[技能专攻]]（威吓）;[[健壮]]
+|skills=[[飞行]]+3;[[威吓]]+7;[[知识]]（宗教）+3
+|languages=通用语;兽人语
+|sq=兽人血脉;召唤魔宠（蝙蝠）;武器熟悉
+|combat_gear=熊之坚韧卷轴;牛之力量卷轴;治疗轻伤卷轴;灼热射线卷轴（3）;炽火胶（2）
+|gear=精制镶嵌皮甲;精制重型硬头锤;精制投石索与10颗弹丸;银质邪徽;法术材料包;118gp
+|source=NPC志
+|family=NPC职业（NPC志）
+|npc=1
+|lore=
+末日先知向每一个愿意听的人宣讲他的凶兆。
+}}
+
+{{AoN原文|1=NPCDisplay.aspx?ItemName=Doom Prophet|2=Doom Prophet}}

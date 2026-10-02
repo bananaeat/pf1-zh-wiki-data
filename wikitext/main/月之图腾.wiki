@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=月之图腾
+|english_name=Moon Totem
+|type=Su
+|categories=图腾
+|prerequisites=[[野蛮人]]6级，[[次等月之图腾]]
+|benefit=狂暴时，野蛮人在用于定位未觉察的生物的察觉检定上获得等同于职业等级一半的加值，且未觉察的攻击者攻击野蛮人时不获得任何加值。
+|source_name=荒野源始
+}}

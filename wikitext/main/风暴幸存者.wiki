@@ -1,0 +1,10 @@
+{{Feat
+|name=风暴幸存者
+|english_name=Storm Survivor
+|description=即使身处暴风最强的气候中，你也知道如何生存和茁壮成长。
+|prerequisites=[[知识]]（自然）2级，生存2级。
+|benefit=当你身处于任何类型的风暴中时，你在察觉检定、生存检定、以及由本风暴带来衍生不良影响的豁免骰上，获得+2环境加值。如果你这些技能之一的等级为10或更高的话，此加值提升为+4。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

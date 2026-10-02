@@ -1,0 +1,40 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #61: Shards of Sin
+|authors=Greg A. Vaughan
+|pages=96
+}}
+
+{{书页/简介|head=第一王的遗物|1=
+「碎星」冒险之路由人气作者 Greg A. Vaughan 的一部惊险新冒险拉开序幕！在瓦瑞西亚繁华的边陲城市玛格尼玛（Magnimar），探索者协会新设的分会招募了一队新手探索者，去追捕叛逃的特工 Natalya Vancaskerkin——她恰好也是瓦瑞西亚被称为斯科扎尼（Sczarni）的罪犯之一。然而当这些英雄找到失踪的女人时，发现事情远不止一名在逃探索者那么简单：他们卷入了一场迅速扩大的追捕，目标是古代瑟西隆帝国的一件破碎神器——这场探索将带他们前往瓦瑞西亚最危险的一些角落。
+
+本册《冒险之路》开启「碎星」冒险之路，内容包括：
+
+* 《罪恶碎片》，一部面向 1 级角色的开拓者冒险，作者 Greg A. Vaughan。
+* 探究古老的七芒印（Sihedron）神器及其与强大的瑟西隆魔法的联系，并详述坠落在格拉利昂的神秘[[天金]]，作者 James Jacobs。
+* 深入谜港城（Riddleport）更加肮脏的下层社会，收于「探索者日志」，作者 Bill Ward。
+* 五种新怪物，作者 Benjamin Bruck、Craig Campbell、Adam Daigle、Amanda Hamon、James Wilbur。
+}}
+
+'''冒险之路61：罪恶碎片'''（''Pathfinder #61: Shards of Sin''）是[[冒险之路]]「碎星」系列的第一部冒险，由 Greg A. Vaughan 撰写，配套文章出自 Benjamin Bruck、Craig Campbell、Adam Daigle 等 6 位作者，小说出自 Bill Ward，于 2012 年 8 月 23 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+罪恶碎片 @ 6
+NPC 图集 @ 60
+碎星宝藏 @ 64
+碎星（The Shattered Star） @ 56
+探索者日志：遥星之光（1／6） @ 72
+怪物图鉴 @ 78
+战役概要 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Shards of Sin
+|releases=PDF¦PZO9061E¦2012-08¦；Softcover¦PZO9061¦2012-08¦
+}}
+
+[[分类:书目]]

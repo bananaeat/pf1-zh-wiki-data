@@ -1,0 +1,16 @@
+{{Spell
+|name=塑木术
+|english_name=Wood Shape
+|school=变化系
+|levels=德鲁伊 2;猎人 2;秘学士 2;萨满 2
+|domains=手艺领域 2
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=接触
+|target=一块接触到的木材，体积不超出10立方尺 + 每等级1立方尺
+|duration=立即
+|save=意志，通过则无效（物体）
+|sr=是（物体）
+|description=塑木术可重新塑造一块已存在的木头的形状以符合你的需要。该法术可以做出粗糙的柜子、门等，但细节部分无法做出。含有可动零件的成品有30%的机率无法运作。
+|source=核心规则书
+}}

@@ -1,0 +1,17 @@
+{{Feat
+|name=腾蛇
+|english_name=Snake Style
+|aliases=蛇拳
+|categories=战斗;流派
+|description=你仔细观察着敌人的一举一动，适时地格挡攻击。
+|prerequisites=[[精通徒手打击]]，[[特技]]1级，察言观色3级。
+|benefit=你在察言观色检定上有+2加值，你可以用徒手打击造成穿刺伤害。你在使用[[蛇拳]][[流派]]架势时，如果有敌人以你为目标进行近战或远程攻击，你可以用[[直觉动作]]进行一次察言观色检定，并用检定结果作为你的AC或接触AC对抗该次攻击。要使用此能力，你必须察觉到该次攻击且不能处于[[措手不及]]状态。
+|normal=[[徒手攻击]]造成钝击伤害。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[白蛇吐信]]、[[蛇行]]（2 个条目）

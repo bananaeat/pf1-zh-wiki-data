@@ -1,0 +1,11 @@
+{{Feat
+|name=巨人杀手小队
+|english_name=Giantslaying Team
+|categories=战斗;团队
+|description=当一名巨人试图攻击你的盟友时，该巨人在无意间暴露了其防御的破绽。
+|prerequisites=敏捷13，[[闪避]]，[[灵活移动]]，基础攻击加值+4，防御训练种族特性。
+|benefit=若一名在你威胁范围内的拥有巨人亚种的敌手，在其对一名拥有该专长盟友的[[借机攻击]]失手时，你可以以一个[[直觉动作]]，对该巨人发起一次近战攻击。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

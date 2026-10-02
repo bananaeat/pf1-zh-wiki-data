@@ -1,0 +1,19 @@
+{{Spell
+|name=笨手笨脚
+|english_name=Bungle
+|school=惑控系 (胁迫)
+|levels=催眠师 1;奥能师 1;女巫 1;异能者 1;术士 1;法师 1
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一个类人生物
+|duration=专注 + 2轮或 效果触发
+|save=意志，通过则无效
+|sr=是
+|description=目标在它下一次的攻击骰或检定的d20投骰上承受-20罚值。
+
+受法术影响的这个动作必须是目标在轮到它自己行动时有意识的去进行的。
+
+HD在10以上的生物不会受到该法术的影响。
+|source=极限魔法
+}}

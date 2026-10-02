@@ -1,0 +1,15 @@
+{{魔法物品
+|name=熔炼之釜
+|english_name=Cauldron of Brewing
+|aon=MagicWondrousDisplay.aspx?FinalName=Cauldron of Brewing
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=无
+|price=3,000 gp
+|weight=5磅
+|description=熔炼之釜看起来像一口带有四条粗短腿的精致炊锅。大釜能够把放入其中的任何液体加热到精确的温度（从略高于室温到足以煮沸盐水的温度均可），并无限期地保持该温度，而釜的外侧摸上去始终只有一点微温。熔炼之釜为工艺（炼金术）技能检定提供+5表现加值。
+|req=[[制造奇物]]、制造者必须受过[[工艺]]（炼金术）训练
+|cost=1,500 gp
+|source=进阶玩家指南、极限宝具
+}}

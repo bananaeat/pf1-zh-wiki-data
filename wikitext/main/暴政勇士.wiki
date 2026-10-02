@@ -1,0 +1,13 @@
+{{Feat
+|name=暴政勇士
+|english_name=Champion of Tyranny
+|categories=阵营
+|pfs=否
+|description=唯有压制众生才能建立真正的秩序。
+|prerequisites=10生命骰，守序邪恶阵营。
+|benefit=你可以储存数量等同于魅力加值（最少1）的阵营确认以备随时使用。你可以使用一个阵营确认，以一个标准动作以类法术能力施放一次[[人类定身术]]，施法者等级等同你的生命骰。你在对抗混乱与善良生物时的武器与法术伤害检定获得+2加值（若目标同时为混乱且善良，则为+4）。这是一个基于阵营的效果。
+|residual=即使你不再是守序邪恶阵营，你仍保留对混乱与善良生物+2（或+4）的伤害加值。
+|source=PU
+|source_name=解放者
+|source_url=https://pf1chm.pages.dev/topics/zh771c8090a9.htm
+}}

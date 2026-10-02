@@ -1,0 +1,10 @@
+{{Feat
+|name=绿之歌者
+|english_name=Leaf Singer
+|description=你的歌声叙述着同族的玄秘。
+|prerequisites=[[魅力]] 13，【吟游表演】职业特性，精灵或半精灵。
+|benefit=当你在森林中使用带有听觉成分的【吟游表演】时，那么你所选择的吟游表演的范围或区域加倍。此外，无论你的吟游表演在哪里进行，精类生物在对抗你的吟游表演时，豁免DC提高2点。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

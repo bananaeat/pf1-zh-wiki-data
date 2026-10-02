@@ -1,0 +1,11 @@
+{{Trait
+|name=水果商人
+|english_name=Fruit Merchant
+|type=地区
+|prerequisites=丛林
+|pfs=否
+|description=在以物易物换取食物、水和衣物等日常用品时，你购买物资的价格可降低10%,出售时的价格可提高10%。
+|source_name=荒野源始
+|source=WO
+|source_url=https://pf1chm.pages.dev/topics/zh4c71a0e505.htm
+}}

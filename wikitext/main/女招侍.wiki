@@ -1,0 +1,44 @@
+{{速查导航}}
+<noinclude>{{消歧义|女招待（游戏主持人指南）}}</noinclude>
+{{怪物
+|name=女招侍
+|english_name=Barmaid
+|cr=3
+|xp=800
+|classline=人类平民 5
+|alignment=混乱中立
+|size=中型
+|type=类人生物
+|subtypes=人类
+|init=+1
+|senses=察觉+6
+|ac=12，接触 12，措手不及 10（+1敏捷，+1闪避）
+|hp=17(5d6)
+|fort=+1
+|ref=+2
+|will=+1
+|speed=35尺
+|melee=匕首+1（1d4-1/19-20）
+|ranged=匕首+3（1d4-1/19-20）
+|tactics=<div class="ml wide"><span class="k">战斗中</span>这个平民会尽力用对话避免争斗，如果这失败了，她只能掏出她的匕首。</div>
+|str=8
+|dex=13
+|con=11
+|int=9
+|wis=10
+|cha=13
+|bab=+2
+|cmb=+1
+|cmd=13
+|feats=[[警觉]];[[闪避]];快速移动;[[灵狐步]]
+|skills=[[交涉]]+6;[[知识]]（本地）+4;[[察觉]]+6;[[察言观色]]+6
+|languages=通用语
+|gear=匕首;抗毒剂;2298gp
+|source=NPC志
+|family=NPC职业（NPC志）
+|npc=1
+|lore=
+如果价格合适，一个女招侍并不会拒绝帮忙通风报信，或者把一剂安眠药加到饮料中。
+}}
+
+本页译自《[[NPC志]]》的怪物图鉴 CHM。

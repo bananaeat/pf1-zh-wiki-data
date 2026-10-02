@@ -1,0 +1,11 @@
+{{Feat
+|name=额外圣疗
+|english_name=Extra Lay on Hands
+|description=你可以更频繁的使用圣疗能力。
+|prerequisites=【圣疗】职业特性。
+|benefit=你每日可以多使用圣疗2次。
+|special=你可以多次选择本专长，其效果累计。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

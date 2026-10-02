@@ -1,0 +1,15 @@
+{{魔法物品
+|name=敏捷登山杖
+|english_name=Agile Alpenstock
+|aon=MagicWondrousDisplay.aspx?FinalName=Agile Alpenstock
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=无
+|price=2,000 gp
+|weight=1磅
+|description=这根多节的木制手杖能辅助生物旅行，给予+5尺的速度增强加值，以及对抗摔绊的[[CMD]]和避免被绊倒的豁免检定上的+2增强加值。只有将敏捷登山杖握在手中时，这些加值才生效。它可以当作[[木棍]]用于战斗。
+|req=[[制造奇物]]、[[大步奔行]]
+|cost=1,000 gp
+|source=极限宝具
+}}

@@ -1,0 +1,13 @@
+<noinclude>{{消歧义|法术抗力}}</noinclude>
+<noinclude>{{速查导航|here=规则}}
+'''法术抗力'''（Spell Resistance）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：防御能力</span></div>
+</noinclude><includeonly><div class="lang"><span id="法术抗力"></span><span id="法术抗力(怪物能力)"></span><div class="lang-h"><b>[[法术抗力(怪物能力)|法术抗力]]</b><i>Spell Resistance</i><span class="lang-w">Ex · 防御能力</span></div><div class="lang-d"></includeonly>
+具有法术抗力的生物有可能不受那些直接影响到它的法术或类法术能力的影响。要判定法术或类法术能力是否对一个具有法术抗力的生物有效，施法者必须先进行一次施法者等级检定（1d20 + CL）。如果结果等于或大于生物的法术抗力，则法术正常生效；当然，该生物仍然可以进行豁免检定。
+
+'''格式'''：'''SR''' 18
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Spell Resistance|2=Spell Resistance}}
+
+[[分类:通用怪物规则]]</noinclude>

@@ -1,0 +1,11 @@
+{{Feat
+|name=团队传递接触法术
+|english_name=Group Deliver Touch Spells
+|categories=团队
+|description=你和其他队伍成员可以通过彼此的魔宠传递接触法术。
+|prerequisites=团队法术共享，必须具有拥有传递接触法术和法术共享能力的魔宠
+|benefit=你和任何具有该专长的盟友均能凭借彼此的魔宠施放法术，就如每个盟友都能使用彼此魔宠的法术共享能力一般。该专长在其他方面就如同法术共享能力一般。
+|source=FF
+|source_name=魔宠手记
+|source_url=https://pf1chm.pages.dev/topics/page_491.html
+}}

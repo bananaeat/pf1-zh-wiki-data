@@ -1,0 +1,11 @@
+{{Feat
+|name=大师级投掷战锤
+|english_name=Master Hammer Throw
+|categories=战斗
+|description=你使用投掷武器击倒敌人的本领无人能及。
+|prerequisites=智力13、[[寓守于攻]]、投掷战锤*、精通投掷战锤*、[[精通摔绊]]、[[近距射击]]、[[精准射击]]、BAB+6、矮人。
+|benefit=无论你使用何种攻击方式，哪怕是作为全回合攻击动作的一部分，只要你使用钝击投掷武器成功命中目标并造成伤害，你都可以立即尝试对该目标进行一次[[摔绊]][[战技]]。
+|source=HftF
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/zh72cd9d7a9f.htm
+}}

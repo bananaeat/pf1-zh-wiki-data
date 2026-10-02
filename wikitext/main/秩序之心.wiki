@@ -1,0 +1,11 @@
+{{Feat
+|name=秩序之心
+|english_name=Ordered Mind
+|description=你精细的调整过自己的法术，增强了你反制对手法术的机制。
+|prerequisites=施法者等级7，任意守序阵营
+|benefit=你可以将你准备好的法术调整为适合反制法术的形式。不过，你辨识对手所施放法术的[[辨识法术]]检定DC等于20+该法术的环级，但进行反制时，你可以使用与对手法术同一学派的任何法术。你用来反制的法术环数必须等于或大于对方施放的法术环数。
+|normal={{AI翻译|nocat=1|本段由 AI 照 AoN 英文原文译出，CHM 汉化里没有这段译文，未经人工校对。}}辨识对手法术的法术辨识DC为15+该法术的环级。通常，一个法术只能反制它自己。
+|source=ISG、FoP/FoB/FoC
+|source_name=内海诸神、纯善／平衡／堕落信念
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

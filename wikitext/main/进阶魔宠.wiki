@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[进阶魔宠 (神话)]]。</small></div>
+{{Feat
+|name=进阶魔宠
+|english_name=Improved Familiar
+|description=本专长使得施法者能够从非标准列表中获得一个强力[[魔宠]]，但仅当他们可以正常获得一个新魔宠时才可使用本专长。
+|prerequisites=有能力获得新魔宠，阵营相符，足够高的等级（见下）。
+|benefit=选择魔宠时，施法者也可选择下表中生物。施法者可选择的魔宠在每个阵营轴线（即秩序到混乱、善良到邪恶）上分别至多只能和本人相差一阶。进阶魔宠其他的规则都与普通魔宠相同，但有两个例外：如果生物的类型不是动物，则其类型不改变；且强化的魔宠并不获得与他们同类交谈的能力（尽管他们中许多已具有交流的能力）。
+|tables=<table><tr><th>进阶魔宠</th><th>阵营</th><th>施法者等级</th><th>生物出处</th></tr><tr><td>预兆圣使（Archon, Harbinger）</td><td>秩序善良*</td><td>7级</td><td>B3</td></tr><tr><td>灵猫福使（Agathion, Silvanshee）</td><td>中立善良</td><td>7级</td><td>B2</td></tr><tr><td>圣盔天使（Angel, Cassisian）</td><td>中立善良</td><td>7级</td><td>B2</td></tr><tr><td>天界模板（Celestial）标准魔宠</td><td>中立善良</td><td>3级</td><td>B1</td></tr><tr><td>伪龙（Pseudodragon）</td><td>中立善良</td><td>7级</td><td>B1</td></tr><tr><td>莉拉妖精（Azata, Lyrakien）</td><td>混乱善良*</td><td>7级</td><td>B2</td></tr><tr><td>仙灵龙（Dragon, Faerie）</td><td>混乱善良</td><td>7级</td><td>B3</td></tr><tr><td>仲裁者（Inevitable, Arbiter）</td><td>秩序中立*</td><td>7级</td><td>B2</td></tr><tr><td>式神（Kami, Shikigami）</td><td>秩序中立*</td><td>7级</td><td>B3</td></tr><tr><td>秩序模板（Resolute）标准魔宠</td><td>秩序中立</td><td>3级</td><td>B2</td></tr><tr><td>知行御衡者（Aeon, Paracletus）</td><td>绝对中立*</td><td>7级</td><td>B2</td></tr><tr><td>棕仙（Brownie）</td><td>绝对中立*</td><td>5级</td><td>B3</td></tr><tr><td>卡班克尔（Carbuncle）</td><td>绝对中立</td><td>5级</td><td>B3</td></tr><tr><td>凶暴鼠（Dire Rat）</td><td>绝对中立</td><td>3级</td><td>B1</td></tr><tr><td>任意小型元素（Elemental, Small）</td><td>绝对中立</td><td>5级</td><td>B1</td></tr><tr><td>任意魔蝠（Mephit）</td><td>绝对中立</td><td>7级</td><td>B1</td></tr><tr><td>蚊蝠（Stirge）</td><td>绝对中立</td><td>5级</td><td>B1</td></tr><tr><td>混乱模板（Entropic）标准魔宠</td><td>混乱中立</td><td>3级</td><td>B2</td></tr><tr><td>虚空虫（Protean, Voidworm）</td><td>混乱中立*</td><td>7级</td><td>B2</td></tr><tr><td>小妖精（Sprite）</td><td>混乱中立*</td><td>5级</td><td>B3</td></tr><tr><td>祖各（Zoog）</td><td>混乱中立*</td><td>5级</td><td>B3</td></tr><tr><td>奇叵修罗（Asura, Tripurasura）</td><td>秩序邪恶*</td><td>7级</td><td>B3</td></tr><tr><td>小魔鬼（Devil, Imp）</td><td>秩序邪恶</td><td>7级</td><td>B1</td></tr><tr><td>邪窥魔（Kyton, Augur）</td><td>秩序邪恶*</td><td>7级</td><td>B3</td></tr><tr><td>恶鬼灵（Oni, Spirit）</td><td>秩序邪恶*</td><td>7级</td><td>B3</td></tr><tr><td>化物罗刹（Rakshasa, Raktavarna）</td><td>秩序邪恶*</td><td>7级</td><td>B3</td></tr><tr><td>狂躁邪魔（Daemon, Cacodaemon）</td><td>中立邪恶</td><td>7级</td><td>B2</td></tr><tr><td>飞颅妖（Div, Doru）</td><td>中立邪恶</td><td>7级</td><td>B3</td></tr><tr><td>炼狱模板（Fiendish）标准魔宠</td><td>中立邪恶</td><td>3级</td><td>B1</td></tr><tr><td>小恶魔（Demon, Quasit, 又译夸塞魔）</td><td>混乱邪恶</td><td>7级</td><td>B1</td></tr><tr><td>暴虐小魔怪（Gremlin, Nuglub）</td><td>混乱邪恶*</td><td>7级</td><td>B2</td></tr><tr><td>寄尸魔（Qlippoth, Cythnigot）</td><td>混乱邪恶*</td><td>7级</td><td>B2</td></tr><tr><td>人造人（Homunculus, 又译何蒙库鲁兹或人彘）</td><td>任意</td><td>7级</td><td>B1</td></tr><tr><td>* 不适用“主人与魔宠阵营相差一阶以内”规则，选择它作魔宠的施法者必须严格符合阵营。</td><td></td><td></td><td></td></tr></table>
+|extra=全表见 [[进阶魔宠一览（CHM 汉化）]]——民间汉化按书整理的那一份比这里全，B2–B5、《怪物典藏》《魔宠手记》的都收了。【编注：原文中只列出了来自B1的可作为进阶魔宠的生物，此处根据Arcenciel整理的列表做出了增补。】
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+{{FAQ|v5748eaic9o81}}
+
+{{FAQ|v5748eaic9utx}}

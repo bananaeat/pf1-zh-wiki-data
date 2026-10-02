@@ -1,0 +1,9 @@
+{{Feat
+|name=吮毒
+|english_name=Siphon Poison
+|description=你可以从其他生物身上吸走毒素。
+|benefit=以一个全轮动作，如果成功通过医疗技能鉴定，你可以将伤口型毒素从一个[[无助]]或自愿生物的血中去除。该鉴定DC等同毒素DC。你只能在目标遭毒后的两轮内以此方式治疗。一旦鉴定成功便不再受到毒素的后继效果。你不会因此使自己中毒。
+|source=CoP
+|source_name=纯洁勇士
+|source_url=https://pf1chm.pages.dev/topics/page_515.html
+}}

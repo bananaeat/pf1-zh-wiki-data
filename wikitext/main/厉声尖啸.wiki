@@ -1,0 +1,16 @@
+{{Spell
+|name=厉声尖啸
+|english_name=Piercing shriek
+|school=塑能系
+|tags=痛苦;音波
+|levels=吟游诗人 2;异能者 2;歌者 2
+|action=标准动作
+|components=语言
+|range=中距
+|target=一名生物
+|duration=1轮/等级
+|save=强韧，通过则无效
+|sr=是
+|description=你发出震耳欲聋的尖叫，不过只有该法术的目标才能听到；其他观察你的人只能看到你尖叫却寂静无声。目标由于尖叫声而被痛苦地折磨，并进入[[恍惚]]状态。该法术对[[耳聋]]的生物以及处于[[沉默术]]范围内的生物没有效果。
+|source=极限魔法
+}}

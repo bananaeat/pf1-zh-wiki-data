@@ -1,0 +1,16 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[预知危险 (神话)]]。</small></div>
+{{Spell
+|name=预知危险
+|english_name=Anticipate peril
+|school=预言系
+|levels=催眠师 1;吟游诗人 1;唤魂师 1;奥能师 1;异能者 1;术士 1;歌者 1;法师 1;游侠 1;炼金术师 1;猎人 1;秘学士 1;调查员 1;通灵者 1
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的生物
+|duration=1分钟/等级或效果发动
+|save=意志，通过则无效
+|sr=是
+|description=受术生物获得了感知危险的直觉。当受术生物在法术持续时间内第一次进行[[先攻]]检定时，该生物可以在先攻检定上获得等于你的施法者等级的洞察加值 （最高+5）。一旦加值生效，法术效果结束。
+|source=极限魔法
+}}

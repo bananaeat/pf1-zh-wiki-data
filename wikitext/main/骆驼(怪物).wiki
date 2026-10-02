@@ -1,0 +1,42 @@
+{{速查导航}}
+{{消歧义|骆驼 (消歧义)}}
+{{怪物
+|name=骆驼
+|english_name=Herd Animal, Camel
+|cr=1
+|xp=400
+|alignment=绝对中立
+|size=大型
+|type=动物
+|init=+3
+|senses=昏暗视觉，[[通用怪物规则#灵敏嗅觉|灵敏嗅觉]]；察觉 +5
+|description=这个看起来有些恼怒的单峰骆驼已经被套上了鞍具和缰绳。
+|ac=13，接触 12，措手不及 10（+3 敏捷，+1 天生，–1 体型）
+|hp=13（2d8 +4）
+|fort=+5
+|ref=+6
+|will=+0
+|speed=50 尺
+|melee=噬咬 +4（1d4 +6）
+|special_attacks=吐痰（+3 远程 接触）
+|str=18
+|dex=16
+|con=14
+|int=2
+|wis=11
+|cha=4
+|bab=+1
+|cmb=+6
+|cmd=19（23 对抗摔绊）
+|feats=[[坚忍]]
+|skills=[[察觉]] +5
+|environment=温暖的沙漠
+|organization=单独
+|treasure=无
+|special_abilities={{怪物能力|吐痰|Ex|每小时 1 次，骆驼可以把胃里的东西反刍出来，把这团恶心的东西吐在 10 尺内的单个目标身上。目标必须通过 DC 13 的强韧检定否则恶心 1d4 轮。此豁免 DC 基于体质。}}
+|source=怪物图鉴2
+|lore=
+骆驼是大型的沙漠群居动物，以它们的耐力和坏脾气闻名。典型的骆驼站立的时候肩高 6 尺，驼峰高 7 尺。
+}}
+
+本页译自《[[怪物图鉴2]]》的怪物图鉴 CHM。

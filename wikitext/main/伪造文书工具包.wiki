@@ -1,0 +1,9 @@
+{{装备
+|name=伪造文书工具包
+|english_name=Forger's kit
+|cat=工具
+|price=200 gp
+|weight=6磅
+|description=这套工具包括笔墨、绘纸、官方证件的模板，以及用于修改或复制官方印信的工具，便于制作伪造文书。它在你为伪造文书而进行的语言学检定上提供+2环境加值。
+|source=极限宝具
+}}

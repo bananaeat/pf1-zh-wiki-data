@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（People of the Stars pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=阿巴隆坚韧
+|english_name=Aballonian Resilience
+|type=地区
+|pfs=否
+|prerequisites=阿巴隆
+|description=你至少有一部分少年时光是在马喉度过的，已经适应了阿巴隆冰井的严寒。你为避免寒冷环境造成的非致命伤害而进行的豁免获得+4背景加值。此外，你在游戏开始时免费获得一套御寒衣物。
+|source_name=繁星子民
+|source=PotS
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Aballonian%20Resilience
+}}

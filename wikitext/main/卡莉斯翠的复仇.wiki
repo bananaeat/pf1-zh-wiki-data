@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{危害
+|name=卡莉斯翠的复仇
+|english_name=Calistria's revenge
+|kind=毒药
+|type=摄入
+|save=强韧 DC 16
+|onset=饮下一杯或多杯酒
+|frequency=1次/分钟，持续6分钟
+|effect=1d2点敏捷伤害
+|cure=2次豁免成功
+|price=500 gp
+|description=这种毒药按传统是作为[[卡莉斯翠]]信徒向背叛自己的情人复仇的阴谋的一部分酿造的。
+|source=内海诡道
+}}

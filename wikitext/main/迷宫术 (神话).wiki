@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[迷宫术]] 的神话版本。</small></div>
+{{Spell
+|name=迷宫术
+|english_name=Maze
+|school=咒法系 (传送)
+|levels=召唤师 6;奥能师 8;女巫 8;异能者 8;术士 8;法师 8
+|description=一头魅影牛头人会猎杀被困在迷宫中的目标。每一轮，若目标生物逃离迷宫失败，它都会由于魅影敌人而受到2d8 + 你的阶层点穿刺与挥砍伤害。
+|source=神话冒险
+}}
+[[分类:神话法术]]

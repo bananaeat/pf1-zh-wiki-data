@@ -1,0 +1,11 @@
+{{Feat
+|name=挖坟者
+|english_name=Warren Digger
+|pfs=否
+|description=多年的挖墓生涯之后，你在泥土中穿行几乎就像鱼儿在水中游动一样轻松。
+|prerequisites=食尸鬼
+|benefit=在挖掘泥土，沙子或泥地时，你获得10尺掘穴速度。你可以多次选择本专长。每次你选择本专长时，你的掘穴速度增加10尺，最高不超过你的基本陆地移动速度。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1404.html
+}}

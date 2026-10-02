@@ -1,0 +1,16 @@
+{{Spell
+|name=蜇伏投影
+|english_name=Implanted projection
+|school=惑控系 (胁迫)
+|tags=情绪;影响心灵
+|levels=催眠师 3;异能者 3
+|action=标准动作
+|components=语言;姿势
+|range=中距（100呎+10呎/等级）
+|target=一名生物
+|duration=1天/等级
+|save=意志，通过则无效
+|sr=是
+|description=此法术如同[[心绪投影]]OA般作用，除了它改变心情的效果在目标的心灵中保持蜇伏。在施放此法术时，施法者指定一个命令字或词组，然后目标会遗忘这段记忆。下一个对目标说出这个命令字或词组的生物，会触发目标潜伏着的心绪投影，目标会将说话者视为最初的施法者。
+|source=异能源始
+}}

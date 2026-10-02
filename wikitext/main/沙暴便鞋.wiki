@@ -1,0 +1,17 @@
+{{魔法物品
+|name=沙暴便鞋
+|english_name=Sandstorm Sandals
+|aon=MagicWondrousDisplay.aspx?FinalName=Sandstorm Sandals
+|cat=奇物
+|aura=微弱塑能系
+|cl=3
+|slot=脚部
+|price=15,000 gp
+|weight=2磅
+|description=这些便鞋用布料和兽皮缝在木块上制成，木块把鞋底垫高，离地约1英寸。武僧常穿着它们在迦伦德北部的沙漠中漫游，不带食物和水，以此磨炼自己的身体。沙暴便鞋的穿戴者在沙漠环境中旅行时不会留下任何痕迹。
+
+如果穿戴者拥有[[武僧#疾风连击 (Flurry of Blows, Ex)|疾风连击]]职业能力，那么每当他站在沙子或泥土上进行徒手疾风连击时，他周围会出现一场小型风暴，持续1轮。在此期间，任何在穿戴者5尺内结束移动的生物受到1点[[非致命伤害]]。风暴持续时，便鞋的穿戴者获得[[隐蔽]]（20%失手率）。
+|req=[[制造奇物]]、[[造风术]]
+|cost=7,500 gp
+|source=内海战斗
+}}

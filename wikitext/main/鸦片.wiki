@@ -1,0 +1,11 @@
+{{危害
+|name=鸦片
+|english_name=Opium
+|kind=毒品
+|type=吸入、摄入、伤口
+|addiction=重度，强韧 DC 20
+|effect=1小时：+1d8临时生命值，强韧豁免检定获得+2炼金加值，并处于[[疲乏]]状态
+|damage=1d4点体质伤害和1d4点感知伤害
+|price=25 gp
+|source=游戏主持人指南
+}}

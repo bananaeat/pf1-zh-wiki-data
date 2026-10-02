@@ -1,0 +1,15 @@
+{{Feat
+|name=触手流
+|english_name=Kraken Style
+|categories=战斗;流派
+|description=你野蛮地压榨挤压被你[[擒抱]]的家伙。
+|prerequisites=感知13，[[精通擒抱]]，[[精通徒手打击]]，BAB+3或武僧等级3
+|benefit=当你处于该[[流派]]下成功通过一次擒抱检定时，除了你的擒抱造成的任何伤害（比如你在成功维持擒抱的检定后选择伤害目标）之外，你的对手还会受到等同于你感知调整值的钝击伤害。此外，你维持擒抱的擒抱[[战技]]检定获得+2加值。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[触手紧缚]]、[[触手锁]]（2 个条目）

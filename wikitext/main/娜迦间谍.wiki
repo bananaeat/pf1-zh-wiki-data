@@ -1,0 +1,10 @@
+{{Trait
+|name=娜迦间谍
+|english_name=Naga Emissary
+|type=地区
+|prerequisites=[[娜迦裔]]，出身扎摩诔
+|description=你从小就被培养为出使娜迦国在扎摩诔的盟友的使者，因此你非常了解扎摩诔人。你的交涉检定获得+1背景加值，并且交涉成为你的本职技能。另外你获得乌笃剌语作为额外语言。
+|source=BotB
+|source_name=野兽血脉
+|source_url=https://pf1chm.pages.dev/topics/page_698.html
+}}

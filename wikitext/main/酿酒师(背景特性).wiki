@@ -1,0 +1,11 @@
+{{消歧义|酿酒师}}
+{{Trait
+|name=酿酒师
+|english_name=Brewmaster
+|type=种族
+|prerequisites=[[矮人]]
+|description=你的家族把矮人的酿酒秘方带到了非矮人的地区。这赐予了你酿造技能，却也使你在矮人纯粹主义者中遭到猜忌。你在[[专业]]（酿酒）和[[工艺]]（炼金）检定上获得+1背景加值，但你在为改善那些知晓你的家族曾与非矮人分享酿酒秘方的矮人的态度而进行的[[交涉]]检定上受到-1减值。
+|source_name=极限战役
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

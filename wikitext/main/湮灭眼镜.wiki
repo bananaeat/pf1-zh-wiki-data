@@ -1,0 +1,15 @@
+{{魔法物品
+|name=湮灭眼镜
+|english_name=Annihilation Spectacles
+|aon=MagicWondrousDisplay.aspx?FinalName=Annihilation Spectacles
+|cat=奇物
+|aura=中等变化系
+|cl=11
+|slot=眼部
+|price=25,000 gp
+|weight=1/4磅
+|description=透过这副深色镜片看到的生物，似乎偶尔会短暂地忽隐忽现。变化师可以用这副眼镜，将任何已准备的法师变化系法术自发转化为他所知的任何其他法师变化系法术；所需法术的环级必须小于或等于被转化的已准备法术。每天一次，他可以用这副眼镜自发施展[[解离术]]，以替代他已准备的一个6环或更高环的法师变化系法术，即使他并不知道该法术。
+|req=[[制造奇物]]、[[解离术]]，制造者必须是变化师
+|cost=12,500 gp
+|source=进阶玩家指南、极限宝具
+}}

@@ -1,0 +1,10 @@
+<noinclude>{{炼金术师导航}}
+'''电浆炸弹'''*（Shock bomb, Su）是[[炼金术师]]的[[科研发现]]。
+
+</noinclude>{{Source|进阶玩家指南|Advanced Player's Guide|inline}}
+
+当一名炼金术师制作炼金炸弹时，他可以选择以电击伤害来替代火焰伤害，被电浆炸弹直接命中的生物会[[目眩]]1d4轮。
+
+本页正文从 [[科研发现]] 总页拆出（译自 CHM 汉化）。<noinclude>
+
+[[分类:科研发现]]</noinclude>

@@ -1,0 +1,151 @@
+{{速查导航}}
+
+'''职业变体汇总'''是《[[解放者]]》的一章。
+
+{| class="wikitable sortable"
+|-
+! 名称 !! 类型 !! 消耗权能 !! 备注
+|-
+| 通晓语言(Comprehend languages) || 法术 || 2 ||
+|-
+| 神恩(Divine favor) || 法术 || 1 ||
+|-
+| 闪避(Dodge)* || 专长 || 0 ||
+|-
+| 熵光护盾(Entropic shield) || 法术 || 1 ||
+|-
+| 脚底抹油(Expeditious retreat) || 法术 || 2 ||
+|-
+| 轻羽步(Feather step) || 法术(APG) || 1 || 仅限自身
+|-
+| 亡灵无视术(Hide from undead) || 法术 || 1 || 仅限自身
+|-
+| 圣域术(Sanctuary) || 法术 || 1 || 仅限自身
+|-
+| 虔诚护盾(Shield of faith) || 法术 || 1 || 仅限自身
+|}
+
+{| class="wikitable sortable"
+|-
+! 名称 !! 类型 !! 消耗权能 !! 备注
+|-
+| 安定心神(Calm emotions) || 法术 || 1 ||
+|-
+| 风之衣(Cloak of winds) || 法术(APG) || 2 || 仅限自身
+|-
+| 注目术(Enthrall) || 法术 || 2 ||
+|-
+| 气化形体(Gaseous form) || 法术 || 1 || 仅限自身
+|-
+| 引导之手(Helping hand) || 法术 || 1 ||
+|-
+| 英勇气魄(Heroic Defiance)* || 专长(APG) || 1 ||
+|-
+| 英勇自愈(Heroic Recovery)* || 专长(APG) || 1 ||
+|-
+| 守护之灵(Protective spirit) || 法术(APG) || 2 ||
+|-
+| 移除疾病(Remove disease) || 法术 || 2 || 仅限自身
+|-
+| 滑步(Sidestep)* || 专长(APG) || 1 ||
+|-
+| 抓取飞箭(Snatch Arrows)* || 专长 || 1 ||
+|-
+| 跳跃攻击(Spring Attack) || 专长 || 1 ||
+|-
+| 巧言术(Tongues) || 法术 || 2 || 仅限自身
+|}
+
+{| class="wikitable sortable"
+|-
+! 名称 !! 类型 !! 消耗权能 !! 备注
+|-
+| 凌空而行(Air walk) || 法术 || 2 || 仅限自身
+|-
+| 防死结界(Death ward) || 法术 || 2 || 仅限自身
+|-
+| 任意门(Dimension door) || 法术 || 2 || 仅限自身
+|-
+| 辨识谎言(Discern lies) || 法术 || 3 ||
+|-
+| 神能(Divine power) || 法术 || 3 ||
+|-
+| 行动自如(Freedom of movement) || 法术 || 3 || 仅限自身
+|-
+| 精通盲斗(Improved Blind-Fight)* || 专长(APG) || 1 ||
+|-
+| 精通强韧加强(Improved Great Fortitude)* || 专长 || 1 ||
+|-
+| 精通钢铁意志(Improved Iron Will)* || 专长 || 1 ||
+|-
+| 精通闪电反射(Improved Lightning Reflexes)* || 专长 || 1 ||
+|-
+| 审判烙印(Mark of justice) || 法术 || 3 ||
+|-
+| 中和毒素(Neutralize poiso) || 法术 || 3 || 仅限自身
+|-
+| 复原术(Restoration) || 法术 || 2 || 仅限自身
+|-
+| 法术抗力(Spell resistance) || 法术 || 2 || 仅限自身
+|-
+| 疾风步(Wind Stance) || 专长 || 2 ||
+|}
+
+{| class="wikitable sortable"
+|-
+! 名称 !! 类型 !! 消耗权能 !! 备注
+|-
+| 防活物护罩(Antilife shell) || 法术 || 3 ||
+|-
+| 卸武重击(Disarming Strike) || 专长(APG) || 2 ||
+|-
+| 高等盲斗(Greater Blind-Fight)* || 专长(APG) || 2 ||
+|-
+| 高等命令术(Greater command) || 法术 || 3 ||
+|-
+| 高等行动禁制(Greater forbid action) || 法术(UM) || 3 ||
+|-
+| 闪电步(Lightning Stance) || 专长 || 3 ||
+|-
+| 行影术(Shadow walk) || 法术 || 3 || 仅限自身
+|-
+| 强迫护卫(Unwilling shield) || 法术(APG) || 3 ||
+|}
+
+{| class="wikitable sortable"
+|-
+! 名称 !! 类型 !! 消耗权能 !! 备注
+|-
+| 神圣化身(Divine vessel) || 法术(APG) || 3 ||
+|-
+| 预警术(Foresight) || 专长(APG) || 3 ||
+|-
+| 高等复原术(Greater restoration) || 法术 || 3 || 仅限自身
+|-
+| 再生术(Regenerate) || 法术 || 3 || 仅限自身
+|-
+| 排斥术(Repulsion) || 法术 || 3 ||
+|}
+
+== 本章条目 ==
+
+本章的[[变体职业]]都有各自的条目页：
+
+* [[黑蝰僧]]
+* [[僧官]]
+* [[卑铜门徒]]
+* [[混元门徒]]
+* [[天选神通]]
+* [[摔角手]]
+* [[镰切僧]]
+* [[完美学者]]
+* [[鳞爪僧]]
+* [[四象僧]]
+* [[蛇焰宗师]]
+* [[柔拳僧]]
+* [[风行大师]]
+* [[牧魂使]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhed58fa7c5a.htm 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

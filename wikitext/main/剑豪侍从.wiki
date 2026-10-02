@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 5），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=剑豪侍从
+|english_name=Swordlord's Page
+|type=地区
+|prerequisites=布雷斡
+|description=你曾在奥多里剑豪门下受训，虽然你自己还不是剑豪，但你已学会如何用武器重重一击。当你使用一把你擅长的有刃武器时，你在确认重击时获得+1攻击加值。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Swordlord%27s%20Page
+}}

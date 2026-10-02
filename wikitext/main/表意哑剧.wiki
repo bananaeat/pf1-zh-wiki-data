@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Monster Summoner's Handbook pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=表意哑剧
+|english_name=Expressive Pantomime
+|type=社会
+|description=你学会了不依赖言语来表达自己。尝试用[[唬骗]]检定传递秘密讯息时，你可以在检定上承受-5罚值，从而把简单的讯息传达给与你没有共通语言的生物。你无法与无心智生物交流。
+|source_name=怪物召唤者手册
+|source=MSH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Expressive%20Pantomime
+}}

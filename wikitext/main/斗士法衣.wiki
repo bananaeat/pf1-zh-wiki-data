@@ -1,0 +1,15 @@
+{{Spell
+|name=斗士法衣
+|english_name=Vestment of the champion
+|school=防护系
+|levels=反圣武士 2;圣武士 2
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的盔甲或盾牌
+|duration=1分钟/等级
+|save=无
+|sr=否
+|description=该法术的功能如同[[魔化防具]] 一般，不过它只影响你正在穿着或携带着的盔甲或盾牌。如果盔甲或盾牌被除你之外的其他人穿戴或携带的话，该法术会失效，但是当这些装备重回你手中时会再次生效。
+|source=极限魔法
+}}

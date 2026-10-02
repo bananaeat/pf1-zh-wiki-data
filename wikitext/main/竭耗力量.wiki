@@ -1,0 +1,10 @@
+{{Feat
+|name=竭耗力量
+|english_name=Consume Power
+|categories=种族
+|description=你可以同化魔法物品来增强力量。
+|prerequisites=[[法术辨识]]3级，汲魂木
+|benefit=每日一次以[[整轮动作]]，你可以竭耗一件你拥有的魔法物品。该物品因此被摧毁，但你恢复1D6+该物品每施法者等级1点生命值。并且，你在攻击与伤害骰上获得+1加值，持续轮数等于物品的施法者等级。
+|source_name=格拉利昂的英雄
+|source_url=https://pf1chm.pages.dev/topics/zhe4b6469482.htm
+}}

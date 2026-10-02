@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Agents of Evil pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=持久凶猛
+|english_name=Lasting Ferociousness
+|type=种族
+|prerequisites=半兽人
+|description=将你通过兽人凶猛种族特性能够以[[瘫痪]]状态行动的轮数提高到2轮。
+|source_name=邪恶特务
+|source=AoE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Lasting%20Ferociousness
+}}

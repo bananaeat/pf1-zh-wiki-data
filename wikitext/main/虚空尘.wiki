@@ -1,0 +1,14 @@
+{{魔法物品
+|name=虚空尘
+|english_name=Void Dust
+|aon=MagicWondrousDisplay.aspx?FinalName=Void Dust
+|cat=奇物
+|aura=中等变化系
+|cl=11
+|slot=无
+|price=4,500 gp
+|description=一撮虚空尘灌注了毁灭的本质，能够解消力场效果。若将它洒在力场效果上或朝其抛掷，它如同[[解除魔法]]一般作用；若该力场效果免疫解除魔法，则如同[[解离术]]一般作用。虚空尘可以洒在邻近的力场效果上，或抛向最远10尺外。抛掷不需要攻击检定。一撮只能影响一个力场效果。每份虚空尘装有三撮。
+|req=[[制造奇物]]、[[解离术]]
+|cost=2,250 gp
+|source=极限宝具
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=临时武器熟稔
+|english_name=Improvised Weapon Mastery
+|categories=战斗
+|description=你可以把手边的任何东西转变为致命的武器，从尖利的椅子腿到装满面粉的袋子。
+|prerequisites=随手武器或随手投掷，基本攻击加值+8。
+|benefit=你在使用临时武器时不受任何减值。临时武器的伤害骰上升一个级别（例如1d4变为1d6）但最高仅到d8（双手临时武器则最高为2d6）。临时武器重击范围为19-20，重击倍率×2。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

@@ -1,0 +1,49 @@
+{{速查导航}}
+{{怪物
+|name=地精骑兵
+|english_name=Goblin Outrider
+|cr=1
+|xp=400
+|classline=地精游侠2
+|alignment=中立邪恶
+|size=小型
+|type=类人生物
+|subtypes=地精亚种
+|init=+4
+|senses=黑暗视觉60尺；察觉+6
+|description=没有哪个种族比地精更热爱骑着自己的坐骑冲进战场了。
+|ac=20，接触15，措手不及16（+3护甲，+4敏捷，+2盾牌，+1体型）
+|hp=19（2d10+4）
+|fort=+4
+|ref=+7
+|will=+1
+|speed=30尺
+|melee=精制品屠狗刃+5(1d4+1/19-20)
+|ranged=短弓+7(1d4/x3)
+|special_attacks=战斗流派（骑乘），宿敌（人类+2）
+|tactics=<div class="ml wide"><span class="k">战斗中</span>地精骑兵发射箭矢或投掷炽火胶，然后再转而使用猛力攻击和走马掠击冲击近战中的敌人。</div>
+|str=13
+|dex=18
+|con=13
+|int=10
+|wis=12
+|cha=6
+|bab=+2
+|cmb=+2
+|cmd=16
+|feats=[[猛力攻击]];走马掠击
+|skills=[[特技]]动作+3;[[驯养动物]]+3;[[察觉]]+6;[[骑术]]+10;[[隐匿]]+14;[[游泳]]+3
+|racial_mods=+4 骑术，+4 隐匿
+|languages=地精语
+|sq=追踪+1;野性认同+0
+|combat_gear=牛之力量药水;治疗轻伤药水 x2;炽火胶 x4;绊足包 x2
+|gear=镶嵌皮甲;重木盾;精制品屠狗刃;短弓和20支精制品箭;火柴 x7;巨壁虎坐骑;2GP
+|source=怪物志
+|family=地精（怪物志）
+|npc=1
+|environment=温带森林和平原（通常为沿海地区）
+|lore=
+虽然大多数地精偏好地精狗，座狼或是狼作为自己的坐骑，但也有一些地精更喜欢骑乘奇怪的动物，比如[[巨壁虎]]。
+}}
+
+本页译自《[[怪物志]]》的怪物图鉴 CHM。

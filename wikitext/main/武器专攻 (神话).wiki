@@ -1,0 +1,13 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[武器专攻]] 的神话版本。</small></div>
+{{Feat
+|name=武器专攻
+|english_name=Weapon Focus
+|categories=神话
+|description=你已经精通了某一类武器的使用方法。
+|prerequisites=[[武器专攻]]
+|benefit=你的[[武器专攻]]和[[高等武器专攻]]对攻击检定所赋予的加值翻倍。以[[迅捷动作]]，你能够花费1次神话之力，以此使得你所选择的武器做出的攻击检定获得加值，数值等同于你的阶层的一半，持续至你的回合结束为止。
+|special=若你多次选取了非神话版的武器专攻，那么你就必须选择由哪个专长获得上述增强。你能够多次选取该专长，其效果不会叠加。每当你选取该专长，它都会应用于你所具有的不同的非神话版武器专攻专长。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

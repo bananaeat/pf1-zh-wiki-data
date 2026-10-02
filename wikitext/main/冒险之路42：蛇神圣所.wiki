@@ -1,0 +1,40 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #42: Sanctum of the Serpent God
+|authors=Neil Spicer
+|pages=96
+}}
+
+{{书页/简介|head=蛇神出击|1=
+在不见天日的圣所中，蛇人大军正在集结，要让地上世界屈膝臣服。死去之神耶德希斯（Ydersius）的颅骨再度落入其崇拜者之手，獠牙狂信徒们已开始复活他们被杀之神的仪式。只有英雄们挡在蛇人与它们的疯狂阴谋之间——后者要把存在中最邪恶的暴君之一，再次释放到世上。PC 们能否聚集所需的武器与盟友，反击蛇群，一劳永逸地杀死这位被斩首的神，还是因失败而迎来蛇之纪元？在「蛇神颅骨」冒险之路这场高潮中，决定整个世界的命运吧！
+
+本册《冒险之路》内容包括：
+
+* Neil Spicer 的开拓者角色扮演游戏冒险《蛇神圣所》（"Sanctum of the Serpent God"），适用于 15 级角色。
+* James Jacobs 提供的助力与建议，让你在「蛇神颅骨」冒险之路的高潮之后继续对[[蛇人(怪物)|蛇人]]的战争。
+* Rob McCreary 揭露被斩首的蛇人之神耶德希斯那阴森蛇教的秘密。
+* 「探索者日志」凯旋的终章，作者 Robin D. Laws。
+* Jesse Benner、Rob McCreary 与 Neil Spicer 设计的五种新怪物。
+}}
+
+'''冒险之路42：蛇神圣所'''（''Pathfinder #42: Sanctum of the Serpent God''）是[[冒险之路]]「蛇神颅骨」系列的第六章，也是最终章冒险，由 Neil Spicer 撰写，配套文章出自 Jesse Benner、James Jacobs 和 Rob McCreary，小说出自 Robin D. Laws，于 2011 年 2 月 16 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+蛇神圣所 @ 6
+「蛇神颅骨」之后 @ 58
+耶德希斯 @ 66
+探索者日志：光之瘟疫（6／6） @ 72
+怪物图鉴 @ 78
+预设角色 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Sanctum of the Serpent God
+|releases=PDF¦PZO9042E¦2011-02¦；Softcover¦PZO9042¦2011-02¦978-1-60125-307-1
+}}
+
+[[分类:书目]]

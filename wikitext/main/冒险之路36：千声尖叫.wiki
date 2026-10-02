@@ -1,0 +1,48 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #36: Sound of a Thousand Screams
+|authors=Richard Pett
+|pages=96
+}}
+
+{{书页/简介|head=疯狂的世界|1=
+随着被窃之地的危险被制服，PC 们成为这片疆域的领主。但在他们王国一个不起眼的角落里，一场数百年之久的阴谋逐渐成形，要把这片土地本身变成致命的敌人，威胁着让他们的整个国家覆灭。随着被窃之地与一个疯狂的异界之间的界线开始崩塌，PC 们必须拯救自己的子民，使其免遭发狂的自然，以及来自超乎想象的另一种现实的使者之害。可是，面对第一世界的狂怒，他们能否保住自己的王国——以及自己的理智？
+
+本册《冒险之路》为「拥王者」冒险之路画上激动人心的句号，内容包括：
+
+* 《千声尖叫》，一部面向 15 级角色的开拓者角色扮演游戏冒险，作者 Richard Pett。
+* 让你的拥王者战役在冒险之路结束之后继续运转的阴险图谋与高等级挑战，作者 F. Wesley Schneider。
+* 探索[[第一世界]]——妖精的故乡、不可能之地，作者 James L. Sutter。
+* 在「探索者日志」中，战场上的真相揭露与不幸的事实，等待着有志成为探索者的 Ollix Kaddar，作者 Jay Thompson。
+* 五种新怪物，作者 Gareth Hanrahan、Patrick Renie。
+}}
+
+'''冒险之路36：千声尖叫'''（''Pathfinder #36: Sound of a Thousand Screams''）是 Richard Pett 撰写的一部冒险，配套材料出自 Gareth Hanrahan、Patrick Renie、F. Wesley Schneider 和 James L. Sutter，小说出自 Jay Thompson，于 2010 年 8 月 5 日发售。它是六部冒险组成的[[冒险之路]]「拥王者」系列的最终章。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+千声尖叫 @ 6
+超越拥王者 @ 56
+[[第一世界]] @ 64
+探索者日志：浪子（6／6） @ 72
+怪物图鉴 @ 78
+- [[死魂精]]
+- [[魔猫]]
+• 魔猫幼崽
+- [[格罗代尔]]
+- [[斯克里克荨麻]]
+- [[佐莫克]]
+预设角色 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Sound of a Thousand Screams
+|releases=PDF¦PZO9036E¦2010-08¦；Softcover¦PZO9036¦2010-08¦
+}}
+
+<small>CHM 汉化里没有这本书的译名，书名是本站定的。</small>
+
+[[分类:书目]]

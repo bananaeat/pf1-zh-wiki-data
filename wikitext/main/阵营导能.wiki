@@ -1,0 +1,16 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[阵营导能 (神话)]]。</small></div>
+{{Feat
+|name=阵营导能
+|english_name=Alignment Channel
+|description=选择混乱，邪恶，善良或是秩序阵营。你能引导神力来影响对应阵营的异界生物。
+|prerequisites=引导能量能力。
+|benefit=取代通常效果，你能选择[[引导能量]]来治疗或伤害一个特定阵营亚种的异界生物。你必须在每次引导能量时作出决定。若你选择治疗或伤害选定阵营亚种的异界生物，你的引导能量将不会对其他生物产生影响。治疗和伤害量、以及豁免DC不做改变。
+|special=你可以多次选择本专长，效果并不叠加。每次选择本专长时，可以选择一个新的阵营。当你引导能量时，你必须决定影响哪个阵营。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[阵营武具]]（1 个条目）

@@ -1,0 +1,10 @@
+{{Feat
+|name=限制法术
+|english_name=Conditional Spell
+|categories=超魔
+|description=你知道如何在让一个生物如何从你的法术中获得益处这件事上加以限制。
+|benefit=限制法术受法术[[条件式恩惠]]（《[[极限诡道]]》206页）所列规则的约束。一个限制法术须占用高于原本1个环位的法术位
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_704.html
+}}

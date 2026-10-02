@@ -1,0 +1,15 @@
+{{Feat
+|name=高等野性认同
+|english_name=Greater Wild Empathy
+|description=你与自然天人合一。
+|prerequisites=[[知识]]（自然）5级，【野性认同】职业特性。
+|benefit=你在野性认同的检定上获得+2洞察加值，并且你可以使用野性认同时用恐吓检定代替交涉检定。另外，选择下列一种生物类型：元素、精类、兽化人、植物或者虫类。如果所选类型的生物智力为1或2或者没有智力，则你可以用野性认同影响它们。一旦你选择好了生物类型就不能再改变。
+|special=你可以多次选择本专长，每次你可以选择一个额外的生物类型。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[威吓动物]]（1 个条目）

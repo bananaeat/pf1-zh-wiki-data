@@ -1,0 +1,9 @@
+{{Trait
+|name=河域狙击手
+|english_name=River Sniper
+|type=地区
+|prerequisites=河域诸国
+|description=跟海上的海盗不同，你的战斗大部分都是船贴船的近距离作战，而且明白瞄准得当的箭头能有多大作用。当在水运船只的甲板上时，你的远程武器攻击获得+1背景加值。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

@@ -1,0 +1,19 @@
+{{武器
+|name=麦德森轻机枪
+|english_name=Madsen light machine gun
+|category=火器
+|prof=异种
+|wcat=双手
+|price=1,000 gp
+|weight=20磅
+|dmg_m=2d6
+|crit=×4
+|range=100尺
+|type=钝击和穿刺
+|special=自动
+|misfire=1-2
+|capacity=20, 30, or 40
+|groups=火器
+|description=这挺威风凛凛的机枪足够轻便，单人即可携带和使用。它是为露西亚军队配用7.62×54mmR弹药而造的，采用顶部装填的可拆卸20发、30发或40发弹匣。和大多数机枪一样，它只能自动射击。
+|source=冒险之路71：拉斯普京必须死！
+}}

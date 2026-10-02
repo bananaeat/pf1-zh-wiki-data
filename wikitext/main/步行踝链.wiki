@@ -1,0 +1,15 @@
+{{魔法物品
+|name=步行踝链
+|english_name=Ankle Chains of Walking
+|aon=MagicWondrousDisplay.aspx?FinalName=Ankle Chains of Walking
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=脚部
+|price=6,000 gp
+|weight=5磅
+|description=这些钢制镣铐由一条2尺长的链条连接，镣铐上点缀着断足图案的铅质镶嵌。当以一个[[整轮动作]]将其锁在一个[[无助]]或自愿的生物的脚踝上时，该生物在其所有移动形式上只能以正常速度的一半移动。置上踝链的生物可用命令字将其移除；任何生物通过一次成功的DC 30[[解除装置]]检定也可移除；被束缚的生物可通过一次成功的DC 30[[脱逃]]检定移除。解除踝链上的魔法并不能帮助移除它，但在其效果被压制或被解除期间，确实会使置上踝链的生物无法使用命令字将其移除。
+|req=[[制造奇物]]、[[缓慢术]]
+|cost=3,000 gp
+|source=恶棍志
+}}

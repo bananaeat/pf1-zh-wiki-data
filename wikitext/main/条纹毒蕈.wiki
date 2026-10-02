@@ -1,0 +1,13 @@
+{{危害
+|name=条纹毒蕈
+|english_name=Striped toadstool
+|kind=毒药
+|type=摄入
+|save=强韧 DC 11
+|onset=10分钟
+|frequency=1次/分钟，持续4分钟
+|effect=1d3点感知伤害和1点智力伤害
+|cure=1次豁免成功
+|price=180 gp
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Giantslayer Player's Guide pg. 6, Giant Hunter's Handbook pg. 30），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=龙敌
+|english_name=Dragonfoe
+|type=战役
+|pfs=否
+|description=你一直憎恨龙。也许你的某位祖先是知名的屠龙者，或是一条横冲直撞的龙杀害了你的家人或朋友。也许你从小听到的那些骑士从邪恶巨龙魔爪中救出被俘王子和公主的故事，激励你去屠龙。无论你执着于此的原因是什么，它都驱使你去研究如何与龙战斗，以及如何防御它们可怕的攻击。对抗龙类型的生物时，你的AC获得+1闪避加值，并且对抗喷吐武器攻击的反射豁免检定获得+2背景加值。
+|source_name=Giantslayer Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Dragonfoe
+}}

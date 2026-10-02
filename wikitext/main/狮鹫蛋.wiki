@@ -1,0 +1,9 @@
+{{装备
+|name=狮鹫蛋
+|english_name=Griffon egg
+|cat=坐骑与宠物
+|price=3,500 gp
+|weight=10磅
+|description=无良的冒险者和走投无路之人有时会从狮鹫巢中偷蛋，因为驯兽师发现，从幼崽养起一头狮鹫，要比训练一头桀骜不驯的成年狮鹫容易。
+|source=极限宝具
+}}

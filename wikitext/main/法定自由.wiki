@@ -1,0 +1,10 @@
+{{Trait
+|name=法定自由
+|english_name=Legalistic Liberation
+|type=地区
+|prerequisites=[[半身人]]；摩尔苏恩或奥西里昂
+|description=你遵循(可能被某些人称为利用)规则，通过在家乡用于规范奴隶制和奴役契约化的迷宫式法典中钻空子，获取你自己的自由。你在试图通过找到一种合法的方式逃避，拒绝或脱离一项责任时的所有知识检定上获得+1加值。你必须是[[半身人]]才能选择此背景
+|source_name=地区背景
+|source=HoG
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

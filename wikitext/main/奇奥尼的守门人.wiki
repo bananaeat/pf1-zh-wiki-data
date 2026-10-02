@@ -1,0 +1,10 @@
+{{Trait
+|name=奇奥尼的守门人
+|english_name=Kyonin Gatekeeper
+|type=地区
+|pfs=否
+|prerequisites=[[精灵]]，奇奥尼
+|description=你参与看守[[精灵]]传送门的任务并十分熟悉传送魔法的操作。你在辨识传送魔法的法术辨识检定上获得+1背景加值，并且你施展传送法术时的施法者等级检定获得+1背景加值。你知道如何使用恰当的口令来启动某一道特定的精灵传送门（多半是一道常被使用的精灵传送门，但GM可以决定它是一道较少使用或偏僻的精灵传送门）。【PFS】PFS 禁用。
+|source_name=格拉里昂的精灵
+|source_url=https://pf1chm.pages.dev/topics/zhd63cf5e76e.htm
+}}

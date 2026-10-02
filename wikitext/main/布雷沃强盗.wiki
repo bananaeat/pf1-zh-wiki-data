@@ -1,0 +1,10 @@
+{{Trait
+|name=布雷沃强盗
+|english_name=Brevoy Bandit
+|type=地区
+|prerequisites=米翁
+|description=你逃离了布雷沃当局的追捕，来到了米翁。不管你是否的确犯下被指控的罪行，你都准备在新环境中开始新的生活。选择一项专业技能和除感知之外的一项属性。在进行所选技能的技能检定时，将所选属性的调整值和感知调整值一起加到检定结果中。
+|source_name=河域子民
+|source=PotR
+|source_url=https://pf1chm.pages.dev/topics/zh576fd36972.htm
+}}

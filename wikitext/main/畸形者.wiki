@@ -1,0 +1,10 @@
+{{Trait
+|name=畸形者
+|english_name=Deformed
+|type=宗教
+|prerequisites=信仰[[拉玛什图]]
+|description=你极端的变异给予你在威吓检定上+1背景加值，并且威吓成为你的本职技能。【摘自 Evana 的翻译】
+|source_name=内海诸神
+|source=摘自 Evana 的翻译
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[壮硕形体 (神话)]]。</small></div>
+{{Feat
+|name=壮硕形体
+|english_name=Powerful Shape
+|description=你的自然变身是如此的威武霸气！
+|prerequisites=【自然变身】职业特性，德鲁伊8级。
+|benefit=自然变身状态中，在计算[[CMB]]、[[CMD]]、承载能力、或者任何你使用或对你使用的、与体型相关的[[特殊攻击]]（如[[通用怪物规则#攫抓|攫抓]]、[[通用怪物规则#活吞|活吞]]、[[通用怪物规则|践踏]]）时，将你的体型视为大一级。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

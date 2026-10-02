@@ -1,0 +1,10 @@
+{{Feat
+|name=制造科技装置
+|english_name=Craft Technological Item
+|pfs=否
+|description=你能够制造科技驱动的装置和器物。
+|prerequisites=技师，手艺（组装机械）5级，知识（工程学）5级
+|benefit=你能制造科技装置。制造科技装置需要花费价格每价值1000GP/1天的时间，以及需要你支付价格一半的原材料费用。见下文制造高科技物品章以获得更多信息。除此之外，你还可以修复损坏的科技装置（只要你可以制造它们）。修理一件科技装置需要花费制造该装置的原材料花费和制造时间的一半。
+|source_name=科技指南
+|source_url=https://pf1chm.pages.dev/topics/page_762.html
+}}

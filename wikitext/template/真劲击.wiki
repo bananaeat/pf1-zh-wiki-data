@@ -1,0 +1,14 @@
+<includeonly><div class="feat style-strike" id="{{{name}}}" style="margin:0;padding:.65em .85em .7em"><!--
+--><div class="feat-head" style="margin-bottom:.4em;padding-bottom:.3em"><!--
+--><div class="feat-name" style="font-size:1.2em">{{{name}}}<span class="feat-cats">{{#if:{{{part|}}}|<span class="tag">{{{part}}}</span>}}{{#if:{{{source|}}}|<span class="tag">{{{source}}}</span>}}</span></div><!--
+--><div class="feat-en" style="font-size:.88em">{{{en|}}}</div></div><!--
+--><div class="feat-benefit" style="line-height:1.7">{{{text|}}}</div></div></includeonly><noinclude>
+[[掉链武僧]]「真劲击」一节的小卡片：一条一张，放在 grid 里排成几列（手机上单列）。
+
+ {{真劲击|name=破山击|en=Shattering Punch|part=拳|text=若攻击命中，该次攻击穿透目标一切伤害减免和硬度。}}
+
+参数：name 中文名（同时当锚点 id，链接写 [[掉链武僧#破山击]]）、en 英文名、part 出招部位（拳／腿／头槌，可空）、
+source 出处（《解放者》以外才写，写成链接）、text 效果全文。沿用专长卡片 .feat 的样式，名字字号和内边距用行内样式压小。
+
+[[分类:模板]]
+</noinclude>

@@ -1,0 +1,19 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[魔化防具 (神话)]]。</small></div>
+{{Spell
+|name=魔化防具
+|english_name=Magic Vestment
+|school=变化系
+|levels=先知 3;审判者 3;战斗祭司 3;牧师 3;秘学士 3;萨满 3
+|domains=高贵领域 3;力量领域 3;战争领域 3
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=接触
+|target=接触到的护甲或盾牌
+|duration=1小时/等级
+|save=意志，通过则无效（无害，物体）
+|sr=是（无害, 物体）
+|description=你可以对一套护甲或盾牌赋予每四个CL+1增强加值 (最高为20级时的+5)。
+
+在判断该法术的功能时，普通服装被视为没有AC加值的护甲。
+|source=核心规则书
+}}

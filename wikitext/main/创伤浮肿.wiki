@@ -1,0 +1,14 @@
+{{危害
+|name=创伤浮肿
+|english_name=Woundweal
+|kind=毒药
+|type=伤口
+|save=强韧 DC 18
+|onset=1轮
+|frequency=1次/天
+|effect=治疗受阻（见下文）
+|cure=连续2次豁免成功
+|price=100 gp
+|description=这种沙砾质感的黑色糊状物是一种毒药，会干扰受影响生物从伤害中恢复的能力。对该生物进行的所有[[医疗]]检定都承受-10减值。此外，任何对目标使用魔法治疗的人，都必须通过一次 DC 25 的施法者等级检定才能成功。
+|source=冒险者的军械库
+}}

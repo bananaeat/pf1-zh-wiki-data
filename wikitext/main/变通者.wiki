@@ -1,0 +1,9 @@
+{{Trait
+|name=变通者
+|english_name=Ease of Faith
+|type=信念
+|description=在你儿时便指引你信仰之途的那位导师，循循善诱地致力于让你理解一个信条：你的信仰之力，与魔法之力和其他宗教力量相较并无二致。这种哲学使你和持有异见者交流时更为从善如流。你的交涉检定获得+1加值，并且总能将交涉视为你的[[本职技能]]。
+|source_name=信念背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

@@ -1,0 +1,46 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #90: The Divinity Drive
+|authors=Crystal Frasier
+|pages=96
+}}
+
+{{书页/简介|head=进入神明的心智|1=
+银山——这座高耸的废墟，以其异界宝物的许诺，长久以来吸引着内海各地的探险者与冒险家，但在它那些异星厅室里等待着的，远不止财富。钢铁诸神中最强大的一位栖居于此，不可阻挡地筹划着对血肉世界的图谋，并为自己最终的胜利降临做着准备。随着星陨城那粗暴的统治被压服，PC 们正可发起有史以来最大规模、最为凶险的银山神秘内部远征。在格拉利昂最传奇的地城之一，来自星空之外的什么奇异危险正等待着英雄们？而这位钢铁之神又在这些金属墙壁之内为他们布下了怎样阴险的陷阱？
+
+本册《冒险之路》为「钢铁诸神」冒险之路收官，内容包括：
+
+* 《神性驱动器》，一部面向 15 级角色的开拓者冒险，作者 Crystal Frasier。
+* 用以扩展你的「钢铁诸神」战役的危险阴谋，作者 Adam Daigle 和 James Jacobs。
+* 对机器人内部运作的一瞥，作者 Greg A. Vaughan。
+* 「探索者日志」扣人心弦的终章，作者 Amber E. Scott。
+* 五种危险的新怪物，作者 Adam Daigle、Crystal Frasier、Thurston Hillman 和 Will McCardell。
+}}
+
+'''冒险之路90：神性驱动器'''（''Pathfinder #90: The Divinity Drive''）是[[冒险之路]]「钢铁诸神」系列的一部冒险，由 Crystal Frasier 撰写，配套文章出自 Adam Daigle、James Jacobs、Greg A. Vaughan、Thurston Hillman 和 Will McCardell，小说出自 Amber E. Scott，于 2015 年 1 月 28 日发售。它是「钢铁诸神」冒险之路的第六章，也是最终章。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+神性驱动器 @ 6
+NPC 图集 @ 56
+钢铁诸神宝藏 @ 60
+- 钢铁之神的武装（Arms of the Iron God）
+- 神性驱动器（Divinity Drive）
+- 强化芬加尔（enhanced fengar）
+- 记忆晶面：创造、残酷、本能、直觉、逻辑、心灵（memory facets: creativity, cruelty, instinct, intuition, logic, psyche）
+- 融心器（mindmelder）
+继续战役 @ 64
+机器人生态 @ 68
+探索者日志：荒原低语（6／6） @ 74
+怪物图鉴 @ 80
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=The Divinity Drive
+|releases=PDF¦PZO9090E¦2015-01¦；Softcover¦PZO9090¦2015-01¦978-1-60125-724-6
+}}
+
+[[分类:书目]]

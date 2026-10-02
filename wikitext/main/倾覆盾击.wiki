@@ -1,0 +1,11 @@
+{{Feat
+|name=倾覆盾击
+|english_name=Toppling Bash
+|categories=盾牌掌握;战斗
+|description=你的盾击可以使你的敌人失去平衡。
+|prerequisites=[[精通盾击]]，[[盾牌专攻]]，[[衰弱盾击]]，BAB+11或者战士8级。
+|benefit=在你盾击一个生物时，你能以[[迅捷动作]]承受-5减值对该生物进行一次[[摔绊]][[战技]]尝试。这不会导致[[借机攻击]]，且即便你失败10点或以上，你也不会被击倒在地。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_361.html
+}}

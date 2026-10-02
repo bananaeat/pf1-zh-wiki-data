@@ -1,0 +1,47 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #94: Ice Tomb of the Giant Queen
+|authors=Jim Groves
+|pages=96
+}}
+
+{{书页/简介|head=|1=
+英雄们循着风暴暴君大军的踪迹，来到一座充当训练营的霜巨人村庄，统领它的是一位霜巨人[[死墓骑士]]，在一座冰封的地穴中发号施令。英雄们以游击战术削弱巨人大军、瓦解营地的同时，可以与一头为一己之私而想要渗透村庄的红龙结盟。一旦打垮了巨人的队伍，英雄们就将深入一座冰冻的陵墓，在与巨人那可怖的首领展开终极之战前，他们必须先击败[[厄加图娅|苍姬]]的邪教徒、阴森的墓巨人和不死的战争机器！
+
+本册《冒险之路》延续「巨人杀手」冒险之路，内容包括：
+
+* 《巨人女王的冰墓》，一部面向 10 级角色的开拓者冒险，作者 Jim Groves。
+* 内海最可怕的几位[[死墓骑士]]一览，作者 John Compton。
+* 格拉利昂几个最著名的巨人组织详情，作者 Mark Moreland。
+* 「探索者日志」中一则关于阴影与欺骗的故事，作者 Clinton J. Boomer。
+* 「巨人杀手」怪物图鉴中精选的新怪物，作者 Benjamin Bruck、Jim Groves、Thurston Hillman。
+}}
+
+'''冒险之路94：巨人女王的冰墓'''（''Pathfinder #94: Ice Tomb of the Giant Queen''）是 Jim Groves 撰写的一部冒险，配套文章出自 John Compton、Mark Moreland、Benjamin Bruck 和 Thurston Hillman，小说出自 Clinton J. Boomer，于 2015 年 6 月 24 日发售。它是[[冒险之路]]「巨人杀手」系列的第四章。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+巨人女王的冰墓 @ 6
+NPC 图集 @ 58
+- Naximarra
+- Skirkatla
+披甲凶魔 @ 62
+泰坦联盟 @ 68
+探索者日志：离奇传说（4／6） @ 74
+怪物图鉴 @ 80
+- [[比雷鲁]]
+- 墓巨人
+- [[因达鲁甘特]]
+- [[活体雕像]]
+- [[瑟雷明迪尔]]
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Ice Tomb of the Giant Queen
+|releases=PDF¦PZO9094E¦2015-06¦；Softcover¦PZO9094¦2015-06¦
+}}
+
+[[分类:书目]]

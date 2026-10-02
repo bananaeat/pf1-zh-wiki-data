@@ -1,0 +1,14 @@
+{{Spell
+|name=高等法力吸收
+|english_name=Spell Absorption, Greater
+|school=防护系
+|levels=奥能师 8;术士 8;法师 8
+|action=1轮
+|components=语言;姿势;材料（一块棱镜）
+|range=个人
+|target=你
+|duration=1轮/等级
+|sr=否
+|description=该法术的功能与法力吸收相同，不过你能够反制并吸收的是6级或更低等级的法术。
+|source=内海魔法
+}}

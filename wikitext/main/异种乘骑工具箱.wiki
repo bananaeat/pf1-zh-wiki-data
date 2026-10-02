@@ -1,0 +1,9 @@
+{{装备
+|name=异种乘骑工具箱
+|english_name=Riding kit (exotic mount)
+|cat=套装
+|price=36 gp
+|weight=59磅
+|description=该工具箱包括1套嚼子和缰绳、1个马鞍、1张鞍毯、1套鞍袋，以及异种坐骑2天份的饲料。丢弃饲料可使重量减轻10磅。
+|source=探索者协会战地指南、极限宝具
+}}

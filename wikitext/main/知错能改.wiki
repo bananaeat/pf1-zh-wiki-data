@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[知错能改 (神话)]]。</small></div>
+{{Feat
+|name=知错能改
+|english_name=Strong Comeback
+|description=你从过去犯下的错误中学到很多东西。
+|benefit=每当你能够对一次属性检定、技能检定或豁免检定进行重骰时，重骰获得+2环境加值。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

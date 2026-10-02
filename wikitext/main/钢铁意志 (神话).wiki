@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[钢铁意志]] 的神话版本。</small></div>
+{{Feat
+|name=钢铁意志
+|english_name=Iron Will
+|categories=神话
+|description=你的意志绝不会动摇。
+|prerequisites=[[钢铁意志]]
+|benefit=每当你在对抗由非神话来源产生的法术、类法术能力或者超自然能力的意志豁免时，做两次检定并取较高结果。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

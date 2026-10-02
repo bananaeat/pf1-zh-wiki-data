@@ -1,0 +1,11 @@
+<noinclude>{{消歧义|壁垒}}</noinclude>
+<noinclude>{{调查员导航}}
+'''壁垒'''（Castling, Ex）是[[调查员]]的[[调查员天赋|调查员天赋]]。
+
+</noinclude>{{Source|元素大师手册|Elemental Master's Handbook|inline}}
+
+同名[[盗贼天赋]]，调查员也可以选取，规则见[[壁垒(盗贼天赋)|壁垒]]。<noinclude>
+
+[[分类:调查员天赋]]
+
+{{职业}}</noinclude>

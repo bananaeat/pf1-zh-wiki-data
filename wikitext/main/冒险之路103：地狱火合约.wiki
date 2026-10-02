@@ -1,0 +1,43 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #103: The Hellfire Compact
+|authors=F. Wesley Schneider
+|pages=96
+}}
+
+{{书页/简介|head=地狱大乱！|1=
+「地狱复仇」冒险之路以《地狱火合约》拉开帷幕——一部令人兴奋的全新冒险，玩家们将在魔鬼当道的切利亚斯帝国里扮演邪恶角色！一位[[艾奥梅黛]]的圣武士、“荣耀光复军”（Glorious Reclamation）的游侠骑士来到朗埃克（Longacre）镇，鼓舞市民加入反抗“三度诅咒”的特鲁恩家族的起义。邪恶的冒险者们先是作为不讲道义的佣兵，继而成为朗埃克邪恶大男爵（archbaron）的家臣，必须迅速行动，镇压叛乱，阻止城镇落入这位骑士的叛军手中。
+
+本册《冒险之路》开启「地狱复仇」冒险之路，内容包括：
+
+* 《地狱火合约》，一部面向 1 级角色的开拓者冒险，作者 F. Wesley Schneider。
+* 朗埃克——本冒险的舞台、切利亚斯的一座小镇——的地志，作者 F. Wesley Schneider。
+* 详述荣耀光复军——一个效忠艾奥梅黛、点燃本战役事件的骑士团，作者 Rob McCreary。
+* 在「探索者日志」中，来自远方的魔法乱局与不祥之兆，作者 Josh Vogt。
+* 一份由令人胆寒的新怪物组成的怪物图鉴，作者 Paris Crenshaw、Mikko Kallio 和 Jason Keeley。
+}}
+
+'''冒险之路103：地狱火合约'''（''Pathfinder #103: The Hellfire Compact''）是[[冒险之路]]「地狱复仇」系列的第一部冒险，由 F. Wesley Schneider 撰写，配套文章出自 Rob McCreary、Mark Moreland、Paris Crenshaw、Mikko Kallio 和 Jason Keeley，小说出自 Josh Vogt，于 2016 年 2 月 24 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+地狱火合约 @ 4
+NPC 图集 @ 56
+认识反派：Lazzero Dalvera @ 60
+朗埃克（Longacre） @ 62
+荣耀光复军 @ 68
+探索者日志：懦夫与乌鸦（1／6） @ 74
+怪物图鉴 @ 80
+战役概要 @ 90
+}}
+
+{{书页尾
+|pfw=The Hellfire Compact
+|releases=Softcover¦PZO90103¦2016-02¦978-1-60125-818-2；PDF¦PZO90103E¦¦
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

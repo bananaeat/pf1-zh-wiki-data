@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=力量战姿
+|english_name=Strength Stance
+|type=Ex
+|class=掉链野蛮人
+|benefit=野蛮人可以呼唤出强有力的力量。她获得+1的[[战技]]表现加值和战技防御。该加值每4个等级便会提升1点。另外，她在举起，弯折，推动和打破物品时的力量检定获得+8的表现加值（不可用于战技）。该狂暴之力是一种战姿。
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

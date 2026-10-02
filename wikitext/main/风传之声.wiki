@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Elements pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=风传之声
+|english_name=Wind-Carried Voices
+|type=种族
+|prerequisites=风元素裔
+|description=你是看穿谎言、分享秘密的大师——风本身似乎会把你的声音送到你所信任的人那里。你为识破他人对你说谎而进行的[[察言观色]]检定获得+1背景加值。此外，只要你身处户外或处于有明显空气流动的区域，你就可以随意对30尺内的任何生物低语。你只能指定一名视线内的人听到你的声音，附近的生物通过一次DC 20的[[察觉]]检定即可听到这些信息。这是一项非凡能力，其他方面如同[[传讯术]]运作。
+|source_name=元素血脉
+|source=BotE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Wind-Carried%20Voices
+}}

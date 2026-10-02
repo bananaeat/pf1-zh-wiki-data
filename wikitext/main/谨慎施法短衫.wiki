@@ -1,0 +1,15 @@
+{{魔法物品
+|name=谨慎施法短衫
+|english_name=Tunic of Careful Casting
+|aon=MagicWondrousDisplay.aspx?FinalName=Tunic of Careful Casting
+|cat=奇物
+|aura=微弱防护系
+|cl=3
+|slot=胸部
+|price=5,000 gp
+|weight=1磅
+|description=这件羊毛衣装饰着用银线和黑线绣成的锁链相扣的图案。它能帮助穿戴者在施法时保持专注，使其专注检定获得+2加值。
+|req=[[制造奇物]]、[[战斗施法]]
+|cost=2,500 gp
+|source=极限宝具
+}}

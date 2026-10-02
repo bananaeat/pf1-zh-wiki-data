@@ -1,0 +1,10 @@
+{{Trait
+|name=贝丝玛拉之力
+|english_name=Besmara's Strength
+|type=宗教
+|prerequisites=信仰[[贝丝玛拉]]
+|description=在你踏足危险水域时，海盗女王偶尔会回应你的呼唤。每天一次，在尝试进行游泳检定时，你可以把水流速度视作缓和一级（比如把怒涛视作激流，把激流视作静水）。
+|source=PotW
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1192.html
+}}

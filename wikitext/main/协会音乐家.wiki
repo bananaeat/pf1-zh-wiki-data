@@ -1,0 +1,9 @@
+{{Trait
+|name=协会音乐家
+|english_name=Maestro of the Society
+|type=社会
+|prerequisites=[[吟游诗人]]，[[探索者协会]]
+|description=得益于艾巴萨罗姆探索者协会本部地下室大量的珍贵乐谱，格拉利昂众多伟大音乐家的技巧如今在你的指尖跃动。你在协会学到的音乐知识令你每天的吟游表演轮数增加3轮。
+|source_name=碎星玩家手册
+|source_url=https://pf1chm.pages.dev/topics/zhb4c4366d0e.htm
+}}

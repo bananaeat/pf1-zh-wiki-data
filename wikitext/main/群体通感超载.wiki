@@ -1,0 +1,16 @@
+{{Spell
+|name=群体通感超载
+|english_name=Synesthesia, Mass
+|school=幻术系 (魅影幻觉)
+|tags=影响心灵
+|levels=催眠师 5;异能者 7
+|action=标准动作
+|components=语言;姿势
+|range=中距（100尺 + 每等级10尺）
+|target=一个或更多个活物，任意两者之间的距离不超过30尺
+|duration=1轮/等级
+|save=意志，通过则无效
+|sr=是
+|description=该法术的功能如同[[通感超载]]一般，差异如上所述。
+|source=异能冒险
+}}

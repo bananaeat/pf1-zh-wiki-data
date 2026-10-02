@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[英勇自愈]] 的神话版本。</small></div>
+{{Feat
+|name=英勇自愈
+|english_name=Heroic Recovery
+|categories=神话
+|description=你能够在有害状态产生效果后摆脱它们。
+|prerequisites=[[英勇自愈]]
+|benefit=以[[迅捷动作]]，你能够花费1次神话之力额外使用1次[[英勇自愈]]专长。每当你这么做时，就将你的阶层加到强韧豁免的结果上。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

@@ -1,0 +1,14 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[魔法天赋 (神话)]]。</small></div>
+{{Feat
+|name=魔法天赋
+|english_name=Magical Aptitude
+|description=你在释放魔法和使用魔法物品方面有资质。
+|benefit=你的[[法术辨识]]与[[使用魔法装置]]检定获得+2加值。如果某技能受训等级10以上，则对应的加值改为+4。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[机关魔道具]]、[[虚假施法]]（2 个条目）

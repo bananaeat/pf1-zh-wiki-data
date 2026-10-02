@@ -1,0 +1,9 @@
+{{Trait
+|name=忠贞的爱
+|english_name=Unswaying Love
+|type=宗教
+|prerequisites=信仰[[纱琳]]
+|description=你对你的女神忠贞且纯洁的信仰保护你免受他人摆布。你在对抗魅惑和胁迫效果时豁免获得+2背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

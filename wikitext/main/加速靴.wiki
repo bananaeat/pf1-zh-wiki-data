@@ -1,0 +1,15 @@
+{{魔法物品
+|name=加速靴
+|english_name=Boots of Speed
+|aon=MagicWondrousDisplay.aspx?FinalName=Boots of Speed
+|cat=奇物
+|aura=中等变化系
+|cl=10
+|slot=脚部
+|price=12,000 gp
+|weight=1磅
+|description=穿戴者可以用[[自由动作]]将靴跟互击，使她如同受到加速术影响，每天最多10轮。加速效果的持续时间不必是连续的轮数。
+|req=[[制造奇物]]、[[加速术]]
+|cost=6,000 gp
+|source=核心规则书、极限宝具
+}}

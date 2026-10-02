@@ -1,0 +1,11 @@
+{{Feat
+|name=注视增距
+|english_name=Extended Stare
+|description=你的催眠注视具有更远的范围。
+|prerequisites=催眠注视职业能力
+|benefit=你的催眠注视的范围增加10尺。
+|special=你可以多次选取该专长，其效果会叠加。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

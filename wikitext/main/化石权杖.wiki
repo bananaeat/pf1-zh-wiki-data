@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=化石权杖
+|english_name=Fossilizing Rod
+|aon=MagicRodsDisplay.aspx?FinalName=Fossilizing Rod
+|cat=权杖
+|aura=中等塑能系、死灵系
+|cl=11
+|slot=无
+|price=26,400 gp
+|weight=4磅
+|description=这根前臂长的缟玛瑙杖顶端镶着一颗琥珀球。每天1次，当化石权杖的持有者施展[[操纵死尸]]来操纵骷髅时，她可以为这些骷髅灌注使其化石化的大地能量。化石骷髅获得土系子类型，敏捷降低4点，速度降低10尺，并且即使生前能以魔法飞行也无法飞行。不过，由于石质渗入了骨骼，化石骷髅获得硬度8。
+|req=[[制造权杖]]、[[石化术]]
+|cost=13,200 gp
+|source=元素大师手册
+}}

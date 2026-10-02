@@ -1,0 +1,15 @@
+{{Feat
+|name=岳峙巅
+|english_name=Indomitable Mountain Peak
+|categories=战斗
+|description=你变得更难移动或通过。
+|prerequisites=感知15，[[战斗反射]]，[[精通徒手打击]]，[[岳峙流]]，基础攻击加值+6。
+|benefit=每当对手成功对你释放[[战技]]，或在通过你威胁的空间的特技检定中成功时，你立即在下一次对抗战技检定的[[CMD]]，和下一次对抗通过你威胁的空间的特技检定中的DC上，获得+2士气加值。此加值可以叠加，直到对你的任何一次上述尝试失败为止。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[岳峙渊渟]]（1 个条目）

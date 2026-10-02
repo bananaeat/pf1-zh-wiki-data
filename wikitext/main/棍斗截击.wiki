@@ -1,0 +1,11 @@
+{{Feat
+|name=棍斗截击
+|english_name=Stick-Fighting Counter
+|categories=战斗
+|description=结合棍斗技法的防御与攻击，你可以在招架中进行反击。
+|prerequisites=棍斗流，基本攻击加值+4
+|benefit=当你防御式战斗时，你可以用一个自由动作选择一个你在当轮攻击过的敌人，准备招架他的一次攻击。每轮一次，当该敌人尝试对你进行近战攻击且失手时，攻击者如果处于你的威胁范围内，会引发你的一次借机攻击。你必须使用木棒，木棍，短棒，闷棍或旋棍执行借机攻击。
+|source=MAH
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/page_1337.html
+}}

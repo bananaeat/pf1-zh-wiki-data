@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 19），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=耐寒体魄
+|english_name=Cold Fortitude
+|type=种族
+|pfs=否
+|prerequisites=狗头人
+|description=你幼年时身处终年寒冷的环境，这使你在极地气候中格外坚韧。你在对抗寒冷非致命伤害的强韧豁免检定上获得+4背景加值。
+|source_name=格拉利昂的狗头人
+|source=KoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Cold%20Fortitude
+}}

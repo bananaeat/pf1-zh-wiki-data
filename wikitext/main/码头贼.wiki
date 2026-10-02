@@ -1,0 +1,11 @@
+{{Trait
+|name=码头贼
+|english_name=Wharf Rat
+|type=地区
+|prerequisites=欧斯坦索
+|description=你也许从没上过比垃圾驳船更大的船，但你这辈子一直在帮它们靠岸。
+|benefit=你在涉及攀爬和使用绳索的技能检定上获得+2背景加值；在不打开容器的情况下判断大宗散装货物价值的估价检定上获得+4背景加值。
+|source_name=地区背景
+|source=CEoD
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

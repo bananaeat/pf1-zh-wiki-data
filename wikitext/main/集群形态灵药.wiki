@@ -1,0 +1,14 @@
+{{魔法物品
+|name=集群形态灵药
+|english_name=Swarmform Elixir
+|aon=MagicWondrousDisplay.aspx?FinalName=Swarmform Elixir
+|cat=奇物
+|aura=中等变化系
+|cl=11
+|slot=无
+|price=3,300 gp
+|description=这个方形的罐子里装着悬浮在亮粉色液体中的死虫。饮用者喝下这种药剂后，他的身体会溶解成一群会蜇人的黄蜂，装备都掉落在地上。在这一变化期间，饮用者保留所有心智属性，但获得[[黄蜂群]]的物理属性。饮用者只能采取控制集群形态移动的行动，或纯粹的精神行动。如果在持续时间内的任何时刻集群的生命值降到0，效果立即结束，饮用者变回原来的形态。除此之外，这一效果持续1小时。
+|req=[[制造奇物]]、[[飞虫走兽]]
+|cost=1,650 gp
+|source=药剂与毒药
+}}

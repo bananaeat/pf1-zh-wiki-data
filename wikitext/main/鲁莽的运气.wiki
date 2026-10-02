@@ -1,0 +1,10 @@
+{{Trait
+|name=鲁莽的运气
+|english_name=Reckless Luck
+|type=宗教
+|prerequisites=信仰[[查尔迪菈·祖拉斯瑞]]
+|description=就像你的神一样，在其他人跌倒的时候你选择冲锋。当你在[[突袭]]轮或者第一轮做出冲锋攻击，你的AC获得+2背景加值，持续1轮。【摘自 时光子 的翻译】(未获授权)
+|source_name=内海诸神
+|source=摘自 时光子 的翻译
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

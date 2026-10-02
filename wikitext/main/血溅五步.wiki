@@ -1,0 +1,11 @@
+{{Feat
+|name=血溅五步
+|english_name=Bloodletting
+|categories=战斗
+|description=当你使用一件穿刺或挥砍武器攻击时，你得意于对手血如泉涌的窘境。
+|prerequisites=信仰宗-库松
+|benefit=每当你使用穿刺或挥砍武器对目标造成了一次重击威胁（无论此次威胁是否确认）时，你会使目标[[流血]]，每轮在目标行动开始时对他造成1点[[流血伤害]]。
+|source=FoP/FoB/FoC、ISG
+|source_name=纯善／平衡／堕落信念、内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=潜伏
+|english_name=Lie Low
+|description=你匍匐时将更难被发现。
+|benefit=若你从你的上一回合结束时就一直匍匐，通过察觉检定发现你的DC将会增加。你与搜索者之间距离每有20尺，DC就增加1，最多增加5（100尺处）。该专长带来的DC加值与正常情况下距离带来的察觉检定DC加值叠加。
+|notes=译注：根据察觉技能，正常情况下两者间距每10尺，察觉DC增加1。
+|source=RTT
+|source_name=远程战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_552.html
+}}

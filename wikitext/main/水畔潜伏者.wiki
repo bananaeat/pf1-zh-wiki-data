@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 199），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=水畔潜伏者
+|english_name=Water Lurker
+|type=种族
+|prerequisites=剪影人
+|description=你在水边一个隐秘的社群中长大，或许是在深汶的河流之间，或是民那塔的岛屿上。你的[[游泳]]检定获得+1背景加值，并且在水上船只中以及至少一半身体没入水中时，你的[[隐匿]]检定获得+2加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Water%20Lurker
+}}

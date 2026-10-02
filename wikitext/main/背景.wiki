@@ -1,0 +1,31 @@
+{{速查导航}}
+
+'''背景'''是《[[治疗者手册]]》的一章，21 条[[背景特性]]。
+
+== 本章条目 ==
+
+* [[血腥复仇(背景特性)|血腥复仇]]（Bloody Vengeance，宗教背景；薇尔迪斯）
+* [[医疗特使]]（Envoy of Healing，宗教背景；塞恩蕾）
+* [[战争伤痕]]（Scarred by War，宗教背景；Dalenydra）
+* [[灵魂搜寻者之力]]（Soul-Searcher's Strength，信念背景）
+* [[知名医师]]（Prestigious Healer，地区背景；切利亚斯）
+* [[楚业后裔]]（Heir of Chu Ye，地区背景；天夏）
+* [[艾欧巴瑞亚幸存者]]（Iobarian Survivor，地区背景；艾欧巴瑞亚）
+* [[镇咒者]]（Curse Queller，地区背景；奥西里昂）
+* [[受训药剂师]]（Educated Druggist，地区背景；奥斯布，苏比亚，天夏，乌斯塔拉夫）
+* [[法力废土医师]]（Mana Wastes Medic，地区背景；魔力荒漠）
+* [[熟练外科医生]]（Skilled Surgeon，地区背景；卡蒂亚，乌斯塔拉夫）
+* [[濒死体验]]（Near-Death Experience，地区背景；贝尔克泽恩）
+* [[女巫借贷]]（Debt to a Witch，地区背景；伊利森）
+* [[雅德维加医学]]（Jadwiga Medicine，地区背景；伊利森）
+* [[庇护主之赐]]（Patron's Boon，地区背景；拉哈多姆）
+* [[无信决意]]（Godless Resolve，地区背景；巴川，拉哈多姆，托维特）
+* [[续命表演]]（Sustaining Performance，地区背景；锁铐岛）
+* [[兽魂活力]]（Animal-Spirit Vitality，地区背景；奇奥尼）
+* [[游击改进者]]（Guerrilla Mender，地区背景；涅玛萨斯）
+* [[芒吉草药传统]]（Mwangi Herbal Tradition，地区背景；芒吉莽原）
+* [[英灵从者]]（Servitor of Spirits，地区背景；天夏）
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_703.html 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

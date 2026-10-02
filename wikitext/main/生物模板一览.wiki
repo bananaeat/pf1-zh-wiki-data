@@ -1,0 +1,338 @@
+{{速查导航|here=规则}}
+'''生物模板一览'''按 [https://aonprd.com/MonsterTemplates.aspx?ItemName=All AoN 的模板总表] 列出全部 164 个生物模板。模板的通用规则和几个最常用的简单模板见 [[魔宠和模板]]；站上已有的模板页都在 [[:分类:怪物模板|分类:怪物模板]]。
+
+中文名取自站上的模板页和 CHM 汉化；CHM 有译名但站上还没有页的只写名字、不挂链接；还没有中文的保留英文，列在 [[待办事项/对照/生物模板未译]] 等人补。
+
+{| class="wikitable sortable"
+! 模板 !! 英文 !! CR 调整 !! 简单模板 !! 可用于召唤 !! 出处
+|-
+| [[受诅生物]] || Accursed || +1 || 是 || 否 || [[惧怖冒险]] p248
+|-
+| [[进化生物模板]] || Advanced || +1 || 是 || 否 || [[怪物图鉴]] p294
+|-
+| [[气流生物]] || Aerial || +0 或 +1 || 是 || 是 || [[怪物召唤者手册]] p18
+|-
+| [[炼金隐形生物]] || Alchemically Invisible || +2 || 是 || 否 || Rival Guide p47
+|-
+| [[阿莱布里赫]] || Alebrije || +2 || 否 || 否 || Pathfinder #144: Midwives to Death p71
+|-
+| [[另我化身]] || Alter Ego || +0 || 否 || 否 || [[怪物图鉴6]] p8
+|-
+| [[兽王(怪物)|兽王]] || Animal Lord || Varies || 否 || 否 || [[怪物图鉴3]]
+|-
+| [[复仇之影]] || Animus Shade || +2 || 否 || 否 || [[怪物图鉴6]] p10
+|-
+| [[链魔使徒]] || Apostle Kyton || +2 || 否 || 否 || [[惧怖冒险]] p240
+|-
+| [[水流生物]] || Aqueous || +0 或 +1 || 是 || 是 || [[怪物召唤者手册]] p19
+|-
+| [[野蛮人模板]] || Barbarian || +2 或 3 || 是 || 否 || [[怪物志]] p246
+|-
+| [[吟游诗人模板]] || Bard || +1 或 +2 || 是 || 否 || [[怪物志]] p246
+|-
+| [[兽性生物]] || Bestial Creature || +0 || 是 || 否 || Lost Treasures p17
+|-
+| [[黑血生物]] || Black-Blooded Creature || +3 || 否 || 否 || Pathfinder #18: Descent into Midnight p82
+|-
+| [[荒疫化精类]] || Blighted Fey || +2 || 否 || 否 || [[怪物图鉴6]] p46
+|-
+| [[极寒生物]] || Boreal Creature || +1 || 否 || 是 || Pathfinder #67: The Snows of Summer p72
+|-
+| [[破碎之魂]] || Broken Soul || +2 || 否 || 否 || [[怪物图鉴4]] p24
+|-
+| [[钙化生物]] || Calcified || +1 || 否 || 否 || Plunder & Peril p60
+|-
+| [[天界生物模板]] || Celestial || +0 或 +1 || 是 || 是 || [[怪物图鉴]] p294
+|-
+| [[犹格·索托斯之子]] || Child of Yog-Sothoth || +1 || 否 || 否 || Pathfinder #113: What Grows Within p82
+|-
+| [[地层生物]] || Chthonic || +0 或 +1 || 是 || 是 || [[怪物召唤者手册]] p19
+|-
+| [[牧师模板]] || Cleric || +1, +2, 或 +3 || 是 || 否 || [[怪物志]] p246
+|-
+| [[辐光生物]] || Color-Blighted || +0 || 是 || 否 || [[怪物图鉴4]] p39
+|-
+| [[辐光生物]] || Colour-Blighted || +0 || 是 || 是 || Pathfinder #46: Wake of the Watcher p77
+|-
+| [[先锋构装]] || Commando Construct || +1 或 +2 || 否 || 否 || [[构装体手册]] p36
+|-
+| [[均衡生物]] || Counterpoised || +0 to +1 || 是 || 是 || [[平衡勇士]] p33
+|-
+| [[碧幻菌丧尸]] || Cytillesh Zombie || +1 || 否 || 是 || No Response from Deepmar p21
+|-
+| [[黑暗生物]] || Dark || +0 或 +1 || 是 || 是 || [[怪物召唤者手册]] p19
+|-
+| [[黑冰生物]] || Dark Ice || +1 || 否 || 否 || Carnival of Tears p32
+|-
+| [[深潜者化生物]] || Deep Creature || +1 || 是 || 否 || [[惧怖冒险]] p248
+|-
+| [[退化生物]] || Degenerate || -1 || 是 || 否 || Pathfinder #99: Dance of the Damned p288
+|-
+| [[恶魔化虫类]] || Demonic Vermin || +1 || 否 || 否 || The Worldwound p52
+|-
+| [[魔契生物]] || Devilbound || +1 || 否 || 否 || [[怪物图鉴4]] p56
+|-
+| [[神圣守护者]] || Divine Guardian || +1 || 否 || 否 || [[怪物图鉴4]] p60
+|-
+| [[恐惧领主]] || Dread Lord || +1 || 否 || 否 || [[惧怖冒险]] p234
+|-
+| [[食梦者]] || Dream Eater || +2 || 否 || 是 || Dungeons of Golarion p42
+|-
+| [[梦裔生物]] || Dreamspawn || +1 || 否 || 否 || The House on Hook Street p62
+|-
+| [[德鲁伊模板]] || Druid || +1, +2, 或 +3 || 是 || 否 || [[怪物志]] p247
+|-
+| [[回响空壳]] || Echohusk || Varies || 否 || 否 || Occult Bestiary p24
+|-
+| [[灵质生物]] || Ectoplasmic || +1 || 否 || 否 || [[怪物图鉴4]] p82
+|-
+| [[元素灌注生物]] || Elemental-Infused Creature || +1 或 +2 || 否 || 否 || [[位面之力]] p56
+|-
+| [[注能魔像]] || Energized || +2 || 否 || 否 || [[构装体手册]] p38
+|-
+| [[启迪构装]] || Enlightened Construct || +1, +2, 或 +3 || 否 || 否 || [[构装体手册]] p40
+|-
+| [[虫化人绪论]] || Entothrope || +1 (see text) || 否 || 否 || )Bestiary 6 p116
+|-
+| [[熵化生物模板]] || Entropic || +0 或 +1 || 是 || 是 || [[怪物图鉴2]] p292
+|-
+| [[思涌植物]] || Eruphyte || +1 || 否 || 否 || Pathfinder #142: Gardens of Gallowspire p66
+|-
+| [[虫骸]] || Exoskeleton || Depends on Base Creature || 否 || 否 || [[怪物图鉴6]] p124
+|-
+| [[失败先知]] || Failed Prophet || +2 || 否 || 否 || Druma、Profit and Prophecy p60
+|-
+| [[精化动物]] || Fey Animal || +1 || 否 || 是 || Lands of the Linnorm Kings p58
+|-
+| [[精化生物]] || Fey Creature || +1 或 +2 || 否 || 否 || [[怪物图鉴3]]
+|-
+| [[精类印记生物]] || Fey-Touched Creature || +0 或 +1 || 否 || 是 || [[缘界英雄]] p17
+|-
+| [[炼狱灌注魔像]] || Fiend-Infused || +2 || 否 || 否 || Cheliax, the Infernal Empire p60
+|-
+| [[炼狱生物模板]] || Fiendish || +0 或 +1 || 是 || 是 || [[怪物图鉴]] p294
+|-
+| [[烈火生物]] || Fiery || +0 或 +1 || 是 || 是 || [[怪物召唤者手册]] p19
+|-
+| [[战士模板]] || Fighter || +1 或 +2 || 是 || 否 || [[怪物志]] p247
+|-
+| [[第一世界生物]] || First World Creature || +0 或 +1 || 否 || 是 || The First World、Realm of the Fey p57
+|-
+| [[塑肉生物]] || Fleshwarped Creature || +1 || 是 || 否 || [[惧怖冒险]] p250
+|-
+| [[洪灾亡者]] || Floodslain || +1 || 否 || 否 || Belkzen、Hold of the Orc Hordes p60
+|-
+| [[福兽]] || Foo Creature || +1 || 否 || 否 || [[怪物图鉴3]]
+|-
+| [[霜殒生物]] || Frostfallen Creature || +1 || 否 || 否 || Pathfinder #51: The Hungry Storm p87
+|-
+| [[真菌生物]] || Fungal Creature || +1 || 否 || 否 || [[怪物图鉴4]] p116
+|-
+| [[类真菌生物]] || Fungoid || +1 || 是 || 否 || [[怪物图鉴6]] p131
+|-
+| [[幽魂]] || Ghost || +2 || 否 || 是 || [[怪物图鉴]] p144
+|-
+| [[食尸鬼化生物]] || Ghoulish Creature || +1 || 是 || 否 || [[惧怖冒险]] p248
+|-
+| [[巨化生物]] || Giant || +1 || 是 || 否 || [[怪物图鉴]] p294
+|-
+| [[半巨人食人魔]] || Giantkin Ogre || +1 || 否 || 否 || [[怪物志]] p152
+|-
+| [[扭曲生物]] || Gnarled Creature || +1 || 是 || 是 || The Witchwar Legacy p28
+|-
+| [[颗粒构装体宿主]] || Granule Construct Host || +0 || 否 || 否 || Seven Swords of Sin p30
+|-
+| [[死墓骑士]] || Graveknight || +2 || 否 || 否 || [[怪物图鉴3]]
+|-
+| [[守护灵]] || Guardian Spirit || Varies || 否 || 否 || [[怪物召唤者手册]] p26
+|-
+| [[半天界生物]] || Half-Celestial || +1 to +3 || 否 || 是 || [[怪物图鉴]] p169
+|-
+| [[半龙生物]] || Half-Dragon || +2 || 否 || 是 || [[怪物图鉴]] p170
+|-
+| [[半炼狱生物]] || Half-Fiend || +1 to +3 || 否 || 是 || [[怪物图鉴]] p171
+|-
+| [[半小巨灵生物]] || Half-Janni || +2 || 否 || 是 || Qadira、Gateway to the East p27
+|-
+| [[鬼扰构装体]] || Haunted Construct || +1 || 否 || 否 || [[构装体手册]] p48
+|-
+| [[鬼扰者]] || Haunted One || +1 || 否 || 否 || Rival Guide p29
+|-
+| [[地狱引擎]] || Hell Engine || +1 || 否 || 否 || [[构装体手册]] p50
+|-
+| [[狱契生物]] || Hellbound Creature || +1 || 是 || 否 || [[惧怖冒险]] p248
+|-
+| [[蜂巢生物]] || Hive Creature || +1 || 是 || 否 || [[惧怖冒险]] p249
+|-
+| [[巢智集群]] || Hivemind Swarm || Variable (see text) || 否 || 否 || )Bestiary 6 p156
+|-
+| [[本我突变体]] || Id Mutant || +1 || 否 || 是 || Doom Comes to Dustpawn p29
+|-
+| [[无情追猎者]] || Implacable Stalker || +2 || 否 || 否 || [[惧怖冒险]] p238
+|-
+| [[殭尸]] || Jiang-Shi || +2 || 否 || 否 || [[怪物图鉴3]] p278
+|-
+| [[巫毒殭尸]] || JuJu Zombie || +1 || 否 || 否 || [[怪物图鉴2]]
+|-
+| [[金棒]] || Kanabo || +0 或 +1 || 否 || 否 || Distant Shores p32
+|-
+| [[巫妖(怪物)|巫妖]] || Lich || +2 || 否 || 是 || [[怪物图鉴]] p188
+|-
+| [[巫妖(怪物)|巫妖]] || Lich Creature || +1 || 是 || 否 || [[惧怖冒险]] p249
+|-
+| [[兽化人]] || Lycanthrope || +1 || 否 || 否 || [[怪物图鉴]] p197
+|-
+| [[兽化生物]] || Lycanthropic Creature || +1 || 是 || 否 || [[惧怖冒险]] p249
+|-
+| [[法力废土变种人]] || Mana Wastes Mutant || +1 || 否 || 否 || Inner Sea Bestiary p28
+|-
+| [[食人动物]] || Man-Eating Animal || +1, +2, 或 +3 || 否 || 否 || Pathfinder #74: Sword of Valor p88
+|-
+| [[混血巨人]] || Mongrel Giant || +1 || 否 || 否 || [[怪物图鉴6]] p192
+|-
+| [[武僧模板]] || Monk || +2 或 +3 || 是 || 否 || [[怪物志]] p247
+|-
+| [[木乃伊化动物]] || Mummified Animal || +1 || 否 || 否 || Pathfinder #81: Shifting Sands p84
+|-
+| [[木乃伊化生物]] || Mummified Creature || +1 或 +2 || 否 || 否 || [[怪物图鉴4]] p196
+|-
+| [[木乃伊领主]] || Mummy Lord || +2 || 否 || 否 || [[怪物图鉴5]] p176
+|-
+| [[变种人]] || Mutant || +1 || 否 || 否 || [[怪物图鉴5]] p180
+|-
+| [[变异地精]] || Mutant Goblin || +1 || 否 || 否 || [[怪物志]] p12
+|-
+| [[梦魇生物]] || Nightmare Creature || +1 || 否 || 否 || [[怪物图鉴4]] p204
+|-
+| [[诺斯费拉图血族]] || Nosferatu || +2 || 否 || 否 || [[怪物图鉴4]] p68
+|-
+| [[奥西里昂木乃伊]] || Osirion Mummy || +1 || 否 || 否 || Entombed with the Pharaohs p30
+|-
+| [[圣武士模板]] || Paladin || +2 或 +3 || 是 || 否 || [[怪物志]] p248
+|-
+| [[苍白病媒]] || Pallid Vector || +2 || 否 || 否 || [[恶棍志]] p68
+|-
+| [[飞颅鬼]] || Penanggalen || +1 || 否 || 否 || [[怪物图鉴3]]
+|-
+| [[祈并者]] || Petitioner || CR is 1 || 否 || 否 || [[怪物图鉴2]]
+|-
+| [[皮包骨食人魔]] || Pickin Ogre || +0 || 是 || 否 || [[怪物志]] p152
+|-
+| [[疫苦马]] || Plagued Beast || +1 || 否 || 否 || [[怪物图鉴5]] p194
+|-
+| [[模板：荚生衍体|荚生衍体]] || Pod-Spawned || +0, -1, 或 -2 || 否 || 否 || [[怪物图鉴4]] p20
+|-
+| [[被附身生物]] || Possessed Creature || +1 || 是 || 否 || [[惧怖冒险]] p250
+|-
+| [[元气幽魂]] || Prana Ghost || +1 || 否 || 否 || Occult Bestiary p40
+|-
+| [[原初生物]] || Primordial || +0 或 +1 || 是 || 是 || [[怪物召唤者手册]] p19
+|-
+| [[改造人生物]] || Promethean Creature || +1 || 是 || 否 || [[惧怖冒险]] p250
+|-
+| [[预言错乱生物]] || Prophecy-Addled Creature || +1 || 否 || 否 || Pathfinder #125: Tower of the Drowned Dead p50
+|-
+| [[异能巫妖]] || Psychic Lich || +2 || 否 || 否 || Occult Bestiary p33
+|-
+| [[异能吸血鬼]] || Psychic Vampire || +2 || 否 || 否 || Occult Bestiary p58
+|-
+| [[异能质生物]] || Psychoplasmic || +1 || 否 || 否 || Occult Bestiary p46
+|-
+| [[光辉生物]] || Radiant Creature || +1 || 是 || 否 || [[位面冒险]] p123
+|-
+| [[疯长生物]] || Rampant || +1 || 否 || 否 || Pathfinder #142: Gardens of Gallowspire p67
+|-
+| [[游侠模板]] || Ranger || +1 或 +2 || 是 || 否 || [[怪物志]] p248
+|-
+| [[掠劫亡龙]] || Ravener || +2 || 否 || 否 || [[怪物图鉴2]]
+|-
+| [[回收构装体]] || Recycled Construct || -1 || 否 || 否 || [[构装体手册]] p52
+|-
+| [[绝对生物模板]] || Resolute || +0 或 +1 || 是 || 是 || [[怪物图鉴2]] p293
+|-
+| [[盗贼模板]] || Rogue || +1 或 +2 || 是 || 否 || [[怪物志]] p248
+|-
+| [[符文覆甲构装体]] || Runeplated Construct || +1 || 否 || 否 || [[构装体手册]] p58
+|-
+| [[符文奴隶]] || Runeslave || +1 || 否 || 否 || Rise of the Runelords Anniversary Edition p412
+|-
+| [[符文扭曲生物]] || Runewarped Creature || +1 || 否 || 否 || Return of the Runelords Players Guide p87
+|-
+| [[海誓者]] || Sea-Sworn || +1 || 否 || 是 || Treasure of Chimera Cove p30
+|-
+| [[播种生物]] || Seeded || +1 || 否 || 否 || Pathfinder #113: What Grows Within p90
+|-
+| [[阴影生物]] || Shadow || +1 || 否 || 否 || [[怪物图鉴4]] p238
+|-
+| [[阴影动物]] || Shadow Animal || +1 或 +2 || 否 || 否 || Nidal、Land of Shadows p60
+|-
+| [[阴影生物]] || Shadow Creature || +1 || 否 || 是 || [[进阶种族手册]]
+|-
+| [[阴影生物|阴影领主]] || Shadow Lord || +2 || 否 || 否 || [[怪物图鉴4]] p238
+|-
+| [[影契生物]] || Shadowbound Creature || +1 || 是 || 否 || [[惧怖冒险]] p250
+|-
+| [[阴影火焰生物]] || Shadowfire Creature || +1 || 否 || 否 || The Emerald Spire Superdungeon p157
+|-
+| [[长毛种食人魔]] || Shaggra Ogre || +1 || 是 || 否 || [[怪物志]] p152
+|-
+| [[秽岩恶鬼]] || Siabrae || +2 || 否 || 否 || [[怪物图鉴6]] p251
+|-
+| [[银血兽化人]] || Silverblood Lycanthrope || +2 || 否 || 否 || Andoran、Birthplace of Freedom p60
+|-
+| [[骷髅勇士]] || Skeletal Champion || +1 || 否 || 否 || [[怪物图鉴]]
+|-
+| [[骷髅]] || Skeleton || Depends on Base Creature || 否 || 否 || [[怪物图鉴]]
+|-
+| [[术士模板]] || Sorcerer || +1, +2 或 +3 || 是 || 否 || [[怪物志]] p248
+|-
+| [[缚魂构装]] || Soulbound Construct || +1 或 +2 || 否 || 否 || [[构装体手册]] p60
+|-
+| [[孢子殭尸]] || Spore Zombie || +1 || 否 || 否 || [[怪物图鉴6]] p287
+|-
+| [[蒸汽动力构装]] || Steam-Powered Construct || +2 || 否 || 否 || [[构装体手册]] p62
+|-
+| [[日晒丧尸]] || Sunbaked Zombie || Depends on Base Creature || 否 || 否 || Pathfinder #80: Empty Graves p88
+|-
+| [[标本生物]] || Taxidermic Creature || Depends on Base Creature || 否 || 否 || [[怪物图鉴5]] p240
+|-
+| [[恐怖生物]] || Terror Creature || +0 || 是 || 是 || City of Golden Death p29
+|-
+| [[头大如斗食人魔]] || Thicken Ogre || +0 || 是 || 否 || [[怪物志]] p152
+|-
+| [[错视画]] || Trompe l'Oeil || +1 || 否 || 否 || [[惧怖冒险]] p242
+|-
+| [[付丧神]] || Tsukumogami || +2 || 否 || 否 || [[怪物图鉴5]] p253
+|-
+| [[幻想人]] || Tulpa || +2 || 否 || 否 || [[怪物图鉴5]] p254
+|-
+| [[未知者]] || Unknown || +2 || 否 || 否 || [[惧怖冒险]] p244
+|-
+| [[瓦哈纳]] || Vahana || +2 || 否 || 否 || [[怪物图鉴5]] p262
+|-
+| [[吸血鬼(怪物)|吸血鬼]] || Vampire || +2 || 否 || 否 || [[怪物图鉴]]
+|-
+| [[吸血鬼衍体]] || Vampire Spawn || +1 || 否 || 否 || [[怪物志]] p244
+|-
+| [[吸血鬼化生物]] || Vampiric Creature || +1 || 是 || 否 || [[惧怖冒险]] p250
+|-
+| [[维塔拉]] || Vetala || +2 || 否 || 否 || Inner Sea Bestiary p54
+|-
+| [[蜡像生物]] || Waxwork || Depends on Base Creature || 否 || 否 || [[惧怖冒险]] p246
+|-
+| [[凛冬精类]] || Winter Fey || +1 || 否 || 是 || Pathfinder #68: The Shackled Hut p91
+|-
+| [[冬触精类]] || Winter-Touched Fey || +0 || 是 || 是 || Pathfinder #67: The Snows of Summer p72
+|-
+| [[法师模板]] || Wizard || +1 +2 或 +3 || 是 || 否 || [[怪物志]] p249
+|-
+| [[蠕虫行者]] || Worm that Walks || +2 || 否 || 否 || [[怪物图鉴2]]
+|-
+| [[幼体生物]] || Young || -1 || 是 || 否 || [[怪物图鉴]] p294
+|-
+| [[丧尸]] || Zombie || Varies || 否 || 否 || [[怪物图鉴]]
+|-
+| [[丧尸统主]] || Zombie Lord || +1 || 否 || 否 || [[怪物图鉴4]] p286
+|}
+
+[[分类:规则]]

@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Strange Aeons Player's Guide pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=神经过敏
+|english_name=Twitchy
+|type=战役
+|pfs=否
+|description=你在疯人院中醒来后的第一个念头，不是困惑自己为何什么都记不清——而是一股想要找到安全之所的冲动。你觉得除了同伴之外，周遭的一切都可能对你构成威胁，因此你时刻准备作出反应。你很难保持静止，总在不停地观察四周。也许你有被害妄想，也许只是想象力太过丰富，但不管是什么，你知道让这种感觉保持敏锐能帮你活下去。
+
+你的先攻检定获得+2背景加值，反射豁免获得+1背景加值。
+|source_name=Strange Aeons Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Twitchy
+}}

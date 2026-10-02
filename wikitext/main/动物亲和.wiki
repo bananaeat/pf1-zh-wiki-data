@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[动物亲和 (神话)]]。</small></div>
+{{Feat
+|name=动物亲和
+|english_name=Animal Affinity
+|description=你对于与动物以及坐骑的工作颇有心得。
+|benefit=在[[驯养动物]]和骑乘技能检定上获得+2奖励。如果某技能受训等级10以上，对于该技能检定的奖励为+4。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

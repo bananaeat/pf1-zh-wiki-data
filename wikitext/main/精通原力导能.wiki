@@ -1,0 +1,14 @@
+{{Feat
+|name=精通原力导能
+|english_name=Improved Channel Force
+|description=你用闪光的能量射线移动你的敌人。
+|prerequisites=[[原力导能]]，[[神裔]]，引导能量4d6。
+|benefit=当你使用[[原力导能]]，你可以影响60尺直线路径或30尺半径锥形爆发范围内的所有生物。你必须统一决定拖拽还是推动所有豁免检定失败的生物。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[高等原力导能]]（1 个条目）

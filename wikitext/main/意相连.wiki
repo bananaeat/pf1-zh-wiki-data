@@ -1,0 +1,9 @@
+{{Trait
+|name=意相连
+|english_name=Greater Link
+|type=魔法
+|description=你与[[幻灵]]之间的联结比多数同行更牢固。你的幻灵的当前和最大生命值在离开你110尺后才会减至50%,离开你1100尺后才会减至25%。你的生命连结职业能力并不会在其他方面受到影响。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

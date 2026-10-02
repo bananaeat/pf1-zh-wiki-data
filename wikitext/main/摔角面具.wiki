@@ -1,0 +1,15 @@
+{{魔法物品
+|name=摔角面具
+|english_name=Grappler's Mask
+|aon=MagicWondrousDisplay.aspx?FinalName=Grappler's Mask
+|cat=奇物
+|aura=微弱变化系
+|cl=1
+|slot=头部
+|price=5,000 gp
+|weight=2磅
+|description=这副面具以深色皮革制成，上面装饰着几何图案，以突出佩戴者的凶悍。它盖住佩戴者的脸，但露出嘴和眼睛。佩戴者在尝试冲撞和擒抱时不会引发[[借机攻击]]。
+|req=[[制造奇物]]、[[牛之力量]]、[[猫之优雅]]、[[脚底抹油]]
+|cost=2,500 gp
+|source=进阶玩家指南、极限宝具
+}}

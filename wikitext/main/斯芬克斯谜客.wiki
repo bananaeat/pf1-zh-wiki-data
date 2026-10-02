@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Mummy's Mask Player's Guide pg. 10, People of the Sands pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=斯芬克斯谜客
+|english_name=Sphinx Riddler
+|type=战役
+|pfs=否
+|description=你一直对古老的斯芬克斯一族着迷，受它们启发，你也爱上了谜题和谜语，乐于破解种种难题。和许多人一样，你来到瓦提是为了探索它古老的大墓地，但你也听说斯芬克斯偶尔会造访城中一座名为乌贝特之愚的斯芬克斯形遗迹——也许你能有机会亲自和一只斯芬克斯见面交谈！你对斯芬克斯进行的[[唬骗]]和[[交涉]]检定获得+1背景加值，并且你为破解谜题或谜语而进行的任何技能检定都获得+1背景加值。此外，你可以选择斯芬克斯语作为你的额外语言之一。
+|source_name=Mummy's Mask Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Sphinx%20Riddler
+}}

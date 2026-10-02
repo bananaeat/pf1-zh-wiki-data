@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''缠身'''（Attach）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：个体攻击</span></div>
+</noinclude><includeonly><div class="lang"><span id="缠身"></span><div class="lang-h"><b>[[缠身]]</b><i>Attach</i><span class="lang-w">Ex · 个体攻击</span></div><div class="lang-d"></includeonly>
+当该生物用列出的攻击命中目标时，他就可以缠绕到该目标上。该生物此时被视为[[擒抱]]状态，而目标却否。目标可以像通常那样攻击或者擒抱该生物，或者通过成功的擒抱或脱逃技能检定来摆脱缠身。
+
+'''格式'''：缠身
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Attach|2=Attach}}
+
+[[分类:通用怪物规则]]</noinclude>

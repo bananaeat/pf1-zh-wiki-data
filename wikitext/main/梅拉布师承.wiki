@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Elements pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=梅拉布师承
+|english_name=Merabian Mentorship
+|type=地区
+|prerequisites=苏比亚（巨灵裔）
+|description=你曾拜梅拉布一位知名的炼金术士为师，她教会你如何通过品尝来辨认元素试剂。当你饮下一瓶药水时，如果其中包含的法术在你的公式列表上、且法术等级是你能够施展的，你可以进行一次[[法术辨识]]检定（DC 15＋化合炼成等级）。如果成功，你可以立即将该法术加入你的公式簿。
+|source_name=元素血脉
+|source=BotE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Merabian%20Mentorship
+}}

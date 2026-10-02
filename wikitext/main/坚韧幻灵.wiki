@@ -1,0 +1,11 @@
+{{Feat
+|name=坚韧幻灵
+|english_name=Resilient Eidolon
+|description=你和[[幻灵]]之间的联系是如此的紧密以至于在你[[失去意识]]或者被杀以后你的幻灵依旧会在你身边停留一小段时间。
+|prerequisites=【幻灵】职业特性。
+|benefit=如果你失去意识、睡着了、或者被杀，你的幻灵会在被放逐前停留等同于你召唤师等级的轮数。如果你在这段时间里恢复意识，则幻灵不会被放逐。如果在持续时间结束之前你无法恢复意识，则幻灵如常被放逐。
+|normal=幻灵会在其召唤师失去意识、睡着或被杀时立即被放逐。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=骷髅召唤者
+|english_name=Skeleton Summoner
+|description=行尸走肉随你号令。
+|prerequisites=[[法术专攻]]（死灵），能够施展‘召唤怪物’。
+|benefit=将“人类骷髅”加入你的‘[[召唤怪物]]I’的可召唤生物列表，将“人类骷髅勇士”加入你的[[召唤怪物III]]可召唤生物列表。每日1次，当你施放‘召唤怪物’时，你可以召唤一个对应法术可召唤生物列表的骷髅生物（即在召唤生物时附加骷髅模板）。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

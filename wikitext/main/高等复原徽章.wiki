@@ -1,0 +1,14 @@
+{{魔法物品
+|name=高等复原徽章
+|english_name=Aegis of Recovery, Greater
+|aon=MagicWondrousDisplay.aspx?FinalName=Aegis of Recovery, Greater
+|cat=奇物
+|aura=中等防护系、咒法系
+|cl=9
+|slot=颈部
+|price=3,750 gp
+|description=这枚徽章带有一块厚实的奖章，通常雕刻着露出的獠牙或一把淬毒[[匕首]]的图案。它的功能如同[[复原徽章(奇物)|复原徽章]]，只是给予穿戴者的是+5抗力加值，适用于所有为摆脱持续效果而进行的豁免检定，这类持续效果例如持续的毒素伤害、对抗疾病的每日豁免、[[人类定身术]]法术，或攻击造成的残留伤害。一旦穿戴者的生命值降到0以下，高等复原徽章就会为穿戴者恢复5d8+7点生命值，然后碎成粉末。
+|req=[[制造奇物]]、[[树肤术]]、[[生命之息]]
+|cost=1,875 gp
+|source=药剂与毒药
+}}

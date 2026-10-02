@@ -1,0 +1,15 @@
+{{魔法物品
+|name=抗力披风
+|english_name=Cloak of Resistance
+|aon=MagicWondrousDisplay.aspx?FinalName=Cloak of Resistance1
+|cat=奇物
+|aura=微弱防护系
+|cl=5
+|slot=肩部
+|price=1,000 gp（+1）；4,000 gp（+2）；9,000 gp（+3）；16,000 gp（+4）；25,000 gp（+5）
+|weight=1磅
+|description=这类魔法披风的织物中常常缝入银或钢的碎片。这件衣物提供魔法防护，对所有豁免检定（强韧、反射和意志）提供+1到+5的抗力加值。
+|req=[[制造奇物]]、[[提升抗力]]，制造者的施法者等级必须至少是披风加值的三倍
+|cost=500 gp（+1）；2,000 gp（+2）；4,500 gp（+3）；8,000 gp（+4）；12,500 gp（+5）
+|source=核心规则书、极限宝具
+}}

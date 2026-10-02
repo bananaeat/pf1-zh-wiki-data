@@ -1,0 +1,14 @@
+{{魔法物品
+|name=健康护符
+|english_name=Periapt of Health
+|aon=MagicWondrousDisplay.aspx?FinalName=Periapt of Health
+|cat=奇物
+|aura=微弱咒法系
+|cl=5
+|slot=颈部
+|price=7,500 gp
+|description=这件简单的护符通常是一颗蓝色宝石，系在一条设计成挂在颈间的银链上。穿戴者免疫一切疾病，包括超自然疾病。
+|req=[[制造奇物]]、[[移除疾病]]
+|cost=3,750 gp
+|source=核心规则书、极限宝具
+}}

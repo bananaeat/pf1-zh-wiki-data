@@ -1,0 +1,9 @@
+{{装备
+|name=梯子
+|english_name=Ladder
+|cat=冒险装备
+|price=2 sp
+|weight=20磅
+|description=这种简单的10尺长的梯子由两个长板和以1尺为间隔钉在其上的木制台阶组成。
+|source=核心规则书、极限宝具
+}}

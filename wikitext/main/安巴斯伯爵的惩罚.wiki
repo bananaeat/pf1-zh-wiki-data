@@ -1,0 +1,17 @@
+{{危害
+|name=安巴斯伯爵的惩罚
+|english_name=Count Ambras's punishment
+|kind=毒药
+|type=接触
+|save=强韧 DC 16
+|onset=1分钟
+|frequency=1次/分钟，持续6分钟
+|initial=1点敏捷吸取并[[反胃]]1分钟
+|secondary=1d2点敏捷吸取并[[恶心]]1分钟
+|cure=1次豁免成功
+|price=350 gp
+|description='''炼金配方'''
+
+配方（70月露酒＋35雄黄＋70尿素）/浸提；工艺 DC 16；时间 1天；工具 热源；类型 毒药
+|source=炼金术手册
+}}

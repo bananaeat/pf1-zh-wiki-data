@@ -1,0 +1,12 @@
+{{Feat
+|name=至高阴招
+|english_name=Superior Dirty Trick
+|categories=战斗
+|description=你对某种特定[[阴招]]的训练使它格外有效。
+|prerequisites=智力13，[[寓守于攻]]；[[精通阴招]]，[[高等阴招]]，基础攻击加值+8
+|benefit=选择一个阴招[[战技]]可能造成的不良状态，如[[目盲]]或[[纠缠]]，你的阴招战技的目标必须花费一个整轮动作才能解除该状态。
+|special=你可以多次选择本专长，每次你选择本专长时，选择一种不同的不良效果。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

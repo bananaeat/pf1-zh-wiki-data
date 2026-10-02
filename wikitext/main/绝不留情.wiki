@@ -1,0 +1,9 @@
+{{Trait
+|name=绝不留情
+|english_name=Opportunistic
+|type=宗教
+|prerequisites=信仰[[卡莉斯翠]]
+|description=你学会了辨识敌人露出的破绽，也知晓如何利用这些机会。你在使用[[匕首]]，剑或鞭子进行[[借机攻击]]时攻击检定获得+1背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

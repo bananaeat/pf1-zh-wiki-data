@@ -1,0 +1,17 @@
+{{消歧义|警戒之眼}}
+{{Spell
+|name=警戒之眼
+|english_name=Watchful Eye
+|school=防护系
+|levels=牧师 1;先知 1;圣武士 1;战斗祭司 1（福格瑞特）
+|action=标准动作
+|components=语言;姿势;法器（一对价值10金币的银戒指或金戒指，由你和目标各戴一只）
+|range=近距
+|target=一个生物
+|duration=1分钟/等级
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=此法术模仿福格瑞特的母性守护。它如同[[护卫他人]]，但以上所列者除外，并且你必须保持对目标的效果线。
+|source=格拉利昂的矮人
+}}
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_717.html 原文]），按 AoN 核对过。</small>

@@ -1,0 +1,11 @@
+{{武器
+|name=劳伦斯1917型火焰喷射器燃料缸
+|english_name=Lawrence 1917 flamethrower fuel tank
+|category=火器
+|prof=异种
+|wcat=弹药
+|price=50 gp
+|weight=9磅
+|description=这对燃料缸（一只装燃油，另一只装推进剂）提供的可燃物足够使用火焰喷射器6次。
+|source=冒险之路71：拉斯普京必须死！
+}}

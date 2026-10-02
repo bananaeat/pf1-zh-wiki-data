@@ -1,0 +1,15 @@
+{{Feat
+|name=螳螂拳
+|english_name=Mantis Style
+|categories=战斗;流派
+|description=你学会以破竹之势攻击对手要穴。
+|prerequisites=[[精通徒手打击]]，[[震慑拳]]，医疗3级。
+|benefit=你获得1次[[震慑拳]]每日使用次数。当你使用螳螂拳[[流派]]架势时，你的震慑拳DC+2。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[六合拳劲]]、[[螳螂铁刺]]（2 个条目）

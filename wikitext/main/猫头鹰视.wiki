@@ -1,0 +1,10 @@
+<noinclude>{{侠客导航}}
+'''猫头鹰视'''（Owl's Sight, Ex）是[[侠客]]的[[社交天赋]]。
+
+</noinclude>{{Source|格拉利昂的英雄|Heroes of Golarion|inline}}
+
+效果：侠客获得了昏暗视觉。如果侠客已经获得了昏暗视觉，那么在昏暗环境下的察觉检定获得+4表现加值。侠客在晚上的潜行和[[巧手]]检定中也获得+2表现加值。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhd3b09cc415.htm 原文]）。全部社交天赋见 [[:分类:社交天赋|分类:社交天赋]]。
+
+[[分类:社交天赋]]</noinclude>

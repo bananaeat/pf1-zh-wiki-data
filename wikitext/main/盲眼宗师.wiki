@@ -1,0 +1,11 @@
+{{Feat
+|name=盲眼宗师
+|english_name=Blinded Master
+|categories=战斗
+|description=你在目不能视时的武艺技惊四座。
+|prerequisites=盲斗，盲眼之技，盲刃流，高等盲斗，精通盲斗，察觉15级
+|benefit=当你使用盲刃流且目盲或不可视物时，你通过盲眼之技确定生物位置时的能力在功能上提升至如同 盲视 而非 盲感，并且范围提升至30尺。除此之外，将你的角色等级的一半，加到在战斗时对你使用虚招的唬骗检定DC上。
+|source=BoS
+|source_name=阴影血脉
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

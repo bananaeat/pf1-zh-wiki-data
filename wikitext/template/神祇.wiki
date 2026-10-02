@@ -1,0 +1,43 @@
+<includeonly>{{#invoke:版权抬头|main}}<div class="item deity">
+<div class="item-head">
+<div class="item-name">{{{name|{{PAGENAME}}}}}{{#if:{{{pantheon|}}}|<span class="item-cats"><span class="tag">{{{pantheon}}}</span></span>}}</div>
+{{#if:{{{english_name|}}}|<div class="item-en">{{#invoke:AoN链接|named|神祇|{{{english_name}}}|aon={{{aon|}}}}}</div>}}{{#if:{{{title|}}}|<div class="item-alias">称号：{{{title}}}</div>}}
+</div><!--
+--><div class="item-stats"><!--
+-->{{#if:{{{alignment|}}}|<span class="item-stat"><span class="k">阵营</span>{{{alignment}}}</span>}}<!--
+-->{{#if:{{{weapon|}}}|<span class="item-stat"><span class="k">偏好武器</span>{{{weapon}}}</span>}}<!--
+-->{{#if:{{{portfolio|}}}|<span class="item-stat wide"><span class="k">神职</span>{{{portfolio}}}</span>}}<!--
+-->{{#if:{{{domains|}}}|<span class="item-stat wide"><span class="k">领域</span>{{{domains}}}</span>}}<!--
+-->{{#if:{{{subdomains|}}}|<span class="item-stat wide"><span class="k">子域</span>{{{subdomains}}}</span>}}<!--
+-->{{#if:{{{symbol|}}}|<span class="item-stat wide"><span class="k">{{{symbol_label|圣徽}}}</span>{{{symbol}}}</span>}}<!--
+-->{{#if:{{{animal|}}}|<span class="item-stat"><span class="k">圣兽</span>{{{animal}}}</span>}}<!--
+-->{{#if:{{{color|}}}|<span class="item-stat"><span class="k">圣色</span>{{{color}}}</span>}}<!--
+-->{{#if:{{{temples|}}}|<span class="item-stat wide"><span class="k">神殿</span>{{{temples}}}</span>}}<!--
+-->{{#if:{{{worshipers|}}}|<span class="item-stat wide"><span class="k">信徒</span>{{{worshipers}}}</span>}}<!--
+-->{{#if:{{{minions|}}}|<span class="item-stat wide"><span class="k">仆从</span>{{{minions}}}</span>}}<!--
+-->{{#if:{{{centers|}}}|<span class="item-stat wide"><span class="k">崇拜中心</span>{{{centers}}}</span>}}<!--
+-->{{#if:{{{home|}}}|<span class="item-stat wide"><span class="k">居所</span>{{{home}}}</span>}}<!--
+-->{{#if:{{{nationality|}}}|<span class="item-stat"><span class="k">族类</span>{{{nationality}}}</span>}}<!--
+-->{{#if:{{{other_pantheons|}}}|<span class="item-stat wide"><span class="k">其他神系</span>{{{other_pantheons}}}</span>}}<!--
+--></div><!--
+-->{{#if:{{{description|}}}|<div class="item-desc">
+{{{description}}}
+</div>}}<!--
+-->{{#if:{{{source|}}}|<div class="item-source"><span class="key">出处</span> <span class="value">{{{source}}}</span></div>}}
+</div>{{条目页脚|速查=神祇|分类=神祇}}[[分类:神祇]]</includeonly><noinclude>
+神祇条目卡片。
+
+ {{神祇|name=阿巴达尔|english_name=Abadar|alignment=秩序中立（LN）|portfolio=城市，律法，商人，财富|domains=[[土领域|土]]，…|weapon=轻弩|pantheon=核心神祇|source=CRB/ISWG}}
+
+英文名就是 AoN 原文链接（[[模块:AoN链接]] 的 named：按英文名查 [[模块:AoN链接/神祇]]，表是 <code>tools/build_aon_named_modules.py</code> 照 AoN 列表页生成的）。对不上的显示纯文字；可以写 <code>aon=</code> 一条已编码的 AoN 原始链接（<code>DeityDisplay.aspx?ItemName=Abadar</code>）顶掉，写 <code>aon=无</code> 就不挂。
+
+栏位（2026-09-29 神祇排版统一时加了后面几栏，都是填了才显示）：
+name、english_name、title（称号）、alignment（阵营，「守序善良（LG）」写法）、weapon（偏好武器）、portfolio（神职）、domains（领域，写法见 tools/deity_domains.py）、
+subdomains（子域）、symbol（圣徽；魔神类可用 symbol_label=邪徽 改标签）、animal（圣兽）、color（圣色）、temples（神殿）、worshipers（信徒）、minions（仆从）、centers（崇拜中心）、home（居所）、nationality（族类，AoN 的 Nationality）、
+other_pantheons（其他神系）、pantheon（神系）、source（出处）、description（卡片下方的补充说明）、aon。
+服从仪典的神恩用 [[模板:神恩]]。
+
+排版复用 `{{物品}}` 的 `.item` 样式类（那套本来就是通用的「条目卡片」排版），
+只换了强调色。样式在 [[MediaWiki:Common.css]]。
+[[分类:模板]][[分类:规则模板]]
+</noinclude>

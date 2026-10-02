@@ -1,0 +1,12 @@
+{{Feat
+|name=折箭伤爪
+|english_name=Wounded Paw Gambit
+|categories=战斗;团队
+|description=你的敌人以为你是一个更易对付的目标，却忽视了远处你的盟友正拉弓向他瞄准。
+|prerequisites=[[弃兵断翼]]UC，唬骗技能5级
+|benefit=当你发动[[弃兵断翼]]专长的效果并且敌人对你发动攻击时，你同样拥有此专长且距离目标30尺内的盟友将可以以一个[[直觉动作]]对其发动一次远程攻击，前提是他持有一件装填好或者可以投掷的远程武器。
+|extra=同时拥有本专长和弃兵断翼专长的盟友也可以转而使用后者的效果对目标发动借机攻击，但无法既发动借机攻击也进行本专长提供的远程攻击。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

@@ -1,0 +1,14 @@
+{{防具
+|name=山文铠
+|english_name=Mountain pattern
+|acat=中型盔甲
+|price=250 gp
+|weight=40磅
+|ac=+6
+|maxdex=+3
+|acp=–4
+|asf=30%
+|speed=20尺／15尺
+|description=这件中型盔甲由数百片相互咬合的小钢片构成，钢片被打造成古文“山”字的形状，再铆接在布制或皮制的衬底上。山文铠的穿法如同[[链甲]]长袍，保护穿戴者的躯干、双肩和大腿。
+|source=极限战斗、极限宝具
+}}

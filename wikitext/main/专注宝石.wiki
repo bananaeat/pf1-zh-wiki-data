@@ -1,0 +1,14 @@
+{{魔法物品
+|name=专注宝石
+|english_name=Centering Jewel
+|aon=MagicWondrousDisplay.aspx?FinalName=Centering Jewel
+|cat=奇物
+|aura=微弱变化系
+|cl=1
+|slot=头饰
+|price=1,000 gp
+|description=这枚简单的泪滴形宝石佩戴在额头正中，赋予佩戴者迅速集中精神的能力。佩戴者可以以[[迅捷动作]]使自己集中精神（见《[[异能冒险]]》第144页）。
+|req=[[制造奇物]]、[[洞察力激增]]
+|cost=500 gp
+|source=异能选集
+}}

@@ -1,0 +1,15 @@
+{{Spell
+|name=群体敲击术
+|english_name=Knock, mass
+|school=变化系
+|levels=催眠师 6;先知 6;奥能师 6;审判者 6;异能者 6;战斗祭司 6;术士 6;法师 6;牧师 6;秘学士 6
+|action=标准动作
+|components=语言
+|range=近距（25尺+5尺/2等级）
+|target=一个关闭的工具/等级，任意两者之间的距离不超过30尺
+|duration=立即
+|save=无
+|sr=否
+|description=也被称为“解除枷锁”，该法术的功能如同[[敲击术]]，不过可以同时对复数关闭的工具起效。
+|source=内海神殿
+}}

@@ -1,0 +1,12 @@
+{{Feat
+|name=巨人猛击
+|english_name=Giant's Wallop
+|categories=战斗
+|pfs=否
+|description=你的猛击让小敌人们失去意识。
+|prerequisites=力量13，[[猛力攻击]]，[[要害打击]]，BAB+6，巨人
+|benefit=当你同时应用猛力攻击和要害打击的一次近战攻击命中体型至少比你小一个等级的生物时，该生物会晕眩1轮。成功的强韧检定可以免受该效果（DC=10+BAB），你必须在进行攻击检定前选择使用此专长。
+|special=此效果与[[巨人击倒]]的效果叠加。
+|source_name=冒险之路91：血征山之战
+|source_url=https://pf1chm.pages.dev/topics/91_Battle_of_Bloodmarch_Hills.htm
+}}

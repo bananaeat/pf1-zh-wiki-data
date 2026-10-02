@@ -1,0 +1,13 @@
+{{危害
+|name=巫妖之尘
+|english_name=Lich dust
+|kind=毒药
+|type=摄入
+|save=强韧 DC 17
+|onset=10分钟
+|frequency=1次/分钟，持续6分钟
+|effect=1d3点力量伤害
+|cure=连续2次豁免成功
+|price=400 gp
+|source=核心规则书、极限宝具
+}}

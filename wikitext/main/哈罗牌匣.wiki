@@ -1,0 +1,9 @@
+{{装备
+|name=哈罗牌匣
+|english_name=Harrow carrying case
+|cat=娱乐
+|price=10 gp
+|weight=2磅
+|description=这个小巧的[[暗木]]匣子带有一处凹进去的空间，刚好可以放下一副哈罗牌和一张哈罗牌垫，另有一个小格用于放熏香。只要放在牌匣中，非魔法的哈罗牌就不会被撕破、扯裂、水浸、折弯或火烧。
+|source=哈罗牌手册
+}}

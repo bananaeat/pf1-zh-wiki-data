@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=托拉格之戒
+|english_name=Ring of Torag
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Torag
+|cat=戒指
+|aura=微弱防护系
+|cl=3
+|slot=戒指
+|price=1,200 gp
+|description=这枚朴素的金[[魔法物品#戒指|戒指]]上镶着一颗大红宝石，其中仿佛有内在的火焰在闪烁。穿戴者对每天第一次命中他的火焰攻击获得火焰抗力10。这一保护每天清晨黎明时自行恢复。此外，穿戴者在对抗火焰法术和效果的豁免检定上获得+1抗力加值。戒指必须穿戴24小时后才会生效。
+|req=[[锻造戒指]]、[[抵抗能量伤害]]
+|cost=600 gp，48 XP
+|source=隼谷镇最后的希望
+}}

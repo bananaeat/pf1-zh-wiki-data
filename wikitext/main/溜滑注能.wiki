@@ -1,0 +1,17 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能选集|Psychic Anthology}}
+'''溜滑注能'''（Slick Infusion）是[[操念使]]的[[原力]]。
+
+元素：水；类别：性质注能；等级：2；超载：2
+
+前置：[[溜滑]]
+
+关联[[念袭]]类别：[[风卷雪]]，[[带电水]]，[[霜打]]，[[冰枪]]，[[水突]]
+
+豁免：反射，通过则无效
+
+你的念袭在它的范围里留下了光滑的水或者冰，只要念袭仍然在该区域中以及之后的1轮，令该区域成为[[困难地形]]，并且令在该区域中进行的[[特技]]检定DC增加5。只有在同时使用一个具有效果区域的塑形注能时，你才能使用该注能。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Slick Infusion|2=Slick Infusion}}
+
+[[分类:原力]]

@@ -1,0 +1,18 @@
+{{武器
+|name=手里剑（5发）
+|english_name=Shuriken (5)
+|category=武器
+|prof=异种
+|wcat=远程
+|price=1 gp
+|weight=1/2磅
+|dmg_s=1
+|dmg_m=1d2
+|crit=×2
+|range=10尺
+|type=穿刺
+|special=武僧
+|groups=武僧，投掷
+|description=手里剑是一小片边缘锋利、被设计用来投掷的金属片。手里剑无法被当作近战武器使用。虽然是投掷武器，手里剑在拔取、制作精制品或其他特殊版本、以及投出之后的处置上视为弹药。
+|source=核心规则书、极限宝具、远程战术工具箱
+}}

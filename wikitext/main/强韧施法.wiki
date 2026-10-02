@@ -1,0 +1,10 @@
+<noinclude>{{异能者导航}}
+'''强韧施法'''（Relentless Casting, Su）是[[异能者]]的[[精神增幅|精神增幅]]。
+
+</noinclude>异能者能够从精神力池中花费1点精神力，来使得联结法术在克服[[特殊能力#法术抗力|法术抗力]]时需要进行的施法者等级检定可以投掷两次并取较好的结果。由于异能者必须在开始施放法术时决定是否花费精神力，因此她必须在GM要求进行施法者等级检定之前决定是否使用该能力。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_310.html 精神增幅]、[https://pf1chm.pages.dev/topics/zhb4162fc9dd.htm 乌笃剌精神增幅]、[https://pf1chm.pages.dev/topics/page_855.html PSI技术]），按 AoN 核对过。全部精神增幅见 [[精神增幅]]。
+
+[[分类:精神增幅]]
+
+{{职业}}</noinclude>

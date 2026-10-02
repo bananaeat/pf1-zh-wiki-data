@@ -1,0 +1,12 @@
+{{Feat
+|name=灵猴突刺
+|english_name=Monkey Lunge
+|categories=战斗
+|description=你可以快速调整你的步伐，让你免受反击。
+|prerequisites=突刺专长，特技1级。
+|benefit=以一个[[标准动作]]发动攻击，你可以使用[[突刺]]专长在你的回合结束之前，令你近战攻击的攻击距离增加5尺，而不承受AC减值。你不能在中载或重载的时候使用此专长。
+|normal=使用突刺专长进行攻击时，你的AC直到你的下个回合前承受-2减值。
+|source=StLC
+|source_name=萨加瓦，失落的殖民地
+|source_url=https://pf1chm.pages.dev/topics/page_531.html
+}}

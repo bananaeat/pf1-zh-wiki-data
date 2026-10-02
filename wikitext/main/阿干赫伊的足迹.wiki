@@ -1,0 +1,10 @@
+{{Trait
+|name=阿干赫伊的足迹
+|english_name=Footsteps of Aganhei
+|type=地区
+|prerequisites=世界之冠
+|description=阿干赫伊之道是一条从天夏到阿维斯坦，并需横穿那寒冷的世界之冠的暴利贸易路线，而你是其中的一名已横穿阿干赫伊之道的勇敢旅者。该远行让你更加坚强，并在对抗寒冷气候影响的强韧豁免骰上获得+1背景加值。生存是你的[[本职技能]]，并且你获得哈利特语、弘剌语、明海语、乌尔芬语或天洲语之一作为奖励语言。
+|source_name=商人货单
+|source=MM
+|source_url=https://pf1chm.pages.dev/topics/zh22b22ddf01.htm
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=巫术符文
+|english_name=Hexing Runes
+|aon=MagicWondrousDisplay.aspx?FinalName=Hexing Runes
+|cat=奇物
+|aura=中等防护系
+|cl=8
+|slot=颈部
+|price=10,000 gp
+|description=这些符文可以用木头雕成，或用白银铸成，佩戴在皮绳上。女巫准备法术时，也可以选择用这套巫术符文来强化她能使用的一种[[巫术]]。这种巫术的豁免DC在24小时内提高1点。此外，每日1次，当她说出命令字时，佩戴者获得守护巫术的好处，如同由8级女巫使用一般。
+|req=[[制造奇物]]、[[法术专攻]]（防护系）、[[提升抗力]]，制造者必须能使用[[守护(巫术)|守护巫术]]
+|cost=5,000 gp
+|source=屠龙者手册
+}}

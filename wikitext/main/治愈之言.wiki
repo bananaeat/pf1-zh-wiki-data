@@ -1,0 +1,10 @@
+{{Feat
+|name=治愈之言
+|english_name=Word of Healing
+|description=你可以使用你圣疗术的力量治愈远处的人。
+|prerequisites=【圣疗】职业特性。
+|benefit=你可以用【圣疗】治疗30尺内的生物，这是一个标准动作，不会引发[[借机攻击]]。你必须可以说话并且有一只空着的手来使用这个能力。目标受到的治疗量等同于你接触到他们时的一半，但是受到全部的【恩惠】效果。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

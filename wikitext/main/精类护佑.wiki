@@ -1,0 +1,9 @@
+{{Trait
+|name=精类护佑
+|english_name=Fey Protection
+|type=魔法
+|description=你的降生为父母家中带来了一位不速之客：一位友善的精类预言了你的未来，并以魔法赠礼回报你父母的款待——一杯牛奶与你的一滴鲜血。你在对抗精类发动的[[借机攻击]]时AC获得+1背景加值，对抗精类生物效果的豁免检定也获得+1背景加值。
+建议角色：杜鲁玛人，[[古老者]]信徒，乌尔芬人
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

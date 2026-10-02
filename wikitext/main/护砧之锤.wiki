@@ -1,0 +1,10 @@
+{{Feat
+|name=护砧之锤
+|english_name=Hammer Guards the Anvil
+|categories=团队
+|description=你的盟友会在你放松警惕的时候掩护你。
+|benefit=当你从地上捡起物品，拿出一个存放的物品，收起武器或者是从地上起身时，被拥有这个专长的盟友威胁着的生物不能对你进行[[借机攻击]]。
+|source=EMH
+|source_name=元素大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_1111.html
+}}

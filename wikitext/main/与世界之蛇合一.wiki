@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=与世界之蛇合一
+|english_name=World Serpent Totem Unity
+|type=Su
+|categories=图腾
+|prerequisites=[[野蛮人]]10级，[[世界之蛇圣灵]]，[[世界之蛇图腾]]
+|benefit=狂暴时，野蛮人的[[野蛮人#快速移动|快速移动]]加值翻倍加到陆地移动速度上，且他无法被击倒。同时，他在面对来自异界生物或异怪的重击时，[[世界之蛇图腾]]的AC洞察加值将会翻倍。
+|source_name=极限战斗
+}}

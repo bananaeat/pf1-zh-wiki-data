@@ -1,0 +1,13 @@
+{{武器
+|name=小星石
+|english_name=Halfling little starstones (10)
+|category=弹药
+|wcat=弹药
+|price=5 cp
+|weight=2磅
+|dmg_s=1
+|dmg_m=1
+|type=钝击
+|description=这些鹅卵石用线或布包裹，虽然严格说来属于投石索弹药，但主要用于发信号或庆典而非战斗，因为它们的力道勉强只够让人感到刺痛。用油或烈酒浸泡后，它们会明亮地燃烧1轮，如同蜡烛一般照亮一片区域，并在飞行途中划出短暂的光带。它们通常不够热，又燃烧得太快，无法点燃可燃物。
+|source=格拉利昂的半身人
+}}

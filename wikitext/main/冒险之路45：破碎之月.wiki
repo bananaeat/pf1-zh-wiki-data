@@ -1,0 +1,39 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #45: Broken Moon
+|authors=Tim Hitchcock
+|pages=96
+}}
+
+{{书页/简介|head=血月疯狂|1=
+在臭名昭著的颤栗林（Shudderwood）的阴影之中，潜伏着致命的野兽、野蛮的疯子，以及模糊了这两者界线的怪物。英雄们循着默语之道（Whispering Way）那些邪恶死灵法师的足迹，踏入这片令人胆寒的荒野。然而，当邪教徒们的行经让这片森林脆弱的平静陷入混乱，冒险者们发现，狂野荒原中唯一的安全孤岛，已被变成一头变形怪物的杀戮场。PC 们能否逃出这片恐怖肆虐的荒野，终于揭开死亡邪教徒的真正阴谋？还是说，[[兽化人]]的诅咒也会将他们攫走？
+
+本期《开拓者》冒险之路延续「腐肉王冠」冒险之路，内容包括：
+
+* 《破碎之月》，一部面向 7 级角色的开拓者冒险，作者 Tim Hitchcock。
+* 默语之道——一个效忠死亡与不死之力的臭名昭著的邪教——的秘密，以亵渎的细节揭示，作者 Adam Daigle。
+* 对狼人、鼠人及其他兽化人野蛮生活的洞察，作者 Gareth Hanrahan。
+* Laurel Cylphra 在「探索者日志」中直面一桩远古之谜，作者 F. Wesley Schneider。
+* 七种刺激而致命的新怪物，作者 Tim Hitchcock、Rob McCreary 和 Patrick Renie。
+}}
+
+'''冒险之路45：破碎之月'''（''Pathfinder #45: Broken Moon''）是[[冒险之路]]「腐肉王冠」系列的第三章冒险，由 Tim Hitchcock 撰写，配套文章出自 Adam Daigle、Gareth Hanrahan、Rob McCreary 和 Patrick Renie，小说出自 F. Wesley Schneider，于 2011 年 5 月 18 日发行。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+破碎之月 @ 6
+默语之道 @ 64
+[[兽化人]]生态 @ 70
+探索者日志：罪血（3／6） @ 76
+怪物图鉴 @ 82
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Broken Moon
+|releases=PDF¦PZO9045E¦2011-05¦；Softcover¦PZO9045¦2011-05¦978-1-60125-310-1
+}}
+
+[[分类:书目]]

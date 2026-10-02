@@ -1,0 +1,14 @@
+{{魔法物品
+|name=鲨齿护符
+|english_name=Shark Tooth Amulet
+|aon=MagicWondrousDisplay.aspx?FinalName=Shark Tooth Amulet
+|cat=奇物
+|aura=微弱防护系
+|cl=5
+|slot=颈部
+|price=9,000 gp
+|description=这枚护符由一整颗巨大的鲨鱼牙化石制成，用海带绳挂起，让佩戴者在水下拥有战斗的能力。佩戴此护符时，佩戴者可以在水下正常使用近战武器，攻击不受减值，造成全额伤害。这枚护符还允许佩戴者在水下进行投掷类远程武器攻击，不过这类攻击的攻击检定受到–2减值，射程增量减半。
+|req=[[制造奇物]]、[[海洋之触]]，制造者必须是[[水元素裔]]或具有水系亚种
+|cost=4,500 gp
+|source=进阶种族手册
+}}

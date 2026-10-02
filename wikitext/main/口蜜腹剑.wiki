@@ -1,0 +1,9 @@
+{{Trait
+|name=口蜜腹剑
+|english_name=Charming Smile, Cunning Soul
+|type=典范
+|description=你知道如何狡诈地编织文字，动摇人心和思考能力，口头上摧毁对手，和揭穿精巧的谎言。你在[[唬骗]]、交涉、威吓和察言观色检定上获得+1背景加值。你每拥有两个其他的社会背景这项加值增加1。
+|source_name=典范背景
+|source=Chronicle of Legends
+|source_url=https://pf1chm.pages.dev/topics/zh8c5ec22f89.htm
+}}

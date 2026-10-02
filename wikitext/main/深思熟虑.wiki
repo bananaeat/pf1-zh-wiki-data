@@ -1,0 +1,10 @@
+{{Feat
+|name=深思熟虑
+|english_name=Thoughtful Discernment
+|description=回想一下，你会发现那句曾经信以为真的话其实是个谎言。
+|prerequisites=【辨识谎言】职业特性。
+|benefit=每天以一个[[自由动作]]，你可以回想一句你在过去1天内听过的话并且识别其是否谎言。这个行动就如同一个[[辨识谎言]]法术，但是用一句句子代替了一个生物。例如，如果国王在你出发去寻找他女儿之前告诉你：“我的女儿在怪物的地下城里。”只要国王是在过去的1天之内对你说了这句话，你就可以用这一专长来判定国王作此发言时是否是故意且明知地对你说了谎。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

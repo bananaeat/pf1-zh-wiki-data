@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=灵魄焦点
+|english_name=Anima Focus
+|aon=MagicArtifactsDisplay.aspx?ItemName=Anima Focus
+|cat=神器
+|tier=高等神器
+|aura=强烈咒法系、死灵系
+|cl=20
+|slot=无
+|weight=9吨
+|description=灵魄焦点是一件巨大的神器，由卡祖格在瑟西隆最后的岁月里，依据贪婪领主们在Runeforge的研究与笔记创造而成。这件神器维系着物质位面与贪婪之眼（Eye of Avarice）之间的联系，并把经特殊仪式处理过的贪婪灵魂的碎片，通过贪婪之眼中的灵魂透镜（soul lens），吸入符文井（runewell）本身。灵魄焦点还有其他与贪婪之巅（Pinnacle of Avarice）相连的力量——详见第359页。
+|destruction=必须先摧毁与灵魄焦点相连的灵魂透镜，此后灵魄焦点才可被物理伤害或魔法摧毁（硬度20；生命值800；破坏DC 50）。
+|source=冒险之路6：辛沙拉斯特尖塔、符文领主崛起周年纪念版
+}}

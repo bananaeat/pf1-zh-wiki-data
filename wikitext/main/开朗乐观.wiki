@@ -1,0 +1,9 @@
+{{Trait
+|name=开朗乐观
+|english_name=Stoic Optimism
+|type=宗教
+|prerequisites=信仰[[黛丝娜]]
+|description=你知晓只有经历过痛苦才能品味生活中的甘美，所以即使别人都垂头丧气你也依旧乐观。你对抗恐惧效果时豁免获得+2背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

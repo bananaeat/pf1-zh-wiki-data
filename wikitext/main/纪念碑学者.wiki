@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Varisia, Birthplace of Legends pg. 31, Shattered Star Player's Guide pg. 4），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=纪念碑学者
+|english_name=Monument Scholar
+|type=战役
+|pfs=否
+|description=你还是玛格尼玛的一个孩子时，这座城市的古老纪念碑就让你满怀惊奇。此后多年，你对这些遗迹的着迷有增无减，促使你加入探索者协会，好进一步满足你对知识的渴求。虽然你对纪念碑的实际传说所知不多，但你对这些巨型造物做过广泛的研究，对城中一些最著名的地标有着深入的了解。由于熟悉瓦瑞西亚的历史遗存，你在瓦瑞西亚进行的[[知识]]（历史）检定获得+1背景加值。如果该检定与玛格尼玛城有关，这个加值增加到+2。此外，你为从玛格尼玛某座注入魔力的纪念碑获得恩赐而进行的任何技能检定获得+2背景加值（详见《玛格尼玛，纪念碑之城》）。
+|source_name=瓦瑞西亚，传说诞生之地
+|source=VBoL
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Monument%20Scholar
+}}

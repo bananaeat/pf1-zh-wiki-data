@@ -1,0 +1,14 @@
+{{魔法物品
+|name=无前硬币
+|english_name=Coin of the Untrodden Road
+|aon=MagicWondrousDisplay.aspx?FinalName=Coin of the Untrodden Road
+|cat=奇物
+|aura=中等变化系
+|cl=6
+|slot=无
+|price=6,000 gp
+|description=这枚黯淡无光的铜币被抛向空中时，会带出因人生抉择而错失的潜能。当[[人类]]、[[半精灵]]或[[半兽人]]抛出硬币并接住它时，她会在自己那项被+2种族属性加值所调整的属性值上承受-2减值，但会在随机的另一项属性值上获得+2固有加值。这个加值与减值持续1小时。消除减值时，加值也会随之自动消除。这枚硬币每天可以使用3次。
+|req=[[制造奇物]]、[[变身术]]
+|cost=3,000 gp
+|source=极限宝具
+}}

@@ -1,0 +1,8 @@
+{{狂暴之力
+|name=次等教团图腾
+|english_name=Cult Totem, Lesser
+|type=Ex
+|categories=图腾
+|benefit=野蛮人狂暴时，他在攻击检定上获得的任何士气加值，或因[[夹击]]获得的加值都将被加到伤害上，而不是加到攻击检定上。这些加值仍然是士气加值，且不与其他伤害上的士气加值叠加。
+|source_name=惧怖冒险
+}}

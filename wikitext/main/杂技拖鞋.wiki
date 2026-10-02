@@ -1,0 +1,15 @@
+{{魔法物品
+|name=杂技拖鞋
+|english_name=Acrobat Slippers
+|aon=MagicWondrousDisplay.aspx?FinalName=Acrobat Slippers
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=脚部
+|price=3,000 gp
+|weight=2磅
+|description=这双柔软的灰色皮拖鞋能让穿戴者在险境中保持平衡。穿戴者在攀爬、奔跑，或使用特技技能在狭窄表面或不平地面上移动而没有跌倒时，保留其敏捷加值对AC的加成。此外，穿戴者对抗[[摔绊]]战技的[[CMD]]获得+2表现加值，避免坠落（包括摔倒成俯卧）的反射豁免检定也获得+2表现加值。
+|req=[[制造奇物]]、[[猫之优雅]]
+|cost=1,500 gp
+|source=极限宝具
+}}

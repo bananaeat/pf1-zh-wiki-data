@@ -1,0 +1,12 @@
+<noinclude>{{奥能师导航}}
+'''原能转耗'''（Consume Primal Magic, Su）是[[奥能师]]的[[奥能技艺|奥能技艺]]。
+
+</noinclude>{{Source|格拉利昂的英雄|Heroes of Golarion|inline}}
+
+当奥能师遭遇原能魔法事件时，可用直觉动作尝试汲取它的力量，如同[[奥能师#转耗法术|转耗法术]]职业能力。奥能师需在DC为「10+原能魔法事件CR」的强韧豁免中成功，否则将转耗失败并恍惚1d4轮。奥能师必须已有[[奥能技艺#迅捷转耗|迅捷转耗]]技艺才能选择该技艺。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_96.html 原文]），按 AoN 核对过。全部奥能技艺见 [[奥能技艺]]。
+
+[[分类:奥能技艺]]
+
+{{职业}}</noinclude>

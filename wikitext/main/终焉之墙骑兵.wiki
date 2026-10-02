@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=终焉之墙骑兵
+|english_name=Lastwall Cavalry Rider
+|type=地区
+|prerequisites=终焉之墙
+|description=从你刚会走路起，你就学习驾驭终焉之墙雄壮的战马。你的[[骑术]]检定获得+1背景加值，并且骑术总是你的本职技能。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Lastwall%20Cavalry%20Rider
+}}

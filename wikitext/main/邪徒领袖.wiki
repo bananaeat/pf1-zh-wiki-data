@@ -1,0 +1,9 @@
+{{Trait
+|name=邪徒领袖
+|english_name=Wicked Leader
+|type=社会
+|description=你对邪恶生物的魅力检定获得+1背景加值。当你在满足先决条件时选择[[领导力]]专长或[[邪恶领导力]]专长(见14页),只要你的部属都为邪恶，你便可以招募一位等级比自己低1级(而非通常情况下等级比自己低2级或更多)的部属。
+|source_name=秽邪勇士
+|source=社交
+|source_url=https://pf1chm.pages.dev/topics/zh2cdfe76676.htm
+}}

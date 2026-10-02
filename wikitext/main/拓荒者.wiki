@@ -1,0 +1,10 @@
+{{Trait
+|name=拓荒者
+|english_name=Frontier-Forged
+|type=地区
+|prerequisites=任意边境
+|description=在文明边缘的艰苦生活增长了你的智谋，但也让你有着过度的自保倾向和受害妄想。你的察觉检定获得+1背景加值，在荒野中求生的生存检定获得+1加值。
+|source_name=地区背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

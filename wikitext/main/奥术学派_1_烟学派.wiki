@@ -1,0 +1,21 @@
+<noinclude>{{法师导航}}</noinclude>
+==烟学派（Smoke）==
+
+{{Source|元素大师手册|Elemental Master's Handbook|inline}}
+
+'''烟学派'''是[[奥术学派|元素奥术学派]]的一个专攻学派。
+<small>章里这一节的标题上标着'''非 PFS 合法'''。</small>
+
+
+'''关联元素：'''气和火
+
+'''替换能力：'''以下学派能力取代了气学派的电光一闪和飓风，或火学派的火焰放射和不知火舞。
+
+'''烟雾视觉'''（Smokesight, Su）：你可以看穿自然云雾和烟雾，以及任何你（而不是别人）通过魔法制造的云烟。每天等同于3+智力调整次，你可以用一个[[标准动作]]接触另一个生物，使其获得这种视觉，持续1小时。
+
+'''烟雾之躯'''（Body of Smoke, Sp）：在8级时，你可以迅捷动作进入[[气化形体]]（就像是同名法术一样），每天可以使用等同于你法师等级的分钟。这些时间不需要连续，但必须以1分钟为单位使用。
+
+<noinclude>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1115.html 原文]）的《[[元素大师手册]]》[[神秘元素学派]] 一章。</noinclude>
+
+<noinclude>{{AoN原文|1=SchoolDisplay.aspx?ItemName=Air|2=Air (Elemental School)|3=SchoolDisplay.aspx?ItemName=Fire|4=Fire (Elemental School)}}
+[[分类:奥术学派]]</noinclude>

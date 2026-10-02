@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Rise of the Runelords Anniversary Edition Player's Guide pg. 4），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=商贾世家
+|english_name=Merchant Family
+|type=战役
+|pfs=否
+|description=你与创立砂点镇商业联盟的四个玛格尼玛贵族家族之一有亲缘关系。你要么是作为瓦尔德马家族或德弗林家族的表亲在玛格尼玛长大，要么是在砂点镇土生土长。经营生意的教育以及多年打理家族产业的经验，使你在买卖上颇有一套。你使任何定居点的金币上限提高20%，并且在转卖物品时，你能比正常出售宝藏所得的金币额外多得10%。
+|source_name=Rise of the Runelords Anniversary Edition Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Merchant%20Family
+}}

@@ -1,0 +1,12 @@
+{{Feat
+|name=爆肉刚体
+|english_name=Rebuffing Reduction
+|categories=战斗
+|description=你坚固的身躯可以将敌人的攻击力道悉数弹回。
+|prerequisites=力量13，伤害减免能力，[[精通冲撞]]，[[猛力攻击]]，基本攻击加值+1。
+|benefit=当一个与你相邻的敌人的一次近战攻击没能穿透你的伤害减免，你可以花费[[直觉动作]]对其进行一次[[冲撞]][[战技]]检定。如果成功，你不会也不能随着该敌人一起移动。
+|normal=冲撞战技检定是一个[[标准动作]]。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

@@ -1,0 +1,13 @@
+{{危害
+|name=心霾气雾
+|english_name=Hazemind mist
+|kind=毒药
+|type=吸入
+|save=强韧 DC 13
+|onset=1轮
+|frequency=1次/轮，持续10轮
+|effect=受害者的心智变得模糊，其对所有其他生物的态度都会向冷漠靠近一阶；以魅力、交涉、驯养动物或威吓检定影响受害者的 DC 增加4
+|cure=1次豁免成功
+|price=225 gp
+|source=魔宠手记
+}}

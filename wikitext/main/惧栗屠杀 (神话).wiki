@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[惧栗屠杀]] 的神话版本。</small></div>
+{{Feat
+|name=惧栗屠杀
+|english_name=Dreadful Carnage
+|categories=神话
+|description=你那肆意杀戮的身影会让目击者心惊胆寒。
+|prerequisites=[[惧栗屠杀]]
+|benefit=当你使用[[惧栗屠杀]]专长时，除了对所有30尺内的敌人产生影响外，你还能够影响60尺内的非神话敌人。在使用惧栗屠杀专长进行威吓检定之前，你能够花费1次神话之力，使被挫败士气的敌人[[惊惧]]而非原本的[[战栗]]，持续时间与正常的战栗效果一样。当敌人被该能力惊惧时，敌人的攻击检定、豁免检定、技能检定与属性检定受到等同于你的阶层的减值。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

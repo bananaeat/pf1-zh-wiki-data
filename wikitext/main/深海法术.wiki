@@ -1,0 +1,11 @@
+{{Feat
+|name=深海法术
+|english_name=Benthic Spell
+|pfs=否
+|categories=超魔
+|description=阿卡狄亚洋深处的探险者已经了解到致命的压力能够如同火焰一般制造死亡。
+|benefit=你可以调整一个造成酸液，寒冷，闪电或者火焰伤害的法术来通过高压水流造成伤害。法术会获得[水]描述符，并且你也可以用钝击伤害来代替原本法术伤害，或者是把法术伤害一半转换为钝击伤害，一半不变。受到深海法术钝击伤害的生物可以运用他们的钝击伤害减免，但是法术会在击破伤害减免时同时视为钝击和魔法。深海法术会占用高于原本1个环位的法术位。
+|source=EMH
+|source_name=元素大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_1113.html
+}}

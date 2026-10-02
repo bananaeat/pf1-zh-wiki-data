@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=高等能量抵抗
+|english_name=Energy Resistance, Greater
+|type=Ex
+|categories=防御
+|prerequisites=[[野蛮人]]8级，[[能量抵抗]]
+|benefit=野蛮人可以减少一半他所抵抗的能量伤害(减少一半的伤害，然后再应用[[能量抵抗]])。
+|special=这项能力每次狂暴只能使用1次。
+|source_name=进阶玩家指南
+}}

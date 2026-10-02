@@ -1,0 +1,17 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''多重念动'''（Many Throw）是[[操念使]]的[[原力]]。
+
+元素：[[以太]]；类别：塑形注能；等级：8；超载：4
+
+前置：[[增距]]
+
+关联[[念袭]]类别：[[念动]]
+
+豁免：无
+
+你操控大量物体并同时将它们投掷出去。你能够使用你的念动做出攻击检定对抗120尺内的复数目标，数量等同于你的[[操念使]]等级，但是任意两个目标之间的距离不得超过30尺。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Many Throw|2=Many Throw}}
+
+[[分类:原力]]

@@ -1,0 +1,10 @@
+{{Feat
+|name=勇敢的心
+|english_name=Courageous Resolve
+|description=即使别人退缩了，你依然坚持。
+|prerequisites=【胆小鬼】或【无畏】种族特性，半身人。
+|benefit=如果你有【无畏】[[种族特性]]，你在对抗恐惧的种族豁免奖励增加到+4。如果你有【胆小鬼】种族特性，你在对抗恐惧时豁免检定依然承受-2减值，但你可以正常获得士气加值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

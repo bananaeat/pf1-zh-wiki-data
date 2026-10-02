@@ -1,0 +1,11 @@
+{{Feat
+|name=旋舞花招
+|english_name=Confounding Tumble Deed
+|categories=派头
+|description=你藉着对方被你回转的动作弄得眼花缭乱，起手刺出防不胜防的一击
+|prerequisites=[[业余剑客]]专长或拥有派头职业能力，[[巧技寻机]]，特技技能7级
+|benefit=如果你通过特技检定移出敌人的威胁范围或占据空间而不引发[[借机攻击]]，且在此之后你在同一轮中成功地以近战攻击命中了这个目标，那么你可以以自由动作花费1点时髦值，在你的下一轮结束前忽视目标防御等级上的敏捷加值。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

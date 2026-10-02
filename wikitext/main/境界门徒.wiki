@@ -1,0 +1,10 @@
+{{Feat
+|name=境界门徒
+|english_name=Disciplinary Devotee
+|description=你熟练掌握了[[精神境界]]赋予的魔法。
+|prerequisites=[[精神境界]]职业能力
+|benefit=当你施放通过精神境界获得的法术时，你的施法者等级检定以及专注检定均会获得+1加值；而且当你对抗这些法术时，你的豁免检定能够获得+1洞察加值。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

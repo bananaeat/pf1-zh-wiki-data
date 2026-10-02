@@ -1,0 +1,9 @@
+{{Trait
+|name=苦痛艺术家
+|english_name=Pain Artist
+|type=种族
+|prerequisites=[[魔裔]]（镣铐之子）
+|description=你的链魔血脉之中的某些痕迹使得人们意识到你什么都做得出来，特别是当他们被绑在你面前祈求你的怜悯之时。当你对[[无助]]的生物进行威吓检定时获得+2背景加值。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_832.html
+}}

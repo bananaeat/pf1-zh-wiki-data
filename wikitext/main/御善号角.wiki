@@ -1,0 +1,15 @@
+{{魔法物品
+|name=御善号角
+|english_name=Horn of Goodness/Evil
+|aon=MagicWondrousDisplay.aspx?FinalName=Horn of Goodness/Evil
+|cat=奇物
+|aura=中等防护系
+|cl=6
+|slot=无
+|price=6,500 gp
+|weight=1磅
+|description=这支喇叭会根据持有者的阵营自我调整，因此会产生善良或邪恶的效果。如果持有者既非善良也非邪恶，号角便毫无力量。如果她是善良的，吹响号角会产生[[反邪恶法阵]]的效果；如果她是邪恶的，吹响号角会产生[[反善良法阵]]的效果。无论哪种情况，这道结界都持续1小时。号角每天可以吹响一次。
+|req=[[制造奇物]]、[[反邪恶法阵]]、[[反善良法阵]]
+|cost=3,250 gp
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,41 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #11: Skeletons of Scarwall
+|authors=Greg A. Vaughan
+|pages=96
+}}
+
+{{书页/简介|head=死者永不安眠！|1=
+被一段恐怖的历史所诅咒，一支亡灵大军横亘在科瓦萨与它唯一的救赎之间。在闹鬼的疤墙阴森的要塞里，远古军阀 Kazavon 那些毫无生气的军团，仍在守卫着它们已游荡了 700 多年的受诅咒厅堂。PC 们必须穿过一片遭遗弃的土地，抵达这座声名狼藉的堡垒那令人胆寒的大门，探索邪恶城堡闹鬼的厅堂，对抗异界的恐怖，并净化 Kazavon 末日留下的污秽，才谈得上最终打破腥红王座的诅咒。
+
+本册《冒险之路》内容包括：
+
+* Greg A. Vaughan 的冒险《疤墙骸骨》（"Skeletons of Scarwall"），适用于 12 级角色。
+* Sean K Reynolds 对黑暗、嫉妒与痛苦之神[[宗-库松]]那残忍教会的骇人一瞥。
+* James L. Sutter 对兽人统治的贝尔克泽恩——一片桀骜难驯、遍布怪物、野蛮与远古秘密的土地——的探索。
+* 在「探索者日志」中，被野蛮人包围的 Eando Kline 发现，兽人的残酷远远不止嗜血，作者 James L. Sutter。
+* Greg A. Vaughan 与 Sean K Reynolds 设计的五种新怪物。
+}}
+
+'''冒险之路11：疤墙骸骨'''（''Pathfinder #11: Skeletons of Scarwall''）是[[冒险之路]]「腥红王座的诅咒」系列的第五章冒险，由 Greg A. Vaughan 撰写，配套文章出自 Sean K Reynolds 和 James L. Sutter，小说出自 James L. Sutter，于 2008 年 7 月 30 日发售。
+
+== 目录 ==
+本册《冒险之路》收录残酷的贝尔克泽恩之地的地志、对黑暗与痛苦之神[[宗-库松]]的介绍，以及若干产自贝尔克泽恩和闹鬼的疤墙城堡深处的新怪物。
+{{书页/目录|1=
+前言 @ 4
+疤墙骸骨 @ 6
+贝尔克泽恩 @ 58
+[[宗-库松]] @ 64
+探索者日志 @ 70
+怪物图鉴 @ 76
+预设角色 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Skeletons of Scarwall
+|releases=PDF¦PZO9011E¦2008-07¦；Softcover¦PZO9011¦2008-07¦978-1-60125-099-5
+}}
+
+[[分类:书目]]

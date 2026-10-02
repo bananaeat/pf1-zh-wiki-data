@@ -1,0 +1,9 @@
+{{装备
+|name=哨兵模型
+|english_name=Sentry mannequin
+|cat=冒险装备
+|price=30 gp
+|weight=35磅
+|description=用5分钟组装好，并罩上附带的宽松兜帽和肥大衣物后，这个木框看起来就像一个警惕的人形。距离它超过30尺的生物必须通过DC 10的察觉检定，才能发现那并不是有人在站岗放哨。
+|source=极限宝具
+}}

@@ -1,0 +1,13 @@
+{{Feat
+|name=动物凶猛
+|english_name=Animal Ferocity
+|categories=战斗
+|description=当你被逼入绝境并负伤时，你会像一头野性的[[凶兽]]般战斗。
+|prerequisites=基础攻击加值+3，凶猛种族特性。
+|benefit=当你的生命值减少至0以下时，你可以进行攻击，但是每个攻击骰都要承受-5减值。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}
+
+{{FAQ|v5748eaic9wc8}}

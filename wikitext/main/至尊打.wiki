@@ -1,0 +1,12 @@
+{{Feat
+|name=至尊打
+|english_name=Improved Awesome Blow
+|categories=战斗
+|description=你擅长将对手一击打到空中，趁其无力防御时你的盟友便可接以连段。
+|prerequisites=力量13，可怖殴击或拳师王霸拳职业能力；[[猛力攻击]]
+|benefit=你在发动王霸拳[[战技]]攻击检定时获得+2加值，在对抗其他生物对你发动的王霸拳或[[可怖殴击]]战技攻击时在[[CMD]]上获得+2加值。每当你成功的使用了一次王霸拳将对手击飞，你的所有盟友（除了你）便可以因为目标的移动而对其发动[[借机攻击]]。
+|normal=因为王霸拳或可怖殴击而被迫移动的生物不会引发借机攻击。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

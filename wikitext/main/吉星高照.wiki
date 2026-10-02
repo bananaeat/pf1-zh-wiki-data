@@ -1,0 +1,9 @@
+{{Trait
+|name=吉星高照
+|english_name=Fortunate
+|type=魔法
+|description=你受到命运的祝福。每日一次，当你使用具有随机效果的法术或魔法物品时(例如[[困惑术]]、[[镜影术]]、[[虹光喷射]]或[[魔术袋]]),可在掷骰决定效果前选择掷骰两次并任选其一。
+建议角色：[[卡莉斯翠]]信徒、哈罗牌占卜师、乌笃剌人
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

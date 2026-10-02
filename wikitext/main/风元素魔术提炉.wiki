@@ -1,0 +1,15 @@
+{{魔法物品
+|name=风元素魔术提炉
+|english_name=Censer of Conjuring Air Elementals
+|aon=MagicWondrousDisplay.aspx?FinalName=Censer of Conjuring Air Elementals
+|cat=奇物
+|aura=中等咒法系
+|cl=13
+|slot=无
+|price=90,000 gp
+|weight=1磅
+|description=这个宽6英寸、带孔的金属容器，形似宗教场所里的[[香炉]]。香炉必须装入熏香才能运作。持有者可以以命令作为[[整轮动作]]召唤一只气元素。如果香炉里装的是[[冥想熏香]]，它会像施放召唤怪物 VII 一样召唤出一只高等气元素；如果装的是其他任何熏香，则像施放召唤怪物 V 一样召唤出一只大型气元素。召唤元素会消耗香炉里的普通熏香，或四分之一块冥想熏香。在上一只元素被遣散、被杀死或其召唤持续时间结束之前，香炉不能召唤另一只元素。
+|req=[[制造奇物]]、[[召唤怪物 V]]、[[召唤怪物 VII]]
+|cost=45,000 gp
+|source=极限宝具
+}}

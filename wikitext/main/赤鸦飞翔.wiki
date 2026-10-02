@@ -1,0 +1,22 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Flight of the Red Raven
+|authors=David Schwartz
+|pages=32
+}}
+
+{{书页/简介|head=站住，小偷！|1=
+臭名昭著的赤鸦偷走了[[春之匙]]（Vernal Key）——一件对一个偏远社群的存续至关重要的魔法神器。如今你必须追捕这个狡猾的强盗，看着他逃过格拉利昂一些最严酷的地带；可这条足迹径直通向一处宝藏堆，和一位被封在古老冰牢中的魔法守卫。等你抓到赤鸦的时候，正义也许会成为你心里最不在意的事。
+
+《赤鸦飞翔》是一部荒野冒险，面向 4 级角色，与世界上最受欢迎的角色扮演游戏兼容。这场戏剧性的追逐冒险带领角色们穿过严酷的荒野，来到偏远的雾峰山脉（Fog Peak Mountains），一个被囚禁了数个世纪的古老邪恶，正盼望着终于能逃出生天。
+}}
+
+'''赤鸦飞翔'''（''Flight of the Red Raven''）由 David Schwartz 撰写。他是 GameMastery 模组公开征稿大赛（GameMastery Module Open Call）的优胜者——在 150 多名申请者中最出色的一位。它是该产品线中第一部带有「探索者模组」（Pathfinder Module）品牌的模组。
+
+{{书页尾
+|pfw=Flight of the Red Raven
+|releases=PDF¦PZO9512E¦2008-05¦；Softcover¦PZO9512¦2008-05¦
+}}
+
+[[分类:书目]]

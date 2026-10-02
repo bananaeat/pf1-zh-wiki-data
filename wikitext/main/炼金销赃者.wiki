@@ -1,0 +1,11 @@
+{{Trait
+|name=炼金销赃者
+|english_name=Alchemical Fence
+|type=地区
+|pfs=否
+|prerequisites=出身卡塔佩什
+|description=成长于卡塔佩什的广阔集市之中，你和遍布全世界许多炼金术士和用毒者建立了关系。你知道如何在任何明确的地区和正确的人建立有用的联系。在决定一瓶特定的药水在[[定居点]]中能否买到时，如果该药水的价格在该定居点可购魔法物品的基础价值以内，其可购得的几率为90%，而非75%。此外当你在使用交涉来对一个与炼金或者毒药（包括制造毒药）相关话题获取信息时，你在该检定上获得+3背景加值。
+|source_name=药剂与毒药
+|source=P&P
+|source_url=https://pf1chm.pages.dev/topics/page_1257.html
+}}

@@ -1,0 +1,13 @@
+{{Feat
+|name=血喙
+|english_name=Blood Beak
+|categories=战斗
+|description=你的流血攻击血腥而又危险。
+|prerequisites=基本攻击加值+5，【天生武器】种族特性，天狗。
+|benefit=你的喙啄攻击伤害提升至1d6。此外，当你的喙啄攻击确认重击时，你额外造成1点[[出血]]伤害。
+|special=该专长获得的出血伤害与[[流血重击]]以及同类效果叠加，使你的出血伤害增加1点。
+|stamina=当你的喙啄重击确认时，你可以花费一点耐力点将[[流血伤害]]提升至1d4。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

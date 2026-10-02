@@ -1,0 +1,12 @@
+{{Feat
+|name=快速拖拽
+|english_name=Quick Drag
+|categories=战斗
+|description=你拖拽你的敌人，并顺手补上一击。
+|prerequisites=力量13，[[精通拖拽]]，[[猛力攻击]]，基本攻击加值+6。
+|benefit=当你行动时，你可以用一次单独的拖拽[[战技]]检定来代替你的一次近战攻击。你只能用使用最高攻击加值的那次攻击来拖拽。
+|normal=拖拽战技检定是一个[[标准动作]]。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

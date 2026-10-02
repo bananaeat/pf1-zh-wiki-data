@@ -1,0 +1,12 @@
+{{Feat
+|name=可信伪装
+|english_name=Convincing Persona
+|description=人们似乎潜意识中几乎忽略了对于你的假面伪装和真实身份之间的联系。
+|prerequisites=[[唬骗]]5级，表演（戏剧）5级，或是双重身份职业特性。
+|benefit=你的双重身份永远不会视为受损，除非遭受了一些大规模的公开揭露。这允许你无论多少人知道你的真实身份，你都可以在双重身份或是假面伪装中受益。你在让人不相信你和你的假面伪装之间有联系的唬骗检定，以及维持假面伪装的易容检定上获得+5环境加值。
+|source=ISI
+|source_name=内海诡道
+|source_url=https://pf1chm.pages.dev/topics/zhe315843410.htm
+}}
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhe315843410.htm 原文]）的《[[内海诡道]]》[[假面伪装]] 一章。

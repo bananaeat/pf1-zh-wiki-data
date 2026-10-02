@@ -1,0 +1,43 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #65: Into the Nightmare Rift
+|authors=Richard Pett
+|pages=96
+}}
+
+{{书页/简介|head=地上有巨人|1=
+五块碎星碎片已然到手，幻象把 PC 们指向瓦瑞西亚最偏远的角落之一——第六块碎片的守护之地。然而英雄们并不是第一批寻找这块碎片的人：抵达名为 Guiltspur 的古代遗迹后，他们发现一小支巨人军队正奉一头蓝龙之命发掘此地。但这还不是全部危险，因为英雄们很快发现，还有其他势力也在搜寻最后几块碎片——有的来自下方的幽暗地域，有的来自现实之外的梦魇领域冷原（Leng）！
+
+本册《冒险之路》延续「碎星」冒险之路，内容包括：
+
+* 《深入噩梦裂谷》，一部面向 13 级角色的开拓者冒险，作者 Richard Pett。
+* 以专门的地志，披露 H. P. 洛夫克拉夫特笔下著名的冷原高原此前不为人知的秘密——这片梦境与恐怖的诡异领域，作者 Greg A. Vaughan。
+* 符文、命运、职责与服从女神[[璃殇]]这一被遗忘的信仰背后那些失落而古老的秘密，作者 Sean K Reynolds。
+* 「探索者日志」中的炼金术士与鼠人，作者 Bill Ward。
+* 四种新怪物，包括洛夫克拉夫特式的恐怖和璃殇的使者，作者 James Jacobs、Sean K Reynolds。
+}}
+
+'''冒险之路65：深入噩梦裂谷'''（''Pathfinder #65: Into the Nightmare Rift''）是[[冒险之路]]「碎星」系列的一部冒险，由 Richard Pett 撰写，补充内容出自 James Jacobs、Sean K Reynolds 和 Greg A. Vaughan，小说出自 Bill Ward，于 2012 年 12 月 19 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+深入噩梦裂谷 @ 6
+NPC 图集 @ 58
+碎星宝藏 @ 62
+冷原：梦境彼端的恐怖 @ 64
+[[璃殇]] @ 70
+探索者日志：遥星之光（5／6） @ 76
+怪物图鉴 @ 80
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Into the Nightmare Rift
+|releases=PDF¦PZO9065E¦2012-12¦；Softcover¦PZO9065¦2012-12¦
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

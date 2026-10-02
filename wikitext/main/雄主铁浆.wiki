@@ -1,0 +1,15 @@
+{{魔法物品
+|name=雄主铁浆
+|english_name=Iron Lord's Transforming Slivers
+|aon=MagicWondrousDisplay.aspx?FinalName=Iron Lord's Transforming Slivers
+|cat=奇物
+|aura=中等变化系
+|cl=9
+|slot=无
+|price=1,000 gp
+|weight=2磅
+|description=这个小袋里的金属屑是[[精金]]、[[寒铁]]、[[秘银]]和钢的混合物。这些金属屑带有微弱的磁性，会粘在含铁金属上，但很容易擦掉。如果一件金属（或部分为金属）的武器被袋中的全部金属屑覆盖，并放进炽热的锻炉中过夜，它就会缓慢地增大或缩小一个体型类别，朝撒粉末的生物的体型靠拢。例如，一个中型生物给一把小型+1[[长剑]]撒上金属屑后，它会变成一把中型+1长剑。这种转变是永久的。无论武器大小，袋中的材料都只够改造一件武器。
+|req=[[制造奇物]]、[[鬼斧神工]]
+|cost=500 gp
+|source=内海诸神
+}}

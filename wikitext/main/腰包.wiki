@@ -1,0 +1,9 @@
+{{装备
+|name=腰包
+|english_name=Belt pouch
+|cat=冒险装备
+|price=1 gp
+|weight=1/2磅
+|description=典型的皮制或布制腰包都有一段皮绳，一头系牢开口，另一头系在你的腰上。它可以装下100-200枚硬币或两个苹果。
+|source=极限宝具
+}}

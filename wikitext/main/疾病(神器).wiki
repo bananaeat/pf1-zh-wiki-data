@@ -1,0 +1,8 @@
+<noinclude>{{消歧义|疾病}}</noinclude>
+{{物品
+|name=疾病
+|english_name=The Sickness
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。抽牌者遭遇难以治愈的疾病（如麻风）。虽然该病只有奇迹术与[[许愿术]]可以治愈，但疾病造成的伤害依然可以通过恢复术恢复。
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=灵化披风
+|english_name=Cloak of Etherealness
+|aon=MagicWondrousDisplay.aspx?FinalName=Cloak of Etherealness
+|cat=奇物
+|aura=强烈变化系
+|cl=15
+|slot=肩部
+|price=55,000 gp
+|weight=1磅
+|description=这件银灰色的披风似乎会吸收光线，而不是被光线照亮。只要下达命令，披风就会让穿戴者变为灵体（如同[[幻化灵体]]法术）。这一效果可以解除。披风每天总共最多生效10分钟，这段时间不必连续，但必须以1分钟为单位使用。
+|req=[[制造奇物]]、[[幻化灵体]]
+|cost=27,500 gp
+|source=核心规则书、极限宝具
+}}

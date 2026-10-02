@@ -1,0 +1,9 @@
+{{装备
+|name=寇兰庭葡萄酒
+|english_name=Corentyn wine
+|cat=饮食
+|price=15 gp／瓶
+|weight=1/2磅
+|description=用生长在寇兰庭盐雾中的红葡萄和白葡萄酿造的葡萄酒拥有一种酸酸甜甜的风味，在整个切利亚斯的贵族间受到追捧。
+|source=冒险者的军械库
+}}

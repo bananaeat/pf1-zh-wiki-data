@@ -1,0 +1,13 @@
+{{消歧义|凶猛野兽}}
+{{Feat
+|name=凶猛野兽
+|english_name=Ferocious Beast
+|categories=战斗
+|description=透过训练，又或者是与生俱来的能力，动物伙伴特别擅长扰乱敌人的行动。
+|prerequisites=威吓1级，动物伙伴
+|benefit=动物伙伴在进行挫败敌人士气和使用“嘲讽”UM专长的威吓检定时，以主人职业等级的一半（最少1）取代其魅力调整值。此外，动物伙伴可以用移动动作挫败敌人士气。
+|special=动物伙伴不能同时选取“凶猛野兽”与“威逼”专长。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zhd8cf60a796.htm
+}}

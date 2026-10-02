@@ -1,0 +1,17 @@
+{{武器
+|name=禅杖
+|english_name=Monk's spade
+|category=武器
+|prof=军用
+|wcat=双手
+|price=20 gp
+|weight=12磅
+|dmg_s=1d4/1d4
+|dmg_m=1d6/1d6
+|crit=×2
+|type=钝击或穿刺或挥砍
+|special=双头，武僧
+|groups=双头，武僧，长柄
+|description=这件长柄武器是一种双头武器。一头装有宽阔、形似铲子的锋利刃片，另一头则装有像一对牛角般向外突出的月牙刃。禅杖可以造成多种类型的伤害，具体取决于持用的方式：铲刃一侧可以造成钝击或挥砍伤害，月牙刃一侧可以造成挥砍或穿刺伤害。
+|source=极限战斗、极限宝具
+}}

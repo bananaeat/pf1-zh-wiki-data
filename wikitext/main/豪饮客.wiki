@@ -1,0 +1,10 @@
+{{Trait
+|name=豪饮客
+|english_name=Fortified Drinker
+|type=宗教
+|prerequisites=信仰[[凯登·凯连]]
+|description=[[凯登·凯连]]在你的心神中亦灌注了佳酿，令你不易为精神攻击所动。在你饮酒之后的1小时内，你在对抗影响心智的效果的豁免中获得+2背景加值。
+|source_name=宗教背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

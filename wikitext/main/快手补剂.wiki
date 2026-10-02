@@ -1,0 +1,10 @@
+{{装备
+|name=快手补剂
+|english_name=Swift hands tonic
+|cat=炼金工具
+|price=250 gp
+|weight=—
+|craft_dc=20
+|description=在服用以后，这种苦口、锈色的炼金调制剂可以给予你1d4次仅能用在解除装置和巧手检定上的炼金灵感使用次数。快手补剂的效力持续1小时；在此期间，你进行所有的特技和脱逃检定都必须投两次并取较差的结果。
+|source=极限诡道
+}}

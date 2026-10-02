@@ -1,0 +1,15 @@
+{{Spell
+|name=高等指名狙杀
+|english_name=Named bullet, greater
+|school=预言系
+|levels=游侠 4;猎人 4;奥能师 6;女巫 6;审判者 6;异能者 6;术士 6;法师 6
+|action=标准动作
+|components=语言;姿势;材料/圣徽（一件来自选定生物或生物类型的物品）
+|range=接触
+|target=一份弹药或一把投掷武器
+|duration=10分钟/等级或直到释放
+|save=意志，通过则无效（无害，物品）
+|sr=是
+|description=这个法术工作方式如同[[指名狙杀]]，但是它会造成每施法者等级2点的额外伤害 （最高40）。
+|source=极限战斗
+}}

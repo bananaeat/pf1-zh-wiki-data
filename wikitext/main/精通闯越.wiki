@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[精通闯越 (神话)]]。</small></div>
+{{Feat
+|name=精通闯越
+|english_name=Improved Overrun
+|categories=战斗
+|description=你善于击倒对手。
+|prerequisites=力量13，[[猛力攻击]]，基本攻击加值+1。
+|benefit=当你试图使用[[闯越]][[战技]]时，不会引发[[借机攻击]]。此外你在闯越检定获得+2加值，同时在对抗闯越的战技防御上获得+2加值。你试图闯越的目标无法躲避你。
+|normal=正常情况使用闯越战技会引发借机攻击。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[巨象重踏]]、[[闯越冲锋]]、[[飞身扑]]、[[高等闯越]]、[[鲨蜥 · 扑]]、[[鲨蜥 · 狂]]、[[鲨蜥流]]（7 个条目）

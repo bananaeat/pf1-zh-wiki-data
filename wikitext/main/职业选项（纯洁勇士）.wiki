@@ -1,0 +1,35 @@
+{{速查导航}}
+
+'''职业选项'''是《[[纯洁勇士]]》的一章：给善良阵营角色的一揽子选项——三条[[狂暴之力]]、五条[[科研发现]]、两部[[:分类:传世名作|传世名作]]、三条[[盗贼天赋]]、三条[[幻灵]]进化、三个女巫[[庇护主]]、六条[[巫术]]。
+
+== 本章条目 ==
+
+* [[次等天界图腾]]（Celestial Totem, Lesser）
+* [[天界毒素]]（Celestial Poisons）
+* [[改变阵营]]（Change Alignment）
+* [[神圣炸弹]]（Holy Bombs）
+* [[远程洗礼]]（Ranged Baptism）
+* [[高阶改变阵营]]（Change Alignment, Greater）
+* [[神圣偷袭]]（Sacred Sneak Attack）
+* [[自我牺牲]]（Sacrifice Self）
+* [[断流]]（Stem the Flow）
+* [[天界图腾]]（Celestial Totem；狂暴之力，站上早就有页）
+* [[高等天界图腾]]（Celestial Totem, Greater；狂暴之力，站上早就有页）
+* [[天堂喧嚣]]（Clamor of Heavens；传世名作，站上早就有页）
+* [[盐碱地上生命的绽放]]（Life Budding in Salted Earth；传世名作，站上早就有页）
+* [[幻灵#阵营制裁 (Alignment Smite, Su)|阵营制裁]]（Alignment Smite；[[幻灵]]进化，收在 [[幻灵]] 页里）
+* [[幻灵#牺牲 (Sacrifice, Su)|牺牲]]（Sacrifice；[[幻灵]]进化，收在 [[幻灵]] 页里）
+* [[幻灵#天界之颜 (Celestial Appearance, Ex)|天界之颜]]（Celestial Appearance；[[幻灵]]进化，收在 [[幻灵]] 页里）
+* 边界庇护主（Boundaries，收在 [[庇护主]] 页里）
+* 奉献庇护主（Devotion，收在 [[庇护主]] 页里）
+* 和平庇护主（Peace，收在 [[庇护主]] 页里）
+* [[净化灵光|净化灵光]]（Aura of Purity，收在 [[巫术]] 页里）
+* [[和平之绊|和平之绊]]（Peace Bond，收在 [[巫术]] 页里）
+* [[女巫的赠礼|女巫的赠礼]]（Witch's Bounty，收在 [[巫术]] 页里）
+* [[女巫的眷顾|女巫的眷顾]]（Witch's Charge，收在 [[巫术]] 页里）
+* [[非暴力诅咒|非暴力诅咒]]（Curse of Nonviolence，收在 [[巫术]] 页里）
+* [[安息|安息]]（Lay to Rest，收在 [[巫术]] 页里）
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_516.html 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

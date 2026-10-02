@@ -1,0 +1,9 @@
+{{Trait
+|name=名巧匠
+|english_name=Artisan
+|type=社会
+|description=你长期在工匠身边工作，或者你的双亲之一正是独当一面的名匠。你的单项工艺检定获得+2背景加值(何种子项自行决定)。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

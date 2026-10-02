@@ -1,0 +1,10 @@
+{{Feat
+|name=变身猎手
+|english_name=Shapeshifting Hunter
+|description=你将对于死敌的了解和变身能力相互融合。
+|prerequisites=【宿敌】职业特性，【自然变身】职业特性。
+|benefit=你的德鲁伊等级将与游侠等级叠加来决定你能够何时选择下一类宿敌。同样，你的游侠等级将与德鲁伊等级叠加来决定你的每日自然变身次数。你的自然变身能力次数上限为每天8次。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

@@ -1,0 +1,12 @@
+<noinclude>{{炼金术师导航}}
+'''高级瘟疫炸弹'''（Greater Plague Bomb*）是[[炼金术师]]的[[科研发现]]。
+
+</noinclude>{{Source|进阶种族手册|Advanced Race Guide|inline}}
+
+'''前提'''：炼金术师等级16；瘟疫炸弹*、烟雾炸弹*。
+
+'''效果'''：这种炼金炸弹散发出具有[[高等疫病术]]效果的烟云取代[[云雾术]]，它会充满两倍于炼金炸弹溅射范围的区域，并且持续每炼金术师等级1轮。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_238.html 原文]），按 AoN 核对过。全部科研发现见 [[:分类:科研发现|分类:科研发现]]。
+
+[[分类:科研发现]]</noinclude>

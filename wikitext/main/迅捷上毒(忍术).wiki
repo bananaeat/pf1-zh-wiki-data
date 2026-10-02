@@ -1,0 +1,9 @@
+<noinclude>{{忍者导航}}
+{{消歧义|迅捷上毒}}
+'''迅捷上毒'''（Swift Poisoner, Ex）是[[忍者]]的[[忍术|忍术]]。
+
+</noinclude>{{Source|武术手册|Martial Arts Handbook|inline}} 拥有此忍术的忍者可以用[[迅捷动作]]为武器涂上一剂毒药。<noinclude>
+
+[[分类:忍术]]
+
+{{职业}}</noinclude>

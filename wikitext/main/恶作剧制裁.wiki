@@ -1,0 +1,10 @@
+{{Trait
+|name=恶作剧制裁
+|english_name=Mischievous Smite
+|type=宗教
+|prerequisites=信仰[[查尔迪菈·祖拉斯瑞]]
+|description=你认为恶作剧是一种令敌人认清现实的神圣仪式。当你的邪恶制裁加值适用于[[战技]]检定时，你在进行[[阴招]]战技时不会引发[[借机攻击]]。若你本就不会因使用此战技而引发借机攻击（例如拥有[[精通阴招]]专长），你改为在对你的邪恶制裁目标进行的阴招战技检定上获得+2背景加值。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh9e38168036.htm
+}}

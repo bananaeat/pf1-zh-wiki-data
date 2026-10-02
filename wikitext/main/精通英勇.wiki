@@ -1,0 +1,11 @@
+{{Feat
+|name=精通英勇
+|english_name=Improved Bravery
+|categories=战斗
+|description=你的英勇之心可以抗拒恐惧之外的事物。
+|prerequisites=[[魅力]] 13，英勇职业能力
+|benefit=将你的英勇加值应用至所有对抗影响心灵效果的豁免上，以取代原本的只对恐惧效果生效。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

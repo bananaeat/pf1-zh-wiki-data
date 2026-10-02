@@ -1,0 +1,9 @@
+{{Trait
+|name=开门能手
+|english_name=Opener of Doors
+|type=宗教
+|prerequisites=信仰[[艾瑟塔]]
+|description=因为你对艾瑟塔热诚的信仰，你被赐予了寻找隐藏入口的技巧。你在寻找密门时察觉获得+2背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

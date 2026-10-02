@@ -1,0 +1,15 @@
+{{Feat
+|name=拖曳手
+|english_name=Grabbing Drag
+|categories=战斗
+|description=你可以轻松地拖着被你[[擒抱]]住的敌人一起移动。
+|prerequisites=[[擒拿手]]，[[精通擒抱]]；基础攻击加值+8或拳师等级4或武僧等级4
+|benefit=当你使用[[擒拿手]][[流派]]时，你可以在擒抱一个对手时，通过移动擒抱动作拖着他和你一起以全速而非半速移动。在此之后，你还可以以一个[[移动动作]]，拖着被你擒抱的对手以半速移动而无需进行擒抱检定对抗。你无法在同时擒抱两个目标时使用这个专长。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[大擒拿手]]（1 个条目）

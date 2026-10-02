@@ -1,0 +1,11 @@
+{{Trait
+|name=柯莱士商人
+|english_name=Keleshite Trader
+|type=地区
+|pfs=否
+|prerequisites=柯莱士或卡蒂亚(Kelesh or Qadira)
+|description=你那具有世界眼光的家教使你熟悉许多文化。你获得2门额外语言而且在知识[本地]检定获得+2背景加值。
+|source_name=卡蒂亚，东方明珠
+|source=QJotE
+|source_url=https://pf1chm.pages.dev/topics/zhfc3aecc1c0.htm
+}}

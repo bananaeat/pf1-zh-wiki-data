@@ -1,0 +1,19 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=升天四法老之葬礼面具
+|english_name=Funeral Mask of the Four Pharaohs of Ascension
+|aon=MagicArtifactsDisplay.aspx?ItemName=Funeral Mask of the Four Pharaohs of Ascension
+|cat=神器
+|tier=次级神器
+|aura=强烈变化系［守序］
+|cl=17
+|slot=头部和眼部
+|price=次级神器
+|weight=—
+|description=这张金色面具饰有一顶由56根[[鹰面斯芬克斯]]羽毛制成的头饰，各方面都相当于一支银制[[英灵号角]]，只是召唤出的野蛮人以古奥西里昂奴隶战士的样貌出现，各自手持一柄[[长矛]]。召唤这些野蛮人是一个只需动念即可启动的迅捷动作，而不必吹响号角。
+
+不过，这张面具更强大的能力，是召唤出升天四法老金字塔缺失的那一部分（见第3部分）。
+
+如果PC们击败了全部四位法老，面具就会碎成四块锯齿状的碎片并被摧毁。
+|source=与法老同葬
+}}

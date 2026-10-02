@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''炎之扇'''（Fan of Flames）是[[操念使]]的[[原力]]。
+
+元素：火；类别：塑形注能；等级：1；超载：1
+
+关联[[念袭]]类别：[[蓝焰击]]，[[火冲]]
+
+豁免：反射，通过则减半
+
+你的念袭在扇形火焰中延伸，伤害15尺锥形范围内的所有生物和物体。该豁免DC基于敏捷。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Fan of Flames|2=Fan of Flames}}
+
+[[分类:原力]]

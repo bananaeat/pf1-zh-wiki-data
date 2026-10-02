@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Agents of Evil pg. 19），民间汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=制裁反击
+|english_name=Smiting Reversal
+|categories=战斗
+|pfs=否
+|description=你能顶住神圣或邪秽力量的猛攻。
+|prerequisites=[[猛力攻击]]，[[健壮]]。
+|benefit=每天三次，当你成为敌人制裁攻击的目标后，你可以立即对该敌人进行一次[[借机攻击]]。这次攻击检定获得等同于你魅力调整值的加值。如果这次借机攻击命中，你的伤害骰获得等同于你角色等级的加值。这次借机攻击无视该生物拥有的一切伤害减免。
+|source=AoE
+|source_name=邪恶特务
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Smiting%20Reversal
+}}

@@ -1,0 +1,38 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Heroes for Highdelve
+|authors=Amanda Hamon
+|pages=16
+}}
+
+{{书页/简介|head=你会挺身而出吗？|1=
+高掘（Highdelve）陷入了危险，只有真正的英雄才能挽救局面！
+
+年轻的人类堂亲布里亚拉（Brialla）和梅赖娜（Meraina），以及性情暴烈的半兽人基柳克（Kiliuk）和沉稳的矮人托尔根（Torgen），正沉浸在高掘欢乐的夏日庆典——亮花节（Brightbloom Jubilee）之中。可是，当受到表彰的年轻人们伤痕累累、浑身是血地回到镇上时，一切都被打碎了。不仅如此，恶霸们还抢走了一枚对镇民和守护他们的威严金龙都珍贵无比的护符。当这些访客登上山去与肇事者对质时，他们发现情况比表面看上去棘手得多。英雄们能否阻止一位[[提夫林]]主谋把一头[[双头巨人]]放到庆典上的阴谋？还是混乱会赢得这一天？
+
+《高掘镇需要英雄》是一部面向本卷所附四名 1 级预设英雄的冒险，为屡获殊荣的开拓者 RPG 而写。冒险发生在官方开拓者战役设定中布雷斡的高掘及周边地区，是这款游戏及其世界的完美入门！
+}}
+
+'''高掘镇需要英雄'''（''Heroes for Highdelve''）是 Amanda Hamon 撰写的一部探索者模组（Pathfinder Module），由 Games & Gears 获 Gen Con 与 Paizo Inc. 授权出版，于 2017 年 8 月 17 日在 Gen Con 50 上发行。这是一部为随书附带的四名 1 级预设英雄准备的冒险，并配有《探索者翻转地图：洞窟巢穴》（''Pathfinder Flip-Mat: Cavernous Lair''）一同使用。
+
+== 目录 ==
+{{书页/目录|1=
+第1部分：被打断的庆典 @ 3
+第2部分：上山 @ 9
+第3部分：彼方的幽暗 @ 11
+预设角色 @ 13
+- 布里亚拉（Brialla）
+- 基柳克（Kiliuk）
+- 梅赖娜（Meraina）
+- 托尔根（Torgen）
+}}
+
+{{书页尾
+|pfw=Heroes for Highdelve
+|releases=Softcover¦PZOGENA001¦2017-08¦
+}}
+
+<small>CHM 汉化里没有这本书的译名，书名是本站定的。</small>
+
+[[分类:书目]]

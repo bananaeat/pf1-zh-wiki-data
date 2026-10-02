@@ -1,0 +1,9 @@
+{{Feat
+|name=月裔
+|english_name=Moontouched
+|description=月光对你而言有着神奇的效果，会让你的身体更加强壮，但心灵衰弱。
+|benefit=在至少有部分月亮出现并且你可以看见它的夜晚，你在强韧与反射豁免上获得+2加值，但在意志豁免上承受-2减值。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

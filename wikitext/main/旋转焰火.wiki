@@ -1,0 +1,14 @@
+{{装备
+|name=旋转焰火
+|english_name=Firework (jumping jenny)
+|cat=炼金武器
+|price=15 gp
+|weight=—
+|craft_dc=16
+|special=见正文
+|description=这个用纸包着的小包装满了闪光的助燃剂并且刺了几个不规则的小孔，使得它在燃烧时会旋转舞动。你点燃旋转焰火的一轮后，它所在的格子充满了火花，对所有在那个格子的生物造成1点火焰伤害，并使它们目眩1d2轮（反射DC 12无效）。爆炸后的1d4轮的每轮内，旋转焰火随机移动到一个邻接的格子里。
+|recipe=（1 黑火药＋5 镁＋1 硝石）／煅烧；制作 DC 16
+|recipe_time=10 分钟
+|recipe_tools=坩埚
+|source=炼金术手册
+}}

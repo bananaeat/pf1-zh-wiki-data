@@ -1,0 +1,19 @@
+{{危害
+|name=血手印
+|english_name=Bloody Handprints
+|kind=作祟
+|type=作祟
+|cr=1/4
+|xp=100
+|alignment=中立邪恶
+|area=最大5尺见方的表面
+|cl=1
+|notice=[[察觉]] DC 5（看到表面上干涸的血手印）
+|hp=1
+|trigger=触碰
+|reset=1天
+|effect=血手印慢慢浮现在表面上。任何触碰该表面的生物受到1d6点伤害。
+|destruction=用圣水把该表面彻底擦洗干净，血手印便会消失。
+|description=谋杀或其他暴力致死会以血迹的形式残留下来，伤害任何触碰其所在表面的生物。
+|source=惧怖冒险
+}}

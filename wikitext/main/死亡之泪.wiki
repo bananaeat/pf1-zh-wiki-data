@@ -1,0 +1,12 @@
+{{危害
+|name=死亡之泪
+|english_name=Tears of Death
+|kind=毒药
+|type=接触
+|save=强韧 DC 22
+|onset=1分钟
+|frequency=1次/分钟，持续6分钟
+|effect=1d6点体质伤害，并且[[麻痹]]1分钟
+|price=6,500 gp
+|source=核心规则书
+}}

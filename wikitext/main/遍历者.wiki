@@ -1,0 +1,9 @@
+{{Trait
+|name=遍历者
+|english_name=Worldly
+|type=社会
+|description=你的生命经历如此丰富，远超你的同龄、同族人。每日1次，当你为某项未受训技能进行检定时可以双骰取高。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

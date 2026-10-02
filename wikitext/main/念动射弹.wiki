@@ -1,0 +1,14 @@
+{{Spell
+|name=念动射弹
+|english_name=Telekinetic projectile
+|school=塑能系
+|levels=秘学士 0;异能者 0;唤魂师 0
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|duration=立即
+|save=无
+|sr=否
+|description=你将一个至多5磅重的物体掷向目标。你必须成功通过远程攻击（而非远程[[接触攻击]]）来命中目标；若命中，你会对物体和目标同时造成1d6点钝击伤害。被投掷的物体类型不会改变伤害类型或攻击的其他特性，即便你以此方式抛掷武器或魔法物品也是如此。
+|source=异能冒险
+}}

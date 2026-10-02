@@ -1,0 +1,18 @@
+{{Spell
+|name=召唤怪物 II
+|english_name=Summon Monster II
+|aon=Summon Monster 2
+|school=咒法系 (召唤)
+|tags=见后文
+|domains=异幕子域 2
+|levels=反圣武士 2;吟游诗人 2;牧师 2;先知 2;术士 2;法师 2;召唤师 2;女巫 2;奥能师 2;通灵者 2;异能者 2;歌者 2;唤魂师 2;召唤师（掉链） 2;战斗祭司 2
+|action=1轮
+|components=语言;姿势;法器/圣徽（一个小包裹和一个小蜡烛）
+|range=近距
+|effect=一个被召唤的生物
+|duration=1轮/等级 (可解消)
+|save=无
+|sr=否
+|description=该法术的功能如同‘[[召唤怪物]]I’，不过你能够召唤一个来自2环列表的生物或者1d3个来自1环列表的同类生物。
+|source=核心规则书
+}}

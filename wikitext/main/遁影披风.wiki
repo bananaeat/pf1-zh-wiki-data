@@ -1,0 +1,15 @@
+{{魔法物品
+|name=遁影披风
+|english_name=Elusion Cloak
+|aon=MagicWondrousDisplay.aspx?FinalName=Elusion Cloak
+|cat=奇物
+|aura=微弱幻术系、变化系
+|cl=1
+|slot=肩部
+|price=3,600 gp
+|weight=1磅
+|description=桑奥[[半身人]]常在芒吉莽原的丛林中使用这些斗篷来躲避体型较大的生物。遁影披风的穿戴者在对抗体型至少比自己大1级的生物进行隐匿检定时获得+5表现加值。此外，当穿戴者在对抗恐惧效果的豁免检定失败时，每天一次能以一个[[自由动作]]，在5轮内获得[[脚底抹油]]法术的好处，或者在受恐惧效果影响期间都获得该效果，取二者之中持续时间较短的情况。
+|req=[[制造奇物]]、[[脚底抹油]]
+|cost=1,800 gp
+|source=缘界英雄
+}}

@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=探知之眼
+|english_name=Eye of Scrying
+|aon=MagicWondrousDisplay.aspx?FinalName=Eye of Scrying
+|cat=奇物
+|aura=中等预言系（探知）
+|cl=7
+|slot=无
+|price=6,000 gp
+|weight=7磅
+|description=这只布满血丝的眼球比成年男子的拳头还大。它那鲜绿色的虹膜暗示着奇异的深邃，盯着看久了令人不安。每天一次，你可以用它施放[[锐耳术/鹰眼术]]。如果你能施放[[探知]]，你可以把这只眼球用作该法术的法器。
+|req=[[制造奇物]]、[[锐耳术/鹰眼术]]
+|cost=3,000 gp，240 XP
+|source=饥饿的亡者
+}}

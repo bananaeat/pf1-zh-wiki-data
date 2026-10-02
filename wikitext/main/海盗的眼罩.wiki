@@ -1,0 +1,14 @@
+{{魔法物品
+|name=海盗的眼罩
+|english_name=Pirate's Eye Patch
+|aon=MagicWondrousDisplay.aspx?FinalName=Pirate's Eye Patch
+|cat=奇物
+|aura=微弱变化系
+|cl=2
+|slot=眼部
+|price=2,600 gp
+|description=这副黑丝眼罩上用银线绣着骷髅与交叉的腿骨。佩戴者的游泳检定和攀爬检定获得+2表现加值。此外，每天一次，佩戴者可以通过命令获得[[海洋之触]]（《进阶玩家手册》）或[[脚底抹油]]的法术效果（由佩戴者选择）。
+|req=[[制造奇物]]、[[脚底抹油]]、[[海洋之触]]
+|cost=1,300 gp
+|source=极限宝具
+}}

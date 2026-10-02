@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[目盲/耳聋术]] 的神话版本。</small></div>
+{{Spell
+|name=目盲/耳聋术
+|english_name=Blindness/Deafness
+|school=死灵系
+|tags=诅咒
+|levels=催眠师 2;反圣武士 2;吟游诗人 2;奥能师 2;女巫 2;异能者 2;术士 2;歌者 2;法师 2;血脉狂怒者 2;先知 3;唤魂师 3;战斗祭司 3;牧师 3;萨满 3
+|description=你能够同时致使目标目盲并耳聋。目标必须对每个效果尝试单独的豁免。
+|source=神话冒险
+}}
+[[分类:神话法术]]

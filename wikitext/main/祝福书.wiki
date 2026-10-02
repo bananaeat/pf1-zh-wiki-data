@@ -1,0 +1,17 @@
+{{魔法物品
+|name=祝福书
+|english_name=Blessed Book
+|aon=MagicWondrousDisplay.aspx?FinalName=Blessed Book
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=无
+|price=12,500 gp
+|weight=1磅
+|description=这本做工精良的典籍体积总是很小，通常不超过12英寸高、8英寸宽、1英寸厚。所有此类书籍都坚固耐用、防水，以覆银的铁封皮装订，并带锁。
+
+法师可以在祝福书的1000页上抄写法术，而无需支付材料费用。这种书绝不会作为随机生成的宝藏出现时已抄有法术。
+|req=[[制造奇物]]、[[秘密文页]]
+|cost=6,250 gp
+|source=核心规则书、极限宝具
+}}

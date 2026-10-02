@@ -1,0 +1,12 @@
+{{Feat
+|name=神话法术学识
+|english_name=Mythic Spell Lore
+|categories=神话
+|description=你已经获知解锁法术力量的方法，并将它们与你的神话力量结合在一起。
+|prerequisites=施放法术的能力
+|benefit=你能够习得数量等同于你的阶层个神话法术，并且能够在施放它们时花费神话之力增强效能。要选取神话法术，你必须能够施放非神话版的对应法术，或者这些法术在你的已知法术列表中。每当你达到更高的阶层时，你能够选取1个额外的神话法术。
+|special=你能够多次选取该专长。每当你选取该专长时，必须选择不同的法术。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

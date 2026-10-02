@@ -1,0 +1,11 @@
+{{Trait
+|name=追星者
+|english_name=Desnan Wanderer
+|aon=无
+|type=宗教
+|description=在晴朗的天空下使用生存技能导航时，你获得+4背景加值。
+森林流亡者(Forest Outlaw):并非所有生活在文明范围之外的人都是自愿如此。涅玛萨斯的人们在面临巨大危险时会接受在森林中避难的训练。在合适的向导带领下，一小群人可以依靠这片土地生存，采集浆果和其他可食用的东西，猎杀小型猎物，并利用倒下的树枝搭建临时住所。生活在树林中有着诸多优势，包括有无穷无尽的[[藏身之处]]，或是用来[[伏击]]危险追捕者的地方。
+|source_name=荒野源始
+|source=WO
+|source_url=https://pf1chm.pages.dev/topics/zh4c71a0e505.htm
+}}

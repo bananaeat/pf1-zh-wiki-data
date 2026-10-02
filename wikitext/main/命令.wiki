@@ -1,0 +1,8 @@
+{{Source|地狱骑士之道|Path of the Hellknight}}
+'''命令'''（Command, Sp）是[[地狱骑士]]的[[戒律]]。
+
+地狱骑士可以类法术能力施放[[高等命令术]]（Greater Command），使用角色等级作为施法者等级。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh5e8108478d.htm 原文]）。全部戒律见 [[:分类:戒律|分类:戒律]]。
+
+[[分类:戒律]]

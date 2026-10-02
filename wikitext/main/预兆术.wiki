@@ -1,0 +1,14 @@
+{{Spell
+|name=预兆术
+|english_name=Prognostication
+|school=预言系
+|levels=通灵者 4;先知 6;唤魂师 6;女巫 6;审判者 6;异能者 6;战斗祭司 6;牧师 6;萨满 6
+|action=8小时
+|components=语言;姿势;材料（价值250gp的罕见焚香与药草）
+|range=个人
+|target=你
+|duration=立即
+|sr=否
+|description=你一窥未来之貌。预兆术的功能就如同[[预言术]]一般，不过该法术涵盖到最远1年零1日的未来。由于遥远未来的不可预测性增加了，预兆术会比已经很隐晦的预言术更加神秘和晦涩。
+|source=极限诡道
+}}

@@ -1,0 +1,17 @@
+{{Spell
+|name=丧志术
+|english_name=Doom
+|school=死灵系
+|tags=情绪;恐惧;影响心灵
+|levels=催眠师 1;先知 1;反圣武士 1;唤魂师 1;审判者 1;战斗祭司 1;牧师 1;萨满 1
+|domains=恶魔子域 1
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=中距
+|target=一个活物
+|duration=1分钟/等级
+|save=意志，通过则无效
+|sr=是
+|description=此法术使单个受术者满怀绝望与恐惧，致使其陷入[[战栗]]状态。
+|source=核心规则书
+}}

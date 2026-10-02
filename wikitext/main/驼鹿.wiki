@@ -1,0 +1,44 @@
+{{速查导航}}
+{{AI翻译|本页属性块由 AI 照 AoN 英文原文译出（民间汉化里没有这一条的属性块），未经人工校对；生态与描述段译自民间汉化 CHM《新动物伙伴》。}}
+{{怪物
+|name=驼鹿
+|english_name=Moose
+|cr=3
+|xp=800
+|alignment=绝对中立
+|size=大型
+|type=动物
+|init=+2
+|senses=昏暗视觉，灵敏嗅觉；察觉 +9
+|description=一张略显滑稽的弯鼻脸，丝毫无损这头有蹄类动物令人印象深刻的身高与壮硕体型。
+|ac=14，接触 11，措手不及 12（+2 敏捷，+3 天生，–1 体型）
+|hp=34（4d8+16）
+|fort=+8
+|ref=+6
+|will=+3
+|speed=40 尺
+|melee=抵撞 +6（1d8+4），2 蹄击 +1（1d6+2）
+|space=10 尺
+|reach=5 尺
+|special_attacks=强力冲锋（抵撞，2d8+6）
+|str=19
+|dex=15
+|con=18
+|int=2
+|wis=14
+|cha=7
+|bab=+3
+|cmb=+8
+|cmd=20（对摔绊 24）
+|feats=[[坚忍]];[[飞跑]]
+|skills=[[察觉]] +9
+|environment=寒冷森林
+|organization=单独或一对
+|treasure=无
+|source=动物档案
+|lore=
+驼鹿拥有令人畏惧的体型，结合上雄性驼鹿那具有威慑力的鹿角，意味着它们几乎没有天敌，当它们被猎手逼得走投无路时确实会爆发出不可忽视的力量。
+}}
+
+生态与描述段译自民间汉化 CHM《新动物伙伴》（驼鹿伙伴条目），属性数值按 AoN 核过。
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Moose|2=Moose}}

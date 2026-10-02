@@ -1,0 +1,14 @@
+{{魔法物品
+|name=观命之眼
+|english_name=Deathwatch Eyes
+|aon=MagicWondrousDisplay.aspx?FinalName=Deathwatch Eyes
+|cat=奇物
+|aura=微弱死灵系
+|cl=1
+|slot=眼部
+|price=2,000 gp
+|description=这对血红色的晶体镜片紧贴在佩戴者的眼睛上。佩戴者持续获得[[观命术]]法术的效果。
+|req=[[制造奇物]]、[[观命术]]
+|cost=1,000 gp
+|source=极限宝具
+}}

@@ -1,0 +1,12 @@
+{{Feat
+|name=凶蛮技俩
+|english_name=Savage Display
+|categories=战斗;演武
+|pfs=否
+|description=通过胜出和一声怒吼，你激发了自己的猛恶天性。
+|prerequisites=[[炫目技巧]]。
+|benefit=当你以[[迅捷动作]]进行演武检定时，你的演武检定+2、并在下轮结束前伤害检定+1d6。此额外伤害不属于精准伤害。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

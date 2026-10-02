@@ -1,0 +1,15 @@
+{{魔法物品
+|name=火元素魔术之盆
+|english_name=Brazier of Conjuring Fire Elementals
+|aon=MagicWondrousDisplay.aspx?FinalName=Brazier of Conjuring Fire Elementals
+|cat=奇物
+|aura=中等咒法系
+|cl=11
+|slot=无
+|price=90,000 gp
+|weight=5磅
+|description=这件器具看起来就是一个盛放燃烧炭火的普通容器。火盆里必须装满炭或木柴并点上火才能起作用。持有者可以以命令字、作为一个整轮动作召唤一只火元素。如果火盆中正燃烧着1磅硫磺，它就如同使用[[召唤怪物 VI]]那样召唤一只超大型火元素；否则，它就如同使用[[召唤怪物 V]]那样召唤一只大型火元素。召唤出元素会熄灭火盆中的火。在上一只元素被遣散、被杀或其召唤持续时间结束之前，火盆不能召唤另一只元素。
+|req=[[制造奇物]]、[[召唤怪物 V]]、[[召唤怪物 VI]]
+|cost=45,000 gp
+|source=极限宝具
+}}

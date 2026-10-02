@@ -1,0 +1,10 @@
+{{Feat
+|name=集群散布
+|english_name=Swarm Scatter
+|categories=团队
+|description=你从鼠群的习性中学会了防御的战术。
+|benefit=对于每一个与你相邻并拥有同一专长的盟友，你的AC获得＋1环境加值。只要你有此加值，你就对鼠群的集群攻击和干扰能力免疫。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_809.html
+}}

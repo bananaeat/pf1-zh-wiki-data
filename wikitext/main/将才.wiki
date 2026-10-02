@@ -1,0 +1,11 @@
+{{Feat
+|name=将才
+|english_name=Bred Commander
+|pfs=否
+|description=你出身于世代冷酷将领与军事战术家的家族，因此你麾下的军队更难被击溃。
+|prerequisites=大地精
+|benefit=当你作为一支军队的指挥官，并应用极限战役中的集团战斗规则进行战斗时，你可以将自己的职业等级取代魅力调整值加到你的军队的士气检定上。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1407.html
+}}

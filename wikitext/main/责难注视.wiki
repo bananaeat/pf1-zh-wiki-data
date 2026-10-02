@@ -1,0 +1,11 @@
+{{Feat
+|name=责难注视
+|english_name=Excoriating Stare
+|categories=战斗;凝视
+|description=你的痛苦注视会让敌人疼痛难耐。
+|prerequisites=催眠师11级，痛苦注视职业能力
+|benefit=每当你触发痛苦注视时，目标必须进行一次意志豁免检定（DC = 10 + 1/2你的催眠师等级 + 你的魅力调整值），失败则会由于疼痛而[[恶心]]1轮。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

@@ -1,0 +1,17 @@
+{{魔法物品
+|name=不洁令徽
+|english_name=Symbol of Unholy Command
+|aon=MagicWondrousDisplay.aspx?FinalName=Symbol of Unholy Command
+|cat=奇物
+|aura=微弱死灵系
+|cl=3
+|slot=无
+|price=8,000 gp
+|weight=1磅
+|description=这枚邪徽完全由人骨雕成。当使用者把这枚邪徽用作“命令死灵”专长的法器时，他在该专长的豁免DC上获得+1亵渎加值。
+
+5生命骰或以下的善良生物试图触碰这枚邪徽时，必须通过DC 15的意志豁免，否则战栗1轮。故意使用不洁令徽是一种邪恶行为。
+|req=[[制造奇物]]、[[命令死灵(专长)|命令死灵]]专长或[[命令死灵(法术)|命令死灵]]法术
+|cost=4,000 gp
+|source=进阶种族手册
+}}

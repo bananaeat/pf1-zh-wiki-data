@@ -1,0 +1,32 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=普瑞哈斯塔
+|english_name=Prihasta
+|title=天地将军（The General Between Heaven and Hell）
+|alignment=守序邪恶（LE）
+|weapon=[[反曲刀]]
+|domains=[[动物领域|动物]]，[[邪恶领域(领域)|邪恶]]，[[秩序领域|秩序]]，[[诡术领域|诡术]]
+|subdomains=[[诡术领域#欺骗子域 (Deception)|欺骗子域]]，[[邪恶领域(领域)#恐惧子域 (Fear)|恐惧子域]]，[[动物领域#毛兽子域 (Fur)|毛兽子域]]，[[秩序领域#暴政子域 (Tyranny)|暴政子域]]
+|pantheon=罗刹邪仙
+|source=永罪之书
+}}
+
+'''普瑞哈斯塔'''（Prihasta），称号「天地将军」，是一位[[罗刹邪仙]]。
+
+== 简介 ==
+天地将军可以根据场所的不同将自己的头从地狱犬和闪现犬之间切换。
+
+== 服从仪典与神恩 ==
+=== 服从仪典 ===
+在正义的生物耳边倾诉蜜语，意图用你的邪恶败坏其美德。你在对抗善良效果的豁免检定上获得+4亵渎加值。
+
+=== 神恩 ===
+罗刹邪仙的神恩比其他魔族半神的简单，均为每日各2次的类法术能力：
+{{神恩|n=1|name=|en=|type=Sp|text=每日2次，以类法术能力施展[[误导术]]。}}
+{{神恩|n=2|name=|en=|type=Sp|text=每日2次，以类法术能力施展[[高等隐形术]]。}}
+{{神恩|n=3|name=|en=|type=Sp|text=每日2次，以类法术能力施展[[假象术]]。}}
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc8a8173c5c.htm 原文]），原在总页 [[罗刹邪仙]]。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Prihasta|2=Prihasta}}
+[[分类:魔神]]

@@ -1,0 +1,14 @@
+{{Feat
+|name=莫失莫忘
+|english_name=Unforgotten
+|categories=故事
+|pfs=否
+|description=你在追寻着自己的重要之人——你衷心地期盼他/她尚在人间。
+|prerequisites=你必须有一位近亲、配偶或其他贴心人在一次旅行中未归、被绑走或以其他形式消失得无影无踪；或你拥有“劫后余生”角色背景。
+|benefit=你的坚定信念令你受到的[[非致命伤害]]降低1点，最低降至1点。同时你的意志豁免+1。
+|goal=找到你失散而仍然活着的所爱之人，并在追寻的过程中完胜一个阻挠你们的强大敌手。
+|completion_benefit=取代意志豁免+1，你的全豁免+1。如果你发现所爱之人已逝，你将失去本专长的所有收益，直到你给予遗体和灵魂适当的安息。葬下遗体后你可获得本完成收益，但依然失去降低非致命伤害的能力。
+|source=UCa
+|source_name=极限战役
+|source_url=https://pf1chm.pages.dev/topics/page_200.html
+}}

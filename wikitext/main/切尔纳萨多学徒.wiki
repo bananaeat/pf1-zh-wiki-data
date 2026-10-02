@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Ironfang Invasion Player's Guide pg. 8），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=切尔纳萨多学徒
+|english_name=Chernasardo Hopeful
+|type=战役
+|pfs=否
+|description=你已发誓将自己的技艺和生命献给切尔纳萨多游侠，学习如何保卫家园免遭外敌入侵。目前你在这支神秘的游击军队中仍是个新手。你还没有被托付他们的许多秘密，大部分时间都在费恩达尔跟随老游侠奥布林训练，磨练狩猎和追踪的技巧。在森林或平原地形中，你可以用一个移动动作观察周围的自然环境，降低单个目标对你的有效隐蔽等级（从全隐蔽降为隐蔽，从隐蔽降为无隐蔽）。一旦目标离开其当前位置，这种降低的隐蔽立即结束。10级时，你改为可以用一个迅捷动作观察地形。
+|source_name=Ironfang Invasion Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Chernasardo%20Hopeful
+}}

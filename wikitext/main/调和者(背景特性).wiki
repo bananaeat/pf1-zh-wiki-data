@@ -1,0 +1,12 @@
+{{消歧义|调和者 (消歧义)}}
+{{Trait
+|name=调和者
+|english_name=Ambassador
+|type=宗教
+|prerequisites=信仰[[塞恩蕾]]
+|description=你在调解和妥协方面的天赋在很小的时候就展现了出来。在你能够记事的时候，你就能比其他人更好地解决争端，你也能更为谨慎地处理强烈的分歧。
+
+你在交涉检定上获得+2的背景加值。
+|source_name=塔尔多，荣光荡漾之地
+|source_url=https://pf1chm.pages.dev/topics/page_938.html
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=救急医疗
+|english_name=Reactive Healing
+|description=你将神能存储在体内，在最紧急的关头依靠它们撑过死劫。
+|prerequisites=[[快速导能]]UM专长或[[法术瞬发]]，引导能量或圣疗职业能力
+|benefit=如果一次攻击或效果将会把你的生命值降低到0或以下，你可以使用一次每日引导能力次数（如果它可以治疗你）或圣疗次数，以一个[[直觉动作]]用它治疗你。这个治疗效果仅对你生效。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

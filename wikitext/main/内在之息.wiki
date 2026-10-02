@@ -1,0 +1,10 @@
+{{Feat
+|name=内在之息
+|english_name=Inner Breath
+|description=你体内充满了气之元素，它提供你呼吸所需。
+|prerequisites=角色等级11，风元素裔。
+|benefit=你不再需要呼吸。你免疫那些需要呼吸产生的效果（比如吸入毒素）。但是这不会使你免疫不需要呼吸进行的云雾或气体攻击，比如[[死云术]]。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

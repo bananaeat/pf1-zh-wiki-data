@@ -1,0 +1,10 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{装备
+|name=近战应急工具包
+|english_name=Melee contingency kit
+|cat=套装
+|price=150 gp
+|weight=14磅
+|description=这个工具包内是近战战斗者克服最常见几种伤害减免所需的物品，包括一柄寒铁钉头锤、一把银镰刀、两瓶强酸、两瓶炽火胶和两瓶圣水。
+|source=近战战术工具箱
+}}

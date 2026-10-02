@@ -1,0 +1,20 @@
+{{魔法物品
+|name=潜入法杖
+|english_name=Staff of Stealth
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Stealth
+|cat=法杖
+|aura=中等幻术系
+|cl=8
+|slot=无
+|price=39,300 gp
+|weight=5磅
+|description=这根扭曲的深灰色法杖可以使用以下法术：
+
+* [[易容术]]（1 发）
+* [[隐形术]]（1 发）
+* [[回避侦测]]（1 发）
+* [[高等隐形术]]（2 发）
+|req=[[制造法杖]]、[[易容术]]、[[高等隐形术]]、[[隐形术]]、[[回避侦测]]
+|cost=20,900 gp
+|source=进阶玩家指南、极限宝具
+}}

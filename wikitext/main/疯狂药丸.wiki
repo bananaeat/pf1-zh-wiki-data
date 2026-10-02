@@ -1,0 +1,11 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{危害
+|name=疯狂药丸
+|english_name=Insanity pill
+|kind=毒药
+|type=摄入
+|save=强韧 DC 14
+|effect=受影响的生物如同受[[困惑术]]影响，持续1分钟
+|price=1,500 gp
+|source=黑暗市集：卡塔佩什指南
+}}

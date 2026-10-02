@@ -1,0 +1,11 @@
+{{Feat
+|name=龙人秩序
+|english_name=Draconian Law
+|pfs=否
+|description=你的荣誉准则延伸至你生活中的方方面面，包括你对敌人的审判。
+|prerequisites=守序阵营，翼龙人
+|benefit=当与你目击其违反法律的敌人战斗时，你在对抗该目标的第一次攻击骰和全部伤害骰上获得+1环境加值，直到他因自己的罪行受审为止。
+|source=LoD
+|source_name=巨龙遗产
+|source_url=https://pf1chm.pages.dev/topics/page_716.html
+}}

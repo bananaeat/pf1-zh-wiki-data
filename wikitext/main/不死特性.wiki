@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''不死特性'''（Undead Traits）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：免疫</span></div>
+</noinclude><includeonly><div class="lang"><span id="不死特性"></span><div class="lang-h"><b>[[不死特性]]</b><i>Undead Traits</i><span class="lang-w">Ex · 免疫</span></div><div class="lang-d"></includeonly>
+不死生物免疫死亡效果、疾病、心智效果（魅惑、胁迫、士气效果、心灵幻觉和魅影幻觉）、麻痹、毒素、睡眠、震慑，以及任何需要强韧豁免的效果（除非该效果对物体也有效或无害）。不死生物不受属性吸取、能量吸取或[[非致命伤害]]影响。不死生物免疫对其身体属性（力量、敏捷和体质）造成的伤害或减值，也免疫疲乏和力竭效果。不死生物不会因巨创而死亡。
+
+'''格式'''：不死特性
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Undead Traits|2=Undead Traits}}
+
+[[分类:通用怪物规则]]</noinclude>

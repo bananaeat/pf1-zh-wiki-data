@@ -1,0 +1,10 @@
+<noinclude>{{炼金术师导航}}
+'''粘性毒药'''（Sticky poison）是[[炼金术师]]的[[科研发现]]。
+
+</noinclude>{{Source|进阶玩家指南|Advanced Player's Guide|inline}}
+
+任何炼金术师制造的毒药都是有粘性的。当炼金术师向一件武器淬毒时，这件武器可以在等同于炼金术师的智力修正的攻击命中次数中依然保持毒性。选择这一科研发现需要6级炼金术师等级。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_71.html 原文]）。全部科研发现见 [[:分类:科研发现|分类:科研发现]]。
+
+[[分类:科研发现]]</noinclude>

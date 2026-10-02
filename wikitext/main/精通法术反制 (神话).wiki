@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[精通法术反制]] 的神话版本。</small></div>
+{{Feat
+|name=精通法术反制
+|english_name=Improved Counterspell
+|categories=神话
+|description=天生就对魔法构成具有相当悟性的你可以将法术拆解为纯粹的魔法能量。
+|prerequisites=[[精通法术反制]]
+|benefit=当你反制法术时，你能够使用与目标法术等级相同或更高的同学派法术。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

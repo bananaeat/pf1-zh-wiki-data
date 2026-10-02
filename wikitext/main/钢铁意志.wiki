@@ -1,0 +1,14 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[钢铁意志 (神话)]]。</small></div>
+{{Feat
+|name=钢铁意志
+|english_name=Iron Will
+|description=你有超乎常人的坚强意志。
+|benefit=所有意志豁免获得+2加值。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[不破的荣耀]]、[[底栖魔鱼欺诈者]]、[[惊奇大师]]、[[拥抱痛觉]]、[[淡定]]、[[精魂信烽]]、[[精魂斥责]]、[[精魂视野]]、[[英雄意志]]、[[饮法者]]、[[魔鬼高傲]]（11 个条目）

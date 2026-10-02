@@ -1,0 +1,9 @@
+{{Trait
+|name=刻印使
+|english_name=Birthmark
+|type=信念
+|description=你出生时便携带着某种特殊胎记，其形状恰似你日后所信奉神祇的圣徽。此胎记可以在你施法时作为圣法器使用，同时也是你的信仰的肉体具现、增添了你对神祇的虔敬之心——你在对抗魅惑和胁迫效果的全豁免中获得+2背景加值。
+|source_name=信念背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

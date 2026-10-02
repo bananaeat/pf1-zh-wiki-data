@@ -1,0 +1,16 @@
+{{Spell
+|name=迷惑飞矢
+|english_name=Bolts of Bedevilment
+|school=惑控系
+|tags=影响心灵
+|domains=狂乱领域 5;疯狂子域 5
+|action=标准动作
+|components=语言;姿势
+|range=中距（100呎+10呎/等级）
+|effect=射线
+|duration=1轮/等级
+|save=意志，通过则无效
+|sr=是
+|description=你每一轮能够射出一条射线，让一名活物[[晕眩]]1d3轮。
+|source=探索者编年史：战役设定
+}}

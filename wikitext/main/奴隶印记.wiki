@@ -1,0 +1,10 @@
+{{Trait
+|name=奴隶印记
+|english_name=Mark of Slavery
+|type=缺陷
+|pfs=否
+|description=你青春的一部分或全部都是在被奴役中度过的，这段岁月为你留下了一个烙印或[[纹身]]，时时刻刻提醒着你每次做错事情时都会受到严厉处罚。
+|benefit=每当你技能检定失败，除非是为了重新尝试这个技能检定，你在其他任何技能检定或攻击检定中获得-2罚值，持续到你下一轮行动结束为止。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=镣铐群岛水手
+|english_name=Shackles Seafarer
+|type=地区
+|prerequisites=镣铐群岛
+|description=你熟悉镣铐群岛的危险海岸线、洋流和潮汐，而且能在任何地方用上这些知识。你在海上时的知识[自然]和知识[地理]检定获得+1背景加值。而且你在游泳检定获得+1背景加值，游泳总是你的[[本职技能]]。
+|source_name=初探内海
+|source=Inner Sea Primer
+|source_url=https://pf1chm.pages.dev/topics/zh90f44086c1.htm
+}}

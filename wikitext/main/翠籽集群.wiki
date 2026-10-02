@@ -1,0 +1,45 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=翠籽集群
+|english_name=Vireseed Swarm
+|cr=5
+|xp=1,600
+|alignment=绝对中立
+|size=超微型
+|type=植物
+|subtypes=集群
+|init=+1
+|senses=盲感 60 尺；察觉 +0
+|description=一片翼状的种荚如浪潮般划过空中，每一枚荚的尖端都长着一根极小的刺，并由一条迅速抽打的卷须推动。
+|ac=19，接触 19，措手不及 18（+1 敏捷，+8 体型）
+|hp=51（7d8+35）
+|fort=+9
+|ref=+3
+|will=+2
+|defensive=集群特性
+|immune=植物特性;武器伤害
+|weaknesses=火焰易伤
+|speed=5 尺，飞行 30 尺（完美机动力）
+|melee=集群（2d6 加侵袭）
+|space=10 尺
+|reach=0 尺
+|special_attacks=分心（DC 17）
+|str=1
+|dex=13
+|con=18
+|int=–
+|wis=10
+|cha=13
+|bab=+5
+|cmb=–
+|cmd=–
+|skills=[[攀爬]] +3;[[飞行]] +9;[[察觉]] +0
+|racial_mods=攀爬使用敏捷调整值
+|environment=任意
+|organization=单独，一群（2–4 集群），或一云团（5–7 集群）
+|treasure=无
+|special_abilities={{怪物能力|侵袭|Ex|集群——伤口；豁免 强韧 DC 17；发作 立即；频率 1 次/轮，持续 3 轮；效果 1 点体质伤害；痊愈 对被侵袭的角色施以火焰会造成 1d6 点火焰伤害，但会立即消灭侵袭；枯萎术、缩小植物和移除疾病也会自动消灭侵袭。（关于侵袭的更多细节，见《游戏主持指南》第 245 页。）}}
+|source=冒险之路39：七矛之城
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Vireseed Swarm|2=Vireseed Swarm}}

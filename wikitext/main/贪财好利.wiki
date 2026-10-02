@@ -1,0 +1,9 @@
+{{Trait
+|name=贪财好利
+|english_name=For the Money
+|type=社会
+|description=你在讨价还价或协商付款的技能检定获得+2背景加值；若你在军事或经济上对目标处于强势地位，此加值提升至+4。你还在[[估价]]检定获得+1背景加值，而且估价总是你的[[本职技能]]。
+|source_name=反英雄手册Antihero's Handbook
+|source=Antihero's Handbook
+|source_url=https://pf1chm.pages.dev/topics/zh4f64ea7987.htm
+}}

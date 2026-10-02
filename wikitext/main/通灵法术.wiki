@@ -1,0 +1,15 @@
+{{消歧义|通灵法术(秘示域)}}
+{{Feat
+|name=通灵法术
+|english_name=Threnodic Spell
+|categories=超魔
+|description=你将影响心灵的法术转化为死灵法术，并以此控制亡灵。
+|prerequisites=[[知识]]（宗教）6级，[[法术专攻]]（死灵）。
+|benefit=这个专长仅对〔影响心灵〕的法术生效。一个通灵法术对亡灵生效（甚至是无心智的亡灵）就如同他们不能免疫影响心灵的效果一般。但是这个法术对活物无效。通灵法术须占用高于原本2个环级的法术位。
+|normal=亡灵免疫影响心灵的效果。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}
+
+{{FAQ|v5748eaic9o7r}}

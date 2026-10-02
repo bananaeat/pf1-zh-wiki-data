@@ -1,0 +1,15 @@
+'''都市侍祭'''（Urban Acolyte）是[[牧师]]的领域底下的一项能力。
+
+（信念）：成长于城市拓宽了你的思想体系，并助你以一种与众不同角度去诠释你的神祇那神圣的意志。你可将知识（本地）作为[[本职技能]]。此外，只要你的神袛授予你访问祂关联领域的权限，你可以使用子域的一般规则（Pathfinder RPG Advanced Player Guide 86）来选择下列子域中的一种。
+
+【PFS】竞赛子域（Competition Subdomain）
+
+关联领域：[[力量领域]]（Strength）
+
+关联神祇：凯登．凯连（Cayden Cailean），[[义洛理]]，[[库尔吉斯]]，鋺师（Marishi），杜鲁德（Trudd）
+
+替换领域力量：下列[[神授力量]]替换了力量领域的[[力量满溢]]（strength surge）。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh6b82a8d32c.htm 原文]）。全部领域见 [[:分类:领域|分类:领域]]。
+
+[[分类:领域]]

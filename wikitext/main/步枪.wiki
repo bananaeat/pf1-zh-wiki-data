@@ -1,0 +1,19 @@
+{{武器
+|name=步枪
+|english_name=Rifle
+|category=火器
+|prof=异种
+|wcat=双手
+|price=5,000 gp
+|weight=12磅
+|dmg_s=1d8
+|dmg_m=1d10
+|crit=×4
+|range=80尺
+|type=钝击和穿刺
+|misfire=1
+|capacity=1
+|groups=火器
+|description=这把[[滑膛枪]]上出现的先进设计是有膛线的枪管，能够射出回旋前进的子弹，使其稳定飞行、避免简易火器发射时常见的翻跟头现象。结果是使得步枪的射程和精度都远超早期长管火器。步枪的弹药为金属定装弹。这是一件近代火器。
+|source=极限战斗、极限宝具
+}}

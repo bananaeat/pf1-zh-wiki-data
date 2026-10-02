@@ -1,0 +1,16 @@
+{{Feat
+|name=精通盾击
+|english_name=Improved Shield Bash
+|categories=战斗
+|description=即便你使用盾牌猛击，你还是可以正常使用它保护自身。
+|prerequisites=擅长盾牌。
+|benefit=当你使用盾牌猛击时，其对AC的盾牌加值依旧适用。
+|normal=没有本专长的人一旦使用盾牌猛击，直到下个回合都将丧失盾牌对AC的加值。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[一击扑杀]]、[[倾覆盾击]]、[[强击 · 绝]]、[[强击 · 返]]、[[盾牌大师]]、[[盾牌猛冲]]、[[衰弱盾击]]（7 个条目）

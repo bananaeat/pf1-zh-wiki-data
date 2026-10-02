@@ -1,0 +1,10 @@
+{{Trait
+|name=虎将
+|english_name=Tiger Brigadier
+|type=地区
+|prerequisites=巴川
+|description=作为虎将中的一员，你准备好指导巴川和其他国家的人民。你在对年龄段比你高一级或以上的目标的威吓检定获得+2背景加值，而且威吓成为你的[[本职技能]]。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://pf1chm.pages.dev/topics/page_1557.html
+}}

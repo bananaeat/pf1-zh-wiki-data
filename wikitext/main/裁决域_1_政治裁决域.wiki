@@ -1,0 +1,22 @@
+<noinclude>{{审判者导航}}</noinclude>
+{{Source|内海诡道|Inner Sea Intrigue|inline}}
+
+== 政治裁决域 (Politics Inquisition) ==
+
+神祇：[[阿巴达尔]]、[[阿斯莫迪斯]]、[[卡莉斯翠]]、[[诺格巴]]。
+
+领域力量：你神圣的指引可以扭曲协议、歪曲法律，修改政策，以完成信仰的最大利益。
+
+=== 外交辞令 (Labyrinthine Words, Ex) ===
+
+你在使用唬骗检定来说谎，或者使用交涉检定来影响生物时，除了你的魅力调整值外，还加上你的感知调整值。
+
+=== 心之所向 (Heart's Desire, Sp) ===
+
+在8级时，你得到了关于你的政治盟友或是对手的目标的神圣指引。每天一次，你可以作为类法术能力使用[[通神术]]，使用你的审判者等级作为你的施法者等级，但此能力只能用于询问关于其他生物的目标的问题。
+
+<noinclude>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_374.html 原文]），按 AoN 核对过。
+{{AoN原文|1=Inquisitions.aspx|2=Inquisitions}}
+
+[[分类:审判者]]
+{{职业}}</noinclude>

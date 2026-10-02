@@ -1,0 +1,13 @@
+{{消歧义|猎巫人 (消歧义)}}
+{{狂暴之力
+|name=猎巫人
+|english_name=Witch Hunter
+|type=Ex
+|categories=进攻
+|prerequisites=[[迷信(狂暴之力)|迷信]]
+|benefit=狂暴时，野蛮人对拥有类法术能力或施法能力的敌人伤害+1，每4野蛮人等级再+1。
+|unchained=女巫猎人
+|source_name=进阶玩家指南
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_36.html 原文]）。全部狂暴之力见 [[狂暴之力]]。</small>

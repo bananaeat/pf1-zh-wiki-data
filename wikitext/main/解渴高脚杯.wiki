@@ -1,0 +1,15 @@
+{{魔法物品
+|name=解渴高脚杯
+|english_name=Goblet of Quenching
+|aon=MagicWondrousDisplay.aspx?FinalName=Goblet of Quenching
+|cat=奇物
+|aura=微弱咒法系
+|cl=1
+|slot=无
+|price=180 gp
+|weight=1磅
+|description=一经命令，这个俭朴的陶土高脚杯会自行装满清凉、新鲜的饮用水。高脚杯每天能制造出最多2加仑的水。如果把水放着不管，它会如常蒸发，并且本身是完全正常的水；你可以把它储存起来、用它来制造[[圣水]]等等。
+|req=[[制造奇物]]、[[造水术]]
+|cost=90 gp，7 XP
+|source=烈焰传承玩家手册
+}}

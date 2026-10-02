@@ -1,0 +1,10 @@
+{{Feat
+|name=莽原牧者
+|english_name=Plains Nomad
+|description=你是那无垠的温带草原、热带草原、或高纬草原上的原住民。
+|prerequisites=偏好地形（平原）职业能力。
+|benefit=你和一匹你骑乘的坐骑，可在避免因急行或强行军所致伤害和[[疲乏]]的体质检定上，获得+2加值。在平原地形上时，此加值翻倍，且在避免迷路的生存检定、发现食物和饮水的生存检定、避免自己免受恶劣天气影响的生存检定、以及预测天气的生存检定上，该加值同样适用。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

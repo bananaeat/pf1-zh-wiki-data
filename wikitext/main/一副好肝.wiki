@@ -1,0 +1,9 @@
+{{Feat
+|name=一副好肝
+|english_name=Hardy Liver
+|description=你比大多数人能忍耐烈酒和毒药。
+|prerequisites=[[强韧加强]]
+|benefit=你在针对摄入式毒药的强韧鉴定上获得+2的加值。你在微醺时不受惩罚并且在醉酒或伶仃大醉时惩罚减半。
+|source_name=内海酒馆
+|source_url=https://pf1chm.pages.dev/topics/zh5b451adebe.htm
+}}

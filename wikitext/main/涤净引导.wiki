@@ -1,0 +1,10 @@
+{{Feat
+|name=涤净引导
+|english_name=Purifying Channel
+|description=你的治疗能量能够同时伤害敌人。
+|prerequisites=[[魅力]] 15，[[选择导能]]，引导能量职业特性
+|benefit=当你引导正能量治疗生物时，选择一个被你排除在[[引导能量]]治疗效果之外的生物，令其受到等同于你治疗骰结果的火焰伤害，并因这些火焰的强光而[[目眩]]一轮。一次成功的对抗你的引导能量的豁免检定可以减半火焰伤害并免除目眩效果。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/zh8a31961fdd.htm
+}}

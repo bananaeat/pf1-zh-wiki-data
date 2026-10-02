@@ -1,0 +1,9 @@
+{{Trait
+|name=五形拳
+|english_name=Nature's Mimic
+|type=战斗
+|description=你的自然知识影响了你的格斗流派，而该流派也给予你洞察自然世界的新视角。你的知识(自然)检定获得+1背景加值，并且总能将知识(自然)视为你的[[本职技能]]。即便未受训，你也可以进行与你的流派专长相对应的动物有关的知识(自然)检定。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

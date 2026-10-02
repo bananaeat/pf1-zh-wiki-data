@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 17），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=天灵崇拜者
+|english_name=Sky Spirit Worshipper
+|type=地区
+|prerequisites=穆塔比奇
+|description=身为穆塔比奇萨满之子，你见过在天上游荡的天空之灵，知道世间充满无法解释的恐怖谜团。你对抗恐惧效果的豁免检定获得+2背景加值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Sky%20Spirit%20Worshipper
+}}

@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=控制|en=Command|type=Su|domain=秩序领域|sub=制裁子域 (Inevitable)|sub_name=制裁子域|source=进阶玩家指南|text=你以标准动作对一个生物发号施令，就如同施展了[[命令术]]，成功的意志豁免可避免此效果。你一天内不能对一个生物反覆尝试，每天“3+[[感知]]调整值”次。此能力取代[[秩序领域#秩序之触 (Touch of Law, Sp)|秩序之触]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

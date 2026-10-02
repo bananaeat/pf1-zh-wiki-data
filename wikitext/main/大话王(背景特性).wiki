@@ -1,0 +1,9 @@
+{{Trait
+|name=大话王
+|english_name=Fast Talker
+|type=社会
+|description=你小时候就很会给自己惹麻烦，因此早早练就了三寸不烂之舌。你的[[唬骗]]检定获得+1背景加值，并且总能将唬骗视为你的[[本职技能]]。
+|source_name=社会背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

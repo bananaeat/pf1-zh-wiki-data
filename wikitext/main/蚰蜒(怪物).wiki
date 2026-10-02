@@ -1,0 +1,44 @@
+{{速查导航}}
+{{消歧义|蚰蜒}}
+{{怪物
+|name=蚰蜒
+|english_name=House Centipede
+|cr=1/8
+|xp=50
+|alignment=绝对中立
+|size=超小型
+|type=虫类
+|init=+3
+|senses=黑暗视觉 60 尺；察觉 +4
+|ac=17，接触 15，措手不及 14（+3 敏捷，+2 天生，+2 体型）
+|hp=4（1d8）
+|fort=+2
+|ref=+3
+|will=+0
+|immune=影响心灵效果
+|speed=40 尺，攀爬 40 尺
+|melee=啮咬 +5（1d3–5 外加毒素）
+|space=2–1/2 尺
+|reach=0 尺
+|special_attacks=毒素
+|str=1
+|dex=17
+|con=10
+|int=—
+|wis=10
+|cha=2
+|bab=+0
+|cmb=+1
+|cmd=6（无法被摔绊）
+|feats=[[武器娴熟]] B
+|skills=[[攀爬]] +11;[[察觉]] +4;[[隐匿]] +19
+|racial_mods=+4 察觉，+8 隐匿
+|environment=温带或温暖的森林或地下
+|organization=单独，一对，或一群（3–6）
+|treasure=无
+|special_abilities={{怪物能力|毒素|Ex|啮咬—伤口；豁免 强韧 DC 10；频率 每轮 1 次，持续 2 轮；效果 晕眩 1 轮；痊愈 1 次豁免。}}
+|source=极限魔法
+|lore=
+你基本可以在任何地方找到多足的蚰蜒，它的腿从 20 条到 300 多条不等。这种昆虫的啮咬带毒，不小心被咬到的生物会感到晕眩。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=House Centipede|2=House Centipede}}

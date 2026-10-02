@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Agents of Evil pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=恶习诱惑
+|english_name=Carnal Attraction
+|type=社会
+|description=你懂得如何用对的方式问错的问题，因此在关于令你着迷的那种恶习——毒品、禁忌学识、赌博、非法搏斗或类似的放荡或下流之事——的[[交涉]]（收集信息）和[[知识]]（本地）检定上获得+2背景加值。
+|source_name=邪恶特务
+|source=AoE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Carnal%20Attraction
+}}

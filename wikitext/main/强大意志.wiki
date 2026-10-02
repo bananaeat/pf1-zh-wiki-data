@@ -1,0 +1,9 @@
+{{Trait
+|name=强大意志
+|english_name=Strong-Willed
+|type=宗教
+|prerequisites=信仰[[凯登·凯连]]
+|description=你强烈的信仰让你获得了强大的意志力。你在对抗魅惑和胁迫影响时豁免获得+2背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

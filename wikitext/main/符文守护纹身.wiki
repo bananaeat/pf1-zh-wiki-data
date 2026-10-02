@@ -1,0 +1,14 @@
+{{魔法物品
+|name=符文守护纹身
+|english_name=Runeward Tattoo
+|aon=MagicTattooDisplay.aspx?FinalName=Runeward Tattoo
+|cat=魔法纹身
+|aura=微弱预言系
+|cl=1
+|slot=无
+|price=1,000 gp
+|description=每一枚这类刺青都对应一个魔法学派。持有者可以随意使用[[侦测魔法]]，但只能感知该学派的灵光。持有者在对抗所对应学派的法术和类法术能力的豁免检定上获得+1洞察加值，并能得知60尺内何时有该学派的此类法术或类法术能力被施展。
+|req=[[绘制魔法刺青]]、[[侦测魔法]]、[[神导术]]
+|cost=500 gp
+|source=魔法市集指南
+}}

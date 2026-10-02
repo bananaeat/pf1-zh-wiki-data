@@ -1,0 +1,15 @@
+{{魔法物品
+|name=天狗汲水樽
+|english_name=Tengu Drinking Jug
+|aon=MagicWondrousDisplay.aspx?FinalName=Tengu Drinking Jug
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=无
+|price=1,000 gp
+|weight=2磅
+|description=这看起来像是一只容量1加仑的白釉粗瓷壶，壶腰绘有一圈黑鸟，壶颈上用麻绳系着一个软木塞。任何灌入壶中的液体都可以安全饮用，如同受到净化食粮影响一般（不过这个瓷壶只能影响液体）。每天3次，持有者可以命令瓷壶改变壶中液体的温度，从冰冷到滚烫皆可。每天1次，持有者可以命令倒入壶中的水变成梅子酒、清酒或茶。天狗汲水樽可容纳至多1加仑的任何液体。
+|req=[[制造奇物]]、[[魔法伎俩]]、[[净化食粮]]
+|cost=500 gp
+|source=进阶种族手册
+}}

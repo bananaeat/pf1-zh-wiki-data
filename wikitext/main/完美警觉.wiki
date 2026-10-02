@@ -1,0 +1,11 @@
+{{Feat
+|name=完美警觉
+|english_name=Perfect Awareness
+|categories=战斗;冥想
+|description=你可以在短时间内拒绝所有不相干的感觉信息来获得对你周围环境的完美感知。
+|prerequisites=感知17，[[战斗冥想]]，[[冥想大师]]，角色等级9
+|benefit=每天1次，你可以用一个[[移动动作]]在一次察觉检定中取20
+|source=F&P
+|source_name=信仰与哲学
+|source_url=https://pf1chm.pages.dev/topics/page_673.html
+}}

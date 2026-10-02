@@ -1,0 +1,15 @@
+{{魔法物品
+|name=融合法袍
+|english_name=Robe of Blending
+|aon=MagicWondrousDisplay.aspx?FinalName=Robe of Blending
+|cat=奇物
+|aura=中等变化系
+|cl=10
+|slot=躯体
+|price=8,400 gp
+|weight=1磅
+|description=这件朴素的羊毛长袍每天一次让穿戴者变成另一种类人生物的形态，如同使用[[变身术]]。这种变化持续1小时，不过穿戴者可以用一个[[自由动作]]提前结束。处于这一形态时，穿戴者还获得说和理解所选形态之基本种族语言的能力。例如，如果变成[[兽人]]，就能说和理解兽人语。
+|req=[[制造奇物]]、[[变身术]]、[[巧言术]]
+|cost=4,200 gp
+|source=核心规则书、极限宝具
+}}

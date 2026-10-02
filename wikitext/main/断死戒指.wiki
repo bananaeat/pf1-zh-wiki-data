@@ -1,0 +1,14 @@
+{{魔法物品
+|name=断死戒指
+|english_name=Ring of the Grasping Grave
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of the Grasping Grave
+|cat=戒指
+|aura=微弱死灵系
+|cl=1
+|slot=戒指
+|price=2,000 gp
+|description=穿戴者可以对体型不比自己大超过一个体型级别的不死生物发动一次近战[[接触攻击]]，切断该不死生物与不死能量的联系。以这种方式触碰不死生物，穿戴者不会承受通常因与不死生物肢体接触而可能产生的任何不良影响。若攻击命中，该不死生物在1d4轮内无法被负能量治疗或增益。在此期间，正能量对该不死生物正常起效。
+|req=[[锻造戒指]]、[[尸体重塑]]
+|cost=1,000 gp
+|source=极限宝具
+}}

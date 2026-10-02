@@ -1,0 +1,17 @@
+{{魔法物品
+|name=碎骨者熊皮裘
+|english_name=Bear Pelt of the Bonebreaker
+|aon=MagicWondrousDisplay.aspx?FinalName=Bear Pelt of the Bonebreaker
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=肩部
+|price=3,300 gp
+|weight=10磅
+|description=这件宽大的熊皮斗篷对人类来说几乎大得无法舒适穿戴。穿戴者在[[威吓]]检定上获得+2表现加值。此外，穿戴者可以每天一次使用[[祝福术]]；使用该能力时，斗篷上的毛会威慑般地竖起。
+
+如果石巨人之神乌拉兹拉（Urazra）是穿戴者的守护神，穿戴者可以每天一次使用野兽形态 II，变形为黑熊或棕熊，最长持续7分钟。据说有些乌拉兹拉的勇士拥有更强大的熊皮，可以让他们变成北极熊甚至[[凶暴熊]]的形态。
+|req=[[制造奇物]]、[[野兽形态 II]]、[[祝福术]]，制造者的[[威吓]]技能至少5级
+|cost=1,650 gp
+|source=神与魔法、内海诸神
+}}

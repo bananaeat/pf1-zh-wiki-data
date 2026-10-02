@@ -1,0 +1,13 @@
+{{Feat
+|name=登神之路
+|english_name=Apotheosis
+|categories=故事
+|pfs=否
+|description=你被命运标选为未来的神明——即使你还没有意识到此等[[宿命]]，命运将屈从于你的意志。
+|prerequisites=你必须曾直接接触过神祇或类神存在，或在神祇、类神存在的亲自干预下死而复生。
+|benefit=在[[濒死]]时的[[伤害和死亡#稳定和恢复|稳定伤势]]的体质检定获得+2加值。当你或信仰这位与你接触之神祇的盟友施放[[占卜术]]或类似效果时，获得有意义答覆的概率增加5%（最高不超过95%）。
+|goal=你必须得到另外一位神性存在（直接或通过代理人）承认你为同等的存在，哪怕是微不足道的认可。
+|completion_benefit=每日一次，你能以直觉动作使100尺内任何生物进行的掷骰重掷。你可任选其中一种结果适用。此能力必须在首次掷骰后、GM宣布结果前使用。 推荐背景：感召(Called), 吉星高照(Fortunate), 鼓舞人心(Inspiring)。
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/zhef0bc5c087.htm
+}}

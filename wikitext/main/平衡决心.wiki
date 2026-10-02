@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Dragons pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=平衡决心
+|english_name=Balanced Determination
+|type=社会
+|description=你开始欣赏君主龙所秉持的平衡之道。每天一次，在对抗源自其他生物的法术或能力进行豁免检定之前，你可以唤起那些龙的决心。你在该豁免检定上取10（将d20的结果视为10）。（译注：AoN 原文作「spell ability」，疑为笔误，应为「spell or ability」，即法术或能力。）
+|source_name=巨龙遗产
+|source=LoD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Balanced%20Determination
+}}

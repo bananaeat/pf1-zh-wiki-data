@@ -1,0 +1,9 @@
+{{Trait
+|name=宝钻帝国的傲气
+|english_name=Pride of the Diamond Empire
+|type=种族
+|prerequisites=[[人类]]（柯莱士人）
+|description=你的傲气之强，自信之坚，足以抵挡意图粉碎你的意志的魔法。当你在通过一个成功后会使效果减弱的对抗恐惧效果的意志豁免时(例如会使你[[战栗]]而非恐慌),你改为不受影响。
+|source_name=沙之子民
+|source_url=https://pf1chm.pages.dev/topics/zh730f330f66.htm
+}}

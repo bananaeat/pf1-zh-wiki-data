@@ -1,0 +1,15 @@
+{{魔法物品
+|name=慈悯臂铠
+|english_name=Merciful Vambraces
+|aon=MagicWondrousDisplay.aspx?FinalName=Merciful Vambraces
+|cat=奇物
+|aura=中等咒法系
+|cl=7
+|slot=腕部
+|price=8,000 gp
+|weight=3磅
+|description=这对臂铠由磨光的钢制成。当圣武士穿戴这对臂铠时，臂铠金属表面上会神奇地浮现出该圣武士所奉神祇的圣徽和其他宗教图案。每天一次，当该圣武士使用[[圣武士#圣疗|圣疗]]能力时，她可以为该次圣疗额外添加一个她尚未选择的[[圣武士#恩惠|恩惠]]。她的等级必须足以使用该恩惠。
+|req=[[制造奇物]]、[[清洁术]]
+|cost=4,000 gp
+|source=极限宝具
+}}

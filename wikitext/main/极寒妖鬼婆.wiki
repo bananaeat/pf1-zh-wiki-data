@@ -1,0 +1,52 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=极寒妖鬼婆
+|english_name=Boreal Annis Hag
+|cr=7
+|xp=3,200
+|alignment=混乱邪恶
+|size=大型
+|type=人形怪物
+|subtypes=寒系
+|init=+1
+|senses=黑暗视觉 60 尺；察觉 +13
+|description=这个令人生厌的驼背老太婆，死白的皮肤上带着一块块棕黄色的斑，如同新鲜的淤青。尽管驼着背，她仍比人类高大许多。
+|ac=20，接触 10，措手不及 19（+1 敏捷，+10 天生，–1 体型）
+|hp=73（7d10+35）
+|fort=+9
+|ref=+6
+|will=+6
+|dr=5/钝击
+|immune=寒冷
+|sr=17
+|weaknesses=火焰易伤
+|speed=30 尺
+|melee=啮咬 +14（1d6+8 外加 1d6 寒冷），2 爪击 +14（1d6+8 外加 1d6 寒冷）
+|space=10 尺
+|reach=10 尺
+|special_attacks=撕裂（2 爪击，1d6+12）
+|spell_like=（CL 7；专注 +7）；每日 3 次—[[变身术]]，[[云雾术]]
+|str=27
+|dex=12
+|con=20
+|int=13
+|wis=13
+|cha=10
+|bab=+7
+|cmb=+16
+|cmd=26
+|feats=[[警觉]];[[盲斗]];[[强韧加强]];[[威逼]]
+|skills=[[唬骗]] +7;[[交涉]] +7;[[威吓]] +18;[[察觉]] +13;[[察言观色]] +3;[[隐匿]] +7（雪地中 +11）
+|racial_mods=雪地中 +4 隐匿，雪地中 +4 生存
+|languages=通用语;巨人语
+|sq=无踪步
+|environment=寒冷的沼泽
+|organization=单独或巫团（三只任意种类的鬼婆）
+|treasure=标准
+|special_abilities={{怪物能力|无踪步|Ex|极寒妖鬼婆在雪地上不会留下足迹，也无法被追踪。只要她愿意，可以选择留下足迹。}}
+|source=Irrisen - Land of Eternal Winter
+|lore=
+[[极寒生物]]大多与温带的同类相似，但术法造就的寒冬强化了它们，使它们更强壮、也危险得多。它们的基本形体与祖先相仿，但其他特征暴露了这些生物已然改变的本质：毛皮和皮肤要苍白得多，常是蓝色、灰色或干脆纯白，这些生物身上的某些部分裹着霜雪也不罕见，尤其是它们参差的利爪和蓬乱的毛发。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Boreal Annis Hag|2=Boreal Annis Hag}}

@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[猛力攻击]] 的神话版本。</small></div>
+{{Feat
+|name=猛力攻击
+|english_name=Power Attack
+|categories=神话
+|description=你的攻击极具毁灭性。
+|prerequisites=[[猛力攻击]]
+|benefit=当你使用[[猛力攻击]]时，你的近战伤害检定获得+3加值，而非原本的+2点。当你的基本攻击加值达到+4以及之后每提高4点时，伤害加值的数值都会+3点以取代原本的+2点。此外，来自该专长的伤害加值会在重击时翻倍，而且这是在应用武器重击倍率之前进行的。当你启动猛力攻击时，能够花费1次神话之力，以此在1分钟内忽略该专长对近战攻击检定与[[战技]]检定带来的惩罚。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

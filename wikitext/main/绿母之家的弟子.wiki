@@ -1,0 +1,9 @@
+{{Trait
+|name=绿母之家的弟子
+|english_name=House of Green Mothers Pupil
+|type=魔法
+|description=你在阿努利的德鲁伊魔法中心学习的时光足以让你跟一个[[魔宠]]建立联系。你在[[驯养动物]]检定获得+1背景加值。你能以此背景替代[[钢铁意志]]作为[[魔宠契约]]专长的先决条件(Pathfinder Player Companion: Familiar Folio)。
+|source_name=遥远世界
+|source=遥远彼岸
+|source_url=https://pf1chm.pages.dev/topics/zh626a683d0a.htm
+}}

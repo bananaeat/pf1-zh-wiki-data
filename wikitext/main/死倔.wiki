@@ -1,0 +1,9 @@
+{{Feat
+|name=死倔
+|english_name=Implacable
+|categories=战斗
+|description=你不容易慌乱，特别在你喝醉的时候。
+|benefit=你在对抗痛苦效果的豁免检定上获得+2加值。当你醉酒或伶仃大醉时，你获得DR 5/穿刺或挥砍。
+|source_name=内海酒馆
+|source_url=https://pf1chm.pages.dev/topics/zh5b451adebe.htm
+}}

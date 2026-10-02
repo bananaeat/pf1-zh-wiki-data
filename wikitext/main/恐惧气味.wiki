@@ -1,0 +1,10 @@
+{{Feat
+|name=恐惧气味
+|english_name=Smell Fear
+|description=你能够捕捉到风中飘散的恐惧气味。
+|prerequisites=【灵敏嗅觉】，半兽人或兽人。
+|benefit=你使用【灵敏嗅觉】来侦测处于[[战栗]]，惊惧以及恐慌状态的生物时，察觉检定获得+4加值。若目标正处于上述状态中的一种，或者尝试以某种方式掩盖他们的恐惧的话，那么你就能够使用察觉技能来替代察言观色技能检定。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

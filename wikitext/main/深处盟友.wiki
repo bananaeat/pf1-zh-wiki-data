@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Darklands pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=深处盟友
+|english_name=Allies in the Deep
+|type=社会
+|description=你学会了在必要时与道德可疑之人和睦相处。你在用于影响邪恶生物的基于魅力的技能检定上获得+1背景加值。你必须是非邪恶阵营才能选择此背景特性。
+|source_name=幽暗地域英雄
+|source=HotD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Allies%20in%20the%20Deep
+}}

@@ -1,0 +1,16 @@
+<noinclude>{{速查导航|here=规则}}
+'''免疫'''（Immunity）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex 或 Su</span><span class="sk-f">位置：防御能力</span></div>
+</noinclude><includeonly><div class="lang"><span id="免疫"></span><div class="lang-h"><b>[[免疫]]</b><i>Immunity</i><span class="lang-w">Ex 或 Su · 防御能力</span></div><div class="lang-d"></includeonly>
+带有免疫能力的生物不会受到所列出来源的伤害。免疫同样可以作用于[[苦难]]、状态、法术（基于环阶、豁免类型或学派）和其他效果。生物不会受到其所免疫的效果通常会触发的任何后续效果。
+
+'''格式'''：'''免疫''' 酸、火焰、麻痹
+<includeonly></div></div></includeonly>
+
+{{FAQ|v5748eaic9o83}}
+
+<noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Immunity|2=Immunity}}
+
+[[分类:通用怪物规则]]</noinclude>

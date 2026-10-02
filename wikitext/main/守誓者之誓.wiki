@@ -1,0 +1,10 @@
+{{Trait
+|name=守誓者之誓
+|english_name=Oathkeeper's Vow
+|type=宗教
+|prerequisites=信仰科欧斯
+|description=你曾受科欧斯教团的训练，学习立下不可违背的誓言。你将以下法术加入圣武士法术列表，对应环位如下：[[命令术]]（1环）、[[行动禁制]]（1环）、[[暗示术]]（仅用于促使目标履行既有承诺）（2环）、[[次等指使术]] （3环）、[[指使术]]（4环）。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh9e38168036.htm
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=电鳗休克
+|english_name=Electric Eel Shock
+|categories=战斗
+|description=电流的震荡使你的对手陷入恍惚。
+|prerequisites=感知15，电鳗流，元素之拳，精通徒手打击，BAB+11或7级武僧等级
+|benefit=你每天获得一次额外的元素之拳次数。受到元素之拳的闪电伤害的生物必须通过强韧豁免检定（DC=10+1/2人物等级+感知修正）否则恍惚1轮。本效果也适用于被擒抱时受到电鳗导管专长闪电伤害的生物。
+|source=BotS
+|source_name=海洋血脉
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

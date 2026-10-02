@@ -1,0 +1,10 @@
+{{Feat
+|name=英雄意志
+|english_name=Heroic Will
+|description=你不屈的意志甚至可以冲破钢铁[[镣铐]]的禁锢。
+|prerequisites=[[钢铁意志]]，基础意志豁免+4，人类。
+|benefit=每天1次，你能以[[标准动作]]对一个正在影响你的、需要意志豁免的有害效果尝试进行一次新的豁免。如果你因为你尝试重新豁免的那个效果而受到支配、受到操纵或无法行动，你可以在回合开始时不花费动作进行这次豁免，但成功时你的回合随即结束。你无法以此专长移除瞬时的、不需要进行意志豁免或不允许豁免的效果。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

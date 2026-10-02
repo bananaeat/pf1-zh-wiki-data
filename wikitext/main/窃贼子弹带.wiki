@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=窃贼子弹带
+|english_name=Pickpocket's Bandolier
+|aon=MagicWondrousDisplay.aspx?FinalName=Pickpocket's Bandolier
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=胸部
+|price=12,500 gp
+|weight=2磅
+|description=这条风格别致的黑色皮革子弹带绣工精细，最多可以挂12把匕首、小瓶或形状相近的物品。佩戴者的[[巧手]]检定会被用来对抗别人针对她的巧手检定（而不是[[察觉]]检定）。此外，佩戴者成功通过一次巧手检定后，可以用[[迅捷动作]]把赃物（体型为超小型或更小）塞进子弹带的某个插槽里，让这件被窃之物看起来就像一把普通的匕首。只有仔细检查子弹带，才能发现以这种方式藏匿的物品的真实面目。
+|req=[[制造奇物]]、[[缩物术]]
+|cost=6,250 gp
+|source=市井英雄
+}}

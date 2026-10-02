@@ -1,0 +1,15 @@
+{{魔法物品
+|name=驴背短衫
+|english_name=Muleback Cords
+|aon=MagicWondrousDisplay.aspx?FinalName=Muleback Cords
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=肩部
+|price=1,000 gp
+|weight=1/4磅
+|description=这些厚实的皮绳缠绕在穿戴者的上臂和肩膀上。穿戴时，它们会让穿戴者的肌肉看起来比平常更壮实。穿戴者在确定负重能力时，将自己的力量值视为比正常高8点。这个加值不适用于战斗、破坏物品或任何其他与力量有关的掷骰，只会增加穿戴者能够携带的装备或材料的数量。
+|req=[[制造奇物]]、[[牛之力量]]
+|cost=500 gp
+|source=进阶玩家指南、极限宝具
+}}

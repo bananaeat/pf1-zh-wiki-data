@@ -1,0 +1,10 @@
+{{Trait
+|name=孤独者
+|english_name=Forlorn
+|type=种族
+|aliases=绝世者
+|prerequisites=[[精灵]]
+|description=你在远离传统的[[精灵]]社会居住了漫长的岁月，你深切体会到尘世的冷漠，危险以及对弱者毫无怜悯。你的强韧豁免获得+1背景加值。
+|source_name=格拉里昂的精灵
+|source_url=https://pf1chm.pages.dev/topics/zhd63cf5e76e.htm
+}}

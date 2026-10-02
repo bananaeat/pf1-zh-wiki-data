@@ -1,0 +1,9 @@
+{{装备
+|name=鞋垫
+|english_name=Cushion inserts
+|cat=衣物
+|price=5 sp
+|weight=—
+|description=这种靴子或鞋子用的橡胶垫能够垫住你的脚，调整你走路的姿势，这使你在为继续奔跑而进行的体质检定上，以及为避免强行军造成的[[非致命伤害]]而进行的体质检定上，都获得+1环境加值。
+|source=极限荒野
+}}

@@ -1,0 +1,15 @@
+{{Spell
+|name=高等护命屏障
+|english_name=Shield of fortification, greater
+|school=防护系
+|levels=圣武士 3;审判者 3;先知 4;异能者 4;战斗祭司 4;牧师 4
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=接触
+|target=接触到的生物
+|duration=1分钟/等级
+|save=强韧，通过则无效（无害）
+|sr=是
+|description=该法术的功能如同[[护命屏障]]一般，不过它有50%的概率使重击或偷袭失效，仅造成普通的伤害，而非原本的25%。
+|source=进阶职业指南
+}}

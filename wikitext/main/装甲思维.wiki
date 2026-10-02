@@ -1,0 +1,14 @@
+<noinclude>{{先知导航}}
+'''装甲思维'''（Armored Mind, Su）是[[先知]]的[[神爪秘示域]]底下的一项能力。
+
+</noinclude>{{Source|地狱骑士之道|Path of the Hellknight|inline}}
+
+当你穿戴着[[地狱骑士战甲]]或持节士面甲时，你在对抗影响心灵的效果时意志豁免投骰获得+2加值。
+
+7级起，每天一次，你可以在对抗影响心灵的效果时重新投掷一次意志豁免投骰，并选择其中更有利的那个结果。
+
+11级起，意志豁免投骰的加值增加到+4。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhcad7bec28d.htm 原文]）。全部秘示域见 [[:分类:秘示域|分类:秘示域]]。
+
+[[分类:秘示域]]</noinclude>

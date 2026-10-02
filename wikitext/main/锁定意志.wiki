@@ -1,0 +1,11 @@
+{{Feat
+|name=锁定意志
+|english_name=Locked Will
+|aon=无
+|categories=技巧
+|description=一旦你摆脱了心理束缚，你几乎不可能再次受到束缚。
+|prerequisites=感知 14。
+|benefit=你在抵抗影响心灵效果的豁免检定获得+4加值。此外，在对一个影响心灵效果的豁免检定失败后，你在未来24小时内抵抗同样的影响心灵效果的豁免检定上获得+10加值。
+|source_name=其他职业
+|source_url=https://pf1chm.pages.dev/topics/page_1210.html
+}}

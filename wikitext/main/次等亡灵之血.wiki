@@ -1,0 +1,8 @@
+{{狂暴之力
+|name=次等亡灵之血
+|english_name=Undead Blood, Lesser
+|type=Su
+|categories=血脉
+|benefit=每当野蛮人进入狂暴状态，他每在冲锋攻击时命中了一个生物，该生物就会在相当于他的野蛮人等级数一半的轮数内陷入[[战栗]]状态。这个效果无法和其他恐惧效果叠加以形成更强的不良状态。
+|source_name=进阶职业指南
+}}

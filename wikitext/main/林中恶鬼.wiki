@@ -1,0 +1,11 @@
+{{Feat
+|name=林中恶鬼
+|english_name=Woodland Wraith
+|categories=战斗
+|description=你与你的敌手间，可通过相隔着地形来避免遭受攻击。
+|prerequisites=敏捷15，[[闪避]]，基础攻击加值+6。
+|benefit=若你用两个动作进行移动，或者你进行撤退动作，且开始或结束移动时位于自然产生的[[困难地形]]（草丛、灌木丛等等）或自然物体至少能提供部分[[掩蔽]]的方格中（如树木、岩石等），那么你获得[[隐蔽]]，持续到你攻击、移动离开该方格或到你下回合结束为止，视何者先发生。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

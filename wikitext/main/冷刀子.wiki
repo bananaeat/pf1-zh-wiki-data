@@ -1,0 +1,10 @@
+{{Trait
+|name=冷刀子
+|english_name=Nonchalant Thuggery
+|type=社会
+|description=你善于让人们不注意到那些“不对劲”的东西。
+|benefit=你在用于避免他人注意到你的攻击性行为的[[唬骗]]检定中获得+4背景加值。
+|source_name=地区背景
+|source=CEoD
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

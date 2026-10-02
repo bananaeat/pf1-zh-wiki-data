@@ -1,0 +1,11 @@
+{{Feat
+|name=仪式巫术
+|english_name=Ritual Hex
+|pfs=否
+|description=你精通古老的奥秘和禁咒，并且知道如何向你联系的力量源泉祈求额外知识。
+|prerequisites=[[知识]]（奥秘）4级，[[知识]]（历史）4级，巫术职业能力
+|benefit=你学会了执行一项叫做[[祈求庇护主]]的特殊神秘仪式（《[[异能冒险]]》208页），这会让你暂时获得一项你还没学会的[[巫术]]。你总是相信你所执行的这个仪式会成功，因此GM应当用暗骰进行神秘仪式的技能检定，结果仅仅在你尝试使用新获得的巫术时才会被揭示。
+|source=OO
+|source_name=异能源始
+|source_url=https://pf1chm.pages.dev/topics/zhca50b6790c.htm
+}}

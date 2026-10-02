@@ -1,0 +1,8 @@
+{{物品
+|name=王权的象征
+|english_name=Emblems of Royalty
+|category=冒险装备
+|description=下列道具作为王权的象征可以在形形色色的王庭中寻到。
+|source=HotHC
+|source_name=皇庭英豪
+}}

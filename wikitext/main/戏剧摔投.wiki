@@ -1,0 +1,11 @@
+{{Feat
+|name=戏剧摔投
+|english_name=Dramatic Slam
+|categories=战斗
+|description=你野蛮的[[战技]]会震慑那些与你敌对的人。
+|prerequisites=[[炫目技巧]]，[[精通擒抱]]，[[精通徒手打击]]，[[野蛮摔投]]，[[武器专攻]]，基本攻击加值+9或武僧6级
+|benefit=当你使用[[野蛮摔投]]时，如果你成功通过擒抱战技检定将敌人击倒[[俯卧]]，你可以花费一个[[迅捷动作]]进行一次威吓检定，对30尺内能看到你这次攻击的敌人挫败士气。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/zh0ff052e72d.htm
+|source=MAH
+}}

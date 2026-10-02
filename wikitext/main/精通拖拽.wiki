@@ -1,0 +1,19 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[精通拖拽 (神话)]]。</small></div>
+{{Feat
+|name=精通拖拽
+|english_name=Improved Drag
+|categories=战斗
+|description=你擅长在战场中拖拽敌人。
+|prerequisites=力量13，[[猛力攻击]]，基本攻击加值+1。
+|benefit=当你使用拖拽[[战技]]时不会引起[[借机攻击]]。此外，你所实行的拖拽战技检定获得+2加值。你还在对抗针对自身的拖拽战技时，[[CMD]]获得+2加值。
+|normal=当你使用拖拽战技时会引起借机攻击。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}
+
+== 哪里用到它 ==
+
+'''制造需求'''：[[钩链屠杀]]（1 件物品）
+
+'''先决条件'''：[[反身翻腾]]、[[快速拖拽]]、[[怒意拖拽]]、[[激流冲压]]、[[碎浪搏]]、[[碎浪流]]、[[碎浪破]]、[[高等拖拽]]（8 个条目）

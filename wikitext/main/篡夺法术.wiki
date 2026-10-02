@@ -1,0 +1,10 @@
+{{Feat
+|name=篡夺法术
+|english_name=Usurping Spell
+|aon=Ursurping Spell
+|categories=超魔
+|description=就像篡位者达朗利一样，你用你的力量强行要求法术影响的对象把你视为盟友。
+|benefit=对篡夺法术豁免失败的生物在判断夹击时视为你的盟友而非敌人，并且不能对你进行借机攻击。这个效果的持续时间和法术持续时间相同或1轮，两者取高。篡夺法术须占用高于原本1个环位的法术位。
+|source_name=冒险之路132：六传奇之魂
+|source_url=https://pf1chm.pages.dev/topics/132_The_Six-Legend_Soul.htm
+}}

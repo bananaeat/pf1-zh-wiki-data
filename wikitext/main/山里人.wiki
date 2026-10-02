@@ -1,0 +1,7 @@
+{{物品
+|name=山里人
+|english_name=The Mountain Man
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。抽牌者增大一个体型，但装备不会同步增大。
+}}

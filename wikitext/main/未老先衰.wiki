@@ -1,0 +1,9 @@
+{{Trait
+|name=未老先衰
+|english_name=Old Before Your Time
+|type=种族
+|prerequisites=[[吸血裔]]（诺斯弗拉图裔）
+|description=你脆弱的肉体显示出你还能活多久的信号。任何试图搞清你年龄的生物必须通过察觉或察言观色检定，对抗你的唬骗检定，你在此检定上有+5背景加值。当你试图将自己[[易容]]得更老（至少一个年龄层）的易容检定获得+2背景加值，你可以忽略因将自己易容成不同年龄层而产生的易容检定减值。
+|source_name=夜之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_822.html
+}}

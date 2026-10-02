@@ -1,0 +1,16 @@
+{{Spell
+|name=爆音箭
+|english_name=Deafening song bolt
+|school=塑能系
+|tags=音波
+|levels=吟游诗人 5;歌者 5
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=最高3名生物，任意两名之间的距离不得超过30尺
+|duration=立即
+|save=无
+|sr=否
+|description=你在歌唱或表演中的3个音变为有形的奥能箭矢，鸣叫着划过战场。每根箭矢都需要一次远程[[接触攻击]]以命中目标，并会造成3d10点音波伤害，使目标[[耳聋]]1d6轮。这些箭矢可以射击相同或不同的目标，但是它们必须被同时发射出去。
+|source=进阶玩家指南
+}}

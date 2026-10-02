@@ -1,0 +1,46 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #55: The Wormwood Mutiny
+|authors=Richard Pett
+|pages=96
+}}
+
+{{书页/简介|head=命运的俘虏|1=
+海盗想拿什么就拿什么，无论是船只、赃物还是人！冒险者醒来时发现，自己竟被强征入了海盗船「苦艾号」（Wormwood）的船员队伍——这艘船属于恶名昭著的 Barnabus Harrigan 船长。要想在汹涌的风浪、凶残的船员、敌对的海盗、饥饿的野兽乃至更糟的危险中活下来，他们就得学会怎样当海盗。但当命运转而眷顾他们时，这批新船员就得自己决定：是继续给海盗当杂役，还是夺取控制权，扬帆驶向属于自己的冒险？
+
+本册《冒险之路》拉开「颅骨与镣铐」冒险之路的序幕，内容包括：
+
+* Richard Pett 的《苦艾号叛变》（"The Wormwood Mutiny"），一部适用于 1 级角色的开拓者角色扮演游戏冒险。
+* Jesse Benner、Richard Pett 和 F. Wesley Schneider 撰写的海盗船上的生活细节，以及成为大海上最臭名昭著的恶棍的规则。
+* Sean K Reynolds 揭示海盗、纷争与海怪的女神[[贝丝玛拉]]大胆无畏的信仰。
+* Robin D. Laws 在「探索者日志」中带来的死亡与劫掠。
+* Jesse Benner、Sean K Reynolds 和 Steven D. Russell 设计的四种新怪物。
+}}
+
+'''冒险之路55：苦艾号叛变'''（''Pathfinder #55: The Wormwood Mutiny''）是海盗主题的[[冒险之路]]「颅骨与镣铐」系列六章中的第一章，由 Richard Pett 撰写，配套文章出自 Jesse Benner、Sean K Reynolds、Steven D. Russell 和 F. Wesley Schneider，小说出自 Robin D. Laws，于 2012 年 4 月 25 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+苦艾号叛变 @ 6
+NPC 图集 @ 52
+颅骨与镣铐宝藏 @ 60
+- [[海盗女王的三角帽]]
+- [[驱离登舰矛]]
+- 待客吊床（hospitality's hammock）
+- [[顺从镣铐]]
+- 坚定抓钩（steadfast grapple）
+- [[潮水水兵刀]]
+- [[报复鱼叉]]
+海盗的生活 @ 60
+[[贝丝玛拉]] @ 68
+探索者日志：远塔莱的宝藏（1／6） @ 74
+}}
+
+{{书页尾
+|pfw=The Wormwood Mutiny
+|releases=PDF¦PZO9055E¦2012-04¦；Softcover¦PZO9055¦2012-04¦
+}}
+
+[[分类:书目]]

@@ -1,0 +1,10 @@
+{{Feat
+|name=既非精灵也非人类
+|english_name=Neither Elf nor Human
+|description=你将自身从你的血脉中抹除得如此彻底，就连魔法也无法识别出你。
+|prerequisites=[[流放之路]]，[[飘忽不定]]，角色等级11，半精灵。
+|benefit=在判断基于你的类型的有害法术或效果时，你既不被视为[[精灵]]也不被视为[[人类]]，比如〈破敌〉武器或者游侠的【宿敌】职业能力。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=命令桂冠
+|english_name=Laurel of Command
+|aon=MagicWondrousDisplay.aspx?FinalName=Laurel of Command
+|cat=奇物
+|aura=微弱惑控系
+|cl=3
+|slot=头部
+|price=30,000 gp
+|description=这顶头环以精工打造的黄金月桂叶装饰，赋予佩戴者说服与领导的力量。佩戴者的声音极具权威，能够激励他人走向胜利。佩戴者可以用一个[[迅捷动作]]，对30尺内的一名盟友说出鼓励或建议的话语。该盟友在佩戴者的下个回合开始之前，攻击检定、豁免检定、技能检定和属性检定获得+2士气加值。佩戴者也可以用这顶桂冠把这个加值赋予自己。一个生物每天至多获得一次该加值。
+|req=[[制造奇物]]、[[英雄气概]]
+|cost=15,000 gp
+|source=极限宝具
+}}

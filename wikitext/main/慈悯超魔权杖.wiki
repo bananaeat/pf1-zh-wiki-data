@@ -1,0 +1,15 @@
+{{魔法物品
+|name=慈悯超魔权杖
+|english_name=Rod of Metamagic, Merciful
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Metamagic, Mercifullesser
+|cat=权杖
+|aura=强烈（无学派）
+|cl=17
+|slot=无
+|price=1,500 gp（次等）；5,500 gp（普通）；12,250 gp（高等）
+|weight=5磅
+|description=持用者能够如同使用[[慈悯法术]]专长一样使法术造成[[非致命伤害]]，每天至多3次。
+|req=[[制造权杖]]、[[慈悯法术]]
+|cost=750 gp（次等）；2,750 gp（普通）；6,125 gp（高等）
+|source=进阶玩家指南、极限宝具
+}}

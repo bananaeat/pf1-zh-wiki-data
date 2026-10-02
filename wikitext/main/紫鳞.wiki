@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 19），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=紫鳞
+|english_name=Purple Scales
+|type=种族
+|pfs=否
+|prerequisites=狗头人
+|description=你那古怪的紫色鳞片使你被部落放逐，迫使你在[[狗头人]]社会的边缘孤身求生。独自流浪于幽暗地域期间，你接触了其他几个地底种族，扩充了自己掌握的语言。除了龙语之外，你在游戏开始时还能说以下语言之一：邪灵语、矮人语、地精语或地底通用语。
+|source_name=格拉利昂的狗头人
+|source=KoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Purple%20Scales
+}}

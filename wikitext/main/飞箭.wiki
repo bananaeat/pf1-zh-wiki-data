@@ -1,0 +1,10 @@
+{{武器
+|name=飞箭
+|english_name=Flight arrows (20)
+|category=弹药
+|wcat=弹药
+|price=2 gp
+|weight=3磅
+|description=这种箭矢的箭杆很轻，并有特殊的箭羽设计，以换取更远的射程。用长弓发射时，飞箭的射程增量增加20尺；用短弓发射时增加10尺。飞箭造成伤害时视为小一级体型。
+|source=进阶玩家指南、极限宝具
+}}

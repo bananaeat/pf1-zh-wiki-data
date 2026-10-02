@@ -1,0 +1,10 @@
+{{Trait
+|name=溅射攻击
+|english_name=Splash Attack
+|type=战斗
+|pfs=否
+|description=当冲突升级时，你能抓住敌人松懈的瞬间。只要你站在水中或临近水边，或是持有至少一品脱的液体(包括不溶于水的液体，如油或[[炽火胶]]),你可以在使用[[阴招]][[战技]]使你触及范围内的敌人[[目盲]]时不引发[[借机攻击]]；如果你还拥有[[精通阴招]]专长,你就能在使敌人目盲的阴招战技检定中获得 +2的背景加值。
+|source_name=河域子民
+|source=PotR
+|source_url=https://pf1chm.pages.dev/topics/zh576fd36972.htm
+}}

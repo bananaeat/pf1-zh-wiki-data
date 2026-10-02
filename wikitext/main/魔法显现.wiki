@@ -1,0 +1,10 @@
+{{Feat
+|name=魔法显现
+|english_name=Magical Epiphany
+|description=你的信仰可以在你最需要的时候招来魔力相助
+|prerequisites=准备施法者，信仰内希斯
+|benefit=每天一次，你可以通过一个[[标准动作]]在一个空置的法术位中准备法术。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

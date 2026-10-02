@@ -1,0 +1,16 @@
+{{魔法物品
+|name=碎符护腕〔休盎提人〕
+|english_name=Broken Rune Bracers (Shoanti)
+|aon=MagicWondrousDisplay.aspx?FinalName=Broken Rune Bracers (Shoanti)
+|cat=奇物
+|aura=中等防护系
+|cl=7
+|slot=腕部
+|price=9,000 gp
+|description=这件奇物通常只有所标明的种族或族裔的成员才能获得。
+
+这对皮护腕上刻有来自古代的束缚符文。每个符文都被刻意刻得不完整，以颠倒其本来的功能。每日1次，当休盎提人穿戴者被[[魔魂壶]]、[[占据术]]（详见《异能冒险》第180页）或类似效果占据时，护腕会自动驱逐占据它的生物。占据生物在此之前没有机会采取任何行动（例如摘下护腕）。
+|req=[[制造奇物]]、[[祓除]]，制造者必须是休盎提人
+|cost=4,500 gp
+|source=内海种族
+}}

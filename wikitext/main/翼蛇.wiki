@@ -1,0 +1,7 @@
+{{物品
+|name=翼蛇
+|english_name=The Winged Serpent
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。抽牌者获得一个愿望。在影响规则和属性时与[[许愿术]]一样，但能做到诸如河流改道，战争结束之类的改变现实。决定权交由GM。
+}}

@@ -1,0 +1,16 @@
+{{Spell
+|name=强效换身术
+|english_name=Mind Swap, Major
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=异能者 9
+|action=1分钟
+|components=语言;姿势;材料（价值10000gp的钻石）
+|range=中距
+|target=与你种族相同的一个生物
+|duration=立即
+|save=意志，通过则无效
+|sr=是
+|description=该法术的功能如同[[换身术]]一般，不过会有上述区别。此外在24小时之后，取代使用对方的生命值，你们两者会恢复到原本的生命值，并且以新的体质调整值进行调整。该法术仅能被[[神迹术]]、[[祈愿术]]或另一个[[强效换身术]]所反转。
+|source=异能冒险
+}}

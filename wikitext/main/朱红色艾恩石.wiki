@@ -1,0 +1,20 @@
+{{魔法物品
+|name=朱红色艾恩石
+|english_name=Vermilion Rhomboid (Normal) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun Stone Vermilion Rhomboid
+|cat=艾恩石
+|aura=中等变化系
+|cl=12
+|slot=无
+|price=10,000 gp
+|description='''形状'''：长菱
+
+'''效果'''：这枚艾恩石使你的[[特技]]和[[游泳]]检定获得+5表现加值。
+
+'''共振'''（放入[[寻路仪]]时）：每天可以在水中呼吸至多10分钟，可以以1分钟为单位分次使用。
+
+艾恩石的通用规则（启动、环绕飞行、抓取，以及AC、硬度）见[[艾恩石]]。
+|req=[[制造奇物]]、[[牛之力量]]、[[猫之优雅]]，制造者必须已经12级
+|cost=5,000 gp
+|source=秘密探寻者
+}}

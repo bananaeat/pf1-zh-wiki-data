@@ -1,0 +1,19 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能源始|Occult Origins}}
+'''重力控制'''（Gravity Control, Sp）是[[操念使]]的[[原力]]。
+
+元素：虚空；类别：通用（Sp）；等级：3；超载：0
+
+你可以就如同[[火焰喷进]]一般操控重力移动自身。
+
+高等重力控制（Gravity Control, Greater）
+
+元素：虚空；类别：通用（Sp）；等级：5；超载：0
+
+前置：重力控制
+
+你对重力的操作更进一步。这项原力在其他方面的功能就如同[[高等火焰喷进]]。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_661.html 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Gravity Control|2=Gravity Control}}
+
+[[分类:原力]]

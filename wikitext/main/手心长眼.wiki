@@ -1,0 +1,11 @@
+{{Feat
+|name=手心长眼
+|english_name=Hand's Sight
+|pfs=否
+|description=透过显现出一只怪异恐怖的精魄之眼，你的鬼手能替你「看」东西。
+|prerequisites=[[鬼上手]]。
+|benefit=当你的鬼手没持有任何东西时，你获得黑暗视觉60尺并不能被[[夹击]]。
+|source=HHH
+|source_name=闹鬼英雄手册
+|source_url=https://pf1chm.pages.dev/topics/zh546b3e4ae1.htm
+}}

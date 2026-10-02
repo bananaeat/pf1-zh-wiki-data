@@ -1,0 +1,11 @@
+{{Feat
+|name=苦痛一击
+|english_name=Painful Blow
+|categories=战斗
+|description=你已经学会了如何让打击变得如此痛苦，以至于被击中的施法者很难集中注意力。
+|prerequisites=[[要害打击]]，基础攻击加值+6，[[知识]]（奥秘）3级。
+|benefit=当你使用[[要害打击]]（或[[精通要害打击]]亦或[[高等要害打击]]）时，被你这一击命中的生物，直到你下一回合开始前，必须将其所承受的伤害视为持续性伤害。这会迫使该目标在施放法术时需要尝试进行一次专注检定（详见Pathfinder RPG[[核心规则书]]206页）。你每日可使用该专长效果2次，亦或是当你的基础攻击加值为+12或更高时则为每日3次。
+|source_name=秘术选集
+|source_url=https://pf1chm.pages.dev/topics/zh899ed20061.htm
+|source=AA
+}}

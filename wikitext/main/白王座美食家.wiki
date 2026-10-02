@@ -1,0 +1,10 @@
+{{Trait
+|name=白王座美食家
+|english_name=Whitethrone Gourmand
+|type=地区
+|prerequisites=伊利森
+|description=你在白王座城享受着优渥的成长环境，沉迷于各种各样怪异而又慑人的享乐。
+|benefit=在对抗任何导致[[反胃]]或[[恶心]]状态的效果以及所有摄入型毒药的豁免检定上，你获得 +1背景加值。
+|source_name=北地居民
+|source_url=https://pf1chm.pages.dev/topics/zh63296b3929.htm
+}}

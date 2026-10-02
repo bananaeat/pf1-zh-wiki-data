@@ -1,0 +1,14 @@
+{{魔法物品
+|name=高等储法戒指
+|english_name=Ring of Spell Storing (major)
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Spell Storing (major)
+|cat=戒指
+|aura=强烈塑能系
+|cl=17
+|slot=戒指
+|price=200,000 gp
+|description=如同[[储法戒指]]，高等储法戒指最多可以储存10个环位的法术。
+|req=[[锻造戒指]]、[[法术灌输]]
+|cost=100,000 gp
+|source=核心规则书、极限宝具
+}}

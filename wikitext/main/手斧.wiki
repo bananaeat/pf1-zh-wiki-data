@@ -1,0 +1,16 @@
+{{武器
+|name=手斧
+|english_name=Handaxe
+|category=武器
+|prof=军用
+|wcat=轻型
+|price=6 gp
+|weight=3磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×3
+|type=挥砍
+|groups=斧，部落
+|description=这种单手斧很短（长约1尺），设计上就是单手使用的。它不像[[飞斧]]那样为优雅的翻转动作而保持平衡，而是头部更重。“托马霍克”“战用手斧”之类的称呼通常指的就是手斧。
+|source=核心规则书、极限宝具
+}}

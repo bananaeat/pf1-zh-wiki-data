@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Wilderness Origins pg. 2），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=循星者
+|english_name=Follower of the Stars
+|type=宗教
+|prerequisites=黛丝娜
+|description=在晴朗的天空下使用[[生存]]辨别方向时，你获得+4背景加值。
+|source_name=荒野源始
+|source=WO
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Follower%20of%20the%20Stars
+}}

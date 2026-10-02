@@ -1,0 +1,157 @@
+{{速查导航}}
+<div class="well" style="margin:.2em 0"><small>神话版本见 [[神话蓝龙]]（《[[神话冒险]]》）。</small></div>
+{{怪物
+|name=少年蓝龙
+|english_name=Chromatic Dragon, Blue
+|cr=9
+|xp=6,400
+|alignment=守序邪恶
+|size=大型
+|type=龙类
+|subtypes=土系
+|init=+5
+|senses=龙感 dragon senses；觉察 察觉 +14
+|description=遍身密布沙漠天空色彩般的鳞片，庞大而蜿蜒的巨龙以令人不安的优雅姿态行进。
+|ac=21，接触 touch 10，措手不及 flat–footed 20（+1 敏捷，+11 天生 natural，–1 体型）
+|hp=95（10d12 +30）
+|fort=+10
+|ref=+8
+|will=+8
+|immune=电击 electricity;麻痹 paralysis;睡眠 sleep
+|speed=40 尺，掘洞 20 尺，飞行 fly 200 尺（不良 poor）
+|melee=啮咬 bite +15（2d6 +7），2 爪抓 claws +14（1d8 +5），2 翼拍 wings +12（1d6 +2），尾拍 tail slap +12（1d8 +7）
+|space=10 尺
+|reach=5 尺（10 尺 啮咬时 with bite）
+|special_attacks=[[通用怪物规则#喷吐武器|喷吐武器]]（80–尺 线形 line, DC 18，6d8 电击 electricity），沙之干渴 desert thirst（DC 16）
+|spell_like=（CL 10th）；随意施展—[[幻音术]] ghost sound（DC 11）
+|str=21
+|dex=12
+|con=17
+|int=12
+|wis=13
+|cha=12
+|bab=+10
+|cmb=+16
+|cmd=27（31 对摔绊 vs. trip）
+|feats=[[炫目技巧]];[[精通先攻]];[[多重攻击]];[[粉碎防御]];[[武器专攻]]（啮咬）Weapon Focus
+|skills=[[唬骗]] Bluff +14;[[飞行]] Fly +8;[[威吓]] Intimidate +14;[[知识]]（本地）Knowledge+14;[[察觉|觉察]] 察觉 +14;[[隐匿]] Stealth +10;[[生存]] Survival +14
+|languages=通用语 Common;龙语 Draconic
+|sq=模仿声音 sound imitation
+|environment=温暖的沙漠
+|organization=单独
+|treasure=三倍
+|special_abilities={{怪物能力|沙之干渴|Su|蓝龙可以随意施展造水术（施法者等级等于其 HD）。或者，它可以毁灭 10 尺爆发范围内的等量的液体。无主的液体会立刻分解为沙子。生物所携带的液态魔法物品（如药剂）和一般物品必须通过一个意志豁免检定，否则就会被毁。豁免 DC 基于魅力。}}
+{{怪物能力|闪电灵光|Su|成年蓝龙被闪电的灵光所环绕。在龙的行动回合开始时，5 尺内的生物受到 1d6 点闪电伤害。老年龙的灵光增加至 10 尺，古龙的伤害值增至 2d6。}}
+{{怪物能力|幻像|Su|老年开始，蓝龙可以让自己同时出现在两个地方，这是一个自由动作，每日持续轮数等于其生命骰数。此能力如同投影术 project image，但龙可以通过幻象使用喷吐武器。}}
+{{怪物能力|沙暴|Su|以一个标准动作，太古蓝龙可以创造一次沙暴，以自己为中心半径 1200 尺。除龙自身以外的所有风暴内的生物在正常沙暴减值（参见 Pathfinder RPG 核心规则）的基础上每轮额外受到 2d6 点伤害。沙暴持续 1 小时，但龙可以用一个自由动作解除。}}
+{{怪物能力|模仿声音|Ex|幼龙及以上的蓝龙随时可以模仿它所听过的任何声音，这需要进行一个唬骗检定以对抗聆听者的察言观色检定。}}
+{{怪物能力|类法术能力|Sp|蓝龙获得下列类法术能力，在达到列出的对应年龄层后可随意使用。少年 Young—幻音术 ghost sound；青少年 Juvenile—弱效幻影 minor image；成年 Adult—腹语术 ventriloquism；老年 Old—幻景 hallucinatory terrain；古龙 Ancient—隐匿之纱 veil；太古龙 Great wyrm—海市蜃楼 mirage arcana。}}
+{{怪物能力|风暴之息|Su|古龙开始，蓝龙可以使用喷吐武器制造一股闪电风暴。这类似召唤雷暴 call lightning storm，但伤害等于龙的喷吐武器。龙可以每回合以一个自由动作召来一道闪电。豁免 DC 等于龙的喷吐武器 DC，持续 1d6 轮。额外每次使用本能力会延长此持续时间 1d6 轮。}}
+|source=怪物图鉴
+|nofooter=1
+}}
+{{怪物
+|name=成年蓝龙
+|english_name=Adult Blue Dragon
+|cr=13
+|xp=25,600
+|alignment=守序邪恶
+|size=超大型
+|type=龙类
+|subtypes=土系
+|init=+4
+|senses=龙感 dragon senses；觉察 察觉 +22
+|aura=闪电 electricity（5 尺，1d6 电击 elect.），凶威 frightful presence（180 尺，DC 21）
+|ac=28，接触 touch 8，措手不及 flat–footed 28（+20 天生 natural，–2 体型）
+|hp=184（16d12 +80）
+|fort=+15
+|ref=+10
+|will=+13
+|dr=5/魔法
+|immune=电击 electricity;麻痹 paralysis;睡眠 sleep
+|sr=24
+|speed=40 尺，掘洞 20 尺，飞行 fly 200 尺（不良 poor）
+|melee=啮咬 bite +23（2d8 +12），2 爪抓 claws +22（2d6 +8），2 翼拍 wings +20（1d8 +4），尾拍 tail slap +20（2d6 +12）
+|space=15 尺
+|reach=10 尺（15 尺 啮咬时 with bite）
+|special_attacks=[[通用怪物规则#喷吐武器|喷吐武器]]（100–尺 线形 line, DC 23，12d8 电击 electricity），碾压 crush，沙之干渴 desert thirst（DC 21）
+|spell_like=（CL 16th）；随意施展—[[幻音术]] ghost sound（DC 13），[[弱效幻影]] minor image（DC 15），[[腹语术]] ventriloquism（DC 14）
+|spells=已知法术（CL 5th）；2nd（5/天）—[[隐形术]] invisibility，[[抵抗能量伤害]] resist energy；1st（7/天）—[[魔法警报]] alarm，[[法师护甲]] mage armor，[[护盾术]] shield，[[克敌机先]] true strike；0（随意）—[[秘法印记]] arcane mark，[[侦测魔法]] detect magic，[[法师之手]] mage hand，[[修复术]] mending，[[阅读魔法]] read magic，[[提升抗力]] resistance
+|str=27
+|dex=10
+|con=21
+|int=16
+|wis=17
+|cha=16
+|bab=+16
+|cmb=+26
+|cmd=36（40 对抗摔绊 vs. trip）
+|feats=[[战斗施法]];[[炫目技巧]];[[致命绝杀|致命一击]];[[盘旋]];[[精通先攻]];[[多重攻击]];[[粉碎防御]];[[武器专攻]]（啮咬）Weapon Focus
+|skills=[[唬骗]] Bluff +22;[[飞行]] Fly +11;[[威吓]] Intimidate +22;[[知识]]（本地）Knowledge+22;[[知识]]（地理）Knowledge+22;[[察觉|觉察]] 察觉 +22;[[法术辨识]] Spellcraft +22;[[隐匿]] Stealth +11;[[生存]] Survival +22
+|languages=风族语 Auran;通用语 Common;龙语 Draconic;巨人语 Giant
+|sq=模仿声音 sound imitation
+|environment=温暖的沙漠
+|organization=单独
+|treasure=三倍
+|source=怪物图鉴
+|nofooter=1
+}}
+{{怪物
+|name=古蓝龙
+|english_name=Ancient Blue Dragon
+|cr=18
+|xp=153,600
+|alignment=守序邪恶
+|size=巨型
+|type=龙类
+|subtypes=土系
+|init=+3
+|senses=龙感 dragon senses；觉察 察觉 +32
+|aura=闪电 electricity（10 尺，2d6 电击 electricity），凶威 frightful presence（300 尺，DC 27）
+|ac=37，接触 touch 5，措手不及 flat–footed 37（–1 敏捷，+32 天生 natural，–4 体型）
+|hp=324（24d12 +168）
+|fort=+21
+|ref=+13
+|will=+19
+|dr=15/魔法
+|immune=电击 electricity;麻痹 paralysis;睡眠 sleep
+|sr=29
+|speed=40 尺，掘洞 20 尺，飞行 fly 250 尺（笨拙 clumsy）
+|melee=啮咬 bite +33（4d6 +18/19–20），2 爪抓 claws +32（2d8 +12），2 翼拍 wings +30（2d6 +6），尾拍 tail slap +30（2d8 +18）
+|space=20 尺
+|reach=15 尺（20 尺 啮咬时 with bite）
+|special_attacks=[[通用怪物规则#喷吐武器|喷吐武器]]（120–尺 线形 line, DC 29，20d8 电击 electricity），碾压 crush，沙之干渴 desert thirst（DC 27），幻像 mirage，风暴之息 storm breath（DC 29，20d8 电击 electricity），尾扫 tail sweep
+|spell_like=（CL 24th）；随意施展—[[幻音术]] ghost sound（DC 15），[[幻景]] hallucinatory terrain（DC 19），[[弱效幻影]] minor image（DC 17），[[隐匿之纱]] veil，[[腹语术]] ventriloquism（DC 16）
+|spells=已知法术（CL 13th）；6th（4/天）—[[飞击掌]] forceful hand，[[假象术]] mislead；5th（7/天）—[[托梦术]] dream，[[长驻幻影]] persistent image，[[怪物定身术]] hold monster（DC 20）；4th（7/天）—[[任意门]] dimension door，[[弱能术]] enervation，[[火焰护盾]] fire shield，[[石肤术]] stoneskin；3rd（7/天）—[[解除魔法]] dispel magic，[[移位术]] displacement，[[加速术]] haste，[[吸血鬼之触]] vampiric touch；2nd（7/天）—[[黑暗术]] darkness，[[虚假生命]] false life，[[隐形术]] invisibility，[[抵抗能量伤害]] resist energy，[[粉碎音波]] shatter；1st（7/天）—[[魔法警报]] alarm，[[法师护甲]] mage armor，[[护盾术]] shield，[[克敌机先]] true strike，[[隐形仆役]] unseen servant；0（随意）—[[秘法印记]] arcane mark，[[出血术]] bleed（DC 15），[[侦测魔法]] detect magic，[[光亮术]] light，[[法师之手]] mage hand，[[修复术]] mending，[[传讯术]] message，[[阅读魔法]] read magic，[[提升抗力]] resistance
+|str=35
+|dex=8
+|con=25
+|int=20
+|wis=21
+|cha=20
+|bab=+24
+|cmb=+40
+|cmd=49（53 对抗摔绊 vs. trip）
+|feats=[[战斗施法]];[[炫目技巧]];[[致命绝杀|致命一击]];[[法术延时]];[[盘旋]];[[精通重击]]（啮咬）Improved Critical;[[精通先攻]];[[多重攻击]];[[法术瞬发]];[[法术默发]];[[粉碎防御]];[[武器专攻]]（啮咬）Weapon Focus
+|skills=[[唬骗]] Bluff +32;[[飞行]] Fly +10;[[威吓]] Intimidate +32;[[知识]]（奥秘）Knowledge+32;[[知识]]（历史）Knowledge+32;[[知识]]（本地）Knowledge+32;[[知识]]（地理）Knowledge+32;[[察觉|觉察]] 察觉 +32;[[法术辨识]] Spellcraft +32;[[隐匿]] Stealth +14;[[生存]] Survival +32
+|languages=风族语 Auran;通用语 Common;龙语 Draconic;巨人语 Giant;火族语 Ignan;炼狱语 Infernal
+|sq=模仿声音 sound imitation
+|environment=温暖的沙漠
+|organization=单独
+|treasure=三倍
+|source=怪物图鉴
+|family=龙类绪论
+|lore=
+蓝龙是完美的阴谋家，对秩序近乎偏执。在战斗时，蓝龙偏好尽可能地奇袭对手，但在处于下风时也不吝于撤退。它们喜欢将巢穴筑在靠近所控制领地的地方，甚至有时在某个城市之内。
+
+=== 基值数据 ===
+
+* CR 5；体型 小型；HD 6d12
+* 速度 40 尺，掘洞 20 尺
+* 天生护甲 +5；喷吐武器 线形，2d8 闪电
+* 力量 13，敏捷 14，体质 13，智力 10，感知 11，魅力 10
+
+<div class="monster-table-wrap"><table class="wikitable"><tr><th>年龄层</th><th>特殊能力</th><th>施法者等级</th></tr><tr><td>雏龙 Wyrmling</td><td>沙之干渴，电击免疫</td><td>–</td></tr><tr><td>幼龙 Very young</td><td>模仿声音</td><td>–</td></tr><tr><td>少年 Young</td><td>[[幻音术]]</td><td>–</td></tr><tr><td>青少年 Juvenile</td><td>凶威，弱效幻影</td><td>1 级</td></tr><tr><td>青年 Young adult</td><td>DR 5/魔法，法术抗力</td><td>3 级</td></tr><tr><td>成年 Adult</td><td>闪电灵光，[[腹语术]]</td><td>5 级</td></tr><tr><td>壮年 Mature adult</td><td>DR 10/魔法</td><td>7 级</td></tr><tr><td>老年 Old</td><td>幻像，幻景</td><td>9 级</td></tr><tr><td>极老 Very old</td><td>DR 15/魔法</td><td>11 级</td></tr><tr><td>古龙 Ancient</td><td>风暴之息</td><td>13 级</td></tr><tr><td>上古龙 Wyrm</td><td>DR 20/魔法</td><td>15 级</td></tr><tr><td>太古龙 Great wyrm</td><td>沙暴，海市蜃楼</td><td>17 级</td></tr></table></div>
+}}
+
+本页译自《[[怪物图鉴]]》的怪物图鉴 CHM。

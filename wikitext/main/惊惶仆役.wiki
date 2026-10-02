@@ -1,0 +1,9 @@
+{{Trait
+|name=惊惶仆役
+|english_name=Scrambling Servant
+|type=地区
+|benefit=你曾被巨人雇佣或抓获，并且经常要在巨人尺寸的家具或奴隶坑的墙壁上爬上爬下。因此，你成了一名敏捷的攀爬者。在攀爬时你能保留敏捷加值对AC的加成，并且在攀爬检定上+1背景加值。
+|regions=奥西里昂、拉哈多姆、镣铐群岛、苏比亚、瓦瑞西亚。
+|source_name=巨人猎手手册
+|source_url=https://pf1chm.pages.dev/topics/zh920b00384f.htm
+}}

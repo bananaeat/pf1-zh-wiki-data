@@ -1,0 +1,15 @@
+{{Feat
+|name=分享法术
+|english_name=Share Spells
+|categories=团队
+|pfs=否
+|description=你可以与你的伙伴分享个人法术。
+|prerequisites=[[心灵羁绊]]，与一名动物伙伴、[[幻灵]]、魔宠或魅影有法术共享能力，施法者等级1级。
+|benefit=只要盟友拥有[[心灵羁绊]]专长的话，你就可以将目标为〔自身〕的法术如同接触法术一般的施展到一名盟友身上，如同法术共享[[魔宠]]能力一般。
+|source_name=遥远世界
+|source_url=https://pf1chm.pages.dev/topics/zh2d61c49a80.htm
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[特殊快递]]（1 个条目）

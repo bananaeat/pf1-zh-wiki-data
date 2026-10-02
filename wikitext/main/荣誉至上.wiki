@@ -1,0 +1,10 @@
+{{Trait
+|name=荣誉至上
+|english_name=Honor-Driven
+|type=种族
+|prerequisites=[[人类]]（乌尔芬人）
+|description=荣誉是你生命中不可或缺的一部分，是以你能明了他人身上的荣誉(或缺乏荣誉的情况)。
+|benefit=你的察言观色检定+1背景加值，并且察言观色对你而言始终是[[本职技能]]。
+|source_name=北地居民
+|source_url=https://pf1chm.pages.dev/topics/zh63296b3929.htm
+}}

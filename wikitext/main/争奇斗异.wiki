@@ -1,0 +1,9 @@
+{{Trait
+|name=争奇斗异
+|english_name=Performer's Surprise
+|type=战斗
+|description=你练习过瓦瑞西安浪客常用的、通过突袭与诡骗在战斗中赢得上风的战术。当使用临时武器、异种武器或投掷武器攻击一个在防御等级上失去敏捷加值的敌人时，你在伤害检定上获得+1背景加值。
+|source_name=武器大师手册
+|source=WMH
+|source_url=https://pf1chm.pages.dev/topics/page_150
+}}

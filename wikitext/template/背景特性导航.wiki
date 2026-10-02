@@ -1,0 +1,1 @@
+<div class="class-nav"><span class="pill">[[:分类:战斗背景特性|战斗背景]]</span><span class="pill">[[:分类:信念背景特性|信念背景]]</span><span class="pill">[[:分类:魔法背景特性|魔法背景]]</span><span class="pill">[[:分类:社会背景特性|社会背景]]</span><span class="pill">[[:分类:种族背景特性|种族背景]]</span><span class="pill">[[:分类:地区背景特性|地区背景]]</span><span class="pill">[[:分类:宗教背景特性|宗教背景]]</span></div>

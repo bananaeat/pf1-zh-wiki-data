@@ -1,0 +1,16 @@
+{{Spell
+|name=音鸣爆
+|english_name=Sound Burst
+|school=塑能系
+|tags=音波
+|levels=先知 2;吟游诗人 2;战斗祭司 2;歌者 2;牧师 2;秘学士 2
+|action=标准动作
+|components=语言;姿势;法器/圣徽（一件乐器）
+|range=近距
+|area=半径10尺扩散区域
+|duration=立即
+|save=强韧，通过则部分生效
+|sr=是
+|description=你向着一片区域轰出巨大的噪音。区域内的每个生物均会受到1d8点音波伤害，并且必须成功通过强韧豁免才能避免被[[震慑]]1轮。没有听觉的生物不会被震慑，但仍旧会受到伤害。
+|source=核心规则书
+}}

@@ -1,0 +1,11 @@
+{{Trait
+|name=破护者
+|english_name=Wardbreaker
+|type=地区
+|pfs=否
+|prerequisites=世界之伤
+|description=你习得了穿透魔法保护的技术，旨在帮助你的深渊主子们打碎守卫蒙蒂维边境的守护石。每日1次，你可以尝试对你认为AC拥有偏斜加值的敌人进行近战[[接触攻击]]。若你的攻击命中，敌人的AC偏斜加值减半(最少+0),持续轮数等同于你的魅力调整值。你可在10级时每日使用2次，20级时每日使用3次。
+|source_name=秽邪勇士
+|source=地区
+|source_url=https://pf1chm.pages.dev/topics/zh2cdfe76676.htm
+}}

@@ -1,0 +1,16 @@
+{{Spell
+|name=群体日之蔑视
+|english_name=Sun's Disdain, Mass
+|school=变化系
+|tags=诅咒
+|levels=先知 5;奥能师 5;女巫 5;审判者 5;战斗祭司 5;术士 5;法师 5;牧师 5;萨满 5;血脉狂怒者 5
+|action=标准动作
+|components=语言;姿势;材料（一片玻璃）/法器
+|range=远距
+|target=每等级一个生物，任意两者之间的距离不超过30尺
+|duration=永久
+|save=意志，通过则无效
+|sr=是
+|description=该法术如同[[日之蔑视]]一样作用，除了它可以影响复数生物。
+|source=冒险者指南
+}}

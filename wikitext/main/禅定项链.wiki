@@ -1,0 +1,16 @@
+{{魔法物品
+|name=禅定项链
+|english_name=Necklace of Ki Serenity
+|aon=MagicWondrousDisplay.aspx?FinalName=Necklace of Ki Serenity
+|cat=奇物
+|aura=中等惑控系
+|cl=9
+|slot=颈部
+|price=16,000 gp
+|description=这条简单的皮绳每隔相等的间距紧紧打了结，使佩戴者心生内在的平静，并与更广阔的世界相连。在决定[[武僧#气运丹田|气池]]的大小，以及气池能力中随等级而定的效应（例如绕过伤害减免）时，佩戴者的有效等级获得+4加值。
+|req=[[制造奇物]]、[[安定心神]]、[[枭之睿智]]
+|cost=8,000 gp
+|source=进阶玩家指南、极限宝具
+}}
+
+{{FAQ|v5748eaic9ni3}}

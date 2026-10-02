@@ -1,0 +1,11 @@
+{{Trait
+|name=遗失的信仰
+|english_name=Lapsed Faith
+|type=种族
+|prerequisites=[[精灵]]
+|description=你还依稀记得些许你在神殿侍奉神明时做出的祷告。你获得每天可以释放一次治疗微伤的类法术能力，施法者等级视作1。豁免DC基于感知。
+【PFS】禁用。
+|source_name=格拉里昂的精灵
+|source=pfs禁用
+|source_url=https://pf1chm.pages.dev/topics/zhd63cf5e76e.htm
+}}

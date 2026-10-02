@@ -1,0 +1,12 @@
+{{Feat
+|name=圆月刀熟稔
+|english_name=Crescent Blade Master
+|aon=无
+|categories=技巧
+|description=你已经可完美的使用圆月刀，获得了少数人对它渴望的致命控制。
+|prerequisites=[[敏捷]] 13，[[智力]] 13，异种武器擅长（圆月刀）。
+|benefit=使用圆月刀时，你不会在攻击检定上受到减值。此外，你可以将圆月刀视为具有[[卸武]]和[[摔绊]]特性。（有关圆月刀的详细讯息，请参阅第20页。）
+|normal=圆月刀对攻击检定有-2点减值。
+|source_name=其他职业
+|source_url=https://pf1chm.pages.dev/topics/page_1210.html
+}}

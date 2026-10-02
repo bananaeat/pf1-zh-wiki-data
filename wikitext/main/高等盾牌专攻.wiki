@@ -1,0 +1,15 @@
+{{Feat
+|name=高等盾牌专攻
+|english_name=Greater Shield Focus
+|categories=战斗
+|description=你擅长用盾牌挡开攻击。
+|prerequisites=[[盾牌专攻]]，[[擅长盾牌]]，基本攻击加值+1，战士等级8。
+|benefit=任何盾牌带来的AC加值增加1。此加值与[[盾牌专攻]]带来的加值累计。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[高等盾牌专精]]（1 个条目）

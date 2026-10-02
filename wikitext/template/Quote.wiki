@@ -1,0 +1,19 @@
+<includeonly><blockquote class="quote well quote-primary" style="padding-right: 2.5em;border-left-width:10px;{{#if:{{{middle|}}}|text-align:center}}{{{style|}}}" >{{{1|}}}
+{{#if: {{{2|}}}|<p style="margin-bottom:0;text-align:right">—— {{{2}}}</p>}}</blockquote></includeonly><noinclude>{{优质模板|信息}}[[Category:huiji template]]{{documentation}}
+<templatedata>
+{
+	"params": {
+		"1": {
+			"description": "名言",
+			"required": true,
+			"suggested": true
+		},
+		"2": {
+			"description": "名人",
+			"suggested": true
+		}
+	},
+	"description": "本模版一般用于显示名人名言。参数1表示名言，参数2表示名人。\n详细信息于案例请前往https://templatemanager.huijiwiki.com/wiki/%E6%A8%A1%E6%9D%BF:Quote"
+}
+</templatedata>
+</noinclude>

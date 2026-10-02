@@ -1,0 +1,9 @@
+{{装备
+|name=精制品酿酒师工具
+|english_name=Brewer's kit, masterwork
+|cat=炼金工具
+|price=75 gp
+|weight=50磅
+|description=这套特别精心制作的工具比普通酿酒师工具提供了额外的调味品、更多种类的草药和更高品质的器具。精制品酿酒师工具在生产酒精饮品的工艺（炼金）检定上提供+2环境加值。
+|source=炼金术手册
+}}

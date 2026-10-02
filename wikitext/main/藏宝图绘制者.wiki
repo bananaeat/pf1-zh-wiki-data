@@ -1,0 +1,9 @@
+{{Trait
+|name=藏宝图绘制者
+|english_name=Treasure Mapper
+|type=地区
+|prerequisites=莫迪欧凯提岛
+|benefit=你花了大量时间追踪和跟随藏宝图——大多数是假的，但有些包含了真实的信息。你在使用地图或航海图进行导航时的生存或专业(水手)检定上获得+2加值，并且其中一个技能成为你的[[本职技能]]。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

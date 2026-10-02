@@ -1,0 +1,22 @@
+<noinclude>{{审判者导航}}</noinclude>
+{{Source|纯洁勇士|Champions of Purity|inline}}
+
+== 安息裁决域 (Final Rest Inquisition) ==
+
+神祇：[[艾奥梅黛]]、[[法莱斯玛]]、[[塞恩蕾]]。
+
+领域力量：死灵不应徘徊于人间——它们的事务已清，并无理由再被束缚于尘世。你亲自守护逝者的安息。
+
+=== 打击死灵 (Disrupt Animation, Sp) ===
+
+你可以以类法术能力的形式施放法术[[打击死灵]]，并在伤害上加上你的感知调整值。你每天可以使用本能力的次数等同于3+你的感知调整值。
+
+=== 不可复生 (Unravel Animation, Su) ===
+
+在8级时，当你启动[[审判者#破敌|破敌]]能力并选择不死生物作为生物类型时，你可以选择使你的武器改为获得[[武器附魔#瓦解 (Disruption)|瓦解]]特殊能力。抵抗这一效果的DC等于10+你的审判者等级的一半+你的感知调整值。
+
+<noinclude>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_374.html 原文]），按 AoN 核对过。
+{{AoN原文|1=Inquisitions.aspx|2=Inquisitions}}
+
+[[分类:审判者]]
+{{职业}}</noinclude>

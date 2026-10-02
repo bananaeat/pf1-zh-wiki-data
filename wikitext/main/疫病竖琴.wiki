@@ -1,0 +1,15 @@
+{{魔法物品
+|name=疫病竖琴
+|english_name=Harp of Contagion
+|aon=MagicWondrousDisplay.aspx?FinalName=Harp of Contagion
+|cat=奇物
+|aura=中等死灵系
+|cl=7
+|slot=无
+|price=13,000 gp
+|weight=5磅
+|description=这把华丽的木制竖琴雕刻着各种有毒生物的图案。每天一次，持琴者可以弹奏竖琴，对单个对手施放一次[[毒击术]]（DC 16）。或者，持琴者可以弹奏竖琴，使30尺内的盟友在对抗疾病和毒素的豁免检定上获得+2抗力加值；每轮维持这一效果需要一个[[标准动作]]。如果演奏者拥有破咒曲吟游表演能力，他可以消耗吟游表演轮数，用竖琴把他的破咒曲改为对抗疾病和毒素，而不是对抗音波或依赖语言的效果。
+|req=[[制造奇物]]、[[毒击术]]、[[提升抗力]]
+|cost=6,500 gp
+|source=极限宝具
+}}

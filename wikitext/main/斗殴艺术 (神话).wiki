@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[斗殴艺术]] 的神话版本。</small></div>
+{{Feat
+|name=斗殴艺术
+|english_name=Knockout Artist
+|categories=神话
+|description=你的击倒重拳威力惊人。
+|prerequisites=[[斗殴艺术]]
+|benefit=当你使用[[徒手打击]]对敌人造成[[非致命伤害]]和偷袭伤害时，每个偷袭攻击骰都使用d8以取代原本的d6。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

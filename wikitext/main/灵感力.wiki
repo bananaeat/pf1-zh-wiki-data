@@ -1,0 +1,9 @@
+{{Trait
+|name=灵感力
+|english_name=Inspired
+|type=信念
+|description=某种积极的驱动力、哲学观或神力存在赐予你无限希望，同时也是你灵感的指引力。每日1次，你能够通过[[自由动作]]在一项技能检定或属性检定中双骰取高。
+|source_name=信念背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

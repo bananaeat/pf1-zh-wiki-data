@@ -1,0 +1,9 @@
+{{装备
+|name=战士工具包
+|english_name=Fighter's kit
+|cat=套装
+|price=9 gp
+|weight=29磅
+|description=该工具包包括一个背包，一个铺盖卷，一个腰包，燧石和铁片，一个铁壶，一套餐具，麻绳，肥皂，火把（10），口粮（5天）和一个水袋。
+|source=极限宝具
+}}

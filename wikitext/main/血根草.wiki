@@ -1,0 +1,13 @@
+{{危害
+|name=血根草
+|english_name=Bloodroot
+|kind=毒药
+|type=伤口
+|save=强韧 DC 12
+|onset=1轮
+|frequency=1次/轮，持续4轮
+|effect=1点体质伤害、1点感知伤害，并且[[困惑]]1轮
+|cure=1次豁免成功
+|price=100 gp
+|source=核心规则书、极限宝具
+}}

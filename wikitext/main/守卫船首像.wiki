@@ -1,0 +1,15 @@
+{{魔法物品
+|name=守卫船首像
+|english_name=Guardian Figurehead
+|aon=MagicWondrousDisplay.aspx?FinalName=Guardian Figurehead
+|cat=奇物
+|aura=微弱防护系
+|cl=3
+|slot=无
+|price=1,350 gp
+|weight=50磅
+|description=这尊雕琢精美的船首像通常刻画一种神奇的魔法生物、神祇形象或本地英雄，它要么安装在帆船的船头，要么雕刻在船体上。每天一次，说出其命令字，以一个[[迅捷动作]]即可激活船首像，唤醒其保护力量，持续1分钟。船首像激活期间，所有来自该船以外任何地方的远程攻击，对该船及船上所有人都有20%的失手率。该能力对近战攻击、射线，以及不需要攻击检定即可命中的远程攻击（例如[[魔法飞弹]]）无效。
+|req=[[制造奇物]]、[[熵光护盾]]
+|cost=675 gp
+|source=商人货单
+}}

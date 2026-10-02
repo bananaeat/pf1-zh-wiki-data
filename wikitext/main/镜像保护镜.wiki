@@ -1,0 +1,15 @@
+{{魔法物品
+|name=镜像保护镜
+|english_name=Mirror of Guarding Reflections
+|aon=MagicWondrousDisplay.aspx?FinalName=Mirror of Guarding Reflections
+|cat=奇物
+|aura=中等幻术系
+|cl=7
+|slot=无
+|price=7,000 gp
+|weight=4磅
+|description=这面巴掌大的手镜中映出的倒影总显得幽灵般虚幻。当持镜的生物成为一次攻击的目标时，他可以花费一个[[直觉动作]]，把自己的倒影从镜中召唤出来，挡在自己和这一击之间。该倒影的作用如同法术[[镜影术]]制造的一个镜像。如果镜像被这次攻击命中，它会伴着一声响亮的破碎声碎裂。毁掉镜像的生物会遭受厄运：它下一次进行攻击检定或豁免检定时，必须掷两次并取较差的结果。如果攻击没有命中镜像，镜像会在持镜者的下一个回合开始时消散。这面镜子每天可以使用三次。
+|req=[[制造奇物]]、[[镜影术]]
+|cost=3,500 gp
+|source=极限宝具
+}}

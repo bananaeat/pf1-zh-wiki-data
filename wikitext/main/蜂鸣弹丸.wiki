@@ -1,0 +1,11 @@
+{{武器
+|name=蜂鸣弹丸
+|english_name=Bullets, groaning (10)
+|category=弹药
+|wcat=弹药
+|price=2 gp
+|weight=5磅
+|type=钝击
+|description=这些投石索弹丸内部被掏出层叠交错的孔洞，形如蜂窝，飞行时会发出诡异的呻吟声，在其飞行路径500尺内都能听见。
+|source=冒险者的军械库
+}}

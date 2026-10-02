@@ -1,0 +1,18 @@
+{{魔法物品
+|name=荣耀史之巾〔瓦瑞西安人〕
+|english_name=Scarf of Glorious Histories (Varisian)
+|aon=MagicWondrousDisplay.aspx?FinalName=Scarf of Glorious Histories (Varisian)
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=颈部
+|price=9,000 gp
+|description=这件奇物通常只有所标明的种族或族裔的成员才能获得。
+
+这条色泽明亮的轻薄围巾让佩戴者显得比真人更高大、更有气势。他在威吓和表演（舞蹈）检定上获得+5表现加值。
+
+如果佩戴者正当地拥有一件卡佩尼亚，并与围巾同时穿戴，他就能瞥见瓦瑞西安人在卡佩尼亚和民间故事中追溯的历史记忆。他在知识（历史）检定上获得+5表现加值，并且可以对任何知识（历史）检定进行未受训尝试。
+|req=[[制造奇物]]，制造者必须在[[威吓]]、[[知识]]（历史）、[[表演]]（舞蹈）上拥有5个等级，制造者必须是瓦瑞西安人
+|cost=4,500 gp
+|source=内海种族
+}}

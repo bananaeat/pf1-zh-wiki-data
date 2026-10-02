@@ -1,0 +1,37 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #118: Siege of Stone
+|authors=Thurston Hillman
+|pages=96
+}}
+
+{{书页/简介|head=邪恶在黑暗中闪耀|1=
+铁牙军团不可阻挡的征服之秘，埋藏在神话与传说之中！为了发现敌人的弱点，大胆的冒险者必须直面堕落的摩洛克、穿越世界地表之下致命的幽暗地域，并探索一座被历史遗忘的古代矮人穹窿。但一份黑暗的遗产挡在他们面前。PC 们能否在铁牙背叛所留下的幽魂手下活下来，带着击败军团的关键重返日光——还是会加入历代亡者的行列，沉入岩石冰冷的怀抱？
+
+本册《冒险之路》延续「铁牙入侵」冒险之路，内容包括：
+
+* 《磐石围攻》，一部面向 11 级角色的开拓者冒险，作者 Thurston Hillman。
+* 一部地志，探索远古矮人天空堡垒库拉贡敦——一座如今被人类军队围困的地下城市——及其形形色色的居民与地点，作者 Thurston Hillman。
+* 对神秘莫测的娜迦——精通魔法与权谋的蛇形主宰——的生态研究，作者 Patchen Mortimer。
+* 一部怪物图鉴，收录幽暗地域及其他地方的新野兽，作者 Paris Crenshaw、Crystal Frasier、Thurston Hillman 和 Kalervo Oikarinen。
+}}
+
+'''冒险之路118：磐石围攻'''（''Pathfinder #118: Siege of Stone''）是[[冒险之路]]「铁牙入侵」系列的一部冒险，由 Thurston Hillman 撰写，配套文章出自 Paris Crenshaw、Crystal Frasier、Patchen Mortimer 和 Kalervo Oikarinen，于 2017 年 5 月 31 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+磐石围攻 @ 4
+NPC 图集 @ 56
+库拉贡敦 @ 62
+娜迦生态 @ 72
+怪物图鉴 @ 80
+}}
+
+{{书页尾
+|pfw=Siege of Stone
+|releases=Softcover¦PZO90118¦2017-05¦978-1-60125-940-0；PDF¦PZO90118E¦¦
+}}
+
+[[分类:书目]]

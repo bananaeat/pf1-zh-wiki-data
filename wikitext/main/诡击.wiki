@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=诡击
+|english_name=Unexpected Strike
+|type=Ex
+|categories=进攻
+|prerequisites=[[野蛮人]]8级
+|benefit=野蛮人可以对移动进他威胁范围内的敌人进行藉机攻击，无论该移动是否会正常的引发藉机攻击。
+|special=他每次狂暴只能使用1次此能力。
+|unchained=意外之击
+|source_name=核心规则书
+}}

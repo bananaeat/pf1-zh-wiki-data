@@ -1,0 +1,10 @@
+{{Trait
+|name=阿肯斯塔工程师
+|english_name=Alkenstar Engineer
+|type=地区
+|description=在火器上的丰富经验使你能最大限度地发掘出这些独特武器的潜力。当你持用某支[[破损]]的早期火器时，其因破损而增加的哑火值减少1点。
+|regions=阿肯斯塔
+|source=PotW
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1192.html
+}}

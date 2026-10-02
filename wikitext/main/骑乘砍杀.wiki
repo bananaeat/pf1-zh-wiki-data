@@ -1,0 +1,11 @@
+{{Feat
+|name=骑乘砍杀
+|english_name=Mounted Blade
+|description=你学会了该如何利用骑冲的势头来把你的武器从一个敌人斩向另一个敌人。
+|prerequisites=[[骑乘战斗]]，[[骑乘掠击]]，[[骑术]]3级
+|benefit=当你使用骑乘掠击专长时，如果你的攻击命中了，你可以对邻接最初目标的另一个目标再做出一次攻击。你会在这次额外的攻击上承受-5减值，并且它不会获得来自冲锋的任何好处。
+|notes=译注：此专长曾刊于 Qadira, Gateway to the East，但先决条件和效果均已调整。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/zh1a4f7690ca.htm
+}}

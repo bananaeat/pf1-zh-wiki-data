@@ -1,0 +1,38 @@
+{{速查导航|here=物品}}
+'''哈罗牌具'''是《[[哈罗牌手册]]》物品一章：和[[哈罗占卜]]相关的器具与魔法物品。
+
+== 本章条目 ==
+
+{| class="wikitable sortable"
+! 名称 !! 英文名 !! 类别 !! 价格
+|-
+| [[哈罗牌匣]] || Harrow carrying case || 冒险装备 || 10gp
+|-
+| [[哈罗牌垫]] || Harrow mat || 冒险装备 || 80gp
+|-
+| [[Backbiter's Focus]] || Backbiter's Focus || 权杖 || 7,800gp
+|-
+| [[堡垒靴]] || Bastion Boots || 奇物 || 10,500gp
+|-
+| [[削命牌]] || Deck of Slivering Fate || 魔法武器 || 13,000gp
+|-
+| [[占卜者透镜]] || Fate-Reader's Lenses || 奇物 || 11,250gp
+|-
+| [[山人铠]] || Man Mountain Armor || 魔法防具 || 32,350gp
+|-
+| [[灵媒哈罗牌垫]] || Medium's Harrow Mat || 奇物 || 2,500gp
+|-
+| [[哑巴娃娃]] || Mute Marionette || 奇物 || 16,500gp
+|-
+| [[旅行者大箱]] || Traveler's Grandiose Carrying Case || 奇物 || 1,200gp
+|-
+| [[兔爷之剑]] || Rabbit's Blade || 魔法武器 || 22,307gp
+|-
+| [[蛇咬匕首]] || Snakebite Dagger || 魔法武器 || 9,760gp
+|}
+
+<small>各件的描述原来都写在这一页的一张物品卡片里，2026-09-24 拆成了物品页（价格、灵光、制造条件照民间汉化 CHM 的属性表，和 AoN 逐件对过）。</small>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh72365bed09.htm 原文]）。物品条目见 [[物品速查]]，装备规则见 [[装备]]、[[魔法物品]]。
+
+[[分类:物品规则]]

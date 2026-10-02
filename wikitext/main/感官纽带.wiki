@@ -1,0 +1,10 @@
+{{Feat
+|name=感官纽带
+|english_name=Sense Link
+|description=当你和[[幻灵]]共享感官时，这种联系给予你超人的观察力。
+|prerequisites=【连觉】职业特性。
+|benefit=当你与幻灵共享感官时，你在【连觉】能力持续时间中于察觉检定上获得+4表现加值。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Ironfang Invasion Player's Guide pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=疫灼者
+|english_name=Blight-Burned
+|type=战役
+|pfs=否
+|description=你在锐齿森林深处长大，但在你童年时，黑色瘟疫吞没了你的社区，荒疫化精类袭击了你的朋友和家人。即使逃了出来，你也差点没能从那种异界真菌疾病的感染中活下来，至今身上仍留着那段磨难留下的可怕伤疤。你在对抗疾病或毒素（由你选择）的强韧豁免检定上获得+2背景加值，并且现在每当有非自然生物在场时，你的伤疤就会阵阵剧痛，立即提醒你它们的存在。这种第六感会提醒你30尺内异怪、泥怪以及所有具有荒疫化精类和真菌生物模板的生物的存在（但不会指出它们的确切位置）。你总是能在突袭轮中对这类生物采取行动，并且在战斗的第一轮中，你面对这类生物时不被视为[[措手不及]]。
+|source_name=Ironfang Invasion Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Blight-Burned
+}}

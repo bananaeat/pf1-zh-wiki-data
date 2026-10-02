@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 194），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=行星旅人
+|english_name=Planetary Traveler
+|type=种族
+|prerequisites=精灵
+|description=你抓住每一个机会去了解或造访遥远的星球。你关于其他星球的[[知识]]（地理）、知识（本地）和知识（自然）检定获得+1背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Planetary%20Traveler
+}}

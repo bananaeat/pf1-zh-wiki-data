@@ -1,0 +1,10 @@
+{{Feat
+|name=赋予希望
+|english_name=Bestow Hope
+|description=在以正能量医疗盟友之外，你还会散发出激励他们继续战斗的勇气之光。
+|prerequisites=引导能量职业能力，[[精通引导]]，信仰[[塞恩蕾]]
+|benefit=每当你以[[引导能量]]能力治疗了一个生物，你还可以减轻他承受的恐惧。如果生物处于[[战栗]]状态，他将从此效果中解除；如果他处于惊惧状态，他将改为战栗；如果他处于恐慌状态，他将改为惊惧。
+|source=FoP/FoB/FoC、ISG
+|source_name=纯善／平衡／堕落信念、内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}

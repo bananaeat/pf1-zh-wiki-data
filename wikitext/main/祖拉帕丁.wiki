@@ -1,0 +1,40 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=祖拉帕丁
+|english_name=Zurapadyn
+|title=烟中伺伏之兽（Beast Who Waits in Smoke）
+|alignment=守序邪恶（LE）
+|weapon=[[反曲刀]]
+|portfolio=火焰，不公，仇杀
+|domains=[[毁灭领域|毁灭]]，[[邪恶领域(领域)|邪恶]]，[[火领域|火]]，[[秩序领域|秩序]]
+|subdomains=[[火领域#纵火子域 (Arson)|纵火子域]]，[[火领域#灰烬子域 (Ash)|灰烬子域]]，[[毁灭领域#天灾子域 (Catastrophe)|天灾子域]]，[[毁灭领域#狂暴子域 (Rage)|狂暴子域]]
+|pantheon=阿修罗魔尊
+|source=永罪之书
+}}
+
+'''祖拉帕丁'''（Zurapadyn）是一位[[阿修罗魔尊]]。
+
+== 简介 ==
+
+烟中伺伏之兽（Beast Who Waits in Smoke）祖拉帕丁对于任何失误引发的火灾都兴致勃勃。祂不是会离开那当做家的巨大地狱火山，从柴堆中跃出，并将火焰引向高傲牧师所看管的神殿。
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+偷走一件对失主具有情感价值的物品，将其烧毁，把灰烬放在失主会发现的地方。对抗火焰效果的豁免检定获得+4亵渎加值。
+
+=== 神恩 ===
+
+阿修罗魔尊的神恩均为类法术能力，每日各1次。
+
+{{神恩|n=1|name=|en=|type=Sp|text=每日1次以类法术能力施放[[火球术]]。}}
+
+{{神恩|n=2|name=|en=|type=Sp|text=每日1次以类法术能力施放[[延迟爆裂火球]]。}}
+
+{{神恩|n=3|name=|en=|type=Sp|text=每日1次以类法术能力施放[[流星爆]]。}}
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh6724728ff8.htm 原文]），原在总页 [[阿修罗魔尊]]。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Zurapadyn|2=Zurapadyn}}
+[[分类:魔神]]

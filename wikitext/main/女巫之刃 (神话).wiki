@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[女巫之刃]] 的神话版本。</small></div>
+{{Feat
+|name=女巫之刃
+|english_name=Witch Knife
+|categories=神话
+|description=你的[[女巫之刃]]就好像是身体与力量的延伸一般。
+|prerequisites=[[女巫之刃]]
+|benefit=你能够将女巫之刃作为所有你的女巫法术的额外器材成分，而不仅仅是[[庇护主]]法术，它们的DC会增加1点。这个加值与女巫之刃专长对庇护主法术提供的DC加值叠加，这使你的庇护主法术DC总共获得+2点加值。此外，当你以施放法术和传递[[接触攻击]]为目的时，持用女巫之刃的手仍旧被视为空手。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

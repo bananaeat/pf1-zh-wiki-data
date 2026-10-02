@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Rise of the Runelords Anniversary Edition Player's Guide pg. 4），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=敌友之间
+|english_name=Friends and Enemies
+|type=战役
+|pfs=否
+|description=你的一位家人，也许是父亲或母亲、表亲、姑姨或叔伯，曾帮助达维伦·霍斯克在砂点镇附近击退一群[[地精]]。此后那位家人已经过世，但生前曾向你讲述那天的事，以及达维伦许诺她若有需要便可找他帮忙。一旦你抵达砂点镇，在压地精马厩见到达维伦·霍斯克，他便会送你一匹他最好的坐骑以及所有必要的配备，以感谢你家人当年的帮助：一匹受过战斗训练的重型马、一副军用鞍、一对鞍袋、嚼子和缰绳、一个月的饲料，以及在压地精马厩的终身寄养。
+|source_name=Rise of the Runelords Anniversary Edition Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Friends%20and%20Enemies
+}}

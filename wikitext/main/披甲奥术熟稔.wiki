@@ -1,0 +1,16 @@
+{{Feat
+|name=披甲奥术熟稔
+|english_name=Arcane Armor Mastery
+|categories=战斗
+|description=你掌握在身着盔甲的时候施法的能力。
+|prerequisites=[[披甲奥术训练]]，[[擅长中型盔甲]]，施法者等级7级。
+|benefit=通过一个[[迅捷动作]]，对于本轮所有法术，减少由穿戴盔甲带来的施法失败机率20%。本效果取代[[披甲奥术训练]]专长的效果而非叠加。
+|stamina=当着甲施法时你可以花费一点耐力以[[自由动作]]启动披甲奥术熟稔，或通过消耗等同于法术等级的耐力点（最低1）来消除施展该法术的奥术失败机率。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[持节士披甲训练]]（1 个条目）

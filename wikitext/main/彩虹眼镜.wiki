@@ -1,0 +1,14 @@
+{{魔法物品
+|name=彩虹眼镜
+|english_name=Rainbow Lenses
+|aon=MagicWondrousDisplay.aspx?FinalName=Rainbow Lenses
+|cat=奇物
+|aura=强烈惑控系
+|cl=15
+|slot=眼部
+|price=21,000 gp
+|description=这副眼镜会干扰佩戴者分辨颜色的能力，一切事物都呈现为黑白灰的色调，如同佩戴者正在使用[[黑暗视觉]]。每天一次，佩戴者可以使用[[七彩喷射]]、[[催眠图纹]]和[[虹彩图纹]]。
+|req=[[制造奇物]]、[[七彩喷射]]、[[催眠图纹]]、[[虹彩图纹]]
+|cost=10,500 gp
+|source=极限宝具
+}}

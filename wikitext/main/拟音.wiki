@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''拟音'''（Sound Mimicry）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：特性</span></div>
+</noinclude><includeonly><div class="lang"><span id="拟音"></span><div class="lang-h"><b>[[拟音]]</b><i>Sound Mimicry</i><span class="lang-w">Ex · 特性</span></div><div class="lang-d"></includeonly>
+该生物可以完美地模仿各种声响甚至是特定的嗓音。该生物需要进行一次[[唬骗]]检定，对抗听者用来识破这一模仿的[[察言观色]]检定；如果听者不熟悉被模仿的那个人或那类生物，其察言观色检定承受 –8 减值。该生物如果听过某种声音至少 10 分钟，那么在模仿这种声音（如果是嗓音模仿，则包括口音和说话方式）的唬骗检定上有 +8 的种族加值。该生物无法复制魔法能力的效果（比如吟游诗人的表演，或[[鹰身女妖]]的迷魂曲），尽管它也许能模仿出这些能力发出的声音。该能力不会使生物会说或者听懂自己不懂的语言。
+
+'''格式'''：拟音（嗓音）
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Sound Mimicry|2=Sound Mimicry}}
+
+[[分类:通用怪物规则]]</noinclude>

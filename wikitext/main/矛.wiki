@@ -1,0 +1,18 @@
+{{武器
+|name=矛
+|english_name=Spear
+|category=武器
+|prof=简易
+|wcat=双手
+|price=2 gp
+|weight=6磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×3
+|range=20尺
+|type=穿刺
+|special=迎击
+|groups=矛，投掷，部落
+|description=矛长5尺，可以投掷。
+|source=核心规则书、极限宝具
+}}

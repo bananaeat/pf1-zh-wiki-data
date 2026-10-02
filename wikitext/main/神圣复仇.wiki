@@ -1,0 +1,9 @@
+{{Trait
+|name=神圣复仇
+|english_name=Sacred Avenger
+|type=宗教
+|prerequisites=[[精灵]]；信仰[[卡莉斯翠]]
+|description=你与卡莉斯翠之间有着特殊的联系，而这提升了你的能力让你更好达成复仇计划。如果一个生物在这一轮用武器对你造成了伤害，你在下一回合里使用武器攻击该生物时获得伤害+1的背景加值。若该生物为世仇，那么变为+2。
+|source_name=格拉里昂的精灵
+|source_url=https://pf1chm.pages.dev/topics/zhd63cf5e76e.htm
+}}

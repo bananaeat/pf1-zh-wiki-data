@@ -1,0 +1,15 @@
+{{魔法物品
+|name=渡魂使的水洒
+|english_name=Exorcist's Aspergillum
+|aon=MagicWondrousDisplay.aspx?FinalName=Exorcist's Aspergillum
+|cat=奇物
+|aura=中等预言系
+|cl=7
+|slot=无
+|price=8,000 gp
+|weight=1磅
+|description=这个小水洒是银制的。携带它的审判者可以把侦测死灵当作与她的侦测阵营能力相关联的法术之一来使用。每天一次，这件物品可以改变审判者的审判能力：她消耗一次审判能力的使用次数，就可以使自己3环及以下的法术对[[虚体]]生物产生完全效果，如同使用了跨界法术专长。这一效果持续到战斗结束。
+|req=[[制造奇物]]、[[跨界法术]]（进阶玩家指南）、[[侦测死灵]]、制造者必须是[[审判者]]
+|cost=4,000 gp
+|source=极限宝具
+}}

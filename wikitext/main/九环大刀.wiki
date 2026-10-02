@@ -1,0 +1,17 @@
+{{武器
+|name=九环大刀
+|english_name=Nine-ring broadsword
+|category=武器
+|prof=军用
+|wcat=单手
+|price=15 gp
+|weight=4磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×3
+|type=挥砍
+|special=武僧
+|groups=重刃，武僧
+|description=这种宽刃武器的刀背上穿有九枚沉重的环，增加了分量，使其劈砍的力道更为惊人。
+|source=极限战斗、极限宝具
+}}

@@ -1,0 +1,11 @@
+{{消歧义|圣物猎手(审判者变体职业)}}
+{{Trait
+|name=圣物猎手
+|english_name=Artifact Hunter
+|type=地区
+|prerequisites=芒吉莽原
+|description=你知晓芒吉莽原的各种传说和传闻中有重大宝物失落的地方。你在知识[地理]和知识[历史]检定获得+1背景加值，而且其中一个技能总是你的[[本职技能]]。
+|source_name=初探内海
+|source=Inner Sea Primer
+|source_url=https://pf1chm.pages.dev/topics/zh90f44086c1.htm
+}}

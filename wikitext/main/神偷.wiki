@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=神偷|en=Thief of the Gods|type=Su|domain=诡术领域|sub=盗窃子域 (Thievery)|sub_name=盗窃子域|source=进阶玩家指南|text=到了8级当你进行[[解除装置]]或[[巧手]]检定时，可[[自由动作]]发动此能力双骰取高。此能力在8级能每天用1次，每比8级高2级多1次。此能力替换[[诡术领域#大师幻觉 (Master's Illusion, Sp)|大师幻觉]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

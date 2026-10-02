@@ -1,0 +1,16 @@
+{{Spell
+|name=菌皮疫
+|english_name=Fungal infestation
+|school=死灵系
+|tags=疾病
+|levels=德鲁伊 3;猎人 3
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的生物
+|duration=1d3天
+|save=强韧，通过则无效
+|sr=是
+|description=你使目标被坏死性真菌所覆盖，这些真菌会使其皮肤软化脆弱。毒蕈，癣以及其他令人作呕的真菌从目标的表皮上生长发芽。这使得目标受到1d3点魅力伤害。任何攻击目标的物理攻击会自动附加1d6点[[流血伤害]]。
+|source=极限魔法
+}}

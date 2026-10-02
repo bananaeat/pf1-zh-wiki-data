@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=挖掘凿
+|english_name=Chisel of Excavation
+|aon=MagicWondrousDisplay.aspx?FinalName=Chisel of Excavation
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=无
+|price=34,000 gp
+|weight=3磅
+|description=这把凿子用紫虫的牙齿制成，在与加工石材有关的[[工艺]]和[[专业]]检定中视为精制工具。此外，它还赋予持有者每天至多5分钟的20尺掘地速度。这些分钟不必连续，但必须以1分钟为单位消耗。当持有挖掘凿的生物施展一个带有[土]描述词、且应用了一个或多个超魔专长的自发法术时，该法术的总等级调整降低1（最低调整为0）。
+|req=[[制造奇物]]、[[塑石术]]
+|cost=17,000 gp
+|source=古国血脉
+}}

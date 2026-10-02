@@ -1,0 +1,44 @@
+<includeonly>{{#invoke:版权抬头|main}}<div class="feat trait">
+<div class="feat-head">
+<div class="feat-name">{{{name|{{PAGENAME}}}}}{{#if:{{{type|}}}|<span class="feat-cats"><span class="tag">{{{type}}}背景</span></span>}}{{#ifeq:{{{pfs|}}}|否|<span class="tag tag-warn">非 PFS 合法</span>}}</div>
+<div class="feat-en">{{AoN链接|Trait|{{{aon|{{{english_name|}}}}}}|{{{english_name|}}}}}</div>{{#if:{{{aliases|}}}|<div class="feat-alias">又名：{{#arraymap:{{{aliases|}}}|;|@@|@@|、}}</div>}}
+</div><!--
+-->{{#if:{{{prerequisites|}}}|<div class="feat-block"><span class="k">先决条件</span>{{{prerequisites|}}}</div>}}<!--
+-->{{#if:{{{benefit|}}}|<div class="feat-flavor">{{{description|}}}</div><div class="feat-block feat-benefit"><span class="k">效果</span>{{{benefit|}}}</div>|<div class="feat-block">{{{description|}}}</div>}}<!--
+-->{{#if:{{{regions|}}}|<div class="feat-block"><span class="k">可选地区</span>{{{regions|}}}</div>}}<!--
+-->{{#if:{{{notes|}}}|<div class="feat-extra"><span class="k">备注</span>{{{notes|}}}</div>}}<!--
+-->{{#if:{{{source_name|}}}|<div class="feat-source"><span class="key">来源</span> <span class="value">{{#if:{{{source_url|}}}|[{{{source_url}}} {{{source_name}}}]|{{{source_name}}}}}{{#if:{{{source|}}}|（{{{source}}}）}}</span></div>}}
+</div>{{条目页脚|速查=背景特性速查|分类=背景特性|附加={{#if:{{{type|}}}|[[:分类:{{{type}}}背景特性|{{{type}}}背景特性]]}}}}[[分类:背景特性]]{{#if:{{{type|}}}|[[分类:{{{type}}}背景特性]]}}</includeonly><noinclude>
+==说明==
+本模板用于 pf1 的背景特性（trait）条目。不适用的参数留空即可，模板会自动隐藏对应行。
+
+结构和 <code>[[模板:Feat]]</code> 复用同一批 CSS 类名，只是主色换成靛蓝。改专长
+卡片的排版会连带影响这里，这是刻意的——两者版式本来就该一致。
+
+===参数===
+;name / english_name: 中英文名。name 留空时取页名。英文名链到 AoN 原文（[[模板:AoN链接]]；AoN 的背景特性页按大小写原样查）。
+;aon: AoN 上这一条的写法和英文名不同时填（AoN 拼错的、带后缀的）；AoN 没有这一条填「无」，英文名就不挂链接。
+;aliases: 别名，分号分隔。
+;type: 背景类型（战斗、信念、魔法、社会、种族、地区、宗教、派系、装备、宇宙、坐骑、战役、典范、缺陷）。会显示成标签并自动挂上「XX背景特性」分类。
+;pfs: 填 <code>否</code> 表示非 PFS 合法，会显示一个警示标签。缺陷背景基本都是。
+;prerequisites: 先决条件。
+;description / benefit: **两种写法**。多数背景特性只有一段正文，写进 <code>description</code> 就行，会当正文渲染；少数（主要是缺陷背景）分成风味和机制两段，这时 <code>description</code> 是风味（斜体）、<code>benefit</code> 是机制。模板靠 <code>benefit</code> 有没有填来判断走哪一种。
+;regions: 地区背景专用，可选的地区列表。
+;notes: 译注、编注。
+;source / source_name / source_url: 缩写、章节／书名、原文链接。两者相同时只填 <code>source_name</code>，不然会渲染成「缺陷（缺陷）」。
+
+===示例===
+<pre>
+{{Trait
+|name=忧虑
+|english_name=Anxious
+|type=缺陷
+|pfs=否
+|description=你在孩提时代由于没能守口如瓶而遭受了痛苦……
+|benefit=你的交涉检定获得-2罚值，并由于斟酌言辞而必须缓慢说话。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}
+</pre>
+[[分类:模板]][[分类:规则模板]]
+</noinclude>

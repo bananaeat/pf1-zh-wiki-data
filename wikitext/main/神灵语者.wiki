@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=神灵语者
+|english_name=Kami Talker
+|type=地区
+|prerequisites=神灵之森
+|description=你曾多次穿越神灵之森，学会了如何与其中的异界居民进行最好的沟通。你对具有本地亚种的外来者进行的[[交涉]]和[[威吓]]检定获得+2背景加值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Kami%20Talker
+}}

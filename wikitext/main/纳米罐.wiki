@@ -1,0 +1,16 @@
+{{科技物品
+|name=纳米罐
+|english_name=Nanite canister
+|kind=科技装置
+|sub=植入物、医疗器械与纳米科技
+|price=500 gp
+|weight=1磅
+|slot=无
+|capacity=—
+|usage=一次性
+|description=纳米罐用来为使用纳米机体的科技装置供能——这类物品通常不需要其他能源，因为物品启动时，大部分工作都由纳米机体自己完成。罐内有一个小型的独立能源和一批纳米机体。一罐纳米罐内的纳米机体足以为一件纳米科技物品或武器提供10点充能。
+|construction=[[制造科技装置]]、纳米工作间
+|craft_dc=25
+|cost=250 gp
+|source=科技指南
+}}

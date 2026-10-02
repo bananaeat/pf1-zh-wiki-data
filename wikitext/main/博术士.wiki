@@ -1,0 +1,9 @@
+{{Trait
+|name=博术士
+|english_name=Knowledgeable Caster
+|type=魔法
+|description=每日1次，当你施展预言学派法术时可以将施法者等级视为高于实际1级。同时，你在与你的术士血统相关的知识检定中获得+1背景加值。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

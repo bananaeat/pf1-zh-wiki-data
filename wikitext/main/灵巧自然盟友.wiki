@@ -1,0 +1,10 @@
+{{Feat
+|name=灵巧自然盟友
+|english_name=Nimble Natural Summons
+|description=你所召来的自然盟友拥有无视丛生枝蔓穿越[[困难地形]]的能力。
+|prerequisites=[[增强召唤]]，[[法术专攻]]（咒法系），能够施展[[召唤自然盟友]]，施法者等级6，埃拉斯蒂尔的信徒
+|benefit=你通过[[召唤自然盟友]]法术召唤的生物可以以正常速度穿越任何自然灌木（如荆棘，石楠和类似的地形）而不受到伤害和其他减值；但被魔法操纵以阻碍移动的荆棘、灌木和丛生地形仍然会影响被召唤的生物。
+|source=FoP/FoB/FoC、ISG
+|source_name=纯善／平衡／堕落信念、内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}

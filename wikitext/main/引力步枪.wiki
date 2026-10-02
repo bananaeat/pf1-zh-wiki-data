@@ -1,0 +1,23 @@
+{{科技物品
+|name=引力步枪
+|english_name=Gravity rifle
+|kind=科技武器
+|sub=火器
+|price=165,000 gp
+|weight=6磅
+|wtype=双手远程
+|prof=异种（火器）
+|dmg_s=1d10
+|dmg_m=2d6
+|dmg_type=力场
+|crit=×2
+|range=150尺
+|capacity=20
+|usage=1
+|special=全自动、接触
+|description=引力步枪是[[引力手枪]]的更大、更强力的版本，除了此处列出的差异外，其功能与引力手枪相同。处于持续模式时，引力步枪可以每轮将重量不超过350磅的物体移动最多20尺，且持有者进行战技检定时获得+4加值；计算这些战技的CMB时，她仍以智力调整值代替力量或敏捷调整值。
+|construction=[[制造科技武器和护甲]]、引力工作间
+|craft_dc=34
+|cost=82,500 gp
+|source=科技指南
+}}

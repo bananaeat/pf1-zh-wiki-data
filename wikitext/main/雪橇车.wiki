@@ -1,0 +1,9 @@
+{{装备
+|name=雪橇车
+|english_name=Sleigh
+|cat=陆上交通
+|price=100 gp
+|passage=2 cp
+|description=这种马车底部装有滑板，这使得它很适合作为在冰雪上运输的载具。一般来说，需要两匹马（或其他驮兽）来拉这种载具。雪橇车上附带有拉动它的驮兽所需的挽具。
+|source=极限宝具
+}}

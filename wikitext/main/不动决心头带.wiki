@@ -1,0 +1,17 @@
+{{魔法物品
+|name=不动决心头带
+|english_name=Headband of Unshakeable Resolve
+|aon=MagicWondrousDisplay.aspx?FinalName=Headband of Unshakeable Resolve
+|cat=奇物
+|aura=中等防护系、变化系
+|cl=8
+|slot=头饰
+|price=5,600 gp
+|weight=1磅
+|description=这条朴素的白色棉布头带上装饰着一条盘绕在穿戴者额头上方的程式化帝龙。头带使穿戴者的感知获得+2增强加值。在头带穿戴的最初24小时内，该加值视为临时属性加值。
+
+每当穿戴者受到恐惧效果影响时，她可以花费一个[[直觉动作]]，将该恐惧效果的严重程度降低一级：如果她本会陷入恐慌，则改为惊惧；如果她本会陷入惊惧，则改为[[战栗]]；如果她本会陷入战栗，则该效果完全无效。穿戴者每天最多可以使用此能力3次。
+|req=[[制造奇物]]、[[枭之睿智]]、[[移除恐惧]]
+|cost=2,800 gp
+|source=极限宝具
+}}

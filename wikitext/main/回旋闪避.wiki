@@ -1,0 +1,11 @@
+{{Feat
+|name=回旋闪避
+|english_name=Sweeping Dodge
+|categories=战斗
+|description=快速挥动斗篷，偏斜敌方的攻击。
+|prerequisites=敏捷13，[[闪避]]。
+|benefit=当你穿着斗篷进行决斗闪避（Dueling Dodge）时，你会获得[[盗贼#反射闪避|反射闪避]]（如同盗贼职业能力）。当你被重击或偷袭命中时，你有25%的几率忽视重击或偷袭伤害，只受到正常伤害。此专长仅在触发这个[[直觉动作]]的那次攻击结算完毕之前有效。此专长不与护命附魔或类似的效果叠加。
+|source=PotR
+|source_name=河域子民
+|source_url=https://pf1chm.pages.dev/topics/zh0cfe867645.htm
+}}

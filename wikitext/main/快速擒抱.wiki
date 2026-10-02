@@ -1,0 +1,11 @@
+{{Feat
+|name=快速擒抱
+|english_name=Rapid Grappler
+|categories=战斗
+|description=你是快速擒抱的专家。
+|prerequisites=敏捷13，[[高等擒抱]]，[[精通擒抱]]，[[精通徒手打击]]，基本攻击加值+9或武僧9级。
+|benefit=每当你成功使用[[高等擒抱]]以[[移动动作]]维持[[擒抱]]时，你可以花费一个[[迅捷动作]]以-5减值进行一次擒抱[[战技]]检定。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

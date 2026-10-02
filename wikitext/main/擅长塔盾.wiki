@@ -1,0 +1,18 @@
+{{Feat
+|name=擅长塔盾
+|english_name=Tower Shield Proficiency
+|categories=战斗
+|description=你善于使用[[塔盾]]。
+|prerequisites=擅长盾牌。
+|benefit=使用塔盾时防具检定减值仅作用于基于力量和敏捷的技能。
+|normal=人物使用不擅长的盾牌时，攻击检定和所有移动相关的技能检定（包括骑术）都受到盾牌的防具检定减值。
+|special=战士自动获得“擅长塔盾”作为[[奖励专长]]，无需选择。
+|notes=译注：使用塔盾时，攻击检定依然承受-2减值。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[塔盾专家]]、[[铁壁 · 固]]、[[铁壁 · 坚]]、[[铁壁流]]（4 个条目）

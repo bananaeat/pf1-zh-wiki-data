@@ -1,0 +1,17 @@
+{{速查导航|here=怪物}}
+
+{{AI翻译|本条 CHM 汉化没有译文，由 AI 照 AoN 英文原文译出，未经人工校对。}}
+{{怪物模板
+|name=炼金隐形生物
+|english_name=Alchemically Invisible
+|kind=获得；简易
+|cr=+2
+|intro=炼金隐形的生物会因自身的状态而阵发疯狂。
+|note=该生物天生隐形，但每个战斗轮开始时必须通过一次 DC 15 的意志豁免，否则[[困惑]] 1 轮。
+}}
+
+'''快速规则'''：与重建规则相同。
+
+{{AoN原文|1=MonsterTemplates.aspx?ItemName=Alchemically Invisible|2=Alchemically Invisible}}
+
+[[分类:怪物模板]]

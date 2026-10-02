@@ -1,0 +1,23 @@
+{{科技物品
+|name=脉冲步枪
+|english_name=EMP rifle
+|kind=科技武器
+|sub=火器
+|price=24,000 gp
+|weight=6磅
+|wtype=双手远程
+|prof=异种（火器）
+|dmg_s=2d6
+|dmg_m=3d6
+|dmg_type=电击
+|crit=×2
+|range=150尺
+|capacity=20
+|usage=1
+|special=全自动、接触
+|description=脉冲步枪是[[脉冲手枪]]的更大、更强力的版本。它发射一道电磁能量束，不能伤害活物，但对机体亚种的生物造成可观的伤害。除了此处列出的差异外，其功能与脉冲手枪相同。
+|construction=[[制造科技武器和护甲]]、军事工作间
+|craft_dc=29
+|cost=12,000 gp
+|source=科技指南
+}}

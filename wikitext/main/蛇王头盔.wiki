@@ -1,0 +1,23 @@
+{{魔法物品
+|name=蛇王头盔
+|english_name=Helm of the Serpent King
+|aon=MagicWondrousDisplay.aspx?FinalName=Helm of the Serpent King
+|cat=奇物
+|mythic=是
+|aura=微弱变化系
+|cl=5
+|slot=头部
+|price=96,000 gp
+|weight=3磅
+|description=这顶头盔用大片经炼金术硬化的蛇鳞制成，造型是一张风格化的蛇口。穿戴者透过蛇的双眼向外看，所见的一切都带着黄色的色调。戴上它时，它会赋予穿戴者以下类法术能力：
+
+* [[催眠术]]（每日3次）
+* [[召唤自然盟友 III]]（仅限大蟒，每日3次）
+* [[野兽形态 III]]（仅限蛇形，每日1次）
+* [[毒击术]]（每日1次）
+
+神话生物在使用野兽形态 III 类法术能力时，可以花费1次神话之力，改为施放神话野兽形态 III。或者，他也可以花费2次神话之力，改为施放神话野兽形态 III 的强化版本。
+|req=[[制造魔法武器和防具]]、[[神话工匠]]、[[野兽形态 III]]、[[召唤自然盟友 III]]
+|cost=48,000 gp
+|source=神话冒险
+}}

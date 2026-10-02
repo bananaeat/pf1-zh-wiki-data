@@ -1,0 +1,18 @@
+{{Spell
+|name=真视祷言
+|english_name=Litany of truth
+|school=预言系
+|tags=依赖语言
+|levels=圣武士 4;审判者 6
+|action=迅捷动作
+|components=语言;姿势;圣徽
+|range=近距
+|target=一个生物
+|duration=1轮
+|save=意志，通过则无效
+|sr=是
+|description=借由对欺瞒的批判指责，你把目标从幻术的笼罩下剥离。在法术的持续时间内，所有影响目标的幻术法术或效果将被压制。此外，目标无法因隐蔽获益。
+
+在受到此法术影响时，目标不能再成为另一个标题带有「祷言」的法术的目标。
+|source=卡蒂亚，东方明珠
+}}

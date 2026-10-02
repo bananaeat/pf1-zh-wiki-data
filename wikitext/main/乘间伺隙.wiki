@@ -1,0 +1,11 @@
+{{Feat
+|name=乘间伺隙
+|english_name=Countering Loophole
+|description=你可以发现法术中的漏洞，摆脱法术的效果，并反制施法者。
+|prerequisites=[[精通法术反制]]
+|benefit=当你成功地反制一个魅惑系或胁迫系法术,你立即将该法术反转给施法者如同你是法术的施法者,而原施法者成为目标(只要你可以施展该施法等级的法术)。即使法术最初的目标是复数个生物，反转的法术的原施法者成为唯一的目标。法术的豁免DC仍然相同，但是你可以做任何影响法术的决定(例如修改一项[[暗示术]]或[[次等指使术]]的条件)。
+|normal=如果你成功反制法术，法术互相否定对应法术，不产生其他的效果。
+|source=HotHC
+|source_name=皇庭英豪
+|source_url=https://pf1chm.pages.dev/topics/page_670.html
+}}

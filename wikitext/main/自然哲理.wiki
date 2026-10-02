@@ -1,0 +1,9 @@
+{{Trait
+|name=自然哲理
+|english_name=Natural Philosopher
+|type=宗教
+|prerequisites=信仰[[哥兹莱]]
+|description=野外是你天然的大课堂，你在这里学习知识，而非待在布满灰尘的图书馆。你可以在未受训的情况下使用知识(地理)和知识(自然)。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

@@ -1,0 +1,17 @@
+{{武器
+|name=侏儒链锯大砍刀
+|english_name=Ripsaw glaive, gnome
+|category=武器
+|prof=异种
+|wcat=双手
+|price=30 gp
+|weight=12磅
+|dmg_s=1d8
+|dmg_m=1d10
+|crit=×3
+|type=挥砍
+|special=长武，见正文
+|groups=长柄
+|description=这把大砍刀的刀刃带有锯齿，安装在一根转轴上，转轴上缠绕着一条粗绳。如果以一个[[移动动作]]拉动这条绳子，刀刃就会高速旋转，持续轮数等于你的力量加值。刀刃旋转期间，你用这件武器的伤害掷骰获得+2加值；刀刃不旋转时，这件武器视为普通的大砍刀。
+|source=格拉利昂的侏儒、冒险者的军械库2
+}}

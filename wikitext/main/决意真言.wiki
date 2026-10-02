@@ -1,0 +1,15 @@
+{{Spell
+|name=决意真言
+|english_name=Word of resolve
+|school=防护系
+|levels=圣武士 1
+|action=直觉动作
+|components=语言;圣徽
+|range=近距
+|target=一名盟友
+|duration=立即
+|save=意志，通过则无效（无害）
+|sr=是
+|description=你将自身的灵光聚焦在一名盟友身上，使其在豁免魅惑或恐惧效果失败时进行重骰并获得+4神圣加值。如果你没有勇气灵光职业能力，该法术将不会影响目标受到的恐惧效果。如果你没有虔诚灵光职业能力，该法术将不会影响目标受到的魅惑效果。
+|source=极限魔法
+}}

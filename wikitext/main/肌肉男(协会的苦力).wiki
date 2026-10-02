@@ -1,0 +1,11 @@
+{{Trait
+|name=肌肉男(协会的苦力)
+|english_name=Muscle of the Society
+|type=战斗
+|aliases=协会的肌肉训练
+|description=你在利刃派的艰苦训练使你能够进入其他人无法突破的遗迹，并且毫不费力的掠夺宝藏。你在破门和举起闸门的力量检定上获得+2的背景加值，此外在计算负重能力时，视你的力量值比正常高2。
+
+|source_name=战斗背景
+|source=PSP
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

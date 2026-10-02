@@ -1,0 +1,17 @@
+{{武器
+|name=焰形剑
+|english_name=Flambard
+|category=武器
+|prof=异种
+|wcat=双手
+|price=50 gp
+|weight=6磅
+|dmg_s=1d8
+|dmg_m=1d10
+|crit=19–20/×2
+|type=挥砍
+|special=击破
+|groups=重刃
+|description=这把双手剑的剑身是波浪形的，这使得它在切割木制武器上特别有效。如果你擅长这种武器的话，你在对拥有木制握柄的武器实施任何击破战技检定时，获得+4加值；否则你可以将该剑视为一把[[重剑]]。
+|source=冒险者的军械库
+}}

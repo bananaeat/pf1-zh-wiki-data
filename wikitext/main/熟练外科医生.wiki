@@ -1,0 +1,11 @@
+{{Trait
+|name=熟练外科医生
+|english_name=Skilled Surgeon
+|type=地区
+|prerequisites=出身卡蒂亚或乌斯塔拉夫，或在当地生活过至少1年的[[炼金术师]]
+|description=每当你要进行手术或者移除一个状态或者苦难时必须投掷伤害时，你投掷的伤害使用最低的结果除非你天然投掷出最大值。你每一天使用长期护理所能恢复的生命值或者[[属性伤害]]提高1。
+|regions=卡蒂亚、乌斯塔拉夫
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_703.html
+}}

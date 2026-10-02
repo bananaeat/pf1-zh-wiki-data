@@ -1,0 +1,12 @@
+{{Feat
+|name=复仇之喜
+|english_name=Thrilling Vengeance
+|categories=战斗;演武
+|pfs=否
+|description=当你将狂野的怒火倾泻至曾经伤害你的人身上时，观众们都会为你而欢呼。
+|prerequisites=基本攻击加值+3，[[狂暴]]职业能力
+|benefit=当你在狂暴中花费[[迅捷动作]]尝试演武时，如果此次检定的触发与你对一个生物造成伤害有关，而该生物在上一轮中命中了你的话，你会在这次演武检定中获得+2加值。
+|source=ISC
+|source_name=内海战斗
+|source_url=https://pf1chm.pages.dev/topics/page_276.html
+}}

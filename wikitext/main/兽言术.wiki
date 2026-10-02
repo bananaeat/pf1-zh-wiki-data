@@ -1,0 +1,14 @@
+{{Spell
+|name=兽言术
+|english_name=Beastspeak
+|school=预言系
+|levels=女巫 2;德鲁伊 2;猎人 2;萨满 2
+|action=标准动作
+|components=姿势;圣徽
+|range=个人
+|target=自己
+|duration=10分钟/等级
+|sr=否
+|description=当你处于动物的形态时（比如当你使用自然变身或者被变形效果改变）能够正常说话，这也包括让你施放具有语言成分的法术，而且你听起来和正常形态下说话的声音一样。你能够在身处[[动物形态]]时，使用适当的动物肢体施放该法术。
+|source=进阶职业指南
+}}

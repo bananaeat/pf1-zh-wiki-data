@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 56），民间汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=快速匍匐
+|english_name=Fast Crawl
+|description=你擅长在俯卧时移动。
+|benefit=处于[[俯卧]]状态时，你可以以一半速度移动。这种移动照常引发[[借机攻击]]。你可以在匍匐时进行五尺快步。本专长与盗贼天赋[[盗贼匍匐术]]的效果不叠加。
+|normal=你能以一个[[移动动作]]匍匐前进5尺。你不能在匍匐时进行五尺快步。
+|source=FM
+|source_name=组织指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Fast%20Crawl
+}}

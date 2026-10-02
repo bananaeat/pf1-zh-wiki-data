@@ -1,0 +1,9 @@
+{{Trait
+|name=赤子之心
+|english_name=Good-Natured
+|type=宗教
+|prerequisites=信仰[[凯登·凯连]]
+|description=你拥有一个异常开朗的灵魂，只有真正的恐怖才能使你的内心感到压抑。你在对抗恐惧效果时豁免获得+2背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

@@ -1,0 +1,12 @@
+{{Feat
+|name=蓬匕伎
+|english_name=Cloak and Dagger Subterfuge
+|categories=战斗
+|pfs=否
+|description=你越发精湛的武艺让你能让分心的对手更易遭受各类效果，甚至能不被发现地窃取物品。
+|prerequisites=智力13，蓬匕流，寓守于攻，精通阴招，对所选武器拥有武器专攻专长，BAB+11
+|benefit=当你开启蓬匕流并持用你所选的武器时，每当你对一个敌人进行借机攻击时，你同时还能用一个自由动作对他进行一次额外的阴招战技检定。另外，每当你成功对一个敌人进行阴招战技时，你能立刻以一个自由动作对他进行一次盗取战技检定。若你成功，敌人不会注意到你偷走了一件物品。
+|source=BoS
+|source_name=阴影血脉
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

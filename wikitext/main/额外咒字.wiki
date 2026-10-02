@@ -1,0 +1,12 @@
+{{Feat
+|name=额外咒字
+|english_name=Extra Word
+|pfs=否
+|description=你发现了新的咒字。
+|prerequisites=施法者等级1级，能够施放咒字法术；见特殊说明
+|benefit=将一个你职业列表中的效果咒字加到你的已知咒字中。此咒字为你所有正常获得的咒字数量之外的额外咒字。你也可以将两个你的职业列表中的咒字加到已知咒字中，但是它们必须比你在该职业上能施展的最高咒字法术等级低一级。一旦决定无法更改。
+|special=只有当你拥有施法依赖有限的已知咒字列表的职业(例如诗人、先知和术士等)，你才能选择该专长。你能够多次选择该专长。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_607.html
+}}

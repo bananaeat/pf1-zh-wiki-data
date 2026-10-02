@@ -1,0 +1,48 @@
+{{速查导航}}
+{{怪物
+|name=敏捷伏击者
+|english_name=Spry Ambusher
+|cr=3
+|xp=800
+|classline=侏儒武僧4
+|alignment=守序中立
+|size=小型
+|type=类人生物
+|subtypes=侏儒
+|init=+1
+|senses=昏暗视觉 察觉+12
+|ac=21 接触17 措手19（+4护甲，+1闪避，+1武僧，+1体型，+3感知）
+|hp=25(4d8+4)
+|fort=+5
+|ref=+6
+|will=+8 +2对抗附魔和幻术
+|defensive=防御训练（+4闪避 AC 对抗巨人）反射闪避
+|speed=30尺
+|melee=徒手攻击+6(1d6+1)或+1单镰+6(1d4+2)或者疾风连击徒手攻击+5/+5(1d6+1)
+|ranged=手里剑+5(1d1+1)或疾风连击手里剑+4/+4(1d1+1)
+|special_attacks=攻击检定+1 对抗地精子类和类人生物爬虫子类，疾风连击，震慑击(4/日，DC15)
+|spell_like=（施法者等级4；专注+5）；1次/天——[[舞光术]]，[[幻音术]]，[[魔法伎俩]]，[[动物交谈]]
+|tactics=<div class="ml wide"><span class="k">战斗前</span>他喝掉法师护甲药水，使用魔化武器油</div><div class="ml wide"><span class="k">战斗中</span>利用特技不断移动，协助同伴进行夹击</div><div class="ml wide"><span class="k">基础属性</span>没有法师护甲和魔化武器，他的 AC18，接触17，措手16；近战单镰+5(1d4+1)</div>
+|str=12
+|dex=13
+|con=10
+|int=12
+|wis=16
+|cha=12
+|bab=+3
+|cmb=+4
+|cmd=19
+|feats=[[战斗反射]] 闪避 精通徒手攻击 蝎形拳 震慑击 专攻武器（徒手攻击）
+|skills=[[特技]]+8 唬骗+5 攀爬+6 察觉+12 隐匿+12
+|languages=通用语 精灵语 侏儒语 木族语
+|sq=快速移动 气池（5点，魔法）战技训练 轻身坠20尺
+|combat_gear=治疗轻伤药水 x2 法师护甲药水 魔化武器油 烟雾棒 绊足包
+|gear=单镰 手里剑 x20 +1防御护腕 +1抗力斗篷 124gp
+|source=NPC志
+|family=核心职业（NPC志）
+|npc=1
+|lore=
+这些侏儒常结成小队保卫侏儒社群，以他们守序领主的名义与敌人展开小规模战斗。
+}}
+
+本页译自《[[NPC志]]》的怪物图鉴 CHM。

@@ -1,0 +1,10 @@
+{{Trait
+|name=魔瘟抗性
+|english_name=Demonblight Resistance
+|aon=Demonblight Reistance
+|type=魔法
+|description=暴露在强大能量下的你被灌输了抵御疾病——尤其是被恶魔扭曲过的疾病——的超自然抗性。当与某一或更多具备恶魔亚种的生物战斗，或是周遭100尺内存在这类敌意生物时，若你被暴露于疾病之中，则在对抗该疾病的豁免上获得+3背景加值。
+|source=PotW
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1192.html
+}}

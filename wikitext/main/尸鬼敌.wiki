@@ -1,0 +1,10 @@
+{{Trait
+|name=尸鬼敌
+|english_name=Ghoulish Affinity
+|type=地区
+|prerequisites=幽暗地域
+|description=自从你从食尸鬼热中康复以来，每当有这类邪物在附近，你手臂和手上的伤疤就会隐隐发痒。在识破不死生物[[易容]]成的活物时的察觉检定得到+2背景加值，在对抗不死生物的疾病和毒素时的强韧豁免检定得到+2背景加值。
+|source_name=地区背景
+|source=USH
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

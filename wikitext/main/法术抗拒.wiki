@@ -1,0 +1,11 @@
+{{Feat
+|name=法术抗拒
+|english_name=Spell Denial
+|description=你已经受过更好的抵抗某种特定形式魔法的训练。
+|prerequisites=[[体质]] 13、[[敏捷]] 13、或感知13。
+|benefit=选择一种魔法学派。你在对抗该学派的法术时，可在所有的豁免骰上获得+2加值。
+|special=你能够多次选取本专长。每次你获得此专长时，你必须选择另一种不同的魔法学派。
+|source_name=秘术选集
+|source_url=https://pf1chm.pages.dev/topics/zh899ed20061.htm
+|source=AA
+}}

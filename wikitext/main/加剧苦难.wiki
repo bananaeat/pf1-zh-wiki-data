@@ -1,0 +1,17 @@
+{{Spell
+|name=加剧苦难
+|english_name=Aggravate affliction
+|school=死灵系
+|levels=奥能师 4;牧师 3;德鲁伊 3;猎人 3;先知 3;术士 4;战斗祭司 3;女巫 3;法师 4
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一个生物
+|duration=立即
+|save=见后文
+|sr=是
+|description=目标生物身上所有会反复发作的[[苦难]]（那些具有频率的，包括诅咒、疾病和毒素）会立即触发，需要立即进行豁免（如该苦难中所述）以避免遭受其影响。（对该法术）一次成功的豁免不会计入结束苦难所需的次数，并且这次额外的豁免不会改变下一次对抗苦难的豁免时间。没有频率的苦难不受该法术影响。
+|source=冒险之路82：斯芬克斯的秘密
+}}
+
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/zhc84ae04f22.htm 原文]），按 AoN 核对过。</small>

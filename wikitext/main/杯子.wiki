@@ -1,0 +1,9 @@
+{{装备
+|name=杯子
+|english_name=Mug/tankard
+|cat=冒险装备
+|price=2 cp
+|weight=1磅
+|description=无论是简单的陶杯，还是带有把手和可翻起的装饰盖的精致啤酒杯，这种杯子都可以用来盛装任何饮料。啤酒杯通常由陶土或锡制成。
+|source=核心规则书、极限宝具
+}}

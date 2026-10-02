@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能源始|Occult Origins}}
+'''重力大师'''（Gravity Master, Sp）是[[操念使]]的[[原力]]。
+
+元素：虚空；类别：通用（Sp）；等级：9；超载：0
+
+前置：[[重力控制]]，高等重力控制
+
+你可以创造一片重力改变的区域。此原力如同[[反重力]]法术一般生效，但是你可以选择将该区域内的重力“拉向”任何方向（不一定要向上）。每当你使用此通用原力时，之前所使用此原力立刻消解。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_661.html 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Gravity Master|2=Gravity Master}}
+
+[[分类:原力]]

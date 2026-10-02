@@ -1,0 +1,9 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Distant Shores pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=至高天众神
+|english_name=Empyreal Pantheon
+|type=信念
+|description=你对至高天领主的信仰容纳了众多神祇，而你擅长将他们形形色色的关注领域与教诲融入自己的生活。选择秩序或混乱阵营描述符之一。即使你或你的神祇的阵营通常不允许，你也可以施放带有该描述符的法术。这样施放时，如果该法术尚未带有善良描述符，它会获得善良描述符。
+|source_name=遥远世界
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Empyreal%20Pantheon
+}}

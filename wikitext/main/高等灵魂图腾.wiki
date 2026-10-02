@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=高等灵魂图腾
+|english_name=Spirit Totem, Greater
+|type=Su
+|categories=图腾
+|prerequisites=[[野蛮人]]10级，[[灵魂图腾]]
+|benefit=狂暴时，野蛮人周围的灵魂对邻接的敌人变的更加危险。邻接野蛮人的活体敌人在野蛮人的回合开始时受到1d8点负能量伤害。此外，野蛮人的灵丝可以攻击到15尺远的敌人，并且伤害增为1d6。
+|source_name=进阶玩家指南
+}}

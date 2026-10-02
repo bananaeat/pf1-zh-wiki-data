@@ -1,0 +1,9 @@
+{{装备
+|name=窃贼服装
+|english_name=Pickpocket's outfit
+|cat=衣物
+|price=5 gp
+|weight=3磅
+|description=窃贼服装配有隐藏的口袋，当你在身上藏匿小型物品时，这套服装会提供+2加值。
+|source=冒险者的军械库、极限宝具
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=自由民
+|english_name=Free People
+|type=地区
+|prerequisites=凯利德人，猛犸象大王之国本地人
+|benefit=来自猛犸象大王之国的独立部落不太在意他人对自由民所施加的管控。他们任性、独立的特性使他们对任何试图引导其行为的举动都心存疑虑。你在察言观色检定上以及对抗影响心灵效果的意志豁免检定上都+1背景加值。
+|source_name=缘界英雄Heroes from the Fringe
+|source_url=https://pf1chm.pages.dev/topics/zh75ffd12667.htm
+}}

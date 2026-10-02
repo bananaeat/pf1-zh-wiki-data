@@ -1,0 +1,13 @@
+<noinclude>{{消歧义|波浪打击}}</noinclude>
+{{Feat
+|name=波浪打击
+|english_name=Wave Strike
+|aliases=波浪打击
+|categories=战斗
+|description=你的姿态平静祥和，直到你用流畅的一个动作令兵刃出鞘并直指要害。
+|prerequisites=【武器智识】职业特性或即时备战，唬骗1级。
+|benefit=若你在战斗的首轮拔出近战武器并攻击一个触及范围内的对手，你能以[[迅捷动作]]对其进行[[唬骗]]以使用[[虚招]]。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

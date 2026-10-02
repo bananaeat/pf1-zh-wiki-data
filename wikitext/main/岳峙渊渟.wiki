@@ -1,0 +1,11 @@
+{{Feat
+|name=岳峙渊渟
+|english_name=Indomitable Mountain Avalanche
+|categories=战斗
+|description=你是一座无法逾越的绝巅。
+|prerequisites=感知15，[[战斗反射]]，[[精通徒手打击]]，[[岳峙流]]，[[岳峙巅]]，基础攻击加值+9。
+|benefit=如果对手对你的[[战技]]失败，你可以使用你的最高攻击加值对对手进行[[借机攻击]]。如果攻击命中，你可以选择不造成伤害，而是将敌人往后推离一定距离（战技检定每失败5点5尺，至少5尺）。此外，当对手在通过你威胁的空间的特技检定中失败而引发借机攻击，并且你以徒手近战攻击命中该对手时，你可以替代造成伤害将对手向后推5尺。对手以直线后退，但在遇到任何障碍或危险前停下来。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

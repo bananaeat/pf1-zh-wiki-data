@@ -1,0 +1,15 @@
+{{魔法物品
+|name=合作镣铐
+|english_name=Manacles of Cooperation
+|aon=MagicWondrousDisplay.aspx?FinalName=Manacles of Cooperation
+|cat=奇物
+|aura=微弱惑控系
+|cl=1
+|slot=腕部
+|price=2,000 gp
+|weight=2磅
+|description=这种紧箍的铁[[镣铐]]可以套在任何大型或更小的类人生物的手腕上。把它铐在一个[[无助]]的类人生物身上时，会让俘虏变得更加温顺、顺从。囚犯绝不会主动尝试逃脱，并且会答应任何合理的请求，除非它通过一次DC 11的意志豁免。
+|req=[[制造奇物]]、[[魅惑人类]]
+|cost=1,000 gp
+|source=进阶玩家指南、极限宝具
+}}

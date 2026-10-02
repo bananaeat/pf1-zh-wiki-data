@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=次等元素之怒
+|english_name=Elemental Rage, Lesser
+|type=Su
+|categories=进攻
+|prerequisites=[[野蛮人]]4级
+|benefit=狂暴时，使用一个[[迅捷动作]]，可让野蛮人这轮的所有近战攻击额外造成1d6点能量伤害(酸蚀、寒冷、电击或火焰)。
+|special=这项能力每次狂暴只能使用1次。
+|source_name=进阶玩家指南
+}}

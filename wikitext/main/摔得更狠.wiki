@@ -1,0 +1,12 @@
+{{Feat
+|name=摔得更狠
+|english_name=Harder They Fall
+|categories=战斗;团队
+|description=你可以和一名盟友协作来移动或撞倒一个对你们来说过于庞大而无法单独取胜的敌人。
+|prerequisites=力量13、智力13、[[寓守于攻]]、猛力攻击。
+|benefit=当你使用协助他人动作来帮助拥有同样专长的盟友，为其在一次[[冲撞]]或[[摔绊]][[战技]]的[[CMB]]检定提供+2加值时，该盟友甚至可以对比自己大两个或更多体型类别的敌人尝试该战技。
+|extra=译注：通常情况你只能摔绊和冲撞体型大你一级的目标。
+|source=GHH、UW
+|source_name=巨人猎手手册、极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh804f69f232.htm
+}}

@@ -1,0 +1,12 @@
+<noinclude>{{炼金术师导航}}
+'''材料掌握'''（Material Mastery, Ex）是[[炼金术师]]的[[科研发现]]。
+
+</noinclude>{{Source|部属与伙伴|Cohorts and Companions|inline}}
+
+<small>章里注明这一条'''非 PFS 合法'''。</small>
+
+你对材料类型的深刻认识让你在[[制造魔法物品]]时可以轻松的忽略法术要求。在制造魔法物品时，花费一个和要求法术同学派同等级的化合，你为忽视法术要求而承受的减值由-5变为-2。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhae66e2d002.htm 原文]）。全部科研发现见 [[:分类:科研发现|分类:科研发现]]。
+
+[[分类:科研发现]]</noinclude>

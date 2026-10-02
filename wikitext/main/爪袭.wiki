@@ -1,0 +1,13 @@
+{{Feat
+|name=爪袭
+|english_name=Claw Pounce
+|categories=战斗
+|description=你可以一边冲锋一边用你的爪子攻击。
+|prerequisites=力量13，敏捷15，[[机敏前锋]]，基本攻击加值+10，[[猫族]]，【猫爪】种族特性或者“化兽态（兽爪）”专长。
+|benefit=当你冲锋时，你可以用爪子[[全力攻击]]。
+|normal=冲锋是一个特殊的[[整轮动作]]，你只能做一次攻击。
+|stamina=使用该专长时，你可以选择花费5点耐力用你的一只爪子发动第二次攻击。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

@@ -1,0 +1,15 @@
+{{Spell
+|name=剑刃鞭笞
+|english_name=Blade lash
+|school=变化系
+|levels=血脉狂怒者 1;魔战士 1
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=你的近战武器
+|duration=立即
+|save=无
+|sr=否
+|description=你的武器被拉长，变得如同鞭子一般。作为施放该法术的一部分，你能够使用该武器尝试对20尺内的一个生物进行一次摔绊[[战技]]，而且你在检定中获得+10加值，在此之后，你的武器会还原至它原本的形态。
+|source=进阶职业指南
+}}

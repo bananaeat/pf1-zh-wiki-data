@@ -1,0 +1,9 @@
+{{Trait
+|name=调和师
+|english_name=Alchemical Intuition
+|type=魔法
+|description=你经常被炼金过程或物质点燃灵感。每日1次，你可以通过[[自由动作]]使一次工艺(炼金)检定获得等同于魅力修正(至少为0)的背景加值。你可以在检定投骰后应用该加值，这可能逆转失败的检定。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

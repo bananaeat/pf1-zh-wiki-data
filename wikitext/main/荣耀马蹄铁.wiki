@@ -1,0 +1,15 @@
+{{魔法物品
+|name=荣耀马蹄铁
+|english_name=Horseshoes of Glory
+|aon=MagicWondrousDisplay.aspx?FinalName=Horseshoes of Glory
+|cat=奇物
+|aura=中等防护系、变化系
+|cl=11
+|slot=脚部
+|price=39,600 gp
+|weight=12磅
+|description=这些巨大的马蹄铁前端伸出致命的尖刺。每天1次，凭命令，穿着这些马蹄铁的坐骑的骑手可以选择让坐骑的体型提升一个体型等级（最大到超大型），或者把它的类型改变为魔法兽，如同野兽形态IV。此外，坐骑在以这两种方式之一得到强化期间，获得伤害减免5/混乱、邪恶、善良或守序（由骑手选择）。这些马蹄铁是一套的一部分，必须四个都由同一只动物穿戴才能正常起效。
+|req=[[制造奇物]]、[[野兽形态 IV]]、[[防护混乱]]／[[防护邪恶]]／[[防护善良]]／[[防护秩序]]
+|cost=19,800 gp
+|source=极限宝具
+}}

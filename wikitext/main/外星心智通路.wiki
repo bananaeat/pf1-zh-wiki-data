@@ -1,0 +1,11 @@
+{{Feat
+|name=外星心智通路
+|english_name=Alien Mindpaths
+|categories=团队
+|description=当你和其他外星人在一起时，你的想法会变得难以理解。
+|prerequisites=[[仿生人]]，[[卡萨达人]]，拉申塔人（又译勒珊塔灵族），或特里亚克萨斯人。
+|benefit=当你与至少一名拥有该专长的[[仿生人]]、[[卡萨达人]]、拉申塔人、或[[特里亚克萨斯人]]盟友相邻时，你在对抗影响心灵效果和预言系（探知）效果的豁免上获得+4环境加值，除非该效果来自于一名仿生人、卡萨达人、拉申塔人、或特里亚克萨斯人。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

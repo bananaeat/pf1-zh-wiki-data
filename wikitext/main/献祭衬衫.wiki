@@ -1,0 +1,15 @@
+{{魔法物品
+|name=献祭衬衫
+|english_name=Shirt of Immolation
+|aon=MagicWondrousDisplay.aspx?FinalName=Shirt of Immolation
+|cat=奇物
+|aura=中等塑能系
+|cl=10
+|slot=胸部
+|price=8,000 gp
+|weight=1磅
+|description=每当穿戴者处于[[擒抱]]状态时（无论是主动擒抱还是被擒抱），这件衬衫都会自动燃起火焰，每轮对任何擒抱穿戴者的人造成1d6+10点火焰伤害。火焰不会伤害穿戴者，持续1轮（如果1轮后穿戴者仍在擒抱，火焰会继续燃烧）。这件衬衫每天最多燃烧10轮，这些轮数不必连续。
+|req=[[制造奇物]]、[[火焰护盾]]
+|cost=4,000 gp
+|source=极限宝具
+}}

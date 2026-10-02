@@ -1,0 +1,11 @@
+{{Feat
+|name=人面狮身之翼
+|english_name=Wings of the Androsphinx
+|categories=战斗
+|description=你学会如何将敌人冲锋的动能重新导向。
+|prerequisites=智力13，[[寓守于攻]]，[[精通移位]]，BAB+1或武僧等级1
+|benefit=你针对冲锋攻击在AC上获得+2加值。当某生物冲锋你但攻击失误，你可以[[直觉动作]]尝试1次移位[[战技]]来移位该敌人。若你用[[准备动作]]来攻击冲锋你的生物，你可在进行攻击后以[[自由动作]]在敌人结算他的冲锋攻击以前尝试移位之。
+|special={{AI翻译|nocat=1|本段由 AI 照 AoN 英文原文译出，CHM 汉化里没有这段译文，未经人工校对。}}注：武僧可以在1级时将本专长作为额外专长选取。要从本专长获益，武僧必须双手空闲，并且能够进行徒手打击。
+|source_name=沙之子民
+|source_url=https://pf1chm.pages.dev/topics/zhfe80e96711.htm
+}}

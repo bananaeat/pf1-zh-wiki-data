@@ -1,0 +1,10 @@
+{{装备
+|name=直感血清
+|english_name=Intuition serum
+|cat=炼金工具
+|price=190 gp
+|weight=—
+|craft_dc=15
+|description=在饮用以后，这种无色、富含气泡的炼金调制剂可以给予你1d4次仅能使用在察言观色检定上的炼金灵感使用次数。直感血清的持续时间为1小时，但是在此期间你进行所有的唬骗技能检定都必须双骰取低。
+|source=极限诡道
+}}

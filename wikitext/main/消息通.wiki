@@ -1,0 +1,10 @@
+{{Trait
+|name=消息通
+|english_name=Well-Informed
+|type=种族
+|prerequisites=[[半身人]]
+|description=你致力于结交众人，并将周围的人脉从点连为线。你常造访酒馆获悉时事，并慷慨地向他人伸出援手。正因如此，你在收集信息时的交涉检定、以及知识(本地)检定获得+1背景加值，并且总能将二者之一(自行选择)视为你的[[本职技能]]。
+|source_name=种族背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

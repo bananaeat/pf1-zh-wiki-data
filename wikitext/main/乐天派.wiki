@@ -1,0 +1,10 @@
+{{Trait
+|name=乐天派
+|english_name=Patient Optimist
+|type=宗教
+|prerequisites=信仰[[埃拉斯蒂尔]]
+|description=你知道一切都会随时间过去，并习惯了再三尝试去说服那些最顽固的信徒。你在影响敌对和不友好生物的交涉检定中获得+2背景加值，如果该次交涉失败还能够重试1次。
+|source_name=宗教背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

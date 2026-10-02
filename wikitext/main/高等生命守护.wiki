@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=高等生命守护
+|english_name=Guarded Life, Greater
+|type=Ex
+|categories=防御
+|prerequisites=[[野蛮人]]6级，[[生命守护]]
+|benefit=当[[生命守护]]发动时，每等级转换为[[非致命伤害]]的伤害上升1点(总计2点)。
+|source_name=极限战斗
+}}

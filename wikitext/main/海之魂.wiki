@@ -1,0 +1,10 @@
+{{Trait
+|name=海之魂
+|english_name=Sea-Souled
+|type=地区
+|prerequisites=海岸或岛屿
+|description=你以海为家。你的游泳检定获得+1背景加值，并且你总能在游泳检定中取10。
+|source_name=地区背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

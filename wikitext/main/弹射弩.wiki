@@ -1,0 +1,16 @@
+{{武器
+|name=弹射弩
+|english_name=Launching crossbow
+|category=武器
+|prof=异种
+|wcat=远程
+|price=75 gp
+|weight=8磅
+|dmg_s=—
+|dmg_m=—
+|crit=—
+|range=30尺
+|groups=弩
+|description=这个看起来短而粗的弩上没有安置弩矢的凹槽，取而代之的是一个杯状的附件。它是被设计用于发射溅射武器的。装填一把弹射弩是一个[[整轮动作]]。
+|source=冒险者的军械库
+}}

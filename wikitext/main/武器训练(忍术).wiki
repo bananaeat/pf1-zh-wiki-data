@@ -1,0 +1,8 @@
+<noinclude>{{忍者导航}}
+'''武器训练(忍术)'''（Weapon Training）是[[忍者]]的[[忍术|忍术]]。
+
+</noinclude>拥有此忍术的忍者可以获得[[武器专攻]]作为额外专长。<noinclude>
+
+[[分类:忍术]]
+
+{{职业}}</noinclude>

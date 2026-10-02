@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 197），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=性急好斗
+|english_name=Hot Headed
+|type=种族
+|prerequisites=火元素裔
+|description=年少时奴隶贩子无处不在的威胁，教会了你先动手、再问话。每当你冲锋时，你的伤害掷骰获得+1背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Hot%20Headed
+}}

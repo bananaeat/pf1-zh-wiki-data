@@ -1,0 +1,17 @@
+{{武器
+|name=薙刀
+|english_name=Naginata
+|category=武器
+|prof=军用
+|wcat=双手
+|price=35 gp
+|weight=9磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×4
+|type=挥砍
+|special=长武
+|groups=长柄
+|description=薙刀由一段6尺长的刀柄和长约2尺、类似剑刃但略弯的刀身组成，薙刀的长度可以让使用者在不受到对方的刀剑、以及类似短兵器威胁的情况下从容地展开攻击。
+|source=极限战斗、极限宝具
+}}

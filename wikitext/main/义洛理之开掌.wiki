@@ -1,0 +1,9 @@
+{{Trait
+|name=义洛理之开掌
+|english_name=Open Palm of Irori
+|type=种族
+|prerequisites=[[人类]]（乌笃剌人）
+|description=你对乌笃剌武学教义的修行为身心带来完美平衡。你在特技和知识(宗教)检定上获得+1背景加值。若拥有[[武僧#气运丹田|气池]]，每日一次以[[迅捷动作]]，可在[[徒手打击]]时导引真气，使单次伤害骰获得+2背景加值。此额外伤害属于精准伤害。
+|source_name=格拉里昂的人类
+|source_url=https://pf1chm.pages.dev/topics/page_1581.html
+}}

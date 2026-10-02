@@ -1,0 +1,12 @@
+{{Feat
+|name=天界仆从
+|english_name=Celestial Servant
+|description=你的[[动物伙伴]]或[[魔宠]]来自天界，而非普通飞禽走兽。
+|prerequisites=[[神裔]]，【动物伙伴】、【魔宠】或【坐骑】职业特性。
+|benefit=你的动物伙伴、魔宠或坐骑获得天界模板，并且类型变更为魔法兽。不过你仍可对它使用[[驯养动物]]、野性认同或其他只影响动物的法术或职业能力。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+{{FAQ|v5748eaic9rd5}}

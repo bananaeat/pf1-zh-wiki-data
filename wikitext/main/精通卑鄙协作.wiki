@@ -1,0 +1,10 @@
+{{Feat
+|name=精通卑鄙协作
+|english_name=Improved Underhanded Teamwork
+|categories=战斗;团队
+|description=你和你的队友一起训练过足够长的时间，你们知道如何使一个敌人的境地更加窘迫。
+|prerequisites=寓守于攻；精通阴招；卑鄙协作；基本攻击加值+6
+|benefit=当一名同样拥有这个专长的队友对一名你们都威胁的敌人使用阴招战技时，你可以尝试以一个直觉动作对同一敌人进行一次阴招战技，如果成功你可以对其施加第二种状态。但是如果该敌人以一个动作移除了第一种状态，那么他也会同时移除你施加的状态。
+|source_name=初探探索者协会
+|source_url=https://pf1chm.pages.dev/topics/page_547.html
+}}

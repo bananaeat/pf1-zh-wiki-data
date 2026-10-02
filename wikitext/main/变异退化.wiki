@@ -1,0 +1,20 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[变异退化 (神话)]]。</small></div>
+{{Spell
+|name=变异退化
+|english_name=Devolution
+|school=变化系
+|levels=召唤师 3;召唤师（掉链） 3;奥能师 3;异能者 3;术士 3;法师 3;红螳螂杀手 3
+|action=标准动作
+|components=语言;姿势;材料（一块变色龙鳞片）
+|range=近距
+|target=一个精神向导
+|duration=1轮/等级
+|save=意志，通过则无效
+|sr=是
+|description=这个法术会导致精神向导失去1项进化，并且每5施法者等级再多失去1项进化。
+
+总消耗最高的进化最先丢失。如果消耗相同，则随机决定丢失哪一个。
+
+如果本法术导致丢失的进化是该精神向导其他进化和能力的先决条件，那么只要法术还在生效，这些也将一同丢失。
+|source=进阶玩家指南
+}}

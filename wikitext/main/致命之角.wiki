@@ -1,0 +1,10 @@
+{{Feat
+|name=致命之角
+|english_name=Deadly Horns
+|categories=战斗
+|description=许多魔裔生有的角是他们的魔族遗产的明显特征；你已经学会了使用你自己作为武器。
+|prerequisites=BAB+1，魔裔
+|benefit=你获得了1个可以造成1d6点伤害的抵撞天生武器。由于这种攻击方式的尴尬，你不能进行抵撞攻击和其他天生武器攻击作为同一全回合攻击的一部分。若你以人造武器攻击作为全回合攻击行动的一部分，将你的抵撞攻击视为次要天生攻击。
+|source_name=永罪之书
+|source_url=https://pf1chm.pages.dev/topics/zh952dc99db5.htm
+}}

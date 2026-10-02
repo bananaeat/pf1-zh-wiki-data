@@ -1,0 +1,11 @@
+{{武器
+|name=纠缠弹
+|english_name=Alchemical cartridge (entangling shot)
+|category=火器
+|prof=异种
+|wcat=弹药
+|price=40 gp
+|weight=—
+|description=这种经过炼金处理、强韧程度足以承受击发的树脂与黑火药的混合物，只能装填进雷筒、龙铳或其他霰弹武器。它对被该武器锥形攻击击中的目标造成一半伤害，但任何被击中的生物必须通过DC 15的反射豁免，否则陷入纠缠状态2d4轮。一发纠缠弹使火器的哑火值提高2。
+|source=极限战斗、极限宝具
+}}

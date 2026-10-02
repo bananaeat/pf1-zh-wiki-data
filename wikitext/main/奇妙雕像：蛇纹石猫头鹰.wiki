@@ -1,0 +1,14 @@
+{{物品
+|name=奇妙雕像：蛇纹石猫头鹰
+|english_name=Figurine of Wondrous PowerSerpentine Eagle
+|category=奇物
+|aura=中等变化系
+|cl=11级
+|price=9100gp
+|weight=无
+|slot=无位置
+|requirements=制造奇物，[[活化物体]]
+|cost=4550gp
+|description=这种蛇纹[[猫头鹰]]的安多安变种可以被转化为一只鹰或巨鹰，但在其他方面与猫头鹰雕像完全相同。蛇纹石猫头鹰在鹰骑士中很受欢迎，他们用之来侦察和紧急输送。
+|source_name=安多安，自由之魂
+}}

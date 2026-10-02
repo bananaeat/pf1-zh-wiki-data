@@ -1,0 +1,23 @@
+{{魔法物品
+|name=旅途法杖
+|english_name=Staff of Journeys
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Journeys
+|cat=法杖
+|aura=中等（学派不定）
+|cl=8
+|slot=无
+|price=27,200 gp
+|weight=5磅
+|description=这根手杖通体仍覆有深灰色的树皮，顶端分叉成华丽的杈状，饰有野花和各种叶片。
+
+该法杖可以使用以下法术：
+
+* [[侦测陷阱]]（1 发）
+* [[忍受环境]]（1 发）
+* [[大步奔行]]（1 发）
+* [[行踪无迹]]（1 发）
+* [[行动自如]]（2 发）
+|req=[[制造法杖]]、[[侦测陷阱]]、[[忍受环境]]、[[行动自如]]、[[大步奔行]]、[[行踪无迹]]
+|cost=13,600 gp
+|source=进阶玩家指南、极限宝具
+}}

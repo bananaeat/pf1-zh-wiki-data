@@ -1,0 +1,10 @@
+{{Trait
+|name=不败心
+|english_name=Strong Heart
+|type=宗教
+|prerequisites=信仰[[古拉姆]]
+|description=即使面对最为骇人的对手，你也能沉着应战。你在所有对抗恐惧效果的豁免检定上获得+1背景加值。针对你的威吓检定DC+2。【摘自 傻豆 的翻译】
+|source_name=内海诸神
+|source=摘自 傻豆 的翻译
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

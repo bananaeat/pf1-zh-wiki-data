@@ -1,0 +1,12 @@
+{{Feat
+|name=灵器专攻
+|english_name=Implement Focus
+|description=你很擅长使用共用[[秘学士#心智点|心智点]]启动特定学派的灵器之力。
+|prerequisites=秘学士3级
+|benefit=从你的[[灵器学派]]中选择一个。当你花费共用心智点来启动灵器的灵器之力，而且该灵器属于上文中选择的学派时，心智点的消耗会按照灵器之力中标注的数值进行消耗。
+|normal=用共用心智点启动（或维持）的任何灵器之力均会消耗两倍的心智点数额。
+|special=你可以多次选取该专长。每次选择该专长，都必须选择一项不同的灵器学派。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

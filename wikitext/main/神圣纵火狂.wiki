@@ -1,0 +1,9 @@
+{{Feat
+|name=神圣纵火狂
+|english_name=Sacred Pyromania
+|description=你对塞恩蕾的信仰和火焰力量使你能够将神圣力量注入火焰之中，焚烧那些通常无法燃烧的东西。
+|prerequisites=地精，信仰塞恩蕾。
+|benefit=当你的攻击或由你施放的法术造成火焰伤害时，无论火焰是否具有魔力，火焰伤害都可如常应用至[[虚体]]生物。虚体生物受到实体伤害减半的特性不适用于你造成的火焰伤害。
+|source_name=格拉利昂的英雄
+|source_url=https://pf1chm.pages.dev/topics/zh040b2e617a.htm
+}}

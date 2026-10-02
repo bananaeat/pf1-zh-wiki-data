@@ -1,0 +1,11 @@
+{{Feat
+|name=元素过载
+|english_name=Elemental Overload
+|description=随着元素之力充盈你的身躯，你变得越来越接近元素。
+|prerequisites=元素满溢职业特性，[[操念使]]15级
+|benefit=当你承受了至少4点超载时，你忽视重击和偷袭攻击的概率增加10%。每有2点额外承受的超载，该概率提升5%。这个概率无法超过100%。
+|normal=当你承受了至少3点超载时，你忽视重击和偷袭攻击的概率等于5%×你当前的超载数。
+|source=OAn
+|source_name=异能选集
+|source_url=https://pf1chm.pages.dev/topics/page_726.html
+}}

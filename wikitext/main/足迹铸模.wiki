@@ -1,0 +1,9 @@
+{{装备
+|name=足迹铸模
+|english_name=Footprint cast
+|cat=工具
+|price=2 gp
+|weight=1磅
+|description=这种快干铸模非常适合保存一组足迹，以便日后研究。花1分钟设置铸模并等它干燥，你就能复制足迹，让其他人无需前往现场就能研究它们，并使分析足迹的生存检定 DC 不会因时间或天气而增加。
+|source=进阶职业指南
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=爆发脱擒
+|english_name=Explosive Escape
+|categories=战斗
+|description=当你打破[[擒抱]]时，你可以直接将擒抱者爆飞开外。
+|prerequisites=敏捷13，力量13，[[精通擒抱]]，[[精通徒手打击]]
+|benefit=当你成功通过[[战技]]检定脱离擒抱时，你可以选择将任何参与擒抱的体型最多比你大1级的擒抱者投飞出去。被投飞出去的擒抱者将朝远离你的方向被直线扔出去5尺，并受到等同于你[[徒手攻击]]伤害的非致命伤害。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}

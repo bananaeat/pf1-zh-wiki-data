@@ -1,0 +1,15 @@
+{{Spell
+|name=瞥见隐藏
+|english_name=Glimpse the Hidden
+|school=预言系
+|levels=召唤师 3;召唤师（掉链） 3;奥能师 3;审判者 3;术士 3;法师 3;炼金术师 3;调查员 3
+|action=标准动作
+|components=语言;姿势;材料（一撮镁和白金）
+|range=接触
+|target=接触的生物
+|duration=1轮/等级（可解消）
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=该法术除了这里说明的部分，功能如同[[识破隐形]]。这个法术无法被恒定。
+|source=药剂与毒药
+}}

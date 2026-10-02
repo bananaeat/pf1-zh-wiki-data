@@ -1,0 +1,9 @@
+{{Trait
+|name=螳螂捕蝉
+|english_name=Favored Prey
+|type=宗教
+|prerequisites=信仰克忒菲斯
+|description=被你追踪的猎物终会体验到你的弓箭的锐利。你在使用弓箭攻击最近一小时成功追踪的生物时伤害获得+1背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=青足龙蛇复仇靴
+|english_name=Boots of the Vengeful Behir
+|aon=MagicWondrousDisplay.aspx?FinalName=Boots of the Vengeful Behir
+|cat=奇物
+|aura=中等变化系
+|cl=5
+|slot=脚部
+|price=5,400 gp
+|weight=1磅
+|description=这些沉重的靴子是用蓝色的皮革制成的。每天三次，当穿戴者说出命令字时，他可以在接下来的一轮里尝试一次[[冲撞]][[战技]]，此时他的体型视为比平时大1个体型等级。如果被冲撞的目标是一条龙，则穿戴者被视为比平时大2个体型等级。这次冲撞战技不会引发[[借机攻击]]。
+|req=[[制造奇物]]、[[变巨术]]
+|cost=2,700 gp
+|source=屠龙者手册
+}}

@@ -1,0 +1,16 @@
+{{武器
+|name=石刃战棍
+|english_name=Tepoztopilli
+|category=武器
+|prof=军用
+|wcat=双手
+|price=8 gp
+|weight=8磅
+|dmg_s=1d8
+|dmg_m=1d10
+|crit=19–20/×2
+|type=穿刺或挥砍
+|special=易碎，长武
+|description=这件石器时代的木制长兵器，边缘镶嵌有[[黑曜石]]、玻璃、兽牙或类似材料的锯齿状碎片。宽阔的前端使它既适合穿刺，也适合挥砍。
+|source=极限宝具
+}}

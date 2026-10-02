@@ -1,0 +1,10 @@
+{{Trait
+|name=液体治疗
+|english_name=Liquid Healing
+|type=地区
+|prerequisites=出身拉哈多姆
+|description=成长于拉哈多姆，你无法得到来自牧师或者其他神术的治疗，所以你高度依赖药剂治疗你的创伤。作为结果，药水治疗对你更加有效。当你消耗一份可以治疗任意点数HP的药水时，你受到额外2点HP的治疗。
+|source_name=药剂与毒药
+|source=P&P
+|source_url=https://pf1chm.pages.dev/topics/page_1257.html
+}}

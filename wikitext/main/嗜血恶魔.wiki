@@ -1,0 +1,10 @@
+{{Feat
+|name=嗜血恶魔
+|english_name=Gore Fiend
+|description=无论是自身还是敌人身上那令人恐惧的创口，都会使你热血沸腾。
+|prerequisites=半兽人或兽人，【狂暴】职业特性。
+|benefit=当你处于狂暴状态时，无论是你使用近战武器确认重击还是被确认重击（无论由近战武器、法术还是远程武器造成的），你的狂暴轮数恢复1轮（最高等同于你每日狂暴轮数）。该效果每轮只能获得1次。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

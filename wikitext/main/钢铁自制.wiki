@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Bastards of Golarion pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=钢铁自制
+|english_name=Iron Control
+|type=种族
+|pfs=否
+|prerequisites=[[半兽人]]（人类抚育）
+|description=你吃尽苦头才明白，宣泄你从[[兽人]]血统中继承的怒火，只会加剧[[人类]]对你的恐惧和敌意；经过多年努力，你已掌握了自我控制，将愤怒深埋心底。每当你处于[[困惑]]状态并掷骰决定某一轮的行为时，将结果减去10。
+|source_name=格拉利昂的混种
+|source=BoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Iron%20Control
+}}

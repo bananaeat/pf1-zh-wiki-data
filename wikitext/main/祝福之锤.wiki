@@ -1,0 +1,10 @@
+{{Feat
+|name=祝福之锤
+|english_name=Blessed Hammer
+|description=你信仰的神明之力在你所持的[[战锤]]上熠熠生辉
+|prerequisites=能够施放3环神术，擅长战锤，信仰托拉格
+|benefit=当你持用战锤时，你可以将所持的任何战锤当作圣徽，用于施放需要神术法器的法术或[[引导能量]]。 除此之外，以一个[[迅捷动作]]，你可以将一个需要近战接触的神术从手中灌注到战锤的锤头上，然后你可以以战锤进行近战攻击以传导这个神术。如果你的战锤脱手或被缴械，你在其中充能的法术将消散。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

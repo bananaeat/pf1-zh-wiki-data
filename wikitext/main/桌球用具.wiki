@@ -1,0 +1,9 @@
+{{装备
+|name=桌球用具
+|english_name=Billiards gear
+|cat=娱乐
+|price=5 sp
+|weight=8磅
+|description=这套用具包括一根木质球杆、一块球杆巧克、15个木球和一个三角形木质球架。
+|source=极限宝具
+}}

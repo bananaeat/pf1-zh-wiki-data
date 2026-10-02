@@ -1,0 +1,12 @@
+{{Feat
+|name=鹿冲流
+|english_name=Charging Stag Style
+|categories=战斗;流派
+|description=这个流派起源于生活在野外的萨满教武僧，他们借助出其不意的优势，迅速制伏猎物和偷猎者，鹿冲流的习练者能在林中顺畅冲锋，在荒野中突袭敌人。
+|prerequisites=敏捷13，闪避，精通徒手打击，灵活移动
+|benefit=当你使用鹿冲流且不是骑乘时，你可以冲锋穿过盟友占据的空间或困难地形。你也可以在冲锋过程中做一次至多90度的转向。你必须在冲锋开始时就能看到你的目标，并且冲锋结束时也只能进行一次攻击，即使你通常可以进行多次攻击（例如猛扑能力）。
+|normal=你不能冲锋穿过盟友占据的空间或困难地形。
+|source=HotW
+|source_name=荒野英雄
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

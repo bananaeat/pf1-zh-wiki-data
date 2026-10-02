@@ -1,0 +1,12 @@
+<noinclude>{{奥能师导航}}
+'''原能反制'''（Counterspell Primal Magic, Su）是[[奥能师]]的[[奥能技艺|奥能技艺]]。
+
+</noinclude>{{Source|格拉利昂的英雄|Heroes of Golarion|inline}}
+
+奥能师可以尝试反制一个原能魔法事件，如同反制一个魔法效果。若奥能师在DC为「10+原能魔法事件CR」的法术辨识检定中成功，则该事件如同被解除魔法解消。奥能师必须已有[[奥能技艺#法术反制|法术反制]]技艺才能选择该技艺。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_96.html 原文]），按 AoN 核对过。全部奥能技艺见 [[奥能技艺]]。
+
+[[分类:奥能技艺]]
+
+{{职业}}</noinclude>

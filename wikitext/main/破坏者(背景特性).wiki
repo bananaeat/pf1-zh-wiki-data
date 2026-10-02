@@ -1,0 +1,9 @@
+{{Trait
+|name=破坏者
+|english_name=Vandal
+|type=战斗
+|description=你在为破坏物体而进行的力量检定上获得+2加值，并且你在使用武器、天生武器以及[[徒手打击]]来破坏物体时无视2点硬度。
+|source_name=荒野英雄
+|source=HotW
+|source_url=https://pf1chm.pages.dev/topics/zhc5a8c0a892.htm
+}}

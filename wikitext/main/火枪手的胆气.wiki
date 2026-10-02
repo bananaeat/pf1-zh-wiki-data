@@ -1,0 +1,11 @@
+{{Feat
+|name=火枪手的胆气
+|english_name=Musketeer's Daring
+|categories=战斗;派头
+|description=你越大胆，你的事迹就会获得越卓越的结果。
+|prerequisites=[[敏捷]] 15，大胆特技炫技，游荡剑客6级。
+|benefit=当你使用大胆特技炫技时，若你的d6掷骰结果为天然5或6，你可以再掷一个d6并将其加到该壮举所修正的特技、攀爬、逃脱、飞行、骑术或游泳检定上。你所掷的d6数量上限仍为你的敏捷调整值（至少1）；并且在每次使用大胆特技时，只有一次可以因天然5或6而再额外掷一个d6。
+|normal=只有当你在骰子上掷出天然6时，你才能在大胆特技上继续掷出更多的d6骰。
+|source_name=反派法典
+|source_url=https://pf1chm.pages.dev/topics/zhfa2a4585c1.htm
+}}

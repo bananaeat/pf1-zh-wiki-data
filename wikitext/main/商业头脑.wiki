@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Champions of Balance pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=商业头脑
+|english_name=Commercial Savvy
+|type=地区
+|pfs=否
+|prerequisites=卡塔佩什
+|description=你擅长充分利用商业人脉，说服商人为你多掏一点腰包。每当你向商人购买或出售物品时，你将定居点的基础购买价值与购买限额（《游戏主持人指南》第204页）视为高出10%。
+|source_name=平衡勇士
+|source=CoB
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Commercial%20Savvy
+}}

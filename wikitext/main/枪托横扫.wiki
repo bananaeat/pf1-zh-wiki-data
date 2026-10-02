@@ -1,0 +1,15 @@
+{{Feat
+|name=枪托横扫
+|english_name=Stock-Striker Sweep
+|categories=战斗
+|description=你挥舞火器的力气足以击退敌寇，或是伤及另一个目标。
+|prerequisites=[[枪托势]]、bab+7、枪手炫技：枪柄打击
+|benefit=当你处于[[枪托势]]并成功以枪柄打击炫技将目标击至[[俯卧]]时，你可以通过一个[[迅捷动作]]将目标推离5尺，或是对你触及内第二个邻接该目标的敌人再进行一次枪柄打击。第二次枪柄打击炫技花费0点[[枪手#勇毅|勇毅]]值。
+|source=PotW
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1196.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[枪托抡倒]]（1 个条目）

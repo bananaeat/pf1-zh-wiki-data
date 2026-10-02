@@ -1,0 +1,15 @@
+{{Spell
+|name=群体熊之坚韧
+|english_name=Bear's Endurance, Mass
+|school=变化系
+|levels=召唤师 4;先知 6;召唤师（掉链） 6;奥能师 6;异能者 6;德鲁伊 6;战斗祭司 6;术士 6;法师 6;牧师 6;猎人 6;萨满 6;魔战士 6
+|action=标准动作
+|components=语言;姿势;材料/圣徽（熊的毛发或粪便）
+|range=近距
+|target=每级1个生物，任意两者之间的距离不超过30尺
+|duration=1分钟/等级
+|save=意志，通过则无效（无害）
+|sr=是
+|description=该法术的功能如同[[熊之坚韧]]一般，不过它可以影响复数生物。
+|source=核心规则书
+}}

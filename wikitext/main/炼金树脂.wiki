@@ -1,0 +1,10 @@
+{{装备
+|name=炼金树脂
+|english_name=Alchemical resin
+|cat=炼金工具
+|price=100 gp
+|weight=—
+|craft_dc=12
+|description=当涂在你手上的时候，这种经由炼金术炮制过的松脂制作的透明、粘稠物质，将为你对抗尝试卸武的CMD、进行擒抱的战技检定和攀爬检定提供+2炼金加值；水下同样生效。涂松脂是一个标准动作，涂上1小时后消失。
+|source=极限荒野
+}}

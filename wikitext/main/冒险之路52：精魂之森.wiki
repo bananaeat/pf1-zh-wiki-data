@@ -1,0 +1,47 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #52: Forest of Spirits
+|authors=Richard Pett
+|pages=96
+}}
+
+{{书页/简介|head=森林的守护者|1=
+熬过一片致命的荒野之后，英雄们又踏入了另一片——一片充满远古谜团与神圣秘密的土地，名为精魂之森（Forest of Spirits）。但这片森林深谙如何抵御陌生人，它那些强大而疏离的守护者——[[神灵绪论|神灵]]（kami）——绝不容许任何人伤害他们神秘的家园。胆敢违抗这片土地之灵的人几乎没有生还的希望。然而，凡能向这片神秘领域及其奇异居民证明自己是朋友的人，不仅将赢得强大的盟友，还将得知一个早已在森林腹地溃烂、如今毒害整个天夏（Tian Xia）的隐秘邪恶。
+
+本册《冒险之路》内容包括：
+
+* 《精魂之森》，一部面向 10 级角色的开拓者冒险，作者 Richard Pett。
+* 探究神秘的神灵（kami）——大地与自然受人尊崇的守护者，作者 Mike Shel。
+* 洞察明海忍者氏族的行事之道与致命技艺，作者 Jesse Benner。
+* 「探索者日志」中致命的守护艺妓，以及深入尾田（Oda）某家更为不堪的赌坊的旅程，作者 Dave Gross。
+* 五种新怪物，作者 Patrick Renie、Steve Russell 和 Mike Welham。
+}}
+
+'''冒险之路52：精魂之森'''（''Pathfinder #52: Forest of Spirits''）是[[冒险之路]]「玉关白」系列的一部冒险，由 Richard Pett 撰写，配套材料出自 Jesse Benner、Patrick Renie、Steve Russell、Mike Shel 和 Mike Welham，小说出自 Dave Gross，于 2011 年 11 月 16 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+精魂之森 @ 6
+NPC 图集 @ 54
+玉关白宝物 @ 60
+- Akumi 的盆景
+- [[破碎血肉胴丸]]
+- 无尽清酒壶
+- [[壮兵阵笠]]
+- Kikuya 的折扇
+- [[杉松家族的雷鸣之刃]]
+神灵生态 @ 62
+忍者之道 @ 70
+探索者日志：空壳（4／6） @ 74
+怪物图鉴 @ 82
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Forest of Spirits (adventure)
+|releases=PDF¦PZO9052E¦2011-11¦；Softcover¦PZO9052¦2011-11¦
+}}
+
+[[分类:书目]]

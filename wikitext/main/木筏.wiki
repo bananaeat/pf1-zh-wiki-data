@@ -1,0 +1,9 @@
+{{装备
+|name=木筏
+|english_name=Raft
+|cat=水上交通
+|price=—
+|passage=1 cp
+|description=木筏是最为基础和原始的船只，它的构造极其简单，就是没有船体的平底船而已，通常只是一排原木捆在一起而已。要想让它前进一般需要2至4根船桨。
+|source=极限宝具
+}}

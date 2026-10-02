@@ -1,0 +1,47 @@
+{{速查导航}}
+{{消歧义|精化动物}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=精化动物（狼獾）
+|english_name=Fey Animal
+|cr=3
+|xp=800
+|alignment=混乱中立
+|size=中型
+|type=精类
+|subtypes=增强（动物）
+|init=+4
+|senses=黑暗视觉 60 尺，昏暗视觉，灵敏嗅觉；察觉 +8
+|description=这只狼獾的眼里有着一目了然的智慧光芒，它的嘴似乎在抽动，像是要笑出来。
+|ac=17，接触 14，措手不及 13（+4 敏捷，+3 天生）
+|hp=22（3d8+9）
+|fort=+5
+|ref=+7
+|will=+3
+|dr=5/寒铁
+|sr=14
+|speed=40 尺，掘地 20 尺，攀爬 20 尺
+|melee=啮咬 +4（1d4+2），2 爪击 +4（1d6+2）
+|special_attacks=死亡诅咒（DC 13），狂暴
+|spell_like=（施法者等级 3；专注 +5）；每天 1 次—[[魅惑人类]]（DC 13），[[妖火]]
+|str=15
+|dex=19
+|con=15
+|int=12
+|wis=14
+|cha=14
+|bab=+2
+|cmb=+4
+|cmd=18（对抗摔绊 22）
+|feats=[[技能专攻]]（唬骗）;[[健壮]]
+|skills=[[特技]] +10;[[唬骗]] +12;[[攀爬]] +16;[[知识]]（自然）+7;[[察觉]] +8;[[察言观色]] +8;[[隐匿]] +14
+|languages=乌尔芬语;木族语
+|environment=寒冷森林
+|organization=单独
+|treasure=无
+|source=林诺姆诸王之国
+}}
+
+AoN 对这只怪物没有描述文字。「死亡诅咒」等模板赋予的能力见[[精化动物]]模板页。
+
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Fey Animal|2=Fey Animal}}

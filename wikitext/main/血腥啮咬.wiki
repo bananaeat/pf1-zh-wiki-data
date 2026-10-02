@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=血腥啮咬
+|english_name=Bloody Bite
+|type=Ex
+|categories=进攻
+|prerequisites=[[半兽人]]，[[野性之怒]] 或 一次天生啮咬攻击
+|benefit=野蛮人的啮咬攻击会额外造成1d6[[流血伤害]]。
+|source_name=邪恶特务
+}}

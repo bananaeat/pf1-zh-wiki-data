@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 194），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=遭人猜忌
+|english_name=Mistrusted
+|type=种族
+|prerequisites=半兽人
+|description=选择[[人类]]或[[兽人]]。你在与该种族最早的接触中就明白了，有些人会因为你的混血本质而自动将你视为威胁，而且他们很难被安抚。对抗所选种族的敌人时，你的借机攻击获得+1背景加值，你的CMD也获得+1背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Mistrusted
+}}

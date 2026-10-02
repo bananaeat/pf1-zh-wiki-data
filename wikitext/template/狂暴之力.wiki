@@ -1,0 +1,49 @@
+<includeonly>{{野蛮人导航}}{{#invoke:版权抬头|main}}<div class="feat rage-power">
+<div class="feat-head">
+<div class="feat-name">{{{name|{{PAGENAME}}}}}<span class="feat-cats">{{#if:{{{type|}}}|<span class="tag">{{{type}}}</span>}}{{#if:{{{categories|}}}|{{#arraymap:{{{categories|}}}|;|@@|<span class="tag">@@</span>| }}}}{{#if:{{{class|}}}|<span class="tag">{{{class}}}</span>}}</span>{{#ifeq:{{{pfs|}}}|否|<span class="tag tag-warn">非 PFS 合法</span>}}</div>
+<div class="feat-en">{{#if:{{{english_name|}}}|{{#if:{{{categories|}}}|[https://aonprd.com/BarbarianRagePowers.aspx?Type={{#switch:{{#explode:{{{categories|}}}|;|0}}|进攻=Offensive|防御=Defensive|杂项=Misc|血脉=Blood|元素=Elemental|图腾=Totem|#default=Offensive}} {{{english_name}}}]|{{{english_name}}}}}}}</div>
+</div><!--
+-->{{#if:{{{prerequisites|}}}|<div class="feat-block"><span class="k">先决条件</span>{{{prerequisites|}}}</div>}}<!--
+-->{{#if:{{{benefit|}}}|<div class="feat-block feat-benefit"><span class="k">效果</span>{{{benefit|}}}</div>}}<!--
+-->{{#if:{{{tables|}}}|<div class="feat-tables">{{{tables|}}}</div>}}<!--
+-->{{#if:{{{normal|}}}|<div class="feat-block"><span class="k">常规</span>{{{normal|}}}</div>}}<!--
+-->{{#if:{{{special|}}}|<div class="feat-block"><span class="k">特殊</span>{{{special|}}}</div>}}<!--
+-->{{#if:{{{unchained|}}}|<div class="feat-block feat-extra"><span class="k">解放者版</span>《[[解放者]]》重写了这条狂暴之力，规则不同，见 [[{{{unchained}}}]]。</div>}}<!--
+-->{{#if:{{{classic|}}}|<div class="feat-block feat-extra"><span class="k">原版</span>这是《[[解放者]]》为[[掉链野蛮人]]重写的版本；原版规则见 [[{{{classic}}}]]。</div>}}<!--
+-->{{#if:{{{notes|}}}|<div class="feat-block feat-extra"><span class="k">备注</span>{{{notes|}}}</div>}}<!--
+-->{{#if:{{{source_name|}}}|<div class="feat-source"><span class="key">来源</span> <span class="value">{{#arraymap:{{{source_name|}}}|;|@@|[[@@]]|、}}</span></div>}}
+</div>{{条目页脚|速查=狂暴之力|分类=狂暴之力}}[[分类:狂暴之力]]</includeonly><noinclude>
+==说明==
+[[野蛮人]]（及[[掉链野蛮人]]、[[歌者]]借用时）的狂暴之力条目卡片。样式沿用 [[模板:Feat]] 的 <code>.feat</code> 卡片，页顶自动带 [[模板:野蛮人导航]]、页尾带条目页脚和 [[:分类:狂暴之力]]。不适用的参数留空。
+
+===参数===
+;name / english_name: 中英文名。name 留空取页名。有 categories 时英文名链到 AoN 对应类别的狂暴之力列表（AoN 没有单条页）。
+;type: 能力类型：Ex、Su、Sp。
+;categories: AoN 的分类，分号分隔：进攻、防御、杂项、血脉、元素、图腾。
+;class: 限定职业时填，如「掉链野蛮人」（《解放者》的战姿等只给掉链野蛮人）。
+;pfs: 填 <code>否</code> 表示非 PFS 合法，显示警示标签；留空表示合法。
+;prerequisites / benefit / normal / special: 先决条件 / 效果 / 常规 / 特殊。
+;tables: 效果里的表格，必须写成 HTML <code>&lt;table&gt;</code>。
+;unchained: 原版条目填《解放者》重写版的页名。
+;classic: 《解放者》重写版填原版的页名。
+;notes: 备注、译注。
+;source_name: 书名（站上书页名），多本用分号分隔。
+
+正文里的竖线要写成 <code>&amp;#124;</code>，否则会截断参数。
+
+===示例===
+<pre>
+{{狂暴之力
+|name=大地之击
+|english_name=Ground Breaker
+|type=Ex
+|categories=进攻
+|prerequisites=[[野蛮人]]6级
+|benefit=野蛮人可以用手中武器对地面发动一次攻击……
+|special=这项能力每次狂暴只能使用1次。
+|unchained=撼地一击
+|source_name=进阶玩家指南
+}}
+</pre>
+[[分类:模板]][[分类:规则模板]]
+</noinclude>

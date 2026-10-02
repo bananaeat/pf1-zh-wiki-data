@@ -1,0 +1,17 @@
+{{Feat
+|name=无极型
+|english_name=Ascetic Form
+|categories=战斗
+|pfs=否
+|description=（[[战斗专长]]）
+你将武器作为身体的延伸，以它们使出奇异的武技。
+|prerequisites=[[无极式]]，对所选武器拥有武器专攻专长，基础攻击加值+5或武僧等级+5
+|benefit=你可以将所有需要使用徒手打击来发动的职业能力，如极限解放武僧的真劲击能力，通过你所选择的近战武器来发动。除此之外你可以将你的角色等级视为武僧等级来决定某些专长的每日使用次数，如[[震慑拳]]和[[完美打击]]。
+|source=WMH
+|source_name=武器大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_370.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[无极之道]]（1 个条目）

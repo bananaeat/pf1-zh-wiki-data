@@ -1,0 +1,16 @@
+{{Spell
+|name=群体地缚术
+|english_name=Binding earth, mass
+|school=变化系
+|tags=土
+|levels=女巫 6;德鲁伊 6;猎人 6
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=近距
+|target=1个生物或物品/等级，互相之间不超过30尺
+|duration=1轮/等级
+|save=强韧，通过则无效
+|sr=是
+|description=除上述差异外，该法术的功能如同[[地缚术]]。
+|source=进阶种族手册
+}}

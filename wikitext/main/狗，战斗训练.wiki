@@ -1,0 +1,9 @@
+{{物品
+|name=狗，战斗训练
+|english_name=Dog, Combat-Trained
+|category=冒险装备
+|price=25 GP
+|weight=90磅
+|description=这种被杂交出来完全只是为了战斗的中型犬；其育种者喜好其强健、壮实的身体和更低的重心。经过战斗训练的狗在内海地区的大多数大城市都有销售。它们作为斗犬在切利亚斯（Cheliax）很受欢迎，尽管最好的品种是在摩尔苏恩（Molthune）培育的，在那里它们被用于特殊部队。
+|source_name=冒险者的军械库
+}}

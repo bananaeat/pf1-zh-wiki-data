@@ -1,0 +1,6 @@
+<includeonly>([[扩展手册#UC|UC]])</includeonly><noinclude>
+<pre>
+*{{UC}}
+</pre>
+*{{UC}}
+</noinclude>

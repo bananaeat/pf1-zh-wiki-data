@@ -1,0 +1,11 @@
+{{Feat
+|name=英雄领袖
+|english_name=Heroic Leader
+|categories=战斗
+|description=无论是带领伙伴还是军队，你都身先士卒，踏阵冲锋。
+|prerequisites=魅力13，任一战斗专长，获得动物伙伴、部属（领导力专长）、[[幻灵]]、魔宠或坐骑的能力
+|benefit=当计算专长效果需要只有一个角色威胁目标时，你的[[动物伙伴]]、部属、[[幻灵]]、[[魔宠]]或坐骑不被视为威胁你的目标。HD小于等于你HD一半的盟友在计算如上专长时将不视为威胁你的目标。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}

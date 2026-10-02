@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=辛沙拉斯特金盔
+|english_name=Golden Helm of Xin-Shalast
+|aon=MagicWondrousDisplay.aspx?FinalName=Golden Helm of Xin-Shalast
+|cat=奇物
+|aura=强烈变化系
+|cl=15
+|slot=头部
+|price=48,000 gp
+|description=这顶装饰华丽、带冠饰的金盔，是辛沙拉斯特及其周边的宫廷卫兵与家宅护卫常戴的款式。盔顶是一簇铂金鬃毛，盔沿和护鼻上镶着银丝花饰，这顶金盔既是财富与地位的炫示，也是一件强大的魔法工具。戴上辛沙拉斯特金盔时，佩戴者会呈现出一尊精雕细琢的金像的外观。这一变化纯属外观，唯一的例外是每天有10分钟，拥有者可以启动[[钢筋铁骨]]法术的效果。钢筋铁骨的效果可以用[[自由动作]]启动。
+|req=[[制造奇物]]、[[钢筋铁骨]]
+|cost=24,000 gp，1,920 XP
+|source=Magic of Thassilon (Web Enhancement)
+}}

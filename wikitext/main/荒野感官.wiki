@@ -1,0 +1,10 @@
+{{Feat
+|name=荒野感官
+|english_name=Wilding Senses
+|description=自然在你耳边低语，给予你超常的感官以应对到来的危险。
+|prerequisites=[[感知]] 13，荒野之痕。
+|benefit=你在察觉技能检定上获得+2加值，当用以决定你是否在[[突袭]]轮行动时，这个加值增至+4。若你察觉技能的受训等级为10或更高时，则该技能检定的加值增至为+4（且在用以决定你是否在突袭轮行动时增至+8）。该奖励与[[警觉]]专长所授予的加值不相叠加，尽管在满足专长的先决条件与[[进阶职业]]的先决条件时，荒野感官被视为警觉专长。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 17），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=拉哈多姆秘教徒
+|english_name=Rahadoumi Cultist
+|type=地区
+|prerequisites=拉哈多姆
+|description=你是拉哈多姆一个被禁信仰的秘密成员。你学会了隐藏自己的信仰，也学会了辨认同一信仰的人。你为接收秘密讯息而进行的[[唬骗]]检定获得+5背景加值，为截获同信仰者的秘密讯息而进行的[[察言观色]]检定获得+5背景加值。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Rahadoumi%20Cultist
+}}

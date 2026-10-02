@@ -1,0 +1,9 @@
+{{Feat
+|name=科班吸血鬼猎人
+|english_name=Schooled Resolve
+|description=你受过专业对抗吸血鬼能力的战斗训练，这允许你使用你对恐惧的抵抗力击败吸血鬼的心灵法术和效果。
+|prerequisites=勇气职业能力。
+|benefit=你在对抗吸血鬼释放的影响心灵的法术和效果的意志豁免中加入勇气职业能力带来的加值。这与通常对抗恐惧的勇气加值不叠。
+|source_name=夜之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_823.html
+}}

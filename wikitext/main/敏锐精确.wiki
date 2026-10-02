@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=敏锐精确
+|english_name=Sharpened Accuracy
+|type=Ex
+|categories=进攻
+|prerequisites=[[野蛮人]]8级，[[无比精准]]
+|benefit=使用“[[无比精准]]”[[狂暴之力]]时，野蛮人可以忽略[[隐蔽]]、将[[全隐蔽]]视为隐蔽。他也可以忽略除了全[[掩蔽]]之外的掩蔽加值。
+|unchained=敏锐精准
+|source_name=极限战斗
+}}

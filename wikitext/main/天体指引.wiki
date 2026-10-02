@@ -1,0 +1,8 @@
+{{Feat
+|name=天体指引
+|english_name=Celestial Guidance
+|description=你可以利用太阳、月亮、恒星和行星的运动来导航和获取关于现实基本本质的神秘知识。
+|benefit=你可以在知识(地理)技能检定获得+2加值，以了解恒星或行星。晚上，只要天空晴朗，你能看见星星，你就不会迷路。每晚一次，当星星可见时，你可以重骰当天之前失败的知识检定。当你这样做时，可使用合适的知识再次检定，或使用地理知识替代检定。
+|source_name=繁星子民
+|source_url=https://pf1chm.pages.dev/topics/zhb41f657a6d.htm
+}}

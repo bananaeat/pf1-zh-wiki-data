@@ -1,0 +1,10 @@
+{{Feat
+|name=阻遏变身
+|english_name=Shapeshifter Foil
+|description=你对变身魔法的掌握，可以干扰其他人的类似效果。
+|prerequisites=[[知识]]（奥秘）5级或知识（自然）5级，能够使用变身效果。
+|benefit=被你伤害过的生物在你下轮结束前都难以进行或维持变身。对方必须通过DC为“15+变身效果等级×2”的专注检定才能够进行变身；若你对已处于变身效果下的对象造成伤害，对方必须通过DC为“10+1/2角色等级+感知修正”的意志豁免，否则将会被强制打回原形。若你对上述敌人造成重击，那么他甚至将无法进行豁免。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

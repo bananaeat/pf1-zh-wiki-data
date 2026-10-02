@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[增强视觉 (神话)]]。</small></div>
+{{Feat
+|name=增强视觉
+|english_name=Deepsight
+|description=你的感官在完全的黑暗中格外敏锐。
+|prerequisites=黑暗视觉60尺。
+|benefit=你的黑暗视觉提升至120尺。
+|normal=黑暗视觉通常只有60尺或90尺。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

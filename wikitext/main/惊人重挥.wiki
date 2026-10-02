@@ -1,0 +1,12 @@
+{{Feat
+|name=惊人重挥
+|english_name=Awe-Inspiring Smash
+|categories=战斗;演武
+|pfs=否
+|description=你的武勇在战斗中被转化为让观众欢呼的展示。
+|prerequisites=力量15，[[猛力攻击]]，基本攻击加值+3
+|benefit=你能够用力量调整值来替代魅力调整值进行演武检定。此外，当你花费[[迅捷动作]]，尝试一次由成功的[[冲撞]]或[[击破]][[战技]]检定触发的演武检定时，你会在此次演武检定中获得+2加值。你的攻击每超过敌人[[CMD]] 5点，该加值就会增加2点。
+|source=ISC
+|source_name=内海战斗
+|source_url=https://pf1chm.pages.dev/topics/page_276.html
+}}

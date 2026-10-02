@@ -1,0 +1,17 @@
+{{魔法物品
+|name=炼狱逃亡之靴〔魔裔〕
+|english_name=Boots of Fiendish Escape (Tiefling)
+|aon=MagicWondrousDisplay.aspx?FinalName=Boots of Fiendish Escape (Tiefling)
+|cat=奇物
+|aura=强烈咒法系
+|cl=15
+|slot=脚部
+|price=45,000 gp
+|weight=2磅
+|description=这件奇物通常只有所标明的种族或族裔的成员才能获得。
+
+这双柔软的有跟皮靴，无论穿戴者的足部是脚还是蹄，都可以舒适地穿上。穿戴者可以每日1次以[[迅捷动作]]将靴跟互击，使用云雾术。如果穿戴者是[[魔裔]]，他还可以同时传送至多1000尺，如同任意门。
+|req=[[制造奇物]]、[[法术瞬发]]、[[任意门]]、[[云雾术]]、制造者必须是魔裔
+|cost=22,500 gp
+|source=内海种族
+}}

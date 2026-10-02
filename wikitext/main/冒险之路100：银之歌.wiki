@@ -1,0 +1,58 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #100: A Song of Silver
+|authors=James Jacobs
+|pages=128
+}}
+
+{{书页/简介|head=打倒特鲁恩！|1=
+这是《冒险之路》的第一百册！邪恶的领主市长巴基莱·特鲁恩对他的市民施加残酷、日益严苛的法律，已经太久了。受尽围困的金塔格城的英雄们终于对腐败的源头发起反击，他们的叛乱已在街头动员起来。从被遗忘的牢房中救出旧日英雄、夺回关键地点的控制权、演奏一首多年前曾用来保护这座城市免受地狱爪牙侵害的古老歌曲，不过是决战的序曲——对巨大的[[阿斯莫迪斯]]神殿发起的猛攻！
+
+本册《冒险之路》延续「地狱叛军」冒险之路，内容包括：
+
+* 《银之歌》，一部面向 10 级角色的开拓者冒险，作者 James Jacobs。
+* 研究已故之神奥罗登昔日的信仰，作者 Erik Mona。
+* 为此前每条冒险之路回顾性收录的 NPC 合集，由多位作者撰写。
+* 在「探索者日志」中堕入邪恶的深渊，作者 Stephanie Lorée。
+* 四种令人兴奋的新怪物，作者 Adam Daigle 和 James Jacobs。
+* 一张描绘冒险中某处关键战场的海报地图。
+}}
+
+'''冒险之路100：银之歌'''（''Pathfinder #100: A Song of Silver''）是《冒险之路》第 100 期的里程碑冒险，属于[[冒险之路]]「地狱叛军」系列的第四部，由 James Jacobs 撰写，配套文章出自 Adam Daigle、Crystal Frasier 等 18 位作者，小说出自 Stephanie Lorée，于 2015 年 12 月 16 日发售。本册比常规分册多出 32 页，内含 Paizo Inc. 发行人 Erik Mona 撰写、介绍已故之神奥罗登的专文，以及此前各条冒险之路中 NPC 的资料。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+银之歌 @ 4
+NPC 图集 @ 58
+奥罗登，最后的阿兹兰特人 @ 68
+冒险之路的朋友与敌人 @ 74
+- The Terrible Tup，[[地精]]吟游诗人兼术士，作者 Richard Pett，出自「符文领主崛起」
+- 灰少女副官 Gatlynn Keidros，作者 Nicolas Logue，出自「腥红王座的诅咒」
+- Chessadril Odranata，野心勃勃的[[卓尔]]，作者 Greg A. Vaughan，出自「二度黑暗」
+- Garavel，卡塔佩什（Katapesh）契约大师（Pactmasters）的仆从，作者 Erik Mona，出自「烈焰传承」
+- Amaya Kaijitsu，Ameiko Kaijitsu 的半血姐妹，作者 Sean K Reynolds，出自「盗贼议会」
+- Trazel Rainwater，[[佛斯格灵]][[歌者]]，作者 Jason Nelson，出自「拥王者」
+- Sheko-Maru，[[红螳螂]]刺客，作者 Tim Hitchcock，出自「蛇神颅骨」
+- 无眠特工 Lessaj Gilvrand，作者 F. Wesley Schneider，出自「腐肉王冠」
+- Hirakonu，食人魔法师，作者 Neil Spicer，出自「玉关白」
+- Ikiko，[[天狗]][[游荡剑客]]，作者 Rob McCreary，出自「颅骨与镣铐」
+- 探索者 Unselm Oldurac，作者 Mike Shel，出自「碎星」
+- Amitrie Leth，居于[[芭芭雅嘎的舞动小屋]]的[[变形蛛]]，作者 Brandon Hodge，出自「冬临天下」
+- Ayavah，[[提夫林]]雕塑家，作者 James Jacobs，出自「正义之怒」
+- Vadoma Gall，巴拉丁之眼秘会（Order of the Palatine Eye）的遗物猎人，作者 Amber E. Scott，出自「木乃伊的面具」
+- 先知 Malin（Malin the Prophet），手持等离子刃（plasma blade）的[[仿生人]]游侠，作者 Crystal Frasier，出自「钢铁诸神」
+- Damon Vancaskerkin，谜港城（Riddleport）帮派头目 Saul Vancaskerkin 的兄弟，作者 Jim Groves，出自「巨人杀手」
+探索者日志：我们之中的怪物（4／6） @ 108
+怪物图鉴 @ 114
+}}
+
+{{书页尾
+|pfw=A Song of Silver
+|releases=PDF¦PZO90100E¦2015-12¦；Softcover¦PZO90100¦2015-12¦978-1-60125-795-6
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

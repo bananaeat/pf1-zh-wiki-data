@@ -1,0 +1,10 @@
+{{装备
+|name=健体香脂
+|english_name=Bodybalm
+|cat=炼金工具
+|price=25 gp
+|weight=—
+|craft_dc=25
+|description=当这种刺鼻的黄色粉末在水中煮沸并给予一个生物饮用时，它会给予照料该生物的医者在长期护理、治疗中毒和治疗疾病的医疗检定上+5炼金加值。
+|source=冒险者的军械库
+}}

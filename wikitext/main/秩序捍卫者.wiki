@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Tyrant's Grasp Player's Guide pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=秩序捍卫者
+|english_name=The Lawbringer
+|type=战役
+|pfs=否
+|description=边疆是一片充满风险与混乱的土地，人们尽可以亲自去面对这些危险，但他们太常把痛苦带给那些从不想冒这种险的人。你也许在城镇卫队中服役，或是醒城所支持的某支驻军中的一员，又或者只是一个在别人坚持不住时仍能挺下去的忧心农夫，但你的使命是为任何需要的人筑起一道壁垒，抵挡命运的残酷无常。你对抗恐惧效果的豁免检定获得+2背景加值。如果你拥有勇气灵光职业能力，你的灵光提供的加值增加1。你的勇气振奋人心：每天你第一次陷入[[昏迷]]或被杀死时，你30尺内的所有盟友会重整旗鼓来保卫你，立即获得等同于你的等级＋你的魅力调整值的临时生命值。这些临时生命值持续1分钟。
+|source_name=Tyrant's Grasp Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=The%20Lawbringer
+}}

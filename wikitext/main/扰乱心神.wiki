@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''扰乱心神'''（Distraction）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：特殊攻击</span></div>
+</noinclude><includeonly><div class="lang"><span id="扰乱心神"></span><div class="lang-h"><b>[[扰乱心神]]</b><i>Distraction</i><span class="lang-w">Ex · 特殊攻击</span></div><div class="lang-d"></includeonly>
+拥有该能力的生物对敌人造成伤害时可以使敌人[[反胃]]。任意活物受到拥有“扰乱心神”能力生物的伤害会反胃 1 轮；通过强韧豁免可以避免此效果（DC = 10 + 1/2 扰乱心神生物 HD + 体质修正）。
+
+'''格式'''：扰乱心神（DC 14）
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Distraction|2=Distraction}}
+
+[[分类:通用怪物规则]]</noinclude>

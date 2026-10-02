@@ -1,0 +1,14 @@
+{{魔法物品
+|name=领主之轿符文
+|english_name=Rune of the Lord's Palanquin
+|aon=MagicThassilonianRunes.aspx#Rune of the Lord's Palanquin
+|cat=瑟西隆语符文
+|aura=强烈咒法系
+|cl=15
+|slot=符文
+|price=135,000 gp
+|description=每日1次，该符文的持有者可以召唤一顶漂浮的半真实座轿。这件座驾具有[[魅影驹]]的全部特殊能力，可以承载持有者以及至多150磅的额外重量。只要总重量低于150磅，其他生物也可以乘坐这顶座轿。座轿可以随时以[[自由动作]]解除，但要到次日才能再次召唤。座轿的外观在符文铭刻时决定，通常是一顶气派而舒适的抬轿，无需轿夫就能移动。
+|req=[[铭刻符文]]、[[魅影驹]]
+|cost=67,500 gp，5,400 XP
+|source=冒险之路5：救世者的原罪
+}}

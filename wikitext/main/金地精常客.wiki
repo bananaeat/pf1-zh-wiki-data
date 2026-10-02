@@ -1,0 +1,9 @@
+{{Trait
+|name=金地精常客
+|english_name=Gold Goblin Regular
+|type=地区
+|prerequisites=谜港城
+|description=你是金地精赌场的常客，在这里你享有一定的人气。你在专业(赌徒)检定时获得+1背景加值，在谜港城内进行情报搜集时的交涉检定获得+2背景加值。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

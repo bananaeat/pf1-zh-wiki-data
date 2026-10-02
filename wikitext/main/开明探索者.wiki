@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Bastards of Golarion pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=开明探索者
+|english_name=Open-Minded Explorer
+|type=地区
+|prerequisites=阿维拉卡
+|description=你从小就经常与说着陌生语言、有着各异风俗的人们打交道；你的举止也许不够优雅，但你对他人的接纳发自真心。你的[[交涉]]检定获得+1背景加值。当你用目标生物的种族语言或民族语言交谈时，此加值提高为+2。
+|source_name=格拉利昂的混种
+|source=BoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Open-Minded%20Explorer
+}}

@@ -1,0 +1,9 @@
+{{装备
+|name=过滤器
+|english_name=Filter
+|cat=炼金工具
+|price=5 sp
+|weight=1/2磅
+|description=炼金术中使用一种特制的滤纸，因为可以根据用来预处理它的试剂种类，调整它所能捕获的物质。炼金过滤器只能使用一次。
+|source=炼金术手册
+}}

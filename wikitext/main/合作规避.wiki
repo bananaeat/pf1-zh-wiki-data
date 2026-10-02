@@ -1,0 +1,11 @@
+{{Feat
+|name=合作规避
+|english_name=Tandem Evasion
+|categories=战斗;团队
+|description=你和你的盟友相互帮助以躲避致命的攻击。
+|prerequisites=敏捷13，[[闪避]]
+|benefit=当临近的一个盟友也拥有此专长时，你获得对龙的喷吐武器和尾扫[[特殊攻击]]的[[盗贼#反射闪避|反射闪避]]。如果你已经拥有反射闪避，你改为获得[[精通反射闪避]]。
+|source=DsH
+|source_name=屠龙者手册
+|source_url=https://pf1chm.pages.dev/topics/page_820.html
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=鲨鱼子嗣
+|english_name=Sharkchild
+|type=种族
+|prerequisites=[[兽态人]]（鲨人裔）
+|description=当你年轻时，你曾游到大海深处，最后凭着你的鲨鱼人血脉才免于溺亡。你的游泳检定获得+1背景加值。只要你拥有游泳速度（例如兽形赋予的游泳速度），你在从水面垂直下潜或垂直向水面上浮时，可以用奔跑动作移动至多5倍游泳速度的距离。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_808.html
+}}

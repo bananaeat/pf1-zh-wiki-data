@@ -1,0 +1,10 @@
+{{Feat
+|name=完美施法
+|english_name=Perfect Casting
+|description=你从原初宝库中解开了神术施法的更深层奥秘。
+|prerequisites=[[战斗施法]]，[[神之严密]]，能够施放神术，信仰阿巴达尔
+|benefit=当你使用[[神之严密]]专长时，你可以选择在施放所有的神术魔法时都不受到[[借机攻击]]，而非仅限无害和[[领域法术]]。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

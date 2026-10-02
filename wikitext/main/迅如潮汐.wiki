@@ -1,0 +1,10 @@
+{{Feat
+|name=迅如潮汐
+|english_name=Tidal Swiftness
+|description=即使你正身处最干旱或最寒冷的地方，从水元素位面汹涌而来的潮水亦能驱使你快速穿梭。虽然这种加速一次不会太久，但这神奇灵动的水流依然让人为之一振。
+|prerequisites=[[知识]]（位面）5级
+|benefit=以一个[[标准动作]]，你能召唤一股水流至你足下从而提高你的速度，如同你获得了[[水流术]](APG)的增益一样，你每天可以从本专长受益的分钟数等于你的知识（位面）等级，这些时间不必连续使用，但每次启动至少以1分钟为单位使用本专长。
+|source=PA
+|source_name=位面冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1492.html
+}}

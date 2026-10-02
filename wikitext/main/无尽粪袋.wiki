@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=无尽粪袋
+|english_name=Bag of Everlasting Dung
+|aon=MagicWondrousDisplay.aspx?FinalName=Bag of Everlasting Dung
+|cat=奇物
+|aura=微弱咒法系
+|cl=5
+|slot=无
+|price=500 gp
+|weight=4磅
+|description=这只皮袋一打开就散发出刺鼻的气味。它每天会提供足量的干粪，可作燃料让一小堆火燃烧8小时，或为一块20尺见方的土地施肥。
+|req=[[制造奇物]]、[[造粮术]]
+|cost=250 gp，20 XP
+|source=烈焰传承玩家手册
+}}

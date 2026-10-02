@@ -1,0 +1,15 @@
+{{魔法物品
+|name=电击法袍
+|english_name=Shocking Robe
+|aon=MagicWondrousDisplay.aspx?FinalName=Shocking Robe
+|cat=奇物
+|aura=中等防护系、塑能系
+|cl=10
+|slot=躯体
+|price=11,000 gp
+|weight=1磅
+|description=这件紫黄相间的丝绸长袍，让人觉得有电光在表面噼啪闪动。长袍赐予穿戴者电击抗力5，并使穿戴者所有带有电击描述符的法术的施法者等级+1。每天一次，穿戴者可以通过命令字让长袍释放出一道半径20尺的电击爆发。穿戴者以外、处于该范围内的生物受到2d6点电击伤害（反射豁免DC 16减半）。
+|req=[[制造奇物]]、[[法术升阶]]、[[抵抗能量伤害]]、[[闪电束]]
+|cost=5,500 gp
+|source=极限宝具
+}}

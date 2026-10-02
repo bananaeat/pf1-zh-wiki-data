@@ -1,0 +1,10 @@
+{{装备
+|name=狂啸野猪
+|english_name=Boar's bellow
+|cat=炼金工具
+|price=190 gp
+|weight=—
+|craft_dc=15
+|description=在服用以后，这种苦口、锈色的炼金调制剂可以给予你1d4次仅能使用在威吓检定上的炼金灵感使用次数。狂啸野猪的持续时间为1小时，但是在此期间你进行所有的交涉技能检定都必须双骰取低。
+|source=极限诡道
+}}

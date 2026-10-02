@@ -1,0 +1,22 @@
+{{魔法物品
+|name=变化法杖
+|english_name=Staff of Transmutation
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Transmutation
+|cat=法杖
+|aura=强烈变化系
+|cl=13
+|slot=无
+|price=82,000 gp
+|weight=5磅
+|description=这根法杖通常由石化木或骨化石雕成，或以其装饰，上面蚀刻着细小而复杂的符文。它可以使用以下法术：
+
+* [[变身术]]（1 发）
+* [[闪现术]]（1 发）
+* [[脚底抹油]]（1 发）
+* [[恶意变形术]]（2 发）
+* [[变形术]]（2 发）
+* [[解离术]]（3 发）
+|req=[[制造法杖]]、[[变身术]]、[[恶意变形术]]、[[闪现术]]、[[解离术]]、[[脚底抹油]]、[[变形术]]
+|cost=41,000 gp
+|source=核心规则书、极限宝具
+}}

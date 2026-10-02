@@ -1,0 +1,13 @@
+{{危害
+|name=食尸鬼热疫
+|english_name=Ghoul Fever
+|kind=疾病
+|type=伤口
+|save=强韧 DC 13
+|onset=1天
+|frequency=1次/天
+|effect=1d3点体质伤害和1d3点敏捷伤害
+|cure=连续2次豁免成功
+|description=死于食尸鬼热疫的类人生物将在下一个午夜化为[[食尸鬼(怪物)|食尸鬼]]复起。以此方式变成食尸鬼的类人生物会失去生前拥有的所有能力。它不受其他食尸鬼的控制，但对活物血肉充满渴求，在各方面都表现得与普通食尸鬼无异。4HD 或更多的类人生物则会化为妖鬼复起。豁免 DC 基于魅力。
+|source=Pathfinder RPG Bestiary
+}}

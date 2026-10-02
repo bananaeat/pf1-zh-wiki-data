@@ -1,0 +1,11 @@
+{{Feat
+|name=武器协同
+|english_name=My Blade is Yours
+|categories=战斗;团队
+|description=在战斗中，你与盟友的协作如行云流水一般，而这也为你的武器提供了更多的优势。
+|prerequisites=智力 13，[[寓守于攻]]，[[察言观色]]3级
+|benefit=当你与1名具有该专长的盟友相邻、而且它持用着的武器具有格挡（UE）、[[卸武]]、虚实（UE）或摔绊武器特性时，你自己的武器也能被视同为具有相应的特性。若盟友的武器具有多个合适的特性，那么你要在自己回合开始时决定自己的武器获得哪1种特性。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

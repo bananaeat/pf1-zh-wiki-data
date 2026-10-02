@@ -1,0 +1,12 @@
+{{狂暴之力
+|name=增强伤害减免
+|english_name=Increased Damage Reduction
+|type=Ex
+|categories=防御
+|prerequisites=[[野蛮人]]8级
+|benefit=野蛮人的伤害减免增加“1/-”。当野蛮人狂暴时，此加值即生效。
+|special=野蛮人可以选重复选取这个[[狂暴之力]]，最多3次，其效果叠加。
+|source_name=核心规则书
+}}
+
+{{FAQ|v5748eaic9uqg}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=屠龙灵光
+|english_name=Dragonbane Aura
+|description=在屠龙灵光范围内的同伴获得与你相同的保护。
+|prerequisites=【勇气灵光】职业特性，施法者等级8级。
+|benefit=当和龙战斗时，你的勇气灵光范围变成20尺半径弥漫，灵光范围内的同伴在对抗龙息的豁免骰上获得士气加值，数值等同于你勇气灵光在对抗恐惧时的加值。
+|normal=勇气灵光的范围是10尺半径弥漫，并且在对抗恐惧时的豁免检定上提供+4士气加值。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

@@ -1,0 +1,9 @@
+{{装备
+|name=宣纸〔一张〕
+|english_name=Rice paper (sheet)
+|cat=冒险装备
+|price=5 cp
+|weight=—
+|description=这种纸由稻米、稻草或树皮制成。它的硬度为0，具有1点生命值，击破DC 2。
+|source=冒险者的军械库、进阶玩家指南、极限宝具
+}}

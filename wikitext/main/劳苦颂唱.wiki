@@ -1,0 +1,16 @@
+{{Spell
+|name=劳苦颂唱
+|english_name=Toilsome chant
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=吟游诗人 1;歌者 1
+|action=见下文
+|components=语言;姿势
+|range=近距
+|target=一名活物
+|duration=见下文
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=你能够以【提振技能】吟游表演的起始动作的一部分施放该法术。只要目标的下一个技能检定是提振技能所提升的技能，同时还未完成的话，提振技能的效果就会一直持续下去 （最高为每施法者等级1小时），即使你的吟游表演结束效果也会持续。
+|source=进阶种族手册
+}}

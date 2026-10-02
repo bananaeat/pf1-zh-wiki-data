@@ -1,0 +1,18 @@
+{{Spell
+|name=脑力屏蔽
+|english_name=Mental block
+|school=预言系
+|tags=影响心灵
+|levels=催眠师 1;吟游诗人 2;异能者 2;歌者 2
+|action=标准动作
+|components=语言
+|range=近距
+|target=一个生物
+|duration=1轮/等级（可解消）
+|save=意志，通过则无效
+|sr=是
+|description=你锁定了目标获取程式性记忆的能力，防止它利用自身的经验和知识。目标失去所有技能等级、已知法术、已准备的法术、可用专长，以及特异、超自然和类法术能力。在目标的每个回合结束时，它能够尝试另一次意志豁免来结束该效果。
+|source=异能冒险
+}}
+
+{{FAQ|v5748eaic9tpp}}

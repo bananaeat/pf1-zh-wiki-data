@@ -1,0 +1,10 @@
+{{Feat
+|name=军团激励
+|english_name=Legionnaire's Inspiration
+|description=你激励你的战友们在胜算渺茫的困境中坚守
+|prerequisites=隶属于黄金军团
+|benefit=以一个标准动作，你可以选择一个你能看到的生物。所有位于你30尺内并且能看到并听到你的盟友，在对抗该生物的AC上获得+1士气加值，持续轮数等于你的魅力调整值（最低1轮）。你可以使用这个能力每天一次，你每拥有3个角色等级，就可以额外使用一次。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/page_1364.html
+}}

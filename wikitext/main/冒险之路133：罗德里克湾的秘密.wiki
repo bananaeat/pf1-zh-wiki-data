@@ -1,0 +1,37 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #133: Secrets of Roderic's Cove
+|authors=Adam Daigle、James Jacobs、Mikko Kallio、Luis Loza、Jacob W. Michaels、Conor J. Owens
+|pages=96
+}}
+
+{{书页/简介|head=愤怒将君临天下！|1=
+当一位符文领主从沉睡中苏醒，边疆之国瓦瑞西亚在他的力量下颤抖，最终需要一队英雄才拯救了世界。然而，另外六位符文领主依然在世，而此刻，其中最为暴怒的一位已经醒来！随着符文领主们接二连三地苏醒，先前那些英雄所面对的危险与险境相形见绌。当一个神秘而可怖的幽灵出现在罗德里克湾（Roderic's Cove）的街头，而镇上的帮派恰在此时把古代瑟西隆暴君们的符文与遗产用于自己的目的，一队新的英雄必须崛起，从符文领主的归来中拯救瓦瑞西亚，乃至整个世界！
+
+本期《开拓者》冒险之路开启「符文领主的归来」冒险之路，内容包括：
+
+* 《罗德里克湾的秘密》，一部面向 1 级角色的开拓者冒险，作者 Adam Daigle。
+* 对罗德里克湾镇及其居民的探索与概览，作者 Adam Daigle。
+* 一份详尽的瑟西隆历史年表、各位符文领主在星陨末日中避免毁灭所用方法的揭秘，以及面向 GM 的、关于每位符文领主在本冒险之路中扮演何种角色的说明，作者 James Jacobs。
+* 一份瓦瑞西亚各地潜伏怪物的图鉴，包括偷孩子的[[诺克利安]]与看似无害的[[曲镜泥怪]]，作者 Mikko Kallio、Luis Loza、Jacob W. Michaels 和 Conor J. Owens。
+}}
+
+'''冒险之路133：罗德里克湾的秘密'''（''Pathfinder #133: Secrets of Roderic's Cove''）是一部开拓者角色扮演游戏冒险，由 Adam Daigle 撰写，配套文章出自 Adam Daigle、James Jacobs 等 6 位作者，于 2018 年 8 月 29 日发行。这是[[冒险之路]]「[[符文领主的归来]]」系列的第一部冒险。
+
+== 目录 ==
+{{书页/目录|1=
+罗德里克湾的秘密 @ 2
+NPC 图集 @ 62
+罗德里克湾 @ 68
+符文领主的遗产 @ 74
+怪物图鉴 @ 80
+战役概要 @ 90
+}}
+
+{{书页尾
+|pfw=Secrets of Roderic's Cove
+|releases=Softcover¦PZO90133¦2018-08¦978-1-64078-062-0；PDF¦PZO90133E¦¦
+}}
+
+[[分类:书目]]

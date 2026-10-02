@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 194），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=刺激上瘾
+|english_name=Adrenaline Rush
+|type=种族
+|prerequisites=侏儒
+|description=你决心抵御漂白症，而被迫体验负面情绪也会带给你某种快感。每天一次，当你对抗具有情绪描述符的法术（见《极限魔法》）的豁免检定失败时，你可以获得1d6点临时生命值。这些临时生命值持续1分钟。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Adrenaline%20Rush
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=转换诡计
+|english_name=Swap Trick
+|description=你可以调整一个已经被植入在生物中的[[催眠师诡计]]。
+|prerequisites=催眠师诡计职业特性
+|benefit=当你对一个目标植入催眠师诡计时，你可以指定该诡计为转换诡计。这个被植入的催眠师诡计如普通诡计一般运作，除了你可以通过[[标准动作]]接触目标来触发该诡计。当转换诡计以这种方式触发时，目标会失去转换诡计，并改为植入另一种你已习得的催眠师诡计。以这种方式植入的催眠师诡计不会计入你的每日催眠师诡计职业特性使用次数中。
+|source=OAn
+|source_name=异能选集
+|source_url=https://pf1chm.pages.dev/topics/page_725.html
+}}

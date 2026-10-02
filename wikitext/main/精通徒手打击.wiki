@@ -1,0 +1,19 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[精通徒手打击 (神话)]]。</small></div>
+{{Feat
+|name=精通徒手打击
+|english_name=Improved Unarmed Strike
+|aliases=精通徒手打击
+|categories=战斗
+|description=你精通徒手作战的技巧。
+|benefit=即使徒手也视同持有武器，也就是说当你[[徒手攻击]]时，不会引发[[借机攻击]]。此外，你可以选择让你的徒手打击造成致命或[[非致命伤害]]。
+|normal=无此专长者若徒手攻击则视为未武装，也只能造成非致命伤害。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：被 109 个条目点名，名单见 [[特殊:链入页面/{{PAGENAME}}|链入页面]]。
+
+{{FAQ|v5748eaic9r9j}}

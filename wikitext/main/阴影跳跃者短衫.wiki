@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=阴影跳跃者短衫
+|english_name=Shadow Jumper's Tunic
+|aon=MagicWondrousDisplay.aspx?FinalName=Shadow Jumper's Tunic
+|cat=奇物
+|aura=微弱咒法系
+|cl=3
+|slot=胸部
+|price=16,200 gp
+|description=这件深灰色的短衫让角色每天可以进行一次最远40尺的跳跃，或每天进行四次、每次10尺的跳跃。所有跳跃都必须在至少有些许昏暗光照的区域开始和结束。如果穿戴者拥有至少4级的[[影舞者]]进阶职业，这件短衫则改为使他每天可以进行阴影跳跃的总距离增加40尺。
+|req=[[制造奇物]]、[[任意门]]
+|cost=8,100 gp
+|source=阴招战术工具箱
+}}

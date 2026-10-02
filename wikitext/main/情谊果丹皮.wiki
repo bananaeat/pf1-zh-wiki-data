@@ -1,0 +1,10 @@
+{{装备
+|name=情谊果丹皮
+|english_name=Fellowship film
+|cat=炼金工具
+|price=190 gp
+|weight=—
+|craft_dc=15
+|description=吃下这片薄薄的、光亮的明胶后，你可以获得1d4次仅能用在交涉检定上的炼金灵感使用次数。情谊果丹皮的持续时间为1小时，但是在此期间你进行所有的威吓检定都必须掷两次骰并取较差的结果。
+|source=极限诡道
+}}

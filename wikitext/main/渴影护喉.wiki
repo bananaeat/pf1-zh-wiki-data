@@ -1,0 +1,14 @@
+{{魔法物品
+|name=渴影护喉
+|english_name=Gorget of Umbral Hunger
+|aon=MagicWondrousDisplay.aspx?FinalName=Gorget of Umbral Hunger
+|cat=奇物
+|aura=微弱咒法系
+|cl=5
+|slot=颈部
+|price=6,500 gp
+|description=这条工艺繁复的青铜项链紧贴脖颈，正中嵌着一颗红宝石。只要佩戴者处在昏暗光照或黑暗（包括魔法黑暗）的区域内，红宝石就会开始发光，并赋予佩戴者快速治疗1。项链每天最多可以恢复20点生命值，之后其快速治疗效果结束，护喉也会失去作用，直到次日魔法重置。这种快速治疗无论伤害来源是什么都能恢复生命值，但在护喉的快速治疗能力生效期间，佩戴者会被侦测为邪恶生物。这对佩戴者的阵营没有长期影响。
+|req=[[制造奇物]]、[[地狱治疗]]
+|cost=3,250 gp
+|source=商人货单
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Night pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=精算风险
+|english_name=Calculated Risk
+|type=种族
+|pfs=否
+|prerequisites=[[吸血鬼]]（僵尸）
+|description=每天一次，你可以自愿在对抗一个有害法术或效果的豁免检定中失败。使用此能力后，在接下来的1分钟内，你可以在一次豁免检定上加上+4背景加值，之后该加值即被消耗。你可以将这个加值用在对抗你自愿失败的那个法术或效果的额外豁免检定上（例如毒素的后续豁免，或对抗[[人类定身术]]的后续豁免）。如果你在1分钟内没有使用这个加值，它便会失去。
+|source_name=夜之血脉
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Calculated%20Risk
+}}

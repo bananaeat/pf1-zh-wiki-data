@@ -1,0 +1,9 @@
+{{Feat
+|name=元素转化
+|english_name=Elemental Conversion
+|description=你能把[[原能魔法]]注入到自己的元素法术之中
+|benefit=每天一次，当你在施放一个能造成酸蚀、寒冷、电击或火焰伤害的法术时，你能在法术中注入原能魔法，并能随机转换其中的元素能量。在你施放该法术之后，在其结果结算之前，骰1d4以决定其新的元素（1为强酸，2为寒冷，3为电击，4为火焰）。如果你位于原能魔法主导的区域，则你能每小时使用一次该能力。
+|source=PotW
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1194.html
+}}

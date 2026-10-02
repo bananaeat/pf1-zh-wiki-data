@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Jade Regent Player's Guide pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=求生学徒
+|english_name=Student Survivalist
+|type=战役
+|pfs=否
+|description=尽管在砂点镇大多数居民眼中，沙莉露是个有些神秘的人物，但在你看来她从来没那么神秘。当然，这大概是因为她帮忙把你带大。你始终没弄明白沙莉露为什么决定把你当作弟弟妹妹看待，但你当然很感激——而且这些年来，她教给你的所有求生技巧你都如饥似渴地学了下来。因此，你在所有[[生存]]检定上获得+2背景加值，并且生存是你的本职技能。此外，你对威胁你导师的敌人进行的所有攻击检定获得+1背景加值。NPC选项：沙莉露。
+|source_name=Jade Regent Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Student%20Survivalist
+}}

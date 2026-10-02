@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[移动射击]] 的神话版本。</small></div>
+{{Feat
+|name=移动射击
+|english_name=Shot on the Run
+|categories=神话
+|description=你能够轻而易举地在跑动的瞬间射出两支箭矢。
+|prerequisites=[[移动射击]]，基本攻击加值+6
+|benefit=每当你使用[[移动射击]]专长时，在你移动的任意一点，你能够以你的最高基本攻击加值做2次远程攻击，以此取代原本的1次。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

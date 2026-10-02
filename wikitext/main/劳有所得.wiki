@@ -1,0 +1,10 @@
+{{Trait
+|name=劳有所得
+|english_name=Fruits of Your Labor
+|type=宗教
+|prerequisites=信仰贾依迪
+|description=你以供养社群为傲。每天一次，你可以为自己和至多六名其他生物提供一顿由你生产、购买或采集的食物所组成的餐点。提供与食用该餐点需10分钟，其间其他参与者可以进行轻微活动，如交谈、阅读或警戒。餐后每个生物恢复1d3点生命值，并在下一次使用协助他人动作帮助同样食用了该餐点的生物时，在此次d20投掷中获得+1背景加值。该加值持续24小时，每个生物每天只能通过该特性获得一次此加值。
+|source_name=古国血脉
+|source=BotA
+|source_url=https://pf1chm.pages.dev/topics/zhb7c0053e99.htm
+}}

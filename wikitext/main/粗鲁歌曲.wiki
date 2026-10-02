@@ -1,0 +1,10 @@
+{{Trait
+|name=粗鲁歌曲
+|english_name=Rude Songs
+|type=种族
+|prerequisites=[[地精]]
+|description=若有一个对手能听到并理解你的话，你歌曲中粗鄙之语的针对性给予你在所有表演[歌唱]检定获得+2背景加值。表演总是你的[[本职技能]]。
+|source_name=格拉里昂的地精
+|source=Goblins of Golarion
+|source_url=https://pf1chm.pages.dev/topics/zh0c27dc639b.htm
+}}

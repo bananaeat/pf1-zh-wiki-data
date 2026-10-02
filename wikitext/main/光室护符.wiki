@@ -1,0 +1,14 @@
+{{魔法物品
+|name=光室护符
+|english_name=Amulet of Hidden Light
+|aon=MagicWondrousDisplay.aspx?FinalName=Amulet of Hidden Light
+|cat=奇物
+|aura=微弱幻术系
+|cl=3
+|slot=颈部
+|price=9,000 gp
+|description=这件由粗切玻璃制成的大护符，可以应命令散发如同[[日光杖]]的光亮。与普通光源不同，处于这片光照范围之外的生物看不见护符的光。
+|req=[[制造奇物]]、[[光亮术]]、[[隐形术]]
+|cost=4,500 gp
+|source=进阶种族手册
+}}

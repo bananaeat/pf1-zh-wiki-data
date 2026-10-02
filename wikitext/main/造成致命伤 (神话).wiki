@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[造成致命伤]] 的神话版本。</small></div>
+{{Spell
+|name=造成致命伤
+|english_name=Inflict Critical Wounds
+|school=死灵系
+|levels=先知 4;唤魂师 4;审判者 4;战斗祭司 4;牧师 4;秘学士 4;萨满 4;女巫 5
+|description=法术造成的伤害增加至8d8 + 每施法者等级2点（最高+40）。若目标为活物且豁免失败的话，则会恶心，持续每施法者等级1轮（最高20轮）。
+|source=神话冒险
+}}
+[[分类:神话法术]]

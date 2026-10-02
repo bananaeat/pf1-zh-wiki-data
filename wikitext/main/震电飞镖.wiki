@@ -1,0 +1,17 @@
+{{武器
+|name=震电飞镖
+|english_name=Jolting dart
+|category=武器
+|prof=军用
+|wcat=远程
+|price=100 gp
+|weight=1/2磅
+|dmg_s=1d3
+|dmg_m=1d4
+|crit=×2
+|range=20尺
+|type=穿刺
+|special=见正文
+|description=这种通过炼金术种植的晶体飞镖在投掷出去之后会产生电荷。被飞镖击中的目标会受到正常穿刺伤害以及1d6点闪电伤害。任何擅长使用飞镖的人都可以使用震电飞镖。飞镖一旦掷出就会损毁。
+|source=进阶种族手册
+}}

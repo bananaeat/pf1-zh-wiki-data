@@ -1,0 +1,9 @@
+{{Trait
+|name=奴隶监工
+|english_name=Thrall Spotter
+|type=种族
+|prerequisites=[[吸血裔]]（诺斯弗拉图裔）
+|description=你的血脉令你更加了解支配他人的力量。你在试图确定一个生物是否被魅惑或胁迫的察言观色检定中获得+5背景加值。
+|source_name=夜之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_822.html
+}}

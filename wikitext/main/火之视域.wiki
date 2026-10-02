@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''火之视域'''（Firesight, Su）是[[操念使]]的[[原力]]。
+
+元素：火；类别：通用（Su）；等级：3；超载：－
+
+你能够看透火焰和烟，就如同它们都是透明的一般。被点燃的生物或者具有火系亚种的生物在对抗你的时候，都无法从[[隐蔽]]或[[全隐蔽]]中获益。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Firesight|2=Firesight}}
+
+[[分类:原力]]

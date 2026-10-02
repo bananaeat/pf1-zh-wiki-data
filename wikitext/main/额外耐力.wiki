@@ -1,0 +1,13 @@
+{{Feat
+|name=额外耐力
+|english_name=Extra Stamina
+|categories=战斗
+|pfs=否
+|description=你提升了自己的极限。
+|prerequisites=[[战斗耐力]]，基本攻击加值+5。
+|benefit=耐力池上限+3。
+|special=最多可选择三次。
+|source=PU
+|source_name=解放者
+|source_url=https://pf1chm.pages.dev/topics/page_651.html
+}}

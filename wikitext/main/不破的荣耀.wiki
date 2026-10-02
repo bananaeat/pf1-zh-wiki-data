@@ -1,0 +1,10 @@
+{{Feat
+|name=不破的荣耀
+|english_name=Unimpeachable Honor
+|description=你对原则和盟友的忠诚，使你根本无法设想去做违背它们的事。
+|prerequisites=[[钢铁意志]]
+|benefit=当你正处于魅惑或胁迫效果的影响时，如果该效果会迫使你采取的行动包含后述内容，你就会在抵抗该命令或者打破效果的任何豁免检定或对抗性魅力检定中获得+4加值，具体的行为包括：违背你的本性的行为、明确违反了你的宗教限制的行为、或者与你的阵营完全相反的行为（举例说明，让守序善良的你执行邪恶或混乱的行为）。每当你被迫攻击盟友时，你的攻击检定与伤害检定均会受到-4减值。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

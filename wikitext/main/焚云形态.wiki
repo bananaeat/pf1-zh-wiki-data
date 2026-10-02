@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[焚云形态 (神话)]]。</small></div>
+{{Spell
+|name=焚云形态
+|english_name=Scorching ash form
+|school=变化系
+|tags=火
+|levels=奥能师 4;术士 4;法师 4;炼金术师 4;红螳螂杀手 4;调查员 4
+|action=标准动作
+|components=姿势;材料（一段薄纱和一把灰烬）
+|range=接触
+|target=接触到的一个自愿的实体生物
+|duration=1分钟/等级
+|save=无
+|sr=否
+|description=该法术的作用方式和‘[[气化形体]] ’一样，除了目标变化为可以看到的烟与粉尘组成的灼热漩涡而非透明缥缈的无害雾气。目标获得火系亚种。如果任何生物在自身的回合开始时与其共享一片空间的话，会受到2d6点火焰伤害，并且必须进行一次成功的强韧豁免检定 （DC 15，每次检定再+1） 否则将会受到吸入浓烟的影响。
+|source=进阶种族手册
+}}

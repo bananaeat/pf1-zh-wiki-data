@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Antihero's Handbook pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=不敬者
+|english_name=Irreverent
+|type=信念
+|description=你怀疑那些过着灵性生活的人，并且总能迅速找出即便是最虔诚之人身上最细微的虚伪。当然，你也敏锐地意识到信徒能从崇拜中汲取的力量，而你顽固地抵抗着这股力量。你在对抗只以你为目标的神术的豁免检定上获得+2背景加值。
+|source_name=反英雄手册
+|source=A'sH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Irreverent
+}}

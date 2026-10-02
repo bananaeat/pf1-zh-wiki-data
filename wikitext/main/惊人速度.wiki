@@ -1,0 +1,9 @@
+{{Trait
+|name=惊人速度
+|english_name=Frightening Speed
+|type=宗教
+|prerequisites=信仰[[阿卡艾克克]]
+|description=你细心研习了[[阿卡艾克克]]的杀戮之道，这使你获得了惊人的速度。每天一次，在战斗遭遇中，你可以在一个移动动作中额外移动5尺而不受惩罚。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

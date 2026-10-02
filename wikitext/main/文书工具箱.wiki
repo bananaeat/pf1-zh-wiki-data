@@ -1,0 +1,9 @@
+{{装备
+|name=文书工具箱
+|english_name=Scrivener's kit
+|cat=套装
+|price=2 gp
+|weight=1磅
+|description=这个软皮盒子里装有1个用来装墨水的小瓶、1支墨水笔、备用笔尖、1小瓶用于制墨的色素、1把用来把羽毛削成羽毛笔的小刀、1张吸墨纸和1把小尺子。
+|source=极限宝具
+}}

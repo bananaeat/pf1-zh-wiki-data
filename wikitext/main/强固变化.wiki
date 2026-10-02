@@ -1,0 +1,10 @@
+{{Feat
+|name=强固变化
+|english_name=Tenacious Transmutation
+|description=你对变化类魔法的精研使得你的变化系法术更为持久。
+|prerequisites=[[法术专攻]]（变化）。
+|benefit=解除或移除你的变化系效果的施法者等级检定DC提高2点；即使法术被取消，它的效果也会在消散之前额外存留1轮。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

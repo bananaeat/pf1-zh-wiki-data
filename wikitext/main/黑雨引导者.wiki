@@ -1,0 +1,16 @@
+{{魔法物品
+|name=黑雨引导者
+|english_name=Usher of the Black Rain
+|aon=MagicArtifactsDisplay.aspx?ItemName=Usher of the Black Rain
+|cat=神器
+|tier=高等神器
+|base=[[巨镰]]或[[复合长弓]]
+|enh=+5 邪恶 血光
+|aura=极强（所有学派）
+|cl=29
+|slot=无
+|weight=12磅
+|description=[[亚玻伦]]的武器就是黑雨引导者。他可以用一个[[移动动作]]让这件武器在巨镰和复合长弓（力量+16）之间变形，但无论哪种形态，黑雨引导者都是一件+5邪恶血光武器。作为长弓时，它会在射击时自动生成弹药。对目前正患有疾病的敌人，黑雨引导者每次命中额外造成6点亵渎伤害。
+|destruction=如果把亚玻伦的斗篷（由灵魂为他的弓提供力量的那些天使的血肉缝制而成）带到涅槃境，在那里洗净，然后一边吟诵每位死去天使早已被遗忘的名字一边埋葬，黑雨引导者就会烧成灰烬。
+|source=怪物图鉴6
+}}

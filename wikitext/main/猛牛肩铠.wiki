@@ -1,0 +1,15 @@
+{{魔法物品
+|name=猛牛肩铠
+|english_name=Pauldrons of the Bull
+|aon=MagicWondrousDisplay.aspx?FinalName=Pauldrons of the Bull
+|cat=奇物
+|aura=微弱防护系
+|cl=5
+|slot=肩部
+|price=10,000 gp
+|weight=3磅
+|description=这对钢制肩铠上刻着发起冲锋的公牛图案。穿戴者进行冲撞战技检定时，可以掷两次并取较好的结果。此外，肩铠还为穿戴者对抗冲撞的CMD提供+2增强加值。
+|req=[[制造奇物]]、[[牛之力量]]
+|cost=5,000 gp
+|source=极限宝具
+}}

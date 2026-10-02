@@ -1,0 +1,10 @@
+{{Feat
+|name=念动飞跃
+|english_name=Kinetic Leap
+|description=在跳跃时，念力会为你提供[[推力]]。
+|prerequisites=特技3级，[[念袭]]职业能力
+|benefit=每日1次以[[迅捷动作]]，你能够利用[[念袭]]引发一股[[能量爆发]]，来帮助自身进行长距离的跳跃，在用于跳跃的特技检定中获得+10加值；若你在特技上至少投入了10点技能点，那么该加值会增加至+20点。通过承受1点超载，你能够随意使用该能力，直至你所承受的超载得以移除为止。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

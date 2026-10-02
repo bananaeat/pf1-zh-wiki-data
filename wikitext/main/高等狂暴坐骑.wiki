@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=高等狂暴坐骑
+|english_name=Ferocious Mount, Greater
+|type=Ex
+|categories=杂项
+|prerequisites=[[野蛮人]]8级，[[狂暴坐骑]]
+|benefit=野蛮人骑乘且狂暴的时候，他的坐骑也获得他的[[狂暴之力]]的效果，但坐骑不会得到需要动作才能使用的能力，即使是[[自由动作]]。
+|source_name=进阶玩家指南
+}}

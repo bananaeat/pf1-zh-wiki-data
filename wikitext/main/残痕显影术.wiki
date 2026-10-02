@@ -1,0 +1,15 @@
+{{Spell
+|name=残痕显影术
+|english_name=Residual tracking
+|school=预言系
+|levels=游侠 1;猎人 1;秘学士 2
+|action=1分钟
+|components=语言;姿势;材料（少许石膏）
+|range=接触
+|target=接触到的足迹
+|duration=立即
+|save=无
+|sr=否
+|description=通过触摸足迹，你会获得制造足迹之人或生物的清晰心灵影像。该影像与该生物留下足迹的那一刻具有相同的造型，包括任何显著的特征或表情、装备或武器、或者在那一时刻该生物所携带的任何其他东西。比如，马匹留下的蹄印会显现出留下这个痕迹时它本身以及任何骑乘它的骑手的影像。
+|source=进阶玩家指南
+}}

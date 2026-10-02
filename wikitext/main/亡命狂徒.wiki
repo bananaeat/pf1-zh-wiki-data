@@ -1,0 +1,12 @@
+{{Feat
+|name=亡命狂徒
+|english_name=Deathless Zealot
+|categories=战斗
+|description=只有最恐怖的伤势才能停下你的杀戮。
+|prerequisites=力量13，体质17，[[亡命尖兵]]，[[亡命勇士]]，[[坚忍]]，[[顽强]]，[[铁皮]]，兽人或半兽人，基本攻击加值+12。
+|benefit=每当一个生物对你进行重击确认，它必须投两次骰并取低。
+|stamina=如果两次重击确认都不成功，花费5点耐力你可以发动一次借机攻击。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

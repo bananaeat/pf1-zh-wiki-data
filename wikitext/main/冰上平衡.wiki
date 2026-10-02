@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 19），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=冰上平衡
+|english_name=Skater's Balance
+|type=种族
+|pfs=否
+|prerequisites=狗头人
+|description=你在部族位于幽暗地域的家园中长大，常在当地星罗棋布的冰封水塘上潜行。你进入薄冰地面的方格时无需花费额外的移动力（见《核心规则书》第430页），并且你在薄冰地面上进行的[[特技]]检定DC不会增加5。
+|source_name=格拉利昂的狗头人
+|source=KoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Skater%27s%20Balance
+}}

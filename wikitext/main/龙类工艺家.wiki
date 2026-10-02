@@ -1,0 +1,13 @@
+{{Feat
+|name=龙类工艺家
+|english_name=Dragoncrafting
+|pfs=否
+|description=你有能力从倒下的真龙的尸体上制造罕见而有价值的物品。
+|prerequisites=工艺（任意）5级，知识（奥秘）3级
+|benefit=你获得从真龙的躯体（不能是次等龙类，比如蛇龙或双足飞龙）上收集可用于制造各类龙类制品的材料的能力。制作龙类制品时能以每小时100金币的进度进行。为了能从龙的尸体上收集到原料，你必须在一条死亡未超过48小时（除非尸体被某种方式进行了防腐）的龙进行一次成功的医疗检定，难度为10加上此龙的挑战等级。参见下表来确定从每种体型的龙身上能获得多少原料。
+|special={{AI翻译}}通常，拥有能量免疫的龙皮甲在附加同种能量的防护时可以减价25%，只有和护甲免疫同一元素类型的效果才能享受这一折扣。拥有龙类工艺家专长的工匠可以为一套龙皮甲多附加1种能量防护，同样减价25%，即使这种能量抗力通常与所用龙皮的种类无关。
+|extra=<table class="wikitable"><tr><th>龙的体型</th><th>血液</th><th>胃酸</th><th>胆汁</th><th>麝香</th><th>皮肤</th></tr><tr><td>超小型</td><td>2小瓶</td><td>1小瓶</td><td>1小瓶</td><td>—</td><td>1扎</td></tr><tr><td>小型</td><td>3小瓶</td><td>1小瓶</td><td>1小瓶</td><td>1小瓶</td><td>2扎</td></tr><tr><td>中型</td><td>4小瓶</td><td>2小瓶</td><td>2小瓶</td><td>1小瓶</td><td>2扎</td></tr><tr><td>大型</td><td>5小瓶</td><td>2小瓶</td><td>2小瓶</td><td>2小瓶</td><td>2扎</td></tr><tr><td>超大型</td><td>6小瓶</td><td>3小瓶</td><td>2小瓶</td><td>2小瓶</td><td>3扎</td></tr><tr><td>巨型</td><td>7小瓶</td><td>3小瓶</td><td>3小瓶</td><td>3小瓶</td><td>3扎</td></tr><tr><td>超巨型</td><td>8小瓶</td><td>4小瓶</td><td>3小瓶</td><td>3小瓶</td><td>3扎</td></tr></table>
+|source=DH
+|source_name=屠龙者手册
+|source_url=https://pf1chm.pages.dev/topics/page_818.html
+}}

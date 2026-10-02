@@ -1,0 +1,10 @@
+{{Trait
+|name=迷妄之敌
+|english_name=Enemy of Delusion
+|type=宗教
+|prerequisites=信仰[[安多莱塔]]
+|description=你曾面临一场由无知或妄念者造成的重大不公，而义愤促使你纠正其错误。每天一次，当你对一个受魅惑或胁迫效果影响的生物确认一次重击、成功以制裁命中，或使用圣疗时，你可以祈请安多莱塔打开目标的双眼。若该效果原本允许进行豁免检定抵抗，则目标可以立即再次进行一次豁免；若成功，则该效果立即终止。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh9e38168036.htm
+}}

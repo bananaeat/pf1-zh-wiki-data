@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=孢子匠的善意
+|english_name=Sporecrafter's Kindness
+|aon=MagicWondrousDisplay.aspx?FinalName=Sporecrafter's Kindness
+|cat=奇物
+|aura=微弱咒法系
+|cl=5
+|slot=无
+|price=1,500 gp
+|weight=4磅
+|description=这个棕色的麻袋里装满了霉菌孢子、泥土和化学试剂。它可以作为溅射武器投掷，射程增量为10尺。袋子破裂后，孢子匠的善意会在5尺半径的爆发范围内释放赭色霉菌的孢子，并在最近的邻接方格中放出1d4+1个[[孢子人]]。这些孢子人不受使用者控制，会立即攻击最近的生物，持续5轮，之后它们会瘫倒，化为非魔法的植物残渣。
+|req=[[制造奇物]]、[[毒击术]]、[[召唤自然盟友 III]]
+|cost=750 gp
+|source=魔法市集指南
+}}

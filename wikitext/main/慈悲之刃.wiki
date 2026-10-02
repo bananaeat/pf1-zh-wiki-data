@@ -1,0 +1,10 @@
+{{Trait
+|name=慈悲之刃
+|english_name=Merciful Scimitar
+|type=战斗
+|description=[[塞恩蕾]]的修士教授你如何使用刀剑击倒敌人而不杀伤性命。在持用[[弯刀]]时，你可以造成[[非致命伤害]]但不在攻击检定上承受减值。
+旋舞修士 Whirling Dervishes:在阿维斯坦，迦伦德和卡斯玛隆各地散布的塞恩蕾教会中，有一群严格遵守晨花的不杀之训的教徒存在。这些修士以舞蹈的身姿挥舞弯刀，斩倒那些无法救赎的邪物。旋舞秘修士的战舞虽然致命而优雅，但同样是他们教团的祈祷与仪式的核心。
+|source_name=战斗背景
+|source=WMH
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

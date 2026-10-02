@@ -1,0 +1,19 @@
+{{消歧义|甲刺(防具)}}
+{{武器
+|name=甲刺
+|english_name=Spiked armor
+|category=武器
+|prof=军用
+|wcat=轻型
+|price=+50 gp
+|weight=特殊
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×2
+|type=穿刺
+|groups=贴身
+|description=你能为你的盔甲加装尖刺，在[[擒抱]]或单独攻击中造成伤害。详述请查看盔甲部分。甲刺无法被[[卸武]]。
+|source=核心规则书、极限宝具
+}}
+
+{{FAQ|v5748eaic9qw9}}

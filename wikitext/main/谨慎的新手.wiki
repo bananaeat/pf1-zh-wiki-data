@@ -1,0 +1,45 @@
+{{速查导航}}
+{{怪物
+|name=谨慎的新手
+|english_name=Careful Initiate
+|cr=1/2
+|xp=200
+|classline=种族：人类，职业：武僧1
+|alignment=守序中立
+|size=中型
+|type=类人生物
+|subtypes=人类
+|init=+3
+|senses=察觉+6
+|ac=16 接触16 措手12（+3敏捷，+1闪避，+2感知）
+|hp=9(1d8+1)
+|fort=+2
+|ref=+5
+|will=+4
+|speed=30尺
+|melee=徒手攻击+3(1d6+1)或单镰+3(1d6+1)或徒手疾风连击+2/+2(1d6+1)
+|ranged=轻弩+3(1d8/19-20)或手里剑+3(1d2+1)或手里剑疾风连击+2/+2(1d2+1)
+|special_attacks=疾风连击，震慑击(1/日，DC12)
+|tactics=<div class="ml wide"><span class="k">战斗前</span>武僧使用潜行来使敌人措手不及，并在突袭轮使用震慑击</div><div class="ml wide"><span class="k">战斗中</span>如果可能的话武僧不会和复数敌人战斗，并且在进入近战之前更喜欢用手里剑疾风连击</div>
+|str=12
+|dex=16
+|con=10
+|int=13
+|wis=15
+|cha=8
+|bab=+0
+|cmb=+1
+|cmd=17
+|feats=[[战斗反射]] 闪避 精通徒手打击 震慑击 武器娴熟
+|skills=[[特技]]+7 [[知识]]（历史、宗教）+5 察觉+6 察言观色+6 隐匿+7
+|languages=通用语 矮人语
+|combat_gear=治疗轻伤药水 x2 法师护甲药水 x2 魔化武器药水 x2
+|gear=单镰 轻弩与10枝弩矢 手里剑 x20 50gp
+|source=NPC志
+|family=核心职业（NPC志）
+|npc=1
+|lore=
+新手武僧往往急于在战斗中证明自己的勇气，但严格的训练也使他们在失去师父指引时倾向于谨慎行事。
+}}
+
+本页译自《[[NPC志]]》的怪物图鉴 CHM。

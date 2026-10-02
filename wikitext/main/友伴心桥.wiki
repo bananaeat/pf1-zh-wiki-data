@@ -1,0 +1,16 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[友伴心桥 (神话)]]。</small></div>
+{{Spell
+|name=友伴心桥
+|english_name=Companion mind link
+|school=惑控系 (魅惑)
+|tags=影响心灵
+|levels=德鲁伊 3;游侠 3;猎人 3
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=你的动物伙伴
+|duration=1分钟/等级
+|sr=否
+|description=你与你的[[动物伙伴]]之间的联系变得愈发强烈。只要你与你的动物伙伴间拥有视觉线相连，就能够使用心灵感应与其沟通，就如同你们使用相同的语言交流一般。此外，只要你与你的动物伙伴间拥有视觉线相连，就能够使用[[迅捷动作]]（而非原本的[[移动动作]]）逼迫你的动物伙伴，这么做并不需要成功的[[驯养动物]]检定操作动物伙伴。这些检定自动成功。
+|source=极限战斗
+}}

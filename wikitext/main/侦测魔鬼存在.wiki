@@ -1,0 +1,15 @@
+{{Spell
+|name=侦测魔鬼存在
+|english_name=Detect fiendish presence
+|school=预言系
+|levels=术士 0;法师 0;牧师 0;先知 0;吟游诗人 0;女巫 0;魔战士 0;奥能师 0;歌者 0;战斗祭司 0
+|action=标准动作
+|components=语言;姿势
+|range=60尺
+|area=锥形弥漫
+|duration=专注，至多10分钟/等级 (可解消)
+|save=无
+|sr=否
+|description=此法术如同[[侦测邪恶]]，但此法术只能侦测具有邪恶亚种的异界生物，以及由他们的天赋、存在与法术所造成的残留影响。它也能够侦测魔族神祇的牧师与圣武士，这些神祇包括阿斯莫迪斯、大魔鬼、邪魔先锋以及恶魔领主。
+|source=邪恶特务
+}}

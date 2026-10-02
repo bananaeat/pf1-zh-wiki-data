@@ -1,0 +1,10 @@
+{{Feat
+|name=奇美拉大师
+|english_name=Chimeric Master
+|description=你彻底掌控你的变身成动物的能力，让你将你的两个专攻型态合二为一。
+|prerequisites=[[奇美拉行家]]，高等奇美拉拟态职业特性，自然变身职业特性
+|benefit=当你使用自然变身能力变形时，你能获得你的另一个拟态的专攻型态的好处。此额外专攻型态将给予你其正常情况下的所有能力，除了任何天生攻击、新的移动方式、或移动上的加值。当以此方式使用自然变身来获得2个专攻型态时，你不会获得[[奇美拉行家]]给予的次级型态。
+|source=WO
+|source_name=荒野源始
+|source_url=https://pf1chm.pages.dev/topics/zh88d60e6387.htm
+}}

@@ -1,0 +1,47 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=蓝尖广翅鲎
+|english_name=Eurypterid, Bluetip
+|aon=Bluetip Eurypterid
+|cr=5
+|xp=1,600
+|alignment=绝对中立
+|size=大型
+|type=虫类
+|subtypes=水栖
+|init=+7
+|senses=昏暗视觉，颤动感知 30尺；察觉 +1
+|ac=19，接触 12，措手不及 16（+3 敏捷，+7 天生，–1 体型）
+|hp=52（7d8+21）
+|fort=+8
+|ref=+7
+|will=+3
+|immune=心智效果
+|speed=20尺，游泳 60尺
+|melee=2爪抓 +8（1d6+4），针蜇 +8（1d4+4 外加毒素）
+|space=10尺
+|reach=10尺（针蜇 15尺）
+|special_attacks=猛扑
+|str=18
+|dex=17
+|con=16
+|int=–
+|wis=13
+|cha=2
+|bab=+5
+|cmb=+10
+|cmd=23
+|feats=[[精通先攻]]B;[[闪电反射]]B
+|skills=[[游泳]] +12
+|sq=两栖
+|environment=温带或温暖海洋
+|organization=单独或成对
+|treasure=无
+|special_abilities={{怪物能力|毒素|Ex|针蜇—伤口；豁免 强韧 DC 16；频率 1 次/轮，持续 6 轮；效果 1d4 体质；痊愈 连续 2 次豁免。}}
+|source=Pathfinder #37: Souls for Smuggler's Shiv
+|lore=
+有些人称之为海蝎，广翅鲎是一类水生甲壳动物，模糊了它们的陆生近亲与龙虾之间的界线。这些虫类原始而贪婪，体型从相对无害、只有狗那么大的赭色广翅鲎，到真正庞大的喷吐广翅鲎不等。甚至有传言说存在体型更大的野兽，被水手们称为食鲸广翅鲎。无论体型大小，它们都有一个共同点——好斗的性情。广翅鲎会扑向任何可能是食物的东西，而一旦尝到猎物的味道，就会一门心思地追击。虽然它们在开阔的海洋里如鱼得水，大多数广翅鲎也能在陆地上爬行，并且可以无限期地离水生存。与老鼠不同，广翅鲎不会传播疾病，也不会对大多数货物造成多大损害——这些特点促使一些船长尝试在货舱里放养赭色广翅鲎群落来控制鼠患。可惜的是，人们往往能从船员中断了手指的人数异常之多，认出哪些船用了这种办法。
+}}
+
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Bluetip Eurypterid|2=Bluetip Eurypterid}}

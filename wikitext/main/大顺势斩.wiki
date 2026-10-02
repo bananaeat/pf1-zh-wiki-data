@@ -1,0 +1,15 @@
+{{Feat
+|name=大顺势斩
+|english_name=Great Cleave
+|categories=战斗
+|description=你可以在一击中攻击数个邻近的敌人。
+|prerequisites=力量13，[[顺势斩]]，[[猛力攻击]]，基本攻击加值+4。
+|benefit=你可以用一个[[标准动作]]，使用最高BAB对一个近战攻击范围内的敌人进行一次攻击。若命中，则你可以（同样使用最高BAB）继续对临近前一个敌人的敌人进行攻击，该敌人也同样需在你的触及范围内；如此进行下去。你以此能力对每个敌人仅能攻击1次。当你使用此专长时，你在下轮前AC受-2减值。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[精通终势斩]]、[[精通顺势突袭]]（2 个条目）

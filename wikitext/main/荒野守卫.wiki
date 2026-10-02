@@ -1,0 +1,15 @@
+{{消歧义|荒野守卫(游侠变体职业)}}
+{{Feat
+|name=荒野守卫
+|english_name=Guardian of the Wild
+|description=你与荒野的神秘联系提高了你对威胁的反应力。
+|prerequisites=[[荒野适应力]]，精灵。
+|benefit=当你处于[[荒野适应力]]专长中选择的地形时，你的AC获得+2闪避加值。如果你所在的区域可以视作多种地形，这些加值不会叠加；你只能从一种地形中获得该加值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[荒野精魂]]（1 个条目）

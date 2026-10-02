@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=半光护符
+|english_name=Halflight Charm
+|aon=MagicWondrousDisplay.aspx?FinalName=Halflight Charm
+|cat=奇物
+|aura=微弱预言系
+|cl=3
+|slot=无
+|price=2,500 gp
+|description=这枚护身符是一小块水晶，系在一根简单的皮绳末端。水晶内部发出明亮的光，照明效果相当于一支火把。每天1次，护身符的持有者可以紧握它并呼救。这样做会立刻联系上离他最近的三名暮色守卫，并让他们清楚地得知吊坠的位置，如同[[物品定位术]]，距离可达1英里。
+|req=[[制造奇物]]、[[光亮术]]、[[物品定位术]]
+|cost=1,250 gp
+|source=异乡人之城、冒险之路63：庇护之石
+}}

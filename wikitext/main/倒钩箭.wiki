@@ -1,0 +1,10 @@
+{{武器
+|name=倒钩箭
+|english_name=Barbed arrow (20)
+|category=弹药
+|wcat=弹药
+|price=2 gp
+|weight=3磅
+|description=倒钩箭的尖端像一个鱼叉。将倒钩箭系在一段丝绳上再用弓射出时，这支箭的射程增量降低为30尺，但它获得擒抱武器特性。另有供弩使用的倒钩弩矢。
+|source=远程战术工具箱
+}}

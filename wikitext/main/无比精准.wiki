@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=无比精准
+|english_name=Surprise Accuracy
+|type=Ex
+|categories=进攻
+|benefit=野蛮人单次攻击检定获得+1士气加值。此加值每4个野蛮人等级会再+1。使用此[[狂暴之力]]是一个[[迅捷动作]]，且必须在攻击检定之前启用。
+|special=他每次狂暴只能使用1次此能力。
+|source_name=核心规则书
+}}

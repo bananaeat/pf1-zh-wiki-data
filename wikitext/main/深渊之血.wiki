@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=深渊之血
+|english_name=Abyssal Blood
+|type=Su
+|categories=血脉
+|prerequisites=[[野蛮人]]6级，[[次等深渊之血]]
+|benefit=每天一次，当野蛮人进入狂暴状态时，他的体型可以从基本程度上增长一个等级(如同法术[[变巨术]]，不过野蛮人的生物种类并无变化)。
+|source_name=进阶职业指南
+}}

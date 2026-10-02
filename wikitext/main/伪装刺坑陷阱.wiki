@@ -1,0 +1,13 @@
+{{危害
+|name=伪装刺坑陷阱
+|english_name=Camouflaged Spiked Pit Trap
+|kind=陷阱
+|trap_type=机械
+|cr=8
+|perception=DC 25
+|disable=DC 20
+|trigger=位置型
+|reset=手动
+|effect=50尺深坑（5d6点坠落伤害）；钉刺（近战攻击 +15，每个目标1d4根，每根造成1d6+5点伤害）；反射 DC 20 回避；复数目标（10尺见方区域内的所有目标）
+|source=核心规则书
+}}

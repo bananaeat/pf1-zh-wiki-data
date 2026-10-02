@@ -1,0 +1,10 @@
+{{Feat
+|name=复仇之祝
+|english_name=Curse of Vengeance
+|description=你的神祇会诅咒那些伤你性命的家伙
+|prerequisites=可以施放至少一个具有诅咒描述符的法术或类法术能力，信仰卡莉丝翠
+|benefit=每当你陷入[[无助]]或有生物杀死你时，你可以在陷入无助或被杀之前，以一个[[直觉动作]]施放一个具有诅咒描述符的法术或类法术能力。这个法术的施放时间不能长于一个[[标准动作]]，同时必须以造成你无助或杀死你的生物为目标。如果该法术的距离为接触，且攻击者不在你的触及范围内，你可以将其作为射程30尺的远程接触攻击来施放。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[落马击]] 的神话版本。</small></div>
+{{Feat
+|name=落马击
+|english_name=Unseat
+|categories=神话
+|description=你能够使用可怕的冲击力把敌人击落至马下。
+|prerequisites=[[落马击]]
+|benefit=当你成功以[[落马击]]专长使用[[冲撞]]将敌人从他的坐骑上击落时，你每拥有2个阶层，你的敌人就会受到1d6点坠落伤害。减少坠落伤害的物品或能力，比如成功的特技检定，能够减少这次冲击造成的伤害。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

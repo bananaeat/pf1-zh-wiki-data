@@ -1,0 +1,9 @@
+{{Trait
+|name=野性之眼
+|english_name=Eyes of the Wild
+|type=宗教
+|prerequisites=信仰[[苍翠誓约]]
+|description=你花过漫长的时间呆在荒野，所以你十分适应野外的环境。你在自然环境中察觉获得+2背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

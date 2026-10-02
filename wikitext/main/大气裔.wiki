@@ -1,0 +1,9 @@
+{{Trait
+|name=大气裔
+|english_name=Air-Touched
+|type=魔法
+|description=你与气元素亲和度非凡。你对气亚种/子类的生物或攻击获得伤害减免“1/-”。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

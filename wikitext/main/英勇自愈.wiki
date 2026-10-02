@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[英勇自愈 (神话)]]。</small></div>
+{{Feat
+|name=英勇自愈
+|english_name=Heroic Recovery
+|description=你能够摆脱削弱自己的状态。
+|prerequisites=[[顽强]]，[[坚忍]]，基本强韧豁免+4。
+|benefit=每日1次以[[标准动作]]，你能够尝试针对一个正在影响你，并且需要强韧豁免的有害状态或者[[苦难]]，进行一次新的豁免。如果对抗苦难的豁免失败，那么这不会产生任何效果，但是成功的豁免能够用于治愈诸如毒素或者疾病的苦难。你无法使用该专长恢复瞬时效果、不允许豁免的效果以及不需要强韧豁免的效果。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

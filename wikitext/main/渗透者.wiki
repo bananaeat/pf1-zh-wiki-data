@@ -1,0 +1,14 @@
+{{消歧义|渗透者 (消歧义)}}
+{{Feat
+|name=渗透者
+|english_name=Infiltrator
+|categories=故事
+|pfs=否
+|description=你为达成目标而舍弃了真实的身份。
+|prerequisites=你必须采用一个假身份或秘密身份，并与某个敌对组织关联。
+|benefit=每天1次，当你通过一次豁免检定成功抵御一个预言系效果时，你可以得知该预言原本会揭示的信息，并可用一个[[直觉动作]]令该预言返回你设想的、符合你伪装身份的虚假信息。
+|goal=妨害你所渗透的组织，在此过程中击败或策反若干强大敌手。
+|completion_benefit=每当一个法术或类法术能力会揭示关于你的信息时，你可以尝试进行一次意志豁免。若成功，该法术不会揭示任何关于你的信息。你也可以选择让该效果返回你伪造的信息，方式如前所述。
+|source_name=间谍大师手册
+|source_url=https://pf1chm.pages.dev/topics/zh704e55dbf1.htm
+}}

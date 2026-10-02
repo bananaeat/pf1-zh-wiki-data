@@ -1,0 +1,9 @@
+{{Trait
+|name=隐秘信徒(信仰)
+|english_name=Covert Channeler
+|type=信念
+|description=你在光之货车的导师教会了你如何快速的隐藏圣徽。你可以用一个[[迅捷动作]]拔出或收起圣徽。
+|source_name=黑市指南
+|source=BM
+|source_url=https://pf1chm.pages.dev/topics/zh2f0cc841f9.htm
+}}

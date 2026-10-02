@@ -1,0 +1,9 @@
+{{Trait
+|name=凭依者
+|english_name=Possessed
+|type=魔法
+|description=你现在或曾经被其他存在附体，这意外地令你得到了它们的知识。每日1次，你可以在未受训的情况下使用所选种类的知识检定。若你在该技能上曾受训，那么检定获得+2背景加值。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

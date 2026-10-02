@@ -1,0 +1,9 @@
+{{Trait
+|name=剥皮匠
+|english_name=Harvester
+|type=社会
+|description=你受训于从动物身上每一寸都刮出宝来。你的专业(制革)或专业(陷阱)检定获得+1背景加值，并且可以在该技能上未投点数的情况下如已受训般进行检定。此外，你在处理有毒生物时不会有失手中毒的风险。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

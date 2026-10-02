@@ -1,0 +1,9 @@
+{{Trait
+|name=友善
+|english_name=Affable
+|type=社会
+|description=你和蔼可亲，尽可能的结交朋友。在你的路途中不停助人为乐，讲述有趣的故事，在当地酒馆请所有人来一杯。你热情招呼你碰到的人，因此经常受邀参加重要活动和有益的聚会，甚至成了许多家庭的荣誉成员。大家觉得你值得信任，愿意跟你交换信息。你在收集信息的交涉检定上获得+2背景加值，并且只需一半的时间就能完成。此外，交涉和知识(本地)总是你的[[本职技能]]。
+|source_name=社会背景
+|source=CoP
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

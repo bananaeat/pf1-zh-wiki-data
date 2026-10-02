@@ -1,0 +1,15 @@
+{{魔法物品
+|name=骇人巫术胸衣
+|english_name=Corset of Dire Witchcraft
+|aon=MagicWondrousDisplay.aspx?FinalName=Corset of Dire Witchcraft
+|cat=奇物
+|aura=中等防护系
+|cl=6
+|slot=躯体
+|price=22,000 gp
+|weight=1磅
+|description=这件修身的服装用系带、搭扣和纽扣扣紧，并用皮革或骨条加固。骇人巫术胸衣提供+4护甲加值。如果穿戴者是[[女巫]]，她在每天与[[魔宠]]交流以准备法术时，可以增强一个自己所知的[[巫术]]，使该巫术的施法者等级+2，持续24小时。若她脱下该胸衣，或者选择增强另一个巫术，则原增强失效。
+|req=[[制造奇物]]、[[法师护甲]]，制造者必须是[[女巫]]
+|cost=11,000 gp
+|source=极限宝具
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=谨慎读者
+|english_name=Careful Reader
+|description=你在[[探索者协会]]（或者其对手）的训练教会了你在解读失落文明卷轴和铭文时需要非常谨慎。
+|prerequisites=[[语言学]]3级，[[法术辨识]]3级
+|benefit=你在对抗魔法文稿效果时的豁免获得+4加值，这包括[[爆裂符文]]、[[守卫刻文]]、[[迷幻手稿]]、[[死亡徽记]]或类似魔法，以及任何形式的诅咒、疯狂、[[附身]]或类似效果（无论是否为魔法）——只要是因为书籍、铭文、卷轴或者任何由文字所产生。
+|source=OO
+|source_name=异能源始
+|source_url=https://pf1chm.pages.dev/topics/zhca50b6790c.htm
+}}

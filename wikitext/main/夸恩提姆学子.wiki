@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 14），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=夸恩提姆学子
+|english_name=Quantium University Graduate
+|type=地区
+|prerequisites=奈克斯
+|description=你毕业于夸恩提姆一所名副其实的著名奥术学院，严格的课程磨炼了你的心智。你在施放奥术法术时进行的专注检定获得+2背景加值。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Quantium%20University%20Graduate
+}}

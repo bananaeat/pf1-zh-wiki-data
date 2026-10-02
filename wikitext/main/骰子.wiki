@@ -1,0 +1,9 @@
+{{装备
+|name=骰子
+|english_name=Dice
+|cat=娱乐
+|price=1 sp
+|weight=—
+|description=骰子可以有许多种形状，不过最常见的是立方体。
+|source=极限宝具
+}}

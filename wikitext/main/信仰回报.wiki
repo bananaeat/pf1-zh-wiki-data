@@ -1,0 +1,9 @@
+{{Feat
+|name=信仰回报
+|english_name=Reward of the Faithful
+|description=你对神祇的强烈信仰使你能够从神术中获得更多恩惠。
+|prerequisites=知识（宗教）1级，与信仰神祇阵营一致。
+|benefit=如果你成为其他你信仰神祇的信徒所施放神术的唯一目标，则该法术的施法者等级视为比实际高2。此外，每当你因其他你信仰神祇的信徒的[[引导能量]]或治疗法术恢复生命值时，每个骰子额外造成1点治疗。
+|source=DA
+|source_name=神术选集
+}}

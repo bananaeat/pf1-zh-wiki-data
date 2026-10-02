@@ -1,0 +1,9 @@
+{{装备
+|name=雨披
+|english_name=Poncho
+|cat=衣物
+|price=5 sp
+|weight=2磅
+|description=这块圆形的防水织物（通常是羊毛或皮革）中央有一个带罩帽的开口，使它很容易套上或脱下，并能保护你的全身免受雨雪侵袭。
+|source=极限宝具
+}}

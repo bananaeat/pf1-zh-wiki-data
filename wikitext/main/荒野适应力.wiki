@@ -1,0 +1,15 @@
+{{Feat
+|name=荒野适应力
+|english_name=Attuned to the Wild
+|description=你与某种荒野地形有着强烈的神秘纽带。
+|prerequisites=精灵。
+|benefit=从游侠的偏好地形职业能力中选择一类地形（都市除外）。每当你处于所选的地形中时，你的自然恢复速度（通过整晚的休息所恢复的HP以及[[属性伤害]]）翻倍。
+|special=你可以多次选择该专长。但是该效果不会叠加。每次选择该专长时必须选择不同的地形。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[荒野守卫]]、[[荒野术者]]、[[荒野精魂]]（3 个条目）

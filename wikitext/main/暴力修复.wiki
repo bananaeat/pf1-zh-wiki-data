@@ -1,0 +1,11 @@
+{{Feat
+|name=暴力修复
+|english_name=Battering Ram
+|categories=勇毅
+|description=有时候仅需要将火器往硬物上——或者某个生物上——用力猛砸即可解决其堵塞问题
+|prerequisites=[[工艺]]（炼金）3级；勇毅职业特性或者业余枪手；枪手炫技：枪柄打击；枪手炫技：快速清膛
+|benefit=你在使用持用的火器进行枪柄打击炫技时可以忽略其破损状态。若你以该炫技击中某一生物，你能以一个[[直觉动作]]花费1点[[枪手#勇毅|勇毅]]值移除火器上的[[破损]]状态，前提是该破损状态是因为火器哑火而致。
+|source=PotW
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1196.html
+}}

@@ -1,0 +1,16 @@
+{{Spell
+|name=高等阴影转变术
+|english_name=Shadow transmutation, greater
+|school=幻术系 (幽影幻觉)
+|tags=阴影
+|levels=奥能师 9;女巫 9;术士 9;法师 9;萨满 9
+|action=标准动作
+|components=语言;姿势
+|range=见后文
+|target=见后文
+|duration=见后文
+|save=意志，通过则不相信（如有互动）；不定；见后文
+|sr=是
+|description=这个法术如同[[阴影转变术]]一般运作，除了它可以复制[[高等变形术]]而不是[[变形术]]。幻象的攻击和[[特殊能力]]对于不相信的生物造成60%的伤害，非伤害效果对于不相信的生物也有60%几率生效。
+|source=阴影血脉
+}}

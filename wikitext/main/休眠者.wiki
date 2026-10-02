@@ -1,0 +1,11 @@
+{{Feat
+|name=休眠者
+|english_name=Sleeper
+|pfs=否
+|description=找一个土坑躺下，你可以获得更快的恢复速度
+|prerequisites=食尸鬼，[[挖坟者]]
+|benefit=只要你四面都被至少5尺的泥土或石头包围且不进行任何动作，你就可以每10分钟恢复1点生命值。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1404.html
+}}

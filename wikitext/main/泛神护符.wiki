@@ -1,0 +1,15 @@
+{{魔法物品
+|name=泛神护符
+|english_name=Pantheistic Clasp
+|aon=MagicWondrousDisplay.aspx?FinalName=Pantheistic Clasp
+|cat=奇物
+|aura=微弱防护系
+|cl=3
+|slot=颈部
+|price=3,000 gp
+|weight=1磅
+|description=一条精致的黄铜链上挂着一个简单的搭扣。佩戴者可以用[[标准动作]]把一枚圣徽扣在搭扣上。佩戴者对阵营描述符与所扣圣徽所代表神祇的阵营一致的法术和效果，其豁免检定获得+2神圣加值。
+|req=[[制造奇物]]、[[亵渎抵抗]]
+|cost=1,500 gp
+|source=信仰与哲学
+}}

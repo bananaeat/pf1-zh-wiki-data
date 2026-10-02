@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Ruins of Azlant Player's Guide pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=探险老手
+|english_name=Expert Explorer
+|type=战役
+|pfs=否
+|description=抚养你长大的是一群富有冒险精神的学者，或者你就出生在一次探险途中，从未体验过别样的生活。当你对某个地方过于熟悉时，就会变得坐立不安、急躁难耐。你习惯了刺激，对知识的追寻指引着你的人生道路，一路上你也学会了许多与这种生活方式相关的技能。在你接受丰饶冒险公司面试时，他们对你一生中造访过的形形色色的地方印象深刻，并因为你穿越未知领域的本领而选中了你。
+
+在获得此背景特性时选择一项[[知识]]技能。你在该知识技能和[[生存]]检定上获得+1背景加值，并且该知识技能或生存之一是你的本职技能。此外，你将开山刀视为简易武器。
+|source_name=Ruins of Azlant Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Expert%20Explorer
+}}

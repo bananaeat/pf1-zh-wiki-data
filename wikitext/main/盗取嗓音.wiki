@@ -1,0 +1,15 @@
+{{Spell
+|name=盗取嗓音
+|english_name=Steal voice
+|school=死灵系
+|levels=催眠师 2;吟游诗人 2;奥能师 2;女巫 2;异能者 2;术士 2;歌者 2;法师 2;通灵者 2
+|action=标准动作
+|components=语言
+|range=中距
+|target=一名生物
+|duration=永久 （可解消）
+|save=强韧，通过则无效
+|sr=是
+|description=目标的咽喉开始萎缩，获得[[法术荒疫]]·粗哑（见《极限魔法》）。
+|source=极限魔法
+}}

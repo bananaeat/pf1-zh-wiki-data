@@ -1,0 +1,10 @@
+{{Trait
+|name=目盲热忱
+|english_name=Blind Zeal
+|type=宗教
+|prerequisites=信仰[[薇尔迪斯]]
+|description=虽然你目不能视，但薇尔迪斯信徒的训练使你能通过声音与触碰来感知周遭。你无须进行技能检定就能全速移动，且仅会在特技，骑术，[[巧手]]与隐匿检定上承受[[目盲]]带来的-4罚值。此外你获得[[盲斗]]作为[[奖励专长]]。你在得以视物的时候将会失去上述好处，但一旦重新变得目盲的话就会再次获益。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh484c89782e.htm
+}}

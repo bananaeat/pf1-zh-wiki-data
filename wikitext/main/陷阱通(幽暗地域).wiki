@@ -1,0 +1,10 @@
+{{Trait
+|name=陷阱通(幽暗地域)
+|english_name=Trap Savvy
+|type=地区
+|pfs=否
+|prerequisites=幽暗地域
+|description=你在一个危险的地方长大，你经常被设置的陷阱包围，来保护你的巢穴不被入侵者侵犯。有时这些危险是如此的密集，以至于你在隧道中走几尺就会遇到新的死亡方式。你在工艺(陷阱)检定上获得+1的背景加值，对抗陷阱攻击的AC上和陷阱效果的豁免检定时获得+1加值。
+|source_name=格拉里昂的狗头人
+|source_url=https://pf1chm.pages.dev/topics/zh93978f31f4.htm
+}}

@@ -1,0 +1,16 @@
+{{武器
+|name=开山刀
+|english_name=Machete
+|category=武器
+|prof=军用
+|wcat=轻型
+|price=10 gp
+|weight=2磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=19–20/×2
+|type=挥砍
+|groups=轻刃
+|description=单面开刃的这种宽砍刀约有2尺长。大多数用来砍除繁茂的植物，当然也可以作为武器使用。擅长它的角色在使用它时，处于荒野中的生存检定可以获得+1环境加值。
+|source=近战战术工具箱
+}}

@@ -1,0 +1,9 @@
+<noinclude>'''气圣'''（Ki Sage, Su）是任意满足先决条件的职业都能选取的[[:分类:巅峰能力|替代巅峰]]。
+
+</noinclude>{{Source|传奇编年史|Chronicle of Legends|inline}}
+
+20级时，角色的肉身与气的流动取得完美的协调。角色从[[掉链武僧]]的[[绝学]]中习得两种，且可将角色等级视为武僧等级来满足先决条件。此外，角色的气池上限增加4。任何具有气池的职业均可选取该巅峰。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1501.html 原文]）。全部替代巅峰见 [[典范编年史]]。
+
+[[分类:巅峰能力]]</noinclude>

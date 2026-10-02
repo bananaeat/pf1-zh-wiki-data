@@ -1,0 +1,13 @@
+{{Feat
+|name=无极之道
+|english_name=Ascetic Strike
+|categories=战斗
+|pfs=否
+|description=（[[战斗专长]]）
+你的武器现在超越了其本身的限制，成为了致命的杀器。
+|prerequisites=[[无极式]]，[[无极型]]，对所选武器拥有武器专攻专长，基础攻击加值+7或武僧等级+7
+|benefit=你可以使用比你角色等级低4级（最低为1级）的武僧的徒手打击伤害，来取代所选武器的基础伤害，本能力的其他方面与[[拳师]]的殴斗大师职业能力相同。除此之外，你无需拥有武僧的心如止水职业能力即可选择[[修道传承]]UC专长。
+|source=WMH
+|source_name=武器大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_370.html
+}}

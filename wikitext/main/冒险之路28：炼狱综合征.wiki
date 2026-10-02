@@ -1,0 +1,40 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #28: The Infernal Syndrome
+|authors=Clinton Boomer、James Jacobs
+|pages=96
+}}
+
+{{书页/简介|head=地狱大乱|1=
+在西冠城（Westcrown）最受尊崇的权力殿堂深处，囚禁着一个深不可测的邪恶——一个超乎理性与疯狂的恐怖，被一位失落大法师的魔法锁住、折磨至残破。多年来，这个威胁一直郁积着怒火，不断试探牢笼的栏杆，积蓄仇恨，谋划复仇。如今，一场致命阴谋的运作削弱了这具梦魇的锁链，在越扩越大的裂缝中，被诅咒者的烈焰升起，西冠城将被地狱之火吞噬的预兆随之而来。PC 们能否潜入一个疯子的迷宫，终结一桩连传奇英雄也难以对付的邪恶？又是什么样的污秽之物，竟会企图拿整座西冠城的灵魂作赌注，毁掉这座城市？
+
+本册《冒险之路》延续「盗贼议会」冒险之路，内容包括：
+
+* 《炼狱综合征》，一部面向 7 级角色的开拓者冒险，作者 Clinton Boomer 和 James Jacobs。
+* [[地狱骑士团]]——切利亚斯铁甲裹身的审判者——的城塞与秘密，作者 F. Wesley Schneider。
+* 洞察撼动灵魂的邪魔附身世界，作者 Adam Daigle。
+* 探索者 Varian Jeggare 在「探索者日志」中的谋杀与谜案，作者 Dave Gross。
+* 五种新怪物，作者 F. Wesley Schneider 和 Hank Woon。
+}}
+
+'''冒险之路28：炼狱综合征'''（''Pathfinder #28: The Infernal Syndrome''）是[[冒险之路]]「盗贼议会」系列的第四部冒险，由 Clinton Boomer 和 James Jacobs 撰写，配套文章出自 Adam Daigle、F. Wesley Schneider 和 Hank Woon，小说出自 Dave Gross，于 2010 年 1 月 13 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+炼狱综合征 @ 6
+落入邪魔之手 @ 56
+地狱骑士之道 @ 64
+探索者日志：地狱之卒（4／6） @ 74
+怪物图鉴 @ 88
+预设角色 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=The Infernal Syndrome
+|releases=PDF¦PZO9028E¦2010-01¦；Softcover¦PZO9028¦2010-01¦978-1-60125-198-5
+}}
+
+[[分类:书目]]

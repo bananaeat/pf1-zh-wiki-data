@@ -1,0 +1,9 @@
+{{Trait
+|name=数理通
+|english_name=Mathematical Prodigy
+|type=魔法
+|description=数学这门学科对你而言很轻松，而你也常常能“看见”物质和魔法世界中的数学本质。你的知识(奥秘)和知识(工程)检定获得+1加值，并且总能将二者之一(自行选择)视为你的[[本职技能]]。
+|source_name=魔法背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

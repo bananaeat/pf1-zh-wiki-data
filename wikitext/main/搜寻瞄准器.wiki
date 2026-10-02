@@ -1,0 +1,15 @@
+{{魔法物品
+|name=搜寻瞄准器
+|english_name=Seeker's Sight
+|aon=MagicWondrousDisplay.aspx?FinalName=Seeker's Sight
+|cat=奇物
+|aura=中等预言系
+|cl=8
+|slot=无
+|price=12,000 gp
+|weight=1磅
+|description=这个瞄准镜可以安装在一件双手火器上。安装之后，瞄准镜成为该武器的一部分，不过可以用一个全回合动作把它从武器上拆下。使用装有此瞄准镜的火器的持枪者，可以选择花费一个全回合动作，来定位视线范围内的一个[[隐形]]生物，或者进行一次射击，该射击无视她知道位于该区域内的某个生物的隐形。
+|req=[[制造奇物]]、[[真知术]]
+|cost=6,000 gp
+|source=极限宝具
+}}

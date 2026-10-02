@@ -1,0 +1,10 @@
+{{Feat
+|name=锁链熟稔
+|english_name=Chain Mastery
+|categories=战斗
+|description=你轻易就能让手中的刺链化为致命凶器。
+|prerequisites=敏捷15，擅长异种武器（刺链）
+|benefit=你在所有方面都将刺链视为单手军用武器。你依然可以将刺链作为双手武器来持用，且若你这么做，你在用你的刺链对敌人进行摔绊或卸武的战技检定上获得+2加值。
+|source_name=永罪之书
+|source_url=https://pf1chm.pages.dev/topics/zh952dc99db5.htm
+}}

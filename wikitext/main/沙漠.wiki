@@ -1,0 +1,7 @@
+{{物品
+|name=沙漠
+|english_name=The Desert
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。此牌允许抽牌者一次性瞬间传送到同一位面的任一地点，可以携带10个同伴和2000磅物品。抽牌者必须准确知道其目的地，比如去过的地方或拥有地图。但不能是模糊的描述如“宝藏最丰富的地城”或“失落的都市Ird”。此种传送方式无视传送屏障或其他类似魔法效果。抽牌者可以决定何时使用该能力，但仅限一次。
+}}

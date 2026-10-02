@@ -1,0 +1,14 @@
+{{Feat
+|name=海豚流
+|english_name=Dolphin Style
+|categories=战斗;流派
+|description=你像一只海豚一样战斗，将你的敌人困在一起，这让你更容易干掉他们。
+|prerequisites=[[精通徒手打击]]，[[游泳]]3级，基本攻击加值+3或者武僧3级
+|benefit=只要你没有[[夹击]]某个生物，且它至少邻接两个它的其他盟友，你对它的近战攻击骰就获得+1加值。除此之外，你的近战攻击忽略任何来自协助他人动作的AC加值。
+|source_name=水下冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1030.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[海豚环杀]]、[[海豚突进]]（2 个条目）

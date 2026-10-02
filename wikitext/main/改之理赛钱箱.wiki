@@ -1,0 +1,14 @@
+{{魔法物品
+|name=改之理赛钱箱
+|english_name=Pyxes of Redirected Focus
+|aon=MagicWondrousDisplay.aspx?FinalName=Pyxes of Redirected Focus
+|cat=奇物
+|aura=中等变化系
+|cl=9
+|slot=无
+|price=1,000 gp
+|description=这个圆形的金属容器刚好能装下里面那枚钱币大小的木制代币。代币的每一面都刻有不同的祈祷文。每天一次，牧师（或其他拥有牧师领域的职业）可以激活这个赛钱箱，选择一个她已准备的领域法术，把它换成她另一个领域中同一环位的领域法术。例如，拥有[[火领域]]和幸运领域的牧师可以把已准备的1环领域法术[[燃烧之手]]换成[[克敌机先]]。对没有领域法术或只有一个领域的生物，赛钱箱没有效果。
+|req=[[制造奇物]]、[[祈祷术]]
+|cost=500 gp
+|source=极限宝具
+}}

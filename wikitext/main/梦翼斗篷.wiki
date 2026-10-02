@@ -1,0 +1,15 @@
+{{魔法物品
+|name=梦翼斗篷
+|english_name=Dreamwing Cape
+|aon=MagicWondrousDisplay.aspx?FinalName=Dreamwing Cape
+|cat=奇物
+|aura=中等咒法系
+|cl=7
+|slot=肩部
+|price=17,500 gp
+|weight=1磅
+|description=这件及膝斗篷上装饰着蝴蝶、飞蛾和星辰的图案。每天一次，穿戴者可以说出一个命令字，使斗篷化作一团蝴蝶或飞蛾。其作用如同[[蜂群斗篷]]，只是这团虫群不造成毒素伤害，并且对[[虚体]]生物造成全额伤害。此外，穿戴者每天可以使用一次[[闪光尘]]。
+|req=[[制造奇物]]、[[蜂群斗篷]]、[[闪光尘]]
+|cost=8,750 gp
+|source=内海诸神
+}}

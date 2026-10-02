@@ -1,0 +1,9 @@
+{{Trait
+|name=惊心冒险
+|english_name=Thrill-Seeker
+|type=宗教
+|prerequisites=信仰[[黛丝娜]]
+|description=[[黛丝娜]]不但让你热爱冒险，也祝福你能幸运的在危险中脱身而出。每天一次，你的特技检定可以双投取高。你在投骰子前必须声明。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

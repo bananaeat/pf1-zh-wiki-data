@@ -1,0 +1,14 @@
+{{魔法物品
+|name=破幻眼镜
+|english_name=Lenses of Figment Piercing
+|aon=MagicWondrousDisplay.aspx?FinalName=Lenses of Figment Piercing
+|cat=奇物
+|aura=微弱预言系
+|cl=3
+|slot=眼部
+|price=12,000 gp
+|description=当穿戴者第一次看到带有视觉成分的虚假幻觉子学派幻术效果，而该虚假幻觉允许豁免时，她可以立刻进行该幻术所允许的任何豁免检定来识破影像是幻觉，而不必等到与之互动之后。这对其他子学派的幻术，以及本来就不允许豁免的幻术没有效果。如果穿戴者未能不相信该幻术，之后又以通常符合不相信豁免资格的方式与之互动，她在这次豁免检定上获得+4表现加值。
+|req=[[制造奇物]]、[[识破隐形]]
+|cost=6,000 gp
+|source=极限宝具
+}}

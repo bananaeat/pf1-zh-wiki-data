@@ -1,0 +1,14 @@
+{{Feat
+|name=天使之翼
+|english_name=Angel Wings
+|description=你背后生出一双羽翼。
+|prerequisites=[[天使之血]]，[[神裔]]，角色等级10。
+|benefit=你获得一双闪亮的羽翼，这将给予你身着轻甲或轻载时的30尺飞行（机动性普通），中、重载或身着中、重甲时的20尺飞行（机动性较差）。飞行将成为你的[[本职技能]]。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[金属之翼]]（1 个条目）

@@ -1,0 +1,10 @@
+{{Trait
+|name=强迫症
+|english_name=Sense of Order
+|type=宗教
+|prerequisites=[[半身人]]，信仰[[阿巴达尔]]
+|description=你能察觉最小的改变，并且为之不爽，这使你顺理成章地成为阿巴达尔的信徒。你用于确定某地自上次访问之后是否有所改变的察觉检定获得+3背景加值。
+|source_name=宗教背景
+|source=HoG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=快速研习
+|english_name=Quick Study
+|categories=战斗
+|description=你可以学得很快，但是并不能牢靠地记忆住如此习得的技巧。
+|prerequisites=[[智力]] 13，英勇+3职业能力，战士等级10级
+|benefit=每日1次，你能够与他人进行训练，以此来获得对方拥有、但你并不具备的1个战斗专长。你必须和他一同训练8小时，而且必须满足以此方式获取的专长之先决条件。你会获得上述专长，持续至你再次使用本专长学习其他专长为止。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

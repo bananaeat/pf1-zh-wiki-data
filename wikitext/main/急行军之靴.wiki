@@ -1,0 +1,15 @@
+{{魔法物品
+|name=急行军之靴
+|english_name=Boots of the Enduring March
+|aon=MagicWondrousDisplay.aspx?FinalName=Boots of the Enduring March
+|cat=奇物
+|aura=微弱咒法系
+|cl=2
+|slot=脚部
+|price=1,500 gp
+|weight=2磅
+|description=这双风尘仆仆的靴子由结实的棕色皮革制成，让穿戴者能够长途跋涉而不觉疲惫。进行强行军（《核心规则书》171页）时，8小时之后每多行军1小时，穿戴者只需进行一次[[体质]]检定（DC 10，每多1小时+1），而不必进行通常的检定。此外，如果穿戴者检定失败，她只受到1d4点[[非致命伤害]]，并且第一次以这种方式受到非致命伤害时不会[[疲乏]]。
+|req=[[制造奇物]]、[[坚忍]]
+|cost=750 gp
+|source=极限宝具
+}}

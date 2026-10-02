@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=赫兹里恩的法术书
+|english_name=Hezzilreen's Spellbook
+|aon=MagicWondrousDisplay.aspx?FinalName=Hezzilreen's Spellbook
+|cat=奇物
+|aura=中等塑能系
+|cl=11
+|slot=无
+|price=8,000 gp
+|weight=2磅
+|description=写入这本书的每一道法术都会变成一个[[高等守卫刻文]]（DC 19，法术刻文），其中蕴含所记录的那道法术。当未经授权的人阅读某道法术时，该刻文会对他触发。这会毁掉写有该法术的书页，但书的其余部分不受损害。含有无害法术的书页，以及无法附着在刻文上的法术所在的书页，不受影响。
+|req=[[制造奇物]]、[[抹消术]]、[[高等守卫刻文]]，制造者必须是[[狗头人]]
+|cost=4,000 gp
+|source=格拉利昂的狗头人
+}}

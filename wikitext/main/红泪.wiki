@@ -1,0 +1,12 @@
+{{危害
+|name=红泪
+|english_name=Red tears
+|kind=毒药
+|type=伤口
+|save=强韧 DC 15
+|frequency=1次/轮，持续10轮
+|effect=1d6点伤害。免疫流血效果的生物对此伤害免疫
+|cure=1次豁免成功
+|price=50 gp
+|source=阴招战术工具箱
+}}

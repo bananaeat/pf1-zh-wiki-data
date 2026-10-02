@@ -1,0 +1,14 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[多重射击 (神话)]]。</small></div>
+{{Feat
+|name=多重射击
+|english_name=Manyshot
+|categories=战斗
+|description=你可对一个目标同时发射数箭。
+|prerequisites=敏捷17，[[近距射击]]，[[快速射击]]，基本攻击加值+6。
+|benefit=当以弓箭做出[[全力攻击]]动作时，你的第一击射出两支箭。若攻击检定成功，则两支箭均命中。基于精准攻击的伤害（例如偷袭）和重击伤害在该次攻击中仅计算一次。使用[[复合长弓]]时的力量修正，以及其他伤害加值例如游侠的【宿敌】加值，均在每只箭上正常生效。对抗每箭的伤害减免与其他抗力都要分别计算。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+{{FAQ|v5748eaic9qfz}}

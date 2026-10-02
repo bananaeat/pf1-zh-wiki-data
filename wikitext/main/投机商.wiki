@@ -1,0 +1,9 @@
+{{Trait
+|name=投机商
+|english_name=Business Venturer
+|type=种族
+|prerequisites=[[鼠族]]
+|description=你的生意让你走遍了格拉利昂，比大多数鼠族都见多识广。你在[[估价]]，知识（本地）和专业（商人）检定上获得+1背景加值，并且你可以将以上三种技能选一技能视为本职技能。
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_451.html
+}}

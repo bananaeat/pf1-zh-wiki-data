@@ -1,0 +1,18 @@
+{{Spell
+|name=手舞足蹈
+|english_name=Calamitous Flailing
+|school=死灵系
+|tags=诅咒
+|levels=催眠师 3;吟游诗人 3;唤魂师 3;女巫 3;歌者 3;先知 4;奥能师 4;战斗祭司 4;术士 4;法师 4;牧师 4
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一个生物
+|duration=1分钟/等级 (可解消)
+|save=意志，通过则无效
+|sr=是
+|description=你使受术者的攻击疯狂地失控，令他自身与周遭的人陷入危险。受术者在所有攻击骰上获得25%失手率。如果某一次攻击因为此法术效果而失手，受术者转而攻击一位盟友；如果在最初攻击的范围内没有他的盟友，他会转而攻击自己。用最初攻击的攻击骰对抗新目标的[[防御等级|AC]]，来判定这次攻击是否命中。这是一个诅咒效果。
+|source=巫团血脉
+}}
+
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_1177.html 原文]）。</small>

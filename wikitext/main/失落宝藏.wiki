@@ -1,0 +1,34 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Lost Treasures
+|authors=Judy Bauer、Savannah Broadway、John Compton、Ron Lundeen、Levi Miles、Justin Riddler、F. Wesley Schneider、Mike Shel、Christina Stiles、James L. Sutter、Jerome Virnich
+|pages=64
+}}
+
+{{书页/简介|head=失而复得！|1=
+寻宝不只是一份工作。对最狂热的冒险者来说，值得他们赌上性命与肢体的，是终于把传说之物握在手中的那份激动，或是勘破某件神秘魔法物品功用时灵光一闪的顿悟。从苍白少女（Pale Maiden）与[[叛徒之刃]]这样的强大魔法武器，到北境灯塔（Beacon of the North）与女巫市集硬币（Witchmarket Coin）这样能把你送往遥远未知领域的物品，最好的宝物总能俘获冒险者的想象。现在，深入巨龙的宝库，亲自发现开拓者战役设定中一些最奇异、最抢手的物品吧。
+
+书中你将找到数十件奇妙的宝物，以及把它们融入任何开拓者角色扮演游戏冒险的工具，包括它们安眠其中的宝库。无论你是在寻找可作为新战役种子的物品，还是只想用新战利品给玩家一个惊喜，《失落宝藏》都能满足，包括：
+
+* 40 多件传奇的魔法与凡俗宝物，从被称为[[星仪]]的位面罗盘，到能操控恐龙的太古之佐伊克（Zoic of the Primeval）。每件物品都附有游戏数据、完整的历史，以及帮助你把它放入进行中的战役、或让它的发现成为新冒险基石的剧情引子。
+* 关于十几处隐藏在内海地区及更远之处的传奇宝藏的信息。
+* 可轻松套用于任何物品、守卫或宝库的新诅咒，为哪怕最平凡的发现也增添凶险的可能。
+* 拥有独特防御与能力的魔法宝箱，其怪异与珍贵往往不亚于其中所藏的奇物。
+}}
+
+'''失落宝藏'''（''Lost Treasures''）是开拓者角色扮演游戏「战役设定」系列的一本辅助书，由 Judy Bauer、Savannah Broadway、John Compton、Ron Lundeen 等 11 位作者撰写，于 2014 年 12 月 17 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+探索者野外报告 @ 2
+寻宝 @ 4
+失落宝藏 @ 14
+}}
+
+{{书页尾
+|pfw=Lost Treasures
+|releases=PDF¦PZO9275E¦2014-12¦；Softcover¦PZO9275¦2014-12¦978-1-60125-703-1
+}}
+
+[[分类:书目]]

@@ -1,0 +1,12 @@
+{{Feat
+|name=宗师极意
+|english_name=Masterful Display
+|categories=战斗;演武
+|pfs=否
+|description=你做出了招牌式的胜利姿态，观众为之狂野。
+|prerequisites=[[炫目技巧]]，任意两项演武专长。
+|benefit=任选两项你所拥有的演武专长。当你进行演武检定时，可以同时获得这两项专长的效果，不过演武检定本身获得的加值还是只有+2。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

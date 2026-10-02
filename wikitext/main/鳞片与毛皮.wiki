@@ -1,0 +1,12 @@
+{{Feat
+|name=鳞片与毛皮
+|english_name=Scale and Skin
+|pfs=否
+|description=当你被魔法改变时，你的毛皮同样变得坚韧。
+|prerequisites=[[体质]] 13
+|benefit=每当一个变化系法术或者类法术能力影响你，你的天生防御加值+1。如果你在AC上没有天防加值，计算该专长前将你的天防加值视为0。如果该效果的施法者等级至少有10级，该专长给予天防上的加值增加 2。
+|notes=译注：原文为 whenever（每当），并不表示该加值可以自身叠加。
+|source=MagicTT
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_566.html
+}}

@@ -1,0 +1,117 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=GameMastery Guide
+|authors=F. Wesley Schneider、Cam Banks、Wolfgang Baur、Jason Bulmahn、Jim Butler、Eric Cagle、Graeme Davis、Adam Daigle、Joshua J. Frost、James Jacobs、Kenneth Hite、Steve Kenson、Robin D. Laws、Tito Leati、Robert G. McCreary、Hal Maclean、Colin McComb、Amber E. Scott、Sean K Reynolds、Russ Taylor、Penny Williams、Skip Williams、Teeuwynn Woodruff、Jason Nelson、David Noonan、Richard Pett、Rich Redman、Doug Seacat、Mike Selinker、Lisa Stevens、James L. Sutter
+|pages=320
+}}
+
+{{书页/简介|head=统御你的世界！|1=
+玩家或许是开拓者角色扮演游戏里的英雄，但整个世界都压在游戏主持人的肩上。幸好，开拓者 RPG 《游戏主持人指南》就在这里支持你。这本书塞满了宝贵的提示与信息，涵盖把你的游戏带上新台阶所需的一切，从主持一场游戏的具体技巧，到构筑引人入胜的世界与故事的深层奥秘。无论你已经主持过一场游戏还是一千场，这本书都有大量秘诀，让你更敏锐、更迅速、更有创意，同时始终领先玩家一步。
+
+这本 320 页的开拓者 RPG 《游戏主持人指南》是开拓者 RPG 《[[核心规则书]]》必不可少的配套卷册。这款富有想象力的桌面游戏建立在十多年的系统发展和有 5 万多名玩家参与的公开测试之上，造就了一种前沿的 RPG 体验，把有史以来最畅销的奇幻规则带入新千年。
+
+开拓者 RPG 《游戏主持人指南》包括：
+
+* 筹备并主持更出色游戏的提示与技巧，新手 GM 和身经百战的老手都适用。
+* 创建战役世界、城市、宇宙观、封建体制和异次元空间的分步指引。
+* 难缠的玩家类型，以及如何从容应对。
+* 闹鬼、追逐、算命、赌博游戏、谜团和疯狂等子系统的新规则。
+* 用图表生成从有趣的 NPC、奇妙的宝藏到任何地形的即时遭遇。
+* 角色死亡、破坏游戏的规则、过强的队伍、单人战役和脱轨的剧情等进阶话题。
+* 数十种常见冒险情境的 NPC 数据范例，如邪教徒、卫兵、女招待和海盗。
+
+还有更多更多！
+}}
+
+'''游戏主持人指南'''（''GameMastery Guide''，全名 ''Pathfinder Roleplaying Game GameMastery Guide''）是一本开拓者角色扮演游戏规则书，由 F. Wesley Schneider 领衔，Cam Banks、Wolfgang Baur 等 31 位作者撰写，于 2010 年 6 月发行。
+
+== 目录 ==
+{{书页/目录|1=
+导言 @ 4
+第1章：[[开始]] @ 6
+- GM 的职责
+- 基调与成熟度
+- GM 作为主人
+- 家规
+- 筹备主持游戏
+- 编写战役指南
+第2章：[[运作游戏]] @ 22
+- 如何主持游戏
+- 主持的艺术
+- 主持的科学
+- GM 须知
+- GM 工具
+第3章：[[玩家角色]] @ 56
+- 初始角色
+- 新玩家
+- 聚会之魂
+- 玩家互动
+第4章：[[非玩家角色]] @ 78
+- 角色阵容
+- 让 NPC 与众不同
+- NPC 的生活
+- NPC 恩惠
+- 反派
+- NPC 创作工具箱
+第5章：[[奖励]] @ 100
+- 奖励的作用
+- 初始宝藏
+- 什么是奖励？
+- PC 掌控奖励
+- 随机物品生成器
+第6章：[[创造世界]] @ 138
+- 构建世界
+- 细化你的世界
+- 地理
+- 文化考量
+- 原始社会
+- 封建社会
+- 乡村/农耕社会
+- 国际都会社会
+- 其他社会
+- 技术
+- 时间
+- 宇宙
+- [[位面(核心规则)|位面]]
+- 平行世界
+第7章：冒险 @ 170
+- 冒险要素
+- [[地下城]]
+- [[位面]]
+- [[酒馆]]
+- 城市
+- 水域
+- [[野外]]
+第8章：进阶话题 @ 228
+- [[定制你的游戏]]
+- [[追逐]]
+- [[灾难]]
+- [[药物与成瘾]]
+- [[算命]]
+- [[赌博与运气游戏]]
+- [[作祟]]
+- [[险境]]
+- [[谜团与调查]]
+- [[谜题与谜语]]
+- [[理智与疯狂]]
+第9章：NPC 图鉴 @ 252
+- NPC 图鉴
+附录 @ 310
+- 推荐阅读
+- 战役记录表
+- 定居点记录表
+- NPC 记录表
+- 规则速查表
+索引 @ 316
+- 表格索引
+- NPC 索引
+- 开放游戏许可证
+}}
+
+{{书页尾
+|pfw=GameMastery Guide (First Edition)
+|releases=Hardcover¦PZO1114¦2010-06¦；PDF¦PZO1114E¦2010-06¦；Softcover (Pocket Edition)¦PZO1114-PE¦2017-05¦978-1-60125-949-3
+}}
+
+[[分类:书目]]

@@ -1,0 +1,11 @@
+{{Feat
+|name=迅捷泳者
+|english_name=Swift Swimmer
+|pfs=否
+|description=你比同族中的其他人游得更快。
+|prerequisites=蜥蜴人，游泳速度
+|benefit=你的游泳速度增加15尺。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1409.html
+}}

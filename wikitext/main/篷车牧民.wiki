@@ -1,0 +1,10 @@
+{{Trait
+|name=篷车牧民
+|english_name=Caravan Nomad
+|type=地区
+|prerequisites=瓦瑞西亚本地的狐妖
+|description=你的家族在瓦瑞西亚的广阔大道上生活了无数世代，扮演着游牧的瓦瑞西安人。你在表演和[[唬骗]]的检定获得+1背景加值，而且其中一个技能成为你的[[本职技能]]。
+|source_name=野兽血脉
+|source=BotB
+|source_url=https://pf1chm.pages.dev/topics/zh451d33eaa9.htm
+}}

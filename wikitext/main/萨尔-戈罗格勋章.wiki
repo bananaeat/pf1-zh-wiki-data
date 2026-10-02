@@ -1,0 +1,13 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=萨尔-戈罗格勋章
+|english_name=Medalion of Sar-Gorog
+|aon=MagicWondrousDisplay.aspx?FinalName=Medalion of Sar-Gorog
+|cat=奇物
+|aura=强烈［邪恶］
+|cl=—
+|slot=颈部
+|price=7,500 gp
+|description=这件[[健康护符]]只对在过去一周内至少吞食过1磅类人生物血肉的穿戴者起效。
+|source=天堂降临
+}}

@@ -1,0 +1,12 @@
+{{Feat
+|name=神力喷涌
+|english_name=Maximize Surge
+|categories=神话
+|description=在关键时刻，你能够燃烧自身的神话力量以确保获得成功。
+|prerequisites=神话阶层6阶
+|benefit=每日1次，当你使用神力涌动时，你能够花费2次神话之力，以此来使你的神力涌动加骰好像掷出最大结果一般。
+|special=你能够多次选取该专长。每当你这么做时，便能增加1次该专长的每日使用次数。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

@@ -1,0 +1,9 @@
+{{装备
+|name=粘土
+|english_name=Clay
+|cat=冒险装备
+|price=1 sp
+|weight=1磅
+|description=这种粘土被装在水密容器内出售以保持柔软，阳光、烘烤或者任何热源都能使它变硬。
+|source=极限宝具
+}}

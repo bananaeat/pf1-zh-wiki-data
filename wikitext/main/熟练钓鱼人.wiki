@@ -1,0 +1,44 @@
+{{速查导航}}
+{{怪物
+|name=熟练钓鱼人
+|english_name=Accomplished Angler
+|cr=2
+|xp=600
+|classline=半身人平民 4
+|alignment=混乱中立
+|size=小型
+|type=类人生物
+|subtypes=半身人
+|init=+3
+|senses=察觉+10
+|ac=14，接触 14，措手不及 11（+3敏捷，+1体型）
+|hp=10(4d6-4)
+|fort=+1
+|ref=+5
+|will=+3；+2对抗恐惧
+|speed=20尺
+|melee=鱼竿-3（1d4-2）
+|ranged=投石索+6（1d3-2）
+|tactics=<div class="ml wide"><span class="k">战斗中</span>这个平民用她的投石索作战，并尝试跑到安全的地方。</div>
+|str=6
+|dex=16
+|con=9
+|int=10
+|wis=12
+|cha=13
+|bab=+2
+|cmb=-1
+|cmd=12
+|feats=近程射击;[[技能专攻]]（察觉）
+|skills=[[特技]]动作+5（跳跃时为+1）;[[攀爬]]+0;[[工艺|手艺]]（烹饪）+6;[[知识]]（地理、本地、自然）+2;[[察觉]]+10;[[专业]]（渔夫）+6;[[生存]]+2;[[游泳]]+2
+|languages=通用语;半身人语
+|combat_gear=治疗轻伤药水
+|gear=投石索（10发弹药）;渔网;不灭明焰;精制品工匠工具（钓鱼）;1480gp
+|source=NPC志
+|family=NPC职业（NPC志）
+|npc=1
+|lore=
+一名熟练钓鱼人以她能沉稳地应对生活中的考验而自豪。
+}}
+
+本页译自《[[NPC志]]》的怪物图鉴 CHM。

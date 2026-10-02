@@ -1,0 +1,12 @@
+{{Feat
+|name=上下合围
+|english_name=Blades Above and Below
+|categories=战斗;团队
+|description=你自上方进攻，盟友自下方进攻，让敌人无从闪避你们的攻击。
+|prerequisites=基本攻击加值+6。
+|benefit=当你与你的盟友同时拥有该[[团队专长]]，并同时威胁一个敌人时。你们都视为同时[[夹击]]该敌人，不论你们实际所处的位置。为了获得这一好处，你和你的盟友必须是不同大小的体型，且该敌人的体型大小必须与你或者与你夹击的盟友之一相同。
+|extra=本条翻译致谢 梦子。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

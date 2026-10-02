@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|格拉利昂的英雄|Heroes of Golarion}}
+'''发条心脏'''（Clockwork Heart, Su）是[[操念使]]的[[原力]]。
+
+元素：土；类别：通用（Su）；等级：3；超载：0
+
+前置：[[轰钢]]
+
+你透过自己对金属的掌控力为自己的身体添加了发条装置。只要这些发条组件处于驱动状态（参见发条亚种特性），你便获得[[精通先攻]]和[[闪电反射]]专长的好处。
+
+译注：发条驱动（Winding, Ex）——发条生物必须通过特殊的发条钥匙驱动。一般而言，上足发条可以活动的时间等于每 HD 1 天，但驱动时间可以被延长或缩短。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Clockwork Heart|2=Clockwork Heart}}
+
+[[分类:原力]]

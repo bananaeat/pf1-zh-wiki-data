@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Elements pg. 19），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=飞艇船长
+|english_name=Airship Captain
+|type=地区
+|prerequisites=气元素位面
+|description=你在气元素位面驾驶飞艇多年，躲避愤怒的魔蝠，保护乘客免遭反复无常的元素生物侵害，由此学会了如何娴熟地指挥你的船，也学会了如何在最猛烈的位面风暴中稳住自己。在具有主观指向重力的位面中，你为移动而进行的感知检定获得+2背景加值（见《游戏主持人指南》中的位面规则）；你的驾驶检定获得+2背景加值（见《极限战斗》中的载具规则）。
+|source_name=元素血脉
+|source=BotE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Airship%20Captain
+}}

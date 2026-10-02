@@ -1,0 +1,9 @@
+{{装备
+|name=漂浮装置
+|english_name=Flotation device
+|cat=工具
+|price=1 gp
+|weight=2磅
+|description=漂浮装置通常是将动物膀胱充气后用沥青密封制成，手持时可为游泳检定提供+1环境加值。
+|source=冒险者的军械库
+}}

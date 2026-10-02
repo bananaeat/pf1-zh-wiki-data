@@ -1,0 +1,12 @@
+{{Feat
+|name=巧妙闪躲
+|english_name=Artful Dodge
+|categories=战斗
+|description=你熟练于人数上处于劣势时的避战方式。
+|prerequisites=[[智力]] 13
+|benefit=若你是唯一一个威胁目标的单位，在对抗该目标时你的AC获得+1闪避加值。
+|special=在计算满足先决条件时，巧妙闪躲专长可以视为闪避专长。你可以用智力而非敏捷来满足需要最低敏捷作为先决条件的专长。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}

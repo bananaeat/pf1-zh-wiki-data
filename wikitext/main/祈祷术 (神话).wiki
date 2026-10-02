@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[祈祷术]] 的神话版本。</small></div>
+{{Spell
+|name=祈祷术
+|english_name=Prayer
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=先知 3;圣武士 3;审判者 3;战斗祭司 3;牧师 3
+|description=法术的幸运加值增加至+2点，而且敌人的减值增加至-2点。当你施放该法术时，受影响的盟友会受到治疗，而且受影响的敌人会受到伤害，数值均为你的阶层的两倍。
+|source=神话冒险
+}}
+[[分类:神话法术]]

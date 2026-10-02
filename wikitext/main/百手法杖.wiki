@@ -1,0 +1,25 @@
+{{魔法物品
+|name=百手法杖
+|english_name=Staff of One Hundred Hands
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of One Hundred Hands
+|cat=法杖
+|aura=强烈塑能系
+|cl=17
+|slot=无
+|price=180,200 gp
+|weight=5磅
+|description=这根法杖被雕成数十只紧抓不放、扭曲变形的手的形状，看起来整根由一整块透明水晶雕成。握在手中时，构成法杖的这些手会变形，变得像持有者的手套或手。
+
+该法杖可以使用以下法术：
+
+* [[飞击掌]]（1 发）
+* [[护身掌]]（1 发）
+* [[金刚拳]]（2 发）
+* [[擒拿掌]]（2 发）
+* [[粉碎掌]]（3 发）
+
+该法杖还允许持有者随意使用[[法师之手]]。
+|req=[[制造法杖]]、[[金刚拳]]、[[粉碎掌]]、[[飞击掌]]、[[擒拿掌]]、[[护身掌]]、[[法师之手]]
+|cost=90,100 gp
+|source=极限宝具
+}}

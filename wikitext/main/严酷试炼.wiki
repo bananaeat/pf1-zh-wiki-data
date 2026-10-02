@@ -1,0 +1,24 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=The Gauntlet
+|authors=Jason Bulmahn、Erik Mona、Jessica Price、Stephen Radney-MacFarland
+|pages=16
+}}
+
+{{书页/简介|head=|1=
+一部面向 8 级角色设计的开拓者冒险。
+
+虽然大多数[[探索者协会]]外勤探员的生命残酷而短暂，仍有一些人脱颖而出，引起了十人团（Decemvirate）的注意。这些幸运的探员受邀前往艾巴萨罗姆城外一座鲜为人知的攻城城堡，接受考验，一试身手。通过者可以挑选声望崇高的任务，失败者则很少再有消息。
+}}
+
+'''严酷试炼'''（''The Gauntlet''）是 Jason Bulmahn、Erik Mona、Jessica Price 和 Stephen Radney-MacFarland 撰写的一部探索者模组（Pathfinder Module），于 2018 年 5 月 4 日发行。
+
+{{书页尾
+|pfw=The Gauntlet
+|releases=PDF¦PZOGAUNTLET¦¦
+}}
+
+<small>CHM 汉化里没有这本书的译名，书名是本站定的。</small>
+
+[[分类:书目]]

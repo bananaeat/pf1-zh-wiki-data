@@ -1,0 +1,10 @@
+<noinclude>{{侠客导航}}
+'''猛虎利爪'''（Tiger's Claws, Ex）是[[侠客]]的[[侠客天赋]]。
+
+</noinclude>{{Source|格拉利昂的英雄|Heroes of Golarion|inline}}
+
+效果：侠客获得像[[变形者]]一样长出爪子的能力。这些爪子视为可以随意伸出缩回的天生武器，并且可以造成1d4点穿刺和挥砍伤害（小体型则是1d3）。在11级时，伤害增强到1d6（小体型1d4）。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh62263cd083.htm 原文]）。全部侠客天赋见 [[:分类:侠客天赋|分类:侠客天赋]]。
+
+[[分类:侠客天赋]]</noinclude>

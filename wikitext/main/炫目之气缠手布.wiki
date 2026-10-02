@@ -1,0 +1,18 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=炫目之气缠手布
+|english_name=Hand Wraps of Blinding Ki
+|aon=MagicWondrousDisplay.aspx?FinalName=Hand Wraps of Blinding Ki
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=手部
+|price=10,000 gp
+|weight=1磅
+|description=这些精美的丝绸缠带上绣满神秘符号和穿戴者的穴位图，缠绕在穿戴者的双手和手腕上。当穿戴者消耗气点来进行额外攻击时，他可以再多消耗1点气，让这次攻击使用[[震慑拳]]专长，即使他在这一轮里已经使用过该专长。
+
+如果穿戴者是使用某种原型的武僧，而该原型以另一个每天可用次数等于武僧等级的专长取代了震慑拳，那么炫目之气缠手布允许他再使用一次该专长，而不是使用震慑拳。
+|req=[[制造奇物]]、[[武僧#气运丹田|气池]]职业能力
+|cost=5,000 gp
+|source=信仰与哲学
+}}

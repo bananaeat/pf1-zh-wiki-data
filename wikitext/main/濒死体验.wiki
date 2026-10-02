@@ -1,0 +1,13 @@
+{{Trait
+|name=濒死体验
+|english_name=Near-Death Experience
+|type=地区
+|prerequisites=出身贝尔克泽恩或在当地生活过至少1年
+|description=你和死亡擦肩而过，但是一个贝尔克泽恩的女巫拯救了你，并且你的身体已经学会了如何在最恶劣的情况下抓紧生机。
+
+你在为稳定伤势进行的体质检定上获得+1背景加值，并且你的生命值降到负（2+你的体质值）时才会死亡。
+|regions=贝尔克泽恩
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_703.html
+}}

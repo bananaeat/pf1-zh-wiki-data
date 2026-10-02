@@ -1,0 +1,10 @@
+{{Trait
+|name=感情用事
+|english_name=Sentimental
+|type=缺陷
+|pfs=否
+|description=你多愁善感，思绪常常在不恰当的时机飘回过去。
+|benefit=你在避免被突袭的察觉检定和避开陷阱或危险的反射豁免中有-2罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

@@ -1,0 +1,54 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #67: The Snows of Summer
+|authors=Neil Spicer
+|pages=96
+}}
+
+{{书页/简介|head=反季节的严寒|1=
+「冬临天下」冒险之路始于 RPG Superstar 冠军 Neil Spicer 带来的一部令人振奋的全新冒险！每隔 100 年，女巫之王芭芭雅嘎（Baba Yaga）都会返回伊利森（Irrisen）之国，扶立一位新的女儿登上王座，但这一次，事情出了差错。远在南方，赫尔德伦（Heldren）村附近的森林被盛夏之雪覆盖。英雄们深入树林，发现了一道通往冰封之地伊利森的魔法传送门；除非他们能查明异界女巫芭芭雅嘎的下落，否则伊利森那超自然的寒冬很快就会吞没整个格拉利昂——这趟探寻将带他们穿过冰雪封路的伊利森，前往更为奇异的远方。
+
+本册《冒险之路》开启「冬临天下」冒险之路，内容包括：
+
+* 《夏日之雪》，一部面向 1 级角色的开拓者角色扮演游戏冒险，作者 Neil Spicer。
+* 两座村庄——一座在塔尔多，另一座在严寒的伊利森——的地志，帮助充实角色们所处的环境，作者 Rob McCreary。
+* 对伊利森的遗产与谜团的一瞥，供 GM 在本战役中使用，由 Rob McCreary 撰写并汇编。
+* 在「探索者日志」中，一位炼金术师前往伊利森首都白王座城（Whitethrone）的旅程，作者 Kevin Andrew Murphy。
+* 四种新怪物，作者 Neil Spicer 和 James Wilber。
+}}
+
+'''冒险之路67：夏日之雪'''（''Pathfinder #67: The Snows of Summer''）是[[冒险之路]]「冬临天下」系列的第一部冒险，由 Neil Spicer 撰写，配套内容出自 Rob McCreary 和 James Wilber，小说出自 Kevin Andrew Murphy，于 2013 年 2 月 20 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+夏日之雪 @ 6
+NPC 图集 @ 54
+冬临天下宝藏 @ 60
+- 留心之镜（attentive mirror）
+- 压倒性盟友之釜（cauldron of overwhelming allies）
+- 雪人斗篷（cloak of the yeti）
+- 浮冰灵药（ice floe elixir）
+- [[冰柱魔杖]]
+- 北境追猎雪鞋（snowshoes of northern pursuit）
+- [[捕人之矛]]
+- 怨毒饼干（spiteful cookie）
+- 暗示茶（suggestive tea）
+赫尔德伦（Heldren） @ 62
+沃尔兹比（Waldsby） @ 66
+冬临天下工具箱 @ 70
+探索者日志：骨粉玩偶（1／6） @ 74
+怪物图鉴 @ 80
+战役概要 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=The Snows of Summer
+|releases=PDF¦PZO9067E¦2013-02¦；Softcover¦PZO9067¦2013-02¦
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

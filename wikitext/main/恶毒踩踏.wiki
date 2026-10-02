@@ -1,0 +1,13 @@
+{{Feat
+|name=恶毒踩踏
+|english_name=Vicious Stomp
+|categories=战斗
+|description=你在对手倒地的恰当时机猛踹之。
+|prerequisites=[[战斗反射]]，精通徒手打击。
+|benefit=当对手倒在你的邻接方格，他将会触发你的[[借机攻击]]。借机攻击必须是[[徒手打击]]。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+{{FAQ|v5748eaic9qdd}}

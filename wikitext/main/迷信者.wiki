@@ -1,0 +1,9 @@
+{{Trait
+|name=迷信者
+|english_name=Superstitious (Kellid)
+|type=种族
+|prerequisites=[[人类]]（凯利德人）
+|description=你对[[术士]]之言与法师之语抱有合理的敬畏，这助你在其蛊惑下清醒。你在对抗奥术法术的豁免检定上获得+1背景加值。
+|source_name=格拉里昂的人类
+|source_url=https://pf1chm.pages.dev/topics/page_1581.html
+}}

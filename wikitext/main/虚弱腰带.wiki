@@ -1,0 +1,13 @@
+{{魔法物品
+|name=虚弱腰带
+|english_name=Belt of Weakness
+|aon=MagicCursedDisplay.aspx?ItemName=Belt of Weakness
+|cat=诅咒物品
+|aura=中等变化系
+|cl=8
+|slot=腰部
+|weight=1磅
+|description=这条宽皮带看起来像一条起效如同+4强大体质腰带的腰带，实际上却会削弱穿戴者的健康，而不是增益。虚弱腰带使穿戴者的体质值承受-4减值。此外，当穿戴者在任何强韧豁免中掷出自然1时，腰带会收紧，造成2d8点伤害。
+|req=[[强大体质腰带]]（任意）
+|source=极限宝具
+}}

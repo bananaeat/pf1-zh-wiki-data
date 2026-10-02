@@ -1,0 +1,11 @@
+{{消歧义|战争祝福(战斗祭司祝福)}}
+{{Feat
+|name=战争祝福
+|english_name=War Blessing
+|description=你的神祇降下祝福之力作为你虔诚和狂热的回报。
+|prerequisites=秘示域或领域职业能力
+|benefit=选择两个战斗祭司的祝福，每个祝福都必须对应你的神祇所授予的一个领域，或是体现你精神倾向和能力的两个领域之一。每天两次，你可以使用这两个祝福之一的次级祝福能力，除此之外，这个能力作用类似战斗祭司的祝福能力。你的有效战斗祭司等级等同于你在拥有[[秘示域]]或领域职业能力的职业中的最高等级。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

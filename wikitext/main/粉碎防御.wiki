@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[粉碎防御 (神话)]]。</small></div>
+{{Feat
+|name=粉碎防御
+|english_name=Shatter Defenses
+|categories=战斗
+|description=你使用选定武器的技巧能够让露出破绽的对手门户大开。
+|prerequisites=[[武器专攻]]，[[炫目技巧]]，基本攻击加值+6，擅长对应武器。
+|benefit=任何本轮被你击中的处于[[战栗]]、惊惧或恐慌状态的对手，直到你的下个回合结束，对于你做出的攻击处于[[措手不及]]状态。这包括你本轮进行的任何额外的攻击。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

@@ -1,0 +1,10 @@
+<includeonly>
+{{Mbox
+|text=该资源只有'''[[{{{1}}}]]'''种族才能使用}}
+</includeonly>
+
+<noinclude>
+
+<pre>{{种族限定|精灵}}</pre>
+{{种族限定|精灵}}
+</noinclude>

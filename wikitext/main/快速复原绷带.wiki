@@ -1,0 +1,15 @@
+{{魔法物品
+|name=快速复原绷带
+|english_name=Bandages of Rapid Recovery
+|aon=MagicWondrousDisplay.aspx?FinalName=Bandages of Rapid Recovery
+|cat=奇物
+|aura=微弱咒法系
+|cl=1
+|slot=胸部
+|price=200 gp
+|weight=1磅
+|description=这条亚麻绷带的色泽与柔软如同鸽羽，但其消毒剂般的气味暗示它并非天然之物。任何被这条绷带缠裹的生物，无论是否活动，每天都会像得到完整卧床休息一样从伤势和属性伤害中恢复（核心规则书第191页）。如果该生物在缠着绷带的同时确实接受了长期护理（来自医疗技能）或完整的卧床休息，那么在计算它每天回复多少生命值时，其有效等级或生命骰获得+4加值。绷带一旦被取下，或穿戴者的生命值与属性伤害全部恢复（以先发生者为准），就会被毁掉。
+|req=[[制造奇物]]、[[治疗轻伤]]、[[次等复原术]]、[[稳定伤势]]
+|cost=100 gp
+|source=进阶玩家指南、极限宝具
+}}

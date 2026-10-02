@@ -1,0 +1,14 @@
+{{Spell
+|name=大地预兆
+|english_name=Signs of the land
+|school=预言系
+|levels=德鲁伊 3;游侠 3;猎人 3;萨满 3
+|action=10分钟
+|components=语言;姿势
+|range=个人
+|target=你
+|duration=立即
+|sr=否
+|description=这个法术类似于[[问道自然]]，但它最多可以揭示三条下列关于你目前所占据的区域的细节：水体、地貌、矿物或植物。你每了解一个特性，你都将自动知道你可以用来发现该特性的技能，并且你在发现这些东西时将获得1d6的探索值（参见第124页）。
+|source=极限荒野
+}}

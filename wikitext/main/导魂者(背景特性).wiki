@@ -1,0 +1,12 @@
+{{消歧义|导魂者}}
+{{Trait
+|name=导魂者
+|english_name=Spirit Guide
+|type=宗教
+|aliases=安灵师
+|prerequisites=[[法莱斯玛]]
+|description=曾经执行或观察过形形色色的人的葬礼的你，对许多不同的宗教有了基本理解。你在[[知识]]（宗教）检定上获得+2背景加值，而且知识（宗教）成为你的[[本职技能]]。
+|source_name=内海诸神
+|source=ISG
+|source_url=https://pf1chm.pages.dev/topics/zha930a323ed.htm
+}}

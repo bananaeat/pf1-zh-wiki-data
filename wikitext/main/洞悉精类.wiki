@@ -1,0 +1,10 @@
+{{Feat
+|name=洞悉精类
+|english_name=Fey Insight
+|description=你对精类那奇特而矛盾的思维有着深刻的理解，并且可以利用这种认知更轻松的与这些反复无常的生物谈判或影响它们。
+|prerequisites=感知13；[[知识]]（自然）或知识（位面）2级。
+|benefit=你在与精类生物进行互动时，在[[唬骗]]、交涉与察言观色技能检定上获得+2加值。若你在上述任一技能上有10或更多级，你在使用该技能与精类生物进行互动时的加值增加至+4。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

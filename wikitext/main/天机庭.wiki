@@ -1,0 +1,16 @@
+{{速查导航}}
+
+'''天机庭'''是《[[门徒教义]]》的一章：渤骊天机庭的来历和差事，外加一个[[先知]]变体和五条[[调查员天赋]]。
+
+== 本章条目 ==
+
+* [[钦天算师]]（Divine Numerologist；先知变体，站上早就有页——这一轮补上了它空着的「启示」两条：时机演算（Calculate the Odds）、天机易数（Program the Divine Algorithm））
+* [[调查员天赋#数理炼金 (Numerical Alchemy, Su)|数理炼金]]（Numerical Alchemy，收在 [[调查员天赋]] 页里）
+* [[调查员天赋#高等数理炼金 (Numerical Alchemy, Greater, Su)|高等数理炼金]]（Numerical Alchemy，收在 [[调查员天赋]] 页里）
+* [[调查员天赋#数理打击* (Numerical Strike, Ex)|数理打击*]]（Numerical Strike，收在 [[调查员天赋]] 页里）
+* [[调查员天赋#高等数理打击* (Numerical Strike, Greater, Ex)|高等数理打击*]]（Numerical Strike，收在 [[调查员天赋]] 页里）
+* [[调查员天赋#大师数理打击* (Numerical Strike, Masterful, Ex)|大师数理打击*]]（Numerical Strike，收在 [[调查员天赋]] 页里）
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1275.html 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

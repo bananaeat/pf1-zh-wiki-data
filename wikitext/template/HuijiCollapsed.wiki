@@ -1,0 +1,4 @@
+<includeonly><div class="{{#switch:{{{style|}}}|bar=|#default=mw-customtoggle-{{{id|{{{ID|}}}}}} {{{body-class|}}}}}"  style="overflow:hidden;margin-bottom:12px;{{{body-style|}}}">
+<div class="{{#switch:{{{style|}}}|bar=mw-customtoggle-{{{id|{{{ID|}}}}}} {{{body-class|}}}|tag=|#default=}} bg-primary {{{title-class|}}}" style="text-align:center;padding:12px;overflow:auto;{{{title-style|}}}">{{{title|}}}</div>
+<div class="darken mw-collapsible {{#switch:{{{type|}}}|open=|collapsed=mw-collapsed|#default=mw-collapsed}} {{{text-class|}}}" id="mw-customcollapsible-{{{id|{{{ID|}}}}}}" style="text-align:left;padding:1em 1em 2em 1em;{{{text-style|}}}">{{{text|}}}</div>
+</div></includeonly><noinclude>{{优质模板|功能}}{{documentation}}[[Category:huiji template]]</noinclude>

@@ -1,0 +1,16 @@
+{{Spell
+|name=慈悲赞歌
+|english_name=Hymn of mercy
+|school=惑控系 (胁迫)
+|tags=善良;影响心灵
+|levels=先知 5;吟游诗人 5;战斗祭司 5;歌者 5;牧师 5
+|action=标准动作
+|components=语言;姿势
+|range=30尺
+|area=以你为中心的半径30尺爆发
+|duration=1轮/等级（可解消）
+|save=意志，通过则无效
+|sr=是
+|description=除了以上区别，该法术效果如[[慈悲之触]]。
+|source=纯洁勇士
+}}

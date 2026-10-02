@@ -1,0 +1,10 @@
+{{Feat
+|name=炫耀财富
+|english_name=Ostentatious Display
+|description=你奢侈的首饰与配件让你看起来非常重要，使你在社交场合得到许多优势。
+|benefit=只要你在正常穿戴魔法物品的栏位装备有价的非魔法物品，让你在对应的技能上得到+1的加值。在多个位置穿着影响同一个技能的配件效果并不会叠加。每件物品的价值必须至少达到你当前等级角色财富标准的5%（见核心规则书第399页表12-4）。例如，一个6级的玩家角色穿戴价值至少800gp、镶满宝石的头环（占用头环栏位）时获得+1唬骗加值；升到7级后，他必须在相应栏位穿戴价值至少1175gp的配件，才能继续获得这一加值。
+|tables=<table><tr><th>装备栏位</th><th>技能加值</th></tr><tr><td>腰带、胸口、肩膀</td><td>+1威吓</td></tr><tr><td>身体、脚部、脖子</td><td>+1交涉</td></tr><tr><td>眼睛、双手、头环</td><td>+1唬骗</td></tr><tr><td>头部、戒指、手腕</td><td>+1表演（任意）</td></tr></table>
+|source=DH
+|source_name=冒险家手册
+|source_url=https://pf1chm.pages.dev/topics/page_529.html
+}}

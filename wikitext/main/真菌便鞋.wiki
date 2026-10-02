@@ -1,0 +1,15 @@
+{{魔法物品
+|name=真菌便鞋
+|english_name=Fungal Slippers
+|aon=MagicWondrousDisplay.aspx?FinalName=Fungal Slippers
+|cat=奇物
+|aura=微弱咒法系
+|cl=3
+|slot=脚部
+|price=2,000 gp
+|weight=1磅
+|description=每日最多3次，佩戴者可以用一个[[迅捷动作]]，使其在本回合中行走经过的每一个方格里都长出真菌。这些方格中的真菌视为[[困难地形]]。1分钟后，大部分真菌会消失；留下的那些不再造成阻碍。
+|req=[[制造奇物]]、[[纠缠术]]
+|cost=1,000 gp
+|source=恶棍志
+}}

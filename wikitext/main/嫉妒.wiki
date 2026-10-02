@@ -1,0 +1,10 @@
+{{Trait
+|name=嫉妒
+|english_name=Envy
+|type=缺陷
+|pfs=否
+|description=你成长的环境处于或临近一个以展示物质财富和成就为荣的颓废富裕社会，嫉妒的种子从小就深深植入你的心脏。
+|benefit=每当你度过一天而没有偷窃至少价值10GP的贵重物品或其他财富，你必须进行一次DC20的意志豁免。如果你失败了，你在意志豁免、反射豁免和专注检定上承受累积的-1罚值(最高累积到-5)。如果你成功了，罚值被重置为0。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

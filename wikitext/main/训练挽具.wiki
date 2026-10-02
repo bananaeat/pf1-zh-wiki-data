@@ -1,0 +1,9 @@
+{{装备
+|name=训练挽具
+|english_name=Training harness
+|cat=动物装备
+|price=10 gp
+|weight=10磅
+|description=该专用装备必须针对特定种类的动物量身定制。你对穿戴着训练挽具的动物所做的驯养动物检定获得+2加值。
+|source=进阶种族手册
+}}

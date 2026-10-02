@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Bastards of Golarion pg. 5），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=精灵之宁
+|english_name=Elven Serenity
+|type=种族
+|pfs=否
+|prerequisites=[[半精灵]]（精灵抚养）
+|description=你体现了精灵生活方式中的平和，并将这种哲学运用在与他人的交往之中。你为安抚其他生物而进行的[[交涉]]和[[驯养动物]]检定获得+2背景加值。以这种方式进行交涉检定时，你无需与对方使用相同的语言。
+|source_name=格拉利昂的混种
+|source=BoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Elven%20Serenity
+}}

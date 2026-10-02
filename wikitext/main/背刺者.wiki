@@ -1,0 +1,10 @@
+{{Trait
+|name=背刺者
+|english_name=Backstabber
+|type=宗教
+|prerequisites=[[半身人]]，信仰塔米尔·金克斯（Thamir Gixx）
+|description=向诺格巴的致命阴影奉上信仰，给予你在对手无法避开你时做出残忍攻击的技能。当你攻击你[[夹击]]的对手时，你对其造成的伤害+1背景加值(该伤害加入你的基础伤害，可被重击翻倍)。
+|source_name=宗教背景
+|source=HoG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

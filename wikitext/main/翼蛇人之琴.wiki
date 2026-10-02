@@ -1,0 +1,9 @@
+{{Trait
+|name=翼蛇人之琴
+|english_name=Lillend's Harp
+|type=种族
+|prerequisites=[[神裔]]（艺术之民）
+|description=你的祖先是一位翼蛇人，他们带有天生的优雅和奇异的音乐天赋。你的表演（弦乐）检定获得+1背景加值。这项加值在你使用吟游表演能力而进行技能检定时变为+2。
+|source_name=天界血脉
+|source_url=https://pf1chm.pages.dev/topics/page_828.html
+}}

@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能选集|Psychic Anthology}}
+'''爆轰'''（Detonation）是[[操念使]]的[[原力]]。
+
+元素：火；类别：塑形注能；等级：4；超载：3
+
+关联[[念袭]]类别：[[蓝焰击]]，[[火冲]]
+
+豁免：反射，通过则减半
+
+从你的身体中火焰喷薄而出，在你的20尺半径范围内的所有生物和物体造成你的念袭伤害。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Detonation|2=Detonation}}
+
+[[分类:原力]]

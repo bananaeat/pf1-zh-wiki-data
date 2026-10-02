@@ -1,0 +1,16 @@
+{{Spell
+|name=群体晕眩术
+|english_name=Daze, mass
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=异能者 3;通灵者 3;催眠师 4;召唤师 4;召唤师（掉链） 4;吟游诗人 4;奥能师 4;女巫 4;审判者 4;术士 4;歌者 4;法师 4;秘学士 4
+|action=标准动作
+|components=语言;姿势
+|range=中距
+|target=一个或多个类人生物，互相之间不超过30尺
+|duration=1轮
+|save=意志，通过则无效
+|sr=是
+|description=本法术工作方式如同[[晕眩术]]，除了上述部分。
+|source=极限魔法
+}}

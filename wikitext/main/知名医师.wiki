@@ -1,0 +1,14 @@
+{{Trait
+|name=知名医师
+|english_name=Prestigious Healer
+|type=地区
+|pfs=否
+|prerequisites=切利亚斯
+|description=每天1次，当你使用一个医疗学派的法术时，你可以在你的下一轮结束前以一个[[直觉动作]]来尝试1次交涉检定来改善你的目标或者任何30尺内能够看见你的人的态度。
+
+你在上述的交涉检定获得+2背景加值。
+|regions=切利亚斯
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_703.html
+}}

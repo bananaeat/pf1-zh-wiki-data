@@ -1,0 +1,11 @@
+{{Feat
+|name=恐惧之影
+|english_name=Shadows of Fear
+|categories=战斗
+|description=恐惧让敌人草木皆兵，而这正好转移了它们的注意力。
+|prerequisites=暗袭*+2d8或偷袭+2d6
+|benefit=在你每轮第1次命中1个承受恐惧效果影响的生物时，可以对它造成暗袭或偷袭伤害，就如同你在[[夹击]]该名生物一般。精通直觉闪避以及其他能够防止夹击的效果也能够防止该专长作出的暗袭或偷袭。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

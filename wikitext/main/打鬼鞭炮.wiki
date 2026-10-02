@@ -1,0 +1,14 @@
+{{装备
+|name=打鬼鞭炮
+|english_name=Firework (firecracker, spirit)
+|cat=炼金武器
+|price=30 gp
+|weight=—
+|craft_dc=25
+|special=见正文
+|description=这些小鞭炮被魔法符文复盖，并且混合了鬼灵盐。在你点燃一个相邻格子的打鬼鞭炮一轮后，烟花爆炸对同一格子内的虚体生物造成1d4+1点伤害。此外一个受影响的虚体生物如果有强光敏感、强光失明或者阳光虚弱特性，则会目盲1轮。一个打鬼鞭炮无法影响实体生物。
+|recipe=（1 黑火药＋6 硫磺＋4 硝石＋10 白银）／煅烧；制作 DC 25
+|recipe_time=1 小时
+|recipe_tools=坩埚
+|source=炼金术手册
+}}

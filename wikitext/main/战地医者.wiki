@@ -1,0 +1,10 @@
+{{Trait
+|name=战地医者
+|english_name=Battlefield Surgeon
+|type=宗教
+|prerequisites=信仰[[宗-库松]]
+|description=你既擅长制造伤口，也擅长处理伤口。医疗成为你的本职技能，并且对每个生物，你每天可以多使用一次医疗技能的治疗致命伤用法。【摘自 Evana 的翻译】
+|source_name=内海诸神
+|source=摘自 Evana 的翻译
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

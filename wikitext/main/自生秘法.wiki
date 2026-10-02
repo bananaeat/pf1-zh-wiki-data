@@ -1,0 +1,11 @@
+{{Feat
+|name=自生秘法
+|english_name=Innate Arcana
+|pfs=否
+|description=你可以通过释放自己准备的奥术能量来充盈天生的魔法回路
+|prerequisites=奥术施法者，施法者等级4，蛇人
+|benefit=你可以通过消耗两个已准备的奥术法术或是两个奥术法术位来施放一次种族类法术能力。你所消耗的法术的环数不能低于你所欲施放的类法术能力作为法师/术士法术的环数。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1414.html
+}}

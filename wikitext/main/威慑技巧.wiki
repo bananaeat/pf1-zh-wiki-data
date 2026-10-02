@@ -1,0 +1,10 @@
+<noinclude>{{萨满导航}}
+'''威慑技巧'''（Intimidating Display, Ex）是[[萨满]]的[[萨满#萨满巫术|萨满巫术]]。
+
+</noinclude>{{Source|缘界英雄|Heroes from the Fringe|inline}} 龙之巫术之一。
+
+萨满能够唤起部分的龙之威仪与龙之力量来威慑敌人。萨满会获得[[炫目技巧]]作为[[奖励专长]]，即便她不满足该专长的先决条件，并且她即便没有持用武器也能使用这一专长。<noinclude>
+
+[[分类:萨满巫术]]
+
+{{职业}}</noinclude>

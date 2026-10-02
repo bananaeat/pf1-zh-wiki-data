@@ -1,0 +1,15 @@
+{{Spell
+|name=诱惑者之眼
+|english_name=Seducer's Eyes
+|school=惑控系 (魅惑)
+|tags=影响心灵
+|levels=吟游诗人 2;奥能师 2;女巫 2;术士 2;歌者 2;法师 2
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=个人
+|target=你
+|duration=10分钟/等级（可解消）
+|sr=否
+|description=你在所有基于魅力的技能检定上获得加值，数值为+1，之后每4个施法者等级再+1（最高为+5），但这个加值只在与可能对你有性趣的生物接触时才能生效。对于你或你的盟友正在攻击或威胁的对象，你无法获得该加值。
+|source=内海诸神
+}}

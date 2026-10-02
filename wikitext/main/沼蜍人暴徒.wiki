@@ -1,0 +1,48 @@
+{{速查导航}}
+{{怪物
+|name=沼蜍人暴徒
+|english_name=Boggard Brute
+|cr=3
+|xp=800
+|classline=沼蜍人战士1
+|alignment=混乱邪恶
+|size=中型
+|type=类人生物
+|subtypes=沼蜍人
+|init=+1
+|senses=黑暗视觉60尺，昏暗视觉；察觉+5
+|description=大多数沼蜍人战团的中坚力量都是这些徒步战士
+|ac=16，接触11，措手不及15（+2护甲，+1敏捷，+3天生）
+|hp=34（4HD，3d8+1d10+16）<!-- 原书作 34（4HD，3d8+1d10+6），按 AoN 更正 -->
+|fort=+8
+|ref=+2
+|will=+2
+|speed=20尺；游泳30尺
+|melee=精制品钉头锤+9（1d8+6），舌击+2对接触（粘性舌头）
+|ranged=精制品标枪+5（1d6+4）
+|special_attacks=恐怖蛙鸣（DC13）
+|tactics=<div class="ml wide"><span class="k">战斗中</span>沼蜍人暴徒会先掷出标枪，再冲入战斗。</div>
+|str=19
+|dex=13
+|con=16
+|int=6
+|wis=13
+|cha=10
+|bab=+3
+|cmb=+7
+|cmd=18
+|feats=[[威逼]];[[健壮]];[[武器专攻]]（钉头锤）
+|skills=[[特技]]动作+4（用于跳跃时+20）;[[威吓]]+9;[[察觉]]+5;[[隐匿]]+0（在沼泽环境中+8）;[[游泳]]+12
+|languages=沼蜍人语
+|sq=屏息;沼地阔步
+|combat_gear=树肤术药水 x2
+|gear=皮甲;精制品标枪 x2;精制品钉头锤;132GP
+|environment=温带沼泽
+|source=怪物志
+|family=沼蜍人（怪物志）
+|npc=1
+|lore=
+虽然只装备着最简陋的护甲和武器，但它们拥有的蛮力和野性使得[[沼蜍人(怪物)|沼蜍人]]暴徒的破坏性不下于全副武装的骑士。
+}}
+
+本页译自《[[怪物志]]》的怪物图鉴 CHM。

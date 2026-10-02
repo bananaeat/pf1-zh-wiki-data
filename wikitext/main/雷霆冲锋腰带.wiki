@@ -1,0 +1,17 @@
+{{魔法物品
+|name=雷霆冲锋腰带
+|english_name=Belt of Thunderous Charging
+|aon=MagicWondrousDisplay.aspx?FinalName=Belt of Thunderous Charging
+|cat=奇物
+|aura=中等变化系
+|cl=8
+|slot=腰部
+|price=10,000 gp
+|weight=1磅
+|description=一幅冲锋中的犀牛雕刻装饰着这条厚实的皮腰带。腰带使穿戴者的力量获得+2增强加值。在腰带被穿戴的头24小时内，该加值视为临时加值。
+
+每当穿戴者冲锋时，腰带会放大她的冲势，使她在[[冲撞]]和[[闯越]][[战技]]上获得+2加值。此外，穿戴者进行冲锋攻击时，她的近战武器和天生武器造成的伤害视为比实际大一个体型级别。
+|req=[[制造奇物]]、[[牛之力量]]、[[重压之刃]]（《进阶玩家指南》）
+|cost=5,000 gp
+|source=极限宝具
+}}

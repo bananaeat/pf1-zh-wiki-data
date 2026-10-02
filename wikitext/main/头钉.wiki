@@ -1,0 +1,20 @@
+{{魔法物品
+|name=头钉
+|english_name=Head Piercings
+|aon=ShadowPiercingsDisplay.aspx?FinalName=Head PiercingsMinor
+|cat=暗影穿环
+|aura=微弱变化系
+|cl=5
+|slot=头部
+|price=3,750 gp（次等）；6,000 gp（普通）；33,600 gp（高等）
+|description=无论是一圈钉针组成的王冠、唇钉，还是简单的鼻环，这些穿孔饰物都能突显佩戴者令人胆寒的气势和内在的决心。
+
+次等：穿戴者在威吓检定上获得+5表现加值。
+
+普通：穿戴者对影响心灵效果的豁免获得+4亵渎加值。
+
+高等：穿戴者每天可以使用两次[[恐惧术]]（意志DC 16）。
+|req=[[制造影钉]]、[[恐惧术]]（次等与高等）、[[枭之睿智]]（普通）
+|cost=1,875 gp（次等）；3,000 gp（普通）；16,800 gp（高等）
+|source=秽邪勇士
+}}

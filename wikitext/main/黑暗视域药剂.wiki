@@ -1,0 +1,14 @@
+{{魔法物品
+|name=黑暗视域药剂
+|english_name=Elixir of Darksight
+|aon=MagicWondrousDisplay.aspx?FinalName=Elixir of Darksight
+|cat=奇物
+|aura=中等变化系
+|cl=6
+|slot=无
+|price=1,200 gp
+|description=这种暗色的糖浆状药剂能使饮用者的黑暗视觉范围翻倍，并使她在使用黑暗视觉时能够看穿[[深幽黑暗术]]。效果持续1小时。
+|req=[[制造奇物]]、[[黑暗视觉]]、[[深幽黑暗术]]
+|cost=600 gp
+|source=进阶种族手册
+}}

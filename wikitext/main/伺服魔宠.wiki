@@ -1,0 +1,22 @@
+{{魔宠变体
+|name=伺服魔宠
+|english_name=Valet
+|description=<small>这是《[[极限荒野]]》那一版。《[[动物档案]]》（pg. 21）另有一版，译文在 [[动物变体]] 一章里，和这一版'''差两处''':「魔法操纵（Magical Manipulation，Sp）：任意使用[[开关术]]和[[魔法伎俩]]，取代法术共享」在那一版里是「魔法伎俩（Prestidigitation）(Sp)：伺服魔宠每小时能够使用一次魔法伎俩（prestidigitation）。」，不写取代哪一项；「同伴（Teammate，Ex）」那一条在那一版里也不写取代[[精通反射闪避]]。</small>
+
+伺服魔宠是完美的个人侍从，能够完成杂务、递送物品并完成所有主人需要的工作。
+
+'''[[本职技能]]（Class Skills）'''：伺服魔宠将工艺、表演以及专业视为本职技能。
+
+'''得力助手（Able Assistant，Ex）'''：伺服魔宠的主人视伺服魔宠拥有[[工艺协作]]（Cooperative Crafting）专长，并且与其分享他所拥有的全部工艺技能以及制造物品专长。该能力取代[[警觉]]（Alertness）。
+
+'''魔法操纵（Magical Manipulation，Sp）'''：伺服魔宠能够任意使用[[开关术]]和[[魔法伎俩]]（prestidigitation）。该能力取代法术共享（Share Spells）。
+
+'''同伴（Teammate，Ex）'''：伺服魔宠被视为拥有所有它主人所具有的[[团队专长]]。该能力取代[[精通反射闪避]]（improved evasion）。
+
+'''传递接触法术（Deliver Touch Spells，Su）'''：3级起，当伺服魔宠对自愿的生物传递无害接触法术时，它能够在传递法术之前和之后进行移动，只要它的总移动距离不超过它的速度即可。该能力修改了[[传递接触法术]]（deliver touch spells）。
+
+'''提供援助（Deliver Aid，Ex）'''：7级起，伺服魔宠能够在使用协助他人（aid another）动作之前和之后进行移动，只要它的总移动距离不超过它的速度即可。该能力取代与同类[[动物交谈]]（speak with animals of its kind）。
+
+'''多重援助（Aide to All，Ex）'''：13级起，伺服魔宠可以选择以[[整轮动作]]使用协助他人动作，以此动作对至多3个相邻的生物提供加值。每个加值可以提供给相同的动作或检定，也能提供给不同的动作与检定。该能力取代探知魔宠（scry on familiar）。
+|source=极限荒野
+}}

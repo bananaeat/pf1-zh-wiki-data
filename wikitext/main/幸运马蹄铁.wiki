@@ -1,0 +1,15 @@
+{{魔法物品
+|name=幸运马蹄铁
+|english_name=Lucky Horseshoe
+|aon=MagicWondrousDisplay.aspx?FinalName=Lucky Horseshoe
+|cat=奇物
+|aura=中等塑能系
+|cl=9
+|slot=无
+|price=6,800 gp
+|weight=2磅
+|description=虽然它看起来只是一个普通的马蹄铁，幸运马蹄铁能聚焦和引导幸运的神秘能量。只要幸运马蹄铁的主人把它带在身上，她的豁免获得+1幸运加值。每日一次，她可以发动幸运马蹄铁的力量，在单次豁免上获得+4幸运加值。她必须在投掷豁免骰之前声明使用该能力。
+|req=[[制造奇物]]、[[神恩]]
+|cost=3,400 gp
+|source=异能冒险
+}}

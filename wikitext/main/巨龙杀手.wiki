@@ -1,0 +1,9 @@
+{{Trait
+|name=巨龙杀手
+|english_name=Dragonslayer
+|type=宗教
+|prerequisites=信仰[[达哈克]]
+|description=你擅长于猎杀那些与你主子喜爱的猎物相似的生物。你在攻击龙类型的生物的时候，攻击检定获得+1背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

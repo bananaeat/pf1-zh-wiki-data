@@ -1,0 +1,10 @@
+<noinclude>{{炼金术师导航}}
+'''精确炸弹'''（Precise bombs）是[[炼金术师]]的[[科研发现]]。
+
+</noinclude>{{Source|进阶玩家指南|Advanced Player's Guide|inline}}
+
+当一名炼金术师投掷炼金炸弹时，他可以选择一定区域不受炼金炸弹的溅射影响，可选择的最大方格数等同于他的智力修正。如果攻击失手，则此科研发现无效。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_71.html 原文]）。全部科研发现见 [[:分类:科研发现|分类:科研发现]]。
+
+[[分类:科研发现]]</noinclude>

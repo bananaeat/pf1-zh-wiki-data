@@ -1,0 +1,40 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=飞狐
+|english_name=Flying Fox
+|cr=1/3
+|xp=135
+|alignment=绝对中立
+|size=超小型
+|type=动物
+|init=+1
+|senses=昏暗视觉，灵敏嗅觉；察觉 +9
+|ac=13，接触 13，措手不及 12（+1 敏捷，+2 体型）
+|hp=5（1d8）
+|fort=+3
+|ref=+3
+|will=+2；+4 对抗疾病
+|speed=10 尺，飞行 60 尺（一般）
+|melee=啮咬 +1（1d3–1）
+|space=2–1/2 尺
+|reach=0 尺
+|str=9
+|dex=13
+|con=12
+|int=2
+|wis=14
+|cha=5
+|bab=+0
+|cmb=–1
+|cmd=8
+|feats=[[技能专攻]]（察觉）
+|skills=[[飞行]] +5;[[察觉]] +9
+|environment=温暖的森林
+|organization=单独，一对，或一群（10–100）
+|treasure=无
+|source=怪物图鉴5
+|lore=
+这些大型蝙蝠以植物为食，缺乏体型较小的亲属所具有的回声定位能力，但对疾病有抗性。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Flying Fox|2=Flying Fox}}

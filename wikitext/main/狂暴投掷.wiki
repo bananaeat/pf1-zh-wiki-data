@@ -1,0 +1,10 @@
+{{Feat
+|name=狂暴投掷
+|english_name=Raging Hurler
+|description=对手很难闪避你愤怒地投出的物体。
+|prerequisites=【狂暴】职业特性，随手投掷。
+|benefit=狂暴时你能以[[标准动作]]投掷双手武器，并且投掷武器的射程增量加倍。若你同时拥有[[即时备战]]专长，你能以正常[[全力攻击]]的频率投掷双手武器。此外，你能在如此攻击时举起一件触及范围内、可当作临时武器的无主物体用于投掷。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

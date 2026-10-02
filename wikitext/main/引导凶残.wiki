@@ -1,0 +1,10 @@
+{{Feat
+|name=引导凶残
+|english_name=Channel Viciousness
+|description=你的[[引导能量]]能为盟友的武器注入残暴的力量
+|prerequisites=引导负能量4d6，信仰古拉姆
+|benefit=以一个[[标准动作]]，你可以消耗一发本日的引导能量次数，使得你周围30尺内所有盟友的近战武器充盈负能量，获得反噬（Vicious）附魔品质。这个能力持续相当于1x你的魅力调整值分钟时间（至少一分钟）。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

@@ -1,0 +1,7 @@
+{{物品
+|name=幻景
+|english_name=The Vision
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。抽牌者得到两个[[幻景]]，一个真一个假，但没有线索可以分辨。GM决定幻景的细节，可以有关过去，现在，未来，语言或彻底的妄想。
+}}

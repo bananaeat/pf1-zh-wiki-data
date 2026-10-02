@@ -1,0 +1,10 @@
+<noinclude>{{异能者导航}}
+'''镭射爆发'''（Laser Blast, Su）是[[异能者]]的[[精神增幅|精神增幅]]。
+
+</noinclude>你可以运用你的精神力来生成镭射爆发。以一个[[标准动作]]，你可以牺牲一个你未使用过的法术位，这个法术位不能低于一环，你能将这个法术位转换成一道激光能量。你必须通过远程[[接触攻击]]来命中三十尺内的一个目标。这次攻击将会造成2d6点火焰伤害以及每个你牺牲法术的法术环级1d6点的额外火焰伤害。你不能以这种方法来牺牲零环法术。你必须达到11级才能选择此发现。PFS规则可用<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_310.html 精神增幅]、[https://pf1chm.pages.dev/topics/zhb4162fc9dd.htm 乌笃剌精神增幅]、[https://pf1chm.pages.dev/topics/page_855.html PSI技术]），按 AoN 核对过。全部精神增幅见 [[精神增幅]]。
+
+[[分类:精神增幅]]
+
+{{职业}}</noinclude>

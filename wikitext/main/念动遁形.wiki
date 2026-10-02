@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''念动遁形'''（Telekinetic Invisibility, Sp）是[[操念使]]的[[原力]]。
+
+元素：[[以太]]；类别：通用（Sp）；等级：3；超载：0
+
+你编织着以太，偏折光线的同时抑制着声音；该效果的功能如同[[隐形术]]一般，不过以太扭曲的视觉效果比普通的[[隐形]]更易于察觉，因此你在隐匿检定中获得的加值减半（移动时+10点，静止不动时+20点）。然而，对声音的压制使得你不会被基于声音的盲感和[[盲视]]自动察觉到，但是这个原力也不会在你使用隐匿检定对抗具有此类能力的生物时提供加值。
+
+{{FAQ|v5748eaic9tpn}}
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Telekinetic Invisibility|2=Telekinetic Invisibility}}
+
+[[分类:原力]]

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Monster Summoner's Handbook pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=暗影异见者
+|english_name=Shadow Dissident
+|type=地区
+|prerequisites=奈多
+|description=一生与召唤出的暗影打交道，让你格外擅长看穿它们的黑暗帷幕。你对抗具有暗影描述符（《极限魔法》第138页）的法术和效果的豁免检定获得+2背景加值。
+|source_name=怪物召唤者手册
+|source=MSH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Shadow%20Dissident
+}}

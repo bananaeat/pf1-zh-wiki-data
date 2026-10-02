@@ -1,0 +1,10 @@
+{{Feat
+|name=洞察人心
+|english_name=Insightful Gaze
+|description=你能注意到他人所没注意到的东西。没有什么能够逃过你的眼睛。
+|prerequisites=【严苛凝视】职业特性，[[察言观色]]5级。
+|benefit=当你使用察言观色检定对抗他人的[[唬骗]]检定时，你可以双骰取高。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

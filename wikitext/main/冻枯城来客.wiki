@@ -1,0 +1,10 @@
+{{Trait
+|name=冻枯城来客
+|english_name=Chillblight Emissary
+|type=地区
+|prerequisites=伊利森
+|description=你在冻枯城度过了一段相当漫长的日子，但是最终逃离了这个诡异的精怪聚居地。
+|benefit=你获得1/{{材料|寒铁}}的伤害减免，但是被寒铁武器击中会变得[[恶心]]一轮。
+|source_name=北地居民
+|source_url=https://pf1chm.pages.dev/topics/zh63296b3929.htm
+}}

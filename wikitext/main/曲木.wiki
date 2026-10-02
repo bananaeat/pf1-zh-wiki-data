@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|极限荒野|Ultimate Wilderness}}
+'''曲木'''（Warp Wood, Sp）是[[操念使]]的[[原力]]。
+
+元素：木；类别：通用（Sp）；等级：3；超载：0
+
+你能够弯曲扭转植物和木制品。此能力如同[[曲木术]]。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_662.html 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Warp Wood|2=Warp Wood}}
+
+[[分类:原力]]

@@ -1,0 +1,16 @@
+{{Spell
+|name=恶心射线
+|english_name=Ray of sickening
+|school=死灵系
+|domains=瘟疫子域 1
+|levels=催眠师 1;先知 1;召唤师 1;召唤师（掉链） 1;奥能师 1;女巫 1;德鲁伊 1;战斗祭司 1;术士 1;法师 1;牧师 1;猎人 1;萨希尔·菲恩 1;血脉狂怒者 1
+|action=标准动作
+|components=语言;姿势;材料（一滴汗水）
+|range=近距
+|effect=射线
+|duration=1分钟/等级
+|save=强韧，通过则部分生效；见后文
+|sr=是
+|description=这个法术类似[[力竭射线]]，但是目标豁免失败会陷入[[恶心]]状态，豁免成功则不受影响。
+|source=极限魔法
+}}

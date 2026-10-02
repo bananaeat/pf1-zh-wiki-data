@@ -1,0 +1,41 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #26: The Sixfold Trial
+|authors=Richard Pett
+|pages=96
+}}
+
+{{书页/简介|head=戏，才是关键|1=
+为了驱散夜间在西冠城（Westcrown）游荡的怪物阴影，PC 们潜入城中混乱的戏剧圈，参与一场精心策划的阴谋，渗入堕落的领主市长的宅邸。然而，当他们成为一场无人演员幸存过的盛大演出中的一员时，戏剧生涯就变得致命起来。在一座演员的第一场大热往往也是最后一场的城市里，PC 们能否挺过自己的首演？
+
+本册《冒险之路》延续「盗贼议会」冒险之路，内容包括：
+
+* 《六重审判》，一部面向 3 级角色的开拓者冒险，作者 Richard Pett。
+* 《拉拉佐德的六重试炼》（The Six Trials of Larazod）——这出声名狼藉的致命戏剧完整无删节的剧本，作者 Nicolas Logue。
+* 探究勇武女神、后继者[[艾奥梅黛]]的信仰，作者 Sean K Reynolds。
+* 探索者 Varian Jeggare 在「探索者日志」中调查贵族之间的死亡，作者 Dave Gross。
+* 六种新怪物，作者 Darrin Drader、David Eitelbach、Sean K Reynolds、F. Wesley Schneider。
+}}
+
+'''冒险之路26：六重审判'''（''Pathfinder #26: The Sixfold Trial''）是[[冒险之路]]「盗贼议会」系列的第二部冒险，由 Richard Pett 撰写，配套文章出自 Darrin Drader、David Eitelbach、Sean K Reynolds、Nicolas Logue 和 F. Wesley Schneider，小说出自 Dave Gross，于 2009 年 10 月 7 日发售。
+
+== 目录 ==
+本册《冒险之路》不仅延续「盗贼议会」冒险之路，还收录《拉拉佐德的六重试炼》的大段节选，由知名戏剧爱好者、深受玩家喜爱的游戏作者 Nicolas Logue 撰写，并附有角色要成功演完这出戏必须应对的台词、战斗与陷阱的注释。Sean K Reynolds 继续他探讨格拉利昂诸神的系列文章，这次聚焦战士女神[[艾奥梅黛]]；「探索者怪物图鉴」则提供半打来自「盗贼议会」冒险之路幽暗阴影中的新生物。畅销奇幻作家 Dave Gross 继续连载广受欢迎的中篇小说《地狱之卒》（Hell's Pawns）。
+{{书页/目录|1=
+前言 @ 4
+六重审判 @ 6
+拉拉佐德的六重试炼（The Six Trials of Larazod） @ 56
+[[艾奥梅黛]] @ 66
+探索者日志：地狱之卒（2／6） @ 74
+怪物图鉴 @ 88
+预设角色 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=The Sixfold Trial
+|releases=PDF¦PZO9026E¦2009-10¦；Softcover¦PZO9026¦2009-10¦978-1-60125-196-1
+}}
+
+[[分类:书目]]

@@ -1,0 +1,9 @@
+{{Feat
+|name=魔毯行者
+|english_name=Tapestry Traveler
+|description=你多次访问郝金挂毯半位面让你成为了一名长途旅行的专家
+|prerequisites=人物等级5
+|benefit=当你施展传送学派的法术时，视你的施法者等级高两级，并且当你在施法传送到一个已建立的协会据点时，视你对这些据点的熟悉等级提高一级。如果你的传送能力是一种超自然能力，在计算你能传送的总距离时，视你的职业等级比正常的高两级。
+|source_name=初探探索者协会
+|source_url=https://pf1chm.pages.dev/topics/page_547.html
+}}

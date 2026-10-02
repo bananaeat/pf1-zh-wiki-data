@@ -1,0 +1,14 @@
+{{Feat
+|name=阴暗视域
+|english_name=Gloom Sight
+|description=通过奇特的暗影魔法与外科手术的联合作用，你的双眼在黑暗中的视力被永久强化了。
+|prerequisites=窃影鬼。
+|benefit=你获得90尺黑暗视觉，但是也获得“强光敏感”弱点。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[精通黑暗视域]]、[[黑暗视域]]（2 个条目）

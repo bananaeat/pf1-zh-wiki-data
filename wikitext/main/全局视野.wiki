@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''全局视野'''（All-Around Vision）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：防御能力</span></div>
+</noinclude><includeonly><div class="lang"><span id="全局视野"></span><div class="lang-h"><b>[[全局视野]]</b><i>All-Around Vision</i><span class="lang-w">Ex · 防御能力</span></div><div class="lang-d"></includeonly>
+这个生物一次性可以看到所有方向。他不会被[[夹击]]。
+
+'''格式'''：全局视野
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=All-Around Vision|2=All-Around Vision}}
+
+[[分类:通用怪物规则]]</noinclude>

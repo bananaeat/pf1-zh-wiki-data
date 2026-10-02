@@ -1,0 +1,4 @@
+{{#invoke:书架|shelf}}<noinclude>
+[[首页]]上的书架（2026-09-29 改版：五条产品线一线一面书柜）。由 [[模块:书架]] 按 [[Data:Shelf.tab]] 生成，'''别手改'''：书单、中文名、条数在数据表里（仓库 <code>tools/export_data_tab.py --what 书架</code>），规则书详情里的规则页分组是 [[Data:ShelfRules.tab]]（<code>--what 书架规则</code>）。全部书的卡片墙在 [[书库]]。样式在 [[MediaWiki:Common.css]] 的「书架与书库」一节，点书的交互是 [[MediaWiki:Shelf.js]]。
+[[分类:模板]]
+</noinclude>

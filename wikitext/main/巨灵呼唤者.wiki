@@ -1,0 +1,9 @@
+{{Trait
+|name=巨灵呼唤者
+|english_name=Genie-Caller
+|type=地区
+|prerequisites=卡蒂亚
+|description=你对于呼唤巨灵法术的探索提升了你在召唤各种生物上的才能。每天一次，当你施放一个咒法系[召唤]法术时，你在这个法术上的施法者等级视为比原来高2级。
+|source_name=卡蒂亚，通向东方的大门
+|source_url=https://pf1chm.pages.dev/topics/page_1005.html
+}}

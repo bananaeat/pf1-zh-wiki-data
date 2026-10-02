@@ -1,0 +1,10 @@
+本模板是[[template:reflist]]的嵌套模板，用来处理参数为宽度时的逻辑，无需手填参数，必须与reflist配套使用
+
+<templatedata>
+{
+	"params": {
+		"1": {}
+	},
+	"description": "关于本说明： 本模板是template:reflist的嵌套模板，用来处理参数为宽度时的逻辑，无需手填参数，必须与reflist配套使用"
+}
+</templatedata>

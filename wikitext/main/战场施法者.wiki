@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dwarves of Golarion pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=战场施法者
+|english_name=Battlefield Caster
+|type=宗教
+|prerequisites=安哥拉德、古拉姆、托拉格、杜鲁德
+|description=即使你在激战之中施放法术，你的信仰也会保护你。你为防御施法而进行的专注检定获得+1背景加值，并且对抗因施法而引发或针对施法而预备的攻击时，你的AC获得+1背景加值。
+|source_name=格拉利昂的矮人
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Battlefield%20Caster
+}}

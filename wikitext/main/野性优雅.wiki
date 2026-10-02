@@ -1,0 +1,12 @@
+{{Feat
+|name=野性优雅
+|english_name=Feral Grace
+|categories=战斗
+|description=动物伙伴的优雅与灵巧受到战斗的磨砺，这让它成为极为致命的斗士。
+|prerequisites=“武器娴熟”，BAB+3，动物伙伴
+|benefit=选择动物伙伴的一种天生武器。当动物伙伴用选择的天生武器进行近战攻击，并在攻击检定上使用敏捷加值、伤害上使用力量加值时，将它1/4的生命骰数加到伤害检定上作为加值。此加值不会因该天生武器是主要或次要天生攻击而增加或减少。
+|special=你可以多次选择此专长。其效果不叠加。每次你选择此专长时，选择一种不同的天生攻击，应用此专长的效果。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zhd8cf60a796.htm
+}}

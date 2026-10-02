@@ -1,0 +1,10 @@
+{{Trait
+|name=贪婪
+|english_name=Avarice
+|type=缺陷
+|pfs=否
+|description=你被根深蒂固的强烈贪婪所驱使。
+|benefit=每当分配财宝货币时，你必须获得比同伴更多的份额，否则你就会陷入深深的嫉妒和恶意之中。当财宝分配结束，而你没能获得比其他任何人多出至少10%的份额，你会变得不愿帮助你的队友。你性格变得暴躁，并且在接下来一周内不能使用协助他人动作。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

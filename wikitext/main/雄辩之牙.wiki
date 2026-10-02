@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=雄辩之牙
+|english_name=Elocution Tooth
+|aon=MagicWondrousDisplay.aspx?FinalName=Elocution Tooth
+|cat=奇物
+|aura=微弱幻术系
+|cl=5
+|slot=无
+|price=6,400 gp
+|description=把雄辩之牙嵌入口中的空牙槽后，它会把佩戴者粗鄙、选词不当的话语，转译成最优美的语法和措辞。这种出色的吐字和满口多音节的措辞，使佩戴者的[[交涉]]和[[表演]]（演说）检定获得+4表现加值。
+|req=[[制造奇物]]、[[花言巧语]]
+|cost=3,200 gp
+|source=Pathfinder: Goblins #1
+}}

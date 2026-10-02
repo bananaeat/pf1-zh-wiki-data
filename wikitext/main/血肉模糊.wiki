@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Antihero's Handbook pg. 8），民间汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=血肉模糊
+|english_name=Bloody Mess
+|categories=战斗
+|description=你行事鲁莽，常让自己身陷险境；而当你浑身沾满自己的鲜血时，模样令人望而生畏。
+|prerequisites=[[技能专攻]]（威吓）。
+|benefit=每当你受到的穿刺、挥砍或[[流血]]伤害大于或等于你角色等级的两倍时，只要造成伤害的生物在你30尺内，你就可以以一个[[直觉动作]]进行一次[[威吓]]检定来挫败它的士气。如果这次伤害来自[[重击]]，你成功挫败其士气时，可以使目标陷入[[恶心]]状态，而不是[[战栗]]状态。每轮你只能使用本专长一次，进行一次威吓检定来挫败对手的士气。
+|source=A'sH
+|source_name=反英雄手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Bloody%20Mess
+}}

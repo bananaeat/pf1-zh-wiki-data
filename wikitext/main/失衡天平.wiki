@@ -1,0 +1,15 @@
+{{魔法物品
+|name=失衡天平
+|english_name=Unbalanced Scales
+|aon=MagicWondrousDisplay.aspx?FinalName=Unbalanced Scales
+|cat=奇物
+|aura=微弱幻术系
+|cl=3
+|slot=无
+|price=1,000 gp
+|weight=1磅
+|description=一副失衡天平可以让不择手段的商人在交易中得出不准确的重量，同时在必要时仍能通过商业官员的检查。失衡天平通常给出准确的重量读数，但使用者可以用命令字使这副天平给出有偏差的读数（可按需要偏轻或偏重），偏差最多可达25%。
+|req=[[制造奇物]]、[[魔法伎俩]]
+|cost=500 gp
+|source=恶棍志
+}}

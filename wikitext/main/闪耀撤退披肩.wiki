@@ -1,0 +1,15 @@
+{{魔法物品
+|name=闪耀撤退披肩
+|english_name=Cape of Effulgent Escape
+|aon=MagicWondrousDisplay.aspx?FinalName=Cape of Effulgent Escape
+|cat=奇物
+|aura=微弱塑能系、幻术系
+|cl=3
+|slot=肩部
+|price=14,000 gp
+|weight=1磅
+|description=这件闪亮的白色斗篷镶有金色的日轮纹饰，持续散发光芒（如同法术光亮术，但只有10尺半径）。每日两次，穿戴者可以命令披肩爆发出一阵强光，使20尺内除穿戴者以外的所有生物目盲1d4轮（反射DC 14，通过则无效）。强光爆发之后，穿戴者变为隐形状态（如同法术隐形术，持续时间1分钟），并且只要穿戴者保持隐形，披肩的光芒就会熄灭。
+|req=[[制造奇物]]、[[昼明术]]、[[隐形术]]
+|cost=7,000 gp
+|source=极限宝具
+}}

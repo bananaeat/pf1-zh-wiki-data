@@ -1,0 +1,14 @@
+{{Feat
+|name=驯火者
+|english_name=Fire Tamer
+|description=你熟知火焰的习性，即使是魔法的火焰也一样。
+|prerequisites=地精。
+|benefit=你在对抗带有〔火〕描述符的法术的豁免检定时获得+2加值。此外，你身上的[[疤痕]]说明你是一名有才华的驯火者，这使你在与其他[[地精]]打交道时的交涉以及威吓检定获得+2环境加值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[燃烧之心]]（1 个条目）

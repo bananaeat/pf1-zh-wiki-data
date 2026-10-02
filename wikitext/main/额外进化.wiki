@@ -1,0 +1,11 @@
+{{Feat
+|name=额外进化
+|english_name=Extra Evolution
+|description=你的[[幻灵]]拥有更多的进化。
+|prerequisites=【幻灵】职业特性。
+|benefit=你幻灵的进化池增加1点。
+|special=你可以在1级选择这一次进化，并且在5级、10级、15级和20级再次选择。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[奥能爆发]] 的神话版本。</small></div>
+{{Feat
+|name=奥能爆发
+|english_name=Arcane Blast
+|categories=神话
+|description=你能够操纵可怕的原始能量做出比仅仅造成伤害更多的事情。
+|prerequisites=[[奥能爆发]]
+|benefit=当你使用[[奥能爆发]]专长时，你可以使伤害骰减半来执行[[战技]]对抗被奥能爆发的目标，你要从摔绊和[[冲撞]]战技中选择一种。你无法用此专长的冲撞来和敌人一同移动。这次战技检定尝试会获得加值，数值等同于你在奥能爆发专长中所牺牲的法术等级的一半，而且在确定你的战技加值时，你可以使用你的智力或魅力调整值替代你的力量调整值。此外，你能够花费1次神话之力来将你的奥能爆发伤害骰从d6提升至d8。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

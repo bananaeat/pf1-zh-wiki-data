@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[重雾术]] 的神话版本。</small></div>
+{{Spell
+|name=重雾术
+|english_name=Solid Fog
+|school=咒法系 (创造)
+|levels=催眠师 4;召唤师（掉链） 4;唤魂师 4;奥能师 4;女巫 4;术士 4;法师 4;萨满 4;魔战士 4
+|description=近战攻击与伤害检定所受到的减值增加至-4点。云团的半径与高度增加至50尺。
+
+强化：强化版神话重雾术与强化版神话云雾术具有相同的额外优势。
+|source=神话冒险
+}}
+[[分类:神话法术]]

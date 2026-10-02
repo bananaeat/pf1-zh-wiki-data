@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{危害
+|name=黑嘶泣
+|english_name=Black whinnis
+|kind=毒药
+|type=伤口
+|save=强韧 DC 14
+|frequency=1次/轮，持续2轮
+|initial=1点体质伤害
+|secondary=[[反胃]]1d4轮
+|cure=1次豁免成功
+|price=200 gp
+|description=黑嘶泣是用与知名度更高的[[青嘶泣]]同一种红蔓藤制成的毒药，只不过是将青嘶泣尖刺中蒸馏出的汁液，再用一种稍不稳定的工艺进一步提炼而成。
+|source=冒险之路105：炼狱之门
+}}

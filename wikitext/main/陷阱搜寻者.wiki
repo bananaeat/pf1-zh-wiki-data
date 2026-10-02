@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Mummy's Mask Player's Guide pg. 10, People of the Sands pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=陷阱搜寻者
+|english_name=Trap Finder
+|type=战役
+|pfs=否
+|description=被遗忘的地城和古老的陵墓一直吸引着你，你总是忍不住想深入这些失落之地，搜寻知识、财宝或两者兼得。你也许从未接受过盗贼技艺的正规训练，但你还是练就了发现并解除隐藏陷阱的本领。瓦提大墓地中那些刚刚开放探索的陵墓，似乎正是检验你本事的绝佳场所。你的[[解除装置]]检定获得+1背景加值，且该技能总是你的本职技能。此外，你可以像盗贼一样使用解除装置来解除魔法陷阱。
+|source_name=Mummy's Mask Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Trap%20Finder
+}}

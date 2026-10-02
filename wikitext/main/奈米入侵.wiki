@@ -1,0 +1,11 @@
+{{Feat
+|name=奈米入侵
+|english_name=Nanite Disruption
+|pfs=否
+|description=你可以使用奈米机械激增能力去感染其他机械生物的伤口。
+|prerequisites=奈米机械激增能力
+|benefit=当你和一个仿生人、机器人或一个主要由电子零件构成的生物(由GM决定)临接时，你可以用一个直觉动作来启动你的奈米机械激增能力来短路对方生物的硬体。透过一个成功的近战接触攻击，对方没通过DC为10+1/2你的角色等级+1/2你的体质调整值的意志豁免的话，他的下一个d20骰将会受到1+1/2你的角色等级（最低0）的减值。这个减值会持续到你的下一轮开始。
+|source=PotS
+|source_name=繁星子民
+|source_url=https://pf1chm.pages.dev/topics/page_939.html
+}}

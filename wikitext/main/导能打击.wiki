@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[导能打击 (神话)]]。</small></div>
+{{Feat
+|name=导能打击
+|english_name=Channel Smite
+|categories=战斗
+|description=你能将神的力量引导到你的近战武器中。
+|prerequisites=引导能量能力。
+|benefit=在你进行近战攻击检定之前，你能以[[迅捷动作]]选择使用你的一种[[引导能量]]。如果你引导的是正能量并击中一个不死生物，该生物将受到等同于你引导正能量的额外伤害。反之，对于引导负能量击中活着的生物，造成同样的伤害。生物可以通过意志豁免来降低一半伤害。如果你未击中，引导的能量会消散。
+|stamina=在你使用引导打击时，可选择花费不超过你引导能量骰数的耐力点，每点消耗的耐力增加[[导能打击]]的正/负能量伤害1d6。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[引导之手(专长)]]、[[高等导能打击]]（2 个条目）

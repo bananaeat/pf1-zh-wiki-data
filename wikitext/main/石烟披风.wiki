@@ -1,0 +1,15 @@
+{{魔法物品
+|name=石烟披风
+|english_name=Stonemist Cloak
+|aon=MagicWondrousDisplay.aspx?FinalName=Stonemist Cloak
+|cat=奇物
+|aura=微弱咒法系、幻术系
+|cl=3
+|slot=肩部
+|price=3,500 gp
+|weight=1磅
+|description=在岩地或山区，穿戴这件石灰色的披风并把兜帽拉起罩住头部时，穿戴者在[[隐匿]]检定上获得+5表现加值。每天一次，穿戴者可以制造一片等同于[[隐雾术]]的雾区。
+|req=[[制造奇物]]、[[隐形术]]、[[隐雾术]]
+|cost=1,750 gp
+|source=进阶种族手册、极限宝具
+}}

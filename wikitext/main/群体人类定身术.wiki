@@ -1,0 +1,16 @@
+{{Spell
+|name=群体人类定身术
+|english_name=Hold Person, Mass
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=催眠师 6;奥能师 7;女巫 7;异能者 7;术士 7;法师 7
+|action=标准动作
+|components=语言;姿势;法器/圣徽（平直的小铁块）
+|range=中距
+|target=一个或更多类人生物，任意两者之间的距离不超过30尺
+|duration=1轮/等级 (可解消); 见后文
+|save=意志，通过则无效; 见后文
+|sr=是
+|description=除了上述区别之外，该法术的功能如同[[人类定身术]]一般。
+|source=核心规则书
+}}

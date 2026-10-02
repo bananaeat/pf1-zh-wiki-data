@@ -1,0 +1,17 @@
+{{Spell
+|name=援助术
+|english_name=Aid
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=先知 2;唤魂师 2;审判者 2;导师 2;战斗祭司 2;炼金术师 2;牧师 2;萨满 2;调查员 2;通灵者 2
+|domains=机运领域 2;战术子域 2;传奇子域 2
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=接触
+|target=接触到的活物
+|duration=1分钟/等级
+|save=无
+|sr=是（无害）
+|description=援助术给目标的攻击检定与对抗恐惧效果的豁免检定提供+1士气加值，外加 {1d8+CL} 的临时HP (临时HP在CL 10时达到最大，为 {1d8+10} 点)。
+|source=核心规则书
+}}

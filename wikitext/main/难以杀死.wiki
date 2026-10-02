@@ -1,0 +1,9 @@
+{{Trait
+|name=难以杀死
+|english_name=Hard to Kill
+|type=战斗
+|description=你强烈的求生与散播善良的意志，加上你纯洁的躯体使你成为难以击倒的顽强对手。可能在你小时候遭遇事故时发现了这一点，也可能发生在你的第一场战斗中。当你[[濒死]]并进行体质检定以[[伤害和死亡#稳定和恢复|稳定伤势]]时，该检定的减值只等于你负生命值的一半，而非全部。
+|source_name=战斗背景
+|source=CoP
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

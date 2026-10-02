@@ -1,0 +1,9 @@
+{{装备
+|name=四轮马车
+|english_name=Carriage
+|cat=陆上交通
+|price=100 gp
+|passage=3 cp
+|description=这种四轮交通工具的封闭车厢中能够运输至多四人外加两名车夫。通常来说，需要两匹马（或其他驮兽）拉着它。购买一架马车的金额也包含拉动它所需的挽具。
+|source=核心规则书、极限宝具
+}}

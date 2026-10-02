@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|极限荒野|Ultimate Wilderness}}
+'''木行术'''（Woodland Step, Su）是[[操念使]]的[[原力]]。
+
+元素：木；类别：通用（Su）；等级：1；超载：0
+
+你获得[[德鲁伊#穿林步|穿林步]]，如同德鲁伊的该项能力。由于你拥有操纵植物的能力，你能够以标准动作尝试一次施法者等级检定（DC=11+法术的施法者等级）无视魔法操控的植物（但不能是植物类型的生物）。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_662.html 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Woodland Step|2=Woodland Step}}
+
+[[分类:原力]]

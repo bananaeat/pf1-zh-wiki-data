@@ -1,0 +1,16 @@
+{{Spell
+|name=魅惑动物
+|english_name=Charm Animal
+|school=惑控系 (魅惑)
+|tags=影响心灵
+|levels=异能者 1;德鲁伊 1;游侠 1;猎人 1;萨满 1
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一只动物
+|duration=1小时/等级
+|save=意志，通过则无效
+|sr=是
+|description=该法术的功能如同[[魅惑人类]]一般，不过它影响的是一只动物类的生物。
+|source=核心规则书
+}}

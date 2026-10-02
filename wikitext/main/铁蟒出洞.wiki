@@ -1,0 +1,11 @@
+{{Feat
+|name=铁蟒出洞
+|english_name=Darting Viper
+|categories=战斗
+|description=手持链子锤时，你可以迅速调整它的长度，迎击忽近忽远的敌人。
+|prerequisites=基础攻击加值+4，擅长矮人链子锤
+|benefit=你可以以一个[[迅捷动作]]将[[矮人]]链子锤切换为触及或非触及武器。
+|normal=将矮人链子锤在触及或非触及类型间切换需要一个[[移动动作]]。
+|source_name=冒险者的军械库
+|source_url=https://pf1chm.pages.dev/topics/zh76e8e262f5.htm
+}}

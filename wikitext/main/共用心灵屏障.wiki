@@ -1,0 +1,15 @@
+{{Spell
+|name=共用心灵屏障
+|english_name=Mind blank, communal
+|school=防护系
+|levels=异能者 8;奥能师 9;女巫 9;术士 9;法师 9
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=接触到的复数生物
+|duration=24小时
+|save=意志，通过则无效（无害）
+|sr=是
+|description=这个法术工作方式如同[[心灵屏障]]，不过你可以将持续时间以1小时为单位分配给接触到的复数生物。
+|source=极限战斗
+}}

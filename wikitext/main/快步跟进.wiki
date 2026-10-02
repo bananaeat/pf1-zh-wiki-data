@@ -1,0 +1,15 @@
+{{Feat
+|name=快步跟进
+|english_name=Step Up
+|categories=战斗
+|description=当敌人想移开时你能够跟上去。
+|prerequisites=基本攻击加值+1。
+|benefit=每当一个邻近的敌人试图做一个五尺快步远离你时，你能以[[直觉动作]]也做一个五尺快步，只要你结束移动时和触发此能力的敌人相邻。如果你做了此种移动，你下一回合不能做五尺快步。如果你下一回合进行了移动，从你的总移动距离里面减去5尺。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[墙角战法]]、[[飞步进击]]（2 个条目）

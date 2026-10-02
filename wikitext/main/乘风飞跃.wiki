@@ -1,0 +1,9 @@
+{{Trait
+|name=乘风飞跃
+|english_name=Following Breeze
+|type=种族
+|prerequisites=[[风元素裔]]
+|description=你身边似乎总是有一道飘风，也知道利用这阵风抬起自己的时机与方法。只要你有助跑，你在跳跃的特技检定上获得+2背景加值。你的速度在你执行奔跑动作时提升5尺。
+|source_name=沙之子民
+|source_url=https://pf1chm.pages.dev/topics/zh730f330f66.htm
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=受虐狂
+|english_name=Pain Is Pleasure
+|type=宗教
+|prerequisites=信仰[[宗-库松]]
+|description=你发现了隐藏在血肉之下的黑暗事实。当你的生命值处于最大值一半以下时，你的强韧豁免和意志豁免获得+1背景加值。
+|source_name=宗教背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

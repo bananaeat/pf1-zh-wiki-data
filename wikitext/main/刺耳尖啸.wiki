@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[刺耳尖啸 (神话)]]。</small></div>
+{{Spell
+|name=刺耳尖啸
+|english_name=Ear-piercing scream
+|school=塑能系
+|tags=音波
+|levels=吟游诗人 1;奥能师 1;女巫 1;审判者 1;异能者 1;术士 1;歌者 1;法师 1;血脉狂怒者 1;通灵者 1
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一名生物
+|duration=立即；见下文
+|save=强韧，通过则部分生效（见下文）
+|sr=是
+|description=你发出一阵剧烈的尖叫，但只有目标能听到。使目标[[晕眩]]一轮并且每2施法者等级受到1d6 （最高5d6） 的音波伤害。成功的检定将不会晕眩并且只受到一半伤害。
+|source=极限魔法
+}}

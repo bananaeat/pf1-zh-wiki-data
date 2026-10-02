@@ -1,0 +1,10 @@
+{{Trait
+|name=鼠人复仇者
+|english_name=Ratfolk Avenger
+|type=种族
+|prerequisites=[[鼠族]]
+|description=你守护自己人。你对你曾经目睹对你的其中一个盟友造成伤害的对手的武器伤害骰+1背景加值。
+|source_name=内海种族
+|source=Inner Sea Races
+|source_url=https://pf1chm.pages.dev/topics/zh3a98986c0e.htm
+}}

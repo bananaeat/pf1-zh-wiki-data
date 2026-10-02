@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[死亡法阵 (神话)]]。</small></div>
+{{Spell
+|name=死亡法阵
+|english_name=Circle of Death
+|school=死灵系
+|tags=死亡
+|levels=唤魂师 6;奥能师 6;审判者 6;术士 6;法师 6
+|action=标准动作
+|components=语言;姿势;材料（价值500gp的黑珍珠粉）
+|range=中距
+|area=半径40尺爆发区域内的活物
+|duration=立即
+|save=强韧，通过则无效
+|sr=是
+|description=死亡法阵让活物的生命之火燃尽，从而立即杀死它们。该法术会杀死HD总和相当于每CL 1d4个HD的活物 (最高20d4)。HD最小的生物将首先被影响；HD相同时，最靠近法术爆发中心点的生物先受影响。HD大于等于9的生物不会受到法术影响。多余出来不足以影响生物的HD将被浪费掉。
+|source=核心规则书
+}}

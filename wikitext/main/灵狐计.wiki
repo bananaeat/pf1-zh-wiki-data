@@ -1,0 +1,15 @@
+{{Feat
+|name=灵狐计
+|english_name=Kitsune Tricks
+|categories=战斗;流派
+|description=当你的计策层出不穷时，你的对手已经无力维持正常的思考。
+|prerequisites=智力13，[[寓守于攻]]，[[精通阴招]]，[[灵狐式]]，基础攻击加值+3或武僧等级3
+|benefit=当处于灵狐流的架势时，你可以通过一次[[阴招]][[战技]]检定为对手同时施加两种不同的状态；以此法施加的这两种状态只需一个动作就可以同时移除。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[灵狐倾城]]（1 个条目）

@@ -1,0 +1,10 @@
+{{装备
+|name=闪避药水
+|english_name=Dodger's draught
+|cat=酊剂
+|price=300 gp
+|weight=—
+|craft_dc=25
+|description=这种暗绿色的液体带着刺鼻的气味。在饮下酊剂的1小时内，你的肌肉会本能的对危险做出反应，你在AC上获得+2闪避加值。你无意识的肌肉抖动会使你在持续时间内的攻击骰上承受-2罚值。
+|source=药剂与毒药
+}}

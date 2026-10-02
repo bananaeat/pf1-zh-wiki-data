@@ -1,0 +1,9 @@
+{{Trait
+|name=萨迦瓦卫士
+|english_name=Sargavan Guard
+|type=地区
+|prerequisites=萨迦瓦
+|benefit=你在萨迦瓦担任助理治安官，或者是芒吉本地正规军成员。你可以在炎热的环境下身着甲胄行进。当你身着任何盔甲时，盔甲检定减值-1,最低降为0。
+|source_name=初探内海
+|source_url=https://pf1chm.pages.dev/topics/zh90f44086c1.htm
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=拉兹米尔的侍祭
+|english_name=Acolyte of Razmir
+|type=地区
+|prerequisites=拉兹密安
+|description=你是拉兹米尔教的信徒，或者曾经是但已抛弃至今。你在知识（本地）和知识[宗教]检定获得+1背景加值，而且其中一个技能总是你的[[本职技能]]。当面对有关拉兹米尔教时此加值提升至+2。
+|source_name=初探内海
+|source=Inner Sea Primer
+|source_url=https://pf1chm.pages.dev/topics/zh90f44086c1.htm
+}}

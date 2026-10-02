@@ -1,0 +1,9 @@
+{{Trait
+|name=影响力
+|english_name=Influence
+|type=社会
+|description=你的社会地位帮助你从新视角审视他人，也让别人看待你的眼光有所不同。选择以下一项技能：交涉、威吓或察言观色。你在该技能上获得+1背景加值，并且总能将其视为你的[[本职技能]]。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

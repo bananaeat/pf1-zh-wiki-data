@@ -1,0 +1,14 @@
+{{魔法物品
+|name=调情粉盒
+|english_name=Philanderous Compact
+|aon=MagicWondrousDisplay.aspx?FinalName=Philanderous Compact
+|cat=奇物
+|aura=微弱幻术系
+|cl=1
+|slot=无
+|price=1,500 gp
+|description=这个小巧的抛光皮革盒子打开后，里面是一面镜子、脸粉、胭脂和一个粉扑。使用粉扑并说出一个命令字，你便可以每日一次如同[[易容术]]一般改变自己的外貌。此外，你在搜集信息的[[交涉]]检定上获得+2表现加值。
+|req=[[制造奇物]]、[[易容术]]，制造者必须拥有至少5级的搜集信息（[[交涉]]）
+|cost=750 gp，60 XP
+|source=塔尔多，荣光荡漾之地
+}}

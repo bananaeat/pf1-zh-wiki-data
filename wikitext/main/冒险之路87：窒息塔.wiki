@@ -1,0 +1,49 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #87: The Choking Tower
+|authors=Ron Lundeen
+|pages=96
+}}
+
+{{书页/简介|head=|1=
+铁锈之主和他们那位怪异的钢铁之神已被击败，但纽梅利亚新晋英雄们的胜利，揭开了一个远比区区一伙匪帮严重得多的威胁。一位更强大的钢铁之神正在神秘莫测的银山中崛起，但在英雄们与之对峙之前，必须先找回这位怪异神明首位崇拜者留下的遗产。线索指向了仇视科技的小镇伊亚登维（Iadenveigh）——一个农耕社区，毗邻科技术士弗卡斯·肖德（Furkas Xoud）那座神秘的窒息塔。这位痴迷知识的「烟雾法师」，在这场逐渐展开的威胁中会扮演什么角色？英雄们能否及时做好准备，迎接与纽梅利亚最强大的钢铁之神那无可避免的碰撞？
+
+本册《冒险之路》延续「钢铁诸神」冒险之路，内容包括：
+
+* 《窒息塔》，一部面向 7 级角色的开拓者冒险，作者 Ron Lundeen。
+* 对闭塞的农耕之城伊亚登维的一瞥，作者 Ron Lundeen。
+* 三场可加入你的「钢铁诸神」战役的纽梅利亚荒野激动人心的遭遇，作者 Patrick Renie。
+* 「探索者日志」中一段化为谜团的旅程，作者 Amber E. Scott。
+* 四种可怕的新怪物，作者 Paris Crenshaw、Mark Garringer 和 Ron Lundeen。
+}}
+
+'''冒险之路87：窒息塔'''（''Pathfinder #87: The Choking Tower''）是[[冒险之路]]「钢铁诸神」系列的一部冒险，由 Ron Lundeen 撰写，配套文章出自 Patrick Renie、Paris Crenshaw 和 Mark Garringer，小说出自 Amber E. Scott，于 2014 年 10 月 22 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+窒息塔 @ 6
+NPC 图集 @ 54
+钢铁诸神宝藏 @ 60
+- 小魔怪皮鼓（gremlin-skin drum）
+- 炉边披风（hearth mantle）
+- 蜂巢脑共生体（hivebrain symbiote）
+- 营养训练节点（nutrient training node）
+- 缚烟权杖（rod of gripping smoke）
+- 烟熏炉（smoke furnace）
+伊亚登维（Iadenveigh） @ 62
+纽梅利亚任务 @ 68
+探索者日志：荒原低语（3／6） @ 76
+怪物图鉴 @ 80
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=The Choking Tower
+|releases=PDF¦PZO9087E¦2014-10¦；Softcover¦PZO9087¦2014-10¦978-1-60125-688-1
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

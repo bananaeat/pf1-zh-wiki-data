@@ -1,0 +1,15 @@
+{{魔法物品
+|name=索敌权杖
+|english_name=Rod of Enemy Detection
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Enemy Detection
+|cat=权杖
+|aura=中等预言系
+|cl=10
+|slot=无
+|price=23,500 gp
+|weight=5磅
+|description=这个装置在使用者的手中搏动，并指向对装置持有者怀有敌意的任何生物所在的方向（从最近的开始）。这些生物可能是[[隐形]]的、虚体的、躲藏的、伪装的，或是在众目睽睽之下的。侦测的范围是60尺。如果[[魔法物品#权杖|权杖]]的持有者专注一整轮，权杖会精确指出最近敌人的位置，并指示范围内有多少敌人。每天该权杖可被用来精确指出敌人3次，每次使用最长持续10分钟。启动这根权杖是一个[[标准动作]]。
+|req=[[制造权杖]]、[[真知术]]
+|cost=23,500 gp
+|source=核心规则书、极限宝具
+}}

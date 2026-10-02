@@ -1,0 +1,14 @@
+<includeonly><div class="monster-ab"><div class="ab-name">{{{1|}}}{{#if:{{{2|}}}|<span class="ab-type">{{{2}}}</span>}}</div><div class="ab-body">{{{3|}}}</div></div></includeonly><noinclude>
+[[模板:怪物]] 里'''一条特殊能力'''。名字单独一行，正文另起。
+
+ {{怪物能力|黏液云|Ex|在水中的底栖魔鱼散发出透明的黏液。所有接近……}}
+
+三个位置参数：'''1''' 能力名、'''2''' 类型（<code>Ex</code>／<code>Su</code>／<code>Sp</code>，
+没有就留空）、'''3''' 正文。
+
+不用小节标题（<code>=== X ===</code>）是因为那会进目录——一只怪物十条能力，
+目录就被它淹了；而且属性块是一张卡片，卡片里长出目录项也不对。
+样式在 [[MediaWiki:Common.css]] 的「怪物属性块」一节。
+
+[[分类:模板]][[分类:规则模板]]
+</noinclude>

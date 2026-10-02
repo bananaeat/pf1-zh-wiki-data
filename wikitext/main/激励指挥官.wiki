@@ -1,0 +1,10 @@
+{{Feat
+|name=激励指挥官
+|english_name=Inspirational Commander
+|pfs=否
+|description=在你的杰出领导下，你麾下的军队拥有更高昂的士气。
+|prerequisites=魅力13
+|benefit=你或任何在你指挥下的军队在士气检定中获得+2士气加值。另外，你获得你所选择的两个额外军略（见[[极限战役]]240页）。
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/zhef0bc5c087.htm
+}}

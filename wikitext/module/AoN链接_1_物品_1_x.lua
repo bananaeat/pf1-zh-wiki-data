@@ -1,0 +1,7 @@
+-- 物品英文名（小写、只留字母数字）-> AoN 原始链接。tools/build_item_aon_module.py 生成，别手改。
+return {
+	["xanthuuntablets"] = "MagicWondrousDisplay.aspx?FinalName=Xanthuun%20Tablets",
+	["xillcarapacearmor"] = "MagicArmorDisplay.aspx?ItemName=Xill%20Carapace%20Armor",
+	["xlaser"] = "EquipmentTechWeaponsDisplay.aspx?ItemName=X-laser",
+	["xornrobe"] = "MagicWondrousDisplay.aspx?FinalName=Xorn%20Robe",
+}

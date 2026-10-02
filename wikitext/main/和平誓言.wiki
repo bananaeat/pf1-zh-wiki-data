@@ -1,0 +1,15 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[和平誓言 (神话)]]。</small></div>
+{{Spell
+|name=和平誓言
+|english_name=Oath of peace
+|school=防护系
+|levels=圣武士 4
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|target=自己
+|duration=1轮/等级
+|sr=否
+|description=通过对你的信仰祈求帮助，你做了一个短暂的和平誓言，这使你获得了卓越的防御力但是也意味着你无法在誓言期间内进行攻击。只要你还是该法术的受术者，你的AC与豁免检定均会获得+5神圣加值，以及DR 10/邪恶。如果你直接或间接地攻击，或者显示出对任何生物的敌意，该法术立即结束。
+|source=进阶玩家指南
+}}

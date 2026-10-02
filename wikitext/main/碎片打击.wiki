@@ -1,0 +1,12 @@
+{{Feat
+|name=碎片打击
+|english_name=Shrapnel Strike
+|categories=战斗
+|pfs=否
+|description=你可以猛击物品来伤害附近的敌人。
+|prerequisites=力量15，[[精通击破]]，[[猛力攻击]]
+|benefit=当你尝试力量检定以击破可以粉碎的物品（不可由纸、布、皮革或其他柔软材料制成）时，你的力量检定获得“你的BAB”的加值。若检定结果高于该物品的破坏DC，你可以将碎片砸向四面八方，对物品10英尺内的所有生物（包括你自己）造成“1D4＋物品硬度”点穿刺、挥砍和钝击伤害。成功的反射豁免（DC＝10＋1/2你的生命骰＋你的力量调整值）可使伤害减半。
+|source=CoC
+|source_name=秽邪勇士
+|source_url=https://pf1chm.pages.dev/topics/zh45cf79b2ca.htm
+}}

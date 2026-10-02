@@ -1,0 +1,11 @@
+<noinclude>{{先知导航}}
+{{消歧义|通灵法术}}
+'''通灵法术'''（Spectral Spells, Su）是[[先知]]的[[通灵秘示域]]底下的一项能力。
+
+</noinclude>{{Source|异能奥秘|Occult Mysteries|inline}}
+
+你得到[[跨界法术]]作为[[奖励专长]]。此外，每天一次，你可以用[[标准动作]]配合跨界法术专长施展法术而不会增加法术的等级。7级后以及之后的每4级，你可以多使用此能力一次。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_534.html 原文]）。全部秘示域见 [[:分类:秘示域|分类:秘示域]]。
+
+[[分类:秘示域]]</noinclude>

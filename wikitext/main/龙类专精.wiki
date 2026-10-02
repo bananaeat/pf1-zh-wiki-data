@@ -1,0 +1,11 @@
+{{Feat
+|name=龙类专精
+|english_name=Focused Dragon Expertise
+|categories=战斗
+|description=你对龙类的了解助你轻松躲避喷吐武器。
+|prerequisites=宿敌（龙类）职业特性
+|benefit=你对抗喷吐武器和恐惧效果的豁免检定上，获得等于你宿敌（龙类）加值一半的加值。每当你成功通过一次对抗龙类特异能力或超自然能力(Su）的反射豁免检定（且成功后该能力原本会伤害减半），你将不会受到任何伤害。若你已拥有反射闪避职业特性，那么对抗龙类特异能力或超自然能力(Su）时，你将获得审判者的坚定能力。
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh03ef2e8763.htm
+}}

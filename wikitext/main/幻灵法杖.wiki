@@ -1,0 +1,21 @@
+{{魔法物品
+|name=幻灵法杖
+|english_name=Staff of Eidolons
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Eidolons
+|cat=法杖
+|aura=中等咒法系、变化系
+|cl=8
+|slot=无
+|price=14,400 gp
+|weight=5磅
+|description=这根弯曲的法杖由桃花心木制成，木头上凸出装饰着[[幻灵]]的骨骼。
+
+该法杖可以使用以下法术：
+
+* [[次等向导治愈术]]（1 发；APG）
+* [[无缚之灵]]（1 发；APG）
+* [[次等激励进化]]（2 发；APG）
+|req=[[制造法杖]]、[[次等激励进化]]、[[次等向导治愈术]]、[[无缚之灵]]
+|cost=7,200 gp
+|source=极限宝具
+}}

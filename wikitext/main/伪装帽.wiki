@@ -1,0 +1,16 @@
+{{魔法物品
+|name=伪装帽
+|english_name=Cap of Human Guise
+|aon=MagicWondrousDisplay.aspx?FinalName=Cap of Human Guise
+|cat=奇物
+|aura=微弱幻术系
+|cl=3
+|slot=头部
+|price=800 gp
+|description=这顶破旧的帽子可以让穿戴者随意改变外貌，如同[[易容术]]，只是她只能变成衣着朴素的小型[[人类]]儿童、成年[[半身人]]或成年[[侏儒]]的样子，比如农民、铁匠或店主。穿戴者可以在伪装中稍微改变帽子的外观，但除此之外，必须与幻象形体整体上不起眼的外貌相符。
+
+虽然它是由小型类人生物发明并主要由其使用，但任何小型或中型类人生物都可以使用它。
+|req=[[制造奇物]]、[[易容术]]
+|cost=400 gp
+|source=进阶种族手册、极限宝具
+}}

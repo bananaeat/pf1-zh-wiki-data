@@ -1,0 +1,9 @@
+{{Trait
+|name=古墓丽影
+|english_name=Tomb Raider
+|type=派系
+|description=你一生绝大部分时间都是在对奥斯力昂的古墓和地下墓穴的探索中度过的。你的察觉和知识(地下城)技能获得+1加值，其中之一(由你选择)成为你的[[本职技能]]。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

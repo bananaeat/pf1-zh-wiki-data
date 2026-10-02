@@ -1,0 +1,13 @@
+{{Feat
+|name=炎刃狂舞
+|english_name=Flame Blade Dervish
+|categories=战斗
+|pfs=否
+|description=在挥舞火焰刀时，你身法变得更加灵动敏捷。
+|prerequisites=能够以类法术能力或正常施放火焰刀
+|benefit=当你施放火焰刀时，只要该法术仍存在，你的基本陆上速度便会获得+10尺的增强加值，且所有特技检定均会获得+4表现加值。将你的魅力调整值加到你的火焰刀的伤害检定上，并且在判断你的火焰刀所造成的伤害时，忽略被你用火焰刀命中的生物所具有的前10点火焰抗力。在对抗不死敌人时，你能够忽略前30点火焰抗力。免疫火焰仍旧可以完全避免你的火焰刀的伤害。
+|notes=许多塞恩蕾的信徒会选择该专长。
+|source=PotR
+|source_name=正义之路
+|source_url=https://pf1chm.pages.dev/topics/page_678.html
+}}

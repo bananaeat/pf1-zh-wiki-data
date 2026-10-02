@@ -1,0 +1,12 @@
+{{Feat
+|name=清神打击
+|english_name=Focusing Blow
+|categories=团队
+|pfs=否
+|description=你和你盟友的团队协作打破了敌人精神攻击的影响。
+|prerequisites=[[大地精军规]]，大地精。
+|benefit=同样拥有该专长的盟友可以通过对你造成伤害，给予你再一次豁免持续性影响心灵效果的机会。盟友必须以攻击、法术或其他能力对你造成至少5点伤害。该次攻击每额外造成5点伤害，你就在这次重新豁免中获得+1加值。如果你豁免成功，则影响心灵的效果立刻结束。该专长的影响只计算实际造成的伤害；[[非致命伤害]]以及被减免的伤害等不算在内。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

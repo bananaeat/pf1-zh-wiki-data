@@ -1,0 +1,15 @@
+{{Spell
+|name=圣化武器
+|english_name=Sanctify weapons
+|school=变化系
+|levels=圣武士 3;先知 5;战斗祭司 5;牧师 5
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=近距（25+5尺/2级）
+|area=20尺半径扩散
+|duration=1轮/级
+|save=意志免除（无害，物品）
+|sr=是（无害，物品）
+|description=这道法术源出天堂军团。当施展该法术时指定一类邪恶异界生物的子类，如魔鬼，邪魔，恶魔，妖灵等。法术范围内所有制造武器穿透那类生物的伤害减免。武器并不会因此获得阵营或改变材质。
+|source=正义编年史
+}}

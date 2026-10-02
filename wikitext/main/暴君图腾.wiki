@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=暴君图腾
+|english_name=Tyrant Totem
+|type=Ex
+|categories=图腾
+|prerequisites=[[野蛮人]]8级，[[次等暴君图腾]]
+|benefit=狂暴时，当野蛮人的啮咬攻击命中，她可以以一个[[自由动作]][[擒抱]]对手。
+|source_name=极限荒野
+}}

@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=幽灵探照灯
+|english_name=Spectral Searchlight
+|aon=MagicWondrousDisplay.aspx?FinalName=Spectral Searchlight
+|cat=奇物
+|aura=微弱预言系、塑能系［光］
+|cl=3
+|slot=无
+|price=24,050 gp
+|weight=200磅
+|description=这盏碳弧探照灯由拉斯普京和俄国发明家维克托·米洛斯拉夫共同打造，能在360尺长的直线范围内提供正常光照，并把其外直至720尺长直线范围内的光照等级提高一档（黑暗变为昏暗光照，昏暗光照变为正常光照）。幽灵探照灯还能显现其作用范围内的灵体或隐形的生物和物体。幽灵探照灯通常安装在瞭望塔上，或架在两轮推车上以便运输。
+|req=[[制造奇物]]、[[不灭明焰]]、[[识破隐形]]
+|cost=12,050 gp
+|source=冒险之路71：拉斯普京必须死！
+}}

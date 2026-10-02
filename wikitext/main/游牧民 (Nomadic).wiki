@@ -1,0 +1,10 @@
+{{Trait
+|name=游牧民
+|english_name=Nomadic
+|type=种族
+|prerequisites=[[人类]]（巴斯奥部落）
+|description=你曾生活在巴斯奥部落之中并且非常了解萨迦瓦。 你在知识[地理]和生存检定获得+1背景加值，其中一项技能(由你选择)总是你的[[本职技能]]。
+|source_name=萨迦瓦，失落的殖民地
+|source=Sargava, the Lost Colony
+|source_url=https://pf1chm.pages.dev/topics/zha47c8ffc75.htm
+}}

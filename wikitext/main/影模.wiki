@@ -1,0 +1,9 @@
+{{装备
+|name=影模
+|english_name=Shadow stencil set
+|cat=工具
+|price=30 gp
+|weight=2磅
+|description=这套10个精致的金属模具用于皮影戏，可以投射出高度风格化的人物和物体的影子。如果用它来辅助创造任何类型的暗影法术或效果（包括皮影戏吟游表演），剪影人的豁免DC获得+1表现加值。使用影模需要一只手。
+|source=进阶种族手册
+}}

@@ -1,0 +1,12 @@
+{{Feat
+|name=灵活重击
+|english_name=Critical Versatility
+|categories=战斗
+|description=灵活的思维和战斗训练使你的重击变得灵活多变。
+|prerequisites=战士11级，人类。
+|benefit=每天一次，你可以花费1个小时演练战斗技巧以获得一个[[重击专长]]，你必须满足专长的先决条件才可以选择。你获得所选择重击专长的好处，直到你选择另外一个重击专长替代它。
+|stamina=花费5点耐力，你每天可第二次使用该能力。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

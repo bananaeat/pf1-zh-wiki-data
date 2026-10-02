@@ -1,0 +1,12 @@
+<noinclude>{{战士导航}}
+'''斗士耐力'''（Fighter's Stamina）是[[战士]]的[[进阶武器训练|进阶武器训练]]。
+
+</noinclude>战士获得[[战斗耐力]]作为奖励专长，即使他并没有持用一把相关武器组的武器也是如此。如果战士已经拥有这个专长，那么他改为获得[[额外耐力]]作为奖励专长。
+
+{{Source|野兽血脉|Blood of the Beast|inline}}<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_1094.html 原文]）。全部进阶武器训练见 [[进阶武器训练]]。
+
+[[分类:进阶武器训练]]
+
+{{职业}}</noinclude>

@@ -1,0 +1,10 @@
+{{Feat
+|name=鬼咒脓液
+|english_name=Ghostbane Ichor
+|description=你的毒液强大到足以影响以太位面。
+|prerequisites=知识（宗教）9级，蝮血裔
+|benefit=一把涂有你蝮血毒的武器可以在等于你体质调整值的轮数内获得幽冥[[特殊能力]]，并且对[[虚体]]敌人造成额外1d6点伤害。这个效果可以影响免疫毒素的目标。如果武器被用于攻击一个有实体的生物，毒液会被浪费并且其赋予武器的效果会结束。
+|normal=蝮血毒造成敏捷伤害。
+|source_name=药剂与毒药
+|source_url=https://pf1chm.pages.dev/topics/page_1258.html
+}}

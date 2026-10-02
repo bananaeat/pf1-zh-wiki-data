@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=夜风忍者服
+|english_name=Shozoku of the Night Wind
+|aon=MagicWondrousDisplay.aspx?FinalName=Shozoku of the Night Wind
+|cat=奇物
+|aura=中等幻术系
+|cl=4
+|slot=躯体
+|price=12,000 gp
+|weight=2磅
+|description=这件黑色紧身连体衣是忍者和刺客通常穿的那种类型，但它能赐予穿戴者+2护甲加值，以及[[隐匿]]检定+5表现加值。此外，如果穿戴者所处之地的光照低于正常光照，她可以每天一次使用[[隐形术]]（如同该法术）。如果穿戴者是拥有[[隐身]]的忍者，那么她每天可以使用该能力两次，不消耗任何气，也不受周围光照等级限制。
+|req=[[制造奇物]]、[[隐形术]]
+|cost=6,000 gp
+|source=冒险之路50：冰封暗影之夜
+}}

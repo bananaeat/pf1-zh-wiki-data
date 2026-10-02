@@ -1,0 +1,17 @@
+{{Spell
+|name=高等幽影塑能术
+|english_name=Shadow Evocation, Greater
+|school=幻术系 (幽影幻觉)
+|tags=阴影
+|levels=奥能师 8;术士 8;法师 8
+|domains=黑暗领域 8
+|action=标准动作
+|components=语言;姿势
+|range=见后文
+|effect=见后文
+|duration=见后文
+|save=意志，通过则不相信（若有互动）
+|sr=是
+|description=该法术的功能与[[幽影塑能术]]一样，不过你可以创造出半真实的、7环或更低等级的[[术士]]或法师塑能法术的幻术系版本。若受术者辨识出这是高等幽影塑能术，则伤害性法术仅造成3/5 (60%) 的伤害。
+|source=核心规则书
+}}

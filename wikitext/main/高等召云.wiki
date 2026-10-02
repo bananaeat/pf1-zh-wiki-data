@@ -1,0 +1,11 @@
+{{Feat
+|name=高等召云
+|english_name=Greater Cloud Invocation
+|pfs=否
+|description=你对本国云龙的虔诚使你与它们之间的联系得以增强。
+|prerequisites=[[召云]]、姆贝克矮人
+|benefit=你的 “召云”能力的持续时间提升至每等级1分钟，而且你可以用一个直觉动作来解消。只要你不超过1分钟/等级的持续时间上限，并且以1分钟为单位来消耗 “召云”的持续时间，你每天就可以多次使用 “召云”能力来制造浓雾。如果你在之前制造的浓雾仍存在时又制造了新的浓雾，那么之前的浓雾就会消失。此外，你可以让浓雾始终以你为中心，而不是固定在某个位置不动。
+|source=HftF
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/zh72cd9d7a9f.htm
+}}

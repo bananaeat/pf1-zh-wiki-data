@@ -1,0 +1,11 @@
+{{Trait
+|name=社会奴主
+|english_name=Social Slaver
+|type=地区
+|pfs=否
+|prerequisites=切利亚斯
+|description=你所受的教育令你惯于命令那些被你视作卑贱之人。你对比你体型小至少1级的生物的威吓检定获得+2背景加值。你对较小生物施放的胁迫法术DC+1。
+|source_name=秽邪勇士
+|source=地区
+|source_url=https://pf1chm.pages.dev/topics/zh2cdfe76676.htm
+}}

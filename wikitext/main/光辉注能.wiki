@@ -1,0 +1,17 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''光辉注能'''（Brilliant Infusion）是[[操念使]]的[[原力]]。
+
+元素：火；类别：性质注能；等级：6；超载：4
+
+前置：[[闪光注能]]
+
+关联[[念袭]]类别：[[蓝焰击]]，[[火冲]]，[[太阳风]]
+
+豁免：无
+
+你的念袭会留下一片余辉驱逐黑暗。以你的远程攻击念袭所经路径的每个方格、近战攻击念袭的目标方格、或者区域效果的念袭指向的区域作为[[不灭明焰]]效果的中心，此效果会持续至你的下个回合结束为止。该效果被视为具有光亮描述符的6级法术。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Brilliant Infusion|2=Brilliant Infusion}}
+
+[[分类:原力]]

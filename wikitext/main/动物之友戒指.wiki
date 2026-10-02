@@ -1,0 +1,14 @@
+{{魔法物品
+|name=动物之友戒指
+|english_name=Ring of Animal Friendship
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Animal Friendship
+|cat=戒指
+|aura=微弱惑控系
+|cl=3
+|slot=戒指
+|price=10,800 gp
+|description=动物之友戒指的工艺中总会带有某种动物形象的设计。以命令激活时，这枚[[魔法物品#戒指|戒指]]会对一只动物产生效果，如同穿戴者施放了[[魅惑动物]]，使该动物把穿戴者视为可以信赖的朋友。
+|req=[[锻造戒指]]、[[魅惑动物]]
+|cost=5,400 gp
+|source=核心规则书、极限宝具
+}}

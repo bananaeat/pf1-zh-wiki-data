@@ -1,0 +1,16 @@
+<noinclude>{{速查导航|here=规则}}
+'''活吞'''（Swallow Whole）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：特殊攻击</span></div>
+</noinclude><includeonly><div class="lang"><span id="活吞"></span><div class="lang-h"><b>[[活吞]]</b><i>Swallow Whole</i><span class="lang-w">Ex · 特殊攻击</span></div><div class="lang-d"></includeonly>
+如果具有此特殊攻击的生物在自己的回合开始时，正用嘴擒抱着一名对手（参见[[攫抓(怪物能力)|攫抓]]），它可以再进行一次新的战技检定（如同尝试压制对手）。如果成功，它便吞下猎物，且对手受到啮咬伤害。除非另有说明，对手的体型必须至少比活吞生物小一级。被吞下会使生物每轮都受到伤害，伤害量和类型各异，在生物的数据中给出。被吞下的生物仍处于擒抱状态，而进行活吞的生物则不处于擒抱状态。被吞下的生物可以尝试用任何轻型挥砍或穿刺武器切开生路（切开逃脱所需造成的伤害等于该生物总 HP 的 1/10），也可以直接尝试挣脱擒抱。活吞生物体内的 AC 通常为 10 + 1/2 其天生护甲加值，没有体型或敏捷修正。如果被吞下的生物切开生路逃出，则在伤害被治愈之前，活吞生物不能再使用活吞。如果被吞下的生物挣脱了擒抱，它会回到攻击者的嘴边，可能再次被啮咬或者被吞下。
+
+'''格式'''：活吞（5d6 酸蚀伤害，AC 15，18 HP）
+<includeonly></div></div></includeonly>
+
+{{FAQ|v5748eaic9qft}}
+
+<noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Swallow Whole|2=Swallow Whole}}
+
+[[分类:通用怪物规则]]</noinclude>

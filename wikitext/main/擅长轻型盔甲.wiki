@@ -1,0 +1,18 @@
+{{Feat
+|name=擅长轻型盔甲
+|english_name=Armor Proficiency, Light
+|categories=战斗
+|description=你对于穿戴轻型盔甲颇有心得。
+|benefit=当你穿戴所擅长的盔甲时，只有基于敏捷或力量的技能才会受到防具检定减值。
+|normal=当你穿戴不擅长的盔甲时，对于攻击检定和所有导致角色移动的技能，都会受到防具检定减值。
+|special=除了武僧，[[术士]]和法师以外的所有角色都能自动学会“擅长轻型盔甲”作为[[奖励专长]]，他们无需选择这个专长。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[披甲奥术训练]]、[[擅长重型盔甲]]（2 个条目）
+
+{{FAQ|v5748eaic9ne7}}

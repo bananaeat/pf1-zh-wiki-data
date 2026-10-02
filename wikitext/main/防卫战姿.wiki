@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=防卫战姿
+|english_name=Guarded Stance
+|type=Ex
+|class=掉链野蛮人
+|benefit=野蛮人可以使用一种更具防守性的姿态来战斗。她在狂暴期间获得+1的闪避AC。该加值每4级提升1点。该狂暴之力是一种战姿。
+|classic=守卫姿态
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

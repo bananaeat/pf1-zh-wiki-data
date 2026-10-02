@@ -1,0 +1,11 @@
+{{Feat
+|name=大地子嗣
+|english_name=Scion of the Land
+|categories=团队
+|description=你对天然地形具有强力的联系，这也能使那些被你分享了链接的人收益。
+|prerequisites=生存1级。
+|benefit=当你穿越那些你有能力不留下痕迹且无法被追踪（不论偏好地形、无踪步、或类似职业能力）的地形时，你可以向距你60尺内同样拥有该专长的角色分享该能力。倘若一名60尺内同样拥有该专长的盟友，也有能力在当前地形中正常移动且不留下痕迹的话，那么当处于该地形时，你可在知识（自然）、察觉、和生存检定上获得+1加值。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

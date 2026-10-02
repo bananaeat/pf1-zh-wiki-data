@@ -1,0 +1,12 @@
+{{Feat
+|name=武装尾
+|english_name=Tail Weapon
+|categories=战斗
+|pfs=否
+|description=你锻炼你尾部的肌肉，让它足以击打敌人并同时增进你的身体平衡
+|prerequisites=基础攻击加值+1，蛇人
+|benefit=你获得一次尾扫天生武器攻击。这是次要天生武器，造成1d6点钝击伤害。你同时还在用于保持平衡的特技检定和防止你被移出当前方格的CMD上获得+2种族加值。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1414.html
+}}

@@ -1,0 +1,20 @@
+<includeonly><div class="progress" style="position:relative;">
+  <p style="position: absolute; width: 100%; line-height: 21px; text-align: center; color: #fff; margin-bottom: 0;">'''20'''个内容页面：{{#expr: {{NUMBEROFARTICLES:R}} div 20 * 100 round 1}}%</p>
+  <div class="progress-bar progress-bar-warning progress-bar-striped active" role="progressbar" aria-valuenow=“100” aria-valuemin="0" aria-valuemax="1500" style="width: {{#expr: {{NUMBEROFARTICLES:R}} div 20 * 100}}%;"></div>
+</div>
+<div class="progress" style="position:relative;">
+  <p style="position: absolute; width: 100%; line-height: 21px; text-align: center; color: #fff; margin-bottom: 0;">'''200'''次编辑：{{#expr: {{NUMBEROFEDITS:R}} div 200 * 100 round 1}}%</p>
+  <div class="progress-bar progress-bar-info progress-bar-striped active" role="progressbar" aria-valuenow="{{NUMBEROFEDITS:R}}" aria-valuemin="0" aria-valuemax="1000" style="width: {{#expr: {{NUMBEROFEDITS:R}} div 200 * 100}}%;"></div>
+</div>
+<div class="progress" style="position:relative;">
+  <p style="position: absolute; width: 100%; line-height: 21px; text-align: center; color: #fff; margin-bottom: 0;">'''20'''人关注：{{#expr: {{NUMBEROFFOLLOWERS:R}} div 20 * 100 round 1}}%</p>
+  <div class="progress-bar progress-bar-primary progress-bar-striped active" role="progressbar" aria-valuenow="{{NUMBEROFFOLLOWERS:R}}" aria-valuemin="0" aria-valuemax="1000" style="width: {{#expr: {{NUMBEROFFOLLOWERS:R}} div 20 * 100}}%;"></div>
+</div>
+</includeonly><noinclude>{{优质模板|美化}}{{documentation}}[[Category:huiji template]]</noinclude><noinclude>
+<templatedata>
+{
+	"params": {},
+	"description": "本模板是通过Bootstrap的进度条空间自动生成的，会显示当前站点的主要指标，数值和样式可以通过修改模板来进行个性化控制。\n详细信息与案例请前往https://templatemanager.huiji.wiki/wiki/%E6%A8%A1%E6%9D%BF:Progressbar"
+}
+</templatedata>
+</noinclude>

@@ -1,0 +1,9 @@
+{{Trait
+|name=警备兵
+|english_name=Vigilant Battler
+|type=战斗
+|description=你难以被愚弄，假动作更是难以骗过你的眼睛。你的察言观色检定获得+1背景加值。该背景加值在对抗战斗中的[[虚招]]时增至+2。
+|source_name=战斗背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

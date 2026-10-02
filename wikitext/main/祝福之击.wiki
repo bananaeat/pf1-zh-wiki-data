@@ -1,0 +1,11 @@
+{{Feat
+|name=祝福之击
+|english_name=Blessed Striker
+|description=你对神祇的信仰化为阵营力量，增强了你手中的武器。
+|prerequisites=基础攻击加值+11，能够施放神术，阵营必须与你信仰的神祇阵营相差不超过一阶
+|benefit=你的所有攻击在克服伤害减免时，均视为拥有你与你的神祇共有的阵营成分。
+|special=如果你严重违反神祇要求你遵守的行为准则，或不再信仰该神祇，你将失去本专长。你为自己对神祇的过错赎罪后即可重新获得（见《核心规则书》第245页的[[赎罪术]]法术）。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

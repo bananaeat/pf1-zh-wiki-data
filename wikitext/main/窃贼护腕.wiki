@@ -1,0 +1,15 @@
+{{魔法物品
+|name=窃贼护腕
+|english_name=Burglar's Bracers
+|aon=MagicWondrousDisplay.aspx?FinalName=Burglar's Bracers
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=腕部
+|price=1,050 gp
+|weight=1磅
+|description=这对朴素的皮护腕可以应命令变形为一套精制品盗贼工具，再以另一个同样的命令变回护腕形态。每日1次，在使用这套盗贼工具或穿戴这对护腕时，使用者可以在一次[[解除装置]]检定上取10，即使身处迫在眉睫的危险或分心也一样。
+|req=[[制造奇物]]、[[缩物术]]
+|cost=550 gp
+|source=极限宝具
+}}

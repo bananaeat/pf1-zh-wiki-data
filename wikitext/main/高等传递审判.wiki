@@ -1,0 +1,15 @@
+{{Spell
+|name=高等传递审判
+|english_name=Lend judgment, greater
+|school=预言系
+|levels=审判者 5
+|action=标准动作
+|components=语言;圣徽
+|range=接触
+|target=一名盟友
+|duration=1轮/等级
+|save=意志，通过则无效（无害）
+|sr=是
+|description=该法术的功能如同[[传递审判]] 一般，不过该名盟友可以获得所有你已经激活的审判的好处。
+|source=极限魔法
+}}

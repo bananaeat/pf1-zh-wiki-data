@@ -1,0 +1,9 @@
+{{Trait
+|name=无情
+|english_name=Ruthless
+|type=种族
+|prerequisites=[[矮人]]
+|description=在挥出致命的一击时你从不犹豫。你的重击确认检定获得+1背景加值。
+|source_name=格拉里昂的矮人
+|source_url=https://pf1chm.pages.dev/topics/page_1586.html
+}}

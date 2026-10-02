@@ -1,0 +1,12 @@
+{{消歧义|见缝插针(侠客天赋)}}
+{{Feat
+|name=见缝插针
+|english_name=Target of Opportunity
+|categories=战斗;团队
+|description=你和你的盟友对敌人发起致命的弹幕攻势。
+|prerequisites=[[近距射击]]，基本攻击加值+6。
+|benefit=当一个同样拥有此专长的盟友以远程攻击命中你30尺内的目标时，你可以通过[[直觉动作]]对该目标发起单次远程攻击。你的远程武器必须在手、上膛且已经可以开火或投掷。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

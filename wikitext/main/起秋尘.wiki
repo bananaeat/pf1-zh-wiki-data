@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|极限荒野|Ultimate Wilderness}}
+'''起秋尘'''（Autumn Blast, Sp）是[[操念使]]的[[原力]]。
+
+元素：土和木；类别：[[复合念袭]]（Sp）；等级：－；超载：2
+
+前置：[[岩击]]，[[木袭]]
+
+[[念袭]]性质：物理；伤害类型：钝击、穿刺或挥砍中的任意两种（各占一半）
+
+一阵落叶和浮土袭向一名敌人。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Autumn Blast|2=Autumn Blast}}
+
+[[分类:原力]]

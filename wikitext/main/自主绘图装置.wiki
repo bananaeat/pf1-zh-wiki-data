@@ -1,0 +1,15 @@
+{{魔法物品
+|name=自主绘图装置
+|english_name=Autonomous Cartographer
+|aon=MagicWondrousDisplay.aspx?FinalName=Autonomous Cartographer
+|cat=奇物
+|aura=微弱预言系
+|cl=5
+|slot=无
+|price=2,000 gp
+|weight=1/2磅
+|description=一经命令，这件物品就会绘出你周围的环境，范围直至你正常视野的极限，画面如同出自一位称职但不出众的画师之手。它不会记录你看不见的任何细节。自主绘图装置会按需要绘制地图，使之适配于物品内装着的一张1尺×4尺的羊皮纸或卷轴。第二次命令会擦除卷轴上的内容，使你得以再次使用它。你可以用一个[[整轮动作]]插入或取出卷轴。
+|req=[[制造奇物]]、[[抹消术]]、[[魔法伎俩]]
+|cost=1,000 gp
+|source=秘密探寻者
+}}

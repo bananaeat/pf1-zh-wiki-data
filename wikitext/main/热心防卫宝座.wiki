@@ -1,0 +1,19 @@
+{{物品
+|name=热心防卫宝座
+|english_name=Throne of the Ardent Defense
+|category=冒险装备
+|aura=中等防护系和惑控系
+|cl=10级
+|slot=无位置
+|price=16,000GP
+|weight=350磅
+|requirements=[[制造奇物]]，英雄气概（heroism），护卫他人（shield other）
+|cost=8,000GP
+|description=出自：Heroes of the High Court pg. 31
+
+描述：
+
+这个沉重的宝座由精雕细琢的锻铁制成，并饰有印着统治者纹章的盾牌。一位曾坐在热心防卫宝座（throne of ardent defense）上的统治者获得该宝座持续性的[[英雄气概]]效果。致敬一位坐在宝座上的统治者可在接下来的24小时内获得以类法术能力施展一次[[护卫他人]]的能力。如果受法术影响的目标不是从施法者就是从宝座移动超过50尺，则法术结束。
+|source=HotHC
+|source_name=皇庭英豪
+}}

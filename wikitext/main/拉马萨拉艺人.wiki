@@ -1,0 +1,9 @@
+{{Trait
+|name=拉马萨拉艺人
+|english_name=Lamasaran Performer
+|type=地区
+|prerequisites=苏比亚
+|description=作为拉马萨拉著名演艺圈里的一号人物，你的大名传遍苏比亚全境。每天1次，当你启动吟游表演时，你可以使抵抗该表演效果的豁免DC+1。此效果持续到你切换或结束该次吟游表演。
+|source_name=沙之子民
+|source_url=https://pf1chm.pages.dev/topics/zh730f330f66.htm
+}}

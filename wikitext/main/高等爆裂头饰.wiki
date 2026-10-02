@@ -1,0 +1,15 @@
+{{魔法物品
+|name=高等爆裂头饰
+|english_name=Crown of Blasting (Major)
+|aon=MagicWondrousDisplay.aspx?FinalName=Crown of Blasting (Major)
+|cat=奇物
+|aura=强烈塑能系
+|cl=17
+|slot=头部
+|price=23,760 gp
+|weight=1磅
+|description=每天一次，以一个命令，这只精美的金色头饰会发射出一道[[灼热光辉]]（5d8，极效，造成40点伤害）。
+|req=[[制造奇物]]、[[法术极效]]、[[灼热光辉]]
+|cost=11,880 gp
+|source=核心规则书、极限宝具
+}}

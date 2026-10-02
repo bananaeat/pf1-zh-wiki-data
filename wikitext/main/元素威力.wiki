@@ -1,0 +1,10 @@
+{{Feat
+|name=元素威力
+|english_name=Elemental Vigor
+|description=你掌握了变身元素的一些小窍门
+|prerequisites=信仰元素领主之一
+|benefit=当你通过变形效果变身成元素生物时，你会感到一阵力量在全身奔涌——你可以获得相当于该效果的施法者等级数的临时生命值，以及基础移动速度提升10尺。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

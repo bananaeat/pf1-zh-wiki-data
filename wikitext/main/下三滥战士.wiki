@@ -1,0 +1,9 @@
+{{Trait
+|name=下三滥战士
+|english_name=Dirty Fighter (Orc)
+|type=种族
+|prerequisites=[[半兽人]]、[[兽人]]
+|description=你从小被教导在战斗中使出一切下三滥的招数。你在战斗中所有使用[[唬骗]]技能作出的[[虚招]]检定获得+3背景加值。
+|source_name=格拉里昂的兽人
+|source_url=https://pf1chm.pages.dev/topics/zh1db9f32aa4.htm
+}}

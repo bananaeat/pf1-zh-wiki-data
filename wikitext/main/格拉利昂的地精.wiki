@@ -1,0 +1,79 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Goblins of Golarion
+|authors=Richard Pett
+|pages=32
+}}
+
+{{书页/简介|head=我们是地精！|1=
+地精出笼啦！借助这本包罗地精万象的指南，释放格拉利昂最疯狂的祸害那杀人成性的恶作剧吧。地精以不可预测的袭击、朗朗上口的劫掠歌谣和对马的恐惧而声名狼藉，他们把顽皮与嗜杀糅合得无与伦比。但地精不只有[[屠狗刃]]和杀鸥（killgull）游戏。现在，无论你打算与他们不可预测的部落作战，还是作为地精英雄领导他们，你都可以凭借关于地精的一切知识，加入这场古怪的杀戮。
+
+《格拉利昂的地精》以对玩家友好的方式概述了开拓者战役设定中最受欢迎的敌人，并提供新的规则与资料，帮助玩家在风味与机制两方面定制地精角色。在这本书中，你将找到：
+
+* 地精生活的秘密：从他们奇怪的解剖结构与错乱的心理，到令人困惑的文化与滑稽的怪癖。
+* 对内海地区各地地精家园的概述，以及数十个独特地精部落的详情。
+* 以地精的方式战斗的新方法，有帮助地精以只有地精才有的方式进行游击与拾荒的装备与专长。
+* 对地精宗教的揭秘：从他们对“怪物之母”[[拉玛什图]]的独特崇拜，到他们种族那些臭名昭著的英雄神。
+* 对地精奥术那可疑而怪诞的世界的洞察，有地精自制的新法术与魔法物品。
+* 扮演地精角色的规则、背景特性与建议，给你释放自己的地精疯狂所需的一切。
+* 新的地精歌谣、游戏与花招，以及更多的地精疯狂！
+}}
+
+'''格拉利昂的地精'''（''Goblins of Golarion''）是 Richard Pett 撰写的玩家伴侣（Pathfinder Player Companion）资料书，于 2011 年 8 月发售。
+
+== 目录 ==
+{{书页/目录|1=
+格拉利昂的地精 @ 2
+地精部落 @ 18
+- 霜皮地精（Frostfur goblins）
+- 鬼面地精（Ghostmask goblins）
+- 朱尔丹志愿军（Jurdan's Volunteers）
+- 尖啸翼地精（Screamwing goblins）
+- 依斯嘉部落（Isgeri tribes）
+• 食咒者地精（Spelleater goblins）
+- 球头地精（Bulbhead goblins）
+- 钩背地精（Hookback goblins）
+- 擦泥地精（Mudrub goblins）
+- 劈脸地精（Slashface goblins）
+- 烬寻者（Cinder Seekers）
+- 莫迪欧凯提岛部落（Mediogalti Island tribes）
+• 吸蛋地精（Egg Sucker goblins）
+- 结嚎地精（Knotsnarl goblins）
+- 长气地精（Longlung goblins）
+- 浆涎地精（Pulpdrool goblins）
+- 刺距地精（Spikespur goblins）
+- 镣铐群岛部落（Shackles tribes）
+• 大倒刺地精（Bigbarb goblins）
+- 暗钩地精（Dark Hook goblins）
+- 礁奔地精（Reefrunner goblins）
+- 鱿哨地精（Squidwhistler goblins）
+- 瓦瑞西亚部落（Varisian tribes）
+• 懦夫洞穴部落（Caves of the Craven tribes）
+• 暗裹地精（Darkwrap goblins）
+- 行火地精（Firewalker goblins）
+- 豁牙地精（Gaptooth goblins）
+- 尖瘤地精（Sharpbumps goblins）
+- 疣舌地精（Wart Tongue goblins）
+- 失落海岸部落（Lost Coast tribes）
+• 嚼鸟地精（Birdcruncher goblins）
+- 舔蟾地精（Licktoad goblins）
+- 七齿地精（Seven Tooth goblins）
+- 苔木地精（Mosswood goblins）
+- 蓟顶地精（Thistletop goblins）
+- 粘稠沼泽部落（Mushfens tribes）
+• 破袋地精（Breakbag goblins）
+- 犬肠地精（Houndgutter goblins）
+- 风语地精（Wind Whisper goblins）
+战斗：地精战斗专长 @ 24
+信仰：地精诸神 @ 26
+魔法：地精魔法 @ 28
+社交：地精玩家角色 @ 30
+}}
+
+{{书页尾
+|pfw=Goblins of Golarion
+|releases=PDF¦PZO9419E¦2011-08¦；Softcover¦PZO9419¦2011-08¦
+}}
+
+[[分类:书目]]

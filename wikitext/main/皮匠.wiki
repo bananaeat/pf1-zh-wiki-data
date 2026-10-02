@@ -1,0 +1,11 @@
+{{Feat
+|name=皮匠
+|english_name=Hide Worker
+|pfs=否
+|description=你擅长使用来自于动物或怪物的皮草制作护甲。
+|prerequisites=[[工艺]]（打造护甲）3级，[[知识]]（自然）3级。
+|benefit=你在用活物的皮草（比如{{材料|龙革}}）制作盔甲或盾牌时，可在工艺（打造护甲）检定上获得+4加值。倘若你在一次用活物的皮草制作盔甲或盾牌的工艺（打造护甲）检定中，成功了5点或更多的话，你还可以将制作该物品的成本降低10%。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

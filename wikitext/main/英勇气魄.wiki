@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[英勇气魄 (神话)]]。</small></div>
+{{Feat
+|name=英勇气魄
+|english_name=Heroic Defiance
+|description=在其他人无法承受的时候，只有你顽勇不屈。
+|prerequisites=[[顽强]]，[[坚忍]]，基本强韧豁免+8。
+|benefit=每日1次以[[直觉动作]]，你能够延迟一个有害状态或者[[苦难]]的发作，比如恐慌，[[麻痹]]，[[震慑]]等等，包括永久和瞬时的状态。使用该专长会将状态的发作延迟至你的下一轮结束的时刻，在这之后此状态如常生效。该专长对HP受损或者[[属性伤害]]没有影响。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

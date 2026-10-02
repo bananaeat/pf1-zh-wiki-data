@@ -1,0 +1,15 @@
+{{Spell
+|name=长臂咒
+|english_name=Long arm
+|school=变化系
+|levels=召唤师 1;召唤师（掉链） 1;奥能师 1;女巫 1;异能者 1;术士 1;法师 1;炼金术师 1;红螳螂杀手 1;血脉狂怒者 1;调查员 1;通灵者 1;魔战士 1
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|area=个人
+|target=自己
+|duration=1分钟/等级（可解消）
+|sr=否
+|description=你的肢体暂时变长了，这使得你在使用这些肢体时，触及范围增加5尺。
+|source=进阶职业指南
+}}

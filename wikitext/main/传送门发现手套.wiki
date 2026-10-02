@@ -1,0 +1,14 @@
+{{魔法物品
+|name=传送门发现手套
+|english_name=Portal-Finding Gloves
+|aon=MagicWondrousDisplay.aspx?FinalName=Portal-Finding Gloves
+|cat=奇物
+|aura=微弱预言系
+|cl=5
+|slot=无
+|price=12,500 gp
+|description=这种贴身的黑色皮手套指尖有加固，上面刻着奥术符文。当附近有通往其他位面的传送门时，手套会微微刺痛。穿戴者在用来识别传送门和位面连接点的察觉和知识（位面）检定上获得+5加值，并且只要触摸传送门，或触摸其10尺内与之相连的区域（例如一面墙），就能自动得知这类连接通往何处。
+|req=[[制造奇物]]、[[侦测魔法]]、[[预言术]]
+|cost=6,250 gp
+|source=位面冒险
+}}

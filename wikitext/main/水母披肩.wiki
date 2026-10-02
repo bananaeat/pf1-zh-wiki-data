@@ -1,0 +1,15 @@
+{{魔法物品
+|name=水母披肩
+|english_name=Jellyfish Cape
+|aon=MagicWondrousDisplay.aspx?FinalName=Jellyfish Cape
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=肩部
+|price=19,200 gp
+|weight=1磅
+|description=这件飘动的白色披肩使穿戴者一浸入咸水就几乎隐形，只要她保持完全浸没，就获得[[隐蔽]]（20%失手率）。穿戴者可以水下呼吸，并获得20尺游泳速度。穿戴者浸没期间，披肩会用细小的刺人触手把她包裹起来。任何在穿戴者相邻位置结束自己回合的生物，受到1点电击伤害，并且必须通过DC 16的强韧豁免，否则[[恶心]]1轮。该恶心效果属于毒素效果。
+|req=[[制造奇物]]、[[野兽形态 II]]、[[水中呼吸]]
+|cost=9,600 gp
+|source=极限宝具
+}}

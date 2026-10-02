@@ -1,0 +1,9 @@
+{{装备
+|name=威士忌（一杯）
+|english_name=Whiskey (cup)
+|cat=饮食
+|price=1 sp
+|weight=1/2磅
+|description=威士忌是一种蒸馏饮料，由发酵的谷物醪（通常是大麦、玉米、麦芽、黑麦或小麦）在木桶中陈酿而成。在桶中陈酿得越久，成品越醇顺。
+|source=极限宝具
+}}

@@ -1,0 +1,12 @@
+{{危害
+|name=颤栗症
+|english_name=Shakes
+|kind=疾病
+|type=接触
+|save=强韧 DC 13
+|onset=1天
+|frequency=1次/天
+|effect=1d8点敏捷伤害
+|cure=连续2次豁免成功
+|source=核心规则书
+}}

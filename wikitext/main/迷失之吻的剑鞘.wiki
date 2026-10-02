@@ -1,0 +1,17 @@
+{{魔法物品
+|name=迷失之吻的剑鞘
+|english_name=Scabbard of the Lost Kiss
+|aon=MagicWondrousDisplay.aspx?FinalName=Scabbard of the Lost Kiss
+|cat=奇物
+|aura=微弱塑能系
+|cl=4
+|slot=无
+|price=8,600 gp
+|weight=1磅
+|description=这个陈旧磨损的剑鞘据信曾盛放过十二把传说中名为晨花之吻的弯刀遗物之一。由于长期靠近这样一把神圣之刃，剑鞘获得了自己独特的魔法能力。每天2次，以命令字，穿戴者可以从剑鞘中抽出一束炽热的红色烈焰光束，可以当作[[弯刀]]挥舞，如同[[火焰刀]]。
+
+如果塞恩蕾是穿戴者的守护神，火焰刀伤害的一半是火焰伤害，另一半则直接源自神力，因此不会被火焰抗力减免。
+|req=[[制造奇物]]、[[火焰刀]]、[[焰击术]]
+|cost=4,300 gp
+|source=内海神殿
+}}

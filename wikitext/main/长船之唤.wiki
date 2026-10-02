@@ -1,0 +1,10 @@
+{{Trait
+|name=长船之唤
+|english_name=Call of the Longships
+|type=地区
+|prerequisites=林诺姆诸王国
+|description=你的血脉因渴望重温某位祖先的冒险而悸动，你无可抗拒地被大海吸引。
+|benefit=在进行专业(水手)检定时，你获得+1背景加值；在船上进行攻击检定时，同样获得+1背景加值。
+|source_name=北地居民
+|source_url=https://pf1chm.pages.dev/topics/zh63296b3929.htm
+}}

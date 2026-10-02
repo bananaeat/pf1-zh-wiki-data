@@ -1,0 +1,13 @@
+{{Feat
+|name=贴身射击
+|english_name=Point-Blank Master
+|categories=战斗
+|description=你擅长使用远程武器在极近的距离攻击。
+|prerequisites=某种远程武器的武器专精。
+|benefit=选择一类远程武器。当你使用这类武器在敌人的威胁范围内进行射击时不会引起[[借机攻击]]。
+|normal=在敌人的威胁范围内使用远程武器攻击会引起借机攻击。
+|special=从6级起，选择【箭术战斗[[流派]]】的游侠能够将“贴身射击”作为战斗流派专长进行选取。但是他必须拥有对应武器的[[武器专攻]]专长来取代[[武器专精]]专长来满足先决条件。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

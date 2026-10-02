@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=秽恶之镰|en=Scythe of Evil|type=Su|domain=邪恶领域(领域)|source=核心规则书|text=在8级，你能够通过触碰使得一个武器获得“邪恶”附魔，持续轮数为一半牧师等级。在8级你能够使用该能力每天1次，以后每比8级多4级增加1次。}}<noinclude>
+
+[[分类:领域]]</noinclude>

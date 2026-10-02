@@ -1,0 +1,14 @@
+{{魔法物品
+|name=鹰之眼
+|english_name=Eyes of the Eagle
+|aon=MagicWondrousDisplay.aspx?FinalName=Eyes of the Eagle
+|cat=奇物
+|aura=微弱预言系
+|cl=3
+|slot=眼部
+|price=2,500 gp
+|description=这对镜片由特殊水晶制成，罩在穿戴者的眼睛上。它们使穿戴者在察觉检定上获得+5表现加值。必须戴上两块镜片才能获得此效益；只戴一块会使人头晕目眩，并[[震慑]]1轮。
+|req=[[制造奇物]]、[[锐耳术/鹰眼术]]
+|cost=1,250 gp
+|source=核心规则书、极限宝具
+}}

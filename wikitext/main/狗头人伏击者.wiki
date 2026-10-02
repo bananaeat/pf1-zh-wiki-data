@@ -1,0 +1,13 @@
+{{Feat
+|name=狗头人伏击者
+|english_name=Kobold Ambusher
+|categories=战斗
+|pfs=否
+|description=你善于快速移动以及保持[[隐蔽]]。
+|prerequisites=[[隐匿]]4级，狗头人。
+|benefit=你可以在隐匿时进行全速移动而不会使隐匿检定受到任何罚值。你可以在冲锋或者奔跑时保持隐藏，但是这么做会使隐匿检定-10。
+|normal=如果你在隐匿时移动速度高于半速则会使隐匿检定上-5。当你能够在奔跑或冲锋时使用隐匿，你会使隐匿检定-20。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

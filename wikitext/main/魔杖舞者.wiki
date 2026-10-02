@@ -1,0 +1,10 @@
+{{Feat
+|name=魔杖舞者
+|english_name=Wand Dancer
+|description=你受到了传统的加德里交际花与学院法师的训练，将舞蹈与使用魔杖融为一体。
+|prerequisites=敏捷13，[[闪避]]，[[灵活移动]]，[[表演]]（舞蹈）5级
+|benefit=当你使用法术触发型物品时，在触发物品之前和之后都能移动，不过移动的总距离不能超过你的速度。选择一名可能会受到你的法术触发型物品的生物。你的移动仅不会引起该名生物的[[借机攻击]]。要应用该专长，你必须在使用你的法术触发型物品之前与之后均移动至少5尺。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

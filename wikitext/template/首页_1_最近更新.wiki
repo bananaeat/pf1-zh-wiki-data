@@ -1,0 +1,9 @@
+<ul>
+<li><span class="mpa-date">09-30</span><span>[[怪物速查]]改版，可算遭遇难度</span></li>
+<li><span class="mpa-date">09-30</span><span>[[NPC速查]]、[[神祇速查]]上线</span></li>
+<li><span class="mpa-date">09-30</span><span>补上怪物 1142 只、NPC 274 个</span></li>
+<li><span class="mpa-date">09-29</span><span>全部职业、法术、专长校完</span></li>
+</ul><noinclude>
+[[首页]]右栏的「最近更新」。一行一条、最新的在上面，留四条（右栏下面还有「待办」，再多左边的抽屉就空了）、每条别超过一行（十五六个字）；照抄上面一行 <code>&lt;li&gt;</code> 的写法改日期和内容。
+[[分类:模板]]
+</noinclude>

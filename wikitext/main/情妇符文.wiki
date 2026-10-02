@@ -1,0 +1,14 @@
+{{魔法物品
+|name=情妇符文
+|english_name=Rune of the Mistress
+|aon=MagicThassilonianRunes.aspx#Rune of the Mistress
+|cat=瑟西隆语符文
+|aura=中等惑控系
+|cl=9
+|slot=符文
+|price=108,000 gp
+|description=每日3次，该符文的持有者可以使她所接触的一个生物在接下来24小时内，对抗惑控系法术的所有意志豁免承受-4减值。
+|req=[[铭刻符文]]、[[支配怪物]]
+|cost=54,000 gp，4,320 XP
+|source=冒险之路5：救世者的原罪
+}}

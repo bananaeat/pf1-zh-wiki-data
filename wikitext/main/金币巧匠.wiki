@@ -1,0 +1,10 @@
+{{Trait
+|name=金币巧匠
+|english_name=Coincunning
+|type=地区
+|prerequisites=瓦瑞西亚-杰登霍夫
+|description=
+无论是与[[矮人]]商人合作还是自己就是商人，你都发展出了一种矮人独有的商业敏感性。你在察觉硬币、宝石、珠宝和有价值的贸易货物时获得+2背景加值。当你距离这些货物10英尺内时，无论是否主动搜索，你都有机会发现它们。
+|source_name=瓦瑞西亚，传说诞生之地
+|source_url=https://pf1chm.pages.dev/topics/zh1d5e5ac9bb.htm
+}}

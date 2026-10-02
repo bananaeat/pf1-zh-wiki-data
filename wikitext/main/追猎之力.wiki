@@ -1,0 +1,11 @@
+{{Feat
+|name=追猎之力
+|english_name=Stalker's Focus
+|description=你与自然界的亲和使你能够采用某一种动物的动物之力。
+|prerequisites=[[知识]]（自然）技能3级，生存技能3级，在拥有动物之力职业能力的职业上没有等级。
+|benefit=选择一种猎人的动物之力能力代表的动物，你或者你的[[动物伙伴]]（如果有）每天一次可以使用此动物之力一分钟。在使用动物之力时，将你的人物等级视为猎人等级来决定动物之力的效果。
+|special=如果你在拥有动物之力职业能力的职业上获得了等级，那么当你获得该职业能力时，你的动物之力职业能力每天的使用时间额外增加1分钟。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

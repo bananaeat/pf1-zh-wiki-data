@@ -1,0 +1,17 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|武术手册|Martial Arts Handbook}}
+'''拙火注能'''（Kundalini Infusion）是[[操念使]]的[[原力]]。
+
+元素：通用；类别：性质注能；等级：2；超载：0
+
+前置：[[武僧#气运丹田|气池]]，[[念拳]]
+
+关联[[念袭]]类别：任意
+
+豁免：强韧，通过则部分生效
+
+你可以将元素能量与拙火蛇炎融合。选择你当前可以开启的一个[[脉轮]]，你必须接受等同于脉轮号的超载（海底1，本我2，以此类推）。你带有注能念袭的[[徒手打击]]会让目标承受封禁所选脉轮的效果，如同[[脉轮封禁]]或[[高等脉轮封禁]]专长。你只有使用念拳塑形注能的情况下才能使用这一注能。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Kundalini Infusion|2=Kundalini Infusion}}
+
+[[分类:原力]]

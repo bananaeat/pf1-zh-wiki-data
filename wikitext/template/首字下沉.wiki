@@ -1,0 +1,3 @@
+<includeonly><div class="dropCap">
+{{{1}}}
+</div></includeonly><noinclude>{{Documentation}}</noinclude>

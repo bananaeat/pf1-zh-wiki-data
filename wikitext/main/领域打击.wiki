@@ -1,0 +1,13 @@
+{{Feat
+|name=领域打击
+|english_name=Domain Strike
+|categories=战斗
+|description=你在[[徒手打击]]中能对敌人使用你的领域[[神授力量]]。
+|prerequisites=【领域】能力，精通徒手打击。
+|benefit=当你获得这个专长，选择一项你能使用的，针对单一目标的领域神授力量。当你对一个敌人进行了一次成功的徒手打击，除了造成你的徒手打击伤害，你还可以用一个[[迅捷动作]]将你选择的神授力量的效果传递给敌人。这么做不会触发[[借机攻击]]。
+|special=你能多次选择该专长。每次选择你能都选择一种新的领域神授力量。
+|stamina=花费2点耐力，将神授力量传递给敌人只需一个自由动作而非迅捷动作。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

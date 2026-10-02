@@ -1,0 +1,11 @@
+{{Feat
+|name=额外盟约
+|english_name=Additional Affiliations
+|description=你的人脉很广，能与多个组织建立联系。
+|benefit=你的盟约栏位增加2个。
+|normal=你的盟约栏位数量等同于你的魅力调整值 +1（最低1个）。
+|special=你能够多次选取该专长；每当你这么做时，盟约栏位都会增加2个。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/page_1122.html
+}}

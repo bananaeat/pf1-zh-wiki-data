@@ -1,0 +1,14 @@
+{{魔法物品
+|name=权威徽章
+|english_name=Badge of Authority
+|aon=MagicWondrousDisplay.aspx?FinalName=Badge of Authority
+|cat=奇物
+|aura=微弱幻术系
+|cl=3
+|slot=无
+|price=1,500 gp
+|weight=1/2磅
+|description=作为一个[[标准动作]]，这枚实心金属徽章的持有者可以把它的外观变成她合法持有的任何徽章或权力象征。每天1次，持有者可以用一个标准动作出示此徽章，使30尺内至多三个生物的基础速度降低，如同[[步履蹒跚]]（强韧DC 11无效）。如果持有者用[[威吓]]检定迫使某个生物对她表现友善，且该生物承认她是合法的权威，那么该生物的态度不会在1d6×10分钟后转为不友善，也不会向当地官方举报她。
+|cost=750 gp
+|source=恶棍志
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=鬼面头盔
+|english_name=Helm of Fearsome Mien
+|aon=MagicWondrousDisplay.aspx?FinalName=Helm of Fearsome Mien
+|cat=奇物
+|aura=微弱死灵系
+|cl=1
+|slot=头部
+|price=5,000 gp
+|weight=4磅
+|description=这顶金属头盔的造型使穿戴者看起来长着巨大的獠牙，以及其他类似凶猛掠食者的特征。如果穿戴者是野蛮人，她每次狂暴时都可以使用[[威吓凝视]]狂暴之力。如果穿戴者不是野蛮人（或其他拥有狂暴职业特性的职业），头盔没有效果。
+|req=[[制造奇物]]、[[惊恐术]]
+|cost=2,500 gp
+|source=进阶玩家指南、极限宝具
+}}

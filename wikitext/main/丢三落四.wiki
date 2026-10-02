@@ -1,0 +1,10 @@
+{{Trait
+|name=丢三落四
+|english_name=Forgetful
+|type=缺陷
+|pfs=否
+|description=你粗心大意，容易遗失重要的东西。
+|benefit=每当你离开一个逗留了一小时以上的地点，你必须进行一次DC10的感知检定。如果你失败了，你会随机遗失一个[[普通物品]](一整个钱包视为一个物体)。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

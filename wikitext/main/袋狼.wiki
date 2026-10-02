@@ -1,0 +1,42 @@
+{{消歧义|袋狼(物品)}}
+{{速查导航}}
+{{怪物
+|name=袋狼
+|english_name=Marsupial, Thylacine
+|cr=1/2
+|xp=200
+|alignment=绝对中立
+|size=小型
+|type=动物
+|init=+2
+|senses=昏暗视觉；察觉 +8
+|description=这种类猫的生物有着带条纹的毛皮，胡须从布满利齿的长嘴边上伸出。
+|ac=13，接触 13，措手不及 11（+2 敏捷，+1 体型）
+|hp=7（1d8 +3）
+|fort=+5
+|ref=+4
+|will=+1
+|speed=30 尺
+|melee=噬咬 +2（1d4 +1/19–20）
+|str=12
+|dex=15
+|con=16
+|int=2
+|wis=13
+|cha=7
+|bab=+0
+|cmb=+0
+|cmd=12（16 对抗摔绊）
+|feats=[[技能专攻]]（察觉）
+|skills=[[察觉]] +8
+|sq=强健下颚
+|environment=温暖的丘陵
+|organization=单独或狼群（2–5）
+|treasure=无
+|special_abilities={{怪物能力|强健下颚|Ex|袋狼的下颚肌肉发达，（其噬咬攻击）重击威胁范围为 19–20。}}
+|source=怪物图鉴3
+|lore=
+这些食肉，宽颚的有袋动物在夜晚捕猎，并且以野蛮的天性而闻名。白天它们在空心树干或灌木丛里休息。
+}}
+
+本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM。

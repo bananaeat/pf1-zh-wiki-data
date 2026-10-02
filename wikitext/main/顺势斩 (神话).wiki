@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[顺势斩]] 的神话版本。</small></div>
+{{Feat
+|name=顺势斩
+|english_name=Cleave
+|categories=神话
+|description=你能够顺势劈砍触及中的任何敌人。
+|prerequisites=[[顺势斩]]
+|benefit=每当你使用[[顺势斩]]或[[大顺势斩]]时，你的其中一次攻击能够对抗在你触及范围的任何1名敌人，但是不能是与你攻击过的敌人相邻的敌人。当你使用顺势斩或大顺势斩时，能够花费1次神话之力，无论敌人的位置为何，只要你能够持续命中每名敌人，就能够继续对处于你的触及范围内的敌人进行攻击。你无法使用该能力攻击1名敌人的次数超过每轮1次。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

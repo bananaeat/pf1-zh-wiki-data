@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=灵魂图腾
+|english_name=Spirit Totem
+|type=Su
+|categories=图腾
+|prerequisites=[[野蛮人]]6级，[[次等灵魂图腾]]
+|benefit=狂暴时，野蛮人周围的灵魂使敌人难以见到他。非邻接野蛮人的敌人在使用远程或近战(通常是长触及武器)攻击时有20%失手率。
+|source_name=进阶玩家指南
+}}

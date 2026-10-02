@@ -1,0 +1,10 @@
+{{Trait
+|name=鳄鱼游法
+|english_name=Crocodile Swim
+|type=种族
+|prerequisites=[[兽态人]]（鳄鱼人裔）
+|description=你在鳄鱼栖息地附近长大，学会了它们的动作。当你以不超过半速移动，并且大部分或全部浸入在水中时，你的游泳和隐匿检定得到+2背景加值。你选择这两个技能之一成为本职技能。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_808.html
+}}

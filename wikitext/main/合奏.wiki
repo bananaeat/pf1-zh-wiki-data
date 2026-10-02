@@ -1,0 +1,12 @@
+{{Feat
+|name=合奏
+|english_name=Basic Harmony
+|categories=团队
+|description=你与盟友的表演交织共鸣
+|prerequisites=吟游表演或战怒之歌职业能力
+|benefit=如果你的队友也有此专长，你可以进行一次DC10的表演检定以协助该队友的表演检定，如果你的检定成功，那么检定结果每有5点，该队友就能获得+1的援助加值（检定10点获得+2，检定15点获得+3，以此类推）。如果你的协助未成功，那么你的盟友会受到-5的援助罚值。
+|normal=协助他人动作只提供+2加值
+|source=CaC
+|source_name=部属与伙伴
+|source_url=https://pf1chm.pages.dev/topics/page_1347.html
+}}

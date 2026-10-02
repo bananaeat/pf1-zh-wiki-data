@@ -1,0 +1,11 @@
+{{Feat
+|name=文武全能
+|english_name=Multitalented Mastery
+|description=你精熟于众多学科。
+|prerequisites=角色等级5，[[半精灵]]，【多才多艺】种族特性。
+|benefit=你所拥有的所有职业均被视为[[天赋职业]]。每当你在任何职业上获得等级时，均可以获得HP+1或者技能点+1的奖励。所有未曾获得这些加值之一的职业等级也能够追授这些加值。
+|normal=拥有【多才多艺】[[种族特性]]的[[半精灵]]拥有两个天赋职业。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

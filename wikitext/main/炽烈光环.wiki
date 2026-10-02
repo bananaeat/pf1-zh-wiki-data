@@ -1,0 +1,13 @@
+{{Feat
+|name=炽烈光环
+|english_name=Blazing Aura
+|aon=Blazing Aura (ARG)
+|categories=战斗
+|description=地狱般的怒火寄宿在你心中，使你的身体散发出强烈的热能。
+|prerequisites=[[炽焰核心]]，[[炙热武器]]，角色等级13，火元素裔。
+|benefit=当你使用[[炙热武器]]时，你可以在你的回合中以一个[[自由动作]]，创造出持续1轮的热能光环。光环会对每个在其自身回合开始时接邻你的生物造成1d6点火焰伤害。
+|stamina=通过花费5点耐力，你可以将火焰伤害提升为2d6
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

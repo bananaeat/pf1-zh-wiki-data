@@ -1,0 +1,9 @@
+{{Trait
+|name=御天亲和
+|english_name=Aeromantic Affinity
+|type=魔法
+|description=你的远祖中有人是强大的御天使，或是气元素生物，这使你在操纵空气魔法时展现出更高的天赋。你在施放具有气或电描述符的法术时，施法者等级视为比原本高1级。
+|source_name=古国血脉
+|source=BotA
+|source_url=https://pf1chm.pages.dev/topics/zhb7c0053e99.htm
+}}

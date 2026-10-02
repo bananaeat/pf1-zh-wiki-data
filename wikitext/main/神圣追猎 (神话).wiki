@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[神圣追猎]] 的神话版本。</small></div>
+{{Spell
+|name=神圣追猎
+|english_name=Divine Pursuit
+|school=变化系
+|levels=审判者 5
+|description=由该法术提供的移动速度增加30尺。这一调整被视为增强加值。在尝试对抗被选择的生物时，你的察觉与生存检定会获得一个加值。若你的阵营为善良则为神圣加值，邪恶则为亵渎加值；若你的阵营是中立则需要从神圣与亵渎加值中选择一种。
+|source=神话冒险
+}}
+[[分类:神话法术]]

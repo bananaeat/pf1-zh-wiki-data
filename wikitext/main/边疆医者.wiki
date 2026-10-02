@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Ironfang Invasion Player's Guide pg. 8），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=边疆医者
+|english_name=Frontier Healer
+|type=战役
+|pfs=否
+|description=在世间的种种艰辛让人伤痕累累之后，你靠把他们重新拼凑起来谋生——熬制草药、接骨、治疗疾病。你在所有[[医疗]]检定和[[知识]]（自然）检定上获得+1背景加值，并且其中一项技能始终是你的本职技能。每当你使用医疗技能或治疗类法术恢复生命值时（但不包括引导能量、圣疗，或者药水、魔杖之类的魔法装置），你额外恢复1点生命值，并且你在1级之后每有2个职业等级，额外再恢复1点。
+|source_name=Ironfang Invasion Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Frontier%20Healer
+}}

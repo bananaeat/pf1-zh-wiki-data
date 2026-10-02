@@ -1,0 +1,16 @@
+{{Spell
+|name=念力打击
+|english_name=Telekinetic strikes
+|school=塑能系
+|tags=力场
+|levels=奥能师 2;异能者 2;术士 2;法师 2;魔战士 2
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=一个生物
+|duration=1分钟/等级
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=接触的生物的肢体充满了意念力量。在法术持续时间内，目标的[[徒手攻击]]或者天生武器攻击在每次成功的徒手近战攻击命中时造成额外1d4点力场伤害。
+|source=异能选集
+}}

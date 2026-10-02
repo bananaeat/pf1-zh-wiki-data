@@ -1,0 +1,7 @@
+<includeonly><div class="lighten" style="position:relative; margin-bottom:1em;"><!--
+--><div class="darken" style="text-align: center;    padding: 10px 15px;      font-weight: bold;    line-height: 1.8em;">
+{{{1|}}}
+</div><!--
+--><div class="clear no-bs-padding-on-mobile" style="padding:0.5em 1em 1.5em 1em;">
+{{{2|}}}
+</div></div></includeonly><noinclude>{{优质模板|信息}}{{documentation}}[[Category:huiji template]]</noinclude>

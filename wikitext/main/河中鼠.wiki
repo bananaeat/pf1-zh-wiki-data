@@ -1,0 +1,12 @@
+{{Trait
+|name=河中鼠
+|english_name=River Rat
+|type=地区
+|prerequisites=沼泽或河流
+|description=在你刚学会走路之后你就学会了游泳。在你还小的时候，一帮河上强盗就把你丢进了夜晚的河流和运河中来为他们工作，你的嘴里还咬着一把[[匕首]]，这样你就能割断商船的锚绳。
+
+你在使用匕首造成的伤害上获得+1背景加值以及在游泳检定上获得+1背景加值。游泳将会被视为你的本职技能。
+|regions=塔尔多
+|source_name=塔尔多，荣光荡漾之地
+|source_url=https://pf1chm.pages.dev/topics/page_938.html
+}}

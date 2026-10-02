@@ -1,0 +1,14 @@
+{{魔法物品
+|name=忍耐的恩泽
+|english_name=Forbearer's Grace
+|aon=MagicWondrousDisplay.aspx?FinalName=Forbearer's Grace
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=颈部
+|price=5,400 gp
+|description=这枚圆形护身符由三根优雅弯曲的金条组成，中央镶着一颗深黄色的托帕石。佩戴时，护身符在对抗毒药及毒药持续效果的强韧豁免上提供+2抗力加值。如果佩戴者的任何属性值由于毒药造成的[[属性伤害]]而将降至1点，护身符会立即破碎，并且佩戴者受到一次[[复原术]]的效果。该效果无法治愈任何仍在影响佩戴者的毒药，但会摧毁护身符。
+|req=[[制造奇物]]、[[复原术]]、[[中和毒性]]
+|cost=2,700 gp
+|source=药剂与毒药
+}}

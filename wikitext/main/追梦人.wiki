@@ -1,0 +1,9 @@
+{{Trait
+|name=追梦人
+|english_name=Greater Purpose
+|type=魔法
+|description=你确信自己是为实现某个伟大目标而生。你抵抗死亡效果的所有豁免检定，以及濒死时用以[[伤害和死亡#稳定和恢复|稳定伤势]]的体质检定获得+1背景加值。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

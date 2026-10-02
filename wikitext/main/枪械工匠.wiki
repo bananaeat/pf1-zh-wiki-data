@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 194），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=枪械工匠
+|english_name=Gunworker
+|type=种族
+|prerequisites=矮人
+|description=你曾生活在顿加堡，与那些钻研火器技术的[[矮人]]炼金术士为伍。你为制造火器、爆炸物以及造成火焰伤害的炼金武器而进行的[[工艺]]检定获得+2背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Gunworker
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=吃下这一击
+|english_name=Take the Hit
+|categories=团队
+|pfs=否
+|description=你可以用自己的身体护住你的搭档。
+|prerequisites=[[心灵羁绊]]，基础攻击加值+6。
+|benefit=只要一名拥有[[心灵羁绊]]专长的盟友与你相邻，你就可以选择从任何造成生命值损失的攻击中吸收高达一半的伤害，就像受到[[护卫他人]]法术的影响一样。使用该能力是一个[[直觉动作]]，即便该盟友在同一动作中被多次攻击击中，但它也仅适用于一次攻击。
+|source_name=遥远世界
+|source_url=https://pf1chm.pages.dev/topics/zh2d61c49a80.htm
+}}

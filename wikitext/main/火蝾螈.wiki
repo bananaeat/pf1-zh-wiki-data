@@ -1,0 +1,46 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=火蝾螈
+|english_name=Fire Salamander
+|cr=1/3
+|xp=135
+|alignment=绝对中立
+|size=微型
+|type=动物
+|init=+2
+|senses=昏暗视觉，灵敏嗅觉；察觉 –1
+|description=黄色的斑点和条纹从这只两栖动物宽阔的吻部一直延伸到尾尖。
+|ac=16，接触 16，措手不及 14（+2 敏捷，+4 体型）
+|hp=3（1d8–1）
+|fort=+1
+|ref=+4
+|will=–1
+|defensive=皮肤分泌物
+|speed=10 尺，游泳 20 尺
+|melee=啮咬 +6（1d2–4）
+|space=1 尺
+|reach=0 尺
+|str=2
+|dex=14
+|con=8
+|int=1
+|wis=8
+|cha=6
+|bab=+0
+|cmb=–2
+|cmd=4（8 对抗摔绊）
+|feats=[[武器娴熟]]
+|skills=[[脱逃]] +6;[[隐匿]] +18;[[游泳]] +10
+|racial_mods=+4 脱逃
+|environment=温带森林
+|organization=单独，一对，或一群（3–10）
+|treasure=无
+|special_abilities={{怪物能力|皮肤分泌物|Ex|用徒手打击或天生武器击打火蝾螈的生物会接触到蝾螈的有毒皮肤，必须立即通过一次 DC 9 的强韧豁免，否则恶心 1 轮。这些分泌物也使蝾螈难以被抓住，使其在脱逃检定上获得 +4 种族加值。豁免 DC 基于体质。}}
+|source=极限荒野
+|lore=
+尽管名叫火蝾螈，它们与被称为火蜥蜴的邪恶异界生物毫无关系。这些是微型的有毒两栖动物，寿命可超过 50 年。它们在黄昏之后最为活跃，以蚯蚓、昆虫、蛞蝓和蜘蛛为食。白天，它们藏身于落叶之间或长满苔藓的树干附近。
+
+火蝾螈长 6 至 10 英寸，只有 2 盎司重。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Fire Salamander|2=Fire Salamander}}

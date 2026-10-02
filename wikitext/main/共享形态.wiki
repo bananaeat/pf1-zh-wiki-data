@@ -1,0 +1,14 @@
+{{Spell
+|name=共享形态
+|english_name=Share shape
+|school=变化系 (变形)
+|levels=游侠 3;猎人 3;奥能师 4;女巫 4;术士 4;法师 4;红螳螂杀手 4
+|action=标准动作
+|components=语言;姿势;材料（你打算变成的那种生物身上的一部分）
+|range=个人
+|target=你
+|duration=1小时/等级（可解消）
+|sr=否
+|description=该法术的功能如同野兽形态II一般，不过你只能获得与你的[[动物伙伴]]或[[魔宠]]相同动物类型的形态。如果你的魔宠或伙伴并非动物，该法术无效。
+|source=动物档案
+}}

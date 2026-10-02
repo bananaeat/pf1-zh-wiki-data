@@ -1,0 +1,10 @@
+{{Feat
+|name=高等祝福武具
+|english_name=Greater Bless Equipment
+|description=你的祝福持续更长时间，并且可以同时保持多次祝福。
+|prerequisites=[[祝福武具]]、[[精通祝福武具]]、施法者等级12、引导能量职业能力
+|benefit=[[祝福武具]]的持续时间加倍。额外的，以一个[[标准动作]]你可以祝福至多2件射程内的武具，消耗的引导次数如同只祝福1件武具。
+|source=USH
+|source_name=亡灵杀手手册
+|source_url=https://pf1chm.pages.dev/topics/page_505.html
+}}

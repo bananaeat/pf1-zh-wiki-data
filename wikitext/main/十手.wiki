@@ -1,0 +1,17 @@
+{{武器
+|name=十手
+|english_name=Jutte
+|category=武器
+|prof=军用
+|wcat=轻型
+|price=8 gp
+|weight=1磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×2
+|type=钝击
+|special=卸武，武僧
+|groups=武僧
+|description=这种铁尺似的武器装有一个金属钩，可以用来格挡或钳制住对方的兵器。部分十手还有特制的尖头甚至开刃。
+|source=极限战斗、极限宝具
+}}

@@ -1,0 +1,15 @@
+{{Spell
+|name=吸收符文 II
+|english_name=Absorb rune II
+|school=防护系
+|levels=先知 6;吟游诗人 6;奥能师 6;战斗祭司 6;术士 6;歌者 6;法师 6;牧师 6;秘学士 6;魔战士 6
+|action=标准动作
+|components=语言;姿势;材料（一只价值25gp的白色丝绸手套）
+|range=接触
+|target=一个法术效果
+|duration=立即+1分钟/等级 (见下文)
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=该法术如同[[吸收符文 I]]一样作用，但它可以影响效果等同于5环或以下法术的符文。
+|source=冒险者指南
+}}

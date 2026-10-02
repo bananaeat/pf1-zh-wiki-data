@@ -1,0 +1,14 @@
+{{防具
+|name=丝绸礼甲
+|english_name=Silken ceremonial
+|acat=轻型盔甲
+|price=30 gp
+|weight=4磅
+|ac=+1
+|maxdex=—
+|acp=0
+|asf=0%
+|speed=30尺／20尺
+|description=这种长袍用于典礼展示场合，偶尔也会穿在更重的护甲外面（但不会带来额外效果）。它由数层布料和一层外层丝绸构成，丝绸上精细地织有金线锦缎图案，并缀满金属嵌钉。
+|source=极限战斗、极限宝具
+}}

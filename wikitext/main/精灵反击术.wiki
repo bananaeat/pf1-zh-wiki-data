@@ -1,0 +1,10 @@
+{{Feat
+|name=精灵反击术
+|english_name=Elven Battle Torrent
+|categories=战斗
+|description=你能迅速向敌人发起反击。
+|prerequisites=智力13，精灵武技专攻，精灵武技，精灵战斗训练ARG，武器娴熟，基本攻击加值+10，武器熟悉种族特性
+|benefit=当你使用精灵武技时，任何在你使用防御式战斗、[[全防御]]或者[[寓守于攻]]专长的情况下对你作出攻击并且失手的敌人，都会引起你的借机攻击。即便具有[[战斗反射]]专长，你在每轮中也只能获取一次该专长带来的好处。
+|source_name=武器大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_420.html
+}}

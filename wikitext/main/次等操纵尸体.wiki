@@ -1,0 +1,18 @@
+{{Spell
+|name=次等操纵尸体
+|english_name=Animate dead, lesser
+|school=死灵系
+|tags=邪恶
+|levels=先知 2;唤魂师 2;战斗祭司 2;牧师 2;秘学士 2;萨满 2;奥能师 3;术士 3;法师 3
+|action=标准动作
+|components=语言;姿势;材料（不死生物每HD需一颗价值至少25gp的缟玛瑙）
+|range=接触
+|target=一具尸体
+|duration=立即
+|save=无
+|sr=否
+|description=这个法术工作方式如同[[操纵死尸]]，但是你只能操纵单独一具小型或中型的骷髅或僵尸。
+
+你不能通过本法术唤起变异的骷髅和僵尸。
+|source=极限魔法
+}}

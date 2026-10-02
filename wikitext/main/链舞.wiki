@@ -1,0 +1,11 @@
+{{Feat
+|name=链舞
+|english_name=Dance of Chains
+|categories=战斗
+|pfs=否
+|description=在你的手里，刺链能像活物一般舞动起来。
+|prerequisites=敏捷15，锁链熟稔，擅长异种武器（刺链），武器娴熟，表演（舞蹈）1级
+|benefit=当单手持用一把刺链时，你可以以敏捷调整值代替力量调整值加到其武器伤害上。该刺链必须符合你的体型。在你的回合中，你刺链的触及视为多5尺。你在使用多武器进行战斗或使用盾牌（但不包括使用小圆盾）时会失去以上的好处。
+|source_name=永罪之书
+|source_url=https://pf1chm.pages.dev/topics/zh952dc99db5.htm
+}}

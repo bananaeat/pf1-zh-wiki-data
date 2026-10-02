@@ -1,0 +1,9 @@
+{{Trait
+|name=热情创作
+|english_name=Intense Artist
+|type=宗教
+|prerequisites=信仰[[纱琳]]
+|description=你对[[纱琳]]的热诚驱使你更加投入到艺术创作中。选择两项表演，均可获得+1背景加值且表演视作你的[[本职技能]]。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

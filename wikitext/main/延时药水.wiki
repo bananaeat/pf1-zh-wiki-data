@@ -1,0 +1,10 @@
+<noinclude>{{炼金术师导航}}
+'''延时药水'''（Extend potion）是[[炼金术师]]的[[科研发现]]。
+
+</noinclude>{{Source|进阶玩家指南|Advanced Player's Guide|inline}}
+
+每日等同于他的智力修正的次数，炼金术师可以增幅任一他饮用的非立即/瞬时效果的药水，使它产生两倍于原来的效用时间。这项科研发现不能应用在炼金化合药剂上。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_71.html 原文]）。全部科研发现见 [[:分类:科研发现|分类:科研发现]]。
+
+[[分类:科研发现]]</noinclude>

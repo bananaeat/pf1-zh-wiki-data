@@ -1,0 +1,14 @@
+{{魔法物品
+|name=摄心之眼
+|english_name=Eyes of Eyebite
+|aon=MagicWondrousDisplay.aspx?FinalName=Eyes of Eyebite
+|cat=奇物
+|aura=中等死灵系
+|cl=11
+|slot=眼部
+|price=30,000 gp
+|description=这副眼镜看起来像是金色的牙齿夹着一对泛绿的镜片。穿戴者可以用一个命令，每天使用11次[[摄心目光]]，每次使用影响一个目标。穿戴者不必连续使用这些轮数，但每次启动都是一个[[标准动作]]（与法术不同——法术中瞄准新的敌人只是一个[[迅捷动作]]）。如果穿戴者摘下[[眼镜]]，摄心目光的效果立刻结束。
+|req=[[制造奇物]]、[[摄心目光]]
+|cost=15,000 gp
+|source=极限宝具
+}}

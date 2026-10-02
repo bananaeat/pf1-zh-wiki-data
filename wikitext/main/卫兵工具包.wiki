@@ -1,0 +1,9 @@
+{{装备
+|name=卫兵工具包
+|english_name=Guard's kit
+|cat=套装
+|price=20 gp
+|weight=20磅
+|description=卫队向其每位成员发放一套标准补给。这套工具包包括一个背包、一个腰包、一套燧石和铁片、一副镣铐、50尺长的绳索、一只信号哨、肥皂以及5根火把。
+|source=恶棍志
+}}

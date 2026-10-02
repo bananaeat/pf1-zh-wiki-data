@@ -1,0 +1,10 @@
+{{Feat
+|name=精通灵活魔术
+|english_name=Improved Flexible Wizardry
+|description=少有法师拥有比你更万变的魔法。
+|prerequisites=[[灵活魔术]]，[[法术掌握]]，法师等级8
+|benefit=你可以准备法术的备选法术位数量增加到4+智力调整值个。除此之外，你可以以一个[[标准动作]]而非[[整轮动作]]决定你在备选法术位上的法术。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

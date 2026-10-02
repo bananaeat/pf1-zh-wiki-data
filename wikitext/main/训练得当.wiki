@@ -1,0 +1,9 @@
+{{Trait
+|name=训练得当
+|english_name=Proper Training
+|type=派系
+|description=你在艾巴萨罗姆本部的日子对你颇有益处。在知识(地理)或知识(历史)技能中选择一个。你在所选技能检定上获得+1背景加值，且该技能视为你的[[本职技能]]。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

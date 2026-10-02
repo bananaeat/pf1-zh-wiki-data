@@ -1,0 +1,16 @@
+{{武器
+|name=巨斧
+|english_name=Greataxe
+|category=武器
+|prof=军用
+|wcat=双手
+|price=20 gp
+|weight=12磅
+|dmg_s=1d10
+|dmg_m=1d12
+|crit=×3
+|type=挥砍
+|groups=斧
+|description=这把双手[[战斧]]沉到你无法单手持用的地步。斧头可能单刃或双刃，为了增加斩击力和帮助拉下敌人的盾牌还可能打成“胡子形”（意即带钩或斧刃底端向外弯曲）。握柄一般长3到4尺。
+|source=核心规则书、极限宝具
+}}

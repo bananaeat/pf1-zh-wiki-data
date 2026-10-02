@@ -1,0 +1,49 @@
+{{速查导航}}
+{{怪物
+|name=灰矮人砧徒
+|english_name=Duergar Anvil
+|cr=1
+|xp=400
+|classline=灰矮人武僧2
+|alignment=守序邪恶
+|size=中型
+|type=类人生物
+|subtypes=矮人亚种
+|init=+2
+|senses=黑暗视觉120尺；察觉+7
+|description=灰矮人的武技结合了密教的修行法门和源自灰矮人社会的阴暗本质。
+|ac=15，接触15，措手不及12（+2敏捷，+1闪避，+2感知）
+|hp=18（2d8+6）
+|fort=+5
+|ref=+5
+|will=+5；对抗法术效果额外+2
+|defensive=反射闪避
+|immune=麻痹;幻影;毒素
+|weaknesses=光线敏感
+|speed=20尺
+|melee=徒手打击+3(1d6+2)或徒手打击疾风连击+2/+2(1d6+2)
+|ranged=手里剑+3（1d2+2）或手里剑疾风连击+2/+2(1d2+2)
+|special_attacks=疾风连击，震慑拳（2次/天，DC13）
+|spell_like=（施法者等级1；专注-2）；1次/天——隐形术（仅限自身），[[皮肉成钢]]*
+|str=14
+|dex=15
+|con=14
+|int=10
+|wis=15
+|cha=4
+|bab=+1
+|cmb=+3
+|cmd=18（对抗摔绊和冲撞时为22）
+|feats=[[战斗反射]];[[闪避]];精通徒手打击;灵巧魔力*;[[震慑拳]]
+|skills=[[特技]]动作+7;[[脱逃|逃脱术]]+7;[[察觉]]+7;[[隐匿]]+7
+|languages=通用语;地底通用语;矮人语
+|sq=慢而稳;下盘稳固
+|combat_gear=治疗轻伤药水;隐形术药水 x2;爆雷石 x4
+|gear=手里剑 x10;7GP
+|environment=任何地底
+|source=怪物志
+|family=灰矮人（怪物志）
+|npc=1
+}}
+
+本页译自《[[怪物志]]》的怪物图鉴 CHM。

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faiths and Philosophies pg. 0），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=修院出身
+|english_name=Monastic
+|type=信念
+|description=要么是你的父母将你送进修道院抚养长大，要么是你在后来的人生中自行前往那里，以逃离外面大千世界的纷争与干扰。在那里，你学会了摒弃困扰众人、蒙蔽其心智的物质牵挂，转而拥抱苦修的生活方式。你能轻易放下、抽身远离麻烦，不受任何可能拖慢你开悟之路的牵绊或包袱所累——无论是比喻意义上还是字面意义上。每天一次，你可以以一个迅捷动作获得+1背景加值到AC，前提是你没有穿着护甲、没有使用盾牌、处于轻载，并且双手空无一物。此加值持续1分钟。
+|source_name=信仰与哲学
+|source=F&P
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Monastic
+}}

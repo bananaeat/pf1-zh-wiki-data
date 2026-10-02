@@ -1,0 +1,12 @@
+{{Feat
+|name=灰矮人魔法
+|english_name=Gray Dwarf Magic
+|pfs=否
+|description=你从灰矮人的种族魔力中学会了新的技巧
+|prerequisites=灰矮人
+|benefit=选择一个你尚未拥有的灰矮人种族特性所赋予的、可每天使用一次的类法术能力，你可以每天一次使用本类法术能力，施法者等级等同于你的角色等级。
+|special=你可以多次选择本专长。每次选择本专长时，你必须选择来自不同灰矮人种族特性的、可每天使用一次的类法术能力。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1401.html
+}}

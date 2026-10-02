@@ -1,0 +1,11 @@
+{{Feat
+|name=进阶兽化变身
+|english_name=Improved Bestial Transformation
+|pfs=否
+|description=你已精通变形成各种野兽的能力。
+|prerequisites=[[吸血鬼]]
+|benefit=你可以变形成为以下动物之一（如同[[野兽形态 II]]）：[[野猪]]，[[凶暴蝙蝠]]，巨[[蟾蜍]]，[[灰熊]]，[[鬣狗]]，豹，狮，鲨，[[乌贼]]，或[[狼]]。这是一个超自然能力。
+|special=你可以多次选择此专长，每次选择一种新的[[动物形态]]。
+|source_name=夜之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_823.html
+}}

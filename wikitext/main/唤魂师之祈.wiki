@@ -1,0 +1,10 @@
+{{Feat
+|name=唤魂师之祈
+|english_name=Spiritualist's Call
+|description=每当你召唤魅影时，它都会在短时间内获得更为强大的力量。
+|prerequisites=[[魅影]]职业能力
+|benefit=每当你召唤自己的魅影时，都会让它在力量、敏捷或魅力上获得+2增强加值。该加值在召唤仪式完成后会持续10分钟。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

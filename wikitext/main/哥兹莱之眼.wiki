@@ -1,0 +1,10 @@
+{{Trait
+|name=哥兹莱之眼
+|english_name=Gozreh's Sight
+|type=宗教
+|prerequisites=信仰[[哥兹莱]]
+|description=对风澜的信仰能在你穿航于各种雾霾中时助你一臂之力。你能正常在非魔法的云雾（fog）、雾（mist）和雨或类似环境（比如说瀑布的飞沫中）里看到5尺远。然而你5尺外的视线依然正常受限。
+|source=PotW
+|source_name=废土子民
+|source_url=https://pf1chm.pages.dev/topics/page_1192.html
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 198），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=难以捉摸
+|english_name=Hard to Pin Down
+|type=种族
+|prerequisites=魔裔
+|description=只有更紧迫的危险才能让恶霸们暂时放过你。对抗由你夹击的对手，以及对你失去AC敏捷加值的对手所发动的借机攻击时，你的AC获得+2背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Hard%20to%20Pin%20Down
+}}

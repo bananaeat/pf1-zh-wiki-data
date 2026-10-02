@@ -1,0 +1,17 @@
+{{武器
+|name=黄铜指虎
+|english_name=Brass knuckles
+|category=武器
+|prof=简易
+|wcat=轻型
+|price=1 gp
+|weight=1磅
+|dmg_s=1d2
+|dmg_m=1d3
+|crit=×2
+|type=钝击
+|special=武僧，见正文
+|groups=贴身，武僧
+|description=这件武器紧贴指关节，允许你通过[[徒手攻击]]造成致命伤害。你能用装备着黄铜指虎的手抓握但非持用一件武器或其他物品。若成功通过DC为“10+法术环级”的专注检定，你能用装备着黄铜指虎的手来完成施法所需的姿势成分。武僧擅长黄铜指虎。黄铜指虎无法被[[卸武]]。
+|source=冒险者的军械库、进阶玩家指南、极限宝具
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=幸运赠礼
+|english_name=Bestow Luck
+|description=你非常幸运，有时候你的盟友也受到你好运的影响。
+|prerequisites=[[挑战机运]]，[[莫名好运]]，人类。
+|benefit=你每天可以额外使用1次[[挑战机运]]。另外你能以一个[[直觉动作]]使一个你能看到并听到的盟友获得[[莫名好运]]的好处。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

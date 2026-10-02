@@ -1,0 +1,9 @@
+{{Trait
+|name=亦幻亦真
+|english_name=Veils upon Veils
+|type=宗教
+|prerequisites=信仰[[西芙娜]]
+|description=你学到的神圣知识增强了你的幻术。每天一次，你可以让你施放的一个幻术法术的施法者等级+1。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

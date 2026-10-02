@@ -1,0 +1,11 @@
+{{Feat
+|name=兽人暴怒斩
+|english_name=Orc Fury Style
+|categories=战斗;流派
+|pfs=否
+|description=你能在敌群中散播恐惧。
+|prerequisites=[[威吓猛击]]ARG，威逼，威吓3级，武器熟悉种族特性
+|benefit=当你持用[[巨斧]]、[[弯刃大刀]]、或任何冠有“[[兽人]]”之名的近战武器时，能够以[[全力攻击]]的首次攻击或以[[标准动作]]的一部分做出一次或更多次攻击（比如使用[[顺势斩]]专长）时使用威吓猛击ARG专长。
+|source_name=武器大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_420.html
+}}

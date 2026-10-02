@@ -1,0 +1,23 @@
+{{魔法物品
+|name=灵魂法杖
+|english_name=Staff of Souls
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Souls
+|cat=法杖
+|aura=中等（学派不定）
+|cl=8
+|slot=无
+|price=32,800 gp
+|weight=5磅
+|description=这根不祥的法杖由扭曲的木头制成，顶端装有一个小小的头骨。
+
+该法杖可以使用以下法术：
+
+* [[观命术]]（1 发）
+* [[侦测死灵]]（1 发）
+* [[遗体防腐]]（1 发）
+* [[防死结界]]（2 发）
+* [[死者交谈]]（2 发）
+|req=[[制造法杖]]、[[防死结界]]、[[观命术]]、[[侦测死灵]]、[[遗体防腐]]、[[死者交谈]]
+|cost=16,400 gp
+|source=进阶玩家指南、极限宝具
+}}

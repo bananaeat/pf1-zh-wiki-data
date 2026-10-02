@@ -1,0 +1,11 @@
+{{Feat
+|name=法术弹
+|english_name=Spell Cartridges
+|categories=战斗
+|pfs=否
+|description=当你弹药打空时可以改为发射奥术能量凝成的子弹。
+|prerequisites=[[奥术打击]]，能够施放奥术法术，擅长火器。
+|benefit=当你使用奥术打击专长向枪械灌注能量时，你可以发射力场弹而非通常子弹。力场弹造成每5施法者等级1D4力场伤害。力场弹不使用黑火药和子弹，在克服伤害减免时视为魔法。
+|source_name=格拉利昂的英雄
+|source_url=https://pf1chm.pages.dev/topics/zh6a9ca5047a.htm
+}}

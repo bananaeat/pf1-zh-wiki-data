@@ -1,0 +1,10 @@
+{{Trait
+|name=信息超载
+|english_name=Information Overload
+|type=缺陷
+|pfs=否
+|description=你查阅过成千上万条间谍报告，许多的结果是基于错误的推论或甚至是敌对间谍团体故意散布虚假故事。由此时起，你脑海中虚假的知识跟正确的资讯一样多，而你不能永远记住哪个是哪个。
+|benefit=你在所有知识检定承受-2罚值，而若你知识检定失败5点或更多时，你能回忆起与事实截然相反的信息。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

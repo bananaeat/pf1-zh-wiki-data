@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Darklands pg. 5），民间汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=曳光射击
+|english_name=Tracer Fire
+|categories=战斗
+|pfs=否
+|description=你用光芒标出投射物的轨迹，让盟友更容易看清目标。
+|prerequisites=[[近距射击]]，[[精准射击]]。
+|benefit=以一个[[标准动作]]，你可以用你最高的基本攻击加值，以一件发光的投掷武器或一发发光的弹药（例如燃着火焰的[[手里剑]]，或附有魔法光亮效果的箭矢）进行一次远程攻击。如果攻击命中目标，1轮内针对同一目标的攻击获得+2环境加值，但这些攻击必须来自昏暗或更暗的区域。在投射物被拔出或熄灭之前，目标视为处于明亮光照中。拔出投射物是一个会引发借机攻击的移动动作。
+|source=HotD
+|source_name=幽暗地域英雄
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Tracer%20Fire
+}}

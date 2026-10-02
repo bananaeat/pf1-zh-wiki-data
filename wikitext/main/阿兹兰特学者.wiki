@@ -1,0 +1,10 @@
+{{Trait
+|name=阿兹兰特学者
+|english_name=Azlanti Scholar
+|type=地区
+|pfs=否
+|prerequisites=铁壁群岛，非精灵
+|benefit=你与莫丹特尖塔的[[精灵]]之间的交往让你对阿兹兰特文物有着诸多了解，而如今你也和莫丹特尖塔的精灵一样，对这些遗物着迷。你获得阿兹兰特语作为奖励语言，并且当你尝试鉴别或使用真正的阿兹兰特文物时，在[[估价]]和[[使用魔法装置]]检定上+2背景加值。
+|source_name=缘界英雄Heroes from the Fringe
+|source_url=https://pf1chm.pages.dev/topics/zh75ffd12667.htm
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=血染双刀
+|english_name=Red Mantis Bleeding
+|type=战斗
+|description=你曾目睹[[红螳螂]]刺客的训练——或是幼年时在梅迪奥迦尔提岛上，或是作为一名求学者——并从中学会了如何留下血流不止的伤口。每当你使用挥砍武器确认一次重击时，目标还会额外承受1点[[流血伤害]]。
+红螳螂刺客 Red Mantis Assassins:以杀人效率和严格的雇佣规则而臭名昭著的红螳螂刺客将他们所使用的锯齿刀剑术视为奉献给螳螂之神的圣礼。与他们崇拜的[[阿卡艾克克]]为诸神所行之事一样，红螳螂刺客游荡世间，专杀命中该绝之人。
+|source_name=战斗背景
+|source=WMH
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

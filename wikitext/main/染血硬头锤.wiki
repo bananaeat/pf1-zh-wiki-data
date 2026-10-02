@@ -1,0 +1,15 @@
+{{魔法物品
+|name=染血硬头锤
+|english_name=Mace of Blood
+|aon=MagicCursedDisplay.aspx?ItemName=Mace of Blood
+|cat=诅咒物品
+|base=[[重型硬头锤]]
+|enh=+3
+|aura=中等防护系
+|cl=8
+|slot=无
+|weight=8磅
+|description=这把+3[[重型硬头锤]]必须每天涂上鲜血，否则其加值会消退，直到再次涂上鲜血为止。每天只要这把硬头锤在她的持有之中，使用它的角色就必须通过一次DC 13的意志豁免，否则会变成混乱邪恶。
+|req=+3[[重型硬头锤]]
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,6 @@
+<includeonly>{{#switch:{{法术学派|{{{1|}}}}}|防护系=abj|咒法系=con|预言系=div|惑控系=enc|塑能系=evo|幻术系=ill|死灵系=nec|变化系=tra|通用系=uni|#default=uni}}</includeonly><noinclude>
+==说明==
+学派名 -> CSS 类名后缀（<code>sch-evo</code> 这样）。先过 [[模板:法术学派]] 归一，所以子学派、尾分号、`附魔系` 这类异写都能认。
+认不出的按 <code>uni</code>（通用系）走，不会没有类名。
+[[分类:模板]]
+</noinclude>

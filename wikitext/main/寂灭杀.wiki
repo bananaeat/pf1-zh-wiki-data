@@ -1,0 +1,11 @@
+{{Feat
+|name=寂灭杀
+|english_name=Silent Kill
+|categories=战斗
+|description=你的锋刃安静地没入目标的咽喉，无人知晓周围正在发生的杀戮。
+|prerequisites=隐匿技能等级12，杀手高等天赋一击瞬杀或忍者高等忍术瞬狱杀
+|benefit=如果你在[[突袭]]轮中杀死了一个生物，那么你可以进行一个隐匿检定来抵抗可能的观察者的察觉检定。如果你成功，则没有人会注意到你的行动，也不会认出你是行凶者。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

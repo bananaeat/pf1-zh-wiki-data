@@ -1,0 +1,9 @@
+{{Trait
+|name=机械天赋
+|english_name=Mechanical Aptitude
+|type=魔法
+|description=你通过摆弄吉斯塔克帝国的古代科技学到了不少东西。选择以下技能之一：[[解除装置]]、知识(工程)或[[使用魔法装置]]。每天一次，你可以在该技能检定的结果揭晓前重掷这次检定；你必须采用第二次的结果，即使它更差。
+|source_name=古国血脉
+|source=BotA
+|source_url=https://pf1chm.pages.dev/topics/zhb7c0053e99.htm
+}}

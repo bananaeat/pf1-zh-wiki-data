@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Advanced Class Origins pg. 21），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=教团世家
+|english_name=Cultist Lineage
+|type=地区
+|prerequisites=莫迪欧凯提岛
+|description=你的父母都是红螳螂刺客，你的家族在红螳螂教团中效力的传统源远流长。严格而狂热的教养以及对谋杀的熟稔，赋予了你一股自信而凶险的气质，使你的[[威吓]]检定获得+1背景加值。如果你在突袭轮中行动，你可以在该轮中以一个自由动作拔出一把轻型武器（如果你拥有[[双武器格斗]]专长，则可以拔出两把）。
+|source_name=进化职业起源
+|source=ACO
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Cultist%20Lineage
+}}

@@ -1,0 +1,9 @@
+{{装备
+|name=延察布人混合咖啡
+|english_name=Yenchaburian hybrid
+|cat=饮食
+|price=1 gp
+|weight=—
+|description=这种苦咖啡品种提升了饮用者对附近威胁的警觉。饮用两杯延察布人混合咖啡1小时内，你在注意到一名使用隐匿的生物时的察觉检定上获得+2表现加值。每日你仅能从延察布人混合咖啡中获益一次。
+|source=商人货单
+}}

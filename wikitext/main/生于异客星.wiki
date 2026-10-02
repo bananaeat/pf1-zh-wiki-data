@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（People of the Stars pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=生于异客星
+|english_name=Born under the Stranger
+|type=战斗
+|pfs=否
+|description=你降生之时，阿克腾与你的诞生星座相合，还伴随着种种怪异的事件，这让你与异星生物之间有了某种联系。对异怪使用虚招时，你不会因对非类人生物使用虚招而承受-4减值；对只有动物智力的异怪使用虚招时，你只承受-4减值（而非-8）。你仍然无法对无心智生物使用虚招。
+|source_name=繁星子民
+|source=PotS
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Born%20under%20the%20Stranger
+}}

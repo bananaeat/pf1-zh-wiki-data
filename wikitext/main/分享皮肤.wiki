@@ -1,0 +1,15 @@
+{{Spell
+|name=分享皮肤
+|english_name=Share skin
+|school=死灵系
+|levels=女巫 6;德鲁伊 6;猎人 6
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触的一个动物
+|duration=1分钟/等级 或 直到你回到你体内
+|save=意志，通过则无效；见后文
+|sr=是
+|description=除了下述内容之外，你可以如同使用[[魔魂壶]] 一般，占据一个动物的身体。当法术效果持续时，你的身体消失，而且你不需要容器。
+|source=月之血脉
+}}

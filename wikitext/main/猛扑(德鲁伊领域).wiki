@@ -1,0 +1,5 @@
+<noinclude>{{德鲁伊导航}}
+{{消歧义|猛扑}}
+</noinclude>{{德鲁伊领域能力|name=猛扑|en=Pounce|type=Ex|domain=平原领域|source=极限魔法|text=6级时，你每天可以使用一次[[通用怪物规则#猛扑|猛扑]]特殊攻击，之后的每3级再加1次。}}<noinclude>
+
+[[分类:德鲁伊领域]]</noinclude>

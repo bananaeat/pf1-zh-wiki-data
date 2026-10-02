@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Advanced Class Origins pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=终焉守卫
+|english_name=Lastwall Defender
+|type=战斗
+|description=你在终焉之墙服役的经历教会了你如何辨识不死生物，让它们在你心中从神秘的恐怖之物变成了你知道如何应对的具体敌人。对于你亲自使用[[知识]]（宗教）技能辨识过的不死生物，你的攻击检定和伤害检定获得+1背景加值。
+|source_name=进化职业起源
+|source=ACO
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Lastwall%20Defender
+}}

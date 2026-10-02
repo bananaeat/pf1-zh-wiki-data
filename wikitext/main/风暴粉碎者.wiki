@@ -1,0 +1,9 @@
+{{Feat
+|name=风暴粉碎者
+|english_name=Storm Breaker
+|description=直面阿本迭戈之眼后，无论是正常还是魔法的风暴都无法动摇你。
+|benefit=当计算你是否会被风或水流（包括怪物的漩涡和旋风特殊能力）推动时，你的体型视为比原本大2级。如果你至少有11HD，那么你不会被非魔法的风所移动，除非你主动选择这么做。
+|source=EMH
+|source_name=元素大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_1113.html
+}}

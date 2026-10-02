@@ -1,0 +1,11 @@
+{{Trait
+|name=残暴之子
+|english_name=Cruel Child
+|type=种族
+|prerequisites=[[替换儿]]
+|description=你那邪恶的血统如光芒般闪耀，在战斗中以残暴嗜血这种方式体现了出来。
+
+当你在使用爪抓攻击进行全回合攻击时，你的攻击检定获得+1背景加值。
+|source_name=巫团血脉
+|source_url=https://pf1chm.pages.dev/topics/zh4e60eab574.htm
+}}

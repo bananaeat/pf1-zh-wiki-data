@@ -1,0 +1,20 @@
+{{Spell
+|name=毒液喷吐
+|english_name=Spit venom
+|school=变化系
+|tags=毒素
+|levels=女巫 3;德鲁伊 3;猎人 3;先知 4;战斗祭司 4;牧师 4;萨满 4
+|action=标准动作
+|components=语言
+|range=近距
+|duration=立即；见下文
+|save=强韧，通过则部分生效
+|sr=否
+|effect=一股毒液
+|description=以一个远程[[接触攻击]]，你对目标喷出了一股毒液。
+
+如果毒液命中，它会导致目标失明一轮。
+
+目标还必须通过豁免，否则就会中[[黑蛇毒]]；该毒药在后续各轮的豁免DC等于法术DC。
+|source=极限魔法
+}}

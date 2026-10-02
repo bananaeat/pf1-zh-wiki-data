@@ -1,0 +1,11 @@
+{{Feat
+|name=死者的梦魇
+|english_name=Death's Nightmare
+|aon=无
+|categories=技巧
+|description=即使是无心智的亡者也会害怕你的到来。
+|prerequisites=魅力 14。
+|benefit=总生命骰等于小于你的生命骰+你的魅力修正值的无心智不死生物，也会被你使用职业能力、技能和法术所造成的惊惧，恐慌和[[战栗]]状态所影响。这包括威吓技能，你可以使用此技能来对受影响的无心智不死生物挫败士气。
+|source_name=其他职业
+|source_url=https://pf1chm.pages.dev/topics/page_1210.html
+}}

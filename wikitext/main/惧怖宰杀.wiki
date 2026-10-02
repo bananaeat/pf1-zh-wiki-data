@@ -1,0 +1,11 @@
+{{Feat
+|name=惧怖宰杀
+|english_name=Gruesome Slaughter
+|categories=战斗
+|description=你反手一刀就将刺杀目标斩成鲜血淋漓，在场的所有人都被吓得半死。
+|prerequisites=[[威逼]]，[[处刑秀]]，威吓技能11级，杀手等级11
+|benefit=每当你使用[[处刑秀]]专长进行一次挫败士气的威吓尝试，受到影响的生物必须通过一次强韧豁免（DC=10+你角色等级的一半+你的力量或敏捷调整值中较高者），否则将陷入[[恶心]]1分钟。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

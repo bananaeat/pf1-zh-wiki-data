@@ -1,0 +1,15 @@
+{{魔法物品
+|name=蹦跳拖鞋
+|english_name=Slippers of Scampering
+|aon=MagicWondrousDisplay.aspx?FinalName=Slippers of Scampering
+|cat=奇物
+|aura=微弱变化系
+|cl=4
+|slot=脚部
+|price=1,200 gp
+|weight=1/2磅
+|description=蹦跳拖鞋的功能在绝大多数方面都与[[蛛行拖鞋]]相同，不同之处在于这双拖鞋每天能够使用10轮，可依穿戴者的意愿分开使用（每次使用最少1轮）。
+|req=[[制造奇物]]、[[蛛行术]]
+|cost=600 gp
+|source=恶棍志
+}}

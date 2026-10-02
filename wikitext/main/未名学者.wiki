@@ -1,0 +1,9 @@
+{{Trait
+|name=未名学者
+|english_name=Untrained Scholar
+|type=信念
+|description=虽然学术研究并非你的专长，但你在图书馆与课堂里度过的时光也教给了你一些知识。每天1次，你可以在未受训的情况下进行一次知识(地理)、知识(历史)或知识(本地)检定，并获得+2背景加值。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh484c89782e.htm
+}}

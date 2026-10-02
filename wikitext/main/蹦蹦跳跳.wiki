@@ -1,0 +1,15 @@
+{{Spell
+|name=蹦蹦跳跳
+|english_name=Scamper
+|school=变化系
+|levels=德鲁伊 2;游侠 2;猎人 2
+|action=迅捷动作
+|components=语言;姿势
+|range=近距
+|target=你的动物伙伴
+|duration=1轮；见正文
+|save=无
+|sr=否
+|description=你的[[动物伙伴]]能以惊人的灵巧性以及速度移动，直至其回合结束。它能够在使用杂技时以全速移动，并且在用于避免藉机攻击或通过一个被敌人占据空间所进行的杂技检定中，获得两倍于你的施法者等级的表现加值（最高为10级时的+20）。
+|source=极限荒野
+}}

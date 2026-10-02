@@ -1,0 +1,9 @@
+{{装备
+|name=巨魔杀手工具箱
+|english_name=Troll slayer's kit
+|cat=套装
+|price=30 gp
+|weight=17磅
+|description=该工具箱包括一瓶炽火胶，一瓶强酸，十根火把，一根火柴和五瓶灯油。
+|source=极限宝具
+}}

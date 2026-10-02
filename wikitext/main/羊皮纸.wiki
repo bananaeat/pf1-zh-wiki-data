@@ -1,0 +1,9 @@
+{{装备
+|name=羊皮纸
+|english_name=Parchment (sheet)
+|cat=冒险装备
+|price=2 sp
+|weight=—
+|description=这张经过处理的薄动物皮是一种耐用的书写介质，适合制作魔法卷轴。它的硬度为0，具有2点生命值，击破DC为5。
+|source=核心规则书、极限宝具
+}}

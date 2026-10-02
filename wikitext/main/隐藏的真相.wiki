@@ -1,0 +1,7 @@
+{{物品
+|name=隐藏的真相
+|english_name=The Hidden Truth
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。此卡令抽卡者获得一次性能力召唤一个全知的[[精灵]]来彻底回答一个问题或解开一个谜。揭露的讯息是否有用则是另一码事。抽牌者可以决定何时使用该能力，但仅限一次。
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=雷鸣颈环
+|english_name=Thundering Collar
+|aon=MagicWondrousDisplay.aspx?FinalName=Thundering Collar
+|cat=奇物
+|aura=微弱防护系
+|cl=1
+|slot=颈部
+|price=4,800 gp
+|weight=1磅
+|description=这件颈环由扭曲的铜线编织成项圈，末端各缀有一只染红的犬爪，雷鸣颈环以凯登·凯连那只忠实的红色獒犬暴雷为名。每日3次，雷鸣颈环允许穿戴者发出听起来像滚滚雷鸣的隆隆咆哮。15尺内的生物必须通过一次DC 12的意志豁免才能发动攻击（如同受到圣域术影响）。穿戴者也可以将该效果施加于相邻的一个盟友。该效果持续3轮，或者直到穿戴者或其盟友发动攻击。
+|req=[[制造奇物]]、[[幻音术]]、[[圣域术]]
+|cost=2,400 gp
+|source=内海神殿
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=咒文精华
+|english_name=Dweomer's Essence
+|aon=MagicWondrousDisplay.aspx?FinalName=Dweomer's Essence
+|cat=奇物
+|aura=中等防护系
+|cl=9
+|slot=无
+|price=500 gp
+|description=这种细腻的白色粉末来自对稀有魔法材料的耐心蒸馏。施展任何法术时，可取一撮作为额外的材料成分加入，使施法者在为克服法术抗力而进行的施法者等级检定中获得+5加值。
+|req=[[制造奇物]]、[[法术穿透]]
+|cost=250 gp
+|source=探索者协会战地指南
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=棍卜术
+|english_name=Rhabdomancy
+|description=你已经掌握了从棒、杖或箭矢的掉落方式揭示秘密、寻找失物以及获得预兆的技艺。
+|prerequisites=[[知识]]（自然）3级，[[生存]]3级
+|benefit=即使你不能施放异能法术，你仍然可以使用探宝[[神秘技能解放]]OA。如果你能施放异能法术或具有[[异能敏感]]OA专长，你每天可以额外使用1次探宝。在尝试一次生存检定前花费一分钟扔木棒可以于这次检定中授予你+2洞察加值。除此之外，你可以在施放定位生物或物品的法术（包括探知效果）时扔木棒或木杖，以将该法术的施法者等级+1。
+|source=OO
+|source_name=异能源始
+|source_url=https://pf1chm.pages.dev/topics/zhca50b6790c.htm
+}}

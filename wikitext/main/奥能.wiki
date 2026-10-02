@@ -1,0 +1,207 @@
+{{魔战士导航}}
+{{Source|极限魔法|Ultimate Magic}}
+
+'''魔战士奥能'''（Magus Arcana）是[[魔战士]]的[[魔战士#魔战士奥能|职业能力]]，首次出现于《极限魔法》。3级和之后每3级，魔战士从下列奥能中选择一项，除非特别提及否则每项魔战士奥能不得多次选择。除非另有说明，影响法术效能的魔战士奥能仅可用于改变魔战士法术列表的法术。
+
+本页的魔战士奥能出自：《[[极限魔法]]》（UM）、《[[极限战斗]]》（UC）、《[[进阶职业指南]]》（ACG）、《[[月之血脉]]》（BotM）、《[[远程战术工具箱]]》（RTT）、《[[魔法市集指南]]》（MM）、《[[哈罗牌手册]]》（HH）、《[[怪物召唤者手册]]》（MSH）、《[[市井英雄]]》（HotS）、《[[门徒教义]]》（DD）、《[[格拉利昂的混种]]》（BoG）、《[[邪恶特务]]》（AoE）。
+
+原文译者：傻豆、Enviless、弑君者伊恩（UM），PATIBAUL（UC），lichzeta（ACG），landyluo（BotM），月夜白雨（RTT）。
+
+== 奥能精准 (Arcane Accuracy, Su) ==
+{{:奥能精准}}
+
+== 奥能遮蔽 (Arcane Cloak, Su) ==
+{{:奥能遮蔽}}
+
+== 奥能炫技 (Arcane Deed, Ex) ==
+{{:奥能炫技}}
+
+== 奥能堡垒 (Arcane Redoubt, Su) ==
+{{:奥能堡垒}}
+
+== 奥能嗅觉 (Arcane Scent, Ex) ==
+{{:奥能嗅觉}}
+
+== 缩短距离 (Close Range, Ex) ==
+{{:缩短距离}}
+
+== 精神集中 (Concentrate, Ex) ==
+{{:精神集中(魔战士奥能)}}
+
+== 洞察打击 (Divinatory Strike, Su) ==
+{{:洞察打击}}
+
+== 魔宠 (Familiar, Ex) ==
+{{:魔宠(魔战士奥能)}}
+
+== 华丽奥能 (Flamboyant Arcana) ==
+{{:华丽奥能}}
+
+== 直觉防护 (Intuitive Protection, Sp) ==
+{{:直觉防护}}
+
+== 疼痛滞留 (Lingering Pain, Su) ==
+{{:疼痛滞留}}
+
+== 战技精通 (Maneuver Mastery, Ex) ==
+{{:战技精通}}
+
+== 天生法术战斗 (Natural Spell Combat, Ex) ==
+{{:天生法术战斗}}
+
+== 力池打击 (Pool Strike, Su) ==
+{{:力池打击}}
+
+== 力池射线 (Pool Ray) ==
+{{:力池射线}}
+
+== 权杖掌握 (Rod Mastery, Su) ==
+{{:权杖掌握}}
+
+== 权杖支配 (Rod Wielder, Su) ==
+{{:权杖支配}}
+
+== 及远法术 (Reach Magic) ==
+{{:及远法术(魔战士奥能)}}
+
+== 默发法术 (Silent Magic, Su) ==
+{{:默发法术}}
+
+== 定发法术 (Still Magic, Su) ==
+{{:定发法术}}
+
+== 法术混合 (Spell Blending, Ex) ==
+{{:法术混合}}
+
+== 法术护盾 (Spell Shield, Su) ==
+{{:法术护盾}}
+
+== 法痕 (Spell-Scars, Ex) ==
+{{:法痕(魔战士奥能)}}
+
+== 魔战投手 (Throwing Magus) ==
+{{:魔战投手}}
+
+== 魔杖掌握 (Wand Mastery, Su) ==
+{{:魔杖掌握}}
+
+== 魔杖支配 (Wand Wielder, Su) ==
+{{:魔杖支配}}
+
+== 书籍联结 (Book-Bound, Su) ==
+{{:书籍联结}}
+
+== 水之灵动 (Aquatic Agility, Su) ==
+{{:水之灵动}}
+
+== 奥能发牌 (Arcane Dealer, Su) ==
+{{:奥能发牌}}
+
+== 拓展学习 (Broad Study, Ex) ==
+{{:拓展学习}}
+
+== 黑暗挪移 (Dark Shifter, Su) ==
+{{:黑暗挪移}}
+
+== 扰法者 (Disruptive, Ex) ==
+{{:扰法者(魔战士奥能)}}
+
+== 持久刀锋 (Enduring Blade, Su) ==
+{{:持久刀锋}}
+
+== 强效法术 (Empowered Magic, Su) ==
+{{:强效法术}}
+
+== 奥能真气 (Ki Arcana, Ex) ==
+{{:奥能真气}}
+
+== 雷鸣力池打击 (Pool Strike, Thunderous, Su) ==
+{{:雷鸣力池打击}}
+
+== 远见打击 (Prescient Attack, Su) ==
+{{:远见打击}}
+
+== 卷轴掌握 (Scroll Mastery, Su) ==
+{{:卷轴掌握}}
+
+== 凌波微步 (Tabris's Step, Sp) ==
+{{:凌波微步(魔战士奥能)}}
+
+== 精确打击 (Accurate Strike, Ex) ==
+{{:精确打击}}
+
+== 奥能刀锋 (Arcane Edge, Su) ==
+{{:奥能刀锋}}
+
+== 驱散打击 (Dispelling Strike, Su) ==
+{{:驱散打击}}
+
+== 幽冥刀锋 (Ghost Blade, Su) ==
+{{:幽冥刀锋}}
+
+== 急速袭击 (Hasted Assault, Su) ==
+{{:急速袭击}}
+
+== 位面猎手 (Planar Hunter, Su) ==
+{{:位面猎手(魔战士奥能)}}
+
+== 黏着力池打击 (Pool Strike, Clinging, Su) ==
+{{:黏着力池打击}}
+
+== 远见防御 (Prescient Defense, Su) ==
+{{:远见防御}}
+
+== 罗刹时运 (Rakshasa's Fortune, Su) ==
+{{:罗刹时运}}
+
+== 破法者 (Spellbreaker, Ex) ==
+{{:破法者(魔战士奥能)}}
+
+== 命令法阵 (Circle of Order, Su) ==
+{{:命令法阵}}
+
+== 蔽视打击 (Vision-Clouding Strike) ==
+{{:蔽视打击}}
+
+== 游侠陷阱 (Ranger Trap) ==
+{{:游侠陷阱(魔战士奥能)}}
+
+== 高等奥能堡垒 (Arcane Redoubt, Greater, Su) ==
+{{:高等奥能堡垒}}
+
+== 重击施法 (Critical Strike, Su) ==
+{{:重击施法}}
+
+== 虔诚刀锋 (Devoted Blade, Su) ==
+{{:虔诚刀锋}}
+
+== 极效法术 (Maximized Magic, Su) ==
+{{:极效法术}}
+
+== 弧光力池打击 (Pool Strike, Arcing, Su) ==
+{{:弧光力池打击}}
+
+== 法术诡计 (Spell Trickery, Ex) ==
+{{:法术诡计(魔战士奥能)}}
+
+== 破敌刀锋 (Bane Blade, Su) ==
+{{:破敌刀锋}}
+
+== 瞬发法术 (Quickened Magic, Su) ==
+{{:瞬发法术}}
+
+== 法术反弹 (Reflection, Su) ==
+{{:法术反弹}}
+
+== 及远法术打击 (Reach Spellstrike, Su) ==
+{{:及远法术打击}}
+
+== 远距法术打击 (Distant Spellstrike, Su) ==
+{{:远距法术打击}}
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_83.html 原文]），按 AoN 核对过。
+
+{{AoN原文|1=MagusArcana.aspx|2=Magus Arcana}}
+
+[[分类:魔战士]]
+{{职业}}

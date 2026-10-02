@@ -1,0 +1,14 @@
+{{魔法物品
+|name=鼠牙戒指
+|english_name=Ring of Rat Fangs
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Rat Fangs
+|cat=戒指
+|aura=微弱变化系
+|cl=3
+|slot=戒指
+|price=5,000 gp
+|description=这枚骨戒的形状是一只被拉长的、咬着自己尾巴的老鼠。穿戴者获得啮咬攻击，作为主要天生武器。该攻击对中型穿戴者造成1d4点穿刺伤害，对小型穿戴者则造成1d3点伤害。戴上[[魔法物品#戒指|戒指]]约一周后，穿戴者的外貌会变得更像老鼠，不过她看上去仍是原种族的一员（例如[[人类]]穿戴者可能会长出突出的牙齿）。
+|req=[[锻造戒指]]、[[魔牙术]]、[[变形术]]
+|cost=2,500 gp
+|source=进阶种族手册、极限宝具
+}}

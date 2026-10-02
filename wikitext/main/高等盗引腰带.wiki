@@ -1,0 +1,17 @@
+{{魔法物品
+|name=高等盗引腰带
+|english_name=Channel-Thieving Belt, Greater
+|aon=MagicWondrousDisplay.aspx?FinalName=Channel-Thieving Belt, Greater
+|cat=奇物
+|aura=中等咒法系、死灵系
+|cl=7
+|slot=腰部
+|price=9,200 gp
+|weight=2磅
+|description=此腰带的功能如同普通盗引腰带，但治疗量等同于引导能量的生物所造成伤害的一半。
+|req=[[制造奇物]]、[[治疗重伤]]、[[造成重伤]]
+|cost=4,600 gp
+|source=惧怖冒险
+}}
+
+{{FAQ|v5748eaic9v0v}}

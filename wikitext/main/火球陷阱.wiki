@@ -1,0 +1,13 @@
+{{危害
+|name=火球陷阱
+|english_name=Fireball Trap
+|kind=陷阱
+|trap_type=魔法
+|cr=5
+|perception=DC 28
+|disable=DC 28
+|trigger=接近型（警报术）
+|reset=无
+|effect=法术效果（[[火球术]]，6d6火焰伤害，反射 DC 14 减半）；复数目标（20尺半径爆发区域全体）
+|source=核心规则书
+}}

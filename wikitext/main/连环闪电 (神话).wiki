@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[连环闪电]] 的神话版本。</small></div>
+{{Spell
+|name=连环闪电
+|english_name=Chain Lightning
+|school=塑能系
+|tags=电
+|levels=奥能师 6;术士 6;法师 6;秘学士 6;魔战士 6;女巫 7
+|description=法术造成每施法者等级1d10点伤害（最高20d10），而且次要目标的豁免DC不会减少。次要目标必须处于任何其他目标周围30尺的范围内，并不需要处于主要目标周围30尺之内。
+|source=神话冒险
+}}
+[[分类:神话法术]]

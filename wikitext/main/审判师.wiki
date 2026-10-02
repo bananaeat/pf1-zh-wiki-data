@@ -1,0 +1,9 @@
+{{Trait
+|name=审判师
+|english_name=Schooled Inquisitor
+|type=信念
+|description=你所受的额外训练帮助你更准确地识破神祇之敌的诡计。你用于辨识生物能力和弱点的知识(位面)和知识(宗教)技能检定获得+2背景加值。
+|source_name=信念背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

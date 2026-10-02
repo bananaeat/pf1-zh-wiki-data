@@ -1,0 +1,10 @@
+{{Feat
+|name=爆碎武器
+|english_name=Splintering Weapon
+|description=你手中脆弱武器的碎片插进了对方的伤口中，使你取得优势。
+|prerequisites=基本攻击加值+1，熟悉对应武器，该武器以原始材料打造。
+|benefit=当你使用带有〔易碎〕特性或类似效果的近战或投掷武器命中对手时，你能让武器[[破损]]、同时给对手造成1d4[[出血]]伤害。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

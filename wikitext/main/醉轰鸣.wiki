@@ -1,0 +1,8 @@
+{{狂暴之力
+|name=醉轰鸣
+|english_name=Roaring Drunk
+|type=Ex
+|categories=杂项
+|benefit=狂暴时，每份酒精为野蛮人带来[[技能/威吓|威吓]]检定的+1士气加值，最大值为每4野蛮人等级1点。
+|source_name=进阶玩家指南
+}}

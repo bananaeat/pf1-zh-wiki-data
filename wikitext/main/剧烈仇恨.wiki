@@ -1,0 +1,12 @@
+{{Feat
+|name=剧烈仇恨
+|english_name=Vast Hatred
+|categories=战斗
+|description=你的怒火已经超越了正常的界限。
+|prerequisites=[[侏儒]]，仇恨种族特性。
+|benefit=从游侠的宿敌职业能力列表中选择两种生物类型（或者适当的子类）。你的仇恨[[种族特性]]获得的加值同样适用于你所选类型（或子类）的生物。
+|special=你能够多次选择该专长。其效果不叠加。每次你选择该专长，可以使仇恨种族特性适用于额外两种类型的生物。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

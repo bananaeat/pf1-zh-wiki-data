@@ -1,0 +1,47 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #69: Maiden, Mother, Crone
+|authors=Tim Hitchcock
+|pages=96
+}}
+
+{{书页/简介|head=三倍的冒险！|1=
+追着芭芭雅嘎的踪迹，英雄们发现自己被传送到遥远的卡斯玛隆大陆上蛮荒的艾欧巴瑞亚（Iobaria）。他们必须探索三座古老而神秘相连的地城，寻找更多关于女巫之王命运的线索，同时对付野蛮的半人马，以及崇拜恶魔、同样想夺取芭芭雅嘎秘密的霜巨人。
+
+本册《冒险之路》延续「冬临天下」冒险之路，内容包括：
+
+* 《少女、母亲、老妪》，一部面向 7 级角色的开拓者角色扮演游戏冒险，作者 Tim Hitchcock。
+* 德维兹达边地（Dvezda Marches）地志——艾欧巴瑞亚一片寒冷孤绝的地区，半人马氏族聚居，古代遗迹星罗棋布。
+* 记述统御丑陋巨人、刺骨严寒与血腥复仇的恶魔领主——不死者[[科斯彻奇]]！
+* 在「探索者日志」中一瞥伊利森与人偶之间诡异的关系，作者 Kevin Andrew Murphy。
+* 五种新怪物，作者 Jason Nelson 和 Sean K Reynolds。
+}}
+
+'''冒险之路69：少女、母亲、老妪'''（''Pathfinder #69: Maiden, Mother, Crone''）是[[冒险之路]]「冬临天下」系列的第三部冒险，由 Tim Hitchcock 撰写，配套内容出自 Tim Hitchcock、Jason Nelson 和 Sean K Reynolds，小说出自 Kevin Andrew Murphy，于 2013 年 4 月 24 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+少女、母亲、老妪 @ 6
+NPC 图集 @ 54
+冬临天下宝藏 @ 60
+- 阿特罗萨之戒（Artrosa Ring）
+- 冬季领主之靴（boots of the winter jarl）
+- 奥术增益食谱（cookbook of arcane augmentation）
+- [[霜雷锤]]
+- 暴风雪之球（globe of blizzards）
+- [[冰环链甲]]
+[[科斯彻奇]] @ 62
+德维兹达边地 @ 68
+探索者日志：骨粉玩偶（3／6） @ 74
+怪物图鉴 @ 82
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Maiden, Mother, Crone
+|releases=PDF¦PZO9069E¦2013-04¦；Softcover¦PZO9069¦2013-04¦978-1-60125-494-8
+}}
+
+[[分类:书目]]

@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能源始|Occult Origins}}
+'''绝息'''（No Breath, Su）是[[操念使]]的[[原力]]。
+
+元素：虚空；类别：通用（Su）；等级：2；超载：－
+
+前置：[[空寂]]
+
+你获得同名怪物能力，并且可以在真空中存活。
+
+[[没有呼吸]] (No Breath, Ex)：该生物不用呼吸，所以他免疫依靠呼吸产生的效果 (比如吸入性毒素)。这个能力并不免疫云或者雾的那些不依靠呼吸产生的效果。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_661.html 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=No Breath|2=No Breath}}
+
+[[分类:原力]]

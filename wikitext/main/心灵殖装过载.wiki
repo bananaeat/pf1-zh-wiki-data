@@ -1,0 +1,10 @@
+<noinclude>{{异能者导航}}
+'''心灵殖装过载'''（Mind Over Augmentation）是[[异能者]]的[[精神增幅|精神增幅]]。
+
+</noinclude>当决定你能拥有多少义体殖装物时，你体内的[[电子殖装物]]的殖装总数不能超过你的智力值+4（忽略你的体质值）。PFS规则可用<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_310.html 精神增幅]、[https://pf1chm.pages.dev/topics/zhb4162fc9dd.htm 乌笃剌精神增幅]、[https://pf1chm.pages.dev/topics/page_855.html PSI技术]），按 AoN 核对过。全部精神增幅见 [[精神增幅]]。
+
+[[分类:精神增幅]]
+
+{{职业}}</noinclude>

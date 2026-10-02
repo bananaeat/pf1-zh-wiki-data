@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[远古血脉]] 的神话版本。</small></div>
+{{Feat
+|name=远古血脉
+|english_name=Racial Heritage
+|categories=神话
+|description=当你的神话力量与自身血脉交织在一起时，它会变得更为明显。
+|prerequisites=[[远古血脉]]
+|benefit=你获得1个你所选择的[[种族特性]]，这个特性来自你在选取非神话版[[远古血脉]]专长时选择的种族。该种族特性无法调整你的属性或体型。如果你还未掌握该种族的种族语言（如果有的话），那么你会获得该语言。对于获取复数种族语言的种族来说，你能够获取全部对应语言。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=怀疑之种
+|english_name=Seeds of Doubt
+|description=你学会了如何使用[[巫术]]在他人的心中埋下怀疑的种子。
+|prerequisites=巫术职业特性，[[神力抵抗]]
+|benefit=只要一个生物正被你的巫术影响，它就会在意志豁免上获得+1幸运加值，并会不由自主地怀疑并抵抗神术魔法。每当一个受本专长影响的生物成为一个神术施法者使用的神术或类法术能力的对象，则如果有可能，目标必须尝试一次豁免检定，即使这个效果是无害的，是盟友施展的或者生物自己施展的。
+|source=F&P
+|source_name=信仰与哲学
+|source_url=https://pf1chm.pages.dev/topics/page_673.html
+}}

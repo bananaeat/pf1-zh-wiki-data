@@ -1,0 +1,9 @@
+{{Trait
+|name=无懈可击的信念
+|english_name=Faith Unshakable and Unassailable
+|type=典范
+|description=你对理想的奉献比钢铁还要强劲。你在对抗魅惑、胁迫和恐惧效果上的意志豁免获得+2背景加值。你每拥有两个其他信念背景，此加值增加1。
+|source_name=典范背景
+|source=Chronicle of Legends
+|source_url=https://pf1chm.pages.dev/topics/zh8c5ec22f89.htm
+}}

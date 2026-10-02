@@ -1,0 +1,14 @@
+{{魔法物品
+|name=回归戒指
+|english_name=Ring of Return
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Return
+|cat=戒指
+|aura=中等咒法系
+|cl=7
+|slot=戒指
+|price=33,600 gp
+|description=这枚金[[魔法物品#戒指|戒指]]嵌有三枚宝石：蓝色、绿色和红色。每日3次，穿戴者可以用一个[[移动动作]]，与自己此刻所在的那个5尺方格建立链接，使戒指上的一枚宝石发亮。之后，穿戴者可以用一个[[迅捷动作]]传送到100尺内任何一个未被占据的已链接方格。
+|req=[[锻造戒指]]、[[任意门]]
+|cost=16,800 gp
+|source=极限宝具
+}}

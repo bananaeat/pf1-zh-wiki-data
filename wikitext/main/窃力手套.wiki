@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=窃力手套
+|english_name=Glove of Strength-Stealing
+|aon=MagicWondrousDisplay.aspx?FinalName=Glove of Strength-Stealing
+|cat=奇物
+|aura=中等死灵系
+|cl=6
+|slot=手部
+|price=6,000 gp
+|description=这只无缝的灰色小牛皮单手套镶有银质的指骨，既紧贴穿戴者的手，又能随动作伸缩。窃力手套的穿戴者每天一次可以[[自由动作]]激活一个[[寒冷之触]]效果，如同该法术。该效果持续的6轮内，穿戴者的触碰所造成的任何力量伤害，都会作为增强加值加到他的力量值上（最高+6）。此加值在手套激活1小时后消退。
+|req=[[制造奇物]]、[[牛之力量]]、[[寒冷之触]]
+|cost=3,000 gp，240 XP
+|source=Magic of Thassilon (Web Enhancement)
+}}

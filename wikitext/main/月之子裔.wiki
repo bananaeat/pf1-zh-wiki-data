@@ -1,0 +1,9 @@
+{{Trait
+|name=月之子裔
+|english_name=Child of the Moon
+|type=魔法
+|description=月光给予你的能力在满月之时尤为强力。选择攀爬、隐匿或游泳之一。你所选的技能得到+1背景加值。在月亮大于半月的半个月相循环中，该加值增为+2。在满月之时，该加值增为+4。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_808.html
+}}

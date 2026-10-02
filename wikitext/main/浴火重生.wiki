@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''浴火重生'''（From the Ashes, Sp）是[[操念使]]的[[原力]]。
+
+元素：火；类别：通用（Sp）；等级：9；超载：2
+
+当你即将由于生命值伤害而陷入[[昏迷]]或死亡时，你能够以[[直觉动作]]突然化身为火焰，只留下一堆灰烬，大多数攻击和效果都不能影响这些灰烬，不过[[解离术]]或类似的魔法能够摧毁它。在你的下个回合开始时，只要灰烬没有被完全摧毁，你就可以在大多数灰烬所在的方格重生，你会受到触发效果的伤害，不过你也会恢复每[[操念使]]等级5点的生命值。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=From the Ashes|2=From the Ashes}}
+
+[[分类:原力]]

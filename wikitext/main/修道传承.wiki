@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[修道传承 (神话)]]。</small></div>
+{{Feat
+|name=修道传承
+|english_name=Monastic Legacy
+|categories=战斗
+|description=即使投身旁门，你也不曾荒废武学的修炼。
+|prerequisites=【心如止水】职业特性，精通徒手打击。
+|benefit=在计算你的基础[[徒手打击]]伤害时，将你所有其他职业等级总和的一半计入你的武僧等级。这个专长加算的等级不会让你在获得其他武僧职业能力时获得好处。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

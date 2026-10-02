@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''攀岩'''（Earth Climb, Su）是[[操念使]]的[[原力]]。
+
+元素：土；类别：通用（Su）；等级：2；超载：0
+
+凭借着自身和大地之间的联系，你将身体稍稍融入石质和土质的表面，当你在此类表面上攀爬时，会获得等同于你的基础陆上速度的攀爬速度。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Earth Climb|2=Earth Climb}}
+
+[[分类:原力]]

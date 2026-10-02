@@ -1,0 +1,43 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=海鹦
+|english_name=Puffin
+|cr=1/8
+|xp=50
+|alignment=绝对中立
+|size=微型
+|type=动物
+|init=+2
+|senses=昏暗视觉；察觉 +6
+|description=这只矮胖的黑白相间的鸟长着鲜红与黑色相间的喙。
+|ac=16，接触 16，措手不及 14（+2 敏捷，+4 体型）
+|hp=2（1d8–2）
+|fort=+0
+|ref=+4
+|will=+2
+|speed=10 尺，飞行 30 尺（一般），游泳 30 尺
+|melee=啮咬 –1（1d2–5）
+|space=1 尺
+|reach=0 尺
+|str=1
+|dex=15
+|con=6
+|int=2
+|wis=15
+|cha=6
+|bab=+0
+|cmb=–2
+|cmd=3
+|feats=[[技能专攻]]（游泳）
+|skills=[[飞行]] +8;[[察觉]] +6;[[游泳]] +6
+|environment=寒冷的海岸
+|organization=单独，一对，或一群（3–20）
+|treasure=无
+|source=极限荒野
+|lore=
+这些翅短尾短的鸟类偏爱寒冷的岩石岛屿，主要以鱼为食。它们的喙在整个繁殖季都保持鲜艳的颜色，之后颜色褪去，露出更小、更暗淡的喙。
+
+海鹦约 1 尺长，重近 1 磅。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Puffin|2=Puffin}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=显隐之雾烟斗
+|english_name=Pipe of Revealing Mists
+|aon=MagicWondrousDisplay.aspx?FinalName=Pipe of Revealing Mists
+|cat=奇物
+|aura=微弱塑能系
+|cl=5
+|slot=无
+|price=2,592 gp
+|weight=1/2磅
+|description=这支木制烟斗的斗钵上雕着一对怒目眯起的眼睛。这支烟斗不肯被人点燃；即使没有点燃，淡淡的烟雾也会不断从斗钵里爬出来。每天三次，使用者可以用[[标准动作]]吸入这些烟雾，再朝30尺锥形范围吹出。大部分烟雾很快就会消散，但会有薄薄一层附着在锥形范围内任何有实体的隐形生物身上。这些生物会显现为模糊的轮廓，不再隐形，但对它们的攻击仍有20%的失手率。这一效果持续6轮。
+|req=[[制造奇物]]、[[消除隐形]]、[[隐雾术]]
+|cost=1,296 gp
+|source=极限诡道
+}}

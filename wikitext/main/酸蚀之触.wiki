@@ -1,0 +1,16 @@
+{{Spell
+|name=酸蚀之触
+|english_name=Corrosive touch
+|school=咒法系 (创造)
+|tags=酸
+|levels=召唤师 1;召唤师（掉链） 1;奥能师 1;术士 1;法师 1;血脉狂怒者 1;魔战士 1
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的生物或物体
+|duration=立即
+|save=无
+|sr=是
+|description=你的成功的近战[[接触攻击]]造成每施法者等级1d4点酸性伤害 （最高5d4）。
+|source=极限魔法
+}}

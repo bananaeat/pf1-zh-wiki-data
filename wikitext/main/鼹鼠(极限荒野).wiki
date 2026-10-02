@@ -1,0 +1,45 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{消歧义|鼹鼠}}
+{{怪物
+|name=鼹鼠
+|english_name=Mole
+|cr=1/8
+|xp=50
+|alignment=绝对中立
+|size=微型
+|type=动物
+|init=+0
+|senses=昏暗视觉，颤动感知 15 尺；察觉 +0
+|description=这只棕色的啮齿动物有着毛茸茸的圆柱形身体、尖尖的口鼻，以及末端长着挖掘爪的大而厚实的爪掌。
+|ac=14，接触 14，措手不及 14（+4 体型）
+|hp=6（1d8+2）
+|fort=+4
+|ref=+2
+|will=+0
+|speed=20 尺，掘地 5 尺
+|melee=2 爪抓 +0（1–4）
+|space=1 尺
+|reach=0 尺
+|str=2
+|dex=11
+|con=14
+|int=2
+|wis=10
+|cha=7
+|bab=+0
+|cmb=–4
+|cmd=2（6 对抗摔绊）
+|feats=[[技能专攻]]（隐匿）
+|skills=[[隐匿]] +19
+|sq=闭气
+|environment=任意陆地
+|organization=单独，一对，或一群（3–16）
+|treasure=无
+|source=极限荒野
+|lore=
+鼹鼠是主要生活在地下洞穴中的小型啮齿动物。鼹鼠有许多品种，但多数都有共同的特征：栖居于地下、视力很差，以及能用强有力的前肢挖掘很长的距离。
+
+典型的鼹鼠长 6 英寸，重不到 1 磅。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Mole|2=Mole}}

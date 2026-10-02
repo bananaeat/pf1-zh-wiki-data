@@ -1,0 +1,11 @@
+{{Feat
+|name=犯罪同伙
+|english_name=Connected Criminal
+|pfs=否
+|description=你是犯罪商贸的大师。
+|prerequisites=[[知识]]（本地）5级
+|benefit=进入黑市的交涉检定只需要花5d4分钟。你可以把你已进入的黑市的犯罪调整值加到你的哄骗、交涉、职业和手上功夫检定上，用于在该黑市内赚钱。这些加值适用于秘密进行[[休整期活动]]（UCa 84）的技能检定，以及在黑市中赚取资本的检定。对你来说，黑市的资本花费限额比其所列数值高5点。
+|source=BM
+|source_name=黑市指南
+|source_url=https://pf1chm.pages.dev/topics/zh892b08ddc8.htm
+}}

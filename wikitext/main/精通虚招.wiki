@@ -1,0 +1,16 @@
+{{Feat
+|name=精通虚招
+|english_name=Improved Feint
+|categories=战斗
+|description=你擅长于战斗中愚弄对手。
+|prerequisites=[[智力]] 13，寓守于攻。
+|benefit=你在战斗中能够以[[移动动作]]进行[[虚招]]的[[唬骗]]检定。
+|normal=战斗中的虚招为[[标准动作]]。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[细剑格]]、[[细剑闪]]、[[回马枪]]、[[月夜伏击大师]]、[[月夜虚招]]、[[煽动猜忌]]、[[越位虚招]]、[[迅烈虚招]]、[[高等虚招]]（9 个条目）

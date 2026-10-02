@@ -1,0 +1,14 @@
+{{魔法物品
+|name=医师助手
+|english_name=Healer's Aid
+|aon=MagicWondrousDisplay.aspx?FinalName=Healer's Aid
+|cat=奇物
+|aura=微弱塑能系
+|cl=7
+|slot=无
+|price=900 gp
+|description=这只矮胖的玻璃罐里装着一团不断旋转的金色液体。这种灵药会使饮用者喝下的下一瓶能恢复生命值的药水或灵药视同经过强效化：该药水或灵药所有可变的数值效果提高50%。此灵药的效果持续5分钟，或持续到饮用者的生命值通过受影响的药水或灵药全部恢复为止，以先发生者为准。
+|req=[[制造奇物]]、[[法术强效]]、[[增效灵药]]
+|cost=450 gp
+|source=药剂与毒药
+}}

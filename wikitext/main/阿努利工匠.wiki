@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Distant Shores pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=阿努利工匠
+|english_name=Anuli Engineer
+|type=地区
+|prerequisites=阿努利
+|description=你的家族曾协助重建废墟之城阿努利，这项传统流淌在你的血液中。你为注意加工石料与人造建筑中不寻常的石工、陷阱和暗门而进行的[[察觉]]检定获得+2加值。[[知识]]（工程）对你而言总是本职技能。
+|source_name=遥远世界
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Anuli%20Engineer
+}}

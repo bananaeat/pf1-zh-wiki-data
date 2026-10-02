@@ -1,0 +1,15 @@
+{{魔法物品
+|name=羽鳞斗篷
+|english_name=Featherscale Cloak
+|aon=MagicWondrousDisplay.aspx?FinalName=Featherscale Cloak
+|cat=奇物
+|aura=微弱防护系、变化系
+|cl=5
+|slot=肩部
+|price=4,000 gp
+|weight=1磅
+|description=这件厚重的亚麻斗篷印有鱼鳞花纹，越往下摆颜色越深，肩部缀着白色羽毛。穿戴者每天一次可以使用[[野兽形态 I]]，但只能变成鸟或鱼。此外，穿戴者每天一次可以使用动物无视术（只影响穿戴者自己）。穿戴者在游泳检定上获得+5表现加值。穿戴者每天一次可以使用羽落术。
+|req=[[制造奇物]]、[[野兽形态 I]]、[[羽落术]]、[[动物无视术]]
+|cost=2,000 gp
+|source=内海诸神
+}}

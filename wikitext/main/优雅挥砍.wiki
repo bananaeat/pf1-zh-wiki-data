@@ -1,0 +1,13 @@
+{{Feat
+|name=优雅挥砍
+|english_name=Slashing Grace
+|categories=战斗
+|description=除了灵活的刺削，你还学会了掌握异国剑士擅长的圆滑的劈砍之道。
+|prerequisites=敏捷13，[[武器娴熟]]，拥有所选武器的武器专攻专长
+|benefit=选择一种轻型或单手的挥砍武器（比如[[长剑]]），在单手使用这种武器时，它视为符合所有要求使用单手穿刺武器的职业能力和专长的前提（比如游荡剑客或决斗家的精确刺击炫技），并且你可以以敏捷调整值代替力量调整值加到武器伤害上。你无法在进行[[双武器战斗]]、使用疾风[[武僧#疾风连击|连击]]或另一只手被占用时获得该专长的好处。你必须使用符合你体型的武器。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}
+
+{{FAQ|v5748eaic9tmm}}

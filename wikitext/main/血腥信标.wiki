@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=血腥信标
+|english_name=Gory Beacon
+|aon=MagicWondrousDisplay.aspx?FinalName=Gory Beacon
+|cat=奇物
+|aura=强烈邪恶
+|cl=—
+|slot=无
+|price=5,800 gp
+|description=这盏[[残忍灯笼]]的头骨上有好几枚铆钉。只有当使用者30尺内（含使用者自己）有与使用者同类型的生物正承受[[流血]]伤害时，它的热量爆发才会起作用。
+|req=—
+|cost=—
+|source=天堂降临
+}}

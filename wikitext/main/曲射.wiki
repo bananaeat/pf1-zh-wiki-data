@@ -1,0 +1,11 @@
+{{Feat
+|name=曲射
+|english_name=Lob Shot
+|categories=战斗
+|description=你可以射出高高飞起的弧形弹道，从上方攻击你的目标。
+|prerequisites=[[远程射击]]，[[近距射击]]
+|benefit=若你的目标没有正上方的[[掩蔽]]（比如屋顶或树穹），则你在对该目标进行远程攻击时可以忽视目标因掩蔽（包括全掩蔽）而获得的AC加值。使用该专长时，将目标视为比实际远一个射程增量。若你头顶的净空高度小于你攻击射程的一半，则无法使用该专长。
+|source=RTT
+|source_name=远程战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_552.html
+}}

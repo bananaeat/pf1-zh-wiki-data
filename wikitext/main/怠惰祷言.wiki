@@ -1,0 +1,18 @@
+{{Spell
+|name=怠惰祷言
+|english_name=Litany of sloth
+|school=惑控系 (胁迫)
+|tags=依赖语言;影响心灵
+|levels=反圣武士 1;圣武士 1;审判者 1
+|action=迅捷动作
+|components=语言;姿势;圣徽
+|range=近距
+|target=一名生物
+|duration=1轮
+|save=意志，通过则无效
+|sr=是
+|description=随着一次赞颂怠惰的祈祷，你减缓了目标的防御动作。目标将不能进行藉机攻击或[[防御式施法]]。
+
+当受到该法术影响时，目标不能再成为另一个名称中带有“祷言”一词的法术的目标。
+|source=极限战斗
+}}

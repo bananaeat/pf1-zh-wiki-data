@@ -1,0 +1,18 @@
+{{Spell
+|name=脱逃祷言
+|english_name=Litany of escape
+|school=咒法系 (传送)
+|tags=依赖语言
+|levels=反圣武士 3;圣武士 3;审判者 4
+|action=迅捷动作
+|components=语言;姿势;圣徽
+|range=近距
+|target=一个被擒抱中的自愿生物
+|duration=立即
+|save=无
+|sr=是
+|description=随着一次强力的祈祷，你呼唤出你的神的仆人助你的盟友脱离[[擒抱]]。
+
+目标脱离被擒抱和被压制状态，并被传送10尺。如果没有可供目标传送到的空间，法术失败。
+|source=极限战斗
+}}

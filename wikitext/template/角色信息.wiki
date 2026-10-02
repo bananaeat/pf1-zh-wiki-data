@@ -1,0 +1,61 @@
+<includeonly>{{Infobox 
+| title             =  <big>'''{{{人名|{{{Name|{{PAGENAME}}}}}}}}'''</big><br><small>{{#var_final:en}}</small>
+| image        = {{#if:{{{图像|}}}|[[File:{{{图像|}}}|300px]]|[[File:Infobox-image-placeholder.jpg|300px]]}}
+| imagestyle =padding:0;
+| caption   ={{{图像信息|}}}
+| header1   = 基本信息
+| label2       = 别名        
+| data2        = {{{别名|}}}
+| label3       = 头衔       
+| data3        = {{{头衔|}}}
+|  label14	= 种族               
+|  data14	= {{{种族|}}}
+|  label19	= 父亲                
+|  data19	= {{{父亲|}}}
+|  label20	= 母亲                
+|  data20	= {{{母亲|}}}
+|  label22	= 配偶                
+|  data22	= {{{配偶|}}}
+|  label23	= 子嗣                
+|  data23	= {{{子嗣|}}}
+|  label26	= 好友                
+|  data26	= {{{好友|}}}
+|  belowstyle = 
+|  below	= }}</includeonly><noinclude>{{优质模板|信息}}
+{{documentation}}[[Category:huiji template]]</noinclude><noinclude>
+<templatedata>
+{
+	"params": {
+		"人名": {
+			"suggested": true
+		},
+		"图像": {
+			"description": "图像请先上传到本维基，然后填写文件名（包含后缀名）",
+			"suggested": true
+		},
+		"别名": {},
+		"头衔": {},
+		"种族": {},
+		"父亲": {},
+		"母亲": {},
+		"配偶": {},
+		"子嗣": {},
+		"好友": {},
+		"图像信息": {}
+	},
+	"description": "本模板用于添加“角色”信息卡，一般添加在词条头部位置，具体参数如下。\n详细信息与案例请前往https://templatemanager.huiji.wiki/wiki/%E6%A8%A1%E6%9D%BF:Infobox_character\n",
+	"paramOrder": [
+		"人名",
+		"图像",
+		"图像信息",
+		"别名",
+		"头衔",
+		"种族",
+		"父亲",
+		"母亲",
+		"配偶",
+		"子嗣",
+		"好友"
+	]
+}
+</templatedata>[[Category:huiji template]]</noinclude>

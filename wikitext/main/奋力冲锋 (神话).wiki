@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[奋力冲锋]] 的神话版本。</small></div>
+{{Feat
+|name=奋力冲锋
+|english_name=Spirited Charge
+|categories=神话
+|description=你的骑乘冲锋会把这些傻到敢于对抗你的敌人的最后一点理智打飞。
+|prerequisites=[[奋力冲锋]]
+|benefit=当你使用骑乘冲锋击中1个敌人时，该敌人必须成功进行强韧豁免（DC 10 + 1/2你的角色等级 + 你的力量调整值），否则会被[[恍惚]]，持续轮数等同于你的阶层。若你使用[[长枪]]进行此次攻击，则此次豁免DC增加2点。在你进行攻击前，以[[自由动作]]，你能够花费1次神话之力，来使得豁免失败的敌人[[晕眩]]而非原本的恍惚。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 21），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=采珠潜者
+|english_name=Pearl Diver (Xidao)
+|type=地区
+|prerequisites=汐岛
+|description=你曾在毗邻汐岛的一个国家做采珠人，深知在咸腥的浅海中寻找值钱的收获时该留意哪些线索。你在[[估价]]和[[游泳]]检定上获得+1背景加值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Pearl%20Diver%20%28Xidao%29
+}}

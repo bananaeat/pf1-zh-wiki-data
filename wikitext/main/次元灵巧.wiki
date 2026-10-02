@@ -1,0 +1,14 @@
+{{Feat
+|name=次元灵巧
+|english_name=Dimensional Agility
+|description=传送将不会干扰你的行动。
+|prerequisites=武僧【遁术】职业特性或可施展‘任意门’。
+|benefit=在你使用【遁术】或[[任意门]]之后，你可以继续使用你回合中剩余的动作。同时你在施放传送法术时的专注检定中获得+4加值。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[次元乱舞]]、[[次元战技]]、[[次元狂舞]]、[[次元突击]]（4 个条目）

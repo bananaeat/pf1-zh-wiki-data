@@ -1,0 +1,14 @@
+{{Feat
+|name=速学者
+|english_name=Fast Learner
+|description=你可以获得额外的[[天赋职业]]奖励。
+|prerequisites=[[智力]] 13，人类。
+|benefit=当你的天赋职业获得新的级别时，你同时获得+1HP和+1技能点而不是二者选一，或是用一个种族天赋职业奖励来替换上述奖励。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[灵机一动]]、[[灵机又动]]（2 个条目）

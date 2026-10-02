@@ -1,0 +1,15 @@
+{{Spell
+|name=血泪与利齿狞笑
+|english_name=Bloody tears and jagged smile
+|school=死灵系
+|levels=先知 2;奥能师 2;战斗祭司 2;术士 2;法师 2;牧师 2
+|action=标准动作
+|components=语言;姿势
+|range=个人 和 见下文
+|target=自身 和 见下文
+|duration=10分钟/等级
+|save=无
+|sr=是
+|description=你的眼睛变成黑色并哭出血泪，你的牙齿变成锯齿状的尖牙。你获得一次啮咬攻击（如果你是小体型造成1d3点伤害，如果你是中体型则造成1d4点伤害）。你在威吓检定和带有[恐惧]描述符的法术的法术DC上获得+4亵渎加值。你能感知生物就好像使用了[[观命术]]一样。
+|source=冒险之路71：拉斯普京必须死！
+}}

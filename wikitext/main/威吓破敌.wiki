@@ -1,0 +1,10 @@
+{{Feat
+|name=威吓破敌
+|english_name=Intimidating Bane
+|description=你用破敌武器做出的攻击让敌人闻风丧胆。
+|prerequisites=【破敌】职业特性，[[炫目技巧]]，[[武器专攻]]，角色等级8。
+|benefit=当你在【破敌】能力激活时使用[[炫目技巧]]，你在炫目技巧所允许的威吓检定上，对你的破敌武器当前所针对类型的生物获得+2加值。只要你的【破敌】能力持续且对其生物类型有效，这些生物将一直处于战栗状态。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

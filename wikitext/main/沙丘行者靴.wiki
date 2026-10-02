@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=沙丘行者靴
+|english_name=Dunestrider Boots
+|aon=MagicWondrousDisplay.aspx?FinalName=Dunestrider Boots
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=脚部
+|price=3,000 gp
+|weight=2磅
+|description=这双靴子被沙漠的烈日晒得开裂褪色。穿着沙丘行者靴时，你可以在沙地上行走，如同走在压实的土地上。穿越沙漠沙地的大陆移动视为平原。即使是松软的沙地和流沙，对你来说也不是[[困难地形]]，你可以按正常速度穿过。
+|req=[[制造奇物]]、[[脚底抹油]]、[[大步奔行]]
+|cost=1,500 gp、120 XP
+|source=烈焰传承玩家手册
+}}

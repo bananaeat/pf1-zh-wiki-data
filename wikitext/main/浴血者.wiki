@@ -1,0 +1,9 @@
+{{Trait
+|name=浴血者
+|english_name=Blooded
+|type=地区
+|prerequisites=灵旋山脉
+|description=令人绝望的战斗磨练了你针对那些[[矮人]]远古宿敌的战斗技巧。当你面对巨人、[[地精]]和[[兽人]]时，在武器伤害检定上获得+1背景加值。
+|source_name=格拉里昂的矮人
+|source_url=https://pf1chm.pages.dev/topics/page_1586.html
+}}

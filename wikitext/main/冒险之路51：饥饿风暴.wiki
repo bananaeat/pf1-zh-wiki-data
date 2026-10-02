@@ -1,0 +1,45 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #51: The Hungry Storm
+|authors=Jason Nelson
+|pages=96
+}}
+
+{{书页/简介|head=穿越冰与火|1=
+尽管很少有人会说世界之冠（Crown of the World）是个宜居之地，但若要把 Ameiko 送到明海（Minkai），PC 们别无选择，只能闯过这片冰封的边疆。在杀出一条血路、越过栖息于北极荒原的凶残野兽的同时，英雄们必须解开困扰极地冰盖的超自然暴风雪之谜，并最终直面这些险恶狂风背后黑暗而异界的力量。冒险者们能否在世界之冠的恐怖中存活下来，为它所受的诅咒找到解药？还是会像许多前人那样，倒在冰天雪地的荒原之中？
+
+本册《冒险之路》内容包括：
+
+* 《饥饿风暴》，一部面向 7 级角色的开拓者冒险，作者 Jason Nelson。
+* 审视险恶的世界之冠中的种种危险与险情，作者 Jason Nelson。
+* 「探索者日志」中对尾田（Oda）市井阴暗面的探索，作者 Dave Gross。
+* 四种新怪物，作者 Jesse Benner、Jason Nelson、Patrick Renie 和 Tork Shaw。
+}}
+
+'''冒险之路51：饥饿风暴'''（''Pathfinder #51: The Hungry Storm''）是[[冒险之路]]「玉关白」系列的一部冒险，由 Jason Nelson 撰写，配套文章出自 Jesse Benner、Jason Nelson、Patrick Renie 和 Tork Shaw，小说出自 Dave Gross，于 2011 年 10 月 26 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+饥饿风暴 @ 6
+NPC 图集 @ 54
+玉关白宝物 @ 60
+- [[北极熊之爪]]
+- [[幽魂镜甲]]
+- 高冰原地图
+- [[九重灵剑]]
+- 安适指物
+- 陶土护符
+世界之冠 @ 64
+探索者日志：空壳（3／6） @ 76
+怪物图鉴 @ 82
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=The Hungry Storm
+|releases=PDF¦PZO9051E¦2011-10¦；Softcover¦PZO9051¦2011-10¦978-1-60125-374-3
+}}
+
+[[分类:书目]]

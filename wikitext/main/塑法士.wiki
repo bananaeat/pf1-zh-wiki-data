@@ -1,0 +1,9 @@
+{{Trait
+|name=塑法士
+|english_name=Malleable Magic
+|type=魔法
+|description=每日1次，你能够通过[[迅捷动作]]弃去单个1环、2环或3环魔战士法术，并回复1点奥能力池点数。你不能通过此[[背景特性]]来使自己的奥能力池点数超过上限。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

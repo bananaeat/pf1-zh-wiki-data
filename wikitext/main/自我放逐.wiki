@@ -1,0 +1,14 @@
+{{Feat
+|name=自我放逐
+|english_name=Self-Exiled Noble
+|categories=故事
+|pfs=否
+|description=你选择将贵族身份抛诸脑后。
+|prerequisites=你必须有意离开你的贵族家庭，并在之后更名改姓或改头换面。
+|benefit=你在[[易容]]检定上获得+2加值，且易容视为你的[[本职技能]]。你对原家族成员的攻击骰和伤害骰获得+1加值。
+|goal=通过建立自己的贵族家脉来摆脱旧名。此外，你必须完胜一名来自原家族并想将你带回旧家的强大敌手。
+|completion_benefit=此专长提供的攻击骰和伤害骰加值提升至+2，且适用于任何威胁你盟友或你新贵族家脉的敌人。
+|source=HotHC
+|source_name=皇庭英豪
+|source_url=https://pf1chm.pages.dev/topics/page_670.html
+}}

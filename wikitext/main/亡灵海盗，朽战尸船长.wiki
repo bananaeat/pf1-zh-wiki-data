@@ -1,0 +1,48 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=朽战尸船长
+|english_name=Draugr Captain
+|cr=4
+|xp=1,200
+|classline=朽战尸船长盗贼 2
+|alignment=混乱邪恶
+|size=中型
+|type=不死生物
+|subtypes=水系
+|init=+4
+|senses=黑暗视觉 60 尺；察觉 +11
+|ac=20，接触 14，措手不及 16（+2 护甲，+4 敏捷，+4 天生）
+|hp=39（5 HD；3d8+2d8+17）
+|fort=+4
+|ref=+8
+|will=+6
+|defensive=反射闪避
+|dr=5/钝击或挥砍
+|immune=不死生物特性
+|resist=火焰 10
+|speed=30 尺，游泳 30 尺
+|melee=精制品[[弯刀]] +12（1d6+10/18–20 附加 1 个负向等级），或挥击 +10（1d10+10 附加 1 个负向等级）
+|special_attacks=偷袭 +1d6
+|spell_like=（CL 5；专注 +8）；每天 3 次—[[隐雾术]]
+|str=25
+|dex=18
+|con=–
+|int=14
+|wis=16
+|cha=17
+|bab=+3
+|cmb=+10
+|cmd=24
+|feats=[[战斗反射]];[[猛力攻击]];[[武器专攻]]（弯刀）
+|skills=[[特技]] +12;[[唬骗]] +9;[[攀爬]] +15;[[威吓]] +11;[[察觉]] +11;[[专业]]（水手）+11;[[隐匿]] +12;[[游泳]] +23
+|languages=通用语（不能说）
+|sq=盗贼天赋（流血攻击 +1）;寻找陷阱 +1
+|environment=任意海洋或海岸
+|organization=单独
+|treasure=NPC 装备（皮甲，精制品弯刀，其他财宝）
+|source=Isles of the Shackles
+|lore=
+虽然大多数朽战尸船长生前都是自己船只的主人，但也有例外，尤其是在那些地位低下的船员苦工之中，他们从转化为不死生物中获得了最强大的力量。这些天赋异禀的个体，通常会被他们的不死船员同伴视为自己所统率的幽灵船名正言顺的船长。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Draugr Captain|2=Draugr Captain}}

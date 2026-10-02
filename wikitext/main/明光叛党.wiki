@@ -1,0 +1,10 @@
+{{Trait
+|name=明光叛党
+|english_name=Mizu Ki Hikari Rebel
+|type=地区
+|prerequisites=楚业(Chu Ye)
+|description=你在光明党的军队中学习过体术搏击技巧。你用[[徒手攻击]]的伤害投骰获得+1背景加值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://pf1chm.pages.dev/topics/page_1557.html
+}}

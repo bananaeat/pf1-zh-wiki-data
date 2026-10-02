@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Fire Player's Guide pg. 8），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=埃库迦反射
+|english_name=Ekujae Reflexes
+|type=种族
+|prerequisites=半精灵
+|description=你的父母之一是芒吉莽原埃库迦部族的成员，而你继承了你[[精灵]]亲代的一部分敏捷反应。你的先攻检定获得+2背景加值。
+|source_name=烈焰传承玩家手册
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Ekujae%20Reflexes
+}}

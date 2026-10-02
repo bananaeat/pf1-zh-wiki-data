@@ -1,0 +1,11 @@
+{{消歧义|快速变身}}
+{{Feat
+|name=快速变身
+|english_name=Fast Change
+|description=你能比其他[[兽态人]]更快改变形态。
+|prerequisites=敏捷13，＋6 BAB，[[兽态人]]
+|benefit=你能以[[移动动作]]而不是[[标准动作]]变为兽形。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_809.html
+}}

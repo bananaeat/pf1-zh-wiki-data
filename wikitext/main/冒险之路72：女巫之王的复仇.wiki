@@ -1,0 +1,49 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #72: The Witch Queen's Revenge
+|authors=Greg A. Vaughan
+|pages=96
+}}
+
+{{书页/简介|head=女巫的报复|1=
+芭芭雅嘎已从儿子拉斯普京手中获救，但女巫之王仍被困在一个魔法套娃（matryoshka）之中。英雄们深入舞动小屋深处的隐秘房间，必须打开囚禁芭芭雅嘎的套娃，同时还要对付小屋最忠诚的守卫，其中包括伊利森的历代前任女王。当最终要在舞动小屋最深处的内殿面对女王 Elvanna 时，英雄们能否击败她并解救芭芭雅嘎，还是会让格拉利昂坠入新的冰河时代？
+
+本册《冒险之路》为「冬临天下」冒险之路画上句号，内容包括：
+
+* 《女巫之王的复仇》，一部面向 15 级角色的开拓者角色扮演游戏冒险，作者 Greg A. Vaughan。
+* 让你把战役延伸到本冒险之路的篇幅之外、继续与伊利森女巫们作战的办法，作者 Adam Daigle 和 Rob McCreary。
+* 探究芭芭雅嘎的谜团，以及她对格拉利昂乃至更远处的影响，作者 Adam Daigle。
+* 在「探索者日志」中逃离白王座城，作者 Kevin Andrew Murphy。
+* 四种新怪物，作者 Shaun Hocking、Michael Kenway、Rob McCreary 和 Matt Renton。
+}}
+
+'''冒险之路72：女巫之王的复仇'''（''Pathfinder #72: The Witch Queen's Revenge''）是[[冒险之路]]「冬临天下」系列的第六部、也是最后一部冒险，由 Greg A. Vaughan 撰写，配套内容出自 Adam Daigle、Shaun Hocking、Michael Kenway、Rob McCreary 和 Matt Renton，小说出自 Kevin Andrew Murphy，于 2013 年 7 月 31 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+女巫之王的复仇 @ 6
+NPC 图集 @ 58
+冬临天下宝藏 @ 62
+- 芭芭雅嘎的扫帚（Baba Yaga's besom）
+- 芭芭雅嘎的臼与杵（Baba Yaga's mortar and pestle）
+- 伊利森冰冠（Icecrown of Irrisen）
+- [[石偶像双刃斧]]
+- 塔莎娜的日志（Tashanna's journal）
+- 冬之所及（Winter's Reach）
+继续战役 @ 64
+芭芭雅嘎 @ 70
+探索者日志：骨粉玩偶（6／6） @ 76
+怪物图鉴 @ 82
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=The Witch Queen's Revenge
+|releases=PDF¦PZO9072E¦2013-07¦；Softcover¦PZO9072¦2013-07¦
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

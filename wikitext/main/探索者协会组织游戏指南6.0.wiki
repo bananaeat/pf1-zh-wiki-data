@@ -1,0 +1,15 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=PFS Guide to Organized Play 6.0
+|authors=John Compton、Michael Sayre、Tonya Woldridge、Linda Zayas-Palmer
+}}
+
+{{书页尾
+|pfw=Pathfinder Society Guide to Organized Play
+|releases=Web¦¦2019-09¦
+}}
+
+<small>CHM 汉化里没有这本书的译名，书名是本站定的（站上特性来源表里写作「探索者协会组织游戏指南」，这里加版本号 6.0）。</small>
+
+[[分类:书目]]

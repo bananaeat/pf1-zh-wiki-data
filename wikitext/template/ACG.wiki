@@ -1,0 +1,6 @@
+<includeonly>([[扩展手册#ACG|ACG]])</includeonly><noinclude>
+<pre>
+*{{ACG}}
+</pre>
+*{{ACG}}
+</noinclude>

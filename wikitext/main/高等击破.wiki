@@ -1,0 +1,11 @@
+{{Feat
+|name=高等击破
+|english_name=Greater Sunder
+|categories=战斗
+|description=你毁灭性的攻击能够顺势一气攻击到武器、盔甲及它们的持有者，这一击同时对这些物品和其持有者造成伤害。
+|prerequisites=[[精通击破]]，[[猛力攻击]]，基本攻击加值+6，力量13。
+|benefit=你的[[击破]]检定获得+2加值，此加值与[[精通击破]]专长带来的加值累计。每当你令一把武器、盾牌或盔甲彻底损毁时，其持用者将承受多余的伤害部分。若你决定令物品剩余1点HP则不会有任何伤害被传递。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

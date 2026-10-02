@@ -1,0 +1,9 @@
+{{装备
+|name=交际花服装
+|english_name=Courtesan's outfit
+|cat=衣物
+|price=8 gp
+|weight=4磅
+|description=这套服饰包括剪裁得体、衬托身形的精美丝绸或缎面衣物。此外，还配有一件宽松的披巾或长袍，上面有几个隐蔽的口袋，可以放香水、按摩油，甚至一把小[[匕首]]之类的东西。
+|source=冒险者的军械库2
+}}

@@ -1,0 +1,19 @@
+{{Spell
+|name=痛苦打击
+|english_name=Pain strike
+|school=塑能系
+|tags=邪恶;痛苦
+|domains=折磨子域 2
+|levels=异能者 2;唤魂师 3;奥能师 3;女巫 3;术士 3;法师 3;血脉狂怒者 3
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一名活物
+|duration=1轮/等级 （可解消）
+|save=强韧，通过则无效
+|sr=是
+|description=本法术可以让受术目标受到痛苦的折磨，每一轮造成1d6点[[非致命伤害]]，持续每等级一轮 （最高10轮）。
+
+此外，受影响的目标在法术持续时间内会[[恶心]]，并且施法者对其的威吓检定有+4环境加值。
+|source=进阶玩家指南
+}}

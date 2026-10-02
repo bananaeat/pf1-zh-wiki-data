@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Goblins of Golarion pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=地精血战之子
+|english_name=Scion of Goblinblood
+|type=地区
+|pfs=否
+|prerequisites=地精，依斯嘉
+|description=地精血战争的狂怒仍在你的血管中奔涌。每当你处于一个敌对[[大地精]]60尺内时，你的所有武器伤害检定获得+1背景加值。
+|source_name=格拉利昂的地精
+|source=GoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Scion%20of%20Goblinblood
+}}

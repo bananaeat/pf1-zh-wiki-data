@@ -1,0 +1,9 @@
+{{装备
+|name=腌菜拔出器
+|english_name=Pickle extractor
+|cat=冒险装备
+|price=2 cp
+|weight=2磅
+|description=腌菜拔出器只不过是一根末端插着一根钉子的棍子，主要被[[地精]]用来抓桶底的东西。
+|source=冒险者的军械库
+}}

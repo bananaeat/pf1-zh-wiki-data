@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Fire Player's Guide pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=暮行者探员
+|english_name=Duskwalker Agent
+|type=地区
+|pfs=否
+|prerequisites=卡塔佩什
+|description=你童年时曾有一段时间为暮行者效力——这个公会负责监管卡塔佩什恶名昭著的夜色集市中进行的所有交易。因此，你手头的钱比大多数同龄人都多得多，游戏开始时你拥有正常数额两倍的起始金币。此外，你在夜色集市中仍享有良好的声誉，你在那里进行的任何交易总是对你有利：你出售的物品可多获得10%的利润，购买的物品则比正常价格便宜10%。此折扣同样适用于你的起始装备。
+|source_name=烈焰传承玩家手册
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Duskwalker%20Agent
+}}

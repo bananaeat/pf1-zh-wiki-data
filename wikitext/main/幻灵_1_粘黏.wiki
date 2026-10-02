@@ -1,0 +1,8 @@
+<noinclude>{{召唤师导航}}
+'''粘黏'''（Sticky, Ex）是[[召唤师]]的[[幻灵#进化型态|进化|进化]]。
+
+</noinclude>{{Source|秽邪勇士|Champions of Corruption|inline}} 幻灵特别粘黏，或是因为黏液、或是因为凝血、或是生有倒刺。幻灵发起或维持擒抱的战技检定获得+4加值。<noinclude>
+
+[[分类:幻灵进化]]
+
+{{职业}}</noinclude>

@@ -1,0 +1,19 @@
+{{魔法物品
+|name=掘墓人铁锹
+|english_name=Gravedigger's Spade
+|aon=MagicStavesDisplay.aspx?ItemName=Gravedigger's Spade
+|cat=法杖
+|aura=中等咒法系、塑能系
+|cl=8
+|slot=无
+|price=12,150 gp
+|weight=4磅
+|description=这根坚固的橡木杆打磨得十分光亮，杆端装着一片锋利的刃片，使这根魔法法杖在不用于施法时可以当作精制[[铁锹]]使用。
+
+* [[快速挖掘]]（1 发）
+* [[造坑术]]（2 发）
+* [[刺坑]]（5 发）
+|req=[[制造法杖]]、[[快速挖掘]]APG、[[造坑术]]APG、[[刺坑]]APG
+|cost=6,100 gp
+|source=进阶职业指南
+}}

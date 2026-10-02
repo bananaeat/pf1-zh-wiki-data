@@ -1,0 +1,16 @@
+{{Feat
+|name=兽王流
+|english_name=Beastmaster Style
+|categories=战斗;流派
+|description=你的[[动物伙伴]]是你最宝贵的朋友，你坚定地保护它不受敌人的伤害。
+|prerequisites=魅力13，[[驯养动物]]1级，必须拥有一个动物伙伴。
+|benefit=当你与你的动物同伴相邻并且它受到攻击时，如果你同样与攻击者相邻，你可以消耗一个[[直觉动作]]尝试使用[[驯养动物]]检定来抵消攻击。如果你的驯养动物检定结果大于攻击者的攻击检定，此次攻击被抵消。
+|special=如果你骑在你的动物同伴身上，则不能使用此[[流派]]。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[兽王怒]]、[[兽王援]]（2 个条目）

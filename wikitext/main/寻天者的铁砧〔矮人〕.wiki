@@ -1,0 +1,17 @@
+{{魔法物品
+|name=寻天者的铁砧〔矮人〕
+|english_name=Anvil of the Skyseeker (Dwarf)
+|aon=MagicWondrousDisplay.aspx?FinalName=Anvil of the Skyseeker (Dwarf)
+|cat=奇物
+|aura=强烈变化系
+|cl=14
+|slot=无
+|price=6,700 gp
+|weight=1磅
+|description=这件奇物通常只有所标明的种族或族裔的成员才能获得。
+
+这个小小的[[秘银]]铁砧，大小适合进行精细的珠宝加工，且小到足以让冒险者携带。念出一个命令字，它就会变大到足以锻造武器和护甲；念出第二个命令字则可使其再次缩小。放大时，它是一个典型的秘银制重型铁砧，重达200磅。当一名[[矮人]]在冒险途中用这个铁砧制作魔法物品时，她为所耗小时获得全额的制造进度，而不是一半。
+|req=[[制造奇物]]、[[加速术]]、[[缩物术]]，制造者必须是矮人
+|cost=3,350 gp
+|source=内海种族
+}}

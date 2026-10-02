@@ -1,0 +1,13 @@
+{{危害
+|name=卓尔毒
+|english_name=Drow Poison
+|kind=毒药
+|type=伤口
+|save=强韧 DC 13
+|frequency=1次/分钟，持续2分钟
+|initial=昏迷1分钟
+|secondary=昏迷2d4小时
+|cure=1次豁免成功
+|price=75 gp
+|source=核心规则书、极限宝具
+}}

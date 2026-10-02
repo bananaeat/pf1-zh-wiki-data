@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[噪音爆破 (神话)]]。</small></div>
+{{Spell
+|name=噪音爆破
+|english_name=Discordant blast
+|school=塑能系
+|tags=音波
+|levels=吟游诗人 4;歌者 4
+|action=标准动作
+|components=语言;姿势
+|range=10尺或30尺
+|area=见下文
+|duration=立即
+|save=无
+|sr=是
+|description=你创造了一股轰鸣与力场组成的波动，影响以你为中心半径10尺爆发范围或者30尺锥形的爆发范围。在该区域内的生物会受到3d6点音波伤害并被推开，就如同被[[冲撞]]了一般。进行一次[[战技]]检定，并将结果应用在区域内的每一名生物上。你的冲撞的[[CMB]]等同于你的施法者等级 + 你的魅力调整值。这次冲撞不会引起藉机攻击。噪音爆破无法穿透[[沉默术]] 或任何类似的魔法[[沉默]]效果。
+|source=进阶玩家指南
+}}

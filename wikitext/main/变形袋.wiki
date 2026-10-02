@@ -1,0 +1,17 @@
+{{魔法物品
+|name=变形袋
+|english_name=Polymorphic Pouch
+|aon=MagicWondrousDisplay.aspx?FinalName=Polymorphic Pouch
+|cat=奇物
+|aura=中等变化系
+|cl=9
+|slot=无
+|price=5,000 gp
+|weight=1磅
+|description=这个皮袋通常饰有德鲁伊风格的图案。
+
+袋内是一个异次元空间，可容纳4立方尺或40磅的物品，其余方面如同一个小型[[次元袋]]。如果持有者使用变形效果或自然变身变成动物、龙、元素生物、魔法兽、植物或虫类，这个袋子绝不会与她的身体融合，而是自动移到她身上一处易于取用的位置（例如腰带上，或系在颈间的一根绳子上），使她在变身期间仍能取用袋子和袋内的物品。
+|req=[[制造奇物]]、[[变形术]]、[[秘藏箱]]
+|cost=2,500 gp
+|source=极限宝具
+}}

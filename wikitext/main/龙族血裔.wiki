@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Dragons pg. 3），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=龙族血裔
+|english_name=Draconic Lineage
+|type=种族
+|description=在你家族血脉的某处，龙族的力量融入了你的血统。由于这份血统，你在对抗恐惧以及任何由龙类生物所造成效果的豁免检定上获得+1背景加值。如果你获得血脉狂怒者的血脉或术士的血统，你必须选择龙脉。
+|source_name=巨龙遗产
+|source=LoD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Draconic%20Lineage
+}}

@@ -1,0 +1,48 @@
+{{速查导航}}
+{{怪物
+|name=残忍信徒
+|english_name=Cruel Devotee
+|cr=4
+|xp=1,200
+|classline=种族：人类，职业：武僧5
+|alignment=守序邪恶
+|size=中型
+|type=类人生物
+|subtypes=人类
+|init=+5
+|senses=察觉+11
+|ac=17 接触17 措手15（+1偏斜，+1敏捷，+1闪避，+1武僧，+3感知）
+|hp=31(5d8+5)
+|fort=+6
+|ref=+6
+|will=+8 +2对抗附魔
+|defensive=反射闪避
+|immune=疾病
+|speed=40尺
+|melee=徒手攻击+6(1d8+3)或精制品破魔锥+7(1d6+3)或疾风连击徒手攻击+6/+6(1d8+3)
+|ranged=标枪+4(1d6+3)
+|special_attacks=疾风连击，震慑击(5/日，DC15)
+|tactics=<div class="ml wide"><span class="k">战斗中</span>他使用震慑击来让敌人的武器掉落在地，并在敌人捡起武器时进行攻击</div>
+|str=16
+|dex=13
+|con=12
+|int=10
+|wis=16
+|cha=8
+|bab=+3
+|cmb=+8(擒抱+10)
+|cmd=23(25对抗擒抱)
+|feats=[[战斗反射]] 闪避 精通擒抱 精通先攻 精通徒手攻击 猛力攻击 蠍形拳 震慑击
+|skills=[[特技]]+7（跳跃时+12）;攀爬+8;威吓+7;[[知识]]（宗教）+8;察觉+11;察言观色+11;隐匿+9
+|languages=通用语
+|sq=快速移动 轻功 气池(5点，魔法) 战技训练 百病不侵 轻身坠20尺
+|combat_gear=治疗轻伤药水 x2
+|gear=标枪 精制品破魔锥 +1抗力斗篷 +1偏斜戒指 347gp
+|source=NPC志
+|family=核心职业（NPC志）
+|npc=1
+|lore=
+残忍信徒看起来只是守卫或者代僧正，但是他们大多身负秘密任务或是为了利益而进行暗杀。
+}}
+
+本页译自《[[NPC志]]》的怪物图鉴 CHM。

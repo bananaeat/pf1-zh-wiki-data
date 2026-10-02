@@ -1,0 +1,10 @@
+{{Trait
+|name=骄傲
+|english_name=Pride
+|type=缺陷
+|pfs=否
+|description=你无法拒绝涉及你的尊严、权威或荣誉的挑战。
+|benefit=当有人威胁、指责或挑战你，你对他的交涉和察言观色检定有-2罚值，直到他向你道歉。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

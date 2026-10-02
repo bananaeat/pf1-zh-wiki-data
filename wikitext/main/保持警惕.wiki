@@ -1,0 +1,9 @@
+{{Trait
+|name=保持警惕
+|english_name=Ever Wary
+|type=种族
+|prerequisites=[[魔裔]]
+|description=由于对炼狱本质可能对你自身引起的奇袭的担忧，这使你永远无法放松警惕。在[[突袭]]轮以及在战斗中你的第一次行动之前，你的AC能够获得你一半的敏捷加值（如果有的话）。你仍旧处于[[措手不及]]并且受到措手不及的影响。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_834.html
+}}

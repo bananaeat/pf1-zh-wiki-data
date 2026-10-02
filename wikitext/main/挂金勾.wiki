@@ -1,0 +1,11 @@
+{{Feat
+|name=挂金勾
+|english_name=Kick Up
+|categories=战斗
+|description=只用脚尖一挑，掉在地上的武器就飞回到你的手里。
+|prerequisites=敏捷12，[[特技专家]]，特技技能1级，杀手或游荡剑客职业等级1
+|benefit=只要你有一只手空着，你就可以以一个[[迅捷动作]]从地面上（你所在的方格，或任何未被敌人占据也不在敌人威胁范围内的邻接方格）将一件无人看管的、重量不超过10磅的物品或武器收回手中。除此之外，如果你在踢起一件武器的同一轮中进行一次[[虚招]]尝试，那么你可以在这次虚招检定上获得+2环境加值。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

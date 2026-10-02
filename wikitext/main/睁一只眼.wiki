@@ -1,0 +1,11 @@
+{{Feat
+|name=睁一只眼
+|english_name=One Eye Open
+|description=睡觉也不会影响你对危险的感知。
+|prerequisites=[[感知]] 13，警觉。
+|benefit=你睡着时，察觉检定的DC不会增加。当你成功在睡眠时通过察觉检定察觉到危险，你可以立刻醒来对抗危机。
+|normal=睡觉时进行的任何察觉检定DC会增加10。
+|source=UW、MeleeTT
+|source_name=极限荒野、近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

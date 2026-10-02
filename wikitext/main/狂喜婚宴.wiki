@@ -1,0 +1,9 @@
+{{Trait
+|name=狂喜婚宴
+|english_name=Wedded Bliss
+|type=宗教
+|prerequisites=信仰波尔卡
+|description=你对自己婚姻许下的承诺，又或是你对婚礼的渴望让你在对抗魅惑和胁迫效果的豁免上获得+2背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

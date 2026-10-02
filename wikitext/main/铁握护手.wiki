@@ -1,0 +1,15 @@
+{{魔法物品
+|name=铁握护手
+|english_name=Irongrip Gauntlets
+|aon=MagicWondrousDisplay.aspx?FinalName=Irongrip Gauntlets
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=手部
+|price=4,000 gp
+|weight=2磅
+|description=这对手套用山羊皮制成，以厚重的铁条加固。它们能让穿戴者稳固有力地抓握体积庞大或形状别扭的物品。穿戴者使用临时近战武器或体型不合适的武器时，由此承受的减值降低2点（最低为0）。手套不会改变持用这类武器所需的手数。
+|req=[[制造奇物]]、[[牛之力量]]、[[变巨术]]
+|cost=2,000 gp
+|source=怪物志
+}}

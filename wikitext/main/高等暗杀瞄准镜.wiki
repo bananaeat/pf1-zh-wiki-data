@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=高等暗杀瞄准镜
+|english_name=Assassin's Sight, Greater
+|aon=MagicWondrousDisplay.aspx?FinalName=Assassin's Sight, Greater
+|cat=奇物
+|aura=中等预言系
+|cl=9
+|slot=无
+|price=12,250 gp
+|weight=2磅
+|description=高等暗杀瞄准镜与普通的[[暗杀瞄准镜]]相似，但外形明显更为流线，能为持用者提供更远的射程。它有三档设置：0–30尺、30–60尺和60–90尺。此外，设置高等暗杀瞄准镜的范围只需一个[[标准动作]]（不过仍会引发[[借机攻击]]）。最后，高等暗杀瞄准镜还使持用者在所设范围内的重击确认检定获得+4表现加值。
+|req=[[制造奇物]]、[[弱点感知]]、[[克敌机先]]
+|cost=6,125 gp
+|source=远程战术工具箱
+}}

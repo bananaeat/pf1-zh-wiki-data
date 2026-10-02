@@ -1,0 +1,10 @@
+{{Trait
+|name=不得安宁
+|english_name=Haunting Regret
+|type=缺陷
+|pfs=否
+|description=当你年轻时，一位经常与你发生争吵的亲人去世了，他或她的灵魂未能获得安息。现在，它那不安的灵魂总会在不合时宜的时候出现在你身边，让你为当初没能帮上忙而悔恨分心。
+|benefit=你对集群的扰乱心神能力和影响心智效果的豁免，以及专注检定获得-2罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

@@ -1,0 +1,8 @@
+{{物品
+|name=森格霍尔装备
+|english_name=Senghor Equipment
+|category=冒险装备
+|description=森格霍尔为许多不同的文化提供了一个稳定的港口以进行货物和技术上的贸易。下面是一些常见的日常用品。
+|source=MM
+|source_name=商人货单
+}}

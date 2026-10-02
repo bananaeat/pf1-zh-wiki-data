@@ -1,0 +1,9 @@
+{{Trait
+|name=安多安自由战士
+|english_name=Andoren Freedom Fighter
+|type=地区
+|prerequisites=安多安
+|description=你献出了自己的一生去对抗压迫、暴政和奴隶制度。你在对抗奴隶贩子或任何违背个人意志去囚禁他人的生物时，你的攻击和伤害获得+1背景加值。
+|source_name=初探内海
+|source_url=https://pf1chm.pages.dev/topics/zh90f44086c1.htm
+}}

@@ -1,0 +1,16 @@
+{{Spell
+|name=尖叫
+|english_name=Screech
+|school=塑能系
+|tags=音波
+|levels=女巫 3
+|action=标准动作
+|components=语言
+|range=30尺
+|area=以你为中心，半径30尺弥散范围
+|duration=立即
+|save=强韧，通过则无效
+|sr=是
+|description=你发出一声尖锐、刺耳的尖叫，让那些围绕着你的人吃惊得忘记防范他人。在范围中的敌人必须进行一次成功的豁免，否则会立即引发正在威胁他们的对手的藉机攻击。你和你的盟友不受你尖叫的影响。
+|source=进阶玩家指南
+}}

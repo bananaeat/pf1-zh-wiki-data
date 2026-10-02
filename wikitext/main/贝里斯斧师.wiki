@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Andoran, Spirit of Liberty pg. 18），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=贝里斯斧师
+|english_name=Bellis Axe Master
+|type=地区
+|prerequisites=贝里斯（安多安）
+|description=论挥斧子，没人比得过贝里斯人！你用斧类武器（战斧、手斧或巨斧）确认重击的所有检定获得+2背景加值。
+|source_name=安多安，自由之魂
+|source=ASoL
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Bellis%20Axe%20Master
+}}

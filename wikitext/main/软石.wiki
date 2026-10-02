@@ -1,0 +1,11 @@
+{{武器
+|name=软石
+|english_name=Halfling softstones (10)
+|category=弹药
+|wcat=弹药
+|price=1 sp
+|weight=4磅
+|type=钝击
+|description=这些由弹性纤维紧紧扎成的团块，用投石索发射时造成[[非致命伤害]]。
+|source=格拉利昂的半身人
+}}

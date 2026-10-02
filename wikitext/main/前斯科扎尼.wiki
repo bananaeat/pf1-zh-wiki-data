@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Varisia, Birthplace of Legends pg. 30, Shattered Star Player's Guide pg. 4），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=前斯科扎尼
+|english_name=Ex-Sczarni
+|type=战役
+|pfs=否
+|description=虽然你是作为玛格尼玛各个斯科扎尼帮派之一的成员长大的，但你从来没能融入那些定居都市的同胞之中。探索者协会尤其看出了你的漂泊之心和作为探员的潜力，你不止一次凭借街头智慧和手腕令他们的探员刮目相看或上当受骗。多年来，你渐渐失去了斯科扎尼的欢心，最终离开，去追寻单纯打家劫舍以外的志趣，但你仍记得那些犯罪关系教给你的东西。你为传递隐秘信息进行的[[唬骗]]检定获得+2背景加值。此外，每当你施展致命一击时，你额外造成1d6点伤害。
+|source_name=瓦瑞西亚，传说诞生之地
+|source=VBoL
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Ex-Sczarni
+}}

@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=高等妖精之血
+|english_name=Fey Blood, Greater
+|type=Su
+|categories=血脉
+|prerequisites=[[野蛮人]]10级，[[妖精之血]]
+|benefit=每当野蛮人进入狂暴状态，只要他移动了十尺距离，他就会在1轮中获得法术[[朦胧术]]的效果。
+|source_name=进阶职业指南
+}}

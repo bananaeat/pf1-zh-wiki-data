@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Rise of the Runelords Anniversary Edition Player's Guide pg. 4），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=信仰学子
+|english_name=Student of Faith
+|type=战役
+|pfs=否
+|description=虽然你个人已将一生奉献给一位神祇，但你研究所有宗教和凡人的信仰。听说砂点镇最近落成了一座供奉当地最受欢迎的六位神祇的大教堂，你一定要亲眼去看看，并及时赶到参加这座神圣建筑的祝圣典礼。由于你坚定的信仰和广泛的研究，你施放所有治疗法术时施法者等级+1，并且每当你引导能量时，你的引导能量的豁免DC获得+1背景加值。
+|source_name=Rise of the Runelords Anniversary Edition Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Student%20of%20Faith
+}}

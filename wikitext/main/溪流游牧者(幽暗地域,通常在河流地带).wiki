@@ -1,0 +1,10 @@
+{{Trait
+|name=溪流游牧者(幽暗地域,通常在河流地带)
+|english_name=Stream Nomad
+|type=地区
+|pfs=否
+|prerequisites=幽暗地域（通常在河流地下）
+|description=在湍急的水流附近挖掘隧道教会了你如何将水作为一种旅行和逃跑的方式。另一些人则窃窃私语说你一定生来就有蹼足。你在游泳检定上获得+1背景加值，并将游泳视为你的[[本职技能]]。你驾驶的任何木筏、驳船、龙骨船或划艇的速度每天增加4英里(每小时半英里)。
+|source_name=格拉里昂的狗头人
+|source_url=https://pf1chm.pages.dev/topics/zh93978f31f4.htm
+}}

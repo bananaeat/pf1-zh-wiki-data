@@ -1,0 +1,14 @@
+{{魔法物品
+|name=巧手手套
+|english_name=Quickfingers Gloves
+|aon=MagicWondrousDisplay.aspx?FinalName=Quickfingers Gloves
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=手部
+|price=2,500 gp
+|description=这双深色的紧身手套通常用柔软的小牛皮或丝绸制成。穿戴者如果在[[巧手]]技能上至少有1级，就能用一个移动动作进行巧手检定，此时该检定只承受-10减值，而不是通常的-20。必须双手都戴上手套，魔法才会生效。
+|req=[[制造奇物]]、[[猫之优雅]]、[[加速术]]
+|cost=1,250 gp
+|source=进阶种族手册
+}}

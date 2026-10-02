@@ -1,0 +1,10 @@
+{{魔法物品
+|name=属性改装
+|english_name=Ability Score Increase
+|aon=ConstructMods.aspx?ItemName=Ability Score Increase
+|cat=构装改造
+|description='''类型''' 基础；'''造价''' 5,000 gp；'''制造需求''' 无；'''CR提升''' 无
+
+使用这种改装，制造者每次改装可以使构装体的一项属性值永久提高2点。分值为0的属性不能提高。永久提高一项属性值的造价为5,000 gp。
+|source=极限魔法
+}}

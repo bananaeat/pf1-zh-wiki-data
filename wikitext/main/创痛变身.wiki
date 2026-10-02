@@ -1,0 +1,10 @@
+{{Trait
+|name=创痛变身
+|english_name=Traumatic Shift
+|type=种族
+|prerequisites=[[兽态人]]
+|description=你第一次变型是在大庭广众之下，亲朋好友从此疏远，邻里侧目而视。你因此学会了隐藏自己本性的方法。你的[[唬骗]]检定得到+1背景加值，唬骗成为[[本职技能]]。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_808.html
+}}

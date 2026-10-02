@@ -1,0 +1,26 @@
+{{物品
+|name=至圣复仇者
+|english_name=Sacred Avenger
+|category=魔法武器
+|aura=中等防护系[善良]
+|cl=6级
+|price=4800gp
+|weight=4磅
+|slot=无位置
+|requirements=[[制造魔法武器和防具]]，（圣洁灵光），制造者必须为善良阵营
+|cost=64500gp
+|description=这把精制品寒铁长剑在圣武士的手中会变为+1[[寒铁]][[长剑]]（+1 cold iron longsword）。
+
+'''成长分档'''：珍宝（见 [[成长型物品]]）
+
+'''8级'''：至圣复仇者视同为+1寒铁长剑（+1 cold iron longsword），在圣武士的手中变为+2寒铁长剑（+2 cold iron longsword）。
+
+'''10级'''：至圣复仇者在圣武士的手中变为+3寒铁长剑（+3 cold iron longsword）。
+
+'''12级'''：至圣复仇者视同为+2寒铁长剑（+2 cold iron longsword），在圣武士的手中变为+4寒铁长剑（+4 cold iron longsword）。
+
+'''14级'''：至圣复仇者在圣武士的手中变为+5寒铁长剑（+5 cold iron longsword）。
+
+'''17级'''：至圣复仇者允许圣武士以标准动作随意使用区域型版本的高等解除魔法，并且赋予圣武士和与其相邻的盟友法术抗力，数值等同于5 + 她的圣武士等级。
+|source_name=神话冒险
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=月光怀表
+|english_name=Moon Clock
+|aon=MagicWondrousDisplay.aspx?FinalName=Moon Clock
+|cat=奇物
+|aura=中等预言系、幻术系
+|cl=13
+|slot=无
+|price=2,650 gp
+|description=这个精巧的机械装置可以像[[怀表]]一样打开，露出一组表盘，显示当前的月相，以及上一个和下一个月相。月光怀表可以用一个[[标准动作]]摧毁，释放出一股半径30尺的强大月之能量爆发。处于爆发区域内的[[兽化人]]必须通过一次DC 20的意志豁免，否则会变回原本的类人形态。
+|req=[[制造奇物]]、[[预言术]]、[[月光面纱]]
+|cost=1,325 gp
+|source=月之血脉
+}}

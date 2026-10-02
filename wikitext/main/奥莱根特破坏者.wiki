@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Andoran, Spirit of Liberty pg. 20），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=奥莱根特破坏者
+|english_name=Oregent Vandal
+|type=地区
+|prerequisites=奥莱根特［安多安内部］
+|description=你发现，把自己精心磨炼的建造与修缮本能转而用于破坏，实在是轻而易举。你对具有硬度的目标进行的伤害检定获得+2背景加值。此加值不适用于无视硬度的攻击。
+|source_name=安多安，自由之魂
+|source=ASoL
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Oregent%20Vandal
+}}

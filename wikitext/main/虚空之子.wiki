@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（People of the Stars pg. 19），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=虚空之子
+|english_name=Void Child
+|type=地区
+|pfs=否
+|prerequisites=离散带
+|description=你在离散带长大，习惯了在广袤的太空虚空中与大多数其他生命隔绝。你对抗恐惧的豁免获得+1背景加值；当你距离最近的盟友30尺或更远时，这项加值增加到+2。
+|source_name=繁星子民
+|source=PotS
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Void%20Child
+}}

@@ -1,0 +1,11 @@
+<noinclude>{{调查员导航}}
+{{消歧义|坚固阵地}}
+'''坚固阵地'''（Fortified Position, Ex）是[[调查员]]的[[调查员天赋|调查员天赋]]。
+
+</noinclude>{{Source|元素大师手册|Elemental Master's Handbook|inline}}
+
+同名[[盗贼天赋]]，调查员也可以选取，规则见[[坚固阵地]]。<noinclude>
+
+[[分类:调查员天赋]]
+
+{{职业}}</noinclude>

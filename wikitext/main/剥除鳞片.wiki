@@ -1,0 +1,17 @@
+{{Spell
+|name=剥除鳞片
+|english_name=Strip scales
+|school=变化系
+|levels=德鲁伊 4;猎人 4;奥能师 5;女巫 5;术士 5;法师 5
+|action=标准动作
+|components=语言;姿势;材料/圣徽（一片爬行动物的鳞片）
+|range=近距（25尺+5尺/2等级）
+|target=一名活物
+|duration=1分钟/等级
+|save=强韧，通过则无效
+|sr=是
+|description=你降低目标的种族天生护甲加值，每3个施法者等级降低1点。
+
+（译注：AoN 原文作「Fortitude」，疑为笔误，应为「Fortitude negates」（强韧，通过则无效）。）
+|source=格拉利昂的狗头人
+}}

@@ -1,0 +1,9 @@
+{{装备
+|name=藏物圣徽
+|english_name=Holy symbol (compartment)
+|cat=冒险装备
+|price=+5 gp
+|weight=—
+|description=这种由相应宗教的成员设计并认可的圣徽改造，能为圣徽增加一个足以容纳一个药水瓶的暗格。发现暗格需要通过DC 20的察觉检定。
+|source=极限宝具
+}}

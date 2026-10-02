@@ -1,0 +1,20 @@
+{{魔法物品
+|name=异教徒之殇
+|english_name=Heretic's Bane
+|aon=MagicStavesDisplay.aspx?ItemName=Heretic's Bane
+|cat=法杖
+|aura=中等惑控系
+|cl=8
+|slot=无
+|price=32,000 gp
+|weight=5磅
+|description=这根坚固的木杖顶端装饰着一枚圣徽，周围环绕着凶恶的金属倒刺。该法杖可以使用以下法术：
+
+* [[严加斥责]]（1 发；APG）
+* [[命令术]]（1 发）
+* [[诚实之域]]（1 发）
+* [[谴责]]（2 发；APG）
+|req=[[制造法杖]]、[[严加斥责]]、[[命令术]]、[[谴责]]、[[诚实之域]]
+|cost=16,000 gp
+|source=极限宝具
+}}

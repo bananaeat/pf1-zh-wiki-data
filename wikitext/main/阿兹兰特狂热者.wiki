@@ -1,0 +1,11 @@
+{{Trait
+|name=阿兹兰特狂热者
+|english_name=Azlant Fanatic
+|type=种族
+|prerequisites=[[人类]]（阿兹兰特人）
+|description=在数年时间里，你阅读了你所能找到的每一篇关于失落古文明阿兹兰特的尘封古卷，这让你得以洞悉古物以及奥术的奥秘所在。
+
+你在知识（神秘）以及知识（历史）检定上获得+1背景加值。其中一个技能（由你选择）将会被视为你的本职技能。
+|source_name=塔尔多，荣光荡漾之地
+|source_url=https://pf1chm.pages.dev/topics/page_938.html
+}}

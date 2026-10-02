@@ -1,0 +1,14 @@
+{{魔法物品
+|name=防护戒指
+|english_name=Ring of Protection
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Protection1
+|cat=戒指
+|aura=微弱防护系
+|cl=5
+|slot=戒指
+|price=2,000 gp（+1）；8,000 gp（+2）；18,000 gp（+3）；32,000 gp（+4）；50,000 gp（+5）
+|description=这枚戒指提供持续的魔法防护，表现为AC上+1至+5的偏斜加值。
+|req=[[锻造戒指]]、[[虔诚护盾]]，制造者的等级必须至少是戒指加值的三倍
+|cost=1,000 gp（+1）；4,000 gp（+2）；9,000 gp（+3）；16,000 gp（+4）；25,000 gp（+5）
+|source=核心规则书、极限宝具
+}}

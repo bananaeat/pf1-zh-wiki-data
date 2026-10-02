@@ -1,0 +1,20 @@
+{{魔法物品
+|name=兴隆法杖
+|english_name=Staff of Fortune
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Fortune
+|cat=法杖
+|aura=中等塑能系
+|cl=9
+|slot=无
+|price=44,400 gp
+|weight=3磅
+|description=这根法杖由象牙和黄金制成，顶端镶有一大块完美无瑕的石英。
+
+该法杖可以使用以下法术：
+
+* [[鸿运当头]]（1 发）
+* [[天降洪福]]（2 发）
+|req=[[制造法杖]]、[[鸿运当头]]、[[天降洪福]]
+|cost=37,200 gp
+|source=进阶玩家指南
+}}

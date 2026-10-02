@@ -1,0 +1,10 @@
+{{消歧义|淡化身形(盗贼天赋)}}
+{{Feat
+|name=淡化身形
+|english_name=Dampen Presence
+|prerequisites=[[技能专攻]]（隐匿），隐匿技能5级
+|benefit=你可以用隐匿技能避开任何想用[[盲视]]或盲感察觉你的生物，即使你已经完全进入那个生物的可察觉区域。该专长不提供对抗其他种类察觉方法的优势，例如灵敏嗅觉，视觉或[[通用怪物规则#颤动感知|震颤]]感知。
+|source=DH
+|source_name=冒险家手册
+|source_url=https://pf1chm.pages.dev/topics/page_529.html
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=毒虫之心
+|english_name=Vermin Heart
+|description=你与那些蠕动、爬行、飞掠和蜇人的东西有着特殊的联系。
+|prerequisites=【野性认同】职业特性。
+|benefit=你能以虫类生物为目标，施放那些只影响动物的法术和[[特殊能力]]（它们仍旧受到以虫类为目标的法术影响）。你可以使用【野性认同】改善虫类的态度，就如同你影响动物一般。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

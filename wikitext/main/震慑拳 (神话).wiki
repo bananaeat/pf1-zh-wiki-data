@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[震慑拳]] 的神话版本。</small></div>
+{{Feat
+|name=震慑拳
+|english_name=Stunning Fist
+|categories=神话
+|description=凭藉着更强的效果与频率，你的拳头能够震晕所有敢挺身对抗你的人。
+|prerequisites=[[震慑拳]]
+|benefit=你的[[震慑拳]]的DC增加，数值等同于你的阶层的一半，而且你能够在同一轮内使用多次震慑拳。以[[自由动作]]，你能够花费1次神话之力来使用震慑拳，而不用花费你在当日的专长使用次数。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

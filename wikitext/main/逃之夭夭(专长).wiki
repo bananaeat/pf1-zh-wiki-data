@@ -1,0 +1,13 @@
+{{消歧义|逃之夭夭 (消歧义)}}
+{{Feat
+|name=逃之夭夭
+|english_name=Disengaging Flourish
+|categories=战斗
+|description=你扰乱周围的敌人，然后迅速转进。
+|prerequisites=智力13，[[寓守于攻]]，[[虚招脱离]]，精通虚招。
+|benefit=以一个[[标准动作]]，你对每个威胁你的对手都进行一次[[唬骗]]检定。如果你成功了至少1次，你可以移动你的正常速度距离。这次移动不会触发所有对其[[虚招]]成功的敌人的[[借机攻击]]。
+|stamina=即使能力不满足前提（13智力），只要耐力池依然有1点耐力就可以使用该专长。如果花费5点耐力，可以用移动动作尝试逃之夭夭。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

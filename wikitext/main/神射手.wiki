@@ -1,0 +1,11 @@
+{{消歧义|神射手(杀手天赋)}}
+{{Trait
+|name=神射手
+|english_name=Deadeye Bowman
+|type=宗教
+|prerequisites=信仰[[埃拉斯蒂尔]]
+|description=当你使用[[长弓]]时，如果仅有一个生物为你的目标提供软[[掩蔽]]，你的目标不会享受到AC+4的好处【摘自愚者的翻译】
+|source_name=内海诸神
+|source=摘自愚者的翻译
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

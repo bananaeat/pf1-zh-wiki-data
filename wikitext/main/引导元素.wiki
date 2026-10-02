@@ -1,0 +1,10 @@
+{{Feat
+|name=引导元素
+|english_name=Energy Channel
+|description=你可以将神祇代表的元素能量通过引导注入武器
+|prerequisites=引导能力职业能力，气，土，火或水牧师领域或战斗祭司祝福
+|benefit=以一个[[迅捷动作]]，你可以消耗一次本日的[[引导能量]]，使你的武器攻击获得相当于你引导能量骰数x2的额外能量伤害。这个能力伤害的类型取决于你的领域或祝福：强酸（土），电击（气），寒冷（水）或火焰（火）。如果你同时拥有多个元素领域或祝福，你必须在使用这个能力时选择其一来发动。这个效果持续3次攻击或是战斗结束，取其先者。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

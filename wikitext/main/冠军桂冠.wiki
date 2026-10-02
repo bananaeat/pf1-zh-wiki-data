@@ -1,0 +1,19 @@
+{{物品
+|name=冠军桂冠
+|english_name=Laurel of the Champion
+|category=冒险装备
+|aura=昏暗变化系
+|cl=3级
+|slot=头部（head）
+|price=2,000GP
+|weight=-磅
+|requirements=[[制造奇物]]，[[鹰之威仪]]，[[关照术]]
+|cost=1,000GP
+|description=出自：Heroes of the High Court pg. 13
+
+描述：
+
+该[[恩泽]]是一种叶子制成的花环，通常被赠送给格斗或其他比赛的获胜者。在24小时内，接受者在[[易容]]检定（Disguise checks）中受到-2罚值，并且在交涉检定（Diplomacy checks）中骰两次并取较好的结果。
+|source=HotHC
+|source_name=皇庭英豪
+}}

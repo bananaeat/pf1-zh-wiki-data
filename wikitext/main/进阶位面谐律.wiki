@@ -1,0 +1,9 @@
+{{Feat
+|name=进阶位面谐律
+|english_name=Improved Planar Infusion
+|description=你与位面之间的联系变得更强大了。
+|prerequisites=位面谐律，角色等级7
+|benefit=选择一个你已经通过位面谐律获得了其谐律的位面，你同样获得其进阶谐律。
+|source_name=位面冒险
+|source_url=https://pf1chm.pages.dev/topics/zhcc06dce7d8.htm
+}}

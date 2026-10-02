@@ -1,0 +1,15 @@
+{{魔法物品
+|name=自缚网
+|english_name=Net of Snaring
+|aon=MagicCursedDisplay.aspx?ItemName=Net of Snaring
+|cat=诅咒物品
+|base=[[捕网]]
+|enh=+3
+|aura=中等塑能系
+|cl=8
+|slot=无
+|weight=1磅
+|description=这张网在攻击检定上提供+3加值，但只能在水下使用。在水下，可以命令它射出最多30尺，困住一个生物。如果在陆地上投掷，它会改变路线，以投掷它的生物为目标。
+|req=+3[[捕网]]
+|source=核心规则书、极限宝具
+}}

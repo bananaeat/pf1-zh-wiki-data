@@ -1,0 +1,10 @@
+{{Trait
+|name=阿奎洛斯之眼
+|english_name=Eye of Arqueros
+|type=宗教
+|prerequisites=信仰[[阿奎洛斯]]
+|description=你曾在执行一项需要警醒的任务时不慎入睡，却在梦中受到阿奎洛斯的启示而惊醒，及时避免了失职。你在独自值守警戒时进行的察觉检定获得+3背景加值。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh9e38168036.htm
+}}

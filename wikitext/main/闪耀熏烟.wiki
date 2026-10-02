@@ -1,0 +1,10 @@
+{{装备
+|name=闪耀熏烟
+|english_name=Sparkle smoke
+|cat=炼金工具
+|price=25 gp
+|weight=1磅
+|craft_dc=15
+|description=当被吸入时，这种熏香会使生物看到光源周围环绕着耀眼的光环，使其注意力被月亮、星星之类的光源吸引，而忽视附近的其他生物。任何吸入闪耀熏烟后未通过DC 15强韧豁免的生物，在至少有昏暗光照的区域中，察觉体型比自己小的生物的察觉检定承受-4罚值，持续1小时。制作一份闪耀熏烟需要通过一次DC 15的工艺（炼金术）检定。
+|source=Pathfinder #106: For Queen and Empire、冒险者指南
+}}

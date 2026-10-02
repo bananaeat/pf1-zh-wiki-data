@@ -1,0 +1,12 @@
+{{Feat
+|name=小型坐骑
+|english_name=Undersized Mount
+|categories=战斗
+|description=你学会了骑乘比常规体型更小的野兽的技巧。
+|prerequisites=骑术技能1级
+|benefit=你可以骑乘体型等同于你的坐骑生物，不过负重或其他因素可能会限制这项能力的使用方式。
+|normal=适合你的坐骑通常至少比你大一个体型类别。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

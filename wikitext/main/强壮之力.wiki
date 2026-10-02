@@ -1,0 +1,14 @@
+{{Spell
+|name=强壮之力
+|english_name=Mighty Strength
+|school=变化系
+|levels=牧师 4;先知 4;圣武士 4;战斗祭司 4（杜鲁德）
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=个人
+|target=你
+|duration=1分钟/等级
+|description=如同[[牛之力量]]，但本法术给予力量+8增强加值。
+|source=格拉利昂的矮人
+}}
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_717.html 原文]），按 AoN 核对过。</small>

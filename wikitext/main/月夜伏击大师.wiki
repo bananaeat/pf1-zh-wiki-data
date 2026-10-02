@@ -1,0 +1,11 @@
+{{Feat
+|name=月夜伏击大师
+|english_name=Moonlight Stalker Master
+|categories=战斗
+|description=你挥一挥衣袖，自黑暗中飘然而去，任由对手在原地胡乱挥打。
+|prerequisites=智力13，[[盲斗]]，[[寓守于攻]]，[[精通虚招]]，[[月夜伏击者]]，[[月夜虚招]]，[[唬骗]]9级，【黑暗视觉】或【昏暗视觉】种族特性。
+|benefit=当你对一个对手获得[[隐蔽]]，他对你的失手率增加10%。如果一个对手因为你的隐蔽而对你攻击失手，你可以用[[直觉动作]]移动5尺。这次移动不会触发[[借机攻击]]，也不会计入五尺快步。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=幸运之犬
+|english_name=Lucky Hound
+|type=坐骑
+|prerequisites=[[骑乘用犬]]
+|description=幸运之犬在对抗来源于邪恶异界生物、不死生物、以及邪恶描述符的法术和效果的豁免上，获得+1幸运加值。
+|source_name=坐骑背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zh4fc8a2e018.htm
+}}

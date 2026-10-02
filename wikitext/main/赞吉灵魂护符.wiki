@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=赞吉灵魂护符
+|english_name=Zenj Spirit Fetish
+|aon=MagicWondrousDisplay.aspx?FinalName=Zenj Spirit Fetish
+|cat=奇物
+|aura=中等防护系
+|cl=9
+|slot=无
+|price=4,500 gp
+|description=持有这颗干缩猴头的人可以用它施放[[反制邪恶]]。法术生效期间，持有者可以用这颗猴头进行一次近战接触攻击，将一个来自其他位面的邪恶生物放逐回它的家乡位面，或者驱散一个邪恶法术，或一个由邪恶生物施放的惑控系法术。这次使用会耗尽并结束该法术。法术结束时，护符变回一颗普通的、没有魔力的猴头。
+|req=[[制造奇物]]、[[反制邪恶]]
+|cost=2,250 gp
+|source=冒险之路38：竞逐废墟
+}}

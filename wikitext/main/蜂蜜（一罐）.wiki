@@ -1,0 +1,9 @@
+{{装备
+|name=蜂蜜（一罐）
+|english_name=Honey (jar)
+|cat=饮食
+|price=1 gp
+|weight=1/2磅
+|description=这种金色的浆液经常代替糖来使用。蜂蜜天然不易腐坏，只要装在封好的木、玻璃或者瓷容器里，就可以用来保存水果、坚果、肉类甚至皮革长达数十年。
+|source=极限宝具
+}}

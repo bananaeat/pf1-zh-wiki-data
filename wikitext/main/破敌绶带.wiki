@@ -1,0 +1,15 @@
+{{魔法物品
+|name=破敌绶带
+|english_name=Bane Baldric
+|aon=MagicWondrousDisplay.aspx?FinalName=Bane Baldric
+|cat=奇物
+|aura=中等咒法系
+|cl=10
+|slot=胸部
+|price=10,000 gp
+|weight=1磅
+|description=这条华丽的绣花天鹅绒绶带从肩部斜挎到腰间，横过胸前。如果穿戴者是审判者，则在使用破敌和高等破敌能力时，视为其等级高5级。如果穿戴者不是审判者，她就获得5级审判者的破敌能力，但必须先把一件轻型或单手近战武器挂在绶带的布面上24小时，使其与绶带同调，并且只能对这件同调武器使用破敌能力。为绶带同调新武器时，先前武器的同调随即终止。
+|req=[[制造奇物]]、[[召唤怪物 I]]，制造者必须是[[审判者]]
+|cost=5,000 gp
+|source=极限宝具
+}}

@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=圣徒庇护护符
+|english_name=Saint's Protection Charm
+|aon=MagicWondrousDisplay.aspx?FinalName=Saint's Protection Charm
+|cat=奇物
+|aura=中等咒法系
+|cl=3
+|slot=腕部
+|price=1,500 gp
+|description=这条手镯上附着一枚铜盘，盘上刻着一位身着宗教服饰的人像。穿戴者获得+1偏斜加值至AC，并在豁免上获得+1抗力加值。这些加值只对来自外来生物的攻击或其造成的效果有效。
+|req=[[制造奇物]]、[[防护混乱]]、[[防护邪恶]]、[[防护善良]]或[[防护秩序]]
+|cost=750 gp
+|source=魔法市集指南
+}}

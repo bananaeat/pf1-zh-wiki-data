@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 199），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=自然魔法印记
+|english_name=Marked by Nature's Magic
+|type=种族
+|prerequisites=兽态人
+|description=你来自一个鼓励你与精类打交道的社群——或许位于阿卡迪亚，或许位于林诺姆诸王国。你关于精类的[[知识]]（自然）检定，以及为影响精类而进行的[[交涉]]检定获得+1背景加值。知识（自然）永远是你的本职技能。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Marked%20by%20Nature%27s%20Magic
+}}

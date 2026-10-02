@@ -1,0 +1,9 @@
+{{Trait
+|name=破锁者
+|english_name=Unshackled
+|type=信念
+|description=你曾从奴役或囚禁中逃脱，并发誓绝不再被枷锁束缚。你在脱逃检定上获得+1背景加值，且该技能为你的[[本职技能]]。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh484c89782e.htm
+}}

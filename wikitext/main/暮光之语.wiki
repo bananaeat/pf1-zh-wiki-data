@@ -1,0 +1,11 @@
+{{Feat
+|name=暮光之语
+|english_name=Twilight Words
+|description=雪之后裔半精灵通常继承了他们父母对异族文化那无法抑制的好奇心，并且特别擅长与新的群体打交道。
+|prerequisites=[[交涉]]3级、雪之后裔半精灵。
+|benefit=即便你与对方没有共同的语言，你也可以尝试进行交涉检定来改变对方的态度，不过对方的智力仍须达到3或更高。
+|normal=如果你与对方没有共同的语言，你便无法尝试进行交涉检定来改善对方的态度。
+|source=HftF
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/zh72cd9d7a9f.htm
+}}

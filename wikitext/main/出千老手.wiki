@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Varisia, Birthplace of Legends pg. 29），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=出千老手
+|english_name=Fixer of Odds
+|type=战役
+|pfs=否
+|description=无论用什么手段，你都要赢下金地精即将举办的“骗过魔鬼，赢走他的金子”锦标赛。你的[[专业]]（赌博）检定获得+1背景加值，并且搜查你身上藏匿物品的生物不会获得通常的+4[[察觉]]检定加值。此外，你开始游戏时拥有一枚“做过手脚”的六面骰（它有两个“6”而没有“1”）和一把匕首。
+|source_name=瓦瑞西亚，传说诞生之地
+|source=VBoL
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Fixer%20of%20Odds
+}}

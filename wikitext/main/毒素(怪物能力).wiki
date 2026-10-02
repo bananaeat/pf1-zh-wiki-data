@@ -1,0 +1,13 @@
+<noinclude>{{速查导航|here=规则}}
+{{消歧义|毒素}}
+'''毒素'''（Poison）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex 或 Su</span><span class="sk-f">位置：特殊攻击和个体攻击</span></div>
+</noinclude><includeonly><div class="lang"><span id="毒素"></span><span id="毒素(怪物能力)"></span><div class="lang-h"><b>[[毒素(怪物能力)|毒素]]</b><i>Poison</i><span class="lang-w">Ex 或 Su · 特殊攻击和个体攻击</span></div><div class="lang-d"></includeonly>
+拥有此能力的生物可以使被其攻击的对象中毒。毒素的效果，包括豁免、频率和治愈方式，都包含在生物描述中。抵抗毒素的豁免通常是强韧豁免（DC = 10 + 施毒生物种族 HD 的 1/2 + 该生物的体质调整值；具体的 DC 会在生物描述中给出）。毒素可以被[[中和毒性]]或类似效果移除。
+
+'''格式'''：'''毒素名称（Ex）''' 钉刺——伤口；豁免 强韧 DC 22，频率 1 次/轮，共 6 轮，效果 1d4 体质伤害，痊愈 2 次连续豁免
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Poison|2=Poison}}
+
+[[分类:通用怪物规则]]</noinclude>

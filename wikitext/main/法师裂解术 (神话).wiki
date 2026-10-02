@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[法师裂解术]] 的神话版本。</small></div>
+{{Spell
+|name=法师裂解术
+|english_name=Mage's Disjunction
+|school=防护系
+|levels=奥能师 9;异能者 9;术士 9;法师 9
+|description=法术的持续时间增加至每施法者等级10分钟。破坏反魔场的概率增加至每施法者等级2%。
+|source=神话冒险
+}}
+[[分类:神话法术]]

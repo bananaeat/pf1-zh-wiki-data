@@ -1,0 +1,10 @@
+{{消歧义|最终拥抱}}
+{{Trait
+|name=终焉之拥
+|english_name=Final Embrace
+|type=种族
+|prerequisites=[[吸血裔]]
+|description=如同你的先祖，你对于接触活物有一种强烈的渴望，你身体深处的饥饿令你拥有非同一般的力量去抓住对方。你在定身对手时的[[擒抱]]战技检定有+2背景加值。
+|source_name=夜之血脉
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Final%20Embrace
+}}

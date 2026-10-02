@@ -1,0 +1,46 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Ultimate Campaign
+|authors=Jesse Benner、Benjamin Bruck、Jason Bulmahn、Ryan Costello、Adam Daigle、Matthew Goetz、Tim Hitchcock、James Jacobs、Ryan Macklin、Colin McComb、Jason Nelson、Richard Pett、Stephen Radney-MacFarland、Patrick Renie、Sean K Reynolds、F. Wesley Schneider、James L. Sutter、Russ Taylor、Steven Townshend
+|pages=256
+}}
+
+{{书页/简介|head=接管全局！|1=
+地下城的尽头，是另一场冒险的开端！开拓者角色扮演游戏：极限战役带你游览游戏中发生在怪物袭击与寻找远古神器的任务之间的那些部分。作为一批最有力量、最有声望的英雄，你的玩家角色是想建立一个属于自己的王国，还是带领大军攻打邻国？或许他们想创办一门生意、制造魔法物品，或者踏上一段将定义他们一生的探索之旅。无论你是在寻找生成年轻角色的帮助，还是在想办法挑战那些已经厌倦了一对一杀怪的冒险者，这本书都有你需要的一切！
+
+开拓者角色扮演游戏：极限战役是开拓者角色扮演游戏《[[核心规则书]]》必不可少的配套卷册。这款富有想象力的桌面游戏建立在十多年的系统发展和有 5 万多名玩家参与的公开测试之上，造就了一种前沿的 RPG 体验，把有史以来最畅销的奇幻规则带入新时代。
+
+开拓者角色扮演游戏：极限战役包括：
+
+* 一份详细的角色背景生成指南，包括随机生成角色的新系统，以及能把背景与数据融为一体的背景特性和缺陷。
+* 随着你达成关键目标而增强威力的故事专长，让任务与征战不再只是点缀！
+* 一套完整的休整期规则系统，充实 PC 在冒险之间的生活，例如经营生意、在社群中获得权力与影响力，或创办魔法学院。
+* 关于重新训练与转职、荣誉、声望与名望、年轻角色、投资、魔法物品制造和其他重要冒险主题的新规则。
+* 建立王国的规则，包括建设与技术进步、治理子民等等。
+* 集团战斗规则，帮助你以有趣而高效的方式率领大军交锋、展开史诗战役——同时不忽略 PC 本身。
+
+还有更多更多！
+}}
+
+'''极限战役'''（''Ultimate Campaign''，全名 ''Pathfinder Roleplaying Game Ultimate Campaign''）是一本开拓者角色扮演游戏的精装核心规则书，内容由 Jesse Benner、Benjamin Bruck 等 19 位作者贡献，于 2013 年 5 月 29 日发行。
+
+平装便携版（Pocket Edition）于 2019 年 1 月 30 日发行，收录精装书的全部原有内容，开本为 8.4 × 6.5 英寸。
+
+== 目录 ==
+{{书页/目录|1=
+导言 @ p4–5
+第1章：[[角色背景]] @ p6–73
+第2章：[[休整期]] @ p74–131
+第3章：战役系统 @ p132–195
+第4章：王国与战争 @ p196–251
+索引 @ p252–253
+开放游戏许可（OGL） @ 254
+}}
+
+{{书页尾
+|pfw=Ultimate Campaign
+|releases=Hardcover¦PZO1125¦2013-05¦978-1-60125-498-6；PDF¦PZO1125E¦2013-05¦；Softcover (Pocket Edition)¦PZO1125-PE¦2019-01¦978-1-64078-104-7
+}}
+
+[[分类:书目]]

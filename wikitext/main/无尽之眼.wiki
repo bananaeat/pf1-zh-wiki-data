@@ -1,0 +1,15 @@
+{{Spell
+|name=无尽之眼
+|english_name=Countless eyes
+|school=变化系
+|levels=奥能师 3;女巫 3;审判者 3;异能者 3;术士 3;法师 3;炼金术师 3;秘学士 3;红螳螂杀手 3;血脉狂怒者 3;调查员 3
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的生物
+|duration=1小时/等级
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=目标全身长出无数额外的眼睛，包括它的后脑勺上。目标获得全域视野，并且不能被[[夹击]]。
+|source=极限魔法
+}}

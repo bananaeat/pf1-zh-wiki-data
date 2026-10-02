@@ -1,0 +1,9 @@
+{{装备
+|name=斧嘴鸟蛋
+|english_name=Axe beak egg
+|cat=坐骑与宠物
+|price=1,000 gp
+|weight=10磅
+|description=从蛋开始养大的斧嘴鸟很容易训练成坐骑，也可以当作家畜饲养。
+|source=极限宝具
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=半身人轰击手
+|english_name=Slipslinger Bombardment
+|categories=战斗
+|prerequisites=[[即时备战]]，[[半身人投弹兵]]，[[半身人投石术]]，[[随手投掷]]，[[武器专攻]]（[[投石索]]）或[[战士#武器训练|武器训练]]（投掷类）职业能力，战争投石者ARG种族特性
+|benefit=在使用半身人投弹兵专长时，你能在攻击动作或全力攻击动作中，将炼金溅射武器当做投石索的弹药一般使用，并且能够以[[自由动作]]进行装填。
+|special=炼金术士的炸弹不适用于该专长。
+|source_name=武器大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_420.html
+}}

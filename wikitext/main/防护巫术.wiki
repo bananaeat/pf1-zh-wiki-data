@@ -1,0 +1,16 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[防护巫术 (神话)]]。</small></div>
+{{Spell
+|name=防护巫术
+|english_name=Hex ward
+|school=防护系
+|levels=女巫 1;审判者 1;秘学士 1;萨满 1
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的生物
+|duration=1小时/等级
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=你使目标在对抗女巫的[[巫术]]时豁免检定获得+4抗力加值。
+|source=极限魔法
+}}

@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=深海护手
+|english_name=Gauntlets of the Deep
+|aon=MagicWondrousDisplay.aspx?FinalName=Gauntlets of the Deep
+|cat=奇物
+|aura=中等防护系
+|cl=7
+|slot=手部
+|price=5,000 gp
+|weight=2磅
+|description=这副手套上覆盖着鱼鳞，摸上去总是冰冷湿滑。佩戴这副护手并经过24小时的适应期之后，佩戴者可以在水下投掷造成穿刺伤害的武器而不受减值，使用该武器正常的射程增量。当佩戴者从陆地上攻击水中的目标时，无论使用什么武器，目标都不会因为身在水中而获得掩蔽或完全掩蔽。
+|req=[[制造奇物]]、[[行动自如]]
+|cost=2,500 gp
+|source=冒险之路124：深海之城
+}}

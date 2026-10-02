@@ -1,0 +1,14 @@
+{{魔法物品
+|name=幻影尘
+|english_name=Dust of Illusion
+|aon=MagicWondrousDisplay.aspx?FinalName=Dust of Illusion
+|cat=奇物
+|aura=中等幻术系
+|cl=6
+|slot=无
+|price=1,200 gp
+|description=看起来像[[粉笔]]灰或石墨粉，但仔细看可发现颜色及形状不断变化。洒在生物身上，效果如同[[易容术]]，由使用者决定显出的幻象。如果被洒者不愿意，可进行DC11反射豁免检定以避免此效果。幻象可以维持2小时。
+|req=[[制造奇物]]、[[易容术]]
+|cost=600 gp
+|source=核心规则书、极限宝具
+}}

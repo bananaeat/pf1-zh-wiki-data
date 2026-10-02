@@ -1,0 +1,21 @@
+{{科技物品
+|name=伪装套装
+|english_name=Chameleon suit
+|kind=科技护甲
+|sub=轻型
+|price=15,000 gp
+|weight=5磅
+|atype=轻型
+|ac=+2
+|maxdex=+6
+|acp=0
+|asf=10%
+|speed=30尺／20尺
+|capacity=50
+|usage=1发充能/分钟
+|description=这套轻型编织纤维护甲从脚踝到手腕包覆穿戴者，并带有一顶兜帽。它的表面由数百万片微小的鳞状透镜和 LED 屏幕组成。开启后，伪装套装会分析周围环境并生成数字迷彩。穿戴者在[[隐匿]]检定上获得 +10 表现加值，并且可以进行[[视线躲藏]]（如同处于偏好地形中的游侠）。
+|construction=[[制造科技武器和护甲]]、军事工作间
+|craft_dc=29
+|cost=7,500 gp
+|source=科技指南
+}}

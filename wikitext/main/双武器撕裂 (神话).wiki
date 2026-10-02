@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[双武器撕裂]] 的神话版本。</small></div>
+{{Feat
+|name=双武器撕裂
+|english_name=Two-Weapon Rend
+|categories=神话
+|description=完全同步的两次打击会产生更高的伤害，并留下持久的创伤。
+|prerequisites=[[双武器撕裂]]
+|benefit=[[双武器撕裂]]专长所造成的伤害增加至2d8 + 2倍力量调整值。你能够花费1次神话之力，以此使得该伤害获得加值，数值等同于你的阶层的两倍。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

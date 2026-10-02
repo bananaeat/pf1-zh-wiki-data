@@ -1,0 +1,47 @@
+{{速查导航}}
+{{怪物
+|name=蜥蜴人追猎者
+|english_name=Lizardfolk Stalker
+|cr=3
+|xp=800
+|classline=蜥蜴人游侠2
+|alignment=绝对中立
+|size=中型
+|type=类人生物
+|subtypes=爬虫
+|init=+1
+|senses=察觉+8
+|description=潜伏在水塘之下，隐匿在芦苇丛中，蜥蜴人游侠现身之时，即使猎物殒命之刻。
+|ac=18，接触11，措手不及17（+2护甲，+1敏捷，+5天生）
+|hp=33（4HD，2d8+2d10+13）
+|fort=+9
+|ref=+4
+|will=+1
+|speed=30尺；游泳15尺
+|melee=2爪抓+6（1d6+3），啮咬+4（1d4+1）
+|ranged=精制品长弓+5（1d8/x3）
+|special_attacks=战斗流派（天生武器流派），宿敌（人类+2）
+|tactics=<div class="ml wide"><span class="k">战斗中</span>蜥蜴人追猎者更喜欢先用长弓削弱身着轻甲的目标，然后再上前一击致命。</div>
+|str=17
+|dex=12
+|con=17
+|int=9
+|wis=12
+|cha=8
+|bab=+3
+|cmb=+6
+|cmd=17
+|feats=强化天生武器（爪抓）;[[多重攻击]];近程射击
+|skills=[[特技]]动作+5;[[知识]]（自然）+4;[[察觉]]+8;[[生存]]+6;[[隐匿]]+7;[[游泳]]+16
+|racial_mods=值+4特技
+|languages=龙语
+|sq=[[通用怪物规则#闭气|闭气]];追踪+1;野性认同+1
+|environment=温带沼泽
+|combat_gear=树肤术药水;治疗中伤药水 x2;抗毒剂 x2;烟雾棒;绊足包
+|gear=精制品皮甲;精制品长弓;箭 x20;渔网;29GP
+|source=怪物志
+|family=蜥蜴人（怪物志）
+|npc=1
+}}
+
+本页译自《[[怪物志]]》的怪物图鉴 CHM。

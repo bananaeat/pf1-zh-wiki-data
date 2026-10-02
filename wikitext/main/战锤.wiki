@@ -1,0 +1,16 @@
+{{武器
+|name=战锤
+|english_name=Warhammer
+|category=武器
+|prof=军用
+|wcat=单手
+|price=12 gp
+|weight=5磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×3
+|type=钝击
+|groups=锤
+|description=这件武器包括木制的握柄和一个沉重的金属锤头。锤头可能为单侧（像是木工锤）或双侧（像是长柄大锤）。握柄的长度足够你单手或是双手持用。尽管沉重且挥舞起来相对缓慢，战锤却能够挥出势大力沉的重击，将铠甲和血肉一并粉碎。
+|source=核心规则书、极限宝具
+}}

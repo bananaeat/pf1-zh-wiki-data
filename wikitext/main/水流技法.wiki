@@ -1,0 +1,11 @@
+{{Feat
+|name=水流技法
+|english_name=Hydraulic Maneuver
+|description=你可以使用[[水流冲击]]卸除武器或者摔绊敌人。
+|prerequisites=‘水流冲击’类法术能力，水元素裔。
+|benefit=你可以使用‘水流冲击’尝试进行[[冲撞]]、[[卸武]]、[[阴招]]（[[目盲]]或[[目眩]]）或[[摔绊]][[战技]]检定。每次使用水流冲击时，你必须决定要进行所允许的哪一种战技。你可以在以类法术能力、职业特性或普通施放法术使用水流冲击时应用该专长的效果，但是无法应用在[[魔法物品]]或者其他外部来源启动的法术上。
+|normal=‘水流冲击’只能用来进行冲撞战技。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

@@ -1,0 +1,16 @@
+{{Spell
+|name=匠人祝福
+|english_name=Crafter's fortune
+|school=变化系
+|domains=工厂子域 1
+|levels=奥能师 1;术士 1;法师 1;炼金术师 1;秘学士 1;红螳螂杀手 1;调查员 1
+|action=标准动作
+|components=语言;姿势;法器（一件工具）
+|range=近距
+|target=一个生物
+|duration=1天/等级或直到用掉 （可解消）
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=目标在法术持续时间内的下一次工艺检定获得+5幸运加值。
+|source=进阶玩家指南
+}}

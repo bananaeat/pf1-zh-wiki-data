@@ -1,0 +1,11 @@
+{{Feat
+|name=千斩
+|english_name=Thousand Cuts
+|categories=战斗
+|description=（[[战斗专长]]、融会专长）你的攻击只为攫取尽可能多的血液。每一次挥砍，你都会打开永久的严重创口，耗尽敌人的生命
+|prerequisites=对挥砍武器拥有武器专攻专长
+|benefit=当你在一次近战攻击中用挥砍武器对你本轮已经伤害过的对手造成伤害时，你还可以造成1点[[流血伤害]]，持续2轮。这种流血伤害会与自身叠加，但前提是在同一轮造成的。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/page_1602.html
+|source=MAH
+}}

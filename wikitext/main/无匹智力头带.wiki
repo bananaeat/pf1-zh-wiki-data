@@ -1,0 +1,17 @@
+{{魔法物品
+|name=无匹智力头带
+|english_name=Headband of Vast Intelligence
+|aon=MagicWondrousDisplay.aspx?FinalName=Headband of Vast Intelligence2
+|cat=奇物
+|aura=中等变化系
+|cl=8
+|slot=头饰
+|price=4,000 gp（+2）；16,000 gp（+4）；36,000 gp（+6）
+|weight=1磅
+|description=这条精致的金色头带上装饰着数颗蓝色和深紫色的小宝石。头带使穿戴者的智力获得+2、+4或+6增强加值。在头带穿戴的最初24小时内，该加值视为临时属性加值。无匹智力头带所给予的每+2加值，对应一项与之关联的技能。穿戴头带24小时后，头带会在这些技能上给予等同于穿戴者总生命骰数的技能等级。这些等级不会与生物已有的等级叠加。这些技能在头带制作时选定。如果没有列出技能，则视为头带给予若干随机决定的知识技能的等级。
+|req=[[制造奇物]]、[[狐之狡黠]]
+|cost=2,000 gp（+2）；8,000 gp（+4）；18,000 gp（+6）
+|source=核心规则书、极限宝具
+}}
+
+{{FAQ|v5748eaic9og7}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=余音绕梁
+|english_name=Lingering Performance
+|description=即使你停止演奏，你的吟游表演的效果仍旧环绕在周边。
+|prerequisites=【吟游表演】职业特性。
+|benefit=在你停止表演之后，你的【吟游表演】带来的加值与减值仍旧能持续2轮。任何其他要求，诸如范围或者特殊条件，必须仍旧满足才能让效果持续下去。如果你在这期间内开始一次新的吟游表演，前一次表演的效果会立刻终止。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

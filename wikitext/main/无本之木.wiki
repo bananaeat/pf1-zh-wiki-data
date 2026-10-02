@@ -1,0 +1,10 @@
+{{Trait
+|name=无本之木
+|english_name=Lost Origins
+|type=地区
+|prerequisites=任何城市
+|description=你从你的传承中脱节而你尽一切所能了解更多关于你的家在何方或你的族人从何而来的消息。知识[本地]总是你的[[本职技能]]，而且你在知识[本地]检定上总能取10,即便通常状况下你会因为压力或分心而无法这么做。
+|source_name=市井英雄
+|source=HotS
+|source_url=https://pf1chm.pages.dev/topics/zh4c7ba39919.htm
+}}

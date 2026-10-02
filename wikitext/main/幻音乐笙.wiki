@@ -1,0 +1,15 @@
+{{魔法物品
+|name=幻音乐笙
+|english_name=Pipes of Sounding
+|aon=MagicWondrousDisplay.aspx?FinalName=Pipes of Sounding
+|cat=奇物
+|aura=微弱幻术系
+|cl=2
+|slot=无
+|price=1,800 gp
+|weight=3磅
+|description=由拥有表演（吹奏乐器）技能的角色吹奏时，这套闪亮的金属乐笙能发出各种声音，可以模仿生物、环境音或大多数其他声音。这些幻象声音相当于[[幻音术]]。
+|req=[[制造奇物]]、[[幻音术]]
+|cost=900 gp
+|source=核心规则书、极限宝具
+}}

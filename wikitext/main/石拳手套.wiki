@@ -1,0 +1,15 @@
+{{魔法物品
+|name=石拳手套
+|english_name=Stonefist Gloves
+|aon=MagicWondrousDisplay.aspx?FinalName=Stonefist Gloves
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=手部
+|price=10,000 gp
+|weight=3磅
+|description=这双沉重的石质手套，戴上它的人都会觉得出奇地柔软。生物戴着石拳手套时，其徒手打击的伤害视为大了一个体型分类，并且能无视硬度8或更低的硬度。神话生物使用这双手套进行[[击破]]战技时，可以把自身阶层的一半作为加值，加到战技检定上。
+|req=[[制造魔法武器和防具]]、[[神话工匠]]、[[石肤术]]
+|cost=5,000 gp
+|source=神话冒险
+}}

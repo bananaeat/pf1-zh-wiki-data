@@ -1,0 +1,24 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Carnival of Tears
+|authors=Tim Hitchcock、Nicolas Logue
+|pages=32
+}}
+
+{{书页/简介|head=欢声笑语，直到有人丢了灵魂|1=
+可怕的寒冬将至的前夜，嘉年华来到了隼谷镇，为漫长寒夜到来前带来最后一次欢乐的机会。但当欢笑变成血腥的混乱，只有英雄们才能阻止这场充满恐怖的游乐之旅。
+
+《泪水狂欢节》是一部事件驱动的冒险，适用于 5 级角色，与全球最受欢迎的奇幻角色扮演游戏兼容。本冒险详述了嘉年华里各式各样的游乐项目——既有好玩的，也有致命的——以及一心屠杀镇民的暗影袭击者。
+}}
+
+'''泪水狂欢节'''（''Carnival of Tears''）是 Tim Hitchcock 与 Nicolas Logue 撰写的一部冒险，于 2007 年 11 月发行。
+
+{{书页尾
+|pfw=Carnival of Tears
+|releases=PDF¦PZO9506E¦2007-11¦；Softcover¦PZO9506¦2007-11¦
+}}
+
+<small>CHM 汉化里没有这本书的译名，书名是本站定的。</small>
+
+[[分类:书目]]

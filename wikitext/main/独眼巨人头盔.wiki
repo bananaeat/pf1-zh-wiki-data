@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=独眼巨人头盔
+|english_name=Cyclops Helm
+|aon=MagicWondrousDisplay.aspx?FinalName=Cyclops Helm
+|cat=奇物
+|aura=微弱预言系
+|cl=1
+|slot=头部
+|price=5,600 gp
+|weight=5磅
+|description=这顶头盔用[[独眼巨人]]缩小的头颅外壳制成，赋予佩戴者该生物瞬间察觉能力的有限版本。每天一次，佩戴者可以用一个[[直觉动作]]，对她的下一次攻击检定、豁免检定、技能检定或属性检定，不掷骰而是直接选定骰点结果。
+|req=[[制造奇物]]、[[克敌机先]]
+|cost=2,800 gp
+|source=翡翠尖塔超级地城
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=大地的加护
+|english_name=Deep Guardian
+|type=魔法
+|prerequisites=[[矮人]]
+|description=一股源自地下世界的微弱力量在你身上流动，这让你能驾驭来自岩石与大地的召唤物。你用召唤法术召唤出的任何具有土亚种或拥有掘地速度的生物，在召唤它的法术持续期间，攻击检定获得+1士气加值，AC获得+1增强加值。
+|source_name=格拉里昂的矮人
+|source_url=https://pf1chm.pages.dev/topics/page_1586.html
+}}

@@ -1,0 +1,4 @@
+<includeonly>{{#invoke:FAQ|cards}}</includeonly><noinclude>
+官方 FAQ 小卡片：<code><nowiki>{{FAQ|编号|编号…}}</nowiki></code>，编号是 Paizo 原文锚点（如 <code>v5748eaic9t8o</code>）。卡片内容（中文问题、回答、出处、日期、Paizo 原文链接）在 [[模块:FAQ]] 的数据分片里，按书汇总见 [[官方FAQ]]。插在条目页讲到的那一节末尾；一条一页的条目（法术、专长、物品……）插在正文后面。
+[[分类:模板]]
+</noinclude>

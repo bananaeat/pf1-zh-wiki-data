@@ -1,0 +1,8 @@
+{{Trait
+|name=艾巴萨罗姆的门卫
+|english_name=Absalom Bouncer
+|type=战斗
+|description=你在艾巴萨罗姆的酒馆里当门卫时学会了战斗，让客人们在酒吧的血腥斗殴中存活是你工作的一部分。当你以[[徒手打击]]进行造成[[非致命伤害]]的攻击时，你的伤害骰获得+1加值。
+|source_name=进化职业起源
+|source_url=https://pf1chm.pages.dev/topics/zhc202b8be39.htm
+}}

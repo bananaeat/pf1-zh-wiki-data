@@ -1,0 +1,9 @@
+{{Trait
+|name=双学位
+|english_name=Cross-Disciplined
+|type=魔法
+|description=你的广泛涉猎使你对特定法术的施展受益良多。每日1次，你能够在施展一个已准备好、且同时位于魔战士和法师法术列表中的法术时，将施法者等级视为高于实际1级。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

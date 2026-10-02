@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=致残打击
+|english_name=Crippling Blow
+|type=Ex
+|class=掉链野蛮人
+|benefit=每日一次，当野蛮人命中时，她可以额外造成1点力量或敏捷的[[属性伤害]]。该伤害值每4级提升1点。野蛮人至少要达到第8级后才能选择此狂暴之力。
+|classic=致残猛击
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

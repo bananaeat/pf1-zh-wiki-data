@@ -1,0 +1,9 @@
+{{Trait
+|name=不屈不挠
+|english_name=Indomitable
+|type=派系
+|description=你的强壮、自信和骄傲使你更能抵御支配与控制。你在对抗附魔系法术和效果时，豁免检定获得+1背景加值。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

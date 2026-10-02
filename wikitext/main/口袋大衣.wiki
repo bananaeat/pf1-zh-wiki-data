@@ -1,0 +1,15 @@
+{{魔法物品
+|name=口袋大衣
+|english_name=Coat of Pockets
+|aon=MagicWondrousDisplay.aspx?FinalName=Coat of Pockets
+|cat=奇物
+|aura=中等咒法系
+|cl=9
+|slot=胸部
+|price=2,500 gp
+|weight=7磅
+|description=这件黑灰色的羊毛大衣仅正面就有十几个口袋，内侧的口袋更多。跨次元魔法会让放进某个口袋的任何东西立即出现在另一个随机决定的口袋里。穿着这件大衣的角色在隐藏身上小物件的[[巧手]]检定上获得+5环境加值。但是，如果穿着口袋大衣的角色把任何东西放进大衣的某个口袋，她必须花费一个[[标准动作]]（而不是[[移动动作]]）才能取回它。
+|req=[[制造奇物]]、[[秘藏箱]]
+|cost=1,250 gp
+|source=初探探索者协会、极限诡道
+}}

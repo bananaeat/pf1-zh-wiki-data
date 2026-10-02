@@ -1,0 +1,13 @@
+{{Spell
+|name=木翼之盾
+|english_name=WOODEN WING SHIELD
+|school=变化系
+|levels=召唤师 4;德鲁伊 4;猎人 4;萨满 4;血脉狂怒者 4;魔战士 5
+|action=直觉动作
+|components=姿势
+|range=个人
+|target=自己
+|duration=1轮/等级或直到你移动
+|description=你的翅膀会变成一面木制屏障，类似于[[塔盾]]，可以阻挡攻击，让你在AC上得到+4的盾牌加值。如果你移动，此法术立即结束。
+|source=极限荒野
+}}

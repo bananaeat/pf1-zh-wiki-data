@@ -1,0 +1,17 @@
+{{Spell
+|name=魅惑怪物
+|english_name=Charm Monster
+|school=惑控系 (魅惑)
+|tags=影响心灵
+|levels=催眠师 3;召唤师 3;吟游诗人 3;歌者 3;召唤师（掉链） 4;奥能师 4;女巫 4;异能者 4;术士 4;法师 4;秘学士 4
+|domains=魅惑领域 5
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一个活物
+|duration=1天/等级
+|save=意志，通过则无效
+|sr=是
+|description=该法术的功能如同[[魅惑人类]]一般，不过法术效果不受生物类型和体型的限制。
+|source=核心规则书
+}}

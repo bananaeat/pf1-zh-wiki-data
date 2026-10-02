@@ -1,0 +1,11 @@
+{{消歧义|遗迹学者}}
+{{Trait
+|name=考古师
+|english_name=Scholar of Ruins
+|type=种族
+|prerequisites=[[人类]]
+|description=从学会走路说话起，远古文明的遗迹就迷倒了你。正因如此，你在地理学和探索古迹方面有着独到的洞察力。你的知识(地理)和知识(地城)检定获得+1背景加值，并且总能将二者之一(自行选择)视为你的[[本职技能]]。
+|source_name=种族背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

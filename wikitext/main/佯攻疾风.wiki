@@ -1,0 +1,15 @@
+{{Feat
+|name=佯攻疾风
+|english_name=Feinting Flurry
+|categories=战斗
+|description=你用微妙的动作误导你的敌人，让他陷入[[措手不及]]。
+|prerequisites=[[敏捷]] 15，疾风连击职业能力，寓守于攻。
+|benefit=当你使用疾风[[武僧#疾风连击|连击]]的时候，你可以牺牲你的第一击，发动一次唬弄检定进行佯攻。
+|source=DEP
+|source_name=初探龙国
+|source_url=https://pf1chm.pages.dev/topics/page_530.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[精通佯攻疾风]]（1 个条目）

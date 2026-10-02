@@ -1,0 +1,14 @@
+{{Spell
+|name=转进战术
+|english_name=Fallback Strategy
+|school=防护系
+|levels=先知 1;圣武士 1;审判者 1;战斗祭司 1;牧师 1;魔战士 1
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=个人
+|target=你
+|duration=1分钟/等级或消解，见下文
+|sr=否
+|description=当这个法术被激活时，你可以在得知检定结果之前，重投一次攻击检定、[[战技]]检定或技能检定。你必须采用重投的结果，即使它比原来的结果更糟。一旦你使用这次重投机会，这个法术的效果就消解了。你无法同时启动多于一个转进战术的效果。
+|source=内海诸神
+}}

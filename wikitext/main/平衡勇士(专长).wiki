@@ -1,0 +1,13 @@
+{{Feat
+|name=平衡勇士
+|english_name=Champion of Balance
+|categories=阵营
+|pfs=否
+|description=你致力于在多元宇宙中维持完美平衡。
+|prerequisites=10生命骰，绝对中立阵营。
+|benefit=你在对抗善良与邪恶生物时的武器与法术伤害检定获得+2加值；在对抗守序与混乱生物时亦获得+2加值。这些加值可以叠加。
+|residual=若你不再是中立阵营，则无法从本专长获得任何加值。
+|source=PU
+|source_name=解放者
+|source_url=https://pf1chm.pages.dev/topics/zh771c8090a9.htm
+}}

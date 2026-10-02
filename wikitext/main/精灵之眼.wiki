@@ -1,0 +1,13 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[精灵之眼 (神话)]]。</small></div>
+{{Feat
+|name=精灵之眼
+|english_name=Elven Accuracy
+|categories=战斗
+|description=你那敏锐的视觉使得困难的射击变得从容。
+|prerequisites=精灵。
+|benefit=如果你使用[[长弓]]或[[短弓]]（包括复合弓）进行远程攻击，却由于[[隐蔽]]而失手，那么你能够重新投掷一次失手率检定来看看你是否真的命中。
+|stamina=花费5点耐力，你可在重投失手检定时自动通过。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

@@ -1,0 +1,19 @@
+{{魔法物品
+|name=祝福之杖
+|english_name=Staff of Blessed Relief
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Blessed Relief
+|cat=法杖
+|aura=微弱咒法系
+|cl=8
+|slot=无
+|price=7,200 gp
+|weight=5磅
+|description=年轻的神职人员初次踏入世间、传播信仰所倡导的慈善时，会获赠这根朴素的木杖。该法杖可以使用以下法术：
+
+* [[造水术]]（1 发）
+* [[稳定伤势]]（1 发）
+* [[祝福术]]（2 发）
+|req=[[制造法杖]]、[[祝福术]]、[[造水术]]、[[稳定伤势]]
+|cost=3,600 gp
+|source=极限宝具
+}}

@@ -1,0 +1,10 @@
+{{武器
+|name=腐疫弹
+|english_name=Plague bundle
+|category=攻城兵器
+|wcat=弹药
+|price=80 gp
+|weight=20磅
+|description=这只坚硬的瓷罐内装满了高致病性的腐尸和内脏等秽物，可以作为投石车或抛石机的弹药。它仅造成一半伤害，但每个被其击中的生物都会暴露于腐热症（《核心规则书》557页）。GM可以决定让腐疫弹传播其他疾病。
+|source=极限战斗
+}}

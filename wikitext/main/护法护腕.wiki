@@ -1,0 +1,15 @@
+{{魔法物品
+|name=护法护腕
+|english_name=Spellguard Bracers
+|aon=MagicWondrousDisplay.aspx?FinalName=Spellguard Bracers
+|cat=奇物
+|aura=微弱防护系
+|cl=4
+|slot=腕部
+|price=5,000 gp
+|weight=1磅
+|description=这种护腕通常用染成蓝色的皮革制成，缀有星形铆钉，常被在激烈战斗中施法的施法者使用。护腕使穿戴者在[[防御式施法]]的专注检定上获得+2加值。每天三次，穿戴者可以选择在进行防御式施法的专注检定时骰两次，取较好的结果。
+|req=[[制造奇物]]、[[战斗施法]]、[[戒卫武器]]（极限战斗）
+|cost=2,500 gp
+|source=极限宝具
+}}

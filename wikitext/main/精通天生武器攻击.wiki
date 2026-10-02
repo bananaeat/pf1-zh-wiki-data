@@ -1,0 +1,12 @@
+{{Feat
+|name=精通天生武器攻击
+|english_name=Improved Natural Attack
+|pfs=否
+|description=这个生物的天生武器可以造成可怕的伤害。
+|prerequisites=拥有天生武器攻击，基本攻击加值+4。
+|benefit=选择一种你拥有的天生武器攻击（不可以是徒手打击），其可造成的伤害投骰按以下列表提升一个体型等级：1d2，1d3，1d4，1d6，1d8，2d6，3d6，4d6，6d6，8d6，12d6。如果天生武器的起始伤害为1d10，则依据此表：1d10，2d8，3d8，4d8，6d8，8d8，12d8。
+|special=生物可以多次选择本专长，每次选择本专长时，它必须将之应用在一项新的天生武器攻击上。
+|source=B1
+|source_name=怪物图鉴
+|source_url=https://pf1chm.pages.dev/topics/page_201.html
+}}

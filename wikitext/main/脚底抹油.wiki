@@ -1,0 +1,15 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[脚底抹油 (神话)]]。</small></div>
+{{Spell
+|name=脚底抹油
+|english_name=Expeditious Retreat
+|school=变化系
+|levels=催眠师 1;召唤师 1;召唤师（掉链） 1;吟游诗人 1;唤魂师 1;奥能师 1;审判者 1;异能者 1;术士 1;歌者 1;法师 1;炼金术师 1;秘学士 1;红螳螂杀手 1;血脉狂怒者 1;调查员 1;通灵者 1;魔战士 1
+|domains=灵使子域 1;探索子域 1
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|target=自己
+|duration=1分钟/等级 (可解消)
+|description=该法术可将你的基本陆上速度提高30尺。这个调整视作增强加值。对其他移动方式没有影响，如：掘地、攀爬、飞行或游泳。不过与任何能够增加速度的效果一样，该法术的效果能够增加你跳跃的距离 (见特技技能)。
+|source=核心规则书
+}}

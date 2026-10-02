@@ -1,0 +1,11 @@
+{{Feat
+|name=凶恶重击
+|english_name=Savage Critical
+|pfs=否
+|description=你可以以沉重的一击打中敌人的要害，瞬间将他击溃
+|prerequisites=力量19，食人魔，偷袭+2d6
+|benefit=当你使用[[要害打击]]专长命中一个生物，或对对手确认了一次重击时，你把偷袭伤害加入该次攻击的伤害中。本专长对已经能够加入偷袭伤害的攻击无效。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1410.html
+}}

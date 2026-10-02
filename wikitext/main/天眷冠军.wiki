@@ -1,0 +1,9 @@
+{{Trait
+|name=天眷冠军
+|english_name=Favored Champion
+|type=种族
+|prerequisites=[[人类]]（休盎提人）
+|description=来自祖先灵魂的预兆指示你会成为对抗你部族之敌的强大战士。每天一次，以一个[[直觉动作]]，当你进行一个[[战技]]检定失败时，你可以重投这个战技。你必须接受第二次结果即便它更糟。
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh3a98986c0e.htm
+}}

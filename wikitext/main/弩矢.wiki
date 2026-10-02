@@ -1,0 +1,10 @@
+{{武器
+|name=弩矢
+|english_name=Crossbow bolts (10)
+|category=弹药
+|wcat=弹药
+|price=1 gp
+|weight=1磅
+|description=弩矢用作近战武器时，视为轻型临时武器（攻击检定-4），并造成与同体型匕首相同的伤害（重击倍率×2）。弩矢装在匣子或箭袋里，每份10支。除连射弩外，所有弩都使用这种弩矢，它们有时也被称为“quarrel”。
+|source=核心规则书、极限宝具
+}}

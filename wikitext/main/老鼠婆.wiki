@@ -1,0 +1,24 @@
+{{速查导航|here=神祇}}
+{{神祇
+|name=老鼠婆
+|english_name=Lao Shu Po
+|title=老鼠婆婆（Old Rat Woman）
+|alignment=中立邪恶（NE）
+|weapon=匕首
+|portfolio=夜晚，鼠类，窃贼
+|domains=[[动物领域|动物]]，[[黑暗领域|黑暗]]，[[邪恶领域(领域)|邪恶]]，[[机运领域|机运]]，[[诡术领域|诡术]]
+|subdomains=[[机运领域#诅咒子域 (Curse)|诅咒子域]]，[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[动物领域#毛兽子域 (Fur)|毛兽子域]]，[[诡术领域#贪婪子域 (Greed)|贪婪子域]]，[[黑暗领域#失却子域 (Loss)|失却子域]]，[[黑暗领域#暗夜子域 (Night)|暗夜子域]]，[[诡术领域#盗窃子域 (Thievery)|盗窃子域]]
+|symbol=蜷缩枯瘦的老鼠
+|animal=老鼠
+|centers=幽暗地域，Goka，Kwanlai，Minata，深汶（Shenmen），Wanshou
+|nationality=鼠
+|pantheon=天夏神祇
+|source=龙国舆图
+}}
+{{AI翻译|nocat=1|卡片中的称号、圣徽、圣兽、崇拜中心由 AI 照 AoN 英文译出，未经人工校对。}}
+
+== 信徒可用 ==
+* '''魔法物品（武器）'''：鼠群盛宴（Feast of Rats）
+{{AI翻译|nocat=1|本节由 AI 照 AoN 英文译出，未经人工校对。}}
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Lao%20Shu%20Po|2=Lao Shu Po}}

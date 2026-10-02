@@ -1,0 +1,10 @@
+{{Feat
+|name=阿修罗之型
+|english_name=Asura Style
+|categories=战斗;流派
+|description=亵渎神灵是你的天性。当你打断敌方神术时，你用被其信仰厌弃的词汇、符文或手势，使得他们被你的行为所驱逐。
+|prerequisites=感知13，精通徒手打击，基础攻击加值+5或5级武僧
+|benefit=当你使用一件武僧武器或徒手打击攻击一个正在施放神术的目标时，目标陷入恶心状态，持续1d4轮。目标可以尝试进行一次强韧豁免（DC=10+1/2你的角色等级+感知调整值）将恶心状态的持续时间降低至1轮。
+|source_name=位面旅者手册
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

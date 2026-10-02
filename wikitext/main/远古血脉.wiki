@@ -1,0 +1,15 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[远古血脉 (神话)]]。</small></div>
+{{Feat
+|name=远古血脉
+|english_name=Racial Heritage
+|description=除了[[人类]]之外，还有其他先祖的血脉在你体内流淌。
+|prerequisites=人类。
+|benefit=选择一种其他的类人种族。在判断任何与种族相关的效果时，你被同时视为该种族和人类。例如，如果你选择[[矮人]]，那么在选择[[背景特性]]，专长，法术与魔法物品对你的作用等等内容时，同时被认为是人类和矮人。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}
+
+{{FAQ|v5748eaic9pka}}
+
+{{FAQ|v5748eaic9vhk}}

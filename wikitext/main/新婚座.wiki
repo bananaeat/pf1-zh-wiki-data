@@ -1,0 +1,11 @@
+{{Trait
+|name=新婚座
+|english_name=The Newlyweds
+|type=宇宙
+|aliases=15-21 新婚座
+|prerequisites=卡莉兹翠(Calistril)17日-法拉斯特(Pharast)11日(译注： 2月17日-3月11日)
+|description=你的星座是两位交织在一起的恋人。对于可能被你所吸引的人，你的交涉检定获得+2加值。并且交涉成为你的[[本职技能]]。
+|source_name=宇宙背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zhc3ea784a66.htm
+}}

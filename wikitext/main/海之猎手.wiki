@@ -1,0 +1,11 @@
+{{Feat
+|name=海之猎手
+|english_name=Sea Hunter
+|categories=战斗
+|description=你的攻击让游泳中的对手失去平衡。
+|prerequisites=[[寓守于攻]]，人鱼。
+|benefit=当你对一名正在游泳的目标进行了一次成功的近战攻击时，你可以以一个[[自由动作]]尝试让目标失去平衡。将这个动作视作一个[[摔绊]][[战技]]。若你成功，目标会被视为失去平衡（参见[[水下战斗]]规则）直到它重新恢复平衡（通常是在它的行动轮进行一次游泳检定）。这一专长对具有游泳速度的、处于[[行动自如]]或类似魔法效果、以及无法被摔绊的生物无效。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

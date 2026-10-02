@@ -1,0 +1,12 @@
+{{Feat
+|name=网叉并用
+|english_name=Net and Trident
+|categories=战斗
+|description=你能在挥舞你的网时熟练地使用轻型武器。
+|prerequisites=敏捷15，[[擅长异种武器]]（网），[[捕网熟练]]，双武器格斗。
+|benefit=你可以将网作为一件单手远程武器使用，这允许你再装备一件轻型或单手近战武器，同时仍可以使用网进行远程攻击。当你使用你的轻型或单手近战武器攻击一个陷入[[纠缠]]的敌人时，你的伤害掷骰和用于确认重击的攻击检定获得+2加值。
+|normal=网是一种双手远程武器。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

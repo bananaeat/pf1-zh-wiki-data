@@ -1,0 +1,11 @@
+{{Feat
+|name=强韧活力
+|english_name=Fortuitous Vigor
+|categories=战斗
+|description=你的决心和热诚帮助你忘却了多数严重的伤害并且迎难而上继续对抗你的敌人
+|prerequisites=[[体质]] 13，[[战斗活力]]，人物等级4
+|benefit=你的活力池获得1点活力点。每当你在属性检定，攻击检定，豁免检定或者技能检定时天然投掷出20，或者每当你投掷出了重击威胁，你能以一个[[迅捷动作]]，花费1点或者更多的活力点，根据[[战斗活力]]所描述的情况来恢复生命值。
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_704.html
+}}

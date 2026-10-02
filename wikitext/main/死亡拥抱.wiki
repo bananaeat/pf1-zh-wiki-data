@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=死亡拥抱|en=Death's Embrace|type=Ex|domain=死亡领域|source=核心规则书|text=在8级时，你能从（他人或自己的）引导负能量中获得治疗，而不是受到伤害。若该引导负能量是为了治疗不死生物，则你也会如同范围内的不死生物一般获得治疗。}}<noinclude>
+
+[[分类:领域]]</noinclude>

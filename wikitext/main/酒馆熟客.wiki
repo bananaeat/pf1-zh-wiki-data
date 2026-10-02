@@ -1,0 +1,10 @@
+{{Feat
+|name=酒馆熟客
+|english_name=Tavern Regular
+|pfs=否
+|description=你在你常去的酒吧中赫赫有名，那里的酒保们都记得你。
+|prerequisites=[[魅力]] 14
+|benefit=你在一家酒吧中消费满500gp后在该处消费打九折。并且，如果在酒吧发生了一起群架，你在使用嫁祸时获得+2加值。在你没有尝试嫁祸的行动轮，人群对你的坚挺值损失只有1d4（取代一般的数量）。
+|source_name=内海酒馆
+|source_url=https://pf1chm.pages.dev/topics/zh5b451adebe.htm
+}}

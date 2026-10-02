@@ -1,0 +1,10 @@
+{{Trait
+|name=护卫兵
+|english_name=Militia Veteran
+|type=地区
+|prerequisites=任意村镇
+|description=你初出茅庐的第一份差事就是作为守护家园的民兵。从日常训练和护卫任务中学到的技巧使你对军旅生涯有了更深刻的洞悉。选择以下一项技能：专业(士兵)、骑术或生存。你在该技能上获得+1背景加值，并且总能将其视为你的[[本职技能]]。
+|source_name=地区背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

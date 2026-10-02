@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Ironfang Invasion Player's Guide pg. 8），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=倦世者
+|english_name=World-Weary
+|type=战役
+|pfs=否
+|description=你见识过战争的恐怖，并曾希望那已是战争的终结。你已从战斗中退了下来——很可能是从与摩尔苏恩对峙的前线，也可能是从终焉之墙的圣战或乌斯塔拉夫的政治内斗中——如今只想保护和供养你所关心的人。你从以下技能中选择一项，作为永久的本职技能：[[估价]]、[[医疗]]、[[知识]]（历史）、[[察言观色]]或[[生存]]。当你执行协助他人动作来提升一个生物的防御等级时，你让它的AC提高+4，而非+2。
+|source_name=Ironfang Invasion Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=World-Weary
+}}

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kingmaker Player's Guide pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=剑之传人
+|english_name=Sword Scion
+|type=战役
+|pfs=否
+|description=你一生都生活在雷斯托夫城及其周边，听着希里安·奥多里男爵以及你家乡那些英勇而传奇的剑豪们的事迹长大。也许你的某位家人曾是奥多里剑豪，也许你在他们当中有熟人，又或者你从小就梦想加入他们。无论如何，你崇拜奥多里的英雄、流派与理念，并努力模仿他们备受推崇的技艺。然而在你申请加入他们的行列之前，你觉得必须先考验一下自己的本事。加入深入失窃之地的远征，似乎是磨练技艺、开创一段足以媲美奥多里男爵的传奇的绝佳途径。你在游戏开始时拥有一把长剑或奥多里决斗剑，并且你用这类武器进行的所有攻击和战技获得+1背景加值。
+|source_name=Kingmaker Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Sword%20Scion
+}}

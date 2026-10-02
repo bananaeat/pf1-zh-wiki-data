@@ -1,0 +1,11 @@
+{{Feat
+|name=推进强袭
+|english_name=Pushing Assault
+|categories=战斗
+|description=你用双手武器发出的打击能够将体型相近的敌人打退。
+|prerequisites=力量15，[[猛力攻击]]，基本攻击加值+1。
+|benefit=当你使用双手武器命中体型不大于你的生物，并且该攻击应用了[[猛力攻击]]专长时，你可以选择将目标推开5尺来替代猛力攻击带来的额外伤害。如果你成功造成重击，则能够将目标推开10尺。这个移动不会引发[[借机攻击]]，并且目标必须在移动结束时处于能够站立的安全空间。你可以在进行攻击检定之后选择产生何种效果，但是必须在进行伤害检定之前选择。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

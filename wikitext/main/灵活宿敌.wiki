@@ -1,0 +1,12 @@
+{{Feat
+|name=灵活宿敌
+|english_name=Flexible Foe
+|categories=战斗
+|description=你的专业技术可以扩展到其他的敌对目标身上。
+|prerequisites=宿敌职业能力，[[宿敌]]（任意异界生物或类人生物亚种），基础攻击加值+5
+|benefit=每天一次以一个[[迅捷动作]]，你可以更换一种你作为宿敌的类人生物或异界生物的亚种类型。举例来说，你可以将宿敌（[[精灵]]）换成宿敌（[[矮人]]）。无论你本身的宿敌加值多高，更换之后你只有+2宿敌加值。本专长的效果持续相当于你的角色等级的轮数。
+|special=你可以多次选择本专长，获得的额外使用次数叠加。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

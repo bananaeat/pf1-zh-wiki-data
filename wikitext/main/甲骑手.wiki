@@ -1,0 +1,9 @@
+{{Trait
+|name=甲骑手
+|english_name=Armored Rider
+|type=战斗
+|description=柯莱士的游牧民族更喜欢板鳞护甲，因为它兼具保护能力和灵敏度。
+|benefit=你在骑乘检定中获得+1背景加值，骑乘成为你的[[本职技能]]。当你穿着轻甲或中甲时，在骑乘检定上不承受盔甲检定减值。
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/zh86d18c6ceb.htm
+}}

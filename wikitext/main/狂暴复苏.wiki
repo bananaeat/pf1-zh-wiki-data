@@ -1,0 +1,10 @@
+{{Feat
+|name=狂暴复苏
+|english_name=Recovered Rage
+|description=每有一个敌人倒在你的[[战斧]]下，你的怒火就会再次烧旺。
+|prerequisites=狂暴或战怒之歌职业能力
+|benefit=当你处于狂暴状态或正在使用战怒之歌时，使一个HD不少于你的人物等级一半的敌人的生命值降低到0或以下，你恢复1轮狂暴或战怒之歌的使用时间（如果你同时拥有这两个能力，则由你选择恢复哪一个）。你每日通过此专长恢复的狂暴或战怒之歌轮数不能超过你每日的轮数上限，你的剩余轮数也绝不能因此超过上限。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

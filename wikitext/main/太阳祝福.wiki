@@ -1,0 +1,5 @@
+{{消歧义|太阳祝福(战斗祭司祝福)}}
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=太阳祝福|en=Sun's Blessing|type=Su|domain=太阳领域|source=核心规则书|text=每当你引导正能量以伤害不死生物时，造成的伤害增加“你的牧师等级”。在你引导正能量时，不死生物的引导抗力无法被加到其豁免上。}}<noinclude>
+
+[[分类:领域]]</noinclude>

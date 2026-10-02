@@ -1,0 +1,9 @@
+{{Trait
+|name=弯曲的身体
+|english_name=Bent Body
+|type=种族
+|prerequisites=[[魔裔]]（野兽之子）
+|description=尽管实际上你的骨骼和四肢没有完全反拧，它们却略有歪曲。当你在对抗[[擒抱]]时，CMD获得+2背景加值。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_832.html
+}}

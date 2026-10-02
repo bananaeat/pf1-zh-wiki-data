@@ -1,0 +1,15 @@
+{{魔法物品
+|name=石像鬼之翼
+|english_name=Wings of the Gargoyle
+|aon=MagicWondrousDisplay.aspx?FinalName=Wings of the Gargoyle
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=肩部
+|price=72,000 gp
+|weight=3磅
+|description=这副布质肩带上缝着许多小卵石。穿戴者可以命令肩带展开一对由坚硬灰色石头制成的翅膀。这对翅膀赋予穿戴者60尺的飞行速度（机动性：普通）。翅膀出现时，穿戴者的皮肤也会呈现出明显的石质外观，并获得DR 10/[[精金]]。穿戴者可以用一个迅捷动作收起或展开翅膀。翅膀每天最多可使用5分钟，这段时间不必连续，但必须以1分钟为单位使用。
+|req=[[制造奇物]]、[[飞行术]]、[[石肤术]]
+|cost=36,000 gp
+|source=极限宝具
+}}

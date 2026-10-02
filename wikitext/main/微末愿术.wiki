@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 197），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=微末愿术
+|english_name=Minor Wishcraft
+|type=种族
+|prerequisites=元素裔
+|description=你从一位巨灵祖先那里获得了些许许愿之术的力量。你可以消耗一次种族类法术能力或元素攻袭种族特性的每日使用次数，改为将任意一个0环法术作为类法术能力使用。该法术必须用于产生一个效果，且该效果须是自你上个回合结束以来，30尺内的一名类人生物大声提出的要求。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Minor%20Wishcraft
+}}

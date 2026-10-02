@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[降罚传送 (神话)]]。</small></div>
+{{Spell
+|name=降罚传送
+|english_name=Damnation stride
+|school=咒法系 (传送)
+|levels=召唤师 4;召唤师（掉链） 4;奥能师 5;女巫 5;术士 5;法师 5
+|tags=火
+|action=标准动作
+|components=语言
+|range=远距（400尺+40尺/等级）
+|target=你（传送）和半径10尺爆发区域内的生物（火焰爆发）（见正文）
+|duration=立即
+|save=反射，通过则减半；见正文
+|sr=否
+|description=这个法术除了在你离开后会留下火焰爆炸以外，其他功能如同[[任意门]]一般。从你站立的方格中选择一角。你传送离开的那一瞬间从你选择的位置发出10尺半径爆炸范围的火焰，造成4d6点火焰伤害。
+|source=进阶种族手册
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Agents of Evil pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=邪恶之器
+|english_name=Malign Instrument
+|type=种族
+|prerequisites=魔裔
+|description=选择一位善良阵营的神祇。当你的法术以善良阵营的异界生物，或是侍奉该神祇的神术施法者为目标时，其豁免DC提高1。
+|source_name=邪恶特务
+|source=AoE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Malign%20Instrument
+}}

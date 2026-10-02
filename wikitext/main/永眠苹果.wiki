@@ -1,0 +1,14 @@
+{{魔法物品
+|name=永眠苹果
+|english_name=Apple of Eternal Sleep
+|aon=MagicWondrousDisplay.aspx?FinalName=Apple of Eternal Sleep
+|cat=奇物
+|aura=中等惑控系
+|cl=10
+|slot=无
+|price=2,500 gp
+|description=这枚熟透的红苹果看起来新鲜而美味。若有人咬了它一口（哪怕只是尝一点点），他必须立即进行一次DC 19的意志豁免，失败则会陷入永久的沉睡，如同女巫的同名高等巫术[[永眠]]一般。只有施展[[破除结界]]、[[有限祈愿术]]、[[祈愿术]]或[[神迹术]]，或是由具有王室血统的人亲吻，才能唤醒受害者。
+|req=[[调制药剂]]、[[制造奇物]]，制造者必须是拥有[[永眠]]高等巫术的[[女巫]]
+|cost=1,250 gp
+|source=进阶玩家指南、极限宝具
+}}

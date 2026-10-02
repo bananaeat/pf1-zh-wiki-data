@@ -1,0 +1,11 @@
+{{Feat
+|name=削翼
+|english_name=Wingclipper
+|categories=战斗
+|description=你的攻击可以阻碍有翼的对手飞行。
+|prerequisites=基础攻击加值+9
+|benefit=当你对能使用翅膀飞行的对手确认一次重击时，你可以放弃额外的重击伤害来阻止他在等于两倍于你的攻击重击乘数的回合内飞行。正在飞行中的对手在遭受此重击效果后必须成功通过一个DC20的飞行检定来避免承受坠落伤害。
+|source=DH
+|source_name=屠龙者手册
+|source_url=https://pf1chm.pages.dev/topics/page_820.html
+}}

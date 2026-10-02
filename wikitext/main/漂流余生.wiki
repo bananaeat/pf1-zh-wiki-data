@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragonslayer's Handbook pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=漂流余生
+|english_name=Flotsam
+|type=地区
+|prerequisites=镣铐群岛
+|description=你是商船「优势号」覆灭后为数不多的幸存者之一。你的船员原本足以击退那些笨手笨脚的海盗袭击者，但海盗的红龙盟友却远非你们的防御所能抵挡。眼看着鲨鱼和鳗鱼吞食你倒下同伴的尸体，你发誓要亲眼看到阿沙克被杀。你对抗具有火焰描述符的法术和效果的反射豁免获得+2加值。
+|source_name=屠龙者手册
+|source=DH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Flotsam
+}}

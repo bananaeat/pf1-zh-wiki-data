@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=坚定抓勾
+|english_name=Steadfast Grapple
+|aon=MagicWondrousDisplay.aspx?FinalName=Steadfast Grapple
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=无
+|price=5,000 gp
+|weight=9磅
+|description=这个铁质[[抓勾]]系在一根50尺长的丝绳上。投出坚定抓勾时，它会自动命中绳索所及范围内任何被瞄准的物体或结构。对付生物时，使用者必须如常进行攻击检定。一旦钩住，坚定抓勾只能用DC 30的力量检定、命令字，或诸如[[解除魔法]]之类的魔法来解开。
+|req=[[制造奇物]]、[[活化绳]]、[[克敌机先]]
+|cost=2,500 gp
+|source=冒险之路55：苦艾号叛变
+}}

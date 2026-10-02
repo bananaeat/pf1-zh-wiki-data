@@ -1,0 +1,9 @@
+<noinclude>
+{{documentation}}
+</noinclude><includeonly><div id="globalSearcher" class="{{{class|}}}" data-template="{{{template|ItemListEntry}}}">
+<div class="gs-formcontainer">正在加载GlobalSearch...<br />如果长时间没有完成加载，请联系管理员</div>
+<div class="gs-infocontainer"></div>
+<div class="gs-resultcontainer"></div>
+<div class="gs-paginator"></div>
+<div class="gs-config" style="display:none" data-gsconfig='{{#invoke:gsearch|config}}'><code></code></div>
+</div></includeonly>

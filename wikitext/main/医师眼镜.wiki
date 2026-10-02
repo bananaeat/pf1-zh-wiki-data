@@ -1,0 +1,14 @@
+{{魔法物品
+|name=医师眼镜
+|english_name=Physician's Spectacles
+|aon=MagicWondrousDisplay.aspx?FinalName=Physician's Spectacles
+|cat=奇物
+|aura=微弱咒法系、预言系
+|cl=3
+|slot=眼部
+|price=4,900 gp
+|description=这种看起来毫不起眼的黄铜框[[眼镜]]装着绿色镜片，备受执业医师与冒险者的喜爱。佩戴时，它会持续赋予佩戴者察觉毒素和疾病的能力，如同侦测毒性和[[诊断疾病]]法术。此外每日1次，通过命令，佩戴者还能碰触单个生物，对其使用减缓毒发。
+|req=[[制造奇物]]、[[减缓毒发]]、[[侦测毒性]]、[[诊断疾病]]
+|cost=2,450 gp
+|source=进阶职业指南
+}}

@@ -1,0 +1,16 @@
+{{Feat
+|name=章鱼专注
+|english_name=Octopus Focus
+|categories=战斗
+|pfs=否
+|description=围绕你的敌人越多，你的攻击就越发精准
+|prerequisites=敏捷13，[[闪避]]，[[章鱼流]]，[[特技]]3级，[[察觉]]3级
+|benefit=当使用这一[[流派]]时，你因每个威胁你的敌人在近战攻击上获得可累加的+1加值，最高相当于你的敏捷调整值。另外，当你没有空出两只手的情况下尝试[[擒抱]]时，你只需要受到-2减值而非正常情况下的-4减值。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/zh366bfc623c.htm
+|source=MAH
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[章鱼鞭打]]（1 个条目）

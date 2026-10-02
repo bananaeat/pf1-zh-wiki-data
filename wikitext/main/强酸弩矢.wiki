@@ -1,0 +1,10 @@
+{{武器
+|name=强酸弩矢
+|english_name=Bolt, acid
+|category=弹药
+|wcat=弹药
+|price=40 gp
+|weight=—
+|description=这种金属弩矢的中段有一截玻璃，里面盛着强酸。成功命中时，它们造成正常伤害，并额外造成1d4点酸蚀伤害。强酸弩矢不会造成溅射伤害。
+|source=Pathfinder #15: The Armageddon Echo
+}}

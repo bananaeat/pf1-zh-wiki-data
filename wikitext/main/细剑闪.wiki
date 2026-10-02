@@ -1,0 +1,16 @@
+{{Feat
+|name=细剑闪
+|english_name=Swordplay Upset
+|categories=战斗
+|description=（[[战斗专长]]）
+你在电光石火间发动一次疾刺，让因为进攻而[[空门大开]]的对手无暇招架。
+|prerequisites=[[寓守于攻]]，[[细剑式]]，对所选武器拥有武器专攻专长，[[精通虚招]]，基础攻击加值+5
+|benefit=当开启细剑流架势时，以一个[[直觉动作]]，你可以在一个敌人对你近战攻击失手时对他发动一次[[虚招]]。
+|source=WMH
+|source_name=武器大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_370.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[细剑格]]（1 个条目）

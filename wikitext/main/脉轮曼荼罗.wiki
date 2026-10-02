@@ -1,0 +1,10 @@
+{{Feat
+|name=脉轮曼荼罗
+|english_name=Chakra Mandala
+|description=用疤痕、[[纹身]]、海娜手绘纹在你的[[脉轮]]刻上徽记以协助维持你拙火的平衡。
+|prerequisites=气池职业能力
+|benefit=如果你在维持已觉醒脉轮的强韧豁免中失败，你只受到正常伤害的一半。
+|source=OO
+|source_name=异能源始
+|source_url=https://pf1chm.pages.dev/topics/zhca50b6790c.htm
+}}

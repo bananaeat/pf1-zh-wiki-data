@@ -1,0 +1,17 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=了望塔刺青
+|english_name=Watchtower Tattoo
+|aon=MagicTattooDisplay.aspx?FinalName=Watchtower Tattoo
+|cat=魔法纹身
+|aura=中等防护系
+|cl=8
+|slot=无
+|price=9,500 gp
+|description=了望塔刺青必须纹在手背上。纹好后，它赋予持有者对邪魔的法术和类法术能力+4抗力加值，而且持有者不会被使用[[魔魂壶]]或类似效应的邪魔[[附身]]。
+
+邪魔会立刻认出任何带有这种刺青的持有者是敌人，即使印记被遮住或伪装也一样。这种厌恶可能会在邪魔的魔法或造物中引发奇怪的反应。
+|req=[[绘制魔法刺青]]、[[防护邪恶]]
+|cost=4,750 gp
+|source=尘土盛宴
+}}

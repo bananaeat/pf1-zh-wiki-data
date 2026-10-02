@@ -1,0 +1,9 @@
+{{Trait
+|name=大忽悠
+|english_name=Mind Trapper
+|type=种族
+|prerequisites=[[吸血裔]]（茉莉裔）
+|description=你魅惑的目标基本不可能无视你的甜言蜜语。在令你魅惑法术(如[[魅惑人类]]或[[魅惑怪物]]）的对象做它原本不会做的事情时，你的魅力检定获得+2背景加值。
+|source_name=夜之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_822.html
+}}

@@ -1,0 +1,18 @@
+{{装备
+|name=强酸
+|english_name=Acid
+|cat=炼金武器
+|price=10 gp
+|weight=1磅
+|craft_dc=15
+|dmg=1d6
+|crit=×2
+|range=10尺
+|type=强酸
+|special=溅射
+|description=你可以将一瓶强酸投掷出去作为溅射武器使用。这类攻击被视为射程增量为10尺的远程[[接触攻击]]。直接命中会造成1D6的酸液伤害，在5尺之内的生物都会由于酸液的飞溅而受到1点酸液伤害。
+|recipe=（10 硫磺＋8 盐＋1 硝石）／蒸馏；制作 DC 15
+|recipe_time=1 天
+|recipe_tools=蒸馏器
+|source=核心规则书、极限宝具、炼金术手册
+}}

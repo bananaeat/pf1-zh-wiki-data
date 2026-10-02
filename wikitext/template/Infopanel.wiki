@@ -1,0 +1,119 @@
+本模板（及其子模板）将用于创建一个整体全宽、内容可根据屏幕宽度进行重排的横向infobox。
+
+本模板依赖Bootstrap的[https://v3.bootcss.com/css/#grid 栅格系统]等CSS样式，因此可能无法移植到[[h:首页|灰机维基]]之外的维基中。
+
+请使用其他模板来封装该模板，不建议在文章中直接使用本模板。
+{{考古遗物信息栏
+|图片=[[file:ArchRare-DraeneiRelic.png]]
+|名称=阿古斯的最后一件圣物
+|英文名称=The Last Relic of Argus
+|遗物种类=德莱尼遗物
+|遗物级别=精良
+|所需碎片=130个
+|可用钥石=3个
+|物品描述=德莱尼从阿古斯处逃离时所带出的为数不多的几件东西之一。
+|遗物描述=这是一块外形简单的德莱尼水晶。看上去，它应该已经有了千万年的历史。你确信，它肯定不是这个世界的产物。<br /><br />[[warcraft:德莱尼|德莱尼]]在来到艾泽拉斯和德拉诺之前，他们居住在[[warcraft:阿古斯|阿古斯]]，当时他们还都是[[warcraft:艾瑞达|艾瑞达]]人。当[[warcraft:萨格拉斯|萨格拉斯]]觊觎阿古斯时，先知[[warcraft:维伦|维伦]]带着他的部分人民逃离了家园。这些人就是现在的德莱尼。剩下的艾瑞达人都成为了[[warcraft:燃烧军团|燃烧军团]]的一部分。这个朴素的水晶是维伦逃亡时从阿古斯带走的。底部铭刻着“心系[[warcraft:玛凯雷|玛凯雷]]”。
+|nocat=1}}
+*实例：[[warcraft:模板:考古遗物信息栏]]
+==文档格式说明==
+===class===
+下文中以<code>.</code>开头的代码属于class属性，带有class的参数名也只支持class格式的值。在实际使用时无需书写<code>.</code>符号。当同一个参数中需要用到多个class参数时，中间需要以空格隔开，例如{{t|infopanel/item|class=col-md-4 col-sm-6}}。
+===style===
+下文中含有style的参数仅支持CSS样式格式的值。css样式的格式为<code>属性名:属性值;属性名:属性值;</code>。我们建议style属性总是以英文半角封号<code>;</code>结束。例如{{t|infopanel/item|style=padding:15px auto;font-weight:bold;}}。
+
+本文档不提供具体的CSS样式教学。
+===栅格和屏幕宽度===
+在默认的bootstrap样式中，每一个<code>.row</code>元素将被平分为12个等宽的栏位。当同一个<code>.row</code>中的元素列宽大于12时，最后一个元素将被挤到下一行。
+
+'''下文将使用<code><列宽></code>来代表1-12中的整数宽度。'''
+
+bootstrap将屏幕分为四种宽度，其断点和代号分别为：
+#<code>xs</code>0~767px，超小屏幕，如手机；
+#<code>sm</code>768~991px，小屏幕，如平板电脑；
+#<code>md</code>992~1200px，中等屏幕，如普通电脑；
+#<code>lg</code>1200px+，大屏幕，如大型电脑显示器。
+
+'''下文将使用<code><屏宽></code>来代表以上四种宽度代号。'''
+
+==组件和参数==
+===容器===
+*使用{{t|Infopanel/start}}和{{t|Infopanel/end}}声明infopanel的起始和结束。这会生成一组<code>.row</code>的div元素。
+*{{t|Infopanel/end}}不支持任何参数，仅作为封闭使用。
+{| class="wikitable" style="width:100%"
+!style="width:6em"|参数
+!style="width:6em"|类型
+!style="width:6em"|默认值
+!style=""|说明
+|-
+|class||class||无||填写需要为该元素增加的class。
+|-
+|style||style||无||填写需要为该元素增加的style。
+|}
+请务必使用{{t|Infopanel/end}}封闭该标签。
+
+===元素===
+*使用{{t|infopanel/item}}定义栅格中的元素。这会生成一组<code>.col-<屏宽>-<列宽></code>的div元素。
+*当无名参数1为空时，该元素会整体不显示。
+*使用<code>lg</code>、<code>md</code>、<code>sm</code>、<code>xs</code>定义该元素在不同屏幕宽度下所占的栅格数。
+*使用<code>class</code>参数来为item单独定义其他的类。例如你可以使用<code>.hidden-<屏宽></code>使该item在指定宽度下不显示，或使用<code>.visible-<屏宽>-<列宽></code>来使该item仅在指定屏宽下以指定列宽显示。
+*你可以在{{t|infopanel/item}}中再次使用一对{{t|Infopanel/start}}和{{t|Infopanel/end}}来嵌套下一级栅格。该栅格将被再次分为12栏。
+*如果内容太多，你可以使用{{t|infopanel/item/start}}和{{t|infopanel/item/end}}来包裹内容部分。该替代方案生成的内容总是会显示，而不会根据内容进行隐藏。
+{| class="wikitable" style="width:100%"
+!style="width:6em"|参数
+!style="width:6em"|类型
+!style="width:6em"|默认值
+!style=""|说明
+|-
+|class||class||无||填写需要为该元素增加的class。
+|-
+|style||style||无||填写需要为该元素增加的style。
+|-
+|xs||整数（1~12）||12||填写在xs屏幕下占用的栏宽。
+|-
+|sm||整数（1~12）||6||填写在sm屏幕下占用的栏宽。
+|-
+|md||整数（1~12）||3||填写在md屏幕下占用的栏宽。
+|-
+|lg||整数（1~12）||3||填写在lg屏幕下占用的栏宽。
+|-
+|无名参数1||wikitext||无||填写该元素的内容。}}{{t|infopanel/item/start}}不支持该参数。}}<br />内容中的第一个等号可能会被认为是参数标识，因此，请（三选一）：
+*使用<code>1=参数内容</code>将其转化为命名参数；
+*使用<code><nowiki>{{=}}</nowiki></code>模板取代内容中的等号。
+*使用{{t|infopanel/item/start}}和{{t|infopanel/item/end}}书写元素内容。
+|-
+|label||wikitext||无||如果填写了label，该元素将显示为<code><nowiki>{{{label}}} : {{{1}}}</nowiki></code>的样式。{{mbox
+|text={{t|infopanel/item/start}}不支持该参数。}}
+|-
+|labelclass||class||无||如果填写了label，labelclass可以为label的容器增加class。{{mbox
+|text={{t|infopanel/item/start}}不支持该参数。}}
+|-
+|labelstyle||style||无||如果填写了label，labelstyle可以为label的容器增加style。{{mbox
+|text={{t|infopanel/item/start}}不支持该参数。}}
+|-
+|valueclass||class||无||为内容的容器增加class。{{mbox
+|text={{t|infopanel/item/start}}不支持该参数。}}
+|-
+|valuestyle||style||无||为内容的容器增加style。{{mbox
+|text={{t|infopanel/item/start}}不支持该参数。}}
+|}
+
+===强制换行===
+*使用{{t|infopanel/clearfix}}强制要求该模板之后的item换行。
+*该模板的class参数同样支持<code>.hidden-<屏宽></code>和<code>.visible-<屏宽>-<列宽></code>参数，以控制该换行符的生效情境。
+{| class="wikitable" style="width:100%"
+!style="width:6em"|参数
+!style="width:6em"|类型
+!style="width:6em"|默认值
+!style=""|说明
+|-
+|class||class||无||填写需要为该元素增加的class。
+|-
+|style||style||无||填写需要为该元素增加的style。
+|}
+===固定某栏宽度===
+*本模板生成的栏均使用百分比定位，因此无法固定某一栏的宽度。
+*解决方法是使用表格进行辅助布局，此处不再赘述。
+==参考资料==
+*[[warcraft:模板:考古遗物信息栏]]
+*[[warcraft:模板:考古遗物分类信息栏]]
+*[https://v3.bootcss.com/css/#grid 栅格系统]

@@ -1,0 +1,10 @@
+{{Feat
+|name=暴力解法
+|english_name=Destructive Dispel
+|description=当你解除了一个敌人的魔法防御，崩溃的魔法能量将对他造成冲击。
+|prerequisites=可以施展‘解除魔法’或‘高等解除魔法’，施法者等级11。
+|benefit=当你成功的对一个敌人进行了一次目标性的[[解除魔法]]检定，该敌人必须进行一次强韧检定（DC为该次解除魔法的DC），否则将陷入[[震慑]]状态直到下一轮你行动开始。如果豁免成功，敌人只会陷入[[恶心]]状态，持续到下一轮你行动开始。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

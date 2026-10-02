@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[闪电反射]] 的神话版本。</small></div>
+{{Feat
+|name=闪电反射
+|english_name=Lightning Reflexes
+|categories=神话
+|description=你的反应力超越常人。
+|prerequisites=[[闪电反射]]
+|benefit=每当你在对抗由非神话来源产生的法术、类法术能力或者超自然能力的反射豁免时，做两次检定并取较高结果。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

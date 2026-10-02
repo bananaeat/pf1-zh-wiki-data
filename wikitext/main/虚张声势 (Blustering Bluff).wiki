@@ -1,0 +1,12 @@
+{{消歧义|虚张声势}}
+{{Feat
+|name=虚张声势
+|english_name=Blustering Bluff
+|description=你能够以强势的口吻让他人相信离谱的谎言。
+|prerequisites=魅力 13，[[唬骗]]1级，[[威吓]]1级
+|benefit=当你使用[[唬骗]]欺骗1名敌人时，可以用盛气凌人地对该生物叫嚷，使得讲出不太可靠或过于牵强的谎言带来的减值降低5点。若你这么做，且不靠这一减值降低你的检定本不会成功，则在1d6 x 10分钟以后，被你愚弄的生物才会意识到你试图欺凌唬骗它，其对你的态度会变为不友善，而且可能会告发你或者对你采取其他行动。
+|normal=说出不太可靠的谎言的减值为-5点，过于牵强的谎言的减值为-10点。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

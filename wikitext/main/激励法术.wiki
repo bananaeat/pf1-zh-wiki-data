@@ -1,0 +1,11 @@
+{{Feat
+|name=激励法术
+|english_name=Encouraging Spell
+|categories=超魔
+|description=你的鼓舞提供盟友更大的支持。
+|prerequisites=[[魅力]] 13，交涉技能6级
+|benefit=激励法术提供的所有士气加值+1。激励法术占用比原法术环级高1环的法术位。
+|source=MTT、MagicTT
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_325.html
+}}

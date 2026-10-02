@@ -1,0 +1,11 @@
+{{Feat
+|name=大擒拿手
+|english_name=Grabbing Master
+|categories=战斗
+|description=抓着两个敌人对你来说就像压住一个家伙一样轻松。
+|prerequisites=[[拖曳手]]，[[擒拿手]]，[[精通擒抱]]，基础攻击加值+12或拳师等级8或武僧等级8
+|benefit=当你使用[[擒拿手]][[流派]]同时[[擒抱]]两个对手，你可以用擒抱来移动或伤害你所擒抱的一个或两个对手，而不是只能针对一个。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

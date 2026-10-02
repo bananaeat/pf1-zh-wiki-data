@@ -1,0 +1,11 @@
+{{Feat
+|name=杂技换位
+|english_name=Juke
+|categories=战斗
+|description=你在避开冲锋后，可以让敌人更容易受到你或盟友的攻击。
+|prerequisites=敏捷13，[[闪避]]，[[灵活移动]]，[[滑步]]
+|benefit=当敌人冲锋你时，你的AC获得+4闪避加值。若该次冲锋没有击中你并且目标停止冲锋移动时邻接于你，你可以用一个[[直觉动作]]与目标交换位置，并且直到你的下一回合结束，目标都视为被你[[夹击]]。你无法在使用[[准备动作]]准备反冲锋武器对抗冲锋时使用该专长。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}

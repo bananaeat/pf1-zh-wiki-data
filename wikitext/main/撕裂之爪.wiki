@@ -1,0 +1,10 @@
+{{Feat
+|name=撕裂之爪
+|english_name=Raking Claws
+|description=你的爪抓造成[[出血]]的伤势。
+|prerequisites=BAB+8，[[变形者]]，自然变身职业特性
+|benefit=当你使用你的主要天生武器造成穿刺或挥砍伤害时，你的对手在每轮自己的回合开始时承受1d6点[[流血伤害]]，这附加于该攻击本身造成的伤害。此流血伤害能通过DC 15的医疗技能检定或任何魔法治疗所治愈。
+|source=WO
+|source_name=荒野源始
+|source_url=https://pf1chm.pages.dev/topics/zh88d60e6387.htm
+}}

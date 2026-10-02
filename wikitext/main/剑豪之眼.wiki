@@ -1,0 +1,11 @@
+{{Trait
+|name=剑豪之眼
+|english_name=Aldori Caution
+|type=战斗
+|pfs=否
+|description=你在[[奥多里剑豪]]的指导下练习如何用剑刃防御敌人的打击。在进行防御式战斗或是[[全防御]]动作时，你在防御等级上获得+1额外的闪避加值。
+奥多里剑豪 Aldori Swordlord:奥多里剑豪所练习的决斗剑术被的伊奥巴尼安剑术流派专家与布雷斡的贵族剑士所垄断，他们也是在北阿维斯坦最受尊重的决斗家组织之一。在接近20年前，当部分反对国王的贵族家族人间蒸发以后，奥多里剑豪便开始将他们的剑技传授给那些反对统治者诺莱斯基.索托瓦的不满者们。
+|source_name=战斗背景
+|source=WMH
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

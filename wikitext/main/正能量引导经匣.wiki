@@ -1,0 +1,14 @@
+{{魔法物品
+|name=正能量引导经匣
+|english_name=Phylactery of Positive Channeling
+|aon=MagicWondrousDisplay.aspx?FinalName=Phylactery of Positive Channeling
+|cat=奇物
+|aura=中等死灵系
+|cl=10
+|slot=头饰
+|price=11,000 gp
+|description=这件物品使引导正能量的角色对不死生物造成的伤害增加+2d6。这也会使活物所受的治疗量增加相同的数值。
+|req=[[制造奇物]]，制造者必须是10级牧师
+|cost=5,500 gp
+|source=核心规则书、极限宝具
+}}

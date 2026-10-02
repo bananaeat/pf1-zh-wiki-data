@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dungeoneer's Handbook pg. 33），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=天外来历
+|english_name=Alien Origins
+|type=地区
+|pfs=否
+|prerequisites=银山
+|description=你与纽梅利亚那座名为银山的神秘外星遗迹有着某种联系，却遗忘了自己过去的一段重要经历。或许你是某位冶金师失败的实验品，或许你是一具重新被人发现、逃出山体的自动机械，又或者你源自某种同样难解的现象。无论如何，不寻常的出身让你显得与众不同，而你知道记忆中的空白正是解开过去的关键。你在游戏开始时拥有一个独特的罗盘，它并不指向北方，上面布满无法解读的异星符号——这是你唯一确知与故乡有关的物品。此外，你难以捉摸的举止使你的[[唬骗]]对抗检定获得+2背景加值。建议：可以考虑扮演《内海怪物图鉴》中的[[仿生人]]种族。
+|source_name=地城探险者手册
+|source=DH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Alien%20Origins
+}}

@@ -1,0 +1,9 @@
+{{装备
+|name=气囊
+|english_name=Air bladder
+|cat=冒险装备
+|price=1 sp
+|weight=1/2磅
+|description=气囊是长期潜水的游泳者所使用的装备，与水袋类似，但具有更好的气密性。充满气时可提供一个中型生物1轮呼吸或一个小型生物2轮呼吸所需的空气。
+|source=极限宝具
+}}

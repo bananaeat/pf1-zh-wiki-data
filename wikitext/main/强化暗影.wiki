@@ -1,0 +1,13 @@
+{{魔法物品
+|name=强化暗影
+|english_name=Shadow, Improved
+|cat=防具附魔
+|apply=护甲
+|bonus=+15,000 gp
+|aura=中等幻术系
+|cl=10
+|description=与暗影相同，但提供的是+10的表现加值。
+|req=[[制造魔法武器和防具]]、[[隐形术]]、[[沉默术]]
+|cost=+7,500 gp
+|source=核心规则书、极限宝具
+}}

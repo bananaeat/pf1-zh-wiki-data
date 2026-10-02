@@ -1,0 +1,11 @@
+{{Feat
+|name=墙角战法
+|english_name=Press to the Wall
+|categories=战斗
+|description=当你的对手无法轻易后撤时，你占据优势。
+|prerequisites=[[快步跟进]]，BAB+3
+|benefit=若你是唯一一个威胁目标的单位，你可以在决定是否[[夹击]]目标时，将邻接目标的占据一个格子的固态不可移动物体（例如柱子、树干、墙）视为正在威胁目标的盟友。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}

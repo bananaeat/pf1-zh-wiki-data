@@ -1,0 +1,47 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #77: Herald of the Ivory Labyrinth
+|authors=Wolfgang Baur
+|pages=96
+}}
+
+{{书页/简介|head=迷失于迷宫！|1=
+[[巴弗灭]]的教团遭受了致命一击，但这位恶魔领主毫不气馁。如今，他扣押了正义与勇气女神[[艾奥梅黛]]的使者。第五次十字军的英雄们必须进行迄今最危险、最大胆的任务——前往巴弗灭的深渊领域象牙迷宫，穿过其无径可循的迷宫，找到他关押被绑架使者的远古牢狱。英雄们能救出女神的信使吗？还是已经太迟？而这次绑架，是否只是恶魔领主引诱英雄们落入他手中的诡计？
+
+本册《冒险之路》延续「正义之怒」冒险之路，内容包括：
+
+* 《象牙迷宫的使者》，一部面向 15 级、7 个神话阶角色的开拓者 RPG 冒险，作者 Wolfgang Baur。
+* 审视巴弗灭——野兽、迷宫与牛头人的恶魔领主——及其阴险教团的运作，作者 Sean K Reynolds。
+* 探究被称为[[魔孽绪论|魔孽]]的污秽邪物及其在深渊中的位置，作者 Amanda Hamon。
+* 「探索者日志」中的背叛与杀戮，作者 Robin D. Laws。
+* 四种新怪物，作者 Amanda Hamon、James Jacobs、Ron Lundeen 与 Jason Nelson。
+}}
+
+'''冒险之路77：象牙迷宫的使者'''（''Pathfinder #77: Herald of the Ivory Labyrinth''）是[[冒险之路]]「正义之怒」系列的一部冒险，由 Wolfgang Baur 撰写，配套内容出自 Amanda Hamon、James Jacobs、Ron Lundeen、Jason Nelson 和 Sean K Reynolds，小说出自 Robin D. Laws，于 2014 年 1 月 29 日发售。Greg A. Vaughan 参与了本册魔法物品的创作。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+象牙迷宫的使者 @ 6
+NPC 图集 @ 58
+正义之怒宝藏 @ 62
+- [[奥泽姆圣杯]]
+- 晨花之吻
+- 使者之心
+- 深渊神话护身符
+- 终结之拥绞索
+- [[后继者圣带]]
+魔孽生态 @ 64
+[[巴弗灭]] @ 70
+探索者日志：甘美灵血（5／6） @ 76
+怪物图鉴 @ 82
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Herald of the Ivory Labyrinth
+|releases=PDF¦PZO9077E¦2014-01¦；Softcover¦PZO9077¦2014-01¦
+}}
+
+[[分类:书目]]

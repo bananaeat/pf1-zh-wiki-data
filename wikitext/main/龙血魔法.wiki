@@ -1,0 +1,12 @@
+{{Feat
+|name=龙血魔法
+|english_name=Draconic Magic
+|pfs=否
+|description=你的龙类血统为你提供了一些天生的魔力。
+|prerequisites=龙之相ARG，狗头人
+|benefit=你获得一些类法术能力，具体的法术类型则取决于你拥有的龙类颜色，这些类法术能力每天只能使用一次。这些类法术能力的DC=10+你的HD的1/2+你的魅力调整值。<br>黑龙：酸蚀之触UM*，黑暗术。<br>蓝龙：弱效幻影，电爪*。<br>绿龙：纠缠术*，造风术。<br>红龙：燃烧之手*，烟火术。<br>白龙：燃烧之手*（造成寒冷而非火焰伤害），云雾术。
+|special=你可以以此专长取代龙之息ARG或是龙之滑翔ARG专长以作为选取龙之典范ARG专长的先决条件之一。如果你同时拥有本专长和龙之典范专长，你可以每天使用两次标注了*号的类法术能力而非一次。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1408.html
+}}

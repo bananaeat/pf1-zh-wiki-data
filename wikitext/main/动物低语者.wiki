@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Ironfang Invasion Player's Guide pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=动物低语者
+|english_name=Animal Whisperer
+|type=战役
+|pfs=否
+|description=你这辈子跟动物相处的时间比跟人还多，也觉得动物更容易理解。你在[[驯养动物]]检定上获得+1背景加值，并且驯养动物始终是你的本职技能。每当你尝试「强迫」一只野生动物为你表演一项技巧时，只要它的态度为冷漠或更友好，你的背景加值就提高到+5。你可以将动物类生物作为魅惑或胁迫法术的目标，如同它们是类人生物一样；但除非你有其他能让动物理解你的能力，否则你仍须通过一次驯养动物检定来「强迫」目标，才能传达具体的要求。
+|source_name=Ironfang Invasion Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Animal%20Whisperer
+}}

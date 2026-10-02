@@ -1,0 +1,50 @@
+{{速查导航}}
+{{消歧义|坑道鼠}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=坑道鼠
+|english_name=Tunnel Rat
+|cr=5
+|xp=1,600
+|classline=侏儒游侠6
+|alignment=绝对中立
+|size=小型
+|type=类人生物
+|subtypes=侏儒
+|init=+3
+|senses=昏暗视觉，察觉+12
+|ac=19，接触 15，措手不及 15（+4 盔甲，+3 敏捷，+1 闪避，+1 体型）
+|hp=49（6d10+12）
+|fort=+6
+|ref=+8
+|will=+3；对幻术+2
+|defensive=防御训练（对巨人的AC+4闪避加值）
+|immune=毒素
+|speed=20尺
+|melee=精制品匕首 +9/+4（1d3+1/19–20）
+|ranged=+1轻弩 +12（1d6+1/19–20），或 精制品匕首 +11/+6（1d3+1/19–20）
+|special_attacks=对地精类和爬虫类类人生物的攻击检定+1，宿敌（精灵+2，地精类+4）
+|spells=已准备游侠法术（施法者等级3；专注+4）；1级——[[魔法警报]]，[[减缓毒发]]
+|tactics=<div class="ml wide"><span class="k">战斗前</span>游侠施展减缓毒发。</div><div class="ml wide"><span class="k">战斗中</span>游侠用精准射击来协助近战中的盟友。</div><div class="ml wide"><span class="k">基础数据</span>没有减缓毒发时，游侠的数据为：免疫无。</div>
+|str=12
+|dex=16
+|con=12
+|int=12
+|wis=13
+|cha=10
+|bab=+6
+|cmb=+6
+|cmd=20
+|feats=[[闪避]];[[坚忍]];[[近距射击]];[[精准射击]];[[快速装填]];[[武器专攻]]（轻弩）
+|skills=[[特技]]+8（跳跃时+4）;[[攀爬]]+6;[[知识]]（地城、自然）+10;[[知识]]（工程）+4;[[察觉]]+12;[[隐匿]]+15;[[生存]]+10
+|languages=通用语;侏儒语;木族语
+|sq=偏好地形（地下+2）;猎手羁绊（动物伙伴）;追踪+3;野性认同+6
+|combat_gear=+1炽焰箭矢（6）;树肤术药水;治疗中伤药水;发烟棒（2）
+|gear=精制品链甲衫;+1轻弩附带20支弩矢;精制品匕首;167gp
+|source=NPC志
+|family=核心职业（NPC志）
+|npc=1
+|lore=
+坑道鼠在地下蜿蜒曲折的通道里巡逻。
+}}
+{{AoN原文|1=NPCDisplay.aspx?ItemName=Tunnel Rat|2=Tunnel Rat}}

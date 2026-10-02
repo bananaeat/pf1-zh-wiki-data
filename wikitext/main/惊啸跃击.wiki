@@ -1,0 +1,9 @@
+{{Trait
+|name=惊啸跃击
+|english_name=Screaming Leap
+|type=地区
+|prerequisites=猛犸象大王之国
+|description=你家乡的岩石山麓非常适合组织跳跃式伏击，这让(你的)受害者遍体鳞伤溃不成军。当你居高临下发动一次冲锋攻击时，你在近战伤害投骰上会获得+1背景加值。每天一次，当你居高临下发动一次冲锋攻击时，你可以以[[迅捷动作]]使用威吓技能来挫败你的目标的士气。
+|source_name=进化职业起源
+|source_url=https://pf1chm.pages.dev/topics/zhc202b8be39.htm
+}}

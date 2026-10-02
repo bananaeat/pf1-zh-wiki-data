@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[冻寒金属]] 的神话版本。</small></div>
+{{Spell
+|name=冻寒金属
+|english_name=Chill Metal
+|school=变化系
+|tags=寒冷
+|levels=异能者 2;德鲁伊 2;猎人 2;秘学士 2
+|description=第2和第6轮造成的寒冷伤害增加至1d8点，第3至第5轮造成的寒冷伤害增加至2d8点。生物在每轮受到该法术造成的寒冷伤害时，还会受到1点敏捷伤害（强韧豁免，通过则无效）。
+|source=神话冒险
+}}
+[[分类:神话法术]]

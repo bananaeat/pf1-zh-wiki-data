@@ -1,0 +1,14 @@
+{{魔法物品
+|name=吸能兜帽
+|english_name=Cap of Enervation
+|aon=MagicWondrousDisplay.aspx?FinalName=Cap of Enervation
+|cat=奇物
+|aura=微弱死灵系
+|cl=5
+|slot=头部
+|price=3,500 gp
+|description=这顶松软的皮帽能让沼蜍人或其他蛙形生物，用舌头攻击击中的对象来吸取其力量。如果穿戴者在自己回合结束时，舌头粘着或正在擒抱另一个生物，被擒抱的生物力量受到-1减值，穿戴者的舌头获得5点临时生命值。该减值和临时生命值持续1分钟。目标每继续被粘住一轮，力量减值就再增加1，舌头再额外获得5点临时生命值（上限10），持续时间重置。
+|req=[[制造奇物]]、[[衰弱射线]]、[[吸血鬼之触]]
+|cost=1,750 gp
+|source=怪物志
+}}

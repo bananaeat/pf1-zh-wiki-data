@@ -1,0 +1,11 @@
+{{消歧义|獾(怪物)}}
+{{装备
+|name=獾
+|english_name=Badger
+|cat=坐骑与宠物
+|price=15 gp
+|weight=20磅
+|creature=獾(怪物)
+|description=这种凶猛的掘穴生物只是偶尔被当作宠物饲养。关于獾的更多信息见《怪物图鉴2》。
+|source=极限宝具
+}}

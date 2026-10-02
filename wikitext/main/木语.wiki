@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|极限荒野|Ultimate Wilderness}}
+'''木语'''（Green Tongue, Su）是[[操念使]]的[[原力]]。
+
+元素：木；类别：通用（Su）；等级：6；超载：0
+
+你可以和植物交谈，也可以听见它们的呢语，如同持续处于[[植物交谈]]的效果下一般。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_662.html 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Green Tongue|2=Green Tongue}}
+
+[[分类:原力]]

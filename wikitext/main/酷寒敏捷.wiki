@@ -1,0 +1,10 @@
+{{Feat
+|name=酷寒敏捷
+|english_name=Cold Celerity
+|description=你是冰封北方之子，从刺骨的寒冷和严酷的环境中汲取力量。
+|prerequisites=[[坚忍]]。
+|benefit=当处于严寒环境下（低于0°F），你的[[先攻]]检定获得+2加值，攻击检定获得+1加值。此外，在你受到寒冷伤害的那一轮之后的1轮内，你也会获得攻击检定的加值。
+|notes=''【PFS】PFS规则要求采用《冒险者指南》（AG）133页的新版本专长，就是上面这一条；AoN 现行条目只有先攻和攻击加值的效果，《北方子民》（24页）里的旧写法与此不同。''
+|source_name=北地居民
+|source_url=https://pf1chm.pages.dev/topics/zhec86407ba0.htm
+}}

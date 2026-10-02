@@ -1,0 +1,16 @@
+{{Spell
+|name=和平赞歌
+|english_name=Hymn of peace
+|school=防护系
+|tags=善良
+|levels=吟游诗人 6;歌者 6;先知 7;牧师 7
+|action=标准动作
+|components=语言;姿势
+|range=40尺
+|area=以自身为中心的40尺爆发
+|duration=1轮/等级（可解消）
+|save=意志，通过则无效
+|sr=是
+|description=被影响生物每次尝试攻击其他生物或物品，或对生物和物品进行侵略性行为和伤害性行为时都必须通过一个意志豁免。如果成功就照常攻击，如果失败就无法完成该次攻击，并失去该部分动作。不进行暴力动作的生物不受影响。
+|source=纯洁勇士
+}}

@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Skull & Shackles Player's Guide pg. 5），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=酒馆说书人
+|english_name=Barroom Talespinner
+|type=战役
+|pfs=否
+|description=你从小就听着公海上冒险与海盗的故事，以及码头边低级酒馆里老水手们唱的船歌长大。通过与上岸休假的水手交谈，你了解了当海盗是怎么一回事，也学会了自己讲故事（或进行其他海盗式的娱乐表演）。你的[[交涉]]检定和一个类别的[[表演]]检定获得+1背景加值，并且这两项技能之一成为你的本职技能。此外，每周一次，你可以进行一次DC 15的[[知识]]（本地）检定或智力检定，看看你是否知道某个流行的传奇海盗故事；讲述这个故事能使你为影响苦艾号上的NPC而进行的检定获得+1背景加值。
+
+你去了亡命港一家名叫“悍女”的酒馆，想靠讲述海上故事挣几个钱。客人们似乎对你的表演很满意，请你喝了几杯。你刚想起一个倒霉水手的故事——他的酒被下了药，随后被强征上了一艘海盗船——突然间眼前一黑。
+|source_name=Skull & Shackles Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Barroom%20Talespinner
+}}

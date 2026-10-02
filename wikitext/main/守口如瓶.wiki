@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 199），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=守口如瓶
+|english_name=Secret-Keeper (Svirfneblin)
+|type=种族
+|prerequisites=[[地底侏儒]]
+|description=你自出生起就受训绝不泄露秘密、绝不辜负任何人的信任。你在对抗会迫使你揭示秘密、或让任何人读取你心智的预言系或惑控系效应的豁免检定上获得+2背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Secret-Keeper%20%28Svirfneblin%29
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=自私引导
+|english_name=Selfish Channel
+|description=你可以为你自己储存引导的能量。
+|prerequisites=引导能量职业能力
+|benefit=当你在引导正能量治疗活物时，如果你是唯一一个被治疗的生物（一方面可能是因为范围内没有其他活物，另一方面可能是因为你使用了选择导能或者类似的效果来让范围内的其他活物不受影响），你将会比通常多回覆一半的生命值（+50%）。
+|special=如果你被负能量治疗，这个专长在你引导负能量且你为唯一被该次引导能量治疗的生物时生效。
+|source=LotFW
+|source_name=第一世界的遗产
+|source_url=https://pf1chm.pages.dev/topics/page_1080.html
+}}

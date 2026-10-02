@@ -1,0 +1,14 @@
+{{Feat
+|name=君子报仇
+|english_name=Vengeance
+|categories=故事
+|pfs=否
+|description=为所爱之人复仇是你前进的巨大驱动力。
+|prerequisites=你必须有一位近亲或其他所爱之人被一个特定的强大敌手或其爪牙杀害；或你拥有“惨遭劫掠”、“绝命复仇”等角色背景之一。
+|benefit=你对特定的敌手与其爪牙的豁免、攻击和伤害检定+1。
+|goal=妨害你的目标敌手。
+|completion_benefit=你的所有豁免检定获得+1加值。若你的敌手及其爪牙仍然存活，该加值与本专长对付他们的加值叠加。
+|source=UCa
+|source_name=极限战役
+|source_url=https://pf1chm.pages.dev/topics/page_200.html
+}}

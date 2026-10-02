@@ -1,0 +1,11 @@
+{{Feat
+|name=植物专精
+|english_name=Focused Plant Expertise
+|categories=战斗
+|description=你能快速地躲避和砍杀任何诱捕你的东西。
+|prerequisites=宿敌(植物)职业特性。
+|benefit=你在避免陷入[[纠缠]]状态的反射豁免检定上获得等于你宿敌(植物)加值一半的加值，当敌人试图[[擒抱]]你时，你的CMD获得等于你宿敌(植物)加值一半的加值。你的武器对植物类型的生物重击倍率增加1。
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh03ef2e8763.htm
+}}

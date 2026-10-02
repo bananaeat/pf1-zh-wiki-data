@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[致命瞄准]] 的神话版本。</small></div>
+{{Feat
+|name=致命瞄准
+|english_name=Deadly Aim
+|categories=神话
+|description=你的瞄准准确而致命。
+|prerequisites=[[致命瞄准]]
+|benefit=当你使用[[致命瞄准]]专长时，你的远程伤害检定会获得+3加值，而非原本的+2加值。当你的基本攻击加值达到+4，以及之后每再增加4点时，远程伤害检定会增加+3加值而非原本的+2加值。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

@@ -1,0 +1,9 @@
+{{装备
+|name=糖瓶
+|english_name=Sugar glass bottle
+|cat=工具
+|price=1 gp
+|weight=—
+|description=这个瓶子看起来是用玻璃制成的，不过它更加易碎，而且不会在砸到生物或物体时对其造成损伤。戏剧演员很看重这种道具：糖瓶为用于营造看似真实的打斗的[[唬骗]]和表演检定提供+2环境加值。
+|source=进阶职业指南
+}}

@@ -1,0 +1,155 @@
+{{速查导航}}
+<div class="well" style="margin:.2em 0"><small>神话版本见 [[神话黑龙]]（《[[神话冒险]]》）。</small></div>
+{{怪物
+|name=少年黑龙
+|english_name=Chromatic Dragon, Black
+|cr=7
+|xp=3,200
+|alignment=混乱邪恶
+|size=中型
+|type=龙类
+|subtypes=水系
+|init=+6
+|senses=龙感 dragon senses；觉察 察觉 +14
+|description=巨龙身披黑色鳞片，头上生角；绿色酸液自齿间滴下，嘶嘶作响。
+|ac=21，接触 touch 12，措手不及 flat–footed 19（+2 敏捷，+9 天生 natural）
+|hp=76（8d12 +24）
+|fort=+9
+|ref=+8
+|will=+7
+|immune=酸蚀 acid;麻痹 paralysis;睡眠 sleep
+|speed=60 尺，飞行 fly 150 尺（普通 average），游泳 60 尺
+|melee=啮咬 bite +13（1d8 +6），2 爪抓 claws +12（1d6 +4），2 翼拍 wings +7（1d4 +2）
+|special_attacks=[[通用怪物规则#喷吐武器|喷吐武器]]（60–尺 线形 line, DC 17，6d6 酸蚀 acid）
+|str=19
+|dex=14
+|con=17
+|int=10
+|wis=13
+|cha=10
+|bab=+8
+|cmb=+12
+|cmd=24（28 对抗摔绊 vs. trip）
+|feats=[[警觉]];[[精通先攻]];[[技能专攻]]（隐匿）Skill Focus;[[武器专攻]]（啮咬）Weapon Focus
+|skills=[[飞行]] Fly +13;[[驯养动物|野性认同]] Handle Animal +8;[[威吓]] Intimidate +11;[[察觉|觉察]] 察觉 +14;[[隐匿]] Stealth +16;[[游泳]] +23
+|languages=龙语 Draconic
+|sq=爬虫交谈 speak with reptiles;沼泽漫步 swamp stride;水中呼吸 water breathing
+|environment=温暖的沼泽
+|organization=单独
+|treasure=标准
+|special_abilities={{怪物能力|酸池|Su|古龙或以上的黑龙可以使用喷吐武器创造一个酸池，这是一个标准动作。酸池半径为每该龙的年龄层数 5 尺。创造酸池时该区域内的任何生物受到等于龙的喷吐武器的伤害值（反射减半）。任何接触到该酸池的生物在其行动开始时受到伤害，但可以进行反射检定以减半。每轮酸池的总伤害骰数减半，直到结果小于 1d6。酸液会漂浮在水上，并对任何接触到表面的生物或物品造成伤害。}}
+{{怪物能力|强酸啮咬|Su|老年开始，黑龙的啮咬造成额外 2d6 点酸蚀伤害。古龙的此伤害增至 4d6，太古龙则为 6d6。}}
+{{怪物能力|魅惑爬虫|Sp|太古黑龙可以使用本能力每日三次。此能力类似群体魅惑怪物术，但仅影响爬虫类动物。此能力视同 8 级法术。}}
+{{怪物能力|腐化水质|Sp|成年开始，黑龙可以淤塞 10 立方尺的水，使其变成污浊的、无法供水中呼吸生物生存的死水，每日一次。此能力可以使含水分的液体腐化。生物所携带的魔法物品（如药剂）和一般物品必须通过一个意志豁免检定（DC 等同于龙的凶威 DC）否则就会坏掉。此能力相当于一个 1 级法术。其射程与此龙的凶威射程一样。}}
+{{怪物能力|爬虫交谈|Sp|少年开始，黑龙获得恒定的类法术能力，能够与爬虫类动物交谈。此能力类似动物交谈，但仅对爬虫类生物有效。}}
+{{怪物能力|类法术能力|Sp|黑龙获得下列类法术能力，在达到对应年龄层后可以随意使用。青少年 Juvenile—黑暗术 darkness（每年龄层半径 10 尺）；老年 Old—植物滋长 plant growth；古龙 Ancient—疫病虫群 insect plague。}}
+{{怪物能力|沼泽漫步|Ex|幼龙开始，黑龙可以用正常速度穿越沼泽和流沙而不受减值。}}
+{{怪物能力|水中呼吸|Ex|黑龙可以在水中无限期的呼吸，而且在潜水时可以自由地使用其喷吐武器，法术及其他能力。}}
+|source=怪物图鉴
+|nofooter=1
+}}
+{{怪物
+|name=成年黑龙
+|english_name=Adult Black Dragon
+|cr=11
+|xp=12,800
+|alignment=混乱邪恶
+|size=大型
+|type=龙类
+|subtypes=水系
+|init=+5
+|senses=龙感 dragon senses；觉察 察觉 +24
+|aura=凶威 frightful presence（180 尺，DC 19）
+|ac=28，接触 touch 10，措手不及 flat–footed 27（+1 敏捷，+18 天生 natural，–1 体型）
+|hp=161（14d12 +70）
+|fort=+14
+|ref=+10
+|will=+12
+|dr=5/魔法 magic
+|immune=酸蚀 acid;麻痹 paralysis;睡眠 sleep
+|sr=22
+|speed=60 尺，飞行 fly 200 尺（不良 poor），游泳 60 尺
+|melee=啮咬 bite +21（2d6 +10），2 爪抓 claws +20（1d8 +7），2 翼拍 wings +15（1d6 +3），尾拍 tail +15（1d8 +10）
+|space=10 尺
+|reach=5 尺（10 尺 啮咬时 with bite）
+|special_attacks=[[通用怪物规则#喷吐武器|喷吐武器]]（80–尺 线形 line, DC 22，12d6 酸蚀 acid），腐化水质 corrupt water
+|spell_like=（施法者等级 CL 14th）；随意施展—[[黑暗术]] darkness（60–尺 半径 radius）
+|spells=已知法术（施法者等级 CL 3rd）；1st（6/每日）—[[魔法警报]] alarm，[[法师护甲]] mage armor，[[隐雾术]] obscuring mist；0（随意施展）—[[舞光术]] dancing lights，[[侦测魔法]] detect magic，[[修复术]] mending，[[传讯术]] message，[[阅读魔法]] read magic
+|str=25
+|dex=12
+|con=21
+|int=14
+|wis=17
+|cha=14
+|bab=+14
+|cmb=+24
+|cmd=33（37 对摔绊 vs. trip）
+|feats=[[警觉]];[[精通先攻]];[[精通要害打击]];[[猛力攻击]];[[技能专攻]]（隐匿）Skill Focus;[[要害打击]];[[武器专攻]]（啮咬）Weapon Focus
+|skills=[[飞行]] Fly +12;[[驯养动物|野性认同]] Handle Animal +16;[[威吓]] Intimidate +19;[[知识]]（奥秘）Knowledge+19;[[察觉|觉察]] 察觉 +24;[[法术辨识]] Spellcraft +19;[[隐匿]] Stealth +20;[[游泳]] +32
+|languages=通用语 Common;龙语 Draconic;巨人语 Giant
+|sq=爬虫交谈 speak with reptiles;沼泽漫步 swamp stride;水中呼吸 water breathing
+|environment=温暖的沼泽
+|organization=单独
+|treasure=标准
+|source=怪物图鉴
+|nofooter=1
+}}
+{{怪物
+|name=古黑龙
+|english_name=Ancient Black Dragon
+|cr=16
+|xp=76,800
+|alignment=混乱邪恶
+|size=超大型
+|type=龙类
+|subtypes=水系
+|init=+4
+|senses=龙感 dragon senses；觉察 察觉 +34
+|aura=凶威 frightful presence（300 尺，DC 25）
+|ac=38，接触 touch 8，措手不及 flat–footed 38（+30 天生 natural，–2 体型）
+|hp=297（22d12 +154）
+|fort=+20
+|ref=+13
+|will=+18
+|dr=15/魔法
+|immune=酸蚀 acid;麻痹 paralysis;睡眠 sleep
+|sr=27
+|speed=60 尺，飞行 fly 200 尺（不良 poor），游泳 60 尺
+|melee=啮咬 bite +32（2d8 +16 加 plus 4d6 酸蚀 acid），2 爪抓 claws +31（2d6 +11），2 翼拍 wings +29（1d8 +5），尾拍 tail +29（2d6 +16）
+|space=15 尺
+|reach=10 尺（15 尺 啮咬时 with bite）
+|special_attacks=酸池 acid pool（50–尺 半径 radius），强酸啮咬 acidic bite，[[通用怪物规则#喷吐武器|喷吐武器]]（100–尺 line 线形，DC 28，20d6 酸蚀 acid），腐化水质 corrupt water，碾压 crush
+|spell_like=（CL 22nd）；随意施展—[[黑暗术]] darkness（100–尺 半径 radius），[[疫病虫群]] insect plague，[[植物滋长]] plant growth
+|spells=已知法术（CL 11th）；5th（4/天）—[[寒冰锥]] cone of cold（DC 19），力场墙 wall of force；4th（7/天）—[[秘法眼]] arcane eye，[[黑触手]] black tentacles，[[任意门]] dimension door；3rd（7/天）—[[解除魔法]] dispel magic，[[英雄气概]] heroism，[[人类定身术]] hold person（DC 17），[[缓慢术]] slow（DC 17）；2nd（7/天）—[[朦胧术]] blur，[[闪光尘]] glitterdust（DC 16），[[隐形术]] invisibility，[[飞虫走兽]] summon swarm，[[风讯术]] whispering wind；1st（7/天）—[[魔法警报]] alarm，[[法师护甲]] mage armor，[[魔法飞弹]] magic missile，[[隐雾术]] obscuring mist，[[克敌机先]] true strike；0（随意）—[[舞光术]] dancing lights，[[侦测魔法]] detect magic，[[光亮术]] light，[[法师之手]] mage hand，[[修复术]] mending，[[传讯术]] message，[[魔法伎俩]] prestidigitation，[[阅读魔法]] read magic，[[提升抗力]] resistance
+|str=33
+|dex=10
+|con=25
+|int=18
+|wis=21
+|cha=18
+|bab=+22
+|cmb=+35
+|cmd=45（49 对摔绊 vs. trip）
+|feats=[[警觉]];[[寓守于攻]];[[飞越攻击|飞跃攻击]];[[高等要害打击]];[[精通先攻]];[[精通要害打击]];[[多重攻击]];[[猛力攻击]];[[技能专攻]]（隐匿）Skill Focus;[[要害打击]];[[武器专攻]]（啮咬）Weapon Focus
+|skills=[[飞行]] Fly +17;[[驯养动物|野性认同]] Handle Animal +26;[[威吓]] Intimidate +29;[[知识]]（奥秘）Knowledge+29;[[知识]]（历史）Knowledge+29;[[知识]]（地理）Knowledge+29;[[察觉|觉察]] 察觉 +34;[[法术辨识]] Spellcraft +29;[[隐匿]] Stealth +23;[[游泳]] +44
+|languages=通用语 Common;龙语 Draconic;巨人语 Giant;地精语 Goblin;兽人语 Orc
+|sq=爬虫交谈 speak with reptiles;沼泽漫步 swamp stride;水中呼吸 water breathing
+|environment=温暖的沼泽
+|organization=单独
+|treasure=标准
+|source=怪物图鉴
+|family=龙类绪论
+|lore=
+那些最黑暗的沼泽与湿地，往往是黑龙的领土，他们在自己的领域内是毫无争议的主宰，用残酷与威吓主宰着一切。在黑龙出没范围内的住民日夜与恐惧同在。黑龙偏好将巢穴筑在沼泽的偏僻处，更爱的则是黑暗且恶臭的湖底洞穴。在巢穴之中，它们堆起自己肮脏的宝藏并用根茎和淤泥搭起自己的睡床。黑龙偏好略带腐坏的食物，常常在享用前将食物在池塘中存放数日。黑龙偏好不会腐烂朽化的财宝，其珍藏充满了钱币、宝石、珠宝，以及其他石头或金属材质的物品。
+
+=== 基值数据 ===
+
+* CR 3；体型 超小型；HD 4d12
+* 速度 60 尺，游泳 60 尺
+* 天生护甲 +3；喷吐武器 线形，2d6 酸蚀
+* 力量 11，敏捷 16，体质 13，智力 8，感知 11，魅力 8
+
+<div class="monster-table-wrap"><table class="wikitable"><tr><th>年龄层</th><th>特殊能力</th><th>施法者等级</th></tr><tr><td>雏龙 Wyrmling</td><td>酸蚀免疫，水中呼吸</td><td>–</td></tr><tr><td>幼龙 Very young</td><td>沼泽漫步</td><td>–</td></tr><tr><td>少年 Young</td><td>爬虫交谈</td><td>–</td></tr><tr><td>青少年 Juvenile</td><td>[[黑暗术]]</td><td>–</td></tr><tr><td>青年 Young adult</td><td>DR 5/魔法，法术抗力</td><td>1 级</td></tr><tr><td>成年 Adult</td><td>腐化水质，凶威</td><td>3 级</td></tr><tr><td>壮年 Mature adult</td><td>DR 10/魔法</td><td>5 级</td></tr><tr><td>老年 Old</td><td>强酸啮咬，植物滋长</td><td>7 级</td></tr><tr><td>极老 Very old</td><td>DR 15/魔法</td><td>9 级</td></tr><tr><td>古龙 Ancient</td><td>酸池，疫病虫群</td><td>11 级</td></tr><tr><td>上古龙 Wyrm</td><td>DR 20/魔法</td><td>13 级</td></tr><tr><td>太古龙 Great wyrm</td><td>魅惑爬虫</td><td>15 级</td></tr></table></div>
+}}
+
+本页译自《[[怪物图鉴]]》的怪物图鉴 CHM。

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=法术打击手套
+|english_name=Spellstrike Gloves
+|aon=MagicWondrousDisplay.aspx?FinalName=Spellstrike Gloves
+|cat=奇物
+|aura=强烈（无学派）
+|cl=17
+|slot=手部
+|price=8,000 gp
+|description=这双黑色皮革手套内衬柔软的黑色棉绒，从手腕到手肘装有银扣带。每天三次，这双手套能让穿戴者把一道远程的魔战士法术视为射程为“接触”的法术，从而可以用他的法术打击能力来传递该法术。手套只能作用于那些通常以大于“接触”的射程影响一个或多个生物的法术（例如[[缓慢术]]），不能作用于射线或其他创造出的效果。改变后的法术只会影响被攻击的生物（该法术通常允许的其他目标都会丢失）。
+|req=[[制造奇物]]，制造者必须是[[魔战士]]
+|cost=4,000 gp
+|source=极限宝具
+}}

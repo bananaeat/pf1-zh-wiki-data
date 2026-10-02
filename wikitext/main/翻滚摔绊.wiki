@@ -1,0 +1,12 @@
+{{Feat
+|name=翻滚摔绊
+|english_name=Tumbling Upset
+|categories=战斗
+|description=你敏捷的滚入敌人身下，创造出机会将其掀翻。
+|prerequisites=智力13，[[寓守于攻]]，精通摔绊，[[特技]]7级
+|benefit=当你成功通过特技检定穿越敌人的区域时，你可以用一个[[迅捷动作]]对敌人尝试摔绊检定。就算你这次检定失败了10点以上，你也不会摔倒[[俯卧]]。
+|normal=如果你的摔绊战技检定失败了10点或以上，你摔倒俯卧。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/zh0ff052e72d.htm
+|source=MAH
+}}

@@ -1,0 +1,9 @@
+<includeonly><div class="tt-spell" style="max-width:24em;line-height:1.6">
+<div style="font-weight:bold">{{{?name|}}}{{#if:{{{?en|}}}|　<span style="font-weight:normal;color:#8a8175">{{{?en}}}</span>}}</div>
+<div style="color:#5c4f35">{{{?school|}}}{{#if:{{{?tags|}}}|（{{{?tags}}}）}}</div>
+<div>{{{?classlv|}}}</div>
+<div style="color:#8a8175;font-size:.92em">{{#if:{{{?range|}}}|距离 {{{?range}}}　}}{{#if:{{{?duration|}}}|持续 {{{?duration}}}　}}{{#if:{{{?save|}}}|豁免 {{{?save}}}}}</div>
+</div></includeonly><noinclude>
+{{法术提示}} 的单行渲染模板。'''参数名带问号''' ——SMongo 的 `format=template` 把
+`?name=name` 这样的取值项原样当参数名传过来（debug 里看到的是 `["?name"]="魔法飞弹"`），
+所以这里写 <code>{{{?name}}}</code> 而不是 <code>{{{name}}}</code>。[[分类:模板]]</noinclude>

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=真形护符
+|english_name=Amulet of the True Form
+|aon=MagicWondrousDisplay.aspx?FinalName=Amulet of the True Form
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=颈部
+|price=6,500 gp
+|description=这枚无瑕的蓝宝石护符上镶着一颗完美的珍珠。真形护符经过附魔，能抵御会造成不受欢迎的变形的力量。它使佩戴者在对抗变形效果的豁免检定上获得+2抗力加值，在对抗非自愿的兽化变身的豁免检定上获得+4抗力加值。
+|req=[[制造奇物]]、[[变形术]]
+|cost=3,250 gp
+|source=月之血脉
+}}

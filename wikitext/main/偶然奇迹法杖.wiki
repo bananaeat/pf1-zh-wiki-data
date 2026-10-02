@@ -1,0 +1,13 @@
+{{魔法物品
+|name=偶然奇迹法杖
+|english_name=Staff of Occasional Wonder
+|aon=MagicCursedDisplay.aspx?ItemName=Staff of Occasional Wonder
+|cat=诅咒物品
+|aura=不定
+|cl=不定
+|slot=无
+|weight=4磅
+|description=偶然奇迹法杖可以呈现为任何一种魔法法杖，而且这类物品通常是在试图制作它所伪装的那种法杖时出了意外的产物。它通常能按预期起效，但每次有人使用这根法杖时，都必须掷d%。掷出1–10时，法杖不会产生期望的效果，而是如同[[惊奇权杖]]一样起效（见第185页）。
+|req=任意法杖
+|source=极限宝具
+}}

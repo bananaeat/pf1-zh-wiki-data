@@ -1,0 +1,9 @@
+{{Trait
+|name=脱线儿
+|english_name=Unpredictable
+|type=社会
+|description=你的行为在他人眼中充满了随机性和混乱，但你的欢脱并非毫无意义。你的[[唬骗]]检定获得+1背景加值，并且总能将唬骗视为你的[[本职技能]]。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

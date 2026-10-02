@@ -1,0 +1,8 @@
+{{狂暴之力
+|name=生命守护
+|english_name=Guarded Life
+|type=Ex
+|categories=防御
+|benefit=狂暴时，如果一次攻击使野蛮人HP低于0，野蛮人可以将致命伤害转换为[[非致命伤害]]，每野蛮人等级1点。如果野蛮人因致命伤害而令生命值为负，他的伤势自动稳定。
+|source_name=进阶玩家指南
+}}

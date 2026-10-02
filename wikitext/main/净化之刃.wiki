@@ -1,0 +1,9 @@
+{{Feat
+|name=净化之刃
+|english_name=Blade of the Purge
+|description=通过效仿大亲王斯坦维恩一世的狂热，你可以选择一个你认为与自己对立的宗教，从而使得你的武器可以对他们的追随者进行致命的打击。
+|prerequisites=破敌职业能力
+|benefit=当你激活破敌职业能力时，可以选择一个你自己所信奉之外的神祗或宗教，你的破敌只会对该神祗或宗教的追随者生效。
+|source_name=冒险之路132：六传奇之魂
+|source_url=https://pf1chm.pages.dev/topics/132_The_Six-Legend_Soul.htm
+}}

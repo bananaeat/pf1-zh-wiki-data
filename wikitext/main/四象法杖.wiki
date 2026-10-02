@@ -1,0 +1,20 @@
+{{魔法物品
+|name=四象法杖
+|english_name=Staff of Aspects
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Aspects
+|cat=法杖
+|aura=中等变化系
+|cl=9
+|slot=无
+|price=37,600 gp
+|weight=5磅
+|description=这根粗壮的法杖用灰木制成，杖头雕刻着四种动物的面孔：熊、隼、雄鹿和狼。该法杖视为+1/+1[[木棍]]，并可以使用以下法术：
+
+* [[熊之型]]APG（1 发）
+* [[隼之型]]APG（1 发）
+* [[雄鹿之型]]APG（2 发）
+* [[狼之型]]APG（3 发）
+|req=[[制造魔法武器和防具]]、[[制造法杖]]、[[熊之型]]、[[隼之型]]、[[雄鹿之型]]、[[狼之型]]
+|cost=19,100 gp
+|source=极限宝具
+}}

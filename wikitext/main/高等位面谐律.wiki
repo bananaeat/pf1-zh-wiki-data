@@ -1,0 +1,9 @@
+{{Feat
+|name=高等位面谐律
+|english_name=Greater Planar Infusion
+|description=你已精通另一个位面的力量。
+|prerequisites=[[进阶位面谐律]]，[[位面谐律（专长）|位面谐律]]，角色等级13
+|benefit=选择一个你已经通过进阶位面谐律获得了其进阶谐律的位面，你同样获得其高等谐律。
+|source_name=位面冒险
+|source_url=https://pf1chm.pages.dev/topics/zhcc06dce7d8.htm
+}}

@@ -1,0 +1,11 @@
+{{危害
+|name=颤抖药剂
+|english_name=Shiver
+|kind=毒品
+|type=伤口、摄入
+|addiction=重度，强韧 DC 18
+|effect=可变；50%几率入睡1d4小时，或获得免疫恐惧1d4分钟
+|damage=1d2点体质伤害
+|price=500 gp
+|source=游戏主持人指南
+}}

@@ -1,0 +1,16 @@
+{{Spell
+|name=群体心血来潮
+|english_name=Passing fancy, mass
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=催眠师 4;吟游诗人 4;歌者 4;女巫 5;异能者 5;术士 5;法师 5
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一个活物/等级，彼此相距不超过30尺
+|duration=4d4轮 (可解消)
+|save=意志，通过则无效
+|sr=是
+|description=这种法术如同[[心血来潮]]，除了以上区别。
+|source=间谍大师手册
+}}

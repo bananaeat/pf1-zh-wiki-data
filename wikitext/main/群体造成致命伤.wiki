@@ -1,0 +1,15 @@
+{{Spell
+|name=群体造成致命伤
+|english_name=Inflict Critical Wounds, Mass
+|school=死灵系
+|levels=先知 8;牧师 8;萨满 8;女巫 9
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=每等级一个生物，任意两者之间的距离不超过30尺
+|duration=立即
+|save=意志，通过则减半
+|sr=是
+|description=该法术的功能如同[[群体造成轻伤]]一般，不过你能造成 {4d8+CL (最高+40)} 点伤害。
+|source=核心规则书
+}}

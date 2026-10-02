@@ -1,0 +1,11 @@
+{{Feat
+|name=额外原力
+|english_name=Extra Wild Talent
+|description=你获得一项额外原力。
+|prerequisites=操念使6级
+|benefit=你会获得一项[[原力]]，但是该原力必须至少比你当前能够使用的最高等级原力低2级。你可以选择一项[[注能原力]]或者一项非注能原力，但是无法选取[[念袭]]或[[护身原力]]。若你具有元素扩展职业能力，那么你能够从所有当前可以使用的元素中选择一项原力，但是该项原力依旧至少要比首要元素中当前可以使用的最高等级的原力低2级。
+|special=你可以多次选取该专长。每次选择该专长，都必须选择一项不同的原力。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

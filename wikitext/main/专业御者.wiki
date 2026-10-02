@@ -1,0 +1,11 @@
+{{Feat
+|name=专业御者
+|english_name=Expert Driver
+|pfs=否
+|description=你在驾驶特定类型[[载具]]时展现出了令人惊叹的技术，操控得当、停位精准。
+|prerequisites=指定类型载具的“熟练御者”专长。
+|benefit=你能以[[移动动作]]而非[[标准动作]]进行加速、减速或转向。此外，当你刹车时，在完全停止前滑行的距离减少10尺。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

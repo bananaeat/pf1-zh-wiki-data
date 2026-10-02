@@ -1,0 +1,10 @@
+{{Feat
+|name=快速修理
+|english_name=Rapid Repair
+|pfs=否
+|description=你可以使用奈米机械激增来修理伤害。
+|prerequisites=感知13，奈米机械激增能力
+|benefit=你可以使用你的奈米机械激增能力来医疗等同于你角色等级的生命点数，这取代正常的效果。
+|source_name=冒险之路85：创造之火
+|source_url=https://pf1chm.pages.dev/topics/page_939.html
+}}

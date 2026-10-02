@@ -1,0 +1,46 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=珠宝匠学徒
+|english_name=Apprentice Jeweler
+|cr=1/3
+|xp=135
+|classline=人类专家1
+|alignment=绝对中立
+|size=中型
+|type=类人生物
+|subtypes=人类亚种
+|init=+2
+|senses=察觉+4
+|ac=13，接触12，措手不及11（+1盔甲，+2敏捷）
+|hp=4（1d8）
+|fort=+0
+|ref=+2
+|will=+2
+|speed=30尺
+|melee=匕首–1（1d4–1/19–20）
+|tactics=<div class="ml wide"><span class="k">战斗中</span>专家呼救并边打边退。</div>
+|str=8
+|dex=15
+|con=11
+|int=12
+|wis=10
+|cha=9
+|bab=+0
+|cmb=–1
+|cmd=11
+|feats=[[飞跑]];[[技能专攻]]（工艺[珠宝]）
+|skills=[[估价]]+5;[[工艺]]（珠宝）+8;[[交涉]]+3;[[解除装置]]+6;[[知识]]（历史，本地，贵族）+5;[[察觉]]+4;[[使用魔法装置]]+3
+|languages=通用语
+|combat_gear=强酸
+|gear=护垫甲;匕首;精制品工匠工具;188gp
+|source=NPC志
+|family=NPC职业（NPC志）
+|npc=1
+|lore=
+学徒在不练习手艺的时候负责传递命令。她通常在成年早期开始学徒生涯，服务7年，报酬主要是在师傅家中或店铺里的食宿。这段时间过后，学徒成为该行当的熟练工，由师傅按日支付工资。不过有些人到了熟练工阶段可能选择离开，自立门户并雇用员工。一名典型的工匠一次只带一个学徒，但知名或富有的工匠可能同时带有多名学徒。
+
+上述属性块可用于任何需要精细技艺而非大力气的行当，例如制鞋、染布、纺织、吹玻璃、开锁或制陶。它也可以用来表示马车夫和家仆等有技能的专业人员。
+}}
+
+{{AoN原文|1=NPCDisplay.aspx?ItemName=Apprentice Jeweler|2=Apprentice Jeweler}}

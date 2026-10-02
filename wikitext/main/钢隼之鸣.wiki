@@ -1,0 +1,10 @@
+{{Feat
+|name=钢隼之鸣
+|english_name=Falcon's Cry
+|description=你激励其他人摆脱压迫的枷锁。
+|prerequisites=魅力13，隶属于钢隼
+|benefit=你激发盟友心中的自由热情。以一个标准动作，你可以赋予每个在你60尺范围内并且可以看到并听到你的生物，在进行逃脱检定、对抗胁迫的意志豁免或者挣脱枷锁镣铐或类似束缚的力量检定时双骰的能力。尝试检定必须在你的下个回合开始前进行。你可以使用这个能力每天一次，你每拥有3个角色等级，就可以额外使用一次。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/page_1364.html
+}}

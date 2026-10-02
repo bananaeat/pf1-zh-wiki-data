@@ -1,0 +1,9 @@
+{{Trait
+|name=急性子
+|english_name=Excitable
+|type=战斗
+|prerequisites=[[侏儒]]
+|description=你要求无论如何一切都必须立即发生，并且太没耐心等其他人跟上你。你替别人把话说完，笑话与妙语脱口而出、很少制定计划、一头扎进任何看来会变得有趣的事情。虽然这有时会给你带来麻烦，但它也训练你抢先一步，因此也在被煎皮拆骨前救了你好几次。你在所有[[先攻]]检定获得+2背景加值。
+|source_name=格拉里昂的侏儒
+|source_url=https://pf1chm.pages.dev/topics/zh5166336575.htm
+}}

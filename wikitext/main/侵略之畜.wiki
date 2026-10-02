@@ -1,0 +1,46 @@
+{{速查导航}}
+{{怪物
+|name=侵略之畜
+|english_name=Harrying Brute
+|cr=6
+|xp=2,400
+|classline=人类武僧7
+|alignment=守序中立
+|size=中型
+|type=类人生物
+|subtypes=人类
+|init=+5
+|senses=察觉+11
+|ac=20 接触16 措手18（+4护甲，+1敏捷，+1闪避，+1武僧，+3感知）
+|hp=45(7d8+10)
+|fort=+7
+|ref=+7
+|will=+9 对附魔+2
+|defensive=反射闪避
+|immune=疾病
+|speed=50尺
+|melee=徒手攻击+10(1d8+4)或 精制品十手+10(1d4+4)或疾风连击徒手攻击+10/+10/+5(1d8+4)
+|ranged=匕首+6(1d4+4/19-20)
+|special_attacks=疾风连击，震慑击(7/日，DC16)
+|tactics=<div class="ml wide"><span class="k">战斗前</span>喝下法师护甲药水</div><div class="ml wide"><span class="k">战斗中</span>用十手来卸武，然后使用蝎形拳；如果敌人屈服，他会使用疾风连击（消耗1点气增强），并尝试用震慑击震慑对手</div><div class="ml wide"><span class="k">基础属性</span>没有法师护甲，他的 AC16，接触16，措手14</div>
+|str=18
+|dex=13
+|con=12
+|int=10
+|wis=16
+|cha=8
+|bab=+5
+|cmb=+11
+|cmd=25
+|feats=[[战斗反射]];闪避;精通卸武;精通先攻;精通徒手攻击;猛力攻击;蝎形拳;快步;震慑击;武器专攻（徒手攻击）
+|skills=特技+10（跳跃时+25）;攀爬+9;威吓+6;[[知识]]（历史）+5;[[知识]]（本地）+3;[[知识]]（宗教）+6;察觉+11;表演（打击乐）+6;察言观色+13;游泳+10
+|languages=通用语
+|sq=快速移动;轻功;气池（6点，魔法）;战技训练;百病不侵;轻身坠30尺;混元体
+|combat_gear=治疗轻伤药水（2）;法师护甲药水（2）;魔化武器药水（2）
+|gear=匕首;精制品十手;+2巨人力量腰带;+1抗力斗篷;395gp
+|source=NPC志
+|family=核心职业（NPC志）
+|npc=1
+}}
+
+本页译自《[[NPC志]]》的怪物图鉴 CHM。

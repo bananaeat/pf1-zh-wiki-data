@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=鲁莽战姿
+|english_name=Reckless Stance
+|type=Ex
+|class=掉链野蛮人
+|benefit=野蛮人以忽视防守为代价强化了她的进攻。她在攻击骰上获得+1加值，并在AC上获得-1罚值。该加值与罚值在第4级和之后的每4级都会提升1点。该狂暴之力是一种战姿。
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

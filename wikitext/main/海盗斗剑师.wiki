@@ -1,0 +1,9 @@
+{{Trait
+|name=海盗斗剑师
+|english_name=Pirate Duelist
+|type=地区
+|prerequisites=莫迪欧凯提岛
+|benefit=你混迹于伊利兹马高提([[红螳螂]]岛唯一城市，又称恶潮城Scum Tide City)的酒馆，在三教九流的各式海盗中摸爬滚打，并且成功让其中一些向你展示了他们的剑技。你在使用[[匕首]]、[[短剑]]、水手弯刀、[[细剑]]、[[弯刀]]或铁钩手进行的[[借机攻击]]中获得+1背景加值。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

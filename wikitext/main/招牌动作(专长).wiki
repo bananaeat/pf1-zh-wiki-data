@@ -1,0 +1,12 @@
+{{消歧义|招牌动作 (消歧义)}}
+{{Feat
+|name=招牌动作
+|english_name=Signature Deed
+|categories=勇毅
+|description=你因一个特定的铳技而闻名，而且能够更轻松地施展它。
+|prerequisites=【勇毅】职业特性，枪手11级。
+|benefit=选择一个必须消耗[[枪手#勇毅|勇毅]]点的、你可用的铳技。每轮一次，你可以少消耗1点勇毅点（最少为0）来使用这个铳技。你只能在拥有至少1点勇毅点时，才能以这种方式降低铳技的消耗。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

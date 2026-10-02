@@ -1,0 +1,14 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[隐秘 (神话)]]。</small></div>
+{{Feat
+|name=隐秘
+|english_name=Stealthy
+|description=你对避开不必要的注意和逃脱束缚很拿手。
+|benefit=你在所有脱逃和隐匿技能检定上获得+2加值。如果这两项技能中的某一项有10级或以上，该技能获得的加值提升为+4。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[巧妙器具]]（1 个条目）

@@ -1,0 +1,10 @@
+{{Feat
+|name=机动特技
+|english_name=Mobile Acrobat
+|description=你利用特技的冲力来使你自己快速前进。
+|prerequisites=敏捷种族加值
+|benefit=当你尝试一个会降低你速度的特技检定时，在决定速度减值前，你的基础速度被视为比正常快10尺。
+|source=BotB
+|source_name=野兽血脉
+|source_url=https://pf1chm.pages.dev/topics/page_699.html
+}}

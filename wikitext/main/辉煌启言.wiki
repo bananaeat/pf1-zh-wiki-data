@@ -1,0 +1,17 @@
+{{Spell
+|name=辉煌启言
+|english_name=Brilliant inspiration
+|school=塑能系
+|tags=依赖语言
+|domains=领导子域 6
+|levels=吟游诗人 6;歌者 6;异能者 8
+|action=标准动作
+|components=语言
+|range=近距
+|target=一名活物
+|duration=1轮/等级 以及特殊 （见下文）
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=你在受术者的精神与自身的精神之间打开一条通道，只要法术仍在生效，你就可以不断对其进行鼓励并给出建议。每当受术者进行一次攻击检定，属性检定或者技能检定时，他进行两次d20骰并取较好的结果。如果其中任何检定骰出自然20，该法术的效果结束——你那聪慧的建议已被用尽。
+|source=进阶玩家指南
+}}

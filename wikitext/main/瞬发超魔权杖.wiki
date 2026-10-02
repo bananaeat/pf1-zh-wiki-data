@@ -1,0 +1,15 @@
+{{魔法物品
+|name=瞬发超魔权杖
+|english_name=Rod of Metamagic, Quicken
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Metamagic, Quickenlesser
+|cat=权杖
+|aura=强烈（无学派）
+|cl=17
+|slot=无
+|price=35,000 gp（次等）；75,500 gp（普通）；170,000 gp（高等）
+|weight=5磅
+|description=持用者能够如同使用[[法术瞬发]]专长一样瞬发法术，每天至多3次。
+|req=[[制造权杖]]、[[法术瞬发]]
+|cost=17,500 gp（次等）；37,750 gp（普通）；85,000 gp（高等）
+|source=核心规则书、极限宝具
+}}

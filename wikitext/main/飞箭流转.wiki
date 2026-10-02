@@ -1,0 +1,11 @@
+{{Feat
+|name=飞箭流转
+|english_name=Throw Back Arrows
+|categories=战斗
+|description=当你抓取箭矢和其他弹药时，你可以立刻将它们砸回敌人处。
+|prerequisites=敏捷17，[[拨挡飞箭]]，精通徒手攻击，[[抓取飞箭]]
+|benefit=当你使用[[抓取飞箭]]专长时，可以将抓取的远程弹药（包括箭、矢、[[投石索]]子弹，不包括火器子弹）当做射程增量20尺投掷武器投掷出去（即便不在自己回合也可）。该被投掷的弹药造成正常的伤害加上你的力量调整值，并且你不会因为它不适合投掷而吃到罚值。该次攻击会正常引发[[借机攻击]]。你必须至少空出一只手（不拿任何东西）来发动该专长。
+|source=RTT
+|source_name=远程战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_552.html
+}}

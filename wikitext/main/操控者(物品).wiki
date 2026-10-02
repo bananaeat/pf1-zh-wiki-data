@@ -1,0 +1,6 @@
+{{物品
+|name=操控者
+|english_name=The Teamster
+|category=神器
+|description=一旦抽出，一个强大的存在出现并交给抽牌人一个危险的任务。如果不愿接受，则会遭到[[指使术]]（geas/quest）直至任务完成。任务完成后该存在会出现并支付丰厚的回报。细节由GM决定。
+}}

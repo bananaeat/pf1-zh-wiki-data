@@ -1,0 +1,20 @@
+{{武器
+|name=霰弹枪
+|english_name=Shotgun
+|category=火器
+|prof=异种
+|wcat=双手
+|price=5,000 gp
+|weight=12磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×2
+|range=20尺
+|type=钝击和穿刺
+|special=霰弹
+|misfire=1-2
+|capacity=1
+|groups=火器
+|description=这件[[雷筒]]的升级版本发射霰弹时区域为30尺锥形，而在发射弹头时射程增量为20尺。霰弹枪既可以简朴实用，也可以精心装点和雕琢，有着华丽的枪托和枪身。上层社会人士使用的霰弹枪还会饰以狩猎动物、家族纹章、精美徽记等等。霰弹枪的弹药为金属定装弹（内包弹头或霰弹）。这是一件近代火器。
+|source=极限战斗、极限宝具
+}}

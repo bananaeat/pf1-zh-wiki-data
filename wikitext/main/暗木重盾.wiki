@@ -1,0 +1,12 @@
+{{魔法物品
+|name=暗木重盾
+|english_name=Darkwood Shield
+|cat=特殊魔法盾牌
+|base=[[重木盾]]
+|aura=无灵光（非魔法）
+|slot=盾牌
+|price=257 gp
+|weight=5磅
+|description=这面无魔力的精制品[[重木盾]]是[[暗木]]打造的。虽然没有增强加值，但是因为其制造原料的原因，盾牌比普通木盾更轻便，它没有防具检定减值。
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=仁慈之刃
+|english_name=Blade of Mercy
+|type=宗教
+|prerequisites=信仰[[塞恩蕾]]
+|description=你知晓即使是在最为可憎和凶暴的生物心中，也会存在着羞愧和对救赎的渴望。你掌握了使用挥砍类武器不杀死敌人，而是将其制服的武技。当使用挥砍类武器造成[[非致命伤害]]时，你无需在攻击骰上承受通常的-4减值，并且你还会在使用挥砍类武器造成的任何非致命伤害上获得+1的背景加值。
+|source_name=烈焰传承玩家手册
+|source_url=https://pf1chm.pages.dev/topics/zh5dfd5074ca.htm
+}}

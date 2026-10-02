@@ -1,0 +1,18 @@
+{{武器
+|name=杖隐刃
+|english_name=Lungchuan tamo
+|category=武器
+|prof=军用
+|wcat=轻型
+|price=5 gp
+|weight=1磅
+|dmg_s=1d3
+|dmg_m=1d4
+|crit=×2
+|range=10尺
+|type=穿刺或挥砍
+|special=武僧
+|groups=武僧
+|description=这支看似普通的短棍里藏着一对相配的细刃匕首——它们是平衡完美的投掷刀刃。
+|source=极限战斗、极限宝具
+}}

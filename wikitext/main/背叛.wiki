@@ -1,0 +1,8 @@
+{{消歧义|背叛(作祟)}}
+{{物品
+|name=背叛
+|english_name=The Betrayal
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。抽牌者的[[动物伙伴]]，[[魔宠]]，追随者或NPC同盟变为永久敌对。如果抽牌者没有这样的人选，一些强大的个人，社团，宗教团体将变为敌对。这种敌意会隐藏着，直到最戏剧性的关头才彰显。抽出这张卡的人知道有什么将与其敌对，但此外一无所知。
+}}

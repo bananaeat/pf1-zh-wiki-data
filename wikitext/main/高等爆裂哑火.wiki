@@ -1,0 +1,15 @@
+{{Spell
+|name=高等爆裂哑火
+|english_name=Violent Misfire, Greater
+|school=塑能系
+|levels=奥能师 6;术士 6;法师 6
+|action=标准动作
+|components=语言;姿势;材料（一小片燧石）
+|range=中距
+|target=每CL一把早期或近代火器，任意两把彼此相距不得超过30尺
+|duration=1 轮/等级
+|save=意志，通过则无效（物品）
+|sr=是（物品）
+|description=除上文以外，该法术的效果与爆裂哑火相同。
+|source=废土子民
+}}

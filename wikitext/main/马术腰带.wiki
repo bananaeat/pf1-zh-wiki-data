@@ -1,0 +1,15 @@
+{{魔法物品
+|name=马术腰带
+|english_name=Equestrian Belt
+|aon=MagicWondrousDisplay.aspx?FinalName=Equestrian Belt
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=腰部
+|price=3,200 gp
+|weight=1磅
+|description=这条腰带上刻着骏马在贫瘠、风沙吹拂的平原上奔腾的图案。只要佩戴者穿着中甲、轻甲或没穿甲，她在用膝盖操控坐骑、留在鞍上、与受过战斗训练的坐骑一同战斗、在战斗中控制坐骑，以及快速上马或下马的检定上自动成功。此外，这条腰带在所有其他骑术检定上给予+4能力加值，包括佩戴者穿着重甲时进行的检定。
+|req=[[制造奇物]]、[[猫之优雅]]
+|cost=1,600 gp
+|source=极限宝具
+}}

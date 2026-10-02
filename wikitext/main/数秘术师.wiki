@@ -1,0 +1,9 @@
+{{Trait
+|name=数秘术师
+|english_name=Numerologist
+|type=地区
+|prerequisites=奥西里昂
+|description=自从在少年时期接受了科学或其他正式的学术教育以后，你随即着迷于古奥西里昂数学家的秘学数秘术，并成功将这门科学应用至地城探险中。每日1次，你可以[[标准动作]]进行1个察觉检定来研究1个陷阱，DC为该陷阱的解除DC-5,成功则你计算出该陷阱的解除DC,以及回避其效果的反射豁免DC(若有)。
+|source_name=沙之子民
+|source_url=https://pf1chm.pages.dev/topics/zh730f330f66.htm
+}}

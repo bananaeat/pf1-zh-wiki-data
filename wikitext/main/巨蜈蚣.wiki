@@ -1,0 +1,47 @@
+{{速查导航}}
+{{怪物
+|name=巨蜈蚣
+|english_name=Centipede, Giant
+|cr=1/2
+|xp=200
+|alignment=绝对中立
+|size=中型
+|type=虫类
+|init=+2
+|senses=黑暗视觉 60 尺；察觉 +4
+|description=这只令人惊骇的生物很长并且分为很多节，它翻滚扭曲着，抖动着它有毒的下颚寻找猎物。
+|ac=14，接触 12，措手不及 12（+2 敏捷，+2 天生）
+|hp=5（1d8 +1）
+|fort=+3
+|ref=+2
+|will=+0
+|immune=影响心灵效果
+|speed=40 尺，攀爬 40 尺
+|melee=啮咬 +2（1d6–1 外加毒素）
+|special_attacks=[[通用怪物规则#毒素|毒素]]
+|str=9
+|dex=15
+|con=12
+|int=–
+|wis=10
+|cha=2
+|bab=+0
+|cmb=–1
+|cmd=11（无法被摔绊）
+|feats=[[武器娴熟]] B
+|skills=[[攀爬]] +10;[[察觉]] +4;[[隐匿]] +10
+|racial_mods=+4 察觉，+8 隐匿
+|environment=温带或热带森林或地下
+|organization=单独，成对或成群（3–6）
+|treasure=无
+|special_abilities={{怪物能力|毒素|Ex|啮咬—伤口感染；豁免 强韧 DC 13；频率 每轮 1 次，持续 6 轮；效果 1d3 敏捷伤害；通过 1 次豁免则痊愈。豁免 DC 基于体质调整值并有 +2 种族加值。}}
+|source=怪物图鉴
+|lore=
+巨蜈蚣用它们有毒的嘴攻击身边任何活物。这些生物可以适应任何环境，并且贪得无厌地以本地生物（包括类人生物）为食。巨蜈蚣的颜色和普通蜈蚣相仿，从暗色到亮红色和炽热的橙色都有。
+
+巨蜈蚣的其他变种同样存在，一些会小一点但是大多数都更为巨大。你可以调整这里给出的属性，改变 HD 和体型（修改力量敏捷和体质的话要酌情而定。）以适用于巨蜈蚣繁多的变种。下表适用于大多数常见的巨蜈蚣。
+
+<div class="monster-table-wrap"><table class="wikitable"><tr><th>种类</th><th>CR</th><th>体型</th><th>HD</th></tr><tr><td>家里的蜈蚣</td><td>1/8</td><td>微型</td><td>1D8</td></tr><tr><td>下水道蜈蚣</td><td>1/4</td><td>小型</td><td>1D8</td></tr><tr><td>嘶叫蜈蚣</td><td>1</td><td>大型</td><td>2D8</td></tr><tr><td>巨长尾蜈蚣</td><td>2</td><td>超大</td><td>4D8</td></tr><tr><td>巨森林蜈蚣</td><td>6</td><td>巨型</td><td>7D8</td></tr><tr><td>[[泰坦蜈蚣]]</td><td>9</td><td>超巨</td><td>10D8</td></tr></table></div>
+}}
+
+本页译自《[[怪物图鉴]]》的怪物图鉴 CHM。

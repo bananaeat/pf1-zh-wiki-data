@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（People of the Wastes pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=黑枯幸存者
+|english_name=Darkblight Survivor
+|type=地区
+|prerequisites=涅玛萨斯
+|description=你在涅玛萨斯的林中家园一直在与顽固的黑枯病抗争，这迫使你锤炼自己以抵御它的毒害。你对抗由精类、植物以及与森林有关的危险所造成的疾病和毒素的强韧豁免检定获得+2背景加值。
+|source_name=废土子民
+|source=PotW
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Darkblight%20Survivor
+}}

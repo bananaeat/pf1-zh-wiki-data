@@ -1,0 +1,10 @@
+{{Feat
+|name=优雅翱翔
+|english_name=Graceful Flier
+|pfs=否
+|description=只要没有阻碍，你就能自由地高速翱翔。
+|prerequisites=[[技能专攻]]（飞行），具有飞行速度
+|benefit=你是个天赋异禀的飞行者。当穿着轻甲或不着甲时，你的飞行速度增长5尺，你的机动性较正常情况下提升一级，最高提升到良好。如果你处于中载或重载，你将无法从该专长受益。
+|source_name=内海怪物志
+|source_url=https://pf1chm.pages.dev/topics/zhb83e0d90c4.htm
+}}

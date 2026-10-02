@@ -1,0 +1,11 @@
+{{Trait
+|name=陌路人座
+|english_name=The Stranger
+|type=宇宙
+|aliases=78-84 陌路人座
+|prerequisites=奈斯(Neth)21日-奈斯(Neth)29日(译注：11月21日-11月29日)
+|description=正如那短暂的沿着篷车星系并排行走的独行旅者一般，你善于与陌生人打交道。你在搜集信息的交涉和知识(本地)检定上获得+1背景加值(trait bonus)。此外，选择交涉或知识(本地)之一成为你的[[本职技能]]。
+|source_name=宇宙背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zhc3ea784a66.htm
+}}

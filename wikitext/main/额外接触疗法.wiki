@@ -1,0 +1,10 @@
+{{Feat
+|name=额外接触疗法
+|english_name=Extra Touch Treatment
+|description=你可以比以往使用更多次的接触疗法。
+|prerequisites=接触疗法职业能力
+|benefit=你每日可以额外使用2次接触疗法。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=缩水莓果
+|english_name=Shrinking Berries
+|aon=MagicWondrousDisplay.aspx?FinalName=Shrinking Berries
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=无
+|price=300 gp
+|description=吃下这些莓果的动物会变成体型更小、危险程度低得多的自身模样，如同[[动物萌化]]法术所述（强韧豁免DC 14可取消），不同之处在于，其他生物攻击这只被变化的动物时无需进行意志豁免，且效果持续24小时。这些莓果可以藏在肉类或动物日常饮食中的其他常见食物里。
+|req=[[制造奇物]]、[[动物萌化]]
+|cost=150 gp
+|source=极限荒野
+}}

@@ -1,0 +1,17 @@
+{{魔法物品
+|name=攀爬绳
+|english_name=Rope of Climbing
+|aon=MagicWondrousDisplay.aspx?FinalName=Rope of Climbing
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=无
+|price=3,000 gp
+|weight=3磅
+|description=60尺长的攀爬绳只有魔杖那么粗，却足以承受3,000磅的重量。听从命令，绳子会向前、向上、向下或朝任何其他方向蜿蜒前进，每轮10尺，牢牢固定在其主人想要的地方。它也可以用同样的方式自行解开并返回。
+
+攀爬绳可以被命令打结或解结。打结会使绳上每隔1尺出现一个大绳结。打结期间绳子缩短为50尺，直到绳结解开；但使用它时攀爬检定的DC降低10。启动绳子的魔法时，必须有一个生物握住绳子的一端。
+|req=[[制造奇物]]、[[活化绳]]
+|cost=1,500 gp
+|source=核心规则书、极限宝具
+}}

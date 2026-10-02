@@ -1,0 +1,11 @@
+{{Feat
+|name=异能修行者
+|english_name=Psychic Disciple
+|description=你已经开启自身的心智，并由此习得了更高层次的异能法术。
+|prerequisites=智力13，[[念力技法]]，[[异能敏感]]
+|benefit=你获得施放[[异能者]]职业法术列表中一个1级异能法术的能力。每日你能以类法术能力施放该法术2次。该能力的施法者等级与你的角色等级相同，且豁免DC等同于11 + 你的智力调整值。
+|special=你可以多次选取该专长，每次都要选择一个不同的法术。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

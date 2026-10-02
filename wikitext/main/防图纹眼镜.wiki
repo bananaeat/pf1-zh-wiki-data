@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=防图纹眼镜
+|english_name=Patternward Spectacles
+|aon=MagicWondrousDisplay.aspx?FinalName=Patternward Spectacles
+|cat=奇物
+|aura=中等防护系
+|cl=7
+|slot=眼部
+|price=750 gp
+|weight=1磅
+|description=这副眼镜牢牢地扣在眼睛上，由两根水晶镜腿固定。镜片起初是透明的，不妨碍佩戴者视物。当佩戴者成为图纹子学派的幻术法术或类法术能力（如七彩喷射）的目标时，眼镜会吸收魔法并变暗，保护佩戴者免受图纹效果影响。眼镜吸收法术变得不透明后，佩戴者就会[[目盲]]，直到摘下眼镜（[[迅捷动作]]）。防图纹眼镜只能抵挡3环或更低环的法术或类法术能力；更高环位的效果照常影响佩戴者。眼镜吸收一次效果后，就失去魔力。
+|req=[[制造奇物]]、[[次等法术无效结界]]
+|cost=375 gp
+|source=狂怒之女
+}}

@@ -1,0 +1,9 @@
+{{物品
+|name=甜蛋酒〔一杯，茶杯〕
+|english_name=Rumboozle (cup)
+|category=冒险装备
+|price=1 SP
+|weight=1/2磅。
+|description=这是一种用朗姆酒、红酒、麦酒、鸡蛋、糖和香料混合煮制的烈酒，高级酒馆里的甜蛋酒通常会温热供应。
+|source_name=冒险者的军械库
+}}

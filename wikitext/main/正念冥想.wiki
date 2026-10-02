@@ -1,0 +1,11 @@
+{{Feat
+|name=正念冥想
+|english_name=Mindful Meditation
+|categories=冥想
+|description=你通过平静的吐纳练习来清除你脑内的焦虑与情绪。
+|prerequisites=感知11，冥想大师
+|benefit=在你冥想后的24小时内，你在对抗魅惑，胁迫，情绪和恐惧效果时，你的意志豁免获得+1加值，并且对你进行虚招的唬骗检定DC和挫败士气的威吓检定DC+5。这些加值每有5HD提高1点，最多在20HD时提高+4
+|source=BotB
+|source_name=野兽血脉
+|source_url=https://pf1chm.pages.dev/topics/page_699.html
+}}

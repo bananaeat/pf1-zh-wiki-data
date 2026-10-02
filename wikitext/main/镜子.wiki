@@ -1,0 +1,9 @@
+{{装备
+|name=镜子
+|english_name=Mirror
+|cat=冒险装备
+|price=10 gp
+|weight=1/2磅
+|description=这种手持式的镜子直径约1尺。不像许多高品质的玻璃镜，这种镜子是由抛光的钢制成，足够坚固，即使掉在地上也没有摔坏的危险。
+|source=核心规则书、极限宝具
+}}

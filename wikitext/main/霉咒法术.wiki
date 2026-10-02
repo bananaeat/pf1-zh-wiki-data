@@ -1,0 +1,9 @@
+{{Feat
+|name=霉咒法术
+|english_name=Jinxed Spell
+|categories=超魔
+|prerequisites=任意两个[[超魔专长]]，半身人霉咒特性
+|benefit=任何在霉咒法术下豁免失败的生物，同时遭受你霉咒能力的影响。本专长对不允许豁免的法术没有效果。若你的法术影响多个生物或一个区域，你必须指定一个生物受到你的霉咒影响，除非你拥有区域霉咒专长。若你拥有区域霉咒专长，在法术区域中或受影响的生物中，选择一个霉咒爆发区域，并对该爆发范围内豁免失败的生物应用你的霉咒。霉咒法术需要高一级的法术位。
+|source_name=格拉利昂的半身人
+|source_url=https://pf1chm.pages.dev/topics/page_572.html
+}}

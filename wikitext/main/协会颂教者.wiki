@@ -1,0 +1,9 @@
+{{Trait
+|name=协会颂教者
+|english_name=Exalted of the Society
+|type=信念
+|prerequisites=[[牧师]]，[[探索者协会]]
+|description=艾巴萨罗姆中的探索者本部的地下室里收藏了许多关于神祇的神圣力量的秘密，而你大量地学习了其中你所信仰的神祇的那部分。你每天[[引导能量]]的次数额外加1。
+|source_name=碎星玩家手册
+|source_url=https://pf1chm.pages.dev/topics/zhb4c4366d0e.htm
+}}

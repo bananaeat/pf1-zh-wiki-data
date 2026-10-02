@@ -1,0 +1,47 @@
+{{速查导航}}
+{{怪物
+|name=荒木贤者
+|english_name=Savage Plant Sage
+|cr=3
+|xp=800
+|classline=半兽人德鲁伊4
+|alignment=混乱中立
+|size=中型
+|type=类人生物
+|subtypes=人类亚种;兽人亚种
+|init=+1
+|senses=暗视60尺，察觉+6
+|ac=20，接触11，措手不及19（+7盔甲，+1敏捷，+2天生）
+|hp=32（4d8+11）
+|fort=+6
+|ref=+2
+|will=+5；对精类能力和以植物为对象的效果+4
+|defensive=兽人凶猛
+|speed=20尺
+|melee=精制品木棒+9（1d6+4）
+|ranged=长矛+4（1d8+4/x3）
+|special_attacks=自然变身1次/每日
+|spell_like=（施法者等级4；专注+5）；4次/每日—木拳
+|spells=已准备德鲁伊法术（施法者等级4；专注+5）；2级—[[树肤术]]（领域法术），[[牛之力量]]，[[飞虫走兽]]；1级—[[纠缠术]]（领域法术，DC12）（2），[[妖火]]，[[橡棍术]]（2）；任意施展—[[造水术]]，[[指北术]]，[[光亮术]]，[[稳定伤势]]；领域：植物
+|tactics=<div class="ml wide"><span class="k">战斗前</span>给自己施放树肤术</div><div class="ml wide"><span class="k">战斗中</span>施展纠缠术或飞虫走兽。</div><div class="ml wide"><span class="k">基础数据</span>没有树肤术，德鲁伊的 AC 为18，接触11，措手不及17。</div>
+|str=18
+|dex=12
+|con=14
+|int=8
+|wis=13
+|cha=10
+|bab=+3
+|cmb=+7
+|cmd=18
+|feats=[[自然施法]];[[武器专攻]]（木棒）
+|skills=[[医疗]]+7;[[威吓]]+2;[[知识]]（自然）+8;[[察觉]]+6;[[生存]]+10
+|languages=通用语;德鲁伊语;兽人语
+|sq=自然纽带（植物领域）;自然智识;野性认同+4;兽人血脉;兽人武器熟悉;穿林;无踪步
+|combat_gear=治疗中伤药水
+|gear=+1龙革胸甲;精制品木棒;长矛（4）;冬青和槲寄生;93gp
+|source=NPC志
+|family=核心职业（NPC志）
+|npc=1
+}}
+
+本页译自《[[NPC志]]》的怪物图鉴 CHM。

@@ -1,0 +1,17 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能选集|Psychic Anthology}}
+'''念鞭飓风'''（Whip Hurricane）是[[操念使]]的[[原力]]。
+
+元素：通用；类别：塑形注能；等级：6；超载：4
+
+前置：[[念刃]]，[[念鞭]]，[[念刃旋风]]
+
+关联[[念袭]]类别：任意
+
+豁免：无
+
+如同念刃旋风，除了该注能塑造的是一条念鞭，并且该念鞭会持续到你的下一轮开始或者直到你再次使用任何创造念刃或者念鞭的塑形注能，以先发生为准。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Whip Hurricane|2=Whip Hurricane}}
+
+[[分类:原力]]

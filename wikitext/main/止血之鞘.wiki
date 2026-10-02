@@ -1,0 +1,15 @@
+{{魔法物品
+|name=止血之鞘
+|english_name=Scabbard of Stanching
+|aon=MagicWondrousDisplay.aspx?FinalName=Scabbard of Stanching
+|cat=奇物
+|aura=微弱咒法系
+|cl=5
+|slot=无
+|price=5,000 gp
+|weight=2磅
+|description=这个精致的红色皮革剑鞘装饰着金色花丝。它适用于任何带刃的挥砍武器。穿戴时，止血之鞘可以保护穿戴者免受[[流血]]伤害。每当穿戴者受到流血效果时，剑鞘会自动将其止住。对于需要DC 16或更高的施法者等级检定或[[医疗]]检定才能止住的效果造成的流血伤害，它没有作用。
+|req=[[制造奇物]]、[[治疗轻伤]]
+|cost=2,500 gp
+|source=进阶玩家指南、极限宝具
+}}

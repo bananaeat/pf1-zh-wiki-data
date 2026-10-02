@@ -1,0 +1,11 @@
+{{Trait
+|name=诗人梦
+|english_name=Aspiring Bard
+|type=种族
+|prerequisites=[[人类]]（塔尔多人）
+|description=你在吉萨洛丹学院和狂想曲学院的开放校园里漫步了不知道多少次，在聆听着那些绝世的音乐家和歌者的歌声的同时，你也开始做着自己作为诗人的白日梦。
+
+你在一种表演检定上获得+1的背景加值，在任何涉及到欧帕拉音乐的知识（本地）检定中你都会获得+2背景加值。
+|source_name=塔尔多，荣光荡漾之地
+|source_url=https://pf1chm.pages.dev/topics/page_938.html
+}}

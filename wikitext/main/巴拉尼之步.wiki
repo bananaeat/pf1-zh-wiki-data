@@ -1,0 +1,9 @@
+{{Trait
+|name=巴拉尼之步
+|english_name=Bralani's Step
+|type=种族
+|prerequisites=[[神裔]]（艺术之民）
+|description=你的祖先是一位[[巴拉尼灵使]]，一种以战斗时狂野的速度著称的灵使。在你战斗时，你能感觉一股激烈的能量充斥在四肢百骸中。每天一次，你可以在一次移动动作中移动额外5尺。
+|source_name=天界血脉
+|source_url=https://pf1chm.pages.dev/topics/page_828.html
+}}

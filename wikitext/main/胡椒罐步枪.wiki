@@ -1,0 +1,19 @@
+{{武器
+|name=胡椒罐步枪
+|english_name=Pepperbox rifle
+|category=火器
+|prof=异种
+|wcat=双手
+|price=7,000 gp
+|weight=15磅
+|dmg_s=1d8
+|dmg_m=1d10
+|crit=×4
+|range=80尺
+|type=钝击和穿刺
+|misfire=1-2
+|capacity=4
+|groups=火器
+|description=这把[[步枪]]的四只枪管安装在可旋转的枪管座上，可以在两次射击之间迅速用手旋转（一个[[自由动作]]）。胡椒罐步枪的弹药为金属定装弹。这是一件近代火器。
+|source=极限战斗、极限宝具
+}}

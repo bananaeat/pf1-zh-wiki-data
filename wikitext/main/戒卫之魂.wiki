@@ -1,0 +1,10 @@
+{{Feat
+|name=戒卫之魂
+|english_name=Spiritual Guardian
+|description=负责防卫你的精魂要比其他的灵体更加强大。
+|prerequisites=可以施放法术灵能武器或灵能盟友，萨满魂术职业能力
+|benefit=每当你施放[[灵能武器]]或[[灵能盟友]]，或类似的召唤灵魂存在的法术时，它的基础攻击加值将使用你的[[萨满]]等级而非你的基本攻击加值，并且可以因此而获得额外的攻击次数。除此之外，这些法术在克服目标的[[特殊能力#法术抗力|法术抗力]]的施法者等级检定与伤害上获得+2加值。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

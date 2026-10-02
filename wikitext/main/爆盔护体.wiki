@@ -1,0 +1,12 @@
+{{Feat
+|name=爆盔护体
+|english_name=Cloven Helm
+|categories=战斗
+|description=你的头盔能卸除致命的打击。
+|prerequisites=[[裂盔护体]]，[[铁头]]，基本攻击加值+11，矮人。
+|benefit=当你佩戴头盔时，你的AC在对抗重击确认检定时获得+1加值；该加值与[[裂盔护体]]专长叠加。当你使用“裂盔护体”偏转重击时，你能够在自身受到伤害前，将重击造成的所有伤害转移至头盔上。如果你没有受到伤害，那么任何额外效果——比如[[重击专长]]或毒素——均不会生效。
+|stamina=当你被重击威胁时，可最多花费5点耐力，并在对抗重击确认的投骰时获得等同所耗费耐力值的AC加值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

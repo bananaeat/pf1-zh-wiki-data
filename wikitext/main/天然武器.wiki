@@ -1,0 +1,11 @@
+{{Feat
+|name=天然武器
+|english_name=Nature's Weapons
+|categories=战斗
+|description=野外几乎任何可以找到的东西，你都可以用之作为武器。
+|prerequisites=[[随手武器]]；基础攻击加值+2；[[知识]]（自然）或生存2级。
+|benefit=你几乎可以把你在荒野中找到的任何东西作为一种临时近战武器。这类临时近战武器对中体型生物来说是一种能造成1d6点伤害的单手武器，对小体型生物来说则是一种能造成1d4点伤害的单手武器。取决于该武器的特点（由GM决定），它造成的伤害类型是钝击伤害、穿刺伤害、或挥砍伤害。抓一个物品作为武器的动作，与拔出一把武器的动作相同。此类武器的材料必须是现处地形中天然存在的一种材料。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

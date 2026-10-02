@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（War for the Crown Player's Guide pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=塔尔多爱国者
+|english_name=Taldan Patriot
+|type=战役
+|pfs=否
+|description=你热爱你的国家、它的历史和它的人民……即使他们未必同样爱你。无论你是官僚、小贵族还是士兵，你都希望自己的社群尽善尽美，并将这份热爱倾注于一个为塔尔多人民服务的职位中。你所有的[[察言观色]]和[[知识]]（历史）检定获得+1加值，并且这些技能永远是你的本职技能。此外，每天一次，你可以回想起关于某位塔尔多贵族个性的一项具体事实——诸如爱好或最讨厌的小事之类的癖好——包括你通常需要在社交战斗中通过发现检定才能得知的信息。
+|source_name=皇冠战争玩家手册
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Taldan%20Patriot
+}}

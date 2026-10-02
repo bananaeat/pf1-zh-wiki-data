@@ -1,0 +1,20 @@
+{{魔法物品
+|name=躯钉
+|english_name=Body Piercings
+|aon=ShadowPiercingsDisplay.aspx?FinalName=Body PiercingsMinor
+|cat=暗影穿环
+|aura=微弱变化系
+|cl=3
+|slot=躯体
+|price=1,800 gp（次等）；2,400 gp（标准）；3,200 gp（高等）
+|description=这些穿钉呈怪诞的尖刺与钉针之形，遍布穿戴者肌肤的每一寸。
+
+次等：穿戴者对抗擒抱的[[CMD]]获得+2表现加值。
+
+标准：任何对穿戴者进行天生攻击或[[徒手攻击]]的生物必须通过DC 15的反射豁免，否则受到1d4点伤害。
+
+高等：穿戴者在不穿护甲也不穿厚重衣物时，视为拥有+1甲刺，并视为熟练使用甲刺。
+|req=[[制造影钉]]、[[精通擒抱]]、[[魔化武器]]
+|cost=900 gp（次等）；1,200 gp（标准）；1,600 gp（高等）
+|source=秽邪勇士
+}}

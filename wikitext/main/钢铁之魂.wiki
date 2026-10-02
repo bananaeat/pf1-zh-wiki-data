@@ -1,0 +1,11 @@
+{{Feat
+|name=钢铁之魂
+|english_name=Steel Soul
+|description=你抵御魔法的能力很强。
+|prerequisites=[[矮人]]，【坚韧】种族特性。
+|benefit=在对抗法术以及类法术能力时，你的豁免获得+4种族加值。这取代了[[矮人]]的【坚韧】[[种族特性]]的正常加值。
+|normal=正常情况下，矮人在对抗法术以及类法术能力时，豁免获得+2种族加值。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

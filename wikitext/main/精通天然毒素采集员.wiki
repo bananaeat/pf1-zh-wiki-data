@@ -1,0 +1,10 @@
+{{Feat
+|name=精通天然毒素采集员
+|english_name=Improved Natural Poison Harvester
+|description=自然界的多数有毒生物，你都能从其身上采集毒素。
+|prerequisites=[[天然毒素采集员]]，[[工艺]]（炼金）9级，生存9级。
+|benefit=当你成功地从危害物或死亡的生物身上采集毒素时，你将会获得额外1d4剂的毒素。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

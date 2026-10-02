@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 198），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=暧昧效忠
+|english_name=Murky Allegiance
+|type=种族
+|prerequisites=窃影鬼
+|description=你成长于一个[[窃影鬼]]侍奉黑暗势力的地方。你为传递秘密讯息，以及为暗示你效力于某个强大的阴险阴谋集团、邪恶的权威人物或影子政府而进行的[[唬骗]]检定获得+2背景加值。与这类势力打交道时，你的[[交涉]]检定也获得+2背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Murky%20Allegiance
+}}

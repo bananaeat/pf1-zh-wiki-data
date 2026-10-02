@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''疾速'''（Celerity, Sp）是[[操念使]]的[[原力]]。
+
+元素：气；类别：通用（Sp）；等级：3；超载：0
+
+你可以把盟友体内的电流活性化并以此来增强他们的速度。它的功能就如同仅持续1轮的[[加速术]]一般。你可以承受1点超载来使得持续时间延长至每个[[操念使]]等级1轮。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Celerity|2=Celerity}}
+
+[[分类:原力]]

@@ -1,0 +1,10 @@
+{{Feat
+|name=地底亲和
+|english_name=Groundling
+|description=你能够与穴居动物交流。
+|prerequisites=魅力13，[[侏儒]]，【侏儒魔法】种族特性。
+|benefit=你能够随意以类法术能力使用[[动物交谈]]，但是只能用于与穴居动物交流，如囊地鼠、鼹鼠等等。你仍可以如常使用侏儒的动物交谈能力（每日1次）与任意种类的动物沟通。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

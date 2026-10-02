@@ -1,0 +1,19 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[神圣护甲 (神话)]]。</small></div>
+{{Spell
+|name=神圣护甲
+|english_name=Sanctify armor
+|school=防护系
+|tags=善良
+|levels=圣武士 3;审判者 4
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的护甲
+|duration=1分钟/等级
+|save=意志，通过则无效（无害，物体）
+|sr=是
+|description=你使自己的护甲充满正义的灵光，使其获得每4个施法者等级1点增强加值 （最高为20级时+5）。当你使用你的审判或制裁能力时，获得DR 5/邪恶。
+
+一套普通的外衣对于该法术来说，视为提供0点AC加值的护甲。
+|source=进阶玩家指南
+}}

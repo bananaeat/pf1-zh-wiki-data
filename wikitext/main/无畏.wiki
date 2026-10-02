@@ -1,0 +1,14 @@
+<div class="well" style="margin:.2em 0"><small>本页是背景特性。神话角色的同名[[通用道途能力]]见 [[无畏（道途能力）]]。</small></div>
+{{Trait
+|name=无畏
+|english_name=Undaunted
+|type=信念
+|description=在你追寻自由之路的童年里，曾屡遭暴徒与恶霸威胁，而你已历练得心志坚定。他人用威吓检定挫败你士气的DC提高2点。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh484c89782e.htm
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[不屈喝彩]]（1 个条目）

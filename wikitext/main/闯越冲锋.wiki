@@ -1,0 +1,14 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[闯越冲锋 (神话)]]。</small></div>
+{{Feat
+|name=闯越冲锋
+|english_name=Charge Through
+|categories=战斗
+|description=你能够在冲锋时进行[[闯越]]。
+|prerequisites=力量13，[[精通闯越]]，[[猛力攻击]]，基本攻击加值+1。
+|benefit=当你进行冲锋时，可以尝试以[[自由动作]]闯越路径上的一个生物。如果你成功闯越该名生物，就能够完成此次冲锋。如果闯越失败，则冲锋会在该名生物面前的空间结束。
+|normal=为了冲锋目标，你与目标之间不能有障碍。
+|stamina=如果闯越失败，你的冲锋终止于障碍生物，花费5点耐力可使你将此生物作为冲锋的目标。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

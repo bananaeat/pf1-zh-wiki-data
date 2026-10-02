@@ -1,0 +1,46 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=棘海星
+|english_name=Spiny Starfish
+|cr=1/6
+|xp=65
+|alignment=绝对中立
+|size=超小型
+|type=虫类
+|init=+1
+|senses=黑暗视觉 60 尺，颤动感知 20 尺；察觉 +0
+|description=这只颜色鲜艳、呈星形的生物，五条腕上生长着许多刺。
+|ac=15，接触 13，措手不及 14（+1 敏捷，+2 天生，+2 体型）
+|hp=6（1d8+2）
+|fort=+4
+|ref=+1
+|will=+0
+|defensive=迅速愈合
+|immune=影响心灵效果
+|speed=5 尺，攀爬 5 尺，游泳 5 尺
+|melee=挥击 –1（1d2–3 外加攫抓）
+|space=2–1/2 尺
+|reach=0 尺
+|special_attacks=攫抓（小型）
+|str=4
+|dex=13
+|con=14
+|int=—
+|wis=11
+|cha=3
+|bab=+0
+|cmb=–1（擒抱时 +5）
+|cmd=6（无法被摔绊）
+|skills=[[攀爬]] +5;[[游泳]] +5
+|sq=牢固抓握
+|environment=任意海洋
+|organization=单独，一对，或一簇（3–22）
+|treasure=无
+|special_abilities={{怪物能力|牢固抓握|Ex|棘海星擅长抓住猎物，它在擒抱检定上获得 +6 种族加值（而不是大多数因拥有攫抓能力而获得的标准 +4 加值）。}}
+{{怪物能力|迅速愈合|Ex|棘海星愈合得非常快，每小时恢复的生命值等于其生命骰数（一般的棘海星为每小时 1 点生命值）。}}
+|source=极限荒野
+|lore=
+棘海星是海洋无脊椎动物，在海底游荡，寻觅软体动物和其他行动缓慢的猎物。它们的管足使其能牢牢抓住选定的食物来源，并且它们以能将胃翻出体外、送入被制服的贝类体内消化食物而闻名。受伤的棘海星愈合迅速，甚至能随着时间重新长出失去的腕。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Spiny Starfish|2=Spiny Starfish}}

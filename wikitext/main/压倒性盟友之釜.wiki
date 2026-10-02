@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=压倒性盟友之釜
+|english_name=Cauldron of Overwhelming Allies
+|aon=MagicWondrousDisplay.aspx?FinalName=Cauldron of Overwhelming Allies
+|cat=奇物
+|aura=中等咒法系
+|cl=8
+|slot=无
+|price=4,500 gp
+|weight=5磅
+|description=这口青铜小釜的暗色表面上刻着艺术化的涂鸦，描绘了各种奇异动物、传说中的野兽、不怀好意地斜睨着的邪魔，以及成群的元素生物。每天一次，如果把它用作召唤怪物或召唤自然盟友法术的法器或神圣法器，大釜会自动额外召唤1d3个同种生物，取自低一环的列表。例如，使用者施放召唤怪物 III 召唤1d3只狼时，还可以额外召唤1d3只狼（或2环列表中的其他生物）。
+|req=[[制造奇物]]、[[法术专攻]]（咒法）、[[召唤怪物 IV]]或[[召唤自然盟友 IV]]
+|cost=2,250 gp
+|source=冒险之路67：夏日之雪
+}}

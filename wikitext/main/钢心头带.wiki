@@ -1,0 +1,15 @@
+{{魔法物品
+|name=钢心头带
+|english_name=Iron Band of Iron Mind
+|aon=MagicWondrousDisplay.aspx?FinalName=Iron Band of Iron Mind
+|cat=奇物
+|aura=中等防护系
+|cl=9
+|slot=头饰
+|price=15,000 gp
+|weight=4磅
+|description=这条头带使穿戴者在对抗所有惑控系法术的豁免检定上获得+4加值。具有巨人亚种的生物佩戴时，它会使佩戴者免疫只以类人生物为目标的惑控效果（例如[[魅惑人类]]或[[人类定身术]]）。
+|req=[[制造奇物]]、[[破除结界]]、制造者必须具有巨人亚种
+|cost=7,500 gp
+|source=冒险之路91：血征山之战
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Adventurer's Armory 2 pg. 3），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=行贿好手
+|english_name=Amiable Briber
+|type=社会
+|pfs=否
+|prerequisites=艾巴萨罗姆
+|description=你向别人行贿时，通常显得像是在逗趣或开玩笑。某人第一次拒绝你提出的贿赂时，该人对你的态度不会变差，即使这份提议通常会冒犯对方（如同你的[[交涉]]检定失败了5或更多）。
+|source_name=冒险者的军械库2
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Amiable%20Briber
+}}

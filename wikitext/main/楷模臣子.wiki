@@ -1,0 +1,11 @@
+{{Feat
+|name=楷模臣子
+|english_name=Peerless Courtier
+|description=作为一名深受总督喜爱的英雄，你已学会如何将战斗技巧转化为社会影响
+|prerequisites=13魅力。BAB+3
+|benefit=选择一个技能:[[唬骗]]，交涉或察言观色。你可以用你的基本攻击加值代替你在所选技能上的等级。该技能也成为你的[[本职技能]]。
+|special=你可以选择这一专长至多三次，其效果不叠加。每次选择这一专长时，你必须选择一个额外的技能来受益于本专长。
+|source=HotHC
+|source_name=皇庭英豪
+|source_url=https://pf1chm.pages.dev/topics/page_670.html
+}}

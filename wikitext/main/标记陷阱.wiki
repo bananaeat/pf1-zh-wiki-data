@@ -1,0 +1,10 @@
+<noinclude>{{游侠导航}}
+{{Source|极限魔法|Ultimate Magic}}
+
+'''标记陷阱'''（Marking Trap*，Ex 或 Su）是一种[[游侠陷阱]]。
+
+</noinclude>'''标记陷阱*'''（Ex 或 Su）：如果触发陷阱的生物对陷阱的豁免失败，它会被染上游侠选定的染料和/或气味。气味标记使以嗅觉追踪该生物的 DC 降低4。标记可以用力擦洗掉，否则几天后也会自行褪去。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_58.html 原文]），按 AoN 校过。全部游侠陷阱见 [[游侠陷阱]]。
+
+[[分类:游侠陷阱]]</noinclude>

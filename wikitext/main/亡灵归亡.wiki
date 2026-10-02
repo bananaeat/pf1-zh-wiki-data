@@ -1,0 +1,16 @@
+{{Spell
+|name=亡灵归亡
+|english_name=Undeath to Death
+|school=死灵系
+|levels=先知 6;唤魂师 6;奥能师 6;审判者 6;战斗祭司 6;术士 6;法师 6;牧师 6
+|domains=荣耀领域 6;安眠领域 6
+|action=标准动作
+|components=语言;姿势;材料/圣徽（价值500gp的钻石尘）
+|range=中距
+|area=半径40尺爆发范围内的数个不死生物
+|duration=立即
+|save=意志，通过则无效
+|sr=是
+|description=此法术作用类似[[死亡法阵]]，但本法术会如上文描述中的那样摧毁不死生物。
+|source=核心规则书
+}}

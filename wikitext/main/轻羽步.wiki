@@ -1,0 +1,15 @@
+{{Spell
+|name=轻羽步
+|english_name=Feather step
+|school=变化系
+|levels=吟游诗人 1;异能者 1;德鲁伊 1;歌者 1;游侠 1;猎人 1
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一名生物
+|duration=10分钟/等级
+|save=强韧，通过则无效（无害）
+|sr=是
+|description=在该法术的持续时间内，受术者无视[[困难地形]]对移动带来的不利影响，并且可以在困难地形中进行[[5尺快步]]。
+|source=进阶玩家指南
+}}

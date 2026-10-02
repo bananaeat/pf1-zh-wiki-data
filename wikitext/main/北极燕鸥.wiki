@@ -1,0 +1,43 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=北极燕鸥
+|english_name=Arctic Tern
+|cr=1/6
+|xp=65
+|alignment=绝对中立
+|size=超小型
+|type=动物
+|init=+2
+|senses=昏暗视觉；察觉 +6
+|description=这只白灰相间的鸟有着红橙色的喙。
+|ac=14，接触 14，措手不及 12（+2 敏捷，+2 体型）
+|hp=2（1d8–2）
+|fort=+0
+|ref=+4
+|will=+2
+|speed=10 尺，飞行 40 尺（一般）
+|melee=啮咬 –2（1d3–4）
+|space=2–1/2 尺
+|reach=0 尺
+|str=2
+|dex=15
+|con=7
+|int=2
+|wis=14
+|cha=5
+|bab=+0
+|cmb=+0
+|cmd=6
+|feats=[[技能专攻]]（飞行）
+|skills=[[飞行]] +9;[[察觉]] +6
+|environment=寒冷的海岸
+|organization=单独，一对，或一群（3–20）
+|treasure=无
+|source=极限荒野
+|lore=
+这些候鸟是敏捷而优雅的飞行者，捕食鱼类和海洋无脊椎动物。北极燕鸥终身配偶，在地面上筑巢。
+
+北极燕鸥体长约 1 尺，重约半磅。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Arctic Tern|2=Arctic Tern}}

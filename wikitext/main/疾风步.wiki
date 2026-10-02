@@ -1,0 +1,15 @@
+{{Feat
+|name=疾风步
+|english_name=Wind Stance
+|categories=战斗
+|description=你移动时步伐[[飘忽不定]]，令敌人难以瞄准你的位置。
+|prerequisites=敏捷15，[[闪避]]，基本攻击加值+6。
+|benefit=若你在本回合移动超过5尺，则你在1轮内针对远程攻击获得20％[[隐蔽]]。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[闪电步]]（1 个条目）

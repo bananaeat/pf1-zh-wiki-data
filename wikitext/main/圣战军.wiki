@@ -1,0 +1,9 @@
+{{Trait
+|name=圣战军
+|english_name=Crusader
+|type=信念
+|description=你研读了"至高指挥官"一章，并熟读了世界之伤战役的记述，训练自己成为对抗恶魔的圣战士。你在对混乱亚种的异界生物进行攻击检定时获得+1背景加值。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh484c89782e.htm
+}}

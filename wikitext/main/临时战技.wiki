@@ -1,0 +1,10 @@
+{{Feat
+|name=临时战技
+|english_name=Makeshift Maneuvers
+|categories=战斗
+|description=你使用临时武器的技巧可以用它们阻碍对手。
+|prerequisites=随手武器或随手投掷，BAB+1
+|benefit=当你持用临时武器时，它获得摔绊和[[卸武]]武器特性。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/page_1343.html
+}}

@@ -1,0 +1,9 @@
+{{消歧义|斗殴(武器附魔)}}
+{{狂暴之力
+|name=斗殴
+|english_name=Brawler
+|type=Ex
+|categories=进攻
+|benefit=狂暴时野蛮人被视为如同有[[精通徒手打击]]专长。如果他已经拥有专长，他[[徒手打击]]造成1d6点伤害(小型1d4)。
+|source_name=进阶玩家指南
+}}

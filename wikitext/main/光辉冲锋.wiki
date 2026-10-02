@@ -1,0 +1,10 @@
+{{Feat
+|name=光辉冲锋
+|english_name=Radiant Charge
+|description=信仰之力与你同在。
+|prerequisites=【圣疗】职业特性。
+|benefit=当你在冲锋中命中时，你可以花费你所有剩下的圣疗次数造成额外伤害，数值等于所花费的每次圣疗次数1d6，再加上你的魅力调整值。这是一种源自神圣力量的伤害，伤害抗力、免疫能量伤害、能量抗力对此不起作用。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

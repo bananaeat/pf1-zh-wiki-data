@@ -1,0 +1,11 @@
+{{消歧义|述古者(萨满变体职业)}}
+{{Trait
+|name=述古者
+|english_name=Oral Historian
+|type=种族
+|prerequisites=[[人类]]（休盎提人）
+|description=你学习了许多助记工具以便更容易地回忆起你的部族的叙事者大师所传授的信息。你在知识[历史]和表演[朗诵]检定获得+1背景加值，而且其中一个技能(由你选择)总是你的[[本职技能]]。
+|source_name=内海种族
+|source=Inner Sea Races
+|source_url=https://pf1chm.pages.dev/topics/zh3a98986c0e.htm
+}}

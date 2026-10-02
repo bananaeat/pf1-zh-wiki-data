@@ -1,0 +1,12 @@
+{{消歧义|谈判专家 (消歧义)}}
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[谈判专家 (神话)]]。</small></div>
+{{Feat
+|name=谈判专家
+|english_name=Persuasive
+|aliases=说服者
+|description=你善于动摇态度和胁迫他人按你的想法行事。
+|benefit=你在交涉和威吓技能检定上获得+2加值。如果某技能受训等级10以上，该技能获得的加值提升为+4。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

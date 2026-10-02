@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[诅咒巫术]] 的神话版本。</small></div>
+{{Feat
+|name=诅咒巫术
+|english_name=Accursed Hex
+|categories=神话
+|description=你的[[巫术]]顽强而持续地闪耀着。
+|prerequisites=[[诅咒巫术]]
+|benefit=当你使用[[诅咒巫术]]专长，对目标第二次使用巫术时，该名生物必须进行两次豁免检定并且取较低的结果。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

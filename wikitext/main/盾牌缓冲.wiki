@@ -1,0 +1,11 @@
+{{Feat
+|name=盾牌缓冲
+|english_name=Cushioning Shield
+|categories=盾牌掌握;战斗
+|description=使用盾牌吸收坠落时的部分伤害。
+|prerequisites=[[盾牌专攻]]，BAB+6或者战士4级
+|benefit=当你坠落10尺或以上时，将一半的坠落伤害转嫁给你的盾牌。该伤害无视盾牌硬度。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_361.html
+}}

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Disciple's Doctrine pg. 3），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=博通众信
+|english_name=Ecumenical
+|type=社会
+|description=你在玛格尼玛（或类似的世界性都市）度过的童年，让你学会辨认对至高天领主等半神的崇拜迹象。你在涉及最具影响力的神祇以外之存在的[[知识]]（宗教）检定上获得+2背景加值。你在影响这类存在之崇拜者的[[交涉]]检定上也获得+2背景加值。
+|source_name=门徒教义
+|source=DD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Ecumenical
+}}

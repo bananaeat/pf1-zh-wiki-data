@@ -1,0 +1,17 @@
+{{武器
+|name=屠戮斧
+|english_name=Butchering axe
+|category=武器
+|prof=异种
+|wcat=双手
+|price=65 gp
+|weight=25磅
+|dmg_s=1d12
+|dmg_m=3d6
+|crit=×3
+|type=挥砍
+|special=见正文
+|groups=斧
+|description=屠戮斧出自贝尔克泽恩的兽人铁匠之手。这柄斧头有着一个特大号的斧首，上面点缀有尖刺。同时其斧柄粗长而厚实，勉强能让其重量保持平衡。如果使用者的力量低于19（如果是小体型及以下的尺寸则是17），则他将无法操控这柄有着让人望而生畏尺寸的武器，并在攻击时会受到-2减值。
+|source=冒险者的军械库2
+}}

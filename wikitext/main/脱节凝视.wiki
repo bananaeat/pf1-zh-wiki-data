@@ -1,0 +1,11 @@
+{{Feat
+|name=脱节凝视
+|english_name=Disconcerting Stare
+|categories=战斗;凝视
+|description=你的痛苦注视让你的目标失常，无法注意他的周围。
+|prerequisites=催眠师5级，痛苦注视OA职业能力
+|benefit=当你触发你的痛苦注视，目标必须通过一个意志豁免(DC=10+1/2催眠师等级+魅力调整)，否则要在[[解除装置]]和察觉技能检定上承受-6罚值，反射豁免检定承受-2罚值，持续1分钟。如果目标拥有[[盗贼#寻找陷阱|寻找陷阱]]或[[陷阱感知]]职业能力且在豁免中失败，目标还会失去这些职业能力1分钟。
+|source=MTT、MagicTT
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_325.html
+}}

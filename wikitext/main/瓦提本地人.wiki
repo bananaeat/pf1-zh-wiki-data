@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Mummy's Mask Player's Guide pg. 10, People of the Sands pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=瓦提本地人
+|english_name=Wati Native
+|type=战役
+|pfs=否
+|description=你在瓦提城土生土长，对它的街道和秘密了如指掌。尽管城市当局对此很不满，你还是多次溜进大墓地，在那些尘土飞扬、荒无人烟的街道上游荡。出于对逝者的尊重，你从未真正进入过大墓地里任何一座寂静的陵墓，但你对里面可能有什么毫无畏惧。你对抗恐惧效果的豁免获得+2背景加值。此外，你对这座城市的了解使你的[[知识]]（本地）检定获得+1背景加值，且该技能总是你的本职技能。
+|source_name=Mummy's Mask Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Wati%20Native
+}}

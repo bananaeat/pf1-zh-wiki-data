@@ -1,0 +1,15 @@
+{{Spell
+|name=群体人性潜力
+|english_name=Human potential, mass
+|school=变化系
+|levels=召唤师 6;吟游诗人 6;奥能师 6;异能者 6;术士 6;歌者 6;法师 6
+|action=标准动作
+|components=语言;姿势;材料（一根人类的头发）
+|range=近距（25尺+5尺/2等级）
+|target=一个生物/等级，彼此相距不得超过30尺
+|duration=1分钟/等级
+|save=意志，通过则无效（无害）
+|sr=是
+|description=这种法术类似于[[人性潜力]]，除了可以影响多个生物。每个目标可以选择不同的属性来强化。
+|source=秘术选集
+}}

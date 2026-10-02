@@ -1,0 +1,12 @@
+{{Trait
+|name=习惯诡计
+|english_name=Accustomed to Trickery
+|type=地区
+|prerequisites=黑月森林
+|description=你曾经直面过精类的魔法，因而你知道该如何避免受到它的影响。
+|benefit=每天一次，当你在对抗精类生物的类法术能力或超自然能力的豁免中失败时，你可以重投该次豁免。你必须接受第二次的结果，即使它更糟糕。
+|regions=黑月森林
+|source=LotFW
+|source_name=第一世界的遗产
+|source_url=https://pf1chm.pages.dev/topics/page_1070.html
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=契约追随者
+|english_name=Pact Servant
+|type=信念
+|description=霍洛摩格的信仰专注于在不寻常的地方发现美好并且欣赏世上美德的细微差别。作为牧师、审判者或其他神术施法者决定自己的阵营时，你可以将[[阿斯莫迪斯]]视为守序中立神祇。你不能选择邪恶领域除非你自己的阵营包含邪恶部分。
+|source_name=遥远世界
+|source=Distant Shores
+|source_url=https://pf1chm.pages.dev/topics/zh626a683d0a.htm
+}}

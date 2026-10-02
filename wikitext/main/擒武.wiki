@@ -1,0 +1,12 @@
+{{Feat
+|name=擒武
+|english_name=Arming Grab
+|categories=战斗
+|description=你表现出的手无寸铁可能让敌人错误估计你的实力。你熟练于在面对武装敌人时扭转攻势，用他们自身的武器攻击他们。
+|prerequisites=智力13，[[随手武器]]，[[寓守于攻]]，[[精通卸武]]
+|benefit=你在徒手状态下进行[[卸武]]检定的攻击骰上不受到减值。如果你成功通过了一次不使用武器的卸武检定并且决定捡起卸下的武器，你可以如同擅长这把武器一样，直到你下一回合结束，用它进行攻击。如果你本来就擅长这把武器，你在下一回合结束前使用这把武器的攻击骰上获得+2士气加值。
+|normal=徒手状态下进行卸武会受到攻击骰-4减值。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/zh0ff052e72d.htm
+|source=MAH
+}}

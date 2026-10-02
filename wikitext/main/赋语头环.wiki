@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=赋语头环
+|english_name=Circlet of Speaking
+|aon=MagicWondrousDisplay.aspx?FinalName=Circlet of Speaking
+|cat=奇物
+|aura=微弱预言系
+|cl=4
+|slot=头饰
+|price=4,800 gp
+|weight=1磅
+|description=这条纤细的银头环能让佩戴它的动物开口说话，即使该动物本来因智力值低或不会任何已知语言而无法说话。头环的制造者在制作时决定佩戴者能说哪种语言（通常是通用语）；制作完成后不能再更改。赋语头环不会给动物提供智力加值，佩戴者的总体行为也基本不变，不过它能表达自己的意愿和粗浅的知识，就如同有人用[[动物交谈]]与它沟通一样。
+|req=[[制造奇物]]、[[动物交谈]]
+|cost=2,400 gp
+|source=动物档案
+}}

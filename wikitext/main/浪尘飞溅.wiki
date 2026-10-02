@@ -1,0 +1,16 @@
+{{Spell
+|name=浪尘飞溅
+|english_name=Spindrift Spritz
+|school=咒法系 (治疗)
+|tags=水
+|levels=圣武士 1;游侠 1;猎人 1;先知 2;唤魂师 2;审判者 2;德鲁伊 2;战斗祭司 2;牧师 2;萨满 2
+|action=直觉动作
+|components=语言;姿势
+|range=近距（25尺+5尺/2等级）
+|target=一个生物
+|duration=立即
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=只有当目标尝试针对会造成[[疲乏]]、[[战栗]]、[[恶心]]或[[恍惚]]状态的效果进行豁免检定时，你才能作为回应施放此法术。目标的这次豁免检定可以双骰取高。
+|source=元素大师手册
+}}

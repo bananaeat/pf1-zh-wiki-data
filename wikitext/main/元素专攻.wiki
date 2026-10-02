@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[元素专攻 (神话)]]。</small></div>
+{{Feat
+|name=元素专攻
+|english_name=Elemental Focus
+|description=你所施放的某种元素的法术会更加难以抵御。
+|benefit=选择一种能量类型（酸蚀，寒冷，闪电或者火焰）。所有造成此类能量伤害的法术，其豁免DC提高1点。
+|special=你可以多次选取该专长。其效果不会叠加。每次选取该专长都会应用到一种新的能量类型上。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

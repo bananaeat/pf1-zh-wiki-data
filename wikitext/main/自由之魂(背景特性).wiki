@@ -1,0 +1,9 @@
+{{Trait
+|name=自由之魂
+|english_name=Free Spirit
+|type=社会
+|description=你尊重他人畅所欲言的自由。坎坷的成长经历让你坚信每个人都有权表达观点——毕竟你总可选择充耳不闻。你在对抗基于语言及带有音波描述符的效果时，豁免检定获得+1背景加值。此外，对你进行威吓的DC提高2点。
+建议角色：安多安人，[[黛丝娜]]信徒，[[埃拉斯蒂尔]]信徒
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

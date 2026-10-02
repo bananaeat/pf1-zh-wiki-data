@@ -1,0 +1,12 @@
+{{Feat
+|name=复原掌握
+|english_name=Restoration Mastery
+|categories=物品掌握
+|pfs=否
+|description=你不仅仅能治疗肉体上的伤势。
+|prerequisites=医疗技能5级，使用魔法装置技能5级，基础强韧豁免加值+3
+|benefit=你可以引导一件制造时需求使用咒法（医疗）系法术，且该法术至少为二环的魔法物品中的能量，施放一次[[次等复原术]]。如果你在医疗和[[使用魔法装置]]技能上都拥有至少9级，你可以改为引导一件制造时需求使用咒法（医疗）系法术，且该法术至少为三环的魔法物品中的能量，施放[[移除目盲/耳聋]]或[[移除麻痹]]。你每天可以使用该专长1次，基础强韧豁免加值达到+9和+12时可以获得一次每日额外使用次数。
+|source=MTT、MagicTT
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_325.html
+}}

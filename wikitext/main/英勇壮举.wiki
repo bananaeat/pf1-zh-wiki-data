@@ -1,0 +1,11 @@
+{{Feat
+|name=英勇壮举
+|english_name=Daring Exploit
+|description=你凭藉着决心，冒着极高的风险去成就伟业。
+|prerequisites=挑战自我、炫技或灵感职业能力
+|benefit=每日1次，在你使用炫技中的大胆特技、挑战自我、或者其他允许你投掷一个骰子并将结果加到d20检定结果上的类似能力时，你能够将奖励骰子投掷2次，并取较高的结果。若投掷出的较高结果让你能够再次投掷额外骰子，那么你仅能在初次投掷时获得该专长带来的好处。每具有4级角色等级，每日你就能够额外使用1次该专长。
+|notes=该专长能够帮助那些总是尝试困难的行动或任务之人。
+|source=PotR
+|source_name=正义之路
+|source_url=https://pf1chm.pages.dev/topics/page_678.html
+}}

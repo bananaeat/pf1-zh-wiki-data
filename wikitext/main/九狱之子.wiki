@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Hell's Vengeance Player's Guide pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=九狱之子
+|english_name=Scion of the Nine Circles
+|type=战役
+|pfs=否
+|description=尽管对[[阿斯莫迪斯]]的崇拜在切利亚斯各地十分普遍，你却走上了另一条道路：魔鬼主义哲学。阿斯莫迪斯和其他魔鬼大公当然值得尊敬和效仿，但你并不把某一位地狱领主奉于其他所有领主之上，你的信仰所崇敬的，是作为完美社会典范的地狱本身的秩序和法律。自由意志必须压制，以防止叛乱；奴隶制不可或缺，以使卑贱者安守本分；邪恶与残忍是必要的，善良与仁慈才能存在。
+
+你在[[知识]]（位面）检定上获得+1背景加值，并且知识（位面）是你的本职技能。你还懂得炼狱语（这不计入你的语言数量）。此外，你对地狱底层结构的研究为你的决心注入了力量。在对抗具有善良亚种的异界生物的影响心灵效果时，你的意志豁免获得+2背景加值。
+|source_name=Hell's Vengeance Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Scion%20of%20the%20Nine%20Circles
+}}

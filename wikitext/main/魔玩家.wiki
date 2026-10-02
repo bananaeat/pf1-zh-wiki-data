@@ -1,0 +1,9 @@
+{{Trait
+|name=魔玩家
+|english_name=Bauble Fascination
+|type=种族
+|prerequisites=[[鼠族]]
+|description=你特别喜欢各种有魔法效果的小玩意，把他们打开关闭甚至拆解重装都没有问题。你在[[使用魔法装置]]检定上获得+1背景加值，并且你将使用魔法装置技能视为本职技能。
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_451.html
+}}

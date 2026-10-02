@@ -1,0 +1,10 @@
+{{Feat
+|name=混沌降临
+|english_name=Chaos Reigns
+|description=深渊渴求毁灭，最渺小的一点深渊力量也足以唤起纯粹的暴行。
+|prerequisites=[[知识]]（位面）3级
+|benefit=以一个[[迅捷动作]]，你可以令深渊的怒火充盈你的身躯。在这种状态下，你可以用你的一只手做出一次挥击，造成1d6点的伤害（小体型则是1d4）。没有手的生物可以使用身体的其他适当部位做出本次天生武器攻击。你每天能从此专长获益的分钟数等于你的知识（位面）等级，这些分钟不需要你连续使用，但每次启动至少以1分钟为单位决定专长效果持续时间。
+|source=PA
+|source_name=位面冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1492.html
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=生命历练
+|english_name=Breadth of Experience
+|description=尽管你在同族中还很年轻，却已经具备了相当程度的训练与知识。
+|prerequisites=[[矮人]]，精灵或侏儒；年龄100岁以上。
+|benefit=你的所有知识检定与专业检定获得+2加值，并且可以在未受训的情况下进行这些检定。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

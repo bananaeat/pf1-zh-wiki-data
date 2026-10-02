@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Disciple's Doctrine pg. 3），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=自然仪式师
+|english_name=Natural Ritualist
+|type=信念
+|description=你崇敬自然，或是向你的休盎提图腾之灵致敬，或是遵循和灵四御之道安抚你周围的神灵。作为回报，灵体们会祝福你的道路。每周一次，你可以用天然材料建造一座小神龛，并以一场耗时15分钟的仪式表达敬意。施法者可以将此作为每日准备法术的一部分来进行。你在24小时内的[[知识]]（自然）和[[生存]]检定上获得+2背景加值。
+|source_name=门徒教义
+|source=DD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Natural%20Ritualist
+}}

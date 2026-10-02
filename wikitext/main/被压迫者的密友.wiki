@@ -1,0 +1,9 @@
+{{Trait
+|name=被压迫者的密友
+|english_name=Confidante to the Oppressed
+|type=地区
+|prerequisites=追随雄鹰骑士团的角色
+|description=人们能意识到你身上充满着安多安的自由平等的精神。在改善与被压迫、奴役或被囚禁之人的态度时，你的交涉技能检定获得+2背景加值，除非他们有理由不信任你，不然他们对你的初始态度至少是冷漠，或是更好。
+|source_name=内海骑士
+|source_url=https://pf1chm.pages.dev/topics/zhdc70ece933.htm
+}}

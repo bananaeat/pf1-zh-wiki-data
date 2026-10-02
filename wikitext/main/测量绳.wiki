@@ -1,0 +1,10 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{装备
+|name=测量绳
+|english_name=Measuring cord, 10 ft.
+|cat=冒险装备
+|price=1 gp
+|weight=1/2磅
+|description=这段结实的细绳每隔1尺标有刻度，便于测量。测量绳以10尺为单位购买。
+|source=探索者协会战地指南
+}}

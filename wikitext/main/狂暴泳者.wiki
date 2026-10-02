@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=狂暴泳者
+|english_name=Raging Swimmer
+|type=Ex
+|class=掉链野蛮人
+|benefit=野蛮人获得等同于其1/2基础地面速度的游泳速度（将野蛮人的[[掉链野蛮人#快速移动|快速移动]]能力加入其中计算）。她还会在游泳检定上获得+8的增强加值。
+|classic=狂暴游者
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

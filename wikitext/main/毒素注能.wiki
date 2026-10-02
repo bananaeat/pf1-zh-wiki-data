@@ -1,0 +1,17 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|格拉利昂的英雄|Heroes of Golarion}}
+'''毒素注能'''（Venom Infusion）是[[操念使]]的[[原力]]。
+
+元素：通用；类别：性质注能；等级：4；超载：3
+
+前置：[[毒素语者]]
+
+关联[[念袭]]类别：任意简易或[[复合念袭]]
+
+豁免：强韧，通过则无效
+
+你的所有念袭都具有微弱的毒性。受你念袭伤害的生物[[恶心]]1轮。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Venom Infusion|2=Venom Infusion}}
+
+[[分类:原力]]

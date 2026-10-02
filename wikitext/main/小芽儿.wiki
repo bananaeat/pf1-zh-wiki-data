@@ -1,0 +1,11 @@
+{{Feat
+|name=小芽儿
+|english_name=Sproutling
+|pfs=否
+|description=你可以比大多数同类更快发芽，即便你的身体尚且稚嫩。
+|prerequisites=魅力15，蒿兰种子种族特性，蒿兰人
+|benefit=当你使用你的蒿兰种子能力种植一个新身躯时，你可以选择用通常一半的时间来发芽（1d6天，而不是通常的2d6天）。若如此做，你的新身体会是小体型而非中体型，你从种族特性中获得的天生护甲加值（如果有的话）将会减半，你在力量、敏捷和体质上承受-2减值。这些调整将持续1d3周，在那之后你的身躯将会长成原本的体型并失去所有因更早发芽带来的减值。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/page_815.html
+}}

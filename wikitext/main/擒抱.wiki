@@ -1,0 +1,67 @@
+{{速查导航|here=规则}}
+
+'''擒抱'''（Grapple）是一种[[战技]]。发动方式、[[CMB]] 与 [[CMD]] 的算法见 [[特殊攻击#战技|战技总则]]。
+
+<div style="max-width:44em;margin:.7em 0 1.1em">
+<div style="display:grid;grid-template-columns:4.2em 1fr;gap:.55em .7em">
+<div style="font-weight:bold;color:#6b5a2e;text-align:center;line-height:1.25;padding-top:.45em;font-size:.92em">① 发动<br><small>你的回合</small></div>
+<div style="border:1px solid #cdbf9c;border-radius:6px;padding:.5em .75em;background:#faf7ef">以'''标准动作'''发动擒抱：你的 [[CMB]] 对抗目标的 [[CMD]]。没有[[精通擒抱]]会引发目标的借机攻击；类人生物没有空出双手，检定 −4。<div style="display:flex;gap:.45em;flex-wrap:wrap;margin-top:.45em"><span style="display:inline-block;padding:.12em .55em;border-radius:4px;background:#f6ecea;color:#7a3129;border:1px solid #e3c7c2;font-size:.92em">失败：擒抱没成</span><span style="display:inline-block;padding:.12em .55em;border-radius:4px;background:#ebf4ec;color:#2c5e36;border:1px solid #bfd9c3;font-size:.92em">成功：你和目标都[[被擒抱]]；目标不邻接就把它挪到你身边</span></div></div>
+<div style="font-weight:bold;color:#6b5a2e;text-align:center;line-height:1.25;padding-top:.45em;font-size:.92em">② 维持<br><small>之后每轮</small></div>
+<div style="border:1px solid #cdbf9c;border-radius:6px;padding:.5em .75em;background:#faf7ef">以'''标准动作'''再做一次擒抱检定。目标上一轮没挣脱，对它的检定 +5。<div style="display:flex;gap:.45em;flex-wrap:wrap;margin-top:.45em"><span style="display:inline-block;padding:.12em .55em;border-radius:4px;background:#f6ecea;color:#7a3129;border:1px solid #e3c7c2;font-size:.92em">失败：擒抱结束</span><span style="display:inline-block;padding:.12em .55em;border-radius:4px;background:#ebf4ec;color:#2c5e36;border:1px solid #bfd9c3;font-size:.92em">成功：维持住，并且可以选一项</span></div><div style="margin-top:.3em"><span style="display:inline-block;padding:.05em .5em;border-radius:3px;background:#fff;border:1px solid #cdbf9c;margin:.15em .15em 0 0">[[#移动|移动]]</span><span style="display:inline-block;padding:.05em .5em;border-radius:3px;background:#fff;border:1px solid #cdbf9c;margin:.15em .15em 0 0">[[#伤害|伤害]]</span><span style="display:inline-block;padding:.05em .5em;border-radius:3px;background:#fff;border:1px solid #cdbf9c;margin:.15em .15em 0 0">[[#压制|压制]]</span><span style="display:inline-block;padding:.05em .5em;border-radius:3px;background:#fff;border:1px solid #cdbf9c;margin:.15em .15em 0 0">[[#捆绑|捆绑]]</span></div></div>
+<div style="font-weight:bold;color:#6b5a2e;text-align:center;line-height:1.25;padding-top:.45em;font-size:.92em">③ 挣脱<br><small>对手的回合</small></div>
+<div style="border:1px solid #cdbf9c;border-radius:6px;padding:.5em .75em;background:#faf7ef">被擒抱的一方以'''标准动作'''：战技检定或[[脱逃]]检定，对抗擒抱者的 CMD（不引发借机攻击）。不挣脱也可以施法、用轻型或单手武器攻击，见[[#如果你被擒抱|下文]]。<div style="display:flex;gap:.45em;flex-wrap:wrap;margin-top:.45em"><span style="display:inline-block;padding:.12em .55em;border-radius:4px;background:#f6ecea;color:#7a3129;border:1px solid #e3c7c2;font-size:.92em">失败：还被擒抱着</span><span style="display:inline-block;padding:.12em .55em;border-radius:4px;background:#ebf4ec;color:#2c5e36;border:1px solid #bfd9c3;font-size:.92em">成功：挣脱；也可以当场反擒对方</span></div></div>
+</div>
+<div style="margin-top:.5em;font-size:.92em;color:#555">任何时候，发动擒抱的一方都可以用[[自由动作]]放手，双方同时解除。</div>
+</div>
+
+== 发动擒抱 ==
+
+以一个[[标准动作]]，你可以尝试擒拿对手来阻碍它的行动。如果你没有[[精通擒抱]]专长或类似的能力，那么你会受到进行战技攻击目标的借机攻击。如果一个类人生物在尝试擒抱目标时没有将双手都空出，那么他的战技攻击检定将承受-4减值。
+
+如果你的擒抱战技成功命中，那么你和目标都会进入被擒抱状态。如果你成功擒抱了一个并不邻接你的目标，那么你需要将这个目标移动到一个邻接你的方格中（如果你的邻接位置没有空格，则擒抱失败）。
+
+== 维持擒抱 ==
+
+虽然擒抱双方都处于被擒抱的状态，但是只有你（作为那个发动擒抱的生物）才能以[[自由动作]]解除擒抱，将双方同时释放。如果你保持擒抱，那么在接下来的每轮中你都要以一个标准动作做一次擒抱检定来保持擒拿。如果你的目标未能成功挣脱擒抱，你会在接下来的维持擒抱轮中，对这个生物的擒抱检定具有+5环境加值。一旦你擒抱了一个对手，那么一次成功的擒抱检定不但可以让你保持对这个敌人的擒抱，还能让你使用以下这些特殊动作（作为你维持擒抱的标准动作的一部分）。
+
+=== 移动 ===
+
+你可以拖着被擒抱的目标以你速度的一半移动。在你移动结束时，你可以把被擒抱的对手放在任何一个邻接你的方格中。不过，如果你尝试把目标放在一个危险的环境，如[[火墙术]]的作用范围内或是大坑中，目标会立刻获得一次挣脱你擒抱的对抗机会，且检定获得+4加值。
+
+=== 伤害 ===
+
+你可以对被擒抱的目标造成相当于你拥有的[[徒手打击]]、天武攻击、甲刺、轻型或单手武器攻击的伤害。这些伤害既可以是致命伤害，也可以是[[非致命伤害]]。
+
+=== 压制 ===
+
+你可以将被擒抱的对手彻底[[压制]]住。虽然你压制了对手，但是你只视为被擒抱。不过，你会因此而失去AC上的敏捷加值。
+
+=== 捆绑 ===
+
+如果你成功地压制了对手，或者以某些手段让它被束缚或[[失去意识]]，你可以用绳索将其捆绑。捆绑的效果与压制类似，不过挣脱的DC会变成“20+你的CMB”（而非像普通挣脱擒抱一样使用CMD），而且绳索并不需要像擒抱者一样每轮进行检定以维持擒抱。如果你正在擒抱一个目标（而非压制），你也可以尝试捆绑它，不过这么做会要求你进行一次承受-10减值的战技检定。如果逃脱捆绑的DC高于“20+被捆绑者的CMB”，那么目标将无论如何也无法逃出被五花大绑的命运，即使它在对抗擒抱的战技检定中自然骰出20。
+
+== 如果你被擒抱 ==
+
+如果你被其他生物擒抱，那么你也可以通过一个标准动作，进行一次战技检定以挣脱对手的擒拿（DC为擒抱者的CMD，不会引发借机攻击）或是一次[[脱逃]]技能检定（DC也等于对手的CMD）。如果你成功挣脱擒抱，那么你可以正常地行动。除此之外，如果你在对抗中成功，你可以立刻反过来擒抱刚才试图擒抱你的生物（意即刚才擒抱你的生物将失去自由撤除擒抱的权利，而你获得该权利）。在被擒抱时，除了尝试挣脱外，你还可以进行其他不需要两只手都空闲的动作，比如施放法术、或是用轻型或单手武器对任何处于你触及范围内的敌人（包括正在擒抱你的生物）发起攻击或[[全力攻击]]。如果你被对方[[压制]]，那么你将会受到更严格的动作限制。
+
+{{FAQ|v5748eaic9o3t}}
+
+== 多个生物进行擒抱 ==
+
+多个生物可以尝试同时擒抱一个目标。只有第一个对目标发动擒抱的生物将进行擒抱检定，每有超过一个擒抱者协助（使用[[协助他人]]动作），这个生物的擒抱检定就获得+2加值。同样，多个生物也可以帮助一个生物摆脱对方的擒抱。每有超过一个擒抱者协助挣脱（使用协助他人动作），这个生物的擒抱检定就获得+2加值。
+
+== 被擒抱状态 ==
+
+擒抱会使双方进入[[被擒抱]]状态。''详见 [[被擒抱]]。''
+
+{{FAQ|v5748eaic9og8}}
+
+== 其他战技 ==
+
+[[冲撞]]、[[卸武]]、[[闯越]]、[[击破]]、[[摔绊]]、[[阴招]]、[[拖拽]]、[[移位]]、[[盗取]]。
+
+战斗规则总目见 [[战斗规则]]。
+
+{{AoN原文|191|Grapple}}
+
+[[分类:战技]]

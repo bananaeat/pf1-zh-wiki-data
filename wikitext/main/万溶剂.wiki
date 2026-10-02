@@ -1,0 +1,14 @@
+{{魔法物品
+|name=万溶剂
+|english_name=Universal Solvent
+|aon=MagicWondrousDisplay.aspx?FinalName=Universal Solvent
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=无
+|price=50 gp
+|description=这种物质有一项独特的性质：能溶解[[至尊胶]]、[[绊足包]]以及所有其他黏合剂。使用这种溶剂是一个[[标准动作]]。
+|req=[[制造奇物]]、[[强酸箭]]
+|cost=25 gp
+|source=核心规则书、极限宝具
+}}

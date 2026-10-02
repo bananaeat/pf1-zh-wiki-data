@@ -1,0 +1,9 @@
+{{Trait
+|name=坚信徒
+|english_name=Indomitable Faith
+|type=信念
+|description=你出生在自己的信仰并不受欢迎的地区，但你决不背弃信仰。为保持信仰所付出的持之以恒的努力，鞭策着你一路前行。你的意志豁免获得+1背景加值。
+|source_name=信念背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=异能精通戒指
+|english_name=Ring of Psychic Mastery
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Psychic Mastery
+|cat=戒指
+|aura=强烈（无学派）
+|cl=14
+|slot=戒指
+|price=50,000 gp
+|description=这款铂金[[魔法物品#戒指|戒指]]上佩有一颗大蓝宝石，其色泽会随着穿戴者逐渐消耗自身异能施法能力而慢慢变深。当穿戴者的每日法术耗尽，或是穿戴者没有施放异能法术的能力时，宝石会变黑。异能精通戒指能使施法者1环到4环的每日异能法术位各额外增加1，只要她能施放该环级的法术。
+|req=[[锻造戒指]]、[[有限祈愿术]]
+|cost=25,000 gp
+|source=异能冒险
+}}

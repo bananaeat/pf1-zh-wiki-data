@@ -1,0 +1,10 @@
+{{Trait
+|name=敏锐箭手
+|english_name=Observant Archer
+|type=地区
+|prerequisites=水生出身
+|pfs=否
+|benefit=在水生环境中长大需要面对三维空间移动和观察，给予你敏锐的观察能力和运用远程攻击时注意并瞄准到不寻常位置的能力。当你的目标至少处于你的10尺以上或以下时，你的远程攻击骰获得+1背景加值。
+|source_name=缘界英雄Heroes from the Fringe
+|source_url=https://pf1chm.pages.dev/topics/zh75ffd12667.htm
+}}

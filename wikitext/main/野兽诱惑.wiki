@@ -1,0 +1,10 @@
+{{装备
+|name=野兽诱惑
+|english_name=Beast lure
+|cat=炼金工具
+|price=30 gp
+|weight=1/2磅
+|craft_dc=20
+|description=这种浅棕色的油类似于[[卡瓦麝香]]，但仅会吸引某一种特定的生物（比如犬、巨蜂等）。
+|source=冒险者的军械库
+}}

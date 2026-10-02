@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 62），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=同信回馈
+|english_name=Faithful Feedback
+|type=信念
+|pfs=否
+|prerequisites=任意宗教
+|description=共同的宗教热忱让你的治疗魔法更加有效。每当你对与你同一宗教的人施放属于治疗子学派的法术时，所治疗的生命值增加1点。
+|source_name=组织指南
+|source=FM
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Faithful%20Feedback
+}}

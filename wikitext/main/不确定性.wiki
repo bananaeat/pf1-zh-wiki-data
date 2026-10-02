@@ -1,0 +1,11 @@
+{{Feat
+|name=不确定性
+|english_name=Uncertainty
+|categories=血巫术
+|description=当你在战斗中汲取了敌人的血液，它会对自己的技能产生怀疑。
+|prerequisites=智力13，[[唬骗]]，交涉和威吓5级
+|benefit=以一个整轮动作，你能挫败一个在上一分钟内被你造成过伤害的敌人的自信。该生物必须通过一个成功的意志检定，否则会在以下一项你所选定的技能检定中承受-6罚值：唬骗，交涉，或威吓。该效果最多持续1小时，或直到目标受到的所有伤害都被治疗。
+|special=一个萨满或女巫能用标准动作使用该血巫术。另外，如果一个萨满或女巫使用了该血巫术，目标在唬骗，交涉和威吓技能上同时承受罚值。
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_343.html
+}}

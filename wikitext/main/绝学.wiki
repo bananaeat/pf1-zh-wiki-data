@@ -1,0 +1,279 @@
+{{武僧导航}}
+{{Source|解放}}
+
+== 绝学 (Ki Powers, SU) ==
+
+在4级及之后每2级，武僧可以学习一种绝学。这些绝学通过从[[武僧#气运丹田|气池]]中消耗气，来展现出不可思议的力量。或是独门绝技，或是秘术奥义，或是无双轻功。一旦选定绝学，就无法再更改。某些绝学需要武僧达到一定等级才能选择学习。除非有特别说明，某种同一绝学无法选择学习两次。
+
+{| class="wikitable sortable"
+! 绝学 !! 英文 !! 类型 !! 最低等级 !! 耗气 !! 动作 !! 前置绝学 !! 出处
+|-
+| [[#天遁术|天遁术]] || Abundant Step || Su || 8 || 2 || 移动 || — || [[解放者]]
+|-
+| [[#行意前|行意前]] || Action Before Thought || Ex || 6 || 2 || 自由 || — || [[武术手册]]
+|-
+| [[#空手切|空手切]] || Bare-Hand Block || Ex || 8 || 1（连击破劲+1） || 直觉 || 击破劲 || [[武术手册]]
+|-
+| [[#拂柳风|拂柳风]] || Branch Runner || Ex, Su || — || — || — || 电瞬步 || [[野兽血脉]]
+|-
+| [[#问心录|问心录]] || Breaking-Down Koan || Su || 8 || 1 || 迅捷 || — || [[武术手册]]
+|-
+| [[#证心录|证心录]] || Building-Up Koan || Su || 8 || 2 || 迅捷 || — || [[武术手册]]
+|-
+| [[#蝮蛇息|蝮蛇息]] || Cobra Breath || Su || 12 || —（随金刚体） || — || 金刚体 || [[解放者]]
+|-
+| [[#金刚体|金刚体]] || Diamond Body || Su || 8 || 1 || — || — || [[解放者]]
+|-
+| [[#琉璃心|琉璃心]] || Diamond Mind || Su || 6 || 1（恐慌时2） || 迅捷 || — || [[解放者]]
+|-
+| [[#金钟罩|金钟罩]] || Diamond Resilience || Ex || 12 || 1 || 迅捷 || — || [[解放者]]
+|-
+| [[#金刚魂|金刚魂]] || Diamond Soul || Ex || 12 || 2 || 迅捷 || — || [[解放者]]
+|-
+| [[#四象爆|四象爆]] || Elemental Burst || Su || 18 || 4 || — || 四象怒 || [[解放者]]
+|-
+| [[#四象怒|四象怒]] || Elemental Fury || Su || 6 || 1 || 迅捷 || — || [[解放者]]
+|-
+| [[#空灵体|空灵体]] || Empty Body || Su || — || 3 || 移动 || — || [[解放者]]
+|-
+| [[#轻羽衡|轻羽衡]] || Feather Balance || Ex || — || 1 || 迅捷 || — || [[解放者]]
+|-
+| [[#滞空步|滞空步]] || Floating Breath || Su || 8 || 1 || 迅捷 || — || [[荒野源始]]
+|-
+| [[#无极式|无极式]] || Formless Mastery || Ex || 7 || 1（与集心守同开共3） || 直觉 || — || [[解放者]]
+|-
+| [[#自由行|自由行]] || Freedom of Movement || Su || 8 || 1 || 迅捷 || — || [[野兽血脉]]
+|-
+| [[#集心守|集心守]] || Furious Defense || Ex || 7 || 1（与无极式同开共3） || 直觉 || — || [[解放者]]
+|-
+| [[#轻身纵|轻身纵]] || High Jump || Ex || — || 1 || 迅捷 || — || [[解放者]]
+|-
+| [[#肆意袭|肆意袭]] || Improvised Weapon Proficiency || Ex, Su || — || 1 || — || — || [[野兽血脉]]
+|-
+| [[#洞见识|洞见识]] || Insightful Wisdom || Su || 8 || 2 || 直觉 || — || [[解放者]]
+|-
+| [[#断流气|断流气]] || Ki Blocker || Su || 10 || 1或2 || 自由 || — || [[解放者]]
+|-
+| [[#天罡气|天罡气]] || Ki Guardian || Su || 6 || 任意 || 直觉 || — || [[解放者]]
+|-
+| [[#飓风劲|飓风劲]] || Ki Hurricane || Ex || 10 || 每次攻击1 || 整轮 || 电瞬步 || [[解放者]]
+|-
+| [[#冥想法|冥想法]] || Ki Meditation || Su || — || 2或4 || 整轮/移动 || [[战斗冥想]]专长 || [[野兽血脉]]
+|-
+| [[#龟息功|龟息功]] || Ki Metabolism || Su || — || 1 || 移动 || — || [[解放者]]
+|-
+| [[#驭兽诀|驭兽诀]] || Ki Mount || Su || 6 || 1 || 标准 || — || [[解放者]]
+|-
+| [[#气灌矢|气灌矢]] || Ki Range || Su || — || 1 || 迅捷 || — || [[解放者]]
+|-
+| [[#击破劲|击破劲]] || Ki Sunder || Ex || — || 1 || 自由 || — || [[武术手册]]
+|-
+| [[#天灵视|天灵视]] || Ki Visions || Su || 10 || 2 || — || — || [[解放者]]
+|-
+| [[#刚魂返|刚魂返]] || Ki Volley || Su || 16 || 2 || 直觉 || 金刚魂 || [[解放者]]
+|-
+| [[#凌波步|凌波步]] || Light Steps || Ex || 8 || —（随轻羽衡） || — || 轻羽衡 || [[解放者]]
+|-
+| [[#传灯录|传灯录]] || Master-Thought Koan || Su || 12 || +2 || — || 问心录或证心录 || [[武术手册]]
+|-
+| [[#无二打|无二打]] || One Touch || Ex || 12 || 1 || 标准 || — || [[解放者]]
+|-
+| [[#内家力|内家力]] || Qinggong Power || Su || — || 视所选技法 || — || — || [[解放者]]
+|-
+| [[#渗透劲|渗透劲]] || Quivering Palm || Su || 16 || 4 || 标准 || — || [[解放者]]
+|-
+| [[#水奔流|水奔流]] || Racing Current || Su || 6 || 2 || 移动 || — || [[荒野源始]]
+|-
+| [[#轻身坠|轻身坠]] || Slow Fall || Su || — || 1 || — || — || [[解放者]]
+|-
+| [[#电瞬步|电瞬步]] || Sudden Speed || Su || — || 1 || 迅捷 || — || [[解放者]]
+|-
+| [[#水上漂|水上漂]] || Water Sprint || Su || 6 || 1 || 迅捷 || — || [[解放者]]
+|-
+| [[#混元体|混元体]] || Wholeness of Body || Su || — || 2 || 标准 || — || [[解放者]]
+|-
+| [[#风行步|风行步]] || Wind Jump || Su || 8 || 1 || 移动 || 轻身纵 || [[解放者]]
+|-
+| [[#烈风吹|烈风吹]] || Zephyr Blow || Su || — || 1 || 标准 || — || [[荒野源始]]
+|}
+
+== 绝学详述 ==
+
+=== 天遁术 (Abundant Step, SU) ===
+<span id="天遁术"></span>
+{{:天遁术}}
+
+=== 行意前 (Action Before Thought, EX) ===
+<span id="行意前"></span>
+{{:行意前}}
+
+=== 空手切 (Bare-Hand Block, EX) ===
+<span id="空手切"></span>
+{{:空手切}}
+
+=== 拂柳风 (Branch Runner, EX, SU) ===
+<span id="拂柳风"></span>
+{{:拂柳风}}
+
+=== 问心录 (Breaking-Down Koan, SU) ===
+<span id="问心录"></span>
+{{:问心录}}
+
+=== 证心录 (Building-Up Koan, SU) ===
+<span id="证心录"></span>
+{{:证心录}}
+
+=== 蝮蛇息 (Cobra Breath, SU) ===
+<span id="蝮蛇息"></span>
+{{:蝮蛇息}}
+
+=== 金刚体 (Diamond Body, SU) ===
+<span id="金刚体"></span>
+{{:金刚体}}
+
+=== 琉璃心 (Diamond Mind, SU) ===
+<span id="琉璃心"></span>
+{{:琉璃心}}
+
+=== 金钟罩 (Diamond Resilience, EX) ===
+<span id="金钟罩"></span>
+{{:金钟罩}}
+
+=== 金刚魂 (Diamond Soul, EX) ===
+<span id="金刚魂"></span>
+{{:金刚魂}}
+
+=== 四象怒 (Elemental Fury, SU) ===
+<span id="四象怒"></span>
+{{:四象怒}}
+
+=== 四象爆 (Elemental Burst, SU) ===
+<span id="四象爆"></span>
+{{:四象爆}}
+
+=== 空灵体 (Empty Body, SU) ===
+<span id="空灵体"></span>
+{{:空灵体}}
+
+=== 轻羽衡 (Feather Balance, EX) ===
+<span id="轻羽衡"></span>
+{{:轻羽衡}}
+
+=== 滞空步 (Floating Breath, SU) ===
+<span id="滞空步"></span>
+{{:滞空步}}
+
+=== 无极式 (Formless Mastery, EX) ===
+<span id="无极式"></span>
+{{:无极式(绝学)}}
+
+=== 自由行 (Freedom of Movement, SU) ===
+<span id="自由行"></span>
+{{:自由行}}
+
+=== 集心守 (Furious Defense, EX) ===
+<span id="集心守"></span>
+{{:集心守}}
+
+=== 轻身纵 (High Jump, EX) ===
+<span id="轻身纵"></span>
+{{:轻身纵}}
+
+=== 肆意袭 (Improvised Weapon Proficiency, EX, SU) ===
+<span id="肆意袭"></span>
+{{:肆意袭}}
+
+=== 洞见识 (Insightful Wisdom, SU) ===
+<span id="洞见识"></span>
+{{:洞见识}}
+
+=== 断流气 (Ki Blocker, SU) ===
+<span id="断流气"></span>
+{{:断流气}}
+
+=== 天罡气 (Ki Guardian, SU) ===
+<span id="天罡气"></span>
+{{:天罡气}}
+
+=== 飓风劲 (Ki Hurricane, EX) ===
+<span id="飓风劲"></span>
+{{:飓风劲}}
+
+=== 冥想法 (Ki Meditation, SU) ===
+<span id="冥想法"></span>
+{{:冥想法}}
+
+=== 龟息功 (Ki Metabolism, SU) ===
+<span id="龟息功"></span>
+{{:龟息功}}
+
+=== 驭兽诀 (Ki Mount, SU) ===
+<span id="驭兽诀"></span>
+{{:驭兽诀}}
+
+=== 气灌矢 (Ki Range, SU) ===
+<span id="气灌矢"></span>
+{{:气灌矢}}
+
+=== 击破劲 (Ki Sunder, EX) ===
+<span id="击破劲"></span>
+{{:击破劲}}
+
+=== 天灵视 (Ki Visions, SU) ===
+<span id="天灵视"></span>
+{{:天灵视}}
+
+=== 刚魂返 (Ki Volley, SU) ===
+<span id="刚魂返"></span>
+{{:刚魂返}}
+
+=== 凌波步 (Light Steps, EX) ===
+<span id="凌波步"></span>
+{{:凌波步}}
+
+=== 传灯录 (Master-Thought Koan, SU) ===
+<span id="传灯录"></span>
+{{:传灯录}}
+
+=== 无二打 (One Touch, EX) ===
+<span id="无二打"></span>
+{{:无二打}}
+
+=== 内家力 (Qinggong Power, SU) ===
+<span id="内家力"></span>
+{{:内家力}}
+
+=== 渗透劲 (Quivering Palm, SU) ===
+<span id="渗透劲"></span>
+{{:渗透劲}}
+
+=== 水奔流 (Racing Current, SU) ===
+<span id="水奔流"></span>
+{{:水奔流}}
+
+=== 轻身坠 (Slow Fall, SU) ===
+<span id="轻身坠"></span>
+{{:轻身坠}}
+
+=== 电瞬步 (Sudden Speed, SU) ===
+<span id="电瞬步"></span>
+{{:电瞬步}}
+
+=== 水上漂 (Water Sprint, SU) ===
+<span id="水上漂"></span>
+{{:水上漂}}
+
+=== 混元体 (Wholeness of Body, SU) ===
+<span id="混元体"></span>
+{{:混元体}}
+
+=== 风行步 (Wind Jump, SU) ===
+<span id="风行步"></span>
+{{:风行步}}
+
+=== 烈风吹 (Zephyr Blow, SU) ===
+<span id="烈风吹"></span>
+{{:烈风吹}}
+
+[[分类:掉链武僧]]
+{{职业}}

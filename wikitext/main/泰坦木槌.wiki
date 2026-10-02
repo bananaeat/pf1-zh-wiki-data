@@ -1,0 +1,15 @@
+{{魔法物品
+|name=泰坦木槌
+|english_name=Maul of the Titans
+|aon=MagicWondrousDisplay.aspx?FinalName=Maul of the Titans
+|cat=奇物
+|aura=强烈塑能系
+|cl=15
+|slot=无
+|price=25,305 gp
+|weight=160磅
+|description=这把木槌长8尺。若用作武器，它相当于一根+3[[巨木棒]]，并对无生命物体造成3倍伤害。使用者必须有至少18点力量才能正确使用它，否则攻击检定承受-4减值。
+|req=[[制造奇物]]、[[制造魔法武器和防具]]、[[金刚拳]]
+|cost=12,805 gp
+|source=核心规则书、极限宝具
+}}

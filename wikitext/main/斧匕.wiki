@@ -1,0 +1,16 @@
+{{武器
+|name=斧匕
+|english_name=Gandasa
+|category=武器
+|prof=军用
+|wcat=单手
+|price=15 gp
+|weight=4磅
+|dmg_s=1d6
+|dmg_m=2d4
+|crit=×3
+|type=挥砍
+|groups=斧
+|description=这把宽[[匕首]]单面开刃，把手约2尺长，用起来如同斧头一般。这把武器也被称呼为象匕，因为刃与柄的连接处经常装饰有象头一般的图纹。
+|source=近战战术工具箱
+}}

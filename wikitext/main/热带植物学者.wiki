@@ -1,0 +1,9 @@
+{{Trait
+|name=热带植物学者
+|english_name=Tropical Botanist
+|type=种族
+|prerequisites=[[精灵]]
+|description=你十分熟悉有益及危险的各种植物。你在寻找或识别植物的知识(自然)检定或抵抗植物的特异能力的豁免骰上获得+1背景加值。
+|source_name=沙之子民
+|source_url=https://pf1chm.pages.dev/topics/zh730f330f66.htm
+}}

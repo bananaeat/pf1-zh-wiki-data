@@ -1,0 +1,11 @@
+{{Feat
+|name=恐怖处决
+|english_name=Fearsome Finish
+|categories=战斗
+|description=当你屠宰一个对手时，你的形象异常的可怖
+|prerequisites=[[威逼]]，信仰拉玛什图
+|benefit=当你将一个对手的生命值降至0或更少时，你将在整场遭遇中，对于所有可以看到你和被你击倒对手的生物，在用于挫败对方士气的威吓检定上获得+4加值。
+|source=FoP/FoB/FoC、ISG
+|source_name=纯善／平衡／堕落信念、内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}

@@ -1,0 +1,18 @@
+{{Spell
+|name=诱骗怪物
+|english_name=Inveigle Monster
+|school=惑控系 (魅惑)
+|tags=影响心灵
+|levels=催眠师 5;吟游诗人 5;歌者 5;异能者 6;奥能师 7;女巫 7;术士 7;法师 7
+|action=标准动作
+|components=语言;材料（一滴酒精）
+|range=近距
+|target=一个活物
+|duration=1天/等级
+|save=意志，通过则无效
+|sr=是
+|description=这种法术如同[[诱骗人类]]，除了以上所述。
+|source=内海诡道
+}}
+
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_1104.html 原文]）。</small>

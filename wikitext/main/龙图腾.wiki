@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=龙图腾
+|english_name=Dragon Totem
+|type=Su
+|categories=图腾
+|prerequisites=[[野性之怒]]，[[威吓凝视]]
+|benefit=选择一种龙类作为野蛮人的图腾，在狂暴时，他的察觉检定+1，且对[[麻痹]]、睡眠和恐惧的豁免+1，此加值每多一个龙图腾[[狂暴之力]]就上升1点。
+|source_name=极限战斗
+}}

@@ -1,0 +1,36 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #136: Temple of the Peacock Spirit
+|authors=Jason Keeley、John Compton、James Jacobs、Luis Loza、Dan Cascone、Nathan King
+|pages=96
+}}
+
+{{书页/简介|head=对抗邪教|1=
+神秘的孔雀灵邪教已大举崛起，现在正是对这位被遗忘已久的神祇的崇拜者们发出决定性一击的时机。据古籍记载，孔雀灵邪教最初正是由符文领主赞多古尔（Xanderghul）本人带到这个世界上来的，而随着他的回归，这个邪教只会变得越发危险。邪教的据点隐藏在令人望而生畏的科达尔山脉深处一座偏远山谷的高处，名为孔雀灵神殿。英雄们必须前往这处传说之地，直面瑟西隆最危险的威胁之一。
+
+本期《开拓者》冒险之路延续「符文领主的归来」冒险之路，内容包括：
+
+* 《孔雀灵神殿》，一部面向 11 级角色的开拓者冒险，作者 Jason Keeley。
+* 对阿修罗的考察——这个复仇邪魔种族，诞生自诸神自身所犯的错误，作者 John Compton。
+* 介绍瑟西隆符文领主们创造的几种强大神秘仪式，作者 James Jacobs 和 Luis Loza。
+* 一份怪物图鉴，包括两种全新的强大阿修罗、笨重的自然守护者[[巴萨万]]、蛇形怪物[[波拉]]，以及神秘而致命的[[时间维度者]]，作者 Dan Cascone、John Compton、Nathan King 和 Luis Loza。
+}}
+
+'''冒险之路136：孔雀灵神殿'''（''Pathfinder #136: Temple of the Peacock Spirit''）是一部开拓者角色扮演游戏冒险，由 Jason Keeley 撰写，配套文章出自 John Compton、James Jacobs、Luis Loza、Dan Cascone 和 Nathan King，于 2018 年 11 月 14 日发行。这是[[冒险之路]]「[[符文领主的归来]]」系列的第四部冒险。
+
+== 目录 ==
+{{书页/目录|1=
+孔雀灵神殿 @ 2
+NPC 图集 @ 62
+阿修罗生态 @ 68
+符文领主们的仪式 @ 74
+怪物图鉴 @ 80
+}}
+
+{{书页尾
+|pfw=Temple of the Peacock Spirit
+|releases=Softcover¦PZO90136¦2018-11¦978-1-64078-091-0；PDF¦PZO90136E¦¦
+}}
+
+[[分类:书目]]

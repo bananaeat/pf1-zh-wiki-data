@@ -1,0 +1,15 @@
+{{Spell
+|name=友伴复活
+|english_name=Raise animal companion
+|school=咒法系 (医疗)
+|levels=圣武士 4;游侠 4;猎人 4;德鲁伊 5
+|action=1分钟
+|components=语言;姿势;材料（价值1000gp的钻石）
+|range=接触
+|target=死亡的动物伙伴或者神契坐骑
+|duration=立即
+|save=无，见下文
+|sr=是
+|description=该法术如同[[死者复活]] 一般作用，但是只对[[动物伙伴]]、[[魔宠]]或圣武士的神契坐骑生效。
+|source=极限魔法
+}}

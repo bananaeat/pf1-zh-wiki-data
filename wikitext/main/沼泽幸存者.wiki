@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragonslayer's Handbook pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=沼泽幸存者
+|english_name=Swamp Survivor
+|type=地区
+|prerequisites=乌斯塔拉夫
+|description=离开格雷德米尔沼泽是被禁止的，逃离这片泥沼就等于招致赛瑞兹莉安的怒火。然而，你是少数成功活着走出沼泽的人之一。如今，你决心解救你的族人。你为寻找淡水而进行的[[生存]]检定获得+2加值，并且你持有的魔法液体在对抗腐坏或其他变质的意志豁免上获得+2加值。
+|source_name=屠龙者手册
+|source=DH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Swamp%20Survivor
+}}

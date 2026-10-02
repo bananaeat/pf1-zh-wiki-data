@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[重伤术]] 的神话版本。</small></div>
+{{Spell
+|name=重伤术
+|english_name=Harm
+|school=死灵系
+|levels=先知 6;唤魂师 6;审判者 6;战斗祭司 6;牧师 6;秘学士 6;女巫 7;萨满 7
+|description=法术造成的伤害增加至每施法者等级15点（最高225点）。
+
+强化：若你花费2次神话之力，法术还同时造成毒击术的效果。
+|source=神话冒险
+}}
+[[分类:神话法术]]

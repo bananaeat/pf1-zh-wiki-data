@@ -1,0 +1,12 @@
+<noinclude>{{法师导航}}
+'''弹性幻术'''（Resilient Illusions）是[[法师]]的[[奥术发现]]。
+
+</noinclude>{{Source|魔法市集指南|Magical Marketplace|inline}}
+
+'''前提'''：法师等级8。
+
+'''效果'''：你能召唤出栩栩如生、让人无法不信的幻术。无论何时当一个生物试图不相信你的一个幻术效果时，做一个施法者等级检定。用检定结果和原DC中较高者作为这个幻术的豁免DC。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_319.html 原文]）。全部奥术发现见 [[奥术发现]]。
+
+[[分类:奥术发现]]</noinclude>

@@ -1,0 +1,17 @@
+{{魔法物品
+|name=血警披风〔鼠族〕
+|english_name=Cloak of Blood Alarm (Ratfolk)
+|aon=MagicWondrousDisplay.aspx?FinalName=Cloak of Blood Alarm (Ratfolk)
+|cat=奇物
+|aura=中等预言系
+|cl=8
+|slot=肩部
+|price=3,200 gp
+|weight=1磅
+|description=以下奇物通常只有指定种族或民族的成员才能获得。
+
+这件皮披风无论怎样仔细清洗、修补，看起来依然破旧、满是污渍。每天一次，当[[鼠族]]穿戴者的血滴在披风上时（通常是他受到生命值伤害时），披风会以精神方式警示10英里内离穿戴者最近的鼠族盟友，告诉她与穿戴者之间的大致距离和方向。它同时也会告知穿戴者那名盟友的大致距离和方向。
+|req=[[制造奇物]]、[[生物定位术]]、[[关照术]]，制造者必须是鼠族
+|cost=1,600 gp
+|source=内海种族
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=驾驭肉体
+|english_name=Disciplined Body
+|type=种族
+|prerequisites=[[人类]]（乌笃剌人）
+|description=你尊崇心智对身体全部潜能的掌控。每天1次，你能使用你的感知调整值取代你的力量或敏捷调整值用于攻击骰、[[战技]]检定、基于力量或敏捷的技能检定、力量检定、敏捷检定、或反射豁免。你必须在投骰前决定使用此背景。
+|source_name=内海种族
+|source=Inner Sea Races
+|source_url=https://pf1chm.pages.dev/topics/zh3a98986c0e.htm
+}}

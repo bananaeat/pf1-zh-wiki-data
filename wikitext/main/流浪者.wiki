@@ -1,0 +1,43 @@
+{{速查导航|here=神祇}}
+<noinclude>{{消歧义|流浪者(NPC)}}</noinclude>
+{{神祇
+|name=流浪者
+|english_name=Yan-gant-y-tan
+|title=The Wandering
+|alignment=守序邪恶（LE）
+|weapon=[[长勾刀]]
+|portfolio=地狱之卵，误导，黑夜
+|domains=[[邪恶领域(领域)|邪恶]]，[[秩序领域|秩序]]，[[黑暗领域|黑暗]]，[[天气领域|天气]]
+|subdomains=[[秩序领域#魔鬼子域 (Devil)|魔鬼子域（秩序）]]，[[邪恶领域(领域)#魔鬼子域 (Devil)|魔鬼子域（邪恶）]]，[[黑暗领域#月子域 (Moon)|月子域]]，[[黑暗领域#暗夜子域 (Night)|暗夜子域]]，[[天气领域#风暴子域 (Storms)|风暴子域]]
+|symbol=燃烧的月亮
+|animal=蝙蝠
+|color=黑色，橘色
+|pantheon=炼狱大公
+|source=内海诸神、永罪之书
+}}
+
+'''流浪者'''（Yan-gant-y-tan）是[[炼狱大公与地狱公爵|炼狱大公]]之一。
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+向一个毫无戒心的活物放出一只蝙蝠，并诉说即将降临的厄运。你在对抗变化系效果的豁免检定上获得+4亵渎加值。
+
+=== 神恩 ===
+
+通过[[魔族仪典]]获得，表现为每项每日可用1次的类法术能力：
+
+{{神恩|n=1|name=|en=|type=Sp|text=每日1次，以类法术能力施放[[深幽黑暗术]]。}}
+
+{{神恩|n=2|name=|en=|type=Sp|text=每日1次，以类法术能力施放[[精神错乱]]。}}
+
+{{神恩|n=3|name=|en=|type=Sp|text=每日1次，以类法术能力施放[[召唤怪物]]IX。}}
+
+== 信徒可用 ==
+* '''专长'''：[[炼狱镣铐]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1554.html 原文]），原在总页 [[炼狱大公与地狱公爵]]。
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Yan-gant-y-tan|2=Yan-gant-y-tan}}
+[[分类:魔神]]

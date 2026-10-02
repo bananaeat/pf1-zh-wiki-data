@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=厄运之灰
+|english_name=Ashes of Unluck
+|aon=MagicWondrousDisplay.aspx?FinalName=Ashes of Unluck
+|cat=奇物
+|aura=微弱死灵系
+|cl=5
+|slot=无
+|price=2,400 gp
+|description=这种细腻的灰色灰烬，通常装在一个黑色的皮袋里，袋上绘满了各种厄运的象征。当袋中之物被抛向空中时，灰烬会覆盖使用者周围10尺半径内的生物，使它们在2d4轮内的攻击检定、豁免检定、属性检定和技能检定受到-4减值。使用者不受此效果影响。
+|req=[[制造奇物]]、[[降咒]]
+|cost=1,200 gp
+|source=阴招战术工具箱
+}}

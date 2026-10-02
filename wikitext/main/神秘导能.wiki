@@ -1,0 +1,10 @@
+{{Feat
+|name=神秘导能
+|english_name=Occult Conduit
+|categories=种族
+|description=你可以将身体作为灵器来聚焦法术。
+|prerequisites=施法者等级5，灵器职业能力，[[秘学士#心智点|心智点]]职业能力，汲魂木。
+|benefit=你可以将心智点填充入自己的身体中而非一件灵器中。当你以这种方式获得心智点时，你可以将身体作为任意一种已知[[灵器学派]]。你不会获得所选学派的共鸣之力，但在使用灵器之力时将秘学士等级视为比正常高1。当你选择一天的灵器时，你可以改变身体的灵器学派。
+|source_name=格拉利昂的英雄
+|source_url=https://pf1chm.pages.dev/topics/zhe4b6469482.htm
+}}

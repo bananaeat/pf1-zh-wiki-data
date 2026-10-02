@@ -1,0 +1,9 @@
+{{装备
+|name=绗缝护腿
+|english_name=Chausses
+|cat=衣物
+|price=1 gp
+|weight=3磅
+|description=这条带衬里的羊毛长裤经过絮缝，在有效保暖的同时提供额外的保护。它通常穿在锁甲或板甲之下。（译注：CHM 汉化译作「马裤」；Chausses 是穿在锁甲、板甲里面的绗缝长筒护腿，不是骑马穿的马裤。）
+|source=冒险者的军械库2
+}}

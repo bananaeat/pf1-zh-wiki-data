@@ -1,0 +1,10 @@
+{{Feat
+|name=回击法术
+|english_name=Parry Spell
+|description=你能够将敌人的法术反射回它的施法者。
+|prerequisites=[[法术辨识]]15级，精通法术反制。
+|benefit=当你成功反制法术时，它会被反转至其施法者处。该专长与[[法术反转]]法术完全一致。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

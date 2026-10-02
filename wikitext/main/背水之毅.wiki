@@ -1,0 +1,13 @@
+{{Feat
+|name=背水之毅
+|english_name=Strength in Defeat
+|categories=战斗
+|pfs=否
+|description=半卓尔能挖掘内心的潜能，在处于劣势时战斗得更加勇猛。
+|prerequisites=BAB+1，黯之后裔半精灵
+|benefit=当你的生命值降至最大生命值的一半或更低时，你在攻击检定和伤害检定上+1士气加值。该加值在8级时提升至+2，在15级时提升至+3。
+|extra=译注：这个黯之后裔（Darkborn）又称半卓尔Half-Drow，是BoG-《格拉里昂的混种》引入的新亚种。半精灵角色可以在几个亚种中选择一个亚种（除人类抚养和精灵抚养，无需固定替换种族特性）以解锁对应的一些背景、专长、种族特性等资源，Darkborn也是其中之一。翻译成黯之后裔以跟半精灵亚种“卓尔后裔”（Drow-Descended）区分。实际上，aonprd上已经查不到Drow-Descended这个亚种（出自ARG-《进阶种族手册》42页）了，链接归类在Half-Drow(Darkborn)里面；并且译者翻阅发现在Paizo2016年后发布的书中是使用Darkborn指代卓尔血脉的半精灵。因暂时查询不到设计师相关发言，译者认为Darkborn事实上取代了旧版本的Drow-Descended。
+|source=HftF
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/zh72cd9d7a9f.htm
+}}

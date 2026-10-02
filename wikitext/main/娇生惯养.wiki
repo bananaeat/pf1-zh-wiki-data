@@ -1,0 +1,10 @@
+{{Trait
+|name=娇生惯养
+|english_name=Sheltered
+|type=缺陷
+|pfs=否
+|description=你在优渥环境下成长，对暴力一无所知。你很难习惯暴力。
+|benefit=当你的生命值少于最大生命值的一半时，你陷入[[战栗]]状态。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

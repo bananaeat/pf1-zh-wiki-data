@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 18），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=潜游者
+|english_name=Sneaky Swimmer
+|type=种族
+|pfs=否
+|prerequisites=狗头人
+|description=游泳对你来说是与生俱来的本领，猎杀沼泽蝰蛇和其他水生生物也是。你能在水下屏住呼吸的轮数增加，增加值等于你的体质值。你在沼泽中和水下环境中的[[隐匿]]检定获得+2加值。
+|source_name=格拉利昂的狗头人
+|source=KoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Sneaky%20Swimmer
+}}

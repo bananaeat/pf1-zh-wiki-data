@@ -1,0 +1,14 @@
+{{魔法物品
+|name=读心勋章
+|english_name=Medallion of Thoughts
+|aon=MagicWondrousDisplay.aspx?FinalName=Medallion of Thoughts
+|cat=奇物
+|aura=微弱预言系
+|cl=5
+|slot=颈部
+|price=12,000 gp
+|description=这看上去只是一枚挂在颈链上的普通圆形吊坠。它通常由青铜、紫铜或白银制成，佩戴者可以读取他人的想法，如同法术[[侦测思想]]。
+|req=[[制造奇物]]、[[侦测思想]]
+|cost=6,000 gp
+|source=核心规则书、极限宝具
+}}

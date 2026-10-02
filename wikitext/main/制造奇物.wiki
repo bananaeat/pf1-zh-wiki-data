@@ -1,0 +1,20 @@
+{{Feat
+|name=制造奇物
+|english_name=Craft Wondrous Item
+|categories=造物
+|pfs=否
+|description=你能制造奇物，一种魔法物品。
+|prerequisites=施法者等级3级。
+|benefit=你能制造多种魔法[[奇物]]。奇物的每1000gp基本价格将使制造时间延长1天。加工所需耗材的价值为成品价格的一半。更多信息请参见魔法物品规则。你还能修理你有能力制造的损坏奇物。修理耗费一半制造该物品所需的原料和时间。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''制造需求'''：被 1003 件物品点名，名单见 [[特殊:链入页面/{{PAGENAME}}|链入页面]]。
+
+'''先决条件'''：[[创造泥怪]]、[[奇植培育]]（2 个条目）
+
+{{FAQ|v5748eaic9qdk}}

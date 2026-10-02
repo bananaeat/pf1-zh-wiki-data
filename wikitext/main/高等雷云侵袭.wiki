@@ -1,0 +1,16 @@
+{{Spell
+|name=高等雷云侵袭
+|english_name=Aggressive thundercloud, greater
+|school=塑能系
+|tags=电;音波
+|levels=奥能师 4;女巫 4;德鲁伊 4;术士 4;法师 4;猎人 4;魔战士 4
+|action=标准动作
+|components=语言;姿势;材料/圣徽（一块被闪电击中过的树木）
+|range=中距
+|effect=直径5尺的球体
+|duration=1轮/等级
+|save=反射，通过则无效和强韧，通过则无效（见后文）
+|sr=是
+|description=该法术的功能如同[[雷云侵袭]]一般，不过它的攻击会对生物造成6d6点闪电伤害。第一个受到雷云伤害的生物还会被[[震慑]]1轮（强韧，通过则无效）；这是个音波效果。
+|source=进阶职业指南
+}}

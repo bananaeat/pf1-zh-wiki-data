@@ -1,0 +1,10 @@
+{{Trait
+|name=偏执
+|english_name=Paranoid
+|type=缺陷
+|pfs=否
+|description=你总是觉得别人在利用你，所以你很难真正相信他人。
+|benefit=任何人试图对你进行任何类型的协助他人动作时，必须通过一个DC15的检定而非正常的DC10。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

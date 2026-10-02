@@ -1,0 +1,14 @@
+{{魔法物品
+|name=辟毒护符
+|english_name=Periapt of Proof against Poison
+|aon=MagicWondrousDisplay.aspx?FinalName=Periapt of Proof against Poison
+|cat=奇物
+|aura=微弱咒法系
+|cl=5
+|slot=颈部
+|price=27,000 gp
+|description=这件物品是一颗明亮式切割的黑色宝石，挂在一条精致的银链上，佩戴于颈间。佩戴者免疫毒素，不过在护符刚戴上时已在作用的毒素仍会走完其过程。
+|req=[[制造奇物]]、[[中和毒性]]
+|cost=13,500 gp
+|source=核心规则书、极限宝具
+}}

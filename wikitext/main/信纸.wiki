@@ -1,0 +1,9 @@
+{{装备
+|name=信纸
+|english_name=Stationery
+|cat=冒险装备
+|price=1 gp
+|weight=—
+|description=一般只被富人使用，昂贵的信纸是一种优质的9英吋长6英吋宽的纸，往往饰以浮雕或刻有主人的私人印章。
+|source=冒险者的军械库、极限宝具
+}}

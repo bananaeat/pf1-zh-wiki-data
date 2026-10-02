@@ -1,0 +1,14 @@
+{{危害
+|name=闪电束丛陷阱
+|english_name=Lightning Bolt Gallery Trap
+|kind=陷阱
+|trap_type=魔法
+|cr=17
+|perception=DC 29
+|disable=DC 29
+|trigger=接近型（[[魔法警报]]）
+|duration=1d6轮
+|reset=无
+|effect=法术效果（升阶[[闪电束]]，8d6点电击伤害，反射 DC 16 豁免减半）；复数目标（60尺见方房间内的所有目标）
+|source=核心规则书
+}}

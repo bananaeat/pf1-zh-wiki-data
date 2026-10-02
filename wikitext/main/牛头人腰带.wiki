@@ -1,0 +1,15 @@
+{{魔法物品
+|name=牛头人腰带
+|english_name=Minotaur Belt
+|aon=MagicWondrousDisplay.aspx?FinalName=Minotaur Belt
+|cat=奇物
+|aura=微弱变化系
+|cl=4
+|slot=腰部
+|price=11,000 gp
+|weight=1磅
+|description=这条腰带给予穿戴者+2力量增强加值，并让穿戴者在冲锋或进行[[闯越]]、[[冲撞]]或践踏尝试时，无视[[困难地形]]。在穿戴腰带的头24小时内，把这项力量增强加值视为临时属性加值。
+|req=[[制造奇物]]、[[牛之力量]]、[[轻羽步]]
+|cost=5,500 gp
+|source=极限宝具
+}}

@@ -1,0 +1,10 @@
+{{消歧义|深呼吸(物品)}}
+{{Feat
+|name=深呼吸
+|english_name=Deep Breath
+|description=你屏住呼吸的时间是以前的两倍。
+|prerequisites=[[体质]] 15
+|benefit=你屏住呼吸的时间是原有时间的两倍（4倍于你体质值的轮数而不是2倍）。
+|source_name=水下冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1030.html
+}}

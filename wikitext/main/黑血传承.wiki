@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Darklands pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=黑血传承
+|english_name=Black Blood Heritage
+|type=魔法
+|description=你的一位祖先曾接触过神秘的黑血（详见《探索者战役设定：深入幽暗地域》第51页），使你与这种物质颇为亲和。你免疫黑血的负面效果。每天一次，你可以用一个迅捷动作引导黑血的精华，使你施放的任意一个1环或2环死灵系法术的有效施法者等级提高1。由于这个背景特性，你的血液漆黑如墨。
+|source_name=幽暗地域英雄
+|source=HotD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Black%20Blood%20Heritage
+}}

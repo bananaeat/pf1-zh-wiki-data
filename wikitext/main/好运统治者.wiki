@@ -1,0 +1,10 @@
+{{Feat
+|name=好运统治者
+|english_name=Fortunate Ruler
+|pfs=否
+|description=你的好运眷顾子民，即便在最艰难的时期亦如此。
+|prerequisites=必须担任王国的统治者领袖。
+|benefit=在王国的事件阶段，当事件类型与危险度确定后，你可在对应的王国或[[定居点]]事件表上掷骰两次并任选其一。此能力必须在首次掷骰结果揭晓前宣告使用。
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/zhef0bc5c087.htm
+}}

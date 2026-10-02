@@ -1,0 +1,14 @@
+{{魔法物品
+|name=后继者骑士之戒
+|english_name=Knight-Inheritor's Ring
+|aon=MagicRingsDisplay.aspx?FinalName=Knight-Inheritor's Ring
+|cat=戒指
+|aura=微弱惑控系、变化系
+|cl=5
+|slot=戒指
+|price=3,000 gp
+|description=这枚造型朴素的金[[魔法物品#戒指|戒指]]上镌刻着[[艾奥梅黛]]的圣徽。它的效用与+1[[防护戒指]]相同。此外，穿戴者每天可以各施放一次[[祝福武器]]和[[战斗坐骑]]。穿戴者还可以随意让自己整洁体面，如同用魔法伎俩清理自己的衣服、皮肤、头发和护甲。
+|req=[[锻造戒指]]、[[祝福武器]]、[[魔法伎俩]]、[[虔诚护盾]]、[[战斗坐骑]]、制造者至少为3级
+|cost=1,500 gp
+|source=内海诸神、冒险之路103：地狱火合约
+}}

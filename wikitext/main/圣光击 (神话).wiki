@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[圣光击]] 的神话版本。</small></div>
+{{Spell
+|name=圣光击
+|english_name=Holy Smite
+|school=塑能系
+|tags=善良
+|levels=先知 4;审判者 4;战斗祭司 4;牧师 4
+|description=对邪恶异界生物造成的伤害增加至每施法者等级1d10点（最高10d10），而且对于其他邪恶生物造成的伤害增加至每2个施法者等级1d12点（最高5d12）。区域内的生物被目盲的持续时间增加至2轮。豁免成功的邪恶生物也会目盲1轮。
+|source=神话冒险
+}}
+[[分类:神话法术]]

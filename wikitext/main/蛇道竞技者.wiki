@@ -1,0 +1,15 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Varisia, Birthplace of Legends pg. 31, Shattered Star Player's Guide pg. 5），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=蛇道竞技者
+|english_name=Serpent Runner
+|type=战役
+|pfs=否
+|description=你参加过玛格尼玛宏伟的赛马场“蛇道”里的模拟角斗和竞技，但那些比赛太过安全，让你感到无聊。为了寻求更大的刺激和对自身能力的考验，你向当地的探索者分会献上了你的武艺与技能。选择下列好处之一，代表你在蛇道期间学到的技巧：
+
+- 选择一种特定的防具类型。当穿着该类型的防具时，你将其防具检定减值视为降低1。
+- 以双武器战斗时，你主手武器所受的减值降低1。
+- 你为挫败对手士气进行的[[威吓]]检定获得+2背景加值。
+|source_name=瓦瑞西亚，传说诞生之地
+|source=VBoL
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Serpent%20Runner
+}}

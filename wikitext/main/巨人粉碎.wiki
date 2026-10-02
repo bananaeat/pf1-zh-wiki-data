@@ -1,0 +1,11 @@
+{{Feat
+|name=巨人粉碎
+|english_name=Giant's Smash
+|categories=战斗
+|pfs=否
+|description=障碍对你毫无作用。
+|prerequisites=力量13，[[猛力攻击]]，巨人
+|benefit=当你攻击一个无生命的无主物品时，你忽视它的前5点硬度。你在进行撞门或破门的力量检定中获得+5加值。
+|source_name=冒险之路91：血征山之战
+|source_url=https://pf1chm.pages.dev/topics/91_Battle_of_Bloodmarch_Hills.htm
+}}

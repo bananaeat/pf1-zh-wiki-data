@@ -1,0 +1,14 @@
+{{Spell
+|name=夜莺之型
+|english_name=Aspect of the Nightingale
+|school=变化系 (变形)
+|levels=先知 1;吟游诗人 1;圣武士 1;审判者 1;德鲁伊 1;战斗祭司 1;歌者 1;游侠 1;牧师 1;猎人 1;萨满 1
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=个人
+|target=你
+|duration=1分钟/等级
+|sr=否
+|description=你获得夜莺的特质，嗓音婉转而动听。你在表演（歌唱）和交涉检定上获得+2表现加值。每分钟一次，当你成为一个允许豁免的魅惑效果的目标时，你可以在豁免检定中骰两次并选择一个想要的结果。
+|source=内海诸神
+}}

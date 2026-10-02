@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=幽暗探索者
+|english_name=Darklands Delver
+|type=地区
+|prerequisites=天夏幽暗地域
+|description=你熟悉天夏地下世界的小径与通道。你的[[知识]]（地城）检定获得+1背景加值，并且你在幽暗地域中进行的[[生存]]检定获得+1背景加值。其中一项技能成为你的本职技能。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Darklands%20Delver
+}}

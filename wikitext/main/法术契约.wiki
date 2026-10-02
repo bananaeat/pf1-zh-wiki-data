@@ -1,0 +1,15 @@
+{{Spell
+|name=法术契约
+|english_name=Spellcasting contract
+|school=塑能系
+|levels=先知 7;牧师 7
+|action=10分钟
+|components=语言;姿势;圣徽
+|range=接触
+|target=接触到的生物；见下文
+|duration=永久直到发散（可解消）
+|save=意志，通过无效（无害）
+|sr=是（无害）
+|description=这个法术的作用类似于“次等法术契约”，如果目标拥有9HD以上生命骰，你可以向他灌输一到两个2环和一个3环法术。
+|source=盗贼议会
+}}

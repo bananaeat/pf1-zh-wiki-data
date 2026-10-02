@@ -1,0 +1,9 @@
+{{物品
+|name=沙漏，1分钟
+|english_name=Hourglass (1 minute)
+|category=冒险装备
+|price=20 金币
+|weight=1/2 磅
+|description=标准的沙漏的沙子从上端的玻璃球内完全流到下方需要1小时时间；小号的沙漏能更精确地标记时间，型号也有更多选择：1分钟和6秒钟两种。计时超过1小时的沙漏非常罕见。
+|source_name=冒险者的军械库
+}}

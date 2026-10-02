@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 198），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=恼人精
+|english_name=Frustrating
+|type=种族
+|prerequisites=伽瑟兰
+|description=即使别人的注意力集中在其他地方，你也总能吸引他们的注意。你可以进行[[唬骗]]检定来分散注意，让30尺内的盟友得以躲藏（前提是他们已经预备了一个躲藏的动作）；你也可以为你所选择的一名相邻盟友进行唬骗检定以施展虚招。这项能力的任一种用法都是一个标准动作。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Frustrating
+}}

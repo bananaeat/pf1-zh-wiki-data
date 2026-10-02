@@ -1,0 +1,19 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[封门术 (神话)]]。</small></div>
+{{Spell
+|name=封门术
+|english_name=Hold Portal
+|school=防护系
+|domains=碉堡子域 1
+|levels=奥能师 1;异能者 1;术士 1;法师 1;秘学士 1
+|action=标准动作
+|components=语言
+|range=中距
+|target=一个入口，面积至多为每等级20平方尺
+|duration=1分钟/等级 (可解消)
+|save=无
+|sr=否
+|description=该法术可以用魔力关一个门、大门、窗户、百叶窗，无论这些入口是由木头、金属还是石头制造都可以。被法术影响的入口就如同紧闭并正常上锁一般。[[敲击术]]或是成功的[[解除魔法]]可以抵消该法术。
+
+对于被该法术影响的门来说，破门DC要在正常基础上增加5点。
+|source=核心规则书
+}}

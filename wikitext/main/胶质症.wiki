@@ -1,0 +1,12 @@
+{{危害
+|name=胶质症
+|english_name=Slimy Doom
+|kind=疾病
+|type=接触
+|save=强韧 DC 14
+|onset=1天
+|frequency=1次/天
+|effect=1d4点体质伤害，目标须再次通过强韧豁免，否则其中1点伤害转为吸取
+|cure=连续2次豁免成功
+|source=核心规则书
+}}

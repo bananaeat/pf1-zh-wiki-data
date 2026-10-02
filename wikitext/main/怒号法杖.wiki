@@ -1,0 +1,23 @@
+{{魔法物品
+|name=怒号法杖
+|english_name=Staff of Cackling Wrath
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Cackling Wrath
+|cat=法杖
+|aura=中等（学派不定）
+|cl=9
+|slot=无
+|price=56,700 gp
+|weight=5磅
+|description=这根木杖弯曲多节，上面嵌着荆棘，让粗心的人相当难以握持。它可以使用以下法术：
+
+* [[目盲/耳聋术]]（1 发）
+* [[魅惑人类]]（1 发）
+* [[人类定身术]]（1 发）
+* [[造成中度伤]]（1 发）
+* [[恶意变形术]]（2 发）
+* [[降咒]]（2 发）
+* [[吸血鬼之触]]（2 发）
+|req=[[制造法杖]]、[[恶意变形术]]、[[降咒]]、[[目盲/耳聋术]]、[[魅惑人类]]、[[人类定身术]]、[[造成中度伤]]、[[吸血鬼之触]]
+|cost=28,350 gp
+|source=进阶玩家指南、极限宝具
+}}

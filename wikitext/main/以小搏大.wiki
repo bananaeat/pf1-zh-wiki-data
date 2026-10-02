@@ -1,0 +1,16 @@
+{{Feat
+|name=以小搏大
+|english_name=Earth Child Style
+|categories=战斗;流派
+|description=你所受的武技训练使你成为巨人克星。
+|prerequisites=感知13，矮人或侏儒，“防御训练”种族特性，[[精通徒手打击]]，特技3级。
+|benefit=你启用地堂[[流派]]架势时，“防御训练”的奖励闪避AC变成+6；同时你在对抗巨人亚种生物时，徒手伤害加上感知修正。
+|stamina=你在徒手攻击命中巨人亚种生物时可以选择花费最多5点耐力，每点耐力提升2点伤害。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[四两拨千斤]]、[[狡兔搏鹰]]（2 个条目）

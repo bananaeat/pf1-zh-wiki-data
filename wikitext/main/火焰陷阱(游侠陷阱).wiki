@@ -1,0 +1,11 @@
+<noinclude>{{游侠导航}}
+{{消歧义|火焰陷阱}}
+{{Source|极限魔法|Ultimate Magic}}
+
+'''火焰陷阱'''（Fire Trap，Ex 或 Su）是一种[[游侠陷阱]]。
+
+</noinclude>'''火焰陷阱'''（Ex 或 Su）：陷阱爆出烈焰，对触发陷阱的生物造成“1d6+1/2游侠等级”点火焰伤害（反射通过则无效）。如果这是特异陷阱，游侠在设置陷阱时必须使用炽火胶之类的易爆材料。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_58.html 原文]），按 AoN 校过。全部游侠陷阱见 [[游侠陷阱]]。
+
+[[分类:游侠陷阱]]</noinclude>

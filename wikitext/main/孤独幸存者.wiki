@@ -1,0 +1,11 @@
+{{Feat
+|name=孤独幸存者
+|english_name=Solitary Survivor
+|categories=战斗
+|description=在严酷的苔原地区长大的你，很少能依靠他人，凡事大多只能靠自己。孤独的经历反而让你在克服重重困难的过程中变得愈发强大。
+|prerequisites=[[力量]]17、BAB+4、[[半兽人]]。
+|benefit=当你周围30尺内没有清醒的盟友时，你能以一个[[自由动作]]唤起你的孤勇，进入一种专注状态。处于该状态时，你的近战攻击会额外造成1d6点伤害。此伤害在重击时不会翻倍。你每日可以保持此状态的轮数等同于你的HD。这些轮数无需连续使用。
+|source=HftF
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/zh72cd9d7a9f.htm
+}}

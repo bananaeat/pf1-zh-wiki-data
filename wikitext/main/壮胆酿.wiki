@@ -1,0 +1,10 @@
+{{装备
+|name=壮胆酿
+|english_name=Fortifying brew
+|cat=炼金药剂
+|price=20 gp
+|weight=1磅
+|craft_dc=20
+|description=在饮用这种液体之后，会产生出让人舒服的温暖感觉。在接下来的1小时内，你在对抗恐惧的豁免检定中获得+2士气加值。在24小时内喝下多于1剂的壮胆酿会让你[[反胃]]1小时。
+|source=进阶职业指南
+}}

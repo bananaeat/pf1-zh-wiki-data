@@ -1,0 +1,12 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{危害
+|name=麻木毒
+|english_name=Numbing poison
+|kind=毒药
+|type=伤口
+|save=强韧 DC 13
+|initial=1d3点力量伤害和1d3点敏捷伤害
+|secondary=1d3点力量伤害和1d3点敏捷伤害
+|price=100 gp
+|source=冒险之路7：无序边缘
+}}

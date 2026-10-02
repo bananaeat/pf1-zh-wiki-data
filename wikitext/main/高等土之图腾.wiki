@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=高等土之图腾
+|english_name=Earth Totem, Greater
+|type=Su
+|categories=图腾
+|prerequisites=[[野蛮人]]10级，[[土之图腾|大地图腾]]
+|benefit=狂暴时，野蛮人的皮肤变得和石头一样硬。如果野蛮人此时被制造出的武器击中，武器受到等同于对野蛮人造成伤害一半的伤害(忽略伤害减免)。
+|source_name=元素血脉
+}}

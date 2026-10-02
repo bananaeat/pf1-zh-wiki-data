@@ -1,0 +1,9 @@
+{{Feat
+|name=蒸汽法术
+|english_name=Steam Spell
+|categories=超魔
+|description=你成功研究出了一些[[水元素裔]][[蒸汽术者]]们所牢牢保护的秘密，这让你能够轻易地在水下使用火焰魔法。
+|benefit=你只能将蒸汽法术应用到拥有火焰描述符的法术上。在水下使用蒸汽法术不需要施法者等级检定，但在水上则需要一个施法者等级检定才能生效。火焰法术不会占用比法术的实际环级高的法术位。
+|source_name=水下冒险
+|source_url=https://pf1chm.pages.dev/topics/page_1030.html
+}}

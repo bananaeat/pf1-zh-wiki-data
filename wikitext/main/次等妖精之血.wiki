@@ -1,0 +1,8 @@
+{{狂暴之力
+|name=次等妖精之血
+|english_name=Fey Blood, Lesser
+|type=Su
+|categories=血脉
+|benefit=每当野蛮人进入狂暴状态，他每对一个目标确认了一次重击，目标就必须通过DC=10+他的野蛮人等级的一半+他的体质调整值的意志检定，否则将[[困惑]]1轮。这是一个影响心灵的胁迫效果。
+|source_name=进阶职业指南
+}}

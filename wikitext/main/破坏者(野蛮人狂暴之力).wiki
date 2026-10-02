@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=破坏者
+|english_name=Smasher
+|type=Ex
+|categories=进攻
+|benefit=当野蛮人攻击无主物品时，他可以忽略对象的硬度。这个能力要在攻击检定确认之前使用。
+|special=这项能力每次狂暴只能使用1次。
+|unchained=野蛮破坏
+|source_name=进阶玩家指南
+}}

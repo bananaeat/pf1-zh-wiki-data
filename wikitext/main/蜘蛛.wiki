@@ -1,0 +1,10 @@
+{{装备
+|name=蜘蛛
+|english_name=Spider
+|cat=坐骑与宠物
+|price=25 gp
+|weight=8盎司
+|creature=猩红蜘蛛
+|description=这种超小型蜘蛛有着红色的身体和黑色的腿。它们是游猎型蜘蛛，不会结网，但有毒。更多信息见《极限魔法》。
+|source=极限宝具
+}}

@@ -1,0 +1,14 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{危害
+|name=巴巴托斯之吻
+|english_name=Kiss of barbatos
+|kind=毒药
+|type=接触、摄入
+|save=强韧 DC 23
+|onset=1d6天
+|frequency=1次/天
+|effect=[[疲乏]]、1d2点力量吸取和1点体质吸取
+|cure=连续3次豁免
+|price=7,500 gp
+|source=伟迹城，丰碑之城
+}}

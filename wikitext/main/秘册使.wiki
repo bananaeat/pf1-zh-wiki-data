@@ -1,0 +1,9 @@
+{{Trait
+|name=秘册使
+|english_name=Martial Manuscript
+|type=信念
+|description=你携带或记刻着来自你的学院、神庙或修院的一份神圣书卷，其中的智慧指引你的攻击更具破坏性。使用[[徒手打击]]或武僧武器时，你的重击确认检定获得+2背景加值。
+|source_name=信念背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

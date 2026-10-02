@@ -1,0 +1,14 @@
+{{魔法物品
+|name=位面缠带
+|english_name=Planar Strap
+|aon=MagicWondrousDisplay.aspx?FinalName=Planar Strap
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=无
+|price=500 gp
+|description=当这条磨旧的皮带系在武器的握柄上时，该武器会对位面的有害环境效果（例如高温或酸蚀）免疫。它不能保护武器免受非环境性的能量效果；尽管它适用于身处火元素位面所受的环境火焰伤害，但不适用于[[火球术]]法术造成的伤害。如果该武器被毁，位面缠带也会随之被毁。系上或解开缠带是一个[[整轮动作]]。一把武器同一时间只能系有一条位面缠带。
+|req=[[制造奇物]]、[[位面适应]]
+|cost=250 gp
+|source=位面冒险
+}}

@@ -1,0 +1,24 @@
+{{速查导航|here=神祇}}
+<div class="well" style="margin:.2em 0"><small>'''这一页只有数据栏，没有正文。'''民间汉化的合集里没有这一位的条目；中文名照 [[弗洛厄斯]] 正文里的「烈火女士伊莫利」。正文见 [https://aonprd.com/DeityDisplay.aspx?ItemName=Ymeri AoN 原文]。认领整理见 [[待办事项]]。</small></div>
+{{神祇
+|name=伊莫利
+|english_name=Ymeri
+|title=烈火女士
+|alignment=中立邪恶（NE）
+|portfolio=沙漠，火，火山
+|domains=[[毁灭领域|毁灭]]，[[邪恶领域(领域)|邪恶]]，[[火领域|火]]，[[战争领域|战争]]
+|subdomains=[[火领域#灰烬子域 (Ash)|灰烬子域]]，[[毁灭领域#天灾子域 (Catastrophe)|天灾子域]]，[[邪恶领域(领域)#恐惧子域 (Fear)|恐惧子域]]，[[战争领域#战术子域 (Tactics)|战术子域]]
+|weapon=长剑
+|symbol=四把燃烧的剑
+|animal=古巨蜥
+|color=橙色，黄色
+|pantheon=元素领主
+|source=内海诸神
+}}
+
+== 信徒可用 ==
+
+* '''专长'''：[[元素威力]]
+* '''背景特性'''：[[元素亲和]]
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Ymeri|2=Ymeri}}

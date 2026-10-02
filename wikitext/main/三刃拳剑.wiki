@@ -1,0 +1,16 @@
+{{武器
+|name=三刃拳剑
+|english_name=Katar, tri-bladed
+|category=武器
+|prof=军用
+|wcat=轻型
+|price=6 gp
+|weight=2磅
+|dmg_s=1d3
+|dmg_m=1d4
+|crit=×4
+|type=穿刺
+|groups=贴身
+|description=大部分拳刃都是只有单片醒目的厚刃，而三刃拳剑则有着扇形张开的三片利刃。任何适用于拳刃的效果同样适用于三刃拳剑。
+|source=冒险之路9：逃离旧科瓦萨、探索者编年史：战役设定、冒险者的军械库2
+}}

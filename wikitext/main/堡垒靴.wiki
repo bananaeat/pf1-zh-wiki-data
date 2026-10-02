@@ -1,0 +1,15 @@
+{{魔法物品
+|name=堡垒靴
+|english_name=Bastion Boots
+|aon=MagicWondrousDisplay.aspx?FinalName=Bastion Boots
+|cat=奇物
+|aura=中等变化系
+|cl=10
+|slot=脚部
+|price=10,500 gp
+|weight=4磅
+|description=这双金属靴上刻着“堡垒”牌的图案，唤起那张牌所代表的坚定决心。这双靴子可以当作[[不动权杖]]使用，即使穿在脚上也可以。如果靴子被移动，穿戴者会随靴子一起移动。即使没有启动，堡垒靴也为穿戴者提供+4加值，用于[[CMD]]以对抗企图移动她的[[战技]]。
+|req=[[制造奇物]]、[[浮空术]]
+|cost=5,250 gp
+|source=哈罗牌手册
+}}

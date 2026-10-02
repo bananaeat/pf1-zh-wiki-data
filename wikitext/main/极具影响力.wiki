@@ -1,0 +1,9 @@
+{{Trait
+|name=极具影响力
+|english_name=Influential
+|type=派系
+|description=当你做出一个决定，陌生人往往会认为是他们自己想出来的主意。当你请求一个生物的时候，你的交涉技能检定获得+3加值。每天一次，选择你可以施放的一个依赖言语的单一法术，施放此法术时豁免DC提高1点。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

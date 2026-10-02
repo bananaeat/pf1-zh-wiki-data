@@ -1,0 +1,9 @@
+{{Trait
+|name=死里逃生
+|english_name=Narrow Escape
+|type=地区
+|prerequisites=镣铐群岛
+|description=你被库鲁食人族俘虏，在一次祭祀仪式上差点被吃掉。在最后一秒，你挣脱了束缚，逃进了丛林。你的死里逃生让你对被捕产生了偏执的恐惧。你秘密地进行定期训练，练习从各种类型的结绳中逃脱。你在逃脱检定中获得+1背景加值，并且逃脱成为你的[[本职技能]]。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=务实的多神教徒
+|english_name=Pragmatic Polytheist
+|type=种族
+|prerequisites=[[人类]]（凯利德人）
+|description=你会向任何一个会回应你的地方神祇祈祷——如果祂们不回应，就让祂们见鬼去吧。你总是将知识(宗教)视为受训技能，且在知识(宗教)检定上获得+1的背景加值。每天1次，你可以以你的最高施法者等级(如无施法者等级，施法者等级视为1)对自己施放[[提升抗力]]，这是一个类法术能力。
+|source_name=河域子民
+|source=PotR
+|source_url=https://pf1chm.pages.dev/topics/zh576fd36972.htm
+}}

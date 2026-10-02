@@ -1,0 +1,16 @@
+{{Spell
+|name=召唤狂躁邪魔
+|english_name=Summon cacodaemon
+|school=咒法系 (召唤)
+|tags=邪恶
+|levels=先知 2;召唤师 2;召唤师（掉链） 2;奥能师 2;女巫 2;战斗祭司 2;术士 2;法师 2;牧师 2
+|action=1轮
+|components=语言;姿势;法器（一根银色钩子）
+|range=近距
+|effect=一只召唤的生物
+|duration=1轮/等级 (可解消)
+|save=无
+|sr=否
+|description=本法术的效果和[[召唤怪物]]一样，除了本法术召唤的是一只狂躁邪魔。
+|source=永罪之书末辑，天启诸骑
+}}

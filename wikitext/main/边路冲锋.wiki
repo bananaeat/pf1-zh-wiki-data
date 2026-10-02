@@ -1,0 +1,10 @@
+{{狂暴之力
+|name=边路冲锋
+|english_name=Shoves Aside
+|type=Ex
+|class=掉链野蛮人
+|benefit=野蛮人冲锋时可以穿越一名她的友军。该友军不会阻挡她的冲锋，就好像他们并未处在她与目标的冲锋路线上一样。这并不会移动友军的位置，仅仅是能够让野蛮人穿过去而已。
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 22），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=休盎提部族民
+|english_name=Shoanti Tribesman
+|type=地区
+|prerequisites=瓦瑞西亚
+|description=你出生于或被收养进一个休盎提部落。从下列技能中选择一项：[[攀爬]]、[[生存]]或[[游泳]]。你在该技能上获得+1背景加值，并且它永远是你的本职技能。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Shoanti%20Tribesman
+}}

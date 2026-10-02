@@ -1,0 +1,14 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=御座之王
+|english_name=The Enthroned King
+|aon=MagicArtifactsDisplay.aspx?ItemName=The Enthroned King
+|cat=神器
+|tier=次级神器
+|aura=强烈塑能系、死灵系
+|cl=13
+|weight=2磅
+|description=翻涌的蓝烟充满了这只小玻璃瓶，偶尔会凝成一张苍老的面孔，转瞬即逝。只要这只瓶子公开佩戴在生物身上，御座之王鼓舞人心的存在就会给携带者的所有属性检定、豁免检定和技能检定带来+1幸运加值。被困在内的灵魂一心保护矮人，尤其是库拉贡敦天空堡垒（Sky Citadel of Kraggodan）。每天三次，御座之王可以将自己的一部分不朽生命力注入其持有者，赋予她1d10+10点临时生命值。
+|destruction=御座之王必须在矮人来世的守护者Malgrim一名强大的仆从面前俯首跪拜——这需要他重新拥有一具身体，而不是现在这只有尘埃与气息的形态。
+|source=冒险之路118：磐石围攻
+}}

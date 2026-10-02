@@ -1,0 +1,9 @@
+{{Trait
+|name=沉着战士
+|english_name=Enlightened Warrior
+|type=种族
+|prerequisites=[[神裔]]（伊迪尔人）
+|description=你总是能轻松的保持内心的平静和沉着，即使是在战场上。即使你的阵营为绝对中立或中立善良，你也可以获得武僧职业等级。
+|source_name=天界血脉
+|source_url=https://pf1chm.pages.dev/topics/page_828.html
+}}

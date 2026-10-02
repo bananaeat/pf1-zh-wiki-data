@@ -1,0 +1,10 @@
+{{Trait
+|name=残虐铸冷心
+|english_name=Chilled by Brutality
+|type=地区
+|prerequisites=苔原（关联巨人：云巨人、霜巨人、河巨人、符文巨人、寒林巨人）
+|benefit=你曾是一个遭到了寒带巨人袭击的小队的一员，而这些巨人甚至还要吃掉你们中的死人和[[濒死]]者。在那之后，没什么再能让你惊慌失措了，但你强烈希望能迅速结束与巨人的战斗，以防类似的事情再次发生。你对巨人造成重击的确认检定，以及在对抗恐惧效果的豁免检定上+2背景加值。
+|regions=布雷沃、伊利森、林诺姆诸王国、蒙蒂维、猛犸象大王之国。
+|source_name=巨人猎手手册
+|source_url=https://pf1chm.pages.dev/topics/zh920b00384f.htm
+}}

@@ -1,0 +1,16 @@
+{{Spell
+|name=强效诅咒
+|english_name=Curse, major
+|school=死灵系
+|tags=诅咒
+|levels=催眠师 4;先知 5;唤魂师 5;女巫 5;战斗祭司 5;牧师 5;秘学士 5;萨满 5;奥能师 6;异能者 6;术士 6;法师 6
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一名生物
+|duration=永久
+|save=意志，通过则无效
+|sr=是
+|description=这个法术工作方式如同[[降咒]]，不过移除该诅咒的DC等于本法术豁免DC+5。
+|source=极限魔法
+}}

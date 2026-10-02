@@ -1,0 +1,9 @@
+{{Trait
+|name=纵火狂
+|english_name=Firebug
+|type=战斗
+|benefit=你是一个军械师或炼金术士的子嗣，而且特别喜欢用易燃物和炸药做实验。当你使用投炸武器或者炼金炸弹攻击时，你的攻击检定获得+1背景加值。
+建议角色：阿肯斯塔本地人，卡塔佩什人，苏比亚人
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

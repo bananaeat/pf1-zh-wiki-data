@@ -1,0 +1,10 @@
+{{Feat
+|name=延伸传法
+|english_name=Distant Delivery
+|description=你的魅影能够在比平时更远的范围传递法术。
+|prerequisites=[[魅影]]职业能力，魅影具有传递接触法术的能力
+|benefit=当你通过魅影[[传递接触法术]]时，你与魅影之间的最大距离增加20尺。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

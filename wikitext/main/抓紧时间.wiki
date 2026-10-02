@@ -1,0 +1,11 @@
+{{Feat
+|name=抓紧时间
+|english_name=Pinch Time
+|pfs=否
+|description=通常来说半精灵父母一方只是凡人之寿而另一方有着精灵的长寿，因此对时间的认知有所偏差，而尖塔后裔更是当中的极端者，他们还会研究“时间”这一学术主题。
+|prerequisites=角色等级5、尖塔后裔半精灵
+|benefit=每日一次，以一个标准动作，你获得“加速术” 的好处，持续到你的下一轮结束为止。
+|source=HftF
+|source_name=缘界英雄
+|source_url=https://pf1chm.pages.dev/topics/zh72cd9d7a9f.htm
+}}

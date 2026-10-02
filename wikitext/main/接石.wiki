@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''接石'''（Rock Catching）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：防御能力</span></div>
+</noinclude><includeonly><div class="lang"><span id="接石"></span><div class="lang-h"><b>[[接石]]</b><i>Rock Catching</i><span class="lang-w">Ex · 防御能力</span></div><div class="lang-d"></includeonly>
+该生物（体型必须至少为大型）可以接住小型、中型或者大型的岩石（或者类似的投射物）。每轮 1 次，一个本来会被岩石命中的生物可以通过一个自由动作做一次反射豁免，将石头接住。小型石头 DC 15，中型 DC 20，大型 DC 25。（如果投射物在攻击检定上带有魔法加值，DC 会增加相同的数值。）为了使用接石，该生物必须意识到这次攻击。
+
+'''格式'''：接石
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Rock Catching|2=Rock Catching}}
+
+[[分类:通用怪物规则]]</noinclude>

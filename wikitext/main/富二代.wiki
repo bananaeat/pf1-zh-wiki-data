@@ -1,0 +1,10 @@
+{{Trait
+|name=富二代
+|english_name=Rich Parents
+|type=社会
+|pfs=否
+|description=你出生在富贵之家，即便决定踏上冒险旅途，也能获得不俗的初始资金支援——你的起始资金增加至900gp。
+|source_name=社会背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

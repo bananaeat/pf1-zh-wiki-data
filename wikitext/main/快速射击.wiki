@@ -1,0 +1,16 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[快速射击 (神话)]]。</small></div>
+{{Feat
+|name=快速射击
+|english_name=Rapid Shot
+|categories=战斗
+|description=你能够进行一次额外的远程攻击。
+|prerequisites=[[敏捷]] 13，[[近距射击]]。
+|benefit=使用远程武器进行[[全力攻击]]时，你在该轮能够以你最高的加值多射击一次。使用速射时，你的所有攻击检定承受-2减值。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[多重射击]]、[[快枪]]、[[空翎变]]、[[空翎连]]、[[枪剑击鸣]]、[[狙杀王牌]]、[[矢暴啸]]、[[矢暴式]]、[[矢暴策]]、[[精通快枪]]、[[针刺射击]]、[[高等快枪]]（12 个条目）

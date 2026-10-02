@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能选集|Psychic Anthology}}
+'''大地之语'''（Earth Tongue, Sp）是[[操念使]]的[[原力]]。
+
+元素：土；类别：通用（Sp）；等级：8；超载：0
+
+前置：[[颤动感知]]，[[高等颤动感知]]
+
+你获得常驻的与岩石交谈的能力，包括自然和加工后的石头，如同[[石言术]]。该能力永远为激活状态，并且石头可能会在你说话前向你搭话，如果他们有什么要告诉你的事情。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Earth Tongue|2=Earth Tongue}}
+
+[[分类:原力]]

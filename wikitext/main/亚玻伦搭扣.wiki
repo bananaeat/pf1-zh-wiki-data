@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=亚玻伦搭扣
+|english_name=Apollyon Clasp
+|aon=MagicWondrousDisplay.aspx?FinalName=Apollyon Clasp
+|cat=奇物
+|aura=中等咒法系
+|cl=8
+|slot=颈部
+|price=8,000 gp
+|description=这枚用来固定斗篷或披风的暗黑铁质别针形似一只苍蝇，眼睛是闪闪发亮的灵魂宝石碎片，通常由崇敬瘟疫驭者亚玻伦的人制成。每天一次，穿戴者可以以[[标准动作]]呼出一团15尺锥形的黑色苍蝇云。被锥形笼罩的任何生物，都会因苍蝇啃咬其血肉而受到8d6点挥砍伤害；通过一次成功的DC 18反射豁免可使该伤害减半。如果有活物因这些苍蝇而受到伤害，它还必须通过一次DC 18的强韧豁免，否则[[恶心]]1分钟。邪魔对这些效果免疫。
+|req=[[制造奇物]]、[[喷吐虫群]]
+|cost=4,000 gp
+|source=Pathfinder: Spiral of Bones #5
+}}

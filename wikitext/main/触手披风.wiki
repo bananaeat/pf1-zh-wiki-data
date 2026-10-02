@@ -1,0 +1,15 @@
+{{魔法物品
+|name=触手披风
+|english_name=Tentacle Cloak
+|aon=MagicWondrousDisplay.aspx?FinalName=Tentacle Cloak
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=肩部
+|price=14,000 gp
+|weight=1磅
+|description=当这件深蓝色的披风移动时，细微而难以名状的形状在其上起伏流动，仿佛吞噬着落在其上的所有光线。每天1次，应穿戴者的命令，两条灰色的大触手会从披风肩部附近伸出。假定穿戴者为中型，每条触手可以进行一次天生攻击，造成1d6点钝击伤害（触手的伤害按触手天生攻击随穿戴者体型而变化；见《怪物图鉴》第302页）。触手拥有10尺触及和攫抓特殊能力（《怪物图鉴》第301页）。此外，穿戴者用触手进行擒抱战技检定时获得+4表现加值。触手持续1分钟。
+|req=[[制造奇物]]、polymorph self（译注：AoN 原文如此，规则书中没有此法术）
+|cost=7,000 gp
+|source=极限宝具
+}}

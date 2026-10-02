@@ -1,0 +1,10 @@
+{{Feat
+|name=法术定发
+|english_name=Still Spell
+|categories=超魔
+|description=你能够不做动作施展法术。
+|benefit=法术施展时不需姿势成分。没有姿势成分的法术不受影响。定发法术占用比该法术实际等级高1环的法术位。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

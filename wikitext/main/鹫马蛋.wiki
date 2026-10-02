@@ -1,0 +1,9 @@
+{{装备
+|name=鹫马蛋
+|english_name=Hippogriff egg
+|cat=坐骑与宠物
+|price=200 gp
+|weight=10磅
+|description=尽管成年鹫马要比狮鹫更好驯服，但是对于饲育者来说，这些生物的蛋仍旧非常珍贵。
+|source=极限宝具
+}}

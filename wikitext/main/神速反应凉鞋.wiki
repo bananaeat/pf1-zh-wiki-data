@@ -1,0 +1,15 @@
+{{魔法物品
+|name=神速反应凉鞋
+|english_name=Sandals of Quick Reaction
+|aon=MagicWondrousDisplay.aspx?FinalName=Sandals of Quick Reaction
+|cat=奇物
+|aura=微弱变化系
+|cl=4
+|slot=脚部
+|price=4,000 gp
+|weight=1磅
+|description=这双柔软的皮革凉鞋能在危急时刻带来一阵爆发的速度。穿戴者在[[突袭轮]]中行动时，可以在突袭轮中进行一个[[标准动作]]和一个[[移动动作]]。如果穿戴者本来就能在突袭轮中进行一个标准动作和一个移动动作，则改为在突袭轮中行动时，速度获得+10环境加值。
+|req=[[制造奇物]]、[[预知危险]]、[[加速术]]
+|cost=2,000 gp
+|source=极限宝具
+}}

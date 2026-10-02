@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 197），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=驯兽老手
+|english_name=Animal Rustler
+|type=种族
+|prerequisites=兽人
+|description=你经常帮部落捕捉和驾驭危险的动物与巨型动物，你必须把它们控制得足够好，才能避免被它们杀死。每天一次，当你进行[[驯养动物]]检定时，除了你的魅力调整值之外，你还可以加上你的力量调整值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Animal%20Rustler
+}}

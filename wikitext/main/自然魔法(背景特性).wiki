@@ -1,0 +1,11 @@
+{{消歧义|自然魔法}}
+{{Trait
+|name=自然魔法
+|english_name=Natural Magic
+|type=宗教
+|prerequisites=信仰[[约拉尔]]
+|description=约拉尔的教义令你明白，所有的魔法最终都可以追溯到自然之中。选择两个0环的德鲁伊法术；你将这两个法术视为在你的职业法术列表上，并视为你所有施法职业的已知法术。
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh9e38168036.htm
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=血性狂怒颈环
+|english_name=Torc of Bloody Rage
+|aon=MagicWondrousDisplay.aspx?FinalName=Torc of Bloody Rage
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=颈部
+|price=8,000 gp
+|weight=1磅
+|description=这个厚重的铁制颈环看起来做工粗糙，上面能看到几处制作者的锤子留下的凹痕。每日1次，穿戴者可以以[[自由动作]]如同狂暴术一般进入狂暴，持续6轮，不过狂暴结束后，穿戴者会[[疲乏]]12轮。如果穿戴者具有狂暴职业能力，则每日1次可以改为以自由动作让自己额外获得3轮狂暴。
+|req=[[制造奇物]]、[[狂暴术]]，制造者必须具有血怒或狂暴职业能力
+|cost=4,000 gp
+|source=进阶职业指南
+}}

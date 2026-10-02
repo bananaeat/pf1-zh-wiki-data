@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Advanced Class Origins pg. 21），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=绿皮潜猎者
+|english_name=Greenskin Stalker
+|type=地区
+|prerequisites=依斯嘉、河域诸国或瓦瑞西亚
+|description=你是绿皮潜猎者的一员。由于隶属于这个[[地精]]杀手兄弟会，你学会了像地精一样思考和行动，尽管这听起来令人不安。针对地精类生物或与之相关的[[唬骗]]、[[知识]]、[[察觉]]、[[察言观色]]和[[生存]]检定获得+1背景加值。你还可以在未受训练的情况下进行与地精类生物相关的知识检定。
+|source_name=进化职业起源
+|source=ACO
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Greenskin%20Stalker
+}}

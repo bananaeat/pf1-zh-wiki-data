@@ -1,0 +1,16 @@
+{{魔法物品
+|name=防护圣甲虫
+|english_name=Scarab of Protection
+|aon=MagicWondrousDisplay.aspx?FinalName=Scarab of Protection
+|cat=奇物
+|aura=强烈防护系、死灵系
+|cl=18
+|slot=颈部
+|price=38,000 gp
+|description=这件器物看上去是一枚甲虫形状的玉质勋章。握持1轮后，其表面会浮现一行铭文，让持有者知道它是一件防护器物。
+
+圣甲虫的拥有者获得[[法术抗力(怪物能力)|法术抗力]]20。圣甲虫还能吸收[[能量吸取]]攻击、即死效果和负能量效果。吸收12次这样的攻击后，圣甲虫会化为粉末并被毁坏。
+|req=[[制造奇物]]、[[防死结界]]、[[法术抗力(法术)|法术抗力]]
+|cost=19,000 gp
+|source=核心规则书、极限宝具
+}}

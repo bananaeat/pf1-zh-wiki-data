@@ -1,0 +1,14 @@
+{{魔法物品
+|name=光明刺青
+|english_name=Radiant Tattoo
+|aon=MagicTattooDisplay.aspx?FinalName=Radiant Tattoo
+|cat=魔法纹身
+|aura=微弱塑能系
+|cl=5
+|slot=无
+|price=1,500 gp
+|description=这种刺青通常呈一轮多彩的日芒形状。持有者可以用命令词激活刺青，使其迸发出耀眼的强光。一名相邻的敌人会[[目盲]]1d4轮；若它通过DC 15反射豁免，则改为[[目眩]]1d4轮。若目标有强光失明、强光敏感，或在其他方面易受强光伤害，则改为目盲2d4轮，或在豁免成功时目眩2d4轮。若持有者在多于一名敌人相邻时激活刺青，她可以选择影响哪一名敌人。刺青一旦被激活就会消失。
+|req=[[绘制魔法刺青]]、[[昼明术]]
+|cost=750 gp
+|source=阴招战术工具箱
+}}

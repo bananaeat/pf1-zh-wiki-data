@@ -1,0 +1,12 @@
+{{Feat
+|name=魔宠连接
+|english_name=Familiar Link
+|categories=战团;团队
+|pfs=是
+|description=在你的战团内，你与你同伴的[[女巫魔宠]]产生联系。
+|prerequisites=战团[[巫术]]或[[战团之触]]，魔宠或魂兽职业能力，女巫1级。
+|benefit=你与你战团内所有同样拥有此专长的其他女巫的魔宠共享情感连接，如同女巫的魔宠能力所述。此外，你可以以一个战团成员的魔宠为目标，使用法术共享、[[传递接触法术]]、以及探知魔宠能力，只要你的女巫等级足够高到获取这些能力。你可以与该魔宠使用它与主人交谈的能力进行交流。你在帮助你的魔宠从你战团成员的魔宠那里学习法术的[[法术辨识]]检定上获得+5加值。
+|source=BotC
+|source_name=巫团血脉
+|source_url=https://pf1chm.pages.dev/topics/zh6aab959612.htm
+}}

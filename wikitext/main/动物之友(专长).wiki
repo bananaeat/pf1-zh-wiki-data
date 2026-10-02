@@ -1,0 +1,11 @@
+{{消歧义|动物之友 (消歧义)}}
+{{Feat
+|name=动物之友
+|english_name=Friend to Animals
+|description=你对所有活物展示敬意，它们能够感知这一点并予以回应。
+|prerequisites=[[自然之魂]]，[[驯养动物]]3级
+|benefit=以一个[[标准动作]]，你可以要求所有在你30尺内的动物进行一次意志豁免检定。检定失败的动物不能主动攻击你除非你先攻击它们或者攻击它们的盟友。这个意志豁免的DC等于10+1/2角色等级+你的魅力修正。
+|source=F&P
+|source_name=信仰与哲学
+|source_url=https://pf1chm.pages.dev/topics/page_673.html
+}}

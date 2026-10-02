@@ -1,0 +1,9 @@
+{{Trait
+|name=盲信徒
+|english_name=Disdainful Defender
+|type=信念
+|description=你抵触其他信仰的魔法力量。你对抗神术的意志豁免获得+2背景加值。该加值在面对与你信奉同一神祇的施法者时无效。
+|source_name=信念背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

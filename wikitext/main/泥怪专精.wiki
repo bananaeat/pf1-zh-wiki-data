@@ -1,0 +1,11 @@
+{{Feat
+|name=泥怪专精
+|english_name=Focused Ooze Expertise
+|categories=战斗
+|description=你学会了避免和克服你所研究的猎物的吞噬攻击。
+|prerequisites=宿敌(泥怪)职业特性。
+|benefit=你的[[CMD]]获得等于你宿敌(泥怪)加值一半的加值。你还对强酸获得等于你宿敌(泥怪)加值一半的抗力。在对抗泥怪时，你使用完整的宿敌(泥怪)加值应用于上述效果。
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh03ef2e8763.htm
+}}

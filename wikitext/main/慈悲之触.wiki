@@ -1,0 +1,16 @@
+{{Spell
+|name=慈悲之触
+|english_name=Touch of mercy
+|school=惑控系 (胁迫)
+|tags=善良;影响心灵
+|levels=先知 2;吟游诗人 2;奥能师 2;战斗祭司 2;术士 2;歌者 2;法师 2;牧师 2
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=接触
+|target=一个生物
+|duration=1轮/等级（可解消）
+|save=意志，通过则无效
+|sr=是
+|description=目标生物的武器攻击只能造成瘀伤。如果目标生物攻击的生物或物品免疫非致命伤害，则依旧造成致命伤害。武器依旧维持其他特性。
+|source=纯洁勇士
+}}

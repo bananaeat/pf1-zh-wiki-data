@@ -1,0 +1,10 @@
+{{Trait
+|name=寻找财富
+|english_name=Fortune Found
+|type=地区
+|prerequisites=[[灵猴族]]，出身卡塔佩什
+|description=你为了与[[人类]]交易学会了大量的技巧和方法。你在[[估价]]和交涉检定获得+1背景加值，而且其中一个技能(由你选择)成为你的[[本职技能]]。
+|source_name=野兽血脉
+|source=BotB
+|source_url=https://pf1chm.pages.dev/topics/zh451d33eaa9.htm
+}}

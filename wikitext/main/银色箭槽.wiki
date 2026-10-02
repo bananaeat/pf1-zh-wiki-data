@@ -1,0 +1,14 @@
+{{魔法物品
+|name=银色箭槽
+|english_name=Silver Nocking Point
+|aon=MagicWondrousDisplay.aspx?FinalName=Silver Nocking Point
+|cat=奇物
+|aura=微弱变化系
+|cl=1
+|slot=无
+|price=3,150 gp
+|description=这个小小的银色圆柱不比针头大，上面刻着一句精灵语格言，大意是“畅行无阻的飞行”。银色箭槽可以装在任何弓或弩的弦上。使用装有银色箭槽的武器时，角色可以把风力环境造成的减值当作轻一个等级来处理。例如，在烈风中射出远程投射物的角色，远程攻击的减值是-2而不是-4。那些通常会偏转投射物的魔法风（如[[无相之风]]，《极限魔法》）则只会对攻击检定造成-8减值。
+|req=[[制造奇物]]、[[克敌机先]]
+|cost=1,575 gp
+|source=远程战术工具箱
+}}

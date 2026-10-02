@@ -1,0 +1,10 @@
+{{Feat
+|name=大海捞针
+|english_name=Needle in a Haystack
+|description=一旦你发现了你正在追踪的生物的痕迹，你就不会让它溜走。
+|prerequisites=[[技能专攻]](察觉)，察觉3级。
+|benefit=你可以用察觉(而非生存)来追踪痕迹。当你使用察觉技能追踪一个生物后，你在1小时内避免被该生物[[突袭]]的察觉检定中获得+2洞察加值。如果你的察觉达到10级或更高，这个加值增加到+4。
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh03ef2e8763.htm
+}}

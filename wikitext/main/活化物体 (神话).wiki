@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[活化物体]] 的神话版本。</small></div>
+{{Spell
+|name=活化物体
+|english_name=Animate Objects
+|school=变化系
+|levels=先知 6;吟游诗人 6;女巫 6;异能者 6;战斗祭司 6;歌者 6;牧师 6;秘学士 6
+|description=你使用本法术所创造的活化物体会按照其等级获得最高的生命值，它们的力量属性会获得+4加值，而且构装生物点数为正常数值的1.5倍。
+|source=神话冒险
+}}
+[[分类:神话法术]]

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Council of Thieves Player's Guide pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=西冠城志士
+|english_name=Westcrown Firebrand
+|type=战役
+|pfs=否
+|description=这个世界出了大问题。配偶不该日复一日地蜷缩在窗前，既盼望又害怕地等着所爱之人平安下工归来。父母不该在孩子问起邻居出了什么事时让他们闭嘴。市民不该在卫兵当街殴打老朋友时移开视线、匆匆走过。西冠城的人们受的苦已经够多了！是时候改变了。但要怎么做？你听说有一群群思想自由的人在全城宵禁之后聚会。也许他们会认同你的理想？你无论身体还是头脑都能对机会迅速做出反应，并且知道许多冲突最好是以突然而迅速的行动来解决。你的先攻检定获得+1背景加值，并且如果你在突袭轮中行动，你的所有攻击检定获得+1背景加值。
+|source_name=Council of Thieves Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Westcrown%20Firebrand
+}}

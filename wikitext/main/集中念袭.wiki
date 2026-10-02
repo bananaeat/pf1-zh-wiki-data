@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能选集|Psychic Anthology}}
+'''集中念袭'''（Focused Blast）是[[操念使]]的[[原力]]。
+
+元素：通用；类别：塑形注能；等级：2；超载：2
+
+关联[[念袭]]类别：任意
+
+豁免：无
+
+你将你的念袭能量集中起来进行一次攻击。在念袭的命中检定和对抗[[特殊能力#法术抗力|法术抗力]]的施法者等级检定上你获得+1增强加值。你可以将本注能的超载提升2，令增强加值提高1，最大为10点超载时+5。同时，你可以减少你的念袭伤害为原来的一半，来减少该注能的超载为原来的一半。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Focused Blast|2=Focused Blast}}
+
+[[分类:原力]]

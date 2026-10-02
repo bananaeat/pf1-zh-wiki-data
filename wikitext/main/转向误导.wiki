@@ -1,0 +1,11 @@
+{{Feat
+|name=转向误导
+|english_name=Misdirection Redirection
+|categories=战斗
+|description=在误导敌人的武器攻击后，你引导着他打向了其他人。
+|prerequisites=智力 13，[[寓守于攻]]，[[诈欺师]]，[[误导战法]]，[[唬骗]]10级
+|benefit=当你成功使用了[[误导战法]]专长让1次近战武器攻击失效时，可以重定向敌人的攻击，引导敌人依照你的选择来攻击其近战触及范围内的其他生物。要处理该次攻击，你的敌人必须对抗新目标做出1次新的攻击检定。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

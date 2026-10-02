@@ -1,0 +1,10 @@
+{{Feat
+|name=熟练御者
+|english_name=Skilled Driver
+|pfs=否
+|description=选择一种类型的[[载具]]（空中、陆地或水上）。你在驾驶该载具时更加[[得心应手]]。
+|benefit=你操纵选定载具的驾驶检定获得+4加值。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

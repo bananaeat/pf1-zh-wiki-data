@@ -1,0 +1,20 @@
+{{魔法物品
+|name=翠绿色艾恩石
+|english_name=Emerald Ellipsoid Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun Stone Emerald Ellipsoid
+|cat=艾恩石
+|aura=中等死灵系
+|cl=12
+|slot=无
+|price=20,000 gp
+|description='''形状'''：椭圆
+
+'''效果'''：这块艾恩石给予你5点临时生命值，这些临时生命值会在每天某个因石而异的特定时刻（通常是日出或日落）自动恢复。多块翠绿色椭圆艾恩石的加值可以叠加，没有已知的上限。
+
+'''共振'''（放入[[寻路仪]]时）：获得额外5点临时生命值。
+
+艾恩石的通用规则（启动、环绕飞行、抓取，以及AC、硬度）见[[艾恩石]]。
+|req=[[制造奇物]]、[[虚假生命]]，制造者必须已经12级
+|cost=10,000 gp
+|source=秘密探寻者
+}}

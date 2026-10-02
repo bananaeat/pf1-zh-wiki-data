@@ -1,0 +1,15 @@
+{{魔法物品
+|name=黄油麻雀鱼鱼片
+|english_name=Buttered Sparrowfish Fillet
+|aon=MagicPotionsDisplay.aspx?ItemName=Buttered Sparrowfish Fillet
+|cat=药水
+|aura=微弱变化系
+|cl=5
+|slot=无
+|price=900 gp
+|weight=1磅
+|description=麻雀鱼是奇奥尼河流溪涧中土生土长的一种味道清淡的游鱼，主要以出色的速度和能跃出水面跳上低垂的树枝躲避捕食者而闻名。它的肉呈鲑鱼色，用黄油、香草和盐烹制后相当可口；最好趁新鲜吃，但如果烹制后妥善风干，不论冷食还是加热后吃，都能保持风味。食用这种魔法鱼片，会使你在平衡、攀爬和游泳检定上获得+10表现加值，持续1小时。
+|req=[[调制药剂]]、专业（烹饪）5级，制造者必须拥有平衡、攀爬和游泳各5级
+|cost=450 gp，36 XP
+|source=格拉利昂的精灵
+}}

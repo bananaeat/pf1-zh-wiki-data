@@ -1,0 +1,15 @@
+{{魔法物品
+|name=紧急敲门器
+|english_name=Insistent Doorknocker
+|aon=MagicWondrousDisplay.aspx?FinalName=Insistent Doorknocker
+|cat=奇物
+|aura=中等变化系
+|cl=9
+|slot=无
+|price=5,000 gp
+|weight=2磅
+|description=这张铁制的石像鬼面孔嘴里含着一枚铁环。每天一次，将这张面孔平整的背面贴在墙壁、地板或天花板上，它就会固定在原处，形成一扇可用的门，并如同施放[[穿墙术]]一样，穿透其后最多1尺厚的空间。再次说出命令字会结束穿墙效果，使该表面恢复原先没有门的形状，并使敲门器脱离该表面。
+|req=[[制造奇物]]、[[穿墙术]]
+|cost=2,500 gp
+|source=极限宝具
+}}

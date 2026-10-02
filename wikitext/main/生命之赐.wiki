@@ -1,0 +1,10 @@
+{{Feat
+|name=生命之赐
+|english_name=Reward of Life
+|description=当你使用圣疗时，你也一同被治愈。
+|prerequisites=【圣疗】职业特性。
+|benefit=每次你使用【圣疗】能力治疗你以外的生物时，你恢复等同于你魅力加值的HP。这个能力在你使用圣疗伤害不死生物时不起效。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

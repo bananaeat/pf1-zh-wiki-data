@@ -1,0 +1,17 @@
+{{Spell
+|name=透支幸运
+|english_name=Borrow fortune
+|school=塑能系
+|domains=天命子域 3
+|levels=先知 3;异能者 3;通灵者 3
+|action=直觉动作
+|components=语言
+|range=个人
+|target=自己
+|duration=立即；见下文
+|sr=否
+|description=当你进行一次d20投骰，你可以选择用一个[[直觉动作]]施放这个法术，在投骰结果宣布之前投第二次骰，并且取两次中的较高结果。
+
+然后，当你施放该法术之后的两轮，你必须每次都在你的d20投骰中掷两次并且取其中较低的结果。
+|source=进阶玩家指南
+}}

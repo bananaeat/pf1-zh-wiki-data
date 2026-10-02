@@ -1,0 +1,9 @@
+{{装备
+|name=餐宴（一人）
+|english_name=Banquet (per person)
+|cat=饮食
+|price=10 gp
+|weight=—
+|description=一顿餐宴包括数道菜肴、佳酿，以及来往上菜、撤走空盘的仆人。所列价格是在餐馆举办餐宴的价格（不过有些餐馆老板也可以受雇到私人场所承办餐宴）。以上价格为每人的价格。
+|source=核心规则书、极限宝具
+}}

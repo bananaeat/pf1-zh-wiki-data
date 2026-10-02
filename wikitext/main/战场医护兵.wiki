@@ -1,0 +1,11 @@
+{{Feat
+|name=战场医护兵
+|english_name=Combat Medic
+|categories=团队
+|description=你知道在热烈激战中紧急治疗的必要性，快速地急救同伴可以让他们免于死亡。
+|prerequisites=医疗5级。
+|benefit=当你对同样拥有此专长的盟友使用医疗技能急救、治疗[[铁蒺藜]]造成的伤口或治疗毒性时，你不会引起[[借机攻击]]，而且可以在医疗检定中取10。不同于其他[[团队专长]]，[[麻痹]]、[[震慑]]、[[失去意识]]或由于其他原因不能行动的盟友仍算作此专长的目标。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

@@ -1,0 +1,45 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #35: War of the River Kings
+|authors=Jason Nelson
+|pages=96
+}}
+
+{{书页/简介|head=弑王|1=
+两位国王真的能彼此信任吗？皮塔克斯（Pitax）之王伊罗维提（Irovetti）可能成为被窃之地东部领主们的对手，他向那片领地的领主们敞开城门，予以款待。在这座充斥着浅薄放纵与粗鄙堕落的城市里，他举办了一场表面上意在增进友谊与和平的锦标赛，其中却潜藏着自身的重重危险。皮塔克斯之王的善意是否真诚，还是他怀有更阴险的目的？PC 们是否注定要多出一个对手——此人统领的不仅是一个国家，还有来自某个致命异界的盟友？
+
+本册《冒险之路》内容包括：
+
+* 《河域诸王之战》，一部面向 12 级角色的开拓者角色扮演游戏冒险，作者 Jason Nelson。
+* 游览饱受压迫的皮塔克斯城的空洞奇观与阴郁暗影，作者 Mike Ferguson。
+* 对战争之神[[古拉姆]]铁蹄般教义的无情洞察，作者 Sean K Reynolds。
+* 在「探索者日志」中，探索者 Ollix Kaddar 在泰莫恩（Tymon）角斗坑中的冒险，作者 Steven E. Schend。
+* 四种新怪物，作者 Julian Neale、Sean K Reynolds。
+}}
+
+'''冒险之路35：河域诸王之战'''（''Pathfinder #35: War of the River Kings''）是 Jason Nelson 撰写的一部冒险，配套材料出自 Mike Ferguson、Julian Neale 和 Sean K Reynolds，小说出自 Steven E. Schend，于 2010 年 7 月 21 日发售。它是[[冒险之路]]「拥王者」系列六部冒险中的第五部。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+河域诸王之战 @ 6
+皮塔克斯 @ 60
+[[古拉姆]] @ 68
+探索者日志：浪子（5／6） @ 74
+怪物图鉴 @ 78
+- [[最初之刃]]
+- [[厄尔冈特]]
+- [[翠绿泥怪]]
+• [[翠绿泥怪|高等翠绿泥怪]]
+- [[战殁巨虫]]
+预设角色 @ 90
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=War of the River Kings
+|releases=PDF¦PZO9035E¦2010-07¦；Softcover¦PZO9035¦2010-07¦
+}}
+
+[[分类:书目]]

@@ -1,0 +1,19 @@
+{{物品
+|name=纪念方巾
+|english_name=Kerchief of Remembrance
+|category=冒险装备
+|aura=昏暗预言系
+|cl=3级
+|slot=腕部（arm or wrist，译注：都是占据腕部栏位）
+|price=600GP
+|weight=-磅
+|requirements=[[制造奇物]]，[[鹰之威仪]]，[[关照术]]
+|cost=300GP
+|description=出自：Heroes of the High Court pg. 13
+
+描述：
+
+该[[恩泽]]是穿戴在手臂（arm）或手腕（wrist）上的一条简单的格子方巾。在1周内，接受者可以自动回忆起赠送者过去的详细特征，即便他的记忆受到了损害或修改（比如受到了[[修改记忆]]modify memory）。此外，接受者可以以一个[[标准动作]]了解赠送者的状态，就像演示者可以以一个标准动作了解接受者的状态一样。
+|source=HotHC
+|source_name=皇庭英豪
+}}

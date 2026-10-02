@@ -1,0 +1,9 @@
+{{装备
+|name=驴鼠
+|english_name=Donkey rat
+|cat=坐骑与宠物
+|price=1 gp
+|weight=50磅
+|description=这种超小型的白色啮齿动物看起来像水豚，原产于温带沼泽和海岸。在一些地方，它们是常见的宠物和牲畜。更多关于驴鼠的信息见《极限魔法》。
+|source=冒险者的军械库、极限宝具
+}}

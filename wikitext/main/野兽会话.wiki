@@ -1,0 +1,10 @@
+<noinclude>{{侠客导航}}
+'''野兽会话'''（Beast Speech, Su）是[[侠客]]的[[社交天赋]]。
+
+</noinclude>{{Source|格拉利昂的英雄|Heroes of Golarion|inline}}
+
+每日一次，侠客可以以类法术能力施放[[动物交谈]]，施法者等级等同于他的角色等级。侠客必须要拥有[[鸣禽鸟语]]天赋才能选取此天赋。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhdd5001e184.htm 原文]）。全部社交天赋见 [[:分类:社交天赋|分类:社交天赋]]。
+
+[[分类:社交天赋]]</noinclude>

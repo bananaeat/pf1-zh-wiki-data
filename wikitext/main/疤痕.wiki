@@ -1,0 +1,11 @@
+{{Trait
+|name=疤痕
+|english_name=Scarred
+|type=缺陷
+|pfs=否
+|description=Antihero's Handbook
+你因受伤落下了显眼且狰狞的疤痕，使你更难以隐藏你的真正容貌，还令大部分人仅仅因为你的外表就不信任你。
+|benefit=你在[[易容]]检定承受-5罚值，[[唬骗]]检定承受-2罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Elements pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=夜市逃奴
+|english_name=Nightstalls Escapee
+|type=地区
+|prerequisites=卡塔佩什［火元素裔］
+|description=卡塔佩什的奴隶贩子一心要把你当作活财产卖掉，但你另有打算。你不知道那些奴隶贩子是否仍在追捕你，但你对该信任谁十分谨慎，睡觉时也总是睁着一只眼。你只需睡4小时就能获得一整夜的休息（每角色等级恢复1点生命值）。睡得更久不会为你带来额外好处，并且你仍须休息24小时才能获得完全卧床休养的效果。
+|source_name=元素血脉
+|source=BotE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Nightstalls%20Escapee
+}}

@@ -1,0 +1,13 @@
+{{装备
+|name=忠诚血清
+|english_name=Loyalty transfusion
+|cat=炼金药剂
+|price=625 gp
+|weight=—
+|craft_dc=30
+|description=这种血清能把人造人的忠诚从一个主人转移到另一个主人身上。要想起效，人造人当前的主人和未来的主人必须各自往血清里滴入一滴自己的血。当合适的人造人喝下这份混合物后，此后它就会把那位未来的主人当作自己的主人。所有权的变更还会使人造人的阵营变得与其新主人一致。
+|recipe=（200 水银＋150 雄黄＋200 酒精）／蒸馏；制作 DC 30
+|recipe_time=1天
+|recipe_tools=蒸馏器
+|source=炼金术手册
+}}

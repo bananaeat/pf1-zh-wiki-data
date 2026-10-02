@@ -1,0 +1,10 @@
+{{Trait
+|name=百战兵
+|english_name=Warrior of Old
+|type=种族
+|prerequisites=[[精灵]]
+|description=你从小就花费大量时间进行格斗训练。尽管岁月让那些训练成为了模糊的记忆，你依然从中学会如何快速应对麻烦。你的[[先攻]]检定获得+2背景加值。
+|source_name=种族背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

@@ -1,0 +1,15 @@
+{{Spell
+|name=高等秘密交谈
+|english_name=Shield Speech, Greater
+|school=防护系
+|levels=先知 4;奥能师 4;德鲁伊 4;战斗祭司 4;术士 4;法师 4;牧师 4;猎人 4
+|action=标准动作
+|components=语言;姿势
+|range=30尺
+|area=以你为圆心，30尺弥漫
+|duration=10分钟/等级
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=此法术如同秘密交谈般作用，除了所有处于这半圆形穹顶内的生物都可以彼此交谈，就好像被秘密交谈所连接一般。如果他们与该区域以外的任何人交谈，该区域以外的人会正常听到他们的声音。
+|source=塔尔多，荣光余荡之地
+}}

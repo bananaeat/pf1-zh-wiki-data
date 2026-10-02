@@ -1,0 +1,8 @@
+{{狂暴之力
+|name=勇气之水
+|english_name=Liquid Courage
+|type=Ex
+|categories=防御
+|benefit=狂暴时，每份酒精为野蛮人带来对〔影响心灵〕效果的豁免+1士气加值，最大值为每4野蛮人等级1点。
+|source_name=进阶玩家指南
+}}

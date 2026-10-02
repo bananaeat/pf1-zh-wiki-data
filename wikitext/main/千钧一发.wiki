@@ -1,0 +1,10 @@
+{{Feat
+|name=千钧一发
+|english_name=Close Call
+|description=你灵巧的手指可以防止小错误变成大灾难。
+|prerequisites=[[妙手]]
+|benefit=每日一次，你可重骰[[巧手]]或是[[解除装置]]检定，你必须在第一次尝试之后、DM宣布结果之前决定使用此能力，而且必须接受重骰的结果，即便那会更糟。
+|source=DH
+|source_name=冒险家手册
+|source_url=https://pf1chm.pages.dev/topics/page_529.html
+}}

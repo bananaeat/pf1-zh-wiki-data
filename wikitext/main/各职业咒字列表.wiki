@@ -1,0 +1,923 @@
+{{#addbodyclass:pf-rules}}{{速查导航|here=规则}}{{极限魔法规则导航|here=各职业咒字列表}}
+各职业的列表中标注有 (*) 为被低等级[[咒字]]的增强版本。咒字施法者需要学习咒字的基础版本，才能够施放被增强版本。
+
+== 炼金术师咒字列表 ==
+
+{| class="wikitable sortable"
+|-
+! 炼金术师 !! 1环 !!  !! 
+|-
+| 冲刺 (时间) || Dash || 强化 (身体) || Fortify
+|-
+| 解读 (语言) || Decipher || 滑翔 (飞行) || Glide
+|-
+| 渐隐 (隐匿) || Fade || 次等治疗 (治疗) || Lesser Cure
+|-
+| 力场护盾 (护甲) || Force Shield ||  || 
+|-
+| 2环 ||  ||  || 
+|-
+| 加速 (时间) || Accelerate || 漂浮 (飞行) || Float
+|-
+| 解读* (语言) || Decipher* || 中等治疗 (治疗) || Moderate Cure
+|-
+| 消失 (隐匿) || Disappear || 感知隐秘 (侦测) || Sense Hidden
+|-
+| 能量抗力 (身体) || Energy Resistance || 感知思维 (侦测) || Sense Thoughts
+|-
+| 增强形态 (身体) || Enhance Form ||  || 
+|-
+| 3环 ||  ||  || 
+|-
+| 变化形态 (改变) || Altered Form || 飞腾 (飞行) || Soar
+|-
+| 高等治疗 (治疗) || Greater Cure || 翻译 (语言) || Translate
+|-
+| 4环 ||  ||  || 
+|-
+| 变化形态* (改变) || Altered Form* || 源初治疗 (治疗) || Elder Cure
+|-
+| 野兽形态 (改变) || Bestial Form || 完美形态 (身体) || Perfect Form
+|-
+| 预支未来 (时间) || Borrow Future || 净化 (生命) || Purify
+|-
+| 消失* (隐匿) || Disappear* ||  || 
+|-
+| 5环 ||  ||  || 
+|-
+| 野兽形态* (改变) || Bestial Form* || 抵抗法术 (解除) || Resist Arcana
+|-
+| 怪物形态 (改变) || Monstrous Form ||  || 
+|-
+| 6环 ||  ||  || 
+|-
+| 元素免疫 (身体) || Energy Immunity || 感知隐秘* (侦测) || Sense Hidden*
+|-
+| 怪物形态* (改变) || Monstrous Form* ||  || 
+|}
+
+== 吟游诗人咒字列表 ==
+
+{| class="wikitable sortable"
+|-
+! 吟游诗人 !! 0环 !!  !! 
+|-
+| 信标 (探知) || Beacon || 回音 (幻觉) || Echo
+|-
+| 痉挛 (痛苦) || Cramp || 提 (引力) || Lift
+|-
+| 解读 (语言) || Decipher || 感知魔法 (侦测) || Sense Magic
+|-
+| 1环 ||  ||  || 
+|-
+| 冲刺 (时间) || Dash || 辐光 (光耀) || Radiance
+|-
+| 解读* (语言) || Decipher* || 仆从 I (召唤) || Servitor I
+|-
+| 渐隐 (隐匿) || Fade || 简单指令 (命令) || Simple Order
+|-
+| 友谊 (命令) || Friendship || 恐吓 (恐惧) || Spook
+|-
+| 滑翔 (飞行) || Glide || 折磨 (痛苦) || Wrack
+|-
+| 次等治疗 (治疗) || Lesser Cure ||  || 
+|-
+| 2环 ||  ||  || 
+|-
+| 加速 (时间) || Accelerate || 中等治疗 (治疗) || Moderate Cure
+|-
+| 减速 (时间) || Decelerate || 麻痹人类 (束缚) || Paralyze Humanoid
+|-
+| 消失 (隐匿) || Disappear || 感知隐秘 (侦测) || Sense Hidden
+|-
+| 噪音 (音波) || Discordant Note || 感知思维 (侦测) || Sense Thoughts
+|-
+| 增强形态 (身体) || Enhance Form || 仆从 II (召唤) || Servitor II
+|-
+| 漂浮 (飞行) || Float || 压制 (解除) || Suppress
+|-
+| 朦胧 (幻觉) || Glimmering || 翻译 (语言) || Translate
+|-
+| 幽暗 (光耀) || Gloom ||  || 
+|-
+| 3环 ||  ||  || 
+|-
+| 复杂命令 (命令) || Complex Order || 仆从 III (召唤) || Servitor III
+|-
+| 伤害 (毁灭) || Damage || 阳光 (光耀) || Sunshine
+|-
+| 次元纵 (传送) || Dimensional Hop || 压制* (解除) || Suppress*
+|-
+| 远视 (探知) || Far Sight || 惊恐 (恐惧) || Terror
+|-
+| 高等治疗 (治疗) || Greater Cure || 剧痛 (痛苦) || Torture
+|-
+| 4环 ||  ||  || 
+|-
+| 预支未来 (时间) || Borrow Future || 净化 (生命) || Purify
+|-
+| 击溃意志 (命令) || Crush Will || 仆从 IV (召唤) || Servitor IV
+|-
+| 消失* (隐匿) || Disappear* || 简单指令* (命令) || Simple Order*
+|-
+| 源初治疗 (治疗) || Elder Cure || 音爆 (音波) || Sound Blast
+|-
+| 麻痹生物 (束缚) || Paralyze Creature || 隐形外壳 (隐匿) || Unseen Shell
+|-
+| 完美形态 (身体) || Perfect Form ||  || 
+|-
+| 5环 ||  ||  || 
+|-
+| 传讯 (语言) || Far Casting || 仆从 V (召唤) || Servitor V
+|-
+| 远视* (探知) || Far Sight* || 倒回 (解除) || Unmake
+|-
+| 6环 ||  ||  || 
+|-
+| 毁灭共振 (音波) || Destructive Vibration || 感知隐秘* (侦测) || Sense Hidden*
+|-
+| 传讯* (语言) || Far Casting* || 仆从 VI (召唤) || Servitor VI
+|-
+| 定位 (探知) || Locate || 隐形外壳* (隐匿) || Unseen Shell*
+|}
+
+== 牧师/先知咒字列表 ==
+
+{| class="wikitable sortable"
+|-
+! 牧师 先知 !! 0环 !!  !! 
+|-
+| 溢血 (创伤) || Bleeding Wounds || 力场障碍 (护甲) || Force Block
+|-
+| 痉挛 (痛苦) || Cramp || 感知魔法 (侦测) || Sense Magic
+|-
+| 解读 (语言) || Decipher || 安抚 (治疗) || Soothing Touch
+|-
+| 1环 ||  ||  || 
+|-
+| 阵营护盾 (阵营) || Alignment Shield || 辐光 (光耀) || Radiance
+|-
+| 解读* (语言) || Decipher* || 感知阵营 (侦测) || Sense Alignment
+|-
+| 雾障 (气象) || Fog Bank || 仆从 I (召唤) || Servitor I
+|-
+| 力场障碍* (护甲) || Force Block* || 简单指令 (命令) || Simple Order
+|-
+| 强化 (身体) || Fortify || 安抚* (治疗) || Soothing Touch*
+|-
+| 次等治疗 (治疗) || Lesser Cure || 恐吓 (恐惧) || Spook
+|-
+| 次等创伤 (创伤) || Lesser Wound || 折磨 (痛苦) || Wrack
+|-
+| 2环 ||  ||  || 
+|-
+| 噪音 (音波) || Discordant Note || 预知 (时间) || Predict
+|-
+| 能量抗力 (身体) || Energy Resistance || 感知阵营* (侦测) || Sense Alignment*
+|-
+| 增强形态 (身体) || Enhance Form || 感知隐秘 (侦测) || Sense Hidden
+|-
+| 幽暗 (光耀) || Gloom || 仆从 II (召唤) || Servitor II
+|-
+| 中等治疗 (治疗) || Moderate Cure || 压制 (解除) || Suppress
+|-
+| 中等创伤 (创伤) || Moderate Wound || 不死 (死亡) || Undeath
+|-
+| 麻痹人类 (束缚) || Paralyze Humanoid ||  || 
+|-
+| 3环 ||  ||  || 
+|-
+| 伤害 (毁灭) || Damage || 感知阵营* (侦测) || Sense Alignment*
+|-
+| 远视 (探知) || Far Sight || 仆从 III (召唤) || Servitor III
+|-
+| 力场盔甲 (护甲) || Force Armor || 阳光 (光耀) || Sunshine
+|-
+| 高等治疗 (治疗) || Greater Cure || 压制* (解除) || Suppress*
+|-
+| 高等创伤 (创伤) || Greater Wound || 风墙 (墙壁) || Wind Wall
+|-
+| 4环 ||  ||  || 
+|-
+| 源初治疗 (治疗) || Elder Cure || 仆从 IV (召唤) || Servitor IV
+|-
+| 源初创伤 (创伤) || Elder Wound || 简单指令* (命令) || Simple Order*
+|-
+| 破亡 (死亡) || Grave Bane || 飞腾 (飞行) || Soar
+|-
+| 完美形态 (身体) || Perfect Form || 翻译 (语言) || Translate
+|-
+| 净化 (生命) || Purify ||  || 
+|-
+| 5环 ||  ||  || 
+|-
+| 阵营打击 (阵营) || Alignment Assault || 抵抗法术 (解除) || Resist Arcana
+|-
+| 熔渣风暴 (火焰) || Cinder Storm || 复苏 (生命) || Revive
+|-
+| 次元传送 (传送) || Dimensional Shift || 仆从 V (召唤) || Servitor V
+|-
+| 传讯 (语言) || Far Casting || 石墙 (墙壁) || Stone Wall
+|-
+| 远视* (探知) || Far Sight* || 倒回 (解除) || Unmake
+|-
+| 6环 ||  ||  || 
+|-
+| 刃墙 (墙壁) || Blade Wall || 感知隐秘* (侦测) || Sense Hidden*
+|-
+| 元素免疫 (身体) || Energy Immunity || 仆从 VI (召唤) || Servitor VI
+|-
+| 传讯* (语言) || Far Casting* || 杀生 (死亡) || Slay
+|-
+| 定位 (探知) || Locate ||  || 
+|-
+| 7环 ||  ||  || 
+|-
+| 仆从 VII (召唤) || Servitor VII || 掌控风暴 (气象) || Storm Master
+|-
+| 8环 ||  ||  || 
+|-
+| 阵营光环 (阵营) || Alignment Aura || 否决 (解除) || Negation
+|-
+| 次元门 (传送) || Dimensional Gate || 地动 (毁灭) || Rumble
+|-
+| 生命之触 (生命) || Life Touch || 仆从 VIII (召唤) || Servitor VIII
+|-
+| 9环 ||  ||  || 
+|-
+| 灾变 (毁灭) || Catastrophe || 仆从 IX (召唤) || Servitor IX
+|-
+| 击退 (引力) || Repulse ||  || 
+|}
+
+== 德鲁伊咒字列表 ==
+
+{| class="wikitable sortable"
+|-
+! 德鲁伊 !! 0环 !!  !! 
+|-
+| 酸性燃烧 (酸蚀) || Acid Burn || 火焰喷射 (火焰) || Flame Jet
+|-
+| 信标 (探知) || Beacon || 感知魔法 (侦测) || Sense Magic
+|-
+| 骤霜 (寒冷) || Cold Snap || 安抚 (治疗) || Soothing Touch
+|-
+| 解读 (语言) || Decipher || 电花 (电击) || Spark
+|-
+| 1环 ||  ||  || 
+|-
+| 解读* (语言) || Decipher* || 自然抚慰 (动物) || Nature's Calm
+|-
+| 快捷 (时间) || Fleet || 辐光 (光耀) || Radiance
+|-
+| 雾障 (气象) || Fog Bank || 仆从 I (召唤) || Servitor I
+|-
+| 次等治疗 (治疗) || Lesser Cure || 安抚* (治疗) || Soothing Touch*
+|-
+| 2环 ||  ||  || 
+|-
+| 燃闪 (火焰) || Burning Flash || 仆从 II (召唤) || Servitor II
+|-
+| 能量抗力 (身体) || Energy Resistance || 压制 (解除) || Suppress
+|-
+| 增强形态 (身体) || Enhance Form || 野性引诱 (动物) || Wild Lure
+|-
+| 急冰指 (寒冷) || Frost Fingers || 突风 (气象) || Wind Blast
+|-
+| 3环 ||  ||  || 
+|-
+| 变化形态 (改变) || Altered Form || 中等治疗 (治疗) || Moderate Cure
+|-
+| 暴雪 (气象) || Blizzard || 仆从 III (召唤) || Servitor III
+|-
+| 燃闪* (火焰) || Burning Flash* || 阳光 (光耀) || Sunshine
+|-
+| 远视 (探知) || Far Sight || 压制* (解除) || Suppress*
+|-
+| 电爆 (电击) || Lightning Blast || 风墙 (墙壁) || Wind Wall
+|-
+| 4环 ||  ||  || 
+|-
+| 变化形态* (改变) || Altered Form* || 冰墙 (墙壁) || Ice Wall
+|-
+| 野兽形态 (改变) || Bestial Form || 自然命令 (动物) || Nature's Command
+|-
+| 暴雪* (气象) || Blizzard* || 麻痹生物 (束缚) || Paralyze Creature
+|-
+| 火墙 (墙壁) || Fire Wall || 完美形态 (身体) || Perfect Form
+|-
+| 高等治疗 (治疗) || Greater Cure || 净化 (生命) || Purify
+|-
+| 寒冰爆发 (寒冷) || Ice Blast || 仆从 IV (召唤) || Servitor IV
+|-
+| 5环 ||  ||  || 
+|-
+| 球形闪电 (电击) || Ball Lightning || 破亡 (死亡) || Grave Bane
+|-
+| 野兽形态* (改变) || Bestial Form* || 怪物形态 (改变) || Monstrous Form
+|-
+| 熔渣风暴 (火焰) || Cinder Storm || 复苏 (生命) || Revive
+|-
+| 源初治疗 (治疗) || Elder Cure || 仆从 V (召唤) || Servitor V
+|-
+| 远视* (探知) || Far Sight* || 倒回 (解除) || Unmake
+|-
+| 6环 ||  ||  || 
+|-
+| 元素免疫 (身体) || Energy Immunity || 仆从 VI (召唤) || Servitor VI
+|-
+| 定位 (探知) || Locate || 石墙 (墙壁) || Stone Wall
+|-
+| 怪物形态* (改变) || Monstrous Form* ||  || 
+|-
+| 7环 ||  ||  || 
+|-
+| 仆从 VII (召唤) || Servitor VII || 掌控风暴 (气象) || Storm Master
+|-
+| 杀生 (死亡) || Slay || 解缚 (引力) || Unfetter
+|-
+| 8环 ||  ||  || 
+|-
+| 炼狱火 (火焰) || Inferno || 闪雷轰 (电击) || Thunder Strike
+|-
+| 地动 (毁灭) || Rumble || 冬怒 (寒冷) || Winter's Wrath
+|-
+| 仆从 VIII (召唤) || Servitor VIII ||  || 
+|-
+| 9环 ||  ||  || 
+|-
+| 灾变 (毁灭) || Catastrophe || 仆从 IX (召唤) || Servitor IX
+|-
+| 击退 (引力) || Repulse || 三味真火 (火焰) || True Fire
+|}
+
+== 审判者咒字列表 ==
+
+{| class="wikitable sortable"
+|-
+! 审判者 !! 0环 !!  !! 
+|-
+| 酸性燃烧 (酸蚀) || Acid Burn || 解读 (语言) || Decipher
+|-
+| 溢血 (创伤) || Bleeding Wounds || 感知魔法 (侦测) || Sense Magic
+|-
+| 痉挛 (痛苦) || Cramp || 安抚 (治疗) || Soothing Touch
+|-
+| 1环 ||  ||  || 
+|-
+| 阵营护盾 (阵营) || Alignment Shield || 辐光 (光耀) || Radiance
+|-
+| 冲刺 (时间) || Dash || 感知阵营 (侦测) || Sense Alignment
+|-
+| 解读* (语言) || Decipher* || 简单指令 (命令) || Simple Order
+|-
+| 渐隐 (隐匿) || Fade || 安抚* (治疗) || Soothing Touch*
+|-
+| 强化 (身体) || Fortify || 恐吓 (恐惧) || Spook
+|-
+| 次等治疗 (治疗) || Lesser Cure || 折磨 (痛苦) || Wrack
+|-
+| 次等创伤 (创伤) || Lesser Wound ||  || 
+|-
+| 2环 ||  ||  || 
+|-
+| 燃闪 (火焰) || Burning Flash || 麻痹人类 (束缚) || Paralyze Humanoid
+|-
+| 消失 (隐匿) || Disappear || 感知阵营* (侦测) || Sense Alignment*
+|-
+| 能量抗力 (身体) || Energy Resistance || 感知隐秘 (侦测) || Sense Hidden
+|-
+| 中等治疗 (治疗) || Moderate Cure || 感知思维 (侦测) || Sense Thoughts
+|-
+| 中等创伤 (创伤) || Moderate Wound || 压制 (解除) || Suppress
+|-
+| 3环 ||  ||  || 
+|-
+| 燃闪* (火焰) || Burning Flash* || 感知阵营* (侦测) || Sense Alignment*
+|-
+| 高等治疗 (治疗) || Greater Cure || 压制* (解除) || Suppress*
+|-
+| 高等创伤 (创伤) || Greater Wound || 剧痛 (痛苦) || Torture
+|-
+| 4环 ||  ||  || 
+|-
+| 消失* (隐匿) || Disappear* || 净化 (生命) || Purify
+|-
+| 源初治疗 (治疗) || Elder Cure || 简单指令* (命令) || Simple Order*
+|-
+| 源初创伤 (创伤) || Elder Wound || 惊恐 (恐惧) || Terror
+|-
+| 麻痹生物 (束缚) || Paralyze Creature ||  || 
+|-
+| 5环 ||  ||  || 
+|-
+| 阵营打击 (阵营) || Alignment Assault || 破亡 (死亡) || Grave Bane
+|-
+| 熔渣风暴 (火焰) || Cinder Storm || 抵抗法术 (解除) || Resist Arcana
+|-
+| 6环 ||  ||  || 
+|-
+| 元素免疫 (身体) || Energy Immunity || 感知隐秘* (侦测) || Sense Hidden*
+|-
+| 定位 (探知) || Locate || 倒回 (解除) || Unmake
+|}
+
+== 魔战士咒字列表 ==
+
+{| class="wikitable sortable"
+|-
+! 魔战士 !! 0环 !!  !! 
+|-
+| 酸性燃烧 (酸蚀) || Acid Burn || 力场障碍 (护甲) || Force Block
+|-
+| 骤霜 (寒冷) || Cold Snap || 提 (引力) || Lift
+|-
+| 解读 (语言) || Decipher || 感知魔法 (侦测) || Sense Magic
+|-
+| 火焰喷射 (火焰) || Flame Jet || 电花 (电击) || Spark
+|-
+| 1环 ||  ||  || 
+|-
+| 燃闪 (火焰) || Burning Flash || 力场护盾 (护甲) || Force Shield
+|-
+| 冲刺 (时间) || Dash || 滑翔 (飞行) || Glide
+|-
+| 解读* (语言) || Decipher* || 辐光 (光耀) || Radiance
+|-
+| 渐隐 (隐匿) || Fade || 电弧 (电击) || Shock Arc
+|-
+| 力场障碍* (护甲) || Force Block* ||  || 
+|-
+| 2环 ||  ||  || 
+|-
+| 加速 (时间) || Accelerate || 增强形态 (身体) || Enhance Form
+|-
+| 燃闪* (火焰) || Burning Flash* || 漂浮 (飞行) || Float
+|-
+| 酸蚀箭 (酸蚀) || Corrosive Bolt || 力场矢 (力场) || Force Bolt
+|-
+| 减速 (时间) || Decelerate || 急冰指 (寒冷) || Frost Fingers
+|-
+| 消失 (隐匿) || Disappear || 幽暗 (光耀) || Gloom
+|-
+| 噪音 (音波) || Discordant Note || 压制 (解除) || Suppress
+|-
+| 3环 ||  ||  || 
+|-
+| 变化形态 (改变) || Altered Form || 电爆 (电击) || Lightning Blast
+|-
+| 暴雪 (气象) || Blizzard || 飞腾 (飞行) || Soar
+|-
+| 次元纵 (传送) || Dimensional Hop || 压制* (解除) || Suppress*
+|-
+| 火焰冲击 (火焰) || Fire Blast || 风墙 (墙壁) || Wind Wall
+|-
+| 力场盔甲 (护甲) || Force Armor ||  || 
+|-
+| 4环 ||  ||  || 
+|-
+| 酸液冲击 (酸蚀) || Acid Wave || 火墙 (墙壁) || Fire Wall
+|-
+| 变化形态* (改变) || Altered Form* || 寒冰爆发 (寒冷) || Ice Blast
+|-
+| 野兽形态 (改变) || Bestial Form || 冰墙 (墙壁) || Ice Wall
+|-
+| 暴雪* (气象) || Blizzard* || 汲取生命 (死亡) || Life Leech
+|-
+| 预支未来 (时间) || Borrow Future || 完美形态 (身体) || Perfect Form
+|-
+| 消失* (隐匿) || Disappear* || 音爆 (音波) || Sound Blast
+|-
+| 5环 ||  ||  || 
+|-
+| 球形闪电 (电击) || Ball Lightning || 力场爆发 (力场) || Force Blast
+|-
+| 野兽形态* (改变) || Bestial Form* || 怪物形态 (改变) || Monstrous Form
+|-
+| 熔渣风暴 (火焰) || Cinder Storm || 石墙 (墙壁) || Stone Wall
+|-
+| 次元跃 (传送) || Dimensional Jump ||  || 
+|-
+| 6环 ||  ||  || 
+|-
+| 力场结界 (护甲) || Force Ward || 倒回 (解除) || Unmake
+|-
+| 怪物形态* (改变) || Monstrous Form* ||  || 
+|}
+
+== 圣武士咒字列表 ==
+
+{| class="wikitable sortable"
+|-
+! 圣武士 !! 1环 !!  !! 
+|-
+| 阵营护盾 (阵营) || Alignment Shield || 次等治疗 (治疗) || Lesser Cure
+|-
+| 解读 (语言) || Decipher || 感知阵营 (侦测) || Sense Alignment
+|-
+| 强化 (身体) || Fortify || 安抚 (治疗) || Soothing Touch
+|-
+| 2环 ||  ||  || 
+|-
+| 解读* (语言) || Decipher* || 感知阵营* (侦测) || Sense Alignment*
+|-
+| 能量抗力 (身体) || Energy Resistance || 安抚* (治疗) || Soothing Touch*
+|-
+| 增强形态 (身体) || Enhance Form || 压制 (解除) || Suppress
+|-
+| 3环 ||  ||  || 
+|-
+| 中等治疗 (治疗) || Moderate Cure || 阳光 (光耀) || Sunshine
+|-
+| 感知阵营* (侦测) || Sense Alignment* || 压制* (解除) || Suppress*
+|-
+| 4环 ||  ||  || 
+|-
+| 阵营打击 (阵营) || Alignment Assault || 高等治疗 (治疗) || Greater Cure
+|-
+| 破亡 (死亡) || Grave Bane || 净化 (生命) || Purify
+|}
+
+== 游侠咒字列表 ==
+
+{| class="wikitable sortable"
+|-
+! 游侠 !! 1环 !!  !! 
+|-
+| 信标 (探知) || Beacon || 强化 (身体) || Fortify
+|-
+| 解读 (语言) || Decipher || 自然抚慰 (动物) || Nature's Calm
+|-
+| 能量抗力 (身体) || Energy Resistance || 仆从 I (召唤) || Servitor I
+|-
+| 快捷 (时间) || Fleet ||  || 
+|-
+| 2环 ||  ||  || 
+|-
+| 解读* (语言) || Decipher* || 仆从 II (召唤) || Servitor II
+|-
+| 增强形态 (身体) || Enhance Form || 野性引诱 (动物) || Wild Lure
+|-
+| 次等治疗 (治疗) || Lesser Cure ||  || 
+|-
+| 3环 ||  ||  || 
+|-
+| 中等治疗 (治疗) || Moderate Cure || 风墙 (墙壁) || Wind Wall
+|-
+| 仆从 III (召唤) || Servitor III ||  || 
+|-
+| 4环 ||  ||  || 
+|-
+| 高等治疗 (治疗) || Greater Cure || 净化 (生命) || Purify
+|-
+| 自然命令 (动物) || Nature's Command || 仆从 IV (召唤) || Servitor IV
+|}
+
+== 术士/法师咒字列表 ==
+
+{| class="wikitable sortable"
+|-
+! 术士 法师 !! 0环 !!  !! 
+|-
+| 酸性燃烧 (酸蚀) || Acid Burn || 火焰喷射 (火焰) || Flame Jet
+|-
+| 溢血 (创伤) || Bleeding Wounds || 力场障碍 (护甲) || Force Block
+|-
+| 骤霜 (寒冷) || Cold Snap || 提 (引力) || Lift
+|-
+| 痉挛 (痛苦) || Cramp || 感知魔法 (侦测) || Sense Magic
+|-
+| 解读 (语言) || Decipher || 电花 (电击) || Spark
+|-
+| 回音 (幻觉) || Echo ||  || 
+|-
+| 1环 ||  ||  || 
+|-
+| 阵营护盾 (阵营) || Alignment Shield || 友谊 (命令) || Friendship
+|-
+| 燃闪 (火焰) || Burning Flash || 滑翔 (飞行) || Glide
+|-
+| 冲刺 (时间) || Dash || 锁闭结界 (束缚) || Lock Ward
+|-
+| 解读* (语言) || Decipher* || 辐光 (光耀) || Radiance
+|-
+| 渐隐 (隐匿) || Fade || 仆从 I (召唤) || Servitor I
+|-
+| 雾障 (气象) || Fog Bank || 电弧 (电击) || Shock Arc
+|-
+| 力场障碍* (护甲) || Force Block* || 简单指令 (命令) || Simple Order
+|-
+| 力场护盾 (护甲) || Force Shield || 恐吓 (恐惧) || Spook
+|-
+| 强化 (身体) || Fortify || 折磨 (痛苦) || Wrack
+|-
+| 2环 ||  ||  || 
+|-
+| 加速 (时间) || Accelerate || 漂浮 (飞行) || Float
+|-
+| 燃闪* (火焰) || Burning Flash* || 力场矢 (力场) || Force Bolt
+|-
+| 酸蚀箭 (酸蚀) || Corrosive Bolt || 急冰指 (寒冷) || Frost Fingers
+|-
+| 伤害 (毁灭) || Damage || 幽暗 (光耀) || Gloom
+|-
+| 减速 (时间) || Decelerate || 感知隐秘 (侦测) || Sense Hidden
+|-
+| 消失 (隐匿) || Disappear || 感知思维 (侦测) || Sense Thoughts
+|-
+| 能量抗力 (身体) || Energy Resistance || 仆从 II (召唤) || Servitor II
+|-
+| 增强形态 (身体) || Enhance Form || 压制 (解除) || Suppress
+|-
+| 3环 ||  ||  || 
+|-
+| 变化形态 (改变) || Altered Form || 仆从 III (召唤) || Servitor III
+|-
+| 暴雪 (气象) || Blizzard || 飞腾 (飞行) || Soar
+|-
+| 复杂命令 (命令) || Complex Order || 阳光 (光耀) || Sunshine
+|-
+| 次元纵 (传送) || Dimensional Hop || 压制* (解除) || Suppress*
+|-
+| 远视 (探知) || Far Sight || 剧痛 (痛苦) || Torture
+|-
+| 火焰冲击 (火焰) || Fire Blast || 翻译 (语言) || Translate
+|-
+| 力场盔甲 (护甲) || Force Armor || 不死 (死亡) || Undeath
+|-
+| 朦胧 (幻觉) || Glimmering || 突风 (气象) || Wind Blast
+|-
+| 电爆 (电击) || Lightning Blast || 风墙 (墙壁) || Wind Wall
+|-
+| 麻痹人类 (束缚) || Paralyze Humanoid ||  || 
+|-
+| 4环 ||  ||  || 
+|-
+| 酸液冲击 (酸蚀) || Acid Wave || 冰墙 (墙壁) || Ice Wall
+|-
+| 变化形态* (改变) || Altered Form* || 汲取生命 (死亡) || Life Leech
+|-
+| 野兽形态 (改变) || Bestial Form || 完美形态 (身体) || Perfect Form
+|-
+| 暴雪* (气象) || Blizzard* || 仆从 IV (召唤) || Servitor IV
+|-
+| 预支未来 (时间) || Borrow Future || 简单指令* (命令) || Simple Order*
+|-
+| 消失* (隐匿) || Disappear* || 音爆 (音波) || Sound Blast
+|-
+| 火墙 (墙壁) || Fire Wall || 惊恐 (恐惧) || Terror
+|-
+| 寒冰爆发 (寒冷) || Ice Blast || 隐形外壳 (隐匿) || Unseen Shell
+|-
+| 5环 ||  ||  || 
+|-
+| 球形闪电 (电击) || Ball Lightning || 力场爆发 (力场) || Force Blast
+|-
+| 野兽形态* (改变) || Bestial Form* || 怪物形态 (改变) || Monstrous Form
+|-
+| 熔渣风暴 (火焰) || Cinder Storm || 麻痹生物 (束缚) || Paralyze Creature
+|-
+| 击溃意志 (命令) || Crush Will || 仆从 V (召唤) || Servitor V
+|-
+| 次元跃 (传送) || Dimensional Jump || 石墙 (墙壁) || Stone Wall
+|-
+| 传讯 (语言) || Far Casting || 倒回 (解除) || Unmake
+|-
+| 远视* (探知) || Far Sight* ||  || 
+|-
+| 6环 ||  ||  || 
+|-
+| 元素免疫 (身体) || Energy Immunity || 感知隐秘* (侦测) || Sense Hidden*
+|-
+| 传讯* (语言) || Far Casting* || 仆从 VI (召唤) || Servitor VI
+|-
+| 力场结界 (护甲) || Force Ward || 杀生 (死亡) || Slay
+|-
+| 怪物形态* (改变) || Monstrous Form* || 解缚 (引力) || Unfetter
+|-
+| 否决 (解除) || Negation || 隐形外壳* (隐匿) || Unseen Shell*
+|-
+| 抵抗法术 (解除) || Resist Arcana ||  || 
+|-
+| 7环 ||  ||  || 
+|-
+| 盲 (真言) || Blind || 噩梦 (恐惧) || Horror
+|-
+| 腐蚀云雾 (酸蚀) || Caustic Cloud || 仆从 VII (召唤) || Servitor VII
+|-
+| 毁灭共振 (音波) || Destructive Vibration || 掌控风暴 (气象) || Storm Master
+|-
+| 次元传送 (传送) || Dimensional Shift ||  || 
+|-
+| 8环 ||  ||  || 
+|-
+| 炼狱火 (火焰) || Inferno || 震 (真言) || Stun
+|-
+| 永久麻痹 (束缚) || Permanent Paralysis || 闪雷轰 (电击) || Thunder Strike
+|-
+| 击退 (引力) || Repulse || 冬怒 (寒冷) || Winter's Wrath
+|-
+| 仆从 VIII (召唤) || Servitor VIII ||  || 
+|-
+| 9环 ||  ||  || 
+|-
+| 操控时间 (时间) || Control Time || 汲取生命* (死亡) || Life Leech*
+|-
+| 次元门 (传送) || Dimensional Gate || 仆从 IX (召唤) || Servitor IX
+|-
+| 死 (真言) || Kill || 三味真火 (火焰) || True Fire
+|}
+
+== 召唤师咒字列表 ==
+
+{| class="wikitable sortable"
+|-
+! 召唤师 !! 0环 !!  !! 
+|-
+| 酸性燃烧 (酸蚀) || Acid Burn || 提 (引力) || Lift
+|-
+| 解读 (语言) || Decipher || 感知魔法 (侦测) || Sense Magic
+|-
+| 力场障碍 (护甲) || Force Block ||  || 
+|-
+| 1环 ||  ||  || 
+|-
+| 冲刺 (时间) || Dash || 力场护盾 (护甲) || Force Shield
+|-
+| 解读* (语言) || Decipher* || 强化 (身体) || Fortify
+|-
+| 渐隐 (隐匿) || Fade || 滑翔 (飞行) || Glide
+|-
+| 力场障碍* (护甲) || Force Block* || 仆从 I (召唤) || Servitor I
+|-
+| 2环 ||  ||  || 
+|-
+| 加速 (时间) || Accelerate || 漂浮 (飞行) || Float
+|-
+| 减速 (时间) || Decelerate || 感知隐秘 (侦测) || Sense Hidden
+|-
+| 消失 (隐匿) || Disappear || 感知思维 (侦测) || Sense Thoughts
+|-
+| 能量抗力 (身体) || Energy Resistance || 仆从 II (召唤) || Servitor II
+|-
+| 增强形态 (身体) || Enhance Form || 压制 (解除) || Suppress
+|-
+| 3环 ||  ||  || 
+|-
+| 次元纵 (传送) || Dimensional Hop || 压制* (解除) || Suppress*
+|-
+| 仆从 IV (召唤) || Servitor IV || 风墙 (墙壁) || Wind Wall
+|-
+| 飞腾 (飞行) || Soar ||  || 
+|-
+| 4环 ||  ||  || 
+|-
+| 预支未来 (时间) || Borrow Future || 冰墙 (墙壁) || Ice Wall
+|-
+| 消失* (隐匿) || Disappear* || 完美形态 (身体) || Perfect Form
+|-
+| 火墙 (墙壁) || Fire Wall || 仆从 VI (召唤) || Servitor VI
+|-
+| 5环 ||  ||  || 
+|-
+| 刃墙 (墙壁) || Blade Wall || 麻痹生物 (束缚) || Paralyze Creature
+|-
+| 熔渣风暴 (火焰) || Cinder Storm || 仆从 VII (召唤) || Servitor VII
+|-
+| 次元跃 (传送) || Dimensional Jump || 石墙 (墙壁) || Stone Wall
+|-
+| 自然命令 (动物) || Nature's Command ||  || 
+|-
+| 6环 ||  ||  || 
+|-
+| 元素免疫 (身体) || Energy Immunity || 感知隐秘* (侦测) || Sense Hidden*
+|-
+| 永久麻痹 (束缚) || Permanent Paralysis || 仆从 IX (召唤) || Servitor IX
+|-
+| 击退 (引力) || Repulse || 倒回 (解除) || Unmake
+|-
+| 抵抗法术 (解除) || Resist Arcana ||  || 
+|}
+
+== 女巫咒字列表 ==
+
+{| class="wikitable sortable"
+|-
+! 女巫 !! 0环 !!  !! 
+|-
+| 溢血 (创伤) || Bleeding Wounds || 感知魔法 (侦测) || Sense Magic
+|-
+| 痉挛 (痛苦) || Cramp || 安抚 (治疗) || Soothing Touch
+|-
+| 解读 (语言) || Decipher || 电花 (电击) || Spark
+|-
+| 1环 ||  ||  || 
+|-
+| 燃闪 (火焰) || Burning Flash || 自然抚慰 (动物) || Nature's Calm
+|-
+| 解读* (语言) || Decipher* || 辐光 (光耀) || Radiance
+|-
+| 渐隐 (隐匿) || Fade || 仆从 I (召唤) || Servitor I
+|-
+| 雾障 (气象) || Fog Bank || 电弧 (电击) || Shock Arc
+|-
+| 力场护盾 (护甲) || Force Shield || 简单指令 (命令) || Simple Order
+|-
+| 友谊 (命令) || Friendship || 安抚* (治疗) || Soothing Touch*
+|-
+| 滑翔 (飞行) || Glide || 恐吓 (恐惧) || Spook
+|-
+| 次等治疗 (治疗) || Lesser Cure || 折磨 (痛苦) || Wrack
+|-
+| 次等创伤 (创伤) || Lesser Wound ||  || 
+|-
+| 2环 ||  ||  || 
+|-
+| 燃闪* (火焰) || Burning Flash* || 预知 (时间) || Predict
+|-
+| 消失 (隐匿) || Disappear || 感知隐秘 (侦测) || Sense Hidden
+|-
+| 漂浮 (飞行) || Float || 感知思维 (侦测) || Sense Thoughts
+|-
+| 幽暗 (光耀) || Gloom || 仆从 II (召唤) || Servitor II
+|-
+| 中等治疗 (治疗) || Moderate Cure || 压制 (解除) || Suppress
+|-
+| 中等创伤 (创伤) || Moderate Wound || 野性引诱 (动物) || Wild Lure
+|-
+| 麻痹人类 (束缚) || Paralyze Humanoid ||  || 
+|-
+| 3环 ||  ||  || 
+|-
+| 变化形态 (改变) || Altered Form || 电爆 (电击) || Lightning Blast
+|-
+| 暴雪 (气象) || Blizzard || 仆从 III (召唤) || Servitor III
+|-
+| 次元纵 (传送) || Dimensional Hop || 飞腾 (飞行) || Soar
+|-
+| 远视 (探知) || Far Sight || 压制* (解除) || Suppress*
+|-
+| 力场盔甲 (护甲) || Force Armor || 剧痛 (痛苦) || Torture
+|-
+| 高等创伤 (创伤) || Greater Wound || 翻译 (语言) || Translate
+|-
+| 4环 ||  ||  || 
+|-
+| 变化形态* (改变) || Altered Form* || 寒冰爆发 (寒冷) || Ice Blast
+|-
+| 暴雪* (气象) || Blizzard* || 自然命令 (动物) || Nature's Command
+|-
+| 复杂命令 (命令) || Complex Order || 仆从 IV (召唤) || Servitor IV
+|-
+| 消失* (隐匿) || Disappear* || 简单指令* (命令) || Simple Order*
+|-
+| 源初创伤 (创伤) || Elder Wound || 惊恐 (恐惧) || Terror
+|-
+| 高等治疗 (治疗) || Greater Cure || 隐形外壳 (隐匿) || Unseen Shell
+|-
+| 5环 ||  ||  || 
+|-
+| 击溃意志 (命令) || Crush Will || 麻痹生物 (束缚) || Paralyze Creature
+|-
+| 次元跃 (传送) || Dimensional Jump || 复苏 (生命) || Revive
+|-
+| 源初治疗 (治疗) || Elder Cure || 仆从 V (召唤) || Servitor V
+|-
+| 传讯 (语言) || Far Casting || 倒回 (解除) || Unmake
+|-
+| 远视* (探知) || Far Sight* ||  || 
+|-
+| 6环 ||  ||  || 
+|-
+| 球形闪电 (电击) || Ball Lightning || 感知隐秘* (侦测) || Sense Hidden*
+|-
+| 腐蚀云雾 (酸蚀) || Caustic Cloud || 仆从 VI (召唤) || Servitor VI
+|-
+| 传讯* (语言) || Far Casting* || 杀生 (死亡) || Slay
+|-
+| 定位 (探知) || Locate || 隐形外壳* (隐匿) || Unseen Shell*
+|-
+| 7环 ||  ||  || 
+|-
+| 次元传送 (传送) || Dimensional Shift || 仆从 VII (召唤) || Servitor VII
+|-
+| 噩梦 (恐惧) || Horror || 掌控风暴 (气象) || Storm Master
+|-
+| 8环 ||  ||  || 
+|-
+| 生命之触 (生命) || Life Touch || 击退 (引力) || Repulse
+|-
+| 永久麻痹 (束缚) || Permanent Paralysis || 仆从 VIII (召唤) || Servitor VIII
+|-
+| 9环 ||  ||  || 
+|-
+| 灾变 (毁灭) || Catastrophe || 闪雷轰 (电击) || Thunder Strike
+|-
+| 仆从 IX (召唤) || Servitor IX ||  || 
+|}
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_598.html 原文]）。全部[[扩展规则]]见 [[扩展规则]]。
+
+{{AoN原文|1596|Class Word Lists}}
+
+[[分类:扩展规则]]

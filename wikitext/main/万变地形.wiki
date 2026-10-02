@@ -1,0 +1,9 @@
+{{Feat
+|name=万变地形
+|english_name=Undermine
+|categories=团队
+|description=你与盟友利用不断变化的地形使敌人失去平衡。
+|benefit=当你以[[战技]]将1个生物移入或移过邻接1名持有此专长的盟友的格子时，你的敌人在他的下回合将所有邻接该友军的格子视为[[困难地形]]。此外，你的敌人位于影响区域时进行的特技检定的DC，每与1个持有此专长的你的盟友邻接便+2。
+|source_name=沙之子民
+|source_url=https://pf1chm.pages.dev/topics/zhfe80e96711.htm
+}}

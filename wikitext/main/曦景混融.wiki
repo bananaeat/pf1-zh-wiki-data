@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|极限荒野|Ultimate Wilderness}}
+'''曦景混融'''（Positive Admixture, Sp）是[[操念使]]的[[原力]]。
+
+元素：木；类别：复合念袭（Sp）；等级：－；超载：2
+
+前置：[[曦破]]，任何其他简易能量念袭
+
+念袭性质：能量；伤害类型：见描述
+
+选择另外一种你所知的简易能量念袭。曦景混融的伤害一半为正能量伤害，另一半为所选念袭类型。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Positive Admixture|2=Positive Admixture}}
+
+[[分类:原力]]

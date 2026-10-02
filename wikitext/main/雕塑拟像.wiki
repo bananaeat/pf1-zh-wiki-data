@@ -1,0 +1,15 @@
+{{Spell
+|name=雕塑拟像
+|english_name=Sculpt simulacrum
+|school=变化系
+|levels=奥能师 2;异能者 2;术士 2;法师 2;红螳螂杀手 2
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的拟像
+|duration=立即
+|save=强韧，通过则无效
+|sr=是
+|description=你对一个拟像做出一些修改，如同一次[[易容术]]，不过你所做出的是物理改变而非幻术。这不会让拟像的能力产生任何变化。
+|source=极限魔法
+}}

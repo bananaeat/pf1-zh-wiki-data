@@ -1,0 +1,15 @@
+{{魔法物品
+|name=闪耀真相提灯
+|english_name=Lantern of the Shining Truth
+|aon=MagicWondrousDisplay.aspx?FinalName=Lantern of the Shining Truth
+|cat=奇物
+|aura=微弱咒法系、塑能系
+|cl=3
+|slot=无
+|price=5,400 gp
+|weight=2磅
+|description=这个轻巧的铁灯笼里嵌着一枚黄水晶，它明亮地闪耀着奥术能量，如同受到永久性的光亮术影响一样。持有者可以用一个命令字压制提灯的光，或使其恢复。此外，每天一次，持有者可以通过说出另一个命令字，用提灯在10尺半径的扩散范围内施展闪光尘。区域内的所有生物都必须通过一次DC 15的意志豁免，否则[[目盲]]3轮。
+|req=[[制造奇物]]、[[闪光尘]]、[[光亮术]]
+|cost=2,700 gp
+|source=商人货单
+}}

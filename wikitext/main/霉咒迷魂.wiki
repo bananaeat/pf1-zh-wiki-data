@@ -1,0 +1,8 @@
+{{Feat
+|name=霉咒迷魂
+|english_name=Fascination Jinx
+|prerequisites=诗人表演职业能力，半身人霉咒
+|benefit=若你霉咒一个处于诗人迷魂能力之下的生物，则在霉咒持续期间，该生物的[[先攻]]检定还遭受-10减值。处于你的迷魂能力下的生物对抗你的霉咒能力时，豁免遭受-2减值。
+|source_name=格拉利昂的半身人
+|source_url=https://pf1chm.pages.dev/topics/page_572.html
+}}

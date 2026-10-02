@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''兽化诅咒'''（Curse of Lycanthropy）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Su</span><span class="sk-f">位置：个体攻击</span></div>
+</noinclude><includeonly><div class="lang"><span id="兽化诅咒"></span><div class="lang-h"><b>[[兽化诅咒]]</b><i>Curse of Lycanthropy</i><span class="lang-w">Su · 个体攻击</span></div><div class="lang-d"></includeonly>
+任何被处于动物或混种形态下的天生兽化人，被其啮咬攻击所击中的类人生物都必须通过 DC 15 的强韧豁免检定，否则就会被传染上兽化症。如果受害者的体型超出或小于兽化人 1 级以上，则不会被该兽化人的兽化症传染。
+
+'''格式'''：兽化诅咒
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Curse of Lycanthropy|2=Curse of Lycanthropy}}
+
+[[分类:通用怪物规则]]</noinclude>

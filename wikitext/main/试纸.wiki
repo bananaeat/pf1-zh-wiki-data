@@ -1,0 +1,10 @@
+{{装备
+|name=试纸
+|english_name=Reagent paper
+|cat=炼金工具
+|price=1 gp
+|weight=—
+|craft_dc=15
+|description=这种纸条可以帮助你甄别液体。它会根据液体的基础性质来改变颜色，比如酸性、盐度或魔法性质。这会使得任何用于鉴别药剂或其他液体的工艺（炼金）或[[法术辨识]]检定获得+2炼金加值。
+|source=进阶职业指南
+}}

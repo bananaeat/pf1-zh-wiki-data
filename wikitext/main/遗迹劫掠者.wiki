@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Varisia, Birthplace of Legends pg. 31, Shattered Star Player's Guide pg. 5），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=遗迹劫掠者
+|english_name=Ruin Raider
+|type=战役
+|pfs=否
+|description=虽然玛格尼玛的商业吸引着你那对钱财格外敏锐的眼光，但你知道，通往真正财富最大胆的路，在于搜寻稀有古物并卖给出价最高的人。成为探索者似乎是个显而易见的决定，能让你为寻求财富而走遍瓦瑞西亚，于是你立刻报了名。你带来了锐利的眼光和辨别真伪的敏锐能力。你的[[估价]]检定获得+1背景加值。此外，你为区分形似雕像的生物（如女像柱和石像鬼）与真正的雕塑而进行的[[察觉]]检定获得+4加值。
+|source_name=瓦瑞西亚，传说诞生之地
+|source=VBoL
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Ruin%20Raider
+}}

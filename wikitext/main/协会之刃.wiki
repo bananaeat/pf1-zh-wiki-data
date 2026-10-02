@@ -1,0 +1,9 @@
+{{Trait
+|name=协会之刃
+|english_name=Blade of the Society
+|type=战斗
+|prerequisites=盗贼，探索者协会
+|description=协会为你提供了数百种类人生物与怪物的弱点知识。你的偷袭攻击造成的伤害+1背景加值。
+|source_name=组织指南
+|source_url=https://pf1chm.pages.dev/topics/zhb4c4366d0e.htm
+}}

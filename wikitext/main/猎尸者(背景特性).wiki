@@ -1,0 +1,11 @@
+{{Trait
+|name=猎尸者
+|english_name=Corpse Hunter
+|type=宗教
+|aliases=狩尸人
+|prerequisites=[[法莱斯玛]]
+|description=你献身于不死生物的毁灭，而且对不死生物的攻击获得+1背景加值。
+|source_name=均衡信念
+|source=FoB
+|source_url=https://pf1chm.pages.dev/topics/zha930a323ed.htm
+}}

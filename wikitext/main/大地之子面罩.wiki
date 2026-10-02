@@ -1,0 +1,14 @@
+{{魔法物品
+|name=大地之子面罩
+|english_name=Earth Child Faceguard
+|aon=MagicWondrousDisplay.aspx?FinalName=Earth Child Faceguard
+|cat=奇物
+|aura=中等变化系
+|cl=10
+|slot=头部
+|price=10,000 gp
+|description=大地之子面罩饰有“大地之子”精锐小队的徽记，旨在让佩戴者在与巨人战斗时更加专注。佩戴者获得以小搏大（《极限战斗》99页）专长的益处，无论其是否满足先决条件。若佩戴者不具备“防御训练”种族特性，则对抗巨人的AC闪避加值降为+2。若佩戴者本来就拥有以小搏大专长，则可以用一个[[自由动作]]进入以小搏大架势。
+|req=[[制造奇物]]、[[以小搏大]]、[[知己知彼]]
+|cost=5,000 gp
+|source=巨人猎手手册
+}}

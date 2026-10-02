@@ -1,0 +1,15 @@
+{{魔法物品
+|name=魔刺肩铠
+|english_name=Demonspike Pauldrons
+|aon=MagicWondrousDisplay.aspx?FinalName=Demonspike Pauldrons
+|cat=奇物
+|aura=中等死灵系
+|cl=7
+|slot=肩部
+|price=14,350 gp
+|weight=8磅
+|description=这对黑铁肩铠上镶嵌着长短不一的锯齿状尖刺。魔刺肩铠视为+2甲刺，并且在以肩铠成功进行擒抱攻击或近战攻击时，额外造成1d2点流血伤害。如果这对肩铠与普通甲刺一同穿戴，则将甲刺造成的伤害提高到1d6（小型）或1d8（中型），并且攻击和伤害检定使用两者中较高的增强加值——要么来自甲刺（如果有），要么来自魔刺肩铠。
+|req=[[制造奇物]]、[[制造魔法武器和防具]]、[[出血术]]
+|cost=7,175 gp
+|source=极限宝具
+}}

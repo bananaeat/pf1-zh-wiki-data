@@ -1,0 +1,14 @@
+{{Feat
+|name=救赎之旅
+|english_name=Redemption
+|categories=故事
+|pfs=否
+|description=过去的悔恨侵扰着你，同时也驱动你前行。
+|prerequisites=你必须因违背职业的行为准则而失去职业特性；或拥有“落魄门第”角色背景。
+|benefit=你能够通过[[直觉动作]]使刚才进行的属性、攻击、豁免或技能检定+1，并因此[[战栗]]1分钟。你必须在结果确认前做出决定。
+|goal=重获失去的职业特性，并完成一项证明自己价值的冒险任务。为完成此任务，你必须完胜一个强大敌手。该任务应该与导致你失去职业特性或令你蒙羞的事件相关联。
+|completion_benefit=你获得每日1次重骰失败的豁免检定的能力。你必须接受重骰结果，即便更糟。
+|source=UCa
+|source_name=极限战役
+|source_url=https://pf1chm.pages.dev/topics/page_200.html
+}}

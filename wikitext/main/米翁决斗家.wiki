@@ -1,0 +1,10 @@
+{{Trait
+|name=米翁决斗家
+|english_name=Mivoni Duelist
+|type=地区
+|prerequisites=米翁
+|description=你接受了奥多里剑术的训练，并在塞维尔决斗会上数次出战。这些经历教会了你如何在一对一的战斗中对对方造成额外的伤害。当只有你一个人威胁到你的对手时，你在伤害骰上获得+1的背景加值。
+|source_name=河域子民
+|source=PotR
+|source_url=https://pf1chm.pages.dev/topics/zh576fd36972.htm
+}}

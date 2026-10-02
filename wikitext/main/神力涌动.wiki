@@ -1,0 +1,10 @@
+<noinclude>{{速查导航|here=规则}}
+'''神力涌动'''（Surge）是一条神话[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Su</span><span class="sk-a">神话</span></div>
+</noinclude><includeonly><div class="lang"><span id="神力涌动"></span><div class="lang-h"><b>[[神力涌动]]</b><i>Surge</i><span class="lang-w">Su · 神话</span></div><div class="lang-d"></includeonly>
+怪物可以借助其神话之力克服艰难的挑战。它可以花费 1 次神话之力，在刚掷出一次 d20 检定后掷 1d6，并将结果加到那次 d20 检定上。使用该能力是[[直觉动作]]，在原检定已经掷出、结果已经公布之后进行。使用该能力所得的加骰在 4 阶时提升为 1d8，7 阶时为 1d10，10 阶时为 1d12。即便怪物是无心智的或只有动物级别的智力，也可以使用该能力。（更多信息见[[神话规则]]。）神力涌动在怪物数据栏中没有单独条目——涌动骰列在[[神话之力]]能力中。
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Surge|2=Surge}}
+
+[[分类:通用怪物规则]]</noinclude>

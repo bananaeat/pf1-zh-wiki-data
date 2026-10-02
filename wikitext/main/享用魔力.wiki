@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=享用魔力
+|english_name=Eater of Magic
+|type=Su
+|class=掉链野蛮人
+|benefit=若野蛮人在对抗法术，类法术能力，超自然能力的豁免检定中胜出，她将获得等同于法术等级（面对法术或类法术能力时）或对手1/2CR（面对超自然能力时）的临时生命。这些临时生命能与狂暴带来的临时生命相叠加，但是不能与其他狂暴之力带来的临时生命相叠加。野蛮人至少要达到第10级后且拥有[[神秘迷信]]狂暴之力才能选择此狂暴之力
+|classic=吞噬魔法
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

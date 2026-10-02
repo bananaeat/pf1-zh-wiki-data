@@ -1,0 +1,13 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[炫目射线]] 的神话版本。</small></div>
+{{Spell
+|name=炫目射线
+|english_name=Blinding Ray
+|school=塑能系
+|tags=善良;光亮
+|levels=先知 2;圣武士 2;战斗祭司 2;牧师 2;审判者 3
+|description=通过成功的豁免，目标会目眩1轮。若豁免失败，目标则会目盲1d4轮作为替代。
+
+若目标具有强光失明、强光敏感、或者其他对强光虚弱的特性，则会在成功的豁免之后目盲1d4轮，若豁免失败则会永久目盲。
+|source=神话冒险
+}}
+[[分类:神话法术]]

@@ -1,0 +1,10 @@
+<noinclude>{{侠客导航}}
+'''诡道专长'''（Intrigue Feats, Ex）是[[侠客]]的[[社交天赋]]。
+
+</noinclude>{{Source|间谍大师手册|Spymaster's Handbook|inline}}
+
+效果：侠客选择下面1个专长作为[[奖励专长]]：[[虚张声势 (Blustering Bluff)|虚张声势]]UI，[[不痛不痒]]UI，[[呼吁停战]]UI，[[大话王]]UI，[[黑道名声]]UI，[[刻薄羞辱]]UI，[[解码神秘]]ACG，[[戴高帽]]UI，[[不破的逻辑]]UI，[[冷面交涉人]]UI，[[雄辩家]]ACG，[[行贿高手]]UI，[[投其所好]]UI，[[略施小惠]]UI，[[舌绽莲花]]UI，[[查知观念]]UI，[[查知关系]]UI，[[街头智慧]]UI。他选择专长必须满足前置。这个天赋可以选择多次，每次，都要从列表选择一个不同的专长。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhd3b09cc415.htm 原文]）。全部社交天赋见 [[:分类:社交天赋|分类:社交天赋]]。
+
+[[分类:社交天赋]]</noinclude>

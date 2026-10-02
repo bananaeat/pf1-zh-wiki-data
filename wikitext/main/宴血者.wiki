@@ -1,0 +1,11 @@
+{{Feat
+|name=宴血者
+|english_name=Blood Feaster
+|pfs=否
+|description=吸食血液给予你超人般的力量。
+|prerequisites=[[饮血者]]，基本攻击加值+6，吸血裔。
+|benefit=如果你使用[[饮血者]]专长使一个活物流失至少4点体质，你就在伤害检定上获得+2加值，并且所有基于力量的技能检定+1加值。这个加值持续的轮数等同于你HD的一半。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

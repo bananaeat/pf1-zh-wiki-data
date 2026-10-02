@@ -1,0 +1,15 @@
+{{Spell
+|name=智能壁垒 II
+|english_name=Intellect Fortress II
+|school=防护系
+|levels=异能者 5
+|action=直觉动作
+|components=语言
+|range=20尺
+|area=以你为中心、半径20尺的散发
+|duration=1轮
+|save=无
+|sr=是（无害）
+|description=该法术的功能如同[[智能壁垒 I]]一般，不过除此之外，任何造成伤害的影响心灵效果所造成的伤害都会减半（在任何由于豁免成功或其他效果造成的伤害降低之前结算）。该效果同时会应用至生命值伤害和[[属性伤害]]。该法术可以被降阶施法。
+|source=异能冒险
+}}

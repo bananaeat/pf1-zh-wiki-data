@@ -1,0 +1,22 @@
+{{魔法物品
+|name=混沌法杖
+|english_name=Chaotic Staff
+|aon=MagicStavesDisplay.aspx?ItemName=Chaotic Staff
+|cat=法杖
+|aura=中等塑能系
+|cl=8
+|slot=无
+|price=29,600 gp
+|weight=5磅
+|description=这根法杖由多种不同的材料制成，包括木头、金属，可能还有几块血肉，它的形状随着时间推移似乎一直在变化。
+
+该法杖可以使用以下法术：
+
+* [[阵营武器]]（仅限混乱；1 发）
+* [[侦测秩序]]（1 发）
+* [[混乱之锤]]（2 发）
+* [[反秩序法阵]]（2 发）
+|req=[[制造法杖]]、[[阵营武器]]、[[混乱之锤]]、[[侦测邪恶]]、[[反秩序法阵]]
+|cost=14,800 gp
+|source=极限宝具
+}}

@@ -1,0 +1,15 @@
+{{Spell
+|name=正义之兵
+|english_name=Weapons Against Evil
+|school=变化系
+|levels=先知 1;圣武士 1;审判者 1;战斗祭司 1;牧师 1
+|action=标准动作
+|components=语言;圣徽
+|range=近距（25尺+5尺/2等级）
+|target=一件武器/等级，任两件武器之间相距不得超过20尺
+|duration=1轮/等级
+|save=强韧，通过则无效（无害，物体）
+|sr=是（无害，物体）
+|description=受此法术影响的每件武器都会亮起淡淡的光芒，将所在的5尺方格照明至昏暗。这些武器也会忽视那些具有DR5或更低的邪恶生物的DR，除非目标的伤害减免类型是DR/传奇。
+|source=内海诸神
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=着魔者
+|english_name=Diabolical Dabbler
+|type=魔法
+|benefit=每个你用法术所召唤来的炼狱动物都在其召唤期间获得等同于其生命骰的额外生命值。(出自切利亚斯，魔鬼王朝)
+|source_name=魔法背景
+|source=CEoD
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

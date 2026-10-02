@@ -1,0 +1,10 @@
+{{Trait
+|name=狐德菈之幸运
+|english_name=Huldra's Luck
+|type=地区
+|prerequisites=林诺姆诸王国
+|description=在你生命中的某个时刻，你受到了一种名为狐德菈的精类生物的眷顾，并继承了它的一丝幸运。
+|benefit=每天一次，你可以选择在单次豁免检定、攻击检定或技能检定上获得+1幸运加值。
+|source_name=北地居民
+|source_url=https://pf1chm.pages.dev/topics/zh63296b3929.htm
+}}

@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Ruins of Azlant Player's Guide pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=心意已决
+|english_name=Set Mind
+|type=战役
+|pfs=否
+|description=凡是你说过要做的事，你都一定会做到。你想不起自己什么时候不是这样。一旦你认定了某条路，别人就很难让你回心转意。你也许异常固执，也许只是格外坚定。无论如何，你认准的事就会一直做下去。丰饶冒险公司看中了你这项有用的特质，正是因为你意志坚定、对认准的目标矢志不渝，才选中你加入第二批殖民者。
+
+每天一次，当你对一个会使你做出异于平常之举的魅惑或强迫效果的豁免检定失败时，你可以立即以一个自由动作重骰该豁免检定。你必须采用第二次的结果，即使它更差。
+|source_name=Ruins of Azlant Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Set%20Mind
+}}

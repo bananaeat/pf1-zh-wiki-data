@@ -1,0 +1,9 @@
+{{装备
+|name=隐蔽盗贼工具
+|english_name=Concealable thieves' tools
+|cat=冒险装备
+|price=190 gp
+|weight=1/2磅
+|description=这套工具比大多数盗贼工具更小、用更坚固的材料制成，更容易隐藏。在把这些工具藏在身上的巧手检定中，你获得+4加值。除此之外，它们的功能与精制盗贼工具相同（为解除装置检定提供+2环境加值）。
+|source=极限诡道
+}}

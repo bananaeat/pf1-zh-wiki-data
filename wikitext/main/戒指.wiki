@@ -1,0 +1,32 @@
+{{速查导航}}
+
+'''戒指'''是《[[位面冒险]]》的一章。
+
+== 戒指（Rings） ==
+
+这些戒指带有与伟大彼岸（the Great Beyond）相关的强大效果。任何角色都可以使一枚戒指，但是一个角色在同一时间仅可受益于两枚魔法戒指。
+
+== 表格1-7：戒指（Rings） ==
+
+{| class="wikitable"
+|-
+! 高级次等戒指（Greater Minor Ring） !! 价格（Price）
+|-
+| 位面聚焦之戒（Ring of planar focus） || 4,000 GP
+|-
+| 次级中等戒指（Lesser Medium Ring） || 价格（Price）
+|-
+| 灵魂联结戒指（Soultether ring） || 8,000 GP
+|-
+| 熵与秩之戒（Ring of entropy and order） || 16,200 GP
+|}
+
+== 本章条目 ==
+
+* [[位面聚焦之戒]]
+* [[灵魂联结戒指]]
+* [[熵与秩之戒]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1572.html 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

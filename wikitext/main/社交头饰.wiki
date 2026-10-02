@@ -1,0 +1,14 @@
+{{魔法物品
+|name=社交头饰
+|english_name=Headband of Social Competence
+|aon=MagicWondrousDisplay.aspx?FinalName=Headband of Social Competence
+|cat=奇物
+|aura=微弱预言系
+|cl=1
+|slot=头饰
+|price=1,000 gp
+|description=这条简约而优雅的银色头饰会在穿戴者犯下社交失误之前，以精神方式向她发出警告。这类失误包括任何会提高她改变周围人态度的交涉检定DC的行为，或会恶化她认为非常重要的人的态度的行为。其效果类似于[[虔信经匣]]，只是不需要沉思；头饰会在穿戴者执行该行动之前，直接提醒她其后果。
+|req=[[制造奇物]]、[[适应文化]]（《极限诡道》）
+|cost=500 gp
+|source=皇庭英豪
+}}

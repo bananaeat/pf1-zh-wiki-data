@@ -1,0 +1,15 @@
+{{魔法物品
+|name=驱毒圣杯
+|english_name=Chalice of Poison Weeping
+|aon=MagicWondrousDisplay.aspx?FinalName=Chalice of Poison Weeping
+|cat=奇物
+|aura=中等咒法系
+|cl=7
+|slot=无
+|price=8,000 gp
+|weight=1磅
+|description=这只银圣杯的把手是风格化的、后腿直立的[[独角兽]]造型。圣杯的持有者可以把毒素从中毒生物的体内逼出，使目标从眼睛里流出毒素，持有者则可以用圣杯接住。这等同于对目标施放中和毒性，消除该毒素。如果目标对毒素免疫，或毒素已经耗尽，圣杯就不起作用。如果该毒素通常有固体或液体形态，它会在杯中凝成1剂该毒素（无论目标中毒了多少次）。收集到的毒素具有原毒素的全部正常效果，只是DC低4，可以装进别的容器，或像其他任何毒素一样使用。圣杯每天可以使用一次。
+|req=[[制造奇物]]、[[鬼斧神工]]、[[中和毒性]]
+|cost=4,000 gp
+|source=极限宝具
+}}

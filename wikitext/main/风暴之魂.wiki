@@ -1,0 +1,10 @@
+{{Feat
+|name=风暴之魂
+|english_name=Storm Soul
+|pfs=否
+|description=与风暴的亲和使你免疫其侵害。
+|prerequisites=云巨人或风暴巨人
+|benefit=你获得电击免疫。
+|source_name=冒险之路91：血征山之战
+|source_url=https://pf1chm.pages.dev/topics/91_Battle_of_Bloodmarch_Hills.htm
+}}

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Antihero's Handbook pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=黑道人脉
+|english_name=Criminally Connected
+|type=社会
+|description=你花了大量时间与地下黑社会打交道——多到旁人可能很难把你和他们区分开来。不过，这份熟稔让你比那些不愿玷污自己名声的英雄更占优势。在聚居地中，你在[[知识]]（本地）检定以及用于收集信息的[[交涉]]检定上获得+1背景加值。
+|source_name=反英雄手册
+|source=A'sH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Criminally%20Connected
+}}

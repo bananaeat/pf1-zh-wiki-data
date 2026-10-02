@@ -1,0 +1,11 @@
+{{Trait
+|name=神圣骗徒
+|english_name=Divine Deceiver
+|type=地区
+|pfs=否
+|prerequisites=拉兹密安
+|description=你接受了拉兹米尔牧师的训练，可以使用奥术激发微弱的治疗能力。每日1次以[[整轮动作]]，你可以牺牲一个已准备好的奥术法术或法术位施放治疗魔法。这相当于[[治疗轻伤]],但牺牲的法术或法术位每有1环治疗1D6点伤害(最高5D6),且治疗的生命值是暂时的(持续1小时)。
+|source_name=秽邪勇士
+|source=地区
+|source_url=https://pf1chm.pages.dev/topics/zh2cdfe76676.htm
+}}

@@ -1,0 +1,16 @@
+{{魔法物品
+|name=无眼盔
+|english_name=Blind Helm
+|aon=MagicWondrousDisplay.aspx?FinalName=Blind Helm
+|cat=奇物
+|mythic=是
+|aura=强烈预言系
+|cl=13
+|slot=头部
+|price=85,000 gp
+|weight=3磅
+|description=这顶朴素的钢盔完全盖住面部，连眼孔或观察用的缝隙都没有。穿戴者会因头盔而[[目盲]]，但获得60尺的盲感。穿戴者可以以[[迅捷动作]]消耗1次神话之力，获得60尺的盲视，持续1分钟；也可以改为消耗2次神话之力，获得120尺的盲视，持续1分钟。穿戴者可以消耗3次神话之力，获得真视（truesight）的效果，持续1分钟。
+|req=[[制造奇物]]、[[神话工匠]]、[[回声定位]]、[[真知术]]
+|cost=42,500 gp
+|source=神话冒险
+}}

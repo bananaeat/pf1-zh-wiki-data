@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=增强毒液
+|english_name=Enhance Venom
+|type=Ex
+|categories=进攻
+|prerequisites=[[毒蛇之息]]，[[毒蛇之吻]]
+|benefit=野蛮人将他的体质调整值加到用[[毒蛇之息]]，[[毒蛇之吻]]传播的任何毒素的DC上。
+|source_name=阴招战术工具箱
+}}

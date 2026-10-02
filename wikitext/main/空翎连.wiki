@@ -1,0 +1,13 @@
+{{Feat
+|name=空翎连
+|english_name=Empty Quiver Flurry
+|categories=战斗
+|description=（[[战斗专长]]）
+你使用弓弩发动的猛击使敌人退缩，被迫吃下你随之而来的射击。
+|prerequisites=[[快速射击]]，[[空翎流]]，[[空翎变]]，针刺射击，对所选武器拥有武器专攻专长
+|benefit=当你使用[[空翎流]]或针刺射击专长，使用远程武器发动近战攻击时，只要你成功命中一个敌人，直到你的下一轮开始，你以同一武器发动的远程攻击不会引发该敌人的[[借机攻击]]。
+|special=如果你拥有[[快速装填]]专长，且你所选的武器是尚未装填的弩或火器，那么你在以此专长的效果成功近战攻击命中敌人时，你可以同时以[[自由动作]]装填你的武器。
+|source=WMH
+|source_name=武器大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_370.html
+}}

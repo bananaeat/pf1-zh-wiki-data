@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=优雅猎手|en=Predator's Grace|type=Su|domain=动物领域|sub=毛兽子域 (Fur)|sub_name=毛兽子域|source=进阶玩家指南|text=你可以[[迅捷动作]]给自己基础移动速度+10尺1轮。每5牧师等级，便再加5尺。此外，也获得1轮昏暗视觉。如果已有昏暗视觉，则在昏暗光线下的视距变为普通[[人类]]的3倍。每天“3+[[感知]]修正”次。此能力替换动物领域的[[动物领域#动物交谈 (Speak with Animals, Sp)|动物交谈]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

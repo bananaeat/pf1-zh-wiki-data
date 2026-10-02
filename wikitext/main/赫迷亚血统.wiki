@@ -1,0 +1,10 @@
+{{Feat
+|name=赫迷亚血统
+|english_name=Hermean Blood
+|description=你是某个被邀请至赫迷亚的人的后代，或者是某个赫迷亚人与他国之人非法交配的结果。
+|prerequisites=必须在1级选取
+|benefit=尽管你自己可能不了解，但是你的血管中流淌着伟大的血脉。选择两个技能，这两个技能必须使用相同的属性。这些技能对你来说总是被视为[[本职技能]]。赫迷亚密探可能会来寻找你，要么是为了邀请你而进行评估，要么是为了掩盖一桩丑闻，具体为何由DM决定。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

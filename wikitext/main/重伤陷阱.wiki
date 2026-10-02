@@ -1,0 +1,13 @@
+{{危害
+|name=重伤陷阱
+|english_name=Harm Trap
+|kind=陷阱
+|trap_type=魔法
+|cr=14
+|perception=DC 31
+|disable=DC 31
+|trigger=接触型
+|reset=无
+|effect=法术效果（[[重伤术]]，+6近战接触攻击，130点伤害，意志 DC 19 豁免减半，不会将目标降至1点生命值以下）
+|source=核心规则书
+}}

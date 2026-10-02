@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=英勇灵光|en=Aura of Heroism|type=Su|domain=荣耀领域|sub=英勇子域 (Heroism)|sub_name=英勇子域|source=进阶玩家指南|text=到了8级，可以[[迅捷动作]]放出持续轮数为牧师等级的30尺英勇灵光，不需连续。盟友受到等同于[[英雄气概]]法术的影响。此能力替换[[荣耀领域#神力光临 (Divine Presence, Su)|神力光临]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

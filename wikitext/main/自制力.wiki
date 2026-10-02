@@ -1,0 +1,9 @@
+{{Trait
+|name=自制力
+|english_name=Arcane Temper
+|type=魔法
+|description=你的反应敏捷，思维专注。你的专注检定和[[先攻]]检定获得+1背景加值。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

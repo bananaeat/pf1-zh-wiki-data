@@ -1,0 +1,17 @@
+{{Spell
+|name=快速投掷
+|english_name=Quick throwing
+|school=变化系
+|levels=反圣武士 2;血脉狂怒者 2;猎人 2;魔战士 2;圣武士 2;游侠 2
+|action=标准动作
+|components=语言;姿势;材料
+|range=近距
+|target=每等级一个生物，任意两者之间的距离不超过30尺
+|duration=1轮/等级
+|save=强韧，通过则无效（无害）
+|sr=是（无害）
+|description=受此法术影响的生物能够更加迅速地使用投掷武器。他们不需要[[即时备战]]专长就能拔出身上的或所处空间内的投掷武器（包括石头，如果他们拥有[[通用怪物规则#投石|投石]]能力），使他们可以以正常的攻击频率用这类武器进行攻击。这对其他类型的远程武器弹药没有影响。
+|source=冒险之路91：血征山之战
+}}
+
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/zh7170ed2186.htm 原文]），按 AoN 核对过。</small>

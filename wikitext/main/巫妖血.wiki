@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Advanced Class Origins pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=巫妖血
+|english_name=Lichblood
+|type=地区
+|prerequisites=贝尔克泽恩
+|description=你是传说中的巫妖血[[兽人]]之一，因此在贝尔克泽恩的兽人中备受尊敬。你对贝尔克泽恩的兽人进行的[[交涉]]和[[威吓]]检定获得+2背景加值。你必须拥有血脉狂怒者的亡灵血脉才能选择这项背景特性。
+|source_name=进化职业起源
+|source=ACO
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Lichblood
+}}

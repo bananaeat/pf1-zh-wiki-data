@@ -1,0 +1,11 @@
+{{Trait
+|name=持灯人座
+|english_name=The Lantern Bearer
+|type=宇宙
+|aliases=8-14 持灯人座
+|prerequisites=阿贝迪乌斯(Abadius)21日-卡莉兹翠(Calistril)16日(译注：1月21日-2月16日)
+|description=你沐浴在持灯人座的光芒之下，领着篷车星系穿越那最漆黑的夜。每日3次，你可以以类法术能力施展[[光亮术]],将你的角色等级视为你的施法者等级。
+|source_name=宇宙背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zhc3ea784a66.htm
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=流水滑步
+|english_name=Slippery Step
+|type=种族
+|prerequisites=[[水元素裔]]
+|description=你习惯在潮湿润滑的表面上行走。你在水中战斗时总是视为拥有稳固立足点(详见CRB[[环境规则]]),且你在潮湿表面或潮湿地形─包含沼泽、活/死水、在暴风雨中颠簸的船只─进行的特技检定和攀爬检定上获得+2背景加值。
+|source_name=沙之子民
+|source_url=https://pf1chm.pages.dev/topics/zh730f330f66.htm
+}}

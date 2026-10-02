@@ -1,0 +1,15 @@
+{{魔法物品
+|name=神之蜜
+|english_name=Nectar of the Gods
+|aon=MagicWondrousDisplay.aspx?FinalName=Nectar of the Gods
+|cat=奇物
+|aura=强烈咒法系
+|cl=12
+|slot=无
+|price=5,000 gp
+|weight=1磅
+|description=这种芬芳的蜂蜜酒使用的是日光充足的草地上采集的最纯净的蜂蜜，与只有在月光下才会成长的罕见草药混合，再在陶罐中发酵而成。饮用神之蜜是一个标准动作，对神话生物来说它会恢复1d4+1次神话之力（最高达到该生物的上限为止）。若非神话生物喝下了这种饮料，它的效果如同英雄气概法术，持续1天。一罐神之蜜只装有一份这种强效饮料。
+|req=[[制造奇物]]、[[神话工匠]]、[[英雄气概]]
+|cost=2,500 gp
+|source=神话冒险
+}}

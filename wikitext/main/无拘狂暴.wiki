@@ -1,0 +1,10 @@
+{{消歧义|无拘狂暴(专长)}}
+{{狂暴之力
+|name=无拘狂暴
+|english_name=Unrestrained Rage
+|categories=防御
+|pfs=否
+|prerequisites=[[野蛮人]]12级
+|benefit=狂暴时，野蛮人免疫[[麻痹]]。如果野蛮人被作为会使他麻痹的效果的目标，他可以用一个[[直觉动作]]来进入狂暴，如果他还有狂暴轮数剩余的话。
+|source_name=冒险之路139：死者之路
+}}

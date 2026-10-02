@@ -1,0 +1,10 @@
+{{消歧义|追寻者(先知变体职业)}}
+{{Trait
+|name=追寻者
+|english_name=Seeker
+|type=社会
+|description=你总是在一刻不停地留意机遇和危险。你的察觉检定获得+1背景加值，并且总能将察觉视为你的[[本职技能]]。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

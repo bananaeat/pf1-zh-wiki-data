@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[封门术]] 的神话版本。</small></div>
+{{Spell
+|name=封门术
+|english_name=Hold Portal
+|school=防护系
+|levels=奥能师 1;异能者 1;术士 1;法师 1;秘学士 1
+|description=目标入口可以达到每施法者等级30平方尺的大小。尝试强行打开入口的生物必须先要成功进行意志豁免对抗法术的DC。这是影响心灵效果。失败意味着该名生物无法在法术生效期间打开门。
+|source=神话冒险
+}}
+[[分类:神话法术]]

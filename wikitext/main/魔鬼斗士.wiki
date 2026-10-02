@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Armor Master's Handbook pg. 2），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=魔鬼斗士
+|english_name=Devil Fighter
+|type=战斗
+|description=了解魔鬼的思考方式有助于你抵抗它们的诡计。你的AC在对抗守序异界生物的攻击时获得+1背景加值。
+|source_name=护甲大师手册
+|source=AMH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Devil%20Fighter
+}}

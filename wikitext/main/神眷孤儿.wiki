@@ -1,0 +1,9 @@
+{{Trait
+|name=神眷孤儿
+|english_name=Blessed Orphan
+|type=宗教
+|prerequisites=信仰[[福格瑞特]]
+|description=作为一名孤儿，你总是向福格瑞特寻求庇佑。每天一次，你可以在一次豁免检定上获得+1背景加值。你必须在投骰之后、GM宣告结果之前声明。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

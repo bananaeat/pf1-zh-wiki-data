@@ -1,0 +1,9 @@
+{{Feat
+|name=寒冷扩增
+|english_name=Chilling Amplification
+|description=你的寒冷法术使得目标变得缓慢
+|benefit=每当你释放一个带有【寒冷】描述符的法术，你可以选择在该法术攻击骰上承受-1罚值并降低法术豁免DC1，使得任何受到该法术寒冷伤害的目标移动速度减少5尺且无法进行[[5尺快步]]。该效果持续1轮+法术每3环级1轮。你必须在进行攻击骰或在你的目标尝试进行豁免骰之前选择是否使用该专长。该专长对那些既不需要攻击骰又不需要进行豁免的法术无效。
+|source=MagicTT
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_566.html
+}}

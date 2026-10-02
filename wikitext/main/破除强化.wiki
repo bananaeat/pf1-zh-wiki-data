@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=破除强化
+|english_name=Sunder Enchantment
+|type=Ex
+|categories=进攻
+|prerequisites=[[野蛮人]]8级，[[破甲祛法]]
+|benefit=当狂暴的野蛮人成功对魔法物品进行击[[击破]]器[[战技]]检定后，那件魔法物品上的魔法能力被压制1轮，他的检定结果每比目标[[CMD]]高5再增加一轮。
+|source_name=极限战斗
+}}

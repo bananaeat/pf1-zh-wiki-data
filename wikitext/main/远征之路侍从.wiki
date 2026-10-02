@@ -1,0 +1,10 @@
+{{Trait
+|name=远征之路侍从
+|english_name=Crusader Road Acolyte
+|type=地区
+|prerequisites=荆棘堡（Thornkeep）或回声森林（Echo Wood）
+|description=你在锁钥关和[[地狱骑士]]一起、或者在河望堡和[[艾奥梅黛]]的圣武士一起接受训练。如果你和地狱骑士一起接受训练，你在对抗混乱法术和混乱异界生物的类法术能力时，豁免获得+1的背景加值。如果你和艾奥梅黛的圣武士一起接受训练，你获得的加值变为针对邪恶法术和邪恶异界生物。
+|source_name=河域子民
+|source=PotR
+|source_url=https://pf1chm.pages.dev/topics/zh576fd36972.htm
+}}

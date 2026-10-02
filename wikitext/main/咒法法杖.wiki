@@ -1,0 +1,22 @@
+{{魔法物品
+|name=咒法法杖
+|english_name=Staff of Conjuration
+|aon=MagicStavesDisplay.aspx?ItemName=Staff of Conjuration
+|cat=法杖
+|aura=强烈咒法系
+|cl=13
+|slot=无
+|price=82,000 gp
+|weight=5磅
+|description=这根法杖通常用灰木或胡桃木制成，上面雕刻着许多种不同生物的精美图案。它可以使用以下法术：
+
+* [[臭云术]]（1 发）
+* [[飞虫走兽]]（1 发）
+* [[隐形仆役]]（1 发）
+* [[死云术]]（2 发）
+* [[弱效造物术]]（2 发）
+* [[召唤怪物 VI]]（3 发）
+|req=[[制造法杖]]、[[死云术]]、[[弱效造物术]]、[[臭云术]]、[[召唤怪物 VI]]、[[飞虫走兽]]、[[隐形仆役]]
+|cost=41,000 gp
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=违反自然
+|english_name=Warded Against Nature
+|type=缺陷
+|pfs=否
+|aliases=自然抗拒
+|description=动物们不会自愿接近你的30尺之内，除非你或那动物的主人成功通过DC 20的[[驯养动物]]、骑术或野性认同检定。你的职业能力给予你的[[动物伙伴]]、[[魔宠]]、坐骑免疫此效果。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

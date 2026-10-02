@@ -1,0 +1,14 @@
+{{Feat
+|name=多重武器战斗
+|english_name=Multiweapon Fighting
+|categories=战斗
+|pfs=否
+|description=这个生物擅于利用自己的多条手臂挥舞武器。
+|prerequisites=[[敏捷]] 13，拥有三只或更多的手。
+|benefit=在持用多件武器战斗时，你在主手武器上受到的攻击检定减值减少2点，副手武器攻击检定上的减值减少6点。
+|normal=若无此专长支持，生物在使用多武器战斗时，在主手武器上的攻击检定承受-6减值，副手武器上的攻击检定承受-10减值（该生物只有一只手视为主手，其他手皆视为副手）。更多信息请查看[[双武器战斗]]规则。
+|special=如果该生物的手多于两只，那么此专长对该生物而言取代[[双武器格斗]]专长。
+|source=B1
+|source_name=怪物图鉴
+|source_url=https://pf1chm.pages.dev/topics/page_201.html
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 199），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=娜迦国爱国者
+|english_name=Nagaji Nationalist
+|type=种族
+|prerequisites=娜迦裔
+|description=你对[[娜迦裔]]的国度娜迦国怀有强烈的忠诚。对抗直接威胁到娜迦国安全的敌人时，你的攻击检定和豁免检定获得+1背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Nagaji%20Nationalist
+}}

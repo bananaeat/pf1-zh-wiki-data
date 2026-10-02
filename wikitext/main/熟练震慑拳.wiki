@@ -1,0 +1,11 @@
+{{Feat
+|name=熟练震慑拳
+|english_name=Stunning Fist Adept
+|categories=战斗
+|description=你的[[震慑拳]]变得更加要命。
+|prerequisites=[[震慑拳]]、基本攻击加值+3
+|benefit=对抗你震慑拳的DC+1，此专长不会和任何增加震慑拳DC的效果叠加。〔例如[[流派]]专长：[[螳螂拳]](UC)〕
+|source=DEP
+|source_name=初探龙国
+|source_url=https://pf1chm.pages.dev/topics/page_530.html
+}}

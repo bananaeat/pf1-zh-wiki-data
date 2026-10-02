@@ -1,0 +1,8 @@
+{{Feat
+|name=霉咒炼金术
+|english_name=Jinx Alchemy
+|prerequisites=快速炼金职业特性，半身人霉咒
+|benefit=被霉咒的生物无法从药水，灵药或其它需要吃下去才能生效的物质中获益。这包括了炼金物质比如[[抗毒剂]]，但不包括炼成物，[[突变药剂]]或其它只影响炼金师本身的炼金职业能力。被霉咒的生物仍然会由于服用药剂或毒素正常遭受惩罚或有害影响。
+|source_name=格拉利昂的半身人
+|source_url=https://pf1chm.pages.dev/topics/page_572.html
+}}

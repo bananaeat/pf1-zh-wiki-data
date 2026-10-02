@@ -1,0 +1,9 @@
+{{Trait
+|name=深切伤痛
+|english_name=Deep Wounding
+|type=宗教
+|prerequisites=信仰[[阿卡艾克克]]
+|description=你研习了血腥的秘密好让你能造成更深的伤口。当你用近战武器造成[[流血伤害]]时，需要成功通过一个DC 20的医疗检定才能止血。魔法治疗仍可照常止血。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

@@ -1,0 +1,9 @@
+{{Trait
+|name=宽慰的建议
+|english_name=Reassuring Advice
+|type=社会
+|description=你曾研究过一位领导人或思想家的演讲和著作。她在奥罗登陨落后的动荡时期为她的社区发出了令人安心的声音，痛苦地了解到奥罗登的建议中哪些部分不再适用，哪些著作仍然可以起效。每天一次，你可以说出奥罗登的激励词，令任何一名[[人类]]在接下来1小时内由其自选的一次攻击掷骰、豁免检定或技能检定获得+1洞察加值。必须在进行相关掷骰之前决定是否使用该洞察加值。
+|source_name=秘术选集Arcane Anthology
+|source=Arcane Anthology
+|source_url=https://pf1chm.pages.dev/topics/zhe6bf0e12f5.htm
+}}

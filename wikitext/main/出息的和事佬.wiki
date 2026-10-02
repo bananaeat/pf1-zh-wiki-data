@@ -1,0 +1,9 @@
+{{Trait
+|name=出息的和事佬
+|english_name=Promising Peacemaker
+|type=种族
+|prerequisites=[[半兽人]]
+|description=你在由[[人类]]和[[兽人]]组成的家庭，或被亲切的[[半兽人]]父母抚养成人，许多人都希望你充当一个无瑕疵的调解者。不论这些愿望看到成果或遇到挫折，你学到了大量有关两者的文化。你在涉及兽人、半兽人和人类的知识(本地)检定获得+2背景加值，还在面对这些种族的交涉上获得+2背景加值。
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh3a98986c0e.htm
+}}

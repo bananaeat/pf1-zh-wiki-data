@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[化棍法]] 的神话版本。</small></div>
+{{Spell
+|name=化棍法
+|english_name=Changestaff
+|school=变化系
+|levels=德鲁伊 7
+|description=以此法术创造出的类树人生物被视作为神话生物，而且获得DR 10/传奇与挥砍，用于替代原本的DR 10/挥砍。
+
+强化（7阶）：若你花费2次神话之力，该生物就能获得狂野神话模板。
+|source=神话冒险
+}}
+[[分类:神话法术]]

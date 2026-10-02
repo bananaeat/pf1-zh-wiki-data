@@ -1,0 +1,15 @@
+{{魔法物品
+|name=勇跃之靴
+|english_name=Boots of Gusto
+|aon=MagicWondrousDisplay.aspx?FinalName=Boots of Gusto
+|cat=奇物
+|aura=微弱变化系
+|cl=4
+|slot=脚部
+|price=2,000 gp
+|weight=1磅
+|description=这双靴子由上好的红色皮革制成，上面缝有图案，描绘着手持[[细剑]]和其他适合游荡剑客使用的轻型武器的类人生物。每日至多3次，穿戴者可以施展1级游荡剑客炫技中的大胆特技。
+|req=[[制造奇物]]、[[猫之优雅]]、制造者必须是[[游荡剑客#派头|派头]]使用者
+|cost=1,000 gp
+|source=进阶职业指南
+}}

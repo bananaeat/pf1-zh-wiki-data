@@ -1,0 +1,60 @@
+<includeonly>{{Trait
+|name=
+|english_name=
+|type=
+|prerequisites=
+|description=
+|source_name=
+|source_url=
+}}
+</includeonly><noinclude>
+这一页是'''新建背景特性条目用的骨架''' —— 不是给条目套用的模板，条目要套的是 [[模板:Trait]]。
+
+[[待办事项#四、长期的翻译工|待办事项]] 上有个输入框：填中文名、点按钮，编辑框里就会自动预填下面这段骨架。也可以自己拼地址：
+
+ https://pf1.huijiwiki.com/index.php?title=页名&action=edit&preload=模板:背景特性样板
+
+== 骨架 ==
+
+<pre>
+{{Trait
+|name=
+|english_name=
+|type=
+|prerequisites=
+|description=
+|source_name=
+|source_url=
+}}
+</pre>
+
+== 各参数怎么填 ==
+;name / english_name: 中英文名。<code>name</code> 留空时取页名。
+;type: 背景类型，'''填一个'''：'''战斗、信念、魔法、社会、种族、地区、宗教、派系、装备、
+ 宇宙、坐骑、战役、典范、缺陷'''。会显示成标签并自动挂上「XX背景特性」分类。
+;prerequisites: 先决条件，多数背景特性没有，留空即可。
+;description: 正文。'''绝大多数背景特性只要填这一格。'''
+;benefit: 只有把风味和机制分成两段写的时候才填（主要是缺陷背景）——
+ 这时 <code>description</code> 是风味、<code>benefit</code> 是机制。模板靠这一格有没有填来判断。
+;regions: 地区背景专用的地区列表，可选。
+;pfs: 填 <code>否</code> 表示非 PFS 合法，会显示一个警示标签。缺陷背景基本都是。
+;source_name: '''中文书名'''。
+;source_url: 原文链接，可选。
+
+完整的参数说明和例子在 [[模板:Trait]] 那一页。
+
+== 三条通则 ==
+
+# '''页名用中文名'''，英文名填进 <code>english_name</code> 参数。撞名怎么加后缀见 [[帮助:格式约定]]。
+# '''不要自己排版、不要手写分类''' —— 卡片模板会自动排版、自动挂分类、自动生成页脚导航。
+# '''用不上的参数留空或整行删掉都行'''，模板会自动隐藏对应的行。
+
+== 填完之后 ==
+
+在保存框下面写一行摘要（「新建：XXX」就够），保存。改错了不要紧，
+每次修改都有记录、任何人都能一键还原。
+
+哪些还没建见 [[未汉化背景特性]]。
+
+[[分类:帮助]]
+</noinclude>

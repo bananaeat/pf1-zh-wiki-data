@@ -1,0 +1,62 @@
+<includeonly>{{#invoke:版权抬头|main}}<div class="spell">
+<div class="spell-head">
+<div class="spell-name">{{{name|{{PAGENAME}}}}}</div>
+<div class="spell-en">{{#invoke:AoN链接|named|仪式|{{{english_name|}}}|aon={{{aon|}}}}}</div>
+</div>
+<div class="spell-stats">{{#if:{{{school|}}}|{{PropertyLine|学派|{{{school|}}}}}}}<!--
+-->{{#if:{{{level|}}}|{{PropertyLine|仪式等级|{{{level|}}}}}}}<!--
+-->{{#if:{{{action|}}}|{{PropertyLine|施放时间|{{{action|}}}}}}}<!--
+-->{{#if:{{{components|}}}|{{PropertyLine|成分|{{{components|}}}}}}}<!--
+-->{{#if:{{{skills|}}}|{{PropertyLine|技能检定|{{{skills|}}}}}}}<!--
+-->{{#if:{{{range|}}}|{{PropertyLine|范围|{{{range|}}}}}}}<!--
+-->{{#if:{{{target|}}}|{{PropertyLine|目标|{{{target|}}}}}}}<!--
+-->{{#if:{{{area|}}}|{{PropertyLine|区域|{{{area|}}}}}}}<!--
+-->{{#if:{{{effect|}}}|{{PropertyLine|效果|{{{effect|}}}}}}}<!--
+-->{{#if:{{{duration|}}}|{{PropertyLine|持续时间|{{{duration|}}}}}}}<!--
+-->{{#if:{{{save|}}}|{{PropertyLine|豁免|{{{save|}}}}}}}<!--
+-->{{#if:{{{sr|}}}|{{PropertyLine|法术抗力|{{{sr|}}}}}}}<!--
+-->{{#if:{{{backlash|}}}|{{PropertyLine|反冲|{{{backlash|}}}}}}}<!--
+-->{{#if:{{{failure|}}}|{{PropertyLine|失败|{{{failure|}}}}}}}</div>
+<div class="spell-desc">
+{{{description|}}}
+</div>{{#if:{{{source|}}}|<div class="spell-source">{{PropertyLine|来源|{{{source|}}}}}</div>}}
+</div>{{条目页脚|速查=神秘仪式|分类=仪式}}[[分类:仪式]]</includeonly><noinclude>
+==说明==
+本模板用于 pf1 的'''神秘仪式'''条目。不适用的参数留空即可，模板会自动隐藏对应行。
+
+仪式和法术不是一回事，所以没有直接用 [[模板:Spell]]：
+
+* 多三个字段——<code>skills</code>（技能检定）、<code>backlash</code>（反冲）、<code>failure</code>（失败）；
+* <code>level</code> 是'''仪式等级'''（1–9，不分职业），不是法术的环位，所以不挂 <code>分类:X系法术</code>。
+
+样式复用法术卡片那一套（<code>.spell</code> 系列），看上去和法术条目一致。
+
+英文名就是 AoN 原文链接（[[模块:AoN链接]] 的 named：按英文名查 [[模块:AoN链接/仪式]]，表是 <code>tools/build_aon_named_modules.py</code> 照 AoN 列表页生成的）。对不上的显示纯文字；可以写 <code>aon=</code> 一条已编码的 AoN 原始链接（<code>OccultRituals.aspx?ItemName=Avoidance%20Ward</code>）顶掉，写 <code>aon=无</code> 就不挂。
+
+参数：name / english_name / aon / school / level / action / components / skills /
+range / target / area / effect / duration / save / sr / backlash / failure /
+description / source
+
+===用法===
+<pre>
+{{仪式
+|name=逃避之护
+|english_name=Avoidance Ward
+|school=附魔系（胁迫）
+|level=4
+|action=40分钟
+|components=V，M（一片花楸木制成的木炭），F（一面价值50gp的银制小镜子）
+|skills=知识（地城）DC30，3次成功；法术辨识DC30，1次成功
+|range=接触
+|target=一扇地城的门
+|duration=8小时
+|save=意志无效（无害，物品）
+|sr=可（无效，物品）
+|backlash=施法者受到4d6点伤害。
+|failure=目标的门被打开，且无法被施法者用低于有限祈愿术的任何手段所关上，持续24小时。
+|description=施法者通过将一面镜子放在门的一侧……
+|source=异能冒险
+}}
+</pre>
+[[分类:模板]][[分类:规则模板]]
+</noinclude>

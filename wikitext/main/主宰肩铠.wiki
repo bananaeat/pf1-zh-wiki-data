@@ -1,0 +1,15 @@
+{{魔法物品
+|name=主宰肩铠
+|english_name=Juggernaut's Pauldrons
+|aon=MagicWondrousDisplay.aspx?FinalName=Juggernaut's Pauldrons
+|cat=奇物
+|aura=微弱死灵系
+|cl=5
+|slot=肩部
+|price=40,000 gp
+|weight=1磅
+|description=这对厚重的肩铠形如一双握紧的拳头，由锤打而成的青铜制成。它们使穿戴者的CMD获得+4加值，并使穿戴者获得凶猛能力（怪物图鉴第300页）。穿戴者可以下令使自己的体型增大，如同受到人类变巨术法术影响，也可以再下一次令恢复正常体型。每天三次，穿戴者击杀一名对手之后，可以以[[直觉动作]]获得死亡化身法术（极限战斗）的好处，持续1分钟。
+|req=[[制造奇物]]、[[死亡化身]]、[[变巨术]]、[[狂暴术]]
+|cost=20,000 gp
+|source=极限宝具
+}}

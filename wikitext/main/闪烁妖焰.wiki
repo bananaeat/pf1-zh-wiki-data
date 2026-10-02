@@ -1,0 +1,14 @@
+{{装备
+|name=闪烁妖焰
+|english_name=Firework (flashing fiend)
+|cat=炼金武器
+|price=100 gp
+|weight=—
+|craft_dc=30
+|dmg=特殊
+|range=10尺
+|type=光亮
+|special=见正文
+|description=点燃时，这个小小的圆锥形焰火发出明亮的白色火花，如同蜡烛般照亮区域。它可以如同[[溅射攻击|溅射武器]]般掷向某个方格交点。一轮后，它开始发出极亮的光线脉冲，持续1d6轮。任何在其15尺内开始回合的生物，必须通过一个DC 12的反射豁免，否则[[目盲]]1d4轮。
+|source=Ships of the Inner Sea
+}}

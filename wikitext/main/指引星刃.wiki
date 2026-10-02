@@ -1,0 +1,12 @@
+{{Feat
+|name=指引星刃
+|english_name=Guided Star
+|categories=战斗
+|pfs=否
+|description=黛丝娜指引着你的星刃返回到手中
+|prerequisites=[[优雅繁星]]，信仰黛丝娜
+|benefit=每日每角色等级次以迅捷动作，你能够将魔力注入到一把星刃中。直至你的回合结束为止，除了在正常情况下你所拥有的其他调整值外，你还能够将感知调整值加到你用星刃造成的伤害检定上。若你在此期间将星刃投掷出去，那么它会在你的下个回合开始时返回到你的手中，就如同回力武器特殊能力一般。
+|source=PotR
+|source_name=正义之路
+|source_url=https://pf1chm.pages.dev/topics/page_678.html
+}}

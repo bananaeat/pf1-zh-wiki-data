@@ -1,0 +1,15 @@
+{{Spell
+|name=内在法器
+|english_name=Inner focus
+|school=幻术系 (五官幻觉)
+|levels=反圣武士 1;圣武士 1;游侠 1;猎人 1;先知 2;审判者 2;导师 2;德鲁伊 2;战斗祭司 2;牧师 2
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=个人
+|target=自己
+|duration=10分钟/等级
+|save=无（无害）
+|sr=否
+|description=此法术持续时间内，你可以忽视任何你的法术的圣徽成分，这允许你在施展这类法术时不需要持有或展示你的圣徽或邪徽。
+|source=沙之子民
+}}

@@ -1,0 +1,16 @@
+{{Feat
+|name=精通精准射击
+|english_name=Improved Precise Shot
+|categories=战斗
+|description=你的远程攻击可无视[[掩蔽]]与[[隐蔽]]的影响。除了完全掩蔽和隐蔽。
+|prerequisites=敏捷19，[[近距射击]]，[[精准射击]]，基本攻击加值+11。
+|benefit=你的远程攻击可忽略大多数掩蔽与隐蔽所提供的AC加值与失手机率，除了全掩蔽与[[全隐蔽]]，它们将照常对远程攻击造成影响。
+|normal=参见关于掩蔽和隐蔽的正常规则。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[精确瞄准]]、[[迂回射击]]（2 个条目）

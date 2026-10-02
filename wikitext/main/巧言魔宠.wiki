@@ -1,0 +1,11 @@
+{{Feat
+|name=巧言魔宠
+|english_name=Polyglot Familiar
+|description=你的魔宠不仅能够与同类交流，还可以和其他的动物进行沟通。
+|prerequisites=必须具有魔宠
+|benefit=选择一类生物：两栖动物、鸟类、猫科动物、无脊椎动物、爬虫类、啮齿动物、猿类或虫类。你的魔宠能够与该类生物进行交流。
+|special=你可以多次选取该专长，每次都要选择不同的生物种类。若你在初次选取该专长时，你的魔宠还没有获得与动物同类交谈能力的话，那么你必须选择与魔宠同类的生物。若你的魔宠在后来获得了与动物同类交谈的能力，你便可以将该专长的好处应用至其他种类的生物上作为替代。
+|source=FF
+|source_name=魔宠手记
+|source_url=https://pf1chm.pages.dev/topics/page_491.html
+}}

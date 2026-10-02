@@ -1,0 +1,12 @@
+{{Feat
+|name=利牙突变
+|english_name=Razortusk
+|description=你那强有力的下颚和钢铁般的牙齿已经足够致命，可以用来进行啮咬攻击。
+|prerequisites=半兽人。
+|benefit=你可以进行啮咬攻击，造成1d4点伤害外加你的力量修正。你被视为擅长这种攻击，并且能够将适用于天生武器的效果与专长应用于你的啮咬攻击。如果你将其应用于[[全力攻击]]动作的一部分，啮咬攻击被视为次要攻击，并且使用你的完整BAB-5进行攻击，伤害只增加你的力量修正的一半。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}
+
+{{FAQ|v5748eaic9n88}}

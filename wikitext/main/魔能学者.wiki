@@ -1,0 +1,15 @@
+{{Feat
+|name=魔能学者
+|english_name=Eldritch Researcher
+|categories=故事
+|pfs=否
+|description=你寻求魔法能量的崭新应用。
+|prerequisites=你必须创造出一个新法术；或拥有“万物之理”角色背景。
+|benefit=当你施展自己创造出的法术时CL+1。此外，你的[[法术辨识]]检定+2。如果你的法术辨识技能等级有10级或以上，该加值升至+4。
+|special=为从此专长中受益，一个自创法术必须有其完整描述。仅对原有法术做出微调（如相比“[[延迟爆裂火球]]术”与[[火球术]]）的法术无法获益。炼金术师也可以从此专长中受益，因为他们的炼金药剂本质也是法术。
+|goal=创造出一个6级以上的新法术。
+|completion_benefit=当你施展自己创造出的法术时豁免DC+1。此外，你超魔施展自创法术时的法术环位提升减少1级。你无法通过此方式将超魔后的法术降低到其原本环位之下。
+|source=UCa
+|source_name=极限战役
+|source_url=https://pf1chm.pages.dev/topics/page_200.html
+}}

@@ -1,0 +1,6 @@
+<includeonly>([[扩展手册#ARG|ARG]])</includeonly><noinclude>
+<pre>
+*{{ARG}}
+</pre>
+*{{ARG}}
+</noinclude>

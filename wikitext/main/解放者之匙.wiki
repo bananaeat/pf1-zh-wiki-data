@@ -1,0 +1,16 @@
+{{魔法物品
+|name=解放者之匙
+|english_name=Liberator's Key
+|aon=MagicWondrousDisplay.aspx?FinalName=Liberator's Key
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=无
+|price=2,000 gp
+|description=这把不起眼的小银钥匙几乎能打开任何一套镣铐。以[[标准动作]]把钥匙插入上锁的脚镣、手铐或镣铐的锁孔时，只要该锁的解除装置DC为30或更低，锁就会打开。锁的解除装置DC为15或更低的镣铐，会被瞬间无声地震成碎片。
+
+解放者之匙可以使用10次，之后便会化为尘土。
+|req=[[制造奇物]]、[[敲击术]]、[[粉碎音波]]
+|cost=1,000 gp
+|source=冒险者指南
+}}

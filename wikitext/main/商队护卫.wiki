@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Jade Regent Player's Guide pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=商队护卫
+|english_name=Caravan Guard
+|type=战役
+|pfs=否
+|description=你最近受雇于桑德鲁的商队担任护卫，但这份工作虽然报酬不错，却几乎没给你机会满足冒险的渴望，因为商队从不真正深入危险地带。你当然理解桑德鲁为什么避开更危险的路线，但这并不能平息你寻求冒险的冲动。你刚刚告诉桑德鲁，你要辞掉这份工作去试试冒险——他似乎很理解，甚至还给了你一些关于如何在可能遇到的挑战中活下来的好建议。你在[[生存]]检定上获得+1背景加值，并且生存成为你的本职技能。NPC选项：桑德鲁。
+|source_name=Jade Regent Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Caravan%20Guard
+}}

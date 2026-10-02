@@ -1,0 +1,8 @@
+{{Trait
+|name=偷天换日
+|english_name=Power of Suggestion
+|type=装备
+|description=你用话语来瞒过人们的亲眼所见。你可以用[[唬骗]]使他人相信你的所有物是个完全不同的物品。对于形状、大小、颜色都相似的物品(如一把[[大砍刀]]和一根木棍),唬骗DC为 20;每项在形状、大小和颜色上较大的差距将使DC增加5,如果差距非常大这个DC将增加更多。该效果持续1分钟，如果该物品在1分钟后仍在视野里，注意到该物品的人可能会察觉他们之前看错了，除非你再进行一次唬骗。
+|source_name=装备背景
+|source_url=https://pf1chm.pages.dev/topics/page_1579.html
+}}

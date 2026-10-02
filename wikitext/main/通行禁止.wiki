@@ -1,0 +1,16 @@
+{{Feat
+|name=通行禁止
+|english_name=Stand Still
+|aliases=禁止通行
+|categories=战斗
+|description=你能够拦下试图从你旁边经过的敌人。
+|prerequisites=战斗反射。
+|benefit=当一个敌人因经过你的邻近区域而触发[[借机攻击]]时，你可以做一次[[战技]]检定来做为借机攻击。如果成功，敌人在他回合的剩余部分内不能移动。敌人仍然可以做他动作的剩余部分，但就是不能移动。此专长也可应用于任何试图从你相邻区域移开的生物，如果该移动会触发借机攻击。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：不动如山（1 个条目）

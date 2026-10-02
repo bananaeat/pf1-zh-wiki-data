@@ -1,0 +1,15 @@
+{{魔法物品
+|name=护盾披风
+|english_name=Shield Cloak
+|aon=MagicWondrousDisplay.aspx?FinalName=Shield Cloak
+|cat=奇物
+|aura=微弱防护系
+|cl=4
+|slot=肩部
+|price=1,000 gp
+|weight=1磅
+|description=这件粗糙的灰色披风，穿戴者可以以一个[[移动动作]]抓住披风边缘，使其变硬。穿戴者可以把变硬的边缘当作精制品轻木盾使用。这样使用披风不会带来护甲检定减值，但会带来5%的奥术法术失败率。以[[自由动作]]放开披风边缘，即可让它重新变柔软。盾牌增强加值和特殊能力可以加到这件披风上，视其为精制品盾牌。
+|req=[[制造奇物]]、[[制造魔法武器和防具]]、[[护盾术]]
+|cost=500 gp
+|source=极限宝具
+}}

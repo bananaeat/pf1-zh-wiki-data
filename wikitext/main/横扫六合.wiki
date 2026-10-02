@@ -1,0 +1,11 @@
+{{Feat
+|name=横扫六合
+|english_name=Difficult Swings
+|categories=武器掌握
+|description=你的攻击压制敌人，使他们必须在你身周谨慎的行动。
+|prerequisites=基础攻击加值+5，拥有近战武器的武器训练职业能力
+|benefit=在以适用的近战武器进行整轮攻击时，你能够迫使其他生物在直到你的下一轮开始前将所有邻接你的方格视为困难地形。你可以选择让你所知晓的任意生物不受到你通过本专长造成的这些困难地形的效果影响。
+|source=WMH
+|source_name=武器大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_369.html
+}}

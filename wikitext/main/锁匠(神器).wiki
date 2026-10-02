@@ -1,0 +1,8 @@
+{{消歧义|锁匠}}
+{{物品
+|name=锁匠
+|english_name=The Locksmith
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。抽卡者获得打开一扇门，锁，魔法束缚或屏障的能力，即使是需要特定条件才能打开的魔法门。抽牌者可以决定何时使用该能力，但仅限一次。
+}}

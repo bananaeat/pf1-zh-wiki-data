@@ -1,0 +1,15 @@
+{{Feat
+|name=神之严密
+|english_name=Divine Dignity
+|description=原初宝库的安全秘密同样也保护你的施法
+|prerequisites=[[战斗施法]]，能够施放神术，信仰阿巴达尔
+|benefit=每天3次，当你施放一个无害神术或[[领域法术]]时，你可以以一个[[自由动作]]保护自己不受施法[[借机攻击]]。
+|special=你可以多次选择本专长，每次选择将使你获得每天额外3次使用机会。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[完美施法]]（1 个条目）

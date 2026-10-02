@@ -1,0 +1,9 @@
+{{Trait
+|name=混饭生
+|english_name=Reluctant Apprentice
+|type=魔法
+|description=早年的学习赋予你若干奥术知识。你的知识(奥秘)检定获得+1背景加值，并能在该技能上未投点数时视为已受训。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

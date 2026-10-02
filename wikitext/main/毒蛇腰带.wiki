@@ -1,0 +1,15 @@
+{{魔法物品
+|name=毒蛇腰带
+|english_name=Serpent Belt
+|aon=MagicWondrousDisplay.aspx?FinalName=Serpent Belt
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=腰部
+|price=9,000 gp
+|weight=1磅
+|description=这条腰带的穿戴者在对抗毒素的豁免上获得+4加值，脱逃检定获得+2加值。此外，每天一次，腰带可以应命令活化为一条毒蛇或大蟒，服从活化者的口头命令，最多持续1小时。如果活化的蛇被杀死，或移动到离活化者100尺以外，这条蛇就会变回腰带形态。
+|req=[[制造奇物]]、[[野兽形态 I]]、[[中和毒性]]、[[召唤自然盟友 II]]
+|cost=4,500 gp
+|source=极限宝具
+}}

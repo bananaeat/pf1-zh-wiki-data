@@ -1,0 +1,19 @@
+{{魔法物品
+|name=熵光之尘
+|english_name=Entropic Dust
+|aon=Necrotoxins.aspx#Entropic Dust
+|cat=死灵毒素
+|aura=微弱死灵系
+|cl=3
+|price=1,500 gp
+|description=这种白色的沙砾会妨碍受害者的神圣力量。
+
+'''类型''' 毒药，吸入；'''豁免''' 强韧 DC 18
+
+'''发作频率''' 每轮1次，持续6轮
+
+'''效果''' 1d2点魅力伤害；在毒药持续期间，受害者必须通过一次DC等于该毒药豁免DC的专注检定，才能引导正能量或使用圣疗；'''治愈''' 1次豁免
+|req=[[制造奇物]]、[[亵渎术]]
+|cost=750 gp
+|source=黑市指南
+}}

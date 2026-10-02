@@ -1,0 +1,14 @@
+{{Feat
+|name=开朝之君
+|english_name=Dynasty Founder
+|categories=故事
+|pfs=否
+|description=你将宣称对一座城市的统治权——无论作为更大政权的下属还是独立统治者。
+|prerequisites=必须在所选城市居住至少1年，或是前任城市领袖的继承人。
+|benefit=你获得追随者，如同拥有[[领导力]]专长，但无法吸引等级高于你等级-2的追随者。若你已拥有领导力专长，则计算追随者数量时领导力值+3。
+|special=若团队使用《Pathfinder RPG[[极限战役]]》的[[构筑王国]] (Kingdom Building)规则，可选择用建立[[定居点]]的规则来完成此[[故事专长]]目标。 推荐背景：盛气凌人(Domineering), Inspiring, [[领袖派]]APG
+|goal=妨害所有对所选地区统治权的竞争者，其中至少包括一名强大敌手。
+|completion_benefit=你获得该定居点的控制权（见《Pathfinder RPG GameMastery Guide》定居点规则）。获得此收益时及之后每年一次，你可通过以下方式尝试改变定居点（需进行DC 25的交涉检定，并经过定居点修正项社交（Society）调整；或DC 25的威吓检定，并经过定居点修正项秩序（Law）调整）：<br>・将定居点阵营沿善良-邪恶或守序-混乱轴线移动1步，使其更接近你的阵营<br>・将一项定居点特质替换为另一项<br>・改变政府类型<br>・深刻地更改法律<br>若检定失败，代表城市民意成功抵制了你的改革。 此外，你的追随者只要能看到你，便能在攻击骰与豁免检定上获得+1士气加值。
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/zhef0bc5c087.htm
+}}

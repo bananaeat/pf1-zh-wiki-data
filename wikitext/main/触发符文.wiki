@@ -1,0 +1,15 @@
+{{魔法物品
+|name=触发符文
+|english_name=Rune of Contingency
+|aon=MagicThassilonianRunes.aspx#Rune of Contingency
+|cat=瑟西隆语符文
+|aura=中等变化系
+|cl=7
+|slot=符文
+|price=147,000 gp
+|weight=—
+|description=每天一次，这枚符文的持有者可以获得[[羽落术]]和[[水中呼吸]]的效果。此外，如果他的生命值降到0点或以下但没有被杀死，他会如同[[气化形体]]法术一般，化作一团水汽，持续5轮。在此期间他保持清醒，但5轮后恢复原形，陷入昏迷并濒死。
+|req=[[铭刻符文]]、[[羽落术]]、[[气化形体]]、[[水中呼吸]]
+|cost=73,500 gp、5,880 XP
+|source=冒险之路5：救世者的原罪
+}}

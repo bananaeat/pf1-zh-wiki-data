@@ -1,0 +1,44 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=遗弃弩手
+|english_name=Forsaken Arbalester
+|cr=3
+|xp=800
+|alignment=守序邪恶
+|size=中型
+|type=不死生物
+|init=+5
+|senses=黑暗视觉 60 尺；察觉 +7
+|description=一道诡异的绿光从这具腐朽士兵的骨质眼窝中放出。它身穿腐烂的军服，携着一把巨大的弩。
+|ac=16，接触 11，措手不及 15（+5 护甲，+1 敏捷）
+|hp=27（6d8）
+|fort=+2
+|ref=+3
+|will=+6
+|dr=5/钝击或挥砍
+|immune=不死特性
+|speed=20 尺
+|melee=短剑 +4（1d6/19–20）
+|ranged=精制连发重弩 +6（1d10/19–20）
+|special_attacks=急速射击
+|str=10
+|dex=13
+|con=—
+|int=11
+|wis=12
+|cha=13
+|bab=+4
+|cmb=+4
+|cmd=15
+|feats=[[精通先攻]];[[近距射击]];[[精准射击]]
+|skills=[[知识]]（工程）+3;[[察觉]] +7;[[职业]]（士兵）+7
+|languages=通用语;吉斯塔克语
+|environment=任意废墟（切利亚斯或拉哈多姆）
+|organization=单独，小队（2–10），或连队（12–24 名遗弃弩手、遗弃守卫和遗弃步兵）
+|treasure=标准（鳞甲，短剑，带 20 支弩矢的精制连发重弩）
+|special_abilities={{怪物能力|急速射击|Su|作为整轮动作，遗弃弩手可以用其连发重弩共进行三次攻击，每次攻击都使用完整的基础攻击加值。它可以随时以自由动作给弩匣装填新的弩矢，此动作不引发借机攻击。}}
+|source=冒险之路102：碎裂地狱之骨
+|lore=这些士兵生前是操作各种远程武器的专家，其中包括古代吉斯塔克的攻城器械。遗弃军团那不洁的力量让这些弩手能以超自然的速度射出幽灵般的弩矢，而又不牺牲准头。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Forsaken Arbalester|2=Forsaken Arbalester}}

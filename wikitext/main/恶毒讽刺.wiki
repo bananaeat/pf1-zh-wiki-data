@@ -1,0 +1,10 @@
+<noinclude>{{侠客导航}}
+'''恶毒讽刺'''（Mockery, Ex）是[[侠客]]的[[侠客天赋]]。
+
+</noinclude>{{Source|间谍大师手册|Spymaster's Handbook|inline}}
+
+效果：侠客获得[[嘲讽]]UM作为[[奖励专长]]。他可以每天对同一个生物使用2次嘲讽的威吓模式（而不是只有1次）。在12级时，嘲讽的威吓模式持续的时间等同于侠客的魅力调整（最小为1）的轮数。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh62263cd083.htm 原文]）。全部侠客天赋见 [[:分类:侠客天赋|分类:侠客天赋]]。
+
+[[分类:侠客天赋]]</noinclude>

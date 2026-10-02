@@ -1,0 +1,9 @@
+{{Trait
+|name=内部知识
+|english_name=Insider Knowledge
+|type=派系
+|description=冒险队长瓦尔辛喜欢时刻掌握[[探索者协会]]的所有情况，而你尽自己的最大努力来效仿他。在交涉或知识(本地)技能中选择一个。你在所选技能检定上获得+1背景加值，且该技能视为你的[[本职技能]]。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

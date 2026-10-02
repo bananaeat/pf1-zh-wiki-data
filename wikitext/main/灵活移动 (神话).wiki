@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[灵活移动]] 的神话版本。</small></div>
+{{Feat
+|name=灵活移动
+|english_name=Mobility
+|categories=神话
+|description=你在战场中反转腾挪的技巧已经炉火纯青，甚至能够巧妙地借助他人攻击的势头走得更远。
+|prerequisites=[[灵活移动]]
+|benefit=每当你使用[[灵活移动]]专长时，你的AC获得+6闪避加值，以取代原本的+4点。此外，每轮1次，当1次因为你的移动而引起的[[借机攻击]]没有命中你的时候，你能够以[[自由动作]]移动5尺。这次移动不会算在该轮内的总移动距离内，不过它仍会引起借机攻击。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

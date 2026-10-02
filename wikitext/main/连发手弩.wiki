@@ -1,0 +1,17 @@
+{{武器
+|name=连发手弩
+|english_name=Repeating hand crossbow
+|category=武器
+|prof=异种
+|wcat=远程
+|price=800 gp
+|weight=4磅
+|dmg_s=1d3
+|dmg_m=1d4
+|crit=19–20/×2
+|range=30尺
+|type=穿刺
+|groups=弩
+|description=这件武器的功能与[[连发重弩]]完全相同，只是其伤害、重击和射程数据改为与[[手弩]]相同。
+|source=极限宝具、远程战术工具箱
+}}

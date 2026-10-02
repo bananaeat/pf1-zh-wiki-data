@@ -1,0 +1,9 @@
+{{Trait
+|name=有鳞同盟
+|english_name=Scaly Ally
+|type=宗教
+|prerequisites=信仰[[阿普苏]]
+|description=因为你对[[阿普苏]]的信仰，你在与爬行动物或有龙族血脉的生物交涉时获得+2背景加值，无论你交涉的对象是否是善良阵营。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

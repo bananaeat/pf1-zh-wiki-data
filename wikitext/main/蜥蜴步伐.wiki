@@ -1,0 +1,8 @@
+{{狂暴之力
+|name=蜥蜴步伐
+|english_name=Lizard Stride
+|type=Su
+|categories=杂项
+|benefit=狂暴期间，野蛮人冲锋或奔跑时，她可以在水面上移动而不下沉。然而如果她在回合结束时仍站在水面上，就会下沉。
+|source_name=极限荒野
+}}

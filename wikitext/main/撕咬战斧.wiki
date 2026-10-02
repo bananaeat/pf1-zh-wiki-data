@@ -1,0 +1,15 @@
+{{魔法物品
+|name=撕咬战斧
+|english_name=Biting Battleaxe
+|aon=MagicCursedDisplay.aspx?ItemName=Biting Battleaxe
+|cat=诅咒物品
+|base=[[战斧]]
+|enh=+2
+|aura=中等塑能系
+|cl=8
+|slot=无
+|weight=6磅
+|description=这把看起来凶残的+2战斧赐予持有者大顺势斩专长。但使用该专长时，持有者是对一个随机的相邻生物进行额外攻击，而不是自行选择攻击哪个生物。在判定攻击哪个生物时，持有者始终把自己也算作可能的目标，即使他与目标并不相邻。撕咬战斧的持有者必须始终以它作为主要武器，并且必须一有机会就使用大顺势斩，直到受到[[移除诅咒]]或类似效果为止。
+|req=+2[[战斧]]
+|source=极限宝具
+}}

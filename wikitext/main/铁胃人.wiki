@@ -1,0 +1,9 @@
+{{Trait
+|name=铁胃人
+|english_name=Resilient
+|type=战斗
+|description=在穷困环境或贫瘠荒野中长大的你，经常强迫自己摄取来源可疑的食物和水。这磨练了你的勇气，并让你的强韧豁免获得+1背景加值。
+|source_name=战斗背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

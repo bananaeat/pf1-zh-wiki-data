@@ -1,0 +1,16 @@
+{{Feat
+|name=盔甲专攻
+|english_name=Armor Focus
+|categories=战斗
+|description=你特别擅长特定种类的盔甲，你从这类盔甲获得的防护得到了提升。
+|prerequisites=基本攻击加值+1，擅长选定盔甲
+|benefit=选择一种盔甲，比如[[链甲衫]]或者[[板条甲]]。你从选定盔甲上获得的AC加值提升1点。
+|special=你可以选取这个专长多次。但是其效果并不叠加。每次你选取这个专长时，它都会应用到一个新的盔甲类型上。盔甲专攻专长在满足盔甲掌握专长先决条件时视为盔甲训练职业能力，并且会决定你在什么种类的盔甲上可以使用盔甲掌握专长。
+|source=AMH
+|source_name=护甲大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_1089.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[进阶盔甲专攻]]（1 个条目）

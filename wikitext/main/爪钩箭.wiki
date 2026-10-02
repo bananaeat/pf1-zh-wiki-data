@@ -1,0 +1,9 @@
+{{装备
+|name=爪钩箭
+|english_name=Arrow (grappling)
+|cat=冒险装备
+|price=1 gp
+|weight=1/2磅
+|description=这种小[[爪钩]]被设计成系在[[丝绳]]上用弓发射。发射时，其射程增量为30尺。也有用于弩的爪钩箭存在。
+|source=冒险者的军械库、极限宝具
+}}

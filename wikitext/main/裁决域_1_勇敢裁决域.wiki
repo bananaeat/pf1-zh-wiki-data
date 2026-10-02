@@ -1,0 +1,19 @@
+<noinclude>{{审判者导航}}</noinclude>
+{{Source|极限魔法|Ultimate Magic|inline}}
+
+== 勇敢裁决域 (Valor Inquisition) ==
+
+神祇：[[凯登·凯连]]、[[埃拉斯蒂尔]]、[[艾奥梅黛]]、[[塞恩蕾]]。
+
+领域力量：面对信仰之敌需要勇气。
+
+=== 坚毅之触 (Touch of Resolve, Sp) ===
+
+每日“3+感知修正”次，你可以对一个生物使用[[移除恐惧]]。
+
+=== 无畏 (Fearless, Su) ===
+
+8级时，你免疫恐惧。
+
+<noinclude>[[分类:审判者]]
+{{职业}}</noinclude>

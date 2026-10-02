@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=高等天界之血
+|english_name=Celestial Blood, Greater
+|type=Su
+|categories=血脉
+|prerequisites=[[野蛮人]]10级，[[天界之血]]
+|benefit=每次狂暴一次，野蛮人可以重投一次他刚刚作出的属性检定，技能检定或豁免检定。他必须选择第二个检定结果，即使它比原结果更低。他必须在检定已经投出但未宣布结果以前声明使用这一能力。
+|source_name=进阶职业指南
+}}

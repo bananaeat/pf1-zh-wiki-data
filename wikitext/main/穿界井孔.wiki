@@ -1,0 +1,14 @@
+{{魔法物品
+|name=穿界井孔
+|english_name=Well of Many Worlds
+|aon=MagicWondrousDisplay.aspx?FinalName=Well of Many Worlds
+|cat=奇物
+|aura=强烈咒法系
+|cl=17
+|slot=无
+|price=82,000 gp
+|description=这种奇异的跨维度装置看起来和[[携带式次元洞]]一模一样。任何放入其中的东西都会立刻被投往另一个世界——平行世界、另一颗行星或不同的位面（随机选定）。如果井孔被移动，它会通向一个新的位面（同样随机决定）。它可以像携带式次元洞一样被拿起、折叠或卷起。井孔所触及的那个世界中的物体也同样可以轻易地穿过开口——它是一道双向传送门。
+|req=[[制造奇物]]、[[异界之门]]
+|cost=41,000 gp
+|source=核心规则书、极限宝具
+}}

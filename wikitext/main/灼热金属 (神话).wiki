@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[灼热金属]] 的神话版本。</small></div>
+{{Spell
+|name=灼热金属
+|english_name=Heat Metal
+|school=变化系
+|tags=火
+|levels=异能者 2;德鲁伊 2;猎人 2;秘学士 2
+|description=在第二轮与第六轮造成的伤害增加至1d8点火焰伤害，在第三轮至第五轮，每轮造成的伤害增加至2d8点火焰伤害。在任意一轮内，每当生物由于该法术而受到火焰伤害时，该名生物都必须成功进行反射豁免，否则会被点燃。
+|source=神话冒险
+}}
+[[分类:神话法术]]

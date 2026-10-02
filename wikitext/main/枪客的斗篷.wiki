@@ -1,0 +1,15 @@
+{{魔法物品
+|name=枪客的斗篷
+|english_name=Gunfighter's Poncho
+|aon=MagicWondrousDisplay.aspx?FinalName=Gunfighter's Poncho
+|cat=奇物
+|aura=中等防护系
+|cl=6
+|slot=肩部
+|price=14,000 gp
+|weight=1磅
+|description=编织在这件羊毛斗篷中的防护魔法，不仅能抵御枪火，还能使穿戴者免受危险魔法的影响。穿戴者的接触AC获得+2幸运加值。每天一次，穿戴者可以用一个[[直觉动作]]，使一次以他为目标的远程接触攻击无效，但如果该次攻击是已确认的重击，则不能使用该能力。穿戴者使用该能力时，必须倒地成为[[俯卧]]。
+|req=[[制造奇物]]、[[防弹护盾]]
+|cost=7,000 gp
+|source=极限宝具
+}}

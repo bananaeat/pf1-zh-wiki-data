@@ -1,0 +1,10 @@
+{{Trait
+|name=排外
+|english_name=Xenophobic
+|type=缺陷
+|pfs=否
+|description=你很难理解和信任那些不同习俗和外观的家伙。
+|benefit=你对其他种族的生物或来自不同文化的同类的交涉和察言观色有-2罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

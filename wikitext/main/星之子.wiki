@@ -1,0 +1,10 @@
+{{Trait
+|name=星之子
+|english_name=Starchild
+|type=宗教
+|prerequisites=信仰[[黛丝娜]]
+|description=[[黛丝娜]]感受到了你对旅行的热爱，并允诺你将永远能找到回家的路。你能自动确定北方的方向。你在避免迷路的生存检定中获得+4背景加值。
+|source_name=宗教背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Adventurer's Armory 2 pg. 3），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=密讯高手
+|english_name=Master Messenger
+|type=社会
+|prerequisites=谜港城
+|description=你的秘密信息很少被人误解。如果你为传递一条简单信息而进行的[[唬骗]]检定失败5点或更多，你不会传递出错误的信息，而是没有传递出任何信息。
+|source_name=冒险者的军械库2
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Master%20Messenger
+}}

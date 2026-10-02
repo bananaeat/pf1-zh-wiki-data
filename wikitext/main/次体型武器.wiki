@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''次体型武器'''（Undersized Weapons）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：特性</span></div>
+</noinclude><includeonly><div class="lang"><span id="次体型武器"></span><div class="lang-h"><b>[[次体型武器]]</b><i>Undersized Weapons</i><span class="lang-w">Ex · 特性</span></div><div class="lang-d"></includeonly>
+该生物在使用人造武器时，如同它的体型小一级一般，即使用型号比其体型小一级的武器。
+
+'''格式'''：次体型武器
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Undersized Weapons|2=Undersized Weapons}}
+
+[[分类:通用怪物规则]]</noinclude>

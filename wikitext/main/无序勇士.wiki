@@ -1,0 +1,13 @@
+{{Feat
+|name=无序勇士
+|english_name=Champion of Anarchy
+|categories=阵营
+|pfs=否
+|description=你无论走到哪里都播撒混乱。
+|prerequisites=10生命骰，混乱中立阵营。
+|benefit=你可以储存数量等同于魅力加值（最少1）的阵营确认，并可在任何时候使用，而不限于接下来的24小时内。你可以花费一个阵营确认，以一个[[标准动作]]以类法术能力施放一次[[次等困惑术]]，施法者等级等同你的生命骰。若目标豁免失败，该效果持续1d4轮。你在对抗守序生物时，武器与法术伤害检定获得+2加值。这是一个基于阵营的效果。
+|residual=即使你不再是混乱中立阵营，你仍保留对守序生物造成武器与法术伤害+2的加值。
+|source=PU
+|source_name=解放者
+|source_url=https://pf1chm.pages.dev/topics/zh771c8090a9.htm
+}}

@@ -1,0 +1,18 @@
+{{Spell
+|name=病毒爆发
+|english_name=Virulence
+|school=死灵系
+|tags=邪恶
+|levels=牧师 4;先知 4;战斗祭司 4;女巫 4
+|action=标准动作
+|components=语言;姿势
+|range=40尺
+|area=以你为中心半径40尺爆发范围内的所有活物
+|duration=立即
+|save=见后文
+|sr=是
+|description=范围内的所有活物，包括你自己，必须立即对他们感染的任何和所有疾病进行豁免投骰，即使发病时间尚未到达，在这次尝试中要承受-2的减值。豁免失败时，[[苦难]]会产生通常的效果。成功的豁免也不会计入治愈苦难所需的次数。
+|source=冒险之路81：流沙
+}}
+
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/zhc84ae04f22.htm 原文]），按 AoN 核对过。</small>

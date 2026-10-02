@@ -1,0 +1,43 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=圣甲虫
+|english_name=Scarab Beetle
+|cr=6
+|xp=2,400
+|alignment=绝对中立
+|size=大型
+|type=虫类
+|init=+1
+|senses=黑暗视觉 60 尺；察觉 +0
+|description=这只光滑的蓝黑色甲虫有一头牛那么大。
+|ac=20，接触 10，措手不及 19（+1 敏捷，+10 天生，–1 体型）
+|hp=67（9d8+27）
+|fort=+9
+|ref=+4
+|will=+3
+|immune=死亡效应;疾病;心智效果;麻痹
+|speed=40 尺，攀爬 20 尺，飞行 20 尺（普通机动性）
+|melee=啮咬 +11（1d8+9 外加啃噬）
+|space=10 尺
+|reach=5 尺
+|str=23
+|dex=12
+|con=16
+|int=–
+|wis=10
+|cha=1
+|bab=+6
+|cmb=+13
+|cmd=24（对抗摔绊 32）
+|skills=[[攀爬]] +14;[[飞行]] –1
+|environment=温暖沙漠（奥西里昂）
+|organization=单独或群（3–9）
+|treasure=无
+|special_abilities={{怪物能力|啃噬|Ex|圣甲虫啮咬成功时造成 1 点力量伤害。对没有护甲或天生护甲 AC 加值的生物，这一伤害加倍；但穿着重甲或天生护甲加值达到 +10 或更高的生物免疫，免疫重击的生物和没有血肉的生物也免疫。}}
+|source=Inner Sea Bestiary
+|lore=
+在奥西里昂，这些巨大的甲虫会一路啃穿埋葬的死者，对古代陵墓构成威胁。有人说，圣甲虫与亡者的联系赋予了它们比普通甲虫更强大的力量，但这方面的任何证据都尚未得到证实。商人们则声称，粉末状的圣甲虫是抵御死亡效应的魔法中必不可少的成分。
+}}
+
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Scarab Beetle|2=Scarab Beetle}}

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Antihero's Handbook pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=阴招老手
+|english_name=Dirty Trickster
+|type=战斗
+|description=你很早就明白，当你为活命而战时，公平较量毫无意义。别人或许会对你的战术嗤之以鼻，但你知道，若不打破几条公平竞争的惯例，你不可能活到今天。你可以无视先决条件选取[[精通阴招]]专长，并且你在尝试阴招的战技检定上获得+1背景加值。
+|source_name=反英雄手册
+|source=A'sH
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Dirty%20Trickster
+}}

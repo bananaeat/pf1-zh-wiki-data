@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Night pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=桀骜难驯
+|english_name=Stubborn
+|type=种族
+|pfs=否
+|prerequisites=[[吸血鬼]]（维塔拉血族）
+|description=你内心那个愤怒的孩子支撑着你的意志，你常常表现得全然桀骜不驯。你在对抗控制你的企图（例如[[命令死灵(法术){{!}}命令死灵]]、[[死灵定身术]]，或为驱散或控制不死生物而引导的能量）时，豁免检定获得+2背景加值。
+|source_name=夜之血脉
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Stubborn
+}}

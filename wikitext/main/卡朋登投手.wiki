@@ -1,0 +1,10 @@
+{{Trait
+|name=卡朋登投手
+|english_name=Carpenden Lobber
+|type=地区
+|prerequisites=卡朋登（安多安境内）
+|description=你经常参加月瓜节，这让你在投掷无害物品这方面非常有效。当你在投掷不造成正常HP伤害(例如造成非致命伤的武器或例如[[绊足包]]和[[爆雷石]]等等)的道具时，攻击骰获得+2背景加值。
+|source_name=安多安，自由之魂
+|source=ASoL
+|source_url=https://pf1chm.pages.dev/topics/zh527590c930.htm
+}}

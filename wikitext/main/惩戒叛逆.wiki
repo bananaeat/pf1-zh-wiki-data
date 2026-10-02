@@ -1,0 +1,10 @@
+{{Trait
+|name=惩戒叛逆
+|english_name=Punish Insurrection
+|type=战斗
+|pfs=否
+|description=你喜欢提醒其他人谁才是老大。对同一组织或体系中正式听命于你的成员，你在攻击检定和伤害骰上获得+1背景加值。对于公开违抗该组织权威或规章的成员，只要其违抗行为严重到使其地位如今低于你，你也能获得此加值。
+|source_name=秽邪勇士
+|source=战斗
+|source_url=https://pf1chm.pages.dev/topics/zh2cdfe76676.htm
+}}

@@ -1,0 +1,12 @@
+{{消歧义|剥皮叶}}
+{{危害
+|name=剥皮叶
+|english_name=Flayleaf
+|kind=毒品
+|type=吸入、摄入
+|addiction=轻度，强韧 DC 12
+|effect=1小时：对抗影响心灵效果的豁免检定获得+2炼金加值，并处于[[疲乏]]状态
+|damage=1点感知伤害
+|price=10 gp
+|source=游戏主持人指南
+}}

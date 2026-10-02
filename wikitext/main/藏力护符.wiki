@@ -1,0 +1,14 @@
+{{魔法物品
+|name=藏力护符
+|english_name=Amulet of Hidden Strength
+|aon=MagicWondrousDisplay.aspx?FinalName=Amulet of Hidden Strength
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=颈部
+|price=9,000 gp
+|description=这枚玻璃泪珠挂在一条白金链上，每天可以使用一次，赋予一阵力量的涌动。这阵涌动可以用于两种方式之一。以一个[[迅捷动作]]，护符的佩戴者可以以自己最高的攻击加值进行一次近战或远程攻击。或者，如果佩戴者拥有[[武僧#气运丹田|气池]]，他也可以以一个[[整轮动作]]集中精神于护符的力量，恢复2点气。
+|req=[[制造奇物]]、制造者必须拥有[[武僧#气运丹田|气池]]
+|cost=4,500 gp
+|source=极限宝具
+}}

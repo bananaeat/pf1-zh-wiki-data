@@ -1,0 +1,17 @@
+{{Feat
+|name=擅长重型盔甲
+|english_name=Armor Proficiency, Heavy
+|categories=战斗
+|description=你对于穿戴[[重型盔甲]]颇有心得。
+|prerequisites=[[擅长轻型盔甲]]，[[擅长中型盔甲]]。
+|benefit=见[[擅长轻型盔甲]]。
+|normal=见擅长轻型盔甲。
+|special=对于战士和圣武士，“擅长重型盔甲”作为[[奖励专长]]自动学会，他们无需选择这个专长。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[地狱骑士庇佑]]、[[持节士披甲训练]]（2 个条目）

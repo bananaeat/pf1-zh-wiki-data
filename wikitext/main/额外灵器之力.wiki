@@ -1,0 +1,11 @@
+{{Feat
+|name=额外灵器之力
+|english_name=Extra Focus Power
+|description=你从灵器中获得一项额外的灵器之力。
+|prerequisites=灵器之力职业能力
+|benefit=你获得一个额外的灵器之力，该项灵器之力要从你已经选取的[[灵器学派]]中选择。你必须选择已经满足先决条件的灵器之力。
+|special=对于每个已知的灵器学派，你可以选择一次该专长，至多为18级时的7次。每当你这么做时，都必须选择一项不同的灵器之力。若你多次选择了相同的灵器学派，那么每一次你选择该学派时，都可以从该学派中选择一项灵器之力。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

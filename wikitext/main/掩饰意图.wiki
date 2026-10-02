@@ -1,0 +1,11 @@
+{{Feat
+|name=掩饰意图
+|english_name=Masked Intent
+|description=被面具覆盖的面容令你的意图几乎无法被辨别。
+|prerequisites=无名之人
+|benefit=当处于无名之人的专长效果下时，你的意图变得令人难以解读。你在对抗性的唬骗检定上获得+4环境加值，并且尝试通过交涉收集关于你的信息的交涉检定，了解你、你的能力或弱点的相关知识技能检定，或者辨识你施放的法术或类法术能力的法术辨识检定的DC+4。如果你在上述任一技能上有10级或更多等级，这些技能上的加值或相关检定的DC增加会提升至+8。
+|extra=译注：唬骗的技能检定中有两处用法提到了它是一项对抗性技能检定，两处均对抗目标的察言观色能力，分别是令目标相信你说的是真实的（出自 PRPG Core Rulebook pg. 90 ）和让你的行动看起来不引人注意（出自 Spymaster's Handbook pg. 8 ）。
+|source=AA
+|source_name=秘术选集
+|source_url=https://pf1chm.pages.dev/topics/zh9e110583ac.htm
+}}

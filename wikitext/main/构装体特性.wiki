@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''构装体特性'''（Construct Traits）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：免疫</span></div>
+</noinclude><includeonly><div class="lang"><span id="构装体特性"></span><div class="lang-h"><b>[[构装体特性]]</b><i>Construct Traits</i><span class="lang-w">Ex · 免疫</span></div><div class="lang-d"></includeonly>
+构装体免疫死亡效果、疾病、影响心灵效果 (魅惑、胁迫、士气效果、心灵幻觉以及魅影幻觉)、死灵系效果、[[麻痹]]、毒素、睡眠、[[震慑]]和任何需要强韧检定的效果 (除非该效果同样作用于物体或者无害)。构装体不受属性伤害、属性吸取、[[能量吸取]]、[[力竭]]、[[疲乏]]或[[非致命伤害]]影响。构装体不会因为巨创而死亡。
+
+'''格式'''：构装体特性
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Construct Traits|2=Construct Traits}}
+
+[[分类:通用怪物规则]]</noinclude>

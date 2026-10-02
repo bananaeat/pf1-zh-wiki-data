@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=恶魔图腾
+|english_name=Fiend Totem
+|type=Su
+|categories=图腾
+|prerequisites=[[野蛮人]]6级，[[次等恶魔图腾]]
+|benefit=狂暴时，数十根邪恶的倒钩从野蛮人的身体窜出。任何对野蛮人使用近战武器、天生武器或[[徒手攻击]]的生物会受到1d6点穿刺伤害。
+|source_name=进阶玩家指南
+}}

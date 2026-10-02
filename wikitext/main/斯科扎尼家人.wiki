@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Rise of the Runelords Anniversary Edition Player's Guide pg. 4），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=斯科扎尼家人
+|english_name=Family Ties (RotRL)
+|type=战役
+|pfs=否
+|description=你虽然并非瓦瑞西安族裔，却是在瓦瑞西安人中长大的，他们把你当作自己人。此外，你设法与一伙斯科扎尼人搞好了关系，并把他们视为你的新家人。你的斯科扎尼家人被赶出上一处扎营地之后，你追寻到了砂点镇的一位世交——胖子饲料袋的一个名叫朱布雷尔·维斯基的冷酷打手。与斯科扎尼人相处的日子里，你学到了几手行当里的门道。你在[[知识]]（本地）检定上获得+1背景加值，并且知识（本地）始终是你的[[本职技能]]。此外，你开局时就会说、会读瓦瑞西亚语。
+|source_name=Rise of the Runelords Anniversary Edition Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Family%20Ties%20%28RotRL%29
+}}

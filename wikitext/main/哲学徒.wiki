@@ -1,0 +1,9 @@
+{{Trait
+|name=哲学徒
+|english_name=Student of Philosophy
+|type=社会
+|benefit=你曾受到一个不复存在的哲学传统训练-例如现已毁灭的加尔坦大学或勒根人占星者的传统-并且学会使用逻辑和道理去说服别人，你可以用智力代替魅力来进行劝说他人的交涉和欺骗他人的[[唬骗]]。(这个背景并不作用于收集信息的交涉和战斗中的[[虚招]]。)
+|source_name=任务与战役
+|source=任务与战役Quests and Campaigns
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

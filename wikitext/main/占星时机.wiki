@@ -1,0 +1,9 @@
+{{Feat
+|name=占星时机
+|english_name=Astrological Timing
+|description=你可以根据与篷车星系有关的行星运动来进行更精确的占卜。
+|prerequisites=能够以法术或类法术能力施放[[占卜术]]
+|benefit=你可以使用一个宇宙图或星图作为[[占卜术]]的可选器材。当你这样做的时候，占卜术可以预测到未来一小时的结果，并使成功率上升4%，如果使用计算标准型或计算豪华型星象仪作为器材，可以预测到未来一天的结果，并使成功率上升8%。
+|source_name=繁星子民
+|source_url=https://pf1chm.pages.dev/topics/zhb41f657a6d.htm
+}}

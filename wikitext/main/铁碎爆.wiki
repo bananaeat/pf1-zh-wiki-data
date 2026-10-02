@@ -1,0 +1,16 @@
+{{Feat
+|name=铁碎爆
+|english_name=Smashing Crush
+|categories=战斗
+|description=（[[战斗专长]]）
+没有任何器物可以阻挡你毁灭性的破坏。
+|prerequisites=力量13，[[精通击破]]，[[铁碎式]]，对所选武器拥有武器专攻专长
+|benefit=当开启[[铁碎式]]时，每当你成功的通过[[击破]][[战技]]对一个物体造成伤害时，该物品的硬度获得叠加的-1减值，但总数不会超过该物品正常硬度的一半。当这件物品因为击破战技攻击而承受的伤害被修复时，它的硬度也会随之恢复。
+|source=WMH
+|source_name=武器大师手册
+|source_url=https://pf1chm.pages.dev/topics/page_370.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[铁碎牙]]（1 个条目）

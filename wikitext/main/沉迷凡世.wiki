@@ -1,0 +1,14 @@
+{{Feat
+|name=沉迷凡世
+|english_name=Fascinated by the Mundane
+|categories=故事
+|pfs=否
+|description=你对于凡物的观点有一些轻微的扭曲，你会很容易被寻常的工具或者动作所吸引。这个世界似乎在持续地压制你的感官，你挣扎地在这样的世界中找到自己的位置。
+|prerequisites=你必须在你的家系中有一位精类祖先，你还必须拥有精类养子，接触精类，或者接触奇妙生物的背景（分别在极限战役21，30和24）
+|benefit=你在基于魅力的属性检定和除了交涉的技能检定上获得+2加值
+|goal=你必须成功通过五个不同法术的豁免，这些法术须带有情绪UM描述符，或是试图使你陷入着迷状态。
+|completion_benefit=你那种无时无刻的敬畏之情已经在你的掌握之下。你对于基于魅力的技能加值现在可以应用到交涉上。你可以提升你所受到的任何士气加值1点。
+|source=LotFW
+|source_name=第一世界的遗产
+|source_url=https://pf1chm.pages.dev/topics/page_1071.html
+}}

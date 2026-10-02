@@ -1,0 +1,11 @@
+{{Feat
+|name=飞龙翼击
+|english_name=Wyvern Wing
+|categories=战斗
+|description=像飞龙的翅膀那样，这个流派让你能够在移动时攻击。
+|prerequisites=擅长异种武器：长鞭，飞龙狂怒流，飞龙钉刺，特技10级，连打职业能力或疾风连击职业能力
+|benefit=当使用飞龙流专长时，如果你进行连打或疾风连击并采取五尺快步，你可以做一个额外的五尺快步。你只能在你的连击的两次攻击之间来使用这次额外的五尺快步，你也可以连续进行五尺快步而不需要在他们之间进行一次攻击。
+|source=LoD
+|source_name=巨龙遗产
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

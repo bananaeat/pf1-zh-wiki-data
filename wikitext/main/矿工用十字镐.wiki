@@ -1,0 +1,9 @@
+{{装备
+|name=矿工用十字镐
+|english_name=Miner's pick
+|cat=冒险装备
+|price=3 gp
+|weight=10磅
+|description=若在战斗中使用矿工用十字镐，将其视为双手临时武器，它造成与同体型的重型镐相同的穿刺伤害。
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,11 @@
+{{武器
+|name=灰尘弹
+|english_name=Alchemical cartridge (gray dust)
+|category=火器
+|prof=异种
+|wcat=弹药
+|price=50 gp
+|weight=—
+|description=这种子弹装有来自法力废土的神秘抑法尘埃，在受到冲击时会爆炸并妨碍施法。灰尘弹仅造成一半伤害，但被命中的生物在施法时的专注检定承受-10减值，且不能[[防御式施法]]，持续1d4轮。
+|source=格拉利昂的英雄
+}}

@@ -1,0 +1,12 @@
+{{消歧义|不动如山(进阶盔甲训练)}}
+{{Feat
+|name=不动如山
+|english_name=Steady Engagement
+|categories=战斗
+|description=你能借助出色的平衡，在对手试图脱离接触时将其[[摔绊]]或[[卸武]]。
+|prerequisites=信仰义洛理，[[战斗反射]]，[[通行禁止]]
+|benefit=如果你通过[[通行禁止]]专长阻止了敌人的移动，那么你可以以一个[[直觉动作]]对目标进行一次[[卸武]]或摔绊[[战技]]攻击。
+|source=FoP/FoB/FoC、ISG
+|source_name=纯善／平衡／堕落信念、内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}

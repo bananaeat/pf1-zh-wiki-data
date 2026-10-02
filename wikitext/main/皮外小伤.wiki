@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=皮外小伤
+|english_name=Flesh Wound
+|type=Ex
+|class=掉链野蛮人
+|benefit=每日一次，野蛮人可以避免一次严重的攻击伤害。她可以做一次强韧检定，检定DC等同于该次伤害数值。如果成功，她将免受此次伤害；如果失败，她只受一半伤害且伤害类型为瘀伤。野蛮人必须在攻击命中后、伤害检定前决定是否使用此能力。野蛮人至少要达到10级后才能选择此狂暴之力。
+|classic=不屈武勇
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

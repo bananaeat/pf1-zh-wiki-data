@@ -1,0 +1,11 @@
+{{Feat
+|name=死战不休
+|english_name=To the Last
+|categories=战斗
+|description=你对战斗的热情使你无视死亡的收割
+|prerequisites=[[顽强]]，[[坚忍]]，信仰古拉姆
+|benefit=当你[[瘫痪]]时，你不会[[恍惚]]，但是进行一个[[标准动作]]仍然会使你受到1点伤害。你也可以进行[[整轮动作]]，但受到2点伤害。
+|source=ISG
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

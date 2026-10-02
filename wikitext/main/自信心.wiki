@@ -1,0 +1,9 @@
+{{Trait
+|name=自信心
+|english_name=Ambitious
+|type=社会
+|description=你在强者面前仍然浑身洋溢着自信——有时是毫无道理的自信。你在试图影响高于自己5个生命骰以上的生物时，交涉检定获得+4背景加值。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

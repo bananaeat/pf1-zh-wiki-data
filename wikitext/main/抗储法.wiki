@@ -1,0 +1,10 @@
+{{Trait
+|name=抗储法
+|english_name=Relic-Proof
+|type=社会
+|description=你的那些实验，无论成败，都让你习惯了储存性魔法的效果，你在对抗法术完成型和法术触发型物品的法术效果时的豁免检定获得+1背景加值。
+
+|source_name=社会背景
+|source=PSP
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

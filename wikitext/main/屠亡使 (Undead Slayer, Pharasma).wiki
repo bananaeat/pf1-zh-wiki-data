@@ -1,0 +1,11 @@
+{{消歧义|屠亡使 (Undead Slayer)}}
+{{Trait
+|name=屠亡使
+|english_name=Undead Slayer (Pharasma)
+|type=宗教
+|prerequisites=信仰[[法莱斯玛]]
+|description=[[法莱斯玛]]的核心教条从幼时起就在影响你，你将不死生物视为必须消灭的可憎秽物，这样他们的灵魂才能够前往彼方接受审判。你对抗不死生物的武器伤害获得+1背景加值。
+|source_name=宗教背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

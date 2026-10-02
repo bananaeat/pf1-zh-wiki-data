@@ -1,0 +1,9 @@
+{{Trait
+|name=大骨架
+|english_name=Big Boned
+|type=种族
+|prerequisites=[[魔裔]]（饥饿之种）
+|description=你的祖先的庞大体型使得你拥有一副异常坚固的骨架。当你使用战技检定闯越敌人时，获得+1背景加值，此外当你对抗摔绊时，[[CMD]]获得+1背景加值。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_832.html
+}}

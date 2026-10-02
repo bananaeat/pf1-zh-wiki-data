@@ -1,0 +1,15 @@
+{{Spell
+|name=群体镇魂歌
+|english_name=Ghostbane dirge, mass
+|school=变化系
+|levels=圣武士 3;吟游诗人 4;歌者 4;先知 5;审判者 5;战斗祭司 5;牧师 5;秘学士 5;萨满 5
+|action=标准动作
+|components=语言;姿势;材料/圣徽（管乐器上的一片旧簧片）
+|range=近距
+|target=1个虚体生物/等级，互相之间不得超过30尺
+|duration=1轮/等级
+|save=意志，通过则无效
+|sr=是
+|description=这个法术工作方式如同[[镇魂曲]]，不过能够影响复数目标。
+|source=进阶玩家指南
+}}

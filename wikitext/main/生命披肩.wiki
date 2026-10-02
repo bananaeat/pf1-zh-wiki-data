@@ -1,0 +1,15 @@
+{{魔法物品
+|name=生命披肩
+|english_name=Mantle of Life
+|aon=MagicWondrousDisplay.aspx?FinalName=Mantle of Life
+|cat=奇物
+|aura=中等死灵系
+|cl=10
+|slot=肩部
+|price=48,000 gp
+|weight=4磅
+|description=这件短披风在光线下微微闪烁。穿戴者免疫不死生物发动的[[能量吸取]]攻击。她仍会受到该攻击的其他效应，但无视其中的能量吸取。如果一具尸体穿着这件披风，则无论出于何种原因都无法起身变成不死生物。这并不妨碍已经是不死生物的生物使用重生之类的能力重返不死状态。
+|req=[[制造奇物]]、[[防死结界]]
+|cost=24,000 gp
+|source=惧怖冒险
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Champions of Balance pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=元素禀赋
+|english_name=Elemental Endowment
+|type=地区
+|prerequisites=奥西里昂
+|description=你将元素生物之间的相互作用视为平衡的典范；你研究过古奥西里昂传统的元素束缚之术，能够汲取其力量。每天一次，当你施展一个具有气、土、火或水描述符的法术时，你可以用一个直觉动作获得等同于该法术等级的临时生命值。此效果持续1分钟。
+|source_name=平衡勇士
+|source=CoB
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Elemental%20Endowment
+}}

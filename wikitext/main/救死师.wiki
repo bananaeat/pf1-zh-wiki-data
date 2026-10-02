@@ -1,0 +1,9 @@
+{{Trait
+|name=救死师
+|english_name=Sacred Touch
+|type=信念
+|description=也许是你的出生受到群星呵护、也许由于你的双亲之一是为天赋异禀的治疗师，你在孩提时便常置身于正能量富集之所。以一个[[标准动作]]，你能够仅通过触碰便使一个[[濒死]]生物的伤势自动稳定。
+|source_name=信念背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

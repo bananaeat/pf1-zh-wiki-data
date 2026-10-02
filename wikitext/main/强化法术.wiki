@@ -1,0 +1,10 @@
+{{Feat
+|name=强化法术
+|english_name=Intensified Spell
+|categories=超魔
+|description=你的法术能够超越通常的制限。
+|benefit=强化法术会使决定法术的伤害骰数的最高施法者等级增加5级。为了从该专长获益，你必须拥有足够的CL来超过最大值。法术的其他变量不受影响，其伤害不受施法者等级调整的法术也不受该专长影响。强化法术占用比法术的实际环级高1环的法术位。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=圣餐
+|english_name=Supernal Feast
+|pfs=否
+|description=你饮下祖先的血液，从而刺激你的愤怒。
+|prerequisites=体质15，[[神裔]]
+|benefit=当你邻接一个善良异界生物，而它受到[[流血]]或[[吸血]]伤害，你会因沐浴在圣洁血液中而获得1点临时生命。此外，以一个[[整轮动作]]，你可以享用一具死亡时间不超过24小时的善良异界生物的尸体。如果你这么做了，你将以每分钟1点的速度获得最大相当于尸体生前生命骰数的临时生命。该专长给予的临时生命持续1d4小时。
+|source_name=天界血脉
+|source_url=https://pf1chm.pages.dev/topics/page_829.html
+}}

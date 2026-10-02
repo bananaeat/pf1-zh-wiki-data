@@ -1,0 +1,11 @@
+{{Feat
+|name=躲避投石
+|english_name=Stone Dodger
+|categories=团队
+|description=通过和一个盟友一起判断来袭攻击的轨迹，你可以更轻松地避免受伤。
+|prerequisites=无
+|benefit=只要你能看到和听到至少一个拥有此专长的盟友，你在对抗投石（或类似形状的投射物，包括攻城武器的远程钝击攻击）攻击时AC+4闪避加值。如果你在拥有此加值时被这些攻击命中，你可以尝试进行一次反射豁免来使该攻击仅造成一半的伤害。此豁免的DC等于投石的远程攻击加值。
+|source=GHH
+|source_name=巨人猎手手册
+|source_url=https://pf1chm.pages.dev/topics/zh804f69f232.htm
+}}

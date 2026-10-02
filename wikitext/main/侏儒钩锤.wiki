@@ -1,0 +1,17 @@
+{{武器
+|name=侏儒钩锤
+|english_name=Gnome hooked hammer
+|category=武器
+|prof=异种
+|wcat=双手
+|price=20 gp
+|weight=6磅
+|dmg_s=1d6/1d4
+|dmg_m=1d8/1d6
+|crit=×3/×4
+|type=钝击或穿刺
+|special=双头，摔绊
+|groups=双头
+|description=侏儒钩锤是一件双头武器——这件天才工具的长柄一端是锤头，另一端则是弧形的镐。锤头的钝面是造成1d6伤害的钝击武器（重击倍率×3），钩侧是造成1d4伤害的穿刺武器（重击倍率×4）。你能将任一端视为主手武器。[[侏儒]]能将钩锤视为军用武器。
+|source=核心规则书、极限宝具
+}}

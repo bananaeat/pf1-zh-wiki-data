@@ -1,0 +1,9 @@
+{{Trait
+|name=忠诚纽带
+|english_name=Loyal Bond
+|type=宗教
+|prerequisites=信仰奎因迪勒
+|description=你在侍奉他人时才能完全发挥你的才能。若你施放的法术以你自身为代价为盟友提供保护(比如[[护卫他人]]),或是持续时间是可分摊到许多人身上(比如[[水中呼吸]]、共用系列法术)的法术的时候你的施法者等级+1。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

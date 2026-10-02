@@ -1,0 +1,10 @@
+<noinclude>{{先知导航}}
+'''墓土之声'''（Voice of the Grave, Su）是[[先知]]的[[秘示域|启示]]，属于[[通灵秘示域]]。
+
+</noinclude>{{Source|异能奥秘|Occult Mysteries|inline}}
+
+你可以如同[[死者交谈]]法术一样与死者交谈，每天的总轮数等于你的[[先知]]等级，这些轮数不必连续。在5级和之后每5级，死亡的生物在对抗此效果的意志豁免上受到-2的可累积减值。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_534.html 原文]）。全部秘示域见 [[:分类:秘示域|分类:秘示域]]。
+
+[[分类:秘示域]]</noinclude>

@@ -1,0 +1,9 @@
+{{Trait
+|name=饱受委屈
+|english_name=Wronged
+|type=宗教
+|prerequisites=信仰[[吉罗娜]]
+|description=你曾因你的性别而被人利用过。你在对与你同一种族的男性生物的察言观色获得+2背景加值，而且他们对你使用威吓时dc+2。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

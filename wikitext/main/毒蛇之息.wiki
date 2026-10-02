@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=毒蛇之息
+|english_name=Viper’s Breath
+|type=Ex
+|categories=进攻
+|prerequisites=[[毒蛇之吻]]
+|benefit=当嘴中含着一剂毒药时，野蛮人可以将这些毒药呼出在15尺锥形范围内。任何被毒素喷雾影响的生物必须通过DC为{毒药DC-4}的豁免检定，否则立刻受到毒素的影响。
+|source_name=阴招战术工具箱
+}}

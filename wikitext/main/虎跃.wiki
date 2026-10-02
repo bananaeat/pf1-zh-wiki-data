@@ -1,0 +1,11 @@
+{{Feat
+|name=虎跃
+|english_name=Tiger Pounce
+|categories=战斗
+|description=你的[[徒手打击]]既精准又强力，但会让你门户大开，同时你能以迅雷不及掩耳之势追击对手。
+|prerequisites=[[精通徒手打击]]，[[猛力攻击]]，[[虎形拳]]，[[虎爪功]]，基本攻击加值+9或武僧8级。
+|benefit=当你处于[[虎形拳]][[流派]]架势时获得以下好处：在使用[[猛力攻击]]专长时，你可以通过降低AC而不是降低AB来换取额外伤害。每轮1次，如果你在这一轮或上一轮用徒手打击命中一个对手或对其使用[[战技]]成功，以一个[[迅捷动作]]，你可以用一半移动速度向该对手移动。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

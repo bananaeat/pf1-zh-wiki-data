@@ -1,0 +1,15 @@
+{{魔法物品
+|name=慈悯骑士护腕
+|english_name=Bracers of the Merciful Knight
+|aon=MagicWondrousDisplay.aspx?FinalName=Bracers of the Merciful Knight
+|cat=奇物
+|aura=中等咒法系
+|cl=9
+|slot=腕部
+|price=15,600 gp
+|weight=1磅
+|description=这对金色护腕上雕刻着天界生物的图样。当穿戴者是圣武士时，在决定圣疗职业能力的每日使用次数和所提供的治疗量时，视为职业等级高4级。此外，每天1次，穿戴者可以为一次圣疗注入额外的力量，使其同时提供如同[[次等复原术]]法术的缓解效果。
+|req=[[制造奇物]]、[[治疗重伤]]、[[次等复原术]]
+|cost=7,800 gp
+|source=极限宝具
+}}

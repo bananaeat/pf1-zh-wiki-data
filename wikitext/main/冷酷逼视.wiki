@@ -1,0 +1,11 @@
+{{Feat
+|name=冷酷逼视
+|english_name=Icy Stare
+|pfs=否
+|description=你的双眼闪烁着严寒，只需一瞪便可让敌人在冰冻中颤抖
+|prerequisites=霜生种，霜巨人
+|benefit=以一个标准动作，你可以用酷寒的视线扫向一个10尺内的生物或物体，这些生物或物体必须通过一个DC=（10+你的HD的一半+你的魅力调整值）的强韧检定（无主物体不能进行豁免检定），否则承受1d6点寒冷伤害。受到伤害的生物还必须通过一次强韧豁免，否则承受1点力量伤害。注意，这个专长不会真的给予你凝视攻击——敌人和盟友不会在和你视线相交时受到任何威胁。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1403.html
+}}

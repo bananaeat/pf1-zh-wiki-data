@@ -1,0 +1,10 @@
+{{Feat
+|name=两种命运之子
+|english_name=Child of Two Fates
+|description=你已经学会了充分利用你那撕裂的生活。
+|prerequisites=[[知识]]（本地）5级，半精灵。
+|benefit=每日1次，你可以选择距你30尺内的一名[[人类]]或[[精灵]]盟友的某个[[团队专长]]。你可以获得该专长，且忽略该专长先决条件中的任何种族、民族、或[[种族特性]]，但仍需满足该专长的任何其他先决条件。只要你与你选择模仿的盟友保持在30尺之内的话，你就会在至多1分钟内，被视为拥有该专长。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

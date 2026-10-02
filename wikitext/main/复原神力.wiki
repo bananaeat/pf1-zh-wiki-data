@@ -1,0 +1,15 @@
+{{Spell
+|name=复原神力
+|english_name=Restore mythic power
+|school=变化系
+|levels=通灵者 2;先知 3;吟游诗人 3;奥能师 3;女巫 3;异能者 3;战斗祭司 3;术士 3;歌者 3;法师 3;牧师 3;红螳螂杀手 3
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=你与1个神话生物
+|duration=立即
+|save=意志，通过则无效（无害）
+|sr=是
+|description=通过将你的手放在目标身上，你能够将自身的一部分神话力量传输到目标身上。你花费3次你的神话之力，以此来恢复目标的1次神话之力。
+|source=神话冒险
+}}

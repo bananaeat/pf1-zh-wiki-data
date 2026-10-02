@@ -1,0 +1,29 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Inner Sea Bestiary
+|authors=Jim Groves、James Jacobs、Robert G. McCreary、Erik Mona、Jason Nelson、Patrick Renie、James L. Sutter、Russ Taylor、Greg A. Vaughan、F. Wesley Schneider
+|pages=64
+}}
+
+{{书页/简介|head=怪物特辑！|1=
+本书收录了数十种在内海地区发现的新怪物——全都是专为探索者战役设定发明的！其中一些，例如纽梅利亚的[[齿轮人]]，或是侍奉梦之女神的蛾形[[星辰君主]]，已在探索者战役设定的书中被多次提及；但另一些，例如异界的[[颓唐薄暮]]（vespergaunt），或拉哈杜姆沙漠中的[[旋口怪]]，此前只被侧面描绘或提及过。还有一些——例如神秘而古老的[[帷幕尊主]]，以及令人不安地迷人的[[真菌女王]]——则是在 Paizo 办公室战役中首次登场之后，第一次在印刷品中出现。
+
+《内海怪物图鉴》探索了格拉利昂一些最独特的怪物。本书中你将找到：
+
+* 挑战等级从 1/3（如神秘的[[绪任克斯枭族(怪物)|绪任克斯]]（syrinx））到 25（强大的地狱公爵洛尔萨克特（Lorthact））的新怪物。
+* 三种新的怪物模板：外来的、吸取心智的[[维塔拉(怪物)|维塔拉]]（vetala）吸血鬼，牙林（Fangwood）的[[荒疫化精类]]，以及法力废土（Mana Wastes）上扭曲的变种人。
+* 五个可供你定制为反派的 0 HD 新种族——如果适合你的游戏，也可以作为角色来玩！
+* 既有仁善也有毁灭性的存在——共 48 种——随时准备在任何开拓者游戏中挑战冒险者！
+}}
+
+'''内海怪物图鉴'''（''Inner Sea Bestiary''）是《探索者战役设定》系列的一本设定集，由 Jim Groves、James Jacobs 等 10 位作者撰写，于 2012 年 11 月 15 日出版。
+
+{{书页尾
+|pfw=Inner Sea Bestiary
+|releases=PDF¦PZO9251E¦2012-11¦；Softcover¦PZO9251¦2012-11¦978-1-60125-468-9
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

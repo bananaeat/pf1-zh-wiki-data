@@ -1,0 +1,15 @@
+{{魔法物品
+|name=不倦寻路仪
+|english_name=Tireless Wayfinder
+|aon=MagicWondrousDisplay.aspx?FinalName=Tireless Wayfinder
+|cat=奇物
+|aura=微弱咒法系
+|cl=5
+|slot=无
+|price=5,000 gp
+|weight=1磅
+|description=不倦寻路仪拥有抛光的铜质外壳和银质机芯。除了寻路仪的一般功能（包括发光的能力）之外，不倦寻路仪的持有者还能将[[疲乏]]或[[力竭]]状态带来的力量和敏捷减值减半，并且在对抗会造成疲乏或力竭的效果时，所有豁免检定获得+2抗力加值。不倦寻路仪必须在某个生物的持有下满整整一周，这些益处才会生效；如果它离开该生物的持有超过1小时，这些益处就会失去。
+|req=[[制造奇物]]、[[光亮术]]、[[次等复原术]]
+|cost=2,500 gp
+|source=探索者协会战地指南
+}}

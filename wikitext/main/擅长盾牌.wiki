@@ -1,0 +1,16 @@
+{{Feat
+|name=擅长盾牌
+|english_name=Shield Proficiency
+|categories=战斗
+|description=你受过如何正确使用盾牌的训练。
+|benefit=当你使用盾牌（[[塔盾]]除外）时，盾牌的防具检定减值只用于基于力量和敏捷的技能。
+|normal=当你使用不擅长的盾牌时，你在攻击检定和所有涉及移动的技能检定上承受盾牌的防具检定减值。
+|special=野蛮人、吟游诗人、牧师、德鲁伊、战士、圣武士和游侠都自动获得擅长盾牌做为[[奖励专长]]。他们不需选择它。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[盾牌专攻]]、[[盾牌大师]]、[[盾牌猛冲]]、[[高等盾牌专攻]]、[[高等盾牌专精]]（5 个条目）

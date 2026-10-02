@@ -1,0 +1,11 @@
+{{Feat
+|name=复原活力
+|english_name=Restorative Vigor
+|categories=战斗
+|description=你使用你的活力从多种类型的伤害中恢复过来。
+|prerequisites=[[体质]] 15，战斗活力*，人物等级8
+|benefit=你的活力池获得1点活力点。每当你花费活力点，你可以恢复1D3点的肉体[[属性伤害]]（力量，敏捷，体质）而不是恢复1D6生命值。你可以分开选择每一点活力点的使用方式。例如，如果你花费了2点活力点，你可以恢复2D6生命值；恢复最多两个肉体属性2D3点的属性伤害；或者恢复1D6生命值和恢复一个肉体属性1D3点属性伤害。
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_704.html
+}}

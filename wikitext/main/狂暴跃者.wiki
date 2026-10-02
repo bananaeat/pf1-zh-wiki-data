@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=狂暴跃者
+|english_name=Raging Leaper
+|type=Ex
+|class=掉链野蛮人
+|benefit=野蛮人在进行跳跃的特技检定中总被视为已经助跑，她还会在跳跃的特技检定中获得+8的增强加值。最后，如果野蛮人坠落，她在计算受到的伤害时的坠落距离被视为总坠落距离的一半。
+|classic=狂暴跳跃
+|source_name=解放者
+}}
+
+<small>本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_252.html 原文]）。</small>

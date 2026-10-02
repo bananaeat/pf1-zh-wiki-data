@@ -1,0 +1,10 @@
+{{Feat
+|name=制造合成药物
+|english_name=Craft Pharmaceutical
+|pfs=否
+|description=你了解如何制造高科技合成药物。
+|prerequisites=技师，医疗9级，知识（自然）9级
+|benefit=你可以制造合成药物或毒药。制造价格不高于250GP的化合药物只需要2小时；高于这个价格的合成药物则需要花费价格每价值1000GP/1天的时间。制造化合药物或者毒药需要你支付价格一半的原材料费用。见下文制造高科技物品章以获得更多信息。
+|source_name=科技指南
+|source_url=https://pf1chm.pages.dev/topics/page_762.html
+}}

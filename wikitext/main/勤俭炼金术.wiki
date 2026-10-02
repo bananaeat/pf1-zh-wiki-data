@@ -1,0 +1,10 @@
+{{Trait
+|name=勤俭炼金术
+|english_name=Resourceful Alchemy
+|type=地区
+|prerequisites=出身苏比亚
+|description=炼金术是苏比亚民族自豪感中重要的一部分，这里是著名的太阳兰灵药之乡。但是在荒凉的沙漠地带资源非常难以得到，所以你找到了开创性的方法来制造许多你为了生存所需的工具。你在工艺（炼金术）上获得+2背景加值。当你在使用工艺（炼金术）制造炼金物品时增加为+3。
+|source_name=药剂与毒药
+|source=P&P
+|source_url=https://pf1chm.pages.dev/topics/page_1257.html
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=精灵披风
+|english_name=Cloak of Elvenkind
+|aon=MagicWondrousDisplay.aspx?FinalName=Cloak of Elvenkind
+|cat=奇物
+|aura=微弱幻术系
+|cl=3
+|slot=肩部
+|price=2,500 gp
+|weight=1磅
+|description=这种以精灵设计闻名的披风经过强化，能映照穿戴者周围的环境，帮助他融入任何地形。当穿戴者戴上这件朴素的灰色披风，并把兜帽拉起罩住头部时，他的隐匿检定获得+5表现加值。
+|req=[[制造奇物]]、[[隐形术]]，制造者必须是精灵
+|cost=1,250 gp
+|source=核心规则书、极限宝具
+}}

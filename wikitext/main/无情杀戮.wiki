@@ -1,0 +1,11 @@
+{{Feat
+|name=无情杀戮
+|english_name=Merciless Butchery
+|categories=战斗
+|description=在他们还没缓过气来之前，你就击杀了对你门户大开的敌人。
+|prerequisites=[[慈悯终结]]APG，偷袭+5d6，杀戮目标职业能力
+|benefit=以一个不会引发[[借机攻击]]的[[标准动作]]，你可以对一个作为你杀戮目标且处于[[畏缩]]，[[无助]]或[[震慑]]状态的敌人发动[[致命一击]]。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

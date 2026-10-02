@@ -1,0 +1,9 @@
+{{Trait
+|name=浸毒谋杀
+|english_name=Poisonous Slayer
+|type=宗教
+|prerequisites=信仰[[诺格巴]]
+|description=你知晓恰当的使用一把浸毒的武器的秘诀。当你持用一把涂毒武器时攻击骰获得+1背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

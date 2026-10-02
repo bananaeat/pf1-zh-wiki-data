@@ -1,0 +1,9 @@
+{{Feat
+|name=强健恶臭
+|english_name=Robust Stench
+|description=你糟糕的卫生或许会冒犯你的盟友，但长期暴露其中却使他们习惯并能抵抗其他更为致命的影响。
+|prerequisites=地精
+|benefit=距离你5尺或以内的盟友在强韧豁免检定中获得+2士气加值。当他们距离你超过5尺时该加值即时失去。该加值只适用于曾与你并肩作战至少一次的盟友。
+|source_name=格拉利昂的英雄
+|source_url=https://pf1chm.pages.dev/topics/zh040b2e617a.htm
+}}

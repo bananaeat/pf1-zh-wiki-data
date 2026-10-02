@@ -1,0 +1,10 @@
+{{Feat
+|name=额外誓仇
+|english_name=Extra Death Vow
+|pfs=否
+|description=你的狂怒与战力让你能誓言击杀更多的仇敌。
+|prerequisites=誓仇职业能力。
+|benefit=你获得额外两次誓仇能力的每日使用。
+|source_name=探索者：世界之境1
+|source_url=https://pf1chm.pages.dev/topics/zh491aff0449.htm
+}}

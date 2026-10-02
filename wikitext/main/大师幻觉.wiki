@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=大师幻觉|en=Master's Illusion|type=Sp|domain=诡术领域|source=核心规则书|text=在8级时，你能够用幻术来掩饰自己和30尺内盟友的外表，持续轮数等于你的牧师等级，这些轮数不需连续。看破幻象的豁免DC等于“10+1/2牧师等级+[[感知]]调整值”。除上述外，此能力都与法术[[隐匿之纱]]相同。}}<noinclude>
+
+[[分类:领域]]</noinclude>

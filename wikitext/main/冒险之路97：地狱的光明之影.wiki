@@ -1,0 +1,40 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #97: In Hell's Bright Shadow
+|authors=Crystal Frasier
+|pages=96
+}}
+
+{{书页/简介|head=叛乱开始了！|1=
+金塔格（Kintargo）城长久以来都是艺术家、自由思想者以及被切利亚斯政府压迫而边缘化的人们的避风港，如今却被审判者巴基莱·特鲁恩（Barzillai Thrune）置于戒严之下。当一场抗议演变成暴动，一群新的英雄聚到一起，组建起有组织的抵抗，对抗与魔鬼缔约的政府和[[阿斯莫迪斯]]教会——但他们能活得足够久、建立起盟友吗？还是会成为“三度诅咒”的特鲁恩家族最新的受害者？
+
+本册《冒险之路》开启「地狱叛军」冒险之路，内容包括：
+
+* 《地狱的光明之影》，一部面向 1 级角色的开拓者冒险，作者 Crystal Frasier。
+* 自由奔放的海滨城市金塔格的双倍篇幅地志，作者 Crystal Frasier。
+* 在「探索者日志」中，一位来自卡里（Khari）的瘟疫医生拼命寻找解药，作者 Stephanie Lorée。
+* 一批既有危险、也有益处的怪物，作者 Crystal Frasier、Eric Hindley 和 Michael McCarthy。
+}}
+
+'''冒险之路97：地狱的光明之影'''（''Pathfinder #97: In Hell's Bright Shadow''）是[[冒险之路]]「地狱叛军」系列的第一部冒险，由 Crystal Frasier 撰写，补充内容出自 Eric Hindley 和 Michael McCarthy，小说出自 Stephanie Lorée，于 2015 年 9 月 2 日发售。这部冒险开启了具有里程碑意义的「地狱叛军」冒险之路。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+地狱的光明之影 @ 4
+NPC 图集 @ 52
+金塔格 @ 58
+探索者日志：我们之中的怪物（1／6） @ 74
+怪物图鉴 @ 80
+战役概要 @ 90
+}}
+
+{{书页尾
+|pfw=In Hell's Bright Shadow
+|releases=PDF¦PZO9097E¦2015-09¦；Softcover¦PZO9097¦2015-09¦978-1-60125-768-0
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

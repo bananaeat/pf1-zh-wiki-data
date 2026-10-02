@@ -1,0 +1,10 @@
+{{Trait
+|name=皮塔克斯即兴演奏
+|english_name=Pitaxian Improvisation
+|type=地区
+|prerequisites=皮塔克斯
+|description=你敏捷的双手甚至可以挽救最拙劣的表演。每天1次，在你尝试表演检定之后，GM揭示掷骰结果之前，你可以尝试用一个[[唬骗]]检定，并用其结果来取代之前的表演检定。你必须使用唬骗检定的结果，即使它更低。
+|source_name=河域子民
+|source=PotR
+|source_url=https://pf1chm.pages.dev/topics/zh576fd36972.htm
+}}

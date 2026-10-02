@@ -1,0 +1,10 @@
+{{Feat
+|name=电光怒闪
+|english_name=Lightning Rager
+|description=你的原始直觉可以使你避免被敌人抓住机会。
+|prerequisites=狂暴职业能力
+|benefit=如果你在[[突袭]]轮未能察觉对方，你可以立刻以一个[[直觉动作]]进入狂暴状态。若你这样做，则在突袭轮的剩余时间内，你的防御等级获得+2洞察加值。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

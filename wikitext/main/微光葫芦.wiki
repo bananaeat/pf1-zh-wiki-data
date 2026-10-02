@@ -1,0 +1,15 @@
+{{魔法物品
+|name=微光葫芦
+|english_name=Glowing Gourd
+|aon=MagicWondrousDisplay.aspx?FinalName=Glowing Gourd
+|cat=奇物
+|aura=中等塑能系［善］
+|cl=9
+|slot=无
+|price=4,250 gp
+|weight=8磅
+|description=这个葫芦被掏空后，刻上了一位善良阵营神祇的圣徽。它会如同蜡烛一样发光。如果把葫芦砸在地上，砸碎处周围半径40尺的区域会受到一个固定了[[移除恐惧]]的[[圣居]]法术的影响。这种魔法物品常用南瓜制成，不过其他种类的葫芦，甚至大个的芜菁也可以用。
+|req=[[制造奇物]]、[[圣居]]、[[移除恐惧]]
+|cost=3,125 gp
+|source=进阶职业指南
+}}

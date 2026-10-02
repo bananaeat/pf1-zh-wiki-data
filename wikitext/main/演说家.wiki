@@ -1,0 +1,9 @@
+{{Trait
+|name=演说家
+|english_name=Rousing Oratory
+|type=派系
+|description=你非常擅长在表达自己的主张时引起与听者的共鸣。表演(戏剧、喜剧、演讲或歌唱)成为你的[[本职技能]]。每天一次，你可以花费1分钟时间向60尺内的盟友发表演说、激励他们，之后进行一次DC 15的表演(戏剧、喜剧、演讲或歌唱)检定。如果检定成功，你的盟友在对抗恐惧效果的豁免检定上获得+1背景加值，持续5分钟。如果检定结果超出DC 10点或以上，此加值增加1点。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

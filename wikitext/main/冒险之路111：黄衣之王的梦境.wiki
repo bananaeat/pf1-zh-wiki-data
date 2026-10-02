@@ -1,0 +1,39 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #111: Dreams of the Yellow King
+|authors=Ron Lundeen
+|pages=96
+}}
+
+{{书页/简介|head=做一个小小的梦……|1=
+[[哈斯塔]]的教团不再威胁鸫沼，现在，冒险者们登上前往卡索米尔（Cassomir）的河船，追踪他们那位痴迷而堕落的前雇主。沿途，他们将探索梦境之地，尝试一系列诡异的梦境任务，完成后冒险者们便能治愈支离破碎的心智——但他们也得知，格拉利昂上空正笼罩着一个更大的威胁。他们能在危机四伏的梦境之地中幸存并全身而退，还是会被困在噩梦的维度里？
+
+本册《冒险之路》延续「诡秘万古」冒险之路，内容包括：
+
+* Ron Lundeen 的开拓者冒险《黄衣之王的梦境》（"Dreams of the Yellow King"），适用于 7 级角色。
+* Liz Courts 对阿维斯坦最宽阔的水道塞伦河的全面地志，其中还包括沿其蜿蜒河道航行时可能遇到的额外遭遇。
+* Wendy N. Wagner 在「探索者日志」中带来的穿越黑暗的惊心之旅。
+* 一批恐怖而怪异的怪物，包括一位神秘的旧日支配者，作者 James Jacobs 与 Amber Stewart。
+}}
+
+'''冒险之路111：黄衣之王的梦境'''（''Pathfinder #111: Dreams of the Yellow King''）是[[冒险之路]]「诡秘万古」系列的一部冒险，由 Ron Lundeen 撰写，配套文章出自 Liz Courts、James Jacobs 和 Amber Stewart，小说出自 Wendy N. Wagner，于 2016 年 11 月 16 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+黄衣之王的梦境 @ 4
+NPC 图集 @ 56
+航行塞伦河 @ 62
+探索者日志：黑暗之塔 @ 74
+怪物图鉴 @ 80
+}}
+
+{{书页尾
+|pfw=Dreams of the Yellow King
+|releases=PDF¦PZO90111E¦2016-11¦；Softcover¦PZO90111¦2016-11¦
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

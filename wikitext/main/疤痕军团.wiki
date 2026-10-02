@@ -1,0 +1,11 @@
+{{Feat
+|name=疤痕军团
+|english_name=Scarred Legion
+|categories=团队
+|pfs=否
+|description=你自傲于身体上仪式性的留疤，而其他拥有类似装饰的战士在与你并肩作战时士气高涨。
+|benefit=你在威吓检定上获得+2加值。在邻接一个拥有本专长的盟友时，你还会在意志豁免检定上获得+2士气加值。当你发动冲锋时，如果你发起冲锋的方格邻接一个拥有本专长的盟友，你会在下一轮开始前一直保有本专长所提供的豁免检定加值。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1411.html
+}}

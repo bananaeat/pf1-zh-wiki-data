@@ -1,0 +1,15 @@
+{{Spell
+|name=召唤次级盟友
+|english_name=Summon minor ally
+|school=咒法系 (召唤)
+|levels=德鲁伊 1;游侠 1;猎人 1
+|action=1轮
+|components=语言;姿势;圣徽
+|range=近距
+|duration=1轮/等级 （可解消）
+|save=无
+|sr=否
+|effect=1d3个召唤生物
+|description=该法术的功能如同一级[[召唤自然盟友]]术，不过你只能召唤出1d3只超小型或更小的动物，比如蝙蝠、[[蜥蜴]]、猴子、老鼠、[[渡鸦]]、[[蟾蜍]]或鼬。被召唤的动物必须全部为同样类型的生物。
+|source=极限魔法
+}}

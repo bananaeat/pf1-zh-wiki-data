@@ -1,0 +1,10 @@
+{{Trait
+|name=警惕危险
+|english_name=Wary of Danger
+|type=种族
+|prerequisites=[[人类]]（凯利德人）
+|description=你的族人四面受敌，你因此培养出了对危险敏锐的感知。
+|benefit=你的[[先攻]]检定+2背景加值。
+|source_name=北地居民
+|source_url=https://pf1chm.pages.dev/topics/zh63296b3929.htm
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=邪魔视觉
+|english_name=Fiend Sight
+|description=你的双眼在低光以及黑暗环境下变得更加锐利。
+|prerequisites=黑暗视觉60尺，魔裔。
+|benefit=你获得昏暗视觉，同时黑暗视觉提升到120尺。
+|special=你可以选择该专长两次。当你第二次选择，你获得“看透黑暗”怪物能力。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

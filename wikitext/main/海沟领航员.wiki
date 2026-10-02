@@ -1,0 +1,10 @@
+{{Trait
+|name=海沟领航员
+|english_name=Trench Navigator
+|type=地区
+|prerequisites=汐岛(Xidao)
+|description=你曾经在汐岛海湾的险恶海域中航行，而你能熟练地驾驭穿越它们的危险。你在知识[地理]检定和专业[水手]获得+1背景加值。其中一个技能成为你的[[本职技能]]。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://pf1chm.pages.dev/topics/page_1557.html
+}}

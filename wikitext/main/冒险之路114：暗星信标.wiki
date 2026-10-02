@@ -1,0 +1,39 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #114: Black Stars Beckon
+|authors=Jim Groves、Adam Daigle、James Jacobs、Benjamin Bruck
+|pages=96
+}}
+
+{{书页/简介|head=死亡并非终结|1=
+「诡秘万古」冒险之路迎来震撼的终章！抵达异界之城卡尔科萨（Carcosa）后，冒险者们必须斩断将卡尔科萨与格拉利昂相连的纽带。在这座寄生之城里漫游时，角色们要穿越[[远古者]]城市冻结的废墟，应付阿兹兰特风格城市倒影中受诅咒的宾客，并遇到一位能帮他们在失落的卡尔科萨那令人发狂的街道里找到出路的哑巴乐师。英雄们能阻止卡尔科萨把鸫沼拽入它那由窃取的城市拼凑而成的混合体吗？还是会冒着唤醒哈利湖（Lake Hali）深处那不可言说的噩梦的风险？他们必须斩断这些纽带——否则格拉利昂注定要迎接黄衣之王。
+
+本册《冒险之路》为「诡秘万古」冒险之路收尾，内容包括：
+
+* Jim Groves 的开拓者冒险《暗星信标》（"Black Stars Beckon"），适用于 15 级角色。
+* 关于如何在本冒险之路结束之后拓展你的战役的建议与提议，包括一套把你的开拓者角色带到另一个世界的系统，作者 James Jacobs。
+* 在「探索者日志」中，一场令人不安的审讯与一个令人烦恼的真相，作者 Adam Daigle。
+* 一部怪物图鉴，收录一位新的旧日支配者和其他可憎的怪物，作者 Benjamin Bruck、Jim Groves 与 James Jacobs。
+}}
+
+'''冒险之路114：暗星信标'''（''Pathfinder #114: Black Stars Beckon''）是[[冒险之路]]「诡秘万古」系列的最终章冒险，由 Jim Groves 撰写，配套文章出自 Adam Daigle、James Jacobs 和 Benjamin Bruck，小说出自 Adam Daigle，于 2017 年 2 月 22 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+暗星信标 @ 4
+NPC 图集 @ 58
+继续战役 @ 66
+探索者日志：亲密交谈 @ 76
+怪物图鉴 @ 82
+}}
+
+{{书页尾
+|pfw=Black Stars Beckon
+|releases=PDF¦PZO90114E¦2017-02¦；Softcover¦PZO90114¦2017-02¦
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

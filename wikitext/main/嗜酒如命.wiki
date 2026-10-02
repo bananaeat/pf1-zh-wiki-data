@@ -1,0 +1,11 @@
+{{Feat
+|name=嗜酒如命
+|english_name=Drink Is Life
+|categories=神话
+|description=暴饮能够补充你的神话之火。
+|prerequisites=[[体质]] 19，神话阶层3阶
+|benefit=你绝不会由于饮用非魔法酒精饮料而遭受惩罚，而且你能够以[[迅捷动作]]饮用酒精饮料，而非原本的[[移动动作]]。每当你饮用酒精饮料时，你都能获得1项[[万灵秘药]]（Polypurpose Panacea，UM法术）带来的好处。同一时间你只能从中获取一种好处。若你在引用酒精饮料时花费1次神话之力，你就能够治愈2点[[属性伤害]]、使你在1项属性上受到的临时减值失效、或者移除后述状态中的1种：[[困惑]]（confused），疾病（diseased），[[力竭]]（exhausted），[[疲乏]]（fatigued），惊惧（frightened），[[反胃]]（nauseated），毒素（poisoned），[[战栗]]（shaken），[[恶心]]（sickened）或者[[恍惚]]（staggered）。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

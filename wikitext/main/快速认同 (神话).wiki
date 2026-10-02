@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[快速认同]] 的神话版本。</small></div>
+{{Feat
+|name=快速认同
+|english_name=Fast Empathy
+|categories=神话
+|description=你能够以超乎寻常的速度安抚野兽的情绪。
+|prerequisites=[[快速认同]]
+|benefit=你能够以[[迅捷动作]]使用野性认同。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

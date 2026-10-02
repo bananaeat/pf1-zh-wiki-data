@@ -1,0 +1,11 @@
+{{Feat
+|name=外域旅行者
+|english_name=Outer Planes Traveler
+|description=你见识过多元宇宙的边缘地带，并从这些奇异的领域中获取了知识。你对其中某个特定领域有着特殊的亲和力，并在自身内携带着该位面的部分力量。
+|prerequisites=[[知识]]（位面） 11 级，能够以法术或类法术能力施展 “异界传送” 或 “异界之门” 法术。
+|benefit=从以下位面中选择一个。该位面的阵营必须与你的阵营相差不超过一个等级。你在对抗具有相关描述符的法术和类法术能力的豁免检定上获得+2加值，并且你施展具有该描述符的法术时施法者等级+1。
+|tables=<table><tr><th>位面</th><th>阵营</th><th>描述符</th></tr><tr><td>天堂</td><td>守序善良</td><td>光亮</td></tr><tr><td>涅槃</td><td>中立善良</td><td>善良</td></tr><tr><td>极乐境</td><td>混乱善良</td><td>情绪</td></tr><tr><td>轴心境</td><td>守序中立</td><td>守序</td></tr><tr><td>骨园</td><td>中立</td><td>死亡</td></tr><tr><td>大漩涡</td><td>混乱中立</td><td>混乱</td></tr><tr><td>地狱</td><td>守序邪恶</td><td>痛苦</td></tr><tr><td>末日荒原</td><td>中立邪恶</td><td>邪恶</td></tr><tr><td>深渊</td><td>混乱邪恶</td><td>恐惧</td></tr></table>
+|source=DHH
+|source_name=恶魔猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh90d9fee6da.htm
+}}

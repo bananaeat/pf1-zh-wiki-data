@@ -1,0 +1,14 @@
+{{魔法物品
+|name=龙之眼
+|english_name=Eyes of the Dragon
+|aon=MagicWondrousDisplay.aspx?FinalName=Eyes of the Dragon
+|cat=奇物
+|aura=强烈变化系
+|cl=15
+|slot=眼部
+|price=110,000 gp
+|description=这些虎眼石宝石覆盖在眼睛上，随后融入其中，把穿戴者的眼睛变成竖瞳的龙眼。这双眼睛使穿戴者获得120尺黑暗视觉和60尺盲感。穿戴者在昏暗光照下的视力是[[人类]]的4倍，在正常光照下是人类的2倍。
+|req=[[制造奇物]]、[[巨龙形态 III]]
+|cost=55,000 gp
+|source=极限宝具
+}}

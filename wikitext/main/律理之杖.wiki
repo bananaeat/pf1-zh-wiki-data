@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=律理之杖|en=Staff of Order|type=Su|domain=秩序领域|source=核心规则书|text=在8级时，你可以令接触到的一把武器获得“秩序”附魔，持续轮数等于你的牧师等级的一半。在8级时你可以每日使用1次本能力，之后每4级再多1次每日可用次数。}}<noinclude>
+
+[[分类:领域]]</noinclude>

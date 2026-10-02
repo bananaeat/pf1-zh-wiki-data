@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=塑山者腰带
+|english_name=Mountainshaper's Girdle
+|aon=MagicWondrousDisplay.aspx?FinalName=Mountainshaper's Girdle
+|cat=奇物
+|aura=中等变化系
+|cl=8
+|slot=腰部
+|price=25,000 gp
+|weight=1磅
+|description=这条宽腰带给予佩戴者+4力量增强加值。此外，佩戴者可以花费1点气来使用[[塑石术]]。使用此能力时，他也可以选择改为塑形金属，但受影响的材料量只有通常的十分之一。要用金属或石头塑出一件可用的武器，佩戴者必须通过一次[[工艺]]（武器）检定。以这种方式制造的物品永远不可能具有精制品质。
+|req=[[制造奇物]]、[[熊之坚韧]]、[[塑石术]]
+|cost=12,500 gp
+|source=冒险者指南
+}}

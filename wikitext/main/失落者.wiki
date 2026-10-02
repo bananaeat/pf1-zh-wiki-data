@@ -1,0 +1,9 @@
+{{Trait
+|name=失落者
+|english_name=Lost Nobility
+|type=社会
+|benefit=你的家族在特鲁恩崛起之前声名显赫，但如今这份传承已被世人遗忘，唯有你一人记得。你将每一位切利亚斯政府的官方人员(包括[[地狱骑士]])都视为你逝去荣耀的直接责任人。你在对抗这些官方人员的攻击和伤害检定中获得+1背景加值。
+|source_name=地区背景
+|source=CEoD
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

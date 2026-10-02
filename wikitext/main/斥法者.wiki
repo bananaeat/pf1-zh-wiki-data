@@ -1,0 +1,9 @@
+{{Trait
+|name=斥法者
+|english_name=Scorned by Magic
+|type=魔法
+|description=在年轻时你曾协助一位女巫或巫医，他们为穷人除去魔法疾病或是受邀解除一些咒语——又或者你可能曾穿过一片死魔法区。无论原因为何，比起其他人魔法似乎更不愿对你产生影响。当尝试解除检定或克服[[特殊能力#法术抗力|法术抗力]](如果有)的检定时，将对你施放的法术或类法术能力的施法者等级视为降低1级。
+建议角色：凯利德人、法力废土本地人、休盎提人
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/page_1578.html
+}}

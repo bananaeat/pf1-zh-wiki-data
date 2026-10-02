@@ -1,0 +1,14 @@
+{{Spell
+|name=极度柔韧
+|english_name=Extreme flexibility
+|school=变化系
+|levels=奥能师 2;女巫 2;异能者 2;术士 2;法师 2;炼金术师 2;红螳螂杀手 2;血脉狂怒者 2;调查员 2;通灵者 2;魔战士 2
+|action=标准动作
+|components=语言;姿势
+|range=个人
+|target=自己
+|duration=1分钟/等级
+|sr=否
+|description=你的AC获得+1闪避加值，逃脱检定以及挣脱[[擒抱]]的擒抱[[战技]]检定获得+4环境加值，而且你的[[CMD]]在对抗擒抱尝试时获得+4环境加值。
+|source=进阶职业指南
+}}

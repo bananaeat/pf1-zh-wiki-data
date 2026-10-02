@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 18），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=御泥之备
+|english_name=Ooze Defense
+|type=种族
+|pfs=否
+|prerequisites=狗头人
+|description=你部落故乡那幽暗的隧道里满是贪婪的泥怪，它们一直威胁着你的部落。为了保护自己，你和族人外出时总是随身带着对付泥怪的酸剂，从不走远。你在游戏开始时拥有三个强碱瓶（见《极限宝具》第106页）。这些物品不计入你的角色初始财富。
+|source_name=格拉利昂的狗头人
+|source=KoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Ooze%20Defense
+}}

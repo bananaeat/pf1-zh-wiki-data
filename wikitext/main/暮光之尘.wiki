@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[暮光之尘 (神话)]]。</small></div>
+{{Spell
+|name=暮光之尘
+|english_name=Dust of twilight
+|school=咒法系
+|tags=黑暗
+|levels=吟游诗人 2;奥能师 2;术士 2;歌者 2;法师 2;血脉狂怒者 2
+|action=标准动作
+|components=语言;姿势;材料（煤灰）
+|range=中距
+|target=10尺半径内的生物和物体
+|duration=立即
+|save=强韧，通过则无效（仅对疲乏）
+|sr=否
+|description=一阵虹彩色的黑色微粒倾泻而下，附着在火把、提灯、日光杖或类似的普通光源上使其熄灭，并且驱散任何2环或以下、带有光亮描述符的法术 （如同[[解除魔法]]）。范围内的生物除非通过一次强韧检定否则进入[[疲乏]]状态。
+|source=进阶玩家指南
+}}

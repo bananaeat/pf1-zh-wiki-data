@@ -1,0 +1,10 @@
+{{Feat
+|name=博学施法者
+|english_name=Knowledgeable Spellcaster
+|prerequisites=[[知识]](奥秘、地城、本地、自然、位面或宗教)5级，CL7。
+|benefit=当你选择此专长时，选择一个你至少5级的知识技能。当你通过这个知识技能的检定成功识别出一个生物的能力和弱点时，你可以少获得一条信息，从而在克服该生物[[特殊能力#法术抗力|法术抗力]]（如果有）的施法者等级检定中获得+3加值。如果你选定的知识技能达到10级或更高，你可以少获得两条信息来增加这个加值到+5。
+|normal=你可以多次选择本专长。每次你选择这个专长时，你必须选择一个不同的知识技能。（译注：AoN 原文此处标为「Normal」，疑为笔误，应为「Special」。）
+|source=MHH
+|source_name=怪物猎人手册
+|source_url=https://pf1chm.pages.dev/topics/zh03ef2e8763.htm
+}}

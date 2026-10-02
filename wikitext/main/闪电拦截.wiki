@@ -1,0 +1,11 @@
+{{Feat
+|name=闪电拦截
+|english_name=Reflexive Interception
+|categories=战斗
+|description=动物伙伴可以用电光火石般的速度护卫自己的主人。
+|prerequisites=“拦截攻击”，BAB+3，动物伙伴，反射闪避
+|benefit=当动物伙伴邻接其主人且其主人正在进行反射豁免时，即使并非动物伙伴的回合，它仍可以用自由动作花费一次借机攻击的次数，进行一次反射检定来试图干预。使用此能力时，动物伙伴会失去反射闪避的效果（若它有精通反射闪避的话，也一并失去），但若动物伙伴在其豁免检定上成功，则主人获得动物伙伴的反射闪避（或精通反射闪避，若动物伙伴有此能力的话）的效果。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zhd8cf60a796.htm
+}}

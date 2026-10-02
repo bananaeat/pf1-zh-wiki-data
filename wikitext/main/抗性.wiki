@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''抗性'''（Resistance）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：防御能力</span></div>
+</noinclude><includeonly><div class="lang"><span id="抗性"></span><div class="lang-h"><b>[[抗性]]</b><i>Resistance</i><span class="lang-w">Ex · 防御能力</span></div><div class="lang-d"></includeonly>
+具有此特性的生物在每次遭受特定种类的伤害时都可以抵消掉一些（通常为酸蚀、寒冷、电击或火焰）。在说明中会给出抵消伤害的数目和种类。
+
+'''格式'''：'''抗性''' 强酸 10
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Resistance|2=Resistance}}
+
+[[分类:通用怪物规则]]</noinclude>

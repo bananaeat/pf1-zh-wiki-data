@@ -1,0 +1,12 @@
+{{Feat
+|name=卓越法术抗力
+|english_name=Noble Spell Resistance
+|pfs=否
+|description=你的升华已经完成；你的[[特殊能力#法术抗力|法术抗力]]已经接近恶魔。
+|prerequisites=魅力13，感知13，[[高等卓尔贵族]]，角色等级13，卓尔。
+|benefit=你的法术抗力等同于“11+角色等级”。
+|special=你在以威吓或交涉检定影响[[卓尔]]时获得+1环境加值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

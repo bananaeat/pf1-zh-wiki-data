@@ -1,0 +1,15 @@
+{{魔法物品
+|name=魂食护身符
+|english_name=Talisman of Soul-Eating
+|aon=MagicWondrousDisplay.aspx?FinalName=Talisman of Soul-Eating
+|cat=奇物
+|aura=微弱死灵系［恶］
+|cl=5
+|slot=颈部
+|price=5,400 gp
+|weight=3磅
+|description=这颗雕成的狂躁邪魔颅骨长着数十颗尖牙，穿在一条饰有椎骨的细铁链上。每天1次，穿戴者可以用[[整轮动作]]，借颅骨抽取一个[[濒死]]或刚死去的生物的生命精华，来施放[[制造灵魂宝石]]。穿戴者可以用[[标准动作]]吞下这颗灵魂宝石。这会释放宝石中的灵魂，使其可以正常地被复活。随后，穿戴者获得快速治疗2，持续轮数等于被吞噬的灵魂生前的生命骰数。用项链抽取灵魂或吞下灵魂宝石，都是邪恶行为。
+|req=[[制造奇物]]、[[制造灵魂宝石]]
+|cost=2,700 gp
+|source=永罪之书末辑，天启诸骑、永罪之书
+}}

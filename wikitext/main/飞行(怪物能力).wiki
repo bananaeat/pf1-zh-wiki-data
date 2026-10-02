@@ -1,0 +1,13 @@
+<noinclude>{{速查导航|here=规则}}
+{{消歧义|飞行}}
+'''飞行'''（Flight）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex 或 Su</span><span class="sk-f">位置：速度</span></div>
+</noinclude><includeonly><div class="lang"><span id="飞行"></span><span id="飞行(怪物能力)"></span><div class="lang-h"><b>[[飞行(怪物能力)|飞行]]</b><i>Flight</i><span class="lang-w">Ex 或 Su · 速度</span></div><div class="lang-d"></includeonly>
+具有此能力的生物能以自由动作开始或者停止飞行。如果此能力是超自然能力，它在[[反魔场]]中将会失效，并且此生物在反魔场效果持续期间都将失去飞行的能力。
+
+'''格式'''：飞行 30 尺（普通）
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Flight|2=Flight}}
+
+[[分类:通用怪物规则]]</noinclude>

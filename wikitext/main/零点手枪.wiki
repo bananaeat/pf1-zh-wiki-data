@@ -1,0 +1,23 @@
+{{科技物品
+|name=零点手枪
+|english_name=Zero pistol
+|kind=科技武器
+|sub=火器
+|price=10,000 gp
+|weight=2磅
+|wtype=单手远程
+|prof=异种（火器）
+|dmg_s=1d6
+|dmg_m=1d8
+|dmg_type=寒冷
+|crit=×2
+|range=50尺
+|capacity=10
+|usage=1
+|special=半自动、接触
+|description=零点手枪发射高速的冰冻粒子束，对命中的一切造成寒冷伤害。被零点手枪射线重击命中的生物必须通过一次 DC 15 的强韧豁免，否则会因严寒而[[恍惚]] 1 轮。
+|construction=[[制造科技武器和护甲]]、军事工作间
+|craft_dc=23
+|cost=5,000 gp
+|source=科技指南
+}}

@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=飞人护手带
+|english_name=Handstraps of Roofjumping
+|aon=MagicWondrousDisplay.aspx?FinalName=Handstraps of Roofjumping
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=手部
+|price=1,500 gp
+|description=这些长布条上精细地绣着城市景象。当它们像拳击手或木乃伊的缠带那样缠在你的双手上时，你在平衡、跳跃和翻滚检定上获得+1表现加值，并在为抓住壁架或阻止坠落而进行的反射豁免上获得+1表现加值。
+|req=[[制造奇物]]、[[猫之优雅]]、[[跳跃术]]
+|cost=750 gp，60 XP
+|source=烈焰传承玩家手册
+}}

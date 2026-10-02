@@ -1,0 +1,14 @@
+{{Feat
+|name=解法专攻
+|english_name=Dispel Focus
+|description=你很擅长于[[解除魔法]]效应。
+|prerequisites=能够施放解除魔法法术。
+|benefit=每当你尝试一次基于施法者等级的解除检定时，你在这次检定中获得+2加值。
+|source=MSH
+|source_name=怪物召唤者手册
+|source_url=https://pf1chm.pages.dev/topics/page_667.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[高等解法专攻]]（1 个条目）

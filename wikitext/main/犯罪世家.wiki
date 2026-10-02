@@ -1,0 +1,10 @@
+{{Trait
+|name=犯罪世家
+|english_name=Criminal Roots
+|type=社会
+|aliases=罪犯之子
+|description=你的家族长期以来一直在经营非法活动。你在影响罪犯的交涉检定和影响守法公民的威吓检定获得+2背景加值，但在影响守法公民的交涉检定承受-2减值。交涉或威吓(由你选择)成为你的[[本职技能]]。
+|source_name=间谍大师手册
+|source=SMH
+|source_url=https://pf1chm.pages.dev/topics/zh549564a2b9.htm
+}}

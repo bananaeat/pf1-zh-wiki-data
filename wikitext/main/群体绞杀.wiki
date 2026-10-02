@@ -1,0 +1,18 @@
+{{Spell
+|name=群体绞杀
+|english_name=Suffocation, mass
+|school=死灵系
+|domains=杀戮子域 9
+|levels=奥能师 9;女巫 9;异能者 9;术士 9;法师 9
+|action=标准动作
+|components=语言;姿势;材料（一小瓶施法者呼出的气息）
+|range=近距
+|target=每2级一个活物 （互相之间距离不超过30尺）
+|duration=1轮/等级
+|save=强韧，通过则部分生效
+|sr=是
+|description=这个法术运作方式如同[[绞杀]]，除了上述部分。
+
+注意，本法术持续时间更长，如果一个生物想免于最终的彻底[[环境规则#窒息|窒息]]，必须在充满痛苦的法术持续时间中通过更多次的强韧检定。
+|source=进阶玩家指南
+}}

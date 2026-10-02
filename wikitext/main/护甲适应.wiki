@@ -1,0 +1,12 @@
+{{Feat
+|name=护甲适应
+|english_name=Armor Adept
+|categories=战斗
+|description=你善于使用改造过的护甲。
+|benefit=选择两种护甲改造（比如偏移和反震）。你在身着此类改造护甲时，不再受到护甲改造的缺陷影响。
+|normal=每种护甲改造都会赋予穿戴者一个缺陷。
+|special=你可以多次选择本专长。每次选择本专长时，你可以选择两个不同的改造类型。
+|source=AA2
+|source_name=冒险者的军械库2
+|source_url=https://pf1chm.pages.dev/topics/page_1020.html
+}}

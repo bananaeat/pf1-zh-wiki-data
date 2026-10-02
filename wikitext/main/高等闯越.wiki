@@ -1,0 +1,12 @@
+{{Feat
+|name=高等闯越
+|english_name=Greater Overrun
+|categories=战斗
+|description=敌人必须匆忙闪开以躲避你的危险移动。
+|prerequisites=[[精通闯越]]，[[猛力攻击]]，基本攻击加值+6，力量13。
+|benefit=你在[[闯越]]敌人检定上获得+2加值，本加值与[[精通闯越]]专长带来的加值累计。当你闯越敌人时，他们若被你撞倒则会引发[[借机攻击]]。
+|normal=被闯越撞倒的生物不会引发借机攻击。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

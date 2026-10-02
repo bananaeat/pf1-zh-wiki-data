@@ -1,0 +1,9 @@
+{{装备
+|name=飞镖用具
+|english_name=Dartboard set
+|cat=娱乐
+|price=5 sp
+|weight=10磅
+|description=这套用具包括一块彩色标靶和六支黄铜尖头的[[飞镖]]。标靶通常是在硬木底板上覆一层软木材或软木。
+|source=极限宝具
+}}

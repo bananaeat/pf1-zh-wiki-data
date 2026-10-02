@@ -1,0 +1,10 @@
+{{Trait
+|name=子弹陪审
+|english_name=Armed Grit
+|type=战斗
+|description=你手中黑洞洞的枪口使敌人浑身发毛。只要你手中持有一把火器，你就在对抗恐惧效果的豁免检定上获得+2背景加值，并且他人使用威吓技能挫败你士气的DC提高2。
+[[盾勋执法官]] Shieldmarshals:作为阿肯斯塔大公国的执法人员，盾勋执法官不但维持机关之国的秩序和安全，也负责避免阿肯斯塔人引以为傲的枪械技术外流，对阿肯斯塔垄断内海火器制造构成威胁的行为。只要某地出现了阿肯斯塔的敌人，他们就免不了要小心被执法官的枪口瞄准。
+|source_name=战斗背景
+|source=WMH
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

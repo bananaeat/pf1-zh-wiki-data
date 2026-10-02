@@ -1,0 +1,13 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''束缚元素'''（Elemental Grip, Sp）是[[操念使]]的[[原力]]。
+
+元素：通用；类别：通用（Sp）；等级：3；超载：0
+
+豁免：意志，通过则无效；[[特殊能力#法术抗力|法术抗力]]：可
+
+你能够利用自身的元素念力来定住一个和你的元素相关的生物，这就如同[[怪物定身术]]一般，不过需要你进行专注来维持，而且它只对亚种和你所具有的某个元素相同的生物生效（比如使用赤炎念力的[[操念使]]能够对具有火系亚种的生物使用该能力）。无论何时，你都能够承受1点超载来移除维持专注的需要。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Elemental Grip|2=Elemental Grip}}
+
+[[分类:原力]]

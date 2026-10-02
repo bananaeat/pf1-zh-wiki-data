@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[精确瞄准 (神话)]]。</small></div>
+{{Feat
+|name=精确瞄准
+|english_name=Pinpoint Targeting
+|categories=战斗
+|description=你能够瞄准对手盔甲上的弱点。
+|prerequisites=敏捷19，[[精通精准射击]]，[[近距射击]]，[[精准射击]]，基本攻击加值+16。
+|benefit=以一个[[标准动作]]，做一次单独的远程攻击。目标无法获得任何盔甲、天生护甲或盾牌加值到他的AC上。如果你本轮进行了移动，你无法受益于此专长。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

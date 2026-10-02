@@ -1,0 +1,20 @@
+{{魔法物品
+|name=绯红色艾恩石
+|english_name=Crimson Sphere (Normal) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun Stone Crimson Sphere
+|cat=艾恩石
+|aura=中等变化系
+|cl=12
+|slot=无
+|price=24,000 gp
+|description='''形状'''：球形
+
+'''效果'''：这枚艾恩石使你的智力获得+2增强加值。多枚绯红色球形艾恩石的加值可以叠加（智力的增强加值最高+6）。
+
+'''共振'''（放入[[寻路仪]]时）：在一项知识技能上获得+1表现加值（由艾恩石的制造者选定）。
+
+艾恩石的通用规则（启动、环绕飞行、抓取，以及AC、硬度）见[[艾恩石]]。
+|req=[[制造奇物]]、[[狐之狡黠]]，制造者必须已经12级
+|cost=12,000 gp
+|source=秘密探寻者
+}}

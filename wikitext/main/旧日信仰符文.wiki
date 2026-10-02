@@ -1,0 +1,15 @@
+{{魔法物品
+|name=旧日信仰符文
+|english_name=Runes of the Old Faith
+|aon=MagicWondrousDisplay.aspx?FinalName=Runes of the Old Faith
+|cat=奇物
+|aura=强烈通用系
+|cl=12
+|slot=无
+|price=16,000 gp
+|weight=1磅
+|description=这个天鹅绒口袋里装着若干取自制造者所在地区的石头，每块石头上都刻着一个德鲁伊符号。旧日信仰符文的功能如同[[鬼婆战团符文]]，不同之处在于它们让使用者在汲借秘术中施放的是德鲁伊法术。这些石头每日可以使用1次。
+|req=[[制造奇物]]、[[法术灌输]]、制造者必须能够施放6环德鲁伊法术
+|cost=8,000 gp
+|source=进阶职业指南
+}}

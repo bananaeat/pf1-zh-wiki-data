@@ -1,0 +1,14 @@
+{{魔法物品
+|name=防护石化护符
+|english_name=Amulet of Proof against Petrification
+|aon=MagicWondrousDisplay.aspx?FinalName=Amulet of Proof against Petrification
+|cat=奇物
+|aura=中等防护系
+|cl=8
+|slot=颈部
+|price=8,000 gp
+|description=这件抛光精细的木护符，表面雕刻着一位蒙眼美杜莎的图案。每当穿戴者在会使其[[石化]]的豁免检定中失败，他会改为[[恍惚]]1d6轮。如果某个法术或效果不允许豁免就使他石化，他会改为恍惚1分钟。穿戴者处于恍惚状态时，这些能力无效。
+|req=[[制造奇物]]、[[解除石化]]
+|cost=4,000 gp
+|source=极限宝具
+}}

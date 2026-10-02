@@ -1,0 +1,23 @@
+{{速查导航|here=神祇}}
+<div class="well" style="margin:.2em 0"><small>'''这一页只有数据栏，没有正文。'''民间汉化的合集里没有这一位的条目，中文名也还没定。正文见 [https://aonprd.com/DeityDisplay.aspx?ItemName=Ayrzul AoN 原文]。认领整理见 [[待办事项]]。</small></div>
+{{神祇
+|name=Ayrzul
+|english_name=Ayrzul
+|title=化石之王
+|alignment=中立邪恶（NE）
+|weapon=[[钉头锤]]
+|portfolio=埋藏的秘密，土，金属
+|domains=[[毁灭领域|毁灭]]，[[土领域|土]]，[[邪恶领域(领域)|邪恶]]，[[力量领域|力量]]
+|subdomains=[[土领域#窟子域 (Caves)|窟子域]]，[[邪恶领域(领域)#恐惧子域 (Fear)|恐惧子域]]，[[力量领域#凶猛子域 (Ferocity)|凶猛子域]]，[[土领域#铁子域 (Metal)|铁子域]]，[[土领域#化石子域 (Petrification)|化石子域]]*（*需要背景特性[[次经侍祭]]）
+|symbol=恐龙牙化石
+|animal=暴龙
+|color=棕色，灰色
+|pantheon=元素领主
+|source=内海诸神
+}}
+
+== 信徒可用 ==
+* '''专长'''：[[元素威力]]
+* '''背景特性'''：[[元素亲和]]
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Ayrzul|2=Ayrzul}}

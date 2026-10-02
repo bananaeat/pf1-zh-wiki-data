@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=搏兽士护手
+|english_name=Beast Wrestler's Gauntlets
+|aon=MagicWondrousDisplay.aspx?FinalName=Beast Wrestler's Gauntlets
+|cat=奇物
+|aura=微弱咒法系
+|cl=5
+|slot=手部
+|price=7,500 gp
+|weight=1磅
+|description=这双护手使擒抱检定获得+1增强加值。每副护手都是为对付某一种生物类型或亚种而制造的，该类型须取自破敌武器特殊能力所列的生物类型。当穿戴者正在擒抱指定类型的生物时，护手的增强加值提高2点，并且他在成功的[[擒抱]]检定中造成伤害时，额外造成2d6点[[非致命伤害]]。
+|req=[[制造奇物]]、[[召唤怪物 I]]
+|cost=3,750 gp
+|source=进化职业起源
+}}

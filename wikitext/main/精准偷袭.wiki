@@ -1,0 +1,10 @@
+{{Feat
+|name=精准偷袭
+|english_name=Sneaking Precision
+|description=你对敌人弱点的洞悉使攻击效果拔群。
+|prerequisites=偷袭+6d6，[[重击专攻]]，任意重击专长，基本攻击加值+9。
+|benefit=当你在自己的行动轮中第二次成功偷袭同一目标时，你能以[[迅捷动作]]将所知的一项[[重击专长]]效果施加于对方。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

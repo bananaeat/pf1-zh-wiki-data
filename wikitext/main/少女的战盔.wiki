@@ -1,0 +1,15 @@
+{{魔法物品
+|name=少女的战盔
+|english_name=Maiden's Helm
+|aon=MagicWondrousDisplay.aspx?FinalName=Maiden's Helm
+|cat=奇物
+|aura=中等惑控系
+|cl=6
+|slot=头部
+|price=3,500 gp
+|weight=3磅
+|description=少女的战盔看起来就是灰少女所戴的那种独特的、带板甲护具和羽饰的头盔。这顶头盔让穿戴者的嗓音更有力量和威严，使她的威吓检定获得+5表现加值。少女的战盔的穿戴者可以以类法术能力每天使用三次命令术。
+|req=[[制造奇物]]、[[惊恐术]]、[[命令术]]
+|cost=1,750 gp
+|source=冒险之路62：淑女之光的诅咒、冒险者指南
+}}

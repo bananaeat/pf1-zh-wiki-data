@@ -1,0 +1,9 @@
+{{Feat
+|name=伏击施法
+|english_name=Ambuscading Spell
+|description=你的魔法在打击那些浑然不觉的目标时特别有效。
+|benefit=在[[突袭]]轮中，尚未行动的对手在对抗你施放的法术的豁免检定上承受-2减值；已经行动过的生物在突袭轮中承受-1减值。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_556.html
+}}

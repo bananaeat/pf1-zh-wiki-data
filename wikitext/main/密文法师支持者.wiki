@@ -1,0 +1,9 @@
+{{Trait
+|name=密文法师支持者
+|english_name=Cyphermage Backer
+|type=地区
+|prerequisites=谜港城
+|description=你曾向[[密文法师]]出售过遗物，她同意在你未来的发现中帮助你。在谜港城时，你可以利用你的联系人获取关于文物和历史的信息。将此能力视为单次知识(奥秘)或知识(历史)检定，技能加值为+15。你可以每天在谜港城使用此检定一次。你可以每天进行一次新的检定。每次这样做时，你可以选择使用知识(奥秘)或知识(历史)。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

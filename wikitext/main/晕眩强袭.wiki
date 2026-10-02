@@ -1,0 +1,12 @@
+{{Feat
+|name=晕眩强袭
+|english_name=Dazing Assault
+|categories=战斗
+|description=你那狂野的攻击能够使敌人[[晕眩]]。
+|prerequisites=力量13，[[猛力攻击]]，基本攻击加值+11。
+|benefit=你可以选择让所有近战攻击检定与[[战技]]检定承受-5减值，来使被你近战攻击命中的敌人在正常受到伤害之外，还会晕眩1轮。成功的强韧豁免可以免受该效果，豁免DC为“10+你的BAB”。你必须在进行攻击检定之前选择是否使用该专长，它的效果会持续至你的下一轮为止。
+|stamina=如果花费5点耐力，你可以在一次近战命中敌人后尝试令对方眩晕，如同该专长的效果。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

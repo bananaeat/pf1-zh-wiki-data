@@ -1,0 +1,11 @@
+{{Feat
+|name=扩展抗性
+|english_name=Expanded Resistance
+|description=你将自身对魔法的天然抗性扩展至其他不同种类的法术上。
+|prerequisites=[[侏儒]]，幻术抗性种族特性。
+|benefit=选择除幻术学派之外的任意一种学派。你在豁免该类学派的法术或效果时获得+2种族加值。
+|special=你能够多次选择该专长。其效果不叠加，每次可以选择不同的法术学派。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

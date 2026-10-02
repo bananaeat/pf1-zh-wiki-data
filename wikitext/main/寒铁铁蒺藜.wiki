@@ -1,0 +1,9 @@
+{{装备
+|name=寒铁铁蒺藜
+|english_name=Caltrops, cold iron
+|cat=冒险装备
+|price=2 gp
+|weight=2磅
+|description=寒铁铁蒺藜的功能与普通[[铁蒺藜]]相同，不过它们由[[寒铁]]制成，并且能影响拥有DR/寒铁的生物。
+|source=恶魔猎人手册
+}}

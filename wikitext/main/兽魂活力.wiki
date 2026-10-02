@@ -1,0 +1,13 @@
+{{Trait
+|name=兽魂活力
+|english_name=Animal-Spirit Vitality
+|type=地区
+|prerequisites=出身奇奥尼，或在当地生活过至少1年
+|description=奇奥尼的[[精灵]]德鲁伊会教导你与动物的自然治愈之力交流。
+
+每天一次，当你施展可以恢复生命值的法术时，只要你50尺内有动物类型的生物，该法术每骰都会额外恢复1点生命值。你必须在投掷治疗之前决定是否使用这个能力。
+|regions=奇奥尼
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_703.html
+}}

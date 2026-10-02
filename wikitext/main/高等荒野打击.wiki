@@ -1,0 +1,11 @@
+{{Feat
+|name=高等荒野打击
+|english_name=Greater Wilding Strike
+|categories=战斗
+|description=你达到了你[[荒野打击]]能力的顶峰。
+|prerequisites=力量18，[[精通徒手打击]]，[[精通荒野打击]]，[[荒野打击]]，[[荒野之痕]]，基础攻击加值+16。
+|benefit=你的[[徒手打击]]的伤害骰增加至1d10（小型体型为1d8）。这与其他增加[[徒手攻击]]伤害骰的效果无法与其叠加，这包括了诸如武僧等可随其职业等级增加的效果。增加你体型的效果（如[[人类变巨术]]）依然能够正常增大你的伤害骰。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Tyrant's Grasp Player's Guide pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=乐观者
+|english_name=The Optimist
+|type=战役
+|pfs=否
+|description=人们不必听你说事情正在好转；他们只需环顾四周，就能亲眼看到证据。镇子从十多年前兽人占领中的恢复已近乎完成，镇外[[塞恩蕾]]神殿中的怪物也终于被击败。你那压抑不住的乐观，似乎与罗斯拉尔之匣大多数居民所面对的艰苦生活格格不入，但你坚信自己的积极态度能振奋你的社区。你对抗影响心灵效果的豁免检定获得+1背景加值。此外，你的乐观能感染他人。每天次数等同于你的魅力调整值（至少1次），你可以用一个迅捷动作将这个加值赋予10尺内的一名盟友。这个加值持续1分钟。
+|source_name=Tyrant's Grasp Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=The%20Optimist
+}}

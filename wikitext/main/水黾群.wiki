@@ -1,0 +1,49 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=水黾群
+|english_name=Water Strider Swarm
+|cr=1
+|xp=400
+|alignment=绝对中立
+|size=微型
+|type=虫类
+|subtypes=集群
+|init=+4
+|senses=黑暗视觉 60 尺，颤动感知 30 尺；察觉 +6
+|description=数以千计的长腿水虫无声地掠过水面，一团抽动的躯体如波浪般滑行而过。
+|ac=18，接触 18，措手不及 14（+4 敏捷，+4 体型）
+|hp=9（2d8）
+|fort=+3
+|ref=+4
+|will=+0
+|defensive=集群特性
+|immune=影响心灵效果;武器伤害
+|weaknesses=集群特性
+|speed=10 尺，游泳 20 尺，水面行走 30 尺
+|melee=集群（1d6 外加 吸血 和 扰乱心神）
+|space=10 尺
+|reach=0 尺
+|special_attacks=吸血（1d2 体质），扰乱心神（DC 11）
+|str=1
+|dex=18
+|con=10
+|int=–
+|wis=10
+|cha=2
+|bab=+1
+|cmb=–
+|cmd=–
+|skills=[[特技]] +6（跳跃 +12）;[[察觉]] +6;[[游泳]] +3
+|racial_mods=特技（跳跃 +6），+4 察觉
+|sq=水上行走
+|environment=温带湖泊、河流或沼泽
+|organization=单独或成对
+|treasure=无
+|special_abilities={{怪物能力|水上行走|Ex|水黾身上覆盖着防水的细毛，使它们不会沉入水面之下。这群水黾在水面上的移动速度为 30 尺。}}
+|source=Pathfinder #49: The Brinewall Legacy
+|lore=
+水黾是在静水水面上滑行的水生昆虫。它们的身体又长又窄，单只体长不到 1 寸。水黾的身体和腿上覆盖着一层防水细毛，使水黾能够抵抗水的表面张力。这种昆虫用前后足站立，以中足推拨水面来向前推进。水黾也是出色的跳跃者，一跃可达 5 尺远。在陆地上的一切移动都只限于跳跃。特别凶恶的水黾群常常聚集在水域的边缘，攻击任何扰动它们水面的东西。
+}}
+
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Water Strider Swarm|2=Water Strider Swarm}}

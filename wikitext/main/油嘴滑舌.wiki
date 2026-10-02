@@ -1,0 +1,9 @@
+{{Trait
+|name=油嘴滑舌
+|english_name=Honey-Tongued
+|type=宗教
+|prerequisites=信仰[[阿巴达尔]]
+|description=你对人性与社会哲学的深刻理解使你在与法律相关人员(比如法官、守卫和圣武士)的交涉或[[唬骗]]检定上获得+1背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

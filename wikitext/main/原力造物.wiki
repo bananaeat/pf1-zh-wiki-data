@@ -1,0 +1,11 @@
+{{Feat
+|name=原力造物
+|english_name=Kinetic Crafting
+|pfs=否
+|description=你可以使用你的[[原力]]来协助你[[制造魔法物品]]。
+|prerequisites=[[操念使]]3级
+|benefit=当你制作魔法物品或选择制造物品专长时，你将你的操念使等级视为你的施法者等级。除此之外，在满足魔法物品的制作条件时，你可以将任何你拥有的原力视为相等等级或者更低等级的法术（除了法术完成型和法术触发型物品）。该原力相关的元素类型必须与模拟的法术描述符中的元素类型相同，或者造成相同类型的元素伤害。
+|source=OAn
+|source_name=异能选集
+|source_url=https://pf1chm.pages.dev/topics/page_726.html
+}}

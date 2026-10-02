@@ -1,0 +1,11 @@
+{{Feat
+|name=病理学家
+|english_name=Pathologist
+|pfs=否
+|description=你比其他治疗者更擅长对付疾病和毒素
+|prerequisites=[[惊异治疗者]]
+|benefit=当你使用医疗技能治疗疾病或治疗中毒时，你可以选择不给予目标+4表现加值，而是让目标在其下一次对抗该疾病或毒素的豁免检定中，直接以你的医疗检定结果取代其豁免检定结果。
+|source=BotA
+|source_name=古国血脉
+|source_url=https://pf1chm.pages.dev/topics/zh3e60e7b09a.htm
+}}

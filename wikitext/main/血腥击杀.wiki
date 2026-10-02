@@ -1,0 +1,11 @@
+{{Feat
+|name=血腥击杀
+|english_name=Gory Finish
+|categories=战斗
+|description=藉由野性，你用最为骇人的技巧将敌人击杀，以此恐吓附近的其他敌人。
+|prerequisites=[[炫目技巧]]，武器专攻。
+|benefit=当你使用攻击动作时，你可以用你的最高攻击加值、通过拥有[[武器专攻]]专长的武器进行一次单次攻击。如果这次攻击将你的敌人生命值降低到负数，你可以花费[[迅捷动作]]对附近30尺内所有看到你进行攻击的敌人进行一次威吓检定以挫败其士气。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

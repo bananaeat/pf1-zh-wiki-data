@@ -1,0 +1,229 @@
+<div align="center">
+<onlyinclude>{| style="border:1px solid #B8C7D9; text-align:left;  background:#f5faff;"
+|-
+| width="25%" style="background: #cedff2; padding: 0.3em; text-align:center;"|'''说明'''
+| style="background: #cedff2; padding: 0.3em; text-align:center;"|'''输入'''
+| width="25%" style="background: #cedff2; padding: 0.3em; text-align:center;"|'''效果'''
+|-
+| colspan="3" style="background: #cedff2; padding: 0.2em; font-family: sans-serif; font-size: 0.9em; text-align:center;" | 作用在任何地方
+|-
+|斜体字
+|
+<tt>&#39;&#39;范例&#39;&#39;</tt>
+|
+''实际效果''
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+|粗体字
+|
+<tt>&#39;&#39;&#39;范例&#39;&#39;&#39;</tt>
+|
+'''实际效果'''
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+|粗体加斜体
+|
+<tt>&#39;&#39;&#39;&#39;&#39;范例&#39;&#39;&#39;&#39;&#39;</tt>
+|
+'''''实际效果'''''
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+|下划线
+<div style="padding: 0.7em .5em; font-size:0.9em;"><!-- ''推荐替代斜体'' --></div>
+|
+<tt>&#60;u&#62;范例&#60;/u&#62;</tt>
+|
+<u>实际效果</u>
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+|粗体加下划线
+<div style="padding: 0.7em .5em; font-size:0.9em;"><!-- ''推荐替代粗体加斜体'' --></div>
+|
+<tt>&#60;u&#62;&#39;&#39;&#39;范例&#39;&#39;&#39;&#60;/u&#62;</tt>
+|
+<u>'''实际效果'''</u>
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+|内部链接
+<div style="padding: 0.7em .5em; font-size:0.9em;">''链接到本维基的其他页面''</div>
+|
+<tt>&#91;&#91;词条名称&#93;&#93;</tt><br />
+<tt>&#91;&#91;词条名称|显示文字&#93;&#93;</tt>
+|
+[[词条名称]]<br />
+[[词条名称|显示文字]]
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+|
+链接至条目的一个小节
+|
+<tt>&#91;&#91;条目名#小节名&#93;&#93;</tt><br />
+<tt>&#91;&#91;条目名#小节名|你要显示的名字&#93;&#93;</tt>
+|
+[[条目名#小节名]]<br />
+[[条目名#小节名|你要显示的名字]]
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+|外部链接
+<div style="padding: 0.7em .5em; font-size:0.9em;">''至其他网站''</div>
+|
+<tt><nowiki>[http://www.example.com]</nowiki></tt><br />
+<tt><nowiki>[http://www.example.com </nowiki>显示文字&#93;</tt><br />
+<tt><nowiki>http://www.example.com</nowiki></tt>
+|
+[http://www.example.com]<br />
+[http://www.example.com 显示文字]<br />
+http://www.example.com
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+|
+参考和脚注
+<div style="padding: 0.7em .5em; font-size:0.9em;">''参考与脚注通常的情况下将出现在文章中的<nowiki>{{reflist|30em}}</nowiki>的下面''</div>
+<div style="padding: 0.7em .5em; font-size:0.9em;"></div>
+|
+<tt>索林死了，&#60;ref&#62;</tt>《霍比特人》<tt>&#60;/ref&#62;Tolkien上的引述<nowiki><ref>http://www.tolkiengateway.net/wiki/Main_Page</ref></nowiki></tt><br />
+<br />
+<tt>
+参考资料：
+
+&#123;&#123;reflist|30em&#125;&#125;
+
+</tt>
+|
+索林死了，<ref>《霍比特人》</ref>Tolkien上的引述<ref>http://www.tolkiengateway.net/wiki/Main_Page</ref>
+
+参考资料：
+
+{{reflist}}
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+|
+签名
+<div style="padding: 0.7em .5em; font-size:0.9em;">''发表讨论时将签上您设定的签名''</div>
+|
+<tt>&#126;&#126;&#126;&#126;</tt><br /><br /><span style="font-size:0.9em;">''请不要在条目裏签上自己的签名，仅可以在讨论页签名''</span>
+
+|
+[[Special:Mypage|用户名]] ([[Special:Mytalk|讨论]]) {{CURRENTYEAR}}年{{CURRENTMONTHNAME}}{{CURRENTDAY}}日 {{CURRENTTIME}} (UTC)
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+|
+为条目添加分类
+|
+<tt>&#91;&#91;Category:分类名&#93;&#93;</tt><br /><br /><span style="font-size:0.9em;">''请放在条目底部''</span>
+|
+[[Special:页面分类|分类]]：[[:Category:分类名|分类名]]<br />
+<span style="font-size:0.9em;">''分类名会显示在条目预览或保存的时候''</span>
+
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+|不使用维基代码
+|
+<tt><nowiki>使用''代码''</nowiki></tt><br />
+<tt><nowiki><nowiki>不使用''代码''</nowiki></nowiki></tt>
+|
+使用''代码''<br />
+<nowiki>不使用''代码''</nowiki>
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+|插入缩略图
+|
+<nowiki>&#91;&#91;File:lotr_logo.jpg|thumb|说明文字&#93;&#93;</nowiki>
+|
+[[File:lotr_logo.jpg|thumb|说明文字]]
+|-
+| colspan="3" style="background: #cedff2; padding: 0.2em; font-family: sans-serif; font-size: 0.9em; text-align:center;" | 只作用於第一行
+|-
+|修改词条名称
+|
+<tt>&#35;重定向 &#91;&#91;重定向页&#93;&#93;</tt>
+|
+<div id="contentSub">会直接跳转到新的名称：</div><span class="redirectText" id="softredirect">[[重定向页]]</span>
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+|不同級别的标题
+|
+<tt><nowiki>==</nowiki> 一级标题 <nowiki>==</nowiki></tt><br />
+<tt><nowiki>===</nowiki> 二级标题 <nowiki>===</nowiki></tt><br />
+<tt><nowiki>====</nowiki> 三级标题 <nowiki>====</nowiki></tt><br />
+<tt><nowiki>=====</nowiki> 四级标题 <nowiki>=====</nowiki></tt>
+|
+<!-- 直接使用Wiki语句会使套用了本页面的其他页面出现多余小节和目录，改用HTML代码。 -->
+<div style="font-size:150%;border-bottom:1px solid #AAA;padding:.5em 0 .17em;">一级标题</div><br />
+<div style="font-size:132%;font-weight:bold;">二级标题</div><br />
+<div style="font-size:116%;font-weight:bold;">三级标题</div><br />
+<div style="font-size:100%;font-weight:bold;">四级标题</div> 
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+|无-{序}-列表
+|
+<tt>&#42; 1</tt><br />
+<tt>&#42; 2</tt><br />
+<tt>&#42;&#42; 2.1</tt><br />
+<tt>&#42; 3</tt>
+|
+* 1
+* 2
+** 2.1
+* 3
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+|有-{序}-列表
+|
+<tt>&#35; 第一段</tt><br />
+<tt>&#35; 第二段</tt><br />
+<tt>&#35;&#35; 第二段  2.1</tt><br />
+<tt>&#35; 第三段</tt>
+|
+# 第一段
+# 第二段
+## 第二段  2.1
+# 第三段
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|
+|-
+| 定义列表
+|
+<tt>&#59; 定义</tt><br />
+<tt>&#58; 一</tt><br />
+<tt>&#58; 二</tt>
+|
+; 定義
+: 項目一
+: 項目二
+|-
+|colspan="3" style="border-top:1px solid #cedff2;"|&nbsp;
+|-
+|文本缩进
+<div style="padding: 0.7em .5em; font-size:0.9em;">''这是用来回答讨论页的讨论上使用的''</div>
+|
+<tt>没有缩进（正常）</tt><br />
+<tt>&#58; 第一次缩进</tt><br />
+<tt>&#58;&#58; 第二次缩进</tt><br />
+<tt>&#58;&#58;&#58; 第三次缩进</tt>
+|
+没有缩进（正常）<br />
+:第一次缩进
+::第二次缩进
+:::第三次缩进
+|-
+|colspan="3" style="border-top:1px solid #cee0f2;"|
+|-
+|colspan="3" align="center" style="border-top:1px solid #B8C7D9;"|[[Wikipedia:概述]] <tt>|</tt> [[Help:編輯]]
+|}</onlyinclude>
+</div>

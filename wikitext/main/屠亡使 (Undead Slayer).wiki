@@ -1,0 +1,11 @@
+{{消歧义|屠亡使 (Undead Slayer, Pharasma)}}
+{{Trait
+|name=屠亡使
+|english_name=Undead Slayer
+|type=种族
+|prerequisites=[[吸血裔]]
+|description=那些怪物的不洁之血让你沦为被排斥的异类，你对它们满怀怒火，你对不死生物的攻击检定和伤害检定获得+1背景加值。
+|source_name=格拉利昂的混种
+|source=BoG
+|source_url=https://pf1chm.pages.dev/topics/page_416.html
+}}

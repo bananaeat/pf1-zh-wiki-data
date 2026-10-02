@@ -1,0 +1,9 @@
+{{Trait
+|name=表演家
+|english_name=Talented
+|type=社会
+|description=你是位乐师、演员或说书人。你的单一类型表演检定获得+1背景加值，并且总能将所有表演视为你的[[本职技能]]。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

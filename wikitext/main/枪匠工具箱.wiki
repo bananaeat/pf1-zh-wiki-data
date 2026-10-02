@@ -1,0 +1,9 @@
+{{装备
+|name=枪匠工具箱
+|english_name=Gunsmith's kit
+|cat=套装
+|price=15 gp
+|weight=2磅
+|description=除了必要的原料之外，这个小工具箱包括了一个人制作、修理和维护火器所需的所有工具。若没有这个工具箱，你就无法恰当地制作和保养火器。
+|source=极限战斗、极限宝具
+}}

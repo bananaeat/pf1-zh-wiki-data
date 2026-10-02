@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=饕餮啮咬
+|english_name=Feasting Bite
+|type=Ex
+|categories=进攻
+|prerequisites=[[半兽人]]，[[血腥啮咬]]，[[野性之怒]] 或 一次天生啮咬攻击
+|benefit=当野蛮人用啮咬攻击确认重击时，他恢复造成伤害一半的生命值。启动此能力会消耗一轮狂暴轮数。
+|source_name=邪恶特务
+}}

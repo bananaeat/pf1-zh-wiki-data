@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 198），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=诡异气质
+|english_name=Creepy
+|type=种族
+|prerequisites=替换儿
+|description=你奇特的举止令他人不安。你的[[威吓]]检定获得+1背景加值，并且威吓对你而言是本职技能。与鬼婆打交道时，你的[[交涉]]检定获得+2背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Creepy
+}}

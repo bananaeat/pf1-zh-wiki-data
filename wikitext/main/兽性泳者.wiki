@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=兽性泳者
+|english_name=Bestial Swimmer
+|type=Ex
+|categories=杂项
+|prerequisites=[[野蛮人]], [[狂暴游者]]
+|benefit=狂暴时野蛮人得到相当于他陆地移动速度的游泳速度。
+|source_name=极限战斗
+}}

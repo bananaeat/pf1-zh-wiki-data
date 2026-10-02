@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[元素之拳]] 的神话版本。</small></div>
+{{Feat
+|name=元素之拳
+|english_name=Elemental Fist
+|categories=神话
+|description=凝聚元素之力能使你的双拳更为有力。
+|prerequisites=[[元素之拳]]
+|benefit=[[元素之拳]]专长所增加的额外能量伤害增加至1d8点，而且每日你能够使用元素之拳专长的次数会额外增加，数量等同于你的阶层。你能够以[[直觉动作]]花费1次神话之力，来将元素之拳带来的额外伤害加到你所进行的所有[[徒手打击]]上，直至你的下一回合开始为止。无论你以此方式进行多少次攻击，这只被算作使用1次元素之拳。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[共振之语]] 的神话版本。</small></div>
+{{Spell
+|name=共振之语
+|english_name=Resonating Word
+|school=变化系
+|tags=音波
+|levels=吟游诗人 5;歌者 5;奥能师 7;异能者 7;术士 7;法师 7
+|description=第一轮与第二轮造成的伤害增加至8d6点，第三轮的伤害增加至15d6点。目标在对抗所有音波效果的豁免检定中均会受到-4减值。
+|source=神话冒险
+}}
+[[分类:神话法术]]

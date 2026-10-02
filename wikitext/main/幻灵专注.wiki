@@ -1,0 +1,10 @@
+{{Feat
+|name=幻灵专注
+|english_name=Focused Eidolon
+|description=你和你[[幻灵]]的联系帮助你保持专注。
+|prerequisites=【幻灵护体】职业特性。
+|benefit=当你临近你的幻灵时，你的专注检定获得+4加值。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

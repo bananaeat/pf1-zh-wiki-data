@@ -1,0 +1,15 @@
+{{Feat
+|name=仇敌猎手
+|english_name=Foeslayer
+|aliases=复仇化身
+|categories=故事
+|pfs=否
+|description=你与你的敌人的宿仇只能用鲜血来平息。
+|prerequisites=你必须被特定的类人或人形怪物团体击败并被抢走至少一半的财富；或拥有"以眼还眼"、"不共戴天"、"惨遭劫掠"、或"绝命复仇"角色背景。你可选择特定种族，如灰矮人或更广泛的群体，如地精类。经GM允许，也可选择特定国家、定居点或部落的居民作为宿敌。
+|benefit=你对所选群体使用法术或能力时，其豁免DC获得+1加值；对抗其攻击时，AC获得+1闪避加值。
+|goal=击杀适当数量的被视为强大敌手。
+|completion_benefit=你对所选种族发动的攻击获得精通重击专长效果。对抗此类敌人的AC闪避加值提升至+2。 推荐背景特性：好搭档、宿敌誓仇者、报复心
+|source=、UCa
+|source_name=任务与战役、极限战役
+|source_url=https://pf1chm.pages.dev/topics/zhef0bc5c087.htm
+}}

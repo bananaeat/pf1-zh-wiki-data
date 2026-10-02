@@ -1,0 +1,10 @@
+{{Feat
+|name=剑影
+|english_name=Sword's Shadow
+|categories=战斗
+|description=在对手从第一剑的威力中恢复态势之前斩出第二剑。
+|prerequisites=[[妙手]]，基本攻击加值+7，汲魂木
+|benefit=当你以[[全力攻击]]的第一次攻击造成伤害时，你可以以[[直觉动作]]进行一次[[巧手]]检定对抗敌人的CMD。若你成功，作为本次全力攻击的一部分，你可以令敌人对你的下一次攻击[[措手不及]]。
+|source_name=格拉利昂的英雄
+|source_url=https://pf1chm.pages.dev/topics/zhe4b6469482.htm
+}}

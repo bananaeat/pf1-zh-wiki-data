@@ -1,0 +1,24 @@
+<includeonly>
+<div class="columns hidden-xs" style="-moz-column-count:{{{count|3}}}; -webkit-column-count:{{{count|3}}}; column-count:{{{count|3}}}; height:{{{height|auto}}};{{#if: {{{style|}}}|{{{style|}}};}}">
+{{{1|}}}
+</div><div class="visible-xs">{{{1|}}}</div>
+</includeonly><noinclude>{{优质模板|信息}}{{documentation}}[[Category:Huiji template]]
+{{DEFAULTSORT:Columns}}</noinclude>
+
+<noinclude>
+<templatedata>
+{
+	"params": {
+		"1": {
+			"description": "内容",
+			"required": true
+		},
+		"count": {
+			"description": "每行显示列表数",
+			"suggested": true
+		}
+	},
+	"description": "本模版用于以行的形式显示列表。其中count参数表示每行显示多少条信息，默认为3。1参数中填列表内容，其中每项列表内容以*开头。\n详细案列请前往https://templatemanager.huiji.wiki/wiki/%E6%A8%A1%E6%9D%BF:columns\n "
+}
+</templatedata>
+</noinclude>

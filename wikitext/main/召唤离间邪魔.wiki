@@ -1,0 +1,16 @@
+{{Spell
+|name=召唤离间邪魔
+|english_name=Summon erodaemon
+|school=咒法系 (召唤)
+|tags=邪恶
+|levels=召唤师 6;召唤师（掉链） 6;先知 8;奥能师 8;女巫 8;术士 8;法师 8;牧师 8
+|action=1轮
+|components=语言;姿势;法器（一枚弯曲或是被玷污的结婚戒指）
+|range=近距
+|effect=一只召唤的生物
+|duration=1轮/等级 (可解消)
+|save=无
+|sr=否
+|description=本法术的效果和[[召唤怪物]]一样，除了本法术召唤的是一只离间邪魔。
+|source=永罪之书末辑，天启诸骑
+}}

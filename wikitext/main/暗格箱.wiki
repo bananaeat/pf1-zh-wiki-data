@@ -1,0 +1,9 @@
+{{装备
+|name=暗格箱
+|english_name=False-bottomed chest
+|cat=冒险装备
+|price=52 gp
+|weight=25磅
+|description=这种[[箱子]]常被走私者用来运送违禁品，或是被那些想把宝藏藏起来的人使用。箱子的暗格约有1寸深，分为从内部、底部或从背部打开等不同类型。发现暗格需要一个DC20的察觉检定。
+|source=冒险者的军械库、极限宝具
+}}

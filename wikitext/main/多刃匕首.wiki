@@ -1,0 +1,17 @@
+{{武器
+|name=多刃匕首
+|english_name=Quadrens
+|category=武器
+|prof=异种
+|wcat=轻型
+|price=8 gp
+|weight=2磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=19–20/×2
+|type=穿刺
+|special=演武
+|groups=轻刃
+|description=多刃匕首看上去像是一把结实的[[匕首]]，只是没有刀刃，取而代之的是按方形排布的四根尖刺。用多刃匕首造成重击时，由此产生的豁开的伤口会造成1点[[出血]]伤害。这些尖刺除了能刺穿兽皮和护甲，还可以用来钩住对手的武器，将其从对方手中扭脱。
+|source=极限战斗、极限宝具
+}}

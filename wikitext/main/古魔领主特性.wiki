@@ -1,0 +1,19 @@
+<noinclude>{{速查导航|here=规则}}
+'''古魔领主特性'''（Qlippoth Lord Traits）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex、Sp 或 Su</span></div>
+</noinclude><includeonly><div class="lang"><span id="古魔领主特性"></span><div class="lang-h"><b>[[古魔领主特性]]</b><i>Qlippoth Lord Traits</i><span class="lang-w">Ex、Sp 或 Su</span></div><div class="lang-d"></includeonly>
+古魔领主是一种强大而独特的古魔，它们曾统治着无底深渊的一片区域，如今被迫退至深渊深处被人遗忘的角落之中。在创世之初，古魔领主是强大的生物，也许足以与神灵媲美，但今天它们的力量只余下一小片苍白的阴影。尽管如此，在极少数情况下，它们对与其遭遇的凡间生命仍有着潜在的威胁。所有的古魔领主都是 CR 从 21 到 25 的混乱邪恶古魔。古魔领主有一套特定的特性（除非在生物条目中另有说明），概述如下。
+
+* 古魔领主可以向它的崇拜者提供法术，就好像它是一位神祇。古魔领主的领域为混乱和邪恶，外加与它的主题和兴趣相关的另外两个领域和四个子域。如同神祇，古魔领主有一种偏好武器。
+* 古魔领主的天生武器和它持用的任何武器，在克服伤害减免时都视为混乱、传奇和邪恶武器。
+* '''骇人外貌（Horrific Appearance，Su）'''：这项能力与典型的古魔能力类似，不过古魔领主的骇人外貌会对受害者产生物理效应和改变。尽管存在这些物理效应，古魔领主的骇人外貌仍然是一种影响心灵的效果。
+* 免疫寒冷、死亡效果、影响心灵的效果和毒素。
+* '''再生（Regeneration，Ex）'''：守序伤害会中断古魔领主的[[再生]]。
+* 酸蚀抗力 30、电击抗力 30 和火焰抗力 30。
+* '''召唤古魔（Summon Qlippoth，Sp）'''：每天一次，以一个标准动作，古魔领主可以召唤总 CR 为 20 或更低的任意古魔组合。除此之外，该能力如同[[召唤]]通用怪物规则，成功率为 100%，并视为 9 环法术效果。
+* [[心灵感应(怪物能力)|心灵感应]] 300 尺。
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Qlippoth Lord Traits|2=Qlippoth Lord Traits}}
+
+[[分类:通用怪物规则]]</noinclude>

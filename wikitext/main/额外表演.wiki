@@ -1,0 +1,11 @@
+{{Feat
+|name=额外表演
+|english_name=Extra Performance
+|description=你可以更频繁的使用吟游表演能力。
+|prerequisites=【吟游表演】职业特性。
+|benefit=你每日能够多使用吟游表演6轮。
+|special=你可以多次选择本专长，其效果累计。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=擂台斗士
+|english_name=Exhibition Fighter
+|type=地区
+|prerequisites=龙华
+|description=你在武术擂台赛中表现最佳——这种比赛在龙华时期曾盛行，在夸英仍然常见。其他人可能会试图作弊，或对加在自己身上的限制心生不满，你却能在这样的约束下如鱼得水。当你在有规则和限制的锦标赛或其他结构化环境中战斗时，只要你没有违反比赛规则，你在攻击检定和伤害检定中获得+1加值。
+|source_name=古国血脉
+|source=BotA
+|source_url=https://pf1chm.pages.dev/topics/zhb7c0053e99.htm
+}}

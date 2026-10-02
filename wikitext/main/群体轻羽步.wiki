@@ -1,0 +1,15 @@
+{{Spell
+|name=群体轻羽步
+|english_name=Feather step, mass
+|school=变化系
+|levels=吟游诗人 3;异能者 3;德鲁伊 3;歌者 3;游侠 3;猎人 3
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=每等级一个生物，任意两者之间不得超过30尺
+|duration=10分钟/等级
+|save=强韧，通过则无效（无害）
+|sr=是
+|description=如同[[轻羽步]]，不过该法术影响多名生物。
+|source=进阶玩家指南
+}}

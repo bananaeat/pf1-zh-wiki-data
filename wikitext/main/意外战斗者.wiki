@@ -1,0 +1,12 @@
+{{Feat
+|name=意外战斗者
+|english_name=Surprising Combatant
+|categories=战斗
+|pfs=否
+|description=你能短暂地让敌人忽略你的威胁。
+|prerequisites=[[精通先攻]]，[[唬骗]]3级
+|benefit=在战斗最开始，[[先攻]]顺序被确定之后，第一轮开始之前，你可以以[[自由动作]]尝试[[唬骗]]。所有察觉到你的敌人必须进行察言观色检定对抗你的唬骗检定结果，否则在判断其是否察觉战斗已经开始时，该敌人视为没有察觉到你。如果所有敌人都没察觉到你，那么你在[[突袭]]轮中可以行动。如果一个敌人实际上没有察觉到任何对手，他无法在突袭轮中行动。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_809.html
+}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=维生戒指
+|english_name=Ring of Sustenance
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Sustenance
+|cat=戒指
+|aura=微弱咒法系
+|cl=5
+|slot=戒指
+|price=2,500 gp
+|description=这枚[[魔法物品#戒指|戒指]]能持续为穿戴者提供维持生命的营养。戒指还能使身心焕然一新；穿戴者每天只需睡眠2小时，就能获得8小时睡眠的益处。这样，需要休息才能准备法术的施法者只需休息2小时就可以准备法术，但并不允许施法者每天多次准备法术。戒指必须连续穿戴整整一周才会开始生效。如果摘下，主人必须再穿戴一周，才能让戒指重新与自己同调。
+|req=[[锻造戒指]]、[[造粮术]]
+|cost=1,250 gp
+|source=核心规则书、极限宝具
+}}

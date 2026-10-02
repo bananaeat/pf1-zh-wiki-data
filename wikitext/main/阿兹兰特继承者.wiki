@@ -1,0 +1,11 @@
+{{消歧义|阿兹兰特后裔}}
+{{Trait
+|name=阿兹兰特继承者
+|english_name=Azlanti Inheritor
+|type=种族
+|prerequisites=阿兹兰特人*
+|description=古老魔法帝国阿兹兰特的血脉在你身体中流淌——即便你的家族对此传说血统一无所知。你终生萦绕的梦境更像被遗忘的年代的回忆。你在知识(历史)检定上获得+1背景加值，在与阿兹兰特起源的物品或鉴定[[艾恩石]]相关的[[估价]]检定上获得+2背景加值。
+(*经GM决断，除了阿兹兰特民族以外的角色也可选择此背景，赋予角色这种传奇先民返祖现象的特征)
+|source_name=格拉里昂的人类
+|source_url=https://pf1chm.pages.dev/topics/page_1581.html
+}}

@@ -1,0 +1,12 @@
+{{Feat
+|name=叛逆打击
+|english_name=Betraying Blow
+|categories=战斗
+|pfs=是
+|description=当你打破任何同盟之时，你心知此举是为了一劳永逸.
+|prerequisites=[[孤狼独舞]], BAB +8
+|benefit=无论何时当你通过近战攻击对仅被你威胁的目标造成[[非致命伤害]]时. 骰[[唬骗]]检定对抗目标的察言观色检定. 你额外造成等同于你唬骗检定和目标察言观色检定之差的1/2的非致命伤害（最小为0). 如果你的目标对你的态度为友好或乐于帮助（包括因为威吓检定, [[魅惑人类]]或其他类似效果造成暂时状态), 你会改为额外造成等同于你唬骗检定和目标察言观色检定之差的非致命伤害。无论如何，由本专长造成的额外非致命伤害不能超过你的HD.
+|source=BoG
+|source_name=格拉利昂的混种
+|source_url=https://pf1chm.pages.dev/topics/zh105be64e81.htm
+}}

@@ -1,0 +1,14 @@
+{{Feat
+|name=阻绊投掷
+|english_name=Binding Throw
+|categories=战斗
+|description=你攻击你的敌人，并顺势捕获和擒住他。
+|prerequisites=[[精通擒抱]]，[[精通摔绊]]，[[精通徒手打击]]，太极推手。
+|benefit=当你成功的对一个敌人使用了[[太极推手]]，你可以用一次[[迅捷动作]]对其进行一次[[战技]]检定以尝试[[擒抱]]他。
+|normal=进行擒抱战技检定是一个[[标准动作]]。
+|special=武僧可以在14级以后选择该专长作为[[奖励专长]]。
+|stamina=你可以花费1点耐力，在迅捷擒抱时获得2点加值。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

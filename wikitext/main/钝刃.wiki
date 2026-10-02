@@ -1,0 +1,11 @@
+{{Feat
+|name=钝刃
+|english_name=Blunt Blade
+|categories=血巫术
+|description=你用一次诅咒让你的对手在战斗中变得不再可怕。
+|prerequisites=智力13，基础攻击加值+6，使用魔法装置1级
+|benefit=以一个标准动作，你诅咒一个你在上一分钟内曾对其造成过伤害的敌人，让他的精准度下降。目标必须通过一个成功的强韧豁免，否则他会在确认所有重击威胁时自动失败。该效果持续一轮。
+|special=如果一个萨满或女巫使用这个血巫术，目标在巫术持续时间内也不能造成精准伤害或偷袭攻击伤害。
+|source_name=魔法战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_343.html
+}}

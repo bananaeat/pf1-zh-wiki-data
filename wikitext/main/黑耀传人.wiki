@@ -1,0 +1,15 @@
+{{Feat
+|name=黑耀传人
+|english_name=Umbral Scion
+|pfs=否
+|description=当你在[[卓尔]]族群中越发具有权势的时候，你会得到新的类法术能力。
+|prerequisites=魅力13，感知13，卓尔贵族，[[高等卓尔贵族]]，[[进阶卓尔贵族]]，能够使用卓尔的类法术能力，卓尔。
+|benefit=在下列法术选择其一：[[解除魔法]]，[[神恩]]，[[暗示术]]。你获得每天以类法术能力使用该法术1次的能力。CL等同于你的角色等级。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[进阶黑耀传人]]（1 个条目）

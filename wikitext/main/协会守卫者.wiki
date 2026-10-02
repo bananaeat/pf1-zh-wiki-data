@@ -1,0 +1,9 @@
+{{Trait
+|name=协会守卫者
+|english_name=Defender of the Society
+|type=战斗
+|prerequisites=[[战士]]，[[探索者协会]]
+|description=你在探索者协会向伟大的战士们学习，这段时间教会了你穿戴护甲时新的防御技巧。穿戴中甲或重甲时你的AC获得+1背景加值。
+|source_name=碎星玩家手册
+|source_url=https://pf1chm.pages.dev/topics/zhb4c4366d0e.htm
+}}

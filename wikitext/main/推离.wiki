@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''推离'''（Push）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：特殊攻击和个体攻击</span></div>
+</noinclude><includeonly><div class="lang"><span id="推离"></span><div class="lang-h"><b>[[推离]]</b><i>Push</i><span class="lang-w">Ex · 特殊攻击和个体攻击</span></div><div class="lang-d"></includeonly>
+该生物在一次特定的成功攻击后（通常是挥击）可以用自由动作做一次战技检定。如果成功，那么它可以像[[冲撞]]一样将生物直接推离，不过推离的距离取决于该能力。该能力的攻击类型和推离距离都在生物描述中给出。这个能力只能作用于体型不超过自己的生物。被推离的生物不会引起借机攻击，如果推离会使它们撞上实体物体或生物则会停下来。
+
+'''格式'''：推离（挥击，10 尺）
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Push|2=Push}}
+
+[[分类:通用怪物规则]]</noinclude>

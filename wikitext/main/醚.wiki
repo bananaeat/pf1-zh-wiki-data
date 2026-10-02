@@ -1,0 +1,11 @@
+{{危害
+|name=醚
+|english_name=Aether
+|kind=毒品
+|type=吸入
+|addiction=中度，强韧 DC 16
+|effect=1小时：施法者等级+1；1d4小时：使用者必须通过DC为15+法术环位的施法者等级检定才能施展法术
+|damage=1d2点体质伤害
+|price=20 gp
+|source=游戏主持人指南
+}}

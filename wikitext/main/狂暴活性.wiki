@@ -1,0 +1,10 @@
+{{Feat
+|name=狂暴活性
+|english_name=Raging Vitality
+|description=你在狂暴的时候更加有活力。
+|prerequisites=[[体质]] 15，【狂暴】职业特性。
+|benefit=每当你狂暴的时候，你体质上的士气加值提高2点。你的狂暴并不会在你[[失去意识]]时结束。不过当你失去意识时，每轮仍然必须花费每日狂暴轮数。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

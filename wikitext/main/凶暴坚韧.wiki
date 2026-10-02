@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=凶暴坚韧
+|english_name=Fierce Fortitude
+|type=Ex
+|categories=进攻
+|prerequisites=[[野蛮人]]8级；如果是[[歌者]]，则需要在[[技能/威吓|威吓]]上受训
+|benefit=角色在对抗疾病和毒素的豁免检定上获得+4加值。
+|source_name=进阶职业指南
+}}

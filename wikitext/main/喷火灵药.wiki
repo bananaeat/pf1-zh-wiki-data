@@ -1,0 +1,14 @@
+{{魔法物品
+|name=喷火灵药
+|english_name=Elixir of Fire Breath
+|aon=MagicWondrousDisplay.aspx?FinalName=Elixir of Fire Breath
+|cat=奇物
+|aura=中等塑能系
+|cl=11
+|slot=无
+|price=1,100 gp
+|description=这种奇特的冒泡灵药赋予饮用者吐出火焰的能力。他可以喷火最多三次，每次对25尺内的单一目标造成4d6点火焰伤害。目标可以进行DC 13的反射豁免，成功则伤害减半。未使用的喷火在液体被饮下1小时后消散。
+|req=[[制造奇物]]、[[灼热射线]]
+|cost=550 gp
+|source=核心规则书、极限宝具
+}}

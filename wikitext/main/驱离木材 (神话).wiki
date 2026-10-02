@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[驱离木材]] 的神话版本。</small></div>
+{{Spell
+|name=驱离木材
+|english_name=Repel Wood
+|school=变化系
+|levels=德鲁伊 6;猎人 6
+|description=施法时间变为1个直觉动作。你可以致使一件受影响的、直径至多为5英吋的木制物体折断破裂。
+
+强化（3阶）：若你花费2次神话之力，区域就会变为‘自你而起的60尺锥形发散区域’。
+|source=神话冒险
+}}
+[[分类:神话法术]]

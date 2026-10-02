@@ -1,0 +1,9 @@
+{{装备
+|name=防水提灯
+|english_name=Waterproof lantern
+|cat=冒险装备
+|price=+5 gp
+|weight=—
+|description=防水提灯旨在保护灯焰不受水和风的侵扰：在判定风是否会熄灭其火焰时，它视烈风为强风，视暴风为烈风，视飓风为暴风。它内部存有足够的空气，可在水下燃烧5轮，之后熄灭。
+|source=冒险者的军械库、极限宝具
+}}

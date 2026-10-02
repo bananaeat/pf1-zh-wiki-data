@@ -1,0 +1,11 @@
+{{Feat
+|name=塔尔多决斗家
+|english_name=Taldan Duelist
+|categories=战斗
+|description=你曾经受过塔尔多的精英战斗学院的训练，并且精通龙德勒罗——使用钩形砍刀（见进阶玩家指南）与[[小圆盾]]的武艺。
+|prerequisites=[[敏捷]] 13，擅长异种武器：钩形砍刀，擅长盾牌：小圆盾，武器专攻：钩形砍刀
+|benefit=当你使用钩形砍刀与小圆盾进行战斗时，你的盾牌提供的AC提高1点，并且你的特技检定获得+2加值。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

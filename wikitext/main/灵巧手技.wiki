@@ -1,0 +1,10 @@
+{{Feat
+|name=灵巧手技
+|english_name=Manipulative Agility
+|description=你那双灵巧的手可以像摆弄小物件一般控制他人。
+|prerequisites=[[唬骗]]1级，[[巧手]]1级
+|benefit=你能够在战斗中进行[[虚招]]的检定以及在不引起注意的传递密语检定中，使用[[巧手]]替代[[唬骗]]（通过使用手势和肢体动作）。在这两种情况下，检定效果都会变为视觉效果，而且如果目标或接收密语的对象[[目盲]]或者无法看到你，检定便无法生效。在传递密语的情况下，依照GM的判断，手语和肢体语言带来的局限性可能会影响你所能传递的信息种类。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

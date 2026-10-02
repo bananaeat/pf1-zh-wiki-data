@@ -1,0 +1,11 @@
+{{Trait
+|name=终结战斗
+|english_name=Finish the Fight
+|type=种族
+|prerequisites=[[半兽人]]（兽人养育）
+|description=你是长幼尊卑制度中的底层存在，当你要挑战这制度时，你的胜利必须是毋庸置疑。你在对抗你过去24小时里伤害过的敌人时，你的攻击骰获得+1背景加值。
+【PFS】仅当你的角色与该背景特性所在小节的族群相同时才合法。
+|source_name=格拉里昂的混种
+|source=格拉利昂的混种
+|source_url=https://pf1chm.pages.dev/topics/zh8a60bedf4e.htm
+}}

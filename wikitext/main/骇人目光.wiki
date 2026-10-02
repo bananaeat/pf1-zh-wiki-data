@@ -1,0 +1,10 @@
+{{Feat
+|name=骇人目光
+|english_name=Intimidating Gaze
+|description=你眼中的某些东西让人肝胆欲裂。
+|prerequisites=[[魅力]] 13，【严苛凝视】职业特性，威吓5级。
+|benefit=每日1次，在你做威吓检定时，可以用一个[[自由动作]]双骰取高。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

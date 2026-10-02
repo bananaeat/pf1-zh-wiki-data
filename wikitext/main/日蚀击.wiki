@@ -1,0 +1,12 @@
+{{Feat
+|name=日蚀击
+|english_name=Eclipse Strike
+|categories=团队
+|pfs=否
+|description=突然的黑暗使你的敌手迷失方向，使其无法抵御你的致盲攻击。
+|prerequisites=[[魔裔]]，[[黑暗术]]种族类法术能力。
+|benefit=如果你与另一名同样拥有该专长的盟友[[夹击]]目标的话，你可以以一个[[标准动作]]，发起一次日蚀击攻击。你和你的盟友必须同时拥有至少1次你们的[[黑暗术]]种族类法术能力，才能发起这种攻击。如果你的日蚀击命中的话，你的目标[[目盲]]1轮。具有[[看破黑暗]]能力的生物，免疫由日蚀击带来的目盲。
+|source=ISR
+|source_name=内海种族
+|source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm
+}}

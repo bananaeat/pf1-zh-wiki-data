@@ -1,0 +1,9 @@
+{{Trait
+|name=伶牙诉棍
+|english_name=Glib Barrister
+|type=种族
+|prerequisites=[[人类]]（切利亚斯人）
+|description=你在法律至上的官僚体系中长大，但这从未阻止你在铁律合同中寻找漏洞。你在用于伪造文书的[[语言学]]检定上获得+2背景加值。
+|source_name=格拉里昂的人类
+|source_url=https://pf1chm.pages.dev/topics/page_1581.html
+}}

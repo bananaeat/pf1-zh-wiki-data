@@ -1,0 +1,13 @@
+{{Feat
+|name=匍匐射手
+|english_name=Prone Shooter
+|categories=战斗
+|description=当你[[俯卧]]时，你可以将弩或火器撑在地上稳定的射击。
+|prerequisites=基本攻击加值+1。
+|benefit=如果你在你上一回合结束后一直处于俯卧状态，你在对抗近战攻击的防御等级的减值降到-2。此外，你在对抗远程攻击的防御等级的加值上升到+6。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+{{FAQ|v5748eaic9pyu}}

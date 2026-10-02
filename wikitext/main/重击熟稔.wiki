@@ -1,0 +1,14 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[重击熟稔 (神话)]]。</small></div>
+{{Feat
+|name=重击熟稔
+|english_name=Critical Mastery
+|categories=战斗;重击
+|description=你的重击能引发两种重击效果。
+|prerequisites=[[重击专攻]]，任意两项重击专长，战士14级。
+|benefit=当你重击时，你在造成伤害的同时可以引发两项[[重击专长]]的效果。
+|normal=当你重击时，你在制造伤害的同时只能引发一项重击专长的效果。
+|stamina=重击确认时，如果花费2点耐力，你可以选择不对目标引发两项重击专长，而引发一项你符合条件但未学习的重击专长效果。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

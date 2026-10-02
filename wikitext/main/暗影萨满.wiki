@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Advanced Class Origins pg. 17），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=暗影萨满
+|english_name=Shadow Shaman
+|type=地区
+|prerequisites=奈多
+|description=暗影王国奈多的萨满学会了与栖身暗影中的灵魂交谈。将[[无声幻影]]和[[朦胧术]]分别作为1环和2环法术加入你的萨满法术列表。
+|source_name=进化职业起源
+|source=ACO
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Shadow%20Shaman
+}}

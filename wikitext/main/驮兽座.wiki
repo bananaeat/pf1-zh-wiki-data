@@ -1,0 +1,11 @@
+{{Trait
+|name=驮兽座
+|english_name=The Pack
+|type=宇宙
+|aliases=57-63 驮兽座
+|prerequisites=奥罗都斯(Arodus)11日-洛瓦(Rova)16日(译注：8月11日-9月16日)
+|description=你被那尾随篷车星系的野兽们所祝福，这代表群体的保护。你在教授动物技巧的[[驯养动物]]检定上获得+2背景加值(trait bonus),并且驯养动物成为你的[[本职技能]]。
+|source_name=宇宙背景
+|source=PFS
+|source_url=https://pf1chm.pages.dev/topics/zhc3ea784a66.htm
+}}

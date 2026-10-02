@@ -1,0 +1,9 @@
+{{Trait
+|name=噬魂者
+|english_name=Soul Eater
+|type=种族
+|prerequisites=[[魔裔]]（残忍族裔）
+|description=谋杀行为使你从那些消散的灵魂中吸取活力。每当你使用[[致命一击]]（CDG）动作杀死一个生物（无论是通过伤害杀死还是由于对方没有通过强韧豁免），你都会获得等同于你人物等级一半的暂时生命（最低为1），持续1分钟。这些暂时生命不会通过多次致命一击而叠加。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_832.html
+}}

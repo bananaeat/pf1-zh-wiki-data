@@ -1,0 +1,15 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=礼仪腕带
+|english_name=Decorum Band
+|aon=MagicWondrousDisplay.aspx?FinalName=Decorum Band
+|cat=奇物
+|aura=微弱预言系
+|cl=3
+|slot=腕部
+|price=1,000 gp
+|description=这条纤细的黑色皮革护腕很容易戴在手腕上，戴上后片刻之内就会紧贴皮肤。佩戴礼仪腕带者能察觉到任何可能使某个生物对佩戴者的态度向负面转变的行为，并且在实施这种行为之前就得知这一信息。
+|req=[[制造奇物]]、[[侦测思想]]
+|cost=500 gp
+|source=Pathfinder: Goblins #1
+}}

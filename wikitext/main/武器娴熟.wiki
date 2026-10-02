@@ -1,0 +1,18 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[武器娴熟 (神话)]]。</small></div>
+{{Feat
+|name=武器娴熟
+|english_name=Weapon Finesse
+|categories=战斗
+|description=你善于在近身战斗中使用敏捷代替蛮力。
+|benefit=使用适于你体型的轻型武器、[[细剑]]、[[长鞭]]、[[刺链]]时，你可以在攻击检定中改为使用敏捷修正，而非力量修正。若你持用盾牌，攻击检定会受到盾牌的防具检定减值。
+|special=天生武器视为轻型武器。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[优雅挑刺]]、[[优雅挥砍]]、[[优雅繁星]]、[[变形者刃爪]]、[[奥多里决斗大师]]、[[奥多里剑斗学徒]]、[[怒流剑式]]、[[枪舞疾]]、[[枪舞觅心]]、狂舞、[[落花流水剑]]、[[雾池剑式]]、[[鞭如灵蛇]]、[[食人鱼打击]]（14 个条目）
+
+{{FAQ|v5748eaic9ojt}}

@@ -1,0 +1,14 @@
+{{魔法物品
+|name=十字军圣骸布
+|english_name=Mantle of the Crusader Host
+|aon=MagicWondrousDisplay.aspx?FinalName=Mantle of the Crusader Host
+|cat=奇物
+|aura=强烈防护系
+|cl=20
+|slot=胸部
+|price=95,000 gp
+|description=这件圣骸布上刻有数百段神圣经文，以向诸善神致敬。它赋予穿戴它的角色DR 5/邪恶。对抗具有恶魔亚种的生物的攻击时，伤害减免变为DR 5/—。如果穿戴者是圣武士，那么对抗她的制裁邪恶职业能力所指定的目标时，伤害减免变为DR 5/—。
+|req=[[制造奇物]]、[[石肤术]]，制造者必须是善良阵营
+|cost=47,500 gp
+|source=内海战斗
+}}

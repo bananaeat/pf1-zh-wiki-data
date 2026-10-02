@@ -1,0 +1,14 @@
+{{魔法物品
+|name=黑暗透镜
+|english_name=Lenses of Darkness
+|aon=MagicWondrousDisplay.aspx?FinalName=Lenses of Darkness
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=眼部
+|price=12,000 gp
+|description=这副透镜以深色晶体材料制成，并注入了魔法黑暗，戴在佩戴者的眼睛前方。具有[[强光敏感]]或[[强光失明]]的生物佩戴时，这副透镜能保护佩戴者不受日光、昼明术或类似光线效果的影响。必须两片透镜都戴上，魔法才会生效。
+|req=[[制造奇物]]、[[黑暗术]]
+|cost=6,000 gp
+|source=进阶种族手册
+}}

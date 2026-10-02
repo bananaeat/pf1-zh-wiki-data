@@ -1,0 +1,14 @@
+{{魔法物品
+|name=诚实药水
+|english_name=Elixir of Truth
+|aon=MagicWondrousDisplay.aspx?FinalName=Elixir of Truth
+|cat=奇物
+|aura=微弱惑控系
+|cl=5
+|slot=无
+|price=500 gp
+|description=饮用者10分钟内只能说真话（DC13意志豁免通过则无效）。饮用者在这段时间内必须回答任何问题，不过针对每个问题，饮用者都可以进行一次单独的DC13意志豁免检定。该次豁免成功的话，不会使灵药效果消失，但是她可以拒绝回答该次问题（如果要回答，还是得说真话）。一轮只能问一个问题。这是一种影响心灵的胁迫惑控效果。
+|req=[[制造奇物]]、[[诚实之域]]
+|cost=250 gp
+|source=核心规则书、极限宝具
+}}

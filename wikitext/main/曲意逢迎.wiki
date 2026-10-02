@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 195），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=曲意逢迎
+|english_name=Ingratiating
+|type=种族
+|prerequisites=[[人类]]（切利亚斯人）
+|description=某个与你亲近的人失去了政府的恩宠，被撤职并由他人取而代之，你不得不迅速向她的继任者证明你的忠诚，否则就要面临自己的身败名裂。与地位在你之上、对你握有权威的人互动时，你的[[唬骗]]和[[交涉]]检定获得+2背景加值。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Ingratiating
+}}

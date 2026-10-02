@@ -1,0 +1,15 @@
+{{魔法物品
+|name=灵魂之泪
+|english_name=Spirit Tear
+|aon=MagicJujuFetishes.aspx#Spirit Tear
+|cat=巫毒神物
+|aura=微弱预言系
+|cl=5
+|slot=颈部
+|price=1,800 gp
+|weight=—
+|description=这个小小的玻璃饰品通常被制成眼睛或水滴的形状。每天一次，佩戴者可以激活灵魂之泪，在5分钟内获得范围10尺的[[识破隐形]]能力。
+|req=[[制造奇物]]、[[识破隐形]]
+|cost=900 gp
+|source=冒险之路39：七矛之城
+}}

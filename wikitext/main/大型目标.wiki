@@ -1,0 +1,11 @@
+{{Feat
+|name=大型目标
+|english_name=Large Target
+|categories=战斗
+|description=越大的敌人越容易被你的[[投石索]]打中要害。
+|prerequisites=擅长投石索。
+|benefit=你使用任何投石索攻击时，目标体型比你每大一级，伤害+1。例如你的体型是小型，攻击一个大型生物，就会造成额外2点伤害（因为体型差2级）。这是基于精准的伤害，在重击时不翻倍。
+|source=HoG
+|source_name=格拉利昂的半身人
+|source_url=https://pf1chm.pages.dev/topics/page_509.html
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=瘟疫鼠腰带
+|english_name=Plague Rat Belt
+|aon=MagicWondrousDisplay.aspx?FinalName=Plague Rat Belt
+|cat=奇物
+|aura=中等变化系
+|cl=8
+|slot=腰部
+|price=5,200 gp
+|weight=1磅
+|description=这条腰带使佩戴者的体质获得+2增强加值。在佩戴的头24小时内，视该加值为临时属性加值。此外，每天三次，佩戴者可以用[[直觉动作]]借助腰带，对一次为抵抗疾病或毒素而进行的豁免检定重骰。佩戴者必须采用第二次的结果，即使更差。
+|req=[[制造奇物]]、[[熊之坚韧]]、[[中和毒性]]、[[移除疾病]]
+|cost=2,600 gp
+|source=极限宝具
+}}

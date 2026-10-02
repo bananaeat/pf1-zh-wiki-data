@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Disciple's Doctrine pg. 3），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=自力更生
+|english_name=Self-Sustaining
+|type=信念
+|description=身为拉兹米尔、卡利斯拉德预言或其他宣扬自立之道的传统的追随者，你坚持不为小事寻求神助。获得此背景特性时，从下列0环法术中选择一个：[[造水术]]、[[修复术]]、[[净化食粮]]或[[稳定伤势]]。你每天可以将该法术作为类法术能力施放一次，以你的角色等级作为施法者等级。一经选定，便不可更改。
+|source_name=门徒教义
+|source=DD
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Self-Sustaining
+}}

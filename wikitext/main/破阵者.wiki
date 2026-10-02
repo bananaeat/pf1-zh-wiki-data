@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 5, Orcs of Golarion pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=破阵者
+|english_name=Linebreaker
+|type=地区
+|prerequisites=贝尔克泽恩
+|description=在贝尔克泽恩与终焉之墙交界处长大的经历，让你学会了如何冲击敌人的战线并迅速将其击溃。冲锋时，你的基础速度增加10尺。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Linebreaker
+}}

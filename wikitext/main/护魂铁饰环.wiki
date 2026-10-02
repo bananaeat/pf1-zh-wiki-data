@@ -1,0 +1,15 @@
+{{魔法物品
+|name=护魂铁饰环
+|english_name=Iron Circlet of Guarded Souls
+|aon=MagicWondrousDisplay.aspx?FinalName=Iron Circlet of Guarded Souls
+|cat=奇物
+|aura=中等防护系
+|cl=11
+|slot=头部
+|price=30,000 gp
+|weight=1磅
+|description=这个简朴的寒铁环上没有任何标记或装饰，摸上去总是微微发凉。它保护穿戴者的灵魂和身份不受神秘力量侵入。穿戴者免疫以灵魂为目标的效果（例如[[锢魂术]]），也免疫会被[[回避侦测]]法术挫败的效果（与回避侦测不同，施放占卜的施法者无法用法术抗力检定来克服这一效果）。如果穿戴者被杀死，在饰环被取下之前，他无法被魔法复活（[[神迹术]]、[[祈愿术]]或神力干预除外）。
+|req=[[制造奇物]]、[[回避侦测]]、[[锢魂术]]
+|cost=15,000 gp
+|source=极限宝具
+}}

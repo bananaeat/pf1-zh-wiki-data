@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[寓守于攻]] 的神话版本。</small></div>
+{{Feat
+|name=寓守于攻
+|english_name=Combat Expertise
+|categories=神话
+|description=你能够使用自身的技巧闪开敌人攻击的轨迹。
+|prerequisites=[[寓守于攻]]
+|benefit=每当你使用[[寓守于攻]]专长时，你的AC能够额外获得2点闪避加值。你能够花费1次神话之力，以此来使寓守于攻专长带来的近战攻击检定减值和[[战技]]检定减值暂时消失，该效果持续1分钟。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

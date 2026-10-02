@@ -1,0 +1,10 @@
+{{Trait
+|name=灰烬死敌
+|english_name=Ash Bane
+|type=地区
+|prerequisites=废土(Wastelands)
+|description=你对于灰烬巨人及其虫类守卫所携带的疾病产生了抵抗力。你在对抗灰烬巨人及虫类生物疾病能力的强韧豁免获得+2背景加值。此外，你在对虫类的近战攻击骰获得+1背景加值。
+|source_name=废土子民
+|source=PotW
+|source_url=https://pf1chm.pages.dev/topics/zha1cb183769.htm
+}}

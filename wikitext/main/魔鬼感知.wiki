@@ -1,0 +1,10 @@
+{{Feat
+|name=魔鬼感知
+|english_name=Devil Sense
+|description=你可以本能地感知到魔族的存在。
+|prerequisites=感知13，可以以法术或者类法术能力施放侦测邪恶
+|benefit=在你每回合开始的时候，如果你60尺内有一个邪恶子类的异界生物存在，你会本能的感觉到有一些邪恶的东西在附近。你可能会感受到一些难闻的气味或味道（如硫磺）；你的手臂或脖子上会起鸡皮疙瘩；或者是一种难以名状的恐惧感。这种感知不会告知你该异界生物所在的方向。任何能阻挡或误导侦测邪恶的东西同样可以阻止这种感知。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/page_1360.html
+}}

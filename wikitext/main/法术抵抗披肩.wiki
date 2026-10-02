@@ -1,0 +1,14 @@
+{{魔法物品
+|name=法术抵抗披肩
+|english_name=Mantle of Spell Resistance
+|aon=MagicWondrousDisplay.aspx?FinalName=Mantle of Spell Resistance
+|cat=奇物
+|aura=中等防护系
+|cl=9
+|slot=胸部
+|price=90,000 gp
+|description=这件轻薄的披肩上绣有各式各样的神秘符号。穿在普通衣物或护甲外面时，这件魔法衣物使穿戴者获得21点法术抗力。
+|req=[[制造奇物]]、[[法术抗力(法术)|法术抗力]]
+|cost=45,000 gp
+|source=核心规则书、极限宝具
+}}

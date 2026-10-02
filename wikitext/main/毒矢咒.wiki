@@ -1,0 +1,16 @@
+{{Spell
+|name=毒矢咒
+|english_name=Venomous bolt
+|school=死灵系
+|tags=毒素
+|levels=游侠 3;猎人 3
+|action=迅捷动作
+|components=语言;姿势
+|range=0尺
+|target=一根箭或弩矢
+|duration=立即
+|save=强韧，通过则无效；见下文
+|sr=是
+|description=你将自然毒素灌入单一一根将要射出的箭矢或者弩矢之中。除了造成正常伤害，任何被这根箭矢击中的生物均会如同受到[[毒击术]] 影响一般。如果箭矢没有被立即射出，该法术会结束并不再有任何效果。
+|source=进阶玩家指南
+}}

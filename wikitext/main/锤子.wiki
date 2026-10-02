@@ -1,0 +1,9 @@
+{{装备
+|name=锤子
+|english_name=Hammer
+|cat=冒险装备
+|price=5 sp
+|weight=2磅
+|description=如果在战斗中使用锤子，将其视为单手的临时武器，造成钝击伤害，伤害大小等于同体型带刺铁手套的伤害。
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=医疗光装饰
+|english_name=Ornament of Healing Light
+|aon=MagicWondrousDisplay.aspx?FinalName=Ornament of Healing Light
+|cat=奇物
+|aura=微弱咒法系
+|cl=5
+|slot=无
+|price=10,000 gp
+|weight=1磅
+|description=这枚手掌大小的圣徽由细小的彩色玻璃片嵌在金框中拼成。确切的圣徽图案在物品制造时确定。持握这件装饰的生物可以用一个[[自由动作]]，把圣徽的影像投射到15尺内的任何生物或表面上，类似于用灯光照出手影。这道光亮不足以照亮一片区域。如果持有者是圣武士，她可以对被圣徽之光照到的生物使用[[圣武士#圣疗|圣疗]]能力（实际上是把她圣疗的距离从接触提高到15尺）。
+|req=[[制造奇物]]、[[神圣链接]]（《[[进阶玩家指南]]》）
+|cost=5,000 gp
+|source=极限宝具
+}}

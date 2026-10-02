@@ -1,0 +1,11 @@
+{{Feat
+|name=野兽语者
+|english_name=Beast Speaker
+|description=你已经接受了泰克立坦野兽语者的训练来与魔法兽结盟。
+|prerequisites=驯养动物7级，有效德鲁伊等级7级的动物伙伴能力
+|benefit=你可以从魔法兽列表中选择一个生物作为你的动物伙伴。你获取和升级该野兽伙伴的方式与赋予你动物伙伴的职业能力的描述相同。你也可以按照职业能力中的描述遣散该生物。
+
+你必须满足额外先决条件才能选择智力为3或更高的伙伴，如每个生物的条目所述。
+|source_name=格拉利昂的英雄
+|source_url=https://pf1chm.pages.dev/topics/zhdd5001e184.htm
+}}

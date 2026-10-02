@@ -1,0 +1,11 @@
+{{狂暴之力
+|name=龙抗性
+|english_name=Dragon Totem Resilience
+|type=Su
+|categories=图腾
+|prerequisites=[[野蛮人]]8级，[[龙图腾]]
+|benefit=狂暴时，野蛮人得到和他所选龙类图腾相同的能量抗力，此抗力点数等于野蛮人本身的伤害减免。此外，每多一个龙类图腾相关的[[狂暴之力]]，此抗力还会额外上升2点。
+|source_name=极限战斗
+}}
+
+{{FAQ|v5748eaic9um9}}

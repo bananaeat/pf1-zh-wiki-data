@@ -1,0 +1,21 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[魔牙术 (神话)]]。</small></div>
+{{Spell
+|name=魔牙术
+|english_name=Magic Fang
+|school=变化系
+|levels=召唤师 1;召唤师（掉链） 1;唤魂师 1;德鲁伊 1;游侠 1;猎人 1
+|domains=毛兽子域 1;食族子域 1;鳞裔领域 1
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=接触
+|target=接触到的活物
+|duration=1分钟/等级
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=魔牙术可以让受术者的一个天生武器或[[徒手打击]]在攻击检定和伤害检定上获得+1增强加值。此法术可作用在挥击、拳击、啮咬或其他天生武器上。该法术并不能使徒手打击的伤害类型从[[非致命伤害]]变成致命伤害。
+
+魔牙术可以被[[魔法恒定术]]恒定。
+|source=核心规则书
+}}
+
+{{FAQ|v5748eaic9qd3}}

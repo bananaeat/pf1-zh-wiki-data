@@ -1,0 +1,12 @@
+{{危害
+|name=黑死病
+|english_name=Bubonic Plague
+|kind=疾病
+|type=伤口、吸入
+|save=强韧 DC 17
+|onset=1天
+|frequency=1次/天
+|effect=1d4点体质伤害和1点魅力伤害，且目标[[疲乏]]
+|cure=连续2次豁免成功
+|source=核心规则书
+}}

@@ -1,0 +1,10 @@
+{{Trait
+|name=不注意周围
+|english_name=Oblivious
+|type=缺陷
+|pfs=否
+|description=不管是你喜欢做白日梦还是习惯于将一切都交托于他人，总之你从不注意你周围的环境和其他人。
+|benefit=你的察言观色和基于视觉的察觉检定获得-2罚值。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

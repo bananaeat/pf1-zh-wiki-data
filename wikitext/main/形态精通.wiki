@@ -1,0 +1,10 @@
+{{Trait
+|name=形态精通
+|english_name=Mastery of Form
+|type=种族
+|prerequisites=[[兽态人]]
+|description=你在兽型和人型之间切换自如，控制自己形态的能力出类拔萃。你对变型效果的豁免+2背景加值。
+|source=BotM
+|source_name=月之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_808.html
+}}

@@ -1,0 +1,18 @@
+{{Spell
+|name=错失良机
+|english_name=Tactical miscalculation
+|school=惑控系 (胁迫)
+|tags=情绪;影响心灵
+|levels=吟游诗人 2;猎人 2;审判者 2;游侠 2;歌者 2
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一个生物
+|duration=1轮/等级
+|save=见后文
+|sr=是
+|description=目标会执着于避免伤害，即使在最适合攻击的时候也察觉不到攻击的机会。当一个目标威胁的生物会激起目标的[[借机攻击]]时，目标生物必须通过一个意志豁免，否则无法对该生物进行这次借机攻击。
+|source=初探探索者协会
+}}
+
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_1155.html 原文]），按 AoN 核对过。</small>

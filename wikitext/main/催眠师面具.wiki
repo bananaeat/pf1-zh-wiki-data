@@ -1,0 +1,17 @@
+{{魔法物品
+|name=催眠师面具
+|english_name=Mask of the Mesmerist
+|aon=MagicWondrousDisplay.aspx?FinalName=Mask of the Mesmerist
+|cat=奇物
+|aura=微弱预言系、幻术系
+|cl=5
+|slot=头部
+|price=25,000 gp
+|weight=4磅
+|description=这副面具由精雕细刻的木头制成，造型是一种神话生物，覆盖穿戴者的整张脸，只留两个眼孔。戴着它的催眠师能更好地集中于目标，其催眠注视能力的距离增加10尺。受穿戴者催眠注视影响的生物，对穿戴者进行的所有攻击检定都承受-2减值。
+
+每天一次，如果穿戴者拥有催眠师诡计职业能力，他可以植入一个诡计，而不消耗一次催眠师诡计能力的使用次数。该诡计也不计入他同时生效的诡计总数上限。
+|req=[[制造奇物]]、[[烦厌术]]、[[监察焦点]]
+|cost=12,500 gp
+|source=异能冒险
+}}

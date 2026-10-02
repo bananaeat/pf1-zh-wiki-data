@@ -1,0 +1,31 @@
+{{速查导航}}
+
+'''武器附魔'''是《[[位面冒险]]》的一章。
+
+== 武器特殊能力（Weapon Special Abilities） ==
+
+以下武器[[特殊能力]]对那些面临跨位面威胁以及在伟大彼岸（the Great Beyond）中旅行的人尤为有用。关于魔法武器规则详见[[核心规则书]]（Pathfinder RPG Core Rulebook）第467页的武器部分。
+
+== 表格1-5：武器特殊能力（Weapon Special Abilities） ==
+
+{| class="wikitable"
+|-
+! +1武器特殊能力（+1 Weapon Special Ability） !! 基础价格（Base Price）注1
+|-
+| 无阵营（Unaligned） || +1加值
+|-
+| +2武器特殊能力（+2 Weapon Special Ability） || 基础价格（Base Price）注1
+|-
+| 位面打击（Planestriking） || +2加值
+|}
+
+注1：折算成该武器的增强加值后来确定总价格。
+
+== 本章条目 ==
+
+* [[位面打击]]
+* [[无阵营]]
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1569.html 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+
+[[分类:书目章节]]

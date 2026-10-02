@@ -1,0 +1,10 @@
+<noinclude>{{掉链武僧导航}}
+'''肆意袭'''（Improvised Weapon Proficiency, EX, SU）是[[掉链武僧]]的[[绝学|绝学]]。
+
+</noinclude>{{Source|野兽血脉|Blood of the Beast|inline}}
+
+习得该能力的武僧在使用临时武器时不用承受减值。通过消耗1点气，他可以使用[[破损]]的武器进行战斗而不用承受攻击和伤害减值，持续1轮。<noinclude>
+
+[[分类:绝学]]
+
+{{职业}}</noinclude>

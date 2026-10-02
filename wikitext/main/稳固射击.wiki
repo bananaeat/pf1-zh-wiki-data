@@ -1,0 +1,12 @@
+{{Feat
+|name=稳固射击
+|english_name=Relentless Shot
+|categories=战斗
+|description=对于被击倒的敌人你保持着瞄准。
+|prerequisites=[[近距射击]]，BAB+6
+|benefit=当你对30尺内的一个目标通过远程攻击成功摔绊时，直到你下一轮开始前你会一直威胁目标。你可以对被此法威胁的目标用远程武器发动[[借机攻击]]。若你攻击另外的目标或目标移出被最初威胁的格子，该效果结束。
+|normal=当你持用远程武器时，你没有威胁范围也不能用远程武器进行借机攻击。
+|source=RTT
+|source_name=远程战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_552.html
+}}

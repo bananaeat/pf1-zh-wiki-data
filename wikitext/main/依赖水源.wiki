@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''依赖水源'''（Water Dependency）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：特性</span></div>
+</noinclude><includeonly><div class="lang"><span id="依赖水源"></span><div class="lang-h"><b>[[依赖水源]]</b><i>Water Dependency</i><span class="lang-w">Ex · 特性</span></div><div class="lang-d"></includeonly>
+拥有此特殊能力的生物离开水后，每点体质值可以存活 1 分钟。超过这个限度，该生物就有窒息的危险，如同溺水一般。
+
+'''格式'''：依赖水源
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Water Dependency|2=Water Dependency}}
+
+[[分类:通用怪物规则]]</noinclude>

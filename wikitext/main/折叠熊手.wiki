@@ -1,0 +1,17 @@
+{{武器
+|name=折叠熊手
+|english_name=Kumade, collapsible
+|category=武器
+|prof=简易
+|wcat=双手
+|price=10 gp
+|weight=4磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×3
+|type=穿刺
+|special=擒抱
+|groups=斧
+|description=它的作用与熊手相同，但握柄由数节竹段构成，由一根从中心穿过的绷紧绳索串在一起。松开绳索是一个会引发[[借机攻击]]的[[标准动作]]，会使武器散作一捆，可以塞进[[背包]]。重新组装折叠熊手需要一个会引发[[借机攻击]]的[[整轮动作]]。
+|source=近战战术工具箱
+}}

@@ -1,0 +1,10 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[虹光法球]] 的神话版本。</small></div>
+{{Spell
+|name=虹光法球
+|english_name=Prismatic Sphere
+|school=防护系
+|levels=奥能师 9;术士 9;法师 9
+|description=当你施放法术时，你能够同时创造出一条虹光喷射，它的起始点为法球上的任意一点，并且会直接向着远离你的方向喷射。虹光喷射的豁免DC与你的神话虹光法球豁免DC相同。
+|source=神话冒险
+}}
+[[分类:神话法术]]

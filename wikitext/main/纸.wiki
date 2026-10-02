@@ -1,0 +1,9 @@
+{{装备
+|name=纸
+|english_name=Paper (sheet)
+|cat=冒险装备
+|price=4 sp
+|weight=—
+|description=一张普通的纸通常是9英寸长、6英寸宽，并不适合制作魔法卷轴。它的硬度为0，具有1点生命值，击破DC为5。
+|source=核心规则书、冒险者的军械库、进阶玩家指南、极限宝具
+}}

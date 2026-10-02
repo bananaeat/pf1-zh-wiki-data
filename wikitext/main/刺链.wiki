@@ -1,0 +1,17 @@
+{{武器
+|name=刺链
+|english_name=Spiked chain
+|category=武器
+|prof=异种
+|wcat=双手
+|price=25 gp
+|weight=10磅
+|dmg_s=1d6
+|dmg_m=2d4
+|crit=×2
+|type=穿刺
+|special=卸武，摔绊
+|groups=链索
+|description=刺链长约4尺，布满了凶残的钩刺。有些会有铁箍作为把手。你能通过[[武器娴熟]]专长在持用一把型号与你体型相符的刺链时，在攻击检定中以敏捷修正取代力量修正，即便它并不是轻型武器。
+|source=核心规则书、极限宝具
+}}

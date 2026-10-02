@@ -1,0 +1,16 @@
+{{魔宠变体
+|name=窃物魔宠
+|english_name=Pilferer
+|description=有的[[魔宠]]是难以察觉的窃贼，能够为了它们的主人的利益进行盗窃行动或者简单的间谍活动。
+
+'''[[本职技能]]（Class Skills）'''：窃物魔宠将[[解除装置]]、脱逃以及[[巧手]]视为本职技能。
+
+'''[[精通盗取]]（Improved Steal）'''：窃物魔宠获得精通盗取APG（Improved Steal）作为[[奖励专长]]。该能力取代[[警觉]]（Alertness）。
+
+'''[[回避侦测]]（Nondetection，Sp）'''：窃物魔宠处于恒定的回避侦测（nondetection）影响之下，施法者等级等同于它的主人的职业等级。穿透回避侦测效果的施法者等级检定的DC等同于15 + 主人的施法者等级。该能力取代[[精通反射闪避]]（improved evasion）。
+
+'''偷偷摸摸（Sneak）'''：3级起，窃物魔宠的巧手与隐匿检定获得表现加值，数值等同于1/2它的主人的职业等级。该能力取代[[传递接触法术]]（deliver touch spells）。
+
+'''[[高等盗取]]（Greater Steal）'''：9级起，窃物魔宠获得高等盗取APG（Greater Steal）作为奖励专长。该能力取代与同类[[动物交谈]]（speak with animals of its kind）。
+|source=动物档案
+}}

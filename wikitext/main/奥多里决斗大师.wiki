@@ -1,0 +1,11 @@
+{{Feat
+|name=奥多里决斗大师
+|english_name=Aldori Dueling Mastery
+|categories=战斗
+|description=你熟练掌握被奥多里利剑之王所完善的激烈的战斗技巧。
+|prerequisites=[[擅长异种武器]]（奥多里决斗剑），[[即时备战]]，[[武器娴熟]]，[[武器专攻]]（奥多里决斗剑）
+|benefit=只要你在手持奥多里决斗剑时开始战斗，你便能在[[先攻]]检定上获得+2加值。只要你仅用一只手持用一把奥多里决斗剑（不使用盾牌、副手武器、甲刺、徒手打击或天生武器），你在AC上获得+2盾牌加值——若你用双手持用该剑，AC加值下降为+1盾牌加值。尽管决斗剑造成的是挥砍伤害，你在决定由[[决斗家]]或[[游荡剑客]]持用武器的效果时，也会同时将其视为一把穿刺武器。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

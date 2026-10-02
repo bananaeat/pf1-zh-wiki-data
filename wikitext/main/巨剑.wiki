@@ -1,0 +1,16 @@
+{{武器
+|name=巨剑
+|english_name=Greatsword
+|category=武器
+|prof=军用
+|wcat=双手
+|price=50 gp
+|weight=8磅
+|dmg_s=1d10
+|dmg_m=2d6
+|crit=19–20/×2
+|type=挥砍
+|groups=重刃
+|description=这把巨大的双手剑长约5尺。巨剑可能会在剑身底部有一处未开锋，用来协助抓握。
+|source=核心规则书、极限宝具
+}}

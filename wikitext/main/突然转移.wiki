@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=突然转移|en=Sudden Shift|type=Sp|domain=诡术领域|sub=欺骗子域 (Deception)|sub_name=欺骗子域|source=进阶玩家指南|text=一眨眼的功夫，你就能在别的地方出现。在一次近战攻击对你失手时，你能以[[直觉动作]]在视野内传送10尺，目的地必须仍能被此生物攻击到。每天能用“3+[[感知]]调整值”次。此能力替换[[诡术领域#复制幻象 (Copycat, Sp)|复制幻象]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

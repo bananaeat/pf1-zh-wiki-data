@@ -1,0 +1,16 @@
+{{Spell
+|name=瘟疫打击
+|english_name=Plague carrier
+|school=死灵系
+|tags=疾病;邪恶
+|levels=先知 4;德鲁伊 4;战斗祭司 4;牧师 4;猎人 4;奥能师 5;女巫 5;术士 5;法师 5
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的生物
+|duration=1小时/等级
+|save=强韧，通过则无效（无害）
+|sr=是
+|description=目标的天生武器会诱发腐热症，DC为10+1/2生物HD+生物体质调整值。
+|source=极限魔法
+}}

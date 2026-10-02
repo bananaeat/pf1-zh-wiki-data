@@ -1,0 +1,12 @@
+{{Feat
+|name=掠阵搭档
+|english_name=Harrying Partners
+|categories=战斗;团队
+|description=你与搭档的协同作战收获了更大的效果。
+|prerequisites=任一团队专长，BAB+6
+|benefit=若你成功通过协助他人动作给一个拥有该专长的盟友增加AC或AB，该援助动作带来的加值将持续到你的下一回合开始。
+|normal=协助他人动作给予盟友的+2加值，要么用于其下一次对该对手的攻击检定，要么用于在你下一回合开始前该对手的下一次攻击的AC。
+|source=MeleeTT
+|source_name=近战战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_555.html
+}}

@@ -1,0 +1,16 @@
+{{Spell
+|name=雪球风暴
+|english_name=Flurry of snowballs
+|school=塑能系
+|tags=寒冷;水
+|levels=奥能师 2;女巫 2;德鲁伊 2;术士 2;法师 2;猎人 2;魔战士 2
+|action=标准动作
+|components=语言;姿势
+|range=30尺
+|area=锥形爆发
+|duration=立即
+|save=反射，通过则减半
+|sr=否
+|description=你射出一阵雪球喷向你的敌人。范围内的所有生物都会被冰球砸中，受到4d6点寒冷伤害。
+|source=北方人民
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=骗子披肩
+|english_name=Cape of the Mountebank
+|aon=MagicWondrousDisplay.aspx?FinalName=Cape of the Mountebank
+|cat=奇物
+|aura=中等咒法系
+|cl=9
+|slot=肩部
+|price=10,800 gp
+|weight=1磅
+|description=每日一次，穿戴者可以凭命令让这件鲜红与金色相间的披肩施展任意门法术的魔法。他消失时会留下一团无害的灰烟，并以同样戏剧性的方式出现在目的地。
+|req=[[制造奇物]]、[[任意门]]
+|cost=5,400 gp
+|source=核心规则书、极限宝具
+}}

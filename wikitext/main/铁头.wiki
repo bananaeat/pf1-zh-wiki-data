@@ -1,0 +1,15 @@
+{{Feat
+|name=铁头
+|english_name=Hard-Headed
+|categories=战斗
+|description=你坚固的头部基本就是一件武器。
+|prerequisites=基本攻击加值+1，矮人。
+|benefit=你使用头盔进行攻击或使用[[战技]]时，攻击检定以及战技检定获得+1加值。当你对抗那些使你[[震慑]]或[[恍惚]]的法术或类法术能力时，豁免检定获得+2加值。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[爆盔护体]]、[[裂盔护体]]（2 个条目）

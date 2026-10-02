@@ -1,0 +1,11 @@
+{{消歧义|驱逐重击}}
+{{Feat
+|name=放逐重击
+|english_name=Banishing Critical
+|categories=战斗;重击
+|description=依靠你纯熟的作战技术和法术知识，你将异界怪物送回他们的老家。
+|prerequisites=[[重击专攻]]，施放[[驱逐术]]或[[放逐术]]的能力，施法者等级9
+|benefit=当你用一把挥砍或钝击武器造成攻击，你可以用一次[[直觉动作]]施放[[驱逐术]]或[[放逐术]]，并且目标在对抗这次法术的意志检定中有-4罚值。你必须准备有或能够自发施放驱逐术或放逐术才能使用该能力。
+|source_name=天界血脉
+|source_url=https://pf1chm.pages.dev/topics/page_829.html
+}}

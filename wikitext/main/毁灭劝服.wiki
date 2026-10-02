@@ -1,0 +1,12 @@
+{{Feat
+|name=毁灭劝服
+|english_name=Destructive Persuasion
+|categories=战斗
+|pfs=否
+|description=有时候你得打碎点什么才能让别人明白你的意思。
+|prerequisites=力量13，[[猛力攻击]]，[[威吓]]1级
+|benefit=你可以[[标准动作]]在尝试威吓检定的同时粉碎一个无主的无生命物品。若你破坏了这件物品，你的威吓检定获得“1/2物品硬度”的加值（最少＋1）。若你摧毁了这件物品，加值为“物品硬度”（最少＋1）。被该专长威吓的生物在24小时内不再受该专长影响。
+|source=CoC
+|source_name=秽邪勇士
+|source_url=https://pf1chm.pages.dev/topics/zh45cf79b2ca.htm
+}}

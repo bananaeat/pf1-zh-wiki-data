@@ -1,0 +1,15 @@
+{{Spell
+|name=感官锐化
+|english_name=Keen senses
+|school=变化系
+|levels=德鲁伊 1;游侠 1;炼金术师 1;猎人 1;秘学士 1;调查员 1
+|action=标准动作
+|components=语言;材料/圣徽（一根鹰的羽毛）
+|range=接触
+|target=接触到的生物
+|duration=1分钟/等级（可解消）
+|save=意志，通过则无效（无害）
+|sr=是（无害）
+|description=受术者的察觉检定获得+2表现加值，并且获得昏暗视觉。已经拥有昏暗视觉的生物在该法术的影响下会使可视距离加倍。
+|source=进阶玩家指南
+}}

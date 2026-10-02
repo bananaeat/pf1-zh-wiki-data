@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[谈判专家(专长)]] 的神话版本。</small></div>
+{{Feat
+|name=谈判专家
+|english_name=Persuasive
+|categories=神话
+|description=舌灿莲花的你精通话术。
+|prerequisites=[[谈判专家]]
+|benefit=谈判专家专长对交涉与威吓技能检定带来的加值增加2点。此外，你能够花费1次神话之力，使得1次交涉或者威吓检定就好像自然掷出20一般。你必须在进行检定之前决定使用该能力。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

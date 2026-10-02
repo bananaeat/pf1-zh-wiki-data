@@ -1,0 +1,10 @@
+{{Trait
+|name=保守孤立
+|english_name=Insular (Dwarf)
+|type=种族
+|prerequisites=[[矮人]]
+|description=你来自北方偏远的[[矮人]]要塞之一，深知这片严酷土地上的人们如同天气般反复无常。经验告诉你，外来者不可信任。
+|benefit=你的察言观色检定+2背景加值，察言观色始终是你的[[本职技能]]，但在与非矮人进行交涉检定时，你要承受-1减值。
+|source_name=北地居民
+|source_url=https://pf1chm.pages.dev/topics/zh63296b3929.htm
+}}

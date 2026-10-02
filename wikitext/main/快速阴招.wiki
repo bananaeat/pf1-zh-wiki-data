@@ -1,0 +1,12 @@
+{{Feat
+|name=快速阴招
+|english_name=Quick Dirty Trick
+|categories=战斗
+|description=你在攻击中夹杂一些阴险下流的伎俩，让你的对手来不及反应。
+|prerequisites=智力13，[[寓守于攻]]，[[精通阴招]]，基本攻击加值+6。
+|benefit=当你行动时，你可以用一次单独的[[阴招]][[战技]]检定来代替你的一次近战攻击。你只能用使用最高攻击加值的那次攻击来阴招。
+|normal=阴招战技检定是一个[[标准动作]]。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

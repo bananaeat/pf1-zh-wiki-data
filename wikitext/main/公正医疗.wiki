@@ -1,0 +1,10 @@
+{{Feat
+|name=公正医疗
+|english_name=Righteous Healing
+|description=你基于审判动机的治疗法术更加有效。
+|prerequisites=【审判】职业特性。
+|benefit=当你在审判能力发动时施展治疗法术，每个目标受到额外的“1+1/3审判者等级”点治疗。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

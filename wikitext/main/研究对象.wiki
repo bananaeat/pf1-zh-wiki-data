@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Carrion Crown Player's Guide pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=研究对象
+|english_name=Subject of Study
+|type=战役
+|pfs=否
+|description=罗里莫尔教授为了他的研究找到了你，因为他听说你最近在与一只奇异怪物的遭遇中幸存下来，或是经历了其他某次决定命运的遭遇。他对那次遭遇的情形以及你如何避免死亡或受伤很感兴趣，于是与你见了面，并一直与你保持频繁的书信往来，直到几个月前。那次经历留下的伤疤以及他不断提起那次遭遇，促使你磨练自己的技能，以免有朝一日再次面对同类生物。教授在这方面协助了你，让你深入了解袭击你的那种生物的身体构造和防御手段。
+
+多年的研究提升了你对抗所选敌人的战斗效率。选择一种非类人生物的生物类型（如果选择异界生物，还要选择亚种）。你对该类型生物的伤害骰获得+1加值。关于本战役中最有可能出现的生物类型，参见游侠宿敌的建议列表。
+|source_name=Carrion Crown Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Subject%20of%20Study
+}}

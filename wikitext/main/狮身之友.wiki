@@ -1,0 +1,9 @@
+{{Trait
+|name=狮身之友
+|english_name=Sphinxfriend
+|type=种族
+|prerequisites=[[矮人]]（帕梅人）
+|description=你在一个骄傲的狮身兽的巢穴附近长大。以睿智闻名的狮身兽广受你的族人敬重，每当举棋不定或遭逢危难，便寻求牠的宝贵建言。成年后，你获选为你的聚落与狮身兽交流的使节。幸运的是，牠喜欢你的陪伴，除了与牠交涉情报以外，你也喜欢上了你高贵朋友出的谜语。由于这份经历，你在交涉检定、解读不熟悉的文字的[[语言学]]检定以及辨识密语的察言观色检定上获得+1背景加值。
+|source_name=沙之子民
+|source_url=https://pf1chm.pages.dev/topics/zh730f330f66.htm
+}}

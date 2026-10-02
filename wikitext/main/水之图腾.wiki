@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=水之图腾
+|english_name=Water Totem
+|type=Ex
+|categories=图腾
+|prerequisites=[[野蛮人]]6级，[[次等元素图腾]]
+|benefit=狂暴时，野蛮人可以在水中如同呼吸空气一般正常呼吸。
+|source_name=元素血脉
+}}

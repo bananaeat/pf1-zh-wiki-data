@@ -1,0 +1,12 @@
+{{Feat
+|name=枪剑击鸣
+|english_name=Sword and Pistol
+|categories=战斗
+|description=你有效地搭配近战和远程攻击。
+|prerequisites=敏捷13，[[近距射击]]，[[快速射击]]，[[快枪]]，[[双武器格斗]]，基本攻击加值+6。
+|benefit=当你一手持用近战武器、另一手持用弩或火器并使用[[双武器格斗]]专长时，你通过弩或火器做出的攻击不会触发近战武器威胁范围内敌人的[[借机攻击]]。
+|normal=进行远程攻击会触发借机攻击。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

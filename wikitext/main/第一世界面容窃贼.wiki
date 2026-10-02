@@ -1,0 +1,12 @@
+<noinclude>{{奥能师导航}}
+'''第一世界面容窃贼'''（First-World Face Thief, Su）是[[奥能师]]的[[奥能技艺|奥能技艺]]。
+
+</noinclude>{{Source|进化职业起源|Advanced Class Origins|inline}}
+
+奥能师可以从奥能源泉中花费一点奥能呈现一个如同[[易容术]]一样的幻术伪装。如果从奥能源泉中花费两点奥能取代一点，这个效果的持续时间提高到每个奥能师等级10分钟。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_96.html 原文]），按 AoN 核对过。全部奥能技艺见 [[奥能技艺]]。
+
+[[分类:奥能技艺]]
+
+{{职业}}</noinclude>

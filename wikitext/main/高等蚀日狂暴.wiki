@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=高等蚀日狂暴
+|english_name=Eclipsing Rage, Greater
+|type=Su
+|categories=杂项
+|prerequisites=[[野蛮人]]10级，[[蚀日狂暴]]
+|benefit=当野蛮人狂暴时，他周围20英尺范围内的光照强度降低两级(而不是[[蚀日狂暴]]的一级)。她仍然不能使用这种能力将光照强度降低到普通黑暗以下。
+|source_name=极限荒野
+}}

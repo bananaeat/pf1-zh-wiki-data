@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=叛乱煽动者
+|english_name=Instigator of Rebellion
+|type=地区
+|prerequisites=明海
+|description=明海内部的政治格局变动令你愤怒，这促使你在同胞中煽起怒火。你已擅长组织反对政府的集会。你的[[交涉]]和[[威吓]]检定获得+1背景加值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Instigator%20of%20Rebellion
+}}

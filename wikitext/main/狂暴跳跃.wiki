@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=狂暴跳跃
+|english_name=Raging Leaper
+|type=Ex
+|categories=杂项
+|benefit=当狂暴时，野蛮人可以将他的等级作为增强加值，加到进行跳跃的特技技能检定上。当用此方式进行跳跃时，野蛮人总是视为已经进行助跑。
+|unchained=狂暴跃者
+|source_name=核心规则书
+}}

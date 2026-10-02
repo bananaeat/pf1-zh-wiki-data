@@ -1,0 +1,11 @@
+{{Feat
+|name=战歌手
+|english_name=Battle Singer
+|pfs=否
+|description=你的战歌能让你[[地精]]伙伴的疯狂再创新高
+|prerequisites=[[地精]]，吟游诗人表演能力
+|benefit=当你使用激发勇气表演能力时，你可以选择用地精语歌唱，不会地精语的盟友无法从表演中受益。听到你战歌的地精盟友会更加勇敢有活力，并将你的激发勇气加值作为士气加值加到所有豁免检定上。
+|source_name=格拉利昂的地精
+|source_url=https://pf1chm.pages.dev/topics/zh5292739c86.htm
+|source=GoG
+}}

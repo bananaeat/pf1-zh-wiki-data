@@ -1,0 +1,15 @@
+{{魔法物品
+|name=北地靴
+|english_name=Boots of the Winterlands
+|aon=MagicWondrousDisplay.aspx?FinalName=Boots of the Winterlands
+|cat=奇物
+|aura=微弱防护系、变化系
+|cl=5
+|slot=脚部
+|price=2,500 gp
+|weight=1磅
+|description=这双靴子的穿戴者能在雪地上以正常速度行进，且不留下足迹。此外，靴子让她能以正常速度穿过最滑的冰面（仅限水平表面，不含垂直或陡斜的表面）而不会滑倒或摔倒。最后，北地靴会为穿戴者保暖，如同她受到[[忍受环境]]法术影响。
+|req=[[制造奇物]]、[[猫之优雅]]、[[忍受环境]]、[[行踪无迹]]
+|cost=1,250 gp
+|source=核心规则书、极限宝具
+}}

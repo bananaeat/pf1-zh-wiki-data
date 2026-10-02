@@ -1,0 +1,15 @@
+{{魔法物品
+|name=旅行者潜水衣
+|english_name=Traveler's Wet Suit
+|aon=MagicWondrousDisplay.aspx?FinalName=Traveler's Wet Suit
+|cat=奇物
+|aura=微弱预言系
+|cl=3
+|slot=躯体
+|price=2,750 gp
+|weight=3磅
+|description=这件潜水衣可以抵御环境造成的寒冷伤害和体温过低。存放在防水口袋里的任何东西，都会被魔法与周围的水隔绝开来，即使穿戴者在水下打开口袋也一样。最后，穿戴者在[[游泳]]检定上获得+2表现加值。
+|req=[[制造奇物]]、[[忍受环境]]
+|cost=2,500 gp
+|source=水下冒险
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=深地行者
+|english_name=Undermining Exploit
+|description=你对土与石的熟稔使你对岩地上进行的格斗了然于胸
+|prerequisites=在知识（地城）上拥有4个等级
+|benefit=你对处于碎石，岩地或台阶[[困难地形]]上的目标发动的[[战技]]攻击拥有+4洞察加值。
+|source=ISG、FoP/FoB/FoC
+|source_name=内海诸神、纯善／平衡／堕落信念
+|source_url=https://pf1chm.pages.dev/topics/page_321.html
+}}

@@ -1,0 +1,12 @@
+{{Feat
+|name=奥多里战斗技艺
+|english_name=Aldori Artistry
+|categories=战斗
+|description=你的剑除了劈砍和刺击之外还能做更多事情。
+|prerequisites=[[擅长异种武器]]（奥多里决斗剑），[[武器娴熟]]，BAB+2
+|benefit=选择以下战技之一：卸武，移位、偷盗、击破或摔绊。当你挥舞着奥多里决斗剑进行选择的战技时，你会获得+2加值。这个加值不会与“精通”类的战技专长相叠加（如精通摔绊）。
+|special=你可以多次选择这个专长，每次选择额外选择一项战技。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/zh8a31961fdd.htm
+}}

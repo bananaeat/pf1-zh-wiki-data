@@ -1,0 +1,14 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{消歧义|无影无踪}}
+{{Source|异能选集|Psychic Anthology}}
+'''无影无踪'''（Absentia, Sp）是[[操念使]]的[[原力]]。
+
+元素：虚空；类别：通用（Sp）；等级：4；超载：0
+
+前置：[[空寂]]
+
+你永远处于[[回避侦测]]效果的影响中，如同你对自己施放了该法术。如果该效果被解除，你可以以一个[[标准动作]]再次唤出该效果。你可以承受1点超载，令一个被你接触的生物获得回避侦测的效果。
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_726.html 原文]），按 AoN 核对过。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Absentia|2=Absentia}}
+
+[[分类:原力]]

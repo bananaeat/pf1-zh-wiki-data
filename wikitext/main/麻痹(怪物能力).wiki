@@ -1,0 +1,13 @@
+<noinclude>{{速查导航|here=规则}}
+{{消歧义|麻痹}}
+'''麻痹'''（Paralysis）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Ex 或 Su</span><span class="sk-f">位置：特殊攻击和个体攻击</span></div>
+</noinclude><includeonly><div class="lang"><span id="麻痹"></span><span id="麻痹(怪物能力)"></span><div class="lang-h"><b>[[麻痹(怪物能力)|麻痹]]</b><i>Paralysis</i><span class="lang-w">Ex 或 Su · 特殊攻击和个体攻击</span></div><div class="lang-d"></includeonly>
+麻痹会使受害者无法动作。麻痹的生物无法移动、说话或进行任何身体动作。该生物被定在原地，身体僵硬并处于无助状态。麻痹作用于身体，角色通常可以通过一次强韧豁免来抵抗它（DC = 10 + 麻痹生物种族 HD 的 1/2 + 该生物的体质调整值；具体的 DC 会在生物描述中给出）。和[[人类定身术]]及类似效果不同，麻痹效果不允许每轮重新豁免。如果被麻痹时该生物正在空中飞行，它将无法拍打翅膀而坠落。游泳者无法游泳，可能会溺毙。麻痹的持续时间各不相同，会包含在生物描述中。
+
+'''格式'''：麻痹（1d4 轮，DC 18）
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Paralysis|2=Paralysis}}
+
+[[分类:通用怪物规则]]</noinclude>

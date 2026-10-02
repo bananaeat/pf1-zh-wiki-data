@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Tyrant's Grasp Player's Guide pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=收复者
+|english_name=The Reclaimer
+|type=战役
+|pfs=否
+|description=12年前罗斯拉尔之匣被毁时，你失去了某些珍贵的东西——家园、遗产，甚至可能是家人——但你回来了，因为灵魂不该逃避痛苦，而该从痛苦中愈合。重建自己的生活、防止同样的伤痛拖垮他人，驱使你投身于守护与保卫，你也许是政客、慈善工作者、医者或士兵，但同样的失去也让你满怀难以宽宥、常常难以平息的怒火。你警惕的双眼让你的[[察觉]]检定获得+1背景加值。对于在前一轮对你的某名盟友造成过生命值伤害的任何对手，你对其的攻击检定和伤害检定获得+1背景加值。
+|source_name=Tyrant's Grasp Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=The%20Reclaimer
+}}

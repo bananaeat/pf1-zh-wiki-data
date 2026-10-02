@@ -1,0 +1,9 @@
+{{Trait
+|name=金手
+|english_name=Gold Finger
+|type=派系
+|description=你来自于一个拥有悠久传统的盗窃家族，而你则是这一传统的良好继承者。你在[[解除装置]]和[[巧手]]技能上获得+1背景加值，其中之一(由你选择)视为你的[[本职技能]]。
+|source_name=探索者协会组织游戏指南
+|source=PFS Guide
+|source_url=https://pf1chm.pages.dev/topics/page_154.html
+}}

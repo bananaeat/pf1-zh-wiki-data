@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=柔步靴
+|english_name=Boots of the Soft Step
+|aon=MagicWondrousDisplay.aspx?FinalName=Boots of the Soft Step
+|cat=奇物
+|aura=微弱变化系
+|cl=7
+|slot=脚部
+|price=1,000 gp
+|weight=2磅
+|description=这双镶着青铜铆钉的靴子有着厚实的皮革鞋底，会随着你的步伐压缩和伸展。这会减轻你脚步落地的力道，使[[颤动感知(怪物能力)|颤动感知]]更难探测到你。如果你以半速行走，具有颤动感知的生物只能在通常距离的一半处感知到你。如果你以四分之一速度或更慢的速度行走，具有颤动感知的生物完全无法探测到你。
+|req=[[制造奇物]]、[[羽落术]]
+|cost=500 gp、40 XP
+|source=烈焰传承玩家手册
+}}

@@ -1,0 +1,9 @@
+{{Feat
+|name=惑心公案
+|english_name=Bewildering Koan
+|description=通过抛出无解的禅问，你能使生物因苦思人生意义而陷入短暂呆滞。
+|prerequisites=[[唬骗]]1级，气池职业特性，侏儒。
+|benefit=以[[迅捷动作]]消耗1点气，你可以通过提出冥想时参悟的玄奥问题进行一次[[唬骗]]检定。如果目标检定失败，你可以选择令其失去下一个动作，或使你对其进行的所有伤害掷骰获得+2加值，持续1轮。
+|source_name=格拉利昂的侏儒
+|source_url=https://pf1chm.pages.dev/topics/zh33d1c60e62.htm
+}}

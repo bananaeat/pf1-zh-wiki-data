@@ -1,0 +1,12 @@
+{{Feat
+|name=双发诱敌
+|english_name=Twinned Feint
+|categories=战斗
+|description=你卖个破绽，两个对手就一起上钩。
+|prerequisites=[[魅力]] 13
+|benefit=以一个[[标准动作]]，你可以对一个处于你的触及范围内的敌人进行一次[[虚招]]检定。如果你的虚招成功，你可以立刻对邻接第一个目标、且处于你触及内的另一名敌人发动虚招尝试，你每个动作最多只能额外发动一次虚招。每当你使用这个专长时，你会在防御等级上承受-2减值，持续到你的下个回合。
+|special=如果你拥有[[精通虚招]]专长，你可以以一个[[移动动作]]发动本专长的效果。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

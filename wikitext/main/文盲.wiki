@@ -1,0 +1,10 @@
+{{Trait
+|name=文盲
+|english_name=Unlearned
+|type=缺陷
+|pfs=否
+|description=你总是觉得自己难以进行学习和记忆知识，你对自己涉及自己专业领域之外的知识所知甚少。
+|benefit=选择一项知识技能，你不能试图进行其他任何未受训知识技能的检定，即使DC为10或更低。如果你有机会进入一个涵盖相关领域知识的图书馆，你可以在-2罚值之下进行未受训的知识检定。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

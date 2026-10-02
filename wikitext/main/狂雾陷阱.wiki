@@ -1,0 +1,13 @@
+{{危害
+|name=狂雾陷阱
+|english_name=Insanity Mist Trap
+|kind=陷阱
+|trap_type=机械
+|cr=8
+|perception=DC 25
+|disable=DC 20
+|trigger=位置型
+|reset=修复
+|effect=毒气（[[狂雾]]）；永不落空；延迟发动（1轮）；复数目标（10尺×10尺房间内的所有目标）
+|source=核心规则书
+}}

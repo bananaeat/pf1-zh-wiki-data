@@ -1,0 +1,13 @@
+{{魔法物品
+|name=笨拙护手
+|english_name=Gauntlets of Fumbling
+|aon=MagicCursedDisplay.aspx?ItemName=Gauntlets of Fumbling
+|cat=诅咒物品
+|aura=中等变化系
+|cl=7
+|slot=手部
+|weight=2磅
+|description=这副护手在穿戴者受到攻击或身处生死关头之前，都会如其外观所示那样发挥作用。到了那时，诅咒便会启动。穿戴者会变得笨手笨脚，每轮都有50%的几率让双手中持握的任何东西掉落。护手还会使穿戴者的敏捷值降低2点。诅咒一旦启动，这副手套只能通过[[移除诅咒]]、[[祈愿术]]或[[神迹术]]才能摘下。
+|req=[[锈蚀手套]]、[[辟矢夺箭手套]]、[[储物手套]]、[[游泳攀爬手套]]
+|source=核心规则书、极限宝具
+}}

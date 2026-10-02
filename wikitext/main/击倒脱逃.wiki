@@ -1,0 +1,11 @@
+{{Feat
+|name=击倒脱逃
+|english_name=Felling Escape
+|categories=战斗
+|description=通过流畅而精妙的巧劲，你在脱离[[擒抱]]时反将你的对手摔倒在地。
+|prerequisites=智力13，[[寓守于攻]]，[[精通摔绊]]。
+|benefit=当你使用[[战技]]检定或脱逃技能检定打破擒抱时，你可以用[[迅捷动作]]对之前擒抱你的敌人进行一次[[摔绊]]尝试。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

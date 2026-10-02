@@ -1,0 +1,11 @@
+{{消歧义|斗转星移 (消歧义)}}
+{{Feat
+|name=斗转星移
+|english_name=Elusive Redirection
+|description=你能让敌人的攻击悉数返回，或转移到邻近的其他敌人身上。
+|prerequisites=【转身采手】职业特性，[[寓守于攻]]，[[精通徒手打击]]，无相僧12级。
+|benefit=当你成功的使用了一次【转身采手】以减免一次攻击伤害，你可以花费[[直觉动作]]和1点[[武僧#气运丹田|气池]]将这次攻击返还给原攻击者、或另一个同时邻接你和攻击者的敌人。这次攻击使用与原攻击相同的攻击检定骰，但是攻击对象是你选择的敌人。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

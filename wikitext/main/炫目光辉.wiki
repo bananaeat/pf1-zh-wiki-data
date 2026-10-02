@@ -1,0 +1,9 @@
+{{Feat
+|name=炫目光辉
+|english_name=Blinding Light
+|description=你那耀眼的光芒让黑暗的爪牙不知所措。
+|prerequisites=[[内在之光]]，[[神裔]]，昼明术类法术能力
+|benefit=当敌人试图反制或解除你的[[昼明术]]类法术能力而失败时，它必须进行一次强韧豁免检定（DC10+1/2你的人物等级+你的魅力调整值），否则将会因心灵被天界之光淹没而[[目盲]]一轮。这是一个影响心灵的超自然效果。
+|source_name=天界血脉
+|source_url=https://pf1chm.pages.dev/topics/page_829.html
+}}

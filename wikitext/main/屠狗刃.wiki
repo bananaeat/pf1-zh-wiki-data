@@ -1,0 +1,17 @@
+{{武器
+|name=屠狗刃
+|english_name=Dogslicer
+|category=武器
+|prof=军用
+|wcat=轻型
+|price=8 gp
+|weight=1磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=19–20/×2
+|type=挥砍
+|special=易碎
+|groups=轻刃
+|description=这把短弯刀是[[地精]]首创的，它们在刀身上钻了无数小洞来减轻武器重量。屠狗刃的武器型号多为小型。
+|source=符文领主崛起玩家手册、探索者编年史：战役设定、冒险者的军械库、内海世界指南、进阶种族手册、极限宝具
+}}

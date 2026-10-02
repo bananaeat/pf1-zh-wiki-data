@@ -1,0 +1,9 @@
+{{装备
+|name=一夜茶
+|english_name=Night tea
+|cat=黑市
+|price=1 sp
+|weight=—
+|description=这种起泡的茶由一夜茶植物骨白色的三角形叶片冲泡而成，雌性类人生物若每天饮用，会变得不育。剂量很大时，或许能终止妊娠。
+|source=冒险者的军械库
+}}

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Tyrant's Grasp Player's Guide pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=传道者
+|english_name=The Word
+|type=战役
+|pfs=否
+|description=在一个信仰过于拥挤的国度里，你常常担心自己的讯息被淹没，但它依然重要。罗斯拉尔之匣的人们曾经需要慰藉与救济，但他们已完全恢复过来——这在一定程度上要归功于你的辛勤付出——以至于你担心自己已经变得不被需要。你习惯了长时间劳作，这让你的强韧豁免获得+1背景加值。你的信仰令人振奋，每天一次，你可以像一名等级为你角色等级一半（至少为1）的圣武士那样使用圣疗。如果你从某个职业获得了圣疗能力，你改为每天额外获得一次圣疗使用次数。
+|source_name=Tyrant's Grasp Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=The%20Word
+}}

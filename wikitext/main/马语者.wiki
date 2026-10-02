@@ -1,0 +1,9 @@
+{{Feat
+|name=马语者
+|english_name=Horse Whisperer
+|description=你在驾驭马匹上的造诣令你得以影响这片区域内的所有马匹。
+|benefit=你在指挥或骑乘马的驯养动物和骑术检定上获得+2加值。另外，你可以尝试一次驯养动物检定来为周围60尺范围内的所有马下达一个指令。动物伙伴或坐骑在上述范围内的敌人可以以直觉动作尝试一次DC20的驯养动物检定来防止他的马受你影响。如果敌人成功了，那么在1小时内，你无法再影响那个生物。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/zh1a4f7690ca.htm
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=创痕法术
+|english_name=Scarring Spell
+|categories=超魔
+|description=你所创造的影响情绪的魔法会在敌人心中留下创伤。
+|benefit=当一名生物在对抗创痕法术的豁免检定中失败后，在接下来的24小时内，该生物在对抗你所创造的情绪和恐惧效果时，豁免检定会承受-2减值；该生物在对抗其他情绪和恐惧效果时，豁免检定也会承受-1减值。多个创痕法术带来的惩罚不会叠加。这个[[超魔专长]]仅能应用至具有情绪或恐惧描述符的法术。创痕法术使用比法术的实际环级高1级的法术位。
+|source=OA
+|source_name=异能冒险
+|source_url=https://pf1chm.pages.dev/topics/page_311.html
+}}

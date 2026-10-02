@@ -1,0 +1,10 @@
+{{Feat
+|name=岩石感官
+|english_name=Stone Sense
+|description=你可以感觉到周围的泥土与岩石的运动。
+|prerequisites=[[精通岩石敏锐]]，察觉10级。
+|benefit=你获得10尺范围的＜[[颤动感知]]＞。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

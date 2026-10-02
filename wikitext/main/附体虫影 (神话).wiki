@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>这是法术 [[附体虫影]] 的神话版本。</small></div>
+{{Spell
+|name=附体虫影
+|english_name=Jitterbugs
+|school=幻术系 (虚假幻觉)
+|tags=影响心灵
+|levels=催眠师 1;吟游诗人 1;歌者 1;奥能师 2;异能者 2;术士 2;法师 2;红螳螂杀手 2
+|description=从法术的第二轮起，受影响的目标必须成功在你的回合进行强韧豁免，否则会反胃1轮，就如同被真正的集群扰乱心神一般。
+|source=神话冒险
+}}
+[[分类:神话法术]]

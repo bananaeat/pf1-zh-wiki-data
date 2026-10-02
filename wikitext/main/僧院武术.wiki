@@ -1,0 +1,10 @@
+{{Trait
+|name=僧院武术
+|english_name=Monk Weapon Skill
+|type=战斗
+|description=在完美学社中的练习使你学会了如何用武僧武器造成更可怕的伤害。选择一种你所擅长的武僧武器(除徒手打击以外),你在使用该武器时在伤害骰上获得+1背景加值。
+完美学社 Houses of Perfection:作为不可思议之国扎摩谟最负盛名的武院，完美学社吸引着无数来自乌笃纳和内海的年轻学徒前来体验超凡的武术。尽管如此，绝大多数完美学社教授的武技是为了演武与训练，较少涉及杀人之术。
+|source_name=战斗背景
+|source=WMH
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

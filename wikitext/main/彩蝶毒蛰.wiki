@@ -1,0 +1,11 @@
+{{Feat
+|name=彩蝶毒蛰
+|english_name=Butterfly's Sting
+|categories=重击;战斗
+|description=你可以放弃一次重击，将它转让给一名盟友。
+|prerequisites=[[寓守于攻]]，信仰[[黛丝娜]]
+|benefit=当你成功对一个生物确认了一次重击时，你可以选择放弃这次重击机会，而是将其转让给在你的下一轮开始之前对同一生物近战攻击命中的队友。你的此次攻击造成普通伤害，而你选择的队友在他的下一次近战攻击命中时将自动确认重击。
+|source=FoP/FoB/FoC、ISG
+|source_name=纯善／平衡／堕落信念、内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}

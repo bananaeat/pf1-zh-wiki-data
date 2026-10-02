@@ -1,0 +1,15 @@
+{{魔法物品
+|name=云行拖鞋
+|english_name=Slippers of Cloudwalking
+|aon=MagicWondrousDisplay.aspx?FinalName=Slippers of Cloudwalking
+|cat=奇物
+|aura=中等变化系
+|cl=11
+|slot=脚部
+|price=4,400 gp
+|weight=1磅
+|description=穿戴者每天可以在空中行走（如同[[凌空而行]]法术）最多10分钟，可以按1分钟为单位分次使用，启动它不需要动作。不过，她只能在天然或魔法的薄雾、浓雾之中或其上方在空中行走，包括酸雾术、死云术、焚云术、臭云术所产生的类似雾气的气体。在这类云雾上方行走对穿戴者没有危险，但穿过云雾行走则会受到其通常的效果影响。
+|req=[[制造奇物]]、[[御风而行]]
+|cost=2,200 gp
+|source=极限宝具
+}}

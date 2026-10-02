@@ -1,0 +1,9 @@
+{{Trait
+|name=炼化师
+|english_name=Alchemical Adept
+|type=魔法
+|description=你熟习于创造炼金物品之道。你用于创造炼金物品的工艺(炼金)检定获得+2背景加值。此外，当你的工艺(炼金)检定失败5点以上但并非自然骰出1,你并不会损毁原材料、或需要重新付出成本。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

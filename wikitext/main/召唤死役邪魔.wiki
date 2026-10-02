@@ -1,0 +1,16 @@
+{{Spell
+|name=召唤死役邪魔
+|english_name=Summon thanadaemon
+|school=咒法系 (召唤)
+|tags=邪恶
+|levels=先知 9;奥能师 9;女巫 9;术士 9;法师 9;牧师 9
+|action=1轮
+|components=语言;姿势;法器（两枚银币）
+|range=近距
+|effect=一只召唤的生物
+|duration=1轮/等级 (可解消)
+|save=无
+|sr=否
+|description=本法术的效果和[[召唤怪物]]一样，除了本法术召唤的是一只死役邪魔。你必须在某个拥有能容纳此邪魔小舟的充足开阔水域，或是在星界或灵界使用此法术。
+|source=永罪之书末辑，天启诸骑
+}}

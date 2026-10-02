@@ -1,0 +1,11 @@
+{{Feat
+|name=团队法师
+|english_name=Allied Spellcaster
+|categories=团队
+|description=你十分擅长在盟友的帮助下，使用自身的法术突破其他生物的防护。
+|prerequisites=施法者等级1级。
+|benefit=若你邻近一名同样拥有该专长的盟友，那么你在克服[[特殊能力#法术抗力|法术抗力]]的施法者等级检定中获得+2表现加值。如果你的盟友准备了相同的法术（或者在盟友为自发施法者的情况下，他的已知法术有这个法术并且还有可用法术位），这个加值会提升至+4，并且在确定所有与CL相关的变量（如持续时间，范围和效果）时，你的CL获得+1加值。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

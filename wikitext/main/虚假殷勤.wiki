@@ -1,0 +1,14 @@
+<noinclude>{{女巫导航}}
+'''虚假殷勤'''（False Hospitality, Su）是[[女巫]]的[[巫术#强力巫术 (Major Hex)|强力巫术]]。
+
+</noinclude>{{Source|格拉利昂的英雄|Heroes of Golarion|inline}}
+
+艾布利多斯的女巫们以热情好客闻名，一旦她们的敌人卸下了防御，她们就可以展现自己真正的力量。
+
+女巫能够以此巫术获得[[花言巧语]]法术的效果，以她的女巫等级作为施法者等级。该巫术每天可使用一次。
+
+这是'''强力巫术'''，10 级以上的女巫才能选取。<noinclude>
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc1372bb89b.htm 原文]）。全部巫术见 [[:分类:巫术|分类:巫术]]。
+
+[[分类:巫术]]</noinclude>

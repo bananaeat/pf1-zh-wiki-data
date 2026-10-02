@@ -1,0 +1,9 @@
+{{Feat
+|name=忍受痛苦
+|english_name=Endure Pain (Zon-Kuthon's Kiss)
+|description=通过暴力于痛苦的训练，你已建立起对痛苦的抵抗力。
+|prerequisites=从10次以上的拷打中幸存下来。
+|benefit=当你受到[[非致命伤害]]时，可尝试进行强韧豁免检定（DC=10+所受非致命伤害值）使该伤害减半。若拥有坚忍专长，此豁免检定获得+4加值。
+|source_name=格拉利昂的城市
+|source_url=https://pf1chm.pages.dev/topics/zh06c701dc72.htm
+}}

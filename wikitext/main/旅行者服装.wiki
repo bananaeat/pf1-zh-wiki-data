@@ -1,0 +1,9 @@
+{{装备
+|name=旅行者服装
+|english_name=Traveler's outfit
+|cat=衣物
+|price=1 gp
+|weight=5磅
+|description=这套服装包含靴子、羊毛制的裙子或裤子、坚固的腰带、衬衫（也可能配有背心或夹克），以及带兜帽的宽大斗篷。
+|source=核心规则书、极限宝具
+}}

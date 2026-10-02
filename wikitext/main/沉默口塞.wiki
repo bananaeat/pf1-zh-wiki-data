@@ -1,0 +1,15 @@
+{{魔法物品
+|name=沉默口塞
+|english_name=Gag of Silence
+|aon=MagicWondrousDisplay.aspx?FinalName=Gag of Silence
+|cat=奇物
+|aura=微弱幻术系
+|cl=3
+|slot=头部
+|price=500 gp
+|weight=1磅
+|description=这条黑色皮绳中央系着一颗红色木球。当皮绳被系在生物头部、木球塞入其口中时，该生物无法说话，也无法发出任何声音，包括法术的语言成分。木球从该生物身上取下时，会从皮绳上断开，效果随之结束。未被其他方式束缚的生物可以轻易解开口塞并将其取下。
+|req=[[制造奇物]]、[[沉默术]]
+|cost=250 gp
+|source=恶棍志
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（People of the Stars pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=索维瑞安学士
+|english_name=Sovyrian Intellectual
+|type=种族
+|prerequisites=精灵，仅限1级
+|description=你在翠星的一个学术中心长大，说话精确而有说服力，在[[精灵]]之间尤其如此。你的[[交涉]]检定获得+1背景加值。对抗具有精灵亚种的生物时，此加值提高至+3。
+|source_name=繁星子民
+|source=PotS
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Sovyrian%20Intellectual
+}}

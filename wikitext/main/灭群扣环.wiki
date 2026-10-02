@@ -1,0 +1,15 @@
+{{魔法物品
+|name=灭群扣环
+|english_name=Swarmbane Clasp
+|aon=MagicWondrousDisplay.aspx?FinalName=Swarmbane Clasp
+|cat=奇物
+|aura=中等防护系
+|cl=8
+|slot=颈部
+|price=3,000 gp
+|weight=1/2磅
+|description=一只古老的昆虫化石被困在这枚华丽的琥珀扣环里，一根长长的金针将它刺穿，同时用来别住穿戴者的披风。穿戴者的武器攻击、[[徒手攻击]]和天生武器攻击对集群造成全额伤害，无论该集群是否免疫武器伤害（若有的话；不过伤害减免照常适用）。如果穿戴者被集群伤害，她在对抗该集群[[扰乱心神]]能力的豁免检定中自动成功。
+|req=[[制造奇物]]、[[驱离害虫]]
+|cost=1,500 gp
+|source=极限宝具
+}}

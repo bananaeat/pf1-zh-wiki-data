@@ -1,0 +1,11 @@
+{{Feat
+|name=电鳗流
+|english_name=Electric Eel Style
+|categories=战斗;流派
+|description=你能利用电能来使敌人迷失方向。
+|prerequisites=感知13，元素之拳，精通徒手打击，BAB+9或5级武僧等级
+|benefit=你每天获得一次额外的元素之拳次数。当你使用本流派时，你的元素之拳会造成闪电伤害。当一个生物受到你的元素之拳闪电伤害时，这一轮中你对其的擒抱战技检定获得+4加值。
+|source=BotS
+|source_name=海洋血脉
+|source_url=https://pf1chm.pages.dev/topics/page_1564.html
+}}

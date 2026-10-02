@@ -1,0 +1,9 @@
+{{Trait
+|name=偷渡逃奴
+|english_name=Slave Smuggler
+|type=种族
+|prerequisites=[[半身人]]
+|description=你知道如何挟带违禁品出关。当从刻意搜查你或你货物的敌人眼前隐藏1个中型或更小的生物时，你与偷渡生物可以各进行1次隐匿检定，两者取高来决定偷渡者隐藏得多好。
+|source_name=沙之子民
+|source_url=https://pf1chm.pages.dev/topics/zh730f330f66.htm
+}}

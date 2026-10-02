@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=远处观察|en=Remote Viewing|type=Sp|domain=知识领域|source=核心规则书|text=从6级开始，你可以以类法术能力的方式使用[[锐耳术/鹰眼术]]，施法者等级等于你的牧师等级。你每日可使用此能力的轮数等于你的牧师等级。这些轮数不必连续使用。}}<noinclude>
+
+[[分类:领域]]</noinclude>

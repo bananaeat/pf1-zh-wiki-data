@@ -1,0 +1,13 @@
+<includeonly><div class="portal-card" style="--pc:{{{色|#8a8175}}}">
+<div class="portal-card-h">[[{{{链接}}}|{{{标题}}}]]{{#if:{{{数|}}}|<span class="portal-card-n">{{{数}}}</span>}}</div>
+{{#if:{{{说明|}}}|<div class="portal-card-d">{{{说明}}}</div>}}{{#if:{{{下钻|}}}|<div class="portal-card-l">{{{下钻}}}</div>}}
+</div></includeonly><noinclude>
+[[首页]]上的分类卡片。
+
+ {{首页卡片|色=#8a6d3b|标题=法术|链接=法术速查|数=2939 条|说明=按职业分表…|下钻=[[法术速查|法师]] · …}}
+
+色条颜色和该类条目的卡片配色对齐（法术金棕、专长砖红、物品青灰），
+这样在任何一页看到色条都能认出自己在哪类内容里。
+样式在 [[MediaWiki:Common.css]] 的「首页门户」一节。
+[[分类:模板]]
+</noinclude>

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Primer pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=犬儒者
+|english_name=Cynic
+|type=地区
+|prerequisites=蒙蒂维
+|description=作为土生土长的蒙蒂维人，你见过形形色色自称怀有神圣动机的人，也学会了看人要看其行、不看其言。你的[[察言观色]]检定获得+1背景加值，且察言观色对你而言总是本职技能。
+|source_name=初探内海
+|source=ISP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Cynic
+}}

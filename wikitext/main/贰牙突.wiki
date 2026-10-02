@@ -1,0 +1,10 @@
+{{Feat
+|name=贰牙突
+|english_name=Twin Fang Lunge
+|categories=战斗
+|description=你以蛇突之力发动攻击。
+|prerequisites=敏捷15；[[即时备战]]；[[贰牙击]]；[[贰牙流]]；[[双武器战斗]]；特技8级；BAB+8或武僧8级。
+|benefit=使用[[贰牙流]]时，你可以用[[整轮动作]]移动至多等同你速度两倍的距离，接着如同你进行了攻击动作般使用[[贰牙击]]。
+|source_name=反派法典
+|source_url=https://pf1chm.pages.dev/topics/page_1036.html
+}}

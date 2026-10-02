@@ -1,0 +1,10 @@
+{{Trait
+|name=神秘交易
+|english_name=Occult Bargain
+|type=缺陷
+|pfs=否
+|description=你从某个源头汲取魔法力量，比如神秘的[[幻灵]]、满怀羞耻的魅影或第一世界的[[庇护主]]，而对方坚持要求身份保密。
+|benefit=你在专注检定中承受-1减值，并且你必须每天以言语或文字念诵该实体之名，否则当天无法恢复法术位。你的职业特性必须允许你施放0环和1环法术，才能选择这个缺陷。
+|source_name=缺陷
+|source_url=https://pf1chm.pages.dev/topics/page_158.html
+}}

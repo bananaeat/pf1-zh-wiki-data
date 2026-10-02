@@ -1,0 +1,15 @@
+{{魔法物品
+|name=雅致变小长裙
+|english_name=Gown of Graceful Petiteness
+|aon=MagicWondrousDisplay.aspx?FinalName=Gown of Graceful Petiteness
+|cat=奇物
+|aura=微弱变化系
+|cl=1
+|slot=躯体
+|price=3,500 gp
+|weight=1磅
+|description=这些精美的长裙用经魔法保存、层层叠放的树叶细致编织而成。它们最初是为经常与[[侏儒]]和其他小型种族打交道的[[精灵]]外交官定制的，但如今已在阿维斯坦各地流传。一名中型类人生物连续1分钟穿上雅致变小长裙，时间结束时会立即缩小为小型。这如同[[缩小术]]，只是它不提供敏捷的体型加值，也不会调整穿戴者身上除长裙本身之外的物品的大小。脱下长裙同样需要连续1分钟，之后长裙和穿戴者都会恢复原来的体型。
+|req=[[制造奇物]]、[[缩小术]]，制造者必须是精灵
+|cost=1,750 gp
+|source=商人货单
+}}

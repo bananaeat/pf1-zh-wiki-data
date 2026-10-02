@@ -1,0 +1,9 @@
+{{Trait
+|name=模糊秘密
+|english_name=Half-Forgotten Secrets
+|type=种族
+|prerequisites=[[吸血裔]]（维塔拉裔）
+|description=在你被创造出来时，一丝信息穿到了你身上。选择两门知识技能，这些技能检定中你获得+1背景加值，其中的一门还会永久成为你的[[本职技能]]（由你选择）。
+|source_name=夜之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_822.html
+}}

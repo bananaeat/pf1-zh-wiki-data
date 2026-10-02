@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Reign of Winter Player's Guide pg. 6, People of the North pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=抵御巫术
+|english_name=Warded against Witchery
+|type=战役
+|pfs=否
+|description=年少时的某个时候，你遇到了一个浸透邪恶巫术之力的地点、物体或存在。无论你是这股力量的受害者、它的导体，还是仅仅目睹了它的效果，那件事都改变了你的人生。你试图将这段怪事抛诸脑后、将其遗忘，但从那以后，模糊的危险预感和诡异的既视感一直如影随形。出于某种无法解释的原因，你感到北地的土地在召唤你，尽管你害怕再次遭遇曾经触及你的邪恶巫术。无论是凭借你的纯洁、善良灵体的祝福、与生俱来的决心，还是对黑魔法之道某种直觉般且无法解释的熟悉，你都获得了对黑暗技艺之力的抵抗力。你对抗邪恶奥术施法者的法术、类法术能力和超自然能力的豁免获得+1背景加值，并且你为辨识邪恶奥术施法者所施放的法术而进行的[[法术辨识]]检定获得+1背景加值。
+|source_name=Reign of Winter Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Warded%20against%20Witchery
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragon Empires Primer pg. 14），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=陶土之心
+|english_name=Heart of Clay
+|type=地区
+|prerequisites=灵神
+|description=你相信自己死后注定要作为黄王陶俑大军的一员效力，因此你不像其他人那样畏惧死亡。你的强韧豁免获得+1背景加值。
+|source_name=初探龙国
+|source=DEP
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Heart%20of%20Clay
+}}

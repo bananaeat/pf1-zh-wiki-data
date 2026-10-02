@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''熔岩流'''（Magma Blast, Sp）是[[操念使]]的[[原力]]。
+
+元素：土和火；类别：[[复合念袭]]（Sp）；等级：－；超载：2
+
+前置：[[岩击]]，[[火冲]]
+
+[[念袭]]性质：物理；伤害类型：一半钝击，一半火焰
+
+你使用火焰把岩石化为一股熔岩，再将这致命的物质洒向单个敌人。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Magma Blast|2=Magma Blast}}
+
+[[分类:原力]]

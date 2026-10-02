@@ -1,0 +1,21 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[空间跨步 (神话)]]。</small></div>
+{{Spell
+|name=空间跨步
+|english_name=Walk through Space
+|school=咒法系 (传送)
+|levels=召唤师 6;炼金术师 6;调查员 6;魔战士 6;奥能师 7;女巫 7;异能者 7;术士 7;法师 7
+|action=标准动作
+|components=语言;姿势;材料（一颗鹪鹩鸟的蛋）
+|range=个人
+|target=自己
+|duration=1轮/等级
+|sr=否
+|description=当你身处该法术效果下，你可以以一个[[移动动作]]传送最多30尺远。
+
+你必须在一个你视野内的未被占据的可站立的方格内结束这次移动。
+
+或者，你也可以花费一个移动动作，从俯卧状态传送至站立状态。
+
+传送不会引发[[借机攻击]]。
+|source=极限战斗
+}}

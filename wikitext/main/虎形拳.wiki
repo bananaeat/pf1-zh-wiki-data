@@ -1,0 +1,16 @@
+{{Feat
+|name=虎形拳
+|english_name=Tiger Style
+|categories=战斗;流派
+|description=你的[[徒手打击]]体现了猛虎的力量和凶猛。
+|prerequisites=[[精通徒手打击]]，基本攻击加值+3或武僧3级。
+|benefit=你使用虎形拳[[流派]]架势时，你对[[冲撞]]，[[闯越]]与摔绊的[[CMD]]+2。在此架势下你还可以用徒手打击造成挥砍伤害。如果你造成挥砍伤害的徒手打击造成重击，对手会在其接下来的两个回合开始时，各受到1d4点[[出血]]伤害。
+|normal=徒手打击造成钝击伤害。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[虎爪功]]、[[虎跃]]（2 个条目）

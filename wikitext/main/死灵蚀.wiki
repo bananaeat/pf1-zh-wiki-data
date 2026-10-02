@@ -1,0 +1,9 @@
+{{Trait
+|name=死灵蚀
+|english_name=Deathtouched
+|type=种族
+|description=某一时刻你曾被亡灵的腐败气息所侵染，而你获得了少许他们的抗力。你的强韧豁免获得+1背景加值，或者你对抗影响心灵效果的豁免检定获得+2背景加值(由你决定)。
+|source_name=极限战役
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_416.html
+}}

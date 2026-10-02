@@ -1,0 +1,14 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{危害
+|name=黑寻者之默
+|english_name=Blackfinder's silence
+|kind=毒药
+|type=伤口
+|save=强韧 DC 14
+|frequency=1次/轮，持续4轮
+|effect=1轮内无法说话（包括施放法术）
+|cure=1次豁免成功
+|price=400 gp
+|description=[[诺格巴]]的邪教徒通常用这种毒药封住那些可能泄露他们想保守的秘密的人的嘴。
+|source=内海诡道
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=饥饿耐性
+|english_name=Famine Tolerance
+|pfs=否
+|description=你可以更长时间的忍饥挨饿，进食也更有效率。
+|prerequisites=茉莉血族或诺斯弗拉图血族。
+|benefit=你可以坚持（2*你HD）天不进食而无需进行饥饿豁免。当你使用[[吸血]]能力，每次可以获得2倍于通常的临时HP。
+|special=此专长仅限于使用了不死生物饥饿规则的战役。
+|source_name=夜之血脉
+|source_url=https://pf1chm.pages.dev/topics/page_823.html
+}}

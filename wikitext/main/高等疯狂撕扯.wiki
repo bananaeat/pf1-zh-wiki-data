@@ -1,0 +1,12 @@
+{{Feat
+|name=高等疯狂撕扯
+|english_name=Greater Rending Fury
+|aliases=高等狂怒撕扯
+|categories=战斗
+|description=你撕开对手时的场面血腥而又恐怖。
+|prerequisites=[[疯狂撕扯]]，[[精通疯狂撕扯]]，基本攻击加值+12，＜撕扯＞特殊攻击。
+|benefit=当你撕扯一名对手，你对其造成1d6[[出血]]伤害。这是在撕扯伤害额外的效果。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

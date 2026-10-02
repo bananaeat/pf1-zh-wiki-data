@@ -1,0 +1,10 @@
+{{Trait
+|name=恐怖预知
+|english_name=Dreadful Forethought
+|type=地区
+|prerequisites=乌斯塔拉夫
+|description=作为一名乌斯塔拉夫的小贵族，你有一些朋友与卡尔考的魔族教团有所牵连。你的观察使你对那些无所事事的富人的亵渎行为有了深刻的洞察。你在知识(贵族)和知识(位面)的检定上获得+1的背景加值。
+|source_name=恶魔猎人手册
+|source=DHH
+|source_url=https://pf1chm.pages.dev/topics/zh143e5b3a4e.htm
+}}

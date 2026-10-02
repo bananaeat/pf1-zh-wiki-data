@@ -1,0 +1,9 @@
+{{Trait
+|name=解剖师
+|english_name=Anatomist
+|type=战斗
+|description=作为一介大学医科生或是殡葬师、死灵师的学徒，你接受过解剖学的系统训练。你知晓如何瞄准对方最致命的器官，并在重击确认的投骰中获得+1背景加值。
+|source_name=战斗背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}

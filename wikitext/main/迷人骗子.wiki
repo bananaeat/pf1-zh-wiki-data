@@ -1,0 +1,9 @@
+{{Trait
+|name=迷人骗子
+|english_name=Enchanting Conniver
+|type=宗教
+|prerequisites=信仰[[卡莉斯翠]]
+|description=你在与受到你魅惑或者胁迫效果影响的生物进行交涉和[[唬骗]]时获得+2的背景加值。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

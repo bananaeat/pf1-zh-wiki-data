@@ -1,0 +1,14 @@
+{{魔法物品
+|name=再生戒指
+|english_name=Ring of Regeneration
+|aon=MagicRingsDisplay.aspx?FinalName=Ring of Regeneration
+|cat=戒指
+|aura=强烈咒法系
+|cl=15
+|slot=戒指
+|price=90,000 gp
+|description=这枚白金[[魔法物品#戒指|戒指]]通常嵌有一颗大块的绿蓝宝石。戴上时，戒指会持续让活体穿戴者每轮恢复1点伤害，以及等量的[[非致命伤害]]。此外，佩戴再生戒指期间，穿戴者免疫[[出血]]伤害。若穿戴者在戴着这枚戒指时失去了肢体、器官或其他任何身体部分，戒指会如同[[再生术]]那样使其再生。无论哪种情况，只有在戴着戒指期间受到的伤害才会被恢复。
+|req=[[锻造戒指]]、[[再生术]]
+|cost=45,000 gp
+|source=核心规则书、极限宝具
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=复生之釜
+|english_name=Cauldron of Resurrection
+|aon=MagicWondrousDisplay.aspx?FinalName=Cauldron of Resurrection
+|cat=奇物
+|aura=强烈咒法系
+|cl=13
+|slot=无
+|price=33,000 gp
+|weight=35磅
+|description=这口沉重的暗色铁釜，口部形如一张怪物的巨口，大到足以容纳一名中型生物。釜中注满纯净水和某些稀有的神圣草药，再放入一具死去生物的遗体后，大釜可以让该生物复活，如同[[死者复活]]或[[复生术]]法术。法术效果取决于所用的材料：[[死者复活]]需要价值5,000 gp的材料，[[复生术]]需要价值10,000 gp的材料。大釜每天可以使用一次。
+|req=[[制造奇物]]、[[复生术]]
+|cost=16,500 gp
+|source=进阶玩家指南、极限宝具
+}}

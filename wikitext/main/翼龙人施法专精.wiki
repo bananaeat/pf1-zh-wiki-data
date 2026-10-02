@@ -1,0 +1,11 @@
+{{Feat
+|name=翼龙人施法专精
+|english_name=Wyvaran Spellcasting
+|pfs=否
+|description=你独特的生理机能使得你特别擅长熟练运用龙族魔法。
+|prerequisites=知识（神秘）6级，翼龙人。
+|benefit=选择一个你可以释放的从龙脉血统，[[鳞裔领域|鳞目领域]]，或[[鳞裔领域#龙子域 (Dragon)|龙子域]]获得的一个法术。它必须至少比你所能施放的最高环级低1级。每天两次，你可以将此法术作为类法术能力施放。
+|source=LoD
+|source_name=巨龙遗产
+|source_url=https://pf1chm.pages.dev/topics/page_716.html
+}}

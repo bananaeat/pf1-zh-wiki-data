@@ -1,0 +1,17 @@
+<div class="well" style="margin:.2em 0"><small>本法术有神话版本：[[吸血鬼之触 (神话)]]。</small></div>
+{{Spell
+|name=吸血鬼之触
+|english_name=Vampiric touch
+|school=死灵系
+|levels=催眠师 3;反圣武士 3;唤魂师 3;奥能师 3;女巫 3;异能者 3;术士 3;法师 3;血脉狂怒者 3;通灵者 3;魔战士 3
+|domains=邪魔子域 3;鲜血子域 3
+|action=标准动作
+|components=语言;姿势
+|range=接触
+|target=接触到的活物
+|duration=立即/1小时; 见后文
+|save=无
+|sr=是
+|description=你必须成功进行一次近战[[接触攻击]]。你的接触会造成每两个CL 1d6点伤害 (最高10d6)。你获得等同于造成的伤害点临时HP。你获得的HP不能超过受术者的当前HP加上其体质值（这已足以杀死受术者）。这些临时HP会在1小时后消散。
+|source=核心规则书
+}}

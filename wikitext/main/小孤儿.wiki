@@ -1,0 +1,9 @@
+{{Trait
+|name=小孤儿
+|english_name=Orphaned
+|type=社会
+|description=你的成长过程与亲生父母分离，因此不得不学着照顾自己。你的生存检定获得+1背景加值，并且总能将生存视为你的[[本职技能]]。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

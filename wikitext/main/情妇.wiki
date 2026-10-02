@@ -1,0 +1,7 @@
+{{物品
+|name=情妇
+|english_name=The Courtesan
+|aon=MagicArtifactsDisplay.aspx?ItemName=Harrow%20Deck%20of%20Many%20Things
+|category=神器
+|description=[[万象无常哈罗牌]]的一张牌。抽牌者最中意的一件物品——最好是魔法武器——获得智能。用[[核心规则书]]的[[智能物品]]生成表决定其属性。如果人物没物品，很快将获得一件智能物品。
+}}

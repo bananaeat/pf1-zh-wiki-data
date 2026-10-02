@@ -1,0 +1,11 @@
+{{Feat
+|name=一骑讨
+|english_name=Chain Challenge
+|pfs=否
+|description=你策马跃入敌群，枪头所到之处，包围上来的敌将刹那间横七竖八。
+|prerequisites=挑战职业能力，人物等级7
+|benefit=每当一个受到你的挑战能力所影响的目标被杀死或被击昏时，你都可以立刻以一个直觉动作对一个处于30尺内的目标发起新的挑战。这个行动必须在你击败挑战目标的同时立刻发出，并且不能因为你目前无法行动而延后。如果你通过本专长发动了新的挑战，那么这次挑战将不计入你的每日挑战能力使用次数限制。在第一个挑战目标以后，你可以连环挑战的目标数不能超过你的魅力调整值（至少一个）。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1407.html
+}}

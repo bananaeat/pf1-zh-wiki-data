@@ -1,0 +1,11 @@
+{{Feat
+|name=残续隐形
+|english_name=Lingering Invisibility
+|pfs=否
+|description=在你失去[[隐形]]后仍会受到残余的半透明状态影响。
+|prerequisites=灰矮人。
+|benefit=当你的[[隐形术]]结束，法术每剩余1分钟的持续时间，你就可以获得1轮（最少1轮）[[隐蔽]]状态。只有当‘隐形术’为你的种族类法术能力或你施放的法术时，才会发生该效果。能够反制‘隐形术’的效果能够反制该专长带来的隐蔽。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

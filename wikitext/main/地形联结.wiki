@@ -1,0 +1,17 @@
+{{Spell
+|name=地形联结
+|english_name=Terrain bond
+|school=惑控系 (胁迫)
+|tags=影响心灵
+|levels=游侠 4;猎人 4
+|action=标准动作
+|components=语言;姿势;材料（一撮从你最偏好的地形中带来的土壤）
+|range=个人
+|target=自己
+|duration=1小时/2等级 （可解消）
+|sr=否
+|description=你召唤出自然的精魂帮助你适应周围的环境。在法术持续时间结束之前，你将你当前所处的地形视为最偏好的地形。
+
+如果你没有偏好地形职业能力则无法从该法术获得任何优势。
+|source=极限战斗
+}}

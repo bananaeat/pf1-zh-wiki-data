@@ -1,0 +1,16 @@
+{{Spell
+|name=高等疫病术
+|english_name=Contagion, greater
+|school=死灵系
+|tags=疾病;邪恶
+|levels=先知 5;女巫 5;德鲁伊 5;战斗祭司 5;牧师 5;猎人 5;奥能师 6;术士 6;法师 6
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|target=一名活物
+|duration=立即
+|save=强韧，通过则无效
+|sr=是
+|description=这个法术工作方式如同[[疫病术]]，不过受术者无法在不借助魔法的情况下摆脱由这个法术造成的疾病——即使通过了所需次数的豁免也无法治愈。用魔法移除该疾病的DC等于豁免DC+5。
+|source=极限魔法
+}}

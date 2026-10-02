@@ -1,0 +1,11 @@
+{{Feat
+|name=参与神话
+|english_name=Mythic Companion
+|pfs=否
+|description=尽管你身处非神话的范畴内，但是已经成为了伟大神话世界的重要组成部分。
+|prerequisites=你必须为非神话角色或生物
+|benefit=在判断神话法术与效果对你如何起作用时，你被视为神话生物。若你成为了神话角色或生物，那么你会在对抗神话法术与效果的所有豁免中获得+1加值。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

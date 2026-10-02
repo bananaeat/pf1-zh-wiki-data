@@ -1,0 +1,10 @@
+{{Trait
+|name=雪原穿越者(幽暗地域,通常在寒冷山脉地带)
+|english_name=Snowstride
+|type=地区
+|pfs=否
+|prerequisites=幽暗地域，通常在寒冷山脉之下
+|description=你立足于冰雪覆盖的岩石和冻土的成长经历，使你在打滑表面上的特技检定获得+1背景加值，并使你能够对比你大两个体型级别（而非通常的一个）的对手进行[[摔绊]]和[[冲撞]]。
+|source_name=格拉里昂的狗头人
+|source_url=https://pf1chm.pages.dev/topics/zh93978f31f4.htm
+}}

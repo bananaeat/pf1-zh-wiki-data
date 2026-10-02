@@ -1,0 +1,11 @@
+{{Feat
+|name=注定荣耀
+|english_name=Marked for Glory
+|pfs=否
+|description=你命中注定会获得超出普通冒险者和凡人想像的荣耀。
+|prerequisites=[[强韧加强]]，[[钢铁意志]]或[[闪电反射]]
+|benefit=你获得每日使用1次神力涌动（神力涌动加骰为1d6）的能力。若你成为了神话角色，那么每日能够额外使用1次神力涌动能力。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

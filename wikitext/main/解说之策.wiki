@@ -1,0 +1,10 @@
+{{Feat
+|name=解说之策
+|english_name=Studied Expertise
+|description=你的洞见卓识长久萦绕在战友的脑海之中
+|prerequisites=解说灵感调查员天赋
+|benefit=你可以消耗1点灵感点数，以一个迅捷动作，使所有距离你30尺内且可以听到声音的盟友在1轮内对某一类型怪物的攻击检定获得+4洞察加值，前提是你在不超过1分钟之前通过知识检定成功辨识了该类怪物的特殊能力或弱点。
+|source=HHH
+|source_name=闹鬼英雄手册
+|source_url=https://pf1chm.pages.dev/topics/zh546b3e4ae1.htm
+}}

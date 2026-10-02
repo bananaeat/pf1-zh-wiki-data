@@ -1,0 +1,12 @@
+{{Feat
+|name=飞掠空投
+|english_name=Snatch and Drop
+|categories=战斗
+|pfs=否
+|description=你掌握了在飞越敌人时擒抱住他们的技巧，你可以将他们带上天空，再从空中扔下。
+|prerequisites=飞越攻击，强力之翼
+|benefit=当你作为飞越攻击的一部分，成功进行了一次擒抱战技检定时，你可以继续移动你与你擒抱的生物剩余飞行速度一半的距离。你必须在回合结束之前，将你的目标扔下，否则你和目标会立刻同时坠到地面，每人受到2d6点坠落伤害。被扔下的生物会正常受到坠落伤害。如果投掷生物的重量超过你的重载负荷，你无法使用该专长。
+|special=以下专长一般由[[鸮形人]]角色选取，不过其他带有翅膀的角色在GM允许下也能选取。
+|source_name=内海怪物志
+|source_url=https://pf1chm.pages.dev/topics/zhb83e0d90c4.htm
+}}

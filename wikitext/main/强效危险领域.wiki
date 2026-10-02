@@ -1,0 +1,9 @@
+{{危害
+|name=强效危险领域
+|english_name=Perilous Demesne, Major
+|kind=诅咒
+|type=区域诅咒
+|save=意志 DC 16
+|effect=同[[弱效危险领域]]，但最多有四种险境危及区域内的生物，每种险境的CR不超过6。若其中几种险境同时遭遇，该遭遇来自险境的有效CR不超过7（例如，两种CR 5的险境可以同时遭遇）。
+|source=惧怖冒险
+}}

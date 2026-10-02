@@ -1,0 +1,17 @@
+{{Spell
+|name=召唤雷暴
+|english_name=Call Lightning Storm
+|school=塑能系
+|tags=电
+|levels=德鲁伊 5;猎人 5;秘学士 5;萨满 5
+|domains=风暴子域 5
+|action=1轮
+|components=语言;姿势
+|range=远距
+|effect=一道或更多的30尺长垂直的线形闪电
+|duration=1分钟/等级
+|save=反射，通过则减半
+|sr=是
+|description=该法术的功能如同[[召雷术]]一般，不过每道闪电会造成5d6点闪电伤害 (在户外且风雨交加的区域则造成5d10点)，并且你最高可以召唤15道闪电。
+|source=核心规则书
+}}

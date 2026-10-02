@@ -1,0 +1,18 @@
+{{Spell
+|name=召唤自然盟友 VIII
+|english_name=Summon Nature's Ally VIII
+|aon=Summon Nature's Ally 8
+|school=咒法系 (召唤)
+|tags=可变
+|levels=德鲁伊 8;萨满 8
+|domains=动物领域 8;昆虫子域 8
+|action=1轮
+|components=语言;姿势;圣徽
+|range=近距
+|effect=一个被召唤的生物
+|duration=1轮/等级 (可解消)
+|save=无
+|sr=否
+|description=该法术的功能如同‘[[召唤自然盟友]]I’，不过你能够召唤一个8环生物、1d3个7环的同类生物、或者1d4+1个更低等环且同一种类的生物。
+|source=核心规则书
+}}

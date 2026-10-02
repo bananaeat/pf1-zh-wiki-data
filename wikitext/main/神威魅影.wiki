@@ -1,0 +1,10 @@
+{{Feat
+|name=神威魅影
+|english_name=Overwhelming Phantom
+|description=你的魅影具有强大的意志，这使它能入侵并支配其他生物的思维。
+|prerequisites=魅影职业能力，唤魂师15级
+|benefit=每天3次，你在完全显形状态下的魅影能以一个[[标准动作]]尝试入侵并支配一个活物的思维；这样做会引发[[借机攻击]]。生物可以通过一个成功的意志豁免（DC=1/2魅影生命骰+魅影的魅力调整值）抵消这种影响。魅影能维持这种支配持续每个[[唤魂师]]等级1分钟，但是受支配者每分钟获得一次新的豁免对抗支配。这个能力其余方面如同[[高等占据术]]般运作。
+|source=OO
+|source_name=异能源始
+|source_url=https://pf1chm.pages.dev/topics/zhca50b6790c.htm
+}}

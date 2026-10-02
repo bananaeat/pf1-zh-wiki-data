@@ -1,0 +1,16 @@
+{{Spell
+|name=冰冻射线
+|english_name=Ray of Frost
+|school=塑能系
+|tags=寒冷
+|levels=奥能师 0;魔战士 0;术士 0;法师 0
+|action=标准动作
+|components=语言;姿势
+|range=近距
+|effect=射线
+|duration=立即
+|save=无
+|sr=是
+|description=一条由寒气和冰屑组成的射线从你的指尖射出。你必须成功进行一次远程[[接触攻击]]以对一个目标造成伤害。此射线将造成1d3点寒冷伤害。
+|source=核心规则书
+}}

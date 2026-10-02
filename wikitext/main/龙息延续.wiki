@@ -1,0 +1,9 @@
+{{Feat
+|name=龙息延续
+|english_name=Lingering Breath
+|description=你强大的龙息覆盖着战场。
+|prerequisites=龙脉术士3级。
+|benefit=在对抗你的龙息时豁免检定失败的生物，将被附着性的效果笼罩，每轮受到「1d6×你每天可使用龙息的次数」点伤害。此延续伤害的能量类型与你的龙息相同。延续龙息的效果持续等同「你[[龙脉术士]]等级」轮，但过程中的每一轮，受此效果的生物皆可用一个[[标准动作]]重新进行豁免检定（对抗你的龙息DC）来移除此效果。
+|source_name=传奇编年史
+|source_url=https://pf1chm.pages.dev/topics/page_1502.html
+}}

@@ -1,0 +1,17 @@
+{{Spell
+|name=反制善良
+|english_name=Dispel Good
+|school=防护系
+|tags=邪恶
+|levels=反圣武士 4;先知 5;审判者 5;战斗祭司 5;牧师 5;萨满 5
+|domains=邪恶领域 5
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=接触
+|target=你和一个接触到的来自其他位面的善良生物，或你和一个接触到的生物或物体上的惑控法术或善良法术
+|duration=1轮/等级 或 直至能量耗散，以先到的为准
+|save=见后文
+|sr=见后文
+|description=该法术的功能如同[[反制邪恶]]一般，不过你会被暗淡而摇曳的不洁能量包围，并且法术会影响善良生物和法术，而非邪恶的。
+|source=核心规则书
+}}

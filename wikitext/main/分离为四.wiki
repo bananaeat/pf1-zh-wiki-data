@@ -1,0 +1,18 @@
+{{仪式
+|name=分离为四
+|english_name=Quartern Disjunction
+|school=变化系
+|level=9
+|action=90分钟
+|components=语言（V），姿势（S），材料(M，9剂圣水)，器材 (F，完整的永罪之书)
+|skills=工艺（书籍）DC 35，3次成功；知识（位面）DC 35，3次成功；法术辨识DC 35，3次成功；
+|range=接触（touch）
+|target=完整的永罪之书
+|duration=立即（instantaneous）
+|save=无
+|sr=否
+|backlash=该施法者力竭（exhausted）。
+|failure=施法者被卷入永罪之书的半位面中（见永罪之书Book of the Damned 167-170页），并受弱智术（施法者等级20）（feeblemind）影响；该永罪之书会传送到随机物质位面的随机位置。
+|description=毁灭[[永罪之书]]（Book of the Damned）的第一步是将该书拆分为四个章节——其每章节代表其邪魔（daemonic），恶魔（demonic），和炼狱（infernal）的部分，以及其外典（apocrypha）的一章。将这本书拆分成这四部分既困难又危险。该仪式需要用[[圣水]]（holy water）擦拭其书页，并且当阅读到文本中隐藏的关键短语时需要背诵强力的魔[[法咒]]文。在成功完成该仪式之后，永罪之书（Book of the Damned）会骤然分为四个部分，每部分都必须迅速与其他部分分开，一旦在它们分开后超过1分钟后，在任意时间点如果全部四章永罪之书（Book of the Damned）彼此间距离在30尺内的话，它们会立即合并为一本完整的永罪之书（Book of the Damned）如同从未执行过分离为四（quartern disjunction）一样。
+|source=永罪之书
+}}

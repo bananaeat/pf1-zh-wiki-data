@@ -1,0 +1,13 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{危害
+|name=痢疾
+|english_name=Dysentary
+|kind=疾病
+|type=接触、伤口
+|save=强韧 DC 16
+|onset=1d3天
+|frequency=1次/天
+|effect=1d6点非致命伤害，且目标[[疲乏]]并[[恍惚]]
+|cure=连续2次豁免成功
+|source=丛林之心(战役设定)
+}}

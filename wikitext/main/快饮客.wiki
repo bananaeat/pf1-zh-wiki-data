@@ -1,0 +1,13 @@
+{{Trait
+|name=快饮客
+|english_name=Accelerated Drinker
+|type=战斗
+|aliases=速饮者
+|description=你知道怎么样更有效地使用药水，例如不用手，把药水抛到空中再用嘴接住，或是用牙咬开瓶塞。
+|benefit=回合开始时若药水在你手里，你可以用一个[[移动动作]]喝下你手里的药水，而不是以一个[[标准动作]]。
+|source_name=战斗背景
+|source=CEoD
+|source_url=https://pf1chm.pages.dev/topics/page_150.html
+}}
+
+{{FAQ|v5748eaic9ncw}}

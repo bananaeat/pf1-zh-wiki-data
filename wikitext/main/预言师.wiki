@@ -1,0 +1,9 @@
+{{Trait
+|name=预言师
+|english_name=Omen
+|type=信念
+|description=你预见了若干未来的事象。无论预言之事的吉凶，你身上都流淌着不祥之力。你的威吓检定获得+1背景加值，并且总能将威吓视为你的[[本职技能]]。每日1次，你能够通过[[迅捷动作]]来挫败敌人士气。
+|source_name=信念背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_151.html
+}}

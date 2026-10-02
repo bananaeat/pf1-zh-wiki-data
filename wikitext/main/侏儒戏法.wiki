@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[侏儒戏法 (神话)]]。</small></div>
+{{Feat
+|name=侏儒戏法
+|english_name=Gnome Trickster
+|description=你的[[奥术天赋]]不光体现在幻术方面上。
+|prerequisites=魅力13，[[侏儒]]，【侏儒魔法】种族特性。
+|benefit=除了你的正常[[侏儒]]类法术能力之外，你还获得下列类法术能力：每天1次－[[法师之手]]以及[[魔法伎俩]]。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

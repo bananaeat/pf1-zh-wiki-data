@@ -1,0 +1,14 @@
+{{魔法物品
+|name=盲人遮眼布
+|english_name=Blind Man's Fold
+|aon=MagicWondrousDisplay.aspx?FinalName=Blind Man's Fold
+|cat=奇物
+|aura=中等变化系
+|cl=6
+|slot=眼部
+|price=12,000 gp
+|description=盲人遮眼布用一块盲人乞丐的衣料碎片制成，常被探险者使用，他们需要穿越栖居着隐形生物、或会被光源吸引的生物的洞穴。佩戴时它会完全遮蔽正常视觉，但赋予[[精通盲斗]]专长的效果（《进阶玩家手册》第162页）。本来就无法正常视物的生物，戴上盲人遮眼布得不到任何好处。
+|req=[[制造奇物]]、[[精通盲斗]]、[[黑暗术]]
+|cost=6,000 gp
+|source=极限宝具
+}}

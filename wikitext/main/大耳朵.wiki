@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Goblins of Golarion pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=大耳朵
+|english_name=Big Ears
+|type=种族
+|pfs=否
+|prerequisites=地精
+|description=你那对硕大的耳朵是你的骄傲，其他[[地精]]声称你能听见一只跳蚤从地精犬身上掉下来时的尖叫。虽然实际情况或许并非如此，但你所有为听见声音而进行的[[察觉]]检定获得+2加值。此外，你能听见通常只有狗或其他动物才能听见的声音，例如狗哨的声音。
+|source_name=格拉利昂的地精
+|source=GoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Big%20Ears
+}}

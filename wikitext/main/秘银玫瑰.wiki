@@ -1,0 +1,14 @@
+{{魔法物品
+|name=秘银玫瑰
+|english_name=Mithral Rose
+|aon=MagicWondrousDisplay.aspx?FinalName=Mithral Rose
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=无
+|price=9,000 gp
+|description=这枚看起来很脆弱的银色玫瑰十分坚固，几乎不可能被摧毁。当佩戴者将其公开装饰在胸口时，他的所有天生攻击、徒手攻击和武器攻击均被视为如同银质武器一般。佩戴者在进行一次近战攻击对抗具有DR/银的敌人时，能够花费1次[[神话之力]]，使这个DR在等同于佩戴者神话阶层的轮数内无效化。
+|req=[[制造魔法武器和防具]]、[[神话工匠]]、[[魔化武器]]
+|cost=4,500 gp
+|source=神话冒险
+}}

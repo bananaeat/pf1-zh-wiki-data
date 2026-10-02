@@ -1,0 +1,15 @@
+{{魔法物品
+|name=加速鼓
+|english_name=Drums of Haste
+|aon=MagicWondrousDisplay.aspx?FinalName=Drums of Haste
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=无
+|price=45,000 gp
+|weight=5磅
+|description=这套定音鼓用肩带挂在身上，用一根双头鼓槌单手演奏。持鼓者通过一次DC 20的表演（打击乐）检定，可以让至多5个生物获得[[加速术]]的效果。这套鼓每天最多可影响25个生物。
+|req=[[制造奇物]]、[[加速术]]
+|cost=22,500 gp
+|source=极限宝具
+}}

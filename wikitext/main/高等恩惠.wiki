@@ -1,0 +1,14 @@
+{{Feat
+|name=高等恩惠
+|english_name=Greater Mercy
+|description=你的恩惠中伴随着不可思议的恢复能力。
+|prerequisites=[[魅力]] 13，【圣疗】职业特性，【恩惠】职业特性。
+|benefit=当你使用圣疗时，如果目标身上没有任何一个你可以使用恩惠移除的状态，那么你的圣疗会额外治疗1d6点伤害。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[至高恩赐]]（1 个条目）

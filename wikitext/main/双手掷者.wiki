@@ -1,0 +1,12 @@
+{{Feat
+|name=双手掷者
+|english_name=Two-Handed Thrower
+|categories=战斗
+|description=你双手猛力地投出武器，有时会采用回旋身体等技巧来加大投掷物体的速度。
+|prerequisites=力量15。
+|benefit=当你用双手投掷一件单手或双手武器时，伤害检定获得1.5倍力量修正。双手投掷武器对你而言都是[[标准动作]]。若你同时拥有[[即时备战]]专长，你能以正常[[全力攻击]]的频率投掷双手武器。
+|normal=无论用几只手，投掷武器伤害检定添加力量修正。投掷双手武器是一个[[整轮动作]]。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

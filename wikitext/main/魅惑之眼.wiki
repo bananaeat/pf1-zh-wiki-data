@@ -1,0 +1,14 @@
+{{魔法物品
+|name=魅惑之眼
+|english_name=Eyes of Charming
+|aon=MagicWondrousDisplay.aspx?FinalName=Eyes of Charming
+|cat=奇物
+|aura=中等惑控系
+|cl=7
+|slot=眼部
+|price=56,000 gp
+|description=这两块水晶镜片罩在使用者的眼睛上。穿戴者只需与目标对视，就能使用[[魅惑人类]]（每轮1个目标）。意志豁免DC 16失败的目标如该法术所述被魅惑。必须戴上两块镜片，此魔法物品才会生效。
+|req=[[制造奇物]]、[[法术升阶]]、[[魅惑人类]]
+|cost=28,000 gp
+|source=核心规则书、极限宝具
+}}

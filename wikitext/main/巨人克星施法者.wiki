@@ -1,0 +1,10 @@
+{{Feat
+|name=巨人克星施法者
+|english_name=Giant-Bane Caster
+|description=你可以运用对巨人弱点的专业知识，使你的法术更难被巨人抵抗。
+|prerequisites=施法者等级4级，[[宿敌]]（巨人）职业特性。
+|benefit=你能够将宿敌（巨人）加值的一半加到你对巨人亚种生物施展的所有法术的豁免 DC 上，以及用于克服这些生物的[[特殊能力#法术抗力|法术抗力]]的施法者等级检定上。
+|source=GHH
+|source_name=巨人猎手手册
+|source_url=https://pf1chm.pages.dev/topics/zh804f69f232.htm
+}}

@@ -1,0 +1,17 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{武器
+|name=弗林德链枷
+|english_name=Flindbar
+|category=武器
+|prof=异种
+|wcat=单手
+|price=9 gp
+|weight=6磅
+|dmg_s=1d6
+|dmg_m=1d8
+|crit=×2
+|type=钝击和穿刺
+|special=卸武，摔绊
+|description=这件单手武器与双节棍相似，同样由两根以粗链相连的棍棒组成。不过弗林德链枷的棍棒是铁制的，两端各有一圈尖刺或铆钉。由于它比双节棍重得多，因此不是轻型武器。
+|source=再探经典怪物、怪物志
+}}

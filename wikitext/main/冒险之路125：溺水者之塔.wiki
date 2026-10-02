@@ -1,0 +1,37 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #125: Tower of the Drowned Dead
+|authors=Ron Lundeen
+|pages=96
+}}
+
+{{书页/简介|head=在这下面，我们都会漂浮|1=
+得知一个强大而古老的敌人正计划窃取一件末日武器并用它对付人类之后，冒险者们前往一座属于不死幸存者的水下废塔，这位幸存者经历了毁灭古阿兹兰特的那场浩劫。为追击他们认为已潜入塔中的面纱主宰（veiled master），英雄们穿过这座沉没的废墟，与塔的防御和不死居民战斗，却发现面纱主宰已带着巫妖的命匣与那件毁灭性武器的位置溜走。英雄们能否也查明那处设施的位置，并活着逃出去与面纱主宰对质，还是会被埋葬在这座溺亡之塔中？
+
+本册《冒险之路》延续「阿兹兰特废墟」冒险之路，内容包括：
+
+* 《溺水者之塔》，一部面向 13 级角色的开拓者冒险，作者 Ron Lundeen。
+* 阿兹兰特破碎大陆上七处废墟遗址的秘密，作者 Erik Mona。
+* 对内海地区四处阿兹兰特遗迹的探索，作者 Isabelle Lee。
+* 一部新水栖怪物的怪物图鉴，作者 Nathan King、Ron Lundeen、Kalervo Oikarinen 和 David Schwartz。
+}}
+
+'''冒险之路125：溺水者之塔'''（''Pathfinder #125: Tower of the Drowned Dead''）是[[冒险之路]]「阿兹兰特废墟」系列的第五部冒险，由 Ron Lundeen 撰写，配套文章出自 Erik Mona、Isabelle Lee、Nathan King、Kalervo Oikarinen 和 David Schwartz，于 2017 年 12 月 13 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 2
+溺水者之塔 @ 4
+NPC 图集 @ 58
+阿兹兰特的秘密 @ 62
+内海中的阿兹兰特 @ 70
+怪物图鉴 @ 80
+}}
+
+{{书页尾
+|pfw=Tower of the Drowned Dead
+|releases=Softcover¦PZO90125¦2017-12¦；PDF¦PZO90125E¦¦
+}}
+
+[[分类:书目]]

@@ -1,0 +1,10 @@
+{{Feat
+|name=霜冻法术
+|english_name=Rime Spell
+|categories=超魔
+|description=被你使用〔寒冷〕描述符的法术所伤害的生物陷入[[纠缠]]状态。
+|benefit=你的寒冷法术中的霜雾紧附在目标上，在短时间内阻碍他的行动。霜冻法术影响的生物在受到寒冷伤害时被纠缠等同于法术原本环级的轮数。这个专长仅对带有〔寒冷〕描述符的法术有效。霜冻法术须占用高于原本1个环级的法术位。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

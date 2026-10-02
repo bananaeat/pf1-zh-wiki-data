@@ -1,0 +1,11 @@
+{{Feat
+|name=精通诡技击破
+|english_name=Improved Sabotaging Sunder
+|categories=战斗
+|description=你很擅长破坏敌人的装备。
+|prerequisites=力量 13，[[精通击破]]，[[猛力攻击]]，[[诡技击破]]，[[解除装置]]9级
+|benefit=当你执行[[诡技击破]]专长提供的特殊[[击破]][[战技]]时，不会再引起[[借机攻击]]。此外，你能够尝试使用该战技对抗目标持握的物品，但你仍旧无法对被藏匿在袋子、[[背包]]、或者其他容器中的物品使用该战技。
+|source=UI
+|source_name=极限诡道
+|source_url=https://pf1chm.pages.dev/topics/page_856.html
+}}

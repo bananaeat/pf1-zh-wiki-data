@@ -1,0 +1,9 @@
+{{Trait
+|name=废奴者猎人
+|english_name=Abolitionist Hunter
+|type=地区
+|prerequisites=欧克诺
+|description=你猎杀那些追捕奴隶贩子的人，无论是作为贝伊船长的特别任务部队之一，还是独立行动。当你与废奴主义者或你有充分理由相信因你的奴隶贩卖活动而针对你的人作战时，你的攻击检定获得+1背景加值。
+|source_name=内海海盗
+|source_url=https://pf1chm.pages.dev/topics/zha6588a822e.htm
+}}

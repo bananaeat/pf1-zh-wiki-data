@@ -1,0 +1,15 @@
+{{Spell
+|name=适足之靴
+|english_name=Surefoot boots
+|school=变化系
+|levels=德鲁伊 2;游侠 2;猎人 2;秘学士 2;萨满 2
+|action=标准动作
+|components=语言;姿势;法器（鞋类）
+|range=个人
+|target=自己
+|duration=1轮/等级
+|save=无
+|sr=否
+|description=你碰触了你的靴子、鞋子或其他鞋类并对它们注入就算在最险峻的地形，也能牢牢抓稳的能力。当处于此法术的效果时，该鞋类的穿戴者在对待任何有关平衡的特技技能检定时，就好像穿戴者骰出了一颗20。
+|source=冒险者的军械库2
+}}

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Fire Player's Guide pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=草原之子
+|english_name=Savannah Child
+|type=地区
+|prerequisites=卡塔佩什
+|description=你在卡塔佩什中部出生长大，那里是主宰该国内陆的连绵草原。你年少时有许多时光都在探索这片广袤的土地，知晓草原的诸多秘密。从下列技能中选择一项：[[驯养动物]]、[[知识]]（自然）或[[骑术]]。你在该技能上获得+1背景加值，并且它永远是你的本职技能。
+|source_name=烈焰传承玩家手册
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Savannah%20Child
+}}

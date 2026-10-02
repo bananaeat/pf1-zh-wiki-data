@@ -1,0 +1,15 @@
+{{Spell
+|name=坚韧符文
+|english_name=Rune of durability
+|school=变化系
+|levels=奥能师 3;术士 3;法师 3;红螳螂杀手 3
+|action=1分钟
+|components=语言;姿势;材料（铁屑）
+|range=接触
+|target=接触的武器
+|duration=永久
+|save=无
+|sr=否
+|description=你在武器的表面上画下一个棱角分明的符文，增加其生命值。一个承载符文的武器的生命值会乘以2，就好像它比实际尺寸大了一个体型层次。在武器上放置超过一个以上的符文不会有效果。
+|source=格拉利昂的矮人
+}}

@@ -1,0 +1,8 @@
+{{狂暴之力
+|name=醉步
+|english_name=Stag gering Drunk
+|type=Ex
+|categories=防御
+|benefit=狂暴时，每份酒精为野蛮人对抗[[借机攻击]]时的AC带来+1闪避加值，最大值为每4野蛮人等级1点。
+|source_name=进阶玩家指南
+}}

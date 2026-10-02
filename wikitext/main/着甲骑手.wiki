@@ -1,0 +1,11 @@
+{{Feat
+|name=着甲骑手
+|english_name=Armored Rider
+|description=你习惯于穿着盔甲骑行，你的盔甲不会妨碍你的骑术技能。
+|prerequisites=骑乘战斗，骑术3级
+|benefit=你在骑术检定时无需承受通常的防具检定减值。如果你在鞍座上陷入昏迷，你始终能保持在鞍座上。
+|normal=如果你骑乘时在鞍座上陷入昏迷，你仅有50%的概率保持在鞍座上（75%的概率如果你在一个军用鞍座上）。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/zh1a4f7690ca.htm
+}}

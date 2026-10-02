@@ -1,0 +1,10 @@
+{{Feat
+|name=好运管理人
+|english_name=Fortunate Manager
+|pfs=否
+|description=你的好运助你与你的产业即便在最棘手的时期也能坚持度过。
+|prerequisites=拥有至少一栋建筑。
+|benefit=在[[休整期]]的事件阶段，若发生事件且GM需根据建筑事件表或组织事件表（见《[[极限战役]]》第114–129页）掷骰时，你可每周一次选择在该表上掷骰两次并任选其一。此能力必须在首次掷骰结果揭晓前宣告使用。
+|source_name=任务与战役
+|source_url=https://pf1chm.pages.dev/topics/zhef0bc5c087.htm
+}}

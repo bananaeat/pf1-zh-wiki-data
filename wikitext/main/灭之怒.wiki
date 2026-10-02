@@ -1,0 +1,10 @@
+{{Trait
+|name=灭之怒
+|english_name=Wrecking Wrath
+|type=宗教
+|prerequisites=信仰[[拉瓦古格]]
+|description=你的狂野极具破坏性，有时甚至是对自己的武器而言。每日1次，你能够在以近战武器命中敌人后再一次追加力量修正到伤害值中(如你使用双手武器，力量修正并不会因此加倍)。如此施为有25%的机率对你的武器造成[[破损]]状态。【译注：就是说近战武器伤害追加2倍力量修正，[[双手近战武器]]追加2.5倍力量修正而非3倍。】
+|source_name=宗教背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

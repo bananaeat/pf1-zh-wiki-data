@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Elements pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=水巨灵之怒
+|english_name=Marid's Fury
+|type=种族
+|prerequisites=水元素裔
+|description=你的水巨灵血统格外强大，魔法在你的血管中汹涌流淌。当你使用你的[[水流冲击]]类法术能力时，只要你在一次施法者等级对抗检定中成功（DC等于11＋该魔法火焰的施法者等级），它除了能扑灭非魔法火焰之外，还能扑灭魔法火焰。
+|source_name=元素血脉
+|source=BotE
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Marid%27s%20Fury
+}}

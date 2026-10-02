@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[知错能改]] 的神话版本。</small></div>
+{{Feat
+|name=知错能改
+|english_name=Strong Comeback
+|categories=神话
+|description=你不会犯下相同的错误。
+|prerequisites=[[知错能改]]
+|benefit=每当你能够对1次属性检定、技能检定、或者豁免检定进行重掷时，掷骰两次并取较高的结果，之后再应用[[知错能改]]专长赋予的加值。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

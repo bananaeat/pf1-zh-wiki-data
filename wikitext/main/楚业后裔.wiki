@@ -1,0 +1,11 @@
+{{Trait
+|name=楚业后裔
+|english_name=Heir of Chu Ye
+|type=地区
+|prerequisites=天夏
+|description=当你在使用医疗技能进行治疗严重伤害时因为未消耗一次或更多次医疗包使用次数而承受减值时，你可以减少2点减值（最少为没有减值）。另外，一个生物可以在受伤48小时内从你的治疗严重伤害中获得好处而不是24小时。
+|regions=天夏
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_703.html
+}}

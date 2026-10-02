@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Orcs of Golarion pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=无畏无惧
+|english_name=Unafraid
+|type=地区
+|prerequisites=乌斯塔拉夫
+|description=这片被迷雾笼罩的恐怖之地上的种种骇人之事，让你变得坚强。你对抗恐惧效果的所有豁免检定获得+2加值。
+|source_name=格拉利昂的兽人
+|source=OoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Unafraid
+}}

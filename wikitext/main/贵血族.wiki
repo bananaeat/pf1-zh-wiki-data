@@ -1,0 +1,9 @@
+{{Trait
+|name=贵血族
+|english_name=Ascendant Recollection
+|type=魔法
+|description=你的第一项[[血统力量]]格外强劲。决定你1级时获得的血统力量效果时，你的[[术士]]等级视为高于实际1级。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

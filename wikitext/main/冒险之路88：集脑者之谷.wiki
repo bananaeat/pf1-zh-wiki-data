@@ -1,0 +1,58 @@
+{{AI翻译|nocat=1|本页的简介、导语和目录由 AI 照 PathfinderWiki 英文原文译出，未经人工校对。}}
+
+{{书页
+|en=Pathfinder #88: Valley of the Brain Collectors
+|authors=Mike Shel
+|pages=96
+}}
+
+{{书页/简介|head=|1=
+在挖掘出指向一位神秘先知遗产的线索之后，纽梅利亚的英雄们必须勇闯一道名为蜘蛛之疤（Scar of the Spider）的偏远峡谷，希望在那里发掘远古知识，助他们击败银山中那位阴险的钢铁之神。但英雄们并非这座遥远山谷的第一批访客——来自宇宙最黑暗深处的异形怪物已在峡谷中殖民，并怀着各自可怖的图谋。英雄们能否保住大脑全身而退，还是会成为那份阴森、异界收藏中的最新一件？
+
+本册《冒险之路》延续「钢铁诸神」冒险之路，内容包括：
+
+* 《集脑者之谷》，一部面向 10 级角色的开拓者冒险，作者 Mike Shel。
+* 一篇关于横跨星系的恐怖——黑色支配者——的专论，作者 Mike Shel。
+* 对四种异星文明所用科技的研究，作者 David Schwartz。
+* 「探索者日志」中一位英雄庄重的归乡之旅，作者 Amber E. Scott。
+* 四种骇人的新怪物，作者 Mike Shel。
+}}
+
+'''冒险之路88：集脑者之谷'''（''Pathfinder #88: Valley of the Brain Collectors''）是[[冒险之路]]「钢铁诸神」系列的一部冒险，由 Mike Shel 撰写，配套文章出自 Mike Shel 和 David Schwartz，小说出自 Amber E. Scott，于 2014 年 11 月 24 日发售。
+
+== 目录 ==
+{{书页/目录|1=
+前言 @ 4
+集脑者之谷 @ 6
+NPC 图集 @ 56
+钢铁诸神宝藏 @ 64
+- 紧凑型 AI 核心（compact AI core）
+- 记忆晶面（memory facets）
+• 同情晶面（compassion facet）
+- 巧思晶面（ingenuity facet）
+- 黑暗异幕之杖（staff of the Dark Tapestry）
+- 肉网炮（fleshnet cannon）
+- 意志丧失之触（touch of avolition）
+黑色支配者 @ 64
+异星科技 @ 70
+- 伊奥克斯科技
+• 死亡之握（grip of death）
+- 米–戈科技
+• 脑筒（brain cylinder）
+- 那-萨尔古科技
+• 支配者之口（mouthpiece of the Dominion）
+- 维尔赛特科技（Vercite technology）
+• 光学炮塔（optical turrets）
+探索者日志：荒原低语（4／6） @ 76
+怪物图鉴 @ 80
+下期预告 @ 92
+}}
+
+{{书页尾
+|pfw=Valley of the Brain Collectors
+|releases=PDF¦PZO9088E¦2014-11¦；Softcover¦PZO9088¦2014-11¦
+}}
+
+<small>书名照 CHM 汉化。</small>
+
+[[分类:书目]]

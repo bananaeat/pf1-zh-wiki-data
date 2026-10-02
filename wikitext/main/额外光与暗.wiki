@@ -1,0 +1,9 @@
+{{Feat
+|name=额外光与暗
+|english_name=Extra Light and Dark
+|description=你可以改变正负能量效果更长时间
+|prerequisites=光与暗种族特性，[[剪影人]]
+|benefit=你的光与暗特性每天额外持续1分钟。
+|special=你可以选择该专长多次，效果叠加
+|source_name=阴影血脉
+}}

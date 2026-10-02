@@ -1,0 +1,11 @@
+{{Trait
+|name=退役民兵
+|english_name=Militia Veteran
+|type=地区
+|description=你的第一份工作就是在你家乡的民兵队服役。你在每日的训练以及保卫你的同胞这段经历中所习得的能力让你对军旅生活有了一些特别的心得。
+
+选择下列技能的其中之一：专业（士兵），骑术，或者生存。你将在所选的技能上获得+1的背景加值，并且该技能将会被视为你的[[本职技能]]。
+|regions=塔尔多
+|source_name=塔尔多，荣光荡漾之地
+|source_url=https://pf1chm.pages.dev/topics/page_938.html
+}}

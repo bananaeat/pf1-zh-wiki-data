@@ -1,0 +1,10 @@
+{{物品
+|name=普通
+|english_name=Standard
+|category=冒险装备
+|price=250gp
+|weight=40磅
+|description=便携式祭坛通常由木材制成，雕刻精美，装饰有特定宗教的图标。祭坛的顶部和侧面雕刻着这些符号，而内部可以存放蜡烛、油和其他物品。这些祭坛虽然朴素，但很实用，可供牧师在临时聚集的信徒面前进行小型仪式或布道。
+|source=DHH
+|source_name=恶魔猎人手册
+}}

@@ -1,0 +1,18 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=蘑菇背心
+|english_name=Mushroom Vest
+|aon=MagicWondrousDisplay.aspx?FinalName=Mushroom Vest
+|cat=奇物
+|aura=微弱防护系
+|cl=5
+|slot=无
+|price=500 gp
+|weight=3磅
+|description=这件海绵状的杂褐色背心有数寸厚，由编织的防腐真菌条制成。背心摸上去很柔软，无论被压得多厉害都会弹回原形。它的魔法使背心在持续穿戴和磨损之下依然保持新鲜完整。
+
+蘑菇背心保护你免受撞击创伤。穿戴背心时，计算伤害时你把任何坠落都视为少了20尺。
+|req=[[制造奇物]]、[[羽落术]]
+|cost=250 gp，20 XP
+|source=二度黑暗玩家手册
+}}

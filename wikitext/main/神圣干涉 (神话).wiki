@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[神圣干涉]] 的神话版本。</small></div>
+{{Feat
+|name=神圣干涉
+|english_name=Divine Interference
+|categories=神话
+|description=你的神力会阻碍你的信仰之敌。
+|prerequisites=[[神圣干涉]]
+|benefit=当你使用[[神圣干涉]]专长时，你的敌人的攻击检定受到两倍被牺牲的法术等级的减值。当你牺牲法术时，能够花费1次神话之力来使减值增加至三倍于被牺牲法术的等级。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

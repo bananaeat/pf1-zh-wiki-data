@@ -1,0 +1,9 @@
+{{Trait
+|name=魔血裔
+|english_name=Fiend Blood
+|type=种族
+|description=魔族的血统玷污了你的血系，并展现出某种也许难以被注意到的特征。选择以下一项技能：[[唬骗]]、威吓或知识(位面)。你在该技能上获得+1背景加值，并且总能将其视为你的[[本职技能]]。
+|source_name=种族背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

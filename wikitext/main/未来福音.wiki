@@ -1,0 +1,11 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[未来福音 (神话)]]。</small></div>
+{{Feat
+|name=未来福音
+|english_name=Prophetic Visionary
+|description=你的[[先知]]能力使你得以一瞥未来。
+|prerequisites=【秘示域】职业特性。
+|benefit=每天1次，你能够进入一种入神状态并且一观未来的景象。入神持续10分钟，在这段时间里你不能进行任何其他的行动。如果你被打断了，你必须重新开始。当你入神结束后，你可以得知接下来的某个特定行为带来的结果是好是坏，这如同一个[[占卜术]]般有70%的成功率。
+|source=UM
+|source_name=极限魔法
+|source_url=https://pf1chm.pages.dev/topics/page_198.html
+}}

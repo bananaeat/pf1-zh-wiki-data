@@ -1,0 +1,13 @@
+{{Feat
+|name=苍翠法术
+|english_name=Verdant Spell
+|aliases=青翠法术
+|categories=超魔
+|description=你与大自然的神奇联系允许你去引诱、愚弄和误导植物和真菌，就如同它们是人一样。
+|prerequisites=[[法术专攻]]（惑控），[[知识]]（自然）6级。
+|benefit=一道苍翠法术可以影响生物类型是植物类的生物（甚至是无心智的植物生物）就如同他们并不免疫〔影响心灵〕的效果一样，但它对其他类型的生物无效。一道苍翠法术须占用高于原本2个环位的法术位。本专长只能被应用于〔影响心灵〕法术。
+|normal=生物类型是植物类的生物免疫〔影响心灵〕效果。
+|source=UW、HotW
+|source_name=极限荒野、荒野英雄
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

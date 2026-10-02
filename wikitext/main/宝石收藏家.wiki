@@ -1,0 +1,11 @@
+{{Trait
+|name=宝石收藏家
+|english_name=Gemstone Collector
+|type=宗教
+|pfs=否
+|prerequisites=信仰[[约拉尔]]
+|description=你一直以来都能在稀有宝石的自然美中找到焦点和灵感。只要你携带珠宝首饰的总价值为200GP*你的角色等级，你在所有意志豁免检定获得+1背景加值和由你选择的一个基于魅力的技能检定获得+2背景加值.
+|source_name=神术选集
+|source=DA
+|source_url=https://pf1chm.pages.dev/topics/zh484c89782e.htm
+}}

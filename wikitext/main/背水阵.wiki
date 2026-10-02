@@ -1,0 +1,9 @@
+{{Trait
+|name=背水阵
+|english_name=Desperate Resolve
+|type=魔法
+|description=你精通于在不安定的环境下施法。你的专注检定获得+1背景加值。当你处于[[擒抱]]、压制、恶劣天候和缠绕状态下，上述加值增至+4。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

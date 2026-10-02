@@ -1,0 +1,11 @@
+{{Feat
+|name=精通可怖投掷
+|english_name=Improved Awesome Throw
+|categories=战斗
+|pfs=否
+|description=你的可怖投掷让敌人飞得更远。
+|prerequisites=力量25，[[可怖投掷]]，[[高等冲撞]]，[[随手投掷]]或[[通用怪物规则#投石|投石]]能力，体型大型以上
+|benefit=当你进行可怖投掷战技时，你的战技检定每超过目标的CMD5点，都会将其额外击飞5尺。此外，他的移动会引发你的同伴的借机攻击。
+|source_name=冒险之路91：血征山之战
+|source_url=https://pf1chm.pages.dev/topics/91_Battle_of_Bloodmarch_Hills.htm
+}}

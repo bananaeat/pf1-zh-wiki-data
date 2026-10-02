@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=骇人审讯火篮
+|english_name=Cresset of Grisly Interrogation
+|aon=MagicWondrousDisplay.aspx?FinalName=Cresset of Grisly Interrogation
+|cat=奇物
+|aura=中等死灵系
+|cl=5
+|slot=无
+|price=10,000 gp
+|weight=1磅
+|description=这个小铁笼上刻着几十个古老的丧葬符文。笼架相对的两侧各有一枚大螺栓，可以调节以将一颗类人生物的头颅固定在笼中。放入头颅并说出命令字后，你可以从中套取情报，如同对其施放了[[死者交谈]]一般。铁笼每天能逼出三个答案，这些答案不必来自同一颗头颅，也不必在限定时间内问出（例如，你可以早上向一颗狗头人的头颅提问，下午向一颗兽人的头颅提问，晚上再向一颗食人魔的头颅提问）。
+|req=[[制造奇物]]、[[死者交谈]]
+|cost=5,000 gp，400 XP
+|source=饥饿的亡者
+}}

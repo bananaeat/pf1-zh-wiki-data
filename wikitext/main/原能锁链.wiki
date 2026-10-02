@@ -1,0 +1,18 @@
+{{魔法物品
+|name=原能锁链
+|english_name=Elemental Chain
+|aon=MagicArtifactsDisplay.aspx?ItemName=Elemental Chain
+|cat=神器
+|tier=次级神器
+|base=[[刺链]]
+|enh=+6
+|aura=强烈塑能系
+|cl=20
+|slot=无
+|weight=3磅
+|description=它看上去只是两枚普通的钢环。但当一名神话生物握住它们、并以一个迅捷动作消耗1次神话之力时，它们会猛然伸展成一条10尺长的刺链，链身由持有者选择的酸蚀、寒冷、火焰或电击构成。持有者可以用一个自由动作消解这一效果。
+
+这条锁链是一条+6[[刺链]]，造成所选类型的4d6点伤害，而不是刺链通常造成的伤害。一旦启动，锁链会保持形状1小时，或直到持有者消解这件武器，以先发生者为准。
+|destruction=把原能锁链的那对钢环喂给一位元素领主，就会摧毁原能锁链。
+|source=神话冒险
+}}

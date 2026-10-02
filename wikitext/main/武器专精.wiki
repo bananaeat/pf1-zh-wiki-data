@@ -1,0 +1,19 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[武器专精 (神话)]]。</small></div>
+{{Feat
+|name=武器专精
+|english_name=Weapon Specialization
+|categories=战斗
+|description=你善于使用特定类型的武器造成伤害。从已有[[武器专攻]]的武器中选择一个（包括徒手打击和[[擒抱]]），使用此种武器将可造成更多伤害。
+|prerequisites=擅长对应武器，[[武器专攻]]，战士4级。
+|benefit=使用专精的武器时伤害检定+2。
+|special=你可以多次选择本专长，其效果并不累加。每次你都必须选择不同种类的武器。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''先决条件'''：[[穿刺重击]]、[[精通穿刺重击]]、[[摔绊旋风]]、[[高等武器专精]]（4 个条目）
+
+{{FAQ|v5748eaic9nef}}

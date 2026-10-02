@@ -1,0 +1,15 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''冰枪'''（Ice Blast, Sp）是[[操念使]]的[[原力]]。
+
+元素：水；类别：[[复合念袭]]（Sp）；等级：－；超载：2
+
+前置：首要元素（水），元素扩展（水）
+
+[[念袭]]性质：物理；伤害类型：一半穿刺，一半寒冷
+
+你发射出寒冷的冰柱穿刺单个敌人。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Ice Blast|2=Ice Blast}}
+
+[[分类:原力]]

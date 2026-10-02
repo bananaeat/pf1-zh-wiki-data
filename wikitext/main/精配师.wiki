@@ -1,0 +1,9 @@
+{{Trait
+|name=精配师
+|english_name=Meticulous Concoction
+|type=魔法
+|description=你缜密精确的调制技术，让你的炼金炸弹和配方威力更甚。每日1次，你可以使你投掷的一枚炸弹豁免DC获得+2背景加值，或者将你服用的一份化合炼成持续时间延长2轮。持续时间为立即的化合炼成不会被此[[背景特性]]影响。
+|source_name=魔法背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_152.html
+}}

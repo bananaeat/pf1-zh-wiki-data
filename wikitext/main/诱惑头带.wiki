@@ -1,0 +1,15 @@
+{{魔法物品
+|name=诱惑头带
+|english_name=Headband of Seduction
+|aon=MagicWondrousDisplay.aspx?FinalName=Headband of Seduction
+|cat=奇物
+|aura=微弱惑控系、变化系
+|cl=5
+|slot=头饰
+|price=40,000 gp
+|weight=1磅
+|description=这条朴素的白色头带让穿戴者显得更有魅力。穿戴者与同生物类型的其他生物进行基于魅力的检定时，获得+2表现加值。如果穿戴者是类人生物，则对同亚种的生物改为获得+5表现加值。每天1次，穿戴者可以尝试对一个生物产生[[欲火焚身]]法术的效果，但持续时间为10分钟。
+|req=[[制造奇物]]、[[欲火焚身]]（《极限魔法》）
+|cost=20,000 gp
+|source=极限宝具
+}}

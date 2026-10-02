@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[社交性]] 的神话版本。</small></div>
+{{Feat
+|name=社交性
+|english_name=Sociable
+|categories=神话
+|description=你不需要做出什么举动就能让人感到心静。
+|prerequisites=[[社交性]]
+|benefit=你持续给予并获得来自[[社交性]]专长的交涉检定+2加值，而不需要花费[[移动动作]]。你能够花费移动动作来使该专长提升至+4，持续轮数等同于你的阶层。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

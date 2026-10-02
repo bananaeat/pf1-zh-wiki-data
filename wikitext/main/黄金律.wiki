@@ -1,0 +1,11 @@
+{{Feat
+|name=黄金律
+|english_name=Measured Response
+|categories=战斗
+|description=你可以精准地衡量自己的实力，做出稳妥而保守的攻击。
+|prerequisites=信仰阿巴达尔，基础攻击加值+1
+|benefit=当你以近战或远程武器攻击命中对手时，你可以选择不进行伤害投骰，而是直接取伤害的平均值（向下取整），如同你直接投出了平均值的伤害一样。除此之外，你的其他伤害加值和减值正常计算。
+|source=FoP/FoB/FoC、ISG
+|source_name=纯善／平衡／堕落信念、内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_538.html
+}}

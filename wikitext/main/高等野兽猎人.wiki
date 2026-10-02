@@ -1,0 +1,12 @@
+{{Feat
+|name=高等野兽猎人
+|english_name=Greater Beast Hunter
+|categories=战斗
+|description=你站在食物链的顶端。
+|prerequisites=[[野兽猎人]]，[[精通野兽猎人]]；基础攻击加值+6；[[知识]]（自然）或生存6级。
+|benefit=如果你被原生于你[[野兽猎人]]专长所选择的偏好地形上的动物[[突袭]]的话，你可以在突袭轮正常行动，但在轮到你行动之前，你仍然会被认为[[措手不及]]。你还会对原生于你已选择地形动物的重击确认上获得+4加值。
+|special=如果你选择了多次野兽猎人专长的话，你将在这些专长选择的所有偏好地形上获得此增益。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/zh2e505973ed.htm
+}}

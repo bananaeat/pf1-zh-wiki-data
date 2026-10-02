@@ -1,0 +1,9 @@
+{{Trait
+|name=风霜客
+|english_name=Weathered Emissary
+|type=社会
+|description=你在荒野的游历经验使你了解如何与荒野居民交流，以及回避他们的危险之处。你的[[语言学]]和生存技能检定获得+1背景加值，并且语言学总是你的[[本职技能]]。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

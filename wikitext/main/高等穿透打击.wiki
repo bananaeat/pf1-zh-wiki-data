@@ -1,0 +1,11 @@
+{{Feat
+|name=高等穿透打击
+|english_name=Greater Penetrating Strike
+|categories=战斗
+|description=你的攻击能够穿透大多数敌人的防御。
+|prerequisites=[[穿透打击]]，[[武器专攻]]，战士等级16。
+|benefit=你使用通过[[武器专攻]]选择的武器进行的攻击，忽略最多10点伤害减免。对于不带类型的伤害减免（例如伤害减免10/—），此数值降为5点。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}

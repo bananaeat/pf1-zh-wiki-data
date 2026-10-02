@@ -1,0 +1,10 @@
+{{Feat
+|name=触发诡计
+|english_name=Contingent Trick
+|description=你在目标中植入了一个灵活的[[催眠师诡计]]，并且在正确的时机触发更为合适的诡计。
+|prerequisites=任意两个诡计专长
+|benefit=你可以在目标中植入触发诡计，按照通常的植入催眠师诡计的规则与限制。触发诡计在所有方面与催眠师诡计表现相同，除了当你在植入一个触发诡计时，你可以选择两个你所知的催眠师诡计（包括大师诡计）并将它们共同植入目标。你不能选择同一个诡计两次。当你触发一个触发诡计时，它与你用来触发该诡计的状态相符合的催眠师诡计表现相同。
+|source=OAn
+|source_name=异能选集
+|source_url=https://pf1chm.pages.dev/topics/page_725.html
+}}

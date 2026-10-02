@@ -1,0 +1,11 @@
+{{Feat
+|name=集中泼溅
+|english_name=Concentrated Splash
+|categories=战斗
+|description=你可以控制住泼出去的溅射武器，给予目标更大的伤害。
+|prerequisites=精准射击或随手投掷
+|benefit=当你对一个生物使用本可以造成溅射伤害的溅射武器时，你可以选择不造成溅射伤害。若如此，对直接目标造成的伤害增加50%。该伤害可以被重击翻倍。该专长对炼金术士的炼金炸弹无效。
+|source=RTT
+|source_name=远程战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_552.html
+}}

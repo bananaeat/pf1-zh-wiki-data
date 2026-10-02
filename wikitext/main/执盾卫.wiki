@@ -1,0 +1,10 @@
+{{Trait
+|name=执盾卫
+|english_name=Shield Bearer
+|type=种族
+|prerequisites=[[人类]]（乌尔芬人）
+|description=多亏你的用盾技巧，使得你从诸多战斗中幸存了下来。当你使用盾击的时候，造成的伤害增加1点。每天一次，在你的回合你可以使用一个[[自由动作]]保护一个邻近的盟友，使他的AC获得+2背景加值。只要你保持与此盟友处于相邻状态，此加值能够持续至多1轮。你只能在持有盾牌的情况下使用此能力，在效果持续时间内，你仍可以保留你的盾牌加值。
+|source_name=格拉里昂的人类
+|source=格拉里昂的人类Humans of Golarion
+|source_url=https://pf1chm.pages.dev/topics/page_1581.html
+}}

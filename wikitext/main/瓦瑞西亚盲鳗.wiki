@@ -1,0 +1,44 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=瓦瑞西亚盲鳗
+|english_name=Varisian Hagfish
+|cr=1
+|xp=400
+|alignment=绝对中立
+|size=微型
+|type=动物
+|subtypes=水栖
+|init=+2
+|senses=昏暗视觉；察觉 +1
+|description=这条黏滑如鳗的鱼一端长着七鳃鳗般的嘴，弯曲的利齿咬合作响。
+|ac=14，接触 14，措手不及 12（+2 敏捷，+2 体型）
+|hp=17（2d8+8）
+|fort=+7
+|ref=+7
+|will=+1
+|speed=30 尺，游泳 30 尺
+|melee=啮咬 +4（1d3+1）
+|str=12
+|dex=15
+|con=18
+|int=1
+|wis=12
+|cha=11
+|bab=+1
+|cmb=+1（擒抱时 +5）
+|cmd=12（无法被摔绊）
+|feats=[[闪电反射]]
+|skills=[[脱逃]] +6;[[游泳]] +14
+|racial_mods=+4 脱逃
+|sq=黏液云
+|environment=温带水域
+|organization=单独，成对，或一群（3–5）
+|treasure=无
+|special_abilities={{怪物能力|黏液云|Ex|在水下时，瓦瑞西亚盲鳗可以用一个自由动作分泌黏液，将一个 5 尺见方的立方体水域变成一团透明的黏稠黏液云。这种黏液相当于水中的崎岖地形，游过其中的生物需消耗 2 格移动力。黏液云会持续 10 轮，之后消散。盲鳗不受这些黏液云的影响。这种黏液还使盲鳗在擒抱检定上获得 +4 加值。}}
+|source=冒险之路56：热病海劫掠者
+|lore=
+这种盲鳗是普通盲鳗的近亲，最常出没于瓦瑞西亚湾。它们体长可达 4 尺，体重可达 15 磅。
+}}
+
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Varisian Hagfish|2=Varisian Hagfish}}

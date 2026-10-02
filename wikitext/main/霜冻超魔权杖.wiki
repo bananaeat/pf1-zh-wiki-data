@@ -1,0 +1,15 @@
+{{魔法物品
+|name=霜冻超魔权杖
+|english_name=Rod of Metamagic, Rime
+|aon=MagicRodsDisplay.aspx?FinalName=Rod of Metamagic, Rimelesser
+|cat=权杖
+|aura=强烈（无学派）
+|cl=17
+|slot=无
+|price=3,000 gp（次等）；11,000 gp（普通）；24,500 gp（高等）
+|weight=5磅
+|description=持用者每天至多能施放3个带有〔寒冷〕描述符的法术，使受到该法术寒冷伤害的生物陷入[[纠缠]]状态，持续轮数等于法术的实际环级，如同使用了[[霜冻法术]]专长一样。
+|req=[[制造权杖]]、[[霜冻法术]]
+|cost=1,500 gp（次等）；5,500 gp（普通）；12,250 gp（高等）
+|source=极限宝具
+}}

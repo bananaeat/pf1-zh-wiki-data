@@ -1,0 +1,10 @@
+{{Trait
+|name=位面谈判者
+|english_name=Planar Negotiator (Region)
+|type=地区
+|prerequisites=无底深渊
+|description=你习惯与那些会让菜鸟谈判者慌乱的异界生物打交道。当与阵营和你相差不超过一阶的异界生物打交道时，你在交涉和察言观色检定上获得+1背景加值。如果你和该异界生物信仰同一神明，该加值提升至+2背景加值。
+|source_name=恶魔猎人手册
+|source=DHH
+|source_url=https://pf1chm.pages.dev/topics/zh143e5b3a4e.htm
+}}

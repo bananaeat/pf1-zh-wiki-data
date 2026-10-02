@@ -1,0 +1,14 @@
+{{魔法物品
+|name=交易手镯
+|english_name=Bracelet of Bargaining
+|aon=MagicWondrousDisplay.aspx?FinalName=Bracelet of Bargaining
+|cat=奇物
+|aura=中等预言系
+|cl=7
+|slot=腕部
+|price=14,500 gp
+|description=这条沉重的金环既可以公开佩戴以炫耀财富，也可以藏在袖子底下。它给予穿戴者在[[唬骗]]、交涉和察言观色检定上+5表现加值。每当穿戴者为了达成交易或承诺而与另一个生物握手时，她能立即感知其中是否涉及欺骗（该生物通过DC 16的意志豁免则无效），但无法判断欺骗的具体性质。
+|req=[[制造奇物]]、侦测谎言、[[侦测思想]]
+|cost=7,250 gp
+|source=极限宝具
+}}

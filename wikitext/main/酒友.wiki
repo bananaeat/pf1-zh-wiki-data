@@ -1,0 +1,9 @@
+{{Feat
+|name=酒友
+|english_name=Drinking Buddy
+|categories=团队
+|description=喝一点酒，你和你的队友能得到一点特别的幸运。
+|benefit=每天一次，当你醉酒（或更糟）并与一名同样拥有此专长并同样醉酒（或更糟）的队友位于10尺以内时，你可以以一个[[自由动作]]重投一个d20。你必须接受第二次的结果，即使更糟。
+|source_name=内海酒馆
+|source_url=https://pf1chm.pages.dev/topics/zh5b451adebe.htm
+}}

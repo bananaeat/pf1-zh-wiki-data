@@ -1,0 +1,10 @@
+{{消歧义|推卸责任}}
+{{Trait
+|name=推卸责任
+|english_name=Shift the Blame
+|type=种族
+|prerequisites=[[魔裔]]（怨恨族裔）
+|description=你懂得很多花招，能够保护自己免遭自身错误酿下的苦果。当你尝试说服某人，应该是别人为你的行为负责时，[[唬骗]]与交涉检定获得+1背景加值。
+|source_name=炼狱血脉
+|source_url=https://pf1chm.pages.dev/topics/page_832.html
+}}

@@ -1,0 +1,10 @@
+{{Feat
+|name=奥术宿怨
+|english_name=Arcane Vendetta
+|description=你的族人曾遭到奥术团体（诸如纽梅利亚的科技联盟，或者伊利森的白女巫）的虐待，这使得你极端希望把伤害加诸到那些使用奥术的人身上。
+|prerequisites=[[法术辨识]]1级
+|benefit=在对抗任何你目睹其在最近5轮内施放过奥术法术（而非使用类法术能力）的目标时，你的武器攻击造成的伤害提高2点。在这之前你必须成功使用[[法术辨识]]技能鉴别法术，用以确信目标所施放的确实是奥术。
+|source=ISWG
+|source_name=内海世界指南
+|source_url=https://pf1chm.pages.dev/topics/page_553.html
+}}

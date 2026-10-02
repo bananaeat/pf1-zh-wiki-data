@@ -1,0 +1,11 @@
+{{Feat
+|name=穷锤猛打
+|english_name=Hammer the Gap
+|categories=战斗
+|description=你多次命中相同的位置，造成越来越大的伤害。
+|prerequisites=基本攻击加值+6。
+|benefit=当你进行[[全力攻击]]时，你每一次连续命中同一个敌人，都会造成额外伤害，数值等于你本回合此前对该敌人的连续命中次数。该伤害可以被重击乘算。
+|source=UC
+|source_name=极限战斗
+|source_url=https://pf1chm.pages.dev/topics/page_199.html
+}}

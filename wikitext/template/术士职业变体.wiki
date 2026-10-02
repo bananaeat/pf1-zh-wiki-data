@@ -1,0 +1,19 @@
+<noinclude>
+{{术士职业变体}}
+[[分类:导航模板]]
+</noinclude><includeonly>
+{{navbox
+|name=术士职业变体列表
+|title=术士职业变体
+|group1=进阶种族手册（ARG）
+|list1=[[塑愿者]]
+|group2=极限魔法（UM）
+|list2=[[混血术士]]
+|group3=进阶职业指南（ACG）
+|list3=[[魔能武师]] {{!}} [[混种术师]]
+|group4=内海战斗（ISM）
+|list4=[[拉兹密安牧师]]{{!}}[[刺青术士]]
+|group5=探索者协会战地指南(PSFG)
+|list5=[[探求者]]
+}}
+</includeonly>

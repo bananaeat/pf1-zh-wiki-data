@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[进阶魔宠]] 的神话版本。</small></div>
+{{Feat
+|name=进阶魔宠
+|english_name=Improved Familiar
+|categories=神话
+|description=你的[[魔宠]]也能从你那神奇的[[韧性]]和洞察力中获益。
+|prerequisites=[[进阶魔宠]]
+|benefit=你每拥有3个阶层，你的魔宠就能在一项你所选择的属性上获得+2加值。这些加值叠加。你的魔宠还能将你的阶层加到它的天生防御加值以及[[特殊能力#法术抗力|法术抗力]]（如果它有法术抗力）上。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

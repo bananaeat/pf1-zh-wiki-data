@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=毒物圣杯
+|english_name=Chalice of Poison
+|aon=MagicWondrousDisplay.aspx?FinalName=Chalice of Poison
+|cat=奇物
+|aura=中等死灵系
+|cl=7
+|slot=无
+|price=10,080 gp
+|weight=1磅
+|description=这种圣杯可以按各种规格制作，但通常设计得十分雅致。每天一次，使用者说出命令字后，下一次有任何可饮用的液体被倒入圣杯，它就会被注入毒素，如同[[毒击术]]法术（强韧DC 16），可以作为吞服型或接触型毒药（说出命令字时选择）。毒素保持效力24小时，之后失效。
+|req=[[制造奇物]]、[[毒击术]]
+|cost=5,040 gp
+|source=内海诡道
+}}

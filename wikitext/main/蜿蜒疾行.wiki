@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 19），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=蜿蜒疾行
+|english_name=Slithering Stride
+|type=种族
+|pfs=否
+|prerequisites=狗头人
+|description=你作为一名林中设陷猎人长大，擅长在灌木丛中快速移动。你每天共有3轮时间，可以全速穿过稀疏或茂密的下层植物。此能力在经魔法操控以阻碍移动的地形中无效。
+|source_name=格拉利昂的狗头人
+|source=KoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Slithering%20Stride
+}}

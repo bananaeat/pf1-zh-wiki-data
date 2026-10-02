@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Sargava, the Lost Colony pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=丘陵战士
+|english_name=Hill Fighter
+|type=战斗
+|prerequisites=萨迦瓦人
+|description=你习惯在丘陵环境中战斗（《核心规则书》第427–428页）。你可以在陡坡上向下奔跑或冲锋（移动距离至多为你的基本速度），而无需进行[[特技]]检定来避免绊倒；但如果你移动的距离超过此限，则适用陡坡的常规规则。
+|source_name=萨迦瓦，失落的殖民地
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Hill%20Fighter
+}}

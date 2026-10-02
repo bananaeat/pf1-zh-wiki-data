@@ -1,0 +1,15 @@
+{{魔法物品
+|name=岩石之手
+|english_name=Hand of Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Hand of Stone
+|cat=奇物
+|aura=中等预言系
+|cl=7
+|slot=颈部
+|price=27,000 gp
+|weight=2磅
+|description=这只[[木乃伊化]]的[[矮人]]手掌用钢链挂在角色的脖子上，使穿戴者与脚下的大地更加相合。如果穿戴者以[[标准动作]]集中精神于这只手，她就获得30尺[[颤动感知]]，持续到她的下一个回合开始。这项能力只能让她感知到与泥土或岩石接触的生物和物体。
+|req=[[制造奇物]]、[[锐耳术/鹰眼术]]
+|cost=13,500 gp
+|source=极限宝具
+}}

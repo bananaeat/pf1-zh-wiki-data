@@ -1,0 +1,8 @@
+{{狂暴之力
+|name=次等太阳图腾
+|english_name=Sun Totem, Lesser
+|type=Su
+|categories=图腾
+|benefit=烈阳的火焰激发了野蛮人的活力。他对炎热和高温环境的环境影响免疫，且在对抗极端高温影响的强韧豁免中获得+2加值。另外，野蛮人在狂暴时获得5点火焰抗力。
+|source_name=卡蒂亚，东方明珠
+}}

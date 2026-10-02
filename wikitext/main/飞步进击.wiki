@@ -1,0 +1,12 @@
+{{Feat
+|name=飞步进击
+|english_name=Step Up and Strike
+|categories=战斗
+|description=当敌人试图移开的时候，你能够追上他并且进行一次攻击。
+|prerequisites=敏捷13，[[咄咄逼人]]，[[快步跟进]]，基本攻击加值+6。
+|benefit=当你使用[[咄咄逼人]]或者[[快步跟进]]专长跟随邻近的敌人时，你还能以最高的BAB进行单次近战攻击对抗该名敌人。这个攻击被计为你在该轮的一次[[借机攻击]]。使用本专长不计入正常每轮能够进行的动作数量。
+|normal=正常情况下你只能进行一次[[标准动作]]和一次五尺快步。
+|source=APG
+|source_name=进阶玩家指南
+|source_url=https://pf1chm.pages.dev/topics/page_196.html
+}}

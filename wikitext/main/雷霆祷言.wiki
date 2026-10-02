@@ -1,0 +1,18 @@
+{{Spell
+|name=雷霆祷言
+|english_name=Litany of thunder
+|school=塑能系
+|tags=依赖语言;音波
+|levels=反圣武士 4;圣武士 4;审判者 5
+|action=迅捷动作
+|components=语言;姿势;圣徽
+|range=近距
+|target=一名生物
+|duration=1轮
+|save=强韧，通过则无效
+|sr=是
+|description=你唤来一道雷霆般的巨响轰炸敌人。目标被震聋直到该状态被移除，同时陷入[[困惑]]一轮。
+
+当受到该法术影响时，目标不能再成为另一种名称中带有“祷言”一词的法术的目标。
+|source=极限战斗
+}}

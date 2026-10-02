@@ -1,0 +1,46 @@
+{{速查导航}}
+{{怪物
+|name=沙华鱼人暴徒
+|english_name=Sahuagin Brute
+|cr=3
+|xp=800
+|classline=沙华鱼人 野蛮人1
+|alignment=中立邪恶
+|size=中型
+|type=人形怪物
+|subtypes=水生亚种
+|init=+2
+|senses=[[通用怪物规则#盲感|盲感]]30尺，黑暗视觉60尺；察觉+7
+|description=这些沙华鱼人理解如何去引导它们天生的狂怒嗜血之力。
+|ac=17，接触12，措手不及15（+2敏捷，+5天生）
+|hp=36（3HD；2d10+1d12+13）
+|fort=+7
+|ref=+6
+|will=+5
+|weaknesses=强光致盲
+|speed=40尺，游泳60尺
+|melee=精制品鱼叉+8（1d8+6/x3），啮咬+2（1d4+2）
+|ranged=精制品鱼叉+6（1d8+4/x3）
+|special_attacks=血性狂怒，狂暴（8轮/天）
+|str=19
+|dex=15
+|con=18
+|int=12
+|wis=13
+|cha=10
+|bab=+3
+|cmb=+7
+|cmd=19
+|feats=异种武器擅长（鱼叉）;高等血性狂怒*
+|skills=[[攀爬]]+8;[[驯养动物]]+6;[[威吓]]+6;[[察觉]]+7;[[骑术]]+6;[[隐匿]]+6;[[生存]]+6;[[游泳]]+16
+|languages=水族语;通用语;鲨类交谈
+|sq=快速移动
+|environment=温带或温暖海洋
+|combat_gear=治疗轻伤药水
+|gear=精制品鱼叉 UE;抗力斗篷+1;50尺丝绳;280GP
+|source=怪物志
+|family=沙华鱼人（怪物志）
+|npc=1
+}}
+
+本页译自《[[怪物志]]》的怪物图鉴 CHM。

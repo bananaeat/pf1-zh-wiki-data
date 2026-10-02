@@ -1,0 +1,12 @@
+{{Feat
+|name=破坏者之祝福
+|english_name=Destroyer's Blessing
+|categories=战斗
+|description=破坏给予你力量。
+|prerequisites=半兽人或兽人，【狂暴】职业特性。
+|benefit=当你处于狂暴中并且成功进行[[击破]][[战技]]之后，你的狂暴轮数恢复1轮。如果击破武器战技使物件处于[[破损]]状态，你会恢复1点HP。这些效果每轮只能获得1次。
+|stamina=无需[[击破]]，而只要将CR不低于你一半的目标HP降低到0，你就可以花费2点耐力获得1点每日狂暴轮数。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

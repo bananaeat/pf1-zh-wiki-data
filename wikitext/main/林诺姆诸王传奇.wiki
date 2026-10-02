@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=林诺姆诸王传奇
+|english_name=Saga of the Linnorm Kings
+|aon=MagicWondrousDisplay.aspx?FinalName=Saga of the Linnorm Kings
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=无
+|price=26,000 gp
+|weight=5磅
+|description=这本厚重的书籍收录了一系列乌尔芬英雄及其神奇功绩的史诗故事，字里行间交织着一种强大的魔法效果。任何人阅读这本书（总共需要48小时，且至少分6天读完），都会在[[交涉]]和[[威吓]]检定上获得+5表现加值，并在对抗恐惧的豁免上获得+4士气加值。这是一种永久性的魔法效果，可以被如常解除。书一旦读完，书页中的魔法就会消失，它变成一本普通的书。
+|req=[[制造奇物]]、[[鹰之威仪]]、[[移除恐惧]]，制造者必须是吟游诗人
+|cost=13,000 gp
+|source=北地居民
+}}

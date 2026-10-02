@@ -1,0 +1,8 @@
+{{Trait
+|name=铁甲如衣
+|english_name=Steel Skin
+|type=战斗
+|description=你在穿脱[[重型盔甲]]时只需要花费正常时间的一半。此外，你在游戏开始时获得一顶有着家族徽记的巨盔（该头盔不会提供防御性增益）。当同时穿戴这顶头盔和一套重甲时，你在威吓检定上获得+2背景加值。
+|source_name=内海骑士
+|source_url=https://pf1chm.pages.dev/topics/zhdc70ece933.htm
+}}

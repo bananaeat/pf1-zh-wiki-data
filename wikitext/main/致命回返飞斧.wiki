@@ -1,0 +1,15 @@
+{{魔法物品
+|name=致命回返飞斧
+|english_name=Deadly Returns Throwing Axe
+|aon=MagicCursedDisplay.aspx?ItemName=Deadly Returns Throwing Axe
+|cat=诅咒物品
+|base=[[飞斧]]
+|enh=+2 回力
+|aura=中等塑能系
+|cl=8
+|slot=无
+|weight=2磅
+|description=这件武器看起来是一把+2回力[[飞斧]]。但它没有普通的回力能力，而是只在持用者没能命中目标时才会飞回——并攻击持用者。这次攻击使用持用者完整的基础攻击加值。若命中，斧头会嵌在持用者身上，持用者可以用一个[[迅捷动作]]把它拔出来。若没有命中持用者，它会落在持用者相邻的一个随机的无人占据的方格中，必须尽快把它捡起来。在受到[[移除诅咒]]法术或类似效果影响之前，致命回返飞斧的持用者总是把它当作自己的主要武器使用。
+|req=+2回力[[飞斧]]
+|source=极限宝具
+}}

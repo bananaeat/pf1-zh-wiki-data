@@ -1,0 +1,15 @@
+{{魔法物品
+|name=悬停背带
+|english_name=Harness of Hovering
+|aon=MagicWondrousDisplay.aspx?FinalName=Harness of Hovering
+|cat=奇物
+|aura=微弱变化系
+|cl=3
+|slot=躯体
+|price=12,000 gp
+|weight=1/2磅
+|description=这条皮质背带配有银质配件，允许穿戴者不借助翅膀就悬浮在半空中。以一个迅捷动作拉动背带，即可激活或解除穿戴者身上的浮空术效果。该浮空术效果无法使穿戴者上升或下降。
+|req=[[制造奇物]]、[[浮空术]]
+|cost=6,000 gp
+|source=极限荒野
+}}

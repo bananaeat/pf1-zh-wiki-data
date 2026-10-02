@@ -1,0 +1,10 @@
+{{Trait
+|name=乞讨为生
+|english_name=Scrounger
+|type=种族
+|prerequisites=[[半身人]]
+|description=别人称之为垃圾，你则称之为便宜。你可以用一半的价格(而非通常的3/4)购买[[破损]]的物品。该物品的正品价(即未破损版本)不能高于你人物等级的4倍。你为其支付的金币数目则不能超过你人物等级的2倍。(比如5级时，你最多购买单价10gp的破损物品，即该物品若未破损，单价不能超过20gp。)
+|source_name=种族背景
+|source=HoG
+|source_url=https://pf1chm.pages.dev/topics/page_155.html
+}}

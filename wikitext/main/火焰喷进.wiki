@@ -1,0 +1,11 @@
+<noinclude>{{操念使导航}}</noinclude>
+{{Source|异能冒险|Occult Adventures}}
+'''火焰喷进'''（Flame Jet, Sp）是[[操念使]]的[[原力]]。
+
+元素：火；类别：通用（Sp）；等级：3；超载：－
+
+以[[标准动作]]，你在身后喷射出爆发性的火焰，这会推动你向着直线方向移动至多60尺，这也包括向着空中移动；任何向上进行的移动都被算作消耗了双倍的移动距离。若你在半空中结束自己的回合的话，那么除非你再次使用火焰喷进，否则便会在下个自己的回合坠落。
+
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zhc3dfe53681.htm 原文]）。全部原力见 [[:分类:原力|分类:原力]]。{{AoN原文|1=KineticistTalentsDisplay.aspx?ItemName=Flame Jet|2=Flame Jet}}
+
+[[分类:原力]]

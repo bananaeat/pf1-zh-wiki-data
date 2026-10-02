@@ -1,0 +1,9 @@
+{{Trait
+|name=精灵多神论者
+|english_name=Elven Polytheist
+|type=宗教
+|prerequisites=信仰任一精灵神祇
+|description=你对各位[[精灵]]神祗的认知使你有着开阔的眼界。你在宗教知识上获得+1背景加值，且宗教知识视作你的[[本职技能]]。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

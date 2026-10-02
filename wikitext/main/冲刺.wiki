@@ -1,0 +1,9 @@
+{{Trait
+|name=冲刺
+|english_name=Sprint
+|type=战斗
+|prerequisites=[[侏儒]]
+|description=你从小就知道世间充满庞大迅捷的威胁，而有时最佳对策就是埋头狂奔。父母教会你如何在中短程冲刺中爆发极限速度。若你在回合中只做了移动(即奔跑或用全部动作移动),且未着甲或仅着轻甲，你可以额外移动5尺。
+|source_name=格拉里昂的侏儒
+|source_url=https://pf1chm.pages.dev/topics/zh5166336575.htm
+}}

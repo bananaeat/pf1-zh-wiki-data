@@ -1,0 +1,14 @@
+{{魔法物品
+|name=可怖生命之心
+|english_name=Dread Heart of Life
+|aon=MagicWondrousDisplay.aspx?FinalName=Dread Heart of Life
+|cat=奇物
+|aura=中等死灵系
+|cl=5
+|slot=无
+|price=2,000 gp
+|description=对于要进行长途航海或前往荒凉之地的吸血鬼来说，这是一件福音：这个黑盒子里搏动的心脏可以储存一个生物的生命能量，留待日后食用。携带这个盒子的吸血鬼成功进行吸取攻击时，可以把夺来的精华导入这颗心脏，这会伤害目标生物，但吸血鬼不会立刻从这次进食中获得任何好处。精华会在心脏中储存1周；在此期间，吸血鬼可以随时以一个[[标准动作]]攥住这颗心脏，从中吸出精华，从而获得进食的好处。
+|req=[[制造奇物]]、[[吸血鬼之触]]
+|cost=1,000 gp
+|source=夜之血脉
+}}

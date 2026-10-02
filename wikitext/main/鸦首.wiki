@@ -1,0 +1,16 @@
+{{魔法物品
+|name=鸦首
+|english_name=Raven's Head
+|aon=MagicArtifactsDisplay.aspx?ItemName=Raven's Head
+|cat=神器
+|tier=次级神器
+|base=[[重型硬头锤]]
+|enh=+3 破敌（不死）
+|aura=强烈咒法系（医疗）
+|cl=20
+|slot=无
+|weight=8磅
+|description=作为[[法莱斯玛]]教会的圣物，这柄镀金的+3破敌（不死）重型硬头锤曾是卡利法斯主教的权威象征，直到Adamondais Virholt王子在对抗默语暴君的战斗中把它遗失。能够引导正能量的角色在持握鸦首时，若本来没有导能打击专长，就会获得该专长。在法莱斯玛牧师手中，鸦首会获得瓦解武器特殊能力，持用者使用导能打击专长时视作比实际高4级的牧师（DC +2，伤害+2d6），并且每天可额外使用三次。
+|destruction=如果鸦首被成功用作制造巫妖或其他不死生物的材料，它的力量就会被永久破除。
+|source=冒险之路46：守望者苏醒、神器与传说
+}}

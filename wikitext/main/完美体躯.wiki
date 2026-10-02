@@ -1,0 +1,10 @@
+<noinclude>{{异能者导航}}
+'''完美体躯'''（Perfect Body, Ex）是[[异能者]]的[[精神增幅|精神增幅]]。
+
+</noinclude>一些异能实践者通过扩展训练完善身心。当异能者施放一个变化系联结法术时，可以从精神力池中消耗 1 点精神力，在下一次反射豁免或强韧豁免中获得+2加值。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_310.html 精神增幅]、[https://pf1chm.pages.dev/topics/zhb4162fc9dd.htm 乌笃剌精神增幅]、[https://pf1chm.pages.dev/topics/page_855.html PSI技术]），按 AoN 核对过。全部精神增幅见 [[精神增幅]]。
+
+[[分类:精神增幅]]
+
+{{职业}}</noinclude>

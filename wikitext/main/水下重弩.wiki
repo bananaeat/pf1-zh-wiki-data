@@ -1,0 +1,17 @@
+{{武器
+|name=水下重弩
+|english_name=Underwater heavy crossbow
+|category=武器
+|prof=简易
+|wcat=远程
+|price=100 gp
+|weight=8磅
+|dmg_s=1d8
+|dmg_m=1d10
+|crit=19–20/×2
+|range=120尺
+|type=穿刺
+|groups=弩
+|description=这件武器在水上和[[重弩]]别无二致。你能在水下使用它，此时射程增量为20尺。它在决定武器擅长和特殊能力时被视为重弩。
+|source=进阶种族手册、极限宝具、远程战术工具箱
+}}

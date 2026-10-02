@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[武器娴熟]] 的神话版本。</small></div>
+{{Feat
+|name=武器娴熟
+|english_name=Weapon Finesse
+|categories=神话
+|description=你是使用那些需要依靠使用者灵活技艺的武器的大师。
+|prerequisites=[[武器娴熟]]
+|benefit=当你使用[[武器娴熟]]专长时，你还能够在你的伤害检定中使用敏捷调整值取代你的力量调整值。若你携带盾牌，那么防具检定减值并不会应用到攻击检定或伤害检定上。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

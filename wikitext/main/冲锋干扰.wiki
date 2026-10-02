@@ -1,0 +1,10 @@
+{{Feat
+|name=冲锋干扰
+|english_name=Distracting Charge
+|categories=战斗;团队
+|description=你盟友的冲锋暴露出一处破绽，你可以加以利用。
+|benefit=如果你的盟友拥有此专长，则他在冲锋攻击目标命中时，你对同一个目标的下一次攻击检定将获得+2加值。你必须在盟友的下一回合前发动这次攻击，否则加值将失效。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://pf1chm.pages.dev/topics/page_203.html
+}}

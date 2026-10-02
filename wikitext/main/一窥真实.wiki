@@ -1,0 +1,15 @@
+{{Spell
+|name=一窥真实
+|english_name=Glimpse of truth
+|school=预言系
+|levels=通灵者 3;先知 4;审判者 4;异能者 4;战斗祭司 4;牧师 4;秘学士 4;萨满 4;唤魂师 5;奥能师 5;女巫 5;德鲁伊 5;术士 5;法师 5;炼金术师 5;猎人 5;调查员 5;魔战士 5
+|action=标准动作
+|components=语言;姿势;材料（价值50gp的碧玺）
+|range=个人
+|target=自己
+|duration=1轮
+|save=无
+|sr=否
+|description=该法术的功能如同[[真知术]]一般，区别如上所述。
+|source=极限诡道
+}}

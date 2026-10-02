@@ -1,0 +1,10 @@
+{{Trait
+|name=牺牲自我
+|english_name=Self-Sacrifice
+|type=宗教
+|prerequisites=[[半身人]]；信仰[[纱琳]]
+|description=通过为你关心的人承担风险的愿望，你向你的女神献上尊崇。以[[移动动作]]，你可以用你自己的身体为相邻的盟友提供软[[掩蔽]]，无视你们的体型差距。
+|source_name=宗教背景
+|source=HoG
+|source_url=https://pf1chm.pages.dev/topics/page_157.html
+}}

@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=锈蚀怪触角鞭
+|english_name=Rust Monster Antenna Whip
+|aon=MagicWondrousDisplay.aspx?FinalName=Rust Monster Antenna Whip
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=手部
+|price=56,000 gp
+|weight=2磅
+|description=这件物品用保存下来的[[锈蚀怪]]触角制成，作用类似[[锈蚀手套]]，不同之处在于：你可以随意用这根鞭子发动[[锈蚀爪]]的接触攻击，可以对所有非魔法的金属物体使用（而不仅是含铁的金属），并且它不能保护你免受其他锈蚀攻击。就熟练和武器专长而言，这件物品视为一根[[长鞭]]。
+|req=[[制造奇物]]、[[锈蚀爪]]
+|cost=28,000 gp（若提供死去的锈蚀怪则为 24,000 gp），2,240 XP
+|source=再探地城住民
+}}

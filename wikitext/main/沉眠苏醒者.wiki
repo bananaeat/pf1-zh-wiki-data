@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（People of the Stars pg. 29），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=沉眠苏醒者
+|english_name=Awakened from Stasis
+|type=地区
+|pfs=否
+|prerequisites=阿珀斯忒
+|description=虽然你生于格拉利昂、长于格拉利昂，但你最近却在一座陌生的地窖中醒来，完全不记得自己是如何到了那里；周围光滑的玻璃蛋里沉睡着形形色色、大小各异的生物，由一群沉默寡言、形似螃蟹的自动机械看守着。作为休眠的副作用，你只需2小时睡眠就能获得8小时睡眠的全部好处。这让需要休息才能准备法术的施法者只需休息2小时就能准备法术，但施法者仍不能每天准备法术超过一次。
+|source_name=繁星子民
+|source=PotS
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Awakened%20from%20Stasis
+}}

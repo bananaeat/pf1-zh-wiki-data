@@ -1,0 +1,9 @@
+{{Trait
+|name=采珠人
+|english_name=Pearl Diver
+|type=种族
+|prerequisites=[[半精灵]]
+|description=你十分擅长在沙漠岸边的温暖海水中寻找宝物。你在水中进行的察觉检定获得+2背景加值，且你可以在溺水前闭气体质值三倍的轮数。
+|source_name=沙之子民
+|source_url=https://pf1chm.pages.dev/topics/zh730f330f66.htm
+}}

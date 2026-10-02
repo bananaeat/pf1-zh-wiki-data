@@ -1,0 +1,12 @@
+{{魔法物品
+|name=强化抗能
+|english_name=Energy Resistance, Improved
+|cat=防具附魔
+|apply=护甲、盾牌
+|bonus=+42,000 gp
+|aura=中等防护系
+|cl=7
+|description=与抗能相同，但每次攻击吸收前20点能量伤害。
+|req=[[制造魔法武器和防具]]、[[抵抗能量伤害]]
+|source=核心规则书、极限宝具
+}}

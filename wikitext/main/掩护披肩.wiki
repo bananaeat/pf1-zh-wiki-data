@@ -1,0 +1,15 @@
+{{魔法物品
+|name=掩护披肩
+|english_name=Catching Cape
+|aon=MagicWondrousDisplay.aspx?FinalName=Catching Cape
+|cat=奇物
+|aura=微弱防护系
+|cl=1
+|slot=肩部
+|price=200 gp
+|weight=3磅
+|description=这件银色的披肩会随着穿戴者的每一步像旗帜一样卷动翻飞。以一个迅捷动作，穿戴者可以命令披肩变成一个环绕周身的微弱球形力场。该力场对远程攻击提供隐蔽效果（20%失手率），持续1分钟，或者直到穿戴者因披肩之力而被一次远程攻击打偏为止，以先到者为准。力场被使用后，披肩里的全部魔力都会消失，只剩下一件普通的银色衣物。
+|req=[[制造奇物]]、[[护盾术]]
+|cost=100 gp
+|source=进阶玩家指南、极限宝具
+}}

@@ -1,0 +1,11 @@
+{{Feat
+|name=抓地者
+|english_name=Ground-Grabber
+|categories=战斗
+|description=当受到大型敌人的压迫时，你可以蹲伏以稳住身体。
+|prerequisites=体质13。
+|benefit=当受到比你体型大的对手的[[可怖殴击]]、[[冲撞]]、拖拽、移位或[[摔绊]][[战技]]时，你的[[CMD]]获得+2表现加值。
+|source=GHH
+|source_name=巨人猎手手册
+|source_url=https://pf1chm.pages.dev/topics/zh804f69f232.htm
+}}

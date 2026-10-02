@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Races pg. 199），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=龙之友
+|english_name=Dragon Friend
+|type=种族
+|prerequisites=特里亚克萨斯人
+|description=你了解龙的行动方式，以及它们如何解读肢体语言。你对抗龙时的CMD获得+1背景加值；并且每当你第一次遇见某条特定的龙时，只要你没有对它采取过敌对行为，你就可以以一个整轮动作进行一次[[交涉]]检定，将它对你的态度至多改善一级。
+|source_name=内海种族
+|source=ISR
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Dragon%20Friend
+}}

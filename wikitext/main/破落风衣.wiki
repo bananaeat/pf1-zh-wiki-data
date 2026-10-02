@@ -1,0 +1,15 @@
+{{魔法物品
+|name=破落风衣
+|english_name=Coat of the Undercity
+|aon=MagicWondrousDisplay.aspx?FinalName=Coat of the Undercity
+|cat=奇物
+|aura=微弱变化系
+|cl=5
+|slot=胸部
+|price=7,500 gp
+|weight=5磅
+|description=这件脏兮兮、看着破破烂烂的灰色外衣，裹在流浪汉或无业游民身上不会显得突兀。当穿戴者说出命令字时，破落风衣就会变成一阵咔咔作响的几丁质，把穿戴者变成一只巨蟑螂（B2 58页），如同虫类形态 I。这种变身只能在都市环境中发生。穿戴者每天最多可以保持变身5分钟。这个持续时间不需要连续使用，但必须以1分钟为单位。
+|req=[[制造奇物]]、[[虫类形态 I]]
+|cost=3,750 gp
+|source=极限诡道
+}}

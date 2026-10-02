@@ -1,0 +1,13 @@
+{{Trait
+|name=守护兽灵
+|english_name=Spirit Animal
+|type=地区
+|prerequisites=猛犸象大王之国
+|description=一只守护兽灵庇佑着你。
+|benefit=从以下守护兽灵中选择一种。根据你选择的守护兽灵，你获得对应的好处。
+猛犸象：你在强韧豁免检定时获得+1背景加值。
+剑齿虎：你在反射豁免检定时获得+1背景加值。
+披毛犀：你在意志豁免检定时获得+1背景加值。
+|source_name=北地居民
+|source_url=https://pf1chm.pages.dev/topics/zh63296b3929.htm
+}}

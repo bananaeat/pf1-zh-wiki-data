@@ -1,0 +1,15 @@
+{{魔法物品
+|name=炼金掷镖器
+|english_name=Alchemist's Atlatl
+|aon=MagicWondrousDisplay.aspx?FinalName=Alchemist's Atlatl
+|cat=奇物
+|aura=微弱变化系
+|cl=1
+|slot=无
+|price=1,500 gp
+|weight=2磅
+|description=这个木制[[掷镖器]]像是一台手持的杠杆式投石机。一端是刻满炼金公式的杆身，另一端是一个粗糙凿成的碗槽。使用者可以把一件炼金溅射武器（比如一瓶[[强酸]]或[[炽火胶]]）放进碗槽，这是一个引发[[借机攻击]]的[[移动动作]]。溅射武器从掷镖器中发射时，其射程加倍。魔法物品（包括炼金术师的炸弹）不受炼金掷镖器影响。
+|req=[[制造奇物]]、[[长距射击]]
+|cost=750 gp
+|source=远程战术工具箱
+}}

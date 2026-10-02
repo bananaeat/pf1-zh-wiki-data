@@ -1,0 +1,14 @@
+{{Spell
+|name=精神屏障 I
+|english_name=Mental barrier i
+|school=防护系
+|levels=异能者 2
+|action=直觉动作
+|components=语言
+|range=个人
+|target=自己
+|duration=1轮
+|sr=否
+|description=你设置了一道精神能量构成的屏障，并以此来保护自己免受伤害。这道屏障使你的AC获得+4盾牌加值。此外，心灵戳刺 I和II对你造成的伤害减半（即成功通过意志豁免时降低至四分之一）。
+|source=异能冒险
+}}

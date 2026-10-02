@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[沉着暴怒]] 的神话版本。</small></div>
+{{Feat
+|name=沉着暴怒
+|english_name=Furious Focus
+|categories=神话
+|description=你能够有节奏地连续攻击，而又不必为了力量牺牲精准度。
+|prerequisites=[[沉着暴怒]]
+|benefit=当你使用[[沉着暴怒]]专长时，你在[[借机攻击]]中做出的攻击检定不会受到[[猛力攻击]]的减值。以[[自由动作]]，你能够花费1次神话之力，来使你在1轮内使用该专长时做出的任何近战攻击都免受猛力攻击的减值。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

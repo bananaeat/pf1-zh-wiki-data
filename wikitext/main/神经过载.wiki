@@ -1,0 +1,16 @@
+{{Spell
+|name=神经过载
+|english_name=Synapse overload
+|school=预言系
+|tags=影响心灵
+|levels=催眠师 4;异能者 5
+|action=标准动作
+|components=语言
+|range=接触
+|target=接触到的活物
+|duration=立即
+|save=强韧，通过则部分生效（见后文）
+|sr=是
+|description=你让目标的精神在自己的体内释放出强烈的信息洪流，由此而激烈地触动目标的神经突触。目标受到每施法者等级1d6点闪电伤害（最高15d6点），而且还会[[恍惚]]1分钟。成功通过强韧豁免不会降低伤害，但是可以免受恍惚效果。
+|source=异能冒险
+}}

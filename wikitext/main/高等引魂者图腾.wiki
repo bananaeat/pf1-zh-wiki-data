@@ -1,0 +1,9 @@
+{{狂暴之力
+|name=高等引魂者图腾
+|english_name=Psychopomp Totem, Greater
+|categories=图腾
+|pfs=否
+|prerequisites=[[野蛮人]]10级，[[引魂者图腾]]
+|benefit=狂暴时，野蛮人幽冥可以侦测并定位30尺内的不死生物，就如同野蛮人具有[[盲视]]能力一样，且他挥舞的任何武器都被视为具有幽冥[[特殊能力]]。
+|source_name=冒险之路139：死者之路
+}}

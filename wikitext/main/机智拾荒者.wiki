@@ -1,0 +1,9 @@
+{{Trait
+|name=机智拾荒者
+|english_name=Resourceful Scavenger
+|type=地区
+|prerequisites=纽梅利亚本地出身
+|benefit=生活在纽梅利亚促使你成为一名拾荒专家，好在废墟和坠毁地点中搜寻贵重物品及食物。多年从事这项活动让你练就了一双慧眼，能够在最不可能的地方发现贵重物品和潜在有用的资源。当你在某个地点搜寻贵重物品或资源时，你在察觉检定上+2背景加值。[[估价]]技能成为你的[[本职技能]]。
+|source_name=缘界英雄Heroes from the Fringe
+|source_url=https://pf1chm.pages.dev/topics/zh75ffd12667.htm
+}}

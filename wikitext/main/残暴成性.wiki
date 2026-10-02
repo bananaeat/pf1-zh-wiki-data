@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Orcs of Golarion pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=残暴成性
+|english_name=Mindlessly Cruel
+|type=种族
+|prerequisites=半兽人、兽人
+|description=你乐于挥舞残酷的武器施以凶狠的打击。每当你的武器攻击检定拥有士气加值时，你的武器伤害掷骰也获得+1背景加值。
+|source_name=格拉利昂的兽人
+|source=OoG
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Mindlessly%20Cruel
+}}

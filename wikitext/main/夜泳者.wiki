@@ -1,0 +1,10 @@
+{{Trait
+|name=夜泳者
+|english_name=River Rat
+|type=地区
+|prerequisites=湿地或河流
+|description=你学会走路没多久就开始下水了。早在幼时江贼就命令你做些口衔[[匕首]]夜渡河川、切断商船锚绳之类勾当。你持用匕首造成的伤害获得+1背景加值；此外你的游泳检定获得+1背景加值，并且总能将游泳视为你的[[本职技能]]。
+|source_name=地区背景
+|source=APG
+|source_url=https://pf1chm.pages.dev/topics/page_156.html
+}}

@@ -1,0 +1,15 @@
+{{魔法物品
+|name=手术背心
+|english_name=Vest of Surgery
+|aon=MagicWondrousDisplay.aspx?FinalName=Vest of Surgery
+|cat=奇物
+|aura=微弱咒法系
+|cl=5
+|slot=胸部
+|price=3,000 gp
+|weight=4磅
+|description=这件翡翠绿的[[背心]]前面有四个鼓鼓囊囊的显眼口袋。穿戴者进行医疗检定时，始终视为在使用医疗包。每天一次，穿戴者可以进行一次DC 20的医疗检定，如同试图[[治疗重伤]]。如果检定成功，则治愈1d4点属性伤害，而不是生命值伤害。
+|req=[[制造奇物]]、[[次等复原术]]，制造者必须拥有5级[[医疗]]
+|cost=1,500 gp
+|source=极限宝具
+}}

@@ -1,0 +1,17 @@
+{{武器
+|name=闷棍
+|english_name=Sap
+|category=武器
+|prof=军用
+|wcat=轻型
+|price=1 gp
+|weight=2磅
+|dmg_s=1d4
+|dmg_m=1d6
+|crit=×2
+|type=钝击
+|special=瘀伤
+|groups=贴身
+|description=这件武器在坚硬、沉重的核心外包裹软材料，通常是皮套铅棍。先端比把手更粗，它有着发散敲击力的设计，使其较不容易见血或断骨。
+|source=核心规则书、极限宝具
+}}

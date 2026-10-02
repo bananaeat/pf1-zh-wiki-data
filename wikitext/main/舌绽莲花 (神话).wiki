@@ -1,0 +1,12 @@
+<div class="well" style="margin:.2em 0"><small>这是专长 [[舌绽莲花]] 的神话版本。</small></div>
+{{Feat
+|name=舌绽莲花
+|english_name=Rhetorical Flourish
+|categories=神话
+|description=你非常善于使用语言进行误导并巧妙地影响他人。
+|prerequisites=[[舌绽莲花]]
+|benefit=当你成功使用[[舌绽莲花]]专长对抗非神话生物时，你的交涉检定加值获得提高，提升数值等同于你的阶层。若目标是神话生物，该加值则减少为你的阶层的一半。你能够花费1次神话之力，以此来重掷失败的[[唬骗]]检定。你必须接受新结果，即便它比之前更低。
+|source=MA
+|source_name=神话冒险
+|source_url=https://pf1chm.pages.dev/topics/page_624.html
+}}

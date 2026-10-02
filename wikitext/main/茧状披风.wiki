@@ -1,0 +1,15 @@
+{{魔法物品
+|name=茧状披风
+|english_name=Cocoon Cloak
+|aon=MagicWondrousDisplay.aspx?FinalName=Cocoon Cloak
+|cat=奇物
+|aura=中等变化系
+|cl=7
+|slot=肩部
+|price=10,000 gp
+|weight=1磅
+|description=这是一件有褶边的丝质披风，尽管质地柔软精细，却异常耐用。每当穿戴者入睡时（无论是自然入睡还是魔法效果引起的睡眠），披风就会立即变成黏性的丝线包裹住穿戴者的身体，硬化成一个坚固的丝茧。被包裹在茧中时，穿戴者获得+4的天生防御增强加值，并且如同受到轻度护命护甲能力的影响一样免受重击和偷袭（重击时有25%几率改受正常伤害）。穿戴者醒来后，茧就会打开并变回披风。
+|req=[[制造奇物]]、[[虫类形态 I]]
+|cost=5,000 gp
+|source=极限宝具
+}}

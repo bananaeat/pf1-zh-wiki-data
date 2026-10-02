@@ -1,0 +1,10 @@
+{{Feat
+|name=杀戮之愉悦
+|english_name=Thrill of the Kill
+|description=杀戮使你的狂暴更加持久。
+|prerequisites=半兽人或兽人，【狂暴】职业特性。
+|benefit=当你处于狂暴状态并且你的攻击将一名敌人的HP降至负值或杀死敌人时，你的狂暴轮数恢复1轮。只有当你击败的敌人的生命骰至少与你相同时，你才能使用该专长。该效果每轮只能获得1次。
+|source=ARG
+|source_name=进阶种族手册
+|source_url=https://pf1chm.pages.dev/topics/page_197.html
+}}

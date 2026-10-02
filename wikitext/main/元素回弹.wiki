@@ -1,0 +1,9 @@
+{{Trait
+|name=元素回弹
+|english_name=Elemental Resilience
+|type=宗教
+|prerequisites=信仰任一元素领主
+|description=在酸蚀、寒冷、电或火中选择一项能量类型。你在对含有该描述符的法术的豁免获得+1背景加值。你选择了能量类型后不可更改。
+|source_name=内海诸神
+|source_url=https://pf1chm.pages.dev/topics/page_1588.html
+}}

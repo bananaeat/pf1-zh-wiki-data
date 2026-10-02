@@ -1,0 +1,14 @@
+{{Feat
+|name=平民守护者
+|english_name=Protector of the People
+|categories=故事
+|pfs=否
+|description=你誓要为你的社群制造一个守护者。
+|prerequisites=你的社群正在遭到迫害并且需要足够的防御能力；或拥有"惨遭劫掠（Raiders）"、"扭转不幸（Righting a Wrong）"、"生于战乱（The War）"、"万物之理（The Way Things Work）"角色背景。
+|benefit=你临时获得[[制造构装体]]，但仅可用于建造一尊魔像（golem）以达成此[[故事专长]]的目标。你无需满足制造构装体的先决条件，且此专长不能试图作为任何其他造物行为的前提条件。
+|goal=制造一尊CR 5或更高的魔像，并将其捐赠给社群用于抵御迫害。你与盟友必须承担建造费用，而非由社群承担。你必须深度参与魔像的建造过程。完成后，该魔像不能被用作于个人冒险伙伴；它属于所献赠社群的财产。捐赠物必须是魔像（golem），而非活化物体（animated object）等其他构装体类型。
+|completion_benefit=你无视先决条件获得制造构装体作为奖励专长，并可将其用于任何目的。此后，制造任何成本低于你所捐赠的魔像成本的构装体时，所需费用永久降低10%；但基础材料成本不会减少。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://pf1chm.pages.dev/topics/zhd5658d100e.htm
+}}

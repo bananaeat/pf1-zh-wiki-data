@@ -1,0 +1,10 @@
+<noinclude>{{游侠导航}}
+{{Source|极限魔法|Ultimate Magic}}
+
+'''爆炸陷阱'''（Exploding Trap*，Ex 或 Su）是一种[[游侠陷阱]]。
+
+</noinclude>'''爆炸陷阱*'''（Ex 或 Su）：只能加在[[游侠陷阱#火焰陷阱|火焰陷阱]]上。陷阱爆出火焰，充满与陷阱相邻的所有方格，造成“1d6+1/2游侠等级”点火焰伤害（反射通过则无效）。如果这是特异陷阱，游侠在设置陷阱时必须使用[[炽火胶]]之类的易爆材料。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_58.html 原文]），按 AoN 校过。全部游侠陷阱见 [[游侠陷阱]]。
+
+[[分类:游侠陷阱]]</noinclude>

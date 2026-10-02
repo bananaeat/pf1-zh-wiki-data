@@ -1,0 +1,16 @@
+{{Spell
+|name=心灵碾压 V
+|english_name=Psychic crush v
+|school=死灵系
+|tags=影响心灵
+|levels=异能者 9
+|action=标准动作
+|components=姿势
+|range=近距
+|target=一个生物
+|duration=立即
+|save=意志，通过则部分生效，且强韧，通过则部分生效；见后文
+|sr=是
+|description=该法术的功能如同[[心灵碾压 IV]]一般，不过成功通过强韧豁免或意志豁免时，目标会受到11d6 + 每施法者等级1点伤害。如果目标剩余的总生命值低于半额，还会在抵御该法术的意志豁免中受到-2减值。该法术可以被降阶施法。
+|source=异能冒险
+}}

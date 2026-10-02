@@ -1,0 +1,16 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{魔法物品
+|name=切利亚斯助听喇叭
+|english_name=Chelish Listening Trumpet
+|aon=MagicWondrousDisplay.aspx?FinalName=Chelish Listening Trumpet
+|cat=奇物
+|aura=微弱预言系
+|cl=5
+|slot=无
+|price=10,800 gp
+|weight=1磅
+|description=这只银质耳喇叭，外形仿照切利亚斯人听歌剧时常用的寻常物品，沿着1尺长的管身雕刻着精美的螺旋纹。把它贴在耳边时，更容易听到从喇叭方向传来的200尺锥形范围内的声音；使用者在基于声音的察觉检定中无视因距离而增加的DC。然而，这并不能抵消透过关着的门、墙壁等物体倾听所带来的DC修正。
+|req=[[制造奇物]]、[[锐耳术/鹰眼术]]
+|cost=5,000 gp
+|source=内海诡道
+}}
