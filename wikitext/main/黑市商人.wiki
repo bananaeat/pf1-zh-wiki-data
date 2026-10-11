@@ -1,0 +1,11 @@
+{{Feat
+|name=黑市商人
+|english_name=Black Marketeer
+|pfs=否
+|description=你人脉广泛，对市场中隐藏的商机有着敏锐的眼光。
+|prerequisites=[[估价]]4级，收集情报4级，[[知识]]（本地）4级。
+|benefit=凭借你的黑市关系，你获得一个价值100gp的资源池。其运作方式与通过[[卡利斯拉德之利]]专长（见《探索者编年史：战役设定》第73页）获得的资源池相同，只是它只能用于非法或违禁的物品或服务（注意：某事物在一个地区可能非法或违禁，而在另一个地区却完全可以接受），并且以奥西里昂而非杜鲁玛为中心。典型的非法或违禁物品有毒品、毒药、邪恶魔法物品、奴隶或尸体，无形之物如秘密情报也可能符合（对于这类物品，必须按GM的裁量，向资源池投入一条价值相当的秘密）。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=92370.msg857520#msg857520 【OLoP】奥斯里昂，法老之地（Osirion, Land of Pharaohs）中的专长]，译者：朔风；按 AoN 核对过。
+|source_name=奥西里昂：法老之地
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Black%20Marketeer
+}}

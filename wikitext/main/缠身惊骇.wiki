@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 89），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=缠身惊骇
+|english_name=Latching Horror
+|categories=战斗
+|pfs=否
+|description=你缠上另一个活物时，会引发对方的恐惧与厌恶。
+|prerequisites=缠身通用怪物能力。
+|benefit=你使用缠身能力时，对手必须通过一次意志豁免（DC＝10＋1/2你的生命骰数＋你的体质调整值），否则只要你保持缠身，它就陷入[[战栗]]状态。这属于影响心灵的恐惧效果。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Latching%20Horror
+}}

@@ -3,6 +3,7 @@
 {{装备
 |name=麋鹿
 |english_name=Elk
+|aon=EquipmentMiscDisplay.aspx?ItemName=Elk%20(common)
 |cat=坐骑与宠物
 |price=150 gp（战斗训练）；100 gp（普通）
 |weight=—

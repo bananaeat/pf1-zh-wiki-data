@@ -1,0 +1,12 @@
+{{Feat
+|name=断刺防御
+|english_name=Quillbreaker Defense
+|categories=战斗
+|description=你知道如何将甲刺用于防御，在来袭攻击的路径上及时将其刺出。
+|prerequisites=擅长甲刺。
+|benefit=如果你正穿戴甲刺，当你受到一次非魔法攻击造成的伤害时，你可以以一个直觉动作使你的甲刺获得[[破损]]状态，使你受到的伤害减少5点。如果你的甲刺已经破损，则它们在你受到该伤害时被摧毁。如果你穿戴的是精制甲刺，则改为使受到的伤害减少10点。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=169421.msg1427699#msg1427699 【MM】魔法市集指南资源翻译]，译者：LC01；按 AoN 核对过。
+|source=MM
+|source_name=魔法市集指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Quillbreaker%20Defense
+}}

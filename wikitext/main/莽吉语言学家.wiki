@@ -1,0 +1,9 @@
+{{Trait
+|name=莽吉语言学家
+|english_name=Mwangi Linguist
+|type=地区
+|prerequisites=莽吉莽原本地人
+|benefit=莽吉莽原是一片有着数十种语言的土地，而你从小就说着其中的大部分语言。你获得“混通语”作为奖励语言。此外，当你尝试与和你没有共同语言的人交流时，你在[[语言学]]检定上+1背景加值。
+|source_name=缘界英雄Heroes from the Fringe
+|source_url=https://pf1chm.pages.dev/topics/zh75ffd12667.htm
+}}

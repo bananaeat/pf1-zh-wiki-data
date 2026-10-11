@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 83），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=恶霸品种
+|english_name=Bully Breed
+|description=你的动物伙伴既能战斗，也能恐吓。
+|prerequisites=[[驯养动物]]4级，[[威吓]]4级，动物伙伴或坐骑职业能力。
+|benefit=你的动物伙伴或坐骑将威吓视为本职技能。在它以天武攻击对一名对手造成伤害的同一轮中，它可以以一个移动动作使用威吓技能对该对手挫志。
+|normal=智力属性为2或更低的动物伙伴和坐骑必须从有限的列表中选择专长。
+|special=你的动物伙伴如果满足先决条件，可以选择[[炫目技巧]]和[[粉碎防御]]专长。本专长不允许你的动物伙伴使用威吓来使目标变得友善或获得其协助。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Bully%20Breed
+}}

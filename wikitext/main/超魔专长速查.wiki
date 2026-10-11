@@ -1,0 +1,4 @@
+{{速查导航|here=专长}}
+{{#invoke:速查筛选|feat|type=超魔|id=metamagic-list}}
+
+[[分类:专长速查]]

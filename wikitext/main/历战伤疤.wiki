@@ -1,0 +1,12 @@
+{{Feat
+|name=历战伤疤
+|english_name=History of Scars
+|categories=伟业
+|pfs=否
+|description=你身上的伤疤见证了无数场战斗。
+|prerequisites=累计承受1,000点伤害。魔法治疗会抵消这一累计总数；你每受到5点魔法治疗，就将累计伤害总量减少1点。
+|benefit=你厚重的伤疤使你所有基于魅力的技能检定受到-2减值，但使你的天生护甲加值提高+2。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=51645.msg474522#msg474522 [LFPG][ASL]偉業專長[翻譯完成]]，译者：PATIBAUL；按 AoN 核对过。
+|source_name=烈焰传承玩家手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=History%20of%20Scars
+}}

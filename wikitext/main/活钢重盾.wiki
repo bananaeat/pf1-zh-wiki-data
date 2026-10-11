@@ -3,7 +3,7 @@
 |english_name=Living Steel Heavy Shield
 |cat=特殊魔法盾牌
 |base=重钢盾
-|aura=无灵光（非魔法）
+|aura=无灵氲（非魔法）
 |slot=盾牌
 |price=120 gp
 |weight=15磅

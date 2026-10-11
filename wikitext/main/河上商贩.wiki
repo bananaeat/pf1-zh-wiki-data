@@ -2,7 +2,7 @@
 |name=河上商贩
 |english_name=River Trader
 |type=种族
-|prerequisites=[[人类]]（芒吉人）
+|prerequisites=[[人类]]（莽吉人）
 |description=你学会同样轻松地在河流和市场上来回穿梭。你在[[估价]]和游泳检定获得+1加值，而且其中一个技能(由你选择)总是你的[[本职技能]]。
 |source_name=内海种族
 |source=Inner Sea Races

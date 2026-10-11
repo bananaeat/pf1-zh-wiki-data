@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 95），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=狂热心灵
+|english_name=Zealous Mind
+|description=你对自己阵营的原则如此坚定，就连魔法也难以动摇你。
+|prerequisites=[[钢铁意志]]，[[不破的荣耀]]，守序阵营。
+|benefit=每当你处于魅惑或胁迫效果的影响之下，而该效果由混乱阵营、或善恶轴上与你阵营相反的阵营（你是善良则为邪恶，你是邪恶则为善良）的来源施展或产生时，你在为摆脱该效果而进行的任何豁免检定或对抗魅力检定上获得+2加值。此加值可与自身叠加，也可与不破的荣耀所给予的加值叠加。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Zealous%20Mind
+}}

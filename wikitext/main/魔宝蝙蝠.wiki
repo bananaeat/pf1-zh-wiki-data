@@ -16,7 +16,7 @@
 |ref=+6
 |will=+2
 |speed=20 尺，飞行 40 尺（良好）
-|melee=噬咬 +6（2d6 +4）
+|melee=啮咬 +6（2d6 +4）
 |space=10 尺
 |reach=5 尺
 |special_attacks=尖啸
@@ -44,4 +44,4 @@
 魔宝蝙蝠的皮毛颜色多种多样，从深赤褐色到全黑都有，并且它们的皮肤是黑色的。魔宝蝙蝠的翼展达 15 尺，重 250 磅。
 }}
 
-本页译自《[[怪物图鉴2]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴2]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=172078.msg560785#msg560785 【B2】魔宝蝙蝠与尸鬼蝙蝠（Bat, Skaveling & Bat, Mobat）]，译者：原子能青蛙）。

@@ -23,7 +23,7 @@
 
 · 统一了武器Earth breaker为[[裂地锤]]。
 
-· 统一了greater elemental为菁英元素。
+· 统一了greater elemental为高等元素。
 
 · 感谢[[月夜]]！修改了骑士变体鬼灵骑士恐怖凝视的错误。
 

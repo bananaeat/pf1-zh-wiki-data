@@ -1,0 +1,14 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Classic Treasures Revisited pg. 38），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=乐器共鸣
+|english_name=Instrumental
+|description=你可以在激活魔法乐器的力量时进行令人屏息的吟游表演，或利用你的吟游本领增强乐器的力量。
+|prerequisites=吟游表演职业能力，[[表演]]（任一乐器）3级。
+|benefit=当你以整轮动作或标准动作激活一件魔法乐器时，你可以用自由动作开始一场吟游表演。你的表演必须使用与该乐器相应的表演技能。
+
+另外，你可以消耗2轮吟游表演，使与该乐器能力使用相关的任何豁免DC +2。（译注：AoN 原文作 expand，疑为 expend 之误。）
+
+如果你的乐器能召唤盟友，例如唤鼠乐笙或英灵号角，那么即使这些盟友通常不会受影响，你用该乐器进行的吟游表演也会影响他们。
+|source_name=再探经典宝藏
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Instrumental
+}}

@@ -3,6 +3,7 @@
 {{装备
 |name=野牛
 |english_name=Bison
+|aon=EquipmentMiscDisplay.aspx?ItemName=Bison%20(common)
 |cat=坐骑与宠物
 |price=75 gp（战斗训练）；50 gp（普通）
 |weight=—

@@ -18,7 +18,7 @@
 |ref=+4
 |will=+2
 |speed=游泳 60 尺
-|melee=尾击 +4（1d6 +4）
+|melee=尾扫 +4（1d6 +4）
 |space=10 尺
 |reach=10 尺
 |str=16

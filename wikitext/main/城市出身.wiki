@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Rise of the Runelords Player's Guide pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=城市出身
+|english_name=City Born
+|pfs=否
+|description=你在玛格尼玛、科瓦萨或谜港城这三座瓦瑞西亚城邦之一长大。你受过教育，对家乡的新闻与需求消息灵通，并且坚信自己的城邦毫无疑问比其他城邦更伟大。
+|prerequisites=1级角色，不能拥有乡村出身或孤狼。
+|benefit=在玛格尼玛、科瓦萨和谜港城中选择一座作为你的家乡城市。城市里急促繁忙的节奏磨砺了你的反应——你在反射豁免上获得+1加值。如果你来自玛格尼玛，你在[[交涉]]检定上获得+2加值。如果你来自科瓦萨，你在[[威吓]]检定上获得+2加值。如果你来自谜港城，你在[[唬骗]]检定上获得+2加值。
+|source_name=符文领主崛起玩家手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=City%20Born
+}}

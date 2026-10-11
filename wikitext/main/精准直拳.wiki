@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Martial Arts Handbook pg. 26），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=精准直拳
+|english_name=Pinpoint Jab
+|categories=战斗
+|description=你的打击恰好落在你想要的位置。
+|prerequisites=[[精通徒手打击]]，基本攻击加值+6，[[气池]]或千招百式职业特性。
+|benefit=以一个整轮动作，你可以消耗1点气池或1次每日千招百式使用次数，使用[[游荡剑客#精确瞄准|精确瞄准]]炫技的受限版本，用徒手攻击瞄准手部或腿部。通过强韧豁免（DC=10+你的基本攻击加值）的目标可以抵消该效果。当你的基本攻击加值达到+11时，你可以改为瞄准头部或躯干，目标可以通过强韧豁免抵消该效果。当你的基本攻击加值达到+16时，你可以瞄准两个部位；目标必须对每个效果分别进行豁免。
+|special=武僧可以用其职业等级代替基本攻击加值来计算此专长的效果。
+|source=MAH
+|source_name=武术手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Pinpoint%20Jab
+}}

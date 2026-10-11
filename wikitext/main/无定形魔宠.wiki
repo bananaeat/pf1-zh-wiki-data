@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Wilderness Origins pg. 22），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=无定形魔宠
+|english_name=Shapeless Familiar
+|description=魔宠不只是一只动物，它还是一个灵体和一个智慧生命，你的魔宠可以选择拥有不止一种实体形态。
+|prerequisites=魔宠职业特性，施法者等级7级。
+|benefit=你的魔宠获得改变形态通用怪物能力。该能力如同[[野兽形态 II]]，并赋予一种备选形态，其体型必须与魔宠相同。形态一经选定便不能更改。
+|special=你可以多次选择本专长。每次选择本专长，你的魔宠就获得一种额外的备选形态。如果由已拥有改变形态通用怪物能力的魔宠（例如小鬼）选择，则仅赋予一种额外形态。
+|source=WO
+|source_name=荒野源始
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Shapeless%20Familiar
+}}

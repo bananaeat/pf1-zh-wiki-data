@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Wilderness Origins pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=树木之力
+|english_name=Strength of Wood
+|pfs=否
+|description=你可以从木质的藤蔓中汲取力量，使自己的血肉获得树木般的坚韧。
+|prerequisites=体质13，[[伽瑟兰]]。
+|benefit=每天一次，你可以用一个移动动作硬化自己的血肉，获得伤害减免5/挥砍，持续1分钟。如果你有11或更多生命骰，则增加为伤害减免10/挥砍。此外，处于该效应下时，你对抗[[麻痹]]、变形、睡眠和震慑效应的豁免检定获得+2加值。
+|source=WO
+|source_name=荒野源始
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Strength%20of%20Wood
+}}

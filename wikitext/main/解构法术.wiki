@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Plane-Hopper's Handbook pg. 14），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=解构法术
+|english_name=Deconstruct Spell
+|description=你把一个法术解构为其组成符文，将它们储存起来以补充你的结晶尘埃。
+|prerequisites=[[精通法术反制]]，或能施展[[解除魔法]]或[[高等解除魔法]]，秩裔，结晶尘埃种族特性。
+|benefit=每天一次，当你成功反制或解除一个法术时，你可以改为解构该法术，回复数量等于该法术环阶一半的结晶尘埃种族特性轮数。你不能借此获得超出你结晶尘埃种族特性最大轮数的轮数。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Deconstruct%20Spell
+}}

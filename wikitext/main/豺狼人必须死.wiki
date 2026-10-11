@@ -1,0 +1,12 @@
+{{Feat
+|name=豺狼人必须死
+|english_name=All Gnolls Must Die
+|categories=伟业
+|pfs=否
+|description=你的名字被黑唇的豺狼人在乌瓦嘎高地各处窃窃传颂，视你为带来死亡与痛苦之人——听到你的事迹而不战栗的豺狼人寥寥无几。
+|prerequisites=对20个豺狼人、鬣狗、凶暴鬣狗、鬣狗兽化人、化豺或[[拉玛什图]]的仆从施以绝杀。
+|benefit=只要你携带着从豺狼人身上取得的某种战利品（耳朵串成的项链、一套牙齿、从酋长手中夺来的魔法武器等），你的所有意志豁免即获得+2士气加值。你对豺狼人、鬣狗、凶暴鬣狗、鬣狗兽化人、化豺和拉玛什图的仆从的攻击检定和武器伤害掷骰也获得+2表现加值。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=51645.msg474522#msg474522 [LFPG][ASL]偉業專長[翻譯完成]]，译者：PATIBAUL；按 AoN 核对过。
+|source_name=烈焰传承玩家手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=All%20Gnolls%20Must%20Die
+}}

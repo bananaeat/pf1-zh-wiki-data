@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Tombs of Golarion pg. 63），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=多神祝福
+|english_name=Polytheistic Blessing
+|pfs=否
+|description=你崇敬一整个万神殿的众神，因而被赐予少许神能。
+|prerequisites=感知13，必须信仰一个万神殿。
+|benefit=当你取得此专长时，从下列清单中选择一个万神殿。你获得所选万神殿对应的类法术能力，每日可使用1次。如果所赐予的法术允许豁免，则DC等于10+1/2角色等级+你的魅力修正。
+|special=如果你的行为违背了你所属万神殿的信条，你就会失去施展所赐类法术能力的能力，直到你为自己的过犯得到赎罪为止（如同牧师尝试恢复失去的职业能力）。
+|source_name=格拉利昂的陵墓
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Polytheistic%20Blessing
+}}

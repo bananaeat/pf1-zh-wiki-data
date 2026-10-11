@@ -1,6 +1,7 @@
 {{物品
 |name=破损的粉绿色艾恩石
 |english_name=Pink and Green Sphere (Cracked) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Pink%20and%20Green%20Sphere
 |category=艾恩石
 |aura=强烈各种
 |cl=12

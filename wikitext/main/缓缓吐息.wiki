@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Guardians of Dragonfall pg. 29），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=缓缓吐息
+|english_name=Slow Exhalation
+|pfs=否
+|description=你掌握了一种技巧，使你能在啮咬对手的同时释放你的喷吐武器。
+|prerequisites=喷吐武器，真龙。
+|benefit=你可以以持续的方式消耗你的喷吐武器，使任何成功的啮咬攻击同时造成你的喷吐武器伤害（无豁免）。如果你的喷吐武器是锥形，缓缓吐息可以维持等于你体质调整值的轮数；如果是直线形，则维持该时间的一半。完成缓缓吐息后，你必须像平常一样等待1d4轮才能再次使用你的喷吐武器。
+|source_name=龙陨守卫
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Slow%20Exhalation
+}}

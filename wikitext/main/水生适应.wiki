@@ -3,7 +3,7 @@
 |english_name=Aquatic Adaption
 |pfs=否
 |description=你身上产生了一种奇怪但却有用的突变——你可以在水下呼吸。
-|prerequisites=闭气
+|prerequisites=屏息
 |benefit=你既能呼吸空气，也能呼吸水。
 |source=MC
 |source_name=怪物志

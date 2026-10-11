@@ -1,0 +1,12 @@
+{{Feat
+|name=三相男爵
+|english_name=Triple-Baron
+|categories=宫廷头衔
+|description=三相已经看到了你的供品并宣布其令人满意，甚至在你真正有机会把这些供品呈给他们之前。
+|prerequisites=精类生物类型或[[妖精仪典]]（[[玛芙]]），你必须从伟大彼岸的三个不同位面收集了三份价值各至少100gp的礼物。其中至少两个位面在位面特性上必须截然相反。
+|benefit=每日三次，当你即将进行攻击检定、豁免检定或技能检定时，你可以用一个直觉动作掷三个d20，并取三个结果中的中间值。该能力不能与其他涉及重掷骰子、或掷两次后取较高或较低结果的效果叠加使用。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=140560.msg1233224#msg1233224 伽瑟兰相关专长]，译者：Mystletainn；按 AoN 核对过。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Triple-Baron
+}}

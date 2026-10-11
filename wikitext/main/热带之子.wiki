@@ -3,7 +3,7 @@
 |english_name=Tropical Upbringing
 |type=社会
 |description=你在灼热的沙漠、平原、丛林或其他酷热地域长大，培养了卓越的耐热能力。你在对抗火焰效果的豁免检定上获得+1背景加值，对抗炎热天气影响的强韧豁免获得+2背景加值。
-建议角色：迦伦德人，柯莱士人，芒吉人
+建议角色：迦伦德人，柯莱士人，莽吉人
 |source_name=任务与战役
 |source_url=https://pf1chm.pages.dev/topics/page_1578.html
 }}

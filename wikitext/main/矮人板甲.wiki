@@ -3,7 +3,7 @@
 |english_name=Dwarven Plate
 |cat=特殊魔法护甲
 |base=[[全身甲]]（[[精金]]）
-|aura=无灵光（非魔法）
+|aura=无灵氲（非魔法）
 |slot=护甲
 |price=16,500 gp
 |weight=50磅

@@ -17,7 +17,7 @@
 |will=+3
 |immune=影响心灵效果
 |speed=30 尺，飞行 60 尺（良好）
-|melee=噬咬 +12（3d8 +10）
+|melee=啮咬 +12（3d8 +10）
 |space=15 尺
 |reach=10 尺
 |str=24
@@ -40,4 +40,4 @@
 译注：实际上蚁狮成虫和豆娘没什么关系，只是长得有点像，国内的学名叫做蚁蛉，主要以害虫为食。
 }}
 
-本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=60369.msg561356#msg561356 【B3】巨蚁狮 & 巨蚁狮成虫（Ant Lion, Giant & Ant Lion, Giant Adult）]，译者：原子能青蛙）。

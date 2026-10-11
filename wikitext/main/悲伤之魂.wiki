@@ -13,7 +13,7 @@
 
 15级时，哀而不伤可以调整[[吟游诗人#激发豪情 (Inspire Heroics, Su)|激发豪情]]，如此做悲伤之魂在该表演标准加值之外获得快速回复5和被攻击时50%失手率的好处（如同处于法术[[移位术]]效果下）。若如此做，该次[[吟游诗人#激发豪情 (Inspire Heroics, Su)|激发豪情]]将只能影响他自己，不影响其他盟友。
 
-该能力修改了[[吟游诗人#吟游表演 (Bardic Performance)|吟游表演]]，取代了[[吟游诗人#安神 (Soothing Performance, Su)|安神]]和[[吟游诗人#多才多艺 (Versatile Performance, Ex)|多才多艺]]。
+该能力修改了[[吟游诗人#吟游表演 (Bardic Performance)|吟游表演]]，取代了[[吟游诗人#安神 (Soothing Performance, Su)|安神]]和[[吟游诗人#触类旁通 (Versatile Performance, Ex)|触类旁通]]。
 
 ===拒绝黑暗 (Darkness Denied, Ex)===
 2级时，悲伤之魂对抗负能量和死亡效果的豁免检定获得+4加值。该能力取代[[吟游诗人#通晓音律 (Well-Versed, Ex)|通晓音律]]。

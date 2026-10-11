@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 91），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=自残仪式师
+|english_name=Mutilating Ritualist
+|description=你在仪式中加入个人的牺牲，以增强仪式魔法的威力。
+|prerequisites=知识（奥秘）4级，知识（宗教）4级，[[法术辨识]]4级。
+|benefit=在施展一次神秘仪式（《异能冒险》208页）的过程中，你可以用穿刺或挥砍武器，以一个直觉动作对自己造成每2生命骰1d6点生命值的伤害，以及1d4点体质伤害（若你是不死生物，则为魅力伤害）。你无法以任何方式减少或忽略这些伤害。这些伤害不会打断仪式，并且你在作为仪式施展一部分的下一次技能检定上可以掷两次，取较好的结果。如果所产生的仪式效果具有恐惧描述符，或属于魅影系，则其豁免DC增加1。多名拥有本专长的角色可以各自在每次仪式中为自己的技能检定使用一次，但DC的增加不叠加。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Mutilating%20Ritualist
+}}

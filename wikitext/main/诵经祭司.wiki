@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #139: The Dead Roads pg. 73），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=诵经祭司
+|english_name=Lector Priest
+|categories=起源
+|pfs=否
+|description=你的创造者是一名祭司兼魔法师，你的记忆里满是焚香的气味。
+|prerequisites=[[舍卜提]]。
+|benefit=你获得[[法术辨识]]作为本职技能。每当你进行法术辨识检定时，可以掷两次骰，取较好的结果。
+|source_name=冒险之路139：死者之路
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Lector%20Priest
+}}

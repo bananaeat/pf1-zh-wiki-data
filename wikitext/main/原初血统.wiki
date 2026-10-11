@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Andoran, Birthplace of Freedom pg. 34），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=原初血统
+|english_name=Primal Ancestry
+|description=你与原初的[[第一世界]]有着深刻的联系，并可每天一次将这一联系化为强大的效果。
+|prerequisites=感知13，原初者成员。
+|benefit=每天一次，你可以用一个移动动作汲取第一世界的精华，获得DR 5/[[寒铁]]，持续1分钟。如果你有11或更高生命骰，则增加为DR 10/寒铁。此外，在该效果持续期间，你所施放的惑控系法术获得+1施法者等级加值。
+|source_name=安多安：自由诞生之地
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Primal%20Ancestry
+}}

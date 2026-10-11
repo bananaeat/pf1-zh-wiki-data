@@ -9,8 +9,8 @@
 ===抗力之触 (Resistant Touch, Sp)===
 {{:抗力之触}}
 
-===保护灵光 (Aura of Protection, Su)===
-{{:保护灵光}}
+===保护灵氲 (Aura of Protection, Su)===
+{{:保护灵氲}}
 
 ==保护领域法术==
 {| class="wikitable"
@@ -49,8 +49,8 @@
 {{Source|进阶玩家指南|Advanced Player's Guide}}
 '''连接领域'''：保护领域
 
-===偏转灵光 (Deflection Aura, Su)===
-{{:偏转灵光}}
+===偏转灵氲 (Deflection Aura, Su)===
+{{:偏转灵氲}}
 
 ===替代领域法术===
 1环－[[护盾术]]；2环－[[树肤术]]；7环－[[偏转术]]。

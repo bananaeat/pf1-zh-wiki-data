@@ -3,6 +3,7 @@
 {{装备
 |name=巨变色龙
 |english_name=Giant chameleon
+|aon=EquipmentMiscDisplay.aspx?ItemName=Giant%20chameleon%20(common)
 |cat=坐骑与宠物
 |price=350 gp（战斗训练）；225 gp（普通）
 |weight=—

@@ -17,7 +17,7 @@
 |ref=+4
 |will=+1
 |speed=30 尺
-|melee=噬咬 +2（1d4 +1/19–20）
+|melee=啮咬 +2（1d4 +1/19–20）
 |str=12
 |dex=15
 |con=16
@@ -33,10 +33,10 @@
 |environment=温暖的丘陵
 |organization=单独或狼群（2–5）
 |treasure=无
-|special_abilities={{怪物能力|强健下颚|Ex|袋狼的下颚肌肉发达，（其噬咬攻击）重击威胁范围为 19–20。}}
+|special_abilities={{怪物能力|强健下颚|Ex|袋狼的下颚肌肉发达，（其啮咬攻击）重击威胁范围为 19–20。}}
 |source=怪物图鉴3
 |lore=
 这些食肉，宽颚的有袋动物在夜晚捕猎，并且以野蛮的天性而闻名。白天它们在空心树干或灌木丛里休息。
 }}
 
-本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=60130.msg558933#msg558933 【B3】有袋动物（Marsupial）]，译者：原子能青蛙）。

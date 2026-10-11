@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Villain Codex pg. 44），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=偏好社区
+|english_name=Favored Community
+|description=你对所在社区了如指掌。
+|prerequisites=[[知识]]（本地）2级，必须在该聚居地至少居住1年。
+|benefit=选择一处永久固定的聚居地。身处该聚居地时，你在先攻检定以及知识（地理）、[[察觉]]、[[隐匿]]、[[生存]]检定上获得+2加值，如同游侠的偏好地形职业能力。如果你已拥有该职业能力，并在你的偏好社区中应用其加值，则偏好地形提供的加值再增加2。本专长的加值不与其他提供或增强偏好地形加值的效果叠加，例如[[环境亲和之靴]]（《进阶玩家指南》301页）。
+|source=VC
+|source_name=恶棍志
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Favored%20Community
+}}

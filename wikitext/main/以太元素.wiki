@@ -175,7 +175,7 @@
 |nofooter=1
 }}
 {{怪物
-|name=菁英以太元素
+|name=高等以太元素
 |english_name=Greater Aether Elemental
 |cr=9
 |xp=6,400
@@ -264,4 +264,4 @@
 以太元素由有生命的以太组成。这种稀有的第五元素会产生在灵界位面中靠近元素位面边界的部分。
 }}
 
-本页译自《[[怪物图鉴5]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴5]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=83069.msg781961#msg781961 【B5】以太元素（Elemental, Aether）]，译者：灯泡powerbult）。

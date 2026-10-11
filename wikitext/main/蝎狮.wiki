@@ -49,4 +49,4 @@
 <div class="monster-table-wrap"><table class="wikitable"><tr><th>蝎狮的配偶</th><th>后代</th></tr><tr><td>狮子</td><td>标准蝎狮</td></tr><tr><td>[[凶暴狮]]</td><td>高等蝎狮</td></tr><tr><td>拉米亚</td><td>长蝎尾的拉米亚，拥有针刺特殊攻击</td></tr><tr><td>斯芬克斯</td><td>长蝎尾的斯芬克斯，拥有针刺特殊攻击</td></tr><tr><td>奇美拉</td><td>长蝎尾的奇美拉，拥有针刺特殊攻击</td></tr></table></div>
 }}
 
-本页译自《[[怪物图鉴]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=65388.msg605765#msg605765 【B1】蝎狮（Manticore）]，译者：原子能青蛙）。

@@ -16,7 +16,7 @@
 |ref=+6
 |will=+10
 |speed=5 尺，埋地 5 尺，攀爬 5 尺
-|melee=噬咬 +12（1d6 +3），8 触手 +11（1d4 +1 附加攫取和拉拽）
+|melee=啮咬 +12（1d6 +3），8 触手 +11（1d4 +1 附加攫取和拉拽）
 |space=5 尺
 |reach=5 尺（触手 15 尺）
 |special_attacks=[[通用怪物规则#紧勒|紧勒]]（触手 1d4 +3），植入，[[通用怪物规则#拉拽|拉拽]]（触手，5 尺）
@@ -48,4 +48,4 @@
 披着羊皮的狼直径 4–5 尺，重 200 磅。
 }}
 
-本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=59872.msg556476#msg556476 【B3】披着羊皮的狼（wolf-in-sheep’s-clothing）]，译者：solariusyang）。

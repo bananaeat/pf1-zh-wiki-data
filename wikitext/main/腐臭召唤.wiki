@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 91），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=腐臭召唤
+|english_name=Putrid Summons
+|description=你召唤的生物，其存在本身就会令敌人作呕。
+|prerequisites=[[法术专攻]]（咒法），能够施放[[召唤怪物]]或[[召唤自然盟友]]法术。
+|benefit=当你施放召唤怪物或召唤自然盟友法术时，你可以选择只召唤一个散发腐臭气味、或会污染周围水体的生物，使其获得恶臭通用怪物能力。该恶臭造成的恶心状态持续轮数等于法术的环级。进行腐臭召唤时，你从比所施放法术低一环的列表中召唤生物。例如，如果你施放召唤怪物 IV，则从召唤怪物 III 列表中召唤生物。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Putrid%20Summons
+}}

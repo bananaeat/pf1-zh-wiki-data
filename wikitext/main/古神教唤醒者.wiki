@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 57），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=古神教唤醒者
+|english_name=Old Cults Awakener
+|categories=组织
+|pfs=否
+|description=你能听见古神的声音，并相信你的命运就是用古怪而折磨人的仪式，唤醒他人响应其古老的事业。你的所作所为是让这些人陷入疯狂，还是真的令其触及了异界心智，仍未得到证实。
+|prerequisites=古神教20TPA。
+|benefit=你可以对一个失去意识但伤势稳定的智慧生物进行一次DC 25的[[医疗]]检定。仪式需要1小时完成。如果成功，受害者必须通过DC 25的意志豁免，否则会获得一段虚假记忆，梦见自己亲身被旧日支配者选中为其效力（视为[[篡改记忆]]所植入的记忆，只是这是非魔法效应）。如果仪式失败，受害者受到1d2点智力和感知吸取；你可以再次尝试这个仪式。
+|source=FM
+|source_name=组织指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Old%20Cults%20Awakener
+}}

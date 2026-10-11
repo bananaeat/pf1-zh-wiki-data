@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Goblins of Golarion pg. 24），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=文字狂怒
+|english_name=Letter Fury
+|pfs=否
+|description=有人试图从你脑袋里偷走文字时，你会勃然大怒。
+|prerequisites=地精，狂暴职业能力。
+|benefit=如果有人在你面前阅读或书写（包括施展[[守卫刻文]]或象征术之类的法术），你可以用一个直觉动作，选择启动你的狂暴职业能力1轮。这1轮狂暴不计入你每天可狂暴的总轮数，但如果你希望在这1轮之后继续狂暴，就必须照常从你每天的狂暴轮数中扣除。你使用本专长后，必须在停止狂暴至少1分钟后才能再次使用。
+|source=GoG
+|source_name=格拉利昂的地精
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Letter%20Fury
+}}

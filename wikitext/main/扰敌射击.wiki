@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Wild pg. 19），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=扰敌射击
+|english_name=Diversion Shot
+|categories=战斗;团队
+|description=你可以用射击来分散对手的注意力。
+|prerequisites=[[隐秘]]，[[见缝插针]]。
+|benefit=当你使用见缝插针命中一个目标时，触发你远程攻击的盟友可以用直觉动作进行一次[[隐匿]]检定，来对你的目标隐藏，即使你的目标已经察觉到该盟友的存在。你的盟友也必须拥有本专长才能受益于该效应。此隐匿检定只对被你命中的目标生效，如果盟友进行了除移动到掩体或隐蔽之外的任何行动，隐匿状态即告结束。
+|source=HotW
+|source_name=荒野英雄
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Diversion%20Shot
+}}

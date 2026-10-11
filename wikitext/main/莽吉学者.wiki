@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Serpent's Skull Player's Guide pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=莽吉学者
+|english_name=Mwangi Scholar
+|type=战役
+|pfs=否
+|description=莽吉莽原是整个格拉利昂最富饶的地区之一，也是最神秘的地区之一。尽管它有着无数年的历史，孕育过许多无名的帝国，但无论是外人，还是这片丛林覆盖的原始土地上的原住民，对莽吉莽原都知之甚少。你长期研究该地区及其传说，自认是整个内海屈指可数的真正专家之一。珍妮维尔号将把你带往令你着迷的研究对象本身，你迫不及待地想亲自调查迦伦德内陆的深邃丛林和巨石遗迹。你获得通语作为一门额外语言，并且你所有关于莽吉莽原的[[知识]]（历史）检定获得+1背景加值。
+
+拥有这个背景特性的角色很可能是在伊兹玛格罗提，或是镣铐群岛或莽吉莽原的某座城市登上珍妮维尔号的。
+|source_name=Serpent's Skull Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Mwangi%20Scholar
+}}

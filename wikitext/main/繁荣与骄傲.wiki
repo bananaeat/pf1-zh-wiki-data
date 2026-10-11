@@ -1,0 +1,14 @@
+{{Feat
+|name=繁荣与骄傲
+|english_name=Prosperity and Pride
+|categories=故事
+|pfs=否
+|description=你的家族曾建起城市、精通贸易，而你也想做到同样的事。
+|prerequisites=成为寇席纳家族的一员，或拥有“能工巧匠”、“继承遗产”、“人际达人”或“名动天下”角色背景。
+|benefit=身处大城市或更小规模的定居点时，你在[[估价]]和[[交涉]]检定上获得+2加值。如果你在其中一项技能上有10级以上，该技能上的加值提高为+4。
+|goal=你的行动必须促使一个定居点成长到下一个规模等级；这通常需要决定性地击败一个强大的敌手，或是适当数量正在侵害或阻碍该定居点居民的敌人。
+|completion_benefit=你传授他人如何充分发挥其装备的效用。每天三次，你可以以一个标准动作，使一套非魔法护甲提供的护甲加值、一件工具或技能套件提供的技能环境加值，或一面非魔法盾牌提供的盾牌加值增加1点。该加值持续1小时，且不与此能力的其他次使用叠加。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=167723.msg1416947#msg1416947 【#131】皇冠战争的8个故事专长及塔尔多八大贵族家族背景介绍]，译者：Kochchchch；按 AoN 核对过。
+|source_name=冒险之路131：死神的右手
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Prosperity%20and%20Pride
+}}

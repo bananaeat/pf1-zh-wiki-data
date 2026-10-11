@@ -1,0 +1,10 @@
+{{Feat
+|name=断喉索
+|english_name=Strangler (MC)
+|description=你可以用套索勒住敌人。
+|prerequisites=[[擅长异种武器]]（套索），[[武器专攻]]（套索）。
+|benefit=当你成功用套索（《开拓者规则书：进阶玩家手册》178页）纠缠一个生物，且你的战技检定结果超过目标的CMD至少5点时，目标无法高于耳语的音量说话，并且在施放带有语言成分的法术、使用命令词激发魔法物品或使用任何需要说话的魔法时，必须通过一次[[专注]]检定（DC=20+你的CMB+法术环位）才能成功。此外，从你所用的套索中挣脱的[[脱逃]]技能检定DC等于15或你的CMD，取较高者。
+|source=MC
+|source_name=怪物志
+|source_url=https://pf1chm.pages.dev/topics/page_1399.html
+}}

@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Agents of Evil pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=红螳螂合作者
+|english_name=Red Mantis Collaborator
+|pfs=否
+|description=你向红螳螂透露私密情报，他们则回报以保护。
+|prerequisites=[[组织友人]]（红螳螂）。
+|benefit=红螳螂可以让你在其秘密藏身处之一躲避麻烦。在此期间，任何试图以[[交涉]]或[[生存]]检定找到你的人承受-10减值，任何试图用探知窥视你、或以魔法预言你位置的人，必须先通过一次施法者等级检定（DC = 15 + 你的角色等级）。你最多可以在螳螂藏身处停留每角色等级1天，之后就必须离开。
+|source=AoE
+|source_name=邪恶特务
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Red%20Mantis%20Collaborator
+}}

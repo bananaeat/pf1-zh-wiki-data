@@ -47,4 +47,4 @@
 
 {{AoN原文|1=MonsterDisplay.aspx?ItemName=Pod-Spawned Guard Captain|2=Pod-Spawned Guard Captain}}
 
-本页数据取自站上《[[模板：荚生衍体]]》页里民间汉化 CHM 的《怪物图鉴4》译文，数值按 AoN 核过。
+本页数据取自站上《[[模板：荚生衍体]]》页里民间汉化 CHM 的《怪物图鉴4》译文，数值按 AoN 核过（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=64528.msg597886#msg597886 【B4】窃身藤（Bodythief）]，译者：原子能青蛙）。

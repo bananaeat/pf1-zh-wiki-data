@@ -3,7 +3,7 @@
 |name=硕理后裔
 |english_name=Scion of the Shory
 |type=地区
-|prerequisites=芒吉莽原
+|prerequisites=莽吉莽原
 |description=你的血管中流淌着一位硕理御天使的血。你在施放飞行类法术（例如[[浮空术]]、[[飞行术]]或[[翱翔天际]]）时进行的专注检定获得+2加值。每天一次，你可以将[[传讯术]]作为类法术能力使用。
 |source_name=进化职业起源
 |source=ACO

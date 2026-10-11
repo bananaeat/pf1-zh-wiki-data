@@ -53,6 +53,21 @@
   }
  },
  {
+  "title": "Paizo 博客：来自协会总部的大杂烩",
+  "url": "https://pf1.huijiwiki.com/wiki/Paizo_博客：来自协会总部的大杂烩",
+  "template": "书页",
+  "ai": false,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "Paizo Blog: Hodgepodge from the Grand Lodge"
+  },
+  "text": {
+   "en": "Paizo Blog: Hodgepodge from the Grand Lodge"
+  }
+ },
+ {
   "title": "Paizo 博客：极限戏法",
   "url": "https://pf1.huijiwiki.com/wiki/Paizo_博客：极限戏法",
   "template": "书页",

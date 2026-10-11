@@ -1,6 +1,7 @@
 {{物品
 |name=破损的橙黄色艾恩石
 |english_name=Gamboge Nodule (Cracked) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Gamboge%20Nodule
 |category=艾恩石
 |aura=中等变化系
 |cl=12

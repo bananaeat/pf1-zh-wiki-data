@@ -1,0 +1,10 @@
+{{Feat
+|name=病疫打击
+|english_name=Pestilent
+|description=你的徒手打击和天生武器会对感染了你所传播疾病的生物造成额外伤害。
+|prerequisites=能够通过法术、类法术能力或超自然手段传播疾病。
+|benefit=当你成功使用法术、类法术能力或超自然能力使一个生物染上疾病时，你对该生物进行的天生武器与徒手打击的攻击检定获得+2加值。此外，这类攻击额外造成1d6点负能量伤害。如果你拥有造成单一疾病的超自然能力（例如[[腐尸症]]），则你对任何染上同一种疾病的生物都能获得这些加值，即使该生物并非由你传染。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=165470.msg1402126#msg1402126 【#81】两个疾病专长]，译者：fulandre；按 AoN 核对过。
+|source_name=冒险之路81：流沙
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Pestilent
+}}

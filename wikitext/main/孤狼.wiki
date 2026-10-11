@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Rise of the Runelords Player's Guide pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=孤狼
+|english_name=Lone Wolf
+|pfs=否
+|description=尽管你可能是在城市里长大的，但你的童年孤独，不得不自力更生。
+|prerequisites=1级角色，不能拥有城市出身或乡村出身。
+|benefit=每当你[[濒死]]时，你稳定伤势的几率为50%。你旺盛的体魄同样使你在强韧豁免上获得+1加值。
+|source_name=符文领主崛起玩家手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Lone%20Wolf
+}}

@@ -1,0 +1,14 @@
+{{Feat
+|name=指引前路
+|english_name=Lighting the Way
+|categories=故事
+|pfs=否
+|description=你试图以虔诚的榜样引领他人。
+|prerequisites=成为杰斯派尔家族的一员，或拥有“虔诚信者”、“信仰楷模”、“神赋刻印”或“正义伙伴”角色背景。
+|benefit=每天一次，你可以以一个标准动作，使30尺内所有能听到你的盟友在攻击检定以及对抗影响心灵效果的豁免检定上获得+1加值，持续1分钟。
+|goal=在一个尚无你所信仰宗教的现有定居点中建立你的宗教。你可以让某个定居点因对你所信奉神祇的虔信而获得“圣地”或“虔诚”特质，或者将其政体改为以你的宗教为基础的神权政体。
+|completion_benefit=你可以将任何2环或更高环的神术法术自发转换为[[注目术]]，并可将任何3环或更高环的神术法术自发转换为[[暗示术]]。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=167723.msg1416950#msg1416950 【#131】皇冠战争的8个故事专长及塔尔多八大贵族家族背景介绍]，译者：Kochchchch；按 AoN 核对过。
+|source_name=冒险之路131：死神的右手
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Lighting%20the%20Way
+}}

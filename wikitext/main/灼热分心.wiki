@@ -1,0 +1,12 @@
+{{Feat
+|name=灼热分心
+|english_name=Searing Distraction
+|categories=战斗
+|description=你用武器的光和热折磨你的敌人。
+|prerequisites=[[随手武器]]。
+|benefit=当你使用诸如[[日光杖]]或[[火把]]之类的光源作为临时武器进行攻击时，目标必须通过强韧豁免，否则被[[目眩]]1轮。在重击时，目标改为被[[目盲]]1轮。该效应的DC为10+你角色等级的一半+你的敏捷调整值。目盲的目标免疫此效应。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=171170.msg1440724#msg1440724 【HotD】幽暗地域的英雄/幽域英豪（Heroes of the Darklands）]，译者：萌新也有滥强的心；按 AoN 核对过。
+|source=HotD
+|source_name=幽暗地域英雄
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Searing%20Distraction
+}}

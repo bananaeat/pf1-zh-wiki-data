@@ -1,0 +1,14 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder Campaign Setting pg. 93），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=狂战士怒吼
+|english_name=Berserker's Cry
+|pfs=否
+|description=你嗜血狂怒的吼叫激励周围的人做出更加暴力的行为。
+|prerequisites=魅力13，林诺姆诸王国亲和。
+|benefit=每天一次，你可以用一个移动动作发出强劲而嗜血的吼叫，释放战斗的渴望与狂怒。60尺内能听到你狂战士怒吼的盟友（包括你自己）会受到鼓舞，在近战攻击的伤害掷骰上获得+1士气加值，持续轮数等于你的角色等级的一半加上你的魅力加值。如果你能够狂暴，则可以在进入狂暴的自由动作中同时发出狂战士怒吼（而不必另外花一个移动动作）。
+
+一个生物同一时间只能处于一个狂战士怒吼的效果之下。
+|special=你可以多次获得本专长。每次选择本专长，你每天可以多发出一次狂战士怒吼。
+|source_name=探索者编年史：战役设定
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Berserker%27s%20Cry
+}}

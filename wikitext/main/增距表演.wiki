@@ -1,0 +1,13 @@
+{{Feat
+|name=增距表演
+|english_name=Verbose Performer
+|categories=组织
+|pfs=否
+|description=你的吟游表演距离增加。
+|prerequisites=[[吟游表演]]职业能力，[[额外表演]]，[[大师表演]]，[[吟游诗人]]等级8级，基萨洛迪安学院15TPA。
+|benefit=你的任意吟游表演能力，只要能力描述中带有距离，其距离加倍。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=115554.msg1039136#msg1039136 补充翻译几个诗人专长~求挑错、译名意见]，译者：shysifer；按 AoN 核对过。
+|source=FM
+|source_name=组织指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Verbose%20Performer
+}}

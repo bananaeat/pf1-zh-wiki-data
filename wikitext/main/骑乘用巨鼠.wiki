@@ -1,6 +1,7 @@
 {{装备
 |name=骑乘用巨鼠
 |english_name=Riding rat
+|aon=EquipmentMiscDisplay.aspx?ItemName=Riding%20rat%20(common)
 |cat=坐骑与宠物
 |price=75 gp（战斗训练）；50 gp（普通）
 |weight=50磅

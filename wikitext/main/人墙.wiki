@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=人墙
+|english_name=Wall of Flesh
+|categories=团队
+|pfs=否
+|description=你与盟友蜂拥聚集，化作一堵由生物组成的墙。
+|prerequisites=体型小型或更小。
+|benefit=当你与一名拥有此专长的盟友相邻时，在确定你的CMD，以及战技和能力对你的影响方式时，你视为大一个体型类别。
+|source=KoG
+|source_name=格拉利昂的狗头人
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Wall%20of%20Flesh
+}}

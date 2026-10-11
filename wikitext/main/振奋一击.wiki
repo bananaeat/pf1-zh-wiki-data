@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #81: Shifting Sands pg. 73），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=振奋一击
+|english_name=Rallying Blow
+|description=当你在战斗中一击命中时，会驱散盟友心中的恐惧。
+|prerequisites=勇气灵氲。
+|benefit=当你对敌人确认重击时，30尺内盟友身上受到的任何恐惧效应都降低一级。[[恐慌]]变为[[惊惧]]，惊惧变为[[战栗]]，战栗则被移除。此外，任何因对抗恐惧效应的豁免失败而承受其他效果的盟友（例如木乃伊绝望灵氲造成的[[麻痹]]），可以对该效果以原DC重新进行一次豁免。
+|source_name=冒险之路81：流沙
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Rallying%20Blow
+}}

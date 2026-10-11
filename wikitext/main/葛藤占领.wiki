@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Wilderness Origins pg. 14），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=葛藤占领
+|english_name=Kudzu Takeover
+|categories=战斗
+|description=你的魔法本质灌注于藤蔓之中，进一步遮蔽被擒抱敌人的视线——即便对感官增强的对手也是如此。
+|prerequisites=敏捷13，基本攻击加值+6或[[武僧]]6级，[[高等擒抱]]，[[精通擒抱]]，[[精通徒手打击]]，[[葛藤绞]]，[[葛藤入侵]]，[[藤蔓莱西]]。
+|benefit=被你的葛藤绞专长致盲的对手，在攻击其他生物时失误几率增加20%。如果对手有无视目盲的手段（例如[[盲视]]），则改为将其他生物视为具有一般隐蔽（20%失误几率）。
+|normal=所有对手对目盲的生物都视为具有全隐蔽（50%失误几率）。
+|source=WO
+|source_name=荒野源始
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Kudzu%20Takeover
+}}

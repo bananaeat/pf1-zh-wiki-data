@@ -3,7 +3,7 @@
 |english_name=Disillusioned
 |type=战斗
 |description=你的童年因一次巨大的灾难或是暴行而结束。为了应对这种恐惧，你学会了反射性地压抑自己的感情。你在对抗情绪和恐惧效果的意志豁免上获得+2背景加值。
-建议角色：伽尔特人，地狱骑士，奈多人
+建议角色：迦尔特人，地狱骑士，奈多人
 |source_name=任务与战役
 |source=任务与战役(Quests and Campaigns
 |source_url=https://pf1chm.pages.dev/topics/page_1578.html

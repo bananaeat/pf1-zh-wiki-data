@@ -1,5 +1,5 @@
 {
-"snapshot": "2026-10-02T18:48:09Z",
+"snapshot": "2026-10-11T23:43:54Z",
 "pages": [
 {
 "title": "-2诅咒长剑",
@@ -35,18 +35,6 @@
 "物品",
 "神器",
 "魔法物品"
-]
-},
-{
-"title": "Amiri",
-"file": "wikitext/main/Amiri.wiki",
-"types": [
-"creatures"
-],
-"ai": false,
-"categories": [
-"NPC",
-"待汉化"
 ]
 },
 {
@@ -350,18 +338,6 @@
 ]
 },
 {
-"title": "Harsk",
-"file": "wikitext/main/Harsk.wiki",
-"types": [
-"creatures"
-],
-"ai": false,
-"categories": [
-"NPC",
-"待汉化"
-]
-},
-{
 "title": "Haykali的纸牌屋",
 "file": "wikitext/main/Haykali的纸牌屋.wiki",
 "types": [
@@ -465,18 +441,6 @@
 ]
 },
 {
-"title": "Kyra",
-"file": "wikitext/main/Kyra.wiki",
-"types": [
-"creatures"
-],
-"ai": false,
-"categories": [
-"NPC",
-"待汉化"
-]
-},
-{
 "title": "Lalaci",
 "file": "wikitext/main/Lalaci.wiki",
 "types": [
@@ -493,19 +457,7 @@
 "types": [
 "creatures"
 ],
-"ai": false,
-"categories": [
-"NPC",
-"待汉化"
-]
-},
-{
-"title": "Lini",
-"file": "wikitext/main/Lini.wiki",
-"types": [
-"creatures"
-],
-"ai": false,
+"ai": true,
 "categories": [
 "NPC",
 "待汉化"
@@ -574,18 +526,6 @@
 "categories": []
 },
 {
-"title": "Merisiel",
-"file": "wikitext/main/Merisiel.wiki",
-"types": [
-"creatures"
-],
-"ai": false,
-"categories": [
-"NPC",
-"待汉化"
-]
-},
-{
 "title": "Minderhal的锻炉",
 "file": "wikitext/main/Minderhal的锻炉.wiki",
 "types": [
@@ -627,6 +567,26 @@
 ]
 },
 {
+"title": "NPC志/导言",
+"file": "wikitext/main/NPC志_1_导言.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"NPC汇总"
+]
+},
+{
+"title": "NPC志/遭遇组合",
+"file": "wikitext/main/NPC志_1_遭遇组合.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"NPC汇总"
+]
+},
+{
 "title": "NPC指南",
 "file": "wikitext/main/NPC指南.wiki",
 "types": [
@@ -650,7 +610,7 @@
 "title": "NPC职业（NPC志）",
 "file": "wikitext/main/NPC职业（NPC志）.wiki",
 "types": [],
-"ai": false,
+"ai": true,
 "categories": [
 "NPC汇总"
 ]
@@ -948,6 +908,17 @@
 ]
 },
 {
+"title": "Paizo 博客：来自协会总部的大杂烩",
+"file": "wikitext/main/Paizo 博客：来自协会总部的大杂烩.wiki",
+"types": [
+"books"
+],
+"ai": false,
+"categories": [
+"书目"
+]
+},
+{
 "title": "Paizo 博客：极限戏法",
 "file": "wikitext/main/Paizo 博客：极限戏法.wiki",
 "types": [
@@ -1003,30 +974,6 @@
 "特殊魔法武器",
 "魔法武器",
 "魔法物品"
-]
-},
-{
-"title": "Seelah",
-"file": "wikitext/main/Seelah.wiki",
-"types": [
-"creatures"
-],
-"ai": false,
-"categories": [
-"NPC",
-"待汉化"
-]
-},
-{
-"title": "Seoni",
-"file": "wikitext/main/Seoni.wiki",
-"types": [
-"creatures"
-],
-"ai": true,
-"categories": [
-"NPC",
-"待汉化"
 ]
 },
 {
@@ -1283,18 +1230,6 @@
 ]
 },
 {
-"title": "Valeros",
-"file": "wikitext/main/Valeros.wiki",
-"types": [
-"creatures"
-],
-"ai": false,
-"categories": [
-"NPC",
-"待汉化"
-]
-},
-{
 "title": "Vesper的细剑",
 "file": "wikitext/main/Vesper的细剑.wiki",
 "types": [
@@ -1365,18 +1300,6 @@
 "戒指",
 "物品",
 "魔法物品"
-]
-},
-{
-"title": "Yaddithian",
-"file": "wikitext/main/Yaddithian.wiki",
-"types": [
-"races"
-],
-"ai": false,
-"categories": [
-"待汉化",
-"种族"
 ]
 },
 {
@@ -1594,6 +1517,18 @@
 "categories": [
 "专长",
 "战斗专长"
+]
+},
+{
+"title": "一指劲",
+"file": "wikitext/main/一指劲.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -2115,6 +2050,18 @@
 ]
 },
 {
+"title": "万特之镰",
+"file": "wikitext/main/万特之镰.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "万特护魂使",
 "file": "wikitext/main/万特护魂使.wiki",
 "types": [
@@ -2630,6 +2577,18 @@
 "categories": [
 "法术",
 "预言系法术"
+]
+},
+{
+"title": "三相男爵",
+"file": "wikitext/main/三相男爵.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"宫廷头衔专长"
 ]
 },
 {
@@ -3267,6 +3226,19 @@
 ]
 },
 {
+"title": "不可阻挡的奇特",
+"file": "wikitext/main/不可阻挡的奇特.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"奇特专长"
+]
+},
+{
 "title": "不同体型生物的战斗",
 "file": "wikitext/main/不同体型生物的战斗.wiki",
 "types": [],
@@ -3357,15 +3329,6 @@
 ]
 },
 {
-"title": "不定形体(幻灵进化)",
-"file": "wikitext/main/不定形体(幻灵进化).wiki",
-"types": [],
-"ai": false,
-"categories": [
-"进化"
-]
-},
-{
 "title": "不定风手套",
 "file": "wikitext/main/不定风手套.wiki",
 "types": [
@@ -3449,6 +3412,19 @@
 ],
 "ai": false,
 "categories": [
+"专长",
+"战斗专长"
+]
+},
+{
+"title": "不屈凶猛",
+"file": "wikitext/main/不屈凶猛.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
 "专长",
 "战斗专长"
 ]
@@ -4224,6 +4200,19 @@
 "物品",
 "魔法武器",
 "魔法物品"
+]
+},
+{
+"title": "不祥神态",
+"file": "wikitext/main/不祥神态.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"组织专长"
 ]
 },
 {
@@ -5533,6 +5522,19 @@
 ]
 },
 {
+"title": "东方首席将军",
+"file": "wikitext/main/东方首席将军.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"起源专长"
+]
+},
+{
 "title": "东晨骑士团",
 "file": "wikitext/main/东晨骑士团.wiki",
 "types": [],
@@ -6091,15 +6093,6 @@
 ]
 },
 {
-"title": "中等异能魔法",
-"file": "wikitext/main/中等异能魔法.wiki",
-"types": [],
-"ai": false,
-"categories": [
-"进化"
-]
-},
-{
 "title": "丰富词藻",
 "file": "wikitext/main/丰富词藻.wiki",
 "types": [
@@ -6209,6 +6202,18 @@
 "物品",
 "神话物品",
 "魔法物品"
+]
+},
+{
+"title": "丰饶之躯",
+"file": "wikitext/main/丰饶之躯.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -6690,6 +6695,31 @@
 ]
 },
 {
+"title": "主观挥击",
+"file": "wikitext/main/主观挥击.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
+]
+},
+{
+"title": "主观机动",
+"file": "wikitext/main/主观机动.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "主观现实",
 "file": "wikitext/main/主观现实.wiki",
 "types": [
@@ -6711,6 +6741,18 @@
 "categories": [
 "社会背景特性",
 "背景特性"
+]
+},
+{
+"title": "丽妮",
+"file": "wikitext/main/丽妮.wiki",
+"types": [
+"creatures"
+],
+"ai": true,
+"categories": [
+"NPC",
+"待汉化"
 ]
 },
 {
@@ -7466,6 +7508,18 @@
 ]
 },
 {
+"title": "乐器共鸣",
+"file": "wikitext/main/乐器共鸣.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "乐器变音",
 "file": "wikitext/main/乐器变音.wiki",
 "types": [
@@ -7969,6 +8023,18 @@
 "AI翻译",
 "地区背景特性",
 "背景特性"
+]
+},
+{
+"title": "乡村出身",
+"file": "wikitext/main/乡村出身.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -8580,6 +8646,31 @@
 "炼金武器",
 "物品",
 "装备"
+]
+},
+{
+"title": "亚狄斯人",
+"file": "wikitext/main/亚狄斯人.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 8",
+"异怪",
+"怪物"
+]
+},
+{
+"title": "亚狄斯人(种族)",
+"file": "wikitext/main/亚狄斯人(种族).wiki",
+"types": [
+"races"
+],
+"ai": false,
+"categories": [
+"怪物种族",
+"种族"
 ]
 },
 {
@@ -9382,6 +9473,18 @@
 ]
 },
 {
+"title": "亵渎研习",
+"file": "wikitext/main/亵渎研习.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "亵渎者",
 "file": "wikitext/main/亵渎者.wiki",
 "types": [
@@ -9455,6 +9558,19 @@
 "CR 2",
 "怪物",
 "构装体"
+]
+},
+{
+"title": "人墙",
+"file": "wikitext/main/人墙.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"团队专长"
 ]
 },
 {
@@ -9625,6 +9741,19 @@
 ]
 },
 {
+"title": "人皮外衣",
+"file": "wikitext/main/人皮外衣.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"怪物专长"
+]
+},
+{
 "title": "人神的圣面具",
 "file": "wikitext/main/人神的圣面具.wiki",
 "types": [
@@ -9644,7 +9773,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "核心种族",
 "种族"
@@ -9978,7 +10107,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "种族",
 "罕见种族"
@@ -10094,6 +10223,18 @@
 ]
 },
 {
+"title": "仁慈之呼",
+"file": "wikitext/main/仁慈之呼.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "仁慈之钟",
 "file": "wikitext/main/仁慈之钟.wiki",
 "types": [
@@ -10106,6 +10247,19 @@
 "物品",
 "神器",
 "魔法物品"
+]
+},
+{
+"title": "仁慈制伏",
+"file": "wikitext/main/仁慈制伏.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
 ]
 },
 {
@@ -10210,6 +10364,18 @@
 "categories": [
 "社会背景特性",
 "背景特性"
+]
+},
+{
+"title": "从坟里归来",
+"file": "wikitext/main/从坟里归来.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"伟业专长"
 ]
 },
 {
@@ -13654,6 +13820,19 @@
 ]
 },
 {
+"title": "伺机擒抱",
+"file": "wikitext/main/伺机擒抱.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
+]
+},
+{
 "title": "伽伐鳗人",
 "file": "wikitext/main/伽伐鳗人.wiki",
 "types": [
@@ -13667,23 +13846,12 @@
 ]
 },
 {
-"title": "伽尔特煽动者",
-"file": "wikitext/main/伽尔特煽动者.wiki",
-"types": [],
-"ai": true,
-"categories": [
-"AI翻译",
-"变体职业",
-"盗贼变体职业"
-]
-},
-{
 "title": "伽瑟兰",
 "file": "wikitext/main/伽瑟兰.wiki",
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "其他种族",
 "种族"
@@ -13913,6 +14081,18 @@
 ]
 },
 {
+"title": "位面幸存者",
+"file": "wikitext/main/位面幸存者.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "位面庇护所",
 "file": "wikitext/main/位面庇护所.wiki",
 "types": [
@@ -13932,6 +14112,18 @@
 "categories": [
 "变体职业",
 "德鲁伊变体职业"
+]
+},
+{
+"title": "位面感应",
+"file": "wikitext/main/位面感应.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -14183,6 +14375,18 @@
 ],
 "ai": false,
 "categories": [
+"专长"
+]
+},
+{
+"title": "位面行者洞察",
+"file": "wikitext/main/位面行者洞察.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
 "专长"
 ]
 },
@@ -14443,6 +14647,19 @@
 "CR 1",
 "动物",
 "怪物"
+]
+},
+{
+"title": "低语秘识",
+"file": "wikitext/main/低语秘识.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"组织专长"
 ]
 },
 {
@@ -14858,6 +15075,17 @@
 ]
 },
 {
+"title": "佩什复苏",
+"file": "wikitext/main/佩什复苏.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
+]
+},
+{
 "title": "佩什成瘾",
 "file": "wikitext/main/佩什成瘾.wiki",
 "types": [
@@ -14867,6 +15095,28 @@
 "categories": [
 "地区背景特性",
 "背景特性"
+]
+},
+{
+"title": "佩什狂喜",
+"file": "wikitext/main/佩什狂喜.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
+]
+},
+{
+"title": "佩什疗愈",
+"file": "wikitext/main/佩什疗愈.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
 ]
 },
 {
@@ -14934,12 +15184,35 @@
 ]
 },
 {
+"title": "佯装无能",
+"file": "wikitext/main/佯装无能.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
+]
+},
+{
 "title": "使徒加护",
 "file": "wikitext/main/使徒加护.wiki",
 "types": [],
 "ai": false,
 "categories": [
 "原力"
+]
+},
+{
+"title": "使用本书",
+"file": "wikitext/main/使用本书.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"核心规则"
 ]
 },
 {
@@ -15123,6 +15396,18 @@
 ]
 },
 {
+"title": "侍童部属",
+"file": "wikitext/main/侍童部属.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "侍者",
 "file": "wikitext/main/侍者.wiki",
 "types": [
@@ -15141,7 +15426,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "核心种族",
 "种族"
@@ -16038,15 +16323,6 @@
 ]
 },
 {
-"title": "侵蚀光环",
-"file": "wikitext/main/侵蚀光环.wiki",
-"types": [],
-"ai": false,
-"categories": [
-"德鲁伊领域"
-]
-},
-{
 "title": "侵蚀射线",
 "file": "wikitext/main/侵蚀射线.wiki",
 "types": [
@@ -16068,6 +16344,15 @@
 "categories": [
 "专长",
 "战斗专长"
+]
+},
+{
+"title": "侵蚀灵氲",
+"file": "wikitext/main/侵蚀灵氲.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"德鲁伊领域"
 ]
 },
 {
@@ -16425,8 +16710,8 @@
 ]
 },
 {
-"title": "保护灵光",
-"file": "wikitext/main/保护灵光.wiki",
+"title": "保护灵氲",
+"file": "wikitext/main/保护灵氲.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -17552,6 +17837,18 @@
 ]
 },
 {
+"title": "值得信赖",
+"file": "wikitext/main/值得信赖.wiki",
+"types": [
+"traits"
+],
+"ai": false,
+"categories": [
+"社会背景特性",
+"背景特性"
+]
+},
+{
 "title": "倾国之美",
 "file": "wikitext/main/倾国之美.wiki",
 "types": [
@@ -17932,6 +18229,18 @@
 ]
 },
 {
+"title": "偏好社区",
+"file": "wikitext/main/偏好社区.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "偏执",
 "file": "wikitext/main/偏执.wiki",
 "types": [
@@ -18028,8 +18337,8 @@
 ]
 },
 {
-"title": "偏转灵光",
-"file": "wikitext/main/偏转灵光.wiki",
+"title": "偏转灵氲",
+"file": "wikitext/main/偏转灵氲.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -18163,8 +18472,8 @@
 ]
 },
 {
-"title": "健忘灵光",
-"file": "wikitext/main/健忘灵光.wiki",
+"title": "健忘灵氲",
+"file": "wikitext/main/健忘灵氲.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -18230,6 +18539,19 @@
 "AI翻译",
 "战役背景特性",
 "背景特性"
+]
+},
+{
+"title": "偶然之死",
+"file": "wikitext/main/偶然之死.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"起源专长"
 ]
 },
 {
@@ -18568,6 +18890,18 @@
 ]
 },
 {
+"title": "催吐排毒",
+"file": "wikitext/main/催吐排毒.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "催吐胶囊",
 "file": "wikitext/main/催吐胶囊.wiki",
 "types": [
@@ -18808,6 +19142,18 @@
 "ai": false,
 "categories": [
 "NPC"
+]
+},
+{
+"title": "傲然挺立",
+"file": "wikitext/main/傲然挺立.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"故事专长"
 ]
 },
 {
@@ -19257,18 +19603,6 @@
 "奇物",
 "物品",
 "魔法物品"
-]
-},
-{
-"title": "元素光环",
-"file": "wikitext/main/元素光环.wiki",
-"types": [
-"spells"
-],
-"ai": false,
-"categories": [
-"塑能系法术",
-"法术"
 ]
 },
 {
@@ -19758,6 +20092,18 @@
 ]
 },
 {
+"title": "元素灵氲",
+"file": "wikitext/main/元素灵氲.wiki",
+"types": [
+"spells"
+],
+"ai": false,
+"categories": [
+"塑能系法术",
+"法术"
+]
+},
+{
 "title": "元素灾难",
 "file": "wikitext/main/元素灾难.wiki",
 "types": [
@@ -20135,6 +20481,18 @@
 "ai": false,
 "categories": [
 "催眠师诡计"
+]
+},
+{
+"title": "先发警示",
+"file": "wikitext/main/先发警示.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -24045,7 +24403,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "怪物种族",
 "种族"
@@ -24958,6 +25316,17 @@
 "物品",
 "电子殖装物",
 "科技物品"
+]
+},
+{
+"title": "内蕴之光",
+"file": "wikitext/main/内蕴之光.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
 ]
 },
 {
@@ -27274,6 +27643,19 @@
 ]
 },
 {
+"title": "冥河法术",
+"file": "wikitext/main/冥河法术.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"超魔专长"
+]
+},
+{
 "title": "冥河热血马",
 "file": "wikitext/main/冥河热血马.wiki",
 "types": [
@@ -28225,6 +28607,19 @@
 "ai": false,
 "categories": [
 "秘示域"
+]
+},
+{
+"title": "冰脊蜥",
+"file": "wikitext/main/冰脊蜥.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 3",
+"怪物",
+"魔法兽"
 ]
 },
 {
@@ -29418,8 +29813,8 @@
 ]
 },
 {
-"title": "净化灵光",
-"file": "wikitext/main/净化灵光.wiki",
+"title": "净化灵氲",
+"file": "wikitext/main/净化灵氲.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -30296,6 +30691,18 @@
 ]
 },
 {
+"title": "凯拉",
+"file": "wikitext/main/凯拉.wiki",
+"types": [
+"creatures"
+],
+"ai": true,
+"categories": [
+"NPC",
+"待汉化"
+]
+},
+{
 "title": "凯拉金西",
 "file": "wikitext/main/凯拉金西.wiki",
 "types": [
@@ -30367,20 +30774,6 @@
 "categories": [
 "AI翻译",
 "CR 4",
-"怪物",
-"魔法兽"
-]
-},
-{
-"title": "凯特斯修斯",
-"file": "wikitext/main/凯特斯修斯.wiki",
-"types": [
-"creatures"
-],
-"ai": true,
-"categories": [
-"AI翻译",
-"CR 13",
 "怪物",
 "魔法兽"
 ]
@@ -30741,6 +31134,33 @@
 {
 "title": "凶暴狮(物品)",
 "file": "wikitext/main/凶暴狮(物品).wiki",
+"types": [
+"equipment"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"坐骑与宠物",
+"物品",
+"装备"
+]
+},
+{
+"title": "凶暴狼",
+"file": "wikitext/main/凶暴狼.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 3",
+"动物",
+"怪物"
+]
+},
+{
+"title": "凶暴狼(物品)",
+"file": "wikitext/main/凶暴狼(物品).wiki",
 "types": [
 "equipment"
 ],
@@ -31284,6 +31704,20 @@
 ]
 },
 {
+"title": "凶蛮擒抱",
+"file": "wikitext/main/凶蛮擒抱.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"团队专长",
+"战斗专长"
+]
+},
+{
 "title": "凶蛮独眼巨兽",
 "file": "wikitext/main/凶蛮独眼巨兽.wiki",
 "types": [
@@ -31514,6 +31948,19 @@
 ]
 },
 {
+"title": "击破祝福",
+"file": "wikitext/main/击破祝福.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
+]
+},
+{
 "title": "击破重击",
 "file": "wikitext/main/击破重击.wiki",
 "types": [
@@ -31572,6 +32019,19 @@
 "CR 1/4",
 "怪物",
 "植物"
+]
+},
+{
+"title": "刀刃风暴",
+"file": "wikitext/main/刀刃风暴.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
 ]
 },
 {
@@ -31746,6 +32206,18 @@
 ]
 },
 {
+"title": "分心爆炸",
+"file": "wikitext/main/分心爆炸.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "分心腕弩",
 "file": "wikitext/main/分心腕弩.wiki",
 "types": [
@@ -31806,8 +32278,8 @@
 ]
 },
 {
-"title": "分析灵光",
-"file": "wikitext/main/分析灵光.wiki",
+"title": "分析灵氲",
+"file": "wikitext/main/分析灵氲.wiki",
 "types": [
 "spells"
 ],
@@ -32155,6 +32627,18 @@
 "AI翻译",
 "战役背景特性",
 "背景特性"
+]
+},
+{
+"title": "切利亚斯贵族后裔",
+"file": "wikitext/main/切利亚斯贵族后裔.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -32537,19 +33021,6 @@
 ]
 },
 {
-"title": "创圣天",
-"file": "wikitext/main/创圣天.wiki",
-"types": [
-"creatures"
-],
-"ai": false,
-"categories": [
-"CR 20",
-"异界生物",
-"怪物"
-]
-},
-{
 "title": "创始人拉科娜之骨",
 "file": "wikitext/main/创始人拉科娜之骨.wiki",
 "types": [
@@ -32573,6 +33044,32 @@
 "categories": [
 "社会背景特性",
 "背景特性"
+]
+},
+{
+"title": "创意武匠",
+"file": "wikitext/main/创意武匠.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
+]
+},
+{
+"title": "创意甲匠",
+"file": "wikitext/main/创意甲匠.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
 ]
 },
 {
@@ -33388,6 +33885,18 @@
 ]
 },
 {
+"title": "制造机器人",
+"file": "wikitext/main/制造机器人.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "制造权杖",
 "file": "wikitext/main/制造权杖.wiki",
 "types": [
@@ -34041,6 +34550,18 @@
 ]
 },
 {
+"title": "刺鼻恶臭",
+"file": "wikitext/main/刺鼻恶臭.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "刻印使",
 "file": "wikitext/main/刻印使.wiki",
 "types": [
@@ -34064,6 +34585,19 @@
 "CR 10",
 "异界生物",
 "怪物"
+]
+},
+{
+"title": "刻忒修斯",
+"file": "wikitext/main/刻忒修斯.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 13",
+"怪物",
+"魔法兽"
 ]
 },
 {
@@ -34730,6 +35264,18 @@
 ]
 },
 {
+"title": "剥皮打击",
+"file": "wikitext/main/剥皮打击.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "剥皮老爹邪教徒",
 "file": "wikitext/main/剥皮老爹邪教徒.wiki",
 "types": [
@@ -34765,6 +35311,20 @@
 "categories": [
 "作祟",
 "危害"
+]
+},
+{
+"title": "剥皮重击",
+"file": "wikitext/main/剥皮重击.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长",
+"重击专长"
 ]
 },
 {
@@ -34926,6 +35486,18 @@
 "categories": [
 "变体职业",
 "游侠变体职业"
+]
+},
+{
+"title": "剧毒恶臭",
+"file": "wikitext/main/剧毒恶臭.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -36566,7 +37138,7 @@
 "title": "动物伙伴变体",
 "file": "wikitext/main/动物伙伴变体.wiki",
 "types": [],
-"ai": false,
+"ai": true,
 "categories": [
 "伙伴与魔宠"
 ]
@@ -36587,6 +37159,15 @@
 "ai": false,
 "categories": [
 "书目章节"
+]
+},
+{
+"title": "动物伙伴速查",
+"file": "wikitext/main/动物伙伴速查.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"伙伴与魔宠"
 ]
 },
 {
@@ -36922,7 +37503,7 @@
 "title": "动物装备栏位修正",
 "file": "wikitext/main/动物装备栏位修正.wiki",
 "types": [],
-"ai": false,
+"ai": true,
 "categories": [
 "伙伴与魔宠"
 ]
@@ -37071,6 +37652,19 @@
 "categories": [
 "AI翻译",
 "CR 1",
+"怪物",
+"精类"
+]
+},
+{
+"title": "努诺小魔怪",
+"file": "wikitext/main/努诺小魔怪.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 1/2",
 "怪物",
 "精类"
 ]
@@ -37248,6 +37842,17 @@
 "categories": [
 "惑控系法术",
 "法术"
+]
+},
+{
+"title": "勇于行动",
+"file": "wikitext/main/勇于行动.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
 ]
 },
 {
@@ -37721,7 +38326,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "其他种族",
 "种族"
@@ -37836,6 +38441,32 @@
 "ai": false,
 "categories": [
 "通用怪物规则"
+]
+},
+{
+"title": "包卷厌恶",
+"file": "wikitext/main/包卷厌恶.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
+]
+},
+{
+"title": "包卷骇惧",
+"file": "wikitext/main/包卷骇惧.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
 ]
 },
 {
@@ -38179,6 +38810,18 @@
 ]
 },
 {
+"title": "化形魔宠",
+"file": "wikitext/main/化形魔宠.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "化敌为友",
 "file": "wikitext/main/化敌为友.wiki",
 "types": [
@@ -38408,6 +39051,17 @@
 "CR 2",
 "怪物",
 "魔法兽"
+]
+},
+{
+"title": "化豺之血",
+"file": "wikitext/main/化豺之血.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
 ]
 },
 {
@@ -39592,7 +40246,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "核心种族",
 "种族"
@@ -39609,6 +40263,15 @@
 "工具",
 "物品",
 "装备"
+]
+},
+{
+"title": "半兽人种族特性替换汇总",
+"file": "wikitext/main/半兽人种族特性替换汇总.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"种族规则"
 ]
 },
 {
@@ -39710,22 +40373,6 @@
 ]
 },
 {
-"title": "半炼狱生物",
-"file": "wikitext/main/半炼狱生物.wiki",
-"types": [
-"creature_templates",
-"creatures"
-],
-"ai": true,
-"categories": [
-"AI翻译",
-"CR 6",
-"异界生物",
-"怪物",
-"怪物模板"
-]
-},
-{
 "title": "半瓶醋",
 "file": "wikitext/main/半瓶醋.wiki",
 "types": [
@@ -39769,7 +40416,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "核心种族",
 "种族"
@@ -39890,7 +40537,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "核心种族",
 "种族"
@@ -40073,12 +40720,28 @@
 ]
 },
 {
+"title": "半魔族生物",
+"file": "wikitext/main/半魔族生物.wiki",
+"types": [
+"creature_templates",
+"creatures"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"CR 6",
+"异界生物",
+"怪物",
+"怪物模板"
+]
+},
+{
 "title": "半鱼人",
 "file": "wikitext/main/半鱼人.wiki",
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "种族",
 "罕见种族"
@@ -40223,6 +40886,19 @@
 "专长",
 "战斗专长",
 "演武专长"
+]
+},
+{
+"title": "华国艺人",
+"file": "wikitext/main/华国艺人.wiki",
+"types": [
+"traits"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"地区背景特性",
+"背景特性"
 ]
 },
 {
@@ -40827,10 +41503,24 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "常见种族",
 "种族"
+]
+},
+{
+"title": "卓尔(怪物)",
+"file": "wikitext/main/卓尔(怪物).wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 1/3",
+"CR 3",
+"怪物",
+"类人生物"
 ]
 },
 {
@@ -40857,6 +41547,18 @@
 "物品",
 "魔法武器",
 "魔法物品"
+]
+},
+{
+"title": "卓尔之魂",
+"file": "wikitext/main/卓尔之魂.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -40940,38 +41642,6 @@
 ]
 },
 {
-"title": "卓尔精灵",
-"file": "wikitext/main/卓尔精灵.wiki",
-"types": [],
-"ai": false,
-"categories": [
-"怪物"
-]
-},
-{
-"title": "卓尔精灵(怪物)",
-"file": "wikitext/main/卓尔精灵(怪物).wiki",
-"types": [
-"creatures"
-],
-"ai": false,
-"categories": [
-"CR 1/3",
-"CR 3",
-"怪物",
-"类人生物"
-]
-},
-{
-"title": "卓尔精灵（怪物志）",
-"file": "wikitext/main/卓尔精灵（怪物志）.wiki",
-"types": [],
-"ai": false,
-"categories": [
-"NPC汇总"
-]
-},
-{
 "title": "卓尔贵族",
 "file": "wikitext/main/卓尔贵族.wiki",
 "types": [
@@ -40994,7 +41664,9 @@
 {
 "title": "卓尔贵族(种族)",
 "file": "wikitext/main/卓尔贵族(种族).wiki",
-"types": [],
+"types": [
+"races"
+],
 "ai": false,
 "categories": [
 "种族"
@@ -41033,6 +41705,15 @@
 "ai": false,
 "categories": [
 "NPC"
+]
+},
+{
+"title": "卓尔（怪物志）",
+"file": "wikitext/main/卓尔（怪物志）.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"NPC汇总"
 ]
 },
 {
@@ -41633,6 +42314,18 @@
 ]
 },
 {
+"title": "卡利斯拉德之利",
+"file": "wikitext/main/卡利斯拉德之利.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "卡利斯拉德信徒",
 "file": "wikitext/main/卡利斯拉德信徒.wiki",
 "types": [
@@ -41809,6 +42502,18 @@
 "categories": [
 "地区背景特性",
 "背景特性"
+]
+},
+{
+"title": "卡希尔学者",
+"file": "wikitext/main/卡希尔学者.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -42244,8 +42949,10 @@
 {
 "title": "卡萨达人",
 "file": "wikitext/main/卡萨达人.wiki",
-"types": [],
-"ai": false,
+"types": [
+"races"
+],
+"ai": true,
 "categories": [
 "怪物种族",
 "种族"
@@ -42920,40 +43627,6 @@
 ]
 },
 {
-"title": "卸武",
-"file": "wikitext/main/卸武.wiki",
-"types": [],
-"ai": false,
-"categories": [
-"战技"
-]
-},
-{
-"title": "卸武搭档",
-"file": "wikitext/main/卸武搭档.wiki",
-"types": [
-"feats"
-],
-"ai": false,
-"categories": [
-"专长",
-"团队专长",
-"战斗专长"
-]
-},
-{
-"title": "卸武重击",
-"file": "wikitext/main/卸武重击.wiki",
-"types": [
-"feats"
-],
-"ai": false,
-"categories": [
-"专长",
-"战斗专长"
-]
-},
-{
 "title": "卸骨脱逃",
 "file": "wikitext/main/卸骨脱逃.wiki",
 "types": [
@@ -43234,6 +43907,18 @@
 ]
 },
 {
+"title": "历战伤疤",
+"file": "wikitext/main/历战伤疤.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"伟业专长"
+]
+},
+{
 "title": "历险骑士包",
 "file": "wikitext/main/历险骑士包.wiki",
 "types": [
@@ -43404,6 +44089,18 @@
 "特殊魔法武器",
 "魔法武器",
 "魔法物品"
+]
+},
+{
+"title": "压制荒疫",
+"file": "wikitext/main/压制荒疫.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -43709,6 +44406,20 @@
 ]
 },
 {
+"title": "原初枭熊",
+"file": "wikitext/main/原初枭熊.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 10",
+"怪物",
+"神话怪物",
+"魔法兽"
+]
+},
+{
 "title": "原初生物",
 "file": "wikitext/main/原初生物.wiki",
 "types": [
@@ -43741,6 +44452,18 @@
 "奇物",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "原初血统",
+"file": "wikitext/main/原初血统.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -45127,6 +45850,18 @@
 ]
 },
 {
+"title": "双色鳞片",
+"file": "wikitext/main/双色鳞片.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "双节棍",
 "file": "wikitext/main/双节棍.wiki",
 "types": [
@@ -45456,18 +46191,6 @@
 ]
 },
 {
-"title": "反制者",
-"file": "wikitext/main/反制者.wiki",
-"types": [
-"traits"
-],
-"ai": false,
-"categories": [
-"战斗背景特性",
-"背景特性"
-]
-},
-{
 "title": "反制邪恶",
 "file": "wikitext/main/反制邪恶.wiki",
 "types": [
@@ -45608,6 +46331,18 @@
 ],
 "ai": false,
 "categories": [
+"专长"
+]
+},
+{
+"title": "反射结晶尘埃",
+"file": "wikitext/main/反射结晶尘埃.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
 "专长"
 ]
 },
@@ -45858,8 +46593,8 @@
 ]
 },
 {
-"title": "反自然灵光",
-"file": "wikitext/main/反自然灵光.wiki",
+"title": "反自然灵氲",
+"file": "wikitext/main/反自然灵氲.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -48859,6 +49594,19 @@
 ]
 },
 {
+"title": "古神教唤醒者",
+"file": "wikitext/main/古神教唤醒者.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"组织专长"
+]
+},
+{
 "title": "古神教徒",
 "file": "wikitext/main/古神教徒.wiki",
 "types": [
@@ -49334,6 +50082,19 @@
 "CR 7",
 "异界生物",
 "怪物"
+]
+},
+{
+"title": "古鲁刺朗大蛇",
+"file": "wikitext/main/古鲁刺朗大蛇.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 16",
+"怪物",
+"魔法兽"
 ]
 },
 {
@@ -49989,6 +50750,18 @@
 "奇物",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "召唤植物盟友",
+"file": "wikitext/main/召唤植物盟友.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -51089,6 +51862,18 @@
 ]
 },
 {
+"title": "合伙人",
+"file": "wikitext/main/合伙人.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "合作无间",
 "file": "wikitext/main/合作无间.wiki",
 "types": [
@@ -51515,6 +52300,18 @@
 ]
 },
 {
+"title": "同僚",
+"file": "wikitext/main/同僚.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "同化土著",
 "file": "wikitext/main/同化土著.wiki",
 "types": [
@@ -51662,8 +52459,8 @@
 ]
 },
 {
-"title": "同调灵光",
-"file": "wikitext/main/同调灵光.wiki",
+"title": "同调灵氲",
+"file": "wikitext/main/同调灵氲.wiki",
 "types": [
 "spells"
 ],
@@ -51802,6 +52599,19 @@
 "ai": false,
 "categories": [
 "盗贼天赋"
+]
+},
+{
+"title": "后方指挥",
+"file": "wikitext/main/后方指挥.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
 ]
 },
 {
@@ -52174,6 +52984,18 @@
 ]
 },
 {
+"title": "吞噬不死",
+"file": "wikitext/main/吞噬不死.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "吞噬之球",
 "file": "wikitext/main/吞噬之球.wiki",
 "types": [
@@ -52194,6 +53016,19 @@
 "ai": false,
 "categories": [
 "原力"
+]
+},
+{
+"title": "吞噬精华",
+"file": "wikitext/main/吞噬精华.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
 ]
 },
 {
@@ -52433,6 +53268,17 @@
 ]
 },
 {
+"title": "听觉洞察",
+"file": "wikitext/main/听觉洞察.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
+]
+},
+{
 "title": "听音辨位",
 "file": "wikitext/main/听音辨位.wiki",
 "types": [
@@ -52503,6 +53349,16 @@
 "物品",
 "魔法武器",
 "魔法物品"
+]
+},
+{
+"title": "启发性阅读",
+"file": "wikitext/main/启发性阅读.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"核心规则"
 ]
 },
 {
@@ -52706,6 +53562,19 @@
 ]
 },
 {
+"title": "吸干血液",
+"file": "wikitext/main/吸干血液.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
+]
+},
+{
 "title": "吸引油",
 "file": "wikitext/main/吸引油.wiki",
 "types": [
@@ -52868,6 +53737,18 @@
 "categories": [
 "变化系法术",
 "法术"
+]
+},
+{
+"title": "吸纳亡魂",
+"file": "wikitext/main/吸纳亡魂.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -53264,6 +54145,19 @@
 ]
 },
 {
+"title": "吸髓蛆",
+"file": "wikitext/main/吸髓蛆.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 6",
+"异怪",
+"怪物"
+]
+},
+{
 "title": "吹嘘者",
 "file": "wikitext/main/吹嘘者.wiki",
 "types": [],
@@ -53320,6 +54214,30 @@
 "工具",
 "物品",
 "装备"
+]
+},
+{
+"title": "吾之丰饶，吾之荣耀",
+"file": "wikitext/main/吾之丰饶，吾之荣耀.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"故事专长"
+]
+},
+{
+"title": "吾等乃壁垒",
+"file": "wikitext/main/吾等乃壁垒.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"故事专长"
 ]
 },
 {
@@ -54695,6 +55613,18 @@
 ]
 },
 {
+"title": "哈斯克",
+"file": "wikitext/main/哈斯克.wiki",
+"types": [
+"creatures"
+],
+"ai": true,
+"categories": [
+"NPC",
+"待汉化"
+]
+},
+{
 "title": "哈斯塔",
 "file": "wikitext/main/哈斯塔.wiki",
 "types": [
@@ -55009,6 +55939,18 @@
 ]
 },
 {
+"title": "哑剧表演",
+"file": "wikitext/main/哑剧表演.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"组织专长"
+]
+},
+{
 "title": "哑巴娃娃",
 "file": "wikitext/main/哑巴娃娃.wiki",
 "types": [
@@ -55133,6 +56075,19 @@
 ]
 },
 {
+"title": "哥利亚巨蛙",
+"file": "wikitext/main/哥利亚巨蛙.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 3",
+"动物",
+"怪物"
+]
+},
+{
 "title": "哨兵模型",
 "file": "wikitext/main/哨兵模型.wiki",
 "types": [
@@ -55170,20 +56125,6 @@
 "奇物",
 "物品",
 "魔法物品"
-]
-},
-{
-"title": "哨卫小屋",
-"file": "wikitext/main/哨卫小屋.wiki",
-"types": [
-"creatures"
-],
-"ai": true,
-"categories": [
-"AI翻译",
-"CR 8",
-"怪物",
-"构装体"
 ]
 },
 {
@@ -55829,6 +56770,21 @@
 ]
 },
 {
+"title": "啮咬手镯",
+"file": "wikitext/main/啮咬手镯.wiki",
+"types": [
+"magic_items"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"物品",
+"特殊魔法武器",
+"魔法武器",
+"魔法物品"
+]
+},
+{
 "title": "啮毒矢",
 "file": "wikitext/main/啮毒矢.wiki",
 "types": [
@@ -56066,6 +57022,19 @@
 ]
 },
 {
+"title": "喧嚣法术",
+"file": "wikitext/main/喧嚣法术.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"超魔专长"
+]
+},
+{
 "title": "喧嚣超魔权杖",
 "file": "wikitext/main/喧嚣超魔权杖.wiki",
 "types": [
@@ -56298,6 +57267,30 @@
 "奇物",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "嗅探恐惧",
+"file": "wikitext/main/嗅探恐惧.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
+"title": "嗅犬生恨",
+"file": "wikitext/main/嗅犬生恨.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -56771,21 +57764,6 @@
 ]
 },
 {
-"title": "噬咬手镯",
-"file": "wikitext/main/噬咬手镯.wiki",
-"types": [
-"magic_items"
-],
-"ai": true,
-"categories": [
-"AI翻译",
-"物品",
-"特殊魔法武器",
-"魔法武器",
-"魔法物品"
-]
-},
-{
 "title": "噬巫者护符",
 "file": "wikitext/main/噬巫者护符.wiki",
 "types": [
@@ -56858,6 +57836,18 @@
 "CR 11",
 "怪物",
 "植物"
+]
+},
+{
+"title": "噬惧者",
+"file": "wikitext/main/噬惧者.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -56949,6 +57939,18 @@
 "CR 2",
 "怪物",
 "虫类"
+]
+},
+{
+"title": "噬财秘法",
+"file": "wikitext/main/噬财秘法.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -58069,6 +59071,18 @@
 ]
 },
 {
+"title": "团结致胜",
+"file": "wikitext/main/团结致胜.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"故事专长"
+]
+},
+{
 "title": "团队专长",
 "file": "wikitext/main/团队专长.wiki",
 "types": [],
@@ -58370,6 +59384,19 @@
 "ai": false,
 "categories": [
 "NPC"
+]
+},
+{
+"title": "国王右手执扇者",
+"file": "wikitext/main/国王右手执扇者.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"起源专长"
 ]
 },
 {
@@ -58747,7 +59774,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "常见种族",
 "种族"
@@ -59130,8 +60157,8 @@
 ]
 },
 {
-"title": "圣使灵气",
-"file": "wikitext/main/圣使灵气.wiki",
+"title": "圣使灵氲",
+"file": "wikitext/main/圣使灵氲.wiki",
 "types": [
 "spells"
 ],
@@ -59322,8 +60349,8 @@
 ]
 },
 {
-"title": "圣化灵光",
-"file": "wikitext/main/圣化灵光.wiki",
+"title": "圣化灵氲",
+"file": "wikitext/main/圣化灵氲.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -60010,8 +61037,8 @@
 ]
 },
 {
-"title": "圣洁灵光",
-"file": "wikitext/main/圣洁灵光.wiki",
+"title": "圣洁灵氲",
+"file": "wikitext/main/圣洁灵氲.wiki",
 "types": [
 "spells"
 ],
@@ -60042,6 +61069,19 @@
 "ai": false,
 "categories": [
 "专长"
+]
+},
+{
+"title": "圣火所触",
+"file": "wikitext/main/圣火所触.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"组织专长"
 ]
 },
 {
@@ -60165,6 +61205,19 @@
 "特殊魔法盾牌",
 "魔法物品",
 "魔法防具"
+]
+},
+{
+"title": "圣甲虫群",
+"file": "wikitext/main/圣甲虫群.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 3",
+"怪物",
+"虫类"
 ]
 },
 {
@@ -60781,6 +61834,18 @@
 ]
 },
 {
+"title": "地形迅敏",
+"file": "wikitext/main/地形迅敏.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "地摊烤肉",
 "file": "wikitext/main/地摊烤肉.wiki",
 "types": [
@@ -61247,6 +62312,19 @@
 "CR 7",
 "异界生物",
 "怪物"
+]
+},
+{
+"title": "地狱猫之扑击",
+"file": "wikitext/main/地狱猫之扑击.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
 ]
 },
 {
@@ -62026,6 +63104,18 @@
 ]
 },
 {
+"title": "地表斥候",
+"file": "wikitext/main/地表斥候.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "地裂",
 "file": "wikitext/main/地裂.wiki",
 "types": [
@@ -62283,8 +63373,8 @@
 ]
 },
 {
-"title": "坏死灵光",
-"file": "wikitext/main/坏死灵光.wiki",
+"title": "坏死灵氲",
+"file": "wikitext/main/坏死灵氲.wiki",
 "types": [
 "traits"
 ],
@@ -62480,6 +63570,18 @@
 "categories": [
 "法术",
 "防护系法术"
+]
+},
+{
+"title": "坚不可摧(专长)",
+"file": "wikitext/main/坚不可摧(专长).wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"战斗专长"
 ]
 },
 {
@@ -62836,6 +63938,17 @@
 {
 "title": "坚毅",
 "file": "wikitext/main/坚毅.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
+]
+},
+{
+"title": "坚毅之心",
+"file": "wikitext/main/坚毅之心.wiki",
 "types": [
 "feats"
 ],
@@ -63604,6 +64717,18 @@
 ]
 },
 {
+"title": "城市出身",
+"file": "wikitext/main/城市出身.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "城市地图",
 "file": "wikitext/main/城市地图.wiki",
 "types": [
@@ -63793,20 +64918,6 @@
 ]
 },
 {
-"title": "基基莫拉",
-"file": "wikitext/main/基基莫拉.wiki",
-"types": [
-"creatures"
-],
-"ai": true,
-"categories": [
-"AI翻译",
-"CR 5",
-"怪物",
-"精类"
-]
-},
-{
 "title": "基布瓦卡战争面具",
 "file": "wikitext/main/基布瓦卡战争面具.wiki",
 "types": [
@@ -63888,15 +64999,6 @@
 "ai": false,
 "categories": [
 "专长"
-]
-},
-{
-"title": "基础异能魔法",
-"file": "wikitext/main/基础异能魔法.wiki",
-"types": [],
-"ai": false,
-"categories": [
-"进化"
 ]
 },
 {
@@ -65100,6 +66202,19 @@
 ]
 },
 {
+"title": "墓缚怪",
+"file": "wikitext/main/墓缚怪.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 4",
+"不死生物",
+"怪物"
+]
+},
+{
 "title": "墓魂护甲",
 "file": "wikitext/main/墓魂护甲.wiki",
 "types": [
@@ -65395,6 +66510,18 @@
 "ai": false,
 "categories": [
 "原力"
+]
+},
+{
+"title": "增距表演",
+"file": "wikitext/main/增距表演.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"组织专长"
 ]
 },
 {
@@ -66914,6 +68041,18 @@
 ]
 },
 {
+"title": "多神祝福",
+"file": "wikitext/main/多神祝福.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "多米诺冲撞",
 "file": "wikitext/main/多米诺冲撞.wiki",
 "types": [
@@ -67026,6 +68165,18 @@
 "categories": [
 "专长",
 "战斗专长"
+]
+},
+{
+"title": "多重武器专家",
+"file": "wikitext/main/多重武器专家.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -67832,6 +68983,18 @@
 ]
 },
 {
+"title": "大地之触",
+"file": "wikitext/main/大地之触.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "大地之语",
 "file": "wikitext/main/大地之语.wiki",
 "types": [],
@@ -68293,6 +69456,18 @@
 "categories": [
 "专长",
 "战斗专长"
+]
+},
+{
+"title": "大师表演",
+"file": "wikitext/main/大师表演.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"组织专长"
 ]
 },
 {
@@ -69528,20 +70703,6 @@
 ]
 },
 {
-"title": "天使守卫",
-"file": "wikitext/main/天使守卫.wiki",
-"types": [
-"creatures"
-],
-"ai": true,
-"categories": [
-"AI翻译",
-"CR 5",
-"怪物",
-"构装体"
-]
-},
-{
 "title": "天使杀手",
 "file": "wikitext/main/天使杀手.wiki",
 "types": [
@@ -69602,19 +70763,6 @@
 ]
 },
 {
-"title": "天使，异界神使",
-"file": "wikitext/main/天使，异界神使.wiki",
-"types": [
-"creatures"
-],
-"ai": false,
-"categories": [
-"CR 16",
-"异界生物",
-"怪物"
-]
-},
-{
 "title": "天使，星界使徒",
 "file": "wikitext/main/天使，星界使徒.wiki",
 "types": [
@@ -69628,14 +70776,27 @@
 ]
 },
 {
-"title": "天使，曦天使",
-"file": "wikitext/main/天使，曦天使.wiki",
+"title": "天使，炽天使",
+"file": "wikitext/main/天使，炽天使.wiki",
 "types": [
 "creatures"
 ],
 "ai": false,
 "categories": [
 "CR 23",
+"异界生物",
+"怪物"
+]
+},
+{
+"title": "天使，界天使",
+"file": "wikitext/main/天使，界天使.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 16",
 "异界生物",
 "怪物"
 ]
@@ -70279,7 +71440,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "常见种族",
 "种族"
@@ -70452,6 +71613,19 @@
 "ai": false,
 "categories": [
 "通用怪物规则"
+]
+},
+{
+"title": "天生骑枪手",
+"file": "wikitext/main/天生骑枪手.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
 ]
 },
 {
@@ -71740,8 +72914,8 @@
 ]
 },
 {
-"title": "失衡灵光",
-"file": "wikitext/main/失衡灵光.wiki",
+"title": "失衡灵氲",
+"file": "wikitext/main/失衡灵氲.wiki",
 "types": [
 "spells"
 ],
@@ -71986,7 +73160,7 @@
 "types": [
 "creatures"
 ],
-"ai": true,
+"ai": false,
 "categories": [
 "AI翻译",
 "CR 20",
@@ -72232,6 +73406,19 @@
 ]
 },
 {
+"title": "奇奇莫拉",
+"file": "wikitext/main/奇奇莫拉.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 5",
+"怪物",
+"精类"
+]
+},
+{
 "title": "奇奥尼之歌",
 "file": "wikitext/main/奇奥尼之歌.wiki",
 "types": [
@@ -72402,6 +73589,55 @@
 ]
 },
 {
+"title": "奇异血统（半鱼人）",
+"file": "wikitext/main/奇异血统（半鱼人）.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
+"title": "奇异血统（吸血裔）",
+"file": "wikitext/main/奇异血统（吸血裔）.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
+"title": "奇异血统（替换儿）",
+"file": "wikitext/main/奇异血统（替换儿）.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"团队专长"
+]
+},
+{
+"title": "奇异血统（窃影鬼）",
+"file": "wikitext/main/奇异血统（窃影鬼）.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "奇想和服",
 "file": "wikitext/main/奇想和服.wiki",
 "types": [
@@ -72516,12 +73752,116 @@
 ]
 },
 {
+"title": "奇特变化",
+"file": "wikitext/main/奇特变化.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"奇特专长"
+]
+},
+{
+"title": "奇特咒法",
+"file": "wikitext/main/奇特咒法.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"奇特专长"
+]
+},
+{
+"title": "奇特塑能",
+"file": "wikitext/main/奇特塑能.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"奇特专长"
+]
+},
+{
+"title": "奇特幻术",
+"file": "wikitext/main/奇特幻术.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"奇特专长"
+]
+},
+{
+"title": "奇特惑控",
+"file": "wikitext/main/奇特惑控.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"奇特专长"
+]
+},
+{
 "title": "奇特施法材料",
 "file": "wikitext/main/奇特施法材料.wiki",
 "types": [],
 "ai": false,
 "categories": [
 "扩展规则"
+]
+},
+{
+"title": "奇特死灵",
+"file": "wikitext/main/奇特死灵.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"奇特专长"
+]
+},
+{
+"title": "奇特防护",
+"file": "wikitext/main/奇特防护.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"奇特专长"
+]
+},
+{
+"title": "奇特预言",
+"file": "wikitext/main/奇特预言.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"奇特专长"
 ]
 },
 {
@@ -73007,6 +74347,17 @@
 "categories": [
 "宗教背景特性",
 "背景特性"
+]
+},
+{
+"title": "契约学家",
+"file": "wikitext/main/契约学家.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
 ]
 },
 {
@@ -75042,6 +76393,18 @@
 ]
 },
 {
+"title": "奥西里昂学",
+"file": "wikitext/main/奥西里昂学.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "奥西里昂学家",
 "file": "wikitext/main/奥西里昂学家.wiki",
 "types": [
@@ -75112,6 +76475,17 @@
 "ai": false,
 "categories": [
 "书目章节"
+]
+},
+{
+"title": "奥西里昂通",
+"file": "wikitext/main/奥西里昂通.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
 ]
 },
 {
@@ -76615,21 +77989,6 @@
 ]
 },
 {
-"title": "始祖枭熊",
-"file": "wikitext/main/始祖枭熊.wiki",
-"types": [
-"creatures"
-],
-"ai": true,
-"categories": [
-"AI翻译",
-"CR 10",
-"怪物",
-"神话怪物",
-"魔法兽"
-]
-},
-{
 "title": "始祖鸟",
 "file": "wikitext/main/始祖鸟.wiki",
 "types": [
@@ -76959,8 +78318,8 @@
 ]
 },
 {
-"title": "威胁灵光",
-"file": "wikitext/main/威胁灵光.wiki",
+"title": "威胁灵氲",
+"file": "wikitext/main/威胁灵氲.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -77210,6 +78569,18 @@
 ]
 },
 {
+"title": "媚惑礼赠",
+"file": "wikitext/main/媚惑礼赠.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"伟业专长"
+]
+},
+{
 "title": "嫁接之刃",
 "file": "wikitext/main/嫁接之刃.wiki",
 "types": [
@@ -77307,19 +78678,6 @@
 "ai": false,
 "categories": [
 "专长"
-]
-},
-{
-"title": "嬛郭艺人",
-"file": "wikitext/main/嬛郭艺人.wiki",
-"types": [
-"traits"
-],
-"ai": true,
-"categories": [
-"AI翻译",
-"地区背景特性",
-"背景特性"
 ]
 },
 {
@@ -77745,6 +79103,19 @@
 ]
 },
 {
+"title": "孤独之死",
+"file": "wikitext/main/孤独之死.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"起源专长"
+]
+},
+{
 "title": "孤独幸存者",
 "file": "wikitext/main/孤独幸存者.wiki",
 "types": [
@@ -77757,15 +79128,15 @@
 ]
 },
 {
-"title": "孤独者",
-"file": "wikitext/main/孤独者.wiki",
+"title": "孤狼",
+"file": "wikitext/main/孤狼.wiki",
 "types": [
-"traits"
+"feats"
 ],
-"ai": false,
+"ai": true,
 "categories": [
-"种族背景特性",
-"背景特性"
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -78450,6 +79821,19 @@
 ]
 },
 {
+"title": "守卫小屋",
+"file": "wikitext/main/守卫小屋.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 8",
+"怪物",
+"构装体"
+]
+},
+{
 "title": "守卫机",
 "file": "wikitext/main/守卫机.wiki",
 "types": [
@@ -78790,6 +80174,19 @@
 "categories": [
 "宗教背景特性",
 "背景特性"
+]
+},
+{
+"title": "守护天使",
+"file": "wikitext/main/守护天使.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 5",
+"怪物",
+"构装体"
 ]
 },
 {
@@ -79570,6 +80967,18 @@
 ]
 },
 {
+"title": "安米芮",
+"file": "wikitext/main/安米芮.wiki",
+"types": [
+"creatures"
+],
+"ai": true,
+"categories": [
+"NPC",
+"待汉化"
+]
+},
+{
 "title": "安菲瑟",
 "file": "wikitext/main/安菲瑟.wiki",
 "types": [
@@ -80105,6 +81514,18 @@
 ]
 },
 {
+"title": "宗师表演(专长)",
+"file": "wikitext/main/宗师表演(专长).wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"组织专长"
+]
+},
+{
 "title": "宗师通灵者",
 "file": "wikitext/main/宗师通灵者.wiki",
 "types": [],
@@ -80137,6 +81558,17 @@
 "AI翻译",
 "信念背景特性",
 "背景特性"
+]
+},
+{
+"title": "宗教朝圣者",
+"file": "wikitext/main/宗教朝圣者.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
 ]
 },
 {
@@ -80369,8 +81801,17 @@
 ]
 },
 {
-"title": "定向卸武",
-"file": "wikitext/main/定向卸武.wiki",
+"title": "定向炸弹",
+"file": "wikitext/main/定向炸弹.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"科研发现"
+]
+},
+{
+"title": "定向缴械",
+"file": "wikitext/main/定向缴械.wiki",
 "types": [
 "feats"
 ],
@@ -80378,15 +81819,6 @@
 "categories": [
 "专长",
 "战斗专长"
-]
-},
-{
-"title": "定向炸弹",
-"file": "wikitext/main/定向炸弹.wiki",
-"types": [],
-"ai": false,
-"categories": [
-"科研发现"
 ]
 },
 {
@@ -80546,6 +81978,16 @@
 ]
 },
 {
+"title": "宝石与珠宝",
+"file": "wikitext/main/宝石与珠宝.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"扩展规则"
+]
+},
+{
 "title": "宝石收藏家",
 "file": "wikitext/main/宝石收藏家.wiki",
 "types": [
@@ -80607,6 +82049,89 @@
 "奇物",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "宝藏生成器",
+"file": "wikitext/main/宝藏生成器.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"扩展规则"
+]
+},
+{
+"title": "宝藏生成器/在线生成",
+"file": "wikitext/main/宝藏生成器_1_在线生成.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"扩展规则"
+]
+},
+{
+"title": "宝藏生成器/宝藏类型",
+"file": "wikitext/main/宝藏生成器_1_宝藏类型.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"扩展规则"
+]
+},
+{
+"title": "宝藏生成器/随机卷轴",
+"file": "wikitext/main/宝藏生成器_1_随机卷轴.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"扩展规则"
+]
+},
+{
+"title": "宝藏生成器/随机奇物",
+"file": "wikitext/main/宝藏生成器_1_随机奇物.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"扩展规则"
+]
+},
+{
+"title": "宝藏生成器/随机戒指、权杖与法杖",
+"file": "wikitext/main/宝藏生成器_1_随机戒指、权杖与法杖.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"扩展规则"
+]
+},
+{
+"title": "宝藏生成器/随机护甲、武器与药水",
+"file": "wikitext/main/宝藏生成器_1_随机护甲、武器与药水.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"扩展规则"
+]
+},
+{
+"title": "宝藏生成器/随机魔杖",
+"file": "wikitext/main/宝藏生成器_1_随机魔杖.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"扩展规则"
+]
+},
+{
+"title": "宝藏生成器/随机魔法防具与武器",
+"file": "wikitext/main/宝藏生成器_1_随机魔法防具与武器.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"扩展规则"
 ]
 },
 {
@@ -81070,6 +82595,18 @@
 "套装",
 "物品",
 "装备"
+]
+},
+{
+"title": "客户",
+"file": "wikitext/main/客户.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -82199,18 +83736,6 @@
 ]
 },
 {
-"title": "寒冷光环",
-"file": "wikitext/main/寒冷光环.wiki",
-"types": [
-"spells"
-],
-"ai": false,
-"categories": [
-"变化系法术",
-"法术"
-]
-},
-{
 "title": "寒冷扩增",
 "file": "wikitext/main/寒冷扩增.wiki",
 "types": [
@@ -82222,8 +83747,20 @@
 ]
 },
 {
-"title": "寒冻灵光",
-"file": "wikitext/main/寒冻灵光.wiki",
+"title": "寒冷灵氲",
+"file": "wikitext/main/寒冷灵氲.wiki",
+"types": [
+"spells"
+],
+"ai": false,
+"categories": [
+"变化系法术",
+"法术"
+]
+},
+{
+"title": "寒冻灵氲",
+"file": "wikitext/main/寒冻灵氲.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -83101,6 +84638,18 @@
 ]
 },
 {
+"title": "导师引导",
+"file": "wikitext/main/导师引导.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "导引精气",
 "file": "wikitext/main/导引精气.wiki",
 "types": [
@@ -83789,6 +85338,18 @@
 "奇物",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "小而致命",
+"file": "wikitext/main/小而致命.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -84722,7 +86283,7 @@
 "types": [
 "creatures"
 ],
-"ai": true,
+"ai": false,
 "categories": [
 "AI翻译",
 "CR 13",
@@ -85175,6 +86736,15 @@
 ]
 },
 {
+"title": "屏息(怪物能力)",
+"file": "wikitext/main/屏息(怪物能力).wiki",
+"types": [],
+"ai": false,
+"categories": [
+"通用怪物规则"
+]
+},
+{
 "title": "屏息(盗贼天赋)",
 "file": "wikitext/main/屏息(盗贼天赋).wiki",
 "types": [],
@@ -85387,8 +86957,8 @@
 ]
 },
 {
-"title": "屠龙灵光",
-"file": "wikitext/main/屠龙灵光.wiki",
+"title": "屠龙灵氲",
+"file": "wikitext/main/屠龙灵氲.wiki",
 "types": [
 "feats"
 ],
@@ -86330,8 +87900,8 @@
 ]
 },
 {
-"title": "崩坏灵光",
-"file": "wikitext/main/崩坏灵光.wiki",
+"title": "崩坏灵氲",
+"file": "wikitext/main/崩坏灵氲.wiki",
 "types": [
 "feats"
 ],
@@ -86593,6 +88163,18 @@
 "categories": [
 "AI翻译",
 "NPC"
+]
+},
+{
+"title": "工具优化师",
+"file": "wikitext/main/工具优化师.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -87763,6 +89345,19 @@
 ]
 },
 {
+"title": "巨圣甲虫",
+"file": "wikitext/main/巨圣甲虫.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 6",
+"怪物",
+"虫类"
+]
+},
+{
 "title": "巨地蟋蟀",
 "file": "wikitext/main/巨地蟋蟀.wiki",
 "types": [
@@ -88091,6 +89686,19 @@
 ]
 },
 {
+"title": "巨毛毡苔",
+"file": "wikitext/main/巨毛毡苔.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 12",
+"怪物",
+"植物"
+]
+},
+{
 "title": "巨水母",
 "file": "wikitext/main/巨水母.wiki",
 "types": [
@@ -88122,7 +89730,7 @@
 "types": [
 "creatures"
 ],
-"ai": true,
+"ai": false,
 "categories": [
 "AI翻译",
 "CR 10",
@@ -88340,6 +89948,18 @@
 ]
 },
 {
+"title": "巨物猎手",
+"file": "wikitext/main/巨物猎手.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "巨狼蛛",
 "file": "wikitext/main/巨狼蛛.wiki",
 "types": [
@@ -88377,6 +89997,19 @@
 ]
 },
 {
+"title": "巨猛蚁",
+"file": "wikitext/main/巨猛蚁.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 6",
+"怪物",
+"虫类"
+]
+},
+{
 "title": "巨甲虫",
 "file": "wikitext/main/巨甲虫.wiki",
 "types": [
@@ -88385,6 +90018,19 @@
 "ai": false,
 "categories": [
 "动物伙伴"
+]
+},
+{
+"title": "巨白蚁",
+"file": "wikitext/main/巨白蚁.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 3",
+"怪物",
+"虫类"
 ]
 },
 {
@@ -88859,7 +90505,7 @@
 "types": [
 "creatures"
 ],
-"ai": true,
+"ai": false,
 "categories": [
 "AI翻译",
 "CR 3",
@@ -90433,46 +92079,6 @@
 ]
 },
 {
-"title": "巴弗灭",
-"file": "wikitext/main/巴弗灭.wiki",
-"types": [
-"deities"
-],
-"ai": true,
-"categories": [
-"神祇",
-"魔神"
-]
-},
-{
-"title": "巴弗灭之血",
-"file": "wikitext/main/巴弗灭之血.wiki",
-"types": [
-"magic_items"
-],
-"ai": true,
-"categories": [
-"AI翻译",
-"奇物",
-"物品",
-"魔法物品"
-]
-},
-{
-"title": "巴弗灭先知",
-"file": "wikitext/main/巴弗灭先知.wiki",
-"types": [
-"creatures"
-],
-"ai": true,
-"categories": [
-"AI翻译",
-"CR 13",
-"人形怪物",
-"怪物"
-]
-},
-{
 "title": "巴拉尼之步",
 "file": "wikitext/main/巴拉尼之步.wiki",
 "types": [
@@ -90591,17 +92197,29 @@
 ]
 },
 {
-"title": "巴霸魔胡须",
-"file": "wikitext/main/巴霸魔胡须.wiki",
+"title": "巴风特",
+"file": "wikitext/main/巴风特.wiki",
 "types": [
-"weapons"
+"deities"
+],
+"ai": true,
+"categories": [
+"神祇",
+"魔神"
+]
+},
+{
+"title": "巴风特之血",
+"file": "wikitext/main/巴风特之血.wiki",
+"types": [
+"magic_items"
 ],
 "ai": true,
 "categories": [
 "AI翻译",
-"异种武器",
-"武器",
-"物品"
+"奇物",
+"物品",
+"魔法物品"
 ]
 },
 {
@@ -90614,6 +92232,20 @@
 "categories": [
 "变化系法术",
 "法术"
+]
+},
+{
+"title": "巴风特先知",
+"file": "wikitext/main/巴风特先知.wiki",
+"types": [
+"creatures"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"CR 13",
+"人形怪物",
+"怪物"
 ]
 },
 {
@@ -91008,6 +92640,18 @@
 "CR 21",
 "怪物",
 "魔法兽"
+]
+},
+{
+"title": "希拉",
+"file": "wikitext/main/希拉.wiki",
+"types": [
+"creatures"
+],
+"ai": true,
+"categories": [
+"NPC",
+"待汉化"
 ]
 },
 {
@@ -92360,6 +94004,18 @@
 ]
 },
 {
+"title": "幸运女士的引导",
+"file": "wikitext/main/幸运女士的引导.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "幸运往生棋",
 "file": "wikitext/main/幸运往生棋.wiki",
 "types": [
@@ -93459,8 +95115,8 @@
 ]
 },
 {
-"title": "幻灵/超常灵光",
-"file": "wikitext/main/幻灵_1_超常灵光.wiki",
+"title": "幻灵/超常灵氲",
+"file": "wikitext/main/幻灵_1_超常灵氲.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -93679,6 +95335,15 @@
 "ai": false,
 "categories": [
 "专长"
+]
+},
+{
+"title": "幻灵进化速查",
+"file": "wikitext/main/幻灵进化速查.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"幻灵进化"
 ]
 },
 {
@@ -94072,17 +95737,6 @@
 ]
 },
 {
-"title": "幼体生物",
-"file": "wikitext/main/幼体生物.wiki",
-"types": [
-"creature_templates"
-],
-"ai": false,
-"categories": [
-"怪物模板"
-]
-},
-{
 "title": "幼体甲伏怪",
 "file": "wikitext/main/幼体甲伏怪.wiki",
 "types": [
@@ -94094,6 +95748,17 @@
 "CR 1",
 "异怪",
 "怪物"
+]
+},
+{
+"title": "幼年生物",
+"file": "wikitext/main/幼年生物.wiki",
+"types": [
+"creature_templates"
+],
+"ai": false,
+"categories": [
+"怪物模板"
 ]
 },
 {
@@ -95377,6 +97042,18 @@
 ]
 },
 {
+"title": "应变者",
+"file": "wikitext/main/应变者.wiki",
+"types": [
+"traits"
+],
+"ai": false,
+"categories": [
+"战斗背景特性",
+"背景特性"
+]
+},
+{
 "title": "应得休憩权杖",
 "file": "wikitext/main/应得休憩权杖.wiki",
 "types": [
@@ -95701,6 +97378,18 @@
 "categories": [
 "专长",
 "战斗专长"
+]
+},
+{
+"title": "废墟施法者",
+"file": "wikitext/main/废墟施法者.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -96045,6 +97734,19 @@
 ]
 },
 {
+"title": "延迟法术",
+"file": "wikitext/main/延迟法术.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"超魔专长"
+]
+},
+{
 "title": "延迟爆裂火球",
 "file": "wikitext/main/延迟爆裂火球.wiki",
 "types": [
@@ -96157,6 +97859,18 @@
 ]
 },
 {
+"title": "开启引能",
+"file": "wikitext/main/开启引能.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "开启死亡通路",
 "file": "wikitext/main/开启死亡通路.wiki",
 "types": [
@@ -96266,6 +97980,15 @@
 "ai": true,
 "categories": [
 "书目"
+]
+},
+{
+"title": "开放游戏许可",
+"file": "wikitext/main/开放游戏许可.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"核心规则"
 ]
 },
 {
@@ -96525,15 +98248,6 @@
 "戒指",
 "物品",
 "魔法物品"
-]
-},
-{
-"title": "异形意识",
-"file": "wikitext/main/异形意识.wiki",
-"types": [],
-"ai": false,
-"categories": [
-"进化"
 ]
 },
 {
@@ -97361,8 +99075,8 @@
 ]
 },
 {
-"title": "异能灵光镜",
-"file": "wikitext/main/异能灵光镜.wiki",
+"title": "异能灵氲镜",
+"file": "wikitext/main/异能灵氲镜.wiki",
 "types": [
 "magic_items"
 ],
@@ -98892,18 +100606,6 @@
 ]
 },
 {
-"title": "弱效造物术",
-"file": "wikitext/main/弱效造物术.wiki",
-"types": [
-"spells"
-],
-"ai": false,
-"categories": [
-"咒法系法术",
-"法术"
-]
-},
-{
 "title": "弱效闹鬼",
 "file": "wikitext/main/弱效闹鬼.wiki",
 "types": [
@@ -99013,6 +100715,18 @@
 "死灵系法术",
 "法术",
 "神话法术"
+]
+},
+{
+"title": "弱重力适应",
+"file": "wikitext/main/弱重力适应.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -99648,6 +101362,18 @@
 ]
 },
 {
+"title": "强力枝翼",
+"file": "wikitext/main/强力枝翼.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "强力毒药",
 "file": "wikitext/main/强力毒药.wiki",
 "types": [],
@@ -99778,6 +101504,18 @@
 ]
 },
 {
+"title": "强化战团",
+"file": "wikitext/main/强化战团.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "强化抗能",
 "file": "wikitext/main/强化抗能.wiki",
 "types": [
@@ -99789,6 +101527,18 @@
 "防具附魔",
 "魔法物品",
 "魔法防具"
+]
+},
+{
+"title": "强化星辰漫游",
+"file": "wikitext/main/强化星辰漫游.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -101393,6 +103143,19 @@
 ]
 },
 {
+"title": "影界白蚁",
+"file": "wikitext/main/影界白蚁.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 3",
+"异界生物",
+"怪物"
+]
+},
+{
 "title": "影缘刺青",
 "file": "wikitext/main/影缘刺青.wiki",
 "types": [
@@ -102620,6 +104383,18 @@
 ]
 },
 {
+"title": "德洛魔导师",
+"file": "wikitext/main/德洛魔导师.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "德维兹达瘟疫",
 "file": "wikitext/main/德维兹达瘟疫.wiki",
 "types": [
@@ -103594,6 +105369,15 @@
 "categories": [
 "死灵系法术",
 "法术"
+]
+},
+{
+"title": "心灵窃贼",
+"file": "wikitext/main/心灵窃贼.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"变体职业"
 ]
 },
 {
@@ -105270,6 +107054,18 @@
 ]
 },
 {
+"title": "快速设陷",
+"file": "wikitext/main/快速设陷.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "快速转进",
 "file": "wikitext/main/快速转进.wiki",
 "types": [
@@ -106358,8 +108154,8 @@
 ]
 },
 {
-"title": "思维静止灵光",
-"file": "wikitext/main/思维静止灵光.wiki",
+"title": "思维静止灵氲",
+"file": "wikitext/main/思维静止灵氲.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -106956,6 +108752,18 @@
 ]
 },
 {
+"title": "怪物伙伴",
+"file": "wikitext/main/怪物伙伴.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "怪物伪装",
 "file": "wikitext/main/怪物伪装.wiki",
 "types": [
@@ -107022,6 +108830,35 @@
 ]
 },
 {
+"title": "怪物图鉴/导言",
+"file": "wikitext/main/怪物图鉴_1_导言.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"扩展规则"
+]
+},
+{
+"title": "怪物图鉴/能力索引",
+"file": "wikitext/main/怪物图鉴_1_能力索引.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"怪物图鉴"
+]
+},
+{
+"title": "怪物图鉴/遭遇表",
+"file": "wikitext/main/怪物图鉴_1_遭遇表.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"扩展规则"
+]
+},
+{
 "title": "怪物图鉴1",
 "file": "wikitext/main/怪物图鉴1.wiki",
 "types": [],
@@ -107042,6 +108879,16 @@
 ]
 },
 {
+"title": "怪物图鉴2/导言",
+"file": "wikitext/main/怪物图鉴2_1_导言.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"扩展规则"
+]
+},
+{
 "title": "怪物图鉴3",
 "file": "wikitext/main/怪物图鉴3.wiki",
 "types": [
@@ -107050,6 +108897,16 @@
 "ai": true,
 "categories": [
 "书目"
+]
+},
+{
+"title": "怪物图鉴3/导言",
+"file": "wikitext/main/怪物图鉴3_1_导言.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"扩展规则"
 ]
 },
 {
@@ -107075,6 +108932,16 @@
 ]
 },
 {
+"title": "怪物图鉴5/导言",
+"file": "wikitext/main/怪物图鉴5_1_导言.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"扩展规则"
+]
+},
+{
 "title": "怪物图鉴6",
 "file": "wikitext/main/怪物图鉴6.wiki",
 "types": [
@@ -107083,6 +108950,16 @@
 "ai": true,
 "categories": [
 "书目"
+]
+},
+{
+"title": "怪物图鉴6/导言",
+"file": "wikitext/main/怪物图鉴6_1_导言.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"扩展规则"
 ]
 },
 {
@@ -108298,33 +110175,6 @@
 ]
 },
 {
-"title": "恐狼",
-"file": "wikitext/main/恐狼.wiki",
-"types": [
-"creatures"
-],
-"ai": false,
-"categories": [
-"CR 3",
-"动物",
-"怪物"
-]
-},
-{
-"title": "恐狼(物品)",
-"file": "wikitext/main/恐狼(物品).wiki",
-"types": [
-"equipment"
-],
-"ai": true,
-"categories": [
-"AI翻译",
-"坐骑与宠物",
-"物品",
-"装备"
-]
-},
-{
 "title": "恐虫",
 "file": "wikitext/main/恐虫.wiki",
 "types": [
@@ -108682,6 +110532,18 @@
 "categories": [
 "派系背景特性",
 "背景特性"
+]
+},
+{
+"title": "恭顺猎物",
+"file": "wikitext/main/恭顺猎物.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -109418,6 +111280,18 @@
 ]
 },
 {
+"title": "恶霸品种",
+"file": "wikitext/main/恶霸品种.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "恶霸透镜",
 "file": "wikitext/main/恶霸透镜.wiki",
 "types": [
@@ -109648,6 +111522,17 @@
 "categories": [
 "AI翻译",
 "怪物模板"
+]
+},
+{
+"title": "恶魔占据",
+"file": "wikitext/main/恶魔占据.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
 ]
 },
 {
@@ -110191,19 +112076,6 @@
 ]
 },
 {
-"title": "恶魔，巴布魔",
-"file": "wikitext/main/恶魔，巴布魔.wiki",
-"types": [
-"creatures"
-],
-"ai": false,
-"categories": [
-"CR 6",
-"异界生物",
-"怪物"
-]
-},
-{
 "title": "恶魔，巴洛炎魔",
 "file": "wikitext/main/恶魔，巴洛炎魔.wiki",
 "types": [
@@ -110293,6 +112165,19 @@
 "categories": [
 "AI翻译",
 "CR 4",
+"异界生物",
+"怪物"
+]
+},
+{
+"title": "恶魔，暴怖魔",
+"file": "wikitext/main/恶魔，暴怖魔.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 6",
 "异界生物",
 "怪物"
 ]
@@ -110441,6 +112326,19 @@
 "ai": false,
 "categories": [
 "CR 17",
+"异界生物",
+"怪物"
+]
+},
+{
+"title": "恶魔，蛾翼魔",
+"file": "wikitext/main/恶魔，蛾翼魔.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 13",
 "异界生物",
 "怪物"
 ]
@@ -111078,7 +112976,7 @@
 "title": "情感羁绊/悔恨灵",
 "file": "wikitext/main/情感羁绊_1_悔恨灵.wiki",
 "types": [],
-"ai": false,
+"ai": true,
 "categories": [
 "情感羁绊"
 ]
@@ -111114,7 +113012,7 @@
 "title": "情感羁绊/狂想灵",
 "file": "wikitext/main/情感羁绊_1_狂想灵.wiki",
 "types": [],
-"ai": false,
+"ai": true,
 "categories": [
 "情感羁绊"
 ]
@@ -111186,8 +113084,8 @@
 ]
 },
 {
-"title": "情绪灵光",
-"file": "wikitext/main/情绪灵光.wiki",
+"title": "情绪灵氲",
+"file": "wikitext/main/情绪灵氲.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -111383,6 +113281,18 @@
 ]
 },
 {
+"title": "惊惧暗示",
+"file": "wikitext/main/惊惧暗示.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "惊惧突进",
 "file": "wikitext/main/惊惧突进.wiki",
 "types": [
@@ -111438,6 +113348,19 @@
 ],
 "ai": false,
 "categories": [
+"专长",
+"战斗专长"
+]
+},
+{
+"title": "惊骇咆哮",
+"file": "wikitext/main/惊骇咆哮.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
 "专长",
 "战斗专长"
 ]
@@ -112572,6 +114495,17 @@
 ]
 },
 {
+"title": "感染性武器",
+"file": "wikitext/main/感染性武器.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
+]
+},
+{
 "title": "感染法术",
 "file": "wikitext/main/感染法术.wiki",
 "types": [
@@ -112775,6 +114709,17 @@
 "categories": [
 "专长",
 "战斗专长"
+]
+},
+{
+"title": "感知金属与矿物",
+"file": "wikitext/main/感知金属与矿物.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
 ]
 },
 {
@@ -113437,7 +115382,7 @@
 "types": [
 "familiar_archetypes"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "魔宠变体"
 ]
@@ -114132,6 +116077,18 @@
 ]
 },
 {
+"title": "战团施法者",
+"file": "wikitext/main/战团施法者.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "战地催眠",
 "file": "wikitext/main/战地催眠.wiki",
 "types": [],
@@ -114436,6 +116393,16 @@
 "ai": false,
 "categories": [
 "反英灵"
+]
+},
+{
+"title": "战役系统",
+"file": "wikitext/main/战役系统.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"扩展规则"
 ]
 },
 {
@@ -115665,6 +117632,18 @@
 ]
 },
 {
+"title": "战首狂暴",
+"file": "wikitext/main/战首狂暴.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "战魂袋",
 "file": "wikitext/main/战魂袋.wiki",
 "types": [
@@ -115782,6 +117761,19 @@
 ]
 },
 {
+"title": "房角石(怪物)",
+"file": "wikitext/main/房角石(怪物).wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 11",
+"动物",
+"怪物"
+]
+},
+{
 "title": "房间和团队",
 "file": "wikitext/main/房间和团队.wiki",
 "types": [],
@@ -115791,8 +117783,8 @@
 ]
 },
 {
-"title": "所有权灵光",
-"file": "wikitext/main/所有权灵光.wiki",
+"title": "所有权灵氲",
+"file": "wikitext/main/所有权灵氲.wiki",
 "types": [
 "spells"
 ],
@@ -116053,6 +118045,18 @@
 "物品",
 "科技物品",
 "科技装置"
+]
+},
+{
+"title": "手榴弹专家",
+"file": "wikitext/main/手榴弹专家.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -116544,6 +118548,18 @@
 ]
 },
 {
+"title": "托维特卫士",
+"file": "wikitext/main/托维特卫士.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "托菲特",
 "file": "wikitext/main/托菲特.wiki",
 "types": [
@@ -116865,6 +118881,18 @@
 ]
 },
 {
+"title": "扭曲心智",
+"file": "wikitext/main/扭曲心智.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "扭曲恐惧",
 "file": "wikitext/main/扭曲恐惧.wiki",
 "types": [],
@@ -116983,6 +119011,18 @@
 "奇物",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "扭曲血肉",
+"file": "wikitext/main/扭曲血肉.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -117110,6 +119150,20 @@
 "权杖",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "扰敌射击",
+"file": "wikitext/main/扰敌射击.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"团队专长",
+"战斗专长"
 ]
 },
 {
@@ -117257,6 +119311,18 @@
 "categories": [
 "专长",
 "战斗专长"
+]
+},
+{
+"title": "找出瑕疵",
+"file": "wikitext/main/找出瑕疵.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -117487,6 +119553,18 @@
 "categories": [
 "变化系法术",
 "法术"
+]
+},
+{
+"title": "抄写法术方程",
+"file": "wikitext/main/抄写法术方程.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -118771,6 +120849,18 @@
 ]
 },
 {
+"title": "抢占优势",
+"file": "wikitext/main/抢占优势.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"战斗专长"
+]
+},
+{
 "title": "抢夺武器",
 "file": "wikitext/main/抢夺武器.wiki",
 "types": [],
@@ -119475,6 +121565,18 @@
 ]
 },
 {
+"title": "报复跌倒",
+"file": "wikitext/main/报复跌倒.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "报复鱼叉",
 "file": "wikitext/main/报复鱼叉.wiki",
 "types": [
@@ -119651,6 +121753,18 @@
 "AI翻译",
 "战役背景特性",
 "背景特性"
+]
+},
+{
+"title": "抵御精灵魔法",
+"file": "wikitext/main/抵御精灵魔法.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -119985,6 +122099,19 @@
 ]
 },
 {
+"title": "拆解魔法物品",
+"file": "wikitext/main/拆解魔法物品.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"组织专长"
+]
+},
+{
 "title": "拆除小队",
 "file": "wikitext/main/拆除小队.wiki",
 "types": [
@@ -120135,17 +122262,15 @@
 ]
 },
 {
-"title": "拉姆希金",
-"file": "wikitext/main/拉姆希金.wiki",
+"title": "拉哈多姆袪魔师",
+"file": "wikitext/main/拉哈多姆袪魔师.wiki",
 "types": [
-"creatures"
+"feats"
 ],
 "ai": true,
 "categories": [
 "AI翻译",
-"CR 3",
-"异界生物",
-"怪物"
+"专长"
 ]
 },
 {
@@ -120356,6 +122481,18 @@
 "ai": false,
 "categories": [
 "NPC"
+]
+},
+{
+"title": "拉玛什图印记",
+"file": "wikitext/main/拉玛什图印记.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -121016,6 +123153,18 @@
 ]
 },
 {
+"title": "拥抱黑暗精类",
+"file": "wikitext/main/拥抱黑暗精类.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"故事专长"
+]
+},
+{
 "title": "拥枪侍从",
 "file": "wikitext/main/拥枪侍从.wiki",
 "types": [],
@@ -121365,6 +123514,17 @@
 ]
 },
 {
+"title": "拾荒者之幸",
+"file": "wikitext/main/拾荒者之幸.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
+]
+},
+{
 "title": "拾荒者之石",
 "file": "wikitext/main/拾荒者之石.wiki",
 "types": [
@@ -121401,6 +123561,19 @@
 "ai": false,
 "categories": [
 "专长"
+]
+},
+{
+"title": "拿着这个",
+"file": "wikitext/main/拿着这个.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"团队专长"
 ]
 },
 {
@@ -121545,6 +123718,18 @@
 "categories": [
 "宇宙背景特性",
 "背景特性"
+]
+},
+{
+"title": "持灯侍从",
+"file": "wikitext/main/持灯侍从.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -121788,6 +123973,19 @@
 ]
 },
 {
+"title": "指定对头",
+"file": "wikitext/main/指定对头.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"团队专长"
+]
+},
+{
 "title": "指导师",
 "file": "wikitext/main/指导师.wiki",
 "types": [
@@ -121829,6 +124027,18 @@
 "ai": false,
 "categories": [
 "调查员天赋"
+]
+},
+{
+"title": "指引前路",
+"file": "wikitext/main/指引前路.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"故事专长"
 ]
 },
 {
@@ -122267,6 +124477,18 @@
 "ai": false,
 "categories": [
 "杀手天赋"
+]
+},
+{
+"title": "振奋一击",
+"file": "wikitext/main/振奋一击.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -122751,8 +124973,8 @@
 ]
 },
 {
-"title": "授予灵光",
-"file": "wikitext/main/授予灵光.wiki",
+"title": "授予灵氲",
+"file": "wikitext/main/授予灵氲.wiki",
 "types": [
 "spells"
 ],
@@ -122818,6 +125040,24 @@
 "ai": false,
 "categories": [
 "掉链召唤师"
+]
+},
+{
+"title": "掉链幻灵/不定形体",
+"file": "wikitext/main/掉链幻灵_1_不定形体.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"幻灵进化"
+]
+},
+{
+"title": "掉链幻灵/中等异能魔法",
+"file": "wikitext/main/掉链幻灵_1_中等异能魔法.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"幻灵进化"
 ]
 },
 {
@@ -122938,6 +125178,15 @@
 ]
 },
 {
+"title": "掉链幻灵/基础异能魔法",
+"file": "wikitext/main/掉链幻灵_1_基础异能魔法.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"幻灵进化"
+]
+},
+{
 "title": "掉链幻灵/天使",
 "file": "wikitext/main/掉链幻灵_1_天使.wiki",
 "types": [],
@@ -123007,6 +125256,15 @@
 "ai": false,
 "categories": [
 "幻灵亚种"
+]
+},
+{
+"title": "掉链幻灵/异形意识",
+"file": "wikitext/main/掉链幻灵_1_异形意识.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"幻灵进化"
 ]
 },
 {
@@ -123262,6 +125520,15 @@
 ]
 },
 {
+"title": "掉链幻灵/疾病",
+"file": "wikitext/main/掉链幻灵_1_疾病.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"幻灵进化"
+]
+},
+{
 "title": "掉链幻灵/盲感",
 "file": "wikitext/main/掉链幻灵_1_盲感.wiki",
 "types": [],
@@ -123295,6 +125562,15 @@
 "ai": false,
 "categories": [
 "幻灵亚种"
+]
+},
+{
+"title": "掉链幻灵/究极异能魔法",
+"file": "wikitext/main/掉链幻灵_1_究极异能魔法.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"幻灵进化"
 ]
 },
 {
@@ -123388,6 +125664,15 @@
 ]
 },
 {
+"title": "掉链幻灵/血之狂乱",
+"file": "wikitext/main/掉链幻灵_1_血之狂乱.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"幻灵进化"
+]
+},
+{
 "title": "掉链幻灵/触及",
 "file": "wikitext/main/掉链幻灵_1_触及.wiki",
 "types": [],
@@ -123399,6 +125684,15 @@
 {
 "title": "掉链幻灵/触手",
 "file": "wikitext/main/掉链幻灵_1_触手.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"幻灵进化"
+]
+},
+{
+"title": "掉链幻灵/触手团",
+"file": "wikitext/main/掉链幻灵_1_触手团.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -123489,6 +125783,15 @@
 {
 "title": "掉链幻灵/骑乘",
 "file": "wikitext/main/掉链幻灵_1_骑乘.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"幻灵进化"
+]
+},
+{
+"title": "掉链幻灵/高等异能魔法",
+"file": "wikitext/main/掉链幻灵_1_高等异能魔法.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -123867,6 +126170,19 @@
 ]
 },
 {
+"title": "掘金蛇鼬",
+"file": "wikitext/main/掘金蛇鼬.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 1/2",
+"怪物",
+"魔法兽"
+]
+},
+{
 "title": "掠劫亡龙",
 "file": "wikitext/main/掠劫亡龙.wiki",
 "types": [
@@ -124212,6 +126528,18 @@
 "ai": true,
 "categories": [
 "书目"
+]
+},
+{
+"title": "探索者协会盟友",
+"file": "wikitext/main/探索者协会盟友.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -125072,6 +127400,17 @@
 ]
 },
 {
+"title": "掩藏气味",
+"file": "wikitext/main/掩藏气味.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
+]
+},
+{
 "title": "掩迹鞋底",
 "file": "wikitext/main/掩迹鞋底.wiki",
 "types": [
@@ -125095,6 +127434,18 @@
 "categories": [
 "信念背景特性",
 "背景特性"
+]
+},
+{
+"title": "掩饰卑劣",
+"file": "wikitext/main/掩饰卑劣.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -125299,6 +127650,19 @@
 "ai": false,
 "categories": [
 "盗贼天赋"
+]
+},
+{
+"title": "提亚纳克",
+"file": "wikitext/main/提亚纳克.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 6",
+"不死生物",
+"怪物"
 ]
 },
 {
@@ -126126,6 +128490,18 @@
 ]
 },
 {
+"title": "摩尔苏恩纪律",
+"file": "wikitext/main/摩尔苏恩纪律.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "摩尔苏恩防御者",
 "file": "wikitext/main/摩尔苏恩防御者.wiki",
 "types": [],
@@ -126180,19 +128556,6 @@
 ]
 },
 {
-"title": "摩洛克(怪物)",
-"file": "wikitext/main/摩洛克(怪物).wiki",
-"types": [
-"creatures"
-],
-"ai": true,
-"categories": [
-"CR 2",
-"人形怪物",
-"怪物"
-]
-},
-{
 "title": "摩洛克(魔法物品)",
 "file": "wikitext/main/摩洛克(魔法物品).wiki",
 "types": [
@@ -126207,17 +128570,15 @@
 ]
 },
 {
-"title": "摩洛克蜂拥者部队",
-"file": "wikitext/main/摩洛克蜂拥者部队.wiki",
+"title": "摩莉甘之裹",
+"file": "wikitext/main/摩莉甘之裹.wiki",
 "types": [
-"creatures"
+"feats"
 ],
 "ai": true,
 "categories": [
 "AI翻译",
-"CR 7",
-"人形怪物",
-"怪物"
+"专长"
 ]
 },
 {
@@ -127817,8 +130178,8 @@
 ]
 },
 {
-"title": "改写灵光",
-"file": "wikitext/main/改写灵光.wiki",
+"title": "改写灵氲",
+"file": "wikitext/main/改写灵氲.wiki",
 "types": [
 "spells"
 ],
@@ -127889,6 +130250,32 @@
 "ai": false,
 "categories": [
 "侠客天赋"
+]
+},
+{
+"title": "改装大师",
+"file": "wikitext/main/改装大师.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
+]
+},
+{
+"title": "改装教官",
+"file": "wikitext/main/改装教官.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
 ]
 },
 {
@@ -128225,6 +130612,20 @@
 ]
 },
 {
+"title": "放马过来",
+"file": "wikitext/main/放马过来.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长",
+"组织专长"
+]
+},
+{
 "title": "故事专长",
 "file": "wikitext/main/故事专长.wiki",
 "types": [],
@@ -128289,8 +130690,8 @@
 ]
 },
 {
-"title": "效率灵光",
-"file": "wikitext/main/效率灵光.wiki",
+"title": "效率灵氲",
+"file": "wikitext/main/效率灵氲.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -128957,6 +131358,18 @@
 ]
 },
 {
+"title": "散播恐怖",
+"file": "wikitext/main/散播恐怖.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "散星击",
 "file": "wikitext/main/散星击.wiki",
 "types": [
@@ -129249,6 +131662,18 @@
 ]
 },
 {
+"title": "文字狂怒",
+"file": "wikitext/main/文字狂怒.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "文德诺翼蛇",
 "file": "wikitext/main/文德诺翼蛇.wiki",
 "types": [
@@ -129324,6 +131749,18 @@
 ]
 },
 {
+"title": "文雅食尸鬼",
+"file": "wikitext/main/文雅食尸鬼.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "斑斓彩裙",
 "file": "wikitext/main/斑斓彩裙.wiki",
 "types": [
@@ -129334,6 +131771,19 @@
 "奇物",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "斑斓龙",
+"file": "wikitext/main/斑斓龙.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 12",
+"怪物",
+"龙类"
 ]
 },
 {
@@ -129818,6 +132268,29 @@
 "特殊魔法盾牌",
 "魔法物品",
 "魔法防具"
+]
+},
+{
+"title": "断刺防御",
+"file": "wikitext/main/断刺防御.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"战斗专长"
+]
+},
+{
+"title": "断喉索",
+"file": "wikitext/main/断喉索.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
 ]
 },
 {
@@ -130706,6 +133179,19 @@
 ]
 },
 {
+"title": "施法导管",
+"file": "wikitext/main/施法导管.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"团队专长"
+]
+},
+{
 "title": "施法服务",
 "file": "wikitext/main/施法服务.wiki",
 "types": [
@@ -131372,6 +133858,18 @@
 ]
 },
 {
+"title": "无以时计伯爵",
+"file": "wikitext/main/无以时计伯爵.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"宫廷头衔专长"
+]
+},
+{
 "title": "无伤者",
 "file": "wikitext/main/无伤者.wiki",
 "types": [
@@ -131609,6 +134107,19 @@
 ]
 },
 {
+"title": "无名仆从",
+"file": "wikitext/main/无名仆从.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"组织专长"
+]
+},
+{
 "title": "无名引路人",
 "file": "wikitext/main/无名引路人.wiki",
 "types": [],
@@ -131828,6 +134339,18 @@
 "categories": [
 "战斗背景特性",
 "背景特性"
+]
+},
+{
+"title": "无定形魔宠",
+"file": "wikitext/main/无定形魔宠.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -132275,6 +134798,18 @@
 ]
 },
 {
+"title": "无情屠夫",
+"file": "wikitext/main/无情屠夫.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"伟业专长"
+]
+},
+{
 "title": "无情律师",
 "file": "wikitext/main/无情律师.wiki",
 "types": [
@@ -132342,6 +134877,18 @@
 ]
 },
 {
+"title": "无情精准",
+"file": "wikitext/main/无情精准.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "无情追猎者",
 "file": "wikitext/main/无情追猎者.wiki",
 "types": [
@@ -132359,6 +134906,18 @@
 "ai": false,
 "categories": [
 "盗贼天赋"
+]
+},
+{
+"title": "无情魔法",
+"file": "wikitext/main/无情魔法.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -132477,6 +135036,17 @@
 {
 "title": "无拘狂暴(专长)",
 "file": "wikitext/main/无拘狂暴(专长).wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
+]
+},
+{
+"title": "无拘英勇",
+"file": "wikitext/main/无拘英勇.wiki",
 "types": [
 "feats"
 ],
@@ -132764,8 +135334,8 @@
 ]
 },
 {
-"title": "无畏灵光",
-"file": "wikitext/main/无畏灵光.wiki",
+"title": "无畏灵氲",
+"file": "wikitext/main/无畏灵氲.wiki",
 "types": [
 "feats"
 ],
@@ -132822,6 +135392,17 @@
 "奇物",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "无畏英勇",
+"file": "wikitext/main/无畏英勇.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
 ]
 },
 {
@@ -133132,6 +135713,19 @@
 ]
 },
 {
+"title": "无言默契",
+"file": "wikitext/main/无言默契.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"团队专长"
+]
+},
+{
 "title": "无误正义",
 "file": "wikitext/main/无误正义.wiki",
 "types": [
@@ -133380,6 +135974,19 @@
 "categories": [
 "侠客变体职业",
 "变体职业"
+]
+},
+{
+"title": "无面潜行者",
+"file": "wikitext/main/无面潜行者.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 4",
+"异怪",
+"怪物"
 ]
 },
 {
@@ -134689,6 +137296,18 @@
 ]
 },
 {
+"title": "易容名家",
+"file": "wikitext/main/易容名家.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "易容大师",
 "file": "wikitext/main/易容大师.wiki",
 "types": [],
@@ -135307,6 +137926,18 @@
 "CR 19",
 "异界生物",
 "怪物"
+]
+},
+{
+"title": "星辰漫游",
+"file": "wikitext/main/星辰漫游.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -136794,6 +139425,19 @@
 ]
 },
 {
+"title": "暗影牧羊人",
+"file": "wikitext/main/暗影牧羊人.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 5",
+"异界生物",
+"怪物"
+]
+},
+{
 "title": "暗影獒犬",
 "file": "wikitext/main/暗影獒犬.wiki",
 "types": [
@@ -137055,8 +139699,8 @@
 ]
 },
 {
-"title": "暗木芒吉竖琴",
-"file": "wikitext/main/暗木芒吉竖琴.wiki",
+"title": "暗木莽吉竖琴",
+"file": "wikitext/main/暗木莽吉竖琴.wiki",
 "types": [
 "equipment"
 ],
@@ -137623,7 +140267,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "其他种族",
 "种族"
@@ -137670,8 +140314,8 @@
 ]
 },
 {
-"title": "暴乱灵光",
-"file": "wikitext/main/暴乱灵光.wiki",
+"title": "暴乱灵氲",
+"file": "wikitext/main/暴乱灵氲.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -137978,6 +140622,18 @@
 "权杖",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "暴怖魔盗贼天赋",
+"file": "wikitext/main/暴怖魔盗贼天赋.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -138357,6 +141013,18 @@
 ]
 },
 {
+"title": "曲言骑士",
+"file": "wikitext/main/曲言骑士.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"宫廷头衔专长"
+]
+},
+{
 "title": "曲金术",
 "file": "wikitext/main/曲金术.wiki",
 "types": [
@@ -138534,7 +141202,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "种族",
 "罕见种族"
@@ -138627,6 +141295,18 @@
 ]
 },
 {
+"title": "替罪羊",
+"file": "wikitext/main/替罪羊.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "替身术",
 "file": "wikitext/main/替身术.wiki",
 "types": [],
@@ -138688,6 +141368,17 @@
 "物品",
 "遗物",
 "魔法物品"
+]
+},
+{
+"title": "最坏霉咒",
+"file": "wikitext/main/最坏霉咒.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
 ]
 },
 {
@@ -139082,6 +141773,19 @@
 "ai": false,
 "categories": [
 "领域"
+]
+},
+{
+"title": "月犬",
+"file": "wikitext/main/月犬.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 9",
+"异界生物",
+"怪物"
 ]
 },
 {
@@ -143325,6 +146029,16 @@
 ]
 },
 {
+"title": "极限宝具/导言",
+"file": "wikitext/main/极限宝具_1_导言.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"扩展规则"
+]
+},
+{
 "title": "极限战役",
 "file": "wikitext/main/极限战役.wiki",
 "types": [
@@ -143333,6 +146047,16 @@
 "ai": true,
 "categories": [
 "书目"
+]
+},
+{
+"title": "极限战役/导言",
+"file": "wikitext/main/极限战役_1_导言.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"扩展规则"
 ]
 },
 {
@@ -143345,6 +146069,23 @@
 "categories": [
 "书目"
 ]
+},
+{
+"title": "极限战斗/导言",
+"file": "wikitext/main/极限战斗_1_导言.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"扩展规则"
+]
+},
+{
+"title": "极限战斗/章首小故事",
+"file": "wikitext/main/极限战斗_1_章首小故事.wiki",
+"types": [],
+"ai": false,
+"categories": []
 },
 {
 "title": "极限敏捷腰带",
@@ -143403,6 +146144,23 @@
 "categories": [
 "书目"
 ]
+},
+{
+"title": "极限魔法/导言",
+"file": "wikitext/main/极限魔法_1_导言.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"扩展规则"
+]
+},
+{
+"title": "极限魔法/章首小故事",
+"file": "wikitext/main/极限魔法_1_章首小故事.wiki",
+"types": [],
+"ai": false,
+"categories": []
 },
 {
 "title": "构建位面战役",
@@ -144491,6 +147249,18 @@
 ]
 },
 {
+"title": "柔韧藤蔓",
+"file": "wikitext/main/柔韧藤蔓.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "查克",
 "file": "wikitext/main/查克.wiki",
 "types": [
@@ -144817,6 +147587,15 @@
 ]
 },
 {
+"title": "标志性角色（NPC志）",
+"file": "wikitext/main/标志性角色（NPC志）.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"NPC汇总"
+]
+},
+{
 "title": "标志物品",
 "file": "wikitext/main/标志物品.wiki",
 "types": [],
@@ -144973,6 +147752,18 @@
 ]
 },
 {
+"title": "树人呼唤",
+"file": "wikitext/main/树人呼唤.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "树冠匍匐者",
 "file": "wikitext/main/树冠匍匐者.wiki",
 "types": [
@@ -145035,6 +147826,18 @@
 "categories": [
 "变化系法术",
 "法术"
+]
+},
+{
+"title": "树木之力",
+"file": "wikitext/main/树木之力.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -145138,6 +147941,18 @@
 "神器",
 "高等神器",
 "魔法物品"
+]
+},
+{
+"title": "树精侍从",
+"file": "wikitext/main/树精侍从.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -145819,6 +148634,18 @@
 ]
 },
 {
+"title": "桀骜不驯",
+"file": "wikitext/main/桀骜不驯.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "桀骜难驯",
 "file": "wikitext/main/桀骜难驯.wiki",
 "types": [
@@ -145945,20 +148772,6 @@
 ]
 },
 {
-"title": "梅加蓬蚁",
-"file": "wikitext/main/梅加蓬蚁.wiki",
-"types": [
-"creatures"
-],
-"ai": true,
-"categories": [
-"AI翻译",
-"CR 6",
-"怪物",
-"虫类"
-]
-},
-{
 "title": "梅哈",
 "file": "wikitext/main/梅哈.wiki",
 "types": [
@@ -146037,6 +148850,18 @@
 "AI翻译",
 "地区背景特性",
 "背景特性"
+]
+},
+{
+"title": "梅瑞希尔",
+"file": "wikitext/main/梅瑞希尔.wiki",
+"types": [
+"creatures"
+],
+"ai": true,
+"categories": [
+"NPC",
+"待汉化"
 ]
 },
 {
@@ -146252,6 +149077,18 @@
 "ai": false,
 "categories": [
 "侠客天赋"
+]
+},
+{
+"title": "梦旅人",
+"file": "wikitext/main/梦旅人.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -147722,6 +150559,18 @@
 ]
 },
 {
+"title": "模糊灯塔",
+"file": "wikitext/main/模糊灯塔.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"战斗专长"
+]
+},
+{
 "title": "模糊秘密",
 "file": "wikitext/main/模糊秘密.wiki",
 "types": [
@@ -147767,8 +150616,17 @@
 ]
 },
 {
-"title": "横扫卸武",
-"file": "wikitext/main/横扫卸武.wiki",
+"title": "横扫攻击",
+"file": "wikitext/main/横扫攻击.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"侠客天赋"
+]
+},
+{
+"title": "横扫缴械",
+"file": "wikitext/main/横扫缴械.wiki",
 "types": [
 "feats"
 ],
@@ -147776,15 +150634,6 @@
 "categories": [
 "专长",
 "战斗专长"
-]
-},
-{
-"title": "横扫攻击",
-"file": "wikitext/main/横扫攻击.wiki",
-"types": [],
-"ai": false,
-"categories": [
-"侠客天赋"
 ]
 },
 {
@@ -148976,6 +151825,18 @@
 "权杖",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "次级造物术",
+"file": "wikitext/main/次级造物术.wiki",
+"types": [
+"spells"
+],
+"ai": false,
+"categories": [
+"咒法系法术",
+"法术"
 ]
 },
 {
@@ -150226,6 +153087,18 @@
 ]
 },
 {
+"title": "武器侍从",
+"file": "wikitext/main/武器侍从.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "武器刺青",
 "file": "wikitext/main/武器刺青.wiki",
 "types": [
@@ -151026,8 +153899,8 @@
 ]
 },
 {
-"title": "死亡丧钟灵光",
-"file": "wikitext/main/死亡丧钟灵光.wiki",
+"title": "死亡丧钟灵氲",
+"file": "wikitext/main/死亡丧钟灵氲.wiki",
 "types": [
 "spells"
 ],
@@ -151216,6 +154089,18 @@
 "categories": [
 "惑控系法术",
 "法术"
+]
+},
+{
+"title": "死亡宿主",
+"file": "wikitext/main/死亡宿主.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -151488,6 +154373,19 @@
 ]
 },
 {
+"title": "死亡追求者",
+"file": "wikitext/main/死亡追求者.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"组织专长"
+]
+},
+{
 "title": "死亡陷阱怪",
 "file": "wikitext/main/死亡陷阱怪.wiki",
 "types": [
@@ -151647,6 +154545,18 @@
 "不死生物",
 "怪物",
 "怪物模板"
+]
+},
+{
+"title": "死寂凝视",
+"file": "wikitext/main/死寂凝视.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -151839,6 +154749,18 @@
 "奇物",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "死灵抗力",
+"file": "wikitext/main/死灵抗力.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -153102,8 +156024,8 @@
 ]
 },
 {
-"title": "毁灭灵光",
-"file": "wikitext/main/毁灭灵光.wiki",
+"title": "毁灭灵氲",
+"file": "wikitext/main/毁灭灵氲.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -153111,8 +156033,8 @@
 ]
 },
 {
-"title": "毁灭灵气",
-"file": "wikitext/main/毁灭灵气.wiki",
+"title": "毁灭灵氲(法术)",
+"file": "wikitext/main/毁灭灵氲(法术).wiki",
 "types": [
 "spells"
 ],
@@ -153191,6 +156113,18 @@
 "CR 6",
 "怪物",
 "精类"
+]
+},
+{
+"title": "毁物狂",
+"file": "wikitext/main/毁物狂.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -154618,14 +157552,37 @@
 ]
 },
 {
-"title": "毕沙嘎茨库",
-"file": "wikitext/main/毕沙嘎茨库.wiki",
+"title": "毗陀罗血族",
+"file": "wikitext/main/毗陀罗血族.wiki",
 "types": [
 "creatures"
 ],
-"ai": true,
+"ai": false,
 "categories": [
-"AI翻译",
+"CR 6",
+"不死生物",
+"怪物"
+]
+},
+{
+"title": "毗陀罗血族(模板)",
+"file": "wikitext/main/毗陀罗血族(模板).wiki",
+"types": [
+"creature_templates"
+],
+"ai": false,
+"categories": [
+"怪物模板"
+]
+},
+{
+"title": "毘沙凭",
+"file": "wikitext/main/毘沙凭.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
 "CR 9",
 "异界生物",
 "怪物"
@@ -155048,6 +158005,19 @@
 "AI翻译",
 "种族背景特性",
 "背景特性"
+]
+},
+{
+"title": "气球藤",
+"file": "wikitext/main/气球藤.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 2",
+"怪物",
+"植物"
 ]
 },
 {
@@ -156845,6 +159815,18 @@
 ]
 },
 {
+"title": "永不屈服，永受敬畏",
+"file": "wikitext/main/永不屈服，永受敬畏.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"故事专长"
+]
+},
+{
 "title": "永世仇敌",
 "file": "wikitext/main/永世仇敌.wiki",
 "types": [],
@@ -157762,7 +160744,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "种族",
 "罕见种族"
@@ -158318,6 +161300,19 @@
 "CR 8",
 "怪物",
 "魔法兽"
+]
+},
+{
+"title": "沙击",
+"file": "wikitext/main/沙击.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
 ]
 },
 {
@@ -158984,6 +161979,18 @@
 ]
 },
 {
+"title": "沙行者",
+"file": "wikitext/main/沙行者.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "沙袋鼠",
 "file": "wikitext/main/沙袋鼠.wiki",
 "types": [
@@ -159082,6 +162089,18 @@
 ]
 },
 {
+"title": "没落贵族",
+"file": "wikitext/main/没落贵族.wiki",
+"types": [
+"traits"
+],
+"ai": false,
+"categories": [
+"社会背景特性",
+"背景特性"
+]
+},
+{
 "title": "沥青池",
 "file": "wikitext/main/沥青池.wiki",
 "types": [
@@ -159140,6 +162159,18 @@
 "categories": [
 "地区背景特性",
 "背景特性"
+]
+},
+{
+"title": "河之灵",
+"file": "wikitext/main/河之灵.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -160048,6 +163079,18 @@
 "AI翻译",
 "地区背景特性",
 "背景特性"
+]
+},
+{
+"title": "沼泽居民",
+"file": "wikitext/main/沼泽居民.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -161161,6 +164204,18 @@
 ]
 },
 {
+"title": "法术之镜",
+"file": "wikitext/main/法术之镜.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "法术书",
 "file": "wikitext/main/法术书.wiki",
 "types": [],
@@ -161930,6 +164985,18 @@
 ]
 },
 {
+"title": "法术演算",
+"file": "wikitext/main/法术演算.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "法术灌输",
 "file": "wikitext/main/法术灌输.wiki",
 "types": [
@@ -162144,6 +165211,19 @@
 "ai": false,
 "categories": [
 "奥能技艺"
+]
+},
+{
+"title": "法术诈败",
+"file": "wikitext/main/法术诈败.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"团队专长"
 ]
 },
 {
@@ -162870,6 +165950,30 @@
 "categories": [
 "专长",
 "战斗专长"
+]
+},
+{
+"title": "泥怪伙伴",
+"file": "wikitext/main/泥怪伙伴.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
+"title": "泥怪低语者",
+"file": "wikitext/main/泥怪低语者.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -163785,7 +166889,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "种族"
 ]
@@ -163980,8 +167084,8 @@
 ]
 },
 {
-"title": "洞彻灵光镜片",
-"file": "wikitext/main/洞彻灵光镜片.wiki",
+"title": "洞彻灵氲镜片",
+"file": "wikitext/main/洞彻灵氲镜片.wiki",
 "types": [
 "magic_items"
 ],
@@ -167321,6 +170425,19 @@
 ]
 },
 {
+"title": "海葵，塞壬之床",
+"file": "wikitext/main/海葵，塞壬之床.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 9",
+"怪物",
+"虫类"
+]
+},
+{
 "title": "海葵，棺海葵",
 "file": "wikitext/main/海葵，棺海葵.wiki",
 "types": [
@@ -168530,6 +171647,17 @@
 ]
 },
 {
+"title": "深层毒素",
+"file": "wikitext/main/深层毒素.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
+]
+},
+{
 "title": "深山鸣涧",
 "file": "wikitext/main/深山鸣涧.wiki",
 "types": [
@@ -168639,6 +171767,19 @@
 "categories": [
 "惑控系法术",
 "法术"
+]
+},
+{
+"title": "深海人鱼",
+"file": "wikitext/main/深海人鱼.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 3",
+"怪物",
+"类人生物"
 ]
 },
 {
@@ -169525,8 +172666,8 @@
 ]
 },
 {
-"title": "混沌灵光",
-"file": "wikitext/main/混沌灵光.wiki",
+"title": "混沌灵氲",
+"file": "wikitext/main/混沌灵氲.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -169874,6 +173015,18 @@
 ]
 },
 {
+"title": "清醒之梦",
+"file": "wikitext/main/清醒之梦.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "清醒梦者",
 "file": "wikitext/main/清醒梦者.wiki",
 "types": [
@@ -169935,6 +173088,19 @@
 "炼金药剂",
 "物品",
 "装备"
+]
+},
+{
+"title": "渊跃魔",
+"file": "wikitext/main/渊跃魔.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 3",
+"异界生物",
+"怪物"
 ]
 },
 {
@@ -170810,6 +173976,26 @@
 ]
 },
 {
+"title": "游戏主持人指南/导言",
+"file": "wikitext/main/游戏主持人指南_1_导言.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"扩展规则"
+]
+},
+{
+"title": "游戏主持人指南/推荐资源",
+"file": "wikitext/main/游戏主持人指南_1_推荐资源.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"扩展规则"
+]
+},
+{
 "title": "游戏掌控",
 "file": "wikitext/main/游戏掌控.wiki",
 "types": [],
@@ -170824,6 +174010,16 @@
 "types": [],
 "ai": false,
 "categories": [
+"核心规则"
+]
+},
+{
+"title": "游戏辅助工具",
+"file": "wikitext/main/游戏辅助工具.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
 "核心规则"
 ]
 },
@@ -172228,8 +175424,8 @@
 ]
 },
 {
-"title": "漠视灵光",
-"file": "wikitext/main/漠视灵光.wiki",
+"title": "漠视灵氲",
+"file": "wikitext/main/漠视灵氲.wiki",
 "types": [
 "spells"
 ],
@@ -172543,6 +175739,18 @@
 "categories": [
 "变化系法术",
 "法术"
+]
+},
+{
+"title": "潜意识篡夺",
+"file": "wikitext/main/潜意识篡夺.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -174269,6 +177477,18 @@
 ]
 },
 {
+"title": "火焰试炼的幸存者",
+"file": "wikitext/main/火焰试炼的幸存者.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"伟业专长"
+]
+},
+{
 "title": "火焰路径",
 "file": "wikitext/main/火焰路径.wiki",
 "types": [
@@ -174443,6 +177663,18 @@
 "ai": false,
 "categories": [
 "战斗祭司祝福"
+]
+},
+{
+"title": "火神祝福",
+"file": "wikitext/main/火神祝福.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -175405,7 +178637,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "种族",
 "罕见种族"
@@ -175850,63 +179082,6 @@
 "CR 15",
 "异界生物",
 "怪物"
-]
-},
-{
-"title": "灵光",
-"file": "wikitext/main/灵光.wiki",
-"types": [],
-"ai": false,
-"categories": [
-"扩展规则"
-]
-},
-{
-"title": "灵光扩展",
-"file": "wikitext/main/灵光扩展.wiki",
-"types": [
-"spells"
-],
-"ai": false,
-"categories": [
-"变化系法术",
-"法术"
-]
-},
-{
-"title": "灵光灌注",
-"file": "wikitext/main/灵光灌注.wiki",
-"types": [
-"spells"
-],
-"ai": false,
-"categories": [
-"变化系法术",
-"法术"
-]
-},
-{
-"title": "灵光爆发",
-"file": "wikitext/main/灵光爆发.wiki",
-"types": [
-"feats"
-],
-"ai": false,
-"categories": [
-"专长"
-]
-},
-{
-"title": "灵光镜",
-"file": "wikitext/main/灵光镜.wiki",
-"types": [
-"magic_items"
-],
-"ai": false,
-"categories": [
-"奇物",
-"物品",
-"魔法物品"
 ]
 },
 {
@@ -176585,6 +179760,63 @@
 ]
 },
 {
+"title": "灵氲",
+"file": "wikitext/main/灵氲.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"扩展规则"
+]
+},
+{
+"title": "灵氲扩展",
+"file": "wikitext/main/灵氲扩展.wiki",
+"types": [
+"spells"
+],
+"ai": false,
+"categories": [
+"变化系法术",
+"法术"
+]
+},
+{
+"title": "灵氲灌注",
+"file": "wikitext/main/灵氲灌注.wiki",
+"types": [
+"spells"
+],
+"ai": false,
+"categories": [
+"变化系法术",
+"法术"
+]
+},
+{
+"title": "灵氲爆发",
+"file": "wikitext/main/灵氲爆发.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
+]
+},
+{
+"title": "灵氲镜",
+"file": "wikitext/main/灵氲镜.wiki",
+"types": [
+"magic_items"
+],
+"ai": false,
+"categories": [
+"奇物",
+"物品",
+"魔法物品"
+]
+},
+{
 "title": "灵活半身甲",
 "file": "wikitext/main/灵活半身甲.wiki",
 "types": [
@@ -176698,6 +179930,18 @@
 "categories": [
 "专长",
 "战斗专长"
+]
+},
+{
+"title": "灵活阴影跳跃",
+"file": "wikitext/main/灵活阴影跳跃.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -176821,6 +180065,19 @@
 "categories": [
 "种族",
 "罕见种族"
+]
+},
+{
+"title": "灵猴族(怪物)",
+"file": "wikitext/main/灵猴族(怪物).wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 1/2",
+"怪物",
+"类人生物"
 ]
 },
 {
@@ -177659,6 +180916,18 @@
 ]
 },
 {
+"title": "灵魂视觉",
+"file": "wikitext/main/灵魂视觉.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "灵魂视野灵药",
 "file": "wikitext/main/灵魂视野灵药.wiki",
 "types": [
@@ -177834,6 +181103,18 @@
 "塑能系法术",
 "法术",
 "神话法术"
+]
+},
+{
+"title": "灼热分心",
+"file": "wikitext/main/灼热分心.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"战斗专长"
 ]
 },
 {
@@ -178527,6 +181808,18 @@
 ]
 },
 {
+"title": "炼狱传承",
+"file": "wikitext/main/炼狱传承.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "炼狱假象",
 "file": "wikitext/main/炼狱假象.wiki",
 "types": [
@@ -178639,17 +181932,6 @@
 "categories": [
 "惑控系法术",
 "法术"
-]
-},
-{
-"title": "炼狱生物模板",
-"file": "wikitext/main/炼狱生物模板.wiki",
-"types": [
-"creature_templates"
-],
-"ai": false,
-"categories": [
-"怪物模板"
 ]
 },
 {
@@ -179625,8 +182907,8 @@
 ]
 },
 {
-"title": "炽烈光环",
-"file": "wikitext/main/炽烈光环.wiki",
+"title": "炽烈灵氲",
+"file": "wikitext/main/炽烈灵氲.wiki",
 "types": [
 "feats"
 ],
@@ -180075,8 +183357,8 @@
 ]
 },
 {
-"title": "烈焰光环",
-"file": "wikitext/main/烈焰光环.wiki",
+"title": "烈焰灵氲",
+"file": "wikitext/main/烈焰灵氲.wiki",
 "types": [
 "spells"
 ],
@@ -180604,6 +183886,18 @@
 ]
 },
 {
+"title": "烧灼骑手",
+"file": "wikitext/main/烧灼骑手.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "烧！烧！烧！",
 "file": "wikitext/main/烧！烧！烧！.wiki",
 "types": [
@@ -181056,6 +184350,19 @@
 ]
 },
 {
+"title": "焚燃尸",
+"file": "wikitext/main/焚燃尸.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 3",
+"不死生物",
+"怪物"
+]
+},
+{
 "title": "焚风",
 "file": "wikitext/main/焚风.wiki",
 "types": [],
@@ -181471,6 +184778,19 @@
 "权杖",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "熄光法术",
+"file": "wikitext/main/熄光法术.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"超魔专长"
 ]
 },
 {
@@ -182002,6 +185322,18 @@
 ]
 },
 {
+"title": "熟练寻梦师",
+"file": "wikitext/main/熟练寻梦师.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "熟练射手",
 "file": "wikitext/main/熟练射手.wiki",
 "types": [
@@ -182171,7 +185503,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "其他种族",
 "种族"
@@ -183258,6 +186590,19 @@
 ]
 },
 {
+"title": "爬虫人(怪物)",
+"file": "wikitext/main/爬虫人(怪物).wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 1/2",
+"怪物",
+"类人生物"
+]
+},
+{
 "title": "爬虫头环",
 "file": "wikitext/main/爬虫头环.wiki",
 "types": [
@@ -183582,6 +186927,18 @@
 "CR 4",
 "人形怪物",
 "怪物"
+]
+},
+{
+"title": "牛头人冲锋",
+"file": "wikitext/main/牛头人冲锋.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -184744,6 +188101,32 @@
 ]
 },
 {
+"title": "特里埃工蜂",
+"file": "wikitext/main/特里埃工蜂.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 14",
+"人形怪物",
+"怪物"
+]
+},
+{
+"title": "特里埃舞蜂",
+"file": "wikitext/main/特里埃舞蜂.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 6",
+"人形怪物",
+"怪物"
+]
+},
+{
 "title": "特里埃蜂后",
 "file": "wikitext/main/特里埃蜂后.wiki",
 "types": [
@@ -184778,6 +188161,19 @@
 "CR 11",
 "人形怪物",
 "怪物"
+]
+},
+{
+"title": "特鲁恩心腹",
+"file": "wikitext/main/特鲁恩心腹.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"团队专长"
 ]
 },
 {
@@ -184852,6 +188248,19 @@
 "ai": false,
 "categories": [
 "专长"
+]
+},
+{
+"title": "牺牲相助",
+"file": "wikitext/main/牺牲相助.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"团队专长"
 ]
 },
 {
@@ -185304,8 +188713,8 @@
 ]
 },
 {
-"title": "狂乱灵光",
-"file": "wikitext/main/狂乱灵光.wiki",
+"title": "狂乱灵氲",
+"file": "wikitext/main/狂乱灵氲.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -185662,6 +189071,18 @@
 "ai": false,
 "categories": [
 "狂暴之力"
+]
+},
+{
+"title": "狂战士怒吼",
+"file": "wikitext/main/狂战士怒吼.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -186076,6 +189497,18 @@
 ],
 "ai": false,
 "categories": [
+"专长"
+]
+},
+{
+"title": "狂热心灵",
+"file": "wikitext/main/狂热心灵.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
 "专长"
 ]
 },
@@ -186839,7 +190272,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "常见种族",
 "种族"
@@ -187315,6 +190748,18 @@
 ]
 },
 {
+"title": "狙击射击",
+"file": "wikitext/main/狙击射击.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "狙击手",
 "file": "wikitext/main/狙击手.wiki",
 "types": [],
@@ -187572,6 +191017,18 @@
 "categories": [
 "专长",
 "故事专长"
+]
+},
+{
+"title": "狡诈拔武",
+"file": "wikitext/main/狡诈拔武.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -188968,6 +192425,18 @@
 ]
 },
 {
+"title": "猎幽团队",
+"file": "wikitext/main/猎幽团队.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "猎怪人",
 "file": "wikitext/main/猎怪人.wiki",
 "types": [
@@ -189626,8 +193095,8 @@
 ]
 },
 {
-"title": "猛布莱猎刃〔芒吉人〕",
-"file": "wikitext/main/猛布莱猎刃〔芒吉人〕.wiki",
+"title": "猛布莱猎刃〔莽吉人〕",
+"file": "wikitext/main/猛布莱猎刃〔莽吉人〕.wiki",
 "types": [
 "magic_items"
 ],
@@ -190415,6 +193884,18 @@
 ]
 },
 {
+"title": "献祭仪式师",
+"file": "wikitext/main/献祭仪式师.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "献祭剑",
 "file": "wikitext/main/献祭剑.wiki",
 "types": [
@@ -190495,6 +193976,18 @@
 ]
 },
 {
+"title": "献祭行家",
+"file": "wikitext/main/献祭行家.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "献祭衬衫",
 "file": "wikitext/main/献祭衬衫.wiki",
 "types": [
@@ -190526,7 +194019,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "待汉化",
 "种族"
@@ -191678,7 +195171,7 @@
 "types": [
 "creatures"
 ],
-"ai": true,
+"ai": false,
 "categories": [
 "AI翻译",
 "CR 9",
@@ -192467,7 +195960,7 @@
 "types": [
 "creatures"
 ],
-"ai": true,
+"ai": false,
 "categories": [
 "AI翻译",
 "CR 14",
@@ -192593,6 +196086,32 @@
 ]
 },
 {
+"title": "瓦瑞西亚偶像",
+"file": "wikitext/main/瓦瑞西亚偶像.wiki",
+"types": [
+"equipment"
+],
+"ai": false,
+"categories": [
+"冒险装备",
+"物品",
+"装备"
+]
+},
+{
+"title": "瓦瑞西亚免疫",
+"file": "wikitext/main/瓦瑞西亚免疫.wiki",
+"types": [
+"traits"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"战役背景特性",
+"背景特性"
+]
+},
+{
 "title": "瓦瑞西亚刺青",
 "file": "wikitext/main/瓦瑞西亚刺青.wiki",
 "types": [
@@ -192605,6 +196124,17 @@
 ]
 },
 {
+"title": "瓦瑞西亚刺青(专长)",
+"file": "wikitext/main/瓦瑞西亚刺青(专长).wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
+]
+},
+{
 "title": "瓦瑞西亚朝圣者",
 "file": "wikitext/main/瓦瑞西亚朝圣者.wiki",
 "types": [],
@@ -192612,6 +196142,18 @@
 "categories": [
 "变体职业",
 "牧师变体职业"
+]
+},
+{
+"title": "瓦瑞西亚浪客",
+"file": "wikitext/main/瓦瑞西亚浪客.wiki",
+"types": [
+"traits"
+],
+"ai": false,
+"categories": [
+"地区背景特性",
+"背景特性"
 ]
 },
 {
@@ -192666,55 +196208,6 @@
 ]
 },
 {
-"title": "瓦瑞西安偶像",
-"file": "wikitext/main/瓦瑞西安偶像.wiki",
-"types": [
-"equipment"
-],
-"ai": false,
-"categories": [
-"冒险装备",
-"物品",
-"装备"
-]
-},
-{
-"title": "瓦瑞西安免疫",
-"file": "wikitext/main/瓦瑞西安免疫.wiki",
-"types": [
-"traits"
-],
-"ai": true,
-"categories": [
-"AI翻译",
-"战役背景特性",
-"背景特性"
-]
-},
-{
-"title": "瓦瑞西安刺青",
-"file": "wikitext/main/瓦瑞西安刺青.wiki",
-"types": [
-"feats"
-],
-"ai": false,
-"categories": [
-"专长"
-]
-},
-{
-"title": "瓦瑞西安浪客",
-"file": "wikitext/main/瓦瑞西安浪客.wiki",
-"types": [
-"traits"
-],
-"ai": false,
-"categories": [
-"地区背景特性",
-"背景特性"
-]
-},
-{
 "title": "瓦瓦尔拉夫",
 "file": "wikitext/main/瓦瓦尔拉夫.wiki",
 "types": [
@@ -192723,6 +196216,18 @@
 "ai": false,
 "categories": [
 "神祇"
+]
+},
+{
+"title": "瓦莱洛斯",
+"file": "wikitext/main/瓦莱洛斯.wiki",
+"types": [
+"creatures"
+],
+"ai": true,
+"categories": [
+"NPC",
+"待汉化"
 ]
 },
 {
@@ -192759,6 +196264,18 @@
 "categories": [
 "变体职业",
 "战士变体职业"
+]
+},
+{
+"title": "瓦顶奔跑者",
+"file": "wikitext/main/瓦顶奔跑者.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -192984,6 +196501,19 @@
 "权杖",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "甘愿之死",
+"file": "wikitext/main/甘愿之死.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"起源专长"
 ]
 },
 {
@@ -194104,6 +197634,19 @@
 ]
 },
 {
+"title": "电击释放",
+"file": "wikitext/main/电击释放.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"团队专长"
+]
+},
+{
 "title": "电刺",
 "file": "wikitext/main/电刺.wiki",
 "types": [],
@@ -194852,6 +198395,18 @@
 ]
 },
 {
+"title": "疗者之触",
+"file": "wikitext/main/疗者之触.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"伟业专长"
+]
+},
+{
 "title": "疟疾（丛林热）",
 "file": "wikitext/main/疟疾（丛林热）.wiki",
 "types": [
@@ -195096,6 +198651,18 @@
 ]
 },
 {
+"title": "疫鸟灵觉",
+"file": "wikitext/main/疫鸟灵觉.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "疯人道德",
 "file": "wikitext/main/疯人道德.wiki",
 "types": [
@@ -195286,6 +198853,18 @@
 ]
 },
 {
+"title": "疯癫扰敌",
+"file": "wikitext/main/疯癫扰敌.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "疯长生物",
 "file": "wikitext/main/疯长生物.wiki",
 "types": [
@@ -195418,15 +198997,6 @@
 "ai": false,
 "categories": [
 "扩展规则"
-]
-},
-{
-"title": "疾病(幻灵进化)",
-"file": "wikitext/main/疾病(幻灵进化).wiki",
-"types": [],
-"ai": false,
-"categories": [
-"进化"
 ]
 },
 {
@@ -195587,6 +199157,17 @@
 {
 "title": "病理学家",
 "file": "wikitext/main/病理学家.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
+]
+},
+{
+"title": "病疫打击",
+"file": "wikitext/main/病疫打击.wiki",
 "types": [
 "feats"
 ],
@@ -196396,7 +199977,9 @@
 {
 "title": "白化人",
 "file": "wikitext/main/白化人.wiki",
-"types": [],
+"types": [
+"races"
+],
 "ai": false,
 "categories": [
 "待汉化",
@@ -196579,6 +200162,19 @@
 "categories": [
 "专长",
 "战斗专长"
+]
+},
+{
+"title": "白蚁群",
+"file": "wikitext/main/白蚁群.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 6",
+"怪物",
+"虫类"
 ]
 },
 {
@@ -197643,7 +201239,7 @@
 "types": [
 "creatures"
 ],
-"ai": true,
+"ai": false,
 "categories": [
 "AI翻译",
 "CR 3",
@@ -198071,21 +201667,21 @@
 ]
 },
 {
-"title": "盗贼天赋/全部天赋",
-"file": "wikitext/main/盗贼天赋_1_全部天赋.wiki",
-"types": [],
-"ai": false,
-"categories": [
-"盗贼"
-]
-},
-{
 "title": "盗贼天赋汇总",
 "file": "wikitext/main/盗贼天赋汇总.wiki",
 "types": [],
 "ai": false,
 "categories": [
 "书目章节"
+]
+},
+{
+"title": "盗贼天赋速查",
+"file": "wikitext/main/盗贼天赋速查.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"职业规则"
 ]
 },
 {
@@ -199399,6 +202995,18 @@
 ]
 },
 {
+"title": "盾牌钩夺",
+"file": "wikitext/main/盾牌钩夺.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"战斗专长"
+]
+},
+{
 "title": "盾皮鱼",
 "file": "wikitext/main/盾皮鱼.wiki",
 "types": [
@@ -199797,6 +203405,19 @@
 "ai": false,
 "categories": [
 "专长"
+]
+},
+{
+"title": "真理之家监督官",
+"file": "wikitext/main/真理之家监督官.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"起源专长"
 ]
 },
 {
@@ -201162,7 +204783,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "核心种族",
 "种族"
@@ -201723,6 +205344,18 @@
 ]
 },
 {
+"title": "石之觉察",
+"file": "wikitext/main/石之觉察.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "石之领主",
 "file": "wikitext/main/石之领主.wiki",
 "types": [],
@@ -201740,6 +205373,18 @@
 ],
 "ai": false,
 "categories": [
+"专长"
+]
+},
+{
+"title": "石之魔法",
+"file": "wikitext/main/石之魔法.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
 "专长"
 ]
 },
@@ -202443,6 +206088,19 @@
 ]
 },
 {
+"title": "矶抚",
+"file": "wikitext/main/矶抚.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 15",
+"怪物",
+"魔法兽"
+]
+},
+{
 "title": "矿工",
 "file": "wikitext/main/矿工.wiki",
 "types": [
@@ -203047,6 +206705,19 @@
 ]
 },
 {
+"title": "破抗弃子",
+"file": "wikitext/main/破抗弃子.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"团队专长"
+]
+},
+{
 "title": "破护者",
 "file": "wikitext/main/破护者.wiki",
 "types": [
@@ -203505,6 +207176,18 @@
 "ai": false,
 "categories": [
 "领域"
+]
+},
+{
+"title": "破水而出",
+"file": "wikitext/main/破水而出.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -206773,6 +210456,18 @@
 ]
 },
 {
+"title": "神圣欺诈",
+"file": "wikitext/main/神圣欺诈.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "神圣武器技法",
 "file": "wikitext/main/神圣武器技法.wiki",
 "types": [
@@ -206973,8 +210668,8 @@
 ]
 },
 {
-"title": "神圣链甲〔瓦瑞西安人〕",
-"file": "wikitext/main/神圣链甲〔瓦瑞西安人〕.wiki",
+"title": "神圣链甲〔瓦瑞西亚人〕",
+"file": "wikitext/main/神圣链甲〔瓦瑞西亚人〕.wiki",
 "types": [
 "magic_items"
 ],
@@ -207185,19 +210880,6 @@
 ]
 },
 {
-"title": "神射卸武",
-"file": "wikitext/main/神射卸武.wiki",
-"types": [
-"feats"
-],
-"ai": false,
-"categories": [
-"专长",
-"武器掌握专长",
-"瞄准专长"
-]
-},
-{
 "title": "神射手",
 "file": "wikitext/main/神射手.wiki",
 "types": [
@@ -207282,6 +210964,19 @@
 "CR 15",
 "怪物",
 "构装体"
+]
+},
+{
+"title": "神射缴械",
+"file": "wikitext/main/神射缴械.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"武器掌握专长",
+"瞄准专长"
 ]
 },
 {
@@ -207497,6 +211192,18 @@
 "categories": [
 "法术",
 "预言系法术"
+]
+},
+{
+"title": "神枪手",
+"file": "wikitext/main/神枪手.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -207829,6 +211536,15 @@
 ]
 },
 {
+"title": "神猎信徒",
+"file": "wikitext/main/神猎信徒.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"变体职业"
+]
+},
+{
 "title": "神眷孤儿",
 "file": "wikitext/main/神眷孤儿.wiki",
 "types": [
@@ -207989,6 +211705,19 @@
 "ai": false,
 "categories": [
 "书目章节"
+]
+},
+{
+"title": "神秘回响",
+"file": "wikitext/main/神秘回响.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"团队专长"
 ]
 },
 {
@@ -210251,15 +213980,6 @@
 ]
 },
 {
-"title": "种族亚种与种族特性替换一览",
-"file": "wikitext/main/种族亚种与种族特性替换一览.wiki",
-"types": [],
-"ai": false,
-"categories": [
-"种族规则"
-]
-},
-{
 "title": "种族介绍",
 "file": "wikitext/main/种族介绍.wiki",
 "types": [],
@@ -211149,6 +214869,18 @@
 ]
 },
 {
+"title": "秘密资本",
+"file": "wikitext/main/秘密资本.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "秘密革命者",
 "file": "wikitext/main/秘密革命者.wiki",
 "types": [
@@ -211761,6 +215493,18 @@
 ]
 },
 {
+"title": "秘语",
+"file": "wikitext/main/秘语.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"团队专长"
+]
+},
+{
 "title": "秘语者",
 "file": "wikitext/main/秘语者.wiki",
 "types": [],
@@ -212128,7 +215872,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "其他种族",
 "种族"
@@ -212331,6 +216075,19 @@
 "CR 19",
 "异界生物",
 "怪物"
+]
+},
+{
+"title": "移祸",
+"file": "wikitext/main/移祸.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
 ]
 },
 {
@@ -212570,6 +216327,19 @@
 "categories": [
 "变化系法术",
 "法术"
+]
+},
+{
+"title": "稳固法术",
+"file": "wikitext/main/稳固法术.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"超魔专长"
 ]
 },
 {
@@ -213014,15 +216784,6 @@
 ]
 },
 {
-"title": "究极异能魔法",
-"file": "wikitext/main/究极异能魔法.wiki",
-"types": [],
-"ai": false,
-"categories": [
-"进化"
-]
-},
-{
 "title": "究极突变",
 "file": "wikitext/main/究极突变.wiki",
 "types": [],
@@ -213059,6 +216820,19 @@
 "categories": [
 "专长",
 "战斗专长"
+]
+},
+{
+"title": "穹天使",
+"file": "wikitext/main/穹天使.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 20",
+"异界生物",
+"怪物"
 ]
 },
 {
@@ -213687,6 +217461,18 @@
 ]
 },
 {
+"title": "穿刺冲锋",
+"file": "wikitext/main/穿刺冲锋.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "穿刺法术",
 "file": "wikitext/main/穿刺法术.wiki",
 "types": [
@@ -213896,6 +217682,18 @@
 "物品",
 "魔法武器",
 "魔法物品"
+]
+},
+{
+"title": "穿透占据",
+"file": "wikitext/main/穿透占据.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -214777,6 +218575,18 @@
 "炼金武器",
 "物品",
 "装备"
+]
+},
+{
+"title": "窒息绞杀",
+"file": "wikitext/main/窒息绞杀.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -216678,6 +220488,84 @@
 ]
 },
 {
+"title": "类法术能力创伤",
+"file": "wikitext/main/类法术能力创伤.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"怪物专长"
+]
+},
+{
+"title": "类法术能力创痕",
+"file": "wikitext/main/类法术能力创痕.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"怪物专长"
+]
+},
+{
+"title": "类法术能力及远",
+"file": "wikitext/main/类法术能力及远.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"怪物专长"
+]
+},
+{
+"title": "类法术能力延续",
+"file": "wikitext/main/类法术能力延续.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"怪物专长"
+]
+},
+{
+"title": "类法术能力弹性",
+"file": "wikitext/main/类法术能力弹性.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"怪物专长"
+]
+},
+{
+"title": "类法术能力强化",
+"file": "wikitext/main/类法术能力强化.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"怪物专长"
+]
+},
+{
 "title": "类法术能力强效",
 "file": "wikitext/main/类法术能力强效.wiki",
 "types": [
@@ -216686,6 +220574,32 @@
 "ai": false,
 "categories": [
 "专长"
+]
+},
+{
+"title": "类法术能力感染",
+"file": "wikitext/main/类法术能力感染.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"怪物专长"
+]
+},
+{
+"title": "类法术能力扰咒",
+"file": "wikitext/main/类法术能力扰咒.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"怪物专长"
 ]
 },
 {
@@ -216710,6 +220624,19 @@
 "ai": false,
 "categories": [
 "专长"
+]
+},
+{
+"title": "类法术能力骇人",
+"file": "wikitext/main/类法术能力骇人.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"怪物专长"
 ]
 },
 {
@@ -217333,6 +221260,19 @@
 ]
 },
 {
+"title": "精准直拳",
+"file": "wikitext/main/精准直拳.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
+]
+},
+{
 "title": "精制品便携式祭坛",
 "file": "wikitext/main/精制品便携式祭坛.wiki",
 "types": [
@@ -217806,6 +221746,18 @@
 ]
 },
 {
+"title": "精明联络人",
+"file": "wikitext/main/精明联络人.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "精湛灰手套",
 "file": "wikitext/main/精湛灰手套.wiki",
 "types": [
@@ -217825,7 +221777,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "核心种族",
 "种族"
@@ -219426,40 +223378,15 @@
 ]
 },
 {
-"title": "精通卸武",
-"file": "wikitext/main/精通卸武.wiki",
+"title": "精通占据",
+"file": "wikitext/main/精通占据.wiki",
 "types": [
 "feats"
 ],
-"ai": false,
+"ai": true,
 "categories": [
-"专长",
-"战斗专长"
-]
-},
-{
-"title": "精通卸武 (神话)",
-"file": "wikitext/main/精通卸武 (神话).wiki",
-"types": [
-"feats"
-],
-"ai": false,
-"categories": [
-"专长",
-"神话专长"
-]
-},
-{
-"title": "精通卸武搭档",
-"file": "wikitext/main/精通卸武搭档.wiki",
-"types": [
-"feats"
-],
-"ai": false,
-"categories": [
-"专长",
-"团队专长",
-"战斗专长"
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -219516,6 +223443,18 @@
 "categories": [
 "专长",
 "战斗专长"
+]
+},
+{
+"title": "精通咆哮",
+"file": "wikitext/main/精通咆哮.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -219581,6 +223520,18 @@
 "categories": [
 "专长",
 "战斗专长"
+]
+},
+{
+"title": "精通学习游侠陷阱",
+"file": "wikitext/main/精通学习游侠陷阱.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -220037,6 +223988,17 @@
 ]
 },
 {
+"title": "精通注能武器",
+"file": "wikitext/main/精通注能武器.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
+]
+},
+{
 "title": "精通浸透劲",
 "file": "wikitext/main/精通浸透劲.wiki",
 "types": [
@@ -220085,17 +224047,6 @@
 {
 "title": "精通灵活魔术",
 "file": "wikitext/main/精通灵活魔术.wiki",
-"types": [
-"feats"
-],
-"ai": false,
-"categories": [
-"专长"
-]
-},
-{
-"title": "精通炼狱魔力",
-"file": "wikitext/main/精通炼狱魔力.wiki",
 "types": [
 "feats"
 ],
@@ -220297,6 +224248,18 @@
 ]
 },
 {
+"title": "精通窃亡",
+"file": "wikitext/main/精通窃亡.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "精通精准射击",
 "file": "wikitext/main/精通精准射击.wiki",
 "types": [
@@ -220330,6 +224293,43 @@
 "ai": false,
 "categories": [
 "专长",
+"战斗专长"
+]
+},
+{
+"title": "精通缴械",
+"file": "wikitext/main/精通缴械.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"战斗专长"
+]
+},
+{
+"title": "精通缴械 (神话)",
+"file": "wikitext/main/精通缴械 (神话).wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"神话专长"
+]
+},
+{
+"title": "精通缴械搭档",
+"file": "wikitext/main/精通缴械搭档.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"团队专长",
 "战斗专长"
 ]
 },
@@ -220377,6 +224377,19 @@
 ],
 "ai": false,
 "categories": [
+"专长",
+"战斗专长"
+]
+},
+{
+"title": "精通蛮荒战术",
+"file": "wikitext/main/精通蛮荒战术.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
 "专长",
 "战斗专长"
 ]
@@ -220590,6 +224603,17 @@
 "categories": [
 "专长",
 "战斗专长"
+]
+},
+{
+"title": "精通魔族魔力",
+"file": "wikitext/main/精通魔族魔力.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
 ]
 },
 {
@@ -220936,6 +224960,18 @@
 ]
 },
 {
+"title": "精魂说客",
+"file": "wikitext/main/精魂说客.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "精魂镜",
 "file": "wikitext/main/精魂镜.wiki",
 "types": [
@@ -221132,6 +225168,19 @@
 "权杖",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "索玛尔虫",
+"file": "wikitext/main/索玛尔虫.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 12",
+"异怪",
+"怪物"
 ]
 },
 {
@@ -221541,6 +225590,18 @@
 ]
 },
 {
+"title": "紫貂军团陆战兵",
+"file": "wikitext/main/紫貂军团陆战兵.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "紫貂精英鞍座",
 "file": "wikitext/main/紫貂精英鞍座.wiki",
 "types": [
@@ -221597,6 +225658,18 @@
 "categories": [
 "先知变体职业",
 "变体职业"
+]
+},
+{
+"title": "繁荣与骄傲",
+"file": "wikitext/main/繁荣与骄傲.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"故事专长"
 ]
 },
 {
@@ -222000,6 +226073,18 @@
 "ai": false,
 "categories": [
 "组织"
+]
+},
+{
+"title": "红螳螂合作者",
+"file": "wikitext/main/红螳螂合作者.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -223126,6 +227211,18 @@
 ]
 },
 {
+"title": "组织友人",
+"file": "wikitext/main/组织友人.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "组织天赋",
 "file": "wikitext/main/组织天赋.wiki",
 "types": [
@@ -223802,6 +227899,18 @@
 "异种武器",
 "武器",
 "物品"
+]
+},
+{
+"title": "结晶尘云",
+"file": "wikitext/main/结晶尘云.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -224612,32 +228721,6 @@
 ]
 },
 {
-"title": "维塔拉",
-"file": "wikitext/main/维塔拉.wiki",
-"types": [
-"creature_templates"
-],
-"ai": true,
-"categories": [
-"AI翻译",
-"怪物模板"
-]
-},
-{
-"title": "维塔拉(怪物)",
-"file": "wikitext/main/维塔拉(怪物).wiki",
-"types": [
-"creatures"
-],
-"ai": true,
-"categories": [
-"AI翻译",
-"CR 6",
-"不死生物",
-"怪物"
-]
-},
-{
 "title": "维尔",
 "file": "wikitext/main/维尔.wiki",
 "types": [
@@ -224711,6 +228794,19 @@
 ]
 },
 {
+"title": "维德巨人",
+"file": "wikitext/main/维德巨人.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 5",
+"怪物",
+"类人生物"
+]
+},
+{
 "title": "维德拉奇",
 "file": "wikitext/main/维德拉奇.wiki",
 "types": [
@@ -224750,20 +228846,6 @@
 "戒指",
 "物品",
 "魔法物品"
-]
-},
-{
-"title": "维拉",
-"file": "wikitext/main/维拉.wiki",
-"types": [
-"creatures"
-],
-"ai": true,
-"categories": [
-"AI翻译",
-"CR 7",
-"异界生物",
-"怪物"
 ]
 },
 {
@@ -225334,6 +229416,18 @@
 ]
 },
 {
+"title": "缓缓吐息",
+"file": "wikitext/main/缓缓吐息.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "缓解成瘾",
 "file": "wikitext/main/缓解成瘾.wiki",
 "types": [
@@ -225410,6 +229504,19 @@
 "ai": true,
 "categories": [
 "书目"
+]
+},
+{
+"title": "缚刃者",
+"file": "wikitext/main/缚刃者.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
 ]
 },
 {
@@ -225860,12 +229967,37 @@
 ]
 },
 {
+"title": "缠身惊骇",
+"file": "wikitext/main/缠身惊骇.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
+]
+},
+{
 "title": "缠身酸液",
 "file": "wikitext/main/缠身酸液.wiki",
 "types": [],
 "ai": false,
 "categories": [
 "奥能技艺"
+]
+},
+{
+"title": "缥缈步伐",
+"file": "wikitext/main/缥缈步伐.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -226004,6 +230136,15 @@
 ]
 },
 {
+"title": "缴械",
+"file": "wikitext/main/缴械.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"战技"
+]
+},
+{
 "title": "缴械剑",
 "file": "wikitext/main/缴械剑.wiki",
 "types": [
@@ -226015,6 +230156,31 @@
 "特殊魔法武器",
 "魔法武器",
 "魔法物品"
+]
+},
+{
+"title": "缴械搭档",
+"file": "wikitext/main/缴械搭档.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"团队专长",
+"战斗专长"
+]
+},
+{
+"title": "缴械重击",
+"file": "wikitext/main/缴械重击.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"战斗专长"
 ]
 },
 {
@@ -226376,6 +230542,32 @@
 "ai": false,
 "categories": [
 "专长"
+]
+},
+{
+"title": "罪孽共享重击",
+"file": "wikitext/main/罪孽共享重击.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长",
+"重击专长"
+]
+},
+{
+"title": "罪底逆行",
+"file": "wikitext/main/罪底逆行.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"故事专长"
 ]
 },
 {
@@ -228252,7 +232444,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "怪物种族",
 "种族",
@@ -228485,6 +232677,18 @@
 "ai": false,
 "categories": [
 "NPC"
+]
+},
+{
+"title": "老练幽魂猎手",
+"file": "wikitext/main/老练幽魂猎手.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -228735,6 +232939,18 @@
 "戒指",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "耐寒",
+"file": "wikitext/main/耐寒.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -230066,6 +234282,32 @@
 ]
 },
 {
+"title": "胃余尸泥",
+"file": "wikitext/main/胃余尸泥.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 1/4",
+"不死生物",
+"怪物"
+]
+},
+{
+"title": "胃余尸泥团",
+"file": "wikitext/main/胃余尸泥团.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 5",
+"不死生物",
+"怪物"
+]
+},
+{
 "title": "胆小",
 "file": "wikitext/main/胆小.wiki",
 "types": [
@@ -231162,6 +235404,19 @@
 ]
 },
 {
+"title": "脑鼠王",
+"file": "wikitext/main/脑鼠王.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 5",
+"怪物",
+"魔法兽"
+]
+},
+{
 "title": "脓孢人",
 "file": "wikitext/main/脓孢人.wiki",
 "types": [
@@ -231778,6 +236033,18 @@
 ]
 },
 {
+"title": "腐臭召唤",
+"file": "wikitext/main/腐臭召唤.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "腐臭吐息灵药",
 "file": "wikitext/main/腐臭吐息灵药.wiki",
 "types": [
@@ -231830,15 +236097,6 @@
 ]
 },
 {
-"title": "腐败光环",
-"file": "wikitext/main/腐败光环.wiki",
-"types": [],
-"ai": false,
-"categories": [
-"领域"
-]
-},
-{
 "title": "腐败呼吸",
 "file": "wikitext/main/腐败呼吸.wiki",
 "types": [
@@ -231860,6 +236118,15 @@
 "物品",
 "诅咒物品",
 "魔法物品"
+]
+},
+{
+"title": "腐败灵氲",
+"file": "wikitext/main/腐败灵氲.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"领域"
 ]
 },
 {
@@ -232116,6 +236383,18 @@
 ]
 },
 {
+"title": "腾跃步",
+"file": "wikitext/main/腾跃步.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "腿部稳定器",
 "file": "wikitext/main/腿部稳定器.wiki",
 "types": [
@@ -232167,6 +236446,18 @@
 "炼金武器",
 "物品",
 "装备"
+]
+},
+{
+"title": "臃肿学徒",
+"file": "wikitext/main/臃肿学徒.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -232710,6 +237001,18 @@
 ]
 },
 {
+"title": "自残仪式师",
+"file": "wikitext/main/自残仪式师.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "自残旋风",
 "file": "wikitext/main/自残旋风.wiki",
 "types": [
@@ -232972,6 +237275,17 @@
 "ai": false,
 "categories": [
 "德鲁伊领域"
+]
+},
+{
+"title": "自然探路者",
+"file": "wikitext/main/自然探路者.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
 ]
 },
 {
@@ -233587,8 +237901,8 @@
 ]
 },
 {
-"title": "自闭灵光",
-"file": "wikitext/main/自闭灵光.wiki",
+"title": "自闭灵氲",
+"file": "wikitext/main/自闭灵氲.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -234694,6 +239008,19 @@
 ]
 },
 {
+"title": "致残突刺",
+"file": "wikitext/main/致残突刺.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
+]
+},
+{
 "title": "致病陪伴",
 "file": "wikitext/main/致病陪伴.wiki",
 "types": [
@@ -234861,7 +239188,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "怪物种族",
 "种族"
@@ -234891,6 +239218,18 @@
 "AI翻译",
 "地区背景特性",
 "背景特性"
+]
+},
+{
+"title": "舒奇之辩",
+"file": "wikitext/main/舒奇之辩.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -235504,6 +239843,16 @@
 ]
 },
 {
+"title": "艺术品",
+"file": "wikitext/main/艺术品.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"扩展规则"
+]
+},
+{
 "title": "艺术外交",
 "file": "wikitext/main/艺术外交.wiki",
 "types": [
@@ -235664,6 +240013,18 @@
 "特殊魔法武器",
 "魔法武器",
 "魔法物品"
+]
+},
+{
+"title": "艾奥梅黛剑誓",
+"file": "wikitext/main/艾奥梅黛剑誓.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -236087,84 +240448,6 @@
 "奇物",
 "物品",
 "魔法物品"
-]
-},
-{
-"title": "芒吉咖啡",
-"file": "wikitext/main/芒吉咖啡.wiki",
-"types": [
-"equipment"
-],
-"ai": false,
-"categories": [
-"物品",
-"装备",
-"饮食"
-]
-},
-{
-"title": "芒吉学者",
-"file": "wikitext/main/芒吉学者.wiki",
-"types": [
-"traits"
-],
-"ai": true,
-"categories": [
-"AI翻译",
-"战役背景特性",
-"背景特性"
-]
-},
-{
-"title": "芒吉灵盾",
-"file": "wikitext/main/芒吉灵盾.wiki",
-"types": [
-"magic_items"
-],
-"ai": true,
-"categories": [
-"AI翻译",
-"物品",
-"特殊魔法盾牌",
-"魔法物品",
-"魔法防具"
-]
-},
-{
-"title": "芒吉草药传统",
-"file": "wikitext/main/芒吉草药传统.wiki",
-"types": [
-"traits"
-],
-"ai": false,
-"categories": [
-"地区背景特性",
-"背景特性"
-]
-},
-{
-"title": "芒吉莽原登船",
-"file": "wikitext/main/芒吉莽原登船.wiki",
-"types": [
-"traits"
-],
-"ai": true,
-"categories": [
-"AI翻译",
-"战役背景特性",
-"背景特性"
-]
-},
-{
-"title": "芒吉语言学家",
-"file": "wikitext/main/芒吉语言学家.wiki",
-"types": [
-"traits"
-],
-"ai": false,
-"categories": [
-"地区背景特性",
-"背景特性"
 ]
 },
 {
@@ -236780,6 +241063,19 @@
 ]
 },
 {
+"title": "苏(怪物)",
+"file": "wikitext/main/苏(怪物).wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 8",
+"怪物",
+"魔法兽"
+]
+},
+{
 "title": "苏勒士的真印",
 "file": "wikitext/main/苏勒士的真印.wiki",
 "types": [
@@ -237101,7 +241397,7 @@
 "types": [
 "creatures"
 ],
-"ai": true,
+"ai": false,
 "categories": [
 "AI翻译",
 "CR 21",
@@ -237376,8 +241672,8 @@
 ]
 },
 {
-"title": "英勇灵光",
-"file": "wikitext/main/英勇灵光.wiki",
+"title": "英勇灵氲",
+"file": "wikitext/main/英勇灵氲.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -237606,6 +241902,18 @@
 "categories": [
 "背景特性",
 "魔法背景特性"
+]
+},
+{
+"title": "英灵打击",
+"file": "wikitext/main/英灵打击.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -238395,6 +242703,18 @@
 ]
 },
 {
+"title": "草药材料",
+"file": "wikitext/main/草药材料.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "草莽出身",
 "file": "wikitext/main/草莽出身.wiki",
 "types": [
@@ -238495,6 +242815,18 @@
 ]
 },
 {
+"title": "荒疫向导",
+"file": "wikitext/main/荒疫向导.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "荒疫废土",
 "file": "wikitext/main/荒疫废土.wiki",
 "types": [],
@@ -238553,6 +242885,18 @@
 "categories": [
 "战斗背景特性",
 "背景特性"
+]
+},
+{
+"title": "荒疫求生者",
+"file": "wikitext/main/荒疫求生者.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -239144,8 +243488,8 @@
 ]
 },
 {
-"title": "荣耀史之巾〔瓦瑞西安人〕",
-"file": "wikitext/main/荣耀史之巾〔瓦瑞西安人〕.wiki",
+"title": "荣耀史之巾〔瓦瑞西亚人〕",
+"file": "wikitext/main/荣耀史之巾〔瓦瑞西亚人〕.wiki",
 "types": [
 "magic_items"
 ],
@@ -239483,7 +243827,7 @@
 "types": [
 "creatures"
 ],
-"ai": true,
+"ai": false,
 "categories": [
 "AI翻译",
 "CR 12",
@@ -239666,6 +244010,33 @@
 "CR 17",
 "怪物",
 "龙类"
+]
+},
+{
+"title": "莫洛克",
+"file": "wikitext/main/莫洛克.wiki",
+"types": [
+"creatures"
+],
+"ai": true,
+"categories": [
+"CR 2",
+"人形怪物",
+"怪物"
+]
+},
+{
+"title": "莫洛克蜂拥者部队",
+"file": "wikitext/main/莫洛克蜂拥者部队.wiki",
+"types": [
+"creatures"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"CR 7",
+"人形怪物",
+"怪物"
 ]
 },
 {
@@ -239967,6 +244338,84 @@
 ]
 },
 {
+"title": "莽吉咖啡",
+"file": "wikitext/main/莽吉咖啡.wiki",
+"types": [
+"equipment"
+],
+"ai": false,
+"categories": [
+"物品",
+"装备",
+"饮食"
+]
+},
+{
+"title": "莽吉学者",
+"file": "wikitext/main/莽吉学者.wiki",
+"types": [
+"traits"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"战役背景特性",
+"背景特性"
+]
+},
+{
+"title": "莽吉灵盾",
+"file": "wikitext/main/莽吉灵盾.wiki",
+"types": [
+"magic_items"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"物品",
+"特殊魔法盾牌",
+"魔法物品",
+"魔法防具"
+]
+},
+{
+"title": "莽吉草药传统",
+"file": "wikitext/main/莽吉草药传统.wiki",
+"types": [
+"traits"
+],
+"ai": false,
+"categories": [
+"地区背景特性",
+"背景特性"
+]
+},
+{
+"title": "莽吉莽原登船",
+"file": "wikitext/main/莽吉莽原登船.wiki",
+"types": [
+"traits"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"战役背景特性",
+"背景特性"
+]
+},
+{
+"title": "莽吉语言学家",
+"file": "wikitext/main/莽吉语言学家.wiki",
+"types": [
+"traits"
+],
+"ai": false,
+"categories": [
+"地区背景特性",
+"背景特性"
+]
+},
+{
 "title": "菁英野兽语者",
 "file": "wikitext/main/菁英野兽语者.wiki",
 "types": [
@@ -240224,6 +244673,17 @@
 "奇物",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "萨希尔·菲恩",
+"file": "wikitext/main/萨希尔·菲恩.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
 ]
 },
 {
@@ -240556,6 +245016,32 @@
 "categories": [
 "专长",
 "神话专长"
+]
+},
+{
+"title": "葛藤入侵",
+"file": "wikitext/main/葛藤入侵.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
+]
+},
+{
+"title": "葛藤占领",
+"file": "wikitext/main/葛藤占领.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
 ]
 },
 {
@@ -240918,6 +245404,19 @@
 ]
 },
 {
+"title": "蓄意之死",
+"file": "wikitext/main/蓄意之死.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"起源专长"
+]
+},
+{
 "title": "蓄能元素攻袭",
 "file": "wikitext/main/蓄能元素攻袭.wiki",
 "types": [
@@ -241075,6 +245574,19 @@
 ]
 },
 {
+"title": "蓝鲸(怪物)",
+"file": "wikitext/main/蓝鲸(怪物).wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 12",
+"动物",
+"怪物"
+]
+},
+{
 "title": "蓝鲸(物品)",
 "file": "wikitext/main/蓝鲸(物品).wiki",
 "types": [
@@ -241175,6 +245687,18 @@
 ]
 },
 {
+"title": "蔓生巨怪",
+"file": "wikitext/main/蔓生巨怪.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "蔓生引导",
 "file": "wikitext/main/蔓生引导.wiki",
 "types": [
@@ -241208,6 +245732,18 @@
 "categories": [
 "咒法系法术",
 "法术"
+]
+},
+{
+"title": "蔚蓝深渊的边境领主",
+"file": "wikitext/main/蔚蓝深渊的边境领主.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"宫廷头衔专长"
 ]
 },
 {
@@ -241420,8 +245956,8 @@
 ]
 },
 {
-"title": "藏匿光环",
-"file": "wikitext/main/藏匿光环.wiki",
+"title": "藏匿灵氲",
+"file": "wikitext/main/藏匿灵氲.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -241987,6 +246523,18 @@
 ]
 },
 {
+"title": "虔信烙印",
+"file": "wikitext/main/虔信烙印.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "虔信经匣",
 "file": "wikitext/main/虔信经匣.wiki",
 "types": [
@@ -242427,8 +246975,8 @@
 ]
 },
 {
-"title": "虚妄魔之噬咬",
-"file": "wikitext/main/虚妄魔之噬咬.wiki",
+"title": "虚妄魔之啮咬",
+"file": "wikitext/main/虚妄魔之啮咬.wiki",
 "types": [
 "feats"
 ],
@@ -242667,6 +247215,18 @@
 "categories": [
 "危害",
 "毒药"
+]
+},
+{
+"title": "虚灵直觉",
+"file": "wikitext/main/虚灵直觉.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -243091,6 +247651,18 @@
 "categories": [
 "专长",
 "战斗专长"
+]
+},
+{
+"title": "虫类伙伴",
+"file": "wikitext/main/虫类伙伴.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -244153,6 +248725,19 @@
 ]
 },
 {
+"title": "蛇身妖",
+"file": "wikitext/main/蛇身妖.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 12",
+"异怪",
+"怪物"
+]
+},
+{
 "title": "蛇道竞技者",
 "file": "wikitext/main/蛇道竞技者.wiki",
 "types": [
@@ -244382,6 +248967,19 @@
 "奇物",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "蛙父",
+"file": "wikitext/main/蛙父.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 5",
+"动物",
+"怪物"
 ]
 },
 {
@@ -244756,6 +249354,19 @@
 "奇物",
 "物品",
 "脚部奇物"
+]
+},
+{
+"title": "蛮荒战术",
+"file": "wikitext/main/蛮荒战术.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
 ]
 },
 {
@@ -247002,15 +251613,6 @@
 ]
 },
 {
-"title": "血之狂乱",
-"file": "wikitext/main/血之狂乱.wiki",
-"types": [],
-"ai": false,
-"categories": [
-"进化"
-]
-},
-{
 "title": "血之盛宴",
 "file": "wikitext/main/血之盛宴.wiki",
 "types": [
@@ -247392,6 +251994,19 @@
 ]
 },
 {
+"title": "血毛虫",
+"file": "wikitext/main/血毛虫.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 4",
+"怪物",
+"虫类"
+]
+},
+{
 "title": "血汁",
 "file": "wikitext/main/血汁.wiki",
 "types": [
@@ -247751,6 +252366,19 @@
 "特殊魔法武器",
 "魔法武器",
 "魔法物品"
+]
+},
+{
+"title": "血石缉凶者",
+"file": "wikitext/main/血石缉凶者.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"组织专长"
 ]
 },
 {
@@ -248459,6 +253087,19 @@
 ]
 },
 {
+"title": "血腥变形",
+"file": "wikitext/main/血腥变形.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"怪物专长"
+]
+},
+{
 "title": "血腥啮咬",
 "file": "wikitext/main/血腥啮咬.wiki",
 "types": [
@@ -248596,6 +253237,19 @@
 "ai": false,
 "categories": [
 "狂暴之力"
+]
+},
+{
+"title": "血荆棘",
+"file": "wikitext/main/血荆棘.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 10",
+"怪物",
+"植物"
 ]
 },
 {
@@ -248793,6 +253447,19 @@
 ]
 },
 {
+"title": "血骨魔",
+"file": "wikitext/main/血骨魔.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 10",
+"不死生物",
+"怪物"
+]
+},
+{
 "title": "血鬼婆",
 "file": "wikitext/main/血鬼婆.wiki",
 "types": [
@@ -248802,6 +253469,19 @@
 "categories": [
 "CR 8",
 "人形怪物",
+"怪物"
+]
+},
+{
+"title": "血鬼狼",
+"file": "wikitext/main/血鬼狼.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 3",
+"不死生物",
 "怪物"
 ]
 },
@@ -249139,6 +253819,19 @@
 "categories": [
 "AI翻译",
 "NPC"
+]
+},
+{
+"title": "衍体连结",
+"file": "wikitext/main/衍体连结.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"怪物专长"
 ]
 },
 {
@@ -251283,6 +255976,18 @@
 ]
 },
 {
+"title": "视觉之赐",
+"file": "wikitext/main/视觉之赐.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "视觉增强模组",
 "file": "wikitext/main/视觉增强模组.wiki",
 "types": [
@@ -251841,6 +256546,18 @@
 ]
 },
 {
+"title": "解构法术",
+"file": "wikitext/main/解构法术.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "解析咒文",
 "file": "wikitext/main/解析咒文.wiki",
 "types": [
@@ -252292,15 +257009,6 @@
 "ai": false,
 "categories": [
 "科研发现"
-]
-},
-{
-"title": "触手团",
-"file": "wikitext/main/触手团.wiki",
-"types": [],
-"ai": false,
-"categories": [
-"进化"
 ]
 },
 {
@@ -253576,6 +258284,18 @@
 ]
 },
 {
+"title": "诅咒导体",
+"file": "wikitext/main/诅咒导体.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "诅咒巫术",
 "file": "wikitext/main/诅咒巫术.wiki",
 "types": [
@@ -254231,6 +258951,18 @@
 ]
 },
 {
+"title": "诡异火花",
+"file": "wikitext/main/诡异火花.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "诡异的管家",
 "file": "wikitext/main/诡异的管家.wiki",
 "types": [
@@ -254612,6 +259344,18 @@
 ]
 },
 {
+"title": "诱惑交易",
+"file": "wikitext/main/诱惑交易.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "诱惑头带",
 "file": "wikitext/main/诱惑头带.wiki",
 "types": [
@@ -254887,6 +259631,19 @@
 "奇物",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "诵经祭司",
+"file": "wikitext/main/诵经祭司.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"起源专长"
 ]
 },
 {
@@ -255532,6 +260289,18 @@
 "奇物",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "谄媚者",
+"file": "wikitext/main/谄媚者.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -256539,6 +261308,18 @@
 ]
 },
 {
+"title": "豺狼人必须死",
+"file": "wikitext/main/豺狼人必须死.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"伟业专长"
+]
+},
+{
 "title": "豺狼人怒火斗士",
 "file": "wikitext/main/豺狼人怒火斗士.wiki",
 "types": [
@@ -257350,8 +262131,8 @@
 ]
 },
 {
-"title": "贪婪光环",
-"file": "wikitext/main/贪婪光环.wiki",
+"title": "贪婪灵氲",
+"file": "wikitext/main/贪婪灵氲.wiki",
 "types": [
 "spells"
 ],
@@ -257362,8 +262143,8 @@
 ]
 },
 {
-"title": "贪婪光环 (神话)",
-"file": "wikitext/main/贪婪光环 (神话).wiki",
+"title": "贪婪灵氲 (神话)",
+"file": "wikitext/main/贪婪灵氲 (神话).wiki",
 "types": [
 "spells"
 ],
@@ -258296,7 +263077,9 @@
 {
 "title": "赛卡利亚",
 "file": "wikitext/main/赛卡利亚.wiki",
-"types": [],
+"types": [
+"races"
+],
 "ai": false,
 "categories": [
 "种族"
@@ -258313,6 +263096,18 @@
 "CR 5",
 "人形怪物",
 "怪物"
+]
+},
+{
+"title": "赛奥尼",
+"file": "wikitext/main/赛奥尼.wiki",
+"types": [
+"creatures"
+],
+"ai": true,
+"categories": [
+"NPC",
+"待汉化"
 ]
 },
 {
@@ -258643,7 +263438,7 @@
 "types": [
 "creatures"
 ],
-"ai": true,
+"ai": false,
 "categories": [
 "CR 5",
 "怪物",
@@ -259169,12 +263964,12 @@
 ]
 },
 {
-"title": "超魔专长一览",
-"file": "wikitext/main/超魔专长一览.wiki",
+"title": "超魔专长速查",
+"file": "wikitext/main/超魔专长速查.wiki",
 "types": [],
 "ai": false,
 "categories": [
-"专长规则"
+"专长速查"
 ]
 },
 {
@@ -259369,6 +264164,19 @@
 "ai": false,
 "categories": [
 "奥能技艺"
+]
+},
+{
+"title": "跃水兽",
+"file": "wikitext/main/跃水兽.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 2",
+"怪物",
+"魔法兽"
 ]
 },
 {
@@ -260029,8 +264837,8 @@
 ]
 },
 {
-"title": "躁乱灵光",
-"file": "wikitext/main/躁乱灵光.wiki",
+"title": "躁乱灵氲",
+"file": "wikitext/main/躁乱灵氲.wiki",
 "types": [
 "spells"
 ],
@@ -261212,6 +266020,18 @@
 ]
 },
 {
+"title": "辅助攀升",
+"file": "wikitext/main/辅助攀升.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"团队专长"
+]
+},
+{
 "title": "辅士",
 "file": "wikitext/main/辅士.wiki",
 "types": [],
@@ -262065,6 +266885,18 @@
 ]
 },
 {
+"title": "迅捷结晶尘埃",
+"file": "wikitext/main/迅捷结晶尘埃.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "迅捷脚步",
 "file": "wikitext/main/迅捷脚步.wiki",
 "types": [
@@ -262881,6 +267713,23 @@
 ]
 },
 {
+"title": "进阶玩家指南/导言",
+"file": "wikitext/main/进阶玩家指南_1_导言.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"扩展规则"
+]
+},
+{
+"title": "进阶玩家指南/章首小故事",
+"file": "wikitext/main/进阶玩家指南_1_章首小故事.wiki",
+"types": [],
+"ai": false,
+"categories": []
+},
+{
 "title": "进阶生命通道",
 "file": "wikitext/main/进阶生命通道.wiki",
 "types": [
@@ -262937,6 +267786,23 @@
 ]
 },
 {
+"title": "进阶种族手册/导言",
+"file": "wikitext/main/进阶种族手册_1_导言.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"扩展规则"
+]
+},
+{
+"title": "进阶种族手册/章首小故事",
+"file": "wikitext/main/进阶种族手册_1_章首小故事.wiki",
+"types": [],
+"ai": false,
+"categories": []
+},
+{
 "title": "进阶编年史",
 "file": "wikitext/main/进阶编年史.wiki",
 "types": [],
@@ -262969,7 +267835,7 @@
 "title": "进阶职业（NPC志）",
 "file": "wikitext/main/进阶职业（NPC志）.wiki",
 "types": [],
-"ai": false,
+"ai": true,
 "categories": [
 "NPC汇总"
 ]
@@ -263155,6 +268021,18 @@
 ]
 },
 {
+"title": "远古龙语",
+"file": "wikitext/main/远古龙语.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "远处观察",
 "file": "wikitext/main/远处观察.wiki",
 "types": [],
@@ -263285,19 +268163,6 @@
 ]
 },
 {
-"title": "远程卸武",
-"file": "wikitext/main/远程卸武.wiki",
-"types": [
-"feats"
-],
-"ai": false,
-"categories": [
-"专长",
-"战斗专长",
-"瞄准专长"
-]
-},
-{
 "title": "远程启动魔方",
 "file": "wikitext/main/远程启动魔方.wiki",
 "types": [
@@ -263399,6 +268264,19 @@
 "ai": false,
 "categories": [
 "专长"
+]
+},
+{
+"title": "远程缴械",
+"file": "wikitext/main/远程缴械.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"战斗专长",
+"瞄准专长"
 ]
 },
 {
@@ -263890,6 +268768,17 @@
 ]
 },
 {
+"title": "迦尔特煽动者",
+"file": "wikitext/main/迦尔特煽动者.wiki",
+"types": [],
+"ai": true,
+"categories": [
+"AI翻译",
+"变体职业",
+"盗贼变体职业"
+]
+},
+{
 "title": "迦楼罗",
 "file": "wikitext/main/迦楼罗.wiki",
 "types": [
@@ -264347,8 +269236,8 @@
 ]
 },
 {
-"title": "迷心灵光",
-"file": "wikitext/main/迷心灵光.wiki",
+"title": "迷心灵氲",
+"file": "wikitext/main/迷心灵氲.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -264917,8 +269806,8 @@
 ]
 },
 {
-"title": "追踪灵光",
-"file": "wikitext/main/追踪灵光.wiki",
+"title": "追踪灵氲",
+"file": "wikitext/main/追踪灵氲.wiki",
 "types": [
 "spells"
 ],
@@ -266884,6 +271773,18 @@
 ]
 },
 {
+"title": "道德危机",
+"file": "wikitext/main/道德危机.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"故事专长"
+]
+},
+{
 "title": "道德领袖",
 "file": "wikitext/main/道德领袖.wiki",
 "types": [
@@ -267084,6 +271985,18 @@
 "categories": [
 "惑控系法术",
 "法术"
+]
+},
+{
+"title": "遗忘法老誓约",
+"file": "wikitext/main/遗忘法老誓约.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -267594,6 +272507,17 @@
 ]
 },
 {
+"title": "避开集群",
+"file": "wikitext/main/避开集群.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
+]
+},
+{
 "title": "避水小屋",
 "file": "wikitext/main/避水小屋.wiki",
 "types": [
@@ -267661,6 +272585,19 @@
 "categories": [
 "变化系法术",
 "法术"
+]
+},
+{
+"title": "邃胃兽",
+"file": "wikitext/main/邃胃兽.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 13",
+"异怪",
+"怪物"
 ]
 },
 {
@@ -267928,8 +272865,8 @@
 ]
 },
 {
-"title": "邪恶灵光",
-"file": "wikitext/main/邪恶灵光.wiki",
+"title": "邪恶灵氲",
+"file": "wikitext/main/邪恶灵氲.wiki",
 "types": [
 "spells"
 ],
@@ -269816,6 +274753,19 @@
 ]
 },
 {
+"title": "重力要害打击",
+"file": "wikitext/main/重力要害打击.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
+]
+},
+{
 "title": "重压",
 "file": "wikitext/main/重压.wiki",
 "types": [],
@@ -270044,8 +274994,8 @@
 ]
 },
 {
-"title": "重复灵光",
-"file": "wikitext/main/重复灵光.wiki",
+"title": "重复灵氲",
+"file": "wikitext/main/重复灵氲.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -270312,7 +275262,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "待汉化",
 "种族"
@@ -272288,6 +277238,18 @@
 ]
 },
 {
+"title": "鎏金武器",
+"file": "wikitext/main/鎏金武器.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "鏖战重盾",
 "file": "wikitext/main/鏖战重盾.wiki",
 "types": [
@@ -273105,6 +278067,18 @@
 ]
 },
 {
+"title": "钻石之力",
+"file": "wikitext/main/钻石之力.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "钻石喷发",
 "file": "wikitext/main/钻石喷发.wiki",
 "types": [
@@ -273808,6 +278782,18 @@
 "categories": [
 "战斗背景特性",
 "背景特性"
+]
+},
+{
+"title": "铁腕",
+"file": "wikitext/main/铁腕.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -275226,6 +280212,18 @@
 ]
 },
 {
+"title": "锁链破除者",
+"file": "wikitext/main/锁链破除者.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"伟业专长"
+]
+},
+{
 "title": "锁镰",
 "file": "wikitext/main/锁镰.wiki",
 "types": [
@@ -275993,6 +280991,19 @@
 ]
 },
 {
+"title": "锯齿避日蛛",
+"file": "wikitext/main/锯齿避日蛛.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 11",
+"怪物",
+"虫类"
+]
+},
+{
 "title": "锯齿铁蒺藜",
 "file": "wikitext/main/锯齿铁蒺藜.wiki",
 "types": [
@@ -276181,6 +281192,19 @@
 "categories": [
 "派系背景特性",
 "背景特性"
+]
+},
+{
+"title": "镇定性情",
+"file": "wikitext/main/镇定性情.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"组织专长"
 ]
 },
 {
@@ -276831,6 +281855,18 @@
 ],
 "ai": false,
 "categories": [
+"专长"
+]
+},
+{
+"title": "长效药水",
+"file": "wikitext/main/长效药水.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
 "专长"
 ]
 },
@@ -278228,15 +283264,6 @@
 ]
 },
 {
-"title": "闭气",
-"file": "wikitext/main/闭气.wiki",
-"types": [],
-"ai": false,
-"categories": [
-"通用怪物规则"
-]
-},
-{
 "title": "闭锁",
 "file": "wikitext/main/闭锁.wiki",
 "types": [
@@ -278645,7 +283672,7 @@
 "types": [
 "creatures"
 ],
-"ai": true,
+"ai": false,
 "categories": [
 "AI翻译",
 "CR 2",
@@ -279339,8 +284366,8 @@
 ]
 },
 {
-"title": "防护灵光",
-"file": "wikitext/main/防护灵光.wiki",
+"title": "防护灵氲",
+"file": "wikitext/main/防护灵氲.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -280128,15 +285155,6 @@
 ]
 },
 {
-"title": "阴影幻灵",
-"file": "wikitext/main/阴影幻灵.wiki",
-"types": [],
-"ai": false,
-"categories": [
-"伙伴与魔宠"
-]
-},
-{
 "title": "阴影庇护所",
 "file": "wikitext/main/阴影庇护所.wiki",
 "types": [
@@ -280303,20 +285321,6 @@
 ]
 },
 {
-"title": "阴影牧者",
-"file": "wikitext/main/阴影牧者.wiki",
-"types": [
-"creatures"
-],
-"ai": true,
-"categories": [
-"AI翻译",
-"CR 5",
-"异界生物",
-"怪物"
-]
-},
-{
 "title": "阴影生物",
 "file": "wikitext/main/阴影生物.wiki",
 "types": [
@@ -280466,18 +285470,6 @@
 ]
 },
 {
-"title": "阴招卸武",
-"file": "wikitext/main/阴招卸武.wiki",
-"types": [
-"feats"
-],
-"ai": false,
-"categories": [
-"专长",
-"战斗专长"
-]
-},
-{
 "title": "阴招大师",
 "file": "wikitext/main/阴招大师.wiki",
 "types": [
@@ -280522,6 +285514,18 @@
 {
 "title": "阴招擒抱",
 "file": "wikitext/main/阴招擒抱.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"战斗专长"
+]
+},
+{
+"title": "阴招缴械",
+"file": "wikitext/main/阴招缴械.wiki",
 "types": [
 "feats"
 ],
@@ -280975,6 +285979,20 @@
 "物品",
 "诅咒物品",
 "魔法物品"
+]
+},
+{
+"title": "阻敌阵线",
+"file": "wikitext/main/阻敌阵线.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"团队专长",
+"战斗专长"
 ]
 },
 {
@@ -281643,6 +286661,19 @@
 "奇物",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "阿哈特",
+"file": "wikitext/main/阿哈特.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 4",
+"异界生物",
+"怪物"
 ]
 },
 {
@@ -282906,12 +287937,35 @@
 ]
 },
 {
+"title": "附加条文",
+"file": "wikitext/main/附加条文.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
+]
+},
+{
 "title": "附属法术",
 "file": "wikitext/main/附属法术.wiki",
 "types": [],
 "ai": false,
 "categories": [
 "精神增幅"
+]
+},
+{
+"title": "附岩者",
+"file": "wikitext/main/附岩者.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -282945,6 +287999,45 @@
 "ai": false,
 "categories": [
 "扩展规则"
+]
+},
+{
+"title": "附身场所",
+"file": "wikitext/main/附身场所.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"怪物专长"
+]
+},
+{
+"title": "附身物体",
+"file": "wikitext/main/附身物体.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"怪物专长"
+]
+},
+{
+"title": "附身生物",
+"file": "wikitext/main/附身生物.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"怪物专长"
 ]
 },
 {
@@ -283973,6 +289066,17 @@
 ]
 },
 {
+"title": "隐于人群",
+"file": "wikitext/main/隐于人群.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
+]
+},
+{
 "title": "隐信祭司",
 "file": "wikitext/main/隐信祭司.wiki",
 "types": [],
@@ -284642,8 +289746,8 @@
 ]
 },
 {
-"title": "隐藏灵光",
-"file": "wikitext/main/隐藏灵光.wiki",
+"title": "隐藏灵氲",
+"file": "wikitext/main/隐藏灵氲.wiki",
 "types": [
 "feats"
 ],
@@ -285052,6 +290156,18 @@
 ]
 },
 {
+"title": "难以消化",
+"file": "wikitext/main/难以消化.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "雀鳝",
 "file": "wikitext/main/雀鳝.wiki",
 "types": [
@@ -285206,6 +290322,18 @@
 "categories": [
 "AI翻译",
 "NPC"
+]
+},
+{
+"title": "雄鹰骑士候选",
+"file": "wikitext/main/雄鹰骑士候选.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"伟业专长"
 ]
 },
 {
@@ -285494,6 +290622,19 @@
 "防具附魔",
 "魔法物品",
 "魔法防具"
+]
+},
+{
+"title": "集结冲锋",
+"file": "wikitext/main/集结冲锋.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
 ]
 },
 {
@@ -286312,6 +291453,18 @@
 "categories": [
 "塑能系法术",
 "法术"
+]
+},
+{
+"title": "雷殛蹒跚者",
+"file": "wikitext/main/雷殛蹒跚者.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -287147,6 +292300,17 @@
 ]
 },
 {
+"title": "霉咒强化",
+"file": "wikitext/main/霉咒强化.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
+]
+},
+{
 "title": "霉咒法术",
 "file": "wikitext/main/霉咒法术.wiki",
 "types": [
@@ -287733,6 +292897,20 @@
 ]
 },
 {
+"title": "霸髯魔胡须",
+"file": "wikitext/main/霸髯魔胡须.wiki",
+"types": [
+"weapons"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"异种武器",
+"武器",
+"物品"
+]
+},
+{
 "title": "霹雳之锤",
 "file": "wikitext/main/霹雳之锤.wiki",
 "types": [
@@ -287794,6 +292972,18 @@
 "categories": [
 "危害",
 "毒药"
+]
+},
+{
+"title": "青翠之步",
+"file": "wikitext/main/青翠之步.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -287955,6 +293145,18 @@
 "奇物",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "静如磐石",
+"file": "wikitext/main/静如磐石.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -288247,18 +293449,6 @@
 ]
 },
 {
-"title": "靠谱人",
-"file": "wikitext/main/靠谱人.wiki",
-"types": [
-"traits"
-],
-"ai": false,
-"categories": [
-"社会背景特性",
-"背景特性"
-]
-},
-{
 "title": "面为木雕",
 "file": "wikitext/main/面为木雕.wiki",
 "types": [
@@ -288465,6 +293655,19 @@
 "物品",
 "衣物",
 "装备"
+]
+},
+{
+"title": "鞍上尖啸",
+"file": "wikitext/main/鞍上尖啸.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
 ]
 },
 {
@@ -288788,6 +293991,19 @@
 ]
 },
 {
+"title": "顶罪者",
+"file": "wikitext/main/顶罪者.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"团队专长"
+]
+},
+{
 "title": "顺从镣铐",
 "file": "wikitext/main/顺从镣铐.wiki",
 "types": [
@@ -288859,6 +294075,18 @@
 "categories": [
 "专长",
 "战斗专长"
+]
+},
+{
+"title": "顺手抄物",
+"file": "wikitext/main/顺手抄物.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -288970,8 +294198,8 @@
 ]
 },
 {
-"title": "顽勇灵光",
-"file": "wikitext/main/顽勇灵光.wiki",
+"title": "顽勇灵氲",
+"file": "wikitext/main/顽勇灵氲.wiki",
 "types": [
 "spells"
 ],
@@ -288979,6 +294207,18 @@
 "categories": [
 "法术",
 "防护系法术"
+]
+},
+{
+"title": "顽固诅咒",
+"file": "wikitext/main/顽固诅咒.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -290392,17 +295632,6 @@
 ]
 },
 {
-"title": "额外炼狱抗力",
-"file": "wikitext/main/额外炼狱抗力.wiki",
-"types": [
-"feats"
-],
-"ai": false,
-"categories": [
-"专长"
-]
-},
-{
 "title": "额外炼金炸弹",
 "file": "wikitext/main/额外炼金炸弹.wiki",
 "types": [
@@ -290544,6 +295773,18 @@
 ]
 },
 {
+"title": "额外结晶尘埃",
+"file": "wikitext/main/额外结晶尘埃.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "额外耐力",
 "file": "wikitext/main/额外耐力.wiki",
 "types": [
@@ -290668,8 +295909,31 @@
 ]
 },
 {
+"title": "额外阴影跳跃",
+"file": "wikitext/main/额外阴影跳跃.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "额外预备",
 "file": "wikitext/main/额外预备.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
+]
+},
+{
+"title": "额外魔族抗力",
+"file": "wikitext/main/额外魔族抗力.wiki",
 "types": [
 "feats"
 ],
@@ -293259,6 +298523,18 @@
 ]
 },
 {
+"title": "食人魔碾压",
+"file": "wikitext/main/食人魔碾压.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "食人魔祭司",
 "file": "wikitext/main/食人魔祭司.wiki",
 "types": [
@@ -293677,6 +298953,18 @@
 ]
 },
 {
+"title": "食脑者",
+"file": "wikitext/main/食脑者.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "食腐兽皮甲",
 "file": "wikitext/main/食腐兽皮甲.wiki",
 "types": [
@@ -293808,8 +299096,8 @@
 ]
 },
 {
-"title": "饕食灵气",
-"file": "wikitext/main/饕食灵气.wiki",
+"title": "饕食灵氲",
+"file": "wikitext/main/饕食灵氲.wiki",
 "types": [
 "spells"
 ],
@@ -294559,6 +299847,18 @@
 "CR 1",
 "动物",
 "怪物"
+]
+},
+{
+"title": "马倌",
+"file": "wikitext/main/马倌.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -295479,6 +300779,18 @@
 ]
 },
 {
+"title": "驱离附身者",
+"file": "wikitext/main/驱离附身者.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "驱虫剂",
 "file": "wikitext/main/驱虫剂.wiki",
 "types": [
@@ -295667,6 +300979,18 @@
 ],
 "ai": false,
 "categories": [
+"专长"
+]
+},
+{
+"title": "驱魔自残",
+"file": "wikitext/main/驱魔自残.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
 "专长"
 ]
 },
@@ -295905,6 +301229,19 @@
 ]
 },
 {
+"title": "骇人吞食",
+"file": "wikitext/main/骇人吞食.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
+]
+},
+{
 "title": "骇人外形",
 "file": "wikitext/main/骇人外形.wiki",
 "types": [
@@ -295931,6 +301268,20 @@
 ]
 },
 {
+"title": "骇人屏障",
+"file": "wikitext/main/骇人屏障.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长",
+"组织专长"
+]
+},
+{
 "title": "骇人巫术胸衣",
 "file": "wikitext/main/骇人巫术胸衣.wiki",
 "types": [
@@ -295953,6 +301304,18 @@
 "categories": [
 "背景特性",
 "魔法背景特性"
+]
+},
+{
+"title": "骇人打击",
+"file": "wikitext/main/骇人打击.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -296565,7 +301928,7 @@
 "types": [
 "creatures"
 ],
-"ai": true,
+"ai": false,
 "categories": [
 "AI翻译",
 "CR 4",
@@ -297653,6 +303016,19 @@
 ]
 },
 {
+"title": "高等主观挥击",
+"file": "wikitext/main/高等主观挥击.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
+]
+},
+{
 "title": "高等九狱之血",
 "file": "wikitext/main/高等九狱之血.wiki",
 "types": [
@@ -298063,18 +303439,6 @@
 "categories": [
 "咒法系法术",
 "法术"
-]
-},
-{
-"title": "高等卸武",
-"file": "wikitext/main/高等卸武.wiki",
-"types": [
-"feats"
-],
-"ai": false,
-"categories": [
-"专长",
-"战斗专长"
 ]
 },
 {
@@ -298826,15 +304190,6 @@
 ]
 },
 {
-"title": "高等异能魔法",
-"file": "wikitext/main/高等异能魔法.wiki",
-"types": [],
-"ai": false,
-"categories": [
-"进化"
-]
-},
-{
 "title": "高等引诱精类",
 "file": "wikitext/main/高等引诱精类.wiki",
 "types": [
@@ -299448,8 +304803,8 @@
 ]
 },
 {
-"title": "高等死亡丧钟灵光",
-"file": "wikitext/main/高等死亡丧钟灵光.wiki",
+"title": "高等死亡丧钟灵氲",
+"file": "wikitext/main/高等死亡丧钟灵氲.wiki",
 "types": [
 "spells"
 ],
@@ -300127,8 +305482,8 @@
 ]
 },
 {
-"title": "高等神圣链甲〔瓦瑞西安人〕",
-"file": "wikitext/main/高等神圣链甲〔瓦瑞西安人〕.wiki",
+"title": "高等神圣链甲〔瓦瑞西亚人〕",
+"file": "wikitext/main/高等神圣链甲〔瓦瑞西亚人〕.wiki",
 "types": [
 "magic_items"
 ],
@@ -300352,6 +305707,18 @@
 ]
 },
 {
+"title": "高等缴械",
+"file": "wikitext/main/高等缴械.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"战斗专长"
+]
+},
+{
 "title": "高等联合虚招",
 "file": "wikitext/main/高等联合虚招.wiki",
 "types": [
@@ -300539,6 +305906,19 @@
 "ai": false,
 "categories": [
 "狂暴之力"
+]
+},
+{
+"title": "高等蛮荒战术",
+"file": "wikitext/main/高等蛮荒战术.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
 ]
 },
 {
@@ -301001,8 +306381,8 @@
 ]
 },
 {
-"title": "高等魔法灵光",
-"file": "wikitext/main/高等魔法灵光.wiki",
+"title": "高等魔法灵氲",
+"file": "wikitext/main/高等魔法灵氲.wiki",
 "types": [
 "spells"
 ],
@@ -301139,6 +306519,17 @@
 ]
 },
 {
+"title": "高级陷阱感知",
+"file": "wikitext/main/高级陷阱感知.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
+]
+},
+{
 "title": "高级魔法",
 "file": "wikitext/main/高级魔法.wiki",
 "types": [],
@@ -301217,12 +306608,35 @@
 ]
 },
 {
+"title": "高阶宝藏生成器",
+"file": "wikitext/main/高阶宝藏生成器.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"扩展规则"
+]
+},
+{
 "title": "高阶改变阵营",
 "file": "wikitext/main/高阶改变阵营.wiki",
 "types": [],
 "ai": false,
 "categories": [
 "科研发现"
+]
+},
+{
+"title": "高阶防御式战斗训练",
+"file": "wikitext/main/高阶防御式战斗训练.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长",
+"组织专长"
 ]
 },
 {
@@ -302244,6 +307658,19 @@
 ]
 },
 {
+"title": "魅娃",
+"file": "wikitext/main/魅娃.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 7",
+"异界生物",
+"怪物"
+]
+},
+{
 "title": "魅影",
 "file": "wikitext/main/魅影.wiki",
 "types": [],
@@ -302747,6 +308174,18 @@
 ]
 },
 {
+"title": "魔像信念",
+"file": "wikitext/main/魔像信念.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "魔像建造者",
 "file": "wikitext/main/魔像建造者.wiki",
 "types": [],
@@ -303180,15 +308619,6 @@
 ]
 },
 {
-"title": "魔宠一览",
-"file": "wikitext/main/魔宠一览.wiki",
-"types": [],
-"ai": false,
-"categories": [
-"规则"
-]
-},
-{
 "title": "魔宠专攻",
 "file": "wikitext/main/魔宠专攻.wiki",
 "types": [
@@ -303458,6 +308888,15 @@
 "专长",
 "团队专长",
 "战团专长"
+]
+},
+{
+"title": "魔宠速查",
+"file": "wikitext/main/魔宠速查.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"规则"
 ]
 },
 {
@@ -303741,6 +309180,17 @@
 "套装",
 "物品",
 "装备"
+]
+},
+{
+"title": "魔族生物模板",
+"file": "wikitext/main/魔族生物模板.wiki",
+"types": [
+"creature_templates"
+],
+"ai": false,
+"categories": [
+"怪物模板"
 ]
 },
 {
@@ -304313,8 +309763,8 @@
 ]
 },
 {
-"title": "魔法灵光",
-"file": "wikitext/main/魔法灵光.wiki",
+"title": "魔法灵氲",
+"file": "wikitext/main/魔法灵氲.wiki",
 "types": [
 "spells"
 ],
@@ -304327,6 +309777,123 @@
 {
 "title": "魔法物品",
 "file": "wikitext/main/魔法物品.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"规则"
+]
+},
+{
+"title": "魔法物品/制造魔法物品",
+"file": "wikitext/main/魔法物品_1_制造魔法物品.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"规则"
+]
+},
+{
+"title": "魔法物品/卷轴",
+"file": "wikitext/main/魔法物品_1_卷轴.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"规则"
+]
+},
+{
+"title": "魔法物品/奇物",
+"file": "wikitext/main/魔法物品_1_奇物.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"规则"
+]
+},
+{
+"title": "魔法物品/戒指",
+"file": "wikitext/main/魔法物品_1_戒指.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"规则"
+]
+},
+{
+"title": "魔法物品/智能物品",
+"file": "wikitext/main/魔法物品_1_智能物品.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"规则"
+]
+},
+{
+"title": "魔法物品/权杖",
+"file": "wikitext/main/魔法物品_1_权杖.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"规则"
+]
+},
+{
+"title": "魔法物品/武器",
+"file": "wikitext/main/魔法物品_1_武器.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"规则"
+]
+},
+{
+"title": "魔法物品/法杖",
+"file": "wikitext/main/魔法物品_1_法杖.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"规则"
+]
+},
+{
+"title": "魔法物品/神器",
+"file": "wikitext/main/魔法物品_1_神器.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"规则"
+]
+},
+{
+"title": "魔法物品/药水",
+"file": "wikitext/main/魔法物品_1_药水.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"规则"
+]
+},
+{
+"title": "魔法物品/诅咒物品",
+"file": "wikitext/main/魔法物品_1_诅咒物品.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"规则"
+]
+},
+{
+"title": "魔法物品/防具",
+"file": "wikitext/main/魔法物品_1_防具.wiki",
+"types": [],
+"ai": false,
+"categories": [
+"规则"
+]
+},
+{
+"title": "魔法物品/魔杖",
+"file": "wikitext/main/魔法物品_1_魔杖.wiki",
 "types": [],
 "ai": false,
 "categories": [
@@ -305081,6 +310648,18 @@
 ]
 },
 {
+"title": "魔鬼死敌",
+"file": "wikitext/main/魔鬼死敌.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长",
+"伟业专长"
+]
+},
+{
 "title": "魔鬼涎",
 "file": "wikitext/main/魔鬼涎.wiki",
 "types": [
@@ -305737,6 +311316,19 @@
 ]
 },
 {
+"title": "鱼马人",
+"file": "wikitext/main/鱼马人.wiki",
+"types": [
+"creatures"
+],
+"ai": false,
+"categories": [
+"CR 5",
+"人形怪物",
+"怪物"
+]
+},
+{
 "title": "鲁尔战猫",
 "file": "wikitext/main/鲁尔战猫.wiki",
 "types": [
@@ -305873,8 +311465,8 @@
 ]
 },
 {
-"title": "鲜明灵光三眼镜",
-"file": "wikitext/main/鲜明灵光三眼镜.wiki",
+"title": "鲜明灵氲三眼镜",
+"file": "wikitext/main/鲜明灵氲三眼镜.wiki",
 "types": [
 "magic_items"
 ],
@@ -306028,6 +311620,19 @@
 "ai": false,
 "categories": [
 "通用怪物规则"
+]
+},
+{
+"title": "鲜血盛宴",
+"file": "wikitext/main/鲜血盛宴.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长",
+"战斗专长"
 ]
 },
 {
@@ -306522,6 +312127,18 @@
 ]
 },
 {
+"title": "鳞片门徒",
+"file": "wikitext/main/鳞片门徒.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "鳞片魔孽",
 "file": "wikitext/main/鳞片魔孽.wiki",
 "types": [
@@ -306878,7 +312495,7 @@
 "types": [
 "races"
 ],
-"ai": false,
+"ai": true,
 "categories": [
 "种族",
 "罕见种族"
@@ -308733,6 +314350,17 @@
 ]
 },
 {
+"title": "黑市商人",
+"file": "wikitext/main/黑市商人.wiki",
+"types": [
+"feats"
+],
+"ai": false,
+"categories": [
+"专长"
+]
+},
+{
 "title": "黑市客户",
 "file": "wikitext/main/黑市客户.wiki",
 "types": [],
@@ -309164,6 +314792,18 @@
 ]
 },
 {
+"title": "黑暗精通者",
+"file": "wikitext/main/黑暗精通者.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "黑暗耳语",
 "file": "wikitext/main/黑暗耳语.wiki",
 "types": [
@@ -309583,6 +315223,18 @@
 "categories": [
 "职业",
 "进阶职业"
+]
+},
+{
+"title": "黑炎召唤",
+"file": "wikitext/main/黑炎召唤.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -310204,6 +315856,18 @@
 "奇物",
 "物品",
 "魔法物品"
+]
+},
+{
+"title": "默语之道门徒",
+"file": "wikitext/main/默语之道门徒.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -310921,6 +316585,18 @@
 ]
 },
 {
+"title": "龙之卫士",
+"file": "wikitext/main/龙之卫士.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "龙之友",
 "file": "wikitext/main/龙之友.wiki",
 "types": [
@@ -310993,6 +316669,18 @@
 "ai": false,
 "categories": [
 "秘示域"
+]
+},
+{
+"title": "龙之定力",
+"file": "wikitext/main/龙之定力.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {
@@ -311630,6 +317318,18 @@
 ]
 },
 {
+"title": "龙族传承",
+"file": "wikitext/main/龙族传承.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
+]
+},
+{
 "title": "龙族力量",
 "file": "wikitext/main/龙族力量.wiki",
 "types": [],
@@ -311648,6 +317348,18 @@
 "categories": [
 "物品",
 "神器"
+]
+},
+{
+"title": "龙族显现",
+"file": "wikitext/main/龙族显现.wiki",
+"types": [
+"feats"
+],
+"ai": true,
+"categories": [
+"AI翻译",
+"专长"
 ]
 },
 {

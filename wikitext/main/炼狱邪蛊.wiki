@@ -34,7 +34,7 @@
 13级起，炼狱邪蛊可以从魔君那里获得更多的智慧。她每日可以使用炼狱预言3次。
 
 ===炼狱召唤术 (Fiendish Summoning)===
-当炼狱邪蛊使用[[召唤怪物]]法术时，她只能召唤出与其侍奉的魔君相同阵营的炼狱生物和邪恶异界生物。
+当炼狱邪蛊使用[[召唤怪物]]法术时，她只能召唤出与其侍奉的魔君相同阵营的魔族生物和邪恶异界生物。
 
 {{AoN原文|1=ArchetypeDisplay.aspx?FixedName=Cleric%20Fiendish%20Vessel|2=Fiendish Vessel}}
 

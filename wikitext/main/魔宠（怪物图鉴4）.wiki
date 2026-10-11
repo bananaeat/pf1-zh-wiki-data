@@ -16,7 +16,7 @@
 |ref=+4
 |will=+1
 |speed=40 尺，攀爬 10 尺，飞行 40 尺（不良）
-|melee=噬咬 +4（1d4–4）
+|melee=啮咬 +4（1d4–4）
 |space=2–1/2 尺
 |reach=0 尺
 |str=3
@@ -55,7 +55,7 @@
 |ref=+2
 |will=–1
 |speed=20 尺
-|melee=噬咬 +0（1d3–2）
+|melee=啮咬 +0（1d3–2）
 |str=7
 |dex=11
 |con=14
@@ -105,7 +105,7 @@
 |feats=[[武器娴熟]]
 |skills=[[察觉]]+1（+5 水下时）;[[游泳]] +14
 |racial_mods=在水下时+4察觉
-|sq=闭气
+|sq=屏息
 |environment=温带或热带河流
 |organization=单独
 |treasure=无
@@ -168,7 +168,7 @@
 |ref=+3
 |will=+0
 |speed=20 尺，攀爬 20 尺
-|melee=噬咬 +3（1d3–4 外加缠身）
+|melee=啮咬 +3（1d3–4 外加缠身）
 |space=2–1/2 尺
 |reach=0 尺
 |str=2

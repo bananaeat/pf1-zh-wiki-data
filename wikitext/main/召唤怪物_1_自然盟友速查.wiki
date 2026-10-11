@@ -51,13 +51,13 @@
 |-
 | 凶暴野猪* (Dire boar) || – || 地狱犬 (Hell hound) || – ||  || 
 |-
-| 恐狼* (Dire wolf) || – || 獒首圣使 (Hound archon) || – ||  || 
+| 凶暴狼* (Dire wolf) || – || 獒首圣使 (Hound archon) || – ||  || 
 |-
 | 5环 ||  ||  ||  ||  || 
 |-
 | 甲龙* (Dinosaur, ankylosaurus) || – || 凶暴狮* (Dire lion) || – || 虎鲸* (Dolphin, orca) || –
 |-
-| 巴布魔 (Demon, babau) || 混乱, 邪恶 || 元素 (大型) (Elemental, large) || 元素 || 火蜥蜴 (Salamander) || 邪恶
+| 暴怖魔 (Demon, babau) || 混乱, 邪恶 || 元素 (大型) (Elemental, large) || 元素 || 火蜥蜴 (Salamander) || 邪恶
 |-
 | 胡须魔 (Bearded devil) || 邪恶, 秩序 || 巨海鳗* (Giant moray eel) || – || 披毛犀* (Woolly rhinoceros) || –
 |-
@@ -89,7 +89,7 @@
 |-
 | 9环 ||  ||  ||  ||  || 
 |-
-| 星界神使 (Angel, astral deva) || 善良 || 迷诱魔 (Demon, glabrezu) || 混乱, 邪恶 || 判魂魔 (Demon, nalfeshnee) || 混乱, 邪恶
+| 星界使徒 (Angel, astral deva) || 善良 || 迷诱魔 (Demon, glabrezu) || 混乱, 邪恶 || 判魂魔 (Demon, nalfeshnee) || 混乱, 邪恶
 |-
 | 迦勒天 (Ghaele azata) || 混乱, 善良 || 冰魔 (Ice devil) || 邪恶, 秩序 || 号手圣使 (Trumpet archon) || 善良, 秩序
 |-
@@ -146,7 +146,7 @@
 |-
 | 凶暴野猪 (Dire boar) || – || 灰熊 (Grizzly bear) || – || 虎 (Tiger) || –
 |-
-| 恐狼 (Dire wolf) || – || 狮子 (Lion) || – ||  || 
+| 凶暴狼 (Dire wolf) || – || 狮子 (Lion) || – ||  || 
 |-
 | 元素 (中型) (Elemental, medium) || 元素 || 魔蝠 (任意) (Mephit, any) || 元素 ||  || 
 |-

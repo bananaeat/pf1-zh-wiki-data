@@ -34,11 +34,11 @@
 |feats=[[钢铁意志]];[[闪电反射]];[[猛力攻击]];[[健壮]];[[武器专攻]]（啮咬）
 |skills=[[察觉]] +21;[[游泳]] +29
 |racial_mods=+12 察觉
-|sq=闭气;强劲打击
+|sq=屏息;强劲打击
 |environment=任意海洋
 |organization=单独，成对，或鲸群（3–8）
 |treasure=无
-|special_abilities={{怪物能力|闭气|Ex|利维坦（译注：AoN 原文作 leviathan，疑为笔误，应指深红鲸）可以屏住呼吸的轮数等于其体质值的 6 倍，超过后才有溺水的风险。}}
+|special_abilities={{怪物能力|屏息|Ex|利维坦（译注：AoN 原文作 leviathan，疑为笔误，应指深红鲸）可以屏息的轮数等于其体质值的 6 倍，超过后才有溺水的风险。}}
 {{怪物能力|强劲打击|Ex|利维坦（译注：AoN 原文作 leviathan，疑为笔误，应指深红鲸）的啮咬伤害加上两倍的力量调整值。}}
 |source=Pathfinder #59: The Price of Infamy
 |lore=

@@ -1,0 +1,14 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 88），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=血腥变形
+|english_name=Gruesome Shapechanger
+|categories=怪物
+|pfs=否
+|description=你改变形态时，场面暴力而血腥。
+|prerequisites=变形者亚种。
+|benefit=你改变形态时，你先前的形体会在一阵血雨与内脏的喷溅中从你身上剥落，凝结成一摊浓稠恶心的黏液，24小时内溶解。在黏液溶解或被以某种方式清理之前，你改变形态时所站的空间（若你在半空中改变形态，则为其下方的空间）会变得湿滑，视为困难地形，并使在该区域内进行的[[特技]]检定的DC增加5。任何目睹这一骇人变形的敌人必须通过一次强韧豁免（DC＝10＋1/2你的生命骰数＋你的体质调整值），否则陷入[[恶心]]状态1分钟。
+|special=你以如此血腥的方式改变形态令你疲惫。你每使用一次改变形态能力，就必须等待1d4轮才能再次使用。选择本专长会改变你的变形能力的运作方式；你不能选择避开本专长的效果。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Gruesome%20Shapechanger
+}}

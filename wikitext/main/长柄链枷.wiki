@@ -11,7 +11,7 @@
 |dmg_m=1d8
 |crit=×2
 |type=钝击
-|special=卸武，长武，摔绊
+|special=缴械，长武，摔绊
 |description=这就是一把重型链枷，装在一根长柄武器的末端。它具有长武和摔绊的武器特性。
 |source=格拉利昂的侏儒
 }}

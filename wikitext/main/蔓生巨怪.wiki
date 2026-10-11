@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dungeon Denizens Revisited pg. 61），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=蔓生巨怪
+|english_name=Shambling Monolith
+|pfs=否
+|description=你能把周围的植被吸入体内，增大自己的体型与力量。
+|prerequisites=蔓生怪。
+|benefit=以一个整轮动作，你可以将更多植物质吸入体内，如同使用[[动物异变]]法术一样增大你的体型、力量和耐久。每个回合开始时，你必须通过一次强韧豁免才能维持增大后的体型。若身处森林或丛林，豁免DC为10；若身处沼泽或地下，DC为15；每过一轮，DC增加1。如果豁免失败，你会坍缩回正常体型，并陷入[[疲乏]]8小时。
+|special=你必须处于森林、丛林、沼泽或地下地形才能使用该专长。你在疲乏或力竭时不能使用该专长。
+|source_name=再探地城住民
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Shambling%20Monolith
+}}

@@ -4,14 +4,14 @@
 |english_name=Drow Scout
 |cr=1
 |xp=400
-|classline=卓尔精灵盗贼2
+|classline=卓尔盗贼2
 |alignment=混乱邪恶
 |size=中型
 |type=类人生物
 |subtypes=精灵亚种
 |init=+3
 |senses=黑暗视觉120尺；察觉+8
-|description=卓尔的侦察兵是狡诈而多才多艺的优秀士兵，但在卓尔精灵的社会中他们仍然需要不断证明自己的价值，以免被上司当做随手可抛的炮灰。
+|description=卓尔的侦察兵是狡诈而多才多艺的优秀士兵，但在卓尔的社会中他们仍然需要不断证明自己的价值，以免被上司当做随手可抛的炮灰。
 |ac=16，接触13，措手不及13（+3护甲，+3敏捷）
 |hp=16（2d8+4）
 |fort=+1
@@ -43,7 +43,7 @@
 |gear=精制品镶嵌皮甲;精制品短弓和20支箭;短剑;14GP
 |environment=地底
 |source=怪物志
-|family=卓尔精灵（怪物志）
+|family=卓尔（怪物志）
 |npc=1
 }}
 

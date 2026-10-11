@@ -1,0 +1,12 @@
+{{Feat
+|name=辅助攀升
+|english_name=Assisted Ascension
+|categories=团队
+|description=你和你的盟友一起练习过攀登高处。
+|prerequisites=[[攀爬]]5级。
+|benefit=当你的攀爬检定成功时，距你20尺以内同样拥有此专长的盟友可以用一个直觉动作沿同一表面攀爬5尺。你在为接住任何同样拥有此专长的坠落盟友而进行的攀爬检定上获得+5加值。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=171170.msg1440724#msg1440724 【HotD】幽暗地域的英雄/幽域英豪（Heroes of the Darklands）]，译者：萌新也有滥强的心；按 AoN 核对过。
+|source=HotD
+|source_name=幽暗地域英雄
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Assisted%20Ascension
+}}

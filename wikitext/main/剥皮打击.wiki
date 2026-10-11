@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Demons Revisited pg. 8），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=剥皮打击
+|english_name=Flensing Strike
+|pfs=否
+|description=你的挥砍偷袭往往会削去大片的皮肤和天生护甲。
+|prerequisites=偷袭+3d6，流血偷袭盗贼技巧或[[通用怪物规则#出血|出血]]通用怪物能力。（译注：AoN 原文所说的「流血偷袭盗贼技巧」不是规则里的名称，疑指盗贼天赋[[流血攻击]]。）
+|benefit=当你用挥砍武器对敌人成功造成偷袭伤害时，你的攻击并不特别深，却会削下相当大一块皮肉。如果这次偷袭造成了流血伤害，偷袭的受害者会因疼痛而陷入[[恶心]]状态，其天生护甲加值（若有）降低，降低的点数等于你拥有的偷袭骰数。这些减值只要流血伤害持续就一直持续。对同一敌人的多次打击不会叠加流血伤害，但天生护甲的减值会叠加，至多叠加到等于目标正常的完整天生护甲值。
+|source_name=再探恶魔
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Flensing%20Strike
+}}

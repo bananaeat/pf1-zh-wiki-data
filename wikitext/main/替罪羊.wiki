@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Coven pg. 20），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=替罪羊
+|english_name=Scapegoat
+|description=你饱经磨砺的灵魂吸引着诅咒，连折磨他人的诅咒也不例外，而你对它们的影响已经有了抗性。
+|prerequisites=[[强韧加强]]或[[钢铁意志]]。
+|benefit=你在对抗诅咒的豁免检定上获得+2加值。每天一次，你可以以一个标准动作接触一个正受诅咒效果折磨的生物，尝试将该诅咒从其身上移除。你必须针对你想要吸收的诅咒效果的DC进行一次角色等级检定。如果成功，诅咒从该目标身上移除，但立即转而作用于你，如同你是原本的目标并且在最初对抗该诅咒的豁免检定中失败了；你会受到该诅咒的效果、解除条件和剩余持续时间的约束。
+|source=BotC
+|source_name=巫团血脉
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Scapegoat
+}}

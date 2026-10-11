@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Mystery Monsters Revisited pg. 6），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=破水而出
+|english_name=Breach
+|pfs=否
+|description=班依普用强有力的尾巴以惊人的速度冲锋，能冲破水面，对陆地上的猎物抢先发起攻击。
+|prerequisites=力量15，班依普。
+|benefit=在水下时，班依普可以对陆地上的生物进行一次特殊的冲锋攻击。只要目标距离班依普发起攻击的水体不超过班依普游泳速度的一半（大多数班依普为25尺），班依普就能冲破水面，继续冲锋，腾空飞向攻击目标。进行破水攻击时，班依普仍然只能移动至多其游泳速度的两倍。除此之外，这次攻击遵循冲锋攻击的所有一般规则。
+|source_name=再探神秘怪物
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Breach
+}}

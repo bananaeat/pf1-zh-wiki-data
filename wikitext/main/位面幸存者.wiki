@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Planar Adventures pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=位面幸存者
+|english_name=Planar Survivor
+|description=你对多种位面的本质与危害所做的研究，让你对其中的险境有所准备。
+|prerequisites=[[知识]]（位面）3级，[[生存]]3级。
+|benefit=你在物质位面以外的位面上，生存检定获得+2加值，且对在这类环境中遭遇的危害所进行的豁免检定获得+2加值。若你的生存等级达到10级或以上，生存检定的加值提高为+4。该加值不与[[自给自足]]专长所授予的加值叠加。
+|source=PA
+|source_name=位面冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Planar%20Survivor
+}}

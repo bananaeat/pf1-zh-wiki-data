@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Adventurer's Armory 2 pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=改装教官
+|english_name=Modification Trainer
+|categories=战斗
+|description=你能操练他人使用经过改装的武器或护甲。
+|prerequisites=魅力13，[[护甲适应]]或[[武器适应]]，[[战士]]等级4级。
+|benefit=选择一项你用护甲适应或武器适应专长选择过的改装。每日一次，经过10分钟的操练，你可以指导数量等同于你魅力调整值的盟友使用该改装。被训练的盟友智力必须至少为3。受到指导的盟友在8小时内，以该改装获得护甲适应或武器适应的益处。
+|source_name=冒险者的军械库2
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Modification%20Trainer
+}}

@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of Shadows pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=额外阴影跳跃
+|english_name=Extra Shadow Jump
+|description=你跳跃穿行阴影的能力得到了提升。
+|prerequisites=[[影舞者]]职业能力阴影跳跃。
+|benefit=使用阴影跳跃能力时，你每日可跳跃的总距离增加10尺。每当你能跳跃的距离翻倍时，本专长提供的额外距离也随之翻倍（6级时20尺，8级时40尺，10级时80尺）。
+|special=本专长最多可选择四次，其效果叠加。
+|source=BoS
+|source_name=阴影血脉
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Shadow%20Jump
+}}

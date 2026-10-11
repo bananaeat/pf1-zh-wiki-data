@@ -1,0 +1,19 @@
+<div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[精通缴械 (神话)]]。</small></div>
+{{Feat
+|name=精通缴械
+|english_name=Improved Disarm
+|categories=战斗
+|description=你擅长在战斗中卸除对手的武器。
+|prerequisites=[[智力]] 13，寓守于攻。
+|benefit=当你试图卸除对手的武器时，不会引发对方的[[借机攻击]]。此外，在你[[缴械]]检定上获得+2加值。你在对抗缴械的[[战技]]防御上同样获得+2加值。
+|normal=你在使用缴械战技时会引发借机攻击。
+|source=CRB
+|source_name=核心规则书
+|source_url=https://pf1chm.pages.dev/topics/page_195.html
+}}
+
+== 哪里用到它 ==
+
+'''制造需求'''：[[卸刃披风]]（1 件物品）
+
+'''先决条件'''：[[缴械重击]]、[[定向缴械]]、[[擒武]]、[[擒腕]]、[[横扫缴械]]、[[破除防御]]、[[跟进追击]]、[[阴招缴械]]、[[高等缴械]]、[[麻木打击]]（10 个条目）

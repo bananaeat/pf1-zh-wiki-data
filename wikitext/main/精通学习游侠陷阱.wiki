@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 24），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=精通学习游侠陷阱
+|english_name=Improved Learn Ranger Trap
+|pfs=否
+|description=你对陷阱的技艺十分广博。
+|prerequisites=[[学习游侠陷阱]]，[[生存]]8级。
+|benefit=你额外学会一种[[游侠陷阱]]，并且现在对你所知的任何游侠陷阱，既可以使用其超常版本，也可以使用其超自然版本。
+|source=KoG
+|source_name=格拉利昂的狗头人
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Learn%20Ranger%20Trap
+}}

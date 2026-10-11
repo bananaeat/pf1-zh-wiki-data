@@ -1,0 +1,19 @@
+{{Feat
+|name=雄鹰骑士候选
+|english_name=Eagle Knight Candidate
+|categories=伟业
+|pfs=否
+|description=你已向雄鹰骑士和安多安的领导者们证明了自己的勇气与本领。
+|prerequisites=角色等级5级，说服四名不同的雄鹰骑士，以及一名人民议会成员或安多安某个城镇的镇长，替你写推荐信。
+|benefit=选择一个你希望加入的雄鹰骑士分部。你根据这一选择获得相应的特殊好处。
+
+黄金军团：每轮你可以以一个移动动作向30尺内所有能看到并听到你的盟友下达命令。每个服从你命令的受影响盟友，在该轮内的攻击检定、AC和豁免检定上获得+1加值。
+
+钢隼：你以武器攻击任何对你有隐蔽的生物时，造成的伤害+1。如果你对该生物有完全隐蔽，则此加值提高为+2。
+
+暮光之爪：在突袭轮中，你对未察觉的目标所做的任何攻击，其武器的重击威胁范围翻倍。此效果不与任何其他扩大武器重击威胁范围的效果叠加。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=51645.msg474522#msg474522 [LFPG][ASL]偉業專長[翻譯完成]]，译者：PATIBAUL；按 AoN 核对过。
+|source=ASoL
+|source_name=安多安，自由之魂
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Eagle%20Knight%20Candidate
+}}

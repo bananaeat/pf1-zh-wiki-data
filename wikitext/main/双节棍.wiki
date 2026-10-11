@@ -10,7 +10,7 @@
 |dmg_m=1d6
 |crit=×2
 |type=钝击
-|special=卸武，武僧
+|special=缴械，武僧
 |groups=链索，武僧
 |description=双节棍是由一小段绳索或锁链连接两根木棒或金属棒制成的。
 |source=核心规则书、极限宝具

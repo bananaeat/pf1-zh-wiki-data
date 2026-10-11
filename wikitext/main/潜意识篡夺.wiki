@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Haunted Heroes Handbook pg. 6），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=潜意识篡夺
+|english_name=Subconscious Ursurpation
+|pfs=否
+|description=你训练了自己的潜意识，使其能在危急情况下压倒你的表层意识。
+|prerequisites=基础意志豁免加值+2。
+|benefit=当你的表层意识受到压制时，你可以尝试强迫自己正常行动。在你受到胁迫、困惑或占据效果影响的任一回合开始时，你可以进行一次意志豁免检定（DC=原效果的豁免DC）。如果豁免成功，你可以执行一个纯粹的心智动作（例如施放异能法术），就如同你没有受到胁迫、困惑或占据效果影响一样。这个心智动作必须是自由动作、迅捷动作、移动动作或标准动作。你在该回合中进行的所有其他动作仍受该胁迫、困惑或占据效果支配。
+|source=HHH
+|source_name=闹鬼英雄手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Subconscious%20Ursurpation
+}}

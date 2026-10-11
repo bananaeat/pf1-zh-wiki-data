@@ -1,0 +1,11 @@
+{{Feat
+|name=勇于行动
+|english_name=Bravery in Action
+|description=有时候，勇气的关键就在于在你来得及害怕之前就行动。
+|prerequisites=[[英勇]]职业能力，[[凯登·凯连]]的信徒。
+|benefit=你可以把英勇提供的加值加到你的先攻检定上。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=167122.msg1412746#msg1412746 【DA】凯登凯连与他的三个专长]，译者：LC01；按 AoN 核对过。
+|source=DA
+|source_name=神术选集
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Bravery%20in%20Action
+}}

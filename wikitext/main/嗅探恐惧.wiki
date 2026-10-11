@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Classic Monsters Revisited pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=嗅探恐惧
+|english_name=Scent of Fear
+|pfs=否
+|description=所有熊地精都能嗅到恐惧，但有些嗅得比其他熊地精敏锐得多。这样的熊地精对大多数敌人都占优势，对那些精神已被恐怖吓得凝固的敌人尤其危险。
+|prerequisites=拥有[[通用怪物规则#灵敏嗅觉|灵敏嗅觉]]能力，任意邪恶阵营。
+|benefit=你可以凭嗅觉追踪，并且只要对手在30尺内，就能仅凭气味自动确定其位置。此外，你对[[战栗]]或[[惊惧]]的对手进行攻击检定时获得+2士气加值，并且你能在正常灵敏嗅觉范围两倍的距离上察觉他们（120尺，精确定位距离为60尺）。只要范围内有战栗或惊惧的目标，你的所有意志豁免都获得+2加值。处于你增强嗅觉范围内的战栗或惊惧的生物无法出其不意地偷袭你。
+|source_name=再探经典怪物
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Scent%20of%20Fear
+}}

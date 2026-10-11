@@ -1,0 +1,11 @@
+{{Feat
+|name=契约学家
+|english_name=Infernal Legist
+|pfs=否
+|description=你可以瞬间召唤出一份炼狱契约。
+|prerequisites=魔鬼子类。
+|benefit=以一个整轮动作，你可以制作出一份炼狱契约。要获得契约的好处，凡人必须出于自由意志签下自己的名字。这样做之后，该凡人的灵魂便立誓归于地狱。只要该炼狱契约仍然有效，受害者死后就不能复活，除非借助[[神迹术]]或[[祈愿术]]。如果该凡人被复活，你会立即察觉，并获得以该复活生物为目标的[[感知位置]]法术的效果。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=103644.msg951960#msg951960 炼狱契约 INFERNAL CONTRACTS]，译者：丞相；按 AoN 核对过。
+|source_name=永罪之书
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Infernal%20Legist
+}}

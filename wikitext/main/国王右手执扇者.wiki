@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #139: The Dead Roads pg. 73），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=国王右手执扇者
+|english_name=Fan-Bearer at the King's Right Hand
+|categories=起源
+|pfs=否
+|description=你的创造者是一名辅佐官兼护卫，你的记忆里满是那位被托付者的身影。
+|prerequisites=[[舍卜提]]。
+|benefit=你可以用一个迅捷动作指定一名相邻的盟友为你的受护者。只要你与该角色保持相邻，他就能享受你的抵抗等级吸取和免疫不死化种族特性的好处。即使你们其中一人被杀死，只要你仍与其相邻，该能力依然适用。
+|source_name=冒险之路139：死者之路
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Fan-Bearer%20at%20the%20King%27s%20Right%20Hand
+}}

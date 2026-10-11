@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder Campaign Setting pg. 219），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=英灵打击
+|english_name=Spirit Strike
+|pfs=否
+|description=你能呼唤古代英雄的灵魂，在战斗中传递诸神的祝福。
+|prerequisites=知识（宗教）5级，能够驱散死灵，至少拥有一个宿敌。
+|benefit=你可以用一个迅捷动作，消耗一次驱散死灵能力的使用次数，使你所触碰的一件武器对你的宿敌（若你有多个宿敌则选择一个）具有破敌特性，持续到你的下一个回合开始。受影响的武器可由你或其他人使用。
+|source_name=探索者编年史：战役设定
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Spirit%20Strike
+}}

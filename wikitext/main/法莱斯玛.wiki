@@ -11,7 +11,7 @@
 |symbol=螺旋彗星
 |animal=夜鹰
 |color=蓝色，白色
-|centers=布雷斡，奈克斯，奥西里昂，镣铐群岛，苏比亚，乌斯塔拉夫，瓦瑞西安
+|centers=布雷斡，奈克斯，奥西里昂，镣铐群岛，苏比亚，乌斯塔拉夫，瓦瑞西亚
 |nationality=加伦德人（Garundi）
 |other_pantheons=天夏神祇
 |pantheon=核心神祇

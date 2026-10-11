@@ -11,7 +11,7 @@
 |subdomains=[[毁灭领域#天灾子域 (Catastrophe)|天灾子域]]，[[气领域#云子域 (Cloud)|云子域]]，[[气领域#闪电子域 (Lightning)|闪电子域]]*，[[天气领域#雨季子域 (Monsoon)|雨季子域]]*，[[水领域#海子域 (Oceans)|海子域]]，[[混乱领域#幻蛇子域 (Protean)|幻蛇子域]]，[[天气领域#风暴子域 (Storms)|风暴子域]]，[[气领域#风子域 (Wind)|风子域]]（*需要背景特性[[次经侍祭]]）
 |symbol=从黑色风暴云中劈出的闪电
 |animal=渡鸦
-|centers=唐马（Dtang Ma），过峡（Goka），嬛郭（Hwanggot），昆莱（Kwanlai），灵神（Lingshen），民那塔（Minata），明海（Minkai），万寿（Wanshou），汐岛（Xidao）
+|centers=唐马（Dtang Ma），过峡（Goka），华国（Hwanggot），昆莱（Kwanlai），灵神（Lingshen），民那塔（Minata），明海（Minkai），万寿（Wanshou），汐岛（Xidao）
 |nationality=天狗（Tengu）
 |pantheon=天夏神祇
 |source=龙国舆图、Faiths of Golarion
@@ -29,7 +29,7 @@
 
 以下三组神恩通过[[崇神仪典]]获得（AoN：Deific Obedience，Faiths of Golarion pg. 23）。
 
-{{神恩|n=1|name=云之门徒|en=Disciple of the Clouds|type=Sp|text=[[水流冲击]]3次/日，[[抵抗能量伤害]]2次/日，或[[元素光环]]1次/日（仅限电击）。}}
+{{神恩|n=1|name=云之门徒|en=Disciple of the Clouds|type=Sp|text=[[水流冲击]]3次/日，[[抵抗能量伤害]]2次/日，或[[元素灵氲]]1次/日（仅限电击）。}}
 {{神恩|n=2|name=风暴载行|en=Stormborne|type=Su|text=每日1次，以一个标准动作，你可以召唤一朵风暴云将你托上天空。这使你获得40尺的飞行速度，机动性良好。持续时间为每生命骰1分钟（最多20分钟）。如果它在你身在空中时被驱散或持续时间到期，你会以每轮60尺的速度下降5轮，之后剩余的距离按正常方式坠落。}}
 {{神恩|n=3|name=雷霆一击|en=Thunderstrike|type=Su|text=每日1次，以一个自由动作，你可以宣布你的一次攻击为雷霆一击。你必须在攻击掷骰之前宣布使用此能力。如果该攻击命中并造成伤害，这一击会伴随一声霹雳，使目标麻痹，并使打击点10尺内的敌人耳聋，持续1d4轮。通过强韧豁免（DC=10+你生命骰的一半+你的体质调整值）的目标免于耳聋，且只会被震慑（stunned）1轮。}}
 

@@ -1,6 +1,7 @@
 {{物品
 |name=热能石物品
 |english_name=Heatstone Items
+|aon=EquipmentMiscDisplay.aspx?ItemName=Heatstone
 |category=冒险装备
 |description=以下物品将[[热能石]]纳入有助其功能的构造中。价格包括每种物品做工所需的经过处理的热能石或石料。
 |source=MM

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #115: Trail of the Hunted pg. 74），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=抵御精灵魔法
+|english_name=Elf-Magic Defense
+|pfs=否
+|description=你能更好地抵抗宿敌施展的奥术诡计。
+|prerequisites=宿敌职业特性，[[大地精]]。
+|benefit=除了对宿敌的常规好处之外，你针对宿敌的奥术法术、类法术能力和超自然能力进行豁免检定时，可以加上你宿敌加值的一半。
+|source_name=冒险之路115：猎物小径
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Elf-Magic%20Defense
+}}

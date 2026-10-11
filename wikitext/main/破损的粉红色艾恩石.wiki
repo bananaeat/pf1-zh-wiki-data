@@ -1,6 +1,7 @@
 {{物品
 |name=破损的粉红色艾恩石
 |english_name=Pink Rhomboid (Cracked) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Pink%20Rhomboid
 |category=艾恩石
 |aura=强烈各种
 |cl=12

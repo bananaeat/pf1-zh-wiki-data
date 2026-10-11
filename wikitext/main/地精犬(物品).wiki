@@ -3,6 +3,7 @@
 {{装备
 |name=地精犬
 |english_name=Goblin dog
+|aon=EquipmentMiscDisplay.aspx?ItemName=Goblin%20dog%20(common)
 |cat=坐骑与宠物
 |price=50 gp（战斗训练）；35 gp（普通）
 |weight=—

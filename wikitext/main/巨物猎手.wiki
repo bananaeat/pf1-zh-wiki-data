@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Rise of the Runelords Player's Guide pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=巨物猎手
+|english_name=Big Game Hunter
+|pfs=否
+|description=你擅长对付那些在瓦瑞西亚大地上游荡的巨型生物。
+|benefit=你对大型或更大的生物的攻击检定获得+1加值，武器伤害检定获得+2加值。
+|source_name=符文领主崛起玩家手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Big%20Game%20Hunter
+}}

@@ -1,9 +1,0 @@
-{{Trait
-|name=瓦瑞西安浪客
-|english_name=Varisian Wanderer
-|type=地区
-|prerequisites=瓦瑞西亚
-|description=你与瓦瑞西亚游牧民一同长大或生活过，学到了游客、斯科扎尼的罪犯或者是表演者的技巧。选择以下一个技能：表演（选择一个类型），专业（占卜），或巧手。该技能视为你的本职技能，并获得+1背景加值。
-|source_name=初探内海
-|source_url=https://pf1chm.pages.dev/topics/zh90f44086c1.htm
-}}

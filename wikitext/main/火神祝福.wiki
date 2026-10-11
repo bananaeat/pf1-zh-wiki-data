@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Orcs of Golarion pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=火神祝福
+|english_name=Fire God's Blessing
+|pfs=否
+|description=火神会奖赏用火焰杀敌的你。
+|prerequisites=半兽人或兽人，火神的信徒。
+|benefit=在战斗中，如果你对敌人造成火焰伤害，你恢复1点生命值。你每轮只能从中获得一次治疗。使目标着火的攻击，在目标每轮受到火焰伤害时都会为你恢复生命值。
+|source=OoG
+|source_name=格拉利昂的兽人
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Fire%20God%27s%20Blessing
+}}

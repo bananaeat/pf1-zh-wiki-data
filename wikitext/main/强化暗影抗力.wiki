@@ -1,7 +1,7 @@
 {{Feat
 |name=强化暗影抗力
 |english_name=Improved Shadowy Resistance
-|description=你对于阴影位面那使生命衰竭的环境有了更强的抵抗力。
+|description=你对于影界那使生命衰竭的环境有了更强的抵抗力。
 |prerequisites=[[窃影鬼]]，暗影抗力种族特性
 |benefit=你获得5点负能量抗力，在你获得一个负向等级时不会失去生命值。且在对抗死亡效果、[[能量吸取]]、负能量、死灵学派法术和类法术能力的豁免检定中获得+2种族加值。
 |source=BoS

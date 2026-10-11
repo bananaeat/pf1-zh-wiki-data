@@ -42,7 +42,7 @@
 |-
 | 塑能系： || 燃烧之手（Burning Hands），浮碟术（Floating Disk），电爪（Shocking Grasp）
 |-
-| 幻术系： || 乐器变音（Alter Musical Instrument）ACG，幻听错觉（Auditory Hallucination）UI，缥缈步伐（Blurred Movement）ACG，破旧伪装（Decrepit Disguise）OA，易容术（Disguise Self），武器伪装术（Disguise Weapon）ACG，平静幻象（Illusion of Calm）UC，回音术（Echo）UW，隐藏伤痕（Hide Bruises）VC，魔法灵光（Magic Aura），掩饰魔力（Mask Dweomer）APG，螳螂镜影（Mirror Mantis）AG，完美假象（Quintessence）OA，阴影陷阱（Shadow Trap）BoS，幽影武器（Shadow Weapon）UM，无声幻象（Silent Image），渐隐术（Vanish）APG
+| 幻术系： || 乐器变音（Alter Musical Instrument）ACG，幻听错觉（Auditory Hallucination）UI，缥缈步伐（Blurred Movement）ACG，破旧伪装（Decrepit Disguise）OA，易容术（Disguise Self），武器伪装术（Disguise Weapon）ACG，平静幻象（Illusion of Calm）UC，回音术（Echo）UW，隐藏伤痕（Hide Bruises）VC，魔法灵氲（Magic Aura），掩饰魔力（Mask Dweomer）APG，螳螂镜影（Mirror Mantis）AG，完美假象（Quintessence）OA，阴影陷阱（Shadow Trap）BoS，幽影武器（Shadow Weapon）UM，无声幻象（Silent Image），渐隐术（Vanish）APG
 |-
 | 死灵系： || 惊恐术（Cause Fear），分解尸体（Decompose Corpse）UM，掌控尸体（Grasping Corpse）HA，造成轻伤（Inflict Light Wounds），痕痒诅咒（Itching Curse）MaTT，PreserveISTem，尸体重构（Restore Corpse）UM，尸体重塑（Sculpt Corpse）APG，人面疮（Skin Tag）HHH
 |-
@@ -57,13 +57,13 @@
 |-
 | 咒法系： || 超越之障（Ablative Barrier）UC，物体召来（Apport Object）OA，治疗中伤（Cure Moderate Wounds），减缓毒发（Delay Poison），闪光尘（Glitterdust），共用坐骑术（Mount, Communal）UC，安逸斗篷（Restful Cloak）AA2，共用回力武器（Returning Weapon, Communal）UC，柳条马（Wicker Horse）VC
 |-
-| 预言系： || 分析灵光（Analyze Aura）OA，占卜术（Augury），血之讯息（Blood Biography）APG，创造宝图（Create Treasure Map）APG，高等侦测魔法（Detect Magic, Greater）UI，寻找陷阱（Find Traps），认知贵族（Know Peerage）UI，物品定位术（Locate Object），心灵震荡（Mindshock）OO，残痕显隐术（Residual Tracking）APG，识破隐形（See Invisibility），感知恐惧（Sense Fear）HA ，感知疯狂（Sense Madness）HA，共享语言（Share Language）APG，共享记忆（Share Memory）UM，关照术（Status），丰富词藻（Voluminous Vocabulary）UI
+| 预言系： || 分析灵氲（Analyze Aura）OA，占卜术（Augury），血之讯息（Blood Biography）APG，创造宝图（Create Treasure Map）APG，高等侦测魔法（Detect Magic, Greater）UI，寻找陷阱（Find Traps），认知贵族（Know Peerage）UI，物品定位术（Locate Object），心灵震荡（Mindshock）OO，残痕显隐术（Residual Tracking）APG，识破隐形（See Invisibility），感知恐惧（Sense Fear）HA ，感知疯狂（Sense Madness）HA，共享语言（Share Language）APG，共享记忆（Share Memory）UM，关照术（Status），丰富词藻（Voluminous Vocabulary）UI
 |-
 | 惑控系： || 烦厌术（Aversion）OA，赋予武器熟练（Bestow Weapon Proficiency）UC，安定心神（Calm Emotions），怪物晕眩术（Daze Monster），强索赠礼（Demand Offering）OA，蒙骗（Hoodwink）VC，苦痛刑罚（Inflict Pain）OA，探究精神（Investigative Mind）ACG，战术敏锐（Tactical Acumen）UC
 |-
 | 塑能系： || 犯罪信标（Beacon of Guilt）VC，灼热凝视（Burning Gaze）APG，营火之墙（Campfire Wall）APG，联系怪诞存在I（Contact Entity I）HA，不灭明焰（Continual Flame），黑暗术（Darkness），闪电之盾（Defensive Shock）UM，极限浮力（Extreme Buoyancy）AquA，炽焰法球（Flaming Sphere），光与暗的境界（Flickering Lights）HA，力场剑（Force Sword）ArcA，冰河瀑布（Frost Fall）UC，鬼冥长鞭（Ghost Whip）OA，造风术（Gust of Wind），铅锚（Lead Anchor）AquA，浮力适中（Neutral Buoyancy）AquA，第三只手（Pilfering Hand）UC，防护之影（Protective Penumbra）UM，粉碎音波（Shatter），音鸣爆（Sound Burst）
 |-
-| 幻术系： || 假定伪装（Assumed Likeness）ISI，朦胧术（Blur），易容他人（Disguise Other）UM，幽灵伪装（Ghostly Disguise）UM，虚妄植入术（Implant False Reading）OA，异能宣战（Instigate Psychic Duel）OA，隐形术（Invisibility），隐形气泡（Invisibility Bubble）AquA，魔嘴术（Magic Mouth），共用掩饰魔力（Mask Dweomer, Communal）UC，弱效幻影（Minor Image），镜影术（Mirror Image），误导术（Misdirection），朦胧手稿（Obscured Script）AG，魅影陷阱（Phantom Trap），音源切替（Shifted Steps）UI，镜影徽记（Symbol of Mirroring）UM，同调灵光（Sympathetic Aura）AG
+| 幻术系： || 假定伪装（Assumed Likeness）ISI，朦胧术（Blur），易容他人（Disguise Other）UM，幽灵伪装（Ghostly Disguise）UM，虚妄植入术（Implant False Reading）OA，异能宣战（Instigate Psychic Duel）OA，隐形术（Invisibility），隐形气泡（Invisibility Bubble）AquA，魔嘴术（Magic Mouth），共用掩饰魔力（Mask Dweomer, Communal）UC，弱效幻影（Minor Image），镜影术（Mirror Image），误导术（Misdirection），朦胧手稿（Obscured Script）AG，魅影陷阱（Phantom Trap），音源切替（Shifted Steps）UI，镜影徽记（Symbol of Mirroring）UM，同调灵氲（Sympathetic Aura）AG
 |-
 | 死灵系： || 次等操纵尸体（Animate Dead, Lesser）UM，血流满面（Brow Gasher）UC，工匠的梦魇（Crafter's Nightmare）HHH，虚假生命（False Life），造成中伤（Inflict Moderate Wounds），次等物体占据术（Object Possession, Lesser）OA，致命药引（Pernicious Poison）UM，净除精魂（Purge Spirit）OA，恐吓术（Scare），画皮（Skinsend）UM，幽灵手（Spectral Hand），驱血徽记（Symbol Of Exsanguination）HA，不安存在（Unsettling Presence）HHH
 |-
@@ -76,15 +76,15 @@
 |-
 | 防护系： || 风之衣（Cloak of Winds）APG，解除魔法（Dispel Magic），抹除异能（Erase Impressions）OA，爆裂神符（Explosive Runes），自如游泳（Free Swim）AquA，次等守护石碑（Guardian Monument, Lesser）ArcA，守护知识（Guarding Knowledge）MHH，反各阵营法阵（Magic Circle Against Chaos/Evil/Good/Law），回避侦测（Nondetection），防护能量伤害（Protection from Energy），镇压能量（Quell Energy）OO，共用抵抗能量伤害（Resist Energy, Communal）UC，偏转之鳞（Scales Of Deflection）LoD，选择性警报（Selective Alarm）UI，反异界法阵（Thaumaturgic Circle）OA，警惕休憩（Vigilant Rest）UW
 |-
-| 咒法系： || Create DrugBotD，造粮术（Create Food and Water），治疗重伤（Cure Serious Wounds），萌龙仆从（Draconic Ally）LoD，评估者的镜片（Evaluator's Lens）BM，弱效造物术（Minor Creation），半影伪装（Penumbral Disguise）BoS，幻影车夫（Phantom Driver）UC，魅影驹（Phantom Steed），守袋蛇（Pocketful of Vipers）UI，蛇纹法印（Sepia Snake Sigil），医疗徽记（Symbol of Healing）UM，都市迁跃术（Urban Step）UI
+| 咒法系： || Create DrugBotD，造粮术（Create Food and Water），治疗重伤（Cure Serious Wounds），萌龙仆从（Draconic Ally）LoD，评估者的镜片（Evaluator's Lens）BM，次级造物术（Minor Creation），半影伪装（Penumbral Disguise）BoS，幻影车夫（Phantom Driver）UC，魅影驹（Phantom Steed），守袋蛇（Pocketful of Vipers）UI，蛇纹法印（Sepia Snake Sigil），医疗徽记（Symbol of Healing）UM，都市迁跃术（Urban Step）UI
 |-
-| 预言系： || 阿卡西交流（Akashic Communion）MaTT，秘法视力（Arcane Sight），鹰眼术/锐耳术（Clairaudience/Clairvoyance），追踪灵光（Follow Aura）APG，弱点感知（Locate Weakness）UC，精确比对（Meticulous Match）UI，洞见伪装（Pierce Disguise）ACG，足迹重演（Replay Tracks）UW，回溯过去（Retrocognition）OA，探寻思想（Seek Thoughts）APG，共用共享语言（Share Language, Communal）UC，启示徽记（Symbol of Revelation）UM，三相之视（Threefold Sight）LotFW，联觉（Witness）UM
+| 预言系： || 阿卡西交流（Akashic Communion）MaTT，秘法视力（Arcane Sight），鹰眼术/锐耳术（Clairaudience/Clairvoyance），追踪灵氲（Follow Aura）APG，弱点感知（Locate Weakness）UC，精确比对（Meticulous Match）UI，洞见伪装（Pierce Disguise）ACG，足迹重演（Replay Tracks）UW，回溯过去（Retrocognition）OA，探寻思想（Seek Thoughts）APG，共用共享语言（Share Language, Communal）UC，启示徽记（Symbol of Revelation）UM，三相之视（Threefold Sight）LotFW，联觉（Witness）UM
 |-
 | 惑控系： || 控制召唤生物（Control Summoned Creature）UM，深度睡眠（Deep Slumber），转眼即逝（Fleeting Memory）BM，人类定身术（Hold Person），暗示术（Suggestion），狂笑徽记（Symbol of Laughter）ACG
 |-
 | 塑能系： || 压榨劳工（Agonize）UM，召雷术（Call Lightning），联系怪诞存在II（Contact Entity II）HA，破晓之箭（Daybreak Arrow）UC，昼明术（Daylight），深幽黑暗术（Deeper Darkness），火球术（Fireball），消除隐形（Invisibility Purge），闪电箭（Lightning Bolt），晨昏之尘（Motes of Dusk And Dawn）BoS，聚光灯（Spotlight）BoS，灵器触发术（Talismanic Implement）OA，避难小屋（Tiny hut），暮光之刃（Twilight Knife）APG，Unflappable MienDD，分离光照之壁（Wall of Split Illumination）BoS，风墙术（Wind Wall）
 |-
-| 幻术系： || 可调易容术（Adjustable Disguise）ACG，视听错觉（Audiovisual Hallucination）UI，改写灵光（Aura Alteration）OA，移位术（Displacement），迷幻手稿（Illusory Script），即刻赝作（Instant Fake）UI，巨型隐形气泡（Invisibility Bubble, Giant）AquA，隐形法球（Invisibility Sphere），高等魔法灵光（Magic Aura, Greater）UI，强效幻影（Major Image），幻景（Mirage）UW，阴影意志（Shadowmind）BoS，无痕陷阱（Undetectable Trap）UI，地狱幻景（Vision of Hell）UM
+| 幻术系： || 可调易容术（Adjustable Disguise）ACG，视听错觉（Audiovisual Hallucination）UI，改写灵氲（Aura Alteration）OA，移位术（Displacement），迷幻手稿（Illusory Script），即刻赝作（Instant Fake）UI，巨型隐形气泡（Invisibility Bubble, Giant）AquA，隐形法球（Invisibility Sphere），高等魔法灵氲（Magic Aura, Greater）UI，强效幻影（Major Image），幻景（Mirage）UW，阴影意志（Shadowmind）BoS，无痕陷阱（Undetectable Trap）UI，地狱幻景（Vision of Hell）UM
 |-
 | 死灵系： || 操纵死尸（Animate Dead），降咒（Bestow Curse），Create Soul GemBotD，血肉傀儡（Flesh Puppet）HA，遗体防腐（Gentle Repose），治疗窃取（Healing Thief）UC，造成重伤（Inflict Serious Wounds），报复性赔偿（Retributive Reparations）OO，驾行占据术（Riding Possession）OA，时之沙（Sands of Time）UM，精魂静滞（Sessile Spirit）OA，恶毒馈赠（Toxic Gift）UM
 |-

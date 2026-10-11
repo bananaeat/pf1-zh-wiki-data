@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Darklands pg. 5），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=地形迅敏
+|english_name=Terrain Celerity
+|description=你能利用周围环境加快自己的移动，而敌人的存在会进一步推动你。
+|prerequisites=宿敌职业能力，偏好地形职业能力。
+|benefit=当你处于你任一种偏好地形类型中时，你的移动速度获得5尺加值。如果有一个与你某个宿敌同类型的生物可见，并且处于同一地形类型中，该加值提升为10尺。
+|source=HotD
+|source_name=幽暗地域英雄
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Terrain%20Celerity
+}}

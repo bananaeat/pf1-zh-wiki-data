@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 95），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=不屈凶猛
+|english_name=Unyielding Ferocity
+|categories=战斗
+|description=濒临死亡之际，你会奋战到最后一刻。
+|prerequisites=体质19，凶猛。
+|benefit=当你的生命值降至0或以下时，如果你凭借凶猛怪物能力仍保持清醒，你可以在自己的下一个回合（如果你是在自己的回合中降到0生命值，则是当前回合）进行一次全力攻击。如果这样做，你会把身体逼到极限，心智变得更加原始：在生命值回升到0以上之前，你无法使用任何基于魅力、敏捷或智力的技能（[[特技]]、[[飞行术]]、[[威吓]]和[[骑术]]除外），也无法使用任何需要耐心或专注的能力（例如施法）。
+|normal=使用凶猛能力时，你在生命值低于0期间处于[[恍惚]]状态，因此无法进行全力攻击。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Unyielding%20Ferocity
+}}

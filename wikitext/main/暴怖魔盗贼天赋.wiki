@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Demons Revisited pg. 8），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=暴怖魔盗贼天赋
+|english_name=Babau Rogue Talent
+|pfs=否
+|description=你的战斗本能很像盗贼。
+|prerequisites=敏捷17，暴怖魔。
+|benefit=选择一项能增强偷袭的盗贼天赋（例如[[流血攻击]]或[[扰乱反应]]）。
+|special=你可以多次选择本专长。每次选择本专长，你都获得一项新的盗贼天赋。
+|source_name=再探恶魔
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Babau%20Rogue%20Talent
+}}

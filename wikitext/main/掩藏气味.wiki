@@ -1,0 +1,11 @@
+{{Feat
+|name=掩藏气味
+|english_name=Conceal Scent
+|pfs=否
+|description=你已学会掩盖自身气味的必要技巧，让生物无法凭气味找到你。
+|prerequisites=[[隐匿]]3级，[[生存]]3级。
+|benefit=生物无法使用[[灵敏嗅觉]]能力追踪你（不过它们仍可通过足迹等常规手段追踪你）。拥有灵敏嗅觉的生物能以正常距离一半的距离凭气味察觉到你的存在，但无法凭气味确定你的具体位置。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=92370.msg857520#msg857520 【OLoP】奥斯里昂，法老之地（Osirion, Land of Pharaohs）中的专长]，译者：朔风；按 AoN 核对过。
+|source_name=奥西里昂：法老之地
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Conceal%20Scent
+}}

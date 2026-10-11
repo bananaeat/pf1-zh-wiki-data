@@ -1,6 +1,7 @@
 {{装备
 |name=假荆芥
 |english_name=Catnip
+|aon=无
 |cat=炼金药剂
 |price=5 gp
 |weight=—

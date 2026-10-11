@@ -3,7 +3,7 @@
 |name=荒野游子
 |english_name=Wild Wanderer
 |type=地区
-|prerequisites=芒吉莽原
+|prerequisites=莽吉莽原
 |description=你是荒野之子，独自生活，无需依靠他人。每当你尝试进行[[生存]]检定以在野外谋生或抵御恶劣天气时，你可以选择在该检定上获得+4背景加值。如果你这么做，即使你的结果超过DC，你也不能用该检定为他人提供帮助。
 |source_name=进化职业起源
 |source=ACO

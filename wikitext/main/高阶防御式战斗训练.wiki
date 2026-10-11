@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 56），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=高阶防御式战斗训练
+|english_name=Advanced Defensive Combat Training
+|categories=战斗;组织
+|pfs=否
+|description=你是抵御各类战技的大师。
+|prerequisites=[[防御式战斗训练]]，铃花会10TPA。
+|benefit=你的CMD获得+4加值。
+|source=FM
+|source_name=组织指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Advanced%20Defensive%20Combat%20Training
+}}

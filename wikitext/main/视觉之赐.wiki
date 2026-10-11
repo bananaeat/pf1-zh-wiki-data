@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Classic Monsters Revisited pg. 62），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=视觉之赐
+|english_name=Gift of Sight
+|pfs=否
+|description=巨魔有时会从他们的恶魔神明[[乌尔克泽尔]]那里获得有限的占卜之力。
+|prerequisites=巨魔，主神为乌尔克泽尔。
+|benefit=你可以通过剖开腹部、拉出内脏来预知未来。这是一个整轮动作，会对你自己造成6d6点伤害。其效果如同[[占卜术]]，以你的生命骰数作为施法者等级。你每天至多能使用此能力一次。
+|source_name=再探经典怪物
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Gift%20of%20Sight
+}}

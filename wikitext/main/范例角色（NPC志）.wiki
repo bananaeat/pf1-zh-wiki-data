@@ -11,36 +11,36 @@
 
 “当然”哈斯克抬起了弩弓，将其瞄准突然开始移动的黑影。剑刃与盔甲的反光若隐若现。“但我猜这里有人对此有异议。”
 
-Amiri（野蛮人）
+安米芮（野蛮人）
 
 Lem（吟游诗人）
 
-Kyra（牧师）
+凯拉（牧师）
 
-lini（德鲁伊）
+丽妮（德鲁伊）
 
-Valeros（战士）
+瓦莱洛斯（战士）
 
 沙简（Sajan，武僧）
 
-Seelah（圣武士）
+希拉（圣武士）
 
-Harsk（游侠）
+哈斯克（游侠）
 
-Merisiel（盗贼）
+梅瑞希尔（盗贼）
 
-Seoni（术士）
+赛奥尼（术士）
 
 艾兹伦（Ezren，法师）
 
-== Amiri ==
+== 安米芮 ==
 
 <div class="monster-table-wrap">
 {| class="wikitable sortable filterable"
 |-
 ! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
 |-
-| [[Amiri]] || 12 || 女性人类野蛮人12 || 类人生物 || 混乱中立
+| [[安米芮]] || 12 || 女性人类野蛮人12 || 类人生物 || 混乱中立
 |}
 </div>
 
@@ -55,36 +55,36 @@ Seoni（术士）
 |}
 </div>
 
-== Kyra ==
+== 凯拉 ==
 
 <div class="monster-table-wrap">
 {| class="wikitable sortable filterable"
 |-
 ! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
 |-
-| [[Kyra]] || 12 || 女性人类塞恩蕾牧师12 || 类人生物 || 中立善良
+| [[凯拉]] || 12 || 女性人类塞恩蕾牧师12 || 类人生物 || 中立善良
 |}
 </div>
 
-== lini ==
+== 丽妮 ==
 
 <div class="monster-table-wrap">
 {| class="wikitable sortable filterable"
 |-
 ! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
 |-
-| [[lini]] || 12 || 女性侏儒德鲁伊12 || 类人生物 || 绝对中立
+| [[丽妮]] || 12 || 女性侏儒德鲁伊12 || 类人生物 || 绝对中立
 |}
 </div>
 
-== Valeros ==
+== 瓦莱洛斯 ==
 
 <div class="monster-table-wrap">
 {| class="wikitable sortable filterable"
 |-
 ! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
 |-
-| [[Valeros]] || 12 || 男性人类战士12 || 类人生物 || 中立善良
+| [[瓦莱洛斯]] || 12 || 男性人类战士12 || 类人生物 || 中立善良
 |}
 </div>
 
@@ -103,51 +103,51 @@ Seoni（术士）
 |}
 </div>
 
-== Seelah ==
+== 希拉 ==
 
 <div class="monster-table-wrap">
 {| class="wikitable sortable filterable"
 |-
 ! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
 |-
-| [[Seelah]] || 12 || 女性人类 Iomedae 圣武士12 || 类人生物 || 守序善良
+| [[希拉]] || 12 || 女性人类 Iomedae 圣武士12 || 类人生物 || 守序善良
 |}
 </div>
 
-== Harsk ==
+== 哈斯克 ==
 
 <div class="monster-table-wrap">
 {| class="wikitable sortable filterable"
 |-
 ! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
 |-
-| [[Harsk]] || 12 || 男性矮人游侠12 || 类人生物 || 守序中立
+| [[哈斯克]] || 12 || 男性矮人游侠12 || 类人生物 || 守序中立
 |}
 </div>
 
-== Merisiel ==
+== 梅瑞希尔 ==
 
 <div class="monster-table-wrap">
 {| class="wikitable sortable filterable"
 |-
 ! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
 |-
-| [[Merisiel]] || 12 || 女性精灵 盗贼12 || 类人生物 || 混乱中立
+| [[梅瑞希尔]] || 12 || 女性精灵 盗贼12 || 类人生物 || 混乱中立
 |}
 </div>
 
-== Seoni ==
+== 赛奥尼 ==
 
 <div class="monster-table-wrap">
 {| class="wikitable sortable filterable"
 |-
 ! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
 |-
-| [[Seoni|Seoni（1级）]] || 1 || 女性人类术士1 || 类人生物 || 守序中立
+| [[赛奥尼|赛奥尼（1级）]] || 1 || 女性人类术士1 || 类人生物 || 守序中立
 |-
-| [[Seoni|Seoni（7级）]] || 7 || 女性人类术士7 || 类人生物 || 守序中立
+| [[赛奥尼|赛奥尼（7级）]] || 7 || 女性人类术士7 || 类人生物 || 守序中立
 |-
-| [[Seoni|Seoni（12级）]] || 12 || 女性人类术士12 || 类人生物 || 守序中立
+| [[赛奥尼|赛奥尼（12级）]] || 12 || 女性人类术士12 || 类人生物 || 守序中立
 |}
 </div>
 

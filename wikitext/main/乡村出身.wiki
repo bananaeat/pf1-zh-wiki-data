@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Rise of the Runelords Player's Guide pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=乡村出身
+|english_name=Country Born
+|pfs=否
+|description=你来自瓦瑞西亚的某个乡村地区，在崇尚朴素传统、诚实劳动与常识的环境中长大。
+|prerequisites=1级角色，不能拥有城市出身或孤狼。
+|benefit=务农、学徒或类似劳作的童年赐予了你耐力储备。每天一次，当某个效果通常会令你[[疲乏]]或[[力竭]]时，你可以无视该疲乏或力竭效果。这一能力在你每天第一次受到疲乏或力竭影响时生效——你不能把它“存起来”留给某个特定的效果。你传统的成长环境同样磨砺了你的意志，使你在意志豁免上获得+1加值。
+|source_name=符文领主崛起玩家手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Country%20Born
+}}

@@ -1,0 +1,12 @@
+{{Feat
+|name=秘语
+|english_name=Secret Language
+|categories=团队
+|description=你与盟友设计出一套复杂的暗号与措辞，能够秘密地来回传递信息。
+|prerequisites=[[唬骗]]1级，[[语言学]]1级，[[察言观色]]1级。
+|benefit=你在向其他拥有本专长的角色传递秘密信息的唬骗检定上获得+5环境加值，并且能以一个迅捷动作传达相当于你一轮内正常所能说出的信息量。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=162219.msg1377807#msg1377807 【CaC】《部属与伙伴》剩余内容]，译者：帕帕丁是一种信仰；按 AoN 核对过。
+|source=CaC
+|source_name=部属与伙伴
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Secret%20Language
+}}

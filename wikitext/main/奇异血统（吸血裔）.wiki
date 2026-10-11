@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Bastards of Golarion pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=奇异血统（吸血裔）
+|english_name=Unusual Heritage (Dhampir)
+|description=你的血统怪异或难以追溯，人们畏惧你那非凡的力量。
+|prerequisites=[[吸血裔]]。
+|benefit=你的亡灵先祖留给你的不止一丝吸血鬼的本性。你获得一次伤害为1d4点的天生啮咬攻击。每天一次，在成功的啮咬攻击命中时，你可以选择对被击中的生物额外造成1d4点流血伤害。
+|special=你只能在1级时选择本专长。
+|source=BoG
+|source_name=格拉利昂的混种
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Unusual%20Heritage%20%28Dhampir%29
+}}

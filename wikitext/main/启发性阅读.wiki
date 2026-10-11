@@ -1,0 +1,48 @@
+{{#addbodyclass:pf-rules}}{{速查导航|here=规则}}
+{{AI翻译|本页由 AI 照《核心规则书》英文原文译出（民间汉化 CHM 没有这一节），未经人工校对。}}
+
+开拓者角色扮演游戏，以及在它之前的奇幻角色扮演游戏，都从奇幻小说的伟大经典中汲取了灵感。下面这份清单列出了对 Paizo Publishing 创作这一版奇幻角色扮演游戏规则具有特别启发的作者与故事。
+
+* '''Clive Barker'''：''The Hellbound Heart''、''Imagica''、''Weaveworld''
+* '''《贝奥武甫》'''（''Beowulf''）：佚名
+* '''Algernon Blackwood'''：“The Willows”、“The Wendigo”等
+* '''Leigh Brackett'''：''The Sword of Rhiannon''、''Skaith'' 系列等
+* '''Edgar Rice Burroughs'''：''Pellucidar''、火星、金星系列
+* '''Ramsey Campbell'''：''Ryre the Swordsman'' 系列等
+* '''Lin Carter'''：（编）''The Year’s Best Fantasy''、''Flashing Swords''
+* '''Lord Dunsany'''：''The King of Elfland’s Daughter''等
+* '''Philip José Farmer'''：''World of Tiers'' 系列等
+* '''Raymond Feist'''：''Riftwar'' 传奇等
+* '''Gary Gygax'''：''Gord the Rogue'' 系列等
+* '''荷马'''（Homer）：《奥德赛》
+* '''罗伯特·E·霍华德'''（Robert E. Howard）：柯南系列等
+* '''维克多·雨果'''（Victor Hugo）：《悲惨世界》
+* '''斯蒂芬·金'''（Stephen King）：《黑暗塔》系列
+* '''Henry Kuttner'''：''Elak of Atlantis''、''The Dark World''
+* '''Fritz Leiber'''：''Fafhrd & Gray Mouser'' 系列等
+* '''H·P·洛夫克拉夫特'''（H. P. Lovecraft）：克苏鲁神话故事等
+* '''Arthur Machen'''：“The White People”等
+* '''乔治·R·R·马丁'''（George R. R. Martin）：《冰与火之歌》系列
+* '''A. Merritt'''：''The Ship of Ishtar''、''The Moon Pool''等
+* '''China Miéville'''：''Bas-Lag'' 系列
+* '''Michael Moorcock'''：''Elric'' 系列等
+* '''C. L. Moore'''：''Black God’s Kiss''
+* '''Andrew J. Offutt'''：（编）''Swords Against Darkness''
+* '''《一千零一夜》'''（''One Thousand and One Nights''）：传统作品
+* '''埃德加·爱伦·坡'''（Edgar Allan Poe）：“The Fall of the House of Usher”等
+* '''Fred Saberhagen'''：''Changeling Earth''等
+* '''Charles Saunders'''：''Imaro'' 系列等
+* '''威廉·莎士比亚'''（William Shakespeare）：《麦克白》等
+* '''Dan Simmons'''：《海伯利安》系列、《极地恶灵》（''The Terror''）等
+* '''Clark Ashton Smith'''：''Averoigne'' 与 ''Zothique'' 故事等
+* '''布拉姆·斯托克'''（Bram Stoker）：《德古拉》、''Lair of the White Worm''等
+* '''J·R·R·托尔金'''（J. R. R. Tolkien）：《魔戒》三部曲、《霍比特人》
+* '''Jack Vance'''：''Dying Earth'' 系列等
+* '''Karl Edward Wagner'''：''Kane'' 系列、（编）''Echoes of Valor''
+* '''Manly Wade Wellman'''：''John the Balladeer'' 系列等
+* '''H·G·威尔斯'''（H. G. Wells）：《时间机器》等
+* '''Roger Zelazny'''：《安珀志》系列等
+
+<small>出自《[[核心规则书]]》附录3「启发性阅读」。</small>
+
+[[分类:核心规则]]

@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Mystery Monsters Revisited pg. 6），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=精通咆哮
+|english_name=Improved Roar
+|pfs=否
+|description=特别年长或强大的班依普发出的刺耳咆哮，能让远近的生物都心生恐惧。
+|prerequisites=体质17，班依普，咆哮特殊攻击。
+|benefit=班依普的咆哮能力得到增强，影响200尺扩散范围内所有生命骰为8或更少的、能听见的生物。该能力的其余部分不变。班依普免疫自己咆哮的效果。
+|normal=班依普的咆哮能力影响100尺扩散范围内所有生命骰为4或更少的、能听见的生物。
+|source_name=再探神秘怪物
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Roar
+}}

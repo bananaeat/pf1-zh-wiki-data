@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Classic Monsters Revisited pg. 49），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=顺手抄物
+|english_name=Quick at Hand
+|pfs=否
+|description=食人魔狂怒时，往往会抓起离得最近的重物当武器用。
+|prerequisites=食人魔。
+|benefit=你可以将任何物品用作临时的近战或远程武器，且不承受减值。
+|source_name=再探经典怪物
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Quick%20at%20Hand
+}}

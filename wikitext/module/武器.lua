@@ -314,7 +314,7 @@ function p.magic(frame)
         stat('价格', g('price')),
         stat('重量', g('weight')),
         stat('部位', g('slot')),
-        stat('灵光', g('aura')),
+        stat('灵氲', g('aura')),
         stat('施法者等级', g('cl')),
         stat('适用', g('apply')),
         stat('神器等级', g('tier')),

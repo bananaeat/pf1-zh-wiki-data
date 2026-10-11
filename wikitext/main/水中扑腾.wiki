@@ -5,7 +5,7 @@
 |type=宗教
 |pfs=否
 |prerequisites=地精、佐格穆戈特
-|description=你擅长游泳和屏住呼吸。你的[[游泳]]检定获得+1背景加值，并且在你面临溺水危险之前，你能屏住呼吸的轮数等于你体质值的三倍。
+|description=你擅长游泳和屏息。你的[[游泳]]检定获得+1背景加值，并且在你面临溺水危险之前，你能屏息的轮数等于你体质值的三倍。
 |source_name=格拉利昂的地精
 |source=GoG
 |source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Flounderer

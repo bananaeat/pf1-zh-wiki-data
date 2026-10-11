@@ -1,6 +1,7 @@
 {{物品
 |name=破损的莫西绿艾恩石
 |english_name=Mossy Disk (Cracked) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Mossy%20Disk
 |category=艾恩石
 |aura=强烈预言系和塑能系
 |cl=12

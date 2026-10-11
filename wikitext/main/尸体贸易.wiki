@@ -39,7 +39,7 @@ Harsh conditions or long exertions do not easily tire you.
 
 {| class="wikitable"
 |-
-! 灵光：中等死灵系和变化系 !! 施法者等级：9 !! 
+! 灵氲：中等死灵系和变化系 !! 施法者等级：9 !! 
 |-
 | 价格：16,000gp || 重量：5磅 || 位置：无
 |}
@@ -57,7 +57,7 @@ Harsh conditions or long exertions do not easily tire you.
 
 {| class="wikitable"
 |-
-! 灵光：中等死灵系 !! 施法者等级：11 !! 
+! 灵氲：中等死灵系 !! 施法者等级：11 !! 
 |-
 | 价格：6200gp || 重量：——磅 || 位置：无
 |}
@@ -77,7 +77,7 @@ Harsh conditions or long exertions do not easily tire you.
 
 {| class="wikitable"
 |-
-! 灵光：强烈死灵系和变化系 !! 施法者等级：13 !! 
+! 灵氲：强烈死灵系和变化系 !! 施法者等级：13 !! 
 |-
 | 价格：12000gp || 重量：10磅 || 位置：无
 |}
@@ -95,7 +95,7 @@ Harsh conditions or long exertions do not easily tire you.
 
 {| class="wikitable"
 |-
-! 灵光：强烈死灵系和变化系 !! 施法者等级：13 !! 
+! 灵氲：强烈死灵系和变化系 !! 施法者等级：13 !! 
 |-
 | 价格：6400gp || 重量：25磅 || 位置：无
 |}
@@ -115,7 +115,7 @@ Harsh conditions or long exertions do not easily tire you.
 
 {| class="wikitable"
 |-
-! 灵光：昏暗防护系和死灵系 !! 施法者等级：5 !! 
+! 灵氲：昏暗防护系和死灵系 !! 施法者等级：5 !! 
 |-
 | 价格：20000gp || 重量：4磅 || 位置：无
 |}
@@ -133,7 +133,7 @@ Harsh conditions or long exertions do not easily tire you.
 
 {| class="wikitable"
 |-
-! 灵光：昏暗惑控系和死灵系 !! 施法者等级：5 !! 
+! 灵氲：昏暗惑控系和死灵系 !! 施法者等级：5 !! 
 |-
 | 价格：36000gp || 重量：1磅 || 位置：无
 |}

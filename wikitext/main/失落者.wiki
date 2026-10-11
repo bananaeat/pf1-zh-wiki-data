@@ -1,9 +1,10 @@
 {{Trait
 |name=失落者
-|english_name=Lost Nobility
-|type=社会
-|benefit=你的家族在特鲁恩崛起之前声名显赫，但如今这份传承已被世人遗忘，唯有你一人记得。你将每一位切利亚斯政府的官方人员(包括[[地狱骑士]])都视为你逝去荣耀的直接责任人。你在对抗这些官方人员的攻击和伤害检定中获得+1背景加值。
-|source_name=地区背景
-|source=CEoD
-|source_url=https://pf1chm.pages.dev/topics/page_156.html
+|english_name=Forlorn
+|type=种族
+|aliases=孤独者;绝世者
+|prerequisites=[[精灵]]
+|description=你在远离传统的[[精灵]]社会居住了漫长的岁月，你深切体会到尘世的冷漠，危险以及对弱者毫无怜悯。你的强韧豁免获得+1背景加值。
+|source_name=格拉里昂的精灵
+|source_url=https://pf1chm.pages.dev/topics/zhd63cf5e76e.htm
 }}

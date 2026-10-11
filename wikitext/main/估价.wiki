@@ -31,7 +31,7 @@
 <div class="rule-def tight"><div class="rd-t">5点</div><div class="rd-b">成功通过一次DC20的估价检定，可以揭示出物品是否为魔法物品，接着进行第二次检定（DC = 25 + 物品的施法者等级）可以揭示出物品的特性。你能够使用估价来判断非文字性物品的伪造与假冒。</div></div>
 <div class="rule-def tight"><div class="rd-t">10点</div><div class="rd-b">通过以标准动作成功进行一次DC20的检定，你可以判断出一个生物佩戴或穿戴（或者5尺立方范围内）着的最昂贵的物品。你绝不会完全错估一个物品的价值。</div></div>
 <div class="rule-def tight"><div class="rd-t">15点</div><div class="rd-b">以上述方式判断最为昂贵的物品仅需要[[移动动作]]。你能够尝试一次承受-10减值的估价检定，并以此来替代判断是否相信虚假幻觉或五官幻觉的意志豁免。</div></div>
-<div class="rule-def tight"><div class="rd-t">20点</div><div class="rd-b">以上述方式判断最为昂贵的物品仅需要移动动作，而且如果检定成功的话，你还会使用[[盗取]]那件物品或者从该生物身上使用[[卸武]]取下那件物品的[[战技]]检定中获得+2环境加值。</div></div>
+<div class="rule-def tight"><div class="rd-t">20点</div><div class="rd-b">以上述方式判断最为昂贵的物品仅需要移动动作，而且如果检定成功的话，你还会使用[[盗取]]那件物品或者从该生物身上使用[[缴械]]取下那件物品的[[战技]]检定中获得+2环境加值。</div></div>
 
 == 哪里用到它 ==
 

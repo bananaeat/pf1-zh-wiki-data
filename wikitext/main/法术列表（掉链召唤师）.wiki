@@ -7,7 +7,7 @@
 |-
 | 0环法术 || CRB || 酸液飞溅（Acid Splash） 秘法印记（Arcane Mark） 晕眩术（Daze） 侦测魔法（Detect Magic） 神导术（Guidance） 光亮术（Light） || 法师之手（Mage Hand） 修复术（Mending） 传讯术（Message） 开关术（Open/Close） 阅读魔法（Read Magic） 提升抗力（Resistance）
 |-
-| 1环法术 || CRB || 魔法警报（Alarm） 怪物晕眩术（Daze Monster） 忍受环境（Endure Elements） 变巨术（Enlarge person） 脚底抹油（Expeditious retreat） 羽落术（Feather Fall） 油腻术（Grease） 鉴定术（Identify） 跳跃术（Jump） 法师护甲（Mage Armor） 魔牙术（Magic Fang） || 魔嘴（Magic Mouth） 坐骑术（Mount） 隐雾术 (Obscuring Mist) 防护混乱/邪恶/善良/守序（Protection from C/E/G/L） 人类缩小术（Reduce person） 护盾术（Shield） 召唤怪物 I（Summon Monster I） 隐型仆役（Unseen Servant） 腹语术（Ventriloquism）
+| 1环法术 || CRB || 魔法警报（Alarm） 怪物晕眩术（Daze Monster） 忍受环境（Endure Elements） 变巨术（Enlarge person） 脚底抹油（Expeditious retreat） 羽落术（Feather Fall） 油腻术（Grease） 鉴定术（Identify） 跳跃术（Jump） 法师护甲（Mage Armor） 魔牙术（Magic Fang） || 魔嘴（Magic Mouth） 坐骑术（Mount） 隐雾术 (Obscuring Mist) 防护混乱/邪恶/善良/守序（Protection from C/E/G/L） 人类缩小术（Reduce person） 护盾术（Shield） 召唤怪物 I（Summon Monster I） 隐形仆役（Unseen Servant） 腹语术（Ventriloquism）
 |-
 | APG || 重负术（Ant Haul） 次级幻灵治愈术（Rejuvenate Eidolon, Lesser） || 无缚之灵（Unfetter） || 
 |-
@@ -27,7 +27,7 @@
 |-
 | ACG || 硬化血甲（Blood Armor） 时间乱流（Time Shudder） || 蜘蛛长鞭（Whip of Spiders） || 
 |-
-| 3环法术 || CRB || 解除魔法（Dispel Magic） 移位术（Displacement） 飞行术（Fly） 加速术（Haste） 英雄气概（Heroism） 隐形法球（Invisibility Sphere） 反混乱/邪恶/善良/秩序法阵（Magic Circle against Chaos/Evil/Good/Law） 高等魔牙术（Magic Fang, Greater） 弱效造物术（Minor Creation） || 回避侦测（Nondetection） 防护能量伤害（Protection from Energy） 狂暴术（Rage） 缓慢术（Slow） 臭云术（Stinking Cloud） 召唤怪物 IV（Summon Monster IV） 巧言术（Tongues） 水中呼吸（Water Breathing） 风墙术（Wind Wall）
+| 3环法术 || CRB || 解除魔法（Dispel Magic） 移位术（Displacement） 飞行术（Fly） 加速术（Haste） 英雄气概（Heroism） 隐形法球（Invisibility Sphere） 反混乱/邪恶/善良/秩序法阵（Magic Circle against Chaos/Evil/Good/Law） 高等魔牙术（Magic Fang, Greater） 次级造物术（Minor Creation） || 回避侦测（Nondetection） 防护能量伤害（Protection from Energy） 狂暴术（Rage） 缓慢术（Slow） 臭云术（Stinking Cloud） 召唤怪物 IV（Summon Monster IV） 巧言术（Tongues） 水中呼吸（Water Breathing） 风墙术（Wind Wall）
 |-
 | APG || 水牢法球（Aqueous Orb） 变异退化（Devolution） 激励进化（Evolution Surge） || 幻灵治愈术（Rejuvenate Eidolon） 探寻思想（Seek Thoughts） 刺坑（Spiked Pit） || 
 |-

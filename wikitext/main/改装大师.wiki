@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Adventurer's Armory 2 pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=改装大师
+|english_name=Modification Master
+|categories=战斗
+|pfs=否
+|description=你能打造出匪夷所思、离经叛道的锻造作品。
+|prerequisites=[[创意甲匠]]、[[护甲适应]]，且[[工艺]]（护甲）7级；或[[创意武匠]]、[[武器适应]]，且工艺（武器）7级；[[知识]]（工程）7级。
+|benefit=你可以使用创意甲匠或创意武匠，为已经带有改装的武器或护甲再添加一项改装。你所添加的改装必须是你用护甲适应或武器适应选择过的改装。此外，其他人也可以使用带有你的临时改装的护甲或武器。
+|source_name=冒险者的军械库2
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Modification%20Master
+}}

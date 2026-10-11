@@ -1,42 +1,51 @@
-<div class="well" style="margin:.2em 0"><small>'''本页尚未汉化。'''民间汉化的 CHM 合集里没有这个种族，正文取自 [https://aonprd.com Archives of Nethys] 的英文原文。认领翻译见 [[待办事项]]。</small></div>
+{{消歧义|水泽之灵(怪物)}}
+{{Source|怪物图鉴6|Bestiary 6}}
 {{速查导航|here=种族}}
 {{种族卡
 |属性=+2敏捷，+2魅力，-2力量
 |体型=中型
 |速度=30尺
 |视觉=昏暗视觉
+|语言=通用语以及木族语
 }}
-{{种族卡
-|属性=+2敏捷，+2魅力，-2力量
-|体型=中型
-|速度=30尺
-|视觉=昏暗视觉
-}}
-'''水泽之灵'''（Naiad）是 Pathfinder 1st Edition 的一个种族。
+'''水泽之灵'''（Naiad）是湖泊、池塘、尤其是河流等淡水区域的守护者。许多水泽之灵离群索居，但也有一些愿意定期造访在水体附近建起的定居点，只要这些定居点尊重自然与[[精类]]。另一些则漫游广阔的世界，在旅途中与沿途的水体结下联结。这些水泽之灵最有可能接触其他社会、造访其他国家，但无论如何，这些精类都乐于激励他人成就艺术上的伟大。有些人将此视为证据，认为水泽之灵在很久以前源自[[宁芙]]与凡人血脉的混合。
 
-'''Source''' ''Bestiary 6 pg. 200''
+== 水泽之灵种族特性 ==
 
-Naiads are protectors of freshwater areas such as lakes, ponds, and particularly rivers. While many naiads are reclusive, some choose to regularly visit settlements built near their bodies of water as long as those settlements are respectful to nature and the fey. Others explore the vast world, bonding to bodies of water as they travel. These naiads are the most likely to come in contact with other societies or visit other nations, but regardless, these fey enjoy inspiring others to artistic greatness. Some take this as proof that naiads originated long ago from the intermingling of nymph and mortal bloodlines.
+=== +2敏捷，+2魅力，-2力量 ===
 
-== Naiad Racial Traits ==
+水泽之灵有着精类的优雅与美貌，但体格纤弱。
 
-'''+2 Dexterity, +2 Charisma, –2 Strength''': Naiads have elegant fey grace and beauty but have delicate builds.
+=== 中型体型 ===
 
-'''Medium''': Naiads are Medium creatures.
+水泽之灵是中型生物。
 
-'''Speed''': Naiads have a base speed of 30 feet and a swim speed of 30 feet.
+=== 标准速度 ===
 
-'''Low-Light Vision''': All Naiads can see twice as far as humans can in dim light.
+水泽之灵的基本速度为30尺，并拥有30尺的游泳速度。
 
-'''Fey Nature''': Naiads have a +2 racial bonus on Handle Animal and Knowledge (nature) checks.
+=== 昏暗视觉 ===
 
-'''Inspiration (Su)''' A naiad can choose another intelligent creature to inspire by giving that creature a token (typically a lock of her hair). As long as the creature carries the naiad’s token and retains her favor, that creature gains a +1 insight bonus on Will saving throws and Craft and Perform checks. The naiad retains a link to her token and its carrier as if she had cast a status spell on the carrier. The naiad can end this effect at any time as a free action. A single naiad can only inspire one other creature at a time in this manner.
+所有水泽之灵在昏暗光照下能够看到的距离都是[[人类]]的两倍远。
 
-'''Water Bond (Su)''' A naiad gains strength from a pond, lake, river, or other body of fresh water by bonding with it. While within 300 yards of her bonded body of water, she gains a +1 insight bonus to Armor Class and a +1 racial bonus on saving throws (these bonuses are not included in the stats above). Once per day as a full-round action that provokes attacks of opportunity, a naiad can forge a bond with a body of fresh water.
+=== 精类知识 ===
 
-'''Languages''': Naiads begin play speaking Common and Sylvan. Naiads that have high Intelligence scores are able to choose from any of the following bonus languages: Aklo, Aquan, Dwarven, Elven, Giant, Gnome, Goblin, Halfling, Sylvan, and any regional human tongue.
+水泽之灵在[[驯养动物]]和[[知识]]（自然）检定上获得+2种族加值。
 
-本页正文取自 [https://aonprd.com/RacesDisplay.aspx?ItemName=Naiad Archives of Nethys]。全部种族见 [[种族]]。
+=== 激发灵感（Su） ===
+
+水泽之灵可以选择另一个智慧生物给予灵感，方法是交给该生物一件信物（通常是她的一绺头发）。只要该生物带着水泽之灵的信物并保有她的青睐，就在意志豁免检定以及[[工艺]]和[[表演]]检定上获得+1洞察加值。水泽之灵与她的信物及其携带者保持联系，如同她对携带者施放了[[关照术]]一般。水泽之灵可以随时以自由动作结束此效果。一位水泽之灵同一时间只能以此方式激发一个其他生物。
+
+=== 水之纽带（Su） ===
+
+水泽之灵通过与池塘、湖泊、河流或其他淡水水体建立联结，从中汲取力量。当她处于所联结水体300码之内时，她在护甲等级上获得+1洞察加值，在豁免检定上获得+1种族加值（这些加值不包含在上述数据中）。每天一次，水泽之灵可以用一个会引发借机攻击的整轮动作与一处淡水水体建立联结。
+
+=== 起始语言 ===
+
+水泽之灵初始会说通用语和木族语。智力较高的水泽之灵可以选择下列语言作为额外语言：邪灵语、水族语、[[矮人]]语、[[精灵]]语、巨人语、[[侏儒]]语、[[地精]]语、[[半身人]]语、木族语，以及任何地区性的人类语言。
+
+本页译自纯美苹果园论坛倚剑独饮的[[水泽之灵(怪物)]]页译文（《怪物图鉴6》），按 AoN 核对过。全部种族见 [[种族]]。
 
 [[分类:种族]]
-[[分类:待汉化]]
+[[分类:怪物种族]]
+{{种族}}

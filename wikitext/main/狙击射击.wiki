@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder Campaign Setting pg. 89），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=狙击射击
+|english_name=Sniper Shot
+|pfs=否
+|description=你擅长从极远的距离发动致命的攻击。
+|prerequisites=智力13，感知13，[[远程射击]]，[[集中射击]]，[[近距射击]]，[[精准射击]]，奇奥尼亲和。
+|benefit=你可以用一个整轮动作进行一次攻击，使你能在等同于武器射程增量的距离内造成精准额外伤害。你只能用弓和弩进行此攻击。精准伤害包括偷袭、游侠的偏好武器加值，以及集中射击专长的伤害加值。免疫重击和偷袭的生物免疫此额外伤害。
+|source_name=探索者编年史：战役设定
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Sniper%20Shot
+}}

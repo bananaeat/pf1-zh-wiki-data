@@ -3,7 +3,7 @@
 |english_name=Dream Journal of the Pallid Seer
 |aon=MagicWondrousDisplay.aspx?FinalName=Dream Journal of the Pallid Seer
 |cat=奇物
-|aura=无灵光（或微弱预言系）
+|aura=无灵氲（或微弱预言系）
 |cl=3
 |slot=无
 |price=600 gp
@@ -12,8 +12,8 @@
 
 一旦角色获得了避免死亡的机会，无论成败，这本日志都不会再提供任何益处，也不会再帮助该角色。
 
-苍白先知的梦境日志受到一道永久的[[魔法灵光]]影响，使它看起来是非魔法的。
-|req=[[制造奇物]]、[[神导术]]、[[魔法灵光]]
+苍白先知的梦境日志受到一道永久的[[魔法灵氲]]影响，使它看起来是非魔法的。
+|req=[[制造奇物]]、[[神导术]]、[[魔法灵氲]]
 |cost=300 gp
 |source=冒险之路27：尘埃之下
 }}

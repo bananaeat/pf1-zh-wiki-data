@@ -34,7 +34,7 @@
 |feats=[[坚忍]];[[精通先攻]];[[猛力攻击]];[[技能专攻]]（察觉）
 |skills=[[察觉]] +8;[[隐匿]] +1（水下 +11）;[[游泳]] +11
 |racial_mods=在水下 +10 隐匿
-|sq=闭气
+|sq=屏息
 |environment=温暖废墟
 |organization=单独
 |treasure=无

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Druma, Profit and Prophecy pg. 19），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=无言默契
+|english_name=Unspoken Bond
+|categories=团队
+|description=你学会了解读最信任的同伴们的非语言举动。
+|prerequisites=[[唬骗]]4级，[[察言观色]]4级。
+|benefit=你可以不出声地与另一名拥有本专长的盟友交流，改用几乎无法察觉的手势。这种讯息可以传达基本的指示，如「攻击这个人」或「准备战斗」，但不能用来讨论复杂的战术或计划。
+|source_name=杜鲁玛，利益与预言
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Unspoken%20Bond
+}}

@@ -1,0 +1,12 @@
+<noinclude>{{掉链召唤师导航}}
+'''究极异能魔法'''（Superior Psychic Magic）是[[掉链召唤师]]的[[掉链幻灵#进化型态|进化]]。
+
+</noinclude>{{Source|惧怖国度|Horror Realms|inline}} 幻灵每天有7点异能魔法可供消耗（译注：AoN 原文作 psychic magic，另外三级异能魔法进化均作 psychic energy，疑为笔误，应为异能点。）。从下列法术中选择一个：[[困惑术]]、[[深幽黑暗术]]、[[移位术]]、[[丑角之旅]]<sup>APG</sup>、[[本我暗示 II]]<sup>OA</sup>或[[心灵戳刺 III]]<sup>OA</sup>。幻灵可以消耗3点异能点，将该法术作为异能法术施放。施法者等级和豁免DC与基础异能魔法相同。这项进化可以被选取多次，每次选择不同的法术。幻灵每天可消耗的异能点不会叠加，只取其最强的异能魔法进化所赋予的最高点数。
+
+'''先决条件'''：异怪亚种；高等异能魔法进化；召唤师等级11级；魅力13。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/zh66a65fdaa6.htm 原文]），按 AoN 核对过。
+
+[[分类:幻灵进化]]
+
+{{职业}}</noinclude>

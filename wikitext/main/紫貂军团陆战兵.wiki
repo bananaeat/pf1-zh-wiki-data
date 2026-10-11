@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Guide to Korvosa pg. 63, Curse of the Crimson Throne Player's Guide pg. 6），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=紫貂军团陆战兵
+|english_name=Sable Company Marine
+|pfs=否
+|description=你毕业于恩德林军事学园中精英的鹫马骑乘学院。你不仅能高超地骑乘鹫马，还可以与一只鹫马结下羁绊。
+|prerequisites=[[骑术]]6级，[[游侠]]等级4。
+|benefit=你获得一只鹫马作为你的[[动物伙伴]]。你骑乘鹫马动物伙伴时，骑术检定获得+2加值。每当你位于鹫马20尺内时，它在对抗恐惧效果的豁免检定上获得+2加值。
+|source_name=科瓦萨指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Sable%20Company%20Marine
+}}

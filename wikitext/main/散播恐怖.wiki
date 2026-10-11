@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Classic Monsters Revisited pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=散播恐怖
+|english_name=Sow Terror
+|pfs=否
+|description=熊地精善于潜行，有时会利用自己的隐秘本领在猎物心中滋生恐惧。
+|prerequisites=[[隐秘]]。
+|benefit=每当你在对抗性的[[隐匿]]检定中以5或更多的差距获胜，你就可以用标准动作散播恐怖。做法是在坚硬的表面上轻轻刮动指甲，让木板发出一丝吱嘎声，或轻敲窗玻璃。受害者无法察觉声音的来源，只会当作风声或其他寻常的声响而不予理会，但“附近或许潜伏着什么”的念头会在受害者的潜意识里不断发酵。受害者必须进行一次意志豁免（DC = 10 + 你角色等级的一半 + 你的魅力调整值），否则陷入[[战栗]]状态，持续1d4轮。
+|source_name=再探经典怪物
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Sow%20Terror
+}}

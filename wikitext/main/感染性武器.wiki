@@ -1,0 +1,10 @@
+{{Feat
+|name=感染性武器
+|english_name=Infectious Weapons
+|description=你的武器会传播你的疾病。
+|prerequisites=能够通过特异能力或超自然能力，用天生武器传播疾病。
+|benefit=被你的远程和近战武器攻击伤害到的生物，有可能染上疾病，如同被你那传播疾病的天生武器伤害一样。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=165470.msg1402126#msg1402126 【#81】两个疾病专长]，译者：fulandre；按 AoN 核对过。
+|source_name=冒险之路81：流沙
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Infectious%20Weapons
+}}

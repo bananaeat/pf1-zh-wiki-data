@@ -3,7 +3,7 @@
 |name=沉默观察者
 |english_name=Silent Watcher
 |type=地区
-|prerequisites=伽尔特
+|prerequisites=迦尔特
 |description=你能察觉人群中正在酝酿的恶劣情绪，也知道如何在愤怒的暴民寻找发泄对象时躲开他们。你在人群中进行的[[察言观色]]检定获得+1背景加值，在城市街道中进行的[[隐匿]]检定获得+1背景加值。
 |source_name=初探内海
 |source=ISP

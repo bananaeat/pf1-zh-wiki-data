@@ -1,0 +1,11 @@
+{{Feat
+|name=坚毅之心
+|english_name=Stouthearted
+|description=你唱出心中的歌声，以此击退恐惧。
+|prerequisites=战怒之歌职业能力。
+|benefit=在你维持战怒之歌期间，如果你对抗恐惧效果的豁免检定失败，你可以消耗1轮表演，以一个直觉动作重骰该次豁免检定。你必须采用第二次的结果，即使它更低。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663695#msg663695 【ACG】专长（Feat）]，译者：傻豆；按 AoN 核对过。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Stouthearted
+}}

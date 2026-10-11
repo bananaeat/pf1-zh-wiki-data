@@ -3,6 +3,7 @@
 {{装备
 |name=巨秃鹫
 |english_name=Giant vulture
+|aon=EquipmentMiscDisplay.aspx?ItemName=Giant%20vulture%20(common)
 |cat=坐骑与宠物
 |price=1,125 gp（战斗训练）；750 gp（普通）
 |weight=—

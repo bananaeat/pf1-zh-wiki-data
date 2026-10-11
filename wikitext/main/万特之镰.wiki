@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #139: The Dead Roads pg. 71），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=万特之镰
+|english_name=Vanth's Scythe
+|pfs=否
+|description=你曾多次见过收割者，并学到了他们的一些手法。
+|prerequisites=角色等级9级，[[暮行者]]，幽魂猎手种族特性。
+|benefit=当你使用幽魂猎手种族特性让巨镰、木棍、长鞭或弓获得幽冥武器特性时，你还会使其获得破敌（不死生物）武器特性。你还额外获得一次幽魂猎手的每日使用次数。
+|source_name=冒险之路139：死者之路
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Vanth%27s%20Scythe
+}}

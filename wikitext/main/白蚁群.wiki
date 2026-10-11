@@ -1,0 +1,49 @@
+{{速查导航}}
+{{怪物
+|name=白蚁群
+|english_name=Termite Swarm
+|cr=6
+|xp=2,400
+|alignment=绝对中立
+|size=超微型
+|type=虫类
+|subtypes=集群
+|init=+2
+|senses=黑暗视觉 60 尺，灵敏嗅觉，颤动感知 60 尺；察觉 +1
+|description=地面上爬满了密密麻麻的白蚁，一边爬行一边叮咬。
+|ac=20，接触 20，措手不及 18（+2 敏捷，+8 体型）
+|hp=75（10d8+30）
+|fort=+10
+|ref=+5
+|will=+4
+|defensive=集群特性
+|immune=疾病;影响心灵效果;视觉效果;武器伤害
+|resist=酸蚀 5
+|weaknesses=目盲
+|speed=30 尺，掘地 20 尺
+|melee=集群（3d6 外加 1d6 酸蚀）
+|space=1/2 尺
+|reach=0 尺
+|special_attacks=扰乱心神（DC 17），啃噬，灼痛
+|str=1
+|dex=15
+|con=16
+|int=–
+|wis=12
+|cha=7
+|bab=+7
+|cmb=—
+|cmd=—
+|environment=温暖森林，平原或地下
+|organization=单独，成对，巢穴（3–6），或群落（7–12）
+|treasure=无
+|special_abilities={{怪物能力|啃噬|Ex|白蚁群能钻穿泥土和木头，但不能钻穿石头或金属。它们的集群攻击和酸蚀忽略硬度 5 或更低的物体。}}
+{{怪物能力|灼痛|Ex|受白蚁群酸蚀伤害的生物因剧痛而恶心（强韧 DC 17 无效）。生物可在每轮其回合结束时尝试一次新的豁免来结束此效果。豁免 DC 基于体质。}}
+|source=怪物图鉴5
+|lore=
+白蚁群是温暖气候中建筑师和工程师的祸根。它们生活在土墩和巢穴中，从内向外吞噬生长中的植物、腐烂的木头和木质结构，能迅速摧毁即使建造坚固的建筑。它们几乎不可能根除，且在土墩受到威胁时以暴力反击。
+
+出处：怪物图鉴5 第 242 页
+}}
+
+本页译自《[[怪物图鉴5]]》，译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=171508.0 【B5】蚂蚁]（译者：dr.fate），按 AoN 校对。

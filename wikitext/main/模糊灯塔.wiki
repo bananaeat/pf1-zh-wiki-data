@@ -1,0 +1,11 @@
+{{Feat
+|name=模糊灯塔
+|english_name=Obscuring Beacon
+|categories=战斗
+|description=你用光线扰乱敌人已适应黑暗的视觉。
+|benefit=当你在一处原本昏暗或更暗的区域中持有光源时，处于你的光源所投出的常光或强光半径内的敌人，在对同样位于你的光源半径内的其他目标进行攻击检定时承受-1减值。[[目盲]]的生物不受此专长影响。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=171170.msg1440724#msg1440724 【HotD】幽暗地域的英雄/幽域英豪（Heroes of the Darklands）]，译者：萌新也有滥强的心；按 AoN 核对过。
+|source=HotD
+|source_name=幽暗地域英雄
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Obscuring%20Beacon
+}}

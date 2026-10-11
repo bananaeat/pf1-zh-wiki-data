@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #7: Edge of Anarchy pg. 75），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=烧灼骑手
+|english_name=Burn Rider
+|pfs=否
+|description=凭借斯克拉-郭的古老传统，你能在高速疾驰时保护自己和坐骑免受火焰之害。
+|prerequisites=[[骑乘战斗]]，[[骑术]]6级，[[驯养动物]]6级。
+|benefit=只要你的坐骑在一轮内至少移动40尺，你在该轮就获得火抗性3。你还在避免着火的所有反射豁免上获得+4加值，并在对抗浓烟窒息的所有强韧豁免上获得+4加值（DMG 303）。每轮，你可以用一个自由动作，通过一次成功的DC 20骑术检定，将同样的加值赋予你的坐骑。
+|source_name=冒险之路7：无序边缘
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Burn%20Rider
+}}

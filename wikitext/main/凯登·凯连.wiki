@@ -11,7 +11,7 @@
 |symbol=啤酒杯
 |animal=猎犬
 |color=银色，黄褐色
-|centers=艾巴萨罗姆，安多安，伽尔特，河域诸国，镣铐群岛，塔尔多，瓦瑞西安
+|centers=艾巴萨罗姆，安多安，迦尔特，河域诸国，镣铐群岛，塔尔多，瓦瑞西亚
 |nationality=塔尔多人（Taldan）
 |other_pantheons=飞升神系（Ascended Pantheon），侏儒神祇（Gnomish Deities），半身人神祇，塔尔多神系（Taldan Pantheon）
 |pantheon=核心神祇

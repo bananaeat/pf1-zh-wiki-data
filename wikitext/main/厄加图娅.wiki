@@ -11,8 +11,8 @@
 |symbol=饰有骷髅的苍蝇
 |animal=苍蝇
 |color=红色，绿色
-|centers=幽暗地域，盖布，奥西里昂，乌斯塔拉夫，瓦瑞西安
-|nationality=瓦瑞西安人（Varisian）
+|centers=幽暗地域，盖布，奥西里昂，乌斯塔拉夫，瓦瑞西亚
+|nationality=瓦瑞西亚人（Varisian）
 |pantheon=核心神祇
 |source=内海诸神
 }}

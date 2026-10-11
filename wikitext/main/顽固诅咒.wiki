@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 94），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=顽固诅咒
+|english_name=Stubborn Curse
+|description=你的诅咒格外顽固。
+|prerequisites=能够施展具有诅咒描述符的法术或类法术能力，或拥有带诅咒效果的特殊能力。
+|benefit=你造成的任何诅咒效果都难以移除。当某个生物进行施法者等级检定以移除该诅咒时，必须掷两次并取较差的结果。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Stubborn%20Curse
+}}

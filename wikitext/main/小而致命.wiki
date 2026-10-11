@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=小而致命
+|english_name=Small But Deadly
+|pfs=否
+|description=尽管身体孱弱，你已学会充分发挥某些武器的威力。
+|prerequisites=[[武器专攻]]或天生武器，体型小型或更小。
+|benefit=你使用种族天生武器，以及使用你拥有[[武器专攻]]专长的武器进行攻击时，无视你的力量减值对伤害的影响。
+|source=KoG
+|source_name=格拉利昂的狗头人
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Small%20But%20Deadly
+}}

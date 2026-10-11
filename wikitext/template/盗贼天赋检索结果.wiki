@@ -1,3 +1,0 @@
-<includeonly><div class="rt-row" style="border-bottom:1px solid rgba(128,128,128,.25);padding:.35em 0"><span style="font-weight:bold">[[{{{page|}}}|{{{name|}}}]]</span>{{#if:{{{sneak|}}}|*}} <span style="color:#888;font-size:.9em">{{{en|}}}{{#if:{{{type|}}}|，{{{type}}}}}</span> {{#ifeq:{{{adv|}}}|高等|<span class="pill" style="font-size:.8em">高等</span> }}{{#if:{{{sneak|}}}|<span class="pill" style="font-size:.8em">偷袭</span> }}{{#if:{{{unch|}}}|<span class="pill" style="font-size:.8em">{{{unch}}}</span> }}<span style="color:#888;font-size:.85em">{{{source|}}}</span><br><span style="font-size:.92em">{{{brief|}}}</span></div></includeonly><noinclude>[[盗贼天赋]]页检索器的结果行（数据 Data:RogueTalents.tab，由 tools/build_rogue_talents.py 生成）。
-
-[[分类:模板]]</noinclude>

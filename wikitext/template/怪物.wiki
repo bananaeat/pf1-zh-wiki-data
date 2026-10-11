@@ -9,7 +9,7 @@
 --><div class="monster-id">{{#if:{{{alignment|}}}|{{{alignment}}}}}{{#if:{{{size|}}}|，{{{size}}}}}{{#if:{{{type|}}}|，{{#invoke:怪物术语|type|{{{type}}}}}}}{{#if:{{{subtypes|}}}|（{{#invoke:怪物术语|subtypes|{{{subtypes}}}}}）}}</div><!--
 --><div class="monster-lines"><!--
 -->{{#if:{{{init|}}}{{{senses|}}}|<div class="ml">{{#if:{{{init|}}}|<span class="k">先攻</span>{{{init}}}}}{{#if:{{{senses|}}}|{{#if:{{{init|}}}|；}}<span class="k">感官</span>{{#invoke:怪物术语|field|senses|{{{senses}}}}}}}</div>}}<!--
--->{{#if:{{{aura|}}}|<div class="ml"><span class="k">灵光</span>{{#invoke:怪物术语|field|aura|{{{aura}}}}}</div>}}<!--
+-->{{#if:{{{aura|}}}|<div class="ml"><span class="k">灵氲</span>{{#invoke:怪物术语|field|aura|{{{aura}}}}}</div>}}<!--
 --></div><!--
 --><div class="monster-sec">防御</div><div class="monster-lines"><!--
 -->{{#if:{{{ac|}}}|<div class="ml"><span class="k">AC</span>{{{ac}}}</div>}}<!--

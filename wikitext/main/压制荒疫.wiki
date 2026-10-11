@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #119: Prisoners of the Blight pg. 61），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=压制荒疫
+|english_name=Suppress Blight
+|description=你可以暂时压制荒疫带来的病患，但要付出长期的代价。
+|prerequisites=[[强韧加强]]，[[钢铁意志]]。
+|benefit=每天一次，当你受到诅咒或疾病效应折磨时，你可以用一个标准动作压制其效应（如同[[减缓毒发]]），持续时间为每3角色等级1小时（至少1小时）。在病患被压制期间，你获得等同于被压制病患豁免DC的临时生命值，这些临时生命值持续到病患的效应被压制结束为止。此持续时间结束时，效应恢复，此后针对该病患的所有豁免检定DC（包括永久终止效应的DC）提高2，累计提高值最多为你生命骰数的一半；你无法压制豁免DC已经提高到上限的病患。
+|source_name=冒险之路119：荒疫囚徒
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Suppress%20Blight
+}}

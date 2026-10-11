@@ -284,31 +284,31 @@
 
 ==== 痛苦符文 ====
 
-<div class="rule-def gloss"><div class="rd-t">灵光</div><div class="rd-b"><p>中等死灵系 施法者等级：9级</p><p>这项改装会在被改装的构装体首次受到伤害时触发。半径20尺扩散范围内的生物必须进行DC 17的强韧豁免，失败则会承受强烈的痛苦，这会使得这些生物的攻击、技能以及属性检定在1分钟内承受-4减值。若豁免成功，这些生物仅会在1轮内承受符文施加的痛苦。</p></div></div>
+<div class="rule-def gloss"><div class="rd-t">灵氲</div><div class="rd-b"><p>中等死灵系 施法者等级：9级</p><p>这项改装会在被改装的构装体首次受到伤害时触发。半径20尺扩散范围内的生物必须进行DC 17的强韧豁免，失败则会承受强烈的痛苦，这会使得这些生物的攻击、技能以及属性检定在1分钟内承受-4减值。若豁免成功，这些生物仅会在1轮内承受符文施加的痛苦。</p></div></div>
 <div class="rule-def gloss"><div class="rd-t">需求</div><div class="rd-b">[[痛苦徽记]]</div></div>
 <div class="rule-def gloss"><div class="rd-t">成本</div><div class="rd-b">18000gp</div></div>
 
 ==== 禁锢符文 ====
 
-<div class="rule-def gloss"><div class="rd-t">灵光</div><div class="rd-b"><p>强烈咒法系 施法者等级：18级</p><p>这个符文会在构装体首次被接触或远程[[接触攻击]]的法术命中时触发。触发法术的施法者必须成功进行DC 22的意志豁免，失败的结果是身体与灵魂都被囚禁，被关在构装体内植入的宝石中。宝石会禁锢施法者，直至宝石或构装体被摧毁为止。一块宝石同一时间仅能禁锢一个生物；一旦捕获一个生物，这个符文就无法在宝石被更换之前再次触发。</p><p>当一个生物被困在宝石中时，宝石会变得易受重击影响；若有攻击者确认重击，构装体承受伤害而宝石会被摧毁，将被禁锢的生物施放至与构装体相邻的空间内。只有将[[破损]]的宝石更换之后，这个禁锢符文才能够再次生效。</p></div></div>
+<div class="rule-def gloss"><div class="rd-t">灵氲</div><div class="rd-b"><p>强烈咒法系 施法者等级：18级</p><p>这个符文会在构装体首次被接触或远程[[接触攻击]]的法术命中时触发。触发法术的施法者必须成功进行DC 22的意志豁免，失败的结果是身体与灵魂都被囚禁，被关在构装体内植入的宝石中。宝石会禁锢施法者，直至宝石或构装体被摧毁为止。一块宝石同一时间仅能禁锢一个生物；一旦捕获一个生物，这个符文就无法在宝石被更换之前再次触发。</p><p>当一个生物被困在宝石中时，宝石会变得易受重击影响；若有攻击者确认重击，构装体承受伤害而宝石会被摧毁，将被禁锢的生物施放至与构装体相邻的空间内。只有将[[破损]]的宝石更换之后，这个禁锢符文才能够再次生效。</p></div></div>
 <div class="rule-def gloss"><div class="rd-t">需求</div><div class="rd-b">[[锢魂术]], 价值20000gp的宝石作为符文器材</div></div>
 <div class="rule-def gloss"><div class="rd-t">成本</div><div class="rd-b">57600gp</div></div>
 
 ==== 闪电符文 ====
 
-<div class="rule-def gloss"><div class="rd-t">灵光</div><div class="rd-b"><p>微弱塑能系 施法者等级：5级</p><p>这个符文会在被改装的构装体首次被近战攻击命中时触发。符文会向半径5尺爆发范围内施放闪电，并对区域内的所有生物造成3d8点电击伤害。成功进行DC 12的反射豁免能够将伤害减半。</p></div></div>
+<div class="rule-def gloss"><div class="rd-t">灵氲</div><div class="rd-b"><p>微弱塑能系 施法者等级：5级</p><p>这个符文会在被改装的构装体首次被近战攻击命中时触发。符文会向半径5尺爆发范围内施放闪电，并对区域内的所有生物造成3d8点电击伤害。成功进行DC 12的反射豁免能够将伤害减半。</p></div></div>
 <div class="rule-def gloss"><div class="rd-t">需求</div><div class="rd-b">[[电爪]]</div></div>
 <div class="rule-def gloss"><div class="rd-t">成本</div><div class="rd-b">2000gp</div></div>
 
 ==== 护盾符文 ====
 
-<div class="rule-def gloss"><div class="rd-t">灵光</div><div class="rd-b"><p>微弱防护系 施法者等级：3级</p><p>这个符文会在被改装的构装体首次被近战攻击、远程攻击或[[魔法飞弹]]攻击时触发。构装体的AC会在3分钟内获得+4盾牌加值。这是个力场效果，而且适用于对抗[[虚体]]的接触攻击。</p></div></div>
+<div class="rule-def gloss"><div class="rd-t">灵氲</div><div class="rd-b"><p>微弱防护系 施法者等级：3级</p><p>这个符文会在被改装的构装体首次被近战攻击、远程攻击或[[魔法飞弹]]攻击时触发。构装体的AC会在3分钟内获得+4盾牌加值。这是个力场效果，而且适用于对抗[[虚体]]的接触攻击。</p></div></div>
 <div class="rule-def gloss"><div class="rd-t">需求</div><div class="rd-b">[[护盾术]]</div></div>
 <div class="rule-def gloss"><div class="rd-t">成本</div><div class="rd-b">1200gp</div></div>
 
 ==== 恐怖符文 ====
 
-<div class="rule-def gloss"><div class="rd-t">灵光</div><div class="rd-b"><p>中等死灵系 施法者等级：7级</p><p>这个符文会在首次有一个生物移动至与被改装的构装体相邻的位置时触发。符文会创造半径20尺扩散范围的死灵系能量。区域内的生物必须进行DC 20的意志豁免，失败则会恐慌1d4轮。若成功进行意志豁免，这些生物仅会[[战栗]]1轮。</p></div></div>
+<div class="rule-def gloss"><div class="rd-t">灵氲</div><div class="rd-b"><p>中等死灵系 施法者等级：7级</p><p>这个符文会在首次有一个生物移动至与被改装的构装体相邻的位置时触发。符文会创造半径20尺扩散范围的死灵系能量。区域内的生物必须进行DC 20的意志豁免，失败则会恐慌1d4轮。若成功进行意志豁免，这些生物仅会[[战栗]]1轮。</p></div></div>
 <div class="rule-def gloss"><div class="rd-t">需求</div><div class="rd-b">[[恐惧术]]</div></div>
 <div class="rule-def gloss"><div class="rd-t">成本</div><div class="rd-b">11200gp</div></div>
 

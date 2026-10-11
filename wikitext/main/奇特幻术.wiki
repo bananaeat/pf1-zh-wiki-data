@@ -1,0 +1,14 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder Unchained pg. 154），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=奇特幻术
+|english_name=Esoteric Illusion
+|categories=奇特
+|pfs=否
+|description=棱砂使你的幻术形态趋于完美而稳定。
+|benefit=当你以棱砂作为奇特施法材料施放幻术系法术时，识破该幻术的DC提高2点，如适用，法术的AC也提高2点。该益处在法术持续时间内持续有效，但对持续时间为即时或永久的法术无效。
+
+当你对幻术系法术获得棱砂的高等材料效果时，在决定距离上，你的施法者等级再视为高2级。无论你在高等材料效果中选择的是增加距离还是增加区域，这一点都会生效。本专长不能让你进一步增大区域的大小。
+|source=PU
+|source_name=解放者
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Esoteric%20Illusion
+}}

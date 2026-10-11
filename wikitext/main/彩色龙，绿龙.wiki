@@ -86,7 +86,7 @@
 |bab=+15
 |cmb=+25
 |cmd=35（39 对摔绊 vs. trip）
-|feats=[[警觉]];[[顺势斩]];[[飞越攻击|飞跃攻击]];[[大顺势斩|强力顺势斩]];[[精通重击]]（啮咬，爪抓）Improved Critical;[[钢铁意志]];[[猛力攻击]]
+|feats=[[警觉]];[[顺势斩]];[[飞越攻击|跃击]];[[大顺势斩|强力顺势斩]];[[精通重击]]（啮咬，爪抓）Improved Critical;[[钢铁意志]];[[猛力攻击]]
 |skills=[[飞行]] Fly +10;[[知识]]（奥秘）Knowledge+21;[[知识]]（自然）Knowledge+21;[[察觉|觉察]] 察觉 +25;[[法术辨识]] Spellcraft +21;[[隐匿]] Stealth +10;[[生存]] Survival +21;[[游泳]] +34;[[使用魔法装置]] Use Magic Device +21
 |languages=通用语 Common;龙语 Draconic;精灵语 Elven;木族语 Sylvan
 |sq=无踪步 trackless step;水中呼吸 water breathing;穿林步 woodland stride
@@ -132,7 +132,7 @@
 |bab=+23
 |cmb=+39
 |cmd=48（52 对摔绊 vs. trip）
-|feats=[[警觉]];[[流血重击|重击流血]];[[顺势斩]];[[重击专攻]];[[飞越攻击|飞跃攻击]];[[大顺势斩|强力顺势斩]];[[精通重击]]（啮咬、爪抓）Improved Critical;[[精通击破|精通击破武器]];[[钢铁意志]];[[多重攻击]];[[猛力攻击]]
+|feats=[[警觉]];[[流血重击|重击流血]];[[顺势斩]];[[重击专攻]];[[飞越攻击|跃击]];[[大顺势斩|强力顺势斩]];[[精通重击]]（啮咬、爪抓）Improved Critical;[[精通击破|精通击破武器]];[[钢铁意志]];[[多重攻击]];[[猛力攻击]]
 |skills=[[飞行]] Fly +9;[[知识]]（奥秘）Knowledge+31;[[知识]]（本地）Knowledge+31;[[知识]]（自然）Knowledge+31;[[知识]]（位面）Knowledge+31;[[察觉|觉察]] 察觉 +35;[[法术辨识]] Spellcraft +31;[[隐匿]] Stealth +13;[[生存]] Survival +31;[[游泳]] +46;[[使用魔法装置]] Use Magic Device +31
 |languages=深渊语 Abyssal;通用语 Common;龙语 Draconic;精灵语 Elven;巨人语 Giant;木族语 Sylvan
 |sq=伪装 camouflage;无踪步 trackless step;水中呼吸 water breathing;穿林步 woodland stride
@@ -154,4 +154,4 @@
 <div class="monster-table-wrap"><table class="wikitable"><tr><th>年龄层</th><th>特殊能力</th><th>施法者等级</th></tr><tr><td>雏龙 Wyrmling</td><td>酸蚀免疫，水中呼吸</td><td>–</td></tr><tr><td>幼龙 Very young</td><td>穿林步</td><td>–</td></tr><tr><td>少年 Young</td><td>[[纠缠术]]</td><td>–</td></tr><tr><td>青少年 Juvenile</td><td>凶威，魅惑人类</td><td>1 级</td></tr><tr><td>青年 Young adult</td><td>DR 5/魔法，法术抗力</td><td>3 级</td></tr><tr><td>成年 Adult</td><td>无踪步，[[暗示术]]</td><td>5 级</td></tr><tr><td>壮年 Mature</td><td>DR 10/魔法</td><td>7 级</td></tr><tr><td>老年 Old</td><td>伪装，植物滋长</td><td>9 级</td></tr><tr><td>极老 Very old</td><td>DR 15/魔法</td><td>11 级</td></tr><tr><td>古龙 Ancient</td><td>恶瘴，支配人类</td><td>13 级</td></tr><tr><td>上古龙 Wyrm</td><td>DR 20/魔法</td><td>15 级</td></tr><tr><td>太古龙 Great wyrm</td><td>唤起树人，[[命令植物]]</td><td>17 级</td></tr></table></div>
 }}
 
-本页译自《[[怪物图鉴]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=40217.msg341322#msg341322 【B1】龙（Dragon）]，译者：pandora）。

@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Wild pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=精通蛮荒战术
+|english_name=Improved Uncivilized Tactics
+|categories=战斗
+|description=你擅长把敌人的肢体拧到脱臼。
+|prerequisites=力量13，[[猛力攻击]]，[[蛮荒战术]]。
+|benefit=你在尝试战技检定以使用蛮荒战术时，不会引发借机攻击。此外，你在这类检定上获得+2加值。
+|normal=使用蛮荒战术专长时，你会引发借机攻击。
+|source=HotW
+|source_name=荒野英雄
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Uncivilized%20Tactics
+}}

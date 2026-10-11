@@ -18,7 +18,7 @@
 |will=+1
 |immune=心灵影响效果
 |speed=30尺，游泳20尺
-|melee=噬咬+8（2d6+4 附加 攫抓），尾击+3（1d8+2）
+|melee=啮咬+8（2d6+4 附加 攫抓），尾扫+3（1d8+2）
 |space=10尺
 |reach=5尺
 |special_attacks=死不松口，紧勒（2d6+4）

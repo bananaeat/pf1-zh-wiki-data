@@ -3,8 +3,8 @@
 |english_name=Follow-Up Strike
 |categories=战斗
 |description=你打飞敌人的武器，为你的拳脚创造出一个破绽。
-|prerequisites=智力13，[[寓守于攻]]，[[精通卸武]]，[[精通徒手打击]]，基本攻击加值+6或武僧6级
-|benefit=当你成功进行[[战技]]检定[[卸武]]时，你可以用一个[[迅捷动作]]以你最高的攻击加值对你卸武的目标进行一次[[徒手打击]]攻击。
+|prerequisites=智力13，[[寓守于攻]]，[[精通缴械]]，[[精通徒手打击]]，基本攻击加值+6或武僧6级
+|benefit=当你成功进行[[战技]]检定[[缴械]]时，你可以用一个[[迅捷动作]]以你最高的攻击加值对你缴械的目标进行一次[[徒手打击]]攻击。
 |source_name=武术手册
 |source_url=https://pf1chm.pages.dev/topics/zh0ff052e72d.htm
 |source=MAH

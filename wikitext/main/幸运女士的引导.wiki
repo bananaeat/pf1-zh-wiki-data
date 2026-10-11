@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Plane-Hopper's Handbook pg. 29），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=幸运女士的引导
+|english_name=Lady Luck's Guidance
+|description=[[黛丝娜]]对你青睐有加，在你旅行时从星空中为你指引方向。
+|prerequisites=[[知识]]（地理）5级，知识（位面）5级。
+|benefit=每天一次，在陆路旅行期间，你可以进行一次DC 25的知识（地理）检定来追随星辰。成功则你和至多八个其他生物借助黛丝娜神秘的指引，在陆路旅行中行进通常两倍的距离。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Lady%20Luck%27s%20Guidance
+}}

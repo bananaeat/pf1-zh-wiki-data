@@ -1,9 +1,0 @@
-{{Feat
-|name=精通炼狱魔力
-|english_name=Improved Fiendish Sorcery
-|description=你驾驭那股邪恶魔力的能力比同族的其他人都强大。
-|prerequisites=炼狱魔力种族特性，[[魔裔]]
-|benefit=如果你是[[术士]]并且具有[[罗刹血统]]（出自UM）或者[[暗影血统]]（出自APG），那么在计算所有术士职业能力时均视为魅力属性比正常高2点。
-|source_name=炼狱血脉
-|source_url=https://pf1chm.pages.dev/topics/page_833.html
-}}

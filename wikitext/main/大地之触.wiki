@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Giants Revisited pg. 49），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=大地之触
+|english_name=Earthtouched
+|pfs=否
+|description=你生来就带着魔法天赋的印记。
+|prerequisites=魅力15，石巨人。
+|benefit=你拥有标志着你术法潜能的显著特征，例如身材矮小、肤色异常，或皮肤上生出晶簇。你在施放带有〔土〕描述词的[[术士]]法术时，施法者等级获得+1种族加值。你每获得3个术士级别，就增加一个已知法术，其环级须是你能够施放的环级。该法术必须属于防护系或预言系，或者带有〔土〕描述词。
+|source_name=巨人再临
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Earthtouched
+}}

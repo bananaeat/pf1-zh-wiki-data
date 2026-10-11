@@ -1,7 +1,7 @@
 <noinclude>{{召唤师导航}}
-'''滑溜'''（Slippery, Ex）是[[召唤师]]的[[幻灵#进化型态|进化|进化]]。
+'''滑溜'''（Slippery, Ex）是[[召唤师]]的[[幻灵#进化型态|进化]]。
 
-</noinclude>{{Source|秽邪勇士|Champions of Corruption|inline}} 因为湿滑的肌肤或光滑的外骨骼，幻灵特别滑溜。幻灵为挣脱擒抱而计算的CMD和逃脱检定获得+4加值。<noinclude>
+</noinclude>{{Source|秽邪勇士|Champions of Corruption|inline}} 因为湿滑的肌肤或光滑的外骨骼，幻灵特别滑溜。幻灵为挣脱擒抱而计算的CMD和脱逃检定获得+4加值。<noinclude>
 
 [[分类:幻灵进化]]
 

@@ -1,0 +1,12 @@
+{{Feat
+|name=佩什复苏
+|english_name=Pesh Rejuvenation
+|pfs=否
+|description=当你濒临死亡时，你的身体能将佩什转化为救命的良药。
+|prerequisites=[[萨希尔·菲恩]]或佩什成瘾。
+|benefit=如果你在佩什的初始效果持续期间生命值降至0或更低，你可以用一个直觉动作结束该药物的初始效果。如果你这样做，你获得等同于你体质值的临时生命值。这些临时生命值持续1小时。使用本专长后，你陷入[[恶心]]状态1d6小时。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=167121.msg1412739#msg1412739 【BM】四个佩什专长]，译者：LC01；按 AoN 核对过。
+|source=BM
+|source_name=黑市指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Pesh%20Rejuvenation
+}}

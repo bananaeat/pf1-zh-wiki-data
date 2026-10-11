@@ -1,5 +1,4 @@
 {{德鲁伊导航}}
-<noinclude>{{消歧义|鬃毛野猪(怪物)}}</noinclude>
 {{动物伙伴卡片
 |name=鬃毛野猪
 |en=Bristle Boar

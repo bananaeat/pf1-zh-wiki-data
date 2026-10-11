@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dungeon Denizens Revisited pg. 18），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=泥怪伙伴
+|english_name=Ooze Companion
+|pfs=否
+|description=你对泥怪的了解已深入到可以与其中一只结为伙伴的程度。
+|prerequisites=[[泥怪低语者]]，动物伙伴，野性认同。
+|benefit=将以下泥怪加入你可选的动物伙伴列表：7级——胶质怪、灰泥怪；10级——赭冻怪；13级——黑布丁怪。由于缺乏智力，泥怪伙伴起始时掌握0个把戏（只有你因德鲁伊等级获得的额外把戏适用），并且只能学会以下额外把戏：攻击、过来、护卫和停留。
+|source_name=再探地城住民
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Ooze%20Companion
+}}

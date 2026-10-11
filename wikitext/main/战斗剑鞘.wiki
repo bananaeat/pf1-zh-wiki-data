@@ -1,6 +1,7 @@
 ''同名的还有 [[战斗剑鞘(冒险装备)]]。''
 {{物品
 |name=战斗剑鞘
+|english_name=Combat scabbard
 |category=武器
 |price=1gp
 |weight=1磅

@@ -1,0 +1,12 @@
+<noinclude>{{速查导航|here=规则}}
+'''反自然灵氲'''（Unnatural Aura）是一条[[通用怪物规则]]。
+<div class="skill-head"><span class="sk-a">Su</span><span class="sk-f">位置：灵氲</span></div>
+</noinclude><includeonly><div class="lang"><span id="反自然灵氲"></span><div class="lang-h"><b>[[反自然灵氲]]</b><i>Unnatural Aura</i><span class="lang-w">Su · 灵氲</span></div><div class="lang-d"></includeonly>
+动物不愿意接近该生物，除非动物的主人通过 DC 25 的[[驯养动物]]、[[骑术]]或野性认同检定。
+
+'''格式'''：反自然灵氲（30 尺）
+<includeonly></div></div></includeonly><noinclude>
+
+{{AoN原文|1=UMR.aspx?ItemName=Unnatural Aura|2=Unnatural Aura}}
+
+[[分类:通用怪物规则]]</noinclude>

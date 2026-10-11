@@ -19,7 +19,7 @@
 |-
 | 2环法术 || CRB || 援助术（Aid） 阵营武器（Align Weapon） 安定心神（Calm Emotions） 崇敬术（Consecrate） 治疗中度伤（Cure Moderate Wounds） 黑暗术（Darkness） 死亡丧钟（Death Knell） 减缓毒发（Delay Poison） 亵渎术（Desecrate） 侦测思想（Detect thoughts） 注目术（Enthrall） 寻找陷阱（Find Traps） 人类定身术（Hold Person） 造成中度伤（Inflict Moderate Wounds） || 隐形术（Invisibility） 敲击术（Knock） 移除麻痹（Remove Paralysis） 抵抗能量伤害（Resist Energy） 次等复原术（Restoration, Lesser） 识破隐形（See Invisibility） 护卫他人（Shield Other） 沉默术（Silence） 灵能武器（Spiritual Weapon） 巧言术（Tongues） 隐匿阵营（Undetectable Alignment） 风讯术（Whispering Wind） 诚实之域（Zone of Truth）
 |-
-| APG || 猎犬追踪（Bloodhound） 严加斥责（Castigate） 告解（Confess） 亵渎抵抗（Corruption Resistance） 信仰之火（Flames of the Faithful） 追踪灵光（Follow Aura） || 镇魂曲（Ghostbane Dirge） 甜言蜜语（Honeyed Tongue） 察觉细节（Perceive Cues） 神圣链接（Sacred Bond） 敬畏武器（Weapon of Awe） || 
+| APG || 猎犬追踪（Bloodhound） 严加斥责（Castigate） 告解（Confess） 亵渎抵抗（Corruption Resistance） 信仰之火（Flames of the Faithful） 追踪灵氲（Follow Aura） || 镇魂曲（Ghostbane Dirge） 甜言蜜语（Honeyed Tongue） 察觉细节（Perceive Cues） 神圣链接（Sacred Bond） 敬畏武器（Weapon of Awe） || 
 |-
 | UM || 敏锐感官（Acute Senses） 延缓痛苦（Delay Pain） 易容他人（Disguise Other） 痛苦之声（Distressing Tone） || 幽灵伪装（Ghostly Disguise） 惨嚎剧痛（Howling Agony） 克服困境（Surmount Affliction） || 
 |-

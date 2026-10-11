@@ -30,8 +30,8 @@
 |cmd=12
 |feats=[[武器娴熟]]
 |skills=[[察觉]] +5;[[游泳]] +7
-|sq=闭气
-|special_abilities={{怪物能力|闭气|Ex|毛依海豚在溺死之前，可以闭气长达其体质值 6 倍的分钟数。}}
+|sq=屏息
+|special_abilities={{怪物能力|屏息|Ex|毛依海豚在溺死之前，可以屏息长达其体质值 6 倍的分钟数。}}
 |source=魔宠手记
 |family=海豚
 |lore=

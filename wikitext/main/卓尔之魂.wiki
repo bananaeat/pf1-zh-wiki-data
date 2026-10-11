@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of Shadows pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=卓尔之魂
+|english_name=Drow Spirit
+|pfs=否
+|description=虽然你是混血儿，但你的[[卓尔]]亲属的魔法在你的血管中自由流淌。
+|prerequisites=[[半精灵]]。
+|benefit=你获得每日各施放一次[[舞光术]]、[[黑暗术]]和[[妖火]]的类法术能力。你以角色等级作为这些能力的施法者等级。或者，你也可以改为选取一项精灵能够用来替换【精灵魔法】的种族特性。
+|special=你只能在1级时选择该专长。如果你选择该专长，就不能选择[[人类之魂]]或[[精灵之魂]]专长。
+|source=BoS
+|source_name=阴影血脉
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Drow%20Spirit
+}}

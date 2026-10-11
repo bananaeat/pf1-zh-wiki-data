@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Antihero's Handbook pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=牺牲相助
+|english_name=Sacrificial Aid
+|categories=团队
+|description=你说服盟友帮你解除陷阱，但若你失败，承受后果的是那名盟友。
+|benefit=当你尝试[[解除装置]]解除陷阱时，一名同样拥有此专长的盟友可以助你一臂之力。该盟友掷1d20，加上她的解除装置检定总加值或她的角色等级（取较高者）；若盟友的掷骰结果为10或更高，你的解除装置检定获得+4加值。如果你触发了陷阱，则陷阱的效果以你的盟友为目标。若陷阱有多个目标，你的盟友既要承受对她自己的效果，也要承受对你的效果（可能受到两次伤害，或需进行两次豁免检定）。
+|normal=只有当你能够进行相应的技能检定时，才能使用[[协助他人]]动作。所提供的加值仅为+2。
+|source=A'sH
+|source_name=反英雄手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Sacrificial%20Aid
+}}

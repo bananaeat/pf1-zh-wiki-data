@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Plane-Hopper's Handbook pg. 30），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=熟练寻梦师
+|english_name=Practiced Dreamer
+|pfs=否
+|description=你在梦境维度度过的时光，提升了你操纵其地貌的能力。
+|prerequisites=魅力15，[[寻梦师]]，[[知识]]（位面）5级。
+|benefit=每天一次，你可以对一次执行绝无可能之举的失败尝试重掷，例如施放你通常无法施放的法术、获得某个法术的效果如同它已被施放，或者凭空变出一件魔法物品。当你以醒梦体进入梦境、进行魅力检定以决定初始状态时，你还额外获得+2加值。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Practiced%20Dreamer
+}}

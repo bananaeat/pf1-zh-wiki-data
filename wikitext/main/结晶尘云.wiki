@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Plane-Hopper's Handbook pg. 14），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=结晶尘云
+|english_name=Crystalline Cloud
+|description=你可以释放大量结晶尘埃，制造干扰或掩护盟友。
+|prerequisites=[[秩裔]]，角色等级5级，结晶尘埃种族特性。
+|benefit=你使用结晶尘埃这一超自然种族特性时，可以改为创造一团以你为中心、半径10尺的结晶尘埃云。这团云不遮蔽视线，但云内的盟友会获得你的结晶尘埃的益处。只要你仍处在云的范围内，每轮可以用一个自由动作维持这团云。常风（11+英里/小时），例如[[造风术]]法术所产生的风，会立即吹散这团云。结晶尘云每持续一轮，消耗你结晶尘埃种族特性的2轮。如果你拥有[[鎏金武器]]专长，任何进入云中的混乱子类型生物必须通过一次强韧豁免（DC = 10 + 你角色等级的一半 + 你的魅力调整值），否则恶心1轮。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Crystalline%20Cloud
+}}

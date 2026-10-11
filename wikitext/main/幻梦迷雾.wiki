@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
-</noinclude>{{领域能力|name=幻梦迷雾|en=Haze of Daydreams|type=Su|domain=机运领域|sub=想像子域 (Imagination)|sub_name=想像子域|source=纯洁勇士|text=在6级时，你能释放15尺半径的幻梦迷雾，每日可用轮数等于你的牧师等级。这些轮数无需连续。雾中的生物必须通过DC=“10+1/2牧师等级+[[感知]]调整值”的意志豁免，否则陷入[[迷魂]]状态。你可以指定至多等同于你牧师等级数量的生物不受迷雾影响。生物离开迷雾范围或灵光结束时，迷魂状态立刻结束。此能力取代[[机运领域#好运 (Good Fortune, Ex)|好运]]能力。}}<noinclude>
+</noinclude>{{领域能力|name=幻梦迷雾|en=Haze of Daydreams|type=Su|domain=机运领域|sub=想像子域 (Imagination)|sub_name=想像子域|source=纯洁勇士|text=在6级时，你能释放15尺半径的幻梦迷雾，每日可用轮数等于你的牧师等级。这些轮数无需连续。雾中的生物必须通过DC=“10+1/2牧师等级+[[感知]]调整值”的意志豁免，否则陷入[[迷魂]]状态。你可以指定至多等同于你牧师等级数量的生物不受迷雾影响。生物离开迷雾范围或灵氲结束时，迷魂状态立刻结束。此能力取代[[机运领域#好运 (Good Fortune, Ex)|好运]]能力。}}<noinclude>
 
 [[分类:领域]]</noinclude>

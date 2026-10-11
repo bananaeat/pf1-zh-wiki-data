@@ -2,7 +2,7 @@
 |name=暗木造物
 |english_name=Darkwood Creations
 |category=冒险装备
-|description=基布维和芒吉莽原（Mwangi Expanse）的南方是狂啸丛林（Screaming Jungle），这里是数以百万计的尖叫的猴子以及暴乱生长的各种植群的家乡。在这里，商人们勇敢地面对陌生而多雾的丛林的危险，并收获利润丰厚的黑木树的木料和树叶。下面是基布维人使用黑木的数种方式。更多有关黑木的信息详见Pathfinder RPG Core Rulebook第154页。
+|description=基布维和莽吉莽原（Mwangi Expanse）的南方是狂啸丛林（Screaming Jungle），这里是数以百万计的尖叫的猴子以及暴乱生长的各种植群的家乡。在这里，商人们勇敢地面对陌生而多雾的丛林的危险，并收获利润丰厚的黑木树的木料和树叶。下面是基布维人使用黑木的数种方式。更多有关黑木的信息详见Pathfinder RPG Core Rulebook第154页。
 |source=MM
 |source_name=商人货单
 }}

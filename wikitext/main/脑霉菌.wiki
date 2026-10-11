@@ -21,7 +21,7 @@
 |resist=寒冷 5
 |weaknesses=音波易伤
 |speed=30 尺
-|melee=噬咬 +5（1d6 +2），2 触手 +3（1d4 +1 附加拖拽）
+|melee=啮咬 +5（1d6 +2），2 触手 +3（1d4 +1 附加拖拽）
 |space=5 尺
 |reach=5 尺（触手 15 尺）
 |special_attacks=拖拽（触手，5 尺），星界尖啸
@@ -52,4 +52,4 @@
 虽然能够用可缠握的细丝进行精细操作，脑霉菌通常不使用武器，而是倚靠天生攻击。
 }}
 
-本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=89271.msg834299#msg834299 【B3】腦黴菌（Cerebric Fungus）]，译者：諾莉莉）。

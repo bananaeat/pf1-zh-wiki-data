@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Qadira, Jewel of the East pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=合伙人
+|english_name=Partner
+|pfs=否
+|description=与一个成熟的商贾世家所能建立的最亲密的关系，就是被任命为合伙人。
+|prerequisites=角色等级9级。角色必须已作为该商贾世家的同僚至少3年，并为世家的一名成员做出过改变其人生的贡献，例如救过她的性命，或在原本无法抵达的地区（例如另一个位面）建立起利润丰厚的贸易网络。
+|benefit=角色会被邀请被商贾家族收养，并在她尚不是柯莱士帝国公民的情况下获得公民身份。角色每月领取1000gp的津贴（由世家出资），每年可无息借款至多50000gp（须在1年内还清），并获得同僚级别所述的非金钱福利。在角色晋升为合伙人时，世家会赠予她一件价值不超过12000gp的定制[[魔法物品]]。
+|source=QJotE
+|source_name=卡蒂亚，东方明珠
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Partner
+}}

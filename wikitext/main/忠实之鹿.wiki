@@ -3,7 +3,7 @@
 |english_name=Stalwart Elk
 |type=坐骑
 |prerequisites=[[麋鹿]]（切尔纳萨多骑乘麋鹿）
-|description=当骑乘一只切尔纳萨多骑乘麋鹿时，你在抵抗其他生物的反自然灵光的驯养动物、骑术、和野性认同检定上，获得+4背景加值。
+|description=当骑乘一只切尔纳萨多骑乘麋鹿时，你在抵抗其他生物的反自然灵氲的驯养动物、骑术、和野性认同检定上，获得+4背景加值。
 |source_name=坐骑背景
 |source=PFS
 |source_url=https://pf1chm.pages.dev/topics/zh4fc8a2e018.htm

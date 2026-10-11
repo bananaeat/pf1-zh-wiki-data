@@ -1,0 +1,12 @@
+{{Feat
+|name=媚惑礼赠
+|english_name=Gifted Mesmerist
+|categories=伟业
+|pfs=否
+|description=你的魔法熟知心灵的路径，你对某个影响心灵的法术已精熟到可以把它作为类法术能力施展。
+|prerequisites=以魅惑或胁迫法术成功影响25个不同的目标。
+|benefit=选择任一你能施展的魅惑或胁迫法术。你可以每天一次把该法术作为类法术能力使用。此类法术能力的施法者等级和DC与你施展该法术时相同。每当你获得一个施法职业的等级时，你可以用一个新的魅惑或胁迫法术取代当前的这个类法术能力。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=51645.msg474522#msg474522 [LFPG][ASL]偉業專長[翻譯完成]]，译者：PATIBAUL；按 AoN 核对过。
+|source_name=烈焰传承玩家手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Gifted%20Mesmerist
+}}

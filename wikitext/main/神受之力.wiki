@@ -2,7 +2,7 @@
 |name=神受之力
 |english_name=Force for Good
 |type=派系
-|description=你的善良阵营法术会更加强大，其效果视为施法者等级+1。此[[背景特性]]会使得你的善良灵光在被侦测时，强度上升一个等级(例如微弱变中等)。
+|description=你的善良阵营法术会更加强大，其效果视为施法者等级+1。此[[背景特性]]会使得你的善良灵氲在被侦测时，强度上升一个等级(例如微弱变中等)。
 |source_name=探索者协会组织游戏指南
 |source=PFS Guide
 |source_url=https://pf1chm.pages.dev/topics/page_154.html

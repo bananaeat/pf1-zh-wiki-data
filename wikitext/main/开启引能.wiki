@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Planar Adventures pg. 30），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=开启引能
+|english_name=Open Conduit
+|description=你能以无与伦比的轻松自位面汲取能量。
+|prerequisites=[[知识]]（位面）5级，或具有本地子类型的异界生物。
+|benefit=选择一项你拥有的引能专长。在确定你每天能使用该引能专长的次数或时间时，视为你的知识（位面）多出5级。这不提供任何其他益处，也不影响知识（位面）的其他用途。
+|special=你可以多次选择本专长，其效果不叠加。每次选择时，选择另一项引能专长来获得其益处。
+|source=PA
+|source_name=位面冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Open%20Conduit
+}}

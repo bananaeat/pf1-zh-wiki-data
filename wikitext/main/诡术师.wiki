@@ -100,6 +100,10 @@
 
 10级时，诡术师可以将她的偷袭伤害加到任何造成伤害的法术上，前提是目标处于[[措手不及]]状态。该额外伤害只适用于造成生命值伤害的法术，且额外伤害与法术伤害同类型。如果法术允许通过豁免来抵消或减半伤害，那么偷袭伤害同样被抵消或减半。
 
+== 进阶职业变体 ==
+
+* [[心灵窃贼]]（Thought Thief）
+
 {{AoN原文|1=PrestigeClassesDisplay.aspx?ItemName=Arcane%20Trickster|2=Arcane Trickster}}
 {{职业}}
 

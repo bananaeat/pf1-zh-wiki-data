@@ -3,7 +3,7 @@
 |english_name=Darkwood Buckler
 |cat=特殊魔法盾牌
 |base=[[轻木盾]]
-|aura=无灵光（非魔法）
+|aura=无灵氲（非魔法）
 |slot=盾牌
 |price=203 gp
 |weight=2.5磅

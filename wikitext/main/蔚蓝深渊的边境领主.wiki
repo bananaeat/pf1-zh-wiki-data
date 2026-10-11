@@ -1,0 +1,12 @@
+{{Feat
+|name=蔚蓝深渊的边境领主
+|english_name=Marcher-Lord of the Cerulean Abyss
+|categories=宫廷头衔
+|description=你以传统的方式——将你的徽记和水之主的衔尾蛇刻在一条活龙或另一头庞大的怪物的血肉上——证明了自己，成为拉格达恩的贵族之一，并获得了他的部分力量作为奖励。
+|prerequisites=精类生物类型或[[妖精仪典]]（[[拉格达恩]]），你必须已将你的名字和拉格达恩的圣徽刻在一条活龙、或一个具有水生或水系亚种且CR至少比你选择本专长时的等级高2的异界生物的皮肤上。
+|benefit=你对你所击中的目标宣示所有权。如果你在本轮对某个生物造成了生命值伤害，则该生物在战技检定和CMD上受到–2减值，直到你下一轮开始。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=140560.msg1233224#msg1233224 伽瑟兰相关专长]，译者：Mystletainn；按 AoN 核对过。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Marcher-Lord%20of%20the%20Cerulean%20Abyss
+}}

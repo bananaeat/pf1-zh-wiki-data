@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder Campaign Setting pg. 121），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=卡希尔学者
+|english_name=Katheer Scholar
+|pfs=否
+|description=你毕业于散布在卡希尔各地的众多学院、大学和专科学府之一。
+|prerequisites=智力15，卡蒂亚亲和。
+|benefit=每当你在用以辨识所面对生物种类的知识检定中成功时，你可以花费一个标准动作向盟友提供详细情报。这样做会让30尺内所有能听到你的盟友，在对抗该辨识出的生物种类的武器伤害掷骰上获得+1情势加值，持续轮数等于你的智力加值。每次遭遇你只能使用一次此能力。免疫重击和偷袭的生物，对本能力带来的额外伤害并不免疫。
+|source_name=探索者编年史：战役设定
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Katheer%20Scholar
+}}

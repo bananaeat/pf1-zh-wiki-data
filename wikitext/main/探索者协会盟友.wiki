@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Agents of Evil pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=探索者协会盟友
+|english_name=Pathfinder Society Ally
+|description=探索者协会为感谢你此前提供的服务，向你开放其档案馆。
+|prerequisites=[[组织友人]]（探索者协会）。
+|benefit=探索者协会庞大的档案馆任你查阅。在规模达到小城镇或以上的任何定居点，你可以花1d4小时查阅现有探索者的笔记，从而在一次[[知识]]检定上获得+4环境加值。
+|source=AoE
+|source_name=邪恶特务
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Pathfinder%20Society%20Ally
+}}

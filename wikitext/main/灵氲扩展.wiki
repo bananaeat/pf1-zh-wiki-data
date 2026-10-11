@@ -1,0 +1,14 @@
+{{Spell
+|name=灵氲扩展
+|english_name=Widen auras
+|school=变化系
+|levels=反圣武士 2;圣武士 2
+|action=标准动作
+|components=语言
+|range=个人
+|target=自己
+|duration=1分钟/等级（可解消）
+|sr=否
+|description=你的[[反圣武士]]或圣武士灵氲的范围加倍。举例说明：若你是圣武士，你的勇气灵氲能够影响20尺范围内的盟友，而非原本的10尺。
+|source=进阶职业指南
+}}

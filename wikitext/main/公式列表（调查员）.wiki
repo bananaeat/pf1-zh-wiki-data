@@ -25,7 +25,7 @@
 |-
 | 3环公式 || CRB || 秘法视力（Arcane sight） 野兽形态I（Beast shape I） 治疗重伤（Cure serious wounds） 移位术（Displacement） 飞行术（Fly） 气化形体（Gaseous form） 加速术（Haste） 英雄气概（Heroism） || 回避侦测（Nondetection） 防护能量伤害（Protection from energy） 狂暴术（Rage） 移除目盲/耳聋（Remove blindness/deafness） 移除诅咒（Remove curse） 移除疾病（Remove disease） 巧言术（Tongues） 水中呼吸（Water breathing）
 |-
-| APG || 吸纳之触（Absorbing Touch） 增效灵药（Amplify Elixir） 猎犬追踪（Bloodhound） 斗转星移（Draconic Reservoir） || 元素光环（Elemental Aura） 探寻思想（Seek Thoughts） 荆刺之躯（Thorn Body） || 
+| APG || 吸纳之触（Absorbing Touch） 增效灵药（Amplify Elixir） 猎犬追踪（Bloodhound） 斗转星移（Draconic Reservoir） || 元素灵氲（Elemental Aura） 探寻思想（Seek Thoughts） 荆刺之躯（Thorn Body） || 
 |-
 | UM || 次等岁月抵抗（Age Resistance, Lesser） 潜沙走石（Burrow） 无尽之眼（Countless Eyes） 脓疱之疹（Eruptive Pustules） || 傀儡凭依（Marionette Possession） 类人形态I（Monstrous Physique I） 亡灵形态I（Undead Anatomy I） || 
 |-

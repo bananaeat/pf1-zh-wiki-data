@@ -1,6 +1,7 @@
 {{物品
 |name=猩红色艾恩石
 |english_name=Crimson Sphere Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Crimson%20Sphere
 |category=艾恩石
 |aura=中等变化系
 |cl=12

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Planar Adventures pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=位面行者洞察
+|english_name=Planewalker's Insight
+|description=你精通各位面的传说，也熟知其原住民的心理。
+|benefit=你在[[知识]]（位面）检定以及针对异界生物的[[察言观色]]检定上获得+2加值，且知识（位面）对你而言是本职技能。若这两项技能中任一项你有10级或以上，该技能的加值提高为+4。这些加值不与[[警觉]]或[[毕业生]]专长所授予的加值叠加。
+|source=PA
+|source_name=位面冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Planewalker%27s%20Insight
+}}

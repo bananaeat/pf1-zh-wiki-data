@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Revenge of the Kobold King pg. 6, Pathfinder Campaign Setting pg. 219），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=虫类伙伴
+|english_name=Vermin Companion
+|pfs=否
+|description=你对蠕爬之物的了解已深入到可以与其中之一结为伙伴的程度。
+|prerequisites=[[毒虫之心]]，动物伙伴职业特性，野性认同职业特性。
+|benefit=在指定的德鲁伊等级，把下列怪物加入你的潜在动物伙伴列表。1级——[[巨蚁]]（工蚁）、[[火甲虫]]、中型怪物蜈蚣、中型怪物蝎、中型怪物蜘蛛；4级——巨蚁（兵蚁）、[[巨蜂]]、巨投弹甲虫、大型怪物蜈蚣、大型怪物蝎、大型怪物蜘蛛；7级——[[巨螳螂]]、[[巨锹甲虫]]、巨胡蜂、超大型怪物蜈蚣；10级——巨型怪物蜈蚣、超大型怪物蜘蛛；13级——超大型怪物蝎；16级——巨型怪物蜘蛛。
+|source_name=狗头人之王的复仇
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Vermin%20Companion
+}}

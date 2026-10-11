@@ -1,0 +1,12 @@
+{{Feat
+|name=高级陷阱感知
+|english_name=Heightened Trap Sense
+|pfs=否
+|description=你对陷阱的细微之处以及它们的隐藏方式极为敏锐。
+|prerequisites=搜索6级，[[陷阱感知]]+1。
+|benefit=当你经过陷阱5尺以内时，你有权进行一次自动的搜索检定来发现该陷阱。该检定承受-10减值；如果你以半速移动且除移动外不做其他动作，则为-5减值。
+|normal=你必须花费一个动作主动搜索。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=92370.msg857520#msg857520 【OLoP】奥斯里昂，法老之地（Osirion, Land of Pharaohs）中的专长]，译者：朔风；按 AoN 核对过。
+|source_name=奥西里昂：法老之地
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Heightened%20Trap%20Sense
+}}

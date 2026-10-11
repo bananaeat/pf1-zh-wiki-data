@@ -1,6 +1,7 @@
 {{物品
 |name=破损的珍珠灰艾恩石
 |english_name=Nacreous Gray Sphere (Cracked) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Nacreous%20Gray%20Sphere
 |category=艾恩石
 |aura=中等防护系
 |cl=12

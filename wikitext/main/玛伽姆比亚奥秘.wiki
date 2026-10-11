@@ -2,7 +2,7 @@
 |name=玛伽姆比亚奥秘
 |english_name=Magaambyan Arcana
 |type=种族
-|prerequisites=[[人类]]（芒吉人）
+|prerequisites=[[人类]]（莽吉人）
 |description=你对玛伽姆比亚流魔法的研究允许你从德鲁伊或牧师法术列表中增加1个拥有[善良]描述符的法术至你选择的一个奥术施法职业法术列表，该法术跟德鲁伊或牧师法术列表中同环。选择此背景时选择法术。
 |source_name=内海种族
 |source=Inner Sea Races

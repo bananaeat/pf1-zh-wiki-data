@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #119: Prisoners of the Blight pg. 61），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=荒疫求生者
+|english_name=Blight Survivalist
+|description=你已学会在危险的环境中生存。
+|prerequisites=[[技能专攻]]（生存）。
+|benefit=你在对抗环境危害和天气效应的豁免检定上获得+3加值。
+|special=如果你拥有偏好地形职业特性，且所探索的荒疫之地与其中一种地形相符，你可以选择用你的偏好地形加值来取代本专长赋予的+3加值。
+|source_name=冒险之路119：荒疫囚徒
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Blight%20Survivalist
+}}

@@ -22,7 +22,7 @@
 |melee=徒手攻击+5(1d6+2)或双截棍+4(1d6+2)或徒手攻击疾风连击+3/+3(1d6+2)
 |ranged=手里剑+3(1d2+2)
 |special_attacks=疾风连击，震慑击(3/日，DC15)
-|tactics=<div class="ml wide"><span class="k">战斗前</span>他喝下枭之睿智药水增强 AC 和察觉，同时还有法师护甲药水</div><div class="ml wide"><span class="k">战斗中</span>他在进行疾风连击时用双截棍进行卸武战技；如果他正保护着谁，他会先使用震慑击，再带着被保护者撤退</div><div class="ml wide"><span class="k">基础属性</span>没有枭之睿智和法师护甲，他的感官是察觉+8；AC15，接触14，措手13；感知15；CMD18；察觉+8，察言观色+8，生存+3</div>
+|tactics=<div class="ml wide"><span class="k">战斗前</span>他喝下枭之睿智药水增强 AC 和察觉，同时还有法师护甲药水</div><div class="ml wide"><span class="k">战斗中</span>他在进行疾风连击时用双截棍进行缴械战技；如果他正保护着谁，他会先使用震慑击，再带着被保护者撤退</div><div class="ml wide"><span class="k">基础属性</span>没有枭之睿智和法师护甲，他的感官是察觉+8；AC15，接触14，措手13；感知15；CMD18；察觉+8，察言观色+8，生存+3</div>
 |str=14
 |dex=13
 |con=12

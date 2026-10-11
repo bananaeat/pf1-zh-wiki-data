@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Plane-Hopper's Handbook pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=找出瑕疵
+|english_name=Find the Flaw
+|description=你能察觉敌人武器和护甲原本有序的结构中那些细微的缺陷。
+|prerequisites=力量13，[[精通击破]]，[[猛力攻击]]，基本攻击加值+1，[[工艺]]（护甲或武器）5级，秩裔。
+|benefit=进行击破战技时，你无视等同于你智力调整值的硬度点数。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Find%20the%20Flaw
+}}

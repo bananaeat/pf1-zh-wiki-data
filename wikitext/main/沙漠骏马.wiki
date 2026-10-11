@@ -1,5 +1,4 @@
 {{德鲁伊导航}}
-<noinclude>{{消歧义|沙漠骏马(怪物)}}</noinclude>
 {{动物伙伴卡片
 |name=沙漠骏马
 |en=Shissah

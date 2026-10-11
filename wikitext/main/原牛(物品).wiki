@@ -3,6 +3,7 @@
 {{装备
 |name=原牛
 |english_name=Aurochs
+|aon=EquipmentMiscDisplay.aspx?ItemName=Aurochs%20(common)
 |cat=坐骑与宠物
 |price=300 gp（普通）；450 gp（战斗训练）
 |weight=—

@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=健忘灵氲|en=Aura of Forgetfulness|type=Su|domain=黑暗领域|sub=失却子域 (Loss)|sub_name=失却子域|source=进阶玩家指南|text=到了8级你能放出30尺的光环，持续轮数为牧师等级，不需连续。此范围内的目标必须通过意志豁免，否则将对置身于圈内时候没有记忆。同时施法者在区域内从1环开始向上遍历，从低到高依次失去记忆法术或可用法术，每轮都必须意志豁免，成功可保留。此能力替换[[黑暗领域#黑暗之眼 (Eyes of Darkness, Su)|黑暗之眼]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

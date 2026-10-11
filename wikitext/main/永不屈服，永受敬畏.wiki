@@ -1,0 +1,14 @@
+{{Feat
+|name=永不屈服，永受敬畏
+|english_name=Never Conquered, Forever Feared
+|categories=故事
+|pfs=否
+|description=你在战斗中无所畏惧，你的血脉回荡着令人敬畏的力量。
+|prerequisites=成为赫斯基拉家族的一员，或拥有“巨龙子嗣”、“正义之怒”或“血系之傲”角色背景。
+|benefit=你严厉的举止使你在[[威吓]]检定上获得+2加值。如果你的威吓为10级以上，该加值提高为+4。你在对抗[[麻痹]]和睡眠效果的豁免上也获得+2加值。
+|goal=你必须连续独自击杀适当数量的重要敌手，期间不得在战斗中撤退或脱离。
+|completion_benefit=你在采取攻击或冲锋等进攻动作时，可以以一个自由动作展现你威严慑人的气场。距离你30尺内的对手必须通过一次意志豁免，否则陷入[[战栗]]，持续3d6轮。此豁免的DC等于10+你角色等级的一半+你的魅力调整值。此能力不会使已处于战栗状态的对手变为[[惊惧]]，且生命骰多于你角色等级的对手免疫该效果。这是一个影响心灵的恐惧效果。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=167723.msg1416949#msg1416949 【#131】皇冠战争的8个故事专长及塔尔多八大贵族家族背景介绍]，译者：Kochchchch；按 AoN 核对过。
+|source_name=冒险之路131：死神的右手
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Never%20Conquered%2C%20Forever%20Feared
+}}

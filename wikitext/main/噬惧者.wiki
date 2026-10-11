@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 87），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=噬惧者
+|english_name=Fear Eater
+|description=你吞食他人的恐惧，使他们摆脱其影响。
+|prerequisites=魅力13，[[钢铁意志]]，不免疫恐惧效果。
+|benefit=你可以以一个标准动作，通过接触另一个生物来移除其身上的一个恐惧效果。该恐惧效果从那个生物转移到你身上，剩余持续时间不变。如果该恐惧效果会因目标不同而有不同效果（例如[[惊恐术]]的效果取决于目标的生命骰），则它具有对原生物产生的效果或对你将产生的效果中较严重者。当你选择接受另一个生物的恐惧时，你不会获得你通常对该恐惧效果所拥有的任何豁免检定、法术抗力或其他防御。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Fear%20Eater
+}}

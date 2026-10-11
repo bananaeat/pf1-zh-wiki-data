@@ -1,0 +1,14 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder Unchained pg. 154），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=奇特塑能
+|english_name=Esoteric Evocation
+|categories=奇特
+|pfs=否
+|description=当你把熵脂用于塑能法术时，它会从你手中迸发光芒，击中附近的敌人。
+|benefit=当你以熵脂作为奇特施法材料施放塑能系法术时，可以伤害一个与你相邻的生物。熵脂每2点法术施法者等级造成1点伤害（至少1点），且伤害类型与你的法术相同。
+
+当你对塑能系法术获得熵脂的高等材料效果时，在决定法术的伤害骰以及奇特塑能的额外伤害时，你的施法者等级都再视为高1级。如适用，这同样会提高法术的伤害骰上限。
+|source=PU
+|source_name=解放者
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Esoteric%20Evocation
+}}

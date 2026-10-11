@@ -1,21 +1,22 @@
 {{速查导航}}
 '''NPC画廊'''汇总《[[游戏主持人指南]]》「NPC 画廊」一章：按身份分组的现成 NPC，每人带一条「奖励」——交好这个 NPC 能给 PC 的好处。
 
-== 导读 ==
-
-强盗们突然破土而出，尖叫着发起攻击。偷袭者们用来躲藏的暗褐色油布被风吹起，猎猎抖动，沙子扬得空中到处都是。不出所料地，他们笔直冲向赛欧妮。瓦莱罗亲切地拍了拍身下的骆驼。
+<div class="bk-blurb">
+强盗们突然破土而出，尖叫着发起攻击。偷袭者们用来躲藏的暗褐色油布被风吹起，猎猎抖动，沙子扬得空中到处都是。不出所料地，他们笔直冲向赛奥尼。瓦莱洛斯亲切地拍了拍身下的骆驼。
 
 "现在我觉得你们将会是这趟旅程最丑陋的一笔了，"他说。骆驼一动不动，吐了口唾沫。"你那儿没什么问题吧，赛儿？"他问道，并拔出了剑。
 
 "下一次，"她说，"我们直接花钱传送。"然后伸出了她的手，狂风骤起，迎面扑向那群强盗。
+</div>
 
+== 导读 ==
 对于每一个在幻想世界冒险的玩家角色来说，有成百上千的非玩家角色，他们为玩家提供生死攸关的帮助、推进重要的故事进行、或只是故事中增加乐趣的小配角。从本地的农民到酒馆里的故事家，从至高君王到贫穷的乞丐，这些角色都是 GM 所创造的世界和故事中的居民。他们是盟友和妨碍，是雇主和受害者，是欢呼的人群和起哄的观众。无论在 PC 需要帮助、试图交易、还是去不为人所知的地方冒险，这些角色都可以变得栩栩如生。
 
 然而，相对于地主、大商人或贫苦的普通人，大多数冒险还是主要针对于怪物、反派和熟悉的街道之外的危险。因此，当酒馆中发生不可避免的冲突时，皇家法院中交涉失败时，或其他任何意料之外的冲突发生时，大多数 GM 都会假装丢骰子或赶忙翻书应对当前的需要。这一章节就是为了在这些情况下帮助 GM，当他们需要用到未准备的数据时，这些遭遇能够快速展开，除非 PC 们希望跳过。
 
 下表呈现了超过80个在 Pathfinder RPG 中很常见的 NPC。绝大多数并不是为了直接用于和一群经验丰富的冒险者开打，不过依然列出了他们的数据以便在任何情况下和冒险队伍进行互动。假如 GM 需要知道一般店主的估价技能是多少，或者一个水手到底怎样才能合格掌舵，这里的数据为这些寻常角色提供了基本底线。这并不是说这些角色并不会产生危险，一大群和猛兽搏斗的角斗士或常备军通常是致命的，而一大群手持火把的暴民和工匠同样可以置人于死地。许多这些 NPC 角色也有潜力成为战役中更重要的角色，没什么能阻止一个 GM 把致命的赏金猎人或臭名昭著的海盗船长作为一些列冒险最后的头目。或者本章节也可以看做是一份 NPC 角色的服务清单，作为 PC 们的雇员、追随者甚至紧要关头的临时帮手。总的来说，这些角色为 GM 提供了更多的工具和选择，不会因为 GM 需要临时生成数据而暂停游戏，并且节省了 GM 的时间，让他们可以把精力放在游戏中最为令人兴奋的部分——冒险过程中。
 
-论 NPC 的泛用性（AN NPC BY ANY OTHER NAME）
+=== 论 NPC 的泛用性 ===
 
 本章节提供了形形色色的旅行者和店员，卫兵和酒鬼，公主和大祭司，以及其他许多幻想世界的居民们的数据。然而，这里没有列出诸如探险家、登山者、无敌舰队提督、龙骑士和无数其他可能在冒险中遭遇的 NPC 们。其原因有二：首先，不可能存在能满足每一个 GM 想象中的所有角色的列表，因此这里只是列出最常出现在 Pathfinder RPG 里的角色范例。其二，虽然一份数据表的名字叫做"向导"，但是 GM 完全有理由把数据用作探险家、先锋护卫、牛仔或其他类似的他所需要的角色上。
 
@@ -29,507 +30,537 @@
 
 因此，虽然这里只列出了几十个 NPC，但在 GM 经过想象力加工之后可以变成成千上万。
 
-NPC 奖励（NPC BOONS）
+=== NPC 奖励 ===
 
 NPC 奖励是可选规则——主要是 NPC 们在游戏中可以给 PC 带来的增益和好处。这个规则支持和鼓励 PC 们在和 NPC 互动的时候投入更大的热情，并且创造了一种以大量金钱和经验之外奖赏 PC 的方法。在数据表的最后，每一个 NPC 都附有一条建议，描述了在这一规则下此 NPC 能提供的最合适他身份的奖励。GM 如果希望采用这些奖励或是创建他们自己的奖励，可以使用这里的描述作为创造新奖励的借鉴和指南。GM 不应该认为下面的每一个 NPC 都会给玩家带来好处，也不应该认为不会有 NPC 带来任何好处。那些有兴趣自己设计或定制奖励的 GM 应该在他们觉得最适合他们需要的时候灵活修改这些奖励。
 
-表：预制 NPC 数据
-
-冒险者（ADVENTURERS）
-
-强盗（BRIGANDS）
-
-城镇警卫（CITY WATCH）
-
-竞技场（COLISEUM）
-
-罪犯 I（CRIMINALS I）
-
-罪犯 II（CRIMINALS II）
-
-十字军（CRUSADERS）
-
-地牢（DUNGEON）
-
-雇佣兵（MERCENARIES）
-
-军人（MILITARY）
-
-村民（VILLAGERS）
-
-贵族（NOBLES）
-
-皇族（ROYALTY）
-
-酒馆（TAVERN）
-
-== 冒险者 ==
-
-奸猾恶棍，唯利佣兵，怪物猎手，古墓窃贼，公众英雄，流氓无赖，所有的这些都在冒险者出卖手艺的考虑名单上。一群冒险者可能是踏上征途的英雄，他们在所过之处扬善除恶，扶正纠邪；冒险者也可能是是一帮危险的寇贼，为赢取财富而搜索失落的古物。总之，对 PC 来说，其他的冒险者队伍可以作为他们有力的盟友或者雇佣的帮手（比如为 PC 工作一天或者探索一座地城）；而另一方面也同样可以当做竞争中的对手，把 PC 看做成功路上的绊脚石。无论是敌是友，冒险者可能在任何时候出现在 PC 的面前——让他们知道自己并不是在这片土地上唯一一群刀头舔血的家伙。
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+== NPC 一览 ==
+<ul class="nav nav-tabs cov-tabs"><li class="active"><span data-toggle="tab" data-target="#npcg-groups">按身份</span></li><li><span data-toggle="tab" data-target="#npcg-cr">按 CR</span></li></ul>
+<div class="tab-content"><div id="npcg-groups" class="tab-pane active">
+<div class="cov-grid">
+<div class="cov-card" style="--cc:#7a5c3e"><span id="冒险者"></span>
+<div class="cov-h"><b>冒险者</b><i>Adventurers</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c">奸猾恶棍，唯利佣兵，怪物猎手，古墓窃贼，公众英雄，流氓无赖，所有的这些都在冒险者出卖手艺的考虑名单上。一群冒险者可能是踏上征途的英雄，他们在所过之处扬善除恶，扶正纠邪；冒险者也可能是是一帮危险的寇贼，为赢取财富而搜索失落的古物。总之，对 PC 来说，其他的冒险者队伍可以作为他们有力的盟友或者雇佣的帮手（比如为 PC 工作一天或者探索一座地城）；而另一方面也同样可以当做竞争中的对手，把 PC 看做成功路上的绊脚石。无论是敌是友，冒险者可能在任何时候出现在 PC 的面前——让他们知道自己并不是在这片土地上唯一一群刀头舔血的家伙。</div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 5 || [[怪物猎人]] || 人类 游侠 6
 |-
-| [[怪物猎人]] || 5 || 人类 游侠 6 || 类人生物 || 绝对中立
+| 5 || [[战斗法师]] || 人类 塑能师 6
 |-
-| [[战斗法师]] || 5 || 人类 塑能师 6 || 类人生物 || 绝对中立
-|-
-| [[盗墓者]] || 5 || 人类 盗贼 6 || 类人生物 || 绝对中立
+| 5 || [[盗墓者]] || 人类 盗贼 6
 |}
 </div>
-
-== 强盗 ==
-
-在野性未驯的蛮荒疆域和道路间，除了普通的怪物怪物外，那些依靠劫掠路人和定居者为生的粗野强盗与凶险恶徒贪婪地盯着自己的猎场。无论是单身劫道的车匪路霸还是成群结队埋伏的山贼，这些靠放商路的血吃饭的家伙要比普通的无脑怪物更可怕——强盗总是很清楚目标的油水和自己的斤两。
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="强盗"></span>
+<div class="cov-h"><b>强盗</b><i>Brigands</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c">在野性未驯的蛮荒疆域和道路间，除了普通的怪物怪物外，那些依靠劫掠路人和定居者为生的粗野强盗与凶险恶徒贪婪地盯着自己的猎场。无论是单身劫道的车匪路霸还是成群结队埋伏的山贼，这些靠放商路的血吃饭的家伙要比普通的无脑怪物更可怕——强盗总是很清楚目标的油水和自己的斤两。</div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 1/2 || [[恶棍(NPC)|恶棍]] || 人类 武者 2
 |-
-| [[恶棍(NPC)|恶棍]] || 1/2 || 人类 武者 2 || 类人生物 || 混乱中立
+| 6 || [[路霸（游戏主持人指南，CR 6）|路霸]] || 人类 战士 4/盗贼 3
 |-
-| [[路霸（游戏主持人指南，CR 6）|路霸]] || 6 || 人类 战士 4/盗贼 3 || 类人生物 || 混乱中立
-|-
-| [[强盗头子]] || 11 || 人类 战士 8/盗贼 4 || 类人生物 || 混乱中立
+| 11 || [[强盗头子]] || 人类 战士 8/盗贼 4
 |}
 </div>
-
-== 城镇警卫 ==
-
-无论是孤寂小镇中的孤胆治安官，还是大都市中受到良好训练的守备队的指挥官，城镇警卫们来回巡逻，制止犯罪，保护无辜者免受伤害。组织完善的城镇警卫里有擅长各种技术的人，从专业战斗人员到施法者，并且有类似于军衔那样的等级制度。虽然大多数时候卫兵都是非常受欢迎的盟友，但是狡诈的警卫也比比皆是，并且就算是最好的守卫也只会站在法律和公理一边。
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="城镇警卫"></span>
+<div class="cov-h"><b>城镇警卫</b><i>City Watch</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c">无论是孤寂小镇中的孤胆治安官，还是大都市中受到良好训练的守备队的指挥官，城镇警卫们来回巡逻，制止犯罪，保护无辜者免受伤害。组织完善的城镇警卫里有擅长各种技术的人，从专业战斗人员到施法者，并且有类似于军衔那样的等级制度。虽然大多数时候卫兵都是非常受欢迎的盟友，但是狡诈的警卫也比比皆是，并且就算是最好的守卫也只会站在法律和公理一边。</div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 1 || [[守卫（游戏主持人指南）|守卫]] || 人类 武者 3
 |-
-| [[守卫（游戏主持人指南）|守卫]] || 1 || 人类 武者 3 || 类人生物 || 守序中立
+| 3 || [[卫队军官]] || 人类 战士 4
 |-
-| [[卫队军官]] || 3 || 人类 战士 4 || 类人生物 || 守序中立
-|-
-| [[卫队司令]] || 6 || 人类 战士 7 || 类人生物 || 守序中立
+| 6 || [[卫队司令]] || 人类 战士 7
 |}
 </div>
-
-== 竞技场 ==
-
-不论是受雇前来表演的异国战士还是那些为了活命而被强迫战斗的老练囚犯，观众们的享乐都的严重威胁着这些竞技场的战斗演员。这些人可能扮演着多种角色，第一天的盟友可能就是第二天的敌人。在任何情况下，这些人都只为战斗而活并因他们的无情与技艺幸存下来，在竞技场的黄沙上、监狱的囚笼里、以及野蛮的战场中——或任何地方散播着血的气息。
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="竞技场"></span>
+<div class="cov-h"><b>竞技场</b><i>Coliseum</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c">不论是受雇前来表演的异国战士还是那些为了活命而被强迫战斗的老练囚犯，观众们的享乐都的严重威胁着这些竞技场的战斗演员。这些人可能扮演着多种角色，第一天的盟友可能就是第二天的敌人。在任何情况下，这些人都只为战斗而活并因他们的无情与技艺幸存下来，在竞技场的黄沙上、监狱的囚笼里、以及野蛮的战场中——或任何地方散播着血的气息。</div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 5 || [[角斗士(NPC)|角斗士]] || 人类 野蛮人 3/战士 3
 |-
-| [[角斗士(NPC)|角斗士]] || 5 || 人类 野蛮人 3/战士 3 || 类人生物 || 绝对中立
+| 6 || [[驯兽师(NPC)|驯兽师]] || 人类 游侠 7
 |-
-| [[驯兽师(NPC)|驯兽师]] || 6 || 人类 游侠 7 || 类人生物 || 绝对中立
-|-
-| [[冠军]] || 9 || 人类 野蛮人 5/战士 5 || 类人生物 || 绝对中立
+| 9 || [[冠军]] || 人类 野蛮人 5/战士 5
 |}
 </div>
-
-== 罪犯 I ==
-
-即使是在最值得骄傲的城市的小巷与平民窟中也常常可以看到最低级的犯罪者。他们从下水道与地下室的巢穴中窜出以劫掠那些粗心与弱小的人，竭尽所能地去弄到能够勉强维系他们贫穷而暴力的生活的财物。这些轻微的犯罪者常常组成帮派，或者在一个更有影响力的领导者带领下集体加入某个公会，变得更加大胆和危险以至于可以独当一面。
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="罪犯 I"></span>
+<div class="cov-h"><b>罪犯 I</b><i>Criminals I</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c">即使是在最值得骄傲的城市的小巷与平民窟中也常常可以看到最低级的犯罪者。他们从下水道与地下室的巢穴中窜出以劫掠那些粗心与弱小的人，竭尽所能地去弄到能够勉强维系他们贫穷而暴力的生活的财物。这些轻微的犯罪者常常组成帮派，或者在一个更有影响力的领导者带领下集体加入某个公会，变得更加大胆和危险以至于可以独当一面。</div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 1/2 || [[扒手（游戏主持人指南）|扒手]] || 人类 盗贼 1
 |-
-| [[扒手（游戏主持人指南）|扒手]] || 1/2 || 人类 盗贼 1 || 类人生物 || 绝对中立
+| 1 || [[路霸（游戏主持人指南，CR 1）|路霸]] || 人类 战士1/盗贼1
 |-
-| [[路霸（游戏主持人指南，CR 1）|路霸]] || 1 || 人类 战士1/盗贼1 || 类人生物 || 绝对中立
-|-
-| [[夜贼]] || 2 || 人类 盗贼3 || 类人生物 || 绝对中立
+| 2 || [[夜贼]] || 人类 盗贼3
 |}
 </div>
-
-== 罪犯 II ==
-
-这些犯罪者是所有非法企业的艺术家和策划者，他们从事不法交易，炫耀法律，并以他人的生命为自己的利益赌博。虽然并非总是彻头彻尾的邪恶，这些人物比起任何道德或法律更关心自己，他们拥有狡猾、意志或远见的力量来欺骗或避开法律的代理人。通常，组织较少或技术娴熟的犯罪分子为这些头目服务，但在某些情况下，真正的非法艺术大师更愿意单独工作。
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="罪犯 II"></span>
+<div class="cov-h"><b>罪犯 II</b><i>Criminals II</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c">这些犯罪者是所有非法企业的艺术家和策划者，他们从事不法交易，炫耀法律，并以他人的生命为自己的利益赌博。虽然并非总是彻头彻尾的邪恶，这些人物比起任何道德或法律更关心自己，他们拥有狡猾、意志或远见的力量来欺骗或避开法律的代理人。通常，组织较少或技术娴熟的犯罪分子为这些头目服务，但在某些情况下，真正的非法艺术大师更愿意单独工作。</div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 3 || [[奴隶贩子]] || 人类 战士2/游侠2
 |-
-| [[奴隶贩子]] || 3 || 人类 战士2/游侠2 || 类人生物 || 中立邪恶
+| 8 || [[杀手(NPC)|杀手]] || 人类 游侠5/刺客4
 |-
-| [[杀手(NPC)|杀手]] || 8 || 人类 游侠5/刺客4 || 类人生物 || 中立邪恶
-|-
-| [[盗贼会长]] || 10 || 人类 盗贼11 || 类人生物 || 绝对中立
+| 10 || [[盗贼会长]] || 人类 盗贼11
 |}
 </div>
-
-== 十字军 ==
-
-正义使命的勇士和直接服务于神的代理人，十字军追捕他们信仰的敌人无论敌人潜伏在何处。虽然神圣集团的仆人们可能会寻求邪教徒、女巫、邪恶法师和其他异教徒的各种方式--无论是正义的还是误导的--邪恶神灵的爪牙也可能追捕那些反对他们信仰的人。无论他们的关系如何，十字军都是由他们的信仰驱动的，并且可以证明他们是最忠诚的盟友或最狂热的敌人之一。
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="十字军"></span>
+<div class="cov-h"><b>十字军</b><i>Crusaders</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c">正义使命的勇士和直接服务于神的代理人，十字军追捕他们信仰的敌人无论敌人潜伏在何处。虽然神圣集团的仆人们可能会寻求邪教徒、女巫、邪恶法师和其他异教徒的各种方式--无论是正义的还是误导的--邪恶神灵的爪牙也可能追捕那些反对他们信仰的人。无论他们的关系如何，十字军都是由他们的信仰驱动的，并且可以证明他们是最忠诚的盟友或最狂热的敌人之一。</div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 1/3 || [[侍从(NPC)|侍从]] || 人类 贵族1
 |-
-| [[侍从(NPC)|侍从]] || 1/3 || 人类 贵族1 || 类人生物 || 绝对中立
+| 6 || [[圣战士]] || 人类 圣武士7
 |-
-| [[圣战士]] || 6 || 人类 圣武士7 || 类人生物 || 守序善良
-|-
-| [[圣徒]] || 11 || 人类 圣武士12 || 类人生物 || 守序善良
+| 11 || [[圣徒]] || 人类 圣武士12
 |}
 </div>
-
-== 地牢 ==
-
-虽然地牢经常浮现出致命的陷阱和潜伏的怪兽的印象，但它们首先作为限制罪犯和俘虏的地方。无论是被锁住和遗忘在邪恶领主的地下密牢，还是在戒备森严的牢房中服役，囚犯都必须获得独特的技能才能在监禁生涯中幸存。同样地，看守危险牢2房的守卫也获得了他们自己的专业技能，无论是对付鬼祟的俘虏，还是夺走最不合作的犯人所渴望的。
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="地牢"></span>
+<div class="cov-h"><b>地牢</b><i>Dungeon</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c">虽然地牢经常浮现出致命的陷阱和潜伏的怪兽的印象，但它们首先作为限制罪犯和俘虏的地方。无论是被锁住和遗忘在邪恶领主的地下密牢，还是在戒备森严的牢房中服役，囚犯都必须获得独特的技能才能在监禁生涯中幸存。同样地，看守危险牢2房的守卫也获得了他们自己的专业技能，无论是对付鬼祟的俘虏，还是夺走最不合作的犯人所渴望的。</div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 2 || [[囚犯]] || 人类专家4
 |-
-| [[囚犯]] || 2 || 人类专家4 || 类人生物 || 绝对中立
+| 3 || [[狱卒]] || 人类武者5
 |-
-| [[狱卒]] || 3 || 人类武者5 || 类人生物 || 绝对中立
-|-
-| [[刑讯官]] || 5 || 人类专家5/战士2 || 类人生物 || 中立邪恶
+| 5 || [[刑讯官]] || 人类专家5/战士2
 |}
 </div>
-
-== 雇佣兵 ==
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="艺人"></span>
+<div class="cov-h"><b>艺人</b><i>Entertainers</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c"></div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 1 || [[说书人(NPC)|说书人]] || 人类吟游诗人2
 |-
-| [[大篷车守卫]] || 1 || 人类战士2 || 类人生物 || 绝对中立
+| 5 || [[吟游乐手]] || 人类吟游诗人6
 |-
-| [[自由佣兵]] || 7 || 人类 战士 8 || 类人生物 || 绝对中立
-|-
-| [[赏金猎人(NPC)|赏金猎人]] || 11 || 人类游侠12 || 类人生物 || 绝对中立
+| 10 || [[明星吟游诗人]] || 人类吟游诗人11
 |}
 </div>
-
-== 军人 ==
-
-训练有素的士兵可能由于几乎任何可以想象的原因会拿起武器。无论是英雄王国抗击可怕军团的勇士们还是侵略邻国的阴暗国度的居民们，大量的军团为了执行他们的君主意志而诞生，无论其公正或不义。然而，这些士兵的真正力量不在于个人技能，而在于绝对的数量或巧妙地实施战术。职业战斗人员也可能在战场之外找到各种各样的角色，可以是守卫、掠夺者，甚至是冒险家。
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="武馆"></span>
+<div class="cov-h"><b>武馆</b><i>Fighting School</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c"></div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 1 || [[入门弟子]] || 人类武僧2
 |-
-| [[步兵]] || 1/3 || 人类 武者1 || 类人生物 || 绝对中立
+| 4 || [[战斗武僧]] || 人类武僧5
 |-
-| [[骑兵]] || 5 || — || 类人生物 || 绝对中立
-|-
-| [[将军]] || 10 || 人类 战士11 || 类人生物 || 绝对中立
+| 14 || [[宗师(NPC)|宗师]] || 人类武僧15
 |}
 </div>
-
-== 村民 ==
-
-生活在繁华城市的城墙上，或是富丽堂皇的宫殿的政治和地块之外，简单的镇民们努力工作，简单生活，依靠彼此在他们僻静的镇子中生存。他们是那些遥远边疆的先驱，乡村里的农家百姓，以及昏昏欲睡的小村庄的人们，大多数老百姓只在家人和邻居中间寻找安静的生活，对刺激的冒险和危险几乎不关心。这些乡民对陌生人的猜疑和对威胁的警惕保护着他们社区的传统，但愿意与那些带来黄金和更伟大事物的承诺的人做生意。
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="边疆"></span>
+<div class="cov-h"><b>边疆</b><i>Frontier</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c"></div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 3 || [[猎户]] || 人类游侠4
 |-
-| [[闲汉]] || 1/3 || 人类 平民1 || 类人生物 || 绝对中立
+| 6 || [[隐士（游戏主持人指南）|隐士]] || 人类德鲁伊7
 |-
-| [[农夫]] || 1/2 || 人类 平民1/专家1 || 类人生物 || 绝对中立
-|-
-| [[地方长官]] || 8 || 人类 望族3/专家7 || 类人生物 || 绝对中立
+| 7 || [[向导(NPC)|向导]] || 人类专家9
 |}
 </div>
-
-== 贵族 ==
-
-土地的领主和夫人，国家的统治者，以及著名的人物。作为拥有财富、影响力和他人的尊敬的人，贵族们高于平民。而他们与日常生活的距离，使得他们傲慢和超然，其他人是知晓普通人的困境的慈善家和英雄，并寻求分享他们的好运（给平民）。贵族的服饰和头衔由于国家不同而不同，一个国家的男爵（barons）和公爵（dukes）可能等同于帕夏（pashas 奥斯曼帝国的高级官员，相当于英国的勋爵）、殿下（denka，日语），或 大骑士（ritters 是比骑士大一级的骑士阶）。【希望有大神给出详细解释和更好的翻译 】
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="异端者"></span>
+<div class="cov-h"><b>异端者</b><i>Heretics</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c"></div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 2 || [[邪教徒（游戏主持人指南）|邪教徒]] || 人类牧师3
 |-
-| [[世家子弟]] || 2 || 人类 望族4 || 类人生物 || 绝对中立
+| 6 || [[咒法使]] || 人类咒法师7
 |-
-| [[骑士(NPC)|骑士]] || 7 || 人类 望族2/圣武士6 || 类人生物 || 守序善良
-|-
-| [[贵族]] || 8 || 人类 望族10 || 类人生物 || 绝对中立
+| 11 || [[教主(NPC)|教主]] || 人类牧师10/盗贼2
 |}
 </div>
-
-== 皇族 ==
-
-皇室家族被赋予以血、刀或神的命令来统治国家的权利，统治着许多幻想王国。在许多情况下，整个国家的成功和部署可以由统治者的个性和议程来总结，很少有事情能像他们的统治者的法令或死亡那样改变整个帝国的命运。无论是领导军队去打仗，被暴君挟持为人质，还是在摇摇欲坠的城堡里沉思，皇室成员经常煽动或结束最史诗般的任务，而且他们可以像其他任何人一样奖赏他们的勇士。
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="掠夺者"></span>
+<div class="cov-h"><b>掠夺者</b><i>Marauders</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c"></div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 5 || [[袭掠者]] || 人类野蛮人6
 |-
-| [[公主]] || 6 || 人类 望族8 || 类人生物 || 绝对中立
+| 7 || [[维京(NPC)|维京]] || 人类野蛮人2/战士6
 |-
-| [[女王]] || 10 || 人类 望族12 || 类人生物 || 绝对中立
-|-
-| [[国王]] || 14 || 人类 望族16 || 类人生物 || 绝对中立
+| 11 || [[海盗船长（游戏主持人指南）|海盗船长]] || 人类战士7/盗贼5
 |}
 </div>
-
-== 酒馆 ==
-
-在拥挤的人群中，嘈杂的说话声和杯子叮当作响的音乐声使当地公共住宅的主顾和业主们忙忙碌碌。无论是一个沉睡的村庄的旅店和小酒馆，一个阴暗的城市俱乐部，一个宴请领主的长屋，或是任何其他有理由庆祝或倒啤酒的地方，小酒馆的居民做的不仅仅是服务，他们接受一个社区所有最好的故事和流言蜚语，并亲切地倾听任何花钱续杯的人的忏悔。
-
-=== 女招待 Barmaid ===
-
-奖励 女招待可以免费为 PC 们送上一轮饮料，或者小声地说当地的闲话（在 PC 们的下一次收集该社区的信息的交涉检定中给与+2加值）
-
-女招待在世界各地的城市和城镇的旅馆和酒馆里作为女侍、舞女、苦役厨师提供服务。虽然通常是年轻女人，但有些女招待也可以是在家族企业工作的年长女主人。
-
-女招待也可以被用作农夫、渔夫或店主的妻子，或任何类型的仆人，无论是在旅馆或贵族庄园。改变一个女招待的专业技能可以创造任何类型的仆人需要。专业（妓女）创造了一个没有经验的妓女，或一个仅仅在妓院工作的女仆。
-
-虽然熟练使用临时武器，但改变一个女招待的专长可以创造一个具有其他有用技能的仆人。警觉或[[技能专攻]]（察觉）使得女招待善于偷听谈话，而在危险的下级夜总会工作的女仆可能携带隐藏的匕首，并具有精通徒手打击和[[武器娴熟]]专长。
-
-一个典型的小酒馆可能只有一个酒保和一对女招待（CR4），而一个大旅馆可能有半打女招待为酒保服务，还有一个街头混混充当保镖保护（CR6）。一个女招待通常被发现在一对农夫或船夫（CR2），或一个世家子弟（CR3）的陪伴下，或两个女招待可能服务于一对酒鬼、街头混混或浮浪人（CR4）。
-
-=== 酒鬼 Drunkard ===
-
-奖励 一个酒鬼可以被说服去制造一个响亮的、令人讨厌的干扰来使人分心，使得所有能看见和听见他的 NPC，在对抗隐匿或巧手技能的察觉检定上承受-2减值，持续1分钟。
-
-在每个城镇的几乎每一个酒馆里都可以找到酒鬼，就像酒吧老板和侍应他们的女招待一样无处不在。酒鬼是经常去酒吧浪费他们微薄的收入浸在酒里的傻瓜，而且经常变得暴躁和好战，尤其是对那些来自他家所在社区之外的人。这些人暴跳起来发起或加入一场酒吧斗殴，只要他们没有在角落里昏倒，沉睡在最近的狂欢中。
-
-酒鬼可能被用来当作上岸休假的普通水兵，第一次进城不胜酒力的少年，或醉酒且声名狼藉的下岗守卫。一个酒鬼甚至可以被用作一个品尝自己的商品有点多的坏脾气的酒吧老板。
-
-一个酒鬼可能会被单独发现，或一对倒霉的酒鬼可能会试图抢劫单独的浮浪人为他们下一杯酒付钱（CR3）。一桌4个酒鬼可能坐在酒馆里（CR5），可能再加上一个酒保（CR6），也可能在听一个猎户（CR6），或歌手（CR7）讲故事。一对酒鬼也可能被发现在街上与两个水手（CR4），两个休假的大篷车守卫（CR5），或一对邋遢的妓女（CR5）一起痛饮，或试图从一个捐客那里购买一些非法物质（CR5）。
-
-=== 酒保 Barkeep ===
-
-奖励 酒保可以为 PC 们安排一周的免费食宿。他也可以与 PC 们分享当地的流言和风俗，使他们在1天内在他的社区进行交涉检定和察言观色检定上获得+2环境加值。
-
-一个酒保是一个酒店、酒吧或酒馆的老板，通常有一个附属的小旅馆。虽然有些人像[[魔宠(怪物)|黄鼠狼]]一样狡猾和不友好，但大多数都是爱唠叨的说客，他们想用一个故事或笑话来招待他们的顾客，让他们开心和喝酒。在来自世界各地的顾客拜访时，大多数的酒吧只会一点点其他语言与来自遥远国家的外国人交流。
-
-酒保习惯了在他们产业里的麻烦，因为酒常常会带给他们的顾客最坏的结果，而且大多数酒保习惯于蔑视和恐吓醉鬼和恶霸。有时候，当言语失效时，一个好的酒保会把一件武器放在酒吧下面，而且他并不害怕去使用它。
-
-把酒保的专业技能改为专业（客栈）可以创造一个客栈老板，可能是用交涉而非恐吓，他的表演技能改为其他专业技能，比如专业（厨师）。
-
-平均一个酒保有4个女招待作为员工，两个守卫或街头混混作为保镖工作（CR6）。一个酒保也可能被发现用1品脱酒与一个店主（CR4），或守卫队长（CR5）交换故事。
-
-== 先知 ==
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="雇佣兵"></span>
+<div class="cov-h"><b>雇佣兵</b><i>Mercenaries</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c"></div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 1 || [[大篷车守卫]] || 人类战士2
 |-
-| [[末日预言者（游戏主持人指南）|末日预言者]] || 1 || 人类导师3 || 类人生物 || 绝对中立
+| 7 || [[自由佣兵]] || 人类 战士 8
 |-
-| [[灵媒师(NPC)|灵媒师]] || 4 || 人类牧师5 || 类人生物 || 绝对中立
-|-
-| [[占卜师(NPC)|占卜师]] || 5 || 人类吟游诗人3/术士3 || 类人生物 || 混乱中立
+| 11 || [[赏金猎人(NPC)|赏金猎人]] || 人类游侠12
 |}
 </div>
-
-== 商人 ==
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="商人"></span>
+<div class="cov-h"><b>商人</b><i>Merchants</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c"></div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 1 || [[店主（游戏主持人指南）|店主]] || 人类专家3
 |-
-| [[店主（游戏主持人指南）|店主]] || 1 || 人类专家3 || 类人生物 || 绝对中立
+| 5 || [[旅行商人]] || 人类专家7
 |-
-| [[旅行商人]] || 5 || 人类专家7 || 类人生物 || 绝对中立
-|-
-| [[商业亲王]] || 9 || 人类专家4/盗贼6 || 类人生物 || 绝对中立
+| 9 || [[商业亲王]] || 人类专家4/盗贼6
 |}
 </div>
-
-== 学者 ==
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="军人"></span>
+<div class="cov-h"><b>军人</b><i>Military</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c">训练有素的士兵可能由于几乎任何可以想象的原因会拿起武器。无论是英雄王国抗击可怕军团的勇士们还是侵略邻国的阴暗国度的居民们，大量的军团为了执行他们的君主意志而诞生，无论其公正或不义。然而，这些士兵的真正力量不在于个人技能，而在于绝对的数量或巧妙地实施战术。职业战斗人员也可能在战场之外找到各种各样的角色，可以是守卫、掠夺者，甚至是冒险家。</div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 1/3 || [[步兵]] || 人类 武者1
 |-
-| [[小巫师]] || 4 || 人类平民2/法师3 || 类人生物 || 绝对中立
+| 5 || [[骑兵]] || —
 |-
-| [[考古学家(NPC)|考古学家]] || 6 || 人类盗贼7 || 类人生物 || 绝对中立
-|-
-| [[贤者]] || 11 || 人类防护师5/专家7 || 类人生物 || 绝对中立
+| 10 || [[将军]] || 人类 战士11
 |}
 </div>
-
-== 异端者 ==
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="贵族"></span>
+<div class="cov-h"><b>贵族</b><i>Nobles</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c">土地的领主和夫人，国家的统治者，以及著名的人物。作为拥有财富、影响力和他人的尊敬的人，贵族们高于平民。而他们与日常生活的距离，使得他们傲慢和超然，其他人是知晓普通人的困境的慈善家和英雄，并寻求分享他们的好运（给平民）。贵族的服饰和头衔由于国家不同而不同，一个国家的男爵（barons）和公爵（dukes）可能等同于帕夏（pashas 奥斯曼帝国的高级官员，相当于英国的勋爵）、殿下（denka，日语），或 大骑士（ritters 是比骑士大一级的骑士阶）。【希望有大神给出详细解释和更好的翻译 】</div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 2 || [[世家子弟]] || 人类 望族4
 |-
-| [[邪教徒（游戏主持人指南）|邪教徒]] || 2 || 人类牧师3 || 类人生物 || 中立邪恶
+| 7 || [[骑士(NPC)|骑士]] || 人类 望族2/圣武士6
 |-
-| [[咒法使]] || 6 || 人类咒法师7 || 类人生物 || 绝对中立
-|-
-| [[教主(NPC)|教主]] || 11 || 人类牧师10/盗贼2 || 类人生物 || 中立邪恶
+| 8 || [[贵族]] || 人类 望族10
 |}
 </div>
-
-== 掠夺者 ==
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="旅人"></span>
+<div class="cov-h"><b>旅人</b><i>Road</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c"></div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 1 || [[浮浪人]] || 人类平民2/武者1
 |-
-| [[袭掠者]] || 5 || 人类野蛮人6 || 类人生物 || 混乱中立
+| 2 || [[流浪者(NPC)|流浪者]] || 人类吟游诗人1/盗贼2
 |-
-| [[维京(NPC)|维京]] || 7 || 人类野蛮人2/战士6 || 类人生物 || 混乱中立
-|-
-| [[海盗船长（游戏主持人指南）|海盗船长]] || 11 || 人类战士7/盗贼5 || 类人生物 || 绝对中立
+| 3 || [[朝圣者]] || 人类平民5
 |}
 </div>
-
-== 旅人 ==
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="皇族"></span>
+<div class="cov-h"><b>皇族</b><i>Royalty</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c">皇室家族被赋予以血、刀或神的命令来统治国家的权利，统治着许多幻想王国。在许多情况下，整个国家的成功和部署可以由统治者的个性和议程来总结，很少有事情能像他们的统治者的法令或死亡那样改变整个帝国的命运。无论是领导军队去打仗，被暴君挟持为人质，还是在摇摇欲坠的城堡里沉思，皇室成员经常煽动或结束最史诗般的任务，而且他们可以像其他任何人一样奖赏他们的勇士。</div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 6 || [[公主]] || 人类 望族8
 |-
-| [[浮浪人]] || 1 || 人类平民2/武者1 || 类人生物 || 绝对中立
+| 10 || [[女王]] || 人类 望族12
 |-
-| [[流浪者(NPC)|流浪者]] || 2 || 人类吟游诗人1/盗贼2 || 类人生物 || 绝对中立
-|-
-| [[朝圣者]] || 3 || 人类平民5 || 类人生物 || 中立善良
+| 14 || [[国王]] || 人类 望族16
 |}
 </div>
-
-== 武馆 ==
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="水手"></span>
+<div class="cov-h"><b>水手</b><i>Sailors</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c"></div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 1/2 || [[水手（游戏主持人指南）|水手]] || 人类专家1/武者1
 |-
-| [[入门弟子]] || 1 || 人类武僧2 || 类人生物 || 守序中立
+| 8 || [[大副]] || 人类专家4/战士5
 |-
-| [[战斗武僧]] || 4 || 人类武僧5 || 类人生物 || 守序中立
-|-
-| [[宗师(NPC)|宗师]] || 14 || 人类武僧15 || 类人生物 || 守序中立
+| 11 || [[船长]] || 人类专家3/战士9
 |}
 </div>
-
-== 水手 ==
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="学者"></span>
+<div class="cov-h"><b>学者</b><i>Scholars</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c"></div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 4 || [[小巫师]] || 人类平民2/法师3
 |-
-| [[水手（游戏主持人指南）|水手]] || 1/2 || 人类专家1/武者1 || 类人生物 || 绝对中立
+| 6 || [[考古学家(NPC)|考古学家]] || 人类盗贼7
 |-
-| [[大副]] || 8 || 人类专家4/战士5 || 类人生物 || 绝对中立
-|-
-| [[船长]] || 11 || 人类专家3/战士9 || 类人生物 || 绝对中立
+| 11 || [[贤者]] || 人类防护师5/专家7
 |}
 </div>
-
-== 神殿 ==
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="先知"></span>
+<div class="cov-h"><b>先知</b><i>Seers</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c"></div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 1 || [[末日预言者（游戏主持人指南）|末日预言者]] || 人类导师3
 |-
-| [[侍祭（游戏主持人指南）|侍祭]] || 1/2 || 人类牧师1 || 类人生物 || 守序中立
+| 4 || [[灵媒师(NPC)|灵媒师]] || 人类牧师5
 |-
-| [[祭司]] || 8 || 人类牧师9 || 类人生物 || 守序中立
-|-
-| [[大祭司]] || 12 || 人类牧师13 || 类人生物 || 守序中立
+| 5 || [[占卜师(NPC)|占卜师]] || 人类吟游诗人3/术士3
 |}
 </div>
-
-== 艺人 ==
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="街头"></span>
+<div class="cov-h"><b>街头</b><i>Street</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c"></div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 1 || [[乞丐（游戏主持人指南）|乞丐]] || 人类平民1/盗贼1
 |-
-| [[说书人(NPC)|说书人]] || 1 || 人类吟游诗人2 || 类人生物 || 绝对中立
+| 1 || [[妓女]] || 人类专家1/盗贼1
 |-
-| [[吟游乐手]] || 5 || 人类吟游诗人6 || 类人生物 || 绝对中立
-|-
-| [[明星吟游诗人]] || 10 || 人类吟游诗人11 || 类人生物 || 绝对中立
+| 3 || [[毒贩]] || 人类专家1/盗贼3
 |}
 </div>
-
-== 街头 ==
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="酒馆"></span>
+<div class="cov-h"><b>酒馆</b><i>Tavern</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c">在拥挤的人群中，嘈杂的说话声和杯子叮当作响的音乐声使当地公共住宅的主顾和业主们忙忙碌碌。无论是一个沉睡的村庄的旅店和小酒馆，一个阴暗的城市俱乐部，一个宴请领主的长屋，或是任何其他有理由庆祝或倒啤酒的地方，小酒馆的居民做的不仅仅是服务，他们接受一个社区所有最好的故事和流言蜚语，并亲切地倾听任何花钱续杯的人的忏悔。</div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 1/2 || [[女招待（游戏主持人指南）|女招待]] || 人类平民2
 |-
-| [[乞丐（游戏主持人指南）|乞丐]] || 1 || 人类平民1/盗贼1 || 类人生物 || 绝对中立
+| 1 || [[酒鬼]] || 人类平民1/武者2
 |-
-| [[妓女]] || 1 || 人类专家1/盗贼1 || 类人生物 || 绝对中立
-|-
-| [[毒贩]] || 3 || 人类专家1/盗贼3 || 类人生物 || 绝对中立
+| 3 || [[酒保]] || 人类专家4/武者1
 |}
 </div>
-
-== 边疆 ==
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="神殿"></span>
+<div class="cov-h"><b>神殿</b><i>Temple</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c"></div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 1/2 || [[侍祭（游戏主持人指南）|侍祭]] || 人类牧师1
 |-
-| [[猎户]] || 3 || 人类游侠4 || 类人生物 || 绝对中立
+| 8 || [[祭司]] || 人类牧师9
 |-
-| [[隐士（游戏主持人指南）|隐士]] || 6 || 人类德鲁伊7 || 类人生物 || 绝对中立
-|-
-| [[向导(NPC)|向导]] || 7 || 人类专家9 || 类人生物 || 绝对中立
+| 12 || [[大祭司]] || 人类牧师13
 |}
 </div>
-
-== 部族 ==
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
+<div class="cov-card" style="--cc:#7a5c3e"><span id="部族"></span>
+<div class="cov-h"><b>部族</b><i>Tribe</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c"></div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
 |-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
+| 1 || [[食人者]] || 人类野蛮人2
 |-
-| [[食人者]] || 1 || 人类野蛮人2 || 类人生物 || 混乱中立
+| 5 || [[萨满（游戏主持人指南）|萨满]] || 人类导师7
 |-
-| [[萨满（游戏主持人指南）|萨满]] || 5 || 人类导师7 || 类人生物 || 绝对中立
-|-
-| [[酋长]] || 10 || 人类武者12 || 类人生物 || 绝对中立
+| 10 || [[酋长]] || 人类武者12
 |}
 </div>
+<div class="cov-card" style="--cc:#7a5c3e"><span id="村民"></span>
+<div class="cov-h"><b>村民</b><i>Villagers</i></div>
+<div style="font-size:.9em;line-height:1.7;color:#4f483c">生活在繁华城市的城墙上，或是富丽堂皇的宫殿的政治和地块之外，简单的镇民们努力工作，简单生活，依靠彼此在他们僻静的镇子中生存。他们是那些遥远边疆的先驱，乡村里的农家百姓，以及昏昏欲睡的小村庄的人们，大多数老百姓只在家人和邻居中间寻找安静的生活，对刺激的冒险和危险几乎不关心。这些乡民对陌生人的猜疑和对威胁的警惕保护着他们社区的传统，但愿意与那些带来黄金和更伟大事物的承诺的人做生意。</div>
+{| class="wikitable" style="width:100%;margin:.2em 0 0;font-size:.9em"
+! CR !! NPC !! 职业
+|-
+| 1/3 || [[闲汉]] || 人类 平民1
+|-
+| 1/2 || [[农夫]] || 人类 平民1/专家1
+|-
+| 8 || [[地方长官]] || 人类 望族3/专家7
+|}
+</div>
+</div>
+</div>
+<div id="npcg-cr" class="tab-pane">
+{| class="wikitable sortable" style="font-size:.92em"
+! NPC !! CR !! 分组 !! 职业 !! 类型 !! 阵营
+|-
+| [[步兵]] || data-sort-value="0.333" | 1/3 || [[#军人|军人]] || 人类 武者1 || 类人生物 || 绝对中立
+|-
+| [[侍从(NPC)|侍从]] || data-sort-value="0.333" | 1/3 || [[#十字军|十字军]] || 人类 贵族1 || 类人生物 || 绝对中立
+|-
+| [[闲汉]] || data-sort-value="0.333" | 1/3 || [[#村民|村民]] || 人类 平民1 || 类人生物 || 绝对中立
+|-
+| [[恶棍(NPC)|恶棍]] || data-sort-value="0.5" | 1/2 || [[#强盗|强盗]] || 人类 武者 2 || 类人生物 || 混乱中立
+|-
+| [[农夫]] || data-sort-value="0.5" | 1/2 || [[#村民|村民]] || 人类 平民1/专家1 || 类人生物 || 绝对中立
+|-
+| [[水手（游戏主持人指南）|水手]] || data-sort-value="0.5" | 1/2 || [[#水手|水手]] || 人类专家1/武者1 || 类人生物 || 绝对中立
+|-
+| [[侍祭（游戏主持人指南）|侍祭]] || data-sort-value="0.5" | 1/2 || [[#神殿|神殿]] || 人类牧师1 || 类人生物 || 守序中立
+|-
+| [[扒手（游戏主持人指南）|扒手]] || data-sort-value="0.5" | 1/2 || [[#罪犯 I|罪犯 I]] || 人类 盗贼 1 || 类人生物 || 绝对中立
+|-
+| [[女招待（游戏主持人指南）|女招待]] || data-sort-value="0.5" | 1/2 || [[#酒馆|酒馆]] || 人类平民2 || 类人生物 || 绝对中立
+|-
+| [[末日预言者（游戏主持人指南）|末日预言者]] || data-sort-value="1" | 1 || [[#先知|先知]] || 人类导师3 || 类人生物 || 绝对中立
+|-
+| [[店主（游戏主持人指南）|店主]] || data-sort-value="1" | 1 || [[#商人|商人]] || 人类专家3 || 类人生物 || 绝对中立
+|-
+| [[守卫（游戏主持人指南）|守卫]] || data-sort-value="1" | 1 || [[#城镇警卫|城镇警卫]] || 人类 武者 3 || 类人生物 || 守序中立
+|-
+| [[浮浪人]] || data-sort-value="1" | 1 || [[#旅人|旅人]] || 人类平民2/武者1 || 类人生物 || 绝对中立
+|-
+| [[入门弟子]] || data-sort-value="1" | 1 || [[#武馆|武馆]] || 人类武僧2 || 类人生物 || 守序中立
+|-
+| [[路霸（游戏主持人指南，CR 1）|路霸]] || data-sort-value="1" | 1 || [[#罪犯 I|罪犯 I]] || 人类 战士1/盗贼1 || 类人生物 || 绝对中立
+|-
+| [[说书人(NPC)|说书人]] || data-sort-value="1" | 1 || [[#艺人|艺人]] || 人类吟游诗人2 || 类人生物 || 绝对中立
+|-
+| [[乞丐（游戏主持人指南）|乞丐]] || data-sort-value="1" | 1 || [[#街头|街头]] || 人类平民1/盗贼1 || 类人生物 || 绝对中立
+|-
+| [[妓女]] || data-sort-value="1" | 1 || [[#街头|街头]] || 人类专家1/盗贼1 || 类人生物 || 绝对中立
+|-
+| [[食人者]] || data-sort-value="1" | 1 || [[#部族|部族]] || 人类野蛮人2 || 类人生物 || 混乱中立
+|-
+| [[酒鬼]] || data-sort-value="1" | 1 || [[#酒馆|酒馆]] || 人类平民1/武者2 || 类人生物 || 绝对中立
+|-
+| [[大篷车守卫]] || data-sort-value="1" | 1 || [[#雇佣兵|雇佣兵]] || 人类战士2 || 类人生物 || 绝对中立
+|-
+| [[囚犯]] || data-sort-value="2" | 2 || [[#地牢|地牢]] || 人类专家4 || 类人生物 || 绝对中立
+|-
+| [[邪教徒（游戏主持人指南）|邪教徒]] || data-sort-value="2" | 2 || [[#异端者|异端者]] || 人类牧师3 || 类人生物 || 中立邪恶
+|-
+| [[流浪者(NPC)|流浪者]] || data-sort-value="2" | 2 || [[#旅人|旅人]] || 人类吟游诗人1/盗贼2 || 类人生物 || 绝对中立
+|-
+| [[夜贼]] || data-sort-value="2" | 2 || [[#罪犯 I|罪犯 I]] || 人类 盗贼3 || 类人生物 || 绝对中立
+|-
+| [[世家子弟]] || data-sort-value="2" | 2 || [[#贵族|贵族]] || 人类 望族4 || 类人生物 || 绝对中立
+|-
+| [[狱卒]] || data-sort-value="3" | 3 || [[#地牢|地牢]] || 人类武者5 || 类人生物 || 绝对中立
+|-
+| [[卫队军官]] || data-sort-value="3" | 3 || [[#城镇警卫|城镇警卫]] || 人类 战士 4 || 类人生物 || 守序中立
+|-
+| [[朝圣者]] || data-sort-value="3" | 3 || [[#旅人|旅人]] || 人类平民5 || 类人生物 || 中立善良
+|-
+| [[奴隶贩子]] || data-sort-value="3" | 3 || [[#罪犯 II|罪犯 II]] || 人类 战士2/游侠2 || 类人生物 || 中立邪恶
+|-
+| [[毒贩]] || data-sort-value="3" | 3 || [[#街头|街头]] || 人类专家1/盗贼3 || 类人生物 || 绝对中立
+|-
+| [[猎户]] || data-sort-value="3" | 3 || [[#边疆|边疆]] || 人类游侠4 || 类人生物 || 绝对中立
+|-
+| [[酒保]] || data-sort-value="3" | 3 || [[#酒馆|酒馆]] || 人类专家4/武者1 || 类人生物 || 绝对中立
+|-
+| [[灵媒师(NPC)|灵媒师]] || data-sort-value="4" | 4 || [[#先知|先知]] || 人类牧师5 || 类人生物 || 绝对中立
+|-
+| [[小巫师]] || data-sort-value="4" | 4 || [[#学者|学者]] || 人类平民2/法师3 || 类人生物 || 绝对中立
+|-
+| [[战斗武僧]] || data-sort-value="4" | 4 || [[#武馆|武馆]] || 人类武僧5 || 类人生物 || 守序中立
+|-
+| [[占卜师(NPC)|占卜师]] || data-sort-value="5" | 5 || [[#先知|先知]] || 人类吟游诗人3/术士3 || 类人生物 || 混乱中立
+|-
+| [[怪物猎人]] || data-sort-value="5" | 5 || [[#冒险者|冒险者]] || 人类 游侠 6 || 类人生物 || 绝对中立
+|-
+| [[战斗法师]] || data-sort-value="5" | 5 || [[#冒险者|冒险者]] || 人类 塑能师 6 || 类人生物 || 绝对中立
+|-
+| [[盗墓者]] || data-sort-value="5" | 5 || [[#冒险者|冒险者]] || 人类 盗贼 6 || 类人生物 || 绝对中立
+|-
+| [[骑兵]] || data-sort-value="5" | 5 || [[#军人|军人]] || — || 类人生物 || 绝对中立
+|-
+| [[旅行商人]] || data-sort-value="5" | 5 || [[#商人|商人]] || 人类专家7 || 类人生物 || 绝对中立
+|-
+| [[刑讯官]] || data-sort-value="5" | 5 || [[#地牢|地牢]] || 人类专家5/战士2 || 类人生物 || 中立邪恶
+|-
+| [[袭掠者]] || data-sort-value="5" | 5 || [[#掠夺者|掠夺者]] || 人类野蛮人6 || 类人生物 || 混乱中立
+|-
+| [[角斗士(NPC)|角斗士]] || data-sort-value="5" | 5 || [[#竞技场|竞技场]] || 人类 野蛮人 3/战士 3 || 类人生物 || 绝对中立
+|-
+| [[吟游乐手]] || data-sort-value="5" | 5 || [[#艺人|艺人]] || 人类吟游诗人6 || 类人生物 || 绝对中立
+|-
+| [[萨满（游戏主持人指南）|萨满]] || data-sort-value="5" | 5 || [[#部族|部族]] || 人类导师7 || 类人生物 || 绝对中立
+|-
+| [[圣战士]] || data-sort-value="6" | 6 || [[#十字军|十字军]] || 人类 圣武士7 || 类人生物 || 守序善良
+|-
+| [[卫队司令]] || data-sort-value="6" | 6 || [[#城镇警卫|城镇警卫]] || 人类 战士 7 || 类人生物 || 守序中立
+|-
+| [[考古学家(NPC)|考古学家]] || data-sort-value="6" | 6 || [[#学者|学者]] || 人类盗贼7 || 类人生物 || 绝对中立
+|-
+| [[咒法使]] || data-sort-value="6" | 6 || [[#异端者|异端者]] || 人类咒法师7 || 类人生物 || 绝对中立
+|-
+| [[路霸（游戏主持人指南，CR 6）|路霸]] || data-sort-value="6" | 6 || [[#强盗|强盗]] || 人类 战士 4/盗贼 3 || 类人生物 || 混乱中立
+|-
+| [[公主]] || data-sort-value="6" | 6 || [[#皇族|皇族]] || 人类 望族8 || 类人生物 || 绝对中立
+|-
+| [[驯兽师(NPC)|驯兽师]] || data-sort-value="6" | 6 || [[#竞技场|竞技场]] || 人类 游侠 7 || 类人生物 || 绝对中立
+|-
+| [[隐士（游戏主持人指南）|隐士]] || data-sort-value="6" | 6 || [[#边疆|边疆]] || 人类德鲁伊7 || 类人生物 || 绝对中立
+|-
+| [[维京(NPC)|维京]] || data-sort-value="7" | 7 || [[#掠夺者|掠夺者]] || 人类野蛮人2/战士6 || 类人生物 || 混乱中立
+|-
+| [[骑士(NPC)|骑士]] || data-sort-value="7" | 7 || [[#贵族|贵族]] || 人类 望族2/圣武士6 || 类人生物 || 守序善良
+|-
+| [[向导(NPC)|向导]] || data-sort-value="7" | 7 || [[#边疆|边疆]] || 人类专家9 || 类人生物 || 绝对中立
+|-
+| [[自由佣兵]] || data-sort-value="7" | 7 || [[#雇佣兵|雇佣兵]] || 人类 战士 8 || 类人生物 || 绝对中立
+|-
+| [[地方长官]] || data-sort-value="8" | 8 || [[#村民|村民]] || 人类 望族3/专家7 || 类人生物 || 绝对中立
+|-
+| [[大副]] || data-sort-value="8" | 8 || [[#水手|水手]] || 人类专家4/战士5 || 类人生物 || 绝对中立
+|-
+| [[祭司]] || data-sort-value="8" | 8 || [[#神殿|神殿]] || 人类牧师9 || 类人生物 || 守序中立
+|-
+| [[杀手(NPC)|杀手]] || data-sort-value="8" | 8 || [[#罪犯 II|罪犯 II]] || 人类 游侠5/刺客4 || 类人生物 || 中立邪恶
+|-
+| [[贵族]] || data-sort-value="8" | 8 || [[#贵族|贵族]] || 人类 望族10 || 类人生物 || 绝对中立
+|-
+| [[商业亲王]] || data-sort-value="9" | 9 || [[#商人|商人]] || 人类专家4/盗贼6 || 类人生物 || 绝对中立
+|-
+| [[冠军]] || data-sort-value="9" | 9 || [[#竞技场|竞技场]] || 人类 野蛮人 5/战士 5 || 类人生物 || 绝对中立
+|-
+| [[将军]] || data-sort-value="10" | 10 || [[#军人|军人]] || 人类 战士11 || 类人生物 || 绝对中立
+|-
+| [[女王]] || data-sort-value="10" | 10 || [[#皇族|皇族]] || 人类 望族12 || 类人生物 || 绝对中立
+|-
+| [[盗贼会长]] || data-sort-value="10" | 10 || [[#罪犯 II|罪犯 II]] || 人类 盗贼11 || 类人生物 || 绝对中立
+|-
+| [[明星吟游诗人]] || data-sort-value="10" | 10 || [[#艺人|艺人]] || 人类吟游诗人11 || 类人生物 || 绝对中立
+|-
+| [[酋长]] || data-sort-value="10" | 10 || [[#部族|部族]] || 人类武者12 || 类人生物 || 绝对中立
+|-
+| [[圣徒]] || data-sort-value="11" | 11 || [[#十字军|十字军]] || 人类 圣武士12 || 类人生物 || 守序善良
+|-
+| [[贤者]] || data-sort-value="11" | 11 || [[#学者|学者]] || 人类防护师5/专家7 || 类人生物 || 绝对中立
+|-
+| [[教主(NPC)|教主]] || data-sort-value="11" | 11 || [[#异端者|异端者]] || 人类牧师10/盗贼2 || 类人生物 || 中立邪恶
+|-
+| [[强盗头子]] || data-sort-value="11" | 11 || [[#强盗|强盗]] || 人类 战士 8/盗贼 4 || 类人生物 || 混乱中立
+|-
+| [[海盗船长（游戏主持人指南）|海盗船长]] || data-sort-value="11" | 11 || [[#掠夺者|掠夺者]] || 人类战士7/盗贼5 || 类人生物 || 绝对中立
+|-
+| [[船长]] || data-sort-value="11" | 11 || [[#水手|水手]] || 人类专家3/战士9 || 类人生物 || 绝对中立
+|-
+| [[赏金猎人(NPC)|赏金猎人]] || data-sort-value="11" | 11 || [[#雇佣兵|雇佣兵]] || 人类游侠12 || 类人生物 || 绝对中立
+|-
+| [[大祭司]] || data-sort-value="12" | 12 || [[#神殿|神殿]] || 人类牧师13 || 类人生物 || 守序中立
+|-
+| [[宗师(NPC)|宗师]] || data-sort-value="14" | 14 || [[#武馆|武馆]] || 人类武僧15 || 类人生物 || 守序中立
+|-
+| [[国王]] || data-sort-value="14" | 14 || [[#皇族|皇族]] || 人类 望族16 || 类人生物 || 绝对中立
+|}
+</div></div>
 
 {{条目页脚|速查=NPC速查|分类=NPC汇总}}
 
 本页译自《[[游戏主持人指南]]》的怪物图鉴 CHM。
 
 [[分类:NPC汇总]]
-
-<div class="monster-table-wrap">
-{| class="wikitable sortable filterable"
-|-
-! class="filterable-head" | NPC !! class="filterable-head" | CR !! class="filterable-head" | 职业 !! class="filterable-head" | 类型 !! class="filterable-head" | 阵营
-|-
-| [[女招待（游戏主持人指南）|女招待]] || 1/2 || 人类平民2 || 类人生物 || 绝对中立
-|-
-| [[酒鬼]] || 1 || 人类平民1/武者2 || 类人生物 || 绝对中立
-|-
-| [[酒保]] || 3 || 人类专家4/武者1 || 类人生物 || 绝对中立
-|}
-</div>

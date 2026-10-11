@@ -41,7 +41,7 @@
 |organization=单独
 |treasure=三倍
 |special_abilities={{怪物能力|沙之干渴|Su|蓝龙可以随意施展造水术（施法者等级等于其 HD）。或者，它可以毁灭 10 尺爆发范围内的等量的液体。无主的液体会立刻分解为沙子。生物所携带的液态魔法物品（如药剂）和一般物品必须通过一个意志豁免检定，否则就会被毁。豁免 DC 基于魅力。}}
-{{怪物能力|闪电灵光|Su|成年蓝龙被闪电的灵光所环绕。在龙的行动回合开始时，5 尺内的生物受到 1d6 点闪电伤害。老年龙的灵光增加至 10 尺，古龙的伤害值增至 2d6。}}
+{{怪物能力|闪电灵氲|Su|成年蓝龙被闪电的灵氲所环绕。在龙的行动回合开始时，5 尺内的生物受到 1d6 点闪电伤害。老年龙的灵氲增加至 10 尺，古龙的伤害值增至 2d6。}}
 {{怪物能力|幻像|Su|老年开始，蓝龙可以让自己同时出现在两个地方，这是一个自由动作，每日持续轮数等于其生命骰数。此能力如同投影术 project image，但龙可以通过幻象使用喷吐武器。}}
 {{怪物能力|沙暴|Su|以一个标准动作，太古蓝龙可以创造一次沙暴，以自己为中心半径 1200 尺。除龙自身以外的所有风暴内的生物在正常沙暴减值（参见 Pathfinder RPG 核心规则）的基础上每轮额外受到 2d6 点伤害。沙暴持续 1 小时，但龙可以用一个自由动作解除。}}
 {{怪物能力|模仿声音|Ex|幼龙及以上的蓝龙随时可以模仿它所听过的任何声音，这需要进行一个唬骗检定以对抗聆听者的察言观色检定。}}
@@ -151,7 +151,7 @@
 * 天生护甲 +5；喷吐武器 线形，2d8 闪电
 * 力量 13，敏捷 14，体质 13，智力 10，感知 11，魅力 10
 
-<div class="monster-table-wrap"><table class="wikitable"><tr><th>年龄层</th><th>特殊能力</th><th>施法者等级</th></tr><tr><td>雏龙 Wyrmling</td><td>沙之干渴，电击免疫</td><td>–</td></tr><tr><td>幼龙 Very young</td><td>模仿声音</td><td>–</td></tr><tr><td>少年 Young</td><td>[[幻音术]]</td><td>–</td></tr><tr><td>青少年 Juvenile</td><td>凶威，弱效幻影</td><td>1 级</td></tr><tr><td>青年 Young adult</td><td>DR 5/魔法，法术抗力</td><td>3 级</td></tr><tr><td>成年 Adult</td><td>闪电灵光，[[腹语术]]</td><td>5 级</td></tr><tr><td>壮年 Mature adult</td><td>DR 10/魔法</td><td>7 级</td></tr><tr><td>老年 Old</td><td>幻像，幻景</td><td>9 级</td></tr><tr><td>极老 Very old</td><td>DR 15/魔法</td><td>11 级</td></tr><tr><td>古龙 Ancient</td><td>风暴之息</td><td>13 级</td></tr><tr><td>上古龙 Wyrm</td><td>DR 20/魔法</td><td>15 级</td></tr><tr><td>太古龙 Great wyrm</td><td>沙暴，海市蜃楼</td><td>17 级</td></tr></table></div>
+<div class="monster-table-wrap"><table class="wikitable"><tr><th>年龄层</th><th>特殊能力</th><th>施法者等级</th></tr><tr><td>雏龙 Wyrmling</td><td>沙之干渴，电击免疫</td><td>–</td></tr><tr><td>幼龙 Very young</td><td>模仿声音</td><td>–</td></tr><tr><td>少年 Young</td><td>[[幻音术]]</td><td>–</td></tr><tr><td>青少年 Juvenile</td><td>凶威，弱效幻影</td><td>1 级</td></tr><tr><td>青年 Young adult</td><td>DR 5/魔法，法术抗力</td><td>3 级</td></tr><tr><td>成年 Adult</td><td>闪电灵氲，[[腹语术]]</td><td>5 级</td></tr><tr><td>壮年 Mature adult</td><td>DR 10/魔法</td><td>7 级</td></tr><tr><td>老年 Old</td><td>幻像，幻景</td><td>9 级</td></tr><tr><td>极老 Very old</td><td>DR 15/魔法</td><td>11 级</td></tr><tr><td>古龙 Ancient</td><td>风暴之息</td><td>13 级</td></tr><tr><td>上古龙 Wyrm</td><td>DR 20/魔法</td><td>15 级</td></tr><tr><td>太古龙 Great wyrm</td><td>沙暴，海市蜃楼</td><td>17 级</td></tr></table></div>
 }}
 
-本页译自《[[怪物图鉴]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=40217.msg341051#msg341051 【B1】龙（Dragon）]，译者：pandora）。

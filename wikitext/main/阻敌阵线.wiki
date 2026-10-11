@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Divine Anthology pg. 6），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=阻敌阵线
+|english_name=Crowd Control
+|categories=战斗;团队
+|description=你和你的盟友受过训练，能阻止敌人在你们的队形周围或穿过队形移动。
+|prerequisites=基本攻击加值+3。
+|benefit=当敌人使用[[特技]]穿过你威胁的格子时，你的CMD获得+2表现加值。你触及范围内每有一名同样拥有此专长的盟友，该加值就再增加2点。
+|source=DA
+|source_name=神术选集
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Crowd%20Control
+}}

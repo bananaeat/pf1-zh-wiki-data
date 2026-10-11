@@ -3,7 +3,7 @@
 |english_name=Adamantine Dagger
 |cat=特殊魔法武器
 |base=匕首
-|aura=无灵光（非魔法）
+|aura=无灵氲（非魔法）
 |slot=无
 |price=3,002 gp
 |weight=1磅

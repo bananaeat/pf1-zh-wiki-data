@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Wild pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=蛮荒战术
+|english_name=Uncivilized Tactics
+|categories=战斗
+|description=你从来没有奢侈到能给敌人一场公平的战斗，因为在野外战斗往往就是为自己的生存而战。
+|prerequisites=力量13，[[猛力攻击]]。
+|benefit=你可以用一个标准动作，对体型不比你大超过一级的生物进行一次战技检定。这会引发该战技目标的借机攻击。如果检定成功，你可以使目标的一条手臂（或类似肢体）或你选择的一个天武攻击在1轮内无法使用。你的检定结果每超出目标的CMD 5点，受影响的手臂或天武攻击就再多1轮无法使用。目标可以用一个标准动作来恢复被废掉的肢体或天武攻击的使用。
+|source=HotW
+|source_name=荒野英雄
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Uncivilized%20Tactics
+}}

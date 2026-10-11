@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Wilderness Origins pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=法术之镜
+|english_name=Spellmirror
+|pfs=否
+|description=对你施展的法术有时会被偏转开来，这要归功于你天生的抗性。
+|prerequisites=魅力13，角色等级6级，[[蒿兰人]]，食咒者种族特性。
+|benefit=每天一次，你可以用直觉动作使用由食咒者种族特性赋予的类法术能力[[解除魔法]]，来尝试进行法术反制。如果你的反制尝试成功，该法术会反弹回原施法者身上，如同该法术是施展在那个生物身上般生效。这会耗尽食咒者种族特性赋予的解除魔法的当日使用次数。
+|source=WO
+|source_name=荒野源始
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Spellmirror
+}}

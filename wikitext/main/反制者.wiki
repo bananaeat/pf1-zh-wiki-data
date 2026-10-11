@@ -1,9 +1,0 @@
-{{Trait
-|name=反制者
-|english_name=Reactionary
-|type=战斗
-|description=你幼时常受人欺负，但从来都不会主动发难。取而代之的是你精于预见突然袭击、并能够快速应对威胁。你的[[先攻]]检定获得+2背景加值。
-|source_name=战斗背景
-|source=APG
-|source_url=https://pf1chm.pages.dev/topics/page_150.html
-}}

@@ -29,7 +29,7 @@
 |cmd=7
 |feats=[[技能专攻]]（察觉）
 |skills=[[察觉]] +8;[[游泳]] +7
-|sq=闭气
+|sq=屏息
 |environment=寒冷的平原
 |organization=单独，一对，或一群（3–30）
 |treasure=无

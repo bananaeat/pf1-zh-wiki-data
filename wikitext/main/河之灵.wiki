@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder Campaign Setting pg. 219），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=河之灵
+|english_name=Spirit of the River
+|pfs=否
+|description=你的身心承载着川流不息、滋养万物的河流之灵。
+|prerequisites=水栖子类型，知识（自然）1级。
+|benefit=你获得在空气和水中互换呼吸的能力。如果你离开水的时间达到等同于你的体质加值加上角色等级的天数，你就会陷入[[疲乏]]状态。这种疲乏只有在你浸入水中8小时后才会消除。世俗或魔法的消除疲乏的效果对此状态无效。
+
+此外，从下列技能中选择一项：知识（地理）、知识（历史）、知识（本地）或知识（自然）。该技能对你而言永远是[[本职技能]]。
+|source_name=探索者编年史：战役设定
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Spirit%20of%20the%20River
+}}

@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Potions and Poisons pg. 17），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=长效药水
+|english_name=Lengthy Potion
+|pfs=否
+|description=当你把持续时间很短的法术调制成药水时，可以将其延长至整整一分钟。
+|prerequisites=[[调制药剂]]，施法者等级10级。
+|benefit=当你用持续时间为每施法者等级1轮的法术调制药水时，就该药水对饮用者产生的效应而言，你可以把该法术的持续时间增加到1分钟。这不与其他任何会延长药水持续时间的效应叠加，例如[[法术延时]]超魔专长。以这种方式调制成药水的法术，就制作及其花费而言，会占用比法术实际环位高一环的法术位。
+|source=P&P
+|source_name=药剂与毒药
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Lengthy%20Potion
+}}

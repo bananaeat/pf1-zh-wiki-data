@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #115: Trail of the Hunted pg. 74），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=分心爆炸
+|english_name=Distracting Explosion
+|pfs=否
+|description=你的炸裂弹爆炸时力道极猛，足以让目标措手不及，为你的盟友创造可乘之机。
+|prerequisites=炸裂弹职业特性，[[大地精]]。
+|benefit=你可以将炸裂弹的伤害减少一个伤害骰，使其获得扰乱所命中生物的能力。如果某生物被你的炸裂弹直接命中，它必须通过对抗该炸裂弹DC的反射豁免检定，否则1轮内无法进行借机攻击。这是该炸裂弹通常效果之外的额外效果。
+|normal=炸裂弹的目标无法通过豁免检定来避免炸裂弹的效果。
+|source_name=冒险之路115：猎物小径
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Distracting%20Explosion
+}}

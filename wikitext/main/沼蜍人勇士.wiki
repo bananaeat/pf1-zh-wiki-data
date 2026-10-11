@@ -19,7 +19,7 @@
 |will=+3（对抗恐惧效果时额外+1）
 |defensive=英勇+1
 |speed=20尺；游泳30尺
-|melee=+1石刃剑 UE+15/+10(1d8+9)，舌击+7对接触（粘性舌头）
+|melee=+1石刃剑 UE+15/+10(1d8+9)，舌舔+7对接触（粘性舌头）
 |ranged=精制品标枪+9（1d6+5）
 |special_attacks=恐怖蛙鸣（DC12）；武器训练（重刃+1）
 |tactics=<div class="ml wide"><span class="k">战斗中</span>在近战之前，沼蜍人勇士会先使用恐怖蛙鸣。</div>

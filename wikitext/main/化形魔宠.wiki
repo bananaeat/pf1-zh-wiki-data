@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Wilderness Origins pg. 21），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=化形魔宠
+|english_name=Changeling Familiar
+|description=许多魔宠能够变成其他动物，但少数魔宠天赋更高，能变成属于自己的类人形体。
+|prerequisites=魔宠职业特性，施法者等级9级，你的魔宠必须拥有改变形态通用怪物能力。
+|benefit=你的魔宠的改变形态通用怪物能力可以如同[[变身术]]那样运作，并且它获得一个小型或中型的替代形态。该形态是其主人所属种族的一个孩童或少年，选定后不可更改。这种化形魔宠总会带有某种其原本本质的明显标记，例如猫的眼睛、蛇的舌头或小小的恶魔之角。化形魔宠不会因这次变形获得任何新语言，所以化形魔宠往往是哑的。
+|source=WO
+|source_name=荒野源始
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Changeling%20Familiar
+}}

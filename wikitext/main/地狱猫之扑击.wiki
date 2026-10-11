@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Cheliax, Empire of Devils pg. 27），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=地狱猫之扑击
+|english_name=Hellcat Pounce
+|categories=战斗
+|description=你对毫无防备的敌人攻击两次。
+|prerequisites=[[地狱猫之潜藏]]，[[技能专攻]]（隐匿），[[偷袭]]+2d6。
+|benefit=每当你在突袭轮中攻击并对一名对手造成伤害时，你可以立即使用相同的攻击加值对同一对手进行第二次攻击。目标面对这第二次攻击时不视为[[措手不及]]。
+|special=此能力只有在携带轻载或更轻的负重时才能生效。
+|source_name=切里亚斯，魔鬼王朝
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Hellcat%20Pounce
+}}

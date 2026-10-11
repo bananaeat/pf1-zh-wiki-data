@@ -3,8 +3,8 @@
 |name=同化土著
 |english_name=Assimilated Native
 |type=种族
-|prerequisites=[[人类]]（芒吉人）
-|description=你接受了殖民者的生活方式。因此，你觉得其他“劣等”种族——例如你的芒吉同胞——应当像服从殖民者那样服从你。你为影响芒吉原住民而进行的[[威吓]]检定获得+2背景加值，但你为影响他们而进行的[[交涉]]检定承受-2减值。
+|prerequisites=[[人类]]（莽吉人）
+|description=你接受了殖民者的生活方式。因此，你觉得其他“劣等”种族——例如你的莽吉同胞——应当像服从殖民者那样服从你。你为影响莽吉原住民而进行的[[威吓]]检定获得+2背景加值，但你为影响他们而进行的[[交涉]]检定承受-2减值。
 |source_name=萨迦瓦，失落的殖民地
 |source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Assimilated%20Native
 }}

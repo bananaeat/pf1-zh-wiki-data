@@ -19,7 +19,7 @@
 
 银色（Silver）：[[闯越]]（overrun）战技获得+2表现加值。
 
-青色（Teal）：[[卸武]]（disarm）战技获得+2表现加值。
+青色（Teal）：[[缴械]]（disarm）战技获得+2表现加值。
 
 紫色（Violet）：[[擒抱]]（grapple）战技获得+2表现加值。
 
@@ -43,7 +43,7 @@
 
 银色（Silver）：闯越（overrun）战技获得+2表现加值。
 
-青色（Teal）：卸武（disarm）战技获得+2表现加值。
+青色（Teal）：缴械（disarm）战技获得+2表现加值。
 
 紫色（Violet）：擒抱（grapple）战技获得+2表现加值。
 

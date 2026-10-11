@@ -31,7 +31,7 @@
 |bab=+10
 |cmb=+16
 |cmd=27（31 对摔绊 vs. trip）
-|feats=[[警觉]];[[飞越攻击|飞跃攻击]];[[多重攻击]];[[猛力攻击]];[[要害打击]]
+|feats=[[警觉]];[[飞越攻击|跃击]];[[多重攻击]];[[猛力攻击]];[[要害打击]]
 |skills=[[交涉]] Diplomacy +16;[[飞行]] Fly +8;[[威吓]] Intimidate +16;[[知识]]（神秘）Knowl.+16;[[察觉|觉察]] Percep. +20;[[察言观色]] S. Motive +20;[[法术辨识]] Spellcraft +16;[[隐匿]] Stealth +10;[[游泳]] +26
 |languages=水族语 Aquan;通用语 Common;龙语 Draconic;精灵语 Elven
 |sq=变化形态 change shape;水中呼吸 water breathing
@@ -39,7 +39,7 @@
 |organization=单独
 |treasure=三倍
 |special_abilities={{怪物能力|变化形态|Su|少年开始，青铜龙可以变换为任何动物或类人生物形态，如同使用变形术 polymorph，每日三次。}}
-{{怪物能力|闪电灵光|Su|老年开始，青铜龙获得闪电灵光，所有 5 尺内生物在龙的回合开始时受到 1d6 点闪电伤害，古龙的范围延伸至 10 尺，太古龙的伤害增至 2d6。青铜龙可以随意愿抑制此灵光。}}
+{{怪物能力|闪电灵氲|Su|老年开始，青铜龙获得闪电灵氲，所有 5 尺内生物在龙的回合开始时受到 1d6 点闪电伤害，古龙的范围延伸至 10 尺，太古龙的伤害增至 2d6。青铜龙可以随意愿抑制此灵氲。}}
 {{怪物能力|排斥喷吐|Su|青铜龙可以喷出锥形的排斥气体替代线形的闪电。目标必须进行意志检定，否则将被迫使逃离巨龙 1d6 轮加每年龄层一轮，除此之外无法做任何事情。这是一种影响心灵的胁迫效果。}}
 {{怪物能力|类法术能力|Sp|青铜龙获得如下类法术能力，在达到对应年龄层后可随意使用。幼年 Very young—动物交谈 speak with animals；青少年 Juvenile—造粮术 create food and water；成年 Adult—云雾术 fog cloud；老年 Old—侦测思想 detect thoughts；古龙 Ancient—操纵水位 control water；太古 Great wyrm—操控天气 control weather。}}
 {{怪物能力|浪涛|Su|太古青铜龙可以令海水升起并碾压其敌人，这是一个标准动作，每日一次。此效果影响一个 120 尺长的海岸线 coastline 区域内所有距离海岸 40 尺的生物——处理时视同受到雪崩 avalanche 袭击（Pathfinder 角色扮演游戏核心规则书）。所有生物视同处于埋葬区 bury zone。令此伤害减半的豁免 DC 等于龙的喷吐武器 DC。豁免失败的生物受到完整伤害，并在该轮中波涛攻击后被拖离海岸 60 尺且被掩埋在表面 20 尺之下。}}
@@ -85,7 +85,7 @@
 |bab=+16
 |cmb=+26
 |cmd=36（40 对摔绊 vs. trip）
-|feats=[[警觉]];[[顺势斩]];[[飞越攻击|飞跃攻击]];[[盘旋]];[[精通要害打击]];[[多重攻击]];[[猛力攻击]];[[要害打击]]
+|feats=[[警觉]];[[顺势斩]];[[飞越攻击|跃击]];[[盘旋]];[[精通要害打击]];[[多重攻击]];[[猛力攻击]];[[要害打击]]
 |skills=[[交涉]] Diplomacy +24;[[飞行]] Fly +11;[[驯养动物]] Handle Animals +21;[[威吓]] Intimidate +24;[[知识]]（神秘与地理）Knowledge+24;[[察觉|觉察]] 察觉 +28;[[察言观色]] Sense Motive +28;[[法术辨识]] Spellcraft +24;[[隐匿]] Stealth +11;[[游泳]] +35
 |languages=水族语 Aquan;通用语 Common;龙语 Draconic;精灵语 Elven;侏儒语 Gnome;2 其他语言 more
 |sq=变化形态 change shape;水中呼吸 water breathing;水流掌握 wave mastery
@@ -106,7 +106,7 @@
 |subtypes=水系
 |init=+3
 |senses=龙感 dragon senses；觉察 察觉 +38
-|aura=闪电灵光 electricity aura，凶威 frightful presence（300 尺，DC 29）
+|aura=闪电灵氲 electricity aura，凶威 frightful presence（300 尺，DC 29）
 |ac=37，接触 touch 5，措手不及 flat–footed 37（–1 敏捷，+32 天生 natural，–4 体型）
 |hp=324（24d12 +168）
 |fort=+21
@@ -131,7 +131,7 @@
 |bab=+24
 |cmb=+40
 |cmd=49（53 对摔绊 vs. trip）
-|feats=[[警觉]];[[顺势斩]];[[飞越攻击|飞跃攻击]];[[大顺势斩|高等顺势斩]];[[盘旋]];[[精通重击]]（啮咬、爪抓）Improved Critical;[[精通先攻]];[[精通要害打击]];[[多重攻击]];[[猛力攻击]];[[要害打击]]
+|feats=[[警觉]];[[顺势斩]];[[飞越攻击|跃击]];[[大顺势斩|高等顺势斩]];[[盘旋]];[[精通重击]]（啮咬、爪抓）Improved Critical;[[精通先攻]];[[精通要害打击]];[[多重攻击]];[[猛力攻击]];[[要害打击]]
 |skills=[[交涉]] Diplomacy +34;[[飞行]] Fly +10;[[驯养动物]] Handle Animals +31;[[医疗]] Heal +34;[[威吓]] Intimidate +34;[[知识]]（神秘、历史及地理）Knowledge+34;[[察觉|觉察]] Percep. +38;[[察言观色]] S. Motive +38;[[法术辨识]] Spellcraft +34;[[隐匿]] Stealth +14;[[游泳]] +47
 |languages=水族语 Aquan;通用语 Common;龙语 Draconic;精灵语 Elven;侏儒语 Gnome;3 其他语言 more
 |sq=变化形态 change shape;水中呼吸 water breathing;水流掌握 wave mastery
@@ -150,7 +150,7 @@
 * 天生护甲 +5；喷吐武器 线形，2d6 闪电
 * 力量 13，敏捷 14，体质 13，智力 14，感知 15，魅力 14
 
-<div class="monster-table-wrap"><table class="wikitable"><tr><th>年龄层</th><th>特殊能力</th><th>施法者等级</th></tr><tr><td>雏龙 Wyrmling</td><td>电系免疫，排斥喷吐，水中呼吸</td><td>–</td></tr><tr><td>幼龙 Very young</td><td>动物交谈</td><td>–</td></tr><tr><td>少年 Young</td><td>变化形态</td><td>1 级</td></tr><tr><td>青少年 Juvenile</td><td>水流掌握，[[造粮术]]</td><td>3 级</td></tr><tr><td>青年 Young adult</td><td>DR 5/魔法，法术抗力</td><td>5 级</td></tr><tr><td>成年 Adult</td><td>凶威，[[云雾术]]</td><td>7 级</td></tr><tr><td>壮年 Mature adult</td><td>DR 10/魔法</td><td>9 级</td></tr><tr><td>老年 Old</td><td>闪电灵光，侦测思想</td><td>11 级</td></tr><tr><td>极老 Very old</td><td>DR 15/魔法</td><td>13 级</td></tr><tr><td>古龙 Ancient</td><td>漩涡，操纵水位</td><td>15 级</td></tr><tr><td>上古龙 Wyrm</td><td>DR 20/魔法</td><td>17 级</td></tr><tr><td>太古龙 Great wyrm</td><td>浪涛，操控天气</td><td>19 级</td></tr></table></div>
+<div class="monster-table-wrap"><table class="wikitable"><tr><th>年龄层</th><th>特殊能力</th><th>施法者等级</th></tr><tr><td>雏龙 Wyrmling</td><td>电系免疫，排斥喷吐，水中呼吸</td><td>–</td></tr><tr><td>幼龙 Very young</td><td>动物交谈</td><td>–</td></tr><tr><td>少年 Young</td><td>变化形态</td><td>1 级</td></tr><tr><td>青少年 Juvenile</td><td>水流掌握，[[造粮术]]</td><td>3 级</td></tr><tr><td>青年 Young adult</td><td>DR 5/魔法，法术抗力</td><td>5 级</td></tr><tr><td>成年 Adult</td><td>凶威，[[云雾术]]</td><td>7 级</td></tr><tr><td>壮年 Mature adult</td><td>DR 10/魔法</td><td>9 级</td></tr><tr><td>老年 Old</td><td>闪电灵氲，侦测思想</td><td>11 级</td></tr><tr><td>极老 Very old</td><td>DR 15/魔法</td><td>13 级</td></tr><tr><td>古龙 Ancient</td><td>漩涡，操纵水位</td><td>15 级</td></tr><tr><td>上古龙 Wyrm</td><td>DR 20/魔法</td><td>17 级</td></tr><tr><td>太古龙 Great wyrm</td><td>浪涛，操控天气</td><td>19 级</td></tr></table></div>
 }}
 
-本页译自《[[怪物图鉴]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=40217.msg344075#msg344075 【B1】龙（Dragon）]，译者：pandora）。

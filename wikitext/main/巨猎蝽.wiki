@@ -9,7 +9,7 @@
 |other=CMD 对抗摔绊+8
 |size=小型
 |adv_size=中型
-|speed=30尺，飞行30尺（极差）
+|speed=30尺，飞行30尺（笨拙）
 |ac=+2天生护甲
 |adv_ac=+1天生护甲
 |attack=啮咬（1d4，附带毒素），2爪抓（1d3）

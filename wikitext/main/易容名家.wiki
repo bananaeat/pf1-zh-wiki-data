@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #22: The End of Eternity pg. 75），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=易容名家
+|english_name=Master of Disguise
+|pfs=否
+|description=你特别擅长冒充某个特定的存在。
+|prerequisites=魅力12，[[技能专攻]]（[[易容]]）5级（译注：AoN 原文写作「技能专攻（易容）5级」，疑为笔误，应为技能专攻（易容）及易容技能5级。）
+|benefit=选择一个个体。你在为冒充该特定生物而进行的所有易容检定上获得+4加值。你每拥有4级，就可以额外选择一个个体。
+|source_name=冒险之路22：永恒的终结
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Master%20of%20Disguise
+}}

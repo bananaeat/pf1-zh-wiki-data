@@ -79,9 +79,9 @@
 |-
 | Maghara || [[马格哈拉]] || 其他
 |-
-| Magic Aura || [[魔法灵光]] || 法术
+| Magic Aura || [[魔法灵氲]] || 法术
 |-
-| Magic Aura, Greater || [[高等魔法灵光]] || 法术
+| Magic Aura, Greater || [[高等魔法灵氲]] || 法术
 |-
 | Magic Boulder || [[魔岩术]] || 法术
 |-
@@ -821,7 +821,7 @@
 |-
 | Mineral Acid || [[溶矿酸]] || 专长
 |-
-| Minor Creation || [[弱效造物术]] || 法术
+| Minor Creation || [[次级造物术]] || 法术
 |-
 | Minor dream || [[弱效托梦术]] || 法术
 |-
@@ -867,7 +867,7 @@
 |-
 | Mirror Of Life Trapping || [[摄心镜]] || 物品
 |-
-| Mirror Of Mental Prowess || [[灵光镜]] || 物品
+| Mirror Of Mental Prowess || [[灵氲镜]] || 物品
 |-
 | Mirror Of Opposition || [[死敌分身镜]] || 物品
 |-
@@ -1103,7 +1103,7 @@
 |-
 | Mordant Heritage || [[曼德特的传统]] || 背景特性
 |-
-| Morlock || [[摩洛克(怪物)|摩洛克]] || 其他
+| Morlock || [[莫洛克]] || 其他
 |-
 | Morlock Hide || [[穴人皮]] || 物品
 |-
@@ -1281,11 +1281,11 @@
 |-
 | Mute Dart || [[哑镖]] || 物品
 |-
-| Mwangi coffee || [[芒吉咖啡]] || 物品
+| Mwangi coffee || [[莽吉咖啡]] || 物品
 |-
-| Mwangi Herbal Tradition || [[芒吉草药传统]] || 背景特性
+| Mwangi Herbal Tradition || [[莽吉草药传统]] || 背景特性
 |-
-| Mwangi Linguist || [[芒吉语言学家]] || 背景特性
+| Mwangi Linguist || [[莽吉语言学家]] || 背景特性
 |-
 | My Blade Is Yours || [[武器协同]] || 专长
 |-
@@ -1791,7 +1791,7 @@
 |-
 | Numbing Blow || [[麻木打击]] || 专长
 |-
-| Numerian Fluid Indulger || [[纽美利亚流质沉溺者]] || 背景特性
+| Numerian Fluid Indulger || [[纽梅利亚流质沉溺者]] || 背景特性
 |-
 | Numerian Resistance Plate || [[纽梅利亚折光护甲]] || 物品
 |-
@@ -3829,7 +3829,7 @@
 |-
 | Ranged Disable || [[远距解除装置]] || 专长
 |-
-| Ranged Disarm || [[远程卸武]] || 专长
+| Ranged Disarm || [[远程缴械]] || 专长
 |-
 | Ranged Feint || [[远距虚招]] || 专长
 |-
@@ -3927,7 +3927,7 @@
 |-
 | Reaching Vines || [[延展藤蔓]] || 物品
 |-
-| Reactionary || [[反制者]] || 背景特性
+| Reactionary || [[应变者]] || 背景特性
 |-
 | Reactive Arcane Shield || [[反应式奥能之盾]] || 专长
 |-

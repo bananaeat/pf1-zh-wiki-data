@@ -18,7 +18,7 @@
 |will=+4
 |weaknesses=惧怕火焰，火焰易伤
 |speed=30 尺，攀爬 10 尺
-|melee=噬咬 +5（1d4 +3），2 爪抓 +5（1d4 +3）
+|melee=啮咬 +5（1d4 +3），2 爪抓 +5（1d4 +3）
 |space=10 尺
 |reach=10 尺（爪抓 15 尺）
 |str=16
@@ -53,4 +53,4 @@
 苔巨魔有 9 尺高，重 550 磅。
 }}
 
-本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=61277.msg570613#msg570613 【B3】苔巨魔（Troll, Moss）]，译者：原子能青蛙）。

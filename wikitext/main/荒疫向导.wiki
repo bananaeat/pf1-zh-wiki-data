@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #119: Prisoners of the Blight pg. 61），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=荒疫向导
+|english_name=Blight Guide
+|description=你探索危险地域时的自信，同样激励着你的同伴。
+|prerequisites=荒疫求生者，[[技能专攻]]（生存）。
+|benefit=你通过荒疫求生者专长获得的豁免检定加值，扩展到你30尺内的盟友。此外，每天一次，如果你将要在对抗环境危害或天气效应的豁免检定中失败，你可以重掷该豁免检定，但必须采用第二次的结果，即使它更低。
+|source_name=冒险之路119：荒疫囚徒
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Blight%20Guide
+}}

@@ -2,7 +2,7 @@
 |name=辟水法术
 |english_name=Aquatic Spell
 |categories=超魔
-|description=你稍微幸苦一些，就能在水下或向水中施法。
+|description=你稍微辛苦一些，就能在水下或向水中施法。
 |benefit=一个辟水法术可以在水下正常生效，并且即便是拥有〔火〕描述符的法术，也无需进行施法者等级检定。另外，辟水法术可以从陆地向水下发射，并如常生效。辟水的法术占据比原法术高1的环级的法术位。
 |source=UW、MeleeTT
 |source_name=极限荒野、近战战术工具箱

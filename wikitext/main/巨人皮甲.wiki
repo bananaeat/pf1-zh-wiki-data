@@ -1,6 +1,7 @@
 {{魔法物品
 |name=巨人皮甲
 |english_name=Giant-Hide Armor
+|aon=MagicArmorDisplay.aspx?ItemName=Giant-Hide%20Armor%20(cloud%20giant)
 |cat=特殊魔法护甲
 |base=[[革甲]]
 |enh=+3

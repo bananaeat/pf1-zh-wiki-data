@@ -1,0 +1,14 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder Unchained pg. 154），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=奇特防护
+|english_name=Esoteric Abjuration
+|categories=奇特
+|pfs=否
+|description=一组精心挑选的晶球，使你以法术创造的防御提供更好的保护。
+|benefit=当你以晶球作为奇特施法材料施放防护系法术时，可以让该法术的单个目标在法术持续时间内，在强韧、反射或意志豁免检定上获得+1表现加值。该法术的持续时间必须以轮或分钟计，且一个生物同一时间至多只能从本专长获得一项加值。
+
+当你对防护系法术获得晶球的高等材料效果时，在决定持续时间上，你的施法者等级再视为高1级。
+|source=PU
+|source_name=解放者
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Esoteric%20Abjuration
+}}

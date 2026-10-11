@@ -1,0 +1,14 @@
+{{Feat
+|name=拥抱黑暗精类
+|english_name=Embrace of the Dark Fey
+|categories=故事
+|pfs=否
+|description=邪恶精类祖先的血脉流淌在你的血管中，让你变得极富攻击性，常常嗜血成性，你竭力压制着这些冲动。
+|prerequisites=你必须在家系中有一位邪恶精类祖先，像是快可灵B2或是红帽子B2，或者你必须拥有耻辱血系背景（极限战役40）。
+|benefit=你在[[威吓]]检定上获得+2加值。如果你在威吓技能上有10级或更高，这个加值提升到+4。同时你在确认重击的攻击检定上获得+2环境加值。
+|special=对于因你使用威吓技能挫败士气而陷入[[战栗]]的生物，你对其造成伤害的攻击同时会对其造成1点[[流血]]伤害。来自这个能力的流血伤害不会与自身叠加。
+|goal=使用威吓技能挫败士气一定数量的生物。
+|source=LotFW
+|source_name=第一世界的遗产
+|source_url=https://pf1chm.pages.dev/topics/page_1071.html
+}}

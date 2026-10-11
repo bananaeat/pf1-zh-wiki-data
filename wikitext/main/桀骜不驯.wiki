@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #115: Trail of the Hunted pg. 74），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=桀骜不驯
+|english_name=Recalcitrant
+|pfs=否
+|description=你决意保持自己的意志，不向任何人屈服。
+|prerequisites=[[钢铁意志]]，[[大地精]]。
+|benefit=对你进行威吓的检定DC增加2。当你受到[[魅惑人类]]、[[支配人类]]或其他魅惑或强迫效应影响时，要求你执行正常或无害行动的命令，视为你通常不会做的行动；要求你执行你通常不会做的行动的命令，视为明显有害或自毁的行动。
+|normal=当你受到某些魅惑或强迫法术效果影响时，要求你执行你通常不会做的行动（包括明显有害或自毁的行为）的命令，会让你获得一次新的豁免检定，或使该效果完全终止，具体见相应法术的描述。
+|source_name=冒险之路115：猎物小径
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Recalcitrant
+}}

@@ -1,0 +1,47 @@
+{{速查导航}}
+{{怪物
+|name=胃余尸泥
+|english_name=Undigested
+|cr=1/4
+|xp=100
+|alignment=中立邪恶
+|size=超小型
+|type=不死生物
+|init=+1
+|senses=黑暗视觉 60 尺；察觉 +6
+|description=一堆融化的骨头和颅骨碎片漂浮在渗出的棕黄色浆液中。
+|ac=13，接触 13，措手不及 12（+1 敏捷，+2 体型）
+|hp=9（2d8）
+|fort=+0
+|ref=+1
+|will=+1
+|defensive=不定型体
+|immune=不死特性
+|resist=酸蚀 5
+|speed=30 尺，攀爬 20 尺，游泳 20 尺
+|melee=+3（1d3–3 外加 1 酸蚀）
+|space=2-1/2 尺
+|reach=0 尺
+|str=4
+|dex=12
+|con=–
+|int=3
+|wis=9
+|cha=11
+|bab=+1
+|cmb=+0
+|cmd=7（无法被摔绊）
+|feats=[[技能专攻]]（察觉）;[[武器娴熟]]
+|skills=[[攀爬]] +9;[[察觉]] +6;[[隐匿]] +13;[[游泳]] +9
+|languages=通用语（不能说）
+|environment=任意
+|organization=单独或群（2–5）
+|treasure=无
+|source=怪物图鉴5
+|lore=
+胃余尸泥是类人生物遗骸无法消化部分的活化浆液。它们诞生于一头活吞猎物的巨型野兽被不可言说的死灵法术所杀之时。在它痛苦死亡的时刻，一缕原始的野兽知觉被撕扯出来，激活其胃中凝胶状的类人遗骸，形成一个软泥般的不死生物，渴望将其被消化的命运施加给他人。若该野兽当时正在消化多个生物，此现象则产生胃余尸泥团。胃余尸泥——顽固的伏击掠食者——在世界阴暗之处蠕动、渗出和起伏，寻找着食物。
+
+出处：怪物图鉴5 第 258 页；Pathfinder #1: Burnt Offerings 第 125 页
+}}
+
+本页译自《[[怪物图鉴5]]》，译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=171934.0 【B5】胃余尸泥（Undigested）]（译者：dr.fate），按 AoN 校对。

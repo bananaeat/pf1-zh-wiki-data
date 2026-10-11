@@ -30,7 +30,7 @@
 |cmd=11
 |feats=[[武器娴熟]]
 |skills=[[察觉]] +5;[[游泳]] +7
-|sq=闭气
+|sq=屏息
 |environment=温带海洋
 |organization=单独，一对，或一群（3–5）
 |treasure=无

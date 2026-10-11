@@ -4,7 +4,7 @@
 {{#if:{{{english_name|}}}|<div class="item-en">{{#invoke:AoN链接|item|{{{english_name}}}|aon={{{aon|}}}}}</div>}}
 </div><!--
 --><div class="item-stats"><!--
--->{{#if:{{{aura|}}}|<span class="item-stat"><span class="k">灵光</span>{{{aura}}}</span>}}<!--
+-->{{#if:{{{aura|}}}|<span class="item-stat"><span class="k">灵氲</span>{{{aura}}}</span>}}<!--
 -->{{#if:{{{cl|}}}|<span class="item-stat"><span class="k">施法者等级</span>{{{cl}}}</span>}}<!--
 -->{{#if:{{{price|}}}|<span class="item-stat"><span class="k">价格</span>{{{price}}}</span>}}<!--
 -->{{#if:{{{ac|}}}|<span class="item-stat"><span class="k">护甲加值</span>{{{ac}}}</span>}}<!--

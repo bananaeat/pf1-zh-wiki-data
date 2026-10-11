@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Haunted Heroes Handbook pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=驱离附身者
+|english_name=Banish Possessor
+|description=你十分擅长迫使附身的生物离开其宿主。
+|benefit=每当你施放法术或使用类法术能力或超自然能力，使被另一生物附身的生物得以重新进行豁免检定以结束该法术或效果（例如[[防护邪恶]]）时，被附身的生物可以投两次新的豁免检定，并取其中较好的结果作为实际结果。
+|source=HHH
+|source_name=闹鬼英雄手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Banish%20Possessor
+}}

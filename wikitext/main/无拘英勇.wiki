@@ -1,0 +1,11 @@
+{{Feat
+|name=无拘英勇
+|english_name=Unbound Bravery
+|description=你对勇气与自由原则的坚定奉献，让你更容易挣脱束缚。
+|prerequisites=英勇职业能力，凯登·凯连的信徒。
+|benefit=你可以把英勇提供的加值加到[[脱逃]]检定，以及用于挣脱擒抱的战技检定上。如果你的英勇加值为+2或更高，则每天一次，你可以把该加值赋予30尺内的一名盟友，让其加在对抗恐惧效应的意志豁免、脱逃检定或用于挣脱擒抱的战技检定上。将该加值赋予盟友是一个直觉动作，且必须在盟友的检定结果揭晓之前宣布。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=167122.msg1412746#msg1412746 【DA】凯登凯连与他的三个专长]，译者：LC01；按 AoN 核对过。
+|source=DA
+|source_name=神术选集
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Unbound%20Bravery
+}}

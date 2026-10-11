@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragons Revisited pg. 27），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=龙之卫士
+|english_name=Draconic Defender
+|pfs=否
+|description=你擅长让自己挡在敌人与其想要伤害之人之间。
+|prerequisites=体质17，[[健壮]]。
+|benefit=在你的行动期间，指定一名你触及范围内的盟友。当你进行防御性战斗或使用[[寓守于攻]]时，该盟友获得AC上的天生护甲加值，数值等于你通过防御性战斗或寓守于攻所获得的闪避加值。你可以在任意动作中选择新的盟友。移出你触及范围的盟友失去这一天生护甲加值。
+|source_name=巨龙再临
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Draconic%20Defender
+}}

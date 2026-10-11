@@ -4,7 +4,7 @@
 |english_name=Jungle Guide
 |type=地区
 |prerequisites=萨迦瓦
-|description=你以为深入芒吉内陆、寻找远古遗迹和失落城市的探险队提供装备和向导为生。你的[[驯养动物]]检定获得+1背景加值，在丛林地形中进行的[[生存]]检定获得+1背景加值。其中一项技能是你的本职技能。
+|description=你以为深入莽吉内陆、寻找远古遗迹和失落城市的探险队提供装备和向导为生。你的[[驯养动物]]检定获得+1背景加值，在丛林地形中进行的[[生存]]检定获得+1背景加值。其中一项技能是你的本职技能。
 |source_name=初探内海
 |source=ISP
 |source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Jungle%20Guide

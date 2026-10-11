@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 57），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=不祥神态
+|english_name=Ominous Mien
+|categories=组织
+|pfs=否
+|description=当你对对手施放法术或使用类法术能力时，你的步态、站姿和嗓音都会放大你作为地狱骑士的身份。
+|prerequisites=地狱骑士阶位，地狱骑士10TPA。
+|benefit=每当你施放或使用来自胁迫、恐惧、魅影或阴影子系的法术或类法术能力时，针对该法术或效应的豁免DC+1。
+|source=FM
+|source_name=组织指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Ominous%20Mien
+}}

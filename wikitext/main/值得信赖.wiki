@@ -1,0 +1,9 @@
+{{Trait
+|name=值得信赖
+|english_name=Trustworthy
+|type=社会
+|description=人们觉得你似乎值得信赖。你在愚弄他人时[[唬骗]]检定获得+1背景加值。你的交涉检定获得+1背景加值，并且总能将交涉视为你的[[本职技能]]。
+|source_name=社会背景
+|source=UCa
+|source_url=https://pf1chm.pages.dev/topics/page_153.html
+}}

@@ -13,7 +13,7 @@
 |color=午夜蓝，银色
 |home=奔放之野的绕梁魂歌山脉（Mountain of Lingering Soulsong）脚下的闪耀沼泽（sparkling fen）
 |temples=深坑，墓地，孤立的社区，荒野
-|worshipers=失亲者，舞者，鬼魂，善良阵营的兽化人，[[孤独者]]
+|worshipers=失亲者，舞者，鬼魂，善良阵营的兽化人，孤独者
 |minions=半天界狼人，月娜迦，飞马
 |pantheon=至高天神使
 |source=内海诸神、正义编年史

@@ -1,0 +1,14 @@
+{{Feat
+|name=附加条文
+|english_name=Verify
+|pfs=否
+|description=那些被你抓到违反约定的人更容易受到你力量的影响。
+|prerequisites=能够施放1环法术，守序邪恶阵营，崇拜[[阿斯莫迪斯]]。
+|benefit=当你询问某生物是否遵守了它曾正式同意的契约或交易的条款时，你在判断该生物是否在撒谎的[[察言观色]]检定上获得+5加值。这包括所有书面并已签字的契约，也包括被见证的效忠誓言和公会章程等事物。
+
+如果你在这样的察言观色检定上成功，并得知某生物违反了这类正式约定的任何部分，则该生物在对抗你的法术、类法术能力和超自然能力的豁免检定上受到–2减值。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=164496.msg1396139#msg1396139 【DTT】阴招战术工具箱（Dirty Tactics Toolbox）]，译者：萌新也有滥强的心；按 AoN 核对过。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Verify
+}}

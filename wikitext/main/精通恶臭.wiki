@@ -5,7 +5,7 @@
 |pfs=否
 |description=你的恶臭格外浓烈，散播得也格外远。
 |prerequisites=[[通用怪物规则#恶臭|恶臭]]通用怪物能力。
-|benefit=你的恶臭能力的灵光范围增加30尺。此外，你的恶臭能力的豁免DC增加2，持续时间增加50%。
+|benefit=你的恶臭能力的灵氲范围增加30尺。此外，你的恶臭能力的豁免DC增加2，持续时间增加50%。
 |source_name=再探恶魔
 |source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Stench
 }}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder Campaign Setting pg. 97），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=精明联络人
+|english_name=Shrewd Liason
+|pfs=否
+|description=你与海盗和红螳螂打交道的经历，教会了你极其谨慎。
+|prerequisites=莫迪欧凯提亲和。
+|benefit=对手不会因夹击你而获得+2攻击检定加值，不过他们仍可对你进行偷袭。你在抵抗敌人于战斗中以虚招进行的唬骗检定的察言观色检定上，也获得+2加值。
+|source_name=探索者编年史：战役设定
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Shrewd%20Liason
+}}

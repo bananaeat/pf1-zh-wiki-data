@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 87），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=驱魔自残
+|english_name=Exorcising Mutilation
+|description=那些企图附身或支配你的恶意存在，并不知道你为了阻止它们能做到何种地步。
+|prerequisites=体质15，[[痛楚清明]]，[[精通钢铁意志]]，[[钢铁意志]]。
+|benefit=当你在抵抗附身或支配法术的豁免检定中失败时，你可以对自己造成4点体质伤害，并以一个直觉动作重掷该豁免检定。你无法以任何方式减少或抵消这一伤害，并且治疗这一伤害的唯一方式是自然恢复；魔法手段无效。你必须接受第二次掷骰的结果，即使更差。如果你通过了第二次豁免检定，你还会在24小时内免疫该生物施加的那个法术或能力。你必须正握持一件致命的穿刺或挥砍武器，或拥有爪抓天武攻击，或有某种方式能在不占用你直觉动作的情况下以反应方式拔出这样的武器，才能使用本能力。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Exorcising%20Mutilation
+}}

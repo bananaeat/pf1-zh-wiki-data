@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Demons Revisited pg. 44），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=精通窃亡
+|english_name=Improved Death-Stealing
+|pfs=否
+|description=你的窃亡凝视能创造出更强大的不死生物。
+|prerequisites=食魂魔，[[能力专攻]]（窃亡凝视）。
+|benefit=当你本来会用窃亡凝视创造食尸鬼时，你改为创造妖鬼。作为自由动作，你还可以消耗若干成长点数，在新的不死仆从被创造时进一步强化它。如果你消耗1点成长点数，你创造的是尸妖而不是妖鬼。如果你消耗3点成长点数，你创造的是缚灵而不是妖鬼。如果你消耗5点成长点数，你把目标变成巫毒殭尸而不是妖鬼。注意，以这种方式消耗成长点数会酌情降低你自身的数据。
+|source_name=再探恶魔
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Death-Stealing
+}}

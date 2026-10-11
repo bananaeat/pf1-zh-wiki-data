@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 56），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=骇人屏障
+|english_name=Fearsome Barricade
+|categories=战斗;组织
+|pfs=否
+|description=你的怒意与你的刀剑一样，是一道强大的屏障。
+|prerequisites=[[威吓]]5级，乌尔芬卫士20TPA。
+|benefit=在你的回合以自由动作选择一名相邻的盟友。每轮一次，当对手攻击该盟友时，你可以以直觉动作进行一次威吓检定来挫败该对手的士气。该动作视为借机攻击。
+|source=FM
+|source_name=组织指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Fearsome%20Barricade
+}}

@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 86），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=包卷骇惧
+|english_name=Engulf Horror
+|categories=战斗
+|pfs=否
+|description=你扼喉攻击那令人作呕的恐怖几乎能让大多数敌人无力行动。
+|prerequisites=[[包卷厌恶]]；包卷或扼喉通用怪物特殊能力。
+|benefit=当你成功包卷或扼喉一名对手，或成功对一名被扼喉的对手维持擒抱战技时，该对手必须成功通过一次意志豁免（DC=10+你的生命骰的一半+你的力量调整值），否则恍惚1轮。这是一个影响心灵的恐惧效果。（译注：AoN 原文在「扼喉一名对手」之后缺一个「或」，疑为笔误；此处按[[包卷厌恶]]的句式理解。）
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Engulf%20Horror
+}}

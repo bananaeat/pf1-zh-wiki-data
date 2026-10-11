@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of Shadows pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=灵活阴影跳跃
+|english_name=Flexible Shadow Jump
+|description=你改进了自己在阴影中跳跃的能力。
+|prerequisites=[[影舞者]]职业能力阴影跳跃。
+|benefit=当你使用阴影跳跃能力在阴影之间移动时，你可以跳跃的最小增量为5尺，使你能把阴影跳跃拆分成5尺的增量，而不是10尺的增量。此外，在满足[[次元灵巧]]专长以及任何以该专长为先决条件的专长的先决条件时，你的阴影跳跃能力视为能够施放[[任意门]]；并且你的阴影跳跃可以像你施放任意门一样，从这些专长中获益。
+|normal=每次阴影跳跃，无论距离多短，都算作10尺的增量。
+|source=BoS
+|source_name=阴影血脉
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Flexible%20Shadow%20Jump
+}}

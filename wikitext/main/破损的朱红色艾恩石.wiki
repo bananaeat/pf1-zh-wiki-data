@@ -1,6 +1,7 @@
 {{物品
 |name=破损的朱红色艾恩石
 |english_name=Vermilion Rhomboid (Cracked) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Vermilion%20Rhomboid
 |category=艾恩石
 |aura=中等变化系
 |cl=12

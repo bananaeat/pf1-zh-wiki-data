@@ -1,0 +1,11 @@
+{{Feat
+|name=无畏英勇
+|english_name=Undaunted Bravery
+|description=寻常的威胁不足以恫吓你，而你已掌握了用愉快的笑容暗示暴力、震慑敌人的艺术。
+|prerequisites=英勇职业能力，凯登·凯连的信徒。
+|benefit=你可以把英勇提供的加值加到[[威吓]]检定上，以及他人威吓你的DC上。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=167122.msg1412746#msg1412746 【DA】凯登凯连与他的三个专长]，译者：LC01；按 AoN 核对过。
+|source=DA
+|source_name=神术选集
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Undaunted%20Bravery
+}}

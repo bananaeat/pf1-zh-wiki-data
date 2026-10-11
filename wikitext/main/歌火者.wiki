@@ -16,7 +16,7 @@
 
 
 ====野火 (Wildfire, Ex)====
-就像是燃烧的野火一般，一个歌火者可以用猛烈的速度来移动。在2级和之后每4个诗人等级，歌火者的基础移动速度获得+5尺增强加值（直到18级最大的25尺）。这个能力取代[[吟游诗人#多才多艺 (Versatile Performance, Ex)|多才多艺]]。
+就像是燃烧的野火一般，一个歌火者可以用猛烈的速度来移动。在2级和之后每4个诗人等级，歌火者的基础移动速度获得+5尺增强加值（直到18级最大的25尺）。这个能力取代[[吟游诗人#触类旁通 (Versatile Performance, Ex)|触类旁通]]。
 
 {{AoN原文|1=ArchetypeDisplay.aspx?FixedName=Bard%20Flamesinger|2=Flamesinger}}
 

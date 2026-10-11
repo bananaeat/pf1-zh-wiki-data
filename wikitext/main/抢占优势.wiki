@@ -1,0 +1,12 @@
+{{Feat
+|name=抢占优势
+|english_name=Seize Advantage
+|categories=战斗
+|description=当敌人在攻击中用力过猛时，你能趁机占得上风。
+|prerequisites=[[适时格挡反击]]炫技。
+|benefit=当你的敌人正在使用[[猛力攻击]]，而你成功以适时格挡反击炫技格挡其攻击并随即发动反击时，你可以将该敌人当前从猛力攻击获得的伤害加值加到你自己的伤害掷骰上，但你不会承受该敌人猛力攻击带来的攻击检定减值。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=70721.msg663695#msg663695 【ACG】专长（Feat）]，译者：傻豆；按 AoN 核对过。
+|source=ACG
+|source_name=进阶职业指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Seize%20Advantage
+}}

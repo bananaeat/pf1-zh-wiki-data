@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Wilderness Origins pg. 14），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=葛藤入侵
+|english_name=Kudzu Invasion
+|categories=战斗
+|description=除了遮蔽生物的视线，你的藤蔓还会勒伤它们的身体。
+|prerequisites=敏捷13，[[高等擒抱]]，[[精通擒抱]]，[[精通徒手打击]]，[[葛藤绞]]，基本攻击加值+6或[[武僧]]6级，[[藤蔓莱西]]。
+|benefit=当你用葛藤绞专长使一个生物目盲时，你还可以对其造成你的徒手打击伤害。
+|source=WO
+|source_name=荒野源始
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Kudzu%20Invasion
+}}

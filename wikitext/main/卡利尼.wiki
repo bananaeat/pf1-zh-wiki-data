@@ -1,33 +1,42 @@
-<div class="well" style="margin:.2em 0"><small>'''本页尚未汉化。'''民间汉化的 CHM 合集里没有这个种族，正文取自 [https://aonprd.com Archives of Nethys] 的英文原文。认领翻译见 [[待办事项]]。</small></div>
+{{Source|怪物图鉴5|Bestiary 5}}
 {{速查导航|here=种族}}
 {{种族卡
 |属性=+2敏捷，+2体质，-2智力
 |速度=30尺
+|视觉=看破黑暗
 }}
-{{种族卡
-|属性=+2敏捷，+2体质，-2智力
-|速度=30尺
-}}
-'''卡利尼'''（Caligni）是 Pathfinder 1st Edition 的一个种族。
+'''卡利尼'''（Caligni）是一个古老的名词，指代如今统称为[[幽暗亚种|幽暗之民]]的那些种族，幽暗之民的社群有时仍用它来自称。无数世代以前，这些地底居民曾向往宏大的命运，若非其操控者[[幽暗之魂]]有计划地使他们退化，他们或许已经实现。然而直到今日，幽暗之民中仍时而诞生相貌与古代先祖极为相像的个体，而[[幽暗潜行者]]至今仍在模仿这些先祖。这些个体是幽暗之魂摆弄之前那个时代的返祖者，被直接称为“卡利尼”，可能诞生于任何幽暗之民种族之中，提醒着族人那些半已遗忘的梦想。
 
-'''Source''' ''Bestiary 5 pg. 66''
+卡利尼的诞生是一个重大的征兆，许多幽暗之民都会为之庆祝。然而，成长中的卡利尼威胁到幽暗之民社会的种姓氏族，或冒犯幽暗之魂领主的情况并不少见；因此大多数卡利尼无法在幽暗之民社会中活到成年，死于可疑的意外或神秘的谋杀。最精明的卡利尼会预见到族人的背叛并离开，到幽暗地域的别处寻找家园，把在其他幽暗之民中学到的本领用于自己，或用于那些不那么背信弃义的盟友。卡利尼身高接近6尺，体重却可低至125磅。他们常被误认为幽暗潜行者，不过在厚重的裹布之下，他们的面容更为分明，各具特色。他们的皮肤漂白般灰白，到肢端逐渐加深为黑曜石色。卡利尼的衰老速度与[[半精灵]]相同，通常无法生出同类，而是诞下更常见的幽暗之民类型——通常是[[幽暗匍匐者]]。
 
-The name “caligni” is an ancient term for the races now collectively known as dark folk, sometimes still used by dark folk communities to refer to themselves. Untold generations ago, these subterranean dwellers aspired to grand destinies, and might have achieved them if not for the planned degeneration meted out by their controllers, the owbs. Yet even today, dark folk are sometimes born bearing an uncanny likeness to the ancients that dark stalkers still imitate. Throwbacks to the time before owb tampering, these individuals—called simply “caligni”—might be born from any dark folk race, reminders of their people’s half-remembered dreams.
+大多数卡利尼冒险者会成为[[盗贼]]和[[杀手]]，接受幽暗匍匐者和幽暗潜行者同胞的训练。有些成为[[炼金术师]]，而最堕落的那些则作为咒法师和[[召唤师]]与幽暗之魂交流。
 
-The birth of a caligni is a momentous sign, celebrated by many dark folk. Yet it’s not uncommon for a maturing caligni to threaten the caste-clans of dark folk society or offend an owb overlord; as a result, most caligni don’t survive to adulthood in dark folk society, falling victim to suspicious accidents or mysterious murders. The canniest caligni foresee their people’s treachery and leave, seeking homes elsewhere in the Darklands, and putting the talents they have learned among other dark folk to use in their own service, or in that of less treacherous allies. Caligni measure close to 6 feet tall but weigh as little as 125 pounds. They’re often mistaken for dark stalkers, though their features are more defined and individually distinctive beneath their thick wrappings. Their skin is bleached gray, deepening to obsidian at the extremities. Caligni age at the same rate as half-elves, and don’t typically breed true, instead giving birth to more common dark folk types—typically dark creepers.
+== 卡利尼种族特性 ==
 
-Most caligni adventurers become rogues and slayers, adopting the training of their dark creeper and dark stalker brethren. Some become alchemists, and the most depraved commune with the owbs as conjurers and summoners.
+卡利尼由其职业等级定义——他们没有种族生命骰。所有卡利尼都拥有以下种族特性。
 
-== Caligni Racial Traits ==
+=== +2敏捷，+2体质，-2智力 ===
 
-Caligni are defined by their class levels—they don’t have racial Hit Dice. All caligni have the following racial traits.
-'''+2 Dexterity, +2 Constitution, –2 Intelligence:''' Caligni are quick and resilient, but generations of isolation and oppression have made them slow to accept new ideas.
-'''Normal Speed:''' Caligni have a base speed of 30 feet.
-'''See in Darkness:''' Caligni can see perfectly in darkness of any kind, including that created by ''deeper darkness''.
-'''Light Sensitivity:''' Caligni are dazzled in areas of bright light.
-'''Death Throes:''' When a caligni is slain, its body combusts in a flash of searing light. All creatures within a 5-foot burst must succeed at a Fortitude save (DC = 10 + 1/2 the caligni’s Hit Dice + the caligni’s Constitution bonus) or be dazzled for 1d4 rounds. The corpse left behind is a third of the caligni’s size, withered and unrecognizable as the individual. ''Raise dead'' and similar spells cast upon these remains restore a caligni as normal.
+卡利尼敏捷而坚韧，但世世代代的隔绝与压迫使他们接受新观念的速度很慢。
 
-本页正文取自 [https://aonprd.com/RacesDisplay.aspx?ItemName=Caligni Archives of Nethys]。全部种族见 [[种族]]。
+=== 标准速度 ===
+
+卡利尼的基本速度为30尺。
+
+=== 看破黑暗 ===
+
+卡利尼能在任何种类的黑暗中完美视物，包括[[深幽黑暗术]]造成的黑暗。
+
+=== 强光敏感 ===
+
+卡利尼在明亮光照的区域内会[[目眩]]。
+
+=== 死亡阵痛 ===
+
+卡利尼被杀死时，其躯体会在一道灼目的强光中爆燃。5尺爆发范围内的所有生物必须通过一次强韧豁免（DC = 10 + 卡利尼生命骰的一半 + 卡利尼的体质加值），否则会目眩1d4轮。留下的尸体缩小到卡利尼体型的三分之一，干枯得无法辨认出个体。对这些遗骸施放[[死者复活]]及类似法术，可如常复活卡利尼。
+
+本页译自纯美苹果园论坛灯泡powerbult 的[[幽暗生物，卡利尼]]页译文，按 AoN 核对过。全部种族见 [[种族]]。
 
 [[分类:种族]]
-[[分类:待汉化]]
+[[分类:怪物种族]]
+{{种族}}

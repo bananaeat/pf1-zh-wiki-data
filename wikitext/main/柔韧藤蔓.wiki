@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Wilderness Origins pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=柔韧藤蔓
+|english_name=Sinuous Vines
+|pfs=否
+|description=你的藤蔓可以缠绕在你所擒抱的敌人身上。
+|prerequisites=敏捷13，[[精通擒抱]]，[[精通徒手打击]]，基本攻击加值+6，[[伽瑟兰]]。
+|benefit=你在进行擒抱的战技检定时获得+2加值，并且在擒抱敌人时，你的翅膀视为一只空闲的手。你可以用翅膀维持擒抱，同时仍用其他肢体进行攻击。用翅膀维持擒抱期间，你无法飞行。
+|source=WO
+|source_name=荒野源始
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Sinuous%20Vines
+}}

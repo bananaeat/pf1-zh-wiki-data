@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Guide to the River Kingdoms pg. 55），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=托维特卫士
+|english_name=Touvette Defender
+|description=为了你的王国和将军，你可以击倒威胁你家园的敌人。
+|prerequisites=托维特亲和。
+|benefit=每天一次，你可以用一次普通近战攻击尝试惩击托维特的敌人。你的攻击检定获得+4士气加值，并且每级造成1点额外伤害。就本专长而言，托维特的敌人指任何不是托维特公民的人或生物。你只能在托维特境内使用这一能力。
+|source=GttRK
+|source_name=河域诸国指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Touvette%20Defender
+}}

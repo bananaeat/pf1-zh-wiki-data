@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 91），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=亵渎研习
+|english_name=Profane Studies
+|description=你对邪魔的研究，使你在召唤或对抗它们时占据优势。
+|prerequisites=智力13，知识（位面）4级，能够施放[[召唤怪物]]法术。
+|benefit=你在涉及邪恶异界生物的知识（位面）检定上获得+5加值。此外，当你施放召唤怪物法术来召唤邪恶异界生物时，在决定持续时间时，将你的施法者等级视为高2级。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Profane%20Studies
+}}

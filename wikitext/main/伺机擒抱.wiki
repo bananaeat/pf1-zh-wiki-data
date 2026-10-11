@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Antihero's Handbook pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=伺机擒抱
+|english_name=Opportunistic Grappler
+|categories=战斗
+|description=当有人抓住你时，你能轻易触及那名对手的弱点。
+|benefit=当你被擒抱时（但你自己控制擒抱时除外），你可以对擒抱你的生物使用[[阴招]][[战技]]，不引发[[借机攻击]]，战技检定也不承受减值。如果你拥有[[精通阴招]]专长，则你进行这种阴招的战技检定获得+2加值，且阴招施加的状态持续时间比正常多1轮。此加值与精通阴招和[[高等阴招]]专长所提供的加值叠加。
+|source=A'sH
+|source_name=反英雄手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Opportunistic%20Grappler
+}}

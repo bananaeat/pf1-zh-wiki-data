@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 91），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=催吐排毒
+|english_name=Purging Emesis
+|description=你学会了通过呕吐来排出毒素。
+|prerequisites=[[强韧加强]]。
+|benefit=作为一个会引发借机攻击的全回合动作，你可以尝试让自己呕吐，以终止一项已摄入的毒素效果。如果你对最初的效果新进行一次豁免检定并成功，你会陷入[[反胃]]状态1轮，但终止该毒素效果，如同你已通过了所需的各次豁免检定。你的呕吐物会使一个相邻方格变得湿滑（《核心规则书》412页），直到呕吐物被清理（通常需要1个全回合）或干涸（通常为1小时）。使用本专长后，你必须至少等待1小时并摄入食物或饮水，才能再次使用。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Purging%20Emesis
+}}

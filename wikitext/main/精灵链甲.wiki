@@ -3,7 +3,7 @@
 |english_name=Elven Chain
 |cat=特殊魔法护甲
 |base=[[秘银]][[链甲]]
-|aura=无灵光（非魔法）
+|aura=无灵氲（非魔法）
 |slot=护甲
 |price=5,150 gp
 |weight=20磅

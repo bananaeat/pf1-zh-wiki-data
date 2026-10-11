@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Plane-Hopper's Handbook pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=反射结晶尘埃
+|english_name=Reflexive Crystalline Dust
+|description=警惕让你学会了在察觉危险的瞬间就显现出结晶尘埃。
+|prerequisites=[[迅捷结晶尘埃]]，[[秩裔]]，结晶尘埃种族特性。
+|benefit=当你成为一次攻击的目标时，你可以用一个直觉动作激活你的结晶尘埃能力。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Reflexive%20Crystalline%20Dust
+}}

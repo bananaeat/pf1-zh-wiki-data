@@ -1,51 +1,77 @@
-<div class="well" style="margin:.2em 0"><small>'''本页尚未汉化。'''民间汉化的 CHM 合集里没有这个种族，正文取自 [https://aonprd.com Archives of Nethys] 的英文原文。认领翻译见 [[待办事项]]。</small></div>
+'''来源''' Paizo 博客《The Gauntlet Will Be Ours!》第 1 页
 {{速查导航|here=种族}}
 {{种族卡
+|属性=+2力量、敏捷或体质（任选其一）
 |体型=中型
 |速度=30尺
+|语言=通用语
 }}
-{{种族卡
-|体型=中型
-|速度=30尺
-}}
-'''原始人类'''（Primitive Human）是 Pathfinder 1st Edition 的一个种族。
+'''原始人类'''（Primitive Human）是远比现代后裔原始的早期人类。他们仍有能力创作伟大的艺术作品、解决复杂的问题，但生存的现实意味着大多数人每天都得为活命而战。因此，原始人类把更多时间花在磨练躲避捕食者和采集食物的基本技能上，而不是更高层次的追求，这使他们无法像现代人类那样多才多艺。
 
-'''Source''' ''Paizo Blog: The Gauntlet Will Be Ours! pg. 1''
-Early humans were far more primitive than their modern descendants. While they still had the capacity to create great works of art and solve complex problems, the reality of their existence meant that most had to fight for survival on a daily basis. As a result, primitive humans devoted more of their time to honing the basic skills of to avoid predators and gather food than to higher-minded pursuits. This prevented them from becoming as versatile as modern humans.
+=== 体貌描述 ===
 
-'''Physical Description''': While quite varied in terms of height, skin tone, and body types, most primitive humans stand about 6 inches shorter than their modern descendants. In addition, most have a great deal of body hair and are generally unkempt. Most have a tan skin complexion due to an excessive amount of time spent outdoors, gathering food and hunting prey.
+原始人类在身高、肤色和体型上差异很大，但多数比其现代后裔矮约6英寸。此外，大多数原始人类体毛浓密，通常蓬头垢面。由于在户外采集食物、猎取猎物上花了过多时间，多数原始人类的肤色是晒出来的棕褐色。
 
-'''Society''': Primitive humans live in small clans ruled over either by the clan's elders or its most brutal and warlike members. Such clans usually span only a few generations with members frequently mixing with those from other nearby clans. Occasionally a number of clans will band together or gather for a large moot, but such unifications are short-lived unless held together by a particularly powerful or charismatic leader.
+=== 社会 ===
 
-'''Relations''': Primitive humans are fearful of most other races, and this fear often drives them to violence when they come in contact with such outsiders. To them, there is little difference between an elf and a goblin; both are a threat to the clan. They view half-orcs and half-elves with distrust, but some have been known to accept such exotic kin into their fold, occasionally even viewing them as superior, thus placing them in a position of importance.
+原始人类生活在小型氏族中，由氏族长老或最凶残、最好战的成员统治。这样的氏族通常只延续几代人，成员经常与附近其他氏族的人混居通婚。偶尔会有若干氏族联合起来，或聚集举行大型部族大会，但除非有特别强大或有魅力的领袖把他们维系在一起，这种联合都很短暂。
 
-'''Alignment and Religion''': Primitive humans rarely follow any set of laws other than those of the tribe, and even these are often quite flexible. Likewise, codified concepts of good and evil are somewhat extreme for these simple folk, who often spend most of their time just trying to survive in a harsh and unforgiving world. There are exceptions of course—some primitive humans strive to help their fellows, and others embrace total barbarism and wanton destruction. Most primitive humans have only a simple understanding of religion, worshiping the forces of nature and spirits of the world around them. They are known to make offerings and sacrifices to placate their deities and garner their favor.
+=== 关系 ===
 
-'''Adventurers''': While most primitive humans stay with their clans, some set out on their own to explore the world, and still others are forced out due to some conflict or misdeed. These outcasts sometimes join up with others to improve their chances of survival or to form a group more capable of taking on dangerous challenges.
+原始人类害怕大多数其他种族，这种恐惧在接触外人时常常驱使他们诉诸暴力。对他们来说，[[精灵]]和[[地精]]几乎没有区别，两者都是对氏族的威胁。他们不信任[[半兽人]]和[[半精灵]]，但也有人接纳这些异族血统者加入自己的族群，偶尔甚至视其为更优越的存在，让他们居于重要的地位。
 
-'''Male Names''': Arn, Bak, Farg, Gon, Merd, Oog, Tral, Ugg.
+=== 阵营和宗教 ===
 
-'''Female Names''': Ala, Desa, Fola, Ili, Hoda, Marg, Sus, Ula.
+原始人类很少遵循部落法律之外的任何法则，就连部落法律也往往相当灵活。同样，对这些淳朴的人来说，成文的善恶概念有些极端——他们往往把大部分时间花在于严酷无情的世界里求生上。当然也有例外：有些原始人类努力帮助同伴，另一些则拥抱彻底的野蛮和肆意的破坏。大多数原始人类对宗教只有简单的理解，崇拜自然的力量和周围世界的灵体。他们以献上供品和祭品来安抚神祇、赢得其眷顾而闻名。
 
-== Primitive Human Racial Traits ==
+=== 冒险 ===
 
-'''+2 to Strength, Dexterity, or Constitution''': Primitive humans are as varied in their physical abilities as modern humans, though the lack the same mental flexibility.
+虽然大多数原始人类留在氏族中，但也有一些人独自出发探索世界，另一些人则因冲突或过错被逐出氏族。这些被放逐者有时会与他人结伴，以提高生存几率，或组成一支更有能力应对危险挑战的队伍。
 
-'''Medium''': Primitive humans are Medium creatures and have no bonuses or penalties due to their size.
+=== 常见男名 ===
 
-'''Normal Speed''': Primitive humans have a base speed of 30 feet.
+Arn，Bak，Farg，Gon，Merd，Oog，Tral，Ugg。
 
-'''Frightened by Magic''': Primitive humans are uneasy around magic, especially spells that have large, impressive effects. Whenever a primitive human is damaged or affected by a spell or supernatural ability that has an obvious visual component, the human is shaken for 1 round (subject to GM discretion). A primitive human that gains the ability to cast spells from a class feature is unaffected by this racial trait.
+=== 常见女名 ===
 
-'''Primitive Feat''': Primitive humans receive Endurance, Fleet, Great Fortitude, Iron Will, Lightning Reflexes, or Toughness as a bonus feat at 1st level.
+Ala，Desa，Fola，Ili，Hoda，Marg，Sus，Ula。
 
-'''Savage Skills''': Primitive humans receive a +2 racial bonus on Climb, Survival, and Swim skill checks.
+== 原始人类种族特性 ==
 
-'''Savage Surge''': Once per day, a primitive human can call upon a well of inner savagery. This grants a +2 bonus to any one Strength-based skill check, Strength check, or weapon damage roll. Using this ability is a free action, but it must be used before the check or attack roll is made.
+=== +2力量、敏捷或体质 ===
 
-'''Languages''': Primitive humans begin play speaking Common. Those with high Intelligence scores can choose any languages they want (except secret languages, such as Druidic).
+原始人类在身体能力上与现代人类一样千差万别，但缺乏同样的心智灵活性。
 
-本页正文取自 [https://aonprd.com/RacesDisplay.aspx?ItemName=Primitive%20Human Archives of Nethys]。全部种族见 [[种族]]。
+=== 中型体型 ===
+
+原始人类是中型生物，不因体型获得任何加值或减值。
+
+=== 标准速度 ===
+
+原始人类的基本速度为30尺。
+
+=== 惧怕魔法 ===
+
+原始人类对魔法感到不安，尤其是效果宏大而醒目的法术。每当原始人类受到具有明显视觉成分的法术或超自然能力的伤害或影响时，他会[[战栗]]1轮（由GM裁定）。通过职业特性获得施法能力的原始人类不受此种族特性影响。
+
+=== 原始专长 ===
+
+原始人类在1级时获得[[坚忍]]、[[快速移动]]、[[强韧加强]]、[[钢铁意志]]、[[闪电反射]]或[[健壮]]之一作为[[奖励专长]]。
+
+=== 野性技能 ===
+
+原始人类在[[攀爬]]、[[生存]]和[[游泳]]技能检定上获得+2种族加值。
+
+=== 野性爆发 ===
+
+每日一次，原始人类可以调用内在的野性之源。这会使他在一次基于力量的技能检定、力量检定或武器伤害掷骰上获得+2加值。使用此能力是一个[[自由动作]]，但必须在进行检定或攻击掷骰之前使用。
+
+=== 起始语言 ===
+
+原始人类开始时会说通用语。智力较高的原始人类可以选择任何语言（德鲁伊语等秘密语言除外）。
+
+本页译自 CHM 汉化的「原始人」（[https://pf1chm.pages.dev/topics/zhrace5new.htm 原文]），按 AoN 核对过。全部种族见 [[种族]]。
 
 [[分类:种族]]
-[[分类:待汉化]]
+[[分类:其他种族]]
+{{种族}}

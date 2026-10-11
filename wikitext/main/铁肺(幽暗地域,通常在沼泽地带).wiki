@@ -4,7 +4,7 @@
 |type=地区
 |pfs=否
 |prerequisites=幽暗地域，通常在沼泽之下
-|description=由于沼泽气体不断渗入你的巢穴隧道和房间，你可以屏住呼吸的时间延长一倍，并在对抗吸入类毒药的豁免检定获得+2背景加值。
+|description=由于沼泽气体不断渗入你的巢穴隧道和房间，你可以屏息的时间延长一倍，并在对抗吸入类毒药的豁免检定获得+2背景加值。
 |source_name=格拉里昂的狗头人
 |source_url=https://pf1chm.pages.dev/topics/zh93978f31f4.htm
 }}

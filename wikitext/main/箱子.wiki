@@ -1,6 +1,7 @@
 {{装备
 |name=箱子
 |english_name=Chest
+|aon=EquipmentMiscDisplay.aspx?ItemName=Chest%20(huge)
 |cat=冒险装备
 |price=25 gp（超大型）；10 gp（大型）；5 gp（中型）；2 gp（小型）
 |weight=250磅（超大型）；100磅（大型）；50磅（中型）；25磅（小型）

@@ -1,0 +1,11 @@
+{{Feat
+|name=深层毒素
+|english_name=Deep Toxin
+|description=你能把毒素送入敌人的血肉深处。
+|prerequisites=[[要害打击]]，基本攻击加值+6，[[工艺]]（制毒）6级或[[用毒]]职业能力。
+|benefit=当你用涂了毒的武器进行要害打击时，你把该毒药的持续时间增加1个频率增量（例如，一剂大型蝎子毒将持续7轮而非6轮，一剂卓尔毒将持续3分钟而非2分钟）。该毒药立即生效，没有潜伏期。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=164496.msg1395137#msg1395137 【DTT】阴招战术工具箱（Dirty Tactics Toolbox）]，译者：萌新也有滥强的心；按 AoN 核对过。
+|source=DTT
+|source_name=阴招战术工具箱
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Deep%20Toxin
+}}

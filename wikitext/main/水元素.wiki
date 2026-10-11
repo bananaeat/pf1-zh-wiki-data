@@ -163,7 +163,7 @@
 |nofooter=1
 }}
 {{怪物
-|name=菁英水元素
+|name=高等水元素
 |english_name=Greater Water Elemental
 |cr=9
 |xp=6,400
@@ -260,4 +260,4 @@
 <div class="monster-table-wrap"><table class="wikitable"><tr><th>元素</th><th>高度</th><th>重量</th><th>漩涡豁免 DC</th><th>漩涡高度</th></tr><tr><td>小型</td><td>4 尺</td><td>34 磅</td><td>13</td><td>10–20 尺</td></tr><tr><td>中型</td><td>8 尺</td><td>280 磅</td><td>15</td><td>10–30 尺</td></tr><tr><td>大型</td><td>16 尺</td><td>2250 磅</td><td>19</td><td>10–40 尺</td></tr><tr><td>超大型</td><td>32 尺</td><td>18000 磅</td><td>22</td><td>10–50 尺</td></tr><tr><td>菁英</td><td>36 尺</td><td>21000 磅</td><td>25</td><td>10–60 尺</td></tr><tr><td>长老</td><td>40 尺</td><td>24000 磅</td><td>28</td><td>10–60 尺</td></tr></table></div>
 }}
 
-本页译自《[[怪物图鉴]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=53033.msg620838#msg620838 【B1】元素（Elemental）]，译者：原子能青蛙）。

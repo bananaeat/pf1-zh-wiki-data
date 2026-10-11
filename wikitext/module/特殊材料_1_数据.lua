@@ -8,7 +8,7 @@ return {
         ["净土青铜"] = { zh = "净土青铜", en = "Elysian Bronze", page = "净土青铜", hardness = "10", hp = "30", summary = "对魔法兽、人形怪物伤害+1；防具对其天生武器给伤害减免1–3/—", applies = "武器、防具、弹药" },
         ["卡弗莱特矿石"] = { zh = "卡弗莱特矿石", en = "Caphorite", page = "卡弗莱特矿石", hardness = "", hp = "", summary = "弹药命中时熄灭10尺内非魔法光源，并压制2环以下光亮法术1d4+1轮", applies = "弹药" },
         ["墓石"] = { zh = "墓石", en = "Cryptstone", page = "墓石", hardness = "10", hp = "30", summary = "钝击武器对不死生物伤害+1（重击加倍），非魔法武器可伤虚体", applies = "武器、弹药" },
-        ["天使缎"] = { zh = "天使缎", en = "Angelskin", page = "天使缎", hardness = "5", hp = "5", summary = "轻／中型皮质防具；邪恶灵光强度-10HD；20%把邪恶穿戴者视为中立", applies = "防具" },
+        ["天使缎"] = { zh = "天使缎", en = "Angelskin", page = "天使缎", hardness = "5", hp = "5", summary = "轻／中型皮质防具；邪恶灵氲强度-10HD；20%把邪恶穿戴者视为中立", applies = "防具" },
         ["太阳丝绸"] = { zh = "太阳丝绸", en = "Sunsilk", page = "太阳丝绸", hardness = "", hp = "", summary = "衣物给伤害减免 2/钝击，可作防具软内衬", applies = "防具、其他" },
         ["宝座琉璃"] = { zh = "宝座琉璃", en = "Throneglass", page = "宝座琉璃", hardness = "10", hp = "30", summary = "强度如钢；持用者豁免心灵效果后储能，命中时干扰目标施法", applies = "武器" },
         ["寒铁"] = { zh = "寒铁", en = "Cold Iron", page = "寒铁", hardness = "10", hp = "30", summary = "克制恶魔与精类生物；武器造价翻倍，首次附魔另加2,000 gp", applies = "武器、弹药" },

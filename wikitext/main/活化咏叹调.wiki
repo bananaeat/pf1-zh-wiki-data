@@ -21,7 +21,7 @@
 |immune=构装体特性
 |weaknesses=不和谐;音波易伤
 |speed=30 尺
-|melee=2 猛击 +18（2d10+5）
+|melee=2 挥击 +18（2d10+5）
 |space=10 尺
 |reach=10 尺
 |str=21

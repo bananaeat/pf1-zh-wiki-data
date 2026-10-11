@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dungeon Denizens Revisited pg. 18），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=泥怪低语者
+|english_name=Ooze Whisperer
+|description=你与黏怪和泥怪之间有着特殊的联系。
+|prerequisites=野性认同职业能力。
+|benefit=对于通常只影响动物的法术和特殊能力，你可以把泥怪当作智力1的魔法兽来选作目标，不过它们的豁免检定获得+4加值。你可以使用野性认同影响泥怪，难度与影响智力1的魔法兽一样轻松。
+|source_name=再探地城住民
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Ooze%20Whisperer
+}}

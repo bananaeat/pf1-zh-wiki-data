@@ -1,0 +1,14 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder Campaign Setting pg. 151），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=扭曲心智
+|english_name=Warped Mind
+|pfs=否
+|description=你没有被摧毁心智的现实扭曲所压垮，反而获得了一种近乎偏执的洞察清明与意志之力，几乎到了疯狂笃定的地步。
+|prerequisites=感知15，世界之伤亲和。
+|benefit=任何试图读取你的思想、通过心灵感应与你交流或以其他方式接触你心灵的人，会晕眩1d4轮（意志豁免，DC 15+你的魅力调整值，成功则无效）。此外，你在先攻检定上获得+2加值，在意志豁免上获得+1加值。
+|special=你在所有基于智力的技能检定上受到-1减值。
+
+你只能在1级时获得本专长。
+|source_name=探索者编年史：战役设定
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Warped%20Mind
+}}

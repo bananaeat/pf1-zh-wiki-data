@@ -1,3 +1,0 @@
-<includeonly>{{动物伙伴卡片|name={{{name|}}}|en={{{en|}}}|ctype={{{ctype|}}}|source={{{source|}}}|flavor={{{flavor|}}}|page={{{page|}}}|size={{{size|}}}|speed={{{speed|}}}|ac={{{ac|}}}|attack={{{attack|}}}|abil={{{abil|}}}|sa={{{sa|}}}|sq={{{sq|}}}|other={{{other|}}}|advlv={{{advlv|}}}|adv_size={{{adv_size|}}}|adv_speed={{{adv_speed|}}}|adv_ac={{{adv_ac|}}}|adv_attack={{{adv_attack|}}}|adv_abil={{{adv_abil|}}}|adv_sa={{{adv_sa|}}}|adv_sq={{{adv_sq|}}}|adv_other={{{adv_other|}}}|notes={{{notes|}}}|ai={{{ai|}}}}}</includeonly><noinclude>[[动物伙伴]]页检索器的结果模板，直接套 {{动物伙伴卡片}}。
-
-[[分类:模板]]</noinclude>

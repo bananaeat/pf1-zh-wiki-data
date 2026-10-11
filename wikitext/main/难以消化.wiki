@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dungeon Denizens Revisited pg. 18），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=难以消化
+|english_name=Indigestible
+|description=你对泥怪的酸液获得了抗性。
+|prerequisites=宿敌（泥怪），或曾在被泥怪吞没后幸存。
+|benefit=你获得酸抗性5。
+|source_name=再探地城住民
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Indigestible
+}}

@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Martial Arts Handbook pg. 26），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=刀刃风暴
+|english_name=Storm of Blades
+|categories=战斗
+|description=你的技艺释放出一股令人眼花缭乱的斩击洪流。
+|prerequisites=[[武器专攻]]（挥砍武器），基本攻击加值+6。
+|benefit=以一个[[标准动作]]，你可以用所选的武器进行一次单次攻击，同时布下一个持续到你下一回合开始的切割旋涡。任何在回合开始时受此武器威胁的生物，受到等同于你力量加值或敏捷加值（取较大者）的伤害。当你的基本攻击加值达到+11时，你还要加上你武器的基础伤害。当你的基本攻击加值达到+16时，这一伤害获得[[扰乱心神]]通用怪物规则的效果，但豁免失败的生物只会陷入[[恶心]]状态。你每分钟只能使用一次此专长的好处。
+|source=MAH
+|source_name=武术手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Storm%20of%20Blades
+}}

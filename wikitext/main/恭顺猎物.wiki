@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Haunted Heroes Handbook pg. 5），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=恭顺猎物
+|english_name=Respectful Prey
+|description=你学会了用特殊的供品安抚凶残的掠食者。
+|benefit=每天最多3+你的感知调整值次，你可以准备一份特殊供品。这需要5分钟和价值至少5gp的食材、香料及其他配料；准备好的供品在8小时后会变质。你可以用一个标准动作把这份供品献给一个非类人生物（即使是通常不进食的生物）。供品的配料价值必须至少为5gp×该生物的CR。除非该生物通过一次意志豁免（DC=10+你的等级的一半+你的感知调整值），否则这份供品会使其对你的态度改善一级。这一态度调整只持续5分钟，除非在此期间该生物的态度被进一步调整，例如通过[[交涉]]技能。同一生物在24小时内不会受到不止一次以这种方式献上的供品的影响。
+|source=HHH
+|source_name=闹鬼英雄手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Respectful%20Prey
+}}

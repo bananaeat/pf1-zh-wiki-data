@@ -3,7 +3,7 @@
 |english_name=Darkwood Shield
 |cat=特殊魔法盾牌
 |base=[[重木盾]]
-|aura=无灵光（非魔法）
+|aura=无灵氲（非魔法）
 |slot=盾牌
 |price=257 gp
 |weight=5磅

@@ -25,7 +25,7 @@
 |-
 | 3级法术 || CRB || 野兽形态 I（beast shape I） 火焰箭（flame arrow） 飞行术（fly） 火球术（fireball） 加速术（haste） 英雄气概（heroism） 人类定身术（hold person） 锐锋术（keen edge）， 闪电束（lightning bolt） 高等魔化武器（magic weapon, greater） || 魅影驹（phantom steed） 防护能量伤害（protection from energy） 狂暴术（rage） 力竭射线（ray of exhaustion） 雪风暴（sleet storm） 臭云术（stinking cloud） 吸血鬼之触（vampiric touch） 水中呼吸（water breathing） 风墙术（wind wall）
 |-
-| APG || 水牢法球（aqueous orb） 血之讯息（blood biography） 风之衣（cloak of winds） 斗转星移（draconic reservoir） 元素光环（elemental aura） || 水流爆发（hydraulic torrent） 痛苦打击（pain strike） 暮光之刃（twilight knife） 武器幻化（versatile weapon） || 
+| APG || 水牢法球（aqueous orb） 血之讯息（blood biography） 风之衣（cloak of winds） 斗转星移（draconic reservoir） 元素灵氲（elemental aura） || 水流爆发（hydraulic torrent） 痛苦打击（pain strike） 暮光之刃（twilight knife） 武器幻化（versatile weapon） || 
 |-
 | UM || 潜沙走石（burrow） 无尽之眼（countless eyes） 脓疱之疹（eruptive pustules） 痛苦异变（excruciating deformation） 力场钩链（force hook charge） || 充能之拳（force punch） 惨嚎剧痛（howling agony） 类人形态 I（monstrous physique I） 亡灵形态 I（undead anatomy I） 地狱幻景（vision of hell） || 
 |-

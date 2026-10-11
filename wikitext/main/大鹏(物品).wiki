@@ -3,6 +3,7 @@
 {{装备
 |name=大鹏
 |english_name=Roc
+|aon=EquipmentMiscDisplay.aspx?ItemName=Roc%20(common)
 |cat=坐骑与宠物
 |price=10,800 gp（战斗训练）；7,200 gp（普通）
 |weight=—

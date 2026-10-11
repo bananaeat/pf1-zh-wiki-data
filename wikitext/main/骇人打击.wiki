@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #81: Shifting Sands pg. 73），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=骇人打击
+|english_name=Terrifying Strike
+|description=你的触碰会散播恐惧。
+|prerequisites=绝望灵氲特殊能力，木乃伊。
+|benefit=任何被你的挥击攻击击中的生物，必须通过一次与你的绝望灵氲DC相同的意志豁免，否则[[战栗]]1d4轮。如果该生物已经处于战栗、[[惊惧]]或[[恐慌]]状态，则改为[[麻痹]]1轮。这是一种影响心智的恐惧效应。
+|source_name=冒险之路81：流沙
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Terrifying%20Strike
+}}

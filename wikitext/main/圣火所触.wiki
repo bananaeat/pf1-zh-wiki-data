@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 57），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=圣火所触
+|english_name=Touched by Sacred Fire
+|categories=组织
+|pfs=否
+|description=经常接触红宝石王子的元素守护者（例如科梅特那名隐形的火元素追随者詹赫利亚），让你能够无视许多非自然的高温来源，只是这种努力有时会使你难以防御攻击。
+|prerequisites=[[坚忍]]，重生卫阶位，重生卫15TPA。
+|benefit=你获得火焰抗性5，并在所有抵抗火焰或高温效应的豁免检定上获得+2加值。你可以以迅捷动作将火焰抗性提高到10，豁免加值提高到+4，持续到你的下一回合；这会使你直到下一回合都失去对AC的敏捷加值（使你易受偷袭）。
+|source=FM
+|source_name=组织指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Touched%20by%20Sacred%20Fire
+}}

@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=偏转灵氲|en=Deflection Aura|type=Su|domain=保护领域|sub=防御子域 (Defense)|sub_name=防御子域|source=进阶玩家指南|text=每天一次，你能放出持续轮数为牧师等级的20尺灵氲，盟友获得AC+2偏斜加值和+2[[战技]]防御。此能力取代[[保护领域#抗力之触 (Resistant Touch, Sp)|抗力之触]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

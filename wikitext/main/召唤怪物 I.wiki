@@ -37,10 +37,10 @@
 <tr><td>恐爪龙* (Dinosaur, deinonychus)</td><td>–</td><td>巨黄蜂* (Giant wasp)</td><td>–</td><td>翼龙* (Dinosaur, pteranodon)</td><td>–</td></tr>
 <tr><td>凶暴猿* (Dire ape)</td><td>–</td><td>灰熊* (Grizzly bear)</td><td>–</td><td>犀牛* (Rhinoceros)</td><td>–</td></tr>
 <tr><td>凶暴野猪* (Dire boar)</td><td>–</td><td>地狱犬 (Hell hound)</td><td>邪恶, 秩序</td><td></td><td></td></tr>
-<tr><td>恐狼* (Dire wolf)</td><td>–</td><td>獒首圣使 (Hound archon)</td><td>善良, 秩序</td><td></td><td></td></tr>
+<tr><td>凶暴狼* (Dire wolf)</td><td>–</td><td>獒首圣使 (Hound archon)</td><td>善良, 秩序</td><td></td><td></td></tr>
 <tr><td>5环</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>甲龙* (Dinosaur, ankylosaurus)</td><td>–</td><td>凶暴狮* (Dire lion)</td><td>–</td><td>虎鲸* (Dolphin, orca)</td><td>–</td></tr>
-<tr><td>巴布魔 (Demon, babau)</td><td>混乱, 邪恶</td><td>元素 (大型) (Elemental, large)</td><td>元素</td><td>火[[蜥蜴]] (Salamander)</td><td>邪恶</td></tr>
+<tr><td>暴怖魔 (Demon, babau)</td><td>混乱, 邪恶</td><td>元素 (大型) (Elemental, large)</td><td>元素</td><td>火[[蜥蜴]] (Salamander)</td><td>邪恶</td></tr>
 <tr><td>胡须魔 (Bearded devil)</td><td>邪恶, 秩序</td><td>巨海鳗* (Giant moray eel)</td><td>–</td><td>披毛犀* (Woolly rhinoceros)</td><td>–</td></tr>
 <tr><td>巴拉尼天使 (Bralani azata)</td><td>混乱, 善良</td><td>链魔 (Kyton)</td><td>邪恶, 秩序</td><td>锡尔族 (Xill)</td><td>邪恶, 秩序</td></tr>
 <tr><td>6环</td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -56,7 +56,7 @@
 <tr><td>8环</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>尖刺魔 (Barbed devil)</td><td>邪恶, 秩序</td><td>元素 (长老) (Elemental, elder)</td><td>元素</td><td>狂战魔 (Demon, hezrou)</td><td>混乱, 邪恶</td></tr>
 <tr><td>9环</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>星界神使 (Angel, astral deva)</td><td>善良</td><td>迷诱魔 (Demon, glabrezu)</td><td>混乱, 邪恶</td><td>判魂魔 (Demon, nalfeshnee)</td><td>混乱, 邪恶</td></tr>
+<tr><td>星界使徒 (Angel, astral deva)</td><td>善良</td><td>迷诱魔 (Demon, glabrezu)</td><td>混乱, 邪恶</td><td>判魂魔 (Demon, nalfeshnee)</td><td>混乱, 邪恶</td></tr>
 <tr><td>迦勒天 (Ghaele azata)</td><td>混乱, 善良</td><td>冰魔 (Ice devil)</td><td>邪恶, 秩序</td><td>号手圣使 (Trumpet archon)</td><td>善良, 秩序</td></tr>
 <tr><td>* 对于标记星号的生物, 若你的阵营为善良则带有天界模板 (celestial template), 若你的阵营为邪恶则带有炼狱模板 (fiendish template); 若你的阵营为中立, * 则可以从上述模板中选择一种【编注:《[[怪物图鉴2]]》中新提供的绝对 (resolute) 和熵化 (entropic) 模板, 可供秩序, 混乱或中立阵营施法者使用】.</td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>

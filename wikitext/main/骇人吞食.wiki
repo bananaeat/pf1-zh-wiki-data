@@ -1,0 +1,15 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 88），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=骇人吞食
+|english_name=Horrific Gorging
+|categories=战斗
+|pfs=否
+|description=只需短短几秒的骇人时间，你就能将一具类人生物的身体嚼碎吞下。
+|prerequisites=啮咬攻击，大型或更大，活吞通用怪物能力。
+|benefit=作为一个全回合动作，你可以将一名死亡、[[昏迷]]、[[麻痹]]或以其他方式陷入无助的类人生物完全吞噬，前提是你本来就能用活吞能力吞下它。这样做时，你以重击计算啮咬伤害，并按活吞特殊能力吞下该类人生物。
+
+被吞下生物的盟友若在30尺内且能看见你大快朵颐的骇人场面，必须通过一次意志豁免（DC＝10＋1/2你的生命骰数＋你的魅力调整值），否则陷入[[战栗]]状态，持续1d4轮。本能力的这一部分属于影响心灵的恐惧效果。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Horrific%20Gorging
+}}

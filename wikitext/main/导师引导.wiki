@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Orcs of Golarion pg. 27），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=导师引导
+|english_name=Adept Channel
+|pfs=否
+|description=一些兽人导师与其神祇之间有着更深的联系，能够通过自己的邪徽引导信仰之力。你获得如同牧师一般引导能量的能力。
+|prerequisites=能够施展神术，召唤魔宠职业能力，施法者等级4级，魅力13。
+|benefit=你获得如同[[牧师]]一般的引导能量职业能力，每天可使用2次。该能力在其他方面与牧师的引导能量能力相同，只是你的有效牧师等级等于你的神术施法职业等级减3。但与牧师不同，你每天可引导能量的次数不受魅力调整值影响。
+|source=OoG
+|source_name=格拉利昂的兽人
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Adept%20Channel
+}}

@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Plane-Hopper's Handbook pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=蓄意之死
+|english_name=Deliberate Death
+|categories=起源
+|pfs=否
+|description=有人杀了你：怪物、凶手、士兵、刽子手，都无所谓——总之有人有意识地决定了结你的性命。
+|prerequisites=[[暮行者]]。
+|benefit=每天一次，若你因另一名角色使用的攻击或能力而降至0生命值以下，你可以用一个直觉动作进行一个标准动作。你必须用这个动作攻击或伤害对你造成伤害的那个生物。11级时，你每天可以再使用本专长一次。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Deliberate%20Death
+}}

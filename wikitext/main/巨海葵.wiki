@@ -54,4 +54,4 @@
 <div class="monster-table-wrap"><table class="wikitable"><tr><th>种类</th><th>CR</th><th>体型</th><th>HD</th></tr><tr><td>普通海葵</td><td>1/4</td><td>超小型</td><td>1D8</td></tr><tr><td>蓝发海葵</td><td>1/2</td><td>小型</td><td>2D8</td></tr><tr><td>棺材海葵</td><td>1</td><td>中型</td><td>3D8</td></tr><tr><td>黑森林海葵</td><td>6</td><td>超大型</td><td>9D8</td></tr><tr><td>塞壬之床</td><td>9</td><td>巨型</td><td>14D8</td></tr><tr><td>深海虎葵</td><td>13</td><td>超巨型</td><td>19D8</td></tr></table></div>
 }}
 
-本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=59770.msg555115#msg555115 【B3】巨海葵（Sea Anemone, Giant）]，译者：原子能青蛙）。

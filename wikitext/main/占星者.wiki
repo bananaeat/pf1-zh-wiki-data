@@ -3,7 +3,7 @@
 |name=占星者
 |english_name=Stargazer (Race)
 |type=种族
-|prerequisites=[[人类]]（瓦瑞西安人）
+|prerequisites=[[人类]]（瓦瑞西亚人）
 |description=你多年漂泊于瓦瑞西亚及更远道路，晴朗夜空常追迹格拉利昂天幕星辰。你在知识(地理)和生存检定上获得+1背景加值。
 |source_name=格拉里昂的人类
 |source_url=https://pf1chm.pages.dev/topics/page_1581.html

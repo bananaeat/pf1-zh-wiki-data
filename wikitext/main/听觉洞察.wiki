@@ -1,0 +1,12 @@
+{{Feat
+|name=听觉洞察
+|english_name=Aural Insight
+|description=你能够模仿蝙蝠的回声定位技术。
+|prerequisites=[[盲斗]]，[[精通盲斗]]，[[察觉]]10级。
+|benefit=你可以花费一个移动动作发出声音并倾听回声，从而在直到你的回合结束前获得30尺[[盲感]]。使用此专长需要发出可听见的声音，这会使你的[[隐匿]]检定承受-4减值。
+|special=如果你[[耳聋]]或无法发出声响，则无法使用此专长；在被魔法静音的区域中，你也无法侦测到任何东西。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=171170.msg1440724#msg1440724 【HotD】幽暗地域的英雄/幽域英豪（Heroes of the Darklands）]，译者：萌新也有滥强的心；按 AoN 核对过。
+|source=HotD
+|source_name=幽暗地域英雄
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Aural%20Insight
+}}

@@ -1,6 +1,7 @@
 {{物品
 |name=破损的猩红混绿艾恩石
 |english_name=Scarlet and Green Cabochon (Cracked) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Scarlet%20and%20Green%20Cabochon
 |category=艾恩石
 |aura=中等变化系
 |cl=12

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Demons Revisited pg. 26），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=剧毒恶臭
+|english_name=Toxic Stench
+|pfs=否
+|description=你的恶臭有毒。
+|prerequisites=[[通用怪物规则#恶臭|恶臭]]通用怪物能力，毒素免疫，[[精通恶臭]]，[[健壮]]。
+|benefit=生物受你的恶臭影响的第一轮，还必须针对同一DC通过一次强韧豁免，否则会中毒。如果你的HD不超过10，这种毒与狂雾相同；如果你的HD达到11或更多，该毒的效果还会额外加上1轮的[[困惑]]。
+|source_name=再探恶魔
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Toxic%20Stench
+}}

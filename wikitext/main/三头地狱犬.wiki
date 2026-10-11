@@ -17,8 +17,8 @@
 |ref=+8
 |will=+4
 |speed=40 尺
-|melee=3 噬咬 +11（1d6 +3 附加冥府之噬）
-|special_attacks=撕碎（2 噬咬，1d6 +4 或 3 噬咬，1d6 +8）
+|melee=3 啮咬 +11（1d6 +3 附加冥府之噬）
+|special_attacks=撕碎（2 啮咬，1d6 +4 或 3 啮咬，1d6 +8）
 |str=16
 |dex=14
 |con=19

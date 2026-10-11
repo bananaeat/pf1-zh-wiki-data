@@ -1,0 +1,14 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder Unchained pg. 154），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=奇特死灵
+|english_name=Esoteric Necromancy
+|categories=奇特
+|pfs=否
+|description=你对熵脂的精通，使你的死灵法术令受影响者心生恐惧。
+|benefit=当你以熵脂作为奇特施法材料施放死灵系法术时，该法术的一个目标变为[[战栗]]。如果你的法术允许豁免检定，而目标豁免成功，则不受此效果影响。如果法术本身会使目标战栗或[[惊惧]]，本效果不会加深该状态的程度（因此令生物惊惧的法术，不会因本专长而改为令其[[恐慌]]）。这是影响心智的恐惧效果。
+
+当你对死灵系法术获得熵脂的高等材料效果时，在决定伤害骰上，你的施法者等级再视为高1级。（如适用，这同样会提高法术的伤害骰上限。）
+|source=PU
+|source_name=解放者
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Esoteric%20Necromancy
+}}

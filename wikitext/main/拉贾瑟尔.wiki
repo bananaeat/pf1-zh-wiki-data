@@ -3,7 +3,7 @@
 {{神祇
 |name=拉贾瑟尔
 |english_name=Ragathiel
-|title=复仇[[战将]]
+|title=复仇战将
 |alignment=守序善良（LG）
 |weapon=[[重剑]]
 |portfolio=骑士精神，责任，报复
@@ -44,7 +44,7 @@
 
 {{神恩|n=2|name=惩戒|en=Retribution|type=Su|text=用挥砍武器攻击24小时内最后一个对你造成物理伤害的生物时，伤害检定获得等同HD一半的神圣加值。}}
 
-{{神恩|n=3|name=纯洁之魂|en=Pure Soul|type=Sp|text=每天一次向自己施展[[圣洁灵光]]，除了既有效果，你还获得 DR 10/善良与{{材料|寒铁}}，并将期间所持任何武器视为+5神圣武器。}}
+{{神恩|n=3|name=纯洁之魂|en=Pure Soul|type=Sp|text=每天一次向自己施展[[圣洁灵氲]]，除了既有效果，你还获得 DR 10/善良与{{材料|寒铁}}，并将期间所持任何武器视为+5神圣武器。}}
 
 == 圣武士守则 ==
 

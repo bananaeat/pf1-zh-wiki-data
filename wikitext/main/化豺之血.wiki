@@ -1,0 +1,9 @@
+{{Feat
+|name=化豺之血
+|english_name=Jackal Blood
+|description=在你的家谱上某处，蹲伏着一只化豺。
+|benefit=你在对抗会使你入睡的法术或效果的豁免检定上获得+4加值。你还在聆听检定上获得+2加值（译注：AoN 原文作「Listen checks」，疑为笔误，应为察觉检定。）
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=168941.msg1424522#msg1424522 【Dark Markets: A Guide to Katapesh】黑暗集市：卡塔佩什指南]，译者：fulandre；按 AoN 核对过。
+|source_name=黑暗市集：卡塔佩什指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Jackal%20Blood
+}}

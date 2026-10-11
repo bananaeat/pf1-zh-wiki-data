@@ -1,0 +1,12 @@
+<noinclude>{{掉链召唤师导航}}
+'''不定形体'''（Amorphous, Ex）是[[掉链召唤师]]的[[掉链幻灵#进化型态|进化]]。
+
+</noinclude>{{Source|惧怖国度|Horror Realms|inline}} 幻灵的生理构造缺乏明显的弱点。它不会受到[[重击]]和[[盗贼#偷袭|偷袭]]的影响。
+
+'''先决条件'''：异怪或元素亚种；召唤师等级9级。<noinclude>
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/zh66a65fdaa6.htm 原文]），按 AoN 核对过。
+
+[[分类:幻灵进化]]
+
+{{职业}}</noinclude>

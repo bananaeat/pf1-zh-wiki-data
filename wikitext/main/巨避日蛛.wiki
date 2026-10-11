@@ -17,7 +17,7 @@
 |will=+0
 |immune=影响心灵效果
 |speed=50 尺，攀爬 30 尺
-|melee=噬咬 +3（1d6 +1），2 爪抓 +3（1d3 +1）
+|melee=啮咬 +3（1d6 +1），2 爪抓 +3（1d3 +1）
 |special_attacks=撕裂（2 爪抓，1d3 +1）
 |str=12
 |dex=15
@@ -44,4 +44,4 @@
 <div class="monster-table-wrap"><table class="wikitable"><tr><th>种类</th><th>CR</th><th>体型</th><th>HD</th></tr><tr><td>食狗避日蛛</td><td>1/2</td><td>超小型</td><td>1</td></tr><tr><td>黄祸避日蛛</td><td>8</td><td>大型</td><td>10</td></tr><tr><td>刀嘴避日蛛</td><td>11</td><td>超大型</td><td>13</td></tr><tr><td>女妖避日蛛</td><td>15</td><td>巨型</td><td>16</td></tr><tr><td>撼沙避日蛛</td><td>18</td><td>超巨型</td><td>20</td></tr></table></div>
 }}
 
-本页译自《[[怪物图鉴2]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴2]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=60166.msg559425#msg559425 【B2】巨避日蛛 & 白化岩穴避日蛛（Solifugid, Giant & Solifugid, Albino Cave）]，译者：原子能青蛙）。

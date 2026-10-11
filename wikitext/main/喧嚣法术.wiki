@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Planar Adventures pg. 33），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=喧嚣法术
+|english_name=Tumultuous Spell
+|categories=超魔
+|description=你可以将大漩涡中翻涌的混乱注入你的魔法，使敌人向四面八方不可预测地散开，如同混沌本身难以捉摸的心血来潮，并伴随着陌生意外的声响和不自然色彩的闪光。
+|benefit=你可以强化任何以单一生物为目标的法术，使其成为喧嚣法术。被喧嚣法术命中的生物（如果该法术需要攻击检定），或在对抗喧嚣法术的豁免检定中失败的生物，会立刻朝随机方向移动1d4×5尺。这种移动不会引发借机攻击。如果这次移动会迫使该生物撞上实体物体或另一个生物，则移动在撞击前一刻无害地结束。
+
+喧嚣法术占用比法术正常环位高1级的法术位。带有守序描述符的法术不能成为喧嚣法术。
+|source=PA
+|source_name=位面冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Tumultuous%20Spell
+}}

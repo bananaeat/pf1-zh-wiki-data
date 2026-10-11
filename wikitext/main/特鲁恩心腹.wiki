@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #105: The Inferno Gate pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=特鲁恩心腹
+|english_name=Thrune Trusted Agent
+|categories=团队
+|pfs=否
+|description=你与其他特鲁恩特工之间的超自然纽带坚定了你的意志，并让你能够增强盟友的力量。
+|prerequisites=特鲁恩忠仆背景特性。
+|benefit=每当你处于同样拥有本专长的盟友30尺内时，你在反射和意志豁免检定上获得+1亵渎加值。此外，你可以每天一次以一个迅捷动作放弃本专长赋予的豁免检定加值，以提高协助他人动作的效果。在等同于你魅力调整值（至少为1）的轮数内，当你使用协助他人动作协助同样拥有本专长的盟友时，你赋予该盟友的防御等级、攻击检定或技能检定加值提高为+4，而不是通常的+2。你在24小时内无法享受本专长的豁免检定加值，不过就其他角色获得加值而言，你仍视为拥有本专长。
+|source_name=冒险之路105：炼狱之门
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Thrune%20Trusted%20Agent
+}}

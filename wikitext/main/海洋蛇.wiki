@@ -30,7 +30,7 @@
 |feats=[[灵巧武艺]];[[武器娴熟]]B
 |skills=[[攀爬]] +7;[[察觉]] +9;[[隐匿]] +14;[[游泳]] +7
 |racial_mods=+4 察觉，+4 隐匿
-|sq=闭气
+|sq=屏息
 |environment=任意海洋
 |organization=单独，成对，或一窝（3–8）
 |treasure=无

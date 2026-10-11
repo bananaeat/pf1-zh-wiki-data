@@ -1,0 +1,14 @@
+{{Feat
+|name=吾之丰饶，吾之荣耀
+|english_name=Our Bounty, Our Glory
+|categories=故事
+|pfs=否
+|description=你能无视匮乏，并引导自己的情绪，为日后的丰饶做准备。
+|prerequisites=成为丹扎尼家族的一员，或拥有“嗜血如狂”、“预兆之子”、“护树之人”或“左道旁门”角色背景。
+|benefit=在你因断粮断水而需要进行体质检定之前，你可以多撑1天；并且在抵御饥饿与干渴影响的体质检定上获得+4加值。
+|goal=你必须屈服于自己的情绪并取得胜利。在你受到带有情绪描述符的效果（如狂暴）影响期间，挫败适当数量的敌人。
+|completion_benefit=每天一次，你可以将[[英雄宴]]作为类法术能力使用，施法者等级等于你的角色等级，但你的宴席不提供[[中和毒性]]和[[移除疾病]]的效果。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=167723.msg1416948#msg1416948 【#131】皇冠战争的8个故事专长及塔尔多八大贵族家族背景介绍]，译者：Kochchchch；按 AoN 核对过。
+|source_name=冒险之路131：死神的右手
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Our%20Bounty%2C%20Our%20Glory
+}}

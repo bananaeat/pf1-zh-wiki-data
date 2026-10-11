@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Plane-Hopper's Handbook pg. 29），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=强化星辰漫游
+|english_name=Improved Stellar Wanderer
+|pfs=否
+|description=你在极星庭度过的时光，让你精通了位面旅行之术。
+|prerequisites=[[星辰漫游]]，[[知识]]（位面）15级。
+|benefit=使用星辰漫游专长进行位面旅行时，你可以选择至多八个生物与你一同传送。你现在会出现在距预定目的地1至100英里（1d%）之处，而不是5至500英里。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Stellar%20Wanderer
+}}

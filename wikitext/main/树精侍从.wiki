@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Wilderness Origins pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=树精侍从
+|english_name=Dryad's Attendant
+|pfs=否
+|description=树精信任你，让你承载她们的力量与羁绊。
+|prerequisites=魅力15，[[树精学徒]]，角色等级9级，[[伽瑟兰]]。
+|benefit=你每天可以一次以类法术能力施展[[融身入石]]，施法者等级等于你的角色等级，只是你融入的是木头。你最多可以与木头融为一体24小时。如果你融入树精共生的树木，在你离开之后的若干天内（天数等于你的魅力调整值，至少1天），树精可以把你视为她共生的树木；在此期间，树精仍保有与自己那棵树的共生。
+|source=WO
+|source_name=荒野源始
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Dryad%27s%20Attendant
+}}

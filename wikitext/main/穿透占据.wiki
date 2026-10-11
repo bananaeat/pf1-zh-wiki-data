@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Demons Revisited pg. 32），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=穿透占据
+|english_name=Penetrating Possession
+|pfs=否
+|description=你占据敌人的能力能绕过魔法防护。
+|prerequisites=[[魔魂壶]]为已知法术或类法术能力，魅力21。
+|benefit=你第一次尝试占据处于[[防护邪恶]]法术或任何类似法术效果下的宿主时，你有机会驱散该法术，如同你对该法术施放了[[解除魔法]]一样。
+|source_name=再探恶魔
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Penetrating%20Possession
+}}

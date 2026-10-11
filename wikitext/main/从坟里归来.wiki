@@ -1,0 +1,12 @@
+{{Feat
+|name=从坟里归来
+|english_name=Graverisen
+|categories=伟业
+|pfs=否
+|description=死亡对你并不陌生，因为你已多次从坟墓中爬起，继续你的探索。
+|prerequisites=死亡并被救回至少两次。
+|benefit=你获得一次性使用的超自然能力，可使你免于一死。下一次你将被杀死时，你可以使用此能力，使你存活下来，并且不受本会杀死你的那次攻击的其他影响，即使面对没有豁免检定的效果也是如此。使用这一能力不需要动作，即使你处于无助或[[昏迷]]状态也能生效。如果你死亡后又被带回生命，你就再获得一次该能力的使用机会。你同一时间只能保有一次未用掉的使用机会；超出第一次之外所累积的其他机会都会丢失。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=51645.msg474522#msg474522 [LFPG][ASL]偉業專長[翻譯完成]]，译者：PATIBAUL；按 AoN 核对过。
+|source_name=烈焰传承玩家手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Graverisen
+}}

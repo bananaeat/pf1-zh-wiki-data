@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Wild pg. 22），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=腾跃步
+|english_name=Bounding Step
+|description=你能像鹿或麋鹿一样跃过困难地形。
+|prerequisites=敏捷15，[[灵狐步]]。
+|benefit=你在保持平衡的[[特技]]检定和避免跌倒的反射豁免上获得+2加值。此外，从游侠偏好地形列表中选择一种地形类型。在该地形中，你每轮可视同普通地形穿越的困难地形的最大距离增加10尺。
+|normal=灵狐步允许你每轮将5尺的困难地形视同普通地形穿越。
+|special=如果你拥有偏好地形职业特性，则不通过本专长选择地形，而是本专长增加的困难地形移动能力适用于你所有的偏好地形。
+|source=HotW
+|source_name=荒野英雄
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Bounding%20Step
+}}

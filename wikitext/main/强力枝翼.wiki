@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Wilderness Origins pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=强力枝翼
+|english_name=Mighty Boughs
+|pfs=否
+|description=你的翅膀格外强壮，并长出了锋利的倒刺。
+|prerequisites=力量15，角色等级11级，[[伽瑟兰]]。
+|benefit=你获得两个翅膀攻击。它们是次要天武攻击，造成1d3点挥砍伤害（如果你是中型体型则为1d4）。
+|source=WO
+|source_name=荒野源始
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Mighty%20Boughs
+}}

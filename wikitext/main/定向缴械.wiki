@@ -1,0 +1,11 @@
+{{Feat
+|name=定向缴械
+|english_name=Directed Disarm
+|categories=战斗
+|description=被你卸除掉的武器将在你的引导下砸向另一个敌人。
+|prerequisites=智力13，[[寓守于攻]]，[[高等缴械]]，[[精通缴械]]，BAB+11
+|benefit=当你成功对目标进行了[[缴械]][[战技]]后，被卸除的武器将掉落在距离目标最多15尺远的位置，具体方向由你选择。或者，你可以以[[直觉动作]]使用被卸除的武器对另一个敌人发动一次远程攻击，前提是该武器是轻型武器或单手武器。若该武器不是投掷武器，该次攻击受到-4罚值。若你没有手空闲，则该次攻击还要再受-4罚值。
+|source=RTT
+|source_name=远程战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_552.html
+}}

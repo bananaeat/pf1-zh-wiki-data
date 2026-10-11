@@ -14,7 +14,7 @@
 |home=不明
 |temples=上古纪念碑，法师塔，图书馆，石制大教堂，了望塔
 |worshipers=奥术施法者，天文学家，重要地点的守护者，历史学家
-|minions=半天界（calikang），半天界半蝎人，异界神侍
+|minions=半天界（calikang），半天界半蝎人，界天使
 |pantheon=至高天神使
 |source=内海诸神、正义编年史
 }}

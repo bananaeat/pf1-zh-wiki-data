@@ -1,6 +1,7 @@
 {{物品
 |name=解法弹头
 |english_name=Bullet，Dispelling
+|aon=MagicWeaponsDisplay.aspx?ItemName=Dispelling%20Bullet
 |category=魔法武器
 |aura=微弱防护系
 |cl=5

@@ -1,0 +1,14 @@
+{{Feat
+|name=疗者之触
+|english_name=Healer's Touch
+|categories=伟业
+|pfs=否
+|description=生命的魔法如河流般在你的体内流淌。
+|prerequisites=使用治疗法术为其他生物治疗累计1,000点伤害。造成伤害会拖慢这一目标的进度；你每对其他生物造成1点伤害，就将累计治疗总量减少2点。
+|benefit=当你施展治疗法术来治疗你以外的目标时，该法术如同使用了[[法术极效]]的效果一样被极效。这不会增加你施展该法术的施法时间。当你施展治疗法术来伤害目标时，该法术不会被极效，但其豁免DC+4。
+
+注：此专长可能存在一个相反的版本，让使用负能量的施法者医治不死生物。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=51645.msg474522#msg474522 [LFPG][ASL]偉業專長[翻譯完成]]，译者：PATIBAUL；按 AoN 核对过。
+|source_name=烈焰传承玩家手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Healer%27s%20Touch
+}}

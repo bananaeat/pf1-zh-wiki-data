@@ -1,49 +1,63 @@
 {{消歧义|爬虫人(怪物)}}
-<div class="well" style="margin:.2em 0"><small>'''本页尚未汉化。'''民间汉化的 CHM 合集里没有这个种族，正文取自 [https://aonprd.com Archives of Nethys] 的英文原文。认领翻译见 [[待办事项]]。</small></div>
+{{Source|怪物图鉴5|Bestiary 5}}
 {{速查导航|here=种族}}
 {{种族卡
 |属性=+2力量，+2魅力，-2敏捷
 |体型=中型
 |速度=30尺
 |视觉=昏暗视觉
+|语言=通用语以及爬虫人语
 }}
-{{种族卡
-|属性=+2力量，+2魅力，-2敏捷
-|体型=中型
-|速度=30尺
-|视觉=昏暗视觉
-}}
-'''爬虫人'''（Reptoid）是 Pathfinder 1st Edition 的一个种族。
+'''爬虫人'''（Reptoid）是来自另一颗行星、甚至可能来自另一个位面的双足爬行动物——即使在胁迫下，他们也拒绝向类人生物透露自己的来历。爬虫人伪装成其他种族的成员，谋求权力职位，为来自故乡世界的入侵做秘密准备。即使那些察觉到身边有爬虫人的人，也永远无法真正确定谁是真人、谁是外星人，因为这些生物往往擅长惑控和异能魔法，用以掩盖其欺骗的痕迹，并确保他们即将控制的奴仆顺服乃至与其勾结。
 
-'''Source''' ''Bestiary 5 pg. 202''
+== 爬虫人种族特性 ==
 
-Reptoids are bipedal reptiles from another planet, or perhaps even another plane—they refuse to reveal their origins to humanoids, even under duress. Disguised as members of others races, the reptoids seek positions of power in order to secretly prepare for an invasion from their homeworld. Even those who are aware of reptoids in their midst can never be truly sure who is real and who is an alien, as these creatures are often adept at enchantment and psychic magic, which they use to cover the tracks of their deceptions and to ensure the complacency or even collusion of their soon-to-be thralls.
+=== +2力量，+2魅力，-2敏捷 ===
 
-== Reptoid Racial Traits ==
+爬虫人既善于操纵他人又身强力壮，但行动谨慎迟缓。
 
-'''+2 Strength, +2 Charisma, –2 Dexterity''': Reptoids are both manipulative and strong, but they’re deliberate in their movements.
+=== 中型体型 ===
 
-'''Medium''': Reptoids are Medium creatures and have no bonuses or penalties due to their size.
+爬虫人是中型生物，不因体型获得任何加值或者减值。
 
-'''Humanoid''': Reptoids are humanoids with the reptilian and shapechanges subtypes.
+=== 生物类型 ===
 
-'''Normal Speed''': Reptoids have a base speed of 30 feet.
+爬虫人属于类人生物，具有爬虫子类型和变形子类型。
 
-'''Low-Light Vision (Ex)''': Reptoids can see twice as far as humans in dim light.
+=== 标准速度 ===
 
-'''Scales''': When in its natural form, a reptoid has a +1 natural armor bonus.
+爬虫人的基本速度为30尺。
 
-'''Cold-Blooded (Ex)''': Reptoids receive a +2 racial saving throw bonus against mind-affecting effects and poison.
+=== 昏暗视觉（Ex） ===
 
-'''Natural Weapons (Ex)''': When in its natural form, a reptoid has a bite attack and two claw attacks that deal 1d3 points of damage each.
+爬虫人在昏暗光照下能够看到的距离是[[人类]]的两倍远。
 
-'''Change Shape (Su)''': A reptoid can assume the appearance of a specific single Medium humanoid. The reptoid always takes this specific form when it uses this ability. The reptoid gains a +10 racial bonus on Disguise checks to appear as that type of humanoid. This ability otherwise functions as ''alter self'', except the reptoid does not adjust its ability scores. A reptoid can select a new humanoid form by spending 1 week preparing itself for the change, but can then no longer assume its previous humanoid form.
+=== 鳞片 ===
 
-'''Mental Potency (Ex)''': A reptoid’s mental effects can affect more powerful creatures or a greater number of creatures than normal. Both the Hit Die limit and the total number of Hit Dice affected by each enchantment or illusion spell it casts increase by 1. For enchantment and illusion spells it casts that target a number of creatures greater than one, the number of creatures affected also increases by one (so a spell that targets one creature per level would be affected, but a spell that targets only one creature would not be). This ability stacks with the mesmerist’s ability of the same name.
+处于自然形态时，爬虫人拥有+1天生护甲加值。
 
-'''Languages''': All reptoids begin play speaking Common and Reptoid. Reptoids with high Intelligence scores can choose any languages they want (except for secret languages, such as Druidic).
+=== 冷血（Ex） ===
 
-本页正文取自 [https://aonprd.com/RacesDisplay.aspx?ItemName=Reptoid Archives of Nethys]。全部种族见 [[种族]]。
+爬虫人在对抗影响心灵效果和毒素的豁免检定上获得+2种族加值。
+
+=== 天生武器（Ex） ===
+
+处于自然形态时，爬虫人拥有一次啮咬攻击和两次爪抓攻击，每次造成1d3点伤害。
+
+=== 改变外形（Su） ===
+
+爬虫人能变成特定单个中型类人生物的外貌。爬虫人使用此能力时总是变成这特定形态。爬虫人在伪装成该种类人生物类型的[[易容]]检定上获得+10种族加值。此能力其他方面如同[[变身术]]，但爬虫人不调整其属性值。爬虫人可以通过花费一周时间准备来选择一个新的人形形态，但之后便不能再变成之前的人形形态。
+
+=== 心智潜能（Ex） ===
+
+爬虫人的心灵效果能影响比正常更强的生物或更多的生物。其施放的每个惑控系和幻术系法术所影响的生物生命骰上限和总生命骰数均增加1。对其施放的以多个生物为目标的惑控系和幻术系法术，受影响的生物数量也增加1（因此影响每等级一个目标的法术会受影响，但只影响一个生物的法术不会）。此能力与[[催眠师]]的同名能力叠加。
+
+=== 起始语言 ===
+
+所有爬虫人初始会说通用语和爬虫人语。智力较高的爬虫人可以选择任何语言（德鲁伊语等秘密语言除外）。
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/zhrace5new.htm 原文]）和纯美苹果园论坛 dr.fate 的[[爬虫人(怪物)]]页译文，按 AoN 核对过。全部种族见 [[种族]]。
 
 [[分类:种族]]
-[[分类:待汉化]]
+[[分类:怪物种族]]
+{{种族}}

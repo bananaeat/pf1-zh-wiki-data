@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Plane-Hopper's Handbook pg. 29），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=星辰漫游
+|english_name=Stellar Wanderer
+|pfs=否
+|description=你赢得了[[黛丝娜]]的信任，她向你传授了她领域中的秘密。
+|prerequisites=角色等级15级，[[知识]]（位面）10级。
+|benefit=每周一次，你可以利用极星庭的池水，将自己从极星庭立即传送到任意位面，效果如同[[异界传送]]。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Stellar%20Wanderer
+}}

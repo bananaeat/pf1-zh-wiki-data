@@ -1,5 +1,4 @@
 {{德鲁伊导航}}
-<noinclude>{{消歧义|黑嘴白鹭(怪物)}}</noinclude>
 {{动物伙伴卡片
 |name=黑嘴白鹭
 |en=Blackwisp Egret
@@ -9,7 +8,7 @@
 |advlv=4
 |size=小型
 |adv_size=中型
-|speed=30尺，飞行30尺（笨拙）
+|speed=30尺，飞行30尺（不良）
 |ac=+1天生护甲
 |attack=啮咬（1d4）
 |adv_attack=啮咬（1d6）

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Wilderness Origins pg. 14），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=丰饶之躯
+|english_name=Bounteous Body
+|description=你的身体能产出威力更强的魔法果实。
+|prerequisites=角色等级5级，【葡萄藤】或【自然魔法】种族特性。
+|benefit=你可以花1小时集中精神，长出数量等于你角色等级三分之一的拳头大小的果实。吃下一枚果实可获得[[次等复原术]]法术的效果。果实在24小时后失去魔法效力。这个能力每周可使用一次，另外每周额外可使用的次数等于你的体质调整值（最少0次）。
+|source=WO
+|source_name=荒野源始
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Bounteous%20Body
+}}

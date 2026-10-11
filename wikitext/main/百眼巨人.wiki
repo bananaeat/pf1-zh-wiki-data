@@ -24,7 +24,7 @@
 |resist=冷30;火30
 |weaknesses=迷魂与睡眠弱点
 |speed=40尺
-|melee=2爪抓 +20（3d6+14附加攫取），噬咬 +19（2d8+14）
+|melee=2爪抓 +20（3d6+14附加攫取），啮咬 +19（2d8+14）
 |ranged=投石 +8（3d6+14）
 |space=20尺
 |reach=20尺
@@ -58,4 +58,4 @@
 百眼巨人25尺高，18000磅重。
 }}
 
-本页译自《[[怪物图鉴4]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴4]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=67811.msg630174#msg630174 【B4】百眼巨人（Argus）]，译者：solariusyang）。

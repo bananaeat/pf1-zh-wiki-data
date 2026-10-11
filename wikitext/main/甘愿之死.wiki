@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Plane-Hopper's Handbook pg. 17），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=甘愿之死
+|english_name=Willing Death
+|categories=起源
+|pfs=否
+|description=你也许曾是军队中的士兵、舍己为人的爱侣，或是冲进连天使都不敢涉足之地的英雄。你的死，是因为你将他人的生命看得比自己的更重。
+|prerequisites=[[暮行者]]。
+|benefit=每天两次，当30尺内的一名盟友会因一次攻击或豁免检定失败而死亡时，你可以用一个直觉动作将伤害与效果转移到自己身上。其功能如同[[牺牲]]。11级时，你每天可以额外使用该专长两次。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Willing%20Death
+}}

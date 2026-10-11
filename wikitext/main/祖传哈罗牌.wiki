@@ -2,7 +2,7 @@
 |name=祖传哈罗牌
 |english_name=Harrow Born
 |type=种族
-|prerequisites=[[人类]]（瓦瑞西安人）
+|prerequisites=[[人类]]（瓦瑞西亚人）
 |description=你在乌斯塔拉夫和瓦瑞西亚地区著名的神秘占卜师圈中成长。游戏开始时你拥有一副由亲属传下的哈罗牌。因掌握占卜本领，你在[[先攻]]检定上获得+1背景加值。
 |source_name=格拉里昂的人类
 |source_url=https://pf1chm.pages.dev/topics/page_1581.html

@@ -1,6 +1,7 @@
 {{物品
 |name=破损的琥珀色艾恩石
 |english_name=Amber Spindle (Cracked) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Amber%20Spindle
 |category=艾恩石
 |aura=中等防护系
 |cl=12

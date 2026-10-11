@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Andoran, Birthplace of Freedom pg. 33），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=铁腕
+|english_name=Strongarm
+|pfs=否
+|description=你擅长对想要剥削的对象长期施压，并让受你欺凌者心生恐惧。
+|prerequisites=[[威逼]]，木材联盟成员。
+|benefit=当你使用[[威吓]]技能改善目标的态度时，若你的检定结果超过DC 5或更多，则目标的态度改善持续5d6小时。在此期间，如果该目标攻击你，它会立刻陷入[[战栗]]状态1d6+1轮，如同被挫败了士气。
+|source_name=安多安：自由诞生之地
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Strongarm
+}}

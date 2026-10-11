@@ -1,48 +1,86 @@
-<div class="well" style="margin:.2em 0"><small>'''本页尚未汉化。'''民间汉化的 CHM 合集里没有这个种族，正文取自 [https://aonprd.com Archives of Nethys] 的英文原文。认领翻译见 [[待办事项]]。</small></div>
 {{速查导航|here=种族}}
 {{种族卡
 |属性=+2力量，+2感知，-2魅力
 |体型=大型
 |速度=30尺
-}}
-{{种族卡
-|属性=+2力量，+2感知，-2魅力
-|体型=大型
-|速度=30尺
+|语言=通用语
 }}
 '''绿色火星人'''（Green Martian）是 Pathfinder 1st Edition 的一个种族。
 
-'''Source''' ''Pathfinder: Worldscape #2 pg. 24''
-Among the hardiest and longest-lived of Barsoom’s savage races, the green men of Mars rove the planet’s wastelands in brutal tribes of thousands of warriors, seeking their fortunes as nomads amid the crumbling ruins of ancient cities and the vast barren wildlands between them. The green Martians have ever been at war with the red. black, yellow, and white inhabitants of Barsoom. Legends speak that once, long, long ago, the races of Mars shared a common ancestor, but today most civilized red Martians of city-states like Helium and Zodanga consider green Martians dangerous. subhuman raiders. Their tall frames, four arms. and battle ferocity nonetheless make the green Martians among the most respected denizens of Barsoom.
+{{Source|探索者：世界之境2|Pathfinder: Worldscape #2|inline}}
 
-'''Physical Description''': Green Martians stand 12 to 15 feet tall. with imposing features accentuated by their four agile arms, their mighty tusks, and the red hue of their perceptive eyes. They dress simply in leather harnesses and jewels, each carrying at least one weapon at all times from a very young age. Skin ranges from olive hues to deep forest green, with heavy scarring common among more savage tribes such as the much-feared Warhoon.
+巴松（Barsoom）野蛮种族中最坚韧、最长寿的一支，火星上的绿人以数千名战士组成的凶悍部落在这颗星球的荒原上游荡，作为游牧者在古代城市崩塌的废墟和废墟之间辽阔贫瘠的荒野里谋生。绿色火星人一直与巴松的红色、黑色、黄色和白色居民交战。传说很久很久以前，火星各个种族有着共同的祖先，但如今，希雷姆（Helium）和佐丹格（Zodanga）等城邦里大多数文明的红色火星人，都认为绿色火星人是危险的、非人的袭击者。然而，他们高大的身躯、四条手臂和凶猛的战斗力，仍使绿色火星人成为巴松最受敬畏的居民之一。
 
-Each adult green Martian female gives birth annually to about 13 eggs, which the tribes deposit in subterranean vaults near their settlements. Every year, tribal chieftains visit the vaults to examine the eggs. All but about 100 of the most perfect are destroyed out of each year's supply, lest the tribe grow to a size the meager resources of Mars cannot support. Those that survive 5 years of cullings are transported to incubators hidden in the dried seabeds of Barsoom's ancient oceans, where they are nurtured by the sun's rays before hatching 5 years later. Green Martians reach maturity at age 40. A green Martian’s natural life span might last as long as a thousand years. but most are killed in tribal squabbles, honor duels, arena battles, and wars long before they are considered “old."
+=== 体貌描述 ===
 
-'''Society''': Green Martians gather in tribes under the leadership of a chieften counseled by a gaggle of elder warlords. Their tribes usually take the names of the abandoned ruined cities of Martian ancients along the dried seabeds of Barsoom that they inhabit, though few tribes remain stationary for long, preferring a nomadic existence centered on the hardscrabble hunt for the precious resources of the Martian desert. All green folk maintain their status within the tribe through constant examples of skill, strength, and courage. Prone to shocking displays of violence, green Martians possess dark humors; they are more likely to laugh at the gruesome beheading of an enemy than at a simple irony or turn of phrase. Apart from their weapons and harnesses, green Martians tend toward communal ownership of property, even raising children collectively. leaving them with little sense of friendship or family. Their limited telepathic abilities ensure that green Martians speak with few words. preferring hrutish action to academic conversation.
+绿色火星人身高12到15英尺，四条灵活的手臂、粗壮的獠牙和敏锐的红色眼睛使他们的相貌格外威严。他们只穿简单的皮制束带，戴珠宝，每个人从很小的时候起就随时至少带着一件武器。肤色从橄榄色到深林绿不等，在较为野蛮的部落——例如令人闻风丧胆的沃风（Warhoon）部落——中常见大量疤痕。
 
-'''Relations''': Green Martians tend to keep to their own, and are. inherently distrustful of Barsoom's other barbaric races. The more civilized green Martian tribes—such as the Tharks under the leadership of Jeddak Tars Tarkas—make common cause with the red Martians of Helium. Despite the shared religion of Issus, green Martians as a rule interact infrequently with the white-skinned Therns or black-skinned First Born. Green Martians hold particular antipathy toward the Red Planet’s cannibalistic four-armed apes, whom they attack upon sight.
+每名成年绿色火星人雌性每年大约产下13枚卵，部落把这些卵存放在定居点附近的地下穹窟里。每年，部落首领都会前去检视这些卵。每年产出的卵里，除了大约100枚最完美的，其余全部被销毁，以免部落壮大到火星有限的资源无法供养的规模。熬过5年筛选的卵会被运到隐藏在巴松古老海洋干涸海床里的孵化器中，靠阳光的照射滋养，5年后孵化。绿色火星人在40岁时成熟。他们的自然寿命可长达一千年，但大多数人在被视为“老”之前很久，就已死于部落争斗、荣誉决斗、竞技场战斗和战争。
 
-'''Alignment and Religion''': Green Martians are brutish and devoid of sentiments of friendship or love, worshiping only physical prowess and bravery. Most green Martians are chaotic neutral and worship Issus, Goddess ofDeath and Life Eternal.
+=== 社会 ===
 
-'''Adventurers''': Before a green Martian kills his ﬁrst enemy and takes his victim’s name, he is "o mad,” a warrior with a single name. Many green Martian adventurers begin their careers as o mads with something to prove, delving abandoned ancient cities, baiting the much-hated Barsoomian White Ape denizens of these crumbling ruins into hard-fought battles to the death to prove their bravery and achieve status within the tribe. Others sell themselves as mercenaries, arena ﬁghters, or bounty hunters aﬂcr being exiled from their tribes. forced away from lack of resources, or defeated in war. Green Martians eschew spellcasting classes (magic is almost completely unknown on Barsoom), preferring instead martial occupations like ﬁghter, brawler. or swashbuckler. With its focus on providing a boost to Armor Class when unarmored, the warlord ﬁghter archetype (forthcoming in a future issue of ''Pathﬁnder Worldscape'') is a particularly popular choice for many green Martians.
+绿色火星人聚成部落，由一名酋长领导，身边有一群年长的军阀出谋划策。部落通常以他们栖居的巴松干涸海床沿岸、被古代火星人遗弃的废墟城市命名，不过很少有部落会长期定居一处，他们更喜欢游牧的生活，围绕着在火星沙漠里艰难寻觅珍贵资源而展开。所有绿色火星人都靠不断展示技巧、力量和勇气来维持自己在部落中的地位。他们动辄做出骇人的暴力行为，幽默感阴暗：比起简单的反讽或妙语，他们更可能被残忍地斩下敌人头颅的场面逗笑。除了武器和束带，绿色火星人倾向于财产公有，甚至集体抚养孩子，因此几乎没有友谊或亲情的观念。他们有限的心灵感应能力使绿色火星人说话用字极少，宁愿粗暴行动也不愿学术性的交谈。
 
-'''APL Adjustment''': Green Martian characters are more powerful than members of the standard Pathﬁnder RPG races presented in the ''Core Rulebook''.When creating encounters to challenge a party of green Martians, the Game Master should add +2 to the party's Average Party Level (APL) for levels 1-5 and +1 for levels 6-10. Fnr groups containing a mixture ofraces, GMs should carefully watch the party’s relative power and adjust APL on an  ad hoc basis
+=== 关系 ===
 
-== Green Martian Racial Traits ==
+绿色火星人倾向于自成一体，天生不信任巴松的其他野蛮种族。较文明的绿色火星人部落——例如杰达克（Jeddak）塔斯·塔卡斯（Tars Tarkas）领导下的萨克族（Thark）——与希雷姆的红色火星人联手行动。尽管信奉同一种伊苏斯（Issus）宗教，绿色火星人通常很少与白皮肤的瑟恩人（Therns）或黑皮肤的初生人（First Born）往来。绿色火星人对这颗红色星球上食人的四臂猿尤其憎恶，一见到就发动攻击。
 
-* '''+2 Strength, +2 Wisdom, -2 Charisma''': Green Martians are keen-sighted and agile, but they understand little of social graces and are prone to brutishness.
-* '''Large''': Green Martians are Large creatures and take a -1 size penalty to their AC, a -1 size penalty on attack rolls, a +1 bonus on combat maneuver checks and to their CMD, and a -4 size penalty on Stealth checks. A Green Martian takes up a space that is 10 Feet by 10 feet, and has a reach of 5 feet.
-* '''Normal Speed''': Green Martians have a base speed at 30 feet.
-* '''Detect Thoughts''': Green Martians possess limited telepathy. allowing them to read the surface thoughts at those around them. they can use ''detect thoughts'' as a constant spell-like ability. The caster level of the spell-like ability is equal to the user's character level.
-* '''Fearless''': Green Martians gain a +2 racial bonus on all saving throws against fear eftects.
-* '''Ferocity''': If the hit points of a green Martian fall below 0 but it is not yet dead, it can continue to fight. It it does, it is staggered, and loses 1 hit point each round. It still dies when its hit points reach a negative amount equal to its Constitution score.
-* '''Multi-Armed''': A green Martian has four arms. One hand is considered its primary hand; all others are considered off hands. It can use any of its hands for other purposes that require free hands.
-* '''Weapon Familiarity''': Green Martians are proficient with longswords and spears.
-* '''Skill Training''': Ride and Survival are always considered class skills for green Martians.
-* '''Languages''': Green Martians begin play speaking Common. Green Martians with high Intelligence scores can choose any languages they want (except secret languages, such as Druidic).
+=== 阵营和宗教 ===
 
-本页正文取自 [https://aonprd.com/RacesDisplay.aspx?ItemName=Green%20Martian Archives of Nethys]。全部种族见 [[种族]]。
+绿色火星人野蛮粗暴，没有友谊或爱的情感，只崇拜体魄和勇气。大多数绿色火星人是混乱中立，崇拜永生的死亡与生命女神伊苏斯。
+
+=== 冒险 ===
+
+绿色火星人在杀死第一个敌人并取走受害者的名字之前，只是“o mad”——只有单名的战士。许多绿色火星人冒险者都以“o mad”的身份开始职业生涯，为了证明自己，深入废弃的古城，引诱栖息在这些崩塌废墟中、深受憎恨的巴松白猿（White Ape）与他们生死相搏，以证明自己的勇气并在部落中赢得地位。另一些人则在被逐出部落、因资源匮乏被迫离开或在战争中战败之后，沦为雇佣兵、竞技场斗士或赏金猎人。绿色火星人排斥施法职业（魔法在巴松几乎完全不为人知），更愿意从事战斗职业，例如[[战士]]、[[拳师]]或[[游荡剑客]]。[[战将]]（《Pathfinder Worldscape》后续一期将推出的战士变体）着重于在无甲时提高护甲等级，对许多绿色火星人来说是格外受欢迎的选择。
+
+=== APL调整 ===
+
+绿色火星人角色比《[[核心规则书]]》里介绍的标准 Pathfinder RPG 种族成员更强。设计遭遇来挑战绿色火星人队伍时，游戏主持人应在1至5级时给队伍的平均队伍等级（APL）加2，6至10级时加1。对于混有多个种族的队伍，GM应仔细观察队伍的相对实力，临时调整APL。
+
+== 绿色火星人种族特性 ==
+
+=== +2力量，+2感知，-2魅力 ===
+
+绿色火星人目光敏锐、身手敏捷，但不太懂社交礼仪，而且容易变得粗暴。
+
+=== 大型体型 ===
+
+绿色火星人是大型生物，AC受到-1体型减值，攻击检定受到-1体型减值，战技检定以及CMD获得+1加值，隐匿检定受到-4体型减值。绿色火星人占据10尺见方的空间，触及5尺。
+
+=== 标准速度 ===
+
+绿色火星人的基本速度为30尺。
+
+=== 侦测思想 ===
+
+绿色火星人拥有有限的心灵感应，能读取周围人的表层思想。他们可以将[[侦测思想]]当作持续生效的类法术能力使用，该类法术能力的施法者等级等于使用者的角色等级。
+
+=== 无畏 ===
+
+绿色火星人对抗恐惧效应的所有豁免检定获得+2种族加值。
+
+=== 凶猛 ===
+
+如果绿色火星人的生命值降到0以下但尚未死亡，他可以继续战斗。如果这样做，他会[[恍惚]]，并且每轮失去1点生命值。当生命值降到等于其体质值的负数时，他仍会死亡。
+
+=== 多臂 ===
+
+绿色火星人有四条手臂。其中一只手视为主手，其余的手都视为副手。他可以用任何一只手来做其他需要空闲的手的事情。
+
+=== 武器熟悉 ===
+
+绿色火星人擅长长剑和矛。
+
+=== 技能训练 ===
+
+骑术和生存对绿色火星人来说总是[[本职技能]]。
+
+=== 起始语言 ===
+
+通用语。拥有足够智力的绿色火星人可以选择任何语言（德鲁伊语等秘密语言除外）。
+
+本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/zh491aff0449.htm 原文]），按 AoN 核对过。全部种族见 [[种族]]。
 
 [[分类:种族]]
-[[分类:待汉化]]
+[[分类:其他种族]]
+{{种族}}

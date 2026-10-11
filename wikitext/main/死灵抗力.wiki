@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder Campaign Setting pg. 77），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=死灵抗力
+|english_name=Necromantic Resistance
+|pfs=否
+|description=长期暴露于死灵能量之下，让你获得了一定程度的抵抗力。
+|prerequisites=体质13，盖布亲和。
+|benefit=你在抵抗死灵学派法术和效果的豁免检定上获得+2加值。此外，你在防止负向等级变为永久的强韧豁免上获得+2加值。最后，如果你受到不死生物造成的属性伤害（不含属性吸取），你受到的伤害减少1点（至少为0）。
+|source_name=探索者编年史：战役设定
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Necromantic%20Resistance
+}}

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #116: Fangs of War pg. 67），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=快速设陷
+|english_name=Quick Trapper
+|description=你的制陷技艺大幅提升。
+|prerequisites=[[学习游侠陷阱]]或陷阱职业特性，[[生存]]5级。
+|benefit=设置游侠陷阱（《Pathfinder RPG 极限魔法》64页）时，你可以用一个标准动作而非整轮动作来完成。如果这样做，该陷阱的DC降低5。
+|source_name=冒险之路116：战争之牙
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Quick%20Trapper
+}}

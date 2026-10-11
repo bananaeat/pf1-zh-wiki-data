@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 24），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=双色鳞片
+|english_name=Mixed Scales
+|pfs=否
+|description=你拥有两种颜色的鳞片，这使你与众不同。
+|prerequisites=[[龙之相]]或【龙鳞】种族特性，狗头人。
+|benefit=为你的龙之相专长或龙鳞种族特性额外选择一种颜色。你同时获得这种颜色和你最初所选颜色的好处。（如果你同时拥有龙之相和龙鳞，这一好处对两者都适用。）如果你获得依赖鳞片颜色的能力，由你选择哪种颜色获得其好处。
+|source=KoG
+|source_name=格拉利昂的狗头人
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Mixed%20Scales
+}}

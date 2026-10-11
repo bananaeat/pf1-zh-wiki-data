@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #115: Trail of the Hunted pg. 74），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=手榴弹专家
+|english_name=Grenade Expert
+|description=你既擅长制造炼金手榴弹，也擅长使用炼金手榴弹。
+|prerequisites=[[随手投掷]]。
+|benefit=你点燃炼金手榴弹（例如引信手榴弹、弹丸手榴弹或刺痛手雷）时，可以选择该手榴弹在几轮之后爆炸（最少1轮，最多3轮）。此外，你在制造手榴弹的工艺（炼金）检定上获得+4加值。
+|normal=炼金手榴弹在引信点燃后1d3轮爆炸。
+|source_name=冒险之路115：猎物小径
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Grenade%20Expert
+}}

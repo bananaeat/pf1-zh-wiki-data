@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Haunted Heroes Handbook pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=死亡宿主
+|english_name=Death's Host
+|pfs=否
+|description=被不死生物附身时，你变得更难杀死。
+|prerequisites=[[法术专攻]]（死灵）。
+|benefit=每当你被一个你不直接控制的不死生物附身时，你在对抗死亡效果的豁免检定上获得+4加值。你在负生命值时不会陷入[[昏迷]]；并且如果你或附身于你的不死生物被迫为抵抗附身效果的终止而进行豁免检定，则你或你的附身者在该豁免检定上获得+4加值。
+|source=HHH
+|source_name=闹鬼英雄手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Death%27s%20Host
+}}

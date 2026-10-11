@@ -1,0 +1,14 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder Unchained pg. 154），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=奇特变化
+|english_name=Esoteric Transmutation
+|categories=奇特
+|pfs=否
+|description=用晶球施放变化法术时，晶球会增强你的体能。
+|benefit=当你以晶球作为奇特施法材料施放变化系法术时，你在以力量、敏捷或体质（每次施法时择一）为基础的攻击检定、属性检定和技能检定上获得+2加值。该加值持续到你下一回合结束。
+
+当你对变化系法术获得晶球的高等材料效果时，在决定持续时间上，你的施法者等级再视为高1级。
+|source=PU
+|source_name=解放者
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Esoteric%20Transmutation
+}}

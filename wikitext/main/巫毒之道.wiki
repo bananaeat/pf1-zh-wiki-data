@@ -3,8 +3,8 @@
 |english_name=Juju Way
 |categories=团队
 |description=你可以使用那不可见世界的精魂为你运送你的法术。
-|prerequisites=[[知识]]（宗教）3级，[[人类]]（芒吉人）。
-|benefit=当你施放距离为“接触”的法术，且若其受术者是一名同样拥有该专长的自愿芒吉人盟友时，你可于20尺距离施放该法术。
+|prerequisites=[[知识]]（宗教）3级，[[人类]]（莽吉人）。
+|benefit=当你施放距离为“接触”的法术，且若其受术者是一名同样拥有该专长的自愿莽吉人盟友时，你可于20尺距离施放该法术。
 |source=ISR
 |source_name=内海种族
 |source_url=https://pf1chm.pages.dev/topics/zh77891d27bf.htm

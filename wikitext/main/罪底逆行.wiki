@@ -1,0 +1,14 @@
+{{Feat
+|name=罪底逆行
+|english_name=Forward from Beneath
+|categories=故事
+|pfs=否
+|description=你发誓要潜入你那邪恶的亲族之中，挽回你家族的名誉。
+|prerequisites=成为凯斯特纳家族的一员，或是一个其隐秘的邪恶已被公之于众的家族或组织中的善良阵营成员，或拥有“落魄门第”或“遭受背叛”角色背景。
+|benefit=你潜入自己家族或组织的经验使你在[[易容]]检定上获得+2加值。如果你的易容为10级以上，该加值提高为+4。如果你并非邪恶，你可以以一个标准动作，选择散发出微弱的邪恶灵氲，以应对[[侦测邪恶]]之类的法术。你可以以一个标准动作解除这一虚假灵氲。
+|goal=救赎你的家族或组织。
+|completion_benefit=你获得[[隐匿阵营]]的效果，作为持续生效的类法术能力。你可以以一个标准动作压制或恢复该能力。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=167723.msg1416949#msg1416949 【#131】皇冠战争的8个故事专长及塔尔多八大贵族家族背景介绍]，译者：Kochchchch；按 AoN 核对过。
+|source_name=冒险之路131：死神的右手
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Forward%20from%20Beneath
+}}

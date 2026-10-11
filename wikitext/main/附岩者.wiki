@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dungeon Denizens Revisited pg. 49），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=附岩者
+|english_name=Stone Clinger
+|pfs=否
+|description=所有树绳怪都爱攀爬，但有些会像苔藓一样紧贴岩石。你甚至能倒挂在洞穴或石室的天花板上，看起来如同钟乳石。你可以从高处坠落，刺穿或压扁下方的受害者。
+|prerequisites=树绳怪。
+|benefit=你获得10尺的攀爬速度，并拥有攀爬速度的一切益处（[[攀爬]]检定的加值、攀爬检定总是可以取10，等等）。你可以无限期地倒挂在天花板上，然后落在从下方经过的任何生物身上，造成2d6+6点碾压或穿刺伤害（由你选择）。
+|source_name=再探地城住民
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Stone%20Clinger
+}}

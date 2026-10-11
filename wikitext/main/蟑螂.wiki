@@ -31,7 +31,7 @@
 |cmb=–2
 |cmd=3（11 对抗摔绊）
 |skills=[[攀爬]] +3;[[飞行]] +4
-|sq=闭气
+|sq=屏息
 |environment=任意
 |organization=单独，一对，或集群（3–60）
 |treasure=无

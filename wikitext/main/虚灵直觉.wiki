@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 88），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=虚灵直觉
+|english_name=Incorporeal Intuition
+|description=你能察觉到虚体生物，即使它们潜伏在墙壁之中。
+|prerequisites=[[异能敏感]]或施放异能法术的能力，[[感知灵体]]。
+|benefit=只要虚体生物与你相邻，你就能隔着实心墙壁感知它的存在和动向。以此方式感知到某个生物时，你可以进行一次知识（宗教）检定来辨识该生物及其特殊能力或弱点，但此检定有－5减值。当你以本能力感知到一个虚体生物，并用预备动作在它从墙内发动攻击时攻击它，它不会对你的攻击获得掩蔽。
+|normal=除非选择发出声响，否则虚体生物是无声的，因此身处实心墙内时几乎不可能被侦测到。当预备攻击实心墙内的虚体生物时，它对你的攻击具有掩蔽。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Incorporeal%20Intuition
+}}

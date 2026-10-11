@@ -3,6 +3,7 @@
 {{装备
 |name=公羊
 |english_name=Ram
+|aon=EquipmentMiscDisplay.aspx?ItemName=Ram%20(common)
 |cat=坐骑与宠物
 |price=50 gp（战斗训练）；25 gp（普通）
 |weight=—

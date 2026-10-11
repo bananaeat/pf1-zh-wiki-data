@@ -1,10 +1,10 @@
 {{Feat
 |name=至高虔诚
 |english_name=Ultimate Resolve
-|description=你的虔诚灵光不会随着你一同倒下。
-|prerequisites=【虔诚灵光】职业特性
-|benefit=你的【虔诚灵光】为20尺散发，并且不会随着你的倒下而无效。
-|normal=【虔诚灵光】对10尺内的队友生效，并且当你失去知觉或者死亡时将失去作用。
+|description=你的虔诚灵氲不会随着你一同倒下。
+|prerequisites=【虔诚灵氲】职业特性
+|benefit=你的【虔诚灵氲】为20尺散发，并且不会随着你的倒下而无效。
+|normal=【虔诚灵氲】对10尺内的队友生效，并且当你失去知觉或者死亡时将失去作用。
 |source=UM
 |source_name=极限魔法
 |source_url=https://pf1chm.pages.dev/topics/page_198.html

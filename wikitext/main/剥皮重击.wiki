@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragonslayer's Handbook pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=剥皮重击
+|english_name=Flaying Critical
+|categories=战斗;重击
+|description=你的重击会削弱对手的防御。
+|prerequisites=[[重击专攻]]，基本攻击加值+11。
+|benefit=每当你打出[[重击]]，你的对手在本次遭遇持续期间，天生护甲加值承受-1减值。该减值可以累积，但不能使对手的天生护甲加值降到0以下。
+|source=DH
+|source_name=屠龙者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Flaying%20Critical
+}}

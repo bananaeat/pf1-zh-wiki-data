@@ -1,0 +1,12 @@
+{{Feat
+|name=虚妄魔之啮咬
+|english_name=Belier's Bite
+|categories=战斗
+|description=你的[[徒手攻击]]使你的对手[[流血]]。
+|prerequisites=[[精通徒手打击]]
+|benefit=当你的徒手攻击对一名对手造成伤害时，你额外造成1d4点[[流血伤害]]。
+|special=这个能力不能与其他[[特殊能力]]，攻击，物品造成的流血伤害相叠加。虚妄魔（belier devil）出现在《Pathfinder冒险路径》第12卷中。
+|source=CEoD
+|source_name=切里亚斯，魔鬼王朝
+|source_url=https://pf1chm.pages.dev/topics/page_561.html
+}}

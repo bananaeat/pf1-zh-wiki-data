@@ -3,7 +3,7 @@
 |english_name=Mithral Shirt
 |cat=特殊魔法护甲
 |base=[[秘银]][[链甲衫]]
-|aura=无灵光（非魔法）
+|aura=无灵氲（非魔法）
 |slot=护甲
 |price=1,100 gp
 |weight=10磅

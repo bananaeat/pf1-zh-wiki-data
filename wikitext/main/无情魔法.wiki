@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 24），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=无情魔法
+|english_name=Merciless Magic
+|pfs=否
+|description=你的施法对身处险境者威力最强。
+|prerequisites=能够施法，狗头人。
+|benefit=对于已受到下列任一状态影响的目标，抵抗你法术的DC提高1：[[目盲]]、[[濒死]]、[[纠缠]]、[[力竭]]、[[惊惧]]、[[无助]]、[[反胃]]、[[恐慌]]、[[麻痹]]或[[震慑]]。
+|source=KoG
+|source_name=格拉利昂的狗头人
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Merciless%20Magic
+}}

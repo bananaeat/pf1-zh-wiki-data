@@ -3,7 +3,7 @@
 |english_name=Dimensional Maneuvers
 |description=你迅速的传送让你的[[战技]]更加难以抵挡。
 |prerequisites=武僧【遁术】职业特性或可施展‘任意门’，[[次元灵巧]]，[[次元突击]]，[[次元狂舞]]，基本攻击加值+9。
-|benefit=当你使用[[次元狂舞]]专长时，你对敌人进行[[冲撞]]、[[卸武]]、移位或[[摔绊]]的战技检定获得+4加值。
+|benefit=当你使用[[次元狂舞]]专长时，你对敌人进行[[冲撞]]、[[缴械]]、移位或[[摔绊]]的战技检定获得+4加值。
 |source=UC
 |source_name=极限战斗
 |source_url=https://pf1chm.pages.dev/topics/page_199.html

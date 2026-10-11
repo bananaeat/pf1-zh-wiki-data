@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #22: The End of Eternity pg. 75），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=先发警示
+|english_name=Advance Warning
+|pfs=否
+|description=你能向附近的盟友高声示警，使他们不至于被打个措手不及。
+|prerequisites=魅力15。
+|benefit=你周围15尺内的所有盟友，在战斗第一轮中仅在你的第一个回合到来之前处于[[措手不及]]状态。这不会阻止他们因其他情形（例如被夹击）而措手不及。此外，你周围15尺内的所有盟友对所有远程攻击的AC获得+1闪避加值。这些益处只对能听见并理解你的盟友生效。
+|source_name=冒险之路22：永恒的终结
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Advance%20Warning
+}}

@@ -299,6 +299,7 @@
   "raw": {
    "name": "作弊骰子",
    "english_name": "Loaded dice",
+   "aon": "EquipmentMiscDisplay.aspx?ItemName=Loaded%20dice%20(average)",
    "category": "冒险装备",
    "price": "10 GP（普通作弊骰子），50 GP（精品作弊骰子）",
    "weight": "-磅",
@@ -308,6 +309,7 @@
   "text": {
    "name": "作弊骰子",
    "english_name": "Loaded dice",
+   "aon": "EquipmentMiscDisplay.aspx?ItemName=Loaded%20dice%20(average)",
    "category": "冒险装备",
    "price": "10 GP（普通作弊骰子），50 GP（精品作弊骰子）",
    "weight": "-磅",
@@ -331,7 +333,7 @@
    "aura": "强烈（全部学派）",
    "cl": "20",
    "weight": "20磅",
-   "description": "'''阵营：'''中立善良\n\n'''感官：'''60尺\n\n'''智力：'''10\n\n'''感知：'''12\n\n'''魅力：'''14\n\n'''自我值：'''14\n\n'''语言：'''说话能力（通用语）\n\n俗世圣遗物（Earthbound Reliquary）被存放于一个直径6寸，而长为2尺长的玻璃柱体中。祂充斥着漩涡般的金色气体，每端逐渐错杂而变尖得顶部上，盖上了精心雕刻的铜帽。在跳蚤市场的摊位上被发现，该物品据称是存有一名传奇英雄那被囚禁的精神，这名传奇英雄是曾寻回晨花（Dawnflower）的世俗教派的赛伦尼特（Sarenite）英雄。该异教团体的宣传被塞恩蕾那强大的神庙所驳斥，这驱逐了该异教团体的地下崇拜使那威胁要篡夺真正教会的教义，成为了诽谤性的异端邪说。尽管如此，这位异教团体创始人仍然相信着该偶像的神圣力量和纽带，因此一个以该偶像为中心的分裂教派出现了。\n\n该偶像试图向尽可能多的人传播被困入其中的精神的真实信息。出于其自身费解之缘由，祂与异教团体创始人进行了感同身受地交流， 双方以某种程度上类似于以吵闹鬼（Pathfinder RPG Occult Adventures 230）的形式相互交流，一方提出问题而一方试图破解答案。这样子著书在这个超过200名信徒的异教团体中被视为神圣的工作，这些信徒将之作为励志的大版面报纸印刷，以质问伟大塞恩蕾教会的教义，并宣称起源。几乎无人可以质疑该异教团体的善行，而其信徒也在迅速增长。尽管被驱逐至隐匿，该异教团体还是会露面医治病人，救济穷人，并为其无私而虔诚福音布道。\n\n该圣遗物是易碎的（硬度3，生命值20，破坏DC 15），并在某处被守卫的地下墓窟中被小心的保存着。俗世圣遗物（Earthbound Reliquary）拥有引导能量能力（2d6点正能量，DC 15），并且每日可以引导正能量5次。该异教团体主要利用这种能力来医治福音工作中的伤者。祂同样具备着圣化灵光（deific aura）偶像能力。\n\n该偶像试图质疑塞恩蕾大教堂的权威，而这种动机引起了强大审判者们的注意。尽管该异教团体做得很好，但是偶像被发现可能只是时间问题。尽管自该异教团体成立以来做了许多善行，但如果这些发现者们在来自于塞恩蕾教会的主[[流派]]，该偶像可能会面临严重的危险。\n\n'''摧毁：'''该偶像被降至其基础自我值，并且在1轮内将其沐浴在至少20点正能量中过充，就会摧毁该偶像",
+   "description": "'''阵营：'''中立善良\n\n'''感官：'''60尺\n\n'''智力：'''10\n\n'''感知：'''12\n\n'''魅力：'''14\n\n'''自我值：'''14\n\n'''语言：'''说话能力（通用语）\n\n俗世圣遗物（Earthbound Reliquary）被存放于一个直径6寸，而长为2尺长的玻璃柱体中。祂充斥着漩涡般的金色气体，每端逐渐错杂而变尖得顶部上，盖上了精心雕刻的铜帽。在跳蚤市场的摊位上被发现，该物品据称是存有一名传奇英雄那被囚禁的精神，这名传奇英雄是曾寻回晨花（Dawnflower）的世俗教派的赛伦尼特（Sarenite）英雄。该异教团体的宣传被塞恩蕾那强大的神庙所驳斥，这驱逐了该异教团体的地下崇拜使那威胁要篡夺真正教会的教义，成为了诽谤性的异端邪说。尽管如此，这位异教团体创始人仍然相信着该偶像的神圣力量和纽带，因此一个以该偶像为中心的分裂教派出现了。\n\n该偶像试图向尽可能多的人传播被困入其中的精神的真实信息。出于其自身费解之缘由，祂与异教团体创始人进行了感同身受地交流， 双方以某种程度上类似于以吵闹鬼（Pathfinder RPG Occult Adventures 230）的形式相互交流，一方提出问题而一方试图破解答案。这样子著书在这个超过200名信徒的异教团体中被视为神圣的工作，这些信徒将之作为励志的大版面报纸印刷，以质问伟大塞恩蕾教会的教义，并宣称起源。几乎无人可以质疑该异教团体的善行，而其信徒也在迅速增长。尽管被驱逐至隐匿，该异教团体还是会露面医治病人，救济穷人，并为其无私而虔诚福音布道。\n\n该圣遗物是易碎的（硬度3，生命值20，破坏DC 15），并在某处被守卫的地下墓窟中被小心的保存着。俗世圣遗物（Earthbound Reliquary）拥有引导能量能力（2d6点正能量，DC 15），并且每日可以引导正能量5次。该异教团体主要利用这种能力来医治福音工作中的伤者。祂同样具备着圣化灵氲（deific aura）偶像能力。\n\n该偶像试图质疑塞恩蕾大教堂的权威，而这种动机引起了强大审判者们的注意。尽管该异教团体做得很好，但是偶像被发现可能只是时间问题。尽管自该异教团体成立以来做了许多善行，但如果这些发现者们在来自于塞恩蕾教会的主[[流派]]，该偶像可能会面临严重的危险。\n\n'''摧毁：'''该偶像被降至其基础自我值，并且在1轮内将其沐浴在至少20点正能量中过充，就会摧毁该偶像",
    "source_name": "异能国度",
    "source_url": "https://pf1chm.pages.dev/topics/zhf5888805c8.htm"
   },
@@ -342,7 +344,7 @@
    "aura": "强烈（全部学派）",
    "cl": "20",
    "weight": "20磅",
-   "description": "阵营：中立善良\n\n感官：60尺\n\n智力：10\n\n感知：12\n\n魅力：14\n\n自我值：14\n\n语言：说话能力（通用语）\n\n俗世圣遗物（Earthbound Reliquary）被存放于一个直径6寸，而长为2尺长的玻璃柱体中。祂充斥着漩涡般的金色气体，每端逐渐错杂而变尖得顶部上，盖上了精心雕刻的铜帽。在跳蚤市场的摊位上被发现，该物品据称是存有一名传奇英雄那被囚禁的精神，这名传奇英雄是曾寻回晨花（Dawnflower）的世俗教派的赛伦尼特（Sarenite）英雄。该异教团体的宣传被塞恩蕾那强大的神庙所驳斥，这驱逐了该异教团体的地下崇拜使那威胁要篡夺真正教会的教义，成为了诽谤性的异端邪说。尽管如此，这位异教团体创始人仍然相信着该偶像的神圣力量和纽带，因此一个以该偶像为中心的分裂教派出现了。\n\n该偶像试图向尽可能多的人传播被困入其中的精神的真实信息。出于其自身费解之缘由，祂与异教团体创始人进行了感同身受地交流， 双方以某种程度上类似于以吵闹鬼（Pathfinder RPG Occult Adventures 230）的形式相互交流，一方提出问题而一方试图破解答案。这样子著书在这个超过200名信徒的异教团体中被视为神圣的工作，这些信徒将之作为励志的大版面报纸印刷，以质问伟大塞恩蕾教会的教义，并宣称起源。几乎无人可以质疑该异教团体的善行，而其信徒也在迅速增长。尽管被驱逐至隐匿，该异教团体还是会露面医治病人，救济穷人，并为其无私而虔诚福音布道。\n\n该圣遗物是易碎的（硬度3，生命值20，破坏DC 15），并在某处被守卫的地下墓窟中被小心的保存着。俗世圣遗物（Earthbound Reliquary）拥有引导能量能力（2d6点正能量，DC 15），并且每日可以引导正能量5次。该异教团体主要利用这种能力来医治福音工作中的伤者。祂同样具备着圣化灵光（deific aura）偶像能力。\n\n该偶像试图质疑塞恩蕾大教堂的权威，而这种动机引起了强大审判者们的注意。尽管该异教团体做得很好，但是偶像被发现可能只是时间问题。尽管自该异教团体成立以来做了许多善行，但如果这些发现者们在来自于塞恩蕾教会的主流派，该偶像可能会面临严重的危险。\n\n摧毁：该偶像被降至其基础自我值，并且在1轮内将其沐浴在至少20点正能量中过充，就会摧毁该偶像",
+   "description": "阵营：中立善良\n\n感官：60尺\n\n智力：10\n\n感知：12\n\n魅力：14\n\n自我值：14\n\n语言：说话能力（通用语）\n\n俗世圣遗物（Earthbound Reliquary）被存放于一个直径6寸，而长为2尺长的玻璃柱体中。祂充斥着漩涡般的金色气体，每端逐渐错杂而变尖得顶部上，盖上了精心雕刻的铜帽。在跳蚤市场的摊位上被发现，该物品据称是存有一名传奇英雄那被囚禁的精神，这名传奇英雄是曾寻回晨花（Dawnflower）的世俗教派的赛伦尼特（Sarenite）英雄。该异教团体的宣传被塞恩蕾那强大的神庙所驳斥，这驱逐了该异教团体的地下崇拜使那威胁要篡夺真正教会的教义，成为了诽谤性的异端邪说。尽管如此，这位异教团体创始人仍然相信着该偶像的神圣力量和纽带，因此一个以该偶像为中心的分裂教派出现了。\n\n该偶像试图向尽可能多的人传播被困入其中的精神的真实信息。出于其自身费解之缘由，祂与异教团体创始人进行了感同身受地交流， 双方以某种程度上类似于以吵闹鬼（Pathfinder RPG Occult Adventures 230）的形式相互交流，一方提出问题而一方试图破解答案。这样子著书在这个超过200名信徒的异教团体中被视为神圣的工作，这些信徒将之作为励志的大版面报纸印刷，以质问伟大塞恩蕾教会的教义，并宣称起源。几乎无人可以质疑该异教团体的善行，而其信徒也在迅速增长。尽管被驱逐至隐匿，该异教团体还是会露面医治病人，救济穷人，并为其无私而虔诚福音布道。\n\n该圣遗物是易碎的（硬度3，生命值20，破坏DC 15），并在某处被守卫的地下墓窟中被小心的保存着。俗世圣遗物（Earthbound Reliquary）拥有引导能量能力（2d6点正能量，DC 15），并且每日可以引导正能量5次。该异教团体主要利用这种能力来医治福音工作中的伤者。祂同样具备着圣化灵氲（deific aura）偶像能力。\n\n该偶像试图质疑塞恩蕾大教堂的权威，而这种动机引起了强大审判者们的注意。尽管该异教团体做得很好，但是偶像被发现可能只是时间问题。尽管自该异教团体成立以来做了许多善行，但如果这些发现者们在来自于塞恩蕾教会的主流派，该偶像可能会面临严重的危险。\n\n摧毁：该偶像被降至其基础自我值，并且在1轮内将其沐浴在至少20点正能量中过充，就会摧毁该偶像",
    "source_name": "异能国度",
    "source_url": "https://pf1chm.pages.dev/topics/zhf5888805c8.htm"
   }
@@ -674,7 +676,7 @@
    "slot": "无位置",
    "requirements": "[[制造奇物]]，制造者必须为12级",
    "cost": "4000gp",
-   "description": "曾经由古阿兹兰特（ancient Azlant）的勇士使用，这些奇形怪状的[[艾恩石]]现在是探路者协会（Pathfinder Society）中擅长使用技巧战斗的成员所爱用的[[奇物]]。这些变体艾恩石类似于带刺的球体——每个都呈现出具有几十个突触的球体形状。每个颜色的刺球形艾恩石都会使佩戴者在某种特定的[[战技]]检定中获得+2表现加值。所有刺球形艾恩石都具有相同的售价以及制造价格。\n\n棕色（Brown）：摔绊（trip）战技获得+2表现加值。\n\n绯红（Crimson）：[[冲撞]]（bull）战技获得+2表现加值。\n\n橙色（Orange）：[[击破]]（sunder）战技获得+2表现加值。\n\n银色（Silver）：[[闯越]]（overrun）战技获得+2表现加值。\n\n青色（Teal）：[[卸武]]（disarm）战技获得+2表现加值。\n\n紫色（Violet）：[[擒抱]]（grapple）战技获得+2表现加值。\n\n刺球形艾恩石的共鸣之力（Thorny Ioun Stone Resonant Powers）\n\n当艾恩石（Ioun Stone）被放入魔法指南针（Wayfinder；[[内海世界指南]]299页，见下）的特殊凹槽后，某种共鸣之力有时会增强艾恩石的力量，不过这会抑制住魔法指南针正常的魔法能力。这种次级功能是在艾恩石正常效果之外额外产生的，这会持续影响魔法指南针的持有者，就如同艾恩石环绕在她头顶一般。若同一个角色携带着两个产生共鸣之力的魔法指南针，那么其中之一的力量会被压制住，但是在其中一个魔法指南针被拿掉后，两者的力量都会恢复正常。\n\n仅有75%的艾恩石能够在放入魔法指南针的时候产生共鸣之力。\n\n刺球形艾恩石的共鸣之力会赋予佩戴者[[特技专家]]或[[运动健将]]专长的好处。具体为何种专长根据每个艾恩石不同而有所差异，出现上述每个专长的概率相等（50%）。\n\n'''另一种：'''\n\n曾经由古阿兹兰特（ancient Azlant）的勇士使用，这些奇形怪状的艾恩石现在是探路者协会（Pathfinder Society）中擅长使用技巧战斗的成员所爱用的奇物。这些变体艾恩石类似于带刺的球体——每个都呈现出具有几十个突触的球体形状。每个颜色的刺球形艾恩石都会使佩戴者在某种特定的战技检定中获得+2表现加值。所有刺球形艾恩石都具有相同的售价以及制造价格。\n\n棕色（Brown）：摔绊（trip）战技获得+2表现加值。\n\n绯红（Crimson）：冲撞（bull）战技获得+2表现加值。\n\n橙色（Orange）：击破（sunder）战技获得+2表现加值。\n\n银色（Silver）：闯越（overrun）战技获得+2表现加值。\n\n青色（Teal）：卸武（disarm）战技获得+2表现加值。\n\n紫色（Violet）：擒抱（grapple）战技获得+2表现加值。\n\n边栏\n\n刺球形艾恩石的共鸣之力（Thorny Ioun Stone Resonant Powers）\n\n当艾恩石（Ioun Stone）被放入魔法指南针（Wayfinder；内海世界指南299页，见下）的特殊凹槽后，某种共鸣之力有时会增强艾恩石的力量，不过这会抑制住魔法指南针正常的魔法能力。这种次级功能是在艾恩石正常效果之外额外产生的，这会持续影响魔法指南针的持有者，就如同艾恩石环绕在她头顶一般。若同一个角色携带着两个产生共鸣之力的魔法指南针，那么其中之一的力量会被压制住，但是在其中一个魔法指南针被拿掉后，两者的力量都会恢复正常。\n\n仅有75%的艾恩石能够在放入魔法指南针的时候产生共鸣之力。\n\n刺球形艾恩石的共鸣之力会赋予佩戴者特技专家（Acrobatic）或运动健将（Athletic）专长的好处。具体为何种专长根据每个艾恩石不同而有所差异，出现上述每个专长的概率相等（50%）。"
+   "description": "曾经由古阿兹兰特（ancient Azlant）的勇士使用，这些奇形怪状的[[艾恩石]]现在是探路者协会（Pathfinder Society）中擅长使用技巧战斗的成员所爱用的[[奇物]]。这些变体艾恩石类似于带刺的球体——每个都呈现出具有几十个突触的球体形状。每个颜色的刺球形艾恩石都会使佩戴者在某种特定的[[战技]]检定中获得+2表现加值。所有刺球形艾恩石都具有相同的售价以及制造价格。\n\n棕色（Brown）：摔绊（trip）战技获得+2表现加值。\n\n绯红（Crimson）：[[冲撞]]（bull）战技获得+2表现加值。\n\n橙色（Orange）：[[击破]]（sunder）战技获得+2表现加值。\n\n银色（Silver）：[[闯越]]（overrun）战技获得+2表现加值。\n\n青色（Teal）：[[缴械]]（disarm）战技获得+2表现加值。\n\n紫色（Violet）：[[擒抱]]（grapple）战技获得+2表现加值。\n\n刺球形艾恩石的共鸣之力（Thorny Ioun Stone Resonant Powers）\n\n当艾恩石（Ioun Stone）被放入魔法指南针（Wayfinder；[[内海世界指南]]299页，见下）的特殊凹槽后，某种共鸣之力有时会增强艾恩石的力量，不过这会抑制住魔法指南针正常的魔法能力。这种次级功能是在艾恩石正常效果之外额外产生的，这会持续影响魔法指南针的持有者，就如同艾恩石环绕在她头顶一般。若同一个角色携带着两个产生共鸣之力的魔法指南针，那么其中之一的力量会被压制住，但是在其中一个魔法指南针被拿掉后，两者的力量都会恢复正常。\n\n仅有75%的艾恩石能够在放入魔法指南针的时候产生共鸣之力。\n\n刺球形艾恩石的共鸣之力会赋予佩戴者[[特技专家]]或[[运动健将]]专长的好处。具体为何种专长根据每个艾恩石不同而有所差异，出现上述每个专长的概率相等（50%）。\n\n'''另一种：'''\n\n曾经由古阿兹兰特（ancient Azlant）的勇士使用，这些奇形怪状的艾恩石现在是探路者协会（Pathfinder Society）中擅长使用技巧战斗的成员所爱用的奇物。这些变体艾恩石类似于带刺的球体——每个都呈现出具有几十个突触的球体形状。每个颜色的刺球形艾恩石都会使佩戴者在某种特定的战技检定中获得+2表现加值。所有刺球形艾恩石都具有相同的售价以及制造价格。\n\n棕色（Brown）：摔绊（trip）战技获得+2表现加值。\n\n绯红（Crimson）：冲撞（bull）战技获得+2表现加值。\n\n橙色（Orange）：击破（sunder）战技获得+2表现加值。\n\n银色（Silver）：闯越（overrun）战技获得+2表现加值。\n\n青色（Teal）：缴械（disarm）战技获得+2表现加值。\n\n紫色（Violet）：擒抱（grapple）战技获得+2表现加值。\n\n边栏\n\n刺球形艾恩石的共鸣之力（Thorny Ioun Stone Resonant Powers）\n\n当艾恩石（Ioun Stone）被放入魔法指南针（Wayfinder；内海世界指南299页，见下）的特殊凹槽后，某种共鸣之力有时会增强艾恩石的力量，不过这会抑制住魔法指南针正常的魔法能力。这种次级功能是在艾恩石正常效果之外额外产生的，这会持续影响魔法指南针的持有者，就如同艾恩石环绕在她头顶一般。若同一个角色携带着两个产生共鸣之力的魔法指南针，那么其中之一的力量会被压制住，但是在其中一个魔法指南针被拿掉后，两者的力量都会恢复正常。\n\n仅有75%的艾恩石能够在放入魔法指南针的时候产生共鸣之力。\n\n刺球形艾恩石的共鸣之力会赋予佩戴者特技专家（Acrobatic）或运动健将（Athletic）专长的好处。具体为何种专长根据每个艾恩石不同而有所差异，出现上述每个专长的概率相等（50%）。"
   },
   "text": {
    "name": "刺球形艾恩石",
@@ -687,7 +689,7 @@
    "slot": "无位置",
    "requirements": "制造奇物，制造者必须为12级",
    "cost": "4000gp",
-   "description": "曾经由古阿兹兰特（ancient Azlant）的勇士使用，这些奇形怪状的艾恩石现在是探路者协会（Pathfinder Society）中擅长使用技巧战斗的成员所爱用的奇物。这些变体艾恩石类似于带刺的球体——每个都呈现出具有几十个突触的球体形状。每个颜色的刺球形艾恩石都会使佩戴者在某种特定的战技检定中获得+2表现加值。所有刺球形艾恩石都具有相同的售价以及制造价格。\n\n棕色（Brown）：摔绊（trip）战技获得+2表现加值。\n\n绯红（Crimson）：冲撞（bull）战技获得+2表现加值。\n\n橙色（Orange）：击破（sunder）战技获得+2表现加值。\n\n银色（Silver）：闯越（overrun）战技获得+2表现加值。\n\n青色（Teal）：卸武（disarm）战技获得+2表现加值。\n\n紫色（Violet）：擒抱（grapple）战技获得+2表现加值。\n\n刺球形艾恩石的共鸣之力（Thorny Ioun Stone Resonant Powers）\n\n当艾恩石（Ioun Stone）被放入魔法指南针（Wayfinder；内海世界指南299页，见下）的特殊凹槽后，某种共鸣之力有时会增强艾恩石的力量，不过这会抑制住魔法指南针正常的魔法能力。这种次级功能是在艾恩石正常效果之外额外产生的，这会持续影响魔法指南针的持有者，就如同艾恩石环绕在她头顶一般。若同一个角色携带着两个产生共鸣之力的魔法指南针，那么其中之一的力量会被压制住，但是在其中一个魔法指南针被拿掉后，两者的力量都会恢复正常。\n\n仅有75%的艾恩石能够在放入魔法指南针的时候产生共鸣之力。\n\n刺球形艾恩石的共鸣之力会赋予佩戴者特技专家或运动健将专长的好处。具体为何种专长根据每个艾恩石不同而有所差异，出现上述每个专长的概率相等（50%）。\n\n另一种：\n\n曾经由古阿兹兰特（ancient Azlant）的勇士使用，这些奇形怪状的艾恩石现在是探路者协会（Pathfinder Society）中擅长使用技巧战斗的成员所爱用的奇物。这些变体艾恩石类似于带刺的球体——每个都呈现出具有几十个突触的球体形状。每个颜色的刺球形艾恩石都会使佩戴者在某种特定的战技检定中获得+2表现加值。所有刺球形艾恩石都具有相同的售价以及制造价格。\n\n棕色（Brown）：摔绊（trip）战技获得+2表现加值。\n\n绯红（Crimson）：冲撞（bull）战技获得+2表现加值。\n\n橙色（Orange）：击破（sunder）战技获得+2表现加值。\n\n银色（Silver）：闯越（overrun）战技获得+2表现加值。\n\n青色（Teal）：卸武（disarm）战技获得+2表现加值。\n\n紫色（Violet）：擒抱（grapple）战技获得+2表现加值。\n\n边栏\n\n刺球形艾恩石的共鸣之力（Thorny Ioun Stone Resonant Powers）\n\n当艾恩石（Ioun Stone）被放入魔法指南针（Wayfinder；内海世界指南299页，见下）的特殊凹槽后，某种共鸣之力有时会增强艾恩石的力量，不过这会抑制住魔法指南针正常的魔法能力。这种次级功能是在艾恩石正常效果之外额外产生的，这会持续影响魔法指南针的持有者，就如同艾恩石环绕在她头顶一般。若同一个角色携带着两个产生共鸣之力的魔法指南针，那么其中之一的力量会被压制住，但是在其中一个魔法指南针被拿掉后，两者的力量都会恢复正常。\n\n仅有75%的艾恩石能够在放入魔法指南针的时候产生共鸣之力。\n\n刺球形艾恩石的共鸣之力会赋予佩戴者特技专家（Acrobatic）或运动健将（Athletic）专长的好处。具体为何种专长根据每个艾恩石不同而有所差异，出现上述每个专长的概率相等（50%）。"
+   "description": "曾经由古阿兹兰特（ancient Azlant）的勇士使用，这些奇形怪状的艾恩石现在是探路者协会（Pathfinder Society）中擅长使用技巧战斗的成员所爱用的奇物。这些变体艾恩石类似于带刺的球体——每个都呈现出具有几十个突触的球体形状。每个颜色的刺球形艾恩石都会使佩戴者在某种特定的战技检定中获得+2表现加值。所有刺球形艾恩石都具有相同的售价以及制造价格。\n\n棕色（Brown）：摔绊（trip）战技获得+2表现加值。\n\n绯红（Crimson）：冲撞（bull）战技获得+2表现加值。\n\n橙色（Orange）：击破（sunder）战技获得+2表现加值。\n\n银色（Silver）：闯越（overrun）战技获得+2表现加值。\n\n青色（Teal）：缴械（disarm）战技获得+2表现加值。\n\n紫色（Violet）：擒抱（grapple）战技获得+2表现加值。\n\n刺球形艾恩石的共鸣之力（Thorny Ioun Stone Resonant Powers）\n\n当艾恩石（Ioun Stone）被放入魔法指南针（Wayfinder；内海世界指南299页，见下）的特殊凹槽后，某种共鸣之力有时会增强艾恩石的力量，不过这会抑制住魔法指南针正常的魔法能力。这种次级功能是在艾恩石正常效果之外额外产生的，这会持续影响魔法指南针的持有者，就如同艾恩石环绕在她头顶一般。若同一个角色携带着两个产生共鸣之力的魔法指南针，那么其中之一的力量会被压制住，但是在其中一个魔法指南针被拿掉后，两者的力量都会恢复正常。\n\n仅有75%的艾恩石能够在放入魔法指南针的时候产生共鸣之力。\n\n刺球形艾恩石的共鸣之力会赋予佩戴者特技专家或运动健将专长的好处。具体为何种专长根据每个艾恩石不同而有所差异，出现上述每个专长的概率相等（50%）。\n\n另一种：\n\n曾经由古阿兹兰特（ancient Azlant）的勇士使用，这些奇形怪状的艾恩石现在是探路者协会（Pathfinder Society）中擅长使用技巧战斗的成员所爱用的奇物。这些变体艾恩石类似于带刺的球体——每个都呈现出具有几十个突触的球体形状。每个颜色的刺球形艾恩石都会使佩戴者在某种特定的战技检定中获得+2表现加值。所有刺球形艾恩石都具有相同的售价以及制造价格。\n\n棕色（Brown）：摔绊（trip）战技获得+2表现加值。\n\n绯红（Crimson）：冲撞（bull）战技获得+2表现加值。\n\n橙色（Orange）：击破（sunder）战技获得+2表现加值。\n\n银色（Silver）：闯越（overrun）战技获得+2表现加值。\n\n青色（Teal）：缴械（disarm）战技获得+2表现加值。\n\n紫色（Violet）：擒抱（grapple）战技获得+2表现加值。\n\n边栏\n\n刺球形艾恩石的共鸣之力（Thorny Ioun Stone Resonant Powers）\n\n当艾恩石（Ioun Stone）被放入魔法指南针（Wayfinder；内海世界指南299页，见下）的特殊凹槽后，某种共鸣之力有时会增强艾恩石的力量，不过这会抑制住魔法指南针正常的魔法能力。这种次级功能是在艾恩石正常效果之外额外产生的，这会持续影响魔法指南针的持有者，就如同艾恩石环绕在她头顶一般。若同一个角色携带着两个产生共鸣之力的魔法指南针，那么其中之一的力量会被压制住，但是在其中一个魔法指南针被拿掉后，两者的力量都会恢复正常。\n\n仅有75%的艾恩石能够在放入魔法指南针的时候产生共鸣之力。\n\n刺球形艾恩石的共鸣之力会赋予佩戴者特技专家（Acrobatic）或运动健将（Athletic）专长的好处。具体为何种专长根据每个艾恩石不同而有所差异，出现上述每个专长的概率相等（50%）。"
   }
  },
  {
@@ -1473,7 +1475,7 @@
    "name": "多重祷念珠串",
    "english_name": "Strand of Many Prayer Beads",
    "category": "奇物",
-   "aura": "多种微弱灵光",
+   "aura": "多种微弱灵氲",
    "cl": "4级",
    "price": "900gp",
    "weight": "0.5磅",
@@ -1486,7 +1488,7 @@
    "name": "多重祷念珠串",
    "english_name": "Strand of Many Prayer Beads",
    "category": "奇物",
-   "aura": "多种微弱灵光",
+   "aura": "多种微弱灵氲",
    "cl": "4级",
    "price": "900gp",
    "weight": "0.5磅",
@@ -1572,7 +1574,7 @@
    "slot": "无位置",
    "requirements": "[[锻造戒指]]，[[融身入石]]，[[穿墙术]]，[[柔石术]]，[[塑石术]]，[[石肤术]]，[[召唤怪物 VI]]，[[石墙术]]",
    "cost": "79500gp",
-   "description": "这枚石质[[魔法物品#戒指|戒指]]的表面上总是覆盖着一层薄薄的泥土。它会赋予佩戴者每日使用1次融身入石的能力。\n\n'''成长分档'''：珍宝（见 [[成长型物品]]）\n\n'''8级'''：佩戴者每日还能够使用1次柔石术。佩戴者能够说土族语，而且她还会在对抗任何来自土元素位面的生物的攻击时豁免检定获得+2抗力加值，在对这些生物做出攻击检定时获得+4士气加值。除此之外，这些生物在对佩戴者进行攻击检定时会承受-1减值。佩戴者在对抗气或者闪电效果时，所有豁免检定承受-2减值。\n\n'''11级'''：土元素无法攻击佩戴者，甚至无法靠近她身边5尺范围内。若佩戴者愿意，她也能尝试对一个土元素使用魅惑怪物（DC 17，意志豁免通过则无效）。若此尝试失败，佩戴者便会失去对于这个元素的防护，而且无法再次尝试魅惑这个元素。\n\n'''14级'''：佩戴者每日可以使用2次塑石术，而且每周可以对自己使用1次石肤术。\n\n'''16级'''：佩戴者每日可以使用1次石墙术，而且每日可以使用3次融身入石。\n\n'''17级'''：佩戴者每周可以使用1次穿墙术，而且现在可以随意使用融身入石。\n\n'''18级'''：佩戴者每周可以使用2次穿墙术，而且现在可以随意使用柔石术。"
+   "description": "这枚石质[[魔法物品/戒指|戒指]]的表面上总是覆盖着一层薄薄的泥土。它会赋予佩戴者每日使用1次融身入石的能力。\n\n'''成长分档'''：珍宝（见 [[成长型物品]]）\n\n'''8级'''：佩戴者每日还能够使用1次柔石术。佩戴者能够说土族语，而且她还会在对抗任何来自土元素位面的生物的攻击时豁免检定获得+2抗力加值，在对这些生物做出攻击检定时获得+4士气加值。除此之外，这些生物在对佩戴者进行攻击检定时会承受-1减值。佩戴者在对抗气或者闪电效果时，所有豁免检定承受-2减值。\n\n'''11级'''：土元素无法攻击佩戴者，甚至无法靠近她身边5尺范围内。若佩戴者愿意，她也能尝试对一个土元素使用魅惑怪物（DC 17，意志豁免通过则无效）。若此尝试失败，佩戴者便会失去对于这个元素的防护，而且无法再次尝试魅惑这个元素。\n\n'''14级'''：佩戴者每日可以使用2次塑石术，而且每周可以对自己使用1次石肤术。\n\n'''16级'''：佩戴者每日可以使用1次石墙术，而且每日可以使用3次融身入石。\n\n'''17级'''：佩戴者每周可以使用1次穿墙术，而且现在可以随意使用融身入石。\n\n'''18级'''：佩戴者每周可以使用2次穿墙术，而且现在可以随意使用柔石术。"
   },
   "text": {
    "name": "大地领主之戒",
@@ -1699,6 +1701,7 @@
   "raw": {
    "name": "奇妙珊瑚水马雕像",
    "english_name": "Coral Hippocampus Figurine of Wondrous Power",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Figurine%20of%20Wondrous%20PowerCoral%20Hippocampus",
    "category": "奇物",
    "aura": "强烈塑能系和变化系",
    "cl": "19",
@@ -1713,6 +1716,7 @@
   "text": {
    "name": "奇妙珊瑚水马雕像",
    "english_name": "Coral Hippocampus Figurine of Wondrous Power",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Figurine%20of%20Wondrous%20PowerCoral%20Hippocampus",
    "category": "奇物",
    "aura": "强烈塑能系和变化系",
    "cl": "19",
@@ -2186,6 +2190,7 @@
   "raw": {
    "name": "宣纸",
    "english_name": "Rice paper",
+   "aon": "EquipmentMiscDisplay.aspx?ItemName=Rice%20paper%20(sheet)",
    "category": "冒险装备",
    "price": "5 铜币",
    "weight": "—",
@@ -2194,6 +2199,7 @@
   "text": {
    "name": "宣纸",
    "english_name": "Rice paper",
+   "aon": "EquipmentMiscDisplay.aspx?ItemName=Rice%20paper%20(sheet)",
    "category": "冒险装备",
    "price": "5 铜币",
    "weight": "—",
@@ -2740,6 +2746,7 @@
   ],
   "raw": {
    "name": "战斗剑鞘",
+   "english_name": "Combat scabbard",
    "category": "武器",
    "price": "1gp",
    "weight": "1磅",
@@ -2752,6 +2759,7 @@
   },
   "text": {
    "name": "战斗剑鞘",
+   "english_name": "Combat scabbard",
    "category": "武器",
    "price": "1gp",
    "weight": "1磅",
@@ -3316,7 +3324,7 @@
    "name": "暗木造物",
    "english_name": "Darkwood Creations",
    "category": "冒险装备",
-   "description": "基布维和芒吉莽原（Mwangi Expanse）的南方是狂啸丛林（Screaming Jungle），这里是数以百万计的尖叫的猴子以及暴乱生长的各种植群的家乡。在这里，商人们勇敢地面对陌生而多雾的丛林的危险，并收获利润丰厚的黑木树的木料和树叶。下面是基布维人使用黑木的数种方式。更多有关黑木的信息详见Pathfinder RPG Core Rulebook第154页。",
+   "description": "基布维和莽吉莽原（Mwangi Expanse）的南方是狂啸丛林（Screaming Jungle），这里是数以百万计的尖叫的猴子以及暴乱生长的各种植群的家乡。在这里，商人们勇敢地面对陌生而多雾的丛林的危险，并收获利润丰厚的黑木树的木料和树叶。下面是基布维人使用黑木的数种方式。更多有关黑木的信息详见Pathfinder RPG Core Rulebook第154页。",
    "source": "MM",
    "source_name": "商人货单"
   },
@@ -3324,7 +3332,7 @@
    "name": "暗木造物",
    "english_name": "Darkwood Creations",
    "category": "冒险装备",
-   "description": "基布维和芒吉莽原（Mwangi Expanse）的南方是狂啸丛林（Screaming Jungle），这里是数以百万计的尖叫的猴子以及暴乱生长的各种植群的家乡。在这里，商人们勇敢地面对陌生而多雾的丛林的危险，并收获利润丰厚的黑木树的木料和树叶。下面是基布维人使用黑木的数种方式。更多有关黑木的信息详见Pathfinder RPG Core Rulebook第154页。",
+   "description": "基布维和莽吉莽原（Mwangi Expanse）的南方是狂啸丛林（Screaming Jungle），这里是数以百万计的尖叫的猴子以及暴乱生长的各种植群的家乡。在这里，商人们勇敢地面对陌生而多雾的丛林的危险，并收获利润丰厚的黑木树的木料和树叶。下面是基布维人使用黑木的数种方式。更多有关黑木的信息详见Pathfinder RPG Core Rulebook第154页。",
    "source": "MM",
    "source_name": "商人货单"
   }
@@ -3495,7 +3503,7 @@
    "slot": "无位置",
    "requirements": "[[锻造戒指]]，[[巨龙形态 II]]，[[加速术]]，[[抵抗能量伤害]]",
    "cost": "66000gp",
-   "description": "这枚[[魔法物品#戒指|戒指]]由一块绿色石头雕琢而成，它的形状看起来如同龙兽的头部一般。戒指会赋予佩戴者5点酸蚀抗力。当戒指保护佩戴者时，它会持续散发出酸的气味。\n\n'''成长分档'''：珍物（见 [[成长型物品]]）\n\n'''11级'''：戒指提供10点酸蚀抗力。\n\n'''14级'''：戒指提供20点酸蚀抗力。\n\n'''17级'''：戒指提供30点酸蚀抗力。佩戴者获得在水下呼吸的能力。每日1次，戒指的佩戴者能够以迅捷动作做出1次主要啮咬攻击。若她并未具有啮咬攻击，那么以这个迅捷动作的一部分，她的牙齿会变得像是细长的龙牙，这使得她会获得1次啮咬攻击，对于中型佩戴者来说能造成1d6点伤害（小型为1d4点）。\n\n'''20级'''：每日1次，戒指的佩戴者能够变形为森林龙兽的形态。该能力的效果如同使用巨龙形态 II变形为绿龙一般，不过佩戴者的强酸喷吐武器会对距离自身60尺范围内的半径10尺扩散区域造成伤害，而且这些气雾会如同隐雾术一般逗留1d4轮。"
+   "description": "这枚[[魔法物品/戒指|戒指]]由一块绿色石头雕琢而成，它的形状看起来如同龙兽的头部一般。戒指会赋予佩戴者5点酸蚀抗力。当戒指保护佩戴者时，它会持续散发出酸的气味。\n\n'''成长分档'''：珍物（见 [[成长型物品]]）\n\n'''11级'''：戒指提供10点酸蚀抗力。\n\n'''14级'''：戒指提供20点酸蚀抗力。\n\n'''17级'''：戒指提供30点酸蚀抗力。佩戴者获得在水下呼吸的能力。每日1次，戒指的佩戴者能够以迅捷动作做出1次主要啮咬攻击。若她并未具有啮咬攻击，那么以这个迅捷动作的一部分，她的牙齿会变得像是细长的龙牙，这使得她会获得1次啮咬攻击，对于中型佩戴者来说能造成1d6点伤害（小型为1d4点）。\n\n'''20级'''：每日1次，戒指的佩戴者能够变形为森林龙兽的形态。该能力的效果如同使用巨龙形态 II变形为绿龙一般，不过佩戴者的强酸喷吐武器会对距离自身60尺范围内的半径10尺扩散区域造成伤害，而且这些气雾会如同隐雾术一般逗留1d4轮。"
   },
   "text": {
    "name": "森林龙兽之戒",
@@ -3548,6 +3556,7 @@
   ],
   "raw": {
    "name": "欺诈",
+   "english_name": "Deceptive",
    "category": "奇物",
    "aura": "中等幻术系",
    "cl": "9级",
@@ -3558,6 +3567,7 @@
   },
   "text": {
    "name": "欺诈",
+   "english_name": "Deceptive",
    "category": "奇物",
    "aura": "中等幻术系",
    "cl": "9级",
@@ -3931,7 +3941,7 @@
    "slot": "无位置",
    "requirements": "[[锻造戒指]]，[[巨龙形态 II]]，[[加速术]]，[[抵抗能量伤害]]",
    "cost": "66000gp",
-   "description": "这枚[[魔法物品#戒指|戒指]]由一块蓝绿色石头雕琢而成，它的形状看起来如同正在游水的龙一般。戒指会赋予佩戴者5点闪电抗力。当戒指保护佩戴者时，它会持续散发海的气味。\n\n'''成长分档'''：珍物（见 [[成长型物品]]）\n\n'''11级'''：戒指提供10点闪电抗力。\n\n'''14级'''：戒指提供20点闪电抗力。\n\n'''17级'''：戒指提供30点闪电抗力。佩戴者获得在水下呼吸的能力。每日1次，戒指的佩戴者能够以迅捷动作做出1次主要啮咬攻击。若她并未具有啮咬攻击，那么以这个迅捷动作的一部分，她的牙齿会变得像是细长的龙牙，这使得她会获得1次啮咬攻击，对于中型佩戴者来说能造成1d6点伤害（小型为1d4点）。\n\n'''20级'''：每日1次，戒指的佩戴者能够变形为海龙兽的形态。该能力的效果如同使用巨龙形态 II变形为蓝龙一般，不过佩戴者的闪电喷吐武器会以距离自身100尺范围内的一个生物为目标，之后引发电弧对至多7个次要目标造成伤害，这些次要目标和主要目标的距离不得超过20尺。这些每个次要电弧会攻击1个目标，造成的伤害与主要的电弧相同。"
+   "description": "这枚[[魔法物品/戒指|戒指]]由一块蓝绿色石头雕琢而成，它的形状看起来如同正在游水的龙一般。戒指会赋予佩戴者5点闪电抗力。当戒指保护佩戴者时，它会持续散发海的气味。\n\n'''成长分档'''：珍物（见 [[成长型物品]]）\n\n'''11级'''：戒指提供10点闪电抗力。\n\n'''14级'''：戒指提供20点闪电抗力。\n\n'''17级'''：戒指提供30点闪电抗力。佩戴者获得在水下呼吸的能力。每日1次，戒指的佩戴者能够以迅捷动作做出1次主要啮咬攻击。若她并未具有啮咬攻击，那么以这个迅捷动作的一部分，她的牙齿会变得像是细长的龙牙，这使得她会获得1次啮咬攻击，对于中型佩戴者来说能造成1d6点伤害（小型为1d4点）。\n\n'''20级'''：每日1次，戒指的佩戴者能够变形为海龙兽的形态。该能力的效果如同使用巨龙形态 II变形为蓝龙一般，不过佩戴者的闪电喷吐武器会以距离自身100尺范围内的一个生物为目标，之后引发电弧对至多7个次要目标造成伤害，这些次要目标和主要目标的距离不得超过20尺。这些每个次要电弧会攻击1个目标，造成的伤害与主要的电弧相同。"
   },
   "text": {
    "name": "海龙兽之戒",
@@ -4002,7 +4012,7 @@
    "price": "3600gp",
    "weight": "1磅",
    "slot": "无位置",
-   "requirements": "[[制造奇物]]，[[弱效造物术]]，[[毒击术]]",
+   "requirements": "[[制造奇物]]，[[次级造物术]]，[[毒击术]]",
    "cost": "18000gp",
    "description": "这个圆锥形带塞瓶子用淬火玻璃制作而成，它至多能够储存5剂毒素，这些内容物可以是不同类型的毒素。拥有者能够使用溢毒杯同时制作5剂毒素。她仍需要分别为每一剂尝试工艺（炼金术）检定，以确保制作成功，不过她能够同时取得这5剂毒素的制作进展（同时进行检定来判断一周或一天的制作进度）。\n\n使用者还能够将一剂已经完成的毒素添加到溢毒杯中。只要这些毒素都在溢毒杯之中，它们就会彼此保持分隔，不会混在一起，而且使用者还可以通过说出毒素的名称，来将任何她想要倒出的毒素（包括还未制作完成的毒素）倒入别的容器中。\n\n'''成长分档'''：珍物（见 [[成长型物品]]）\n\n'''9级'''：当制造者在溢毒杯之内制作毒素时，她能够使用金币价值以取代银币（sp）价值来计算毒素的制作进度。\n\n'''11级'''：每日1次，溢毒杯的拥有者能够从瓶内已经存储的任何已经制作完成的毒素选择一种，并且创造出额外1剂此类毒素。被制作出的额外毒素会在被倒出1分钟后失去效用。被复制的这剂毒素的市价不得超过20gp x 溢毒杯的施法者等级；任何未被使用的价值会被浪费掉。生物需要随身将溢毒杯携带至少24小时，才能以此方式制作毒素。\n\n'''13级'''：溢毒杯每日能够创造2剂毒素，总市价至多为40gp x 溢毒杯的施法者等级。\n\n'''15级'''：溢毒杯每日能够创造3剂毒素，总市价至多为60gp x 溢毒杯的施法者等级。"
   },
@@ -4015,7 +4025,7 @@
    "price": "3600gp",
    "weight": "1磅",
    "slot": "无位置",
-   "requirements": "制造奇物，弱效造物术，毒击术",
+   "requirements": "制造奇物，次级造物术，毒击术",
    "cost": "18000gp",
    "description": "这个圆锥形带塞瓶子用淬火玻璃制作而成，它至多能够储存5剂毒素，这些内容物可以是不同类型的毒素。拥有者能够使用溢毒杯同时制作5剂毒素。她仍需要分别为每一剂尝试工艺（炼金术）检定，以确保制作成功，不过她能够同时取得这5剂毒素的制作进展（同时进行检定来判断一周或一天的制作进度）。\n\n使用者还能够将一剂已经完成的毒素添加到溢毒杯中。只要这些毒素都在溢毒杯之中，它们就会彼此保持分隔，不会混在一起，而且使用者还可以通过说出毒素的名称，来将任何她想要倒出的毒素（包括还未制作完成的毒素）倒入别的容器中。\n\n成长分档：珍物（见 成长型物品）\n\n9级：当制造者在溢毒杯之内制作毒素时，她能够使用金币价值以取代银币（sp）价值来计算毒素的制作进度。\n\n11级：每日1次，溢毒杯的拥有者能够从瓶内已经存储的任何已经制作完成的毒素选择一种，并且创造出额外1剂此类毒素。被制作出的额外毒素会在被倒出1分钟后失去效用。被复制的这剂毒素的市价不得超过20gp x 溢毒杯的施法者等级；任何未被使用的价值会被浪费掉。生物需要随身将溢毒杯携带至少24小时，才能以此方式制作毒素。\n\n13级：溢毒杯每日能够创造2剂毒素，总市价至多为40gp x 溢毒杯的施法者等级。\n\n15级：溢毒杯每日能够创造3剂毒素，总市价至多为60gp x 溢毒杯的施法者等级。"
   }
@@ -4056,6 +4066,7 @@
   "raw": {
    "name": "灵魂视野灵药",
    "english_name": "Wraith's Sight",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Wraith's%20Sight%20Elixir",
    "category": "魔法物品",
    "aura": "中等死灵系",
    "cl": "9级",
@@ -4071,6 +4082,7 @@
   "text": {
    "name": "灵魂视野灵药",
    "english_name": "Wraith's Sight",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Wraith's%20Sight%20Elixir",
    "category": "魔法物品",
    "aura": "中等死灵系",
    "cl": "9级",
@@ -4104,7 +4116,7 @@
    "slot": "无位置",
    "requirements": "[[锻造戒指]]，[[炽焰法球]]，[[防护能量伤害]]，[[灼热射线]]",
    "cost": "23625gp",
-   "description": "这五枚金[[魔法物品#戒指|戒指]]上都镶嵌着蛋白石，戒指之间使用金色的细链子相连（这让它们仅占用单个戒指物品位）。佩戴者每日至多能够释放出5条灼热射线，每条射线都是从其中一枚戒指上射出。她能够以[[标准动作]]放出1条射线，或者以[[整轮动作]]释放2条射线（分别从两个不同的戒指）。\n\n'''成长分档'''：珍物（见 [[成长型物品]]）\n\n'''12级'''：佩戴者每天都能够忽略至多40点火焰伤害，就如同她使用了防护能量伤害一般。这些火焰伤害会被炎之五重戒所吸收；若佩戴者已经使用了灼热射线的每日使用次数，则她每吸收20点火焰伤害，便可以重新给1枚戒指充能。\n\n'''14级'''：佩戴者也可以选择制造一个炽焰法球来替代1条灼热射线。该效果的形态为1个燃烧的火环以取代球体，不过在其他方面都如同炽焰法球法术一般。\n\n'''16级'''：佩戴者每日能够吸收的火焰伤害数额提升至100点。"
+   "description": "这五枚金[[魔法物品/戒指|戒指]]上都镶嵌着蛋白石，戒指之间使用金色的细链子相连（这让它们仅占用单个戒指物品位）。佩戴者每日至多能够释放出5条灼热射线，每条射线都是从其中一枚戒指上射出。她能够以[[标准动作]]放出1条射线，或者以[[整轮动作]]释放2条射线（分别从两个不同的戒指）。\n\n'''成长分档'''：珍物（见 [[成长型物品]]）\n\n'''12级'''：佩戴者每天都能够忽略至多40点火焰伤害，就如同她使用了防护能量伤害一般。这些火焰伤害会被炎之五重戒所吸收；若佩戴者已经使用了灼热射线的每日使用次数，则她每吸收20点火焰伤害，便可以重新给1枚戒指充能。\n\n'''14级'''：佩戴者也可以选择制造一个炽焰法球来替代1条灼热射线。该效果的形态为1个燃烧的火环以取代球体，不过在其他方面都如同炽焰法球法术一般。\n\n'''16级'''：佩戴者每日能够吸收的火焰伤害数额提升至100点。"
   },
   "text": {
    "name": "炎之五重戒",
@@ -4237,6 +4249,7 @@
   "raw": {
    "name": "热能石物品",
    "english_name": "Heatstone Items",
+   "aon": "EquipmentMiscDisplay.aspx?ItemName=Heatstone",
    "category": "冒险装备",
    "description": "以下物品将[[热能石]]纳入有助其功能的构造中。价格包括每种物品做工所需的经过处理的热能石或石料。",
    "source": "MM",
@@ -4245,6 +4258,7 @@
   "text": {
    "name": "热能石物品",
    "english_name": "Heatstone Items",
+   "aon": "EquipmentMiscDisplay.aspx?ItemName=Heatstone",
    "category": "冒险装备",
    "description": "以下物品将热能石纳入有助其功能的构造中。价格包括每种物品做工所需的经过处理的热能石或石料。",
    "source": "MM",
@@ -4271,7 +4285,7 @@
    "slot": "无位置",
    "requirements": "[[锻造戒指]]，[[巨龙形态 II]]，[[加速术]]，[[抵抗能量伤害]]",
    "cost": "66000gp",
-   "description": "这枚[[魔法物品#戒指|戒指]]由一块红色石头雕琢而成，它看起来就像是一头具有燃烧之翼的龙。戒指会赋予佩戴者5点火焰抗力。当戒指保护佩戴者时，它会持续散发出硫磺的气味。\n\n'''成长分档'''：珍物（见 [[成长型物品]]）\n\n'''11级'''：戒指提供10点火焰抗力。\n\n'''14级'''：戒指提供20点火焰抗力。\n\n'''17级'''：戒指提供30点火焰抗力。佩戴者的陆上速度增加5尺。每日1次，戒指的佩戴者能够以迅捷动作做出1次主要啮咬攻击。若她并未具有啮咬攻击，那么以这个迅捷动作的一部分，她的牙齿会变得像是细长的龙牙，这使得她会获得1次啮咬攻击，对于中型佩戴者来说能造成1d6点伤害（小型为1d4点）。\n\n'''20级'''：每日1次，戒指的佩戴者能够变形为焰龙兽的形态。该能力的效果如同使用巨龙形态 II变形为红龙一般，不过佩戴者的火焰喷吐武器会对距离自身180尺范围内的半径20尺扩散区域造成伤害。"
+   "description": "这枚[[魔法物品/戒指|戒指]]由一块红色石头雕琢而成，它看起来就像是一头具有燃烧之翼的龙。戒指会赋予佩戴者5点火焰抗力。当戒指保护佩戴者时，它会持续散发出硫磺的气味。\n\n'''成长分档'''：珍物（见 [[成长型物品]]）\n\n'''11级'''：戒指提供10点火焰抗力。\n\n'''14级'''：戒指提供20点火焰抗力。\n\n'''17级'''：戒指提供30点火焰抗力。佩戴者的陆上速度增加5尺。每日1次，戒指的佩戴者能够以迅捷动作做出1次主要啮咬攻击。若她并未具有啮咬攻击，那么以这个迅捷动作的一部分，她的牙齿会变得像是细长的龙牙，这使得她会获得1次啮咬攻击，对于中型佩戴者来说能造成1d6点伤害（小型为1d4点）。\n\n'''20级'''：每日1次，戒指的佩戴者能够变形为焰龙兽的形态。该能力的效果如同使用巨龙形态 II变形为红龙一般，不过佩戴者的火焰喷吐武器会对距离自身180尺范围内的半径20尺扩散区域造成伤害。"
   },
   "text": {
    "name": "焰龙兽之戒",
@@ -4522,6 +4536,7 @@
   ],
   "raw": {
    "name": "猛犸革甲",
+   "english_name": "Mammoth Hide",
    "category": "魔法防具",
    "aura": "中等防护系及变化系",
    "cl": "6级",
@@ -4535,6 +4550,7 @@
   },
   "text": {
    "name": "猛犸革甲",
+   "english_name": "Mammoth Hide",
    "category": "魔法防具",
    "aura": "中等防护系及变化系",
    "cl": "6级",
@@ -4559,6 +4575,7 @@
   "raw": {
    "name": "猩红色艾恩石",
    "english_name": "Crimson Sphere Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Crimson%20Sphere",
    "category": "艾恩石",
    "aura": "中等变化系",
    "cl": "12",
@@ -4574,6 +4591,7 @@
   "text": {
    "name": "猩红色艾恩石",
    "english_name": "Crimson Sphere Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Crimson%20Sphere",
    "category": "艾恩石",
    "aura": "中等变化系",
    "cl": "12",
@@ -4742,7 +4760,7 @@
    "slot": "手部",
    "requirements": "[[制造奇物]]，[[连环闪电]]，[[电爪]]",
    "cost": "18302gp",
-   "description": "这双手套完全由纯铜构成的网与线编制而成，它使得穿戴者的手中充盈着电荷。穿戴者能够使用电能铜手套进行一次造成1d6点闪电伤害的近战[[接触攻击]]。若目标穿着金属护甲或者目标本身由金属构成的话，穿戴者便会在此次攻击中获得+3加值。\n\n'''成长分档'''：珍物（见 [[成长型物品]]）\n\n'''7级'''：接触攻击造成的伤害增加至2d6点闪电伤害。\n\n'''9级'''：若穿戴者使用她的双手做出徒手打击（包括为了在擒抱时对敌人造成伤害而做出的战技检定），那么每次命中时，这些攻击都能够造成额外1d6点闪电伤害，就如同使用具有电击武器特殊能力的武器一般。\n\n'''11级'''：任何穿戴者手中持握的物品都会被强烈的电荷充能，任何对穿戴者手中的物体尝试卸武或者对手套本身进行盗取战技的生物都会受到1d6点闪电伤害，而且必须进行DC 19的强韧豁免，失败则会由于电击而恍惚1轮。电荷充能并不会伤害穿戴者手持的物品。\n\n'''13级'''：手套的电击能力强化为电爆武器特殊能力。\n\n'''15级'''：每日1次，当穿戴者使用手套的接触攻击命中一个生物时，她能够创造出电弧攻击附近的生物。该功能就好像接触攻击命中的目标成为了连环闪电（反射DC 19，通过则减半）的主要目标一样，不过它不会受到额外伤害。"
+   "description": "这双手套完全由纯铜构成的网与线编制而成，它使得穿戴者的手中充盈着电荷。穿戴者能够使用电能铜手套进行一次造成1d6点闪电伤害的近战[[接触攻击]]。若目标穿着金属护甲或者目标本身由金属构成的话，穿戴者便会在此次攻击中获得+3加值。\n\n'''成长分档'''：珍物（见 [[成长型物品]]）\n\n'''7级'''：接触攻击造成的伤害增加至2d6点闪电伤害。\n\n'''9级'''：若穿戴者使用她的双手做出徒手打击（包括为了在擒抱时对敌人造成伤害而做出的战技检定），那么每次命中时，这些攻击都能够造成额外1d6点闪电伤害，就如同使用具有电击武器特殊能力的武器一般。\n\n'''11级'''：任何穿戴者手中持握的物品都会被强烈的电荷充能，任何对穿戴者手中的物体尝试缴械或者对手套本身进行盗取战技的生物都会受到1d6点闪电伤害，而且必须进行DC 19的强韧豁免，失败则会由于电击而恍惚1轮。电荷充能并不会伤害穿戴者手持的物品。\n\n'''13级'''：手套的电击能力强化为电爆武器特殊能力。\n\n'''15级'''：每日1次，当穿戴者使用手套的接触攻击命中一个生物时，她能够创造出电弧攻击附近的生物。该功能就好像接触攻击命中的目标成为了连环闪电（反射DC 19，通过则减半）的主要目标一样，不过它不会受到额外伤害。"
   },
   "text": {
    "name": "电能铜手套",
@@ -4755,7 +4773,7 @@
    "slot": "手部",
    "requirements": "制造奇物，连环闪电，电爪",
    "cost": "18302gp",
-   "description": "这双手套完全由纯铜构成的网与线编制而成，它使得穿戴者的手中充盈着电荷。穿戴者能够使用电能铜手套进行一次造成1d6点闪电伤害的近战接触攻击。若目标穿着金属护甲或者目标本身由金属构成的话，穿戴者便会在此次攻击中获得+3加值。\n\n成长分档：珍物（见 成长型物品）\n\n7级：接触攻击造成的伤害增加至2d6点闪电伤害。\n\n9级：若穿戴者使用她的双手做出徒手打击（包括为了在擒抱时对敌人造成伤害而做出的战技检定），那么每次命中时，这些攻击都能够造成额外1d6点闪电伤害，就如同使用具有电击武器特殊能力的武器一般。\n\n11级：任何穿戴者手中持握的物品都会被强烈的电荷充能，任何对穿戴者手中的物体尝试卸武或者对手套本身进行盗取战技的生物都会受到1d6点闪电伤害，而且必须进行DC 19的强韧豁免，失败则会由于电击而恍惚1轮。电荷充能并不会伤害穿戴者手持的物品。\n\n13级：手套的电击能力强化为电爆武器特殊能力。\n\n15级：每日1次，当穿戴者使用手套的接触攻击命中一个生物时，她能够创造出电弧攻击附近的生物。该功能就好像接触攻击命中的目标成为了连环闪电（反射DC 19，通过则减半）的主要目标一样，不过它不会受到额外伤害。"
+   "description": "这双手套完全由纯铜构成的网与线编制而成，它使得穿戴者的手中充盈着电荷。穿戴者能够使用电能铜手套进行一次造成1d6点闪电伤害的近战接触攻击。若目标穿着金属护甲或者目标本身由金属构成的话，穿戴者便会在此次攻击中获得+3加值。\n\n成长分档：珍物（见 成长型物品）\n\n7级：接触攻击造成的伤害增加至2d6点闪电伤害。\n\n9级：若穿戴者使用她的双手做出徒手打击（包括为了在擒抱时对敌人造成伤害而做出的战技检定），那么每次命中时，这些攻击都能够造成额外1d6点闪电伤害，就如同使用具有电击武器特殊能力的武器一般。\n\n11级：任何穿戴者手中持握的物品都会被强烈的电荷充能，任何对穿戴者手中的物体尝试缴械或者对手套本身进行盗取战技的生物都会受到1d6点闪电伤害，而且必须进行DC 19的强韧豁免，失败则会由于电击而恍惚1轮。电荷充能并不会伤害穿戴者手持的物品。\n\n13级：手套的电击能力强化为电爆武器特殊能力。\n\n15级：每日1次，当穿戴者使用手套的接触攻击命中一个生物时，她能够创造出电弧攻击附近的生物。该功能就好像接触攻击命中的目标成为了连环闪电（反射DC 19，通过则减半）的主要目标一样，不过它不会受到额外伤害。"
   }
  },
  {
@@ -4900,6 +4918,7 @@
   "raw": {
    "name": "破损的乳白色艾恩石",
    "english_name": "Opalescent White Pyramid (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Opalescent%20White%20Pyramid",
    "category": "艾恩石",
    "aura": "中等变化系",
    "cl": "12",
@@ -4915,6 +4934,7 @@
   "text": {
    "name": "破损的乳白色艾恩石",
    "english_name": "Opalescent White Pyramid (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Opalescent%20White%20Pyramid",
    "category": "艾恩石",
    "aura": "中等变化系",
    "cl": "12",
@@ -4940,6 +4960,7 @@
   "raw": {
    "name": "破损的亮紫色艾恩石",
    "english_name": "Vibrant Purple Prism (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Vibrant%20Purple%20Prism",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -4955,6 +4976,7 @@
   "text": {
    "name": "破损的亮紫色艾恩石",
    "english_name": "Vibrant Purple Prism (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Vibrant%20Purple%20Prism",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -4980,6 +5002,7 @@
   "raw": {
    "name": "破损的土红色艾恩石",
    "english_name": "Dusty Rose Prism (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Dusty%20Rose%20Prism",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -4995,6 +5018,7 @@
   "text": {
    "name": "破损的土红色艾恩石",
    "english_name": "Dusty Rose Prism (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Dusty%20Rose%20Prism",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5020,6 +5044,7 @@
   "raw": {
    "name": "破损的天蓝色艾恩石",
    "english_name": "Incandescent Blue Sphere (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Incandescent%20Blue%20Sphere",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5035,6 +5060,7 @@
   "text": {
    "name": "破损的天蓝色艾恩石",
    "english_name": "Incandescent Blue Sphere (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Incandescent%20Blue%20Sphere",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5060,6 +5086,7 @@
   "raw": {
    "name": "破损的宝石绿艾恩石",
    "english_name": "Turquoise Sphere (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Turquoise%20Sphere",
    "category": "艾恩石",
    "aura": "中等变化系",
    "cl": "12",
@@ -5075,6 +5102,7 @@
   "text": {
    "name": "破损的宝石绿艾恩石",
    "english_name": "Turquoise Sphere (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Turquoise%20Sphere",
    "category": "艾恩石",
    "aura": "中等变化系",
    "cl": "12",
@@ -5100,6 +5128,7 @@
   "raw": {
    "name": "破损的朱红色艾恩石",
    "english_name": "Vermilion Rhomboid (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Vermilion%20Rhomboid",
    "category": "艾恩石",
    "aura": "中等变化系",
    "cl": "12",
@@ -5115,6 +5144,7 @@
   "text": {
    "name": "破损的朱红色艾恩石",
    "english_name": "Vermilion Rhomboid (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Vermilion%20Rhomboid",
    "category": "艾恩石",
    "aura": "中等变化系",
    "cl": "12",
@@ -5140,6 +5170,7 @@
   "raw": {
    "name": "破损的桔黄色艾恩石",
    "english_name": "Orange Prism (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Orange%20Prism",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5155,6 +5186,7 @@
   "text": {
    "name": "破损的桔黄色艾恩石",
    "english_name": "Orange Prism (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Orange%20Prism",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5180,6 +5212,7 @@
   "raw": {
    "name": "破损的橙黄色艾恩石",
    "english_name": "Gamboge Nodule (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Gamboge%20Nodule",
    "category": "艾恩石",
    "aura": "中等变化系",
    "cl": "12",
@@ -5195,6 +5228,7 @@
   "text": {
    "name": "破损的橙黄色艾恩石",
    "english_name": "Gamboge Nodule (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Gamboge%20Nodule",
    "category": "艾恩石",
    "aura": "中等变化系",
    "cl": "12",
@@ -5220,6 +5254,7 @@
   "raw": {
    "name": "破损的淡紫混绿艾恩石",
    "english_name": "Lavender and Green Ellipsoid (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Lavender%20and%20Green%20Ellipsoid",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5235,6 +5270,7 @@
   "text": {
    "name": "破损的淡紫混绿艾恩石",
    "english_name": "Lavender and Green Ellipsoid (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Lavender%20and%20Green%20Ellipsoid",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5260,6 +5296,7 @@
   "raw": {
    "name": "破损的淡紫色艾恩石",
    "english_name": "Pale Lavender Ellipsoid (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Pale%20Lavender%20Ellipsoid",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5275,6 +5312,7 @@
   "text": {
    "name": "破损的淡紫色艾恩石",
    "english_name": "Pale Lavender Ellipsoid (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Pale%20Lavender%20Ellipsoid",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5300,6 +5338,7 @@
   "raw": {
    "name": "破损的淡红色艾恩石",
    "english_name": "Pale Ruby Trillian (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Pale%20Ruby%20Trillian",
    "category": "艾恩石",
    "aura": "中等变化系",
    "cl": "12",
@@ -5315,6 +5354,7 @@
   "text": {
    "name": "破损的淡红色艾恩石",
    "english_name": "Pale Ruby Trillian (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Pale%20Ruby%20Trillian",
    "category": "艾恩石",
    "aura": "中等变化系",
    "cl": "12",
@@ -5340,6 +5380,7 @@
   "raw": {
    "name": "破损的淡绿色艾恩石",
    "english_name": "Pale Green Prism (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Pale%20Green%20Prism",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5355,6 +5396,7 @@
   "text": {
    "name": "破损的淡绿色艾恩石",
    "english_name": "Pale Green Prism (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Pale%20Green%20Prism",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5380,6 +5422,7 @@
   "raw": {
    "name": "破损的淡蓝色艾恩石",
    "english_name": "Pale Blue Rhomboid (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Pale%20Blue%20Rhomboid",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5395,6 +5438,7 @@
   "text": {
    "name": "破损的淡蓝色艾恩石",
    "english_name": "Pale Blue Rhomboid (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Pale%20Blue%20Rhomboid",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5420,6 +5464,7 @@
   "raw": {
    "name": "破损的深紫红色艾恩石",
    "english_name": "Mulberry Pentacle (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Mulberry%20Pentacle",
    "category": "艾恩石",
    "aura": "中等变化系",
    "cl": "12",
@@ -5435,6 +5480,7 @@
   "text": {
    "name": "破损的深紫红色艾恩石",
    "english_name": "Mulberry Pentacle (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Mulberry%20Pentacle",
    "category": "艾恩石",
    "aura": "中等变化系",
    "cl": "12",
@@ -5460,6 +5506,7 @@
   "raw": {
    "name": "破损的深红色艾恩石",
    "english_name": "Deep Red Sphere (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Deep%20Red%20Sphere",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5475,6 +5522,7 @@
   "text": {
    "name": "破损的深红色艾恩石",
    "english_name": "Deep Red Sphere (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Deep%20Red%20Sphere",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5500,6 +5548,7 @@
   "raw": {
    "name": "破损的深蓝色艾恩石",
    "english_name": "Dark Blue Rhomboid (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Dark%20Blue%20Rhomboid",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5515,6 +5564,7 @@
   "text": {
    "name": "破损的深蓝色艾恩石",
    "english_name": "Dark Blue Rhomboid (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Dark%20Blue%20Rhomboid",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5540,6 +5590,7 @@
   "raw": {
    "name": "破损的猩红混绿艾恩石",
    "english_name": "Scarlet and Green Cabochon (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Scarlet%20and%20Green%20Cabochon",
    "category": "艾恩石",
    "aura": "中等变化系",
    "cl": "12",
@@ -5555,6 +5606,7 @@
   "text": {
    "name": "破损的猩红混绿艾恩石",
    "english_name": "Scarlet and Green Cabochon (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Scarlet%20and%20Green%20Cabochon",
    "category": "艾恩石",
    "aura": "中等变化系",
    "cl": "12",
@@ -5580,6 +5632,7 @@
   "raw": {
    "name": "破损的猩红混蓝艾恩石",
    "english_name": "Scarlet and Blue Sphere (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Scarlet%20and%20Blue%20Sphere",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5595,6 +5648,7 @@
   "text": {
    "name": "破损的猩红混蓝艾恩石",
    "english_name": "Scarlet and Blue Sphere (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Scarlet%20and%20Blue%20Sphere",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5620,6 +5674,7 @@
   "raw": {
    "name": "破损的珍珠灰艾恩石",
    "english_name": "Nacreous Gray Sphere (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Nacreous%20Gray%20Sphere",
    "category": "艾恩石",
    "aura": "中等防护系",
    "cl": "12",
@@ -5635,6 +5690,7 @@
   "text": {
    "name": "破损的珍珠灰艾恩石",
    "english_name": "Nacreous Gray Sphere (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Nacreous%20Gray%20Sphere",
    "category": "艾恩石",
    "aura": "中等防护系",
    "cl": "12",
@@ -5660,6 +5716,7 @@
   "raw": {
    "name": "破损的珍珠白艾恩石",
    "english_name": "Pearly White Spindle (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Pearly%20White%20Spindle",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5675,6 +5732,7 @@
   "text": {
    "name": "破损的珍珠白艾恩石",
    "english_name": "Pearly White Spindle (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Pearly%20White%20Spindle",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5700,6 +5758,7 @@
   "raw": {
    "name": "破损的琥珀色艾恩石",
    "english_name": "Amber Spindle (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Amber%20Spindle",
    "category": "艾恩石",
    "aura": "中等防护系",
    "cl": "12",
@@ -5715,6 +5774,7 @@
   "text": {
    "name": "破损的琥珀色艾恩石",
    "english_name": "Amber Spindle (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Amber%20Spindle",
    "category": "艾恩石",
    "aura": "中等防护系",
    "cl": "12",
@@ -5740,6 +5800,7 @@
   "raw": {
    "name": "破损的粉红色艾恩石",
    "english_name": "Pink Rhomboid (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Pink%20Rhomboid",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5755,6 +5816,7 @@
   "text": {
    "name": "破损的粉红色艾恩石",
    "english_name": "Pink Rhomboid (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Pink%20Rhomboid",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5780,6 +5842,7 @@
   "raw": {
    "name": "破损的粉绿色艾恩石",
    "english_name": "Pink and Green Sphere (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Pink%20and%20Green%20Sphere",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5795,6 +5858,7 @@
   "text": {
    "name": "破损的粉绿色艾恩石",
    "english_name": "Pink and Green Sphere (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Pink%20and%20Green%20Sphere",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5820,6 +5884,7 @@
   "raw": {
    "name": "破损的绯红色艾恩石",
    "english_name": "Crimson Sphere (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Crimson%20Sphere",
    "category": "艾恩石",
    "aura": "中等变化系",
    "cl": "12",
@@ -5835,6 +5900,7 @@
   "text": {
    "name": "破损的绯红色艾恩石",
    "english_name": "Crimson Sphere (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Crimson%20Sphere",
    "category": "艾恩石",
    "aura": "中等变化系",
    "cl": "12",
@@ -5860,6 +5926,7 @@
   "raw": {
    "name": "破损的缟玛瑙艾恩石",
    "english_name": "Onyx Rhomboid (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Onyx%20Rhomboid",
    "category": "艾恩石",
    "aura": "中等变化系",
    "cl": "12",
@@ -5875,6 +5942,7 @@
   "text": {
    "name": "破损的缟玛瑙艾恩石",
    "english_name": "Onyx Rhomboid (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Onyx%20Rhomboid",
    "category": "艾恩石",
    "aura": "中等变化系",
    "cl": "12",
@@ -5900,6 +5968,7 @@
   "raw": {
    "name": "破损的翠绿色艾恩石",
    "english_name": "Emerald Ellipsoid (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Emerald%20Ellipsoid",
    "category": "艾恩石",
    "aura": "中等死灵系",
    "cl": "12",
@@ -5915,6 +5984,7 @@
   "text": {
    "name": "破损的翠绿色艾恩石",
    "english_name": "Emerald Ellipsoid (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Emerald%20Ellipsoid",
    "category": "艾恩石",
    "aura": "中等死灵系",
    "cl": "12",
@@ -5940,6 +6010,7 @@
   "raw": {
    "name": "破损的莫西绿艾恩石",
    "english_name": "Mossy Disk (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Mossy%20Disk",
    "category": "艾恩石",
    "aura": "强烈预言系和塑能系",
    "cl": "12",
@@ -5955,6 +6026,7 @@
   "text": {
    "name": "破损的莫西绿艾恩石",
    "english_name": "Mossy Disk (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Mossy%20Disk",
    "category": "艾恩石",
    "aura": "强烈预言系和塑能系",
    "cl": "12",
@@ -5980,6 +6052,7 @@
   "raw": {
    "name": "破损的透明艾恩石",
    "english_name": "Clear Spindle (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Clear%20Spindle",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -5995,6 +6068,7 @@
   "text": {
    "name": "破损的透明艾恩石",
    "english_name": "Clear Spindle (Cracked) Ioun Stone",
+   "aon": "MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Clear%20Spindle",
    "category": "艾恩石",
    "aura": "强烈各种",
    "cl": "12",
@@ -6264,7 +6338,7 @@
    "name": "精致配饰",
    "english_name": "Refined Accessories",
    "category": "冒险装备",
-   "description": "当一名肩负重要任务的廷臣觐见一名著名统治者时，她经常会使用以下一种或多种魔法物品来帮助她履行职责。\n\n身体调整颈链（Choker of Body Alteration）｜本条翻译致谢 犬良人。\n\n灵光：昏暗变化系；施法者等级：3级\n\n栏位：颈部；价格：2,400 GP；重量：-磅\n\n描述：\n\n这个低调而时尚的天鹅绒颈链给予穿戴者改变其肉体的某些方面的能力。每天一次以一个命令，此颈链可以以下列方式之一调整穿戴者的身体：采用不同性别的身体特征、呈现出年长或年轻10年的样子、长高或变矮10%、以及变轻或变重10%。这是一个变形效果。此调整不会改变调整穿戴者的任何数据，例如体型或属性值，但它仍可使穿戴者[[易容]]检定获得+2环境加值（circumstance bonus）。此颈链同一时间只能提供一项调整，持续24小时或颈链被移除，取其先者。\n\n制造条件：[[制造奇物]]，[[变身术]]，[[衰老之容]]或[[返老还童]]；\n\n制造成本：1,200 GP",
+   "description": "当一名肩负重要任务的廷臣觐见一名著名统治者时，她经常会使用以下一种或多种魔法物品来帮助她履行职责。\n\n身体调整颈链（Choker of Body Alteration）｜本条翻译致谢 犬良人。\n\n灵氲：昏暗变化系；施法者等级：3级\n\n栏位：颈部；价格：2,400 GP；重量：-磅\n\n描述：\n\n这个低调而时尚的天鹅绒颈链给予穿戴者改变其肉体的某些方面的能力。每天一次以一个命令，此颈链可以以下列方式之一调整穿戴者的身体：采用不同性别的身体特征、呈现出年长或年轻10年的样子、长高或变矮10%、以及变轻或变重10%。这是一个变形效果。此调整不会改变调整穿戴者的任何数据，例如体型或属性值，但它仍可使穿戴者[[易容]]检定获得+2环境加值（circumstance bonus）。此颈链同一时间只能提供一项调整，持续24小时或颈链被移除，取其先者。\n\n制造条件：[[制造奇物]]，[[变身术]]，[[衰老之容]]或[[返老还童]]；\n\n制造成本：1,200 GP",
    "source": "HotHC",
    "source_name": "皇庭英豪"
   },
@@ -6272,7 +6346,7 @@
    "name": "精致配饰",
    "english_name": "Refined Accessories",
    "category": "冒险装备",
-   "description": "当一名肩负重要任务的廷臣觐见一名著名统治者时，她经常会使用以下一种或多种魔法物品来帮助她履行职责。\n\n身体调整颈链（Choker of Body Alteration）｜本条翻译致谢 犬良人。\n\n灵光：昏暗变化系；施法者等级：3级\n\n栏位：颈部；价格：2,400 GP；重量：-磅\n\n描述：\n\n这个低调而时尚的天鹅绒颈链给予穿戴者改变其肉体的某些方面的能力。每天一次以一个命令，此颈链可以以下列方式之一调整穿戴者的身体：采用不同性别的身体特征、呈现出年长或年轻10年的样子、长高或变矮10%、以及变轻或变重10%。这是一个变形效果。此调整不会改变调整穿戴者的任何数据，例如体型或属性值，但它仍可使穿戴者易容检定获得+2环境加值（circumstance bonus）。此颈链同一时间只能提供一项调整，持续24小时或颈链被移除，取其先者。\n\n制造条件：制造奇物，变身术，衰老之容或返老还童；\n\n制造成本：1,200 GP",
+   "description": "当一名肩负重要任务的廷臣觐见一名著名统治者时，她经常会使用以下一种或多种魔法物品来帮助她履行职责。\n\n身体调整颈链（Choker of Body Alteration）｜本条翻译致谢 犬良人。\n\n灵氲：昏暗变化系；施法者等级：3级\n\n栏位：颈部；价格：2,400 GP；重量：-磅\n\n描述：\n\n这个低调而时尚的天鹅绒颈链给予穿戴者改变其肉体的某些方面的能力。每天一次以一个命令，此颈链可以以下列方式之一调整穿戴者的身体：采用不同性别的身体特征、呈现出年长或年轻10年的样子、长高或变矮10%、以及变轻或变重10%。这是一个变形效果。此调整不会改变调整穿戴者的任何数据，例如体型或属性值，但它仍可使穿戴者易容检定获得+2环境加值（circumstance bonus）。此颈链同一时间只能提供一项调整，持续24小时或颈链被移除，取其先者。\n\n制造条件：制造奇物，变身术，衰老之容或返老还童；\n\n制造成本：1,200 GP",
    "source": "HotHC",
    "source_name": "皇庭英豪"
   }
@@ -6547,7 +6621,7 @@
    "price": "4800gp",
    "weight": "4磅",
    "slot": "无位置",
-   "requirements": "[[制造魔法武器和防具]]，（圣洁灵光），制造者必须为善良阵营",
+   "requirements": "[[制造魔法武器和防具]]，（圣洁灵氲），制造者必须为善良阵营",
    "cost": "64500gp",
    "description": "这把精制品寒铁长剑在圣武士的手中会变为+1[[寒铁]][[长剑]]（+1 cold iron longsword）。\n\n'''成长分档'''：珍宝（见 [[成长型物品]]）\n\n'''8级'''：至圣复仇者视同为+1寒铁长剑（+1 cold iron longsword），在圣武士的手中变为+2寒铁长剑（+2 cold iron longsword）。\n\n'''10级'''：至圣复仇者在圣武士的手中变为+3寒铁长剑（+3 cold iron longsword）。\n\n'''12级'''：至圣复仇者视同为+2寒铁长剑（+2 cold iron longsword），在圣武士的手中变为+4寒铁长剑（+4 cold iron longsword）。\n\n'''14级'''：至圣复仇者在圣武士的手中变为+5寒铁长剑（+5 cold iron longsword）。\n\n'''17级'''：至圣复仇者允许圣武士以标准动作随意使用区域型版本的高等解除魔法，并且赋予圣武士和与其相邻的盟友法术抗力，数值等同于5 + 她的圣武士等级。",
    "source_name": "神话冒险"
@@ -6561,7 +6635,7 @@
    "price": "4800gp",
    "weight": "4磅",
    "slot": "无位置",
-   "requirements": "制造魔法武器和防具，（圣洁灵光），制造者必须为善良阵营",
+   "requirements": "制造魔法武器和防具，（圣洁灵氲），制造者必须为善良阵营",
    "cost": "64500gp",
    "description": "这把精制品寒铁长剑在圣武士的手中会变为+1寒铁长剑（+1 cold iron longsword）。\n\n成长分档：珍宝（见 成长型物品）\n\n8级：至圣复仇者视同为+1寒铁长剑（+1 cold iron longsword），在圣武士的手中变为+2寒铁长剑（+2 cold iron longsword）。\n\n10级：至圣复仇者在圣武士的手中变为+3寒铁长剑（+3 cold iron longsword）。\n\n12级：至圣复仇者视同为+2寒铁长剑（+2 cold iron longsword），在圣武士的手中变为+4寒铁长剑（+4 cold iron longsword）。\n\n14级：至圣复仇者在圣武士的手中变为+5寒铁长剑（+5 cold iron longsword）。\n\n17级：至圣复仇者允许圣武士以标准动作随意使用区域型版本的高等解除魔法，并且赋予圣武士和与其相邻的盟友法术抗力，数值等同于5 + 她的圣武士等级。",
    "source_name": "神话冒险"
@@ -7168,6 +7242,7 @@
   "raw": {
    "name": "解法弹头",
    "english_name": "Bullet，Dispelling",
+   "aon": "MagicWeaponsDisplay.aspx?ItemName=Dispelling%20Bullet",
    "category": "魔法武器",
    "aura": "微弱防护系",
    "cl": "5",
@@ -7181,6 +7256,7 @@
   "text": {
    "name": "解法弹头",
    "english_name": "Bullet，Dispelling",
+   "aon": "MagicWeaponsDisplay.aspx?ItemName=Dispelling%20Bullet",
    "category": "魔法武器",
    "aura": "微弱防护系",
    "cl": "5",
@@ -7713,6 +7789,7 @@
   ],
   "raw": {
    "name": "闪光墨水",
+   "english_name": "Glowing ink",
    "category": "炼金物品",
    "price": "5GP",
    "weight": "—",
@@ -7722,6 +7799,7 @@
   },
   "text": {
    "name": "闪光墨水",
+   "english_name": "Glowing ink",
    "category": "炼金物品",
    "price": "5GP",
    "weight": "—",
@@ -7814,6 +7892,7 @@
   "raw": {
    "name": "隐形墨水",
    "english_name": "Invisible ink",
+   "aon": "EquipmentMiscDisplay.aspx?ItemName=Invisible%20ink%20(simple)",
    "category": "炼金工具",
    "price": "2 GP（简易），10 GP（一般），25 GP（精制），75 GP（高级）",
    "weight": "-磅（简易），-磅（一般），-磅（精制），-磅（高级）",
@@ -7825,6 +7904,7 @@
   "text": {
    "name": "隐形墨水",
    "english_name": "Invisible ink",
+   "aon": "EquipmentMiscDisplay.aspx?ItemName=Invisible%20ink%20(simple)",
    "category": "炼金工具",
    "price": "2 GP（简易），10 GP（一般），25 GP（精制），75 GP（高级）",
    "weight": "-磅（简易），-磅（一般），-磅（精制），-磅（高级）",
@@ -7902,7 +7982,7 @@
    "slot": "无位置",
    "requirements": "[[锻造戒指]]，[[巨龙形态 II]]，[[加速术]]，[[抵抗能量伤害]]",
    "cost": "66000gp",
-   "description": "这枚[[魔法物品#戒指|戒指]]由一块白色石头雕琢而成，它的形状看起来如同盘成一团的龙一般。戒指会赋予佩戴者5点寒冷抗力。当戒指保护佩戴者时，它会持续散发清爽的气味。\n\n'''成长分档'''：珍物（见 [[成长型物品]]）\n\n'''11级'''：戒指提供10点寒冷抗力。\n\n'''14级'''：戒指提供20点寒冷抗力。\n\n'''17级'''：戒指提供30点寒冷抗力。佩戴者能够在降雪环境下完美视物，而且在雪中进行的察觉检定不会承受任何减值。每日1次，戒指的佩戴者能够以迅捷动作做出1次主要啮咬攻击。若她并未具有啮咬攻击，那么以这个迅捷动作的一部分，她的牙齿会变得像是细长的龙牙，这使得她会获得1次啮咬攻击，对于中型佩戴者来说能造成1d6点伤害（小型为1d4点）。\n\n'''20级'''：每日1次，戒指的佩戴者能够变形为霜龙兽的形态。该能力的效果如同使用巨龙形态 II变形为白龙一般，不过佩戴者的寒冷喷吐武器会影响距离自身60尺范围内的半径10尺扩散区域。扩散区域内的所有表面都会盖上一层光滑的冰面，因此这片区域会被转化为困难地形，持续2d4轮。"
+   "description": "这枚[[魔法物品/戒指|戒指]]由一块白色石头雕琢而成，它的形状看起来如同盘成一团的龙一般。戒指会赋予佩戴者5点寒冷抗力。当戒指保护佩戴者时，它会持续散发清爽的气味。\n\n'''成长分档'''：珍物（见 [[成长型物品]]）\n\n'''11级'''：戒指提供10点寒冷抗力。\n\n'''14级'''：戒指提供20点寒冷抗力。\n\n'''17级'''：戒指提供30点寒冷抗力。佩戴者能够在降雪环境下完美视物，而且在雪中进行的察觉检定不会承受任何减值。每日1次，戒指的佩戴者能够以迅捷动作做出1次主要啮咬攻击。若她并未具有啮咬攻击，那么以这个迅捷动作的一部分，她的牙齿会变得像是细长的龙牙，这使得她会获得1次啮咬攻击，对于中型佩戴者来说能造成1d6点伤害（小型为1d4点）。\n\n'''20级'''：每日1次，戒指的佩戴者能够变形为霜龙兽的形态。该能力的效果如同使用巨龙形态 II变形为白龙一般，不过佩戴者的寒冷喷吐武器会影响距离自身60尺范围内的半径10尺扩散区域。扩散区域内的所有表面都会盖上一层光滑的冰面，因此这片区域会被转化为困难地形，持续2d4轮。"
   },
   "text": {
    "name": "霜龙兽之戒",
@@ -7966,6 +8046,7 @@
   ],
   "raw": {
    "name": "预警",
+   "english_name": "Pitfall",
    "category": "魔法物品",
    "aura": "普通变化系",
    "cl": "5",
@@ -7976,6 +8057,7 @@
   },
   "text": {
    "name": "预警",
+   "english_name": "Pitfall",
    "category": "魔法物品",
    "aura": "普通变化系",
    "cl": "5",
@@ -8077,7 +8159,7 @@
    "english_name": "Riding Bat",
    "category": "冒险装备",
    "price": "300gp",
-   "description": "凶暴蝙蝠在被圈养驯化后作为骑乘动物使用，它们被认为是黑暗地域最快捷的非魔法交通工具。只有建立在巨大地下溶洞中的卓尔城市才能找到为了驯养这巨大生物而建造的兽栏，尽管许多卓尔骑卫贴着地表飞行，但驯养它们需要更大的空间。骑乘蝙蝠需要异种鞍座。",
+   "description": "凶暴蝙蝠在被圈养驯化后作为骑乘动物使用，它们被认为是幽暗地域最快捷的非魔法交通工具。只有建立在巨大地下溶洞中的卓尔城市才能找到为了驯养这巨大生物而建造的兽栏，尽管许多卓尔骑卫贴着地表飞行，但驯养它们需要更大的空间。骑乘蝙蝠需要异种鞍座。",
    "source": "ARG",
    "source_name": "进阶种族手册",
    "source_url": "https://pf1chm.pages.dev/topics/page_164.html"
@@ -8087,7 +8169,7 @@
    "english_name": "Riding Bat",
    "category": "冒险装备",
    "price": "300gp",
-   "description": "凶暴蝙蝠在被圈养驯化后作为骑乘动物使用，它们被认为是黑暗地域最快捷的非魔法交通工具。只有建立在巨大地下溶洞中的卓尔城市才能找到为了驯养这巨大生物而建造的兽栏，尽管许多卓尔骑卫贴着地表飞行，但驯养它们需要更大的空间。骑乘蝙蝠需要异种鞍座。",
+   "description": "凶暴蝙蝠在被圈养驯化后作为骑乘动物使用，它们被认为是幽暗地域最快捷的非魔法交通工具。只有建立在巨大地下溶洞中的卓尔城市才能找到为了驯养这巨大生物而建造的兽栏，尽管许多卓尔骑卫贴着地表飞行，但驯养它们需要更大的空间。骑乘蝙蝠需要异种鞍座。",
    "source": "ARG",
    "source_name": "进阶种族手册",
    "source_url": "https://pf1chm.pages.dev/topics/page_164.html"
@@ -8189,7 +8271,7 @@
    "slot": "无位置",
    "requirements": "[[锻造戒指]]，[[强效造物术]]，[[镜影术]]，[[魔法伎俩]]",
    "cost": "18000gp",
-   "description": "这枚由5个部件组成的连环戒必须经过正确组装才能佩戴到手指上。每日1次以[[移动动作]]，佩戴者能够创造单个镜像，就如同使用[[诡术领域]]的[[复制幻象]]能力一般。若佩戴者是一名牧师，而且具有诡术领域和复制幻象能力，那么作为替代，她可以额外获得2次该能力的使用次数。\n\n'''成长分档'''：珍物（见 [[成长型物品]]）\n\n'''6级'''：佩戴者能够随意使用魔法伎俩。\n\n'''8级'''：通过花费1整轮重新研究戒指的谜，佩戴者能够找到一种方法解开其中四个部件，并且重新和最后一个部件组装成一个微小的模型，之后它会成长成一个简单的物品。将这个结果视同为佩戴者在重新设置了一个旅者万用工具UE一般，不过如此组装出的物品若在佩戴者所选择的技能检定中可以用到的话，便会为这个技能检定额外提供+2表现加值。只要佩戴者还没失去这件物品，她就能够通过花费另一个整轮来将部件重新组装成戒指。如果无法凑齐完整5个部件，佩戴者便无法使用戒指产生的任何能力。\n\n'''10级'''：通过花费1分钟重新研究戒指的谜，佩戴者能够找到一种方法解开其中四个部件，并且重新和最后一个部件组装成一个微小的模型，之后它会成长成一件新物体，就如同使用了弱效造物术一般，不过佩戴者要使用解除装置以取代工艺检定来创造复杂的物体。在新物体消失24小时后，戒指的5个部件会神奇地再次出现。如果无法凑齐完整5个部件，佩戴者便无法使用戒指的创造能力。\n\n'''12级'''：通过花费10分钟重新研究戒指的谜，佩戴者能够找到一种方法解开其中四个部件，并且重新和最后一个部件组装成一个微小的模型，之后它会成长成一件新物体，就如同使用了强效造物术一般，不过佩戴者要使用解除装置以取代工艺检定来创造复杂的物体。在新物体消失24小时后，戒指的5个部件会神奇地再次出现。如果无法凑齐完整5个部件，佩戴者便无法使用戒指的创造能力。\n\n'''15级'''：每日1次以标准动作，佩戴者能够创造出一个复制体，并且使自身消失不见，就如同假象术一般。"
+   "description": "这枚由5个部件组成的连环戒必须经过正确组装才能佩戴到手指上。每日1次以[[移动动作]]，佩戴者能够创造单个镜像，就如同使用[[诡术领域]]的[[复制幻象]]能力一般。若佩戴者是一名牧师，而且具有诡术领域和复制幻象能力，那么作为替代，她可以额外获得2次该能力的使用次数。\n\n'''成长分档'''：珍物（见 [[成长型物品]]）\n\n'''6级'''：佩戴者能够随意使用魔法伎俩。\n\n'''8级'''：通过花费1整轮重新研究戒指的谜，佩戴者能够找到一种方法解开其中四个部件，并且重新和最后一个部件组装成一个微小的模型，之后它会成长成一个简单的物品。将这个结果视同为佩戴者在重新设置了一个旅者万用工具UE一般，不过如此组装出的物品若在佩戴者所选择的技能检定中可以用到的话，便会为这个技能检定额外提供+2表现加值。只要佩戴者还没失去这件物品，她就能够通过花费另一个整轮来将部件重新组装成戒指。如果无法凑齐完整5个部件，佩戴者便无法使用戒指产生的任何能力。\n\n'''10级'''：通过花费1分钟重新研究戒指的谜，佩戴者能够找到一种方法解开其中四个部件，并且重新和最后一个部件组装成一个微小的模型，之后它会成长成一件新物体，就如同使用了次级造物术一般，不过佩戴者要使用解除装置以取代工艺检定来创造复杂的物体。在新物体消失24小时后，戒指的5个部件会神奇地再次出现。如果无法凑齐完整5个部件，佩戴者便无法使用戒指的创造能力。\n\n'''12级'''：通过花费10分钟重新研究戒指的谜，佩戴者能够找到一种方法解开其中四个部件，并且重新和最后一个部件组装成一个微小的模型，之后它会成长成一件新物体，就如同使用了强效造物术一般，不过佩戴者要使用解除装置以取代工艺检定来创造复杂的物体。在新物体消失24小时后，戒指的5个部件会神奇地再次出现。如果无法凑齐完整5个部件，佩戴者便无法使用戒指的创造能力。\n\n'''15级'''：每日1次以标准动作，佩戴者能够创造出一个复制体，并且使自身消失不见，就如同假象术一般。"
   },
   "text": {
    "name": "魔术师指环",
@@ -8202,7 +8284,7 @@
    "slot": "无位置",
    "requirements": "锻造戒指，强效造物术，镜影术，魔法伎俩",
    "cost": "18000gp",
-   "description": "这枚由5个部件组成的连环戒必须经过正确组装才能佩戴到手指上。每日1次以移动动作，佩戴者能够创造单个镜像，就如同使用诡术领域的复制幻象能力一般。若佩戴者是一名牧师，而且具有诡术领域和复制幻象能力，那么作为替代，她可以额外获得2次该能力的使用次数。\n\n成长分档：珍物（见 成长型物品）\n\n6级：佩戴者能够随意使用魔法伎俩。\n\n8级：通过花费1整轮重新研究戒指的谜，佩戴者能够找到一种方法解开其中四个部件，并且重新和最后一个部件组装成一个微小的模型，之后它会成长成一个简单的物品。将这个结果视同为佩戴者在重新设置了一个旅者万用工具UE一般，不过如此组装出的物品若在佩戴者所选择的技能检定中可以用到的话，便会为这个技能检定额外提供+2表现加值。只要佩戴者还没失去这件物品，她就能够通过花费另一个整轮来将部件重新组装成戒指。如果无法凑齐完整5个部件，佩戴者便无法使用戒指产生的任何能力。\n\n10级：通过花费1分钟重新研究戒指的谜，佩戴者能够找到一种方法解开其中四个部件，并且重新和最后一个部件组装成一个微小的模型，之后它会成长成一件新物体，就如同使用了弱效造物术一般，不过佩戴者要使用解除装置以取代工艺检定来创造复杂的物体。在新物体消失24小时后，戒指的5个部件会神奇地再次出现。如果无法凑齐完整5个部件，佩戴者便无法使用戒指的创造能力。\n\n12级：通过花费10分钟重新研究戒指的谜，佩戴者能够找到一种方法解开其中四个部件，并且重新和最后一个部件组装成一个微小的模型，之后它会成长成一件新物体，就如同使用了强效造物术一般，不过佩戴者要使用解除装置以取代工艺检定来创造复杂的物体。在新物体消失24小时后，戒指的5个部件会神奇地再次出现。如果无法凑齐完整5个部件，佩戴者便无法使用戒指的创造能力。\n\n15级：每日1次以标准动作，佩戴者能够创造出一个复制体，并且使自身消失不见，就如同假象术一般。"
+   "description": "这枚由5个部件组成的连环戒必须经过正确组装才能佩戴到手指上。每日1次以移动动作，佩戴者能够创造单个镜像，就如同使用诡术领域的复制幻象能力一般。若佩戴者是一名牧师，而且具有诡术领域和复制幻象能力，那么作为替代，她可以额外获得2次该能力的使用次数。\n\n成长分档：珍物（见 成长型物品）\n\n6级：佩戴者能够随意使用魔法伎俩。\n\n8级：通过花费1整轮重新研究戒指的谜，佩戴者能够找到一种方法解开其中四个部件，并且重新和最后一个部件组装成一个微小的模型，之后它会成长成一个简单的物品。将这个结果视同为佩戴者在重新设置了一个旅者万用工具UE一般，不过如此组装出的物品若在佩戴者所选择的技能检定中可以用到的话，便会为这个技能检定额外提供+2表现加值。只要佩戴者还没失去这件物品，她就能够通过花费另一个整轮来将部件重新组装成戒指。如果无法凑齐完整5个部件，佩戴者便无法使用戒指产生的任何能力。\n\n10级：通过花费1分钟重新研究戒指的谜，佩戴者能够找到一种方法解开其中四个部件，并且重新和最后一个部件组装成一个微小的模型，之后它会成长成一件新物体，就如同使用了次级造物术一般，不过佩戴者要使用解除装置以取代工艺检定来创造复杂的物体。在新物体消失24小时后，戒指的5个部件会神奇地再次出现。如果无法凑齐完整5个部件，佩戴者便无法使用戒指的创造能力。\n\n12级：通过花费10分钟重新研究戒指的谜，佩戴者能够找到一种方法解开其中四个部件，并且重新和最后一个部件组装成一个微小的模型，之后它会成长成一件新物体，就如同使用了强效造物术一般，不过佩戴者要使用解除装置以取代工艺检定来创造复杂的物体。在新物体消失24小时后，戒指的5个部件会神奇地再次出现。如果无法凑齐完整5个部件，佩戴者便无法使用戒指的创造能力。\n\n15级：每日1次以标准动作，佩戴者能够创造出一个复制体，并且使自身消失不见，就如同假象术一般。"
   }
  },
  {
@@ -8262,7 +8344,7 @@
    "aura": "强烈（全部学派）",
    "cl": "20",
    "weight": "45,000磅",
-   "description": "'''阵营：'''中立邪恶\n\n'''感官：'''120尺，黑暗视觉\n\n'''智力：'''12\n\n'''感知：'''18\n\n'''魅力：'''18\n\n'''自我值：'''30\n\n'''语言：'''说话能力（通用语，德鲁伊语），心灵感应100尺\n\n从风化巨型玄武岩上凿出，这尊越10尺高的雄伟[[石像]]矗立着，并大致被雕刻成一名性感的哀容女子，而带着一种微妙的不安感的[[鸦首]]则从其一侧的肩膀上探出。该偶像发出一种使人迷惑的嗡嗡声，这种声音貌似可以绕过了正常的听觉，却可以在心灵深处感知到。曾被某古代人群视为有助富饶的女神，但这个偶像在很久以前就被一个邪恶的德鲁伊教团腐蚀了，该德鲁伊教团实施血祭，并使该偶像缺乏所有其他形式的献祭，直到祂接受他们的亵渎祭品。现在，面对新的、更强大的神袛们的到来，只有自私和永不满足的饥渴驱使着该偶像努力的保持着对其信徒的重要性。\n\n鸦母雕像（Effigy Of The Raven-Mother）被铁壁群岛（Ironbound Archipelago）中一座被海风吹拂的岛屿中那一代又一代的村民所崇拜。每年三次，在[[嗜血]]的德鲁伊长老的带领下，大约会有2500名信徒会在该偶像的圣日时聚众沉迷于崇拜和狂欢中。这些圣日分别处于春分、秋分以及冬至。村民们带来了其所产出的季节性收获物，以向那贪婪的偶像祈祷。任何试图[[突袭]]他们那偏远临海村落，亦或是被村民抓获的敌对武者们，也会被他们欣然当作祭品，他们的热血会洒到到该偶像的石制表面上，而他们的惨叫声则会在岛上回荡。\n\n该偶像那坚固耐用的结构，构成了一个恢弘雄伟、近乎[[坚不可摧]]的庞大独立石质体（硬度14，生命值1110，破坏DC 60）。该偶像具备隐匿（conceal）、圣化灵光（deific aura）、注目（enthrall）、裕荒之力（feast or famine）、狂欢（revelry）、以及非凡气息（supernatural presence）能力。\n\n鸦母雕像（Effigy Of The Raven-Mother）知晓祂已经近乎抵达祂力量的顶峰，随着遥远城市的故事和丰富多彩的冒险吸引着年轻一代，祂意识到，这股潮流可能正在扭转其血腥的信仰。该偶像指使其教团领袖要在下一个圣日尽可能多地献祭，即便这些祭品不是敌对的武者。该偶像希望获得活化（animate）能力，这样祂可以将其巨大的主体迁徙到临近海滨的那处有着大量信徒的村庄，以更好的确保祂不会落入无人问津的情况并失去其力量。\n\n'''摧毁：'''作为堕落的富饶之像，该雕像必须基本上被断绝至死才能失去其效力。通过剥夺其信仰和献祭，使其每项能力值必须被降低至10点。只有这样，才能使用一把仪式性的洁净镰刀施展单次打击，让该偶像尘归尘土归土，失去其活动能力且完全没有力量",
+   "description": "'''阵营：'''中立邪恶\n\n'''感官：'''120尺，黑暗视觉\n\n'''智力：'''12\n\n'''感知：'''18\n\n'''魅力：'''18\n\n'''自我值：'''30\n\n'''语言：'''说话能力（通用语，德鲁伊语），心灵感应100尺\n\n从风化巨型玄武岩上凿出，这尊越10尺高的雄伟[[石像]]矗立着，并大致被雕刻成一名性感的哀容女子，而带着一种微妙的不安感的[[鸦首]]则从其一侧的肩膀上探出。该偶像发出一种使人迷惑的嗡嗡声，这种声音貌似可以绕过了正常的听觉，却可以在心灵深处感知到。曾被某古代人群视为有助富饶的女神，但这个偶像在很久以前就被一个邪恶的德鲁伊教团腐蚀了，该德鲁伊教团实施血祭，并使该偶像缺乏所有其他形式的献祭，直到祂接受他们的亵渎祭品。现在，面对新的、更强大的神袛们的到来，只有自私和永不满足的饥渴驱使着该偶像努力的保持着对其信徒的重要性。\n\n鸦母雕像（Effigy Of The Raven-Mother）被铁壁群岛（Ironbound Archipelago）中一座被海风吹拂的岛屿中那一代又一代的村民所崇拜。每年三次，在[[嗜血]]的德鲁伊长老的带领下，大约会有2500名信徒会在该偶像的圣日时聚众沉迷于崇拜和狂欢中。这些圣日分别处于春分、秋分以及冬至。村民们带来了其所产出的季节性收获物，以向那贪婪的偶像祈祷。任何试图[[突袭]]他们那偏远临海村落，亦或是被村民抓获的敌对武者们，也会被他们欣然当作祭品，他们的热血会洒到到该偶像的石制表面上，而他们的惨叫声则会在岛上回荡。\n\n该偶像那坚固耐用的结构，构成了一个恢弘雄伟、近乎[[坚不可摧]]的庞大独立石质体（硬度14，生命值1110，破坏DC 60）。该偶像具备隐匿（conceal）、圣化灵氲（deific aura）、注目（enthrall）、裕荒之力（feast or famine）、狂欢（revelry）、以及非凡气息（supernatural presence）能力。\n\n鸦母雕像（Effigy Of The Raven-Mother）知晓祂已经近乎抵达祂力量的顶峰，随着遥远城市的故事和丰富多彩的冒险吸引着年轻一代，祂意识到，这股潮流可能正在扭转其血腥的信仰。该偶像指使其教团领袖要在下一个圣日尽可能多地献祭，即便这些祭品不是敌对的武者。该偶像希望获得活化（animate）能力，这样祂可以将其巨大的主体迁徙到临近海滨的那处有着大量信徒的村庄，以更好的确保祂不会落入无人问津的情况并失去其力量。\n\n'''摧毁：'''作为堕落的富饶之像，该雕像必须基本上被断绝至死才能失去其效力。通过剥夺其信仰和献祭，使其每项能力值必须被降低至10点。只有这样，才能使用一把仪式性的洁净镰刀施展单次打击，让该偶像尘归尘土归土，失去其活动能力且完全没有力量",
    "source_name": "异能国度",
    "source_url": "https://pf1chm.pages.dev/topics/zhf5888805c8.htm"
   },
@@ -8273,7 +8355,7 @@
    "aura": "强烈（全部学派）",
    "cl": "20",
    "weight": "45,000磅",
-   "description": "阵营：中立邪恶\n\n感官：120尺，黑暗视觉\n\n智力：12\n\n感知：18\n\n魅力：18\n\n自我值：30\n\n语言：说话能力（通用语，德鲁伊语），心灵感应100尺\n\n从风化巨型玄武岩上凿出，这尊越10尺高的雄伟石像矗立着，并大致被雕刻成一名性感的哀容女子，而带着一种微妙的不安感的鸦首则从其一侧的肩膀上探出。该偶像发出一种使人迷惑的嗡嗡声，这种声音貌似可以绕过了正常的听觉，却可以在心灵深处感知到。曾被某古代人群视为有助富饶的女神，但这个偶像在很久以前就被一个邪恶的德鲁伊教团腐蚀了，该德鲁伊教团实施血祭，并使该偶像缺乏所有其他形式的献祭，直到祂接受他们的亵渎祭品。现在，面对新的、更强大的神袛们的到来，只有自私和永不满足的饥渴驱使着该偶像努力的保持着对其信徒的重要性。\n\n鸦母雕像（Effigy Of The Raven-Mother）被铁壁群岛（Ironbound Archipelago）中一座被海风吹拂的岛屿中那一代又一代的村民所崇拜。每年三次，在嗜血的德鲁伊长老的带领下，大约会有2500名信徒会在该偶像的圣日时聚众沉迷于崇拜和狂欢中。这些圣日分别处于春分、秋分以及冬至。村民们带来了其所产出的季节性收获物，以向那贪婪的偶像祈祷。任何试图突袭他们那偏远临海村落，亦或是被村民抓获的敌对武者们，也会被他们欣然当作祭品，他们的热血会洒到到该偶像的石制表面上，而他们的惨叫声则会在岛上回荡。\n\n该偶像那坚固耐用的结构，构成了一个恢弘雄伟、近乎坚不可摧的庞大独立石质体（硬度14，生命值1110，破坏DC 60）。该偶像具备隐匿（conceal）、圣化灵光（deific aura）、注目（enthrall）、裕荒之力（feast or famine）、狂欢（revelry）、以及非凡气息（supernatural presence）能力。\n\n鸦母雕像（Effigy Of The Raven-Mother）知晓祂已经近乎抵达祂力量的顶峰，随着遥远城市的故事和丰富多彩的冒险吸引着年轻一代，祂意识到，这股潮流可能正在扭转其血腥的信仰。该偶像指使其教团领袖要在下一个圣日尽可能多地献祭，即便这些祭品不是敌对的武者。该偶像希望获得活化（animate）能力，这样祂可以将其巨大的主体迁徙到临近海滨的那处有着大量信徒的村庄，以更好的确保祂不会落入无人问津的情况并失去其力量。\n\n摧毁：作为堕落的富饶之像，该雕像必须基本上被断绝至死才能失去其效力。通过剥夺其信仰和献祭，使其每项能力值必须被降低至10点。只有这样，才能使用一把仪式性的洁净镰刀施展单次打击，让该偶像尘归尘土归土，失去其活动能力且完全没有力量",
+   "description": "阵营：中立邪恶\n\n感官：120尺，黑暗视觉\n\n智力：12\n\n感知：18\n\n魅力：18\n\n自我值：30\n\n语言：说话能力（通用语，德鲁伊语），心灵感应100尺\n\n从风化巨型玄武岩上凿出，这尊越10尺高的雄伟石像矗立着，并大致被雕刻成一名性感的哀容女子，而带着一种微妙的不安感的鸦首则从其一侧的肩膀上探出。该偶像发出一种使人迷惑的嗡嗡声，这种声音貌似可以绕过了正常的听觉，却可以在心灵深处感知到。曾被某古代人群视为有助富饶的女神，但这个偶像在很久以前就被一个邪恶的德鲁伊教团腐蚀了，该德鲁伊教团实施血祭，并使该偶像缺乏所有其他形式的献祭，直到祂接受他们的亵渎祭品。现在，面对新的、更强大的神袛们的到来，只有自私和永不满足的饥渴驱使着该偶像努力的保持着对其信徒的重要性。\n\n鸦母雕像（Effigy Of The Raven-Mother）被铁壁群岛（Ironbound Archipelago）中一座被海风吹拂的岛屿中那一代又一代的村民所崇拜。每年三次，在嗜血的德鲁伊长老的带领下，大约会有2500名信徒会在该偶像的圣日时聚众沉迷于崇拜和狂欢中。这些圣日分别处于春分、秋分以及冬至。村民们带来了其所产出的季节性收获物，以向那贪婪的偶像祈祷。任何试图突袭他们那偏远临海村落，亦或是被村民抓获的敌对武者们，也会被他们欣然当作祭品，他们的热血会洒到到该偶像的石制表面上，而他们的惨叫声则会在岛上回荡。\n\n该偶像那坚固耐用的结构，构成了一个恢弘雄伟、近乎坚不可摧的庞大独立石质体（硬度14，生命值1110，破坏DC 60）。该偶像具备隐匿（conceal）、圣化灵氲（deific aura）、注目（enthrall）、裕荒之力（feast or famine）、狂欢（revelry）、以及非凡气息（supernatural presence）能力。\n\n鸦母雕像（Effigy Of The Raven-Mother）知晓祂已经近乎抵达祂力量的顶峰，随着遥远城市的故事和丰富多彩的冒险吸引着年轻一代，祂意识到，这股潮流可能正在扭转其血腥的信仰。该偶像指使其教团领袖要在下一个圣日尽可能多地献祭，即便这些祭品不是敌对的武者。该偶像希望获得活化（animate）能力，这样祂可以将其巨大的主体迁徙到临近海滨的那处有着大量信徒的村庄，以更好的确保祂不会落入无人问津的情况并失去其力量。\n\n摧毁：作为堕落的富饶之像，该雕像必须基本上被断绝至死才能失去其效力。通过剥夺其信仰和献祭，使其每项能力值必须被降低至10点。只有这样，才能使用一把仪式性的洁净镰刀施展单次打击，让该偶像尘归尘土归土，失去其活动能力且完全没有力量",
    "source_name": "异能国度",
    "source_url": "https://pf1chm.pages.dev/topics/zhf5888805c8.htm"
   }

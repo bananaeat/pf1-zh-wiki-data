@@ -1,6 +1,7 @@
 {{装备
 |name=水马
 |english_name=Hippocampus
+|aon=EquipmentMiscDisplay.aspx?ItemName=Hippocampus%20(common)
 |cat=坐骑与宠物
 |price=750 gp（战斗训练）；500 gp（普通）
 |weight=1,300磅（战斗训练）；1,000磅（普通）

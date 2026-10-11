@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 92），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=献祭仪式师
+|english_name=Sacrificial Ritualist
+|pfs=否
+|description=你的魔力曾经来自你自己，而现在你从他人身上汲取它。
+|prerequisites=[[自残仪式师]]，知识（奥秘）4级，知识（宗教）4级，[[法术辨识]]4级。
+|benefit=你可以用生物之血为神秘仪式（《异能冒险》208页）提供动力，从而提升施展它的能力。当你以一名有智慧的生物之死（或总生命骰数等于该仪式有效环级两倍的若干有智慧的生物之死）开始神秘仪式时，你和所有次要施法者在完成该神秘仪式所需的所有技能检定上获得+4加值。本专长的献祭是在完成仪式通常所需的任何献祭之外额外进行的。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Sacrificial%20Ritualist
+}}

@@ -337,7 +337,7 @@
 <div class="rule-def longterm"><div class="rd-t">炼金术 (炼金术士 1)</div><div class="rd-b">每场战斗1次，你的军队能够如同拥有治疗药剂军备一般治愈自身。这并不会消耗BP。</div></div>
 <div class="rule-def longterm"><div class="rd-t">两栖</div><div class="rd-b">军队可以移入或穿越水体，并且忽略水中屏障 带来的防御。</div></div>
 <div class="rule-def longterm"><div class="rd-t">[[动物伙伴]] (德鲁伊 1，游侠 4)</div><div class="rd-b">动物伙伴使军队的OM增加1点。</div></div>
-<div class="rule-def longterm"><div class="rd-t">水栖</div><div class="rd-b"><p>在对抗水中或者船只上的军队时，军队的OM与DV增加1点。在对抗陆上的军队时OM降低2点 (若军队同时还具有两栖特殊能力，则不会受到OM的惩罚)。</p><p>勇气灵光 (圣武士 3): 军队免疫恐惧效果，并且在避免溃逃的士气检定中自动成功。</p></div></div>
+<div class="rule-def longterm"><div class="rd-t">水栖</div><div class="rd-b"><p>在对抗水中或者船只上的军队时，军队的OM与DV增加1点。在对抗陆上的军队时OM降低2点 (若军队同时还具有两栖特殊能力，则不会受到OM的惩罚)。</p><p>勇气灵氲 (圣武士 3): 军队免疫恐惧效果，并且在避免溃逃的士气检定中自动成功。</p></div></div>
 <div class="rule-def longterm"><div class="rd-t">盔甲训练 (战士 3)</div><div class="rd-b">该职业能力会调整穿着中甲的单位的基本速度；因此也相应地调整军队的速度。</div></div>
 <div class="rule-def longterm"><div class="rd-t">流血</div><div class="rd-b">当这支军队在近战中造成伤害时，目标军队在下一个阶段开始时自动受到1d6点伤害。</div></div>
 <div class="rule-def longterm"><div class="rd-t">盲感</div><div class="rd-b">军队由于黑暗、[[隐形]]以及天气而使OM与DV受到的惩罚减半。</div></div>
@@ -426,7 +426,7 @@
 <div class="rule-def longterm"><div class="rd-t">[[颤动感知]]</div><div class="rd-b">军队由于黑暗、隐形以及天气而使OM与DV受到的惩罚减半。</div></div>
 <div class="rule-def longterm"><div class="rd-t">摔绊</div><div class="rd-b">在每个近战阶段，目标军队的DV降低1点，直至该阶段结束。</div></div>
 <div class="rule-def longterm"><div class="rd-t">不死</div><div class="rd-b">该军队免疫疾病、恐惧、麻痹以及毒素。军队的DV增加2点。</div></div>
-<div class="rule-def longterm"><div class="rd-t">反自然灵光</div><div class="rd-b">该能力视同“恐惧”，但是只适用于动物 (包括动物坐骑)。</div></div>
+<div class="rule-def longterm"><div class="rd-t">反自然灵氲</div><div class="rd-b">该能力视同“恐惧”，但是只适用于动物 (包括动物坐骑)。</div></div>
 <div class="rule-def longterm"><div class="rd-t">漩涡</div><div class="rd-b">该能力视同麻痹，但是只限对抗在水面或水中的目标。</div></div>
 <div class="rule-def longterm"><div class="rd-t">[[武器专精]] (战士 4)</div><div class="rd-b">每场战斗1次，使军队的远程或近战攻击时的OM增加2点。</div></div>
 <div class="rule-def longterm"><div class="rd-t">旋风</div><div class="rd-b">该能力视同“麻痹”。</div></div>
@@ -486,7 +486,7 @@
 
 大多数范例军队的规模为中型，并且为玩家或GM标注出典型的该类军队所具有的战术、军备以及特殊能力，不过仍旧很容易将军队的规模增大或减小。若军队具有军备，开支处列出部分也包含与军队规模相应的军备开销；若你要改变军队的规模，请记得扣除原有规模的军队开支，将军备开销调整为新规模的开销，再将结果加至军队的基本开支上。若开支处列出任何列装给军队的额外军备价格，这些军备的开销也会以相同方式修正相应的规模。
 
-怪物军队中列出的特殊能力近似于典型的怪物单位所具有的特殊能力。比如单个[[战蜥人]]的“恶臭”能够使敌人[[反胃]]，但是军队特殊能力中并未标明此能力，那么战蜥人军队可以获得“麻痹”作为替代品，因为这两者具有类似的效果。同理，[[天使，星界使徒|星界]]神使军队会具有“炼金术”能力，因为这与单个星界神使所具有的每日1次[[医疗术]]能力类似并且也较为合理；虽然这支部队实际上并未携带[[炼金工具]]。
+怪物军队中列出的特殊能力近似于典型的怪物单位所具有的特殊能力。比如单个[[战蜥人]]的“恶臭”能够使敌人[[反胃]]，但是军队特殊能力中并未标明此能力，那么战蜥人军队可以获得“麻痹”作为替代品，因为这两者具有类似的效果。同理，[[天使，星界使徒|星界]]神使军队会具有“炼金术”能力，因为这与单个星界使徒所具有的每日1次[[医疗术]]能力类似并且也较为合理；虽然这支部队实际上并未携带[[炼金工具]]。
 
 若一种特殊能力提供恒定的加值 (比如“强力冲锋”或“猛扑”提供的加值)，那么该加值会自动包含至军队的基本属性中。若加值有先决条件 (比如接石带来的DV加值或者投石带来的伤害加值)，则需要在满足条件时对该加值的来源进行说明。
 

@@ -21,7 +21,7 @@
 |-
 | APG || 生存勇气祝福（Blessing of Courage and Life） 镇魂曲（Ghostbane Dirge） 优雅步伐（Grace） 临时盔甲（Instant Armor） || 先知的负担（Oracle's Burden）（先知专用） 共享语言（Share Language） 敬畏武器（Weapon of Awe） || 
 |-
-| UM || 次等操纵尸体（Animate Dead, Lesser） 秩序之箭（Arrow of Law） 血沸（Boiling Blood） 战友情深（Compassionate Ally） 延缓痛苦（Delay Pain） 毁容之触（Disfiguring Touch） 恐惧之矢（Dread Bolt） || 灵光灌注（Imbue with Aura） 精制品转化术（Masterwork Transformation） 防护之影（Protective Penumbra） 混乱碎片（Shard of Chaos） 纯善之矛（Spear of Purity） 克服困境（Surmount Affliction） 蛛网庇护所（Web Shelter） || 
+| UM || 次等操纵尸体（Animate Dead, Lesser） 秩序之箭（Arrow of Law） 血沸（Boiling Blood） 战友情深（Compassionate Ally） 延缓痛苦（Delay Pain） 毁容之触（Disfiguring Touch） 恐惧之矢（Dread Bolt） || 灵氲灌注（Imbue with Aura） 精制品转化术（Masterwork Transformation） 防护之影（Protective Penumbra） 混乱碎片（Shard of Chaos） 纯善之矛（Spear of Purity） 克服困境（Surmount Affliction） 蛛网庇护所（Web Shelter） || 
 |-
 | UC || 共用重负术（Ant Haul, Communal） 赋予武器熟练（Bestow Weapon Proficiency） 轻便盔甲（Effortless Armor） 共用忍受环境（Endure Elements, Communal） 痛苦刑具（Instrument of Agony） 魔化攻城器械（Magic Siege Engine） 第三只手（Pilfering Hand） || 共用防护混乱（Protection from Chaos, Communal） 共用防护邪恶（Protection from Evil, Communal） 共用防护善良（Protection from Good, Communal） 共用防护守序（Protection from Law, Communal） 共用强固武装（Reinforce Armaments, Communal） 回力武器（Returning Weapon） || 
 |-
@@ -31,7 +31,7 @@
 |-
 | APG || 血之讯息（Blood Biography） 透支幸运（Borrow Fortune）（先知专用） 元素之语（Elemental Speech） 意识投影（Enter Image） || 群星的引导（Guiding Star） 压缩睡眠（Nap Stack） 神圣链接（Sacred Bond） 狂怒斗篷（Wrathful Mantle） || 
 |-
-| UM || 压榨劳工（Agonize） 圣使灵气（Archon's Aura） 獾之凶暴（Badger's Ferocity） 鼹鼠祝福（Blessing of the Mole） || 北冥神功（Ki Leech） 时之沙（Sands of Time） 医疗徽记（Symbol of Healing） 地狱幻景（Vision of Hell） || 
+| UM || 压榨劳工（Agonize） 圣使灵氲（Archon's Aura） 獾之凶暴（Badger's Ferocity） 鼹鼠祝福（Blessing of the Mole） || 北冥神功（Ki Leech） 时之沙（Sands of Time） 医疗徽记（Symbol of Healing） 地狱幻景（Vision of Hell） || 
 |-
 | UC || 星云锁链（Chain of Perdition） 破晓之箭（Daybreak Arrow） 死亡化身（Deadly Juggernaut） 共用延迟毒发（Delay Poison, Communal） || 探索之触（Discovery Torch） 共用抵抗能量（Resist Energy, Communal） 共用回力武器（Returning Weapon, Communal） 共用共享语言（Share Language, Communal） || 
 |-
@@ -41,7 +41,7 @@
 |-
 | APG || 热情祝福（Blessing of Fervor） 位面适应（Planar Adaptation） || 永恒安眠（Rest Eternal） 灵能盟友（Spiritual Ally） || 
 |-
-| UM || 毁灭灵气（Aura of Doom） 血鸦击（Blood Crow Strike） 控制召唤生物（Control Summoned Creature） 血蛆侵袭（Fleshworm Infestation） 先知的化身（Oracle's Vessel） 瘟疫打击（Plague Carrier） || 驭波术（Ride the Waves） 安抚构装（Soothe Construct） 毒液喷吐（Spit Venom） 启示徽记（Symbol of Revelation） 迟缓徽记（Symbol of Slowing） 深沉忏悔（Terrible Remorse） || 
+| UM || 毁灭灵氲（Aura of Doom） 血鸦击（Blood Crow Strike） 控制召唤生物（Control Summoned Creature） 血蛆侵袭（Fleshworm Infestation） 先知的化身（Oracle's Vessel） 瘟疫打击（Plague Carrier） || 驭波术（Ride the Waves） 安抚构装（Soothe Construct） 毒液喷吐（Spit Venom） 启示徽记（Symbol of Revelation） 迟缓徽记（Symbol of Slowing） 深沉忏悔（Terrible Remorse） || 
 |-
 | UC || 衰弱预兆（Debilitating Portent） 共用防护能量伤害（Protection from Energy, Communal） || 灵魂连接（Summoner Conduit） 共用水上行走（Water Walk, Communal） || 
 |-
@@ -73,7 +73,7 @@
 |-
 | UC || 动荡征兆（Jolting Portent） ||  || 
 |-
-| 8级法术 || CRB || 反魔场（Antimagic Field） 混沌披风（Cloak of Chaos） 唤起高等死灵（Create Greater Undead） 群体治疗致命伤（Cure Critical Wounds, Mass） 空间锁（Dimensional Lock） 感知位置（Discern Location） 地震术（Earthquake） 火焰风暴（Fire Storm） 圣洁灵光（Holy Aura） || 群体造成致命伤（Inflict Critical Wounds, Mass） 高等异界盟约（Planar Ally, Greater） 秩序之盾（Shield of Law） 高等法术免疫（Spell Immunity, Greater） 八级怪物召唤术（Summon Monster VIII） 死亡徽记（Symbol of Death） 疯狂徽记（Symbol of Insanity） 邪恶灵光（Unholy Aura）
+| 8级法术 || CRB || 反魔场（Antimagic Field） 混沌披风（Cloak of Chaos） 唤起高等死灵（Create Greater Undead） 群体治疗致命伤（Cure Critical Wounds, Mass） 空间锁（Dimensional Lock） 感知位置（Discern Location） 地震术（Earthquake） 火焰风暴（Fire Storm） 圣洁灵氲（Holy Aura） || 群体造成致命伤（Inflict Critical Wounds, Mass） 高等异界盟约（Planar Ally, Greater） 秩序之盾（Shield of Law） 高等法术免疫（Spell Immunity, Greater） 八级怪物召唤术（Summon Monster VIII） 死亡徽记（Symbol of Death） 疯狂徽记（Symbol of Insanity） 邪恶灵氲（Unholy Aura）
 |-
 | APG || 神圣化身（Divine Vessel）（先知专用） 爱与和平（Euphoric Tranquility） || 雷暴箭雨（Stormbolts） || 
 |-

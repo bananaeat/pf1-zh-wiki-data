@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Adventurer's Armory 2 pg. 22），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=工具优化师
+|english_name=Tool Optimizer
+|description=你能轻易找到可充当工具的物品，或能补充你自有工具组的物品。
+|prerequisites=[[工艺]]（任意）1级、[[解除装置]]1级，或[[专业]]（任意）1级。
+|benefit=你使用与你至少拥有1级的技能相关的临时工具时不受罚值。例如，如果你拥有1级解除装置，在没有合适工具的情况下开锁不受罚值。如果你在某项技能上至少拥有3级，你可以把与该技能相关的普通工具视为精制品工具。
+|source_name=冒险者的军械库2
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Tool%20Optimizer
+}}

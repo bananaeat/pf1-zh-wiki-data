@@ -1,0 +1,12 @@
+{{Feat
+|name=无情屠夫
+|english_name=Relentless Butcher
+|categories=伟业
+|pfs=否
+|description=你沉醉于肢解与残害的荣耀之中。
+|prerequisites=确认至少50次重击。
+|benefit=当你确认一次重击时，该对手必须通过一次强韧豁免（DC=10+你的力量或敏捷调整值），否则[[震慑]]1轮。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=51645.msg474522#msg474522 [LFPG][ASL]偉業專長[翻譯完成]]，译者：PATIBAUL；按 AoN 核对过。
+|source_name=烈焰传承玩家手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Relentless%20Butcher
+}}

@@ -1,0 +1,15 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 56），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=拆解魔法物品
+|english_name=Disassemble Magic Item
+|categories=组织
+|pfs=否
+|description=你能把魔法物品拆开再重新组装。
+|prerequisites=任意物品制造专长，盾徽财团20TPA。
+|benefit=你可以把一件魔法物品拆解成零件。这些零件不具魔法，除了材质相同之外，可能与原物品几乎毫无相似之处（一把魔法剑可能是三块可辨认的金属件，也可能只是一堆金属碎片）。拆解魔法物品，每1,000gp价格需要耗时1小时，并且要求你如同制作物品那样集中精神。你只能对你的物品制造专长能让你制作的物品使用本专长（例如，如果你拥有[[制造奇物]]，你可以拆解奇物，但不能拆解魔法武器或防具）。
+
+只要所有零件齐全，你就可以把拆解的物品重新组装；这耗费的时间与拆解时相同。重组有10%的几率失败，此时物品会被永久毁坏。
+|source=FM
+|source_name=组织指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Disassemble%20Magic%20Item
+}}

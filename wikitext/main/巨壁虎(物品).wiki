@@ -3,6 +3,7 @@
 {{装备
 |name=巨壁虎
 |english_name=Giant gecko
+|aon=EquipmentMiscDisplay.aspx?ItemName=Giant%20gecko%20(common)
 |cat=坐骑与宠物
 |price=150 gp（战斗训练）；100 gp（普通）
 |weight=—

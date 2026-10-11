@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of Shadows pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=地表斥候
+|english_name=Surface Scout
+|description=你自幼接受训练，专门渗透和伏击地上的定居点。
+|prerequisites=[[卓尔]]，类法术能力卓尔种族特性。
+|benefit=你可以每日各使用一次[[太阳恐惧]]和[[低贱形态]]（见下文）作为类法术能力。你的施法者等级等于你的角色等级。
+|source=BoS
+|source_name=阴影血脉
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Surface%20Scout
+}}

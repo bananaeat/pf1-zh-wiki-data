@@ -1,5 +1,6 @@
 {{物品
 |name=猛犸革甲
+|english_name=Mammoth Hide
 |category=魔法防具
 |aura=中等防护系及变化系
 |cl=6级

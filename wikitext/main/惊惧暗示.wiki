@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Guardians of Dragonfall pg. 29），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=惊惧暗示
+|english_name=Frightful Suggestion
+|pfs=否
+|description=你可以调整自己的气势凶猛，使受害者的心中除了恐惧之外还充满别的东西。
+|prerequisites=气势凶猛，真龙。
+|benefit=每轮你可以用一个自由动作对受你的气势凶猛影响的任意一名对手施加一个[[暗示术]]。该暗示术的意志豁免DC与你普通气势凶猛能力的DC相同。成功豁免该暗示术的对手会解除气势凶猛的效果，并在24小时内对你的气势凶猛免疫。
+|source_name=龙陨守卫
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Frightful%20Suggestion
+}}

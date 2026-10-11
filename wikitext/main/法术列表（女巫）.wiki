@@ -7,7 +7,7 @@
 |-
 | APG || 腐化食粮（Putrefy Food and Drink） || 火花术（Spark） || 
 |-
-| 1环法术 || CRB || 燃烧之手（Burning Hands） 惊恐术（Cause Fear） 魅惑人类（Charm Person） 寒冷之触（Chill Touch） 命令术（Command） 通晓语言（Comprehend Languages） 治疗轻伤（Cure Light Wounds） 侦测密门（Detect Secret Doors） 变巨术（Enlarge Person） 催眠术（Hypnotism） 鉴定术（Identify） || 造成轻伤（Inflict Light Wounds） 法师护甲（Mage Armor） 坐骑术（Mount） 隐雾术（Obscuring Mist） 衰弱射线（Ray of Enfeeblement） 人类缩小术（Reduce Person） 睡眠术（Sleep） 一级怪物召唤术（Summon Monster I） 隐型仆役（Unseen Servant）
+| 1环法术 || CRB || 燃烧之手（Burning Hands） 惊恐术（Cause Fear） 魅惑人类（Charm Person） 寒冷之触（Chill Touch） 命令术（Command） 通晓语言（Comprehend Languages） 治疗轻伤（Cure Light Wounds） 侦测密门（Detect Secret Doors） 变巨术（Enlarge Person） 催眠术（Hypnotism） 鉴定术（Identify） || 造成轻伤（Inflict Light Wounds） 法师护甲（Mage Armor） 坐骑术（Mount） 隐雾术（Obscuring Mist） 衰弱射线（Ray of Enfeeblement） 人类缩小术（Reduce Person） 睡眠术（Sleep） 一级怪物召唤术（Summon Monster I） 隐形仆役（Unseen Servant）
 |-
 | APG || 诱人赠礼（Beguiling Gift） 舞灯术（Dancing Lantern） || 凶兆（Ill Omen） 掩饰魔力（Mask Dweomer） || 
 |-
@@ -37,7 +37,7 @@
 |-
 | ACG || 可调易容术（Adjustable Disguise） 气泉喷升（Air Geyser） 足底生根（Anchored Step） 阵营视域（Aura Sight） 坟冢黑雾（Barrow Haze） 构装体残废术（Disable Construct） 金属核心（Heart of The Metal） 巫术刻文（Hex Glyph） || 心锁信使（Mindlocked Messenger） 臭气四溢（Nauseating Trail） 洞见伪装（Pierce Disguise） 魔宠变形术（Polymorph Familiar） 银镖闪（Silver Darts） 飞刺纠缠术（Thorny Entanglement） 死灵狂暴术（Unliving Rage） || 
 |-
-| 4环法术 || CRB || 秘法眼（Arcane Eye） 黑触手（Black Tentacles） 魅惑怪物（Charm Monster） 困惑术（Confusion） 极度绝望（Crushing Despair） 治疗重伤（Cure Serious Wounds） 防死结界（Death Ward） 侦测探知（Detect Scrying） 任意门（Dimension Door） 辨识谎言（Discern Lies） 预言术（Divination） 弱能术（Enervation） 恐惧术（Fear） || 次等指使术（Geas, Lesser） 冰风暴（Ice Storm） 造成重伤（Inflict Serious Wounds） 生物定位术（Locate Creature） 弱效造物术（Minor Creation） 中和毒性（Neutralize Poison） 魅影杀手（Phantasmal Killer） 毒击术（Poison） 探知（Scrying） 庇护所（Secure Shelter） 重雾术（Solid Fog） 四级怪物召唤术（Summon Monster IV）
+| 4环法术 || CRB || 秘法眼（Arcane Eye） 黑触手（Black Tentacles） 魅惑怪物（Charm Monster） 困惑术（Confusion） 极度绝望（Crushing Despair） 治疗重伤（Cure Serious Wounds） 防死结界（Death Ward） 侦测探知（Detect Scrying） 任意门（Dimension Door） 辨识谎言（Discern Lies） 预言术（Divination） 弱能术（Enervation） 恐惧术（Fear） || 次等指使术（Geas, Lesser） 冰风暴（Ice Storm） 造成重伤（Inflict Serious Wounds） 生物定位术（Locate Creature） 次级造物术（Minor Creation） 中和毒性（Neutralize Poison） 魅影杀手（Phantasmal Killer） 毒击术（Poison） 探知（Scrying） 庇护所（Secure Shelter） 重雾术（Solid Fog） 四级怪物召唤术（Summon Monster IV）
 |-
 | APG || 月狂病（Moonstruck） 梦游（Sleepwalk） 怨毒反击（Spite） || 三相（Threefold Aspect） 游荡星尘（Wandering Star Motes） || 
 |-

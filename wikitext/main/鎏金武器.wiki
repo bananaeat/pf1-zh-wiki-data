@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Plane-Hopper's Handbook pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=鎏金武器
+|english_name=Gilded Weapons
+|description=公理能量从你散落的金色尘埃中涌出，一经接触便会伤害混乱生物。
+|prerequisites=[[秩裔]]，结晶尘埃种族特性，非混乱阵营。
+|benefit=以一个迅捷动作，你可以消耗1轮结晶尘埃能力的持续时间，将至多两件你的天生武器或手持的人造武器裹上一层结晶尘埃。这些武器会保持裹尘状态1轮，并对具有混乱子类型的生物额外造成1d6点伤害。该额外伤害不与其他为武器增加阵营伤害的特性叠加，例如公理武器特殊能力。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Gilded%20Weapons
+}}

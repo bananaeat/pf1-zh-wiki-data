@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Fire Player's Guide pg. 20），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=沙行者
+|english_name=Sandwalker
+|description=你在流动的沙浪上如鱼得水。
+|prerequisites=敏捷13，体质13。
+|benefit=当沙漠地形会使你的大陆移动速度降为正常的一半时，你可以以正常速度的3/4移动。你在寻找食物和水的[[生存]]检定，以及避免在沙漠中迷路的检定上获得+2加值。
+|source_name=烈焰传承玩家手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Sandwalker
+}}

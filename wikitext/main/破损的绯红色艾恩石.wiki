@@ -1,6 +1,7 @@
 {{物品
 |name=破损的绯红色艾恩石
 |english_name=Crimson Sphere (Cracked) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Crimson%20Sphere
 |category=艾恩石
 |aura=中等变化系
 |cl=12

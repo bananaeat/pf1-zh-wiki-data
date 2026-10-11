@@ -3,7 +3,7 @@
 |english_name=Mithral Heavy Shield
 |cat=特殊魔法盾牌
 |base=[[秘银]][[重钢盾]]
-|aura=无灵光（非魔法）
+|aura=无灵氲（非魔法）
 |slot=盾牌
 |price=1,020 gp
 |weight=5磅

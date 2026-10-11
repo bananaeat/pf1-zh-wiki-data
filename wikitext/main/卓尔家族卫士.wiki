@@ -4,14 +4,14 @@
 |english_name=Drow House Guard
 |cr=2
 |xp=600<!-- 原书没写 XP，按 CR 2 补 -->
-|classline=卓尔精灵战士3
+|classline=卓尔战士3
 |alignment=混乱邪恶
 |size=中型
 |type=类人生物
 |subtypes=精灵亚种
 |init=+3
 |senses=黑暗视觉120尺；察觉+6
-|description=和保卫卓尔商队与城市的普通卓尔精灵战士相比，卓尔家族蓄养的私兵训练更为严格，装备也更好。
+|description=和保卫卓尔商队与城市的普通卓尔战士相比，卓尔家族蓄养的私兵训练更为严格，装备也更好。
 |ac=17，接触13，措手不及14（+4护甲，+3敏捷）
 |hp=24（3d10+3）
 |fort=+3
@@ -43,7 +43,7 @@
 |gear=精制品链甲衫;精制品长剑;连发重弩和20支精制品弩矢;47GP
 |environment=地底
 |source=怪物志
-|family=卓尔精灵（怪物志）
+|family=卓尔（怪物志）
 |npc=1
 }}
 

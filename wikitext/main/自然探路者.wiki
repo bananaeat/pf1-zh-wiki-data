@@ -1,0 +1,11 @@
+{{Feat
+|name=自然探路者
+|english_name=Natural Pathseeker
+|description=你利用周围的环境来克服障碍。
+|prerequisites=偏好地形职业能力。
+|benefit=当你处于你的任一偏好地形时，你可将你的偏好地形加值的一半加到[[特技]]、[[攀爬]]和[[游泳]]技能检定上。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=171170.msg1440724#msg1440724 【HotD】幽暗地域的英雄/幽域英豪（Heroes of the Darklands）]，译者：萌新也有滥强的心；按 AoN 核对过。
+|source=HotD
+|source_name=幽暗地域英雄
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Natural%20Pathseeker
+}}

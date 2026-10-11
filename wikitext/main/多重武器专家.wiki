@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Demons Revisited pg. 38），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=多重武器专家
+|english_name=Multiweapon Specialist
+|pfs=否
+|description=你在持用相同的单手武器时，伤害获得加值。
+|prerequisites=三只或更多的手，敏捷21。
+|benefit=当你每只手都持用单手武器或轻型武器，且所有这些武器都属于同一武器组（按战士职业的定义）时，所有用这些武器进行的攻击在伤害掷骰上获得+2加值。
+|source_name=再探恶魔
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Multiweapon%20Specialist
+}}

@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Antihero's Handbook pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=破抗弃子
+|english_name=Piercing Gambit
+|categories=团队
+|pfs=否
+|description=你施放一个注定失败的法术，以帮助盟友突破敌人的抗法。
+|prerequisites=[[法术穿透]]或[[唬骗]]3级；施法者等级1级。
+|benefit=你可以消耗一个已准备的法术或一个法术位，如同你施放了该法术，以削弱敌人的防御。你的法术不产生任何效果，但一名同样拥有此专长的指定盟友，在为克服抗法而进行的施法者等级检定上获得加值，数值等于你所消耗的法术或法术位环级的一半，持续到你的下个回合开始。
+|source=A'sH
+|source_name=反英雄手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Piercing%20Gambit
+}}

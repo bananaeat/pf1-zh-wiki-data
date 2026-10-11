@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #39: The City of Seven Spears pg. 74），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=仁慈之呼
+|english_name=Cry of Mercy
+|description=你借助先祖的恩赐，改变自己和盟友的致命一击，使你的敌人仅仅陷入昏迷。
+|prerequisites=感知13。
+|benefit=每日一次，你可以用一个迅捷动作呼唤先祖之灵，阻止你的对手死亡。在战斗剩余的时间里，你所有[[濒死]]的对手都会在其当前生命值下[[稳定]]下来，任何本会被你或你的盟友的伤害杀死的对手，都会改为降至–1点生命值并稳定下来。这是一种超自然能力。如果某位盟友不顾先祖之灵的努力，执意要杀死某个对手，她可以尝试一次意志豁免（DC等于10+你等级的一半+你的感知调整值）；成功则她的攻击正常对该对手生效。
+|source_name=冒险之路39：七矛之城
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Cry%20of%20Mercy
+}}

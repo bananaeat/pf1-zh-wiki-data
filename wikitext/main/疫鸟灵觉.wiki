@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #139: The Dead Roads pg. 71），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=疫鸟灵觉
+|english_name=Nosoi's Spiritsense
+|pfs=否
+|description=就连最卑微的渡魂使也能嗅出不死生物。一只戴着纸糊面具的夜鹰教会了你如何做到。
+|prerequisites=[[暮行者]]。
+|benefit=你可以随意将[[侦测死灵]]作为类法术能力施放。此效果的施法者等级等于你的角色等级。
+|source_name=冒险之路139：死者之路
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Nosoi%27s%20Spiritsense
+}}

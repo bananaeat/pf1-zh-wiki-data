@@ -16,7 +16,7 @@
 |ref=+9
 |will=+4
 |speed=40 尺，飞行 30 尺（较差机动性）
-|melee=噬咬 +13（1d8 +5），2 爪抓 +13（1d6 +5）
+|melee=啮咬 +13（1d8 +5），2 爪抓 +13（1d6 +5）
 |space=10 尺
 |reach=10 尺
 |special_attacks=吼叫，[[通用怪物规则#猛扑|猛扑]]
@@ -50,4 +50,4 @@
 龙狮长 10–12 尺，重达 1,200 磅。
 }}
 
-本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=60334.msg561023#msg561023 【B3】龙狮（Dragonne）]，译者：solariusyang）。

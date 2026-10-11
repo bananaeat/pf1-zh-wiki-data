@@ -1,1 +1,1 @@
-<div class="class-nav"><span class="pill">[[掉链召唤师]]</span><span class="pill">[[掉链幻灵|幻灵]]</span></div>
+<div class="class-nav"><span class="pill">[[掉链召唤师]]</span><span class="pill">[[掉链幻灵|幻灵]]</span><span class="pill">[[幻灵进化速查|进化速查]]</span></div>

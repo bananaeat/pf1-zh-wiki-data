@@ -21,7 +21,7 @@
 |resist=寒冷 30
 |sr=22
 |speed=20 尺，游泳 60 尺
-|melee=4 触手 +17（1d6+3），2 尾击 +12（1d8+1）
+|melee=4 触手 +17（1d6+3），2 尾扫 +12（1d8+1）
 |space=10 尺
 |reach=10 尺
 |special_attacks=强力触手，联觉杰作（DC 20）

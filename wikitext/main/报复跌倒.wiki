@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Antihero's Handbook pg. 9），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=报复跌倒
+|english_name=Vindictive Fall
+|description=当你倒下时，你会拖着别人一起倒下。
+|prerequisites=[[闪电反射]]。
+|benefit=当一个生物令你变为[[俯卧]]——例如通过某种效果或法术（如[[油腻术]]），或成功用战技[[摔绊]]你——你可以用一个直觉动作进行一次战技检定，尝试摔绊你近战触及范围内的一名敌人。该战技的目标不必是使你倒地的那个生物。如果你没有[[精通摔绊]]专长或类似能力，你的摔绊战技会如常引发目标的借机攻击。
+|source=A'sH
+|source_name=反英雄手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Vindictive%20Fall
+}}

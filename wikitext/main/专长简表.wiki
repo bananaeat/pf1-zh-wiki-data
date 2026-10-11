@@ -169,7 +169,7 @@
 |-
 | 精通阴招（神话）Improved Dirty Trick (Mythic) || 精通阴招APG || 阴招检定依照阶层获得加值
 |-
-| 精通卸武（神话）Improved Disarm (Mythic) || 精通卸武CRB || 卸除武器检定依照阶层获得加值
+| 精通缴械（神话）Improved Disarm (Mythic) || 精通缴械CRB || 缴械检定依照阶层获得加值
 |-
 | 精通拖拽（神话）Improved Drag (Mythic) || 精通拖拽APG || 拖曳检定依照阶层获得加值
 |-

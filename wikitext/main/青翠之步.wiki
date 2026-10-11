@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Wilderness Origins pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=青翠之步
+|english_name=Verdant Step
+|description=你可以在魔法植物和与你有亲和的植物之间穿行。
+|prerequisites=体质13，角色等级7级，植物类生物。
+|benefit=每天一次，你可以踏入一株与你有亲和的相邻植物，然后从同类的另一株植物中走出。这如同[[融身入林]]，但有以下变化：持续时间为1轮；传送距离为每角色等级200尺；传送自身需要一个标准动作；使用该能力的蒿兰人可以穿过任何活树，而藤蔓莱西可以穿过任何活的藤蔓。你还可以进入任何由魔法造出或增强的植物，例如[[棘墙术]]产生的植物，或受[[纠缠术]]影响的植物，然后从另一株类似的植物或一株与你有亲和的植物中走出。
+|special=对于非蒿兰人、非藤蔓莱西的植物生物，由GM判定其植物亲和。
+|source=WO
+|source_name=荒野源始
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Verdant%20Step
+}}

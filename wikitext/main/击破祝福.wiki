@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Agents of Evil pg. 19），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=击破祝福
+|english_name=Sunder Blessing
+|categories=战斗
+|pfs=否
+|description=你对权威的蔑视，使你能够撕去诸神的祝福。
+|prerequisites=[[扰法者(专长)|扰法者]]，战士等级8级。
+|benefit=你可以通过战技检定成功，尝试击破一个正在生效的神术法术效果或神术类法术能力。对于并非作用于生物身上的效果，你必须对CMD 15 + 该效果的施法者等级的战技检定成功。要击破生物身上的效果，你必须对该生物的CMD + 5进行一次普通的击破战技检定并成功，且忽略法术或类法术能力造成的任何失手率。成功时，你压制该效果1轮。如果你的结果超出CMD 5点或更多，则压制该效果2轮。如果超出CMD 10点或更多，则该效果改为被解除。如果你未能击破某个法术，则1分钟内不能再次尝试击破该效果。
+|source=AoE
+|source_name=邪恶特务
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Sunder%20Blessing
+}}

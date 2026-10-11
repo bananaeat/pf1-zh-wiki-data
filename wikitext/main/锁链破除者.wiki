@@ -1,0 +1,13 @@
+{{Feat
+|name=锁链破除者
+|english_name=Chainbreaker
+|categories=伟业
+|pfs=否
+|description=没有什么比看到奴隶在主人面前畏缩更能激起你的怒火，让你在战斗中更为致命。
+|prerequisites=在至少五个不同的场合，累计解救50名以上被不公正囚禁的有智慧生物。
+|benefit=与你知道拥有奴隶或从事奴隶买卖的对手战斗时，你可以每轮一次，为针对该对手的近战攻击、远程攻击或指向性法术的伤害掷骰增加加值。此额外伤害为你每有四点生命骰便+1。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=51645.msg474522#msg474522 [LFPG][ASL]偉業專長[翻譯完成]]，译者：PATIBAUL；按 AoN 核对过。
+|source=ASoL
+|source_name=安多安，自由之魂
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Chainbreaker
+}}

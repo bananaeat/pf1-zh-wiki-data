@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Demons Revisited pg. 32），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=精通占据
+|english_name=Improved Possession
+|pfs=否
+|description=你占据身体的能力更强了。
+|prerequisites=恶魔占据或影魔，魅力25。
+|benefit=你的[[魔魂壶]]类法术能力的持续时间增加到24小时。你可以选择启动宿主身体的特异能力、超自然能力、类法术能力，以及已知或已准备的法术。
+|source_name=再探恶魔
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Possession
+}}

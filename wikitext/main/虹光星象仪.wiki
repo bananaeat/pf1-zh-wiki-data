@@ -19,7 +19,7 @@
 |defensive=全局视野;抗解除;硬度 10
 |immune=构装体特性
 |speed=0 尺（无法移动）
-|melee=猛击 +21（6d6+10 附加擒抱）
+|melee=挥击 +21（6d6+10 附加擒抱）
 |space=20 尺
 |reach=15 尺
 |special_attacks=目盲脉冲，紧勒（6d6+10），虹光折射（+17 远程接触，DC 21，每 1d4 轮一次）

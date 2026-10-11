@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 24），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=无情精准
+|english_name=Merciless Precision
+|pfs=否
+|description=你乐于并擅长击倒行动受阻的目标。
+|prerequisites=[[偷袭]]职业特性，狗头人。
+|benefit=对于已受到下列任一状态影响的目标，你的偷袭伤害增加1d6：[[目盲]]、[[濒死]]、[[纠缠]]、[[力竭]]、[[惊惧]]、[[无助]]、[[反胃]]、[[恐慌]]、[[麻痹]]或[[震慑]]。（译注：AoN 原文作“rightened”，疑为笔误，应为 frightened，即惊惧。）
+|source=KoG
+|source_name=格拉利昂的狗头人
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Merciless%20Precision
+}}

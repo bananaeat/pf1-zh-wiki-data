@@ -1,6 +1,7 @@
 {{物品
 |name=破损的淡紫混绿艾恩石
 |english_name=Lavender and Green Ellipsoid (Cracked) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Lavender%20and%20Green%20Ellipsoid
 |category=艾恩石
 |aura=强烈各种
 |cl=12

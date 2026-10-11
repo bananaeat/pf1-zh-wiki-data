@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（We Be Goblins Free! pg. 15, We Be Goblins! pg. 12, We Be Goblins Too! pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=嗅犬生恨
+|english_name=Dog-Sniff-Hate
+|pfs=否
+|description=与许多地精不同，你并不特别怕狗。你知道狗是什么气味，而这气味让你发怒——非常愤怒。
+|prerequisites=[[技能专攻]]（[[察觉]]），地精。
+|benefit=你获得[[灵敏嗅觉]]能力，但只对犬科生物有效（包括狗、地精犬、狼、座狼、耶斯猎犬，以及任何类似的生物，须经GM认可）。对这些生物，你在攻击检定上获得+1士气加值，在武器伤害骰上获得+2士气加值。
+|source_name=我们地精自由啦！
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Dog-Sniff-Hate
+}}

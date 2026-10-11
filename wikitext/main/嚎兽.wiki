@@ -18,7 +18,7 @@
 |will=+3
 |defensive=刚毛防御
 |speed=60尺
-|melee=噬咬 +8（1d8 +4），刚毛 +3（1d4 +2 附带剧痛）
+|melee=啮咬 +8（1d8 +4），刚毛 +3（1d4 +2 附带剧痛）
 |space=10 尺
 |reach=5 尺
 |special_attacks=嚎叫
@@ -50,4 +50,4 @@
 嚎兽和老虎差不多大，12 尺长，6,000 磅重。他们肤色惨白，有着墨黑的刚毛和白浊的眼睛。
 }}
 
-本页译自《[[怪物图鉴2]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴2]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=64906.msg601333#msg601333 【B2】嚎兽（Howler）]，译者：solariusyang）。

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Planar Adventures pg. 32），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=主观机动
+|english_name=Subjective Mobility
+|description=在重力具有主观性的位面领域，你是自身重力的主宰。
+|prerequisites=感知13。
+|benefit=你为设定新的重力方向而进行的感知检定自动成功。设定新的重力方向时，你可以将坠落速度降低至多三分之二（第一轮最低50尺，此后每轮最低100尺），或将其提高至正常速度的两倍（第一轮300尺，此后每轮600尺）。这些效果仅适用于具有主观指向重力的位面。
+|source=PA
+|source_name=位面冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Subjective%20Mobility
+}}

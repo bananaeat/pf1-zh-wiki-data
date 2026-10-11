@@ -1,0 +1,4 @@
+<noinclude>{{牧师导航}}
+</noinclude>{{领域能力|name=混沌灵氲|en=Aura of Chaos|type=Su|domain=混乱领域|sub=幻蛇子域 (Protean)|sub_name=幻蛇子域|source=进阶玩家指南|text=到了8级你可用狂乱能量场围绕着自己，此30尺灵氲每日持续轮数为你牧师等级。在行动轮开始之际，范围内敌人需要宣布自己此轮行动（攻击、施法、移动、使用物品、激活[[特殊能力]]），意志豁免成功依此行动，失败则要以其它方式行动。此能力替换[[混乱领域#混沌之刃 (Chaos Blade, Su)|混沌之刃]]能力。}}<noinclude>
+
+[[分类:领域]]</noinclude>

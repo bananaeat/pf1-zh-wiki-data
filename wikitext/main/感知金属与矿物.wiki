@@ -1,0 +1,10 @@
+{{Feat
+|name=感知金属与矿物
+|english_name=Sense Metals and Minerals
+|description=你对大地中的珍贵宝藏有着第六感。
+|benefit=你在察觉天然贵金属或矿物矿床的[[察觉]]检定上获得+4加值，在判断其价值的[[估价]]检定上也获得+4加值。花费5分钟仔细审视一处已发现的金属或矿物矿脉，你就能把整条矿脉的价值确定到误差1,000gp以内，最高确定至50,000gp。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=171170.msg1440724#msg1440724 【HotD】幽暗地域的英雄/幽域英豪（Heroes of the Darklands）]，译者：萌新也有滥强的心；按 AoN 核对过。
+|source=HotD
+|source_name=幽暗地域英雄
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Sense%20Metals%20and%20Minerals
+}}

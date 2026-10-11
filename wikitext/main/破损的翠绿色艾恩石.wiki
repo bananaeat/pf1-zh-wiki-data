@@ -1,6 +1,7 @@
 {{物品
 |name=破损的翠绿色艾恩石
 |english_name=Emerald Ellipsoid (Cracked) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Emerald%20Ellipsoid
 |category=艾恩石
 |aura=中等死灵系
 |cl=12

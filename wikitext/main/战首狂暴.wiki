@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Orcs of Golarion pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=战首狂暴
+|english_name=Warleader's Rage
+|description=你的狂暴令盟友备受鼓舞，使他们不必一直与你相邻也能保持狂暴。
+|prerequisites=魅力13，半兽人或兽人，非秩序阵营。
+|benefit=那些允许盟友在与你相邻时进入狂暴或强化狂暴的专长和能力（例如[[狂暴增幅]]和[[共鸣狂暴]]），只要盟友在你30尺内并且能看见你，其效果就持续有效。启动狂暴效果的条件不变。例如，拥有共鸣狂暴的盟友必须与你相邻才能进入自己的狂暴，但一旦他的狂暴开始，只要他能看见你而且你在30尺内，他就可以继续保持狂暴。
+|source=OoG
+|source_name=格拉利昂的兽人
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Warleader%27s%20Rage
+}}

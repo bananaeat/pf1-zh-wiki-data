@@ -1,6 +1,7 @@
 {{装备
 |name=蜥蜴
 |english_name=Lizard
+|aon=EquipmentMiscDisplay.aspx?ItemName=Lizard%20(common)
 |cat=坐骑与宠物
 |price=5 cp（普通）；12 gp（奈克斯壁虎）
 |weight=2盎司（普通）；4盎司（奈克斯壁虎）

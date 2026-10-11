@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=鳞片门徒
+|english_name=Scaled Disciple
+|pfs=否
+|description=你的龙族血脉以神能的形式显现。
+|prerequisites=能够自发施放神术法术，狗头人。
+|benefit=你施放龙领域或其子域所含的法术时，施法者等级+1。你的自发神术施法可以代替奥术施法，满足[[龙脉术士]]进阶职业的要求，并且随着龙脉术士等级的提升，你可以提升你的自发神术职业的施法。把龙之血脉能力所获得的[[奖励法术]]加入你能以神术施放的法术中。
+|source=KoG
+|source_name=格拉利昂的狗头人
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Scaled%20Disciple
+}}

@@ -1,7 +1,7 @@
 <noinclude>{{速查导航|here=规则}}
 '''气势凶猛'''（Frightful Presence）是一条[[通用怪物规则]]。
-<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：灵光</span></div>
-</noinclude><includeonly><div class="lang"><span id="气势凶猛"></span><div class="lang-h"><b>[[气势凶猛]]</b><i>Frightful Presence</i><span class="lang-w">Ex · 灵光</span></div><div class="lang-d"></includeonly>
+<div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：灵氲</span></div>
+</noinclude><includeonly><div class="lang"><span id="气势凶猛"></span><div class="lang-h"><b>[[气势凶猛]]</b><i>Frightful Presence</i><span class="lang-w">Ex · 灵氲</span></div><div class="lang-d"></includeonly>
 这项特性使得生物具有某种令对手感到极为不安的外在表现。此效果以自由动作激活，通常附加在生物的攻击或冲锋上，在范围内目击该举动的对手将会[[惊惧]]或[[战栗]]。它的范围通常是 30 尺，持续时间通常为 5d6 轮。此能力仅能影响 HD 或者等级比该生物少的对手。被影响的对手可通过成功的意志豁免（DC = 10 + 1/2 气势凶猛生物种族 HD + 该生物魅力修正；具体的 DC 会在生物描述中给出）抵抗这个效果。豁免失败的生物会战栗，若该生物的 HD 为 4 或更低，则会[[恐慌]]。成功豁免的对手在接下来的 24 小时内对同一生物的气势凶猛效果免疫。气势凶猛属于影响心灵的恐惧效果。
 
 '''格式'''：气势凶猛（60 尺，DC 21）

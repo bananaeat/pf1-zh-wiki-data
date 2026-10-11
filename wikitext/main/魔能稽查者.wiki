@@ -2,7 +2,7 @@
 |name=魔能稽查者
 |english_name=Eldritch Auditor
 |type=魔法
-|description=你是一名精通魔法的商人，学会了保护自己商品的诀窍，或者你是一名对抗集市内的奥术花招的公正稽查者。在鉴定物品的真正特性，比如对抗诸如[[魔法灵光]]等法术时，你的[[法术辨识]]检定和意志豁免可获得+2背景加值。
+|description=你是一名精通魔法的商人，学会了保护自己商品的诀窍，或者你是一名对抗集市内的奥术花招的公正稽查者。在鉴定物品的真正特性，比如对抗诸如[[魔法灵氲]]等法术时，你的[[法术辨识]]检定和意志豁免可获得+2背景加值。
 |source_name=商人货单
 |source=MM
 |source_url=https://pf1chm.pages.dev/topics/zh22b22ddf01.htm

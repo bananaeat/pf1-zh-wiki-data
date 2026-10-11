@@ -77,4 +77,4 @@
 
 - 本站文字：[知识共享 署名-相同方式共享 4.0](https://creativecommons.org/licenses/by-sa/4.0/)（CC BY-SA，全文见 [`LICENSE`](LICENSE)）。再分发请署名「开拓者1版中文维基」并附原站链接，衍生作品沿用同一许可。各页贡献者见原站页面历史。
 - 规则内容：Paizo 的开放游戏内容依 [开放游戏许可 1.0a](OGL.txt) 使用；神名、地名、人物等产品标识依 Paizo 社区使用政策使用，见 [`NOTICE.md`](NOTICE.md)。**只限免费、非商业用途。**
-- 译文来源：大量译文来自民间汉化 CHM（[pf1chm.pages.dev](https://pf1chm.pages.dev/)），感谢各位译者；规则原文对照 [Archives of Nethys](https://aonprd.com/)；书目简介译自 [PathfinderWiki](https://pathfinderwiki.com/)（CC BY-SA）。
+- 译文来源：大量译文来自民间汉化 CHM（[pf1chm.pages.dev](https://pf1chm.pages.dev/)），感谢各位译者；部分怪物、专长等整理自纯美苹果园论坛（[goddessfantasy.net](https://www.goddessfantasy.net/bbs/)）的译帖，条目页尾注明了原帖和译者；规则原文对照 [Archives of Nethys](https://aonprd.com/)；书目简介译自 [PathfinderWiki](https://pathfinderwiki.com/)（CC BY-SA）。

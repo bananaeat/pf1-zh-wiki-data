@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Wild pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=高等蛮荒战术
+|english_name=Greater Uncivilized Tactics
+|categories=战斗
+|description=你那种粗野混战的战斗风格和致残性的攻击，让敌人很难从中恢复过来。
+|prerequisites=力量13，[[精通蛮荒战术]]，[[猛力攻击]]，[[蛮荒战术]]。
+|benefit=你在使用蛮荒战术的检定上获得+2加值。此加值与精通蛮荒战术所给的加值叠加。此外，敌人必须花费一个全回合动作，才能恢复被你用蛮荒战术废掉的肢体或天武攻击的使用。
+|normal=敌人可以用一个标准动作，恢复被蛮荒战术废掉的肢体或天武攻击的使用。
+|source=HotW
+|source_name=荒野英雄
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Uncivilized%20Tactics
+}}

@@ -1,0 +1,14 @@
+{{Feat
+|name=傲然挺立
+|english_name=Standing Tall
+|categories=故事
+|pfs=否
+|description=你能借用家族的古老法门，获得植物的一些特质。
+|prerequisites=成为法尔斯帕家族的一员，或拥有“孤狼狩者”、“八荒使”或“护树之人”角色背景。
+|benefit=每天一次，你可以以一个移动动作，在对抗影响心灵效果的豁免检定上获得+2加值，持续1分钟。
+|goal=发誓保护一处自然之地并守护至少一年，其间包括决定性地击败适当数量的入侵者或破坏者。
+|completion_benefit=你现在可以每天使用三次上述好处，并且该好处也适用于对抗[[麻痹]]、毒素、变形、睡眠和[[震慑]]效果的豁免检定。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=167723.msg1416948#msg1416948 【#131】皇冠战争的8个故事专长及塔尔多八大贵族家族背景介绍]，译者：Kochchchch；按 AoN 核对过。
+|source_name=冒险之路131：死神的右手
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Standing%20Tall
+}}

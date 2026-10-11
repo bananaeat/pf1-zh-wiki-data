@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Demons Revisited pg. 32），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=灵魂视觉
+|english_name=Spirit Vision
+|pfs=否
+|description=你在寻找占据目标时仍保有自己的感官。
+|prerequisites=[[魔魂壶]]为已知法术或类法术能力，感知15。
+|benefit=当你在寻找宿主时感知到生命力，你能像在自己身体中时那样观察它们。尝试占据一具身体是一个标准动作。
+|source_name=再探恶魔
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Spirit%20Vision
+}}

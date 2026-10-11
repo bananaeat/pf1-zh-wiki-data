@@ -17,7 +17,7 @@
 |ref=+6
 |will=+0
 |speed=50 尺
-|melee=噬咬 +4（1d4 +6）
+|melee=啮咬 +4（1d4 +6）
 |special_attacks=吐痰（+3 远程 接触）
 |str=18
 |dex=16
@@ -39,4 +39,4 @@
 骆驼是大型的沙漠群居动物，以它们的耐力和坏脾气闻名。典型的骆驼站立的时候肩高 6 尺，驼峰高 7 尺。
 }}
 
-本页译自《[[怪物图鉴2]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴2]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=172064.msg546803#msg546803 【B2】群居动物（Herd animal）]，译者：原子能青蛙）。

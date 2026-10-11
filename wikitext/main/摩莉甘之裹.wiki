@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #139: The Dead Roads pg. 71），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=摩莉甘之裹
+|english_name=Morrigna's Wrappings
+|pfs=否
+|description=骨园的一位渡魂使赏金猎人教会了你用蛛网抵御不死生物的诀窍。
+|prerequisites=角色等级9级，[[暮行者]]，腐化抗性种族特性。
+|benefit=只要你身上某个部位缠有蛛网，你的腐化抗性种族特性所提供的加值就提高为+4。
+|source_name=冒险之路139：死者之路
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Morrigna%27s%20Wrappings
+}}

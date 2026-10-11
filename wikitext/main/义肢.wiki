@@ -1,6 +1,7 @@
 {{装备
 |name=义肢
 |english_name=Prosthetic
+|aon=EquipmentMiscDisplay.aspx?ItemName=Prosthetic%20(arm)
 |cat=冒险装备
 |price=10 gp（臂）；1 gp（足）；1 gp（手）；20 gp（腿）
 |weight=3磅（臂）；2磅（足）；1磅（手）；6磅（腿）

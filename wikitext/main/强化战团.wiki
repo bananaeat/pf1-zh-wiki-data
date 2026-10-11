@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Coven pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=强化战团
+|english_name=Enhanced Coven
+|description=通过加深你与战团成员之间的联系，你使你的战团每天能够施展更多法术。
+|prerequisites=替换儿，战团巫术或[[战团之触]]。
+|benefit=你的替换儿战团每天能从其类法术能力列表中多施展三次法术。如果你战团的多名成员都选择了本专长，其益处可以叠加。
+|source=BotC
+|source_name=巫团血脉
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Enhanced%20Coven
+}}

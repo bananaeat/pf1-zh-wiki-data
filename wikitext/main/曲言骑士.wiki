@@ -1,0 +1,12 @@
+{{Feat
+|name=曲言骑士
+|english_name=Knight of the Twisted Word
+|categories=宫廷头衔
+|description=你给背叛者留下了深刻的印象，他在自己的流亡宫廷里授予了你一个头衔——或许是为了监视你。
+|prerequisites=精类生物类型或[[妖精仪典]]（[[莱诺克伯爵]]），角色等级7级，选择本专长时，你必须曾以重大方式背叛或欺骗过一个CR至少比你的等级高2的恶魔。
+|benefit=每日一次，你可以将[[花言巧语]]作为类法术能力施放，施法者等级等同于你的生命骰数。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=140560.msg1233224#msg1233224 伽瑟兰相关专长]，译者：Mystletainn；按 AoN 核对过。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Knight%20of%20the%20Twisted%20Word
+}}

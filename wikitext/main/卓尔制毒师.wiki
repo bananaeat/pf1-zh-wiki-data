@@ -4,14 +4,14 @@
 |english_name=Drow Poisoner
 |cr=11
 |xp=12,800
-|classline=卓尔精灵炼金术士12
+|classline=卓尔炼金术士12
 |alignment=混乱邪恶
 |size=中型
 |type=类人生物
 |subtypes=精灵亚种
 |init=+14
 |senses=全域视野，黑暗视觉120尺；察觉+17
-|description=这些卓尔精灵以自己调制毒药和研究炼金术的能力闻名。
+|description=这些卓尔以自己调制毒药和研究炼金术的能力闻名。
 |ac=23，接触16，措手不及18（+6护甲，+5敏捷，+1偏斜，+1天生）
 |hp=81（12d8+24）
 |fort=+10
@@ -44,7 +44,7 @@
 |gear=+2链甲衫;精制品细剑;精制品手弩和20支弩矢;极限敏捷腰带+2;天生护甲护符+1;抗力斗篷+1;无匹智力头带+2;防护戒指+1;170GP
 |environment=地底
 |source=怪物志
-|family=卓尔精灵（怪物志）
+|family=卓尔（怪物志）
 |npc=1
 }}
 

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dungeon Denizens Revisited pg. 61），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=雷殛蹒跚者
+|english_name=Stormstruck Shambler
+|pfs=否
+|description=你曾被风暴之力鞭打过太多次，因此保留了对它的强大亲和，能够调用体内储备的能量，以活体闪电打击敌人。
+|prerequisites=蔓生怪，必须曾被闪电击中。
+|benefit=以一个自由动作，你可以让你的一条肢体带上相当于[[电爪]]法术的电流，对你触摸、以徒手打击攻击或擒抱的生物造成5d6点电击伤害。如果进行接触攻击，当目标穿着金属护甲时，你的攻击掷骰获得+3。每次使用该能力，你都会受到1点临时体质伤害；你每小时恢复1点这样损失的体质。你每天可以使用该能力的次数等于你的生命骰数。
+|source_name=再探地城住民
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Stormstruck%20Shambler
+}}

@@ -7,7 +7,7 @@
 |-
 | APG || 火花术（Spark） ||  || 
 |-
-| 1环法术 || CRB || 燃烧之手（Burning Hands） 寒冷之触（Chill Touch） 七彩喷射（Color Spray） 变巨术（Enlarge Person） 脚底抹油（Expeditious Retreat） 羽落术（Feather Fall） 浮碟术（Floating Disk） 油腻术（Grease） 跳跃术（Jump） 魔法飞弹（Magic Missile） || 魔化武器（Magic Weapon） 坐骑术（Mount） 隐雾术（Obscuring Mist） 衰弱射线（Ray of Enfeeblement） 人类缩小术（Reduce Person） 护盾术（Shield） 电爪（Shocking Grasp） 无声幻影（Silent Image） 克敌机先（True Strike） 隐型仆役（Unseen Servant）
+| 1环法术 || CRB || 燃烧之手（Burning Hands） 寒冷之触（Chill Touch） 七彩喷射（Color Spray） 变巨术（Enlarge Person） 脚底抹油（Expeditious Retreat） 羽落术（Feather Fall） 浮碟术（Floating Disk） 油腻术（Grease） 跳跃术（Jump） 魔法飞弹（Magic Missile） || 魔化武器（Magic Weapon） 坐骑术（Mount） 隐雾术（Obscuring Mist） 衰弱射线（Ray of Enfeeblement） 人类缩小术（Reduce Person） 护盾术（Shield） 电爪（Shocking Grasp） 无声幻影（Silent Image） 克敌机先（True Strike） 隐形仆役（Unseen Servant）
 |-
 | APG || 闪光爆（Flare Burst） 水流冲击（Hydraulic Push） || 石拳术（Stone Fist） 渐隐术（Vanish） || 
 |-
@@ -29,7 +29,7 @@
 |-
 | 3环法术 || CRB || 秘法视力（Arcane Sight） 野兽形态I（Beast Shape I） 闪现术（Blink） 昼明术（Daylight） 解除魔法（Dispel Magic） 移位术（Displacement） 火球术（Fireball） 火焰箭（Flame Arrow） 飞行术（Fly） 气化形体（Gaseous Form） 加速术（Haste） 锐锋术（Keen Edge） || 闪电束（Lightning Bolt） 高等魔化武器（Magic Weapon, Greater） 强效幻影（Major Image） 魅影驹（Phantom Steed） 力竭射线（Ray of Exhaustion） 雪风暴（Sleet Storm） 缓慢术（Slow） 臭云术（Stinking Cloud） 吸血鬼之触（Vampiric Touch） 水中呼吸（Water Breathing） 风墙术（Wind Wall）
 |-
-| APG || 水牢法球（Aqueous Orb） 风之衣（Cloak of Winds） 元素光环（Elemental Aura） || 水流爆发（Hydraulic Torrent） 武器幻化（Versatile Weapon） || 
+| APG || 水牢法球（Aqueous Orb） 风之衣（Cloak of Winds） 元素灵氲（Elemental Aura） || 水流爆发（Hydraulic Torrent） 武器幻化（Versatile Weapon） || 
 |-
 | UM || 力场钩链（Force Hook Charge） 充能之拳（Force Punch） || 类人形态I（Monstrous Physique I） 亡灵形态I（Undead Anatomy I） || 
 |-

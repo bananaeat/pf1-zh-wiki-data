@@ -1,0 +1,8 @@
+<noinclude>{{召唤师导航}}
+'''超常灵氲'''（Unnatural Aura, Su）是[[召唤师]]的[[幻灵#进化型态|进化]]。
+
+</noinclude>{{Source|极限魔法|Ultimate Magic|inline}} 幻灵成为明显的超自然存在。普通的动物不会想靠近幻灵，除非其主人通过了DC为25的[[驯养动物]]、骑术或野性认同检定。<noinclude>
+
+[[分类:幻灵进化]]
+
+{{职业}}</noinclude>

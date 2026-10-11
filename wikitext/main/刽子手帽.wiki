@@ -45,6 +45,6 @@
 刽子手帽是从捕捉者（见[[潜伏鳐]]）产下的卵中孵化出来的。它们会在其母亲身边相伴一个月，然后就会离开去自己狩猎。
 }}
 
-本页据《[[怪物图鉴4]]》的怪物图鉴 CHM 译文写成（同见 [[潜伏鳐]] 页里的刽子手帽一节），数值按 AoN 核过。
+本页据《[[怪物图鉴4]]》的怪物图鉴 CHM 译文写成（同见 [[潜伏鳐]] 页里的刽子手帽一节），数值按 AoN 核过（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=149141.msg1293569#msg1293569 【B4】潜伏鳐（Lurking Ray）]，译者：萌新也有滥强的心）。
 
 {{AoN原文|1=MonsterDisplay.aspx?ItemName=Executioner's Hood|2=Executioner's Hood}}

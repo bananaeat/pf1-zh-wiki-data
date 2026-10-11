@@ -3,7 +3,7 @@
 |english_name=Vengeful (Combat)
 |type=战斗
 |benefit=在你幼年时代，一些你无力抵抗的家伙时不时的会虐待你。现在当有机会反击那些曾经伤害过你的人，你便会兴奋不已。当攻击24小时之内最后一个伤害你的生物时，对该生物的伤害骰获得+1背景加值。
-建议角色：[[卡莉斯翠]]信徒，伽尔特难民，[[吉罗娜]]信徒
+建议角色：[[卡莉斯翠]]信徒，迦尔特难民，[[吉罗娜]]信徒
 |source_name=任务与战役
 |source=任务与战役Quests and Campaigns
 |source_url=https://pf1chm.pages.dev/topics/page_1578.html

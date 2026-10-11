@@ -3,6 +3,7 @@
 {{装备
 |name=巨枭
 |english_name=Giant owl
+|aon=EquipmentMiscDisplay.aspx?ItemName=Giant%20owl%20(common)
 |cat=坐骑与宠物
 |price=9,000 gp（战斗训练）；6,000 gp（普通）
 |weight=—

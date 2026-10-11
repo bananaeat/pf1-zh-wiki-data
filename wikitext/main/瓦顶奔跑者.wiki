@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Curse of the Crimson Throne (PFRPG) pg. 461, Curse of the Crimson Throne Player's Guide pg. 6），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=瓦顶奔跑者
+|english_name=Shingle Runner
+|pfs=否
+|description=许多生活在遍布科瓦萨的屋顶之间的人，都变得擅长跳跃和攀爬陡峭的表面，并学会了如何更安全地着地。
+|prerequisites=敏捷13，[[特技专家]]。
+|benefit=你在[[特技]]和[[攀爬]]检定上获得+2加值，并且即使在分心时也可以对攀爬检定选10。如果你在其中一项技能上有10级或更高，该技能的加值提升到+4。如果你坠落，你自动将坠落所受的伤害减少1d6，如同少坠落了10尺。此伤害减免与成功的特技检定缓解坠落所得的减免叠加。
+|source_name=腥红王座的诅咒(开拓者版)
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Shingle%20Runner
+}}

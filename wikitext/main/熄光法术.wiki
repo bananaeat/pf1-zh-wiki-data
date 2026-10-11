@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of Shadows pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=熄光法术
+|english_name=Snuffing Spell
+|categories=超魔
+|description=你的魔法会扰乱光源。
+|benefit=你可以调整一个法术，使其熄灭目标所拥有的魔法和非魔法光源。生物第一次受到熄光法术的伤害或对其豁免失败时，其拥有的任何非魔法光源会立即熄灭，并且你可以尝试驱散任何正在影响该目标的带有[光]描述符的法术，就如同你同时施放了目标版本的[[解除魔法]]一样。不以生物为目标的法术不能成为熄光法术。
+
+熄光法术占用比法术实际环级高2环的法术位。
+|source=BoS
+|source_name=阴影血脉
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Snuffing%20Spell
+}}

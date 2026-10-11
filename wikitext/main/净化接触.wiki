@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
-</noinclude>{{领域能力|name=净化接触|en=Purifying Touch|type=Su|domain=保护领域|sub=纯净子域 (Purity)|sub_name=纯净子域|source=进阶玩家指南|text=到了8级，你以神力轻触来净化目标，令其可以对身上效果依次重掷豁免，成功则可解除（其中可自愿放弃）。此能力在8级能每天用1次，14级2次，20级3次。此能力替换[[保护领域#保护灵光 (Aura of Protection, Su)|保护灵光]]能力。}}<noinclude>
+</noinclude>{{领域能力|name=净化接触|en=Purifying Touch|type=Su|domain=保护领域|sub=纯净子域 (Purity)|sub_name=纯净子域|source=进阶玩家指南|text=到了8级，你以神力轻触来净化目标，令其可以对身上效果依次重掷豁免，成功则可解除（其中可自愿放弃）。此能力在8级能每天用1次，14级2次，20级3次。此能力替换[[保护领域#保护灵氲 (Aura of Protection, Su)|保护灵氲]]能力。}}<noinclude>
 
 [[分类:领域]]</noinclude>

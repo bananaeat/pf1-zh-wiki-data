@@ -31,7 +31,7 @@
 |feats=[[技能专攻]]（游泳）
 |skills=[[察觉]] +5;[[游泳]] +14
 |racial_mods=+4 察觉
-|sq=闭气
+|sq=屏息
 |environment=任意海洋
 |organization=单独，一对，或一群（3–22）
 |treasure=无

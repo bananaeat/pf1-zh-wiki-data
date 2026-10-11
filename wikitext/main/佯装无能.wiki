@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Antihero's Handbook pg. 8），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=佯装无能
+|english_name=Deceitful Incompetence
+|categories=战斗
+|description=当旁人在你面前放松戒备时，你能迅速从失误中吸取教训。
+|prerequisites=[[战斗反射]]。
+|benefit=当你在同一轮中已经做出过一次未命中的借机攻击之后，再次做出借机攻击时，你此前每有一次失败的借机攻击，便在这次攻击检定上累积获得+2洞察加值。例如，若你已做出一次失败的借机攻击，而敌人在同一轮中又引发了你的另一次借机攻击，则该次攻击检定获得+2洞察加值；若你在一轮中已做出两次失败的借机攻击，而敌人在同一轮中又引发了你的另一次借机攻击，则该次攻击检定获得+4洞察加值，依此类推。
+|source=A'sH
+|source_name=反英雄手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Deceitful%20Incompetence
+}}

@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 56），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=血石缉凶者
+|english_name=Bloodstone Manhunter
+|categories=组织
+|pfs=否
+|description=你擅长对付匪徒之类的人类罪犯。
+|prerequisites=血石之剑10TPA。
+|benefit=你对人类进行[[唬骗]]、[[知识]]、[[察觉]]、[[察言观色]]和[[生存]]检定时获得+1加值，对人类进行武器攻击检定和伤害掷骰时获得+1加值。如果你对人类拥有[[宿敌]]加值，则本专长不与该加值叠加。
+|source=FM
+|source_name=组织指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Bloodstone%20Manhunter
+}}

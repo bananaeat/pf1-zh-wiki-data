@@ -1,0 +1,13 @@
+{{Feat
+|name=大师表演
+|english_name=Master Performer
+|categories=组织
+|pfs=否
+|description=当你使用吟游表演能力时，你给予盟友更高的加值。
+|prerequisites=[[吟游表演]]职业能力，[[额外表演]]，基萨洛迪安学院15TPA。
+|benefit=当你的任意吟游表演能力给予盟友加值时，该加值增加+1。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=115554.msg1039136#msg1039136 补充翻译几个诗人专长~求挑错、译名意见]，译者：shysifer；按 AoN 核对过。
+|source=FM
+|source_name=组织指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Master%20Performer
+}}

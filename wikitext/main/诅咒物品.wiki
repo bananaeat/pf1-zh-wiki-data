@@ -1,3 +1,4 @@
+{{消歧义|魔法物品/诅咒物品}}
 {{Spell
 |name=诅咒物品
 |english_name=Curse item

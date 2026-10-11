@@ -1,6 +1,7 @@
 {{物品
 |name=破损的亮紫色艾恩石
 |english_name=Vibrant Purple Prism (Cracked) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Vibrant%20Purple%20Prism
 |category=艾恩石
 |aura=强烈各种
 |cl=12

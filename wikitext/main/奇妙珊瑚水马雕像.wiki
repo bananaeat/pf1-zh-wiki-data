@@ -1,6 +1,7 @@
 {{物品
 |name=奇妙珊瑚水马雕像
 |english_name=Coral Hippocampus Figurine of Wondrous Power
+|aon=MagicWondrousDisplay.aspx?FinalName=Figurine%20of%20Wondrous%20PowerCoral%20Hippocampus
 |category=奇物
 |aura=强烈塑能系和变化系
 |cl=19

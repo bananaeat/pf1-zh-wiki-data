@@ -11,7 +11,7 @@
 |symbol=带三道缺口的短剑
 |animal=蜥蜴
 |color=绿色，红色
-|centers=艾巴萨罗姆，切利亚斯，奈多，河域诸国，瓦瑞西安
+|centers=艾巴萨罗姆，切利亚斯，奈多，河域诸国，瓦瑞西亚
 |nationality=半身人
 |pantheon=半身人神祇
 |source=内海诸神、Faiths of Golarion、神术选集

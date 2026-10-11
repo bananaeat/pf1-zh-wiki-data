@@ -1,0 +1,11 @@
+{{Feat
+|name=横扫缴械
+|english_name=Sweeping Disarm
+|categories=战斗
+|description=当你打飞敌人的武器，这把掉落的武器有可能[[缴械]]另一个敌人。
+|prerequisites=智力13，[[寓守于攻]]，[[精通缴械]]，基本攻击加值+1
+|benefit=当你成功进行缴械检定时，你可以受到-5减值对原本目标邻接的一个目标再进行一次缴械检定。你不需要威胁第二个目标。你每轮只能用这个专长进行一次缴械[[战技]]检定。
+|source_name=武术手册
+|source_url=https://pf1chm.pages.dev/topics/zh0ff052e72d.htm
+|source=MAH
+}}

@@ -1,4 +1,0 @@
-<noinclude>{{牧师导航}}
-</noinclude>{{领域能力|name=圣化灵光|en=Aura of Sanctification|type=Su|domain=善良领域|sub=救赎子域 (Redemption)|sub_name=救赎子域|source=纯洁勇士|text=在8级以一个[[直觉动作]]，你能散发出30尺半径的圣化灵光，持续等于你牧师等级的轮数。这些轮数无需连续。在区域内，只对善良生物有害的效果将被反转：不再伤害善良生物反而伤害邪恶生物。同样的，只对邪恶生物生效的有益效果只对善良生物有效。此能力取代[[善良领域#神圣之枪 (Holy Lance, Su)|神圣之枪]]能力。}}<noinclude>
-
-[[分类:领域]]</noinclude>

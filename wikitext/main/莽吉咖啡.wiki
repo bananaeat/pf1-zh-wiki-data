@@ -1,0 +1,9 @@
+{{装备
+|name=莽吉咖啡
+|english_name=Mwangi coffee
+|cat=饮食
+|price=3 cp／杯
+|weight=1/2磅
+|description=这种“莽吉风”咖啡沏煮后有一种类似葡萄酒般的酸醇，这对初次品尝者来说有些太劲了。
+|source=冒险者的军械库
+}}

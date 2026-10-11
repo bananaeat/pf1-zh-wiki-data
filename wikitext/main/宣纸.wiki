@@ -1,6 +1,7 @@
 {{物品
 |name=宣纸
 |english_name=Rice paper
+|aon=EquipmentMiscDisplay.aspx?ItemName=Rice%20paper%20(sheet)
 |category=冒险装备
 |price=5 铜币
 |weight=—

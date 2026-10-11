@@ -36,7 +36,7 @@
 <tr><td>恐爪龙 (Dinosaur, deinonychus)</td><td>–</td><td>巨黄蜂 (Giant wasp)</td><td>–</td><td>犀牛 (Rhinoceros)</td><td>–</td></tr>
 <tr><td>凶暴猿 (Dire ape)</td><td>–</td><td>狮鹫 (Griffon)</td><td>–</td><td>萨特羊人 (Satyr)</td><td>–</td></tr>
 <tr><td>凶暴野猪 (Dire boar)</td><td>–</td><td>灰熊 (Grizzly bear)</td><td>–</td><td>虎 (Tiger)</td><td>–</td></tr>
-<tr><td>恐狼 (Dire wolf)</td><td>–</td><td>狮子 (Lion)</td><td>–</td><td></td><td></td></tr>
+<tr><td>凶暴狼 (Dire wolf)</td><td>–</td><td>狮子 (Lion)</td><td>–</td><td></td><td></td></tr>
 <tr><td>元素 (中型) (Elemental, medium)</td><td>元素</td><td>魔蝠 (任意) (Mephit, any)</td><td>元素</td><td></td><td></td></tr>
 <tr><td>5环</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>甲龙 (Dinosaur, ankylosaurus)</td><td>–</td><td>元素 (大型) (Elemental, large)</td><td>元素</td><td>蝎狮 (Manticore)</td><td>–</td></tr>

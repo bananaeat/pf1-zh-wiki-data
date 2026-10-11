@@ -3,6 +3,7 @@
 {{装备
 |name=虎
 |english_name=Tiger
+|aon=EquipmentMiscDisplay.aspx?ItemName=Tiger%20(common)
 |cat=坐骑与宠物
 |price=325 gp（普通）；500 gp（战斗训练）
 |weight=—

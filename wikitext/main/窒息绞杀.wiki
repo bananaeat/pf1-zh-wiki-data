@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dungeon Denizens Revisited pg. 62），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=窒息绞杀
+|english_name=Suffocating Strangulation
+|pfs=否
+|description=你的紧勒攻击会把空气从受害者的肺中挤出，使其无助地喘息。
+|prerequisites=[[通用怪物规则#攫抓|攫抓]]，[[通用怪物规则#紧勒|紧勒]]。
+|benefit=通过一次成功的擒抱检定，你能将天生武器缠绕在对手的喉咙（或其他呼吸器官）上，把他的气息挤压出去。对手无法屏息，必须从每轮他的回合结束时立即开始进行体质检定，DC从10起，每轮增加1。检定失败表示他陷入[[昏迷]]，并处于0点生命值。对手昏迷后，你可以选择对他造成伤害（需要进行擒抱检定），或继续使他窒息（无需检定）；如果你维持锁喉，在你的下个回合，他会降到-1点生命值并陷入[[濒死]]状态。如果你在再下一个回合继续维持锁喉，他会窒息而死。
+
+不需要呼吸的生物不受此能力影响。
+|source_name=再探地城住民
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Suffocating%20Strangulation
+}}

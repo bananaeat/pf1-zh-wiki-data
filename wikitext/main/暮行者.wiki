@@ -9,29 +9,23 @@
 }}
 数据来源：D20PFSRD
 
-Duskwalkers are tall, bipedal, gray-skinned beings that are incarnated from souls that have earned the honor of a second life. The souls that become duskwalkers have often distinguished themselves in the eyes of psychopomps as guardians of the cycle of birth and death. Other than their gray skin, their physical features bear some resemblance to those they held in their previous lives. As such, a typical duskwalker looks mostly human, other than her unusual coloration. However, duskwalkers whose ancestors belonged to other races can manifest with characteristic features such as pointed ears, hairy feet, or even feathers, horns, scales, or tails—though they rarely manifest smaller or larger than Medium.
+{{AI翻译|nocat=1|本段由 AI 照 AoN 英文原文译出，CHM 汉化里没有这段译文，未经人工校对。}}
 
-The first duskwalkers appeared as the result of a bargain between two powerful psychopomps: an olethros mother and a yamaraj. The olethros mother made the case to allow certain souls whose actions helped preserve and protect the cycle of souls, but whose lives had been cut short of what fate had decreed for them to reincarnate once before passing to their final judgment. After a long debate, the yamaraj agreed but imposed a strict limit on the number of duskwalkers that can exist at one time. Whenever this limit has been reached, dead duskwalkers cannot be restored to life. Most duskwalkers accept this limitation and appreciate that the end of their lives opens the door for new lives to begin. Some request that those mourning their deaths also celebrate the birth of a new duskwalker in the near future. The length of time it takes for a new duskwalker to be born when one dies varies, but is rarely more than a year.
+暮行者是高挑的两足灰肤生物，与法莱斯玛的骨园有着联系。他们直接在物质位面显现，由那些赢得了第二次生命之荣耀的灵魂化身而来。成为暮行者的灵魂，往往在渡魂使眼中作为生与死轮回的守护者而声名卓著。除了灰色的皮肤之外，他们的外貌与前世多少有些相似。因此，一名典型的暮行者除了肤色不同寻常之外，看上去大多和人类无异。不过，祖先属于其他种族的暮行者，可能会显现出诸如尖耳朵、多毛的双脚，甚至羽毛、角、鳞片或尾巴之类的特征——尽管他们很少显现得比中型更小或更大。
 
-When a duskwalker is born, she appears spontaneously in a sanctified place with a connection to death, most often a graveyard or a temple. Duskwalkers do not experience infancy, instead beginning their lives with the appearance and facilities of a roughly 8-year-old human child. These mysterious children always appear cloaked in simple white robes, with a small satchel of food and water by their sides.
+最初的暮行者，是两位强大的渡魂使——一位劫运观魂使孕母与一位阎摩判魂使——之间达成的一项交易的产物。劫运观魂使孕母陈述理由，主张应该允许某些灵魂在接受最终审判之前转生一次：这些灵魂的行为帮助维护并保护了灵魂的轮回，但他们的生命却在命运所注定的终点之前被截断。经过一番漫长的辩论，阎摩判魂使同意了，但对同一时间可以存在的暮行者数量施加了严格的限制。一旦达到这个上限，死去的暮行者就无法被复活。大多数暮行者接受这一限制，并且感激自己生命的终结为新生命的开始打开了大门。有些暮行者会请求哀悼自己之死的人，也一同庆祝不久之后新暮行者的诞生。一名暮行者死后，新的暮行者要多久才会诞生并不确定，但很少超过一年。
 
-Duskwalker children mature at a variable rate depending upon the support they receive. A child adopted into a nurturing family or taken into care at a temple matures at a rate similar to that of a human child and develops a healthy balance between her appreciation for life and her interest in death. While duskwalker children almost always appear near settlements, the unusual circumstances of their creation sometimes lead them to be ostracized to the point where they are forced to fend for themselves. Duskwalker children who endure such circumstances reach physical and intellectual maturity rapidly, but they struggle socially and emotionally.
+暮行者诞生时，会自发地出现在与死亡有关联的神圣之地，最常见的是墓地或神殿。暮行者没有婴儿期，而是一开始就拥有大约 8 岁人类孩童的外貌和机能。这些神秘的孩子出现时总是披着朴素的白袍，身旁带着一个装有食物和水的小包。暮行者孩童成熟的速度视他们得到的扶持而定。被一个充满关爱的家庭收养、或被神殿收留照料的孩子，成熟速度与人类孩童相近，并在对生命的珍视与对死亡的兴趣之间培养出健康的平衡。虽然暮行者孩童几乎总是出现在定居点附近，但他们诞生的特殊情形有时会让他们遭到排斥，以至于不得不自谋生路。忍受这种处境的暮行者孩童会迅速达到身体和智力上的成熟，但在社交和情感上会很吃力。
 
-Duskwalker naming conventions are varied. Many duskwalkers prefer to select their own names shortly after they manifest. Duskwalkers who have a good relationship with their surrounding community choose names that follow that community’s traditions. [[Isolate]]d duskwalkers make up their own conventions, naming themselves after their accomplishments or values or even just selecting a string of syllables that sounds nice to them.
+暮行者的取名习惯不一而足。许多暮行者喜欢在显现后不久自己选择名字。与周围社群关系良好的暮行者，会选择遵循该社群传统的名字。与世隔绝的暮行者则会自创惯例，以自己的成就或价值观来为自己命名，甚至只是选一串自己听着顺耳的音节。
 
-Because duskwalkers are so rare, the few duskwalker communities that exist are small and form mostly among individuals united by a common goal, such as adventuring bands of undead-hunters. Many duskwalkers go their entire lives without meeting another member of their race. Instead, they usually live among whichever races are most common near the graveyards in which they manifested. Duskwalkers meet with mixed reactions from human communities. Some people look askance at their ashen appearance and the manner of their creation. Others find the way in which duskwalkers relate to death unsettling.
+自从预言破灭之年开始以来，暮行者的角色发生了一些变化。在那之前，只有注定要担任有利于骨园之事业的角色的灵魂，才会转生为暮行者。然而随着预言陷入混乱，暮行者开始塑造自己的命运。有些暮行者会偶尔受到渡魂使的造访或收到它们的讯息，意图引导他们去做某些事，但他们没有任何义务听从这些指引。尽管如此，由于自身的起源，大多数暮行者天生尊重生与死的轮回。他们倾向于投身那些能够保护这一轮回的职位和职业，例如不死生物猎手、助产士、殡葬师和祭司。
 
-Duskwalkers struggle to understand the fear and hesitance with which most other races speak of death, and even cheerful duskwalkers tend toward dark and morbid senses of humor. However, other communities value or even revere duskwalkers for their wisdom, skill at medicine, and proficiency at fighting undead. Duskwalkers get along particularly well with members of other races that share a planar heritage, such as aasimars, aphorites, ganzis, and tieflings, but they share a mutual distrust with dhampirs.
+由于暮行者极为稀少，仅有的几个暮行者社群规模很小，大多由怀有共同目标的个体组成，例如猎杀不死生物的冒险团。许多暮行者一生都不曾遇见同族的其他成员。他们通常生活在其显现之地的墓地附近最常见的种族之中。暮行者在人类社群中遇到的反应不一。有些人对他们灰白的外表和诞生的方式侧目而视，另一些人则觉得暮行者对待死亡的方式令人不安。暮行者难以理解大多数其他种族谈起死亡时的恐惧与迟疑，就连乐观开朗的暮行者，也往往带有阴暗而病态的幽默感。不过，另有一些社群珍视甚至崇敬暮行者，看重他们的智慧、医术，以及对抗不死生物的精湛技艺。暮行者与同样拥有位面血统的其他种族相处得特别融洽，例如[[神裔]]、[[秩裔]]、[[熵裔]]和[[魔裔]]，但与[[吸血裔]]则彼此不信任。
 
-Despite the prejudices they sometimes face, duskwalkers are typically companionable, open-minded, and accepting of people.
+尽管有时要面对偏见，暮行者通常仍然友善、心胸开阔、乐于接纳他人。他们寻求与许多不同种族之人建立友谊和恋爱关系。许多暮行者会在一生中的某个时候想要组建带孩子的家庭。他们通过收养社群里的孩子来扩大家庭，尤其偏爱那些其他潜在父母可能会忽略的孩子。不过，大多数暮行者对性关系没有兴趣，而且没有任何一名暮行者能够生育或孕育亲生子女。
 
-They seek friendships and romantic relationships with others of many different races. Many duskwalkers seek to build a family with children at some point in their lives.
-
-They grow their families by adopting children from their communities, with a particular preference toward children that other prospective parents may look over. Most have no interest in sexual relationships, though, and no duskwalker is capable of bearing or siring biological children.
-
-Duskwalkers are typically neutral in their alignment, like psychopomps themselves. Those who are not neutrally aligned tend toward good alignments over evil ones.
-
-Members of a growing contingent of evil duskwalkers have been rejecting their inborn nature entirely, throwing in their lot with the sahkils, who delight in such perversion. These duskwalkers can lose the abilities that help them combat undead and gain powers better suited to inflicting fear, but such choices also have a chance of altering their ward against corruption in a particularly unsettling way. Such duskwalkers inevitably find that not only can they become undead, but that their deaths all but guarantee some form of unnatural unlife after death, often coming back as a ghost without such an entity’s classic inability to travel far from the place of its death.
+与渡魂使本身一样，暮行者的阵营通常是中立。不属于中立的暮行者，倾向于善良阵营而非邪恶阵营。法莱斯玛是暮行者中最受欢迎的神祇，但[[塞恩蕾]]和至高天神使[[伊沙-瓦]]也拥有为数可观的追随者。有越来越多的邪恶暮行者，完全摒弃自己与生俱来的本性，投靠以这种堕落为乐的恐亡魔。这些暮行者可能会失去帮助他们对抗不死生物的能力，转而获得更适合制造恐惧的力量，但这样的选择也有可能以一种格外令人不安的方式改变他们的腐化抗性。这样的暮行者不可避免地会发现，他们不仅可能变成不死生物，而且死后几乎必定会以某种形式的不自然的不死状态存在，往往会化为一个没有传统幽魂那种无法远离死亡之地的限制的幽魂。
 
 == 暮行者种族特性 ==
 
@@ -57,41 +51,57 @@ Members of a growing contingent of evil duskwalkers have been rejecting their in
 
 === 技能奖励 ===
 
-暮行者在知识（宗教）和医疗上拥有+2种族加值。
+暮行者在[[知识]]（宗教）和[[医疗]]上拥有+2种族加值。
+
+=== 幽魂猎手（Su） ===
+
+暮行者手中的兵刃能够对鬼魅造成切实的威胁。暮行者的非魔法武器命中[[虚体]]生物时，如同魔法武器一般造成一半伤害；她的魔法武器即使没有[[幽冥(武器附魔)|幽冥]]特性，也可以对虚体生物造成重击和精准伤害。每天一次，以一个[[标准动作]]，暮行者可以将对[[不死生物]]的天生憎恶释放出来，从而使她在1分钟内手上持有的所有武器获得如同幽冥特性的效果。
+
+=== 腐化抗性（Ex） ===
+
+暮行者在对抗负能量与死亡效果的豁免检定中获得+2种族加值，在对抗不死生物与恐亡魔的类法术能力和超自然能力的豁免检定中也获得这一加值。暮行者免疫一切将其肉体或灵魂转变为不死生物的能力。
 
 === 语言 ===
 
 暮行者以通用语和以下语言之一[[开始游戏]]：深渊语、天界语或者炼狱语。
 
-拥有足够智力调整值的暮行者可以从语言中选取额外语言：深渊语，天界语，龙语，[[矮人]]语，[[精灵]]语，[[半身人]]语，炼狱语或者幻蛇语（Protean）。
+拥有足够智力调整值的暮行者可以从语言中选取额外语言：深渊语，天界语，龙语，[[矮人]]语，[[精灵]]语，[[半身人]]语，炼狱语或者幻蛇语。
 
-由劫运观魂使孕母和阎魔判魂使之间古老契约而诞生的暮行者是荣耀的死者，因此灵魂被赠与了一次转生的特权。他们每个人都曾为命运的因果尽出一臂之力，出于责任、慈悲或恐惧而以疾笔或利剑捍卫灵魂的轮回。他们的生命过早地夭折，在命定之死期前戛然而止——如今他们在渡魂使的注视之下再次还生，但却能自由书写自己新的命运。
+由劫运观魂使孕母和阎摩判魂使之间古老契约而诞生的暮行者是荣耀的死者，因此灵魂被赠与了一次转生的特权。他们每个人都曾为命运的因果尽出一臂之力，出于责任、慈悲或恐惧而以疾笔或利剑捍卫灵魂的轮回。他们的生命过早地夭折，在命定之死期前戛然而止——如今他们在渡魂使的注视之下再次还生，但却能自由书写自己新的命运。
 
 == 种族特性替换 ==
 
 === 弃子 ===
 
-有些暮行者孩子被所在的社区回避与忌惮，只得以盗窃和拾荒为生。拥有此[[种族特性]]的暮行者在隐匿和生存检定中获得+2种族加值。
+有些暮行者孩子被所在的社区回避与忌惮，只得以盗窃和拾荒为生。拥有此[[种族特性]]的暮行者在[[隐匿]]和[[生存]]检定中获得+2种族加值。
 
 此特性取代技能奖励。
+
+{{Source|位面旅者手册|Plane-Hopper's Handbook|inline}}
 
 === 养子 ===
 
-有些暮行者孩子幸运地被好心人收养，并在父母、兄妹和宠物的陪伴下茁壮成长。拥有此种族特性的暮行者在交涉和[[驯养动物]]检定中获得+2种族加值。
+有些暮行者孩子幸运地被好心人收养，并在父母、兄妹和宠物的陪伴下茁壮成长。拥有此种族特性的暮行者在[[交涉]]和[[驯养动物]]检定中获得+2种族加值。
 
 此特性取代技能奖励。
 
+{{Source|位面旅者手册|Plane-Hopper's Handbook|inline}}
+
 === 劫运代理者 ===
 
-有些暮行者身上比起同类体现出更多来自其守护者的力量，一位被劫运观魂使祝福的暮行者是万中无一的命运代行者。每天一次，以一个[[自由动作]]，拥有此种族特性的暮行者可以在一次攻击命中后无视相当于10+魅力调整值的DR。
+有些暮行者身上比起同类体现出更多来自其守护者的力量，一位被劫运观魂使祝福的暮行者是万中无一的命运代行者。每天一次，以一个[[自由动作]]，拥有此种族特性的暮行者可以在一次攻击命中后无视相当于10+魅力调整值的[[伤害减免|DR]]。
 
-此特性取代[[腐化]]抗性（ward against corruption）.
+此特性取代腐化抗性。
+
+{{Source|位面旅者手册|Plane-Hopper's Handbook|inline}}
 
 === 阎摩执行官 ===
 
-与强大的阎摩判魂使们紧密联系的暮行者可以洞见那些终末判官的哲思，并将其中皮毛化为己用。拥有此种族特性的暮行者可以在进行交涉和[[唬骗]]时使用感知调整替代魅力调整。
+与强大的阎摩判魂使们紧密联系的暮行者可以洞见那些终末判官的哲思，并将其中皮毛化为己用。拥有此种族特性的暮行者可以在进行[[交涉]]和[[唬骗]]时使用感知调整替代魅力调整。
 
-此特性取代腐化抗性（ward against corruption）.
+此特性取代腐化抗性。
+
+{{Source|位面旅者手册|Plane-Hopper's Handbook|inline}}
 
 == 可选天赋职业奖励 ==
 

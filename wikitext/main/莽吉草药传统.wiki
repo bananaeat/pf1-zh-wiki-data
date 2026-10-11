@@ -1,0 +1,12 @@
+{{Trait
+|name=莽吉草药传统
+|english_name=Mwangi Herbal Tradition
+|type=地区
+|description=你接受了传承自黑暗时代的莽吉传统[[草药学]]的训练，并因此极大地领悟了如何在照料盟友时使用来自自然的要素。
+
+你在长期护理的医疗检定上获得+4背景加值。医疗成为你的本职技能
+|regions=莽吉莽原
+|source=H'sH
+|source_name=治疗者手册
+|source_url=https://pf1chm.pages.dev/topics/page_703.html
+}}

@@ -3,7 +3,7 @@
 |name=塑肉之染
 |english_name=Fleshwarp Exposure
 |type=种族
-|prerequisites=卓尔精灵
+|prerequisites=卓尔
 |description=由于曾接触过塑肉魔法，你的身体对变化系魔法反应强烈。你在对抗变化系法术和效果的豁免检定上获得+1背景加值。你自愿接受的变化系效果，在决定持续时间时，如同以高1级的施法者等级施放一般作用于你。
 |source_name=内海种族
 |source=ISR

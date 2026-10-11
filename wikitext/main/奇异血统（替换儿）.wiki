@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Bastards of Golarion pg. 17），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=奇异血统（替换儿）
+|english_name=Unusual Heritage (Changeling)
+|categories=团队
+|description=你的血统怪异或难以追溯，人们畏惧你那非凡的力量。
+|prerequisites=[[替换儿]]。
+|benefit=你的母亲曾是一个强大的鬼婆战团的成员，当你靠近同族时，这一点就会显现。只要你与至少两名其他替换儿相距30尺以内，你在专注检定和解除检定上获得+2加值。如果其中至少两名替换儿也拥有本专长，这些加值增加到+4。
+|special=这个版本的奇异血统是一项[[团队专长]]。（译注：AoN 原文此处把本专长写成「奇异起源」，疑为笔误。）
+|source=BoG
+|source_name=格拉利昂的混种
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Unusual%20Heritage%20%28Changeling%29
+}}

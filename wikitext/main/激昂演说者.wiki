@@ -3,7 +3,7 @@
 |name=激昂演说者
 |english_name=Inspiring Speaker
 |type=地区
-|prerequisites=伽尔特
+|prerequisites=迦尔特
 |description=你学会了演说的技艺，懂得如何对人群讲话来煽动或平息他们的情绪。对10人或以上的人群讲话时，你的[[唬骗]]和[[交涉]]检定获得+1背景加值。
 |source_name=初探内海
 |source=ISP

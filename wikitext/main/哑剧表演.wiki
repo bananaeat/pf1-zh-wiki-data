@@ -1,0 +1,13 @@
+{{Feat
+|name=哑剧表演
+|english_name=Silent Performer
+|categories=组织
+|pfs=否
+|description=你能无声地使用任何吟游表演能力。
+|prerequisites=[[吟游表演]]职业能力，[[额外表演]]，[[大师表演]]，[[吟游诗人]]等级12级，基萨洛迪安学院15TPA。
+|benefit=你可以把需要听觉成分的吟游表演当作视觉成分的吟游表演使用。以这种方式使用的任何吟游表演能力，消耗的吟游表演轮数为正常的4倍。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=115554.msg1039136#msg1039136 补充翻译几个诗人专长~求挑错、译名意见]，译者：shysifer；按 AoN 核对过。
+|source=FM
+|source_name=组织指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Silent%20Performer
+}}

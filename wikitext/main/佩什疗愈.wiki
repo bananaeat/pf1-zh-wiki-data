@@ -1,0 +1,12 @@
+{{Feat
+|name=佩什疗愈
+|english_name=Pesh Healing
+|pfs=否
+|description=服用佩什能让你感觉更加健康。
+|prerequisites=[[萨希尔·菲恩]]或佩什成瘾。
+|benefit=当你服用一剂佩什时，除其正常的初始效果外，你还获得等同于你总生命骰数的临时生命值，持续1小时。额外剂量的佩什所给予的临时生命值不叠加。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=167121.msg1412739#msg1412739 【BM】四个佩什专长]，译者：LC01；按 AoN 核对过。
+|source=BM
+|source_name=黑市指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Pesh%20Healing
+}}

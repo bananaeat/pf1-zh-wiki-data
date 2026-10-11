@@ -19,7 +19,7 @@
 |defensive=麻痹粘液
 |weaknesses=怕盐
 |speed=10尺，游泳10尺
-|melee=噬咬 +1（1d2–3）
+|melee=啮咬 +1（1d2–3）
 |space=1尺
 |reach=0尺
 |special_attacks=植入
@@ -51,4 +51,4 @@
 虽然它们会缓慢的害死宿主，但那是因为懒而不是残忍。它们只是想占便宜，对自己造成的后果茫然不知。
 }}
 
-本页译自《[[怪物图鉴4]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴4]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=67382.msg625522#msg625522 【B4】懒馋精（alpluachra）]，译者：solariusyang）。

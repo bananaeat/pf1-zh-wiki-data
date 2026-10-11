@@ -1,0 +1,11 @@
+{{Feat
+|name=远程缴械
+|english_name=Ranged Disarm
+|categories=战斗;瞄准
+|description=一次精准的射击卸除了敌人的武器。
+|prerequisites=敏捷13，[[致命瞄准]]，BAB+1
+|benefit=以一个全回合动作，你可以使用远程武器对目标尝试一次受-2罚值的缴械[[战技]]。使用敏捷调整值代替力量调整值来计算该次战技修正，并对战技检定套用距离减值，由射程增量带来的减值会加倍。若目标在30尺外，还会额外承受-2罚值。若[[缴械]]战技检定成功，目标会承受1次伤害，如同你通过武器成功命中目标一样。你不会因为战技失败而掉落自己的武器。
+|source=RTT
+|source_name=远程战术工具箱
+|source_url=https://pf1chm.pages.dev/topics/page_552.html
+}}

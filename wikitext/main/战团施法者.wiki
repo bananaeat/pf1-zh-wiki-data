@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Agents of Evil pg. 24），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=战团施法者
+|english_name=Coven Caster
+|pfs=否
+|description=你继承了母亲那种善于群体协作的天赋。
+|prerequisites=[[替换儿]]。
+|benefit=以一个标准动作，你可以尝试一次特殊的[[协助他人]]动作（1d20 + 你的智力或魅力调整值，二者任选；DC 10）。若成功，你可以使一名相邻施法者的施法者等级+1，持续到你下一回合开始。如果你同时拥有[[战团]]女巫巫术，则可以把这一加值施加给30尺内你战团中的所有成员。
+|source=AoE
+|source_name=邪恶特务
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Coven%20Caster
+}}

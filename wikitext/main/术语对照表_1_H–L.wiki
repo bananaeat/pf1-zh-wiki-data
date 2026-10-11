@@ -43,11 +43,11 @@
 |-
 | Half–Dragon || [[半龙生物|半龙蜥蜴]] || 其他
 |-
-| Half–Fiend || [[半炼狱生物|半恶魔牛头人]] || 其他
+| Half–Fiend || [[半魔族生物|半魔族牛头人]] || 其他
 |-
 | Hallow || [[圣居]] || 法术
 |-
-| Hallowed Chain，Varisian || [[神圣链甲〔瓦瑞西安人〕]] || 物品
+| Hallowed Chain，Varisian || [[神圣链甲〔瓦瑞西亚人〕]] || 物品
 |-
 | Hallucinatory Decor || [[幻影装饰]] || 法术
 |-
@@ -725,7 +725,7 @@
 |-
 | Hollywreath Band || [[冬青花环头环]] || 物品
 |-
-| Holy Aura || [[圣洁灵光]] || 法术
+| Holy Aura || [[圣洁灵氲]] || 法术
 |-
 | Holy Avenger || [[神圣复仇者]] || 物品
 |-
@@ -1001,7 +1001,7 @@
 |-
 | Hunter's Lore || [[猎手学识]] || 法术
 |-
-| Hunter's Mambele，Mwangi || [[猛布莱猎刃〔芒吉人〕]] || 物品
+| Hunter's Mambele，Mwangi || [[猛布莱猎刃〔莽吉人〕]] || 物品
 |-
 | Hunter's sight || [[猎手远视镜]] || 物品
 |-
@@ -1183,7 +1183,7 @@
 |-
 | Imbue with addiction || [[瘾入骨髓]] || 法术
 |-
-| Imbue with Aura || [[灵光灌注]] || 法术
+| Imbue with Aura || [[灵氲灌注]] || 法术
 |-
 | Imbue with Elemental Might || [[元素力量灌输]] || 法术
 |-
@@ -1305,7 +1305,7 @@
 |-
 | Improved Dirty Trick || [[精通阴招 (神话)|精通阴招]] || 其他
 |-
-| Improved Disarm || [[精通卸武 (神话)|精通卸武]] || 其他
+| Improved Disarm || [[精通缴械 (神话)|精通缴械]] || 其他
 |-
 | Improved Drag || [[精通拖拽 (神话)|精通拖拽]] || 其他
 |-
@@ -1327,7 +1327,7 @@
 |-
 | Improved Fiendish Darkness || [[精通炼狱黑暗]] || 专长
 |-
-| Improved Fiendish Sorcery || [[精通炼狱魔力]] || 专长
+| Improved Fiendish Sorcery || [[精通魔族魔力]] || 专长
 |-
 | Improved Flexible Wizardry || [[精通灵活魔术]] || 专长
 |-
@@ -3045,7 +3045,7 @@
 |-
 | Lost locale || [[迷失方位]] || 法术
 |-
-| Lost Nobility || [[失落者]] || 背景特性
+| Lost Nobility || [[没落贵族]] || 背景特性
 |-
 | Lost Origins || [[无本之木]] || 背景特性
 |-

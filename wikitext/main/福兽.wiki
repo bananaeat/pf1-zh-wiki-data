@@ -20,7 +20,7 @@
 |dr=5/钝击
 |immune=毒素;疾病;麻痹;睡眠
 |speed=40 尺
-|melee=噬咬 +8（1d8 +6 附带攫取），2 爪抓 +8（1d4 +6）
+|melee=啮咬 +8（1d8 +6 附带攫取），2 爪抓 +8（1d4 +6）
 |space=10 尺
 |reach=5 尺
 |special_attacks=[[通用怪物规则#猛扑|猛扑]]，撕裂（2 爪抓 +8，1d4 +6）
@@ -155,4 +155,4 @@
 
 {{条目页脚|速查=怪物速查|分类=怪物|附加=[[:分类:异界生物|异界生物]]}}
 
-本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=58415.msg540763#msg540763 【B3】福兽（Foo creature）]，译者：solariusyang）。

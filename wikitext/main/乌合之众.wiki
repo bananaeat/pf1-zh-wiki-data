@@ -2,7 +2,7 @@
 |name=乌合之众
 |english_name=Rabble Rebel
 |type=地区
-|prerequisites=[[半身人]]，伽尔特
+|prerequisites=[[半身人]]，迦尔特
 |description=你花在愤怒的暴徒之间的时间，教会了你如何利用人海战术来分散你的敌人的注意。当你和至少3个盟友同时威胁一个敌人时，你对他做[[虚招]]的[[唬骗]]检定和对他做巧手检定都有+2加值。
 |source_name=地区背景
 |source=HoG

@@ -50,4 +50,4 @@
 <div class="monster-table-wrap"><table class="wikitable"><tr><th>D10</th><th>效果</th></tr><tr><td>1–3</td><td>法术哑火。在之后的 1d4 轮中，施法者每次施法必须进行 DC 15 的专注检定，检定通过才可成功施法。</td></tr><tr><td>4–6</td><td>法术走火。最靠近连枷蜗牛的生物受法术作用，如同法术原本就施向该生物。</td></tr><tr><td>7–9</td><td>法术失败。无事发生。</td></tr><tr><td>10</td><td>法术回弹向施法者（如同法术反转）。</td></tr></table></div>
 }}
 
-本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=95882.msg887981#msg887981 【B3】连枷蜗牛（Flail Snail）]，译者：sovspring）。

@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Martial Arts Handbook pg. 26），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=致残突刺
+|english_name=Crippling Thrust
+|categories=战斗
+|description=一记精准的刺击，便足以妨碍对手的行动。
+|prerequisites=[[武器专攻]]（穿刺武器），基本攻击加值+6。
+|benefit=以一个[[标准动作]]，用你所选的武器进行一次单次攻击。如果攻击命中，目标的移动速度减半，持续到你下一回合开始。当你的基本攻击加值达到+11时，目标的移动受到严重妨碍，就连[[5尺快步]]也会引发借机攻击。当你的基本攻击加值达到+16时，目标还必须通过一次DC等于10+你的基本攻击加值的反射豁免，否则陷入[[纠缠]]状态。被纠缠的生物的移动只会被减半一次。你每分钟只能使用一次此专长的好处。
+|source=MAH
+|source_name=武术手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Crippling%20Thrust
+}}

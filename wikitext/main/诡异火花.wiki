@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Wilderness Origins pg. 22），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=诡异火花
+|english_name=Spark of the Uncanny
+|description=所有魔宠都不只是表面看上去的样子，但你的魔宠披着自己的皮囊，就像穿着一件不合身的外套。
+|prerequisites=魔宠职业特性。
+|benefit=你的魔宠能说一种你所掌握的语言。
+|special=5级时，你的魔宠现出真身；你可以将本专长替换为[[进阶魔宠]]。
+|source=WO
+|source_name=荒野源始
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Spark%20of%20the%20Uncanny
+}}

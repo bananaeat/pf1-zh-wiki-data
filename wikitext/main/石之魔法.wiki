@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Giants Revisited pg. 49, Pathfinder #4: Fortress of the Stone Giants pg. 57），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=石之魔法
+|english_name=Stone Magic
+|pfs=否
+|description=即便在石巨人长者中你也属博学之辈，你解锁了对土与石更高的掌控。
+|prerequisites=魅力17，石巨人长者（年龄700岁或以上）。
+|benefit=除石巨人长者通常拥有的[[类法术能力]]外，你获得每天各一次使用[[穿墙术]]、[[刺石术]]、[[雕像术]]、[[石肤术]]和[[石墙术]]的类法术能力（施法者等级10级，豁免DC基于魅力）。
+|source_name=巨人再临
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Stone%20Magic
+}}

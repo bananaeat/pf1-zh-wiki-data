@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（People of the Sands pg. 7），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=奥西里昂学
+|english_name=Osirionology
+|pfs=否
+|description=你对奥西里昂兴趣广泛，并且在某个专门领域里堪称权威。
+|prerequisites=[[知识]]（历史）1级，知识（本地）1级，必须能说奥西里昂语和古奥西里昂语。
+|benefit=选择一项以智力为关键属性的技能。在涉及奥西里昂或其人民的情形下，你使用该技能进行的所有检定获得+3加值。此外，在涉及奥西里昂或其人民的情形下，你进行的所有其他以智力为关键属性的技能检定获得+1加值。
+|source_name=沙之子民
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Osirionology
+}}

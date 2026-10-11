@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 56），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=神圣欺诈
+|english_name=Divine Deception
+|pfs=否
+|description=你擅长操弄神圣魔法物品。
+|prerequisites=[[知识]]（宗教）5级，[[使用魔法装置]]5级。
+|benefit=你在使用魔法装置检定上获得+5加值，用于使用神圣法术触发型或法术完成型物品，或模仿神圣职业能力。
+|source=FM
+|source_name=组织指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Divine%20Deception
+}}

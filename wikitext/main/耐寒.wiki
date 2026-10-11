@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder Campaign Setting pg. 94），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=耐寒
+|english_name=Rugged
+|pfs=否
+|description=你在寒冷的气候中过着艰苦的游牧生活，并由此获得了一些好处。
+|prerequisites=[[坚忍]]，猛犸象领主追随者的一员。
+|benefit=对于造成寒冷伤害的魔法效果与自然效果，你的豁免检定获得+2加值。此外，你在冰面上移动不会受到移动惩罚。
+|source_name=探索者编年史：战役设定
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Rugged
+}}

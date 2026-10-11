@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Antihero's Handbook pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=指定对头
+|english_name=Designated Antagonist
+|categories=团队
+|pfs=否
+|description=当你激怒敌人时，可以把他们的敌意转移到你的盟友身上。
+|prerequisites=[[嘲讽]]。
+|benefit=当你使用嘲讽的技能检定成功时，你可以让目标生物把精力集中到一名同样拥有此专长、自愿的盟友身上，如同使用该能力的是那名盟友一样。
+|source=A'sH
+|source_name=反英雄手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Designated%20Antagonist
+}}

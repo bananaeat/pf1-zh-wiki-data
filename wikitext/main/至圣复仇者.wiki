@@ -7,7 +7,7 @@
 |price=4800gp
 |weight=4磅
 |slot=无位置
-|requirements=[[制造魔法武器和防具]]，（圣洁灵光），制造者必须为善良阵营
+|requirements=[[制造魔法武器和防具]]，（圣洁灵氲），制造者必须为善良阵营
 |cost=64500gp
 |description=这把精制品寒铁长剑在圣武士的手中会变为+1[[寒铁]][[长剑]]（+1 cold iron longsword）。
 

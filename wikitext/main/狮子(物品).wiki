@@ -3,6 +3,7 @@
 {{装备
 |name=狮子
 |english_name=Lion
+|aon=EquipmentMiscDisplay.aspx?ItemName=Lion%20(common)
 |cat=坐骑与宠物
 |price=300 gp（战斗训练）；200 gp（普通）
 |weight=—

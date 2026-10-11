@@ -1,6 +1,7 @@
 {{物品
 |name=破损的土红色艾恩石
 |english_name=Dusty Rose Prism (Cracked) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Dusty%20Rose%20Prism
 |category=艾恩石
 |aura=强烈各种
 |cl=12

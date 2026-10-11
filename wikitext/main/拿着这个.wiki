@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Antihero's Handbook pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=拿着这个
+|english_name=Take This
+|categories=团队
+|description=你能迅速从无法行动的同伴身上取出物品。
+|benefit=如果你与一名同样拥有本专长但无法行动的盟友相邻，你可以用一个迅捷动作从其身上取出其手持或公开携带的物品，且不引发借机攻击。
+|normal=取出收纳的物品或拾起掉落的物品是一个移动动作，会引发借机攻击。
+|special=这是“无法行动的盟友不计入团队专长”这一规则的例外。
+|source=A'sH
+|source_name=反英雄手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Take%20This
+}}

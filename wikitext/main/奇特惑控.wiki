@@ -1,0 +1,14 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder Unchained pg. 154），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=奇特惑控
+|english_name=Esoteric Enchantment
+|categories=奇特
+|pfs=否
+|description=翠盐与惑控法术恰当结合时，会使目标的心智错乱。
+|benefit=当你以翠盐作为奇特施法材料施放惑控系法术时，受你法术影响的一个目标在1轮内，在你所选择的属性检定、攻击检定、伤害检定、豁免检定或技能检定上承受-2减值。如果你的法术允许豁免检定，而目标豁免成功，则不承受此减值。一个生物同一时间只会受到一项来自本专长的减值。这是影响心智效果。
+
+当你对惑控系法术获得翠盐的高等材料效果时，DC再增加1。
+|source=PU
+|source_name=解放者
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Esoteric%20Enchantment
+}}

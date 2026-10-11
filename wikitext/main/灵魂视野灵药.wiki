@@ -1,6 +1,7 @@
 {{物品
 |name=灵魂视野灵药
 |english_name=Wraith's Sight
+|aon=MagicWondrousDisplay.aspx?FinalName=Wraith's%20Sight%20Elixir
 |category=魔法物品
 |aura=中等死灵系
 |cl=9级

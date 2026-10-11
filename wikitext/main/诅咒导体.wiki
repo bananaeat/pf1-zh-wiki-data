@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Coven pg. 20），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=诅咒导体
+|english_name=Cursed Conduit
+|description=你体内的某种东西能抚平受腐化魔法物品中残留的恶意。
+|benefit=只要你的角色等级等于或高于诅咒物品的施法者等级，你就不会被迫保留或使用你接触到的诅咒物品。你仍会受到你携带或使用的任何诅咒物品所带来的苦难影响，但你在对抗诅咒效果的豁免检定上获得加值，数值等于你所携带的最高等级诅咒物品的施法者等级的三分之一。
+|source=BotC
+|source_name=巫团血脉
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Cursed%20Conduit
+}}

@@ -18,7 +18,7 @@
 |dr=2/—
 |immune=不死特性
 |speed=20 尺，游泳 30 尺；冲刺
-|melee=啮咬 +5（1d8+4 外加攫抓），尾击 +0（1d12+2）
+|melee=啮咬 +5（1d8+4 外加攫抓），尾扫 +0（1d12+2）
 |space=10 尺
 |reach=5 尺
 |special_attacks=死亡翻滚，仆从诅咒（DC 13）

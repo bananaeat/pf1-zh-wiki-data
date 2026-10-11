@@ -1,6 +1,7 @@
 {{物品
 |name=破损的猩红混蓝艾恩石
 |english_name=Scarlet and Blue Sphere (Cracked) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Scarlet%20and%20Blue%20Sphere
 |category=艾恩石
 |aura=强烈各种
 |cl=12

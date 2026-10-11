@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Antihero's Handbook pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=法术诈败
+|english_name=Spell Bluff (AH)
+|categories=团队
+|description=当你的盟友身处有害法术的作用区域内时，你的敌人会被打个措手不及。
+|benefit=当同样拥有本专长的盟友对一个会以包含她在内的作用区域伤害她的法术豁免失败（包括自愿豁免失败）时，处于该法术作用区域内、有智慧的敌人在对抗该法术效果的豁免检定上承受-2减值。
+|source=A'sH
+|source_name=反英雄手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Bluff%20%28AH%29
+}}

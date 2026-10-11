@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 82），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=鲜血盛宴
+|english_name=Blood Feast
+|categories=战斗
+|pfs=否
+|description=当你尝到活物的血肉与鲜血时，你会变得更有攻击性、更加凶残。
+|prerequisites=啮咬攻击。
+|benefit=当你用啮咬攻击伤害一个活物时，你的啮咬攻击掷骰和伤害掷骰获得+1士气加值，持续到你下个回合结束。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Blood%20Feast
+}}

@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 56），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=死亡追求者
+|english_name=Death's Suitor
+|categories=组织
+|pfs=否
+|description=你死而复生得如此频繁，连[[法莱斯玛]]也认为这是你命运的一部分。
+|prerequisites=重生卫20TPA。
+|benefit=每天一次，如果豁免检定或技能检定的失败有可能致你于死地（无论是因生命值伤害、属性伤害还是某种即时效应），你可以重掷该检定。你必须在结果揭晓之前决定使用此能力。你必须接受第二次掷骰的结果，即使它更差。
+|source=FM
+|source_name=组织指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Death%27s%20Suitor
+}}

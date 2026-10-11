@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Blood of the Coven pg. 20），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=罪孽共享重击
+|english_name=Sin-Sharing Critical
+|categories=战斗;重击
+|description=你满怀憎恨的专注有时会在战斗中把你自身的厄运传给他人。
+|prerequisites=[[重击专攻]]，基本攻击加值+13。
+|benefit=每当你对一名对手确认重击时，你可以选择当前正影响着你的一个诅咒效果，使其同样作用于该目标。目标可以通过一次成功的意志豁免（DC=10+你的基本攻击加值）来抵消这一魔法效果。如果你当前受到多个诅咒影响，由你选择哪一个作用于目标。这个转移出去的诅咒对目标的作用与对你的作用完全相同，只是其持续时间为1d4分钟或你身上该诅咒的剩余持续时间，取较短者。如果目标通过了意志豁免，或你并未受到任何诅咒效果影响，则目标改为在其下一次属性检定、攻击检定、豁免检定或技能检定时掷骰两次，并取较差的结果。这是一个诅咒效果。
+|special=在没有掌握[[重击熟稔]]专长前，每次重击时你只能选择一种重击专长效果。
+|source=BotC
+|source_name=巫团血脉
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Sin-Sharing%20Critical
+}}

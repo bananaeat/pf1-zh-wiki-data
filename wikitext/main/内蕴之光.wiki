@@ -1,0 +1,10 @@
+{{Feat
+|name=内蕴之光
+|english_name=Inner Light (UW)
+|description=一些蒿兰人散发出有滋养之力的内在之光。
+|prerequisites=感知13，[[蒿兰人]]。
+|benefit=每日一次，你可以以类法术能力施放[[昼明术]]，施法者等级等同于你的角色等级。如果你具有日光依赖种族特性，你可以施放这个法术但不产生通常的法术效果，取而代之，你视为当日已暴露在阳光下。
+|source=UW
+|source_name=极限荒野
+|source_url=https://pf1chm.pages.dev/topics/page_815.html
+}}

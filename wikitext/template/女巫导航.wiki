@@ -1,1 +1,1 @@
-<div class="class-nav"><span class="pill">[[女巫]]</span><span class="pill">[[女巫#变体职业 (Archetypes)|变体职业]]</span><span class="pill">[[巫术]]</span><span class="pill">[[庇护主]]</span><span class="pill">[[女巫魔宠]]</span></div>
+<div class="class-nav"><span class="pill">[[女巫]]</span><span class="pill">[[女巫#变体职业 (Archetypes)|变体职业]]</span><span class="pill">[[巫术]]</span><span class="pill">[[庇护主]]</span><span class="pill">[[女巫魔宠]]</span><span class="pill">[[魔宠速查]]</span></div>

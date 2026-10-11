@@ -1,0 +1,14 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder Unchained pg. 154），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=奇特咒法
+|english_name=Esoteric Conjuration
+|categories=奇特
+|pfs=否
+|description=棱砂折射了你咒法魔法中的空间能量，造成一种魔法扭曲。
+|benefit=当你以棱砂作为奇特施法材料施放咒法系法术时，选择一个被你的法术召唤、召来或自另一位面移来的生物。在1轮内，该生物尚未完全相位进入当前位面，对其发动的所有攻击都有20%的失手率（无需攻击检定的攻击改为少造成20%的伤害）。
+
+当你对咒法系法术获得棱砂的高等材料效果时，在决定距离上，你的施法者等级再视为高2级。无论你在高等材料效果中选择的是增加距离还是增加区域，这一点都会生效。本专长不能让你进一步增大区域的大小。
+|source=PU
+|source_name=解放者
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Esoteric%20Conjuration
+}}

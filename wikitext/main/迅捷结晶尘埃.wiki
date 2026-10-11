@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Plane-Hopper's Handbook pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=迅捷结晶尘埃
+|english_name=Swift Crystalline Dust
+|description=你能更迅速地显现结晶尘埃。
+|prerequisites=[[秩裔]]，结晶尘埃种族特性。
+|benefit=你可以用迅捷动作而不是移动动作激活你的结晶尘埃能力。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Swift%20Crystalline%20Dust
+}}

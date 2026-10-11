@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Planar Adventures pg. 30），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=弱重力适应
+|english_name=Light Gravity Acclimation
+|description=一个领域的弱重力让你发挥出全部潜能。
+|prerequisites=敏捷13，[[特技]]3级。
+|benefit=你身处弱重力位面时，陆地速度提高10尺，且其他生物不会因弱重力而对你的攻击检定获得环境加值。经GM裁量，这些效果也可以适用于物质位面上的某些环境，例如低重力的行星。此外，你在特技检定上获得+2加值；若你的特技等级达到10级或以上，该加值提高为+4。该加值不与[[特技专家]]专长所提供的加值叠加。
+|source=PA
+|source_name=位面冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Light%20Gravity%20Acclimation
+}}

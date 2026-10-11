@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 89），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=死寂凝视
+|english_name=Lifeless Gaze
+|description=你冰冷的面容和毫无感情的双眼，会使与你目光相接者心生恐惧。
+|prerequisites=[[钢铁意志]]，[[唬骗]]5级。
+|benefit=你那令人毛骨悚然的凝视，赋予你对自身内心更阴暗之处的骇人洞察。你在对抗情绪效果的意志豁免检定上获得+2洞察加值，并在唬骗检定上获得+2洞察加值。此外，如果有类人生物试图用[[侦测思想]]之类的能力读取你的心灵，无论读心尝试是否成功，它都会陷入战栗状态，持续2d4轮。如果有类人生物对你进行的[[交涉]]检定失败5点或更多，它会因你毫无感情的凝视而陷入战栗状态，持续2d4轮。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Lifeless%20Gaze
+}}

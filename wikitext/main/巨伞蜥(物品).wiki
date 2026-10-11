@@ -3,6 +3,7 @@
 {{装备
 |name=巨伞蜥
 |english_name=Giant frilled lizard
+|aon=EquipmentMiscDisplay.aspx?ItemName=Giant%20frilled%20lizard%20(common)
 |cat=坐骑与宠物
 |price=550 gp（战斗训练）；375 gp（普通）
 |weight=—

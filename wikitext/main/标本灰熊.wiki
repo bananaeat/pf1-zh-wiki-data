@@ -43,6 +43,6 @@
 如果无人指示，标本生物会呆立原地，不需要饮食和睡眠。除非给它一个明确的命令，否则标本生物的行动是不可预料的。由于制造的方法和材料十分独特，每个标本生物的行动方式都不太一样。有的像一个潜行的动物一样活动，有的像一个呆板的活化物品一样。有些标本师甚至可以制造标本形态的类人生物，异怪，和精类。
 }}
 
-本页译自《[[怪物图鉴5]]》的怪物图鉴 CHM，数值按 AoN 核过；同一属性块也见于[[标本生物]]（模板页）。
+本页译自《[[怪物图鉴5]]》的怪物图鉴 CHM，数值按 AoN 核过；同一属性块也见于[[标本生物]]（模板页）（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=82916.msg780485#msg780485 【B5】标本生物（Taxidermic Creature）]，译者：Garrise）。
 
 {{AoN原文|1=MonsterDisplay.aspx?ItemName=Taxidermic Grizzly Bear|2=Taxidermic Grizzly Bear}}

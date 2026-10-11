@@ -1,0 +1,12 @@
+{{Feat
+|name=火焰试炼的幸存者
+|english_name=Flame-Tested Survivor
+|categories=伟业
+|pfs=否
+|description=你曾在最炽烈的火焰中灼烧，你的肉体就是证明——火焰如今已很难再令你恐惧。
+|prerequisites=至少10次被火焰伤害打至[[昏迷]]或杀死。
+|benefit=你与火焰的过往引起了一位来自水元素位面的强大而神秘的守护灵的注意。这位守护灵赐予你火抗性5，并且你在抵抗火焰效果的所有豁免检定上获得+2加值。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=51645.msg474522#msg474522 [LFPG][ASL]偉業專長[翻譯完成]]，译者：PATIBAUL；按 AoN 核对过。
+|source_name=烈焰传承玩家手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Flame-Tested%20Survivor
+}}

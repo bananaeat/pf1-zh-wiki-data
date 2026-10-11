@@ -41,15 +41,14 @@
 
 == 怪物部属（Monster Cohorts） ==
 
-“领导力（Leadership）”专长允许角色获得一位忠诚的部属。在GM允可下，这位部属可以是一位类似阵营的怪物，而非具有一定职业等级的类人生物。下表中的怪物与部属一样运作（它们可以作为[[刺客]]、保镖、坐骑……等等）。它们的有效部属“等级”对应于玩家角色的领导力值。怪物部属如同相应等级的部属角色般获得经验，当经验值足以升级时，它应获得一个关键职业等级（大多数时候战士是最恰当选择）。你可以参考下表列出的数据，来判定不在下表中的怪物的有效部属等级。
+“领导力（Leadership）”专长允许角色获得一位忠诚的部属。在GM允可下，这位部属可以是一位类似阵营的怪物，而非具有一定职业等级的类人生物。下表中的怪物都很适合作为部属（它们可以作为[[刺客]]、保镖、坐骑……等等）。它们的有效部属“等级”对应于玩家角色的领导力值所能招募的部属等级。怪物部属如同相应等级的部属角色般获得经验，当经验值足以升级时，它通常应获得一个关键职业等级（大多数时候战士是最恰当选择）。你可以参考下表列出的数据，来判定不在下表中的怪物的有效部属等级。
 
 {| class="wikitable"
 |-
-|  || ———————————————— 怪物部属————————————————獒首圣使（Archon, Hound）[[闪现犬]][[麒麟(怪物)|麒麟]][[舍度]]鹏羽天使（Agathion, Avoral）狮首神使（Agathion, Leonal）[[龙马]]巨鹰（Eagle, Giant）[[皮克精]]巴拉尼天使（Azata, Bralani）[[迦楼罗]][[飞马]][[独角兽(怪物)|独角兽]][[奇匠族]][[火矮人]]巨枭（Owl, Giant）[[变形蛛]][[飞猿]][[龙狮]]石巨人（Giant, Stone）[[狮鹫]][[狮足鹰人]][[涅法雷姆]][[大脚野人]][[无拘影民]][[八足驹]][[双足飞龙]]巨秃鹫（Vulture, Giant）[[狼妖]][[萨特羊人]][[狸猫人]]怒魔（Devil, Erinyes）[[地狱犬]]蝎尾狮（Manticore）[[水猴]][[食人猿]][[红帽子]]蝠翼人（Sabosan）[[骷髅勇士]]幽影獒犬（Shadow Mastiff）[[座狼]]巴布魔（Demon, Babau）[[蛛化精灵]][[双头巨人]][[食尸鬼]][[嚎兽]]吸血狼（leucrotta）少年龙（Young dragon）———————————————— || —————— 阵营——————秩序善良秩序善良秩序善良秩序善良中立善良中立善良中立善良中立善良中立善良混乱善良混乱善良混乱善良混乱善良秩序中立秩序中立秩序中立绝对中立绝对中立绝对中立绝对中立绝对中立绝对中立绝对中立绝对中立绝对中立绝对中立绝对中立绝对中立混乱中立混乱中立混乱中立秩序邪恶秩序邪恶秩序邪恶中立邪恶中立邪恶中立邪恶中立邪恶中立邪恶中立邪恶中立邪恶混乱邪恶混乱邪恶混乱邪恶混乱邪恶混乱邪恶混乱邪恶-—————— || —————— 等级—————— 7级 4级 13级 14级 15级 17级 16级 6级 8级 11级 16级 6级 8级 14级 5级 8级 8级 10级 10级 18级 8级 11级 13级 6级 7级 16级 10级 7级 14级 7级 8级 16级 7级 9级 11级 6级 10级 9级 6级 8级 5级 11级 11级 15级 5级 7级 9级 特殊* —————— || —————— 出处——————Bestiary 1Bestiary 2Bestiary 3Bestiary 3Bestiary 2Bestiary 2Bestiary 2Bestiary 1Bestiary 1Bestiary 1Bestiary 3Bestiary 1Bestiary 1Bestiary 2Bestiary 2Bestiary 3Bestiary 2Bestiary 3Bestiary 3Bestiary 1Bestiary 1Bestiary 3Bestiary 3Bestiary 3Bestiary 3Bestiary 3Bestiary 1Bestiary 3Bestiary 3Bestiary 1Bestiary 3Bestiary 1Bestiary 1Bestiary 1Bestiary 3Bestiary 3Bestiary 2Bestiary 3Bestiary 1Bestiary 3Bestiary 1Bestiary 1Bestiary 1Bestiary 1Bestiary 1Bestiary 2Bestiary 2Bestiary 123——————
+|  || ———————————————— 怪物部属————————————————獒首圣使（Archon, Hound）[[闪现犬]][[麒麟(怪物)|麒麟]][[舍度]]鹏羽天使（Agathion, Avoral）狮首神使（Agathion, Leonal）[[龙马]]巨鹰（Eagle, Giant）[[皮克精]]巴拉尼天使（Azata, Bralani）[[迦楼罗]][[飞马]][[独角兽(怪物)|独角兽]][[奇匠族]][[火矮人]]巨枭（Owl, Giant）[[变形蛛]][[飞猿]][[龙狮]]石巨人（Giant, Stone）[[狮鹫]][[狮足鹰人]][[涅法雷姆]][[大脚野人]][[无拘影民]][[八足驹]][[双足飞龙]]巨秃鹫（Vulture, Giant）[[狼妖]][[萨特羊人]][[狸猫人]]怒魔（Devil, Erinyes）[[地狱犬]]蝎尾狮（Manticore）[[水猴]][[食人猿]][[红帽子]]蝠翼人（Sabosan）[[骷髅勇士]]幽影獒犬（Shadow Mastiff）[[座狼]]暴怖魔（Demon, Babau）[[蛛化精灵]][[双头巨人]][[食尸鬼]][[嚎兽]]吸血狼（leucrotta）少年龙（Young dragon）———————————————— || —————— 阵营——————秩序善良秩序善良秩序善良秩序善良中立善良中立善良中立善良中立善良中立善良混乱善良混乱善良混乱善良混乱善良秩序中立秩序中立秩序中立绝对中立绝对中立绝对中立绝对中立绝对中立绝对中立绝对中立绝对中立绝对中立绝对中立绝对中立绝对中立混乱中立混乱中立混乱中立秩序邪恶秩序邪恶秩序邪恶中立邪恶中立邪恶中立邪恶中立邪恶中立邪恶中立邪恶中立邪恶混乱邪恶混乱邪恶混乱邪恶混乱邪恶混乱邪恶混乱邪恶-—————— || —————— 等级—————— 7级 4级 13级 14级 15级 17级 16级 6级 8级 11级 16级 6级 8级 14级 5级 8级 8级 10级 10级 18级 8级 11级 13级 6级 7级 16级 10级 7级 14级 7级 8级 16级 7级 9级 11级 6级 10级 9级 6级 8级 5级 11级 11级 15级 5级 7级 9级 特殊* —————— || —————— 出处——————Bestiary 1Bestiary 2Bestiary 3Bestiary 3Bestiary 2Bestiary 2Bestiary 2Bestiary 1Bestiary 1Bestiary 1Bestiary 3Bestiary 1Bestiary 1Bestiary 2Bestiary 2Bestiary 3Bestiary 2Bestiary 3Bestiary 3Bestiary 1Bestiary 1Bestiary 3Bestiary 3Bestiary 3Bestiary 3Bestiary 3Bestiary 1Bestiary 3Bestiary 3Bestiary 1Bestiary 3Bestiary 1Bestiary 1Bestiary 1Bestiary 3Bestiary 3Bestiary 2Bestiary 3Bestiary 1Bestiary 3Bestiary 1Bestiary 1Bestiary 1Bestiary 1Bestiary 1Bestiary 2Bestiary 2Bestiary 123——————
 |}
 
-* 少年龙的有效部属等级为“CR+8”。龙族部属不会如一般的龙般增长年纪，
-* 但能获得职业等级（通常为战士或术士）。
+* 少年龙的有效部属等级为“CR+8”。龙族部属不会如一般的龙般增长年纪，但能获得职业等级（通常为战士或术士）。
 
 == 《极限诡道》：领导力 ==
 
@@ -115,6 +114,6 @@
 {{AI翻译|nocat=1|本节由 AI 照 AoN 英文译出，未经人工校对。}}
 
 
-本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_950.html 原文]）。专长条目见 [[专长速查]]。
+本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_950.html 原文]）。专长条目见 [[专长速查]]。本页部分文字照纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=109562.msg1459616#msg1459616 【B1】《怪物图鉴》汇总帖]校订（原译者：Falengel；沉沦校对润饰）。
 
 [[分类:专长规则]]

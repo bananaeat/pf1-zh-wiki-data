@@ -1,0 +1,14 @@
+{{Feat
+|name=盾牌钩夺
+|english_name=Shield Snag
+|categories=战斗
+|description=你知道如何让你的盾牌绕过武器，并且可以用它保持平衡。
+|prerequisites=[[精通盾击]]，[[擅长盾牌]]，[[双武器格斗]]，基本攻击加值+6。
+|benefit=任何被你的盾击命中的对手，还会成为一次免费缴械尝试的目标，以你的攻击检定取代战技检定。这次缴械尝试不会引发借机攻击。你不能在同一轮内将此能力与用[[盾牌猛冲]]进行的冲撞一起使用，也不能与任何影响你盾击运作方式的其他能力一起使用。
+
+使用盾牌时，你在为避免被强风吹走而进行的力量检定上获得+4加值，并在坠落时为在墙壁或斜坡上稳住自己而进行的攀爬检定上获得+4加值。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=169421.msg1427699#msg1427699 【MM】魔法市集指南资源翻译]，译者：LC01；按 AoN 核对过。
+|source=MM
+|source_name=魔法市集指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Shield%20Snag
+}}

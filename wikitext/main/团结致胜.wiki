@@ -1,0 +1,14 @@
+{{Feat
+|name=团结致胜
+|english_name=Victory Through Unity
+|categories=故事
+|pfs=否
+|description=你已将家族的基因实验手段用在了自己的魔宠身上。
+|prerequisites=你必须拥有一只魔宠，并且必须是梅罗赛特家族的一员，或拥有“魔女之家”或“传奇世家”角色背景。
+|benefit=获得此专长时，选择一项由[[猎人]]的动物之力职业能力所提供的动物面相，并施加于你的魔宠。你在此能力上的猎人等级视为1级，且一旦选定便不能更改。如果你的魔宠死亡，它会失去该面相；若你获得新的魔宠，可以重新选择面相。你的魔宠的外形会出现与其面相相称的细微改变。
+|goal=你必须培育出一种新的魔法生物。
+|completion_benefit=你可以再选择并施加第二种动物面相，或者施加一项召唤师的幻灵可用的1点进化。魔宠必须符合该进化的所有限制（例如要充当坐骑，体型须比骑乘者大一个体型级别）。一旦选定，该决定便不能更改，但如果魔宠死亡，它会失去这些能力，你若获得新的魔宠则可以重新选择。如果你的魔宠与其原本的物种繁衍后代，这些额外能力就有可能作为永久特质遗传下去。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=167723.msg1416950#msg1416950 【#131】皇冠战争的8个故事专长及塔尔多八大贵族家族背景介绍]，译者：Kochchchch；按 AoN 核对过。
+|source_name=冒险之路131：死神的右手
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Victory%20Through%20Unity
+}}

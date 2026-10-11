@@ -3,6 +3,7 @@
 {{装备
 |name=野猪
 |english_name=Boar
+|aon=EquipmentMiscDisplay.aspx?ItemName=Boar%20(common)
 |cat=坐骑与宠物
 |price=150 gp（战斗训练）；100 gp（普通）
 |weight=—

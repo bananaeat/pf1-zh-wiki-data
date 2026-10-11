@@ -1,5 +1,6 @@
 {{物品
 |name=闪光墨水
+|english_name=Glowing ink
 |category=炼金物品
 |price=5GP
 |weight=—

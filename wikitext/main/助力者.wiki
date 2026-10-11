@@ -3,7 +3,7 @@
 |english_name=Supportive
 |type=社会
 |description=你被迫在孤立环境中求生，或是被恐惧猜忌你的社群包围，或是身处远离人烟的边陲——因而练就了协助同伴的娴熟技巧。你在进行协助他人行动的技能检定上获得+1背景加值。
-建议角色：[[半身人]]，芒吉人，天夏人
+建议角色：[[半身人]]，莽吉人，天夏人
 |source_name=任务与战役
 |source_url=https://pf1chm.pages.dev/topics/page_1578.html
 }}

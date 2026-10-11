@@ -1,6 +1,7 @@
 {{物品
 |name=破损的桔黄色艾恩石
 |english_name=Orange Prism (Cracked) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Orange%20Prism
 |category=艾恩石
 |aura=强烈各种
 |cl=12

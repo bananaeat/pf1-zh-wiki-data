@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Classic Horrors Revisited pg. 32），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=文雅食尸鬼
+|english_name=Civilized Ghoulishness
+|pfs=否
+|description=你虽是不死生物，却能轻易冒充活人。
+|prerequisites=[[食尸鬼]]，魅力18。
+|benefit=你的外貌虽然皮肤苍白、身形消瘦，却足以让你冒充你所选的某种活体类人生物。你在为伪装成人类而进行的[[易容]]检定上获得+10种族加值，你的导能抗力提高+2。拥有此专长的妖鬼可以以自由动作启用或压制其恶臭能力。
+|source_name=经典恐怖再临
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Civilized%20Ghoulishness
+}}

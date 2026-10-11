@@ -115,7 +115,7 @@
 |-
 | Accustomed to Trickery || [[习惯诡计]] || 背景特性
 |-
-| Ace Disarm || [[神射卸武]] || 专长
+| Ace Disarm || [[神射缴械]] || 专长
 |-
 | Ace Trip || [[神射摔绊]] || 专长
 |-
@@ -661,7 +661,7 @@
 |-
 | Analytical Congress || [[解析大会]] || 其他
 |-
-| Analyze aura || [[分析灵光]] || 法术
+| Analyze aura || [[分析灵氲]] || 法术
 |-
 | Analyze Dweomer || [[解析咒文]] || 法术
 |-
@@ -731,15 +731,15 @@
 |-
 | Angel, Choral || [[咏唱天使]] || 其他
 |-
-| Angel, Empyrean || [[创圣天]] || 其他
+| Angel, Empyrean || [[穹天使]] || 其他
 |-
 | Angel, Monadic Deva || [[元素使徒]] || 其他
 |-
 | Angel, Movanic Deva || [[光暗使徒]] || 其他
 |-
-| Angel, Planetar || [[天使，异界神使|异界神使]] || 其他
+| Angel, Planetar || [[天使，界天使|界天使]] || 其他
 |-
-| Angel, Solar || [[天使，曦天使|曦天使]] || 其他
+| Angel, Solar || [[天使，炽天使|炽天使]] || 其他
 |-
 | Angelic aspect || [[天使之颜]] || 法术
 |-
@@ -1135,7 +1135,7 @@
 |-
 | Archon Style || [[圣使之型]] || 专长
 |-
-| Archon's aura || [[圣使灵气]] || 法术
+| Archon's aura || [[圣使灵氲]] || 法术
 |-
 | Archon's trumpet || [[圣使号角]] || 法术
 |-
@@ -1447,21 +1447,21 @@
 |-
 | Augury || [[占卜术]] || 法术
 |-
-| Aura alteration || [[改写灵光]] || 法术
+| Aura alteration || [[改写灵氲]] || 法术
 |-
-| Aura of Cannibalism || [[饕食灵气]] || 法术
+| Aura of Cannibalism || [[饕食灵氲]] || 法术
 |-
-| Aura of distraction || [[躁乱灵光]] || 法术
+| Aura of distraction || [[躁乱灵氲]] || 法术
 |-
-| Aura of doom || [[毁灭灵气]] || 法术
+| Aura of doom || [[毁灭灵氲(法术)|毁灭灵氲]] || 法术
 |-
-| Aura of greater courage || [[顽勇灵光]] || 法术
+| Aura of greater courage || [[顽勇灵氲]] || 法术
 |-
-| Aura of Inviolate Ownership || [[所有权灵光]] || 法术
+| Aura of Inviolate Ownership || [[所有权灵氲]] || 法术
 |-
-| Aura of Succumbing || [[崩坏灵光]] || 专长
+| Aura of Succumbing || [[崩坏灵氲]] || 专长
 |-
-| Aura of the unremarkable || [[漠视灵光]] || 法术
+| Aura of the unremarkable || [[漠视灵氲]] || 法术
 |-
 | Aura sight || [[阵营视域]] || 法术
 |-
@@ -1695,7 +1695,7 @@
 |-
 | Banshee blast || [[音爆哀鸣]] || 法术
 |-
-| Baphomet || [[巴弗灭]] || 其他
+| Baphomet || [[巴风特]] || 其他
 |-
 | Baphomet's Blessing || [[巴风特之赐]] || 法术
 |-
@@ -1973,7 +1973,7 @@
 |-
 | Belial || [[贝利亚]] || 其他
 |-
-| Belier's Bite || [[虚妄魔之噬咬]] || 专长
+| Belier's Bite || [[虚妄魔之啮咬]] || 专长
 |-
 | Believable Veils || [[迷信幻纱]] || 专长
 |-
@@ -2081,7 +2081,7 @@
 |-
 | Bestial Wrath || [[野性之怒(背景特性)|野性之怒]] || 背景特性
 |-
-| Bestow auras || [[授予灵光]] || 法术
+| Bestow auras || [[授予灵氲]] || 法术
 |-
 | Bestow Curse || [[降咒]] || 法术
 |-
@@ -2303,7 +2303,7 @@
 |-
 | Blaze of glory || [[荣誉之辉]] || 法术
 |-
-| Blazing Aura || [[炽烈光环]] || 专长
+| Blazing Aura || [[炽烈灵氲]] || 专长
 |-
 | Blazing Channel || [[炽热导能]] || 专长
 |-
@@ -4225,7 +4225,7 @@
 |-
 | Clustershot || [[领队箭]] || 物品
 |-
-| Coat of Shells, Greater，Varisian || [[高等神圣链甲〔瓦瑞西安人〕]] || 物品
+| Coat of Shells, Greater，Varisian || [[高等神圣链甲〔瓦瑞西亚人〕]] || 物品
 |-
 | Coat pistol || [[袖枪]] || 物品
 |-
@@ -4421,7 +4421,7 @@
 |-
 | Compulsive liar || [[谎话连篇]] || 法术
 |-
-| Conceal Aura || [[隐藏灵光]] || 专长
+| Conceal Aura || [[隐藏灵氲]] || 专长
 |-
 | Conceal Spell || [[掩饰施法]] || 专长
 |-
@@ -4695,7 +4695,7 @@
 |-
 | Counter Reflexes || [[进无可进]] || 专长
 |-
-| Counterbalancing Aura || [[失衡灵光]] || 法术
+| Counterbalancing Aura || [[失衡灵氲]] || 法术
 |-
 | Countering Loophole || [[乘间伺隙]] || 专长
 |-
@@ -4733,7 +4733,7 @@
 |-
 | Covert Channeler || [[隐秘信徒(信仰)]] || 背景特性
 |-
-| Covetous Aura || [[贪婪光环]] || 法术
+| Covetous Aura || [[贪婪灵氲]] || 法术
 |-
 | Covetous urge || [[无尽贪婪]] || 法术
 |-

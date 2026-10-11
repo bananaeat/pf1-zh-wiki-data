@@ -1,0 +1,14 @@
+{{Feat
+|name=吾等乃壁垒
+|english_name=We are the Wall
+|categories=故事
+|pfs=否
+|description=你是家族传奇怪物猎手们的化身。
+|prerequisites=成为达拉汉家族的一员，或拥有“人民卫士”、“责任所系”或“惨遭劫掠”角色背景。
+|benefit=每天三次，你可以以一个移动动作，将视线内50尺以内的一只龙、魔法兽或人形怪物宣告为你的狩猎目标。你对该目标的攻击检定以及[[唬骗]]、[[知识]]、[[察觉]]、[[察言观色]]和[[生存]]检定获得+1加值。这些加值持续1分钟，或直到你指定新的狩猎目标，或直到该目标死亡。在你宣告某个生物为狩猎目标后，24小时内它不能再次成为你的狩猎目标。
+|goal=保护一个你已居住至少一年的定居点，抵御由适当数量的龙、魔法兽或人形怪物组成的入侵部队。
+|completion_benefit=狩猎目标所提供的加值变为你每有4个角色等级便+1，最高+5。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=167723.msg1416947#msg1416947 【#131】皇冠战争的8个故事专长及塔尔多八大贵族家族背景介绍]，译者：Kochchchch；按 AoN 核对过。
+|source_name=冒险之路131：死神的右手
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=We%20are%20the%20Wall
+}}

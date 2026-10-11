@@ -1,0 +1,12 @@
+{{Feat
+|name=恶魔占据
+|english_name=Demonic Possession
+|pfs=否
+|description=你能附身生物。
+|prerequisites=恶魔或半恶魔，魅力21，感知17。
+|benefit=你获得每日一次以类法术能力施放[[魔魂壶]]的能力。
+|special=你可以多次选择本专长。每次选择本专长时，你每日可额外以类法术能力施放一次魔魂壶。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=140681.msg1234242#msg1234242 【Demons Revisited】再探恶魔 专长部分]，译者：kichikuchan；按 AoN 核对过。
+|source_name=再探恶魔
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Demonic%20Possession
+}}

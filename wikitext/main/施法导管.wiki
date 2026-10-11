@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Antihero's Handbook pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=施法导管
+|english_name=Casting Conduit
+|categories=团队
+|description=你能以盟友为导管，把法术传递给她能接触到的敌人。
+|prerequisites=[[法术辨识]]1级。
+|benefit=当你施放射程为接触、会造成生命值伤害的法术时，你可以以一名同样拥有此专长、自愿且与你相邻的盟友为目标。该盟友承受该法术的最小伤害，并可以用一个[[直觉动作]]对相邻的敌人进行一次[[接触攻击]]以传递该法术。若此攻击命中，该法术对对手造成其正常伤害。若该盟友处于[[被擒抱]]或[[压制]]状态，则法术会自动传递给正在擒抱她或被她擒抱的敌人，无需攻击检定。若被指定的盟友对该法术的效果免疫（例如向免疫电击的盟友传递[[电爪]]），则此能力无效。
+|source=A'sH
+|source_name=反英雄手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Casting%20Conduit
+}}

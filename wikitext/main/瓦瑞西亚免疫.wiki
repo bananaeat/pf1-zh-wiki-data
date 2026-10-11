@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Varisia, Birthplace of Legends pg. 28），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=瓦瑞西亚免疫
+|english_name=Varisian Immunity
+|type=战役
+|pfs=否
+|description=你的家族格外健壮，甚至流传着一位瓦瑞西亚祖先试图治愈（或者，据一些口无遮拦的亲戚说，是制造）疾病的故事。你为抵抗疾病而进行的豁免检定获得+1背景加值。此外，你对沃瑞尔噬疫和血纱病这两种疾病免疫。你不一定要是瓦瑞西亚族裔才能选择这个战役背景特性，但如果你不是，你的背景故事应该解释你为何有一位瓦瑞西亚祖先。
+|source_name=瓦瑞西亚，传说诞生之地
+|source=VBoL
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Varisian%20Immunity
+}}

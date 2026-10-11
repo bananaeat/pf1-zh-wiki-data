@@ -7,7 +7,7 @@
 <code><nowiki>{{:能力页}}</nowiki></code> 嵌入它——嵌在领域页里时（当前页名＝domain 参数）只输出效果正文，所以领域页原来的小节标题、锚点都不变，正文只有一份。
 
  {{领域能力|name=电弧|en=Lightning Arc|type=Sp|domain=气领域|source=核心规则书|text=……}}
- {{领域能力|name=暴乱灵光|en=Aura of Bedlam|type=Su|domain=混乱领域|sub=暴动子域 (Riot)|sub_name=暴动子域|source=市井英雄|text=……}}
+ {{领域能力|name=暴乱灵氲|en=Aura of Bedlam|type=Su|domain=混乱领域|sub=暴动子域 (Riot)|sub_name=暴动子域|source=市井英雄|text=……}}
 
 [[分类:模板]]
 </noinclude>

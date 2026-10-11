@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（City of Strangers pg. 41, Pathfinder #12: Crown of Fangs pg. 32, Pathfinder Campaign Setting pg. 218），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=臃肿学徒
+|english_name=Bloatmage Initiate
+|description=你对[[臃肿法师]]之道的入门，让你能够借助繁复的仪式与骇人的血祭增加体内的血液与淋巴量，从而扩充你的魔法能量储备。
+|prerequisites=[[法术专攻]]（任一学派）。
+|benefit=你习得了古老的人体秘术的基础。选择一个你拥有法术专攻专长的魔法学派，你施放该学派的法术时施法者等级+1。此加值与法术专攻的加值叠加。不幸的是，膨胀的副作用使你的体型增大到这种程度，以至于你持续处于中载的影响之下：你的敏捷对AC的最大加值为+3，获得-3的防具检定减值，你的速度也相应降低（中型生物通常从30尺降为20尺）。
+|source_name=异乡人之城
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Bloatmage%20Initiate
+}}

@@ -1,8 +1,9 @@
+{{消歧义|瓦瑞西亚刺青(专长)}}
 {{Trait
 |name=瓦瑞西亚刺青
 |english_name=Varisian Tattoo
 |type=种族
-|prerequisites=[[人类]]（瓦瑞西安人）
+|prerequisites=[[人类]]（瓦瑞西亚人）
 |description=你带着你族人所拥有的复杂刺青，标志着你是道路的自由子女。你对抗魅惑和胁迫效果的豁免骰获得+1背景加值。另外，你熟悉围巾刃和[[星刃]]。
 |source_name=瓦瑞西亚，传说诞生之地
 |source_url=https://pf1chm.pages.dev/topics/zh1d5e5ac9bb.htm

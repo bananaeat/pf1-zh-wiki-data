@@ -3,7 +3,7 @@
 |english_name=Noble-in-Exile
 |type=地区
 |prerequisites=格拉顿
-|description=尽管被迫寄居于河域诸国，你永远不会忘记自己是一个伽尔特贵族。当你与贵族交流时，你在交涉检定上获得+1的背景加值；当你与平民交流时，你在威吓检定上获得+1的背景加值。
+|description=尽管被迫寄居于河域诸国，你永远不会忘记自己是一个迦尔特贵族。当你与贵族交流时，你在交涉检定上获得+1的背景加值；当你与平民交流时，你在威吓检定上获得+1的背景加值。
 |source_name=河域子民
 |source=PotR
 |source_url=https://pf1chm.pages.dev/topics/zh576fd36972.htm

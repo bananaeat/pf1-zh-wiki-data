@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Monster Codex pg. 153），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=食人魔碾压
+|english_name=Ogre Crush
+|pfs=否
+|description=你粗壮结实的臂膀能打出强劲的重击，并把被你拥入怀中的较小生物活活挤死。
+|prerequisites=力量25，[[精通擒抱]]，[[精通徒手打击]]，食人魔，体型大型或更大。
+|benefit=当你擒抱比你小的生物时，你的徒手打击伤害提升一级。你获得紧勒怪物特殊能力，造成的伤害等于你这一体型生物的挥击伤害或你的徒手打击伤害，取较高者。
+|source=MC
+|source_name=怪物志
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Ogre%20Crush
+}}

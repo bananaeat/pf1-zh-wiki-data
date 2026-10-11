@@ -97,7 +97,7 @@
 |-
 | 防活物护罩(Antilife shell) || 法术 || 3 ||
 |-
-| 卸武重击(Disarming Strike) || 专长(APG) || 2 ||
+| 缴械重击(Disarming Strike) || 专长(APG) || 2 ||
 |-
 | 高等盲斗(Greater Blind-Fight)* || 专长(APG) || 2 ||
 |-

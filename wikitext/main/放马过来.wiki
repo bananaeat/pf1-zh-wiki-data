@@ -1,0 +1,14 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 57），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=放马过来
+|english_name=Let Them Come
+|categories=战斗;组织
+|pfs=否
+|description=你受过训练，专门对付席卷而来的敌人大军。凭借精心把握时机的一击，你让他们鲁莽的冲锋成为自取灭亡。
+|prerequisites=[[矮人]]，第九营25TPA。
+|benefit=你把所有单手或双手近战武器都视为具有反冲锋武器特性。
+|normal=只有具有反冲锋武器特性的武器才能预备用来对付冲锋。
+|source=FM
+|source_name=组织指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Let%20Them%20Come
+}}

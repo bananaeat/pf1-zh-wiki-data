@@ -42,7 +42,7 @@
 |organization=单独
 |treasure=三倍
 |special_abilities={{怪物能力|漠风|Su|青少年及以上的黄铜龙可以召来沙漠之风为其服务。这类似于造风术 gust of wind，但在路径上的任何生物都必须进行强韧检定，否则因沙子而目盲 1d4 轮。此效果的豁免 DC 与龙的喷吐武器 DC 相同。}}
-{{怪物能力|火焰灵光|Su|老年及以上的黄铜龙被高温的灵光所环绕。任何靠近龙 5 尺内的生物在龙的回合开始时受到 1d6 点火焰伤害。古黄铜龙的灵光延伸至 10 尺。太古龙的伤害增至 2d6。黄铜龙可以通过一个自由动作随意愿压制或启动此灵光。}}
+{{怪物能力|火焰灵氲|Su|老年及以上的黄铜龙被高温的灵氲所环绕。任何靠近龙 5 尺内的生物在龙的回合开始时受到 1d6 点火焰伤害。古黄铜龙的灵氲延伸至 10 尺。太古龙的伤害增至 2d6。黄铜龙可以通过一个自由动作随意愿压制或启动此灵氲。}}
 {{怪物能力|移沙|Sp|少年及以上的黄铜龙可以移动沙子挖掘废墟或隐藏宝藏。这类似于地动术 move earth，但仅影响沙子。使用本效果时，龙使用其 HD 作为施法者等级，视同 5 级法术。}}
 {{怪物能力|沙飓风|Su|（译注：蓝龙有个同名能力，但具体内容不同，因此此处采取不同译名）古龙开始，黄铜龙可以用一个整轮动作创造出一阵沙漠风暴，每日一次。风暴半径为 1 英里，持续龙每年龄层 1 分钟。这类似于沙暴天气 sandstorm（参见 Pathfinder 角色扮演游戏核心规则），除了额外还带有风暴等级的强风 windstorm–level winds 的效果。}}
 {{怪物能力|睡眠喷吐|Su|黄铜龙可以喷吐出锥形睡眠气体代替线形火焰。在此锥形区域内的生物需通过意志检定以免陷入 1d6 轮的睡眠，每年龄层再加一轮。}}
@@ -86,7 +86,7 @@
 |bab=+14
 |cmb=+22
 |cmd=33（37 对摔绊 vs. trip）
-|feats=[[警觉]];[[飞越攻击|飞跃攻击]];[[盘旋]];[[高等法术专攻]]（附魔）Greater Spell Focus;[[精通先攻]];[[猛力攻击]];[[法术专攻]]（附魔）Spell Focus
+|feats=[[警觉]];[[飞越攻击|跃击]];[[盘旋]];[[高等法术专攻]]（附魔）Greater Spell Focus;[[精通先攻]];[[猛力攻击]];[[法术专攻]]（附魔）Spell Focus
 |skills=[[唬骗]] Bluff +20;[[交涉]] Dip. +20;[[飞行]] Fly +12;[[医疗]] Heal +20;[[语言学]] Ling. +20;[[察觉|觉察]] Per. +24;[[察言观色]] S. Motive +24;[[法术辨识]] Spellcraft +20;[[生存]] Survival +20
 |languages=通用语 Common;龙语 Draconic;加上任意 14 种其他语言 plus any 14 others
 |sq=移沙 move sand
@@ -131,7 +131,7 @@
 |bab=+22
 |cmb=+35
 |cmd=45（49 对摔绊 vs. trip）
-|feats=[[警觉]];[[飞越攻击|飞跃攻击]];[[高等法术专攻]]（附魔）Greater Spell Focus;[[盘旋]];[[精通先攻]];[[精通要害打击]];[[多重攻击]];[[猛力攻击]];[[法术瞬发]];[[法术专攻]]（附魔）Spell Focus;[[要害打击]]
+|feats=[[警觉]];[[飞越攻击|跃击]];[[高等法术专攻]]（附魔）Greater Spell Focus;[[盘旋]];[[精通先攻]];[[精通要害打击]];[[多重攻击]];[[猛力攻击]];[[法术瞬发]];[[法术专攻]]（附魔）Spell Focus;[[要害打击]]
 |skills=[[唬骗]] Bluff +30;[[交涉]] Diplomacy +30;[[飞行]] Fly +17;[[医疗]] Heal +30;[[知识]]（本地、历史）Knowledge+30;[[语言学]] Linguistics +30;[[察觉|觉察]] 察觉 +34;[[察言观色]] Sense Motive +34;[[法术辨识]] Spellcraft +30;[[生存]] Survival +30
 |languages=通用语 Common;龙语 Draconic;加任意其他 22 种语言 plus any 22 others
 |sq=移沙 move sand
@@ -150,7 +150,7 @@
 * 天生护甲 +3；喷吐武器 线形，2d4 火焰
 * 力量 11，敏捷 16，体质 13，智力 10，感知 11，魅力 10
 
-<div class="monster-table-wrap"><table class="wikitable"><tr><th>年龄层</th><th>特殊能力</th><th>施法者等级</th></tr><tr><td>雏龙 Wyrmling</td><td>火系，睡眠喷吐</td><td>–</td></tr><tr><td>幼龙 Very young</td><td>动物交谈</td><td>–</td></tr><tr><td>少年 Young</td><td>移沙</td><td>1 级</td></tr><tr><td>青少年 Juvenile</td><td>漠风，忍受环境</td><td>3 级</td></tr><tr><td>青年 Young adult</td><td>DR 5/魔法，法术抗力</td><td>5 级</td></tr><tr><td>成年 Adult</td><td>凶威，[[暗示术]]</td><td>7 级</td></tr><tr><td>壮年 Mature adult</td><td>DR 10/魔法</td><td>9 级</td></tr><tr><td>老年 Old</td><td>火焰灵光，操纵风相</td><td>11 级</td></tr><tr><td>极老 Very old</td><td>DR 15/魔法</td><td>13 级</td></tr><tr><td>古龙 Ancient</td><td>沙飓风，操控天气</td><td>15 级</td></tr><tr><td>上古龙 Wyrm</td><td>DR 20/魔法</td><td>17 级</td></tr><tr><td>太古龙 Great wyrm</td><td>召唤[[风巨灵]]，[[旋风术]]</td><td>19 级</td></tr></table></div>
+<div class="monster-table-wrap"><table class="wikitable"><tr><th>年龄层</th><th>特殊能力</th><th>施法者等级</th></tr><tr><td>雏龙 Wyrmling</td><td>火系，睡眠喷吐</td><td>–</td></tr><tr><td>幼龙 Very young</td><td>动物交谈</td><td>–</td></tr><tr><td>少年 Young</td><td>移沙</td><td>1 级</td></tr><tr><td>青少年 Juvenile</td><td>漠风，忍受环境</td><td>3 级</td></tr><tr><td>青年 Young adult</td><td>DR 5/魔法，法术抗力</td><td>5 级</td></tr><tr><td>成年 Adult</td><td>凶威，[[暗示术]]</td><td>7 级</td></tr><tr><td>壮年 Mature adult</td><td>DR 10/魔法</td><td>9 级</td></tr><tr><td>老年 Old</td><td>火焰灵氲，操纵风相</td><td>11 级</td></tr><tr><td>极老 Very old</td><td>DR 15/魔法</td><td>13 级</td></tr><tr><td>古龙 Ancient</td><td>沙飓风，操控天气</td><td>15 级</td></tr><tr><td>上古龙 Wyrm</td><td>DR 20/魔法</td><td>17 级</td></tr><tr><td>太古龙 Great wyrm</td><td>召唤[[风巨灵]]，[[旋风术]]</td><td>19 级</td></tr></table></div>
 }}
 
-本页译自《[[怪物图鉴]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=40217.msg342772#msg342772 【B1】龙（Dragon）]，译者：pandora）。

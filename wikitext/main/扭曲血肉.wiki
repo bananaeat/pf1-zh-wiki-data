@@ -1,0 +1,14 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder Campaign Setting pg. 151），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=扭曲血肉
+|english_name=Twisted Flesh
+|pfs=否
+|description=污染瘟疫并不总是以死亡告终，有时只会从根本上改变一个人的身体形态。你就是这样一位“幸运”的人。
+|prerequisites=体质15，世界之伤亲和。
+|benefit=你的AC获得+1天生护甲加值，并获得寒冷、电和火焰抗性2。此外，由于你被污染而布满疤痕的血肉，你在[[威吓]]检定上获得+1加值。
+|special=你在所有其他基于魅力的技能检定、魅力检定和强韧豁免上受到-1减值。
+
+你只能在1级时获得本专长。
+|source_name=探索者编年史：战役设定
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Twisted%20Flesh
+}}

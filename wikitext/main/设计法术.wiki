@@ -282,9 +282,19 @@
 <div class="rule-def gloss"><div class="rd-t">影响心灵</div><div class="rd-b">无心智 的生物 (那些智力属性为“–”的生物) 以及不死生物免疫影响心灵效果。</div></div>
 <div class="rule-def gloss"><div class="rd-t">痛苦</div><div class="rd-b">痛苦是本书中新增的法术描述符。痛苦效果会引起让人难受的感觉，却不会造成任何永久性的身体伤害 (尽管敏感的目标可能会在长时间承受痛苦之后受到精神创伤)。免疫那些需要进行强韧豁免的效果的生物 (比如构装体或不死生物)，都能免疫痛苦效果。</div></div>
 <div class="rule-def gloss"><div class="rd-t">毒素</div><div class="rd-b">毒素是本书中新增的法术描述符。毒素效果使用毒药、毒液、麻药或者类似的有毒物质，通过化学反应来扰乱并伤害活物。从技术上来说，酸蚀与毒素都是化学反应，但是为了游戏的进行，它们被划分为不同的效果，强酸造成HP的伤害，而毒素会导致[[属性伤害]]、[[属性吸取]]、[[出血]]、困惑、痉挛、反胃、麻痹、减少治疗效果、[[环境规则#窒息|窒息]]、最终失去意识甚至死亡。对毒素有抗力的生物 (比如[[矮人]]) 能将他们的抗力加到对抗毒素法术效果的豁免上。能够免疫毒素的生物也能免疫毒素法术中的有毒的方面，但是并不一定包括法术的全部效果 (例如：创造充满液体毒药的大坑的法术，仍旧能够困住并淹死免疫毒素的生物)。</div></div>
-<div class="rule-def gloss"><div class="rd-t">阴影</div><div class="rd-b">阴影是本书中新增的法术描述符。阴影法术操控来自阴影位面的物质或能量，或者允许进行传送进出该位面。</div></div>
+<div class="rule-def gloss"><div class="rd-t">阴影</div><div class="rd-b">阴影是本书中新增的法术描述符。阴影法术操控来自影界的物质或能量，或者允许进行传送进出该位面。</div></div>
 <div class="rule-def gloss"><div class="rd-t">音波</div><div class="rd-b">音波效果通过频繁的压力产生振动，凭借空气、水或者地面传输能量到目标身上。对于[[人类]]耳朵能够接收的频率范围来说，过高或者过低的声音都能传导足够的能量来造成伤害，这意味着这些效果甚至能够影响[[耳聋]]的生物。音波效果能够造成HP伤害，耳聋、眩晕、反胃、痛苦、呼吸急促 以及短暂的[[目盲]]，而且还能利用[[回声定位]]探知生物。</div></div>
 <div class="rule-def gloss"><div class="rd-t">水</div><div class="rd-b">操控水流，召唤来自水元素占主导的位面或水系亚种生物的法术应当具有水描述符。</div></div>
+
+=== 带新描述符的法术 ===
+《[[核心规则书]]》和《[[进阶玩家指南]]》（标 <sup>APG</sup>）里带有上面这几种新描述符的法术（《[[极限魔法]]》附录）：
+
+<div class="rule-def gloss"><div class="rd-t">诅咒</div><div class="rd-b">[[降咒]]、[[目盲/耳聋术]]、[[烙印术]]<sup>APG</sup>、[[高等烙印术]]<sup>APG</sup>、[[匠人诅咒]]<sup>APG</sup>、[[尘埃之饮]]<sup>APG</sup>、[[尘埃之宴]]<sup>APG</sup>、[[次等指使术]]、[[指使术]]、[[凶兆]]<sup>APG</sup>、[[审判烙印]]、[[自然的流放]]<sup>APG</sup>、[[先知的负担]]<sup>APG</sup>、[[永恒安眠]]<sup>APG</sup></div></div>
+<div class="rule-def gloss"><div class="rd-t">疾病</div><div class="rd-b">[[疫病术]]、[[疱疹咒]]<sup>APG</sup></div></div>
+<div class="rule-def gloss"><div class="rd-t">情绪</div><div class="rd-b">[[嫌恶术]]、[[顽勇灵氲]]<sup>APG</sup>、[[绝望术]]、[[生存勇气祝福]]<sup>APG</sup>、[[安抚动物(法术)]]、[[安定心神]]、[[严加斥责]]<sup>APG</sup>、[[群体严加斥责]]<sup>APG</sup>、[[惊恐术]]、[[极度绝望]]、[[丧志术]]、[[爱与和平]]<sup>APG</sup>、[[摄心目光]]、[[恐惧术]]、[[强制忏悔]]<sup>APG</sup>、[[强大希望]]、[[猎手怒嚎]]<sup>APG</sup>、[[月狂病]]<sup>APG</sup>、[[魅影杀手]]、[[复仇鬼影]]<sup>APG</sup>、[[狂暴术]]、[[集结点]]<sup>APG</sup>、[[恐吓术]]、[[众怒]]<sup>APG</sup>、[[恐惧徽记]]、[[共鸣术]]、[[敬畏武器]]<sup>APG</sup>、[[怪影杀手]]、[[狂怒]]<sup>APG</sup></div></div>
+<div class="rule-def gloss"><div class="rd-t">痛苦</div><div class="rd-b">[[摄心目光]]、[[痛苦打击]]<sup>APG</sup>、[[群体痛苦打击]]<sup>APG</sup>、[[驱离害虫]]、[[惩戒]]<sup>APG</sup>、[[痛苦徽记]]</div></div>
+<div class="rule-def gloss"><div class="rd-t">毒素</div><div class="rd-b">[[加速毒发]]<sup>APG</sup>、[[死云术]]、[[食尸鬼之触]]（仅恶臭部分）、[[毒击术]]、[[腐化食粮]]<sup>APG</sup>、[[臭云术]]、[[化药为毒]]<sup>APG</sup>、[[毒矢咒]]<sup>APG</sup></div></div>
+<div class="rule-def gloss"><div class="rd-t">阴影</div><div class="rd-b">[[投影术]]、[[阴魂咒法术]]、[[幽影咒法术]]、[[高等幽影咒法术]]、[[幽影塑能术]]、[[高等幽影塑能术]]、[[行影术]]</div></div>
 
 == 基准法术 ==
 

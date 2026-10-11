@@ -17,7 +17,7 @@
 |will=+0
 |weaknesses=光线敏感
 |speed=30 尺，攀爬 30 尺，飞行 40 尺（较差）
-|melee=噬咬 +1（1d4）
+|melee=啮咬 +1（1d4）
 |str=11
 |dex=12
 |con=19
@@ -30,7 +30,7 @@
 |feats=[[顽强]] B;[[坚忍]] B
 |skills=[[攀爬]] +8;[[飞行]] –1;[[察觉]] +4;[[隐匿]] +9
 |racial_mods=+4 察觉，+4 隐匿
-|sq=屏气
+|sq=屏息
 |environment=任意陆地
 |organization=单独或虫灾侵袭（2–20）
 |treasure=无
@@ -43,4 +43,4 @@
 <div class="monster-table-wrap"><table class="wikitable"><tr><th>变种</th><th>CR</th><th>体型</th><th>HD</th></tr><tr><td>噪音巨蟑螂</td><td>1</td><td>中型</td><td>2</td></tr><tr><td>毒蟑螂</td><td>3</td><td>大型</td><td>3</td></tr><tr><td>喷酸蟑螂</td><td>6</td><td>超大型</td><td>6</td></tr><tr><td>锯齿蟑螂</td><td>9</td><td>巨型</td><td>8</td></tr><tr><td>龙蟑螂</td><td>12</td><td>超巨型</td><td>10</td></tr></table></div>
 }}
 
-本页译自《[[怪物图鉴2]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴2]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=60326.msg560968#msg560968 【B2】巨蟑螂 & 蟑螂群（Cockroach, Giant & Cockroach Swarm）]，译者：原子能青蛙）。

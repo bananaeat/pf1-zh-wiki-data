@@ -191,7 +191,7 @@
 |-
 | Darkwood Creations || [[暗木造物]] || 物品
 |-
-| Darkwood Mwangi harp || [[暗木芒吉竖琴]] || 物品
+| Darkwood Mwangi harp || [[暗木莽吉竖琴]] || 物品
 |-
 | Darkwood Shield || [[暗木重盾]] || 物品
 |-
@@ -329,9 +329,9 @@
 |-
 | Death Knell || [[死亡丧钟 (神话)|死亡丧钟]] || 其他
 |-
-| Death knell aura || [[死亡丧钟灵光]] || 法术
+| Death knell aura || [[死亡丧钟灵氲]] || 法术
 |-
-| Death knell aura, greater || [[高等死亡丧钟灵光]] || 法术
+| Death knell aura, greater || [[高等死亡丧钟灵氲]] || 法术
 |-
 | Death or Glory || [[死而后生]] || 专长
 |-
@@ -601,7 +601,7 @@
 |-
 | Demon, Abrikandilu || [[蹧毁魔|阿布森迪卢]] || 其他
 |-
-| Demon, Babau || [[恶魔，巴布魔|巴布魔]] || 其他
+| Demon, Babau || [[恶魔，暴怖魔|暴怖魔]] || 其他
 |-
 | Demon, Balor || [[恶魔，巴洛炎魔|巴洛炎魔]] || 其他
 |-
@@ -1049,7 +1049,7 @@
 |-
 | Dire flail || [[双头链枷]] || 物品
 |-
-| Directed Disarm || [[定向卸武]] || 专长
+| Directed Disarm || [[定向缴械]] || 专长
 |-
 | dirge of the victorious knights || [[凯旋骑士的挽歌]] || 法术
 |-
@@ -1057,7 +1057,7 @@
 |-
 | Dirty Critical Hit || [[阴招重击]] || 专长
 |-
-| Dirty Disarm || [[阴招卸武]] || 专长
+| Dirty Disarm || [[阴招缴械]] || 专长
 |-
 | Dirty Fighter || [[好搭档]] || 背景特性
 |-
@@ -1075,7 +1075,7 @@
 |-
 | Disarming Blade || [[缴械剑]] || 物品
 |-
-| Disarming Strike || [[卸武重击]] || 专长
+| Disarming Strike || [[缴械重击]] || 专长
 |-
 | Disarming Threat Deed || [[讲道理]] || 专长
 |-
@@ -1499,7 +1499,7 @@
 |-
 | Dragon, Primal || [[原龙绪论]] || 其他
 |-
-| Dragonbane Aura || [[屠龙灵光]] || 专长
+| Dragonbane Aura || [[屠龙灵氲]] || 专长
 |-
 | Dragonbreath Bow || [[龙息弓]] || 物品
 |-
@@ -1627,7 +1627,7 @@
 |-
 | Droskar`s Guiding Ring || [[卓斯卡指环]] || 物品
 |-
-| Drow || [[卓尔精灵(怪物)|卓尔精灵]] || 其他
+| Drow || [[卓尔(怪物)|卓尔]] || 其他
 |-
 | Drow Nobility || [[卓尔贵族]] || 专长
 |-
@@ -1989,7 +1989,7 @@
 |-
 | Elemental Assessor || [[元素评估]] || 法术
 |-
-| Elemental aura || [[元素光环]] || 法术
+| Elemental aura || [[元素灵氲]] || 法术
 |-
 | Elemental Body || [[元素形态 (神话)|元素形态]] || 其他
 |-
@@ -2575,7 +2575,7 @@
 |-
 | Expanded Enhance Arrows || [[附魔箭拓展]] || 专长
 |-
-| Expanded Fiendish Resistance || [[额外炼狱抗力]] || 专长
+| Expanded Fiendish Resistance || [[额外魔族抗力]] || 专长
 |-
 | Expanded Metakinesis || [[扩展超念]] || 专长
 |-
@@ -3049,7 +3049,7 @@
 |-
 | Fear the sun || [[太阳恐惧]] || 法术
 |-
-| Fearless Aura || [[无畏灵光]] || 专长
+| Fearless Aura || [[无畏灵氲]] || 专长
 |-
 | Fearless Curiosity || [[求知者皆无惧]] || 专长
 |-
@@ -3459,7 +3459,7 @@
 |-
 | Flames of the faithful || [[信仰之火]] || 其他
 |-
-| Flaming aura || [[烈焰光环]] || 法术
+| Flaming aura || [[烈焰灵氲]] || 法术
 |-
 | Flaming Doom || [[燃烧之灾]] || 物品
 |-
@@ -3687,7 +3687,7 @@
 |-
 | Folgrit's Mercy || [[福格瑞特的慈悯]] || 背景特性
 |-
-| Follow aura || [[追踪灵光]] || 法术
+| Follow aura || [[追踪灵氲]] || 法术
 |-
 | Follow-Up Strike || [[跟进追击]] || 专长
 |-
@@ -3799,7 +3799,7 @@
 |-
 | Forlarren || [[黯蚀妖]] || 其他
 |-
-| Forlorn || [[孤独者]] || 背景特性
+| Forlorn || [[失落者]] || 背景特性
 |-
 | Form Blight || [[形成荒疫怪]] || 其他
 |-
@@ -4001,7 +4001,7 @@
 |-
 | Frostkiss Whip || [[霜吻鞭]] || 物品
 |-
-| Frosty aura || [[寒冷光环]] || 法术
+| Frosty aura || [[寒冷灵氲]] || 法术
 |-
 | Frozen Crossbow || [[冰寒弩]] || 物品
 |-
@@ -4895,7 +4895,7 @@
 |-
 | Greater Dirty Trick || [[高等阴招]] || 专长
 |-
-| Greater Disarm || [[高等卸武]] || 专长
+| Greater Disarm || [[高等缴械]] || 专长
 |-
 | Greater Dispel Focus || [[高等解法专攻]] || 专长
 |-

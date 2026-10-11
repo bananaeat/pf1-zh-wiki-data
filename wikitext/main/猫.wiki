@@ -1,6 +1,7 @@
 {{装备
 |name=猫
 |english_name=Cat
+|aon=EquipmentMiscDisplay.aspx?ItemName=Cat%20(common)
 |cat=坐骑与宠物
 |price=3 cp（普通）；6 gp（奥西里昂慧眼猫）
 |weight=8磅

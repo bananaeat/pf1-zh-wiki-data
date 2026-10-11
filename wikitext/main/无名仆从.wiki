@@ -1,0 +1,16 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 57），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=无名仆从
+|english_name=Nameless Servitor
+|categories=组织
+|pfs=否
+|description=你放弃了自己的真名，这使你能够抵御某些类型的魔法。
+|prerequisites=重生卫阶位，重生卫10TPA。
+|benefit=任何试图用魔法来获知你个人信息的人（例如通过预言、窥视或类似魔法），都必须进行一次施法者等级检定才能成功，DC等于10+你的等级。你免疫那些需要使用你的名字才能生效的法术（例如[[锢魂术]]）。
+
+拥有此专长的重生卫成员大多以阶位相称。
+|special=如果你选择了真名，就会失去本专长的所有益处。
+|source=FM
+|source_name=组织指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Nameless%20Servitor
+}}

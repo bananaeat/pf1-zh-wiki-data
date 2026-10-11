@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Antihero's Handbook pg. 10），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=顶罪者
+|english_name=Fall Guy
+|categories=团队
+|description=你的盟友扮演笨手笨脚的蠢货，衬得你相形之下更体面。
+|prerequisites=[[唬骗]]1级。
+|benefit=一名同样拥有此专长的盟友可以花费一个标准动作四处瞎晃、说错话，或以其他方式让自己显得不善交际。她对目睹其行为的角色所进行的后续基于魅力的检定承受-2减值，但你在这类检定上获得+2胜任加值。减值与加值均在24小时后结束。
+|source=A'sH
+|source_name=反英雄手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Fall%20Guy
+}}

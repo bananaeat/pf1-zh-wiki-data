@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder Campaign Setting pg. 90），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=集结冲锋
+|english_name=Massed Charge
+|categories=战斗
+|pfs=否
+|description=你受过终焉之墙重骑兵的传奇训练，即使在狭窄的空间里也能极其精确地操控坐骑。
+|prerequisites=[[骑乘战斗]]，[[驯养动物]]4级，[[骑术]]9级，终焉之墙亲和。
+|benefit=骑在马上时，当你与另一名同样拥有本专长的骑手及其坐骑共用一个10尺的空间时，你和你的坐骑不会因挤压而受到减值。此外，你和你的坐骑在对抗性的[[冲撞]]、[[闯越]]和[[摔绊]]检定上获得+2加值。
+|normal=马和其他大型坐骑占据10尺见方的区域。两匹马共用该空间需要挤压，移动速度减半，攻击检定和AC受到-4减值。
+|source_name=探索者编年史：战役设定
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Massed%20Charge
+}}

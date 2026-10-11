@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Bastards of Golarion pg. 17），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=奇异血统（窃影鬼）
+|english_name=Unusual Heritage (Fetchling)
+|description=你的血统怪异或难以追溯，人们畏惧你那非凡的力量。
+|prerequisites=[[窃影鬼]]。
+|benefit=你拥有窥视影界的神秘能力，但只限于梦中。每天一次，在睡眠中你可以创造一个魔法感应器，如同[[秘法眼]]，只是这个感应器只能观察你当前所在位置在影界中的样子。这一效应持续每角色等级1分钟，并可在你睡眠期间的任何时刻使用。
+|source=BoG
+|source_name=格拉利昂的混种
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Unusual%20Heritage%20%28Fetchling%29
+}}

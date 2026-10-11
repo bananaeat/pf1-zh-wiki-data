@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #139: The Dead Roads pg. 73），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=真理之家监督官
+|english_name=Overseer of the House of Truth
+|categories=起源
+|pfs=否
+|description=你的创造者是一名政客兼行政官，你的记忆里满是硬币叮当作响的声音。
+|prerequisites=[[舍卜提]]。
+|benefit=你的[[暗示术]]类法术能力获得第二次每日使用。8级时你获得第三次每日使用，13级时获得第四次，16级时获得第五次。
+|source_name=冒险之路139：死者之路
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Overseer%20of%20the%20House%20of%20Truth
+}}

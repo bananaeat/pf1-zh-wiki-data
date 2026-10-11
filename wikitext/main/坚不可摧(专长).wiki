@@ -1,0 +1,12 @@
+{{Feat
+|name=坚不可摧
+|english_name=Unbreakable
+|categories=战斗
+|description=作为一名身经百战的[[灰少女(NPC)|灰少女]]，你可以忍受数目惊人的刑罚。
+|prerequisites=体质13，[[坚忍]]，[[健壮]]，[[战士]]等级4。
+|benefit=每当你因战士的天赋职业奖励获得1点生命值时，你额外获得1点生命值。在判定你何时会因生命值伤害而死亡时，将你的有效体质值视为高4点。这些效果可回溯。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=95821.msg887368#msg887368 【AG】灰少女（Gray Maidens）]，译者：炼金术士卡莉；按 AoN 核对过。
+|source=AG
+|source_name=冒险者指南
+|source_url=https://pf1chm.pages.dev/topics/page_1230.html
+}}

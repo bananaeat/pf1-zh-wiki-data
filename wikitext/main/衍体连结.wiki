@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 94），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=衍体连结
+|english_name=Spawnlink
+|categories=怪物
+|pfs=否
+|description=你能透过你所生出的衍体仆从的眼睛观看。
+|prerequisites=智力13，创造衍体能力。
+|benefit=作为一个全回合动作，你可以与一个由你控制、位于同一位面的衍体建立连结。这样做时，衍体的双眼会发出明亮的红光。以此方式连结时，你可以透过衍体的双眼观看，使用衍体的视觉或你自己的视觉，取更有利者。通过衍体的双眼观看时，你自己的身体处于[[目盲]]状态。你也可以通过衍体说话（如果它能说话），使用你自己的声音。你可以每轮以一个标准动作维持这一连结，如同专注维持一个3环法术。如果你使用此能力时，你的衍体生命值降到0或更低，你会陷入目盲和[[晕眩]]状态，持续1d6轮，且没有豁免检定。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Spawnlink
+}}

@@ -1,6 +1,7 @@
 {{物品
 |name=破损的珍珠白艾恩石
 |english_name=Pearly White Spindle (Cracked) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Pearly%20White%20Spindle
 |category=艾恩石
 |aura=强烈各种
 |cl=12

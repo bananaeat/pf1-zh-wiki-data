@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder Campaign Setting pg. 103），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=摩尔苏恩纪律
+|english_name=Molthuni Discipline
+|pfs=否
+|description=摩尔苏恩严格的军事文化在你身上激发出非同寻常的勇气。
+|prerequisites=摩尔苏恩亲和。
+|benefit=任何本会使你陷入[[恐慌]]的效果，改为使你陷入[[惊惧]]；任何本会使你陷入惊惧的效果，改为使你陷入[[战栗]]；任何本会使你陷入战栗的效果，持续时间只有一半（至少1轮）。注意，你仍然可能因来自不同来源的多个恐惧效果而陷入更严重的惊惧，但每个来源都是在作用于你之前先行修正的。此外，你在对抗恐惧效果的任何豁免检定上获得+2加值。
+|special=你只能在1级时获得本专长。
+|source_name=探索者编年史：战役设定
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Molthuni%20Discipline
+}}

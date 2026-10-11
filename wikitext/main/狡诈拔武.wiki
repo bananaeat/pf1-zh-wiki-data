@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Adventurer's Armory pg. 31），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=狡诈拔武
+|english_name=Sly Draw
+|description=你拔出武器时既快又巧，让对手根本没意识到自己已受到威胁。
+|prerequisites=[[即时备战]]。
+|benefit=你拔出轻型武器时，可以用[[巧手]]检定代替[[唬骗]]检定，在战斗中进行虚招。其他影响虚招的专长和能力仍然适用于你的虚招。
+|source_name=冒险者的军械库
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Sly%20Draw
+}}

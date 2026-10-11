@@ -1,5 +1,6 @@
 {{物品
 |name=预警
+|english_name=Pitfall
 |category=魔法物品
 |aura=普通变化系
 |cl=5

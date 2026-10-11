@@ -3,8 +3,8 @@
 |english_name=Wrist Grab
 |categories=战斗
 |description=当一个敌人过于激进的攻击你，你快速抓住他的手臂并击落武器。
-|prerequisites=敏捷13，智力13，[[寓守于攻]]，[[战斗反射]]，[[精通卸武]]，[[精通徒手打击]]，基本攻击加值+6
-|benefit=当一个敌人未命中你且检定值低5或以上，你可以用一个[[直觉动作]]对其进行一次[[卸武]]检定。
+|prerequisites=敏捷13，智力13，[[寓守于攻]]，[[战斗反射]]，[[精通缴械]]，[[精通徒手打击]]，基本攻击加值+6
+|benefit=当一个敌人未命中你且检定值低5或以上，你可以用一个[[直觉动作]]对其进行一次[[缴械]]检定。
 |source_name=武术手册
 |source_url=https://pf1chm.pages.dev/topics/zh0ff052e72d.htm
 |source=MAH

@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Agents of Evil pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=默语之道门徒
+|english_name=Whispering Way Disciple
+|pfs=否
+|description=你的研究引起了默语之道的注意，它以向你开放其图书馆作为回报。
+|prerequisites=[[组织友人]]（默语之道）。
+|benefit=你可以每天1次运用从默语之道获得的学识，以一个整轮动作将你自己的血液与一瓶邪恶圣水混合，制成一瓶[[治疗轻伤]]药水或[[造成轻伤]]药水。这种转化造成的失血会对你造成1点体质伤害。此外，在规模达到小城镇或以上的任何定居点，无论其合法与否，你总能买到下列法术的卷轴：[[操纵死尸]]、[[操控死灵]]、[[唤起死灵]]、[[侦测死灵]]、[[打击死灵]]、[[虚假生命]]、[[高等虚假生命]]UM、[[食尸鬼之触]]、[[次等操纵尸体]]UM、[[群体修复死灵]]ACG、[[修复死灵]]ACG，以及[[亡灵形态 I]]至[[亡灵形态 IV|IV]]UM。
+|source=AoE
+|source_name=邪恶特务
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Whispering%20Way%20Disciple
+}}

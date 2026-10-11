@@ -148,9 +148,11 @@ function p.feat(frame)
     local id = nonempty(a.id) or 'feat-list'
     local rows = byEn(mw.huiji.db.find({ kind = 'feat' }, { limit = 5000 }))
     local used, count = {}, 0
+    -- |type=超魔：超魔专长速查（2026-10-12）。「类型」列换成「升环」（Data:Feats.tab 的 mm，export_data_tab.metamagic_slot 从 AoN 原文取）
+    local mm = only == '超魔'
     local out = {
         '{| class="wikitable sortable pf-ftable pf-feat" id="' .. attr(id) .. '"',
-        '! 专长 !! 类型 !! 先决条件 !! 简介 !! 出处',
+        mm and '! 专长 !! 升环 !! 先决条件 !! 简介 !! 出处' or '! 专长 !! 类型 !! 先决条件 !! 简介 !! 出处',
     }
     for _, r in ipairs(rows) do
         local types = split(r.cats)
@@ -170,6 +172,9 @@ function p.feat(frame)
                 { 'pre', pre == '' and '无先决条件' or (reqf and '要前置专长' or '无需专长') },
             })
             if reqf then line = line .. ' data-q="' .. attr(reqf) .. '"' end
+            if mm then   -- 只在超魔表里加（专长速查整表 3000 多行贴着 2MB 展开上限，别多写属性）
+                line = line .. ' data-f-mm="' .. attr(nonempty(r.mm) and (r.mm == '可变' and '可变' or ('+' .. r.mm .. '环')) or '未注明') .. '"'
+            end
             out[#out + 1] = line
             -- 神话专长和基础专长同名（诅咒巫术／诅咒巫术 (神话)），名字后加「（神话）」分开（用户 2026-09-29）
             local nm = r.name or r.page
@@ -177,7 +182,12 @@ function p.feat(frame)
                 nm = nm .. '（神话）'
             end
             out[#out + 1] = namecell({ page = r.page, name = nm, en = r.en }, '专长提示')
-            out[#out + 1] = '| ' .. cell(table.concat(types, '、'))
+            if mm then
+                out[#out + 1] = '| data-sort-value="' .. attr(tonumber(r.mm) or 9) .. '" | '
+                    .. cell(nonempty(r.mm) and (r.mm == '可变' and '可变' or ('+' .. r.mm)) or '—')
+            else
+                out[#out + 1] = '| ' .. cell(table.concat(types, '、'))
+            end
             -- 先决条件的标准写法、挂准确的链（Data:Feats.tab 的 prestd，tools/build_feat_chain.py 生成，2026-09-29）；
             -- 没有的用原文。不在这里 require 模块:专长链：三千条全载要 43 MB，贴着 Lua 内存上限
             -- prestd 里只有 [[页|字]] 里的竖线，表格语法认得，不能过 cell()
@@ -193,7 +203,7 @@ function p.feat(frame)
     out[#out + 1] = '|}'
     return panel(id, '搜名字、英文、先决条件、简介', {
         { 'm', '我的专长', { order = '已有|现在能学|还差前置|无前置专长', fixed = '1' } },
-        { 'type', '类型', { top = '12' } },
+        mm and { 'mm', '升环', { order = '+0环|+1环|+2环|+3环|+4环|+5环|可变|未注明' } } or { 'type', '类型', { top = '12' } },
         bookGroup(used),
         { 'pre', '先决条件', { order = '无先决条件|无需专长|要前置专长' } },
         { 'pfs', 'PFS可用', { order = '可用|不可用' } },
@@ -423,6 +433,204 @@ function p.spell(frame)
         { 'x', '法术抗力', { order = '是|否|见后文|未注明' } },
         bookGroup(used, 'b'),
         { 'z', '译文', { order = '已汉化|未汉化' } },
+    }, count) .. '\n' .. table.concat(out, '\n')
+end
+
+-- ---------- 伙伴类和盗贼天赋（2026-10-12）----------
+-- 这四张原先是 GlobalSearch 检索器（{{gsearch}} 表单＋结果卡），改成和专长速查一样的整表即时筛选
+-- （用户：「几个新加的速查不应该用global search，而是用类似专长速查那样的方法」）。
+--   {{#invoke:速查筛选|familiar}}     魔宠和进阶魔宠（Data:Familiars.tab）——[[魔宠速查]]
+--   {{#invoke:速查筛选|evolution}}    幻灵进化，核心版＋掉链版（Data:Evolutions.tab）——[[幻灵进化速查]]
+--   {{#invoke:速查筛选|companion}}    动物伙伴（Data:Companions.tab）——[[动物伙伴速查]]
+--   {{#invoke:速查筛选|roguetalent}}  盗贼天赋（Data:RogueTalents.tab）——[[盗贼天赋速查]]
+-- book 列多本书用全角分号隔开（书名里会带顿号：冒险之路128：鸣鸟、贵胄、破坏者）。
+
+local function splitBy(s, sep)
+    local out = {}
+    if nonempty(s) then
+        for _, x in ipairs(mw.text.split(s, sep, true)) do
+            x = mw.text.trim(x)
+            if x ~= '' then out[#out + 1] = x end
+        end
+    end
+    return out
+end
+
+local function bookVals(list, used)
+    local bv = {}
+    for _, b in ipairs(list) do bv[#bv + 1] = bookVal(b, used) end
+    return bv
+end
+
+-- 没有页的（魔宠里鸡、刺猬这几种站上没有属性块）只写名字，不出红链
+local function namecell2(r, tag)
+    if nonempty(r.page) then return namecell(r, nil, tag) end
+    local s = '| ' .. cell(r.name) .. (tag or '')
+    if nonempty(r.en) and r.en ~= r.name then s = s .. '<br><small>' .. cell(r.en) .. '</small>' end
+    return s
+end
+
+local function byName(rows)
+    table.sort(rows, function(x, y) return (x.name or '') < (y.name or '') end)
+    return rows
+end
+
+function p.familiar(frame)
+    local id = nonempty(frame.args.id) or 'familiar-list'
+    local rows = byEn(mw.huiji.db.find({ kind = 'familiar' }, { limit = 1000 }))
+    local used, count = {}, 0
+    local out = {
+        '{| class="wikitable sortable pf-ftable" id="' .. attr(id) .. '"',
+        '! 魔宠 !! 类别 !! 主人获得／阵营 !! 施法者等级 !! 出处',
+    }
+    for _, r in ipairs(rows) do
+        local improved = r.ftype == '进阶魔宠'
+        local al = '普通魔宠不适用'
+        if improved then
+            al = '未注明'
+            if nonempty(r.align) and r.align ~= '—' then al = mw.text.trim((r.align:gsub('（.-）', ''))) end
+        end
+        count = count + 1
+        out[#out + 1] = rowline({
+            { 'ft', r.ftype or '魔宠' },
+            { 'lv', improved and ((r.level or ''):match('^(%d+级)') or '其他') or '不需要' },
+            { 'al', al },
+            { 'book', bookVals(splitBy(r.book, '；'), used) },
+            { 'zh', r.ai == '是' and 'AI 翻译' or '人工译文' },
+        })
+        out[#out + 1] = namecell2(r, r.ai == '是' and AI_TAG or nil)
+        out[#out + 1] = '| ' .. cell(r.ftype)
+        out[#out + 1] = '| ' .. cell(improved and (nonempty(r.align) or '—') or r.benefit)
+        out[#out + 1] = '| ' .. cell(improved and r.level or '—')
+        out[#out + 1] = '| ' .. cell(r.source)
+    end
+    out[#out + 1] = '|}'
+    return panel(id, '搜名字、英文、主人获得', {
+        { 'ft', '类别', { order = '魔宠|进阶魔宠' } },
+        { 'lv', '施法者等级', { order = '不需要|3级|4级|5级|7级|9级|其他' } },
+        { 'al', '阵营（进阶）', { top = '12', order = '守序善良|中立善良|混乱善良|守序中立|绝对中立|混乱中立|守序邪恶|中立邪恶|混乱邪恶|任意|任意善良|任意邪恶|任意守序|任意混乱|未注明|普通魔宠不适用' } },
+        bookGroup(used),
+        { 'zh', '译文', { order = '人工译文|AI 翻译' } },
+    }, count) .. '\n' .. table.concat(out, '\n')
+end
+
+function p.evolution(frame)
+    local id = nonempty(frame.args.id) or 'evolution-list'
+    local rows = mw.huiji.db.find({ kind = 'evolution' }, { limit = 1000 })
+    local VER = { ['核心'] = 1, ['掉链'] = 2 }
+    table.sort(rows, function(x, y)
+        if x.ver ~= y.ver then return (VER[x.ver] or 9) < (VER[y.ver] or 9) end
+        if x.points ~= y.points then return (tonumber(x.points) or 9) < (tonumber(y.points) or 9) end
+        return (x.name or '') < (y.name or '')
+    end)
+    local used, count = {}, 0
+    local out = {
+        '{| class="wikitable sortable pf-ftable" id="' .. attr(id) .. '"',
+        '! 进化 !! 版本 !! 点数 !! 类型 !! 先决条件 !! 简介 !! 出处',
+    }
+    for _, r in ipairs(rows) do
+        local bks = splitBy(r.book, '；')
+        count = count + 1
+        out[#out + 1] = rowline({
+            { 'v', r.ver or '' }, { 'pt', nonempty(r.points) and (r.points .. '点') or '未注明' },
+            { 'type', nonempty(r.type) or '未注明' }, { 'pre', nonempty(r.prereq) and '有' or '无' },
+            { 'pfs', r.pfs and '可用' or '不可用' }, { 'book', bookVals(bks, used) },
+        })
+        out[#out + 1] = namecell(r)
+        out[#out + 1] = '| ' .. cell(r.ver)
+        out[#out + 1] = '| ' .. cell(r.points)
+        out[#out + 1] = '| ' .. cell(nonempty(r.type) or '—')
+        out[#out + 1] = '| ' .. cell(nonempty(r.prereq) or '—')
+        out[#out + 1] = '| ' .. cell(r.brief)
+        out[#out + 1] = '| ' .. cell(table.concat(bks, '；'))
+    end
+    out[#out + 1] = '|}'
+    return panel(id, '搜名字、英文、先决条件、简介', {
+        { 'v', '版本', { order = '核心|掉链' } },
+        { 'pt', '点数', { order = '1点|2点|3点|4点|未注明' } },
+        { 'type', '类型', { order = 'Ex|Su|Sp|Ex/Su|未注明' } },
+        { 'pre', '先决条件', { order = '无|有' } },
+        bookGroup(used),
+        { 'pfs', 'PFS可用', { order = '可用|不可用' } },
+    }, count) .. '\n' .. table.concat(out, '\n')
+end
+
+local MOVES = { '飞行', '游泳', '攀爬', '掘地' }
+
+function p.companion(frame)
+    local id = nonempty(frame.args.id) or 'companion-list'
+    local rows = byName(mw.huiji.db.find({ kind = 'companion' }, { limit = 1000 }))
+    local used, count = {}, 0
+    local out = {
+        '{| class="wikitable sortable pf-ftable" id="' .. attr(id) .. '"',
+        '! 伙伴 !! 类型 !! 初始体型 !! 速度 !! 攻击 !! 进阶 !! 出处',
+    }
+    for _, r in ipairs(rows) do
+        local mv = {}
+        for _, m in ipairs(MOVES) do
+            if (r.speed or ''):find(m, 1, true) or (r.adv_speed or ''):find(m, 1, true) then mv[#mv + 1] = m end
+        end
+        if #mv == 0 then mv = { '只有陆地速度' } end
+        local adv = nonempty(r.advlv) and (r.advlv .. '级') or ''
+        count = count + 1
+        out[#out + 1] = rowline({
+            { 'ct', nonempty(r.ctype) or '动物' }, { 'sz', nonempty(r.size) or '未注明' }, { 'mv', mv },
+            { 'adv', adv ~= '' and adv or '未注明' },
+            { 'book', nonempty(r.source) and bookVal(r.source, used) or '' },
+            { 'zh', nonempty(r.ai) and '含 AI 翻译' or '人工译文' },
+        })
+        out[#out + 1] = namecell(r, nil, nonempty(r.ai) and AI_TAG or nil)
+        out[#out + 1] = '| ' .. cell(r.ctype)
+        out[#out + 1] = '| ' .. cell(r.size)
+        out[#out + 1] = '| ' .. cell(r.speed)
+        out[#out + 1] = '| ' .. cell(r.attack)
+        out[#out + 1] = '| ' .. cell(adv .. (nonempty(r.adv_size) and ('，' .. r.adv_size) or ''))
+        out[#out + 1] = '| ' .. cell(r.source)
+    end
+    out[#out + 1] = '|}'
+    return panel(id, '搜名字、英文、速度、攻击', {
+        { 'ct', '类型', { order = '动物|魔兽|植物|虫类' } },
+        { 'sz', '初始体型', { order = '超小型|小型|中型|大型|未注明' } },
+        { 'mv', '移动方式', { order = '飞行|游泳|攀爬|掘地|只有陆地速度' } },
+        { 'adv', '进阶等级', { order = '4级|7级|9级|未注明' } },
+        bookGroup(used),
+        { 'zh', '译文', { order = '人工译文|含 AI 翻译' } },
+    }, count) .. '\n' .. table.concat(out, '\n')
+end
+
+function p.roguetalent(frame)
+    local id = nonempty(frame.args.id) or 'roguetalent-list'
+    local rows = mw.huiji.db.find({ kind = 'roguetalent' }, { limit = 1000 })
+    table.sort(rows, function(x, y)
+        if x.adv ~= y.adv then return x.adv == '普通' end
+        return (x.name or '') < (y.name or '')
+    end)
+    local used, count = {}, 0
+    local out = {
+        '{| class="wikitable sortable pf-ftable" id="' .. attr(id) .. '"',
+        '! 天赋 !! 档次 !! 类型 !! 效果 !! 出处',
+    }
+    for _, r in ipairs(rows) do
+        count = count + 1
+        out[#out + 1] = rowline({
+            { 'adv', nonempty(r.adv) or '普通' }, { 'type', nonempty(r.type) or '未注明' },
+            { 'sn', r.sneak == '是' and '附加偷袭' or '不附加' },
+            { 'un', nonempty(r.unch) or '原版' },
+            { 'book', nonempty(r.source) and bookVal(r.source, used) or '' },
+        })
+        out[#out + 1] = namecell(r)
+        out[#out + 1] = '| ' .. cell(r.adv)
+        out[#out + 1] = '| ' .. cell(nonempty(r.type) or '—')
+        out[#out + 1] = '| ' .. cell(r.brief)
+        out[#out + 1] = '| ' .. cell(r.source)
+    end
+    out[#out + 1] = '|}'
+    return panel(id, '搜名字、英文、效果', {
+        { 'adv', '档次', { order = '普通|高等' } },
+        { 'type', '类型', { order = 'Ex|Su|Sp|未注明' } },
+        { 'sn', '偷袭附加', { order = '附加偷袭|不附加' } },
+        { 'un', '《解放者》', { order = '原版|改写|掉链专有' } },
+        bookGroup(used),
     }, count) .. '\n' .. table.concat(out, '\n')
 end
 

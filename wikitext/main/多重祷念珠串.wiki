@@ -2,7 +2,7 @@
 |name=多重祷念珠串
 |english_name=Strand of Many Prayer Beads
 |category=奇物
-|aura=多种微弱灵光
+|aura=多种微弱灵氲
 |cl=4级
 |price=900gp
 |weight=0.5磅

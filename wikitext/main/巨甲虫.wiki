@@ -9,7 +9,7 @@
 |other=CMD 对抗摔绊+8
 |size=小型
 |adv_size=中型
-|speed=20尺，飞行20尺（笨拙）
+|speed=20尺，飞行20尺（不良）
 |ac=+6天生护甲
 |attack=啮咬（1d6）
 |adv_attack=啮咬（1d8）
@@ -18,7 +18,5 @@
 |adv_sa=践踏（1d4）
 |sq=黑暗视觉
 }}
-
-{{FAQ|v5748eaic9o7x}}
 
 [[分类:动物伙伴]]

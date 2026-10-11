@@ -162,7 +162,7 @@
 |ref=+3
 |will=+1
 |speed=30 尺
-|melee=噬咬 +1（1d4）
+|melee=啮咬 +1（1d4）
 |str=11
 |dex=12
 |con=15
@@ -196,7 +196,7 @@
 |ref=+4
 |will=+3
 |speed=20 尺，攀爬 20 尺
-|melee=噬咬 +4（1d3–1）
+|melee=啮咬 +4（1d3–1）
 |space=2–1/2 尺
 |reach=0 尺
 |str=8
@@ -232,4 +232,4 @@
 <div class="monster-table-wrap"><table class="wikitable"><tr><th>魔宠</th><th>特殊能力</th></tr><tr><td>鼯鼠</td><td>主人飞行检定 +3</td></tr><tr><td>狐狸</td><td>主人反射检定 +2</td></tr><tr><td>山羊</td><td>主人生存检定 +3</td></tr><tr><td>水獭</td><td>主人游泳检定 +3</td></tr><tr><td>猪</td><td>主人交涉检定 +3</td></tr><tr><td>浣熊</td><td>主人手上功夫检定 +3</td></tr></table></div>
 }}
 
-本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=172091.msg545503#msg545503 【B3】魔宠（Familiar）]，译者：原子能青蛙）。

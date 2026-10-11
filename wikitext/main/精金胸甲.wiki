@@ -3,7 +3,7 @@
 |english_name=Adamantine Breastplate
 |cat=特殊魔法护甲
 |base=[[精金]][[胸甲]]
-|aura=无灵光（非魔法）
+|aura=无灵氲（非魔法）
 |slot=护甲
 |price=10,200 gp
 |weight=30磅

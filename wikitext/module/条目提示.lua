@@ -125,7 +125,7 @@ function p.item(frame)
     if not s then return fail(name) end
     local cat = s.category or ''
     if has(s.slot) then cat = cat .. '　' .. s.slot end
-    local meta = seg('价格', s.price) .. seg('重量', s.weight) .. seg('灵光', s.aura)
+    local meta = seg('价格', s.price) .. seg('重量', s.weight) .. seg('灵氲', s.aura)
         .. seg('CL', s.cl) .. seg('伤害', s.dmg) .. seg('重击', s.crit)
         .. seg('射程', s.range) .. seg('类型', s.type)
     local craft = ''

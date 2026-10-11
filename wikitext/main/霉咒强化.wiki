@@ -1,0 +1,10 @@
+{{Feat
+|name=霉咒强化
+|english_name=Bolster Jinx
+|description=你抵抗某些效果的能力，不知怎的让被你霉咒的生物更难做到同样的事。
+|prerequisites=[[强韧加强]]、[[钢铁意志]]或[[闪电反射]]，[[半身人霉咒]]特性。
+|benefit=如果你拥有强韧加强、闪电反射或钢铁意志专长，被霉咒的目标在强韧、反射或意志豁免上承受的减值分别增加2点。如果你拥有其中不止一个专长，额外的减值适用于所有对应的豁免。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=81324.msg767266#msg767266 [Player Companion]格拉列昂的半身人（Halflings of Golarion）]，译者：sleepinglord；按 AoN 核对过。
+|source_name=格拉利昂的半身人
+|source_url=https://pf1chm.pages.dev/topics/page_572
+}}

@@ -55,4 +55,4 @@
 <div class="monster-table-wrap"><table class="wikitable"><tr><th>种类</th><th>CR</th><th>体型</th><th>HD</th></tr><tr><td>[[绿刺蝎]]</td><td>1/4</td><td>超小型</td><td>1D8</td></tr><tr><td>[[幽灵蝎]]</td><td>1/2</td><td>小型</td><td>2D8</td></tr><tr><td>[[岩穴蝎]]</td><td>1</td><td>中型</td><td>3D8</td></tr><tr><td>[[陷阱蝎]]</td><td>8</td><td>超大型</td><td>10D8</td></tr><tr><td>[[巨帝王蝎]]</td><td>11</td><td>巨型</td><td>16D8</td></tr><tr><td>黑蝎</td><td>15</td><td>超巨型</td><td>22D8</td></tr></table></div>
 }}
 
-本页译自《[[怪物图鉴]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=59924.msg557042#msg557042 【B1】蝎子（Scorpion）]，译者：原子能青蛙）。

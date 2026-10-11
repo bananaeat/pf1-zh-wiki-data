@@ -45,4 +45,4 @@
 <div class="monster-table-wrap"><table class="wikitable"><tr><th>水母种类</th><th>CR</th><th>体型</th><th>HD</th></tr><tr><td>[[死神之颅水母]]</td><td>1</td><td>小型</td><td>2</td></tr><tr><td>猩红水母</td><td>4</td><td>中型</td><td>5</td></tr><tr><td>[[蓝宝石水母]]</td><td>11</td><td>超大型</td><td>12</td></tr><tr><td>吸血水母</td><td>14</td><td>巨型</td><td>16</td></tr><tr><td>鲸水母</td><td>17</td><td>超巨型</td><td>20</td></tr></table></div>
 }}
 
-本页译自《[[怪物图鉴2]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴2]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=59246.msg549484#msg549484 【B2】巨水母与水母群（Jellyfish, Giant & Jellyfish Swarm）]，译者：原子能青蛙）。

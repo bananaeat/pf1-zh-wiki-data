@@ -1,0 +1,48 @@
+{{速查导航}}
+{{怪物
+|name=血毛虫
+|english_name=Caterpillar, Blood
+|cr=4
+|xp=1,200
+|alignment=绝对中立
+|size=大型
+|type=虫类
+|init=+0
+|senses=黑暗视觉 60 尺；察觉 +0
+|description=这条巨大的毛虫身上覆盖着数百根锋利的带毒刚毛。
+|ac=19，接触 9，措手不及 19（+10 天生，–1 体型）
+|hp=37（5d8+15）
+|fort=+7
+|ref=+1
+|will=+1
+|defensive=刚毛
+|immune=影响心灵效果
+|speed=30 尺，攀爬 30 尺
+|melee=啮咬 +8（2d6+6），刚毛 +3（1d8+3 外加毒素）
+|space=10 尺
+|reach=10 尺
+|special_attacks=毒素，织网（+2 远程，DC 15，5 hp）
+|str=22
+|dex=11
+|con=17
+|int=–
+|wis=11
+|cha=2
+|bab=+3
+|cmb=+10
+|cmd=20（无法被摔绊）
+|skills=[[攀爬]] +14
+|sq=压缩
+|environment=温带或温暖森林
+|organization=单独，成对，或一窝（3–12 只）
+|treasure=无
+|special_abilities={{怪物能力|刚毛|Ex|以天生攻击或非长触及近战武器攻击血毛虫的生物必须通过 DC 16 的反射豁免，否则承受如同血毛虫以刚毛击中该生物所造成的伤害。豁免 DC 基于敏捷，并包含 +4 种族加值。}}
+{{怪物能力|毒素|Ex|刚毛—伤口；豁免 强韧 DC 15；频率 每轮 1 次，持续 6 轮；效果 1d4 力量；痊愈 1 次豁免。}}
+|source=怪物图鉴5
+|lore=
+血毛虫是巨型毛虫中体型最大的一类。这些巨大的虫类从腐肉中汲取养分，如同许多蝴蝶以腐烂果实为食。它们的下颚后方有纺丝器，能操控丝线，毛虫可吐出丝线织网以束缚猎物。它们的毒液会削弱受影响生物的肌肉力量，帮助毛虫压制并吞食甚至大型、强壮且敏捷的猎物。
+
+出处：《怪物图鉴5》第 51 页
+}}
+
+本页译自《[[怪物图鉴5]]》，译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=171519.0 【B5】血毛虫（Caterpillar, Blood）]（译者：dr.fate），按 AoN 校对。

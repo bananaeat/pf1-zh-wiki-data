@@ -1,6 +1,7 @@
 {{魔法物品
 |name=鹰爪剑
 |english_name=Talon Sword
+|aon=MagicWeaponsDisplay.aspx?ItemName=Talon%20Sword%20(normal)
 |cat=特殊魔法武器
 |base=[[重剑]]（炼银）
 |enh=+2 护体

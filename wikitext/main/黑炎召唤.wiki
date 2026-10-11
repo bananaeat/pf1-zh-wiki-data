@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Plane-Hopper's Handbook pg. 5），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=黑炎召唤
+|english_name=Blackfire Summoning
+|description=你学会了让自己的召唤对位面的结构造成破坏，使你的魔法所过之处燃起黑炎。
+|prerequisites=[[神圣召唤]]。
+|benefit=当你召唤单个邪恶异界生物时，它会在一阵黑炎的闪光中现身，伤害所有与之相邻的非邪恶生物。伤害量等于被召唤生物CR的两倍。受影响的生物可进行一次意志豁免（DC = 用于召唤该生物的法术的DC）以使这一伤害减半。以黑炎召唤强化的法术，所占用的法术位比该法术的实际环阶高1环。如果你拥有黑炎契约职业能力，对你为黑炎契约所选择的一种或多种类型的被召唤异界生物应用本专长时，不会提高法术的有效环阶。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Blackfire%20Summoning
+}}

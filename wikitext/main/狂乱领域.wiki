@@ -9,8 +9,8 @@
 ===狂乱感知 (Vision of Madness, Sp)===
 {{:狂乱感知}}
 
-===狂乱灵光 (Aura of Madness, Su)===
-{{:狂乱灵光}}
+===狂乱灵氲 (Aura of Madness, Su)===
+{{:狂乱灵氲}}
 
 ==狂乱领域法术==
 {| class="wikitable"

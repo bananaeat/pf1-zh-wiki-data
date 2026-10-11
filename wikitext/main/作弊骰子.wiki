@@ -1,6 +1,7 @@
 {{物品
 |name=作弊骰子
 |english_name=Loaded dice
+|aon=EquipmentMiscDisplay.aspx?ItemName=Loaded%20dice%20(average)
 |category=冒险装备
 |price=10 GP（普通作弊骰子），50 GP（精品作弊骰子）
 |weight=-磅

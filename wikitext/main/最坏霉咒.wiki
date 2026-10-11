@@ -1,0 +1,10 @@
+{{Feat
+|name=最坏霉咒
+|english_name=Worst Case Jinx
+|description=你的霉咒会妨碍有益法术。
+|prerequisites=知识（神秘）5级，[[半身人霉咒]]特性。
+|benefit=被霉咒的目标身上的有益可变效果（例如[[援助术]]、各种治疗类法术、[[虚假生命]]、[[次等复原术]]所治疗的可变属性伤害等等）总是取该效果的最小可能数值。例如，5级牧师对该目标施放[[治疗重伤]]，只能治疗8点生命值（3d8+5的最小值）。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=81324.msg767266#msg767266 [Player Companion]格拉列昂的半身人（Halflings of Golarion）]，译者：sleepinglord；按 AoN 核对过。
+|source_name=格拉利昂的半身人
+|source_url=https://pf1chm.pages.dev/topics/page_572
+}}

@@ -1,39 +1,57 @@
-<div class="well" style="margin:.2em 0"><small>'''本页尚未汉化。'''民间汉化的 CHM 合集里没有这个种族，正文取自 [https://aonprd.com Archives of Nethys] 的英文原文。认领翻译见 [[待办事项]]。</small></div>
+{{Source|异能怪物图鉴|Occult Bestiary}}
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Occult Bestiary pg. 50），CHM 汉化里没有这个种族的译文，未经人工校对。}}
 {{速查导航|here=种族}}
 {{种族卡
 |属性=+2智力，+2感知，-2体质
 |体型=中型
 |速度=30尺
 |视觉=昏暗视觉
+|语言=通用语以及轮回语
 }}
-{{种族卡
-|属性=+2智力，+2感知，-2体质
-|体型=中型
-|速度=30尺
-|视觉=昏暗视觉
-}}
-'''重生轮回者'''（Reborn Samsaran）是 Pathfinder 1st Edition 的一个种族。
+'''重生轮回者'''（Reborn Samsaran）是[[轮回者]]中的一类。有时，轮回者会在格外戏剧性的情感处境中死去，致使其灵魂在最终转生之前徘徊于灵界。这段灵魂之旅磨损了轮回者与前世之间的联系，却增强了他解读他人过去与现在的能力。
 
-'''Source''' ''Occult Bestiary pg. 50''
+== 重生轮回者种族特性 ==
 
-Sometimes a samsaran perishes under especially dramatic emotional circumstances, causing its soul to wander the Ethereal Plane before finally reincarnating. This spirit journey frays the samsaran’s connection to his past lives but strengthens his ability to read others’ pasts and present.
+重生轮回者由其职业等级定义——他们没有种族生命骰。所有重生轮回者都具有以下种族特性。
 
-== Reborn Samsaran Racial Traits ==
+=== +2智力，+2感知，-2体质 ===
 
-Reborn samsarans are defined by their class levels—they don’t have racial Hit Dice. All reborn samsarans have the following racial traits.
+重生轮回者洞察力敏锐、学习迅速，但身体往往比较虚弱。
 
-* '''+2 Intelligence, +2 Wisdom, –2 Constitution''': Reborn samsarans are insightful and learn quickly, but their bodies tend to be frail.
-* '''Medium''': Reborn samsarans are Medium creatures and have no bonuses or penalties due to their size.
-* '''Normal Speed''': Reborn samsarans have a base speed of 30 feet.
-* '''Low-Light Vision''': Reborn samsarans can see twice as far as humans in conditions of dim light.
-* '''Psychic Attunement''': Reborn samsarans receive Psychic Virtuoso as a bonus feat at 1st level. Those who can’t use occult skill unlocks at 1st level instead gain the Psychic Sensitivity feat as a bonus feat.
-* '''Reborn Magic''': A reborn samsaran with a Charisma score of 11 or higher can cast the following spells (as per the psychic magic universal monster rule [see page 2], using his Charisma modifier to determine the DCs): ''burst of insight''OA (1 PE), ''detect psychic significance''OA (0 PE), ''object reading''OA (2 PE), and ''psychic reading''OA (1 PE). The caster level is equal to the reborn samsaran’s level. The reborn samsaran has a reservoir of 5 PE per day.
-* '''Special Qualities''': A reborn samsaran gains the following special qualities.
-''Aura Transparency'': A reborn samsaran has difficulty hiding his psychic signatures. The DC of any skill check made to read his aura decreases by 5, and the check takes one-tenth as long as normal to perform.
-''Psychic Learning'': When a reborn samsaran expends psychic energy to cast ''psychic reading'' to identify a humanoid’s class, he temporarily treats two of the target’s class skills as if they were class skills for him. He can use these skills untrained and gains a +2 insight bonus on such checks. These benefits last for 24 hours or until the reborn samsaran spends ''psychic energy'' to cast psychic reading again.
-'''Languages''': Reborn samsarans begin play speaking Common and Samsaran. Those reborn samsarans with high Intelligence scores can choose from the following: any human language, Abyssal, Aquan, Auran, Celestial, Draconic, Giant, Ignan, Infernal, and Terran.
+=== 中型体型 ===
 
-本页正文取自 [https://aonprd.com/RacesDisplay.aspx?ItemName=Reborn%20Samsaran Archives of Nethys]。全部种族见 [[种族]]。
+重生轮回者是中型生物，不因体型获得任何加值或者减值。
+
+=== 标准速度 ===
+
+重生轮回者的基本速度为30尺。
+
+=== 昏暗视觉 ===
+
+重生轮回者在昏暗光照下能够看到的距离是[[人类]]的两倍远。
+
+=== 异能调谐 ===
+
+重生轮回者在1级时获得[[神秘技能达人]]作为奖励专长。1级时无法使用[[神秘技能解放]]的重生轮回者，则改为获得[[异能敏感]]专长作为奖励专长。
+
+=== 重生魔法 ===
+
+魅力属性达到11或更高的重生轮回者可以施放下列法术（依[[异能魔法]]通用怪物规则，见本书第2页，使用魅力调整值决定豁免DC）：[[洞察力激增]]OA（1 PE）、[[侦测异能存在]]OA（0 PE）、[[读取物体]]OA（2 PE）和[[读心阅人]]OA（1 PE）。施法者等级等同于重生轮回者的等级。重生轮回者每天拥有5点PE的异能点储备。
+
+=== 特殊品质 ===
+
+重生轮回者获得下列特殊品质。
+
+'''灵氲透明'''：重生轮回者难以隐藏自己的异能印记。读取其灵氲的任何技能检定，DC降低5，且该检定所需的时间只有正常的十分之一。
+
+'''异能学习'''：重生轮回者消耗异能点施放[[读心阅人]]来辨识某个类人生物的职业时，会暂时将目标的两项职业技能视为自己的本职技能。他可以在未受训的情况下使用这些技能，并在这些检定上获得+2洞察加值。这些效益持续24小时，或直到重生轮回者再次消耗异能点施放读心阅人为止。
+
+=== 起始语言 ===
+
+通用语以及轮回语。拥有足够智力的重生轮回者可以选择下列语言作为额外语言：任何人类语言，深渊语，水族语，风族语，天界语，龙语，巨人语，火族语，炼狱语以及土族语。
+
+本页由 AI 照 [https://aonprd.com/RacesDisplay.aspx?ItemName=Reborn%20Samsaran Archives of Nethys] 的英文原文译出。全部种族见 [[种族]]。
 
 [[分类:种族]]
-[[分类:待汉化]]
+[[分类:怪物种族]]
+{{种族}}

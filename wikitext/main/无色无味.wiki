@@ -1,7 +1,7 @@
 {{Feat
 |name=无色无味
 |english_name=Unseen Poison
-|description=你可以隐蔽随身毒物的[[魔法灵光]]。
+|description=你可以隐蔽随身毒物的[[魔法灵氲]]。
 |prerequisites=唬骗技能5级，[[手艺]]（制毒）技能5级，能够施放[[回避侦测]]
 |benefit=每当一个生物尝试使用魔法手段探测你携带的毒药时，他就必须通过一个DC=10+你的角色等级的施法者等级检定。如果该检定失败，此生物将在法术有效期间不能用它探测出任何你携带的毒物。
 |source=DTT

@@ -17,7 +17,7 @@
 |will=+1
 |immune=影响心灵效果
 |speed=30 尺，攀爬 30 尺
-|melee=噬咬 +6（1d8 +6 外加 毒素）
+|melee=啮咬 +6（1d8 +6 外加 毒素）
 |space=10 尺
 |reach=5 尺
 |special_attacks=蛛网（+4 远程，DC 19，5 HP）
@@ -36,11 +36,11 @@
 |environment=任意陆地
 |organization=单独，成对，或群聚（3–8）
 |treasure=偶有
-|special_abilities={{怪物能力|毒素|Ex|噬咬—伤口感染；豁免 强韧 DC 17；频率 每轮 1 次，持续 6 轮；效果 1d3 体质和恍惚；痊愈 通过 2 次豁免。此豁免 DC 基于体质，并有 +2 种族加值。}}
+|special_abilities={{怪物能力|毒素|Ex|啮咬—伤口感染；豁免 强韧 DC 17；频率 每轮 1 次，持续 6 轮；效果 1d3 体质和恍惚；痊愈 通过 2 次豁免。此豁免 DC 基于体质，并有 +2 种族加值。}}
 {{怪物能力|强韧蛛网|Ex|黑寡妇的蛛网在对抗击破或脱逃的 DC 上有 +4 加值。}}
 |source=怪物图鉴2
 |lore=
 这种蜘蛛的雌性体型大于雄性。雄性和一般的[[巨蜘蛛]]相同。（见 B1，258 页）
 }}
 
-本页译自《[[怪物图鉴2]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴2]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=172072.msg547167#msg547167 【B2】巨黑寡妇与巨狼蛛（Spider, Giant Black Widow & Spider, Giant Tarantula）]，译者：原子能青蛙）。

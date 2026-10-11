@@ -13,7 +13,7 @@
 -->{{#if:{{{size|}}}|<div class="ml"><span class="k">体型</span>{{{size}}}</div>}}<!--
 -->{{#if:{{{hd|}}}|<div class="ml wide"><span class="k">生命骰</span>{{{hd}}}</div>}}<!--
 -->{{#if:{{{senses|}}}|<div class="ml wide"><span class="k">感官</span>{{{senses}}}</div>}}<!--
--->{{#if:{{{aura|}}}|<div class="ml wide"><span class="k">灵光</span>{{{aura}}}</div>}}<!--
+-->{{#if:{{{aura|}}}|<div class="ml wide"><span class="k">灵氲</span>{{{aura}}}</div>}}<!--
 -->{{#if:{{{note|}}}|<div class="ml wide"><span class="k">备注</span>{{{note}}}</div>}}<!--
 --></div><!--
 -->{{#if:{{{ac|}}}{{{hp|}}}{{{saves|}}}{{{defense|}}}{{{weaknesses|}}}|<div class="monster-sec">防御</div><div class="monster-lines">{{#if:{{{ac|}}}|<div class="ml wide"><span class="k">AC</span>{{{ac}}}</div>}}{{#if:{{{hp|}}}|<div class="ml wide"><span class="k">HP</span>{{{hp}}}</div>}}{{#if:{{{saves|}}}|<div class="ml wide"><span class="k">豁免</span>{{{saves}}}</div>}}{{#if:{{{defense|}}}|<div class="ml wide"><span class="k">防御</span>{{{defense}}}</div>}}{{#if:{{{weaknesses|}}}|<div class="ml wide"><span class="k">弱点</span>{{{weaknesses}}}</div>}}</div>}}<!--
@@ -44,7 +44,7 @@
  |special_abilities={{怪物能力|制裁邪恶|Su|每天一次……}}
  }}
 
-<code>weaknesses</code>（弱点，排在防御一节）、<code>languages</code>（语言）、<code>aura</code>（灵光，排在感官后面）、<code>bab</code>（基本攻击加值，排在属性后面）是 2026-09-23 加的：老的模板页有这些字段落在卡片外面。
+<code>weaknesses</code>（弱点，排在防御一节）、<code>languages</code>（语言）、<code>aura</code>（灵氲，排在感官后面）、<code>bab</code>（基本攻击加值，排在属性后面）是 2026-09-23 加的：老的模板页有这些字段落在卡片外面。
 
 参数都可留空，留空的整节不出现。<code>nofooter=1</code> 去掉页脚导航
 （一页里调第二次时用），<code>nocat=1</code> 不进分类。

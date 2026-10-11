@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Plane-Hopper's Handbook pg. 30），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=沼泽居民
+|english_name=Swamp Dweller
+|description=你曾与郝金挂毯的泥口蜥蜴人一同训练，学会了他们的生存之道。
+|prerequisites=力量13，必须到访过郝金挂毯。
+|benefit=你的[[游泳]]检定获得+2加值。如果你拥有10级或更多的游泳等级，该加值提高为+4。你身处沼泽地形时，该加值翻倍。此外，你可以正常进入有浅沼泽的格子，进入有深沼泽的格子只消耗2格移动力。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Swamp%20Dweller
+}}

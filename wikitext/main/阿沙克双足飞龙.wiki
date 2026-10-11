@@ -37,7 +37,7 @@
 |skills=[[飞行]] +7;[[威吓]] +12;[[察觉]] +20;[[隐匿]] +9;[[游泳]] +25
 |racial_mods=+4 察觉
 |languages=龙语
-|sq=闭气
+|sq=屏息
 |environment=温带或温暖的丘陵
 |organization=单独，成对，或一群（3–5 条与 1–3 条双足飞龙）
 |treasure=标准

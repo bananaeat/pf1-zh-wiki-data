@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Wardens of the Reborn Forge pg. 49），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=稳固法术
+|english_name=Stable Spell
+|categories=超魔
+|pfs=否
+|description=你可以在[[原能魔法]]区域施法，且触发原能魔法事件的几率更低。
+|benefit=在原能魔法区域，稳固法术触发原能魔法事件的几率降低25%。若在几率降低后仍触发了原能魔法事件，稳固法术的施法者在避免该原能魔法事件的专注检定上获得+2加值。稳固法术占用的法术位比法术的实际环位高1环。
+|source_name=重生熔炉的守护者
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Stable%20Spell
+}}

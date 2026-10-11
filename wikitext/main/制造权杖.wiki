@@ -3,7 +3,7 @@
 |english_name=Craft Rod
 |categories=造物
 |pfs=否
-|description=你能制造魔法[[魔法物品#权杖|权杖]]。
+|description=你能制造魔法[[魔法物品/权杖|权杖]]。
 |prerequisites=施法者等级9级。
 |benefit=你能制造魔法权杖。权杖的每1000gp基本价格将使制造时间延长1天。加工所需耗材的价值为成品价格的一半。更多信息请参见魔法物品规则。
 |source=CRB

@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Agents of Evil pg. 19），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=谄媚者
+|english_name=Sycophant
+|description=你引发敌人的怜悯或厌恶。
+|benefit=以一个标准动作，你可以尝试迫使一名敌人对你手下留情：进行一次[[交涉]]检定（DC = 15 + 目标的意志豁免加值）。若成功，目标下一次对你成功的攻击造成非致命伤害（目标不会因造成非致命伤害而承受通常的攻击减值）。无论成败，24小时内你都不能再次以本专长针对同一生物。
+|source=AoE
+|source_name=邪恶特务
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Sycophant
+}}

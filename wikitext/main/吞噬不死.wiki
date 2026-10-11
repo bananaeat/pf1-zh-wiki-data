@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Demons Revisited pg. 44），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=吞噬不死
+|english_name=Consume Undeath
+|pfs=否
+|description=你吞食不死生物同类时，会获得不死之力。
+|prerequisites=食魂魔，体质23。
+|benefit=作为整轮动作，你可以吞噬任何由你的窃亡凝视创造的不死生物身上驱动其行动的力量。这会立即摧毁该不死生物，但使你获得该生物的一项特殊攻击或超自然能力（从该不死生物拥有的下列能力中选择：体质吸取、疾病、能量吸取或麻痹）。获得的能力持续24小时或直到下一次日出，以先到者为准。
+|source_name=再探恶魔
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Consume%20Undeath
+}}

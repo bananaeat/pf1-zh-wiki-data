@@ -35,7 +35,7 @@
 |feats=[[顽强]];[[坚忍]]
 |skills=[[攀爬]] +10;[[飞行]] –5;[[察觉]] +5;[[隐匿]] +1
 |racial_mods=+4 察觉，+4 隐匿
-|sq=闭气
+|sq=屏息
 |environment=任意陆地
 |organization=单独，一对，或入侵群（3–12）
 |treasure=无

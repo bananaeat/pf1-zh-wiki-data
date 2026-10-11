@@ -1,0 +1,14 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 84），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=吞噬精华
+|english_name=Consume Essence
+|categories=战斗
+|pfs=否
+|description=被你吞下的生物会很快被吸收，并迅速被彻底湮灭。
+|prerequisites=基本攻击加值+6；邪恶阵营；活吞通用怪物特殊能力；必须是魔法兽、异界生物或不死生物类型。
+|benefit=当你在已吞下至少一个生物的情况下开始你的回合时，每个被吞下的生物必须成功通过一次强韧豁免（DC=10+你的生命骰的一半+你的魅力调整值），否则获得一个临时负等级。因这些负等级而死亡的被吞生物，如同被[[解离术]]一般被吞噬殆尽。这是一个死亡效果。
+|special=如果你是不死生物，每当一个被吞生物因本能力获得一个临时负等级，你就在被吞生物为逃脱而必须造成的生命值数量上增加5点临时生命值，最多15点临时生命值。这些临时生命值持续10分钟。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Consume%20Essence
+}}

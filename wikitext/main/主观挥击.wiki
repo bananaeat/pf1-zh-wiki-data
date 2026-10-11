@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Planar Adventures pg. 32），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=主观挥击
+|english_name=Subjective Slam
+|categories=战斗
+|description=当你掌控重力时，可以借助自身的动量造成残暴的撞击，把坠落这一行为本身变成毁灭性的武器。
+|prerequisites=体质13，感知13，[[主观机动]]，基本攻击加值+4或[[武僧]]等级3级。
+|benefit=你身处具有主观指向重力的位面时，所受的一切撞击伤害（例如坠落伤害）减半。在这类位面上，若你的“坠落”会使你撞上某个生物或物体，你可以用一个标准动作以毁灭性的力量朝其撞去。你必须通过接触攻击才能撞中生物或物体，你当前坠落速度每50尺，该攻击累计-1减值；经GM裁量，你可以自动命中墙壁之类的庞大物体。被这次挥击命中的生物或物体，你当前坠落速度每50尺受到1d6点钝击伤害，最多6d6，并依据你当前的主观指向重力，以你当前的速度开始坠落。
+|source=PA
+|source_name=位面冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Subjective%20Slam
+}}

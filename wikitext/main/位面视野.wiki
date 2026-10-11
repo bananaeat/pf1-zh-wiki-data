@@ -3,7 +3,7 @@
 |english_name=Planetar's Visions
 |type=种族
 |prerequisites=[[神裔]]（天使裔）
-|description=从你还是个孩子开始，你就梦想着以后能砍杀大群的扭曲恶魔。每当你对一个邪恶异界生物造成了近战重击，你可以忽略相当于你武器重击倍数的伤害减免（如果它有的话），该效果不会将伤害减免降低到0以下。
+|description=从你还是个孩子开始，你就梦想着以后能砍杀大群的扭曲恶魔。每当你对一个邪恶异界生物造成了近战重击，你可以忽略相当于你武器重击倍率的伤害减免（如果它有的话），该效果不会将伤害减免降低到0以下。
 |source_name=天界血脉
 |source_url=https://pf1chm.pages.dev/topics/page_828.html
 }}

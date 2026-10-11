@@ -1,6 +1,7 @@
 {{物品
 |name=破损的淡蓝色艾恩石
 |english_name=Pale Blue Rhomboid (Cracked) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Pale%20Blue%20Rhomboid
 |category=艾恩石
 |aura=强烈各种
 |cl=12

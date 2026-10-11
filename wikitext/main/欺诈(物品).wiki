@@ -1,5 +1,6 @@
 {{物品
 |name=欺诈
+|english_name=Deceptive
 |category=奇物
 |aura=中等幻术系
 |cl=9级

@@ -10,7 +10,7 @@
 |dmg_m=2d4
 |crit=×3
 |type=穿刺
-|special=卸武，长武
+|special=缴械，长武
 |groups=长柄
 |description=和[[三叉戟]]外观相似，刺叉的顶端有一根长矛尖，两侧各伴有一片短小而弯曲的刃。
 |source=核心规则书、极限宝具

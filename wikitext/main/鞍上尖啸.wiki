@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Goblins of Golarion pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=鞍上尖啸
+|english_name=Saddle Shrieker
+|categories=战斗
+|pfs=否
+|description=在鼓动坐骑战斗时，你有时会忘乎所以。
+|prerequisites=地精，[[骑术]]1级。
+|benefit=你可以选择在所有攻击检定和战技检定上承受-1减值，使你的坐骑在所有以天生武器进行的攻击检定和伤害检定上获得+1加值。这些效果对你和你的坐骑持续1轮。当你的基本攻击加值达到+4，此后每提高4点，这一减值增加-1，坐骑的攻击和伤害加值增加+1，最高为+5。你必须在进行攻击检定之前选择使用本专长。
+|source=GoG
+|source_name=格拉利昂的地精
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Saddle%20Shrieker
+}}

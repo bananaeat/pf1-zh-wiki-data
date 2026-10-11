@@ -1,0 +1,12 @@
+{{Feat
+|name=精通注能武器
+|english_name=Improved Infuse Weapon
+|pfs=否
+|description=当你为武器注能时，你可以额外添加一项魔法性质。
+|prerequisites=注能武器特殊能力，魅力27。
+|benefit=当你为一件武器注能时，你可以为该武器额外添加价值+1的武器性质；这既可以用来把被注能为+1武器的武器提升为+2武器，也可以用来赋予它[[炽焰]]、[[护体]]、[[锐锋]]或《核心规则书》中任何其他+1性质。该效果在你为武器注能时自动生效，但你一次只能对你所持握的一件武器如此。
+|special=你可以多次选择本专长；每选择一次，你能同时使用精通注能武器的武器数量上限增加2。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=140681.msg1234242#msg1234242 【Demons Revisited】再探恶魔 专长部分]，译者：kichikuchan；按 AoN 核对过。
+|source_name=再探恶魔
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Infuse%20Weapon
+}}

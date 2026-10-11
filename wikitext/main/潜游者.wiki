@@ -5,7 +5,7 @@
 |type=种族
 |pfs=否
 |prerequisites=狗头人
-|description=游泳对你来说是与生俱来的本领，猎杀沼泽蝰蛇和其他水生生物也是。你能在水下屏住呼吸的轮数增加，增加值等于你的体质值。你在沼泽中和水下环境中的[[隐匿]]检定获得+2加值。
+|description=游泳对你来说是与生俱来的本领，猎杀沼泽蝰蛇和其他水生生物也是。你能在水下屏息的轮数增加，增加值等于你的体质值。你在沼泽中和水下环境中的[[隐匿]]检定获得+2加值。
 |source_name=格拉利昂的狗头人
 |source=KoG
 |source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Sneaky%20Swimmer

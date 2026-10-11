@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Horror Adventures pg. 87），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=吸干血液
+|english_name=Exsanguinate
+|categories=战斗
+|pfs=否
+|description=你以狂暴的速度吸食活物的血液，常常几秒之内就把生物吸干。
+|prerequisites=吸血通用怪物特殊能力，擒抱通用怪物特殊能力。
+|benefit=每轮一次，当你成功压制一名对手时，该对手受到你吸血造成的正常伤害的两倍。
+|source=HA
+|source_name=惧怖冒险
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Exsanguinate
+}}

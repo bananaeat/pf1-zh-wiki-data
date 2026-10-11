@@ -68,7 +68,7 @@
 '''逸闻知识''' ；3级时，获得逸闻知识，将全部角色等级视为有效吟游诗人等级。
 
 <div class="rule-def gloss"><div class="rd-t">吟游表演</div><div class="rd-b">7级时，获得激发勇气与提振技能的吟游表演，如同一名角色等级-4的吟游诗人，每天可用轮数等于其魅力修正+角色等级。</div></div>
-<div class="rule-def gloss"><div class="rd-t">多才多艺</div><div class="rd-b">11级时，选择一个表演技能获得多才多艺。他可以将两个相关技能上的全部技能等级免费重训。</div></div>
+<div class="rule-def gloss"><div class="rd-t">触类旁通</div><div class="rd-b">11级时，选择一个表演技能获得触类旁通。他可以将两个相关技能上的全部技能等级免费重训。</div></div>
 <div class="rule-def gloss"><div class="rd-t">博学</div><div class="rd-b">15级时，获得相当于5级吟游诗人的博学特性。</div></div>
 <div class="rule-def gloss"><div class="rd-t">[[额外表演]]</div><div class="rd-b">19级时，获得末日丧歌和 提振战力的吟游表演，如同一名角色等级-4的吟游诗人。</div></div>
 
@@ -76,7 +76,7 @@
 
 角色选择牧师作为次要职业将获得下列的次要职业特性。
 
-<div class="rule-def gloss"><div class="rd-t">神祇</div><div class="rd-b">1级时，必须选择一个与自身阵营在横或竖轴上相差共计一阶之内的神祇信奉。获得牧师的灵光，额外语言，行为准则与相反阵营的施法限制。他也获得了牧师的法术转换/自发施法能力，因此在混职适当准备施法职业时，只要法术列表里有适当的法术，就可以进行法术转换/自发施法。</div></div>
+<div class="rule-def gloss"><div class="rd-t">神祇</div><div class="rd-b">1级时，必须选择一个与自身阵营在横或竖轴上相差共计一阶之内的神祇信奉。获得牧师的灵氲，额外语言，行为准则与相反阵营的施法限制。他也获得了牧师的法术转换/自发施法能力，因此在混职适当准备施法职业时，只要法术列表里有适当的法术，就可以进行法术转换/自发施法。</div></div>
 <div class="rule-def gloss"><div class="rd-t">领域</div><div class="rd-b">3级时，选择一个所信奉神祇授予的领域，获得领域1级的[[神授力量]]，将角色等级视为有效牧师等级。</div></div>
 <div class="rule-def gloss"><div class="rd-t">引导</div><div class="rd-b">7级时，获得[[引导能量]]能力，如同一个角色等级-6的牧师，每日使用次数等于其魅力修正+1。</div></div>
 <div class="rule-def gloss"><div class="rd-t">[[精通引导]]</div><div class="rd-b">11级时，引导能量能力加强，如同一个角色等级-4的牧师。</div></div>
@@ -119,7 +119,7 @@
 
 角色选择圣武士作为次要职业将获得下列的次要职业特性。
 
-'''准则：'''1级时，获得圣武士的善良灵光，同时必须遵守圣武士的行为准则。
+'''准则：'''1级时，获得圣武士的善良灵氲，同时必须遵守圣武士的行为准则。
 
 '''[[侦测邪恶]]：'''3级时，可以像1级圣武士那样使用侦测邪恶。
 

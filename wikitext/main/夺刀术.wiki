@@ -3,7 +3,7 @@
 |english_name=Hold the Blade
 |categories=战斗
 |description=你可以在被偷袭的同时夺下对手手中的武器。
-|prerequisites=[[精通卸除武器]]，基本攻击加值+10
+|prerequisites=[[精通缴械]]，基本攻击加值+10
 |benefit=当你受到手持近战武器的敌人的[[夹击]]或偷袭伤害时，你可以透过一个[[直觉动作]]进行一次[[战技]]检定，以卸除对方的武器。你必须至少有一手空闲才能使用此专长。当你使出夺刀术之后，你将在下一轮开始之前承受-4AC的惩罚，你一轮只能使用此专长一次。
 |source=DEP
 |source_name=初探龙国

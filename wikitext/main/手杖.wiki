@@ -2,6 +2,7 @@
 {{装备
 |name=手杖
 |english_name=Cane
+|aon=EquipmentMiscDisplay.aspx?ItemName=Cane%20(common)
 |cat=冒险装备
 |price=1 sp（普通）；25 gp（典雅）；2 gp（简易）
 |weight=3磅（普通）；4磅（典雅）；3磅（简易）

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Plane-Hopper's Handbook pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=猎幽团队
+|english_name=Ghost Hunting Team
+|description=你对不死生物的憎恶是如此强烈，连你的盟友都能感受到。
+|prerequisites=[[暮行者]]，幽魂猎手种族特性。
+|benefit=当你使用幽魂猎手能力使自己的武器获得幽冥特殊能力时，你也可以同时影响你周围30尺内盟友的武器。你每天可以额外激活一次幽魂猎手。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Ghost%20Hunting%20Team
+}}

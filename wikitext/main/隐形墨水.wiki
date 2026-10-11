@@ -1,6 +1,7 @@
 {{物品
 |name=隐形墨水
 |english_name=Invisible ink
+|aon=EquipmentMiscDisplay.aspx?ItemName=Invisible%20ink%20(simple)
 |category=炼金工具
 |price=2 GP（简易），10 GP（一般），25 GP（精制），75 GP（高级）
 |weight=-磅（简易），-磅（一般），-磅（精制），-磅（高级）

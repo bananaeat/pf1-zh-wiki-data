@@ -1,0 +1,14 @@
+{{#addbodyclass:pf-rules}}{{速查导航|here=规则}}{{魔法物品导航|here=魔法物品/奇物}}
+{{消歧义|奇物}}
+
+“奇物”是任何不属于其他类别（如武器，法杖等等）的物品的总称。任何人都可以使用奇物，除非物品的描述另有说明。
+
+<div class="rule-def gloss"><div class="rd-t">物理描述</div><div class="rd-b">各不相同</div></div>
+<div class="rule-def gloss"><div class="rd-t">启动</div><div class="rd-b">使用激活型或者口令型，但具体细节则因物品而异。</div></div>
+<div class="rule-def gloss"><div class="rd-t">特殊品质</div><div class="rd-b">投骰d%。01 表示该奇物是有智能的，02-31 表示某些东西 (符号、雕刻之类) 提供了该奇物功能的一些线索，而32 – 100 则表示无特殊品质。智能物品有额外的能力，有时还有超凡的力量和特殊意志（见智能物品）。</div></div>
+
+有充能的奇物永远无法是智能的。
+
+{{AoN原文|384|Wondrous Items}}
+
+[[分类:规则]]

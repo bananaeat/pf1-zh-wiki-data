@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder Unchained pg. 154），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=不可阻挡的奇特
+|english_name=Unstoppable Esotery
+|categories=奇特
+|pfs=否
+|description=当你使用奇特施法材料施放法术时，你加固了法术的魔法结构，使其难以被阻止或移除。
+|benefit=当你在施放法术时使用奇特施法材料作为材料成分，你在施放该法术的专注检定上获得+2加值，并且在面对解除该法术的尝试时，该法术视为施法者等级高2级。这一提升与高等材料效果或有限施法带来的任何提升叠加。
+|source=PU
+|source_name=解放者
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Unstoppable%20Esotery
+}}

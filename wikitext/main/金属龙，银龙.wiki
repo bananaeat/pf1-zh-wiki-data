@@ -43,7 +43,7 @@
 |treasure=三倍
 |special_abilities={{怪物能力|变化形态|Su|银龙可以化身为任何动物或类人生物形态，每日三次，如同使用变形术。}}
 {{怪物能力|云行|Su|幼龙开始，银龙可以如同在地面上一般在云雾上行走。}}
-{{怪物能力|寒冷灵光|Su|老年开始，银龙被寒冷灵光所环绕。所有 5 尺内的生物在龙的回合开始时受到 1d6 点寒冷伤害。古龙的灵光延伸至 10 尺，太古龙的伤害增至 2d6。银龙可以随意愿以一个自由动作压制或启动本灵光。}}
+{{怪物能力|寒冷灵氲|Su|老年开始，银龙被寒冷灵氲所环绕。所有 5 尺内的生物在龙的回合开始时受到 1d6 点寒冷伤害。古龙的灵氲延伸至 10 尺，太古龙的伤害增至 2d6。银龙可以随意愿以一个自由动作压制或启动本灵氲。}}
 {{怪物能力|云雾视觉|Ex|青少年开始，银龙可以在云雾中完美视物。}}
 {{怪物能力|优雅飞翔|Ex|少年开始，银龙的飞行机动性比正常提升一个等级。}}
 {{怪物能力|麻痹喷吐|Su|代替锥形寒冷，银龙可以喷吐出锥形的麻痹气体。处于锥形范围内的生物必须通过强韧豁免，否则麻痹 1d6 轮加每年龄层 1 轮。}}
@@ -111,7 +111,7 @@
 |subtypes=寒系
 |init=+3
 |senses=龙类感官，云雾视觉；察觉：+35
-|aura=寒冷灵光，[[通用怪物规则#气势凶猛|气势凶猛]]（300尺，DC 29）
+|aura=寒冷灵氲，[[通用怪物规则#气势凶猛|气势凶猛]]（300尺，DC 29）
 |ac=38；接触：5；措手不及：38（-1敏捷，+33天生，-4体型）
 |hp=337（25d12+175）
 |fort=+21
@@ -159,7 +159,7 @@
 * 天生护甲 +6；喷吐武器 锥形，2d8 寒冷
 * 力量 13，敏捷 14，体质 13，智力 14，感知 15，魅力 14
 
-<div class="monster-table-wrap"><table class="wikitable"><tr><th>年龄层</th><th>特殊能力</th><th>施法者等级*</th></tr><tr><td>雏龙 Wyrmling</td><td>变化形态，寒系，寒冷免疫，麻痹喷吐</td><td>–</td></tr><tr><td>幼龙 Very young</td><td>云行，侦测邪恶</td><td>–</td></tr><tr><td>少年 Young</td><td>优雅飞翔</td><td>1 级</td></tr><tr><td>青少年 Juvenile</td><td>云雾视觉，[[羽落术]]</td><td>3 级</td></tr><tr><td>青年 Young adult</td><td>DR 5/魔法，法术抗力</td><td>5 级</td></tr><tr><td>成年 Adult</td><td>凶威，[[云雾术]]</td><td>7 级</td></tr><tr><td>壮年 Mature adult</td><td>DR 10/魔法</td><td>9 级</td></tr><tr><td>老年 Old</td><td>寒冷灵光，操纵风相</td><td>11 级</td></tr><tr><td>极老 Very old</td><td>DR 15/魔法</td><td>13 级</td></tr><tr><td>古龙 Ancient</td><td>反射之鳞，操控天气</td><td>15 级</td></tr><tr><td>上古龙 Wyrm</td><td>DR 20/魔法</td><td>17 级</td></tr><tr><td>太古龙 Great wyrm</td><td>真勇，反重力</td><td>19 级</td></tr></table></div>
+<div class="monster-table-wrap"><table class="wikitable"><tr><th>年龄层</th><th>特殊能力</th><th>施法者等级*</th></tr><tr><td>雏龙 Wyrmling</td><td>变化形态，寒系，寒冷免疫，麻痹喷吐</td><td>–</td></tr><tr><td>幼龙 Very young</td><td>云行，侦测邪恶</td><td>–</td></tr><tr><td>少年 Young</td><td>优雅飞翔</td><td>1 级</td></tr><tr><td>青少年 Juvenile</td><td>云雾视觉，[[羽落术]]</td><td>3 级</td></tr><tr><td>青年 Young adult</td><td>DR 5/魔法，法术抗力</td><td>5 级</td></tr><tr><td>成年 Adult</td><td>凶威，[[云雾术]]</td><td>7 级</td></tr><tr><td>壮年 Mature adult</td><td>DR 10/魔法</td><td>9 级</td></tr><tr><td>老年 Old</td><td>寒冷灵氲，操纵风相</td><td>11 级</td></tr><tr><td>极老 Very old</td><td>DR 15/魔法</td><td>13 级</td></tr><tr><td>古龙 Ancient</td><td>反射之鳞，操控天气</td><td>15 级</td></tr><tr><td>上古龙 Wyrm</td><td>DR 20/魔法</td><td>17 级</td></tr><tr><td>太古龙 Great wyrm</td><td>真勇，反重力</td><td>19 级</td></tr></table></div>
 }}
 
 本页译自《[[怪物图鉴]]》的怪物图鉴 CHM。

@@ -2,8 +2,8 @@
 |name=神圣召唤
 |english_name=Sacred Summons
 |description=你的神祇随时响应你的呼唤。
-|prerequisites=【灵光】职业特性，能够施展‘召唤怪物’。
-|benefit=在使用[[召唤怪物]]时，如果所召唤的怪物的阵营子类型与你的灵光完全一致，则你可以使用一个[[标准动作]]施展法术，而不是1轮的施法时间。
+|prerequisites=【灵氲】职业特性，能够施展‘召唤怪物’。
+|benefit=在使用[[召唤怪物]]时，如果所召唤的怪物的阵营子类型与你的灵氲完全一致，则你可以使用一个[[标准动作]]施展法术，而不是1轮的施法时间。
 |source=UM
 |source_name=极限魔法
 |source_url=https://pf1chm.pages.dev/topics/page_198.html

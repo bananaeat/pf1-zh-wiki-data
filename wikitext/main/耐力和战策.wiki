@@ -195,7 +195,7 @@ ________________________________________
 <div class="rule-def gloss"><div class="rd-t">专长效果</div><div class="rd-b">当你成功的对一个敌人使用了“太极推手”，你可以用一次迅捷动作对其进行一次战技检定以尝试[[擒抱]]他。</div></div>
 <div class="rule-def gloss"><div class="rd-t">战策</div><div class="rd-b">你可以花费1点耐力，在迅捷擒抱时获得2点加值。</div></div>
 
-=== [[炽烈光环|炽焰光环]]（ARG） ===
+=== [[炽烈灵氲|炽焰光环]]（ARG） ===
 
 尚无翻译
 
@@ -256,7 +256,7 @@ ________________________________________
 ________________________________________
 
 <div class="rule-def gloss"><div class="rd-t">先决条件</div><div class="rd-b">[[奥术打击]]，可以施放奥术魔法，[[血怒]]职业能力</div></div>
-<div class="rule-def gloss"><div class="rd-t">专长效果</div><div class="rd-b">当 你处于血怒状态下，你无需使用迅捷动作启动奥术打击——它将永久性生效。当你使用[[暴击]]，[[精通暴击]]或[[高等暴击]]专长进行攻击时，你的奥术打击伤害也会随着暴击造成的额外伤害骰数而翻倍。</div></div>
+<div class="rule-def gloss"><div class="rd-t">专长效果</div><div class="rd-b">当 你处于血怒状态下，你无需使用迅捷动作启动奥术打击——它将永久性生效。当你使用[[要害打击]]，[[精通要害打击]]或[[高等要害打击]]专长进行攻击时，你的奥术打击伤害也会随着暴击造成的额外伤害骰数而翻倍。</div></div>
 <div class="rule-def gloss"><div class="rd-t">战策</div><div class="rd-b">当你以奥术打击强化武器时，你可以通过花费5点耐力使其在持续时间内伤害+1。</div></div>
 
 === [[血腥强袭|血腥切割]]（APG） ===
@@ -353,7 +353,7 @@ ________________________________________
 
 ________________________________________
 
-<div class="rule-def gloss"><div class="rd-t">先决条件</div><div class="rd-b">[[精通卸武]]，[[双武器格斗]]。</div></div>
+<div class="rule-def gloss"><div class="rd-t">先决条件</div><div class="rd-b">[[精通缴械]]，[[双武器格斗]]。</div></div>
 <div class="rule-def gloss"><div class="rd-t">专长效果</div><div class="rd-b">当你装备两把武器，只要你成功的用其中一把卸除了敌人的武器，你可以消耗一次迅捷动作来用另一把武器立刻对其进行一次攻击</div></div>
 <div class="rule-def gloss"><div class="rd-t">战策</div><div class="rd-b">如果花费5点耐力，你可以用自由动作而非迅捷动作来发动攻击。</div></div>
 
@@ -470,7 +470,7 @@ ________________________________________
 ________________________________________
 
 <div class="rule-def gloss"><div class="rd-t">先决条件</div><div class="rd-b">精通擒抱，精通徒手打击，基本攻击加值+6或武僧5级。</div></div>
-<div class="rule-def gloss"><div class="rd-t">专长效果</div><div class="rd-b">当你擒抱一个比你体型最多大一级的生物，你可以用-5罚值来进行一次战技检定来尝试发动[[锁喉]]能力。如果你成功，你将你擒抱的敌人压制住，并使其陷入被锁喉 状态。只要你保持擒抱状态，你同时也能保持锁喉状态。一个被锁喉的生物无法呼吸或说话，因此不能施放带有语言成分的法术。被锁喉的生物必须屏住呼吸，否则 陷入[[环境规则#窒息|窒息]]状态。任何不需呼吸、免疫出血伤害或免疫重击的生物，也免疫于你的“锁喉”效果。一旦擒抱结束，锁喉也随之结束。</div></div>
+<div class="rule-def gloss"><div class="rd-t">专长效果</div><div class="rd-b">当你擒抱一个比你体型最多大一级的生物，你可以用-5罚值来进行一次战技检定来尝试发动[[锁喉]]能力。如果你成功，你将你擒抱的敌人压制住，并使其陷入被锁喉 状态。只要你保持擒抱状态，你同时也能保持锁喉状态。一个被锁喉的生物无法呼吸或说话，因此不能施放带有语言成分的法术。被锁喉的生物必须屏息，否则 陷入[[环境规则#窒息|窒息]]状态。任何不需呼吸、免疫出血伤害或免疫重击的生物，也免疫于你的“锁喉”效果。一旦擒抱结束，锁喉也随之结束。</div></div>
 <div class="rule-def gloss"><div class="rd-t">战策</div><div class="rd-b">如果花费2点耐力，锁喉所需承受的减值仅为-1。</div></div>
 
 === [[爪袭|利爪猛扑]]（ARG） ===
@@ -705,7 +705,7 @@ ________________________________________
 
 <div class="rule-def gloss"><div class="rd-t">先决条件</div><div class="rd-b">基本攻击加值+9</div></div>
 <div class="rule-def gloss"><div class="rd-t">专长效果</div><div class="rd-b">在确定重击的攻击检定中，获得+4的环境加值。</div></div>
-<div class="rule-def gloss"><div class="rd-t">战策</div><div class="rd-b">如果重击确认投出19或20，花费2点耐力可再次确认重击，如果成功，重击伤害倍数+1。你可继续确认重击，如果又投出19或20，便可继续花费耐力进行确认和提升重击倍数，如此往复。</div></div>
+<div class="rule-def gloss"><div class="rd-t">战策</div><div class="rd-b">如果重击确认投出19或20，花费2点耐力可再次确认重击，如果成功，重击伤害倍数+1。你可继续确认重击，如果又投出19或20，便可继续花费耐力进行确认和提升重击倍率，如此往复。</div></div>
 
 === [[重击熟稔|重击大师]]（核心） ===
 
@@ -743,7 +743,7 @@ ________________________________________
 
 <div class="rule-def gloss"><div class="rd-t">先决条件</div><div class="rd-b">【圣疗】或【堕落之触】职业特性，精通徒手打击，基本攻击加值+6。</div></div>
 <div class="rule-def gloss"><div class="rd-t">专长效果</div><div class="rd-b">当你用徒手打击命中一个生物，并且该生物可以被你的【圣疗】或【堕落之触】所伤害，你可以选择以迅捷动作消耗1次每日次数来对其造成正常伤害，如同你以标准动作使用了能力。该额外伤害不会被你的重击所加成。</div></div>
-<div class="rule-def gloss"><div class="rd-t">战策</div><div class="rd-b">如果使用[[圣战之拳]]时确认了重击，花费5点耐力可令额外伤害享受暴击翻倍加成。</div></div>
+<div class="rule-def gloss"><div class="rd-t">战策</div><div class="rd-b">如果使用[[圣战之拳]]时确认了重击，花费5点耐力可令额外伤害享受要害打击翻倍加成。</div></div>
 
 === [[怒涛碎击]]（UC） ===
 
@@ -954,18 +954,18 @@ ________________________________________
 ________________________________________
 
 <div class="rule-def gloss"><div class="rd-t">先决条件</div><div class="rd-b">[[要害打击]]，基本攻击加值+9。</div></div>
-<div class="rule-def gloss"><div class="rd-t">专长效果</div><div class="rd-b">每当你使用“要害打击”、“[[精通要害打击]]”或“[[高等要害打击]]”，你在要害打击附加的每次额外武器伤害上获得+2加值（最高总共+6）。这些附加伤害可以被重击倍数乘算。</div></div>
+<div class="rule-def gloss"><div class="rd-t">专长效果</div><div class="rd-b">每当你使用“要害打击”、“[[精通要害打击]]”或“[[高等要害打击]]”，你在要害打击附加的每次额外武器伤害上获得+2加值（最高总共+6）。这些附加伤害可以被重击倍率乘算。</div></div>
 <div class="rule-def gloss"><div class="rd-t">战策</div><div class="rd-b">花费5点耐力，你可获得+4伤害加值。</div></div>
 
-=== [[卸武重击]]（APG） ===
+=== [[缴械重击]]（APG） ===
 
 你的重击能够缴械敌人
 
 ________________________________________
 
-<div class="rule-def gloss"><div class="rd-t">先决条件</div><div class="rd-b">智力13，寓守于攻，[[精通卸除武器]]，基本攻击加值+9</div></div>
-<div class="rule-def gloss"><div class="rd-t">专长效果</div><div class="rd-b">当你的近战攻击成功重击时，除了攻击正常造成的伤害之外还能够卸除敌人的武器。如果你的重击确认检定超过了敌人的CMD，那么就能够将卸除敌人的武器，就如同进行了卸除武器战技检定一般。这不会引起借机攻击。</div></div>
-<div class="rule-def gloss"><div class="rd-t">战策</div><div class="rd-b">如果重击确认骰失败，花费2点耐力依然可以尝试[[卸武]]。重投重击确认投并以此与目标CMD对抗来尝试卸武。该重投只能尝试卸武，无法令此次攻击变为重击。</div></div>
+<div class="rule-def gloss"><div class="rd-t">先决条件</div><div class="rd-b">智力13，寓守于攻，[[精通缴械]]，基本攻击加值+9</div></div>
+<div class="rule-def gloss"><div class="rd-t">专长效果</div><div class="rd-b">当你的近战攻击成功重击时，除了攻击正常造成的伤害之外还能够卸除敌人的武器。如果你的重击确认检定超过了敌人的CMD，那么就能够将卸除敌人的武器，就如同进行了缴械战技检定一般。这不会引起借机攻击。</div></div>
+<div class="rule-def gloss"><div class="rd-t">战策</div><div class="rd-b">如果重击确认骰失败，花费2点耐力依然可以尝试[[缴械]]。重投重击确认投并以此与目标CMD对抗来尝试缴械。该重投只能尝试缴械，无法令此次攻击变为重击。</div></div>
 
 === [[虚招脱离]]（UC） ===
 

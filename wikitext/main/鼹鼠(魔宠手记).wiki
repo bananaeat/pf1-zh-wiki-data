@@ -32,7 +32,7 @@
 |cmd=5
 |feats=[[技能专攻]]（察觉）
 |skills=[[察觉]] +7
-|sq=闭气
+|sq=屏息
 |environment=任意陆地
 |organization=单独，一对，或一群（3–5）
 |treasure=无

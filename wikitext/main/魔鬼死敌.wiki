@@ -1,0 +1,13 @@
+{{Feat
+|name=魔鬼死敌
+|english_name=Devil's Foe
+|categories=伟业
+|pfs=否
+|description=你曾经只是又一个无助的受害者，而如今，连地狱最深的深坑里都回荡着你对手们的哀号。
+|prerequisites=在战斗中面对10个不同的魔鬼，并从其中每一个所发动的五次或更多攻击中受到伤害或遭受其他类型的伤势，期间没有陷入[[昏迷]]、逃跑，或以其他方式变得无法对它们还击。
+|benefit=你的攻击在绕过魔鬼的伤害减免时视为善良阵营。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=51645.msg474522#msg474522 [LFPG][ASL]偉業專長[翻譯完成]]，译者：PATIBAUL；按 AoN 核对过。
+|source=ASoL
+|source_name=安多安，自由之魂
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Devil%27s%20Foe
+}}

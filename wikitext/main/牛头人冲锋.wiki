@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Classic Monsters Revisited pg. 43），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=牛头人冲锋
+|english_name=Minotaur's Charge
+|description=你的冲锋能把敌人撞得踉跄后退，摔倒在地。
+|prerequisites=力量13，[[精通冲撞]]，[[通用怪物规则#强力冲锋|强力冲锋]]。
+|benefit=当你的冲锋攻击命中对手时，你还可以用自由动作发起一次冲撞。这不需要你进入对手所在的格子，也不会引发借机攻击。如果你成功将对手推开15尺或更远，他还会被击倒，陷入[[俯卧]]状态。
+|source_name=再探经典怪物
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Minotaur%27s%20Charge
+}}

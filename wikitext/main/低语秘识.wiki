@@ -1,0 +1,22 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Faction Guide pg. 58），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=低语秘识
+|english_name=Whispered Knowledge
+|categories=组织
+|pfs=否
+|description=你掌握着秘密知识，能够强化并完善你的不死之躯。
+|prerequisites=有实体的[[不死生物]]，默语之道15TPA。
+|benefit=从以下秘密中选择一个：
+
+鲜血之秘：在你以近战攻击对一个活体生物成功造成伤害之后，你可以以迅捷动作从武器上吸食该生物的鲜血，获得1d8临时生命值、+2力量强化加值和+1施法者等级加值。持续时间为目标每个生命骰10分钟，其余方面如同[[死亡丧钟]]法术。
+
+骸骨之秘：你的骨骼变得坚硬并钙化。你获得DR 5/钝击。
+
+头脑之秘：如同鲜血之秘，但你获得的是+2智力强化加值而非力量。此能力对无心智目标无效。
+
+坟墓之秘：你可以为自己的遗骸指定一个亵渎的容器，例如棺材、卡诺皮克罐或骨灰瓮。当你身处该容器内且不采取任何行动时，你获得快速治疗5。
+|special=你可以多次选择本专长，其效果不叠加。每次选择本专长，你学会一个新的秘密。
+|source=FM
+|source_name=组织指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Whispered%20Knowledge
+}}

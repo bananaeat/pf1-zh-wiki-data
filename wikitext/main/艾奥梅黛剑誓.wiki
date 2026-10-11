@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #26: The Sixfold Trial pg. 72），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=艾奥梅黛剑誓
+|english_name=Iomedaean Sword Oath
+|description=只要发誓永不使用长剑以外的武器，你就能达成通常只有最精锐的剑客才能做到的事。
+|prerequisites=[[长剑]]熟练，[[武器专攻]]（长剑），基本攻击加值+4，信仰[[艾奥梅黛]]。
+|benefit=你选取与长剑相关的专长时，视为4级战士。例如，你可以选取[[武器专精]]（长剑）专长。
+|special=如果你在战斗中使用长剑以外的近战或远程武器，你就会失去本专长的益处，直到你得到一次[[赎罪术]]为止。你仍可使用起到武器作用的法术（例如[[火焰刀]]和[[灵能武器]]），而不会影响你的誓言。
+|source_name=冒险之路26：六重审判
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Iomedaean%20Sword%20Oath
+}}

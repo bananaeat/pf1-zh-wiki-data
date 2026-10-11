@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Giants Revisited pg. 49），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=石之觉察
+|english_name=Stone Awareness
+|pfs=否
+|description=你能感知接触土地或岩石的生物。
+|prerequisites=感知13，[[察觉]]10级，石巨人。
+|benefit=当你接触土地或岩石（包括经过加工的石头）时，你获得15尺[[颤动感知]]，并获得颤动感知这一通用怪物能力的所有益处。
+|source_name=巨人再临
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Stone%20Awareness
+}}

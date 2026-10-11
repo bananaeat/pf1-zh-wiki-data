@@ -1,6 +1,7 @@
 {{物品
 |name=破损的淡红色艾恩石
 |english_name=Pale Ruby Trillian (Cracked) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Pale%20Ruby%20Trillian
 |category=艾恩石
 |aura=中等变化系
 |cl=12

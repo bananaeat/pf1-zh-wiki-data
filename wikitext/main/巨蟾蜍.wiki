@@ -18,7 +18,7 @@
 |will=+0
 |defensive=毒液皮肤
 |speed=30 尺，游泳 15 尺
-|melee=噬咬 +5（1d6 +6 外加攫抓）
+|melee=啮咬 +5（1d6 +6 外加攫抓）
 |space=10 尺
 |reach=10 尺
 |special_attacks=[[通用怪物规则#活吞|活吞]]（1d4 钝击，AC 12，2 HP）
@@ -46,4 +46,4 @@
 巨蟾蜍动物伙伴和巨蛙动物伙伴一样（见《怪物图鉴》第 135 页），只是它们在 4 级进化的时候没有巨蛙的舌舔和拉拽能力，取而代之的是毒液皮肤能力。
 }}
 
-本页译自《[[怪物图鉴2]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴2]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=59656.msg554068#msg554068 【B2】巨蟾蜍 & 冰河蟾蜍（Toad, Giant & Toad, Glacier）]，译者：原子能青蛙）。

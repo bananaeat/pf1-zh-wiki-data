@@ -50,8 +50,8 @@
 {{Source|进阶玩家指南|Advanced Player's Guide}}
 '''连接领域'''：黑暗领域
 
-===健忘灵光 (Aura of Forgetfulness, Su)===
-{{:健忘灵光}}
+===健忘灵氲 (Aura of Forgetfulness, Su)===
+{{:健忘灵氲}}
 
 ===替代领域法术===
 5环－[[弱能术]]；6环－[[修改记忆]]；9环－[[吸能术]]。

@@ -5,7 +5,7 @@
 
 {| class="wikitable sortable"
 |-
-! 物品（Item） 价格（Price） 重量（Weight） 凯登佳酿（Caydenbrew） 5 cp/啤酒杯 1/2磅 咖啡（Coffee） 1 cp/茶杯 1/2磅 寇兰庭葡萄酒（Corentyn wine） 15 gp/瓶 1/2磅 矮人烈酒（Dwarven stout） 4 cp/啤酒杯 1/2磅 格罗格酒（Grog） 2 cp/啤酒杯 1/2磅 加味咖啡（Kahve） 2 cp/茶杯 1/2磅 林诺姆蜜酒（Linnorm mead） 5 cp/啤酒杯 1/2磅 芒吉咖啡（Mwangi coffee） 3 cp/茶杯 1/2磅 古法威士忌（Oldlaw whiskey） 20 gp/瓶 1磅 甜蛋酒（Rumboozle） 1 sp/玻璃杯 1/2磅 茶（Tea） 2 cp/茶杯 1/2磅 茶道用茶（Tea, Ceremonial） 4 cp/茶杯 1/2磅 茶道用具（Tea ceremonial set） 25 gp 5磅 !!  !! 
+! 物品（Item） 价格（Price） 重量（Weight） 凯登佳酿（Caydenbrew） 5 cp/啤酒杯 1/2磅 咖啡（Coffee） 1 cp/茶杯 1/2磅 寇兰庭葡萄酒（Corentyn wine） 15 gp/瓶 1/2磅 矮人烈酒（Dwarven stout） 4 cp/啤酒杯 1/2磅 格罗格酒（Grog） 2 cp/啤酒杯 1/2磅 加味咖啡（Kahve） 2 cp/茶杯 1/2磅 林诺姆蜜酒（Linnorm mead） 5 cp/啤酒杯 1/2磅 莽吉咖啡（Mwangi coffee） 3 cp/茶杯 1/2磅 古法威士忌（Oldlaw whiskey） 20 gp/瓶 1磅 甜蛋酒（Rumboozle） 1 sp/玻璃杯 1/2磅 茶（Tea） 2 cp/茶杯 1/2磅 茶道用茶（Tea, Ceremonial） 4 cp/茶杯 1/2磅 茶道用具（Tea ceremonial set） 25 gp 5磅 !!  !! 
 |-
 | 物品（Item） || 价格（Price） || 重量（Weight）
 |-
@@ -23,7 +23,7 @@
 |-
 | 林诺姆蜜酒（Linnorm mead） || 5 cp/啤酒杯 || 1/2磅
 |-
-| 芒吉咖啡（Mwangi coffee） || 3 cp/茶杯 || 1/2磅
+| 莽吉咖啡（Mwangi coffee） || 3 cp/茶杯 || 1/2磅
 |-
 | 古法威士忌（Oldlaw whiskey） || 20 gp/瓶 || 1磅
 |-
@@ -51,7 +51,7 @@
 * [[格罗格酒]]
 * [[甜蛋酒〔一杯，茶杯〕]]
 * [[矮人烈酒〔一杯，啤酒杯〕]]
-* [[芒吉咖啡]]
+* [[莽吉咖啡]]
 * [[茶〔一杯，茶杯〕]]
 * [[茶道用茶〔一杯，茶杯〕]]
 

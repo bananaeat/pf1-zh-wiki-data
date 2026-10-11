@@ -1,42 +1,58 @@
-<div class="well" style="margin:.2em 0"><small>'''本页尚未汉化。'''民间汉化的 CHM 合集里没有这个种族，正文取自 [https://aonprd.com Archives of Nethys] 的英文原文。认领翻译见 [[待办事项]]。</small></div>
+{{消歧义|小野人(怪物)}}
+{{Source|怪物图鉴5|Bestiary 5}}
 {{速查导航|here=种族}}
 {{种族卡
 |属性=+2力量，+2感知，-2智力
 |体型=小型
 |视觉=昏暗视觉
+|语言=大脚语
 }}
-{{种族卡
-|属性=+2力量，+2感知，-2智力
-|体型=小型
-|视觉=昏暗视觉
-}}
-'''小野人'''（Orang-Pendak）是 Pathfinder 1st Edition 的一个种族。
+'''小野人'''（Orang-Pendak）是[[大脚野人]]这一物种的罕见分支，居住在偏远的山地丛林中。他们难以捉摸又害羞，很少被其他种族看见。由于与猿类（尤其是长臂猿和红毛猩猩）交好，又有着弓背的姿态和蓬乱的皮毛——从黄褐色或红色到深褐色或黑色不等——他们在远处常被误认为那些野兽。小野人训练猿和猴子为他们狩猎、作战，但尽管友谊深厚、外表相似，这两个物种并没有密切的亲缘关系。
 
-'''Source''' ''Bestiary 5 pg. 186''
+在偏远的聚居地中，小野人聚成半游牧的部落，在一个地区狩猎采集，直到食物和猎物变得稀少，再迁往下一片地区。许多部落按区域规律迁徙，让部分丛林得以恢复生机，并且只采集刚好够用的资源，以免破坏土地弥补损失的能力。
 
-Orang-pendaks are a rare offshoot of the sasquatch species that dwells in remote mountainous jungles. Elusive and shy, they are rarely seen by other races. Given their friendship with apes (gibbons and orangutans in particular) and their hunched posture and shaggy fur— ranging from tawny or reddish to dark brown or black— they are often mistaken for those beasts at a distance. Orang-pendaks train apes and monkeys to hunt and fight for them, but despite the friendship and similar appearance, the species are not closely related. Within their remote holds, Orang-pendaks cluster together into seminomadic tribes, hunting and gathering in a region until food and game becomes scarce, then moving on to the next area. Many tribes follow a regional pattern to this migration, allowing parts of the jungle to repopulate and gathering only enough substance so as not to disrupt the land’s ability to recoup the losses. Orang-pendaks range from 3 to 5 feet tall as adults, weighing up to 150 pounds, and they are quite strong for their size. Orang-pendaks are largely herbivorous, but sometimes hunt with spears, clubs, and bolas.
+小野人成年后身高3至5尺，体重最多150磅，就体型而言相当强壮。小野人以草食为主，但有时也会用矛、木棒和[[套牛绳]]狩猎。
 
-== Orang-Pendak Racial Traits ==
+== 小野人种族特性 ==
 
-'''+2 Strength, +2 Wisdom, –2 Intelligence''': Orang-pendaks are strong and intuitive, but not particularly clever.
+=== +2力量，+2感知，-2智力 ===
 
-'''Type''': Orang-pendaks are humanoids with the sasquatch subtype.
+小野人强壮而直觉敏锐，但并不特别聪明。
 
-'''Small''': Orang-pendaks are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on combat maneuver checks and to [[CMD]], and a +4 size bonus on Stealth checks.
+=== 生物类型 ===
 
-'''Forest Walker''': Orang-pendaks gain a +4 bonus on Climb and Stealth checks in forests and jungles.
+小野人属于类人生物，具有大脚子类型。
 
-'''Low-Light Vision''': Orang-pendaks can see twice as far as humans in conditions of dim light.
+=== 小型体型 ===
 
-'''Own Two Feet''': Orang-pendaks are extremely unnerved whenever they are riding another creature or on a vehicle, and they take a – 2 penalty on ability checks, attack rolls, damage rolls, saving throws, and skill checks when doing so.
+小野人是小型生物，AC获得+1体型加值，攻击检定获得+1体型加值，[[战技]]检定以及[[CMD]]受到-1减值，并且隐匿检定获得+4体型加值。
 
-'''Simian Empathy''': Orang-pendaks gain a +4 racial bonus on Handle Animal and wild empathy checks with apes and monkeys.
+=== 森林行者 ===
 
-'''Tear Apart''': Orang-pendaks have powerful upper bodies and gain a +2 racial bonus on Strength checks to break or burst an object. This bonus also applies on combat maneuver checks to sunder with their unarmed attacks.
+小野人在森林和丛林中进行攀爬和隐匿检定时获得+4加值。
 
-'''Languages''': Orang-pendaks begin play speaking Sasquatch. Orang-pendaks who have high Intelligence scores can choose from the following: Aklo, Common, Draconic, Goblin, Grippli, Sylvan, Vanaran, and Vishkanya.
+=== 昏暗视觉 ===
 
-本页正文取自 [https://aonprd.com/RacesDisplay.aspx?ItemName=Orang-Pendak Archives of Nethys]。全部种族见 [[种族]]。
+小野人在昏暗光照下能够看到的距离是[[人类]]的两倍远。
+
+=== 全靠双脚 ===
+
+小野人骑乘其他生物或乘坐载具时会极度不安，此时在属性检定、攻击检定、伤害检定、豁免检定和技能检定上承受-2罚值。
+
+=== 类人猿认同 ===
+
+小野人在对猿和猴子进行的[[驯养动物]]和野性认同检定上获得+4种族加值。
+
+=== 撕开 ===
+
+小野人拥有强健的上半身，在以力量检定破坏或撞破物体时获得+2种族加值。此加值同样适用于以徒手攻击进行的击破战技检定。
+
+=== 起始语言 ===
+
+小野人初始会说大脚语。智力较高的小野人可以选择下列语言：邪灵语、通用语、龙语、[[地精]]语、[[树蛙人]]语、木族语、[[灵猴族]]语和[[蝮血裔]]语。
+
+本页译自纯美苹果园论坛犬良人的[[小野人(怪物)]]页译文（《怪物图鉴5》），按 AoN 核对过。全部种族见 [[种族]]。
 
 [[分类:种族]]
-[[分类:待汉化]]
+[[分类:怪物种族]]
+{{种族}}

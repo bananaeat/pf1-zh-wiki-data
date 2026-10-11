@@ -1,6 +1,7 @@
 {{物品
 |name=破损的深红色艾恩石
 |english_name=Deep Red Sphere (Cracked) Ioun Stone
+|aon=MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Deep%20Red%20Sphere
 |category=艾恩石
 |aura=强烈各种
 |cl=12

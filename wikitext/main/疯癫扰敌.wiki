@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Goblins of Golarion pg. 25），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=疯癫扰敌
+|english_name=Combat Distraction
+|pfs=否
+|description=任何在你装疯卖傻时攻击你的人，都会让自己暴露在你盟友们凶狠的反击之下。
+|prerequisites=地精，[[特技]]1级，[[脱逃]]1级。
+|benefit=你可以用一个整轮动作，去做看似毫无用处的事。例如嘲笑另一个生物的不幸、在口袋里翻找零食、弯腰捡起一只看似奇怪的虫子，或者像海鸥一样拍打双臂试图飞上天。
+虽然你的举动像个疯子，但你难以预料的行为令人分心。只要你持续分散注意力并保持在范围内，你5尺内除地精以外的任何生物，在[[察觉]]检定和专注检定上都承受-2减值。这一减值可与其他地精的疯癫扰敌叠加，只要你们都与被扰乱的目标相邻。
+|source=GoG
+|source_name=格拉利昂的地精
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Distraction
+}}

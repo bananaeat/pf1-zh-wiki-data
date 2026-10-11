@@ -1,0 +1,10 @@
+{{Feat
+|name=拾荒者之幸
+|english_name=Scavenger's Luck
+|description=你懂得哄老旧的科技乖乖运作。
+|prerequisites=[[知识]]（工程）1级。
+|benefit=当你使用一件老旧科技物品的检定结果出现故障时，你可以重骰一次。你必须在决定具体故障之前选择是否重骰，并且必须采用第二次的结果，即使它更糟。你使用老旧科技物品时，掷出天然1不会自动引发故障。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=173283.msg1456304#msg1456304 科技指南（Technology Guide）]，译者：果园玛莉卡；按 AoN 核对过。
+|source_name=科技指南(战役设定)
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Scavenger%27s%20Luck
+}}

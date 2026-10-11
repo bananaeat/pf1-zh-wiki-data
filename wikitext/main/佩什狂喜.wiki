@@ -1,0 +1,12 @@
+{{Feat
+|name=佩什狂喜
+|english_name=Pesh Euphoria
+|pfs=否
+|description=佩什的镇静效果使你难以被干扰。
+|prerequisites=[[萨希尔·菲恩]]或佩什成瘾。
+|benefit=当你服用一剂佩什时，除其正常的初始效果外，你在对抗情绪UM和恐惧效果的豁免检定上获得+2加值。每日一次，如果你在佩什的初始效果持续期间，对抗情绪UM或恐惧效果的豁免检定失败，你可以在1轮后以相同的DC再进行一次豁免检定。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=167121.msg1412739#msg1412739 【BM】四个佩什专长]，译者：LC01；按 AoN 核对过。
+|source=BM
+|source_name=黑市指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Pesh%20Euphoria
+}}

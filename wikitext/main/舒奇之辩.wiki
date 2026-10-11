@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #139: The Dead Roads pg. 71），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=舒奇之辩
+|english_name=Shoki's Argument
+|pfs=否
+|description=收集迷途亡魂的渡魂使通常倾向于用繁复的神学或直白的警告来召集误入歧途的灵魂，但有时需要更直接的手段。其中一位与你分享了一个行业秘诀。
+|prerequisites=能够施放[[打击死灵]]，角色等级3级，[[暮行者]]。
+|benefit=你的打击死灵法术造成的伤害增加1d6。6级时再增加1d6，此后每3级再增加1d6（18级时最高达7d6）。
+|source_name=冒险之路139：死者之路
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Shoki%27s%20Argument
+}}

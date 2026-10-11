@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Kobolds of Golarion pg. 24），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=远古龙语
+|english_name=Ancient Draconic
+|pfs=否
+|description=你使用龙族的古老语言来强化你的法术。
+|prerequisites=奥术施法者等级5级，会说龙语。
+|benefit=当你施展带有言语成分的奥术法术时，你在克服法术抗力的施法者等级检定上获得+1加值。如果你在施展依赖语言的奥术法术时说龙语，所有拥有语言能力的智慧生物都能听懂你的话。
+|source=KoG
+|source_name=格拉利昂的狗头人
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Ancient%20Draconic
+}}

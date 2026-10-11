@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Guide to Darkmoon Vale pg. 60），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=钻石之力
+|english_name=Strength of the Diamond
+|pfs=否
+|description=你与钻石军团同袍们的大量训练，增强了你抵御恐惧的能力。
+|prerequisites=体质13，感知13，角色等级3级，钻石军团成员。
+|benefit=任何本会使你陷入[[恐慌]]的效果，改为使你陷入[[惊惧]]；任何本会使你陷入惊惧的效果，改为使你陷入[[战栗]]；任何本会使你陷入战栗的效果对你无效。注意，你仍然可能因来自不同来源的多个恐惧效果而陷入更严重的惊惧，但每个来源都是在作用于你之前先行修正的。此外，你在对抗恐惧效果的任何豁免检定上获得+2加值。
+|source_name=暗月谷指南
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Strength%20of%20the%20Diamond
+}}

@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Adventurer's Armory 2 pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=创意甲匠
+|english_name=Creative Armorsmith
+|categories=战斗
+|description=你能临时定制自己的护甲。
+|prerequisites=[[工艺]]（护甲）3级，[[知识]]（工程）3级。
+|benefit=花费1小时的工作，你可以无需花费地临时为你的护甲添加一项你选择的[[防御改装]]，或临时移除一项现有的改装。你必须能使用为护甲锻造而设计的精制工匠工具，才能进行这种改动。这种改动持续8小时。你以这种方式添加的防御改装只对你自己提供益处；其他任何穿戴者会承受该改装的缺点，但不获得其益处。
+|source_name=冒险者的军械库2
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Creative%20Armorsmith
+}}

@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Wilderness Origins pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=树人呼唤
+|english_name=Treant's Call
+|pfs=否
+|description=你学会了几个树人用来召唤树木助战的神秘语言词汇。
+|prerequisites=魅力17，能施展[[植物交谈]]，角色等级13级，[[伽瑟兰]]。
+|benefit=你可以每天一次以类法术能力施展[[活橡树术]]，但其持续时间只有10分钟。
+|source=WO
+|source_name=荒野源始
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Treant%27s%20Call
+}}

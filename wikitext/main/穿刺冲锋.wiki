@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Classic Monsters Revisited pg. 43），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=穿刺冲锋
+|english_name=Impaling Charge
+|pfs=否
+|description=你的冲锋会把对手穿在你致命的角上。
+|prerequisites=抵撞攻击，[[通用怪物规则#强力冲锋|强力冲锋]]。
+|benefit=当你作为冲锋的一部分用抵撞攻击命中对手时，你还可以用自由动作开始一次擒抱。你无需为开始这次擒抱额外进行接触攻击，也不会引发借机攻击。为开始擒抱而进行的初始擒抱检定中，不要加上你的体型修正（若为正值）。你的体型修正在之后所有检定中正常适用。
+|source_name=再探经典怪物
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Impaling%20Charge
+}}

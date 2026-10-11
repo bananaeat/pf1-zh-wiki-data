@@ -3,7 +3,7 @@
 |name=石中之灵
 |english_name=Spirits in the Stone
 |type=种族
-|prerequisites=[[人类]]（芒吉人）
+|prerequisites=[[人类]]（莽吉人）
 |description=你几乎本能地就能察觉废墟建筑中潜藏的危险。每当你身处废墟中时，你的先攻检定获得+2背景加值，对抗陷阱和自然危害的豁免检定获得+1背景加值。
 |source_name=烈焰传承玩家手册
 |source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Spirits%20in%20the%20Stone

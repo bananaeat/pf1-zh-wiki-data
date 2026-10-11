@@ -17,7 +17,7 @@
 |will=+2
 |immune=影响心灵效果
 |speed=30 尺，掘进 10 尺
-|melee=噬咬 +10（2d8 +7 外加 攫抓）
+|melee=啮咬 +10（2d8 +7 外加 攫抓）
 |space=10 尺
 |reach=5 尺
 |special_attacks=流沙陷阱
@@ -39,4 +39,4 @@
 在危险的沙漠深处，巨蚁狮在流沙之中构建陷阱。这些野兽潜伏在这些坑底，半埋着自己的身体，等待着粗心的猎物。
 }}
 
-本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴3]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=60369.msg561353#msg561353 【B3】巨蚁狮 & 巨蚁狮成虫（Ant Lion, Giant & Ant Lion, Giant Adult）]，译者：原子能青蛙）。

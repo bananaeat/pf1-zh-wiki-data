@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Plane-Hopper's Handbook pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=偶然之死
+|english_name=Chance Death
+|categories=起源
+|pfs=否
+|description=你可能是被闪电劈中，或者从马背上摔落，无论如何，你的死纯属运气不佳，是谁也无法预料的意外。
+|prerequisites=[[暮行者]]。
+|benefit=每天一次，若你会因一次攻击或豁免失败而死亡，你可以用一个直觉动作重掷该攻击或豁免检定。你必须采用第二次掷骰的结果，即使更差。11级时，你每天可以再使用本专长一次。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Chance%20Death
+}}

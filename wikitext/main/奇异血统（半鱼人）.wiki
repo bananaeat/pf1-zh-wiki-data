@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Bastards of Golarion pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=奇异血统（半鱼人）
+|english_name=Unusual Heritage (Gillman)
+|pfs=否
+|description=你的血统怪异或难以追溯，人们畏惧你那非凡的力量。
+|prerequisites=[[半鱼人]]。
+|benefit=作为所谓的「低等阿兹兰特人」，你拥有据说与神秘祖先相连的能力，那些祖先仍在守望着你和你的族人。你的预言系法术和类法术能力以高1级的施法者等级施展。此外，每天一次，当你完全浸没在水中时，你可以把[[占卜术]]作为类法术能力施展。
+|source=BoG
+|source_name=格拉利昂的混种
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Unusual%20Heritage%20%28Gillman%29
+}}

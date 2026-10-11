@@ -15,23 +15,23 @@
 |-
 | 2环法术 || CRB || 牛之力量（Bull's Strength） 减缓毒发（Delay Poison） 鹰之威仪（Eagle's Splendor） 枭之睿智（Owl's Wisdom） 移除麻痹（Remove Paralysis） || 抵抗能量伤害（Resist Energy） 护卫他人（Shield Other） 隐匿阵营（Undetectable Alignment） 诚实之域（Zone of Truth）
 |-
-| APG || 顽勇灵光（Aura of Greater Courage） 恩典（Bestow Grace） 生存勇气祝福（Blessing of Courage and Life） 亵渎抵抗（Corruption Resistance） 炽焰缠敌（Fire of Entanglement） 临时盔甲（Instant Armor） 光之枪（Light Lance） || 牺牲（Paladin's Sacrifice） 正义狂热（Righteous Vigor） 神圣链接（Sacred Bond） 彪勇骑冲（Saddle Surge） 光之尾迹（Wake of Light） 敬畏武器（Weapon of Awe） || 
+| APG || 顽勇灵氲（Aura of Greater Courage） 恩典（Bestow Grace） 生存勇气祝福（Blessing of Courage and Life） 亵渎抵抗（Corruption Resistance） 炽焰缠敌（Fire of Entanglement） 临时盔甲（Instant Armor） 光之枪（Light Lance） || 牺牲（Paladin's Sacrifice） 正义狂热（Righteous Vigor） 神圣链接（Sacred Bond） 彪勇骑冲（Saddle Surge） 光之尾迹（Wake of Light） 敬畏武器（Weapon of Awe） || 
 |-
 | UM || 秩序之箭（Arrow of Law） 圣盾术（Holy Shield） || 斗士法衣（Vestment of the Champion） || 
 |-
 | UC || 赋予武器熟练（Bestow Weapon Proficiency） 神箭术（Divine Arrow） 轻便盔甲（Effortless Armor） 共用忍受环境（Endure Elements, Communal） 防御祷言（Litany of Defense） 口才祷言（Litany of Eloquence） || 纠缠祷言（Litany of Entanglement） 正义祷言（Litany of Righteousness） 戒卫祷言（Litany of Warding） 魔化攻城器械（Magic Siege Engine） 共用防护混乱（Protection from Chaos, Communal） 共用防护邪恶（Protection from Evil, Communal） || 
 |-
-| ACG || 弹丸结界（Bullet Ward） 护卫宠伴（Shield Companion） || 灵光扩展（Widen Auras） || 
+| ACG || 弹丸结界（Bullet Ward） 护卫宠伴（Shield Companion） || 灵氲扩展（Widen Auras） || 
 |-
 | 3环法术 || CRB || 治疗中度伤（Cure Moderate Wounds） 昼明术（Daylight） 辨识谎言（Discern Lies） 解除魔法（Dispel Magic） 医疗坐骑（Heal Mount） || 反混乱/邪恶法阵（Magic Circle against Chaos/Evil） 高等魔化武器（Magic Weapon, Greater） 祈祷术（Prayer） 移除目盲/耳聋（Remove Blindness/Deafness） 移除诅咒（Remove Curse）
 |-
 | APG || 赐能术（Divine Transfer） 圣炎裁判（Fire of Judgment） 群体镇魂歌（Ghostbane Dirge, Mass） 神圣低语（Holy Whisper） || 禁令印记（Marks of Forbiddance） 神圣护甲（Sanctify Armor） 狂怒斗篷（Wrathful Mantle） || 
 |-
-| UM || 圣使灵气（Archon's Aura） 光辉胜利之刃（Blade of Bright Victory） || 鼹鼠祝福（Blessing of the Mole） || 
+| UM || 圣使灵氲（Archon's Aura） 光辉胜利之刃（Blade of Bright Victory） || 鼹鼠祝福（Blessing of the Mole） || 
 |-
 | UC || 速度爆发（Burst of Speed） 破晓之箭（Daybreak Arrow） 死亡化身（Deadly Juggernaut） 共用延迟毒发（Delay Poison, Communal） || 脱逃祷言（Litany of Escape） 视野祷言（Litany of Sight） 共用抵抗能量伤害（Resist Energy, Communal） || 
 |-
-| ACG || 授予灵光（Bestow Auras） 宁静斗篷（Mantle of Calm） || 高等护命屏障（Shield of Fortification, Greater） 高等反震屏障（Stunning Barrier, Greater） || 
+| ACG || 授予灵氲（Bestow Auras） 宁静斗篷（Mantle of Calm） || 高等护命屏障（Shield of Fortification, Greater） 高等反震屏障（Stunning Barrier, Greater） || 
 |-
 | 4环法术 || CRB || 破除结界（Break Enchantment） 治疗重伤（Cure Serious Wounds） 防死结界（Death Ward） 反制混乱（Dispel Chaos） 反制邪恶（Dispel Evil） || 圣剑术（Holy Sword） 审判烙印（Mark of Justice） 中和毒性（Neutralize Poison） 复原术（Restoration）
 |-

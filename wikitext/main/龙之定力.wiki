@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Dragons Revisited pg. 45），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=龙之定力
+|english_name=Dragon Discipline
+|pfs=否
+|description=你是一条强大而令人畏惧的龙。就连魔法也无法动摇你的思想或削弱你的决心。
+|prerequisites=感知17，基础意志豁免加值+10，任一守序阵营，龙类。
+|benefit=如果你受到影响心灵的惑控系或死灵系效应影响且豁免失败，你可以在1轮后以同样的DC再次进行豁免。你只有这一次额外的成功机会。
+|source_name=巨龙再临
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Dragon%20Discipline
+}}

@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Plane-Hopper's Handbook pg. 30），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=缥缈步伐
+|english_name=Ephemeral Tread
+|pfs=否
+|description=你能在肉身形态下获得寻梦师的一部分能力。
+|prerequisites=魅力15，[[寻梦师]]，[[知识]]（位面）5级。
+|benefit=每天一次，当你以肉身处于幻梦境时，可以用一个标准动作尝试一次不可能的行动，如同你身处醒梦体中一样。除你的魅力调整值外，不能对这次掷骰应用任何正面修正。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Ephemeral%20Tread
+}}

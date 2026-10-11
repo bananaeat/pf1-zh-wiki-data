@@ -157,4 +157,4 @@
 <div class="monster-table-wrap"><table class="wikitable"><tr><th>年龄层数</th><th>施法者等级</th><th>特殊能力</th></tr><tr><td>雏龙</td><td>（–）</td><td>地狱火，炼狱之护</td></tr><tr><td>幼龙</td><td>（–）</td><td>难知莫测</td></tr><tr><td>少年</td><td>（1级）</td><td>暴虐热炎</td></tr><tr><td>青少年</td><td>（3级）</td><td>位面同化</td></tr><tr><td>青年</td><td>（5级）</td><td>DR 5/混乱，法术抗力</td></tr><tr><td>成年</td><td>（7级）</td><td>号令之声</td></tr><tr><td>壮年</td><td>（9级）</td><td>DR 10/混乱</td></tr><tr><td>老年</td><td>（11级）</td><td>炼狱盟友</td></tr><tr><td>极老</td><td>（13级）</td><td>DR 15/混乱</td></tr><tr><td>古龙</td><td>（15级）</td><td>炼狱祈唤</td></tr><tr><td>上古</td><td>（17级）</td><td>DR 20/混乱</td></tr><tr><td>太古</td><td>（19级）</td><td>堕罪狱炎</td></tr></table></div>
 }}
 
-本页译自《[[怪物图鉴6]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴6]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=94128.msg872902#msg872902 【B6】位面龙（Planar Dragon）]，译者：风见幽华）。

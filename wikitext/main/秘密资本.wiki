@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Andoran, Birthplace of Freedom pg. 35），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=秘密资本
+|english_name=Secret Capital
+|pfs=否
+|description=你拥有家族人脉和秘密资金，可借此让事情更容易办成。
+|prerequisites=智力13，七大家族成员。
+|benefit=当你按照休整期规则使用gp购买资本时（《极限战役》第76页），只需支付正常花费的75%。
+|source_name=安多安：自由诞生之地
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Secret%20Capital
+}}

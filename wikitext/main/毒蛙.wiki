@@ -43,4 +43,4 @@
 你可以用巨化简单模板来创造一只更大的毒蛙，或者直接使用巨蛙的数据，再给它的啮咬加上毒素。
 }}
 
-本页译自《[[怪物图鉴]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=58960.msg546839#msg546839 【B1】巨蛙与毒蛙（Frog, Giant & Frog, Poison）]，译者：原子能青蛙）。

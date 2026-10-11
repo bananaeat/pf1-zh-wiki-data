@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder Campaign Setting pg. 59），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=神枪手
+|english_name=Gunslinger
+|pfs=否
+|description=你的火器技巧高超，开火时无需放松戒备。
+|prerequisites=基本攻击加值+4，[[武器专攻]]（任意火器），擅长任意火器。
+|benefit=当你用火器攻击时，不引发借机攻击。
+|normal=在受威胁的格子内使用任何远程武器攻击都会引发借机攻击。
+|source_name=探索者编年史：战役设定
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Gunslinger
+}}

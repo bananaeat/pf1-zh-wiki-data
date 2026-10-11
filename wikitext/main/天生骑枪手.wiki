@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #69: Maiden, Mother, Crone pg. 91），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=天生骑枪手
+|english_name=Natural Jouster
+|categories=战斗
+|pfs=否
+|description=几乎所有弋天人马都拥有以下专长，这一专长在半人马体型的生物中十分常见。
+|prerequisites=[[人马]]（或经GM裁定的任何半人马体型生物）。
+|benefit=你获得[[长枪]]熟练。你可以像骑乘时那样单手持用长枪，并且冲锋时用长枪造成双倍伤害。
+|source_name=冒险之路69：少女、母亲、老妪
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Natural%20Jouster
+}}

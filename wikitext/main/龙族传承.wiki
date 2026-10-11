@@ -1,0 +1,13 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Dragons pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=龙族传承
+|english_name=Draconic Heritage
+|pfs=否
+|description=龙的力量流淌在你的血脉中，而你已唤醒了它的潜能。
+|prerequisites=魅力13。
+|benefit=从下列选项中选择一种龙的类型。你获得所选龙类型的龙族传承能力。所有相关能力的豁免DC等于10+你生命骰的一半+你的魅力调整值。
+|special=此专长只能选取一次。如果你曾获得[[血脉狂怒者]]或术士血脉，必须选择龙族作为你的血脉（或经GM批准的、与其他龙类生物相关的血脉）。
+|source=LoD
+|source_name=巨龙遗产
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Draconic%20Heritage
+}}

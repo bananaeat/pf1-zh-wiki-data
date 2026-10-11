@@ -4,7 +4,7 @@
 |english_name=Longlung
 |type=种族
 |prerequisites=猴地精
-|description=你曾花上许多时间，趁退潮时在沉船和岸边潮池里搜寻闪亮的宝物。你在水下时的[[察觉]]检定获得+2背景加值，并且在有溺水危险之前，你能够屏住呼吸的轮数等于你体质值的三倍。
+|description=你曾花上许多时间，趁退潮时在沉船和岸边潮池里搜寻闪亮的宝物。你在水下时的[[察觉]]检定获得+2背景加值，并且在有溺水危险之前，你能够屏息的轮数等于你体质值的三倍。
 |source_name=内海种族
 |source=ISR
 |source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Longlung

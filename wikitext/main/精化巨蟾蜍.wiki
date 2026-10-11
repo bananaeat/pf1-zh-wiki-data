@@ -57,4 +57,4 @@
 
 {{AoN原文|1=MonsterDisplay.aspx?ItemName=Fey Giant Toad|2=Fey Giant Toad}}
 
-本页的属性块与前两段生态描述沿用站上「[[精化生物]]」页里来自民间汉化 CHM 的译文，数值已按 AoN 核过（DR 为 5/寒铁）；外观描写与后两段由 AI 译出。
+本页的属性块与前两段生态描述沿用站上「[[精化生物]]」页里来自民间汉化 CHM 的译文，数值已按 AoN 核过（DR 为 5/寒铁）；外观描写与后两段由 AI 译出（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=68158.msg634557#msg634557 【B3】精化生物（Fey Creature）]，译者：傻豆）。

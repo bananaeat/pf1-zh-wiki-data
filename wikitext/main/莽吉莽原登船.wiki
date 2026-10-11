@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Serpent's Skull Player's Guide pg. 11），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Trait
+|name=莽吉莽原登船
+|english_name=Boarded in Mwangi Expanse
+|type=战役
+|pfs=否
+|description=你是在莽吉莽原登上珍妮维尔号的，你曾在那里生活，或是最近途经那里。对于丛林的致命、栖息其中的生物以及在那里安家的各个民族，你不抱任何幻想。你获得通语作为一门额外语言，并且你所有关于丛林的[[知识]]（自然）检定获得+1背景加值。
+|source_name=Serpent's Skull Player's Guide
+|source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Boarded%20in%20Mwangi%20Expanse
+}}

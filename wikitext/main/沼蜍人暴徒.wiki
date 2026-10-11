@@ -18,7 +18,7 @@
 |ref=+2
 |will=+2
 |speed=20尺；游泳30尺
-|melee=精制品钉头锤+9（1d8+6），舌击+2对接触（粘性舌头）
+|melee=精制品钉头锤+9（1d8+6），舌舔+2对接触（粘性舌头）
 |ranged=精制品标枪+5（1d6+4）
 |special_attacks=恐怖蛙鸣（DC13）
 |tactics=<div class="ml wide"><span class="k">战斗中</span>沼蜍人暴徒会先掷出标枪，再冲入战斗。</div>

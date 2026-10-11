@@ -58,7 +58,7 @@ Pathfinder角色扮演游戏的预设动作系统很错综复杂——充满了�
 <div class="rule-def longterm"><div class="rd-t">爬行（移动）</div><div class="rd-b">俯卧时爬行5尺。</div></div>
 <div class="rule-def longterm"><div class="rd-t">挫败士气</div><div class="rd-b">你向30尺内可以看到并听到你的声音的敌人发出威胁，试图挫败他们。</div></div>
 <div class="rule-def longterm"><div class="rd-t">导向或重新导向一个法术</div><div class="rd-b">如果一个法术允许你将一个效果重新导向到一个新的目标，你可以采取此动作。</div></div>
-<div class="rule-def longterm"><div class="rd-t">[[卸武]]（攻击）</div><div class="rd-b">你试图卸武你的敌人。如果你的卸武战技检定成功，你的敌人丢弃一件你选择的携带或持有物品（即使它是用双手握住物品）。如果你超过敌人的CMD 10点或更多，敌人丢弃两项你所选择的物品。如果你的战技失败10点或更多，你会丢弃任何你用来卸武敌人的武器。</div></div>
+<div class="rule-def longterm"><div class="rd-t">[[缴械]]（攻击）</div><div class="rd-b">你试图缴械你的敌人。如果你的缴械战技检定成功，你的敌人丢弃一件你选择的携带或持有物品（即使它是用双手握住物品）。如果你超过敌人的CMD 10点或更多，敌人丢弃两项你所选择的物品。如果你的战技失败10点或更多，你会丢弃任何你用来缴械敌人的武器。</div></div>
 <div class="rule-def longterm"><div class="rd-t">解消法术</div><div class="rd-b">你解消了一个可解消法术的效果。</div></div>
 <div class="rule-def longterm"><div class="rd-t">拔出或收回武器</div><div class="rd-b">你拔出或收回武器。如果你的基础攻击加值为+0，此动作会触发借机攻击。</div></div>
 <div class="rule-def longterm"><div class="rd-t">挣脱[[擒抱]]</div><div class="rd-b">你试图通过尝试逃脱检定或战技检定来挣脱或获得对擒抱的控制。在你的回合中第二次采取此动作时，你在检定上受到-5点减值。第三次，你在检定上受到-10点减值。</div></div>

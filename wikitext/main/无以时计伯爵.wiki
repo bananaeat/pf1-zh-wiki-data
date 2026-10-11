@@ -1,0 +1,12 @@
+{{Feat
+|name=无以时计伯爵
+|english_name=Ineffable Count of the Clock
+|categories=宫廷头衔
+|description=你意识到时间无休止的行进更像是醉汉的蹒跚，这让你在众相眼中获得了地位。
+|prerequisites=精类生物类型或[[妖精仪典]]（[[夏依卡]]），你必须拜访过或接触过来自时间维度的异界生物。
+|benefit=每日三次，你可以用一个自由动作将你的速度提高任意数值，上限为你的基础速度，持续到你本回合结束。在随后的一轮，你的速度降低相同的数值。
+|extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=140560.msg1233224#msg1233224 伽瑟兰相关专长]，译者：Mystletainn；按 AoN 核对过。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Ineffable%20Count%20of%20the%20Clock
+}}

@@ -23,7 +23,7 @@
 |resist=寒冷 10;电击 10;火焰 10
 |weaknesses=阳光弱点
 |speed=30 尺
-|melee=2 爪抓 +23（1d8+9），2 噬咬 +23（2d6+9 附加流血）
+|melee=2 爪抓 +23（1d8+9），2 啮咬 +23（2d6+9 附加流血）
 |space=10 尺
 |reach=10 尺
 |special_attacks=流血（1d4 感知），吞噬灵魂，阴影附身

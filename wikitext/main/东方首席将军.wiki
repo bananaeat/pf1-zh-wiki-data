@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #139: The Dead Roads pg. 73），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=东方首席将军
+|english_name=First General of the East
+|categories=起源
+|pfs=否
+|description=你的创造者是一名军人兼好战之人，你的记忆里满是鲜血的味道。
+|prerequisites=角色等级5级，[[舍卜提]]。
+|benefit=你可以每天一次将[[高等魔化武器]]作为类法术能力施放。9级时你获得第二次每日使用，15级时获得第三次。只有你能从该类法术能力中获益；其他任何持有被附魔武器的人都无法从该法术中获益。该能力的施法者等级等于你的角色等级。
+|source_name=冒险之路139：死者之路
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=First%20General%20of%20the%20East
+}}

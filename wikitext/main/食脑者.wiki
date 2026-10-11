@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Classic Horrors Revisited pg. 32），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=食脑者
+|english_name=Brain Eater
+|pfs=否
+|description=你吃掉被吞噬敌人的大脑，从而获得其部分技能与知识。
+|prerequisites=[[食尸鬼(怪物)|食尸鬼]]，智力17。
+|benefit=如果你吃下一个智力3或更高的生物的一部分大脑，你在所有技能检定和意志豁免检定上获得+2洞察加值，持续1小时。吃脑是一个整轮动作，且目标必须已死亡或无助。如果目标是活的，你可以尝试把吃它的大脑作为对目标的致命一击来进行，但只有当你的尝试导致受害者死亡时，你才能获得洞察加值。
+|source_name=经典恐怖再临
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Brain%20Eater
+}}

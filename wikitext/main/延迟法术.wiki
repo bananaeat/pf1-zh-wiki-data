@@ -1,0 +1,10 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Pathfinder #116: Fangs of War pg. 67），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=延迟法术
+|english_name=Delayed Spell
+|categories=超魔
+|description=你可以延迟法术生效的时机。
+|benefit=延迟法术可以在施放后每法术环位1分钟的时间内，随时以一个标准动作触发。只有以一个或多个方格或网格交点为目标的法术才能受延迟法术影响，且延迟法术一经施放，其目标（以及施放时决定的任何其他变量）就无法更改。你可以同时拥有任意数量的延迟法术，但每个标准动作只能触发一个法术。延迟法术在被触发之前虽不会显现，但仍如常散发魔法灵氲，并可通过[[知识]]（奥秘）检定将其辨识为已就位的法术效应。延迟法术占用比法术实际环位高1环的法术位。
+|source_name=冒险之路116：战争之牙
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Delayed%20Spell
+}}

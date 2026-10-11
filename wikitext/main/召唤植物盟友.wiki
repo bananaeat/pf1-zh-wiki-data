@@ -1,0 +1,21 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Heroes of the Wild pg. 23），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=召唤植物盟友
+|english_name=Summon Plant Ally
+|description=你可以在战斗中召唤植物生物来助你一臂之力。
+|prerequisites=[[知识]]（自然）1级，能施展[[召唤自然盟友 I|召唤自然盟友]]法术。
+|benefit=施展召唤自然盟友法术时，你可以使用下列植物生物名单。
+
+[[召唤自然盟友 I]]：叶莱西、孢子人。
+[[召唤自然盟友 II]]：葫芦莱西、叶鲼（没有种子能力）。
+[[召唤自然盟友 III]]：真菌莱西、草鞭。
+[[召唤自然盟友 IV]]：杀人藤、海草莱西（没有气囊能力）。
+[[召唤自然盟友 V]]：曼陀罗草、蔓生怪。
+[[召唤自然盟友 VI]]：触手魔藤、树人。
+[[召唤自然盟友 VII]]：巨捕蝇草。
+[[召唤自然盟友 VIII]]：人面树。
+[[召唤自然盟友 IX]]：爱劳娜。
+|source=HotW
+|source_name=荒野英雄
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Summon%20Plant%20Ally
+}}

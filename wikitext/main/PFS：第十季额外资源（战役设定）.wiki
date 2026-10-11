@@ -261,7 +261,7 @@
 
 '''法术：'''除了Impart Mind和Spellscar以外，其余第5章的法术皆属可用；
 
-'''其他：'''第16页的所有魔法[[纹身]]；第30至31页的[[法痕]]（Spellscar）和[[外层裂隙]]（Outer Rifts）先知秘示域（[[法痕]][[先知]]仍不得选择Eldritch Scar、Primal Mastery或 Trigger Primal Magic Event Revelations）；除了[[原能师]]（Primalist）法师变体以外，其余第32至43页的变体职业皆属可用，但遵守以下限制：只有[[精灵]]能够成为旋塔卫士（Spire Defender）魔战士；[[刺青术士]]（Tattooed Sorcerer）只能在游戏过程中使用她的制造法术刺青能力（也就是说不能是在两次战役场景间）；[[吸血鬼猎人]]审判者不会获得银匠（Silversmith）能力，并将侦测阵营替换为侦测亡灵；8级时，[[瓦瑞西安朝圣者]]（Varisian Pilgrim）只有在玩家持有哈啰牌组时，才会获得8级的哈啰牌之祝福能力。
+'''其他：'''第16页的所有魔法[[纹身]]；第30至31页的[[法痕]]（Spellscar）和[[外层裂隙]]（Outer Rifts）先知秘示域（[[法痕]][[先知]]仍不得选择Eldritch Scar、Primal Mastery或 Trigger Primal Magic Event Revelations）；除了[[原能师]]（Primalist）法师变体以外，其余第32至43页的变体职业皆属可用，但遵守以下限制：只有[[精灵]]能够成为旋塔卫士（Spire Defender）魔战士；[[刺青术士]]（Tattooed Sorcerer）只能在游戏过程中使用她的制造法术刺青能力（也就是说不能是在两次战役场景间）；[[吸血鬼猎人]]审判者不会获得银匠（Silversmith）能力，并将侦测阵营替换为侦测亡灵；8级时，[[瓦瑞西亚朝圣者]]（Varisian Pilgrim）只有在玩家持有哈啰牌组时，才会获得8级的哈啰牌之祝福能力。
 
 '''《探索者战役设定：内海[[怪物志]]》（Pathfinder Campaign Setting: Inner Sea Monster Codex）'''
 

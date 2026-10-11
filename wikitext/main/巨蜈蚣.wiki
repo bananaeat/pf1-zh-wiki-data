@@ -44,4 +44,4 @@
 <div class="monster-table-wrap"><table class="wikitable"><tr><th>种类</th><th>CR</th><th>体型</th><th>HD</th></tr><tr><td>家里的蜈蚣</td><td>1/8</td><td>微型</td><td>1D8</td></tr><tr><td>下水道蜈蚣</td><td>1/4</td><td>小型</td><td>1D8</td></tr><tr><td>嘶叫蜈蚣</td><td>1</td><td>大型</td><td>2D8</td></tr><tr><td>巨长尾蜈蚣</td><td>2</td><td>超大</td><td>4D8</td></tr><tr><td>巨森林蜈蚣</td><td>6</td><td>巨型</td><td>7D8</td></tr><tr><td>[[泰坦蜈蚣]]</td><td>9</td><td>超巨</td><td>10D8</td></tr></table></div>
 }}
 
-本页译自《[[怪物图鉴]]》的怪物图鉴 CHM。
+本页译自《[[怪物图鉴]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=56948.msg528658#msg528658 【B1】巨蜈蚣与蜈蚣群（Centipede, Giant & Centipede Swarm）]，译者：原子能青蛙）。

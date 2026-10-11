@@ -1,0 +1,11 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Plane-Hopper's Handbook pg. 30），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=清醒之梦
+|english_name=Waking Dream
+|description=即使身处肉身，你也能操纵梦境的世界。
+|prerequisites=魅力17，缥缈步伐，[[寻梦师]]，[[知识]]（位面）10级。
+|benefit=当你以肉身身处梦境维度时，你每日多获得一次尝试绝无可能的壮举的机会，总共两次。然而，由于你干扰了该领域的结构，当你以肉身前往梦境维度时，必须通过一次DC 15的魅力检定，否则会处于不利状态抵达。
+|source=PH'sH
+|source_name=位面旅者手册
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Waking%20Dream
+}}

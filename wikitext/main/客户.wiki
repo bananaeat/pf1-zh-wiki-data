@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Qadira, Jewel of the East pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=客户
+|english_name=Client
+|pfs=否
+|description=客户或客户家族通常是受某商会庇护的供应商或本地商人。
+|prerequisites=角色必须拥有一家生意，能够向某柯莱士人商会批量供应某单一种类、价值10 gp以上的货物；或者能够每月至少一次捐赠一件由赞助人选定的独特稀有物品（古董、有考古价值的物品、艺术品或魔法武器）。
+|benefit=每月一次，客户可以从以下选项中择一：500 gp；一名商会护卫（人类[[战士]]3级；使用《NPC志》第81页中叛逆强盗的数据）24小时的服务；或一名商会使节的服务，该使节能够自动将统治者或其他有影响力的NPC的态度从冷漠改为友善，或从友善改为乐于帮助。
+|source=QJotE
+|source_name=卡蒂亚，东方明珠
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Client
+}}
