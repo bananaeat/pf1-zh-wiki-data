@@ -3,7 +3,7 @@
 |english_name=Wicker horse
 |school=咒法系 (创造)
 |levels=召唤师 2;召唤师（掉链） 2;女巫 2;秘学士 2;萨满 2
-|action=10分钟
+|action=10分钟；见正文
 |components=语言;姿势;材料/圣徽（一条芦苇或树枝）
 |range=接触
 |effect=一匹马形的柳条构装体

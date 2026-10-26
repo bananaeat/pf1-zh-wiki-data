@@ -19,13 +19,13 @@
 |will=+8，对恐惧+2
 |immune=疾病;恐惧
 |speed=15尺
-|melee=+1骑枪 +14/+9（1d6+5/X3）或精工长剑 +13/+8（1d6+4/19-20）
+|melee=+1长枪 +14/+9（1d6+5/X3）或精制品长剑 +13/+8（1d6+4/19-20）
 |space=5尺
-|reach=5尺（骑枪 10尺）
-|special_attacks=引导正能量（DC 16, 4d6），破邪斩 3次/每天（+3攻击与 AC ，+7伤害）
+|reach=5尺（长枪 10尺）
+|special_attacks=引导正能量（DC 16, 4d6），制裁邪恶 3次/每天（+3攻击与 AC ，+7伤害）
 |spell_like=（CL7，专注+10）；随意——[[侦测邪恶]]
-|spells=圣武士准备法术（CL4，专注+7）；二级——公牛之力；一级——祝福武器，[[神恩]]
-|tactics=<div class="ml wide"><span class="k">战前</span>施展公牛之力</div><div class="ml wide"><span class="k">战时</span>圣武士使用骑乘掠击冲锋目标，并使用破邪斩</div><div class="ml wide"><span class="k">基础属性</span>没有公牛之力时圣武士的属性为 近战 +1骑枪 +12/+7（1d6+3/X3）或精工长剑+11/+6（1d6+2/19-20）；力量 14；CMB +8；CMD 20；技能 攀爬+0</div>
+|spells=圣武士准备法术（CL4，专注+7）；二级——牛之力量；一级——祝福武器，[[神恩]]
+|tactics=<div class="ml wide"><span class="k">战斗前</span>圣武士施放牛之力量。</div><div class="ml wide"><span class="k">战斗中</span>圣武士运用骑乘掠击向敌人冲锋，并使用制裁邪恶。</div><div class="ml wide"><span class="k">基础属性</span>未施放牛之力量时，圣武士的数值为 近战 +1长枪 +12/+7（1d6+3/X3）或精制品长剑 +11/+6（1d6+2/19-20）；力量 14；CMB +8；CMD 20；技能 攀爬+0。</div>
 |str=18
 |dex=14
 |con=13
@@ -35,15 +35,15 @@
 |bab=+7
 |cmb=+10
 |cmd=22
-|feats=骑乘战斗;骑乘掠击;[[健壮]];[[武器专攻]]（骑枪）
+|feats=骑乘战斗;骑乘掠击;[[健壮]];[[武器专攻]]（长枪）
 |skills=[[特技]]+0（跳跃-4）;[[攀爬]]+2;[[医疗]]+7;察觉+5;[[骑术|骑乘]] +8（安坐+10）;[[生存]]+1
 |languages=通用语;半身人语
-|sq=灵氲;行为准则;神圣连结（坐骑）;圣疗（3d6，每天6次）;慈悲（晕眩，战栗）
+|sq=灵氲;行为准则;神契（坐骑）;圣疗（3d6，每天6次）;恩惠（晕眩，战栗）
 |combat_gear=援助术药水;虔诚护盾药水
-|gear=+1胸甲;+1重钢盾;精工长剑;+1骑枪;银质圣徽;异种军用鞍座;420gp
+|gear=+1胸甲;+1重钢盾;精制品长剑;+1长枪;银质圣徽;异种军用鞍座;420gp
 |source=NPC志
 |family=核心职业（NPC志）
 |npc=1
 }}
 
-本页译自《[[NPC志]]》的怪物图鉴 CHM。
+本页译自《[[NPC志]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=61794.msg575017#msg575017 【NPCC】核心职业：圣武士（Paladin）]，原译者：solariusyang；沉沦校对润饰）。

@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{物品
 |name=至圣复仇者
 |english_name=Sacred Avenger

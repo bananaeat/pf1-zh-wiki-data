@@ -20,6 +20,7 @@
 |space=10 尺
 |reach=5 尺
 （空，整行删去）|str=19
+|str=19
 |dex=14
 |con=15
 |int=6

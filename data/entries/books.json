@@ -6827,25 +6827,6 @@
   }
  },
  {
-  "title": "玉凤武道会",
-  "url": "https://pf1.huijiwiki.com/wiki/玉凤武道会",
-  "template": "书页",
-  "ai": true,
-  "categories": [
-   "书目"
-  ],
-  "raw": {
-   "en": "The Ruby Phoenix Tournament",
-   "authors": "Tim Hitchcock",
-   "pages": "32"
-  },
-  "text": {
-   "en": "The Ruby Phoenix Tournament",
-   "authors": "Tim Hitchcock",
-   "pages": "32"
-  }
- },
- {
   "title": "瓦瑞西亚，传说诞生之地",
   "url": "https://pf1.huijiwiki.com/wiki/瓦瑞西亚，传说诞生之地",
   "template": "书页",
@@ -7850,6 +7831,25 @@
    "en": "Belkzen, Hold of the Orc Hordes",
    "authors": "Tyler Beck、Jason Garrett、Alex Greenshields、David Schwartz",
    "pages": "64"
+  }
+ },
+ {
+  "title": "赤凰武道会",
+  "url": "https://pf1.huijiwiki.com/wiki/赤凰武道会",
+  "template": "书页",
+  "ai": true,
+  "categories": [
+   "书目"
+  ],
+  "raw": {
+   "en": "The Ruby Phoenix Tournament",
+   "authors": "Tim Hitchcock",
+   "pages": "32"
+  },
+  "text": {
+   "en": "The Ruby Phoenix Tournament",
+   "authors": "Tim Hitchcock",
+   "pages": "32"
   }
  },
  {

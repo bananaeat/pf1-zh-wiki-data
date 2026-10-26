@@ -99,7 +99,7 @@
 
 == 信徒可用 ==
 
-* '''变体职业'''：袪魔师（Exorcist，审判者）、命运向导（Fated Guide，唤魂师）、远见圣者（Seer，先知）、苦修护理师（Stoic Caregiver，牧师）
+* '''变体职业'''：驱魔师（Exorcist，审判者）、命运向导（Fated Guide，唤魂师）、预言者（Seer，先知）、苦修护理师（Stoic Caregiver，牧师）
 * '''专长'''：[[异灵感]]、[[注命引导]]、[[命运信使]]
 * '''魔法物品（神坛）'''：法莱斯玛神坛（Altar of Pharasma）
 * '''魔法物品（护甲）'''：守墓者链甲（Gravewatcher Chainmail）

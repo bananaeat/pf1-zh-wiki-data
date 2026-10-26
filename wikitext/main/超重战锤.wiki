@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=超重战锤
 |english_name=Heavy Hammer

@@ -5,6 +5,7 @@
 |description=你在装填时由队友照看。
 |prerequisites=[[擅长异种武器]]（火器）UC。
 |benefit=当你与一名同样具有此专长的盟友相邻时，你在装填火器时不会引发[[借机攻击]]。
-|source_name=反派法典
+|source=VC
+|source_name=恶棍志
 |source_url=https://pf1chm.pages.dev/topics/zhfa2a4585c1.htm
 }}

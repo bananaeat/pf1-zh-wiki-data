@@ -1,0 +1,46 @@
+{{速查导航|here=神祇}}
+{{AI翻译|本页由 AI 照《永罪之书》（Book of the Damned）英文原书译出（民间汉化 CHM 没有），未经人工校对。符号、圣兽、圣色三项据 AoN 译出。}}
+{{PFS不可用}}
+{{神祇
+|name=罗科罗洛斯
+|english_name=Roqorolos
+|title=受难者王子（Prince of the Wracked）
+|alignment=中立邪恶（NE）
+|weapon=[[捕网]]
+|portfolio=漂流者，污水，海洋
+|domains=[[邪恶领域(领域)|邪恶]]，[[旅行领域|旅行]]，[[水领域|水]]，[[天气领域|天气]]
+|subdomains=[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[虚空领域#孤寂子域 (Isolation)|孤寂子域]]，[[水领域#海子域 (Oceans)|海子域]]，[[天气领域#风暴子域 (Storms)|风暴子域]]
+|symbol=下沉的船
+|symbol_label=邪徽
+|animal=鲨鱼
+|color=蓝色，黄色
+|pantheon=邪魔先驱
+|source=内海诸神、永罪之书
+}}
+
+'''罗科罗洛斯'''（Roqorolos）是一位[[邪魔先驱]]。
+
+== 简介 ==
+
+受难者王子罗科罗洛斯的外形是一名半腐烂的巨大精灵男子，周身褪尽了颜色，缠绕着锈蚀的铁链，双臂是触手而非手臂。
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+喝下至少一品脱的微咸水。你在对抗水系效果以及造成窒息或溺水的效果的豁免检定中获得+4亵渎加值。
+
+=== 神恩 ===
+
+通过[[魔族仪典]]获得，均为每日各2次的类法术能力：
+
+{{神恩|n=1|name=|en=|type=Sp|text=每日2次，你可以施展[[水流术]]。}}
+
+{{神恩|n=2|name=|en=|type=Sp|text=每日2次，你可以施展[[驭波术]]。}}
+
+{{神恩|n=3|name=|en=|type=Sp|text=每日2次，你可以施展[[液体形态]]。}}
+
+<small>出自《[[永罪之书]]》第115页。</small>
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Roqorolos|2=Roqorolos}}
+[[分类:魔神]]

@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=枯萎光轮|en=Withering Nimbus|type=Su|domain=太阳领域|sub=干涸子域 (Thirst)|sub_name=干涸子域|source=神术选集|text=这个能力作用方式如同太阳领域的[[太阳领域#光轮 (Nimbus of Light, Su)|光轮]]能力，但是它伤害植物和具有水生或水亚种的生物而不是不死生物。此能力改变[[太阳领域#光轮 (Nimbus of Light, Su)|光轮]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

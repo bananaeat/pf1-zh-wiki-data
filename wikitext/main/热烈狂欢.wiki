@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=热烈狂欢|en=Intense Celebration|type=Su|domain=混乱领域|sub=狂欢子域 (Revelry)|sub_name=狂欢子域|source=内海诸神|text=在8级时任何你施展的对自身和盟友提供士气加值的法术自动获得[[法术延时]]超魔效果，如同被[[法术延时]]但不增加法术等级。此能力替换[[混乱领域#混沌之刃 (Chaos Blade, Su)|混沌之刃]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

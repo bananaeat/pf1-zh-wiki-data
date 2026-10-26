@@ -1,3 +1,4 @@
+{{PFS特殊|1=[[心能狂怒者]]（Id Rager）只会获得魅影（Phantom）的[[情感羁绊]]（Emotional Focus）能力，而不会获得魅影的基础能力（如挥击或护甲加值）。}}
 {{Source|异能源始|Occult Origins}}
 
 '''心能狂怒者'''（Id Rager）是[[血脉狂怒者]]的[[变体职业]]。

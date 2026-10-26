@@ -1,0 +1,47 @@
+{{速查导航|here=神祇}}
+{{AI翻译|本页由 AI 照《永罪之书》（Book of the Damned）英文原书译出（民间汉化 CHM 没有），未经人工校对。符号、圣兽、圣色三项据 AoN 译出。}}
+<noinclude>{{消歧义|布赖斯莫瓦}}</noinclude>
+{{PFS不可用}}
+{{神祇
+|name=布赖斯莫瓦
+|english_name=Braismois
+|title=寂静羽笔（The Silent Quill）
+|alignment=中立邪恶（NE）
+|weapon=[[轻型硬头锤]]
+|portfolio=毁约，小字条款，不公平的交易
+|domains=[[邪恶领域(领域)|邪恶]]，[[知识领域|知识]]，[[符文领域|符文]]，[[诡术领域|诡术]]
+|subdomains=[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[诡术领域#欺骗子域 (Deception)|欺骗子域]]，[[符文领域#语言子域 (Language)|语言子域]]，[[知识领域#记忆子域 (Memory)|记忆子域]]
+|symbol=滴毒的羽笔
+|symbol_label=邪徽
+|animal=鼬
+|color=黑色，绿色
+|pantheon=邪魔先驱
+|source=内海诸神、永罪之书
+}}
+
+'''布赖斯莫瓦'''（Braismois）是一位[[邪魔先驱]]。
+
+== 简介 ==
+
+寂静羽笔布赖斯莫瓦统治着末日荒原一座冰川底部名为寂静之国（Silent Nation）的领域。
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+拟定一份单方面有利的合同。你在对抗影响心灵的效果的豁免检定中获得+4亵渎加值。
+
+=== 神恩 ===
+
+通过[[魔族仪典]]获得，均为每日各2次的类法术能力：
+
+{{神恩|n=1|name=|en=|type=Sp|text=每日2次，你可以施展[[侦测思想]]。}}
+
+{{神恩|n=2|name=|en=|type=Sp|text=每日2次，你可以施展[[魅惑怪物]]。}}
+
+{{神恩|n=3|name=|en=|type=Sp|text=每日2次，你可以施展[[指使术]]。}}
+
+<small>出自《[[永罪之书]]》第112页。</small>
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Braismois|2=Braismois}}
+[[分类:魔神]]

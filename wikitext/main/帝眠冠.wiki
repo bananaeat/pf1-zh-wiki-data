@@ -1,8 +1,10 @@
+{{PFS不可用}}
 {{魔法物品
 |name=帝眠冠
 |english_name=Diadem of Nod
 |aon=MagicArtifactsDisplay.aspx?ItemName=Diadem of Nod
 |cat=神器
+|mythic=是
 |tier=高等神器
 |aura=强烈咒法系
 |cl=20

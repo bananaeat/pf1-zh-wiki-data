@@ -1,8 +1,10 @@
+{{PFS不可用}}
 {{魔法物品
 |name=光明实相宝轮
 |english_name=Nimbus of Radiant Truth
 |aon=MagicArtifactsDisplay.aspx?ItemName=Nimbus of Radiant Truth
 |cat=神器
+|mythic=是
 |tier=高等神器
 |aura=强烈塑能系
 |cl=20

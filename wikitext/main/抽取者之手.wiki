@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=抽取者之手
 |english_name=Extractor's Gloves

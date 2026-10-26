@@ -1,4 +1,5 @@
 {{消歧义|仙露}}
+{{PFS不可用}}
 {{魔法物品
 |name=仙馔
 |english_name=Ambrosia

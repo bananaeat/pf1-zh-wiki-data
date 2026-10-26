@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=钢铁王的冠冕
 |english_name=Crown of the Iron King

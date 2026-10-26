@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=予取予求|en=Anything to Please|type=Su|domain=魅惑领域|sub=情欲子域 (Lust)|sub_name=情欲子域|source=进阶玩家指南|text=8级时，你能以标准动作的心智效果强迫30尺生物服从。生物可用成功的意志豁免避免此效果，但若豁免失败，此生物将攻击你敌人1轮、献上最有价值的物品、跪下1d4轮（由GM决定）。你能在8级每天使用此能力1次，每比8级高4级多1次。此能力替换[[魅惑领域#魅惑微笑 (Charming Smile, Sp)|魅惑微笑]]。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

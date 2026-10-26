@@ -1,9 +1,9 @@
 {{AI翻译|本页由 AI 照 AoN 英文原文译出（Bastards of Golarion pg. 29），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{PFS特殊|1=仅当你的角色所属族群与该特性所在章节的族群相同时才可用。|ai=1}}
 {{Trait
 |name=高空观察者
 |english_name=Aerial Observer
 |type=种族
-|pfs=否
 |prerequisites=风元素裔
 |description=你擅长从高处留意细节。当你位于地面以上至少30尺时，你的[[察觉]]检定获得+2背景加值。
 |source_name=格拉利昂的混种

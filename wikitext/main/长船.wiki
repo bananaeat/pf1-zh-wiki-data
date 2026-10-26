@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{装备
 |name=长船
 |english_name=Longship

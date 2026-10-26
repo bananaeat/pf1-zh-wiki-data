@@ -1,9 +1,9 @@
 {{AI翻译|本页由 AI 照 AoN 英文原文译出（Goblins of Golarion pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{PFS特殊|1=只有合法的地精PC才能从本书中选择任何内容。|ai=1}}
 {{Trait
 |name=悬崖能手
 |english_name=Cliff-Master
 |type=地区
-|pfs=否
 |prerequisites=[[地精]]，瓦瑞西亚
 |description=你擅长沿着海边悬崖搜寻食物，并已成为一名熟练的攀爬者。你的所有[[攀爬]]和[[生存]]检定获得+1背景加值。
 |source_name=格拉利昂的地精

@@ -1,0 +1,14 @@
+{{Spell
+|name=活力安息
+|english_name=Invigorating Repose
+|school=咒法系 (医疗)
+|levels=牧师 5;先知 5;战斗祭司 5（马格林）
+|action=标准动作
+|components=语言;姿势;圣徽
+|range=自身
+|target=你
+|duration=1小时或直到发散
+|description=这个法术会强化你令死者复生的法术。如果你施展[[死者复活]]，目标生物会以全满的生命值复活。如果你施展[[生命之息]]，只要你在目标死亡后不超过你施法者等级一半的轮数内施展，该法术就能复活死去的目标，并且其治疗效果视同经[[法术强效]]专长强化。施展以上任一法术都会使活力安息发散。
+|source=格拉利昂的矮人
+}}
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_717.html 原文]），按 AoN 核对过。</small>

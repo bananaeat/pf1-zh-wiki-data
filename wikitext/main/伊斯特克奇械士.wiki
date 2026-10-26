@@ -1,3 +1,4 @@
+{{PFS特殊|1=伊斯特克奇械士无法获得疾风臂（flurrying arm）。|ai=1}}
 {{Source|古国血脉|Blood of the Ancients}}
 
 '''伊斯特克奇械士'''（Jistkan Artificer）是[[魔战士]]的[[变体职业]]。

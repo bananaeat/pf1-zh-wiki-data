@@ -1,4 +1,5 @@
 {{消歧义|矮人王之斧}}
+{{PFS不可用}}
 {{魔法物品
 |name=矮人王之斧
 |english_name=Axe of the Dwarvish Lords

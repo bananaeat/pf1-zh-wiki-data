@@ -1,0 +1,12 @@
+<includeonly><div class="feat companion" id="{{{name}}}" style="margin:.6em 0"><!--
+--><div class="feat-head"><div class="feat-name" style="font-size:1.25em">[[{{{page|{{{name}}}}}}|{{{name}}}]]</div><div class="feat-en">{{{en|}}}</div></div><!--
+-->{{#if:{{{prereq|}}}|<div class="feat-block"><span class="k">先决条件</span>{{{prereq}}}</div>}}<!--
+--><div class="feat-block"><span class="k">基础属性</span>{{{base}}}</div><!--
+-->{{#if:{{{adv|}}}|<div class="feat-block"><span class="k">{{{advlv}}}级进化</span>{{{adv}}}</div>}}<!--
+-->{{#if:{{{mastery|}}}|<div class="feat-block"><span class="k">精熟（{{{masterylv}}}级）</span>{{{mastery}}}</div>}}<!--
+--></div></includeonly><noinclude>
+[[怪物坐骑]]专长可选的一只坐骑（《内海战斗》）。版式同 [[模板:动物伙伴卡片]]。用在 [[怪物坐骑/可选坐骑]]。
+
+参数：name page（链接页，缺省同 name）en prereq（智力 3 以上的额外先决条件）base（基础属性）advlv adv（N 级进化）masterylv mastery（[[精熟怪物坐骑]] 的精熟能力）。
+[[分类:模板]]
+</noinclude>

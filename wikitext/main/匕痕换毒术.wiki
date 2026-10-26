@@ -1,3 +1,4 @@
+{{PFS特殊|1=Daggermark's Exchange只能用来创造于组织游戏战役中合法的毒药。}}
 {{Spell
 |name=匕痕换毒术
 |english_name=Daggermark's exchange

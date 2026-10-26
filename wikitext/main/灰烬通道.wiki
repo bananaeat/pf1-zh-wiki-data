@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=灰烬通道
 |english_name=Ashen Path

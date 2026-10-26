@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=冷酷胜利之甲〔兽人〕
 |english_name=Armor of Grim Triumph (Orc)

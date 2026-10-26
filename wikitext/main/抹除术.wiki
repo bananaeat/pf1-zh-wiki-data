@@ -1,3 +1,4 @@
+{{PFS特殊|1=只有合法的地精PC才能从本书中选择任何内容。|ai=1}}
 {{Spell
 |name=抹除术
 |english_name=Blot

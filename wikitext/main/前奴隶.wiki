@@ -1,6 +1,7 @@
 {{Trait
 |name=前奴隶
 |english_name=Freed Slave
+|pfs=否
 |type=种族
 |prerequisites=[[铃花会]],[[半身人]]
 |description=你作为一个奴隶在切利亚斯长大而且比大部分人更熟知切利亚斯贵族间的来龙去脉。你在交涉和知识(贵族)检定获得+1背景加值，知识(贵族)成为你的[[本职技能]]。

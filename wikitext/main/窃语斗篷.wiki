@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=窃语斗篷
 |english_name=Cloak of secrets

@@ -17,7 +17,7 @@
 13级时，绿螫杀手获得[[精通反射闪避]]，如同同名的盗贼高等天赋。这个能力取代了[[魔战士#重甲擅长|重甲擅长]]。
 
 === 魔战士奥能 (Magus Arcana) ===
-除了新增的魔战士奥能[[奥能#黑暗挪移 (Dark Shifter, Su)|黑暗挪移]]，下列魔战士奥能也适合绿螫杀手：[[奥能#缩短距离 (Close Range, Ex)|缩短距离]]、[[奥能#急速袭击 (Hasted Assault, Su)|急速袭击]]、[[奥能#战技精通 (Maneuver Mastery, Ex)|战技精通]]、[[奥能#力池打击 (Pool Strike, Su)|力池打击]]、[[奥能#默发法术 (Silent Magic, Su)|默发法术]]。
+除了新增的魔战士奥能[[奥能#黑暗挪移 (Dark Shifter, Su)|黑暗挪移]]，下列魔战士奥能也适合绿螫杀手：[[奥能#缩短距离 (Close Range, Ex)|缩短距离]]、[[奥能#急速袭击 (Hasted Assault, Su)|急速袭击]]、[[奥能#战技熟稔 (Maneuver Mastery, Ex)|战技熟稔]]、[[奥能#力池打击 (Pool Strike, Su)|力池打击]]、[[奥能#默发法术 (Silent Magic, Su)|默发法术]]。
 
 {{AoN原文|1=ArchetypeDisplay.aspx?FixedName=Magus%20Greensting%20Slayer|2=Greensting Slayer}}
 

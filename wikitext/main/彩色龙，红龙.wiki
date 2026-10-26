@@ -146,10 +146,7 @@
 
 === 基值数据 ===
 
-* CR 6；体型 小型；HD 7d12
-* 速度 40 尺
-* 天生护甲 +6；喷吐武器 锥形，2d10 火焰
-* 力量 17，敏捷 14，体质 15，智力 10，感知 11，魅力 10
+{{数据块|内容1='''CR''' 6；'''体型''' 小型；'''HD''' 7d12；'''速度''' 40 尺；'''天生护甲''' +6；'''喷吐武器''' 锥形，2d10 火焰；力量 17，敏捷 14，体质 15，智力 10，感知 11，魅力 10}}
 
 <div class="monster-table-wrap"><table class="wikitable"><tr><th>年龄层</th><th>特殊能力</th><th>施法者等级</th></tr><tr><td>雏龙</td><td>火系</td><td>–</td></tr><tr><td>幼龙</td><td>烟雾视觉</td><td>–</td></tr><tr><td>少年</td><td>侦测魔法</td><td>1 级</td></tr><tr><td>青少年</td><td>凶威，[[烟火术]]</td><td>3 级</td></tr><tr><td>青年</td><td>DR 5/魔法，法术抗力</td><td>5 级</td></tr><tr><td>成年</td><td>火焰灵氲，[[暗示术]]</td><td>7 级</td></tr><tr><td>壮年</td><td>DR 10/魔法</td><td>9 级</td></tr><tr><td>老年</td><td>操控烈焰，[[火墙术]]</td><td>11 级</td></tr><tr><td>极老</td><td>DR 15/魔法</td><td>13 级</td></tr><tr><td>古龙</td><td>融化岩石，寻找捷径</td><td>15 级</td></tr><tr><td>上古龙</td><td>DR 20/魔法</td><td>17 级</td></tr><tr><td>太古龙</td><td>焚化，感知位置</td><td>19 级</td></tr></table></div>
 }}

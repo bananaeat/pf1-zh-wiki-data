@@ -1,4 +1,4 @@
 <noinclude>{{德鲁伊导航}}
 </noinclude>{{德鲁伊领域能力|name=虫语者|en=Vermin Whisperer|type=Su|domain=虫类领域|source=极限荒野|text=你可以对虫类使用你的[[德鲁伊#野性认同 (Wild Empathy, Ex)|野性认同]]能力。当你这样做时，你会在虫类上植入一点智能，使你能够像对待动物一样与虫类互动。虫语者能力仅适用于无心智或[[智力]]不高于2的虫类。}}<noinclude>
 
-[[分类:德鲁伊领域]]</noinclude>
+[[分类:德鲁伊领域能力]]</noinclude>

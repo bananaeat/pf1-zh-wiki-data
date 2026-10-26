@@ -1,6 +1,7 @@
 {{Trait
 |name=争胜心
 |english_name=Rivalry
+|pfs=否
 |type=家庭
 |description=如果你看到了60尺内另一名有此特质的家族成员在一次战技或技能检定中失败，你在1轮之内进行的相同战技或技能检定获得+1背景加值。
 |source_name=部属与伙伴

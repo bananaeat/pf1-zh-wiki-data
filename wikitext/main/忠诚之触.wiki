@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=忠诚之触|en=Touch of Loyalty|type=Su|domain=秩序领域|sub=忠诚子域 (Loyalty)|sub_name=忠诚子域|source=内海诸神|text=以一个标准动作，你可以接触一个自愿的生物，使他在对抗魅惑，胁迫和恐惧效果时在豁免检定上获得+4神圣加值，持续1小时。每天“3+[[感知]]调整值”次。此能力取代[[秩序领域#秩序之触 (Touch of Law, Sp)|秩序之触]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

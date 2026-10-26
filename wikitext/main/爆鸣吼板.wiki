@@ -1,8 +1,10 @@
+{{PFS不可用}}
 {{魔法物品
 |name=爆鸣吼板
 |english_name=Bullroarers of Outburst
 |aon=MagicArtifactsDisplay.aspx?ItemName=Bullroarers of Outburst
 |cat=神器
+|mythic=是
 |tier=次级神器
 |aura=强烈惑控系
 |cl=20

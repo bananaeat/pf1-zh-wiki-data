@@ -1,7 +1,9 @@
+{{PFS不可用}}
 {{魔法物品
 |name=无名火铳
 |english_name=Gun with No Name
 |cat=特殊魔法武器
+|mythic=是
 |base=[[胡椒罐手枪]]
 |enh=+2 破神 高等幸运
 |aura=中等防护系、咒法系

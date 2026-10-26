@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{物品
 |name=接生婆
 |english_name=The Midwife

@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=镭手枪
 |english_name=Radium pistol

@@ -12,7 +12,7 @@
 |subtypes=精灵
 |init=+0
 |senses=昏暗视觉；察觉+11
-|ac=13，接触 10，措手不及 13（+3盔甲）
+|ac=13，接触 10，措手不及 13（+3护甲）
 |hp=15(6d6-6)
 |fort=+1
 |ref=+2
@@ -20,7 +20,7 @@
 |immune=睡眠
 |speed=30尺
 |melee=精制品细剑+3（1d6-1/18-20）
-|tactics=<div class="ml wide"><span class="k">战斗中</span>这个平民会一边求救，一边用各种炼金物品迟滞攻击者。</div>
+|tactics=<div class="ml wide"><span class="k">战斗中</span>平民会一边呼救，一边用炼金物品拖住攻击者。</div>
 |str=9
 |dex=10
 |con=8
@@ -35,12 +35,12 @@
 |languages=通用语;精灵语;侏儒语;半身人语
 |sq=精灵魔法;武器熟悉
 |combat_gear=治疗轻伤药水;强酸（2）;炽火胶（2）;绊足包;爆雷石
-|gear=精制品镶嵌皮甲;精制品细剑;放大镜;商用天平;银圣徽;638gp
+|gear=精制品镶嵌皮甲;精制品细剑;放大镜;交易天平;银质圣徽;638gp
 |source=NPC志
 |family=NPC职业（NPC志）
 |npc=1
 |lore=
-一个店主贮存有许多有用的物资以供镇民以及冒险者。上述的数据表也可以用作任何多元混居的聚居地里的典型商人。
+店主备有各式实用的补给与装备，镇民与冒险者都是他的顾客。上面这份数据也可以用于任何多元种族聚居的城镇里的寻常商人。
 }}
 
-本页译自《[[NPC志]]》的怪物图鉴 CHM。
+本页译自《[[NPC志]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=62502.msg581244#msg581244 【NPCC】NPC职业：平民（Commoner）]，原译者：狗熊有敌；沉沦校对润饰）。

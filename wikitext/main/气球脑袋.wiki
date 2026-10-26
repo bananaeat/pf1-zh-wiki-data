@@ -1,9 +1,9 @@
 {{AI翻译|本页由 AI 照 AoN 英文原文译出（Goblins of Golarion pg. 16, We Be Goblins! pg. 12），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{PFS特殊|1=只有合法的地精PC才能从本书中选择任何内容。|ai=1}}
 {{Trait
 |name=气球脑袋
 |english_name=Balloon Headed
 |type=种族
-|pfs=否
 |prerequisites=地精
 |description=即使以[[地精]]的标准来看，你的脑袋也格外宽大。你的[[察觉]]检定获得+1背景加值，并且察觉永远是你的本职技能。任何需要你把脑袋挤过狭窄空间的[[脱逃]]检定都承受-8减值。
 |source_name=格拉利昂的地精

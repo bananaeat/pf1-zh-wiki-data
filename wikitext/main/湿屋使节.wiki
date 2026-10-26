@@ -18,7 +18,7 @@
 |fort=+4
 |ref=+5
 |will=+11；对毒素 +4，对非底栖魔鱼惑控 +2，对底栖魔鱼惑控 –2
-|defensive=惑控抗力，毒素抗力
+|defensive=惑控抗力，毒性抗力
 |weaknesses=水之依赖
 |speed=30 尺，游泳 30 尺
 |melee=+1 杖剑 +8/+3（1d6+2）

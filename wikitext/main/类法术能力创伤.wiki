@@ -37,8 +37,8 @@
 &#124; 9环 &#124;&#124; 20级 &#124;&#124; -
 &#124;}
 
-¹ 弹跳、扰乱、强化、持续或疤痕类法术能力。
-²可怖、恶心或创伤类法术能力。
+¹ 弹性、扰咒、强化、延续或创痕类法术能力。
+²骇人、感染或创伤类法术能力。
 |source=HA
 |source_name=惧怖冒险
 |source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Traumatic%20Spell-Like%20Ability

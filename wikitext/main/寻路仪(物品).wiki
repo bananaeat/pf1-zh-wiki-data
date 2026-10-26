@@ -1,4 +1,5 @@
 {{消歧义|寻路仪}}
+{{PFS不可用}}
 {{魔法物品
 |name=寻路仪
 |english_name=Wayfinder

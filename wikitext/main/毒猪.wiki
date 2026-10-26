@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{装备
 |name=毒猪
 |english_name=Noxious pig

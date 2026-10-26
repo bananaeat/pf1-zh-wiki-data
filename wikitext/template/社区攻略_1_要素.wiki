@@ -1,0 +1,8 @@
+<includeonly><div style="display:flex;flex-wrap:wrap;align-items:center;gap:.4em .9em;margin:.4em 0 .9em;padding:.55em .8em;border:1px solid #e3d6bb;border-left:4px solid #b5452b;border-radius:6px;background:#fbf6ea;line-height:1.6;max-width:50em">{{#if:{{{威胁度|}}}|<span style="white-space:nowrap"><span style="font-size:.82em;color:#7a6a52;margin-right:.35em">威胁度</span><span style="font-size:1.15em;color:#b5452b;letter-spacing:.08em">{{{威胁度}}}</span></span>}}{{#if:{{{等级|}}}|<span style="white-space:nowrap"><span style="font-size:.82em;color:#7a6a52;margin-right:.35em">常见出现等级</span><span style="font-weight:600;color:#3d3222">{{{等级}}}</span></span>}}{{#if:{{{特点|}}}|<span style="flex:1 1 100%"><span style="font-size:.82em;color:#7a6a52;margin-right:.35em">特点</span>{{{特点}}}</span>}}{{#if:{{{遭遇|}}}|<span style="flex:1 1 100%"><span style="font-size:.82em;color:#7a6a52;margin-right:.35em">{{{遭遇标签|标志性遭遇}}}</span>{{{遭遇}}}</span>}}</div></includeonly><noinclude>
+社区攻略里「威胁度／特点／常见出现等级／标志性遭遇」这类要素行的信息条。参数照原文填，标签照原文（遭遇标签＝标志性遭遇／常见遭遇）。
+
+ {{社区攻略/要素|威胁度=☆☆☆|特点=…|等级=1级起|遭遇标签=标志性遭遇|遭遇=…}}
+
+{{社区攻略/要素|威胁度=☆☆☆☆☆|特点=免疫武器伤害，稳定造成伤害|等级=1级起|遭遇=蜘蛛集群，蝙蝠集群}}
+[[分类:模板]]
+</noinclude>

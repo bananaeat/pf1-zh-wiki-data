@@ -1,3 +1,4 @@
+{{PFS特殊|1=魔力工艺戒指（Ring of Craft Magic）可用于日常工作检定中。}}
 {{魔法物品
 |name=魔力工艺戒指
 |english_name=Ring of Craft Magic

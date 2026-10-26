@@ -1,8 +1,8 @@
+{{PFS特殊|1=只有合法的地精PC才能从本书中选择任何内容。|ai=1}}
 {{Trait
 |name=地精海盗
 |english_name=Goblin Pirate
 |type=地区
-|pfs=否
 |prerequisites=[[地精]]，镣铐群岛
 |description=即使你喜欢待在船上，但是由于某些奇怪的原因你常常会摔到水里。你在专业[水手]和游泳检定获得+1背景加值，游泳总是你的[[本职技能]]。你可能有一个[[义肢]]腿或钩子手，但这不是很有帮助。
 |source_name=格拉里昂的地精

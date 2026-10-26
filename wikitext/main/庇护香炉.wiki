@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=庇护香炉
 |english_name=Censer of Sanctuary

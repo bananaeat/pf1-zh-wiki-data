@@ -1,4 +1,5 @@
 {{消歧义|象(怪物)}}
+{{PFS不可用}}
 {{装备
 |name=象
 |english_name=Elephant

@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=逆反召唤场
 |english_name=Anti-summoning shield

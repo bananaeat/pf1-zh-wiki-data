@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=火焰弩矢
 |english_name=Bolt, fire

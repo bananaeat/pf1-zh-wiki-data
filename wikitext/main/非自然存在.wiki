@@ -1,6 +1,7 @@
 {{Trait
 |name=非自然存在
 |english_name=Unnatural Presence
+|pfs=否
 |type=信念
 |prerequisites=古神教
 |description=你与外星力量长时间的关联正从你的毛孔渗漏而出。你能使用威吓技能来对动物和虫类挫败士气；威吓技能成为你的[[本职技能]]。

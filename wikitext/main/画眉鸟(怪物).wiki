@@ -1,0 +1,42 @@
+{{速查导航}}
+{{消歧义|画眉鸟}}
+{{怪物
+|name=画眉鸟
+|english_name=Thrush
+|cr=1/3
+|xp=135
+|alignment=绝对中立
+|size=微型
+|type=动物
+|init=+2
+|senses=昏暗视觉；察觉 +5
+|ac=16，接触 16，措手不及 14（+2 敏捷，+4 体型）
+|hp=2（1d8–2）
+|fort=+0
+|ref=+4
+|will=+2
+|speed=10 尺，飞行 40 尺（普通）
+|melee=啮咬 –1（1d2–5）
+|space=1 尺
+|reach=0 尺
+|str=1
+|dex=15
+|con=6
+|int=2
+|wis=15
+|cha=6
+|bab=+0
+|cmb=–2
+|cmd=3
+|feats=[[技能专攻]]（察觉）
+|skills=[[飞行]] +12;[[察觉]] +5
+|environment=温带森林
+|organization=单独，一对，或一群（3–12）
+|treasure=无
+|source=极限魔法
+|lore=
+画眉鸟是一种小巧、圆润的鸟类，以水果和昆虫为食。所有画眉鸟都以美妙的歌声闻名，而魔宠画眉鸟还能真正开口说话。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Thrush|2=Thrush}}
+
+本页译自民间汉化 CHM 的魔宠与模板页（[https://pf1chm.pages.dev/topics/page_301.html 原文]），数值按 AoN 核过。

@@ -109,7 +109,7 @@
 
 == 信徒可用 ==
 
-* '''变体职业'''：天策（Divine Strategist，牧师）、铸父寻者（Forgefather's Seeker，圣武士）、神策使（Holy Tactician，圣武士）、山伏僧（Monk of the Sacred Mountain，武僧）、战术指挥（Strategist，骑士）、策略家（Tactician，战士）
+* '''变体职业'''：神谋士（Divine Strategist，牧师）、铸父寻者（Forgefather's Seeker，圣武士）、圣策士（Holy Tactician，圣武士）、山伏僧（Monk of the Sacred Mountain，武僧）、战术指挥（Strategist，骑士）、策略家（Tactician，战士）
 * '''专长'''：[[祝福之锤]]、[[爆肉刚体]]、[[狡诈谋士]]、[[坚毅]]、[[钢皮引导]]、[[越石迅步]]、[[直觉警示]]
 * '''魔法物品（神坛）'''：托拉格神坛（Altar of Torag）
 * '''魔法物品（护甲）'''：父铸板甲（Forgefather's Half-Plate）

@@ -1,8 +1,10 @@
+{{PFS不可用}}
 {{魔法物品
 |name=凋亡之牙
 |english_name=Witherfang
 |aon=MagicArtifactsDisplay.aspx?ItemName=Witherfang
 |cat=神器
+|mythic=是
 |tier=次级神器
 |base=[[反曲刀]]
 |enh=+3

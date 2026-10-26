@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=血泪与利齿狞笑
 |english_name=Bloody tears and jagged smile

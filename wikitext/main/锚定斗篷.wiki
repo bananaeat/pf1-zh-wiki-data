@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=锚定斗篷
 |english_name=Cape of Anchoring

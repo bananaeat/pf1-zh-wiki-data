@@ -32,7 +32,7 @@
 
 以一个直觉动作，黑蝰僧可以消耗1点气让他的身形变得缥缈而扭曲，持续1轮时间，如同法术[[朦胧术]]的效果。
 
-{{AoN原文|1=ArchetypeDisplay.aspx?FixedName=Monk%20Black%20Asp|2=Black Asp}}
+{{AoN原文|1=ArchetypeDisplay.aspx?FixedName=Monk%20Black%20Asp|2=Black Asp|3=ArchetypeDisplay.aspx?FixedName=Monk%20(Unchained)%20Black%20Asp|4=Black Asp（掉链武僧）}}
 
 [[分类:武僧变体职业]]
 [[分类:变体职业]]

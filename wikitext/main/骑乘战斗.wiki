@@ -1,3 +1,4 @@
+{{消歧义|骑乘战斗(规则)}}
 <div class="well" style="margin:.2em 0"><small>本专长有神话版本：[[骑乘战斗 (神话)]]。</small></div>
 {{Feat
 |name=骑乘战斗

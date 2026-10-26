@@ -1,8 +1,10 @@
+{{PFS不可用}}
 {{魔法物品
 |name=啸阳矛
 |english_name=Screaming Spear of the Sun
 |aon=MagicArtifactsDisplay.aspx?ItemName=Screaming Spear of the Sun
 |cat=神器
+|mythic=是
 |tier=次级神器
 |base=[[长矛]]
 |enh=+4 血光 投掷

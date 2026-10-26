@@ -1,7 +1,7 @@
 {{Feat
 |name=奥多里征服
 |english_name=Aldori Style Conquest
-|categories=战斗
+|categories=战斗;流派
 |description=防御成为了你的本能，你的剑将惩罚那些试图攻击且失败的人。
 |prerequisites=[[奥多里决斗流]]，[[奥多里神盾]]，[[警觉]]，[[战斗反射]]，[[擅长异种武器]]（奥多里决斗剑），[[武器娴熟]]，[[武器专攻]]（奥多里决斗剑）
 |benefit=当你试图使用奥多里神盾招架一次攻击时，你不会受到任何因进行防御式战斗或使用 寓守于攻 而招致的攻击检定减值。

@@ -1068,7 +1068,7 @@
 |-
 | rowspan="11" | 种族特性 || style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 防御型 ||
 |-
-| [[种族构建：种族特性#毒素抗力|毒素抗力]] || 3 RP
+| [[种族构建：种族特性#毒性抗力|毒性抗力]] || 3 RP
 |-
 | style="color:#8a8175;font-size:.85em;letter-spacing:.1em" | 专长和技能 ||
 |-

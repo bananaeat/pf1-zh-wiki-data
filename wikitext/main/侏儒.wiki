@@ -456,6 +456,8 @@
 
 == 可选天赋职业奖励 ==
 
+{{AI翻译|nocat=1|本段由 AI 照《进阶职业指南》英文原文译出，未经人工校对。}}侏儒天生的好奇心让他们一头扎进自己选定的任何追求里，还常常把那些做法带向大胆的新方向。下列选项适用于天赋职业为所列职业的所有侏儒。
+
 === [[炼金术师]] ===
 
 【炼金炸弹】的每日次数+1/2。
@@ -498,7 +500,7 @@
 
 将下列一种加入【奥能力池】赋予武器的附魔列表中：护体，幽冥，慈悯，狂斩，反噬；同盟（Allying, APG），传导（Conductive, APG），酸蚀（Corrosive, APG），酸爆（Corrosive Burst, APG），威胁（Menacing, APG）。一旦通过该奖励获得一种附魔，将无法进行变更。
 
-从术士/法师的法术列表中选择1/2个幻术系法术加入魔战士的[[魔战士#法术书|法术书]]，魔战士可以将该法术视为同级魔战士法术。该法术必须比角色可以获得的最高环级的法术低一环。{{Source|惧怖冒险|Horror Adventures|inline}}
+从术士/法师的法术列表中选择1/2个不在魔战士法术列表上<!--AI补译-->的幻术系法术加入魔战士的[[魔战士#法术书|法术书]]，魔战士可以将该法术视为同级魔战士法术。该法术必须比角色可以获得的最高环级的法术低一环。{{Source|惧怖冒险|Horror Adventures|inline}}
 
 === [[武僧]] ===
 
@@ -540,47 +542,47 @@
 
 === [[奥能师]] ===
 
-每日获取的奥能源泉（Arcane Reservoir）增加1/6点。
+每日获取的奥能源泉（Arcane Reservoir）增加1/6点。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[血脉狂怒者]] ===
 
-在判断她的血脉狂怒者狂血之力（bloodline powers）效果时，血脉狂怒者有效等级增加1/4。
+在判断她的血脉狂怒者狂血之力（bloodline powers）效果时，血脉狂怒者有效等级增加1/4。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[拳师]] ===
 
-[[拳师]]每日可以使用[[拳师#千招百式|千招百式]]的次数增加1/4次。
+[[拳师]]每日可以使用[[拳师#千招百式|千招百式]]的次数增加1/4次。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[猎人]] ===
 
-猎人的动物伙伴（animal companion）获得DR 1/魔法。每当猎人等级提升时，这个DR就增加1/2（最高DR 10/魔法）。若猎人更换了动物伙伴，那么新的动物伙伴也会获得这个伤害减免。
+猎人的动物伙伴（animal companion）获得DR 1/魔法。每当猎人等级提升时，这个DR就增加1/2（最高DR 10/魔法）。若猎人更换了动物伙伴，那么新的动物伙伴也会获得这个伤害减免。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[调查员]] ===
 
-将一个额外公式加入到调查员的公式簿中。这个公式至少要比调查员当前能够使用的最高公式等级低1级。
+从调查员的化合炼成列表中选择一个化合炼成公式，加入调查员的公式簿中。这个公式至少要比调查员当前能够创造的最高公式等级低1级。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[萨满]] ===
 
-获得1/6个新[[萨满巫术]]（hex）。
+获得1/6个新[[萨满巫术]]（hex）。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[歌者]] ===
 
-施放[[歌者]]法术时，专注检定获得+1加值。
+施放[[歌者]]法术时，专注检定获得+1加值。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[杀手]] ===
 
-获得1/6个新[[杀手天赋]]（Slayer Talents）。
+获得1/6个新[[杀手天赋]]（Slayer Talents）。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[游荡剑客]] ===
 
-游荡剑客每日使用快乐人生（charmed life）的次数增加1/4。
+游荡剑客每日使用快乐人生（charmed life）的次数增加1/4。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[战斗祭司]] ===
 
-在治疗动物、精类和植物类生物时，战斗祭司引导能量的结果增加1/2。
+在治疗动物、精类和植物类生物时，战斗祭司引导能量的结果增加1/2。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[催眠师]] ===
 
-催眠师的催眠师诡计（mesmerist tricks）每日使用次数增加1/3次。
+催眠师的催眠师诡计（mesmerist tricks）每日使用次数增加1/3次。{{Source|异能冒险|Occult Adventures|inline}}
 
 === [[变形者]] ===
 
@@ -588,19 +590,19 @@
 
 === [[唤魂师]] ===
 
-当唤魂师处于魅影加护（Spiritual Interference）或者高等魅影加护（Greater Spiritual Interference）的效果影响时，她所获得的盾牌加值增加1/6点。
+当唤魂师处于魅影加护（Spiritual Interference）或者高等魅影加护（Greater Spiritual Interference）的效果影响时，她所获得的盾牌加值增加1/6点。{{Source|异能冒险|Occult Adventures|inline}}
 
 === [[异能者]] ===
 
-异能者的精神力池（phrenic pool）的总量增加1/3点。
+异能者的精神力池（phrenic pool）的总量增加1/3点。{{Source|异能冒险|Occult Adventures|inline}}
 
 === [[秘学士]] ===
 
-秘学士的弱效幻象（Minor Figment；幻术灵器的基本灵器之力）持续时间增加1分钟，扭曲（Distortion；幻术灵器的共鸣之力）提供的隐蔽失手率总值增加2%。这并不会增加失手率的最大值。
+秘学士的弱效幻象（Minor Figment；幻术灵器的基本灵器之力）持续时间增加1分钟，扭曲（Distortion；幻术灵器的共鸣之力）提供的隐蔽失手率总值增加2%。这并不会增加失手率的最大值。{{Source|异能冒险|Occult Adventures|inline}}
 
 === [[通灵者]] ===
 
-在对抗英灵（spirits）、不死生物（undead）、魅影（phantoms）以及星界位面（Astral Plane）的本地生物时，通灵者会在唬骗、交涉、威吓和察言观色技能检定上获得+1/2加值。
+在对抗英灵（spirits）、不死生物（undead）、魅影（phantoms）以及星界位面（Astral Plane）的本地生物时，通灵者会在唬骗、交涉、威吓和察言观色技能检定上获得+1/2加值。{{Source|异能冒险|Occult Adventures|inline}}
 
 === [[操念使]] ===
 

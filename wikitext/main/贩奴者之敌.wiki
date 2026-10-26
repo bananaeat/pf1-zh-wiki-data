@@ -1,6 +1,7 @@
 {{Trait
 |name=贩奴者之敌
 |english_name=Enemy of Slavers
+|pfs=否
 |type=社会
 |prerequisites=遵循自由准则
 |description=若你遵守该准则，你将无比坚定地反抗奴隶制，他人能清楚地感受到你的热忱。奴隶贩子将会因为你坚定且迅猛的狂怒而倾向在冲突升级前安抚你。在面对奴隶贩子和其他强行囚禁无辜者的人时，你的交涉和威吓检定获得+2背景加值。

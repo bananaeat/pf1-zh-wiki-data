@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{装备
 |name=不稳定促进剂
 |english_name=Unstable accelerant

@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=高等塑造心像结界
 |english_name=Create Mindscape, Greater

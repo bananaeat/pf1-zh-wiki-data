@@ -1,0 +1,47 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=角鼻龙
+|english_name=Dinosaur, Ceratosaurus
+|cr=5
+|xp=1,600
+|alignment=绝对中立
+|size=大型
+|type=动物
+|init=+6
+|senses=昏暗视觉，灵敏嗅觉；察觉 +7
+|description=这只牙齿森然的两足恐龙，吻部和眼眶脊上伸出刀刃般的角。
+|ac=18，接触 11，措手不及 16（+2 敏捷，+7 天生，–1 体型）
+|hp=52（8d8+16）
+|fort=+8
+|ref=+8
+|will=+4
+|defensive=凶猛
+|speed=40 尺
+|melee=啮咬 +12（2d6+10 附加绊摔）
+|space=10 尺
+|reach=10 尺
+|special_attacks=鲜血狂怒
+|str=24
+|dex=15
+|con=15
+|int=2
+|wis=11
+|cha=10
+|bab=+6
+|cmb=+14
+|cmd=26
+|feats=[[精通先攻]];[[钢铁意志]];[[飞跑]];[[技能专攻]]（隐匿）
+|skills=[[察觉]] +7;[[隐匿]] +12
+|racial_mods=+4 隐匿
+|environment=温带或温暖的森林或平原
+|organization=单独，成对，或一群（3–7）
+|treasure=无
+|source=怪物图鉴5
+|lore=
+出处：《怪物图鉴5》第 83 页
+
+尽管角鼻龙的角主要用于求偶展示，它的颌部却极为致命。角鼻龙高 10 尺，身长最长可达 18 尺，重达 1,600 磅。
+}}
+
+本页译自《[[怪物图鉴5]]》的怪物图鉴 CHM。

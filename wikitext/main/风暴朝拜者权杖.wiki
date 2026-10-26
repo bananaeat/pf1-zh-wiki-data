@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=风暴朝拜者权杖
 |english_name=Storm Kindler's Rod

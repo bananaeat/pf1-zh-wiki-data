@@ -1,5 +1,4 @@
 {{速查导航}}
-{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
 {{怪物
 |name=谨慎法师
 |english_name=Cautious Mage
@@ -12,7 +11,7 @@
 |subtypes=人类
 |init=+5
 |senses=察觉+4
-|ac=15，接触11，措手不及14（+4盔甲，+1敏捷）
+|ac=15，接触11，措手不及14（+4护甲，+1敏捷）
 |hp=9（1d6+3）
 |fort=+2
 |ref=+1
@@ -21,7 +20,7 @@
 |melee=木棍+0（1d6）
 |special_attacks=学徒之手（6次/天）
 |spells=已准备法师法术（施法者等级1，专注+4）；1级—[[燃烧之手]]（DC 14），[[法师护甲]]；0级（随意）—[[出血术]]（DC 13），[[侦测魔法]]，[[提升抗力]]
-|tactics=<div class="ml wide"><span class="k">战斗前</span>法师施展法师护甲。</div><div class="ml wide"><span class="k">战斗中</span>法师用学徒之手投掷自己的木棍，或施展燃烧之手。她会主动提出把变巨术卷轴用在愿意保护她的盟友身上。</div><div class="ml wide"><span class="k">基础数据</span>没有法师护甲时，法师的数据为：AC 11，接触 11，措手不及 10。</div>
+|tactics=<div class="ml wide"><span class="k">战斗前</span>法师施放法师护甲。</div><div class="ml wide"><span class="k">战斗中</span>法师用学徒之手掷出木棍攻击，或施放燃烧之手。她会主动提出，对愿意保护她的盟友使用她的变巨术卷轴。</div><div class="ml wide"><span class="k">基础数据</span>未施放法师护甲时，法师的数值为 AC 11，接触 11，措手不及 10。</div>
 |str=10
 |dex=13
 |con=14
@@ -41,6 +40,12 @@
 |family=核心职业（NPC志）
 |npc=1
 |lore=
-这些法师是刚入行的冒险者，正在寻找能保护自己的人。
+这些法师是初出茅庐的冒险者，正在寻找能保护自己的同伴。
+
+=== 霍德瑞达·丹顿 ===
+
+霍德瑞达热爱魔法，却不爱拿性命冒险。替卫队长做过几份报酬微薄的差事之后，她决定出门冒险，但想找一支强大的队伍来保她平安。
 }}
+
+本页译自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=167531.msg1415907#msg1415907 【NPCC】核心职业：法师（Wizard）]（原译者：dr.fate；沉沦校对润饰）。
 {{AoN原文|1=NPCDisplay.aspx?ItemName=Cautious Mage|2=Cautious Mage}}

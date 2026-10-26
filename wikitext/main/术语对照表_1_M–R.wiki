@@ -4415,7 +4415,7 @@
 |-
 | Ride The Waves || [[驭波术]] || 法术
 |-
-| Ride-By Attack || [[骑乘掠击 (神话)|快速骑乘攻击]] || 专长
+| Ride-By Attack || [[骑乘掠击]] || 专长
 |-
 | Rider's Bond || [[骑手羁绊]] || 背景特性
 |-

@@ -3,7 +3,7 @@
 |english_name=Atavism Totem, Greater
 |type=Su
 |categories=图腾
-|prerequisites=[[野蛮人]]10级，[[原祖图腾]]
+|prerequisites=[[野蛮人]]10级
 |benefit=野蛮人获得[[通用怪物规则|践踏]][[特殊攻击]]。
 |source_name=恶棍志
 }}

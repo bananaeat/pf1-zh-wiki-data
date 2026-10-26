@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=自由祝福|en=Liberty's Blessing|type=Sp|domain=解放领域|sub=自由子域 (Freedom)|sub_name=自由子域|source=进阶玩家指南|text=你可用[[标准动作]]触摸一个自愿的生物，给予其恩惠。有此恩惠的生物可以以[[迅捷动作]]，对一个正在影响它且允许豁免的法术或效果进行一次豁免，DC等于该法术或效果原本的DC；豁免成功则该效果结束。恩惠持续1分钟，或直到成功用来移除一个法术或效果为止，以较短者为准。<small>（这一段 CHM 汉化没有译文，由 AI 照 AoN 补译。）</small>每天“3+[[感知]]调整值”次。此能力替换[[解放领域#解放 (Liberation, Su)|解放]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

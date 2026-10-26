@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=战术指挥之旗
 |english_name=Banner of Tactical Command

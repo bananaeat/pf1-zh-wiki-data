@@ -1,0 +1,8 @@
+<includeonly><div class="pfs-off" style="display:inline-block;margin:.2em 0 .5em;padding:.1em .6em;border:1px solid #b5452b;border-radius:4px;color:#b5452b;background:#fbeee9;font-size:.88em;line-height:1.6">非 [[开拓者协会|PFS]] 合法{{#if:{{{1|}}}|：{{{1}}}}}</div>{{#if:{{{nocat|}}}||[[分类:PFS不可用]]}}</includeonly><noinclude>
+标在 PFS（开拓者协会）组织游戏里不能用的条目上：法术、物品、变体职业、种族等（专长卡片自带 <code>pfs=否</code>）。放在页顶卡片前；参数 1 可写一句出处或原因（照额外资源原文），不写就只显示标签。自动进 [[:分类:PFS不可用]]，<code>nocat=1</code> 不进。
+
+ {{PFS不可用}}
+
+{{PFS不可用|nocat=1}}
+[[分类:模板]]
+</noinclude>

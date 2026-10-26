@@ -1,4 +1,5 @@
 {{消歧义|旋风(怪物能力)}}
+{{PFS不可用}}
 {{物品
 |name=旋风
 |english_name=The Cyclone

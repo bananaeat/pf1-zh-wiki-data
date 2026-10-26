@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=炽辐武器
 |english_name=Blightburn weapon

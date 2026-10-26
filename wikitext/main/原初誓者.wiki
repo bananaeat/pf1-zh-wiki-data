@@ -1,3 +1,4 @@
+{{PFS特殊|1=原初誓者（sworn of the Eldest）变体职业对任何种族的PC皆可用。|ai=1}}
 {{Source|荒野源始|Wilderness Origins}}
 
 '''原初誓者'''（Sworn of the Eldest）是[[伽瑟兰]]专属的[[审判者]][[变体职业]]。

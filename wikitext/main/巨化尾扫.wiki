@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=巨化尾扫
 |english_name=Enlarge tail

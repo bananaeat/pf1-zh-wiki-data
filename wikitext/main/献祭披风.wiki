@@ -1,4 +1,5 @@
 {{消歧义|献祭披风(魔法物品)}}
+{{PFS不可用}}
 {{魔法物品
 |name=献祭披风
 |english_name=Cloak of Immolation

@@ -1,3 +1,4 @@
+{{PFS特殊|1=仅限鼠族PC合法。|ai=1}}
 {{装备
 |name=骑乘用巨鼠
 |english_name=Riding rat

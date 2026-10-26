@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=电弧|en=Lightning Arc|type=Sp|domain=气领域|source=核心规则书|text=你能用[[标准动作]]发出一道电弧。通过一个远程[[接触攻击]]任何30尺以内的敌人。电弧造成“1d6+1/2牧师等级”的电伤害。你每天可以使用此能力次数为“3+感知修正”。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

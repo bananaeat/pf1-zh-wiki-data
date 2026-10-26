@@ -4,7 +4,7 @@
 |english_name=Telekinetic Dependence
 |type=种族
 |pfs=否
-|prerequisites=[[吸血鬼]]（诺斯弗拉图血族）
+|prerequisites=[[吸血鬼]]（诺斯费拉图血族）
 |description=你的身体如此古老，以至于你害怕用力会损伤它。当你施放（或作为类法术能力使用）[[飞行术]]、[[浮空术]]、[[法师之手]]、[[心灵遥控]]以及类似的纯凭意志移动物体的法术时，你的施法者等级获得+1背景加值。
 |source_name=夜之血脉
 |source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Telekinetic%20Dependence

@@ -1,4 +1,3 @@
-{{消歧义|暗刃(战士变体职业)}}
 {{魔法物品
 |name=暗刃
 |english_name=Gloom Blade

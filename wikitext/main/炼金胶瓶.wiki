@@ -1,8 +1,10 @@
+{{PFS不可用}}
 {{魔法物品
 |name=炼金胶瓶
 |english_name=Hermetic Flask
 |aon=MagicArtifactsDisplay.aspx?ItemName=Hermetic Flask
 |cat=神器
+|mythic=是
 |tier=次级神器
 |aura=强烈变化系
 |cl=20

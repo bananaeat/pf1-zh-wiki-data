@@ -1,4 +1,0 @@
-<noinclude>{{牧师导航}}
-</noinclude>{{领域能力|name=酸镖|en=Acid Dart|type=Sp|domain=土领域|source=核心规则书|text=你能用[[标准动作]]发出一道酸镖。通过远程[[接触攻击]]一个30尺以内的敌人，酸镖造成“1d6+1/2牧师等级”的酸蚀伤害。你每天可以使用此能力次数“3+[[感知]]调整值”。}}<noinclude>
-
-[[分类:领域]]</noinclude>

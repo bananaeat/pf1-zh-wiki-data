@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=法师的徐行空间
 |english_name=Mage's crawl space

@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=丰溢魔瓶
 |english_name=Bountiful Bottle

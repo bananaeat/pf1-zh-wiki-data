@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=妨碍言谈
 |english_name=Impede Speech

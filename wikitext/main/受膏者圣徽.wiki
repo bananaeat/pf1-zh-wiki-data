@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=受膏者圣徽
 |english_name=Anointed Holy Symbol

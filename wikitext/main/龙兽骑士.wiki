@@ -1,3 +1,4 @@
+{{PFS特殊|1=龙兽骑士（Drakerider）必须属于狂兽骑士团（Order of the Beast，ISC）、蛇怪骑士团（Order of the Cockatrice）或巨龙骑士团（Order of the Dragon）。|ai=1}}
 {{Source|巨龙遗产|Legacy of Dragons}}
 
 '''龙兽骑士'''（Drakerider）是[[骑士]]的[[变体职业]]。

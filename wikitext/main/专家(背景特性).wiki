@@ -2,6 +2,7 @@
 {{Trait
 |name=专家
 |english_name=Savant
+|pfs=否
 |type=社会
 |prerequisites=基萨洛迪安学院(Kitharodian Academy)
 |description=自幼时起，掌握表演类型的能力对你而言挥洒自如。 选择一种表演类型。你在所有使用该表演类型的表演检定获得+2背景加值。表演总是你的[[本职技能]]。

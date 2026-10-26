@@ -4,7 +4,7 @@
 |english_name=Rapid Drain
 |type=种族
 |pfs=否
-|prerequisites=[[吸血鬼]]（诺斯弗拉图血族）
+|prerequisites=[[吸血鬼]]（诺斯费拉图血族）
 |description=你饥渴的凶猛让你能更快地从受害者身上汲取生命。当你使用吸血能力时，你获得7点临时生命值，而非5点。
 |source_name=夜之血脉
 |source_url=https://aonprd.com/TraitDisplay.aspx?ItemName=Rapid%20Drain

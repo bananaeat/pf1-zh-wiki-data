@@ -1,3 +1,4 @@
+{{PFS特殊|1=长枪学徒（Disciple of the Pike）的骑士不能满足[[进阶武器训练]]的先决条件。}}
 {{Source|怪物猎人手册|Monster Hunter's Handbook}}
 
 '''枪之从者'''（Disciple of the Pike）是[[骑士]]的[[变体职业]]。

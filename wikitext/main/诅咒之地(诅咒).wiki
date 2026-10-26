@@ -4,6 +4,7 @@
 |english_name=Cursed Earth
 |kind=诅咒
 |type=区域诅咒
+|area=半径1英里的散发
 |save=意志 DC 23
 |effect=该区域受到饥荒、死而复生或瘟疫的诅咒，如同[[诅咒之地]]法术所述。
 |source=惧怖冒险

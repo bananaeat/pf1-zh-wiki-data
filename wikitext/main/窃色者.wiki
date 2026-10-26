@@ -1,9 +1,9 @@
 {{AI翻译|本页由 AI 照 AoN 英文原文译出（Goblins of Golarion pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{PFS特殊|1=只有合法的地精PC才能从本书中选择任何内容。|ai=1}}
 {{Trait
 |name=窃色者
 |english_name=Color Thief
 |type=种族
-|pfs=否
 |prerequisites=地精
 |description=你的皮肤带着一种古怪的色调，能以某种方式吸收背景的颜色。也许是因为你妈妈怀着你的时候喝了太多药水。也许是因为你受到了犬魔的祝福。也许只是因为你比其他无聊的[[地精]]更厉害。无论如何，只要你只穿轻甲或不穿护甲，你的[[隐匿]]检定就获得+2背景加值。
 |source_name=格拉利昂的地精

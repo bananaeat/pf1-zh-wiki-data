@@ -19,10 +19,10 @@
 |defensive=兽人凶猛
 |speed=20尺
 |melee=精制品巨斧 +5（1d12+3/x3）
-|ranged=短弓 +1（1d6/X3）
+|ranged=短弓 +1（1d6/x3）
 |special_attacks=制裁邪恶 1次/每天（+1攻击与 AC ，+2伤害）
 |spell_like=（CL2；专注+3）；随意——[[侦测邪恶]]
-|tactics=<div class="ml wide"><span class="k">战斗中</span>圣武士更喜欢在以巨斧进入近战之前先用弓攻击。除非面对重甲敌人，她会使用猛力攻击。</div>
+|tactics=<div class="ml wide"><span class="k">战斗中</span>圣武士偏好先用弓攻击，再持巨斧投入近战。除非对付的是重甲敌人，否则她都会使用猛力攻击。</div>
 |str=15
 |dex=8
 |con=16
@@ -36,13 +36,13 @@
 |skills=[[医疗]]+5;[[威吓]]+3;察觉+2;[[察言观色]]+6
 |languages=通用语;兽人语
 |sq=灵氲;行为准则;圣疗（1d6，每天2次）;兽人之血;武器熟悉
-|combat_gear=治疗轻伤药水;绊足包 X2
-|gear=板条甲;精制品巨斧;短弓+20支箭;木质圣徽;28gp
+|combat_gear=治疗轻伤药水;绊足包 x2
+|gear=混织铁甲;精制品巨斧;短弓和20支箭;木质圣徽;28gp
 |source=NPC志
 |family=核心职业（NPC志）
 |npc=1
 |lore=
-可敬流放者远离自己的家乡独自行动。有些因为在野地游历太久甚至丧失了优雅的礼节与处世的圆滑。
+可敬流放者远离家乡，常常独来独往。有些人在荒野中追寻使命太久，早已没有半点社交礼仪与分寸可言。
 }}
 
-本页译自《[[NPC志]]》的怪物图鉴 CHM。
+本页译自《[[NPC志]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=61794.msg575012#msg575012 【NPCC】核心职业：圣武士（Paladin）]，原译者：solariusyang；沉沦校对润饰）。

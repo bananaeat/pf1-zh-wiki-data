@@ -24,37 +24,33 @@
 * [[巫妖]]（Lich；大法师的反英灵）
 * [[终结者]]（Terminator；守护者的反英灵）
 * [[战帅]]（Warmonger；统帅的反英灵）
-* 异端（Heretic；大祭司的反英灵）——'''站上还没有页'''：[[异端]] 那个名字被《[[极限魔法]]》的[[牧师]]变体 Heretic 占着
+* [[异端(通灵者英灵)|异端]]（Heretic；大祭司的反英灵）
 
-== 还没译的 ==
+== 本章其余变体职业 ==
 
-这 24 条民间汉化只抄了英文名，站上没有页。
-
-* <code>Blood Alchemist (Archetype)</code>
-* <code>Mad Scientist (Archetype)</code>
-* <code>Dreadnought (Archetype)</code>
-* <code>Fearsome Defender (Archetype)</code>
-* <code>Mooncursed (Archetype)</code>
-* <code>Elder Mythos Cultist (Archetype)</code>
-* <code>Cult Hunter (Archetype)</code>
-* <code>Gravedigger (Archetype)</code>
-* <code>Profiler (Archetype)</code>
-* <code>Dark Elementalist (Archetype)</code>
-* <code>Psychokineticist (Archetype)</code>
-* <code>Dreamstalker (Archetype)</code>
-* <code>Gaslighter (Archetype)</code>
-* <code>Hate-Monger (Archetype)</code>
-* <code>Bloody Jake (Archetype)</code>
-* <code>Family Hunter (Archetype)</code>
-* <code>Witch Killer (Archetype)</code>
-* <code>Exciter (Archetype)</code>
-* <code>Necrologist (Archetype)</code>
-* <code>Experimenter (Archetype)</code>
-* <code>Hangman (Archetype)</code>
-* <code>Serial Killer (Archetype)</code>
-* <code>Gingerbread Witch (Archetype)</code>
-* <code>Tatterdemalion (Archetype)</code>
-
-本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_548.html 原文]）。同一批的其他章见 [[:分类:书目章节]]。
+* [[炼血士]]（Blood Alchemist）
+* [[疯狂科学家]]（Mad Scientist）
+* [[石心人]]（Dreadnought）
+* [[邪惧奴]]（Fearsome Defender）
+* [[月嚎]]（Mooncursed）
+* [[旧神密教徒]]（Elder Mythos Cultist）
+* [[邪教猎人]]（Cult Hunter）
+* [[掘墓人]]（Gravedigger）
+* [[心理测量者]]（Profiler）
+* [[黑暗使徒]]（Dark Elementalist）
+* [[心念使]]（Psychokineticist）
+* [[觭梦追猎者]]（Dreamstalker）
+* [[煽动者(催眠师变体职业)|煽动者]]（Gaslighter）
+* [[憎恶贩子]]（Hate-Monger）
+* [[血腥乡民]]（Bloody Jake）
+* [[家族猎手]]（Family Hunter）
+* [[巫师杀手]]（Witch Killer）
+* [[激癫狂人]]（Exciter）
+* [[亡灵驭者]]（Necrologist）
+* [[实验员]]（Experimenter）
+* [[处刑人]]（Hangman）
+* [[连环杀手]]（Serial Killer）
+* [[姜饼女巫]]（Gingerbread Witch）
+* [[奇裳客]]（Tatterdemalion）
 
 [[分类:书目章节]]

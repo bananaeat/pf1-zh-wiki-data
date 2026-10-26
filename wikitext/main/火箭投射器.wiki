@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=火箭投射器
 |english_name=Springal, rocket

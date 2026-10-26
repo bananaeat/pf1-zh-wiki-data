@@ -1,8 +1,10 @@
+{{PFS不可用}}
 {{魔法物品
 |name=闪耀王者节杖
 |english_name=Scepter of the Shining Lord
 |aon=MagicArtifactsDisplay.aspx?ItemName=Scepter of the Shining Lord
 |cat=神器
+|mythic=是
 |tier=高等神器
 |base=[[轻型硬头锤]]
 |enh=+6 光能

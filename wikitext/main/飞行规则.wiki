@@ -1,0 +1,172 @@
+{{#addbodyclass:pf-rules}}{{速查导航|here=规则}}
+<div class="wm-src"><b>出处</b><span>[[飞行|核心规则书·飞行]]</span><span>[[环境规则#坠落|坠落]]</span><span>[[天气#风|风]]</span><span>[[飞行(怪物能力)|通用怪物规则·飞行]]</span><span>[[摔绊]]</span><span>[[移动，位置和距离]]</span><span>[[飞行术]]</span><span>《[[极限荒野]]》[[荒野天气]]</span><span>《[[掉链子]]》[[整合技能]]</span><span>[[位面特性]]</span><span>[[载具#空中载具|空中载具]]</span></div>
+飞行的生物可以为地面的战斗加入第三个维度。
+
+== 飞行检定 ==
+<div class="wm-ladder">
+<div class="wl-c wl-1"><div class="wl-h">—<small>无需检定</small></div><span class="wl-i">以消耗5尺的移动进行45度转弯</span><span class="wl-i">以半速45度角上升</span><span class="wl-i">以正常速度任意角度下降</span><span class="wl-i">飞行速度保持高于基础速度的一半</span></div>
+<div class="wl-c wl-1"><div class="wl-h">10</div><span class="wl-i">以低于半速的速度飞行</span><span class="wl-i">用翅膀飞行并受到伤害</span><span class="wl-i">免除坠落伤害</span></div>
+<div class="wl-c wl-2"><div class="wl-h">15</div><span class="wl-i">盘旋</span><span class="wl-i">以5尺移动转大于45度的弯</span></div>
+<div class="wl-c wl-3"><div class="wl-h">20</div><span class="wl-i">以10尺移动转180度的弯</span><span class="wl-i">以高于45度角上升</span><span class="wl-i">检定体型</span></div>
+<div class="wl-c wl-4"><div class="wl-h">25</div><span class="wl-i">撞击</span><span class="wl-i">吹飞体型</span></div>
+</div>
+
+<div class="rule-def"><div class="rd-t">检定<small>核心规则书</small></div><div class="rd-b">通常你只需在飞行状态下进行复杂动作时才会需要飞行检定。如果不进行检定，飞行中的生物 (只要它的飞行速度保持高于基础速度的一半) 可以持续飞行至本轮结束。你还能以消耗5尺的移动进行45度转弯、或以半速45度角上升、或以正常速度任意角度下降。不过注意，这些限制条件仅在你的当前轮生效。在下一轮开始时，你可以转向和之前一轮不同的方向而无需检定。除此之外，所有在飞行中的动作都需要进行飞行检定。</div></div>
+<div class="rule-def"><div class="rd-t">受到攻击<small>核心规则书</small></div><div class="rd-b">在飞行状态下你不会被视为[[措手不及]]。如果你用翅膀飞行并受到伤害，你必须通过DC 10的飞行检定否则将垂直下降10尺高度。不过，该下降动作不会引发藉机攻击，也不计入生物的移动速度。</div></div>
+<div class="rule-def"><div class="rd-t">撞击<small>核心规则书</small></div><div class="rd-b">如果你使用翅膀飞行，并在空中和另一个体型不小于你的物体相撞，你必须立刻进行DC 25的飞行检定，失败则直坠地面并受到坠落伤害。</div></div>
+<div class="rule-def"><div class="rd-t">免除坠落伤害<small>核心规则书</small></div><div class="rd-b">如果你正在坠落但是仍具有飞行能力，你可以进行DC 10的飞行检定以免除坠落伤害。不过，该能力不能免除失败的飞行检定或空中撞击造成的坠落伤害。</div></div>
+<div class="rule-def"><div class="rd-t">重试<small>核心规则书</small></div><div class="rd-b">部分可。你可以在接下来一轮中继续上轮的飞行检定。不过若你使用翅膀飞行且飞行检定结果低于DC 5点以上，你将坠落并承受坠落伤害。</div></div>
+<div class="rule-def"><div class="rd-t">动作<small>核心规则书</small></div><div class="rd-b">无。进行飞行检定无需额外动作，检定行动已经包含在进行反应的动作中了。</div></div>
+{{FAQ|v5748eaic9o76|v5748eaic9u63}}
+
+=== 上升与下降 ===
+<div class="wm-buoy">
+<div class="wu-r"><span class="wu-a">↑</span><b>DC 20</b><span>以高于45度角上升</span></div>
+<div class="wu-r mid"><span class="wu-a">↗</span><b>无需检定</b><span>以半速45度角上升</span></div>
+<div class="wu-r"><span class="wu-a">↓</span><b>无需检定</b><span>以正常速度任意角度下降</span></div>
+</div>
+<div class="rule-def"><div class="rd-t">[[飞行术]]</div><div class="rd-b">他能以半速上升，也能以倍速下降，他的飞行机动性为良好。飞行术的受术者可以冲锋但不能奔跑。</div></div>
+
+== 机动性与体型 ==
+拥有天生飞行速度的生物，将根据飞行的机动性在飞行检定上获得加值 (或减值)。没有列出具体机动性的飞行生物视为机动性一般。
+<div class="wm-bars">
+<div class="wb-r"><span class="wb-l">笨拙</span><span class="wb-t ctr"><i style="left:0.00%;width:50.00%;--tc:#a4553f"></i></span><span class="wb-v">-8</span></div>
+<div class="wb-r"><span class="wb-l">不良</span><span class="wb-t ctr"><i style="left:25.00%;width:25.00%;--tc:#a4553f"></i></span><span class="wb-v">-4</span></div>
+<div class="wb-r"><span class="wb-l">一般</span><span class="wb-t ctr"><i style="left:50.00%;width:0.60%;--tc:#6b6b6b"></i></span><span class="wb-v">+0</span></div>
+<div class="wb-r"><span class="wb-l">良好</span><span class="wb-t ctr"><i style="left:50.00%;width:25.00%;--tc:#3f6b4a"></i></span><span class="wb-v">+4</span></div>
+<div class="wb-r"><span class="wb-l">完美</span><span class="wb-t ctr"><i style="left:50.00%;width:50.00%;--tc:#3f6b4a"></i></span><span class="wb-v">+8</span></div>
+<div class="wb-ax"><span></span><span><span>-8</span><span>-4</span><span>0</span><span>+4</span><span>+8</span></span><span></span></div>
+</div>
+生物的体型大小也会影响到飞行技能的加/减值。
+<div class="wm-bars">
+<div class="wb-r"><span class="wb-l">超微型</span><span class="wb-t ctr"><i style="left:50.00%;width:50.00%;--tc:#3f6b4a"></i></span><span class="wb-v">+8</span></div>
+<div class="wb-r"><span class="wb-l">微型</span><span class="wb-t ctr"><i style="left:50.00%;width:37.50%;--tc:#3f6b4a"></i></span><span class="wb-v">+6</span></div>
+<div class="wb-r"><span class="wb-l">超小型</span><span class="wb-t ctr"><i style="left:50.00%;width:25.00%;--tc:#3f6b4a"></i></span><span class="wb-v">+4</span></div>
+<div class="wb-r"><span class="wb-l">小型</span><span class="wb-t ctr"><i style="left:50.00%;width:12.50%;--tc:#3f6b4a"></i></span><span class="wb-v">+2</span></div>
+<div class="wb-r"><span class="wb-l">中型</span><span class="wb-t ctr"><i style="left:50.00%;width:0.60%;--tc:#6b6b6b"></i></span><span class="wb-v">+0</span></div>
+<div class="wb-r"><span class="wb-l">大型</span><span class="wb-t ctr"><i style="left:37.50%;width:12.50%;--tc:#a4553f"></i></span><span class="wb-v">-2</span></div>
+<div class="wb-r"><span class="wb-l">超大型</span><span class="wb-t ctr"><i style="left:25.00%;width:25.00%;--tc:#a4553f"></i></span><span class="wb-v">-4</span></div>
+<div class="wb-r"><span class="wb-l">巨型</span><span class="wb-t ctr"><i style="left:12.50%;width:37.50%;--tc:#a4553f"></i></span><span class="wb-v">-6</span></div>
+<div class="wb-r"><span class="wb-l">超巨型</span><span class="wb-t ctr"><i style="left:0.00%;width:50.00%;--tc:#a4553f"></i></span><span class="wb-v">-8</span></div>
+<div class="wb-ax"><span></span><span><span>-8</span><span>-4</span><span>0</span><span>+4</span><span>+8</span></span><span></span></div>
+</div>
+<div class="rule-def"><div class="rd-t">特殊<small>核心规则书</small></div><div class="rd-b">所有拥有飞行速度的生物都将飞行视为[[本职技能]]。如果没有天生的飞行或滑翔能力，生物无法获得此技能的等级。不过，每天都能稳定练习飞行的生物，也可以借此提升飞行技能等级 (即使是通过魔法或其他特殊方法飞行)。拥有蝙蝠[[魔宠]]的施法者的飞行技能检定+3。如果你拥有[[特技专家]]专长，你可以在飞行检定上获得一定的加值。</div></div>
+<div class="lang-grid">
+{{:飞行(怪物能力)}}
+</div>
+<div class="wm-chips"><span class="wc-k">改善机动性</span><span>[[老道飞行员]]<small>提升至一般</small></span><span>[[优雅翱翔]]<small>提升一级，最高提升到良好</small></span><span>[[强翼术]]</span></div>
+
+== 飞行中的战斗 ==
+<div class="rule-def gloss"><div class="rd-t">[[措手不及]]</div><div class="rd-b">在飞行状态下你不会被视为措手不及。</div></div>
+<div class="rule-def gloss"><div class="rd-t">[[摔绊]]</div><div class="rd-b">有一些特殊的生物——比如泥怪、没有腿的生物和飞行生物则无法摔绊。</div></div>
+<div class="rule-def gloss"><div class="rd-t">[[困难地形]]</div><div class="rd-b">拥有飞行移动能力或是虚体特性的生物不受困难地形的影响。拥有飞行移动能力或是虚体特性的生物不受大多数障碍物的影响。</div></div>
+<div class="rule-def gloss"><div class="rd-t">[[麻痹]]</div><div class="rd-b">有翅膀的生物在飞行时被麻痹将无法舞动翅膀并掉下来。</div></div>
+<div class="rule-def gloss"><div class="rd-t">效果区域</div><div class="rd-b">空中和水下效果和区域常视为三维空间。</div></div>
+<div class="rule-formulas">
+<div class="rule-formula" style="--tc:#3f6f8f"><div class="rf-t">在三维空间中，对于一个给定的方格，在它的周围有</div><div class="rf-e"><b>26个</b>合法的空间</div></div>
+<div class="rule-formula" style="--tc:#6b6b6b"><div class="rf-t">而不是只有</div><div class="rf-e"><b>8个</b></div></div>
+</div>
+<div class="rule-def"><div class="rd-t">[[夹击]]<small>水下冒险</small></div><div class="rd-b">一般情况下的夹击规则都能应用在三维空间中，但是在三维空间中夹击的方式会多得多。这也意味着可以有更多数量弱小的生物围殴一名强大的生物，因为对于一个给定的方格，在它的周围有26个合法的空间，而不是只有8个。</div></div>
+
+=== 飞行相关专长 ===
+<div class="wm-ways">
+<div class="wm-way"><b>[[飞越攻击]]<small>怪物专长</small></b>当生物飞行时，该生物可以在移动途中进行一个移动动作和另一个标准动作。不过在飞行途中，生物不能进行多于一个移动动作。</div>
+<div class="wm-way"><b>[[盘旋]]<small>怪物专长</small></b>拥有此专长的生物可以停止飞行移动，而是进行无需飞行检定的盘旋动作。</div>
+<div class="wm-way"><b>[[侧滑飞行]]<small>怪物专长</small></b>每轮1次，拥有此专长的生物能以一个自由动作，在飞行时做至多180度急转弯而无需进行飞行技能检定，这次转向不需要消耗该生物的任何移动。</div>
+<div class="wm-way"><b>[[攫抓]]<small>怪物专长</small></b>如果生物在飞行状态抛出被攫抓的目标，目标承受的伤害为上述伤害与坠落伤害中的较高者。</div>
+<div class="wm-way"><b>[[谨慎飞行者]]<small>专长</small></b>只要你以移动动作进行飞行，即便移动距离不足你速度的一半，也不需要通过成功的飞行检定来维持飞行。</div>
+<div class="wm-way"><b>[[凌空转体]]<small>专长</small></b>当你在飞行中,被攻击时可以一个即时动作进行一次飞行技能检定.如果飞行技能检定结果大于攻击骰结果,则你可以闪避这次攻击</div>
+<div class="wm-way"><b>[[殃云天降]]<small>专长</small></b>每当你从更高的地形或飞行状态从更高处冲锋你的敌人时，你从居高临下和冲锋获得的攻击检定加值变为+5。</div>
+<div class="wm-way"><b>[[死自下现]]<small>专长</small></b>当你设置好一件武器用于反冲锋或你能对一个飞行中的对手借机攻击时，你在对此飞行中的对手的攻击检定上获得+2环境加值。</div>
+<div class="wm-way"><b>[[削翼]]<small>专长</small></b>当你对能使用翅膀飞行的对手确认一次重击时，你可以放弃额外的重击伤害来阻止他在等于两倍于你的攻击重击乘数的回合内飞行。</div>
+</div>
+
+== 风 ==
+“检定体型”表示该体型或者更小的生物只有在通过DC 20的飞行检定后才能在风力影响下飞行，“吹飞体型”表示如果该体型或者更小的生物若未能通过DC 25的飞行检定，就会被吹飞2d6×10尺并受到2d6点[[非致命伤害]]。只要该生物还保持在空中飞行，此检定就必须每轮进行，被吹飞的生物依然可以通过DC 20的飞行检定保持飞行，如同之前检定成功一般。
+{| class="wikitable wm-mx wm-wind"
+! 风力 !! 超微型 !! 微型 !! 超小型 !! 小型 !! 中型 !! 大型 !! 超大型 !! 巨型 !! 超巨型 !! 飞行减值
+|-
+| 强风<br><small>每小时21 – 30英里</small> || class="mid" | 检定 || class="mid" | 检定 || class="mid" | 检定 || class="ok" |  || class="ok" |  || class="ok" |  || class="ok" |  || class="ok" |  || class="ok" |  || class="bad" | –2
+|-
+| 烈风<br><small>每小时31 – 50英里</small> || class="bad" | 吹飞 || class="bad" | 吹飞 || class="bad" | 吹飞 || class="mid" | 检定 || class="ok" |  || class="ok" |  || class="ok" |  || class="ok" |  || class="ok" |  || class="bad" | –4
+|-
+| 暴风<br><small>每小时51 – 74英里</small> || class="bad" | 吹飞 || class="bad" | 吹飞 || class="bad" | 吹飞 || class="bad" | 吹飞 || class="mid" | 检定 || class="ok" |  || class="ok" |  || class="ok" |  || class="ok" |  || class="bad" | –8
+|-
+| 飓风<br><small>每小时75 – 174英里</small> || class="bad" | 吹飞 || class="bad" | 吹飞 || class="bad" | 吹飞 || class="bad" | 吹飞 || class="bad" | 吹飞 || class="mid" | 检定 || class="ok" |  || class="ok" |  || class="ok" |  || class="bad" | –12
+|-
+| 龙卷风<br><small>每小时175英里以上</small> || class="bad" | 吹飞 || class="bad" | 吹飞 || class="bad" | 吹飞 || class="bad" | 吹飞 || class="bad" | 吹飞 || class="bad" | 吹飞 || class="mid" | 检定 || class="ok" |  || class="ok" |  || class="bad" | –16
+|}
+<div class="rule-def"><div class="rd-t">飓风<small>极限荒野（AI 翻译）</small></div><div class="rd-b">飞行生物必须通过DC 25的飞行检定，否则会被吹退2d8×10尺，并因撞击和颠簸受到4d6点非致命伤害。</div></div>
+<div class="rule-def"><div class="rd-t">云量<small>极限荒野（AI 翻译）</small></div><div class="rd-b">阴天使在高空飞行的生物具有隐蔽。</div></div>
+<div class="wm-chips"><span class="wc-k">相关</span><span>[[驭风者]]</span><span>[[动荡起飞]]</span><span>[[疾风掠空]]</span><span>[[天气#风|风力效果全表]]</span></div>
+
+== 坠落 ==
+<div class="rule-formulas">
+<div class="rule-formula" style="--tc:#a4553f"><div class="rf-t">生物每坠落10尺</div><div class="rf-e"><b>1d6</b>点伤害，最多<b>20d6</b>点</div></div>
+<div class="rule-formula" style="--tc:#9a7a2e"><div class="rf-t">在坠落中施展法术</div><div class="rf-e">专注检定 DC <b>{20+法术环位}</b></div></div>
+<div class="rule-formula" style="--tc:#3f6b4a"><div class="rf-t">[[羽落术]]</div><div class="rf-e">每轮<b>60尺</b></div></div>
+</div>
+<div class="rule-def"><div class="rd-t">坠落<small>核心规则书</small></div><div class="rd-b">生物每坠落10尺便受到1d6点伤害，最多20d6点。受到类型为致命伤害的坠落伤害的生物着地时[[俯卧]]。<p>如果角色是故意从高处跳下而不是失足坠下，所受的伤害并不会减少，但是最开始的1d6点伤害改为非致命伤害。如果通过DC 15的特技，角色可以避免受到前10尺造成的坠落伤害，并且把接下来的10尺坠落伤害转化为非致命伤害。因此，一名失足从30尺高悬崖坠下的角色会受到3d6点正常伤害；如果他是故意从顶端跳下，那么他只受到1d6点非致命伤害和2d6点正常伤害；如果他成功通过了特技检定，则仅受到1d6点非致命伤害和1d6点正常伤害。</p><p>坠落在比较柔软的表面上 (如松软的土地，泥巴) 也能将最先的1d6点伤害转化为非致命伤害。这种降低伤害的方法能与故意跳跃和特技检定所带来的伤害减少叠加。</p><p>角色无法在坠落中施法，除非坠落高度大于500尺、或施展该法术为[[直觉动作]]，如[[羽落术]]。在坠落中施展法术需要通过DC为 {20+法术环位} 的专注检定。在坠落中施展[[传送术]]或类似法术并不会改变你的运动状态、而是仅改变你的位置，这意味着即便回到固体表面你仍需受到坠落伤害。</p></div></div>
+'''坠入水中'''（水深超过10尺）
+<div class="wm-line"><span style="--tc:#3f6b4a"><b>最先的20尺</b>不会造成任何伤害</span><span style="--tc:#9a7a2e"><b>接下来的20尺</b>非致命伤害 (每10尺1d3点)</span><span style="--tc:#a4553f"><b>超过40尺</b>正常伤害 (每10尺1d6点)</span></div>
+<div class="rule-def"><div class="rd-t">坠入水中<small>核心规则书</small></div><div class="rd-b">故意跳入水中的角色只需通过DC15的游泳或特技检定便不会受到任何伤害，但前提是每30尺坠落高度对应水深至少10尺。同时坠落高度每增加50尺，检定DC +5。</div></div>
+<div class="rule-def"><div class="rd-t">[[飞行术]]结束时<small>核心规则书</small></div><div class="rd-b">如果法术持续时间结束时受术者还在空中，这个魔法会缓慢的结束掉。受术者会以每轮60尺的速度漂浮着下降1d6轮。如果在此期间内他接触到了地面，那么他将安全着陆。如果没有，他会从剩余的高度处跌落，受到每10尺坠落距离1d6点伤害。由于解除一个魔法实际上就是结束它，因此如果飞行术被解除掉，受术者依然能以这种方式下降。但是如果是被[[反魔场]]所抵消就不能这样飘落。</div></div>
+<div class="rule-def"><div class="rd-t">[[羽落术]]</div><div class="rd-b">羽落术能立刻改变坠落物的速度，将其变为每轮60尺 (相当于从几尺高度落下的最后速度)，而且在法术生效时，受术者不会由于着陆而受到伤害。但是，当法术持续时间结束后，坠落速度又会恢复正常。</div></div>
+<div class="rule-def"><div class="rd-t">卸力<small>整合技能</small></div><div class="rd-b">当你有意坠落任何距离，甚至因跳跃失败而坠落时，你可以尝试DC 15的特技检定，以忽略最初坠落的10尺。如果你受到坠落伤害，最终仍会倒地。</div></div>
+
+=== 坠落物 ===
+<div class="rule-side">
+{| class="wikitable"
+|+ 表：坠落物伤害
+|-
+! 物体大小 !! 伤害
+|-
+| 小型 || 2d6
+|-
+| 中型 || 3d6
+|-
+| 大型 || 4d6
+|-
+| 超大型 || 6d6
+|-
+| 巨型 || 8d6
+|-
+| 超巨型 || 10d6
+|}</div>
+砸到角色的坠落物伤害由其大小与坠落高度决定。注意这里假设坠落物由致密、沉重的材料构成，如石块。以较轻材料构成的坠落物伤害可能仅为列出值的一半，由GM定夺。此外，如果坠落高度小于30尺，伤害减半；如果坠落高度大于150尺，伤害加倍。注意坠落物本身也要受到等同于其所造成的伤害。
+
+将物品垂直砸向一个生物需要远程接触攻击。这类攻击的射程增量通常为20尺。若物品自行坠落 (而非被刻意扔下)，注意到坠落物的生物可以进行DC 15的反射豁免来将伤害减半。
+
+=== 位面重力 ===
+<div class="rule-formulas">
+<div class="rule-formula" style="--tc:#6b6b6b"><div class="rf-t">物质位面</div><div class="rf-e">每坠落10尺 <b>1d6</b>（最多20d6）</div></div>
+<div class="rule-formula" style="--tc:#a4553f"><div class="rf-t">[[位面特性#强重力|强重力]]</div><div class="rf-e">每坠落10尺 <b>1d10</b>（最高达到20d10）</div></div>
+<div class="rule-formula" style="--tc:#3f6b4a"><div class="rf-t">[[位面特性#弱重力|弱重力]]</div><div class="rf-e">每坠落10尺 <b>1d4</b>（最多20d4）</div></div>
+<div class="rule-formula" style="--tc:#3f6f8f"><div class="rf-t">[[位面特性#主观指向重力|主观指向重力]]</div><div class="rf-e">第一轮“坠落”<b>150尺</b>，在之后的每一轮里则是<b>300尺</b></div></div>
+</div>
+<div class="rule-def gloss"><div class="rd-t">[[位面特性#无重力|无重力]]</div><div class="rd-b">该特性位面中的个体仅仅会在空间中漂浮，除非其他资源能为它们提供一个重力的朝向。飞行是这里最常见的交通方式。</div></div>
+
+== 坐骑与载具 ==
+<div class="rule-def gloss"><div class="rd-t">[[坐骑护甲]]</div><div class="rd-b">飞行坐骑若穿戴中型或重型坐骑护甲便无法飞行。</div></div>
+<div class="rule-def gloss"><div class="rd-t">[[载具#空中载具|空中载具]]</div><div class="rd-b">倒地的空中载具的驾驶者必须立即通过DC 25的飞行检定避免坠落。空中载具在坠落时每轮以其最高速度一半的速度下落。</div></div>
+<div class="wm-chips"><span class="wc-k">相关</span><span>[[空中坐骑]]</span><span>[[飞行坐骑束具]]</span><span>[[骑乘战斗(规则)|骑乘战斗]]</span><span>[[幻灵/飞行]]</span><span>[[龙兽伙伴]]</span></div>
+
+== 技能解放 ==
+{{Source|掉链子|Pathfinder Unchained}}
+{{技能解放说明}}
+在飞行技能中投入足够的技能点，便可以获得后述能力。
+<div class="rule-def tight"><div class="rd-t">5点</div><div class="rd-b">成功通过DC20的飞行检定可以让你做出45度的转弯而不用牺牲移动距离。</div></div>
+<div class="rule-def tight"><div class="rd-t">10点</div><div class="rd-b">成功通过DC30的飞行检定可以让你以45度角全速向上爬升。当你在空中相撞并坠落后，成功通过DC为10的飞行检定可以使坠落高度视为比正常低10尺，检定结果每比DC高10点便可以再降低10尺。</div></div>
+<div class="rule-def tight"><div class="rd-t">15点</div><div class="rd-b">成功通过DC30的飞行检定可以让你做出90度的转弯而不用牺牲移动距离，或者通过牺牲5尺的速度进行180度的转弯。在判断风力效果对飞行检定的影响时，你的体型视为比正常大1级。</div></div>
+<div class="rule-def tight"><div class="rd-t">20点</div><div class="rd-b">成功通过DC35的飞行检定可以让你以全速笔直向上爬升。在判断风力效果对飞行检定的影响时，你的体型视为比正常大2级。</div></div>
+
+== 相关条目 ==
+<div class="wm-chips"><span class="wc-k">怪物专长</span><span>[[飞越攻击]]</span><span>[[盘旋]]</span><span>[[侧滑飞行]]</span><span>[[攫抓]]</span><span>[[飞掠空投]]</span><span>[[飞掠猛掷]]</span><span>[[摄风之翼]]</span><span>[[强力之翼]]</span><span>[[优雅翱翔]]</span></div>
+<div class="wm-chips"><span class="wc-k">其他专长</span><span>[[特技专家]]</span><span>[[谨慎飞行者]]</span><span>[[凌空转体]]</span><span>[[动荡起飞]]</span><span>[[疾风掠空]]</span><span>[[老道飞行员]]</span><span>[[驭风者]]</span><span>[[殃云天降]]</span><span>[[枭穿式]]</span><span>[[死自下现]]</span><span>[[削翼]]</span></div>
+<div class="wm-chips"><span class="wc-k">获得飞行</span><span>[[天使之翼]]</span><span>[[翼魔]]</span><span>[[天狗双翼]]</span><span>[[鸦天狗]]</span><span>[[展翅]]</span><span>[[空气之翼]]</span><span>[[龙之滑翔]]</span><span>[[血印滑翔]]</span><span>[[进阶气体形态]]</span></div>
+<div class="wm-chips"><span class="wc-k">法术</span><span>[[羽落术]]</span><span>[[滑翔术]]</span><span>[[轻羽步]]</span><span>[[浮空术]]</span><span>[[飞行术]]</span><span>[[群体飞行术]]</span><span>[[翱翔天际]]</span><span>[[凌空而行]]</span><span>[[御风而行]]</span><span>[[空中坐骑]]</span><span>[[强翼术]]</span><span>[[授翼术]]</span><span>[[斥火羽翼]]</span><span>[[携风术]]</span><span>[[黑鸦天翔]]</span><span>[[柳絮随风]]</span><span>[[反重力]]</span></div>
+<div class="wm-chips"><span class="wc-k">魔法物品</span><span>[[羽落术戒指]]</span><span>[[飞行之翼]]</span><span>[[次等飞行之翼]]</span><span>[[飞行扫帚]]</span><span>[[飞行软膏]]</span></div>
+
+本页规则原文出自民间汉化 CHM 的[[核心规则书]]（[[飞行]]、[[环境规则]]、[[天气]]、[[摔绊]]、[[移动，位置和距离]]、[[特殊能力]]、[[魔法]]）、《[[水下冒险]]》、《[[掉链子]]》、《[[位面冒险]]》的[[位面特性]]和各条目页；标「AI 翻译」的两段出自《[[极限荒野]]》，由 AI 照 AoN 译出。
+
+[[分类:规则]]

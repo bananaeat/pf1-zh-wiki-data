@@ -1,6 +1,7 @@
 {{Trait
 |name=只要干不死,就往死里干
 |english_name=Broken, Not Beaten
+|pfs=否
 |type=战斗
 |description=当HP降至0以下时你自动稳定。每天1次，当你的HP被带至0以下时，你能承受1点伤害以重获意识一轮，尽管你保持[[恍惚]]而且只能采取单一移动或[[标准动作]]。
 |source_name=邪恶特务Agents of Evil

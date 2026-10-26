@@ -1,0 +1,10 @@
+<includeonly><div class="community-guide" style="border:2px dashed #8a6d3b;background:#fbf6ea;color:#3d3222;padding:.55em .85em;margin:.5em 0 .8em;border-radius:6px;line-height:1.7"><span style="font-size:12px;color:#b5452b;border:1px solid #b5452b;border-radius:3px;padding:0 .4em;margin-right:.5em">非官方</span>'''社区攻略'''：玩家撰写，观点与取舍属作者个人，规则以官方原文为准。{{#if:{{{作者|}}}|<br>作者：{{{作者}}}}}{{#if:{{{原文|}}}|　·　原文：{{{原文}}}}}{{#if:{{{授权|}}}|　·　授权：{{{授权}}}}}</div>{{#if:{{{nocat|}}}||[[分类:社区攻略]]}}</includeonly><noinclude>
+社区攻略页的页头：标明「非官方」，写清作者、原文出处和授权情况；自动进 [[:分类:社区攻略]]。
+
+ {{社区攻略|作者=某某|原文=[https://example.com 论坛原帖]|授权=作者 2026-10 授权转载}}
+
+参数都可以省略；<code>nocat=1</code> 不进分类。
+
+{{社区攻略|作者=某某|原文=[https://example.com 论坛原帖]|授权=作者 2026-10 授权转载|nocat=1}}
+[[分类:模板]]
+</noinclude>

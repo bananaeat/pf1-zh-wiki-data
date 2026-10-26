@@ -1,3 +1,4 @@
+{{PFS特殊|1=仅限树蛙人角色可用。|ai=1}}
 {{Spell
 |name=蛙力涌现
 |english_name=Batrachian surge

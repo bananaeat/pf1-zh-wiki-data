@@ -1,8 +1,8 @@
 {{AI翻译|本页由 AI 照 AoN 英文原文译出（Legacy of Dragons pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{PFS特殊|1=彩色（Chromatic）传承不可用于游戏。|ai=1}}
 {{Feat
 |name=龙族传承
 |english_name=Draconic Heritage
-|pfs=否
 |description=龙的力量流淌在你的血脉中，而你已唤醒了它的潜能。
 |prerequisites=魅力13。
 |benefit=从下列选项中选择一种龙的类型。你获得所选龙类型的龙族传承能力。所有相关能力的豁免DC等于10+你生命骰的一半+你的魅力调整值。

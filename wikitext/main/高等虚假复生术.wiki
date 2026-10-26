@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=高等虚假复生术
 |english_name=False Resurrection, Greater
@@ -5,7 +6,7 @@
 |tags=邪恶;秩序;诡计
 |levels=先知 9;牧师 9
 |action=1分钟
-|components=语言;姿势;材料（价值25000gp的钻石）;法器
+|components=语言;姿势;材料（价值25000gp的钻石）;圣徽
 |range=接触
 |target=接触到的已死生物
 |duration=永久

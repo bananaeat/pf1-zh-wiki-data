@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=力拔山兮
 |english_name=Legendary proportions

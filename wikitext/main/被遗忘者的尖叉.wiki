@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=被遗忘者的尖叉
 |english_name=Fork of the Forgotten One

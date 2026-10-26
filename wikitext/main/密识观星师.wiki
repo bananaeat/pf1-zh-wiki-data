@@ -1,3 +1,4 @@
+{{PFS特殊|1=密识观星师（Esoteric Starseeker）变体的新婚座（Newlyweds）获得生命之息而非转生术作为奖励法术，观星者（Stargazer）座获得预警术而非梦境远航（Dream Voyage）作为奖励法术。}}
 {{Source|荒野源始|Wilderness Origins}}
 
 '''密识观星师'''（Esoteric Starseeker）是[[异能者]]的[[变体职业]]。

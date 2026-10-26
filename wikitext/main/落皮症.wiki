@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=落皮症
 |english_name=Slough

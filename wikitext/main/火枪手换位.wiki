@@ -5,6 +5,7 @@
 |description=你可以用手中的双手火器击退敌人。
 |prerequisites=“异种武器擅长（火器）”UC，枪手6级，枪柄抽击炫技。
 |benefit=当你使用枪柄抽击炫技并以双手火器命中敌人时，你可以不击倒目标，而是改为进行[[移位|换位]][[战技]]。不过，你不能将敌人换位到更接近你的位置上。此战技不会引发[[借机攻击]]。
-|source_name=反派法典
+|source=VC
+|source_name=恶棍志
 |source_url=https://pf1chm.pages.dev/topics/zhfa2a4585c1.htm
 }}

@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=狂暴巨剑
 |english_name=Berserking Sword

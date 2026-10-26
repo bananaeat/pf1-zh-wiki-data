@@ -1,3 +1,4 @@
+{{PFS特殊|1=此法术可用于游戏，但只有巴尔扎克（Barzahk）的崇拜者才能使用。|ai=1}}
 {{Spell
 |name=锁孔术
 |english_name=Keyhole

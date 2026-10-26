@@ -1,3 +1,4 @@
+{{PFS特殊|1=适用于察觉检定和察觉技能。|ai=1}}
 {{Trait
 |name=战斗商人
 |english_name=Militant Merchant

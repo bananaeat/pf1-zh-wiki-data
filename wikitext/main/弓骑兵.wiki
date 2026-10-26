@@ -1,0 +1,53 @@
+{{速查导航}}
+{{怪物
+|name=弓骑兵
+|english_name=Mounted Archer
+|cr=4
+|xp=1,200
+|classline=人类游侠5
+|alignment=中立邪恶
+|size=中型
+|type=类人生物
+|subtypes=人类
+|init=+7
+|senses=察觉+9
+|ac=19，接触 13，措手不及 16（+4 护甲，+3 敏捷，+2 盾牌）
+|hp=42（5d10+10）
+|fort=+7
+|ref=+8
+|will=+3
+|resist=火焰10
+|speed=30尺
+|melee=精制品弯刀 +8（1d6+2/18–20），或 长枪 +7（1d8+2/×3）
+|ranged=精制品复合短弓 +10（1d6+2/×3）
+|space=5尺
+|reach=5尺（长枪10尺）
+|special_attacks=宿敌（动物+2，人类+4）
+|spells=已准备游侠法术（施法者等级2；专注+3）；1环——[[忍受环境]]，[[抵抗能量伤害]]
+|tactics=<div class="ml wide"><span class="k">战斗前</span>游侠施放忍受环境与抵抗能量伤害（火焰）。</div><div class="ml wide"><span class="k">战斗中</span>游侠在马背上射击。面对危险的对手时，她会把魔化武器油涂在弓上，并喝下朦胧术药水。</div><div class="ml wide"><span class="k">基础数据</span>未施放抵抗能量伤害时，游侠的数值为 抗力 无。</div>
+|str=15
+|dex=16
+|con=14
+|int=10
+|wis=12
+|cha=8
+|bab=+5
+|cmb=+7
+|cmd=20
+|feats=[[坚忍]];[[精通先攻]];[[骑乘射击]];[[骑乘战斗]];[[近距射击]];[[武器专攻]]（复合短弓）
+|skills=[[驯养动物]]+7;[[医疗]]+9;[[知识]]（地理、自然）+8;[[察觉]]+9;[[骑术]]+9;[[隐匿]]+9;[[生存]]+9
+|languages=通用语
+|sq=偏好地形（沙漠+2）;猎手羁绊（队友）;追踪+2;野性认同+4
+|combat_gear=魔化武器油;朦胧术药水;治疗中伤药水;隐形术药水
+|gear=精制品链甲衫;精制品重木盾;长枪;精制品复合短弓（+2力量）和20支箭;精制品弯刀;抗力披风+1;受过战斗训练的马;骑乘鞍座;72gp
+|source=NPC志
+|family=核心职业（NPC志）
+|npc=1
+|lore=
+弓骑兵在马背上射出致命的箭矢。
+
+'''扎里申（Zarishen）'''：这名强盗头子会放过投降的商人与脚夫，好让他们日后带着更多货物再来。
+}}
+
+本页译自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=63563.msg1396373#msg1396373 【NPCC】核心职业：游侠（Ranger）]（原译者：dr.fate；沉沦校对润饰）。
+{{AoN原文|1=NPCDisplay.aspx?ItemName=Mounted Archer|2=Mounted Archer}}

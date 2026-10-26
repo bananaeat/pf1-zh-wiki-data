@@ -5,6 +5,7 @@
 |description=你能够利用生物的染病状态对付它。
 |prerequisites=基础攻击加值+3。
 |benefit=当你以武器攻击命中一名患病的生物时，你额外造成1d6点伤害。这是精准伤害。另外，你在对抗患病生物的[[战技]]检定上获得+2加值。
-|source_name=反派法典
+|source=VC
+|source_name=恶棍志
 |source_url=https://pf1chm.pages.dev/topics/zhfa2a4585c1.htm
 }}

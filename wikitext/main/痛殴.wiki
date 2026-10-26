@@ -1,4 +1,5 @@
 {{消歧义|痛殴(专长)}}
+{{PFS不可用}}
 {{物品
 |name=痛殴
 |english_name=The Beating

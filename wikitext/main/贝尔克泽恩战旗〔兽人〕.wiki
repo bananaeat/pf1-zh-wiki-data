@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=贝尔克泽恩战旗〔兽人〕
 |english_name=Belkzen Battle Standard (Orc)

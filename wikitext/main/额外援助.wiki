@@ -1,8 +1,8 @@
+{{PFS特殊|1=PC除非永久拥有心灵羁绊（Bonded Mind）专长，否则无法从该专长或任何以它为先决条件的团队专长中获益；这是审判者的独行战术能力、骑士的战术专家能力及类似能力运作方式的例外。|ai=1}}
 {{Feat
 |name=额外援助
 |english_name=Exceptional Aid
 |categories=团队
-|pfs=否
 |description=你总是准备好给予你伙伴帮助。
 |prerequisites=[[心灵羁绊]]。
 |benefit=当你成功使用协助他人动作来为一名盟友的技能检定提供帮助时，且该盟友也同样拥有该专长的话，该加值可为+4而非+2。

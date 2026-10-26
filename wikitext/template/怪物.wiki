@@ -36,7 +36,7 @@
 -->{{#if:{{{skills|}}}|<div class="ml wide"><span class="k">技能</span>{{#arraymap:{{{skills}}}|;|@@|<span class="li">@@</span>|，}}</div>}}<!--
 -->{{#if:{{{racial_mods|}}}|<div class="ml wide"><span class="k">种族调整</span>{{{racial_mods}}}</div>}}<!--
 -->{{#if:{{{languages|}}}|<div class="ml wide"><span class="k">语言</span>{{#arraymap:{{{languages}}}|;|@@|<span class="li">@@</span>|，}}</div>}}<!--
--->{{#if:{{{sq|}}}|<div class="ml wide"><span class="k">特质</span>{{#arraymap:{{{sq}}}|;|@@|<span class="li">{{#invoke:怪物术语|field|sq|2=@@}}</span>|，}}</div>}}<!--
+-->{{#if:{{{sq|}}}|<div class="ml wide"><span class="k">特性</span>{{#arraymap:{{{sq}}}|;|@@|<span class="li">{{#invoke:怪物术语|field|sq|2=@@}}</span>|，}}</div>}}<!--
 -->{{#if:{{{combat_gear|}}}|<div class="ml wide"><span class="k">战斗装备</span>{{#invoke:特殊材料|auto|{{#arraymap:{{{combat_gear}}}|;|@@|<span class="li">@@</span>|，}}}}</div>}}<!--
 -->{{#if:{{{gear|}}}|<div class="ml wide"><span class="k">{{#if:{{{combat_gear|}}}|其他装备|装备}}</span>{{#invoke:特殊材料|auto|{{#arraymap:{{{gear}}}|;|@@|<span class="li">@@</span>|，}}}}</div>}}<!--
 --></div><!--

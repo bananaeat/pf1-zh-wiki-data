@@ -1,4 +1,6 @@
 {{速查导航|here=神祇}}
+<noinclude>{{消歧义|旧日支配者，夏曼·朵}}</noinclude>
+{{PFS不可用}}
 {{神祇
 |name=夏曼·朵
 |english_name=Xhamen-Dor

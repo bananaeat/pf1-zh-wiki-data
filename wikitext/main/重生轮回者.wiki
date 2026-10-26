@@ -1,6 +1,8 @@
+<noinclude>{{消歧义|重生轮回者(怪物)}}</noinclude>
 {{Source|异能怪物图鉴|Occult Bestiary}}
 {{AI翻译|本页由 AI 照 AoN 英文原文译出（Occult Bestiary pg. 50），CHM 汉化里没有这个种族的译文，未经人工校对。}}
 {{速查导航|here=种族}}
+{{PFS不可用}}
 {{种族卡
 |属性=+2智力，+2感知，-2体质
 |体型=中型

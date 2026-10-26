@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=蛇龙咒甲
 |english_name=Crag Linnorm Plate

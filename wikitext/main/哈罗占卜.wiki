@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=哈罗占卜
 |english_name=Harrowing

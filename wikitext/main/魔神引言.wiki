@@ -29,7 +29,7 @@
 
 尊称：魔神最常见的称谓或外号将标注于小节顶部。
 
-阵营、性别、类型和神职；领域与子域；偏好武器；邪徽；神殿（偷懒跳过）
+阵营、性别、类型和神职；领域与子域（子域的完整规则见《[[进阶玩家指南]]》，本书第180–182页另有更多子域）；偏好武器；邪徽；神殿（该魔神典型的礼拜场所。此列表并不详尽，在崇拜该魔神合法的地区，其神殿可以比这里列出的丰富得多）<!--AI补译-->
 
 信徒：魔神最常见的代言人。
 
@@ -39,7 +39,7 @@
 
 [[神恩]]：本书列举的三个[[进阶职业]]（[[恶魔狂信者]]，[[魔鬼大师]]和[[吮魂者]]）是角色对魔神进一步信奉与服从的体现，他们被视为获得魔族仪典。在高级别时甚至能获得魔神独有的赐福。神恩分为三类：[[传音者]]（与扩大魔神在凡世的影响力相关）[[颂教者]]（与教派的亵渎仪式相关）[[卫道者]]（与战斗相关）获得恩赐的类型取决于在获得第一级进阶职业的选择。若是选择魔族仪典专长，则获得颂教者的神恩（注，178的Damned Disciple与Damned Soldier专长可进一步修改角色获得的神恩）
 
-每一类神恩都分为三级。获取神恩的速度取决于角色获得神恩的方式（专长or进阶职业）初级是三个类法术能力。中级与高级都是魔神特有的特殊、类法术或超自然能力。若无特殊说明，中级神恩视为7环法术效果，高级神恩视为9环法术效果。所有能力的CL等同HD（最高20）
+每一类神恩都分为三级。获取神恩的速度取决于角色获得神恩的方式（专长or进阶职业）初级是三个类法术能力，获得第一项神恩时须从中选择其一：1环法术每日3次、2环法术每日2次，或3环法术每日1次。<!--AI补译-->中级与高级都是魔神特有的特殊、类法术或超自然能力。若无特殊说明，中级神恩视为7环法术效果，高级神恩视为9环法术效果。所有能力的CL等同HD（最高20）
 
 描述：最后还会描述魔神的外表、性格、目的和领地。
 
@@ -49,133 +49,133 @@
 
 魔神的赐福可通过魔族仪典专长（P178）或208-213三个进阶职业获得。三类神恩与[[内海诸神]]一一对应，内海诸神一书中神祗赐予的祝福并没有那么强大，因此他们更有可能成为PC获得的恩赐，所以更适合在等级早期时获得。
 
-虽然魔族仪典与服从仪典都随着HD获得增益，但内海诸神的进阶职业因服从仪典所获得的速度慢于魔族仪典。故而若玩家希望获得魔神神恩，请提升进阶的要求。
+虽然通过魔族仪典与通过服从仪典（见《内海诸神》）获得神恩所需的HD是一样的，但《内海诸神》中能加速获得神恩的三个进阶职业（evangelist、exalted、sentinel）的入门要求比本书的进阶职业更低。因此，若你想让使用这三个进阶职业的角色获得本书魔神的神恩，请提高它们的入门要求，使角色必须达到7级才能选择该职业，具体如下。
 
-传音者：BAB+7，知识（宗教）技能等级高于7或能施展4环法术
+传音者：基本攻击加值+7，除知识（宗教）以外任一技能7级，或能施展4环法术
 
 颂教者：交涉7级，知识（宗教）7级，能施展4环神术
 
 卫道者：BAB+7
 
-[[阿巴拉克萨斯]]（[[Abraxas]]） ForestDew
+[[阿巴拉克萨斯]]（[[Abraxas]]）
 
-[[阿里曼]]Ahriman 完工
+[[阿里曼]]Ahriman
 
-[[奥迪娜克]]ALDINACH 完工
+[[奥迪娜克]]ALDINACH
 
-[[安德莉芙库]]Andirifkhu 完工
+[[安德莉芙库]]Andirifkhu
 
-[[安加赞]]（[[Angazhan]]） 完工
+[[安加赞]]（[[Angazhan]]）
 
-亚波轮[[Apollyon]] 完工
+亚波轮[[Apollyon]]
 
-阿达德·莉莉Ardad Lili Cyclop
+阿达德·莉莉Ardad Lili
 
-[[厄莱什卡果]]Areshkagal 完工
+[[厄莱什卡果]]Areshkagal
 
-阿斯莫迪斯Asmodeus 四月
+阿斯莫迪斯Asmodeus
 
-[[巴尔泽布]]（[[Baalzebul]]） Cyclop
+[[巴尔泽布]]（[[Baalzebul]]）
 
-巴风特[[Baphomet]] 完工
+巴风特[[Baphomet]]
 
-[[巴巴托斯]]（[[Barbatos]]） Cyclop
+[[巴巴托斯]]（[[Barbatos]]）
 
-[[贝利亚]]（[[Belial]]） Cyclop
+[[贝利亚]]（[[Belial]]）
 
-[[卡戎]]（[[Charon]]） 完工
+[[卡戎]]（[[Charon]]）
 
-西斯 乌苏格[[Cyth-V’sug]] 星云
+西斯 乌苏格[[Cyth-V’sug]]
 
-[[大衮]]（[[Dagon]]） 完工
+[[大衮]]（[[Dagon]]）
 
-德斯卡瑞[[Deskari]] 完工
+德斯卡瑞[[Deskari]]
 
-[[迪斯帕特]]（[[Dispater]]） Cyclop
+[[迪斯帕特]]（[[Dispater]]）
 
-多洛蕾丝Doloras Cyclop
+多洛蕾丝Doloras
 
-艾希斯Eiseth Cyclop
+艾希斯Eiseth
 
-[[弗洛厄斯]]Flauros 完工
+[[弗洛厄斯]]Flauros
 
-[[格殷永]]（[[Geryon]]） Cyclop
+[[格殷永]]（[[Geryon]]）
 
-[[果甘蜍]]（[[Gogunta]]） 完工
+[[果甘蜍]]（[[Gogunta]]）
 
-[[哈艮地]]Haagenti 犬良人
+[[哈艮地]]Haagenti
 
-[[杰萨尔达]]Jezelda 犬良人
+[[杰萨尔达]]Jezelda
 
-[[朱庇莱克斯]]JUBILEX Ghost-1008
+[[朱庇莱克斯]]JUBILEX
 
-[[卡布里里]]KABRIRI HUZIqq5581611
+[[卡布里里]]KABRIRI
 
-[[科什迪克提凯]]（[[Kostchtchie]]） 空山
+[[科什迪克提凯]]（[[Kostchtchie]]）
 
-拉玛什图Lamashtu Evana&四月
+拉玛什图Lamashtu
 
-玛汉沙拉Mahathallah Cyclop
+玛汉沙拉Mahathallah
 
-[[马蒙]]（[[Mammon]]） Cyclop
+[[马蒙]]（[[Mammon]]）
 
-[[玛茨麦兹]]Mazmezz 已完工
+[[玛茨麦兹]]Mazmezz
 
-[[墨菲斯托菲利斯]]Mephistopheles Cyclop
+[[墨菲斯托菲利斯]]Mephistopheles
 
-[[麦斯塔玛]]Mestama 已完工
+[[麦斯塔玛]]Mestama
 
-[[摩洛克]]（[[Moloch]]） Cyclop
+[[摩洛克]]（[[Moloch]]）
 
-诺缇库拉[[Nocticula]] 完工
+诺缇库拉[[Nocticula]]
 
-[[怒加]]Nurgal 拉布拉多
+[[怒加]]Nurgal
 
-[[奥喀斯]]ORCUS Ghost-1008
+[[奥喀斯]]ORCUS
 
-[[帕祖祖]]（[[Pazuzu]]） 犬良人
+[[帕祖祖]]（[[Pazuzu]]）
 
 [[Shax]]
 
-施瓦丝卡Shivaska 拉布拉多
+施瓦丝卡Shivaska
 
-[[希芙珂什]]Sifkesh 完工
+[[希芙珂什]]Sifkesh
 
-[[索克斯贝诺]]（[[Socothbenoth]]） 启明星
+[[索克斯贝诺]]（[[Socothbenoth]]）
 
-[[祖瑞尔]]（[[Szuriel]]） 完工
+[[祖瑞尔]]（[[Szuriel]]）
 
-[[崔玛瑞希]]（[[Trelmarixian]]） 完工
+[[崔玛瑞希]]（[[Trelmarixian]]）
 
 Urxehl
 
-若伏嶐/[[佐伏隆]]Xoveron 完工
+若伏嶐/[[佐伏隆]]Xoveron
 
 Yhidothrus
 
-[[泽乌伽瓦灾布]]evgavizeb 完工
+[[泽乌伽瓦灾布]]Zevgavizeb
 
-祖拉[[Zura]] Ghost-1008
+祖拉[[Zura]]
 
-Asura Ranas
+[[阿修罗魔尊]]（Asura Ranas）
 
-Daemon Harbingers
+邪魔先驱（Daemon Harbingers）
 
-地狱公爵Infernal Dukes Cyclop
+[[炼狱大公与地狱公爵|地狱公爵]]（Infernal Dukes）
 
-Kyton Demagogues
+[[链魔喧主]]（Kyton Demagogues）
 
-Malebranche
+[[雄霸魔]]（Malebranche）
 
-Nascent Demon Lords
+[[新生恶魔领主]]（Nascent Demon Lords）
 
-Oni Daimyo
+[[鬼大名]]（Oni Daimyo）
 
-Qlippoth Lords
+[[古魔领主]]（Qlippoth Lords）
 
-Rakshasa Immortals
+[[罗刹邪仙]]（Rakshasa Immortals）
 
-Sakhil Tormentors
+[[恐亡魔摧残者]]（Sahkil Tormentors）
 
 本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1515.html 原文]）。同一批的其他章见 [[:分类:书目章节]]。
 

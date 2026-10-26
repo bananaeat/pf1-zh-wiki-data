@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=比恰瓦
 |english_name=Bich'hwa

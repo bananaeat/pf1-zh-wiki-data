@@ -1,3 +1,4 @@
+{{PFS特殊|1=仅限崇拜拉贾瑟尔（Ragathiel）的角色可用。|ai=1}}
 {{Spell
 |name=斥火羽翼
 |english_name=Shield of wings

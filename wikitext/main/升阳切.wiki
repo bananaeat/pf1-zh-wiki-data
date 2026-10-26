@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=升阳切
 |english_name=Blade of the Rising Sun

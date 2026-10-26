@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=盲眼闪光|en=Blinding Flash|type=Su|domain=太阳领域|sub=光明子域 (Light)|sub_name=光明子域|source=进阶玩家指南|text=你以[[标准动作]]从圣徽，或者圣法器处放出一道闪光。在你20尺内的生物[[目眩]]，轮数为你牧师等级一半，而且HD低于你牧师等级的生物必须通过强韧豁免否则[[目盲]]1d4轮。每天“3+[[感知]]调整值”次。此能力替换[[太阳领域#太阳祝福 (Sun's Blessing, Su)|太阳祝福]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

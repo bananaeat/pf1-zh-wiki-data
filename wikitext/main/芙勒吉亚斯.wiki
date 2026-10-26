@@ -1,4 +1,5 @@
 {{速查导航|here=神祇}}
+{{PFS特殊|1=Phlegyas的第二神恩获得类法术形式的[[生命之息]]，取代原本的[[转生术]]。}}
 {{神祇
 |name=芙勒吉亚斯
 |english_name=Phlegyas

@@ -1,0 +1,4 @@
+<includeonly><div style="flex:1 1 13.5em;max-width:20em;padding:.5em .7em;border:1px solid #e3d6bb;border-radius:6px;background:#fffdf8;line-height:1.5"><div style="font-size:.78em;color:#7a6a52;letter-spacing:.06em">{{{类|}}}</div><div style="font-weight:700">[[#{{{锚|{{{名}}}}}}|{{{名}}}]]</div><div style="font-size:.88em"><span style="color:#b5452b;letter-spacing:.06em">{{{威胁度|}}}</span>{{#if:{{{等级|}}}|<span style="color:#7a6a52;margin-left:.6em">{{{等级}}}</span>}}</div></div></includeonly><noinclude>
+社区攻略页内的速览卡片（放进 <code>&lt;div style="display:flex;flex-wrap:wrap;gap:.6em"&gt;</code> 里排）：类、名（小节标题，点了跳过去）、威胁度、等级都照原文。
+[[分类:模板]]
+</noinclude>

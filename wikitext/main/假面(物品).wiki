@@ -1,5 +1,6 @@
 {{消歧义|假面}}
 {{消歧义|假面 (消歧义)}}
+{{PFS不可用}}
 {{魔法物品
 |name=假面
 |english_name=False Face

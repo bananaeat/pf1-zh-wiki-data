@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=驱散之触|en=Dispelling Touch|type=Sp|domain=魔法领域|source=核心规则书|text=8级时，你可以通过近战[[接触攻击]]造成[[解除魔法]]的效果。8级时本能力每日可用1次，之后每4级可以每日多用1次。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

@@ -1,4 +1,3 @@
-<noinclude>{{消歧义|教主(NPC)}}</noinclude>
 {{Source|进阶职业指南|Advanced Class Guide}}
 
 '''教主'''（Cult Leader）是[[战斗祭司]]的[[变体职业]]。

@@ -1,3 +1,4 @@
+{{PFS特殊|1=Ring of Resistance +1和Ring of Resistance +2皆属可用，拥有更高加值的本物品可能出现在将来的纪录单中。}}
 {{魔法物品
 |name=抗力戒指
 |english_name=Ring of Resistance

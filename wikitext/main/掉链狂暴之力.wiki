@@ -29,12 +29,12 @@
 * [[撼地一击]]（Ground Breaker）
 * [[神牛撼地]]（Ground Breaker, Greater）
 * [[防卫战姿]]（Guarded Stance）
-* [[狂怒之示]]（Inspire Ferocity）
+* [[激发凶性(掉链狂暴之力)|激发凶性]]（Inspire Ferocity）
 * [[内在强韧]]（Internal Fortitude）
 * [[威吓怒视]]（Intimidating Glare）
 * [[一击即飞]]（Knockback）
 * [[击倒战姿]]（Knockdown）
-* [[低光视力]]（Low-Light Vision）
+* [[昏暗视觉(掉链狂暴之力)|昏暗视觉]]（Low-Light Vision）
 * [[猛力挥击]]（Mighty Swing）
 * [[夜之视觉]]（Night Vision）
 * [[无处可逃]]（No Escape）
@@ -60,7 +60,7 @@
 * [[神秘迷信]]（Superstition）
 * [[迅捷脚步]]（Swift Foot）
 * [[嘲讽战姿]]（Taunting Stance）
-* [[可怖狂嚎]]（Terrifying Howl）
+* [[惊骇狂嚎(掉链狂暴之力)|惊骇狂嚎]]（Terrifying Howl）
 * [[意外之击]]（Unexpected Strike）
 * [[女巫猎人]]（Witch Hunter）
 

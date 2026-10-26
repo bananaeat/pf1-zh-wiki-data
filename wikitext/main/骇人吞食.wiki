@@ -2,7 +2,7 @@
 {{Feat
 |name=骇人吞食
 |english_name=Horrific Gorging
-|categories=战斗
+|categories=战斗;怪物
 |pfs=否
 |description=只需短短几秒的骇人时间，你就能将一具类人生物的身体嚼碎吞下。
 |prerequisites=啮咬攻击，大型或更大，活吞通用怪物能力。

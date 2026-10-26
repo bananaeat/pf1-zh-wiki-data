@@ -18,7 +18,7 @@
 |ref=+7
 |will=+7（对抗恐惧效果时额外+3）
 |defensive=英勇+3
-|speed=20尺
+|speed=30尺
 |melee=+1斩马刀+17/+12（1d10+9/19-20/x3）
 |ranged=复合长弓+14/+9(1d8+5/x3)
 |special_attacks=武器训练（长武+2，弓+1）

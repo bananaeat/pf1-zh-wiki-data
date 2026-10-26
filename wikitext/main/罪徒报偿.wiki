@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=罪徒报偿
 |english_name=Sinner's Wage

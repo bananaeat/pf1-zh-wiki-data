@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=灵魂联结戒指
 |english_name=Soultether Ring

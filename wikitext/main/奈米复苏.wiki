@@ -1,6 +1,7 @@
 {{Trait
 |name=奈米复苏
 |english_name=Nanite Revival
+|pfs=否
 |type=种族
 |prerequisites=[[仿生人]]
 |description=你可以瞬间启动你的奈米机械来拯救你的生命。一天一次，当你濒死时你可以用一个直觉动作来启动你的奈米机械来稳定你的伤势，即使你处于昏迷或无助状态。这不会占用到你使用奈米机械激增的使用次数里。

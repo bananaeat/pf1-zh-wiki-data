@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=令行臣服|en=Demand Subjugation|type=Sp|domain=秩序领域|sub=主权子域 (Sovereignty)|sub_name=主权子域|source=皇庭英豪|text=在8级时，你可以强制一个你击败的生物接受一份契约，作为其可以投降的条件，就如同你使用了[[次等指使术]]一般，但生物的HD必须小于等于你的牧师等级。16级时，此能力的效果如同法术[[指使术]]。每天“3+[[感知]]调整值”次。此能力取代[[秩序领域#律理之杖 (Staff of Order, Su)|律理之杖]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

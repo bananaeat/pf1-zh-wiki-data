@@ -1,4 +1,5 @@
 {{速查导航|here=神祇}}
+{{PFS特殊|1=请注意，所有惯用武器列为锤（hammer）的神祇，均应读作战锤（warhammer）。|ai=1}}
 {{神祇
 |name=科欧斯
 |english_name=Kols

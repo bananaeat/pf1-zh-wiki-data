@@ -349,7 +349,7 @@ function p.spell(frame)
         if lvk(x) ~= lvk(y) then return lvk(x) < lvk(y) end
         return (x.en or ''):lower() < (y.en or ''):lower()
     end)
-    local used, count, clsSeen, domSeen = {}, 0, {}, {}
+    local used, count, clsSeen, domSeen, subSeen = {}, 0, {}, {}, {}
     local out = {
         '{| class="wikitable sortable pf-ftable pf-spell" id="' .. attr(id) .. '"',
         '! 法术 !! 学派 !! 职业环位/领域 !! 施法时间 !! 距离 !! 豁免 !! 抗力 !! 出处',
@@ -366,8 +366,26 @@ function p.spell(frame)
             if t ~= '' then tags[#tags + 1] = t end
         end
         count = count + 1
+        -- 学派／子学派两层（2026-10-15）：值写「学派/子学派」，没有子学派的记「学派/无」；
+        -- 子学派一格偶有两个（「虚假幻觉，五官幻觉」「创造 或 呼唤」），拆开各算一项
+        local sch = nonempty(r.school) or '未注明'
+        local schv = {}
+        local parts = { r.sub or '' }
+        for _, sep in ipairs({ '，', ',', '、', '或' }) do      -- 逐个按纯文本切（Lua 字符类按字节，中文标点不能放进 [...]）
+            local nxt = {}
+            for _, s in ipairs(parts) do
+                for _, s2 in ipairs(mw.text.split(s, sep, true)) do nxt[#nxt + 1] = s2 end
+            end
+            parts = nxt
+        end
+        for _, s in ipairs(parts) do
+            s = mw.text.trim(s)
+            if s ~= '' then schv[#schv + 1] = sch .. '/' .. s end
+        end
+        if #schv == 0 then schv[1] = sch .. '/无' end
+        for _, v in ipairs(schv) do subSeen[v] = true end
         out[#out + 1] = rowline({
-            { 'c', cls }, { 'd', dom }, { 's', nonempty(r.school) or '未注明' },
+            { 'c', cls }, { 'd', dom }, { 's', schv },
             { 't', #tags > 0 and tags or '无' }, { 'a', actKind(r.action) },
             { 'm', compKinds(r.comps) }, { 'r', rangeKind(r.range) },
             { 'v', saveKinds(r.save) }, { 'x', srKind(r.sr) },
@@ -419,12 +437,25 @@ function p.spell(frame)
         if (nx ~= nil) ~= (ny ~= nil) then return nx ~= nil end
         return kx < ky
     end)
+    -- 学派子项：学派按 SCHOOLS，子学派按字节序，「无」排最后
+    local srank = {}
+    for i, s in ipairs(mw.text.split(SCHOOLS .. '|未注明', '|', true)) do srank[s] = i end
+    local sk = {}
+    for v in pairs(subSeen) do sk[#sk + 1] = v end
+    table.sort(sk, function(x, y)
+        local px, cx = x:match('^(.-)/(.*)$')
+        local py, cy = y:match('^(.-)/(.*)$')
+        if px ~= py then return (srank[px] or 99) < (srank[py] or 99) end
+        if (cx == '无') ~= (cy == '无') then return cy == '无' end
+        return cx < cy
+    end)
     return panel(id, '搜名字、英文、学派、距离、持续时间', {
         { 'c', '职业', { tree = '1', parents = table.concat(CLASS_ORDER, '|'), order = table.concat(ck, '|'),
             pick = '按环位挑选', unit = '项' } },
         { 'd', '领域', { tree = '1', parents = table.concat(dps, '|'), order = table.concat(dk, '|'),
             pick = '按环位／子域挑选', unit = '项' } },
-        { 's', '学派', { order = SCHOOLS } },
+        { 's', '学派', { tree = '1', parents = SCHOOLS .. '|未注明', order = table.concat(sk, '|'),
+            pick = '按子学派挑选', unit = '项' } },
         { 't', '描述符', { top = '14' } },
         { 'a', '施法时间', { order = '标准动作|迅捷动作|直觉动作|整轮动作|数轮|数分钟|一小时以上|其他|未注明' } },
         { 'm', '成分', { order = '语言|姿势|材料|法器|圣徽|昂贵材料|未注明' } },

@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=四季如春|en=Untouched by the Seasons|type=Su|domain=天气领域|sub=季节子域 (Seasons)|sub_name=季节子域|source=进阶玩家指南|text=你的接触令生物获得持续每牧师等级1小时的[[忍受环境]]，每天“3+[[感知]]调整值”次。此能力替换[[天气领域#风暴冲击 (Storm Burst, Sp)|风暴冲击]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

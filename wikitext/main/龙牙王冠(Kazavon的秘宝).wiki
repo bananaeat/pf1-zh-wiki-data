@@ -1,4 +1,5 @@
 {{消歧义|龙牙王冠}}
+{{PFS不可用}}
 {{魔法物品
 |name=龙牙王冠
 |english_name=Relic of Kazavon, Crown of Fangs

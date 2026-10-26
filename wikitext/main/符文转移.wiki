@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=符文转移|en=Rune Shift|type=Su|domain=符文领域|sub=语言子域 (Language)|sub_name=语言子域|source=进阶玩家指南|text=6级你能用[[迅捷动作]]来移动你“爆发符文”的位置。此符文必须在你30尺内，你可将符文移动到任何邻接你的区域，包括被其它生物占据的。此能力替换[[符文领域#法术符文 (Spell Rune, Sp)|法术符文]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

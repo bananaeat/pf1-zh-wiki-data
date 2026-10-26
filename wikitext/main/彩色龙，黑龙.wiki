@@ -82,7 +82,7 @@
 |wis=17
 |cha=14
 |bab=+14
-|cmb=+24
+|cmb=+22
 |cmd=33（37 对摔绊 vs. trip）
 |feats=[[警觉]];[[精通先攻]];[[精通要害打击]];[[猛力攻击]];[[技能专攻]]（隐匿）Skill Focus;[[要害打击]];[[武器专攻]]（啮咬）Weapon Focus
 |skills=[[飞行]] Fly +12;[[驯养动物|野性认同]] Handle Animal +16;[[威吓]] Intimidate +19;[[知识]]（奥秘）Knowledge+19;[[察觉|觉察]] 察觉 +24;[[法术辨识]] Spellcraft +19;[[隐匿]] Stealth +20;[[游泳]] +32
@@ -144,10 +144,7 @@
 
 === 基值数据 ===
 
-* CR 3；体型 超小型；HD 4d12
-* 速度 60 尺，游泳 60 尺
-* 天生护甲 +3；喷吐武器 线形，2d6 酸蚀
-* 力量 11，敏捷 16，体质 13，智力 8，感知 11，魅力 8
+{{数据块|内容1='''CR''' 3；'''体型''' 超小型；'''HD''' 4d12；'''速度''' 60 尺，游泳 60 尺；'''天生护甲''' +3；'''喷吐武器''' 线形，2d6 酸蚀；力量 11，敏捷 16，体质 13，智力 8，感知 11，魅力 8}}
 
 <div class="monster-table-wrap"><table class="wikitable"><tr><th>年龄层</th><th>特殊能力</th><th>施法者等级</th></tr><tr><td>雏龙 Wyrmling</td><td>酸蚀免疫，水中呼吸</td><td>–</td></tr><tr><td>幼龙 Very young</td><td>沼泽漫步</td><td>–</td></tr><tr><td>少年 Young</td><td>爬虫交谈</td><td>–</td></tr><tr><td>青少年 Juvenile</td><td>[[黑暗术]]</td><td>–</td></tr><tr><td>青年 Young adult</td><td>DR 5/魔法，法术抗力</td><td>1 级</td></tr><tr><td>成年 Adult</td><td>腐化水质，凶威</td><td>3 级</td></tr><tr><td>壮年 Mature adult</td><td>DR 10/魔法</td><td>5 级</td></tr><tr><td>老年 Old</td><td>强酸啮咬，植物滋长</td><td>7 级</td></tr><tr><td>极老 Very old</td><td>DR 15/魔法</td><td>9 级</td></tr><tr><td>古龙 Ancient</td><td>酸池，疫病虫群</td><td>11 级</td></tr><tr><td>上古龙 Wyrm</td><td>DR 20/魔法</td><td>13 级</td></tr><tr><td>太古龙 Great wyrm</td><td>魅惑爬虫</td><td>15 级</td></tr></table></div>
 }}

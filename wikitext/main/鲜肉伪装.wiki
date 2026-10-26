@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=鲜肉伪装
 |english_name=Fleshy Facade

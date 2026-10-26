@@ -1,8 +1,10 @@
+{{PFS不可用}}
 {{魔法物品
 |name=真言颈环
 |english_name=Torc of Truespeech
 |aon=MagicWondrousDisplay.aspx?FinalName=Torc of Truespeech
 |cat=奇物
+|mythic=是
 |aura=微弱预言系
 |cl=5
 |slot=颈部

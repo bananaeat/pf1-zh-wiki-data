@@ -1,9 +1,9 @@
 {{狂暴之力
 |name=狂暴飞翔
 |english_name=Raging Flier
-|type=Ex
+|type=Su
 |categories=杂项
-|prerequisites=[[野蛮人]]，[[狂暴跳跃]]
-|benefit=每次狂暴一次，角色可以以一个[[移动动作]]以自己基础移动速度的速度飞行。
+|prerequisites=[[野蛮人]]6级，[[狂暴跳跃]]
+|benefit=每次狂暴一次，角色可以以一个[[移动动作]]以自己基础移动速度的速度飞行。如果她使用冲锋动作，她可以将这次飞行作为冲锋移动的一部分。
 |source_name=进阶职业指南
 }}

@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=金属定装弹
 |english_name=Metal cartridge

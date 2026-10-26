@@ -1,4 +1,5 @@
 {{消歧义|屠亡使 (Undead Slayer, Pharasma)}}
+{{PFS特殊|1=仅当你的角色所属族群与该特性所在章节的族群相同时才可用。|ai=1}}
 {{Trait
 |name=屠亡使
 |english_name=Undead Slayer

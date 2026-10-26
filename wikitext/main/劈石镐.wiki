@@ -1,7 +1,9 @@
+{{PFS不可用}}
 {{魔法物品
 |name=劈石镐
 |english_name=Pick of Stonecleaving
 |cat=特殊魔法武器
+|mythic=是
 |base=重型镐
 |enh=+1 精金
 |aura=微弱塑能系

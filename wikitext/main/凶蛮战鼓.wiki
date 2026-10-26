@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=凶蛮战鼓
 |english_name=War Drums of Savagery

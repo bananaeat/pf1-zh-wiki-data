@@ -3079,7 +3079,7 @@
 |-
 | Loyalty Transfusion || [[忠诚血清]] || 物品
 |-
-| Lucerne hammer || [[苜蓿战锤]] || 物品
+| Lucerne hammer || [[琉森锤]] || 物品
 |-
 | Lucid Dreamer || [[寻梦师]] || 专长
 |-

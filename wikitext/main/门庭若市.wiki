@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=门庭若市
 |english_name=Business booms

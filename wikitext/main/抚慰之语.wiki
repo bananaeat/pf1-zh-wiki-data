@@ -1,4 +1,5 @@
 {{AI翻译|本页由 AI 照 AoN 英文原文译出（Soothing Word），CHM 汉化里没有这一条的正文译文，未经人工校对。}}
+{{PFS不可用}}
 {{Spell
 |name=抚慰之语
 |english_name=Soothing word

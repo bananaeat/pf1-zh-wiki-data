@@ -9,9 +9,9 @@
 * [[催眠师诡计#破除昏迷 (Break Stupor)|破除昏迷]]（Break Stupor；收在 [[催眠师诡计]] 页里）
 * [[催眠师诡计#魅惑之言 (Enchanting Words)|魅惑之言]]（Enchanting Words；收在 [[催眠师诡计]] 页里）
 * [[催眠师诡计#回顾生命 (Life Review)|回顾生命]]（Life Review；收在 [[催眠师诡计]] 页里）
-* [[社交天赋#大隐于市 (Obscurity, Ex)|大隐于市]]（Obscurity, Ex；收在 [[社交天赋]] 页里）
-* [[社交天赋#无痕变身 (Seamless Shapechanger, Ex)|无痕变身]]（Seamless Shapechanger, Ex；收在 [[社交天赋]] 页里）
-* [[社交天赋#变形序列 (Transformation Sequence, Su)|变形序列]]（Transformation Sequence, Su；收在 [[社交天赋]] 页里）
+* [[社交天赋#大隐于市 (Obscurity)|大隐于市]]（Obscurity, Ex；收在 [[社交天赋]] 页里）
+* [[社交天赋#无痕变身 (Seamless Shapechanger)|无痕变身]]（Seamless Shapechanger, Ex；收在 [[社交天赋]] 页里）
+* [[社交天赋#变形序列 (Transformation Sequence)|变形序列]]（Transformation Sequence, Su；收在 [[社交天赋]] 页里）
 * [[侠客天赋#残忍战技 (Brutal Maneuver)|残忍战技]]（Brutal Maneuver；收在 [[侠客天赋]] 页里）
 * [[侠客天赋#欺诈阴招 (Deceitful Trick)|欺诈阴招]]（Deceitful Trick；收在 [[侠客天赋]] 页里）
 * [[侠客天赋#种族典范 (Racial Paragon)|种族典范]]（Racial Paragon；收在 [[侠客天赋]] 页里）

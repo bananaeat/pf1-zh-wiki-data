@@ -1,3 +1,4 @@
+{{PFS特殊|1=[[艾恩石]]以方法1（且永远不会以方法2）进行共鸣。另外，只有正常的[[艾恩石]]能够产生共鸣——破裂或有裂痕的艾恩石不可能产生共鸣。进阶艾恩石（Advanced Ioun Stones）皆不可用。}}
 {{魔法物品
 |name=橙黄色艾恩石
 |english_name=Gamboge Nodule Ioun Stone

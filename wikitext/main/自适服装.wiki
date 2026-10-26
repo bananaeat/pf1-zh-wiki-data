@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=自适服装
 |english_name=Living Garments

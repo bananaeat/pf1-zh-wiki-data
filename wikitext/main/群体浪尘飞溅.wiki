@@ -1,7 +1,7 @@
 {{Spell
 |name=群体浪尘飞溅
 |english_name=Spindrift Spritz, Mass
-|school=咒法系 (治疗)
+|school=咒法系 (医疗)
 |tags=水
 |levels=圣武士 3;游侠 3;猎人 3;先知 4;唤魂师 4;审判者 4;德鲁伊 4;战斗祭司 4;牧师 4;萨满 4
 |action=直觉动作

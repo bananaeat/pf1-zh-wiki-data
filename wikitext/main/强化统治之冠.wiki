@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=强化统治之冠
 |english_name=Diadem of Inspiring Rule

@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=弩炮网
 |english_name=Ballista net

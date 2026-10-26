@@ -1,9 +1,9 @@
 {{AI翻译|本页由 AI 照 AoN 英文原文译出（Goblins of Golarion pg. 16, We Be Goblins! pg. 15），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{PFS特殊|1=只有合法的地精PC才能从本书中选择任何内容。|ai=1}}
 {{Trait
 |name=弹性体质
 |english_name=Bouncy
 |type=种族
-|pfs=否
 |prerequisites=地精
 |description=你的骨骼、血肉和皮肤比大多数[[地精]]都更有弹性——因此当你坠落时，往往能弹得更好一些。每当你受到坠落伤害时，坠落中受到的前1d6点致命伤害自动转换为非致命伤害。你为避免意外坠落而进行的所有反射豁免也获得+2背景加值。
 |source_name=格拉利昂的地精

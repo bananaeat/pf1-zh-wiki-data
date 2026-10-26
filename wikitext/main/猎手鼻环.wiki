@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=猎手鼻环
 |english_name=Hunter's Nose Ring

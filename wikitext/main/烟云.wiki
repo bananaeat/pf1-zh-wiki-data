@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=烟云|en=Cloud of Smoke|type=Su|domain=火领域|sub=烟幕子域 (Smoke)|sub_name=烟幕子域|source=进阶玩家指南|text=以标准动作在30尺范围内创造半径5尺的云烟，区域内的生物对非相邻对手的攻击获得[[隐蔽]]。在区域内和离开不到1轮的生物将在命中和察觉上受到-2惩罚。每天可使用此能力“3+[[感知]]调整值”次。此能力替换[[火领域#火箭 (Fire Bolt, Sp)|火箭]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

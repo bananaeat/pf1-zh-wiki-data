@@ -26,7 +26,7 @@
 
 === 剧毒死神 (Poisonous Reaper, Ex) ===
 
-19级起，百草毒医能够使淬毒武器上的一剂毒药持续到整轮攻击结束，而非单次命中后就被消耗掉。 此能力取代[[游侠#高等狩猎目标|高等狩猎目标]]。
+19级起，百草毒医能够使淬毒武器上的一剂毒药持续到整轮攻击结束，而非单次命中后就被消耗掉。 此能力取代[[游侠#精通狩猎目标|精通狩猎目标]]。
 
 {{AoN原文|1=ArchetypeDisplay.aspx?FixedName=Ranger%20Toxic%20Herbalist|2=Toxic Herbalist}}
 

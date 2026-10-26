@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=女巫市集硬币
 |english_name=Witchmarket Coin

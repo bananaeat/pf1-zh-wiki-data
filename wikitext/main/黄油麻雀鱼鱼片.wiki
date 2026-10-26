@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=黄油麻雀鱼鱼片
 |english_name=Buttered Sparrowfish Fillet

@@ -1,3 +1,4 @@
+{{PFS特殊|1=白银舞衣不可用于游戏。|ai=1}}
 {{装备
 |name=白银舞衣
 |english_name=Dancer's garb, silver

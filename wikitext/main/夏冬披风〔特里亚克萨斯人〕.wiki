@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=夏冬披风〔特里亚克萨斯人〕
 |english_name=Cloak of Summer and Winter (Triaxian)

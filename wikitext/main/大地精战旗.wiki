@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=大地精战旗
 |english_name=Hobgoblin Battle Standard

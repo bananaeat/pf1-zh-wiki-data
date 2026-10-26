@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=分刃剑
 |english_name=Split-blade sword

@@ -1,3 +1,4 @@
+{{PFS特殊|1=Crashing Wave牧师不能选取会改变此能力的专长，诸如“元素引导（Elemental Channel）”或“阵营引导（Alignment Channel）”，但她可以选取“额外引导（Extra Channel）”或“精通引导（Improved Channel）”这种能够强化她的平衡引导（Balanced Channel）能力的专长，如同该能力是引导能量。}}
 {{Source|海洋血脉|Blood of the Sea}}
 
 '''狂澜'''（Crashing Wave）是[[牧师]]的[[变体职业]]。

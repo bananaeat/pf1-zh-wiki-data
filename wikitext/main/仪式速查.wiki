@@ -15,18 +15,18 @@
 | [[呼唤黑暗|呼唤黑暗]] || Call the Darkness || 咒法系（创造或呼唤） || 9 || 90分钟 || 内海神殿
 |- data-f-school="变化系" data-f-level="8" data-f-book="内海神殿"
 | [[晨花狂舞者的舞蹈|晨花狂舞者的舞蹈]] || Dance of the Dawnflower Dervish || 变化系 || 8 || 80分钟 || 内海神殿
-|- data-f-school="咒法系|预言系" data-f-level="8" data-f-book="反派法典"
-| [[不移警惕|不移警惕]] || Unwavering Vigilance || 咒法系（传送）和预言系 || 8 || 80分钟 || 反派法典
-|- data-f-school="变化系" data-f-level="5" data-f-book="反派法典"
-| [[猫和老鼠|猫和老鼠]] || Cats and Mice || 变化系（变形） || 5 || 50分钟 || 反派法典
-|- data-f-school="死灵系" data-f-level="7" data-f-book="反派法典"
-| [[绯色青春|绯色青春]] || Blush of Youth || 死灵系[邪恶] || 7 || 7小时 || 反派法典
-|- data-f-school="咒法系" data-f-level="5" data-f-book="反派法典"
-| [[自然改造|自然改造]] || Natural Reclamation || 咒法系 || 5 || 50分钟 || 反派法典
-|- data-f-school="变化系" data-f-level="5" data-f-book="反派法典"
-| [[返祖归元|返祖归元]] || Atavistic Reversion || 变化系 || 5 || 5小时 || 反派法典
-|- data-f-school="预言系" data-f-level="4" data-f-book="反派法典"
-| [[进入内环|进入内环]] || Enter the Inner Circle || 预言系 || 4 || 40分钟 || 反派法典
+|- data-f-school="咒法系|预言系" data-f-level="8" data-f-book="恶棍志"
+| [[不移警惕|不移警惕]] || Unwavering Vigilance || 咒法系（传送）和预言系 || 8 || 80分钟 || 恶棍志
+|- data-f-school="变化系" data-f-level="5" data-f-book="恶棍志"
+| [[猫和老鼠|猫和老鼠]] || Cats and Mice || 变化系（变形） || 5 || 50分钟 || 恶棍志
+|- data-f-school="死灵系" data-f-level="7" data-f-book="恶棍志"
+| [[绯色青春|绯色青春]] || Blush of Youth || 死灵系[邪恶] || 7 || 7小时 || 恶棍志
+|- data-f-school="咒法系" data-f-level="5" data-f-book="恶棍志"
+| [[自然改造|自然改造]] || Natural Reclamation || 咒法系 || 5 || 50分钟 || 恶棍志
+|- data-f-school="变化系" data-f-level="5" data-f-book="恶棍志"
+| [[返祖归元|返祖归元]] || Atavistic Reversion || 变化系 || 5 || 5小时 || 恶棍志
+|- data-f-school="预言系" data-f-level="4" data-f-book="恶棍志"
+| [[进入内环|进入内环]] || Enter the Inner Circle || 预言系 || 4 || 40分钟 || 恶棍志
 |- data-f-school="死灵系" data-f-level="8" data-f-book="奈多，阴影之地"
 | [[入影廷|入影廷]] || Enter the Umbral court || 死灵系 || 8 || 80分钟 || 奈多，阴影之地
 |- data-f-school="变化系" data-f-level="6" data-f-book="对立协调"

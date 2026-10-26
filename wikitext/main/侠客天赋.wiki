@@ -48,17 +48,11 @@
 == 欺诈阴招 (Deceitful Trick) ==
 {{:欺诈阴招}}
 
-== 抄来就打 (Environment Weapon) ==
-{{:抄来就打}}
-
 == 因地制宜 (Environmental Weapon) ==
 {{:因地制宜}}
 
 == 反射闪避 (Evasive) ==
 {{:反射闪避}}
-
-== 专抓弱点 (Expose Weakness) ==
-{{:专抓弱点}}
 
 == 弱点识别 (Expose Weaknesses) ==
 {{:弱点识别}}

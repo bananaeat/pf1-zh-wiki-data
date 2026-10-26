@@ -5,7 +5,7 @@
 |english_name=White-Eyed Torturer
 |cr=12
 |xp=19,200
-|classline=德洛人炼金术士（活体解剖师）11
+|classline=德洛人炼金术士（活体解剖者）11
 |alignment=混乱邪恶
 |size=小型
 |type=类人生物

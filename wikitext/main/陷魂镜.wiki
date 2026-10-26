@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=陷魂镜
 |english_name=Mirror of Soul Snaring

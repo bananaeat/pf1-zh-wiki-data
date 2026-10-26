@@ -1,9 +1,9 @@
 {{AI翻译|本页由 AI 照 AoN 英文原文译出（Goblins of Golarion pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{PFS特殊|1=只有合法的地精PC才能从本书中选择任何内容。|ai=1}}
 {{Trait
 |name=饥火难耐
 |english_name=Restless Hunger
 |type=宗教
-|pfs=否
 |prerequisites=地精、文克沃尔
 |description=如果你有一块食物（或是[[地精]]可能视为食物的东西），你每天一次可以在冲锋攻击中顺带迅速把它吃掉。这么做会使你的速度增加10尺，持续1轮。
 |source_name=格拉利昂的地精

@@ -1,0 +1,12 @@
+{{危害
+|name=腐尸症
+|english_name=Mummy Rot
+|kind=诅咒
+|type=诅咒
+|save=强韧 DC 16
+|onset=1分钟
+|frequency=1次/天
+|effect=1d6点体质伤害和1d6点魅力伤害
+|cure=腐尸症只能通过在彼此间隔不超过1分钟内先后成功施展[[移除诅咒]]和[[移除疾病]]来治愈。
+|source=核心规则书
+}}

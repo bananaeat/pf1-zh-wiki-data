@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=地狱腐败|en=Hell's Corruption|type=Su|domain=邪恶领域(领域)|sub=魔鬼子域 (Devil)|sub_name=魔鬼子域|source=进阶玩家指南|text=你的近战接触攻击令生物更易腐败。被击中的生物豁免受到-2减值，而且进行对抗技能检定的时候必须双骰取低。该效果持续轮数为你牧师等级一半，每天可用“3+[[感知]]调整值”次。此能力替换[[邪恶领域(领域)#邪恶之触 (Touch of Evil, Sp)|邪恶之触]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

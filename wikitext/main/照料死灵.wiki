@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=照料死灵|en=Necrotic Tending|type=Sp|domain=死亡领域|source=闹鬼英雄手册|text=你可以用一个[[标准动作]]接触一个不死生物或受[[作祟]]影响的区域，为其恢复1d8+你每2个牧师等级1点生命值。此能力对其他类型的生物无效。你每天可以使用此能力的次数等于“3+[[感知]]调整值”。此能力取代[[死亡领域#流血接触 (Bleeding Touch, Sp)|流血接触]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

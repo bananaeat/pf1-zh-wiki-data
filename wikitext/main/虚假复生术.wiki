@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=虚假复生术
 |english_name=False resurrection

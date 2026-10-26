@@ -149,10 +149,7 @@
 
 === 基值数据 ===
 
-* CR 2；体型 超小型；HD 3d12
-* 速度 60 尺，掘洞 30 尺，游泳 60 尺
-* 天生护甲 +2；喷吐武器 锥形，2d4 寒冷
-* 力量 11，敏捷 16，体质 13，智力 6，感知 9，魅力 6
+{{数据块|内容1='''CR''' 2；'''体型''' 超小型；'''HD''' 3d12；'''速度''' 60 尺，掘洞 30 尺，游泳 60 尺；'''天生护甲''' +2；'''喷吐武器''' 锥形，2d4 寒冷；力量 11，敏捷 16，体质 13，智力 6，感知 9，魅力 6}}
 
 <div class="monster-table-wrap"><table class="wikitable"><tr><th>年龄层</th><th>特殊能力</th><th>施法者等级</th></tr><tr><td>雏龙</td><td>冰行，寒系</td><td>–</td></tr><tr><td>幼龙</td><td>降雪视觉</td><td>–</td></tr><tr><td>少年</td><td>塑冰</td><td>–</td></tr><tr><td>青少年</td><td>[[云雾术]]</td><td>–</td></tr><tr><td>青年</td><td>DR 5/魔法，法术抗力，[[造风术]]</td><td>–</td></tr><tr><td>成年</td><td>寒冷灵氲，凶威</td><td>1 级</td></tr><tr><td>壮年</td><td>DR 10/魔法</td><td>3 级</td></tr><tr><td>老年</td><td>冻雾</td><td>5 级</td></tr><tr><td>极老</td><td>DR 15/魔法</td><td>7 级</td></tr><tr><td>古龙</td><td>暴风雪，[[冰墙术]]</td><td>9 级</td></tr><tr><td>上古龙</td><td>DR 20/魔法</td><td>11 级</td></tr><tr><td>太古龙</td><td>冰墓，操控天气</td><td>13 级</td></tr></table></div>
 }}

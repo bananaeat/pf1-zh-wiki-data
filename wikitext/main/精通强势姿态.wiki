@@ -5,6 +5,7 @@
 |description=你在与非战斗者谈判时，尤其擅长施压以利用你的优势。
 |prerequisites=[[强势姿态]]；双武器战斗或多重攻击；威吓5级。
 |benefit=只要你正持用一种或多种你熟练使用的武器，你就能对所持武器数量少于你所持数量的生物获得来自[[强势姿态]]在威吓检定上的加值。
-|source_name=反派法典
+|source=VC
+|source_name=恶棍志
 |source_url=https://pf1chm.pages.dev/topics/zhfa2a4585c1.htm
 }}

@@ -1,0 +1,45 @@
+{{速查导航|here=神祇}}
+{{AI翻译|本页由 AI 照《永罪之书》（Book of the Damned）英文原书译出（民间汉化 CHM 没有），未经人工校对。符号、圣兽、圣色三项据 AoN 译出。}}
+{{PFS不可用}}
+{{神祇
+|name=阿拉克拉玛斯
+|english_name=Arlachramas
+|title=寂静之息（The Silent Breath）
+|alignment=中立邪恶（NE）
+|weapon=[[战锤]]
+|portfolio=去人性化，处置，安乐死
+|domains=[[团队领域|团队]]，[[死亡领域|死亡]]，[[邪恶领域(领域)|邪恶]]，[[力量领域|力量]]
+|subdomains=[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[死亡领域#杀戮子域 (Murder)|杀戮子域]]，[[力量领域#决意子域 (Resolve)|决意子域]]，[[死亡领域#亡灵子域 (Undead)|亡灵子域]]
+|symbol=染血的空摇篮
+|symbol_label=邪徽
+|color=蓝色，粉色
+|pantheon=邪魔先驱
+|source=内海诸神、永罪之书
+}}
+
+'''阿拉克拉玛斯'''（Arlachramas）是一位[[邪魔先驱]]。
+
+== 简介 ==
+
+寂静之息阿拉克拉玛斯统治着一处被冥河环绕的领域。她的形体是一个由缓缓凝结又蒸发的血液与酸液构成的类人生物。
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+为一名病逝者的遗体祈祷。你在对抗死亡效果的豁免检定中获得+4亵渎加值。
+
+=== 神恩 ===
+
+通过[[魔族仪典]]获得，均为每日各2次的类法术能力：
+
+{{神恩|n=1|name=|en=|type=Sp|text=每日2次，你可以施展[[死亡丧钟]]。}}
+
+{{神恩|n=2|name=|en=|type=Sp|text=每日2次，你可以施展[[极度绝望]]。}}
+
+{{神恩|n=3|name=|en=|type=Sp|text=每日2次，你可以施展[[重伤术]]。}}
+
+<small>出自《[[永罪之书]]》第112页。</small>
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Arlachramas|2=Arlachramas}}
+[[分类:魔神]]

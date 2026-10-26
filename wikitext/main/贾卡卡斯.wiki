@@ -1,0 +1,46 @@
+{{速查导航|here=神祇}}
+{{AI翻译|本页由 AI 照《永罪之书》（Book of the Damned）英文原书译出（民间汉化 CHM 没有），未经人工校对。符号、圣兽、圣色三项据 AoN 译出。}}
+{{PFS不可用}}
+{{神祇
+|name=贾卡卡斯
+|english_name=Jacarkas
+|title=收藏家（The Collector）
+|alignment=中立邪恶（NE）
+|weapon=[[套牛绳]]
+|portfolio=砍断脚筋，脑叶切除，奴役
+|domains=[[死亡领域|死亡]]，[[毁灭领域|毁灭]]，[[邪恶领域(领域)|邪恶]]，[[高贵领域|高贵]]
+|subdomains=[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[邪恶领域(领域)#恐惧子域 (Fear)|恐惧子域]]，[[高贵领域#领导子域 (Leadership)|领导子域]]，[[秩序领域#奴役子域 (Slavery)|奴役子域]]
+|symbol=锁链缠着的断踝
+|symbol_label=邪徽
+|animal=蛆虫
+|color=灰色，红色
+|pantheon=邪魔先驱
+|source=内海诸神、永罪之书
+}}
+
+'''贾卡卡斯'''（Jacarkas）是一位[[邪魔先驱]]。
+
+== 简介 ==
+
+收藏家贾卡卡斯统治着奴隶之城待噬（Awaiting Consumption），这是位面间灵魂贸易的大集市。
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+在不少于十几名劳作的奴隶听得到的范围内冥想。你的[[战技防御]]（CMD）获得+4亵渎加值。
+
+=== 神恩 ===
+
+通过[[魔族仪典]]获得，均为每日各2次的类法术能力：
+
+{{神恩|n=1|name=|en=|type=Sp|text=每日2次，你可以施展[[注目术]]。}}
+
+{{神恩|n=2|name=|en=|type=Sp|text=每日2次，你可以施展[[魅惑怪物]]。}}
+
+{{神恩|n=3|name=|en=|type=Sp|text=每日2次，你可以施展[[肢体萎缩]]。}}
+
+<small>出自《[[永罪之书]]》第114页。</small>
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Jacarkas|2=Jacarkas}}
+[[分类:魔神]]

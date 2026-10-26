@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=神圣炼金|en=Divine Alchemy|type=Su|domain=手艺领域|sub=炼金子域 (Alchemy)|sub_name=炼金子域|source=神术选集|text=你可以花费一分钟的仪式，将一个准备好的法术灌注到一瓶水中，创造一瓶临时药水，其持续到被消耗或下一次准备法术为止。这个能力所使用的法术的目标必须是一个或者多个生物。并且你能通过这个能力灌注的法术最大环位为1+每4个牧师等级再加1。在判断[[领域法术]]时，这些药水被视为化合炼成。你能使用这个能力的次数为“3+[[感知]]调整值”。此能力取代手艺领域的[[手艺领域#技工之触 (Artificer's Touch, Sp)|技工之触]]能力，或[[魔法领域]]的[[魔法领域#随从之手 (Hand of the Acolyte, Su)|随从之手]]能力。<small>（这一段 CHM 汉化没有译文，由 AI 照 AoN 补译。）</small>}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

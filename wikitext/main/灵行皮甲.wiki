@@ -1,7 +1,9 @@
+{{PFS不可用}}
 {{魔法物品
 |name=灵行皮甲
 |english_name=Spiritwalk Armor
 |cat=特殊魔法护甲
+|mythic=是
 |base=[[皮甲]]
 |enh=+2 强化暗影
 |aura=强烈幻术系、变化系

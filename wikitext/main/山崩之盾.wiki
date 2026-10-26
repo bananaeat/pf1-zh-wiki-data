@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=山崩之盾
 |english_name=Avalanche Shield

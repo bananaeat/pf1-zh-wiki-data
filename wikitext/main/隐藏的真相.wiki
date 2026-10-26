@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{物品
 |name=隐藏的真相
 |english_name=The Hidden Truth

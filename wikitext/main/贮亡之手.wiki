@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=贮亡之手
 |english_name=Hand of Hoarded Deaths

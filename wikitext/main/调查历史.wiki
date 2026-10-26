@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=调查历史
 |english_name=Probe history

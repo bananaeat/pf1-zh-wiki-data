@@ -1,5 +1,6 @@
 {{Source|冒险之路111：黄衣之王的梦境|Pathfinder #111: Dreams of the Yellow King}}
 {{速查导航|here=种族}}
+{{PFS不可用}}
 {{种族卡
 |属性=-4力量，-2体质，+4感知
 |体型=中型

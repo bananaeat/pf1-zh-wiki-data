@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=灵导械核心
 |english_name=Automaton Core

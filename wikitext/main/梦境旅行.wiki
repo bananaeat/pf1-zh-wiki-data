@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=梦境旅行
 |english_name=Dream travel

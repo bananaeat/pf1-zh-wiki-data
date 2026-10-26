@@ -6,7 +6,7 @@
 <div class="rule-def dense"><div class="rd-t">召唤物可用</div><div class="rd-b"><p>否</p><p>并非所有遭受链魔痛苦转变的受害者都会死于俘虏者的严酷折磨。 有些生物被转变为过去的自己和链魔黑暗恶意的混合体。 这些链魔使徒各不相同，从完全屈服于屠杀其自我意识的堕落和顺从的实体，到完全可恶的生物，他们在转变中感到喜悦，并在链魔等级制度中上升到领导地位。 完全迷失于[[影契]][[腐化]]的生物（参见第34页，HA腐化规则）有时也会成为链魔使徒，因为他们的灵魂被扭曲以匹配链魔的非道情感。 那些自愿成为链魔使徒的人往往与司门魔（《怪物图鉴4》第176页）有着类似的定位，并且这两种 链魔经常在阴谋中勾结在一起。 其他使徒协助邪验魔（《怪物图鉴3》第174页）提供服务，甚至直接为强大的邪隐魔（《怪物图鉴3》第172页）服务，作为“完美部分”的寻求者。</p><p>“链魔使徒”是一个后天模板，可以添加到任何类人生物或人形怪物的活体生物（以下称为基础生物）中。大多链魔使徒都曾经是类人。链魔使徒使用基础生物的统计数据和能力，除非此处另有说明。</p></div></div>
 <div class="rule-def dense"><div class="rd-t">挑战等级</div><div class="rd-b">基础生物+2</div></div>
 <div class="rule-def dense"><div class="rd-t">阵营</div><div class="rd-b">守序邪恶</div></div>
-<div class="rule-def dense"><div class="rd-t">种类</div><div class="rd-b">链魔使徒的类型变为异界生物（链魔，本地）。不要重新计算BAB，豁免或技能。</div></div>
+<div class="rule-def dense"><div class="rd-t">种类</div><div class="rd-b">链魔使徒的类型变为异界生物（链魔，本地）。不要重新计算生命骰、BAB 或豁免。获得[[增强亚种]]。</div></div>
 <div class="rule-def dense"><div class="rd-t">感官</div><div class="rd-b">链魔使徒获得60尺黑暗视觉</div></div>
 <div class="rule-def dense"><div class="rd-t">AC</div><div class="rd-b">天生防御+4</div></div>
 <div class="rule-def dense"><div class="rd-t">防御能力</div><div class="rd-b">链魔使徒获得寒冷免疫，SR=11+其总CR，获得1/2*HD的再生被善良武器，法术和银武器压制。</div></div>
@@ -29,7 +29,7 @@
 <div class="rule-def dense"><div class="rd-t">召唤物可用</div><div class="rd-b"><p>否</p><p>未知者是可怕的精类生物，它们以其他生物的精神能量为食。 研究未知者的行为和组织的学者们推测，它们最初可能是精类生物，以某种方式到达了梦境维度并被困在那里，被同样迷失在短暂梦境中的其他心灵重塑。 未知者通过侵蚀类人生物的心灵来传播更多自己的同类，直到受害者转变为新的未知者。 未知者通常会选择伤害那些已经相对无助的人，尤其是儿童，但当他们将一名有成就的冒险家变成自己的一员时，结果可能真的很可怕。</p><p>“未知者”是可以添加到任何类人生物的后天模板。使用基础生物的统计数据和能力，除非此处另有说明。</p></div></div>
 <div class="rule-def dense"><div class="rd-t">挑战等级</div><div class="rd-b">基础生物+2</div></div>
 <div class="rule-def dense"><div class="rd-t">阵营</div><div class="rd-b">中立邪恶</div></div>
-<div class="rule-def dense"><div class="rd-t">类型</div><div class="rd-b">该生物类型变为精类（增强类人生物）。不要重新计算BAB，豁免或技能。</div></div>
+<div class="rule-def dense"><div class="rd-t">类型</div><div class="rd-b">该生物类型变为精类（增强类人生物）。不要重新计算HD、BAB或豁免。</div></div>
 <div class="rule-def dense"><div class="rd-t">感官</div><div class="rd-b">未知者获得昏暗视觉</div></div>
 <div class="rule-def dense"><div class="rd-t">AC</div><div class="rd-b">天生防御+2</div></div>
 <div class="rule-def dense"><div class="rd-t">防御能力</div><div class="rd-b">未知者获得DR10/{{材料|寒铁}}</div></div>
@@ -53,7 +53,7 @@
 <div class="rule-def dense"><div class="rd-t">挑战等级</div><div class="rd-b">基础生物+1</div></div>
 <div class="rule-def dense"><div class="rd-t">阵营</div><div class="rd-b">任意邪恶</div></div>
 <div class="rule-def dense"><div class="rd-t">感官</div><div class="rd-b">恐惧领主获得120尺黑暗视觉。</div></div>
-<div class="rule-def dense"><div class="rd-t">防御能力</div><div class="rd-b">恐惧领主获得DR5/善良或硬。如果恐惧领主的HD少于10，则获得快速治疗5；如果HD有10个或以上，则获得快速治疗10。</div></div>
+<div class="rule-def dense"><div class="rd-t">防御能力</div><div class="rd-b">恐惧领主获得DR5/善良或银。如果恐惧领主的HD少于10，则获得快速治疗5；如果HD有10个或以上，则获得快速治疗10。</div></div>
 <div class="rule-def dense"><div class="rd-t">弱点</div><div class="rd-b">恐惧领主获得以下弱点。</div></div>
 <div class="rule-def dense"><div class="rd-t">领内（Ex）</div><div class="rd-b">恐惧领主的力量直接从其领地中汲取，该领地的半径为恐惧领主HD*5 英里，以对恐惧领主具有一定意义的固定点为中心。 当恐惧领主不在其领域内时，它将失去该模板的所有好处。</div></div>
 <div class="rule-def dense"><div class="rd-t">特殊攻击</div><div class="rd-b">恐惧领主获得多种特殊攻击。 恐惧领主每拥有 3 个HD，就会从下列攻击中选择一种特殊攻击。 除非另有说明，这些能力的豁免 DC=10 + 1/2 恐惧领主HD + 其魅力调整。 恐惧领主的施法者等级等于其HD总数（或其现有类法术能力的施法者等级，以较高者为准）。</div></div>
@@ -61,9 +61,9 @@
 <div class="rule-def dense"><div class="rd-t">梦境统治（Su）</div><div class="rd-b">恐惧领主甚至可以统治其臣民的梦境。 它可以使用[[托梦术]]和[[梦魇]]作为类法术能力，每天一次，但只针对其领域内的生物。 如果它的 CR 为 9 或更高，那么它每周可以尝试一次以这种方式控制影响其梦境的生物。 如果目标在第二次意志豁免检定中失败，除了托梦术或梦魇类法术能力的正常效果外，恐惧领主也会如同[[支配怪物]]的方式奴役它。</div></div>
 <div class="rule-def dense"><div class="rd-t">恐惧灵氲（Su）</div><div class="rd-b">恐惧领主看起来很可怕。 任何在 60 尺半径内看到或听到恐惧领主的生物都必须成功通过意志豁免，否则只要它处于灵氲内，就会陷入[[战栗]]，并持续 1 分钟。 无论豁免是否成功，该生物在 24 小时内不会再次受到同一个恐惧领主的恐惧灵氲的影响。 这是一种影响心灵的恐惧效应。</div></div>
 <div class="rule-def dense"><div class="rd-t">魔法掌握（Su）</div><div class="rd-b">恐惧领主从其领域汲取魔法力量。 就其施展的法术和类法术能力而言，它会将自己的施法者等级视为高 2 级，并且此类法术和类法术能力的豁免 DC 增加 1。</div></div>
-<div class="rule-def dense"><div class="rd-t">四风之主（Sp）</div><div class="rd-b">恐惧领主可以控制其领域内的天气。 它每天可以使用[[云雾术]]和[[造风术]]作为类法术能力各3次。 如果它的CR为5或更高，它每天可以使用[[操控天气]]作为类法术能力一次。 如果它的CR为8或更高，它每天可以使用操控风向作为类法术能力一次。</div></div>
+<div class="rule-def dense"><div class="rd-t">四风之主（Sp）</div><div class="rd-b">恐惧领主可以控制其领域内的天气。 它每天可以使用[[云雾术]]和[[造风术]]作为类法术能力各3次。 如果它的CR为5或更高，它每天可以使用[[操控天气]]作为类法术能力一次。 如果它的CR为8或更高，它每天可以使用[[操纵风相]]作为类法术能力一次。</div></div>
 <div class="rule-def dense"><div class="rd-t">物理掌握（Su）</div><div class="rd-b">恐惧领主从其领域中汲取力量和灵巧。 它的力量、敏捷和体质属性获得 +4 亵渎加值。</div></div>
-<div class="rule-def dense"><div class="rd-t">植物亲和（Sp）</div><div class="rd-b">恐惧领主对其土地的控制延伸至植物本身。 它可以使用类法术能力：随意-[[纠缠术]]，以及[[植物滋长]]每日一次。 如果它的CR为5或更高，它可以随意使用树跃术作为类法术能力。 如果它的CR为10或更高，它每天可以使用[[橡树守卫]]作为类法术能力一次。</div></div>
+<div class="rule-def dense"><div class="rd-t">植物亲和（Sp）</div><div class="rd-b">恐惧领主对其土地的控制延伸至植物本身。 它可以使用类法术能力：随意-[[纠缠术]]，以及[[植物滋长]]每日一次。 如果它的CR为5或更高，它可以随意使用[[融身入林]]作为类法术能力。 如果它的CR为10或更高，它每天可以使用[[橡树守卫]]作为类法术能力一次。</div></div>
 <div class="rule-def dense"><div class="rd-t">绝对主宰（Sp）</div><div class="rd-b">恐惧领主的臣民自然会屈服于它的意志。 它可以随意使用[[魅惑动物]]、[[魅惑人类]]、[[侦测思想]]类法术能力。 如果它的CR为10或更高，它每天可以使用[[支配动物]]、[[支配人类]]和[[群体暗示术]]作为类法术能力3次。</div></div>
 <div class="rule-def dense"><div class="rd-t">SQ</div><div class="rd-b">恐惧领主获得以下特殊能力。</div></div>
 <div class="rule-def dense"><div class="rd-t">领地合一（Su）</div><div class="rd-b">恐惧领主可以按照自己的意愿塑造由于其领域的产物而形成的危险景观。 它可以用另一种险境（见[[环境#险地]]）取代其领域中存在的任何正常或超自然险境，但该过程需要 24 小时，在此期间两种危险都不会起作用。 在恐惧领主的领地内的所有险境的总 CR（即假设同时遭遇所有险境的 CR）不能超过其HD的两倍，并且它不能创造任何 CR 超过其自身的险境。 恐惧领主领地合一使其在所有意志豁免上获得+2加值。</div></div>

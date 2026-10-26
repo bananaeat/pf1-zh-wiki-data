@@ -1,3 +1,4 @@
+{{PFS特殊|1=仅限鼠族PC合法。|ai=1}}
 {{魔法物品
 |name=猛毒
 |english_name=Virulent

@@ -1,9 +1,9 @@
 {{AI翻译|本页由 AI 照 AoN 英文原文译出（Goblins of Golarion pg. 16, We Be Goblins! pg. 13），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{PFS特殊|1=只有合法的地精PC才能从本书中选择任何内容。|ai=1}}
 {{Trait
 |name=满脸脓包
 |english_name=Pustular
 |type=种族
-|pfs=否
 |prerequisites=地精
 |description=你的脸上布满了难看的粉刺，甚至是脓疮，它们往往会在不合时宜的时候破裂。尽管这让你格外丑陋，但你也早已习惯了不适。每当你受到一个会造成[[恶心]]状态的效果影响时，你可以进行两次豁免检定来避免该效果（如果该效果允许豁免），取两次结果中较好的一次作为你实际的豁免检定结果。
 |source_name=格拉利昂的地精

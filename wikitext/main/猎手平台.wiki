@@ -1,3 +1,4 @@
+{{PFS特殊|1=猎手平台可用于游戏，但伪装掩体（camouflage blind）不可用。|ai=1}}
 {{装备
 |name=猎手平台
 |english_name=Hunter's stand

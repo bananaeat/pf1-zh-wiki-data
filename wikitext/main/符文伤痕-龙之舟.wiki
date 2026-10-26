@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=符文伤痕-龙之舟
 |english_name=Runescarred Dragonship

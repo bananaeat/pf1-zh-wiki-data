@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{装备
 |name=风台
 |english_name=Wind platform

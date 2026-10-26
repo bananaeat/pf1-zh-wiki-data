@@ -1,8 +1,8 @@
+{{PFS特殊|1=只有合法的地精PC才能从本书中选择任何内容。|ai=1}}
 {{Trait
 |name=兽母牙
 |english_name=Mother's Teeth
 |type=宗教
-|pfs=否
 |prerequisites=[[地精]]，信仰拉玛什图
 |description=和其他人比起来，你的牙齿更加锯齿状、更加尖锐。你获得啮咬作为次要攻击，造成1d2伤害。
 |source_name=格拉里昂的地精

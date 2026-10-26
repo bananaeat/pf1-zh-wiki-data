@@ -1,3 +1,4 @@
+{{PFS特殊|1=摩尔苏恩随军神父（Molthuni Arsenal Chaplain）不能满足进阶武器训练选项（本书第18至19页）的先决条件。}}
 {{Source|武器大师手册|Weapon Master's Handbook}}
 
 '''摩尔苏恩随军神父'''（Molthuni Arsenal Chaplain）是[[战斗祭司]]的[[变体职业]]。

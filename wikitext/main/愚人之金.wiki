@@ -1,4 +1,5 @@
 {{消歧义|愚人之金(秘术选集)}}
+{{PFS不可用}}
 {{Spell
 |name=愚人之金
 |english_name=Fool's gold

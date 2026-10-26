@@ -1,0 +1,7 @@
+<div class="class-nav book-nav"><span class="pill">'''[[塔尔多，第一帝国]]'''</span><span class="pill {{#ifeq:{{{章|}}}|塔尔多的生活|on}}">[[塔尔多，第一帝国/塔尔多的生活|塔尔多的生活]]</span><span class="pill {{#ifeq:{{{章|}}}|地志|on}}">[[塔尔多，第一帝国/地志|地志]]</span><span class="pill {{#ifeq:{{{章|}}}|塔尔多的冒险|on}}">[[塔尔多，第一帝国/塔尔多的冒险|塔尔多的冒险]]</span><span class="pill {{#ifeq:{{{章|}}}|怪物图鉴|on}}">[[塔尔多，第一帝国/怪物图鉴|怪物图鉴]]</span></div>{{#switch:{{{章|}}}
+|地志=<div class="class-nav book-sub"><span class="pill">[[塔尔多，第一帝国/地志|概述]]</span><span class="pill">[[塔尔多，第一帝国/地志/亚温—利戈斯|亚温—利戈斯]]</span><span class="pill">[[塔尔多，第一帝国/地志/林吉安—欧帕罗斯|林吉安—欧帕罗斯]]</span><span class="pill">[[塔尔多，第一帝国/地志/珀斯莫斯—塔尔多的各省|珀斯莫斯—塔尔多的各省]]</span></div>
+|塔尔多的冒险=<div class="class-nav book-sub"><span class="pill">[[塔尔多，第一帝国/塔尔多的冒险|概述]]</span><span class="pill">[[塔尔多，第一帝国/塔尔多的冒险/安提奥斯冕—边境林|安提奥斯冕—边境林]]</span><span class="pill">[[塔尔多，第一帝国/塔尔多的冒险/鹰头台—阿兹兰特之谷|鹰头台—阿兹兰特之谷]]</span></div>
+}}<noinclude>
+《[[塔尔多，第一帝国]]》各章页顶上的导航：第一排各章（当前章标实心），第二排本章分页（当前页标实心）。用法 <code><nowiki>{{塔尔多，第一帝国/导航|章=地志}}</nowiki></code>。由 <code>build/cs_push/split.py</code> 生成。
+[[分类:导航模板]]
+</noinclude>

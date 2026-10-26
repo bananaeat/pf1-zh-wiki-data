@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=剧毒唾液|en=Venomous Saliva|type=Su|domain=鳞裔领域|sub=毒液子域 (Venom)|sub_name=毒液子域|source=内海诸神|text=以一个[[迅捷动作]]，你可以产生一剂窃命毒并将它涂在你的武器上。该毒素持续生效1分钟，或直到你以该武器成功伤害一个敌人为止。你每天可以产生毒唾的次数等同于“3+你的[[感知]]调整值”。此能力替换[[#剧毒瞪视 (Venemous Stare, Sp)|剧毒瞪视]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

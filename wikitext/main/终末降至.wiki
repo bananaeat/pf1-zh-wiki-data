@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=终末降至|en=Hasten the End|type=Su|domain=混乱领域|sub=熵子域 (Entropy)|sub_name=熵子域|source=内海诸神|text=在8级时，以一个[[直觉动作]]，你在以近战攻击成功命中一个目标时，可以让他所拥有的所有增益魔法效果的持续时间缩短1轮，一分钟，一小时，一天——以此类推，降低一个持续的时间单位。在8级时你每天可以使用此能力一次，在8级后每提升4级再额外增加一次。此能力替换[[混乱领域#混沌之刃 (Chaos Blade, Su)|混沌之刃]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

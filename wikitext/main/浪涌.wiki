@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=浪涌|en=Surge|type=Su|domain=水领域|sub=海子域 (Oceans)|sub_name=海子域|source=进阶玩家指南|text=你以标准动作唤来汹涌的波涛冲刷一个目标，以“牧师等级+[[感知]]调整值”做为[[战技]]攻击加值来推拉对手，如同使用[[冲撞]]或拖拽战技。每天“3+[[感知]]调整值”次。此能力替换[[水领域#冰柱 (Icicle, Sp)|冰柱]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

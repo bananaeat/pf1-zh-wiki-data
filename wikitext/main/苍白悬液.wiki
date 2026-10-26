@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{装备
 |name=苍白悬液
 |english_name=Pallid suspension

@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=巨化召唤权杖
 |english_name=Rod of Giant Summoning

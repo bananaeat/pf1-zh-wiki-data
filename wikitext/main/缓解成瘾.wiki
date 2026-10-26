@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=缓解成瘾
 |english_name=Alleviate addiction

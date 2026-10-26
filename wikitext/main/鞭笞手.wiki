@@ -1,0 +1,49 @@
+{{速查导航}}
+{{AI翻译|本页由 AI 照《恶棍志》英文原书译出（民间汉化 CHM 没有），未经人工校对。}}
+{{怪物
+|name=鞭笞手
+|english_name=Beater
+|aon=无
+|cr=2
+|xp=600
+|classline=人类盗贼（暴徒）3级（《进阶玩家指南》135）
+|alignment=中立邪恶
+|size=中型
+|type=类人生物
+|subtypes=人类
+|init=+1
+|senses=察觉 +5
+|ac=15，接触 11，措手不及 14（+4护甲，+1敏捷）
+|hp=26（3d8+9）
+|fort=+3
+|ref=+4
+|will=+2
+|defensive=闪避
+|speed=30尺
+|melee=精制轻型硬头锤 +6（1d6+3）或精制闷棍 +6（1d6+3 非致命）
+|special_attacks=残暴痛击，恐吓，偷袭 +2d6
+|tactics=<div class="ml wide"><span class="k">战斗前</span>鞭笞手喝下隐形术药水，在战斗开始前潜入战术有利的位置。</div><div class="ml wide"><span class="k">战斗中</span>鞭笞手尽力和盟友包夹敌人，以发动残暴的偷袭。</div>
+|str=17
+|dex=12
+|con=14
+|int=13
+|wis=8
+|cha=10
+|bab=+2
+|cmb=+5
+|cmd=16
+|feats=胁迫者<sup>APG</sup>;[[钢铁意志]];闷棍手<sup>UC</sup>
+|skills=[[特技]] +6;[[唬骗]] +6;[[脱逃]] +6;[[威吓]] +6;[[知识]]（本地）+7;[[察觉]] +5;[[察言观色]] +5;[[巧手]] +6;[[隐匿]] +6;[[使用魔法装置]] +6
+|languages=通用语;精灵语
+|sq=盗贼天赋（防御式突袭<sup>APG</sup>）
+|combat_gear=治疗中伤药水，变巨术药水，隐形术药水，绊足包（2个）
+|gear=精制链甲衫，精制轻型硬头锤，精制闷棍，14 gp
+|source=恶棍志
+|family=残暴奴贩（恶棍志）
+|npc=1
+|nofooter=1
+|lore=
+鞭笞手以恐吓、羞辱可怜的受害者为乐。
+}}
+
+本页译自《[[恶棍志]]》「[[残暴奴贩（恶棍志）|残暴奴贩]]」一章。

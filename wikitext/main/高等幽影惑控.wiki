@@ -1,3 +1,4 @@
+{{PFS特殊|1=玩家角色用他自己的法术列表来决定被复制法术的环级。如果该法术并未在他的法术列表中出现，那么使用该法术在法师或[[异能者]]法术列表中的环级。}}
 {{Spell
 |name=高等幽影惑控
 |english_name=Shadow enchantment, greater

@@ -4,6 +4,7 @@
 |description=虽为植物生物，你被荒疫召唤者对文明的原始怒火所灌注。
 |prerequisites=[[智力]] 1，任意非善良阵营，植物生物。
 |benefit=你不再对会导致士气加值的效果或带有情绪描述符的效果免疫，且你在对抗愤怒或狂暴情绪效果的豁免检定上承受–1减值。你在对类人生物的攻击检定上获得+1加值。
-|source_name=反派法典
+|source=VC
+|source_name=恶棍志
 |source_url=https://pf1chm.pages.dev/topics/zhfa2a4585c1.htm
 }}

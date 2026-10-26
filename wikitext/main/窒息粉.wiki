@@ -1,3 +1,4 @@
+{{PFS特殊|1=本物品的神话部分不可用于PFS游戏。|ai=1}}
 {{装备
 |name=窒息粉
 |english_name=Suffocating powder

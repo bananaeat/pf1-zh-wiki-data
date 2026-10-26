@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=恐惧之触|en=Fearful Touch|type=Su|domain=狂乱领域|sub=梦魇子域 (Nightmare)|sub_name=梦魇子域|source=进阶玩家指南|text=你以标准动作近战接触敌对生物，令其经历1轮可怕幻觉。期间生物失去任何对恐惧效果的免疫，且对你进行攻击时命中受到-2减值。此外生物对恐惧效果的意志豁免受到等于你牧师等级一半的惩罚（最少-1）。此能力为心智效果，每天“3+[[感知]]调整值”次。此能力替换[[狂乱领域#狂乱感知 (Vision of Madness, Sp)|狂乱感知]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

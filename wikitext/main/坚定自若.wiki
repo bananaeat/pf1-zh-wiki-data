@@ -1,3 +1,4 @@
+{{PFS特殊|1=仅当你的角色所属族群与该特性所在章节的族群相同时才可用。|ai=1}}
 {{Trait
 |name=坚定自若
 |english_name=Stoic Dignity

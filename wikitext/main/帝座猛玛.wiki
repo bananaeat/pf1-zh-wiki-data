@@ -1,8 +1,10 @@
+{{PFS不可用}}
 {{魔法物品
 |name=帝座猛玛
 |english_name=Emperor's Mammoth
 |aon=MagicArtifactsDisplay.aspx?ItemName=Emperor's Mammoth
 |cat=神器
+|mythic=是
 |tier=高等神器
 |aura=强烈变化系
 |cl=20

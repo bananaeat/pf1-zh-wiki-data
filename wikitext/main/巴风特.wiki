@@ -1,4 +1,5 @@
 {{速查导航|here=神祇}}
+<noinclude>{{消歧义|恶魔领主，巴风特}}</noinclude>
 {{神祇
 |name=巴风特
 |english_name=Baphomet

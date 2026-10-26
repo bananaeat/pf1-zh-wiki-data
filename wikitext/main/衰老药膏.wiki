@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=衰老药膏
 |english_name=Unguent of Aging

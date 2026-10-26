@@ -20,7 +20,7 @@
 |speed=35尺
 |melee=匕首+1（1d4-1/19-20）
 |ranged=匕首+3（1d4-1/19-20）
-|tactics=<div class="ml wide"><span class="k">战斗中</span>这个平民会尽力用对话避免争斗，如果这失败了，她只能掏出她的匕首。</div>
+|tactics=<div class="ml wide"><span class="k">战斗中</span>平民会设法用言语化解冲突，说不通才动用匕首。</div>
 |str=8
 |dex=13
 |con=11
@@ -38,7 +38,7 @@
 |family=NPC职业（NPC志）
 |npc=1
 |lore=
-如果价格合适，一个女招侍并不会拒绝帮忙通风报信，或者把一剂安眠药加到饮料中。
+只要价钱合适，酒馆女侍并不介意替人传递消息，甚至往饮料里偷偷下一剂安眠毒药。
 }}
 
-本页译自《[[NPC志]]》的怪物图鉴 CHM。
+本页译自《[[NPC志]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=62502.msg581243#msg581243 【NPCC】NPC职业：平民（Commoner）]，原译者：狗熊有敌；沉沦校对润饰）。

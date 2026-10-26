@@ -14,29 +14,35 @@
 
 == 基础操控（Basic Manipulation） ==
 
+植木操念使获得[[基础植木念力]]。<!--AI补译-->
+
 == 简易念袭（Simple Blast） ==
 
-植木操念使获得木袭（wood blast）作为[[简易念袭]]。她可以将下表中所有列出的注能添加到木袭以及和其相关的[[复合念袭]]中。
+植木操念使可选择木袭（wood blast）或曦破（positive blast）作为[[简易念袭]]，大多数植木操念使从木袭开始，并可以将[[死地]]、[[纠缠注能]]、[[贯通]]和[[推行注能]]用于木袭及其[[复合念袭]]。<!--AI补译-->
 
 == 护身（Defense） ==
 
+植木操念使的护身原力是[[木身]]。<!--AI补译-->
+
 == 原力（Wild Talents） ==
 
-1级——基础植木念力（Basic Phytokinesis），kinetic coverOA, pushing infusionOA, *,[[扎根]]（[[Root]]s）
+1级——[[基础植木念力]]（Basic Phytokinesis）、[[念力掩体]]（Kinetic Cover）、[[推行注能]]*（Pushing Infusion）、[[扎根(原力)|扎根]]（Roots）、[[草木医者]]（Wood Healer）、[[木行术]]（Woodland Step）
 
-2级——entangling infusionOA, *,仁慈之叶（Merciful Foliage）， woodland step
+2级——[[纠缠注能]]*（Entangling Infusion）、[[仁慈之叶]]（Merciful Foliage）
 
-3级——brachiation, impaleOA, *,棘肤（Thorn Flesh），曲木 (Warp Wood)
+3级——[[摆荡]]（Brachiation）、[[狐火注能]]*（Foxfire Infusion）、[[贯通]]*（Impale）、[[棘肤]]（Thorn Flesh）、[[曲木]]（Warp Wood）
 
-4级——[[翡翠视域]]（Greensight），植物伪装（Plant Disguise），塑木者（Shape Wood），萃毒注能（Toxic Infusion）*
+4级——[[翡翠视域]]（Greensight）、[[治愈爆发]]（Healing Burst）、[[解毒草药]]（Herbal Antivenom）、[[植物伪装]]（Plant Disguise）、[[塑木者]]（Shape Wood）、[[萃毒注能]]*（Toxic Infusion）
 
-5级——植物傀儡（Plant Puppet），野性生长 (Wild Growth)，woodland step (greater);
+5级——[[植物傀儡]]（Plant Puppet）、[[孢子注能]]*（Spore Infusion）、[[野性生长]]（Wild Growth）、[[高等木行术]]（Woodland Step, Greater）
 
-6级——deadly earthOA, *,木语（Green Tongue）
+6级——[[死地]]*（Deadly Earth）、[[木语]]（Green Tongue）
 
-7级——高等萃毒注能（Toxic Infusion, Greater）*
+7级——[[高等木语]]（Green Tongue, Greater）、[[萃毒注能|高等萃毒注能]]*（Toxic Infusion, Greater）、[[穿林旅行]]（Tree Step）
 
-9级——战争之林（Forst Sigeg），竖木为兵(Wood Soldiers)
+8级——[[竖木为兵]]（Wood Soldiers）
+
+9级——[[战争之林]]（Forest Siege）
 
 * 星号为注能原力
 

@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=复仇之剑
 |english_name=Sword of Vengeance

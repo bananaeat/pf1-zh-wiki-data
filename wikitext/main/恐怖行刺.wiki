@@ -3,7 +3,8 @@
 |english_name=Terrifying Assassination
 |description=尽管没有[[刺客]]希望在暗杀中失败，你仍能找到方式来降低失败的严重性，于是你有机会通过持久战来杀死目标。你失败的暗杀尝试会令敌人心神不宁。
 |prerequisites=一击瞬杀(忍术)UC高等忍术，一击瞬杀ACG高等杀手天赋，或夺命攻击。
-|benefit=如果你尝试以夺命攻击，或以瞬狱杀/一击瞬杀（译注：这两个都是assassinate）[[高等忍术]]或高等天赋即刻杀死一名敌人，而该目标未死去，目标会[[战栗]]2d4轮。
-|source_name=反派法典
+|benefit=如果你尝试以夺命攻击，或以[[一击瞬杀(忍术)|一击瞬杀]][[高等忍术]]或高等天赋即刻杀死一名敌人，而该目标未死去，目标会[[战栗]]2d4轮。
+|source=VC
+|source_name=恶棍志
 |source_url=https://pf1chm.pages.dev/topics/zhfa2a4585c1.htm
 }}

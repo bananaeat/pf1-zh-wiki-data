@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=信仰灯塔
 |english_name=Beacon of True Faith

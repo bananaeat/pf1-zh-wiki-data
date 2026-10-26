@@ -3,7 +3,7 @@
 |english_name=Tyrant Totem, Greater
 |type=Su
 |categories=图腾
-|prerequisites=[[野蛮人]]12级，[[暴君图腾]]
+|prerequisites=[[野蛮人]]12级
 |benefit=狂暴时，野蛮人获得‘活吞’怪物能力。
 |source_name=极限荒野
 }}

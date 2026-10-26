@@ -1,5 +1,6 @@
 {{速查导航|here=神祇}}
 {{消歧义|旧日支配者，波库鲁格}}
+{{PFS不可用}}
 {{神祇
 |name=伯克鲁格
 |english_name=Bokrug

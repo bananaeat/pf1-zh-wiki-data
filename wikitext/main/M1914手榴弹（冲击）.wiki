@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=M1914手榴弹（冲击）
 |english_name=M1914 grenade (concussion)

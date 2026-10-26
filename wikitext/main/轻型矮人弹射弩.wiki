@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=轻型矮人弹射弩
 |english_name=Pelletbow, dwarven light

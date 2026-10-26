@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=控制虫类
 |english_name=Control Vermin

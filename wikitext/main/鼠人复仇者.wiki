@@ -1,6 +1,7 @@
 {{Trait
 |name=鼠人复仇者
 |english_name=Ratfolk Avenger
+|pfs=否
 |type=种族
 |prerequisites=[[鼠族]]
 |description=你守护自己人。你对你曾经目睹对你的其中一个盟友造成伤害的对手的武器伤害骰+1背景加值。

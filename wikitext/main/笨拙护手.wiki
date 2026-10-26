@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=笨拙护手
 |english_name=Gauntlets of Fumbling

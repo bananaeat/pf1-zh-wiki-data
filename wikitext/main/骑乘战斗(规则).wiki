@@ -1,0 +1,275 @@
+{{消歧义|骑乘战斗}}
+{{#addbodyclass:pf-rules}}{{速查导航|here=规则}}
+<div class="wm-src"><b>出处</b><span>[[特殊攻击#骑乘战斗|核心规则书·骑乘战斗]]</span><span>[[特殊攻击#冲锋|冲锋]]</span><span>[[战斗中的动作#上/下坐骑|上/下坐骑]]</span><span>[[骑术]]</span><span>[[驯养动物]]</span><span>[[鞍座]]</span><span>[[坐骑护甲]]</span><span>[[长枪]]</span></div>
+以下的骑乘战斗规则假定你是骑在马上战斗，不过也同样可以应用在更为特殊的坐骑，比如狮鹫和龙上。
+
+== 坐骑与骑手 ==
+<div class="rule-def"><div class="rd-t">战斗中的坐骑<small>核心规则书</small></div><div class="rd-b">[[马]]、矮种马和[[骑乘用犬]]可以在战斗中骑乘。不过，如果它们没有接受过适当的作战训练（见[[驯养动物]]技能），坐骑会在战斗中受惊失控。如果你保持在坐骑上，那么你每轮需要花费一个移动动作通过DC 20的[[骑术]]检定来控制坐骑。如果你成功控制了坐骑，那么你可以在此动作后再进行一个标准动作。如果你失败，那么这个移动动作会延长为一个整轮动作，你在下一轮开始前将不能进行任何动作。<p>你的坐骑在你的[[先攻]]位上行动，你可以使用坐骑的速度来移动，但只需要坐骑使用它自己的移动动作。</p><p>马（矮种马除外）是大体型生物，占据10尺（2格）见方。方便计算起见，在战斗中你和你的坐骑视为占据相同的空间。</p></div></div>
+<div class="rule-def"><div class="rd-t">适合的坐骑</div><div class="rd-b">坐骑通常情况下坐骑是马，但也有可能是一些更加少见的动物，比如狮鹫或飞马。如果你试图骑乘一只并不适合你的坐骑，你的骑术检定-5。<p>适合你的坐骑通常至少比你大一个体型类别。（[[小型坐骑]]）</p></div></div>
+
+== 骑术检定 ==
+<div class="wm-ladder">
+<div class="wl-c wl-1"><div class="wl-h">5</div><span class="wl-i" style="--tc:#6b6b6b">脱手御马<small>不需要动作</small></span><span class="wl-i" style="--tc:#6b6b6b">鞍上稳身<small>不需要动作</small></span></div>
+<div class="wl-c wl-2"><div class="wl-h">10</div><span class="wl-i" style="--tc:#6b7c4a">人马共斗<small>自由动作</small></span></div>
+<div class="wl-c wl-3"><div class="wl-h">15</div><span class="wl-i" style="--tc:#56607c">镫里藏身<small>直觉动作</small></span><span class="wl-i" style="--tc:#6b6b6b">轻身落马<small>不需要动作</small></span><span class="wl-i" style="--tc:#6b6b6b">纵马跳跃<small>坐骑移动的一部分</small></span><span class="wl-i" style="--tc:#4a7c6b">加速冲刺<small>移动动作</small></span></div>
+<div class="wl-c wl-4"><div class="wl-h">20</div><span class="wl-i" style="--tc:#4a7c6b">战阵制马<small>移动动作</small></span><span class="wl-i" style="--tc:#6b7c4a">快速上下<small>自由动作</small></span></div>
+</div>
+<div class="rule-def gloss"><div class="rd-t">脱手御马</div><div class="rd-b">你可以用双膝和腿控制坐骑的方向，这样你就可以空出手来战斗。在你的回合开始时做一次骑术检定，如果失败，你就必须用一只手御马而只能用一只手攻击。这个检定不需要动作。</div></div>
+<div class="rule-def gloss"><div class="rd-t">鞍上稳身</div><div class="rd-b">你可以在坐骑受惊慌乱、或者是受到伤害时稳住身体而不至于落马，这个检定不需要动作。</div></div>
+<div class="rule-def gloss"><div class="rd-t">人马共斗</div><div class="rd-b">你可以指挥接受过战斗训练的坐骑投入战斗、同时自己独立进行攻击，这个检定是一个自由动作。</div></div>
+<div class="rule-def gloss"><div class="rd-t">镫里藏身</div><div class="rd-b">你可以迅速滚落坐骑并以它作为掩蔽。在以坐骑作为掩蔽时你无法攻击或施法，而如果你骑术检定失败，你也将失去掩蔽的好处。进行这个检定是一个直觉动作，但回身上鞍则需要一个移动动作 (不需要检定)。</div></div>
+<div class="rule-def gloss"><div class="rd-t">轻身落马</div><div class="rd-b">你可以忽略在落马时所受到的伤害。如果检定失败，你会受到1d6点伤害并被俯卧。这个检定不需要动作。</div></div>
+<div class="rule-def gloss"><div class="rd-t">纵马跳跃</div><div class="rd-b">作为移动的一部分，你可以让坐骑跳跃一段距离。你可以使用你的骑术技能加值或是坐骑本身的跳跃技能加值，取其低者来决定坐骑跳跃的距离。如果骑术检定失败，你将从坐骑上坠落并受到等量的坠落伤害 (至少1d6点)。这个检定不需要你进行动作，但是它是你坐骑移动的一部分。</div></div>
+<div class="rule-def gloss"><div class="rd-t">加速冲刺</div><div class="rd-b">你可以通过一个移动动作刺激你的坐骑以大幅度加速移动。如果骑术检定成功，坐骑的速度会在一轮内增加10尺，但同时受到1d3点伤害。你每轮都可以刺激坐骑加速，但在连续加速等同于其体质值的轮数后，坐骑会陷入疲乏。一只已经疲乏的坐骑无法发动加速。</div></div>
+<div class="rule-def gloss"><div class="rd-t">战阵制马</div><div class="rd-b">以一个移动动作，你可以控制一匹未受过战斗训练的轻/重型战马、矮种马或其他坐骑加入战斗。如果骑术检定失败，那么你将在本轮内什么都做不了。如果你骑乘的马或矮种马已经接受过战斗训练，则无需为此任务检定。</div></div>
+<div class="rule-def gloss"><div class="rd-t">快速上下</div><div class="rd-b">你能以一个自由动作，快速从一只比你的体型大1级以内的坐骑上鞍或者下鞍。如果骑术检定失败，那么你需要一个移动动作来上下鞍。你无法以此方式快速上下比你的体型大一级以上的坐骑。</div></div>
+
+{| class="wikitable"
+! 骑术检定 !! 调整
+|-
+| 骑乘没有鞍具的坐骑 || -5
+|-
+| 骑乘一只并不适合你的坐骑 || -5
+|-
+| [[鞍座|军用鞍具]]：所有与稳定在马鞍上相关的骑术检定 || +2环境加值
+|-
+| [[动物亲和]] || +2奖励；受训等级10以上 +4
+|}
+
+== 骑乘时攻击 ==
+<div class="rule-def"><div class="rd-t">在骑乘时战斗<small>核心规则书</small></div><div class="rd-b">你可以通过DC 5的骑术检定用双膝控制自己的坐骑，同时空出两只手来进行攻击和防御。这是一个[[自由动作]]。如果攻击体型小于你的坐骑且步行的生物，你会因视为处于居高临下而使近战攻击+1。如果你的坐骑移动了超过5尺，那么在此之后你只能进行一次近战攻击——因为你需要等待自己的坐骑接近对手，所以不可能获得足够的时间来发动全力攻击。即使你的坐骑以全速移动，你也不会在骑乘时的近战攻击上承受任何减值。</div></div>
+
+=== 冲锋 ===
+<div class="rule-formulas">
+<div class="rule-formula" style="--tc:#3f6b4a"><div class="rf-t">冲锋攻击</div><div class="rf-e">攻击检定 <b>+2</b></div></div>
+<div class="rule-formula" style="--tc:#a4553f"><div class="rf-t">在你的下一轮开始前</div><div class="rf-e">AC <b>-2</b></div></div>
+<div class="rule-formula" style="--tc:#8c5a4a"><div class="rf-t">你用[[长枪]]、或在拥有[[奋力冲锋]]专长时用任何武器发动的第一次近战攻击</div><div class="rf-e"><b>双倍伤害</b></div></div>
+<div class="rule-formula" style="--tc:#5a2a20"><div class="rf-t">若使用长枪并拥有奋力冲锋</div><div class="rf-e"><b>三倍伤害</b></div></div>
+</div>
+{{FAQ|v5748eaic9ru6}}
+<div class="rule-def"><div class="rd-t">冲锋移动<small>核心规则书</small></div><div class="rd-b">在冲锋时，你必须在你的攻击之前进行移动，之后则不可。你需要在冲锋时至少移动10尺（2格），并可以向你的目标直线移动相当于最多两倍于你速度的距离。你必须在一条无障碍的路线上冲锋目标，且在这条路线上你的速度不能受到限制（如[[困难地形]]）。你必须移动到你能够攻击到目标的最近位置才能停下，如果这些空间被占据或阻挡，那么你无法完成冲锋。见[[特殊攻击#冲锋|冲锋]]。</div></div>
+<div class="rule-def"><div class="rd-t">[[长枪]]<small>核心规则书</small></div><div class="rd-b">在冲锋的坐骑背上使用长枪将造成双倍伤害。你能在骑乘中以单手持用长枪。</div></div>
+<div class="rule-def"><div class="rd-t">迎击武器<small>核心规则书</small></div><div class="rd-b">矛、[[三叉戟]]和其他拥有迎击特性的武器，可以在通过[[准备动作]]攻击一个冲锋角色时造成双倍伤害。</div></div>
+{{FAQ|v5748eaic9p1k|v5748eaic9qno}}
+
+=== 远程攻击 ===
+<div class="rule-formulas">
+<div class="rule-formula" style="--tc:#9a7a2e"><div class="rf-t">坐骑双倍速度移动</div><div class="rf-e">远程攻击检定 <b>-4</b></div></div>
+<div class="rule-formula" style="--tc:#a4553f"><div class="rf-t">坐骑奔跑（4倍速度移动）</div><div class="rf-e">远程攻击检定 <b>-8</b></div></div>
+<div class="rule-formula" style="--tc:#3f6b4a"><div class="rf-t">[[骑乘射击]]：减值减为一半</div><div class="rf-e">倍速 <b>-2</b>　奔跑 <b>-4</b></div></div>
+<div class="rule-formula" style="--tc:#4a6b7c"><div class="rf-t">在这两种情况下</div><div class="rf-e">视为在坐骑<b>移动到一半的位置</b>进行攻击检定</div></div>
+</div>
+<div class="rule-def"><div class="rd-t">远程武器<small>核心规则书</small></div><div class="rd-b">你可以在坐骑双倍速度移动时使用远程武器攻击，不过攻击检定承受-4减值；若坐骑[[奔跑]]（4倍速度移动）则你的远程武器攻击承受-8减值。在这两种情况下，你都视为在坐骑移动到一半的位置进行攻击检定。你可以在骑乘时使用远程武器进行全力攻击。和正常情况一样，你可以如常进行移动动作。</div></div>
+<div class="wm-chips"><span class="wc-k">减值减半</span><span>[[骑乘射击]]</span><span>[[精通骑乘射击]]</span><span>[[稳健奔驰]]</span></div>
+
+== 骑乘时施法 ==
+<div class="rule-formulas">
+<div class="rule-formula" style="--tc:#3f6b4a"><div class="rf-t">在施法之前或施法之后</div><div class="rf-e">不干扰你的施法</div></div>
+<div class="rule-formula" style="--tc:#9a7a2e"><div class="rf-t">坐骑移动的颠簸</div><div class="rf-e">专注检定 DC <b>10+法术环位</b></div></div>
+<div class="rule-formula" style="--tc:#a4553f"><div class="rf-t">坐骑正在奔跑（4倍速度移动）</div><div class="rf-e">专注检定 DC <b>15+法术环位</b></div></div>
+</div>
+<div class="rule-def"><div class="rd-t">在骑乘时施法<small>核心规则书</small></div><div class="rd-b">你可以在施法之前或施法之后，让你的坐骑以它的正常速度进行移动且不干扰你的施法。如果你选择让你的坐骑在施法之前和之后都分别进行移动，那么就视你为在坐骑移动期间施放法术。坐骑移动的颠簸会要求你在施法时进行DC为'''“10+法术环位”'''的专注检定，检定失败则将失去该法术。如果你的坐骑正在奔跑（4倍速度移动），那么你可以在坐骑移动到一半的位置进行施法。不过因为奔跑时更为糟糕的施法环境，你的专注检定DC也会随之上升到'''“15+法术环位”'''。</div></div>
+
+== 落马 ==
+<div class="wm-figs"><div class="wm-fig" style="flex:1">
+<div class="fig-t" style="max-width:none;margin:0 0 .4em">如果你在坐骑上失去意识，你有<b>50%</b>的机率会继续留在鞍上（如果你使用军用鞍座，那么机率上升到<b>75%</b>），否则你将坠马并受到1d6点伤害。在失去骑手的引导以后，你的坐骑会立刻脱离战斗。</div>
+<div class="wm-pct">
+<div class="wp-r"><span>[[鞍座|骑乘鞍座]]</span><span class="wp-t"><i style="width:50%"></i></span><b>50%</b></div>
+<div class="wp-r"><span>[[鞍座|军用鞍座]]</span><span class="wp-t"><i style="width:75%"></i></span><b>75%</b></div>
+</div>
+</div></div>
+<div class="rule-def"><div class="rd-t">坐骑倒下<small>核心规则书</small></div><div class="rd-b">如果你的坐骑倒下，那么你可以通过DC 15的[[骑术]]检定来软着陆且不受任何伤害。如果检定失败，你将承受1d6点伤害。</div></div>
+
+== 上下坐骑 ==
+<div class="rule-def"><div class="rd-t">上/下坐骑<small>核心规则书</small></div><div class="rd-b">上/下一匹坐骑通常是一个移动动作。</div></div>
+<div class="rule-def"><div class="rd-t">快速上/下坐骑<small>核心规则书</small></div><div class="rd-b">你可以通过DC 20的骑术检定尝试快速上/下一匹坐骑。如果你的检定失败，那么你必须通过一个移动动作上/下坐骑。如果你在本轮内已经没有移动动作用来上/下坐骑，那么你也不能尝试快速如此施为。快速上/下坐骑是一个自由动作。</div></div>
+
+== 训练坐骑 ==
+{| class="wikitable"
+! 任务 !! [[驯养动物]]DC !! 时间 !! 技巧
+|-
+| 骑乘训练 || 15 || 3周 || 过来、跟随、停留
+|-
+| 作战训练 || 20 || 6周 || 攻击、过来、护卫、退下、看守、跟随
+|}
+<div class="rule-def"><div class="rd-t">作战训练<small>核心规则书</small></div><div class="rd-b">进行过作战训练的动物可以搭载它的骑手进入战斗。你也可以花费3周时间和DC 20的驯养动物检定，将已经进行过骑乘训练的动物“升级”到作战训练的程度，不过新的任务类型会取代原有的骑乘类型。战马和骑乘用犬可以接受此种训练。</div></div>
+<div class="rule-def"><div class="rd-t">甩下 (DC 15)<small>技巧</small></div><div class="rd-b">动物能尝试将骑乘在自己身上的生物甩到地面。该行动如同对任何骑乘在动物身上的生物使用摔绊战技，而且动物不会因此引起借机攻击。而同时学会了把持以及甩下技巧的动物能通过事先下达的指令自动将任何不是驯导员却尝试去骑乘它的家伙给甩下来。</div></div>
+{{FAQ|v5748eaic9ne7|v5748eaic9vhd}}
+
+== 坐骑装备 ==
+{| class="wikitable"
+! 鞍座 !! 价格 !! 重量 !! 说明
+|-
+| 军用鞍座 || 20 gp || 30磅 || 这种鞍座可以支撑骑手，所有与维持在鞍座上相关的骑术检定都会获得+2环境加值。若骑手在使用军用鞍座时陷入昏迷，那么他有75%的概率不会从鞍座上跌落下来。
+|-
+| 骑乘鞍座 || 10 gp || 25磅 || 这种鞍座是骑行装备中最为标准的类型。若骑手在使用骑乘鞍座时陷入昏迷，那么他有50%的概率不会从鞍座上跌落下来。
+|-
+| 载货鞍座 || 5 gp || 15磅 || 载货鞍座用于运送装备和货物，而非支撑骑手。它能够负载的货物与坐骑能够负载的数量相同。
+|-
+| 异种鞍座 || 军用 60 gp；载货 15 gp；骑乘 30 gp || 军用 40磅；载货 20磅；骑乘 30磅 || 这些鞍座是专为各种非常规坐骑而设计的，每个鞍座都为某种特定类型的野兽量身定制。
+|-
+| [[嚼子和缰绳]] || 2 gp || 1磅 || 骑手控制坐骑时要使用这样的挽具。
+|-
+| [[鞍囊]] || 4 gp || 8磅 || 鞍囊的每一边通常能够携带20磅重的物体。鞍囊并不会增加坐骑所能够负载的重量上限
+|}
+{{FAQ|v5748eaic9whf}}
+
+=== 坐骑护甲 ===
+<div class="rule-side">
+{| class="wikitable"
+! 坐骑护甲类型 !! 基本速度 40尺 !! 基本速度 50尺 !! 基本速度 60尺
+|-
+| 中型坐骑护甲 || 30尺 || 35尺 || 40尺
+|-
+| 重型坐骑护甲 || 30尺* || 35尺* || 40尺*
+|}
+<small>*：穿戴重型坐骑护甲的坐骑只能以正常速度的三倍奔跑，而不是原本的四倍。</small>
+</div>
+马用护甲（大型非类人生物）的价格是人类（中型类人生物）的四倍，而重量是同类护甲的两倍。如果是给矮种马或其他中型坐骑准备的坐骑护甲，那么仅需要支付双倍的价格，护甲重量与中型类人生物的护甲重量相同。中型或重型坐骑护甲会降低佩戴护甲的坐骑速度。
+
+飞行坐骑若穿戴中型或重型坐骑护甲便无法飞行。
+
+脱下或穿戴上坐骑护甲所需要的时间是穿戴护甲表格中给出时间的五倍。穿戴护甲的动物无法被用于携带骑手和普通鞍囊之外的负重。
+<div class="wm-chips"><span class="wc-k">其他装备</span><span>[[卡蒂亚鞍座]]</span><span>[[戈斯兽坐鞍]]</span><span>[[飞行坐骑束具]]</span><span>[[兽角束具]]</span><span>[[象轿]]</span><span>[[马衣]]</span><span>[[秘银蹄铁]]</span><span>[[坐骑护甲缝线]]</span><span>[[地狱骑士骑甲]]</span></div>
+<div class="wm-chips"><span class="wc-k">魔法物品</span><span>[[坐骑主马鞍]]</span><span>[[英雄鞍座]]</span><span>[[紫貂精英鞍座]]</span><span>[[马语者马鞍]]</span><span>[[天河马鞍]]</span><span>[[训练坐骑护甲]]</span><span>[[坐骑召唤护符]]</span><span>[[骑兵弓]]</span></div>
+
+== 坐骑 ==
+{| class="wikitable"
+! 坐骑 !! 普通 !! 战斗训练
+|-
+| [[马|重型马]] || 200 gp || 300 gp
+|-
+| [[马|轻型马]] || 75 gp || 110 gp
+|-
+| [[马|矮种马]] || 30 gp || 45 gp
+|-
+| [[骑乘用犬]] || — || 150 gp
+|}
+<div class="rule-def"><div class="rd-t">[[骑乘用犬]]</div><div class="rd-b">这种中型犬是专为背负小型骑手而培育的，并且经受过战斗训练。</div></div>
+{| class="wikitable sortable"
+! 坐骑 !! 普通 !! 战斗训练 !! 出处
+|-
+| [[公羊(物品)|公羊]] || 25 gp || 50 gp || 动物档案
+|-
+| [[地精犬(物品)|地精犬]] || 35 gp || 50 gp || 动物档案
+|-
+| [[野牛(物品)|野牛]] || 50 gp || 75 gp || 动物档案
+|-
+| [[骑乘用巨鼠]] || 50 gp || 75 gp || 怪物志
+|-
+| [[巨壁虎(物品)|巨壁虎]] || 100 gp || 150 gp || 动物档案
+|-
+| [[野猪(物品)|野猪]] || 100 gp || 150 gp || 动物档案
+|-
+| [[麋鹿(物品)|麋鹿]] || 100 gp || 150 gp || 动物档案
+|-
+| [[狮子(物品)|狮子]] || 200 gp || 300 gp || 动物档案
+|-
+| [[巨变色龙(物品)|巨变色龙]] || 225 gp || 350 gp || 动物档案
+|-
+| [[骑乘用壁虎]] || 300 gp || 400 gp || 进阶种族手册、极限宝具
+|-
+| [[原牛(物品)|原牛]] || 300 gp || 450 gp || 动物档案
+|-
+| [[骑乘用凶暴蝙蝠]] || 300 gp || 450 gp || 进阶种族手册、极限宝具
+|-
+| [[骑乘用蜂]]（工蜂） || 300 gp || 450 gp || 极限荒野
+|-
+| [[巨海马(物品)|巨海马]] || 350 gp || 500 gp || 海洋血脉
+|-
+| [[虎(物品)|虎]] || 325 gp || 500 gp || 动物档案
+|-
+| [[巨伞蜥(物品)|巨伞蜥]] || 375 gp || 550 gp || 动物档案
+|-
+| [[水马]] || 500 gp || 750 gp || 水下冒险
+|-
+| [[巨秃鹫(物品)|巨秃鹫]] || 750 gp || 1,125 gp || 动物档案
+|-
+| [[犀牛(物品)|犀牛]] || 1,000 gp || 1,500 gp || 动物档案
+|-
+| [[斧嘴鸟，战斗训练|斧嘴鸟]] || — || 1,500 gp || 极限宝具
+|-
+| [[猛犸象]] || 2,000 gp || 2,250 gp || 北地居民
+|-
+| [[披毛犀(物品)|披毛犀]] || 2,000 gp || 3,000 gp || 动物档案、贝尔克泽恩，兽人部落之地
+|-
+| [[长毛猛犸象]] || 3,000 gp || 4,500 gp || 贝尔克泽恩，兽人部落之地
+|-
+| [[鹫马，战斗训练|鹫马]] || — || 5,000 gp || 极限宝具
+|-
+| [[狮鹫，战斗训练|狮鹫]] || — || 8,000 gp || 极限宝具
+|-
+| [[巨枭(物品)|巨枭]] || 6,000 gp || 9,000 gp || 动物档案
+|-
+| [[大鹏(物品)|大鹏]] || 7,200 gp || 10,800 gp || 动物档案
+|-
+| [[骑乘用蜂]]（蜂后） || 8,000 gp || 12,000 gp || 极限荒野
+|}
+<div class="wm-chips"><span class="wc-k">职业特性</span><span>[[骑士#坐骑 (Mount, Ex)|骑士·坐骑]]</span><span>[[骑士#骑士冲锋 (Cavalier's Charge, Ex)|骑士冲锋]]</span><span>[[圣武士#神契 (Divine Bond, Sp)|圣武士·神契]]</span><span>[[武士#坐骑 (Mount, Ex)|武士·坐骑]]</span><span>[[动物伙伴]]</span><span>[[幻灵/骑乘|幻灵·骑乘]]</span><span>[[龙兽伙伴#骑乘|龙兽·骑乘]]</span></div>
+<div class="rule-def"><div class="rd-t">[[幻灵/骑乘|骑乘]]<small>幻灵进化</small></div><div class="rd-b">幻灵在经过恰当训练后，可被当作受过战斗训练的坐骑投入使用。幻灵的体型必须比骑乘者大至少一级。该进化仅适用于基本型态为水生型、四足型或蛇身型的幻灵。</div></div>
+<div class="rule-def"><div class="rd-t">[[龙兽伙伴#骑乘|骑乘]]<small>龙兽之力</small></div><div class="rd-b">龙兽允许它的监护人骑乘它，前提是监护人的体型至少比龙兽小一级。当背负骑手时，龙兽无法掘地，且会失去下列龙兽之力中最高级的一个（顺序从高到低）：高等飞行，进阶飞行，飞行，滑翔。</div></div>
+{{FAQ|v5748eaic9vh5|v5748eaic9qqn}}
+<div class="wm-chips"><span class="wc-k">法术</span><span>[[坐骑术]]</span><span>[[共用召唤坐骑]]</span><span>[[魅影驹]]</span><span>[[共用魅影驹]]</span><span>[[医疗坐骑]]</span><span>[[战斗坐骑]]</span><span>[[彪勇骑冲]]</span><span>[[平稳鞍座]]</span><span>[[海中坐骑]]</span><span>[[海中俊骑]]</span><span>[[空中坐骑]]</span><span>[[烈焰驹]]</span><span>[[召唤元素坐驾]]</span></div>
+
+== 骑乘专长 ==
+<div class="wm-tree">
+<div class="wt-n"><span class="wt-l root">[[骑术]]1级</span>
+<div class="wt-k">
+<div class="wt-n"><span class="wt-l">[[骑乘战斗]]</span>
+<div class="wt-k">
+<div class="wt-n"><span class="wt-l">[[骑乘掠击]]</span>
+<div class="wt-k">
+<div class="wt-n"><span class="wt-l">[[奋力冲锋]]</span></div>
+<div class="wt-n"><span class="wt-l">[[回转冲锋]]<small>骑术5级，终焉之墙亲和</small></span></div>
+<div class="wt-n"><span class="wt-l">[[骑乘砍杀]]<small>骑术3级</small></span></div>
+</div></div>
+<div class="wt-n"><span class="wt-l">[[践踏]]</span>
+<div class="wt-k">
+<div class="wt-n"><span class="wt-l">[[骑乘猛攻]]<small>骑术5级</small></span></div>
+</div></div>
+<div class="wt-n"><span class="wt-l">[[骑乘射击]]</span>
+<div class="wt-k">
+<div class="wt-n"><span class="wt-l">[[精通骑乘射击]]</span></div>
+</div></div>
+<div class="wt-n"><span class="wt-l">[[骑乘技巧]]<small>骑术9级</small></span>
+<div class="wt-k">
+<div class="wt-n"><span class="wt-l">[[骑乘散兵]]<small>骑术14级</small></span></div>
+</div></div>
+<div class="wt-n"><span class="wt-l">[[落马击]]<small>力量13，猛力攻击，精通冲撞，基本攻击加值+1</small></span></div>
+<div class="wt-n"><span class="wt-l">[[骑乘盾牌防御]]<small>盾牌专攻</small></span></div>
+<div class="wt-n"><span class="wt-l">[[着甲骑手]]<small>骑术3级</small></span></div>
+<div class="wt-n"><span class="wt-l">[[骑兵阵列]]<small>团队</small></span></div>
+<div class="wt-n"><span class="wt-l">[[集结冲锋]]<small>驯养动物4级，骑术9级，终焉之墙亲和</small></span></div>
+<div class="wt-n"><span class="wt-l">[[不屈坐骑]]<small>驯养动物5级，骑术5级，终焉之墙亲和</small></span></div>
+<div class="wt-n"><span class="wt-l">[[烧灼骑手]]<small>骑术6级，驯养动物6级</small></span></div>
+</div></div>
+<div class="wt-n"><span class="wt-l">[[小型坐骑]]</span>
+<div class="wt-k">
+<div class="wt-n"><span class="wt-l">[[狼骑兵]]</span></div>
+</div></div>
+<div class="wt-n"><span class="wt-l">[[怪物坐骑]]<small>驯养动物4级，骑术4级</small></span>
+<div class="wt-k">
+<div class="wt-n"><span class="wt-l">[[精熟怪物坐骑]]</span></div>
+</div></div>
+<div class="wt-n"><span class="wt-l">[[坐骑大师]]<small>【驯兽专家】职业特性，骑术6级</small></span></div>
+<div class="wt-n"><span class="wt-l">[[返身上马]]<small>【枪矛跃击】职业特性，特技5级，骑术11级</small></span></div>
+<div class="wt-n"><span class="wt-l">[[鞍上尖啸]]<small>地精</small></span></div>
+<div class="wt-n"><span class="wt-l">[[紫貂军团陆战兵]]<small>骑术6级，游侠等级4</small></span></div>
+</div></div>
+</div>
+<div class="wm-chips"><span class="wc-k">其他专长</span><span>[[动物亲和]]</span><span>[[马语者]] → [[进阶马语者]]</span><span>[[天生骑枪手]]</span><span>[[幻灵坐骑]]</span><span>[[兽骑兵]]</span><span>[[领猎人]]</span><span>[[驭角士]] → [[角骑冲锋]]</span><span>[[巨牙军骑]]</span><span>[[塔尔多随从]]</span><span>[[莽原牧者]]</span><span>[[马倌]]</span></div>
+<div class="wm-chips"><span class="wc-k">动物或魔法兽</span><span>[[稳健奔驰]]</span><span>[[勇猛坐骑]]</span><span>[[脚踏实地]]</span><span>[[扎布里蒂驯马]]</span></div>
+<div class="wm-chips"><span class="wc-k">神话专长</span><span>[[骑乘战斗 (神话)]]</span><span>[[骑乘掠击 (神话)]]</span><span>[[奋力冲锋 (神话)]]</span><span>[[践踏 (神话)]]</span><span>[[骑乘射击 (神话)]]</span><span>[[落马击 (神话)]]</span></div>
+
+== 技能解放 ==
+{{Source|掉链子|Pathfinder Unchained}}
+{{技能解放说明}}
+在骑术技能中投入足够的技能点，便可以获得后述能力。
+<div class="rule-def tight"><div class="rd-t">5点</div><div class="rd-b">你的坐骑在避免变得[[疲乏]]或[[力竭]]的强韧豁免或体质检定上获得+2加值。你在骑术上所投入的技能点每比5点高出5点，上述加值便会增加1点。</div></div>
+<div class="rule-def tight"><div class="rd-t">10点</div><div class="rd-b">当你驱使坐骑加速冲刺时，它的速度增加20尺，而且反射豁免获得+2加值，AC获得+2闪避加值。</div></div>
+<div class="rule-def tight"><div class="rd-t">15点</div><div class="rd-b">当你正处于骑乘时，若有敌人以你或你的坐骑为目标进行[[冲撞]]、[[拖拽]]、[[闯越]]、[[移位]]或[[摔绊]][[战技]]的话，你能够使用骑术检定的结果来取代你（或你的坐骑）的[[CMD]]。</div></div>
+<div class="rule-def tight"><div class="rd-t">20点</div><div class="rd-b">当你驱使坐骑加速冲刺时，它的速度增加30尺，而且反射豁免获得+4加值，AC获得+4闪避加值。</div></div>
+
+本页规则原文出自民间汉化 CHM 的[[核心规则书]]（[[特殊攻击]]、[[战斗中的动作]]、[[骑术]]、[[驯养动物]]）和各装备、专长条目页。{{AoN原文|196|Mounted Combat|142|Mount/Dismount a Steed}}
+
+[[分类:规则]]

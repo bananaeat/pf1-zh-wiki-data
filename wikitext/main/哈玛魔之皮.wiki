@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=哈玛魔之皮
 |english_name=Hamatula Hide

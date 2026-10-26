@@ -1,8 +1,10 @@
+{{PFS不可用}}
 {{魔法物品
 |name=冥河霜心
 |english_name=Frozen Heart of Cocytus
 |aon=MagicArtifactsDisplay.aspx?ItemName=Frozen Heart of Cocytus
 |cat=神器
+|mythic=是
 |tier=高等神器
 |aura=强烈预言系
 |cl=15

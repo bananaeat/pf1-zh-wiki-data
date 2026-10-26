@@ -1,3 +1,4 @@
+{{PFS特殊|1=唯一可用的瘟疫粉会造成腐热症（filth fever）。|ai=1}}
 {{装备
 |name=瘟疫粉
 |english_name=Plague powder

@@ -1,0 +1,4 @@
+<div class="class-nav book-nav"><span class="pill">'''[[海洋血脉]]'''</span><span class="pill">[[海洋血脉/导言|导言]]</span><span class="pill">[[海洋血脉/水栖精灵|水栖精灵]]</span><span class="pill">[[海洋血脉/赛卡利亚|赛卡利亚]]</span><span class="pill">[[海洋血脉/半鱼人|半鱼人]]</span><span class="pill">[[海洋血脉/洛卡鱼人|洛卡鱼人]]</span><span class="pill">[[海洋血脉/人鱼|人鱼]]</span><span class="pill">[[海洋血脉/梭螺鱼人|梭螺鱼人]]</span><span class="pill">[[海洋血脉/海洋之敌|海洋之敌]]</span><span class="pill">[[海洋血脉/海洋装备|海洋装备]]</span><span class="pill">[[海洋血脉/海洋奇观|海洋奇观]]</span><span class="pill">[[海洋血脉/变体职业与职业选项|变体职业与职业选项]]</span><span class="pill">[[海洋血脉/陆上冒险|陆上冒险]]</span><span class="pill">[[海洋血脉/水下冒险|水下冒险]]</span></div><noinclude>
+《[[海洋血脉]]》章页顶上的导航（当前章标实心）。由 <code>build/bb_push/push.py</code> 生成。
+[[分类:导航模板]]
+</noinclude>

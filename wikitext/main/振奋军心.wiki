@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=振奋军心
 |english_name=Bless army

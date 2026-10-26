@@ -1,0 +1,90 @@
+{{速查导航|here=规则}}
+{{AI翻译|本页的组织介绍、要人、结盟由 AI 照《冒险者指南》原书译出（民间汉化 CHM 没有），未经人工校对。}}
+== 概述 ==
+''刀剑交锋的大师''
+<div class="rule-def gloss"><div class="rd-t">活动范围</div><div class="rd-b">国家（布雷斡）</div></div>
+<div class="rule-def gloss"><div class="rd-t">组织阵营</div><div class="rd-b">绝对中立</div></div>
+<div class="rule-def gloss"><div class="rd-t">总部所在</div><div class="rd-b">瑞斯托夫（布雷斡）</div></div>
+<div class="rule-def gloss"><div class="rd-t">价值观</div><div class="rd-b">不断磨练武艺、捍卫剑豪传统、决斗与荣誉之战、保存奥多里剑豪的传统与秘密</div></div>
+<div class="rule-def gloss"><div class="rd-t">目标</div><div class="rd-b">确立奥多里决斗流在一切剑术中的至高地位、保持对布雷斡统治的独立、保护并捍卫瑞斯托夫及周边领地的利益</div></div>
+<div class="rule-def gloss"><div class="rd-t">盟友</div><div class="rd-b">布雷斡南部、河域诸国东北部的各个小国</div></div>
+<div class="rule-def gloss"><div class="rd-t">敌人</div><div class="rd-b">强盗与匪徒、布雷斡北部、不顾传统而不加选择地传播奥多里秘密的人</div></div>
+<div class="rule-def gloss"><div class="rd-t">宿敌</div><div class="rd-b">无</div></div>
+奥多里剑豪是一种延续了数百年的决斗传统的大师，这一传统围绕着一种异域刀剑展开。这种战斗风格诞生于布雷斡南部地区，自由城市瑞斯托夫是该组织的总部。对剑豪来说，维护荣誉与养活家人同样重要，而很少有人像该组织的创始人——西瑞安一世男爵——那样热切地践行这一信念。
+
+西瑞安男爵曾是布雷斡南部的统治者。艾巴萨罗姆历（AR）3035 年，他在与一名强盗头领的决斗中蒙羞落败，羞愧地逃离了自己的领地。艾巴萨罗姆历 3044 年，西瑞安结束了自我放逐归来，改名西瑞安·奥多里。他展现出令人惊叹的全新决斗与剑术本领，在复仇之战中以惊人的速度和轻松击败了那名强盗头领，由此夺回了自己领地的统治权。西瑞安发出公开挑战——若有人能在决斗中击败他，他将付给胜者 100,000 枚金币。数以千计的人应战，但西瑞安将他们全部击败，确立了自己作为内海地区最伟大的剑手之一的声誉。
+
+起初，西瑞安男爵拒绝传授他的技艺，但随着年岁渐长，他意识到把这身本领带进坟墓将是一种罪过。他开始教导他人，要求他们在立下「剑誓」时改姓奥多里，并发誓不向未入门者透露剑誓的任何内容。西瑞安·奥多里去世后，他的学生延续了他的传统，奥多里剑豪由此诞生。
+
+然而，几个世纪以来，成员们屈服于贿赂、威胁和种种诱惑，泄露了奥多里的秘密，如今剑豪的秘密已传遍内海地区。尽管如此，剑豪在布雷斡南部依然是一股强大的力量。他们在那里继续传授西瑞安·奥多里的技法，仍然要求求学者改姓奥多里，并发誓永不向外人泄露这一流派。剑豪们对从其他渠道习得这些技法的未宣誓决斗者不以为然，但他们真正的怒火是留给那些背弃誓言、把这些秘密传授给不配之人的人。真正的剑豪会尽可能在战斗中击败这类叛徒，以证明自己对正统奥多里传承的精通，同时给那些从非法渠道学艺的人一个悔过的机会：加入他们的组织，换取获准的训练。
+
+近年来，奥多里剑豪承受的压力已不止来自敌对的决斗者。为了维持他对布雷斡日益脆弱的统治，摄政王诺莱斯基·萨托瓦多次试图招揽剑豪为他效力，充当打手。到目前为止，他对剑豪一再的拒绝还算彬彬有礼地接受了，但奥多里招致龙鳞王座的怒火已是公开的秘密。传闻萨托瓦的秘密特工——所谓的「龙主秘卫」——会伪装成奥多里的求学者，使用偷学来的技法，这进一步加剧了双方的紧张关系。
+
+== 要人 ==
+<div class="lang-grid">
+<div class="lang"><div class="lang-h"><b>加仑·奥多里</b><i>Garen Aldori</i><span class="lang-w">守序中立 男性 老年人类 战士 5/奥多里剑豪 9</span></div><div class="lang-d">奥多里学院现任的剑术宗师，加仑·奥多里深知学院辉煌的传承。他力求确保每一位奥多里剑豪都真正配得上这个名号。加仑不断逼迫学生突破极限，他的标准高得出了名；“比加仑的夸奖还稀罕”是学院学生中的流行俗语。这位冷若冰霜的剑豪与蒂悠达拉的宿怨——加仑认为她玷污了这些光荣的传统——是酒馆里常谈的话题；许多人预期，当矛盾激化到临界点时，将有一场盛况空前的公开决斗。他的对手们越来越多地窃窃私语，说加仑害怕这样的冲突，因为他已经老了，多年来不曾公开决斗。</div></div>
+<div class="lang"><div class="lang-h"><b>西瑞安·奥多里</b><i>Sirian Aldori</i><span class="lang-w">守序中立 男性 人类 战士 7/决斗家 10（已故）</span></div><div class="lang-d">奥多里剑豪传统的传奇创始人，原名西瑞安一世男爵，是数百年前在罗斯特兰定居的塔尔多殖民者的领袖。在与一名强盗头领的决斗以屈辱收场后，男爵消失了多年。当他重新现身时，他不仅抛弃了原来的名字，还成了一位彻底不可战胜的剑术大师。时至今日，向他的追随者学艺的人仍须发誓永不向剑誓之外的人泄露秘密，并须改姓奥多里。尽管他已去世多个世纪，西瑞安·奥多里所确立的传统依旧延续并繁荣，今天他的剑术遗产在剑豪们身上继续传承。</div></div>
+<div class="lang"><div class="lang-h"><b>蒂悠达拉</b><i>Tieldlara</i><span class="lang-w">混乱中立 女性 精灵 吟游诗人 7/游荡剑客 5/奥多里剑豪 2</span></div><div class="lang-d">瑞斯托夫发展最快的决斗学校属于蒂悠达拉，她同时精通精灵的“宿敌流”与奥多里传统。这位脾气火爆的精灵游荡剑客主要向学生传授后者，并乐于让奥多里流派摆脱剑誓的限制。作为卡莉斯翠的狂热崇拜者，这位放荡不羁的精灵常常让学生们互相对抗，以此激励他们的学习。蒂悠达拉与加仑的宿怨是她最珍爱的项目；她以精灵特有的耐心煽动他的怒火，让对两人最终交锋的期待不断累积。加仑的敌人低声说他老得无法决斗，而蒂悠达拉的敌人则坚称她缺乏击败他所需的自律。</div></div>
+</div>
+
+== 进阶职业 ==
+<div class="lang-grid">
+<div class="lang"><div class="lang-h"><b>[[奥多里剑豪]]</b><i>Aldori Swordlord</i></div></div>
+</div>
+
+== 变体职业 ==
+<div class="lang-grid">
+<div class="lang"><div class="lang-h"><b>[[奥多里卫士]]</b><i>Aldori Defender</i><span class="lang-w">战士</span></div></div>
+<div class="lang"><div class="lang-h"><b>[[雷斯兰暴徒]]</b><i>Rostland Bravo</i><span class="lang-w">游荡剑客</span></div></div>
+</div>
+
+== 结盟 ==
+=== 与奥多里剑豪结盟 ===
+奥多里剑豪对他们的技法极为保密，要正当地学习他们的方法，就必须前往内海地区最东北端的自由城市瑞斯托夫。依照规矩，想要加入剑豪的角色必须改姓奥多里，并立下剑誓：永不向未立下剑誓的人传授奥多里剑豪的秘密。近年来，大量前成员把这些秘密传遍各地，这样的限制越来越被视为过时；然而，根基更深的剑豪仍会向那些以非传统方式习得其技艺的人发起挑战。一名不曾立下剑誓便学会这些秘密的角色，可能有朝一日被愤怒的剑豪找上门来！
+
+'''范例结盟遭遇：'''即便在那些已放宽限制、愿意把奥多里秘密传授给世界其他地方的人的前成员当中，要获得奥多里剑豪的结盟，也需要展示一定的决斗与剑术本领。想获得结盟，求学者必须赢得一场决斗，且只能使用一把剑作为唯一的武器。这场决斗不必分生死，对手也不必是奥多里剑豪，但必须有一位剑豪（或有能力传授奥多里技法的流亡者）见证该角色的胜利。你可以使用《[[极限战斗]]》第 3 章的决斗与演武战斗规则，来帮助判定成功的程度。
+
+== 新规则 ==
+=== 装备 ===
+奥多里剑豪视一件装备为凌驾于其他所有装备之上：传奇的奥多里决斗剑。
+<div class="lang-grid">
+<div class="lang"><div class="lang-h"><b>[[奥多里决斗剑]]</b><i>Aldori dueling sword</i></div></div>
+</div>
+
+=== 专长 ===
+奥多里剑术长久以来与荣誉和完美同义。下列有数个专长使用《[[极限战斗]]》中的决斗规则。
+<div class="lang-grid">
+<div class="lang"><div class="lang-h"><b>[[奥多里战斗技艺]]</b><i>Aldori Artistry</i><span class="lang-w">战斗</span></div></div>
+<div class="lang"><div class="lang-h"><b>[[奥多里剑斗学徒]]</b><i>Aldori Dueling Disciple</i><span class="lang-w">战斗</span></div></div>
+<div class="lang"><div class="lang-h"><b>[[奥多里决斗大师]]</b><i>Aldori Dueling Mastery</i><span class="lang-w">战斗</span></div></div>
+<div class="lang"><div class="lang-h"><b>[[奥多里决斗流]]</b><i>Aldori Style</i><span class="lang-w">战斗，流派</span></div></div>
+<div class="lang"><div class="lang-h"><b>[[奥多里神盾]]</b><i>Aldori Style Aegis</i><span class="lang-w">战斗，流派</span></div></div>
+<div class="lang"><div class="lang-h"><b>[[奥多里征服]]</b><i>Aldori Style Conquest</i><span class="lang-w">战斗，流派</span></div></div>
+<div class="lang"><div class="lang-h"><b>[[怒流剑式]]</b><i>Duelist of the Roaring Falls</i><span class="lang-w">战斗</span></div></div>
+<div class="lang"><div class="lang-h"><b>[[雾池剑式]]</b><i>Duelist of the Shrouded Lake</i><span class="lang-w">战斗</span></div></div>
+<div class="lang"><div class="lang-h"><b>[[落花流水剑]]</b><i>Falling Water Gambit</i><span class="lang-w">战斗</span></div></div>
+<div class="lang"><div class="lang-h"><b>[[加仑之戒]]</b><i>Garen's Discipline</i><span class="lang-w">战斗</span></div></div>
+<div class="lang"><div class="lang-h"><b>[[触力旁通]]</b><i>Redistributed Might</i><span class="lang-w">战斗</span></div></div>
+<div class="lang"><div class="lang-h"><b>[[西瑞安之证]]</b><i>Sirian's Masterstroke</i><span class="lang-w">战斗</span></div></div>
+</div>
+
+=== 魔法物品 ===
+奥多里剑豪经常使用下列魔法物品。
+<div class="lang-grid">
+<div class="lang"><div class="lang-h"><b>[[罗斯特兰刀锋]]</b><i>Rostland edge</i></div></div>
+<div class="lang"><div class="lang-h"><b>[[剑豪披风]]</b><i>Swordlord's cloak</i></div></div>
+</div>
+
+=== 法术 ===
+奥多里剑豪专注于决斗与剑术等武艺，但他们的许多成员或盟友是施法者。通过结合武艺与奥术知识，奥多里流派的爱好者设计出了少数强力法术，例如下列这些。
+<div class="lang-grid">
+<div class="lang"><div class="lang-h"><b>[[奥多里迅捷咒]]</b><i>Aldori alacrity</i></div></div>
+<div class="lang"><div class="lang-h"><b>[[技巧竞赛]]</b><i>Contest of skill</i></div></div>
+<div class="lang"><div class="lang-h"><b>[[代冯神奇格挡]]</b><i>Deivon's parry</i></div></div>
+<div class="lang"><div class="lang-h"><b>[[战术适应]]</b><i>Tactical adaptation</i></div></div>
+<div class="lang"><div class="lang-h"><b>[[蒂悠达拉的勾引]]</b><i>Tieldlara's feint</i></div></div>
+</div>
+
+本页译自《[[冒险者指南]]》第 18–27 页。全部组织见 [[组织]]。
+
+[[分类:组织]]

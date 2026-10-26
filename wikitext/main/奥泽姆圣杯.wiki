@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=奥泽姆圣杯
 |english_name=Chalice of Ozem

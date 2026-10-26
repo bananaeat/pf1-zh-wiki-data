@@ -1,4 +1,5 @@
 {{消歧义|乳齿象}}
+{{PFS不可用}}
 {{装备
 |name=乳齿象
 |english_name=Mastodon

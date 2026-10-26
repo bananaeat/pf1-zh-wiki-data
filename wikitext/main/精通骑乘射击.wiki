@@ -2,6 +2,7 @@
 |name=精通骑乘射击
 |english_name=Improved Mounted Archery
 |categories=战斗
+|description=你是在骑乘时发动远程攻击的行家。<!--AI补译-->
 |prerequisites=[[骑乘射击]]，[[骑乘战斗]]，[[骑术]]1级
 |benefit=你在骑乘时使用远程武器并以倍速移动时，你在远程攻击上不承受减值。当你坐骑奔跑时，减值减少至-2。
 |source_name=冒险者指南

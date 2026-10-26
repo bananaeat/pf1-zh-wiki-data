@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=寻天者的铁砧〔矮人〕
 |english_name=Anvil of the Skyseeker (Dwarf)

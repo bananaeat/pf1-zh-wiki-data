@@ -1,3 +1,4 @@
+{{PFS特殊|1=施放此法术的玩家必须提供被召唤生物所在资料来源的合法副本供GM审核，否则法术失败。|ai=1}}
 {{Spell
 |name=召唤控斥魔
 |english_name=Summon accuser

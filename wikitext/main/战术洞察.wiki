@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=战术洞察
 |english_name=Tactical insight

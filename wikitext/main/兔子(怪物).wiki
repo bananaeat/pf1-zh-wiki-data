@@ -1,0 +1,44 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{消歧义|兔子}}
+{{怪物
+|name=兔子
+|english_name=Rabbit
+|cr=1/6
+|xp=65
+|alignment=绝对中立
+|size=超小型
+|type=动物
+|init=+3
+|senses=昏暗视觉；察觉 +1
+|description=这只毛茸茸的小生物长着长耳朵和一双大得不成比例的脚。
+|ac=15，接触 15，措手不及 12（+3 敏捷，+2 体型）
+|hp=3（1d8–1）
+|fort=+1
+|ref=+5
+|will=+1
+|speed=50 尺
+|melee=啮咬 –2（1d3–4）
+|space=2–1/2 尺
+|reach=0 尺
+|str=3
+|dex=16
+|con=9
+|int=2
+|wis=12
+|cha=5
+|bab=+0
+|cmb=+1
+|cmd=7
+|feats=[[飞跑]]
+|skills=[[特技]] +0（跳跃时 +8）;[[隐匿]] +15
+|environment=温带平原
+|organization=单独，一对，或一群（3–16）
+|treasure=无
+|source=极限荒野、动物档案
+|lore=
+兔子是食草动物，长着短尾巴，用来察觉捕食者的长耳朵，以及强壮的后腿，受到威胁时能靠后腿迅速跳开逃命。
+
+一只普通的兔子体长 8 至 20 英寸，重 1 至 4 磅。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Rabbit|2=Rabbit}}

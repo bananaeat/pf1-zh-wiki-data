@@ -1,4 +1,5 @@
 {{消歧义|芭芭雅嘎的舞动小屋}}
+{{PFS不可用}}
 {{魔法物品
 |name=芭芭雅嘎的舞动小屋
 |english_name=Dancing Hut of Baba Yaga

@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{装备
 |name=尖刺爪套
 |english_name=Barbed troll claws

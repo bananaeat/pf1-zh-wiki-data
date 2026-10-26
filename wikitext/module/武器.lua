@@ -286,6 +286,38 @@ end
 -- （次级神器／高等神器，进同名分类）、destruction 毁灭方式；智能物品另有 intel（阵营、自我值、感官、属性、交流方式）。
 local MAGIC_CAT = { ['武器附魔'] = '魔法武器', ['特殊魔法武器'] = '魔法武器', ['防具附魔'] = '魔法防具',
                     ['特殊魔法护甲'] = '魔法防具', ['特殊魔法盾牌'] = '魔法防具' }
+-- 《极限宝具》随机魔法物品表的档位（模块:物品档位/数据，按页名；数据已按原书表序排好）：
+-- 「高级次等（腰带）」；多规格「+2：高级次等 · +4：次级中等（腰带）」，同档的规格并成「锚、扇、鸟：最次级次等」；
+-- 栏位不同就各自带上
+local function magic_tier(title)
+    if title.namespace ~= 0 then return '' end
+    local ok, data = pcall(mw.loadData, '模块:物品档位/数据')
+    local ents = ok and data[title.text]
+    if not ents then return '' end
+    local slots, n = {}, 0
+    for _, e in ipairs(ents) do
+        if not slots[e[3]] then slots[e[3]] = true; n = n + 1 end
+    end
+    local groups = {}
+    for _, e in ipairs(ents) do
+        local g = groups[#groups]
+        if g and g.tier == e[2] and g.slot == e[3] then
+            if e[1] ~= '' then g.vars[#g.vars + 1] = e[1] end
+        else
+            groups[#groups + 1] = { tier = e[2], slot = e[3], vars = (e[1] ~= '' and { e[1] } or {}) }
+        end
+    end
+    local parts = {}
+    for _, g in ipairs(groups) do
+        local s = (#g.vars > 0 and (table.concat(g.vars, '、') .. '：') or '') .. g.tier
+        if n > 1 then s = s .. '（' .. g.slot .. '）' end
+        parts[#parts + 1] = s
+    end
+    local txt = table.concat(parts, ' · ')
+    if n == 1 then txt = txt .. '（' .. ents[1][3] .. '）' end
+    return txt
+end
+
 function p.magic(frame)
     local a = frame:getParent().args
     local g = function(k) return trim(a[k]) end
@@ -330,6 +362,8 @@ function p.magic(frame)
     if g('destruction') ~= '' then out[#out + 1] = '<div class="item-block"><span class="k">毁灭方式</span>' .. g('destruction') .. '</div>' end
     if g('req') ~= '' then out[#out + 1] = '<div class="item-block"><span class="k">制造需求</span>' .. g('req') .. '</div>' end
     if g('cost') ~= '' then out[#out + 1] = '<div class="item-block"><span class="k">造价</span>' .. g('cost') .. '</div>' end
+    local tierline = magic_tier(title)
+    if tierline ~= '' then out[#out + 1] = '<div class="item-block"><span class="k">随机档位</span>' .. tierline .. '</div>' end
     if g('source') ~= '' then
         out[#out + 1] = '<div class="item-source"><span class="key">来源</span> <span class="value">' .. sources(g('source')) .. '</span></div>'
     end

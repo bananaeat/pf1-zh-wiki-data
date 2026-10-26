@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=炸裂弹
 |english_name=Bomb

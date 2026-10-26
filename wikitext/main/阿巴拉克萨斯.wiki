@@ -12,7 +12,7 @@
 |symbol_label=邪徽
 |animal=蛇
 |color=绿色，橙色
-|temples=图书馆，圣骨盒，地下墓穴
+|temples=图书馆，圣骨盒，地窖
 |worshipers=[[卓尔]]，[[术士]]，幽魂娜迦，寻求禁忌知识者
 |minions=六臂[[蛇魔]]，蛇，[[三身魔蛇]]
 |pantheon=恶魔领主

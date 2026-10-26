@@ -1,4 +1,5 @@
 {{速查导航|here=神祇}}
+<noinclude>{{消歧义|恶魔领主，德斯卡瑞}}</noinclude>
 {{神祇
 |name=德斯卡瑞
 |english_name=Deskari

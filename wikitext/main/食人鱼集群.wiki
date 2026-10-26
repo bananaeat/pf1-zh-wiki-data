@@ -1,0 +1,46 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=食人鱼集群
+|english_name=Fish, Piranha Swarm
+|cr=3
+|xp=800
+|alignment=绝对中立
+|size=超小型
+|type=动物
+|subtypes=水栖;集群
+|init=+7
+|senses=盲感 30 尺，敏锐嗅觉；察觉 +5
+|description=这群银鳞鱼疯狂地翻腾扑打，其中数十只飞速游动的鱼看上去焦躁不安、嗜血成性。
+|ac=15，接触 15，措手不及 12（+3 敏捷，+2 体型）
+|hp=26（4d8+8）
+|fort=+6
+|ref=+7
+|will=+2
+|defensive=集群特性
+|speed=游泳 30 尺
+|melee=集群（1d6 加上流血和扰乱心神）
+|space=10 尺
+|reach=0 尺
+|special_attacks=流血（1d6），扰乱心神（DC 14）
+|str=3
+|dex=16
+|con=15
+|int=1
+|wis=12
+|cha=2
+|bab=+3
+|cmb=—
+|cmd=—
+|feats=[[精通先攻]];[[技能专攻]]（隐匿）
+|skills=[[察觉]] +5;[[隐匿]] +18;[[游泳]] +9
+|environment=任意水域
+|organization=单独，鱼群（2–5 个集群），或大鱼群（6–10 个集群）
+|treasure=无
+|special_abilities={{怪物能力|敏锐嗅觉|Ex|食人鱼集群可以在水下 180 尺半径内凭气味察觉生物，并能在最远 1 英里的距离外探测到水中的血迹。}}
+|source=怪物图鉴6
+|lore=
+本怪物没有描述。
+}}
+
+本页译自《[[怪物图鉴6]]》的怪物图鉴 CHM。

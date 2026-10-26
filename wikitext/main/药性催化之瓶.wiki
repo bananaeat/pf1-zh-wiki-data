@@ -1,3 +1,4 @@
+{{PFS特殊|1=药性催化之瓶（Vial of Efficacious Medicine）的正确价格应为7,000 gp。}}
 {{魔法物品
 |name=药性催化之瓶
 |english_name=Vial of Efficacious Medicine

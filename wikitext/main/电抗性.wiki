@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=电抗性|en=Electricity Resistance|type=Ex|domain=气领域|source=核心规则书|text=在6级，你获得10点闪电抗力；12级20点；20级，你免疫闪电伤害。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

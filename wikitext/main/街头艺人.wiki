@@ -1,4 +1,3 @@
-<noinclude>{{消歧义|街头艺人(NPC)}}</noinclude>
 {{Source|进阶玩家指南|Advanced Player's Guide}}
 
 '''街头艺人'''（Street Performer）是[[吟游诗人]]的[[变体职业]]。

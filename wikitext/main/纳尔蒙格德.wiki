@@ -1,0 +1,46 @@
+{{速查导航|here=神祇}}
+{{AI翻译|本页由 AI 照《永罪之书》（Book of the Damned）英文原书译出（民间汉化 CHM 没有），未经人工校对。符号、圣兽、圣色三项据 AoN 译出。}}
+{{PFS不可用}}
+{{神祇
+|name=纳尔蒙格德
+|english_name=Nalmungder
+|title=楼梯下的等候者（He Who Waits Below the Stairs）
+|alignment=中立邪恶（NE）
+|weapon=[[镰刀]]
+|portfolio=地下室，壁橱，安全的错觉
+|domains=[[黑暗领域|黑暗]]，[[土领域|土]]，[[邪恶领域(领域)|邪恶]]，[[诡术领域|诡术]]
+|subdomains=[[土领域#窟子域 (Caves)|窟子域]]，[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[诡术领域#欺骗子域 (Deception)|欺骗子域]]，[[黑暗领域#失却子域 (Loss)|失却子域]]
+|symbol=通往黑暗的向下楼梯
+|symbol_label=邪徽
+|animal=蜘蛛
+|color=黑色，棕色
+|pantheon=邪魔先驱
+|source=内海诸神、永罪之书
+}}
+
+'''纳尔蒙格德'''（Nalmungder）是一位[[邪魔先驱]]。
+
+== 简介 ==
+
+楼梯下的等候者纳尔蒙格德居住在一处不见天光的领域中，这片领域蜿蜒于其他先驱的领地之下。他的形体是一团无定形的黑暗与利齿。
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+在地下室或地窖中冥想（最好是不属于你的）。你在完全黑暗中进行的所有豁免检定获得+4亵渎加值。
+
+=== 神恩 ===
+
+通过[[魔族仪典]]获得，均为每日各2次的类法术能力：
+
+{{神恩|n=1|name=|en=|type=Sp|text=每日2次，你可以施展[[黑暗术]]。}}
+
+{{神恩|n=2|name=|en=|type=Sp|text=每日2次，你可以施展[[酸池坑]]。}}
+
+{{神恩|n=3|name=|en=|type=Sp|text=每日2次，你可以施展[[恐惧症]]。}}
+
+<small>出自《[[永罪之书]]》第114页。</small>
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Nalmungder|2=Nalmungder}}
+[[分类:魔神]]

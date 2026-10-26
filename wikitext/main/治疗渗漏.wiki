@@ -1,3 +1,4 @@
+{{PFS特殊|1=仅限魔裔PC合法。|ai=1}}
 {{Spell
 |name=治疗渗漏
 |english_name=Healing leak

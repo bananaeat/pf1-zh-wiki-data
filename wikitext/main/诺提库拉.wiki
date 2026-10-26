@@ -1,4 +1,5 @@
 {{速查导航|here=神祇}}
+<noinclude>{{消歧义|恶魔领主，诺提库拉}}</noinclude>
 {{神祇
 |name=诺提库拉
 |english_name=Nocticula

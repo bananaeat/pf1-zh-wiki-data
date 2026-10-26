@@ -658,7 +658,7 @@
 }}
 {{动物伙伴卡片
 |name=始祖鸟
-|en=Archaeopyeryx
+|en=Archaeopteryx
 |ctype=动物
 |source=极限荒野
 |flavor=这只原始的有齿鸟类有着明亮的羽毛，但却相对的不是一个出色的飞行者。

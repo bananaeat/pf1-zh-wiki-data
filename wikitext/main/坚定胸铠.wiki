@@ -1,7 +1,9 @@
+{{PFS不可用}}
 {{魔法物品
 |name=坚定胸铠
 |english_name=Stalwart Breastplate
 |cat=特殊魔法护甲
+|mythic=是
 |base=[[胸甲]]
 |enh=+1 轻度护命
 |aura=强烈防护系

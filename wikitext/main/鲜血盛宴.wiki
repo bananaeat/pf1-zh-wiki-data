@@ -2,7 +2,7 @@
 {{Feat
 |name=鲜血盛宴
 |english_name=Blood Feast
-|categories=战斗
+|categories=战斗;怪物
 |pfs=否
 |description=当你尝到活物的血肉与鲜血时，你会变得更有攻击性、更加凶残。
 |prerequisites=啮咬攻击。

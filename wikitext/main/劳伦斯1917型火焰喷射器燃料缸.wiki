@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=劳伦斯1917型火焰喷射器燃料缸
 |english_name=Lawrence 1917 flamethrower fuel tank

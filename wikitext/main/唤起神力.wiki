@@ -1,3 +1,4 @@
+{{PFS特殊|1=在唤起神力（invoke deity）法术中，死亡领域、医疗领域、幸运领域和符文领域不是合法选项。|ai=1}}
 {{Spell
 |name=唤起神力
 |english_name=Invoke Deity

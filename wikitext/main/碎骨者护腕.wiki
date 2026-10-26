@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=碎骨者护腕
 |english_name=Bonebreaker Gauntlets

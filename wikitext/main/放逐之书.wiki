@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=放逐之书
 |english_name=Book of Banishing

@@ -20,7 +20,7 @@
 
 在4级时，僧官可以通过一个迅捷动作消耗1点气，使他在下一次唬骗检定上获得+4洞察加值，但他不获得普通武僧消耗1点气来在1轮内获得额外20尺移动速度的气池能力。本能力调整了气池（如果他是[[掉链武僧]]，则同时取代4级时获得的[[绝学]]）。
 
-{{AoN原文|1=ArchetypeDisplay.aspx?FixedName=Monk%20Sage%20Counselor|2=Sage Counselor}}
+{{AoN原文|1=ArchetypeDisplay.aspx?FixedName=Monk%20Sage%20Counselor|2=Sage Counselor|3=ArchetypeDisplay.aspx?FixedName=Monk%20(Unchained)%20Sage%20Counselor|4=Sage Counselor（掉链武僧）}}
 
 [[分类:武僧变体职业]]
 [[分类:变体职业]]

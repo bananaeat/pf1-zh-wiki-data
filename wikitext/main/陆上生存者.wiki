@@ -4,6 +4,6 @@
 |description=凭借与生俱来的坚韧与痛苦训练，你能够在陆地上长期生存。
 |prerequisites=体质15，[[半鱼人]]，水之依赖种族特性
 |benefit=你失去水之依赖[[种族特性]]。如果持续超过1天没有将身体浸泡在水中，你会陷入[[恶心]]状态。
-|source_name=海洋之血
+|source_name=海洋血脉
 |source_url=https://pf1chm.pages.dev/topics/zh7e409f67e0.htm
 }}

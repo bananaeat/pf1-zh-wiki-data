@@ -1,0 +1,18 @@
+{{PFS不可用}}
+{{Spell
+|name=天煞孤星
+|english_name=Unravel destiny
+|school=预言系
+|levels=奥能师 3;牧师 3;先知 3;术士 3;战斗祭司 3;女巫 3;法师 3
+|action=标准动作
+|components=语言;姿势;圣徽
+|duration=1轮/等级
+|save=意志, 通过则无效
+|sr=可
+|range=近距
+|target=一个生物
+|description=你说出一则恐怖的预言，使命运与宿命在目标周围瓦解。这种令人深感不安的效果使目标每拥有1点[[英雄点]]，就在所有属性检定、攻击检定、豁免检定和技能检定上受到累计-2减值。目标可以正常花费英雄点来降低此减值，但在此法术生效期间，每花费1点英雄点就会受到2d6点伤害。
+|source=进阶玩家指南
+}}
+
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_415.html 原文]），按 AoN 核对过。</small>

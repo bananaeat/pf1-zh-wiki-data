@@ -19,7 +19,7 @@
 |defensive=集群特性
 |immune=影响心灵效果;武器伤害
 |speed=10 尺
-|melee=集群 +10（2d6 外加 扰乱和感染）
+|melee=集群（2d6 外加 扰乱和感染）
 |space=10 尺
 |reach=0 尺
 |special_attacks=扰乱（DC 19），感染

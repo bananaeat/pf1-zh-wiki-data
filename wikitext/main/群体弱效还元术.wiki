@@ -1,0 +1,16 @@
+{{Spell
+|name=群体弱效还元术
+|english_name=Minor reversion, mass
+|school=咒法系 (医疗)
+|levels=奥能师 6;牧师 6;先知 6;异能者 5;术士 6;战斗祭司 6;法师 6
+|action=30分钟
+|components=语言;姿势
+|range=近距
+|target=每等级一个生物，其中任意两个相距不得超过30尺
+|duration=24小时
+|sr=否
+|description=施展此法术时，你在阿卡西记录中为每名目标各创造一个复制品。每名目标当前的生命值都必须至少为其最大生命值的一半。在法术持续时间内的任何时候，若某名目标的生命值被降到其最大生命值的一半以下，该目标可以用一个[[直觉动作]]结束自身的此法术，从其复制品中汲取力量，立即恢复1d8+每施法者等级1点（最多+25）的生命值。
+|source=位面旅者手册
+}}
+
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/zh260d2d2bd7.htm 原文]），按 AoN 核对过。</small>

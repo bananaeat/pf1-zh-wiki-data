@@ -1,4 +1,6 @@
 {{速查导航|here=神祇}}
+<noinclude>{{消歧义|旧日支配者，撒托古亚}}</noinclude>
+{{PFS不可用}}
 {{神祇
 |name=撒托古亚
 |english_name=Tsathoggua

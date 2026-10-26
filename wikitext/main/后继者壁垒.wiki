@@ -1,7 +1,9 @@
+{{PFS不可用}}
 {{魔法物品
 |name=后继者壁垒
 |english_name=Bastion of the Inheritor
 |cat=特殊魔法盾牌
+|mythic=是
 |base=重钢盾
 |enh=+1 增援
 |aura=微弱防护系

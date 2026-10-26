@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=真假友人吊坠〔半精灵〕
 |english_name=Locket of True and False Friends (Half-Elf)

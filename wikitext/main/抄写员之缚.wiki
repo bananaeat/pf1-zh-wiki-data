@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=抄写员之缚
 |english_name=Scribe's Binding

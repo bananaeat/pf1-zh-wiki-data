@@ -1,5 +1,5 @@
 <noinclude>{{掉链武僧导航}}
-'''肆意袭'''（Improvised Weapon Proficiency, EX, SU）是[[掉链武僧]]的[[绝学|绝学]]。
+'''肆意袭'''（Improvised Weapon Affinity, EX, SU）是[[掉链武僧]]的[[绝学|绝学]]。
 
 </noinclude>{{Source|野兽血脉|Blood of the Beast|inline}}
 

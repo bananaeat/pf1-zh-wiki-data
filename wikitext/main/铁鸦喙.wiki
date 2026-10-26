@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=铁鸦喙
 |english_name=Corvus

@@ -1,7 +1,7 @@
 {{Spell
 |name=浪尘飞溅
 |english_name=Spindrift Spritz
-|school=咒法系 (治疗)
+|school=咒法系 (医疗)
 |tags=水
 |levels=圣武士 1;游侠 1;猎人 1;先知 2;唤魂师 2;审判者 2;德鲁伊 2;战斗祭司 2;牧师 2;萨满 2
 |action=直觉动作

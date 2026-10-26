@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=死亡之吻|en=Death's Kiss|type=Su|domain=死亡领域|sub=亡灵子域 (Undead)|sub_name=亡灵子域|source=进阶玩家指南|text=你可以用一次近战[[接触攻击]]令生物如不死生物般，受负能量治疗、受正能量伤害。此效果持续轮数为你牧师等级一半（最少1），每天“3+[[感知]]修正”次。此能力不会使对象受[[驱散死灵]]或[[命令死灵(专长)|命令死灵]]专长影响。此能力替换[[死亡领域#流血接触 (Bleeding Touch, Sp)|流血接触]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

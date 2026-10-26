@@ -1,7 +1,7 @@
+{{PFS特殊|1=仅限鼠族PC合法。|ai=1}}
 {{Feat
 |name=尖牙
 |english_name=Sharptooth
-|pfs=否
 |description=你的牙齿锋锐而坚硬。
 |prerequisites=鼠族
 |benefit=你获得一次啮咬攻击，这是一次主要天生武器攻击，并能造成1d3点伤害。

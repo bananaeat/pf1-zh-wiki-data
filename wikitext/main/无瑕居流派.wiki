@@ -1,0 +1,73 @@
+{{速查导航|here=规则}}
+{{AI翻译|本页的组织介绍、要人、结盟由 AI 照《冒险者指南》原书译出（民间汉化 CHM 没有），未经人工校对。}}
+== 概述 ==
+''受元素启发的三座精英神秘修道院''
+<div class="rule-def gloss"><div class="rd-t">活动范围</div><div class="rd-b">国家</div></div>
+<div class="rule-def gloss"><div class="rd-t">组织阵营</div><div class="rd-b">守序中立</div></div>
+<div class="rule-def gloss"><div class="rd-t">总部所在</div><div class="rd-b">尼斯汶（扎摩诔）</div></div>
+<div class="rule-def gloss"><div class="rd-t">价值观</div><div class="rd-b">把元素视为自然完美形态的体现、通过竞争求进步、追求完美（即使无法达成）</div></div>
+<div class="rule-def gloss"><div class="rd-t">目标</div><div class="rd-b">保卫扎摩诔岛、通过研究四元素开发净化并增强身心的新方法、克服心灵与肉体的弱点、培养内海最优秀的武术家</div></div>
+<div class="rule-def gloss"><div class="rd-t">盟友</div><div class="rd-b">众多乌笃剌诸神的信徒；巨灵；[[义洛理]]信徒；[[内希斯]]信徒；追求启迪以及身心完美的人</div></div>
+<div class="rule-def gloss"><div class="rd-t">敌人</div><div class="rd-b">奈克斯弧光领主、阿修罗、[[罗刹]]</div></div>
+<div class="rule-def gloss"><div class="rd-t">宿敌</div><div class="rd-b">无</div></div>
+将近 2000 年前，乌笃剌的拉惹们从觊觎扎摩诔岛的法师——奈克斯弧光领主——手中夺回该岛后，在岛上建立了无数致力于改善身心的修道院。随着时间推移，其中三座声名鹊起，如今被许多人视为整个内海地区最优秀的武术学校。这三座修道院合称无瑕居，以乌笃剌的传统向来自世界各地的学生传授武艺与神秘修行。然而，想要进入这些精英学府，申请者必须在看似不可能完成的任务中证明自己的价值。
+
+三座修道院都位于岛国扎摩诔首都尼斯汶的郊外。造访该城的冒险者可能会选择——或受邀——尝试加入这些声望卓著的修道院所需的诸多严苛考验。无瑕居的武僧偶尔会资助那些展现出非凡潜力的人，尤其是当新入门者在扎摩诔冒险后引起武僧们的注意时。通常，武僧们会在 3 年的高强度训练和 3 年的游历之间交替，把自己的技艺运用于修道院围墙之外并在那里学习。这些云游的武僧是扎摩诔掌握世界其他地方动向的途径之一。
+
+'''无明火宗修道院：'''无明火宗的武僧以火元素为蓝本塑造他们的流派。火焰只需最轻的触碰便能灼伤，而物理攻击却能穿过它。如同谜语，它既能照亮，也能致盲。无明火宗流派强调既迅捷又具欺骗性的动作，偏好稳固的防御和决定性的终结一击。要加入无明火宗修道院，求学者必须智取一只火巨灵。
+
+'''不定风宗修道院：'''不定风宗的武僧以风元素为典范。风可以完全静止，也可以猛烈强劲，并且瞬息万变。不定风宗流派强调静中求衡、动中求柔。修习者在战斗中机动灵活，充分利用地形。许多人偏好远程（尤其是投掷）武器，而非近身战斗。要加入不定风宗修道院，求学者必须在竞速中战胜一只风巨灵。
+
+'''难破金宗修道院：'''难破金宗的武僧崇奉土与金属元素。未经加工的金属沉重而坚硬，却可以被精炼成合金并被塑造成工具。难破金宗的武僧同样追求把自己锻炼成更强韧的自己。其修习者通常擅长战技，尤其是擒抱。他们不屑于繁复的防御，依靠自身的坚韧来承受敌人的攻击。要加入难破金宗修道院，申请者必须成功地与一只土巨灵摔跤。
+
+== 要人 ==
+<div class="lang-grid">
+<div class="lang"><div class="lang-h"><b>阿南达拉</b><i>Anandala</i><span class="lang-w">守序中立 女性 暮年人类 武僧 6/异能者 8/完美门徒 4</span></div><div class="lang-d">传闻在遥远的年少时代，阿南达拉做了某件使家族蒙羞的事，作为惩罚被从乌笃剌送到了这片遥远的殖民地。每当被问起这类事情，阿南达拉只会若有所思地微笑并转移话题。无论如何，她的武艺天赋，加上前半生所学的技能，使她得以进入无明火宗修道院。她进步神速，最终成为无明火宗的大宗师。尽管阿南达拉看上去十分年轻，她已执掌这一宗派数十年，而这位看似不老的女子毫无离任的迹象。</div></div>
+<div class="lang"><div class="lang-h"><b>拉杰尼·阿雅萨</b><i>Rajni Ayasa</i><span class="lang-w">守序中立 女性 人类 武僧 11</span></div><div class="lang-d">出身扎摩诔早期定居者后裔的难破金宗大宗师，敦促她的学生像这座岛屿一样：在混乱之海中保持稳固与宏伟的堡垒。阿雅萨大宗师把大量时间用于训练武僧参加「天地之战」——三座无瑕居之间每十年举行一次的比试。难破金宗修道院赢得了前两届挑战。阿雅萨对再赢一次寄予厚望，这将使她所在的修道院成为唯一连续三次获胜的修道院。有人把这种日益增长的自豪解读为拉杰尼性格上的缺陷，然而她总是小心地以自知之明来调节自己的自我，并在必要时保持谦逊。</div></div>
+<div class="lang"><div class="lang-h"><b>萨迪夫·哈达兰瓦尤</b><i>Sadif Hadaranvayu</i><span class="lang-w">守序善良 男性 风元素裔 武僧 10</span></div><div class="lang-d">不定风宗的大宗师以他飘动如雾的头发和淡蓝色的皮肤成为引人注目的人物。哈达兰瓦尤大宗师利用自己操控风的能力以及与某些乌笃剌神祇的相似之处来增强这种神秘感；虽然他不赞成流言蜚语，但对于流传的关于他与古老而强大的元素力量有渊源的传闻，他几乎不加反驳。在他的领导下，不定风宗修道院尚未赢得过「天地之战」，他渴望证明自己与年长的同僚不相上下。哈达兰瓦尤派出的探员遍布内海地区，寻找可能配得上加入不定风宗修道院的人选。</div></div>
+</div>
+
+== 进阶职业 ==
+<div class="lang-grid">
+<div class="lang"><div class="lang-h"><b>[[完美门徒]]</b><i>Student of Perfection</i></div></div>
+</div>
+
+== 变体职业 ==
+<div class="lang-grid">
+<div class="lang"><div class="lang-h"><b>[[卑铜门徒]]</b><i>Brazen Disciple</i><span class="lang-w">武僧</span></div></div>
+<div class="lang"><div class="lang-h"><b>[[障心破门者]]</b><i>Winding Path Renegade</i><span class="lang-w">拳师</span></div></div>
+</div>
+
+== 结盟 ==
+=== 与无瑕居结盟 ===
+为了在世界各地传播他们的传承，也本着三座修道院之间通常（但并非总是）友好的竞争精神，获得与无瑕居的结盟相对容易。
+
+'''范例结盟遭遇：'''要获得与无瑕居的结盟，需要的不只是研习他们的技法。各宗派看重的是潜力而非既成的技艺，因此，比起力量的展示，他们更看重对学习的热情的展示。一名在武僧、拳师，或《异能冒险》中的六个职业中任一职业取得 1 级的角色，前往扎摩诔或寻访某一宗派的代表，通常会被自动授予结盟——其他角色则需要通过完成特定任务来打动无瑕居的代表（由 GM 裁定）。
+
+== 新规则 ==
+=== 专长 ===
+无瑕居的学生可以掌握这些专长。
+<div class="lang-grid">
+<div class="lang"><div class="lang-h"><b>[[无瑕式]]</b><i>Perfect Style</i><span class="lang-w">战斗，流派</span></div></div>
+<div class="lang"><div class="lang-h"><b>[[业火袭]]</b><i>Unblinking Flame Feint</i><span class="lang-w">战斗</span></div></div>
+<div class="lang"><div class="lang-h"><b>[[业火灼身]]</b><i>Unblinking Flame Fist</i><span class="lang-w">战斗</span></div></div>
+<div class="lang"><div class="lang-h"><b>[[八风流转]]</b><i>Unfolding Wind Rush</i><span class="lang-w">战斗</span></div></div>
+<div class="lang"><div class="lang-h"><b>[[八风涌]]</b><i>Unfolding Wind Strike</i><span class="lang-w">战斗</span></div></div>
+<div class="lang"><div class="lang-h"><b>[[金刚霸体]]</b><i>Untwisting Iron Skin</i><span class="lang-w">战斗</span></div></div>
+<div class="lang"><div class="lang-h"><b>[[金刚劲]]</b><i>Untwisting Iron Strength</i><span class="lang-w">战斗</span></div></div>
+</div>
+
+=== 魔法物品 ===
+无瑕居的探员经常使用下列物品。
+<div class="lang-grid">
+<div class="lang"><div class="lang-h"><b>[[流派精通缠腰布]]</b><i>Dhoti of style mastery</i></div></div>
+<div class="lang"><div class="lang-h"><b>[[火巨灵之角]]</b><i>Efreeti horns</i></div></div>
+<div class="lang"><div class="lang-h"><b>[[不定风手套]]</b><i>Gloves of unfolding wind</i></div></div>
+<div class="lang"><div class="lang-h"><b>[[护院刀]]</b><i>Monastic warden</i></div></div>
+<div class="lang"><div class="lang-h"><b>[[塑山者腰带]]</b><i>Mountainshaper's girdle</i></div></div>
+<div class="lang"><div class="lang-h"><b>[[旅行大师头巾]]</b><i>Traveling master's turban</i></div></div>
+</div>
+
+本页译自《[[冒险者指南]]》第 100–107 页。全部组织见 [[组织]]。
+
+[[分类:组织]]

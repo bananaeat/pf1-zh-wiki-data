@@ -1,8 +1,10 @@
+{{PFS不可用}}
 {{魔法物品
 |name=石拳手套
 |english_name=Stonefist Gloves
 |aon=MagicWondrousDisplay.aspx?FinalName=Stonefist Gloves
 |cat=奇物
+|mythic=是
 |aura=中等变化系
 |cl=7
 |slot=手部

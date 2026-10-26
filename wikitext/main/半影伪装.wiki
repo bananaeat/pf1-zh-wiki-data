@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=半影伪装
 |english_name=Penumbral disguise

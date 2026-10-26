@@ -1,7 +1,9 @@
+{{PFS不可用}}
 {{魔法物品
 |name=破神
 |english_name=Mythic Bane
 |cat=武器附魔
+|mythic=是
 |apply=近战、远程
 |bonus=+1 加值
 |aura=中等塑能系

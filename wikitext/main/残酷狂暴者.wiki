@@ -1,6 +1,7 @@
 {{Trait
 |name=残酷狂暴者
 |english_name=Cruel Rager
+|pfs=否
 |type=种族
 |prerequisites=[[半兽人]]
 |description=若你在狂暴期间成功对一个敌人确认重击，你恢复1轮狂暴。此背景每次狂暴只生效1次。

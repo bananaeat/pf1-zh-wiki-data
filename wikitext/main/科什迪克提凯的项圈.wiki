@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=科什迪克提凯的项圈
 |english_name=Torc of Kostchtchie

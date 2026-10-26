@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=暴风氛围|en=Gale Aura|type=Su|domain=天气领域|sub=风暴子域 (Storms)|sub_name=风暴子域|source=进阶玩家指南|text=在6级你召来阻碍敌人靠近的狂风，令30尺内生物无法五尺快步，且范围内敌人向你靠近时视为经过[[困难地形]]。每天使用轮数为牧师等级，不需连续。此能力替换[[天气领域#闪电主宰 (Lightning Lord, Sp)|闪电主宰]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

@@ -1,0 +1,46 @@
+{{速查导航|here=神祇}}
+{{AI翻译|本页由 AI 照《永罪之书》（Book of the Damned）英文原书译出（民间汉化 CHM 没有），未经人工校对。符号、圣兽、圣色三项据 AoN 译出。}}
+{{PFS不可用}}
+{{神祇
+|name=奥索尔米尔
+|english_name=Osolmyr
+|title=唯一真梦（The One True Dream）
+|alignment=中立邪恶（NE）
+|weapon=[[轻型链枷]]
+|portfolio=鞭笞，压抑，自我否定
+|domains=[[邪恶领域(领域)|邪恶]]，[[荣耀领域|荣耀]]，[[医疗领域|医疗]]，[[狂乱领域|狂乱]]
+|subdomains=[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[荣耀领域#英勇子域 (Heroism)|英勇子域]]，[[狂乱领域#疯狂子域 (Insanity)|疯狂子域]]，[[医疗领域#回生子域 (Resurrection)|回生子域]]
+|symbol=染血的鞭子
+|symbol_label=邪徽
+|animal=阿尔比恩孔雀（Albion peacock）
+|color=粉色，白色
+|pantheon=邪魔先驱
+|source=内海诸神、永罪之书
+}}
+
+'''奥索尔米尔'''（Osolmyr）是一位[[邪魔先驱]]。
+
+== 简介 ==
+
+唯一真梦奥索尔米尔的外形是一名浑身血污、遭受鞭笞的女子，嘴巴被缝死，双手被截去。她靠一组末端为带爪抓握之手的触手行走。
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+公开鞭笞自己，且不理会他人的反应。你在对抗伤害、吸取或削减属性值的效果的豁免检定中获得+4亵渎加值。
+
+=== 神恩 ===
+
+通过[[魔族仪典]]获得，均为每日各2次的类法术能力：
+
+{{神恩|n=1|name=|en=|type=Sp|text=每日2次，你可以施展[[造成中度伤]]。}}
+
+{{神恩|n=2|name=|en=|type=Sp|text=每日2次，你可以施展[[篡改记忆]]。}}
+
+{{神恩|n=3|name=|en=|type=Sp|text=每日2次，你可以施展[[重伤术]]。}}
+
+<small>出自《[[永罪之书]]》第114页。</small>
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Osolmyr|2=Osolmyr}}
+[[分类:魔神]]

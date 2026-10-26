@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=黄衣之印
 |english_name=Yellow sign

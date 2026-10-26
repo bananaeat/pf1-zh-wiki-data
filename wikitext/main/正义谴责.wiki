@@ -1,3 +1,4 @@
+{{PFS特殊|1=仅限神裔PC合法。|ai=1}}
 {{Spell
 |name=正义谴责
 |english_name=Righteous condemnation

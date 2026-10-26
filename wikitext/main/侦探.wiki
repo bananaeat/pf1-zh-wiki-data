@@ -1,3 +1,4 @@
+<noinclude>{{消歧义|侦探（恶棍志）}}</noinclude>
 {{Source|进阶玩家指南|Advanced Player's Guide}}
 
 '''侦探'''（Detective）是[[吟游诗人]]的[[变体职业]]。

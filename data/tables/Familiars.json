@@ -241,7 +241,7 @@
 },
 {
 "kind": "familiar",
-"page": "毛依海豚",
+"page": "毛依海豚(极限荒野)",
 "name": "毛依海豚",
 "en": "Dolphin, popoto",
 "ftype": "魔宠",
@@ -1322,7 +1322,7 @@
 {
 "kind": "familiar",
 "page": "巨缓步动物",
-"name": "巨渡鸦",
+"name": "巨缓步动物",
 "en": "Tardigrade, giant",
 "ftype": "魔宠",
 "benefit": "使强韧豁免获得 +2 加值",
@@ -1520,7 +1520,7 @@
 "name": "沙袋鼠",
 "en": "Wallaby",
 "ftype": "魔宠",
-"benefit": "使特技动作检定获得 +3 加值",
+"benefit": "使特技检定获得 +3 加值",
 "align": "",
 "level": "",
 "source": "极限荒野 p190、魔宠手记",

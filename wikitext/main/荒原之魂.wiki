@@ -1,4 +1,4 @@
 <noinclude>{{德鲁伊导航}}
 </noinclude>{{德鲁伊领域能力|name=荒原之魂|en=Badlands Spirit|type=Su|domain=荒原领域|source=信仰与哲学|text=8级起，当你使用[[德鲁伊#自然变身 (Wild Shape, Su)|自然变身]]来变为土元素的形态时，根据你的德鲁伊等级，你会获得以下类法术能力：8级-[[间歇泉]]，12级-[[燃烧之风]]，15级-[[冲搅之风]]。每个类法术能力每天可使用一次。}}<noinclude>
 
-[[分类:德鲁伊领域]]</noinclude>
+[[分类:德鲁伊领域能力]]</noinclude>

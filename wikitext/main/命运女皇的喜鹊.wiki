@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=命运女皇的喜鹊
 |english_name=Weird Queen's Magpie

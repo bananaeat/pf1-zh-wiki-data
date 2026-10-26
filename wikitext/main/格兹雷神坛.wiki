@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{物品
 |name=格兹雷神坛
 |english_name=Altar of Gozreh

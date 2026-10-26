@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=Ovinrbaane，万敌之敌
 |english_name=Ovinrbaane, Enemy of All Enemies

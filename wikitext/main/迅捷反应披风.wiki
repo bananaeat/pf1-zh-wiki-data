@@ -1,8 +1,10 @@
+{{PFS不可用}}
 {{魔法物品
 |name=迅捷反应披风
 |english_name=Cloak of Quick Reflexes
 |aon=MagicWondrousDisplay.aspx?FinalName=Cloak of Quick Reflexes1/2 Reflex
 |cat=奇物
+|mythic=是
 |aura=中等防护系
 |cl=7
 |slot=肩部

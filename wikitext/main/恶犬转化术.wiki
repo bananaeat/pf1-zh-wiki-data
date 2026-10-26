@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=恶犬转化术
 |english_name=Vile Dog Transformation

@@ -17,9 +17,9 @@
 |ref=-1
 |will=+0
 |speed=30尺
-|melee=巨镰 -2（2d4+1/×4）或 木棍 +2（1d6+1）
-|ranged=木棍 +0（1d6+1）
-|tactics=<div class="ml wide"><span class="k">战斗中</span>这个平民会用她的巨镰吓唬攻击者，但如果真的要打起来的话，她还是会用木棍来揍人。</div>
+|melee=巨镰 -2（2d4+1/×4）或 木棒 +2（1d6+1）
+|ranged=木棒 +0（1d6+1）
+|tactics=<div class="ml wide"><span class="k">战斗中</span>平民会挥舞巨镰威吓来犯者，但真要动手攻击时，她会换用木棒。</div>
 |str=13
 |dex=9
 |con=12
@@ -32,12 +32,12 @@
 |feats=[[技能专攻]]（驯养动物，医疗）
 |skills=[[工艺|手艺]]（木工）+6;[[驯养动物]]+7;[[医疗]]+5;[[知识]]（自然）+1;[[专业]]（农夫）+5
 |languages=通用语
-|gear=木棍;巨镰;工匠工具;猪（8）;马嚼与缰绳;轻型马;载货鞍座;251gp
+|gear=木棒;巨镰;工匠工具;猪（8）;嚼子和缰绳;轻型马;载货鞍座;251gp
 |source=NPC志
 |family=NPC职业（NPC志）
 |npc=1
 |lore=
-尽管外表沾满污泥，猪农却有着许多实用的技能。
+别看猪农一身泥泞，她其实身怀许多实用的技能。
 }}
 
-本页译自《[[NPC志]]》的怪物图鉴 CHM。
+本页译自《[[NPC志]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=62502.msg581238#msg581238 【NPCC】NPC职业：平民（Commoner）]，原译者：狗熊有敌；沉沦校对润饰）。

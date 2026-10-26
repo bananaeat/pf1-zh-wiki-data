@@ -1,3 +1,4 @@
+{{PFS特殊|1=仅限娜迦裔及拥有娜迦（naga）血脉的角色可用。|ai=1}}
 {{Spell
 |name=娜迦形态 II
 |english_name=Naga Shape II

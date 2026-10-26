@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=善良飞矢
 |english_name=Bolt of Glory

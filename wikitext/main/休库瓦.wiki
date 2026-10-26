@@ -30,7 +30,7 @@
 |cmb=+3
 |cmd=15
 |feats=[[精通先攻]];[[武器专攻]]（爪抓）
-|skills=[[察觉]] +5;[[生存]] +7
+|skills=[[察觉]] +5;[[隐匿]] +7
 |languages=通用语
 |sq=虚假人性
 |environment=任意

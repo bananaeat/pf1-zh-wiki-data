@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=喘息珍珠
 |english_name=The Gasping Pearl

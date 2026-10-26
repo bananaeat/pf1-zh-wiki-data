@@ -529,6 +529,8 @@
 
 == 可选天赋职业奖励 ==
 
+{{AI翻译|nocat=1|本段由 AI 照《进阶职业指南》英文原文译出，未经人工校对。}}精灵的优雅与智慧使他们适合许多职业。下列选项适用于天赋职业为所列职业的所有精灵。
+
 === [[炼金术师]] ===
 
 从炼金术士公式列表中选择一个化合炼成公式加入公式本。此公式必须比角色可以获得的最高环级的公式低一环。
@@ -611,47 +613,47 @@
 
 === [[奥能师]] ===
 
-[[奥能师]]的奥能源泉（Arcane Reservoir）总量增加1点。
+[[奥能师]]的奥能源泉（Arcane Reservoir）总量增加1点。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[血脉狂怒者]] ===
 
-血脉狂怒者的基本速度增加1尺。在战斗中，这个效果只有在基本速度增加量是5的倍数时才会生效。该加值与血脉狂怒者的快速移动（Fast Movement）职业能力叠加，并且和该职业能力适用于相同的条件。
+血脉狂怒者的基本速度增加1尺。在战斗中，这个效果只有在基本速度增加量是5的倍数时才会生效。该加值与血脉狂怒者的快速移动（Fast Movement）职业能力叠加，并且和该职业能力适用于相同的条件。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[拳师]] ===
 
-[[拳师]]的基本速度增加1尺。在战斗中，这个效果只有在基本速度增加量是5的倍数时才会生效。
+[[拳师]]的基本速度增加1尺。在战斗中，这个效果只有在基本速度增加量是5的倍数时才会生效。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[猎人]] ===
 
-从后述列表中选择一种武器：长弓（longbow）、长剑（longsword）、细剑（rapier）、短剑（short sword）、短弓（shortbow）或其他冠以“精灵（elven）”之名的武器。持用该种武器进行的重击确认检定获得+1/2加值（最高+4）。该加值不会与重击专攻（Critical Focus）或其他类似效果提供的加值叠加。
+从后述列表中选择一种武器：长弓（longbow）、长剑（longsword）、细剑（rapier）、短剑（short sword）、短弓（shortbow）或其他冠以“精灵（elven）”之名的武器。持用该种武器进行的重击确认检定获得+1/2加值（最高+4）。该加值不会与重击专攻（Critical Focus）或其他类似效果提供的加值叠加。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[调查员]] ===
 
-调查员的灵感池（inspiration pool）总量增加1/3点。
+调查员的灵感池（inspiration pool）总量增加1/3点。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[萨满]] ===
 
-被选择的[[萨满巫术]]（hex）范围增加5尺。从该能力获取的复数加值可以应用至相同的[[巫术]]，不过任意单个巫术最高只能有30尺额外范围。
+被选择的[[萨满巫术]]（hex）范围增加5尺。从该能力获取的复数加值可以应用至相同的[[巫术]]，不过任意单个巫术最高只能有30尺额外范围。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[歌者]] ===
 
-通晓音律（well-versed）职业能力提供的加值增加1/4点（最高+8）。
+通晓音律（well-versed）职业能力提供的加值增加1/4点（最高+8）。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[杀手]] ===
 
-杀戮目标（studied target）的察觉和生存检定加值提高1/4。当[[杀手]]获得追踪者（Stalker）职业能力时，他还能够将杀戮目标的加值提升应用至隐匿检定。
+杀戮目标（studied target）的察觉和生存检定加值提高1/4。当[[杀手]]获得追踪者（Stalker）职业能力时，他还能够将杀戮目标的加值提升应用至隐匿检定。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[游荡剑客]] ===
 
-游荡剑客的时髦值总量增加1/4。
+游荡剑客的时髦值总量增加1/4。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[战斗祭司]] ===
 
-战斗祭司每日能够使用祝福（blessings）的次数增加1/2次，但是这些额外使用次数只能用在气（Air）、动物（Animal）、魅惑（Charm）、魔法（Magic）、植物（Plant）或太阳（Sun）领域的祝福上。
+战斗祭司每日能够使用祝福（blessings）的次数增加1/2次，但是这些额外使用次数只能用在气（Air）、动物（Animal）、魅惑（Charm）、魔法（Magic）、植物（Plant）或太阳（Sun）领域的祝福上。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[催眠师]] ===
 
-用于穿过威胁区域的特技检定获得+1/2加值；用于虚招的唬骗检定获得+1/2加值。
+用于穿过威胁区域的特技检定获得+1/2加值；用于虚招的唬骗检定获得+1/2加值。{{Source|异能冒险|Occult Adventures|inline}}
 
 +1/4擒抱和[[摔绊]]战技检定。{{Source|惧怖冒险|Horror Adventures|inline}}
 
@@ -661,19 +663,19 @@
 
 === [[唤魂师]] ===
 
-3级的灵质态附身显形（ectoplasmic bonded manifestation）能力所提供的盾牌加值增加1/6点。
+3级的灵质态附身显形（ectoplasmic bonded manifestation）能力所提供的盾牌加值增加1/6点。{{Source|异能冒险|Occult Adventures|inline}}
 
 === [[异能者]] ===
 
-异能者的精神力池（phrenic pool）的总量增加1/3点。
+异能者的精神力池（phrenic pool）的总量增加1/3点。{{Source|异能冒险|Occult Adventures|inline}}
 
 === [[秘学士]] ===
 
-心智点（Mental Focus）的总点数增加1/2点。
+心智点（Mental Focus）的总点数增加1/2点。{{Source|异能冒险|Occult Adventures|inline}}
 
 === [[通灵者]] ===
 
-在使用神秘技能解放（Occult Skill Unlocks）时，所有技能检定均会获得+1/3加值。
+在使用神秘技能解放（Occult Skill Unlocks）时，所有技能检定均会获得+1/3加值。{{Source|异能冒险|Occult Adventures|inline}}
 
 === [[操念使]] ===
 

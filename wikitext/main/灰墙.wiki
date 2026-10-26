@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=灰墙|en=Wall of Ashes|type=Su|domain=火领域|sub=灰烬子域 (Ash)|sub_name=灰烬子域|source=进阶玩家指南|text=到了8级，你能在100尺的距离内以飞灰为墙，此墙高20尺，长每牧师等级10尺。此墙阻挡视线，且生物经过时若未通过强韧豁免则[[目盲]]1d4轮。灰墙会令里面和邻接的[[隐形]]生物显形，除非他们离开。你每天能使用此能力的时间等于“牧师等级”分钟，不必连续。此能力取代[[火领域#火抗性 (Fire Resistance, Ex)|火抗性]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

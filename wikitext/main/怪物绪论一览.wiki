@@ -1,0 +1,81 @@
+{{速查导航}}
+
+== 善良异界生物 ==
+<div class="lang-grid">
+<div class="lang"><div class="lang-h"><b>[[福使绪论|福使]]</b><span class="lang-w">Agathion　《[[怪物图鉴2]]》</span></div><div class="lang-d">[[鹏羽福使]]、[[鲸身福使]]、[[龙首福使]]、[[狮首福使]]、[[灵猫福使]]、[[灵狐福使]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[天使绪论|天使]]</b><span class="lang-w">Angel　《[[怪物图鉴]]》</span></div><div class="lang-d">[[天使，星界使徒|星界使徒]]、[[天使，界天使|界天使]]、[[天使，炽天使|炽天使]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[圣使绪论|圣使]]</b><span class="lang-w">Archon　《[[怪物图鉴]]》</span></div><div class="lang-d">[[獒首圣使]]、[[圣使，明灯圣使|明灯圣使]]、[[圣使，号手圣使|号手圣使]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[灵使绪论|灵使]]</b><span class="lang-w">Azata　《[[怪物图鉴]]》</span></div><div class="lang-d">[[巴拉尼灵使]]、[[迦勒灵使]]、[[翼蛇人]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[至高天领主绪论|至高天领主]]</b><span class="lang-w">Empyreal Lord　《[[怪物图鉴4]]》</span></div><div class="lang-d">[[至高天领主，孔冉达|孔冉达]]、[[至高天领主，薇尔迪斯|薇尔迪斯]]、[[至高天领主，伊沙-瓦|伊沙-瓦]]、[[至高天领主，萨那诺斯|萨那诺斯]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[圣仙绪论|圣仙]]</b><span class="lang-w">Manasaputra　《[[怪物图鉴5]]》</span></div><div class="lang-d">[[摩奴]]、[[始祖摩奴]]、[[摩奴圣者]]、[[烈日祖灵]]、[[暮光祖灵]]</div></div>
+</div>
+
+== 邪恶异界生物 ==
+<div class="lang-grid">
+<div class="lang"><div class="lang-h"><b>[[大魔鬼绪论|大魔鬼]]</b><span class="lang-w">Archdevil　《[[怪物图鉴6]]》</span></div><div class="lang-d">[[洛斯哈特(怪物)]]、[[大魔鬼，巴尔巴托斯|巴尔巴托斯]]、[[大魔鬼，迪斯帕特|迪斯帕特]]、[[大魔鬼，贝利亚|贝利亚]]、[[大魔鬼，马蒙|马蒙]]、[[大魔鬼，格殷永|格殷永]]、[[大魔鬼，摩洛克|摩洛克]]、[[大魔鬼，巴尔泽布|巴尔泽布]]、[[大魔鬼，墨菲斯托费利斯|墨菲斯托费利斯]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[阿修罗绪论|阿修罗]]</b><span class="lang-w">Asura　《[[怪物图鉴3]]》</span></div><div class="lang-d">[[阿修罗，暴跳修罗|暴跳修罗]]、[[阿修罗，巨蛇修罗|巨蛇修罗]]、[[阿修罗，阿修罗王|阿修罗王]]、[[阿修罗，奇叵修罗|奇叵修罗]]、[[阿修罗，乌跋修罗|乌跋修罗]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[邪魔绪论|邪魔]]</b><span class="lang-w">Daemon　《[[怪物图鉴2]]》</span></div><div class="lang-d">[[星界邪魔]]、[[狂躁邪魔]]、[[仆役邪魔]]、[[异虫邪魔]]、[[冥河邪魔]]、[[疫病邪魔]]、[[饥馑邪魔]]、[[噬魂狂魔]]、[[残虐邪魔]]、[[战狂邪魔]]、[[死役邪魔]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[魔孽绪论|魔孽]]</b><span class="lang-w">Demodand　《[[怪物图鉴3]]》</span></div><div class="lang-d">[[蓬毛魔孽]]、[[粘液魔孽]]、[[墨油魔孽]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[恶魔绪论|恶魔]]</b><span class="lang-w">Demon　《[[怪物图鉴]]》</span></div><div class="lang-d">[[恶魔，暴怖魔|暴怖魔]]、[[恶魔，巴洛炎魔|巴洛炎魔]]、[[恶魔，怯魔|怯魔]]、[[恶魔，迷诱魔|迷诱魔]]、[[恶魔，狂战魔|狂战魔]]、[[恶魔，六臂蛇魔|六臂蛇魔]]、[[恶魔，食魂魔|食魂魔]]、[[恶魔，判魂魔|判魂魔]]、[[恶魔，小恶魔|小恶魔]]、[[恶魔，影魔|影魔]]、[[恶魔，魅魔|魅魔]]、[[恶魔，鹫魔|鹫魔]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[恶魔领主绪论|恶魔领主]]</b><span class="lang-w">Demon Lord　《[[怪物图鉴4]]》</span></div><div class="lang-d">[[夜行者(怪物)]]、[[毁木者(怪物)]]、[[莎米拉(怪物)]]、[[科斯彻奇]]、[[恶魔领主，佐伏隆|佐伏隆]]、[[恶魔领主，巴风特|巴风特]]、[[大衮(怪物)|大衮]]、[[恶魔领主，希芙珂什|希芙珂什]]、[[恶魔领主，煞克斯|煞克斯]]、[[恶魔领主，德斯卡瑞|德斯卡瑞]]、[[帕祖祖(怪物)|帕祖祖]]、[[恶魔领主，诺提库拉|诺提库拉]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[魔鬼绪论|魔鬼]]</b><span class="lang-w">Devil　《[[怪物图鉴]]》</span></div><div class="lang-d">[[魔鬼，尖刺魔|尖刺魔]]、[[魔鬼，胡须魔|胡须魔]]、[[魔鬼，骨魔|骨魔]]、[[魔鬼，怒魔|怒魔]]、[[魔鬼，角魔|角魔]]、[[魔鬼，冰魔|冰魔]]、[[魔鬼，小魔鬼|小魔鬼]]、[[魔鬼，劣魔|劣魔]]、[[魔鬼，深渊炼魔|深渊炼魔]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[妖灵绪论|妖灵]]</b><span class="lang-w">Div　《[[怪物图鉴3]]》</span></div><div class="lang-d">[[邪眼妖]]、[[崇至妖]]、[[飞颅妖]]、[[鲉鳍妖]]、[[恶欲妖]]、[[墟言妖]]、[[狮妖]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[天启驭者绪论|天启驭者]]</b><span class="lang-w">Horseman of the Apocalypse　《[[怪物图鉴6]]》</span></div><div class="lang-d">[[天启驭者，亚波轮|亚波轮]]、[[天启驭者，卡戎|卡戎]]、[[天启驭者，莎祖瑞尔|莎祖瑞尔]]、[[天启驭者，崔玛瑞希|崔玛瑞希]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[链魔绪论|链魔]]</b><span class="lang-w">Kyton　《[[怪物图鉴3]]》</span></div><div class="lang-d">[[链魔，邪窥魔|邪窥魔]]、[[链魔，邪验魔|邪验魔]]、[[链魔，邪隐魔|邪隐魔]]、[[链魔喧主，茵卡雷亚斯|茵卡雷亚斯]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[恶鬼绪论|恶鬼]]</b><span class="lang-w">Oni　《[[怪物图鉴3]]》</span></div><div class="lang-d">[[火巨鬼]]、[[冰巨鬼]]、[[骇鬼]]、[[恶鬼灵]]、[[虚巨鬼]]、[[水巨鬼]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[古魔绪论|古魔]]</b><span class="lang-w">Qlippoth　《[[怪物图鉴2]]》</span></div><div class="lang-d">[[古魔，蝠翼蛛魔|蝠翼蛛魔]]、[[古魔，触手眼魔|触手眼魔]]、[[古魔，寄尸魔|寄尸魔]]、[[古魔，灭世魔君|灭世魔君]]、[[古魔，饥肠魔|饥肠魔]]、[[古魔，鱿魔|鱿魔]]、[[古魔，蝎尾蛛魔|蝎尾蛛魔]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[古魔领主绪论|古魔领主]]</b><span class="lang-w">Qlippoth Lord　《[[怪物图鉴6]]》</span></div><div class="lang-d">[[古魔领主，查瓦茨菲戈|查瓦茨菲戈]]、[[古魔领主，亚马索斯|亚马索斯]]、[[古魔领主，咿嘶-噢嗯-喔嗯|咿嘶-噢嗯-喔嗯]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[罗刹绪论|罗刹]]</b><span class="lang-w">Rakshasa　《[[怪物图鉴3]]》</span></div><div class="lang-d">[[罗刹，毒噬罗刹|毒噬罗刹]]、[[罗刹，罗刹鬼王|罗刹鬼王]]、[[罗刹，妖蛇罗刹|妖蛇罗刹]]、[[罗刹，化物罗刹|化物罗刹]]、[[罗刹，暴掠罗刹|暴掠罗刹]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[恐亡魔绪论|恐亡魔]]</b><span class="lang-w">Sahkil　《[[怪物图鉴5]]》</span></div><div class="lang-d">[[恐亡魔，假蜱魔|假蜱魔]]、[[恐亡魔，阴死魔|阴死魔]]、[[恐亡魔，盾花魔|盾花魔]]、[[恐亡魔，噬肉魔|噬肉魔]]、[[恐亡魔，饥蝗魔|饥蝗魔]]</div></div>
+</div>
+
+== 其他异界生物 ==
+<div class="lang-grid">
+<div class="lang"><div class="lang-h"><b>[[御衡者绪论|御衡者]]</b><span class="lang-w">Aeon　《[[怪物图鉴2]]》</span></div><div class="lang-d">[[生死御衡者]]、[[时空御衡者]]、[[知行御衡者]]、[[存灭御衡者]]、[[力命御衡者]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[制裁者绪论|制裁者]]</b><span class="lang-w">Inevitable　《[[怪物图鉴2]]》</span></div><div class="lang-d">[[仲裁者]]、[[协约者]]、[[巡守者]]、[[猎杀者]]、[[追踪者]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[神灵绪论|神灵]]</b><span class="lang-w">Kami　《[[怪物图鉴3]]》</span></div><div class="lang-d">[[神灵，地主神|地主神]]、[[神灵，木灵神|木灵神]]、[[神灵，式神|式神]]、[[神灵，岁神|岁神]]、[[神灵，随神|随神]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[幻蛇绪论|幻蛇]]</b><span class="lang-w">Protean　《[[怪物图鉴2]]》</span></div><div class="lang-d">[[幻蛇，埃门特西|埃门特西]]、[[幻蛇，科科塔尔|科科塔尔]]、[[幻蛇，纳乌奈特|纳乌奈特]]、[[幻蛇，虚空虫|虚空虫]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[渡魂使绪论|渡魂使]]</b><span class="lang-w">Psychopomp　《[[怪物图鉴4]]》</span></div><div class="lang-d">[[渡魂使，疫鸟|疫鸟]]、[[卡崔娜迎魂使]]、[[万特护魂使]]、[[摩莉甘猎魂使]]、[[阎摩判魂使]]、[[渡魂使引座者，巴尔扎克|巴尔扎克]]</div></div>
+</div>
+
+== 龙类 ==
+<div class="lang-grid">
+<div class="lang"><div class="lang-h"><b>[[龙类绪论|龙类]]</b><span class="lang-w">Dragon　《[[怪物图鉴]]》</span></div><div class="lang-d">[[彩色龙，黑龙|黑龙]]、[[彩色龙，蓝龙|蓝龙]]、[[彩色龙，绿龙|绿龙]]、[[彩色龙，红龙|红龙]]、[[彩色龙，白龙|白龙]]、[[金属龙，黄铜龙|黄铜龙]]、[[金属龙，青铜龙|青铜龙]]、[[金属龙，赤铜龙|赤铜龙]]、[[金属龙，金龙|金龙]]、[[金属龙，银龙|银龙]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[灵域龙绪论|灵域龙]]</b><span class="lang-w">Dragon, Esoteric　《[[怪物图鉴5]]》</span></div><div class="lang-d">[[星界龙]]、[[梦境龙]]、[[以太龙]]、[[梦魇龙]]、[[异能龙]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[帝龙绪论|帝龙]]</b><span class="lang-w">Dragon, Imperial　《[[怪物图鉴3]]》</span></div><div class="lang-d">[[帝龙种，地龙|地龙]]、[[帝龙种，蛟龙|蛟龙]]、[[帝龙种，天龙|天龙]]、[[帝龙种，君龙|君龙]]、[[帝龙种，伏藏龙|伏藏龙]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[外空龙绪论|外空龙]]</b><span class="lang-w">Dragon, Outer　《[[怪物图鉴4]]》</span></div><div class="lang-d">[[月龙]]、[[日龙]]、[[时间龙]]、[[空间龙]]、[[漩涡龙]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[位面龙绪论|位面龙]]</b><span class="lang-w">Dragon, Planar　《[[怪物图鉴6]]》</span></div><div class="lang-d">[[冥界龙]]、[[狂欢龙]]、[[炼狱龙]]、[[天界龙]]、[[深渊龙]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[原龙绪论|原龙]]</b><span class="lang-w">Dragon, Primal　《[[怪物图鉴2]]》</span></div><div class="lang-d">[[原龙，洋龙|洋龙]]、[[原龙，云龙|云龙]]、[[原龙，晶龙|晶龙]]、[[原龙，熔龙|熔龙]]、[[原龙，影龙|影龙]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[蛇龙绪论|蛇龙]]</b><span class="lang-w">Linnorm　《[[怪物图鉴3]]》</span></div><div class="lang-d">[[石冢蛇龙]]、[[峡湾蛇龙]]、[[寒林蛇龙]]、[[岩山蛇龙]]</div></div>
+</div>
+
+== 构装体 ==
+<div class="lang-grid">
+<div class="lang"><div class="lang-h"><b>[[发条生物绪论|发条生物]]</b><span class="lang-w">Clockwork　《[[怪物图鉴3]]》</span></div><div class="lang-d">[[发条巨兵]]、[[发条海兽]]、[[发条侍从]]、[[发条士兵]]、[[发条斥候]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[巨像绪论|巨像]]</b><span class="lang-w">Colossus　《[[怪物图鉴4]]》</span></div><div class="lang-d">[[肉躯巨像]]、[[钢铁巨像]]、[[石垒巨像]]、[[斯芬克斯巨像]]、[[木屋巨像]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[魔像绪论|魔像]]</b><span class="lang-w">Golem　《[[怪物图鉴]]》</span></div><div class="lang-d">[[粘土魔像]]、[[血肉魔像]]、[[冰魔像]]、[[铁魔像]]、[[石魔像]]、[[木魔像]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[机体绪论|机体]]</b><span class="lang-w">Robot　《[[怪物图鉴5]]》</span></div><div class="lang-d">[[歼灭机]]、[[齿轮人]]、[[护卫机]]、[[改造机]]</div></div>
+</div>
+
+== 魔法兽 ==
+<div class="lang-grid">
+<div class="lang"><div class="lang-h"><b>[[比蒙巨兽绪论|比蒙巨兽]]</b><span class="lang-w">Behemoth　《[[怪物图鉴3]]》</span></div><div class="lang-d">[[风暴比蒙]]、[[深海比蒙]]、[[雷霆比蒙]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[怪兽绪论|怪兽]]</b><span class="lang-w">Kaiju　《[[怪物图鉴4]]》</span></div><div class="lang-d">[[阿格拉]]、[[贝泽拉尼斯]]、[[魔加鲁]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[斯芬克斯绪论|斯芬克斯]]</b><span class="lang-w">Sphinx　《[[怪物图鉴3]]》</span></div><div class="lang-d">[[男面斯芬克斯]]、[[羊面斯芬克斯]]、[[鹰面斯芬克斯]]</div></div>
+</div>
+
+== 其他类型 ==
+<div class="lang-grid">
+<div class="lang"><div class="lang-h"><b>[[荒疫怪绪论|荒疫怪]]</b><span class="lang-w">泥形生物　Blight　《[[怪物图鉴6]]》</span></div><div class="lang-d">[[洞穴荒疫怪]]、[[沙漠荒疫怪]]、[[丛林荒疫怪]]、[[山岳荒疫怪]]、[[阴沟荒疫怪]]、[[沼泽荒疫怪]]、[[冰原荒疫怪]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[塑肉体绪论|塑肉体]]</b><span class="lang-w">异怪　Fleshwarp　《[[怪物图鉴4]]》</span></div><div class="lang-d">[[战蜥兽]]、[[胶化人]]、[[脓孢人]]、[[厄拿刻斯]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[弗米蚁族绪论|弗米蚁族]]</b><span class="lang-w">人形怪物　Formian　《[[怪物图鉴4]]》</span></div><div class="lang-d">[[弗米蚁卫]]、[[弗米蚁后]]、[[弗米监工]]、[[弗米兵蚁]]、[[弗米工蚁]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[旧日支配者绪论|旧日支配者]]</b><span class="lang-w">异怪　Great Old One　《[[怪物图鉴4]]》</span></div><div class="lang-d">[[旧日支配者，夏曼·朵|夏曼·朵]]、[[旧日支配者，玛尔|玛尔]]、[[旧日支配者，波库鲁格|波库鲁格]]、[[旧日支配者，伊塔库亚|伊塔库亚]]、[[旧日支配者，阿特拉克·纳克亚|阿特拉克·纳克亚]]、[[旧日支配者，哈斯塔|哈斯塔]]、[[旧日支配者，加塔诺托亚|加塔诺托亚]]、[[旧日支配者，撒托古亚|撒托古亚]]、[[旧日支配者，克苏鲁|克苏鲁]]、[[旧日支配者，莫尔迪基安|莫尔迪基安]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[小魔怪绪论|小魔怪]]</b><span class="lang-w">精类　Gremlin　《[[怪物图鉴2]]》</span></div><div class="lang-d">[[蹑影小魔怪]]、[[暴虐小魔怪]]、[[厄运小魔怪]]、[[蠹虫小魔怪]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[莱西绪论|莱西]]</b><span class="lang-w">植物　Leshy　《[[怪物图鉴3]]》</span></div><div class="lang-d">[[真菌莱西]]、[[葫芦莱西]]、[[叶莱西]]、[[海草莱西]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[夜影绪论|夜影]]</b><span class="lang-w">不死生物　Nightshade　《[[怪物图鉴2]]》</span></div><div class="lang-d">[[暗夜蠕虫]]、[[暗夜行者]]、[[暗夜波涛]]、[[暗夜之翼(怪物)|暗夜之翼]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[特里埃蜂族绪论|特里埃蜂族]]</b><span class="lang-w">人形怪物　Thriae　《[[怪物图鉴3]]》</span></div><div class="lang-d">[[特里埃蜂后]]、[[特里埃预言者]]、[[特里埃兵蜂]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[部队绪论|部队]]</b><span class="lang-w">类人生物　Troop　《[[怪物图鉴6]]》</span></div><div class="lang-d">[[邪教徒部队]]、[[地精部队]]、[[暴民部队]]</div></div>
+<div class="lang"><div class="lang-h"><b>[[狂猎绪论|狂猎]]</b><span class="lang-w">精类　Wild Hunt　《[[怪物图鉴6]]》</span></div><div class="lang-d">[[狂猎射手]]、[[狂猎战马]]、[[狂猎猎犬]]、[[狂猎之王]]、[[狂猎斥候]]</div></div>
+</div>
+
+[[分类:怪物绪论| ]]

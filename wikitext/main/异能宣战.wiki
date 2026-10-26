@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=异能宣战
 |english_name=Instigate psychic duel

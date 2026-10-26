@@ -2,7 +2,7 @@
 {{Feat
 |name=缠身惊骇
 |english_name=Latching Horror
-|categories=战斗
+|categories=战斗;怪物
 |pfs=否
 |description=你缠上另一个活物时，会引发对方的恐惧与厌恶。
 |prerequisites=缠身通用怪物能力。

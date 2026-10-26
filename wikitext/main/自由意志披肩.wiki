@@ -1,8 +1,10 @@
+{{PFS不可用}}
 {{魔法物品
 |name=自由意志披肩
 |english_name=Cape of Free Will
 |aon=MagicWondrousDisplay.aspx?FinalName=Cape of Free Will1/2 Will
 |cat=奇物
+|mythic=是
 |aura=中等防护系
 |cl=7
 |slot=肩部

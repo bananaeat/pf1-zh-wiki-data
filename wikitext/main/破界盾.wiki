@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=破界盾
 |english_name=Planar Invasion Shield

@@ -6,7 +6,8 @@
 |prerequisites=毒液种族特性，[[蝮血裔]]。
 |benefit=当你将毒液涂抹于武器或物体上时，你可以以一个[[迅捷动作]]将其改变为接触型毒素，持续1d4轮。以接触型存在时，你的毒液具有1分钟的潜伏期，且仍与你的唾液或血液无法区分。除此之外，你每天可以额外使用一次你的毒液[[种族特性]]。
 |normal=[[蝮血裔]]的毒液为伤口型毒素。
-|source_name=反派法典
+|source=VC
+|source_name=恶棍志
 |source_url=https://pf1chm.pages.dev/topics/zhfa2a4585c1.htm
 }}
 

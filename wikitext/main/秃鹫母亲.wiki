@@ -1,4 +1,5 @@
 {{速查导航|here=神祇}}
+{{PFS特殊|1=你在执行Mother Vulture的服从仪典不能吞食他人的血肉，只能吞食自己的。}}
 {{神祇
 |name=秃鹫母亲
 |english_name=Mother Vulture

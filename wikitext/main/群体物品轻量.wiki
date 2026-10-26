@@ -1,0 +1,17 @@
+{{Spell
+|name=群体物品轻量
+|english_name=Lighten object, mass
+|school=变化系
+|levels=奥能师 5;牧师 5;魔战士 5;先知 5;术士 5;召唤师 5;召唤师（掉链） 5;战斗祭司 5;法师 5（古拉姆）
+|action=标准动作
+|components=语言;材料 (鹅毛)
+|range=近距
+|target=总体积最多每等级1立方尺的多件物品，其中任意两件相距不得超过30尺
+|duration=10分钟/等级
+|save=意志, 通过则无效 (物体)
+|sr=可 (物体)
+|description=此法术如同[[物品轻量]]，但它能影响的物品数量等于你施法者等级的一半。
+|source=内海诸神
+}}
+
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/Spell%20ISG.html 原文]），按 AoN 核对过。</small>

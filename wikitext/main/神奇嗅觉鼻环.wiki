@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=神奇嗅觉鼻环
 |english_name=Nose Ring of Unearthly Scent

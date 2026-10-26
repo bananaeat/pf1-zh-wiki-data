@@ -398,7 +398,7 @@
 <div class="rule-def longterm"><div class="rd-t">麻痹</div><div class="rd-b">每当该军队对一支敌军造成伤害时，敌军的DV降低1点。</div></div>
 <div class="rule-def longterm"><div class="rd-t">[[石化]]</div><div class="rd-b">该能力视同“麻痹”。</div></div>
 <div class="rule-def longterm"><div class="rd-t">植物</div><div class="rd-b">该军队免疫恐惧、麻痹以及毒素。</div></div>
-<div class="rule-def longterm"><div class="rd-t">毒素抗力 (炼金术士 2)</div><div class="rd-b">若该军队受到毒素伤害，则该伤害会降低，数值为单位的毒素抗力加值的一半。</div></div>
+<div class="rule-def longterm"><div class="rd-t">毒性抗力 (炼金术士 2)</div><div class="rd-b">若该军队受到毒素伤害，则该伤害会降低，数值为单位的毒性抗力加值的一半。</div></div>
 <div class="rule-def longterm"><div class="rd-t">毒素</div><div class="rd-b">该能力视同“流血”。</div></div>
 <div class="rule-def longterm"><div class="rd-t">[[通用怪物规则#猛扑|猛扑]]</div><div class="rd-b">军队的OM增加1点。</div></div>
 <div class="rule-def longterm"><div class="rd-t">强力冲锋</div><div class="rd-b">军队的OM增加1点。</div></div>

@@ -2,7 +2,7 @@
 {{Feat
 |name=吸干血液
 |english_name=Exsanguinate
-|categories=战斗
+|categories=战斗;怪物
 |pfs=否
 |description=你以狂暴的速度吸食活物的血液，常常几秒之内就把生物吸干。
 |prerequisites=吸血通用怪物特殊能力，擒抱通用怪物特殊能力。

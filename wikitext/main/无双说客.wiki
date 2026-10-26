@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=无双说客|en=Powerful Persuader|type=Su|domain=解放领域|sub=革命子域 (Revolution)|sub_name=革命子域|source=进阶玩家指南|text=到了8级你能在交涉和威吓的时候[[自由动作]]投两次取高。此能力在8级能每天用一次，每比8级高2级多一次。此能力替换[[解放领域#自由呼声 (Freedom's Call, Su)|自由呼声]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

@@ -1,5 +1,5 @@
 {{速查导航}}
-<div class="well" style="margin:.2em 0"><small>神话版本见 [[神话枭熊]]、[[神话原初枭熊]]（《[[神话冒险]]》）。</small></div>
+<div class="well" style="margin:.2em 0"><small>神话版本见 [[神话枭熊]]、[[原初枭熊]]（《[[神话冒险]]》）。</small></div>
 {{怪物
 |name=枭熊
 |english_name=Owlbear

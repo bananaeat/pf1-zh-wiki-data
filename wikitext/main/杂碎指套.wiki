@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{装备
 |name=杂碎指套
 |english_name=Dust knuckles (4 vials)

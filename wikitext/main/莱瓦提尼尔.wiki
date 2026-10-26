@@ -1,0 +1,46 @@
+{{速查导航|here=神祇}}
+{{AI翻译|本页由 AI 照《永罪之书》（Book of the Damned）英文原书译出（民间汉化 CHM 没有），未经人工校对。符号、圣兽、圣色三项据 AoN 译出。}}
+{{PFS不可用}}
+{{神祇
+|name=莱瓦提尼尔
+|english_name=Laivatiniel
+|title=摇篮中的锁链（The Chains in the Cradle）
+|alignment=中立邪恶（NE）
+|weapon=[[轻弩]]
+|portfolio=焦虑，溺爱，不健康的亲子之爱
+|domains=[[魅惑领域|魅惑]]，[[邪恶领域(领域)|邪恶]]，[[狂乱领域|狂乱]]，[[诡术领域|诡术]]
+|subdomains=[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[诡术领域#欺骗子域 (Deception)|欺骗子域]]，[[狂乱领域#疯狂子域 (Insanity)|疯狂子域]]，[[魅惑领域#爱慕子域 (Love)|爱慕子域]]
+|symbol=缠着锁链的拨浪鼓
+|symbol_label=邪徽
+|animal=熊
+|color=黑色，棕色
+|pantheon=邪魔先驱
+|source=内海诸神、永罪之书
+}}
+
+'''莱瓦提尼尔'''（Laivatiniel）是一位[[邪魔先驱]]。
+
+== 简介 ==
+
+摇篮中的锁链莱瓦提尼尔的外形是一位面带微笑的年迈妇人，长着十几条烧焦的骷髅手臂。
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+花一小时制作并吃掉一幅详细的、你父亲或母亲的肖像。你在对抗惑控效果的豁免检定中获得+4亵渎加值。
+
+=== 神恩 ===
+
+通过[[魔族仪典]]获得，均为每日各2次的类法术能力：
+
+{{神恩|n=1|name=|en=|type=Sp|text=每日2次，你可以施展[[欲火焚身]]。}}
+
+{{神恩|n=2|name=|en=|type=Sp|text=每日2次，你可以施展[[恐惧术]]。}}
+
+{{神恩|n=3|name=|en=|type=Sp|text=每日2次，你可以施展[[强迫护卫]]。}}
+
+<small>出自《[[永罪之书]]》第114页。</small>
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Laivatiniel|2=Laivatiniel}}
+[[分类:魔神]]

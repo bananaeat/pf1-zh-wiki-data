@@ -1,7 +1,9 @@
+{{PFS不可用}}
 {{魔法物品
 |name=离断
 |english_name=Disjoining
 |cat=武器附魔
+|mythic=是
 |apply=近战
 |bonus=+1 加值
 |aura=中等死灵系

@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{装备
 |name=燃烧催化剂
 |english_name=Incendiary catalyst

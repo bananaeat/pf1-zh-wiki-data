@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=预知透镜
 |english_name=Visionary Lens

@@ -16,11 +16,11 @@
 |hp=4(1d6+1)
 |fort=+1
 |ref=+2
-|will=-1；+2对抗惑控
+|will=-1；对抗惑控时+2
 |immune=睡眠
 |speed=30尺
 |melee=匕首 -1（1d4-1/19-20）
-|tactics=<div class="ml wide"><span class="k">战斗中</span>这个平民会掏出可怜巴巴的一把铜币以求赎命。如果遭到拒绝，他会拼命挥动匕首，一边高声呼救。</div>
+|tactics=<div class="ml wide"><span class="k">战斗中</span>平民会掏出可怜巴巴的一把铜币，求对方饶他一命。若遭到拒绝，他就一边高声呼救，一边挥舞匕首乱砍。</div>
 |str=8
 |dex=14
 |con=13
@@ -34,12 +34,12 @@
 |skills=[[唬骗]]+4;[[易容]]+2;[[察觉]]+5;[[表演]]（吹奏）
 |languages=通用语;精灵语
 |sq=精灵血统
-|gear=匕首;易容工具;木笛;203gp
+|gear=匕首;化装工具包;木笛;203gp
 |source=NPC志
 |family=NPC职业（NPC志）
 |npc=1
 |lore=
-一个乞丐过着艰难的日子。他或许会在乞讨时表现得很诚实，或者他也会假装成别的样子——比如被毁容的可怜人，或者一个战争英雄——来博取同情。
+乞丐的日子过得很艰难。他乞讨时也许老老实实，也许会假扮成别的模样——例如毁了容的人或战争英雄——来博取同情。
 }}
 
-本页译自《[[NPC志]]》的怪物图鉴 CHM。
+本页译自《[[NPC志]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=62502.msg581237#msg581237 【NPCC】NPC职业：平民（Commoner）]，原译者：狗熊有敌；沉沦校对润饰）。

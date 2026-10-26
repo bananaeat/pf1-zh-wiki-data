@@ -1,3 +1,4 @@
+{{PFS特殊|1=仅限地精PC合法。|ai=1}}
 {{装备
 |name=飞行坐骑束具
 |english_name=Flying straps (masterwork)

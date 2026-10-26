@@ -1,6 +1,5 @@
 {{速查导航}}
 {{消歧义|隐士}}
-{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
 {{怪物
 |name=隐士
 |english_name=Hermit
@@ -13,16 +12,16 @@
 |subtypes=人类
 |init=+0
 |senses=察觉+3
-|ac=13，接触 11，措手不及 13（+1偏斜，+2天生护甲）
+|ac=13，接触 11，措手不及 13（+1偏斜，+2天生）
 |hp=38（7d6+14）
 |fort=+6
 |ref=+3
 |will=+9
 |speed=30尺
-|melee=长棍 +2（1d6–1）
+|melee=木棍 +2（1d6–1）
 |ranged=投石索 +3（1d4–1）
 |spells=已准备导师法术（施法者等级7，专注+10）；2级—[[迷惑动物]]（DC 15），[[隐形术]]，[[蛛网术]]（DC 15）；1级—[[惊恐术]]（DC 14），[[治疗轻伤]]，[[忍受环境]]，[[隐雾术]]；0级（随意）—[[光亮术]]，[[修复术]]，[[净化食粮]]
-|tactics=<div class="ml wide"><span class="k">战斗前</span>导师每天开始时施展忍受环境。预计会有战斗时，他会喝下树肤术药水。</div><div class="ml wide"><span class="k">战斗中</span>导师施展蛛网术，然后用投石索向任何暴露的敌人投出电击弹丸，同时口中不停咒骂。</div><div class="ml wide"><span class="k">基础数据</span>没有树肤术时，导师的数据为：AC 11，接触 11，措手不及 11。</div>
+|tactics=<div class="ml wide"><span class="k">战斗前</span>导师每天一早就施放忍受环境。预料会有战斗时，他会喝下树肤术药水。</div><div class="ml wide"><span class="k">战斗中</span>导师施放蛛网术，然后用投石索朝任何没有掩护的敌人掷出电击弹丸，嘴里一直骂着恶毒的脏话。</div><div class="ml wide"><span class="k">基础数据</span>未受树肤术影响时，导师的数值为 AC 11，接触 11，措手不及 11。</div>
 |str=9
 |dex=10
 |con=12
@@ -37,12 +36,14 @@
 |languages=通用语
 |sq=召唤魔宠（猫）
 |combat_gear=树肤术药水;通晓语言卷轴;治疗中伤卷轴（2）;+1电击投石索弹丸（6）
-|gear=匕首;长棍;投石索与10颗弹丸;抗力披风+1;防护戒指+1;法术材料包;木质圣徽;21gp
+|gear=匕首;木棍;投石索和10发弹丸;抗力披风+1;防护戒指+1;法术材料包;木质圣徽;21gp
 |source=NPC志
 |family=NPC职业（NPC志）
 |npc=1
 |lore=
-这个肮脏、没教养的隐士只想被人放过。他知道许多被别人遗忘的秘密，但谁敢来打听就和谁拼命。
+这名隐士邋遢肮脏、举止粗鲁，只求别人别来烦他。他知道许多早已被世人遗忘的秘密，但谁敢来打听，他就跟谁拼命。
 }}
 
+
+本页译自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=130024.msg1460426#msg1460426 【NPCC】NPC职业：导师（Adept）]（原译者：dr.fate；沉沦校对润饰）。
 {{AoN原文|1=NPCDisplay.aspx?ItemName=Hermit|2=Hermit}}

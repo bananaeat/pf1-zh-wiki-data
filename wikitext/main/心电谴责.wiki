@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=心电谴责
 |english_name=Telepathic censure

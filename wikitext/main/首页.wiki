@@ -33,8 +33,8 @@ break=no
 <div class="mpa-d" style="--pc:#6b6b6b"><div class="mpa-dh"><span class="mpi mpi-规则"></span>[[规则|规则]]<span class="mpa-n">{{#expr:{{PAGESINCATEGORY:核心规则|pages|R}}+{{PAGESINCATEGORY:扩展规则|pages|R}}+{{PAGESINCATEGORY:种族规则|pages|R}}}}</span></div></div>
 </div>
 <div class="mpa-often"><span class="mpa-often-k">桌边速查</span>[[状态]][[战斗中的动作]][[特殊攻击|擒抱与战技]][[战斗修正]][[伤害和死亡]][[常用数据]][[术语对照表]]</div>
-<div class="mpa-often mpa-solo"><span class="mpa-often-k">独门入口</span>[[创造角色]][[生物模板一览|生物模板]][[通用怪物规则]][[超魔专长速查|超魔专长]][[魔宠速查|魔宠]][[动物伙伴速查|动物伙伴]][[幻灵进化速查|幻灵进化]][[盗贼天赋速查|盗贼天赋]][[仪式速查|仪式]][[领域]][[官方FAQ]]</div>
-<div class="mpa-often"><span class="mpa-often-k">工具</span>[[宝藏生成器/在线生成|宝藏生成器]][[高阶宝藏生成器]]</div>
+<div class="mpa-often mpa-solo"><span class="mpa-often-k">独门入口</span>[[创造角色]][[生物模板一览|生物模板]][[怪物绪论一览|怪物绪论]][[通用怪物规则]][[水中战斗]][[骑乘战斗(规则)|骑乘战斗]][[飞行规则]][[造物规则一览|造物规则]][[物品破坏与修复|物品破坏]][[超魔专长速查|超魔专长]][[魔宠速查|魔宠]][[动物伙伴速查|动物伙伴]][[幻灵进化速查|幻灵进化]][[盗贼天赋速查|盗贼天赋]][[仪式速查|仪式]][[领域]][[官方FAQ]]</div>
+<div class="mpa-often"><span class="mpa-often-k">工具</span>[[车卡器]][[宝藏生成器/在线生成|宝藏生成器]][[高阶宝藏生成器]][[魔法商店生成器]][[遭遇生成器]][[地城生成器]][[实验性地城生成器]][[法术书生成器]][[角色背景生成器/在线生成|背景生成器]][[天气生成器]][[定居点生成器]][[陷阱设计器]]</div>
 <div class="mpa-today">
 <div class="mpa-box mpa-daily">
 <div class="mpa-bh">今日怪物</div>
@@ -55,17 +55,12 @@ break=no
 <div class="mpa-bh">最近更新</div>
 {{首页/最近更新}}
 </div>
-<div class="mpa-box mpa-todo">
-<div class="mpa-bh">[[待办事项|待办]]<span>看到要改的？{{#invoke:待办|add|文字=＋ 加一条|小=1}}</span></div>
-{{#invoke:待办|rail}}
+<div class="mpa-box mpa-cgbox">
+<div class="mpa-bh">车卡器</div>
+<div class="mpa-cg"><div class="mpa-cg-t">[[车卡器]]<span class="mpa-cg-tag">实验</span></div><div class="mpa-cg-who"></div><div class="mpa-cg-sheet"><i>力量<b>—</b></i><i>敏捷<b>—</b></i><i>体质<b>—</b></i><i>智力<b>—</b></i><i>感知<b>—</b></i><i>魅力<b>—</b></i></div><div class="mpa-cg-row"><span class="pri">[[车卡器#new|新建角色]]</span><span>[[车卡器#sample|示例角色]]</span><span>[[车卡器#import|导入]]</span></div></div>
 </div>
 </div>
 </div>
 {{首页/书架}}
-<div class="mpa-join">
-<div class="mpa-join-t">一起来编</div>
-<div>欢迎来到开拓者1版中文维基！如果有意编辑，有意纠错，或者有意吹水，请加入我们的维基建设qq群：'''667618802'''！本站还在施工。</div>
-<div class="mpa-join-l">[[帮助:编辑指南|编辑指南]][[帮助:格式约定|格式约定]][[Special:最近更改|最近更改]][[Special:随机页面|随机页面]]</div>
-<div class="mpa-join-n">2026年9月更新：因为AI大人的帮助，维基编辑工作重新开始了。</div>
-</div>
+<div class="mpa-join">反馈群：'''667618802'''</div>
 </div>

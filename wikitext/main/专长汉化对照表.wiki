@@ -790,7 +790,7 @@
 |-
 | 已汉化 || [https://aonprd.com/FeatDisplay.aspx?ItemName=Cavalry%20Formation Cavalry Formation] || [[骑兵阵列]] || Teamwork || Mounted Combat
 |-
-| 已汉化 || [https://aonprd.com/FeatDisplay.aspx?ItemName=Cecaelia%20Focus%20Tattoo Cecaelia Focus Tattoo] || [[塞卡利亚专注纹]] || — || Cecaelia
+| 已汉化 || [https://aonprd.com/FeatDisplay.aspx?ItemName=Cecaelia%20Focus%20Tattoo Cecaelia Focus Tattoo] || [[赛卡利亚专注纹]] || — || Cecaelia
 |-
 | 已汉化 || [https://aonprd.com/FeatDisplay.aspx?ItemName=Celestial%20Guidance Celestial Guidance] || [[天体指引]] || — || —
 |-
@@ -5394,7 +5394,7 @@
 |-
 | 已汉化 || [https://aonprd.com/FeatDisplay.aspx?ItemName=Shocking%20Amplification Shocking Amplification] || [[冲击扩增]] || — || —
 |-
-| 已汉化 || [https://aonprd.com/FeatDisplay.aspx?ItemName=Shocking%20Bellow Shocking Bellow] || [[惊骇咆哮]] || — || Intimidating Prowess
+| 已汉化 || [https://aonprd.com/FeatDisplay.aspx?ItemName=Shocking%20Bellow Shocking Bellow] || [[震耳吼叫]] || — || Intimidating Prowess
 |-
 | 已汉化 || [https://aonprd.com/FeatDisplay.aspx?ItemName=Shoki%27s%20Argument Shoki's Argument] || [[舒奇之辩]] || — || Ability to cast disrupt undead, character level 3rd, duskwalker
 |-

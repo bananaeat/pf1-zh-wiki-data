@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=退却指环
 |english_name=Ring of Retreat

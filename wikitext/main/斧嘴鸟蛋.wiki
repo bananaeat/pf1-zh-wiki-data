@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{装备
 |name=斧嘴鸟蛋
 |english_name=Axe beak egg

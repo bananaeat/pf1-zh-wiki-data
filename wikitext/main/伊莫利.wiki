@@ -1,4 +1,5 @@
 {{速查导航|here=神祇}}
+<noinclude>{{消歧义|元素领主，伊莫利}}</noinclude>
 <div class="well" style="margin:.2em 0"><small>'''这一页只有数据栏，没有正文。'''民间汉化的合集里没有这一位的条目；中文名照 [[弗洛厄斯]] 正文里的「烈火女士伊莫利」。正文见 [https://aonprd.com/DeityDisplay.aspx?ItemName=Ymeri AoN 原文]。认领整理见 [[待办事项]]。</small></div>
 {{神祇
 |name=伊莫利

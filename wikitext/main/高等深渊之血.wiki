@@ -4,6 +4,6 @@
 |type=Su
 |categories=血脉
 |prerequisites=[[野蛮人]]10级，[[深渊之血]]
-|benefit=每当野蛮人进入狂暴状态，他获得5点酸蚀，寒冷和火焰抗力。
+|benefit=狂暴时，他获得5点酸蚀，寒冷和火焰抗力。
 |source_name=进阶职业指南
 }}

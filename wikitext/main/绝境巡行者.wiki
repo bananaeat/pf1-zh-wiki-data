@@ -1,3 +1,4 @@
+{{PFS特殊|1=仅限猫族（Catfolk）角色可用。|ai=1}}
 {{Source|野兽血脉|Blood of the Beast}}
 
 '''绝境巡行者'''（Prowler at World's End）是[[血脉狂怒者]]的[[变体职业]]。

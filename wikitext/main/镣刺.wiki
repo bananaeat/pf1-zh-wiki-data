@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{装备
 |name=镣刺
 |english_name=Manacle barbs

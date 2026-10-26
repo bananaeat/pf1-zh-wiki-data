@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=万象无常牌
 |english_name=Deck of Many Things

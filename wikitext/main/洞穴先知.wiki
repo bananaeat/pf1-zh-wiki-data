@@ -1,8 +1,8 @@
+{{PFS特殊|1=洞穴先知（Prophet of Burrows）背景特性的效果适用于日常工作检定。|ai=1}}
 {{Trait
 |name=洞穴先知
 |english_name=Prophet of Burrows
 |type=地区
-|pfs=否
 |prerequisites=杜鲁玛的本地鼠人(Ratfolk native to Druma)
 |description=也许你不是[[卡利斯拉德预言]]的践行者，但是你比大多数鼠人更加珍视人类货币并且将卡利斯拉德的商业习惯铭记于心。每当你做出一个技能检定来赚钱时，你赚到的钱提高5%。
 |source=BotB

@@ -1,6 +1,6 @@
 <div class="well" style="margin:.2em 0"><small>这是专长 [[重击熟稔]] 的神话版本。</small></div>
 {{Feat
-|name=重击大师
+|name=重击熟稔
 |english_name=Critical Mastery
 |categories=神话
 |description=你的重击极具毁灭性。

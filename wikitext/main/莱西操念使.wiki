@@ -1,3 +1,4 @@
+{{PFS特殊|1=仅限藤蔓莱西（Vine Leshy）PC可用。|ai=1}}
 {{Source|极限荒野|Ultimate Wilderness}}
 
 '''莱西操念使'''（Leshykineticist）是[[藤蔓莱西]]等具有莱西亚种的角色专属的[[操念使]][[变体职业]]。

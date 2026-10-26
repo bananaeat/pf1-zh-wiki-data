@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=马克沁M1910重机枪
 |english_name=Maxim M1910 machine gun

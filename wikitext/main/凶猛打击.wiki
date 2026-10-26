@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=凶猛打击|en=Ferocious Strike|type=Su|domain=力量领域|sub=凶猛子域 (Ferocity)|sub_name=凶猛子域|source=进阶玩家指南|text=当进行一次近战攻击时，你可以宣布它成为一次凶猛打击。如果命中，将造成等于牧师等级一半的额外伤害（最少为1），每天“3+[[感知]]调整值”次。此能力替换[[力量领域#力量满溢 (Strength Surge, Sp)|力量满溢]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

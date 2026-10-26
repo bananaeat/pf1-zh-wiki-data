@@ -1,7 +1,9 @@
+{{PFS不可用}}
 {{魔法物品
 |name=心火之剑
 |english_name=Sword of Inner Fire
 |cat=特殊魔法武器
+|mythic=是
 |base=[[长剑]]
 |enh=+1 焰爆 光能
 |aura=强烈变化系［火］

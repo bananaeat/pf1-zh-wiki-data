@@ -1,6 +1,7 @@
 {{Trait
 |name=拆解秩序
 |english_name=Dismantle Order
+|pfs=否
 |type=社会
 |prerequisites=[[骑士准则、骑士团、骑士家族#革命（Revolution）|革命准则]]
 |description=若你遵守该准则，你对无拘无束的自由社会的理解能让你轻松的找到秩序的支持者。每天一次，你可以使用[[侦测秩序]]作为你的类法术能力（CL为1），如果你拥有可以施放侦测秩序的职业等级，则你施放该类法术能力的施法者等级与该职业等级相等。

@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=耳语者安全盒
 |english_name=Whisper Safe

@@ -1,4 +1,5 @@
 {{异能者导航}}
+{{PFS特殊|1=将8级的额外法术梦境远航（Dream Voyage）替换为爱与和平（Euphoric Tranquility）。}}
 {{Class
 |name=异能者
 |english_name=Psychic

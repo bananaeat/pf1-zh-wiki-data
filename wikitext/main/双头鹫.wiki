@@ -61,7 +61,7 @@
 |dex=15
 |con=14
 |int=2
-|wis=15
+|wis=13
 |cha=11
 |bab=+5
 |cmb=+8

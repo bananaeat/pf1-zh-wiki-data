@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=深渊害虫
 |english_name=Abyssal vermin

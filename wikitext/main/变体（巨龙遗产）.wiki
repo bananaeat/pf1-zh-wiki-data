@@ -70,7 +70,7 @@
 
 '''[[龙类抗力]] Draconic Resistances (Ex)：2级时，龙血炼金师对抗麻痹，睡眠效果的豁免检定中获得+2加值。这个加值在6级提升到+4，在10级提升到+6。在10级，龙血炼金师免疫麻痹和睡眠效果。'''
 
-此能力取代毒素抗力（Poison Resistance, Ex），用毒（Poison Use, Ex）和[[迅捷上毒]]（Swift Poisoning, Ex）。
+此能力取代毒性抗力（Poison Resistance, Ex），用毒（Poison Use, Ex）和[[迅捷上毒]]（Swift Poisoning, Ex）。
 
 == 从龙士（Mindwyrm Mesmer）【催眠师】 ==
 

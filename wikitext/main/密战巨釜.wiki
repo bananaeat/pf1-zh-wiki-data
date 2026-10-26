@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=密战巨釜
 |english_name=Ambush Cauldron

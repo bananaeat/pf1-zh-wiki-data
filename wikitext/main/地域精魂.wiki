@@ -205,6 +205,16 @@
 
 {{AI翻译|nocat=1|本节由 AI 照 AoN 英文译出，未经人工校对。}}
 
+== 新的祟鬼 ==
+
+以下作祟运用了本书的许多新作祟规则和异能魔法效果。<!--AI补译：原书 New Haunts 导语-->
+
+* [[吵闹鬼]]（Rapping Spirit，CR 1）
+* [[欲壑难填的亡者]]（Demanding Dead，CR 3）
+* [[幽魂虫鼠]]（Spectral Vermin，CR 5）
+* [[恶毒武器]]（Malignant Weapon，CR 7）
+* [[诡诈附身]]（Insidious Presence，CR 9）
+
 本页译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/zh2364ebe478.htm 原文]）。全部[[扩展规则]]见 [[扩展规则]]。
 
 {{AoN原文|2108|Occult Locations}}

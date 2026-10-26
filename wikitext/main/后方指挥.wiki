@@ -1,9 +1,9 @@
 {{AI翻译|本页由 AI 照 AoN 英文原文译出（Goblins of Golarion pg. 24），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{PFS特殊|1=只有合法的地精PC才能从本书中选择任何内容。|ai=1}}
 {{Feat
 |name=后方指挥
 |english_name=Lead from the Back
 |categories=战斗
-|pfs=否
 |description=你的盟友太过依赖你的领导和鼓舞，你根本不该亲身涉险。
 |prerequisites=地精，[[威吓]]1级。
 |benefit=在任何一轮中，只要你对至少一名对手获得掩体或隐蔽的好处，并且没有任何对手威胁你，你就可以用一个标准动作向盟友们高声下令并鼓舞士气。这样做会使你30尺内的所有盟友在1轮内所有武器伤害检定上获得+1加值。

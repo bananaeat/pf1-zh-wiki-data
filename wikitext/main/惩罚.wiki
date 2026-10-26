@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=惩罚|en=Chastisement|type=Su|domain=秩序领域|sub=审判子域 (Judgment)|sub_name=审判子域|source=内海诸神|text=以一个标准动作，你能对一个在前一轮伤害过你的生物施展强化过的法术。这法术视为其施法者等级+1。该法术必须针对伤害你的敌人，范围法术无法适用，但其他以多个生物为目标的法术可以。你每天使用该能力的次数等于“3+[[感知]]调整值”。此能力取代[[秩序领域#秩序之触 (Touch of Law, Sp)|秩序之触]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

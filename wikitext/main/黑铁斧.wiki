@@ -1,8 +1,10 @@
+{{PFS不可用}}
 {{魔法物品
 |name=黑铁斧
 |english_name=Black Iron Axe
 |aon=MagicArtifactsDisplay.aspx?ItemName=Black Iron Axe
 |cat=神器
+|mythic=是
 |tier=次级神器
 |base=[[巨斧]]
 |enh=+6 锐锋 斩首

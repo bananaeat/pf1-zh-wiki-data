@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=Abenatrex之眼
 |english_name=Eye of Abenatrex

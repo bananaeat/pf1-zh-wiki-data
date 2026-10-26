@@ -1,0 +1,46 @@
+{{速查导航|here=神祇}}
+{{AI翻译|本页由 AI 照《永罪之书》（Book of the Damned）英文原书译出（民间汉化 CHM 没有），未经人工校对。符号、圣兽、圣色三项据 AoN 译出。}}
+{{PFS不可用}}
+{{神祇
+|name=西克斯隆
+|english_name=Cixyron
+|title=震怒雷霆（The Furious Thunder）
+|alignment=中立邪恶（NE）
+|weapon=[[滑膛枪]]
+|portfolio=电力，火药，有毒金属
+|domains=[[手艺领域|手艺]]，[[土领域|土]]，[[邪恶领域(领域)|邪恶]]，[[知识领域|知识]]
+|subdomains=[[手艺领域#构装子域 (Construct)|构装子域]]，[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[土领域#铁子域 (Metal)|铁子域]]，[[手艺领域#疲累子域 (Toil)|疲累子域]]
+|symbol=电光爆裂
+|symbol_label=邪徽
+|animal=蚂蚁
+|color=红色，黄色
+|pantheon=邪魔先驱
+|source=内海诸神、永罪之书
+}}
+
+'''西克斯隆'''（Cixyron）是一位[[邪魔先驱]]。
+
+== 简介 ==
+
+震怒雷霆西克斯隆的外形是一具金属质地、长着渡鸦头的骷髅，浑身噼啪迸射电火花。
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+在夜间于山丘顶上祈祷，最好是在雷暴期间。你在对抗闪电效果的豁免检定中获得+4亵渎加值。
+
+=== 神恩 ===
+
+通过[[魔族仪典]]获得，均为每日各2次的类法术能力：
+
+{{神恩|n=1|name=|en=|type=Sp|text=每日2次，你可以施展[[雷鸣枪击]]。}}
+
+{{神恩|n=2|name=|en=|type=Sp|text=每日2次，你可以施展[[球形闪电]]。}}
+
+{{神恩|n=3|name=|en=|type=Sp|text=每日2次，你可以施展[[连环闪电]]。}}
+
+<small>出自《[[永罪之书]]》第112页。</small>
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Cixyron|2=Cixyron}}
+[[分类:魔神]]

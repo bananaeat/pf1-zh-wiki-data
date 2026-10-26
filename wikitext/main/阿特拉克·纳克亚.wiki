@@ -1,4 +1,6 @@
 {{速查导航|here=神祇}}
+<noinclude>{{消歧义|旧日支配者，阿特拉克·纳克亚}}</noinclude>
+{{PFS不可用}}
 {{神祇
 |name=阿特拉克·纳克亚
 |english_name=Atlach-Nacha

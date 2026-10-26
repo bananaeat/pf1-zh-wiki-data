@@ -1,8 +1,10 @@
+{{PFS不可用}}
 {{魔法物品
 |name=迷诱魔爪
 |english_name=Glabrezu Claw
 |aon=MagicArtifactsDisplay.aspx?ItemName=Glabrezu Claw
 |cat=神器
+|mythic=是
 |tier=次级神器
 |aura=强烈（不定）［邪恶］
 |cl=20

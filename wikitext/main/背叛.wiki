@@ -1,4 +1,5 @@
 {{消歧义|背叛(作祟)}}
+{{PFS不可用}}
 {{物品
 |name=背叛
 |english_name=The Betrayal

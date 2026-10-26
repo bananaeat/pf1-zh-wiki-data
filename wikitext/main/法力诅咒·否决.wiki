@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=法力诅咒·否决
 |english_name=Curse of magic negation

@@ -1,0 +1,12 @@
+{{AI翻译|本页由 AI 照 AoN 英文原文译出（Monster Codex pg. 20），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=震耳吼叫
+|english_name=Shocking Bellow
+|categories=战斗
+|description=你可以用一声突如其来的凶猛嘶吼来挫败敌人的士气。
+|prerequisites=[[威逼]]。
+|benefit=如果你在遭遇战的突袭轮中行动，可以以一个自由动作，对30尺内能清楚看见或听见你的一个生物进行一次[[威吓]]检定来挫志。
+|source=MC
+|source_name=怪物志
+|source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Shocking%20Bellow
+}}

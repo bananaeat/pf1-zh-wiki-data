@@ -1,0 +1,4 @@
+<div class="class-nav book-nav"><span class="pill">'''[[位面旅者手册]]'''</span><span class="pill">[[位面旅者手册/导言|导言]]</span><span class="pill">[[位面旅者手册/位面旅行者|位面旅行者]]</span><span class="pill">[[位面旅者手册/位面旅行装备|位面旅行装备]]</span><span class="pill">[[位面旅者手册/位面旅行魔法|位面旅行魔法]]</span><span class="pill">[[位面旅者手册/秩裔|秩裔]]</span><span class="pill">[[位面旅者手册/暮行者|暮行者]]</span><span class="pill">[[位面旅者手册/熵裔|熵裔]]</span><span class="pill">[[位面旅者手册/位面后裔|位面后裔]]</span><span class="pill">[[位面旅者手册/位面盟友|位面盟友]]</span><span class="pill">[[位面旅者手册/半位面|半位面]]</span></div><noinclude>
+《[[位面旅者手册]]》章页顶上的导航（当前章标实心）。由 <code>build/phh_book/push.py</code> 生成。
+[[分类:导航模板]]
+</noinclude>

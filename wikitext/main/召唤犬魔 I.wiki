@@ -1,0 +1,18 @@
+{{PFS不可用}}
+{{Spell
+|name=召唤犬魔 I
+|english_name=Summon Barghest I
+|school=咒法系 (召唤)
+|tags=邪恶
+|levels=牧师 4;先知 4;战斗祭司 4
+|action=1轮
+|components=语言;姿势;圣徽
+|range=近距
+|effect=一只召唤的犬魔
+|duration=1轮/等级 (可解消)
+|save=无
+|sr=否
+|description=此法术从深渊国度巴塞法斯特召唤一只[[犬魔]]为施法者服务，其作用类似于[[召唤怪物 I|召唤怪物]]，但只能用于召唤单独一只犬魔。虽然召唤出的犬魔没有啃食能力，但若你的施法者等级至少为9级，召唤出的犬魔会带着2个成长点数出现（并因此在攻击、CMB、豁免、技能检定、生命值和施法者等级上获得相应的加值）。
+|source=探索者漫画10
+}}
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/Pathfinder_Comics_10.htm 原文]），按 AoN 核对过。</small>

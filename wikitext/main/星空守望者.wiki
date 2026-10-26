@@ -1,3 +1,4 @@
+{{PFS特殊|1=Horoscopic scrolls天赋的效果是使Star Watcher从卷轴中施展的任何法术DC提高1，而非原本的获得“抄录卷轴”专长。}}
 {{Source|极限荒野|Ultimate Wilderness}}
 
 '''星空守望者'''（Star Watcher）是[[调查员]]的[[变体职业]]。

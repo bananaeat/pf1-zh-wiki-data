@@ -1,3 +1,4 @@
+{{PFS特殊|1=圣职人员（Clergy Member）[[背景特性]]每个战役场景可用一次（而非每周一次）。}}
 {{Trait
 |name=神职人员
 |english_name=Clergy Member

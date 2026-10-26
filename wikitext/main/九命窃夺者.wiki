@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=九命窃夺者
 |english_name=Nine Lives Stealer

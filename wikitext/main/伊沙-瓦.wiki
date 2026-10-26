@@ -1,4 +1,5 @@
 {{速查导航|here=神祇}}
+<noinclude>{{消歧义|至高天领主，伊沙-瓦}}</noinclude>
 {{神祇
 |name=伊沙-瓦
 |english_name=Ashava

@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=Naraga之角
 |english_name=Horns of Naraga

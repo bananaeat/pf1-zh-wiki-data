@@ -1,7 +1,9 @@
+{{PFS不可用}}
 {{魔法物品
 |name=影触
 |english_name=Shadow's Touch
 |cat=特殊魔法武器
+|mythic=是
 |base=匕首
 |enh=+2 锐锋
 |aura=强烈幻术系

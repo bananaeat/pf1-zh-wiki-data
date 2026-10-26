@@ -209,7 +209,7 @@
 |cmb=+0
 |cmd=9（13 对抗摔绊）
 |feats=[[武器娴熟]]
-|skills=[[攀爬]] +7;[[巧手|手上功夫]] +3
+|skills=[[攀爬]] +10;[[巧手|手上功夫]] +3
 |environment=温带森林
 |organization=单独或成群（2–4）
 |treasure=无

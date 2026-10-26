@@ -1,0 +1,46 @@
+{{速查导航|here=神祇}}
+{{AI翻译|本页由 AI 照《永罪之书》（Book of the Damned）英文原书译出（民间汉化 CHM 没有），未经人工校对。符号、圣兽、圣色三项据 AoN 译出。}}
+{{PFS不可用}}
+{{神祇
+|name=埃斯杜拉斯
+|english_name=Aesdurath
+|title=苍白寡妇（The Pale Dowager）
+|alignment=中立邪恶（NE）
+|weapon=[[匕首]]
+|portfolio=不朽，巫妖，魔法灾变
+|domains=[[死亡领域|死亡]]，[[邪恶领域(领域)|邪恶]]，[[魔法领域|魔法]]，[[诡术领域|诡术]]
+|subdomains=[[魔法领域#奥秘子域 (Arcane)|奥秘子域]]，[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[魔法领域#神力子域 (Divine)|神力子域]]，[[死亡领域#亡灵子域 (Undead)|亡灵子域]]
+|symbol=水晶骷髅
+|symbol_label=邪徽
+|animal=乌鸦
+|color=水晶色，白色
+|pantheon=邪魔先驱
+|source=内海诸神、永罪之书
+}}
+
+'''埃斯杜拉斯'''（Aesdurath）是一位[[邪魔先驱]]。
+
+== 简介 ==
+
+苍白寡妇埃斯杜拉斯是一个憔悴、近乎骷髅的身影，周身不断自发浮现出咬痕。
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+吞食一部分被魔法杀死的生物。你在对抗死亡效果的豁免检定中获得+4亵渎加值。
+
+=== 神恩 ===
+
+通过[[魔族仪典]]获得，均为每日各2次的类法术能力：
+
+{{神恩|n=1|name=|en=|type=Sp|text=每日2次，你可以施展[[死亡丧钟]]。}}
+
+{{神恩|n=2|name=|en=|type=Sp|text=每日2次，你可以施展[[操纵死尸]]。}}
+
+{{神恩|n=3|name=|en=|type=Sp|text=每日2次，你可以施展[[死亡法阵]]。}}
+
+<small>出自《[[永罪之书]]》第112页。</small>
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Aesdurath|2=Aesdurath}}
+[[分类:魔神]]

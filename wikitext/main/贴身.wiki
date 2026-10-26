@@ -1,3 +1,4 @@
+{{PFS特殊|1=关于贴身护甲特殊能力的澄清，见组织游戏常见问题（Organized Play FAQ）。|ai=1}}
 {{魔法物品
 |name=贴身
 |english_name=Fitting

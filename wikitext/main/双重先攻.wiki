@@ -4,7 +4,7 @@
 </noinclude><includeonly><div class="lang"><span id="双重先攻"></span><div class="lang-h"><b>[[双重先攻]]</b><i>Dual Initiative</i><span class="lang-w">Ex · 神话 · 先攻</span></div><div class="lang-d"></includeonly>
 怪物每轮会获得两个回合，一次按照其先攻进行计算，另一次为先攻结果 –20。例如：如果怪物的先攻为 23，那么它的第一回合能够在轮到先攻 23 的时候行动，并作出一次[[全力攻击]]（外加一次五尺快步），之后会在轮到先攻为 3 的时候行动并进行第二回合的动作，它可以进行一次[[移动动作]]然后施放一个法术。这使得怪物能够在每轮内进行两次通常为花费整个回合的行动，比如使用[[召唤怪物]]法术。在判断持续时间为 1 轮或更长时间、在 1 轮的起始或者生物的回合开始时触发的法术或效果带来的作用时（比如对抗持续性效果的豁免检定或者受到[[流血伤害]]），只有每轮内该名怪物的第一个回合为这些持续时间进行计数。
 
-'''格式'''：21（译注：AoN 原文作「21」，CHM 作「+21/+1」，疑为笔误，应为 +21/+1。）
+'''格式'''：+21/+1
 <includeonly></div></div></includeonly><noinclude>
 
 {{AoN原文|1=UMR.aspx?ItemName=Dual Initiative|2=Dual Initiative}}

@@ -18,7 +18,14 @@ function p.main(frame)
 		spells = '<div class="tg-spells" style="display:none">'
 			.. mw.text.encode(require('Module:宝藏生成器/法术'), "<>&\"'%[%]{}|") .. '</div>'
 	end
-	return '<div class="tg-app"' .. (adv and ' data-mode="adv"' or '') .. '>' .. fallback .. '<div class="tg-data" style="display:none">'
+	-- {{#invoke:宝藏生成器|main|mode=shop}}：[[魔法商店生成器]]（2026-10-14），同一份数据，脚本画商店界面
+	local mode = (frame.args.mode == 'adv' or frame.args.mode == 'shop') and frame.args.mode or nil
+	if mode == 'shop' then
+		fallback = '<div class="tg-fallback">生成器需要浏览器开启 JavaScript。手动掷骰用的表：[[定居点]]（定居点属性和求购魔法物品）、'
+			.. '[[宝藏生成器/随机护甲、武器与药水]]、[[宝藏生成器/随机卷轴]]、[[宝藏生成器/随机魔杖]]、[[宝藏生成器/随机魔法防具与武器]]、'
+			.. '[[宝藏生成器/随机戒指、权杖与法杖]]、[[宝藏生成器/随机奇物]]。</div>'
+	end
+	return '<div class="tg-app"' .. (mode and (' data-mode="' .. mode .. '"') or '') .. '>' .. fallback .. '<div class="tg-data" style="display:none">'
 		.. mw.text.encode(data, "<>&\"'%[%]{}|") .. '</div>' .. spells .. '</div>'
 end
 

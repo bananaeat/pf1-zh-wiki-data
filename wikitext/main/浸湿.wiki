@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=浸湿
 |english_name=Drench

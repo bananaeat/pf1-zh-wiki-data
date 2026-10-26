@@ -1,9 +1,9 @@
 {{AI翻译|本页由 AI 照 AoN 英文原文译出（Goblins of Golarion pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{PFS特殊|1=只有合法的地精PC才能从本书中选择任何内容。|ai=1}}
 {{Trait
 |name=水中扑腾
 |english_name=Flounderer
 |type=宗教
-|pfs=否
 |prerequisites=地精、佐格穆戈特
 |description=你擅长游泳和屏息。你的[[游泳]]检定获得+1背景加值，并且在你面临溺水危险之前，你能屏息的轮数等于你体质值的三倍。
 |source_name=格拉利昂的地精

@@ -4,7 +4,7 @@
 |english_name=Goblin Vulture Pilot
 |cr=3
 |xp=800
-|classline=地精炼金术士（爆击飞行士变体）4
+|classline=地精炼金术士（空袭掠夺者变体）4
 |alignment=中立邪恶
 |size=小型
 |type=类人生物

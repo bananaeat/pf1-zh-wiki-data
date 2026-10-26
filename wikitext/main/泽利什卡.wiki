@@ -1,0 +1,47 @@
+{{速查导航|here=神祇}}
+{{AI翻译|本页由 AI 照《永罪之书》（Book of the Damned）英文原书译出（民间汉化 CHM 没有），未经人工校对。符号、圣兽、圣色三项据 AoN 译出。}}
+<noinclude>{{消歧义|苦涩凶焰泽利什卡}}</noinclude>
+{{PFS不可用}}
+{{神祇
+|name=泽利什卡
+|english_name=Zelishkar
+|title=苦涩凶焰（The Bitter Flame）
+|alignment=中立邪恶（NE）
+|weapon=[[刺叉]]
+|portfolio=纵火，活活烧死，火葬
+|domains=[[动物领域|动物]]，[[邪恶领域(领域)|邪恶]]，[[火领域|火]]，[[战争领域|战争]]
+|subdomains=[[火领域#纵火子域 (Arson)|纵火子域]]，[[火领域#灰烬子域 (Ash)|灰烬子域]]，[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[战争领域#战术子域 (Tactics)|战术子域]]
+|symbol=火葬堆上交叉的长枪
+|symbol_label=邪徽
+|animal=老虎
+|color=橙色，红色
+|pantheon=邪魔先驱
+|source=内海诸神、永罪之书
+}}
+
+'''泽利什卡'''（Zelishkar）是一位[[邪魔先驱]]。
+
+== 简介 ==
+
+苦涩凶焰泽利什卡的外形是一头由活的猩红火焰构成的虎形身影，身穿黑色的玻璃质铠甲。
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+在火葬堆上焚烧一个至少与猫或婴儿体型相当的活物。你在对抗火焰系法术和效果的豁免检定中获得+4亵渎加值。
+
+=== 神恩 ===
+
+通过[[魔族仪典]]获得，均为每日各2次的类法术能力：
+
+{{神恩|n=1|name=|en=|type=Sp|text=每日2次，你可以施展[[炽焰法球]]。}}
+
+{{神恩|n=2|name=|en=|type=Sp|text=每日2次，你可以施展[[火墙术]]。}}
+
+{{神恩|n=3|name=|en=|type=Sp|text=每日2次，你可以施展[[游荡烈焰]]。}}
+
+<small>出自《[[永罪之书]]》第115页。</small>
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Zelishkar|2=Zelishkar}}
+[[分类:魔神]]

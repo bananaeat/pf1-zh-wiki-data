@@ -7,6 +7,7 @@
 
 此外，你每天可以额外使用一次你的毒液种族特性。
 |normal=[[蝮血裔]]的毒液为伤口型毒素。
-|source_name=反派法典
+|source=VC
+|source_name=恶棍志
 |source_url=https://pf1chm.pages.dev/topics/zhfa2a4585c1.htm
 }}

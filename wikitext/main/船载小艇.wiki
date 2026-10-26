@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{装备
 |name=船载小艇
 |english_name=Ship's boat

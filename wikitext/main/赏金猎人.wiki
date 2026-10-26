@@ -1,6 +1,7 @@
 <noinclude>{{消歧义|赏金猎人（NPC志）}}</noinclude>
 <noinclude>{{消歧义|赏金猎人(NPC)}}</noinclude>
 {{消歧义|赏金猎人(杀手变体职业)}}
+{{PFS不可用}}
 {{Source|极限战斗|Ultimate Combat}}
 
 '''赏金猎人'''（Trophy Hunter）是[[游侠]]的[[变体职业]]。

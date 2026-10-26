@@ -1,4 +1,5 @@
 {{消歧义|烟雾弹 (消歧义)}}
+{{PFS不可用}}
 {{武器
 |name=烟雾弹
 |english_name=Smoke shot

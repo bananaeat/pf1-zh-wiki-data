@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=再充能
 |english_name=Recharge

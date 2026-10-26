@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=变更召唤生物
 |english_name=Alter summoned monster

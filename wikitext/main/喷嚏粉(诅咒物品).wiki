@@ -1,4 +1,5 @@
 {{消歧义|喷嚏粉}}
+{{PFS不可用}}
 {{魔法物品
 |name=喷嚏粉
 |english_name=Dust of Sneezing and Choking

@@ -5,7 +5,7 @@
 |pfs=否
 |description=你的梦与清醒时分一样鲜明，你可以毫不费力地滑入如梦的状态。
 |prerequisites=魅力17，[[寻梦师]]，[[熟练寻梦师]]，[[知识]]（位面）10级。
-|benefit=你在幻梦境的经历让你能轻松进入这个半位面。你进入幻梦境时，不再需要进行魅力检定来判定自己是否处于劣势，而是自动毫无阻碍地抵达。
+|benefit=你在梦境维度的经历让你能轻松进入这个半位面。你进入梦境维度时，不再需要进行魅力检定来判定自己是否处于劣势，而是自动毫无阻碍地抵达。
 |source=PH'sH
 |source_name=位面旅者手册
 |source_url=https://aonprd.com/FeatDisplay.aspx?ItemName=Dreamwalker

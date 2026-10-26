@@ -18,7 +18,7 @@
 |ref=+5
 |will=+0（对抗恐惧效果时额外+1）
 |defensive=英勇+1
-|speed=20尺
+|speed=30尺
 |melee=精制品斩马刀+7(1d8+1/x3)
 |ranged=精制品复合短弓+9(1d4+1/x3)
 |str=13

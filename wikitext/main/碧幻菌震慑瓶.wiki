@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{装备
 |name=碧幻菌震慑瓶
 |english_name=Cytillesh stun vial

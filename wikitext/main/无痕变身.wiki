@@ -1,5 +1,5 @@
 <noinclude>{{侠客导航}}
-'''无痕变身'''（Seemless Shapechanger, Ex）是[[侠客]]的[[社交天赋]]。
+'''无痕变身'''（Seamless Shapechanger, Ex）是[[侠客]]的[[社交天赋]]。
 
 </noinclude>{{Source|野兽血脉|Blood of the Beast|inline}}
 

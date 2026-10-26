@@ -1,3 +1,4 @@
+{{PFS特殊|1=角色不能选择类人生物类型、亚种或种类。|ai=1}}
 {{装备
 |name=臭气棒
 |english_name=Odor stalk

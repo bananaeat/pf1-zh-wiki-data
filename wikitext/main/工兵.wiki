@@ -1,4 +1,5 @@
 <noinclude>{{消歧义|工兵(NPC)}}</noinclude>
+{{PFS不可用}}
 {{Source|地城探险者手册|Dungeoneer's Handbook}}
 
 '''工兵'''（Sapper）是[[盗贼]]的[[变体职业]]。

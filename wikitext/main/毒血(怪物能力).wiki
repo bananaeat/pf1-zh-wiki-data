@@ -3,7 +3,7 @@
 '''毒血'''（Poisonous Blood）是一条神话[[通用怪物规则]]。
 <div class="skill-head"><span class="sk-a">Ex</span><span class="sk-a">神话</span><span class="sk-f">位置：防御能力</span></div>
 </noinclude><includeonly><div class="lang"><span id="毒血"></span><span id="毒血(怪物能力)"></span><div class="lang-h"><b>[[毒血(怪物能力)|毒血]]</b><i>Poisonous Blood</i><span class="lang-w">Ex · 神话 · 防御能力</span></div><div class="lang-d"></includeonly>
-任何使用穿刺或挥砍近战武器对怪物确认重击的生物会受到毒液的喷溅。（具有触及的近战武器不会以这种方式危及其使用者。）毒素的类型取决于怪物。除非另有说明，毒素使用其正常的 DC，不过有的怪物的毒素 DC 并非基于体质。
+任何使用穿刺或挥砍近战武器对怪物确认重击的生物会受到毒液的喷溅。（具有触及的近战武器不会以这种方式危及其使用者。）毒素的类型取决于怪物。除非另有说明，毒素使用其正常的 DC，不过有的怪物的毒素 DC 可能是基于体质的。
 
 '''格式'''：毒血（[[龙胆汁]]）
 <includeonly></div></div></includeonly><noinclude>

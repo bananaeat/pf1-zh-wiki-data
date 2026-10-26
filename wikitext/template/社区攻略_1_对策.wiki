@@ -1,0 +1,6 @@
+<includeonly><div style="margin:.35em 0 .55em;padding:.35em 0 .35em .8em;border-left:3px solid #c9b48a;line-height:1.75;max-width:50em"><div style="font-weight:700;color:#6b4f24">{{{1}}}</div><div style="color:#3d3222">{{{2|}}}</div></div></includeonly><noinclude>
+社区攻略里一条「对策：说明」：1＝对策名（原文粗体那段），2＝说明。正文里有半角 = 时写成 <code>1=…|2=…</code>。
+
+{{社区攻略/对策|1=炼金油膏（5GP）|2=持续4小时的对擒抱CMD+5/挣脱擒抱时的检定+5。}}
+[[分类:模板]]
+</noinclude>

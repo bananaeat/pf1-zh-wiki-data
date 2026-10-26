@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=淤泥法球
 |english_name=Silt Sphere

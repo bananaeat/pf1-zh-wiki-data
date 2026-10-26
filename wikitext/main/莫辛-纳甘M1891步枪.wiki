@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=莫辛-纳甘M1891步枪
 |english_name=Mosin-Nagant M1891 rifle

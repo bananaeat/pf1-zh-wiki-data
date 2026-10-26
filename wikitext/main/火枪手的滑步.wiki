@@ -5,6 +5,7 @@
 |description=你能够以更强的风采来闪避攻击。
 |prerequisites=闪避派头炫技，游荡剑客3级。
 |benefit=当你使用闪避派头时，该炫技所赋予的移动不会引发任何生物的[[借机攻击]]，并且你在AC上获得+2闪避加值。
-|source_name=反派法典
+|source=VC
+|source_name=恶棍志
 |source_url=https://pf1chm.pages.dev/topics/zhfa2a4585c1.htm
 }}

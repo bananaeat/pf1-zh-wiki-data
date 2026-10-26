@@ -1,0 +1,17 @@
+{{Spell
+|name=和平谈判
+|english_name=Peacemaker's Parley
+|school=惑控系 (魅惑)
+|tags=依赖语言;影响心灵
+|levels=牧师 2;先知 2;战斗祭司 2（奎因迪勒）
+|action=迅捷动作
+|components=语言;姿势
+|range=近距
+|area=半径20尺扩散范围内的生物
+|duration=立即
+|save=意志, 通过则无效
+|sr=可
+|description=你可以尝试影响不友善或敌对的生物，改变它们对你的态度。施法之后，以一个自由动作对这些生物进行一次[[交涉]]检定；对豁免此法术失败的生物，你在这次检定上获得+2神圣加值。即使你成功让受影响目标的态度好转，若受到威胁或恶劣对待，它们也会很快恢复原来的态度。
+|source=格拉利昂的矮人
+}}
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_717.html 原文]），按 AoN 核对过。</small>

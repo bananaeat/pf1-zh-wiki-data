@@ -1,7 +1,9 @@
+{{PFS不可用}}
 {{魔法物品
 |name=偏转
 |english_name=Deflecting
 |cat=防具附魔
+|mythic=是
 |apply=盾牌
 |bonus=+3 加值
 |aura=强烈防护系

@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=召唤元素坐驾
 |english_name=Summon elemental steed

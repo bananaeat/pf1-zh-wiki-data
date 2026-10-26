@@ -1,4 +1,6 @@
 {{速查导航|here=神祇}}
+<noinclude>{{消歧义|莎米拉(怪物)}}</noinclude>
+{{PFS不可用}}
 {{神祇
 |name=莎米拉
 |english_name=Shamira

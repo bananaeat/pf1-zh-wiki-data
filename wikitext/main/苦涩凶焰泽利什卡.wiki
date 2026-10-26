@@ -1,4 +1,5 @@
 {{速查导航}}
+<noinclude>{{消歧义|泽利什卡}}</noinclude>
 {{怪物
 |name=苦涩凶焰泽利什卡
 |english_name=Zelishkar of the Bitter Flame

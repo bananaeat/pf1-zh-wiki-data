@@ -25,7 +25,7 @@
 
 == 目录 ==
 {{书页/目录|1=
-伟迹城 @ p2–41
+伟迹城 @ 2
 - 雪花石膏区（Alabaster District）
 - 灯塔岬（Beacon's Point）
 - 首府区（Capital District）
@@ -35,12 +35,12 @@
 - 瑙斯（Naos）
 - 奥德利亚（Ordellia）
 - 桥下区（Underbridge）
-阴谋与危机 @ p42–49
+阴谋与危机 @ 42
 - 伟迹城腹地
 - 伟迹城下水道
 - 午夜黎明（Midnight Dawn）
 - 伊雷斯潘的秘密（Secrets of the Irespan）
-居民 @ p50–63
+居民 @ 50
 - [[天使守卫]]
 - [[盾徽专员(NPC)|盾徽专员]]
 - [[城卫（伟迹城）|城卫]]

@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=无限法术大全
 |english_name=Book of Infinite Spells

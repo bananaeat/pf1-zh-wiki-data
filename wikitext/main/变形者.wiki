@@ -1,4 +1,5 @@
 {{变形者导航}}
+{{PFS特殊|1=只有在本书与后续出版物中出现的拟态（Aspects）才属于可用；不允许自创拟态。}}
 {{Class
 |name=变形者
 |english_name=Shifter

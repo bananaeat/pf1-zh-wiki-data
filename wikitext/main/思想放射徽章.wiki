@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=思想放射徽章
 |english_name=Medallion of Thought Projection

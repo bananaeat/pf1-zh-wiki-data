@@ -2,7 +2,7 @@
 '''迷雾视域'''（Mistsight）是一条[[通用怪物规则]]。
 <div class="skill-head"><span class="sk-a">Ex</span><span class="sk-f">位置：感官</span></div>
 </noinclude><includeonly><div class="lang"><span id="迷雾视域"></span><div class="lang-h"><b>[[迷雾视域]]</b><i>Mistsight</i><span class="lang-w">Ex · 感官</span></div><div class="lang-d"></includeonly>
-怪物能够看透雾、薄雾、浑浊的水和烟，如同这些事物完全清澈透明一般，无视这些障碍造成的失手率，最远可达它的正常视距。
+怪物能够看透雾、薄雾和浑浊的水，如同这些事物完全清澈透明一般，无视这些障碍造成的失手率，最远可达它的正常视距。
 
 '''格式'''：迷雾视域
 <includeonly></div></div></includeonly><noinclude>

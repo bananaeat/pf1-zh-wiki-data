@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=冰体|en=Body of Ice|type=Su|domain=水领域|sub=冰子域 (Ice)|sub_name=冰子域|source=进阶玩家指南|text=到了8级，就可用标准动作将自己的身体和装备转化为冰。此时你免疫寒冷伤害，并获得伤害减免5/-，但是会受到双倍的火焰伤害。每天变成冰的轮数等于牧师等级，自由动作解除，无需连续。此能力替换[[水领域#冰抗 (Cold Resistance, Ex)|冰抗]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

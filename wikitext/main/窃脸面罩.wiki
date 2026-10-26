@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=窃脸面罩
 |english_name=Mask of Stolen Mien

@@ -1,3 +1,4 @@
+{{PFS特殊|1=仅限地精PC合法。|ai=1}}
 {{Spell
 |name=泥塑伙伴
 |english_name=Mud Buddy

@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=巨大化|en=Enlarge|type=Su|domain=植物领域|sub=滋长子域 (Growth)|sub_name=滋长子域|source=进阶玩家指南|text=[[迅捷动作]]发动，像以自己为目标的[[变巨术]]一样变大1轮。每天“3+[[感知]]调整值”次。此能力替换[[植物领域#木拳 (Wooden Fist, Su)|木拳]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

@@ -1,0 +1,18 @@
+{{PFS不可用}}
+{{Spell
+|name=交感痛楚
+|english_name=Sympathetic Wounds
+|school=防护系
+|tags=邪恶
+|levels=牧师 2;德鲁伊 2;猎人 2;先知 2;战斗祭司 2（宗－库山）
+|action=标准动作
+|components=语言;姿势;材料 (价值250金币的琥珀粉末)
+|range=近距
+|target=一个生物
+|duration=1小时/等级 (可解消)
+|save=意志, 通过则无效
+|sr=可
+|description=本法术如同[[护卫他人]]般运作，但是你的部分伤势会转移到目标生物身上，而不是它的部分伤势转移到你身上。举例来说，你可以把自己与旁边被锁链拴着的奴隶连接起来，这样当你受伤时，有些伤害会转移到奴隶身上。你的生命骰必须至少和目标一样多，否则此法术失败。一个生物同一时间只能受到一个此法术的效果影响。
+|source=神与魔法
+}}
+<small>本页译自 CHM 汉化（[https://pf1chm.pages.dev/topics/page_1363.html 原文]），按 AoN 核对过。</small>

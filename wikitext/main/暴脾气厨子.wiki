@@ -1,0 +1,48 @@
+{{速查导航}}
+{{AI翻译|本页由 AI 照《恶棍志》英文原书译出（民间汉化 CHM 没有），未经人工校对。}}
+{{怪物
+|name=暴脾气厨子
+|english_name=Crusty Cook
+|aon=无
+|cr=2
+|xp=600
+|classline=人类 战士2/盗贼1
+|alignment=混乱中立
+|size=中型
+|type=类人生物
+|subtypes=人类
+|init=+1
+|senses=察觉 +0
+|ac=11，接触 11，措手不及 10（+1敏捷）
+|hp=29（3 HD；1d8+2d10+10）
+|fort=+7
+|ref=+3
+|will=+0（+1对抗恐惧）
+|speed=30尺
+|melee=精制长矛 +7（1d8+4/×3）或 匕首 +5（1d4+3/19–20）
+|special_attacks=偷袭 +1d6
+|tactics=<div class="ml wide"><span class="k">战斗中</span>暴脾气厨子虽然宁愿远离战斗，但他能够也愿意拿起武器战斗，并在需要时为伤者提供救治。</div>
+|str=17
+|dex=12
+|con=14
+|int=13
+|wis=10
+|cha=8
+|bab=+2
+|cmb=+5
+|cmd=16
+|feats=[[坚忍]];[[强韧加强]];[[快步跟进]];[[健壮]];[[武器专攻]]（长矛）
+|skills=[[驯养动物]] +5;[[医疗]] +3;[[专业]]（酿造、烹饪）+6;[[骑术]] +7;[[生存]] +6
+|languages=通用语;矮人语
+|sq=寻找陷阱 +1
+|combat_gear=治疗轻伤药水（2个），医疗包
+|gear=[[镶嵌皮甲|+1镶嵌皮甲]]，匕首，精制长矛
+|source=恶棍志
+|family=无情匪帮（恶棍志）
+|npc=1
+|nofooter=1
+|lore=
+
+}}
+
+本页译自《[[恶棍志]]》「[[无情匪帮（恶棍志）|无情匪帮]]」一章。

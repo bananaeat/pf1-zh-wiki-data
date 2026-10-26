@@ -1,4 +1,5 @@
 
+{{PFS特殊|1=[[刺青术士]]（Tattooed Sorcerer）只能在游戏过程中使用她的制造法术刺青能力（也就是说不能是在两次战役场景间）。}}
 {{Source|内海魔法|Inner Sea Magic}}
 
 '''刺青术士'''（Tattooed Sorcerer）是[[术士]]的[[变体职业]]。

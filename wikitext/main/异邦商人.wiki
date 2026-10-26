@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{物品
 |name=异邦商人
 |english_name=The Foreign Trader

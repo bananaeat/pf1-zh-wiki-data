@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=防护异界生物
 |english_name=Protection from outsiders

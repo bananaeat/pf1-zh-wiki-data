@@ -1,7 +1,9 @@
+{{PFS不可用}}
 {{魔法物品
 |name=暴戾巨斧
 |english_name=Brutal Axe
 |cat=特殊魔法武器
+|mythic=是
 |base=[[精金]][[巨斧]]
 |enh=+1
 |aura=中等变化系
@@ -16,3 +18,5 @@
 |cost=12,320 gp
 |source=神话冒险
 }}
+
+注：《神话冒险》原书价格印作 21,320 gp；此处照 AoN 作 38,000 gp。

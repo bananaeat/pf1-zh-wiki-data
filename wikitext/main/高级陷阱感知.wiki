@@ -1,7 +1,7 @@
+{{PFS特殊|1=所有技能等级要求减3，并请记住躲藏（Hide）技能现在是潜行（Stealth），搜索（Search）技能现在是察觉（Perception）。|ai=1}}
 {{Feat
 |name=高级陷阱感知
 |english_name=Heightened Trap Sense
-|pfs=否
 |description=你对陷阱的细微之处以及它们的隐藏方式极为敏锐。
 |prerequisites=搜索6级，[[陷阱感知]]+1。
 |benefit=当你经过陷阱5尺以内时，你有权进行一次自动的搜索检定来发现该陷阱。该检定承受-10减值；如果你以半速移动且除移动外不做其他动作，则为-5减值。

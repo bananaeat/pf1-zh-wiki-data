@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=召唤巨灵
 |english_name=Summon genie

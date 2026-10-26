@@ -29,6 +29,12 @@ end
 local TI = { ['异界生物'] = 1, ['魔法兽'] = 2, ['动物'] = 3, ['龙类'] = 4, ['不死生物'] = 5, ['类人生物'] = 6, ['异怪'] = 7,
     ['虫类'] = 8, ['人形怪物'] = 9, ['构装体'] = 10, ['精类'] = 11, ['植物'] = 12, ['泥形生物'] = 13 }
 
+-- 译文状态（data-d 第 11 槽，2026-10-12）：u 未汉化（没中文名）、a 整页 AI 译、p 页内有段落 AI 译、h 人工翻译；Data 表的 tr 列由 export_data_tab 按页上的 {{AI翻译}} 算
+local function trCode(r)
+    if (r.untr or 0) == 1 then return 'u' end
+    return (r.tr == 'a' or r.tr == 'p') and r.tr or 'h'
+end
+
 local function card(r, srcIdx)
     local mv = {}
     for k in mw.text.gsplit(r.mv or '', '|', true) do
@@ -43,7 +49,7 @@ local function card(r, srcIdx)
         if x ~= '' then sts[#sts + 1] = x end
     end
     local d = table.concat({ r.cr or '', r.ctype or '', r.size or '', r.align or '', r.ter or '', r.mv or '',
-        table.concat(sts, '|'), srcIdx or '', r.xp or 0, r.hp or 0 }, ';')
+        table.concat(sts, '|'), srcIdx or '', r.xp or 0, r.hp or 0, trCode(r) }, ';')
     return '<div class="mq-c t' .. (TI[r.ctype] or 0) .. '" data-d="' .. enc(d) .. '">'
         .. '<div class="q-h"><div class="q-n">' .. title .. '<small>' .. enc(r.en or '') .. '</small></div>'
         .. '<span class="q-r">CR ' .. enc(r.cr) .. ((r.mr and r.mr ~= '') and ('<small>/MR ' .. enc(r.mr) .. '</small>') or '') .. '</span></div>'
@@ -122,7 +128,7 @@ end
 local function npcCard(r, srcIdx)
     local title = r.name == r.page and ('[[' .. r.page .. ']]') or ('[[' .. r.page .. '|' .. r.name .. ']]')
     local d = table.concat({ r.cr or '', r.cls_name or '', r.race or '', r.align or '', '', '',
-        r.clss or '', srcIdx or '', r.xp or 0, r.hp or 0 }, ';')
+        r.clss or '', srcIdx or '', r.xp or 0, r.hp or 0, trCode(r) }, ';')
     local fam = (r.fam and r.fam ~= '') and r.fam or (r.src or '')
     return '<div class="mq-c t' .. (TI[r.ctype] or 0) .. '" data-d="' .. enc(d) .. '">'
         .. '<div class="q-h"><div class="q-n">' .. title .. '<small>' .. enc(r.en or '') .. '</small></div>'

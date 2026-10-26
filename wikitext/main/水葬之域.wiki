@@ -2,7 +2,7 @@
 |name=水葬之域
 |english_name=Watery Grave
 |kind=作祟
-|type=连锁漫游顽固作祟
+|type=连锁 游离 顽固作祟
 |cr=8
 |xp=4,800
 |alignment=混乱邪恶

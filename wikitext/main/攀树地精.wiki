@@ -1,9 +1,9 @@
 {{AI翻译|本页由 AI 照 AoN 英文原文译出（Goblins of Golarion pg. 16），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{PFS特殊|1=只有合法的地精PC才能从本书中选择任何内容。|ai=1}}
 {{Trait
 |name=攀树地精
 |english_name=Monkey Goblin
 |type=地区
-|pfs=否
 |prerequisites=地精，莫迪欧凯提岛
 |description=你擅长林间活动，待在树枝上比待在地面上更自在。你在攀爬树木时进行的[[特技]]和[[攀爬]]检定获得+2背景加值。
 |source_name=格拉利昂的地精

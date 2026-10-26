@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=触摸灵界|en=Touch the Spirit World|type=Su|domain=安眠领域|sub=灵魂子域 (Souls)|sub_name=灵魂子域|source=进阶玩家指南|text=你可以接触一把武器，令其能够伤害[[虚体]]生物：该武器对虚体生物造成一半伤害，若是魔法武器则造成全额伤害，持续轮数为你牧师等级。每天“3+[[感知]]调整值”次。此能力替换[[安眠领域#温柔休息 (Gentle Rest, Sp)|温柔休息]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=高等压胜人偶
 |english_name=Ganji Doll (Greater)

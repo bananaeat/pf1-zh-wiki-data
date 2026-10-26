@@ -1,4 +1,5 @@
 {{消歧义|蛇咬}}
+{{PFS不可用}}
 {{魔法物品
 |name=蛇咬
 |english_name=Snakebite

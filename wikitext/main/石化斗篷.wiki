@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=石化斗篷
 |english_name=Petrifying Cloak

@@ -3,7 +3,7 @@
 |name=谨慎的卫士
 |english_name=Vigilant Bodyguard
 |cr=2
-|description=一些武僧被雇佣来保护太子党、商人、有相同信念的牧师和祭司。
+|description=有些武僧教团会把警觉保镖出租给王孙公子、商人，以及志趣与理念相合的祭司。
 |xp=600
 |classline=种族：人类，职业：武僧3
 |alignment=守序中立
@@ -19,10 +19,10 @@
 |will=+7 +2对附魔系
 |defensive=反射闪避
 |speed=40尺
-|melee=徒手攻击+5(1d6+2)或双截棍+4(1d6+2)或徒手攻击疾风连击+3/+3(1d6+2)
+|melee=徒手打击+5(1d6+2)或双节棍+4(1d6+2)或徒手打击疾风连击+3/+3(1d6+2)
 |ranged=手里剑+3(1d2+2)
-|special_attacks=疾风连击，震慑击(3/日，DC15)
-|tactics=<div class="ml wide"><span class="k">战斗前</span>他喝下枭之睿智药水增强 AC 和察觉，同时还有法师护甲药水</div><div class="ml wide"><span class="k">战斗中</span>他在进行疾风连击时用双截棍进行缴械战技；如果他正保护着谁，他会先使用震慑击，再带着被保护者撤退</div><div class="ml wide"><span class="k">基础属性</span>没有枭之睿智和法师护甲，他的感官是察觉+8；AC15，接触14，措手13；感知15；CMD18；察觉+8，察言观色+8，生存+3</div>
+|special_attacks=疾风连击，震慑拳(3/日，DC15)
+|tactics=<div class="ml wide"><span class="k">战斗前</span>武僧会喝下枭之睿智药水来提升 AC 与察觉，并喝下一瓶法师护甲药水</div><div class="ml wide"><span class="k">战斗中</span>武僧以疾风连击挥动双节棍尝试缴械；若正在保护某人，她会先施展震慑拳，再带着受她保护的人撤离</div><div class="ml wide"><span class="k">基础属性</span>未受枭之睿智与法师护甲影响时，武僧的数值为 感官 察觉+8；AC15，接触14，措手13；感知15；CMD18；技能 察觉+8，察言观色+8，生存+3</div>
 |str=14
 |dex=13
 |con=12
@@ -32,15 +32,15 @@
 |bab=+2
 |cmb=+5
 |cmd=20
-|feats=[[战斗反射]] 闪避 精通先攻 精通徒手打击 震慑击 专攻武器（徒手攻击）
+|feats=[[战斗反射]] 闪避 精通先攻 精通徒手打击 震慑拳 武器专攻（徒手打击）
 |skills=[[特技]]+7(跳跃时+11) 攀爬+6 威吓+5 察觉+10 察言观色+10 隐匿+7 生存+5 游泳+6
 |languages=—
-|sq=快速移动 战技训练
-|combat_gear=治疗轻伤药水 x3 法师护甲药水 魔化武器药水 枭之睿智药水 烟雾棒 x3
-|gear=匕首 双截棍 手里剑 x20 +1防御护腕 30gp
+|sq=快速移动 招式训练
+|combat_gear=治疗轻伤药水 x3 法师护甲药水 魔化武器药水 枭之睿智药水 发烟棒 x3
+|gear=匕首 双节棍 手里剑 x20 +1防御护腕 30gp
 |source=NPC志
 |family=核心职业（NPC志）
 |npc=1
 }}
 
-本页译自《[[NPC志]]》的怪物图鉴 CHM。
+本页译自《[[NPC志]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=61535.msg572778#msg572778 【NPCC】核心职业：武僧（Monk）]，原译者：月夜白雨；沉沦校对润饰）。

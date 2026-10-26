@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=医者祝福|en=Healer's Blessing|type=Su|domain=医疗领域|source=核心规则书|text=在到达6级时，你所有的医疗法术视同获得[[法术强效]]效果，其治疗的生命值增加一半（+50％）。此效果在使用医疗法术对不死生物造成伤害时不适用。此效果也不与[[法术强效]][[超魔专长]]累计。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

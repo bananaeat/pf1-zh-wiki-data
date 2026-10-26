@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=召唤犬魔 II
 |english_name=Summon Barghest II

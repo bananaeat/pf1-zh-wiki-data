@@ -1,3 +1,4 @@
+{{PFS特殊|1=歌者（Skalds）的贝尔克泽恩战鼓手（Belkzen War Drummer）在7级时自行选择获得“额外表演（Extra Performance）”、“技能专攻（表演［打击乐］）”或“武器专攻（木棒或巨木棒）”专长，取代原先的“制造魔法防具与武器（Craft Magic Arms and Armor）”。}}
 {{Source|进化职业起源|Advanced Class Origins}}
 
 '''贝尔克泽恩战鼓手'''（Belkzen War Drummer）是[[歌者]]的[[变体职业]]。

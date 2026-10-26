@@ -490,6 +490,8 @@
 {{Source|缘界英雄|Heroes from the Fringe|inline}}
 
 == 可选天赋职业奖励 ==
+
+{{AI翻译|nocat=1|本段由 AI 照《进阶职业指南》英文原文译出，未经人工校对。}}矮人的坚韧与不屈的决心使他们格外适合战斗职业，但那些以为矮人不通魔法的人很快就会发现自己错了。下列选项适用于天赋职业为所列职业的所有矮人。
 {{AI翻译|nocat=1|本节[[侠客]]的条目（2026-10-05 对照 AoN 补上）由 AI 照英文原文译出（民间汉化 CHM 没有），未经人工校对。}}
 
 === [[炼金术师]] ===
@@ -574,69 +576,69 @@
 
 === [[奥能师]] ===
 
-在判断奥能壁障（Arcane Barrier）和奥能武器（Arcane Weapon）[[奥能技艺]]（Arcanist Exploit）的效果时，[[奥能师]]的有效职业等级增加1/4级。
+在判断奥能壁障（Arcane Barrier）和奥能武器（Arcane Weapon）[[奥能技艺]]（Arcanist Exploit）的效果时，[[奥能师]]的有效职业等级增加1/4级。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[血脉狂怒者]] ===
 
-血脉狂怒者的每日[[血怒]]总轮数增加1轮。
+血脉狂怒者的每日[[血怒]]总轮数增加1轮。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[拳师]] ===
 
-当[[拳师]]使用徒手打击攻击物体时，若这些物体是由[[粘土]]、石头或金属制成的，那么就能将该物体的硬度降低1点（最低为0）。
+当[[拳师]]使用徒手打击攻击物体时，若这些物体是由[[粘土]]、石头或金属制成的，那么就能将该物体的硬度降低1点（最低为0）。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[猎人]] ===
 
-猎人在影响地下生活的动物与魔法兽时，野性认同（wild empathy）检定获得+1/2加值。
+猎人在影响地下生活的动物与魔法兽时，野性认同（wild empathy）检定获得+1/2加值。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[调查员]] ===
 
-在地下的察觉检定获得+1/4加值，调查员的陷阱感知（Trap Sense）能力在对抗石造陷阱时获得+1/2加值。
+在地下的察觉检定获得+1/4加值，调查员的陷阱感知（Trap Sense）能力在对抗石造陷阱时获得+1/2加值。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[萨满]] ===
 
-[[萨满]]魂兽（spirit animal）的天生防御加值增加1/4点。
+[[萨满]]魂兽（spirit animal）的天生防御加值增加1/4点。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[歌者]] ===
 
-在穿戴重甲时，施放歌者法术的奥术失败率下降1%。一旦总失败率下降10%之后，歌者还会获得[[擅长重型盔甲]]作为[[奖励专长]]，如果他还未拥有该专长的话。
+在穿戴重甲时，施放歌者法术的奥术失败率下降1%。一旦总失败率下降10%之后，歌者还会获得[[擅长重型盔甲]]作为[[奖励专长]]，如果他还未拥有该专长的话。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[杀手]] ===
 
-身处地下时，知识（地城）检定和生存检定就会获得+1/3加值。若[[杀手]]由于该能力而在知识（地城）中获得了+1加值，那么他还被视为在该能力上已受训。
+身处地下时，知识（地城）检定和生存检定就会获得+1/3加值。若[[杀手]]由于该能力而在知识（地城）中获得了+1加值，那么他还被视为在该能力上已受训。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[游荡剑客]] ===
 
-在持用[[轻型镐]]或[[重型镐]]，并且计算由于精确刺击（precise strike）炫技（deed）造成的额外伤害时，游荡剑客的有效职业等级增加1/4。若游荡剑客具有[[优雅挥砍]]专长或其他类似的效果，那么她能够将战斧（battleaxe）或[[手斧]]视作单手穿刺近战武器，而且还会在持用符合该专长的武器时获得该效果。
+在持用[[轻型镐]]或[[重型镐]]，并且计算由于精确刺击（precise strike）炫技（deed）造成的额外伤害时，游荡剑客的有效职业等级增加1/4。若游荡剑客具有[[优雅挥砍]]专长或其他类似的效果，那么她能够将战斧（battleaxe）或[[手斧]]视作单手穿刺近战武器，而且还会在持用符合该专长的武器时获得该效果。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[战斗祭司]] ===
 
-战斗祭司每日能够使用祝福（blessings）的次数增加1/3次，但是这些额外使用次数只能用在影响武器或护甲的祝福上。
+战斗祭司每日能够使用祝福（blessings）的次数增加1/3次，但是这些额外使用次数只能用在影响武器或护甲的祝福上。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 === [[操念使]] ===
 
-造成伤害的土元素[[念袭]]（earth element blasts）获得1/3点伤害加值。
+造成伤害的土元素[[念袭]]（earth element blasts）获得1/3点伤害加值。{{Source|异能冒险|Occult Adventures|inline}}
 
 === [[通灵者]] ===
 
-在对抗占据（possession）的豁免检定中获得+1/2加值，并且在结束制祟者（Haunt Channeler）、呼唤地缚灵（Location Channel）和伽蓝之洞（Spacious Soul）时的意志豁免检定中获得+1/2加值。
+在对抗占据（possession）的豁免检定中获得+1/2加值，并且在结束制祟者（Haunt Channeler）、呼唤地缚灵（Location Channel）和伽蓝之洞（Spacious Soul）时的意志豁免检定中获得+1/2加值。{{Source|异能冒险|Occult Adventures|inline}}
 
 === [[催眠师]] ===
 
-痛苦注视（Painful Stare）的伤害增加1/4点。
+痛苦注视（Painful Stare）的伤害增加1/4点。{{Source|异能冒险|Occult Adventures|inline}}
 
 === [[秘学士]] ===
 
-在与石制（stone）或金属（metal）物体相关的估价和[[使用魔法装置]]检定中获得+1/3加值。
+在与石制（stone）或金属（metal）物体相关的估价和[[使用魔法装置]]检定中获得+1/3加值。{{Source|异能冒险|Occult Adventures|inline}}
 
 === [[异能者]] ===
 
-在施放[[异能者]]的防护系法术（psychic abjuration spells）时，法术的施法者等级增加1/2级，不过该加值仅在判断法术持续时间时生效。
+在施放[[异能者]]的防护系法术（psychic abjuration spells）时，法术的施法者等级增加1/2级，不过该加值仅在判断法术持续时间时生效。{{Source|异能冒险|Occult Adventures|inline}}
 
 === [[唤魂师]] ===
 
-在3级的[[附身]]显形（Bounded Manifestation）能力中，灵质态显形（ectoplasmic）所提供的盾牌加值增加1/6点。
+在3级的附身显形（Bonded Manifestation）能力中，灵质态显形（ectoplasmic）所提供的盾牌加值增加1/6点。{{Source|异能冒险|Occult Adventures|inline}}
 
-在[[附身]]显型状态下挥击攻击的武器伤害骰获得+1/4加值。{{Source|惧怖冒险|Horror Adventures|inline}}
+在附身显形状态下挥击攻击的武器伤害骰获得+1/4加值。{{Source|惧怖冒险|Horror Adventures|inline}}
 
 === [[变形者]] ===
 

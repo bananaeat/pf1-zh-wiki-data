@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=害人扫帚
 |english_name=Broom of Animated Attack

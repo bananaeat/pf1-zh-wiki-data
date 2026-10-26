@@ -16,7 +16,7 @@
 
 === 推荐狂暴之力 ===
 
-[[反击态势]]，[[生命守护]]，[[狂怒激发]]，[[血性狂怒]]，[[重生之力]]。
+[[反击态势]]，[[生命守护]]，[[激发凶性]]，[[血性狂怒]]，[[重生之力]]。
 
 {{AoN原文|1=ArchetypeDisplay.aspx?FixedName=Barbarian%20Invulnerable%20Rager|2=Invulnerable Rager}}
 

@@ -1,0 +1,48 @@
+{{速查导航}}
+{{怪物
+|name=侦探法师
+|english_name=Investigator Wizard
+|cr=3
+|xp=800
+|classline=人类预言师4
+|alignment=守序中立
+|size=中型
+|type=类人生物
+|subtypes=人类
+|init=+8
+|senses=察觉+5
+|ac=18，接触14，措手不及15（+4护甲，+1偏斜，+2敏捷，+1闪避）
+|hp=22（4d6+6）
+|fort=+2
+|ref=+3
+|will=+5
+|speed=30尺
+|melee=木棒+1（1d6–1）
+|ranged=轻弩+4（1d8/19–20）
+|spell_like=（施法者等级4，专注+8）；7次/天—探知机运（+2）
+|spells=已准备预言师法术（施法者等级4，专注+8）；2级—[[猫之优雅]]，[[侦测思想]]（DC 16），[[蛛网术]]（2，DC 16）；1级—[[通晓语言]]，[[羽落术]]，[[法师护甲]]，[[魔法飞弹]]（2）；0级（随意）—[[舞光术]]，[[侦测魔法]]，[[侦测毒性]]，[[传讯术]]；对立学派 幻术，死灵
+|tactics=<div class="ml wide"><span class="k">战斗前</span>法师施放法师护甲。</div><div class="ml wide"><span class="k">战斗中</span>若遭到突袭，法师会利用预警在突袭轮施放猫之优雅。对打算活捉的目标，他会使用蛛网术、七彩喷射或睡眠术。</div><div class="ml wide"><span class="k">基础数据</span>未施放法师护甲时，法师的数值为 AC 14，接触 14，措手不及 11。</div>
+|str=8
+|dex=14
+|con=13
+|int=18
+|wis=12
+|cha=10
+|bab=+2
+|cmb=+1
+|cmd=15
+|feats=[[战斗施法]];[[闪避]];[[精通先攻]];[[抄写卷轴]]
+|skills=[[交涉]]+4;[[威吓]]+4;[[知识]]（奥秘、本地）+10;[[知识]]（地理、历史、贵族、宗教）+8;[[察觉]]+5;[[察言观色]]+5;[[法术辨识]]+11
+|languages=通用语;龙语;矮人语;精灵语;兽人语
+|sq=奥术联结（防护戒指+1）;预警
+|combat_gear=治疗中伤药水;侦测思想卷轴;敲击术卷轴;物品定位术卷轴;睡眠术卷轴（2）;七彩喷射魔杖（20发）
+|gear=木棒;轻弩和20支弩矢;防护戒指+1;镣铐;法术书;125gp
+|source=NPC志
+|family=核心职业（NPC志）
+|npc=1
+|lore=
+侦探法师与城市卫兵合作调查犯罪。
+}}
+
+本页译自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=167531.msg1415910#msg1415910 【NPCC】核心职业：法师（Wizard）]（原译者：dr.fate；沉沦校对润饰）。
+{{AoN原文|1=NPCDisplay.aspx?ItemName=Investigator Wizard|2=Investigator Wizard}}

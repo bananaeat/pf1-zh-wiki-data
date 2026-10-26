@@ -1,6 +1,7 @@
 {{Trait
 |name=招牌动作
 |english_name=Signature Moves
+|pfs=否
 |type=社会
 |description=你有一件独特的物品让你远近闻名，并且成了你的个人标志。你的起始物品包括一件价值低于900GP的精制物品，当你单手或双手持用此物品时，你在[[唬骗]]和威吓检定获得+1背景加值。
 |source_name=格拉里昂的混种

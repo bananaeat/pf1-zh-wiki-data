@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=不洁邪击
 |english_name=Unhallowed Blows

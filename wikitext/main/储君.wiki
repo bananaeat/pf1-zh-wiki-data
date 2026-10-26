@@ -1,0 +1,47 @@
+{{速查导航}}
+{{怪物
+|name=储君
+|english_name=Heir Apparent
+|cr=2
+|xp=600
+|classline=人类望族4
+|alignment=守序善良
+|size=中型
+|type=类人生物
+|subtypes=人类
+|init=+1
+|senses=察觉+3
+|ac=17，接触11，措手不及16（+6护甲，+1敏捷）
+|hp=22（4d8+4）
+|fort=+1
+|ref=+2
+|will=+3
+|speed=20尺
+|melee=精制品长剑+4（1d8/19–20）
+|ranged=匕首+4（1d4/19–20）
+|tactics=<div class="ml wide"><span class="k">战斗中</span>望族作战时兼具技巧与谨慎，正符合以王位为己任之人的身份。若与他人同行，即使她并非这群人真正的指挥者，也会提出巧妙的战术。</div>
+|str=10
+|dex=12
+|con=10
+|int=11
+|wis=8
+|cha=13
+|bab=+3
+|cmb=+3
+|cmd=14
+|feats=[[闪电反射]];[[技能专攻]]（交涉）;[[健壮]]
+|skills=[[交涉]]+11;[[知识]]（工程，宗教）+4;[[知识]]（历史）+5;[[知识]]（贵族）+7;[[语言学]]+4;[[察觉]]+3;[[表演]]（舞蹈）+5;[[骑术]]+5;[[察言观色]]+4;[[生存]]+5
+|languages=通用语;精灵语
+|combat_gear=祝福武器油;治疗中伤药水;蛛行术药水
+|gear=精制品胸甲;匕首;精制品长剑;贵族服装;玺戒;253gp
+|source=NPC志
+|family=NPC职业（NPC志）
+|npc=1
+|lore=
+储君自出生起就被当作未来的统治者培养，却仍向往更伟大的命运。她乐于承担一位在位女王的职责，并希望在位期间成就英勇、正义与仁慈的伟大事迹。她身边通常有守卫（武者3）或军官（望族6）随行。
+
+她其余的财富有一部分是王室礼器，例如一顶头环，一眼就能认出是王室的财产。
+}}
+
+本页译自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=164541.msg1394534#msg1394534 【NPCC】NPC职业：望族（Aristocrat）]（原译者：dr.fate；沉沦校对润饰）。
+{{AoN原文|1=NPCDisplay.aspx?ItemName=Heir Apparent|2=Heir Apparent}}

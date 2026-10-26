@@ -1,4 +1,4 @@
 <noinclude>{{德鲁伊导航}}
 </noinclude>{{德鲁伊领域能力|name=黑暗步伐|en=Move in Darkness|type=Ex|domain=黑豹领域|source=信仰与哲学|text=8级起，当位于正常或魔法黑暗区域时，你在[[隐匿]]技能检定和[[先攻]]检定中获得每4个德鲁伊等级+2加值，在20级时达到最多+10加值。}}<noinclude>
 
-[[分类:德鲁伊领域]]</noinclude>
+[[分类:德鲁伊领域能力]]</noinclude>

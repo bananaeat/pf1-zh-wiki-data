@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=阵营逆转头盔
 |english_name=Helm of Opposite Alignment

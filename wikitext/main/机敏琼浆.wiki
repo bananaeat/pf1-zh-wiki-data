@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{装备
 |name=机敏琼浆
 |english_name=Nimble nectar

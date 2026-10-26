@@ -1,7 +1,7 @@
+{{PFS特殊|1=所有技能等级要求减3，最低为1。|ai=1}}
 {{Feat
 |name=城市觅食者
 |english_name=Urban Forager
-|pfs=否
 |description=你精于在小巷，下水道以及城市的其它角落保护自己和别人。
 |prerequisites=[[知识]]（本地）4级，[[生存]]4级，[[追迹]]
 |benefit=你可以使用生存技能在城市中追踪或者觅食，效果见下表。

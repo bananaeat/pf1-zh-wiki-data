@@ -1,0 +1,47 @@
+{{速查导航}}
+{{怪物
+|name=异端者
+|english_name=Heretic
+|cr=6
+|xp=2,400
+|classline=半精灵导师8
+|alignment=混乱中立
+|size=中型
+|type=类人生物
+|subtypes=精灵;人类
+|init=+0
+|senses=昏暗视觉；察觉+5
+|ac=13，接触 13，措手不及 13（+3偏斜）
+|hp=36（8d6+8）
+|fort=+4
+|ref=+3
+|will=+12；对抗附魔+2
+|speed=30尺
+|melee=精制品矛 +7（1d8+3/×3）
+|ranged=精制品矛 +5（1d8+2/×3）
+|spells=已准备导师法术（施法者等级8，专注+11）；3级—[[闪电束]]（DC 17）；2级—[[牛之力量]]，[[灼热射线]]，[[蛛网术]]（DC 15）；1级—[[祝福术]]，[[燃烧之手]]（DC 15），[[命令术]]，[[治疗轻伤]]；0级（随意）—[[神导术]]，[[净化食粮]]，[[稳定伤势]]
+|tactics=<div class="ml wide"><span class="k">战斗前</span>导师施放牛之力量，并喝下虔诚护盾药水。</div><div class="ml wide"><span class="k">战斗中</span>导师以神圣之火与闪电轰击敌人。</div><div class="ml wide"><span class="k">基础数据</span>未受牛之力量与虔诚护盾影响时，导师的数值为 AC 10，接触 10，措手不及 10；近战 精制品矛 +5（1d8/×3）；远程 精制品矛 +5（1d8/×3）；力量 11；CMB +4；CMD 14。</div>
+|str=15
+|dex=10
+|con=12
+|int=10
+|wis=16
+|cha=8
+|bab=+4
+|cmb=+6
+|cmd=19
+|feats=[[战斗施法]];[[钢铁意志]];[[技能专攻]]（知识［宗教］，表演［演说］）;[[法术专攻]]（塑能）
+|skills=[[特技]]+3;[[交涉]]+7;[[知识]]（宗教）+14;[[表演]]（演说）+10
+|sq=精灵血统;召唤魔宠（猴子）
+|combat_gear=羽符（长鞭）;虔诚护盾药水（施法者等级6）;灼热射线卷轴（施法者等级7）;蛛网术卷轴;治疗中伤魔杖（15发）;闪电束魔杖（7发）
+|gear=精制品矛;抗力披风+1;银质圣徽;法术材料包;443gp
+|source=NPC志
+|family=NPC职业（NPC志）
+|npc=1
+|lore=
+异端者一心要让信众改宗，离开那个用谎言蒙蔽他们的教会。
+}}
+
+
+本页译自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=130024.msg1460427#msg1460427 【NPCC】NPC职业：导师（Adept）]（原译者：dr.fate；沉沦校对润饰）。
+{{AoN原文|1=NPCDisplay.aspx?ItemName=Heretic|2=Heretic}}

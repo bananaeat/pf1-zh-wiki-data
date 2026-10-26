@@ -2,7 +2,7 @@
 {{Feat
 |name=包卷厌恶
 |english_name=Engulf Revulsion
-|categories=战斗
+|categories=战斗;怪物
 |pfs=否
 |description=你扼喉攻击那令人翻肠倒胃的恐怖，让生物既恶心又虚弱。
 |prerequisites=包卷或扼喉通用怪物特殊能力。

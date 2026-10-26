@@ -1,8 +1,8 @@
+{{PFS特殊|1=该专长只对近战武器生效。|ai=1}}
 {{Feat
 |name=精灵武技专攻
 |english_name=Elven Battle Focus
 |categories=战斗
-|pfs=否
 |description=聪明才智能帮助你强化攻击的威力。
 |prerequisites=智力13，[[精灵武技]]，[[精灵战斗训练]]ARG，[[武器娴熟]]，基本攻击加值+4，武器熟悉种族特性
 |benefit=当你使用精灵武技时，你能够将智力调整值加到武器的伤害上（来取代任何其他让你能够加到武器伤害上的属性加值或调整值）。该武器必须符合你的体型。

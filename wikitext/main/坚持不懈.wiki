@@ -1,3 +1,4 @@
+{{PFS特殊|1=Obsessed with Success对日常工作检定无效。}}
 {{Trait
 |name=坚持不懈
 |english_name=Obsessed with Success

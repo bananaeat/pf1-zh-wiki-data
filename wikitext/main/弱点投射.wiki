@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=弱点投射
 |english_name=Project weakness

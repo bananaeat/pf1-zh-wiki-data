@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=循环转生术
 |english_name=Cyclic reincarnation

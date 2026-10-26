@@ -1,3 +1,4 @@
+{{PFS特殊|1=密艺狂徒（Eldritch Scoundrel）不可与《解放》版的游荡者同时使用。}}
 {{Source|秘术选集|Arcane Anthology}}
 
 '''秘艺狂徒'''（Eldritch Scoundrel）是[[盗贼]]的[[变体职业]]。

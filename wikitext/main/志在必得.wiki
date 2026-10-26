@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=志在必得|en=Bestow Resolve|type=Su|domain=力量领域|sub=决意子域 (Resolve)|sub_name=决意子域|source=进阶玩家指南|text=到了8级，可令20尺内所有盟友获得你“牧师等级+[[感知]]调整值”点数临时生命，持续1分钟。每天1次，每比8级高4级多1次。此能力替换[[力量领域#神力 (Might of the Gods, Su)|神力]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

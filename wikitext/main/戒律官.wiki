@@ -1,0 +1,48 @@
+{{速查导航}}
+{{怪物
+|name=戒律官
+|english_name=Enforcer
+|cr=3
+|xp=800
+|classline=人类导师5
+|alignment=中立邪恶
+|size=中型
+|type=类人生物
+|subtypes=人类
+|init=+1
+|senses=察觉+4
+|ac=15，接触 11，措手不及 14（+4护甲，+1敏捷）
+|hp=27（5d6+10）
+|fort=+2
+|ref=+5
+|will=+7
+|speed=30尺
+|melee=精制品木棒 +7（1d6+6）
+|ranged=匕首 +3（1d4+4/19–20）
+|spells=已准备导师法术（施法者等级5，专注+7）；2级—[[牛之力量]]，[[镜影术]]；1级—[[惊恐术]]（DC 13），[[命令术]]（DC 13），[[治疗轻伤]]；0级（随意）—[[幻音术]]（DC 12），[[光亮术]]，[[稳定伤势]]
+|tactics=<div class="ml wide"><span class="k">战斗前</span>导师施放牛之力量。</div><div class="ml wide"><span class="k">战斗中</span>导师施放镜影术，然后用木棒攻击。如果他很难打中对手，就改用燃烧之手魔杖。</div><div class="ml wide"><span class="k">基础数据</span>未受牛之力量影响时，导师的数值为：近战 精制品木棒 +5（1d6+3）；远程 匕首 +3（1d4+2/19–20）；力量 14；CMB +4；CMD 15。</div>
+|str=18
+|dex=12
+|con=11
+|int=9
+|wis=14
+|cha=8
+|bab=+2
+|cmb=+6
+|cmd=17
+|feats=[[顺势斩]];擅长轻甲;[[猛力攻击]];[[健壮]]
+|skills=[[威吓]]+4;[[知识]]（本地）+4;[[知识]]（宗教）+3;[[察觉]]+4
+|languages=通用语
+|sq=召唤魔宠（鼬）
+|combat_gear=治疗中伤卷轴;燃烧之手魔杖（施法者等级5，9发）;炽火胶（3）;绊足包
+|gear=链甲衫;匕首;精制品木棒;抗力披风+1;腰包;镣铐（2）;银质圣徽;法术材料包;2gp
+|source=NPC志
+|family=NPC职业（NPC志）
+|npc=1
+|lore=
+戒律官以威胁与暴力达成双重目的：恫吓他所属宗教的敌人，并审判那些以为自己可以背叛或背弃神圣大业的教众。
+}}
+
+
+本页译自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=130024.msg1460424#msg1460424 【NPCC】NPC职业：导师（Adept）]（原译者：dr.fate；沉沦校对润饰）。
+{{AoN原文|1=NPCDisplay.aspx?ItemName=Enforcer|2=Enforcer}}

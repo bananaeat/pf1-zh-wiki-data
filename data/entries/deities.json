@@ -1624,6 +1624,50 @@
   }
  },
  {
+  "title": "乌阿兰萨夫",
+  "url": "https://pf1.huijiwiki.com/wiki/乌阿兰萨夫",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "乌阿兰萨夫",
+   "english_name": "Uaransaph",
+   "title": "爬行深坑（The Creeping Pit）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "连发弩",
+   "portfolio": "坠落，非魔法飞行，投射物",
+   "domains": "[[气领域|气]]，[[邪恶领域(领域)|邪恶]]，[[机运领域|机运]]，Void (page 182)",
+   "subdomains": "[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[机运领域#天命子域 (Fate)|天命子域]]，[[虚空领域#孤寂子域 (Isolation)|孤寂子域]]，[[气领域#风子域 (Wind)|风子域]]",
+   "symbol": "从深坑中升起的烟",
+   "symbol_label": "邪徽",
+   "animal": "活板门蛛",
+   "color": "黑色，棕色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "乌阿兰萨夫",
+   "english_name": "Uaransaph",
+   "title": "爬行深坑（The Creeping Pit）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "连发弩",
+   "portfolio": "坠落，非魔法飞行，投射物",
+   "domains": "气，邪恶，机运，Void (page 182)",
+   "subdomains": "邪魔子域，天命子域，孤寂子域，风子域",
+   "symbol": "从深坑中升起的烟",
+   "symbol_label": "邪徽",
+   "animal": "活板门蛛",
+   "color": "黑色，棕色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  }
+ },
+ {
   "title": "乌鲁斯卡里",
   "url": "https://pf1.huijiwiki.com/wiki/乌鲁斯卡里",
   "template": "神祇",
@@ -2395,6 +2439,50 @@
   }
  },
  {
+  "title": "克哈斯纳法尔",
+  "url": "https://pf1.huijiwiki.com/wiki/克哈斯纳法尔",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "克哈斯纳法尔",
+   "english_name": "Xhasnaphar",
+   "title": "无面真相（The Faceless Truth）",
+   "alignment": "守序邪恶（LE）",
+   "weapon": "[[手弩]]",
+   "portfolio": "面具，丑陋，意志",
+   "domains": "[[邪恶领域(领域)|邪恶]]，[[秩序领域|秩序]]，[[解放领域|解放]]，[[保护领域|保护]]",
+   "subdomains": "[[邪恶领域(领域)#魔鬼子域 (Devil)|魔鬼子域（邪恶）]]，[[秩序领域#魔鬼子域 (Devil)|魔鬼子域（秩序）]]，[[邪恶领域(领域)#恐惧子域 (Fear)|恐惧子域]]，[[解放领域#自由子域 (Freedom)|自由子域]]，[[解放领域#革命子域 (Revolution)|革命子域]]",
+   "symbol": "可怖的皮革面具",
+   "symbol_label": "邪徽",
+   "animal": "树懒",
+   "color": "棕色，红色",
+   "pantheon": "炼狱大公",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "克哈斯纳法尔",
+   "english_name": "Xhasnaphar",
+   "title": "无面真相（The Faceless Truth）",
+   "alignment": "守序邪恶（LE）",
+   "weapon": "手弩",
+   "portfolio": "面具，丑陋，意志",
+   "domains": "邪恶，秩序，解放，保护",
+   "subdomains": "魔鬼子域（邪恶），魔鬼子域（秩序），恐惧子域，自由子域，革命子域",
+   "symbol": "可怖的皮革面具",
+   "symbol_label": "邪徽",
+   "animal": "树懒",
+   "color": "棕色，红色",
+   "pantheon": "炼狱大公",
+   "source": "内海诸神、永罪之书"
+  }
+ },
+ {
   "title": "克洛塞尔",
   "url": "https://pf1.huijiwiki.com/wiki/克洛塞尔",
   "template": "神祇",
@@ -2435,6 +2523,50 @@
   }
  },
  {
+  "title": "克洛斯贝尔",
+  "url": "https://pf1.huijiwiki.com/wiki/克洛斯贝尔",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "克洛斯贝尔",
+   "english_name": "Corosbel",
+   "title": "寂静圣徒（The Silent Saint）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[匕首]]",
+   "portfolio": "殉道未遂，虚假崇拜，仪式性死亡",
+   "domains": "[[死亡领域|死亡]]，[[邪恶领域(领域)|邪恶]]，[[安眠领域|安眠]]，[[诡术领域|诡术]]",
+   "subdomains": "[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[诡术领域#欺骗子域 (Deception)|欺骗子域]]，[[死亡领域#杀戮子域 (Murder)|杀戮子域]]，[[安眠领域#灵魂子域 (Souls)|灵魂子域]]",
+   "symbol": "断指之手",
+   "symbol_label": "邪徽",
+   "animal": "牛犊",
+   "color": "红色，白色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "克洛斯贝尔",
+   "english_name": "Corosbel",
+   "title": "寂静圣徒（The Silent Saint）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "匕首",
+   "portfolio": "殉道未遂，虚假崇拜，仪式性死亡",
+   "domains": "死亡，邪恶，安眠，诡术",
+   "subdomains": "邪魔子域，欺骗子域，杀戮子域，灵魂子域",
+   "symbol": "断指之手",
+   "symbol_label": "邪徽",
+   "animal": "牛犊",
+   "color": "红色，白色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  }
+ },
+ {
   "title": "克苏鲁",
   "url": "https://pf1.huijiwiki.com/wiki/克苏鲁",
   "template": "神祇",
@@ -2471,6 +2603,50 @@
    "color": "黑色，蓝色",
    "pantheon": "旧日支配者",
    "source": "冒险之路109：寻觅理智"
+  }
+ },
+ {
+  "title": "克西斯泰德",
+  "url": "https://pf1.huijiwiki.com/wiki/克西斯泰德",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "克西斯泰德",
+   "english_name": "Xsistaid",
+   "title": "蠕动之伤（The Wriggling Wound）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[飞镖]]",
+   "portfolio": "蛆虫，蝇蛆病，寄生虫",
+   "domains": "[[动物领域|动物]]，[[魅惑领域|魅惑]]，[[毁灭领域|毁灭]]，[[邪恶领域(领域)|邪恶]]",
+   "subdomains": "[[毁灭领域#天灾子域 (Catastrophe)|天灾子域]]，[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[毁灭领域#折磨子域 (Torture)|折磨子域]]，[[死亡领域#亡灵子域 (Undead)|亡灵子域]]",
+   "symbol": "满嘴蛆虫",
+   "symbol_label": "邪徽",
+   "animal": "肤蝇",
+   "color": "棕色，白色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "克西斯泰德",
+   "english_name": "Xsistaid",
+   "title": "蠕动之伤（The Wriggling Wound）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "飞镖",
+   "portfolio": "蛆虫，蝇蛆病，寄生虫",
+   "domains": "动物，魅惑，毁灭，邪恶",
+   "subdomains": "天灾子域，邪魔子域，折磨子域，亡灵子域",
+   "symbol": "满嘴蛆虫",
+   "symbol_label": "邪徽",
+   "animal": "肤蝇",
+   "color": "棕色，白色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
   }
  },
  {
@@ -3786,6 +3962,48 @@
   }
  },
  {
+  "title": "哈斯特里卡尔",
+  "url": "https://pf1.huijiwiki.com/wiki/哈斯特里卡尔",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "哈斯特里卡尔",
+   "english_name": "Hastrikhal",
+   "title": "体内之火（The Fires Within）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[矛]]",
+   "portfolio": "爆炸，焚身，纵火狂",
+   "domains": "[[毁灭领域|毁灭]]，[[邪恶领域(领域)|邪恶]]，[[火领域|火]]，[[狂乱领域|狂乱]]",
+   "subdomains": "[[火领域#灰烬子域 (Ash)|灰烬子域]]，[[毁灭领域#天灾子域 (Catastrophe)|天灾子域]]，[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[火领域#烟幕子域 (Smoke)|烟幕子域]]",
+   "symbol": "火焰与烟雾的螺旋",
+   "symbol_label": "邪徽",
+   "color": "灰色，橙色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "哈斯特里卡尔",
+   "english_name": "Hastrikhal",
+   "title": "体内之火（The Fires Within）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "矛",
+   "portfolio": "爆炸，焚身，纵火狂",
+   "domains": "毁灭，邪恶，火，狂乱",
+   "subdomains": "灰烬子域，天灾子域，邪魔子域，烟幕子域",
+   "symbol": "火焰与烟雾的螺旋",
+   "symbol_label": "邪徽",
+   "color": "灰色，橙色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  }
+ },
+ {
   "title": "哈索尔",
   "url": "https://pf1.huijiwiki.com/wiki/哈索尔",
   "template": "神祇",
@@ -3986,6 +4204,50 @@
   }
  },
  {
+  "title": "埃尔迪兹",
+  "url": "https://pf1.huijiwiki.com/wiki/埃尔迪兹",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "埃尔迪兹",
+   "english_name": "Ealdeez",
+   "title": "梦后之兽（The Beast Behind the Dream）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[巨木棒]]",
+   "portfolio": "退化，复归，野蛮复仇",
+   "domains": "[[动物领域|动物]]，[[毁灭领域|毁灭]]，[[邪恶领域(领域)|邪恶]]，[[力量领域|力量]]",
+   "subdomains": "[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[力量领域#凶猛子域 (Ferocity)|凶猛子域]]，[[动物领域#毛兽子域 (Fur)|毛兽子域]]，[[毁灭领域#狂暴子域 (Rage)|狂暴子域]]",
+   "symbol": "染血的利爪",
+   "symbol_label": "邪徽",
+   "animal": "猿",
+   "color": "黑色，红色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "埃尔迪兹",
+   "english_name": "Ealdeez",
+   "title": "梦后之兽（The Beast Behind the Dream）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "巨木棒",
+   "portfolio": "退化，复归，野蛮复仇",
+   "domains": "动物，毁灭，邪恶，力量",
+   "subdomains": "邪魔子域，凶猛子域，毛兽子域，狂暴子域",
+   "symbol": "染血的利爪",
+   "symbol_label": "邪徽",
+   "animal": "猿",
+   "color": "黑色，红色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  }
+ },
+ {
   "title": "埃拉斯蒂尔",
   "url": "https://pf1.huijiwiki.com/wiki/埃拉斯蒂尔",
   "template": "神祇",
@@ -4028,6 +4290,50 @@
    "other_pantheons": "侏儒神祇，半身人神祇，砂点镇神系，乌尔芬人神系",
    "pantheon": "核心神祇",
    "source": "内海诸神"
+  }
+ },
+ {
+  "title": "埃斯杜拉斯",
+  "url": "https://pf1.huijiwiki.com/wiki/埃斯杜拉斯",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "埃斯杜拉斯",
+   "english_name": "Aesdurath",
+   "title": "苍白寡妇（The Pale Dowager）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[匕首]]",
+   "portfolio": "不朽，巫妖，魔法灾变",
+   "domains": "[[死亡领域|死亡]]，[[邪恶领域(领域)|邪恶]]，[[魔法领域|魔法]]，[[诡术领域|诡术]]",
+   "subdomains": "[[魔法领域#奥秘子域 (Arcane)|奥秘子域]]，[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[魔法领域#神力子域 (Divine)|神力子域]]，[[死亡领域#亡灵子域 (Undead)|亡灵子域]]",
+   "symbol": "水晶骷髅",
+   "symbol_label": "邪徽",
+   "animal": "乌鸦",
+   "color": "水晶色，白色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "埃斯杜拉斯",
+   "english_name": "Aesdurath",
+   "title": "苍白寡妇（The Pale Dowager）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "匕首",
+   "portfolio": "不朽，巫妖，魔法灾变",
+   "domains": "死亡，邪恶，魔法，诡术",
+   "subdomains": "奥秘子域，邪魔子域，神力子域，亡灵子域",
+   "symbol": "水晶骷髅",
+   "symbol_label": "邪徽",
+   "animal": "乌鸦",
+   "color": "水晶色，白色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
   }
  },
  {
@@ -4142,6 +4448,50 @@
    "subdomains": "自由子域，疯狂子域，梦魇子域，革命子域",
    "pantheon": "阿修罗魔尊",
    "source": "永罪之书"
+  }
+ },
+ {
+  "title": "塔米德",
+  "url": "https://pf1.huijiwiki.com/wiki/塔米德",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "塔米德",
+   "english_name": "Tamede",
+   "title": "菌心者（The Fungal-Hearted）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[镰刀]]",
+   "portfolio": "真菌，感染的伤口，腐烂",
+   "domains": "[[毁灭领域|毁灭]]，[[邪恶领域(领域)|邪恶]]，[[植物领域|植物]]，[[战争领域|战争]]",
+   "subdomains": "[[战争领域#鲜血子域 (Blood)|鲜血子域]]，[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[植物领域#腐朽子域 (Decay)|腐朽子域]]，[[植物领域#滋长子域 (Growth)|滋长子域]]",
+   "symbol": "骷髅头上的蘑菇",
+   "symbol_label": "邪徽",
+   "animal": "甲虫",
+   "color": "绿色，红色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "塔米德",
+   "english_name": "Tamede",
+   "title": "菌心者（The Fungal-Hearted）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "镰刀",
+   "portfolio": "真菌，感染的伤口，腐烂",
+   "domains": "毁灭，邪恶，植物，战争",
+   "subdomains": "鲜血子域，邪魔子域，腐朽子域，滋长子域",
+   "symbol": "骷髅头上的蘑菇",
+   "symbol_label": "邪徽",
+   "animal": "甲虫",
+   "color": "绿色，红色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
   }
  },
  {
@@ -4280,6 +4630,9 @@
    "symbol": "三叉戟与戒指",
    "animal": "嘲鸫",
    "color": "红色，黄色",
+   "temples": "出庭律师的事务所与总部，深奥的图书馆与卷轴库，监狱建筑群<!--AI补译-->",
+   "worshipers": "骗子，邪恶的出庭律师，堕落而绝望者，邪恶的狱卒<!--AI补译-->",
+   "minions": "[[魔鬼，同谋魔鬼|同谋魔鬼]]（《内海诸神》279页），[[魔鬼，叛教魔|叛教魔]]（B5），[[魔鬼，契约魔|契约魔]]（B3），[[魔鬼，仆魔|仆魔]]（B2），[[魔鬼，角魔|角魔]]，[[魔鬼，冰魔|冰魔]]<!--AI补译-->",
    "pantheon": "魔鬼大公",
    "source": "冒险之路102：碎裂地狱之骨、永罪之书"
   },
@@ -4295,6 +4648,9 @@
    "symbol": "三叉戟与戒指",
    "animal": "嘲鸫",
    "color": "红色，黄色",
+   "temples": "出庭律师的事务所与总部，深奥的图书馆与卷轴库，监狱建筑群",
+   "worshipers": "骗子，邪恶的出庭律师，堕落而绝望者，邪恶的狱卒",
+   "minions": "同谋魔鬼（《内海诸神》279页），叛教魔（B5），契约魔（B3），仆魔（B2），角魔，冰魔",
    "pantheon": "魔鬼大公",
    "source": "冒险之路102：碎裂地狱之骨、永罪之书"
   }
@@ -4438,6 +4794,9 @@
    "symbol": "泪痕",
    "animal": "黑豹",
    "color": "灰色，红色",
+   "temples": "无处可逃的监狱，用来藏匿被绑架者的地点，拷问室<!--AI补译-->",
+   "worshipers": "链魔与召唤链魔的魔鬼大师，无情的拷问者，施虐狂<!--AI补译-->",
+   "minions": "[[魔鬼，叛教魔|叛教魔]]（B5），[[链魔，邪隐魔|邪隐魔]]（B3），邪链魔，[[魔鬼，冰魔|冰魔]]，[[邪刻魔]]（B4）<!--AI补译-->",
    "pantheon": "暗夜女王",
    "source": "内海诸神、永罪之书"
   },
@@ -4453,6 +4812,9 @@
    "symbol": "泪痕",
    "animal": "黑豹",
    "color": "灰色，红色",
+   "temples": "无处可逃的监狱，用来藏匿被绑架者的地点，拷问室",
+   "worshipers": "链魔与召唤链魔的魔鬼大师，无情的拷问者，施虐狂",
+   "minions": "叛教魔（B5），邪隐魔（B3），邪链魔，冰魔，邪刻魔（B4）",
    "pantheon": "暗夜女王",
    "source": "内海诸神、永罪之书"
   }
@@ -5102,6 +5464,50 @@
   }
  },
  {
+  "title": "奥索尔米尔",
+  "url": "https://pf1.huijiwiki.com/wiki/奥索尔米尔",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "奥索尔米尔",
+   "english_name": "Osolmyr",
+   "title": "唯一真梦（The One True Dream）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[轻型链枷]]",
+   "portfolio": "鞭笞，压抑，自我否定",
+   "domains": "[[邪恶领域(领域)|邪恶]]，[[荣耀领域|荣耀]]，[[医疗领域|医疗]]，[[狂乱领域|狂乱]]",
+   "subdomains": "[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[荣耀领域#英勇子域 (Heroism)|英勇子域]]，[[狂乱领域#疯狂子域 (Insanity)|疯狂子域]]，[[医疗领域#回生子域 (Resurrection)|回生子域]]",
+   "symbol": "染血的鞭子",
+   "symbol_label": "邪徽",
+   "animal": "阿尔比恩孔雀（Albion peacock）",
+   "color": "粉色，白色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "奥索尔米尔",
+   "english_name": "Osolmyr",
+   "title": "唯一真梦（The One True Dream）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "轻型链枷",
+   "portfolio": "鞭笞，压抑，自我否定",
+   "domains": "邪恶，荣耀，医疗，狂乱",
+   "subdomains": "邪魔子域，英勇子域，疯狂子域，回生子域",
+   "symbol": "染血的鞭子",
+   "symbol_label": "邪徽",
+   "animal": "阿尔比恩孔雀（Albion peacock）",
+   "color": "粉色，白色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  }
+ },
+ {
   "title": "奥蒂卡亚",
   "url": "https://pf1.huijiwiki.com/wiki/奥蒂卡亚",
   "template": "神祇",
@@ -5218,6 +5624,50 @@
    "minions": "卡崔娜（catrinas）、终天使（memitims）、幻灵、龙牙兵（udaeoi）、万特（vanths）",
    "pantheon": "监察者半神",
    "source": "对立协调"
+  }
+ },
+ {
+  "title": "姆尼奥克",
+  "url": "https://pf1.huijiwiki.com/wiki/姆尼奥克",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "姆尼奥克",
+   "english_name": "Mneoc",
+   "title": "疮痂祖父（Grandfather Scab）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[匕首]]",
+   "portfolio": "衰朽，器官衰竭，衰老",
+   "domains": "[[死亡领域|死亡]]，[[邪恶领域(领域)|邪恶]]，[[解放领域|解放]]，[[符文领域|符文]]",
+   "subdomains": "[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[邪恶领域(领域)#恐惧子域 (Fear)|恐惧子域]]，[[虚空领域#孤寂子域 (Isolation)|孤寂子域]]，[[死亡领域#亡灵子域 (Undead)|亡灵子域]]",
+   "symbol": "开裂的镜子",
+   "symbol_label": "邪徽",
+   "animal": "秃鹫",
+   "color": "灰色，白色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "姆尼奥克",
+   "english_name": "Mneoc",
+   "title": "疮痂祖父（Grandfather Scab）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "匕首",
+   "portfolio": "衰朽，器官衰竭，衰老",
+   "domains": "死亡，邪恶，解放，符文",
+   "subdomains": "邪魔子域，恐惧子域，孤寂子域，亡灵子域",
+   "symbol": "开裂的镜子",
+   "symbol_label": "邪徽",
+   "animal": "秃鹫",
+   "color": "灰色，白色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
   }
  },
  {
@@ -5399,7 +5849,7 @@
    "color": "黑色，红色",
    "temples": "丛林中的空地，城市废墟，庙塔",
    "worshipers": "查咯猿人，强大的四臂猩猩，丛林军阀，残暴的蜥类生物（sadistic saurians）",
-   "minions": "被启蒙的恐龙，巨大的炼狱凶暴猿，丛林中的怪物",
+   "minions": "被启蒙的恐龙，巨大的炼狱凶暴猿，[[四臂猩猩]]，丛林中的怪物",
    "pantheon": "恶魔领主",
    "source": "内海诸神、永罪之书第二卷：混沌领主、内海世界指南"
   },
@@ -5418,7 +5868,7 @@
    "color": "黑色，红色",
    "temples": "丛林中的空地，城市废墟，庙塔",
    "worshipers": "查咯猿人，强大的四臂猩猩，丛林军阀，残暴的蜥类生物（sadistic saurians）",
-   "minions": "被启蒙的恐龙，巨大的炼狱凶暴猿，丛林中的怪物",
+   "minions": "被启蒙的恐龙，巨大的炼狱凶暴猿，四臂猩猩，丛林中的怪物",
    "pantheon": "恶魔领主",
    "source": "内海诸神、永罪之书第二卷：混沌领主、内海世界指南"
   }
@@ -5872,6 +6322,9 @@
    "symbol": "镶嵌钻石的铁制王冠",
    "animal": "苍蝇",
    "color": "黑色，白色",
+   "temples": "堕落的天界诸神神殿，害虫与苍蝇的温室和庇护所，没落贵族的宅邸<!--AI补译-->",
+   "worshipers": "渴求权力的施法者，寻求复仇者，自私自利的领主<!--AI补译-->",
+   "minions": "精英[[魔鬼，角魔|角魔]]，高阶[[群舞魔]]（B4），[[魔鬼，冰魔|冰魔]]，[[僭神魔]]（B4），[[魔鬼，深渊炼魔|深渊炼魔]]<!--AI补译-->",
    "pantheon": "魔鬼大公",
    "source": "内海诸神、永罪之书"
   },
@@ -5887,6 +6340,9 @@
    "symbol": "镶嵌钻石的铁制王冠",
    "animal": "苍蝇",
    "color": "黑色，白色",
+   "temples": "堕落的天界诸神神殿，害虫与苍蝇的温室和庇护所，没落贵族的宅邸",
+   "worshipers": "渴求权力的施法者，寻求复仇者，自私自利的领主",
+   "minions": "精英角魔，高阶群舞魔（B4），冰魔，僭神魔（B4），深渊炼魔",
    "pantheon": "魔鬼大公",
    "source": "内海诸神、永罪之书"
   }
@@ -5952,6 +6408,9 @@
    "symbol": "有三只眼睛的胡须",
    "animal": "[[渡鸦]]",
    "color": "灰色，红色",
+   "temples": "神秘的乡间驿站，争议领土上的前哨或堡垒，僻静的林中神龛<!--AI补译-->",
+   "worshipers": "哀悼堕入地狱之魂者，暴君，邪恶的贸易巨头<!--AI补译-->",
+   "minions": "[[魔鬼，尖刺魔|尖刺魔]]，[[魔鬼，胡须魔|胡须魔]]，[[群舞魔]]（B4），[[魔鬼，深渊炼魔|深渊炼魔]]，骑乘[[梦魇(怪物)|梦魇]]或巨型炼狱[[铜鸟]]（B3）的各类魔鬼<!--AI补译-->",
    "pantheon": "魔鬼大公",
    "source": "内海诸神、永罪之书"
   },
@@ -5967,6 +6426,9 @@
    "symbol": "有三只眼睛的胡须",
    "animal": "渡鸦",
    "color": "灰色，红色",
+   "temples": "神秘的乡间驿站，争议领土上的前哨或堡垒，僻静的林中神龛",
+   "worshipers": "哀悼堕入地狱之魂者，暴君，邪恶的贸易巨头",
+   "minions": "尖刺魔，胡须魔，群舞魔（B4），深渊炼魔，骑乘梦魇或巨型炼狱铜鸟（B3）的各类魔鬼",
    "pantheon": "魔鬼大公",
    "source": "内海诸神、永罪之书"
   }
@@ -6099,6 +6561,50 @@
   }
  },
  {
+  "title": "布赖斯莫瓦(神祇)",
+  "url": "https://pf1.huijiwiki.com/wiki/布赖斯莫瓦(神祇)",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "布赖斯莫瓦",
+   "english_name": "Braismois",
+   "title": "寂静羽笔（The Silent Quill）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[轻型硬头锤]]",
+   "portfolio": "毁约，小字条款，不公平的交易",
+   "domains": "[[邪恶领域(领域)|邪恶]]，[[知识领域|知识]]，[[符文领域|符文]]，[[诡术领域|诡术]]",
+   "subdomains": "[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[诡术领域#欺骗子域 (Deception)|欺骗子域]]，[[符文领域#语言子域 (Language)|语言子域]]，[[知识领域#记忆子域 (Memory)|记忆子域]]",
+   "symbol": "滴毒的羽笔",
+   "symbol_label": "邪徽",
+   "animal": "鼬",
+   "color": "黑色，绿色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "布赖斯莫瓦",
+   "english_name": "Braismois",
+   "title": "寂静羽笔（The Silent Quill）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "轻型硬头锤",
+   "portfolio": "毁约，小字条款，不公平的交易",
+   "domains": "邪恶，知识，符文，诡术",
+   "subdomains": "邪魔子域，欺骗子域，语言子域，记忆子域",
+   "symbol": "滴毒的羽笔",
+   "symbol_label": "邪徽",
+   "animal": "鼬",
+   "color": "黑色，绿色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  }
+ },
+ {
   "title": "希加雷布",
   "url": "https://pf1.huijiwiki.com/wiki/希加雷布",
   "template": "神祇",
@@ -6216,6 +6722,50 @@
    "minions": "拉米亚，自绝魔（seraptis demon），自杀者衍变成的不死生物",
    "pantheon": "恶魔领主",
    "source": "内海诸神、永罪之书第二卷：混沌领主"
+  }
+ },
+ {
+  "title": "帕夫努里",
+  "url": "https://pf1.huijiwiki.com/wiki/帕夫努里",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "帕夫努里",
+   "english_name": "Pavnuri",
+   "title": "虚无之主（The Lord of Nothing）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[钉头锤]]",
+   "portfolio": "狂躁邪魔，食人，秘密信息",
+   "domains": "[[死亡领域|死亡]]，[[邪恶领域(领域)|邪恶]]，[[知识领域|知识]]，[[旅行领域|旅行]]",
+   "subdomains": "[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[符文领域#语言子域 (Language)|语言子域]]，[[死亡领域#杀戮子域 (Murder)|杀戮子域]]，[[知识领域#思想子域 (Thought)|思想子域]]",
+   "symbol": "巨口与燃烧的金字塔",
+   "symbol_label": "邪徽",
+   "animal": "猿",
+   "color": "黑色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "帕夫努里",
+   "english_name": "Pavnuri",
+   "title": "虚无之主（The Lord of Nothing）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "钉头锤",
+   "portfolio": "狂躁邪魔，食人，秘密信息",
+   "domains": "死亡，邪恶，知识，旅行",
+   "subdomains": "邪魔子域，语言子域，杀戮子域，思想子域",
+   "symbol": "巨口与燃烧的金字塔",
+   "symbol_label": "邪徽",
+   "animal": "猿",
+   "color": "黑色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
   }
  },
  {
@@ -6346,6 +6896,50 @@
    "animal": "蛇",
    "color": "红色，黄色",
    "pantheon": "炼狱大公",
+   "source": "内海诸神、永罪之书"
+  }
+ },
+ {
+  "title": "弗尔卡",
+  "url": "https://pf1.huijiwiki.com/wiki/弗尔卡",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "弗尔卡",
+   "english_name": "Folca",
+   "title": "枯瘦陌客（The Gaunt Stranger）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[捕网]]",
+   "portfolio": "绑架，陌生人，糖果",
+   "domains": "[[魅惑领域|魅惑]]，[[邪恶领域(领域)|邪恶]]，[[旅行领域|旅行]]，[[诡术领域|诡术]]",
+   "subdomains": "[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[诡术领域#欺骗子域 (Deception)|欺骗子域]]，[[旅行领域#探索子域 (Exploration)|探索子域]]，[[魅惑领域#情欲子域 (Lust)|情欲子域]]",
+   "symbol": "骷髅手中的一把糖果",
+   "symbol_label": "邪徽",
+   "animal": "黑鹳",
+   "color": "黑色，蓝色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "弗尔卡",
+   "english_name": "Folca",
+   "title": "枯瘦陌客（The Gaunt Stranger）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "捕网",
+   "portfolio": "绑架，陌生人，糖果",
+   "domains": "魅惑，邪恶，旅行，诡术",
+   "subdomains": "邪魔子域，欺骗子域，探索子域，情欲子域",
+   "symbol": "骷髅手中的一把糖果",
+   "symbol_label": "邪徽",
+   "animal": "黑鹳",
+   "color": "黑色，蓝色",
+   "pantheon": "邪魔先驱",
    "source": "内海诸神、永罪之书"
   }
  },
@@ -6538,6 +7132,9 @@
    "symbol": "雄狮血口中的太阳",
    "animal": "狮子",
    "color": "黄，橙",
+   "temples": "沙漠废墟，山顶修道院，天文台<!--AI补译-->",
+   "worshipers": "龙，佣兵，畏惧太阳者，不受双子眷顾者，好战的沙漠游牧民<!--AI补译-->",
+   "minions": "沙漠生物，狮子与类狮生物（如[[奇美拉]]和[[蝎狮]]）<!--AI补译-->",
    "pantheon": "恶魔领主",
    "source": "内海诸神、永罪之书第二卷：混沌领主"
   },
@@ -6553,8 +7150,53 @@
    "symbol": "雄狮血口中的太阳",
    "animal": "狮子",
    "color": "黄，橙",
+   "temples": "沙漠废墟，山顶修道院，天文台",
+   "worshipers": "龙，佣兵，畏惧太阳者，不受双子眷顾者，好战的沙漠游牧民",
+   "minions": "沙漠生物，狮子与类狮生物（如奇美拉和蝎狮）",
    "pantheon": "恶魔领主",
    "source": "内海诸神、永罪之书第二卷：混沌领主"
+  }
+ },
+ {
+  "title": "扎伊加斯纳",
+  "url": "https://pf1.huijiwiki.com/wiki/扎伊加斯纳",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "扎伊加斯纳",
+   "english_name": "Zaigasnar",
+   "title": "刀刃新娘（The Bladebride）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[标枪]]",
+   "portfolio": "毁灭性的虚荣，别针，激进的身体改造",
+   "domains": "[[魅惑领域|魅惑]]，[[毁灭领域|毁灭]]，[[邪恶领域(领域)|邪恶]]，[[解放领域|解放]]",
+   "subdomains": "[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[解放领域#自由子域 (Freedom)|自由子域]]，[[魅惑领域#情欲子域 (Lust)|情欲子域]]，[[毁灭领域#折磨子域 (Torture)|折磨子域]]",
+   "symbol": "缝合在一起的手指",
+   "symbol_label": "邪徽",
+   "color": "铁灰色，红色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "扎伊加斯纳",
+   "english_name": "Zaigasnar",
+   "title": "刀刃新娘（The Bladebride）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "标枪",
+   "portfolio": "毁灭性的虚荣，别针，激进的身体改造",
+   "domains": "魅惑，毁灭，邪恶，解放",
+   "subdomains": "邪魔子域，自由子域，情欲子域，折磨子域",
+   "symbol": "缝合在一起的手指",
+   "symbol_label": "邪徽",
+   "color": "铁灰色，红色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
   }
  },
  {
@@ -6850,6 +7492,9 @@
    "symbol": "三眼豺狼",
    "animal": "豺狼",
    "color": "红色，黄色",
+   "temples": "洞穴，地城，天然岩台，偏远荒野中的立石<!--AI补译-->",
+   "worshipers": "[[熊地精(怪物)|熊地精]]，[[德洛人]]，[[豺狼人(怪物)|豺狼人]]，疯狂者，[[拉米亚]]，[[莫洛克]]，[[食人魔(怪物)|食人魔]]<!--AI补译-->",
+   "minions": "所有恶魔和怪物（尤其是[[夜嘶猎犬]]），[[鬣狗]]，[[豺狼]]<!--AI补译-->",
    "centers": "贝尔克泽恩，依莉森，卡塔佩什，奈克斯，奥西里昂，河域诸国，瓦瑞西亚，世界之殇",
    "nationality": "恶魔",
    "other_pantheons": "天夏神祇，恶魔领主",
@@ -6868,6 +7513,9 @@
    "symbol": "三眼豺狼",
    "animal": "豺狼",
    "color": "红色，黄色",
+   "temples": "洞穴，地城，天然岩台，偏远荒野中的立石",
+   "worshipers": "熊地精，德洛人，豺狼人，疯狂者，拉米亚，莫洛克，食人魔",
+   "minions": "所有恶魔和怪物（尤其是夜嘶猎犬），鬣狗，豺狼",
    "centers": "贝尔克泽恩，依莉森，卡塔佩什，奈克斯，奥西里昂，河域诸国，瓦瑞西亚，世界之殇",
    "nationality": "恶魔",
    "other_pantheons": "天夏神祇，恶魔领主",
@@ -6950,6 +7598,50 @@
    "subdomains": "恐惧子域，失却子域，杀戮子域，暗夜子域",
    "pantheon": "阿修罗魔尊",
    "source": "永罪之书"
+  }
+ },
+ {
+  "title": "拉莫拉克",
+  "url": "https://pf1.huijiwiki.com/wiki/拉莫拉克",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "拉莫拉克",
+   "english_name": "Llamolaek",
+   "title": "升华者（The Ascended）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[长鞭]]",
+   "portfolio": "重生，成年礼，转变",
+   "domains": "[[气领域|气]]，[[邪恶领域(领域)|邪恶]]，[[解放领域|解放]]，[[力量领域|力量]]",
+   "subdomains": "[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[力量领域#凶猛子域 (Ferocity)|凶猛子域]]，[[解放领域#自由子域 (Freedom)|自由子域]]，[[气领域#风子域 (Wind)|风子域]]",
+   "symbol": "燃烧之眼与触手",
+   "symbol_label": "邪徽",
+   "animal": "蛾",
+   "color": "蓝色，银色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "拉莫拉克",
+   "english_name": "Llamolaek",
+   "title": "升华者（The Ascended）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "长鞭",
+   "portfolio": "重生，成年礼，转变",
+   "domains": "气，邪恶，解放，力量",
+   "subdomains": "邪魔子域，凶猛子域，自由子域，风子域",
+   "symbol": "燃烧之眼与触手",
+   "symbol_label": "邪徽",
+   "animal": "蛾",
+   "color": "蓝色，银色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
   }
  },
  {
@@ -7102,6 +7794,9 @@
    "symbol": "燃烧着火焰的公牛头",
    "animal": "公牛",
    "color": "橙色，黄色",
+   "temples": "邪恶的军事要塞，仪式窑炉，广阔的锻造场<!--AI补译-->",
+   "worshipers": "邪恶的军事化团体与领袖，战争贩子，邪恶的哨兵与定居点守卫<!--AI补译-->",
+   "minions": "炼狱吸血鬼，[[魔鬼，角魔|角魔]]，[[魔鬼，燔祭魔|燔祭魔]]（B2），[[魔鬼，深渊炼魔|深渊炼魔]]，[[好战魔]]（B5）<!--AI补译-->",
    "pantheon": "魔鬼大公",
    "source": "冒险之路105：炼狱之门、永罪之书"
   },
@@ -7117,6 +7812,9 @@
    "symbol": "燃烧着火焰的公牛头",
    "animal": "公牛",
    "color": "橙色，黄色",
+   "temples": "邪恶的军事要塞，仪式窑炉，广阔的锻造场",
+   "worshipers": "邪恶的军事化团体与领袖，战争贩子，邪恶的哨兵与定居点守卫",
+   "minions": "炼狱吸血鬼，角魔，燔祭魔（B2），深渊炼魔，好战魔（B5）",
    "pantheon": "魔鬼大公",
    "source": "冒险之路105：炼狱之门、永罪之书"
   }
@@ -7241,6 +7939,94 @@
   }
  },
  {
+  "title": "斯兰德莱斯",
+  "url": "https://pf1.huijiwiki.com/wiki/斯兰德莱斯",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "斯兰德莱斯",
+   "english_name": "Slandrais",
+   "title": "墙中窥视者（The Watcher in the Walls）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[短弓]]",
+   "portfolio": "好色，爱情药水，迷恋",
+   "domains": "[[黑暗领域|黑暗]]，[[邪恶领域(领域)|邪恶]]，[[知识领域|知识]]，[[魔法领域|魔法]]",
+   "subdomains": "[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[黑暗领域#失却子域 (Loss)|失却子域]]，[[魅惑领域#情欲子域 (Lust)|情欲子域]]，[[知识领域#思想子域 (Thought)|思想子域]]",
+   "symbol": "冒烟的粉色药剂",
+   "symbol_label": "邪徽",
+   "animal": "山羊",
+   "color": "棕色，粉色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "斯兰德莱斯",
+   "english_name": "Slandrais",
+   "title": "墙中窥视者（The Watcher in the Walls）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "短弓",
+   "portfolio": "好色，爱情药水，迷恋",
+   "domains": "黑暗，邪恶，知识，魔法",
+   "subdomains": "邪魔子域，失却子域，情欲子域，思想子域",
+   "symbol": "冒烟的粉色药剂",
+   "symbol_label": "邪徽",
+   "animal": "山羊",
+   "color": "棕色，粉色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  }
+ },
+ {
+  "title": "斯提吉德沃德",
+  "url": "https://pf1.huijiwiki.com/wiki/斯提吉德沃德",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "斯提吉德沃德",
+   "english_name": "Stygidvod",
+   "title": "藏尸之子（The Charnel Child）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[木棍]]",
+   "portfolio": "恐惧衰老，激进的永生之法，遗嘱",
+   "domains": "[[手艺领域|手艺]]，[[邪恶领域(领域)|邪恶]]，[[知识领域|知识]]，[[符文领域|符文]]",
+   "subdomains": "[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[符文领域#语言子域 (Language)|语言子域]]，[[知识领域#记忆子域 (Memory)|记忆子域]]，[[手艺领域#疲累子域 (Toil)|疲累子域]]",
+   "symbol": "血迹斑斑的长卷轴",
+   "symbol_label": "邪徽",
+   "animal": "渡鸦",
+   "color": "黑色，红色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "斯提吉德沃德",
+   "english_name": "Stygidvod",
+   "title": "藏尸之子（The Charnel Child）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "木棍",
+   "portfolio": "恐惧衰老，激进的永生之法，遗嘱",
+   "domains": "手艺，邪恶，知识，符文",
+   "subdomains": "邪魔子域，语言子域，记忆子域，疲累子域",
+   "symbol": "血迹斑斑的长卷轴",
+   "symbol_label": "邪徽",
+   "animal": "渡鸦",
+   "color": "黑色，红色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  }
+ },
+ {
   "title": "施瓦斯卡",
   "url": "https://pf1.huijiwiki.com/wiki/施瓦斯卡",
   "template": "神祇",
@@ -7261,6 +8047,9 @@
    "symbol": "有着13个小时的时钟面孔",
    "animal": "狼蛛",
    "color": "棕色，红色",
+   "temples": "洞窟，地城，监狱，劳役所<!--AI补译-->",
+   "worshipers": "恶霸，[[锁喉怪]]等异怪，施虐的典狱长与狱卒，奴隶贩子<!--AI补译-->",
+   "minions": "构装体（尤其是发条生物，B3），[[惧噬体]]，其他异怪<!--AI补译-->",
    "pantheon": "恶魔领主",
    "source": "内海诸神、永罪之书第二卷：混沌领主"
   },
@@ -7276,6 +8065,9 @@
    "symbol": "有着13个小时的时钟面孔",
    "animal": "狼蛛",
    "color": "棕色，红色",
+   "temples": "洞窟，地城，监狱，劳役所",
+   "worshipers": "恶霸，锁喉怪等异怪，施虐的典狱长与狱卒，奴隶贩子",
+   "minions": "构装体（尤其是发条生物，B3），惧噬体，其他异怪",
    "pantheon": "恶魔领主",
    "source": "内海诸神、永罪之书第二卷：混沌领主"
   }
@@ -7489,7 +8281,7 @@
    "symbol_label": "邪徽",
    "color": "绿色，红色",
    "temples": "山洞，垃圾场，污水管道",
-   "worshipers": "寻求其它位面力量的荒疫怪（blights，B6），吸毒者，投毒者，怠惰之人",
+   "worshipers": "寻求其它位面力量的荒疫怪（blights，B6），[[卓尔]]，吸毒者，投毒者，怠惰之人",
    "minions": "[[恶魔，泥魔|泥魔]]（omox demon，B2），泥怪",
    "pantheon": "恶魔领主",
    "source": "内海诸神、永罪之书第二卷：混沌领主"
@@ -7507,7 +8299,7 @@
    "symbol_label": "邪徽",
    "color": "绿色，红色",
    "temples": "山洞，垃圾场，污水管道",
-   "worshipers": "寻求其它位面力量的荒疫怪（blights，B6），吸毒者，投毒者，怠惰之人",
+   "worshipers": "寻求其它位面力量的荒疫怪（blights，B6），卓尔，吸毒者，投毒者，怠惰之人",
    "minions": "泥魔（omox demon，B2），泥怪",
    "pantheon": "恶魔领主",
    "source": "内海诸神、永罪之书第二卷：混沌领主"
@@ -7966,6 +8758,9 @@
    "symbol": "蛇头",
    "animal": "蛇",
    "color": "紫色，红色",
+   "temples": "废弃的图书馆，被亵渎的善良诸神神殿，被盗信息的存放处，满是蛇的绿洲<!--AI补译-->",
+   "worshipers": "亵渎者，阴谋论者与求真者，邪恶的学者<!--AI补译-->",
+   "minions": "[[魔鬼，叛教魔|叛教魔]]（B5），[[魔鬼，骨魔|骨魔]]，[[溺亡魔]]（B4），[[异端魔]]（B5），有灵智的炼狱蛇<!--AI补译-->",
    "pantheon": "魔鬼大公",
    "source": "冒险之路107：神爪之祸、永罪之书"
   },
@@ -7981,6 +8776,9 @@
    "symbol": "蛇头",
    "animal": "蛇",
    "color": "紫色，红色",
+   "temples": "废弃的图书馆，被亵渎的善良诸神神殿，被盗信息的存放处，满是蛇的绿洲",
+   "worshipers": "亵渎者，阴谋论者与求真者，邪恶的学者",
+   "minions": "叛教魔（B5），骨魔，溺亡魔（B4），异端魔（B5），有灵智的炼狱蛇",
    "pantheon": "魔鬼大公",
    "source": "冒险之路107：神爪之祸、永罪之书"
   }
@@ -8363,6 +9161,50 @@
   }
  },
  {
+  "title": "沃拉莎",
+  "url": "https://pf1.huijiwiki.com/wiki/沃拉莎",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "沃拉莎",
+   "english_name": "Vorasha",
+   "title": "蛇形者（The Ophidian）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[刺链]]",
+   "portfolio": "不治之症，毒药，毒性",
+   "domains": "[[邪恶领域(领域)|邪恶]]，[[魔法领域|魔法]]，Scalykind (page 181)，[[水领域|水]]",
+   "subdomains": "[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[植物领域#腐朽子域 (Decay)|腐朽子域]]，[[邪恶领域(领域)#恐惧子域 (Fear)|恐惧子域]]，[[鳞裔领域#毒液子域 (Venom)|毒液子域]]",
+   "symbol": "衔尾蛇与豺狼头",
+   "symbol_label": "邪徽",
+   "animal": "蝰蛇",
+   "color": "绿色，黄色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "沃拉莎",
+   "english_name": "Vorasha",
+   "title": "蛇形者（The Ophidian）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "刺链",
+   "portfolio": "不治之症，毒药，毒性",
+   "domains": "邪恶，魔法，Scalykind (page 181)，水",
+   "subdomains": "邪魔子域，腐朽子域，恐惧子域，毒液子域",
+   "symbol": "衔尾蛇与豺狼头",
+   "symbol_label": "邪徽",
+   "animal": "蝰蛇",
+   "color": "绿色，黄色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  }
+ },
+ {
   "title": "沙拉里",
   "url": "https://pf1.huijiwiki.com/wiki/沙拉里",
   "template": "神祇",
@@ -8521,6 +9363,50 @@
    "minions": "炼狱恐龙，炼狱爬行动物（尤其是巨蜥）",
    "pantheon": "恶魔领主",
    "source": "内海诸神、永罪之书第二卷：混沌领主"
+  }
+ },
+ {
+  "title": "泽利什卡",
+  "url": "https://pf1.huijiwiki.com/wiki/泽利什卡",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "泽利什卡",
+   "english_name": "Zelishkar",
+   "title": "苦涩凶焰（The Bitter Flame）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[刺叉]]",
+   "portfolio": "纵火，活活烧死，火葬",
+   "domains": "[[动物领域|动物]]，[[邪恶领域(领域)|邪恶]]，[[火领域|火]]，[[战争领域|战争]]",
+   "subdomains": "[[火领域#纵火子域 (Arson)|纵火子域]]，[[火领域#灰烬子域 (Ash)|灰烬子域]]，[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[战争领域#战术子域 (Tactics)|战术子域]]",
+   "symbol": "火葬堆上交叉的长枪",
+   "symbol_label": "邪徽",
+   "animal": "老虎",
+   "color": "橙色，红色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "泽利什卡",
+   "english_name": "Zelishkar",
+   "title": "苦涩凶焰（The Bitter Flame）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "刺叉",
+   "portfolio": "纵火，活活烧死，火葬",
+   "domains": "动物，邪恶，火，战争",
+   "subdomains": "纵火子域，灰烬子域，邪魔子域，战术子域",
+   "symbol": "火葬堆上交叉的长枪",
+   "symbol_label": "邪徽",
+   "animal": "老虎",
+   "color": "橙色，红色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
   }
  },
  {
@@ -8924,6 +9810,50 @@
   }
  },
  {
+  "title": "特雷斯马尔沃斯",
+  "url": "https://pf1.huijiwiki.com/wiki/特雷斯马尔沃斯",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "特雷斯马尔沃斯",
+   "english_name": "Tresmalvos",
+   "title": "蓄水池女王（The Cistern Queen）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[戟]]",
+   "portfolio": "污水池，捕鼠人，下水道",
+   "domains": "[[动物领域|动物]]，[[黑暗领域|黑暗]]，[[邪恶领域(领域)|邪恶]]，[[水领域|水]]",
+   "subdomains": "[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[水领域#漂浮子域 (Flotsam)|漂浮子域]]，[[动物领域#毛兽子域 (Fur)|毛兽子域]]，[[黑暗领域#失却子域 (Loss)|失却子域]]",
+   "symbol": "戴冠的老鼠头骨",
+   "symbol_label": "邪徽",
+   "animal": "老鼠",
+   "color": "黑色，红色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "特雷斯马尔沃斯",
+   "english_name": "Tresmalvos",
+   "title": "蓄水池女王（The Cistern Queen）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "戟",
+   "portfolio": "污水池，捕鼠人，下水道",
+   "domains": "动物，黑暗，邪恶，水",
+   "subdomains": "邪魔子域，漂浮子域，毛兽子域，失却子域",
+   "symbol": "戴冠的老鼠头骨",
+   "symbol_label": "邪徽",
+   "animal": "老鼠",
+   "color": "黑色，红色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  }
+ },
+ {
   "title": "犹格·索托斯",
   "url": "https://pf1.huijiwiki.com/wiki/犹格·索托斯",
   "template": "神祇",
@@ -9097,6 +10027,9 @@
    "symbol": "带有宝石的骷髅手 或 被诸多神秘符文包围的大眼",
    "animal": "蜻蜓",
    "color": "金色，象牙色",
+   "temples": "洞窟，墓地，心灵景观<!--AI补译-->",
+   "worshipers": "炼金术士，吸毒者，心怀怨恨的梦想家，幻术师，被放逐者<!--AI补译-->",
+   "minions": "堕落的渡魂使，不死生物<!--AI补译-->",
    "pantheon": "暗夜女王",
    "source": "Pathfinder #99: Dance of the Damned"
   },
@@ -9112,6 +10045,9 @@
    "symbol": "带有宝石的骷髅手 或 被诸多神秘符文包围的大眼",
    "animal": "蜻蜓",
    "color": "金色，象牙色",
+   "temples": "洞窟，墓地，心灵景观",
+   "worshipers": "炼金术士，吸毒者，心怀怨恨的梦想家，幻术师，被放逐者",
+   "minions": "堕落的渡魂使，不死生物",
    "pantheon": "暗夜女王",
    "source": "Pathfinder #99: Dance of the Damned"
   }
@@ -9594,6 +10530,50 @@
   }
  },
  {
+  "title": "盖昂",
+  "url": "https://pf1.huijiwiki.com/wiki/盖昂",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "盖昂",
+   "english_name": "Geon",
+   "title": "舞蹈魔（The Dancing Fiend）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[长枪]]",
+   "portfolio": "噩梦，四马分尸，践踏",
+   "domains": "[[气领域|气]]，[[邪恶领域(领域)|邪恶]]，[[火领域|火]]，[[旅行领域|旅行]]",
+   "subdomains": "[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[邪恶领域(领域)#恐惧子域 (Fear)|恐惧子域]]，[[狂乱领域#梦魇子域 (Nightmare)|梦魇子域]]，[[气领域#风子域 (Wind)|风子域]]",
+   "symbol": "人立而起的马",
+   "symbol_label": "邪徽",
+   "animal": "战马",
+   "color": "棕色，红色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "盖昂",
+   "english_name": "Geon",
+   "title": "舞蹈魔（The Dancing Fiend）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "长枪",
+   "portfolio": "噩梦，四马分尸，践踏",
+   "domains": "气，邪恶，火，旅行",
+   "subdomains": "邪魔子域，恐惧子域，梦魇子域，风子域",
+   "symbol": "人立而起的马",
+   "symbol_label": "邪徽",
+   "animal": "战马",
+   "color": "棕色，红色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  }
+ },
+ {
   "title": "盖普",
   "url": "https://pf1.huijiwiki.com/wiki/盖普",
   "template": "神祇",
@@ -9863,6 +10843,8 @@
    "symbol_label": "邪徽",
    "animal": "北极熊",
    "color": "蓝色，白色",
+   "temples": "冰封的城堡，冰川堡垒，结冰的山洞，偏远的高山谷地<!--AI补译-->",
+   "worshipers": "[[双头巨人]]，[[霜巨人]]，[[山丘巨人]]，厌女者，[[食人魔(怪物)|食人魔]]，[[白龙]]<!--AI补译-->",
    "minions": "霜虫，炼狱雪人，冰魔像，冰雪蛇龙，百足魔虫",
    "pantheon": "恶魔领主",
    "source": "内海诸神、永罪之书第二卷：混沌领主"
@@ -9880,6 +10862,8 @@
    "symbol_label": "邪徽",
    "animal": "北极熊",
    "color": "蓝色，白色",
+   "temples": "冰封的城堡，冰川堡垒，结冰的山洞，偏远的高山谷地",
+   "worshipers": "双头巨人，霜巨人，山丘巨人，厌女者，食人魔，白龙",
    "minions": "霜虫，炼狱雪人，冰魔像，冰雪蛇龙，百足魔虫",
    "pantheon": "恶魔领主",
    "source": "内海诸神、永罪之书第二卷：混沌领主"
@@ -10275,6 +11259,50 @@
   }
  },
  {
+  "title": "纳尔蒙格德",
+  "url": "https://pf1.huijiwiki.com/wiki/纳尔蒙格德",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "纳尔蒙格德",
+   "english_name": "Nalmungder",
+   "title": "楼梯下的等候者（He Who Waits Below the Stairs）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[镰刀]]",
+   "portfolio": "地下室，壁橱，安全的错觉",
+   "domains": "[[黑暗领域|黑暗]]，[[土领域|土]]，[[邪恶领域(领域)|邪恶]]，[[诡术领域|诡术]]",
+   "subdomains": "[[土领域#窟子域 (Caves)|窟子域]]，[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[诡术领域#欺骗子域 (Deception)|欺骗子域]]，[[黑暗领域#失却子域 (Loss)|失却子域]]",
+   "symbol": "通往黑暗的向下楼梯",
+   "symbol_label": "邪徽",
+   "animal": "蜘蛛",
+   "color": "黑色，棕色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "纳尔蒙格德",
+   "english_name": "Nalmungder",
+   "title": "楼梯下的等候者（He Who Waits Below the Stairs）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "镰刀",
+   "portfolio": "地下室，壁橱，安全的错觉",
+   "domains": "黑暗，土，邪恶，诡术",
+   "subdomains": "窟子域，邪魔子域，欺骗子域，失却子域",
+   "symbol": "通往黑暗的向下楼梯",
+   "symbol_label": "邪徽",
+   "animal": "蜘蛛",
+   "color": "黑色，棕色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  }
+ },
+ {
   "title": "纳拉卡斯",
   "url": "https://pf1.huijiwiki.com/wiki/纳拉卡斯",
   "template": "神祇",
@@ -10492,6 +11520,50 @@
    "subdomains": "欺骗子域，恐惧子域，毛兽子域，暴政子域",
    "pantheon": "罗刹邪仙",
    "source": "永罪之书"
+  }
+ },
+ {
+  "title": "罗科罗洛斯",
+  "url": "https://pf1.huijiwiki.com/wiki/罗科罗洛斯",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "罗科罗洛斯",
+   "english_name": "Roqorolos",
+   "title": "受难者王子（Prince of the Wracked）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[捕网]]",
+   "portfolio": "漂流者，污水，海洋",
+   "domains": "[[邪恶领域(领域)|邪恶]]，[[旅行领域|旅行]]，[[水领域|水]]，[[天气领域|天气]]",
+   "subdomains": "[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[虚空领域#孤寂子域 (Isolation)|孤寂子域]]，[[水领域#海子域 (Oceans)|海子域]]，[[天气领域#风暴子域 (Storms)|风暴子域]]",
+   "symbol": "下沉的船",
+   "symbol_label": "邪徽",
+   "animal": "鲨鱼",
+   "color": "蓝色，黄色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "罗科罗洛斯",
+   "english_name": "Roqorolos",
+   "title": "受难者王子（Prince of the Wracked）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "捕网",
+   "portfolio": "漂流者，污水，海洋",
+   "domains": "邪恶，旅行，水，天气",
+   "subdomains": "邪魔子域，孤寂子域，海子域，风暴子域",
+   "symbol": "下沉的船",
+   "symbol_label": "邪徽",
+   "animal": "鲨鱼",
+   "color": "蓝色，黄色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
   }
  },
  {
@@ -10744,6 +11816,9 @@
    "symbol": "有角长弓",
    "animal": "[[渡鸦]]",
    "color": "黑色，橘色",
+   "temples": "塑肉场所，整军的战场，军营<!--AI补译-->",
+   "worshipers": "怨恨的贵族，心怀不满的魔鬼大师，邪恶的将军<!--AI补译-->",
+   "minions": "[[魔鬼，控斥魔|控斥魔]]，[[魔鬼，怒魔|怒魔]]，[[魔鬼，角魔|角魔]]，[[魔鬼，深渊炼魔|深渊炼魔]]，[[好战魔]]（B5）<!--AI补译-->",
    "pantheon": "暗夜女王",
    "source": "内海诸神、永罪之书"
   },
@@ -10759,6 +11834,9 @@
    "symbol": "有角长弓",
    "animal": "渡鸦",
    "color": "黑色，橘色",
+   "temples": "塑肉场所，整军的战场，军营",
+   "worshipers": "怨恨的贵族，心怀不满的魔鬼大师，邪恶的将军",
+   "minions": "控斥魔，怒魔，角魔，深渊炼魔，好战魔（B5）",
    "pantheon": "暗夜女王",
    "source": "内海诸神、永罪之书"
   }
@@ -11253,6 +12331,50 @@
   }
  },
  {
+  "title": "莱瓦提尼尔",
+  "url": "https://pf1.huijiwiki.com/wiki/莱瓦提尼尔",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "莱瓦提尼尔",
+   "english_name": "Laivatiniel",
+   "title": "摇篮中的锁链（The Chains in the Cradle）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[轻弩]]",
+   "portfolio": "焦虑，溺爱，不健康的亲子之爱",
+   "domains": "[[魅惑领域|魅惑]]，[[邪恶领域(领域)|邪恶]]，[[狂乱领域|狂乱]]，[[诡术领域|诡术]]",
+   "subdomains": "[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[诡术领域#欺骗子域 (Deception)|欺骗子域]]，[[狂乱领域#疯狂子域 (Insanity)|疯狂子域]]，[[魅惑领域#爱慕子域 (Love)|爱慕子域]]",
+   "symbol": "缠着锁链的拨浪鼓",
+   "symbol_label": "邪徽",
+   "animal": "熊",
+   "color": "黑色，棕色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "莱瓦提尼尔",
+   "english_name": "Laivatiniel",
+   "title": "摇篮中的锁链（The Chains in the Cradle）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "轻弩",
+   "portfolio": "焦虑，溺爱，不健康的亲子之爱",
+   "domains": "魅惑，邪恶，狂乱，诡术",
+   "subdomains": "邪魔子域，欺骗子域，疯狂子域，爱慕子域",
+   "symbol": "缠着锁链的拨浪鼓",
+   "symbol_label": "邪徽",
+   "animal": "熊",
+   "color": "黑色，棕色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  }
+ },
+ {
   "title": "莱诺克伯爵",
   "url": "https://pf1.huijiwiki.com/wiki/莱诺克伯爵",
   "template": "神祇",
@@ -11461,6 +12583,50 @@
    "nationality": "Tian-Shu",
    "pantheon": "天夏神祇",
    "source": "龙国舆图"
+  }
+ },
+ {
+  "title": "西克斯隆",
+  "url": "https://pf1.huijiwiki.com/wiki/西克斯隆",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "西克斯隆",
+   "english_name": "Cixyron",
+   "title": "震怒雷霆（The Furious Thunder）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[滑膛枪]]",
+   "portfolio": "电力，火药，有毒金属",
+   "domains": "[[手艺领域|手艺]]，[[土领域|土]]，[[邪恶领域(领域)|邪恶]]，[[知识领域|知识]]",
+   "subdomains": "[[手艺领域#构装子域 (Construct)|构装子域]]，[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[土领域#铁子域 (Metal)|铁子域]]，[[手艺领域#疲累子域 (Toil)|疲累子域]]",
+   "symbol": "电光爆裂",
+   "symbol_label": "邪徽",
+   "animal": "蚂蚁",
+   "color": "红色，黄色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "西克斯隆",
+   "english_name": "Cixyron",
+   "title": "震怒雷霆（The Furious Thunder）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "滑膛枪",
+   "portfolio": "电力，火药，有毒金属",
+   "domains": "手艺，土，邪恶，知识",
+   "subdomains": "构装子域，邪魔子域，铁子域，疲累子域",
+   "symbol": "电光爆裂",
+   "symbol_label": "邪徽",
+   "animal": "蚂蚁",
+   "color": "红色，黄色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
   }
  },
  {
@@ -11753,6 +12919,9 @@
    "symbol_label": "邪徽",
    "animal": "山羊",
    "color": "红色，白色",
+   "temples": "黑市，妓院，非法的享乐场所<!--AI补译-->",
+   "worshipers": "塑肉者及痴迷肉体美的恶人，享乐主义者，被抛弃的情人，好色之徒<!--AI补译-->",
+   "minions": "[[魔鬼，同谋魔鬼|同谋魔鬼]]（《内海诸神》279页），[[魔鬼，契约魔|契约魔]]（B3），半魅魔等半炼狱生物，[[魔鬼，生父魔|生父魔]]（Cheliax, the Infernal Empire 59页）<!--AI补译-->",
    "pantheon": "魔鬼大公",
    "source": "内海诸神、永罪之书"
   },
@@ -11769,6 +12938,9 @@
    "symbol_label": "邪徽",
    "animal": "山羊",
    "color": "红色，白色",
+   "temples": "黑市，妓院，非法的享乐场所",
+   "worshipers": "塑肉者及痴迷肉体美的恶人，享乐主义者，被抛弃的情人，好色之徒",
+   "minions": "同谋魔鬼（《内海诸神》279页），契约魔（B3），半魅魔等半炼狱生物，生父魔（Cheliax, the Infernal Empire 59页）",
    "pantheon": "魔鬼大公",
    "source": "内海诸神、永罪之书"
   }
@@ -11808,6 +12980,50 @@
    "animal": "狮",
    "pantheon": "奥西里昂的神祇",
    "source": "冒险之路80：空墓、沙之子民"
+  }
+ },
+ {
+  "title": "贾卡卡斯",
+  "url": "https://pf1.huijiwiki.com/wiki/贾卡卡斯",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "贾卡卡斯",
+   "english_name": "Jacarkas",
+   "title": "收藏家（The Collector）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[套牛绳]]",
+   "portfolio": "砍断脚筋，脑叶切除，奴役",
+   "domains": "[[死亡领域|死亡]]，[[毁灭领域|毁灭]]，[[邪恶领域(领域)|邪恶]]，[[高贵领域|高贵]]",
+   "subdomains": "[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[邪恶领域(领域)#恐惧子域 (Fear)|恐惧子域]]，[[高贵领域#领导子域 (Leadership)|领导子域]]，[[秩序领域#奴役子域 (Slavery)|奴役子域]]",
+   "symbol": "锁链缠着的断踝",
+   "symbol_label": "邪徽",
+   "animal": "蛆虫",
+   "color": "灰色，红色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "贾卡卡斯",
+   "english_name": "Jacarkas",
+   "title": "收藏家（The Collector）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "套牛绳",
+   "portfolio": "砍断脚筋，脑叶切除，奴役",
+   "domains": "死亡，毁灭，邪恶，高贵",
+   "subdomains": "邪魔子域，恐惧子域，领导子域，奴役子域",
+   "symbol": "锁链缠着的断踝",
+   "symbol_label": "邪徽",
+   "animal": "蛆虫",
+   "color": "灰色，红色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
   }
  },
  {
@@ -12180,10 +13396,13 @@
    "weapon": "重型硬头锤",
    "portfolio": "城市，监狱，统治",
    "domains": "[[邪恶领域(领域)|邪恶]]，[[秩序领域|秩序]]，[[高贵领域|高贵]]，[[诡术领域|诡术]]",
-   "subdomains": "[[诡术领域#欺骗子域 (Deception)|欺骗子域]]，[[邪恶领域(领域)#魔鬼子域 (Devil)|魔鬼子域（邪恶）]]，[[秩序领域#魔鬼子域 (Devil)|魔鬼子域（秩序）]]，[[高贵领域#傲慢子域 (Hubris)|傲慢子域（高贵）]]*，[[高贵领域#领导子域 (Leadership)|领导子域]]，[[秩序领域#律法子域 (Legislation)|律法子域（秩序）]]，[[秩序领域#主权子域 (Sovereignty)|主权子域]]，[[秩序领域#暴政子域 (Tyranny)|暴政子域]]（*需要背景特性[[次经侍祭]]）",
+   "subdomains": "[[诡术领域#欺骗子域 (Deception)|欺骗子域]]，[[邪恶领域(领域)#魔鬼子域 (Devil)|魔鬼子域（邪恶）]]，[[秩序领域#魔鬼子域 (Devil)|魔鬼子域（秩序）]]，[[高贵领域#傲慢子域 (Hubris)|傲慢子域（高贵）]]*，[[高贵领域#领导子域 (Leadership)|领导子域]]，[[秩序领域#律法子域 (Legislation)|律法子域（秩序）]]，[[秩序领域#主权子域 (Sovereignty)|主权子域]]，[[诡术领域#盗窃子域 (Thievery)|盗窃子域]]，[[秩序领域#暴政子域 (Tyranny)|暴政子域]]（*需要背景特性[[次经侍祭]]）",
    "symbol": "铁指甲、王冠与戒指",
    "animal": "猎犬",
    "color": "铁灰色，红色",
+   "temples": "被遗忘的监狱，亵渎的礼拜堂，扩张的都市<!--AI补译-->",
+   "worshipers": "邪恶而特权的隐士，孤苦者与被遗弃者，痴迷的行政官，被放逐者<!--AI补译-->",
+   "minions": "[[魔鬼，契约魔|契约魔]]（B3），魔鬼大师，[[魔鬼，怒魔|怒魔]]，[[魔鬼，仆魔|仆魔]]（B2），[[链魔]]，[[夜鬼婆]]<!--AI补译-->",
    "pantheon": "魔鬼大公",
    "source": "内海诸神、永罪之书"
   },
@@ -12195,11 +13414,58 @@
    "weapon": "重型硬头锤",
    "portfolio": "城市，监狱，统治",
    "domains": "邪恶，秩序，高贵，诡术",
-   "subdomains": "欺骗子域，魔鬼子域（邪恶），魔鬼子域（秩序），傲慢子域（高贵）*，领导子域，律法子域（秩序），主权子域，暴政子域（*需要背景特性次经侍祭）",
+   "subdomains": "欺骗子域，魔鬼子域（邪恶），魔鬼子域（秩序），傲慢子域（高贵）*，领导子域，律法子域（秩序），主权子域，盗窃子域，暴政子域（*需要背景特性次经侍祭）",
    "symbol": "铁指甲、王冠与戒指",
    "animal": "猎犬",
    "color": "铁灰色，红色",
+   "temples": "被遗忘的监狱，亵渎的礼拜堂，扩张的都市",
+   "worshipers": "邪恶而特权的隐士，孤苦者与被遗弃者，痴迷的行政官，被放逐者",
+   "minions": "契约魔（B3），魔鬼大师，怒魔，仆魔（B2），链魔，夜鬼婆",
    "pantheon": "魔鬼大公",
+   "source": "内海诸神、永罪之书"
+  }
+ },
+ {
+  "title": "迪赛德",
+  "url": "https://pf1.huijiwiki.com/wiki/迪赛德",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "迪赛德",
+   "english_name": "Diceid",
+   "title": "空虚黎明（The Empty Dawn）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[巨镰]]",
+   "portfolio": "入侵物种，大灭绝，自然灾害",
+   "domains": "[[动物领域|动物]]，[[邪恶领域(领域)|邪恶]]，[[植物领域|植物]]，[[天气领域|天气]]",
+   "subdomains": "[[毁灭领域#天灾子域 (Catastrophe)|天灾子域]]，[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[黑暗领域#失却子域 (Loss)|失却子域]]，[[天气领域#风暴子域 (Storms)|风暴子域]]",
+   "symbol": "被日晒漂白的马头骨",
+   "symbol_label": "邪徽",
+   "animal": "蟑螂",
+   "color": "棕色，灰色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "迪赛德",
+   "english_name": "Diceid",
+   "title": "空虚黎明（The Empty Dawn）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "巨镰",
+   "portfolio": "入侵物种，大灭绝，自然灾害",
+   "domains": "动物，邪恶，植物，天气",
+   "subdomains": "天灾子域，邪魔子域，失却子域，风暴子域",
+   "symbol": "被日晒漂白的马头骨",
+   "symbol_label": "邪徽",
+   "animal": "蟑螂",
+   "color": "棕色，灰色",
+   "pantheon": "邪魔先驱",
    "source": "内海诸神、永罪之书"
   }
  },
@@ -12387,6 +13653,50 @@
   }
  },
  {
+  "title": "阿吉兹",
+  "url": "https://pf1.huijiwiki.com/wiki/阿吉兹",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "阿吉兹",
+   "english_name": "Ajids",
+   "title": "剥皮之父（Father Flense）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[战斗剃刀]]",
+   "portfolio": "肢解，剥皮，战利品收集",
+   "domains": "[[死亡领域|死亡]]，[[邪恶领域(领域)|邪恶]]，[[狂乱领域|狂乱]]，[[战争领域|战争]]",
+   "subdomains": "[[战争领域#鲜血子域 (Blood)|鲜血子域]]，[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[狂乱领域#疯狂子域 (Insanity)|疯狂子域]]，[[死亡领域#杀戮子域 (Murder)|杀戮子域]]",
+   "symbol": "脱落的人脸",
+   "symbol_label": "邪徽",
+   "animal": "猿",
+   "color": "棕色，红色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "阿吉兹",
+   "english_name": "Ajids",
+   "title": "剥皮之父（Father Flense）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "战斗剃刀",
+   "portfolio": "肢解，剥皮，战利品收集",
+   "domains": "死亡，邪恶，狂乱，战争",
+   "subdomains": "鲜血子域，邪魔子域，疯狂子域，杀戮子域",
+   "symbol": "脱落的人脸",
+   "symbol_label": "邪徽",
+   "animal": "猿",
+   "color": "棕色，红色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  }
+ },
+ {
   "title": "阿奎洛斯",
   "url": "https://pf1.huijiwiki.com/wiki/阿奎洛斯",
   "template": "神祇",
@@ -12455,7 +13765,7 @@
    "symbol_label": "邪徽",
    "animal": "蛇",
    "color": "绿色，橙色",
-   "temples": "图书馆，圣骨盒，地下墓穴",
+   "temples": "图书馆，圣骨盒，地窖",
    "worshipers": "[[卓尔]]，[[术士]]，幽魂娜迦，寻求禁忌知识者",
    "minions": "六臂[[蛇魔]]，蛇，[[三身魔蛇]]",
    "pantheon": "恶魔领主",
@@ -12474,7 +13784,7 @@
    "symbol_label": "邪徽",
    "animal": "蛇",
    "color": "绿色，橙色",
-   "temples": "图书馆，圣骨盒，地下墓穴",
+   "temples": "图书馆，圣骨盒，地窖",
    "worshipers": "卓尔，术士，幽魂娜迦，寻求禁忌知识者",
    "minions": "六臂蛇魔，蛇，三身魔蛇",
    "pantheon": "恶魔领主",
@@ -12598,6 +13908,48 @@
   }
  },
  {
+  "title": "阿拉克拉玛斯",
+  "url": "https://pf1.huijiwiki.com/wiki/阿拉克拉玛斯",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "阿拉克拉玛斯",
+   "english_name": "Arlachramas",
+   "title": "寂静之息（The Silent Breath）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[战锤]]",
+   "portfolio": "去人性化，处置，安乐死",
+   "domains": "[[团队领域|团队]]，[[死亡领域|死亡]]，[[邪恶领域(领域)|邪恶]]，[[力量领域|力量]]",
+   "subdomains": "[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[死亡领域#杀戮子域 (Murder)|杀戮子域]]，[[力量领域#决意子域 (Resolve)|决意子域]]，[[死亡领域#亡灵子域 (Undead)|亡灵子域]]",
+   "symbol": "染血的空摇篮",
+   "symbol_label": "邪徽",
+   "color": "蓝色，粉色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "阿拉克拉玛斯",
+   "english_name": "Arlachramas",
+   "title": "寂静之息（The Silent Breath）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "战锤",
+   "portfolio": "去人性化，处置，安乐死",
+   "domains": "团队，死亡，邪恶，力量",
+   "subdomains": "邪魔子域，杀戮子域，决意子域，亡灵子域",
+   "symbol": "染血的空摇篮",
+   "symbol_label": "邪徽",
+   "color": "蓝色，粉色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  }
+ },
+ {
   "title": "阿撒托斯",
   "url": "https://pf1.huijiwiki.com/wiki/阿撒托斯",
   "template": "神祇",
@@ -12656,6 +14008,9 @@
    "symbol": "红色五芒星",
    "animal": "蛇",
    "color": "黑色，红色",
+   "temples": "大教堂，图书馆，缮写室<!--AI补译-->",
+   "worshipers": "残酷的官僚与律师，魔鬼大师，奴隶贩子，暴君<!--AI补译-->",
+   "minions": "[[地狱大公]]，魔鬼，[[炼狱大公与地狱公爵|地狱公爵]]，[[雄霸魔]]<!--AI补译-->",
    "centers": "切利亚斯，依斯嘉，奈多",
    "nationality": "魔鬼",
    "other_pantheons": "魔鬼大公，狗头人神祇，神爪教团神系（Order of the God Claw Pantheon），魔鬼（Devil",
@@ -12674,6 +14029,9 @@
    "symbol": "红色五芒星",
    "animal": "蛇",
    "color": "黑色，红色",
+   "temples": "大教堂，图书馆，缮写室",
+   "worshipers": "残酷的官僚与律师，魔鬼大师，奴隶贩子，暴君",
+   "minions": "地狱大公，魔鬼，地狱公爵，雄霸魔",
    "centers": "切利亚斯，依斯嘉，奈多",
    "nationality": "魔鬼",
    "other_pantheons": "魔鬼大公，狗头人神祇，神爪教团神系（Order of the God Claw Pantheon），魔鬼（Devil",
@@ -12946,6 +14304,50 @@
   }
  },
  {
+  "title": "阿诺盖兹",
+  "url": "https://pf1.huijiwiki.com/wiki/阿诺盖兹",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "阿诺盖兹",
+   "english_name": "Anogetz",
+   "title": "命运之牙（The Fated Fangs）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[带刺铁手套]]",
+   "portfolio": "兽袭，政变，革命",
+   "domains": "[[动物领域|动物]]，[[毁灭领域|毁灭]]，[[邪恶领域(领域)|邪恶]]，[[解放领域|解放]]",
+   "subdomains": "[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[动物领域#毛兽子域 (Fur)|毛兽子域]]，[[毁灭领域#狂暴子域 (Rage)|狂暴子域]]，[[解放领域#革命子域 (Revolution)|革命子域]]",
+   "symbol": "王冠上的兽牙",
+   "symbol_label": "邪徽",
+   "animal": "所有动物",
+   "color": "金色，红色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "阿诺盖兹",
+   "english_name": "Anogetz",
+   "title": "命运之牙（The Fated Fangs）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "带刺铁手套",
+   "portfolio": "兽袭，政变，革命",
+   "domains": "动物，毁灭，邪恶，解放",
+   "subdomains": "邪魔子域，毛兽子域，狂暴子域，革命子域",
+   "symbol": "王冠上的兽牙",
+   "symbol_label": "邪徽",
+   "animal": "所有动物",
+   "color": "金色，红色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  }
+ },
+ {
   "title": "阿达德·莉莉",
   "url": "https://pf1.huijiwiki.com/wiki/阿达德·莉莉",
   "template": "神祇",
@@ -12966,6 +14368,9 @@
    "symbol": "蛇尾组成的翅膀",
    "animal": "蛇",
    "color": "黑色，绿色",
+   "temples": "妓院，被亵渎的[[纱琳]]神殿，邪恶的戏院与剧场<!--AI补译-->",
+   "worshipers": "邪恶的艺术家，骗子，操纵者<!--AI补译-->",
+   "minions": "[[魔鬼，怒魔|怒魔]]，堕落天使，[[魔鬼，仆魔|仆魔]]及其他女性魔鬼<!--AI补译-->",
    "pantheon": "暗夜女王",
    "source": "内海诸神、永罪之书"
   },
@@ -12981,6 +14386,9 @@
    "symbol": "蛇尾组成的翅膀",
    "animal": "蛇",
    "color": "黑色，绿色",
+   "temples": "妓院，被亵渎的纱琳神殿，邪恶的戏院与剧场",
+   "worshipers": "邪恶的艺术家，骗子，操纵者",
+   "minions": "怒魔，堕落天使，仆魔及其他女性魔鬼",
    "pantheon": "暗夜女王",
    "source": "内海诸神、永罪之书"
   }
@@ -13244,6 +14652,9 @@
    "symbol_label": "邪徽",
    "animal": "老鼠",
    "color": "金色，银色",
+   "temples": "银行，坐拥世袭巨额财富的家族金库，放贷行，宝库<!--AI补译-->",
+   "worshipers": "邪恶或背信弃义的财富守护者，守财奴，贫穷而邪恶者<!--AI补译-->",
+   "minions": "[[魔鬼，虚妄魔|虚妄魔]]（B2），堕落的[[天使，炽天使|炽天使]]，被引诱的幻蛇，styphilipede（B3），各类炼狱构装体<!--AI补译-->",
    "pantheon": "魔鬼大公",
    "source": "内海诸神、永罪之书"
   },
@@ -13260,7 +14671,54 @@
    "symbol_label": "邪徽",
    "animal": "老鼠",
    "color": "金色，银色",
+   "temples": "银行，坐拥世袭巨额财富的家族金库，放贷行，宝库",
+   "worshipers": "邪恶或背信弃义的财富守护者，守财奴，贫穷而邪恶者",
+   "minions": "虚妄魔（B2），堕落的炽天使，被引诱的幻蛇，styphilipede（B3），各类炼狱构装体",
    "pantheon": "魔鬼大公",
+   "source": "内海诸神、永罪之书"
+  }
+ },
+ {
+  "title": "鲁阿普切拉斯",
+  "url": "https://pf1.huijiwiki.com/wiki/鲁阿普切拉斯",
+  "template": "神祇",
+  "ai": true,
+  "categories": [
+   "AI翻译",
+   "PFS不可用",
+   "神祇",
+   "魔神"
+  ],
+  "raw": {
+   "name": "鲁阿普切拉斯",
+   "english_name": "Ruapceras",
+   "title": "猩红誓约（The Scarlet Promise）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "[[重型链枷]]",
+   "portfolio": "十字军，循环复仇，不宽容",
+   "domains": "[[邪恶领域(领域)|邪恶]]，[[高贵领域|高贵]]，[[力量领域|力量]]，[[战争领域|战争]]",
+   "subdomains": "[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[高贵领域#领导子域 (Leadership)|领导子域]]，[[力量领域#决意子域 (Resolve)|决意子域]]，[[战争领域#战术子域 (Tactics)|战术子域]]",
+   "symbol": "红黄相间的衔尾蛇",
+   "symbol_label": "邪徽",
+   "animal": "蝉",
+   "color": "红色，黄色",
+   "pantheon": "邪魔先驱",
+   "source": "内海诸神、永罪之书"
+  },
+  "text": {
+   "name": "鲁阿普切拉斯",
+   "english_name": "Ruapceras",
+   "title": "猩红誓约（The Scarlet Promise）",
+   "alignment": "中立邪恶（NE）",
+   "weapon": "重型链枷",
+   "portfolio": "十字军，循环复仇，不宽容",
+   "domains": "邪恶，高贵，力量，战争",
+   "subdomains": "邪魔子域，领导子域，决意子域，战术子域",
+   "symbol": "红黄相间的衔尾蛇",
+   "symbol_label": "邪徽",
+   "animal": "蝉",
+   "color": "红色，黄色",
+   "pantheon": "邪魔先驱",
    "source": "内海诸神、永罪之书"
   }
  },

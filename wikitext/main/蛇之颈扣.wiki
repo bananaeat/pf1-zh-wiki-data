@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=蛇之颈扣
 |english_name=Serpentine Choker

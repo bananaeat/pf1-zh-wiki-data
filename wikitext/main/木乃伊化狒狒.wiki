@@ -1,0 +1,45 @@
+{{速查导航}}
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{怪物
+|name=木乃伊化狒狒
+|english_name=Mummified Baboon
+|cr=1/2
+|xp=200
+|alignment=中立邪恶
+|size=小型
+|type=不死生物
+|init=+2
+|senses=黑暗视觉 60 尺；察觉 +1
+|ac=13，接触 13，措手不及 11（+2 敏捷，+1 体型）
+|hp=6（1d8+2）
+|fort=+4
+|ref=+4
+|will=+1
+|dr=2/—
+|immune=不死特性
+|speed=30 尺
+|melee=啮咬 +3（1d4+1）
+|special_attacks=仆从诅咒（DC 12）
+|str=12
+|dex=15
+|con=—
+|int=2
+|wis=12
+|cha=14
+|bab=+0
+|cmb=+0
+|cmd=12
+|feats=[[武器娴熟]]
+|skills=[[特技]] +10;[[攀爬]] +5
+|racial_mods=+4 特技，+4 攀爬
+|environment=温暖废墟
+|organization=单独
+|treasure=无
+|special_abilities={{怪物能力|仆从诅咒|Su|每天一次，木乃伊化动物可以触摸一个生物，或以其天生攻击之一命中一个生物，来施下诅咒。任何被此攻击命中的活着的生物必须通过意志豁免，否则受到 1d3 点敏捷和感知伤害。豁免 DC 等于 10 + 木乃伊化动物 HD 的一半 + 木乃伊化动物的魅力调整值。}}
+|source=冒险之路81：流沙
+|lore=
+在古代奥西里昂，狒狒与神祇[[托特]]联系在一起，艺术作品中常把它们画成头顶有新月的样子。古代奥西里昂人把狒狒当作宠物饲养，古老的铭文中可见它们被牵着绳子遛，或者爬上树去摘枣子和无花果。
+
+（木乃伊化动物模板见[[木乃伊化动物]]。）
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Mummified Baboon|2=Mummified Baboon}}

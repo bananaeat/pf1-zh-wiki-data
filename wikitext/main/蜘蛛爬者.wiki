@@ -1,6 +1,7 @@
 {{Trait
 |name=蜘蛛爬者
 |english_name=Spidery Climber
+|pfs=否
 |type=种族
 |prerequisites=[[卡萨达人]]
 |description=更多的手意味着抓的更牢。你在攀爬检定中获得+1背景加值。另外，只要你有两只手自由，在坠落时抓牢墙面的DC等于墙壁的DC+10，在斜坡抓牢的DC等于斜坡的DC+5。（译注：没有此背景需要DC+20和+10）

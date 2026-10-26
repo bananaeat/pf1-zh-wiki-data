@@ -1,8 +1,10 @@
+{{PFS不可用}}
 {{魔法物品
 |name=异界巨釜
 |english_name=Netherworld Cauldron
 |aon=MagicArtifactsDisplay.aspx?ItemName=Netherworld Cauldron
 |cat=神器
+|mythic=是
 |tier=高等神器
 |aura=强烈咒法系
 |cl=20

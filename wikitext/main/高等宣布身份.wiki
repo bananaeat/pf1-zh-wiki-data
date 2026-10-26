@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=高等宣布身份
 |english_name=Claim identity, greater

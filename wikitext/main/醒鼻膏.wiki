@@ -1,3 +1,4 @@
+{{PFS特殊|1=仅限鼠族PC合法。|ai=1}}
 {{装备
 |name=醒鼻膏
 |english_name=Rhinarium paste

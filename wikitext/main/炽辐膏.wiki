@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{装备
 |name=炽辐膏
 |english_name=Blightburn paste

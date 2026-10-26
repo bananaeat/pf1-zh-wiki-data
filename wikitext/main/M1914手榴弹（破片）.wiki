@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=M1914手榴弹（破片）
 |english_name=M1914 grenade (fragmentation)

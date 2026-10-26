@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=二次机会药膏
 |english_name=Salve of the Second Chance

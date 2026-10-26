@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=圣父锻造锤
 |english_name=Father's Forgehammer

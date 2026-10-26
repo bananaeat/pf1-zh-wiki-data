@@ -1,0 +1,12 @@
+{{AI翻译|本页正文由 AI 照 AoN 英文原文译出，CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{Feat
+|name=哄骗法术
+|english_name=Coaxing Spell
+|categories=超魔
+|description=你的魅惑与惑控魔法能够触及地城中最低等居民的心灵。
+|prerequisites=法术专攻（惑控），知识（地城）6级。
+|benefit=本专长只对影响心灵的效果起作用。哄骗法术会影响无心智的泥怪和虫类，就如同它们并非无心智一样，但对其他生物类型无效。哄骗法术占用比法术的实际环级高2环的法术位。
+|source=DH
+|source_name=冒险家手册
+|source_url=https://pf1chm.pages.dev/topics/page_529.html
+}}

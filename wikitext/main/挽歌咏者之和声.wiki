@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=挽歌咏者之和声
 |english_name=Dirgesinger's Choir

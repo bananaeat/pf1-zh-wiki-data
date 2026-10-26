@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=中型投石车
 |english_name=Catapult, standard

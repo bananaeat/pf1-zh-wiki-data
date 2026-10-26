@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=高等盗取青春
 |english_name=Steal years, greater

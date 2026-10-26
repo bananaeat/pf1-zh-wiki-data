@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=流血打击
 |english_name=Bleeding strike

@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=迷惑飞矢
 |english_name=Bolts of Bedevilment

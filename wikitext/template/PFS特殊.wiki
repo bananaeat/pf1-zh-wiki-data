@@ -1,10 +1,10 @@
 <noinclude>
-用于提示资源在PFS中有特殊规则。
+标在 PFS（开拓者协会）组织游戏里可用、但有特殊规定的条目上，放在页顶卡片前。参数 1 是调整内容；<code>ai=1</code> 表示由 AI 照 AoN 英文译出（CHM 汉化里没有现成译文）。自动进 [[:分类:PFS调整]]，<code>nocat=1</code> 不进。
 <pre>
 {{PFS特殊|XXX}}
+{{PFS特殊|XXX|ai=1}}
 </pre>
-{{PFS特殊|XXX}}
-</noinclude>
-<includeonly>
-{{Mbox|border=warning|type=move|text=PFS特殊规则：{{{1}}}}}
-</includeonly>
+{{PFS特殊|XXX|nocat=1}}
+{{PFS特殊|XXX|ai=1|nocat=1}}
+[[分类:模板]]
+</noinclude><includeonly><div class="pfs-note" style="margin:.2em 0 .5em;padding:.15em .7em;border:1px solid #c9a227;border-radius:4px;background:#fbf6e3;color:#5c4a0c;font-size:.9em;line-height:1.65"><b>[[开拓者协会|PFS]] 调整</b>：{{{1}}}{{#if:{{{ai|}}}|<span style="margin-left:.4em;padding:0 .35em;border-radius:3px;background:#e9e2c8;color:#7a6a3a;font-size:.85em;white-space:nowrap">AI 译自 AoN</span>}}</div>{{#if:{{{nocat|}}}||[[分类:PFS调整]]}}</includeonly>

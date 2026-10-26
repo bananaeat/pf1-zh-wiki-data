@@ -1,3 +1,4 @@
+{{PFS特殊|1=复原者（Restorer）变体的轮回向导（Guide across Lifetimes）能力，改为给予每日一次能以类法术形式施展医疗术，而非原本的转生术。}}
 {{Source|治疗者手册|Healer's Handbook}}
 
 '''复原者'''（Restorer）是[[德鲁伊]]的[[变体职业]]。

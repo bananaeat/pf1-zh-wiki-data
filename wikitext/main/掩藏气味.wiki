@@ -1,7 +1,7 @@
+{{PFS特殊|1=所有技能等级要求减3，并请记住躲藏（Hide）技能现在是潜行（Stealth），搜索（Search）技能现在是察觉（Perception）。|ai=1}}
 {{Feat
 |name=掩藏气味
 |english_name=Conceal Scent
-|pfs=否
 |description=你已学会掩盖自身气味的必要技巧，让生物无法凭气味找到你。
 |prerequisites=[[隐匿]]3级，[[生存]]3级。
 |benefit=生物无法使用[[灵敏嗅觉]]能力追踪你（不过它们仍可通过足迹等常规手段追踪你）。拥有灵敏嗅觉的生物能以正常距离一半的距离凭气味察觉到你的存在，但无法凭气味确定你的具体位置。

@@ -1,8 +1,8 @@
+{{PFS特殊|1=[[乌斯塔拉夫贵族]]不会给予额外的起始金额。}}
 {{Trait
 |name=乌斯塔拉夫贵族
 |english_name=Ustalavic Noble
 |type=地区
-|pfs=否
 |prerequisites=乌斯塔拉夫
 |description=你来自一个贵族家庭，尽管早已家道中落。你在交涉和知识[贵族]检定获得+1背景加值。此外，你的起始资金增加100gp——这是你的「名分」,尽管也不过尔尔。
 |source_name=初探内海

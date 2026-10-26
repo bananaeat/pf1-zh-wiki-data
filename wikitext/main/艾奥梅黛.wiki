@@ -110,7 +110,7 @@
 
 == 信徒可用 ==
 
-* '''变体职业'''：战斗侦查兵（Battle Scout，游侠）、天诛之剑（Crusader，牧师）、[[艾奥梅黛执法者]]（Iomedaen Enforcer，圣武士）、光耀骑士（Shining Knight，圣武士）、旗手（Standard Bearer，骑士）
+* '''变体职业'''：战斗侦查兵（Battle Scout，游侠）、圣教军（Crusader，牧师）、[[艾奥梅黛执法者]]（Iomedaen Enforcer，圣武士）、光耀骑士（Shining Knight，圣武士）、旗手（Standard Bearer，骑士）
 * '''专长'''：[[拔群剑术]]、[[勇气圣疗]]、[[防护引导]]、[[专注一击]]
 * '''魔法物品（祭坛）'''：[[艾奥梅黛神坛]]
 * '''魔法物品（护甲）'''：秩序圣像（Icon of Order）、[[后继者胸甲]]、[[战场指挥者铠甲]]

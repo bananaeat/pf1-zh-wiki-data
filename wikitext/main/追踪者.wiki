@@ -1,4 +1,5 @@
 {{速查导航}}
+<noinclude>{{消歧义|追踪者（恶棍志）}}</noinclude>
 {{怪物
 |name=追踪者
 |english_name=Inevitable, Zelekhut

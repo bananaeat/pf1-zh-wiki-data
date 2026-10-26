@@ -1,8 +1,8 @@
+{{PFS特殊|1=专长“灵狐式（Kitsune Style）”只允许PC尝试一次阴招战技，即使他因为[[通用怪物规则#猛扑|猛扑]]或类似能力而在冲锋时有额外的攻击次数亦是如此。}}
 {{Feat
 |name=灵狐式
 |english_name=Kitsune Style
 |categories=战斗;流派
-|pfs=否
 |description=如一道流星划过对手，你的招数让他晕头转向。
 |prerequisites=智力13，[[寓守于攻]]，[[精通阴招]]
 |benefit=当处于本[[流派]]的架势时，你可以在冲锋结束时以一次[[阴招]][[战技]]取代攻击。

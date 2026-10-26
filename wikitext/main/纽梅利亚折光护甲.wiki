@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=纽梅利亚折光护甲
 |english_name=Numerian Resistance Plate

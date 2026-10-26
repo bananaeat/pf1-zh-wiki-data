@@ -1,7 +1,7 @@
+{{PFS特殊|1=所有技能等级要求减3，并请记住躲藏（Hide）技能现在是潜行（Stealth），搜索（Search）技能现在是察觉（Perception）。|ai=1}}
 {{Feat
 |name=隐于人群
 |english_name=Lost in the Crowd
-|pfs=否
 |description=你习惯了集市上熙熙攘攘的人群，能在转瞬之间消失其中。
 |benefit=你在城市区域的[[隐匿]]检定上获得+2环境加值；在人群中，该加值提升为+4。当你受到2个或更多敌人威胁时，你的AC获得+1闪避加值。
 |extra=原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=92370.msg857520#msg857520 【OLoP】奥斯里昂，法老之地（Osirion, Land of Pharaohs）中的专长]，译者：朔风；按 AoN 核对过。

@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=苦痛责难
 |english_name=Agonizing rebuke

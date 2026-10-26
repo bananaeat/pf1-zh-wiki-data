@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=完美知识纺锤
 |english_name=Spindle of Perfect Knowledge

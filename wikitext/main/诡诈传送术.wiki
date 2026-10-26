@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=诡诈传送术
 |english_name=Treacherous teleport

@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=血石护心镜
 |english_name=Bloodstone mirror

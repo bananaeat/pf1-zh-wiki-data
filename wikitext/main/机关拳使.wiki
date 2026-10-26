@@ -1,3 +1,4 @@
+{{PFS特殊|1=机关拳使（Constructed Pugilist）不得选取“制造魔法武器与防具”作为奖励专长。}}
 {{Source|废土子民|People of the Wastes}}
 
 '''机关拳使'''（Constructed Pugilist）是[[拳师]]的[[变体职业]]。

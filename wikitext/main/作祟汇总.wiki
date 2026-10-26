@@ -24,11 +24,11 @@
 
 <div class="trap"><div class="aff-h"><b>[[墙后抓挠声]]</b><span class="aff-p">挑战等级1/2</span></div><div class="aff-b"><span><i>XP</i>200</span><span>混乱邪恶作祟（占据5尺×10尺的走廊）</span><span><i>施法者等级</i>1</span></div><div class="aff-b"><span><i>察觉</i>察觉 DC 15（听见墙后微弱的尖叫声）</span></div><div class="aff-b"><span><i>生命值</i>1</span><span><i>触发</i>接近</span><span><i>再起</i>1天</span></div><div class="trap-band">效果</div><div class="aff-b"><span>利爪刮擦墙内的声响在走廊中回荡。区域内生物需通过DC 11意志豁免，否则将陷入[[战栗]]状态1d4轮。</span></div><div class="aff-b"><span><i>摧毁</i>若角色找到侍女的尸体并将其从墙后移出，即可永久消灭此作祟。</span></div><div class="aff-b"><span><i>出处</i>《[[惧怖冒险]]》第 175 页</span></div></div>
 
-=== 冷点 ===
+=== [[冰点]] ===
 
-冷点是过于虚弱无法显形为幽灵的灵魂回响。它们可独立出现，亦可聚集于重要区域周围。
+冰点是过于虚弱无法显形为幽灵的灵魂回响。它们可独立出现，亦可聚集于重要区域周围。
 
-<div class="trap"><div class="aff-h"><b>冷点</b><span class="aff-p">挑战等级1</span></div><div class="aff-b"><span><i>XP</i>400</span><span>中立邪恶作祟（5尺半径）</span><span><i>施法者等级</i>1</span></div><div class="aff-b"><span><i>察觉</i>察觉 DC 20（感知温度下降）</span></div><div class="aff-b"><span><i>生命值</i>2</span><span><i>弱点</i>火焰（这些效果可伤害作祟）</span><span><i>触发</i>接近</span><span><i>再起</i>1天</span></div><div class="trap-band">效果</div><div class="aff-b"><span>温度骤降至冰点以下。半径内所有生物如同暴露于严寒天气1小时，需通过DC 15强韧豁免，否则受到1d6点[[非致命伤害]]。低温持续10分钟，但不再产生额外机制效果。</span></div><div class="aff-b"><span><i>摧毁</i>若使用神圣火焰（如[[焰击术]]）摧毁冷点，其将永久消失。</span></div><div class="aff-b"><span><i>出处</i>《[[惧怖冒险]]》第 175 页</span></div></div>
+<div class="trap"><div class="aff-h"><b>[[冰点]]</b><span class="aff-p">挑战等级1</span></div><div class="aff-b"><span><i>XP</i>400</span><span>中立邪恶作祟（5尺半径）</span><span><i>施法者等级</i>1</span></div><div class="aff-b"><span><i>察觉</i>察觉 DC 20（感知温度下降）</span></div><div class="aff-b"><span><i>生命值</i>2</span><span><i>弱点</i>火焰（这些效果可伤害作祟）</span><span><i>触发</i>接近</span><span><i>再起</i>1天</span></div><div class="trap-band">效果</div><div class="aff-b"><span>温度骤降至冰点以下。半径内所有生物如同暴露于严寒天气1小时，需通过DC 15强韧豁免，否则受到1d6点[[非致命伤害]]。低温持续10分钟，但不再产生额外机制效果。</span></div><div class="aff-b"><span><i>摧毁</i>若使用神圣火焰（如[[焰击术]]）摧毁冰点，其将永久消失。</span></div><div class="aff-b"><span><i>出处</i>《[[惧怖冒险]]》第 175 页</span></div></div>
 
 === 敲击灵 ===
 
@@ -65,7 +65,7 @@
 === [[迟来的正义]] ===
 未能及时阻止他人惨剧者的悔恨可具现化为作祟。迟来者作祟常伴随其他作祟或亡灵出现，象征这些悔恨灵体未能阻止的[[宿命]]。此类作祟通常与幽灵[[连锁]]，但若与死灵构装体关联则更具恐怖性。
 
-<div class="trap"><div class="aff-h"><b>[[迟来的正义]]</b><span class="aff-p">挑战等级5</span></div><div class="aff-b"><span><i>XP</i>1,600</span><span>绝对中立 连锁作祟（25尺半径）</span><span><i>施法者等级</i>9</span></div><div class="aff-b"><span><i>察觉</i>察觉 DC 20（听见奔跑的脚步声）</span></div><div class="aff-b"><span><i>生命值</i>22</span><span><i>弱点</i>缓慢</span><span><i>触发</i>接近</span><span><i>再起</i>1天</span></div><div class="trap-band">效果</div><div class="aff-b"><span>数个人形幽影蹒跚而行后跪地悲泣。区域内所有生物[[力竭]]（无豁免，效果同[[疲乏波]]）并陷入缓慢状态持续13分钟，除非通过DC 16意志豁免。</span></div><div class="aff-b"><span><i>摧毁</i>唯有那些他们未能拯救的生者引导其进入来世，这些灵体方能安息。</span></div><div class="aff-b"><span><i>出处</i>《[[惧怖冒险]]》第 176 页</span></div></div>
+<div class="trap"><div class="aff-h"><b>[[迟来的正义]]</b><span class="aff-p">挑战等级5</span></div><div class="aff-b"><span><i>XP</i>1,600</span><span>绝对中立 连锁作祟（25尺半径）</span><span><i>施法者等级</i>9</span></div><div class="aff-b"><span><i>察觉</i>察觉 DC 20（听见奔跑的脚步声）</span></div><div class="aff-b"><span><i>生命值</i>22</span><span><i>弱点</i>缓慢</span><span><i>触发</i>接近</span><span><i>再起</i>1天</span></div><div class="trap-band">效果</div><div class="aff-b"><span>数个人形幽影蹒跚而行后跪地悲泣。区域内所有生物[[力竭]]（无豁免，效果同[[力竭波]]）并陷入缓慢状态持续13分钟，除非通过DC 16意志豁免。</span></div><div class="aff-b"><span><i>摧毁</i>唯有那些他们未能拯救的生者引导其进入来世，这些灵体方能安息。</span></div><div class="aff-b"><span><i>出处</i>《[[惧怖冒险]]》第 176 页</span></div></div>
 
 === 泣血之墙 ===
 
@@ -81,7 +81,7 @@
 == 挑战等级 6–10 ==
 
 === [[奥术风暴]] ===
-<div class="trap"><div class="aff-h"><b>[[奥术风暴]]</b><span class="aff-p">挑战等级6</span></div><div class="aff-b"><span><i>XP</i>2,400</span><span>绝对中立 顽固 变体作祟（30尺半径）</span><span><i>施法者等级</i>5</span></div><div class="aff-b"><span><i>灵氲</i>微弱塑能系</span></div><div class="aff-b"><span><i>察觉</i>察觉或[[法术辨识]] DC 20（听见能量碰撞声或通过焦土地表推断效果）</span></div><div class="aff-b"><span><i>生命值</i>27</span><span><i>弱点</i>能量伤害（免疫正能量）</span><span><i>触发</i>接近</span><span><i>再起</i>1天</span></div><div class="trap-band">效果</div><div class="aff-b"><span>每回合，奥术风暴发射能量箭攻击区域内尽可能多的生物（反射DC 15减半）。效果同[[闪电束]]，但能量类型在酸液、寒冷、闪电与火焰间循环。风暴对最近一次造成的能量类型免疫。</span></div><div class="trap-band">益处</div><div class="aff-b"><span>未通过豁免且未以任何方式（如能量抗力）减免伤害的角色，可尝试DC 16意志豁免以攫取风暴能量。成功者获得5充能，每消耗1充能（[[自由动作]]），可为塑能系法术（能量类型需与风暴当前类型匹配）或[[徒手攻击]]附加1d6点同类型伤害。每个生物仅能从此风暴获取一次充能。</span></div><div class="aff-b"><span><i>摧毁</i>若角色连续成功反制四次能量箭，奥术风暴将被摧毁。</span></div><div class="aff-b"><span><i>出处</i>《[[惧怖冒险]]》第 174 页</span></div></div>
+<div class="trap"><div class="aff-h"><b>[[奥术风暴]]</b><span class="aff-p">挑战等级6</span></div><div class="aff-b"><span><i>XP</i>2,400</span><span>绝对中立 顽固 变体作祟（30尺半径）</span><span><i>施法者等级</i>5</span></div><div class="aff-b"><span><i>灵氲</i>微弱塑能系</span></div><div class="aff-b"><span><i>察觉</i>察觉或[[法术辨识]] DC 20（听见能量碰撞声或通过焦土地表推断效果）</span></div><div class="aff-b"><span><i>生命值</i>27</span><span><i>弱点</i>能量伤害（免疫正能量）</span><span><i>触发</i>接近</span><span><i>再起</i>1天</span></div><div class="trap-band">效果</div><div class="aff-b"><span>每回合，奥术风暴发射能量箭攻击区域内尽可能多的生物（反射DC 15减半）。效果同[[闪电束]]，但能量类型在酸液、寒冷、闪电与火焰间循环。风暴对最近一次造成的能量类型免疫。</span></div><div class="trap-band">益处</div><div class="aff-b"><span>未通过豁免且未以任何方式（如能量抗力）减免伤害的角色，可尝试DC 16意志豁免以攫取风暴能量。成功者获得5充能，每消耗1充能（[[自由动作]]），可为一个造成伤害、且伤害类型与风暴四种能量类型之一相符的塑能系法术，或为一次天生攻击或[[徒手打击]]，附加1d6点与所汲取的那道能量束同类型的伤害。每个生物仅能从此风暴获取一次充能。</span></div><div class="aff-b"><span><i>摧毁</i>若角色连续成功反制四次能量箭，奥术风暴将被摧毁。</span></div><div class="aff-b"><span><i>出处</i>《[[惧怖冒险]]》第 174 页</span></div></div>
 
 === [[库尔查努斯之死]] ===
 上古时期，神祇库尔查努斯司掌野兽与旅者。恶魔领主拉玛什图觊觎其权能，设陷阱将其捕获并剥夺取野兽权柄，通过弑神晋升神格。尽管拉玛什图未能阻止库尔查努斯将旅者权能赠予友人黛丝娜，但她仍从库尔查努斯的枯萎躯壳中汲取足够力量，成就自身神性。
@@ -150,7 +150,7 @@
 
 <div class="trap"><div class="aff-h"><b>[[活体腐坏]]</b><span class="aff-p">挑战等级10</span></div><div class="aff-b"><span><i>XP</i>9,600</span><span>中立邪恶 顽固作祟（50尺半径）</span><span><i>施法者等级</i>9</span></div><div class="aff-b"><span><i>察觉</i>察觉 DC 20（嗅到腐肉气息）</span></div><div class="aff-b"><span><i>生命值</i>45</span><span><i>弱点</i>移除疾病</span><span><i>触发</i>接近</span><span><i>再起</i>1天</span></div><div class="trap-band">效果</div><div class="aff-b"><span>区域内弥漫着散发腐肉恶臭的剧毒瘴气。所有生物需通过DC 20强韧豁免，否则感染活体腐败疾病（跳过潜伏期/携带状态）。作祟范围内疾病发作频率提升至每轮1次，豁免DC提升至20。豁免成功者仍需每轮重新检定。即使作祟生命值归零，已感染的疾病仍持续生效。对作祟施展移除疾病可造成等同于施法者等级的伤害。</span></div><div class="aff-b"><span><i>摧毁</i>需对原始集体墓穴中的每具遗体施展医疗术，或施放一次[[群体医疗术]]以阻止作祟再生。</span></div><div class="aff-b"><span><i>出处</i>《[[惧怖冒险]]》第 177 页</span></div></div>
 
-<div class="aff"><div class="aff-h"><b>活体腐败</b><span class="aff-t">疾病</span></div><div class="aff-b"><span><i>类型</i>接触/吸入/伤口疾病</span><span><i>豁免</i>强韧DC 17</span><span><i>病程</i>生理</span><span><i>频率</i>1次/天</span><span><i>虚弱阶段</i>力量与敏捷相关技能检定及属性检定-2</span><span><i>损伤阶段</i>攻击检定50%失手率，移动速度减半（最低5尺）</span><span><i>传染性</i>损毁阶段及以上时，接触物品可传播疾病</span><span><i>治愈</i>2次连续豁免成功可治愈，但虚弱阶段及后续阶段的属性减值需通过医疗术或[[再生术]]恢复。</span></div></div>
+<div class="aff"><div class="aff-h"><b>活体腐败</b><span class="aff-t">疾病</span></div><div class="aff-b"><span><i>类型</i>接触/吸入/伤口疾病</span><span><i>豁免</i>强韧DC 17</span><span><i>病程</i>生理</span><span><i>频率</i>1次/天</span><span><i>虚弱阶段</i>力量与敏捷相关技能检定及属性检定-2</span><span><i>损伤阶段</i>攻击检定50%失手率，移动速度减半（最低5尺）</span><span><i>传染性</i>损伤阶段及以上时，接触物品可传播疾病</span><span><i>治愈</i>2次连续豁免成功可治愈，但虚弱阶段及后续阶段的属性减值需通过医疗术或[[再生术]]恢复。</span></div></div>
 
 === [[心灵回响（愤怒）]] ===
 <div class="trap"><div class="aff-h"><b>[[心灵回响（愤怒）]]</b><span class="aff-p">挑战等级10</span></div><div class="aff-b"><span><i>XP</i>9,600</span><span>绝对中立 顽固 变体作祟（30尺半径）</span><span><i>施法者等级</i>11</span></div><div class="aff-b"><span><i>察觉</i>察言观色 DC 25（感知内心愤怒的悸动）</span></div><div class="aff-b"><span><i>生命值</i>45</span><span><i>弱点</i>情感效果与[[安定心神]]（免疫正能量）</span><span><i>触发</i>接近</span><span><i>再起</i>1天</span></div><div class="trap-band">效果</div><div class="aff-b"><span>效果同[[煽动恨意]]，但豁免失败（DC 19意志豁免）的生物将对[[掠夺者]]所属族群成员产生敌意。</span></div><div class="aff-b"><span><i>摧毁</i>需在作祟区域内，一名村民族群成员与一名掠夺者族群成员展现彼此真爱（通常通过缔结[[婚姻]]），方可摧毁此作祟。</span></div><div class="aff-b"><span><i>出处</i>《[[惧怖冒险]]》第 174 页</span></div></div>
@@ -163,7 +163,7 @@
 <div class="trap"><div class="aff-h"><b>[[魔典仆从]]</b><span class="aff-p">挑战等级10</span></div><div class="aff-b"><span><i>XP</i>9,600</span><span>中立邪恶作祟（以《永罪之书》为中心的20尺半径环形）</span><span><i>施法者等级</i>10</span></div><div class="aff-b"><span><i>察觉</i>察觉 DC 28（听见诡异诵经声与微弱尖叫声）</span></div><div class="aff-b"><span><i>生命值</i>20</span><span><i>触发</i>接近</span><span><i>再起</i>1天</span></div><div class="trap-band">效果</div><div class="aff-b"><span>此作祟由无数怨灵与邪念聚合而成，其激活完全取决于灵体集体的（由 GM 决定）意志（不过一般来说至少需要一个邪恶生物持有该书一个月，或者一个善良生物持有该书若干轮.）<br>激活时，距离《永罪之书》20尺内魅力最高的生物需进行DC 21魅力检定。若该生物成功且其阵营为邪恶，则环绕在这本书周围的怨灵会认可它的持有者。若该生物检定成功但其为非邪恶阵营，20尺内所有生物需通过DC 21意志豁免，否则受[[梦魇]]影响。<br>若尝试该魅力检定的生物在这次检定中失败，那么周围所有的生物都需进行上述意志豁免以避免受到梦魇影响。此外，作祟亦会施展[[心灵遥控]]攻击这个生物或将书从她的手中抛离。<br>构成这个作祟的灵体格外强烈，所以抵抗它的效果的 DC 比一般作祟高。在[[圣居]]的效果范围内，这个作祟无法触发。<span style="color:#b5452b;font-size:.85em">〔AI 补译〕</span></span></div><div class="aff-b"><span><i>摧毁</i>唯有彻底毁灭完整的《永罪之书》，此作祟方会消失。</span></div><div class="aff-b"><span><i>出处</i>《[[永罪之书]]》第 167 页</span></div></div>
 
 === [[界外低语]] ===
-<div class="trap"><div class="aff-h"><b>[[界外低语]]</b><span class="aff-p">挑战等级10</span></div><div class="aff-b"><span><i>XP</i>9,600</span><span>混乱邪恶 游离 顽固 变体作祟（30尺半径）</span><span><i>施法者等级</i>9</span></div><div class="aff-b"><span><i>察觉</i>察觉 DC 25（听见所有附近生物颅内传出的低语）</span></div><div class="aff-b"><span><i>生命值</i>45</span><span><i>弱点</i>知识（神秘、位面或宗教）DC 25（免疫正能量）</span><span><i>触发</i>接近</span><span><i>再起</i>1天</span></div><div class="trap-band">效果</div><div class="aff-b"><span>低语会飘向有意识的生物，尤其是那些之前被它们影响过心智的目标。区域内每个生物必须通过DC 16的意志豁免，否则受到1d8点感知伤害；即使豁免成功也会受到1点感知伤害（如果使用理智系统，则改为：成功豁免受1d6点理智伤害，失败受2d8点，详见第12页）。生物在作祟范围内每待一轮（不需要连续），豁免DC就会增加1点。这个DC在24小时后或灵体被驱散时会重置回16.<br>每次有生物对灵体造成伤害时，必须进行一次意志豁免，DC等于它之前知识检定（奥秘、位面或宗教）的结果。若失败则承受1d4点感知（如果使用理智系统，成功豁免受1d8点理智伤害，失败则受2d10点）。</span></div><div class="aff-b"><span><i>摧毁</i>必须找到所有创造这个作祟的邪教徒尸体，在圣化之地火化并埋葬，才能彻底摧毁它。</span></div><div class="aff-b"><span><i>出处</i>《[[惧怖冒险]]》第 173 页</span></div></div>
+<div class="trap"><div class="aff-h"><b>[[界外低语]]</b><span class="aff-p">挑战等级10</span></div><div class="aff-b"><span><i>XP</i>9,600</span><span>混乱邪恶 游离 顽固 变体作祟（30尺半径）</span><span><i>施法者等级</i>9</span></div><div class="aff-b"><span><i>察觉</i>察觉 DC 25（听见所有附近生物颅内传出的低语）</span></div><div class="aff-b"><span><i>生命值</i>45</span><span><i>弱点</i>知识（神秘、位面或宗教）DC 25（免疫正能量）</span><span><i>触发</i>接近</span><span><i>再起</i>1天</span></div><div class="trap-band">效果</div><div class="aff-b"><span>低语会飘向有意识的生物，尤其是那些之前被它们影响过心智的目标。区域内每个生物必须通过DC 16的意志豁免，否则受到1d8点感知伤害；即使豁免成功也会受到1点感知伤害（如果使用理智系统，则改为：成功豁免受1d6点理智伤害，失败受2d8点，详见第12页）。生物在作祟范围内每待一轮（不需要连续），豁免DC就会增加1点。这个DC在24小时后或灵体被驱散时会重置回16.<br>每次有生物对灵体造成伤害时，必须进行一次意志豁免，DC等于它之前知识检定（奥秘、位面或宗教）的结果。若失败则承受1d4点感知吸取（如果使用理智系统，成功豁免受1d8点理智伤害，失败则受2d10点）。</span></div><div class="aff-b"><span><i>摧毁</i>必须找到所有创造这个作祟的邪教徒尸体，在圣化之地火化并埋葬，才能彻底摧毁它。</span></div><div class="aff-b"><span><i>出处</i>《[[惧怖冒险]]》第 173 页</span></div></div>
 
 == 挑战等级 11–15 ==
 
@@ -315,7 +315,7 @@
 
 '''语言''' 通用语，多国语
 
-'''特殊特性''' 护甲训练1，盗贼天赋（[[流血攻击]]+2），[[盗贼#寻找陷阱|寻找陷阱]]+1
+'''特性''' 护甲训练1，盗贼天赋（[[流血攻击]]+2），[[盗贼#寻找陷阱|寻找陷阱]]+1
 
 '''特殊能力'''
 
@@ -412,7 +412,7 @@ HD：同基础生物。变为人形怪物的类人生物将其生命骰面数改
 
 技能：极饿生物丧失大部分生前记忆，因此不继承基础角色的技能点数。其技能点数计算公式为：1×（生命骰）。极饿生物的[[本职技能]]仅有察觉、隐匿与生存。
 
-特殊特性：极饿生物失去基础角色的特殊能力与职业能力（包含偏好职业奖励）。
+特性：极饿生物失去基础角色的特殊能力与职业能力（包含偏好职业奖励）。
 
 环境：同基础角色
 

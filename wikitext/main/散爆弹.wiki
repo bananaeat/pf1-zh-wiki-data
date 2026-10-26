@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=散爆弹
 |english_name=Blast Shot

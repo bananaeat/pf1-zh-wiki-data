@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=无定命运骨骰
 |english_name=Knucklebone of Fickle Fortune

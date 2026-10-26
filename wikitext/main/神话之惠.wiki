@@ -1,52 +1,52 @@
 {{#addbodyclass:pf-rules}}{{速查导航|here=规则}}{{神话冒险规则导航|here=神话之惠}}
-神话之惠是完成引人注目的成就时所给予的特殊奖励。当神话玩家反覆地以英勇，大胆而充满自信的行为渡过危险时，他们会因这些惊人壮举而获得回报。奖励神话之惠是GM鼓励玩家将他们的角色推向极限的一种方式。
+神话之惠是完成引人注目的成就时所给予的特殊奖励。神话PC应当反复以英勇的方式行事，满怀信心地大胆冲入险境，并应因完成这些大胆、幸运和勇气的惊人壮举而得到奖励。奖励神话之惠是GM鼓励玩家将他们的角色推向极限的一种方式。
 
-授予恩惠非常简单：当玩家完成勇敢，狡诈或是幸运的惊人壮举时，他们会恢复他们一点使用的神话之力（但不能超过总数）。这可以表示来源于不同的方面：神对玩家的恩赐，飙升的可怕力量，甚至是来自于玩家对真正实力的自豪。
+授予恩惠非常简单：当PC完成勇敢、狡诈或幸运的惊人壮举时，他们应当恢复1次神话之力的使用次数（但不能超过总次数）。这在不同的来源下可以代表不同的东西：神明对PC的垂青、体内涌动的诡秘能量，甚至是角色的骄傲化为了真实的力量。
 
-当奖励恩惠时，GM应当同时奖励那时刻所涉及到的玩家们，保证这些奖励对队伍的平衡。举例来说，如果一个野蛮人冲锋并用斧子以重击的方式杀死一名强大的恶棍，你可以奖励野蛮人，但别忽视与野蛮人[[夹击]]的盗贼，与通过吟游表演提供在攻击骰上奖励的吟游诗人。一个角色每次获得的恩惠不超过一次（原文翻译为每次遭遇不超过一次，但根据下段一场战斗的同一类壮举的恩惠生效次数不超过3次或以上，并根据本段仅描述对一次壮举中的奖励方式，故认为应该指一次壮举中仅能获得一个恩惠的意思），但GM可以在特殊情况下放弃这个原则。
+当奖励恩惠时，GM应当同时奖励那时刻所涉及到的玩家们，保证这些奖励对队伍的平衡。举例来说，如果一名[[斗士]]野蛮人冲上前去，用斧头一记幸运的重击杀死了一名强大的反派，你可以奖励这名野蛮人，但别忽视与他一同夹击这名反派的[[诡术大师]]盗贼，以及用吟游表演为攻击检定提供加值的[[统帅]]吟游诗人。一个角色每场遭遇获得的恩惠不超过一次，但GM可以在特殊情况下放弃这个原则。
 
-包括下面这些值得奖励恩惠时刻的例子。这并不是一个完整的列表，还有很多情况可以导致非同寻常的成果。这些并不是必然的；如果一个角色每一次达成重击壮举，除非在极端的情况下，他不应该在一次战斗中获得三次或以上的奖励。
+包括下面这些值得奖励恩惠时刻的例子。这并不是一份详尽的列表，任何情形都可能带来非同寻常的结果。这些奖励不应是自动的；比如，如果一个角色本来就是为打出重击而构筑的，就不应该每次他在一场战斗中打出三次或更多重击都奖励他，而只应在他于极端情形下做到这一点时才奖励。
 
-许多恩惠需要玩家在对抗神话敌人时完成，但视GM而定，适当地挑战普通敌人也可能获得。除非另外的详细说明，这些时刻必须发生在同一个遭遇中-例如如果你在一次战斗中在两次重击下存活下来，而一次在下场战斗，这些时刻不会计数在[[坚不可摧]]的壮举下。
+许多恩惠需要玩家在对抗神话敌人时完成，但视GM而定，适当地挑战普通敌人也可能获得。除非另外的详细说明，这些时刻必须发生在同一场遭遇中——例如，如果你在一场战斗中承受了两次重击而存活，又在下一场战斗中承受了一次，就不算达成「坚不可摧」恩惠。
 
 <div class="rule-def gloss"><div class="rd-t">刺杀</div><div class="rd-b">仅用一次近战或远程攻击，角色就击败了一个满生命值的神话敌人。</div></div>
 <div class="rule-def gloss"><div class="rd-t">在我身后</div><div class="rd-b">玩家们击败了至少四名生物，但仅有一名（或没有）玩家在作战过程中受伤。</div></div>
 <div class="rule-def gloss"><div class="rd-t">无血胜利</div><div class="rd-b">玩家们仅通过非致命伤的方式打败了一名神话敌人。</div></div>
 <div class="rule-def gloss"><div class="rd-t">平静下来</div><div class="rd-b">角色通过一次技能检定，就结束或阻止与一名神话敌人的战斗，像是[[交涉]]或者[[唬骗]]。</div></div>
-<div class="rule-def gloss"><div class="rd-t">紧握生命</div><div class="rd-b">角色在一次巨大伤害的攻击下存活（伤害大于等于最大总生命值的一半，最小50点），并在之后的强韧豁免检定中，超过dc5点或以上。</div></div>
-<div class="rule-def gloss"><div class="rd-t">[[千钧一发]]</div><div class="rd-b">角色在被一名生物[[纠缠]]，[[擒抱]]，或囫囵活吞时打败他。</div></div>
-<div class="rule-def gloss"><div class="rd-t">反制施法者</div><div class="rd-b">角色对同一个敌人施法者反制法术三次或以上。</div></div>
-<div class="rule-def gloss"><div class="rd-t">重击[[连锁]]</div><div class="rd-b">不在任何一次攻击骰上失败，角色就连续完成三次重击。</div></div>
+<div class="rule-def gloss"><div class="rd-t">紧握生命</div><div class="rd-b">角色在一次巨大伤害的攻击下存活（伤害大于等于最大总生命值的一半，最小50点），并在随后的强韧豁免检定中，检定结果超过豁免DC 5点或以上。</div></div>
+<div class="rule-def gloss"><div class="rd-t">千钧一发</div><div class="rd-b">角色在被一名生物[[纠缠]]，[[擒抱]]，或囫囵活吞时打败他。</div></div>
+<div class="rule-def gloss"><div class="rd-t">反制施法者</div><div class="rd-b">角色反制了同一名敌方施法者的三个或更多法术。</div></div>
+<div class="rule-def gloss"><div class="rd-t">重击连锁</div><div class="rd-b">不在任何一次攻击骰上失败，角色就连续完成三次重击。</div></div>
 <div class="rule-def gloss"><div class="rd-t">死亡之舞</div><div class="rd-b">一轮中，角色挑起了四次或更多的[[借机攻击]]，但没人能击中他。</div></div>
-<div class="rule-def gloss"><div class="rd-t">死亡之门</div><div class="rd-b">角色在对抗一名神话敌人确认重击时，使其生命为0点或以下。</div></div>
-<div class="rule-def gloss"><div class="rd-t">[[深呼吸]]</div><div class="rd-b">角色在不使用允许呼吸的魔法或能力的帮助下，在水下打败一名神话敌人。</div></div>
-<div class="rule-def gloss"><div class="rd-t">极端手段</div><div class="rd-b">角色开始一场对抗神话敌人的战斗时，不使用任何剩余的（或临时的）神话之力。</div></div>
-<div class="rule-def gloss"><div class="rd-t">遥远重击</div><div class="rd-b">角色在攻击处于远程武器最大射程范围的目标时，造成重击。</div></div>
-<div class="rule-def gloss"><div class="rd-t">最终赠礼</div><div class="rd-b">当处于0点生命时，角色使用一次魔法，道具或是[[特殊能力]]治疗一名伙伴，使其摆脱[[昏迷]]或溺死。</div></div>
+<div class="rule-def gloss"><div class="rd-t">死亡之门</div><div class="rd-b">角色在自己生命值为0点或以下时，对一名神话敌人确认了一次重击。</div></div>
+<div class="rule-def gloss"><div class="rd-t">深呼吸</div><div class="rd-b">角色在不使用允许呼吸的魔法或能力的帮助下，在水下打败一名神话敌人。</div></div>
+<div class="rule-def gloss"><div class="rd-t">极端手段</div><div class="rd-b">角色开始一场对抗神话敌人的战斗时，已经没有任何剩余的神话之力使用次数（或信心）。</div></div>
+<div class="rule-def gloss"><div class="rd-t">遥远重击</div><div class="rd-b">角色用远程武器对处于该武器最大射程增量内的目标造成重击。</div></div>
+<div class="rule-def gloss"><div class="rd-t">最终赠礼</div><div class="rd-b">当处于0点生命时，角色使用一次法术、物品或[[特殊能力]]去治疗一名盟友而不是自己，导致自己陷入[[昏迷]]并获得[[濒死]]状态。</div></div>
 <div class="rule-def gloss"><div class="rd-t">最先陨落</div><div class="rd-b">在战斗开始时，任何其他生物有机会行动前，角色就击败一名神话敌人。</div></div>
 <div class="rule-def gloss"><div class="rd-t">坚不可摧</div><div class="rd-b">角色在三次重击下存活。</div></div>
 <div class="rule-def gloss"><div class="rd-t">[[战技]]展览</div><div class="rd-b">角色成功的表演了至少四次不同的战技。</div></div>
 <div class="rule-def gloss"><div class="rd-t">湮灭一切</div><div class="rd-b">只使用一次魔法，角色就击败了6名或更多的生物，结束了这场遭遇。</div></div>
 <div class="rule-def gloss"><div class="rd-t">强烈冲击</div><div class="rd-b">角色在对抗一名神话生物中所达成的一次攻击，就造成了巨大的伤害（大于等于总生命值的一半，最少50点）</div></div>
 <div class="rule-def gloss"><div class="rd-t">强烈旋转</div><div class="rd-b">角色在一轮中，使用近战或远程攻击对5个或以上的生物造成伤害。</div></div>
-<div class="rule-def gloss"><div class="rd-t">大师医者</div><div class="rd-b">仅使用一次魔法，道具或是能力，角色就将一名溺死的生物回满了生命值。</div></div>
+<div class="rule-def gloss"><div class="rd-t">大师医者</div><div class="rd-b">仅使用一次魔法，道具或是能力，角色就将一名濒死的生物治疗至满生命值。</div></div>
 <div class="rule-def gloss"><div class="rd-t">神话挑战</div><div class="rd-b">在一天之内，队伍击败数名神话生物，其总和的神话阶层大于等于在队伍中最高的角色的神话阶层的3倍。</div></div>
-<div class="rule-def gloss"><div class="rd-t">惊人谎言</div><div class="rd-b">使用唬骗，玩家用几乎不可能的[[谎言说服]]了一名生物（-20修正的检定）。</div></div>
+<div class="rule-def gloss"><div class="rd-t">惊人谎言</div><div class="rd-b">使用唬骗，玩家用几乎不可能的谎言说服了一名生物（-20修正的检定）。</div></div>
 <div class="rule-def gloss"><div class="rd-t">赶尽杀绝</div><div class="rd-b">玩家使用一个投石车，弩车，或攻城槌对一名神话生物造成巨大的伤害（大于等于这名生物总生命值的一半，至少50点）。</div></div>
 <div class="rule-def gloss"><div class="rd-t">胜利表演</div><div class="rd-b">玩家使用了吟游表演鼓舞了他的同盟8轮甚至更久。</div></div>
 <div class="rule-def gloss"><div class="rd-t">精确位置</div><div class="rd-b">角色成功地击中了一个处于[[全隐蔽]]状态的敌人三次</div></div>
 <div class="rule-def gloss"><div class="rd-t">奋力向前</div><div class="rd-b">队伍在没有休息和恢复任何能力的情况下，克服了6次或更多的遭遇。</div></div>
-<div class="rule-def gloss"><div class="rd-t">弹性施法者</div><div class="rd-b">在一次施法中承受一次重击之后，角色仍成功地用法术阻止或打败了敌人。</div></div>
-<div class="rule-def gloss"><div class="rd-t">还之彼身</div><div class="rd-b">一名生物在一轮中从一次远程攻击中抓住一支箭，并用它成功地击中了攻击者。</div></div>
-<div class="rule-def gloss"><div class="rd-t">专家</div><div class="rd-b">当玩家自然骰出点数为5点或更低时，其检定结果仍通过了dc为20点或更多的技能。</div></div>
-<div class="rule-def gloss"><div class="rd-t">学派展览</div><div class="rd-b">角色施展了每一种学派至少一个魔法（低于他能施展的最高施法者等级2级或更多的法术则不会计数）</div></div>
-<div class="rule-def gloss"><div class="rd-t">保卫同盟</div><div class="rd-b">使用道途能力，角色在一次攻击中至少三次阻止任何同盟受到任何伤害。</div></div>
-<div class="rule-def gloss"><div class="rd-t">技能霸主</div><div class="rd-b">角色在一次技能检定中，其结果超过了dc20点或更多。</div></div>
-<div class="rule-def gloss"><div class="rd-t">独行勇士</div><div class="rd-b">角色不通过任何同盟的帮助就击败了一名神话生物，包括[[动物伙伴]]，部署等等。</div></div>
+<div class="rule-def gloss"><div class="rd-t">弹性施法者</div><div class="rd-b">在施法时遭受重击之后，角色通过了专注检定，并用该法术击败了一名敌人。</div></div>
+<div class="rule-def gloss"><div class="rd-t">还之彼身</div><div class="rd-b">一名生物接住了远程攻击射来的箭或其他投射物，并在1轮内用它成功击中了攻击者。</div></div>
+<div class="rule-def gloss"><div class="rd-t">专家</div><div class="rd-b">角色在d20自然骰出5或更低的情况下，仍通过了DC 20或更高的技能检定。</div></div>
+<div class="rule-def gloss"><div class="rd-t">学派展览</div><div class="rd-b">角色施展了每一种学派至少一个魔法（比他所能施展的最高环位法术低2环或更多的法术不计入）</div></div>
+<div class="rule-def gloss"><div class="rd-t">保卫同盟</div><div class="rd-b">使用道途能力，角色至少三次使盟友免受一次攻击造成的任何伤害。</div></div>
+<div class="rule-def gloss"><div class="rd-t">技能霸主</div><div class="rd-b">角色的一次技能检定结果超过DC 20点或更多。</div></div>
+<div class="rule-def gloss"><div class="rd-t">独行勇士</div><div class="rd-b">角色不通过任何同盟的帮助就击败了一名神话生物，包括[[动物伙伴]]、部属等等。</div></div>
 <div class="rule-def gloss"><div class="rd-t">迅捷毁灭</div><div class="rd-b">角色在战斗的第一轮中，在一名神话生物有机会行动前，用一个法术击败了他。</div></div>
 <div class="rule-def gloss"><div class="rd-t">迅捷胜利</div><div class="rd-b">队伍在第一轮就战胜了一次遭遇。</div></div>
 <div class="rule-def gloss"><div class="rd-t">杂技演员</div><div class="rd-b">在一轮中，玩家使用特技，在不引起任何借机攻击的情况下，穿过了至少5名敌人的威胁范围。</div></div>
-<div class="rule-def gloss"><div class="rd-t">不死毒药</div><div class="rd-b">在一次[[引导能量]]中，角色击败了8名或更多的不死生物，或者4名或更多的神话不死生物。</div></div>
+<div class="rule-def gloss"><div class="rd-t">不死克星</div><div class="rd-b">在一次[[引导能量]]中，角色击败了8名或更多的不死生物，或者4名或更多的神话不死生物。</div></div>
 <div class="rule-def gloss"><div class="rd-t">无人能挡</div><div class="rd-b">角色在与一个神话敌人的战斗中，同时承受了下列条件中至少三种的效果：[[目盲]]，[[困惑]]，[[耳聋]]，[[瘫痪]]，[[力竭]]，[[惊惧]]，[[反胃]]，[[麻痹]]，[[压制]]，[[震慑]]。</div></div>
 <div class="rule-def gloss"><div class="rd-t">狂野勇者</div><div class="rd-b">在使用自然变身或其他[[变形术]]效果时，角色击败了一名神话敌人。</div></div>
 <div class="rule-def gloss"><div class="rd-t">摔跤选手</div><div class="rd-b">角色在对抗一名敌人时进行反擒抱，并在下个回合压制对方。</div></div>

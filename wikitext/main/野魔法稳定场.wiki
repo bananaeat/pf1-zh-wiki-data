@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=野魔法稳定场
 |english_name=Influence Wild Magic

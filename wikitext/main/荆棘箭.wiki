@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=荆棘箭
 |english_name=Thorns (20)

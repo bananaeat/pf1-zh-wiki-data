@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=嗜法头饰
 |english_name=Circlet of Spell-Eating

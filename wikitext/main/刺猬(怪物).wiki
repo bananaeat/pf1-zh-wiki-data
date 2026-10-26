@@ -1,0 +1,42 @@
+{{速查导航}}
+{{消歧义|刺猬}}
+{{怪物
+|name=刺猬
+|english_name=Hedgehog
+|cr=1/8
+|xp=50
+|alignment=绝对中立
+|size=微型
+|type=动物
+|init=+3
+|senses=昏暗视觉；察觉 +1
+|ac=18，接触 17，措手不及 15（+3 敏捷，+1 天生，+4 体型）
+|hp=2（1d8–2）
+|fort=+0
+|ref=+5
+|will=+1
+|speed=20 尺
+|space=1 尺
+|reach=0 尺
+|str=1
+|dex=16
+|con=6
+|int=2
+|wis=12
+|cha=7
+|bab=+0
+|cmb=–1
+|cmd=4（对抗摔绊 8）
+|feats=[[运动健将]]
+|skills=[[攀爬]] +5;[[隐匿]] +19;[[游泳]] +5
+|environment=热带或温带森林
+|organization=单独或一对
+|treasure=无
+|special_abilities={{怪物能力|刺球防御|Ex|以一个移动动作，刺猬可以把自己蜷成一个带刺的球。蜷起时，它现有的天生护甲获得 +1 增强加值，且任何试图擒抱刺猬的生物在进行擒抱检定时会受到 1d3 点伤害。蜷起时，刺猬除了解除这一状态之外不能采取任何行动。刺猬可以用一个移动动作解除这一状态。}}
+|source=极限魔法
+|lore=
+刺猬是带刺的食虫哺乳动物。受到威胁时，刺猬会蜷成一个带刺的球作为防御。
+}}
+{{AoN原文|1=MonsterDisplay.aspx?ItemName=Hedgehog|2=Hedgehog}}
+
+本页译自民间汉化 CHM 的魔宠与模板页（[https://pf1chm.pages.dev/topics/page_301.html 原文]），数值按 AoN 核过。

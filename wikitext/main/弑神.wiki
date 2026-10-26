@@ -1,8 +1,10 @@
+{{PFS不可用}}
 {{魔法物品
 |name=弑神
 |english_name=Legendsbane
 |aon=MagicArtifactsDisplay.aspx?ItemName=Legendsbane
 |cat=神器
+|mythic=是
 |tier=高等神器
 |base=[[匕首]]（[[精金]]制）
 |enh=+6 锐锋 追击

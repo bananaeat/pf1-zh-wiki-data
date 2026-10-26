@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=致命回返飞斧
 |english_name=Deadly Returns Throwing Axe

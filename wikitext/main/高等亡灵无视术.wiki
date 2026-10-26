@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=高等亡灵无视术
 |english_name=Hide from Undead, Greater

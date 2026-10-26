@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=腐疫弹
 |english_name=Plague bundle

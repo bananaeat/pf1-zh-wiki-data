@@ -2,7 +2,7 @@
 {{Feat
 |name=吞噬精华
 |english_name=Consume Essence
-|categories=战斗
+|categories=战斗;怪物
 |pfs=否
 |description=被你吞下的生物会很快被吸收，并迅速被彻底湮灭。
 |prerequisites=基本攻击加值+6；邪恶阵营；活吞通用怪物特殊能力；必须是魔法兽、异界生物或不死生物类型。

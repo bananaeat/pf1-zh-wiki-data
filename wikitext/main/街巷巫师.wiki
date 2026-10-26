@@ -1,3 +1,4 @@
+{{PFS特殊|1=街巷巫师（Alley Witch）变体的行人之庇护（Crowd Patron）获得腹语术（Ventriloquism）而非聆听城市（Ears of the City）作为奖励法术。}}
 {{Source|市井英雄|Heroes of the Streets}}
 
 '''街巷巫师'''（Alley Witch）是[[女巫]]的[[变体职业]]。

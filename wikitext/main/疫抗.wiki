@@ -4,6 +4,7 @@
 |description=疾病对你造成的影响往往较为轻微。
 |prerequisites=体质13。
 |benefit=当你因疾病而承受[[属性伤害]]或[[属性吸取]]时，分别对每个属性的伤害与吸取各掷两次并取较低结果。除此之外，你仍照常承受疾病的其他任何效果。
-|source_name=反派法典
+|source=VC
+|source_name=恶棍志
 |source_url=https://pf1chm.pages.dev/topics/zhfa2a4585c1.htm
 }}

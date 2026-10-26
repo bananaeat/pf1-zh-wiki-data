@@ -1,4 +1,5 @@
 {{消歧义|悲鸣钻石}}
+{{PFS不可用}}
 {{魔法物品
 |name=悲鸣钻石
 |english_name=The Moaning Diamond

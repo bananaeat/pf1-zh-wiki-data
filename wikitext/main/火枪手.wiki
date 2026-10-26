@@ -1,4 +1,5 @@
 {{消歧义|火枪手(骑士变体职业)}}
+{{PFS不可用}}
 {{Source|进阶职业指南|Advanced Class Guide}}
 
 '''火枪手'''（Musketeer）是[[游荡剑客]]的[[变体职业]]。

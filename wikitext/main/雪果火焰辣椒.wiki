@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=雪果火焰辣椒
 |english_name=Snowberry Fire Peppers

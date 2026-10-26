@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=融为一体
 |english_name=Blend with surroundings

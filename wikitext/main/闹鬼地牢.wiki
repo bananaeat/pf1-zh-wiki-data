@@ -2,7 +2,7 @@
 |name=闹鬼地牢
 |english_name=Haunted Dungeon
 |kind=作祟
-|type=好斗 潜伏 游离 扩域 顽固 坚韧作祟
+|type=好斗 隐秘 游离 扩域 顽固 坚韧作祟
 |cr=17
 |xp=102,400
 |alignment=混乱邪恶

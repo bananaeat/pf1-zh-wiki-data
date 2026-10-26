@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=Rythius，链魔之灾
 |english_name=Rythius, the Kyton Scourge

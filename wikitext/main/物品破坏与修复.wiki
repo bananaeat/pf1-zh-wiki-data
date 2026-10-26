@@ -1,0 +1,292 @@
+{{#addbodyclass:pf-rules}}{{速查导航|here=规则}}
+<div class="wm-src"><b>出处</b><span>[[破坏物品|核心规则书·破坏物品]]</span><span>[[击破|核心规则书·击破]]</span><span>[[破损|核心规则书·破损]]</span><span>[[魔法#豁免检定|核心规则书·魔法·豁免检定]]</span><span>[[魔法物品#伤害魔法物品|核心规则书·魔法物品]]</span><span>[[环境规则#着火|核心规则书·着火]]</span><span>《[[极限战斗]]》[[装备#特性-易碎|易碎]]、[[火器]]</span></div>
+当你试图破坏一件物品时，你有两个选择：用武器击破它；用纯粹的力量粉碎它。
+
+<div class="hp-track">
+<div style="--tc:#3f6b4a"><div class="ht-h">受到伤害</div><div class="ht-n">先减去硬度</div><div class="ht-b">只有超过硬度的伤害才会对物品的HP造成损伤。</div></div>
+<div style="--tc:#9a7a2e"><div class="ht-h">伤害达到HP一半</div><div class="ht-n">[[破损]]</div><div class="ht-b">物品受到的伤害值等于或超过HP一半时，其陷入破损状态</div></div>
+<div style="--tc:#a4553f"><div class="ht-h">HP降至0</div><div class="ht-n">损毁</div><div class="ht-b">受损的魔法物品仍然有效，但若其被完全损毁，则会失去所有的魔法能力。</div></div>
+</div>
+
+== 物品的AC、硬度与HP ==
+<div class="rule-formulas">
+<div class="rule-formula" style="--tc:#56607c"><div class="rf-t">物品的AC</div><div class="rf-e">10＋体型修正＋敏捷修正</div></div>
+<div class="rule-formula" style="--tc:#56607c"><div class="rf-t">未活化的物品</div><div class="rf-e">敏捷0（AC <b>-5</b>），额外AC <b>-2</b></div></div>
+<div class="rule-formula" style="--tc:#7c4a6b"><div class="rf-t">魔法防具和武器：每1点增强加值</div><div class="rf-e">硬度<b>+2</b>，HP<b>+10</b></div></div>
+</div>
+<div class="rule-side">
+{| class="wikitable"
+|+ 表：物品的体型和AC
+|-
+! 体型 !! AC修正
+|-
+| 超巨型 || -8
+|-
+| 巨型 || -4
+|-
+| 超大型 || -2
+|-
+| 大型 || -1
+|-
+| 中型 || +0
+|-
+| 小型 || +1
+|-
+| 超小型 || +2
+|-
+| 微型 || +4
+|-
+| 超微型 || +8
+|}
+</div>
+<div class="rule-def"><div class="rd-t">AC</div><div class="rd-b">物品不会移动，所以要比生物来得容易击中；但大多数都很坚固，可以避免一定程度的伤害。物品的AC等于“10+体型修正+敏捷修正”。未活化的物品敏捷属性为0（AC-5），并受到额外AC-2减值。此外如果你用[[整轮动作]]瞄准物品，近战武器必然命中，而远程武器攻击+5。</div></div>
+<div class="rule-def"><div class="rd-t">硬度</div><div class="rd-b">每件物品都有硬度，代表其抵抗伤害的能力。当物品受到伤害时，从伤害值中减去硬度。只有超过硬度的伤害才会对物品的HP造成损伤。</div></div>
+<div class="rule-def"><div class="rd-t">HP</div><div class="rd-b">物品的HP取决于其材质和大小。物品受到的伤害值等于或超过HP一半时，其陷入[[破损]]状态；当物品的HP被降至0时，物品即被损毁。特别巨大的物品每部分都有各自的HP。</div></div>
+<div class="rule-def"><div class="rd-t">活化物品</div><div class="rd-b">活化物品在计算AC时视同生物而非物品（不要把它们当作未活化的物体）。</div></div>
+{{并排表题|表：常见防具、武器、材质和物品的硬度与生命值}}
+<div class="rule-cols" style="margin-top:0">
+<div>
+{| class="wikitable" style="margin-top:0"
+|-
+! 武器或盾牌 !! 硬度（※1） !! HP（※2, 3）
+|-
+| 轻型刃器 || 10 || 2
+|-
+| 单手刃器 || 10 || 5
+|-
+| 双手刃器 || 10 || 10
+|-
+| 轻型金属柄武器 || 10 || 10
+|-
+| 单手金属柄武器 || 10 || 20
+|-
+| 轻型木柄武器 || 5 || 2
+|-
+| 单手木柄武器 || 5 || 5
+|-
+| 双手木柄武器 || 5 || 10
+|-
+| 投射型武器 || 5 || 5
+|-
+| 盔甲 || 特殊（※4） || 护甲加值×5
+|-
+| 小圆盾 || 10 || 5
+|-
+| 轻型木盾 || 5 || 7
+|-
+| 重型木盾 || 5 || 15
+|-
+| 轻型钢盾 || 10 || 10
+|-
+| 重型钢盾 || 10 || 20
+|-
+| 塔盾 || 5 || 20
+|}
+<div class="rule-notes">※1 增强加值每+1，魔法物品硬度+2。<br>※2 此处数据都以中型防具和武器为准。其他型号的武器，每增大一级HP加倍，每缩小一级则减半。<br>※3 增强加值每+1，魔法物品HP+10。<br>※4 因材质而不同，详见下表。</div>
+</div>
+<div>
+{| class="wikitable" style="margin-top:0"
+|-
+! 材质 !! 硬度 !! HP
+|-
+| 玻璃 || 1 || 1/每寸厚度
+|-
+| 纸或布料 || 0 || 2/每寸厚度
+|-
+| 绳索 || 0 || 2/每寸厚度
+|-
+| 冰 || 0 || 3/每寸厚度
+|-
+| 皮或革 || 2 || 5/每寸厚度
+|-
+| 木头 || 5 || 10/每寸厚度
+|-
+| 石头 || 8 || 15/每寸厚度
+|-
+| 钢铁 || 10 || 30/每寸厚度
+|-
+| {{材料|秘银}} || 15 || 30/每寸厚度
+|-
+| {{材料|精金}} || 20 || 40/每寸厚度
+|}
+</div>
+<div>
+{| class="wikitable" style="margin-top:0"
+|-
+! 物品 !! 硬度 !! HP !! 破坏DC
+|-
+| 绳索（直径1寸） || 0 || 2 || 23
+|-
+| 简单木门 || 5 || 10 || 13
+|-
+| 小木箱 || 5 || 1 || 17
+|-
+| 普通木门 || 5 || 15 || 18
+|-
+| 宝箱 || 5 || 15 || 23
+|-
+| 强化木门 || 5 || 20 || 23
+|-
+| 砌石墙（1尺厚） || 8 || 90 || 35
+|-
+| 凿切石墙（3尺厚） || 8 || 540 || 50
+|-
+| 链条 || 10 || 5 || 26
+|-
+| 镣铐 || 10 || 10 || 26
+|-
+| 精制镣铐 || 10 || 10 || 28
+|-
+| 铁门（2寸厚） || 10 || 60 || 28
+|}
+</div>
+</div>
+<div class="wm-chips"><span class="wc-k">材料</span><span>[[特殊材料]]（各材料的硬度、每寸HP）</span><span>[[硬度]]（怪物能力）</span></div>
+
+== 伤害物品 ==
+<div class="rule-formulas">
+<div class="rule-formula" style="--tc:#a4553f"><div class="rf-t">能量攻击</div><div class="rf-e">伤害值<b>减半</b>后再减去物品硬度</div></div>
+<div class="rule-formula" style="--tc:#a4553f"><div class="rf-t">远程武器</div><div class="rf-e">伤害值<b>减半</b>后再减去物品硬度</div></div>
+<div class="rule-formula" style="--tc:#7c4a6b"><div class="rf-t">对特定攻击易伤</div><div class="rf-e"><b>两倍</b>伤害，可能忽略硬度</div></div>
+<div class="rule-formula" style="--tc:#56607c"><div class="rf-t">免疫</div><div class="rf-e">非致命伤害和重击</div></div>
+</div>
+<div class="rule-def"><div class="rd-t">能量攻击</div><div class="rd-b">能量攻击对多数物品只能造成一半伤害。伤害值将被减半后再减去物品硬度。某些能量类型可能对特定物品特别有效，由GM酌情判断。譬如火焰可能对羊皮纸、布料和其他易燃物品造成全额伤害，而音波可能对玻璃和水晶造成全额伤害。</div></div>
+<div class="rule-def"><div class="rd-t">远程武器伤害</div><div class="rd-b">物品只会受到远程武器造成的一半伤害（攻城兵器或类似装置除外），伤害值将被减半后再减去物品硬度。</div></div>
+<div class="rule-def"><div class="rd-t">无效的武器</div><div class="rd-b">某些武器显然不能对特定物品造成伤害。例如不能使用钝器损坏绳子；同样，大多数近战武器砍在石头墙壁和门上都收效甚微，除非它们是专门用来打破石头的，例如镐或锤。</div></div>
+<div class="rule-def"><div class="rd-t">免疫</div><div class="rd-b">物品对[[非致命伤害]]和重击免疫。即使是视为构装体生物的活化物品也具有同样的免疫。</div></div>
+<div class="rule-def"><div class="rd-t">对特定攻击易伤</div><div class="rd-b">某些攻击容易对特定物品造成伤害。这种攻击会对物品造成两倍伤害，而且可能忽略物品硬度。</div></div>
+<div class="rule-def"><div class="rd-t">着火<small>核心规则书·环境规则</small></div><div class="rd-b">衣服或是装备不幸着火的角色必须对其每样物品分别进行DC 15的反射检定。未通过检定的易燃物品将会和角色一样遭到伤害。</div></div>
+
+=== 以攻击破坏：击破 ===
+<div class="rule-def"><div class="rd-t">破坏物品</div><div class="rd-b">使用挥砍或钝击武器破坏另一件武器或盾牌称为[[击破]][[战技]]。破坏物品和击破武器或盾牌非常相似，区别在于你要以战技攻击检定对抗该物品的AC。一般而言，你只能用挥砍或钝击武器破坏物品。</div></div>
+<div class="rule-def"><div class="rd-t">[[击破]]</div><div class="rd-b">取代一次近战攻击，你可以尝试击破对手持有或穿着的一件物品。如果你没有[[精通击破]]专长或是类似的能力，那么你会受到进行战技攻击目标的[[借机攻击]]。<p>如果你的战技攻击成功命中，你就会对这件物品的HP造成伤害。伤害的数值需要受到物品硬度的减免。如果物品的HP被降至其总HP的一半，它将陷入[[破损]]状态。如果你的击破攻击将物品的HP降至0或更低，你可以选择是否将之完全摧毁。如果你选择不摧毁它，物品将保留1点HP且处于[[破损]]状态。</p></div></div>
+<div class="rule-def"><div class="rd-t">[[高等击破]]</div><div class="rd-b">每当你令一把武器、盾牌或盔甲彻底损毁时，其持用者将承受多余的伤害部分。若你决定令物品剩余1点HP则不会有任何伤害被传递。</div></div>
+{{FAQ|v5748eaic9pyv}}
+<div class="wm-chips"><span class="wc-k">击破专长</span><span>[[精通击破]]</span><span>[[高等击破]]</span><span>[[击破重击]]</span><span>[[碎片打击]]</span><span>[[门扉破坏者]]</span></div>
+
+=== 以蛮力破坏 ===
+<div class="rule-side">
+{| class="wikitable rules-band"
+|+ 表：破坏或粉碎物品的DC
+|-
+! 力量检定于 !! DC
+|-
+| 破坏简单门 || 13
+|-
+| 破坏普通门 || 18
+|-
+| 破坏强化门 || 23
+|-
+| 崩断绳索 || 23
+|-
+| 弯曲铁棒 || 24
+|-
+| 破坏上闩门 || 25
+|-
+| 崩断链条 || 26
+|-
+| 破坏铁门 || 28
+|- class="g"
+! 法术状况 !! DC调整*
+|-
+| ‘封门术’ || +5
+|-
+| ‘秘法锁’ || +10
+|}
+<div class="rule-notes">* 如果两者同时存在，取较大者。</div>
+</div>
+<div class="rule-def"><div class="rd-t">力量检定</div><div class="rd-b">若角色尝试以蛮力而非武器破坏或粉碎物品，必须进行力量属性检定来判定是否成功（与击破战技所需的攻击和伤害检定不同）。硬度不会影响物品的破坏DC，该数值主要取决于物品的构造而非材质，具体请见下表。若物品损伤已达HP一半以上，蛮力破坏的DC-2。</div></div>
+<div class="rule-def"><div class="rd-t">体型</div><div class="rd-b">体型较大或较小的生物在破坏物品的力量属性检定上会受到以下体型修正：超微型-16、微型-12、超小型-8、小型-4、大型+4、超大型+8、巨型+12、超巨型+16。</div></div>
+<div class="wm-chips"><span class="wc-k">工具</span><span>[[撬棍]]</span><span>[[便携式攻城锤]]</span></div>
+
+=== 法术 ===
+<div class="rule-def"><div class="rd-t">[[粉碎音波]]</div><div class="rd-b">作为区域攻击时，此法术可破坏范围内所有由水晶、玻璃，陶器和瓷器组成的非魔法物品。<p>或者，你也可以向一件非魔法固态物体施放粉碎音波，不论其材质组成，其重量不可超过每CL 10磅。</p></div></div>
+<div class="rule-def"><div class="rd-t">[[解离术]]</div><div class="rd-b">当你将该法术用于物体时，射线可解离至多10立方尺的非生命物质。因此，该法术只能解离庞大物体或建筑的一部分。</div></div>
+
+== 豁免与受损 ==
+<div class="rule-formulas">
+<div class="rule-formula" style="--tc:#6b6b6b"><div class="rf-t">非魔法的无主物品</div><div class="rf-e">永远不能进行豁免检定</div></div>
+<div class="rule-formula" style="--tc:#4a6b7c"><div class="rf-t">被角色持用的物品</div><div class="rf-e">以该角色的加值进行检定</div></div>
+<div class="rule-formula" style="--tc:#7c4a6b"><div class="rf-t">魔法物品的豁免检定加值</div><div class="rf-e"><b>2+1/2</b>物品CL（三种豁免相同）</div></div>
+</div>
+<div class="rule-def"><div class="rd-t">豁免检定</div><div class="rd-b">非魔法的无主物品永远不能进行豁免检定。它们将视为豁免失败，因此将会受到法术与其他可以通过豁免削弱效果的攻击的完全影响。被角色持用（抓握、接触或装备）的物品可以如同角色般进行豁免（以该角色的加值进行检定）。魔法物品则可以进行豁免检定，其强韧、反射及意志豁免检定加值皆等同于“2+1/2施法者等级”。被持用的魔法物品进行豁免检定时，可以采用物主或本身的豁免检定加值，取较高者计算。</div></div>
+<div class="rule-def"><div class="rd-t">魔法物品<small>核心规则书·魔法物品</small></div><div class="rd-b">除非是处于无人看管状态、被特别指定为法术目标、或其持有者在他的豁免中自然投骰为1，否则魔法物品无需进行豁免。对于可能对魔法物品造成伤害的法术，魔法物品应该总是能进行豁免抵抗——即使面对那些非魔法物品根本没有机会豁免的攻击。魔法物品对于所有豁免使用相同的豁免加值，无论是什么类型 (强韧、反射或意志)。魔法物品的豁免加值等于 {2+1/2的物品CL} (向下取整)。唯一的例外是智能魔法物品，它们在意志豁免时使用自身的感知加值。<p>除非特别注明，魔法物品和同种类的非魔法物品一样遭受损伤。受损的魔法物品仍然有效，但若其被完全损毁，则会失去所有的魔法能力。</p></div></div>
+
+=== 豁免投出1 ===
+<div class="hp-track">
+<div style="--tc:#a4553f"><div class="ht-h">豁免检定投骰为1</div><div class="ht-n">检定自动失败</div><div class="ht-b">暴露在外的物品可能会受到伤害</div></div>
+<div style="--tc:#9a7a2e"><div class="ht-h">按下表</div><div class="ht-n">最易受创的四种物品</div><div class="ht-b">下表中标示了物品受创的难易程度</div></div>
+<div style="--tc:#7c4a6b"><div class="ht-h">投骰</div><div class="ht-n">决定哪件物品受创</div></div>
+<div style="--tc:#4a6b7c"><div class="ht-h">该物品</div><div class="ht-n">进行一次豁免检定</div><div class="ht-b">并承受攻击带来的伤害。</div></div>
+</div>
+<div class="rule-side">
+{| class="wikitable sortable"
+|+ 表：受魔法攻击影响的物品
+|-
+! 顺序* !! 物品
+|-
+| 第一 || 盾牌
+|-
+| 第二 || 盔甲
+|-
+| 第三 || 魔法头盔、帽子、头带
+|-
+| 第四 || 手中物品 (包括武器、法杖等)
+|-
+| 第五 || 魔法斗篷
+|-
+| 第六 || 未取出或未出鞘的武器
+|-
+| 第七 || 魔法护腕
+|-
+| 第八 || 魔法衣服
+|-
+| 第九 || 魔法珠宝 (包括戒指)
+|-
+| 第十 || 其他
+|}
+<div class="rule-notes">* 顺序愈靠前愈容易受影响.</div>
+</div>
+<div class="rule-def"><div class="rd-t">自动失败和成功</div><div class="rd-b">豁免检定时的投骰为1时 (d20掷出1)，检定自动失败，暴露在外的物品可能会受到伤害 (见下文)。而投骰为20时 (d20掷出20)，检定自动成功。</div></div>
+<div class="rule-def"><div class="rd-t">豁免后的留存物品</div><div class="rd-b">除非法术说明中特别指示，否则生物携带或穿戴的物品不会受到魔法攻击的影响。但是，若生物在豁免对抗检定时投骰为1，他身上暴露在外的某个物品可能会遭到损伤 (如果法术可以损坏物品)。下表中标示了物品受创的难易程度，决定了哪四种被携带的物品最易受创后，投骰决定哪件物品受创。这样被投骰决定出的物品必须进行一次豁免检定，并承受攻击带来的伤害。</div></div>
+<div class="rule-def"><div class="rd-t">物体</div><div class="rd-b">此法术可以针对物品，只有魔法物品和正被抵抗该法术的人持用 (拿着、穿着或握持等) 的物品可以进行豁免检定。不管哪种情况，除非物品的豁免检定加值更高，否则使用持用者的豁免检定加值 (并不是说这类法术只能对物品施展，某些此类法术能对生物和物体施展)。魔法物品的豁免检定加值为 {2+1/2该物品CL}。</div></div>
+
+== 破损 ==
+受到超过其总HP一半的伤害的物品将陷入破损状态，意味着它们原先的效用将会降低。
+<div class="rule-def"><div class="rd-t">武器</div><div class="rd-b">若该物品为武器，任何以此武器做出的攻击检定和伤害检定-2。这件武器仅在自然投骰为20时视为重击威胁，同时重击倍率仅为×2 。</div></div>
+<div class="rule-def"><div class="rd-t">盔甲或盾牌</div><div class="rd-b">若该物品为盔甲或盾牌，它所提供的AC加值减半，向下取整。破损盔甲的防具检定减值加倍。</div></div>
+<div class="rule-def"><div class="rd-t">工具</div><div class="rd-b">若该物品为某项技能所需的工具，任何以此工具进行的技能检定-2。</div></div>
+<div class="rule-def"><div class="rd-t">魔杖或法杖</div><div class="rd-b">若该物品为魔杖或法杖，它在使用时将消耗双倍的充能次数。</div></div>
+<div class="rule-def"><div class="rd-t">其他</div><div class="rd-b">若该物品不属于以上分类，那么破损状态并不影响其使用。无论其类型，处于破损状态的物品价值为通常的75%。</div></div>
+<div class="rule-def"><div class="rd-t">受损物品</div><div class="rd-b">除非HP被降至0而完全损毁，否则物品处于破损状态但保持正常功用。</div></div>
+
+=== 其他致损方式 ===
+<div class="rule-def"><div class="rd-t">[[装备#特性-易碎|易碎]]<small>极限战斗</small></div><div class="rd-b">一件易碎武器在持用者攻击投骰自然出1时陷入[[破损]]状态。若一件易碎武器已经[[破损]]，再一次的攻击投骰自然出1将毁坏它。精制和魔法易碎武器没有上述缺陷，除非专门在详述中提及。若一件武器以此种方式陷入破损状态，该武器视为受到了“1/2生命值+1”点的伤害。</div></div>
+<div class="rule-def"><div class="rd-t">[[火器]]哑火<small>极限战斗</small></div><div class="rd-b">每当火器哑火时，它将陷入[[破损]]状态。使用破损的火器要遭受破损的不利惩罚，且火器的哑火值+4。</div></div>
+<div class="rule-def"><div class="rd-t">早期火器</div><div class="rd-b">若破损的早期火器再次哑火，则会爆炸。当一个非魔法火器爆炸时，它会彻底摧毁。魔法火器爆炸时也会毁坏，这意味着直到完全修复（需要‘[[完全修复术]]’或“枪匠”专长）前它都无法开火。</div></div>
+<div class="rule-def"><div class="rd-t">近代火器</div><div class="rd-b">近代火器也会哑火，但当它哑火时，只会造成武器的破损，即使第二次哑火也不会引起近代火器的爆炸。</div></div>
+
+== 修复 ==
+<div class="rule-formulas">
+<div class="rule-formula" style="--tc:#4a7c6b"><div class="rf-t">[[工艺]]修复</div><div class="rf-e">DC <b>20</b>，每1点伤害<b>1</b>小时</div></div>
+<div class="rule-formula" style="--tc:#4a6b7c"><div class="rf-t">[[修复术]]</div><div class="rf-e">恢复<b>1d4</b>点HP</div></div>
+<div class="rule-formula" style="--tc:#56607c"><div class="rf-t">[[完全修复术]]</div><div class="rf-e">每CL <b>1d6</b>点（最高5d6）</div></div>
+<div class="rule-formula" style="--tc:#7c4a6b"><div class="rf-t">修复魔法物品</div><div class="rf-e">制造该物品<b>一半</b>的原材料和时间</div></div>
+</div>
+<div class="rule-def"><div class="rd-t">修复破损<small>核心规则书·破损</small></div><div class="rd-b">若该物品为魔法物品，它只能由施法者等级(CL)达到或超过该物品CL的施法者所施放的[[修复术]]或[[完全修复术]]所修复。物品在HP被回复至原先总HP一半或以上后脱离破损状态。非魔法物品能被同样的方法、或用以制造它的[[工艺]]技能来修复。整体而言，如此施为需要通过DC为20的[[工艺]]技能检定，以及每1点伤害1小时的修复时间。多数工匠会为修复这类伤害而收取物品原价的10%作为报酬（若物品损伤严重，可能会要价更高）。</div></div>
+<div class="rule-def"><div class="rd-t">修复物品<small>核心规则书·工艺</small></div><div class="rd-b">你可以用一项工艺技能修复一件物品，修复物品的技能检定DC等于其制造DC。修复物品须花费物品价格的1/5。</div></div>
+<div class="rule-def"><div class="rd-t">修复魔法物品<small>核心规则书·魔法物品</small></div><div class="rd-b">修复魔法物品需要等于制造该物品一半的原材料和时间。[[完全修复术]]法术也可以修理破损的 (甚至是完全损毁的) 魔法物品——如果施法者有足够等级。</div></div>
+<div class="rule-def"><div class="rd-t">[[修复术]]</div><div class="rd-b">该法术能够修复受损的物体，给物体恢复1d4点HP。若物体具有[[破损]]状态，那么在物体的HP至少被恢复至原有HP的一半时，就能将该状态移除。要让该法术起作用，必须提供所有物品的破片。魔法物品也能被该法术修复，但是你的CL必须与该物品的相等或更高才行。被摧毁的魔法物品 (HP为0或更低) 也可以使用该法术修复，但是该法术不会恢复它的魔法能力。</div></div>
+<div class="rule-def"><div class="rd-t">[[完全修复术]]</div><div class="rd-b">完全修复术能够修复被摧毁的魔法物品 (HP为0或更低)，如果你的CL至少达到了该物品的两倍，则可以恢复物品的魔法特性。具有充能 (比如魔杖) 以及一次性物品 (比如药剂和卷轴) 无法以此方式修复。</div></div>
+
+== 神器 ==
+<div class="rule-def"><div class="rd-t">[[魔法物品/神器|神器]]</div><div class="rd-b">与普通魔法物品不同，神器难以被摧毁（而且PC也不可能制造它们）。取代制造需求，每个神器都写出了一种可能摧毁它的方法(但不限于只此一种)。<p>要摧毁高等神器并不简单——它们只能用单一一种具有其特别涵义的方式摧毁，具体的摧毁方式会在其描述中标注。</p></div></div>
+
+== 相关条目 ==
+<div class="wm-chips"><span class="wc-k">规则</span><span>[[破坏物品]]</span><span>[[击破]]</span><span>[[破损]]</span><span>[[硬度]]</span><span>[[特殊材料]]</span><span>[[魔法物品]]</span><span>[[造物规则一览]]</span></div>
+<div class="wm-chips"><span class="wc-k">法术</span><span>[[修复术]]</span><span>[[完全修复术]]</span><span>[[粉碎音波]]</span><span>[[解离术]]</span></div>
+<div class="wm-chips"><span class="wc-k">专长</span><span>[[精通击破]]</span><span>[[高等击破]]</span><span>[[战地维修]]</span></div>
+
+{{AoN原文|125|Breaking and Entering}}
+
+[[分类:规则]]

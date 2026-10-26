@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=幽灵塞鲁奇
 |english_name=Spectral saluqi

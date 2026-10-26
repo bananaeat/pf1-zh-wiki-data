@@ -373,6 +373,8 @@
 {{Source|内海种族|Inner Sea Races|inline}}
 
 == 可选天赋职业奖励 ==
+
+{{AI翻译|nocat=1|本段由 AI 照《进阶职业指南》英文原文译出，未经人工校对。}}人类之所以成为开拓者战役设定中最显赫的种族，是因为只要有利可图，他们就会迅速采用新的做法、填补新的空缺。下列选项适用于天赋职业为所列职业的所有人类。
 ===[[炼金术师]]===
 从炼金术师公式列表中选择一个化合炼成公式加入公式本。此公式必须比角色可以获得的最高环级的公式低一环。{{Source|进阶种族手册|Advanced Race Guide|inline}}
 
@@ -418,7 +420,7 @@
 用于看穿魔法伪装，或是定位隐型生物的[[察觉]]检定+1/2。{{Source|惧怖冒险|Horror Adventures|inline}}
 
 ===[[调查员]]===
-将一个额外公式加入到调查员的公式簿中。这个公式至少要比调查员当前能够使用的最高公式等级低1级。{{Source|进阶职业指南|Advanced Class Guide|inline}}
+从调查员的化合炼成列表中选择一个化合炼成公式，加入调查员的公式簿中。这个公式至少要比调查员当前能够创造的最高公式等级低1级。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 ===[[操念使]]===
 获得1/6个[[额外原力]]专长。{{Source|异能冒险|Occult Adventures|inline}}
@@ -484,7 +486,7 @@
 游荡剑客的时髦值总量增加1/4。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 ===[[战斗祭司]]===
-获得1/6个新的奖励[[战斗专长]]。{{Source|进阶种族手册|Advanced Race Guide|inline}}
+获得1/6个新的奖励[[战斗专长]]。{{Source|进阶职业指南|Advanced Class Guide|inline}}
 
 ===[[侠客]]===
 侠客在[[侠客#无痕伪装 (Seamless Guise, Ex)|无痕伪装]]上获得的[[易容]]技能加值提升+1/2。{{Source|极限诡道|Ultimate Intrigue|inline}}

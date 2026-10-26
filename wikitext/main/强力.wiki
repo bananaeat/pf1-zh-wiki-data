@@ -1,7 +1,9 @@
+{{PFS不可用}}
 {{魔法物品
 |name=强力
 |english_name=Potent
 |cat=武器附魔
+|mythic=是
 |apply=近战、远程
 |bonus=+2 加值
 |aura=强烈变化系

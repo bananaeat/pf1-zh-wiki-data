@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=修复接触|en=Restorative Touch|type=Su|domain=医疗领域|sub=复原子域 (Restoration)|sub_name=复原子域|source=进阶玩家指南|text=你可用一次神力接触来移除下列效果的一个：[[晕眩]]、[[疲乏]]、[[战栗]]、[[恶心]]、[[恍惚]]，每天“3+[[感知]]调整值”次。此能力替换[[医疗领域#制止死亡 (Rebuke Death, Sp)|制止死亡]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

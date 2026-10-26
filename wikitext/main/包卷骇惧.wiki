@@ -2,7 +2,7 @@
 {{Feat
 |name=包卷骇惧
 |english_name=Engulf Horror
-|categories=战斗
+|categories=战斗;怪物
 |pfs=否
 |description=你扼喉攻击那令人作呕的恐怖几乎能让大多数敌人无力行动。
 |prerequisites=[[包卷厌恶]]；包卷或扼喉通用怪物特殊能力。

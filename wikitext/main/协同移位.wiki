@@ -3,7 +3,7 @@
 |english_name=Coordinated Reposition
 |categories=团队
 |pfs=否
-|description=你惯于协调队友的站位，使敌人无处插脚
+|description=你擅长与盟友协调战斗中的站位。
 |prerequisites=快步跟进
 |benefit=每当一个拥有此专长的盟友在威胁着某个你同样威胁的生物时进行5尺快步，你就可以以一个直觉动作移动5尺。这次移动不会引发借机攻击。
 |source=MC

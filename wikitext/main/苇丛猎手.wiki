@@ -1,4 +1,4 @@
 <noinclude>{{德鲁伊导航}}
 </noinclude>{{德鲁伊领域能力|name=苇丛猎手|en=Reed Hunter|type=Ex|domain=沼泽领域|source=极限魔法|text=6级时，你对迷雾、植被和水所引起的[[隐蔽]]和[[掩蔽]]得到30尺[[盲感]]的效果。12级时，此能力提升为30尺[[盲视]]。}}<noinclude>
 
-[[分类:德鲁伊领域]]</noinclude>
+[[分类:德鲁伊领域能力]]</noinclude>

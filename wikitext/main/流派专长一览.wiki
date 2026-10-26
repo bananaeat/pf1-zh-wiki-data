@@ -23,7 +23,7 @@
 
 下面的专长是一种在莫丹特尖塔Mordant Spire[[精灵]]间流行的战斗流派，尤其是武僧之中。
 
-'''[[兽王流]]Beastmaster Style:兽王流 Beastmaster Style；[[兽王援]] Beastmaster Ire，[[兽王怒]] Beastmaster Salvation'''
+'''[[兽王流]]Beastmaster Style:兽王流 Beastmaster Style；[[兽王援]] Beastmaster Salvation，[[兽王怒]] Beastmaster Ire'''
 
 在这种流派中，你可以更好地控制你的非坐骑[[动物伙伴]]。
 
@@ -39,7 +39,7 @@
 
 这种野蛮的徒手战斗流派最初由一群厌恶使用人造武器的[[半兽人]]发展开来。他们更愿意用自己的爪牙屠杀敌人。几个世纪以来，许多种族都学会并使用豭突流，其中最常见的是[[地精]]、[[食人魔]]和巨魔。豭突流的目的是以更残忍可怖的方式进行攻击，以威慑击破敌人的士气。这种流派的狂热追捧者使用草药和炼金药剂使他们的爪牙更加坚韧，有时还会进行残酷的手术，以获得[[锐爪]]般的指甲和锋利的牙齿。
 
-'''残暴流 Brute Style:残暴流 Brute Style；残暴踏 Brute Assault，残暴袭 Brute Stomp'''
+'''残暴流 Brute Style:残暴流 Brute Style；残暴踏 Brute Stomp，残暴袭 Brute Assault'''
 
 这种流派的追随者模仿着那些极具毁灭性和压倒性的力量的凶残生物。这种强力的流派专精于击倒对手，然后通过沉重的践踏将他们碾碎。
 
@@ -69,23 +69,23 @@ Crane style focuses on defense and agile counterattacks. Practitioners are known
 
 Crashing Wave Style: Crashing Wave Style; Crashing Wave Buffet, Crashing Wave Fist
 
-Someone skilled in this style jostles and pulls her opponents about, inspired by the power of ocean waves churning upon the shore.
+擅长此流派者会推搡、拉扯对手，灵感来自海浪拍击海岸的力量。<!--AI补译-->
 
 Cudgeler Style: Cudgeler Style; Cudgeler Sweep, Cudgeler Takedown
 
 This style focuses on dealing only nonlethal damage to incapacitate opponents. Variants are practiced worldwide by bounty hunters, prison guards, and others who aim to subdue rather than kill their quarry.
 
-Deadhand Style: Deadhand Style; Deadhand Initiate, Deadhand Master
+'''死手流Deadhand Style:[[死手流]] Deadhand Style；[[死手汲能]] Deadhand Initiate，[[死手宗师]] Deadhand Master'''
 
-Adherents to this style call to the restless and malevolent spirits of the dead to sow fear and bolster their own courage. Masters of this style learn to drain the life essence of their enemies, reducing them to desiccated husks.
+此流派的信奉者召唤不安分的恶灵来散播恐惧并增强自身勇气。此道中的大师习得如何汲取敌人的生命精华，将其化为干枯的躯壳。
 
-Demonic Style: Demonic Style; Demonic Momentum, Demonic Slaughter
+'''恶魔流Demonic Style:[[恶魔之型]] Demonic Style；[[恶魔冲击]] Demonic Momentum，[[恶魔屠戮]] Demonic Slaughter'''
 
-You enhance your attacks and deal greater damage when you charge or bull rush foes.
+你在冲锋或冲撞敌人时强化攻击并造成更大伤害。
 
-Diabolic Style: Diabolic Style; Diabolic Humiliation, Diabolic Judgement
+'''魔鬼流Diabolic Style:[[魔鬼之型]] Diabolic Style；[[魔鬼凌辱]] Diabolic Humiliation，[[魔鬼决裁]] Diabolic Judgement'''
 
-You take every opportunity in battle to humiliate those foes who dare stand up to you.
+你抓住一切机会在战斗中羞辱那些胆敢对抗你的敌人。
 
 Diva Style: Diva Style; Diva Advance, Diva Strike
 
@@ -131,9 +131,9 @@ Empty Quiver Style: Empty Quiver Style; Empty Quiver Flexibility, Empty Quiver F
 
 Although this style was developed by the elven wardens of the Tanglebriar as a means for archers to protect themselves from demonic ambushes, it has since become popular with Mendevian crusaders, who employ it against the denizens of the Worldwound.
 
-Fox Style: Fox Style; Fox Insight, Fox Trickery
+'''狡狐流Fox Style:[[狡狐式]] Fox Style；[[狡狐之智]] Fox Insight，[[狡狐之策]] Fox Trickery'''
 
-This crafty style improves its practitioners' chances to feint and to avoid sneaky tactics employed by their foes, and also expands their ability to deploy other devious and dirty tricks.
+这一狡猾的流派提高了习练者虚招和躲避敌人诡计的能力，同时也增强了他们施展其他狡诈和肮脏把戏的能力。
 
 Grabbing Style: Grabbing Style; Grabbing Drag, Grabbing Master
 
@@ -145,7 +145,7 @@ The chaotic, somewhat random design of your racial weapons makes it easy to comb
 
 Indomitable Mountain Style: Indomitable Mountain Style; Indomitable Mountain Avalanche, Indomitable Mountain Peak
 
-A practitioner of this style stands like a mighty mountain, difficult to move and punishing those who try.
+此流派的修习者如巍峨高山般屹立，难以撼动，并惩罚试图撼动他的人。<!--AI补译-->
 
 Jabbing Style: Jabbing Style; Jabbing Dancer, Jabbing Master
 
@@ -171,9 +171,9 @@ Kraken Style: Kraken Style; Kraken Throttle, Kraken Wrack
 
 This grappling style mimics the powerful crushing blows of the many-tentacled kraken. This style focuses on pulverizing holds around a creature's chest, limbs, and throat.
 
-Kyton Style: Kyton Style; Kyton Cut, Kyton Shield
+'''链魔流Kyton Style:[[链魔流]] Kyton Style；[[链魔盾]] Kyton Shield，[[链魔割]] Kyton Cut'''
 
-Adherents to this style model themselves after kytons, and focus pain (and its inherent pleasures) into a strict, orderly discipline through which to channel their ki. They use a spiked chain as an instrument of control and defense.
+此流派的信奉者以链魔为榜样，将痛苦（及其固有的愉悦）融入严格有序的纪律中，以此引导他们的气。他们使用刺链作为控制和防御的工具。
 
 Lantern Style: Lantern Style; Lantern Glare, Lantern Light
 
@@ -187,9 +187,9 @@ Linnorm Style: Linnorm Style; Linnorm Vengeance, Linnorm Wrath
 
 Your open stance invites opponents to attack you, and like a linnorm's death curse, your retributive strikes punish those foolish enough to accept the invitation.
 
-Maddening Style: Maddening Style; Maddening Obliteration, Maddening Strike
+'''狂乱流Maddening Style:[[狂乱流]] Maddening Style；[[狂乱打击]] Maddening Strike，[[绝望湮灭]] Maddening Obliteration'''
 
-Adherents to this style channel the sanity-consuming power of the incomprehensible beings that dwell in the dark places between stars, and use these forces to defend against mental attacks and corrupt their opponents' bodies and minds.
+此流派的信奉者引导群星之间黑暗之地的不可名状存在的吞噬心智之力，用以防御精神攻击并腐蚀对手的身心。
 
 Mantis Style: Mantis Style; Mantis Torment, Mantis Wisdom
 
@@ -223,9 +223,9 @@ Overwatch Style: Overwatch Style; Overwatch Tactician, Overwatch Vortex
 
 To rain dozens of arrows down on Molthuni squadrons, the Chernasardo Rangers of the Fangwood cultivated the cunning overwatch style.
 
-Owl Style: Owl Style; Owl Dive, Owl Swoop
+'''枭冲式Owl Style:[[枭冲式]] Owl Style；[[枭穿式]] Owl Dive，[[枭落式]] Owl Swoop'''
 
-This style takes advantage of basic training in skills that affect movement to enhance those skills through combat ability.
+此流派利用影响移动的基础技能训练，通过战斗能力来增强这些技能。
 
 Panther Style: Panther Style; Panther Claw, Panther Parry
 
@@ -315,9 +315,9 @@ Stock-Striker Style: Stock-Striker Style; Stock-Striker Sweep, Stock-Striker Tak
 
 Your fighting technique makes you equally deadly with your firearm's stock as with its bullets. The force of your firearm strikes can drive back your foe or damage a second target and your melee strike leaves your target vulnerable to a merciless finishing shot.
 
-Street Style: Street Style; Street Carnage, Street Sweep
+'''街霸流Street Style:[[街霸流]] Street Style；[[街霸残虐击]] Street Carnage，[[街角霸王拳]] Street Sweep'''
 
-A practitioner of this creative unarmed combat style takes advantage of urban environments to bash foes against brick walls, drag them over rough cobblestones, and impale them on fence posts and other sharp-edged objects.
+此创意徒手格斗流派的习练者利用城市环境，将敌人撞向砖墙、拖过粗糙的鹅卵石，并将其刺穿栅栏和尖锐物体。
 
 Swift Iron Style: Swift Iron Style; Swift Refuge, Swift Sprint
 
@@ -353,7 +353,7 @@ You can combine multiple fighting styles together.
 
 Wolf Style: Wolf Style; Wolf Savage, Wolf Trip
 
-This style mimics the harrying tactics that wolves use when they hunt: slowing, tripping, and then savaging a foe.
+此流派模仿狼群狩猎时的袭扰战术：迟滞、绊倒，然后撕咬敌人。<!--AI补译-->
 
 Wyvern Fury Style: Wyvern Fury Style; Wyvern Sting, Wyvern Wing
 

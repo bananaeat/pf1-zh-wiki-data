@@ -1,3 +1,4 @@
+{{PFS特殊|1=信仰治疗（Faith Healer）[[背景特性]]可以用于进行日常工作检定。}}
 {{Trait
 |name=行医人
 |english_name=Faith Healer

@@ -1,4 +1,5 @@
 {{AI翻译|本页由 AI 照 AoN 英文原文译出（Inner Sea Intrigue pg. 39），CHM 汉化里没有这个变体的译文，未经人工校对。}}
+{{PFS特殊|1=Galtan Agitator在12级时获得“说服者”专长，而非原本的[[领导力]]。}}
 {{Source|内海诡道|Inner Sea Intrigue}}
 
 '''迦尔特煽动者'''（Galtan Agitator）是[[盗贼]]的[[变体职业]]。[[掉链盗贼]]也可以使用本变体。

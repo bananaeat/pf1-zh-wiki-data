@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=疯狂焦点|en=Insane Focus|type=Su|domain=狂乱领域|sub=疯狂子域 (Insanity)|sub_name=疯狂子域|source=进阶玩家指南|text=你以[[标准动作]]给自愿生物对抗心智效果的豁免+4加值，并且免疫[[困惑]]，持续1分钟。若生物仍在对抗心智效果的豁免中失败，则马上失去对[[困惑]]的免疫，然后[[困惑]]一轮。每天“3+[[感知]]调整值”次。此能力替换[[狂乱领域#狂乱感知 (Vision of Madness, Sp)|狂乱感知]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

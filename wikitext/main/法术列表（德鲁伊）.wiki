@@ -57,7 +57,7 @@
 |-
 | ACG || 蜈蚣长鞭（Whip of Centipedes） ||  || 
 |-
-| 6级法术 || CRB || 防活物护罩（Antilife Shell） 群体熊之坚韧（Bear's Endurance, Mass） 群体牛之力量（Bull's Strength, Mass） 群体猫之优雅（Cat's Grace, Mass） 群体治疗轻伤（Cure Light Wounds, Mass） 高等解除魔法（Dispel Magic, Greater） 寻找捷径（Find the Path） 火种术（Fire Seeds） 金刚木（Ironwood） || 橡树守卫（Liveoak） 移土术（Move Earth） 群体枭之睿智（Owl's wisdom, mass） 驱离木材（Repel Wood） 储法杖（Spellstaff） 石言术（Stone Tell） 六级自然盟友召唤术（Summon Nature's Ally VI） 木遁术（Transport via Plants） 石墙术（Wall of Stone）
+| 6级法术 || CRB || 防活物护罩（Antilife Shell） 群体熊之坚韧（Bear's Endurance, Mass） 群体牛之力量（Bull's Strength, Mass） 群体猫之优雅（Cat's Grace, Mass） 群体治疗轻伤（Cure Light Wounds, Mass） 高等解除魔法（Dispel Magic, Greater） 寻找捷径（Find the Path） 火种术（Fire Seeds） 金刚木（Ironwood） || 橡树守卫（Liveoak） 地动术（Move Earth） 群体枭之睿智（Owl's wisdom, mass） 驱离木材（Repel Wood） 储法杖（Spellstaff） 石言术（Stone Tell） 六级自然盟友召唤术（Summon Nature's Ally VI） 木遁术（Transport via Plants） 石墙术（Wall of Stone）
 |-
 | APG || 燃烧之风（Sirocco） || 血肉虫群（Swarm Skin） || 
 |-

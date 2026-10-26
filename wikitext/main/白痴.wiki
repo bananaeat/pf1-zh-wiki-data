@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{物品
 |name=白痴
 |english_name=The Idiot

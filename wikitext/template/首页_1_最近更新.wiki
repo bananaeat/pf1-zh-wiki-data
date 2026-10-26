@@ -1,8 +1,8 @@
 <ul>
-<li><span class="mpa-date">10-12</span><span>新速查：[[超魔专长速查|超魔专长]]（带升环）</span></li>
-<li><span class="mpa-date">10-12</span><span>[[魔宠速查|魔宠]]、[[动物伙伴速查|伙伴]]等速查单独成页</span></li>
-<li><span class="mpa-date">10-11</span><span>AoN 的[[专长速查|专长]]全部有了中文</span></li>
-<li><span class="mpa-date">10-11</span><span>新速查：[[幻灵进化速查|幻灵进化]]、[[魔宠速查|魔宠]]</span></li>
+<li><span class="mpa-date">10-25</span><span>[[车卡器]]能力可自定义，补魂域巫术</span></li>
+<li><span class="mpa-date">10-23</span><span>野兽／海洋血脉叙述上站</span></li>
+<li><span class="mpa-date">10-22</span><span>两书地名改用 pf2 译名</span></li>
+<li><span class="mpa-date">10-21</span><span>跟进 CHM v3.0.2 新译名</span></li>
 </ul><noinclude>
 [[首页]]右栏的「最近更新」。一行一条、最新的在上面，留四条（右栏下面还有「待办」，再多左边的抽屉就空了）、每条别超过一行（十五六个字）；照抄上面一行 <code>&lt;li&gt;</code> 的写法改日期和内容。
 [[分类:模板]]

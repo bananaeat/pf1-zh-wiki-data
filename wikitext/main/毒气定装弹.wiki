@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=毒气定装弹
 |english_name=Alchemical cartridge (toxin)

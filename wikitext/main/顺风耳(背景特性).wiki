@@ -1,6 +1,7 @@
 {{Trait
 |name=顺风耳
 |english_name=Wiscrani Ear
+|pfs=否
 |type=社会
 |description=你的双耳对盗贼和怪物的动静十分敏锐。你总能在察觉检定中取10,即便通常状况下你会因为压力或分心而无法这么做。
 |source_name=市井英雄

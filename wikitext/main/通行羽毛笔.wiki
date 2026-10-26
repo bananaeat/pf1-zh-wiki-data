@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=通行羽毛笔
 |english_name=Quill of Passage

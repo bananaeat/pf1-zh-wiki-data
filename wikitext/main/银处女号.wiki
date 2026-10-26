@@ -1,8 +1,10 @@
+{{PFS不可用}}
 {{魔法物品
 |name=银处女号
 |english_name=Silver Maiden
 |aon=MagicArtifactsDisplay.aspx?ItemName=Silver Maiden
 |cat=神器
+|mythic=是
 |tier=高等神器
 |aura=极强防护系、变化系
 |cl=30

@@ -1,3 +1,4 @@
+<noinclude>{{消歧义|诅咒之音(怪物)}}</noinclude>
 {{仪式
 |name=诅咒之音
 |english_name=Voice of the Damned

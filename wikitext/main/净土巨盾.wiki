@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=净土巨盾
 |english_name=Elysian Shield

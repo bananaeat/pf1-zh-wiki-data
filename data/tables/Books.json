@@ -4401,7 +4401,7 @@
 },
 {
 "kind": "book",
-"name": "玉凤武道会",
+"name": "赤凰武道会",
 "en": "The Ruby Phoenix Tournament",
 "abbr": "",
 "line": "模组",
@@ -5851,6 +5851,26 @@
 },
 {
 "kind": "book",
+"name": "内海世界指南、冒险之路17：黑暗的记忆",
+"en": "",
+"abbr": "",
+"line": "",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "冒险之路69：少女",
+"en": "",
+"abbr": "",
+"line": "冒险之路",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
 "name": "冒险家手册",
 "en": "Dungeoneer's Handbook",
 "abbr": "",
@@ -5931,11 +5951,21 @@
 },
 {
 "kind": "book",
-"name": "木乃伊面具",
-"en": "Pathfinder #81: Shifting Sands",
+"name": "极限荒野、动物档案",
+"en": "",
 "abbr": "",
-"line": "冒险之路",
-"date": "2014-05-28",
+"line": "",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "极限荒野、魔宠手记、怪物图鉴5",
+"en": "",
+"abbr": "",
+"line": "",
+"date": "",
 "zh": true,
 "untr": 0
 },
@@ -5955,6 +5985,16 @@
 "en": "",
 "abbr": "",
 "line": "冒险之路",
+"date": "",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "母亲",
+"en": "",
+"abbr": "",
+"line": "",
 "date": "",
 "zh": true,
 "untr": 0
@@ -6026,6 +6066,16 @@
 "abbr": "",
 "line": "玩家伴侣",
 "date": "2013-04-16",
+"zh": true,
+"untr": 0
+},
+{
+"kind": "book",
+"name": "老妪",
+"en": "",
+"abbr": "",
+"line": "",
+"date": "",
 "zh": true,
 "untr": 0
 },

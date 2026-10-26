@@ -4,6 +4,6 @@
 |description=你将狩猎异怪的知识融入魔法之中，使其难以抵抗你的魔法。
 |prerequisites=施法者等级4级，[[半鱼人]]，[[宿敌]]（异怪）职业特性
 |benefit=你能够将宿敌（异怪）加值的一半加到你对异怪施展的所有法术的豁免DC上，以及用于克服异怪[[特殊能力#法术抗力|法术抗力]]的施法者等级检定上。
-|source_name=海洋之血
+|source_name=海洋血脉
 |source_url=https://pf1chm.pages.dev/topics/zh7e409f67e0.htm
 }}

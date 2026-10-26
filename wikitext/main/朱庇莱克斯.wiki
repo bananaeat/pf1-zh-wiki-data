@@ -12,7 +12,7 @@
 |symbol_label=邪徽
 |color=绿色，红色
 |temples=山洞，垃圾场，污水管道
-|worshipers=寻求其它位面力量的荒疫怪（blights，B6），吸毒者，投毒者，怠惰之人
+|worshipers=寻求其它位面力量的荒疫怪（blights，B6），[[卓尔]]，吸毒者，投毒者，怠惰之人
 |minions=[[恶魔，泥魔|泥魔]]（omox demon，B2），泥怪
 |pantheon=恶魔领主
 |source=内海诸神、永罪之书第二卷：混沌领主

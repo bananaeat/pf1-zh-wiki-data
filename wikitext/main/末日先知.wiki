@@ -1,5 +1,4 @@
 {{速查导航}}
-{{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
 {{怪物
 |name=末日先知
 |english_name=Doom Prophet
@@ -12,17 +11,17 @@
 |subtypes=人类;兽人
 |init=+0
 |senses=黑暗视觉60尺；察觉+2
-|ac=13，接触 10，措手不及 13（+3盔甲）
+|ac=13，接触 10，措手不及 13（+3护甲）
 |hp=30（4d6+16）
 |fort=+3
 |ref=+1
 |will=+6
 |defensive=兽人凶猛
 |speed=30尺
-|melee=精制重型硬头锤 +7（1d8+4）
-|ranged=精制投石索 +3（1d4+4）
+|melee=精制品重型硬头锤 +7（1d8+4）
+|ranged=精制品投石索 +3（1d4+4）
 |spells=已准备导师法术（施法者等级4，专注+6）；2级—[[黑暗术]]；1级—[[燃烧之手]]（DC 13），[[惊恐术]]（DC 13），[[命令术]]（DC 13）；0级（随意）—[[侦测魔法]]，[[神导术]]，[[阅读魔法]]
-|tactics=<div class="ml wide"><span class="k">战斗前</span>导师念诵熊之坚韧卷轴和牛之力量卷轴。</div><div class="ml wide"><span class="k">战斗中</span>导师对自己的硬头锤施展黑暗术，然后施展灼热射线或燃烧之手。</div><div class="ml wide"><span class="k">基础数据</span>没有熊之坚韧和牛之力量时，导师的数据为：hp 22；强韧+1；近战 精制重型硬头锤 +5（1d8+2）；远程 精制投石索 +3（1d4+2）；力量 14，体质 11；CMB +4；CMD 14。</div>
+|tactics=<div class="ml wide"><span class="k">战斗前</span>导师使用他的熊之坚韧卷轴与牛之力量卷轴。</div><div class="ml wide"><span class="k">战斗中</span>导师对他的硬头锤施放黑暗术，接着施放灼热射线或燃烧之手。</div><div class="ml wide"><span class="k">基础数据</span>未受熊之坚韧与牛之力量影响时，导师的数值为：hp 22；强韧+1；近战 精制品重型硬头锤 +5（1d8+2）；远程 精制品投石索 +3（1d4+2）；力量 14，体质 11；CMB +4；CMD 14。</div>
 |str=18
 |dex=10
 |con=15
@@ -37,12 +36,14 @@
 |languages=通用语;兽人语
 |sq=兽人血脉;召唤魔宠（蝙蝠）;武器熟悉
 |combat_gear=熊之坚韧卷轴;牛之力量卷轴;治疗轻伤卷轴;灼热射线卷轴（3）;炽火胶（2）
-|gear=精制镶嵌皮甲;精制重型硬头锤;精制投石索与10颗弹丸;银质邪徽;法术材料包;118gp
+|gear=精制品镶嵌皮甲;精制品重型硬头锤;精制品投石索和10发弹丸;银质邪徽;法术材料包;118gp
 |source=NPC志
 |family=NPC职业（NPC志）
 |npc=1
 |lore=
-末日先知向每一个愿意听的人宣讲他的凶兆。
+末日先知向任何肯听的人宣讲他那些可怕的凶兆。
 }}
 
+
+本页译自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=130024.msg1460422#msg1460422 【NPCC】NPC职业：导师（Adept）]（原译者：dr.fate；沉沦校对润饰）。
 {{AoN原文|1=NPCDisplay.aspx?ItemName=Doom Prophet|2=Doom Prophet}}

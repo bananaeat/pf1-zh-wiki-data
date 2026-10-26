@@ -1,9 +1,9 @@
 {{AI翻译|本页由 AI 照 AoN 英文原文译出（Bastards of Golarion pg. 29），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{PFS特殊|1=仅当你的角色所属族群与该特性所在章节的族群相同时才可用。|ai=1}}
 {{Trait
 |name=诱惑者之舌
 |english_name=Tempter's Tongue
 |type=种族
-|pfs=否
 |prerequisites=魔裔
 |description=狡诈、善于讨价还价的魔族之血在你的血管中流淌，你也有促成交易的天赋。你的[[交涉]]检定，以及为影响被你魅惑的生物（例如通过[[魅惑人类]]）而进行的对抗魅力检定，获得+1背景加值。
 |source_name=格拉利昂的混种

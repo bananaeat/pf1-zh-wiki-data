@@ -1,6 +1,7 @@
 {{Trait
 |name=道德领袖
 |english_name=Ethical Leader
+|pfs=否
 |type=种族
 |prerequisites=[[神裔]]
 |description=你会吸引那些赞同你对生命的哲学观念的人成为追随者。由于相信你那坚定的道德观念，你的追随者与部属更愿意侍奉你。如果你的所有部属和追随者与你的阵营差距都在1级之内，那么你的[[领导力]]值获得+1背景加值。

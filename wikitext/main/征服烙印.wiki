@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=征服烙印
 |english_name=Conquering Brand

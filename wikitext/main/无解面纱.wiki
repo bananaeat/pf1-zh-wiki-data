@@ -4,7 +4,7 @@
 |school=防护系
 |levels=催眠师 6;吟游诗人 6;唤魂师 6;歌者 6;奥能师 9;异能者 9;术士 9;法师 9
 |action=标准动作
-|components=语言;姿势;材料（价值1250gp的来自幻梦境的尘土）
+|components=语言;姿势;材料（价值1250gp的来自梦境维度的尘土）
 |range=接触
 |target=被接触的生物
 |duration=10分钟/等级

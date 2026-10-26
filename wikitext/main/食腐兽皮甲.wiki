@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=食腐兽皮甲
 |english_name=Otyugh Hide

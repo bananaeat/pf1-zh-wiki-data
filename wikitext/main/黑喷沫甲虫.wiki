@@ -1,7 +1,7 @@
 {{速查导航}}
 {{怪物
 |name=黑喷沫甲虫
-|english_name=Beetles
+|english_name=Dark Spitter Beetle
 |cr=3
 |xp=800
 |alignment=绝对中立
@@ -37,7 +37,7 @@
 |source=怪物志
 |family=灰矮人（怪物志）
 |lore=
-喷沫甲虫是[[灰矮人(怪物)|灰矮人]]骑手的常见坐骑生物。
+喷沫甲虫被[[灰矮人(怪物)|灰矮人]]探险者用作坐骑。
 }}
 
 本页译自《[[怪物志]]》的怪物图鉴 CHM。

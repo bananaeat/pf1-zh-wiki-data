@@ -1,4 +1,5 @@
 {{AI翻译|本页正文由 AI 照 AoN 英文原文译出（民间汉化里没有这一条），未经人工校对。}}
+{{PFS不可用}}
 {{魔法物品
 |name=位面马车
 |english_name=Planar Carriage

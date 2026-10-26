@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=盾勋执法官之守护
 |english_name=Shieldmarshal's Ward

@@ -1,0 +1,7 @@
+<div class="class-nav book-nav"><span class="pill">'''[[切利亚斯，地狱帝国]]'''</span><span class="pill {{#ifeq:{{{章|}}}|切利亚斯的生活|on}}">[[切利亚斯，地狱帝国/切利亚斯的生活|切利亚斯的生活]]</span><span class="pill {{#ifeq:{{{章|}}}|地志|on}}">[[切利亚斯，地狱帝国/地志|地志]]</span><span class="pill {{#ifeq:{{{章|}}}|切利亚斯的冒险|on}}">[[切利亚斯，地狱帝国/切利亚斯的冒险|切利亚斯的冒险]]</span><span class="pill {{#ifeq:{{{章|}}}|怪物图鉴|on}}">[[切利亚斯，地狱帝国/怪物图鉴|怪物图鉴]]</span></div>{{#switch:{{{章|}}}
+|地志=<div class="class-nav book-sub"><span class="pill">[[切利亚斯，地狱帝国/地志|概述]]</span><span class="pill">[[切利亚斯，地狱帝国/地志/阿西萨齐—阴沉海岸|阿西萨齐—阴沉海岸]]</span><span class="pill">[[切利亚斯，地狱帝国/地志/东里肯—莱卡斯特尔|东里肯—莱卡斯特尔]]</span><span class="pill">[[切利亚斯，地狱帝国/地志/悲鸣湖—瑞瓦诺森林|悲鸣湖—瑞瓦诺森林]]</span><span class="pill">[[切利亚斯，地狱帝国/地志/瑞麦西纳—狼牙岛|瑞麦西纳—狼牙岛]]</span></div>
+|切利亚斯的冒险=<div class="class-nav book-sub"><span class="pill">[[切利亚斯，地狱帝国/切利亚斯的冒险|概述]]</span><span class="pill">[[切利亚斯，地狱帝国/切利亚斯的冒险/奥罗登拱桥—邓格废墟|奥罗登拱桥—邓格废墟]]</span><span class="pill">[[切利亚斯，地狱帝国/切利亚斯的冒险/纳罗纳废墟—瑟瑞安|纳罗纳废墟—瑟瑞安]]</span></div>
+}}<noinclude>
+《[[切利亚斯，地狱帝国]]》各章页顶上的导航：第一排各章（当前章标实心），第二排本章分页（当前页标实心）。用法 <code><nowiki>{{切利亚斯，地狱帝国/导航|章=地志}}</nowiki></code>。由 <code>build/cs_push/split.py</code> 生成。
+[[分类:导航模板]]
+</noinclude>

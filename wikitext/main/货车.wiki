@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{装备
 |name=货车
 |english_name=Wagon (heavy)

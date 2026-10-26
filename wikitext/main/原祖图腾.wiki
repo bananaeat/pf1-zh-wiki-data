@@ -3,7 +3,7 @@
 |english_name=Atavism Totem
 |type=Su
 |categories=图腾
-|prerequisites=[[野蛮人]]6级，[[次等原祖图腾]]
+|prerequisites=[[野蛮人]]6级
 |benefit=野蛮人获得凶猛(Ferocity)[[特殊能力]]。
 |source_name=恶棍志
 }}

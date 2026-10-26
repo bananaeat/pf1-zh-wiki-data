@@ -1,0 +1,4 @@
+<div class="class-nav book-nav"><span class="pill">'''[[野兽血脉]]'''</span><span class="pill">[[野兽血脉/导言|导言]]</span><span class="pill">[[野兽血脉/猫人族|猫人族]]</span><span class="pill">[[野兽血脉/树蛙人|树蛙人]]</span><span class="pill">[[野兽血脉/狐妖|狐妖]]</span><span class="pill">[[野兽血脉/娜迦裔|娜迦裔]]</span><span class="pill">[[野兽血脉/鼠族|鼠族]]</span><span class="pill">[[野兽血脉/天狗|天狗]]</span><span class="pill">[[野兽血脉/灵猴族|灵猴族]]</span></div><noinclude>
+《[[野兽血脉]]》章页顶上的导航（当前章标实心）。由 <code>build/bb_push/push.py</code> 生成。
+[[分类:导航模板]]
+</noinclude>

@@ -1,3 +1,4 @@
+{{PFS特殊|1=秘法卫（Arcane Warden）可以选取“说服者”作为奖励专长，取代原先的“领导力”。}}
 {{Source|古国血脉|Blood of the Ancients}}
 
 '''秘法卫'''（Arcane Warden）是[[法师]]的[[变体职业]]。

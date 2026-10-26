@@ -211,7 +211,7 @@
 |-
 | Adroit retrieval || [[心灵手巧]] || 法术
 |-
-| Advanced mythic owlbear || [[神话原初枭熊|进化神话枭熊]] || 其他
+| Advanced mythic owlbear || [[原初枭熊]] || 其他
 |-
 | Advanced Ranger Trap || [[进阶游侠陷阱]] || 专长
 |-
@@ -3631,7 +3631,7 @@
 |-
 | Cecaelia || [[赛卡利亚(怪物)|赛卡利亚]] || 其他
 |-
-| Cecaelia Focus Tattoo || [[塞卡利亚专注纹]] || 专长
+| Cecaelia Focus Tattoo || [[赛卡利亚专注纹]] || 专长
 |-
 | Celedon || [[圣像]] || 其他
 |-

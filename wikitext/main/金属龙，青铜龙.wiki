@@ -145,10 +145,7 @@
 
 === 基值数据 ===
 
-* CR 5；体型 小型；HD 6d12
-* 速度 40 尺，游泳 60 尺
-* 天生护甲 +5；喷吐武器 线形，2d6 闪电
-* 力量 13，敏捷 14，体质 13，智力 14，感知 15，魅力 14
+{{数据块|内容1='''CR''' 5；'''体型''' 小型；'''HD''' 6d12；'''速度''' 40 尺，游泳 60 尺；'''天生护甲''' +5；'''喷吐武器''' 线形，2d6 闪电；力量 13，敏捷 14，体质 13，智力 14，感知 15，魅力 14}}
 
 <div class="monster-table-wrap"><table class="wikitable"><tr><th>年龄层</th><th>特殊能力</th><th>施法者等级</th></tr><tr><td>雏龙 Wyrmling</td><td>电系免疫，排斥喷吐，水中呼吸</td><td>–</td></tr><tr><td>幼龙 Very young</td><td>动物交谈</td><td>–</td></tr><tr><td>少年 Young</td><td>变化形态</td><td>1 级</td></tr><tr><td>青少年 Juvenile</td><td>水流掌握，[[造粮术]]</td><td>3 级</td></tr><tr><td>青年 Young adult</td><td>DR 5/魔法，法术抗力</td><td>5 级</td></tr><tr><td>成年 Adult</td><td>凶威，[[云雾术]]</td><td>7 级</td></tr><tr><td>壮年 Mature adult</td><td>DR 10/魔法</td><td>9 级</td></tr><tr><td>老年 Old</td><td>闪电灵氲，侦测思想</td><td>11 级</td></tr><tr><td>极老 Very old</td><td>DR 15/魔法</td><td>13 级</td></tr><tr><td>古龙 Ancient</td><td>漩涡，操纵水位</td><td>15 级</td></tr><tr><td>上古龙 Wyrm</td><td>DR 20/魔法</td><td>17 级</td></tr><tr><td>太古龙 Great wyrm</td><td>浪涛，操控天气</td><td>19 级</td></tr></table></div>
 }}

@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=破城弩炮
 |english_name=Ballista, gate breaker

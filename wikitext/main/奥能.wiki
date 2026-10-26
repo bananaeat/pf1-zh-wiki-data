@@ -43,8 +43,8 @@
 == 疼痛滞留 (Lingering Pain, Su) ==
 {{:疼痛滞留}}
 
-== 战技精通 (Maneuver Mastery, Ex) ==
-{{:战技精通}}
+== 战技熟稔 (Maneuver Mastery, Ex) ==
+{{:战技熟稔(魔战士奥能)}}
 
 == 天生法术战斗 (Natural Spell Combat, Ex) ==
 {{:天生法术战斗}}

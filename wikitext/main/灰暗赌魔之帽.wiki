@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=灰暗赌魔之帽
 |english_name=Gray Gambler's Hat

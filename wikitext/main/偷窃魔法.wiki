@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=偷窃魔法
 |english_name=Spellsteal

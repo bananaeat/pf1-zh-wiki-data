@@ -6,7 +6,7 @@
 |cr=10
 |xp=9,600
 |alignment=中立邪恶
-|size=巨型
+|size=超大型
 |type=异怪
 |subtypes=蜂巢
 |init=+8

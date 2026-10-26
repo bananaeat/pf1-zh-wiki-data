@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=万象无常哈罗牌
 |english_name=Harrow Deck of Many Things

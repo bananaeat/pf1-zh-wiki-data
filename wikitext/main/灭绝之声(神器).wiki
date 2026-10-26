@@ -1,4 +1,5 @@
 {{消歧义|灭绝之声}}
+{{PFS不可用}}
 {{魔法物品
 |name=灭绝之声（八音盒）
 |english_name=Song of Extinction (Music Box)

@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{魔法物品
 |name=乌木波列舞外套
 |english_name=Ebony Bolero

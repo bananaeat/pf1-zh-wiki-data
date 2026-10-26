@@ -17,10 +17,10 @@
 |ref=+5
 |will=+4
 |speed=30尺
-|melee=徒手攻击+3(1d6+1)或单镰+3(1d6+1)或徒手疾风连击+2/+2(1d6+1)
+|melee=徒手打击+3(1d6+1)或单镰+3(1d6+1)或徒手打击疾风连击+2/+2(1d6+1)
 |ranged=轻弩+3(1d8/19-20)或手里剑+3(1d2+1)或手里剑疾风连击+2/+2(1d2+1)
-|special_attacks=疾风连击，震慑击(1/日，DC12)
-|tactics=<div class="ml wide"><span class="k">战斗前</span>武僧使用潜行来使敌人措手不及，并在突袭轮使用震慑击</div><div class="ml wide"><span class="k">战斗中</span>如果可能的话武僧不会和复数敌人战斗，并且在进入近战之前更喜欢用手里剑疾风连击</div>
+|special_attacks=疾风连击，震慑拳(1/日，DC12)
+|tactics=<div class="ml wide"><span class="k">战斗前</span>武僧会利用隐匿让敌人措手不及，并在突袭轮一开始就施展震慑拳</div><div class="ml wide"><span class="k">战斗中</span>只要能避免，武僧绝不同时与多名敌人交战；在进入近战之前，她偏好先用手里剑施展疾风连击</div>
 |str=12
 |dex=16
 |con=10
@@ -30,16 +30,16 @@
 |bab=+0
 |cmb=+1
 |cmd=17
-|feats=[[战斗反射]] 闪避 精通徒手打击 震慑击 武器娴熟
+|feats=[[战斗反射]] 闪避 精通徒手打击 震慑拳 武器娴熟
 |skills=[[特技]]+7 [[知识]]（历史、宗教）+5 察觉+6 察言观色+6 隐匿+7
 |languages=通用语 矮人语
 |combat_gear=治疗轻伤药水 x2 法师护甲药水 x2 魔化武器药水 x2
-|gear=单镰 轻弩与10枝弩矢 手里剑 x20 50gp
+|gear=单镰 轻弩与10支弩矢 手里剑 x20 50gp
 |source=NPC志
 |family=核心职业（NPC志）
 |npc=1
 |lore=
-新手武僧往往急于在战斗中证明自己的勇气，但严格的训练也使他们在失去师父指引时倾向于谨慎行事。
+初入门的武僧往往急于在战斗中证明自己的能耐；但同样常见的是，严格的训练让他们一旦失去师父的指导，行事便畏首畏尾。
 }}
 
-本页译自《[[NPC志]]》的怪物图鉴 CHM。
+本页译自《[[NPC志]]》的怪物图鉴 CHM（原译文出自纯美苹果园论坛[https://www.goddessfantasy.net/bbs/index.php?topic=61535.msg572775#msg572775 【NPCC】核心职业：武僧（Monk）]，原译者：月夜白雨；沉沦校对润饰）。

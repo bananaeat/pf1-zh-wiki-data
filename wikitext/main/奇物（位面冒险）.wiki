@@ -1,0 +1,61 @@
+{{#addbodyclass:pf-rules}}{{速查导航|here=规则}}
+奇物在性质上是多种多样的。一些必须穿戴到某个特定的魔法物品栏位才能使用，而另一些仅需拥有或使用就能起效。“奇物”是一种包罗万象的类别，凡是不属于法杖或武器等其他组别的，都归入其中。除非物品另有规定，任何人都可以使用奇物。奇物有两个主要类别：有栏位的和无栏位的。有栏位的物品占据一个魔法物品栏位，想从中受益的人必须穿戴它们。
+
+== 表 1-9：奇物 ==
+
+{| class="wikitable"
+|-
+! 次级次等奇物（Lesser Minor Item） !! 价格（Price）
+|-
+| [[位面缠带]]（Planar strap） || 500 GP
+|-
+| [[变换披风]] +1（Protean cloak +1） || 500 GP
+|-
+| [[异界答复透镜]]（Lens of otherworldly answers） || 1,150 GP
+|-
+| [[荆棘炸弹]]（Briar bomb） || 1,250 GP
+|-
+| [[羽光罗盘]]（Featherlight compass） || 1,500 GP
+|-
+| 变换披风 +2（Protean cloak +2） || 2,000 GP
+|-
+| [[黄昏饰物]]（Crepuscular trinket） || 4,000 GP
+|-
+! 高级次等奇物（Greater Minor Item） !! 价格（Price）
+|-
+| [[乡土时计]]（Homebound timepiece） || 4,000 GP
+|-
+| 变换披风 +3（Protean cloak +3） || 4,500 GP
+|-
+| [[魂抄羽笔]]（Soul scribe quill） || 4,500 GP
+|-
+! 次级中等奇物（Lesser Medium Item） !! 价格（Price）
+|-
+| 变换披风 +4（Protean cloak +4） || 8,000 GP
+|-
+| [[受膏者圣徽]]（Anointed holy symbol） || 10,000 GP
+|-
+| [[兔王子面具]]（Mask of the rabbit prince） || 12,000 GP
+|-
+| [[传送门发现手套]]（Portal-finding gloves） || 12,500 GP
+|-
+| 变换披风 +5（Protean cloak +5） || 12,500 GP
+|-
+| [[星仪]]（Astralabe） || 16,000 GP
+|-
+| [[位面钥石]]（Planar keystone） || 16,200 GP
+|-
+! 高级中等奇物（Greater Medium Item） !! 价格（Price）
+|-
+| [[位面锚定之靴]]（Boots of planar grounding） || 25,000 GP
+|-
+| [[过梁石]]（Lintel stone） || 26,000 GP
+|-
+! 次级高等奇物（Lesser Major Item） !! 价格（Price）
+|-
+| [[远行者面具]]（Mask of the far traveler） || 38,000 GP
+|}
+
+<small>出自《[[位面冒险]]》第46页起。本页引言与表格译自民间汉化 CHM（[https://pf1chm.pages.dev/topics/page_1567.html 原文]），价格已对照条目首行。</small>
+
+[[分类:扩展规则]]

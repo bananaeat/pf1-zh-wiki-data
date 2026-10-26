@@ -1,4 +1,6 @@
 {{速查导航|here=神祇}}
+<noinclude>{{消歧义|旧日支配者，莫尔迪基安}}</noinclude>
+{{PFS不可用}}
 {{神祇
 |name=莫尔迪基安
 |english_name=Mordiggian

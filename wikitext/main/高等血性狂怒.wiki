@@ -2,7 +2,7 @@
 |name=高等血性狂怒
 |english_name=Greater Blood Frenzy
 |pfs=否
-|description=被伤口的气味吸引，你进入几近无我的狂怒。
+|description=你的伤口使你陷入更深的狂怒。
 |prerequisites=血性狂怒能力，沙华鱼人
 |benefit=处于血性狂怒中时，你不再承受AC减值。此外，处于血性狂怒中时，如果你的两次爪抓攻击（或是至少两次爪抓攻击，要是你有额外肢体的话）都命中了同一敌人，你就可以发动撕裂特殊攻击，额外造成相当于你的爪抓伤害加上你的力量加值的1.5倍的伤害（最低为0）。
 |source=MC

@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=黑暗之眼|en=Eyes of Darkness|type=Su|domain=黑暗领域|source=核心规则书|text=在8级，你的视力不会受到照明条件的限制，即便是在绝对黑暗和魔法黑暗里。每天你能使用此能力的时间为等于1/2牧师等级的轮数，这些轮不需要是连续的。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

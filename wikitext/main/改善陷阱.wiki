@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Spell
 |name=改善陷阱
 |english_name=Improve trap

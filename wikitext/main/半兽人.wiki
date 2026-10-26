@@ -438,6 +438,8 @@
 {{Source|缘界英雄|Heroes from the Fringe|inline}}{{Source|格拉利昂的混种|Bastards of Golarion|inline}}
 
 == 可选天赋职业奖励 ==
+
+{{AI翻译|nocat=1|本段由 AI 照《进阶职业指南》英文原文译出，未经人工校对。}}半兽人兼具人类的多才多艺与兽人的凶悍。下列选项适用于天赋职业为所列职业的所有半兽人。
 ===[[炼金术师]]===
 [[炼金术师#炼金炸弹 (Bomb, Su)|炼金炸弹]]伤害+1/2。{{Source|进阶种族手册|Advanced Race Guide|inline}}
 
@@ -455,7 +457,7 @@
 每日[[吟游诗人#吟游表演 (Bardic Performance)|吟游表演]]总轮数+1。{{Source|进阶种族手册|Advanced Race Guide|inline}}
 
 ===[[吟游诗人]]===
-传递暗语的[[唬骗]]检定，解读暗语的[[察言观色]]检定和破解伪造文书的[[语言学]]检定+1/2。{{Source|惧怖冒险|Horror Adventures|inline}}
+传递暗语的[[唬骗]]检定，解读暗语的[[察言观色]]检定和破解不寻常笔迹的[[语言学]]检定+1/2。{{Source|惧怖冒险|Horror Adventures|inline}}
 
 ===[[血脉狂怒者]]===
 血脉狂怒者的每日[[血脉狂怒者#血怒|血怒]]总轮数+1。{{Source|进阶职业指南|Advanced Class Guide|inline}}

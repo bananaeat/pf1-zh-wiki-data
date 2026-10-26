@@ -1,9 +1,9 @@
 {{AI翻译|本页由 AI 照 AoN 英文原文译出（Bastards of Golarion pg. 28），CHM 汉化里没有这一条的译文，未经人工校对。}}
+{{PFS特殊|1=仅当你的角色所属族群与该特性所在章节的族群相同时才可用。|ai=1}}
 {{Trait
 |name=巧言操纵
 |english_name=Creative Manipulator
 |type=种族
-|pfs=否
 |prerequisites=替换儿
 |description=每天一次，你可以重骰一次你刚刚进行的魅力检定。你必须采用第二次掷骰的结果，即使它更差。
 |source_name=格拉利昂的混种

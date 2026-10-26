@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=缠手布
 |english_name=Handwraps

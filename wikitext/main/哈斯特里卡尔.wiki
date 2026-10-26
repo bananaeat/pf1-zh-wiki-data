@@ -1,0 +1,45 @@
+{{速查导航|here=神祇}}
+{{AI翻译|本页由 AI 照《永罪之书》（Book of the Damned）英文原书译出（民间汉化 CHM 没有），未经人工校对。符号、圣兽、圣色三项据 AoN 译出。}}
+{{PFS不可用}}
+{{神祇
+|name=哈斯特里卡尔
+|english_name=Hastrikhal
+|title=体内之火（The Fires Within）
+|alignment=中立邪恶（NE）
+|weapon=[[矛]]
+|portfolio=爆炸，焚身，纵火狂
+|domains=[[毁灭领域|毁灭]]，[[邪恶领域(领域)|邪恶]]，[[火领域|火]]，[[狂乱领域|狂乱]]
+|subdomains=[[火领域#灰烬子域 (Ash)|灰烬子域]]，[[毁灭领域#天灾子域 (Catastrophe)|天灾子域]]，[[邪恶领域(领域)#邪魔子域 (Daemon)|邪魔子域]]，[[火领域#烟幕子域 (Smoke)|烟幕子域]]
+|symbol=火焰与烟雾的螺旋
+|symbol_label=邪徽
+|color=灰色，橙色
+|pantheon=邪魔先驱
+|source=内海诸神、永罪之书
+}}
+
+'''哈斯特里卡尔'''（Hastrikhal）是一位[[邪魔先驱]]。
+
+== 简介 ==
+
+体内之火哈斯特里卡尔的外形是一名年轻女子，头发是一团翻涌的油腻烟雾。
+
+== 服从仪典与神恩 ==
+
+=== 服从仪典 ===
+
+点燃一座有人居住的建筑，并看着它燃烧。你在对抗火焰效果的豁免检定中获得+4亵渎加值。
+
+=== 神恩 ===
+
+通过[[魔族仪典]]获得，均为每日各2次的类法术能力：
+
+{{神恩|n=1|name=|en=|type=Sp|text=每日2次，你可以施展[[炽焰法球]]。}}
+
+{{神恩|n=2|name=|en=|type=Sp|text=每日2次，你可以施展[[火墙术]]。}}
+
+{{神恩|n=3|name=|en=|type=Sp|text=每日2次，你可以施展[[游荡烈焰]]。}}
+
+<small>出自《[[永罪之书]]》第114页。</small>
+
+{{AoN原文|1=DeityDisplay.aspx?ItemName=Hastrikhal|2=Hastrikhal}}
+[[分类:魔神]]

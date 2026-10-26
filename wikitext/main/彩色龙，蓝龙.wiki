@@ -146,10 +146,7 @@
 
 === 基值数据 ===
 
-* CR 5；体型 小型；HD 6d12
-* 速度 40 尺，掘洞 20 尺
-* 天生护甲 +5；喷吐武器 线形，2d8 闪电
-* 力量 13，敏捷 14，体质 13，智力 10，感知 11，魅力 10
+{{数据块|内容1='''CR''' 5；'''体型''' 小型；'''HD''' 6d12；'''速度''' 40 尺，掘洞 20 尺；'''天生护甲''' +5；'''喷吐武器''' 线形，2d8 闪电；力量 13，敏捷 14，体质 13，智力 10，感知 11，魅力 10}}
 
 <div class="monster-table-wrap"><table class="wikitable"><tr><th>年龄层</th><th>特殊能力</th><th>施法者等级</th></tr><tr><td>雏龙 Wyrmling</td><td>沙之干渴，电击免疫</td><td>–</td></tr><tr><td>幼龙 Very young</td><td>模仿声音</td><td>–</td></tr><tr><td>少年 Young</td><td>[[幻音术]]</td><td>–</td></tr><tr><td>青少年 Juvenile</td><td>凶威，弱效幻影</td><td>1 级</td></tr><tr><td>青年 Young adult</td><td>DR 5/魔法，法术抗力</td><td>3 级</td></tr><tr><td>成年 Adult</td><td>闪电灵氲，[[腹语术]]</td><td>5 级</td></tr><tr><td>壮年 Mature adult</td><td>DR 10/魔法</td><td>7 级</td></tr><tr><td>老年 Old</td><td>幻像，幻景</td><td>9 级</td></tr><tr><td>极老 Very old</td><td>DR 15/魔法</td><td>11 级</td></tr><tr><td>古龙 Ancient</td><td>风暴之息</td><td>13 级</td></tr><tr><td>上古龙 Wyrm</td><td>DR 20/魔法</td><td>15 级</td></tr><tr><td>太古龙 Great wyrm</td><td>沙暴，海市蜃楼</td><td>17 级</td></tr></table></div>
 }}

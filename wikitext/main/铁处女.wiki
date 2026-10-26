@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{装备
 |name=铁处女
 |english_name=Iron maiden

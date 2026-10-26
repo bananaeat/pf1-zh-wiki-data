@@ -1,8 +1,10 @@
+{{PFS不可用}}
 {{魔法物品
 |name=雾影剑
 |english_name=Sword of the Mists
 |aon=MagicArtifactsDisplay.aspx?ItemName=Sword of the Mists
 |cat=神器
+|mythic=是
 |tier=次级神器
 |base=[[巨剑]]
 |enh=+6 护体

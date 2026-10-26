@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{武器
 |name=中型抛石机
 |english_name=Trebuchet, standard

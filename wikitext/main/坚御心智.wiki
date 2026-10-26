@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=坚御心智|en=Guarded Mind|type=Ex|domain=虚空领域|source=永罪之书|text=对抗影响心灵效果时，你的豁免获得+2洞察加值。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

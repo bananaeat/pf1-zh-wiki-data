@@ -1,4 +1,4 @@
 <noinclude>{{牧师导航}}
 </noinclude>{{领域能力|name=群星归位|en=The Stars Are Right|type=Su|domain=虚空领域|sub=星辰子域 (Stars)|sub_name=星辰子域|source=惧怖冒险|text=如果你在可以观察到星空的环境下准备牧师法术，那么你可以将同级的法术位用来自发施放星辰子域的[[领域法术]]。另外，在可以观察到星空的环境下，你施放的任何星辰子域的领域法术将为你恢复相当于该法术环位的生命值；这个效果将在你施法的同时发生。此能力替换[[虚空领域#错裂面纱 (Part the Veil, Su)|错裂面纱]]能力。}}<noinclude>
 
-[[分类:领域]]</noinclude>
+[[分类:领域能力]]</noinclude>

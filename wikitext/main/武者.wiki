@@ -1,3 +1,4 @@
+{{PFS不可用}}
 {{Class
 |name=武者
 |english_name=Warrior
